@@ -1003,7 +1003,7 @@ def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     assert markdown.startswith("| Item | Skills | Materials |")
 
 
-def test_image_bearing_infobox_preserves_breaks_and_removes_filename_captions() -> None:
+def test_image_bearing_infobox_preserves_images_in_pipe_table() -> None:
     fragment = """<table class="infobox"><tbody><tr><td>
 <strong>Acorn Bannock</strong><br />
 <img src="../assets/Acorn_Bannock_icon.png" alt="Acorn_Bannock_icon.png" /> /
@@ -1015,11 +1015,13 @@ def test_image_bearing_infobox_preserves_breaks_and_removes_filename_captions() 
 
     markdown = _html_fragment_to_markdown(fragment)
 
-    assert "**Acorn Bannock**<br>" in markdown
-    assert "[Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
+    assert "| Property | Details |" in markdown
+    assert "**Acorn Bannock**" in markdown
+    assert "![Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
     assert "_Acorn\\\\_Bannock\\\\_icon.png_" not in markdown
-    assert "**Release:** 21 June 2023<br>" in markdown
-    assert " / " not in markdown
+    assert "**Release:** 21 June 2023" in markdown
+    assert "**Wintermute:** No" in markdown
+    assert "<br>" not in markdown
 
 
 def test_image_bearing_data_table_with_headers_keeps_pipe_table_layout() -> None:
@@ -1097,7 +1099,7 @@ def test_markdown_images_get_readable_alt_text_from_filename() -> None:
     )
 
 
-def test_image_bearing_infobox_renders_images_outside_pipe_tables(
+def test_image_bearing_infobox_renders_images_in_pipe_tables(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     def fail_pandoc(
@@ -1120,16 +1122,16 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
 
     assert not failed
     assert not note
-    assert "[Balaclava icon](../assets/Balaclava_icon.png)" in markdown
+    assert "| Property | Details |" in markdown
+    assert "![Balaclava icon](../assets/Balaclava_icon.png)" in markdown
     assert "_Balaclava\\_icon.png_" not in markdown
-    assert "![Balaclava icon]" not in markdown
     assert "**General**" in markdown
-    assert "**Item Type:** Clothing" in markdown
+    assert "Item Type" in markdown and "Clothing" in markdown
     assert "**Statistics**" in markdown
-    expected_weight = "**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg"
-    assert expected_weight in markdown
-    assert "| Property | Details |" not in markdown
-    assert r"\|-" not in markdown
+    assert "![Weight icon](../assets/Weight_icon.png)" in markdown
+    assert "0.25 kg" in markdown
+    assert "<br>" not in markdown
+    assert r"\\|-" not in markdown
 
 
 def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
@@ -1654,10 +1656,11 @@ def test_page_markdown_removes_orphan_language_footer_after_empty_section() -> N
     assert "[ru:" not in markdown
 
 
-def test_page_markdown_strips_raw_and_escaped_html_tags_without_dropping_text() -> None:
+def test_page_markdown_strips_html_tags_and_decodes_visible_entities() -> None:
     body = (
         'Before<span id="fnref1"></span>after '
         "&lt;ref&gt;quoted reference&lt;/ref&gt; "
+        "History &amp; Timeline; keep `&amp;` as code. "
         "<!-- legacy anchor --> <https://example.org>"
     )
 
@@ -1665,8 +1668,11 @@ def test_page_markdown_strips_raw_and_escaped_html_tags_without_dropping_text() 
 
     assert "Before after" in markdown
     assert "quoted reference" in markdown
+    assert "History & Timeline" in markdown
+    assert "`&amp;`" in markdown
     assert "<span" not in markdown
     assert "&lt;ref" not in markdown
+    assert "&amp; Timeline" not in markdown
     assert "<!--" not in markdown
     assert "<https://example.org>" in markdown
 

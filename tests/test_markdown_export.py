@@ -680,20 +680,17 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
     assert "&lt;a" not in markdown
 
 
-def test_recovered_html_tables_use_pandoc_before_custom_renderer(
+def test_recovered_html_tables_use_custom_renderer_after_table_repair(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
-    calls: list[tuple[str, str]] = []
-
-    def render_with_pandoc(
-        _pandoc: str, _text: str, source_format: str, target_format: str
+    def fail_pandoc(
+        _pandoc: str, _text: str, _source_format: str, _target_format: str
     ) -> str:
-        calls.append((source_format, target_format))
-        return "DLC-Exclusive content is preserved."
+        raise AssertionError("Recovered custom tables should use the Markdown renderer")
 
-    monkeypatch.setattr(markdown_export_module, "_run_pandoc", render_with_pandoc)
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fail_pandoc)
     fragment = """<table><tbody><tr>
-<td><img src="../assets/Ptarmigan_icon.png" /></td>
+<td><img src="../assets/Ptarmigan_icon.png" alt="Ptarmigan_icon.png" /></td>
 <td><strong>DLC-Exclusive content.</strong></td>
 </tr></tbody></table>"""
     recovery_note = (
@@ -707,8 +704,9 @@ def test_recovered_html_tables_use_pandoc_before_custom_renderer(
 
     assert not failed
     assert note == recovery_note
-    assert calls == [("html", "gfm")]
-    assert "DLC-Exclusive content is preserved." in markdown
+    assert "![](../assets/Ptarmigan_icon.png)" in markdown
+    assert "**DLC-Exclusive content.**" in markdown
+    assert "Ptarmigan\\_icon.png" not in markdown
 
 
 def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
@@ -766,12 +764,12 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
     assert not failed
     assert not note
     assert "![](../assets/Balaclava_icon.png)" in markdown
-    assert "_Balaclava\\_icon.png_" in markdown
+    assert "_Balaclava\\_icon.png_" not in markdown
     assert "**General**" in markdown
     assert "**Item Type:** Clothing" in markdown
     assert "**Statistics**" in markdown
     expected_weight = (
-        "**Weight:** ![weight\\_icon.png](../assets/Weight_icon.png)0.25 kg"
+        "**Weight:** ![](../assets/Weight_icon.png)0.25 kg"
     )
     assert expected_weight in markdown
     assert "| Property | Details |" not in markdown
@@ -911,6 +909,25 @@ def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
     assert "- [Bunker Beta](./Bunker_Beta.md)" in markdown
     assert " / " not in markdown
     assert "| Column 1 |" not in markdown
+
+
+def test_multi_column_list_table_omits_redundant_image_filename_caption() -> None:
+    fragment = """<table><tbody>
+<tr><th>Image</th><th>Item</th><th>Notes</th></tr>
+<tr>
+<td><img src="../assets/Canned_Corn_icon.png" alt="Canned_Corn_icon.png" /> /
+<em>Canned_Corn_icon.png</em></td>
+<td>Canned Corn</td>
+<td><ul><li>Food item</li><li>Trader inventory</li></ul></td>
+</tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "![](../assets/Canned_Corn_icon.png)" in markdown
+    assert " / _Canned\\_Corn\\_icon.png_" not in markdown
+    assert "![Canned\\_Corn\\_icon.png]" not in markdown
+    assert "| Canned Corn |" in markdown
 
 
 def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None:
@@ -1182,6 +1199,26 @@ def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:
 |}
 """
     )
+
+
+def test_repair_unclosed_mediawiki_table_closes_before_following_section() -> None:
+    source = """{| class="infobox"
+|-
+| Infobox content
+== Overview ==
+The article body must remain outside the infobox.
+"""
+
+    repaired, count = _repair_unclosed_mediawiki_tables(source)
+
+    assert count == 1
+    assert repaired == """{| class="infobox"
+|-
+| Infobox content
+|}
+== Overview ==
+The article body must remain outside the infobox.
+"""
 
 
 def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() -> None:

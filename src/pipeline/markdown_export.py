@@ -1547,6 +1547,24 @@ def _heading_precedes_another_anchored_heading(
     )
 
 
+def _preferred_heading_anchor_identifier(
+    identifiers: list[str], heading_label: str
+) -> str:
+    """Choose the anchor matching the normalized visible heading label."""
+    label = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", heading_label)
+    label = re.sub(chr(96), "", label)
+    slug = _markdown_heading_slug(html.unescape(label))
+    return next(
+        (
+            identifier
+            for identifier in identifiers
+            if identifier == slug
+            or re.fullmatch(re.escape(slug) + r"-\d+", identifier)
+        ),
+        slug or identifiers[0],
+    )
+
+
 def _append_heading_anchor_aliases(
     output: list[str], identifiers: list[str], preferred: str
 ) -> None:
@@ -1600,18 +1618,8 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
             index = next_index + 1
             continue
 
-        label = heading_match.group("label")
-        label = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", label)
-        label = re.sub(chr(96), "", label)
-        slug = _markdown_heading_slug(html.unescape(label))
-        preferred = next(
-            (
-                identifier
-                for identifier in identifiers
-                if identifier == slug
-                or re.fullmatch(re.escape(slug) + r"-\d+", identifier)
-            ),
-            slug or identifiers[0],
+        preferred = _preferred_heading_anchor_identifier(
+            identifiers, heading_match.group("label")
         )
         _append_heading_anchor_aliases(output, identifiers, preferred)
         output.append(f"<!-- #{preferred} -->")

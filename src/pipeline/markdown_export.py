@@ -882,7 +882,7 @@ def _imagemap_rectangle_link(target: str) -> str | None:
     label = label.strip()
     if not page:
         return None
-    if separator and label:
+    if separator and label and label.casefold() != page.casefold():
         return f"[[{page}|{label}]]"
     return f"[[{page}]]"
 

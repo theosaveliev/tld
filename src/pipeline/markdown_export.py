@@ -2276,6 +2276,11 @@ def _table_has_list_content(rows: list[list[lhtml.HtmlElement]]) -> bool:
     )
 
 
+def _table_is_single_column(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether every row in a table contains at most one cell."""
+    return all(len(row) == 1 for row in rows)
+
+
 def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Render list-bearing table cells as standalone Markdown blocks."""
     blocks = [
@@ -2395,7 +2400,7 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_image_layout_table(rows)
     elif _table_has_wide_row(rows):
         table = _render_generic_table(rows)
-    elif _table_has_list_content(rows):
+    elif _table_has_list_content(rows) and _table_is_single_column(rows):
         table = _render_list_content_table(rows)
     else:
         table = _render_other_html_table(rows, table_classes, has_images, caption)

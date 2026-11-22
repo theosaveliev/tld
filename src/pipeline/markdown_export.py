@@ -3868,9 +3868,9 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
         if not separator or (path and not path.endswith(".md")):
             continue
         decoded = urllib.parse.unquote(fragment)
-        slug = heading_slugs.get(decoded)
-        if slug is not None:
-            link.set("href", path + "#" + slug)
+        normalized_slug = heading_slugs.get(decoded)
+        if normalized_slug is not None:
+            link.set("href", path + "#" + normalized_slug)
 
 def _table_has_spanned_cells(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Return whether an HTML table uses merged rows or columns."""

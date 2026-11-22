@@ -1097,6 +1097,32 @@ def test_html_wrapper_table_renders_nested_table_without_flattening() -> None:
     assert "Before the nested table. /" not in markdown
 
 
+def test_page_markdown_removes_repeated_image_captions_outside_tables() -> None:
+    fence = chr(96) * 3
+    body = (
+        "![](../assets/Ptarmigan_icon.png)\n\n"
+        "_Ptarmigan\\\\_icon.png_\n\n"
+        "![Entrance](../assets/Abandoned_Mine.jpg)\n\n"
+        "_Entrance_\n\n"
+        "![Wolf](../assets/Wolf.jpg)\n\n"
+        "_A wolf in the snow_\n\n"
+        f"{fence}markdown\n"
+        "![](../assets/Example.png)\n\n"
+        "_Example.png_\n"
+        f"{fence}\n"
+    )
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "![](../assets/Ptarmigan_icon.png)" in markdown
+    assert "_Ptarmigan\\\\_icon.png_" not in markdown
+    assert "![Entrance](../assets/Abandoned_Mine.jpg)" in markdown
+    assert "_Entrance_" not in markdown
+    assert "_A wolf in the snow_" in markdown
+    assert f"{fence}markdown" in markdown
+    assert "_Example.png_" in markdown
+
+
 def test_page_markdown_strips_wikitext_table_row_artifacts() -> None:
     body = r"**Item type:** [Collectibles](./Collectibles.md)\|-"
 

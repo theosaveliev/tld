@@ -301,6 +301,12 @@ def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() ->
     assert resolve_internal_href(
         "The Long Dark/Changelog#2.17", "Backpack", mapping, {}
     ) == "./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17"
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#0.00", "Backpack", mapping, {}
+    ) == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#0.01", "Backpack", mapping, {}
+    ) == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
 
 
     assert resolve_internal_href(
@@ -1664,7 +1670,8 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
 
 def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> None:
     root = lhtml.fragment_fromstring(
-        '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>',
+        '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>'
+        "<h2>Aurora Wolves</h2>",
         create_parent="div",
     )
 
@@ -1675,6 +1682,7 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
 
     assert '<span id="0.233"></span>' in markdown
     assert '<span id="0233-silent-hunter-update"></span>' in markdown
+    assert '<span id="aurora_wolves"></span>' in markdown
     assert "## 0.233 (Silent Hunter Update)" in markdown
 
 

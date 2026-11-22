@@ -28,8 +28,10 @@
 
 **Outside:** 10.0% per day
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Rabbit Carcass** is a carcass obtained from hunting [Rabbits](./Rabbit.md).
@@ -38,8 +40,10 @@ Rabbit carcasses can be harvested to obtain raw Rabbit Meat, Rabbit Pelts, and F
 
 When harvesting, 50% of the weight of the Rabbit carcass is converted into raw rabbit meat.
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 |  | Item | Quantity | Rarity |
@@ -48,8 +52,16 @@ When harvesting, 50% of the weight of the Rabbit carcass is converted into raw r
 | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 | Always |
 | [Missing image: Gut\_icon.png]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 1 | Always |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**

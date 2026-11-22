@@ -22,8 +22,16 @@ The **Crash Site** is a crashed airliner brought down by the [First Flare](./Fir
 
 The plane itself is marked as North Star Charters Flight 7030.
 
-<span id="survival_mode"></span><span id="Survival_mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_mode -->
+​
+
+<!-- #Survival_Mode -->
+​
+
+<!-- #survival-mode -->
 ## Survival mode
 
 The scattered debris of the passenger airliner is mostly centered around Skeeters' Ridge. The back section of the plane cabin is accessible by one of the plane passenger doors. The site can also be reached by a path on the opposite of the debris field.
@@ -32,8 +40,10 @@ The area is well known for having many [Suitcases](./Suitcase.md), which often c
 
 Unlike the crate-filled [Tail Section](./Tail%20Section.md) that broke off on the summit of [Timberwolf Mountain](./Timberwolf%20Mountain.md) or the small private plane crash site in [Mountain Town](./Mountain%20Town.md), the death toll of this aurora-induced tragedy is apparent. There are no survivors outside of Story mode, and many of the passengers bodies can be found within the crash site area.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![SS PV crash 04](../assets/SS-PV-crash-04.jpg)

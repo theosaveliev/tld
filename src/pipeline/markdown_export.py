@@ -362,9 +362,7 @@ def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str
     compact = _compact_title_key(title)
     if compact:
         compact_keys = [
-            key
-            for key in title_to_filename
-            if _compact_title_key(key) == compact
+            key for key in title_to_filename if _compact_title_key(key) == compact
         ]
         if len({key.casefold() for key in compact_keys}) > 1:
             return None
@@ -825,9 +823,7 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
         ),
         cleaned,
     )
-    cleaned = WIKITEXT_NBSP_CELL_RE.sub(
-        r"\g<marker>&nbsp;\g<line_ending>", cleaned
-    )
+    cleaned = WIKITEXT_NBSP_CELL_RE.sub(r"\g<marker>&nbsp;\g<line_ending>", cleaned)
     return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker>&nbsp;", cleaned)
 
 
@@ -1345,17 +1341,12 @@ def _external_interwiki_href(href: str) -> str | None:
                 safe="!()*+,-._~:",
             )
             result = f"https://thelongdark.fandom.com/wiki/{article}"
-        elif (
-            language is not None
-            and language.group(1).casefold() not in {"w", "wk"}
-        ):
+        elif language is not None and language.group(1).casefold() not in {"w", "wk"}:
             article = urllib.parse.quote(
                 urllib.parse.unquote(language.group(2)).replace(" ", "_"),
                 safe="!()*+,-._~:",
             )
-            result = (
-                f"https://{language.group(1).lower()}.wikipedia.org/wiki/{article}"
-            )
+            result = f"https://{language.group(1).lower()}.wikipedia.org/wiki/{article}"
         else:
             return None
     return result + ("#" + fragment if separator else "")
@@ -1558,8 +1549,7 @@ def _preferred_heading_anchor_identifier(
         (
             identifier
             for identifier in identifiers
-            if identifier == slug
-            or re.fullmatch(re.escape(slug) + r"-\d+", identifier)
+            if identifier == slug or re.fullmatch(re.escape(slug) + r"-\d+", identifier)
         ),
         slug or identifiers[0],
     )
@@ -1569,7 +1559,9 @@ def _append_heading_anchor_aliases(
     output: list[str], identifiers: list[str], preferred: str
 ) -> None:
     """Preserve nonpreferred heading aliases as hidden compatibility comments."""
-    aliases = list(dict.fromkeys(identifier for identifier in identifiers if identifier))
+    aliases = list(
+        dict.fromkeys(identifier for identifier in identifiers if identifier)
+    )
     for alias in aliases:
         if alias != preferred:
             output.extend((f"<!-- #{alias} -->", "\u200b", ""))
@@ -2167,7 +2159,7 @@ def _expand_page(
 
 
 PANDOC_UNEXPECTED_REF_CLOSE_RE = re.compile(
-    r'line\s+(?P<line>\d+),\s*column\s+(?P<column>\d+).*?'
+    r"line\s+(?P<line>\d+),\s*column\s+(?P<column>\d+).*?"
     r'unexpected\s+\(TagClose\s+"ref",\s*"</ref>"\)',
     re.IGNORECASE | re.DOTALL,
 )
@@ -2229,14 +2221,9 @@ def _render_mediawiki_html(
             return html_fragment, "ok", ""
 
     repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(candidate)
-    if (
-        "unexpected end of input" in str(last_error).casefold()
-        and repaired_tables
-    ):
+    if "unexpected end of input" in str(last_error).casefold() and repaired_tables:
         try:
-            html_fragment = _run_pandoc(
-                pandoc, repaired_text, "mediawiki", "html"
-            )
+            html_fragment = _run_pandoc(pandoc, repaired_text, "mediawiki", "html")
         except Exception as repair_error:
             conversion_note = (
                 f"{conversion_stage} still failed after closing "
@@ -2258,9 +2245,7 @@ def _render_mediawiki_html(
             conversion_note = "Recovered by " + " and ".join(recovery_parts) + "."
             return html_fragment, "repaired", conversion_note
     else:
-        conversion_note = (
-            f"{conversion_stage} rejected expanded wikitext: {last_error}"
-        )
+        conversion_note = f"{conversion_stage} rejected expanded wikitext: {last_error}"
 
     source_text = _sanitize_expanded_wikitext(page.text)
     html_fragment = _run_pandoc(pandoc, source_text, "mediawiki", "html")

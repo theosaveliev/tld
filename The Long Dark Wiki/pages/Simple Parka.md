@@ -36,8 +36,10 @@
 
 **Simple Parka** is a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Simple Parka is a low-tier coat and common starting item.
@@ -50,8 +52,16 @@ Similar to the [Ski Jacket](./Ski%20Jacket.md), but the parka weighs 0.25 kg (0.
 
 ![old model](../assets/Basic_winter_coat_%28historical%29.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

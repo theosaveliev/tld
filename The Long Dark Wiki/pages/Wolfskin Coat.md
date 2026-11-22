@@ -41,8 +41,10 @@
 
 The **Wolfskin Coat** is a type of craftable clothing in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Wolfskin Coats have high warmth, windproof, protection, waterproof and durability along with a chance to frighten nearby wolves when worn; however they also have relatively high weight and mobility penalty. They are comparable in stats to the rare [Expedition Parka](./Expedition%20Parka.md), but can be crafted making them more accessible (such as on Interloper, where parkas cannot spawn). It is produced from cured wolf pelts.
@@ -55,13 +57,13 @@ Since [wolves](./Wolf.md) are less dangerous than [bears](./Bear.md) or [moose](
 
 In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature's balance in the [Survival School](./Survival%20School.md) quest.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Wolfskin Coat**
-
-
 
 1500 minutes (25 hour 0 minutes)
 
@@ -75,8 +77,10 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 **Quantity:** 4
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Wolfskin_Coat_Model_icon.png)
@@ -85,8 +89,16 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 ![Old model.](../assets/Wolfskin_Coat_-_back.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

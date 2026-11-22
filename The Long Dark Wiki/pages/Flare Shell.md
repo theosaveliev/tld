@@ -34,8 +34,10 @@
 
 **Flare Shell**s are non-craftable ammunition items.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Flare shells are the ammunition for the [Distress Pistol](./Distress%20Pistol.md). When fired they glow brightly for 15 game minutes and travel whole in an arching path until they contact a solid surface. After coming to rest, they remain in the environment indefinitely but cannot be further interacted with. Grounded flares cannot scare off predators after landing, only body shots will frighten predators. While a burning round does look like a [Flare](./Flare.md), it does not give off any heat and cannot be used to light a [Fire](./Fire.md).
@@ -44,28 +46,42 @@ They are always found in 100% condition and stack in the inventory. Flare Shells
 
 Occasionally, after shooting a flare shell and sticking any wildlife with a direct hit, the flare shell will be able to be picked up and reused after burning out. The reason behind this is unknown, but it seems to be a bug.
 
-<span id="locating"></span><span id="Locating"></span>
+<!-- #Locating -->
+​
 
+<!-- #locating -->
 ## Locating
 
 Flare Shells are often found in an [Emergency Kit](./Emergency%20Kit.md) with the Distress Pistol. They are also sometimes discovered inside toolbox drawers or on [frozen corpses](./Frozen%20Corpse.md) or perhaps inside lockers. The Stockpile version of the [prepper cache](./Prepper%20Cache.md) always contains some, if that can be found. Flare Shells can also be obtained via [beachcombing](./Beachcombing.md) (not on Interloper).
 
 Flare Shells cannot spawn inside containers on Interloper and Misery modes.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 Flare shells always appear as a 12-Gauge Flare shells.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An example of a flare shell being pickup and reusable after sticking a bear.](../assets/Reuseable_flare_shell.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**

@@ -22,14 +22,24 @@
 
 **Cloth** is a material in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="general_information"></span><span id="General_Information"></span><span id="general-information"></span>
+<!-- #general_information -->
+​
 
+<!-- #General_Information -->
+​
+
+<!-- #General_information -->
+​
+
+<!-- #general-information -->
 ## General Information
 
 It can be used to repair [Clothing](./Clothing.md) in conjunction with a [Sewing Kit](./Sewing%20Kit.md) and can also be harvested for [Bandages](./Bandage.md). Cloth is also needed for crafting a [Torch](./Torch.md), [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md), [Improvised Knife](./Improvised%20Knife.md), and [Improvised Hatchet](./Improvised%20Hatchet.md). Cloth can be acquired by finding it on the ground, harvesting Clothing or environmental objects ([Cloth (Object)](./Cloth%20%28Object%29.md), [Old Bedrolls](./Old%20Bedroll.md), [Pillows](./Pillow.md), [Curtains](./Curtain.md), [Towels](./Towel.md)) or as a by-product of breaking down certain furniture, like comfy chairs or couches.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -49,8 +59,10 @@ It can be used to repair [Clothing](./Clothing.md) in conjunction with a [Sewing
 | [Snow Shelter](./Snow%20Shelter.md) | None | - 15 × [Stick](./Stick.md)<br>- 5 × [Cloth](./Cloth.md) |
 | [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![3D model](../assets/Cloth.png)

@@ -16,8 +16,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Pemmican Bar**
 
 [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png)
@@ -54,8 +52,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Pemmican Bar** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md) for the Recipe Card of the same name.
@@ -68,15 +68,16 @@ Cooking the ingredients generates four (4) bars, each weighing 0.0625kg (stackin
 
 Pemmican Bars do not produce [Scent](./Scent.md), and are the lightest food item in the game, as well as the most calorically dense food item. This makes then an excellent food for traveling and maximizing carry weight.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 Pemmican Bar is a recipe that can be created in 2 different containers.
 
 **Pemmican Bar**
 
-
 40 minutes
 
 [Rose Hip](./Rose%20Hip.md)
@@ -101,7 +102,6 @@ Pemmican Bar is a recipe that can be created in 2 different containers.
 
 **Pemmican Bar**
 
-
 40 minutes
 
 [Rose Hip](./Rose%20Hip.md)
@@ -124,19 +124,33 @@ Pemmican Bar is a recipe that can be created in 2 different containers.
 
 **Quantity:** 0.50 kg
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Real world Pemmican is quite famous for lasting a very long time (from 6 months to several years). It is often used in very poor survival situations, and is often typically associated with the diets of various Native American tribes or being used by American Voyager settlers.
 - Pemmican is typically composed of dried meat pounded into a coarse powder or mash, then mixed with an equal amount of melted fat and cooked. Occasionally, berries are added to the mix (Rose Hips are used in game).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old icon](../assets/Pemmican_Bar_icon_%28old%29.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
+
+[ru:Пеммикан](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BC%D0%BC%D0%B8%D0%BA%D0%B0%D0%BD)

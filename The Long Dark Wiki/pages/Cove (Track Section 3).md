@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Cove**
 
 \[\[File:
@@ -38,8 +36,10 @@ A natural tunnel that leads to a Cabin.
 
 Has no shelter **Cove** is a location in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A tunnel in the middle-eastern part of the map. This location has a long natural tunnel that leads to a cliffside with a Cabin, the tunnel has to be traversed on foot, not by train. Some [Green Birch Sapling](./Green%20Birch%20Sapling.md) can be found near the Cabin. A [Bear](./Bear.md) patrols the tunnel, so use caution when travelling to the Cabin.

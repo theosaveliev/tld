@@ -47,8 +47,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 > “**Steep climbs and some of the rockiest terrain to be found on Great Bear Island hide a remote installation that holds secrets to the Island's dark history. Beware.**”
 >
 > — Official Hinterland Description
@@ -61,8 +59,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Sundered Pass** is the 16th [Region](./Region.md) added to _[The Long Dark](./The%20Long%20Dark.md)_, released in Part 5 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. A cold and hostile mountainous region, it connects with [Transfer Pass](./Transfer%20Pass.md), [Forsaken Airfield](./Forsaken%20Airfield.md), and [Zone of Contamination](./Zone%20of%20Contamination.md), with a sign pointing motorists to a road (likely to the [Weather Station](./Weather%20Station.md)) leading to a collapsed tunnel in Transfer Pass (though it must be bypassed via [Rope Climbing](./Rope%20Climbing.md)).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Sundered Pass is vertical and mountainous region of open meadows and narrow valleys. With steep terrain, extreme cold, and abundant [timberwolf packs](./Timberwolf.md) with few shelters, it is one of the most challenging regions to stay within for long periods of time. A network of A-frame cabins for hikers dots the eastern highlands along the main road, with many structures destroyed by avalanches or seismic activity. The map itself is very Oval shaped, however a large section of mountain to the east of the map is accessible. The region is the centerpiece of the [Last Horizon](./Last%20Horizon.md) Tale.
@@ -76,8 +76,10 @@ Sundered Pass connects with:
 - [Transfer Pass](./Transfer%20Pass.md) via rope climb and long, winding valley
 - [Forsaken Airfield](./Forsaken%20Airfield.md) or [Zone of Contamination](./Zone%20of%20Contamination.md) via a cave network
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #Survivability -->
+​
 
+<!-- #survivability -->
 ## Survivability
 
 Sundered Pass is extremely harsh and difficult to survive in: featuring extreme weather and abundant hostile wildlife, particularly on harder [survival modes](./Survival%20Mode.md). It is by far the coldest region (-20_C to -40_C on Interloper even with best-in-slot gear), [dropping in temperature](./Feels%20Like.md) further as altitude increases up the steep mountain roads.
@@ -90,22 +92,34 @@ A bear resides near Final Refuge.
 
 A possible moose location is north of Weather Station, in a small marsh below, or near [Ambler's Lake](./Ambler%27s%20Lake.md).
 
-<span id="description"></span><span id="Description"></span>
+<!-- #Description -->
+​
 
+<!-- #description -->
 ## Description
 
 Sundered Pass can be divided into three major regions: the lower-altitude woodland, the alpine plateau, and a mountain trail to the east of the map. It is possible to go between the two by following a trail on the region's western side, or by following the road in the central and eastern side of the region via [Lotte's Rest](./Lotte%27s%20Rest.md).
 
-<span id="woodland"></span><span id="Woodland"></span>
+<!-- #Woodland -->
+​
 
+<!-- #woodland -->
 ### Woodland
 
 The woodland consists of a large, forested valley. It offers good [deer](./Deer.md) and [rabbit](./Rabbit.md) hunting opportunities, as well as lots of natural resources and firewood to forage. Free-form [Ice Fishing](./Ice%20Fishing.md) can be practiced at the small lakes near [Seedling Spring](./Seedling%20Spring.md) or [Giant's Thumbprint](./Giant%27s%20Thumbprint.md). Other noteworthy landmarks include large waterfalls near [Ogre's Teardrop](./Ogre%27s%20Teardrop.md) and just northeast of the house, as well as the brook near [Juniper Runoff](./Juniper%20Runoff.md).
 
 While there are a few [wolves](./Wolf.md) in the forest, there's no [timberwolves](./Timberwolf.md) or [bears](./Bear.md) to think about. The forested valley is also home for [cougars](./Cougar.md). Most players who are staying in this area for any length of time will likely end up using the [Last Lonely House](./Last%20Lonely%20House.md) as a [safe house](./Safehouse.md), as it offers good shelter. Accessing the entirety of the house requires a [key](./An%20Old%20House%20Key.md), that can be found during the [Last Horizon](./Last%20Horizon.md) tale. If an unexpected blizzard pops up, there's a cave north of [Giant's Thumbprint](./Giant%27s%20Thumbprint.md) as well as south of the Last Lonely House.
 
-<span id="alpine_plateau"></span><span id="Alpine_Plateau"></span><span id="alpine-plateau"></span>
+<!-- #alpine_plateau -->
+​
 
+<!-- #Alpine_Plateau -->
+​
+
+<!-- #Alpine_plateau -->
+​
+
+<!-- #alpine-plateau -->
 ### Alpine Plateau
 
 This area is large, very open, and cold, with limited resources to forage, and limited hunting. The greatest hazard of this area is the multiple large roaming [Timberwolf](./Timberwolf.md) packs, making it almost impossible to visit this region without a weapon. One [Bear](./Bear.md) can spawn a short distance west of [Final Refuge](./Final%20Refuge.md), and a [Moose](./Moose.md) can be found on a pond not far from the [Weather Station](./Weather%20Station.md).
@@ -114,14 +128,24 @@ Due to the lack of trees, finding firewood in this area can be difficult. Visiti
 
 Those who are willing to brave the cold and timberwolves have several [safe house](./Safehouse.md) options. The [Weather Station](./Weather%20Station.md) offers a good view and is the only timberwolf-safe option, but it's really cold and has few resources in the immediate area. [Placid Notch](./Placid%20Notch.md) (Refuge Cabin B) offers shelter, a stove, and a bed relatively near a deer spawn, though it can be a bit cramped. [Final Refuge](./Final%20Refuge.md) (Refuge Cabin C) is similar to the previous one, but is closer to [Ambler's Lake](./Ambler%27s%20Lake.md) and the abandoned coal mine. The partially buried cabin at [Old Settlement](./Old%20Settlement.md) is the largest shelter and offers a good place from which to hunt timberwolves, but doesn't have an indoor fireplace.
 
-<span id="eastern_mountain_trail"></span><span id="Eastern_Mountain_Trail"></span><span id="eastern-mountain-trail"></span>
+<!-- #eastern_mountain_trail -->
+​
 
+<!-- #Eastern_Mountain_Trail -->
+​
+
+<!-- #Eastern_mountain_trail -->
+​
+
+<!-- #eastern-mountain-trail -->
 ### Eastern Mountain Trail
 
 This begins just east of [Ambler's Lake](./Ambler%27s%20Lake.md) at a very long [climb](./Rope%20Climbing.md). It then follows a long, narrow, intricate system of trails, rope climbs, and boardwalks to get to [High Peak Plateau](./High%20Peak%20Plateau.md) as part of [Last Horizon](./Last%20Horizon.md). Returning to the road near [Lotte's Rest](./Lotte%27s%20Rest.md) involves another rope climb. With limited shelter and resources along this route, most players will likely only travel through here as part of the Tale, as there are few resources in the mountain that hardly constitute a second return trip.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are a number of locations in the Sundered Pass, including:
@@ -164,8 +188,10 @@ There are also a few other unmarked locations:
   - [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md)
   - [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md)
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #Maps -->
+​
 
+<!-- #maps -->
 ## Maps
 
 ![A detailed map of Sundered pass v2.35 (contains spoilers)](../assets/SP_map_default.png)
@@ -178,12 +204,10 @@ There are also a few other unmarked locations:
 
 ![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg)
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Gallery -->
+​
 
-## Notes
-
-<span id="gallery"></span><span id="Gallery"></span>
-
+<!-- #gallery -->
 ## Gallery
 
 ![Concept art for Mountain Pass](../assets/Mountain_Pass_Concept_Art.jpg)

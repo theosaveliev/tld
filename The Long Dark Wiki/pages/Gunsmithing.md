@@ -24,8 +24,10 @@
 
 **Gunsmithing** is a Survival [Skill](./Skills.md) that enables the player to craft ammunition for the [Revolver](./Revolver.md) and [Hunting Rifle](./Hunting%20Rifle.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Gunsmithing skill allows the crafting of [Rifle Ammunition](./Rifle%20Ammunition.md) and [Revolver Ammunition](./Revolver%20Ammunition.md), but may only be utilized at the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) and [Ammunition Forge](./Ammunition%20Forge.md) inside:
@@ -41,16 +43,26 @@ At the Ammunition Workbench, three ingredients are needed to craft ammunition:
 2. [Can of Gunpowder](./Can%20of%20Gunpowder.md): crafted from one [Stump Remover](./Stump%20Remover.md), [Dusting Sulfur](./Dusting%20Sulfur.md) and two [Charcoal](./Charcoal.md) (producing 0.5kg of Gunpowder), or found rarely as loot. 0.01kg of gunpowder is required per round, so one Can of Gunpowder can produce 50 rounds.
 3. [Bullet](./Bullet.md): crafted from [Scrap Lead](./Scrap%20Lead.md) harvested from [Car Batteries](./Car%20Battery.md) with a [Hacksaw](./Hacksaw.md). One Car Battery contains 6 Scrap Lead, and each Scrap Lead can be made into 6 Bullet, so one Car Battery can produce 36 rounds.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 1. To craft bullets, you need to have the [Ammunition Forge](./Ammunition%20Forge.md) active and fueled. While active, you can craft Bullets at the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) in sets of 6 in one hour. Each set of 6 Bullets crafted awards 1 skill point.
 2. When crafting Gunpowder, it takes 30 minutes, but the forge does not need to be active to craft. Each container of gunpowder crafted awards 1 skill point.
 3. Crafted ammunition takes just 5 minutes per cartridge and does not require the forge to be active to craft. Each individual round awards 1 skill point when crafted.
 
-<span id="crafted_ammunition"></span><span id="Crafted_Ammunition"></span><span id="crafted-ammunition"></span>
+<!-- #crafted_ammunition -->
+​
 
+<!-- #Crafted_Ammunition -->
+​
+
+<!-- #Crafted_ammunition -->
+​
+
+<!-- #crafted-ammunition -->
 ## Crafted Ammunition
 
 Crafting quality Condition Revolver/Rifle Ammunition is based on the Gunsmithing skill Level, with lower levels producing lower quality cartridges that are more likely to misfire, no matter the Condition of the Hunting Rifle or Revolver. The quality and Condition of the crafted ammunition will always be found next to the name of the ammo:
@@ -63,8 +75,16 @@ Crafting quality Condition Revolver/Rifle Ammunition is based on the Gunsmithing
 
 Ammunition that is found in the game world will always be in "Perfect" condition.
 
-<span id="harvesting_ammunition"></span><span id="Harvesting_Ammunition"></span><span id="harvesting-ammunition"></span>
+<!-- #harvesting_ammunition -->
+​
 
+<!-- #Harvesting_Ammunition -->
+​
+
+<!-- #Harvesting_ammunition -->
+​
+
+<!-- #harvesting-ammunition -->
 ## Harvesting Ammunition
 
 A single Revolver/Rifle Cartridge can be harvested anywhere, and has a chance to produce the following after 5 minutes of [Harvesting](./Harvesting.md):
@@ -75,8 +95,10 @@ A single Revolver/Rifle Cartridge can be harvested anywhere, and has a chance to
 
 Higher level Gunsmithing Skill leads to a higher chance to recover most or all materials, but lower Gunsmithing Skill has a chance to successfully recover only 1 or 2 of the cartridge's components. One way to quickly level up Gunsmithing is to craft Poor quality ammunition and then simply harvest it at higher skill levels, then craft new ammunition again. Harvesting multiple rounds of ammunition can only be done one at a time however, making the process very tedious.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - It's possible to increase Gunsmithing skill to 5 before crafting any actual ammunition by reading enough Research Books and crafting Bullets (or Gunpowder). Players can avoid ever crafting ammo capable of misfiring.
@@ -86,8 +108,16 @@ Higher level Gunsmithing Skill leads to a higher chance to recover most or all m
 - In Interloper difficulty Car Batteries, Scrap Lead and crafted Bullets are useless since no Hunting Rifle or Revolver will ever spawn. However, Gunpowder (and in turn, Dusting Sulfur and Stump Remover) can still be used as a [Fire Accelerant](./Fire%20Starting.md) (though finite and rarer than [Lantern Fuel](./Lantern%20Fuel.md)) as well as for crafting [Noisemakers](./Noisemaker.md).
 - Gunsmithing is the fastest skill to level up, as long as you have the materials to craft ammunition. Each Rifle Cartridge or Revolver Cartridge crafted grants one skill point, and takes only 5 in game minutes to craft. You can craft as many as 24 rounds in only 2 in game hours, resulting in 24 skill points, or about 1/4 of all the skill points you need to get to level 5. Of course, the ammunition you will receive will not be full quality until you reach level 5.
 
-<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
+<!-- #skill_levels -->
+​
 
+<!-- #Skill_levels -->
+​
+
+<!-- #Skill_Levels -->
+​
+
+<!-- #skill-levels -->
 ## Skill levels
 
 Players can increase their Gunsmithing skill by:
@@ -110,8 +140,16 @@ Players can increase their Gunsmithing skill by:
 
 &lt;/table-progress-tracking&gt;
 
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_History -->
+​
+
+<!-- #Update_history -->
+​
+
+<!-- #update-history -->
 ## Update History
 
 \* HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**
@@ -129,3 +167,5 @@ Players can increase their Gunsmithing skill by:
   - Added new craftable item: Gunpowder
   - Added new craftable item: Bullet(s)
   - Added new craftable item: Ammunition
+
+[es:fabricación de armas](https://es.wikipedia.org/wiki/fabricaci%C3%B3n_de_armas) [fr:Fabrication de munitions](https://fr.wikipedia.org/wiki/Fabrication_de_munitions)

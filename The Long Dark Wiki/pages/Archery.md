@@ -28,8 +28,10 @@
 
 Archery's ability to deal ranged damage means that a player can attack animals (and especially predators) from positions of relative safety.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Archery requires some practice to use effectively and several factors should be taken into consideration with its use:
@@ -41,12 +43,16 @@ Archery requires some practice to use effectively and several factors should be 
 - _Usability:_the bow, unlike the rifle, cannot be fired while crouched until the player reaches Archery skill Level 5.
 - _Variants:_ bows and arrows both have variants that will affect damage type, available targets, resources used for crafting or trading and much more.
 
-<span id="equipment"></span><span id="Equipment"></span>
+<!-- #survival_bow -->
+​
 
-## Equipment
+<!-- #Survival_Bow -->
+​
 
-<span id="survival_bow"></span><span id="Survival_Bow"></span><span id="survival-bow"></span>
+<!-- #Survival_bow -->
+​
 
+<!-- #survival-bow -->
 ### Survival Bow
 
 The Survival Bow is a crafted weapon used to fire Arrows ([Simple Arrows](./Simple%20Arrow.md) and [Fire-hardened Arrows](./Fire%20Hardened%20Arrow.md) are crafted while [Manufactured Arrows](./Manufactured%20Arrow.md) are [traded](./Trader.md) for and can't be harvested). There is no aid to aiming or aim-down-sight like on the firearms, and the survivor must estimate when aiming. Bow condition will degrade about 1-2% per shot based on skill and cannot be repaired. However, the Survival Bow can be crafted at any point and there are loose spawns to be found in many regions (except on [Interloper](./Interloper.md) and [Misery](./Misery.md)).
@@ -56,8 +62,16 @@ The Survival Bow is a crafted weapon used to fire Arrows ([Simple Arrows](./Simp
 - Arrows may be collected all at once by left-clicking on animal carcasses or collected one-by-one my left-clicking directly on the arrow model itself (this can be done while the animal is alive, at great risk to the player).
 - The arrow type can be changed by pressing "R" while the Survival Bow is used.
 
-<span id="survival_bow_variants"></span><span id="Survival_Bow_Variants"></span><span id="survival-bow-variants"></span>
+<!-- #survival_bow_variants -->
+​
 
+<!-- #Survival_Bow_Variants -->
+​
+
+<!-- #Survival_bow_variants -->
+​
+
+<!-- #survival-bow-variants -->
 ### Survival Bow Variants
 
 There are three Bow variants:
@@ -66,8 +80,16 @@ There are three Bow variants:
 - [Sport Bow](./Sport%20Bow.md) (does not appear in [Interloper](./Interloper.md)/[Misery](./Misery.md))
 - [Woodwright's Bow](./Woodwright%27s%20Bow.md) (does not appear in Interloper/Misery)
 
-<span id="simple_arrow"></span><span id="Simple_Arrow"></span><span id="simple-arrow"></span>
+<!-- #simple_arrow -->
+​
 
+<!-- #Simple_Arrow -->
+​
+
+<!-- #Simple_arrow -->
+​
+
+<!-- #simple-arrow -->
 ### Simple Arrow
 
 [Simple Arrows](./Simple%20Arrow.md) are reusable, craftable, harvestable ammunition. Simple Arrows instantly kill Rabbit and Ptarmigan, and deal high damage (comparable to the Hunting Rifle) to big game with a high rate of Blood Loss on the body part struck (with Head, Neck and Torso being the best targets). Blood Loss from Simple Arrow hits is lethal (except to [Moose](./Moose.md)), though large game (such as [Black Bear](./Bear.md)) may take hours and run long distances before death.
@@ -78,8 +100,16 @@ Simple Arrows take 4% condition damage when striking snow, 24% when striking an 
 
 Simple Arrows persist in the world and may be retrieved later, even if stuck in an animal carcass which decays completely.
 
-<span id="fire_hardened_arrow"></span><span id="Fire_Hardened_Arrow"></span><span id="fire-hardened-arrow"></span>
+<!-- #fire_hardened_arrow -->
+​
 
+<!-- #Fire_Hardened_Arrow -->
+​
+
+<!-- #Fire_hardened_arrow -->
+​
+
+<!-- #fire-hardened-arrow -->
 ### Fire Hardened Arrow
 
 Fire Hardened Arrows function similarly to Simple Arrows, are much easier to craft (only requiring five [Sticks](./Stick.md) and five Crow Feather and any fire source, rather than [birch saplings](./Green%20Birch%20Sapling.md) and [forging](./Forge.md)), but will only kill [Rabbits](./Rabbit.md) and [Ptarmigans](./Ptarmigan.md). They do not injure larger animals, but can cause them to flee if striking/landing near an animal undetected, or have a chance of scaring a charging [Wolf](./Wolf.md). Simple Arrows cause Morale damage to [Timberwolf Packs](./Timberwolf.md) engaged with the player.
@@ -88,8 +118,16 @@ Fire Hardened Arrows take 7% condition damage when striking snow, 47% when strik
 
 Fire Hardened Arrows stick into terrain and Rabbit/Ptarmigan, but fall to the ground (broken or not) when striking other animals.
 
-<span id="manufactured_arrow"></span><span id="Manufactured_Arrow"></span><span id="manufactured-arrow"></span>
+<!-- #manufactured_arrow -->
+​
 
+<!-- #Manufactured_Arrow -->
+​
+
+<!-- #Manufactured_arrow -->
+​
+
+<!-- #manufactured-arrow -->
 ### Manufactured Arrow
 
 A significant upgrade from the Simple Arrow, [Manufactured Arrows](./Manufactured%20Arrow.md) inflict 12.5% more damage and are twice as durable compared to Simple Arrows due to their steel alloy arrowhead and synthetic fletching and visually-striking red shaft. They have two downsides however:
@@ -109,22 +147,34 @@ Manufactured Arrows take 2% condition damage when striking snow, 12% when striki
 
 *No weapon inflicts Blood Loss against [Moose](./Moose.md) or [Cougar](./Cougar.md).
 
-<span id="hunting"></span><span id="Hunting"></span>
+<!-- #Hunting -->
+​
 
+<!-- #hunting -->
 ## Hunting
 
 _Main article: [Hunting](./Hunting.md)_
 
 **Hunting** animals to kill and then harvest their flesh is an efficient means to acquire [Food](./Food%20And%20Drink.md) and materials. Shooting animals with projectiles, such as arrows, is the most effective way to kill game while completely bypassing the animals' natural defenses. Arrows move too quickly to be blocked or dodged and can be fired from outside the animal's zone of perception.
 
-<span id="critical_hits"></span><span id="Critical_Hits"></span><span id="critical-hits"></span>
+<!-- #critical_hits -->
+​
 
+<!-- #Critical_Hits -->
+​
+
+<!-- #Critical_hits -->
+​
+
+<!-- #critical-hits -->
 ### Critical Hits
 
 Critical hits are random occurrences, but are more likely in an animal's designated critical areas. Shots to the head and neck seem to have the best chance to cause a critical hit, with shots to the front shoulder and chest being second. Shots to the feet are immune to critical hits.
 
-<span id="bleeding"></span><span id="Bleeding"></span>
+<!-- #Bleeding -->
+​
 
+<!-- #bleeding -->
 ### Bleeding
 
 Direct hits to an animal with an arrow that are not a critical hit will cause a bleeding wound. Animals will bleed out according to which area they were shot in. Multiple shots to the same area will not make the animal bleed out any faster. However, shooting an animal in an area that bleeds faster than a previous wound it has already received will cause the timer to reset and the amount of time to bleed out changes to the amount of time required for the new wound. This makes it beneficial to just wait in most cases, especially when shooting again could provoke the animal to attack, or flee meaning the animal would have to be tracked down again. Also, waiting via sleeping, passing the time, reading, etc. counts as time towards bleeding out, but the animal will move at an accelerated speed so will wander just as far as if you had waited in real-time.
@@ -141,8 +191,16 @@ Direct hits to an animal with an arrow that are not a critical hit will cause a 
 
 *Moose and Cougar do not Bleed.
 
-<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
+<!-- #skill_levels -->
+​
 
+<!-- #Skill_levels -->
+​
+
+<!-- #Skill_Levels -->
+​
+
+<!-- #skill-levels -->
 ## Skill levels
 
 Archery Skill is increased by scoring hits on live wildlife with the Survival Bow, by crafting Simple Arrows at a workbench, or by fully reading the [Research Book](./Research%20Book.md) "_Stay on Target"._ Multiple copies of _Stay on Target_ spawn in each save, most of them at fixed loot spawns (see its section in the Research Book page), each granting skill points when fully read.
@@ -162,3 +220,5 @@ Once players have reached a new skill level, they unlock the effects described i
 | 5 | 125 | Max level | - Can fire Survival Bow when crouched<br>- Bow sway reduced by 75%<br>- Arrow damage increased by 25%<br>- Critical Hit chance increased by 50%<br>- Bleed Out time reduced by 50%<br>- Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
 
 &lt;/table-progress-tracking&gt;
+
+[fr:Archerie](https://fr.wikipedia.org/wiki/Archerie) [es:Tiro con arco](https://es.wikipedia.org/wiki/Tiro_con_arco)

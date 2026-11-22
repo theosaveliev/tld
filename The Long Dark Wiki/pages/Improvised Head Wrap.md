@@ -42,13 +42,13 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 ![Model icon damaged](../assets/Improvised_Head_Wrap_Model_Damaged_icon.png)
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Improvised Head Wrap**
-
-
 
 30 minutes
 
@@ -60,8 +60,16 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 **Quantity:** 2
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.52)):**

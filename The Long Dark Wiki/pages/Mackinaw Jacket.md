@@ -34,16 +34,20 @@
 
 The **Mackinaw Jacket** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A rare find, the Mackinaw Jacket has great warmth and waterproofing and a moderate windproof bonus. It is the warmest outer torso clothing which can spawn on [Interloper](./Interloper.md) mode.
 
 In [Wintermute](./Wintermute.md), the jacket will be rewarded to the player in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) if they complete the optional mission [Extra Supplies](./Extra%20Supplies.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 - Under one of the beds in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
@@ -56,8 +60,16 @@ In [Wintermute](./Wintermute.md), the jacket will be rewarded to the player in [
 
 ![Clothing model icon damaged](../assets/Mackinaw_Jacket_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

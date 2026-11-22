@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Damaged Track**
 
 [Damaged Tracks](../assets/Damaged_Tracks.jpg)
@@ -22,8 +20,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Damaged Track** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Damaged Tracks** are sections of train tracks that are highly damaged on [Cauldron Island](./Cauldron%20Island.md). They appear as warped, rusted, and chipped train track, with damaged cross ties. Driving over them can damage the [Prototype Train's](./Prototype%20Train.md) Wheels.
@@ -33,7 +33,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 - The track section can be repaired if you have a [Heavy Hammer](./Heavy%20Hammer.md), and do not require Scrap Metal. Each repair section takes 2 hours and repairs the tracks completely.
   - Alternatively, you can avoid repairing the tracks and damaging the train by alternating between speed settings 1 and Neutral to slowly move the train. This will prevent any damage to the Wheels when passing through this hazard.
   - Sometimes a parallel track can be found that prevents contact with these rails to begin with. Spending some time to use them can help preserve your train's condition in the long run.
-
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
-
-## Game history

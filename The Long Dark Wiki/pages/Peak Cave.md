@@ -14,8 +14,10 @@
 
 **Type:** Cave
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Peak Cave is a small cave hidden amongst brush, potentially with a corpse and a plastic container inside. A few [Rose Hip](./Rose%20Hip.md) bushes grow just outside the cave, and there are four oak trees nearby. There is a chance for a [deer](./Deer.md) to spawn on the plateau just outside the cave, and the region is frequented by [Ptarmigan](./Ptarmigan.md).
@@ -24,9 +26,13 @@ A quick walk to the north to a ledge overlooking [Monolith Lake](./Monolith%20La
 
 Because this location is entirely safe from hostile wildlife and located not too far from decent hunting areas near [Monolith Lake](./Monolith%20Lake.md), it can make for a good [Safe House](./Safehouse.md), although the long climb up a hill at the end of a day increases the risk of getting a sprain, especially if the player is exhausted/encumbered. This risk can be mitigated by using [Crampons](./Crampons.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The altitude of Peak Cave has been estimated by Glflegolas to be about 590 meters above sea level (relative to [Bleak Inlet](./Bleak%20Inlet.md)) using screenshots. This is higher than the altitude of [Timberwolf Mountain](./Timberwolf%20Mountain.md) (relative to sea level in [Coastal Highway](./Coastal%20Highway.md)), which is 505 meters.
   - If confirmed, this would make Peak Cave the second highest accessible point on [Great Bear Island](./Great%20Bear%20Island.md), after the southern portal of the [Cave](./Cave%20%28Mountain%20Town%20location%29.md) in [Mountain Town](./Mountain%20Town.md), which is 612 meters.
+
+[ru:Пещера на вершине](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B5)

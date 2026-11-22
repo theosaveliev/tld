@@ -30,21 +30,23 @@
 
 **Scrap Lead** is a crafting item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Scrap Lead is a crafting material for ammunition at an [Ammunition Workbench](./Ammunition%20Work%20Bench.md), which they reside in their respective workshops in [Bleak Inlet](./Bleak%20Inlet.md) and [Blackrock Prison](./Blackrock%20Prison.md). It is obtained by harvesting a [Car Battery](./Car%20Battery.md) (found beneath the hood of some [Cars](./Car.md) and [Trucks](./Truck.md)) with a [Hacksaw](./Hacksaw.md); one Car Battery will always yield six Scrap Lead; each piece of Scrap Lead may be crafted into six [Bullets](./Bullet.md), so one Car Battery always allows the crafting of 36 Bullets.
 
 Scrap Lead can also be found occasionally as a single piece when exploring the world.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Scrap Lead**
-
-
 
 30 minutes
 
@@ -56,16 +58,20 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 **Quantity:** 1
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Bullet](./Bullet.md) | None | - 1 × [Scrap Lead](./Scrap%20Lead.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Car Batteries may be found by lifting the hoods of cars and trucks.
@@ -75,9 +81,13 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 - Car Batteries and Scrap Lead are useless on Interloper difficulty because firearms never spawn, as well as [Wintermute](./Wintermute.md) episodes 1, 2 and 3 because there is no access to the [Ammunition Workbench](./Ammunition%20Work%20Bench.md).
 - Car Batteries are finite and non-renewable.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
 - 12-Volt Lead-acid car batteries have 6 cells inside (2 volts per cell), which is why a car battery can be harvested for 6 pieces of scrap lead (one per cell).
+
+[ru:Свинцовый лом](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BB%D0%BE%D0%BC)

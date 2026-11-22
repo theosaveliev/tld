@@ -12,8 +12,10 @@
 
 **Suitcase belonging to Dimitri S.** is a unique brown [Suitcase](./Suitcase.md) only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) as part of the [Fallen Star](./Fallen%20Star.md) mission. It placed next to Gwen, a [Crash Survivor](./Crash%20Survivor.md), at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md). [Astrid Greenwood](./Astrid%20Greenwood.md) ventures to the crash site to find [Insulin](./Insulin.md) to cure Dimitri's [Hyperglycemic Risk](./Hyperglycemic%20Risk.md).
 
-<span id="loot"></span><span id="Loot"></span>
+<!-- #Loot -->
+​
 
+<!-- #loot -->
 ## Loot
 
 The suitcase contains the Insulin needed to heal Dimitri.

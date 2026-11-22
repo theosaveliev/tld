@@ -40,8 +40,10 @@
 
 This episode has since been replaced by current the version of [The Grey Mother](./The%20Grey%20Mother.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.
@@ -57,8 +59,10 @@ This episode has since been replaced by current the version of [The Grey Mother]
   - Find Lily's grave marker and pay service to her memory.
   - Retrieve the climbing gear from Lily's trunk.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 [Grey Mother](./Grey%20Mother.md) asks [Will Mackenzie](./Will%20Mackenzie.md) to find firewood to keep her fire going, or else she will not tell him anything about [Astrid Greenwood's](./Astrid%20Greenwood.md) whereabouts. Take the [Hatchet](./Hatchet.md) in the shed behind the [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) and search the Toolbox for a [Prybar](./Prybar.md) (which you will need later).
@@ -88,14 +92,33 @@ Head out of town to [St. Christopher's Church](./St.%20Christopher%27s%20Church.
 
 Go upstairs and find the blue [Trunk](./Trunk.md) containing Lily's gear. Take the [Mountaineering Rope](./Mountaineering%20Rope.md) and [Lily's Map](./Lily%27s%20Map.md) and the mission will end.
 
-<span id="grey_mothers_trust"></span><span id="Grey_Mother&#x27;s_Trust"></span><span id="grey_mother&#x27;s_trust"></span><span id="grey-mothers-trust"></span>
+<!-- #grey_mothers_trust -->
+​
 
+<!-- #Grey_Mother's_Trust -->
+​
+
+<!-- #grey_mother's_trust -->
+​
+
+<!-- #Grey_mother's_trust -->
+​
+
+<!-- #grey-mothers-trust -->
 ## Grey Mother's Trust
 
 Grey Mother offers unique items, knowledge, and side missions as rewards for better earning her Trust during this mission:
 
-<span id="items_that_increase_trust"></span><span id="Items_That_Increase_Trust"></span><span id="items-that-increase-trust"></span>
+<!-- #items_that_increase_trust -->
+​
 
+<!-- #Items_That_Increase_Trust -->
+​
+
+<!-- #Items_that_increase_trust -->
+​
+
+<!-- #items-that-increase-trust -->
 #### Items That Increase Trust
 
 - +1 [Stick](./Stick.md)
@@ -107,8 +130,16 @@ Grey Mother offers unique items, knowledge, and side missions as rewards for bet
 
 Trust is also earned from completing major tasks during the mission.
 
-<span id="trust_levels_and_unlocks"></span><span id="Trust_Levels_And_Unlocks"></span><span id="trust-levels-and-unlocks"></span>
+<!-- #trust_levels_and_unlocks -->
+​
 
+<!-- #Trust_Levels_And_Unlocks -->
+​
+
+<!-- #Trust_levels_and_unlocks -->
+​
+
+<!-- #trust-levels-and-unlocks -->
 #### Trust Levels And Unlocks
 
 - 25 Trust: Knowledge: Milton History - Worldbuilding information about the history of Milton.
@@ -120,20 +151,44 @@ Trust is also earned from completing major tasks during the mission.
 - 300 Trust: Knowledge: [Perseverance Mills](./Perseverance%20Mills.md) - Worldbuilding information about Perseverance Mills.
 - 375 Trust: Item: [Mountaineering Boots](./Mountaineering%20Boots.md) - Grey Mother gives you with Mountaineering Boots. (sic)
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md)
 
-<span id="differences_from_redux_episode_1"></span><span id="Differences_from_Redux_Episode_1"></span><span id="differences-from-redux-episode-1"></span>
+<!-- #differences_from_redux_episode_1 -->
+​
 
+<!-- #Differences_from_Redux_Episode_1 -->
+​
+
+<!-- #Differences_from_redux_episode_1 -->
+​
+
+<!-- #Differences_From_Redux_Episode_1 -->
+​
+
+<!-- #differences-from-redux-episode-1 -->
 ## Differences from Redux Episode 1
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 1:
 
-<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
+<!-- #plot_points_and_gameplay_changes -->
+​
 
+<!-- #Plot_Points_and_Gameplay_Changes -->
+​
+
+<!-- #Plot_points_and_gameplay_changes -->
+​
+
+<!-- #Plot_Points_And_Gameplay_Changes -->
+​
+
+<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - The Trust system has been completely removed from the game.
@@ -156,8 +211,16 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - The concept of a key inside an Urn would be reused for [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md), with a key hidden under a [Vase](./Vase.md) during the mission [Trauma](./Trauma.md).
 - Returning [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to Lilith's grave is mandatory to finish the mission. This would be made optional in the Redux with the side mission [One Last Thing](./One%20Last%20Thing.md).
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

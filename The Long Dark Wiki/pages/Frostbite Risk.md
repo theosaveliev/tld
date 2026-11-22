@@ -26,8 +26,10 @@
 
 **Frostbite Risk** is incurred when a player's bare skin is exposed to freezing conditions, particularly with severe windchill.
 
-<span id="risk"></span><span id="Risk"></span>
+<!-- #Risk -->
+​
 
+<!-- #risk -->
 ## Risk
 
 > “**Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.**”
@@ -40,8 +42,10 @@ It is possible to have multiple Risks develop on multiple limbs at once, but thi
 
 Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on the head) or [Improvised Insulation](./Improvised%20Insulation.md) (shown on the body), will still cause Frostbite Risk to develop for those body parts. As long as one Clothing slot (except Accessories) has any kind of unfrozen Clothing on it, Frostbite Risk will not develop for that extremity.
 
-<span id="mechanics"></span><span id="Mechanics"></span>
+<!-- #Mechanics -->
+​
 
+<!-- #mechanics -->
 ## Mechanics
 
 ![Outer and inner layers on the 5 body parts](../assets/Outer_and_inner_layers.jpg)
@@ -63,7 +67,3 @@ Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on t
   - Clothing that is damaged and Ruined in a Wildlife [Struggle](./Struggle.md) will notify the player in the top right corner, and that section of the body must immediately be covered up again to prevent Risk.
 
 Should a body part continue to remain exposed to the freezing cold, [Frostbite](./Frostbite.md) will develop. If Frostbite develops on that limb and it is not covered, Frostbite Risk will begin again.
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

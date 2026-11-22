@@ -43,8 +43,16 @@
 
 **Cat Tail Stalks** are a [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
 
-<span id="general_information"></span><span id="General_Information"></span><span id="general-information"></span>
+<!-- #general_information -->
+​
 
+<!-- #General_Information -->
+​
+
+<!-- #General_information -->
+​
+
+<!-- #general-information -->
 ## General Information
 
 The edible stalk of a Cat Tail plant. They can be found growing on the shores of swamps, lakes, rivers or ponds. Cat Tail Stalks are the only food item which can stack in the inventory or containers; they are also efficient in calories-to-weight, making them useful when traveling or exploring.
@@ -55,22 +63,34 @@ Cat tail stalks do not [Decay](./Decay.md) or become ruined, and eating them can
 
 Like all other plants, Cat Tails do not regrow once harvested.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md)<br>- 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)<br>- 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Cat_tail_stalk.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **5 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.35)):**

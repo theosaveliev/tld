@@ -36,8 +36,16 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) retrieves Grey Mother's Safety Deposit Box from the [Milton Credit Union](./Milton%20Credit%20Union.md) in [Milton](./Milton.md), and returns it to [Grey Mother](./Grey%20Mother.md) at [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md).
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

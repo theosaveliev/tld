@@ -26,8 +26,10 @@
 
 Obtaining the ID Badge unlocks the Settled Mind and Celestial Navigator [Feats](./Feats.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Security Chief's ID Badge**_
@@ -36,10 +38,20 @@ A piece of corporate identification. Scratched by use and faded by time.
 
 ![Front and back of the card](../assets/OBJ_PictureIDSecurityChief.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
 
   - Added to game.
+
+[ru:Бейджик начальника охраны](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%B4%D0%B6%D0%B8%D0%BA_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

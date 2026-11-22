@@ -57,8 +57,10 @@ It has since been ported to the PlayStation 5, Xbox Series S, Xbox Series X, WeG
 
 A sequel, _[BLACKFROST: The Long Dark II](./BLACKFROST%20-%20The%20Long%20Dark%20II.md)_, is set to release in 2027.
 
-<span id="summary"></span><span id="Summary"></span>
+<!-- #Summary -->
+​
 
+<!-- #summary -->
 ## Summary
 
 _The Long Dark_ begins with a [massive geomagnetic anomaly](./First%20Flare.md) that affects all electronic equipment. Cars, radios, computers and most other modern technology have been rendered useless. The world is quiet now, and, with no lights, the nights are long and dark. ![Ld airplane](../assets/Ld_airplane.jpg) A front seat to the end of the world. Immersive first-person exploration game-play featuring a stunning, original art style. Navigate the savage beauty of the Northern wilderness while facing the hazards of a new post-digital frontier.
@@ -67,84 +69,190 @@ Survive by your wits alone. Be on the lookout for potential supply caches, all t
 
 Survival of the fittest. Deep survival simulation game-play whence every decision matters. Explore a large, open world in search of resources while balancing unpredictable conditions against the needs of your daily and, hopefully, long-term survival.
 
-<span id="game_modes"></span><span id="Game_Modes"></span><span id="game-modes"></span>
+<!-- #Wintermute -->
+​
 
-## Game Modes
-
-<span id="wintermute"></span><span id="Wintermute"></span>
-
+<!-- #wintermute -->
 ### Wintermute
 
 - Play the [Story](./Wintermute.md) of [Will Mackenzie](./Will%20Mackenzie.md) &amp; Dr. [Astrid Greenwood](./Astrid%20Greenwood.md) as they struggle to survive, crashed in the wilderness in the aftermath of a mysterious geomagnetic disaster.
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
 ### Survival Mode
 
 - Experience potentially hundreds of hours of free-form sandbox game-play in [Survival Mode](./Survival%20Mode.md). Push yourself and your skills to last as long as possible without the Story elements.
 
-<span id="challenge"></span><span id="Challenge"></span>
+<!-- #Challenge -->
+​
 
+<!-- #challenge -->
 ### Challenge
 
 - Test your skills with scenarios designed to [Challenge](./Challenge.md) seasoned players. How fast can you complete these challenges?
 
-<span id="game_versions"></span><span id="Game_Versions"></span><span id="game-versions"></span>
+<!-- #game_versions -->
+​
 
+<!-- #Game_Versions -->
+​
+
+<!-- #Game_versions -->
+​
+
+<!-- #game-versions -->
 ## Game Versions
 
 ![The Long Dark Editions](../assets/The_Long_Dark_Editions.png) As of December 5th, 2022, _The Long Dark_ can be purchased in several different forms from Steam or Epic Games:
 
-<span id="the_long_dark"></span><span id="The_Long_Dark"></span><span id="the-long-dark"></span>
+<!-- #the_long_dark -->
+​
 
+<!-- #The_Long_Dark -->
+​
+
+<!-- #The_long_dark -->
+​
+
+<!-- #the-long-dark -->
 ### _The Long Dark_
 
 This version of the game includes _all_ the content in _The Long Dark: Survival Edition_, along with the dedicated campaign of the [Wintermute](./Wintermute.md) Story Mode. For players who know they'll be interested in playing both Survival and Wintermute, or who wish to play only Wintermute.
 
-<span id="the_long_dark_survival_edition"></span><span id="The_Long_Dark:_Survival_Edition"></span><span id="the_long_dark:_survival_edition"></span><span id="the-long-dark-survival-edition"></span>
+<!-- #the_long_dark_survival_edition -->
+​
 
+<!-- #The_Long_Dark:_Survival_Edition -->
+​
+
+<!-- #the_long_dark:_survival_edition -->
+​
+
+<!-- #The_long_dark:_survival_edition -->
+​
+
+<!-- #the-long-dark-survival-edition -->
 ### _The Long Dark: Survival Edition_
 
 This version of _The Long Dark_ includes [Survival Mode](./Survival%20Mode.md) and the [Challenges](./Challenge.md), but _not_ Story Mode. It is meant to be an "entry-level" version of the game, designed for players who interested in the core gameplay experience. This is the cheapest option.
 
-<span id="the_long_dark_quiet_apocalypse_bundle"></span><span id="The_Long_Dark:_Quiet_Apocalypse_Bundle"></span><span id="the_long_dark:_quiet_apocalypse_bundle"></span><span id="the-long-dark-quiet-apocalypse-bundle"></span>
+<!-- #the_long_dark_quiet_apocalypse_bundle -->
+​
 
+<!-- #The_Long_Dark:_Quiet_Apocalypse_Bundle -->
+​
+
+<!-- #the_long_dark:_quiet_apocalypse_bundle -->
+​
+
+<!-- #The_long_dark:_quiet_apocalypse_bundle -->
+​
+
+<!-- #the-long-dark-quiet-apocalypse-bundle -->
 ### _The Long Dark: Quiet Apocalypse Bundle_
 
 This bundle includes _The Long Dark_ as well as all downloadable addon content for the game. Only available on Steam.
 
-<span id="downloadable_addon_content"></span><span id="Downloadable_Addon_Content"></span><span id="downloadable-addon-content"></span>
+<!-- #the_long_dark_tales_from_the_far_territory -->
+​
 
-## Downloadable Addon Content
+<!-- #The_Long_Dark:_Tales_from_the_Far_Territory -->
+​
 
-<span id="the_long_dark_tales_from_the_far_territory"></span><span id="The_Long_Dark:_Tales_from_the_Far_Territory"></span><span id="the_long_dark:_tales_from_the_far_territory"></span><span id="the-long-dark-tales-from-the-far-territory"></span>
+<!-- #the_long_dark:_tales_from_the_far_territory -->
+​
 
+<!-- #The_long_dark:_tales_from_the_far_territory -->
+​
+
+<!-- #The_Long_Dark:_Tales_From_The_Far_Territory -->
+​
+
+<!-- #the-long-dark-tales-from-the-far-territory -->
 ### _[The Long Dark: Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_
 
 This is downloadable content for _The Long Dark: Survival Edition_ for _The Long Dark._ Discover five new regions as you venture into the Far Territory, explore the world as you uncover the secrets of three new [Tales](./Tales.md), hunt new animals, and interact with even more content exclusive to this addon.
 
-<span id="the_long_dark_iron_road"></span><span id="The_Long_Dark:_Iron_Road"></span><span id="the_long_dark:_iron_road"></span><span id="the-long-dark-iron-road"></span>
+<!-- #the_long_dark_iron_road -->
+​
 
+<!-- #The_Long_Dark:_Iron_Road -->
+​
+
+<!-- #the_long_dark:_iron_road -->
+​
+
+<!-- #The_long_dark:_iron_road -->
+​
+
+<!-- #the-long-dark-iron-road -->
 ### _[The Long Dark: Iron Road](./Iron%20Road.md)_
 
 This is downloadable content for _The Long Dark: Survival Edition_ for _The Long Dark._ Discover an island forgotten to time, with new regions, a steam locomotive, an autopilot boat, and several new hazards related to the Aurora.
 
-<span id="the_long_dark_wintermute"></span><span id="The_Long_Dark:_Wintermute"></span><span id="the_long_dark:_wintermute"></span><span id="the-long-dark-wintermute"></span>
+<!-- #the_long_dark_wintermute -->
+​
 
+<!-- #The_Long_Dark:_Wintermute -->
+​
+
+<!-- #the_long_dark:_wintermute -->
+​
+
+<!-- #The_long_dark:_wintermute -->
+​
+
+<!-- #the-long-dark-wintermute -->
 ### _[The Long Dark: Wintermute](./Wintermute.md)_
 
 This is downloadable content for _The Long Dark: Survival Edition_, and adds the content of the Wintermute Story Mode to the game. It is primarily targeted towards players who purchased _The Long Dark: Survival Edition_ and have decided that they want to experience Wintermute.
 
-<span id="music_for_the_long_dark____volume_one"></span><span id="Music_for_The_Long_Dark_--_Volume_One"></span><span id="music_for_the_long_dark_--_volume_one"></span><span id="music-for-the-long-dark----volume-one"></span>
+<!-- #music_for_the_long_dark____volume_one -->
+​
 
+<!-- #Music_for_The_Long_Dark_--_Volume_One -->
+​
+
+<!-- #music_for_the_long_dark_--_volume_one -->
+​
+
+<!-- #Music_for_the_long_dark_--_volume_one -->
+​
+
+<!-- #Music_For_The_Long_Dark_--_Volume_One -->
+​
+
+<!-- #music-for-the-long-dark----volume-one -->
 ### _Music for The Long Dark -- Volume One_
 
 [The Long Dark Original Soundtrack](./The%20Long%20Dark%20Original%20Soundtrack.md)
 
 Includes Volume One of the Original Soundtrack to The Long Dark, as composed by Cris Velasco and Sascha Dikiciyan. Features of 100 minutes of music composed across 4 discs for [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), as well as ambient exploration music from Survival Mode.
 
-<span id="music_for_the_long_dark____volume_two"></span><span id="Music_for_The_Long_Dark_--_Volume_Two"></span><span id="music_for_the_long_dark_--_volume_two"></span><span id="music-for-the-long-dark----volume-two"></span>
+<!-- #music_for_the_long_dark____volume_two -->
+​
 
+<!-- #Music_for_The_Long_Dark_--_Volume_Two -->
+​
+
+<!-- #music_for_the_long_dark_--_volume_two -->
+​
+
+<!-- #Music_for_the_long_dark_--_volume_two -->
+​
+
+<!-- #Music_For_The_Long_Dark_--_Volume_Two -->
+​
+
+<!-- #music-for-the-long-dark----volume-two -->
 ### _Music for The Long Dark -- Volume Two_
 
 Includes Volume Two of the Original Soundtrack to The Long Dark, as composed by Cris Velasco and Sascha Dikiciyan. Features of 60 minutes of music across 2 disks composed for [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md), as well as additional ambient exploration music from Survival Mode.
@@ -153,14 +261,24 @@ _Music for The Long Dark -- Volume Three_
 
 Includes Volume Three of the Original Soundtrack to The Long Dark, as composed by Cris Velasco and Sascha Dikiciyan. Features of 60 minutes of music across 2 disks composed for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md), as well as additional ambient exploration music from Survival Mode's [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<span id="visual_enhancements"></span><span id="Visual_Enhancements"></span><span id="visual-enhancements"></span>
+<!-- #visual_enhancements -->
+​
 
+<!-- #Visual_Enhancements -->
+​
+
+<!-- #Visual_enhancements -->
+​
+
+<!-- #visual-enhancements -->
 ## Visual Enhancements
 
 ![The Long Dark visual enhancements](../assets/The_Long_Dark_visual_enhancements.png) A Visual Enhancement update is available for the game when playing on PlayStation 5, Xbox Series S/X, and PC. It is mainly for higher end hardware and is not available for game versions running on older game platforms (PlayStation 4/Xbox One, Nintendo Switch, Lower end PC, etc.).
 
-<span id="gameplay"></span><span id="Gameplay"></span>
+<!-- #Gameplay -->
+​
 
+<!-- #gameplay -->
 ## Gameplay
 
 ![Wolf](../assets/Wolf.jpg)
@@ -197,68 +315,94 @@ And find your way in the new world.
 
 "How far will you go to survive?" — **The Long Dark**
 
-<span id="realism"></span><span id="Realism"></span>
+<!-- #Realism -->
+​
 
+<!-- #realism -->
 ## Realism
 
 _Main article: [Realism](./Realism.md)_
 
 The game is created whilst striving for realism in many areas and as such borrows many [afflictions](./Afflictions.md) and core [survival mechanics](./Needs.md) from real life. It gives players an interesting set of choices to play with safely. The creators do not, however, as a general rule, tune the gameplay for realism or to conform to real-world expectations. Therefore, new players may find some things intuitive from the beginning and may need to learn how some other aspects work during play or from other, more knowledgeable, players.
 
-<span id="wintermute_plot"></span><span id="Wintermute_Plot"></span><span id="wintermute-plot"></span>
+<!-- #wintermute_plot -->
+​
 
+<!-- #Wintermute_Plot -->
+​
+
+<!-- #Wintermute_plot -->
+​
+
+<!-- #wintermute-plot -->
 ## Wintermute Plot
 
 Will Mackenzie works as a pilot for [Jackrabbit Remote Transport](https://thelongdark.fandom.com/wiki/Jackrabbit_Remote_Transport) prior to the First Flare event. [Astrid Greenwood](./Astrid%20Greenwood.md), his ex-wife, comes to Will after years of being apart to ask him if he can fly her to an isolated town in the Northern area of Great Bear Island to treat a patient of hers. She also brings a mysterious case with her and does not want to reveal the content to Will. While the two separated some time ago, both still wear their wedding rings. It is implied that they had a child together who had passed away. Mackenzie also used to have an alcohol problem that he claims is under control now.
 
 After hesitantly accepting to fly Astrid to Great Bear Island, Will's airplane crashes into the Northern Canadian wilderness of Great Bear Island when a mysterious geomagnetic storm cuts all power to his instruments. After the crash, in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), Will finds Astrid's case but not his ex-wife. Thus, he begins a journey to search for her across the remote wilderness of Great Bear Island.
 
-<span id="reception"></span><span id="Reception"></span>
+<!-- #Reception -->
+​
 
+<!-- #reception -->
 ## Reception
 
 The Long Dark received "critical acclaim" from Steam users, according to Steam reviews. On release, it received mostly mixed to positive reviews from critics, praising its sandbox nature, the content and the atmosphere while criticizing the story. Fan base alike also criticized the story mode calling it a "fetch quest" rather than a story.
 
-<span id="other_game_features"></span><span id="Other_Game_Features"></span><span id="other-game-features"></span>
+<!-- #time_capsule -->
+​
 
-## Other Game Features
+<!-- #Time_Capsule -->
+​
 
-<span id="time_capsule"></span><span id="Time_Capsule"></span><span id="time-capsule"></span>
+<!-- #Time_capsule -->
+​
 
+<!-- #time-capsule -->
 ### Time Capsule
 
 The [Time Capsule](./Time%20Capsule.md) is a playable archive of previous builds of _The Long Dark_ released for free by Hinterland, and allows users to play builds of the game as far back as the pre alpha builds. This functionality is currently only available to Steam users due to Steam's infrastructure allowing access to beta builds of _The Long Dark_.
 
-<span id="modding"></span><span id="Modding"></span>
+<!-- #Modding -->
+​
 
+<!-- #modding -->
 ### Modding
 
 _The Long Dark_ currently does not have any official modding support aside from the [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=305620&browsesort=trend&section=readytouseitems&days=90&actualsort=trend&p=2) providing support for other languages for the Steam version of the game. Despite this, individuals have taken to creating unofficial mods that add unsupported content to the game. Hinterland has so far not shown much support regarding modding, aside from a single [dev post](https://www.thelongdark.com/news/dev-diary-perilous-constraint-update/) in 2022 discussing their acknowledgment regarding _The Long Dark_ Mods, and it is currently unknown how modding will affect the future of _The Long Dark_.
 
 At this time, this wiki only acknowledges the legitimacy of [The Long Development](./The%20Long%20Development.md) project; an unofficial project that adds new regions to Great Bear Island.
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ### Achievements
 
 _Main article: [The Long Dark/Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md)_
 
-<span id="changelog"></span><span id="Changelog"></span>
+<!-- #Changelog -->
+​
 
+<!-- #changelog -->
 ### Changelog
 
 A list of every update the game has received over its life.
 
 _Main article: [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)_
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ### Gallery
 
 _Main article: [The Long Dark/Gallery](./The%20Long%20Dark%20%E2%80%94%20Gallery.md)_
 
-<span id="videos"></span><span id="Videos"></span>
+<!-- #Videos -->
+​
 
+<!-- #videos -->
 ## Videos
 
 ![The Long Dark One Year Anniversary on Steam 2015 (Official Trailer)](../assets/The_Long_Dark_-_One_Year_Anniversary_on_Steam_2015_%28Official_Trailer%29.jpg)
@@ -297,8 +441,18 @@ _Survival - [Deer](./Deer.md)_
 
 ![Project pitch](../assets/The_Long_Dark_--_PROJECT_PITCH.jpg)
 
-<span id="external_links"></span><span id="External_links"></span><span id="external-links"></span>
+<!-- #external_links -->
+​
 
+<!-- #External_links -->
+​
+
+<!-- #External_Links -->
+​
+
+<!-- #external-links -->
 ## External links
 
 - [Official game site](http://www.intothelongdark.com/)
+
+[ru:The Long Dark](https://ru.wikipedia.org/wiki/The_Long_Dark) [fr:Accueil](https://fr.wikipedia.org/wiki/Accueil) [de:The Long Dark](https://de.wikipedia.org/wiki/The_Long_Dark)

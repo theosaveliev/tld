@@ -19,26 +19,52 @@
 
 <br>**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Steam+Train&amp;action=edit adding it to the article].**<br>[Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)The **Steam Train** is a player driven and controlled [Vehicle](./Vehicle.md) found exclusively in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md). It is the main method of transportation in the [Railway](./Railway.md) region, during the mission [To SAR And Back](./To%20SAR%20And%20Back.md). A successor to the Steam Train appears in [Survival Mode](./Survival%20Mode.md) in the [Iron Road](./Iron%20Road.md) Expansion as the Prototype Steam Train.
 
-<span id="appearance"></span><span id="Appearance"></span>
+<!-- #Appearance -->
+​
 
+<!-- #appearance -->
 ## Appearance
 
-The locomotive takes the shape of a [0-4-0 ST](wikipedia:0-4-0) steam locomotive, carrying the number 46, with two electrically-powered headlights on the front (which will come on during the Aurora), along with a snowplow pilot. Being a tank locomotive, it does not have a tender. Curiously, it does not have a fuel bunker, requiring [Astrid](./Astrid%20Greenwood.md) to regularly add coal to the firebox from her inventory. It also does not require the water tanks to be filled up.
+The locomotive takes the shape of a [0-4-0 ST](https://en.wikipedia.org/wiki/0-4-0) steam locomotive, carrying the number 46, with two electrically-powered headlights on the front (which will come on during the Aurora), along with a snowplow pilot. Being a tank locomotive, it does not have a tender. Curiously, it does not have a fuel bunker, requiring [Astrid](./Astrid%20Greenwood.md) to regularly add coal to the firebox from her inventory. It also does not require the water tanks to be filled up.
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
-According to the [Piece of Paper](./Piece%20of%20Paper.md) found in the Train Maintenance Shed, the engine was nicknamed "Goose" and was going to be put on display at the Maintenance Shed, with hopes that it could draw people up north towards Perseverance Mills and bring attention to the isolated town. It is unknown whether the locomotive was put on display, or not.
+According to the [Piece of Paper](./Piece%20of%20Paper%20%282%29.md) found in the Train Maintenance Shed, the engine was nicknamed "Goose" and was going to be put on display at the Maintenance Shed, with hopes that it could draw people up north towards Perseverance Mills and bring attention to the isolated town. It is unknown whether the locomotive was put on display, or not.
 
-<span id="operation_and_mechanics"></span><span id="Operation_and_Mechanics"></span><span id="operation-and-mechanics"></span>
+<!-- #operation_and_mechanics -->
+​
 
+<!-- #Operation_and_Mechanics -->
+​
+
+<!-- #Operation_and_mechanics -->
+​
+
+<!-- #Operation_And_Mechanics -->
+​
+
+<!-- #operation-and-mechanics -->
 ## Operation and Mechanics
 
 ![View from the cab of the locomotive](../assets/Steam_Loco_driving_1.png)_View from the cab of the locomotive_Before operation, the Throttle [Train Lever](./Train%20Lever.md) needs to be reinstalled in the locomotive. The lever can be found on the wall near a drill press in the nearby maintenance shed. This will progress the mission to the next stage.
 
-<span id="steam_trains_firebox"></span><span id="Steam_Train&#x27;s_Firebox"></span><span id="steam_train&#x27;s_firebox"></span><span id="steam-trains-firebox"></span>
+<!-- #steam_trains_firebox -->
+​
 
+<!-- #Steam_Train's_Firebox -->
+​
+
+<!-- #steam_train's_firebox -->
+​
+
+<!-- #Steam_train's_firebox -->
+​
+
+<!-- #steam-trains-firebox -->
 ### Steam Train's Firebox
 
 > “**Use Coal to get the Steam Train Firebox temperature up to 125 degrees to start building pressure (PSI). The firebox will slowly cool off over time if you don't keep feeding it coal but never below 125 degrees.**”
@@ -49,8 +75,16 @@ A fire can be lit in the firebox in the conventional way. Once lit, the temperat
 
 As the temperature rises to 125°C (225°F), PSI is built up on a dial that will allow the Steam Train to move forwards or backwards once the Throttle is released. Over time and as the train is used for transportation, the fire's temperature will decrease, requiring periodic additions of coal to continue generating steam PSI.
 
-<span id="steam_train_throttle"></span><span id="Steam_Train_Throttle"></span><span id="steam-train-throttle"></span>
+<!-- #steam_train_throttle -->
+​
 
+<!-- #Steam_Train_Throttle -->
+​
+
+<!-- #Steam_train_throttle -->
+​
+
+<!-- #steam-train-throttle -->
 ### Steam Train Throttle
 
 > “**Move the throttle up through gears 1 and 2 to increase the Steam Train's Speed or into Reverse to change directions. Using the Brake will automatically put the Steam Train into its Neutral Gear. The Throttle can only be adjusted if the Brake is off and the Steam Train can only change directions when it is fully stopped.**”
@@ -59,8 +93,19 @@ As the temperature rises to 125°C (225°F), PSI is built up on a dial that will
 
 Once the locomotive has built enough steam PSI, it can be driven by releasing the brakes and engaging the throttle. The locomotive can maintain boiler pressure at half-throttle indefinitely, but full throttle must be used to push away obstacles such as fallen trees, snowdrifts, or fence gates. It is also capable of pushing some road-rail trucks and some railroad cars out of the way. The steam whistle can be used to scare [wolves](./Wolf.md) away. The train can be reversed and can automatically apply the brakes if selected.
 
-<span id="steam_trains_speed"></span><span id="Steam_Train&#x27;s_Speed"></span><span id="steam_train&#x27;s_speed"></span><span id="steam-trains-speed"></span>
+<!-- #steam_trains_speed -->
+​
 
+<!-- #Steam_Train's_Speed -->
+​
+
+<!-- #steam_train's_speed -->
+​
+
+<!-- #Steam_train's_speed -->
+​
+
+<!-- #steam-trains-speed -->
 ### Steam Train's Speed
 
 > “**The Steam Train can move at two speeds "Slow" and "Fast". When the Steam Train is moving fast enough it can break through obstacles that would otherwise block its path. But increasing the Steam Train's speed will consume PSI.**”
@@ -75,8 +120,10 @@ They include:
 - Snow Piles on the tracks
 - Fallen Trees
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - Despite being equipped with couplers, the locomotive is not able to couple to and pull train cars behind it.
@@ -87,8 +134,10 @@ They include:
 - Wildlife will not be killed if the steam locomotive runs over them. Wildlife will also be scared of the whistle if they are close by.
 - A Train Brake Lever icon is found in the game files, but was never actually implemented as an item. The brake lever is already installed once the player finds the train.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Train Lever](../assets/Train_Lever_icon.png)

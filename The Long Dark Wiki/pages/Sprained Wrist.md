@@ -28,16 +28,20 @@
 
 A **Sprained Wrist** can be caused by a fall, being exhausted or encumbered while walking on uneven or steep terrain, or from an [animal attack](./Struggle.md).
 
-<span id="risk"></span><span id="Risk"></span>
+<!-- #Risk -->
+​
 
+<!-- #risk -->
 ## Risk
 
 > “**You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.**”
 
 Carrying too much weight beyond carrying capacity or becoming too tired to carry your heavy load will warn the player that they are at [risk](./Sprain%20Risk.md) of acquiring a sprain. Walking off road onto uneven ground (icon shown in the photo) may have a chance of a [Sprained Ankle](./Sprained%20Ankle.md) or Wrist occurring. Consider either resting or lightening your load in order to eliminate the risk, or consume a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or [Emergency Stim](./Emergency%20Stim.md).
 
-<span id="affliction"></span><span id="Affliction"></span>
+<!-- #Affliction -->
+​
 
+<!-- #affliction -->
 ## Affliction
 
 > “**You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time.**”
@@ -58,8 +62,10 @@ With 2 Sprained Wrists, all Weapons can no longer be used, but lighting tools su
 - [Rope Climbing](./Rope%20Climbing.md) is not possible with either a Sprained Wrist or Ankle.
 - It is possible to sprain both wrists at once, either in the same Struggle event or from continuing to traverse sloped surfaces while over encumbered.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 [Missing image: Pente.jpg]

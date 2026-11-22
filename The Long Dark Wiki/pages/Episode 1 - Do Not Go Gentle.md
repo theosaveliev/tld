@@ -34,20 +34,20 @@ _"Mackenzie and Dr. Greenwood are separated after their plane crashes deep in th
 
 **_Do Not Go Gentle_** is the first episode in the [Wintermute](./Wintermute.md) story mode. It is followed by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 In this episode, [Will Mackenzie's](./Will%20Mackenzie.md) plane has crashed due to a [mysterious geomagnetic event](./First%20Flare.md). He and fellow traveler [Astrid Greenwood](./Astrid%20Greenwood.md) are now separated and Mackenzie does his best to survive. His journey takes him to the small town of [Milton](./Milton.md). Dr. Astrid Greenwood unexpectedly shows up at the workplace of bush pilot Will Mackenzie. She and Will have not seen each other in years, and their parting was not under ideal circumstances. She asks him to take her to a small village in the mountains. It is late in the evening and the weather is bad. She refuses to tell him why, and what the contents are in the metal locked briefcase she is carrying. When he protests, she becomes frustrated and starts to leave. He stops her and reluctantly agrees to take her.
 
 During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane of power, sending the plane into a rocky ravine. Will finds himself alone, injured, in the dark in freezing temperatures, and with no sign of Astrid.
 
-<span id="main_missions"></span><span id="Main_missions"></span><span id="main-missions"></span>
+<!-- #Memories -->
+​
 
-## Main missions
-
-<span id="memories"></span><span id="Memories"></span>
-
+<!-- #memories -->
 ### Memories
 
 ![Memories](../assets/Memories.png)
@@ -58,8 +58,16 @@ _Main article: [Memories](./Memories.md)_
 
 — In-game description
 
-<span id="the_crash"></span><span id="The_Crash"></span><span id="the-crash"></span>
+<!-- #the_crash -->
+​
 
+<!-- #The_Crash -->
+​
+
+<!-- #The_crash -->
+​
+
+<!-- #the-crash -->
 ### The Crash
 
 ![The Crash](../assets/The_Crash.png)
@@ -70,8 +78,16 @@ _Main article: [The Crash](./The%20Crash.md)_
 
 — In-game description
 
-<span id="the_grey_mother"></span><span id="The_Grey_Mother"></span><span id="the-grey-mother"></span>
+<!-- #the_grey_mother -->
+​
 
+<!-- #The_Grey_Mother -->
+​
+
+<!-- #The_grey_mother -->
+​
+
+<!-- #the-grey-mother -->
 ### The Grey Mother
 
 ![The Grey Mother](../assets/The_Grey_Mother.png)
@@ -82,8 +98,16 @@ _Main article: [The Grey Mother](./The%20Grey%20Mother.md)_
 
 — In-game description
 
-<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
+<!-- #paradise_lost -->
+​
 
+<!-- #Paradise_Lost -->
+​
+
+<!-- #Paradise_lost -->
+​
+
+<!-- #paradise-lost -->
 ### Paradise Lost
 
 ![Paradise Lost](../assets/Paradise_Lost.png)
@@ -94,14 +118,33 @@ _Main article: [Paradise Lost](./Paradise%20Lost.md)_
 
 — In-game description
 
-<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+<!-- #side_missions -->
+​
 
+<!-- #Side_Missions -->
+​
+
+<!-- #Side_missions -->
+​
+
+<!-- #side-missions -->
 ## Side Missions
 
 ![Missions story ep1 Side](../assets/Missions_story_ep1_Side.png)
 
-<span id="the_basics_of_survival"></span><span id="The_Basics_of_Survival"></span><span id="the-basics-of-survival"></span>
+<!-- #the_basics_of_survival -->
+​
 
+<!-- #The_Basics_of_Survival -->
+​
+
+<!-- #The_basics_of_survival -->
+​
+
+<!-- #The_Basics_Of_Survival -->
+​
+
+<!-- #the-basics-of-survival -->
 ### The Basics of Survival
 
 _Main article: [The Basics of Survival](./The%20Basics%20of%20Survival.md)_
@@ -110,8 +153,16 @@ _Main article: [The Basics of Survival](./The%20Basics%20of%20Survival.md)_
 
 — In-game description
 
-<span id="extra_supplies"></span><span id="Extra_Supplies"></span><span id="extra-supplies"></span>
+<!-- #extra_supplies -->
+​
 
+<!-- #Extra_Supplies -->
+​
+
+<!-- #Extra_supplies -->
+​
+
+<!-- #extra-supplies -->
 ### Extra Supplies
 
 _Main article: [Extra Supplies](./Extra%20Supplies.md)_
@@ -120,8 +171,16 @@ _Main article: [Extra Supplies](./Extra%20Supplies.md)_
 
 — In-game description
 
-<span id="milton_safety_deposit_box_keys"></span><span id="Milton_Safety_Deposit_Box_Keys"></span><span id="milton-safety-deposit-box-keys"></span>
+<!-- #milton_safety_deposit_box_keys -->
+​
 
+<!-- #Milton_Safety_Deposit_Box_Keys -->
+​
+
+<!-- #Milton_safety_deposit_box_keys -->
+​
+
+<!-- #milton-safety-deposit-box-keys -->
 ### Milton Safety Deposit Box Keys
 
 _Main article: [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md)_
@@ -130,8 +189,16 @@ _Main article: [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Bo
 
 — In-game description
 
-<span id="milton_supply_caches"></span><span id="Milton_Supply_Caches"></span><span id="milton-supply-caches"></span>
+<!-- #milton_supply_caches -->
+​
 
+<!-- #Milton_Supply_Caches -->
+​
+
+<!-- #Milton_supply_caches -->
+​
+
+<!-- #milton-supply-caches -->
 ### Milton Supply Caches
 
 _Main article: [Milton Supply Caches](./Milton%20Supply%20Caches.md)_
@@ -140,8 +207,16 @@ _Main article: [Milton Supply Caches](./Milton%20Supply%20Caches.md)_
 
 — In-game description
 
-<span id="highway_robbery"></span><span id="Highway_Robbery"></span><span id="highway-robbery"></span>
+<!-- #highway_robbery -->
+​
 
+<!-- #Highway_Robbery -->
+​
+
+<!-- #Highway_robbery -->
+​
+
+<!-- #highway-robbery -->
 ### Highway Robbery
 
 _Main article: [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md)_
@@ -150,8 +225,16 @@ _Main article: [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.m
 
 — In-game description
 
-<span id="one_last_thing"></span><span id="One_Last_Thing"></span><span id="one-last-thing"></span>
+<!-- #one_last_thing -->
+​
 
+<!-- #One_Last_Thing -->
+​
+
+<!-- #One_last_thing -->
+​
+
+<!-- #one-last-thing -->
 ### One Last Thing
 
 _Main article: [One Last Thing](./One%20Last%20Thing.md)_
@@ -160,12 +243,16 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 
 — In-game description
 
-<span id="cast"></span><span id="Cast"></span>
+<!-- #major_characters -->
+​
 
-## Cast
+<!-- #Major_Characters -->
+​
 
-<span id="major_characters"></span><span id="Major_Characters"></span><span id="major-characters"></span>
+<!-- #Major_characters -->
+​
 
+<!-- #major-characters -->
 ### Major Characters
 
 - [Will Mackenzie](./Will%20Mackenzie.md) - (playable character) Mark Meer
@@ -173,8 +260,16 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 - [Grey Mother](./Grey%20Mother.md) - Gwynyth Walsh
 - [Methuselah](./Methuselah.md) - Richard Newman
 
-<span id="minor_characters"></span><span id="Minor_Characters"></span><span id="minor-characters"></span>
+<!-- #minor_characters -->
+​
 
+<!-- #Minor_Characters -->
+​
+
+<!-- #Minor_characters -->
+​
+
+<!-- #minor-characters -->
 ### Minor Characters
 
 - Maureen - (woman Will was on the phone with in [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md)) - Jackie Blackmore
@@ -183,18 +278,30 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 - [Lilith Barker](./Lilith%20Barker.md)
 - [Martin Barker](./Martin%20Barker.md)
 
-<span id="affliction_availability"></span><span id="Affliction_Availability"></span><span id="affliction-availability"></span>
+<!-- #positive_benefit -->
+​
 
-## Affliction Availability
+<!-- #Positive_Benefit -->
+​
 
-<span id="positive_benefit"></span><span id="Positive_Benefit"></span><span id="positive-benefit"></span>
+<!-- #Positive_benefit -->
+​
 
+<!-- #positive-benefit -->
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
 
-<span id="negative_affliction"></span><span id="Negative_Affliction"></span><span id="negative-affliction"></span>
+<!-- #negative_affliction -->
+​
 
+<!-- #Negative_Affliction -->
+​
+
+<!-- #Negative_affliction -->
+​
+
+<!-- #negative-affliction -->
 ### Negative Affliction
 
 - [Torn Clothing](./Torn%20Clothing.md)/[Minor Bruising](./Minor%20Bruising.md)/[Major Bruising](./Major%20Bruising.md)/[Laceration](./Laceration.md)
@@ -204,8 +311,19 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
-<span id="craft_able_unlocks"></span><span id="Craft-able_Unlocks"></span><span id="craft-able_unlocks"></span><span id="craft-able-unlocks"></span>
+<!-- #craft_able_unlocks -->
+​
 
+<!-- #Craft-able_Unlocks -->
+​
+
+<!-- #craft-able_unlocks -->
+​
+
+<!-- #Craft-able_unlocks -->
+​
+
+<!-- #craft-able-unlocks -->
 ## Craft-able Unlocks
 
 - [Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
@@ -227,8 +345,10 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 - [Tinder Plug](./Tinder%20Plug.md)
 - [Torch](./Torch.md)
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - ![Your Journey Begins icon](../assets/Your_Journey_Begins_icon.png) [Your Journey Begins](./Your%20Journey%20Begins.md)
@@ -238,8 +358,10 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 - ![Leaving the Old World Behind icon](../assets/Leaving_the_Old_World_Behind_icon.png) [Leaving the Old World Behind](./Leaving%20the%20Old%20World%20Behind.md)
 - ![Too Big to Fail icon](../assets/Too_Big_to_Fail_icon.png) [Too Big to Fail](./Too%20Big%20to%20Fail.md)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - "[Do not go gentle into that good night](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night) " is the most famous poem of Welsh poet Dylan Thomas, referenced alongside The Long Dark in multiple works of popular culture. The phrase and the refrain occur throughout the poem and perfectly characterize the beginning of Episode 1:  
@@ -247,8 +369,10 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
  _Rage, rage against the dying of the light."_
 - The town of Milton and the mission “Paradise Lost” are allusions to 17th century English poet John Milton’s _[Paradise Lost](https://en.m.wikipedia.org/wiki/Paradise_Lost)_, an epic poem about the fall of man and the subsequent expulsion from paradise.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Episode 1 Menu Background](../assets/Episode_1_Menu_Background.png)

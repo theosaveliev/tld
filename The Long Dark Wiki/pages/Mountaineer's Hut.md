@@ -24,8 +24,10 @@ Has a bed
 
 Has a workbench
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is the only suitable man-made location for setting up a [Safe House](./Safehouse.md) in the entire region, and many players choose to use it as their main base. This is because it has all the essentials: a [Work Bench](./Work%20Bench.md), two [beds](./Bed.md), and a fireplace. There is also a large hatch in the floor that can hold up to 40 kg of items. Hides, guts, and saplings can be cured inside the building. Furthermore, there is [ice fishing](./Ice%20Fishing.md) on Crystal Lake nearby, along with [Bear](./Bear.md), [Moose](./Moose.md), [Deer](./Deer.md), [Wolf](./Wolf.md), and [Rabbit](./Rabbit.md) hunting opportunities in the local area. Although being far from a [forge](./Forge.md) may make it difficult to replace lost arrows and damaged tools, the Mountaineer's Hut is fairly close to the [Milling Machine](./Milling%20Machine.md) and [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) at [Blackrock Prison](./Blackrock%20Prison.md), making it easier to maintain tools and replace used ammunition.
@@ -42,8 +44,16 @@ It is not possible for wildlife to enter the hut, even if the door is left open.
 
 Note that despite being considered "outside" in terms of [Decay](./Decay.md), leather can be [Cured](./Curing.md) inside, and you can still get [Cabin Fever](./Cabin%20Fever.md).
 
-<span id="possible_supplies"></span><span id="Possible_supplies"></span><span id="possible-supplies"></span>
+<!-- #possible_supplies -->
+​
 
+<!-- #Possible_supplies -->
+​
+
+<!-- #Possible_Supplies -->
+​
+
+<!-- #possible-supplies -->
 ## Possible supplies
 
 The following may spawn inside of the hut:
@@ -66,8 +76,10 @@ The [Cargo Container](./Cargo%20Container.md) on the right (doesn't spawn in Int
 - Upper door: [can openers](./Can%20Opener.md), [firestrikers](./Firestriker.md) and [sewing kits](./Sewing%20Kit.md)
 - Lower door: [Simple Parka](./Simple%20Parka.md), [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), [Sport Vest](./Sport%20Vest.md), [Wool Ear Wrap](./Wool%20Ear%20Wrap.md), [toques](./Wool%20Toque.md) and [Fleece Mittens](./Fleece%20Mittens.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The interior of the hut](../assets/Mountaineers_hut_interior.jpg)
@@ -81,3 +93,5 @@ The [Cargo Container](./Cargo%20Container.md) on the right (doesn't spawn in Int
 ![The hut is not properly insulated, and there is a big hole in the roof.](../assets/Broken_and_perforated_roof.jpg)
 
 ![Repaired roof](../assets/20251008152639_1.jpg)
+
+[ru:Хижина альпиниста](https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B6%D0%B8%D0%BD%D0%B0_%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0)

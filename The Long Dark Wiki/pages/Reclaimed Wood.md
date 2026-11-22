@@ -34,16 +34,29 @@
 
 **Reclaimed Wood** is a fuel and crafting material in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Reclaimed Wood is a relatively common resource harvested from furniture, or found near settlements, especially destroyed buildings. Reclaimed Wood may be used as fuel for [campfires](./Campfire.md), and crafting [snares](./Snare.md). Using Reclaimed Wood to start a campfire decreases the probability of it lighting by 5%.
 
 Reclaimed wood has a burning duration of 30 minutes.
 
-<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+<!-- #fire_starting_info -->
+​
 
+<!-- #Fire_Starting_info -->
+​
+
+<!-- #Fire_starting_info -->
+​
+
+<!-- #Fire_Starting_Info -->
+​
+
+<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Reclaimed Wood**
@@ -60,8 +73,10 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -81,16 +96,26 @@ Reclaimed wood has a burning duration of 30 minutes.
 | [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 | [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md)<br>- 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Reclaimed wood can be found inside and near buildings, fishing huts, or by harvesting crates, shelves, tables, chairs and etc. with a [Heavy Hammer](./Heavy%20Hammer.md), [Improvised Knife](./Improvised%20Knife.md), or [Improvised Hatchet](./Improvised%20Hatchet.md). Small wooden items may be broken down with bare hands, expending more calories and taking more time however.
 - Reclaimed Wood and [Cedar Firewood](./Cedar%20Firewood.md) are efficient sources of fuel per weight, at 120 min/kg. Since pieces of Reclaimed Wood are smaller than Cedar Firewood, they give more control of a fire's duration, allowing more efficient fuel without waste.
 - A single piece of Reclaimed Wood will heat a canned food or drink without it burning, as the fire will extinguish 10-20 minutes after the food or drink is done.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**

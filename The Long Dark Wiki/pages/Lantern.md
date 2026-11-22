@@ -22,8 +22,10 @@ Wintermute
 
 Yes **Lanterns** are stationary light-producing objects in _The Long Dark._ For the hand-held light source, see [Storm Lantern](./Storm%20Lantern.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Lanterns are stationary objects which can be lit (taking ~1 in-game minute) to provide light to the surrounding area but no additional [Warmth](./Warmth.md). They do not require a [starter](./Fire%20Starting.md) to ignite or consume [fuel](./Lantern%20Fuel.md) to burn, and cannot be looted or moved. Interacting with a lit Lantern grants the option to extinguish it. Lighting lanterns can be useful for navigation, conserving fuel and determining where the survivor has traveled.

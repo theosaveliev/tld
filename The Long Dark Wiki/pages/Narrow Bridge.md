@@ -18,8 +18,10 @@ Region
 
 **Type:** Landmark
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Narrow Bridge, looking west](../assets/Narrow_Bridge.jpg)

@@ -67,8 +67,10 @@ GAMEPLAY\_AcornCooked
 
 **Acorns (Cooked - Large Portion)** are a natural [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Acorns (Cooked - Large Portion) are worth 4 times the calories than that of [Acorns (Cooked)](./Acorns%20%28Cooked%29.md), but also weigh 4 times more than regular Acorns (Cooked).
@@ -77,12 +79,13 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 1 Acorns (Cooked - Large Portion) can be processed into [Acorn Grounds](./Acorn%20Grounds.md) using a [Heavy Hammer](./Heavy%20Hammer.md). The action is performable everywhere and takes 10 minutes of in-game time.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Acorns (Cooked - Large Portion)**
-
 
 15 minutes
 
@@ -96,16 +99,26 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 **Quantity:** 1
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Acorn Grounds](./Acorn%20Grounds.md) | None | - 1 × [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

@@ -43,24 +43,26 @@
 
 **Cooper** is a minor character that appears in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="appearance"></span><span id="Appearance"></span>
+<!-- #Appearance -->
+​
 
+<!-- #appearance -->
 ## Appearance
 
 Cooper wears a green toque and an apron sporting the Cooper's Blind logo. He wears a green inner shirt and a blue outer jacket.
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 A resident of [Perseverance Mills](./Perseverance%20Mills.md), Cooper is the barkeep and owner of [Cooper's Blind](./Cooper%27s%20Blind.md). Not much is known about his past, but he presents himself as an easy going fellow that wishes to keep the Bar Patrons warm and fed during the town's quarantine; as well as give out booze to the thirsty whenever they ask.
 
-<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+<!-- #Perseverance -->
+​
 
-## Episode 5
-
-<span id="perseverance"></span><span id="Perseverance"></span>
-
+<!-- #perseverance -->
 ### [Perseverance](./Perseverance.md)
 
 > “**Every day, another "refugee" from the cold, or three, showing up and camping out here at the bar... \[\] I'm happy to be able to help. As long as there's wood for the fireplace and booze for the patrons, that is.**”
@@ -69,8 +71,16 @@ A resident of [Perseverance Mills](./Perseverance%20Mills.md), Cooper is the bar
 
 [Astrid Greenwood](./Astrid%20Greenwood.md) is instructed by [Jane Yang](./Jane%20Yang.md) to look for the local town doctor, and visits Cooper's Blind. Inside, she meets Cooper standing by the bar and makes conversation with him. Cooper gives Astrid the [Brass Key](./Brass%20Key.md) to [Dr Larsen's Clinic](./Medical%20Clinic.md).
 
-<span id="a_cry_for_help"></span><span id="A_Cry_For_Help"></span><span id="a-cry-for-help"></span>
+<!-- #a_cry_for_help -->
+​
 
+<!-- #A_Cry_For_Help -->
+​
+
+<!-- #A_cry_for_help -->
+​
+
+<!-- #a-cry-for-help -->
 ### [A Cry For Help](./A%20Cry%20For%20Help.md)
 
 > “**She looks cold. Give her a whiskey!**”
@@ -81,8 +91,10 @@ Cooper reappears still holed up inside Cooper's Blind. He offers Astrid a whiske
 
 Cooper does not make any other appearance after this point, but is presumed to have been taken hostage by the Convicts inside his bar. He is also not seen at the end of the episode, but it can be inferred that he escaped the town and is now residing in the bunker underneath the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), along with the other town survivors.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Cooper at the bar.](../assets/Cooper_at_bar.jpg)

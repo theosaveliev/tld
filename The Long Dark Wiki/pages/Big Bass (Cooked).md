@@ -8,8 +8,6 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 **Big Bass (Cooked)**
 
 [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png)
@@ -36,20 +34,23 @@ _For for the raw version, see [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md)._
 
 The **Big Bass** is a legendary [Bass](./Smallmouth%20Bass%20%28Raw%29.md) rumored to be located in the [Pensive Pond](./Pensive%20Pond.md) in [Pleasant Valley](./Pleasant%20Valley.md) and is sought after in the [Tall Tales](./Tall%20Tales.md) side mission of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [story](./Wintermute.md) mode.
 
-<span id="story"></span><span id="Story"></span>
+<!-- #Story -->
+​
 
+<!-- #story -->
 ## Story
 
 The Big Bass is first learned about by the player after reading the book _Local Legends - The Big One_. This book can be found in the second bunker of [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md) within [Pleasant Valley](./Pleasant%20Valley.md).
 
 After reading this book, the player can fish at the [Pensive Pond](./Pensive%20Pond.md) with [Fishing Tackle](./Fishing%20Tackle.md) and catch the Big Bass. This completes the mission, rewarding the player with a large fish, which may be useful for the [Coming Storm](./Coming%20Storm.md) mission.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Big Bass (Cooked)**
-
 
 53 minutes
 
@@ -59,8 +60,16 @@ After reading this book, the player can fish at the [Pensive Pond](./Pensive%20P
 
 **Quantity:** 15.00 kg
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

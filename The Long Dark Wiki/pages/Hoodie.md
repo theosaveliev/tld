@@ -38,8 +38,10 @@
 
 The **Hoodie** is a type of [Clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A low tier inner torso shirt, a Hoodie offers little warmth and windproofing, along with a small waterproof and protection bonus. A Hoodie harbors a 1% additional protection bonus over a [Plaid Shirt](./Plaid%20Shirt.md), but 10% less waterproofing, and somewhat less cost efficient to repair than the latter.
@@ -52,8 +54,16 @@ A [Sweatshirt](./Sweatshirt.md) is a slight, but direct upgrade to the hoodie, t
 
 ![Clothing model damaged](../assets/Hoodie_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

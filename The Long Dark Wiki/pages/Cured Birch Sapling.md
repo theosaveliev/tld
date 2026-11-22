@@ -34,16 +34,20 @@ Once dried, the Green Birch Sapling will become a Cured Birch Sapling and will a
 
 The player can use a [Hunting Knife](./Hunting%20Knife.md) or Hatchet (or their improvised versions) to craft a cured birch sapling into 3 Arrow Shafts at a [Work Bench](./Work%20Bench.md).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Arrow Shaft](./Arrow%20Shaft.md) | None | - 1 × [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A birch sapling near several birch trees old](../assets/20170705181527_1.jpg)
@@ -54,8 +58,16 @@ The player can use a [Hunting Knife](./Hunting%20Knife.md) or Hatchet (or their 
 
 _A birch sapling as it appears on the [map](./Map.md)_
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**

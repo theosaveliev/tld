@@ -1,6 +1,6 @@
 # Supply Cache
 
-**Categories:** DLC Content, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
+**Categories:** DLC Content, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
 **Contents**
 
@@ -44,10 +44,10 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
+<!-- #Overview -->
+​
 
-
-<span id="overview"></span><span id="Overview"></span>
-
+<!-- #overview -->
 ## Overview
 
 **Supply Caches** (also called **Transponder Caches**) are small cylindrical shaped containers or strongboxes buried under the snow that the player can locate and uncover with the use of the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md).
@@ -58,14 +58,36 @@ Supply caches will spawn in one of four patterns, based on which of the four [lo
 
 Once found and uncovered, the location of the cache shows up once the survivor updates their map. this means that they could be effectively used as storage, up to 30 kg.![Range of transponder on the cache setting, credit to u/Tolkfan](../assets/Range_transponder.webp)_Range of transponder on the cache setting, credit to u/Tolkfan_In order to find a supply cache, the associated [Transmitter](./Transmitters.md) needs to be fixed. Note there are two transmitters (Desolation Point, Blackrock) which are not part of the [Signal Void](./Signal%20Void.md) quest. Repairing them is necessary to find their associated caches - for example, to find any caches in Coastal Highway you must first fix the transmitter in Desolation Point.
 
-<span id="caches_linked_to_the_forsaken_airfield_transmitter"></span><span id="Caches_linked_to_the_Forsaken_Airfield_Transmitter"></span><span id="caches-linked-to-the-forsaken-airfield-transmitter"></span>
+<!-- #caches_linked_to_the_forsaken_airfield_transmitter -->
+​
 
+<!-- #Caches_linked_to_the_Forsaken_Airfield_Transmitter -->
+​
+
+<!-- #Caches_linked_to_the_forsaken_airfield_transmitter -->
+​
+
+<!-- #Caches_Linked_To_The_Forsaken_Airfield_Transmitter -->
+​
+
+<!-- #caches-linked-to-the-forsaken-airfield-transmitter -->
 ## Caches linked to the Forsaken Airfield Transmitter
 
 [Source](https://www.youtube.com/watch?v=5a_5Uu82SrA&list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP&index=2)
 
-<span id="forsaken_airfield_4"></span><span id="Forsaken_Airfield_(4)"></span><span id="forsaken_airfield_(4)"></span><span id="forsaken-airfield-4"></span>
+<!-- #forsaken_airfield_4 -->
+​
 
+<!-- #Forsaken_Airfield_(4) -->
+​
+
+<!-- #forsaken_airfield_(4) -->
+​
+
+<!-- #Forsaken_airfield_(4) -->
+​
+
+<!-- #forsaken-airfield-4 -->
 ### [Forsaken Airfield](./Forsaken%20Airfield.md) (4)
 
 - Guaranteed: NE of [Fallow Dugout](./Fallow%20Dugout.md), near crashed Helicopter
@@ -79,8 +101,22 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 4: West of [Mindful Cabin](./Mindful%20Cabin.md), NW corner of map
 - Loot Table 4: Between [Final Approach](./Final%20Approach.md) and [Island Cottage](./Island%20Cottage.md), north of the [hunter's blind](./Hunter%27s%20Blinds.md)
 
-<span id="zone_of_contamination_2"></span><span id="Zone_of_Contamination_(2)"></span><span id="zone_of_contamination_(2)"></span><span id="zone-of-contamination-2"></span>
+<!-- #zone_of_contamination_2 -->
+​
 
+<!-- #Zone_of_Contamination_(2) -->
+​
+
+<!-- #zone_of_contamination_(2) -->
+​
+
+<!-- #Zone_of_contamination_(2) -->
+​
+
+<!-- #Zone_Of_Contamination_(2) -->
+​
+
+<!-- #zone-of-contamination-2 -->
 ### [Zone of Contamination](./Zone%20of%20Contamination.md) (2)
 
 - Loot Table 1 and 2: Near of [Overladen Pond](./Overladen%20Pond.md), in a [Chemical Hazard](./Chemical%20Hazard.md) area
@@ -90,8 +126,19 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: SW of [Unquenched Extraction](./Unquenched%20Extraction.md), across tree bridge (deer area)
 - Loot Table 4: At [Turbulent Pasture](./Turbulent%20Pasture.md)
 
-<span id="sundered_pass_3"></span><span id="Sundered_Pass_(3)"></span><span id="sundered_pass_(3)"></span><span id="sundered-pass-3"></span>
+<!-- #sundered_pass_3 -->
+​
 
+<!-- #Sundered_Pass_(3) -->
+​
+
+<!-- #sundered_pass_(3) -->
+​
+
+<!-- #Sundered_pass_(3) -->
+​
+
+<!-- #sundered-pass-3 -->
 ### [Sundered Pass](./Sundered%20Pass.md) (3)
 
 - Loot Table 1 and 3: south of [Seedling Spring](./Seedling%20Spring.md)
@@ -103,14 +150,36 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: underneath rope at northern west
 - Loot Table 4: NW of [Roamer's Cave](./Roamer%27s%20Cave.md)
 
-<span id="caches_linked_to_the_forlorn_muskeg_transmitter"></span><span id="Caches_linked_to_the_Forlorn_Muskeg_Transmitter"></span><span id="caches-linked-to-the-forlorn-muskeg-transmitter"></span>
+<!-- #caches_linked_to_the_forlorn_muskeg_transmitter -->
+​
 
+<!-- #Caches_linked_to_the_Forlorn_Muskeg_Transmitter -->
+​
+
+<!-- #Caches_linked_to_the_forlorn_muskeg_transmitter -->
+​
+
+<!-- #Caches_Linked_To_The_Forlorn_Muskeg_Transmitter -->
+​
+
+<!-- #caches-linked-to-the-forlorn-muskeg-transmitter -->
 ## Caches linked to the Forlorn Muskeg Transmitter
 
 [Source](https://www.youtube.com/watch?v=QHjZiSxMeUM&list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP&index=3)
 
-<span id="broken_railroad_1"></span><span id="Broken_Railroad_(1)"></span><span id="broken_railroad_(1)"></span><span id="broken-railroad-1"></span>
+<!-- #broken_railroad_1 -->
+​
 
+<!-- #Broken_Railroad_(1) -->
+​
+
+<!-- #broken_railroad_(1) -->
+​
+
+<!-- #Broken_railroad_(1) -->
+​
+
+<!-- #broken-railroad-1 -->
 ### [Broken Railroad](./Broken%20Railroad.md) (1)
 
 - Loot Table 1: around the Locomotive engine
@@ -118,8 +187,19 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: near the Hunting Lodge
 - Loot Table 4: NW of Maintenance Shed
 
-<span id="forlorn_muskeg_3"></span><span id="Forlorn_Muskeg_(3)"></span><span id="forlorn_muskeg_(3)"></span><span id="forlorn-muskeg-3"></span>
+<!-- #forlorn_muskeg_3 -->
+​
 
+<!-- #Forlorn_Muskeg_(3) -->
+​
+
+<!-- #forlorn_muskeg_(3) -->
+​
+
+<!-- #Forlorn_muskeg_(3) -->
+​
+
+<!-- #forlorn-muskeg-3 -->
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md) (3)
 
 - Guaranteed: near Muskeg Overlook
@@ -130,8 +210,19 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: in the NE
 - Loot Table 4: Marsh Ridge
 
-<span id="bleak_inlet_2"></span><span id="Bleak_Inlet_(2)"></span><span id="bleak_inlet_(2)"></span><span id="bleak-inlet-2"></span>
+<!-- #bleak_inlet_2 -->
+​
 
+<!-- #Bleak_Inlet_(2) -->
+​
+
+<!-- #bleak_inlet_(2) -->
+​
+
+<!-- #Bleak_inlet_(2) -->
+​
+
+<!-- #bleak-inlet-2 -->
 ### [Bleak Inlet](./Bleak%20Inlet.md) (2)
 
 - Loot Tables 1 and 3: near the northern Hunter's Blind
@@ -141,14 +232,36 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: Fallen Lighthouse
 - Loot Table 4: Cannery Trailers
 
-<span id="caches_linked_to_the_mountain_town_transmitter"></span><span id="Caches_Linked_to_the_Mountain_Town_Transmitter"></span><span id="caches-linked-to-the-mountain-town-transmitter"></span>
+<!-- #caches_linked_to_the_mountain_town_transmitter -->
+​
 
+<!-- #Caches_Linked_to_the_Mountain_Town_Transmitter -->
+​
+
+<!-- #Caches_linked_to_the_mountain_town_transmitter -->
+​
+
+<!-- #Caches_Linked_To_The_Mountain_Town_Transmitter -->
+​
+
+<!-- #caches-linked-to-the-mountain-town-transmitter -->
 ## Caches Linked to the Mountain Town Transmitter
 
 [Source](https://www.youtube.com/watch?v=ZijznZ3v76Q&list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP&index=5)
 
-<span id="mountain_town_2"></span><span id="Mountain_Town_(2)"></span><span id="mountain_town_(2)"></span><span id="mountain-town-2"></span>
+<!-- #mountain_town_2 -->
+​
 
+<!-- #Mountain_Town_(2) -->
+​
+
+<!-- #mountain_town_(2) -->
+​
+
+<!-- #Mountain_town_(2) -->
+​
+
+<!-- #mountain-town-2 -->
 ### [Mountain Town](./Mountain%20Town.md) (2)
 
 - Loot Tables 1 and 3: near the Plane Crash pond
@@ -158,8 +271,19 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: near the Church
 - Loot Table 4: near the pond south of the cave to HRV
 
-<span id="hushed_river_valley_3"></span><span id="Hushed_River_Valley_(3)"></span><span id="hushed_river_valley_(3)"></span><span id="hushed-river-valley-3"></span>
+<!-- #hushed_river_valley_3 -->
+​
 
+<!-- #Hushed_River_Valley_(3) -->
+​
+
+<!-- #hushed_river_valley_(3) -->
+​
+
+<!-- #Hushed_river_valley_(3) -->
+​
+
+<!-- #hushed-river-valley-3 -->
 ### [Hushed River Valley](./Hushed%20River%20Valley.md) (3)
 
 - Guaranteed: Lonely Cave
@@ -170,14 +294,36 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: north of Hushed River, between the ice caves on the west side
 - Loot Table 4: Quarrelling Falls
 
-<span id="caches_linked_to_the_pleasant_valley_transmitter"></span><span id="Caches_Linked_to_the_Pleasant_Valley_Transmitter"></span><span id="caches-linked-to-the-pleasant-valley-transmitter"></span>
+<!-- #caches_linked_to_the_pleasant_valley_transmitter -->
+​
 
+<!-- #Caches_Linked_to_the_Pleasant_Valley_Transmitter -->
+​
+
+<!-- #Caches_linked_to_the_pleasant_valley_transmitter -->
+​
+
+<!-- #Caches_Linked_To_The_Pleasant_Valley_Transmitter -->
+​
+
+<!-- #caches-linked-to-the-pleasant-valley-transmitter -->
 ## Caches Linked to the Pleasant Valley Transmitter
 
 [Source](https://www.youtube.com/watch?v=SBSV-1L-A0Y&list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP&index=4)
 
-<span id="mystery_lake_3"></span><span id="Mystery_Lake_(3)"></span><span id="mystery_lake_(3)"></span><span id="mystery-lake-3"></span>
+<!-- #mystery_lake_3 -->
+​
 
+<!-- #Mystery_Lake_(3) -->
+​
+
+<!-- #mystery_lake_(3) -->
+​
+
+<!-- #Mystery_lake_(3) -->
+​
+
+<!-- #mystery-lake-3 -->
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (3)
 
 - Guaranteed: underneath Forestry Lookout
@@ -188,8 +334,19 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 3: near the cabin in between Unnamed Pond and the Clearcut
 - Loot Table 4: Deadfall area
 
-<span id="pleasant_valley_3"></span><span id="Pleasant_Valley_(3)"></span><span id="pleasant_valley_(3)"></span><span id="pleasant-valley-3"></span>
+<!-- #pleasant_valley_3 -->
+​
 
+<!-- #Pleasant_Valley_(3) -->
+​
+
+<!-- #pleasant_valley_(3) -->
+​
+
+<!-- #Pleasant_valley_(3) -->
+​
+
+<!-- #pleasant-valley-3 -->
 ### [Pleasant Valley](./Pleasant%20Valley.md) (3)
 
 - Loot Tables 1 and 4: Point of Disagreement
@@ -203,16 +360,38 @@ Once found and uncovered, the location of the cache shows up once the survivor u
 - Loot Table 4: north of the township
 - Loot Table 4: north of the Farmstead
 
-<span id="caches_linked_to_the_desolation_point_transmitter"></span><span id="Caches_Linked_to_the_Desolation_Point_Transmitter"></span><span id="caches-linked-to-the-desolation-point-transmitter"></span>
+<!-- #caches_linked_to_the_desolation_point_transmitter -->
+​
 
+<!-- #Caches_Linked_to_the_Desolation_Point_Transmitter -->
+​
+
+<!-- #Caches_linked_to_the_desolation_point_transmitter -->
+​
+
+<!-- #Caches_Linked_To_The_Desolation_Point_Transmitter -->
+​
+
+<!-- #caches-linked-to-the-desolation-point-transmitter -->
 ## Caches Linked to the Desolation Point Transmitter
 
 [Source](https://www.youtube.com/watch?v=6ddnKZpscgM&list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP&index=6)
 
 Note these caches require fixing the Desolation Point [Transmitter](./Transmitters.md), which is not required for the [Signal Void](./Signal%20Void.md) quest.
 
-<span id="coastal_highway_3"></span><span id="Coastal_Highway_(3)"></span><span id="coastal_highway_(3)"></span><span id="coastal-highway-3"></span>
+<!-- #coastal_highway_3 -->
+​
 
+<!-- #Coastal_Highway_(3) -->
+​
+
+<!-- #coastal_highway_(3) -->
+​
+
+<!-- #Coastal_highway_(3) -->
+​
+
+<!-- #coastal-highway-3 -->
 ### [Coastal Highway](./Coastal%20Highway.md) (3)
 
 - Guaranteed: south of Coastal Townsite, OR at a plane crash site SE of coastal townsite
@@ -223,8 +402,19 @@ Note these caches require fixing the Desolation Point [Transmitter](./Transmitte
 - Loot Table 3: Misanthrope's Homestead
 - Loot Table 4: eastern tip of Jackrabbit Island
 
-<span id="desolation_point_1"></span><span id="Desolation_Point_(1)"></span><span id="desolation_point_(1)"></span><span id="desolation-point-1"></span>
+<!-- #desolation_point_1 -->
+​
 
+<!-- #Desolation_Point_(1) -->
+​
+
+<!-- #desolation_point_(1) -->
+​
+
+<!-- #Desolation_point_(1) -->
+​
+
+<!-- #desolation-point-1 -->
 ### [Desolation Point](./Desolation%20Point.md) (1)
 
 - Loot Table 1: Little Island
@@ -232,16 +422,38 @@ Note these caches require fixing the Desolation Point [Transmitter](./Transmitte
 - Loot Table 3: near Broken Bridge
 - Loot Table 4: near Stone Church
 
-<span id="caches_linked_to_the_blackrock_transmitter"></span><span id="Caches_Linked_to_the_Blackrock_Transmitter"></span><span id="caches-linked-to-the-blackrock-transmitter"></span>
+<!-- #caches_linked_to_the_blackrock_transmitter -->
+​
 
+<!-- #Caches_Linked_to_the_Blackrock_Transmitter -->
+​
+
+<!-- #Caches_linked_to_the_blackrock_transmitter -->
+​
+
+<!-- #Caches_Linked_To_The_Blackrock_Transmitter -->
+​
+
+<!-- #caches-linked-to-the-blackrock-transmitter -->
 ## Caches Linked to the Blackrock Transmitter
 
 [Source](https://www.youtube.com/watch?v=q1gCysfC-Ac&list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP&index=7)
 
 Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md), which is not required for the [Signal Void](./Signal%20Void.md) quest.
 
-<span id="ash_canyon_2"></span><span id="Ash_Canyon_(2)"></span><span id="ash_canyon_(2)"></span><span id="ash-canyon-2"></span>
+<!-- #ash_canyon_2 -->
+​
 
+<!-- #Ash_Canyon_(2) -->
+​
+
+<!-- #ash_canyon_(2) -->
+​
+
+<!-- #Ash_canyon_(2) -->
+​
+
+<!-- #ash-canyon-2 -->
 ### [Ash Canyon](./Ash%20Canyon.md) (2)
 
 - Loot Tables 1 and 3: Bitter Marsh
@@ -251,8 +463,16 @@ Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md),
 - Loot Table 3: Runaway Bridge
 - Loot Table 4: Miner's Folly
 
-<span id="blackrock_2"></span><span id="Blackrock_(2)"></span><span id="blackrock_(2)"></span><span id="blackrock-2"></span>
+<!-- #blackrock_2 -->
+​
 
+<!-- #Blackrock_(2) -->
+​
+
+<!-- #blackrock_(2) -->
+​
+
+<!-- #blackrock-2 -->
 ### [Blackrock](./Blackrock.md) (2)
 
 - Loot Tables 1 and 2: NW of Bricklayer's Retreat
@@ -262,8 +482,19 @@ Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md),
 - Loot Table 3: Whistling Perch
 - Loot Table 4: Cook's Farm
 
-<span id="timberwolf_mountain_2"></span><span id="Timberwolf_Mountain_(2)"></span><span id="timberwolf_mountain_(2)"></span><span id="timberwolf-mountain-2"></span>
+<!-- #timberwolf_mountain_2 -->
+​
 
+<!-- #Timberwolf_Mountain_(2) -->
+​
+
+<!-- #timberwolf_mountain_(2) -->
+​
+
+<!-- #Timberwolf_mountain_(2) -->
+​
+
+<!-- #timberwolf-mountain-2 -->
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md) (2)
 
 - Loot Tables 1 and 2: north of the tree trunk bridge across Echo Ravine
@@ -273,8 +504,16 @@ Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md),
 - Loot Table 3: NE corner of map
 - Loot Table 4: near cave to Ash Canyon
 
-<span id="map_coordinates"></span><span id="Map_Coordinates"></span><span id="map-coordinates"></span>
+<!-- #map_coordinates -->
+​
 
+<!-- #Map_Coordinates -->
+​
+
+<!-- #Map_coordinates -->
+​
+
+<!-- #map-coordinates -->
 ## Map Coordinates
 
 [Source](https://thelongdark.fandom.com/wiki/User:Nanavern) (from version 2.40)
@@ -382,16 +621,20 @@ Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md),
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | 88.15 | -313.64 | 1, 2 | Generic | 1, 2 | Empty |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | 62.4 | -414.45 | 3, 4 | Generic | 3, 4 | Empty |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 An empty, opened Supply Cache can be found in the [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) of the [Old Settlement](./Old%20Settlement.md). This may have been used by [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md) long ago.
 
 ![The empty Supply Cache in the Basement.](../assets/Supply_Cache_Basement.jpg)
 
-<span id="references"></span><span id="References"></span>
+<!-- #References -->
+​
 
+<!-- #references -->
 ## References
 
 1. Bashrobe, 2023. [The Long Dark - Shortwave Bunkers and Caches](https://youtube.com/playlist?list=PLj0PiwRqk8B6PjJCXhmblHGB6nxiCPQJP).

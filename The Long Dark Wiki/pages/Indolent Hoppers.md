@@ -24,8 +24,10 @@ Firebox
 
 Has a workbench
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The railyard is located behind the [Headframe Building](./Headframe%20Building.md), and consist of a group of buildings and several railroads with abandoned coal/fuel cars. 3 sheds can be entered with varying degrees of loot:

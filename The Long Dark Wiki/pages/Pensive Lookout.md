@@ -24,14 +24,18 @@ Has a bed
 
 Provides some shelter Pensive Lookout is the third intact fire lookout tower in the game, preceded by the [Forestry Lookout](./Forestry%20Lookout.md) and [Abandoned Lookout](./Abandoned%20Lookout.md). Other than bearing more weathered paint, it is nearly identical to the other towers from the outside. Also like the others, Pensive Lookout does not present a loading screen upon entering.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Pensive Lookout is an abandoned fire lookout tower in [Bleak Inlet](./Bleak%20Inlet.md). It is positioned on the east edge of the plateau and has a climbing rope area for the player to travel between the upper and lower sections of the region, although there may not be a [Mountaineering Rope](./Mountaineering%20Rope.md) supplied (the player could find it hanging on the side of the building). Inside the lookout, the player may find a [Hunting Knife](./Hunting%20Knife.md) or [hatchet](./Hatchet.md), plenty of tables as well as some stray firewood. [Dusting Sulfur](./Dusting%20Sulfur.md), [Stump Remover](./Stump%20Remover.md), or even a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) may spawn as well.
 
-<span id="safehouse"></span><span id="Safehouse"></span>
+<!-- #Safehouse -->
+​
 
+<!-- #safehouse -->
 ## Safehouse
 
 Players may find that the lookout makes a good safehouse, as the plateau is relatively safe from the predatory wildlife below.

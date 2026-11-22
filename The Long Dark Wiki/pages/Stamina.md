@@ -14,10 +14,12 @@
 
 ![Sprint icon](../assets/Sprint_icon.png)
 
-**Stamina** represents the player's ability to undertake several physically demanding tasks. Sprinting or Rope Climbing both reduce stamina. When the stamina bar is completely drained, rope climbing becomes slower and more dangerous, and the player is unable to sprint. The stamina bar will gradually refill itself when not in active use.
+**Stamina** represents the player's ability to undertake several physically demanding tasks. Sprinting or Rope Climbing both reduce stamina. When the stamina bar is completely drained, rope climbing becomes slower and more dangerous, and the player is unable to sprint. The stamina bar will gradually refill itself when not in active use. [fr:Stamina](https://fr.wikipedia.org/wiki/Stamina)
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The amount of stamina that the player has is set and cannot be increased through leveling skills. The current maximum stamina can be viewed by navigating to the _Clothing_ screen within the [Survival Menu](./Survival%20Menu.md).
@@ -26,8 +28,16 @@ The amount of stamina that the player has is set and cannot be increased through
 
 Different types of clothing have a different mobility penalty attached to them. When wearing clothing with a higher mobility penalty, the player's stamina bar will have a lower maximum capacity.
 
-<span id="positive_modifiers"></span><span id="Positive_modifiers"></span><span id="positive-modifiers"></span>
+<!-- #positive_modifiers -->
+​
 
+<!-- #Positive_modifiers -->
+​
+
+<!-- #Positive_Modifiers -->
+​
+
+<!-- #positive-modifiers -->
 ### Positive modifiers
 
 The following items positively impact the player's stamina.
@@ -45,8 +55,16 @@ The following items positively impact the player's stamina.
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
 
-<span id="negative_modifiers"></span><span id="Negative_modifiers"></span><span id="negative-modifiers"></span>
+<!-- #negative_modifiers -->
+​
 
+<!-- #Negative_modifiers -->
+​
+
+<!-- #Negative_Modifiers -->
+​
+
+<!-- #negative-modifiers -->
 ### Negative modifiers
 
 Suffering from the following afflictions affects the player's stamina.
@@ -60,14 +78,18 @@ Suffering from the following afflictions affects the player's stamina.
 | [Infection icon](../assets/Infection_icon.png) | [Infection](./Infection.md) | - Increase in fatigue gained while performing actions | Until treated |
 | [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | - Maximum fatigue amd stamina is reduced by 2% per day | Until treated |
 
-<span id="activities"></span><span id="Activities"></span>
+<!-- #Activities -->
+​
 
+<!-- #activities -->
 ## Activities
 
 Stamina is used primarily for two activities: sprinting and rope climbing.
 
-<span id="sprinting"></span><span id="Sprinting"></span>
+<!-- #Sprinting -->
+​
 
+<!-- #sprinting -->
 ### Sprinting
 
 "_Walking through the snow with a heavy pack can get tiring, but sometimes you just have to run. Escape wildlife, avoid weak ice, or get to shelter faster by Sprinting. Keep in mind that Sprinting uses up more Calories than Walking, and your Sprint stamina is limited by how restrictive your Clothing is. It takes you a little while to recover Sprint stamina, so use it wisely!_"
@@ -76,8 +98,16 @@ Stamina is used primarily for two activities: sprinting and rope climbing.
 
 Sprint is a gameplay mechanic that enables the player to move faster. When active the player can run much faster than walking speed, at about 10.0 m/s (36 km/h) on level ground, as opposed to around 3.70 m/s (13.30 km/h) when walking. Sprinting can be used for evasion, avoiding [Weak Ice](./Weak%20Ice.md), or simply moving quickly to another location.
 
-<span id="rope_climbing"></span><span id="Rope_Climbing"></span><span id="rope-climbing"></span>
+<!-- #rope_climbing -->
+​
 
+<!-- #Rope_Climbing -->
+​
+
+<!-- #Rope_climbing -->
+​
+
+<!-- #rope-climbing -->
 ### Rope Climbing
 
 _Main article: [Rope Climbing](./Rope%20Climbing.md)_
@@ -94,8 +124,10 @@ Stamina for climbing is not affected by the Sprint Penalty statistic of worn clo
 
 It can be dangerous to Sprint just prior to a Climb, without allowing Stamina to recover.
 
-<span id="feats"></span><span id="Feats"></span>
+<!-- #Feats -->
+​
 
+<!-- #feats -->
 ## Feats
 
 Several [Feats](./Feats.md) can affect the player's stamina and are listed below, along with the requirements for unlocking and the unique effects.

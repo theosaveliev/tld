@@ -22,8 +22,10 @@
 
 Provides some shelter **Fallen Lighthouse** is the collapsed ruin of a former lighthouse, similar to the intact building in [Desolation Point](./Desolation%20Point.md), in [Bleak Inlet](./Bleak%20Inlet.md). It is an iconic landmark used associated with the region.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The remnants of the tower sit on the top of a hill, with frequent rabbit and deer spawns nearby. Inside the lighthouse, the player will find a six-burner [stove](./Stove.md), [dusting sulfur](./Dusting%20Sulfur.md) or a [sewing kit](./Sewing%20Kit.md), a plastic container, as well as some firewood. If the player climbs the lighthouse stairs to the top, they can find an [Emergency Kit](./Emergency%20Kit.md).
@@ -34,16 +36,20 @@ Despite these Imitations, it can make a good temporary camp for those well-suppl
 
 The lighthouse is also notable for being the spawn location for [As the Dead Sleep](./As%20the%20Dead%20Sleep.md).
 
-<span id="strategy"></span><span id="Strategy"></span>
+<!-- #Strategy -->
+​
 
+<!-- #strategy -->
 ## Strategy
 
 The Fallen Lighthouse provides a good view of the player's surroundings, only bested by the radio hut on the mountain; on a clear day, it's possible to see most of the major locations in Bleak Inlet from its top. Although the aspects of the location and terrain around it would make for a good safehouse, it might be challenging for the player to make it through a night there, as the nights can get very cold and timberwolf attacks are possible. The shores around the lighthouse are also the only place in Bleak Inlet where [Beachcombing](./Beachcombing.md) is possible, potentially making it vital to a long-term strategy for surviving in the region.
 
 Aside from this, it makes a somewhat good location for a base of operations, only sleeping somewhere else might be required.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![SS BI FallenLighthouse02](../assets/SS-BI-FallenLighthouse02.jpg)
@@ -55,3 +61,5 @@ Aside from this, it makes a somewhat good location for a base of operations, onl
 ![Behind the Fallen Lighthouse](../assets/Behind_the_Fallen_Lighthouse.png)
 
 ![Concept of the Lighthouse](../assets/Errant_Pilgrim.png)
+
+[es:Faro derrumbado](https://es.wikipedia.org/wiki/Faro_derrumbado) [ru:Упавший\_маяк](https://ru.wikipedia.org/wiki/%D0%A3%D0%BF%D0%B0%D0%B2%D1%88%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA)

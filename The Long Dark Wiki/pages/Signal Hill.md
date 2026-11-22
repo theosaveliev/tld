@@ -40,8 +40,16 @@ Has a bed
 
 Has a workbench|-
 
-<span id="location_features"></span><span id="Location_features"></span><span id="location-features"></span>
+<!-- #location_features -->
+​
 
+<!-- #Location_features -->
+​
+
+<!-- #Location_Features -->
+​
+
+<!-- #location-features -->
 ## Location features
 
 Signal Hill can be accessed by trail either from the east or the west up the southern mountain.
@@ -61,14 +69,18 @@ Overall, Signal Hill is one of the best places to find high-tier loot in Pleasan
 - [Filing cabinets](./File%20Cabinet.md)
 - [Fire barrel](./Fire%20Barrel.md) (located outside next to shack)
 
-<span id="story"></span><span id="Story"></span>
+<!-- #Story -->
+​
 
+<!-- #story -->
 ## Story
 
 In the final chapter of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [Will Mackenzie](./Will%20Mackenzie.md) is following [Jeremiah](./Jeremiah.md)'s directions to Signal Hill, where he hopes to try to send a radio message to [Perseverance Mills](./Perseverance%20Mills.md) before continuing there on foot. Near the end of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md), Astrid must brave a blizzard to reach Signal Hill in the hope of finding a functional radio to contact [Perseverance Mills](./Perseverance%20Mills.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A landscape of Pleasant Valley with Signal Hill in the distance. Its radio tower is silhouetted against the sky.](../assets/Pleasant_Valley_landscape_01.png)
@@ -76,3 +88,5 @@ In the final chapter of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [
 ![A view of Signal Hill.](../assets/Signal_Hill.png)
 
 ![Approaching Signal Hill from the Southwest](../assets/Screen_17ccd10b-d074-4dc4-b88d-0d25d7ab304d_hi.png)
+
+[ru:Холм радиовышки](https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BC_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%B2%D1%8B%D1%88%D0%BA%D0%B8)

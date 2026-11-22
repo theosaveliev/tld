@@ -8,8 +8,6 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 **Distress Pistol Kit**
 
 [Distress Pistol Kit icon](../assets/Distress_Pistol_Kit_icon.png)

@@ -44,8 +44,10 @@ _For the raw version, see [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)._
 
 **Coho Salmon (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 At 0% condition food disappears if inside of a container, but not outside of containers or in the player's inventory.
@@ -54,12 +56,13 @@ Using salmon on a lit [fire](./Fire.md) yields Cooked Salmon. Cooked fish increa
 
 Cooking Salmon improves the [Cooking Skill](./Skills.md#Cooking) and requires a lit fire and 10 minutes. Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn (twice its 'Ready' cooking time), destroying the item and damaging a Cooking Pot if used.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Coho Salmon (Cooked)**
-
 
 10.0 minutes
 
@@ -69,8 +72,10 @@ Cooking Salmon improves the [Cooking Skill](./Skills.md#Cooking) and requires a 
 
 **Quantity:** 1.00 kg
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Raw Uncooked Prepared](../assets/Coho_Salmon_%28Cooked%29_icon.png)
@@ -85,14 +90,24 @@ Cooking Salmon improves the [Cooking Skill](./Skills.md#Cooking) and requires a 
 
 ![Ruined](../assets/Coho_Salmon_%28Cooked%29_Ruined_icon.png)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Cooked Coho Salmons are currently one of the only food items in the game that can yield more than 2500 kcal and therefore satiate a starving player completely (the other being [Burbot](./Burbot%20%28Cooked%29.md)). But it requires player's Cooking Skill and [Ice Fishing](./Ice%20Fishing.md) Skill to be at Level 5.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**

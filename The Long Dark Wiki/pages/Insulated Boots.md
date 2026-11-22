@@ -36,16 +36,20 @@
 
 **Insulated Boots** are a type of [Clothing](./Clothing.md) footwear in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 They are the best non-craftable footwear available for overall statistics. [Ski Boots](./Ski%20Boots.md) provide equivalent warmth and better windchill, but at more than twice the weight and with a high 20% mobility penalty.
 
 The rare [Mukluks](./Mukluks.md) are half a degree colder and 10% less waterproof, but also have just 3% of sprint penalty.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Insulated_boots_%28historical%29.png)

@@ -40,8 +40,16 @@ _For the version encountered in [Wintermute](./Wintermute.md), see [The Frozen A
 
 **The Frozen Angler** is a [Research Book](./Research%20Book.md) used to improve the [Ice Fishing](./Ice%20Fishing.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
-<span id="research_info"></span><span id="Research_info"></span><span id="research-info"></span>
+<!-- #research_info -->
+​
 
+<!-- #Research_info -->
+​
+
+<!-- #Research_Info -->
+​
+
+<!-- #research-info -->
 ## Research info
 
 _The Frozen Angler_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Ice Fishing skill points](./Ice%20Fishing.md#Skill_levels) are awarded on completing the research.
@@ -52,8 +60,19 @@ Research can only be performed under the following conditions:
 - [Warmth](./Warmth.md), [Fatigue](./Fatigue.md), [Thirst](./Thirst.md), and [Hunger](./Hunger.md) exceed 0%
 - No negative [Afflictions](./Afflictions.md)
 
-<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+<!-- #fire_starting_info -->
+​
 
+<!-- #Fire_Starting_info -->
+​
+
+<!-- #Fire_starting_info -->
+​
+
+<!-- #Fire_Starting_Info -->
+​
+
+<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **The Frozen Angler**
@@ -70,24 +89,36 @@ Research can only be performed under the following conditions:
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Reaching 0% in any Needs while researching will immediately end the research session and negate any progress for that research attempt.
 - Attempting to burn a copy of _The Frozen Angler_ when it has not been fully read will give a confirmation warning before it can be burned.
 - Once a copy of _The Frozen Angler_ is fully researched, it will no longer appear in the Tools section of the Backpack.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![3D Model](../assets/The_frozen_angler.png)
 
 ![Old model](../assets/Frozen_Angler_Old.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**

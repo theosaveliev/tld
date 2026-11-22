@@ -43,8 +43,10 @@
 
 **Improvised Crampons** are a [clothing](./Clothing.md) accessory in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 When worn in the either accessory slot, Improvised Crampons grant the Benefit [Sure Footing](./Sure%20Footing.md) which has three effects:
@@ -61,25 +63,29 @@ If the player's footwear (shoes and 2 socks slots) are removed (whether by the p
 
 - Despite being designed to attach to shoes, the player can wear Improvised Crampons on their socks, which should not be possible.
 
-<span id="repairing"></span><span id="Repairing"></span>
+<!-- #Repairing -->
+​
 
+<!-- #repairing -->
 ## Repairing
 
 Can be repaired with 2 pieces of [Scrap Metal](./Scrap%20Metal.md) using [Simple](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) as of Signal Void. Need to be unequipped to repair.
 
-<span id="obtaining"></span><span id="Obtaining"></span>
+<!-- #Obtaining -->
+​
 
+<!-- #obtaining -->
 ## Obtaining
 
 Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), are craftable as seen below. They cannot be found naturally in the world. (except on Interloper)
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Improvised Crampons**
-
-
 
 240 minutes (4 hour 0 minutes)
 
@@ -93,17 +99,27 @@ Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), a
 
 **Quantity:** 4
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Improvised_Crampons_Model_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_%26_2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_&_2.10)):**
   - Added to game.
 
 ## Trivia

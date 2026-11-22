@@ -19,8 +19,10 @@
 
 **Wintermute:** Yes A **Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Wolf](./Wolf.md). They can occasionally be found as ravaged carcasses preplaced across [Great Bear Island](./Great%20Bear%20Island.md). [Crows](./Crow.md) will fly around a Wolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 A Wolf Carcass may be harvested for 3.00-6.00 kg of [raw meat](./Wolf%20Meat%20%28Raw%29.md), 1 [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) and 2 guts. Wolf hides can be cured to craft [Wolfskin Coat](./Wolfskin%20Coat.md). On Stalker and Interloper modes, wolf meat carries the risk of [Intestinal Parasites](./Intestinal%20Parasites.md).
@@ -32,8 +34,16 @@ A Wolf Carcass may be harvested for 3.00-6.00 kg of [raw meat](./Wolf%20Meat%20%
 | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | [Missing image: Gut\_icon.png]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
-<span id="preplaced_locations"></span><span id="Preplaced_Locations"></span><span id="preplaced-locations"></span>
+<!-- #preplaced_locations -->
+​
 
+<!-- #Preplaced_Locations -->
+​
+
+<!-- #Preplaced_locations -->
+​
+
+<!-- #preplaced-locations -->
 ## Preplaced Locations
 
 Wolf Carcasses are very rarely found placed in the world, often only being found in regions that [Timberwolf](./Timberwolf.md) packs frequent, serving as early warning signs for the region. Meat on a Ravaged Carcass will always be Mouldy (60% Condition).
@@ -44,16 +54,29 @@ Wolf Carcasses are very rarely found placed in the world, often only being found
 - At the bottom of the ravine below [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md) in [Broken Railroad](./Broken%20Railroad.md).
 - [Along the coastline](./Beachcombing.md) in applicable regions.
 
-<span id="zone_of_contamination"></span><span id="Zone_of_Contamination"></span><span id="zone-of-contamination"></span>
+<!-- #zone_of_contamination -->
+​
 
+<!-- #Zone_of_Contamination -->
+​
+
+<!-- #Zone_of_contamination -->
+​
+
+<!-- #Zone_Of_Contamination -->
+​
+
+<!-- #zone-of-contamination -->
 ### [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 - On a hill behind the Mess Hall in [Idle Camp](./Idle%20Camp.md) in [Zone of Contamination](./Zone%20of%20Contamination.md).
 - In the hills near [Indolent Hoppers](./Indolent%20Hoppers.md) (farthest most maintenance shed has a [Rock Climb](./Rock%20Climb.md)) with a dead hunter [Frozen Corpse](./Frozen%20Corpse.md) in [Zone of Contamination](./Zone%20of%20Contamination.md).
 - On a ridge north of [Smoker's Cave](./Smoker%27s%20Cave.md), surrounding by Simple Arrows.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The ravaged carcass of "Fluffy" in the Carter Hydro Dam in Episode 2](../assets/Dead_fluffy.jpg)
@@ -72,8 +95,10 @@ _A wolf carcass as seen in the [Escape the Darkwalker](./Escape%20the%20Darkwalk
 
 ![A harvested fresh wolf carcass](../assets/Wolf_Carcass_Harvested.jpg)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

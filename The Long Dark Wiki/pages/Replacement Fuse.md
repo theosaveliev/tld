@@ -15,8 +15,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Replacement Fuse**
 
 [Replacement Fuse icon](../assets/Replacement_Fuse_icon.png)
@@ -39,24 +37,44 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **Replacement Fuse** is an item that was first added in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of Story Mode. It was later added to survival mode in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
-<span id="use"></span><span id="Use"></span>
+<!-- #story_mode -->
+​
 
-## Use
+<!-- #Story_Mode -->
+​
 
-<span id="story_mode"></span><span id="Story_Mode"></span><span id="story-mode"></span>
+<!-- #Story_mode -->
+​
 
+<!-- #story-mode -->
 ### Story Mode
 
 In Story Mode, the fuses are found in the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md). They are used to replace [burned out fuses](./Burned%20Out%20Fuse.md) to power up the elevator and leave [Pleasant Valley](./Pleasant%20Valley.md).
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
 ### Survival Mode
 
 In Survival Mode, the fuses are used to repair [transmitters](./Transmitters.md). Three fuses are needed to repair each transmitter. Several fuses can often be found near the broken-down transmitter, but extra fuses can also be found scattered throughout the world in industrial locations.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
@@ -64,3 +82,5 @@ In Survival Mode, the fuses are used to repair [transmitters](./Transmitters.md)
   - Added to game.
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to Survival Mode.
+
+[ru:Сменный предохранитель](https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)

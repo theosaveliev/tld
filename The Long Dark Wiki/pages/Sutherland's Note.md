@@ -28,8 +28,10 @@
 
 **Sutherland's Note** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Sutherland's Note**_
@@ -49,7 +51,3 @@ There's a big storm comin', they say. All the wildlife is spooked. No one's stan
 Maybe you got out just in time.
 
 - Sutherland
-
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
-
-## Game history

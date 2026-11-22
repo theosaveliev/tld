@@ -33,56 +33,73 @@
 
 The **Suzuki Geothermal Region** is a [Wintermute](./Wintermute.md)-exclusive region, which consists 3 Geothermal Substations and some nearby mountains. It is accessed by the [Suzuki Environs](./Suzuki%20Environs.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Suzuki Geothermal Region is one of the most barest maps in all of [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md), featuring very little vegetation. It features a primary road that loops across the region, which occasionally blocked by avalanches and broken bridges, forcing the player to take alternative routes. A massive, hissing steam pipe directs the player towards Geothermal Substation Two during the primary mission. This region is also, utterly, full of [Wolves](./Wolf.md), with altered AI in order to be twice as challenging.
 
 Each of the Substations have very similar floorplans, with the downside of having certain areas becoming blocked with steam once the Substation is activated. Ventilation shafts can be used to navigate around these plooms.
 
-<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+<!-- #episode_5 -->
+​
 
+<!-- #Episode_5 -->
+​
+
+<!-- #episode-5 -->
 ## Episode 5
 
 [Will Mackenzie](./Will%20Mackenzie.md) goes through here with a time limit of three hours to activate the Substations in order to give [Jace](./Jace.md) and [Atwood](./Atwood.md) a fighting chance at recovering the data collected at the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md). After activating Geothermal Substation Two, [Glimmer Fog](./Glimmer%20Fog.md) will cover the region. After crossing the final bridge, Mackenzie will have to face off against a [Cougar](./Cougar.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #geothermal_substation_one -->
+​
 
-## Locations
+<!-- #Geothermal_Substation_One -->
+​
 
-<span id="first_broken_bridge"></span><span id="First_Broken_Bridge"></span><span id="first-broken-bridge"></span>
+<!-- #Geothermal_substation_one -->
+​
 
-#### **First Broken Bridge**
-
-<span id="geothermal_substation_one"></span><span id="Geothermal_Substation_One"></span><span id="geothermal-substation-one"></span>
-
+<!-- #geothermal-substation-one -->
 #### **Geothermal Substation One**
 
 A [revolver](./Revolver.md), with [ammo](./Revolver%20Ammunition.md), can be found here.
 
-<span id="geothermal_substation_two"></span><span id="Geothermal_Substation_Two"></span><span id="geothermal-substation-two"></span>
+<!-- #geothermal_substation_two -->
+​
 
+<!-- #Geothermal_Substation_Two -->
+​
+
+<!-- #Geothermal_substation_two -->
+​
+
+<!-- #geothermal-substation-two -->
 #### **Geothermal Substation Two**
 
 A second [shotgun](./Shotgun.md) can be found here, alongside [ammo](./Shotgun%20Ammunition.md).
 
-<span id="second_broken_bridge"></span><span id="Second_Broken_Bridge"></span><span id="second-broken-bridge"></span>
+<!-- #second_broken_bridge -->
+​
 
+<!-- #Second_Broken_Bridge -->
+​
+
+<!-- #Second_broken_bridge -->
+​
+
+<!-- #second-broken-bridge -->
 #### **Second Broken Bridge**
 
 Despite it being marked as Broken, this bridge can still be crossed by walking along the Steam Pipe following it. A supply crate containing a second revolver, aswell as mixed ammo, can be found near the pipe.
 
-<span id="geothermal_substation_three"></span><span id="Geothermal_Substation_Three"></span><span id="geothermal-substation-three"></span>
+<!-- #Trivia -->
+​
 
-#### **Geothermal Substation Three**
-
-<span id="rope_bridge"></span><span id="Rope_Bridge"></span><span id="rope-bridge"></span>
-
-#### **Rope Bridge**
-
-<span id="trivia"></span><span id="Trivia"></span>
-
+<!-- #trivia -->
 ## Trivia
 
 - Mackenzie will make a direct reference to H.P Lovecraft's 1931 novella [At the Mountains of Madness](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) after crossing the second bridge.

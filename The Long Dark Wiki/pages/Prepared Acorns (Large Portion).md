@@ -59,26 +59,30 @@ GAMEPLAY\_AcornShelled
 
 **Prepared Acorns (Large Portion)** are a material in The Long Dark.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Prepared Acorns (Large Portion) can be created after shelling [Acorns](./Acorns.md) into [Prepared Acorns](./Prepared%20Acorns.md) and then grouping 4 of them into a Large Portion via the Crafting menu. The Large Portion can then be cooked into [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md), saving fuel and cooking times in the process compared to individually cooking 4 Prepared Acorns.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Curiously, 1 Prepared Acorns (Large Portion) weighs 0.05 kg more than 4 Prepared Acorns, despite 4 Prepared Acorns only weighing 0.20 kg.
 - 1 Prepared Acorns (Large Portion) can be found at the top of the elevator shaft in the [Headframe Building](./Headframe%20Building.md), on a [Barrel](./Barrel.md).
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Prepared Acorns (Large Portion)**
-
-
 
 1 minutes
 
@@ -90,8 +94,10 @@ Prepared Acorns (Large Portion) can be created after shelling [Acorns](./Acorns.
 
 **Quantity:** 4
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |

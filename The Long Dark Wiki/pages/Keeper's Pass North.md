@@ -33,8 +33,10 @@
 
 **Keeper's Pass North** is the 5th Transition Zone [Region](./Region.md) introduced into _[The Long Dark](./The%20Long%20Dark.md)_. It connects to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) via a cave system (which in turn connects to [Pleasant Valley](./Pleasant%20Valley.md)) and to [Blackrock](./Blackrock.md) to the north.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It consists of winding ravine passage with a rickety rope bridge going over a river that cuts through the region. The region is notable for having no interior shelters or caves, but [Forester's Hermitage](./Forester%27s%20Hermitage.md) does provide a bed and fireplace to stay warm.
@@ -43,8 +45,16 @@ The road leading to [Milton](./Milton.md)/Pleasant Valley is damaged, with a lan
 
 Currently, neither part of Keeper's Pass is featured on the [World Map](./Map.md), but local regional maps can be surveyed.
 
-<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
+<!-- #wildlife_availability -->
+​
 
+<!-- #Wildlife_Availability -->
+​
+
+<!-- #Wildlife_availability -->
+​
+
+<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 Only 2 animals are found in this region.
@@ -55,8 +65,10 @@ Only 2 animals are found in this region.
 
 It is possible for this region to be free of predators after enough days survived pass, a feature shared with [Far Range Branch Line](./Far%20Range%20Branch%20Line.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Only 4 locations can be found in the region.
@@ -66,14 +78,18 @@ Only 4 locations can be found in the region.
 - To Blackrock (Region Transition to [Blackrock](./Blackrock.md))
 - To Cave System (Region Transition to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 The section from the transitional cave system to Forester's Hermitage is the section that [Mackenzie](./Will%20Mackenzie.md) runs through in the beginning of [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A detailed map of Keeper's Pass v2.35 (includes spoilers)](../assets/Keeper%27s_Pass_map_.png)
@@ -86,8 +102,16 @@ The section from the transitional cave system to Forester's Hermitage is the sec
 
 ![Screen 95557cf2 d17d 4f57 8d39 6e33db538551 hi](../assets/Screen_95557cf2-d17d-4f57-8d39-6e33db538551_hi.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)):**

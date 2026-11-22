@@ -47,8 +47,10 @@ _This article is about the normal Bow. For variants, see [Woodwright's Bow](./Wo
 
 The **Survival Bow** is a maple self-backed longbow that shoots [Simple Arrows](./Simple%20Arrow.md), [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md), and [Manufactured Arrows](./Manufactured%20Arrow.md) at targets such as [Wildlife](./Wildlife.md). Hitting a living target with a fired arrow provides experience to the [Archery](./Archery.md) skill.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Survival Bow is an effective ranged weapon and hunting tool. It features unique advantages and disadvantages from other weapons, such as the [Hunting Rifle](./Hunting%20Rifle.md). The Survival Bow is the primary weapon in Interloper mode, considering the limited availability of [Distress Pistols](./Distress%20Pistol.md) and its [ammunition](./Flare%20Shell.md), and the limited utility of [Stones](./Stone.md).
@@ -63,8 +65,10 @@ Arrows travel slower than bullets and at a steep arc, making their accuracy more
 
 The only time when the Rifle is objectively better is when fighting Moose or Cougar. Because neither do not bleed, the Bow's more effective bleed-out is rendered useless; making the Rifle's higher critical hit chance superior.
 
-<span id="mechanics"></span><span id="Mechanics"></span>
+<!-- #Mechanics -->
+​
 
+<!-- #mechanics -->
 ## Mechanics
 
 To fire a Survival Bow, it must first be carried and wielded (1) with at least 1 [Simple Arrow](./Simple%20Arrow.md) or [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) in the player's inventory. Wielding it will cause an arrow to be loaded. To fire the bow, it must first be drawn (LMB), and then released (RMB). Left-clicking twice will cause the bow to lower again, as it will if the Stamina meter is depleted (which drains constantly, when the bow is drawn).
@@ -83,14 +87,27 @@ The bow requires practice to use effectively, but also becomes easier to handle 
 
 Drawing a loaded bow will cause the player's view to zoom, enabling the bow to be used as a weak optic or pointing tool.
 
-<span id="hunting"></span><span id="Hunting"></span>
+<!-- #Hunting -->
+​
 
+<!-- #hunting -->
 ## Hunting
 
 _Main article: [Hunting](./Hunting.md)_The Survival Bow is a crafted tool which fires Simple Arrows. Arrows may kill animals instantly with a critical hit, they more commonly cause bleeding wounds that drain the animal's health over time. When hunting it is wise to consider the weather, time of day, and ability to track a wounded animal as it flees. Arrows may be retrieved from the ground or an animal's carcass by left-clicking on it.![20201128184359 1](../assets/20201128184359_1.jpg)
 
-<span id="bleed_out_time"></span><span id="Bleed-out_time"></span><span id="bleed-out_time"></span><span id="bleed-out-time"></span>
+<!-- #bleed_out_time -->
+​
 
+<!-- #Bleed-out_time -->
+​
+
+<!-- #bleed-out_time -->
+​
+
+<!-- #Bleed-out_Time -->
+​
+
+<!-- #bleed-out-time -->
 ### Bleed-out time
 
 Each species of animal takes a specific amount of time to bleed out, as follows:
@@ -106,13 +123,13 @@ Each species of animal takes a specific amount of time to bleed out, as follows:
 
 Note: The bleed-out time diminishes with higher levels of the [Archery](./Archery.md) survival skill.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Survival Bow**
-
-
 
 300 minutes (5 hour 0 minutes)
 
@@ -126,20 +143,38 @@ Note: The bleed-out time diminishes with higher levels of the [Archery](./Archer
 
 **Quantity:** 1
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 The survival bow can randomly spawn in the game world (excluding Interloper) on different playthroughs. Some observed spawn points include:
 
-<span id="desolation_point"></span><span id="Desolation_Point"></span><span id="desolation-point"></span>
+<!-- #desolation_point -->
+​
 
+<!-- #Desolation_Point -->
+​
+
+<!-- #Desolation_point -->
+​
+
+<!-- #desolation-point -->
 ### [Desolation Point](./Desolation%20Point.md)
 
 - On the edge of a glade in [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md)
 
-<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+<!-- #mystery_lake -->
+​
 
+<!-- #Mystery_Lake -->
+​
+
+<!-- #Mystery_lake -->
+​
+
+<!-- #mystery-lake -->
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 - In the hut at the [Unnamed Pond](./Unnamed%20Pond.md)
@@ -147,28 +182,60 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 - Next to a corpse in a clearing north of the cabin that is north of unnamed pond. (Post refresh).
 - Next to a corpse in the [Lake Overlook](./Lake%20Overlook.md) cave.
 
-<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+<!-- #pleasant_valley -->
+​
 
+<!-- #Pleasant_Valley -->
+​
+
+<!-- #Pleasant_valley -->
+​
+
+<!-- #pleasant-valley -->
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md), the cave which is an indoor area with arrows and bedroll
 
-<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+<!-- #forlorn_muskeg -->
+​
 
+<!-- #Forlorn_Muskeg -->
+​
+
+<!-- #Forlorn_muskeg -->
+​
+
+<!-- #forlorn-muskeg -->
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 - By a corpse on the [Marsh Ridge](./Marsh%20Ridge.md).
 - In the [High Blind](./High%20Blind.md)
 
-<span id="broken_railroad"></span><span id="Broken_Railroad"></span><span id="broken-railroad"></span>
+<!-- #broken_railroad -->
+​
 
+<!-- #Broken_Railroad -->
+​
+
+<!-- #Broken_railroad -->
+​
+
+<!-- #broken-railroad -->
 ### [Broken Railroad](./Broken%20Railroad.md)
 
 - Near the [Hunting Lodge](./Hunting%20Lodge.md), by the corpse close to the fallen trees.
 - Near the crashed Train next to a deer carcass
 
-<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
+<!-- #hushed_river_valley -->
+​
 
+<!-- #Hushed_River_Valley -->
+​
+
+<!-- #Hushed_river_valley -->
+​
+
+<!-- #hushed-river-valley -->
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 - Next to a frozen corpse inside an ice room, in the [Ice Cave](./Ice%20Cave.md) containing waterfalls.
@@ -176,8 +243,10 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 - In an unnamed cave near the northern edge of the map, somewhat west of [Mammoth Falls](./Mammoth%20Falls.md).
 - Next to a frozen corpse at [Moose Overlook](./Moose%20Overlook.md).
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - The Survival Bow cannot be used with a [Sprained Wrist](./Sprained%20Wrist.md).
@@ -187,8 +256,12 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 - Arrows are less likely to cause a critical wound than bullets.
 - Arrows cause more bleeding than bullets, causing a shorter bleed-out time.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old Survival Bow model](../assets/Oldsurvivalbowmodel.jpg)
+
+[es:Arco de supervivencia](https://es.wikipedia.org/wiki/Arco_de_supervivencia) [ru:Лук для выживания](https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BA_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)

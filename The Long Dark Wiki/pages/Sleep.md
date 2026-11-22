@@ -27,20 +27,26 @@
 
 ![Resting](../assets/Resting.png) Sleep is the player's most efficient way to both eliminate [Fatigue](./Fatigue.md) and regain [Condition](./Condition.md). Selecting a [Bed](./Bed.md), or deployed [Bedroll](./Bedroll.md), will open up the sleep interface. While inside a [Vehicle](./Vehicle.md), the option to sleep can also be accessed via Campcraft in the [Radial Menu](./Radial%20Menu.md).
 
-<span id="duration_and_interruption"></span><span id="Duration_and_interruption"></span><span id="duration-and-interruption"></span>
+<!-- #duration_and_interruption -->
+​
 
+<!-- #Duration_and_interruption -->
+​
+
+<!-- #Duration_And_Interruption -->
+​
+
+<!-- #duration-and-interruption -->
 ## Duration and interruption
 
 Up to 12 consecutive hours may be slept in a row, with the amount of time being adjustable by whole hour increments. The amount of time the player will sleep may not be exactly the number of hours selected, but may vary by 10 minutes. The player will also stop sleeping when their Fatigue bar is full. Sleep cannot be interrupted manually by the player once it has started so care must be taken that all needs will remain met (safety, warmth, thirst, hunger).
 
 Animal attacks will interrupt sleep if they happen while the player is sleeping. Further, sandboxes on the Pilgrim or Voyageur experience modes have a chance to wake the player when they are nearing [death](./Condition.md) or threatened. Other experience modes do not provide any such warning and allow the player to sleep themselves to death, so more attentive [need](./Needs.md) management is required, although stalker does warn the player if he/she starts to freeze.
 
-<span id="sleeping_locations"></span><span id="Sleeping_Locations"></span><span id="sleeping-locations"></span>
+<!-- #Beds -->
+​
 
-## Sleeping Locations
-
-<span id="beds"></span><span id="Beds"></span>
-
+<!-- #beds -->
 ### Beds
 
 There are several variants of [Bed](./Bed.md), some found only in specific types of locations, and each providing a different amount of [Warmth](./Warmth.md) when slept in.
@@ -57,8 +63,10 @@ There are several variants of [Bed](./Bed.md), some found only in specific types
 
 The player also has the ability to create beds via [Safehouse Customization](./Safehouse%20Customization.md) ([Rustic Bed](./Rustic%20Bed.md), [Quilted Bed](./Quilted%20Bed.md), [Bear Hide Bed](./Bear%20Hide%20Bed.md)).
 
-<span id="bedrolls"></span><span id="Bedrolls"></span>
+<!-- #Bedrolls -->
+​
 
+<!-- #bedrolls -->
 ### Bedrolls
 
 A list of Bedrolls that allow sleeping almost anywhere include:
@@ -67,8 +75,19 @@ A list of Bedrolls that allow sleeping almost anywhere include:
 - ![Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) (+ 8 °C (+ 14.4 °F)
 - ![Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) (+12 °C (+ 21.6 °F)
 
-<span id="sleeping_in_vehicles"></span><span id="Sleeping_in_Vehicles"></span><span id="sleeping-in-vehicles"></span>
+<!-- #sleeping_in_vehicles -->
+​
 
+<!-- #Sleeping_in_Vehicles -->
+​
+
+<!-- #Sleeping_in_vehicles -->
+​
+
+<!-- #Sleeping_In_Vehicles -->
+​
+
+<!-- #sleeping-in-vehicles -->
 ### Sleeping in Vehicles
 
 [Vehicles](./Vehicle.md) with doors that lead to interiors also function as beds but are not directly selectable. To sleep in a vehicle, open the [radial menu](./Radial%20Menu.md) while inside, then activate the bedroll function through the Campcraft option. The sleep interface will then appear whether or not the player has a bedroll. No bedroll is required or used when sleeping in a vehicle. As a result, bedrolls in the inventory will not [decay](./Decay.md) when sleeping in vehicles.
@@ -84,26 +103,58 @@ The list of vehicles a player can sleep in include:
 
 All vehicles offer +3°C warmth bonus and are windproof, but even if the player has a bedroll with a warmth bonus greater than 3°C, it will still provide only 3°C. If the player is getting too cold in a vehicle, a [Campfire](./Campfire.md) can be lit outside the vehicle to warm the interior, though be aware that it can become windblown.
 
-<span id="sleeping_outside"></span><span id="Sleeping_outside"></span><span id="sleeping-outside"></span>
+<!-- #sleeping_outside -->
+​
 
+<!-- #Sleeping_outside -->
+​
+
+<!-- #Sleeping_Outside -->
+​
+
+<!-- #sleeping-outside -->
 ## Sleeping outside
 
 While it is generally preferable to find a location that offers at least partial shelter before sleeping (i.e. house, cave, vehicle, fishing hut, etc.), or to build a [Snow Shelter](./Snow%20Shelter.md), sometimes sleeping outside can't be avoided. In such cases, it is strongly recommended to pick an area where there are few predators and which is surrounded by wind-blocking obstacles on multiple sides. Lighting a [campfire](./Campfire.md) will help provide safety from dangerous animals and cold temperatures. To avoid freezing to death while asleep, it's often best to sleep in short increments. Warmer bedrolls, such as the [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) and the [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md), can also help ward off the cold and, in the case of the Bear Skin Bedroll, potential predators.
 
-<span id="warmth_bonus"></span><span id="Warmth_bonus"></span><span id="warmth-bonus"></span>
+<!-- #warmth_bonus -->
+​
 
+<!-- #Warmth_bonus -->
+​
+
+<!-- #Warmth_Bonus -->
+​
+
+<!-- #warmth-bonus -->
 ## Warmth bonus
 
 All bed types offer some level of insulation for the player while they are being used. This is displayed on the sleep interface as the warmth bonus. For all intents and purposes, this will raise the character's [feels like](./Feels%20Like.md) temperature by the indicated amount for the duration of the sleep.
 
-<span id="satisfying_fatigue"></span><span id="Satisfying_fatigue"></span><span id="satisfying-fatigue"></span>
+<!-- #satisfying_fatigue -->
+​
 
+<!-- #Satisfying_fatigue -->
+​
+
+<!-- #Satisfying_Fatigue -->
+​
+
+<!-- #satisfying-fatigue -->
 ## Satisfying fatigue
 
 Some [fatigue](./Fatigue.md) is eliminated with each hour of sleep. A full 12 hours of sleep are required to completely fill the fatigue bar from empty. If the player sleeps for less than 12 hours, fatigue will fill at the rate of 1/12th of the bar per hour. The player will wake up early if their fatigue bar completely fills.
 
-<span id="restoring_condition"></span><span id="Restoring_condition"></span><span id="restoring-condition"></span>
+<!-- #restoring_condition -->
+​
 
+<!-- #Restoring_condition -->
+​
+
+<!-- #Restoring_Condition -->
+​
+
+<!-- #restoring-condition -->
 ## Restoring condition
 
 If all [needs](./Needs.md) are met, meaning their bars are not empty, sleep also restores lost condition. [Condition](./Condition.md) is restored on a progressive scale that rewards sleeping for longer periods. This can be further accelerated gaining the [Affliction](./Afflictions.md) [Improved Rest](./Improved%20Rest.md), gained by eating the following foods:
@@ -123,16 +174,35 @@ Note: If all needs are not met or need meters fall below zero while sleeping, co
 
 Drinking [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) or [Birch Bark Tea](./Birch%20Bark%20Tea.md) before going to sleep will restore additional condition. For herbal tea the benefit of a full cup will remain for 6h and will provide an extra 2% condition per hour slept (Interloper +1%). See [Improved Rest](./Improved%20Rest.md).
 
-<span id="in_interloper"></span><span id="In_Interloper"></span><span id="in-interloper"></span>
+<!-- #in_interloper -->
+​
 
+<!-- #In_Interloper -->
+​
+
+<!-- #In_interloper -->
+​
+
+<!-- #in-interloper -->
 ### In Interloper
 
 In Interloper experience, recovering condition during sleep is **_seriously_**reduced. Each consecutive hour returns usually more % of condition than the previous (check table below), maxed at 5% per hour. Sleeping for 1 hour in any sort of bed besides the cloth bedroll returns 1% of condition. Sleeping 2 hours returns 1% for the first hour and 1% for the second hour totaling 2%. Sleeping 3 hours returns the 2% (1+1) for the first two hours and 2% for the third totaling 4%.
 
 **NOTICE**: If you sleep for more than 10h, you're taking Condition damage during the 11th or 12th hour due to Thirst fully draining and you'll actually lose 2% Condition each hour. This makes the sleeping for only 10 hours the best possible way to heal in one session (+32% max possible condition gain).
 
-<span id="health_restoration_in_a_bed_or_bear_skin_bedroll"></span><span id="Health_restoration_in_a_bed_or_Bear_Skin_Bedroll"></span><span id="health-restoration-in-a-bed-or-bear-skin-bedroll"></span>
+<!-- #health_restoration_in_a_bed_or_bear_skin_bedroll -->
+​
 
+<!-- #Health_restoration_in_a_bed_or_Bear_Skin_Bedroll -->
+​
+
+<!-- #Health_restoration_in_a_bed_or_bear_skin_bedroll -->
+​
+
+<!-- #Health_Restoration_In_A_Bed_Or_Bear_Skin_Bedroll -->
+​
+
+<!-- #health-restoration-in-a-bed-or-bear-skin-bedroll -->
 #### Health restoration in a bed or Bear Skin Bedroll
 
 Sleeping in a typical bed or Bear Skin Bedroll:
@@ -152,8 +222,16 @@ Sleeping in a typical bed or Bear Skin Bedroll:
 | 10 | 5% | +32% | 68% |
 | 11 | -2% | +30% | see note above |
 
-<span id="health_restoration_in_a_cloth_bedroll"></span><span id="Health_restoration_in_a_cloth_bedroll"></span><span id="health-restoration-in-a-cloth-bedroll"></span>
+<!-- #health_restoration_in_a_cloth_bedroll -->
+​
 
+<!-- #Health_restoration_in_a_cloth_bedroll -->
+​
+
+<!-- #Health_Restoration_In_A_Cloth_Bedroll -->
+​
+
+<!-- #health-restoration-in-a-cloth-bedroll -->
 #### Health restoration in a cloth bedroll
 
 Sleeping in a cloth [bedroll](./Bedroll.md);
@@ -173,8 +251,16 @@ Sleeping in a cloth [bedroll](./Bedroll.md);
 | 10 | 4% | +27% | 73% |
 | 11 | -2% | +25% | see note above |
 
-<span id="special_beds_with_higher_recovery_bonuses"></span><span id="Special_beds_with_higher_recovery_bonuses"></span><span id="special-beds-with-higher-recovery-bonuses"></span>
+<!-- #special_beds_with_higher_recovery_bonuses -->
+​
 
+<!-- #Special_beds_with_higher_recovery_bonuses -->
+​
+
+<!-- #Special_Beds_With_Higher_Recovery_Bonuses -->
+​
+
+<!-- #special-beds-with-higher-recovery-bonuses -->
 #### Special beds with higher recovery bonuses
 
 Some beds confer more of a healing bonus than others. For 10 hours of sleep with no afflictions or teas:
@@ -195,14 +281,36 @@ Some beds confer more of a healing bonus than others. For 10 hours of sleep with
 | [Quilted Bed](./Quilted%20Bed.md) | _Craftable_ | 32 | Equivalent to a regular bed |
 | [Rustic Bed](./Rustic%20Bed.md) | _Craftable_ | 32 | Equivalent to a regular bed |
 
-<span id="in_non_interloper_difficulty_levels"></span><span id="In_non-Interloper_difficulty_levels"></span><span id="in_non-interloper_difficulty_levels"></span><span id="in-non-interloper-difficulty-levels"></span>
+<!-- #in_non_interloper_difficulty_levels -->
+​
 
+<!-- #In_non-Interloper_difficulty_levels -->
+​
+
+<!-- #in_non-interloper_difficulty_levels -->
+​
+
+<!-- #In_non-interloper_difficulty_levels -->
+​
+
+<!-- #In_Non-interloper_Difficulty_Levels -->
+​
+
+<!-- #in-non-interloper-difficulty-levels -->
 ### In non-Interloper difficulty levels
 
 If all [needs](./Needs.md) are met, meaning their bars are not empty, sleep also restores lost condition. [Condition](./Condition.md) is restored on a progressive scale which rewards sleeping for longer periods. Each consecutive hour returns 1 more% of condition than the previous. Sleeping for 1 hour in any sort of bed besides the cloth [Bedroll](./Bedroll.md) returns 2% of condition. Sleeping 2 hours returns 2% for the first hour and 3% for the second hour totaling 5%. Sleeping 3 hours returns the 5% (2+3) for the first two hours and 4% for the third totaling 9%. This can be further accelerated by use of [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md).
 
-<span id="health_restoration_in_a_typical_bed"></span><span id="Health_restoration_in_a_typical_bed"></span><span id="health-restoration-in-a-typical-bed"></span>
+<!-- #health_restoration_in_a_typical_bed -->
+​
 
+<!-- #Health_restoration_in_a_typical_bed -->
+​
+
+<!-- #Health_Restoration_In_A_Typical_Bed -->
+​
+
+<!-- #health-restoration-in-a-typical-bed -->
 #### Health restoration in a typical bed
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
@@ -221,8 +329,10 @@ If all [needs](./Needs.md) are met, meaning their bars are not empty, sleep also
 | 11 | 12% | +77% | 23% | 660 | 9 |
 | 12 | 13% | +90% | 10% | 720 | 8 |
 
-<span id="health_restoration_in_a_cloth_bedroll_1"></span><span id="health-restoration-in-a-cloth-bedroll-1"></span>
+<!-- #health_restoration_in_a_cloth_bedroll_1 -->
+​
 
+<!-- #health-restoration-in-a-cloth-bedroll-1 -->
 #### Health restoration in a cloth bedroll
 
 If the player sleeps at a cloth [bedroll](./Bedroll.md), the one difference is that the starting amount is 1% (thus reducing all consecutive hours by 1% each as well).
@@ -243,8 +353,19 @@ If the player sleeps at a cloth [bedroll](./Bedroll.md), the one difference is t
 | 11 | 11% | +66% | 34% | 660 | 10 |
 | 12 | 12% | +78% | 22% | 720 | 9 |
 
-<span id="health_restoration_with_herbal_tea_typical_bed"></span><span id="Health_restoration_with_herbal_tea_(typical_bed)"></span><span id="health_restoration_with_herbal_tea_(typical_bed)"></span><span id="health-restoration-with-herbal-tea-typical-bed"></span>
+<!-- #health_restoration_with_herbal_tea_typical_bed -->
+​
 
+<!-- #Health_restoration_with_herbal_tea_(typical_bed) -->
+​
+
+<!-- #health_restoration_with_herbal_tea_(typical_bed) -->
+​
+
+<!-- #Health_Restoration_With_Herbal_Tea_(typical_Bed) -->
+​
+
+<!-- #health-restoration-with-herbal-tea-typical-bed -->
 #### Health restoration with herbal tea (typical bed)
 
 Sleeping for 1 hour in any sort of bed besides the cloth [Bedroll](./Bedroll.md) after drinking [herbal tea](./Herbal%20Tea.md) returns 4% of condition. These numbers apply to non-Interloper difficulty levels:
@@ -259,8 +380,19 @@ Sleeping for 1 hour in any sort of bed besides the cloth [Bedroll](./Bedroll.md)
 | 5 | 8% | +30% | 70% | 300 | 10 |
 | 6 | 9% | +39% | 61% | 360 | 9 |
 
-<span id="health_restoration_with_herbal_tea_cloth_bedroll"></span><span id="Health_restoration_with_herbal_tea_(cloth_bedroll)"></span><span id="health_restoration_with_herbal_tea_(cloth_bedroll)"></span><span id="health-restoration-with-herbal-tea-cloth-bedroll"></span>
+<!-- #health_restoration_with_herbal_tea_cloth_bedroll -->
+​
 
+<!-- #Health_restoration_with_herbal_tea_(cloth_bedroll) -->
+​
+
+<!-- #health_restoration_with_herbal_tea_(cloth_bedroll) -->
+​
+
+<!-- #Health_Restoration_With_Herbal_Tea_(cloth_Bedroll) -->
+​
+
+<!-- #health-restoration-with-herbal-tea-cloth-bedroll -->
 #### Health restoration with herbal tea (cloth bedroll)
 
 If the player sleeps at a cloth [bedroll](./Bedroll.md) after drinking [herbal tea](./Herbal%20Tea.md), the one difference is that the starting amount is 3% (thus reducing all consecutive hours by 1% each as well).
@@ -277,14 +409,24 @@ If the player sleeps at a cloth [bedroll](./Bedroll.md) after drinking [herbal t
 
 Note: If all needs are not met or become unmet, condition loss will continue or begin. It is quite possible to die in one's sleep if not interrupted. [Thirst](./Thirst.md) and [Hunger](./Hunger.md) build as one sleeps -- at 55 ml &amp; 60 calories per hour. Thus, 12 hours of sleep will completely dehydrate a character who had no thirst when starting. Therefore, it is wise to always drink [water](./Water%20%28Potable%29.md) before sleeping.
 
-<span id="impaired_sleep"></span><span id="Impaired_sleep"></span><span id="impaired-sleep"></span>
+<!-- #impaired_sleep -->
+​
 
+<!-- #Impaired_sleep -->
+​
+
+<!-- #Impaired_Sleep -->
+​
+
+<!-- #impaired-sleep -->
 ## Impaired sleep
 
 There are many [Afflictions](./Afflictions.md) that impair sleep. [Food Poisoning](./Food%20Poisoning.md) and [Dysentery](./Dysentery.md) will not allow condition to be restored during sleep. Coupled with this, [Burns](./Burns.md) and [Hypothermia](./Hypothermia.md) will immediately reduce the condition to 75% if it is above that the moment sleep starts, and prevent it from ever rising above until the affliction is cured. [Insomnia](./Insomnia.md) has a chance of causing a survivor to wake up early in a sleep cycle, denying them the full benefits of sleeping for long periods of time.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old icon.](../assets/Sleep.png)

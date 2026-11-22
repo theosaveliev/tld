@@ -25,16 +25,20 @@ This page is about content that was not officially created by [Hinterland Studio
 
 The YouTube channel for this project can be found [here](https://www.youtube.com/@Kaiusername). This mod will be free to download for any player and is only compatible to users that own both [Survival Mode](./Survival%20Mode.md) and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Long Development creates several new regions to explore, departing from Lower Great Bear and The Far Territory of [Great Bear Island](./Great%20Bear%20Island.md) and giving the player the option to follow the coastline of [Desolation Point](./Desolation%20Point.md) to "Eastern Great Bear".
 
 The project aims to create never before seen content that preserves the overall feel and atmosphere of the game, while also serving as an extension of the base game's world. The project will include brand new original soundtracks to accompany the new regions, brand new maps, and brand new assets.
 
-<span id="regions"></span><span id="Regions"></span>
+<!-- #Regions -->
+​
 
+<!-- #regions -->
 ## Regions
 
 The following regions are currently planned for the mod:
@@ -45,8 +49,10 @@ The following regions are currently planned for the mod:
 - [Forsaken Shore](./Forsaken%20Shore.md)
 - [Mountain Pass](./Mountain%20Pass.md)
 
-<span id="vehicle"></span><span id="Vehicle"></span>
+<!-- #Vehicle -->
+​
 
+<!-- #vehicle -->
 ## Vehicle
 
 In addition to the vehicles found in the base game, The Long Development adds a few unique vehicles:
@@ -55,8 +61,10 @@ In addition to the vehicles found in the base game, The Long Development adds a 
 - Snowmobile
 - Brown [trucks](./Truck.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Precarious Causeway](../assets/Precarious_Causeway.png)

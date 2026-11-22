@@ -1896,9 +1896,7 @@ def test_render_mediawiki_html_recovers_reported_unexpected_ref_closers(
         return value
 
     monkeypatch.setattr(
-        markdown_export_module,
-        "_sanitize_expanded_wikitext",
-        identity_sanitizer,
+        markdown_export_module, "_sanitize_expanded_wikitext", identity_sanitizer
     )
 
     def fake_pandoc(_pandoc: str, value: str, from_format: str, to_format: str) -> str:

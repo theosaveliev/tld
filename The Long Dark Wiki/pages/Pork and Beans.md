@@ -79,8 +79,10 @@ GAMEPLAY\_PorkandBeans
 
 **Pork and Beans** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Consuming Pork and Beans restores a moderate amount of calories and causes slight hydration loss. It may also be warmed by a [Fire](./Fire.md) to grant the benefit [Warming Up](./Warming%20Up.md).
@@ -89,22 +91,34 @@ Like other canned foods, Pork and Beans may be opened with a [Can Opener](./Can%
 
 Pork and Beans is relatively common inside homes: usually in cupboards or on shelves.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Pork and Beans is packaged as the product "_Musical Fruit Beans"_, referencing a popular rhyme about flatulence. The can also promotes "reduced sodium", which would likely be less than ideal in a post-apocalyptic setting.
 - A single [Can](./Can.md) of Pork and Beans can be harvested for one [Recycled Can](./Recycled%20Can.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in the [Misty Falls Cave](./Misty%20Falls%20Cave.md). 4 more cans would eventually be added to Survival Mode.
 - The ingredients on the back list: "Beans, Water, Sugar, Salt."
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Pork_and_beans.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

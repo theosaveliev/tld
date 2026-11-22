@@ -26,8 +26,10 @@
 
 **Renewed Hope** is the fifth and final mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) makes his way to the Carter Hydro Dam in order to begin his journey to [Signal Hill](./Signal%20Hill.md) and later [Perseverance Mills](./Perseverance%20Mills.md).
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Get into the [dam](./Carter%20Hydro%20Dam.md) at night, when the [aurora](./Aurora.md) is in the sky.

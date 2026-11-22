@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Improvised Down Bedroll**
 
 [Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png)
@@ -36,8 +34,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The Down Bedroll weighs 0.10 kg more than a regular [Bedroll](./Bedroll.md) and is harder to repair, requiring [Ptarmigan Down](./Ptarmigan%20Down.md) in addition to [Cloth](./Cloth.md), but is also significantly warmer, making it a good alternative to the regular Bedroll.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 The Improvised Down Bedroll takes an ordinary [Bedroll](./Bedroll.md) and stuffs it full of Ptarmigan Down feathers, resulting in a base warmth increase of the Bedroll by 3°C at 100% (for a total of 8°C). The weight of the Bedroll also increases, from 1 kg to 1.1 kg.
@@ -47,8 +47,6 @@ Can be crafted anywhere by hand. Takes 3/6 hours to craft with [Sewing Kit](./Se
 Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted into an Improvised Down Bedroll at 100%. (doesn't seem to be current anymore for 2.39 version of the game - needs further verification)
 
 **Improvised Down Bedroll**
-
-
 
 360 minutes (6 hour 0 minutes)
 
@@ -68,11 +66,15 @@ Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted 
 
 **Quantity:** 1
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - The Improvised Down Bedroll provides the same Condition gain when sleeping as the Bedroll, providing for example, +27 Condition from a 10 hour sleep on Interloper difficulty. Compared to +32 Condition from beds (may vary) or the [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) over the same sleep period.
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Улучшенный пуховый спальный мешок](https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA)

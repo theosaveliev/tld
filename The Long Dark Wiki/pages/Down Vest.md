@@ -36,8 +36,10 @@
 
 The **Down Vest** is a type of [Clothing](./Clothing.md) found in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Only 1 Down Vest can be worn at a time, specifically in the inner torso jacket slot.
@@ -46,8 +48,10 @@ Commonly found in cabins and houses alike, the down vest is often something that
 
 This is often a clothing item your survivor may start with.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Insulated_vest_%28historical%29.png)
@@ -55,7 +59,3 @@ This is often a clothing item your survivor may start with.
 ![Clothing model](../assets/Down_Vest_Model_icon.png)
 
 ![Clothing model damaged](../assets/Down_Vest_Model_Damaged_icon.png)
-
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
-
-## Game History

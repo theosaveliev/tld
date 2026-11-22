@@ -29,8 +29,10 @@
 
 The **Bear Hide Bed** is a [Decorations](./Decorations.md) and [Bed](./Bed.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A lavish wooden bed with a mattress and very warm Black Bear bedsheet, the Bear Hide Bed can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -44,19 +46,21 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the bed cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the bed will yield no resources, so consider the material cost/time investment before creating this item).
 
-<span id="harvesting"></span><span id="Harvesting"></span>
+<!-- #Harvesting -->
+​
 
+<!-- #harvesting -->
 ## Harvesting
 
 This item cannot be harvested.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Bear Hide Bed**
-
-
 
 1440 minutes (24 hour 0 minutes)
 
@@ -77,7 +81,3 @@ This item cannot be harvested.
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 18
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

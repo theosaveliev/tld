@@ -38,8 +38,10 @@ Saplings do not regrow after harvesting. Tools do not suffer condition loss when
 
 Cured Maple Saplings are occasionally found when [Beachcombing](./Beachcombing.md).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -47,8 +49,10 @@ Cured Maple Saplings are occasionally found when [Beachcombing](./Beachcombing.m
 | [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
 | [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md)<br>- 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Maple sapling as it appears on the map](../assets/Maple_sapling.jpg)
@@ -57,9 +61,19 @@ _Maple sapling as it appears on the [map](./Map.md)_
 
 ![A growing maple sapling.](../assets/Maple_sapling_growing.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
   - Added to game
+
+[ru:Сухой молодой клен](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9_%D0%BA%D0%BB%D0%B5%D0%BD)

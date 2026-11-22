@@ -36,8 +36,10 @@
 
 **Cargo Pants** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="usefulnes"></span><span id="Usefulnes"></span>
+<!-- #Usefulnes -->
+​
 
+<!-- #usefulnes -->
 ## Usefulnes
 
 The cargo pants are a low-tier type of pants in the game although giving 50% more warmth and weight than [Jeans](./Jeans.md). They don't need frequent repairs but, like all low-tier pants, have a bad repair to warmth ratio.

@@ -28,8 +28,10 @@
 
 **Paper** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) inside [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md) below the [Lockers](./Locker.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Paper**_
@@ -38,10 +40,20 @@ Mission status unclear. Pilot activity appears routine and as predicted in my In
    
  Business here at the field hardly registers as cover for any activity grander than mail delivery or solidarity in this godforsaken place.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
   - Added to game.
+
+[ru:Бумага](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B0%D0%B3%D0%B0)

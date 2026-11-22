@@ -30,15 +30,19 @@ A body with the [Torn Paper](./Torn%20Paper.md) note can be found halfway throug
 
 Mackenzie ultimately succeeds in finding the spear and killing the beast, lamenting that he had to put down "such a majestic creature" but that "this new world makes murderers of us all".
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Search the cave for your Bear Spear.
 - Kill the Old Bear.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - The player cannot Pass Time during this mission.
@@ -46,8 +50,10 @@ Mackenzie ultimately succeeds in finding the spear and killing the beast, lament
 - Unlike the pre-redux version of Wintermute, the Old Bear cannot be harvested upon death. Killing the bear, triggers an immediate cutscene, removing the player from the area.
 - You will lose everything in your backpack from being dragged and thrown about by the bear. Your belongings will be returned after the bear is killed.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The title is a reference to the 1997 film The Edge, starring Anthony Hopkins and Alec Baldwin. In the film, a bear is stalking three men after their floatplane crashes in the Alaskan wilderness.

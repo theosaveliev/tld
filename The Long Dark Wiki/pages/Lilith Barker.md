@@ -40,8 +40,10 @@ Lily is buried in the graveyard across the street from [St. Christopher's Church
 
 After retrieving the pearls, Mackenzie is asked to go "meet" Lily, finally learning the truth of the woman Grey Mother was occasionally refering to. He places them on Lily's grave and returns to Grey Mother, finally giving her closure after many years of suffering. Grey Mother then offers Lily's climbing equipment as a reward to Mackenzie, hoping that he can find Astrid before she suffers the same fate as her Lily, allowing Mackenzie a way to leave the town of Milton.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 Her grave is located across from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) in the [Graveyard](./Graveyard.md), with the headstone reading 1969-1985 "Our Fallen Angel"
@@ -58,8 +60,10 @@ Lily's belongings consisted of:
 
 A [Recipe Card](./Recipe%20Cards.md) named after Lily can be found in the [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) in [Survival Mode](./Survival%20Mode.md) called [Lily's Pancakes](./Lily%27s%20Pancakes.md). The recipe mentions her love of climbing, and implies that Pancakes with Peaches were her favorite food. Sometimes the Recipe Card is found behind the photo of her above the fireplace.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg)
@@ -69,3 +73,5 @@ _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%2
 ![Lily picture](../assets/Lily_picture.png)
 
 ![Lilly's tombstone, with the pearls](../assets/Lilith_barker_grave.jpg)
+
+[ru:Лилит Баркер](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%B8%D1%82_%D0%91%D0%B0%D1%80%D0%BA%D0%B5%D1%80)

@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Cave (Track Section 5)**
 
 [Cave (Track Section 5)](../assets/Cave_%28Track_Section_5%29.jpg)
@@ -25,7 +23,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **General**
 
 Has an interior **Cave** is a location in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
-
-<span id="overview"></span><span id="Overview"></span>
-
-## Overview

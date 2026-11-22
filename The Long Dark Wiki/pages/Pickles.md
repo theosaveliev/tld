@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Pickles**
 
 [Pickles icon](../assets/Pickles_icon.png)
@@ -40,8 +38,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Pickles** is a rare [Food And Drink](./Food%20And%20Drink.md) item in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 This item is only found only when trading with the [Trader](./Trader.md). It has a chance to appear in any trade and does not require the player to raise Trust with the Trader.
@@ -50,7 +50,3 @@ Pickles cost the following to acquire from the Trader:
 
 - 4.00 kg Any Raw Fish Meat
 - 2.00 L ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

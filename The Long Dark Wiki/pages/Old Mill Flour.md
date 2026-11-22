@@ -44,8 +44,10 @@
 
 <br>**Old Mill Flour** is an [ingredient](./Food%20And%20Drink.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Old Mill Flour can often be found alongside other cooking materials such as [Cooking Oil](./Cooking%20Oil.md) and [Salt](./Salt.md).
@@ -54,8 +56,10 @@ It can be considered a renewable resource if obtained via the [Trader](./Trader.
 
 It is currently impossible to divide a bag of flour into smaller portions, or to consolidate multiple smaller bags.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Known spawn locations include:
@@ -83,14 +87,18 @@ Known spawn locations include:
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
   - 2 in the mess hall kitchen of [Idle Camp](./Idle%20Camp.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 The side of the bag lists "Ingredients: Bleached Wheat Flour, Malted Barley Flour, Niacim, Reduced Iron, Riboflavin, Folic Acid."
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -110,8 +118,16 @@ The side of the bag lists "Ingredients: Bleached Wheat Flour, Malted Barley Flou
 | [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

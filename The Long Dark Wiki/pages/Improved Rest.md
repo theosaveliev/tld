@@ -32,8 +32,10 @@
 
 **Improved Rest** is a positive affliction gained by eating or drinking certain [Food And Drink](./Food%20And%20Drink.md) and will increase condition gained while sleeping by an extra 2% (1% for Interloper) an hour while the benefit is still active. This benefit is used whenever sleeping, whether this be all at once or across multiple sleep sessions.
 
-<span id="causes"></span><span id="Causes"></span>
+<!-- #Causes -->
+​
 
+<!-- #causes -->
 ## Causes
 
 Improved Rest is received when consuming any of the following items:
@@ -49,8 +51,10 @@ Improved Rest is received when consuming any of the following items:
 | [Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | 3 hours |
 | [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 3 hours |
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 This affliction causes the following effects:
@@ -59,14 +63,18 @@ This affliction causes the following effects:
 | --- | --- | --- |
 |  | [Condition](./Condition.md) restoration | 2% per hour<span id="fnref1"></span>[¹](#fn1) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old icon.](../assets/Improved_rest.png)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

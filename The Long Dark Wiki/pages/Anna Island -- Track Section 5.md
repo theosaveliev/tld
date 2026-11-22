@@ -18,8 +18,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Anna Island -- Track Section 5**
 
 [Anna Island Track Section 5](../assets/Anna_Island_Track_Section_5.jpg)
@@ -42,8 +40,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 5** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 This is the first of the 6 Track Section regions of Anna Island, and will unfortunately have to be traversed by foot on your first trek through the region. The region is very long, so patience and preparedness are required to traverse it on foot.
@@ -58,8 +58,10 @@ When revisiting the region with the [Prototype Train](./Prototype%20Train.md), t
 
 [Ice Fishing](./Ice%20Fishing.md) is possible in this region by taking the [Path (Track Section 5)](./Path%20%28Track%20Section%205%29.md) down to the sea.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are 7 named locations within Track Section 5, including:
@@ -75,24 +77,34 @@ There are 7 named locations within Track Section 5, including:
 
  |- | | valign="top" style="width:50%;" |
 
+<!-- #wildlife_management -->
+​
 
+<!-- #Wildlife_management -->
+​
 
-<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+<!-- #Wildlife_Management -->
+​
 
+<!-- #wildlife-management -->
 ## Wildlife management
 
 - [Deer](./Deer.md) and [Rabbit](./Rabbit.md) can be found throughout the region.
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #Survivability -->
+​
 
+<!-- #survivability -->
 ## Survivability
 
 Your first walkthrough through this area will be an annoying one, as you will not have the train to quickly travel the region. Traveling here at night or during a blizzard can be detrimental because of the lack of shelter, so make sure you are prepared before entering the region. Several animals can be hunted and the Railyard ponds can be foraged if you are lacking in calories.
 
 Returning with the train will make travelling through the region much easier on your second return however, trivializing survivability concerns.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Railyard and Cabin](../assets/Railyard_and_Cabin_Track_Section_5.png)
@@ -111,12 +123,10 @@ _**Transition to Port Remnant**_
 
 _**Transition to Track Section 4**_
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #locations_1 -->
+​
 
-### Maps
-
-<span id="locations_1"></span><span id="locations-1"></span>
-
+<!-- #locations-1 -->
 ### Locations
 
 ![Railyard west](../assets/Railyard_%28Track_Section_5_West%29.jpg)
@@ -124,3 +134,5 @@ _**Transition to Track Section 4**_
 ![Railyard east](../assets/Railyard_%28Track_Section_5_East%29.jpg)
 
 ![Cave middle of region](../assets/Cave_%28Track_Section_5%29.jpg)
+
+[ru:Остров Анны — Участок пути 5](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D1%8B_%E2%80%94_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D1%82%D0%B8_5)

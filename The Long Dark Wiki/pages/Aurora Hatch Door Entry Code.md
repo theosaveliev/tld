@@ -30,8 +30,10 @@
 
 **Aurora Hatch Door Entry Code** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in one of the supply caches in the hills near the [Hunting Lodge](./Hunting%20Lodge.md) as part of the [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md) side mission. Claiming the note starts the [Aurora Hatch](./Aurora%20Hatch.md) side mission.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Aurora Hatch Door Entry Code**_
@@ -46,8 +48,16 @@ Remember that, and this number -- 0794. That will let you in.
 
 - G
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

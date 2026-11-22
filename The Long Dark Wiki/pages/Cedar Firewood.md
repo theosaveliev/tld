@@ -38,8 +38,19 @@
 
 **Cedar Firewood** is a fuel item in _The Long Dark_.
 
-<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+<!-- #fire_starting_info -->
+​
 
+<!-- #Fire_Starting_info -->
+​
+
+<!-- #Fire_starting_info -->
+​
+
+<!-- #Fire_Starting_Info -->
+​
+
+<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Cedar Firewood**
@@ -56,14 +67,18 @@
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 
-<span id="obtaining"></span><span id="Obtaining"></span>
+<!-- #Obtaining -->
+​
 
+<!-- #obtaining -->
 ## Obtaining
 
 Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [tool](./Tools.md). It can also be found inside of structures, firewood bins, rotten tree trunks, or near campfires and corpses. It can also be found by [Beachcombing](./Beachcombing.md).
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Cedar Firewood increases the chance of starting a fire (+15%), which is useful at low [Firestarting Skill](./Skills.md). [Sticks](./Stick.md), [Accelerant](./Accelerant.md), [Lantern Fuel](./Lantern%20Fuel.md), [Gunpowder](./Can%20of%20Gunpowder.md), [Wood Matches](./Wood%20Matches.md), and [Firestrikers](./Firestriker.md) also increase Firestarting chance.
@@ -75,8 +90,10 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 - Cedar Firewood has the same weight efficiency as [Reclaimed Wood](./Reclaimed%20Wood.md), with two pieces of Reclaimed Wood being identical to one piece of Cedar Firewood.
 - Cedar Firewood, [Fir Firewood](./Fir%20Firewood.md), and [Reclaimed Wood](./Reclaimed%20Wood.md) can be used to craft various [Decorations](./Decorations.md) that can be used in [Safehouse Customization](./Safehouse%20Customization.md).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -98,8 +115,16 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 | [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) |
 | [Workbench](./Work%20Bench.md) | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Workbench Vice](./Workbench%20Vice.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**

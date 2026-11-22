@@ -30,8 +30,10 @@ Has a bed
 
 Has a forge
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A few vehicles may be found immediately outside, and a small, exterior staircase at the back connects to a door to the indoor second-floor catwalk. The staircase's landings may serve as a somewhat protected area for storing and cooking food, although predators can climb at least partway up.
@@ -44,10 +46,14 @@ Inside the open hangar area are two light airplanes and one helicopter, as well 
 
 Miscellaneous food, tools, and clothing items may be found inside and around the building on the main or upper floors. This location may also spawn up to two [heavy hammers](./Heavy%20Hammer.md), and a [noisemaker](./Noisemaker.md) may occasionally be found here as well.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Main Hangar Interior](../assets/24211.png)
 
 ![Helicopter control panel during the aurora](../assets/Helicopter_aurora.png)
+
+[ru:Главный ангар](https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B0%D1%80)

@@ -1,19 +1,23 @@
 # Computer
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
 
 ![A computer during the aurora](../assets/Maxresdefault.png)_A computer during the aurora_ **Computers** are stationary objects in The Long Dark. Un-interactable under normal circumstances, but during an [Aurora](./Aurora.md) their display will sometimes illuminate to show the contents of a recently closed log/diary, as a nod to the civilization on Great Bear before the lights.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 While traveling in your game, you might stumble upon a laptop or desktop computer. Although sometimes the position that they've been placed in is rather annoying, and they cannot be moved, picked up, or used in any way unless an aurora is active,
 
 Laptops and computers are still a valid piece of backstory to the Long Dark, and can be used to collect [Buffer Memories](./Buffer%20Memories.md) during an aurora. They also play a large role in the [Archivist](./Archivist.md) challenge.
 
-<span id="aurora"></span><span id="Aurora"></span>
+<!-- #Aurora -->
+​
 
+<!-- #aurora -->
 ## Aurora
 
 During an Aurora, some of these computers will flash on to display a message, called a Buffer Memories. Each computer that _will_turn on in the game has at least three buffer memories, and computers that are active during an aurora will slowly cycle through the list, so if you wait long enough you might be able to catch more than one buffer memory on the same computer. Don't be fooled though - not all computers turn on. Generally if you've found a computer that didn't turn on during the Aurora, chances are there's another one in the building that did.
@@ -24,8 +28,10 @@ During an Aurora, some of these computers will flash on to display a message, ca
 
 ![Buffer memories](../assets/Buffer-memories.gif)
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are currently 16 locations that will display Buffer Memories during an Aurora:

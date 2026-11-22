@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Broken Shoreline**
 
 [Broken Shoreline](../assets/Broken_Shoreline.jpg)
@@ -25,7 +23,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **General**
 
 Has no shelter **Broken Shoreline** is a location in [Port Remnant](./Port%20Remnant.md).
-
-<span id="overview"></span><span id="Overview"></span>
-
-## Overview

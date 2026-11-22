@@ -28,8 +28,10 @@
 
 **Interview Transcript 17** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside [Bunker Omega](./Bunker%20Omega.md) at the end of the Tale.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Interview Transcript 17**_
@@ -60,9 +62,19 @@ Wha...what did we do? What did they make us do? They can’t get away with this.
 
 End recording.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
+
+[ru:Расшифровка беседы №17](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D1%8B_%E2%84%9617)

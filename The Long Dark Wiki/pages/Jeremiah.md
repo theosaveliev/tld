@@ -43,7 +43,7 @@
 
 **Game Information**
 
-**Voiced by:** [David Hayter](wikipedia:David_Hayter)
+**Voiced by:** [David Hayter](https://en.wikipedia.org/wiki/David_Hayter)
 
 > “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
 >
@@ -51,40 +51,67 @@
 
 **Jeremiah** (Also known as **John**) is the primary non-player character in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md).
 
-<span id="episode_1_do_not_go_gentle"></span><span id="Episode_1:_Do_Not_Go_Gentle"></span><span id="episode_1:_do_not_go_gentle"></span><span id="episode-1-do-not-go-gentle"></span>
+<!-- #paradise_lost -->
+​
 
-## [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+<!-- #Paradise_Lost -->
+​
 
-<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
+<!-- #Paradise_lost -->
+​
 
+<!-- #paradise-lost -->
 ### [Paradise Lost](./Paradise%20Lost.md)
 
 At the end of Episode 1, [Will Mackenzie](./Will%20Mackenzie.md) enters [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and encounters Jeremiah being disarmed and attacked by the [Old Bear](./Old%20Bear.md). While The Old Bear mauls him, Will arms himself with Jeremiah's [Hunting Rifle](./Hunting%20Rifle.md). The screen turns black a gunshot rings out as Will shoots the beast.
 
 Will then rescues and stabilizes the trapper in his nearby cabin in between Episode 1 and 2.
 
-<span id="episode_2_luminance_fugue"></span><span id="Episode_2:_Luminance_Fugue"></span><span id="episode_2:_luminance_fugue"></span><span id="episode-2-luminance-fugue"></span>
+<!-- #the_wounded_trapper -->
+​
 
-## [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)
+<!-- #The_Wounded_Trapper -->
+​
 
-<span id="the_wounded_trapper"></span><span id="The_Wounded_Trapper"></span><span id="the-wounded-trapper"></span>
+<!-- #The_wounded_trapper -->
+​
 
+<!-- #the-wounded-trapper -->
 ### [The Wounded Trapper](./The%20Wounded%20Trapper.md)
 
 Jeremiah regains consciousness to find himself being cared for by Will inside [Trapper's Homestead](./Trapper%27s%20Homestead.md), but is delirious from an infection from the bear attack. To save Jeremiah's life, Will retrieves [antibiotics](./Carter%20Hydro%20Medical%20Supplies.md) and some [Radio Parts](./Radio%20Parts.md) from [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), however The Old Bear follows Will, who barely manages to escape. Jeremiah stabilizes but is too ill for travel, as he desperately needs to get a message out. He and Will agree to radio Perseverance Mills, however Jeremiah's radio was damaged by [The First Flare](./First%20Flare.md) and requires replacement parts, and The Old Bear is still stalking them both.
 
 Jeremiah relays a tale during [Great Bear Island](./Great%20Bear%20Island.md)'s settling days, of a neigh-invincible "demon bear" and the settler from [Forlorn Muskeg](./Forlorn%20Muskeg.md) who slew it with a [Bear Spear](./Bear%20Spear.md). He then details his own efforts to kill the Old Bear they face has survived many of his own efforts to kill it. Jeremiah suggests Will find this spear to defend himself while he tinkers with the radio.
 
-<span id="the_best_defense"></span><span id="The_Best_Defense"></span><span id="the-best-defense"></span>
+<!-- #the_best_defense -->
+​
 
+<!-- #The_Best_Defense -->
+​
+
+<!-- #The_best_defense -->
+​
+
+<!-- #the-best-defense -->
 ### [The Best Defense](./The%20Best%20Defense.md)
 
 Will survives another encounter with The Old Bear, and meets [Methuselah](./Methuselah.md) again, this time during an active [aurora](./Aurora.md) along with aurora wolves. Finding and repairing the Bear Spear, Will encounters the Old Bear as he returns to Jeremiah.
 
 Will presents the Spear to Jeremiah, who reveals that he barely got the radio to work during the Aurora the other night, and he needs a stronger signal. He commands Mackenzie to collect the [Transponder Parts](./Transponder%20Parts.md) from 3 Shortwave towers in Forlorn Muskeg to boost the signal, which Mackenzie reluctantly agrees to do.
 
-<span id="signal_to_noise"></span><span id="Signal_to_Noise"></span><span id="signal-to-noise"></span>
+<!-- #signal_to_noise -->
+​
 
+<!-- #Signal_to_Noise -->
+​
+
+<!-- #Signal_to_noise -->
+​
+
+<!-- #Signal_To_Noise -->
+​
+
+<!-- #signal-to-noise -->
 ### [Signal to Noise](./Signal%20to%20Noise.md)
 
 After collecting the radio components and getting mauled by The Old Bear and dragged off to his cave, Mackenzie kills the beast with the spear. He returns to the Trapper's Homestead but collapses from exhaustion with the Transponder parts.
@@ -93,20 +120,50 @@ Jeremiah repairs the radio as Mackenzie sleeps, allowing Will the honors of reac
 
 Jeremiah is not see again for the rest of the Episode after Mackenzie leaves the cabin.
 
-<span id="episode_4_fury_then_silence"></span><span id="Episode_4:_Fury,_Then_Silence"></span><span id="episode_4:_fury,_then_silence"></span><span id="episode-4-fury-then-silence"></span>
+<!-- #episode_4_fury_then_silence -->
+​
 
+<!-- #Episode_4:_Fury,_Then_Silence -->
+​
+
+<!-- #episode_4:_fury,_then_silence -->
+​
+
+<!-- #Episode_4:_fury,_then_silence -->
+​
+
+<!-- #episode-4-fury-then-silence -->
 ## [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
 Jeremiah does not appear in the Episode, but his voice is heard in the intro recap regarding Atwood and the message Wintermute.
 
-<span id="episode_5_the_light_at_the_end_of_all_things"></span><span id="Episode_5:_The_Light_At_The_End_Of_All_Things"></span><span id="episode_5:_the_light_at_the_end_of_all_things"></span><span id="episode-5-the-light-at-the-end-of-all-things"></span>
+<!-- #episode_5_the_light_at_the_end_of_all_things -->
+​
 
+<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
+​
+
+<!-- #episode_5:_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #episode-5-the-light-at-the-end-of-all-things -->
 ## [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
 TBR
 
-<span id="possible_military_background"></span><span id="Possible_Military_Background"></span><span id="possible-military-background"></span>
+<!-- #possible_military_background -->
+​
 
+<!-- #Possible_Military_Background -->
+​
+
+<!-- #Possible_military_background -->
+​
+
+<!-- #possible-military-background -->
 ## Possible Military Background
 
 Jeremiah indicates having a military background from conversations about his technical expertise, model of radio, and the mysterious relay towers in Forlorn Muskeg. However he refuses to elaborate on his out of place knowledge, revealing that he hides more to his background than he lets on.
@@ -121,8 +178,10 @@ Jeremiah indicates having a military background from conversations about his tec
 
 It is eventually revealed in Episode 5 that Jeremiah served in the Canadian Military, and was later tried and sent to a Military Prison due to ilegally accessing classified NATO documents. Despite this, he would eventually be released, stopping once at the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) before leaving for Mystery Lake.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The iconic Trapper's Homestead of Mystery Lake seems to be Jeremiah's home, suggesting his profession to be a fur trapper, as well as his fur-based attire. A list of his belongings include:
@@ -144,12 +203,16 @@ It is eventually revealed in Episode 5 that Jeremiah served in the Canadian Mili
   - Jeremiah also mention in Predux Episode 2 visiting Rupert's Landing to trade occasionally, and would work at the Maintenance Yard in exchange for time spent using their tools. It can be presumed that these details are no longer canon however.
 - In Episode 5, his real name is revealed to be "John". [Molly](./Molly.md) also refers to him as "Jerry" on one occasion.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #predux_episode_2 -->
+​
 
-## Gallery
+<!-- #Predux_Episode_2 -->
+​
 
-<span id="predux_episode_2"></span><span id="Predux_Episode_2"></span><span id="predux-episode-2"></span>
+<!-- #Predux_episode_2 -->
+​
 
+<!-- #predux-episode-2 -->
 ### Predux Episode 2
 
 ![Jeremiah opening the hidden floorboard](../assets/Jeremiah_Floor_Hatch_Opening.jpg)
@@ -180,16 +243,32 @@ _[Jeremiah's Papers](./Jeremiah%27s%20Papers.md)_
 
 _Jeremiah at the start of [Risk of Infection](./Risk%20of%20Infection.md)_
 
-<span id="redux_episode_1"></span><span id="Redux_Episode_1"></span><span id="redux-episode-1"></span>
+<!-- #redux_episode_1 -->
+​
 
+<!-- #Redux_Episode_1 -->
+​
+
+<!-- #Redux_episode_1 -->
+​
+
+<!-- #redux-episode-1 -->
 ### Redux Episode 1
 
 ![Jeremiah being attacked by the Old Bear](../assets/Jeremiah_and_the_Old_Bear.jpg)
 
 ![Ditto](../assets/Jeremiah_and_the_Old_Bear_2.jpg)
 
-<span id="redux_episode_2"></span><span id="Redux_Episode_2"></span><span id="redux-episode-2"></span>
+<!-- #redux_episode_2 -->
+​
 
+<!-- #Redux_Episode_2 -->
+​
+
+<!-- #Redux_episode_2 -->
+​
+
+<!-- #redux-episode-2 -->
 ### Redux Episode 2
 
 ![Steam Trading Card](../assets/Jeremiah_Steam_Card_Preview.png)
@@ -207,3 +286,5 @@ _Jeremiah at the start of [Risk of Infection](./Risk%20of%20Infection.md)_
 ![Jeremiah with the military cartography map](../assets/Jeremiah_Military_Map.jpg)
 
 ![Jeremiah's Shortwave Radio and Hunting Rifle.](../assets/Episode_2_radio.jpg)
+
+[fr:Jeremiah](https://fr.wikipedia.org/wiki/Jeremiah) [ru:Джереми](https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8)

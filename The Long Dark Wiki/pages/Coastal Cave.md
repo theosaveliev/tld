@@ -16,8 +16,10 @@ Region
 
 **Type:** Cave
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The cave is noteworthy for having a [Salt Depost](./Salt%20Deposit.md) partway through.

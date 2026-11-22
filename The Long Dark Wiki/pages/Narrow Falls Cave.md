@@ -14,16 +14,20 @@
 
 **Type:** Cave
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The cave is not very big but it provides decent shelter and a good warmth bonus on the back of it. Some chunks of [coal](./Coal.md) may spawn inside as well as some pieces of firewood, and there is also a [First aid kit](./First%20Aid%20Kit.md) which may contain [bandages](./Bandage.md), [antiseptic](./Antiseptic.md), [energy bars](./Energy%20Bar.md), etc. There is a Tuffet bed, but it can't be used by the player, since it's occupied by a [frozen corpse](./Frozen%20Corpse.md), who might yield high tier [clothing](./Clothing.md), such as the rare [Cowichan Sweater](./Cowichan%20Sweater.md).
 
 The place is safe from predators but also quite secluded, nearest [wildife](./Wildlife.md) being closer to [Angler's Den](./Angler%27s%20Den.md), so there seems to be no special reason to stay here instead of the nearby Cabin.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Corpse in Narrow Falls Cave might yield high tier clothing](../assets/20210505003238_1.jpg)

@@ -20,8 +20,10 @@
 
 This is the mission transcript for mission 4 [Paradise Lost](./Paradise%20Lost.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 CHAPTER FOUR
@@ -62,8 +64,16 @@ Will Mackenzie: "Thank you. I'll come back for you..."
 
 Grey Mother: "You've done a lot for me Mackenzie. I won't forget you."
 
-<span id="leave_milton"></span><span id="Leave_Milton"></span><span id="leave-milton"></span>
+<!-- #leave_milton -->
+​
 
+<!-- #Leave_Milton -->
+​
+
+<!-- #Leave_milton -->
+​
+
+<!-- #leave-milton -->
 ### Leave Milton
 
 _Mackenzie goes to the second floor of the house and retrieves [Lilith Barker's](./Lilith%20Barker.md) climbing equipment, then heads to [Milton Park](./Milton%20Park.md) by following [Lily's Map](./Lily%27s%20Map.md). He ties the [Mountaineering Rope](./Mountaineering%20Rope.md) to a rock, but before he leaves Milton behind, Mackenzie says:_

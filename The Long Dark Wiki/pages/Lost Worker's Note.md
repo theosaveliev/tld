@@ -30,8 +30,10 @@
 
 **Lost Worker's Note** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Lost Power Workers](./Lost%20Power%20Workers.md) side mission. It is found on the corpse of worker 2 in the ravine.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Lost Worker's Note**_
@@ -46,8 +48,16 @@ I keep seeing a river in my head, rushing water to the edge of something. Into a
 
 I just can't remember anymore...
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

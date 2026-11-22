@@ -16,8 +16,10 @@
 
 It does not appear in [Survival Mode](./Survival%20Mode.md).
 
-<span id="loot"></span><span id="Loot"></span>
+<!-- #Loot -->
+​
 
+<!-- #loot -->
 ## Loot
 
 This tile only contains the [Forest Talker Documents](./Forest%20Talker%20Documents.md) as part of the quest.

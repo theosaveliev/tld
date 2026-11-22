@@ -40,16 +40,20 @@ Stones are an excellent tool for hunting [Rabbits](./Rabbit.md) and [Ptarmigans]
 
 Stones can also be used to lower the morale of an attacking [Timberwolf](./Timberwolf.md) pack, by hitting or landing near one of its members.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Rock Cache](./Rock%20Cache.md) | None | - 50 × [Stone](./Stone.md) |
 
-<span id="hunting"></span><span id="Hunting"></span>
+<!-- #Hunting -->
+​
 
+<!-- #hunting -->
 ## Hunting
 
 Rabbits and Ptarmigans are stunned by a direct hit with a stone, which requires some practice with sneaking near enough to the small animals and aiming roughly in the center of the thumb and forefinger "reticule." If the player picks up the animal within a few seconds, the game gives you the option to kill or release it, otherwise it will recover from its stunned state and flee the area.
@@ -70,8 +74,10 @@ Rabbits and [Deer](./Deer.md) will flee from the landing site of thrown stones, 
 
 Like [arrows](./Simple%20Arrow.md), stones will ricochet off terrain and objects if striking at an oblique angle.
 
-<span id="aiming"></span><span id="Aiming"></span>
+<!-- #Aiming -->
+​
 
+<!-- #aiming -->
 ## Aiming
 
 ![Aim in between the index finger and thumb. The red circle is where the Stone will land.](../assets/Stone_Aim_Guide.png)_Aim in between the index finger and thumb. The red circle is where the Stone will land._ By holding the "Aim" Option, position your target between the thumb and index finger as shown in the example photo. Stones typically land in this area, though a few factors need to be taken into account before throwing:
@@ -80,8 +86,10 @@ Like [arrows](./Simple%20Arrow.md), stones will ricochet off terrain and objects
 - If the target is moving, always aim slightly in front of them before throwing, as aiming where the target currently is will cause the Stone to miss once it leaves your hand.
 - Gloves can make throwing more difficult since the index finger is covered up. Try practicing with [Driving Gloves](./Driving%20Gloves.md) or similar non-mitten gloves or simply remove any mittens first, then when you become better with throwing Stones, practice with mittens on.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Stone's viewmodel](../assets/Stone_viewmodel.jpg)
@@ -92,9 +100,19 @@ Like [arrows](./Simple%20Arrow.md), stones will ricochet off terrain and objects
 
 _A [Rock Cache](./Rock%20Cache.md) made of several Stones_
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
+
+[ru:Камень](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C)

@@ -14,8 +14,10 @@
 
 **Type:** Landmark
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Just a mountain with the form of a pillar. Underneath it can be found the cave leading to [Deer Clearing](./Deer%20Clearing.md), located in the region of [Timberwolf Mountain](./Timberwolf%20Mountain.md). It can be used as a landmark for navigation since it's at the southern part of Ash Canyon and is almost always visible.
@@ -26,8 +28,10 @@ The area is rich in natural resources, and a [Rabbit](./Rabbit.md) grove and sev
 
 There is also a tree stump with a [Spray Paint](./Spray%20Paint.md) and 0.50L of [Water (Potable)](./Water%20%28Potable%29.md) when going from the pass towards the "to Timberwolf Mountain" cave. Its on a small rise, near the pass right beneath the pathway leading up the (right) rockface which leads nowhere.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Pillar and the Wolf's Jaw seen by Foreman's Retreat](../assets/PillarWolf.jpg)

@@ -14,8 +14,10 @@
 
 **Type:** Landmark
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Broken Bridge, as its name implies, is destroyed and impassable. It serves as one of the ends of the region.
@@ -26,8 +28,12 @@ From [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wi
 
 For players who have installed [The Long Development](./The%20Long%20Development.md), this bridge currently serves as accessing point to 1st modded region [Precarious Causeway](./Precarious%20Causeway.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A view of the underside of the bridge.](../assets/Broken_Bridge_underside.jpg)
+
+[ru:Разрушенный мост](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82)

@@ -22,8 +22,10 @@ Episode
 
 This is the mission transcript for the opening [Prologue](./Prologue.md) of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<span id="recap"></span><span id="Recap"></span>
+<!-- #Recap -->
+​
 
+<!-- #recap -->
 ## Recap
 
 _A story recap begins as the opening cutscene_
@@ -84,8 +86,10 @@ Mathis: "Don't worry, pilot. You'll be with her soon."
 
 _The man strikes Mackenzie with the back of the axe, and the scene ends._
 
-<span id="prologue"></span><span id="Prologue"></span>
+<!-- #Prologue -->
+​
 
+<!-- #prologue -->
 ## Prologue
 
 _The sound of a wolf howl echoes across a black screen before the sounds of footsteps join in._
@@ -226,8 +230,19 @@ _Mackenzie turns his focus to a path ahead of him in the ravine_
 
 Mackenzie: "Can't let them find me." _He looks at the bindings on his wrists_ "need my hands free."
 
-<span id="escape_the_convicts."></span><span id="Escape_the_Convicts."></span><span id="escape-the-convicts"></span>
+<!-- #escape_the_convicts. -->
+​
 
+<!-- #Escape_the_Convicts. -->
+​
+
+<!-- #Escape_the_convicts. -->
+​
+
+<!-- #Escape_The_Convicts. -->
+​
+
+<!-- #escape-the-convicts -->
 ## Escape the Convicts.
 
 _The player has control at this point and Mackenzie starts walking._

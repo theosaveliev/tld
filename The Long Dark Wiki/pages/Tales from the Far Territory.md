@@ -41,8 +41,10 @@
 
 **_Tales from the Far Territory_** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the first expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, being released in 6 parts starting from December 5, 2022 and fully concluding on December 2, 2024.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “**Deep along the spine of Great Bear tracks a steep mountain range that bisects the island. This is the Far Range, an imposing wall of rock that stands vigilant over Great Bear's priceless resource riches. Over the decades, many have tried, few have succeeded to crack open the wealth within these rocks. And mysteries abound. Dark stories told around campfires, about abandoned mines and remote airfields that hold many secrets. Now, with the aurora blazing across the sky, is the Far Territory ready to surrender its stories? Will you survive long enough to wrest any truths from the rocky grasp of this old, dark territory?**”
@@ -57,14 +59,33 @@ Any content exclusive to the paid expansion is labeled as such below, and a full
 
 Purchasing the DLC also enables players to install [The Long Development](./The%20Long%20Development.md), an unofficial, fan-made pc mod which adds several regions to the eastern part of Great Bear Island.
 
-<span id="part_one_forsaken_airfield"></span><span id="Part_One:_Forsaken_Airfield"></span><span id="part_one:_forsaken_airfield"></span><span id="part-one-forsaken-airfield"></span>
+<!-- #part_one_forsaken_airfield -->
+​
 
+<!-- #Part_One:_Forsaken_Airfield -->
+​
+
+<!-- #part_one:_forsaken_airfield -->
+​
+
+<!-- #Part_one:_forsaken_airfield -->
+​
+
+<!-- #part-one-forsaken-airfield -->
 ## Part One: Forsaken Airfield
 
 Released December 5, 2022
 
-<span id="paid_update"></span><span id="Paid_Update"></span><span id="paid-update"></span>
+<!-- #paid_update -->
+​
 
+<!-- #Paid_Update -->
+​
+
+<!-- #Paid_update -->
+​
+
+<!-- #paid-update -->
 ### Paid Update
 
 - 3 new Regions
@@ -81,8 +102,16 @@ Released December 5, 2022
 - 1 new Affliction: [Insomnia](./Insomnia.md)
 - New soundtracks
 
-<span id="free_update"></span><span id="Free_Update"></span><span id="free-update"></span>
+<!-- #free_update -->
+​
 
+<!-- #Free_Update -->
+​
+
+<!-- #Free_update -->
+​
+
+<!-- #free-update -->
 ### Free Update
 
 - Global resource overhaul for all Gear, Harvestables and Clothing
@@ -92,22 +121,43 @@ Released December 5, 2022
 - [Improvised Crampons](./Improvised%20Crampons.md)
 - [Doe](./Deer.md) - a female deer
 
-<span id="miscellaneous_update"></span><span id="Miscellaneous_Update"></span><span id="miscellaneous-update"></span>
+<!-- #miscellaneous_update -->
+​
 
+<!-- #Miscellaneous_Update -->
+​
+
+<!-- #Miscellaneous_update -->
+​
+
+<!-- #miscellaneous-update -->
 ### Miscellaneous Update
 
 - Survival and WINTERMUTE split into separate gaming editions
 - Save system overhaul, resulting in a save wipe for survival mode
 - Temporarily removed prepper cache bunkers
 
-<span id="part_two_signal_void"></span><span id="Part_Two:_Signal_Void"></span><span id="part_two:_signal_void"></span><span id="part-two-signal-void"></span>
+<!-- #part_two_signal_void -->
+​
 
+<!-- #Part_Two:_Signal_Void -->
+​
+
+<!-- #part_two:_signal_void -->
+​
+
+<!-- #Part_two:_signal_void -->
+​
+
+<!-- #part-two-signal-void -->
 ## Part Two: Signal Void
 
 Released March 30th, 2023
 
-<span id="paid_update_1"></span><span id="paid-update-1"></span>
+<!-- #paid_update_1 -->
+​
 
+<!-- #paid-update-1 -->
 ### Paid Update
 
 - The First [Tale](./Tales.md): [Signal Void](./Signal%20Void.md) and 1 unique [Badge](./Badges.md)
@@ -121,8 +171,10 @@ Released March 30th, 2023
   - [Technical Balaclava](./Technical%20Balaclava.md)
   - [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
-<span id="free_update_1"></span><span id="free-update-1"></span>
+<!-- #free_update_1 -->
+​
 
+<!-- #free-update-1 -->
 ### Free Update
 
 - [Fire-Hardened Arrows](./Fire%20Hardened%20Arrow.md)
@@ -131,21 +183,36 @@ Released March 30th, 2023
 - [Plane Crashes](./Plane%20Crashes.md)
 - [Acorns](./Acorns.md) and [Oak Trees](./Oak%20Tree.md), as well as introducing [Acorn Grounds](./Acorn%20Grounds.md) to make [Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
 
-<span id="miscellaneous_update_1"></span><span id="miscellaneous-update-1"></span>
+<!-- #miscellaneous_update_1 -->
+​
 
+<!-- #miscellaneous-update-1 -->
 ### Miscellaneous Update
 
 - Returned Prepper Caches from previous update's removal
 - [Weak Ice](./Weak%20Ice.md) now displays cracks when walked over as part of the updated Beachcombing mechanic
 
-<span id="part_three_frontier_comforts"></span><span id="Part_Three:_Frontier_Comforts"></span><span id="part_three:_frontier_comforts"></span><span id="part-three-frontier-comforts"></span>
+<!-- #part_three_frontier_comforts -->
+​
 
+<!-- #Part_Three:_Frontier_Comforts -->
+​
+
+<!-- #part_three:_frontier_comforts -->
+​
+
+<!-- #Part_three:_frontier_comforts -->
+​
+
+<!-- #part-three-frontier-comforts -->
 ## Part Three: Frontier Comforts
 
 Released June 21, 2023
 
-<span id="paid_update_2"></span><span id="paid-update-2"></span>
+<!-- #paid_update_2 -->
+​
 
+<!-- #paid-update-2 -->
 ### Paid Update
 
 - [Ptarmigan](./Ptarmigan.md), a new passive wildlife bird which gathers in flocks near high ground. Acts as a source of [food](./Ptarmigan%20%28Raw%29.md) and its [feathers](./Ptarmigan%20Down.md) can be used to make tools
@@ -177,8 +244,10 @@ Released June 21, 2023
   - [Nourished](./Nourished.md)
   - [Gorged](./Gorged.md)
 
-<span id="free_update_2"></span><span id="free-update-2"></span>
+<!-- #free_update_2 -->
+​
 
+<!-- #free-update-2 -->
 ### Free Update
 
 - [Burdock](./Burdock.md) plants. Can be dug up for their [Roots](./Burdock%20Root.md), then can be [prepared and eaten raw](./Prepared%20Burdock.md) or be made into [Burdock Tea](./Burdock%20Tea.md)
@@ -197,14 +266,27 @@ Released June 21, 2023
     - [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md)
     - [Rockfish](./Rockfish%20%28Raw%29.md)
 
-<span id="part_four_buried_echoes"></span><span id="Part_Four:_Buried_Echoes"></span><span id="part_four:_buried_echoes"></span><span id="part-four-buried-echoes"></span>
+<!-- #part_four_buried_echoes -->
+​
 
+<!-- #Part_Four:_Buried_Echoes -->
+​
+
+<!-- #part_four:_buried_echoes -->
+​
+
+<!-- #Part_four:_buried_echoes -->
+​
+
+<!-- #part-four-buried-echoes -->
 ## Part Four: Buried Echoes
 
 Released December 5th, 2023
 
-<span id="paid_update_3"></span><span id="paid-update-3"></span>
+<!-- #paid_update_3 -->
+​
 
+<!-- #paid-update-3 -->
 ### Paid Update
 
 - 1 new Region: [Zone of Contamination](./Zone%20of%20Contamination.md) (previously named Industrial Mine)
@@ -225,8 +307,10 @@ Released December 5th, 2023
   - [Canister](./Canister.md)
 - New soundtracks
 
-<span id="free_update_3"></span><span id="free-update-3"></span>
+<!-- #free_update_3 -->
+​
 
+<!-- #free-update-3 -->
 ### Free Update
 
 - 1 new Affliction: [Scurvy](./Scurvy.md)
@@ -236,20 +320,35 @@ Released December 5th, 2023
   - Carcass Harvesting Overhaul: harvesting carcasses and meat quarters now shows the survivor harvesting the body by hand and visually involves the tool selected.
   - Brand new Hunting Rifle, Revolver, and Distress Pistol animations
 
-<span id="miscellaneous_update_2"></span><span id="miscellaneous-update-2"></span>
+<!-- #miscellaneous_update_2 -->
+​
 
+<!-- #miscellaneous-update-2 -->
 ### Miscellaneous Update
 
 - Carcasses now become weathered over time and possess 3 states of being (fresh, ravaged, frozen)
 
-<span id="part_five_last_horizon"></span><span id="Part_Five:_Last_Horizon"></span><span id="part_five:_last_horizon"></span><span id="part-five-last-horizon"></span>
+<!-- #part_five_last_horizon -->
+​
 
+<!-- #Part_Five:_Last_Horizon -->
+​
+
+<!-- #part_five:_last_horizon -->
+​
+
+<!-- #Part_five:_last_horizon -->
+​
+
+<!-- #part-five-last-horizon -->
 ## Part Five: Last Horizon
 
 Released June 24th 2024
 
-<span id="paid_update_4"></span><span id="paid-update-4"></span>
+<!-- #paid_update_4 -->
+​
 
+<!-- #paid-update-4 -->
 ### Paid Update
 
 - One new Region: [Sundered Pass](./Sundered%20Pass.md) (formally named Mountain Pass)
@@ -279,8 +378,10 @@ Released June 24th 2024
   - Celestial Navigator
   - Big Cat Killer
 
-<span id="free_update_4"></span><span id="free-update-4"></span>
+<!-- #free_update_4 -->
+​
 
+<!-- #free-update-4 -->
 ### Free Update
 
 - [Misery](./Misery.md) - a new Experience mode even harder than [Interloper](./Interloper.md), complete with 6 new Afflictions that gradually appear over time and make the survivor's experience permanently harder
@@ -296,22 +397,37 @@ Released June 24th 2024
     - [Cheated Death Penalty](./Cheated%20Death%20Penalty.md)
     - [Weakened State](./Weakened%20State.md)
 
-<span id="miscellaneous_update_3"></span><span id="miscellaneous-update-3"></span>
+<!-- #miscellaneous_update_3 -->
+​
 
+<!-- #miscellaneous-update-3 -->
 ### Miscellaneous Update
 
 - _Tales from the Far Territory_ officially released for Nintendo Switch (Parts 1-5) (August 1st, 2024)
 - Added an option to make Cougars and [Scurvy](./Scurvy.md) optional content when starting a Survival Mode Experience (except Misery)
 - Removed Cougar shortly after launch due to negative player feedback so that it could be reworked
 
-<span id="part_six_broken_silence"></span><span id="Part_Six:_Broken_Silence"></span><span id="part_six:_broken_silence"></span><span id="part-six-broken-silence"></span>
+<!-- #part_six_broken_silence -->
+​
 
+<!-- #Part_Six:_Broken_Silence -->
+​
+
+<!-- #part_six:_broken_silence -->
+​
+
+<!-- #Part_six:_broken_silence -->
+​
+
+<!-- #part-six-broken-silence -->
 ## Part Six: Broken Silence
 
 Released December 2, 2024
 
-<span id="paid_update_5"></span><span id="paid-update-5"></span>
+<!-- #paid_update_5 -->
+​
 
+<!-- #paid-update-5 -->
 ### Paid Update
 
 - "[Cougar 2.0](./Cougar.md)" Redux - returned the big cat after being removed from Part 5, now completely revamped and deadlier than ever.
@@ -362,8 +478,10 @@ Released December 2, 2024
   - [Cured Fish](./Cured%20Meat.md)
   - [Animal Fat](./Animal%20Fat.md)
 
-<span id="free_update_5"></span><span id="free-update-5"></span>
+<!-- #free_update_5 -->
+​
 
+<!-- #free-update-5 -->
 ### Free Update
 
 - [Safehouse Customization](./Safehouse%20Customization.md) - customize almost any interior with the ability to move, rearrange, destroy, or craft furniture and containers to let survivors create their perfect safe house
@@ -374,8 +492,10 @@ Released December 2, 2024
 - Global Wildlife Refresh: an overhaul of wildlife spawn points and patrol paths to remove some of the predictability from their behavior
   - Establish new patterns for hunting and travel through the world to avoid, or seek out, wildlife. Every wildlife spawn region in the game has been refreshed. Expect to encounter predators like Bears, Wolves, and now Cougars, in new and dangerous places. Find prey animals like Deer, Rabbits, and Ptarmigan have made homes in new locations. Wildlife populations have been rebalanced across the entire game world. Even Timberwolf spawns have been refreshed, so that they don’t always appear where they used to.
 
-<span id="miscellaneous_update_4"></span><span id="miscellaneous-update-4"></span>
+<!-- #miscellaneous_update_4 -->
+​
 
+<!-- #miscellaneous-update-4 -->
 ### Miscellaneous Update
 
 - Added 19 new [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) related to the _Tales from the Far Territory_, being a mix of free and paid achievements.
@@ -383,8 +503,10 @@ Released December 2, 2024
 - Train box cars and Car/Truck engines received new models. [Camp Office](./Camp%20Office.md) now has paint on the walls upstairs.
 - The Big Cat Killer Feat was discontinued with the new Cougar version, and is now a legacy Feat.
 
-<span id="development"></span><span id="Development"></span>
+<!-- #Development -->
+​
 
+<!-- #development -->
 ## Development
 
 With the progress of Episode 4 and writing for episode 5 coming to a close, Raphael van Lierop posted the Dev Diary on March 18, 2021 talking about the future of _The Long Dark_ and linking to a survey asking a series of questions, including if players would be willing to pay for DLC.<span id="fnref1"></span>[¹](#fn1) The results of the survey showed a favourable view towards paid content and development began with a dedicated team. <span id="fnref2"></span>[²](#fn2) To streamline the process of adding updates, the game was planned to be split into two editions, _Survival Edition_ and _Wintermute_.<span id="fnref3"></span>[³](#fn3)
@@ -403,8 +525,10 @@ _Tales_ was initially disabled for Interloper in order to maintain gameplay bala
 
 The Cougar was met with heavy criticism at Part Four's launch, with many players expressing their disappointment with how it was implemented. This included how it did not act as a typical wildlife in the game and rather than roam and interact with the world and player, its appearance was limited to the moment it attacked the player after a timer countdown. The Cougar was promptly removed from the game to be reworked and then rereleased later for Part Six on December 2, 2024 to a relatively more favourable reception.
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - ![Too Greedily, too Deep icon](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
@@ -420,8 +544,10 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 - ![Goods and Services icon](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md)
 - ![Tough Enough icon](../assets/Tough_Enough_icon.png) [Tough Enough](./Tough%20Enough.md)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The promotional image used for the _Tales From the Far Territory_ is actually concept art for the [Final Approach](./Final%20Approach.md) helicopter crash site.
@@ -429,12 +555,16 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 - [Sundered Pass](./Sundered%20Pass.md) was formerly teased as _Mountain Pass_, but was renamed during its debut.
 - Base Customization was originally exclusive to this DLC before it was made available for all players as part of free update.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #official_art -->
+​
 
-## Gallery
+<!-- #Official_Art -->
+​
 
-<span id="official_art"></span><span id="Official_Art"></span><span id="official-art"></span>
+<!-- #Official_art -->
+​
 
+<!-- #official-art -->
 ### Official Art
 
 ![Title Card](../assets/Tales_from_the_far_territory_title.jpg)
@@ -463,12 +593,10 @@ _Concept art of a [Poisoned Wolf](./Poisoned%20Wolf.md)_
 
 ![Safe House Customization Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
 
-<span id="references"></span><span id="References"></span>
+<!-- #footnotes -->
+​
 
-### References
-
-<span id="footnotes"></span>
-
+<!-- #notes -->
 ## Notes
 
 ---

@@ -51,31 +51,18 @@
 
 **Dr. Rüdiger** (Initials **AR**) is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 [Tales](./Tales.md) in [Survival Mode](./Survival%20Mode.md).
 
-<span id="signal_void"></span><span id="Signal_Void"></span><span id="signal-void"></span>
+<!-- #Gallery -->
+​
 
-## Signal Void
-
-<span id="buried_echoes"></span><span id="Buried_Echoes"></span><span id="buried-echoes"></span>
-
-## Buried Echoes
-
-<span id="last_horizon"></span><span id="Last_Horizon"></span><span id="last-horizon"></span>
-
-## Last Horizon
-
-<span id="belongings"></span><span id="Belongings"></span>
-
-## Belongings
-
-
-<span id="gallery"></span><span id="Gallery"></span>
-
+<!-- #gallery -->
 ## Gallery
 
 ![The man's fate at the end of Last Horizon, long since perished.](../assets/R%C3%BCdiger%27s_fate.jpg)

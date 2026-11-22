@@ -34,8 +34,10 @@
 
 A **Canister** is a [First Aid](./First%20Aid.md) item found in _The Long Dark_ that was added in the Part 4 Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Canisters work in tandem with a [Respirator](./Respirator.md), are used to prevent [Suffocation](./Suffocation.md) from toxic gases found inside mineshafts, as well as preventing [Chemical Poisoning](./Chemical%20Poisoning.md) from occurring when walking around [chemical spills](./Chemical%20Hazard.md) on the surface of the [Zone of Contamination](./Zone%20of%20Contamination.md).
@@ -44,8 +46,16 @@ Canisters degrade quite rapidly and only filter air for 45 seconds. This tradeof
 
 Canisters occasionally spawn in other regions outside of the Zone of Contamination but are incredibly rare. They have a higher chance of being slightly more common loot items in the [Blackrock](./Blackrock.md) region, but become virtually nonexistent when searching in all other regions.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

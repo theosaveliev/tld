@@ -14,8 +14,10 @@
 
 Has no shelter **Cascading Gap** is a location in [Sundered Pass](./Sundered%20Pass.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is a bridge on the main mountain road leading north to [Placid Notch](./Placid%20Notch.md) or south to [Lotte's Rest](./Lotte%27s%20Rest.md), with a nearby frozen waterfall just under the bridge. The frozen waterfall under the bridge is actually [Route One Waterfall](./Route%20One%20Waterfall.md), and can be seen from far away even in the valley below, acting as a great landmark for the region.

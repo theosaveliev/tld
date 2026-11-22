@@ -40,8 +40,10 @@
 
 It was added in the free update portion of the Part 3: Frontier Cooking for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is a natural antibiotic drink, and like [Reishi Tea](./Reishi%20Tea.md), helps a player suffering from the following [Afflictions](./Afflictions.md):
@@ -53,12 +55,13 @@ It is a natural antibiotic drink, and like [Reishi Tea](./Reishi%20Tea.md), help
 
 Compared to Reishi Tea, Burdock Tea takes more effort to find materials for and then cook into tea, with [Burdock](./Burdock.md) saplings being less plentiful to find compared to [Reishi Mushrooms](./Reishi%20Mushroom.md).
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Burdock Tea**
-
 
 12.5 minutes
 
@@ -72,9 +75,19 @@ Compared to Reishi Tea, Burdock Tea takes more effort to find materials for and 
 
 **Quantity:** 1
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Чай из Лопуха](https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B9_%D0%B8%D0%B7_%D0%9B%D0%BE%D0%BF%D1%83%D1%85%D0%B0)

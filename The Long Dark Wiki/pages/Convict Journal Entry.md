@@ -30,8 +30,10 @@
 
 **Convict Journal Entry** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a [Backpack](./Backpack.md) next to a Convict Corpse in near the starting point of [River (Southern Access)](./River%20%28Southern%20Access%29.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Convict Journal Entry**_
@@ -40,8 +42,16 @@ They got me set up with the usual hard cases. Nothin I haven't seen before, but 
 
 Storms out this way are worst I've seen. Days go by, same wind blowin. They packed us away, pop. Froze us up out here. To cold to work, just sit thinkin all the time. Stuck with what I done.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

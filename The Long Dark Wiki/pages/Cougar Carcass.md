@@ -18,8 +18,10 @@
 
  A **Cougar Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Cougar](./Cougar.md). A Cougar Carcass always produces 3 [Crow Feathers](./Crow%20Feather.md) from passing [Crows](./Crow.md).
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 A Cougar is a fierce and dangerous foe to hunt, but killing one will produce a Cougar Carcass, which can be harvested to obtain the following items:
@@ -39,18 +41,24 @@ The Cougar Claw is harvested automatically when Harvesting Cougar Hide/Quarterin
 
 Killing Cougars grants unique rewards: Cougar Hide (for crafting [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md)) and Cougar Claw (for crafting [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)), as well as Cougar Meat.
 
-<span id="preplaced_locations"></span><span id="Preplaced_Locations"></span><span id="preplaced-locations"></span>
+<!-- #preplaced_locations -->
+​
 
+<!-- #Preplaced_Locations -->
+​
+
+<!-- #Preplaced_locations -->
+​
+
+<!-- #preplaced-locations -->
 ## Preplaced Locations
 
 Cougar Carcasses are never found preplaced in the world, and are only produced after killing a Cougar.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #footnotes -->
+​
 
-## Gallery
-
-<span id="footnotes"></span>
-
+<!-- #notes -->
 ## Notes
 
 ---

@@ -22,18 +22,22 @@ Region
 
 Has an interior **St Christopher's Church** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. The church is a possible spawn location for the region and the [Graveyard](./Graveyard.md) is located across the street.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
-According to a note found in the church, the pastor was Father Francis McGill. He was withdrawn by the Archdiocese due to a lack of activity; however, church services and Latin lessons continued over Skype. A [Hymnal](./Hymnal.md) can be found in the church with the lyrics to the hymn _[Dies Irae](Wikipedia:Dies_Irae)_ ("Day of Wrath") in both Latin and English.
+According to a note found in the church, the pastor was Father Francis McGill. He was withdrawn by the Archdiocese due to a lack of activity; however, church services and Latin lessons continued over Skype. A [Hymnal](./Hymnal.md) can be found in the church with the lyrics to the hymn _[Dies Irae](https://en.wikipedia.org/wiki/Dies_Irae)_ ("Day of Wrath") in both Latin and English.
 
 The church appears to have served as a shelter to someone recently, as there are a few supplies, a makeshift bed, and the remnants of a [Campfire](./Campfire.md) on the floor (allowing the player to light a fire indoors), be careful NOT to deconstruct it as you can not replace the campfire.
 
 Although the church can serve as a base with its bed, nearby rabbit grove, and indoor fireplace, the roof has several holes in it, so it isn't a particularly cozy location to live in. Storage is also limited, and wolves may be a minor hazard when coming and going. [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) just down the road is generally a better base location, with its six-burner stove and abundant storage containers.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - "St. Christopher" is a real-world Christian saint, and is the patron saint of traveling and athletics.
@@ -42,7 +46,7 @@ Although the church can serve as a base with its bed, nearby rabbit grove, and i
 - St. Christopher's Church is a Catholic church.
 - St. Christopher's Church was founded after 1911 and closed before [The First Flare](./First%20Flare.md) with it's remaining members moving to online worship sessions instead, due to declining membership from the town of Milton (as detailed in [Buffer Memories](./Buffer%20Memories.md) and Notes). This suggests that Milton was markedly less populous than Thompson's Crossing.
 - St Christopher's Church is one of three churches on [Great Bear Island](./Great%20Bear%20Island.md); the other two being the [Stone Church](./Stone%20Church.md) of [Desolation Point](./Desolation%20Point.md), and the Catholic or Episcopal church of [Thompson's Crossing](./Thomson%27s%20Crossing.md).
-- _[Dies Irae](Wikipedia:Dies_Irae)_ is a Latin hymn dating to the 13th century at the latest. It has been used in music, religion, and popular culture for centuries to symbolize death.
+- _[Dies Irae](https://en.wikipedia.org/wiki/Dies_Irae)_ is a Latin hymn dating to the 13th century at the latest. It has been used in music, religion, and popular culture for centuries to symbolize death.
 
 ![Graveyard in front of St. Christopher's Church](../assets/Graveyard.png)
 

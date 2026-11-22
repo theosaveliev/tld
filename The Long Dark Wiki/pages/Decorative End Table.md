@@ -18,21 +18,23 @@
 
 The **Decorative End Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A series of logs bound together to make a table, Decorative End Table can be crafted anywhere by the player, but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 Once crafted, the item is automatically placed into the player's inventory. It can only be placed on the floor or flat surfaces when in Customization Mode. It can later be picked up and placed back into the player's inventory or destroyed (yielding no resources).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Decorative End Table**
-
-
 
 240 minutes (4 hour 0 minutes)
 
@@ -43,7 +45,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 6
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

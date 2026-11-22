@@ -35,24 +35,42 @@
 
 **The Ravine**, also known as **The Raven Falls Railway Line** or **Raven Falls,** is a Transition Zone [Region](./Region.md) connecting [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md). It was the 1st Transition Zone released in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Ravine is a long and winding narrow region with sparse [Wildlife](./Wildlife.md). No artificial structures are present to shelter in, but three caves provide shelter: one near Mystery Lake, another near the region's center, and the last at the Ravine's basin near Bleak Inlet. The [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) in the region suffers from heavy damage, and requires frequent detours to get back on the tracks.
 
 The Ravine is trickier to navigate than other regions. Depending on which route is taken, a fallen tree trunk must be crossed, a broken railway line over a lethal fall must be traversed, or a long rope must be climbed. The region as a whole is very long and quite cold with little shelter, making its travel time consuming and vulnerable to [exposure](./Weather.md).
 
-<span id="instant_death_barrier"></span><span id="Instant_Death_Barrier"></span><span id="instant-death-barrier"></span>
+<!-- #instant_death_barrier -->
+​
 
+<!-- #Instant_Death_Barrier -->
+​
+
+<!-- #Instant_death_barrier -->
+​
+
+<!-- #instant-death-barrier -->
 ## Instant Death Barrier
 
 **WARNING,** attempting to [Mountain Goat](./Mountain%20Goating.md) down the sides of the Ravine into [Ravine Basin](./Ravine%20Basin.md) will result in passing through an invisible **DEATH BARRIER** that will instantly wipe your save after death (or force you to [Cheat Death](./Cheat%20Death.md) to continue). It was added when the zone was first put into the game to prevent people from accidentally mountain goating down into lower areas of the valley, causing the player to get stuck and slowly die since they could not escape. These death barriers still haven't been removed since the as of the recent version of Survival Mode. This should be treated as an [Environmental Hazard](./Environmental%20Hazard.md). Always use the [Rope Climbing](./Rope%20Climbing.md) section to go down into the basin.
 
 Falling off the tree bridge onto the small patch of land underneath it near the Rope Climbing section of Ravine Basin will also result in instant death.
 
-<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
+<!-- #wildlife_availability -->
+​
 
+<!-- #Wildlife_Availability -->
+​
+
+<!-- #Wildlife_availability -->
+​
+
+<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 The Ravine is one of 2 unique regions that contains no [predators](./Wolf.md) of any type (the second being [Transfer Pass](./Transfer%20Pass.md)). Only 2 animals are found in this region.
@@ -60,8 +78,10 @@ The Ravine is one of 2 unique regions that contains no [predators](./Wolf.md) of
 - [Rabbit](./Rabbit.md) can occasionally be found in the section of the map containing the Ravine's Basin, above and below it.
 - [Deer](./Deer.md) can be found to the west section of the map, along with the occasional [Deer Carcass](./Deer%20Carcass.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 The Ravine only has 2 named locations due to its small size.
@@ -74,16 +94,32 @@ The Ravine only has 2 named locations due to its small size.
 
 There are also 2 [Warm Caves](./Warm%20Cave.md) located on the east section of the map, northeast and southwest of Ravine Basin respectively.
 
-<span id="raven_falls_trestle"></span><span id="Raven_Falls_Trestle"></span><span id="raven-falls-trestle"></span>
+<!-- #raven_falls_trestle -->
+​
 
+<!-- #Raven_Falls_Trestle -->
+​
+
+<!-- #Raven_falls_trestle -->
+​
+
+<!-- #raven-falls-trestle -->
 ## Raven Falls Trestle
 
 Near The Ravine's exit to Coastal Highway is a narrow railway line atop a bridge. Part of the trestle is destroyed and the railway line damaged, requiring careful navigation to not plummet to one's death below.
 
 Attempting to climb down the trestle or the slopes in the Raven Falls area is lethal, due to a kill-box put in place to prevent players from trapping themselves at the bottom of the Ravine. This was put in place before Bleak Inlet was added to the map, but still remains to end runs for the unwary.
 
-<span id="ravine_basin"></span><span id="Ravine_Basin"></span><span id="ravine-basin"></span>
+<!-- #ravine_basin -->
+​
 
+<!-- #Ravine_Basin -->
+​
+
+<!-- #Ravine_basin -->
+​
+
+<!-- #ravine-basin -->
 ## Ravine Basin
 
 Near the hanging train by the Mystery Lake side of The Ravine is an anchor point (with no climbing rope); affixing a [climbing rope](./Rope%20Climbing.md) here allows descent to the Ravine Basin and Bleak Inlet.
@@ -94,16 +130,26 @@ At the Ravine Basin inside a rail-car is a [distress pistol case](./Distress%20P
 - A [Go! Energy Drink](./Go!%20Energy%20Drink.md) or [Emergency Stim](./Emergency%20Stim.md) can be used to complete the climb up, but will result in becoming exhausted afterward.
 - Since version [0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) there is the chance a climbing rope will spawn (with other loot) in one of the train wagons. A rope may also spawn at the lip of either cave.
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #Maps -->
+​
 
+<!-- #maps -->
 ## Maps
 
 ![A detailed map of Ravine v2.35](../assets/Ravine_map.png)
 
 ![A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)](../assets/Ravine_map_loper.png)
 
-<span id="outdated_gallery"></span><span id="Outdated_Gallery"></span><span id="outdated-gallery"></span>
+<!-- #outdated_gallery -->
+​
 
+<!-- #Outdated_Gallery -->
+​
+
+<!-- #Outdated_gallery -->
+​
+
+<!-- #outdated-gallery -->
 ## Outdated Gallery
 
 ![Map of Ravine v1.83](../assets/Map-RV-spoil-Fixv167.png)
@@ -120,4 +166,4 @@ At the Ravine Basin inside a rail-car is a [distress pistol case](./Distress%20P
 
 ![Train tunnel at The Ravine.](../assets/The_Ravine_-_tunnel.jpg)
 
-© Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts
+[es:Desfiladero](https://es.wikipedia.org/wiki/Desfiladero) [fr:Ravin](https://fr.wikipedia.org/wiki/Ravin) [ru:Железнодорожная ветка "Водопады ворона"](https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_%22%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%22) © Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts

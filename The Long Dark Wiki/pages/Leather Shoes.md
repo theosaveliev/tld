@@ -38,8 +38,10 @@
 
 **Leather Shoes** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Low tier shoes and a common starting item. They offer more protection and waterproofing than [Running Shoes](./Running%20Shoes.md), but also have a 3% movement penalty. typically not worth repairing, but harvesting them yields 2 [Leather](./Cured%20Leather.md).
@@ -48,8 +50,16 @@ Low tier shoes and a common starting item. They offer more protection and waterp
 
 ![Clothing model icon](../assets/Leather_Shoes_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

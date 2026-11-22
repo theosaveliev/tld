@@ -33,12 +33,10 @@ Has a bed
 
 Has a workbench
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Outdoors -->
+​
 
-## Overview
-
-<span id="outdoors"></span><span id="Outdoors"></span>
-
+<!-- #outdoors -->
 ### Outdoors
 
 Notable loot outside the building includes:
@@ -56,17 +54,23 @@ Notable loot outside the building includes:
 
 A [Work Bench](./Work%20Bench.md) is located behind the building next to a [Fire Barrel](./Fire%20Barrel.md) and a [Coal Bin](./Coal%20Bin.md). A path to the west of the house leads to a [Rope Climbing](./Rope%20Climbing.md) into the mountains, eventually leading to a Transition Cave that leads to [Forsaken Airfield](./Forsaken%20Airfield.md)/[Zone of Contamination](./Zone%20of%20Contamination.md) or to the [Weather Station](./Weather%20Station.md).
 
-<span id="indoors"></span><span id="Indoors"></span>
+<!-- #Indoors -->
+​
 
+<!-- #indoors -->
 ### Indoors
 
 The cabin consists of two rooms. The outer den which contains a [Wood Stove](./Wood%20Stove.md) and [Fireplace](./Fireplace.md) and several harvestable [Curtain](./Curtain.md) and [Table](./Table.md) objects.
 
 The back bedroom is initially locked by a padlock and requires a key to be accessed as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md) (needs [An Old House Key](./An%20Old%20House%20Key.md)). It contains two collectibles required to advance the storyline, a bed, a [Safe](./Safe.md), as well as the one of a kind [Tactical Gloves](./Tactical%20Gloves.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
-- This location's name may have been inspired by the [Last Homely House](w:c:lotr:Last_Homely_House) of [Elrond](w:c:lotr:Elrond) in J.R.R. Tolkien's legendarium.
+- This location's name may have been inspired by the [Last Homely House](https://lotr.fandom.com/wiki/Last_Homely_House) of [Elrond](https://lotr.fandom.com/wiki/Elrond) in J.R.R. Tolkien's legendarium.
 - The Tactical Gloves can spawn ruined if the player's save file is over 150 days old.
+
+[ru:Одинокий дом](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC)

@@ -8,8 +8,6 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 **Emergency Food**
 
 [Emergency Food icon](../assets/Emergency_Food_icon.png)

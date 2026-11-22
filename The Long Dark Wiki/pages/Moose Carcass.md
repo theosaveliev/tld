@@ -12,8 +12,10 @@
 
 **Wintermute:** Yes A **Moose Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Moose](./Moose.md). [Crows](./Crow.md) will fly around a Moose Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.<br>Moose are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#Windshield_and_Scent) when harvesting them, a distinction also shared with a [Black Bear Carcass](./Black%20Bear%20Carcass.md).
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 A Moose Carcass may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) and 12 guts. Moose hides can be cured to craft [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
@@ -25,14 +27,24 @@ A Moose Carcass may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose 
 | [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
 | [Missing image: Gut\_icon.png]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
 
-<span id="preplaced_locations"></span><span id="Preplaced_Locations"></span><span id="preplaced-locations"></span>
+<!-- #preplaced_locations -->
+​
 
+<!-- #Preplaced_Locations -->
+​
+
+<!-- #Preplaced_locations -->
+​
+
+<!-- #preplaced-locations -->
 ## Preplaced Locations
 
 A moose carcass can spawn near [Pensive Vista](./Pensive%20Vista.md) in the [Hushed River Valley](./Hushed%20River%20Valley.md). Other than that, finding a moose carcass requires the player to kill a moose.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Ravaged](../assets/Moose_Carcass_Ravaged.jpg)
@@ -43,8 +55,10 @@ A moose carcass can spawn near [Pensive Vista](./Pensive%20Vista.md) in the [Hus
 
 ![Moose carcass](../assets/Moose_carcass.png)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

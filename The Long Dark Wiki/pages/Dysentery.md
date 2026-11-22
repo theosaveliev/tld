@@ -39,7 +39,3 @@ While in effect, [Condition](./Condition.md) will not be restored during [Sleep]
 - Treatment includes consuming 2 [Antibiotics](./Antibiotics.md) or a cup of [Reishi Tea](./Reishi%20Tea.md)/[Burdock Tea](./Burdock%20Tea.md), followed by cumulatively drinking 2.00 L [Water (Potable)](./Water%20%28Potable%29.md), then followed by 10 cumulative hours of [Sleep](./Sleep.md).
 - The treatment process cannot be done out of order: medicine and water must first be fully consumed before the 10 hours of rest will begin to count towards the healing process. (Make sure medicine and water have 2 check marks next to them before sleeping).
 - After consuming the required medicine, the player will stop losing Condition, but thirst will still deplete rapidly until the sleeping recovery time is completed.
-
-<span id="survivor_monologue"></span><span id="Survivor_Monologue"></span><span id="survivor-monologue"></span>
-
-## Survivor Monologue

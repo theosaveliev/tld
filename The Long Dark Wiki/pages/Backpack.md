@@ -38,8 +38,10 @@ GAMEPLAY\_BackPack
 
 A **Backpack** is a stationary interactable object in [The Long Dark](./The%20Long%20Dark.md). It is most often found indoors or outdoors near a [Frozen Corpse](./Frozen%20Corpse.md) and comes in the colors green or [Forest Talkers](./Forest%20Talkers.md) brown. They are not to be confused with the [Technical Backpack](./Technical%20Backpack.md).
 
-<span id="loot"></span><span id="Loot"></span>
+<!-- #Loot -->
+​
 
+<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |

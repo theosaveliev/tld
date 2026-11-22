@@ -34,7 +34,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **Patterned Wool socks. Tough and warm.**<br>in-game description
@@ -43,8 +42,10 @@
 
 **Patterned Wool Socks (Moose)** is the name given to 3 unique variations of [Wool Socks](./Wool%20Socks.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Wool Socks are mid-tier socks. They providing double the warmth and weight of [Sports Socks](./Sports%20Socks.md) and decay slower than them, but decay faster than [Climbing Socks](./Climbing%20Socks.md) and have inferior stats.
@@ -54,7 +55,3 @@ Wool Socks are the best available socks in [Interloper](./Interloper.md)/ [Miser
 ![clothing model](../assets/Patterned_Wool_Socks_%28Moose%29_model.png)
 
 ![clothing model damaged](../assets/Patterned_Wool_Socks_%28Moose%29_model_damaged.png)
-
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
-
-## Update history

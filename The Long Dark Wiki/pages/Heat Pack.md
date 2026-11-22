@@ -17,8 +17,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Heat Pack**
 
 [Heat Pack icon](../assets/Heat_Pack_icon.png)
@@ -47,8 +45,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **Heat Pack** is a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_ in [Survival Mode](./Survival%20Mode.md). They also appear in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md) at higher levels of Trust, or in Chapter Five of [Wintermute](./Wintermute.md). It provides the positive [Heat Pack (Affliction)](./Heat%20Pack%20%28Affliction%29.md) when used.
@@ -57,8 +57,10 @@ Dropping an active Heat Pack will remove the Warmth effect and will display on t
 
 Despite the Affliction description stating that the Heat Pack is tucked into the player's Clothing while operating, Clothing is not needed to gain the benefits of an active Heat Pack.
 
-<span id="benefits"></span><span id="Benefits"></span>
+<!-- #Benefits -->
+​
 
+<!-- #benefits -->
 ### Benefits
 
 - The effect raises the survivor's [Warmth](./Warmth.md) by a solid +5.0C (+9F), equivalent to wearing 2 [Cowichan Sweaters](./Cowichan%20Sweater.md) and remains in effect as long as the Heat Pack is carried in the inventory once activated.
@@ -66,16 +68,26 @@ Despite the Affliction description stating that the Heat Pack is tucked into the
   - They are quite useful for staying warm while exploring very cold regions, such as [Forsaken Airfield](./Forsaken%20Airfield.md) or the higher areas of [Sundered Pass](./Sundered%20Pass.md) (where the temperature continues to drop at higher elevations).
   - Late game [Interloper](./Interloper.md)/[Misery](./Misery.md) players can stay especially warm with a Heat Pack while exploring the outdoors.
 
-<span id="limitations"></span><span id="Limitations"></span>
+<!-- #Limitations -->
+​
 
+<!-- #limitations -->
 ### Limitations
 
 - Heat Packs can only be acquired by trading with the Trader at higher Trust levels, which can take considerable time to unlock as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 - Up to 5 Heat Packs can be bought at once, but this can be quite pricey.
 - The player can only reap the benefits of 1 active Heat Pack at a time for balancing reasons. Using multiple Heat Packs will only produce benefits from the one with the most time left.
 
-<span id="trade_values"></span><span id="Trade_Values"></span><span id="trade-values"></span>
+<!-- #trade_values -->
+​
 
+<!-- #Trade_Values -->
+​
+
+<!-- #Trade_values -->
+​
+
+<!-- #trade-values -->
 ### Trade Values
 
 Up to 5 Heat Packs can be traded for at once at the price of:
@@ -88,8 +100,10 @@ With discount:
 - 7 ![Coal icon](../assets/Coal_icon.png) [Coal](./Coal.md)
 - 12 ![Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md)
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 Once activated, a Heat Pack produces no Warmth to the player at first, but will gradually raise [Warmth](./Warmth.md) and overall [Feels Like](./Feels%20Like.md) over time.
@@ -101,6 +115,16 @@ Once activated, a Heat Pack produces no Warmth to the player at first, but will 
 - Once 50 minutes remain after activation, the Heat Pack will slowly lose Warmth by -0.1C (-0.2F) every 30 seconds until time runs out to 0 minutes left.
 - After time expires, the Condition of a Heat Pack will instantly turn to 0% and the item will be Ruined, providing no heat.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
+
+[ru:Тепловой пакет](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82)

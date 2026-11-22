@@ -29,14 +29,24 @@ Strewn across the freezing landscapes of [Great Bear Island](./Great%20Bear%20Is
 
 During an [Aurora](./Aurora.md), many vehicles spring back to life, with their dashboards, lights, and radios becoming functional again.
 
-<span id="land_vehicles"></span><span id="Land_Vehicles"></span><span id="land-vehicles"></span>
+<!-- #land_vehicles -->
+​
 
+<!-- #Land_Vehicles -->
+​
+
+<!-- #Land_vehicles -->
+​
+
+<!-- #land-vehicles -->
 ## Land Vehicles
 
 The most common type of vehicle a survivor will find across the Island, their most notable gameplay characteristics often include having interactable elements, such as hoods, trunks, doors, gas caps, glove boxes, visors, radios. They are commonly used to warm a survivor from the cold, as many provide a small warmth value and remove all wind-chill from freezing a survivor, though their meagre warmth value makes them very dangerous to sleep in without warm [Clothing](./Clothing.md) during the night, and can turn them into deathtraps should a blizzard pass through the area, as the lack of warmth will easily freeze a survivor to death.
 
-<span id="cars"></span><span id="Cars"></span>
+<!-- #Cars -->
+​
 
+<!-- #cars -->
 ### Cars
 
 ![Car red](../assets/Car_red.jpg)
@@ -45,8 +55,10 @@ The most common type of vehicle found across the Island, [Cars](./Car.md) are fo
 
 The [trunks](./Car%20Trunk.md) of Cars can be looted, though they are often locked and thus require a [Prybar](./Prybar.md) to open. Some Cars have a chance to spawn with a salvageable [Car Battery](./Car%20Battery.md) inside the hood, though the front of some Cars are too damaged to open the hood. Car visors can be opened and sometimes contain [Mementos](./Mementos.md). Despite being able to open the gas cap, gasoline cannot be syphoned out.
 
-<span id="trucks"></span><span id="Trucks"></span>
+<!-- #Trucks -->
+​
 
+<!-- #trucks -->
 ### Trucks
 
 ![Truck](../assets/Truck.png)
@@ -55,16 +67,26 @@ The [trunks](./Car%20Trunk.md) of Cars can be looted, though they are often lock
 
 The bed of Trucks sometimes have containers or other small items that can be looted. Some Trucks have a chance to spawn with a salvable [Car Battery](./Car%20Battery.md) inside the hood if lifted. Trucks visors can be opened and sometimes contain [Mementos](./Mementos.md). Despite being able to open the gas cap, gasoline cannot be syphoned out.
 
-<span id="tractors"></span><span id="Tractors"></span>
+<!-- #Tractors -->
+​
 
+<!-- #tractors -->
 ### Tractors
 
 ![Tractor](../assets/Tractor.jpg)
 
 [Tractors](./Tractor.md) are often found near agricultural areas of the Island and contain only 2 interactable doors. They can be slept in and the floorboards often contain small amounts of loot. Tractors do not have Car Batteries due to a lack of an interactable hood and do not contain gas cans or visors. Tractors can be entered similarly to Cars and Trucks, and are often used as temporary shelters to sleep in, though their very small warmth value makes them poor shelters without very warm clothing.
 
-<span id="prison_buses"></span><span id="Prison_Buses"></span><span id="prison-buses"></span>
+<!-- #prison_buses -->
+​
 
+<!-- #Prison_Buses -->
+​
+
+<!-- #Prison_buses -->
+​
+
+<!-- #prison-buses -->
 ### Prison Buses
 
 ![PrisonBus](../assets/PrisonBus.jpg)
@@ -73,16 +95,32 @@ Though very rare, [Buses](./Bus.md) can occasionally be found in some parts of G
 
 So far, all Buses come from the [Blackrock Prison](./Blackrock%20Prison.md) and were used to transport prisoners across the Island. Buses often only loot inside or around the vehicle, with no other way to interact with them. A single [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) can be found in the [Mountain Town](./Mountain%20Town.md) region, with more Buses found in the Blackrock Prison parking lot in the [Blackrock](./Blackrock.md) region.
 
-<span id="shuttle_train_cars"></span><span id="Shuttle_Train_Cars"></span><span id="shuttle-train-cars"></span>
+<!-- #shuttle_train_cars -->
+​
 
+<!-- #Shuttle_Train_Cars -->
+​
+
+<!-- #Shuttle_train_cars -->
+​
+
+<!-- #shuttle-train-cars -->
 ### Shuttle Train Cars
 
 ![TrainShuttle](../assets/TrainShuttle.jpg)
 
 Occasionally found on the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), [Train Shuttle Cars](./Train%20Shuttle.md) provide temporary shelter and possible loot spawns. They contain a single door that can be opened and closed and provide no extra warmth value inside. While the lack of warmth makes them poor shelters, they can often be used to prevent hostile Wolves from attacking the player by simply closing the door on them as they approach. Shuttle Cars can also serve as temporary outdoor shelters to sleep in if a player has a Bedroll, though their lack of warmth must be taken into consideration before they are slept in to prevent freezing to death while a survivor sleeps.
 
-<span id="train_cars"></span><span id="Train_Cars"></span><span id="train-cars"></span>
+<!-- #train_cars -->
+​
 
+<!-- #Train_Cars -->
+​
+
+<!-- #Train_cars -->
+​
+
+<!-- #train-cars -->
 ### Train Cars
 
 ![Poacher's Camp](../assets/Poacher%27s_Camp.png)
@@ -91,62 +129,120 @@ While technically not a vehicle in of itself, various railroad cars can be found
 
 Curiously, a [Locomotive Engine](./Locomotive%20Engine.md) can be found in the [Broken Railroad](./Broken%20Railroad.md) region (and a second in the [Zone of Contamination](./Zone%20of%20Contamination.md)), but it cannot be entered.
 
-<span id="tractor_trailer_trailers"></span><span id="Tractor_Trailer_Trailers"></span><span id="tractor-trailer-trailers"></span>
+<!-- #tractor_trailer_trailers -->
+​
 
+<!-- #Tractor_Trailer_Trailers -->
+​
+
+<!-- #Tractor_trailer_trailers -->
+​
+
+<!-- #tractor-trailer-trailers -->
 ### Tractor Trailer Trailers
 
 ![Tractor Trailer](../assets/Tractor_Trailer.jpg)![Keeper's Pass South blocked road](../assets/Keeper%27s_Pass_South_blocked_road.jpg)
 
 A few locations contain Tractor Trailer cars, but no 18 wheeler automobile. Open trailers can be entered and often contain backpacks and supplies. They are mainly found in [Bleak Inlet](./Bleak%20Inlet.md) with one crashed on the [Long Bridge](./Long%20Bridge.md) and several featuring the Last Resort cannery logo near the cannery. [Blocked Bridge](./Blocked%20Bridge.md) in [Blackrock](./Blackrock.md) also contains a trailer that blocks the bridge. A single trailer cab is found on the road outside of Milton, near the transition to Mystery Lake, but is outside of the playable area. Another is found in [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), on the ruined road to [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) buried under a rockslide.
 
-<span id="haul_truck"></span><span id="Haul_Truck"></span><span id="haul-truck"></span>
+<!-- #haul_truck -->
+​
 
+<!-- #Haul_Truck -->
+​
+
+<!-- #Haul_truck -->
+​
+
+<!-- #haul-truck -->
 ### Haul Truck
 
 ![Earth Mover](../assets/Earth_Mover.jpg)
 
 Haul Trucks, or Dump Trucks, are rare industrial vehicles used to move vast quantities of earth and rock around mining sites. 3 can be found around the mines of the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). They contain a single door that allows a safe place to shelter and the floors often contain food and mining clothing.
 
-<span id="steam_locomotive"></span><span id="Steam_Locomotive"></span><span id="steam-locomotive"></span>
+<!-- #steam_locomotive -->
+​
 
+<!-- #Steam_Locomotive -->
+​
+
+<!-- #Steam_locomotive -->
+​
+
+<!-- #steam-locomotive -->
 ### Steam Locomotive
 
 ![Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)
 
-The only player-operable vehicle in the game, the [Steam Locomotive](./Steam%20Train.md) is a coal-fired [0-4-0-ST](wikipedia:0-4-0) locomotive, numbered 46. It is used by [Astrid Greenwood](./Astrid%20Greenwood.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) and is capable of pushing road-rail vehicles along the tracks, as well as clearing the tracks.
+The only player-operable vehicle in the game, the [Steam Locomotive](./Steam%20Train.md) is a coal-fired [0-4-0-ST](https://en.wikipedia.org/wiki/0-4-0) locomotive, numbered 46. It is used by [Astrid Greenwood](./Astrid%20Greenwood.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) and is capable of pushing road-rail vehicles along the tracks, as well as clearing the tracks.
 
-<span id="water_vehicles"></span><span id="Water_Vehicles"></span><span id="water-vehicles"></span>
+<!-- #water_vehicles -->
+​
 
+<!-- #Water_Vehicles -->
+​
+
+<!-- #Water_vehicles -->
+​
+
+<!-- #water-vehicles -->
 ## Water Vehicles
 
 Despite having various wharfs and docks, Great Bear Island contains very few Water Vehicles. There are no boats found inland despite Great Bear Island having many lakes, thus making any Water Vehicles exclusive to the sea.
 
-<span id="the_riken"></span><span id="The_Riken"></span><span id="the-riken"></span>
+<!-- #the_riken -->
+​
 
+<!-- #The_Riken -->
+​
+
+<!-- #The_riken -->
+​
+
+<!-- #the-riken -->
 ### The Riken
 
 ![The Riken](../assets/The_Riken.jpg)
 
 [The Riken](./The%20Riken.md) is a beached whaling sea vessel and a major location in the [Desolation Point](./Desolation%20Point.md) region. The vessel has an indoor area, beds, a [Furnace](./Furnace.md), and sizable amounts of other loot.
 
-<span id="the_harbinger"></span><span id="The_Harbinger"></span><span id="the-harbinger"></span>
+<!-- #the_harbinger -->
+​
 
+<!-- #The_Harbinger -->
+​
+
+<!-- #The_harbinger -->
+​
+
+<!-- #the-harbinger -->
 ### The Harbinger
 
 ![Last Resort Cannery Trawler](../assets/Last_Resort_Cannery_Trawler.jpg)
 
 A single fishing trawler can be found at the [Last Resort Cannery](./Last%20Resort%20Cannery.md), and is used as a footpath on the way to the workshop. It always contains a [Backpack](./Backpack.md) and a [Wool Scarf](./Wool%20Scarf.md) on the nearby pier. Judging from the amount of graffiti on the ship, this trawler has been moored and abandoned for some time.
 
-<span id="beached_boats"></span><span id="Beached_Boats"></span><span id="beached-boats"></span>
+<!-- #beached_boats -->
+​
 
+<!-- #Beached_Boats -->
+​
+
+<!-- #Beached_boats -->
+​
+
+<!-- #beached-boats -->
 ### Beached Boats
 
 ![Beachcombing](../assets/Beachcombing.jpg)
 
 Beached Boats can often be found near regions close to the sea, often when a survivor is [Beachcombing](./Beachcombing.md) the surrounding ocean. They often spawn after heavy blizzards pass through the area and contain sizable amounts of loot.
 
-<span id="rowboats"></span><span id="Rowboats"></span>
+<!-- #Rowboats -->
+​
 
+<!-- #rowboats -->
 ### Rowboats
 
 ![Rowboat](../assets/Rowboat.png)
@@ -160,28 +256,39 @@ A few rowboats can be found on Great Bear Island. They occasionally have a [Meta
 - [Fishing Camp](./Fishing%20Camp.md)
 - [Pensive Pond](./Pensive%20Pond.md)
 
-<span id="canoe"></span><span id="Canoe"></span>
+<!-- #Canoe -->
+​
 
+<!-- #canoe -->
 ### Canoe
 
 A Canoe can occasionally wash up along the shorelines while [Beachcombing](./Beachcombing.md), and can contain various supplies with it. One is also seen in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md), bringing [Astrid Greenwood](./Astrid%20Greenwood.md) from [Coastal Highway](./Coastal%20Highway.md) to [Perseverance Mills](./Perseverance%20Mills.md).
 
 ![Canoe](../assets/Canoe.png)
 
-<span id="sutherlands_sailboat"></span><span id="Sutherland&#x27;s_sailboat"></span><span id="sutherland&#x27;s_sailboat"></span><span id="sutherlands-sailboat"></span>
+<!-- #sutherlands_sailboat -->
+​
 
+<!-- #Sutherland's_sailboat -->
+​
+
+<!-- #sutherland's_sailboat -->
+​
+
+<!-- #Sutherland's_Sailboat -->
+​
+
+<!-- #sutherlands-sailboat -->
 ### Sutherland's sailboat
 
 The only "operational" vehicle in Survival mode (though not useable by the Survivor), Sutherland's sailboat shows up off the coast of [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) the day after the Survivor completes a [trade](./Trader.md), and is where Sutherland lives. It takes the shape of a small sloop. The boat cannot be reached or otherwise interacted with.
 
 ![Sutherland's Sailboat](../assets/Sutherland%27s_Sailboat.png)
 
-<span id="air_vehicles"></span><span id="Air_Vehicles"></span><span id="air-vehicles"></span>
+<!-- #Planes -->
+​
 
-## Air Vehicles
-
-<span id="planes"></span><span id="Planes"></span>
-
+<!-- #planes -->
 ### Planes
 
 ![Airplane](../assets/Airplane.jpg)
@@ -190,8 +297,10 @@ The only "operational" vehicle in Survival mode (though not useable by the Survi
 
 The only intact planes that can be found are the various abandoned airplanes found near [Field 31](./Field%2031.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) region. These planes contain storage hatches on the sides that can be looted and can serve as temporary shelters from hostile wildlife and the cold or places to sleep if entered.
 
-<span id="helicopters"></span><span id="Helicopters"></span>
+<!-- #Helicopters -->
+​
 
+<!-- #helicopters -->
 ### Helicopters
 
 ![Muskeg Overlook Helicopter](../assets/Muskeg_Overlook_Helicopter.png)

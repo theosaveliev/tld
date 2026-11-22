@@ -4,8 +4,10 @@
 
 **Track Switches** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md), that are only found on [Cauldron Island](./Cauldron%20Island.md), and [Wintermute Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Track Switches** are levers found near junctions on useable railway tracks. They allow the direction of the [Steam Train](./Steam%20Train.md) and the [Prototype Train](./Prototype%20Train.md) to be changed.

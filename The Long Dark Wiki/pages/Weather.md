@@ -21,8 +21,10 @@
 
 **Weather** is the state of the atmosphere outdoors on [Great Bear Island](./Great%20Bear%20Island.md), in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Weather conditions can change from clear, sunny (or starry) skies, foggy, windy, and blizzards. Traveling in different weather conditions affects movement speed, overall vision, [Warmth](./Warmth.md), wetness of Clothing, and decay rate of worn clothes. The time of day paired with certain weather conditions can make for either a much colder or warmer day as well.
@@ -38,8 +40,16 @@ Changes in weather evolve over time, rather than spontaneously: such as fog grad
 
 Weather affects the temperature inside of [Vehicles](./Vehicle.md), but not indoors. High Winds and Blizzards can be heard even when indoors, and Aurora are visible through windows and will power tools, objects (radios, lights, [computers](./Buffer%20Memories.md)) and deadly [live wires](./Burns.md) indoors. [Glimmer Fog](./Glimmer%20Fog.md) can also affect electrical devices in the environment indoors or outdoors, and can even cause [Afflictions](./Afflictions.md).
 
-<span id="types_of_weather"></span><span id="Types_of_weather"></span><span id="types-of-weather"></span>
+<!-- #types_of_weather -->
+​
 
+<!-- #Types_of_weather -->
+​
+
+<!-- #Types_Of_Weather -->
+​
+
+<!-- #types-of-weather -->
 ## Types of weather
 
 | Weather | Effects | Wind | Crows over bodies? | [Surveying](./Charcoal.md) | [Magnifying Lens](./Magnifying%20Lens.md) |
@@ -53,8 +63,10 @@ Weather affects the temperature inside of [Vehicles](./Vehicle.md), but not indo
 | Snowfall | Two variants: light or heavy snow. Falling snow/flurries which may evolve into a Blizzard.<br>- Moderately cold.<br>- Light-moderate snowfall (reduces duration of tracks, wets/freezes clothing) | Calm-moderate | No | Yes | No |
 | Blizzard | Enduring and dangerous storm.<br>- Extremely cold.<br>- Damages worn clothing.<br>- Heavy snowfall (reduces duration of tracks, wets/freezes clothing)<br>- Medium visibility loss.<br>- Constant high winds: sounds like a 'train' even when indoors.<br>- Beachcombing items spawn on the coastal regions. Despawns previous containers or special items washed up on the last blizzard.<br>- If you are outside after a blizzard begins, wildlife may not spawn, making some meats and guts trips "safer" | High | No | No | No |
 
-<span id="wind"></span><span id="Wind"></span>
+<!-- #Wind -->
+​
 
+<!-- #wind -->
 ## Wind
 
 Winds affects [Windchill](./Clothing.md) (which makes the "Feels Like" temperature colder), and can extinguish exposed fires, prevent lighting fires, and slow movement. Wind changes direction and speed over time (based on [Survival Mode](./Survival%20Mode.md)). There are 5 types of Wind: Calm, Light, Moderate, High, Blizzard.
@@ -64,36 +76,76 @@ Winds affects [Windchill](./Clothing.md) (which makes the "Feels Like" temperatu
 - High: slows movement speed, lighting exposed fires is impossible (unsheltered [Campfires](./Fire.md), [torches](./Torch.md) or [matches](./Matches%20%28disambiguation%29.md)), extinguishes exposed fires. [Storm Lanterns](./Storm%20Lantern.md), [Flares](./Flare.md), [Marine Flares](./Marine%20Flare.md), Fire Barrels, [Forges](./Forge.md), [Wood Stoves](./Wood%20Stove.md) and Cast Iron Stoves are immune to the effects of High Winds.
 - Blizzard: same as High, however the player does not suffer from a movement speed penalty. Clothing is prone to being torn, and getting wet/frozen.
 
-<span id="wind_shield"></span><span id="Wind_Shield"></span><span id="wind-shield"></span>
+<!-- #wind_shield -->
+​
 
+<!-- #Wind_Shield -->
+​
+
+<!-- #Wind_shield -->
+​
+
+<!-- #wind-shield -->
 ### Wind Shield
 
 ![Crouching to get Wind Shield (Wind blowing from ahead)](../assets/Windshield_crouch.gif)_Crouching to get Wind Shield (Wind blowing from ahead)_ The [Wind Shield](./Survival%20Overlay.md) is an icon which appears at the top of the UI if a solid object is between the player and oncoming High Winds. When shielded, Windchill temperature is eliminated almost completely and the player is only subjected to the ambient Air temperature. This icon can be used to stay warmer, move faster, or to find campfire locations currently sheltered from the wind. High Winds slows movement in 45° cone around the wind's current direction across the entire region, and a 2m radius around solid objects; this means that to be sheltered from the wind the player (or a campfire) must be on the correct side (opposite) of a solid object relative to oncoming wind and be close to it.
 
 Even very small outcroppings, rocks, and objects like cars can provide a shield from the wind, as well as crouching to get behind a low part of terrain. This makes it possible to sometimes strategically get behind trees or trunks while breaking down [Scrub Brush](./Scrub%20Brush.md), [Branches](./Branch.md), even potentially regaining body temperature at the same time; if Wind Chill is the only thing getting the player below the 0°C threshold.
 
-<span id="movement_speed_penalty"></span><span id="Movement_Speed_Penalty"></span><span id="movement-speed-penalty"></span>
+<!-- #movement_speed_penalty -->
+​
 
+<!-- #Movement_Speed_Penalty -->
+​
+
+<!-- #Movement_speed_penalty -->
+​
+
+<!-- #movement-speed-penalty -->
 ### Movement Speed Penalty
 
 Moving (walking or sprinting) into the direction of oncoming High Winds reduces movement speed by up to 50% (additive with other penalties: [sprained ankles](./Sprained%20Ankle.md) and [Encumbrance](./Encumbrance.md)). High Winds slows movement in 45° cone around the wind's current direction across the entire region, there is no movement penalty when walking in directions outside this cone or when shielded from the wind.
 
 This penalty is reduced by 25% with the active [feat](./Feats.md) Blizzard Walker (aka wind penalty reduced from 25% to 18.5% penalty, or a +6.25% movement increase when walking into oncoming wind).
 
-<span id="wind_blown_fires"></span><span id="Wind_blown_fires"></span><span id="wind-blown-fires"></span>
+<!-- #wind_blown_fires -->
+​
 
+<!-- #Wind_blown_fires -->
+​
+
+<!-- #Wind_Blown_Fires -->
+​
+
+<!-- #wind-blown-fires -->
 ### Wind blown fires
 
 [Campfires](./Campfire.md) are not extinguished by High Winds, but instead their fuel duration capped at a maximum of 10 minutes (displays as "9", due to fuel consumption and rounding). Refueling a campfire experiencing high winds refreshes its duration, but any fuel beyond 10 minutes of burn time is wasted: this makes all fuel sources except [Stick](./Stick.md) extremely wasteful. In survival situations where a wind-blown campfire is vital, Sticks are the ideal fuel source and should be used one at a time when the fire is at "1 minute" remaining or embers (embers lasts for 5 minutes in-game).
 
-<span id="air_temperature"></span><span id="Air_Temperature"></span><span id="air-temperature"></span>
+<!-- #air_temperature -->
+​
 
+<!-- #Air_Temperature -->
+​
+
+<!-- #Air_temperature -->
+​
+
+<!-- #air-temperature -->
 ## Air Temperature
 
 Different regions have different air temperatures, ranging from -30°C to -38°C during early morning hours (i.e. the coldest time of the day) and rising all the way up to temperatures between -5°C and -25°C during the evening hours (i.e. the warmest time of the day). During blizzards the temperature can drop by another 10°C-15°C.
 
-<span id="world_gets_colder_over_time"></span><span id="World_Gets_Colder_Over_Time"></span><span id="world-gets-colder-over-time"></span>
+<!-- #world_gets_colder_over_time -->
+​
 
+<!-- #World_Gets_Colder_Over_Time -->
+​
+
+<!-- #World_gets_colder_over_time -->
+​
+
+<!-- #world-gets-colder-over-time -->
 ### World Gets Colder Over Time
 
 The in-game air temperature is also affected by the "World Gets Colder Over Time" setting, which is tied to the [Experience Mode](./Survival%20Mode.md). The world starts to grow gradually colder after a set amount of days has passed and continues to drop until the temperature reaches the coldest it will get after a set amount of days. The following table demonstrates the differences in world getting colder on different difficulties:
@@ -108,8 +160,16 @@ The in-game air temperature is also affected by the "World Gets Colder Over Time
 
 On Pilgrim the world does not get colder over time.
 
-<span id="lowest_and_highest_temperatures_per_region"></span><span id="Lowest_and_highest_temperatures_per_region"></span><span id="lowest-and-highest-temperatures-per-region"></span>
+<!-- #lowest_and_highest_temperatures_per_region -->
+​
 
+<!-- #Lowest_and_highest_temperatures_per_region -->
+​
+
+<!-- #Lowest_And_Highest_Temperatures_Per_Region -->
+​
+
+<!-- #lowest-and-highest-temperatures-per-region -->
 ### Lowest and highest temperatures per region
 
 Refer to the table below for lowest and highest possible temperature in each region respectively. Some regions have temperature triggers that will additionally increase or decrease the temperature by a set amount, when the player reaches a certain elevation.
@@ -133,8 +193,10 @@ Refer to the table below for lowest and highest possible temperature in each reg
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | -30°C | -10°C | -40°C | -60°C | -30°C |  |
 | [Sundered Pass](./Sundered%20Pass.md) | -38°C | -20°C | -48°C | -68°C | -40°C | +5°C (Valley)/-5°C (High Peak) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Blizzard](../assets/Weather_-_blizzard.jpg)
@@ -150,3 +212,5 @@ Refer to the table below for lowest and highest possible temperature in each reg
 ![Glimmer Fog](../assets/Glimmer_Fog.jpg)
 
 ![A detailed air temperatures table](../assets/Temperature_table.png)
+
+[ru:Погода](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0) [fr:Météo](https://fr.wikipedia.org/wiki/M%C3%A9t%C3%A9o) [de:Wetter](https://de.wikipedia.org/wiki/Wetter)

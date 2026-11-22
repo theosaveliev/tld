@@ -26,8 +26,10 @@
 
 **Outside:** 10.0% per day
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A **Wolf Quarter** is a section harvested from a [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md). A [Poisoned Wolf](./Poisoned%20Wolf.md) will not allow a Wolf Quarter to be harvested, as they have no meat on their bodies.
@@ -38,14 +40,24 @@ After quartering, the carcass will despawn, leaving behind 2-3 quarters, as well
 
 Unlike directly harvesting a fresh carcass' meat, you will still need to harvest a quarter for its meat. 50% of the quarters total weight will be turned into usable [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md). Any remaining raw meat left inside the bag will be lost if the Quarter's Condition reaches 0%, with bags spoiling within 1 day of harvesting.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 Timberwolf Quarter bags are slightly larger than regular Wolf Quarters.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**

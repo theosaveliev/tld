@@ -36,8 +36,10 @@
 
 **Jeans** are a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Low tier pants and a common outer layer legs starting item. While light and common, they provide minimal protection and warmth, and should be replaced as soon as possible.

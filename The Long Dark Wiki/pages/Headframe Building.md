@@ -20,8 +20,10 @@ Type
 
 Has a workbench
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The [Headframe Building](./Headframe%20Building.md) is an entrance to the mine in the form of an elevator shaft that leads to Levels 1, 2, and 3.

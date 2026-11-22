@@ -35,8 +35,10 @@ Repair
 
 The **crow feather** is a material item in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Feathers are used to create [arrows](./Simple%20Arrow.md) and [fire hardened arrows](./Fire%20Hardened%20Arrow.md).
@@ -45,8 +47,10 @@ They are dropped by [crows](./Crow.md), and are usually found near animal carcas
 
 As a feather touches the ground, it makes a small sound that can be heard if nearby.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -57,14 +61,24 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 | [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Wires](./Wires.md) |
 | [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md)<br>- 1 × [Arrow Shaft](./Arrow%20Shaft.md)<br>- 3 × [Crow Feather](./Crow%20Feather.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Crow_feather.png)
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
 
 - Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233).

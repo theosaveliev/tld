@@ -36,8 +36,16 @@
 
 **Deerskin Boots** are a type of craftable [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="general_information"></span><span id="General_information"></span><span id="general-information"></span>
+<!-- #general_information -->
+​
 
+<!-- #General_information -->
+​
+
+<!-- #General_Information -->
+​
+
+<!-- #general-information -->
 ## General information
 
 Deerskin boots are among the best boots available. [Insulated Boots](./Insulated%20Boots.md) and [Ski Boots](./Ski%20Boots.md) offer more warmth and windchill, but have higher mobility penalty and weight.
@@ -48,13 +56,13 @@ Deerskin boots are comparable to the rare [Mukluks](./Mukluks.md), which are 0.5
 
 ![Clothing model icon damaged](../assets/Deerskin_Boots_Model_Damaged_icon.png)
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Deerskin Boots**
-
-
 
 1200 minutes (20 hour 0 minutes)
 
@@ -68,8 +76,16 @@ Deerskin boots are comparable to the rare [Mukluks](./Mukluks.md), which are 0.5
 
 **Quantity:** 2
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

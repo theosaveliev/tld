@@ -35,8 +35,16 @@
 
 **Cooking** is a Survival [Skill](./Skills.md) that is used to prepare or craft [Food and Drink](./Food%20And%20Drink.md). Cooking offers several benefits, including increasing the condition of raw food and reducing the risk of [Food Poisoning](./Food%20Poisoning.md). There are many different types of food in _[The Long Dark](./The%20Long%20Dark.md)_, each providing different amounts of calories and special buffs and debuffs only available by using this Skill. Cooking also has a larger variety of training options than any other Skill, due to the number of food types and drinks that can be cooked.
 
-<span id="how_to_cook"></span><span id="How_to_cook"></span><span id="how-to-cook"></span>
+<!-- #how_to_cook -->
+​
 
+<!-- #How_to_cook -->
+​
+
+<!-- #How_To_Cook -->
+​
+
+<!-- #how-to-cook -->
 ## How to cook
 
 ![old menu](../assets/Cooking_menu.png)_old menu_ Cooking is one of the easiest skills to train in _The Long Dark_, as players can increase their skill by cooking any food or drink item. There are dozens of options for fish, meat, harvestable plants, tradeable cooking ingredients and a vast number of dishes and drinks that the player can craft; each of these options grants cooking experience, making Cooking as a skill the easiest to level up in the game. For players who own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC especially, the update "Frontier Comforts" added an entire cooking system with new dishes, recipe cards that can be collected throughout Great Bear and new ingredients all around the island..
@@ -45,8 +53,10 @@ Players can cook food and drinks on any [Fire](./Fire.md) using the one-to-six p
 
 Players can then select the food item, drink or cooking container from the radial menu or inventory and place it next to the fire in a designated cooking slot. When using a cooking tool, the player can "use" the placed [can](./Can.md), [cooking pot](./Cooking%20Pot.md) or [skillet](./Cooking%20Skillet.md) to select which food or drink to cook.
 
-<span id="equipment"></span><span id="Equipment"></span>
+<!-- #Equipment -->
+​
 
+<!-- #equipment -->
 ## Equipment
 
 Players need a Fire before they can start cooking, and certain pieces of equipment can be used to assist with cooking.
@@ -59,8 +69,16 @@ Players need a Fire before they can start cooking, and certain pieces of equipme
 | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) | [Cooking Pot](./Cooking%20Pot.md) | - Used to cook Cooking Pot Recipes.<br>- Used to cook canned foods.<br>- Used to cook any meat or fish in the game.<br>- Can melt and boil up to 2.0 litres of water at a time.<br>- Cooking times reduced by 20%.<br>- Food takes 50% longer to burn. |
 | [Cooking Skillet icon](../assets/Cooking_Skillet_icon.png) | [Cooking Skillet](./Cooking%20Skillet.md) | - Used to cook Skillet Recipes.<br>- Used to cook canned foods.<br>- Used to cook any meat or fish in the game.<br>- Can melt and boil up to 1.0 litres of water at a time.<br>- Cooking times reduced by 20%.<br>- Food takes 50% longer to burn. |
 
-<span id="firebox_cooking_slots"></span><span id="Firebox_cooking_slots"></span><span id="firebox-cooking-slots"></span>
+<!-- #firebox_cooking_slots -->
+​
 
+<!-- #Firebox_cooking_slots -->
+​
+
+<!-- #Firebox_Cooking_Slots -->
+​
+
+<!-- #firebox-cooking-slots -->
 ## Firebox cooking slots
 
 ![Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot.](../assets/Warming.jpg)_Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot._ Different fireplaces provide different amounts of cooking slots, allowing for more or less efficient usage of fuel/places to cook food and water. It's important to note that canned goods and drinks can be placed from the inventory or radial menu in the direct vicinity of a fire and can be heated/cooked without sacrificing a cooking slot.
@@ -79,12 +97,10 @@ Players need a Fire before they can start cooking, and certain pieces of equipme
 | [Wood stove](../assets/Wood_stove.png) | [Wood Stove](./Wood%20Stove.md) | 2 |
 | [Stove](../assets/Stove.png) | [Stove](./Stove.md) | 6 |
 
-<span id="types_of_food"></span><span id="Types_of_food"></span><span id="types-of-food"></span>
+<!-- #Meat -->
+​
 
-## Types of food
-
-<span id="meat"></span><span id="Meat"></span>
-
+<!-- #meat -->
 ### Meat
 
 Players can obtain raw meat from [Harvesting](./Harvesting.md) animal carcasses. See the Energy density column below to maximize use of your calorie meter.
@@ -99,8 +115,10 @@ Players can obtain raw meat from [Harvesting](./Harvesting.md) animal carcasses.
 | [Ptarmigan (Cooked) icon](../assets/Ptarmigan_%28Cooked%29_icon.png) | [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) | 38 | 450 kcal / kg<br>_(205 kcal / lb)_ | Obtained by cooking ptarmigan meat harvested from a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md). |
 | [Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png) | [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md) | 75 | 800 kcal / kg<br>_(364 kcal / lb)_ | Obtained by cooking raw cougar meat harvested from a [Cougar](./Cougar.md) carcass |
 
-<span id="fish"></span><span id="Fish"></span>
+<!-- #Fish -->
+​
 
+<!-- #fish -->
 ### Fish
 
 Players can obtain raw fish from sufficiently deep bodies of Salt or Fresh water by [Ice Fishing](./Ice%20Fishing.md). Cooking fish also produces a small amount of [Lantern Fuel](./Lantern%20Fuel.md). See the Energy density column below to maximize use of your calorie meter.
@@ -116,8 +134,10 @@ Players can obtain raw fish from sufficiently deep bodies of Salt or Fresh water
 | [Red Irish Lord (Cooked) icon](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) | [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) | 16 | 451.32 kcal / kg<br>_(205 kcal / lb)_ | Obtained by cooking raw [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) fished from a saltwater location. |
 | [Goldeye (Cooked) icon](../assets/Goldeye_%28Cooked%29_icon.png) | [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) | 17 | 452.24 kcal / kg<br>_(206 kcal / lb)_ | Obtained by cooking raw [Goldeye](./Goldeye%20%28Raw%29.md) fished from a freshwater location. |
 
-<span id="canned"></span><span id="Canned"></span>
+<!-- #Canned -->
+​
 
+<!-- #canned -->
 ### Canned
 
 Players can obtain canned goods by scavenging throughout their playthrough. Canned goods requires a [Can Opener](./Can%20Opener.md), [Hunting Knife](./Hunting%20Knife.md), or [Hatchet](./Hatchet.md) to be opened to retain the full contents. If the player does not have any of these tools, they can also smash the can open, but this results in losing between 10% and 30% of the contents to spillage if the player's Cooking level is less than 3. Smashing cans will not yield a Recycled Can once the contents are eaten, regardless of skill level. The cooking time for canned goods is 15 minutes when cooked directly on a Fire, but is 24 when placed next to one. Any canned foods not listed here cannot be cooked.
@@ -130,8 +150,10 @@ Players can obtain canned goods by scavenging throughout their playthrough. Cann
 | [Tomato Soup icon](../assets/Tomato_Soup_icon.png) | [Tomato Soup](./Tomato%20Soup.md) | 1200 kcal / kg<br>_(545 kcal / lb)_ | Consuming while Hot also provides the Warming Up buff to the player. |
 | [Pork and Beans icon](../assets/Pork_and_Beans_icon.png) | [Pork and Beans](./Pork%20and%20Beans.md) | 2400 kcal / kg<br>_(1,091 kcal / lb)_ | Consuming while Hot also provides the Warming Up buff to the player. |
 
-<span id="drinks"></span><span id="Drinks"></span>
+<!-- #Drinks -->
+​
 
+<!-- #drinks -->
 ### Drinks
 
 Players can obtain hot drinks from brewing a [Tin of Coffee](./Tin%20of%20Coffee.md), [Herbal Tea](./Herbal%20Tea.md), [Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) or by preparing plants found across the island with 0.25 litres of potable water ([Rose Hip Tea](./Rose%20Hip%20Tea.md), [Birch Bark Tea](./Birch%20Bark%20Tea.md), etc.). Drinks cooked in a Recycled Can directly on a Fire take 12 minutes to cook; reheating takes 33% less time (8 minutes in a recycled can); they may also be cooked in a Cooking Pot or Cooking Skillet. Each drink weighs 0.1 kg and has 100 kcal and, when consumed Hot, provides a [Warming Up](./Warming%20Up.md) bonus to the player.
@@ -146,8 +168,16 @@ Players can obtain hot drinks from brewing a [Tin of Coffee](./Tin%20of%20Coffee
 | [Reishi Tea icon](../assets/Reishi_Tea_icon.png) | [Reishi Tea](./Reishi%20Tea.md) | Cures [Food Poisoning](./Food%20Poisoning.md), [Infection](./Infection.md), [Dysentery](./Dysentery.md) and [Internal Parasites](./Intestinal%20Parasites.md). | [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) | 0.05 kg<br>_(0.11 lb)_ | 0.10 kg<br>_(0.22 lb)_ |
 | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) | [Rose Hip Tea](./Rose%20Hip%20Tea.md) | Cures the [Pain](./Pain.md) [Affliction](./Afflictions.md). | [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) | 0.05 kg<br>_(0.11 lb)_ | 0.24 kg<br>_(0.528 lb)_ |
 
-<span id="edible_prepared_plants"></span><span id="Edible_Prepared_Plants"></span><span id="edible-prepared-plants"></span>
+<!-- #edible_prepared_plants -->
+​
 
+<!-- #Edible_Prepared_Plants -->
+​
+
+<!-- #Edible_prepared_plants -->
+​
+
+<!-- #edible-prepared-plants -->
 ### Edible Prepared Plants
 
 Some plants can be cooked and eaten as is. Acorns are a unique food that can be found near [Oak Trees](./Oak%20Tree.md) and must be shelled before cooking. Potatoes can be used in recipes or cooked.
@@ -158,8 +188,16 @@ Some plants can be cooked and eaten as is. Acorns are a unique food that can be 
 | [Acorns (Cooked Large Portion) icon](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) | [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | 400 kcal | [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | 0.20 kg<br>_(0.44 lb)_ | N/A |
 | [Cooked Potato icon](../assets/Cooked_Potato_icon.png) | [Cooked Potato](./Cooked%20Potato.md) | 250 kcal | [Potato](./Potato.md) (does not need water to cook) | 0.20 kg<br>_(0.44 lb)_ | 0.15 kg<br>_(0.33 lb)_ |
 
-<span id="frontier_cooking_recipes"></span><span id="Frontier_Cooking_Recipes"></span><span id="frontier-cooking-recipes"></span>
+<!-- #frontier_cooking_recipes -->
+​
 
+<!-- #Frontier_Cooking_Recipes -->
+​
+
+<!-- #Frontier_cooking_recipes -->
+​
+
+<!-- #frontier-cooking-recipes -->
 ## Frontier Cooking Recipes
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
@@ -186,8 +224,16 @@ There are currently 24 recipes in total, separated into 3 categories via contain
 - 16 base Recipes are available from the start.
 - 13 Unique Recipes can be found on [Recipe Cards](./Recipe%20Cards.md) that are spread out all over Great Bear and must be collected by the player first before they appear in the Cooking Recipe menu. Once the Recipe Card is obtained, it can be identified in the Cooking Recipe menu via a![Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png)white star. These recipes require the most ingredients to make and the highest Cooking Skill Levels, but they offer the greatest Affliction boosts. Unique Recipe Cards can be tracked in the Collectibles menu of the [Journal](./Journal.md).
 
-<span id="preparing_recipes"></span><span id="Preparing_Recipes"></span><span id="preparing-recipes"></span>
+<!-- #preparing_recipes -->
+​
 
+<!-- #Preparing_Recipes -->
+​
+
+<!-- #Preparing_recipes -->
+​
+
+<!-- #preparing-recipes -->
 ### Preparing Recipes
 
 All Recipes require the player to "prepare" the ingredients before they are placed in a container. This is different from cooking non-recipe foods, as the player would normally place them in a container and immediately begin cooking.
@@ -198,8 +244,10 @@ All Recipes require the player to "prepare" the ingredients before they are plac
   - Once a Recipe is finished being prepared, an uncooked version of it will appear on the fire (Cooking Experience is gained from preparing successfully).
 - If an unfinished/uncooked Recipe is removed from the fire container before it is finished cooking, a warning will appear asking if the player wishes to discard the item. Removing the item in this state will permanently remove it from the game world, wasting cooking ingredients.
 
-<span id="ingredients"></span><span id="Ingredients"></span>
+<!-- #Ingredients -->
+​
 
+<!-- #ingredients -->
 ### Ingredients
 
 Ingredients are used solely for recipes and most cannot be consumed on their own (except for Carrots). You can find these Ingredients as regular loot all around the island or you can trade for them with the Trader; in the late-game, most places have been looted by the player and most Ingredients have reached 0% Condition, making Trading an almost mandatory step if a player wants to keep engaging with the Cooking system at this stage.
@@ -214,8 +262,16 @@ Ingredients are used solely for recipes and most cannot be consumed on their own
 | [Salt icon](../assets/Salt_icon.png) | [Salt](./Salt.md) | 0.25 kg |
 | [Salt (Bag) icon](../assets/Salt_%28Bag%29_icon.png) | [Salt (Bag)](./Salt%20%28Bag%29.md) | 10.00 kg |
 
-<span id="cooking_pot_recipes"></span><span id="Cooking_Pot_Recipes"></span><span id="cooking-pot-recipes"></span>
+<!-- #cooking_pot_recipes -->
+​
 
+<!-- #Cooking_Pot_Recipes -->
+​
+
+<!-- #Cooking_pot_recipes -->
+​
+
+<!-- #cooking-pot-recipes -->
 ### Cooking Pot Recipes
 
 6 Recipes require a [Cooking Pot](./Cooking%20Pot.md) to be used, and all but the unique Recipes are available to Survivors from the start.
@@ -237,8 +293,16 @@ Ingredients are used solely for recipes and most cannot be consumed on their own
 | [Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png)[Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) | [Vagabond Soup](./Vagabond%20Soup.md) | - 0.50 kg [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.40 L [Broth](./Broth.md)<br>- 0.01 [Salt](./Salt.md) | - 550 Calories<br>- 6 Hydration | - Increase Max Condition (10% max, 3 hours)<br>- Makes you more tired (Fatigue metre -15%) | 0.10 | 40 min | 1 |
 | [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | - 0.50 kg [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.20 L [Broth](./Broth.md)<br>- 0.05 kg [Old Mill Flour](./Old%20Mill%20Flour.md) | - 900 Calories<br>- 3 Hydration | - Improves Rest (3 hours)<br>- Makes you more tired (Fatigue metre -15%) | 0.35 kg | 1 hr 52 min | 1 |
 
-<span id="cooking_skillet_recipes"></span><span id="Cooking_Skillet_Recipes"></span><span id="cooking-skillet-recipes"></span>
+<!-- #cooking_skillet_recipes -->
+​
 
+<!-- #Cooking_Skillet_Recipes -->
+​
+
+<!-- #Cooking_skillet_recipes -->
+​
+
+<!-- #cooking-skillet-recipes -->
 ### Cooking Skillet Recipes
 
 These Recipes require a [Cooking Skillet](./Cooking%20Skillet.md) and the player to be at Cooking Skill Level 2 or 3.
@@ -263,8 +327,16 @@ These Recipes require a [Cooking Skillet](./Cooking%20Skillet.md) and the player
 | [Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png)[Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | - 0.50 Kg [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 Kg [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg [Salt](./Salt.md) | - 1600 Calories<br>- -3 Hydration | - Increased Stamina (15% for 3 hours)<br>- Decreased Carry Weight (-3 kg for 1 hour)<br>- Improved Rest (6 hours)<br>- Increased Cabin Fever | 0.20 kg | 1 hr 20 min | 5 |
 | [Venison Pie icon](../assets/Venison_Pie_icon.png) | [Venison Pie](./Venison%20Pie.md) (3) | - 0.50 kg [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg [Old Mill Flour](./Old%20Mill%20Flour.md) | - 325 Calories<br>- 6 Hydration | - Increase Max Carry Weight (3kg, 3 hours) | 0.30 kg | 1 hr 20 min | 3 |
 
-<span id="no_tool_recipes"></span><span id="No_Tool_Recipes"></span><span id="no-tool-recipes"></span>
+<!-- #no_tool_recipes -->
+​
 
+<!-- #No_Tool_Recipes -->
+​
+
+<!-- #No_tool_recipes -->
+​
+
+<!-- #no-tool-recipes -->
 ### No Tool Recipes
 
 These Recipes can be made at an open cooking slot at an active fire without a tool, and the player to be at Cooking Skill Level 2. Cooking Bannocks is of course faster when done with a Cooking Skillet, as cooking times decrease with a container and higher Cooking Skill.
@@ -278,16 +350,32 @@ These Recipes can be made at an open cooking slot at an active fire without a to
 
 ![Recipes level 4-5.](../assets/Recipes_2.png)
 
-<span id="removing_from_fire"></span><span id="Removing_from_fire"></span><span id="removing-from-fire"></span>
+<!-- #removing_from_fire -->
+​
 
+<!-- #Removing_from_fire -->
+​
+
+<!-- #Removing_From_Fire -->
+​
+
+<!-- #removing-from-fire -->
 ## Removing from fire
 
 If a food item is picked up before cooking is complete, it will still be raw, and will require the full cooking process to start over. Food items can be moved (by right-clicking) between cooking spots without losing the progress. A fire that briefly goes out pauses the cooking process; if the fire is quickly relit, cooking will resume without an additional time penalty.
 
 Food left on an active Fire after it finishes cooking will burn into inedible food after a set amount of time. Burnt food items are unusable and will disappear when picked up. Recycled Cans, Cooking Pots and Skillets will degrade by 5% if food is burnt. Food cooked in a Cooking Pot or Skillet will take 50% longer to burn compared to food cooked directly by the fire or in a recycled can.
 
-<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
+<!-- #skill_levels -->
+​
 
+<!-- #Skill_levels -->
+​
+
+<!-- #Skill_Levels -->
+​
+
+<!-- #skill-levels -->
 ## Skill levels
 
 Players can gain Cooking skill experience by:
@@ -312,16 +400,22 @@ Once players have reached a new skill level, they unlock the effects described i
 
 &lt;/table-progress-tracking&gt;
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![All Cooking recipes prepared over a table](../assets/Cooking_All_Recipes.jpg)
 
 ![Ditto](../assets/Cooking_Unique_Recipes.jpg)
 
-<span id="footnotes"></span>
+[es:cocina](https://es.wikipedia.org/wiki/cocina) [fr:Cuisine](https://fr.wikipedia.org/wiki/Cuisine)
 
+<!-- #footnotes -->
+​
+
+<!-- #notes -->
 ## Notes
 
 ---

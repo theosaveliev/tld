@@ -18,8 +18,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A small cave is available in the area but it offers really limited protection. One or two [Deer](./Deer.md) are used to wander in the area. Numerous [Cat Tail](./Cat%20Tail.md) can be gathered along the frozen river. A possible spawn point for a [Hidden Cache](./Hidden%20Cache.md) can be found not far away. A [Research Book](./Research%20Book.md) can often spawn here, and a [Metal Container](./Metal%20Container.md) can sometimes contain a [Polaroid](./Polaroids.md).

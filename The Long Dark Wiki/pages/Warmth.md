@@ -17,14 +17,30 @@
 
 ![Warmth icon](../assets/Warmth_icon.png) **Warmth** is one of the four essential [needs](./Needs.md). Warmth is a measure of the temperatures the player is exposed to. The player's warmth drains when the temperature the character experiences dips below 0°C (32°F) and is regained when it is above. Exposure to the [elements](./Weather.md) is the main reason for loss of warmth and can be countered by staying indoors, having good [clothing](./Clothing.md), being near a [fire](./Fire.md), and by consuming [hot food and drinks](./Warming%20Up.md). Warmth will also deplete completely immediately if you fall into freezing water. When warmth is depleted, [condition](./Condition.md) starts to rapidly deplete and is able to kill within hours. This makes warmth the most critical need to satisfy.
 
-<span id="gaining_and_losing_warmth"></span><span id="Gaining_and_losing_warmth"></span><span id="gaining-and-losing-warmth"></span>
+<!-- #gaining_and_losing_warmth -->
+​
 
+<!-- #Gaining_and_losing_warmth -->
+​
+
+<!-- #Gaining_And_Losing_Warmth -->
+​
+
+<!-- #gaining-and-losing-warmth -->
 ## Gaining and losing warmth
 
 Detailed temperature information is viewable on the player status page, beneath the Needs meters. The most critical piece of information is the [feels like](./Feels%20Like.md) temperature, which is the key to maintaining warmth. As long as it is greater than 0°C (32°F), the character will gain warmth; if it is below 0°C (32°F), warmth will be lost. How quickly warmth is gained or lost is directly proportional to how far from the freezing temperature the character is feeling (e.g., -8°C will cause the warmth meter to deplete much faster than -1°C).
 
-<span id="warmth_bar"></span><span id="Warmth_bar"></span><span id="warmth-bar"></span>
+<!-- #warmth_bar -->
+​
 
+<!-- #Warmth_bar -->
+​
+
+<!-- #Warmth_Bar -->
+​
+
+<!-- #warmth-bar -->
 ## Warmth bar
 
 The warmth meter degrades through various states between Warm and Freezing (Warm, Chilled, Cold, Numb, Freezing). Chevrons (arrows) beside the meter point either up or down in the bar to indicate which direction the player's warmth is progressing, with more chevrons indicating faster progress.
@@ -53,54 +69,103 @@ In V1.15 the only way to check the 'feels like' temperature is to open the chara
 | 1 hour | -15°C | vv |
 | 30 min | -30°C | vvv |
 
-<span id="hot_foods_and_drinks"></span><span id="Hot_foods_and_drinks"></span><span id="hot-foods-and-drinks"></span>
+<!-- #hot_foods_and_drinks -->
+​
 
+<!-- #Hot_foods_and_drinks -->
+​
+
+<!-- #Hot_Foods_And_Drinks -->
+​
+
+<!-- #hot-foods-and-drinks -->
 ### Hot foods and drinks
 
 Hot foods and drinks can be used for extra warmth. When consumed, they bestow both a boost to the warmth meter and a buff affliction, [Warming up](./Warming%20Up.md), to make the character lose warmth slower. This boost can be used to stave off freezing for a short time when conditions do not allow for a full warm-up. See [Warming Up](./Warming%20Up.md).
 
-<span id="affecting_condition"></span><span id="Affecting_condition"></span><span id="affecting-condition"></span>
+<!-- #affecting_condition -->
+​
 
+<!-- #Affecting_condition -->
+​
+
+<!-- #Affecting_Condition -->
+​
+
+<!-- #affecting-condition -->
 ## Affecting condition
 
 When the warmth meter is empty the player enters a state called 'freezing', and condition begins to drain rapidly. The rate of drain is constant regardless of how far below freezing the character is feeling. Even 1° below freezing is enough to maintain the rate at -20% condition each hour. 'Feels like' temperature must be brought above 0°C (32°F) to end this state and stop the condition loss. The [Hypothermia](./Hypothermia.md) affliction will set in after 2 hours of freezing, doubling the rate to -40% per hour. Meaning freezing drains health the fastest of The needs. Surviving more than 3 hours while freezing is unlikely.
 
 _**Warning**: Engaging in time accelerated activity (e.g., [carcass harvesting](./Harvesting.md)) while freezing has resulted in many [deaths](./Condition.md) due to this rapid and sudden condition loss._
 
-<span id="fire"></span><span id="Fire"></span>
+<!-- #Fire -->
+​
 
+<!-- #fire -->
 ### Fire
 
 Standing next to an active [fire](./Fire.md) will prevent condition loss due to freezing when playing on Pilgrim and Voyageur difficulties. Stalker and Interloper players must be near a fire that is hot enough to produce a 'feels like temperature above 0°C (32°F).
 
-<span id="clothing_optional"></span><span id="Clothing_optional"></span><span id="clothing-optional"></span>
+<!-- #clothing_optional -->
+​
 
+<!-- #Clothing_optional -->
+​
+
+<!-- #Clothing_Optional -->
+​
+
+<!-- #clothing-optional -->
 ### Clothing optional
 
 If one is freezing and has no hope of getting out of a freezing status due to the weather conditions, it may be wise to temporarily remove all clothing items. Since the loss to condition from freezing is constant and not dependent on how cold the character feels, taking off all one's clothes has no detrimental effect to warmth if one is already freezing. Storing clothing may help avoid some unnecessary item [decay](./Decay.md) and prevent clothing items from getting wet, especially in blizzards or when passing through waterfalls.
 
 Note that exposed skin is prone to [frostbite](./Afflictions.md#Frostbite), which causes irreversible condition loss, so removing clothing, particularly while outdoors in cold, windy conditions can have more severe side effects.
 
-<span id="wetfrozen_clothing"></span><span id="Wet/frozen_clothing"></span><span id="wet/frozen_clothing"></span><span id="wetfrozen-clothing"></span>
+<!-- #wetfrozen_clothing -->
+​
 
+<!-- #Wet/frozen_clothing -->
+​
+
+<!-- #wet/frozen_clothing -->
+​
+
+<!-- #Wet/frozen_Clothing -->
+​
+
+<!-- #wetfrozen-clothing -->
 ## Wet/frozen clothing
 
 If clothing becomes substantially wet then it will lower the total warmth factor of that article of clothing, thereby affecting the player's total "feel like" warmth rating. If wet clothing is not dried off from being indoors or near a fire, it has a chance to freeze over. Wearing frozen clothing will not only degrade the total warmth value of the clothing item, but can also result in [Frostbite](./Frostbite.md) in the area of the body it currently being worn on (ex: Frozen mittens will start causing Frostbite in the hands) if it is not removed. it is generally advised to remove or swap out wet/frozen clothing so that is can be unfrozen and dried in order to keep the player warm.
 
-<span id="hypothermia"></span><span id="Hypothermia"></span>
+<!-- #Hypothermia -->
+​
 
+<!-- #hypothermia -->
 ## Hypothermia
 
 [Hypothermia](./Afflictions.md) is an affliction that is applied whenever a character's warmth remains at freezing for 2 consecutive hours or if a player falls through thin ice. Once afflicted, the player's condition loss will double the rate of loss from freezing and [fatigue](./Fatigue.md) will drain rapidly. Hypothermia can only be cured by maintaining a feels like temperature above 0°C (32°F) for 24 continuous hours.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - There is currently no penalty for getting too hot. Even at "feels like" temperatures in excess of 50°C (122°F), especially when working for long hours near 150°C (270°F) [Forges](./Forge.md), the warmth bar will not go above "warm". In real life, these temperatures would be unbearable, and would result in excessive sweating (dehydration), heatstroke, or burning of exposed skin.
 
-<span id="character_quotes"></span><span id="Character_quotes"></span><span id="character-quotes"></span>
+<!-- #character_quotes -->
+​
 
+<!-- #Character_quotes -->
+​
+
+<!-- #Character_Quotes -->
+​
+
+<!-- #character-quotes -->
 ## Character quotes
 
 - "Too cold to think!"

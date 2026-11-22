@@ -18,8 +18,10 @@
 
 The **Wide Display Shelf** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A makeshift wooden display shelf, a Wide Display Shelf can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -30,13 +32,13 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the shelf cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the shelf will yield no resources, so consider the material cost/time investment before creating this item).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Wide Display Shelf**
-
-
 
 660 minutes (11 hour 0 minutes)
 
@@ -49,7 +51,3 @@ Despite having a Backpack carry weight value, the shelf cannot be picked up and 
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 18
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

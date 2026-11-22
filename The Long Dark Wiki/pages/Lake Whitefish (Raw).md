@@ -72,8 +72,10 @@ _For the cooked version, see [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28C
 
 **Lake Whitefish (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Lake Whitefish are small freshwater fish found commonly in lakes and ponds. They can be caught by [Ice Fishing](./Ice%20Fishing.md) using [Fishing Tackle](./Fishing%20Tackle.md). Lake Whitefish can be between 1.5 and 2.3 kg raw.
@@ -82,8 +84,10 @@ Cooking Whitefish takes 20+ minutes and is be obtained by using a lit [fire](./F
 
 Cooking whitefish improves the [cooking skill](./Skills.md#Cooking).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -93,8 +97,16 @@ Cooking whitefish improves the [cooking skill](./Skills.md#Cooking).
 
 ![Old model](../assets/Lake_whitefish_%28raw%29.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**

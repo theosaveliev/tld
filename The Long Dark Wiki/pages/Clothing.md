@@ -37,18 +37,24 @@
 
 **Clothing** is the term for items that can be equipped to provide bonuses to the player throughout their playthrough. Clothing does not have any requirements to wear. A player's total clothing bonus can be seen on the status screen.
 
-<span id="obtaining_clothing"></span><span id="Obtaining_clothing"></span><span id="obtaining-clothing"></span>
+<!-- #obtaining_clothing -->
+​
 
+<!-- #Obtaining_clothing -->
+​
+
+<!-- #Obtaining_Clothing -->
+​
+
+<!-- #obtaining-clothing -->
 ## Obtaining clothing
 
 In all difficulty levels, the player will start out with a few items of low-grade clothing. In the early game, one of the highest priorities is finding good quality clothing. It's possible to find clothing nearly everywhere, but some of the most common locations where clothing may be found include houses (bedrooms in particular), cabins, lockers, car trunks, suitcases, and [Frozen Corpses](./Frozen%20Corpse.md). If the player is struggling to find clothing, specific locations to search include [Coastal Townsite](./Coastal%20Townsite.md) in [Coastal Highway](./Coastal%20Highway.md), the [plane crash](./Crash%20Site%20%28Pleasant%20Valley%29.md) in [Pleasant Valley](./Pleasant%20Valley.md), the town of [Milton](./Milton.md), or the [Cargo Containers](./Cargo%20Container.md) found at the [Summit](./Summit.md) (bring a [Hacksaw](./Hacksaw.md) for here).
 
-<span id="clothing_attributes"></span><span id="Clothing_attributes"></span><span id="clothing-attributes"></span>
+<!-- #Warmth -->
+​
 
-## Clothing attributes
-
-<span id="warmth"></span><span id="Warmth"></span>
-
+<!-- #warmth -->
 ### Warmth
 
 ![Temp icon](../assets/Temp_icon.png) The **Warmth** bonus provided by clothing protects against the chilling ambient temperatures experienced by the player character. Each equipped clothing item contributes a specified number of degrees to the warmth bonus. The bonus is a constant effect that increases the "Feels Like" temperature. However, as clothing deteriorates, so too does the level of warmth it provides.
@@ -205,8 +211,10 @@ Shoes
 
 3.0 °C<br>_(5.4 °F)_
 
-<span id="windproof"></span><span id="Windproof"></span>
+<!-- #Windproof -->
+​
 
+<!-- #windproof -->
 ### Windproof
 
 ![Windproofness icon](../assets/Windproofness_icon.png) The **Windproof** bonus provided by clothing protects against the additional heat loss experienced by the player due to windchill. Even when your gear's warmth rating is higher than the environmental temperature, when its windproof rating is lower than the windchill, you will lose heat. The windproof effect only increases the "Feels Like" temperature by the absolute number of degrees of windchill affecting the player.
@@ -297,8 +305,10 @@ Shoes
 
 4.0 °C<br>_(7.2 °F)_
 
-<span id="waterproof"></span><span id="Waterproof"></span>
+<!-- #Waterproof -->
+​
 
+<!-- #waterproof -->
 ### Waterproof
 
 ![Waterproofness icon](../assets/Waterproofness_icon.png) The **Waterproof** bonus provided by clothing measures how resistant clothing becomes wet during outdoor activities and how fast they dry off.
@@ -306,7 +316,7 @@ Shoes
 - Clothes become wet by simply being left outside or inside [Vehicles](./Vehicle.md), if it's snowing, if a Blizzard is present, or being near certain wet locations.
   - Clothing will become completely wet if the player falls through [Weak Ice](./Weak%20Ice.md), or when passing through a [waterfall](./Environmental%20Hazard.md#Waterfalls).
     - One can also remove all clothing when going through a waterfall to avoid them getting wet, then simply put them back on.
-  - Walking through [shallow water puddles](./Environmental%20Hazard.md#Cold_Water_Puddles%2FStreams) will only soak your feet; remove boots and socks before walking through water to prevent them from becoming wet.
+  - Walking through [shallow water puddles](./Environmental%20Hazard.md#Cold_Water_Puddles/Streams) will only soak your feet; remove boots and socks before walking through water to prevent them from becoming wet.
     - Certain waterfalls with splashing water, such as the ones in [Hushed River Valley](./Hushed%20River%20Valley.md), also make the player's clothing wet by standing near them for long periods of time.
 - Clothing will gradually dry when worn or dropped in a dry interior location. They rapidly dry when beside a [Fire](./Fire.md).
   - Clothes cannot become wet if they are placed indoors or in the player's Backpack, even when passing through waterfalls/falling through Weak Ice.
@@ -472,8 +482,10 @@ Shoes
 
 60%
 
-<span id="protection"></span><span id="Protection"></span>
+<!-- #Protection -->
+​
 
+<!-- #protection -->
 ### Protection
 
 ![Protection icon](../assets/Protection_icon.png) The **Protection** bonus provided by clothing provides a reduction in physical damage that the player may experience through falls, burns, or attacks from wildlife.
@@ -562,8 +574,10 @@ Shoes
 
 10%
 
-<span id="mobility"></span><span id="Mobility"></span>
+<!-- #Mobility -->
+​
 
+<!-- #mobility -->
 ### Mobility
 
 ![Mobility icon](../assets/Mobility_icon.png) The **Mobility** penalty provided by clothing constricts the survivor's ability to move, reducing the maximum length of time that a player can [Sprint](./Stamina.md) while worn. The penalty is cumulative when wearing multiple pieces of clothing that cause a mobility penalty (e.g., a coat that reduces mobility by -5% and a pair of gloves that reduce mobility by -4% would yield a total penalty of -9%).
@@ -658,14 +672,18 @@ Shoes
 
 -20%
 
-<span id="condition"></span><span id="Condition"></span>
+<!-- #Condition -->
+​
 
+<!-- #condition -->
 ### Condition
 
 ![Item condition icon](../assets/Item_condition_icon.png) The **Condition** of clothing affects how well it does the job it's designed to do. As clothing deteriorates, it will contribute less to the players warmth and windchill protection. A piece of clothing at 50% condition rated for +2.0 degrees of warmth will only contribute +1.0 degrees. If clothing reaches 0% condition, it will become Ruined and can't be repaired, though it can still be harvested for raw materials.
 
-<span id="weight"></span><span id="Weight"></span>
+<!-- #Weight -->
+​
 
+<!-- #weight -->
 ### Weight
 
 ![Weight icon](../assets/Weight_icon.png) The **Weight** of clothing is how much it weighs when carried, worn, or placed in a container. When worn, clothing only contributes 75% of its weight towards the player's carrying limit. Wet clothing also increases clothing weight by 0.01kg per 1%.
@@ -822,22 +840,34 @@ Shoes
 
 2.00 kg<br>_(4.4 lb)_
 
-<span id="layering"></span><span id="Layering"></span>
+<!-- #Layering -->
+​
 
+<!-- #layering -->
 ## Layering
 
 ![Outer and inner layers](../assets/Outer_and_inner_layers.jpg)_Outer and inner layers_ Effects in which the game elements affect the clothing are represented by the order of numbers (the lowest numbers are affected first and the highest numbers are affected last).
 
-<span id="clothing_by_slot"></span><span id="Clothing_by_slot"></span><span id="clothing-by-slot"></span>
+<!-- #clothing_by_slot -->
+​
 
+<!-- #Clothing_by_slot -->
+​
+
+<!-- #Clothing_By_Slot -->
+​
+
+<!-- #clothing-by-slot -->
 ## Clothing by slot
 
 **Note**: Clothing items denoted with _italics_ are only available in [Wintermute](./Wintermute.md).
 
 Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 
-<span id="head"></span><span id="Head"></span>
+<!-- #Head -->
+​
 
+<!-- #head -->
 ### Head
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -860,12 +890,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) | [Wolfskin Hat](./Wolfskin%20Hat.md) <span id="fnref5"></span>[⁵](#fn5) | 3.0 °C<br>_(5.4 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 4% | 0% | 1.00 kg<br>_(2.2 lb)_ | 3 °C/kg<br>_(2.45 °F/lb)_ |
 | [Wool Toque icon](../assets/Wool_Toque_icon.png) | [Wool Toque](./Wool%20Toque.md) | 2.0 °C<br>_(3.6 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 30% | 2% | 0% | 0.25 kg<br>_(0.55 lb)_ | 8 °C/kg<br>_(6.53 °F/lb)_ |
 
-<span id="torso"></span><span id="Torso"></span>
+<!-- #Outer -->
+​
 
-### Torso
-
-<span id="outer"></span><span id="Outer"></span>
-
+<!-- #outer -->
 #### Outer
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -891,8 +919,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Windbreaker icon](../assets/Windbreaker_icon.png) | [Windbreaker](./Windbreaker.md) | 0.5 °C<br>_(0.9 °F)_ | 3.0 °C<br>_(5.4 °F)_ | 50% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) | [Wolfskin Coat](./Wolfskin%20Coat.md) | 4.0 °C<br>_(7.2 °F)_ | 4.0 °C<br>_(7.2 °F)_ | 60% | 12% | -15% | 3.00 kg<br>_(6.6 lb)_ | 1.33 °C/kg<br>_(1.09 °F/lb)_ |
 
-<span id="inner"></span><span id="Inner"></span>
+<!-- #Inner -->
+​
 
+<!-- #inner -->
 #### Inner
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -916,8 +946,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [T Shirt (Snappy) icon](../assets/T-Shirt_%28Snappy%29_icon.png) | [T-Shirt (Snappy)](./T-Shirt%20%28Snappy%29.md) | 0.5 °C<br>_(0.9 °F)_ | 0.0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
 | [Wool Shirt icon](../assets/Wool_Shirt_icon.png) | [Wool Shirt](./Wool%20Shirt.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 40% | 2% | 0% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
-<span id="hands"></span><span id="Hands"></span>
+<!-- #Hands -->
+​
 
+<!-- #hands -->
 ### Hands
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -936,12 +968,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Wool Mittens icon](../assets/Wool_Mittens_icon.png) | [Wool Mittens](./Wool%20Mittens.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 20% | 1% | 0% | 0.10 kg<br>_(0.22 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
 | [Work Gloves icon](../assets/Work_Gloves_icon.png) | [Work Gloves](./Work%20Gloves.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 0% | 4% | -2% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
-<span id="legs"></span><span id="Legs"></span>
+<!-- #outer_1 -->
+​
 
-### Legs
-
-<span id="outer_1"></span><span id="outer-1"></span>
-
+<!-- #outer-1 -->
 #### Outer
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -957,8 +987,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) | [Wolfskin Pants](./Wolfskin%20Pants.md) | 3.0 °C<br>_(5.4 °F)_ | 1.5 °C<br>_(2.7 °F)_ | 50% | 10% | -5% | 2.50 kg<br>_(5.5 lb)_ | 1.2 °C/kg<br>_(0.98 °F/lb)_ |
 | [Work Pants icon](../assets/Work_Pants_icon.png) | [Work Pants](./Work%20Pants.md) | 1.5 °C<br>_(2.7 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 10% | 8% | -3% | 1.50 kg<br>_(3.3 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 
-<span id="inner_1"></span><span id="inner-1"></span>
+<!-- #inner_1 -->
+​
 
+<!-- #inner-1 -->
 #### Inner
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -966,12 +998,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Thermal Underwear icon](../assets/Thermal_Underwear_icon.png) | [Thermal Underwear](./Thermal%20Underwear.md) | 1.0 °C<br>_(1.8 °F)_ | 0.0 °C<br>_(0 °F)_ | 20% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) | [Wool Longjohns](./Wool%20Longjohns.md) | 2.0 °C<br>_(3.6 °F)_ | 0.0 °C<br>_(0 °F)_ | 35% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
-<span id="feet"></span><span id="Feet"></span>
+<!-- #inner_2 -->
+​
 
-### Feet
-
-<span id="inner_2"></span><span id="inner-2"></span>
-
+<!-- #inner-2 -->
 #### Inner
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -983,8 +1013,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Sports Socks icon](../assets/Sports_Socks_icon.png) | [Sports Socks](./Sports%20Socks.md) | 0.25 °C<br>_(0.5 °F)_ | 0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.10 kg<br>_(0.22 lb)_ | 2.5 °C/kg<br>_(2.04 °F/lb)_ |
 | [Wool Socks icon](../assets/Wool_Socks_icon.png) | [Wool Socks](./Wool%20Socks.md) | 0.5 °C<br>_(0.9 °F)_ | 0 °C<br>_(0 °F)_ | 20% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
 
-<span id="outer_2"></span><span id="outer-2"></span>
+<!-- #outer_2 -->
+​
 
+<!-- #outer-2 -->
 #### Outer
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -1003,8 +1035,10 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Trail Boots icon](../assets/Trail_Boots_icon.png) | [Trail Boots](./Trail%20Boots.md) | 1.0 °C<br>_(1.8 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 30% | 5% | -3% | 1.00 kg<br>_(2.2 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 | [Work Boots icon](../assets/Work_Boots_icon.png) | [Work Boots](./Work%20Boots.md) | 2.0 °C<br>_(3.6 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 5% | 7% | -10% | 1.50 kg<br>_(3.3 lb)_ | 1.33 °C/kg<br>_(1.09 °F/lb)_ |
 
-<span id="accessories"></span><span id="Accessories"></span>
+<!-- #Accessories -->
+​
 
+<!-- #accessories -->
 ### Accessories
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -1018,16 +1052,26 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) | 0 °C<br>_(0 °F)_ | 0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 0 °C/kg<br>_(0 °F/lb)_ |
 | [Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 20% | 1% | 0% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
-<span id="cut_clothing"></span><span id="Cut_Clothing"></span><span id="cut-clothing"></span>
+<!-- #cut_clothing -->
+​
 
+<!-- #Cut_Clothing -->
+​
+
+<!-- #Cut_clothing -->
+​
+
+<!-- #cut-clothing -->
 ### Cut Clothing
 
 | [Clothing](../assets/Clothing.png) | Item | [Weight icon](../assets/Weight_icon.png) |
 | --- | --- | --- |
 | [Jeremiah's Bearskin Coat icon](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) | [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) | 5.00 kg<br>_(11 lb)_ |
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

@@ -37,8 +37,19 @@ Books have a fire duration of 18 minutes.
 
 Although books are the worst fuel in terms of burn time to weight, they have the highest bonus chance to start a new fire. This makes books useful for the purpose of starting fires, especially earlier in the game. This helps to preserve [Matches](./Matches%20%28disambiguation%29.md) until the [Fire Starting](./Fire%20Starting.md) skill has improved.
 
-<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+<!-- #fire_starting_info -->
+​
 
+<!-- #Fire_Starting_info -->
+​
+
+<!-- #Fire_starting_info -->
+​
+
+<!-- #Fire_Starting_Info -->
+​
+
+<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Book**
@@ -55,8 +66,10 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Non-Research Books cannot be read.
@@ -64,8 +77,10 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 - Books are unique among all items in _The Long Dark_ for having multiple models. There are 12 in total with unique cover art, with 3 open variants.
 - Different types of (non-Research Books) will stack together in the player's inventory or if placed in containers;. This irreversibly changes their model into that of the generic book when removed (featured above).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Book.png)
@@ -90,8 +105,16 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 ![Ditto](../assets/Ico_GearItem_BookF.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**

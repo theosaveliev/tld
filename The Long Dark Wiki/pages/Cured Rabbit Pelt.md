@@ -24,8 +24,10 @@
 
 **Cured Rabbit Pelt** is the cured hide of a [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) and [Rabbitskin Hats](./Rabbitskin%20Hat.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Fresh Rabbit Pelt are acquired by harvesting a [Rabbit Carcass](./Rabbit%20Carcass.md), they can then be cured by leaving them indoors for 3 days (in-game). Cured Rabbit Pelts are used for crafting or repairing [Rabbitskin Hats](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md). Once cured, the hide will take on a darker complexion, and can then be used for crafting.
@@ -34,8 +36,10 @@ Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning rabbits with a 
 
 Cured Rabbit Pelts are widely used for [trading](./Trader.md), as they are the fastest hide to cure and can easily be obtained in large quantities. They can be used to purchase [Rifle Ammunition](./Rifle%20Ammunition.md), [Revolver Ammunition](./Revolver%20Ammunition.md), [flare shells](./Flare%20Shell.md), an [Aviator Cap](./Aviator%20Cap.md), [Thin Wool Sweater](./Thin%20Wool%20Sweater.md), [Wool Shirt](./Wool%20Shirt.md), [Thick Wool Sweater](./Thick%20Wool%20Sweater.md), [Light Shell](./Light%20Shell.md), [Mackinaw Jacket](./Mackinaw%20Jacket.md), [Mukluks](./Mukluks.md), [Manufactured Arrow](./Manufactured%20Arrow.md), the [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md), as well as [three](./T-Shirt%20%28CM%29.md) [different](./T-Shirt%20%28GBI%29.md) [T-Shirts](./T-Shirt%20%28Snappy%29.md) and [three](./Patterned%20Wool%20Socks%20%28Dots%29.md) [different](./Patterned%20Wool%20Socks%20%28Moose%29.md) [wool socks](./Patterned%20Wool%20Socks%20%28Plaid%29.md).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -43,9 +47,19 @@ Cured Rabbit Pelts are widely used for [trading](./Trader.md), as they are the f
 | [Rabbitskin Hat](./Rabbitskin%20Hat.md) | None | - 3 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)<br>- 1 × [Cured Gut](./Cured%20Gut.md) |
 | [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | None | - 4 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
+
+[ru:Высушенная шкура кролика](https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0)

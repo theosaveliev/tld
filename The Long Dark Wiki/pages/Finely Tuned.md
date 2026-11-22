@@ -10,14 +10,18 @@
 
 **Finely Tuned** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This is a missable hidden achievement granted by using less than 50 pieces of [Coal](./Coal.md) to power the [Steam Locomotive](./Steam%20Train.md) during the main story mission [To SAR And Back](./To%20SAR%20And%20Back.md).
 
-<span id="strategies"></span><span id="Strategies"></span>
+<!-- #Strategies -->
+​
 
+<!-- #strategies -->
 ## Strategies
 
 The player must use the Steam Locomotive at various part of the mission to pass through the region, as several gates must be crashed through in order to progress on foot.
@@ -35,8 +39,16 @@ Another way is to use neutral and second gear mainly, and use first gear only to
 - The neutral gear accumulates steam faster than the second gear spends it.
 - Make quicksaves before railway forks
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

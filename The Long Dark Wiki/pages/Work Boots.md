@@ -36,14 +36,18 @@
 
 **Work Boots** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
-<span id="usefulness"></span><span id="Usefulness"></span>
+<!-- #Usefulness -->
+​
 
+<!-- #usefulness -->
 ## Usefulness
 
 Work Boots are mid-tier footwear and are much warmer than [Trail Boots](./Trail%20Boots.md) and starting footwear. They are also far more efficient to repair than other types of footwear, granting +50% more condition when successfully repaired for a single [cured leather](./Cured%20Leather.md) and [cloth](./Cloth.md). However, they have a large mobility penalty and aren't very waterproof.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Work_boots_%28historical%29.png)

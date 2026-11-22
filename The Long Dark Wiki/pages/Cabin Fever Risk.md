@@ -49,8 +49,10 @@
 
 Starting a Survival Mode game with the Settled Mind [Feat](./Feats.md) selected will automatically prevent Cabin Fever Risk, and [Cabin Fever](./Cabin%20Fever.md), from ever developing.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Affliction Risk for Cabin Fever is calculated by the amount of time a survivor spends indoors in the last 150 hours:
@@ -60,8 +62,16 @@ The Affliction Risk for Cabin Fever is calculated by the amount of time a surviv
 
 When suffering from Cabin Fever Risk, working on an item at a [Work Bench](./Work%20Bench.md)/[Ammunition Work Bench](./Ammunition%20Work%20Bench.md)/reading a [Research Book](./Research%20Book.md)/[Cooking](./Cooking.md)/Repairing WILL increase the Affliction Risk meter, despite the fact that the survivor is keeping their mind occupied at the time.
 
-<span id="special_locations"></span><span id="Special_Locations"></span><span id="special-locations"></span>
+<!-- #special_locations -->
+​
 
+<!-- #Special_Locations -->
+​
+
+<!-- #Special_locations -->
+​
+
+<!-- #special-locations -->
 ### Special Locations
 
 There are also a few exterior buildings that give a warmth bonus and do not progress Cabin Fever despite appearing to be an indoor space:
@@ -78,8 +88,10 @@ The following areas do progress Cabin Fever.
 - The front porch of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
 - The maintenance hallway in the south tunnel in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
-<span id="treatment"></span><span id="Treatment"></span>
+<!-- #Treatment -->
+​
 
+<!-- #treatment -->
 ## Treatment
 
 Spending more time outdoors will gradually cause the Risk to subside. Sleeping in [Warm Caves](./Warm%20Cave.md) or [Snow Shelters](./Snow%20Shelter.md) is generally the safest way to remove Cabin Fever Risk. Great care should be taken to not return to the indoors too quickly once the Risk has subsided, or the Risk will return. Failure to manage Cabin Fever Risk will result in the player contracting [Cabin Fever](./Cabin%20Fever.md).
@@ -94,13 +106,21 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29)):**
   - Added to game.
 - HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326)):**
   - Added a grace period for Voyageur and Stalker and removed the affliction entirely on Pilgrim.
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam%2C_Epic_Games%2C_Xbox%2C_PlayStation%29_%28TFTFT_PART_FIVE%3A_Last_Horizon_Update%29)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam,_Epic_Games,_Xbox,_PlayStation%29_%28TFTFT_PART_FIVE:_Last_Horizon_Update%29)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever Risk.

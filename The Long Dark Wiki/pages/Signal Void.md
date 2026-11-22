@@ -32,7 +32,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **Track down the mysterious radio transmissions across Great Bear Island.**
@@ -41,8 +40,19 @@
 
 **Signal Void** is the first of four [Tales](./Tales.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. Tales are narrative-based objectives for Survival mode. It is not a selectable [Challenge](./Challenge.md) but instead must be activated by first starting a Survival game.
 
-<span id="initiating_the_tale"></span><span id="Initiating_the_Tale"></span><span id="initiating-the-tale"></span>
+<!-- #initiating_the_tale -->
+​
 
+<!-- #Initiating_the_Tale -->
+​
+
+<!-- #Initiating_the_tale -->
+​
+
+<!-- #Initiating_The_Tale -->
+​
+
+<!-- #initiating-the-tale -->
 ## Initiating the Tale
 
 ![Signal Void Banner](../assets/Signal_Void_Banner.jpg)
@@ -54,8 +64,10 @@ After reading and pocketing the note, the player will automatically receive a [H
 <span id="stub"></span> _SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Repair Transmitter outside Forsaken Airfield Control Tower.
@@ -74,8 +86,19 @@ After reading and pocketing the note, the player will automatically receive a [H
 - Use the repaired Transmitter network to search Forsaken Airfield for signs of additional bunkers.
   - Search Bunker Omega for clues about the fate of Rüdiger's Project.
 
-<span id="repairing_the_transmitters"></span><span id="Repairing_the_Transmitters"></span><span id="repairing-the-transmitters"></span>
+<!-- #repairing_the_transmitters -->
+​
 
+<!-- #Repairing_the_Transmitters -->
+​
+
+<!-- #Repairing_the_transmitters -->
+​
+
+<!-- #Repairing_The_Transmitters -->
+​
+
+<!-- #repairing-the-transmitters -->
 ## Repairing the Transmitters
 
 Your first objective is to repair the 4 portable [Transmitters](./Transmitters.md) at each location mentioned in the memo.
@@ -101,8 +124,19 @@ When you repair one of the Transmitters in Lower Great Bear, you will be prompte
 
 If the player activates the Transmitters for the first time at night, an aurora will automatically trigger. For the most effective gameplay the player should be ready to investigate the signal when activating the Transmitter.
 
-<span id="locating_the_anomalous_signals"></span><span id="Locating_the_Anomalous_Signals"></span><span id="locating-the-anomalous-signals"></span>
+<!-- #locating_the_anomalous_signals -->
+​
 
+<!-- #Locating_the_Anomalous_Signals -->
+​
+
+<!-- #Locating_the_anomalous_signals -->
+​
+
+<!-- #Locating_The_Anomalous_Signals -->
+​
+
+<!-- #locating-the-anomalous-signals -->
 ## Locating the Anomalous Signals
 
 After all transmitters are repaired, your next objective is to investigate the strange signals mentioned in the memo:
@@ -117,8 +151,19 @@ _***Important\***_
 
 Even if you use [Charcoal](./Charcoal.md) to uncover the location of a bunker (either near the bunker or via a [Polaroid](./Polaroids.md) Vista) or if you already know the location of the bunkers, the game will not allow you to uncover a bunker hatch unless your radio is currently powered. (The same is true for any hidden supply caches. See [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) for more details.)
 
-<span id="investigate_the_bunkers"></span><span id="Investigate_the_Bunkers"></span><span id="investigate-the-bunkers"></span>
+<!-- #investigate_the_bunkers -->
+​
 
+<!-- #Investigate_the_Bunkers -->
+​
+
+<!-- #Investigate_the_bunkers -->
+​
+
+<!-- #Investigate_The_Bunkers -->
+​
+
+<!-- #investigate-the-bunkers -->
 ## Investigate the Bunkers
 
 Once you discover a bunker, you are told to investigate it. Each bunker has 1 security chief's report and 1 patient interview. Collect them both to advance the narrative.
@@ -127,8 +172,19 @@ Once you discover a bunker, you are told to investigate it. Each bunker has 1 se
 - Search [Bunker Beta](./Bunker%20Beta.md) (corresponds to Pleasant Valley)
 - Search [Bunker Gamma](./Bunker%20Gamma.md) (corresponds to Hushed River Valley)
 
-<span id="locate_the_last_bunker"></span><span id="Locate_the_last_Bunker"></span><span id="locate-the-last-bunker"></span>
+<!-- #locate_the_last_bunker -->
+​
 
+<!-- #Locate_the_last_Bunker -->
+​
+
+<!-- #Locate_the_last_bunker -->
+​
+
+<!-- #Locate_The_Last_Bunker -->
+​
+
+<!-- #locate-the-last-bunker -->
 ## Locate the last Bunker
 
 When all bunkers in Lower Great Bear are discovered and all documents are collected, trek back to the Forsaken Airfield to locate a final signal that was not mentioned in the memo.
@@ -139,26 +195,37 @@ The ultimate prize of this island wide scavenger hunt is the exclusive [Security
 
 The Tales from the Far Territory continues in [Buried Echoes](./Buried%20Echoes.md)...
 
-<span id="the_rüdigers_project"></span><span id="The_Rüdiger&#x27;s_Project"></span><span id="the_rüdiger&#x27;s_project"></span><span id="the-rüdigers-project"></span>
+<!-- #the_rüdigers_project -->
+​
 
+<!-- #The_Rüdiger's_Project -->
+​
+
+<!-- #the_rüdiger's_project -->
+​
+
+<!-- #The_rüdiger's_project -->
+​
+
+<!-- #the-rüdigers-project -->
 ## The Rüdiger's Project
 
 ***SPOILERS FOR THE TALE\***
 
 As you progress with the objectives of Signal Void, the purpose of each of the bunkers begins to become clearer. A device was built in a [large mine](./Zone%20of%20Contamination.md) and was used to experiment upon patients that were kept inside each bunker, though the test results of this experiment are currently unclear.
 
-<span id="collectibles"></span><span id="Collectibles"></span>
+<!-- #Clothing -->
+​
 
-## Collectibles
-
-<span id="clothing"></span><span id="Clothing"></span>
-
+<!-- #clothing -->
 ### Clothing
 
 - [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ### Notes
 
 - [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
@@ -170,8 +237,10 @@ As you progress with the objectives of Signal Void, the purpose of each of the b
 - [Interview Transcript 14](./Interview%20Transcript%2014.md)
 - [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
-<span id="notes_1"></span><span id="notes-1"></span>
+<!-- #notes_1 -->
+​
 
+<!-- #notes-1 -->
 ## Notes
 
 - Completing the Tale will award the player with a unique [Badge](./Badges.md) of the same name.

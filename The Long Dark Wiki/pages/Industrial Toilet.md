@@ -14,8 +14,10 @@
 
 **Industrial Toilets** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Industrial Toilets** are very similar to the regular [Toilet](./Toilet.md), but lack a reservoir tank.

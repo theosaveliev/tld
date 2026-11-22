@@ -32,40 +32,76 @@
 
 [Fires](./Fire.md) generate heat to restore and conserve [Warmth](./Warmth.md). Players can cook food, melt snow, and purify water on any fire started through the fire starting skill.
 
-<span id="how_to_start_a_fire"></span><span id="How_to_start_a_fire"></span><span id="how-to-start-a-fire"></span>
+<!-- #how_to_start_a_fire -->
+​
 
+<!-- #How_to_start_a_fire -->
+​
+
+<!-- #How_To_Start_A_Fire -->
+​
+
+<!-- #how-to-start-a-fire -->
 ## How to start a fire
 
 Fire Starting is one of the easiest skills to train in _[The Long Dark](./The%20Long%20Dark.md)_, as players can increase their skill by lighting a new fire at any time during their playthrough.
 
 To start a fire, players have to "use" an existing [Firebox](./Fire.md#Types_of_fires) or fire or place a new campfire in an acceptable location. The player must then select an ignition source, tinder (optional at level 3 and higher), fuel, and an optional accelerant. At the top of the screen, the player's current fire starting skill and the chance of success with the currently selected materials are displayed.
 
-<span id="chance_of_starting"></span><span id="Chance_of_starting"></span><span id="chance-of-starting"></span>
+<!-- #chance_of_starting -->
+​
 
+<!-- #Chance_of_starting -->
+​
+
+<!-- #Chance_Of_Starting -->
+​
+
+<!-- #chance-of-starting -->
 ### Chance of starting
 
 The chance of a fire-starting attempt succeeding is calculated directly by adding the benefits of the character's skill and all materials being used in the attempt. Changing the materials can improve the chance of a successful start. Chances greater than 100% are rounded down to 100% and cannot fail.
 
-<span id="attempting_to_start"></span><span id="Attempting_to_start"></span><span id="attempting-to-start"></span>
+<!-- #attempting_to_start -->
+​
 
+<!-- #Attempting_to_start -->
+​
+
+<!-- #Attempting_To_Start -->
+​
+
+<!-- #attempting-to-start -->
 ### Attempting to start
 
 Activating the start button on the bottom right will launch an attempt. A progress wheel will fill as the player character attempts to get the fire started. Normal attempts take 6 in-game minutes to achieve success. Attempts that include an accelerant take only 1 in-game minute. It is also possible to be interrupted in an attempt by aggressive [Wildlife](./Wildlife.md). Interrupted attempts count as a failure.
 
-<span id="failing_to_start"></span><span id="Failing_to_start"></span><span id="failing-to-start"></span>
+<!-- #failing_to_start -->
+​
 
+<!-- #Failing_to_start -->
+​
+
+<!-- #Failing_To_Start -->
+​
+
+<!-- #failing-to-start -->
 ### Failing to start
 
 Failure, if it does occur by chance, will consume a random amount of time before canceling the progress bar and removing the campfire (unless the player is relighting an existing fireplace). Failing a starting chance consumes the tinder and any liquid used, but does not consume the fuel. Matches are consumed as ignition sources but torches and flares are not. Firestrikers suffer condition loss on every attempt, while a magnifying lens does not.
 
-<span id="equipment"></span><span id="Equipment"></span>
+<!-- #Equipment -->
+​
 
+<!-- #equipment -->
 ## Equipment
 
 Players need one starter, one tinder, and one fuel before they can start fire starting. Player can start fires without a tinder after achieving level 3 in their fire starting skill.
 
-<span id="starter"></span><span id="Starter"></span>
+<!-- #Starter -->
+​
 
+<!-- #starter -->
 ### Starter
 
 Players can select any starter currently carried in their inventory. They are sequenced alphabetically and further sorted by condition, highest to lowest. The condition of the starter does not affect the chance of success.
@@ -80,8 +116,10 @@ Players can select any starter currently carried in their inventory. They are se
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg<br>_(0.66 lb)_ | Attempt may succeed even if item burns out |
 | [Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg<br>_(0.018 lb)_ | Consumed in attempt |
 
-<span id="tinder"></span><span id="Tinder"></span>
+<!-- #Tinder -->
+​
 
+<!-- #tinder -->
 ### Tinder
 
 Players can select any tinder currently carried in their inventory. Currently, all tinders have equal buffs although their weight may vary. Heavier newsprint and newsprint rolls, as well as stacks of papers, can be broken down into Tinder Plugs. [Cardboard Boxes](./Cardboard%20Box.md) are often found as rubbish and can easily be broken down with or without a tool such as a [Hunting Knife](./Hunting%20Knife.md) for quick amounts of Tinder Plugs. Breaking down [Fir Limb](./Fir%20Limb.md) and [Cedar Limb](./Cedar%20Limb.md) branches often provide a Tinder Plug. [Cat Tail](./Cat%20Tail.md) plants always provide 1 Cat Tail Head and are quite plentiful.
@@ -98,8 +136,10 @@ Player can start fires without a tinder after achieving Fire Starting Level 3 in
 | [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) | [Stack of Papers](./Stack%20of%20Papers.md) | +0% chance | 0.10 kg<br>_(0.22 lb)_ |
 | [Tinder Plug icon](../assets/Tinder_Plug_icon.png) | [Tinder Plug](./Tinder%20Plug.md) | +0% chance | 0.05 kg<br>_(0.11 lb)_ |
 
-<span id="fuel"></span><span id="Fuel"></span>
+<!-- #Fuel -->
+​
 
+<!-- #fuel -->
 ### Fuel
 
 Players can select any fuel currently carried in their inventory. Each type of fuel differs in how much burn time it will add to a fire, how easy it is to light, and how much heat it will produce once burning. Attempting to burn an unfinished Research Book will issue a confirmation warning to the player before it can be burned.
@@ -127,8 +167,16 @@ For example:
 | [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) | +15% chance | +7.5 minutes | +1 °C<br>_(1.8 °F)_ | 0.15 kg<br>_(0.33 lb)_ |
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (unlit) | +5% chance | +0-10 minutes | +1 °C<br>_(1.8 °F)_ | 0.30 kg<br>_(0.66 lb)_ |
 
-<span id="cut_fuel"></span><span id="Cut_Fuel"></span><span id="cut-fuel"></span>
+<!-- #cut_fuel -->
+​
 
+<!-- #Cut_Fuel -->
+​
+
+<!-- #Cut_fuel -->
+​
+
+<!-- #cut-fuel -->
 ### Cut Fuel
 
 Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update.
@@ -137,8 +185,10 @@ Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update
 | --- | --- | --- | --- | --- | --- |
 | [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) | [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) | +35% chance | +6 minutes | +2 °C<br>_(3.6 °F)_ | 0 kg<br>_(0 lb)_ |
 
-<span id="accelerant"></span><span id="Accelerant"></span>
+<!-- #Accelerant -->
+​
 
+<!-- #accelerant -->
 ### Accelerant
 
 Players can optionally add any accelerant carried in their inventory. Accelerant increases the likelihood of success and shortens the start time for fire-starting to only one minute.
@@ -150,8 +200,19 @@ Players can optionally add any accelerant carried in their inventory. Accelerant
 | [Jerry Can icon](../assets/Jerry_Can_icon.png) | [Jerry Can](./Jerry%20Can.md) | +40% chance | 3.30 kg<br>_(7.26 lb)_ |
 | [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) | [Lantern Fuel](./Lantern%20Fuel.md) | +40% chance | 0.50 kg<br>_(1.1 lb)_ |
 
-<span id="types_of_fireboxes"></span><span id="Types_of_Fireboxes"></span><span id="types-of-fireboxes"></span>
+<!-- #types_of_fireboxes -->
+​
 
+<!-- #Types_of_Fireboxes -->
+​
+
+<!-- #Types_of_fireboxes -->
+​
+
+<!-- #Types_Of_Fireboxes -->
+​
+
+<!-- #types-of-fireboxes -->
 ## Types of Fireboxes
 
 When lit, a firebox will increase nearby Warmth, dry [Clothing](./Clothing.md), and most have [Cooking](./Cooking.md) slots.
@@ -168,8 +229,10 @@ When lit, a firebox will increase nearby Warmth, dry [Clothing](./Clothing.md), 
 | [Stove](../assets/Stove.png) | [Stove](./Stove.md) | Wind proof | 6 | Has 6 cooking slots. |
 | [Wood stove](../assets/Wood_stove.png) | [Wood Stove](./Wood%20Stove.md) | Wind proof | 2 | None. |
 
-<span id="feats"></span><span id="Feats"></span>
+<!-- #Feats -->
+​
 
+<!-- #feats -->
 ## Feats
 
 Players who have unlocked the Fire Master [Feat](./Feats.md) are able to activate it to start a new game with a Level 3 Fire-Starting skill.
@@ -178,8 +241,16 @@ Players who have unlocked the Fire Master [Feat](./Feats.md) are able to activat
 | --- | --- | --- | --- |
 | [Badge feat firemaster](../assets/Badge_feat_firemaster.png) | Fire Master | Start 1000 fires | Survivors start with a Level 3 Fire Starting skill |
 
-<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
+<!-- #skill_levels -->
+​
 
+<!-- #Skill_levels -->
+​
+
+<!-- #Skill_Levels -->
+​
+
+<!-- #skill-levels -->
 ## Skill levels
 
 Players can increase their fire starting skill by starting any fire. It is possible to increase fire starting skill by lighting a torch, then using the torch to start new fires, which allows for many skill points to be gained with a single match.
@@ -200,8 +271,10 @@ Once players have reached a new skill level, they unlock a new bonus/bonuses get
 
 &lt;/table-progress-tracking&gt;
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

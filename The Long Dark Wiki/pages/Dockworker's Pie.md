@@ -15,8 +15,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Dockworker's Pie**
 
 [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png)
@@ -53,18 +51,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Dockworker's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Dockworker's Pie is a relatively simple recipe requiring mostly common ingredients and featuring a powerful Condition restoring effect, similar to [Prepper's Pie](./Prepper%27s%20Pie.md). Compared with Prepper's Pie, Dockworker's Pie requires more artificial ingredients, with the most limited being [Potatoes](./Potato.md). [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) and [Rockfish](./Rockfish%20%28Raw%29.md) are both saltwater fish that can be acquired by [Ice Fishing](./Ice%20Fishing.md) in any Coastal Region (e.g., Bleak Inlet), with Coho being 'uncommon' and Rockfish being 'rare' (note: rare fish can be increased in frequency with [Lures](./Fishing%20Lure%20%28disambiguation%29.md), at the cost of taking longer before a bite).
 
 The Recipe Card for Dockworker's Pie is found inside of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) [Workshop](./Workshop.md) in [Bleak Inlet](./Bleak%20Inlet.md), which is sealed by an electronically locked door (requiring the key code found on a note in [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md), and an active [Aurora](./Aurora.md) at night to power the door). The Last Resort Cannery can be difficult to access: being very cold, windy and infested with a pack of [Timberwolves](./Timberwolf.md).
 
-Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf.md). It may be dropped as a [decoy](./Scent.md#Baiting%2FDecoys).
+Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf.md). It may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - +35% [Condition](./Condition.md) (instant)
@@ -72,12 +74,13 @@ Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - -10% Maximum [Stamina](./Stamina.md) (3 hours)
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Dockworker's Pie**
-
 
 80.0 minutes (1 hour 20 minutes)
 
@@ -109,8 +112,16 @@ Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf
 
 **Quantity:** 2
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

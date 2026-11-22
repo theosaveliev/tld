@@ -44,8 +44,10 @@
 
 **Canned Ham** is a packaged [food](./Food%20And%20Drink.md) which reduces hydration by 5% and provides 550 calories.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Consuming a Canned Ham provides up to 550 Calories and reduces hydration by 5%. [Canned Corn](./Canned%20Corn.md) and Canned Ham can generally only be found after entering the Far Territory, specifically inside:
@@ -61,14 +63,24 @@ Consuming a Canned Ham provides up to 550 Calories and reduces hydration by 5%. 
 
 Like [Tins of Sardines](./Tin%20of%20Sardines.md), Canned Ham can be opened without a [Can Opener](./Can%20Opener.md) (thanks to their pull-tab), and consuming them yields no [Recycled Can](./Recycled%20Can.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 The side of the can lists "Ingredients: Ham (Cured With Water, Salt, Sugar, Sodium Phosphate, Carrageenan, Smoke Flavouring.)"
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

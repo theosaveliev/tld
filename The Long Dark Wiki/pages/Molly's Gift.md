@@ -20,8 +20,10 @@
 
 **Molly's Gift** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, Astrid retrieves [Marine Flares](./Marine%20Flare.md) from a car in [Thompson's Crossing](./Thomson%27s%20Crossing.md).
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Find and search the car trunk Molly mentioned.
@@ -30,14 +32,18 @@
 - Find more Marine Flares.
 - Experiment with Marine Flares.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 When leaving Community Hall for the first time, [Molly](./Molly.md) calls Astrid on the party line and tells her that something useful is in the trunk of the blue car near the swingset. The car is found on the other end of the main street in Thompson's Crossing. Inside the trunk are several [Marine Flares](./Marine%20Flare.md), which may be used to ward off [timberwolves](./Timberwolf.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _Astrid opens the trunk of the car and takes the Marine Flares._

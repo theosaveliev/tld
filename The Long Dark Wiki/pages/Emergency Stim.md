@@ -37,8 +37,10 @@
 
 **Emergency Stim** is a [First Aid](./First%20Aid.md) item in _The Long Dark_. Upon use, it will restore some of the survivor's [Condition](./Condition.md) and grant them unlimited energy for sprinting and rope climbing for one minute.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Emergency Stims are rare, powerful, and single-use only. When used, the Emergency Stim will:
@@ -52,8 +54,10 @@ Emergency Stims are rare, powerful, and single-use only. When used, the Emergenc
 
 Note: Afflictions such as [Broken Ribs](./Broken%20Ribs.md) (which prevents climbing) and [Sprained Ankles](./Sprained%20Ankle.md) (which prevents sprinting) are ignored while under the effects of the Emergency Stim; however, the survivor cannot use climbing ropes if [encumbered](./Encumbrance.md), nor sprint if they are carrying 10 kg (22 lbs) or more over their maximum carry weight, even while under the effects of an emergency stim.
 
-<span id="uses"></span><span id="Uses"></span>
+<!-- #Uses -->
+​
 
+<!-- #uses -->
 ## Uses
 
 - Instantly restoring 15% condition.
@@ -62,14 +66,24 @@ Note: Afflictions such as [Broken Ribs](./Broken%20Ribs.md) (which prevents clim
 - Climbing ropes faster, regardless of injuries or Fatigue.
 - Draining [Fatigue](./Fatigue.md) to 0% can be useful to more quickly recover from afflictions that require sleep, such as [Food Poisoning](./Food%20Poisoning.md).
 
-<span id="spawn_locations"></span><span id="Spawn_Locations"></span><span id="spawn-locations"></span>
+<!-- #spawn_locations -->
+​
 
+<!-- #Spawn_Locations -->
+​
+
+<!-- #Spawn_locations -->
+​
+
+<!-- #spawn-locations -->
 ## Spawn Locations
 
 Emergency Stims may be found rarely in most regions (8-10 across an entire world on [Interloper](./Survival%20Mode.md)) in high-tier loot areas, [First Aid Kits](./First%20Aid%20Kit.md), beside [Frozen Corpses](./Frozen%20Corpse.md), or hidden beneath/around furniture. They can also be acquired by trading with the [Trader](./Trader.md), but are only unlocked after reaching 400 [Trust](./Trader.md#Trust), and not on [Interloper](./Interloper.md) or [Misery](./Misery.md).
 
-<span id="guaranteed"></span><span id="Guaranteed"></span>
+<!-- #Guaranteed -->
+​
 
+<!-- #guaranteed -->
 ### Guaranteed
 
 - On the trek to the rope anchor above the [Gold Mine](./Gold%20Mine.md) entrance in [Ash Canyon](./Ash%20Canyon.md), one will spawn along the rock walls on the left side if approaching from [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) (removed on Interloper).
@@ -84,8 +98,16 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 - The train cart at the bottom of [The Ravine](./The%20Ravine.md).
 - [Marsh Ridge](./Marsh%20Ridge.md) cave in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
-<span id="possible_spawns"></span><span id="Possible_Spawns"></span><span id="possible-spawns"></span>
+<!-- #possible_spawns -->
+​
 
+<!-- #Possible_Spawns -->
+​
+
+<!-- #Possible_spawns -->
+​
+
+<!-- #possible-spawns -->
 ### Possible Spawns
 
 - Inside the [Old Substation](./Old%20Substation.md) either on the ground or on the desk
@@ -94,8 +116,10 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 - Below a workbench next to the entrance of [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
 - Inside Cellblock C of [Blackrock Prison](./Blackrock%20Prison.md) inside the room with red chairs, beneath the table the chairs are around
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An emergency stim when equipped](../assets/Emergency_stim_equipped.jpg)
@@ -104,8 +128,10 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 
 ![Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available.](../assets/Tld-int-rav-stim.jpg)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Emergency Stims in The Long Dark are "autoinjectors", a real-world medical device: usually a single use, disposable, spring-loaded syringe injector used to quickly self-administer a specific drug.
@@ -113,8 +139,16 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 - Given their gameplay effects and description, emergency stims in The Long Dark are likely loaded with hydrocortisone.
 - While under the effects of a Emergency Stim, the player is able to fully sprint in any direction, including backwards.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**

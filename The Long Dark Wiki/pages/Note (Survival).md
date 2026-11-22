@@ -28,8 +28,10 @@
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Blackrock](./Blackrock.md). It is inside the [Blackrock Prison](./Blackrock%20Prison.md) yard, in the guard tower with the climbing rope.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Note**_
@@ -38,10 +40,20 @@ Can't tell who's coming and going, even from up here. It looks empty but I'm goi
    
  This place must be cursed at this point. Even a fire couldn't change that.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
+
+[ru:Записка (Вышка охраны)](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%92%D1%8B%D1%88%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B%29)

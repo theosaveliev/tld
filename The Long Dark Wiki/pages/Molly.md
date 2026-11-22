@@ -64,38 +64,53 @@
 
 **Molly** is the first non-player character encountered in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). She lives in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) begins with a cutscene of from Molly's point of view, where she finds [Astrid](./Astrid%20Greenwood.md) almost dead in the snow. Molly carries Astrid back to her home, the Pleasant Valley Farmstead. Molly leaves to go hunting, and returns with meat some time later. After a tense conversation with Astrid, Molly storms out but does not return again. She later calls Astrid on the telephone to ask for help fighting off [timberwolves](./Timberwolf.md) that have cornered her and again later to offer assistance and briefly discuss a personal secret. A prisoner Molly killed is located outside [Signal Hill](./Signal%20Hill.md).
 
-<span id="background"></span><span id="Background"></span>
+<!-- #Background -->
+​
 
+<!-- #background -->
 ## Background
 
 Much about Molly's background is unknown besides that she has seemingly been on Great Bear island for most of her life and resents the fact that she hasn't done more with her life. A cattleman's daughter and a farmer's wife, Molly has recently lost [her husband](./Molly%27s%20Husband.md) to wolves, although Molly admits she allowed it to happen. Afterwards she stored the body in her basement for unknown reasons.
 
 The bitter tone Molly uses when discussing her husband and her apparent lack of remorse may allude to possible domestic abuse going on before hand. Molly explains to Astrid over the phone at one point that "I let myself feel small so that he could feel like somebody. I gave up everything for him, and to him I didn't even exist. I let him make me small. Less than nothing." Eventually, Molly grew the desire to kill her husband, but never had the courage to do so, until the wolves arrived one day and gave her her chance. Even with a rifle in her hand, she chose to do nothing, and the wolves killed her husband. This freed her from her husband's influence but left her with a dim outlook on the world.
 
-<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+<!-- #Trauma -->
+​
 
-## Episode 3
-
-<span id="trauma"></span><span id="Trauma"></span>
-
+<!-- #trauma -->
 ### [Trauma](./Trauma.md)
 
 Molly eventually finds Astrid in the snow after the [First Flare](./First%20Flare.md) and nurses her back to health, though locks her inside her home to prevent her from leaving. After Astrid finds the body of Molly's husband and escapes Molly's Farmhouse, she keeps here distance from Astrid, spying on her from the hills while also hunting the male Convicts scattered across the Valley .
 
-<span id="fallen_star_and_coming_storm"></span><span id="Fallen_Star_and_Coming_Storm"></span><span id="fallen-star-and-coming-storm"></span>
+<!-- #fallen_star_and_coming_storm -->
+​
 
+<!-- #Fallen_Star_and_Coming_Storm -->
+​
+
+<!-- #Fallen_star_and_coming_storm -->
+​
+
+<!-- #Fallen_Star_And_Coming_Storm -->
+​
+
+<!-- #fallen-star-and-coming-storm -->
 ### [Fallen Star](./Fallen%20Star.md) and [Coming Storm](./Coming%20Storm.md)
 
 Molly begins calling Astrid occasionally over the Valley's phone party lines. She intially questions why Astrid chooses to help the [Crash Survivors](./Crash%20Survivor.md) despite gaining no recognition for her actions, before switching each subsequent phone call over to discussing her husband. After awhile, she leaves Astrid alone as she searches for more survivors.
 
-<span id="aftermath"></span><span id="Aftermath"></span>
+<!-- #Aftermath -->
+​
 
+<!-- #aftermath -->
 ### [Aftermath](./Aftermath.md)
 
 As Astrid is ready to leave Pleasant Valley, Molly calls Astrid to tell her about the radio transmitter at [Signal Hill](./Signal%20Hill.md) that she could use to contact Perseverance Mills, before hanging up. Astrid goes there and eventually makes contact with Perseverance Mills.
@@ -106,20 +121,29 @@ Molly ends her phone call by asking Astrid if Mackenzie is "One of the good ones
 
 Molly is briefly seen in the ending cutscene for the Episode, but is not seen again for the rest of Wintermute.
 
-<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+<!-- #episode_4 -->
+​
 
+<!-- #Episode_4 -->
+​
+
+<!-- #episode-4 -->
 ## Episode 4
 
 At the beginning of Episode 4 while dragging Mackenzie across the snow, [Heller](./Heller.md) and [Vachon](./Vachon.md) discuss a dead convict ([Leclerc](./Prison%20Transport%20Manifest.md)) found with an arrow in his chest, which was most likely hinting at Molly's work.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 Molly and Astrid's phone calls may have briefly connected to the [Hunting Lodge's](./Hunting%20Lodge.md) [Phone Box](./Phone%20Box.md) in Episode 2, explaining the ringing phone.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Molly finding Astrid in the snow](../assets/Astrid_in_snow.jpg)
@@ -132,9 +156,19 @@ Molly and Astrid's phone calls may have briefly connected to the [Hunting Lodge'
 
 ![Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
 
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_History -->
+​
+
+<!-- #Update_history -->
+​
+
+<!-- #update-history -->
 ## Update History
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.
+
+[fr:Molly](https://fr.wikipedia.org/wiki/Molly) [ru:Молли](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BB%D0%B8)

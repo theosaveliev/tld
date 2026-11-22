@@ -10,12 +10,10 @@
 
 **The Will to Live** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This achievement is obtained after surviving for five hundred whole days in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim.
-
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
-
-## Game history

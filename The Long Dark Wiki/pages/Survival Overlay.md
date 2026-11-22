@@ -40,98 +40,201 @@ The **Survival Overlay** is an interface that allows the player to quickly judge
 
 Pressing Tab on PC will quickly show the current needs. Opening the [Radial Menu](./Radial%20Menu.md) (holding SPACE) will show the entire Survival Overlay until let go. The Overlay can be disabled entirely in the Options menu by selecting OFF in the HUD section.
 
-<span id="region_and_location"></span><span id="Region_and_Location"></span><span id="region-and-location"></span>
+<!-- #region_and_location -->
+​
 
+<!-- #Region_and_Location -->
+​
+
+<!-- #Region_and_location -->
+​
+
+<!-- #Region_And_Location -->
+​
+
+<!-- #region-and-location -->
 ## Region and Location
 
 The top left corner of the screen will show the current [Region](./Region.md) or [Location](./Locations.md) the player has walked into. Entering buildings, new Regions, or into outdoor Locations will tell the player the current area before the message slowly fades away.
 
-<span id="harvest_info"></span><span id="Harvest_Info"></span><span id="harvest-info"></span>
+<!-- #harvest_info -->
+​
 
+<!-- #Harvest_Info -->
+​
+
+<!-- #Harvest_info -->
+​
+
+<!-- #harvest-info -->
 ## Harvest Info
 
 [Harvesting](./Harvesting.md) objects will give a message and icon showing the [Materials](./Materials.md) harvested from the object, either in the game world or from the player's inventory.
 
-<span id="afflictions"></span><span id="Afflictions"></span>
+<!-- #Afflictions -->
+​
 
+<!-- #afflictions -->
 ## Afflictions
 
 Affliction Risks and Afflictions will appear on the right side of the screen. They appear briefly, and can be missed if not payed attention to. Most Afflictions will appear in the Status menu of the [Survival Menu](./Survival%20Menu.md) if it is opened.
 
-<span id="needs_and_condition"></span><span id="Needs_and_Condition"></span><span id="needs-and-condition"></span>
+<!-- #needs_and_condition -->
+​
 
+<!-- #Needs_and_Condition -->
+​
+
+<!-- #Needs_and_condition -->
+​
+
+<!-- #Needs_And_Condition -->
+​
+
+<!-- #needs-and-condition -->
 ## Needs and Condition
 
 ![The 4 Needs and the Condition Bar](../assets/Needs_Current.png)_The 4 Needs and the Condition Bar_ The bottom left side of the screen is where the center hub is visible. These, unlike the central hub, are always visible (unless changed in the options menu), and exist as a warning to the player. The NEEDS section can be set to be ALWAYS ON, or CONTEXTUAL in the Options menu in the HUD option, and the icon size can also be set to be small, medium, or large. If turned to CONTEXTUAL, Needs will not appear until when one of the player's Needs is nearly or entirely empty, in which the icon will appear on the screen as red until satisfied and then will disappear again.
 
 From top to bottom, the information included is as follows:
 
-<span id="warmth_fatigue_thirst_and_hunger"></span><span id="Warmth,_Fatigue,_Thirst,_and_Hunger"></span><span id="warmth,_fatigue,_thirst,_and_hunger"></span><span id="warmth-fatigue-thirst-and-hunger"></span>
+<!-- #warmth_fatigue_thirst_and_hunger -->
+​
 
+<!-- #Warmth,_Fatigue,_Thirst,_and_Hunger -->
+​
+
+<!-- #warmth,_fatigue,_thirst,_and_hunger -->
+​
+
+<!-- #Warmth,_fatigue,_thirst,_and_hunger -->
+​
+
+<!-- #Warmth,_Fatigue,_Thirst,_And_Hunger -->
+​
+
+<!-- #warmth-fatigue-thirst-and-hunger -->
 ### Warmth, Fatigue, Thirst, and Hunger
 
 ![The Fatigue bar when suffering from extreme hunger over long periods of time or Intestinal Parasites](../assets/UI_Long-Hunger.jpg)_The Fatigue bar when suffering from extreme hunger over long periods of time or Intestinal Parasites_ Here, the player can view their four major [Needs](./Needs.md) ([Warmth](./Warmth.md), [Fatigue](./Fatigue.md), [Thirst](./Thirst.md), [Hunger](./Hunger.md)). The survival of each need is indicated by the size and color of the respective need bar; the smaller and more red the bar is (and more drained the circle), the more severe the need. Fully diminished Needs begin to drain Condition.
 
-<span id="condition"></span><span id="Condition"></span>
+<!-- #Condition -->
+​
 
+<!-- #condition -->
 ### Condition
 
 The [Condition](./Condition.md) bar is an overall measure of a survivor's overall health and well being. If this bar is fully depleted, the player will die. [Afflictions](./Afflictions.md) that temporarily increase the maximum Condition bar size will be shown as blue, while red will temporarily decrease the bar size.
 
 The heart next to the Condition bar alerts the player of any Affliction Risks they have or Afflictions they are suffering from (shown as a yellow exclamation in a circle).
 
-<span id="suffocation_timer"></span><span id="Suffocation_Timer"></span><span id="suffocation-timer"></span>
+<!-- #suffocation_timer -->
+​
 
+<!-- #Suffocation_Timer -->
+​
+
+<!-- #Suffocation_timer -->
+​
+
+<!-- #suffocation-timer -->
 ### Suffocation Timer
 
 A timer appears just above the 4 Needs when suffering from [Suffocation](./Suffocation.md), and will display the amount of time (in real world seconds) until the player dies. Leaving an area with unbreathable air or equipping a [Respirator](./Respirator.md) with a functioning [Canister](./Canister.md) will reset the countdown and make it disappear.
 
-<span id="windshield_and_scent"></span><span id="Windshield_and_Scent"></span><span id="windshield-and-scent"></span>
+<!-- #windshield_and_scent -->
+​
 
+<!-- #Windshield_and_Scent -->
+​
+
+<!-- #Windshield_and_scent -->
+​
+
+<!-- #Windshield_And_Scent -->
+​
+
+<!-- #windshield-and-scent -->
 ## Windshield and Scent
 
 These two icons appear in the top middle of the screen.
 
-<span id="windshield"></span><span id="Windshield"></span>
+<!-- #Windshield -->
+​
 
+<!-- #windshield -->
 ### Windshield
 
 ![Wind shield icon](../assets/Wind_shield_icon.png) Shown as an icon of a shield with wind blowing against its left side, the Windshield Icon will appear whenever you are currently shielded from the wind by an object (such as against a rock wall, inside a [Warm Cave](./Warm%20Cave.md), when pressed against the walls of a ruined building, while inside interior outdoor buildings such as a [Fishing Hut](./Fishing%20Hut.md), or while inside a [Snow Shelter](./Snow%20Shelter.md)). This icon only appears when outdoors.
 
 When shielded from the wind, the windchill effect of high winds on the player character is negated (increasing player Warmth) and [Campfires](./Campfire.md) built will be protected from becoming [windblown campfires](./Fire.md#Windblown_campfire).
 
-<span id="scent"></span><span id="Scent"></span>
+<!-- #Scent -->
+​
 
+<!-- #scent -->
 ### Scent
 
 ![ScentMeter](../assets/ScentMeter.png)
 
 [Scent](./Scent.md) is a mechanic which increases the distance which [predators](./Wildlife.md) can detect the survivor by smell. Scent is increased when the survivor is carrying meat and fresh guts, and is affected by wind speed and wind direction. There are 3 meters that increase as the player carries more odorous items. Being Windshielded will prevent the smell from spreading downstream.
 
-<span id="survival_indicators"></span><span id="Survival_Indicators"></span><span id="survival-indicators"></span>
+<!-- #survival_indicators -->
+​
 
+<!-- #Survival_Indicators -->
+​
+
+<!-- #Survival_indicators -->
+​
+
+<!-- #survival-indicators -->
 ## Survival Indicators
 
 Several icons, typically appearing in the bottom center of the screen, will appear to warn the player of imminent danger.
 
-<span id="weak_ice"></span><span id="Weak_Ice"></span><span id="weak-ice"></span>
+<!-- #weak_ice -->
+​
 
+<!-- #Weak_Ice -->
+​
+
+<!-- #Weak_ice -->
+​
+
+<!-- #weak-ice -->
 ### Weak Ice
 
 ![Weak Ice icon](../assets/Weak_Ice_icon.png)
 
 [Weak Ice](./Weak%20Ice.md) will trigger the above icon as a danger warning to back away from the area. Failing to heed this warning will result in the player falling through the ice and taking Condition damage, wetting their clothes, and gaining [Hypothermia](./Hypothermia.md).
 
-<span id="timberwolf_morale"></span><span id="Timberwolf_Morale"></span><span id="timberwolf-morale"></span>
+<!-- #timberwolf_morale -->
+​
 
+<!-- #Timberwolf_Morale -->
+​
+
+<!-- #Timberwolf_morale -->
+​
+
+<!-- #timberwolf-morale -->
 ### Timberwolf Morale
 
 ![Timberwolf Morale Bar](../assets/Timberwolf_Morale_Bar.jpg)
 
 When a [Timberwolf](./Timberwolf.md) pack has been alerted to the presence of the player, a special Morale meter appears in the bottom middle of the screen. Attacking the pack will cause the bar to gradually empty until the pack is entirely killed or scatters, in which it will dissapear.
 
-<span id="chemical_hazard"></span><span id="Chemical_Hazard"></span><span id="chemical-hazard"></span>
+<!-- #chemical_hazard -->
+​
 
+<!-- #Chemical_Hazard -->
+​
+
+<!-- #Chemical_hazard -->
+​
+
+<!-- #chemical-hazard -->
 ### Chemical Hazard
 
 ![The corners of the screen appear yellow when suffering from Chemical Poisoning Risk](../assets/Chemical_Hazard_Hud.jpg)
@@ -140,8 +243,16 @@ _The corners of the screen appear yellow when suffering from [Chemical Poisoning
 
 [Chemical Hazards](./Chemical%20Hazard.md) are areas of land contaminated by toxic spilled chemicals that appear in the [Zone of Contamination](./Zone%20of%20Contamination.md). When not wearing a [Respirator](./Respirator.md) with a functional [Canister](./Canister.md), the 4 corners of the screen will gradually begin to fill up with a yellow overlay. Leaving a Chemical Hazard or equipping a Respirator will make the yellow film gradually dissipate.
 
-<span id="the_darkwalker_distance"></span><span id="The_Darkwalker_Distance"></span><span id="the-darkwalker-distance"></span>
+<!-- #the_darkwalker_distance -->
+​
 
+<!-- #The_Darkwalker_Distance -->
+​
+
+<!-- #The_darkwalker_distance -->
+​
+
+<!-- #the-darkwalker-distance -->
 ### The Darkwalker Distance
 
 ![The bloody screen and distance meter](../assets/Darkwalker_Very_Bloody_Screen.jpg)
@@ -150,14 +261,30 @@ Getting close to the Darkwalker in the [Escape the Darkwalker](./Escape%20the%20
 
 Two Afflictions unique to the Challenge, [Fear](./Fear.md) and [Anxiety](./Anxiety.md), will also cause the screen to become more and more bloody the closer the player is to the Darkwalker. Walking farther away from the monster will cause the bloody screen to clear up and the distance meter to disappear.
 
-<span id="stamina_weapon_and_movement_icons"></span><span id="Stamina,_Weapon,_and_Movement_Icons"></span><span id="stamina,_weapon,_and_movement_icons"></span><span id="stamina-weapon-and-movement-icons"></span>
+<!-- #stamina_weapon_and_movement_icons -->
+​
 
+<!-- #Stamina,_Weapon,_and_Movement_Icons -->
+​
+
+<!-- #stamina,_weapon,_and_movement_icons -->
+​
+
+<!-- #Stamina,_weapon,_and_movement_icons -->
+​
+
+<!-- #Stamina,_Weapon,_And_Movement_Icons -->
+​
+
+<!-- #stamina-weapon-and-movement-icons -->
 ## Stamina, Weapon, and Movement Icons
 
 These icons appear in the bottom right corner of the screen, and are related to overall movement and Stamina.
 
-<span id="stamina"></span><span id="Stamina"></span>
+<!-- #Stamina -->
+​
 
+<!-- #stamina -->
 ### Stamina
 
 ![Sprint icon](../assets/Sprint_icon.png)
@@ -173,8 +300,19 @@ These icons appear in the bottom right corner of the screen, and are related to 
 
 Information related to this HUD is only visible when the player is actively using stamina, otherwise this bar is hidden.
 
-<span id="weapons_and_tools"></span><span id="Weapons_and_Tools"></span><span id="weapons-and-tools"></span>
+<!-- #weapons_and_tools -->
+​
 
+<!-- #Weapons_and_Tools -->
+​
+
+<!-- #Weapons_and_tools -->
+​
+
+<!-- #Weapons_And_Tools -->
+​
+
+<!-- #weapons-and-tools -->
 ### Weapons and Tools
 
 Equipped weapons/tools will show an icon of said weapon, it's ammunition, or the fuel inside:
@@ -183,30 +321,56 @@ Equipped weapons/tools will show an icon of said weapon, it's ammunition, or the
 - The amount of held [Stones](./Stone.md), Flares, and [Noisemakers](./Noisemaker.md) are displayed.
 - An active [Flare](./Flare.md), [Marine Flare](./Marine%20Flare.md), [Torch](./Torch.md), or [Storm Lantern](./Storm%20Lantern.md) will show the amount of fuel left inside until the item is unusable (Storm Lanterns can be refilled).
 
-<span id="crouching"></span><span id="Crouching"></span>
+<!-- #Crouching -->
+​
 
+<!-- #crouching -->
 ### Crouching
 
 An icon of a man crouching appears when the player is currently crouching. Standing up will make the icon appear.
 
-<span id="carrying_crash_survivor"></span><span id="Carrying_Crash_Survivor"></span><span id="carrying-crash-survivor"></span>
+<!-- #carrying_crash_survivor -->
+​
 
+<!-- #Carrying_Crash_Survivor -->
+​
+
+<!-- #Carrying_crash_survivor -->
+​
+
+<!-- #carrying-crash-survivor -->
 ### Carrying Crash Survivor
 
 ![Burdened icon](../assets/Burdened_icon.png)
 
 An icon appears when carrying a [Crash Survivor](./Crash%20Survivor.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). When this icon appears, the player cannot Sprint, use weapons, or enter vehicles.
 
-<span id="over_encumbered"></span><span id="Over_Encumbered"></span><span id="over-encumbered"></span>
+<!-- #over_encumbered -->
+​
 
+<!-- #Over_Encumbered -->
+​
+
+<!-- #Over_encumbered -->
+​
+
+<!-- #over-encumbered -->
 ### Over Encumbered
 
 ![Weight icon](../assets/Weight_icon.png)
 
 A weight icon related to the player's current [Encumbrance](./Encumbrance.md) level will appear in the bottom right. If the player is currently under their Carry Weight, the weight will appear green. If they are Over Encumbered, a red weight icon will appear instead, and will not disappear until the player's Encumbrance goes below their max Carry Weight again.
 
-<span id="steep_slope_warning"></span><span id="Steep_Slope_Warning"></span><span id="steep-slope-warning"></span>
+<!-- #steep_slope_warning -->
+​
 
+<!-- #Steep_Slope_Warning -->
+​
+
+<!-- #Steep_slope_warning -->
+​
+
+<!-- #steep-slope-warning -->
 ### Steep Slope Warning
 
 [Missing image: Pente.jpg]
@@ -215,8 +379,19 @@ _Pente.jpg_
 
 Occasionally, the player will see a red slope when traveling the world. This is the Steep Slope Warning, and warns the player that walking over this area can result in a Sprain, such as a steep hill or rocky mountainside slope. If the player's Carry Weight is Over Encumbered and they are suffering from a [Sprain Risk](./Sprain%20Risk.md), they are more likely to acquire a [Sprained Wrist](./Sprained%20Wrist.md) or [Sprained Ankle](./Sprained%20Ankle.md) when walking through these areas.
 
-<span id="time_of_day"></span><span id="Time_of_Day"></span><span id="time-of-day"></span>
+<!-- #time_of_day -->
+​
 
+<!-- #Time_of_Day -->
+​
+
+<!-- #Time_of_day -->
+​
+
+<!-- #Time_Of_Day -->
+​
+
+<!-- #time-of-day -->
 ## Time of Day
 
 ![Midnight and Noon, the middle of night and the middle of day respectively](../assets/Nighttime_daytime_midnight_noon.jpg)_Midnight and Noon, the middle of night and the middle of day respectively_ The top right corner will show the Time of Day, represented by a sun and moon which rotates to give a rough idea as to the hour.
@@ -225,32 +400,55 @@ One day in '**The Long Dark**' is 24 hours long, split between 14.5 hours of day
 
 The day progresses as you play, as do other aspects of the game world. Temperature, daylight, and weather patterns may vary based on time of day. Cycles of the moon pass over the course of weeks; some animals may wander from prior territories; food [decays](./Decay.md) and may cause illness if consumed after turning rancid; and clothes wear down from use or even just being kept in storage.
 
-<span id="time_scale"></span><span id="Time_scale"></span><span id="time-scale"></span>
+<!-- #time_scale -->
+​
 
+<!-- #Time_scale -->
+​
+
+<!-- #Time_Scale -->
+​
+
+<!-- #time-scale -->
 ### Time scale
 
 An in-game hour is 5 minutes, so 1 real-world hour is 12 in-game hours. Some activities speed up time (such as breaking furniture or sleeping), so 12 in-game hours can pass in seconds.
 
 One in game minute is 3 seconds irl, 3x60(minutes)=180(seconds), 180x24(hours)= 4320 seconds, divide by 60 = 72 irl minutes per full day and night cycle (3 minutes per in game hour).
 
-<span id="day_vs._night"></span><span id="Day_vs._Night"></span><span id="day-vs-night"></span>
+<!-- #day_vs._night -->
+​
 
+<!-- #Day_vs._Night -->
+​
+
+<!-- #Day_vs._night -->
+​
+
+<!-- #Day_Vs._Night -->
+​
+
+<!-- #day-vs-night -->
 ### Day vs. Night
 
 ![8:30 PM - Daytime ends, Nighttime begins](../assets/Nighttime_start_10pm.jpg)_8:30 PM - Daytime ends, Nighttime begins_ The coldest temperatures are usually early in the morning, just before dawn. As the day progresses, temperatures usually start to warm; how warm it gets depends on the region and the weather. **Example of temperature in °c in interloper J8: AM 6h -24/-17. 8h -22/-16. 11h -17/13 PM 1h:-10/6. 2h: -9/1 3h: -8/5. 4h -7/9. 5h -8/9. 0h: -20 AM 5h -26 8h -24.**
 
 In general, it's best to explore the outdoors during the day because it offers better visibility and wolves are less aggressive. However, bears also wake up and patrol. Auroras, which make predators even more aggressive, never occur during the day.
 
-<span id="light"></span><span id="Light"></span>
+<!-- #Light -->
+​
 
+<!-- #light -->
 #### Light
 
 To study, mend, craft items at workbenches, or recycle with tools indoor, most of the time light is needed. Daylight lasts from dawn (6:00 AM) through sundown (8:30 PM) both indoors and outdoors. If the sky isn't overcast, use of the [Magnifying lens](./Magnifying%20Lens.md) is permitted as soon as the first ray of the sun appear at 6:00 AM, as is any other activity that requires light. ![6:00 AM - Nighttime ends, Daytime starts](../assets/Nighttime_end_6am.jpg)_6:00 AM - Nighttime ends, Daytime starts_ As evening falls, outdoor temperatures start to drop and wolves are more active and alert, making it difficult to be outside as they will immediately attack instead of stalking the player. However, bears usually return to their dens and sleep. You’ll probably want to find shelter before it gets dark. Night time strips shelters of any natural interior light (except for [ice caves](./Ice%20Cave.md) in the [Hushed River Valley](./Hushed%20River%20Valley.md)), making navigation a challenge.
 
 Being lost in heavy snow on a dark night can be extremely challenging. When traveling in the dark, light sources are a must as it's otherwise very difficult to navigate. Night travel comes at the risk of wolf attacks, as they can detect a player from longer distances before a player may notice them. There is also a small chance for the Aurora to occur if the weather is clear.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The first Survival Overlay in the Alpha game versions was inside the Survival Menu](../assets/Alpha_main_menu.jpg)
@@ -261,8 +459,10 @@ _The first Survival Overlay in the Alpha game versions was inside the [Survival 
 
 ![V1.00 overlay (Needs are in the middle of the screen)](../assets/The_Long_Dark_updated_Radial_Menu.png)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

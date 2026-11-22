@@ -36,8 +36,16 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the artifact behind some Loose Boards in the basement at [Skeeter's Ridge](./Skeeter%27s%20Ridge.md), and returns it to the church at [Thomson's Crossing](./Thomson%27s%20Crossing.md).
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

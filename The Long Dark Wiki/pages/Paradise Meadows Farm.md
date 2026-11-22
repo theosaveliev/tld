@@ -73,32 +73,48 @@ The farmstead buildings include a decently sized, very cluttered house; a couple
 
 The farmstead was featured as an important story location in [Wintermute](./Wintermute.md), and, since [the Rugged Sentinel Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) it can also be accessed in [Survival Mode](./Survival%20Mode.md), along with the rest of the Mountain Town map.
 
-<span id="description_of_location"></span><span id="Description_of_location"></span><span id="description-of-location"></span>
+<!-- #Farmhouse -->
+​
 
-## Description of location
-
-<span id="farmhouse"></span><span id="Farmhouse"></span>
-
+<!-- #farmhouse -->
 ### **Farmhouse**
 
 A single-story farmhouse may require a key to get into and is the only building with an interior in this location. It consists of a living room, kitchen bathroom, office, bedroom, and small storage room. The house also has a [stove](./Stove.md) (one of the few 6-slot stoves in the game) in the kitchen and a fireplace in the bedroom.
 
 The house offers a good amount of storage space, as well as a lot of open areas to cure hides. The front porch may be used to store meat to prevent it from spoiling, however the player must remember that the porch itself isn't safe from wildlife.
 
-<span id="barn"></span><span id="Barn"></span>
+<!-- #Barn -->
+​
 
+<!-- #barn -->
 ### **Barn**
 
 The barn is a wooden shell of a building without an actual interior. It offers poor protection from the elements (i.e., some wind protection, depending on wind direction), and it isn't entirely safe from the wildlife. The barn also has a [workbench](./Work%20Bench.md) and a [fire barrel](./Fire%20Barrel.md) located conveniently close, making prolonged crafting sessions easier. There are some planks and cardboard to break down for resources, and dead body may occasionally spawn inside the barn. A [tractor](./Tractor.md) is situated near the barn.
 
-<span id="additional_outbuildings"></span><span id="Additional_outbuildings"></span><span id="additional-outbuildings"></span>
+<!-- #additional_outbuildings -->
+​
 
+<!-- #Additional_outbuildings -->
+​
+
+<!-- #Additional_Outbuildings -->
+​
+
+<!-- #additional-outbuildings -->
 ### **Additional outbuildings**
 
 There are the remnants of a couple sheds on the opposite sides of the farm. They contain little and offer almost no protection from weather or from wolves that may patrol around the farm, however, a [truck](./Truck.md) can be found sitting underneath one of the dilapidated structures.
 
-<span id="story_mode"></span><span id="Story_Mode"></span><span id="story-mode"></span>
+<!-- #story_mode -->
+​
 
+<!-- #Story_Mode -->
+​
+
+<!-- #Story_mode -->
+​
+
+<!-- #story-mode -->
 ## Story Mode
 
 As of the [REDUX](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) update, the farmhouse in _Wintermute_ is no longer accessible prior to receiving the objective "**Something precious was stolen from**[GREY MOTHER](./Grey%20Mother.md)**. Find it, and return it to her.**" If the player visits this location beforehand, the door is locked, with no key spawning in the vicinity. After the start of the objective, however, bloodstains can be seen leading across the yard up to the door, which is now marked with a bloody red handprint. The door is now unlocked, and the home can be accessed without the use of a key.
@@ -109,12 +125,10 @@ Afterwards, an encounter with Astrid left one of the criminals dead and Hobbs wi
 
 This interaction culminates with a choice. Pull the knife out of Hobbs's gut in order to try and save him; or push the weapon in deeper and end his life. The _[Bank Deposit Box Key #15](./Milton%20Safety%20Deposit%20Box%20Keys.md)_is found in a container next to where Hobbs is sitting, and can be obtained after his dialogue finishes.
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #Wildlife -->
+​
 
-## Survival Mode
-
-<span id="wildlife"></span><span id="Wildlife"></span>
-
+<!-- #wildlife -->
 ### **Wildlife**
 
 A few [wolves ](./Wolf.md)can roam the fields from time to time, though generally only two or three wolves come close to the house itself. It means that one should always take caution entering the yard in front of the farmhouse, since it is rarely safe.
@@ -125,20 +139,32 @@ In the field to the north of the farm itself, near the silo, there is usually he
 
 Be aware that neither the porch of the house nor the open barn are safe from [wildlife](./Wildlife.md).
 
-<span id="key_to_the_farm"></span><span id="Key_to_the_farm"></span><span id="key-to-the-farm"></span>
+<!-- #key_to_the_farm -->
+​
 
+<!-- #Key_to_the_farm -->
+​
+
+<!-- #Key_To_The_Farm -->
+​
+
+<!-- #key-to-the-farm -->
 ### **Key to the farm**
 
 In Survival mode, the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) to the farmhouse may be found at various locations around the property, including (but not limited to) the dashboard of the pickup truck, tractor's floor, or a [Frozen Corpse](./Frozen%20Corpse.md), either behind the farmhouse or inside the barn.
 
-<span id="loot"></span><span id="Loot"></span>
+<!-- #Loot -->
+​
 
+<!-- #loot -->
 ### **Loot**
 
 On all experience levels, the farmhouse offers decent loot (by the standards of the difficulty level). There is plenty of furniture inside to break down for reclaimed wood, and multiple containers can hold mid- to high level items. It is an excellent source of [books](./Book.md), containing up to 25 on voyageur. Most notably, a rifle and/or a [revolver](./Revolver.md) and possibly some ammunition may be found inside. Birch saplings may be found behind the farmhouse. This farm is the last interior location in Mountain Town region before reaching [Forlorn Muskeg](./Forlorn%20Muskeg.md) and its forge (through [Milton Basin](./Milton%20Basin.md)). These facts can make the farm possible location to go forging arrowheads from.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An overview of the property](../assets/Paradise_meadows_farm.jpg)
@@ -154,3 +180,5 @@ On all experience levels, the farmhouse offers decent loot (by the standards of 
 ![An office in the farmhouse](../assets/Paradise_meadows_farmhouse_office.jpg)
 
 ![The bedroom](../assets/Paradise_meadows_farmhouse_bedroom.jpg)
+
+[ru:Ферма "Райские луга"](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B0_%22%D0%A0%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D1%83%D0%B3%D0%B0%22)

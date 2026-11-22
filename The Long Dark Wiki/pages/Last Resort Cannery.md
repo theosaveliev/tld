@@ -32,8 +32,10 @@
 
 Has an interior<br>**Last Resort Cannery** is a major location in [Bleak Inlet](./Bleak%20Inlet.md). The cannery complex features a renewable source of a few important materials, a special workshop with some unique tools, and a trailer that can be used for shelter.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The area is composed of several locations:
@@ -47,20 +49,26 @@ The area is composed of several locations:
 
 In addition to its numerous amenities, the cannery also features the first example of an obstacle course "puzzle" in Survival mode, as well as an ample supply of its signature product, [Tin of Sardines](./Tin%20of%20Sardines.md), and multiple resident [timberwolf](./Timberwolf.md) packs. Extreme caution is advised when entering the Cannery grounds, as the Timberwolves are numerous and kill quickly.
 
-<span id="gatehouse"></span><span id="Gatehouse"></span>
+<!-- #Gatehouse -->
+​
 
+<!-- #gatehouse -->
 ## Gatehouse
 
 ![Gatehouse](../assets/SS-BI-Cannery-Gatehouse.jpg)_Gatehouse_There is a gatehouse with a door along the road in front of the cannery. It may be a good place for players to fight timberwolves with firearms.
 
-<span id="trailer"></span><span id="Trailer"></span>
+<!-- #Trailer -->
+​
 
+<!-- #trailer -->
 ## Trailer
 
 The trailer serves as a useful place to evade [timberwolves](./Timberwolf.md). It contains much of the loot typically found in trailers--a few packaged food items, some clothing, crafting materials, tools, etc. The trailer is also the only easily accessed indoor building in the cannery complex, and thus serves as shelter to rest and recover when necessary.
 
-<span id="warehouses"></span><span id="Warehouses"></span>
+<!-- #Warehouses -->
+​
 
+<!-- #warehouses -->
 ## Warehouses
 
 ![SS BI Warehouse02](../assets/SS-BI-Warehouse02.jpg)The cannery has 3 dilapidated warehouses surrounding an open work yard and dock area. The yard contains a few vehicles, some semitrailers, industrial equipment, and several green wooden crates.
@@ -69,8 +77,10 @@ Of the warehouses surrounding the area, two are broken down and mostly open to t
 
 One of the warehouses has a room around back (off the wrap-around dock) with a door that can be opened and closed. This room is secure enough to protect the player from [timberwolves](./Timberwolf.md), though it may be too cold without warm clothing. Inside the room there may be a few supplies, as well as a fire barrel and a bed.
 
-<span id="workshop"></span><span id="Workshop"></span>
+<!-- #Workshop -->
+​
 
+<!-- #workshop -->
 ## Workshop
 
 ![Locked door](../assets/SS-BI-Workshop-Keypad.jpg)_Locked door_The Cannery workshop is one of the two locations on [Great Bear Island](./Great%20Bear%20Island.md) that contains an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) and a [Milling Machine](./Milling%20Machine.md) (the other one being Blackrock).
@@ -87,8 +97,10 @@ The first time, the player will only be able to enter the workshop during an [au
 
 Whenever the player passes through the workshop's door, there is a random chance of encountering a wolf. Once the wolf is dealt with, the player will be able to access the milling machine and the ammunition workbench. As the aurora appears frequently in this region, use caution around the live wires scattered about.
 
-<span id="dangers"></span><span id="Dangers"></span>
+<!-- #Dangers -->
+​
 
+<!-- #dangers -->
 ## Dangers
 
 ![SS BI TimberWolf](../assets/SS-BI-TimberWolf.jpg)The Cannery is usually guarded by one or two packs of [timberwolves](./Timberwolf.md). Extreme caution should be used when nearing the facility complex as the number of timberwolves present could easily overwhelm the player.
@@ -97,8 +109,19 @@ Before venturing into the open outdoors in the area, it is advisable to drop any
 
 Attempting to start the course unprepared will required the player to drop items at the base of the rope while being circled by timberwolves or abort the attempt to reach the workshop. Failing to drop items to become unencumbered could result in death if the player has no means to escape or drive off the timberwolves.
 
-<span id="tin_of_sardines"></span><span id="Tin_of_Sardines"></span><span id="tin-of-sardines"></span>
+<!-- #tin_of_sardines -->
+​
 
+<!-- #Tin_of_Sardines -->
+​
+
+<!-- #Tin_of_sardines -->
+​
+
+<!-- #Tin_Of_Sardines -->
+​
+
+<!-- #tin-of-sardines -->
 ## Tin of Sardines
 
 The Cannery is responsible for producing the packaged food [Tin of Sardines](./Tin%20of%20Sardines.md). Despite the plant having shut down long ago, several Tins of the product are found all over the Cannery, making it a great place to stock up on easy food stuffs (though some tins can be quite low Condition considering the age of the abandoned facility). The number of Tin of Sardines changes depending on the Experience played on, with more appearing on lower difficulties.
@@ -129,15 +152,19 @@ Warehouse 3 (Loading Dock)
 
 - On a table to the west near the loading doors
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The obstacle course that leads to the Cannery Pier was created by the technician that wrote the [Communication Report](./Communication%20Report.md) and [The Technician's Notebook](./The%20Technician%27s%20Notebook.md).
 - The obstacle course can be skipped entirely by placing a deployed [Travois](./Travois.md) with an item inside on the lowest pier at the Cannery Pier, then placing the handles near the edge. Walking on the ocean below will then give the player the option to pick up the Travois, wherein the player will teleport up to the pier.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Cannery](../assets/SS-BI-Cannery01.jpg)
@@ -175,3 +202,5 @@ Warehouse 3 (Loading Dock)
 ![Bunker down](../assets/20210111153220_1.jpg)
 
 ![LRCannery](../assets/LRCannery.png)
+
+[es:Conservera el último recurso](https://es.wikipedia.org/wiki/Conservera_el_%C3%BAltimo_recurso)

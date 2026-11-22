@@ -15,8 +15,16 @@
 - [Artwork](#artwork)
 - [Miscellaneous](#miscellaneous)
 
-<span id="main_menu"></span><span id="Main_menu"></span><span id="main-menu"></span>
+<!-- #main_menu -->
+​
 
+<!-- #Main_menu -->
+​
+
+<!-- #Main_Menu -->
+​
+
+<!-- #main-menu -->
 ## Main menu
 
 ![Standard day theme](../assets/The_Long_Dark_main_menu_theme.jpg)
@@ -27,12 +35,16 @@
 
 ![Holiday Theme](../assets/The_Long_Dark-_Christma.jpg)
 
-<span id="official_screenshots"></span><span id="Official_Screenshots"></span><span id="official-screenshots"></span>
+<!-- #full_release -->
+​
 
-## Official Screenshots
+<!-- #Full_Release -->
+​
 
-<span id="full_release"></span><span id="Full_Release"></span><span id="full-release"></span>
+<!-- #Full_release -->
+​
 
+<!-- #full-release -->
 ### Full Release
 
 ![Release Image Slide 01 large](../assets/Release_Image_Slide-01-large.jpg)
@@ -55,8 +67,10 @@
 
 ![Release Image Slide 10 large](../assets/Release_Image_Slide-10-large.jpg)
 
-<span id="alpha"></span><span id="Alpha"></span>
+<!-- #Alpha -->
+​
 
+<!-- #alpha -->
 ### Alpha
 
 ![The Long Dark Campfire](../assets/The_Long_Dark_-_Campfire.jpg)
@@ -133,8 +147,16 @@
 
 ![The Long Dark Vista](../assets/The_Long_Dark_-_Vista.jpg)
 
-<span id="early_alpha"></span><span id="Early_alpha"></span><span id="early-alpha"></span>
+<!-- #early_alpha -->
+​
 
+<!-- #Early_alpha -->
+​
+
+<!-- #Early_Alpha -->
+​
+
+<!-- #early-alpha -->
 ### Early alpha
 
 ![Forest](../assets/In_game_forest.jpg)
@@ -145,8 +167,10 @@
 
 _[Cabin](./Trapper%27s%20Homestead.md)_
 
-<span id="landscapes"></span><span id="Landscapes"></span>
+<!-- #Landscapes -->
+​
 
+<!-- #landscapes -->
 #### Landscapes
 
 ![Night at the lake cabin](../assets/The_Long_Dark_Night_at_the_Lake_Cabin.png)
@@ -163,8 +187,10 @@ _Sunset at [Desolation Point](./Desolation%20Point.md)_
 
 ![Sunset at Desolation Point](../assets/Sunset_in_Desolation_Point_02.jpg)
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 #### Locations
 
 [Missing image: The\_Long\_Dark\_Frozen\_Creek.png]
@@ -193,8 +219,10 @@ _[Bear Creek Campground](./Bear%20Creek%20Campground.md)_
 
 _Tunnel at [The Ravine](./The%20Ravine.md)_
 
-<span id="wildlife"></span><span id="Wildlife"></span>
+<!-- #Wildlife -->
+​
 
+<!-- #wildlife -->
 #### Wildlife
 
 ![Old model of the wolf](../assets/Wolf_-_old_model.jpg)
@@ -217,8 +245,10 @@ _[Crows](./Crow.md) circle above a corpse_
 
 _A [rabbit](./Rabbit.md)_
 
-<span id="artwork"></span><span id="Artwork"></span>
+<!-- #Artwork -->
+​
 
+<!-- #artwork -->
 ## Artwork
 
 ![Lonely Fire (story mode artwork)](../assets/Lonely_Fire_-_art.jpg)
@@ -249,8 +279,10 @@ _[Safe House](./Safehouse.md)_
 
 ![Fence](../assets/Forsaken_Airfield.jpg)
 
-<span id="miscellaneous"></span><span id="Miscellaneous"></span>
+<!-- #Miscellaneous -->
+​
 
+<!-- #miscellaneous -->
 ## Miscellaneous
 
 ![Poster](../assets/Large_poster.jpg)

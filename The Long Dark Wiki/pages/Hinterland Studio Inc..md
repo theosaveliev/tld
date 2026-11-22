@@ -22,7 +22,7 @@
 
 **Founder:** Raphael van Lierop
 
-**Headquarters:** [Vancouver](wikipedia:Vancouver), [BC](wikipedia:British_Columbia), [Canada](wikipedia:Canada)
+**Headquarters:** [Vancouver](https://en.wikipedia.org/wiki/Vancouver), [BC](https://en.wikipedia.org/wiki/British_Columbia), [Canada](https://en.wikipedia.org/wiki/Canada)
 
 **Products:** [The Long Dark](./The%20Long%20Dark.md)
 
@@ -34,30 +34,36 @@
 
 **Hinterland Studio Inc.** is an independent game studio headquartered in downtown Vancouver.
 
+<!-- #History -->
+​
 
-
-<span id="history"></span><span id="History"></span>
-
+<!-- #history -->
 ## History
 
 The studio was founded by Raphael van Lierop, who previously directed Relic's _Warhammer 40,000: Space Marine_ and worked on other games such as _Company of Heroes,_ _Dawn of War,_ and _Far Cry 3_.<span id="fnref1"></span>[¹](#fn1) In 2012, van Lierop started Hinterland Studio and recruited veteran AAA game developers including Alan Lawrance of Volition Inc, Hokoyo Lim, art director for _League of Legends_, David Chan, audio designer at BioWare, and Marianna Krawczyk, lead writer of the _God of War_ series.<span id="fnref2"></span>[²](#fn2) Since then, the team has grown to include over 25 members.<span id="fnref3"></span>[³](#fn3) In August 2016, it was announced that Hinterland would be moving to its new headquarters on Dunsmuir Avenue in Cumberland.<span id="fnref4"></span>[⁴](#fn4) Currently, the only physical studio is located in downtown Vancouver at the former MacMillan Bloedel Building.<span id="fnref5"></span>[⁵](#fn5)<span id="fnref6"></span>[⁶](#fn6) In September of 2018, Hinterland hired six new employees, the most significant growth in team size since the studio's foundation. This was in part due to Hinterland hiring former employees of Capcom Vancouver, which went defunct that month. Hinterland also purchased motion-capture equipment from Capcom.<span id="fnref7"></span>[⁷](#fn7)
 
-<span id="structure"></span><span id="Structure"></span>
+<!-- #Structure -->
+​
 
+<!-- #structure -->
 ## Structure
 
 Hinterland utilizes a distributed model, in which employees may work from locations other than the main studio. About half of the employees work at the main studio in downtown Vancouver, while the other half is distributed throughout North America.<span id="fnref8"></span>[⁸](#fn8) The team utilizes electronic communications and project management applications such as Slack, Skype, and Basecamp, and supplements these with occasional in-person meetings.<span id="fnref9"></span>[⁹](#fn9)
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Title | System | Release date |
 | --- | --- | --- |
 | _[The Long Dark](./The%20Long%20Dark.md)_ | Windows / OS X / Xbox One PlayStation 4 / Linux / Nintendo Switch | _Full Release_: 1 Aug 2017 / _Early Access_: 22 Sept 2014 |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The names of studio employees are hidden throughout the game, such as in the [Crashed Prison Transport Bus manifest](./Crashed%20Prison%20Transport%20Bus.md#Prison_Transport_Manifest), as well as in the names of several locations, such as:
@@ -67,8 +73,16 @@ Hinterland utilizes a distributed model, in which employees may work from locati
   - [Matt's Truck](./Matt%27s%20Truck.md)
   - [Alan's Cave](./Alan%27s%20Cave.md)
 
-<span id="external_links"></span><span id="External_links"></span><span id="external-links"></span>
+<!-- #external_links -->
+​
 
+<!-- #External_links -->
+​
+
+<!-- #External_Links -->
+​
+
+<!-- #external-links -->
 ## External links
 
 - [Official site](http://hinterlandgames.com/)
@@ -76,8 +90,10 @@ Hinterland utilizes a distributed model, in which employees may work from locati
 - [Facebook page](https://www.facebook.com/HinterlandGames)
 - [Twitter page](https://twitter.com/hinterlandgames)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Hinterland logo is always found on a Cup of Coffee](../assets/Cup_of_Coffee_icon.png)
@@ -100,12 +116,10 @@ _[Lost and Found](./Lost%20and%20Found.md) box with the Hinterland logo_
 
 _The old Hinterland logo on the board in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)_
 
-<span id="references"></span><span id="References"></span>
+<!-- #footnotes -->
+​
 
-## References
-
-<span id="footnotes"></span>
-
+<!-- #notes -->
 ## Notes
 
 ---

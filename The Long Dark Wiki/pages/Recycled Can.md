@@ -40,8 +40,10 @@
 
 A **Recycled Can** is a tool that players used primarily for melting snow, boiling water, and cooking [canned goods](./Cooking.md#Canned) and [drinks](./Cooking.md#Drinks).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The player will always start the game with one recycled can in the inventory, even on Interloper. Additional Recycled Cans are obtained by the player after consuming a [canned good](./Cooking.md#Canned). However, if the player smashes open a can, they will not receive a Recycled Can once the food is consumed. Additionally, Recycled Cans occasionally spawn in houses with kitchens or in various other locations.
@@ -52,8 +54,16 @@ A Recycled Can can melt or boil up to 0.5 liters (0.13 gallons) of snow or water
 
 A Recycled Can will degrade by **10%** if its contents are burned or boiled dry. The Recycled Can will not degrade in any other circumstances.
 
-<span id="canned_goods"></span><span id="Canned_Goods"></span><span id="canned-goods"></span>
+<!-- #canned_goods -->
+​
 
+<!-- #Canned_Goods -->
+​
+
+<!-- #Canned_goods -->
+​
+
+<!-- #canned-goods -->
 ## Canned Goods
 
 The following items produced a Recycled Can once the contents are consumed and the can is not smashed opened.
@@ -68,16 +78,20 @@ The following items produced a Recycled Can once the contents are consumed and t
 
 A [Can](./Can.md) can also be harvested for a Recycled Can.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Noisemaker](./Noisemaker.md) | None | - 1 × [Recycled Can](./Recycled%20Can.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 0.10 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - All [Fires](./Fire.md) have the same cooking, boiling, and melting times for food and drink items used with a Recycled Can. The cooking speed is not dependent on the temperature of the fire.
@@ -86,8 +100,16 @@ A [Can](./Can.md) can also be harvested for a Recycled Can.
 - On Interloper, the Recycled Can is the only item you start with, besides some basic clothing.
 - Recycled Cans can be used for shooting practice, as they will be knocked back from the impact of a bullet/arrow.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**

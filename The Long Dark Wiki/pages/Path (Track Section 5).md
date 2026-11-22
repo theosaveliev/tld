@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Path (Track Section 5)**
 
 [Path](../assets/Path.jpg)
@@ -25,7 +23,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **General**
 
 Has no shelter **Path** is a location in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
-
-<span id="overview"></span><span id="Overview"></span>
-
-## Overview

@@ -34,7 +34,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **Patterned Wool Mittens with a reinforced palm. Warm and durable.**<br>In-game description
@@ -43,8 +42,10 @@
 
 **Patterned Wool Mittens (Burgundy)** is the name given to 3 unique variations of [Wool Mittens](./Wool%20Mittens.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are easy to maintain, however they offer little protection against animal attacks.
@@ -52,7 +53,3 @@ Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are 
 ![Clothing model](../assets/Patterned_Wool_Mittens_%28Burgundy%29_model.png)
 
 ![Clothing model damaged](../assets/Patterned_Wool_Mittens_%28Burgundy%29_model_damaged.png)
-
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
-
-## Update history

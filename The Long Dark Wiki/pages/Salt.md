@@ -15,8 +15,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Salt**
 
 [Salt icon](../assets/Salt_icon.png)
@@ -53,8 +51,10 @@ _For the larger Salt bags, see [Salt (Bag)](./Salt%20%28Bag%29.md)._
 
 **Salt** is a [seasoning](./Food%20And%20Drink.md) and preservative in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="usage"></span><span id="Usage"></span>
+<!-- #Usage -->
+​
 
+<!-- #usage -->
 ## Usage
 
 Salt is used as an ingredient in numerous cooking recipes. Most recipes that use Salt tend to need 0.01 kg of Salt, meaning one container of Salt can be used in 25 recipes.
@@ -63,16 +63,20 @@ Salt is used as an ingredient in numerous cooking recipes. Most recipes that use
 
 Salt is one of the few items that is not affected by [Decay](./Decay.md).
 
-<span id="acquisition"></span><span id="Acquisition"></span>
+<!-- #Acquisition -->
+​
 
+<!-- #acquisition -->
 ## Acquisition
 
 Smaller jars of Salt (0.25kg) can be found as loot usually in kitchens or food-related areas, while large [bags of salt](./Salt%20%28Bag%29.md) (10.00kg) can be acquired from [The Trader](./Trader.md).
 
 [Salt Deposits](./Salt%20Deposit.md) can be found on coastal rock formations (e.g. outdoors on [Jackrabbit Island](./Jackrabbit%20Island.md), or inside [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md)) and harvested with a bladed tool. Each Salt Deposit yields 2 units (0.50kg) of Salt, with multiple deposits appearing in groups.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -89,8 +93,16 @@ Smaller jars of Salt (0.25kg) can be found as loot usually in kitchens or food-r
 | [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

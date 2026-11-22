@@ -36,8 +36,10 @@
 
 **Cotton Scarf** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is one of the worst pieces of headgear in the game, with similar stats to the [Baseball Cap](./Baseball%20Cap.md); an additional 5% waterpoofness is the only difference between the two (Despite the description, there is no windproof bonus). Like the Baseball Cap, however, wearing the cotton scarf is slightly better than foregoing headgear altogether, as it will at least provide a tiny amount of benefit and prevent [Frostbite](./Frostbite.md) to the covered area.
@@ -46,8 +48,16 @@ It is one of the worst pieces of headgear in the game, with similar stats to the
 
 ![Model icon damaged](../assets/Cotton_Scarf_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

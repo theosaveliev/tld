@@ -35,8 +35,10 @@
 
 **Wood Matches** are a [Fire Starting](./Fire%20Starting.md) Tools and a small light source in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Each match weighs a mere 0.008 of a kilogram, but there are always 12 found together in one box. Using a wood match increases the base chance of successfully lighting a fire by five percent.
@@ -47,16 +49,20 @@ Lighting a match will cause the survivor to hold it closely in their hand, where
 
 Pressing H with a lit match will cause the survivor to flick the match into the distance, where it disappears and the light is extinguished.
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - [Firestrikers](./Firestriker.md) and Wood Matches are preferable to [Cardboard Matches](./Cardboard%20Matches.md) at low firestarting skill. This will likely save matches from failed fires, thanks to the firestrikers higher Bonus Chance.
 - Using a lit [Torch](./Torch.md) to start campfires is an effective way to save matches/firestriker durability.
 - New matches can be acquired from [Beachcombing](./Beachcombing.md) or from the [Trader](./Trader.md) (even on [Interloper](./Interloper.md)).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Wood Matches are branded as the product "_Trusty Matches"_.
@@ -64,8 +70,10 @@ Pressing H with a lit match will cause the survivor to flick the match into the 
 - If a player lights a match and holds onto it for too long, the match will burn their fingers, but will not result in any condition loss
 - When dropped on the ground, the box appears upside-down, obscuring the logo.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Wood matches' viewmodel](../assets/Matches_viewmodel.jpg)

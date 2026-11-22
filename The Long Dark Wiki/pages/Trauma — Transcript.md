@@ -28,8 +28,10 @@
 
 This is the mission transcript for mission 1 [Trauma](./Trauma.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _A story recap is present when starting Episode 3_
@@ -82,8 +84,10 @@ Mathis: "Don't worry, pilot. You'll be with her soon."
 
 _Mathis knocks Mackenzie out with the Hatchet and the scene fades to black, ending the story recap_
 
-<span id="molly"></span><span id="Molly"></span>
+<!-- #Molly -->
+​
 
+<!-- #molly -->
 ## Molly
 
 _The scene opens with an unknown figure walking through the woods in first person view, with a Hunting Rifle in hand and looking around. A crow can be heard cawing as they walk. The person finds a road and starts walking on it, with her breath getting more labored._
@@ -368,8 +372,19 @@ _Molly leaves the house and padlocks the door_
 
 Astrid: "Looks like I'm not the only one with secrets."
 
-<span id="mollys_farmhouse."></span><span id="Molly&#x27;s_Farmhouse."></span><span id="molly&#x27;s_farmhouse."></span><span id="mollys-farmhouse"></span>
+<!-- #mollys_farmhouse. -->
+​
 
+<!-- #Molly's_Farmhouse. -->
+​
+
+<!-- #molly's_farmhouse. -->
+​
+
+<!-- #Molly's_farmhouse. -->
+​
+
+<!-- #mollys-farmhouse -->
 ## Molly's Farmhouse.
 
 CHAPTER ONE
@@ -432,8 +447,19 @@ Astrid: "Ok...ok I'm on my way."
 
 Molly: "Go straight to the gun locker. Stay out of everything else. Got it?"
 
-<span id="molly_has_phoned_from_her_barn_and_she_needs_your_help."></span><span id="Molly_has_phoned_from_her_barn,_and_she_needs_your_help."></span><span id="molly_has_phoned_from_her_barn,_and_she_needs_your_help."></span><span id="molly-has-phoned-from-her-barn-and-she-needs-your-help"></span>
+<!-- #molly_has_phoned_from_her_barn_and_she_needs_your_help. -->
+​
 
+<!-- #Molly_has_phoned_from_her_barn,_and_she_needs_your_help. -->
+​
+
+<!-- #molly_has_phoned_from_her_barn,_and_she_needs_your_help. -->
+​
+
+<!-- #Molly_Has_Phoned_From_Her_Barn,_And_She_Needs_Your_Help. -->
+​
+
+<!-- #molly-has-phoned-from-her-barn-and-she-needs-your-help -->
 ## Molly has phoned from her barn, and she needs your help.
 
 _Molly hangs up, and Astrid puts the phone back on the Receiver. She goes to the living room and looks under the [Vase](./Vase.md)_
@@ -482,8 +508,19 @@ _Molly angrily hangs up, and Astrid puts the phone back on the Receiver. She not
 
 Astrid: "Hmm. An old flyer for a town meeting of some kind. Looks like the town's not too far from here. If Mackenzie did pass through, he might have ended up there."
 
-<span id="find_someone_who_can_help_guide_you_out_of_pleasant_valley."></span><span id="Find_someone_who_can_help_guide_you_out_of_Pleasant_Valley."></span><span id="find-someone-who-can-help-guide-you-out-of-pleasant-valley"></span>
+<!-- #find_someone_who_can_help_guide_you_out_of_pleasant_valley. -->
+​
 
+<!-- #Find_someone_who_can_help_guide_you_out_of_Pleasant_Valley. -->
+​
+
+<!-- #Find_someone_who_can_help_guide_you_out_of_pleasant_valley. -->
+​
+
+<!-- #Find_Someone_Who_Can_Help_Guide_You_Out_Of_Pleasant_Valley. -->
+​
+
+<!-- #find-someone-who-can-help-guide-you-out-of-pleasant-valley -->
 ## Find someone who can help guide you out of Pleasant Valley.
 
 _Astrid leaves the barn, with the raging blizzard dying down into light snowfall, obscuring the horizon but still providing plenty of visibility. If the player walks back to the Farmstead, all the doors are indeed padlocked from the outside as Molly said they were. Astrid eventually makes her way across the nearby road and bridge by following the [Community Hall Flyer](./Community%20Hall%20Flyer.md) map, and sees smoke off of the horizon._

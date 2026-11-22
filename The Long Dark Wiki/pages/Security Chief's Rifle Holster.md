@@ -38,14 +38,14 @@ Wintermute
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 > “**Although quite old, the Holster's original owner took great care to preserve the leatherwork. Its fine construction reduces the weight of your primary Rifle.**”
 
 The **Security Chief's Rifle Holster** is a type of accessory in _The Long Dark_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Security Chief's Rifle Holster is a [Clothing](./Clothing.md) item that when worn in either accessory slot, reduces the weight of an equipped [Hunting Rifle](./Hunting%20Rifle.md), or one of its variants, by 50%:
@@ -68,8 +68,10 @@ The Security Chief's Rifle Holster is a [Clothing](./Clothing.md) item that when
 
 The holster provides no other bonuses, such as [Warmth](./Warmth.md) or [Windproofing](./Clothing.md#Windproof). Like other clothing, the holster is vulnerable to damage from [Struggle](./Struggle.md) and [blizzards](./Weather.md), though it is sturdy and relatively easy to repair.
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ## Location
 
 The holster is found in the kitchen of [Bunker Omega](./Bunker%20Omega.md), having belonged to the Chief Security Officer overseeing the Rüdiger's Project. It is the ultimate prize for completing the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md).
@@ -80,8 +82,16 @@ Security Chief's Rifle Holster is not available on [Interloper](./Interloper.md)
 
 ![Clothing model icon damaged](../assets/Security_Chief%27s_Rifle_Holster_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

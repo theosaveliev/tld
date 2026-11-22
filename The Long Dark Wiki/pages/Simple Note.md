@@ -30,8 +30,10 @@
 
 **Simple Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in one of the locked cabins at the [Lake Cabins](./Lake%20Cabins.md) and is part of the [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) side mission.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Simple Note**_
@@ -44,8 +46,16 @@ I'm heading to the clear cut - put some supplies aside for us. Away from prying 
 
 - K"
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

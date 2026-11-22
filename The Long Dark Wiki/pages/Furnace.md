@@ -18,14 +18,27 @@ A **Furnace** is an unmovable [contained fire](./Fire.md#Contained_fires). Notab
 
 The furnace can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Furnaces have fixed locations that do not change between games.
 
-<span id="known_locations_incomplete"></span><span id="Known_locations_(incomplete)"></span><span id="known_locations_(incomplete)"></span><span id="known-locations-incomplete"></span>
+<!-- #known_locations_incomplete -->
+​
 
+<!-- #Known_locations_(incomplete) -->
+​
+
+<!-- #known_locations_(incomplete) -->
+​
+
+<!-- #Known_Locations_(incomplete) -->
+​
+
+<!-- #known-locations-incomplete -->
 ### Known locations (incomplete)
 
 - [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md)

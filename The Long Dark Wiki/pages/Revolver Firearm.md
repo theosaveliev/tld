@@ -16,16 +16,26 @@
 
 A firearm's ability to attack from range allows can frighten or killing wildlife from relative safety.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The [Revolver](./Revolver.md) is a self defense tool used to fire [Revolver Ammunition](./Revolver%20Ammunition.md) at targets. The high-velocity rounds travel in a straight line and can cause significant injury to smaller animals, including [wolves](./Wolf.md) and [timberwolves](./Timberwolf.md). However the weapon lacks of stopping power, making it ineffective against [bear](./Bear.md) and [moose](./Moose.md). Revolvers may also be selected to defend oneself during a Wolf [Struggle](./Struggle.md), and if loaded, the option to "Take Shot" may appear, which if selected will end the struggle immediately: scaring off or killing the wolf.
 
 Shots from the Revolver which hit an animal's head or torso (indicated by a bloodsplatter, or blood drops), are always lethal but due to the weapon's low stopping power, this may take several hours (in-game) for it to bleed to death.
 
-<span id="revolver_firearm_skill"></span><span id="Revolver_Firearm_Skill"></span><span id="revolver-firearm-skill"></span>
+<!-- #revolver_firearm_skill -->
+​
 
+<!-- #Revolver_Firearm_Skill -->
+​
+
+<!-- #Revolver_firearm_skill -->
+​
+
+<!-- #revolver-firearm-skill -->
 ## Revolver Firearm Skill
 
 Revolver skill is increased by scoring hits on live [wildlife](./Wildlife.md) with the Revolver, or by fully reading the research book _[Small Arms Handbook](./Small%20Arms%20Handbook.md)_. Multiple copies of the book can be read, each granting skill points when fully read.

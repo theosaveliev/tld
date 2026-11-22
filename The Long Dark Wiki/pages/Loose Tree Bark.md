@@ -16,8 +16,10 @@
 
 **Loose Tree Bark** is an interactable storage object that contain hidden loot when found by a [Mementos](./Mementos.md) note. A prompt will not appear until the associated note is found. They often mimic the appearance of regular stumps, and the prompt's location can be found somewhere on top of the stump or around the base of the stump.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 - One is found near [Muskeg Overlook](./Muskeg%20Overlook.md), with the note found near [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). (The prompt is near the back, middle side).

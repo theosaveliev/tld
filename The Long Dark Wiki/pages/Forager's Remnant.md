@@ -24,8 +24,10 @@ Region
 
 Has a workbench
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Overview of Forager's Remnant, with the rope climb to the ledge path towards Narrow Bridge in the background](../assets/Forager%27s_Remnant_overlook.jpg)

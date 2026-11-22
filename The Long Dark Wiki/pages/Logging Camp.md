@@ -20,8 +20,10 @@
 
 Has an interior The**Logging Camp** is a collection of several small trailers, presumably to shelter the loggers who once worked in the nearby [Clearcut](./Clearcut.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The camp consists of three small, temporary prefabricated trailer structures and a ruined building.
@@ -32,8 +34,10 @@ Valuable supplies can be scavenged from inside the camp, including warm clothes,
 
 The camp may make a fine temporary base, as it has many beds and access to plenty of firewood in the vicinity. However, there is no [work bench](./Work%20Bench.md), and only a small stove is available in the dilapidated building. The player must also be wary of [wolves](./Wolf.md) lurking nearby.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An alternative view of the logging camp.](../assets/Logging_Camp.png)

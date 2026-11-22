@@ -28,8 +28,10 @@
 
 **Foreman's Site Report Day 38** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found next to the bolt cutters.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Foreman's Site Report Day 38**_
@@ -44,9 +46,19 @@ He talked for a long time, but in the end we were able to restart our work on th
 
 Did I mention I need to get the hell out of here?
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
+
+[ru:Отчет бригадира, день 38](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0,_%D0%B4%D0%B5%D0%BD%D1%8C_38)

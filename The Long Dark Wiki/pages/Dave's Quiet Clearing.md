@@ -18,10 +18,14 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Dave's Quiet Clearing is a shallow cave which provides very little shelter. A [Frozen Corpse](./Frozen%20Corpse.md) or a [backpack](./Backpack.md) can be found inside and searched for what little loot it may contain. The clearing connects to the [Camp Office](./Camp%20Office.md) through the [Lake Trail](./Lake%20Trail.md) and to [Mystery Lake](./Mystery%20Lake%20%28location%29.md) through the [Western Access](./Mystery%20Lake%20%28Western%20Access%29.md).
 
 The clearing can be found south of the Camp Office and west of Mystery Lake. A [Prepper Cache](./Prepper%20Cache.md) can be found on the hill to the east of the cave.
+
+[ru:Тихая поляна Дейва](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0_%D0%94%D0%B5%D0%B9%D0%B2%D0%B0)

@@ -34,8 +34,10 @@
 
 **Whiteout** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “**Stockpile the food, water, and supplies listed in your journal. Store them in the Coastal Highway Quonset Garage (the starting location).**”
@@ -50,14 +52,18 @@ As the challenge progresses, the weather gets harsher and hostile animals spawn 
 
 Note that the player does not have to survive the prophesied blizzard nor the entire allotted 30 days. Once all the items on the list are inside the gas station, the challenge ends. If the player fails to fully stock the Gas Station within 30 days, the Challenge will fail and must be restarted. ![Almanac](../assets/Almanac.jpg)
 
-<span id="almanac"></span><span id="Almanac"></span>
+<!-- #Almanac -->
+​
 
+<!-- #almanac -->
 ### Almanac
 
-There is a new section of the [Journal](./Journal.md) exclusive to this Challenged called The "[Almanac](./Almanac.md)" which will tell the player the likelihood of a blizzard in the next 30 days, as well as its intensity on a scale from 1 to 5. This is similar to the [Saffir-Simpson wind scale](wikipedia:SSHS) used to measure the strength of hurricanes.
+There is a new section of the [Journal](./Journal.md) exclusive to this Challenged called The "[Almanac](./Almanac.md)" which will tell the player the likelihood of a blizzard in the next 30 days, as well as its intensity on a scale from 1 to 5. This is similar to the [Saffir-Simpson wind scale](https://en.wikipedia.org/wiki/SSHS) used to measure the strength of hurricanes.
 
-<span id="items"></span><span id="Items"></span>
+<!-- #Items -->
+​
 
+<!-- #items -->
 ## Items
 
 All of the following Items are required to complete the challenge:![Whiteout journal list](../assets/Whiteout_journal_list.jpg)
@@ -76,48 +82,68 @@ All of the following Items are required to complete the challenge:![Whiteout jou
 - 25 liters [Water (Potable)](./Water%20%28Potable%29.md) (6.6 gal)
 - 5 liters [Lantern Fuel](./Lantern%20Fuel.md) (1.3 gal)
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ### Tips
 
 Items can be dropped onto the floor of the gas station or put inside containers in the gas station to be counted. Items in the survivor's inventory are not counted. The journal contains a live count; items removed from the gas station will be subtracted from the list progress. If the player is struggling to find resources, a trip to the [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md) will provide everything necessary to complete the challenge.
 
-<span id="food"></span><span id="Food"></span>
+<!-- #Food -->
+​
 
+<!-- #food -->
 #### Food
 
 The list does not seem to care whether meat is ruined or not so long as it is not picked up and placed back down. If Ruined food disappears while in containers, it will subtract from the total calories needed to complete the stored food objective. Taking food out and eating it also subtracts from the total.
 
 One day's worth of food translates to roughly 3000 calories. Drinks such as sodas will contribute to the count, but [Herbal Tea](./Herbal%20Tea.md) and [Tin of Coffee](./Tin%20of%20Coffee.md) will not unless they are prepared into [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) or [Cup of Coffee](./Cup%20of%20Coffee.md). [Reishi Tea](./Reishi%20Tea.md), [Rose Hip Tea](./Rose%20Hip%20Tea.md), [Burdock Tea](./Burdock%20Tea.md), and [Birch Bark Tea](./Birch%20Bark%20Tea.md) do count as calories for purposes of food. Lots of food can be found in the houses around the region, but this will not be enough to complete the challenge. Killing a [moose](./Moose.md) or [bear](./Bear.md) will provide ample food, and more can be found in the houses at [Thomson's Crossing](./Thomson%27s%20Crossing.md) and the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md) in [Pleasant Valley](./Pleasant%20Valley.md).
 
-<span id="firewood"></span><span id="Firewood"></span>
+<!-- #Firewood -->
+​
 
+<!-- #firewood -->
 #### Firewood
 
 Softwood/Hardwood includes [Cedar Firewood](./Cedar%20Firewood.md) and [Fir Firewood](./Fir%20Firewood.md), but not [Firelogs](./Firelog.md). Reclaimed Wood is easily obtained from the [Pallets](./Pallets.md) outside the garage, while sticks and limbs are common throughout the forest around the [Coastal Townsite](./Coastal%20Townsite.md).
 
-<span id="weapons_and_ammunition"></span><span id="Weapons_and_ammunition"></span><span id="weapons-and-ammunition"></span>
+<!-- #weapons_and_ammunition -->
+​
 
+<!-- #Weapons_and_ammunition -->
+​
+
+<!-- #Weapons_And_Ammunition -->
+​
+
+<!-- #weapons-and-ammunition -->
 #### Weapons and ammunition
 
 A Hunting Rifle must be stored for this objective, a Revolver will not count. Extra rifles spawn in Coastal Highway compared with a normal survival game, rifles are extremely rare in other regions.
 
 Rifle cartridges may be loaded into the hunting rifle or unloaded. If there aren't enough cartridges in Coastal Highway, sufficient numbers can usually be found in [Desolation Point](./Desolation%20Point.md) or [Pleasant Valley](./Pleasant%20Valley.md).
 
-<span id="kerosene"></span><span id="Kerosene"></span>
+<!-- #Kerosene -->
+​
 
+<!-- #kerosene -->
 #### Kerosene
 
 [Lantern Fuel](./Lantern%20Fuel.md) that is within the [Storm Lantern](./Storm%20Lantern.md) counts toward the Lantern Fuel requirement. If the player does not have enough, Ice fishing near the garage will yield more lamp oil. [Jerry Cans](./Jerry%20Can.md) will also add to the total Lamp Fuel needed.
 
-<span id="tools"></span><span id="Tools"></span>
+<!-- #Tools -->
+​
 
+<!-- #tools -->
 #### Tools
 
 If the player can't find a [Hatchet](./Hatchet.md), it may be easier to head to [Desolation Point](./Desolation%20Point.md) and forge an [Improvised Hatchet](./Improvised%20Hatchet.md) at [The Riken](./The%20Riken.md), as the Improvised Hatchet counts as an acceptable substitute. The [Heavy Hammer](./Heavy%20Hammer.md) required for forging the hatchet can usually be found either at The Riken or nearby in [Hibernia Processing](./Hibernia%20Processing.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_whiteout.png)

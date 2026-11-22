@@ -16,24 +16,32 @@
 
 **Type:** Landmark
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Rail Tunnel consists of a titular railway tunnel leading to [Forlorn Muskeg](./Forlorn%20Muskeg.md) and several log wagons. There may be some loot nearby to scavenge inside of containers scattered around the carriages. Some [Rose Hip](./Rose%20Hip.md) bushes are near the tunnel and sometimes a [First Aid Kit](./First%20Aid%20Kit.md) spawns in the snow near the bushes. Usually a single piece of [Cedar Firewood](./Cedar%20Firewood.md) is on the floor inside the tunnel.
 
 The inside of the tunnel provides some shelter from the wind.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 The Rail Tunnel was originally a collapsed tunnel called "Tunnel Collapse" in the 2014 pre alpha version of _The Long Dark_, before Forlorn Muskeg was introduced.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An alternative view of Rail Tunnel.](../assets/Tunnel_collapse_02.jpg)
 
 ![The location was known as "Tunnel Collapse" before the Forlorn Muskeg update.](../assets/Rail_Tunnel_Collapse.jpg)
+
+[ru:Железнодорожный тоннель](https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C) [es:A la ciénaga desolada (desde Lago misterioso)](https://es.wikipedia.org/wiki/A_la_ci%C3%A9naga_desolada_%28desde_Lago_misterioso%29)

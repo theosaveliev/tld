@@ -24,16 +24,20 @@ Has a bed
 
 Has an interior The **Cannery Pier** is a section of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md), and houses the [Workshop](./Workshop.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The pier is inaccessible to the player and [timberwolves](./Timberwolf.md) while following the ground level pier. It can only be accessed by the player by climbing the [Rope Climbing](./Rope%20Climbing.md) section in the warehouse and passing through an obstacle course. The obstacle course will take you over a downed crane, a derelict house and several cargo containers connected by boards in order to reach pier. The pier offers access to the Workshop in which the [Milling Machine](./Milling%20Machine.md) and [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) are found. Additionally, a normal [Work Bench](./Work%20Bench.md), along with two [Fire Barrels](./Fire%20Barrel.md), can be found; one inside the workshop, the other just outside the door.
 
 A [Keypad](./Keypad.md) and [Cannery Memo](./Cannery%20Memo.md) are found inside a warm area with a Fire Barrel, and the code to the keypad is found in the mountains at [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md). At the end of the Pier is a [Backpack](./Backpack.md) and some supplies, but nothing else aside from some [Pallets](./Pallets.md) is behind the Workshop.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - As the pier is a safe spot from Timberwolves, and it provides a good view of both the ice surrounding and some parts the cannery compound, it can be used as an easy way to snipe wolves before leaving the area. The main issue with this location that prevents it from being a useful place to store items is of course the obstacle course, as it lacks an unlockable shortcut and must be traveled through again to reach the pier.

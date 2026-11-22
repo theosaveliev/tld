@@ -18,8 +18,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The blind is found on the north side of a small lake. There may be a [Frozen Corpse](./Frozen%20Corpse.md) inside the blind. A [Firestriker](./Firestriker.md) may spawn inside (even on [Interloper](./Interloper.md) difficulty). It can provide some safety when hunting the [Bear](./Bear.md) and [wolves](./Wolf.md) that wander around nearby, but caution is advised, for the predators can climb the stairs into the blind on occasion. A [Warm Cave](./Warm%20Cave.md) is found just behind the Blind, and can be a great place for shelter if the weather turns bad.

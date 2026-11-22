@@ -28,8 +28,10 @@
 
 **The Technician's Notebook** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the [Workshop](./Workshop.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **The Technician's Notebook**_
@@ -40,9 +42,19 @@ Wolves won't let up. I put up a track to get above them, but they won't leave. M
 
 Just leave this here in case it gets worse.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.
+
+[ru:Блокнот техника](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)

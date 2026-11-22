@@ -18,14 +18,18 @@ Has a bed
 
 Has an interior The **Cabin (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md) at the [Old Settlement](./Old%20Settlement.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The area around the Old Settlement consists of 3 ruined buildings and one intact two story cabin. The area around the settlement is patrolled by several large packs of [Timberwolves](./Timberwolf.md), making coming and going very difficult.
 
-<span id="cabin"></span><span id="Cabin"></span>
+<!-- #Cabin -->
+​
 
+<!-- #cabin -->
 ## Cabin
 
 The ground floor of the cabin is snowed-in, so the two doors are covered by snow and are unusable. Walking behind the cabin and onto the roof the player can find an open window to walk inside.

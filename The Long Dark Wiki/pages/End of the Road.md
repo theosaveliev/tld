@@ -16,10 +16,14 @@
 
 **Type:** Landmark
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 End of the Road is located at the most eastern end of the region. The closest landmark is [Derelict Cabins](./Derelict%20Cabins.md) to the north.
 
 A [Car](./Car.md) and a possible [Frozen Corpse](./Frozen%20Corpse.md) can be found here. Sometimes, the car will contain a [Hunting Knife](./Hunting%20Knife.md).
+
+[ru:Конец дороги](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%86_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8)

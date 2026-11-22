@@ -22,35 +22,45 @@
 
 **Forest Talkers** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). There are six notes to be found in total.
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Find collectibles telling the Forest Talkers' side of the story.
 - Find collectibles telling the locals' side of the story.
 
-<span id="locations_of_notes"></span><span id="Locations_of_Notes"></span><span id="locations-of-notes"></span>
+<!-- #forest_talkers -->
+​
 
-## Locations of Notes
+<!-- #Forest_Talkers -->
+​
 
-<span id="forest_talkers"></span><span id="Forest_Talkers"></span><span id="forest-talkers"></span>
+<!-- #Forest_talkers -->
+​
 
+<!-- #forest-talkers -->
 ### Forest Talkers
 
 - [Forest Talker Collectible, Part One](./Forest%20Talker%20Collectible%2C%20Part%20One.md) is in a barn with a deer carcass at the [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md)
 - [Forest Talker Collectible, Part Two](./Forest%20Talker%20Collectible%2C%20Part%20Two.md) is past the workbench near a metal container on the upper floor of the barn at [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md).
 - [Forest Talker Collectible, Part Three](./Forest%20Talker%20Collectible%2C%20Part%20One.md) is hidden in an air vent in one of [Joplin's caches](./Joplin%27s%20Bunker%20Raid.md)
 
-<span id="locals"></span><span id="Locals"></span>
+<!-- #Locals -->
+​
 
+<!-- #locals -->
 ### Locals
 
 - [Pleasant Valley Collectible, Part One](./Pleasant%20Valley%20Collectible%2C%20Part%20One.md) is on the wall of the [Rural Store](./Rural%20Store.md) at [Thomson's Crossing](./Thomson%27s%20Crossing.md)
 - [Pleasant Valley Collectible, Part Two](./Pleasant%20Valley%20Collectible%2C%20Part%20Two.md) is in the office on a desk in the [Community Hall](./Community%20Hall.md)
 - [Pleasant Valley Collectible, Part Three](./Pleasant%20Valley%20Collectible%2C%20Part%20Three.md) is in the control room for the radio tower on [Signal Hill](./Signal%20Hill.md) which you go to [later in the story](./Aftermath.md).
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - [Every Last One](./Every%20Last%20One.md)

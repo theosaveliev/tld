@@ -28,8 +28,10 @@
 
 **Wyatt's Lost Papers 3** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wyatt's Lost Papers 3**_
@@ -41,7 +43,3 @@ _The following text is transcribed from **Wyatt's Lost Papers 3**_
 But loyalty matters. And has to keep mattering when everything else falls apart. When the laws fall away and every man stands eye to eye.
 
 - Wyatt
-
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
-
-## Game history

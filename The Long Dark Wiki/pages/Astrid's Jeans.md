@@ -34,16 +34,16 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 > “**Simple jeans. Not fit for winter survival, but better than nothing.**”
 >
 > — In-game description
 
 **Astrid's Jeans** are a [Clothing](./Clothing.md) item worn on the player's legs obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Astrid's jeans are equipped as default clothing when the player regains consciousness after being saved by [Molly](./Molly.md) from dying of exposure during [Trauma](./Trauma.md), the first chapter of [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). They can not be acquired in Survival Mode, nor at any later stage in the [Story](./Wintermute.md).
@@ -54,8 +54,16 @@ The statistics of Astrid's jeans are identical to those of [Jeans](./Jeans.md).
 
 ![Clothing model icon damaged](../assets/Astrid%27s_Jeans_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

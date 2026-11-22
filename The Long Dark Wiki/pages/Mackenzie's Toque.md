@@ -40,7 +40,6 @@
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-
 “
 
 **The Toque you were wearing when you crashed in your plane.**<br>In-game description
@@ -49,16 +48,23 @@
 
 **Mackenzie's Toque**is a [Clothing](./Clothing.md) item worn on the player's head obtained exclusively in [Wintermute](./Wintermute.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Mackenzie's Toque is equipped as default clothing when the player awakens from the plane crash during [Memories](./Memories.md), the first chapter of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 The statistics of Mackenzie's Toque are in between those of a [Wool Toque](./Wool%20Toque.md) and the [Cotton Toque](./Cotton%20Toque.md).
 
-<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+<!-- #episode_1 -->
+​
 
+<!-- #Episode_1 -->
+​
+
+<!-- #episode-1 -->
 ## Episode 1
 
 Mackenzie's Toque is not found when starting the mission [Memories](./Memories.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
@@ -67,14 +73,24 @@ The Toque instead first appears automatically equipped on the player during the 
 
 It can be carried into Episode 2 if the player holds onto it by the end of Episode 1.
 
-<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+<!-- #episode_2 -->
+​
 
+<!-- #Episode_2 -->
+​
+
+<!-- #episode-2 -->
 ## Episode 2
 
 If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) out of order, Mackenzie starts the Episode wearing his Toque.
 
-<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+<!-- #episode_4 -->
+​
 
+<!-- #Episode_4 -->
+​
+
+<!-- #episode-4 -->
 ## Episode 4
 
 Mackenzie's Toque is missing when playing [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), being discarded by [Mathis](./Mathis.md) (along with [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)) after Mackenzie is stripped of his gear and transported.
@@ -83,8 +99,16 @@ Mackenzie's Toque is missing when playing [Episode 4: Fury, Then Silence](./Epis
 
 ![Clothing model damaged](../assets/Mackenzie%27s_Toque_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

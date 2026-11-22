@@ -36,8 +36,10 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the book _Local Legends - The Lost Cave_ from the Rural Store at [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md), and are tasked to investigate a hidden glowing cave next to the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Local Legends - The Lost Cave**_
@@ -46,8 +48,16 @@ A rite of passage for the few younger folk who remained in Pleasant Valley durin
 
 A way to leave, without leaving.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

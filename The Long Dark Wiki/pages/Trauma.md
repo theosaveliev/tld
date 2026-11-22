@@ -24,8 +24,10 @@
 
 **Trauma** is the first mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Molly](./Molly.md) and learns about her predicament.
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Molly's Farmhouse
@@ -42,8 +44,10 @@
   - Find [Thomson's Crossing](./Thomson%27s%20Crossing.md).
   - Investigate the Community Hall.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -55,8 +59,10 @@ The episode starts in Pleasant Valley Farmstead with a cutscene. When Molly leav
 
 Leave the barn and head up the road past [Heartbreak Bridge](./Heartbreak%20Bridge.md). Keep going past [Contemplation Bridge](./Contemplation%20Bridge.md) to [Thomson's Crossing](./Thomson%27s%20Crossing.md). Enter the [Community Hall](./Community%20Hall.md) and talk to [Father Thomas](./Father%20Thomas.md) to advance to Chapter 2: [Fallen Star](./Fallen%20Star.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - [Mathis](./Mathis.md) is voiced by Gord Marriott in story recap intro, despite the cutscene being from the reworked Redux Episode 2 and Elias Toufexis having voiced him in that version.

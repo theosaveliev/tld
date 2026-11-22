@@ -36,8 +36,10 @@
 
 **Carrot** is a raw [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_, found inside [Vegetable Rack](./Vegetable%20Rack.md) containers or pre-placed in the world.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Carrot is a relatively long lasting vegetable found either in groups of 2-8 inside vegetable storage containers or "pre-placed" lying usually on tables in kitchen or dining areas or inside a crate, possibly alongside **[Potato](./Potato.md)**.
@@ -46,8 +48,10 @@ Carrots are a non-renewable resource unless the [Trader](./Trader.md) is enabled
 
 While a Carrot can be eaten raw, they can also be used in the creation of certain unique cooking recipes like the [Thomson Family Stew](./Thomson%20Family%20Stew.md).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -56,8 +60,16 @@ While a Carrot can be eaten raw, they can also be used in the creation of certai
 | [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 1 × [Potato](./Potato.md)<br>- 0.20 kg × [Carrot](./Carrot.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md)<br>- 0.40 kg × [Carrot](./Carrot.md)<br>- 2 × [Potato](./Potato.md)<br>- 2 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

@@ -14,8 +14,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Unnamed Pond is located southwest of the [Forestry Lookout](./Forestry%20Lookout.md) and far north-northeast of [Trapper's Homestead](./Trapper%27s%20Homestead.md). The only structure is a hunter's blind found on the shore of the pond, surrounded by several tree stumps and fallen trees.
@@ -28,11 +30,21 @@ Deer can be spotted nearby on occasion and a deer carcass can be found close to 
 
 [Green Birch Sapling](./Green%20Birch%20Sapling.md) can sometimes be found between the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and Unnamed Pond. Slightly further north, over the hill on the side of the pond stage left of the Hunter's blind, there is a small cabin that offers shelter and possibly a few supplies, as well.
 
-<span id="possible_loot"></span><span id="Possible_loot"></span><span id="possible-loot"></span>
+<!-- #possible_loot -->
+​
 
+<!-- #Possible_loot -->
+​
+
+<!-- #Possible_Loot -->
+​
+
+<!-- #possible-loot -->
 ## Possible loot
 
 - [Survival Bow](./Survival%20Bow.md)
 - [Hatchet](./Hatchet.md)
 - [Rifle Round](./Rifle%20Ammunition.md)
 - [Hunting Knife](./Hunting%20Knife.md)
+
+[ru:Безымянный пруд](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%83%D0%B4)

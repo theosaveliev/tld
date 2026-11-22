@@ -24,22 +24,34 @@
 
 **Lost Power Workers** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 To start the mission, the player must find the [Old Substation Work Memo](./Old%20Substation%20Work%20Memo.md) on a bench right inside the [Old Substation](./Old%20Substation.md).
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Find the missing power company workers.
   - Locate worker 1
   - Locate worker 2
 
-<span id="worker_locations"></span><span id="Worker_Locations"></span><span id="worker-locations"></span>
+<!-- #worker_locations -->
+​
 
+<!-- #Worker_Locations -->
+​
+
+<!-- #Worker_locations -->
+​
+
+<!-- #worker-locations -->
 ## Worker Locations
 
 - Worker 1
@@ -49,8 +61,16 @@ To start the mission, the player must find the [Old Substation Work Memo](./Old%
   - Worker 2 is located in the trailer up the road from the [Power Plant](./Power%20Plant.md) right where the map points. To get to the trailer climb up the rosebush/roots and then before crossing the ravine over the second tree, make a sharp 180° turn and on the left side you should be able to climb up a steep path and then cross 2 fallen trees, then walk through the (top) rock arch and continue left. The corpse inside is dead via heavy bleeding from her arm and her corpse contains a Power Company ID identifying her as Linda Burnley, Journeyman Electrician.
   - Due to the [Revolver](./Revolver.md) she carries with 3 cartridges inside, a bloody bandage, a spare bandage nearby, and the large amount of blood on the ground, it may be presumed that she was attacked by wildlife or shot herself after the [Convicts](./Convicts.md) overtook the Prison. She may have also have been shot by Samual for unknown reasons (likely memory issues).
 
-<span id="notable_loot"></span><span id="Notable_loot"></span><span id="notable-loot"></span>
+<!-- #notable_loot -->
+​
 
+<!-- #Notable_loot -->
+​
+
+<!-- #Notable_Loot -->
+​
+
+<!-- #notable-loot -->
 ## Notable loot
 
 - Worker 1

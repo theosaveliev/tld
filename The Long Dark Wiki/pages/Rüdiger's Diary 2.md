@@ -24,8 +24,10 @@
 
 **Rüdiger's Diary 2** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found on the [High Peak Plateau](./High%20Peak%20Plateau.md) while following the Tale.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Rüdiger's Diary 2**_
@@ -54,9 +56,19 @@ There is a terrible shadow across my mind. Gnawing on its edges.
 
 I cannot...focus my thoughts. My dreams are strange. A deep, wide ocean, unending.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
+
+[ru:Дневник Рюдигера 2](https://ru.wikipedia.org/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%A0%D1%8E%D0%B4%D0%B8%D0%B3%D0%B5%D1%80%D0%B0_2)

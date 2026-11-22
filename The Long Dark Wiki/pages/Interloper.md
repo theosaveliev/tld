@@ -27,8 +27,10 @@
 
 **Interloper** is the 4th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "expert" difficulty setting, being a major departure from the previous 3 Experiences by introducing multiple handicaps to make the game even harder than normal.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Interloper doesn't just raise the difficulty of [Stalker](./Stalker.md) to the next level, but also reduces that overall resource and tool availability in the game world, with several tools and clothing outright never spawning. As such, players are faced with an extremely cold world with limited loot, abundant hostile wildlife, and a smaller loot pool present compared to the other Experiences. Most high quality tools and clothing will never appear in game, making it a necessity to craft and forge animal hide clothing and improvised tools for survival. [Foraging](./Foraging.md) and [Hunting](./Hunting.md) become the main methods to acquire food, as most homes have very little, if any food in them.
@@ -37,8 +39,16 @@ Interloper's learning curve is a sharp one, forcing players to relearn how to su
 
 _A guide for players new to Interloper can be found [here](./Survival%20Mode%20%E2%80%94%20Interloper%20Tips.md)._
 
-<span id="interloper_settings"></span><span id="Interloper_Settings"></span><span id="interloper-settings"></span>
+<!-- #interloper_settings -->
+​
 
+<!-- #Interloper_Settings -->
+​
+
+<!-- #Interloper_settings -->
+​
+
+<!-- #interloper-settings -->
 ## Interloper Settings
 
 - [Great Bear Island](./Great%20Bear%20Island.md) has few items to be found (only ~20% of containers will contain any items).
@@ -80,14 +90,27 @@ _A guide for players new to Interloper can be found [here](./Survival%20Mode%20%
 - The option to enable the [Trader](./Trader.md), [Cougar](./Cougar.md), and [Scurvy](./Scurvy.md) on or off is present.
 - Allows 2 active [Feats](./Feats.md).
 
-<span id="list_of_banned_items"></span><span id="List_of_Banned_Items"></span><span id="list-of-banned-items"></span>
+<!-- #list_of_banned_items -->
+​
 
+<!-- #List_of_Banned_Items -->
+​
+
+<!-- #List_of_banned_items -->
+​
+
+<!-- #List_Of_Banned_Items -->
+​
+
+<!-- #list-of-banned-items -->
 ## List of Banned Items
 
 The following is a list of items that do not appear whatsoever when playing on Interloper:
 
-<span id="tools"></span><span id="Tools"></span>
+<!-- #Tools -->
+​
 
+<!-- #tools -->
 ### Tools
 
 - [Hunting Knife](./Hunting%20Knife.md)/[Hatchet](./Hatchet.md)/[Survival Knife](./Survival%20Knife.md)
@@ -97,20 +120,26 @@ The following is a list of items that do not appear whatsoever when playing on I
 - [Woodwright's Bow](./Woodwright%27s%20Bow.md)/[Sport Bow](./Sport%20Bow.md)
 - [Flashlight](./Flashlight.md)/[Miner's Flashlight](./Miner%27s%20Flashlight.md)
 
-<span id="clothing"></span><span id="Clothing"></span>
+<!-- #Head -->
+​
 
-### Clothing
-
-<span id="head"></span><span id="Head"></span>
-
+<!-- #head -->
 #### Head
 
 - [Balaclava](./Balaclava.md)
 - [Fleece Cowl](./Fleece%20Cowl.md)
 - [Long Wool Scarf](./Long%20Wool%20Scarf.md)
 
-<span id="outer_torso"></span><span id="Outer_Torso"></span><span id="outer-torso"></span>
+<!-- #outer_torso -->
+​
 
+<!-- #Outer_Torso -->
+​
+
+<!-- #Outer_torso -->
+​
+
+<!-- #outer-torso -->
 #### Outer Torso
 
 - [Expedition Parka](./Expedition%20Parka.md)
@@ -121,8 +150,16 @@ The following is a list of items that do not appear whatsoever when playing on I
 - [Tactical Jacket](./Tactical%20Jacket.md)
 - [Urban Parka](./Urban%20Parka.md)
 
-<span id="inner_torso"></span><span id="Inner_Torso"></span><span id="inner-torso"></span>
+<!-- #inner_torso -->
+​
 
+<!-- #Inner_Torso -->
+​
+
+<!-- #Inner_torso -->
+​
+
+<!-- #inner-torso -->
 #### Inner Torso
 
 - [Cowichan Sweater](./Cowichan%20Sweater.md)
@@ -130,50 +167,70 @@ The following is a list of items that do not appear whatsoever when playing on I
 - [Thick Wool Sweater](./Thick%20Wool%20Sweater.md)
 - [Wool Shirt](./Wool%20Shirt.md)
 
-<span id="gloves"></span><span id="Gloves"></span>
+<!-- #Gloves -->
+​
 
+<!-- #gloves -->
 #### Gloves
 
 - [Gauntlets](./Gauntlets.md)
 - [Ski Gloves](./Ski%20Gloves.md)
 - [Wool Mittens](./Wool%20Mittens.md)
 
-<span id="outerlegs"></span><span id="OuterLegs"></span>
+<!-- #OuterLegs -->
+​
 
+<!-- #Outerlegs -->
+​
+
+<!-- #outerlegs -->
 #### OuterLegs
 
 - [Cargo Pants](./Cargo%20Pants.md)
 - [Snow Pants](./Snow%20Pants.md)
 - [Work Pants](./Work%20Pants.md)
 
-<span id="innerlegs"></span><span id="InnerLegs"></span>
+<!-- #InnerLegs -->
+​
 
+<!-- #Innerlegs -->
+​
+
+<!-- #innerlegs -->
 #### InnerLegs
 
 - [Wool Longjohns](./Wool%20Longjohns.md)
 
-<span id="socks"></span><span id="Socks"></span>
+<!-- #Socks -->
+​
 
+<!-- #socks -->
 #### Socks
 
 - [Climbing Socks](./Climbing%20Socks.md)
 
-<span id="shoes"></span><span id="Shoes"></span>
+<!-- #Shoes -->
+​
 
+<!-- #shoes -->
 #### Shoes
 
 - [Insulated Boots](./Insulated%20Boots.md)
 - [Mukluks](./Mukluks.md)
 - [Ski Boots](./Ski%20Boots.md)
 
-<span id="accessories"></span><span id="Accessories"></span>
+<!-- #Accessories -->
+​
 
+<!-- #accessories -->
 #### Accessories
 
 - [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
-<span id="food"></span><span id="Food"></span>
+<!-- #Food -->
+​
 
+<!-- #food -->
 ### Food
 
 - [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md)
@@ -188,8 +245,16 @@ The following is a list of items that do not appear whatsoever when playing on I
 
 Any other high quality items not listed here have a VERY low chance of appearing. Some high quality items still spawn, such as an [Emergency Kit](./Emergency%20Kit.md) spawning a [Distress Pistol](./Distress%20Pistol.md), but no [Flare Shells](./Flare%20Shell.md) will be in the case (or vice versa).
 
-<span id="starting_spawn_location"></span><span id="Starting_spawn_location"></span><span id="starting-spawn-location"></span>
+<!-- #starting_spawn_location -->
+​
 
+<!-- #Starting_spawn_location -->
+​
+
+<!-- #Starting_Spawn_Location -->
+​
+
+<!-- #starting-spawn-location -->
 ## Starting spawn location
 
 The player cannot select which region they will spawn in. Instead, the game will spawn them in one of the following Lower Great Bear regions at random:
@@ -202,8 +267,16 @@ The player cannot select which region they will spawn in. Instead, the game will
 - [Pleasant Valley](./Pleasant%20Valley.md)
 - [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-<span id="game_settings"></span><span id="Game_Settings"></span><span id="game-settings"></span>
+<!-- #game_settings -->
+​
 
+<!-- #Game_Settings -->
+​
+
+<!-- #Game_settings -->
+​
+
+<!-- #game-settings -->
 ## Game Settings
 
 | DIFFICULTY | INTERLOPER |

@@ -33,16 +33,20 @@
 
 **The Best Defense** is the second mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) must obtain the hunting spear mentioned in a legend about the demon bear, repair it, and return to Jeremiah.
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Retrieve the [legendary spear](./Broken%20Bear%20Spear.md) from the [Hunting Lodge](./Hunting%20Lodge.md).
 - Repair the broken spear at the [forge](./Forge.md).
 - Get back to [Jeremiah](./Jeremiah.md).
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -62,14 +66,18 @@ The player must then make their way back to the Maintenance Yard to repair the s
 
 After repairing the spear, return to the railroad, and follow the tracks back through Forlorn Muskeg to Mystery Lake. Then return to the [Trapper's Homestead](./Trapper%27s%20Homestead.md). Entering the Homestead will start a cutscene and end the mission.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - It is possible to return through the cave system back to [Mountain Town](./Mountain%20Town.md), but the climbing rope leading to [Milton Park](./Milton%20Park.md) is still snapped. [Milton Basin](./Milton%20Basin.md) cannot be accessed in the Muskeg as the path is blocked by a mountain, so it is impossible to return to [Milton](./Milton.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Methuselah's camp in Broken Railroad](../assets/Methuselah_broken_railroad.jpg)

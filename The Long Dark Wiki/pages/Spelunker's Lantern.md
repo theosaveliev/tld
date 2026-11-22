@@ -17,8 +17,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Spelunker's Lantern**
 
 [Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png)
@@ -51,8 +49,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Spelunker's Lantern** is a unique variant of the [Storm Lantern](./Storm%20Lantern.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Spelunker's Lantern is a mobile source of light and [Warmth](./Warmth.md) which does not require Matches or other firestarters to ignite. The lantern's flame is also windproof, but unlike [Flares](./Flare.md) it will not deter [wolves](./Wolf.md). The lantern requires no external ignition source due to the internal auto-igniter, unlike [Torches](./Torch.md). This allows the Spelunker's Lantern to be quickly extinguished and ignited at any point, so long as there is a sufficient internal fuel store. Lanterns can be placed ("RMB") on any flat surface, even when lit, such as to provide light while crafting or reading at night. Lanterns can be refueled with [Lantern Fuel](./Lantern%20Fuel.md) or a [Jerry Can](./Jerry%20Can.md).
@@ -69,15 +69,19 @@ The Spelunker's Lantern can be quickly extinguished without needing to stop the 
 
 Since version 2.17 the Spelunker's Lantern will spawn in [Interloper](./Interloper.md). It will also spawn on [Misery](./Misery.md).
 
-<span id="differences"></span><span id="Differences"></span>
+<!-- #Differences -->
+​
 
+<!-- #differences -->
 ## Differences
 
 - 40% more fuel efficient than Storm Lanterns (5 hour 36 minutes of fuel from a full tank VS 4 hours from Storm Lantern)
 - 40% less light radius and brightness than Storm Lanterns due to lower fuel consumption (even at full capacity)
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Only one Spelunker's Lantern will appear per game world, and its location is randomized between multiple locations in north-eastern Great Bear Island:
@@ -92,16 +96,20 @@ Only one Spelunker's Lantern will appear per game world, and its location is ran
   - [Echo Peak East](./Echo%20Peak%20East.md) at the top of the peak behind rocks at the cave ([Loot Table](./Loot%20Table.md) 4 on Interloper)
   - [Cave](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md) between [Secluded Shelf](./Secluded%20Shelf.md) and the area below [Summit](./Summit.md) (Not on Interloper/Misery)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 You can skip the Extinguish animation (which forces you to stop) by simply holstering the Lantern outright.
 
 The lantern's description is an [Easter Egg](./Easter%20Eggs.md), being a reference to The Lord of the Rings.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The lighting when using a Spelunker's Lantern](../assets/Spelunker%27s_Lantern_Light_Test_Dim.jpg)
@@ -114,8 +122,16 @@ The lantern's description is an [Easter Egg](./Easter%20Eggs.md), being a refere
 
 ![Ditto](../assets/Timberwolf_Cave2_230727.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**

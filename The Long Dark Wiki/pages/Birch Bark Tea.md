@@ -32,8 +32,10 @@
 
 **Birch Bark Tea** is a natural medical and food item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Birch Bark Tea is a renewable crafted medical and food/drink item which when consumed, restores 100 Calories, 30% Hydration and grants the benefit "[Restore Condition](./Restore%20Condition.md)". Additionally it may grant benefit "[Warming Up](./Warming%20Up.md)" if the beverage is also hot. Cooking Birch Bark Tea increases [Cooking](./Cooking.md) Skill.
@@ -44,12 +46,13 @@ To cook Birch Bark Tea, one [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) 
 
 No form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Birch Bark Tea**
-
 
 12.5 minutes
 
@@ -63,8 +66,10 @@ No form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 
 **Quantity:** 1
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - The effects of Restore Condition are continuous, despite the player being awake, asleep, or even actively losing Condition (e.g. from a [Need](./Needs.md) not being met).
@@ -73,14 +78,18 @@ No form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 - Teas are more weight efficient than Water for the Hydration they grant. (0.1kg of a tea grants 30% Hydration, equivalent to 0.25kg of water).
 - Birch Bark, Prepared Birch Bark, and Birch Bark Tea never [decay](./Decay.md).
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 - Introduced. [1.48](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) (6 May, 2019)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - It is possible to survive exclusively on Birch Bark Tea, especially on easier difficulties or by using the [starvation strategy](./Hibernation.md) (only eating just before sleep).

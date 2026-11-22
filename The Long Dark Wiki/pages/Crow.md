@@ -35,14 +35,18 @@
 
 **Crows** are non-interactable, animated [wildlife](./Wildlife.md) objects in [The Long Dark](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Crows are flying black birds with conspicuously loud cries. They never land and their primary purpose is to draw the player to certain areas of interest. Crows cannot be harmed with projectiles from [revolvers](./Revolver.md), [hunting rifles](./Hunting%20Rifle.md), [bows](./Survival%20Bow.md), and [flare guns](./Distress%20Pistol.md), and they cannot be harmed with thrown objects such as [flares](./Flare.md), [torches](./Torch.md), and [stones](./Stone.md) (if they are low enough to the ground that is) as they do not technically have collision models/death animations.
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground underneath circling Crows (1 Feather will fall per crow flying overhead). Once on the ground, the feathers remain until picked up, making these locations valuable as the only source of crow feathers for [Crafting](./Crafting.md).
@@ -61,8 +65,10 @@ Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground under
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
 
-<span id="behavior"></span><span id="Behavior"></span>
+<!-- #Behavior -->
+​
 
+<!-- #behavior -->
 ## Behavior
 
 Crows will appear circling over frozen corpses and animal carcasses during calm weather. Their loud cries are intended to call the player's attention to the area so it will not likely be missed, however, they may be difficult to spot due to trees or terrain obscuring them.
@@ -73,15 +79,19 @@ Crows will disappear when high winds or snow strike and reappear when weather cl
 
 Occasionally a group of crows will be seen flying in "V" formation in a straight path across the map. The timing of their flight has no significance and is purely cosmetic.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Crows appear to be based off the [American Crow](https://en.wikipedia.org/wiki/American_crow) (**_Corvus brachyrhynchos_**), a species of Passeriformes found all across North America.
 - In various points throughout [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md), a single crow can be spotted perched upon an object (such as a log or stump) in area the player is required to pass through. The crow remain in place but will fly off when approached, and like all crows cannot be harmed. This is the only time a single crow appears by itself, as they typically fly around the map/ fly over dead bodies in groups only.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Steam Trading Card](../assets/Murder_of_Crows_Steam_Card_Preview.png)
@@ -94,8 +104,16 @@ Occasionally a group of crows will be seen flying in "V" formation in a straight
 
 ![Crows in the sky against the sun, circle above a corpse.](../assets/Crows_against_the_sun.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
@@ -116,3 +134,5 @@ Occasionally a group of crows will be seen flying in "V" formation in a straight
 
 - UPDATE **22 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.065)):**
   - Added to game.
+
+[ru:Ворон](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD)

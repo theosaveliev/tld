@@ -33,8 +33,10 @@ The sweater can sometimes be found in:
 - Inside the trunk of one of the cars outside the [Quonset Garage](./Quonset%20Garage.md) in [Coastal Highway](./Coastal%20Highway.md).
 - [Station Bunkhouse](./Station%20Bunkhouse.md) and the safe in [Weather Station](./Weather%20Station.md) in [Sundered Pass](./Sundered%20Pass.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Fleece_sweater_%28historical%29.png)
@@ -43,8 +45,16 @@ The sweater can sometimes be found in:
 
 ![Clothing model damaged](../assets/Cowichan_Sweater_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

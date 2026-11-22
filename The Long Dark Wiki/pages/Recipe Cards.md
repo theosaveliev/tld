@@ -40,8 +40,10 @@ Cards usually spawn at the same location/building, but the exact locations withi
 
 &lt;/table-progress-tracking&gt;
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The location of the Stalker's Pie Card](../assets/StalkerPieMap.png)
@@ -54,9 +56,19 @@ Cards usually spawn at the same location/building, but the exact locations withi
 
 ![Orca Bar Recipe Card (Formerly used for Pemmican Bar)](../assets/Recipe_Card_Orca_Bar.png)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Особые рецепты](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BE%D0%B1%D1%8B%D0%B5_%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B)

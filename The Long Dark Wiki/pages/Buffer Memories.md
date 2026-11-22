@@ -42,8 +42,16 @@ They take the form of either a Laptop or Computer Monitor.
 
 Buffer Memories are only active and obtainable during an [Aurora](./Aurora.md); they may not be obtainable right away when the Aurora starts despite the computer screens lighting up. It can take up to 30 minutes of in-game time for the screens to become clickable. While only a single memory is displayed per night, it is possible to trigger the appearance of another one of the available memories by leaving and re-entering the scene where the computer is. This is not a systematic change and may take several reloading of the scene or interior for the change to take place or not work at all, forcing you to wait for the next Aurora. For screens like the laptop out in the open at the [Shortwave Tower](./Shortwave%20Tower.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md), leaving the region entirely is necessary but isn't guaranteed to change the memory.
 
-<span id="alphabetical_list_of_buffer_memory_locations"></span><span id="Alphabetical_list_of_buffer_memory_locations"></span><span id="alphabetical-list-of-buffer-memory-locations"></span>
+<!-- #alphabetical_list_of_buffer_memory_locations -->
+​
 
+<!-- #Alphabetical_list_of_buffer_memory_locations -->
+​
+
+<!-- #Alphabetical_List_Of_Buffer_Memory_Locations -->
+​
+
+<!-- #alphabetical-list-of-buffer-memory-locations -->
 #### Alphabetical list of buffer memory locations
 
 | Location | Region | Number of memories |
@@ -65,14 +73,33 @@ Buffer Memories are only active and obtainable during an [Aurora](./Aurora.md); 
 | [Shortwave Tower](./Shortwave%20Tower.md) | [Forlorn Muskeg](./Forlorn%20Muskeg.md) | 3 |
 | [Signal Hill](./Signal%20Hill.md) | [Pleasant Valley](./Pleasant%20Valley.md) | 5 |
 
-<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+<!-- #mystery_lake -->
+​
 
+<!-- #Mystery_Lake -->
+​
+
+<!-- #Mystery_lake -->
+​
+
+<!-- #mystery-lake -->
 ## [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
 
 There are 5 buffer memories at the [Mystery Lake](./Mystery%20Lake%20%28location%29.md), all found at the Camp Office.
 
-<span id="camp_office_5"></span><span id="Camp_Office_(5)"></span><span id="camp_office_(5)"></span><span id="camp-office-5"></span>
+<!-- #camp_office_5 -->
+​
 
+<!-- #Camp_Office_(5) -->
+​
+
+<!-- #camp_office_(5) -->
+​
+
+<!-- #Camp_office_(5) -->
+​
+
+<!-- #camp-office-5 -->
 ### [Camp Office](./Camp%20Office.md) (5)
 
 Found downstairs on the laptop computer.
@@ -85,8 +112,19 @@ Found downstairs on the laptop computer.
 | Filename: LOG\_UPLOAD(11).doc (4/5) / Predatory species, if introduced could see a profound devastation of Mystery Lake’s local fish stocks. We will need to follow up to check whether there are attempts to introduce these invasive species deliberately. |
 | Filename: LOG\_UPLOAD(3).doc (5/5) / Will be expecting their return this winter, but end results remain unknown. I hope to gather additional data on this phenomenon next spring. Continued logging could be a factor to consider. |
 
-<span id="carter_hydro_dam_10"></span><span id="Carter_Hydro_Dam_(10)"></span><span id="carter_hydro_dam_(10)"></span><span id="carter-hydro-dam-10"></span>
+<!-- #carter_hydro_dam_10 -->
+​
 
+<!-- #Carter_Hydro_Dam_(10) -->
+​
+
+<!-- #carter_hydro_dam_(10) -->
+​
+
+<!-- #Carter_hydro_dam_(10) -->
+​
+
+<!-- #carter-hydro-dam-10 -->
 ### [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (10)
 
 There are ten buffer memories in the Dam, split equally between the Upper and Lower Dam areas.
@@ -115,14 +153,33 @@ Found on the desktop computer at the very rear in the office (in the room with t
 | Filename: MCPHERSON\_22.DOC (9/10) Conduit D caught fire in the lower corridor, but the suppression system failed. The Wallace brothers were first to arrive and managed to contain it. I'd like to see their response recognized by the company, which you can read in the attached memo. |
 | Filename: MCPHERSON\_33.DOC (10/10) We spotted that local trapper again, our "ghost." This time he was lurking out beyond the boundary of the Dam's property. He seems to know some hidden trails to pass over to Winding River without dealing with our fence line. If in next quarter's budget, please send some company reps to make contact with him. We badly need the local help, and he might be a good contact. |
 
-<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+<!-- #mountain_town -->
+​
 
+<!-- #Mountain_Town -->
+​
+
+<!-- #Mountain_town -->
+​
+
+<!-- #mountain-town -->
 ## [Mountain Town](./Mountain%20Town.md)
 
 There are thirteen buffer memories in Mountain Town, split between three locations.
 
-<span id="milton_credit_union_5"></span><span id="Milton_Credit_Union_(5)"></span><span id="milton_credit_union_(5)"></span><span id="milton-credit-union-5"></span>
+<!-- #milton_credit_union_5 -->
+​
 
+<!-- #Milton_Credit_Union_(5) -->
+​
+
+<!-- #milton_credit_union_(5) -->
+​
+
+<!-- #Milton_credit_union_(5) -->
+​
+
+<!-- #milton-credit-union-5 -->
 ### [Milton Credit Union](./Milton%20Credit%20Union.md) (5)
 
 Found on a desktop computer behind the counter.
@@ -135,8 +192,19 @@ Found on a desktop computer behind the counter.
 | Filename: diary6.doc (4/13) / I ran into Susan yesterday and asked her how the video chat sessions with Father McGill were going. She did not say much. But then again she didn’t come to our reading last week or the week before either. I know those of us left behind are not what she really wants, but it is all we have. I wish she could see that. It is so easy to be afraid of friends, and of love. And she has enough of her own grief after what happened. Out here, isolation can become its own special wound. I will check in on her again next week. |
 | Filename: diary\_7.doc (5/13) / I walked Steph to the schoolhouse this morning, and then went up to the park on my lunch break. I brought some cheese and an apple, and read a bit at the benches up there. It was cold and bright, at first. Great weather for eating and thinking. The basin looked gorgeous, in that way you see all over Great Bear, where each day’s horizon feels unique somehow. / As soon as I tossed my apple core over the edge, it started lightly snowing. A vast, grey haze had settled over the valley below. A wolf howled, but from somewhere far away. Even as things have changed over the last years, and neighbour and friends have moved to the Mainland, I still do not regret our choice to remain here. I think Steph is starting to see this and understand it too. There is something wild, hard, and stubborn growing in her, but also kind. I smile when I think about it, perhaps selfishly. Rejecting pride also means finding ways to leave control behind, and let others, even your own daughter, find her own way from time to time. A good day. I hope my apple sprouts a tree this spring. |
 
-<span id="milton_post_office_4"></span><span id="Milton_Post_Office_(4)"></span><span id="milton_post_office_(4)"></span><span id="milton-post-office-4"></span>
+<!-- #milton_post_office_4 -->
+​
 
+<!-- #Milton_Post_Office_(4) -->
+​
+
+<!-- #milton_post_office_(4) -->
+​
+
+<!-- #Milton_post_office_(4) -->
+​
+
+<!-- #milton-post-office-4 -->
 ### [Milton Post Office](./Milton%20Post%20Office.md) (4)
 
 Found on the desktop computer at the counter.
@@ -148,8 +216,19 @@ Found on the desktop computer at the counter.
 | Filename: CHRIS\_JOURNAL(3).DOC (8/13) After three years here, it's starting to feel like home. Still, we get fewer and fewer pieces of mail. For the all the letter writing folks in Milton get up to, it's a shame they receive so few responses. |
 | Filename: CHRIS\_JOURNAL(4).DOC (9/13) A small package came in this morning and it's been in shipping limbo for a while, by the look of it. No surprise these days, but a minor miracle it got all the way here from Toronto. If freight has opened back up again, that's a great sign. |
 
-<span id="orca_gas_station_4"></span><span id="Orca_Gas_Station_(4)"></span><span id="orca_gas_station_(4)"></span><span id="orca-gas-station-4"></span>
+<!-- #orca_gas_station_4 -->
+​
 
+<!-- #Orca_Gas_Station_(4) -->
+​
+
+<!-- #orca_gas_station_(4) -->
+​
+
+<!-- #Orca_gas_station_(4) -->
+​
+
+<!-- #orca-gas-station-4 -->
 ### [Orca Gas Station](./Orca%20Gas%20Station.md) (4)
 
 Found on the desktop computer at rear of the building.
@@ -161,14 +240,33 @@ Found on the desktop computer at rear of the building.
 | Subject: Please! (12/13) / From: Peter Good / Depot 23 / Antibiotics, painkillers, antiseptic, whatever you have. We're down to nothing and it's all my fault. |
 | Subject: Patience (13/13) / From: Peter Good / To: Hank McDermott / Hank, I can barely get dog food delivered out this far right now. Quit asking me to restock the beer fridge. You'll just have to wait like the rest of us. Believe me, when they arrive, I'll buy you one myself. / - Peter |
 
-<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
+<!-- #timberwolf_mountain -->
+​
 
+<!-- #Timberwolf_Mountain -->
+​
+
+<!-- #Timberwolf_mountain -->
+​
+
+<!-- #timberwolf-mountain -->
 ## [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 There are four buffer memories in Timberwolf Mountain, all found at the Chasm Cave down in [Echo Ravine](./Echo%20Ravine.md).
 
-<span id="chasm_cave_4"></span><span id="Chasm_Cave_(4)"></span><span id="chasm_cave_(4)"></span><span id="chasm-cave-4"></span>
+<!-- #chasm_cave_4 -->
+​
 
+<!-- #Chasm_Cave_(4) -->
+​
+
+<!-- #chasm_cave_(4) -->
+​
+
+<!-- #Chasm_cave_(4) -->
+​
+
+<!-- #chasm-cave-4 -->
 ### [Chasm Cave](./Chasm%20Cave.md) (4)
 
 Found inside the cave on a laptop computer in front of a corpse.
@@ -180,14 +278,36 @@ Found inside the cave on a laptop computer in front of a corpse.
 | Filename: ForAngie.doc (3/4) / I made it down somehow. Ankle’s twisted up good. This damn computer’s going to make it longer than me, looks like. Angie, I'm sorry. |
 | Filename: ForAngie2.doc (4/4) / One more trip up north. The way things are going it'll be the last, either way. But walking away right now feels good, if there's any good left in all of this. |
 
-<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
+<!-- #coastal_highway -->
+​
 
+<!-- #Coastal_Highway -->
+​
+
+<!-- #Coastal_highway -->
+​
+
+<!-- #coastal-highway -->
 ## [Coastal Highway](./Coastal%20Highway.md)
 
 There are eight buffer memories in Coastal Highway, found at the Fishing Camp (at the Rabbit Grove on [Interloper](./Interloper.md), since the house at Fishing Camp is destroyed) and at the Quonset Garage.
 
-<span id="fishing_camprabbit_grove_5"></span><span id="Fishing_Camp/Rabbit_Grove_(5)"></span><span id="fishing_camp/rabbit_grove_(5)"></span><span id="fishing-camprabbit-grove-5"></span>
+<!-- #fishing_camprabbit_grove_5 -->
+​
 
+<!-- #Fishing_Camp/Rabbit_Grove_(5) -->
+​
+
+<!-- #fishing_camp/rabbit_grove_(5) -->
+​
+
+<!-- #Fishing_camp/rabbit_grove_(5) -->
+​
+
+<!-- #Fishing_Camp/rabbit_Grove_(5) -->
+​
+
+<!-- #fishing-camprabbit-grove-5 -->
 ### [Fishing Camp](./Fishing%20Camp.md)/[Rabbit Grove](./Rabbit%20Grove.md) (5)
 
 Found on a laptop computer inside the cabin at the furthermost edge of [Fishing Camp](./Fishing%20Camp.md). This cabin is broken when playing Interloper - on that difficulty, the laptop is instead found in the cabin at [Rabbit Grove](./Rabbit%20Grove.md).
@@ -200,8 +320,19 @@ Found on a laptop computer inside the cabin at the furthermost edge of [Fishing 
 | Filename: LOG-856.doc (4/5) / With all the lines I put out today, I was happy to get some decent returns. Been a while since I put down numbers like that in my book. It’s not anything like a recovery, but it lines up with the idea I’ve been havin about the Mainland fleet and their movements. |
 | Filename: LOG-856.doc (5/5) / My ropes are fraying so badly I don’t think another repair for some of these lines is going to do it. I wonder when I can expect delivery of the supplies I ordered. A sailboat without a sail doesn’t do anyone any good. |
 
-<span id="quonset_garage_3"></span><span id="Quonset_Garage_(3)"></span><span id="quonset_garage_(3)"></span><span id="quonset-garage-3"></span>
+<!-- #quonset_garage_3 -->
+​
 
+<!-- #Quonset_Garage_(3) -->
+​
+
+<!-- #quonset_garage_(3) -->
+​
+
+<!-- #Quonset_garage_(3) -->
+​
+
+<!-- #quonset-garage-3 -->
 ### [Quonset Garage](./Quonset%20Garage.md) (3)
 
 Found on the desktop computer in the back room by the bed and fire barrel.
@@ -212,14 +343,33 @@ Found on the desktop computer in the back room by the bed and fire barrel.
 | Filename: BARBARA (2).doc (2/3) / Tanker truck finally made it down here from up-Island. Wasn’t our regular driver, rather some guy they drafted into the job at the refinery it sounds like. He couldn’t say when the next trip down would be. It doesn’t seem too bad, seeing as we don’t get too many passing through these days. Bothers me more that the refinery is having trouble filling their orders. I can’t imagine propane and heating oil are in good shape if they can’t even ship out their gasoline on time. Even with more and more electric cars making their way out here, finally, we still need that delivery. |
 | Filename: BARBARA (5).doc (3/3) / Apparently a small tree tipped over in the storm last night. It was leaning up against the side of the Garage when I pulled up this morning. And what did I see walking around up there? A wolf. I almost choked on my coffee. I left her be, and when I went out later she was gone. Bill Farney stopped to fill his truck with some of his crew and they were able to chop it up. I paid them in timber. Even now, the Island still has a few tricks I haven’t seen before. Folks at my old plant on The Mainland would have lost it if they saw this. |
 
-<span id="desolation_point"></span><span id="Desolation_Point"></span><span id="desolation-point"></span>
+<!-- #desolation_point -->
+​
 
+<!-- #Desolation_Point -->
+​
+
+<!-- #Desolation_point -->
+​
+
+<!-- #desolation-point -->
 ## [Desolation Point](./Desolation%20Point.md)
 
 There are nine total buffer memories in Desolation Point, split between the Lonely Lighthouse and Hibernia Processing.
 
-<span id="lonely_lighthouse_4"></span><span id="Lonely_Lighthouse_(4)"></span><span id="lonely_lighthouse_(4)"></span><span id="lonely-lighthouse-4"></span>
+<!-- #lonely_lighthouse_4 -->
+​
 
+<!-- #Lonely_Lighthouse_(4) -->
+​
+
+<!-- #lonely_lighthouse_(4) -->
+​
+
+<!-- #Lonely_lighthouse_(4) -->
+​
+
+<!-- #lonely-lighthouse-4 -->
 ### [Lonely Lighthouse](./Lonely%20Lighthouse.md) (4)
 
 Found on the laptop computer on the main level.
@@ -231,8 +381,19 @@ Found on the laptop computer on the main level.
 | Filename: LOG-0162.doc (3/4) / The main drive jammed up last night, but no damage to the lens or other components as far as I could tell. A lot of grease and some work with the mallet got it going again. That’s the third time this month we had a breakdown at night. Seas are rough enough this time of year. Anyone coming around the point doesn’t need us making it harder on them. |
 | Filename: LOG-0171.doc (4/4) / An odd fellow tuned up yesterday, banging on my door. He was frozen solid, and said he’d come through the old mine, up the coast from the Townsite. I warmed him by the fire and gave him hot tea, some of my last. He had dark stories about goings on around the rest of the island, and claimed he was heading north up the highway. The worst of things since the Collapse hadn’t reached us down here at the Point yet, he said. I warned him about the damage to the road and bridges he was going to run into, but it didn’t faze him. He was sleeping right there on the damn floor in front of the stove when I left him. When I came back down after working some on the lens, he was gone. |
 
-<span id="hibernia_processing_5"></span><span id="Hibernia_Processing_(5)"></span><span id="hibernia_processing_(5)"></span><span id="hibernia-processing-5"></span>
+<!-- #hibernia_processing_5 -->
+​
 
+<!-- #Hibernia_Processing_(5) -->
+​
+
+<!-- #hibernia_processing_(5) -->
+​
+
+<!-- #Hibernia_processing_(5) -->
+​
+
+<!-- #hibernia-processing-5 -->
 ### [Hibernia Processing](./Hibernia%20Processing.md) (5)
 
 Found on the desktop computer upstairs in the office.
@@ -245,14 +406,33 @@ Found on the desktop computer upstairs in the office.
 | Subject: CONTACT (4/5) / From: Manny / To: Greg / Greg, when you get this, contact my lawyer and fill them in on what’s happening out here. I can’t get a response from DeepWild and at this point I don’t expect one. |
 | Subject: Safe? (5/5) / From: Manny / To: Greg / I’m still holed up with some locals. I’m not sure they’ve ever left this island or would even know how to. They seem to be losing patience with me. Have you had any luck? |
 
-<span id="broken_railroad"></span><span id="Broken_Railroad"></span><span id="broken-railroad"></span>
+<!-- #broken_railroad -->
+​
 
+<!-- #Broken_Railroad -->
+​
+
+<!-- #Broken_railroad -->
+​
+
+<!-- #broken-railroad -->
 ## [Broken Railroad](./Broken%20Railroad.md)
 
 There are nine buffer memories in Broken Railroad, split between the interior Maintenance Shed and exterior Maintenance Yard.
 
-<span id="maintenance_shed_4"></span><span id="Maintenance_Shed_(4)"></span><span id="maintenance_shed_(4)"></span><span id="maintenance-shed-4"></span>
+<!-- #maintenance_shed_4 -->
+​
 
+<!-- #Maintenance_Shed_(4) -->
+​
+
+<!-- #maintenance_shed_(4) -->
+​
+
+<!-- #Maintenance_shed_(4) -->
+​
+
+<!-- #maintenance-shed-4 -->
 ### [Maintenance Shed](./Maintenance%20Yard.md) (4)
 
 Found on the desktop computer near the bed.
@@ -264,8 +444,19 @@ Found on the desktop computer near the bed.
 | Subject: Re: Re: Update - Forest Talkers? (3/9) / From: Jerry Baltimore / To: Rick Dennis / Mr. Dennis, / Thanks for getting back to me. It’s good to know you passed on the word to management about getting more security out to the Shed. Even if we can’t always keep an eye on everything when we’re out working, it’s good to know our gear should be safe overnight there. / Jerry, Crew No. 2 |
 | Subject: Status update (4/9) / From: Jerry Baltimore / To: Rick Dennis / Mr. Dennis, / The tremors are getting worse. Any word from above on whether we still have to take the short way to Coastal Highway? Even with a stable trestle, it’s a nervous-enough trip as it is. And our gear is already out in the open over there for the eco hippies still running around the woods this year. I know it’s more gas, and a longer trip, but if we take the long way ‘round, me and the guys would feel a lot better about things. We all thought you should know. / Jerry |
 
-<span id="maintenance_yard_5"></span><span id="Maintenance_Yard_(5)"></span><span id="maintenance_yard_(5)"></span><span id="maintenance-yard-5"></span>
+<!-- #maintenance_yard_5 -->
+​
 
+<!-- #Maintenance_Yard_(5) -->
+​
+
+<!-- #maintenance_yard_(5) -->
+​
+
+<!-- #Maintenance_yard_(5) -->
+​
+
+<!-- #maintenance-yard-5 -->
 ### [Maintenance Yard](./Maintenance%20Yard.md) (5)
 
 Found in the laptop computer located near the bed.
@@ -278,14 +469,33 @@ Found in the laptop computer located near the bed.
 | MED\_TRANSMIT(4).txt (8/9) Was clear they had tried to fashion a crude splint for the patient’s leg. It was ineffective, and he was suffering badly. The wolf bite had gone right to the bone, which was visible. |
 | MED\_TRANSMIT(5).txt (9/9) For future attacks, we'd benefit from some kind of follow-up protocol for these remote workers. They don’t trust us, but it could be a way to build something. |
 
-<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+<!-- #forlorn_muskeg -->
+​
 
+<!-- #Forlorn_Muskeg -->
+​
+
+<!-- #Forlorn_muskeg -->
+​
+
+<!-- #forlorn-muskeg -->
 ## [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 There are three buffer memories at the northern Shortwave Tower.
 
-<span id="shortwave_tower_3"></span><span id="Shortwave_Tower_(3)"></span><span id="shortwave_tower_(3)"></span><span id="shortwave-tower-3"></span>
+<!-- #shortwave_tower_3 -->
+​
 
+<!-- #Shortwave_Tower_(3) -->
+​
+
+<!-- #shortwave_tower_(3) -->
+​
+
+<!-- #Shortwave_tower_(3) -->
+​
+
+<!-- #shortwave-tower-3 -->
 ### [Shortwave Tower](./Shortwave%20Tower.md) (3)
 
 Found on the laptop computer laying on the ground in the snow at the base of the tower.
@@ -296,14 +506,33 @@ Found on the laptop computer laying on the ground in the snow at the base of the
 | Filename: COMSAT\_UPLINK7 (2/3) / He wasn't kidding. This old marsh goes on forever. Swallow me right up. |
 | Filename: COMSAT\_UPLINK3 (3/3) / Sector 11 Tower Failure. Requires remote service. Predator deterrents recommended. Reconnect upon fulfillment. / Partner Specialist 81926 |
 
-<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+<!-- #pleasant_valley -->
+​
 
+<!-- #Pleasant_Valley -->
+​
+
+<!-- #Pleasant_valley -->
+​
+
+<!-- #pleasant-valley -->
 ## [Pleasant Valley](./Pleasant%20Valley.md)
 
 There are ten buffer memories in Pleasant Valley, split between Signal Hill and the Rural Store at [Thomson's Crossing](./Thomson%27s%20Crossing.md).
 
-<span id="signal_hill_5"></span><span id="Signal_Hill_(5)"></span><span id="signal_hill_(5)"></span><span id="signal-hill-5"></span>
+<!-- #signal_hill_5 -->
+​
 
+<!-- #Signal_Hill_(5) -->
+​
+
+<!-- #signal_hill_(5) -->
+​
+
+<!-- #Signal_hill_(5) -->
+​
+
+<!-- #signal-hill-5 -->
 ### [Signal Hill](./Signal%20Hill.md) (5)
 
 Found on a desktop computer on the desk.
@@ -316,8 +545,19 @@ Found on a desktop computer on the desk.
 | Filename: easton\_journal\_30.docx (4/5) / My folks were pretty down and out this morning before I left. I promised my dad I’d see about switching up the playlist a little today. Maybe some Beatles would cheer him up? It’d be nice if the store at the Crossroads could get coffee delivered back up here to the Valley, finally. I miss that little mocha machine we had at the Conservatory. The practice rooms were tiny, even smaller than this Hut. A hot cup always made the hours drift by a bit quicker. Still, even spending all day in this weather station, I don’t miss the Mainland. |
 | Filename: easton\_journal\_43.docx (5/5) / Great news! I got word yesterday there might be a piano again down in Milton. Only a dusty old upright, it sounds like, but still. The manager at the Credit Union pulled some strings and had one delivered from the Mainland, so the school could do sing-alongs and stage some plays. I had been down there a few times to play some Bach on the Church’s old organ, but it’s just not the same. I have to gas up my dad’s truck tomorrow, so I might drive down there and take a look. I hope it’s been tuned since it came off the ferry! |
 
-<span id="rural_store_5"></span><span id="Rural_Store_(5)"></span><span id="rural_store_(5)"></span><span id="rural-store-5"></span>
+<!-- #rural_store_5 -->
+​
 
+<!-- #Rural_Store_(5) -->
+​
+
+<!-- #rural_store_(5) -->
+​
+
+<!-- #Rural_store_(5) -->
+​
+
+<!-- #rural-store-5 -->
 ### [Rural Store](./Rural%20Store.md) (5)
 
 Found on the desktop computer inside the Rural Store at [Thompson's Crossing](./Thomson%27s%20Crossing.md) - across the street from the [Community Hall](./Community%20Hall.md).
@@ -330,17 +570,26 @@ Found on the desktop computer inside the Rural Store at [Thompson's Crossing](./
 | Subject: Long time no chat (4/5) / From: Dan Presnell / To: Doug / Hey Doug! / Hope you’re good. I wanted to ask you about old Tom Joplin, do you remember him? He lives over on Skeeter’s Ridge. He’s started saying some funny stuff the last couple weeks whenever he visits the store. He doesn’t look well, but you know, we’ve never gotten along really well. Especially since Linda got sick. She knew him best, from Milton. / Does he have any other family on the island that you remember? I’d rather not head over there and check on him myself. He might not even see me if I did. / It’s not the same here since you and Denise moved away! I guess I could get down to The Mainland to visit more often. I think about leaving for good more and more. With no one left to talk me out of it, it’s looking more likely than ever. But there’s still the winter ahead, no matter what I decide. / Just let me know about Joplin if you can. And remember brother, don’t be a stranger! / Danny |
 | Subject: URGENT: Ongoing supply problems (5/5) / From: Dan Presnell / To: Jim Galveston / Mr. Galveston, / Forget the Peaches and Coffee, your man didn’t even make it out here this month! When can I expect him? Do I have to remind you I pay in full and in advance for these shipments? I pay what I do because they are vital for our daily lives way out here. In the past the money was enough to remind you of this fact, but times have changed it looks like. / I am available anytime, please email me. Phones are unreliable out here. / Dan Presnell |
 
-<span id="reloading_memories"></span><span id="Reloading_Memories"></span><span id="reloading-memories"></span>
+<!-- #reloading_memories -->
+​
 
+<!-- #Reloading_Memories -->
+​
+
+<!-- #Reloading_memories -->
+​
+
+<!-- #reloading-memories -->
 ## Reloading Memories
 
-  
  It is possible to reload these memories, obtaining two memories from the same computer in one night. If a particularly long Aurora occurs that lasts most of the night, leaving and re-entering the building on occasion causes a new memory to load. The chance of getting a new Memory is not guaranteed as previously viewed Memories have the same chance to reappear (i.e. in a location that has four Memories, each one has a 25% chance to appear on each attempt).
 
 Computers that are outside, such as the Timberwolf Mountain Chasm Cave laptop, do not benefit from this method, although the computer in the exterior of the Maintenance Yard in the Broken Railroad region is an exception to this caveat (you can alternate between this computer and the one inside).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A computer screen with a buffer memory during the Aurora](../assets/Buffer-memories.gif)

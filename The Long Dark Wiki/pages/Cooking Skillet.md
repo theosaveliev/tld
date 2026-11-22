@@ -15,8 +15,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Cooking Skillet**
 
 [Cooking Skillet icon](../assets/Cooking_Skillet_icon.png)
@@ -51,16 +49,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Cooking Skillet** is a tool primarily used for melting snow, boiling water, and cooking food. They were introduced in the Part 3: Frontier Comforts update for players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, and are used for cooking advanced food Recipes.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A cooking skillet can hold up to 1.00 liters of liquid for melting snow or boiling water. This makes it inferior in this respect to the [Cooking Pot](./Cooking%20Pot.md) given it weighs the same. However, it does allow more recipes to be cooked compared to the pot.
 
 A cooking skillet will degrade by 5% if its contents are burned or boiled dry. The cooking skillet will not degrade in any other circumstances. If damaged, it can be repaired in 60 minutes with 1 unit of [Scrap Metal](./Scrap%20Metal.md) with [Simple Tools](./Simple%20Tools.md), increasing the item's condition by 30%. Alternatively, a cooking skillet can be harvested in 90 minutes for 1 unit of Scrap Metal with a [Hacksaw](./Hacksaw.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Skillets typically spawn in houses or buildings with kitchens, especially kitchens with wood-burning cooking stoves (e.g., in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) and the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)).
@@ -95,8 +97,10 @@ Examples of places that skillets are known to spawn on Interloper:
 
 It is not guaranteed that every region will contain a skillet. Some regions, like [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md), may have no skillets in a given game.
 
-<span id="recipes"></span><span id="Recipes"></span>
+<!-- #Recipes -->
+​
 
+<!-- #recipes -->
 ## Recipes
 
 These recipes can only be created with a Cooking Skillet, and are available to cook from the start:
@@ -136,8 +140,16 @@ These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Ca
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
@@ -148,3 +160,5 @@ These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Ca
 ![The early design for the skillet, a harvestable object called the Metal Pan](../assets/Metal_Pan.jpg)
 
 _The early design for the skillet, a harvestable object called the [Metal Pan](./Metal%20Pan.md)_
+
+[ru:Сковорода](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%B0)

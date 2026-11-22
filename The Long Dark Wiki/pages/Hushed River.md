@@ -16,14 +16,20 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Hushed River is noted for its many waterfalls that include [Reclusive Falls](./Reclusive%20Falls.md), [Offset Falls](./Offset%20Falls.md), and [Twin Sisters Falls](./Twin%20Sisters%20Falls.md). It also has access points to some ice caves and many waterfall locations. The river contains an abundance of cattails and [Coal](./Coal.md), but [wolves](./Wolf.md) are also common on the western half of the river, so it's a good idea to be careful when exploring. To get into the eastern portion of the valley, it is necessary to [descend using a rope](./Rope%20Climbing.md), either from [Pensive Vista](./Pensive%20Vista.md) or from [Many Falls Vista](./Many%20Falls%20Vista.md).
 
-<span id="shelters"></span><span id="Shelters"></span>
+<!-- #Shelters -->
+​
 
+<!-- #shelters -->
 ## Shelters
 
 There are a number of caves along the river which can serve as shelter. One of the entrances to the [Ice Cave](./Ice%20Cave.md) may be found here, but going through it will soak the player, limiting its usefulness as a base. Another cave can be found slightly to the east. Once past Twin Sisters Falls, the player will run into [Valley Cave](./Valley%20Cave.md), a popular safe house when exploring the eastern part of the valley. A small cave is present at the [Landslide](./Landslide%20%28Hushed%20River%20Valley%29.md), but this cave doesn't offer any warmth benefit.
+
+[ru:Тихая речка](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%B0%D1%8F_%D1%80%D0%B5%D1%87%D0%BA%D0%B0)

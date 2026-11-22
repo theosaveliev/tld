@@ -10,8 +10,10 @@
 
 **Happy Harvester** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This achievement is obtained after harvesting twenty-five [cat tail plants](./Cat%20Tail.md), [rose hip](./Rose%20Hip.md) bushes, [reishi mushrooms](./Reishi%20Mushroom.md) and [old man's beard lichens](./Old%20Man%27s%20Beard%20Lichen.md) in a single game.
@@ -20,12 +22,10 @@ Note: That is twenty-five harvest actions of each type. Rose hip bushes currentl
 
 See the individual pages for where to look for these plants.<span id="fnref2"></span>[²](#fn2)
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #footnotes -->
+​
 
-## Game history
-
-<span id="footnotes"></span>
-
+<!-- #notes -->
 ## Notes
 
 ---

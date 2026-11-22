@@ -29,8 +29,10 @@
 
 **Archivist** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “**Collect a Buffer Memory from every location on the list.**”
@@ -43,14 +45,18 @@ The frequency of auroras is increased for this challenge, although they will not
 
 The difficulty uses Voyageur settings, except for the aurora frequency, and possibly the aggressiveness of wolves.
 
-<span id="start"></span><span id="Start"></span>
+<!-- #Start -->
+​
 
+<!-- #start -->
 ## Start
 
 The player starts out in the [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) fully rested, fully hydrated, and with 2000 calories, and at night with an Aurora already present. The player will have a [Bedroll](./Bedroll.md) and a [Flashlight](./Flashlight.md), in addition to some miscellaneous items and clothing.
 
-<span id="journal"></span><span id="Journal"></span>
+<!-- #Journal -->
+​
 
+<!-- #journal -->
 ## Journal
 
 ![Archivist Journal](../assets/Archivist_Journal.jpg)
@@ -72,8 +78,10 @@ The player starts out in the [Milton House (Grey Mother's)](./Milton%20House%20%
 | [Forlorn Muskeg](./Forlorn%20Muskeg.md) | [North Tower](./Shortwave%20Tower.md) |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Chasm Cave](./Chasm%20Cave.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 The Buffer Memory in the Lower Dam should be given special consideration — during an Aurora, the sparking wires make it difficult to traverse from the Upper to Lower Dam safely. You should be prepared to travel to the Lower Dam office where the memory appears during the day, and have enough supplies of food and water to wait in the Lower Dam until the next aurora.
@@ -82,8 +90,10 @@ Sparking wires are also of concern when accessing the Maintenance Shed buffer me
 
 The North Tower and Chasm Cave buffer memories are outdoors. You should be prepared to face [aurora wolves](./Wolf.md#Aurora_wolves) when attempting to access these.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_archivist.png)

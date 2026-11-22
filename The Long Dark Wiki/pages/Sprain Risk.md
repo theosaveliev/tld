@@ -28,8 +28,10 @@
 
 A **Sprain Risk** is caused by a survivor's [Encumbrance](./Encumbrance.md) being over carry weight, and can result in potential sprains.
 
-<span id="risk"></span><span id="Risk"></span>
+<!-- #Risk -->
+​
 
+<!-- #risk -->
 ## Risk
 
 > “**You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.**”

@@ -17,8 +17,10 @@
 
 **To the Teeth** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md), and cannot be unlocked on [Interloper](./Interloper.md) or [Misery](./Misery.md). The player must also have the [Trader](./Trader.md) enabled for one of the Hunting Rifles.
@@ -27,8 +29,16 @@ This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md), a
 
 The player must find and pick up, at least once, all 7 firearm variants of the [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) in a single game:
 
-<span id="hunting_rifle"></span><span id="Hunting_Rifle"></span><span id="hunting-rifle"></span>
+<!-- #hunting_rifle -->
+​
 
+<!-- #Hunting_Rifle -->
+​
+
+<!-- #Hunting_rifle -->
+​
+
+<!-- #hunting-rifle -->
 ### Hunting Rifle
 
 - [Barb's Rifle](./Barb%27s%20Rifle.md) - somewhere in [Coastal Highway](./Coastal%20Highway.md)
@@ -36,14 +46,12 @@ The player must find and pick up, at least once, all 7 firearm variants of the [
 - [Curator's Rifle](./Curator%27s%20Rifle.md) - somewhere in [Ash Canyon](./Ash%20Canyon.md)
 - [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) - somewhere in [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) or outside the Dam in [Winding River](./Winding%20River.md)
 
-<span id="revolver"></span><span id="Revolver"></span>
+<!-- #Revolver -->
+​
 
+<!-- #revolver -->
 ### Revolver
 
 - [Warden's Revolver](./Warden%27s%20Revolver.md) - somewhere in [Blackrock Prison](./Blackrock%20Prison.md)
 - [Forester's Revolver](./Forester%27s%20Revolver.md) -somewhere in the mountains in [Bleak Inlet](./Bleak%20Inlet.md)
 - [Hunter's Revolver](./Hunter%27s%20Revolver.md) - in the Hunting [Prepper Cache](./Prepper%20Cache.md)
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

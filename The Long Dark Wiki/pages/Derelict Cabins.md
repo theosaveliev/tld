@@ -18,8 +18,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Derelict Cabins are located west of [End of the Road](./End%20of%20the%20Road.md) and north - across the river - of [Lonely Homestead](./Lonely%20Homestead.md).

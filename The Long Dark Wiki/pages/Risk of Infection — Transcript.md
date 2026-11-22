@@ -27,8 +27,16 @@
 
 This is the transcript for Chapter 1 [Risk of Infection](./Risk%20of%20Infection.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<span id="opening_cutscene"></span><span id="Opening_cutscene"></span><span id="opening-cutscene"></span>
+<!-- #opening_cutscene -->
+​
 
+<!-- #Opening_cutscene -->
+​
+
+<!-- #Opening_Cutscene -->
+​
+
+<!-- #opening-cutscene -->
 ## Opening cutscene
 
 _The intro "By the Lion's Roar" plays_
@@ -93,8 +101,19 @@ _Mackenzie turns around to look at the old man on the bed_
 
 Mackenzie: "Hang in there...whatever your name is."
 
-<span id="find_and_enter_the_abandoned_dam."></span><span id="Find,_and_enter_the_abandoned_dam."></span><span id="find,_and_enter_the_abandoned_dam."></span><span id="find-and-enter-the-abandoned-dam"></span>
+<!-- #find_and_enter_the_abandoned_dam. -->
+​
 
+<!-- #Find,_and_enter_the_abandoned_dam. -->
+​
+
+<!-- #find,_and_enter_the_abandoned_dam. -->
+​
+
+<!-- #Find,_And_Enter_The_Abandoned_Dam. -->
+​
+
+<!-- #find-and-enter-the-abandoned-dam -->
 ## Find, and enter the abandoned dam.
 
 _The cutscene ends as the player is in control again. Mackenzie makes note of the route to the Dam on the map and leaves the cabin._
@@ -111,8 +130,16 @@ Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
 _Mackenzie passes through the Staging Area and walks inside_
 
-<span id="search_for_medical_supplies_that_can_help_the_old_trapper."></span><span id="Search_for_medical_supplies_that_can_help_the_old_trapper."></span><span id="search-for-medical-supplies-that-can-help-the-old-trapper"></span>
+<!-- #search_for_medical_supplies_that_can_help_the_old_trapper. -->
+​
 
+<!-- #Search_for_medical_supplies_that_can_help_the_old_trapper. -->
+​
+
+<!-- #Search_For_Medical_Supplies_That_Can_Help_The_Old_Trapper. -->
+​
+
+<!-- #search-for-medical-supplies-that-can-help-the-old-trapper -->
 ## Search for medical supplies that can help the old trapper.
 
 _Mackenzie finds himself in a lobby_
@@ -137,8 +164,16 @@ _He finds it locked, and walks to the nearby office and unlocks it with the Admi
 
 _Mackenzie: "This is what I'm looking for. There - - that should help. And...morphine? Looks expired but...you never know."_
 
-<span id="get_the_meds_back_to_the_trapper_before_he_dies."></span><span id="Get_the_meds_back_to_the_trapper_before_he_dies."></span><span id="get-the-meds-back-to-the-trapper-before-he-dies"></span>
+<!-- #get_the_meds_back_to_the_trapper_before_he_dies. -->
+​
 
+<!-- #Get_the_meds_back_to_the_trapper_before_he_dies. -->
+​
+
+<!-- #Get_The_Meds_Back_To_The_Trapper_Before_He_Dies. -->
+​
+
+<!-- #get-the-meds-back-to-the-trapper-before-he-dies -->
 ## Get the meds back to the trapper before he dies.
 
 _With medical supplies in tow, Mackenzie leaves the dam and returns to the Staging Area._

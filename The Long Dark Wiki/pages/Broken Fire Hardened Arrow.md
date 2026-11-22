@@ -26,17 +26,29 @@
 
 > “**A broken Fire Hardened Arrow. Harvesting these crude weapons may yield some feathers, but nothing more.**”
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A **Broken Fire Hardened Arrow** a broken version of a [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) that has become too badly damaged to function. Unlike [Broken Arrows](./Broken%20Arrow.md), Broken Fire Hardened Arrows are not found in the game world. They can be harvested for 1 [Crow Feather](./Crow%20Feather.md) in 5 minutes. Curiously, they weigh 0.05 Kg more than their unbroken counterparts.
 
 ![All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
+
+[ru:Сломанная закаленная в огне стрела](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2_%D0%BE%D0%B3%D0%BD%D0%B5_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0)

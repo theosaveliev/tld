@@ -30,8 +30,16 @@
 
 **Key To Lake Cabin #3** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode that opens one of the [Lake Cabins](./Lake%20Cabins.md) at [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md). It is found inside the [Camp Office](./Camp%20Office.md) in one of the [File Cabinet](./File%20Cabinet.md) drawers and opens the door to Cabin 3.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

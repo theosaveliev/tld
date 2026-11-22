@@ -26,8 +26,16 @@ The eastern end of the area sits [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md), 
 
 There is also a relatively large amount of fuel and medicinal resources scattered about, as well as two vehicles and two shallow caves.
 
-<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
+<!-- #wildlife_availability -->
+​
 
+<!-- #Wildlife_Availability -->
+​
+
+<!-- #Wildlife_availability -->
+​
+
+<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 2 types of animals can be found in the region, [Rabbit](./Rabbit.md) and [Wolves](./Wolf.md).
@@ -36,8 +44,10 @@ A couple of wolves patrol this zone in 3 different areas. Because the region is 
 
 One or two [Deer Carcasses](./Deer%20Carcass.md) can sometimes spawn in the region.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 This transition zone has 5 named locations to discover.
@@ -53,8 +63,10 @@ There are also 2 unmarked locations in the region.
 - [Basement (Crumbling Highway)](./Basement%20%28Crumbling%20Highway%29.md) (unmarked indoor location tracked in the [Journal](./Journal.md))
 - 2 [Warm Caves](./Warm%20Cave.md) that can be found near Road Collapse and The Arch.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A detailed map of Crumbling Highway (all difficulties) v2.35](../assets/CRH_map.png)
@@ -76,3 +88,5 @@ There are also 2 unmarked locations in the region.
 ![An alternative view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway_02.jpg)
 
 ![A view of the entrance to Abandoned Mine No.3 (West).](../assets/Abandoned_Mine_No.3_%28West%29.jpg)
+
+[es:Autovía derruida](https://es.wikipedia.org/wiki/Autov%C3%ADa_derruida) [ru:Старый остров между зонами](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%B7%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8)

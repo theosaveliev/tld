@@ -25,8 +25,10 @@
 
 It was discontinued in 2020 after being replaced by _[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)_, a 2 week event that was shortly turned into a standalone challenge.
 
-<span id="dates"></span><span id="Dates"></span>
+<!-- #Dates -->
+​
 
+<!-- #dates -->
 ## Dates
 
 | Year | Start date | End date |
@@ -36,15 +38,17 @@ It was discontinued in 2020 after being replaced by _[Escape the Darkwalker](./E
 | 2018 | 27 October 11PM PDT | 1 November 10AM PDT |
 | 2019 | 27 October 10PM PST | 1 November 10AM PDT |
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The event includes the following features:
 
 - Perpetual darkness — the sun will not rise
 - Light sources (ex. [Storm Lantern](./Storm%20Lantern.md), [flares](./Flare.md), and [fires](./Campfire.md)) last twice as long as usual
-- ["Demon" wolves](./Wolf.md#%22Demon%22_Wolves)
+- ["Demon" wolves](./Wolf.md#"Demon"_Wolves)
 - Strategically located [Pumpkin Pie](./Pumpkin%20Pie.md) with [warming](./Warming%20Up.md) and [wildlife](./Wildlife.md) deterrent capabilities
 - High-calorie value snacks in candy bowls, including 2500 calorie [Candy Bars](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md)
 - [Jack-o-Lanterns](./Jack-o-Lantern.md) that mark the location of rare loot and valuable loot caches
@@ -61,40 +65,92 @@ Since the event is essentially a new game, all stats and settings are reset for 
 
 4 Days of Night for 2019 is the same event as the previous year with updated badges.
 
-<span id="day_1_the_quiet_dark"></span><span id="Day_1:_The_Quiet_Dark"></span><span id="day_1:_the_quiet_dark"></span><span id="day-1-the-quiet-dark"></span>
+<!-- #day_1_the_quiet_dark -->
+​
 
+<!-- #Day_1:_The_Quiet_Dark -->
+​
+
+<!-- #day_1:_the_quiet_dark -->
+​
+
+<!-- #Day_1:_the_quiet_dark -->
+​
+
+<!-- #day-1-the-quiet-dark -->
 ### Day 1: The Quiet Dark
 
 "_Wildlife have vanished. Use this time to explore and gather supplies for the long nights ahead. Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
-<span id="day_2_howl"></span><span id="Day_2:_Howl"></span><span id="day_2:_howl"></span><span id="day-2-howl"></span>
+<!-- #day_2_howl -->
+​
 
+<!-- #Day_2:_Howl -->
+​
+
+<!-- #day_2:_howl -->
+​
+
+<!-- #Day_2:_howl -->
+​
+
+<!-- #day-2-howl -->
 ### Day 2: Howl
 
 "_Wolves have returned to Great Bear Island, watch out! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
-<span id="day_3_a_green_fire"></span><span id="Day_3:_A_Green_Fire"></span><span id="day_3:_a_green_fire"></span><span id="day-3-a-green-fire"></span>
+<!-- #day_3_a_green_fire -->
+​
 
+<!-- #Day_3:_A_Green_Fire -->
+​
+
+<!-- #day_3:_a_green_fire -->
+​
+
+<!-- #Day_3:_a_green_fire -->
+​
+
+<!-- #day-3-a-green-fire -->
 ### Day 3: A Green Fire
 
 "_With the Aurora in the sky, wolves are even more dangerous. Beware! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
-<span id="day_4_a_cold_embrace"></span><span id="Day_4:_A_Cold_Embrace"></span><span id="day_4:_a_cold_embrace"></span><span id="day-4-a-cold-embrace"></span>
+<!-- #day_4_a_cold_embrace -->
+​
 
+<!-- #Day_4:_A_Cold_Embrace -->
+​
+
+<!-- #day_4:_a_cold_embrace -->
+​
+
+<!-- #Day_4:_a_cold_embrace -->
+​
+
+<!-- #day-4-a-cold-embrace -->
 ### Day 4: A Cold Embrace
 
 "_A monster blizzard has arrived. Don't stray too far from your fire, or else! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
-<span id="changes_from_the_regular_mode"></span><span id="Changes_from_the_regular_mode"></span><span id="changes-from-the-regular-mode"></span>
+<!-- #changes_from_the_regular_mode -->
+​
 
+<!-- #Changes_from_the_regular_mode -->
+​
+
+<!-- #Changes_From_The_Regular_Mode -->
+​
+
+<!-- #changes-from-the-regular-mode -->
 ## Changes from the regular mode
 
 ![XpMode FourDaysOfNight resources.assets 566](../assets/XpMode_FourDaysOfNight-resources.assets-566.png) During the event the player will have to explore and scavenge in the world partially submerged in darkness. The primary goals of the game are still the same but some things have been changed since the player would get stuck otherwise. This means crafting, reading and repairing are possible to do in complete darkness. The visibility limitations of fog, storms and blizzard are even more apparent in the night, but likewise a starry sky can provide almost day-like view outside. It can however be easier to sleep off a blizzard, as a regular sleeping pattern is not as important when there is same amount of light outside all day.
@@ -107,15 +163,19 @@ Outside some houses, small bowls containing a mix of 3-4 [candy bars](./Chocolat
 
 The in game clock in the top right on the HUD does not move from midnight during the event, but rather switches between early night (the moon is placed in the left side) and late night (the moon is placed in the right side).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Since the sun never rises, items such as [magnifying lens](./Magnifying%20Lens.md), among others, are essentially useless.
 - A discrepancy was created with the 2018 version, with the Pumpkin Pie being made available on Day 4 with a description that it will ward off wildlife, despite Day 4 featuring a blizzard and therefore containing no wildlife whatsoever.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Midnight Badge.](../assets/Badge_challenge_FourDaysOfNightFull.png)
@@ -152,8 +212,16 @@ _The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)_
 
 ![Four Days Of Night 2018](../assets/Four_Days_Of_Night_2018.png)
 
-<span id="external_links"></span><span id="External_links"></span><span id="external-links"></span>
+<!-- #external_links -->
+​
 
+<!-- #External_links -->
+​
+
+<!-- #External_Links -->
+​
+
+<!-- #external-links -->
 ## External links
 
 - [2016 4 Days of Night announcement](http://www.hinterlandforums.com/forums/topic/13145-the-long-dark-event-%E2%80%94-4-days-of-night/?tab=comments#comment-84904)

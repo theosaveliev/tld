@@ -18,12 +18,19 @@
 
 Players can see the total weight of the items they are carrying on the Backpack screen from the Status [Survival Menu](./Survival%20Menu.md). This will include items they have equipped as well as those carried in the inventory. The Backpack screen truncates the amount of weight to two decimal places.
 
-<span id="mechanics"></span><span id="Mechanics"></span>
+<!-- #baseline_capacity_and_increasing_carry_capacity -->
+​
 
-## Mechanics
+<!-- #Baseline_Capacity_and_Increasing_Carry_Capacity -->
+​
 
-<span id="baseline_capacity_and_increasing_carry_capacity"></span><span id="Baseline_Capacity_and_Increasing_Carry_Capacity"></span><span id="baseline-capacity-and-increasing-carry-capacity"></span>
+<!-- #Baseline_capacity_and_increasing_carry_capacity -->
+​
 
+<!-- #Baseline_Capacity_And_Increasing_Carry_Capacity -->
+​
+
+<!-- #baseline-capacity-and-increasing-carry-capacity -->
 ### Baseline Capacity and Increasing Carry Capacity
 
 The player's normal carrying capacity starts at 30 kg (66 lb). This baseline can be increased by:
@@ -42,8 +49,16 @@ If [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) has
 
 Using a [Travois](./Travois.md) does not directly increase a player's carry weight, but it's capacity to carry up to 75 kg while also being dragged behind the player is a notable addition to the carry weight formula. Keep in mind that more weight on a Travois will slow the player down.
 
-<span id="decreasing_carrying_capacity"></span><span id="Decreasing_Carrying_Capacity"></span><span id="decreasing-carrying-capacity"></span>
+<!-- #decreasing_carrying_capacity -->
+​
 
+<!-- #Decreasing_Carrying_Capacity -->
+​
+
+<!-- #Decreasing_carrying_capacity -->
+​
+
+<!-- #decreasing-carrying-capacity -->
 ### Decreasing Carrying Capacity
 
 The amount of weight the character is carrying increases the rate of [Fatigue](./Fatigue.md). When Fatigue reaches 50%, the max carrying capacity will begin to decrease, slowly at first but the rate will rapidly increase as your Fatigue gets closer to 0%. Encumbrance penalties apply as normal as a survivor becomes more drained. Once the 'Exhausted' Fatigue state is reached, the max carry limit will be half the normal value (30 kg becomes 15 kg). The fatigue meter is primarily restored with [Sleep](./Sleep.md), and, once the player has regained at least 50% of their fatigue, (equivalent to 6 hours of sleep) the maximum carrying capacity is restored. [Coffee](./Cup%20of%20Coffee.md) may also offer minor relief from a low fatigue meter.
@@ -58,12 +73,22 @@ The amount of weight the character is carrying increases the rate of [Fatigue](.
 | [Scurvy icon](../assets/Scurvy_icon.png) | [Scurvy](./Scurvy.md) | -5 kg (-11 lb) |
 | [Diminished Form icon](../assets/Diminished_Form_icon.png) | [Diminished Form](./Diminished%20Form.md) | permanent -5 kg (-11 lb) |
 
-<span id="movement_thresholds"></span><span id="Movement_Thresholds"></span><span id="movement-thresholds"></span>
+<!-- #carry_weight_over_encumbrance -->
+​
 
-## Movement Thresholds
+<!-- #Carry_Weight_Over-Encumbrance -->
+​
 
-<span id="carry_weight_over_encumbrance"></span><span id="Carry_Weight_Over-Encumbrance"></span><span id="carry_weight_over-encumbrance"></span><span id="carry-weight-over-encumbrance"></span>
+<!-- #carry_weight_over-encumbrance -->
+​
 
+<!-- #Carry_weight_over-encumbrance -->
+​
+
+<!-- #Carry_Weight_Over-encumbrance -->
+​
+
+<!-- #carry-weight-over-encumbrance -->
 ### Carry Weight Over-Encumbrance
 
 Detrimental effects to movement occur gradually relative to the amount of weight over capacity. There are certain thresholds that heavily affect movement speed, for example a player with exactly 9.99 kg (22.02 lbs) over capacity can still sprint, but a player with 10.00 kg over capacity cannot. Being more than 29.5 kg over capacity makes the player unable to move. Being aware of these thresholds is important to properly select the amount of loot you can carry.
@@ -78,8 +103,19 @@ The baseline Carrying Weight for this example starts at 30/30kg. For every 1kg o
 | 50/30 kg | -66.6% | The player's walking speed is significantly decreased to a crawl. |
 | 60/30 kg | -100% | The player is completely immobile, and can no longer walk. |
 
-<span id="wind_and_terrain"></span><span id="Wind_and_Terrain"></span><span id="wind-and-terrain"></span>
+<!-- #wind_and_terrain -->
+​
 
+<!-- #Wind_and_Terrain -->
+​
+
+<!-- #Wind_and_terrain -->
+​
+
+<!-- #Wind_And_Terrain -->
+​
+
+<!-- #wind-and-terrain -->
 ### Wind and Terrain
 
 Harsh winds and the terrain directly effect a player's movement as they traverse the world, slowing or speeding the player when encountered. Note that the Celestial Navigator [Feat](./Feats.md) adds a 10% bonus walking speed during a clear night or aurora.
@@ -96,8 +132,10 @@ Do note that light winds currently slow down the player more than heavy winds do
 | Crab Walk<span id="fnref5"></span>[⁵](#fn5) | 3-21% | 0 |
 | Sprinting | 45% | 0 |
 
-<span id="travois"></span><span id="Travois"></span>
+<!-- #Travois -->
+​
 
+<!-- #travois -->
 ### Travois
 
 The [Travois](./Travois.md) will apply a penalty to the player's movement speed when dragged behind them. This penalty increases as more items are added to the satchel. Putting items into the Travois instead of carrying them on player's person is always the better choice, as it does not slow the player down as much.
@@ -109,8 +147,10 @@ The [Travois](./Travois.md) will apply a penalty to the player's movement speed 
 | 50/75 kilograms | -19.2% |
 | 75/75 kilograms | -50.3% |
 
-<span id="strategy"></span><span id="Strategy"></span>
+<!-- #Strategy -->
+​
 
+<!-- #strategy -->
 ## Strategy
 
 It is very easy to exceed your carry capacity in The Long Dark, especially on more loot-rich game modes such as Voyageur or Pilgrim. A well equipped character carrying minimum reserves of food and firewood, a basic assortment of tools and a weapon will almost automatically exceed the base capacity. It is hence not always desirable to stay within capacity. Especially when transporting greater amounts of loot, like after successfully hunting an animal, or when moving acquired loot out of a region, exceeding capacity often cannot be avoided.
@@ -124,8 +164,16 @@ However, aware of this limitation, a player should carefully consider what equip
 - 15 kg (33 lbs) to 20 kg (44 lbs) above capacity: generally inadvisable as the slow down is very pronounced, and even [bears](./Bear.md) can no longer be escaped. At this point it is probably faster and definitively safer to take a route twice with considerably less weight.
 - More than 20 kg (44 lbs) above capacity: the player is so slow that dropping excess loot becomes inevitable. Highly dangerous, and in any case inefficient.
 
-<span id="character_quotes"></span><span id="Character_quotes"></span><span id="character-quotes"></span>
+<!-- #character_quotes -->
+​
 
+<!-- #Character_quotes -->
+​
+
+<!-- #Character_Quotes -->
+​
+
+<!-- #character-quotes -->
 ## Character quotes
 
 - "This pack is gettin' kinda heavy!"
@@ -141,8 +189,12 @@ Totally encumbered
 - "Too heavy, can't move."
 - "TOO, MUCH, TO CARRY!!!"
 
-<span id="footnotes"></span>
+[ru:Перевес](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81) [es:capacidad de carga](https://es.wikipedia.org/wiki/capacidad_de_carga)
 
+<!-- #footnotes -->
+​
+
+<!-- #notes -->
 ## Notes
 
 ---

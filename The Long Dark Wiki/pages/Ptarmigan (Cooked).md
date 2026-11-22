@@ -43,20 +43,23 @@
 
 <br>_For the raw version, see [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)._<br>**Ptarmigan (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Ptarmigan (Cooked) is obtained by using a lit [Fire](./Fire.md) and improves the [Cooking](./Cooking.md) skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of [Food Poisoning](./Food%20Poisoning.md) over raw meat.
 
 Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Ptarmigan (Cooked)**
-
 
 37.5 minutes
 
@@ -66,8 +69,10 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 **Quantity:** 1.00 kg
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Fresh](../assets/Ptarmigan_%28Cooked%29_icon.png)
@@ -80,8 +85,16 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ![Ruined](../assets/Ptarmigan_%28Cooked%29_Ruined_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

@@ -30,8 +30,16 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Adva
 
 **Advanced: Guns Guns Guns!** is a [Collectible](./Collectibles.md) found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in [Wintermute](./Wintermute.md) inside the rail car at [Poacher's Camp](./Poacher%27s%20Camp.md). Taking it causes the side quest [Survival School](./Survival%20School.md) to start and asks the player to cull a single [Wolf](./Wolf.md) in the [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Broken Railroad](./Broken%20Railroad.md) regions.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

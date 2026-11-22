@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Train Shelter**
 
 [Train Shelter](../assets/Train_Shelter.jpg)
@@ -32,8 +30,10 @@ Has a bed
 
 Has an interior **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 An isolated shelter that was used by Alice McLeod to hide the [Prototype Train](./Prototype%20Train.md). This location is the only marked location on the entire map.
@@ -48,8 +48,10 @@ The Train Shelter itself has very few resources that can be picked up or harvest
 
 The Train Shelter's home cannot be used for [Safehouse Customization](./Safehouse%20Customization.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg)

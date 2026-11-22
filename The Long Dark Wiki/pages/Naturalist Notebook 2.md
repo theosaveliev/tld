@@ -30,8 +30,10 @@
 
 The note refers to the behavior of the local [Cougars](./Cougar.md) on [Great Bear Island](./Great%20Bear%20Island.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Naturalist Notebook 2**_
@@ -42,6 +44,16 @@ The eviscerated deer I stumbled on yesterday gave me an idea. I doubt I can outr
 
 My gear is durable, but will it be enough? They sent me here to study these animals, not cull them. That's my mission.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
+
+[ru:Дневник натуралиста 2](https://ru.wikipedia.org/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_2)

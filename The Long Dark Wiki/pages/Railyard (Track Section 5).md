@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Railyard**
 
 \[\[File:
@@ -38,18 +36,30 @@ Description
 
 Has no shelter **Railyard** is a set of 2 locations in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #railyard_east -->
+​
 
-## Overview
+<!-- #Railyard_East -->
+​
 
-<span id="railyard_east"></span><span id="Railyard_East"></span><span id="railyard-east"></span>
+<!-- #Railyard_east -->
+​
 
+<!-- #railyard-east -->
 ### Railyard East
 
 The beginning section of the region to the east of the region has a [Water Tower](./Water%20Tower.md) and a rather large pond nearby filled with [Cat Tail](./Cat%20Tail.md) and several natural plants. Further east is the transition to [Port Remnant](./Port%20Remnant.md).
 
-<span id="railyard_west"></span><span id="Railyard_West"></span><span id="railyard-west"></span>
+<!-- #railyard_west -->
+​
 
+<!-- #Railyard_West -->
+​
+
+<!-- #Railyard_west -->
+​
+
+<!-- #railyard-west -->
 ### Railyard West
 
 To the west is another railyard in the region. This area has an [Oil Tank](./Oil%20Tank.md) and continues to Further east is the transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md), but a gate blocks the passage there. Another large pond with more Cat Tail and natural plants as well as 2 waterfalls is located to the north.

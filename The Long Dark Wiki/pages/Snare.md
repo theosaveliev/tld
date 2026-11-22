@@ -33,8 +33,10 @@ Wintermute
 
 The **Snare** is a type of tool.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A snare is a [trap](./Trapping.md) you can set up to catch [rabbits](./Rabbit.md). Snares are only effective when placed in a rabbit-rich place. Once a rabbit is caught, the snare can be re-used if it did not break and its condition is greater than 0%. If it breaks, it can still be harvested for one [reclaimed wood](./Reclaimed%20Wood.md).
@@ -45,15 +47,15 @@ Setting up many snares in a rabbit grove often has high yields; however, catchin
 
 The snare needs time to catch something, so it isn't possible to set up the snare right in front of a rabbit and expect to catch it instantly. It is advised to set up several snares and come back later.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.md).
 
 **Snare**
-
-
 
 30 minutes
 
@@ -67,8 +69,16 @@ Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.m
 
 **Quantity:** 1
 
-<span id="snare_mechanics"></span><span id="Snare_Mechanics"></span><span id="snare-mechanics"></span>
+<!-- #snare_mechanics -->
+​
 
+<!-- #Snare_Mechanics -->
+​
+
+<!-- #Snare_mechanics -->
+​
+
+<!-- #snare-mechanics -->
 ## Snare Mechanics
 
 - When you put down a snare, a 12 in-game hour timer starts. After 12 hours have elapsed and you can no longer "see" the snare, the snare will check whether it should spawn a dead rabbit. If it hasn't produced a rabbit or broken, it will start the timer again.
@@ -81,9 +91,13 @@ Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.m
 - On checking for a rabbit: with a 50% probability, a dead rabbit is spawned, else with a 15% probability (for a total probability of 50%\*15% = 7.5%), the snare breaks, else (for a total probability of 50%\*85% = 42.5%) nothing happens.
 - The Expert Trapper [feat](./Feats.md) greatly increases the odds of any given snare producing a rabbit. (The exact mechanics of this are unclear, but it may involve checking for rabbits twice and using the better result.)
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - See [Trapping](./Trapping.md) for further tips.
 - Snared rabbits count against the [Pacifist](./Pacifist.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) and will lock it for the run.
+
+[ru:Капкан](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD)

@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Wyatt's Skeleton**
 
 [Wyatt's Skeleton icon](../assets/Wyatt%27s_Skeleton_icon.png)
@@ -32,14 +30,26 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Wyatt's Skeleton** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is found in the [Trade Drop Box](./Trade%20Drop%20Box.md) after starting the 5th Special Request, and must be returned back to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) with a [Wire Bundle](./Wires.md), then destroying the cache to advance Sutherland's questline.
 
 It cannot be dropped or placed in a container, so it cannot be lost.
 
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_History -->
+​
+
+<!-- #Update_history -->
+​
+
+<!-- #update-history -->
 ## Update History
+
+[ru:Скелет Уайетта](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82_%D0%A3%D0%B0%D0%B9%D0%B5%D1%82%D1%82%D0%B0)

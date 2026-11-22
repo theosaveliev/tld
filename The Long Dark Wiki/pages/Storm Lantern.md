@@ -26,8 +26,10 @@ _For the unique variant of the Storm Lantern, see [Spelunker's Lantern](./Spelun
 
 The **Storm Lantern** is a mobile light source that creates a large amount of light and a paltry amount of [Warmth](./Warmth.md). The lantern's glass-encased flame allows the player to use it in even the windiest conditions, making it and the [Flare](./Flare.md) the only light sources not reduced or extinguished by wind.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Storm Lantern is a mobile source of light and [Warmth](./Warmth.md) which does not require Matches or other firestarters to ignite. The lantern's flame is also windproof, but unlike [Flares](./Flare.md) it will not deter [wolves](./Wolf.md). The lantern requires no external ignition source, unlike [Torches](./Torch.md). Lanterns can be placed ("RMB") on any flat surface, even when lit such as to provide light while crafting or reading at night. Lanterns can be refueled from [Lantern Fuel](./Lantern%20Fuel.md) or a [Jerry Can](./Jerry%20Can.md).
@@ -43,8 +45,10 @@ The Storm Lantern does not degrade condition when used or over time, but may suf
 
 The Storm Lantern can be quickly extinguished without needing to stop the survivor by pressing any hotkey (e.g. "2" to switch to a Weapon), while manually extinguishing it ("LMB") will cause the survivor to stop while extinguishing.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - You can skip the Extinguish animation (which forces you to stop) by simply holstering the Lamp outright.
@@ -52,8 +56,10 @@ The Storm Lantern can be quickly extinguished without needing to stop the surviv
 - A Storm Lantern is much brighter compared to the [Spelunker's Lantern](./Spelunker%27s%20Lantern.md), but consumes fuel faster.
 - The Storm Lantern is most likely based on the Coleman 335 or 321 gas mantle lantern, which burns naphthalene or low grade gasoline instead of kerosene.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The lighting when using a Spelunker's Lantern](../assets/Spelunker%27s_Lantern_Light_Test_Dim.jpg)

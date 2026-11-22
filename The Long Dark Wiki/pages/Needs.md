@@ -18,8 +18,16 @@ Failure to meet any of the Needs will cause the survivor to begin losing [Condit
 
 As long as all four Needs are met (non-empty), the survivor will heal passively 25% each day, or just over 1% every hour. Any unmet Need will disable the accelerated recovery during [Sleep](./Sleep.md).
 
-<span id="user_interface"></span><span id="User_Interface"></span><span id="user-interface"></span>
+<!-- #user_interface -->
+​
 
+<!-- #User_Interface -->
+​
+
+<!-- #User_interface -->
+​
+
+<!-- #user-interface -->
 ## User Interface
 
 The four Needs are displayed on the [Survival Overlay](./Survival%20Overlay.md) as white circular meters (formerly shaped like icons representing each Need). Satisfaction of a Need fills its respective meter. Arrows beside the bar indicate the direction and rate of progression; the more arrows in one direction, the faster the movement in that direction is.
@@ -34,8 +42,10 @@ As Needs deteriorate past certain points, the description to the right of the ba
 | Numb | Drained | Ravenous | Parched |
 | Freezing | Exhausted | Starving | Dehydrated |
 
-<span id="warmth"></span><span id="Warmth"></span>
+<!-- #Warmth -->
+​
 
+<!-- #warmth -->
 ## [Warmth](./Warmth.md)
 
 ![Fire heat icon](../assets/Fire_heat_icon.png) [Warmth](./Warmth.md) is a measure of the temperatures the player is exposed to. The player's warmth drains when the temperature the character experiences dips below 0°C (32°F) and is regained when it is above. Exposure to the elements is the main reason for loss of warmth and can be countered by staying indoors, having good clothing, being near a fire, and by consuming certain hot foods and drinks. Warmth will also deplete instantly if you come into contact with freezing water. When warmth is depleted, condition starts to steadily drop and can kill within a few game hours. This makes warmth the most critical need to satisfy.
@@ -44,8 +54,10 @@ Warmth is satisfied by maintaining a [feels like](./Feels%20Like.md) temperature
 
 When the warmth bar is empty you begin freezing and condition begins to drain rapidly. The rate of drain is constant at -20% each hour regardless of how far below freezing the character is currently. 'Feels like' temperature must be brought above 0°C (32°F) to stop the condition decreasing, and higher temperatures restore warmth faster. The affliction [hypothermia](./Hypothermia.md) will set in after 2 hours of freezing, doubling the rate to -40% per hour. Surviving more than 3 hours freezing is unlikely.
 
-<span id="fatigue"></span><span id="Fatigue"></span>
+<!-- #Fatigue -->
+​
 
+<!-- #fatigue -->
 ## [Fatigue](./Fatigue.md)
 
 ![Fatigue icon](../assets/Fatigue_icon.png) [Fatigue](./Fatigue.md) is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping or by using certain items. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and struggle. When completely depleted, fatigue will begin to lower the player's condition, and the player will be unable to sprint or climb ropes.
@@ -54,8 +66,10 @@ Fatigue is satisfied by [sleep](./Sleep.md) or by drinking [cups of coffee](./Cu
 
 When fatigue falls below 'tired', the player's recommended weight capacity will rapidly diminish from 30kg down to 15kg (or 66lb down to 33lb). When the fatigue bar is empty, condition begins to drain. The rate of drain is fixed at 1% per hour.
 
-<span id="hunger"></span><span id="Hunger"></span>
+<!-- #Hunger -->
+​
 
+<!-- #hunger -->
 ## [Hunger](./Hunger.md)
 
 ![Calorie icon](../assets/Calorie_icon.png) [Hunger](./Hunger.md) is a measure of how many calories the player consumes and expends. The character's hunger is restored by consuming calories, which come in the form of foods and drinks. The character will begin to lose condition when their hunger is completely depleted.
@@ -64,8 +78,10 @@ When no more calories are in the calorie store, condition drains at a rate of 1%
 
 To fill the hunger bar, 2500 calories are required.
 
-<span id="thirst"></span><span id="Thirst"></span>
+<!-- #Thirst -->
+​
 
+<!-- #thirst -->
 ## [Thirst](./Thirst.md)
 
 ![Hydration icon](../assets/Hydration_icon.png) [Thirst](./Thirst.md) is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire and are particularly heavy. The thirst need is fulfilled by consuming water or particular foods and drinks (e.g., [tins of sardines](./Tin%20of%20Sardines.md) or [Reishi tea](./Reishi%20Tea.md)). Failing to fill this need will result in steady condition loss.

@@ -29,16 +29,20 @@
 
 **Can of Gunpowder** is an item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Gunpowder can be crafted at the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) from [Dusting Sulfur](./Dusting%20Sulfur.md), [Stump Remover](./Stump%20Remover.md), and two [Charcoal](./Charcoal.md). It may also be acquired by harvesting Revolver or Rifle Ammunition (with higher chance of receiving them at higher Gunsmithing skill).
 
 Gunpowder is used to craft [Revolver Ammunition](./Revolver%20Ammunition.md), [Rifle Ammunition](./Rifle%20Ammunition.md), or [Noisemakers](./Noisemaker.md); it can also be used as an accelerant for starting [campfires](./Campfire.md). One full can is enough to craft 50 ammunition (regardless of type), 5 noisemakers, or to accelerate 5 fires.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Can of Gunpowder**
@@ -61,8 +65,10 @@ Gunpowder is used to craft [Revolver Ammunition](./Revolver%20Ammunition.md), [R
 
 **Quantity:** 1
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -71,25 +77,31 @@ Gunpowder is used to craft [Revolver Ammunition](./Revolver%20Ammunition.md), [R
 | [Revolver Cartridge](./Revolver%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 | [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Cans of Gunpowder can spawn rarely in high loot quality locations of [Great Bear Island](./Great%20Bear%20Island.md), such as [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Maintenance Yard](./Maintenance%20Yard.md), or [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) basement. They can also be found in [Prepper Caches](./Prepper%20Cache.md) of any type and inside of [Safes](./Safe.md).
 
-<span id="spawnpoints"></span><span id="Spawnpoints"></span>
+<!-- #Spawnpoints -->
+​
 
+<!-- #spawnpoints -->
 ### Spawnpoints
 
 A large amount of pre-placed Gunpowder cans are located within [Blackrock Prison](./Blackrock%20Prison.md), namely 2 can spawn on the catwalks/roofs leading from guard barracks to the infirmary, 1 is almost always located on the workbench and 1 is inside Cellblock C inside the guardroom near the cells. A large amount of [Dusting Sulfur](./Dusting%20Sulfur.md) and [Stump Remover](./Stump%20Remover.md) are also scattered throughout the prison meaning even more gunpowder can be crafted.
 
 At least 1 Gunpowder can will be located inside [Last Prospect](./Last%20Prospect.md) mine, usually located at level 2 on the bottom of the collapsed wooden stairs in the main room.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
-- [Gunpowder](wikipedia:gunpowder) (black powder) consists of a mixture of [sulfur](wikipedia:sulfur) (S), [charcoal](wikipedia:charcoal) (C), and [potassium nitrate](wikipedia:potassium_nitrate) ([saltpeter](wikipedia:saltpeter), KNO₃). The sulfur and charcoal act as fuels while the saltpeter is an [oxidizer](wikipedia:oxidizer).
+- [Gunpowder](https://en.wikipedia.org/wiki/gunpowder) (black powder) consists of a mixture of [sulfur](https://en.wikipedia.org/wiki/sulfur) (S), [charcoal](https://en.wikipedia.org/wiki/charcoal) (C), and [potassium nitrate](https://en.wikipedia.org/wiki/potassium_nitrate) ([saltpeter](https://en.wikipedia.org/wiki/saltpeter), KNO₃). The sulfur and charcoal act as fuels while the saltpeter is an [oxidizer](https://en.wikipedia.org/wiki/oxidizer).
 - The in-game recipe actually creates black powder (considering ingredients), which in real life would be almost useless to reload any modern rounds due to much slower combustion and therefore lesser kinetic energy of bullets. Using ammunition crafted in that way could result in jamming of the barrel. Black powder also leaves a lot more residue in the firearm, causing the need to clean it more often.
 - In previous versions, a glitch was present where reloading save files or exiting/entering buildings would refill dropped cans of gunpowder to their maximum of 0.5kg.
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).

@@ -26,8 +26,10 @@ Episode
 
 **The Power Plant** is the third mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) is ordered by [Mathis](./Mathis.md) to travel to the Power Plant and find a way to restore power to solitary.
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Head to the Power Plant.
@@ -39,8 +41,10 @@ Episode
   - Return to Blackrock.
 - Check on the Warden.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details — Start location | Mission details — Blackrock Federal Penitentiary |
@@ -56,8 +60,16 @@ If following the road, about halfway from Narrow Bridge to the power plant is a 
 
 In a clearing just before the power plant there will be a pack of [timberwolves](./Timberwolf.md). These can be shot or dispersed with [noisemakers](./Noisemaker.md). Once inside the power plant, [Jace](./Jace.md) will call, instructing Will to enter the steam tunnels to access the control room below solitary to sabotage the locks keeping [Donner](./Donner.md) in, so that [Mathis](./Mathis.md) doesn't learn how the locks work.
 
-<span id="steam_puzzle"></span><span id="Steam_Puzzle"></span><span id="steam-puzzle"></span>
+<!-- #steam_puzzle -->
+​
 
+<!-- #Steam_Puzzle -->
+​
+
+<!-- #Steam_puzzle -->
+​
+
+<!-- #steam-puzzle -->
 ## Steam Puzzle
 
 Getting to the control room requires the use of steam to thaw away icicles blocking doors. Initially, all but one steam valve will be frozen. Opening this valve will enable the next valve to be turned. To thaw a steam valve the pressure leading to it must be in the green zone (check the gauges); in at least two cases, re-opening/closing valves that the player opened/closed will be necessary in order to get the next valve to thaw. Be careful not to walk into the jets of hot steam leaking from the pipes, as that will cause rapid [condition](./Condition.md) loss.

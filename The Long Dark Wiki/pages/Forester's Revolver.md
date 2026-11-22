@@ -16,8 +16,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Forester's Revolver**
 
 [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png)
@@ -52,21 +50,36 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Forester's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Forester's Revolver is an old double action, six-round chambered revolver. It has a soft green camouflage paint job and its wooden grip is wrapped with a white cloth. It's unique attribute is that each shot fired only degrades the gun by 0.75% condition instead of the standard revolvers 1% per shot. This means that it would take up to 133 shots to go from 100% to ruined, and can fire up to 266 shots total with Revolver Firearm level 5. The only potential drawback is that the gun is missing its rear iron sights, which may make aiming a challenge.
 
-<span id="differences_from_revolver"></span><span id="Differences_from_Revolver"></span><span id="differences-from-revolver"></span>
+<!-- #differences_from_revolver -->
+​
 
+<!-- #Differences_from_Revolver -->
+​
+
+<!-- #Differences_from_revolver -->
+​
+
+<!-- #Differences_From_Revolver -->
+​
+
+<!-- #differences-from-revolver -->
 ## Differences from Revolver
 
 - Total durability is 33% more than the Revolver (Uses 0.75%-0.375% condition per shot based on [Revolver Skill](./Revolver%20Firearm.md))
 - Lacks rear iron sights, but has a narrower front post
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 The Forester's Revolver spawns somewhere within [Bleak Inlet](./Bleak%20Inlet.md), specifically within the mountain area accessible via the Ravine Basin section of [The Ravine](./The%20Ravine.md):
@@ -76,8 +89,10 @@ The Forester's Revolver spawns somewhere within [Bleak Inlet](./Bleak%20Inlet.md
 - On the dashboard of the [Breyerhouse Truck](./Truck.md) in the parking lot prior to [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md)
 - Buried in the snow with only the handle visible, next to a broken cable reel, at the foot of [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Revolver on the desk in Pensive Lookout](../assets/Forester%27s_Revolver_Pensive_Lookout.jpg)
@@ -86,9 +101,19 @@ The Forester's Revolver spawns somewhere within [Bleak Inlet](./Bleak%20Inlet.md
 
 ![Foresters Revolver Ground Model](../assets/Foresters_Revolver_Ground_Model.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Револьвер лесника](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80_%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%D0%B0)

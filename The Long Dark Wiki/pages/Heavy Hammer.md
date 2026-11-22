@@ -48,8 +48,10 @@
 
 **Heavy Hammer** is a tool in _The Long Dark_. It is used for [forging](./Forge.md), [breaking](./Harvesting.md) down furniture, making [holes in the ice for fishing](./Ice%20Fishing.md), or self defense during [wildlife struggles](./Struggle.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Heavy Hammer is a multi-purpose tool, but is essential for [Forging](./Forge.md): which is the only means for the survivor to craft their own tools, the [Improvised Hatchet](./Improvised%20Hatchet.md), [Improvised Knife](./Improvised%20Knife.md) and [Arrowheads](./Arrowhead.md). Hammers lose small amounts of condition when used to forge, break furniture, or make holes in the ice, or during a struggle if selected.
@@ -68,39 +70,78 @@ Uses of Heavy Hammer:
 
 When carried and selected for self-defense at the start of a Wolf Struggle, Heavy Hammers deal middling damage with a high chance per-hit to cause the wolf to flee. Hammers take low damage from being used in a struggle, and never inflict Blood Loss to the Wolf. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
-<span id="harvesting_reclaimed_wood"></span><span id="Harvesting_Reclaimed_Wood"></span><span id="harvesting-reclaimed-wood"></span>
+<!-- #harvesting_reclaimed_wood -->
+​
 
+<!-- #Harvesting_Reclaimed_Wood -->
+​
+
+<!-- #Harvesting_reclaimed_wood -->
+​
+
+<!-- #harvesting-reclaimed-wood -->
 ## Harvesting Reclaimed Wood
 
 Heavy Hammer may be used to break down most (but not all) furniture for [Reclaimed Wood](./Reclaimed%20Wood.md) and [Cloth](./Cloth.md). Destroying furniture in this way is more calorie and time expensive than with a Hatchet, but is faster than by hand and allows breaking some furniture which cannot be broken down with bare hands. Heavy Hammers also weigh more than a Hatchet or Improvised Hatchet, but despite these drawbacks they are easier to repair: requiring [Simple Tools](./Simple%20Tools.md) (Repair time: 45 minutes) or [Quality Tools](./Quality%20Tools.md) (Repair time: 30 minutes) and [Fir Firewood](./Fir%20Firewood.md) (rather than the rare [Whetstone](./Whetstone.md) or [Milling Machine](./Milling%20Machine.md) for Hatchets).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Some particular observed locations in which a heavy hammer may be found include:
 
-<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
+<!-- #ash_canyon -->
+​
 
+<!-- #Ash_Canyon -->
+​
+
+<!-- #Ash_canyon -->
+​
+
+<!-- #ash-canyon -->
 ### [Ash Canyon](./Ash%20Canyon.md)
 
 - On the floor in the ruins near the entrance of the [Gold Mine](./Gold%20Mine.md).
 
-<span id="blackrock"></span><span id="Blackrock"></span>
+<!-- #Blackrock -->
+​
 
+<!-- #blackrock -->
 ### [Blackrock](./Blackrock.md)
 
 - In Cell Block 3 at [Blackrock Prison](./Blackrock%20Prison.md) building, in the room where the went exits on a shelf.
 - In the [Steam Tunnels](./Steam%20Tunnels.md) closest to the [Power Plant](./Power%20Plant.md) entrance on the ground.
 
-<span id="bleak_inlet"></span><span id="Bleak_Inlet"></span><span id="bleak-inlet"></span>
+<!-- #bleak_inlet -->
+​
 
+<!-- #Bleak_Inlet -->
+​
+
+<!-- #Bleak_inlet -->
+​
+
+<!-- #bleak-inlet -->
 ### [Bleak Inlet](./Bleak%20Inlet.md)
 
 - Near The Harbinger at [Last Resort Cannery](./Last%20Resort%20Cannery.md).
 
-<span id="mystery_lake_region"></span><span id="Mystery_Lake_(region)"></span><span id="mystery_lake_(region)"></span><span id="mystery-lake-region"></span>
+<!-- #mystery_lake_region -->
+​
 
+<!-- #Mystery_Lake_(region) -->
+​
+
+<!-- #mystery_lake_(region) -->
+​
+
+<!-- #Mystery_lake_(region) -->
+​
+
+<!-- #mystery-lake-region -->
 ### [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
 - At [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) inside the dam complex, at the workbench.
@@ -111,8 +152,16 @@ Some particular observed locations in which a heavy hammer may be found include:
 - Inside of the train car at [Derailment](./Derailment.md).
 - Inside a trailer by the [Logging Camp](./Logging%20Camp.md).
 
-<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
+<!-- #coastal_highway -->
+​
 
+<!-- #Coastal_Highway -->
+​
+
+<!-- #Coastal_highway -->
+​
+
+<!-- #coastal-highway -->
 ### [Coastal Highway](./Coastal%20Highway.md)
 
 - In one of the cars at [Coastal Highway](./Coastal%20Highway.md) near [Log Sort](./Log%20Sort.md) or at [Coastal Townsite](./Coastal%20Townsite.md).
@@ -125,37 +174,77 @@ Some particular observed locations in which a heavy hammer may be found include:
 - In the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)
 - On the ground next to a door at the house on Jackrabbit Island
 
-<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+<!-- #pleasant_valley -->
+​
 
+<!-- #Pleasant_Valley -->
+​
+
+<!-- #Pleasant_valley -->
+​
+
+<!-- #pleasant-valley -->
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - On the upper level of the [Barn](./Pleasant%20Valley%20Outbuildings.md) in [Pleasant Valley](./Pleasant%20Valley.md).
 - In the basement at [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
 - Under a shelf at [Signal Hill](./Signal%20Hill.md).
 
-<span id="desolation_point"></span><span id="Desolation_Point"></span><span id="desolation-point"></span>
+<!-- #desolation_point -->
+​
 
+<!-- #Desolation_Point -->
+​
+
+<!-- #Desolation_point -->
+​
+
+<!-- #desolation-point -->
 ### [Desolation Point](./Desolation%20Point.md)
 
 - At [Hibernia Processing](./Hibernia%20Processing.md) on the workbench or the tool rack shelves.
 - Laying up against a knocked over barrel by the fire barrel in [Hibernia Processing](./Hibernia%20Processing.md) lower level. (very easy to miss in low light conditions- near the railing with pallets behind it.)
 
-<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+<!-- #forlorn_muskeg -->
+​
 
+<!-- #Forlorn_Muskeg -->
+​
+
+<!-- #Forlorn_muskeg -->
+​
+
+<!-- #forlorn-muskeg -->
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 - In a red box in the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). (or under the workbench, or outside the wall)
 - Near one of the pallets at the [Bunk Houses](./Bunkhouses.md).
 
-<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
+<!-- #hushed_river_valley -->
+​
 
+<!-- #Hushed_River_Valley -->
+​
+
+<!-- #Hushed_river_valley -->
+​
+
+<!-- #hushed-river-valley -->
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 - Near the [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md).
 - Near a corpse in the southern [Ice Cave](./Ice%20Cave.md).
 
-<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
+<!-- #timberwolf_mountain -->
+​
 
+<!-- #Timberwolf_Mountain -->
+​
+
+<!-- #Timberwolf_mountain -->
+​
+
+<!-- #timberwolf-mountain -->
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 - In one of the [Cargo Containers](./Cargo%20Container.md) in the [Tail Section](./Tail%20Section.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
@@ -163,22 +252,46 @@ Some particular observed locations in which a heavy hammer may be found include:
 - Under the stove in the fishing hut on [Crystal Lake](./Crystal%20Lake.md).
 - In one of the fishing boats next to the dock on [Crystal Lake](./Crystal%20Lake.md).
 
-<span id="broken_railroad"></span><span id="Broken_Railroad"></span><span id="broken-railroad"></span>
+<!-- #broken_railroad -->
+​
 
+<!-- #Broken_Railroad -->
+​
+
+<!-- #Broken_railroad -->
+​
+
+<!-- #broken-railroad -->
 ### [Broken Railroad](./Broken%20Railroad.md)
 
 - At a shelf in the [Maintenance Yard](./Maintenance%20Yard.md), in one of the toolboxes, or underneath the workbench.
 
-<span id="ravine"></span><span id="Ravine"></span>
+<!-- #Ravine -->
+​
 
+<!-- #ravine -->
 ### [Ravine](./The%20Ravine.md)
 
 - In a train carriage.
 - In the fallen gondola.
 - In a cave
 
-<span id="mountain_town_milton"></span><span id="Mountain_Town_(Milton)"></span><span id="mountain_town_(milton)"></span><span id="mountain-town-milton"></span>
+<!-- #mountain_town_milton -->
+​
 
+<!-- #Mountain_Town_(Milton) -->
+​
+
+<!-- #mountain_town_(milton) -->
+​
+
+<!-- #Mountain_town_(milton) -->
+​
+
+<!-- #Mountain_Town_(milton) -->
+​
+
+<!-- #mountain-town-milton -->
 ### [Mountain Town](./Mountain%20Town.md) (Milton)
 
 - In the back of the truck in front of Bank Manager's house.
@@ -187,22 +300,34 @@ Some particular observed locations in which a heavy hammer may be found include:
 - In the closet at [Paradise Meadows Farmstead](./Paradise%20Meadows%20Farm.md).
 - In the small guard shed in front of the Orca Gas Station.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - The shape of the hammer is similar to a real-world [mini-sledge](https://www.google.com/search?q=mini+sledge).
 - In real world metalworking, numerous different hammers (each with their own unique head shapes and weights) would be used for different applications, but for all intents and purposes the picture suits as merely just a reference.
 - It's sometimes called a "Wolf Bonker" due to its high melee stats, capable of crippling limbs and ending Wolf [Struggles](./Struggle.md) rapidly (15% chance to scare off immediately, 5% chance to kill instantly).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Heavy_hammer.png)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
@@ -216,3 +341,5 @@ Some particular observed locations in which a heavy hammer may be found include:
   - Modified struggle damage modifiers for various tools, and added modifiers for the new Hammer.
   - You can now clear ice-fishing holes with Hammers.
   - Hammers can be used to break down crates, furniture, etc.
+
+[ru:Тяжелый молот](https://ru.wikipedia.org/wiki/%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82)

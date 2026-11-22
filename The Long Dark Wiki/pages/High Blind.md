@@ -14,8 +14,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 High Blind is a [hunting blind](./Hunter%27s%20Blinds.md) located on top of a small mound overlooking the surrounding frozen lake. It is surrounded by thin ice in many directions. Supplies found here are similar to other blinds and may include cans of food and sometimes a bow. Some rose hips can also be found near the area. Blinds offer minimal protection from the elements, so sleeping without a fire or high-tier clothing is not recommended.

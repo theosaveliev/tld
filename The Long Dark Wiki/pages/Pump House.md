@@ -23,3 +23,5 @@ The **Pump House** is a building that once served to use water from [Unquenched 
 ![The Pump House and Overladen Pond as viewed from a nearby cliff](../assets/Pump_House_and_Overladen_Pond.jpg)
 
 ![The nearby sign leading to the Pump House](../assets/Mine_warning_sign.png)
+
+[ru:Насосное отделение](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D0%BE%D1%81%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)

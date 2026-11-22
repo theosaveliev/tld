@@ -46,8 +46,16 @@
 
 In Survival Mode, Blackrock connects to [Pleasant Valley](./Pleasant%20Valley.md) near the [Long Curve](./Long%20Curve.md) through a pair of transition zones: [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) and [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), with an ice cave connecting them. It also connects to [Timberwolf Mountain](./Timberwolf%20Mountain.md) through a transition cave.
 
-<span id="exclusive_gear"></span><span id="Exclusive_gear"></span><span id="exclusive-gear"></span>
+<!-- #exclusive_gear -->
+​
 
+<!-- #Exclusive_gear -->
+​
+
+<!-- #Exclusive_Gear -->
+​
+
+<!-- #exclusive-gear -->
 ## Exclusive gear
 
 This region is the first to contain [Noisemakers](./Noisemaker.md) and the [Ballistic Vest](./Ballistic%20Vest.md), which were added to Survival Mode in the [Perilous Constraint](./The%20Long%20Dark%20%E2%80%94%20Changelog.md) update.
@@ -55,8 +63,10 @@ This region is the first to contain [Noisemakers](./Noisemaker.md) and the [Ball
 - Noisemakers are a crafted at an ammunition workbench, but must first be found before they can be crafted (only found in Blackrock and a Bleak Inlet memento cache). Similar to flares, they excel at scaring wildlife particularly breaking Timberwolf pack morale.
 - The Ballistic Vest is an accessory which provides massive protection from wildlife attacks (50%) at the cost of reduced mobility and carry capacity.
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #Survivability -->
+​
 
+<!-- #survivability -->
 ## Survivability
 
 Blackrock is listed as a medium difficulty region, but surviving there can be challenging even for the well prepared. Natural resources are abundant in the countryside, and the region has an abundance of structures and vehicles for loot and shelter. Blizzards are frequent in Blackrock and make navigation difficult.
@@ -65,8 +75,16 @@ The greatest hazard in Blackrock is its high predator density; timberwolves, wol
 
 The local [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) at the prison allows crafting [Noisemakers](./Noisemaker.md) and creating new ammunition, along with a [Milling Machine](./Milling%20Machine.md) for repairing gear.
 
-<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
+<!-- #wildlife_availability -->
+​
 
+<!-- #Wildlife_Availability -->
+​
+
+<!-- #Wildlife_availability -->
+​
+
+<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 Blackrock features the highest density of Predator Wildlife of any region. Timberwolves will frequently pursue a survivor indoors or along the base of cliffs for hours: exacerbating the dangers of [starvation, dehydration, freezing](./Needs.md), or [Cabin Fever](./Cabin%20Fever.md).
@@ -80,16 +98,20 @@ Blackrock features the highest density of Predator Wildlife of any region. Timbe
 - There are 3 potential [Bear](./Bear.md) spawns in the region ([Lineworker's Hideout](./Lineworker%27s%20Hideout.md), [Bear's Bend](./Bear%27s%20Bend.md), [Cliff Cave](./Cliff%20Cave.md)).
 - [Cougar](./Cougar.md) appear if enabled, and are found in the mountains to the northeast.
 
-<span id="safehouses"></span><span id="Safehouses"></span>
+<!-- #Safehouses -->
+​
 
+<!-- #safehouses -->
 ## Safehouses
 
 - [Blackrock Prison](./Blackrock%20Prison.md) is surrounded and infested with predators, but offers vast storage space, a crafting bench and ammunition workbench, and hunting outside the yard. An indoor connection to the western Blackrock is close by via the [Steam Tunnels](./Steam%20Tunnels.md), useful in poor weather.
 - The [Old Substation](./Old%20Substation.md) with its workbench and outdoor fire barrel.
 - The trailer at [Foreman's Clearcut](./Foreman%27s%20Clearcut.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 As with most regions, Blackrock Mountain features a number of discoverable locations:
@@ -100,8 +122,10 @@ As with most regions, Blackrock Mountain features a number of discoverable locat
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) that is found near Mule Bridge and a [Trailer (Blackrock Region)](./Trailer%20%28Blackrock%20Region%29.md). [Blackrock Mountain](./Blackrock%20Mountain.md) is also a major landmark seen throughout most of the region.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - Blackrock Mountain was first revealed as an in-game location in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
@@ -109,14 +133,18 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) that is found near Mule Br
 - Shortly before [The First Flare](./First%20Flare.md), a bus from Blackrock Penitentiary crashed in [Mountain Town](./Mountain%20Town.md), allowing the prisoners aboard it to escape.
 - The Blackrock Mountain region contains three possible [moose](./Moose.md) spawns: the first is directly outside the prison roaming the small bog, the second is near [Cook's Farm](./Cook%27s%20Farm.md), and the third is outside of [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md) on the frozen pond.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A night view from garden to Blackrock Prison](../assets/Blackcrock_Prison_.png)
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #Maps -->
+​
 
+<!-- #maps -->
 ## Maps
 
 ![A detailed map of Blackrock v2.35 (spoilers)](../assets/Blackrock_.jpg)

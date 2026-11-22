@@ -32,8 +32,10 @@
 
 **Woodworking Tools** is a tool used to craft furniture for the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 An already rare item on Great Bear Island, finding a set of Woodworking Tools is invaluable if the player expects to heavily invest in crafting furniture. They should be carried everywhere due to their rarity if the player wishes to create multiple safehouses with furniture.
@@ -44,33 +46,64 @@ They are needed to create the powerful [Meat Curing Box](./Meat%20Curing%20Box.m
 
 Despite having Condition, Woodworking Tools do not [Decay](./Decay.md) when used.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 These tools are a very rare find, with only 4 appearing on the whole island in the following set locations.
 
-<span id="bleak_inlet"></span><span id="Bleak_Inlet"></span><span id="bleak-inlet"></span>
+<!-- #bleak_inlet -->
+​
 
+<!-- #Bleak_Inlet -->
+​
+
+<!-- #Bleak_inlet -->
+​
+
+<!-- #bleak-inlet -->
 ### [Bleak Inlet](./Bleak%20Inlet.md)
 
 - [Last Resort Cannery](./Last%20Resort%20Cannery.md), in the second building of the "Rope Climbing obstacle course." After crossing The Harbinger (moored trawler), walk across the pier into the second building. The tools are on the upper floor across the damaged catwalk, on a table.
 
-<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
+<!-- #ash_canyon -->
+​
 
+<!-- #Ash_Canyon -->
+​
+
+<!-- #Ash_canyon -->
+​
+
+<!-- #ash-canyon -->
 ### [Ash Canyon](./Ash%20Canyon.md)
 
 - In the shed at [Miner's Folly](./Miner%27s%20Folly.md).
 
-<span id="zone_of_contamination"></span><span id="Zone_of_Contamination"></span><span id="zone-of-contamination"></span>
+<!-- #zone_of_contamination -->
+​
 
+<!-- #Zone_of_Contamination -->
+​
+
+<!-- #Zone_of_contamination -->
+​
+
+<!-- #Zone_Of_Contamination -->
+​
+
+<!-- #zone-of-contamination -->
 ### [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 - Sixth Floor, [Concentrator](./Concentrator.md): the floor that leads to the mountain entrance to the [Langston Mine](./Langston%20Mine.md) has a table with tools, near the main ramp leading back down to the First Floor.
 - Mountain entrance, Langston Mine: in the storage area at the entrance (requires obtaining the [Mine Gate Key](./Mine%20Gate%20Key.md) to unlock as part of [Buried Echoes](./Buried%20Echoes.md)). On the table with [Security Chief's Log 32](./Security%20Chief%27s%20Log%2032.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Zone of Contamination, fifth floor of Concentrator building.](../assets/Image_2025-02-20_033354685.png)
@@ -81,6 +114,16 @@ These tools are a very rare find, with only 4 appearing on the whole island in t
 
 ![Ash Canyon](../assets/Woodworking_Tools_Ash.jpg)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
+
+[ru:Столярные инструменты](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)

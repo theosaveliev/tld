@@ -26,23 +26,43 @@
 
 The **Mine Gate Key** is a [Collectibles](./Collectibles.md) found on level 3 of the [Last Prospect](./Last%20Prospect.md) mine in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) in [Wintermute](./Wintermute.md).
 
-<span id="wintermute"></span><span id="Wintermute"></span>
+<!-- #Wintermute -->
+​
 
+<!-- #wintermute -->
 ## Wintermute
 
 It is found in the mission [The Detonators](./The%20Detonators.md) and is found on Level 3 of the [Last Prospect](./Last%20Prospect.md) mine. It is used to open a door to the elevator that goes to level 2.
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
 ## Survival Mode
 
 It is also the name of a key found at the bottom of the [Langston Mine](./Langston%20Mine.md) in [Survival Mode](./Survival%20Mode.md). It can be acquired while following the [Buried Echoes](./Buried%20Echoes.md) Tale by opening a locked gate with [Bolt Cutters](./Bolt%20Cutters.md). This key is needed to access the locked mountain mine entrance located near the top of the [Concentrator](./Concentrator.md).
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game in Episode 4.
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to Survival Mode.
+
+[ru:Ключ от главных ворот](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D1%80%D0%BE%D1%82)

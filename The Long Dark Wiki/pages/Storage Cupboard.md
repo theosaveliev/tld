@@ -14,14 +14,24 @@
 
 The **Storage Cupboard** is a unique stationary interactable object, and is a large [Cabinet](./Cabinet.md) found in the kitchen of the [Community Hall](./Community%20Hall.md). It appears in both [Survival Mode](./Survival%20Mode.md) and [Wintermute](./Wintermute.md). It is currently the largest storage container in the game, having a massive 200.00 kg (440 lb).
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
 ## Survival Mode
 
 It can be looted as an ordinary container in Survival Mode, serving as a large storage container for items cooked on the nearby [Stove](./Stove.md). As of TFTFT, it only stores 60.00 kg (132 lb) storage capacity compared to Wintermute, but still boasts the record as the largest container in the game.
 
-<span id="wintermute"></span><span id="Wintermute"></span>
+<!-- #Wintermute -->
+​
 
+<!-- #wintermute -->
 ## Wintermute
 
 A large amount of supplies must be stored in this container as part of the [Coming Storm](./Coming%20Storm.md) mission, including:

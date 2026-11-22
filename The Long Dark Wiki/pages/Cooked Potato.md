@@ -32,8 +32,10 @@
 
 **Cooked Potato** is a cooked [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Cooked Potato** is obtained by placing a [Potato](./Potato.md) upon a cooking slot of a lit [fire](./Fire.md) for 60 minutes, and increases its condition by 50%. Collecting a finished one improves the [cooking skill](./Cooking.md).
@@ -42,12 +44,13 @@ Using a [Cooking Pot](./Cooking%20Pot.md) or [Cooking Skillet](./Cooking%20Skill
 
 Cooked food left on an active fire for too long will burn, after another 80% of "Ready" time (for the potato after 40 minutes), destroying the item and damaging a Cooking Pot/Skillet if used.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Cooked Potato**
-
 
 60.0 minutes (1 hour 0 minutes)
 
@@ -57,8 +60,16 @@ Cooked food left on an active fire for too long will burn, after another 80% of 
 
 **Quantity:** 1
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

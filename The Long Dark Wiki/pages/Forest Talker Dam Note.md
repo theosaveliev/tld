@@ -30,8 +30,10 @@
 
 **Forest Talker Dam Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on the corpse of a [Forest Talker](./Forest%20Talkers.md) in the bathroom of the upper [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Dam Note**_
@@ -42,8 +44,16 @@ Jackson's seen some wolves around the area, and last week Emily said she thought
 
 John.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

@@ -20,14 +20,30 @@
 
 ![Thirst icon](../assets/Thirst_icon.png) **Thirst** is one of the four essential [needs](./Needs.md). Thirst is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire, and are particularly heavy. The thirst need is fulfilled by consuming [water](./Water%20%28Potable%29.md) or particular [foods and drinks](./Food%20And%20Drink.md). Failing to fulfill this need will result in [condition](./Condition.md) loss.
 
-<span id="thirst_bar"></span><span id="Thirst_bar"></span><span id="thirst-bar"></span>
+<!-- #thirst_bar -->
+​
 
+<!-- #Thirst_bar -->
+​
+
+<!-- #Thirst_Bar -->
+​
+
+<!-- #thirst-bar -->
 ## Thirst bar
 
 The thirst bar appears as the lowest of the four bars on the survival overlay. Thirst is actually the inverse of what is displayed; you are thirstiest when the bar is depleted and have the least thirst when it is full. The bar ranges from zero at the left to 0.67 L on the right. As it fills, its descriptor changes to describe the current state of thirst. Descriptors are Dehydrated ↔︎ Parched ↔︎ Thirst ↔︎ Dry-mouth ↔︎ Slaked. An empty red water drop becomes visible on the HUD when thirst is completely empty and indicates [condition](./Condition.md) loss has started.
 
-<span id="food_and_drink"></span><span id="Food_and_drink"></span><span id="food-and-drink"></span>
+<!-- #food_and_drink -->
+​
 
+<!-- #Food_and_drink -->
+​
+
+<!-- #Food_And_Drink -->
+​
+
+<!-- #food-and-drink -->
 ## Food and drink
 
 Some [foods](./Food%20And%20Drink.md) are dry and deplete the thirst bar when they are consumed. Other foods are neutral or can even add to the thirst bar. Drinking water and other [drinks](./Food%20And%20Drink.md) remains the most direct means of satisfying thirst.
@@ -38,42 +54,93 @@ If the character is already dehydrated, this is the best opportunity to eat dry 
 
 Coffee and all types of tea restore 30% (0.2L) of the thirst bar, and, weighing only 0.10kg apiece, are twice as weight-efficient as water.
 
-<span id="thirst_bar_depletion"></span><span id="Thirst_bar_depletion"></span><span id="thirst-bar-depletion"></span>
+<!-- #thirst_bar_depletion -->
+​
 
+<!-- #Thirst_bar_depletion -->
+​
+
+<!-- #Thirst_Bar_Depletion -->
+​
+
+<!-- #thirst-bar-depletion -->
 ## Thirst bar depletion
 
 Liquid from the thirst bar drains constantly, although at a lower rate when sleeping.
 
-<span id="interloper_difficulty"></span><span id="Interloper_difficulty"></span><span id="interloper-difficulty"></span>
+<!-- #interloper_difficulty -->
+​
 
+<!-- #Interloper_difficulty -->
+​
+
+<!-- #Interloper_Difficulty -->
+​
+
+<!-- #interloper-difficulty -->
 #### Interloper difficulty
 
 Sleeping will completely drain thirst in 10 hours. This means that although it is possible to sleep 12 hours, it will result in some condition loss due to dehydration.
 
-<span id="voyageur_and_stalker_difficulty"></span><span id="Voyageur_and_Stalker_difficulty"></span><span id="voyageur-and-stalker-difficulty"></span>
+<!-- #voyageur_and_stalker_difficulty -->
+​
 
+<!-- #Voyageur_and_Stalker_difficulty -->
+​
+
+<!-- #Voyageur_and_stalker_difficulty -->
+​
+
+<!-- #Voyageur_And_Stalker_Difficulty -->
+​
+
+<!-- #voyageur-and-stalker-difficulty -->
 #### Voyageur and Stalker difficulty
 
 When awake, a full thirst bar will have completely drained after 8 hours. Sleeping will completely drain the bar in 12 hours. This means that the character requires about 0.083 liters of water per hour while awake and about 0.056 liters per hour when sleeping. If the character were to be awake all day, they'd use exactly 2 liters of water. If they were able to sleep for one whole day, they'd use 1.33 liters of water.
 
-<span id="pilgrim_difficulty"></span><span id="Pilgrim_difficulty"></span><span id="pilgrim-difficulty"></span>
+<!-- #pilgrim_difficulty -->
+​
 
+<!-- #Pilgrim_difficulty -->
+​
+
+<!-- #Pilgrim_Difficulty -->
+​
+
+<!-- #pilgrim-difficulty -->
 #### Pilgrim difficulty
 
 In Pilgrim, the character only requires half as much water as in the other difficulty levels. This means that one can go for up to 16 hours before having to drink again and that one consumes less than 1 liter of water per day.
 
 - It is wise to drink water before [sleeping](./Sleep.md) to avoid dehydration and get full condition restoration.
 
-<span id="affecting_condition"></span><span id="Affecting_condition"></span><span id="affecting-condition"></span>
+<!-- #affecting_condition -->
+​
 
+<!-- #Affecting_condition -->
+​
+
+<!-- #Affecting_Condition -->
+​
+
+<!-- #affecting-condition -->
 ## Affecting condition
 
 When the Thirst bar is fully depleted, [Condition](./Condition.md) drains at a rate of 50% each day (about 2.1% per hour).
 
 Dying of thirst takes 2 days at 100% condition, meaning death results twice as fast compared to starvation. Performing most tasks while dehydrated is possible, and doing so may be part of a strategy to conserve water. However, the player will not be able to [Research](./Research%20Book.md).
 
-<span id="character_quotes"></span><span id="Character_quotes"></span><span id="character-quotes"></span>
+<!-- #character_quotes -->
+​
 
+<!-- #Character_quotes -->
+​
+
+<!-- #Character_Quotes -->
+​
+
+<!-- #character-quotes -->
 ## Character quotes
 
 - "I'd eat snow if the hypothermia wouldn't kill me."
@@ -89,7 +156,3 @@ Dying of thirst takes 2 days at 100% condition, meaning death results twice as f
 - "I need something to drink!"
 - "I'd drink almost anything right about now..."
 - (Dry lip smacking sounds)
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

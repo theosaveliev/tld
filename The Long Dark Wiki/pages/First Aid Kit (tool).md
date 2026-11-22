@@ -8,8 +8,6 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 **First Aid Kit**
 
 [First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png)
@@ -33,8 +31,6 @@ This content only appears in [Wintermute](./Wintermute.md).
 > “**Contains essential First Aid supplies.**”
 >
 > — In-Game Description
-
-
 
 “
 

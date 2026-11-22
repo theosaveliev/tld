@@ -32,8 +32,10 @@
 
 **Gorged** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Survival Mode](./Survival%20Mode.md) when consuming certain [Cooking](./Cooking.md) Recipes. It was added in the Part 3 update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “**You feel weighed down after eating a meal.**”
@@ -47,8 +49,16 @@ The following foods, when consumed, grant the Gorged Affliction as a side effect
 
 The effect of this Affliction does not stack, and each new application will not override the previous Affliction. Partially eating the previously mentioned foods only adds a partial amount of Gorged Recovery Time.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

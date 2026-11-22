@@ -24,8 +24,10 @@ Has a bed
 
 Has an interior **Thomson's Crossing**, formerly known as **Rural Crossroads**, is a small settlement in [Pleasant Valley](./Pleasant%20Valley.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Thomson's Crossing is an old mining settlement that consists:
@@ -44,10 +46,10 @@ Ample supplies can be scavenged from the houses and the only nearby wildlife is 
 
 This area plays a key role in many quests in Episode 3 of Story mode, and it can be an important rest stop/source of food and other must-haves in Survival mode.
 
+<!-- #Trivia -->
+​
 
-
-<span id="trivia"></span><span id="Trivia"></span>
-
+<!-- #trivia -->
 ## Trivia
 
 - Thomson's Crossing's church is a Catholic or Episcopal church where [Father Thomas](./Father%20Thomas.md) resides as the parochial vicar.
@@ -55,8 +57,10 @@ This area plays a key role in many quests in Episode 3 of Story mode, and it can
 - It is suggested that Thomson's Crossing was the largest remaining settlement on Great Bear Island prior to [The First Flare](./First%20Flare.md), because Milton's church was closed due to the towns declining population (as detailed in [Buffer Memories](./Buffer%20Memories.md) and Notes), and the Desolation Point's church seems derelict for years if not decades.
 - Thomson's Crossing may be named after a man called [Ryan Thompson](./Characters.md#Mentioned_Characters), who is buried at the local cemetery. His grave is the oldest (of which the headstone is still readable), and is the only one that lies in a fenced area. The inscription reads "beloved father".
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Community Hall (Episode3)](../assets/Community_hall_exterior.jpg)

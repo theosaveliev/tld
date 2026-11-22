@@ -43,22 +43,28 @@
 
 **Wool Longjohns** are a type of [clothing](./Clothing.md) worn in the inner legs slot.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Wool Longjohns are best-in-slot underwear, being superior to [Thermal Underwear](./Thermal%20Underwear.md) in most regards. Compared to Thermal Underwear, Longjohns are 1.0°C warmer, 15% more waterproof, and give a slight protection bonus (only if not wearing any pants). They also [decay](./Decay.md) at half the rate Thermal Underwear does, and give more condition per repair. The only disadvantage of Wool Longjohns that they are twice as heavy as Thermal Underwear.
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ## Location
 
 Longjohns can be found at the [Summit](./Summit.md) in one of the [Cargo Container](./Cargo%20Container.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 
 Longjohns are not available on [Interloper mode](./Survival%20Mode.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Wool_long_underwear_%28historical%29.png)
@@ -67,8 +73,16 @@ Longjohns are not available on [Interloper mode](./Survival%20Mode.md).
 
 ![Clothing model icon damaged](../assets/Wool_Longjohns_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -18,8 +18,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 In the location between [Echo Peak West](./Echo%20Peak%20West.md) and [Forest Cave](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) there are two [Cargo Containers](./Cargo%20Container.md), some crates, and even cardboard boxes can be found scattered about the area. The most obvious landmark is the huge aircraft wing lying half buried in the snow.
@@ -40,8 +42,12 @@ The [crates](./Crate.md) and cardboard box contain nothing (Stalker).
 
 [Wild animals](./Wildlife.md) such as [deer](./Deer.md), [wolves](./Wolf.md), a [bear](./Bear.md), a [cougar](./Cougar.md), and even [timberwolves](./Timberwolf.md) and a [moose](./Moose.md) may be found in the area as well as [birch bark](./Birch%20Bark.md) and [saplings](./Green%20Birch%20Sapling.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The cargo containers near the wing.](../assets/Wing_cargo_containers.jpg)
+
+[ru:Крыло (правое)](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D0%BE_%28%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B5%29)

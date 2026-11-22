@@ -38,8 +38,16 @@ During the course of the mission, the survivor retrieves the Forest Talker Suppl
 
 The player has the option to take the ammo from the Forest Talker Supplies before returning it; however, stealing the ammo causes both the death of the [Forest Talker](./Forest%20Talkers.md) and prevents the player from receiving a pair of [Deerskin Pants](./Deerskin%20Pants.md) as a reward for completing the mission.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

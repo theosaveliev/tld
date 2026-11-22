@@ -18,8 +18,10 @@
 
 **Tall Rustic Closet** is a [Decorations](./Decorations.md) that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A makeshift wooden closet, a Tall Rustic Closet can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -35,13 +37,13 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the closet cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the closet will yield no resources, so consider the material cost/time investment before creating this item).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Tall Rustic Closet**
-
-
 
 600 minutes (10 hour 0 minutes)
 

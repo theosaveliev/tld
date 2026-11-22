@@ -34,7 +34,6 @@ Clothing Slot
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.**<br>In-game description
@@ -49,8 +48,16 @@ The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in var
 
 ![Old gear icon](../assets/Miner%27s_Jacket_icon_old.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
@@ -58,3 +65,5 @@ The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in var
   - Added to game.
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added new icon.
+
+[ru:Куртка шахтёра](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%82%D0%BA%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D1%91%D1%80%D0%B0)

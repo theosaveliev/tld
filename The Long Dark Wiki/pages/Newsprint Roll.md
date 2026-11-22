@@ -29,8 +29,10 @@
 
 **Newsprint Roll** is a material item that can be used as tinder.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Newsprint rolls fill the role of tinder, which is used for [Fire Starting](./Fire%20Starting.md).
@@ -39,23 +41,29 @@ Newsprint rolls weigh 0.10 kg per unit, twice the weight of a [Tinder Plug](./Ti
 
 Like all other types of tinder, it does not increase the chance to successfully light a fire.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Newsprint Roll](./Newsprint%20Roll.md) |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - A single newsprint roll weighs 0.10kg. However, if you [harvest](./Harvesting.md) the item, you get 0.20kg of tinder plugs, doubling the weight. Harvesting should be delayed until tinder is required.
 - Newspaper Rolls can sometimes be found inside of [Mailboxes](./Mailbox.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Newsprint_roll.png)

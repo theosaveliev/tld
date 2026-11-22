@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Vitamin-C Pills**
 
 [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png)
@@ -42,8 +40,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Vitamin-C Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Vitamin-C Pills are used to help eliminate [Scurvy Risk](./Scurvy%20Risk.md) or [Scurvy](./Scurvy.md), and are only acquired from the [Trader](./Trader.md).
@@ -53,12 +53,10 @@ Vitamin-C Pills are used to help eliminate [Scurvy Risk](./Scurvy%20Risk.md) or 
 - Each pill gives 5 Calories (25 Calories a bottle).
 - Each pill weighs 0.02 kg, for 0.10kg a bottle.
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ## Location
 
 Vitamin-C Pills are acquired by trading with the [Trader](./Trader.md), and are only unlocked after reaching 400 Trust.
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

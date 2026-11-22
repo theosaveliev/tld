@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Railyard**
 
 \[\[File:
@@ -38,20 +36,32 @@ Description
 
 Has no shelter **Railyard** is a set of 2 locations in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #railyard_west -->
+​
 
-## Overview
+<!-- #Railyard_West -->
+​
 
-<span id="railyard_west"></span><span id="Railyard_West"></span><span id="railyard-west"></span>
+<!-- #Railyard_west -->
+​
 
+<!-- #railyard-west -->
 ### Railyard West
 
 The western Railyard houses the second [Repair Depot](./Repair%20Depot.md) on the island, as well as the unique [McLeod Ultra-Efficiency Whale Oil Heater](./McLeod%20Ultra-Efficiency%20Whale%20Oil%20Heater.md). The Railyard tends to be patrolled by [Wolves](./Wolf.md). A small upper area filled with pipes can be explored, and the pipe ridden areas tend to have bits of [Scrap Metal](./Scrap%20Metal.md) lying around.
 
 A [Water Tower](./Water%20Tower.md) can be found at this railyard.
 
-<span id="railyard_east"></span><span id="Railyard_East"></span><span id="railyard-east"></span>
+<!-- #railyard_east -->
+​
 
+<!-- #Railyard_East -->
+​
+
+<!-- #Railyard_east -->
+​
+
+<!-- #railyard-east -->
 ### Railyard East
 
 Close to the transition to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md). There is a [Firewood Bin](./Firewood%20Bin.md) near one of the flatbed cars, as well as some Scrap Metal around. A flatbed car needs to be rammed out of the way onto 2 side tracks when first entering this region.

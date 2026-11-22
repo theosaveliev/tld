@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Document Stash 2**
 
 [Document Stash 2 icon](../assets/Document_Stash_2_icon.png)
@@ -32,8 +30,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Document Stash 2** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is found in a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the Hunter [Prepper Cache](./Prepper%20Cache.md) and contains [Wyatt's Lost Papers 2](./Wyatt%27s%20Lost%20Papers%202.md) and [Bunker Schematic Fragment 2](./Bunker%20Schematic%20Fragment%202.md). It must be placed in the [Trade Drop Box](./Trade%20Drop%20Box.md) as the 2nd Special Request to Sutherland to advance his questline.
@@ -41,7 +41,3 @@ It is found in a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the Hunter
 It cannot be dropped or placed in a container, so it cannot be lost.
 
 _There's still a Known Issue with Sutherland's Tale where there is a chance the Loose Brick Stash in the Hunter Prepper Cache does not spawn. If this is the case the Document Stash 2 can be found at the Special Request 4 location (Joplin's Prepper Cache)._
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

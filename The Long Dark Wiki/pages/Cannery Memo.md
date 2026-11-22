@@ -28,8 +28,10 @@
 
 **Cannery Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the locked door near the [Keypad](./Keypad.md) at the [Workshop](./Workshop.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Cannery Memo**_
@@ -48,9 +50,19 @@ And don't forget to get a copy of the workshop's door code while you're up there
 
 (illegible name\]
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.
+
+[ru:Записка с завода](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%81_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0)

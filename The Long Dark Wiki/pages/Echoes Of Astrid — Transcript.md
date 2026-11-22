@@ -30,8 +30,22 @@ Episode
 
 This is the transcript for Chapter 2 [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<span id="search_the_area_around_the_crash_site_and_beyond."></span><span id="Search_the_area_around_the_Crash_Site,_and_beyond."></span><span id="search_the_area_around_the_crash_site,_and_beyond."></span><span id="search-the-area-around-the-crash-site-and-beyond"></span>
+<!-- #search_the_area_around_the_crash_site_and_beyond. -->
+​
 
+<!-- #Search_the_area_around_the_Crash_Site,_and_beyond. -->
+​
+
+<!-- #search_the_area_around_the_crash_site,_and_beyond. -->
+​
+
+<!-- #Search_the_area_around_the_crash_site,_and_beyond. -->
+​
+
+<!-- #Search_The_Area_Around_The_Crash_Site,_And_Beyond. -->
+​
+
+<!-- #search-the-area-around-the-crash-site-and-beyond -->
 ## Search the area around the Crash Site, and beyond.
 
 Mackenzie: "There must be signs of Astrid around here somewhere."
@@ -105,8 +119,22 @@ What I Know description
 
 Mackenzie: "A road! Great. I'm not as lost as I thought."
 
-<span id="follow_the_road._where_does_it_go_and_could_astrid_have_followed_it"></span><span id="Follow_the_road._Where_does_it_go?_And_could_Astrid_have_followed_it?"></span><span id="follow_the_road._where_does_it_go?_and_could_astrid_have_followed_it?"></span><span id="follow-the-road-where-does-it-go-and-could-astrid-have-followed-it"></span>
+<!-- #follow_the_road._where_does_it_go_and_could_astrid_have_followed_it -->
+​
 
+<!-- #Follow_the_road._Where_does_it_go?_And_could_Astrid_have_followed_it? -->
+​
+
+<!-- #follow_the_road._where_does_it_go?_and_could_astrid_have_followed_it? -->
+​
+
+<!-- #Follow_the_road._where_does_it_go?_and_could_astrid_have_followed_it? -->
+​
+
+<!-- #Follow_The_Road._Where_Does_It_Go?_And_Could_Astrid_Have_Followed_It? -->
+​
+
+<!-- #follow-the-road-where-does-it-go-and-could-astrid-have-followed-it -->
 ## Follow the road. Where does it go? And could Astrid have followed it?
 
 _Mackenzie finds several cars across a bridge and steps into one, prompting another tutorial message_
@@ -132,12 +160,16 @@ _Mackenzie walks past a large house on a hill, with smoke bellowing from the chi
 
 Mackenzie: "Hmm...smoke from the chimney. Someone's home."
 
-<span id="the_big_old_house_shows_the_first_signs_of_habitation_since_you_crashed._investigate."></span><span id="The_big_old_house_shows_the_first_signs_of_habitation_since_you_crashed._Investigate."></span><span id="the-big-old-house-shows-the-first-signs-of-habitation-since-you-crashed-investigate"></span>
+<!-- #rd_person_cutscene -->
+​
 
-## The big old house shows the first signs of habitation since you crashed. Investigate.
+<!-- #3rd_Person_Cutscene -->
+​
 
-<span id="rd_person_cutscene"></span><span id="3rd_Person_Cutscene"></span><span id="3rd_person_cutscene"></span><span id="3rd-person-cutscene"></span>
+<!-- #3rd_person_cutscene -->
+​
 
+<!-- #3rd-person-cutscene -->
 ### 3Rd Person Cutscene
 
 _Mackenzie walks up to the front door, as wolves from deeper in the town approach his location. He steps inside as a third person cutscene plays_
@@ -182,8 +214,10 @@ _The woman slowly lowers her rifle, aiming it away from Mackenzie and placing it
 
 Grey Mother: "The others, are all gone. If you're here, things must be worse than they thought."
 
-<span id="conversation"></span><span id="Conversation"></span>
+<!-- #Conversation -->
+​
 
+<!-- #conversation -->
 ### Conversation
 
 _The cutscene ends as the camera switches between Mackenzie and the Old woman, as the sound of the wind makes the old house creek_

@@ -33,16 +33,20 @@
 
 **Aurora Hatch** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md) and replaces the former side mission [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md), leading towards the same hatch. Completing the mission allows access to a prepper cache, which contains many supplies. However, the hatch can only be opened during an aurora. If the player does not leave the bunker by the time the aurora event has finished, the hatch may lock itself with the player still inside. Checking the time frequently while inside is advised.
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Locate the hidden bunker.
 - Enter the bunker when the aurora is active.
 - Use the code to unlock the door.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 The mission is started by finding the Hunting Lodge cache from the side quest "[Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md). It contains a letter ([Aurora Hatch Door Entry Code](./Aurora%20Hatch%20Door%20Entry%20Code.md)) leading towards the hatch which also gives you the entry code for a door inside the bunker.
@@ -53,8 +57,16 @@ Upon arriving at the bunker, the player will have to wait for an aurora to happe
 
 Inside the bunker, first a door has to be unlocked with the given entry code. After that, the prepper cache contains lots of food and drink and also some medical supplies.
 
-<span id="utilizing_scripted_aurora_event"></span><span id="Utilizing_scripted_aurora_event"></span><span id="utilizing-scripted-aurora-event"></span>
+<!-- #utilizing_scripted_aurora_event -->
+​
 
+<!-- #Utilizing_scripted_aurora_event -->
+​
+
+<!-- #Utilizing_Scripted_Aurora_Event -->
+​
+
+<!-- #utilizing-scripted-aurora-event -->
 ### Utilizing scripted aurora event
 
 It is possible to utilize the scripted aurora even which starts right after the survivor finishes forging the anti-bear spear to reach this location with much less interaction with wildlife, take an easier route through [Forlorn Muskeg](./Forlorn%20Muskeg.md) and still arrive during the aurora to open the hatch.
@@ -75,14 +87,30 @@ After reaching the [Hat Creek](./Hat%20Creek.md) follow it upstream and take the
 
 At this point it is advised to save (there will also be a checkpoint inside but to be sure) as you do not have much time before the [Aurora](./Aurora.md) ends. Loot the prepper cache but do not stay inside, as the hatch will lock after the Aurora ends, and the travel here already used up a large portion of the time.
 
-<span id="guaranteed_aurora_spawn"></span><span id="Guaranteed_Aurora_Spawn"></span><span id="guaranteed-aurora-spawn"></span>
+<!-- #guaranteed_aurora_spawn -->
+​
 
+<!-- #Guaranteed_Aurora_Spawn -->
+​
+
+<!-- #Guaranteed_aurora_spawn -->
+​
+
+<!-- #guaranteed-aurora-spawn -->
 ### Guaranteed Aurora Spawn
 
 Upon successful completion of "[What One Man Can Do](./What%20One%20Man%20Can%20Do.md)" Main Story Mission and starting "[Renewed Hope](./Renewed%20Hope.md)," then it will guarantee an Aurora Spawn every night until you complete Episode 2. Each Aurora lasts for 6-8 hours of in-game time.
 
-<span id="contentsloot"></span><span id="Contents/Loot"></span><span id="contents/loot"></span>
+<!-- #Contents/Loot -->
+​
 
+<!-- #contents/loot -->
+​
+
+<!-- #Contents/loot -->
+​
+
+<!-- #contentsloot -->
 ## Contents/Loot
 
 The cache will usually contain
@@ -106,24 +134,38 @@ The cache will usually contain
 
 Tested on Hardened survivor.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 Before the REDUX Update in December 2018, this bunker was a side quest given by Jeremiah as a [Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#Trust) reward. The bunker was called Jeremiah's Hideout.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The unlocked door inside the hatch.](../assets/Unlocked_door.png)
 
 ![The Aurora Hatch.](../assets/Aurora_hatch.png)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
 - Added to game.
+
+[ru:Светочувствительный бункер](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BD%D0%BA%D0%B5%D1%80)

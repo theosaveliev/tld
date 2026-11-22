@@ -38,16 +38,26 @@
 
 **Charcoal** is a tool in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It can be acquired easily after [lighting a fire](./Fire%20Starting.md) and allowing it to burn out or by looting containers, either outdoors or in a [firebox](./Fire.md#Contained_fires). Once a fire has burned out, the charcoal can be looted from the remnants. Stoves and naturally-generated campfires normally already contain some charcoal.
 
 A fire must burn for at least one hour before charcoal will generate after the fire burns out. Charcoal will continue to "pile up" as wood is burned in a firebox/campfire, and will not be destroyed even when new fires are started (Charcoal generated will always stay in that firebox until it is removed).
 
-<span id="charcoal_surveying"></span><span id="Charcoal_Surveying"></span><span id="charcoal-surveying"></span>
+<!-- #charcoal_surveying -->
+​
 
+<!-- #Charcoal_Surveying -->
+​
+
+<!-- #Charcoal_surveying -->
+​
+
+<!-- #charcoal-surveying -->
 ## Charcoal Surveying
 
 The primary use of Charcoal is sketching Maps. The player must be outdoors, and only the area within the player's view can be sketched. Equip the Charcoal and an option will appear asking the player if they wish to survey the local area. The player can't survey when visibility is poor:
@@ -62,34 +72,56 @@ Surveying can also be used to "ping" the area a player is in, even if it is alre
 
 There is no Charcoal in [Wintermute](./Wintermute.md), since maps are automatically given filled out to the player.
 
-<span id="polaroid_vistas"></span><span id="Polaroid_Vistas"></span><span id="polaroid-vistas"></span>
+<!-- #polaroid_vistas -->
+​
 
+<!-- #Polaroid_Vistas -->
+​
+
+<!-- #Polaroid_vistas -->
+​
+
+<!-- #polaroid-vistas -->
 ## Polaroid Vistas
 
 If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot located on the map, the player can survey large swaths of the local region map instantly.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | None | - 1 × [Stump Remover](./Stump%20Remover.md)<br>- 1 × [Dusting Sulfur](./Dusting%20Sulfur.md)<br>- 2 × [Charcoal](./Charcoal.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Charcoal's viewmodel](../assets/Charcoal_viewmodel.jpg)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - In real life, Charcoal does not form in significant quantities when wood is burned in a fire. This is because the draft produced by the burning charcoal tends to draw in enough air to keep itself alight. This is not the case in a camp fire, though, because some wood near the edges won't be fully consumed.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

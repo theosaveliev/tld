@@ -38,8 +38,10 @@
 
 **Fire Hardened Arrows** are craftable ammuntion items in _The Long Dark_. They released in the free update of Part 2: Signal Void for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A **Fire Hardened Arrow** is a craftable ammunition for the [Survival Bow](./Survival%20Bow.md) made from a [Campfire](./Campfire.md). It's made from (5) sticks and (5) crow feathers, and provides experience for the [Archery](./Archery.md) skill when landed on a living target.
@@ -48,16 +50,32 @@ Fire Hardened Arrows are effective at hunting small game, such as, [Rabbit](./Ra
 
 Fire Hardened Arrows won't scare a charging Wolf, but direct hits on a Wolf made while undetected can cause it to flee (80% chance).
 
-<span id="wear"></span><span id="Wear"></span>
+<!-- #Wear -->
+​
 
+<!-- #wear -->
 ## Wear
 
 The total durability of fire hardened arrows is variable and depends on a material table to determine it's condition loss; with the hardness of the material and the angle at which the arrow impacts the target determining the amount of degradation received. After a hit takes the arrow's condition below 0% it will break and turn into a [Broken Fire Hardened Arrow](./Broken%20Fire%20Hardened%20Arrow.md) then fall to the ground where it may be retrieved and harvested for 1 [Crow Feather](./Crow%20Feather.md).
 
 Fire hardened arrows are unique in that they break instantly upon impact with all [animals](./Wildlife.md) except rabbit and ptarmigan.
 
-<span id="arrow_condition_loss_on_impact_increased_by_perpendicular_hits"></span><span id="Arrow_condition_loss_on_Impact_(Increased_by_perpendicular_hits)"></span><span id="arrow_condition_loss_on_impact_(increased_by_perpendicular_hits)"></span><span id="arrow-condition-loss-on-impact-increased-by-perpendicular-hits"></span>
+<!-- #arrow_condition_loss_on_impact_increased_by_perpendicular_hits -->
+​
 
+<!-- #Arrow_condition_loss_on_Impact_(Increased_by_perpendicular_hits) -->
+​
+
+<!-- #arrow_condition_loss_on_impact_(increased_by_perpendicular_hits) -->
+​
+
+<!-- #Arrow_condition_loss_on_impact_(increased_by_perpendicular_hits) -->
+​
+
+<!-- #Arrow_Condition_Loss_On_Impact_(increased_By_Perpendicular_Hits) -->
+​
+
+<!-- #arrow-condition-loss-on-impact-increased-by-perpendicular-hits -->
 ### Arrow condition loss on Impact (Increased by perpendicular hits)
 
 | Material | Snow | Flesh | Wood | Stone/Metal |
@@ -66,13 +84,13 @@ Fire hardened arrows are unique in that they break instantly upon impact with al
 
 *Full condition fire hardened arrows may survive hard impacts.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Fire Hardened Arrow**
-
-
 
 22 minutes
 
@@ -88,9 +106,17 @@ Fire hardened arrows are unique in that they break instantly upon impact with al
 
 ![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_%26_2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_&_2.10)):**
   - Added to game.

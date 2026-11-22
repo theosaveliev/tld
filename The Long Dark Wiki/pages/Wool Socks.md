@@ -36,16 +36,20 @@
 
 **Wool Socks** are a type of Footwear [Clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="usefulness"></span><span id="Usefulness"></span>
+<!-- #Usefulness -->
+​
 
+<!-- #usefulness -->
 ## Usefulness
 
 Wool Socks are mid-tier socks. They providing double the warmth and weight of [Sports Socks](./Sports%20Socks.md) and decay slower than them, but decay faster than [Climbing Socks](./Climbing%20Socks.md) and have inferior stats.
 
 Wool Socks are the best available socks in [Interloper](./Interloper.md)/ [Misery](./Misery.md) mode.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Wool_socks_%28historical%29.png)

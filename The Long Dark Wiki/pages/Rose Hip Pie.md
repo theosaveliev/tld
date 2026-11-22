@@ -15,8 +15,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Rose Hip Pie**
 
 [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png)
@@ -53,21 +51,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Rose Hip Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - +15% Fatigue (instantly)
 - [Headache](./Headache.md) (for 1 hour)
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 Each recipe makes 3 servings.
 
 **Rose Hip Pie**
-
 
 80.0 minutes (1 hour 20 minutes)
 
@@ -91,14 +92,24 @@ Each recipe makes 3 servings.
 
 **Quantity:** 8
 
-<span id="analysis"></span><span id="Analysis"></span>
+<!-- #Analysis -->
+​
 
+<!-- #analysis -->
 ## Analysis
 
 Owing to the abundance of Rose Hips in the wilderness and the food's fatigue-restoring properties, these pies can make an excellent travelling food. The ingredients are fairly heavy, weighing in at 0.43 kg, but the total caloric value of the pies is 675 kcal, making for an energy density of 1,570 kcal/kg. With level 5 cooking, this can be boosted to 1,962 kcal/kg. Overall, these pies are much more versatile than their [peach equivalent](./Peach%20Pie.md).
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

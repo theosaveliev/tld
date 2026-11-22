@@ -18,8 +18,10 @@ A **Wood Stove** is an immovable [contained fire](./Fire.md#Contained_fires). Th
 
 The wood stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ## Location
 
 Wood stoves have fixed locations that do not change between games. They are found in many indoor locations in _The Long Dark_, including houses, trailers, and huts.

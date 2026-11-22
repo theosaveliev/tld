@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Wax Cylinder 12**
 
 [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)
@@ -38,8 +36,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Chief Engineer Best.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 12**_
@@ -94,6 +94,16 @@ Not everyone here is equal to our ambitions, or the ones we once had at any rate
 
 I should scratch that part out. It's too personal.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
+
+[ru:Восковой валик 12](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA_12)

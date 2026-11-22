@@ -15,14 +15,24 @@
 
 Items can wash up along the icy shoreline regions of [Great Bear Island](./Great%20Bear%20Island.md) ([Desolation Point](./Desolation%20Point.md), [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md) and [Crumbling Highway](./Crumbling%20Highway.md)). Rarely the player's character must stand atop [Weak Ice](./Weak%20Ice.md) to gather these items, but most of the time a player can safely stay on normal ice or the shore.
 
-<span id="item_spawns"></span><span id="Item_Spawns"></span><span id="item-spawns"></span>
+<!-- #item_spawns -->
+​
 
+<!-- #Item_Spawns -->
+​
+
+<!-- #Item_spawns -->
+​
+
+<!-- #item-spawns -->
 ## Item Spawns
 
 These small, lootable items can be found in many locations along the water, usually in small clusters. The quality and quantity of items will depend on difficulty setting. These items will respawn progressively (it is not necessary for a blizzard to occur).
 
-<span id="standard"></span><span id="Standard"></span>
+<!-- #Standard -->
+​
 
+<!-- #standard -->
 ### Standard
 
 |  | Item | Rarity | [Misery icon](../assets/Misery_icon.png) |
@@ -60,8 +70,13 @@ These small, lootable items can be found in many locations along the water, usua
 | [Recycled Can icon](../assets/Recycled_Can_icon.png) | [Recycled Can](./Recycled%20Can.md) | 0.74% | Yes |
 | [Cured Leather icon](../assets/Cured_Leather_icon.png) | [Cured Leather](./Cured%20Leather.md) | 0.74% | Yes |
 
-<span id="post_blizzard"></span><span id="Post-blizzard"></span><span id="post-blizzard"></span>
+<!-- #post_blizzard -->
+​
 
+<!-- #Post-blizzard -->
+​
+
+<!-- #post-blizzard -->
 ### Post-blizzard
 
 |  | Item | Rarity | [Misery icon](../assets/Misery_icon.png) |
@@ -104,8 +119,19 @@ These small, lootable items can be found in many locations along the water, usua
 | [Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png) | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | 1.08% | Yes |
 | [The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png) | [The Frozen Angler](./The%20Frozen%20Angler.md) | 1.08% | Yes |
 
-<span id="container_and_large_object_spawns"></span><span id="Container_and_Large_Object_Spawns"></span><span id="container-and-large-object-spawns"></span>
+<!-- #container_and_large_object_spawns -->
+​
 
+<!-- #Container_and_Large_Object_Spawns -->
+​
+
+<!-- #Container_and_large_object_spawns -->
+​
+
+<!-- #Container_And_Large_Object_Spawns -->
+​
+
+<!-- #container-and-large-object-spawns -->
 ## Container and Large Object Spawns
 
 Each time a [blizzard](./Weather.md) occurs, several larger objects and containers have a possibility of appearing in specific locations along the ice. These locations are not shared with the other small items or boats.
@@ -352,8 +378,16 @@ Containers:
 | [Arrowhead icon](../assets/Arrowhead_icon.png) | [Arrowhead](./Arrowhead.md) | 0.42% | Yes |
 | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 0.42% | No |
 
-<span id="boat_spawns"></span><span id="Boat_Spawns"></span><span id="boat-spawns"></span>
+<!-- #boat_spawns -->
+​
 
+<!-- #Boat_Spawns -->
+​
+
+<!-- #Boat_spawns -->
+​
+
+<!-- #boat-spawns -->
 ## Boat Spawns
 
 ![A fishing boat found while beachcombing.](../assets/Beachcombing.jpg)_A fishing boat found while beachcombing._ Boats may also appear after Blizzards in their own set of specific locations. One or more additional small lootable items can spawn along with them (depending on difficulty setting) and may remain even if the boat later disappears.
@@ -547,8 +581,10 @@ Containers:
 | [Arrowhead icon](../assets/Arrowhead_icon.png) | [Arrowhead](./Arrowhead.md) | 0.42% | Yes |
 | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 0.42% | No |
 
-<span id="strategy"></span><span id="Strategy"></span>
+<!-- #Strategy -->
+​
 
+<!-- #strategy -->
 ## Strategy
 
 - Wearing [Crampons](./Crampons.md) increases the timer of weak ice (from 5 to 6 seconds).

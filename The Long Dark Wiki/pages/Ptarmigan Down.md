@@ -34,8 +34,10 @@
 
 **Ptarmigan Down** is a Material resource that can be harvested from the bodies of slain [Ptarmigans](./Ptarmigan.md). It was released in the paid portion of the Part 3: Frontier Comforts update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.<br>Its primary use is for crafting the clothing accessory [Improvised Insulation](./Improvised%20Insulation.md), and for improving an ordinary [Bedroll](./Bedroll.md) into the warmer [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md). Down bundles are also used to repair both previously mentioned items.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -47,8 +49,16 @@
 | [Improvised Insulation](./Improvised%20Insulation.md) | None | - 4 × [Cloth](./Cloth.md)<br>- 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 | [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md)<br>- 10 × [Cloth](./Cloth.md)<br>- 6 × [Cured Gut](./Cured%20Gut.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

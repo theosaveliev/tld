@@ -44,8 +44,10 @@ _For the version encountered in [Wintermute](./Wintermute.md), see [Field Dressi
 
 **Field Dressing Your Kill, Vol. I** is a [Research Book](./Research%20Book.md) used to improve the [Carcass Harvesting](./Carcass%20Harvesting.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
-<span id="research"></span><span id="Research"></span>
+<!-- #Research -->
+​
 
+<!-- #research -->
 ## Research
 
 _Field Dressing Your Kill, Vol. I_ can be researched for 10 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Carcass Harvesting skill points](./Carcass%20Harvesting.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 8 hours.
@@ -58,8 +60,16 @@ Research can only be performed under the following conditions:
 
 If the player's fatigue, thirst or hunger meters go down to zero or if the environment becomes dark during a research session, the session will be terminated instantly. The hour of research that was in progress will not be completed and any time that had already been spent will be wasted. For a multiple-hour research session, only the incomplete hour will be lost, all the previous hours will still count towards completion of the book.
 
-<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
+<!-- #fire_starting -->
+​
 
+<!-- #Fire_Starting -->
+​
+
+<!-- #Fire_starting -->
+​
+
+<!-- #fire-starting -->
 ## Fire Starting
 
 **Field Dressing Your Kill, Vol. I**
@@ -76,57 +86,105 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
-<span id="location"></span><span id="Location"></span>
+<!-- #crumbling_highway -->
+​
 
-## Location
+<!-- #Crumbling_Highway -->
+​
 
-<span id="crumbling_highway"></span><span id="Crumbling_Highway"></span><span id="crumbling-highway"></span>
+<!-- #Crumbling_highway -->
+​
 
+<!-- #crumbling-highway -->
 #### Crumbling Highway
 
 - In a backpack, inside the cave found between the [Basement](./Abandoned%20Harris%20Home.md) and the entrance to [Abandoned Coal Mine](./No.%203%20Coal%20Mine.md).
 
-<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+<!-- #forlorn_muskeg -->
+​
 
+<!-- #Forlorn_Muskeg -->
+​
+
+<!-- #Forlorn_muskeg -->
+​
+
+<!-- #forlorn-muskeg -->
 #### Forlorn Muskeg
 
 - Small nook-like cave (no loading zone) at [Marsh Ridge](./Marsh%20Ridge.md), next to the roots that lead up to the [Mountain Town](./Mountain%20Town.md) transition
 
-<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+<!-- #mountain_town -->
+​
 
+<!-- #Mountain_Town -->
+​
+
+<!-- #Mountain_town -->
+​
+
+<!-- #mountain-town -->
 #### Mountain Town
 
 - [Gas Station](./Orca%20Gas%20Station.md)
 
-<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+<!-- #mystery_lake -->
+​
 
+<!-- #Mystery_Lake -->
+​
+
+<!-- #Mystery_lake -->
+​
+
+<!-- #mystery-lake -->
 #### Mystery Lake
 
 - [Camp Office](./Camp%20Office.md)
 
-<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+<!-- #pleasant_valley -->
+​
 
+<!-- #Pleasant_Valley -->
+​
+
+<!-- #Pleasant_valley -->
+​
+
+<!-- #pleasant-valley -->
 #### Pleasant Valley
 
 - [Farmstead](./Pleasant%20Valley%20Farmstead.md)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Attempting to burn a copy of _Field Dressing Your Kill, Vol. I_ when it has not been fully read will give a confirmation warning before it can be burned.
 - Once a copy of _Field Dressing Your Kill, Vol. I_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![3D Model](../assets/Field_dressing_your_kill.png)
 
 ![Old model](../assets/Field_Dressing_Your_Kill_Old.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**

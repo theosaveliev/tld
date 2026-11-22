@@ -35,16 +35,32 @@
 
 <br>**Nourished** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Survival Mode](./Survival%20Mode.md) when consuming certain [Cooking](./Cooking.md) Recipes. It was added in the Part 3 update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “**You feel sustained after eating a meal.**”
 
 Nourished is acquired from consuming certain recipes that gives a so-called "Max Stat Buff", temporarily increasing either the survivor's maximum [Condition](./Condition.md) by 5%-10% for 3 hours, depending on the food consumed, or their maximum [Stamina](./Stamina.md) by 15% for 3 hours. Gaining either of these benefits will apply the Nourished affliction.
 
-<span id="maximum_condition_benefit_510"></span><span id="Maximum_Condition_benefit_(+5%/+10%)"></span><span id="maximum_condition_benefit_(+5%/+10%)"></span><span id="maximum-condition-benefit-510"></span>
+<!-- #maximum_condition_benefit_510 -->
+​
 
+<!-- #Maximum_Condition_benefit_(+5%/+10%) -->
+​
+
+<!-- #maximum_condition_benefit_(+5%/+10%) -->
+​
+
+<!-- #Maximum_condition_benefit_(+5%/+10%) -->
+​
+
+<!-- #Maximum_Condition_Benefit_(+5%/+10%) -->
+​
+
+<!-- #maximum-condition-benefit-510 -->
 ### Maximum Condition benefit (+5%/+10%)
 
 Consuming certain recipes increases the survivor's maximum Condition by 5% or 10% for 3 hours, depending on the food consumed. This effect can raise the maximum Condition to 110%, and the Affliction's bonus stacks with [Well Fed's](./Well%20Fed.md) extra 5% Condition, making the highest attainable Condition peak at 115%.
@@ -65,8 +81,22 @@ The following foods, when consumed, grant the Nourished Affliction and the +10% 
 
 The effect of this Affliction does not stack, and each new application will not override the previous Affliction. Partially eating the previously mentioned foods only adds a partial amount of Nourished duration.
 
-<span id="maximum_stamina_benefit_15"></span><span id="Maximum_Stamina_benefit_(+15%)"></span><span id="maximum_stamina_benefit_(+15%)"></span><span id="maximum-stamina-benefit-15"></span>
+<!-- #maximum_stamina_benefit_15 -->
+​
 
+<!-- #Maximum_Stamina_benefit_(+15%) -->
+​
+
+<!-- #maximum_stamina_benefit_(+15%) -->
+​
+
+<!-- #Maximum_stamina_benefit_(+15%) -->
+​
+
+<!-- #Maximum_Stamina_Benefit_(+15%) -->
+​
+
+<!-- #maximum-stamina-benefit-15 -->
 ### Maximum Stamina benefit (+15%)
 
 Consuming certain recipes increases the survivor's maximum Stamina by 15% for 3 hours. The following recipes, when consumed, grant the Nourished Affliction as well as the +15% maximum Stamina benefit as a side effect:
@@ -77,8 +107,16 @@ Consuming certain recipes increases the survivor's maximum Stamina by 15% for 3 
 
 The effect of this Affliction does not stack, and each new application will not override the previous Affliction, even though it refreshes the duration of it. Partially eating the previously mentioned foods only adds a partial amount of Nourished duration.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

@@ -21,8 +21,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Port Remnant**
 
 [Port Remnant](../assets/Port_Remnant.jpg)
@@ -45,8 +43,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Port Remnant** is a [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_ and is the starting point of [Cauldron Island](./Cauldron%20Island.md) and the [_Iron Road_](./Iron%20Road.md) expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Port Remnant is first accessed by taking the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) from [Desolation Point](./Desolation%20Point.md). From there, the player will arrive at Cauldron Island inside a cave underneath the Lighthouse. Climbing the stone stairs reveals a ruined Lighthouse and [Wax Cylinder 2](./Wax%20Cylinder%202.md) and [Map (Church)](./Map%20%28Church%29.md). The Cylinder has a key to the door, and the Map points to the path to take to the Church in the region.
@@ -59,8 +59,10 @@ Taking the tracks to the east will take the player to [Anna Island -- Track Sect
 
 The area can be returned later to with the [Prototype Train](./Prototype%20Train.md), which can be used to open the inaccessible [Obstructed Transit](./Obstructed%20Transit.md) and destroy the gate to Track Section 1. This is the only region on Anna Island not to feature an [Oil Tank](./Oil%20Tank.md) or [Water Tower](./Water%20Tower.md) (aside from [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are 16 named locations within Port Remnant, including:
@@ -88,29 +90,42 @@ There are also a several indoor locations that are tracked in the [Journal](./Jo
 - 1 Cabin to the south east of Departure's Memory (similar to [Mountaineer's Huts](./Mountaineer%27s%20Hut.md))
 - A Cave system that takes you to the upper southern cliff to the Desecrated Church.
 
+<!-- #wildlife_management -->
+​
 
-<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+<!-- #Wildlife_management -->
+​
 
+<!-- #Wildlife_Management -->
+​
+
+<!-- #wildlife-management -->
 ## Wildlife management
 
 - [Wolves](./Wolf.md) can be found throughout the region, mainly to the south near the tracks. Some can be found east of the lighthouse.
 - [Rabbit](./Rabbit.md) can be found to the south
 - [Deer](./Deer.md) can be found on the south cliffs near the church
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #safe_houses -->
+​
 
-## Survivability
+<!-- #Safe_houses -->
+​
 
-<span id="safe_houses"></span><span id="Safe_houses"></span><span id="safe-houses"></span>
+<!-- #Safe_Houses -->
+​
 
+<!-- #safe-houses -->
 ## Safe houses
 
 Key shelters in Port Remnant include:
 
 - [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - 4 sunken ships can be found in the region. 1 of them looks to be a similar ship as [The Riken](./The%20Riken.md), while 2 others looks like The Harbinger from [Last Resort Cannery](./Last%20Resort%20Cannery.md). The rusted skeleton of a 4th ship can also be found.
@@ -118,16 +133,10 @@ Key shelters in Port Remnant include:
 - There were formerly 2 cabins south of Departure's memory, but 1 was removed after an update.
 - The Whale Bone Shrines were originally quite large, but were scaled down in size after an update.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #locations_1 -->
+​
 
-## Gallery
-
-<span id="maps"></span><span id="Maps"></span>
-
-### Maps
-
-<span id="locations_1"></span><span id="locations-1"></span>
-
+<!-- #locations-1 -->
 ### Locations
 
 ![Lighthouse Keeper's Cabin](../assets/Lighthouse_Keepers_Cabin.png)
@@ -148,8 +157,10 @@ Key shelters in Port Remnant include:
 
 ![Fallow Field](../assets/Fallow_Field.jpg)
 
-<span id="miscellaneous"></span><span id="Miscellaneous"></span>
+<!-- #Miscellaneous -->
+​
 
+<!-- #miscellaneous -->
 ### Miscellaneous
 
 ![Port Remnant concept art](../assets/Tld-august-dev-diary-site-support-img-1.jpg)
@@ -165,3 +176,5 @@ _A sunken ship that looks like The Harbinger from [Last Resort Cannery](./Last%2
 ![The single cabin near Forgotten Trestle](../assets/Port_Remnant_Cabin.jpg)
 
 ![ditto, formally 2 at one point](../assets/Port_Remnant_Cabin_%28removed%29.jpg)
+
+[ru:Порт Былой](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82_%D0%91%D1%8B%D0%BB%D0%BE%D0%B9)

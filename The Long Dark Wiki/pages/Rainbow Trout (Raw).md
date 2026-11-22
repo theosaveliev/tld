@@ -64,24 +64,30 @@ Oil/Weight
 
 **Rainbow Trout (Raw)** is a food item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Rainbow Trout are small saltwater fish found commonly under the ice off the coast. They can be caught by [Ice Fishing](./Ice%20Fishing.md) using [Fishing Tackle](./Fishing%20Tackle.md). They can also rarely be found in caches or freezers in inland regions like Ash Canyon and Blackrock. Rainbow Trout can be between 0.5 and 2.3 kg raw.
 
 At 0% condition food disappears if inside of a container, but not outside of containers or in the player's inventory.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 Cooking trout takes 10 minutes by using a lit [fire](./Fire.md). Cooking increases its condition by 50%, decays 4 times slower than raw fish, and has a reduced chance of [Food Poisoning](./Food%20Poisoning.md) over raw fish and decreases its weight by 35%. Cooked trout's energy density is 385 calories per kilogram. Cooking fish also yields a small amount of [Lantern Fuel](./Lantern%20Fuel.md).
 
 Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn (twice its 'Ready' cooking time), destroying the item and damaging a Cooking Pot if used.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -91,14 +97,24 @@ Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cookin
 | [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md) | None | - 1 × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
 | [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Rainbow_trout.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**

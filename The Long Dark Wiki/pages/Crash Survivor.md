@@ -18,8 +18,16 @@
 
 **Crash Survivors**are a group of passengers who survived an airline crash in the [Pleasant Valley](./Pleasant%20Valley.md) region. They are only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md).
 
-<span id="basic_details"></span><span id="Basic_Details"></span><span id="basic-details"></span>
+<!-- #basic_details -->
+​
 
+<!-- #Basic_Details -->
+​
+
+<!-- #Basic_details -->
+​
+
+<!-- #basic-details -->
 ## Basic Details
 
 Many survivors managed to find their way toe the [Community Hall](./Community%20Hall.md) on their own, but are not doing very well. [Astrid Greenwood](./Astrid%20Greenwood.md) is tasked with diagnosing and caring for them when she first arrives, with [Father Thomas](./Father%20Thomas.md) watching over them to make sure they recover.
@@ -31,8 +39,16 @@ Four other Crash Survivors are found outside of the Community Hall during the ep
 - Wade is found near [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), close to the bridge on the end of the property furthest from the main road.
 - Ava is found near [Lonely Homestead](./Lonely%20Homestead.md).
 
-<span id="gameplay_features"></span><span id="Gameplay_Features"></span><span id="gameplay-features"></span>
+<!-- #gameplay_features -->
+​
 
+<!-- #Gameplay_Features -->
+​
+
+<!-- #Gameplay_features -->
+​
+
+<!-- #gameplay-features -->
 ## Gameplay Features
 
 When Astrid Greenwood finds these survivors, she needs to carry them back to the Community hall and place them on an empty bed. Once they are there, she cannot interact with them further.
@@ -43,8 +59,10 @@ Survivors have their own [Warmth](./Warmth.md) and [Thirst](./Thirst.md) bar tha
 
 Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approach the survivor, stop, and then bite them on the ground. This will cause them to lose 25% Condition, and Astrid will need to treat their bleeding with a [Bandage](./Bandage.md). A [Bear](./Bear.md) will ignore a crash survivor, and if Astrid is attacked by one while holding a survivor, the survivor will simply fall to the ground and not be injured.
 
-<span id="diagnosing"></span><span id="Diagnosing"></span>
+<!-- #Diagnosing -->
+​
 
+<!-- #diagnosing -->
 ## Diagnosing
 
 ![The 2 options for interacting with a lost Crash Survivor.](../assets/Crash_Survivor_Diagnosing.jpg)_The 2 options for interacting with a lost Crash Survivor._ Crash Survivors can be diagnosed with the following Afflictions and the following treatments:
@@ -57,8 +75,19 @@ Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approa
 - ![Dehydrated icon](../assets/Dehydrated_icon.png) [Dehydrated](./Dehydrated.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
 - ![Hyperglycemic Risk icon](../assets/Hyperglycemic_Risk_icon.png) [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) - Administer [Insulin](./Insulin.md)
 
-<span id="list_of_passengers"></span><span id="List_of_Passengers"></span><span id="list-of-passengers"></span>
+<!-- #list_of_passengers -->
+​
 
+<!-- #List_of_Passengers -->
+​
+
+<!-- #List_of_passengers -->
+​
+
+<!-- #List_Of_Passengers -->
+​
+
+<!-- #list-of-passengers -->
 ## List of Passengers
 
 The North Star Charters Flight 7030 was carrying the following passengers when it crashed:
@@ -90,8 +119,10 @@ The North Star Charters Flight 7030 was carrying the following passengers when i
 - [R. Tan](./ID%20-%20R.%20Tan.md) -Deceased
 - The pilots and any others who made it to the Community hall and perished. Their remains were stored in the basement.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The 3 missing Survivors will always be found near a campfire that will burn eternally, keeping them warm and keeping any wolves at bay. This can be a great place to create water, treat the survivors, and warm Astrid up before bringing them to the Community Hall.

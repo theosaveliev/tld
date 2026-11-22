@@ -24,8 +24,10 @@
 
 **Fatigue Reduced** is a positive [Affliction](./Afflictions.md) gained by consuming certain [Food And Drink](./Food%20And%20Drink.md) or [First Aid](./First%20Aid.md) items.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is immediately restored by a set percentage and the player gains the _Fatigue Reduced_ affliction. This buff lasts for a set period of time (dependant on the item consumed), lowering the overall rate of Fatigue loss and reducing the amount of Fatigue used while sprinting. _Fatigue Reduced_ does not affect the rate of Fatigue loss when [Rope Climbing](./Rope%20Climbing.md).
@@ -38,14 +40,18 @@ Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is imme
 | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes | 56.25 minutes |
 | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) [Caffeine Pills](./Caffeine%20Pills.md) | 25% | N/A | 4 hours | No bonus |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old icon.](../assets/Fatigue_reduced.png)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

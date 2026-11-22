@@ -24,8 +24,10 @@ No
 
 A **Salt Deposit** is a harvestable interactable object found along Coastal Regions in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Most tools can be used to scrap Salt from Salt Deposits, despite the tool-less warning message saying it requires a Hatchet. These include any [Hunting Knife](./Hunting%20Knife.md) (or variant), [Hatchet](./Hatchet.md) ([Improvised Hatchet](./Improvised%20Hatchet.md)), [Prybar](./Prybar.md), or [Heavy Hammer](./Heavy%20Hammer.md). The [Hacksaw](./Hacksaw.md) will not work. Tool condition does not degrade when harvesting Salt Deposits.
@@ -34,8 +36,10 @@ Each Salt Deposit is composed of several small interactable deposits which each 
 
 Deposits refill every 20 days.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 They are mostly found in Coastal Regions along rocky wall surfaces near the sea, but can sometimes be found inside caves:
@@ -56,7 +60,3 @@ They are mostly found in Coastal Regions along rocky wall surfaces near the sea,
 | [Little Island](./Little%20Island.md) | [Desolation Point](./Desolation%20Point.md) | 5 | Behind Little Island facing a smaller island |
 | [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md) | [Desolation Point](./Desolation%20Point.md) | 4 | In the Bear cave |
 | [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md) | [Desolation Point](./Desolation%20Point.md) | 10 | In the main chamber |
-
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
-
-## Game History

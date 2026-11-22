@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Broken Manufactured Arrow**
 
 [Broken Manufactured Arrow icon](../assets/Broken_Manufactured_Arrow_icon.png)
@@ -32,14 +30,12 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Broken Manufactured Arrow** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is only acquired after a [Manufactured Arrow](./Manufactured%20Arrow.md) finally breaks at low Condition, and cannot be harvested.
 
 The steel arrowhead is missing, and it cannot be harvested for [Crow Feathers](./Crow%20Feather.md) (since it was never made with any), so it is by all means a useless item.
-
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
-
-## Update history

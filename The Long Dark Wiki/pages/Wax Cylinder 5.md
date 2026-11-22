@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Wax Cylinder 5**
 
 [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)
@@ -38,8 +36,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Elsa.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 5**_
@@ -76,6 +76,16 @@ I love you, Erik. I will hide this cylinder if I can't find anyone to take it of
 
 But know that I think of you, always.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
+
+[ru:Восковой валик 05](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA_05)

@@ -20,8 +20,16 @@
 
 This is the mission transcript for mission 3 [Coming Storm](./Coming%20Storm.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<span id="locate_and_return_the_missing_survivors."></span><span id="Locate_and_return_the_missing_survivors."></span><span id="locate-and-return-the-missing-survivors"></span>
+<!-- #locate_and_return_the_missing_survivors. -->
+​
 
+<!-- #Locate_and_return_the_missing_survivors. -->
+​
+
+<!-- #Locate_And_Return_The_Missing_Survivors. -->
+​
+
+<!-- #locate-and-return-the-missing-survivors -->
 ## Locate and return the missing survivors.
 
 CHAPTER THREE

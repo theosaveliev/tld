@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Last Resort Soup**
 
 [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png)
@@ -46,8 +44,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Last Resort Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md). Can be cooked at Cooking skill Level 1.
@@ -55,12 +55,13 @@ It is only acquired when trading with the [Trader](./Trader.md). Can be cooked a
 - +5% increased Maximum [Condition](./Condition.md) ([Nourished](./Nourished.md)) for 3 hours
 - Negative [Fatigue](./Fatigue.md) gain (lose 15%)
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Last Resort Soup**
-
 
 40 minutes
 
@@ -80,6 +81,16 @@ It is only acquired when trading with the [Trader](./Trader.md). Can be cooked a
 
 **Quantity:** 2
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
+
+[ru:Суп последней надежды](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B9_%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B)

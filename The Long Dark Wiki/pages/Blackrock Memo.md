@@ -28,8 +28,10 @@
 
 **Page** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Blackrock](./Blackrock.md). It is inside [Blackrock Prison](./Blackrock%20Prison.md) on the [Keypad](./Keypad.md) leading to the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) room.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Blackrock Memo**_
@@ -38,10 +40,20 @@ Find me at the mine. East and up the hill, looking up at the mountain. I got a l
    
  -- M (Who is M?)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
+
+[ru:Записка Черного камня (мастерская)](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%BC%D0%BD%D1%8F_%28%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%29)

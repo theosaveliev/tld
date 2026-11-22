@@ -24,8 +24,10 @@ Episode
 
 **To SAR And Back** is the only mission of Part Three: Do No Harm in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Retrieve the Trauma Kit
@@ -36,8 +38,10 @@ Episode
   - Get the Firebox to temperature.
 - Return to Mathis with Trauma Kit.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 After the cutscene and talk about the locomotive, climb the locomotive and examine it's dashboard. You need to find the throttle lever.
@@ -64,7 +68,3 @@ You will encounter two stops along the way, in the form of Railyard 2 and the De
 - For the Derelict Siding, simply adjust the switch to avoid heading down the dead end.
 
 Once you return to the maintenance shed, return to Heller and end the mission.
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

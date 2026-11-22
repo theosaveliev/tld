@@ -34,8 +34,19 @@
 
 **Sticks** are a crafting material and fuel material in _The Long Dark_.
 
-<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+<!-- #fire_starting_info -->
+​
 
+<!-- #Fire_Starting_info -->
+​
+
+<!-- #Fire_starting_info -->
+​
+
+<!-- #Fire_Starting_Info -->
+​
+
+<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Stick**
@@ -52,8 +63,10 @@
 
 **Burn Density:** 0.83 hr/kg (0.38 hr/lb)
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -64,8 +77,10 @@
 | [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Stick](./Stick.md) |
 | [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 Torches (including Ruined Torches) may be harvested into a stick, for just 2 minutes (in-game).
@@ -80,14 +95,24 @@ Sticks can also be used as a basic compass, because when dropped they will point
 
 It's commonly believed that sticks respawn after strong winds or blizzards, but this is untrue. Radial spawns (sticks, branches, coal, stones ect.) simply spawn on a randomized timer, independent of any weather conditions.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An arrow for navigation purposes made out of four sticks.](../assets/ArrowMadeOfSticks.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**

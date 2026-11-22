@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Ptarmigan Pie**
 
 [Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png)
@@ -44,18 +42,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Ptarmigan Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - +3kg of Maximum Carry Weight (for 3 hours)
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Ptarmigan Pie**
-
 
 80.0 minutes (1 hour 20 minutes)
 
@@ -79,9 +80,19 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Quantity:** 0.50 kg
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Пирог из куропатки](https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3_%D0%B8%D0%B7_%D0%BA%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B8)

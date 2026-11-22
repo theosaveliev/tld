@@ -28,18 +28,36 @@ Yes A **Hatch** is a storage container found in various places across the Island
 
 Some hatches have a different storage capacity.
 
-<span id="floor_hatch"></span><span id="Floor_Hatch"></span><span id="floor-hatch"></span>
+<!-- #floor_hatch -->
+​
 
+<!-- #Floor_Hatch -->
+​
+
+<!-- #Floor_hatch -->
+​
+
+<!-- #floor-hatch -->
 ## Floor Hatch
 
 40.00 kg storage
 
-<span id="helicopterairplane_hatch"></span><span id="Helicopter/Airplane_Hatch"></span><span id="helicopter/airplane_hatch"></span><span id="helicopterairplane-hatch"></span>
+<!-- #helicopterairplane_hatch -->
+​
 
+<!-- #Helicopter/Airplane_Hatch -->
+​
+
+<!-- #helicopter/airplane_hatch -->
+​
+
+<!-- #Helicopter/airplane_hatch -->
+​
+
+<!-- #Helicopter/airplane_Hatch -->
+​
+
+<!-- #helicopterairplane-hatch -->
 ## Helicopter/Airplane Hatch
 
 40.00 kg storage
-
-<span id="helicopter_tube_hatch"></span><span id="Helicopter_Tube_Hatch"></span><span id="helicopter-tube-hatch"></span>
-
-## Helicopter Tube Hatch

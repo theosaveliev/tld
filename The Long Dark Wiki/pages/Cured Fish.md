@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Cured Fish**
 
 [Cured Fish icon](../assets/Cured_Fish_icon.png)
@@ -36,8 +34,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cured Fish** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Cured Fish can only be acquired by placing any type of raw fish with condition higher than 40% inside a [Meat Curing Box](./Meat%20Curing%20Box.md) filled with [Salt](./Salt.md) for 7 in-game days. Placing meat inside a Meat Curing Box will instead produce [Cured Meat](./Cured%20Meat.md).
@@ -51,7 +51,3 @@ It doesn't matter the weight or calories of raw fish input, the output is always
 If the player ate from a raw fish, the leftover fish will cure at a weight ratio of 20/1 (1 kg leftover raw fish =&gt; 0.05 kg Cured Fish). So, in order to obtain maximum calories from curing a raw fish bigger than 4kg, it can be partially eaten until it reaches 4 kg (risking [Food Poisoning](./Food%20Poisoning.md)), then cure 4kg leftover raw fish into 0.20 kg Cured Fish.
 
 Unlike Cured Meat, Cured Fish cannot be used to cook [Pemmican Bar](./Pemmican%20Bar.md).
-
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
-
-## Update history

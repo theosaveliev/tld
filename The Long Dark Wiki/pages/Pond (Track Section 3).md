@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Pond**
 
 [Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg)
@@ -25,7 +23,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **General**
 
 Has no shelter **Pond** is a location in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
-
-<span id="overview"></span><span id="Overview"></span>
-
-## Overview

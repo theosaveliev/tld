@@ -28,16 +28,26 @@
 
 **Park Warning Notice** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md). It is located on an information board when following the path into [Milton Park](./Milton%20Park.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Park Warning Notice**_
 
 Due to the unfortunate accident, the Milton &amp; Area Parks Board can no longer condone the use of the climbing area within the park boundaries. Additionally, recent seismic activity has brought the safety of several some (sic) common routes and climbing sections into question. We are reviewing safety policies and will publish findings as soon as possible. Until then, please refrain from using designated climbing areas in the Park. - Signed, M. Antonides, Milton &amp; Area parks Board.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

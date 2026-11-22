@@ -32,8 +32,16 @@
 
 It is used to open the [Weapon Locker](./Weapon%20Locker.md) inside the [Constable's Office](./Constable%27s%20Office.md) to obtain a [Revolver](./Revolver.md) and 2 [Revolver Ammunition](./Revolver%20Ammunition.md) cartridges.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

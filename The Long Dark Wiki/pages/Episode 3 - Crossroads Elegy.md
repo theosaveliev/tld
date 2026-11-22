@@ -31,20 +31,20 @@
 
 _"In the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood from near-death. Facing the blizzards of Pleasant Valley, Astrid must bring all of her skills as a doctor to bear on the survivors she encounters. Will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?"_
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **_Crossroads Elegy_** is the third episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and is followed by [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valley.md) region.
 
-<span id="main_missions"></span><span id="Main_Missions"></span><span id="main-missions"></span>
+<!-- #Trauma -->
+​
 
-## Main Missions
-
-<span id="trauma"></span><span id="Trauma"></span>
-
+<!-- #trauma -->
 ### Trauma
 
 ![Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
@@ -55,8 +55,16 @@ _Main article: [Trauma](./Trauma.md)_
 
 — In-game description
 
-<span id="fallen_star"></span><span id="Fallen_Star"></span><span id="fallen-star"></span>
+<!-- #fallen_star -->
+​
 
+<!-- #Fallen_Star -->
+​
+
+<!-- #Fallen_star -->
+​
+
+<!-- #fallen-star -->
 ### Fallen Star
 
 ![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
@@ -67,8 +75,16 @@ _Main article: [Fallen Star](./Fallen%20Star.md)_
 
 — In-game description
 
-<span id="coming_storm"></span><span id="Coming_Storm"></span><span id="coming-storm"></span>
+<!-- #coming_storm -->
+​
 
+<!-- #Coming_Storm -->
+​
+
+<!-- #Coming_storm -->
+​
+
+<!-- #coming-storm -->
 ### Coming Storm
 
 ![Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png)
@@ -79,8 +95,10 @@ _Main article: [Coming Storm](./Coming%20Storm.md)_
 
 — In-game description
 
-<span id="aftermath"></span><span id="Aftermath"></span>
+<!-- #Aftermath -->
+​
 
+<!-- #aftermath -->
 ### Aftermath
 
 ![Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png)
@@ -91,12 +109,10 @@ _Main article: [Aftermath](./Aftermath.md)_
 
 — In-game description
 
-<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+<!-- #Blackrock -->
+​
 
-## Side Missions
-
-<span id="blackrock"></span><span id="Blackrock"></span>
-
+<!-- #blackrock -->
 ### Blackrock
 
 ![Missions story ep3 Side](../assets/Missions_story_ep3_Side.png)
@@ -107,8 +123,16 @@ _Main article: [Blackrock (mission)](./Blackrock%20%28mission%29.md)_
 
 — In-game description
 
-<span id="forest_talkers"></span><span id="Forest_Talkers"></span><span id="forest-talkers"></span>
+<!-- #forest_talkers -->
+​
 
+<!-- #Forest_Talkers -->
+​
+
+<!-- #Forest_talkers -->
+​
+
+<!-- #forest-talkers -->
 ### Forest Talkers
 
 ![Missions story ep3 Fallen Star](../assets/Missions_story_ep3_Fallen_Star.png)
@@ -119,8 +143,16 @@ _Main article: [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mi
 
 — In-game description
 
-<span id="tall_tales"></span><span id="Tall_Tales"></span><span id="tall-tales"></span>
+<!-- #tall_tales -->
+​
 
+<!-- #Tall_Tales -->
+​
+
+<!-- #Tall_tales -->
+​
+
+<!-- #tall-tales -->
 ### Tall Tales
 
 _Main article: [Tall Tales](./Tall%20Tales.md)_
@@ -129,8 +161,19 @@ _Main article: [Tall Tales](./Tall%20Tales.md)_
 
 — In-game description
 
-<span id="mollys_gift"></span><span id="Molly&#x27;s_Gift"></span><span id="molly&#x27;s_gift"></span><span id="mollys-gift"></span>
+<!-- #mollys_gift -->
+​
 
+<!-- #Molly's_Gift -->
+​
+
+<!-- #molly's_gift -->
+​
+
+<!-- #Molly's_gift -->
+​
+
+<!-- #mollys-gift -->
 ### Molly's Gift
 
 _Main article: [Molly's Gift](./Molly%27s%20Gift.md)_
@@ -139,8 +182,19 @@ _Main article: [Molly's Gift](./Molly%27s%20Gift.md)_
 
 — In-game description
 
-<span id="joplins_bunker_raid"></span><span id="Joplin&#x27;s_Bunker_Raid"></span><span id="joplin&#x27;s_bunker_raid"></span><span id="joplins-bunker-raid"></span>
+<!-- #joplins_bunker_raid -->
+​
 
+<!-- #Joplin's_Bunker_Raid -->
+​
+
+<!-- #joplin's_bunker_raid -->
+​
+
+<!-- #Joplin's_bunker_raid -->
+​
+
+<!-- #joplins-bunker-raid -->
 ### Joplin's Bunker Raid
 
 _Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)_
@@ -149,8 +203,16 @@ _Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)_
 
 — In-game description
 
-<span id="church_artifact"></span><span id="Church_Artifact"></span><span id="church-artifact"></span>
+<!-- #church_artifact -->
+​
 
+<!-- #Church_Artifact -->
+​
+
+<!-- #Church_artifact -->
+​
+
+<!-- #church-artifact -->
 ### Church Artifact
 
 _Main article: [Church Artifact](./Church%20Artifact.md)_
@@ -159,20 +221,32 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 
 — In-game description
 
-<span id="cast"></span><span id="Cast"></span>
+<!-- #major_characters -->
+​
 
-## Cast
+<!-- #Major_Characters -->
+​
 
-<span id="major_characters"></span><span id="Major_Characters"></span><span id="major-characters"></span>
+<!-- #Major_characters -->
+​
 
+<!-- #major-characters -->
 ### Major Characters
 
 - [Astrid Greenwood](./Astrid%20Greenwood.md)- (playable character) Jennifer Hale
 - [Molly](./Molly.md) - Jennifer Kitchen
 - [Father Thomas](./Father%20Thomas.md) - Alec Willows
 
-<span id="minor_characters"></span><span id="Minor_Characters"></span><span id="minor-characters"></span>
+<!-- #minor_characters -->
+​
 
+<!-- #Minor_Characters -->
+​
+
+<!-- #Minor_characters -->
+​
+
+<!-- #minor-characters -->
 ### Minor Characters
 
 - [Astrid's Friend](./Jane%20Yang.md) - (flashback) Rita Yee
@@ -183,18 +257,30 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 - Lost Crash Survivor, Ava - Aimee Ayottee
 - Radio Voice - (man on the radio calling from Perseverance Mills) - Noel Johansen
 
-<span id="affliction_availability"></span><span id="Affliction_Availability"></span><span id="affliction-availability"></span>
+<!-- #positive_benefit -->
+​
 
-## Affliction Availability
+<!-- #Positive_Benefit -->
+​
 
-<span id="positive_benefit"></span><span id="Positive_Benefit"></span><span id="positive-benefit"></span>
+<!-- #Positive_benefit -->
+​
 
+<!-- #positive-benefit -->
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
 
-<span id="negative_affliction"></span><span id="Negative_Affliction"></span><span id="negative-affliction"></span>
+<!-- #negative_affliction -->
+​
 
+<!-- #Negative_Affliction -->
+​
+
+<!-- #Negative_affliction -->
+​
+
+<!-- #negative-affliction -->
 ### Negative Affliction
 
 - [Torn Clothing](./Torn%20Clothing.md)/[Minor Bruising](./Minor%20Bruising.md)/[Major Bruising](./Major%20Bruising.md)/[Laceration](./Laceration.md)
@@ -204,14 +290,27 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
-<span id="craft_able_unlocks"></span><span id="Craft-able_Unlocks"></span><span id="craft-able_unlocks"></span><span id="craft-able-unlocks"></span>
+<!-- #craft_able_unlocks -->
+​
 
+<!-- #Craft-able_Unlocks -->
+​
+
+<!-- #craft-able_unlocks -->
+​
+
+<!-- #Craft-able_unlocks -->
+​
+
+<!-- #craft-able-unlocks -->
 ## Craft-able Unlocks
 
 - [Wolfskin Coat](./Wolfskin%20Coat.md)
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - ![Community Service icon](../assets/Community_Service_icon.png) [Community Service](./Community%20Service.md)
@@ -223,8 +322,10 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 - ![Every Last One icon](../assets/Every_Last_One_icon.png) [Every Last One](./Every%20Last%20One.md)
 - ![There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png) [There Will Be Blood](./There%20Will%20Be%20Blood.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Episode 3 Menu Background](../assets/Episode_3_Menu_Background.png)

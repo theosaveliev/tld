@@ -36,18 +36,24 @@
 
 > “**Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?**”
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **_Luminance Fugue_** is the second episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is followed by [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<span id="main_missions"></span><span id="Main_missions"></span><span id="main-missions"></span>
+<!-- #the_wounded_trapper -->
+​
 
-## Main missions
+<!-- #The_Wounded_Trapper -->
+​
 
-<span id="the_wounded_trapper"></span><span id="The_Wounded_Trapper"></span><span id="the-wounded-trapper"></span>
+<!-- #The_wounded_trapper -->
+​
 
+<!-- #the-wounded-trapper -->
 ### The Wounded Trapper
 
 ![Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
@@ -58,8 +64,16 @@ _Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)_
 
 — In-game description
 
-<span id="the_best_defense"></span><span id="The_Best_Defense"></span><span id="the-best-defense"></span>
+<!-- #the_best_defense -->
+​
 
+<!-- #The_Best_Defense -->
+​
+
+<!-- #The_best_defense -->
+​
+
+<!-- #the-best-defense -->
 ### The Best Defense
 
 ![Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
@@ -70,8 +84,19 @@ _Main article: [The Best Defense](./The%20Best%20Defense.md)_
 
 — In-game description
 
-<span id="signal_to_noise"></span><span id="Signal_to_Noise"></span><span id="signal-to-noise"></span>
+<!-- #signal_to_noise -->
+​
 
+<!-- #Signal_to_Noise -->
+​
+
+<!-- #Signal_to_noise -->
+​
+
+<!-- #Signal_To_Noise -->
+​
+
+<!-- #signal-to-noise -->
 ### Signal to Noise
 
 ![Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
@@ -82,8 +107,16 @@ _Main article: [Signal to Noise](./Signal%20to%20Noise.md)_
 
 — In-game description
 
-<span id="what_one_man_can_do"></span><span id="What_One_Man_Can_Do"></span><span id="what-one-man-can-do"></span>
+<!-- #what_one_man_can_do -->
+​
 
+<!-- #What_One_Man_Can_Do -->
+​
+
+<!-- #What_one_man_can_do -->
+​
+
+<!-- #what-one-man-can-do -->
 ### What One Man Can Do
 
 ![Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
@@ -94,8 +127,16 @@ _Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)_
 
 — In-game description
 
-<span id="renewed_hope"></span><span id="Renewed_Hope"></span><span id="renewed-hope"></span>
+<!-- #renewed_hope -->
+​
 
+<!-- #Renewed_Hope -->
+​
+
+<!-- #Renewed_hope -->
+​
+
+<!-- #renewed-hope -->
 ### **Renewed Hope**
 
 ![Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
@@ -106,12 +147,16 @@ _Main article: [Renewed Hope](./Renewed%20Hope.md)_
 
 — In-game description
 
-<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+<!-- #forest_talker_supply_caches -->
+​
 
-## Side Missions
+<!-- #Forest_Talker_Supply_Caches -->
+​
 
-<span id="forest_talker_supply_caches"></span><span id="Forest_Talker_Supply_Caches"></span><span id="forest-talker-supply-caches"></span>
+<!-- #Forest_talker_supply_caches -->
+​
 
+<!-- #forest-talker-supply-caches -->
 ### Forest Talker Supply Caches
 
 ![Missions story ep2 Side](../assets/Missions_story_ep2_Side.png)
@@ -122,8 +167,16 @@ _Main article: [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches
 
 — In-game description
 
-<span id="mystery_lake_supply_caches"></span><span id="Mystery_Lake_Supply_Caches"></span><span id="mystery-lake-supply-caches"></span>
+<!-- #mystery_lake_supply_caches -->
+​
 
+<!-- #Mystery_Lake_Supply_Caches -->
+​
+
+<!-- #Mystery_lake_supply_caches -->
+​
+
+<!-- #mystery-lake-supply-caches -->
 ### Mystery Lake Supply Caches
 
 _Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)_
@@ -132,8 +185,16 @@ _Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.m
 
 — In-game description
 
-<span id="aurora_hatch"></span><span id="Aurora_Hatch"></span><span id="aurora-hatch"></span>
+<!-- #aurora_hatch -->
+​
 
+<!-- #Aurora_Hatch -->
+​
+
+<!-- #Aurora_hatch -->
+​
+
+<!-- #aurora-hatch -->
 ### Aurora Hatch
 
 _Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
@@ -142,8 +203,19 @@ _Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
 
 — In-game description
 
-<span id="hanks_hatch"></span><span id="Hank&#x27;s_Hatch"></span><span id="hank&#x27;s_hatch"></span><span id="hanks-hatch"></span>
+<!-- #hanks_hatch -->
+​
 
+<!-- #Hank's_Hatch -->
+​
+
+<!-- #hank's_hatch -->
+​
+
+<!-- #Hank's_hatch -->
+​
+
+<!-- #hanks-hatch -->
 ### Hank's Hatch
 
 _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
@@ -152,8 +224,16 @@ _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
 
 — In-game description
 
-<span id="lake_gunshots"></span><span id="Lake_Gunshots"></span><span id="lake-gunshots"></span>
+<!-- #lake_gunshots -->
+​
 
+<!-- #Lake_Gunshots -->
+​
+
+<!-- #Lake_gunshots -->
+​
+
+<!-- #lake-gunshots -->
 ### Lake Gunshots
 
 _Main article: [Lake Gunshots](./Lake%20Gunshots.md)_
@@ -162,8 +242,16 @@ _Main article: [Lake Gunshots](./Lake%20Gunshots.md)_
 
 — In-game description
 
-<span id="survival_school"></span><span id="Survival_School"></span><span id="survival-school"></span>
+<!-- #survival_school -->
+​
 
+<!-- #Survival_School -->
+​
+
+<!-- #Survival_school -->
+​
+
+<!-- #survival-school -->
 ### Survival School
 
 _Main article: [Survival School](./Survival%20School.md)_
@@ -172,8 +260,19 @@ _Main article: [Survival School](./Survival%20School.md)_
 
 — In-game description
 
-<span id="non_mission_objective"></span><span id="Non-mission_objective"></span><span id="non-mission_objective"></span><span id="non-mission-objective"></span>
+<!-- #non_mission_objective -->
+​
 
+<!-- #Non-mission_objective -->
+​
+
+<!-- #non-mission_objective -->
+​
+
+<!-- #Non-mission_Objective -->
+​
+
+<!-- #non-mission-objective -->
 ## Non-mission objective
 
 In addition to the side missions, the player can also find three keys to the locked lake cabins. The cabins contain various loot.
@@ -182,20 +281,32 @@ In addition to the side missions, the player can also find three keys to the loc
 - Key to cabin #2 is found in the hunter's blind near [Alan's cave](./Alan%27s%20Cave.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md).
 - Key to cabin #3 is found within the [Camp Office](./Camp%20Office.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md).
 
-<span id="cast"></span><span id="Cast"></span>
+<!-- #major_characters -->
+​
 
-## Cast
+<!-- #Major_Characters -->
+​
 
-<span id="major_characters"></span><span id="Major_Characters"></span><span id="major-characters"></span>
+<!-- #Major_characters -->
+​
 
+<!-- #major-characters -->
 ### Major Characters
 
 - [Will Mackenzie](./Will%20Mackenzie.md) - (playable character) Mark Meer
 - [Jeremiah](./Jeremiah.md) - David Hayter
 - [Methuselah](./Methuselah.md) - Richard Newman
 
-<span id="minor_characters"></span><span id="Minor_Characters"></span><span id="minor-characters"></span>
+<!-- #minor_characters -->
+​
 
+<!-- #Minor_Characters -->
+​
+
+<!-- #Minor_characters -->
+​
+
+<!-- #minor-characters -->
 ### Minor Characters
 
 - [Mathis](./Mathis.md) - (ending cameo) Elias Toufexis (formerly voiced by Gord Marriott)
@@ -203,18 +314,30 @@ In addition to the side missions, the player can also find three keys to the loc
 - Radio Voice - (man on the radio calling from Perseverance Mills) - Noel Johansen
 - Forest Talker ([Lake Gunshots](./Lake%20Gunshots.md)) - Brian Drummond
 
-<span id="affliction_availability"></span><span id="Affliction_Availability"></span><span id="affliction-availability"></span>
+<!-- #positive_benefit -->
+​
 
-## Affliction Availability
+<!-- #Positive_Benefit -->
+​
 
-<span id="positive_benefit"></span><span id="Positive_Benefit"></span><span id="positive-benefit"></span>
+<!-- #Positive_benefit -->
+​
 
+<!-- #positive-benefit -->
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
 
-<span id="negative_affliction"></span><span id="Negative_Affliction"></span><span id="negative-affliction"></span>
+<!-- #negative_affliction -->
+​
 
+<!-- #Negative_Affliction -->
+​
+
+<!-- #Negative_affliction -->
+​
+
+<!-- #negative-affliction -->
 ### Negative Affliction
 
 - [Torn Clothing](./Torn%20Clothing.md)/[Minor Bruising](./Minor%20Bruising.md)/[Major Bruising](./Major%20Bruising.md)/[Laceration](./Laceration.md)
@@ -224,12 +347,19 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
-<span id="craft_able_unlocks"></span><span id="Craft-able_Unlocks"></span><span id="craft-able_unlocks"></span><span id="craft-able-unlocks"></span>
+<!-- #player_and_workbench_unlocks -->
+​
 
-## Craft-able Unlocks
+<!-- #Player_and_Workbench_Unlocks -->
+​
 
-<span id="player_and_workbench_unlocks"></span><span id="Player_and_Workbench_Unlocks"></span><span id="player-and-workbench-unlocks"></span>
+<!-- #Player_and_workbench_unlocks -->
+​
 
+<!-- #Player_And_Workbench_Unlocks -->
+​
+
+<!-- #player-and-workbench-unlocks -->
 ### Player and Workbench Unlocks
 
 - [Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
@@ -265,8 +395,16 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Torch](./Torch.md)
   - Unlocks during Episode 1.
 
-<span id="forge_unlocks"></span><span id="Forge_Unlocks"></span><span id="forge-unlocks"></span>
+<!-- #forge_unlocks -->
+​
 
+<!-- #Forge_Unlocks -->
+​
+
+<!-- #Forge_unlocks -->
+​
+
+<!-- #forge-unlocks -->
 ### Forge Unlocks
 
 - [Spear Head](./Spear%20Head.md)
@@ -275,8 +413,10 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Improvised Hatchet](./Improvised%20Hatchet.md)
   - After successfully crafting a Spear Head, then it will unlock this ability.
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - ![The Old Trapper icon](../assets/The_Old_Trapper_icon.png) [The Old Trapper](./The%20Old%20Trapper.md)
@@ -287,14 +427,18 @@ In addition to the side missions, the player can also find three keys to the loc
 - ![Sounds Like Some Kind of Indie Band icon](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) [Sounds Like Some Kind of Indie Band](./Sounds%20Like%20Some%20Kind%20of%20Indie%20Band.md)
 - ![Cache Mastery icon](../assets/Cache_Mastery_icon.png) [Cache Mastery](./Cache%20Mastery.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Episode 2 Menu Background](../assets/Episode_2_Menu_Background.png)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Of all the episodes of Wintermute, Episode 2 is the most similar to [Survival Mode](./Survival%20Mode.md).

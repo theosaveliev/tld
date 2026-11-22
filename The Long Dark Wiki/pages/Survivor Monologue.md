@@ -72,12 +72,16 @@ Below is an incomplete list of the things that the survivor may say in gameplay.
 
 Behind each line is an abbreviation showing which character says it, Will (W), or Astrid (A). Most voice lines are shared between the two, though sometimes survivors have their own unique voice lines.
 
-<span id="warmth"></span><span id="Warmth"></span>
+<!-- #rd_depleted -->
+​
 
-## [Warmth](./Warmth.md)
+<!-- #1/3rd_depleted -->
+​
 
-<span id="rd_depleted"></span><span id="1/3rd_depleted"></span><span id="13rd-depleted"></span>
+<!-- #1/3rd_Depleted -->
+​
 
+<!-- #13rd-depleted -->
 ### 1/3Rd depleted
 
 - Shivering noises (W,A)
@@ -85,8 +89,16 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Need to find some place to escape this cold. (W,A)
 - Gotta warm up somehow. (A)
 
-<span id="rd_depleted_1"></span><span id="2/3rd_depleted"></span><span id="23rd-depleted"></span>
+<!-- #rd_depleted_1 -->
+​
 
+<!-- #2/3rd_depleted -->
+​
+
+<!-- #2/3rd_Depleted -->
+​
+
+<!-- #23rd-depleted -->
 ### 2/3Rd depleted
 
 - Shivering noises (W,A)
@@ -99,8 +111,10 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - So cold (shivers) think of fire (shivers) yeah, hot fire. (shivers)-PHUGH! (shivers). (A)
 - (Various shivering noises from the player character, sometimes followed by frustrated grunts)
 
-<span id="freezing"></span><span id="Freezing"></span>
+<!-- #Freezing -->
+​
 
+<!-- #freezing -->
 ### Freezing
 
 - I'm so cold...just want to lay down for a bit. (A)
@@ -113,18 +127,18 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - God damn freezing! (W,A)
 - Damn...I'm freezing. (W,A)
 
-<span id="fatigue"></span><span id="Fatigue"></span>
+<!-- #rd_depleted_2 -->
+​
 
-## [Fatigue](./Fatigue.md)
-
-<span id="rd_depleted_2"></span><span id="13rd-depleted-1"></span>
-
+<!-- #13rd-depleted-1 -->
 ### 1/3Rd depleted
 
 - (Yawning noises) (W,A)
 
-<span id="rd_depleted_3"></span><span id="23rd-depleted-1"></span>
+<!-- #rd_depleted_3 -->
+​
 
+<!-- #23rd-depleted-1 -->
 ### 2/3Rd depleted
 
 - I think I need to lay down. (W)
@@ -137,8 +151,16 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Gonna need to rest soon (W,A)
 - (Tired exhausted sighing sounds) (W,A)
 
-<span id="fully_depleted"></span><span id="Fully_depleted"></span><span id="fully-depleted"></span>
+<!-- #fully_depleted -->
+​
 
+<!-- #Fully_depleted -->
+​
+
+<!-- #Fully_Depleted -->
+​
+
+<!-- #fully-depleted -->
 ### Fully depleted
 
 - I'm too tired to think straight. (W,A)
@@ -149,18 +171,30 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - So tired I could lay down right here. (A)
 - (Deep and heavy inhaling and exhaling)
 
-<span id="hunger"></span><span id="Hunger"></span>
+<!-- #depleted -->
+​
 
-## [Hunger](./Hunger.md)
+<!-- #1/2_depleted -->
+​
 
-<span id="depleted"></span><span id="1/2_depleted"></span><span id="12-depleted"></span>
+<!-- #1/2_Depleted -->
+​
 
+<!-- #12-depleted -->
 ### 1/2 Depleted
 
 - (Various stomach growling noises)
 
-<span id="depleted_1"></span><span id="3/4_depleted"></span><span id="34-depleted"></span>
+<!-- #depleted_1 -->
+​
 
+<!-- #3/4_depleted -->
+​
+
+<!-- #3/4_Depleted -->
+​
+
+<!-- #34-depleted -->
 ### 3/4 Depleted
 
 - I need to find food. (W,A)
@@ -171,8 +205,10 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Argh I'm starving! (A)
 - I could eat anything right about now (W)
 
-<span id="fully_depleted_1"></span><span id="fully-depleted-1"></span>
+<!-- #fully_depleted_1 -->
+​
 
+<!-- #fully-depleted-1 -->
 ### Fully depleted
 
 - I could eat ANYTHING. (W,A)
@@ -190,18 +226,18 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I think my stomach is eating itself. (W,A)
 - Never thought I'd die of starvation. (W,A)
 
-<span id="thirst"></span><span id="Thirst"></span>
+<!-- #depleted_2 -->
+​
 
-## [Thirst](./Thirst.md)
-
-<span id="depleted_2"></span><span id="12-depleted-1"></span>
-
+<!-- #12-depleted-1 -->
 ### 1/2 Depleted
 
 - Dry lip smacking sounds (W,A)
 
-<span id="depleted_3"></span><span id="34-depleted-1"></span>
+<!-- #depleted_3 -->
+​
 
+<!-- #34-depleted-1 -->
 ### 3/4 Depleted
 
 - I could use a drink. (W)
@@ -213,8 +249,10 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Need a drink. (W,A)
 - Better find some water. (W)
 
-<span id="fully_depleted_2"></span><span id="fully-depleted-2"></span>
+<!-- #fully_depleted_2 -->
+​
 
+<!-- #fully-depleted-2 -->
 ### Fully depleted
 
 - Mouth...so dry. (W)
@@ -226,8 +264,16 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I need something to drink! (W,A)
 - I'd drink almost anything right about now... (A,W)
 
-<span id="find_item"></span><span id="Find_item"></span><span id="find-item"></span>
+<!-- #find_item -->
+​
 
+<!-- #Find_item -->
+​
+
+<!-- #Find_Item -->
+​
+
+<!-- #find-item -->
 ## Find item
 
 - This'll come in handy. (W,A)
@@ -244,8 +290,16 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I could make something with this. (W)
 - Ah, someone's stash. (W)
 
-<span id="find_food"></span><span id="Find_food"></span><span id="find-food"></span>
+<!-- #find_food -->
+​
 
+<!-- #Find_food -->
+​
+
+<!-- #Find_Food -->
+​
+
+<!-- #find-food -->
 ### Find food
 
 - I'd better take this food. (W)
@@ -258,35 +312,66 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Excellent. (W, found pop)
 - Thank goodness. (W, found pop)
 
-<span id="find_potable_water"></span><span id="Find_potable_water"></span><span id="find-potable-water"></span>
+<!-- #find_potable_water -->
+​
 
+<!-- #Find_potable_water -->
+​
+
+<!-- #Find_Potable_Water -->
+​
+
+<!-- #find-potable-water -->
 ### Find potable water
 
 - Can't have too much water. (W)
 - Should be good to drink? (W)
 - Don't wanna run out of water. (W)
 
-<span id="find_weapon"></span><span id="Find_weapon"></span><span id="find-weapon"></span>
+<!-- #find_weapon -->
+​
 
+<!-- #Find_weapon -->
+​
+
+<!-- #Find_Weapon -->
+​
+
+<!-- #find-weapon -->
 ### Find weapon
 
 - Better to be safe than sorry. (W)
 - Never know when I might need to defend myself. (W)
 - Thank you! (A)
 
-<span id="find_lantern_fuel"></span><span id="Find_Lantern_fuel"></span><span id="find-lantern-fuel"></span>
+<!-- #find_lantern_fuel -->
+​
 
+<!-- #Find_Lantern_fuel -->
+​
+
+<!-- #Find_lantern_fuel -->
+​
+
+<!-- #Find_Lantern_Fuel -->
+​
+
+<!-- #find-lantern-fuel -->
 ### Find Lantern fuel
 
 - "Now we're cooking with gas." (W)
 - Lamp fuel? I can use this. (W)
 
-<span id="encumbrance"></span><span id="Encumbrance"></span>
+<!-- #kg_over_carry_weight -->
+​
 
-## [Encumbrance](./Encumbrance.md)
+<!-- #3-5kg_over_carry_weight -->
+​
 
-<span id="kg_over_carry_weight"></span><span id="3-5kg_over_carry_weight"></span><span id="3-5kg-over-carry-weight"></span>
+<!-- #3-5kg_Over_Carry_Weight -->
+​
 
+<!-- #3-5kg-over-carry-weight -->
 ### 3-5Kg over carry weight
 
 - I might have to drop some gear. (W,A)
@@ -298,8 +383,16 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Feels like a lot of gear. (W,A)
 - I'm not going to be able to carry this load for much longer. (W,A)
 
-<span id="kg_over_carry_weight_1"></span><span id="10-15kg_over_carry_weight"></span><span id="10-15kg-over-carry-weight"></span>
+<!-- #kg_over_carry_weight_1 -->
+​
 
+<!-- #10-15kg_over_carry_weight -->
+​
+
+<!-- #10-15kg_Over_Carry_Weight -->
+​
+
+<!-- #10-15kg-over-carry-weight -->
 ### 10-15Kg over carry weight
 
 - Too heavy, can't move. (W)
@@ -307,13 +400,16 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I can't carry this any further! (W)
 - I'm going to have to leave some of this gear behind.
 
+<!-- #blood_loss -->
+​
 
-<span id="afflictions"></span><span id="Afflictions"></span>
+<!-- #Blood_Loss -->
+​
 
-## [Afflictions](./Afflictions.md)
+<!-- #Blood_loss -->
+​
 
-<span id="blood_loss"></span><span id="Blood_Loss"></span><span id="blood-loss"></span>
-
+<!-- #blood-loss -->
 ### Blood Loss
 
 - I'm going to bleed out soon. (W)
@@ -324,8 +420,10 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Need some first aid. (W)
 - Losing all that blood can't be good for me. (W)
 
-<span id="burns"></span><span id="Burns"></span>
+<!-- #Burns -->
+​
 
+<!-- #burns -->
 ### Burns
 
 Upon contact with live wires/fire
@@ -341,41 +439,59 @@ A short while after contracting Burns.
 - That hurts so much... (W,A)
 - Arggh the pain. (W,A)
 
-<span id="food_poisoning"></span><span id="Food_Poisoning"></span><span id="food-poisoning"></span>
+<!-- #food_poisoning -->
+​
 
+<!-- #Food_Poisoning -->
+​
+
+<!-- #Food_poisoning -->
+​
+
+<!-- #food-poisoning -->
 ### Food Poisoning
 
 - My stomach...it hurts...oh, it hurts! (W)
 - What a way to die...I just want to die. (W)
 - Oh, what a way to die... I just wanna die... (A)
 
-<span id="dysentery"></span><span id="Dysentery"></span>
+<!-- #Dysentery -->
+​
 
+<!-- #dysentery -->
 ### Dysentery
 
 - Oh boy...it feels like my stomach's burning... (W)
 - Aw....well this is a shitty way to die! (W)
 - Aw man...of all the ways to die...this is the worst. (W)
 
-<span id="infection"></span><span id="Infection"></span>
+<!-- #Infection -->
+​
 
+<!-- #infection -->
 ### Infection
 
 - (Delirious, confused slurring)
 - I'm gonna need...medicine...antibiotics.
 
-<span id="sprains"></span><span id="Sprains"></span>
+<!-- #acquire_sprained_ankle -->
+​
 
-### Sprains
+<!-- #Acquire_Sprained_Ankle -->
+​
 
-<span id="acquire_sprained_ankle"></span><span id="Acquire_Sprained_Ankle"></span><span id="acquire-sprained-ankle"></span>
+<!-- #Acquire_sprained_ankle -->
+​
 
+<!-- #acquire-sprained-ankle -->
 ### Acquire Sprained Ankle
 
 - Holy...hope my wrist isn't broken. (W)
 
-<span id="acquire_sprained_ankle_1"></span><span id="acquire-sprained-ankle-1"></span>
+<!-- #acquire_sprained_ankle_1 -->
+​
 
+<!-- #acquire-sprained-ankle-1 -->
 #### Acquire Sprained Ankle
 
 - That's gonna slow things down... (W)
@@ -386,8 +502,19 @@ A short while after contracting Burns.
 - Damn it...sprained my ankle. (W)
 - That hurts...like hell. (W)
 
-<span id="walking_with_sprained_ankle"></span><span id="Walking_with_Sprained_Ankle"></span><span id="walking-with-sprained-ankle"></span>
+<!-- #walking_with_sprained_ankle -->
+​
 
+<!-- #Walking_with_Sprained_Ankle -->
+​
+
+<!-- #Walking_with_sprained_ankle -->
+​
+
+<!-- #Walking_With_Sprained_Ankle -->
+​
+
+<!-- #walking-with-sprained-ankle -->
 #### Walking with Sprained Ankle
 
 - Hurts a bit, but I'll make it (W,A)
@@ -397,8 +524,10 @@ A short while after contracting Burns.
 - I'm going to need some first aid, soon. (W,A)
 - That smarts a bit. (A)
 
-<span id="insomnia"></span><span id="Insomnia"></span>
+<!-- #Insomnia -->
+​
 
+<!-- #insomnia -->
 ### Insomnia
 
 - I'm tired...can't sleep (W)
@@ -408,8 +537,10 @@ A short while after contracting Burns.
 - I'm exhausted, I just can't sleep. (W)
 - Please, please, please... I just wanna sleep. (W)
 
-<span id="anxiety"></span><span id="Anxiety"></span>
+<!-- #Anxiety -->
+​
 
+<!-- #anxiety -->
 ### Anxiety
 
 - That's not an animal... (W,A)
@@ -419,34 +550,59 @@ A short while after contracting Burns.
 - This is like something out of a horror movie (W)
 - (Panicked) I gotta get outta here! (W)
 
-<span id="fear"></span><span id="Fear"></span>
+<!-- #Fear -->
+​
 
+<!-- #fear -->
 ### Fear
 
 - (Screams of sheer terror)
 
-<span id="environment"></span><span id="Environment"></span>
+<!-- #slipping_while_rope_climbing -->
+​
 
-## Environment
+<!-- #Slipping_while_Rope_Climbing -->
+​
 
-<span id="slipping_while_rope_climbing"></span><span id="Slipping_while_Rope_Climbing"></span><span id="slipping-while-rope-climbing"></span>
+<!-- #Slipping_while_rope_climbing -->
+​
 
+<!-- #Slipping_While_Rope_Climbing -->
+​
+
+<!-- #slipping-while-rope-climbing -->
 ### Slipping while [Rope Climbing](./Rope%20Climbing.md)
 
 - I feel like...I'm gonna die. (W)
 - Holy...that...ahhhhhh... (W)
 - Make it stop. (W)
 
-<span id="outside_and_awake_at_dawn"></span><span id="Outside_and_awake_at_dawn"></span><span id="outside-and-awake-at-dawn"></span>
+<!-- #outside_and_awake_at_dawn -->
+​
 
+<!-- #Outside_and_awake_at_dawn -->
+​
+
+<!-- #Outside_And_Awake_At_Dawn -->
+​
+
+<!-- #outside-and-awake-at-dawn -->
 ### Outside and awake at dawn
 
 - Looks like I made it through another night. (W,A)
 - Thank goodness...made it through another night. (W,A)
 - Looks like a new day is dawning. (W,A)
 
-<span id="outside_and_awake_at_dusk"></span><span id="Outside_and_awake_at_dusk"></span><span id="outside-and-awake-at-dusk"></span>
+<!-- #outside_and_awake_at_dusk -->
+​
 
+<!-- #Outside_and_awake_at_dusk -->
+​
+
+<!-- #Outside_And_Awake_At_Dusk -->
+​
+
+<!-- #outside-and-awake-at-dusk -->
 ### Outside and awake at dusk
 
 - It's getting dark out here. Time to look for shelter. (W,A)
@@ -454,8 +610,16 @@ A short while after contracting Burns.
 - The sun's setting. It's going to get a lot colder soon. (W,A)
 - It's dusk so night can't be far behind (W,A)
 
-<span id="walking_through_water"></span><span id="Walking_through_water"></span><span id="walking-through-water"></span>
+<!-- #walking_through_water -->
+​
 
+<!-- #Walking_through_water -->
+​
+
+<!-- #Walking_Through_Water -->
+​
+
+<!-- #walking-through-water -->
 ### Walking through water
 
 - Ahh! Freezing! (W)
@@ -471,12 +635,16 @@ A short while after contracting Burns.
 - So cold! (W)
 - Agh, soaked! (W)
 
-<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
+<!-- #fail_fire_starting -->
+​
 
-## Fire Starting
+<!-- #Fail_Fire_Starting -->
+​
 
-<span id="fail_fire_starting"></span><span id="Fail_Fire_Starting"></span><span id="fail-fire-starting"></span>
+<!-- #Fail_fire_starting -->
+​
 
+<!-- #fail-fire-starting -->
 ### Fail Fire Starting
 
 - Now why didn't that work? (W)
@@ -484,8 +652,16 @@ A short while after contracting Burns.
 - Well, that didn't work. (W)
 - Come on! (W,A)
 
-<span id="starting_fire"></span><span id="Starting_fire"></span><span id="starting-fire"></span>
+<!-- #starting_fire -->
+​
 
+<!-- #Starting_fire -->
+​
+
+<!-- #Starting_Fire -->
+​
+
+<!-- #starting-fire -->
 ### Starting fire
 
 - Come on little fire! (A)
@@ -493,8 +669,16 @@ A short while after contracting Burns.
 - Come on. Come on. (W,A)
 - Come on. (W)
 
-<span id="successful_fire"></span><span id="Successful_fire"></span><span id="successful-fire"></span>
+<!-- #successful_fire -->
+​
 
+<!-- #Successful_fire -->
+​
+
+<!-- #Successful_Fire -->
+​
+
+<!-- #successful-fire -->
 ### Successful fire
 
 - Looks like it worked! (W)
@@ -505,28 +689,57 @@ A short while after contracting Burns.
 - Oh yeah. That's a good one. (A)
 - Wooh. Right on. (A)
 
-<span id="cheat_death"></span><span id="Cheat_Death"></span><span id="cheat-death"></span>
+<!-- #cheat_death -->
+​
 
+<!-- #Cheat_Death -->
+​
+
+<!-- #Cheat_death -->
+​
+
+<!-- #cheat-death -->
 ## Cheat Death
 
 - "Am I alive?" (W)
 - "What happened?" (W)
 - "But how did I get here?" (A)
 
-<span id="cougar_encroaching"></span><span id="Cougar_Encroaching"></span><span id="cougar-encroaching"></span>
+<!-- #cougar_encroaching -->
+​
 
+<!-- #Cougar_Encroaching -->
+​
+
+<!-- #Cougar_encroaching -->
+​
+
+<!-- #cougar-encroaching -->
 ## Cougar Encroaching
 
 - "What was that? Strangest sound..." (W)
 
-<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+<!-- #episode_3 -->
+​
 
+<!-- #Episode_3 -->
+​
+
+<!-- #episode-3 -->
 ## Episode 3
 
 The following lines are unique to Astrid is interacting with a [Crash Survivor](./Crash%20Survivor.md).
 
-<span id="pick_up_crash_survivor"></span><span id="Pick_Up_Crash_Survivor"></span><span id="pick-up-crash-survivor"></span>
+<!-- #pick_up_crash_survivor -->
+​
 
+<!-- #Pick_Up_Crash_Survivor -->
+​
+
+<!-- #Pick_up_crash_survivor -->
+​
+
+<!-- #pick-up-crash-survivor -->
 ### Pick Up Crash Survivor
 
 - Astrid: "I have to carry you."
@@ -537,8 +750,16 @@ The following lines are unique to Astrid is interacting with a [Crash Survivor](
 - Astrid: "Hoof."
 - Astrid: "It's ok, it's ok."
 
-<span id="place_crash_survivor"></span><span id="Place_Crash_Survivor"></span><span id="place-crash-survivor"></span>
+<!-- #place_crash_survivor -->
+​
 
+<!-- #Place_Crash_Survivor -->
+​
+
+<!-- #Place_crash_survivor -->
+​
+
+<!-- #place-crash-survivor -->
 ### Place Crash Survivor
 
 - Astrid: "You're safe now, I'm here."
@@ -554,8 +775,16 @@ The following lines are unique to Astrid is interacting with a [Crash Survivor](
 - Astrid: "Here you go..."
 - Astrid: "Set you down now."
 
-<span id="when_carrying_crash_survivor"></span><span id="When_Carrying_Crash_Survivor"></span><span id="when-carrying-crash-survivor"></span>
+<!-- #when_carrying_crash_survivor -->
+​
 
+<!-- #When_Carrying_Crash_Survivor -->
+​
+
+<!-- #When_carrying_crash_survivor -->
+​
+
+<!-- #when-carrying-crash-survivor -->
 ### When Carrying Crash Survivor
 
 - Astrid: "Hold on, just hold on."
@@ -571,8 +800,16 @@ The following lines are unique to Astrid is interacting with a [Crash Survivor](
 - Astrid: "Just stay awake, we're getting closer."
 - Astrid: "Hang in there, we can do this."
 
-<span id="diagnosing_crash_survivor"></span><span id="Diagnosing_Crash_Survivor"></span><span id="diagnosing-crash-survivor"></span>
+<!-- #diagnosing_crash_survivor -->
+​
 
+<!-- #Diagnosing_Crash_Survivor -->
+​
+
+<!-- #Diagnosing_crash_survivor -->
+​
+
+<!-- #diagnosing-crash-survivor -->
 ### Diagnosing Crash Survivor
 
 - Astrid: "Let me have a look, OK?"
@@ -582,8 +819,16 @@ The following lines are unique to Astrid is interacting with a [Crash Survivor](
 - Astrid: "This might be serious."
 - Astrid: "I'm going to check you over."
 
-<span id="after_treating_crash_survivor_affliction"></span><span id="After_Treating_Crash_Survivor_Affliction"></span><span id="after-treating-crash-survivor-affliction"></span>
+<!-- #after_treating_crash_survivor_affliction -->
+​
 
+<!-- #After_Treating_Crash_Survivor_Affliction -->
+​
+
+<!-- #After_treating_crash_survivor_affliction -->
+​
+
+<!-- #after-treating-crash-survivor-affliction -->
 ### After Treating Crash Survivor Affliction
 
 - Astrid: "Get some rest now, you need it."
@@ -592,28 +837,66 @@ The following lines are unique to Astrid is interacting with a [Crash Survivor](
 - Astrid: "I've done what I can."
 - Astrid: "You'll feel better after you sleep."
 
-<span id="when_a_timberwolf_pack_attacks"></span><span id="When_a_Timberwolf_pack_attacks"></span><span id="when-a-timberwolf-pack-attacks"></span>
+<!-- #when_a_timberwolf_pack_attacks -->
+​
 
+<!-- #When_a_Timberwolf_pack_attacks -->
+​
+
+<!-- #When_a_timberwolf_pack_attacks -->
+​
+
+<!-- #When_A_Timberwolf_Pack_Attacks -->
+​
+
+<!-- #when-a-timberwolf-pack-attacks -->
 ### When a [Timberwolf](./Timberwolf.md) pack attacks
 
 - Astrid: "Nothing good about that sound."
 - Astrid: "Wha?"
 - Astrid: "Think, Astrid, think."
 
-<span id="when_seeing_an_aurora"></span><span id="When_seeing_an_Aurora"></span><span id="when-seeing-an-aurora"></span>
+<!-- #when_seeing_an_aurora -->
+​
 
+<!-- #When_seeing_an_Aurora -->
+​
+
+<!-- #When_seeing_an_aurora -->
+​
+
+<!-- #When_Seeing_An_Aurora -->
+​
+
+<!-- #when-seeing-an-aurora -->
 ### When seeing an [Aurora](./Aurora.md)
 
 - Astrid: "So brilliant."
 
-<span id="crash_survivor_quotes"></span><span id="Crash_Survivor_Quotes"></span><span id="crash-survivor-quotes"></span>
+<!-- #crash_survivor_quotes -->
+​
 
+<!-- #Crash_Survivor_Quotes -->
+​
+
+<!-- #Crash_survivor_quotes -->
+​
+
+<!-- #crash-survivor-quotes -->
 ## Crash Survivor Quotes
 
 The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, the survivors Astrid must carry to the [Community Hall](./Community%20Hall.md). All 4 share the same voice lines.
 
-<span id="crash_survivor_when_carried"></span><span id="Crash_Survivor_When_Carried"></span><span id="crash-survivor-when-carried"></span>
+<!-- #crash_survivor_when_carried -->
+​
 
+<!-- #Crash_Survivor_When_Carried -->
+​
+
+<!-- #Crash_survivor_when_carried -->
+​
+
+<!-- #crash-survivor-when-carried -->
 ### Crash Survivor When Carried
 
 - "My family..."
@@ -629,8 +912,16 @@ The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, th
 - "Who are you...?"
 - "The end...the end."
 
-<span id="crash_survivor_low_warmth"></span><span id="Crash_Survivor_Low_Warmth"></span><span id="crash-survivor-low-warmth"></span>
+<!-- #crash_survivor_low_warmth -->
+​
 
+<!-- #Crash_Survivor_Low_Warmth -->
+​
+
+<!-- #Crash_survivor_low_warmth -->
+​
+
+<!-- #crash-survivor-low-warmth -->
 ### Crash Survivor Low Warmth
 
 - "My hands...where's the fire?"
@@ -640,8 +931,16 @@ The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, th
 - "I feel...nothing."
 - "I can't feel...help me."
 
-<span id="crash_survivor_warming_up"></span><span id="Crash_Survivor_Warming_Up"></span><span id="crash-survivor-warming-up"></span>
+<!-- #crash_survivor_warming_up -->
+​
 
+<!-- #Crash_Survivor_Warming_Up -->
+​
+
+<!-- #Crash_survivor_warming_up -->
+​
+
+<!-- #crash-survivor-warming-up -->
 ### Crash Survivor Warming Up
 
 - "Can feel my face again..."
@@ -660,8 +959,19 @@ The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, th
 - "Warming up..."
 - "My feet...thank god."
 
-<span id="crash_survivor_has_low_condition"></span><span id="Crash_Survivor_has_Low_Condition"></span><span id="crash-survivor-has-low-condition"></span>
+<!-- #crash_survivor_has_low_condition -->
+​
 
+<!-- #Crash_Survivor_has_Low_Condition -->
+​
+
+<!-- #Crash_survivor_has_low_condition -->
+​
+
+<!-- #Crash_Survivor_Has_Low_Condition -->
+​
+
+<!-- #crash-survivor-has-low-condition -->
 ### Crash Survivor has Low Condition
 
 - "I'll just close my eyes..."

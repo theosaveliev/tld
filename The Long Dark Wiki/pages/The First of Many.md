@@ -10,14 +10,24 @@
 
 **The First of Many** is an [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This achievement is obtained after surviving for twenty-four hours in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).

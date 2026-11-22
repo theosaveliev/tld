@@ -36,16 +36,20 @@
 
 A **Festive Sweater** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Light and warm mid-tier sweater, which spawns rarely on all game modes. Functionally, the Festive Sweater has identical stats to the [Hockey Jersey](./Hockey%20Jersey.md).
 
 It is one of the best Inner Torso clothing which can spawn on [Interloper](./Interloper.md) mode, along with the Hockey Jersey and [Thin Wool Sweater](./Thin%20Wool%20Sweater.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 - [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (upper, [Mystery Lake](./Mystery%20Lake%20%28region%29.md) side), bottom of the office stairwell.
@@ -59,8 +63,16 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 0-1 Festive Sweater will be present, with multiple possible spawn points per location. Festive Lights [Decorations](./Decorations.md) are guaranteed and can be found near the sweater spawn area.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **16 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.36)):**

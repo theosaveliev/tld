@@ -45,8 +45,10 @@ Has an interior
 
 **Lonely Lighthouse** is a location in [Desolation Point](./Desolation%20Point.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The **Lonely Lighthouse** is a red-striped white tower that both provides visibility of surrounding landscapes and serves as an easily spotted landmark.
@@ -55,14 +57,24 @@ The lighthouse is accessible from the road by crossing two wooden footbridges, w
 
 The frozen harbor area to the east features little of note except several rowboats on the shore, which may contain loot within or near them. The area around the boats is also patrolled by one or two [wolves](./Wolf.md) and sometimes [deer](./Deer.md) and/or their carcasses can be seen to the west.
 
-<span id="use_as_a_base"></span><span id="Use_as_a_base"></span><span id="use-as-a-base"></span>
+<!-- #use_as_a_base -->
+​
 
+<!-- #Use_as_a_base -->
+​
+
+<!-- #Use_As_A_Base -->
+​
+
+<!-- #use-as-a-base -->
 ### Use as a base
 
 The lighthouse can be used as a [Safe House](./Safehouse.md) for the player, as it has a [bed](./Bed.md) and a [Pot Belly Stove](./Pot%20Belly%20Stove.md), and is not too far away from [The Riken's](./The%20Riken.md) [forge](./Forge.md). However, unlike [Hibernia Processing](./Hibernia%20Processing.md) a short walk to the north, it contains no [workbench](./Work%20Bench.md). Rabbits can be found not too far away at the [Stone Church](./Stone%20Church.md) or [Little Island](./Little%20Island.md), and deer can be found at Little Island or a short walk west of the lighthouse. The major disadvantage of living here, however, is that [wolves](./Wolf.md) frequently spawn near the intersection of the road leading to the lighthouse from the main highway, making entering or leaving difficult. This is especially true if the player is carrying fresh meat back home.
 
-<span id="interior"></span><span id="Interior"></span>
+<!-- #Interior -->
+​
 
+<!-- #interior -->
 ## Interior
 
 The Lighthouse has four floors and a catwalk. The ground floor is a small room with a decent amount of storage, a computer, and a pot belly stove. There is a bed on the second floor, and a radio. The third floor includes three lockers, a metal container, and some wooden boxes and pallets. The fourth floor provides access to the roof hatch, as well as containing the drive mechanism (uninteractable, but mentioned in a buffer memory on the computer downstairs). The top part of the lighthouse consists of the lantern room and surrounding metal catwalk (called a gallery).
@@ -71,8 +83,10 @@ The top is considered outside, and the player will go through a loading screen w
 
 Depending on the difficulty, on the catwalk you may find a few [rifle rounds](./Rifle%20Ammunition.md), and, in clear weather, you get an outstanding view of the road, the surrounding sea, [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md), part of the [Stone Church](./Stone%20Church.md) and [Hibernia Processing](./Hibernia%20Processing.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Lonely Lighthouse](../assets/Lonely_Lighthouse.jpg)
@@ -86,3 +100,5 @@ Depending on the difficulty, on the catwalk you may find a few [rifle rounds](./
 _Looking northeast towards [Hibernia Processing](./Hibernia%20Processing.md) and [The Riken](./The%20Riken.md)._
 
 ![The lighthouse lit during the aurora.](../assets/Lonely_Lighthouse_Lit_up_2.png)
+
+[ru:Маяк](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA)

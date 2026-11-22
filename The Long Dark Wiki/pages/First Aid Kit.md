@@ -20,14 +20,18 @@
 
 The **First Aid Kit** is a type of container which only contains [First Aid](./First%20Aid.md) items such as [Antiseptic](./Antiseptic.md), [Bandages](./Bandage.md), [Antibiotics](./Antibiotics.md), and [Water Purification Tablets](./Water%20Purification%20Tablets.md). First aid kits may also contain [Energy Bars](./Energy%20Bar.md). and sewing kits
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A first aid kit is a common type of container which can be found in most buildings, as well as outside on the ground.
 
-<span id="loot"></span><span id="Loot"></span>
+<!-- #Loot -->
+​
 
+<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |
@@ -41,8 +45,10 @@ A first aid kit is a common type of container which can be found in most buildin
 | [Water Purification Tablets icon](../assets/Water_Purification_Tablets_icon.png) | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 9.09% |
 | [Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | 9.09% |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A first aid kit on the wall of Trapper's Homestead](../assets/First_aid_kit_on_wall.jpg)

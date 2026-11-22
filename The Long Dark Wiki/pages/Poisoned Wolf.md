@@ -31,7 +31,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.**<br>[A Page From A Journal](./A%20Page%20From%20A%20Journal.md)
@@ -40,16 +39,20 @@
 
 The **Poisoned Wolf** is a variant of the [Wolf](./Wolf.md) found only in the [Zone of Contamination](./Zone%20of%20Contamination.md). They were introduced in the Part 4 Buried Echoes update for players that purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Suffering from extreme malnutrition from a lack of hunting opportunities owed to the intense pollution present within the Zone, Poisoned Wolves are more ragged in appearance compared to regular Wolves. Their fur is much more messy and matted and their bodies are much more lean in appearance due to a lack of stored body fat. Some of the [Chemicals](./Chemical%20Hazard.md) from the Zone can also be seen around their faces and necks when viewed up close, which are transmitted to the player should they attack them in a Struggle.
 
 They are easily identifiable from a distance due to how they carry their heads much lower to the ground than a regular, healthy Wolf. They are also the only Wolf variant inside the Zone of Contamination. ![A Wolf (left) and Poisoned Wolf. Notice the weakened stance of the Poisoned Wolf.](../assets/Poisoned_Wolf_and_Wolf.jpg)_A Wolf (left) and Poisoned Wolf. Notice the weakened stance of the Poisoned Wolf._
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt and 2 Fresh Guts, but due to the extreme malnourishment and contaminated meat of the animal, no harvestable Wolf Meat is present on a carcass.
@@ -61,8 +64,10 @@ A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt 
 | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | [Missing image: Gut\_icon.png]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
-<span id="behaviour"></span><span id="Behaviour"></span>
+<!-- #Behaviour -->
+​
 
+<!-- #behaviour -->
 ## Behaviour
 
 Poisoned Wolves behave mechanically the same to that of regular Wolves, forming small packs, barking, growling, and stalking any prey they manage to find, aside from a few key differences:
@@ -83,8 +88,16 @@ Poisoned Wolves behave mechanically the same to that of regular Wolves, forming 
 
 ![An Aurora Poisoned Wolf](../assets/Aurora_Poisoned_Wolf.jpg)
 
-<span id="aurora_poisoned_wolf"></span><span id="Aurora_Poisoned_Wolf"></span><span id="aurora-poisoned-wolf"></span>
+<!-- #aurora_poisoned_wolf -->
+​
 
+<!-- #Aurora_Poisoned_Wolf -->
+​
+
+<!-- #Aurora_poisoned_wolf -->
+​
+
+<!-- #aurora-poisoned-wolf -->
 ### Aurora Poisoned Wolf
 
 Like all predators, Poisoned Wolves glow green and become a more aggressive Aurora Predator when the [Aurora](./Aurora.md) is active. [Campfires](./Campfire.md) and a working [Flashlight](./Flashlight.md) will still force a Poisoned Wolf to keep its distance from a player.
@@ -98,14 +111,18 @@ Like all predators, Poisoned Wolves glow green and become a more aggressive Auro
 - They will stay away from lit [Campfires](./Campfire.md), but will still stay close by to stalk the player.
 - Gunshots are still effective at frightening aurora wolves, provided they are not charging.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Despite the Zone of Contamination containing only Poisoned Wolves, several ordinary [Ravaged Wolf Carcasses](./Wolf%20Carcass.md) can be found in the Zone, with edible meat that can be harvested on the body.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Concept art of a Poisoned Wolf in the Zone](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
@@ -118,8 +135,10 @@ Like all predators, Poisoned Wolves glow green and become a more aggressive Auro
 
 ![A Poisoned Wolf Struggle](../assets/Poisoned_Wolf_Struggle.jpg)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

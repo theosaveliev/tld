@@ -1,6 +1,6 @@
 # Bed
 
-**Categories:** Beds, Interactable Objects, Interactable objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
+**Categories:** Beds, Interactable objects, Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
 
 **Contents**
 
@@ -46,16 +46,20 @@ Yes
 
 A **Bed** is a type of furniture or a small, pre-built construction that frequently appears in houses and cabins, with some variants appearing in other buildings and even in some caves. Beds can be used to restore [Fatigue](./Fatigue.md) by [Sleeping](./Sleep.md) and grant a [Warmth](./Warmth.md) bonus while being used.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Planning exploratory travel, especially if the player chooses not to bring along a [Bedroll](./Bedroll.md), requires careful consideration of bed locations (especially higher-level [Survival Mode](./Survival%20Mode.md) difficulties) since not all houses/caves have beds, and no bed variants can be broken down, moved, or crafted. Additionally, sleeping is one of the only ways to restore fatigue and recover significant amounts of [Condition](./Condition.md), and, no matter how tired, the player cannot sleep directly on the floor or on non-bed furniture such as couches or chairs.
 
 While the player may sleep in a Bedroll, [Snow Shelter](./Snow%20Shelter.md), or certain [Vehicle](./Vehicle.md) interiors instead of a bed, these other options may not be available, or may be impossible to craft early in game. Using any of these alternatives also often comes with a higher risk of freezing or being attacked by predators.
 
-<span id="variants"></span><span id="Variants"></span>
+<!-- #Variants -->
+​
 
+<!-- #variants -->
 ## Variants
 
 There are several variants of bed, some found only in specific types of locations, and each providing a different amount of [Warmth](./Warmth.md) when slept in.
@@ -74,8 +78,16 @@ Additionally, the inside of [Car](./Car.md), [Truck](./Truck.md), [Tractor](./Tr
 
 The player also has the ability to create beds via [Safehouse Customization](./Safehouse%20Customization.md) ([Rustic Bed](./Rustic%20Bed.md), [Quilted Bed](./Quilted%20Bed.md), [Bear Hide Bed](./Bear%20Hide%20Bed.md)).
 
-<span id="health_recovery"></span><span id="Health_recovery"></span><span id="health-recovery"></span>
+<!-- #health_recovery -->
+​
 
+<!-- #Health_recovery -->
+​
+
+<!-- #Health_Recovery -->
+​
+
+<!-- #health-recovery -->
 ## Health recovery
 
 Some beds confer greater restoration of [Condition](./Condition.md) than others. On [Interloper](./Interloper.md), sleeping 10 hours with no afflictions or teas yields the following recoveries:
@@ -98,14 +110,18 @@ Some beds confer greater restoration of [Condition](./Condition.md) than others.
 
 Although there is a general pattern that warmer beds provide more [Condition](./Condition.md) recovery, the two are not strictly linked. For example, the [Quilted Bed](./Quilted%20Bed.md) has a better Warmth bonus than the [Rustic Bed](./Rustic%20Bed.md), but the same [Condition](./Condition.md) recovery.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The region with the fewest beds is the [Hushed River Valley](./Hushed%20River%20Valley.md), where pre-built beds can only be found in [Bunker Gamma](./Bunker%20Gamma.md) and the [Prepper Cache](./Prepper%20Cache.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Tuffet Bed Cave](../assets/Tuffet_Bed_Cave.jpg)

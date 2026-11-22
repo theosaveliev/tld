@@ -36,8 +36,10 @@
 
 Currently, the collectible serves no additional purpose during [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Milton Credit Union Letter**_
@@ -50,8 +52,16 @@ Due to global economic realities that are well known to you, we are unfortunatel
 
 - Management
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

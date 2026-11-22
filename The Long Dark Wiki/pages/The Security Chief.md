@@ -55,38 +55,40 @@
 
 **The Security Chief** (real name **Lena Vertasky**) is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 [Tales](./Tales.md) in [Survival Mode](./Survival%20Mode.md).
 
-<span id="signal_void"></span><span id="Signal_Void"></span><span id="signal-void"></span>
+<!-- #last_horizon -->
+​
 
-## Signal Void
+<!-- #Last_Horizon -->
+​
 
-<span id="buried_echoes"></span><span id="Buried_Echoes"></span><span id="buried-echoes"></span>
+<!-- #Last_horizon -->
+​
 
-## Buried Echoes
-
-<span id="last_horizon"></span><span id="Last_Horizon"></span><span id="last-horizon"></span>
-
+<!-- #last-horizon -->
 ## Last Horizon
 
 Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), likely left by the Foreman. [Foreman's Polaroid 4](./Foreman%27s%20Polaroid%204.md) also has her in a photo.
 
-<span id="belongings"></span><span id="Belongings"></span>
+<!-- #Clothing -->
+​
 
-## Belongings
-
-<span id="clothing"></span><span id="Clothing"></span>
-
+<!-- #clothing -->
 ### Clothing
 
 - ![Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
-<span id="collectibles"></span><span id="Collectibles"></span>
+<!-- #Collectibles -->
+​
 
+<!-- #collectibles -->
 ### Collectibles
 
 - ![Security Chief's Log 6 icon](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
@@ -94,14 +96,12 @@ Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), li
 - ![Security Chief's Log 23 icon](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
 - ![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Chief's remains in the control room next to the machine](../assets/The_Security_Chief.jpg)
 
 ![The chief in a photo along with the Foreman](../assets/Foreman%27s_Polaroid_4_icon.png)
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

@@ -38,8 +38,10 @@
 
 This mission has since been replaced by the current version of [Renewed Hope](./Renewed%20Hope.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Get into the Dam at night, when the Aurora is in the sky.
@@ -48,9 +50,10 @@ This mission has since been replaced by the current version of [Renewed Hope](./
 
 - Explore the guts of the Dam. Get through before daylight.
 
+<!-- #Walkthrough -->
+​
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
-
+<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details — Mission length | Mission details — Short |
@@ -59,8 +62,16 @@ This mission has since been replaced by the current version of [Renewed Hope](./
 
 This is it, the beginning of the end of the Predux Wintermute. 1 side mission will unlock for this mission, [Hank's Hatch](./Hank%27s%20Hatch.md), so complete it if you wish. Head to the [Unnamed Pond](./Unnamed%20Pond.md) to find an active fire to activate Hank's Hatch. Otherwise, go to the Carter Hydro Dam.
 
-<span id="carter_hydro_dam"></span><span id="Carter_Hydro_Dam"></span><span id="carter-hydro-dam"></span>
+<!-- #carter_hydro_dam -->
+​
 
+<!-- #Carter_Hydro_Dam -->
+​
+
+<!-- #Carter_hydro_dam -->
+​
+
+<!-- #carter-hydro-dam -->
 ### Carter Hydro Dam
 
 - Get into the Dam at night, when the Aurora is in the sky.
@@ -81,20 +92,44 @@ Despite what the game says, you can actually wait out the Aurora with no consequ
 
 Mackenzie will then wake up tied to a chair, with a [man covered in blood](./Mathis.md) and wearing an orange jumpsuit placing [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) on the floor before him. The man repeatedly punches Mackenzie, demanding to know what's in the case while trying to intimidate him. After several failed attempts, the man then tells Mackenzie that he knows from his ID that he is a pilot, and presumes that he has a plane stashed somewhere, but Mackenzie continues to show resistance ("My plane [wouldn't do you any good](./Mackenzie%27s%20Crashed%20Plane.md)"). The convict then threatens Mackenzie, saying that the pilot wouldn't act this way if he say what happened to the last person the he met, referring to her as "she." This get's Mackenzie's attention, with the convict only remarking, "Don't worry, you'll be with her soon" and then striking Mackenzie in the side of the head with the back side of a [Hatchet](./Hatchet.md), ending the Episode.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md)
 
-<span id="differences_from_redux_episode_2"></span><span id="Differences_from_Redux_Episode_2"></span><span id="differences-from-redux-episode-2"></span>
+<!-- #differences_from_redux_episode_2 -->
+​
 
+<!-- #Differences_from_Redux_Episode_2 -->
+​
+
+<!-- #Differences_from_redux_episode_2 -->
+​
+
+<!-- #Differences_From_Redux_Episode_2 -->
+​
+
+<!-- #differences-from-redux-episode-2 -->
 ## Differences from Redux Episode 2
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 2:
 
-<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
+<!-- #plot_points_and_gameplay_changes -->
+​
 
+<!-- #Plot_Points_and_Gameplay_Changes -->
+​
+
+<!-- #Plot_points_and_gameplay_changes -->
+​
+
+<!-- #Plot_Points_And_Gameplay_Changes -->
+​
+
+<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - Mackenzie can re-enter the Trapper's Homestead and continue talking to Jeremiah to unlock any remaining Trust content. In the Redux, Mackenzie will refuse to re-enter the cabin, saying "Nah, I'm done with the old man."
@@ -104,8 +139,16 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - [Mathis](./Mathis.md) and Methuselah are both is voiced by Gord Marriott in Predux. They would each receive a new separate voice actor in Redux, with Mathis being voiced by Elias Toufexis and Methuselah being voiced by Richard Newman.
   - Mathis' coat sleeves and waist are covered in blood. This detail was removed in the Redux.
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

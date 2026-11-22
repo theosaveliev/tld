@@ -49,20 +49,32 @@ Missions
 
 The **Crashed Prison Transport Bus** is a location in the [Mountain Town](./Mountain%20Town.md) region, located to the south of [Milton](./Milton.md), past the [Orca Gas Station](./Orca%20Gas%20Station.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) prior to the [First Flare](./First%20Flare.md), is half-buried in snow and rubble from the collapsed tunnel and cannot be entered. The [Frozen Corpse](./Frozen%20Corpse.md) of an inmate can be found nearby and looted. A briefcase can also be found nearby, containing the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md).
 
-<span id="story_mode"></span><span id="Story_Mode"></span><span id="story-mode"></span>
+<!-- #story_mode -->
+​
 
+<!-- #Story_Mode -->
+​
+
+<!-- #Story_mode -->
+​
+
+<!-- #story-mode -->
 ## Story Mode
 
 ![Perseverance](../assets/Perseverance.jpg)![Perseverence logo](../assets/Perseverence_logo.png) Although the locale can be encountered at any point while exploring Milton, it must be visited as part of the main [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) questline. [Grey Mother](./Grey%20Mother.md) sends [Will Mackenzie](./Will%20Mackenzie.md) to investigate the tunnel, where he finds the bus crash and the collapsed tunnel. A cutscene shows Mackenzie noticing the scrap of clothing in the bus door, and then revealing the word _PERSEVERANCE_ written in blood on the floor inside the bus, presumably by [Astrid Greenwood](./Astrid%20Greenwood.md), leading Will to believe that Astrid made her way to the town of [Perseverance Mills](./Perseverance%20Mills.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Before the tunnel collapsed, it was possible to travel directly to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) and then later to [Long Curve](./Long%20Curve.md) in [Pleasant Valley](./Pleasant%20Valley.md).
@@ -86,3 +98,5 @@ The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock
 ![Crashed Prison Transport Bus](../assets/Crashed_Prison_Transport_Bus.png)
 
 ![Can't access inside in Survival](../assets/Crashed_Prison_Transport_Bus_2.png)
+
+[ru:Сломанный тюремный автобус](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81) [es:Autobús de la prisión accidentado](https://es.wikipedia.org/wiki/Autob%C3%BAs_de_la_prisi%C3%B3n_accidentado)

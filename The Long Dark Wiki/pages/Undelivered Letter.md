@@ -36,8 +36,10 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Undelivered Letter_ in a suitcase underneath the bed at the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Undelivered Letter**_
@@ -52,8 +54,16 @@ I don’t know where this ends, but I’m sorry either way. Thing’s up above o
 
 - Sam
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

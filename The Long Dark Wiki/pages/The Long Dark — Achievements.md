@@ -18,8 +18,16 @@ This is a list of the 88 obtainable achievements for _[The Long Dark](./The%20Lo
 - Some achievements in Survival Mode can have their progress reset if the player [Cheats Death](./Cheat%20Death.md), (these achievements are listed as "single game").
 - The achievement [Survive the Quiet Apocalypse](./Survive%20the%20Quiet%20Apocalypse.md) is a PlayStation 4/5 exclusive achievement.
 
-<span id="general_achievements"></span><span id="General_Achievements"></span><span id="general-achievements"></span>
+<!-- #general_achievements -->
+​
 
+<!-- #General_Achievements -->
+​
+
+<!-- #General_achievements -->
+​
+
+<!-- #general-achievements -->
 ## General Achievements
 
 Most of these Achievements can be unlocked in [Survival Mode](./Survival%20Mode.md), [Wintermute](./Wintermute.md), or in [Challenges](./Challenge.md). Most general Achievements, however, can only be unlocked in Survival Mode.
@@ -240,8 +248,19 @@ Kill 25 Rabbits with [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) (singl
 
 Enter all 9 [Prepper Cache](./Prepper%20Cache.md) locations (single game).
 
-<span id="tales_from_the_far_territory_achievements"></span><span id="Tales_from_the_Far_Territory_Achievements"></span><span id="tales-from-the-far-territory-achievements"></span>
+<!-- #tales_from_the_far_territory_achievements -->
+​
 
+<!-- #Tales_from_the_Far_Territory_Achievements -->
+​
+
+<!-- #Tales_from_the_far_territory_achievements -->
+​
+
+<!-- #Tales_From_The_Far_Territory_Achievements -->
+​
+
+<!-- #tales-from-the-far-territory-achievements -->
 ## Tales from the Far Territory Achievements
 
 These Achievements require owning [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). They are only unlocked in Survival Mode.
@@ -324,8 +343,16 @@ Achieve the highest Trust level with the [Trader](./Trader.md).
 
 Survive 25 [Cougar](./Cougar.md) Struggles.
 
-<span id="hidden_achievements"></span><span id="Hidden_Achievements"></span><span id="hidden-achievements"></span>
+<!-- #hidden_achievements -->
+​
 
+<!-- #Hidden_Achievements -->
+​
+
+<!-- #Hidden_achievements -->
+​
+
+<!-- #hidden-achievements -->
 ## Hidden Achievements
 
 These Achievements require owning [Wintermute](./Wintermute.md) to unlock and are all secret Achievements.**Template:spoiler**
@@ -666,8 +693,16 @@ Complete Episode Five.
 
 [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 At the release of Wintermute (v1.00), the following Achievements were removed from the game and no longer display on Steam:
@@ -820,8 +855,10 @@ Harvest 25 of each kind of plant (single game)
 
 ![All 22 achievement icons, pre V1.15.](../assets/Achievements_collage_22.png)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

@@ -26,8 +26,10 @@
 
 **Cougar Warning Flyer** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). it is found inside the [Camp Office](./Camp%20Office.md) near the front door.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Cougar Warning Flyer**_
@@ -42,6 +44,16 @@ WILDERNESS SAFTEY GUIDE
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
+
+[ru:Листовка "Осторожно, пумы!"](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%22%D0%9E%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE,_%D0%BF%D1%83%D0%BC%D1%8B!%22)

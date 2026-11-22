@@ -25,8 +25,10 @@
 
 ![Blackcrock Prison](../assets/Blackcrock_Prison.png)_Blackcrock Prison_ Blackrock is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must search for clues about the presence of [Blackrock](./Blackrock%20Prison.md) prisoners in Pleasant Valley, as well as finding out that [Molly](./Molly.md) has been hunting them.
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Search the prison guard's body
@@ -35,8 +37,10 @@
 - Search the abandoned camp
 - Look for the hidden cache
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -46,8 +50,10 @@
 
 The mission is initiated by finding the prison guard's body. The body is located on the right side of the road just after crossing [Heartbreak Bridge](./Heartbreak%20Bridge.md) on the way to [Community Hall](./Community%20Hall.md) from [Barn (Molly's)](./Barn%20%28Molly%27s%29.md). The prison guard's body will contain an improvised knife and a Blackrock Penitentiary Memo collectible. Follow the trail of blood to the outbuilding. Inside will be a prisoner's body with a blood stained convict note. Another prisoner's body is found further off the road in the same direction at the [Forest Cave](./Forest%20Cave%20%28Pleasant%20Valley%20location%29.md). To complete the mission, follow the road towards [Signal Hill](./Signal%20Hill.md), but turn left a short distance after crossing the unnamed bridge. The abandoned camp is located at [Hilltop Cave](./Hilltop%20Cave.md). Deep inside the cave on the left is an ammunition can cache filled with supplies: 20 [revolver ammunition](./Revolver%20Ammunition.md), [accelerant](./Accelerant.md), [MRE](./Military-Grade%20MRE.md), [flare](./Flare.md), [antiseptic](./Antiseptic.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The first prisoner body](../assets/Blackrock_prisoner_body_1.jpg)
@@ -60,8 +66,16 @@ The mission is initiated by finding the prison guard's body. The body is located
 
 ![The supply cache](../assets/Blackrock_hidden_cache.jpg)
 
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_History -->
+​
+
+<!-- #Update_history -->
+​
+
+<!-- #update-history -->
 ## Update History
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**

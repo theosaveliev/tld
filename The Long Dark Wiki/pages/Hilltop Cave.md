@@ -30,8 +30,10 @@ Cave|-
 
 Provides some shelter **Hilltop Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md), located not far from [Signal Hill](./Signal%20Hill.md) and the [Winding River](./Winding%20River.md) transition cave (and subesquently [Cascading Falls](./Cascading%20Falls.md)).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Hilltop Cave lies next to a [Hunter's Blind](./Hunter%27s%20Blinds.md), both of which are south-west of the [Cave](./Cave%20%28Transition%20Zone%29.md) connecting to [Winding River](./Winding%20River.md).
@@ -47,3 +49,5 @@ This cave can be useful if players are sleeping in [Signal Hill](./Signal%20Hill
 ![SS PV HilltopCave (3)](../assets/SS-PV-HilltopCave_%283%29.jpg)
 
 ![SS PV HilltopCave (5)](../assets/SS-PV-HilltopCave_%285%29.jpg)
+
+[ru:Пещера на вершине холма](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D0%B0)

@@ -36,16 +36,26 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Collectible, Part One_ from inside an air vent in one of [Joplin's caches](./Joplin%27s%20Bunker%20Raid.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Collectible, Part One**_
 
 ...pristine wilderness, with barely a hint of humanity to spoil it. If we can bring our message here, and succeed, it will show the rest of Great Bear what is possible. Pleasant Valley is where we make our stand.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

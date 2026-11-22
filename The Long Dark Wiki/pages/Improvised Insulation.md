@@ -32,7 +32,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **A simple base layer made from down feathers. Warms the core when equipped.**
@@ -41,13 +40,13 @@
 
 **Improvised Insulation** is an insulated base layer [Clothing](./Clothing.md) accessory added to the paid update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is made from [Cloth](./Cloth.md) and [Ptarmigan Down](./Ptarmigan%20Down.md) feathers harvested from hunted [Ptarmigans](./Ptarmigan.md).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Improvised Insulation**
-
-
 
 120.0 minutes (2 hour 0 minutes)
 
@@ -63,16 +62,26 @@
 
 **Quantity:** 4
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Improvised_Insulation_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Improvised_Insulation_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

@@ -19,8 +19,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Anna Island -- Track Section 1**
 
 [Anna Island Track Section 1](../assets/Anna_Island_--_Track_Section_1.jpg)
@@ -41,8 +39,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A continuation of the coastline from the previously numbered region.
@@ -50,8 +50,10 @@ A continuation of the coastline from the previously numbered region.
 - The west of the map leads to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md), while the east leads to [Port Remnant](./Port%20Remnant.md).
 - Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are 6 named locations within Track Section 1, including:
@@ -60,25 +62,22 @@ There are 6 named locations within Track Section 1, including:
 | --- | --- |
 | - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East)<br>- [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West)<br>- [Bridge](./Bridge.md)<br>- [Huts](./Huts.md) | - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md))<br>- To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) |
 
-
-
 There are also a single [Warm Cave](./Warm%20Cave.md) near the middle of the map.
 
 There is also a single cabin at the Huts location.
 
 There is one [Whale Oil Tank](./Oil%20Tank.md) in this region and it is located at the Eastern Railyard before the transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
+<!-- #safe_houses -->
+​
 
-<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+<!-- #Safe_houses -->
+​
 
-## Wildlife management
+<!-- #Safe_Houses -->
+​
 
-<span id="survivability"></span><span id="Survivability"></span>
-
-## Survivability
-
-<span id="safe_houses"></span><span id="Safe_houses"></span><span id="safe-houses"></span>
-
+<!-- #safe-houses -->
 ## Safe houses
 
 - [Cave](./Warm%20Cave.md) located before the junction to [Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) with minor loot and a bed
@@ -87,8 +86,10 @@ There is one [Whale Oil Tank](./Oil%20Tank.md) in this region and it is located 
 
 - Cabin with a bed at Huts.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Transition to Track Section 2](../assets/Transition_to_Track_section_2.png)
@@ -107,12 +108,10 @@ _**Cave in the middle of Track Section 1**_
 
 _**Cave before Transition to Track Section 2**_
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #locations_1 -->
+​
 
-### Maps
-
-<span id="locations_1"></span><span id="locations-1"></span>
-
+<!-- #locations-1 -->
 ### Locations
 
 ![Huts](../assets/Huts.png)
@@ -120,3 +119,5 @@ _**Cave before Transition to Track Section 2**_
 ![Railyard East](../assets/Railyard_%28Track_Section_1_East%29.jpg)
 
 ![Railyard West](../assets/Railyard_%28Track_Section_1_West%29.jpg)
+
+[ru:Остров Анны — Участок пути 1](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D1%8B_%E2%80%94_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D1%82%D0%B8_1)

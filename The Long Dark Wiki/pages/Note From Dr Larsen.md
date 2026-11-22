@@ -30,8 +30,10 @@
 
 **Note From Dr Larsen** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found inside of the Dr Larsen's Clinic pinned to the door to the Morgue during the main mission [Perseverance](./Perseverance.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Note From Dr Larsen**_
@@ -41,8 +43,16 @@ KEEP LOCKED. See Dr. Larsen or Constable Pete for access.
 [in different handwriting...]  
  (Keep the windows open.)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

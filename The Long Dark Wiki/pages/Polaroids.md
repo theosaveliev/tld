@@ -19,8 +19,16 @@ Polaroids are purely used for surveying. After collecting a Polaroid, an icon wi
 - Vista Polaroid: Some regions (Some have 2 Polaroids, instead of 1).
 - Tales Polaroids: Some are part of [Tales](./Tales.md) progression Collectibles.
 
-<span id="vista_polaroids"></span><span id="Vista_Polaroids"></span><span id="vista-polaroids"></span>
+<!-- #vista_polaroids -->
+​
 
+<!-- #Vista_Polaroids -->
+​
+
+<!-- #Vista_polaroids -->
+​
+
+<!-- #vista-polaroids -->
 ## **Vista** **Polaroids**
 
 There are currently a total of 21 Vista Polaroids. In many regions, the locations of where you find the vista polaroids are linked to which [Loot Table](./Loot%20Table.md) your game is on. So if you find a polaroid linked to Loot Table 4 (e.g. the polaroid at the end of [Secret Mountain Path](./Secret%20Mountain%20Path.md)), you will find polaroids in other regions in their Loot Table 4 spawn positions.
@@ -41,8 +49,16 @@ There are currently a total of 21 Vista Polaroids. In many regions, the location
 | [Ico GearItem PostCard TM AndresPeak resources.assets 946](../assets/Ico_GearItem_PostCard_TM_AndresPeak-resources.assets-946.png)[Ico GearItem PostCard TM TailSection resources.assets 553](../assets/Ico_GearItem_PostCard_TM_TailSection-resources.assets-553.png) | Timberwolf Mountain | - _Loot Table 1_: In a cave at the [Summit](./Summit.md), on a frozen corpse or in a plastic container.<br>- _Loot Table 1_: In a backpack on [Echo Peak West](./Echo%20Peak%20West.md)<br>- _Loot Table 2_: On a corpse, South of [Eric's Falls](./Eric%27s%20Falls.md) and just North of the falls with no rope<br>- _Loot Table 2_: On a hill north of [Forest Cave](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md), east of the [Wing](./Wing.md) in a backpack<br>- _Loot Table 3_: In a cave on the eastern edge of the map, to the north across the fallen tree over the transition to [Ash Canyon](./Ash%20Canyon.md). Two spawns exist here, one in a briefcase, another in a backpack. (Both polaroids spawn here on this loot table.)<br>- _Loot Table 4_: In a plastic container on [Andre's Peak](./Andre%27s%20Peak.md)<br>- _Loot Table 4_: In a plastic container on [Echo Peak East](./Echo%20Peak%20East.md) | [Andre's Peak](./Andre%27s%20Peak.md), [Summit](./Summit.md) |
 | [Ico GearItem PostCard MR Settlement](../assets/Ico_GearItem_PostCard_MR_Settlement.png)[Ico GearItem PostCard MR Window](../assets/Ico_GearItem_PostCard_MR_Window.png) | Zone of Contamination | - On the train station office corkboard in [Indolent Hoppers](./Indolent%20Hoppers.md)<br>- On the dashboard of an [Haul Truck](./Haul%20Truck.md) parked in the mining pit. | Cliff near [Boss's Settlement](./Boss%27s%20Settlement.md), Cliff near [Welkin's Window](./Welkin%27s%20Window.md) |
 
-<span id="tales_polaroids"></span><span id="Tales_Polaroids"></span><span id="tales-polaroids"></span>
+<!-- #tales_polaroids -->
+​
 
+<!-- #Tales_Polaroids -->
+​
+
+<!-- #Tales_polaroids -->
+​
+
+<!-- #tales-polaroids -->
 ## Tales Polaroids
 
 The following items are photos found while progressing the [Tales](./Tales.md) in [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). They do not give a Polaroid Vista but instead are a hint meant to lead the player to a location. They are stored in the Polaroids Collections menu when found.
@@ -56,8 +72,16 @@ The following items are photos found while progressing the [Tales](./Tales.md) i
 | [Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png) | [Foreman's Polaroid 4](./Foreman%27s%20Polaroid%204.md) | - Found inside [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md) | Just a Collectible |
 | [Foreman's Polaroid 5 icon](../assets/Foreman%27s_Polaroid_5_icon.png) | [Foreman's Polaroid 5](./Foreman%27s%20Polaroid%205.md) | - Found inside [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) | Leads to the stairs near [Roamer's Cave](./Roamer%27s%20Cave.md) |
 
-<span id="examine_text"></span><span id="Examine_Text"></span><span id="examine-text"></span>
+<!-- #examine_text -->
+​
 
+<!-- #Examine_Text -->
+​
+
+<!-- #Examine_text -->
+​
+
+<!-- #examine-text -->
 ## Examine Text
 
 | Photo | Item Name | Item Text | Examine Text |
@@ -84,8 +108,10 @@ The following items are photos found while progressing the [Tales](./Tales.md) i
 | [Ico GearItem PostCard MR Settlement](../assets/Ico_GearItem_PostCard_MR_Settlement.png) | PostCard MR Settlement | An old Polaroid photo. There is text scribbled on the back with details of a Great Bear Island Vista location. | Just past these old, rotting foundations up there, near the edge. One hell of a view. - H |
 | [Ico GearItem PostCard MR Window](../assets/Ico_GearItem_PostCard_MR_Window.png) | PostCard MR Window | An old Polaroid photo. There is text scribbled on the back with details of a Great Bear Island Vista location. | Took a wrong turn after leaving the Airfield. Found myself a little spot little cave with a distant waterfall in sight. Peaceful. - S |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The front and back of several Polaroids](../assets/Postcard_Atlas_1.png)
@@ -94,9 +120,12 @@ The following items are photos found while progressing the [Tales](./Tales.md) i
 
 ![Ditto](../assets/OBJ_PostcardAtlas_C.png)
 
+<!-- #References -->
+​
 
-<span id="references"></span><span id="References"></span>
-
+<!-- #references -->
 ## References
 
 - [Bashrobe. 2023. All Polaroid Locations - The Long Dark](https://www.youtube.com/watch?v=MT7tQx8doq8) (for loot table based locations)
+
+[ru:Фотоснимки](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8)

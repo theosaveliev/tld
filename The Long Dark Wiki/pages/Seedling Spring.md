@@ -18,8 +18,10 @@
 
 Has no shelter **Seedling Spring** is a location in [Sundered Pass](./Sundered%20Pass.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is a small frozen pond, south of [Last Lonely House](./Last%20Lonely%20House.md) and north below the treeline of the Region Transition to [Transfer Pass](./Transfer%20Pass.md). A useful cave, [Miserable Haunt](./Miserable%20Haunt.md), is located nearby for shelter.

@@ -14,8 +14,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Frozen Creek is located east upstream from [Unnamed Pond](./Unnamed%20Pond.md), south-east of [Forestry Lookout](./Forestry%20Lookout.md), and west of [Derailment](./Derailment.md).
@@ -26,10 +28,14 @@ Some [Reishi Mushroom](./Reishi%20Mushroom.md) and [Rose Hip](./Rose%20Hip.md) c
 
 Oddly enough, [Coal](./Coal.md) may spawn in the area and along the river, however it's very scarce, just one to three pieces spawn, and whether it respawns or not is untested
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Another view of Frozen Creek.](../assets/Frozen_Creek_downstream.jpg)
 
 ![Frozen Creek at dawn.](../assets/Frozen_Creek_dawn.png)
+
+[es:Arroyo helado](https://es.wikipedia.org/wiki/Arroyo_helado) [ru:Замороженный ручей](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D1%87%D0%B5%D0%B9)

@@ -22,70 +22,146 @@
 
 Trapping is a safe and efficient method exclusively for killing rabbits in The Long Dark. Traps hold quarry in place so you don't have to track, and animals are dead of exposure before you return. All that is required is good trap placement, time, and the attentiveness and determination to find and harvest traps before their contents are eaten by scavengers.
 
-<span id="the_snare"></span><span id="The_Snare"></span><span id="the-snare"></span>
+<!-- #the_snare -->
+​
 
+<!-- #The_Snare -->
+​
+
+<!-- #The_snare -->
+​
+
+<!-- #the-snare -->
 ## The Snare
 
 [Snares](./Snare.md) only work against [Rabbits](./Rabbit.md), specifically only working in special Rabbit Grove locations. Their slip-knotted loops close swiftly when pulled and refuse to release, only becoming tighter while struggled against. Rabbits are always killed when caught in a snare.
 
-<span id="placement"></span><span id="Placement"></span>
+<!-- #Placement -->
+​
 
+<!-- #placement -->
 ### Placement
 
 ![Snare icon](../assets/Snare_icon.png) Snares are set individually by "placing" them from either the radial menu or inventory. Selecting a trap from the radial menu allows the player to immediately see the outline of a placeable snare, centered on the screen. Alternatively, a "place" button uniquely appears under the snare description in the inventory screen. Similarly, selecting "Place" from the inventory screen immediately returns the view to the main screen with the outlined view of a placeable snare. The outline will be red when placement is not possible, green when it is. Move as desired to a good spot. Left click to release. Right click to cancel. Left click on a placed snare to pick it up again as you would any loose item in the game.
 
-<span id="setting_runs"></span><span id="Setting_Runs"></span><span id="setting-runs"></span>
+<!-- #setting_runs -->
+​
 
+<!-- #Setting_Runs -->
+​
+
+<!-- #Setting_runs -->
+​
+
+<!-- #setting-runs -->
 ### Setting Runs
 
 ![Placed snare](../assets/Placed_snare.png) Location of traps is critical; they must be set where the rabbits are able to spawn or they will catch nothing. Spotting a specimen is the best sign of a valid area. But individuals wander, so it is possible it has left the bounds of its spawn point, especially if something has startled it. Estimate the center of animal activity by observing the area carefully. Set your traps there. Setting multiple traps along a line or even in a grid can greatly assist learning exactly where the rabbiting area is. Traps set outside a rabbiting area will never catch anything. Choosing a convenient location is also important because you will have to come back later to remove the catch.
 
-<span id="the_catch"></span><span id="The_Catch"></span><span id="the-catch"></span>
+<!-- #the_catch -->
+​
 
+<!-- #The_Catch -->
+​
+
+<!-- #The_catch -->
+​
+
+<!-- #the-catch -->
 ### The Catch
 
 ![Caught Rabbit](../assets/Caught_Rabbit.png) You will never see a trap activated. Chasing rabbits into snares has no effect, and there is no relevant bait. What catches rabbits is time and absence. Twelve hours after a trap is set, it begins checking to see if a rabbit has been caught. Trapped animals immediately begin freezing. Their carcasses appear identical to rabbits killed by other means. Snares that have made a catch will need to be reset. It is also possible that snares may have been damaged and must be rebuilt.
 
-<span id="broken_snares"></span><span id="Broken_Snares"></span><span id="broken-snares"></span>
+<!-- #broken_snares -->
+​
 
+<!-- #Broken_Snares -->
+​
+
+<!-- #Broken_snares -->
+​
+
+<!-- #broken-snares -->
 ### Broken Snares
 
 Occasionally snares will be found "broken", their condition reduced to 0%. This irreparable damage may represent multiple possibilities. The animal may have struggled loose, perhaps a predator stole the prize for its own, or the snare became damaged in severe weather. Broken snares cannot be reset or repaired, however, they can be harvested to get 1 [Reclaimed Wood](./Reclaimed%20Wood.md), which can again be crafted into a snare by combining it with [Cured Gut](./Cured%20Gut.md) at a [Work Bench](./Work%20Bench.md).
 
 - In previous versions a glitch allowed broken snares to continue to be set and used by placing them with the right click placement function while they are on the ground.
 
-<span id="fishing_tip_ups"></span><span id="Fishing_Tip-Ups"></span><span id="fishing_tip-ups"></span><span id="fishing-tip-ups"></span>
+<!-- #fishing_tip_ups -->
+​
 
+<!-- #Fishing_Tip-Ups -->
+​
+
+<!-- #fishing_tip-ups -->
+​
+
+<!-- #Fishing_tip-ups -->
+​
+
+<!-- #Fishing_Tip-ups -->
+​
+
+<!-- #fishing-tip-ups -->
 ## Fishing Tip-Ups
 
 ![Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) A [Fishing Tip-Up](./Fishing%20Tip-Up.md) can be placed in any [Ice Fishing](./Ice%20Fishing.md) hole that has been broken open. The player can use them to fish on their behalf or as they fish in their own separate hole.
 
-<span id="placement_1"></span><span id="placement-1"></span>
+<!-- #placement_1 -->
+​
 
+<!-- #placement-1 -->
 ### Placement
 
 The player can place them in cleared Ice Fishing ice holes or produce a hole via Free From ice holes (See [Ice Fishing](./Ice%20Fishing.md#Fishing_Holes) for a list of suitable locations). Tip-Ups can be fitted with [Fishing Bait](./Fishing%20Bait.md) or a [Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md) to increase the odds that the catch fish.
 
-<span id="setting_runs_1"></span><span id="setting-runs-1"></span>
+<!-- #setting_runs_1 -->
+​
 
+<!-- #setting-runs-1 -->
 ### Setting Runs
 
 Placing too many Fishing Tip-Ups (4-5 Tip-Ups) in one location will quickly result in diminishing returns, but will otherwise produce a large amount of fish if the player tends to them. Tip-Ups do not gain any benefits from the player's Ice Fishing Skill, and become useless if the hole starts to freeze over, requiring the player keep an eye on them and perform regular maintenance on the ice holes. A great strategy involves using the Fishing Hut as a shelter and fishing alongside Tip-Ups, regularly keeping an eye on them.
 
-<span id="the_catch_1"></span><span id="the-catch-1"></span>
+<!-- #the_catch_1 -->
+​
 
+<!-- #the-catch-1 -->
 ### The Catch
 
 Unlike Snares, Tip-Ups will actually tip up and produce a metal clang when they catch a fish. They will continue to hold said fish until they are reclaimed from the ice hole. Haver reclaimed, they will need to be placed back into a cleared ice hole to continue catching fish.
 
-<span id="broken_tip_ups"></span><span id="Broken_Tip-Ups"></span><span id="broken_tip-ups"></span><span id="broken-tip-ups"></span>
+<!-- #broken_tip_ups -->
+​
 
+<!-- #Broken_Tip-Ups -->
+​
+
+<!-- #broken_tip-ups -->
+​
+
+<!-- #Broken_tip-ups -->
+​
+
+<!-- #Broken_Tip-ups -->
+​
+
+<!-- #broken-tip-ups -->
 ### Broken Tip-Ups
 
 Blizzards and general use will decay the Condition of a Tip-Up, and they can be broken down for parts (harvesting yields 1 [Scrap Metal](./Scrap%20Metal.md) and 1 [Stick](./Stick.md)) and any Fishing Lures/Bait attached to them.
 
-<span id="additional_tips"></span><span id="Additional_Tips"></span><span id="additional-tips"></span>
+<!-- #additional_tips -->
+​
 
+<!-- #Additional_Tips -->
+​
+
+<!-- #Additional_tips -->
+​
+
+<!-- #additional-tips -->
 ## Additional Tips
 
 - Any location where rabbits spawn has a chance of snaring rabbits, even if the area isn't marked as a "rabbit grove" proper on the [map](./Map.md), and even if the area currently has no rabbits in it (if the player has killed all the rabbits using [stones](./Stone.md), for example).

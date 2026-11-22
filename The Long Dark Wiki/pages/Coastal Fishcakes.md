@@ -15,8 +15,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Coastal Fishcakes**
 
 [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png)
@@ -53,16 +51,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Coastal Fishcakes** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Coastal Fishcakes can be unlocked for cooking by finding their [Recipe Card](./Recipe%20Cards.md) In the [Lonely Lighthouse](./Lonely%20Lighthouse.md) in [Desolation Point](./Desolation%20Point.md) in one of three locations: in the upper-left corner of the tack board, underneath the 3 metal cabinets, or on the stairs leading up to the top of the lighthouse.
 
 Although Coastal Fishcakes are not the most calorie-dense food out there, their effects of increased [stamina](./Stamina.md) and carrying capacity can be exceptionally useful for players who need to do a lot of [rope climbing](./Rope%20Climbing.md). The two [potatoes](./Potato.md) required to cook this are also fairly easy to find in most regions. The one disadvantage is that [rainbow trout](./Rainbow%20Trout%20%28Raw%29.md) is not obtainable on any inland maps, which are often the ones that require the most rope climbing. Additionally, both the pies and the fish needed to cook them do not keep especially well.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - +15% [Stamina](./Stamina.md) (instant)
@@ -70,12 +72,13 @@ Although Coastal Fishcakes are not the most calorie-dense food out there, their 
 - [Unburdened](./Unburdened.md) +3kg of Carry Weight (for 3 hours)
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Coastal Fishcakes**
-
 
 25 minutes
 
@@ -103,8 +106,16 @@ Although Coastal Fishcakes are not the most calorie-dense food out there, their 
 
 **Quantity:** 0.50 Kg
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

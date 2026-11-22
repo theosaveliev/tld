@@ -10,8 +10,10 @@
 
 **Dead Wake** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This is a missable hidden achievement in the main story mission [A Cry For Help](./A%20Cry%20For%20Help.md). After arriving aboard the derelict Japanese cargo ship [Fukkatsu Maru](./Fukkatsu%20Maru.md), the player must find all notes on the derelict ship and the achievement will unlock.
@@ -28,8 +30,16 @@ Stepping out of the radio room and jumping into the bridge will make it pretty m
 
 The \* ![Locker Key icon](../assets/Locker_Key_icon.png) [Locker Key](./Locker%20Key.md) is not needed to unlock the achievement.
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

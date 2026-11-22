@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **FastFilm-500SPA**
 
 [FastFilm 500SPA icon](../assets/FastFilm-500SPA_icon.png)
@@ -36,12 +34,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **FastFilm-500SPA** is a tool used with the [Camera](./Camera.md) to take photos.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 1 box contains 6 film Shots, and takes pictures in Sepia. They are commonly found in various locations around Great Bear Island, mostly hidden in houses and cabins.
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
+
+[ru:FASTFILM-500SPA](https://ru.wikipedia.org/wiki/FASTFILM-500SPA)

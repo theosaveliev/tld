@@ -18,8 +18,12 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 [Stones](./Stone.md) are commonly found on the ice just below the falls, and they will respawn over a few days. A dead [Deer Carcass](./Deer%20Carcass.md) may spawn nearby, as well as 2 possible [Hidden Cache](./Hidden%20Cache.md) locations, and several [cat tails](./Cat%20Tail.md). A possible spawn point is also located under these falls.
+
+[ru:Кривой водопад](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)

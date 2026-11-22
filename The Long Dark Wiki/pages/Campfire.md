@@ -24,8 +24,16 @@
 
 A **Campfire** is an open [Fire](./Fire.md) that can be placed into the outdoors. Campfires can cook meat to make it safer to eat, melt snow into [Water](./Water%20%28Unsafe%29.md) and [sterilize](./Water%20%28Potable%29.md) it, make beverages, heat canned food/beverages, scare off predators and create [Torches](./Torch.md).
 
-<span id="placing_campfires"></span><span id="Placing_campfires"></span><span id="placing-campfires"></span>
+<!-- #placing_campfires -->
+​
 
+<!-- #Placing_campfires -->
+​
+
+<!-- #Placing_Campfires -->
+​
+
+<!-- #placing-campfires -->
 ## Placing campfires
 
 Campfires can be placed with the [Radial Menu](./Radial%20Menu.md) outdoors on the ground, provided the following conditions are met:
@@ -38,8 +46,10 @@ Campfires can be placed with the [Radial Menu](./Radial%20Menu.md) outdoors on t
 - Cannot be started inside most interior locations or mines. ([Maintenance Yard](./Maintenance%20Yard.md) and [Langston Mine](./Langston%20Mine.md) are exceptions)
 - [Strong Winds](./Survival%20Overlay.md) or Blizzards prevent unsheltered fires from being created. **Note:** wind changing directions can cause previously sheltered fires to be blown out.
 
-<span id="windblown"></span><span id="Windblown"></span>
+<!-- #Windblown -->
+​
 
+<!-- #windblown -->
 ## Windblown
 
 ![old campfire](../assets/The_Long_Dark_-_Campfire.jpg)_old campfire_ Campfires can be used like all other fires, but unlike contained fires, they are vulnerable to high winds. The Wind Shield icon can be useful for locating an area that is not currently being blown by wind.
@@ -50,8 +60,16 @@ An indicator that a fire is about to blow out is its smoke will be blowing away 
 - Periodically feeding sticks to a windblown fire may be useful if one finds oneself still in dire need of warmth when their fire starts to go out. The wind may also eventually shift, allowing the player to extend the fire's life beyond the 9-minute cap.
 - Windblown fires can still be useful for short tasks, like brewing beverages or heating cans or boiling the smallest amounts of water.
 
-<span id="burnt_out"></span><span id="Burnt_out"></span><span id="burnt-out"></span>
+<!-- #burnt_out -->
+​
 
+<!-- #Burnt_out -->
+​
+
+<!-- #Burnt_Out -->
+​
+
+<!-- #burnt-out -->
 ## Burnt out
 
 Campfires which run out of fuel will persist as a burnt out campfire, from which [Charcoal](./Charcoal.md) can be harvested based on how much fuel was burned (up to 50 pieces of charcoal), or left to gather over successive fires.
@@ -62,8 +80,16 @@ Campfires which run out of fuel will persist as a burnt out campfire, from which
 - Burnt out campfires can be broken down, removing them but providing no resources.
 - At extremely cold temperatures (0 degrees C or colder) fuel burns much slower, making it more efficient.
 
-<span id="additional_tips"></span><span id="Additional_Tips"></span><span id="additional-tips"></span>
+<!-- #additional_tips -->
+​
 
+<!-- #Additional_Tips -->
+​
+
+<!-- #Additional_tips -->
+​
+
+<!-- #additional-tips -->
 ## Additional Tips
 
 - Lit Torches, [Flares](./Flare.md), and [Marine Flares](./Marine%20Flare.md) can be used to start a campfire. At low [Firestarting skill](./Skills.md) and/or higher difficulties, this is an effective way to conserve matches.
@@ -80,8 +106,10 @@ Campfires which run out of fuel will persist as a burnt out campfire, from which
 - Right clicking valid cooking slot items can be used to place them in a cooking slot or to transfer items currently cooking from one fire to another. This will not reset the timer, regardless of the distance between fires. This can be very useful when one needs to move from a windblown fire to a sheltered fire.
 - Special green campfires imbued with magic can be found during the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) challenge.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Campfire seen burning in the distance](../assets/Distantfire.png)
@@ -89,3 +117,5 @@ Campfires which run out of fuel will persist as a burnt out campfire, from which
 ![A campfire in a cave](../assets/Ventilation.png)
 
 ![Multiple fires for cooking](../assets/Cookingfire.png)
+
+[ru:Костёр](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%91%D1%80)

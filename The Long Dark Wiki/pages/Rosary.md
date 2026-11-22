@@ -32,8 +32,16 @@
 
 **Rosary** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode. It is a wooden cross attached to prayer beads given to [Astrid Greenwood](./Astrid%20Greenwood.md) by [Father Thomas](./Father%20Thomas.md) during the mission [Fallen Star](./Fallen%20Star.md) before she visits the crash site to find [Insulin](./Insulin.md) for Dimitri and to find ID cards for the [Crash Survivors](./Crash%20Survivor.md). Astrid later tries to return the cross after rescuing the survivors, but Father Thomas insists she keep it for her travels.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

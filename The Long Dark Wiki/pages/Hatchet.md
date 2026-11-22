@@ -36,8 +36,10 @@ _For the improvised variant, see [Improvised Hatchet](./Improvised%20Hatchet.md)
 
 The **Hatchet** is a tool in _The Long Dark_, primarily for woodcutting and self defense.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The hatchet can be used to harvest [sticks](./Stick.md) from branches and some [Scrub Brush](./Scrub%20Brush.md), [Cedar Firewood](./Cedar%20Firewood.md) from cedar limbs, and [Fir Firewood](./Fir%20Firewood.md) from fir limbs. It can also be used to break down many wooden objects such as shelves and crates into [Reclaimed Wood](./Reclaimed%20Wood.md). Hatchets can also allow the player to cut down maple and birch saplings without a [Hacksaw](./Hacksaw.md).
@@ -57,43 +59,59 @@ Uses of Hatchet:
 
 When carried and selected for self-defense at the start of a Wolf Struggle, Hatchets deal high damage with a low chance per-hit to cause the wolf to flee, as well as a moderate chance to inflict [Blood Loss](./Blood%20Loss.md) on the Wolf (which is lethal over time). Hatchets take low damage from being used in a struggle, and are superior to [Improvised Hatchets](./Improvised%20Hatchet.md) when used in this way. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
-<span id="obtaining"></span><span id="Obtaining"></span>
+<!-- #Obtaining -->
+​
 
+<!-- #obtaining -->
 ## Obtaining
 
 Hatchets may be found in all regions, usually near frozen corpses or structures.
 
 In Interloper mode hatchets will never spawn; requiring forging to create an [Improvised Hatchet](./Improvised%20Hatchet.md).
 
-<span id="spawn_points"></span><span id="Spawn-points"></span><span id="spawn-points"></span>
+<!-- #pleasant_valley -->
+​
 
-### Spawn-points
+<!-- #Pleasant_Valley -->
+​
 
-<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+<!-- #Pleasant_valley -->
+​
 
+<!-- #pleasant-valley -->
 #### Pleasant Valley
 
 - Stuck into the archery target at [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)
 
-<span id="repair"></span><span id="Repair"></span>
+<!-- #Repair -->
+​
 
+<!-- #repair -->
 ## Repair
 
 Hatchets may be repaired using a [Whetstone](./Whetstone.md) and the [Sharpening](./Sharpening.md) skill, restoring 3% condition to the hatchet and causing 5% condition damage to the whetstone.
 
 The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined hatchet to 100% condition for one scrap metal, during an active [Aurora](./Aurora.md). N.B. The hatchet has a breaking threshold at 15% condition, usage below this number risks ruining it for good.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - A broken Hatchet is the icon and logo for _The Long Dark_ on all platforms, including [the official Hinterlands website](https://hinterlandgames.com/), [forums](https://hinterlandforums.com/forums/) and [merchandise](https://www.hinterlandstore.com/).
 - Unlike large axes, hatchets feature a hammerhead on their back; despite this, the hatchet is never used for this purpose in-game, even suffering a condition penalty when used to break ice for being a 'sharp tool'.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Hatchet.png)
 
 ![Old icon](../assets/Hatchet_old_icon.webp)
+
+[ru:Топорик](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D1%80%D0%B8%D0%BA)
+
+[fr:Hachette](https://fr.wikipedia.org/wiki/Hachette)

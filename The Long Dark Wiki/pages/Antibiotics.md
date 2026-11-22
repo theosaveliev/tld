@@ -33,8 +33,10 @@
 
 **Antibiotics** are an artificial medical item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Antibiotics are commonly found inside of first aid kits and medicine cabinets, but may be found indoors, outside (usually at campfires or near [Frozen Corpses](./Frozen%20Corpse.md)) or in containers. They are usually found in groups of 6 pills, though more or less may be found; they are always found in multiples of 2.
@@ -48,8 +50,10 @@ Antibiotics are used to treat the following Afflictions:
 
 One dose of Antibiotics consists of 2 Antibiotics pills. A single pill cannot be used, therefore they should be carried in multiples of 2. The effect of antibiotics is not generalized throughout the body, and each dose will only treat one injury, and should be applied to the injuring requiring them as treatment (e.g. "Food Poisoning" and "Dysentery" will display as separate Afflictions, with each requiring separate doses to treat).
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Upon reaching Level 5 [Cooking Skill](./Skills.md), all artificial foods and cooked meats may be safely eaten regardless of condition (including "Ruined" food), making Food Poisoning and Intestinal Parasites only possible through the consumption of raw meat.
@@ -57,15 +61,21 @@ One dose of Antibiotics consists of 2 Antibiotics pills. A single pill cannot be
 - Antibiotics cannot be crafted and Reishi Mushrooms do not regrow; however Antibiotics are renewable via [Beachcombing](./Beachcombing.md) and [Trading](./Trader.md).
 - The condition of Antibiotics [decays](./Decay.md) slowly over time (based on Survival Mode). Upon reaching 0% Condition, they will disappear if inside of a container. Ruined 0% Antibiotics can still be used through the Radial Menu, although this will consume all 6 pills at once. It is therefore advisable to drop the other four pills on the floor first, before consuming Ruined Antibiotics.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Antibiotics.png)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which generally distribute through the body.
+
+[ru:Антибиотики](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8) [fr:Antibiotiques](https://fr.wikipedia.org/wiki/Antibiotiques)

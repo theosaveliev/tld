@@ -30,8 +30,10 @@
 
 **A Handwritten Note** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found on a table inside the [Constable's Office](./Constable%27s%20Office.md), with the [Brass Key (2)](./Brass%20Key%20%282%29.md) below it, during the main mission [Perseverance](./Perseverance.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **A Handwritten Note**_
@@ -45,8 +47,16 @@ I'll also need you to sign the paperwork in order to release the bodies to the f
 
 Dr Larsen
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

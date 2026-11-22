@@ -37,14 +37,18 @@ _This is about the normal cloth bedroll. For a list of other bedrolls see here._
 
 The **Bedroll** is a tool for sleeping without a bed in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Bedroll is a tool which allows [sleep](./Sleep.md) at almost any location indoors or outside. It cannot be crafted but can be found at multiple locations in most [regions](./Region.md). The Bedroll requires 2 [cloth](./Cloth.md) and a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md) to be repaired.
 
-<span id="features"></span><span id="Features"></span>
+<!-- #Features -->
+​
 
+<!-- #features -->
 ## Features
 
 Bedrolls must be deployed to use ("use" in the inventory, or via the [Radial Menu](./Radial%20Menu.md)). When deployed they may be slept in indoors or outside, restoring fatigue and also condition if all 4 needs are met. The rate of Condition restored when using a Bedroll is slower than with a proper beds or a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) (see [Sleep](./Sleep.md)). When used Bedrolls provide warmth based on the bedroll's current condition (similar to [Clothes](./Clothing.md)).
@@ -53,8 +57,16 @@ The Bedroll is lighter than the [Bearskin Bedroll](./Bear%20Skin%20Bedroll.md) (
 
 As of Part 3: Frontier Comforts update for those who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, the bedroll can be [improved](./Improvised%20Down%20Bedroll.md).
 
-<span id="spawn_locations"></span><span id="Spawn_Locations"></span><span id="spawn-locations"></span>
+<!-- #spawn_locations -->
+​
 
+<!-- #Spawn_Locations -->
+​
+
+<!-- #Spawn_locations -->
+​
+
+<!-- #spawn-locations -->
 ## Spawn Locations
 
 - Inside the Train Car in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
@@ -63,16 +75,20 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 - Next to the front door in [Quonset Garage](./Quonset%20Garage.md).
 - Next to the front entrance of the [Stone Church](./Stone%20Church.md).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | None | - 1 × [Bedroll](./Bedroll.md)<br>- 3 × [Cloth](./Cloth.md)<br>- 10 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Bedrolls are useful or even life-saving in cold or remote regions ([Hushed River Valley](./Hushed%20River%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Bleak Inlet](./Bleak%20Inlet.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), and [Pleasant Valley](./Pleasant%20Valley.md)), and on harder survival modes (with colder world temperatures and faster [Condition](./Condition.md) damage from [freezing](./Needs.md)).
@@ -81,8 +97,12 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 - Bedrolls are useful for overcoming [Cabin Fever](./Cabin%20Fever.md).
 - Sleeping without a bedroll is possible inside [cars and trucks](./Car.md) by entering the vehicle and selecting "sleep" from the Radial Menu (campcraft).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Bedroll.png)
+
+[ru:Спальный\_мешок](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA)

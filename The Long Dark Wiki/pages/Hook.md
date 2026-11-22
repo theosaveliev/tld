@@ -37,13 +37,13 @@
 
 A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](./Fishing%20Tackle.md). It can either be found or constructed on a [Work Bench](./Work%20Bench.md) from [Scrap Metal](./Scrap%20Metal.md). They can be hard to spot in the world, but can often be found near Work Benches or inside [Fishing Huts](./Fishing%20Hut.md).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Hook**
-
-
 
 20 minutes
 
@@ -53,20 +53,20 @@ A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](.
 
 **Quantity:** 1
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Fishing Tackle](./Fishing%20Tackle.md) | None | - 1 × [Hook](./Hook.md)<br>- 1 × [Line](./Line.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Hook.png)
-
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
-
-## Update history

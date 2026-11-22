@@ -37,17 +37,20 @@
 
 This episode has since been replaced by [The Crash](./The%20Crash.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Search the area around the Crash Site, and beyond.
 - Follow the road. Where does it go? And could Astrid have followed it?
 - The big old house shows the first signs of habitation since you crashed. Investigate.
 
+<!-- #Overview -->
+​
 
-<span id="overview"></span><span id="Overview"></span>
-
+<!-- #overview -->
 ## Overview
 
 Make your way away from [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md) and continue following the torn fragments of Astrid's Scarf until you see a pond. Many [Rabbits](./Rabbit.md) are around the area that can be hunted with [Stones](./Stone.md) if desired. Make your way up the hill into the cave system.
@@ -58,20 +61,44 @@ Follow the road past [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) until y
 
 Continue down the road to the town of [Milton](./Milton.md) and head up to the house on the hill with smoke coming out of the active chimney. Walk inside to meet [Grey Mother](./Grey%20Mother.md). After the cutscene ends you will chat with her via dialogue options. Ask her anything you want and then exit the dialogue and the mission will end.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md)
 
-<span id="differences_from_redux_episode_1"></span><span id="Differences_from_Redux_Episode_1"></span><span id="differences-from-redux-episode-1"></span>
+<!-- #differences_from_redux_episode_1 -->
+​
 
+<!-- #Differences_from_Redux_Episode_1 -->
+​
+
+<!-- #Differences_from_redux_episode_1 -->
+​
+
+<!-- #Differences_From_Redux_Episode_1 -->
+​
+
+<!-- #differences-from-redux-episode-1 -->
 ## Differences from Redux Episode 1
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 1:
 
-<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
+<!-- #plot_points_and_gameplay_changes -->
+​
 
+<!-- #Plot_Points_and_Gameplay_Changes -->
+​
+
+<!-- #Plot_points_and_gameplay_changes -->
+​
+
+<!-- #Plot_Points_And_Gameplay_Changes -->
+​
+
+<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - The camera does not automatically turn and stop the player to show context sensitive situations, such as redirecting the camera towards Mackenzie's Crashed Plane.
@@ -89,8 +116,16 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - Grey Mother mentions that Milton has been through 5 days of hell, referencing Mackenzie being stranded in the ravine for the last 5 days. This line is absent in the Redux version, since only 2 days have passed.
   - It is implied however that Astrid was passed out for 5 days between the events of Episode 1 and the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in the Redux timeline.
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

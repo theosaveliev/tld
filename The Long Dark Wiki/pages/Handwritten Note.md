@@ -30,8 +30,10 @@
 
 **Handwritten Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found at the base steps of the [Hunting Lodge](./Hunting%20Lodge.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Handwritten Note**_
@@ -40,8 +42,16 @@ The penmanship on this scrap paper seems out of place in this wilderness.
 
 "I never really expected to be back here. Nor truly expected that you would be here either. But I had hoped. If you find this, know that I left something for you. Hidden away from those who simply take what they will."
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

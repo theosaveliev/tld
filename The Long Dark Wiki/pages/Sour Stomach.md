@@ -30,8 +30,10 @@
 
 **Sour Stomach** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “__Your questionable diet has caught up with you.  
@@ -42,15 +44,13 @@
 
 Sour Stomach is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stage 2-4 of Misery. It permanently reduces the maximum calories the survivor can store in their body. Sour Stomach also disables both of the benefits from Cooking Skill level 5: you now have a chance of [Food Poisoning](./Food%20Poisoning.md) when [eating cooked or artificial food](./Food%20And%20Drink.md), as well as [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) when eating cooked predator meat again.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - Maximum [Calories Stored](./Needs.md) reduced by 1000 (1500 maximum)
 - Disables [Cooking Skill](./Cooking.md) level 5 perks "immunity to [Food Poisoning](./Food%20Poisoning.md)" and "immunity to [Intestinal Parasites](./Intestinal%20Parasites.md)" when eating non-raw food
 - All Food Poisoning chances of food items are doubled. Safe food items with 0% Food Poisoning risk are still safe, though.
 - The rate at which the Risk of Intestinal Parasites meter is filled after consuming predator meat is increased by 1.5. One piece gives 1% risk, two pieces 6%, three pieces 13% and so on.
-
-<span id="strategies"></span><span id="Strategies"></span>
-
-## Strategies

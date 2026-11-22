@@ -10,8 +10,10 @@
 
 **Beneath a Starry Sky** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This achievement is obtained after surviving for three consecutive nights outside in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim, but will often be acquired through normal gameplay on harder difficulties. It is highly recommended to pack sufficient warm clothing, materials for starting a fire, and food and drink, and survive inside a [Warm Cave](./Warm%20Cave.md).

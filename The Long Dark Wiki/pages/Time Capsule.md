@@ -42,8 +42,16 @@ It is still possible to earn [Steam Achievements](./The%20Long%20Dark%20%E2%80%9
 
 The page for Hinterland's Time Capsule can be found here: [https://www.thelongdark.com/time-capsule/](https://www.thelongdark.com/time-capsule/)
 
-<span id="install_instructions"></span><span id="Install_Instructions"></span><span id="install-instructions"></span>
+<!-- #install_instructions -->
+​
 
+<!-- #Install_Instructions -->
+​
+
+<!-- #Install_instructions -->
+​
+
+<!-- #install-instructions -->
 ## Install Instructions
 
 - 1. Launch Steam.
@@ -57,168 +65,372 @@ The page for Hinterland's Time Capsule can be found here: [https://www.thelongda
 - 9. Once completed the branch name will appear next to the The Long Dark in your library list.
 - 10. To return to the most Current version, select "NONE" in the Beta drop down and the game will reinstall the most modern game files.
 
-<span id="v2.01_perilous_constraint"></span><span id="V2.01_Perilous_Constraint"></span><span id="v201-perilous-constraint"></span><span id="2.01"></span>
+<!-- #v2.01_perilous_constraint -->
+​
 
+<!-- #V2.01_Perilous_Constraint -->
+​
+
+<!-- #V2.01_perilous_constraint -->
+​
+
+<!-- #2.01 -->
+​
+
+<!-- #v201-perilous-constraint -->
 ## V2.01 Perilous Constraint
 
 Branch Name: z\_perilousconstraint
 
 Branch Password: Jgrm0FGvpcw1mVRG6c4B
 
-<span id="v.194_fury_then_silence"></span><span id="V.194_Fury,_Then_Silence"></span><span id="v.194_fury,_then_silence"></span><span id="v194-fury-then-silence"></span>
+<!-- #v.194_fury_then_silence -->
+​
 
+<!-- #V.194_Fury,_Then_Silence -->
+​
+
+<!-- #v.194_fury,_then_silence -->
+​
+
+<!-- #V.194_fury,_then_silence -->
+​
+
+<!-- #v194-fury-then-silence -->
 ## V.194 Fury, Then Silence
 
 Branch Name: TBD
 
 Branch Password: TBD
 
-<span id="v1.89_hesitant_prospect"></span><span id="V1.89_Hesitant_Prospect"></span><span id="v189-hesitant-prospect"></span><span id="1.89"></span>
+<!-- #v1.89_hesitant_prospect -->
+​
 
+<!-- #V1.89_Hesitant_Prospect -->
+​
+
+<!-- #V1.89_hesitant_prospect -->
+​
+
+<!-- #1.89 -->
+​
+
+<!-- #v189-hesitant-prospect -->
 ## V1.89 Hesitant Prospect
 
 Branch Name: z\_hesitantprospect
 
 Branch Password: 3sMaq3qJPG94hL4J
 
-<span id="v1.79_fearless_navigator"></span><span id="V1.79_Fearless_Navigator"></span><span id="v179-fearless-navigator"></span><span id="1.79"></span>
+<!-- #v1.79_fearless_navigator -->
+​
 
+<!-- #V1.79_Fearless_Navigator -->
+​
+
+<!-- #V1.79_fearless_navigator -->
+​
+
+<!-- #1.79 -->
+​
+
+<!-- #v179-fearless-navigator -->
 ## V1.79 Fearless Navigator
 
 Branch Name: z\_fearlessnavigator
 
 Branch Password: tj9SMMenrNvb4YNp
 
-<span id="v1.64_errant_pilgrim"></span><span id="V1.64_Errant_Pilgrim"></span><span id="v164-errant-pilgrim"></span><span id="1.64"></span>
+<!-- #v1.64_errant_pilgrim -->
+​
 
+<!-- #V1.64_Errant_Pilgrim -->
+​
+
+<!-- #V1.64_errant_pilgrim -->
+​
+
+<!-- #1.64 -->
+​
+
+<!-- #v164-errant-pilgrim -->
 ## V1.64 Errant Pilgrim
 
 Branch Name: z\_errantpilgrim
 
 Branch Password: QVwJVd598tTvnZhu
 
-<span id="v1.60_crossroads_elegy"></span><span id="V1.60_Crossroads_Elegy"></span><span id="v160-crossroads-elegy"></span><span id="1.60"></span>
+<!-- #v1.60_crossroads_elegy -->
+​
 
+<!-- #V1.60_Crossroads_Elegy -->
+​
+
+<!-- #V1.60_crossroads_elegy -->
+​
+
+<!-- #1.60 -->
+​
+
+<!-- #v160-crossroads-elegy -->
 ## V1.60 Crossroads Elegy
 
 Branch Name: z\_episode3
 
 Branch Password: BdZkXXpH6hqsbyZd
 
-<span id="v1.56_steadfast_ranger"></span><span id="V1.56_Steadfast_Ranger"></span><span id="v156-steadfast-ranger"></span><span id="1.56"></span>
+<!-- #v1.56_steadfast_ranger -->
+​
 
+<!-- #V1.56_Steadfast_Ranger -->
+​
+
+<!-- #V1.56_steadfast_ranger -->
+​
+
+<!-- #1.56 -->
+​
+
+<!-- #v156-steadfast-ranger -->
 ## V1.56 Steadfast Ranger
 
 Branch Name: z\_steadfastranger
 
 Branch Password: cSY4ueT7TUDT62Xc
 
-<span id="v1.47_wintermute_redux"></span><span id="V1.47_Wintermute_Redux"></span><span id="v147-wintermute-redux"></span><span id="1.47"></span>
+<!-- #v1.47_wintermute_redux -->
+​
 
+<!-- #V1.47_Wintermute_Redux -->
+​
+
+<!-- #V1.47_wintermute_redux -->
+​
+
+<!-- #1.47 -->
+​
+
+<!-- #v147-wintermute-redux -->
 ## V1.47 Wintermute Redux
 
 Branch Name: z\_wintermuteredux
 
 Branch Password: 9LWcV267hKpHjg6w
 
-<span id="v1.37_vigilant_flame"></span><span id="V1.37_Vigilant_Flame"></span><span id="v137-vigilant-flame"></span><span id="1.37"></span>
+<!-- #v1.37_vigilant_flame -->
+​
 
+<!-- #V1.37_Vigilant_Flame -->
+​
+
+<!-- #V1.37_vigilant_flame -->
+​
+
+<!-- #1.37 -->
+​
+
+<!-- #v137-vigilant-flame -->
 ## V1.37 Vigilant Flame
 
 Branch Name: z\_vigilantflame
 
 Branch Password: d2Zvdbgare46aRps
 
-<span id="v1.30_rugged_sentinel"></span><span id="V1.30_Rugged_Sentinel"></span><span id="v130-rugged-sentinel"></span><span id="1.30"></span>
+<!-- #v1.30_rugged_sentinel -->
+​
 
+<!-- #V1.30_Rugged_Sentinel -->
+​
+
+<!-- #V1.30_rugged_sentinel -->
+​
+
+<!-- #1.30 -->
+​
+
+<!-- #v130-rugged-sentinel -->
 ## V1.30 Rugged Sentinel
 
 Branch Name: z\_ruggedsentinel
 
 Branch Password: m3k5U5BzgGSECQ9d
 
-<span id="v1.15_wintermute_1.0_launch"></span><span id="V1.15_Wintermute_1.0_Launch"></span><span id="v115-wintermute-10-launch"></span><span id="1.15"></span>
+<!-- #v1.15_wintermute_1.0_launch -->
+​
 
+<!-- #V1.15_Wintermute_1.0_Launch -->
+​
+
+<!-- #V1.15_wintermute_1.0_launch -->
+​
+
+<!-- #1.15 -->
+​
+
+<!-- #1.0 -->
+​
+
+<!-- #v115-wintermute-10-launch -->
 ## V1.15 Wintermute 1.0 Launch
 
 Branch Name: z\_1.0launch
 
 Branch Password: zEkBaxsFU6wu2rsa
 
-<span id="v.426_faithful_cartographer"></span><span id="V.426_Faithful_Cartographer"></span><span id="v426-faithful-cartographer"></span>
+<!-- #v.426_faithful_cartographer -->
+​
 
+<!-- #V.426_Faithful_Cartographer -->
+​
+
+<!-- #V.426_faithful_cartographer -->
+​
+
+<!-- #v426-faithful-cartographer -->
 ## V.426 Faithful Cartographer
 
 Branch Name: z\_faithfulcartographer
 
 Branch Password: hE72eT9KP5WtBCn4
 
-<span id="v.393_resolute_outfitter"></span><span id="V.393_Resolute_Outfitter"></span><span id="v393-resolute-outfitter"></span>
+<!-- #v.393_resolute_outfitter -->
+​
 
+<!-- #V.393_Resolute_Outfitter -->
+​
+
+<!-- #V.393_resolute_outfitter -->
+​
+
+<!-- #v393-resolute-outfitter -->
 ## V.393 Resolute Outfitter
 
 Branch Name: z\_resoluteoutfitter
 
 Branch Password: TVnhrrydqtT8ta88
 
-<span id="v.365_vigilant_trespass"></span><span id="V.365_Vigilant_Trespass"></span><span id="v365-vigilant-trespass"></span>
+<!-- #v.365_vigilant_trespass -->
+​
 
+<!-- #V.365_Vigilant_Trespass -->
+​
+
+<!-- #V.365_vigilant_trespass -->
+​
+
+<!-- #v365-vigilant-trespass -->
 ## V.365 Vigilant Trespass
 
 Branch Name: z\_vigilanttrespass
 
 Branch Password: q3EmEnt7wCc495TG
 
-<span id="v.349_penitent_scholar"></span><span id="V.349_Penitent_Scholar"></span><span id="v349-penitent-scholar"></span>
+<!-- #v.349_penitent_scholar -->
+​
 
+<!-- #V.349_Penitent_Scholar -->
+​
+
+<!-- #V.349_penitent_scholar -->
+​
+
+<!-- #v349-penitent-scholar -->
 ## V.349 Penitent Scholar
 
 Branch Name: z\_pentitentscholar
 
 Branch Password: xgUqeYAhD5jhjsZX
 
-<span id="v.339_tireless_menace"></span><span id="V.339_Tireless_Menace"></span><span id="v339-tireless-menace"></span>
+<!-- #v.339_tireless_menace -->
+​
 
+<!-- #V.339_Tireless_Menace -->
+​
+
+<!-- #V.339_tireless_menace -->
+​
+
+<!-- #v339-tireless-menace -->
 ## V.339 Tireless Menace
 
 Branch Name: z\_tirelessmenace
 
 Branch Password: cFvvcA3bk7eZsLTe
 
-<span id="v.302_timberwolf_mountain"></span><span id="V.302_Timberwolf_Mountain"></span><span id="v302-timberwolf-mountain"></span>
+<!-- #v.302_timberwolf_mountain -->
+​
 
+<!-- #V.302_Timberwolf_Mountain -->
+​
+
+<!-- #V.302_timberwolf_mountain -->
+​
+
+<!-- #v302-timberwolf-mountain -->
 ## V.302 Timberwolf Mountain
 
 Branch Name: z\_timberwolfmountain
 
 Branch Password: L9mmQmZc48tEveTX
 
-<span id="v.271_desolation_point"></span><span id="V.271_Desolation_Point"></span><span id="v271-desolation-point"></span>
+<!-- #v.271_desolation_point -->
+​
 
+<!-- #V.271_Desolation_Point -->
+​
+
+<!-- #V.271_desolation_point -->
+​
+
+<!-- #v271-desolation-point -->
 ## V.271 Desolation Point
 
 Branch Name: z\_desolationpoint
 
 Branch Password: 9uJcchMtNvpkKUUB
 
-<span id="v.258_deep_forest"></span><span id="V.258_Deep_Forest"></span><span id="v258-deep-forest"></span>
+<!-- #v.258_deep_forest -->
+​
 
+<!-- #V.258_Deep_Forest -->
+​
+
+<!-- #V.258_deep_forest -->
+​
+
+<!-- #v258-deep-forest -->
 ## V.258 Deep Forest
 
 Branch Name: z\_deepforest
 
 Branch Password: 6BXgaAPncUz4umsA
 
-<span id="v.236_silent_hunter"></span><span id="V.236_Silent_Hunter"></span><span id="v236-silent-hunter"></span>
+<!-- #v.236_silent_hunter -->
+​
 
+<!-- #V.236_Silent_Hunter -->
+​
+
+<!-- #V.236_silent_hunter -->
+​
+
+<!-- #v236-silent-hunter -->
 ## V.236 Silent Hunter
 
 Branch Name: z\_silenthunter
 
 Branch Password: Myr9JbqSXm7qJxWP
 
-<span id="v.119_early_access_launch"></span><span id="V.119_Early_Access_Launch"></span><span id="v119-early-access-launch"></span>
+<!-- #v.119_early_access_launch -->
+​
 
+<!-- #V.119_Early_Access_Launch -->
+​
+
+<!-- #V.119_early_access_launch -->
+​
+
+<!-- #v119-early-access-launch -->
 ## V.119 Early Access Launch
 
 Branch Name: z\_earlyaccesslaunch

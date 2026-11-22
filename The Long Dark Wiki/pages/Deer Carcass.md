@@ -12,8 +12,10 @@
 
 **Wintermute:** Yes A **Deer Carcass** is a harvestable object found after [Hunting](./Hunting.md) a [Deer](./Deer.md). They can occasionally be found as ravaged carcasses dispersed across [Great Bear Island](./Great%20Bear%20Island.md), or can be left after Deer are hunted by [Wolves](./Wolf.md). [Crows](./Crow.md) will fly around a Deer Carcass and always drop 3-5 [Crow Feathers](./Crow%20Feather.md) around the carcass at any time.
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 Depending on whether the player hunted a [Deer](./Deer.md) or a Doe, a fresh deer carcass contains between 8.00 and 12.50 kg of raw meat, two pieces of [animal fat](./Animal%20Fat.md) as well as two fresh [guts](./Fresh%20Gut.md) and one fresh [Deer Hide](./Fresh%20Deer%20Hide.md). The type of deer only influences the meat amount but doesn't change the materials drop. Carcasses can be harvested barehanded or with a variety of tools, each changing the time it will take to harvest the drop.
@@ -33,14 +35,24 @@ Buck and Doe carcasses contain slightly differing amounts of meat upon their cor
 | [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
 | [Missing image: Gut\_icon.png]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
-<span id="spawn_locations"></span><span id="Spawn_Locations"></span><span id="spawn-locations"></span>
+<!-- #spawn_locations -->
+​
 
+<!-- #Spawn_Locations -->
+​
+
+<!-- #Spawn_locations -->
+​
+
+<!-- #spawn-locations -->
 ## Spawn Locations
 
 Deer Carcasses are often found placed across [Great Bear Island](./Great%20Bear%20Island.md), being present in almost every [Region](./Region.md). They appear on the map with a specific icon; they share an icon with deer carcasses hunted by the player or by wolves, making it sometimes tricky to identify. They have the advantage of most often not being patrolled by wolves like a carcass the predators just hunted would be and they can be harvested at any point in the game regardless of Carcass Harvesting skill level. That makes them a useful source of food and materials early on, especially in [Interloper](./Interloper.md) and [Misery](./Misery.md) where tools and weapons are acquired later than in other difficulties.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An untouched frozen deer.](../assets/Fresh_Frozen_Deer.jpg)
@@ -59,8 +71,10 @@ Deer Carcasses are often found placed across [Great Bear Island](./Great%20Bear%
 
 ![A frozen ravaged doe.](../assets/Frozen_Ravaged_Doe.jpg)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

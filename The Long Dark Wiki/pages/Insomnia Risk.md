@@ -36,16 +36,18 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
+<!-- #Overview -->
+​
 
-
-<span id="overview"></span><span id="Overview"></span>
-
+<!-- #overview -->
 ## Overview
 
 **Insomnia Risk** is an [Affliction](./Afflictions.md) added to the Part 1 Update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, and is contracted from spending too much time in [Glimmer Fog](./Glimmer%20Fog.md) found within certain [Regions](./Region.md) within the Far Territory Frontier. At present, it can only be contracted in the [Forsaken Airfield](./Forsaken%20Airfield.md), [Zone of Contamination](./Zone%20of%20Contamination.md), and [Sundered Pass](./Sundered%20Pass.md) Regions.
 
-<span id="risk"></span><span id="Risk"></span>
+<!-- #Risk -->
+​
 
+<!-- #risk -->
 ## Risk
 
 "_You risk Insomnia by spending time inside the Glimmer Fog_"

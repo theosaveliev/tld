@@ -14,8 +14,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Two caves are present at Deer Clearing: the [Ash Canyon](./Ash%20Canyon.md) transition cave is in the south, which is a winding cavern with many dead ends. This cave can provide shelter from the elements. The other cave is shallow and may yield containers with loot, including a [Hatchet](./Hatchet.md), [Dog Food](./Dog%20Food.md), and [Cedar Firewood](./Cedar%20Firewood.md).
@@ -39,8 +41,10 @@ _Container 2:_ atop a rocky hill. This container does not spawn on Interloper mo
 
 If the player places a [climbing rope](./Mountaineering%20Rope.md) at the spot on the level of Eric's Falls, the player can descend to the [Engine](./Engine%20%28East%29.md) area. Placing a rope here will significantly decrease the time needed to get from the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) to the [Summit](./Summit.md), since the player will no longer have to walk all the way around through Deer Clearing.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Deer Clearing Cave (Ash Canyon transition)](../assets/Timberwolf_AshCanyon_Cave.jpg)
@@ -52,3 +56,5 @@ If the player places a [climbing rope](./Mountaineering%20Rope.md) at the spot o
 ![Deer Clearing](../assets/Deer_Clearing.jpg)
 
 ![The shallow Cave at Deer Clearing can provide some shelter and be used to cure items](../assets/20210428011214_1.jpg)
+
+[ru:Поляна оленей](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B5%D0%B9)

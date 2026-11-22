@@ -16,16 +16,20 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The peak lies near its western counterpart. At the top of the peak is some [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), and a nice view of the [Echo Ravine](./Echo%20Ravine.md). At the bottom of the peak is a [bear](./Bear.md) cave.
 
 The plastic container in the shallow cave at the top may contain a polaroid.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A view of Timberwolf Mountain with Echo Peak East in the foreground, as seen from Echo Peak West.](../assets/View_from_echo_peak_west.jpg)
@@ -43,3 +47,5 @@ _A view of [Timberwolf Mountain](./Timberwolf%20Mountain.md) with Echo Peak East
 ![Shallow cave at the top (in the blizzard)](../assets/Echo_Peak_East_02b.jpg)
 
 ![View of Echo Peak West from Echo Peak East (Strangely, the sun rises from the west)](../assets/Echo_Peak_East_04b.jpg)
+
+[ru:Восточная сторона пика Эхо](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%BF%D0%B8%D0%BA%D0%B0_%D0%AD%D1%85%D0%BE)

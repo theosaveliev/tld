@@ -1,6 +1,6 @@
 # Safe
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
 
 **Contents**
 
@@ -29,16 +29,20 @@
 
 A **Safe** is a stationary interactable object that can work as a storage container.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Safes have a combination lock and can contain rare items such as [Flare Shells](./Flare%20Shell.md), [MREs](./Military-Grade%20MRE.md) or [Mukluks](./Mukluks.md).
 
 A safe can hold 10kg.
 
-<span id="loot"></span><span id="Loot"></span>
+<!-- #Loot -->
+​
 
+<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |
@@ -66,8 +70,10 @@ A safe can hold 10kg.
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1.09% |
 | [Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 1.09% |
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are ten safes in the game. They are located:
@@ -86,8 +92,10 @@ There are ten safes in the game. They are located:
   - [Concentrator](./Concentrator.md) offices
   - [Langston Mine](./Langston%20Mine.md), Level 2
 
-<span id="safecracking"></span><span id="Safecracking"></span>
+<!-- #Safecracking -->
+​
 
+<!-- #safecracking -->
 ## Safecracking
 
 Opening a safe requires neither resources, nor luck, but can be somewhat time-consuming. The player can turn the dial by using the arrow keys.

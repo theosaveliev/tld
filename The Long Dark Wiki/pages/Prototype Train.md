@@ -27,8 +27,10 @@
 
  [TLDHOME Survival Expansion IronRoad](../assets/TLDHOME_Survival_Expansion_IronRoad.png)<br>The **Prototype Train** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). It is part of the [_Iron Road_](./Iron%20Road.md) expansion for [Survival Mode](./Survival%20Mode.md) and is found exclusively on [Cauldron Island](./Cauldron%20Island.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 An iron fortress on wheels, the Prototype Train is a large steam locomotive and the main method of traversing [Cauldron Island](./Cauldron%20Island.md). Described by its creator Hamish McLeod as "an angel rendered in the finest steel<span id="fnref1"></span>[¹](#fn1)", the train was at one point a state of the art vehicle and despite just being a prototype was the most advanced steam engine ever built.
@@ -37,8 +39,16 @@ Most of the Prototype Train's mechanics are borrowed from the [Steam Train](./St
 
 Part train, part mobile shelter, part mobile base, the train is designed to be your companion while traversing Cauldron Island. The player will need to take care of the train as they travel, as it will become their most important lifeline that will ensure their survival and open up the secrets of the caldera.
 
-<span id="basic_train_features"></span><span id="Basic_Train_Features"></span><span id="basic-train-features"></span>
+<!-- #basic_train_features -->
+​
 
+<!-- #Basic_Train_Features -->
+​
+
+<!-- #Basic_train_features -->
+​
+
+<!-- #basic-train-features -->
 ## Basic Train Features
 
 The train has various components that can be interacted with. The outside of the train contains:
@@ -57,8 +67,16 @@ The inside of the train contains:
 - The main Engine used to ignite the Boiler, and a single Cooking slot below it.
 - The player can also lean outside of the windows in 2 spots (above the cupboard widow and the slide doors window).
 
-<span id="main_control_panel"></span><span id="Main_Control_Panel"></span><span id="main-control-panel"></span>
+<!-- #main_control_panel -->
+​
 
+<!-- #Main_Control_Panel -->
+​
+
+<!-- #Main_control_panel -->
+​
+
+<!-- #main-control-panel -->
 ### Main Control Panel
 
 ![The main controls](../assets/Prototype_Train_Main_Control_Diagram.png)_The main controls_ The main control panel consists of:
@@ -80,8 +98,16 @@ The inside of the train contains:
 - **Water Gauge** - This is the blue waves gauge, and shows how much water is in the boiler for the train to build PSI.
 - **Horn** - A lever that sounds a steam whistle. Higher stored PSI levels produce a louder whistle. Does not scare off wildlife.
 
-<span id="miscellaneous_features"></span><span id="Miscellaneous_Features"></span><span id="miscellaneous-features"></span>
+<!-- #miscellaneous_features -->
+​
 
+<!-- #Miscellaneous_Features -->
+​
+
+<!-- #Miscellaneous_features -->
+​
+
+<!-- #miscellaneous-features -->
 ### Miscellaneous Features
 
 A few other features to consider regarding the train include:
@@ -97,18 +123,30 @@ A few other features to consider regarding the train include:
 - Despite having a forward mounted light on the front of the train, it will not power on when the [Aurora](./Aurora.md) is out.
 - Wildlife show very little reaction to the train as it passes by, and will only notice the player if the train stops and they lean out of the window. Wildlife cannot be run over by the train, and are instead pushed out of the way.
 
-<span id="train_upgrades"></span><span id="Train_Upgrades"></span><span id="train-upgrades"></span>
+<!-- #train_upgrades -->
+​
 
+<!-- #Train_Upgrades -->
+​
+
+<!-- #Train_upgrades -->
+​
+
+<!-- #train-upgrades -->
 ### Train Upgrades
 
 Train upgrades are an upcoming feature that will allow you to upgrade various parts of the train, including personalization of the cabin.
 
-<span id="mechanics"></span><span id="Mechanics"></span>
+<!-- #train_operation -->
+​
 
-## Mechanics
+<!-- #Train_Operation -->
+​
 
-<span id="train_operation"></span><span id="Train_Operation"></span><span id="train-operation"></span>
+<!-- #Train_operation -->
+​
 
+<!-- #train-operation -->
 ### Train Operation
 
 The basic operation for the train is as follows:
@@ -127,8 +165,19 @@ Other information to consider:
 - Fuel storage can be viewed at the Main Control panel or in the Train Status section of the [Survival Menu](./Survival%20Menu.md).
 - Ramming into any hard object that instantly stops the train (Aurora gate, some flatbed cars, buffer stops), will set the gear to Neutral but does not damage the train.
 
-<span id="fuel_storage_and_resupplying"></span><span id="Fuel_Storage_and_Resupplying"></span><span id="fuel-storage-and-resupplying"></span>
+<!-- #fuel_storage_and_resupplying -->
+​
 
+<!-- #Fuel_Storage_and_Resupplying -->
+​
+
+<!-- #Fuel_storage_and_resupplying -->
+​
+
+<!-- #Fuel_Storage_And_Resupplying -->
+​
+
+<!-- #fuel-storage-and-resupplying -->
 ### Fuel Storage and Resupplying
 
 ![Whale Oil Refueling Tank](../assets/Whale_Oil_Refueling.jpg)
@@ -150,8 +199,19 @@ The back side of the train must be parked very close to the Water Tower or Oil T
 | Water | 600.00 L (20 H) | 30.00 L | [Water Tower](./Water%20Tower.md) (20.00 L in 5 minutes) | [Water Tower](./Water%20Tower.md) (2 Hrs and 5 Min to fully refuel) |
 | Whale Oil | 500.00 L (17 H) | 30.00 L | [Oil Tank](./Oil%20Tank.md) (20.00 L in 5 minutes) | [Oil Tank](./Oil%20Tank.md) (2 Hrs and 30 Min to fully refuel) |
 
-<span id="repairing_and_refueling"></span><span id="Repairing_and_Refueling"></span><span id="repairing-and-refueling"></span>
+<!-- #repairing_and_refueling -->
+​
 
+<!-- #Repairing_and_Refueling -->
+​
+
+<!-- #Repairing_and_refueling -->
+​
+
+<!-- #Repairing_And_Refueling -->
+​
+
+<!-- #repairing-and-refueling -->
 ### Repairing and Refueling
 
 ![Train Status Survival Menu](../assets/Train_Status_Survival_Menu.jpg)
@@ -177,8 +237,19 @@ Repairing can take considerable time (up to several hours at a time), so finding
 | Water Tank | Normal use | Cannot build up PSI to move train Engine automatically turns off Boiler and cannot be ignited | N/A | Add[Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)/[Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) [Water (Unsafe)](./Water%20%28Unsafe%29.md) ([Water Tower](./Water%20Tower.md) refuel station or by hand) | 5 minutes per 20.00 L |
 | Fuel Tank | Normal use | Cannot ignite Boiler | N/A | Add [Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) [Whale Oil Can](./Whale%20Oil%20Can.md) ([Oil Tank](./Oil%20Tank.md) refuel station or by hand) | 5 minutes per 20.00 L |
 
-<span id="traveling_and_track_hazards"></span><span id="Traveling_and_Track_Hazards"></span><span id="traveling-and-track-hazards"></span>
+<!-- #traveling_and_track_hazards -->
+​
 
+<!-- #Traveling_and_Track_Hazards -->
+​
+
+<!-- #Traveling_and_track_hazards -->
+​
+
+<!-- #Traveling_And_Track_Hazards -->
+​
+
+<!-- #traveling-and-track-hazards -->
 ### Traveling and Track Hazards
 
 ![Chained Metal Gates](../assets/Train_Hazard_Gates.jpg)
@@ -216,18 +287,22 @@ List of obstacles that do not damage the train:
 
 Driving into a [Repair Depot's](./Repair%20Depot.md) doors will never damage the train even at full speed, but will instead transfer you inside the building.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Much like the [Steam Train](./Steam%20Train.md), the Prototype Train cannot be derailed (though it can sometimes appear to be off of the tracks when parked), cannot run over and kill wildlife (they are pushed out of the way), and the main boiler tank cannot be over-pressured until it explodes. Various parts of the Prototype Train can break down however.
 - The Prototype Train does not contain electronic lights of any kind, save for a single lamp that lights up the control panel when the engine is powered. This makes the Steam Train slightly more unique, having a single front mounted light that turns on during the Aurora.
   - There is also a bell atop the train that does not function.
-- The locomotive is a [4-6-4T](w:4-6-4) cab-forward steam locomotive.
+- The locomotive is a [4-6-4T](https://en.wikipedia.org/wiki/4-6-4) cab-forward steam locomotive.
   - Cab-forward locomotives were used on the Southern Pacific railroad in the US, to keep smoke away from the cab while operating in tunnels and snow sheds.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Concept art of the train](../assets/Iron_Road_Steam_Train_Art.png)
@@ -246,20 +321,18 @@ Driving into a [Repair Depot's](./Repair%20Depot.md) doors will never damage the
 
 ![Iron Train 2](../assets/Iron_Train_2.jpg)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #References -->
+​
 
-## Game History
-
-
-
-<span id="references"></span><span id="References"></span>
-
+<!-- #references -->
 ## References
 
 &lt;div class="references-small" ;"&gt;
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

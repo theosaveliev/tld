@@ -54,7 +54,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **We all get to to tell our own stories, right? This is mine.**<br>Sutherland the Trader
@@ -66,8 +65,10 @@
 <span id="stub"></span> _SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 The objectives for this Tale do not show up in the Journal menu, so it is considered more of a hidden side mission. The following objectives are needed to complete this Tale:
@@ -86,8 +87,16 @@ The objectives for this Tale do not show up in the Journal menu, so it is consid
 - Complete Special Request 5
 - Continue trading until max Trust is reached (if needed)
 
-<span id="important_notes"></span><span id="Important_Notes"></span><span id="important-notes"></span>
+<!-- #important_notes -->
+​
 
+<!-- #Important_Notes -->
+​
+
+<!-- #Important_notes -->
+​
+
+<!-- #important-notes -->
 ## Important Notes
 
 - The option to enable the Trader on your survival save must be enabled, otherwise you cannot start this Tale.
@@ -103,12 +112,16 @@ The objectives for this Tale do not show up in the Journal menu, so it is consid
   - Most of the caches can be easily accessed within a day's walk from [Coastal Highway](./Coastal%20Highway.md), though it may be a long day of walking to the caches at [Blackrock](./Blackrock.md), [Hushed River Valley](./Hushed%20River%20Valley.md), and [Ash Canyon](./Ash%20Canyon.md).
   - Be careful when crossing [Raven Falls Trestle](./Raven%20Falls%20Trestle.md), as you may have to do so multiple times.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #arrival_time -->
+​
 
-## Walkthrough
+<!-- #Arrival_Time -->
+​
 
-<span id="arrival_time"></span><span id="Arrival_Time"></span><span id="arrival-time"></span>
+<!-- #Arrival_time -->
+​
 
+<!-- #arrival-time -->
 ### Arrival Time
 
 The player has no way of know this at first, but Sutherland eventually reveals that his radio has not been working since the start of a new survival game, and that he has been spending all this time repairing it. Below is a time table showing how long the player must survive before he repairs his radio and can be contacted.
@@ -122,8 +135,16 @@ The player has no way of know this at first, but Sutherland eventually reveals t
 | [Stalker](./Stalker.md) | 30 |
 | [Interloper](./Interloper.md)/[Misery](./Misery.md) | 40 |
 
-<span id="radio_locations"></span><span id="Radio_Locations"></span><span id="radio-locations"></span>
+<!-- #radio_locations -->
+​
 
+<!-- #Radio_Locations -->
+​
+
+<!-- #Radio_locations -->
+​
+
+<!-- #radio-locations -->
 ### Radio Locations
 
 ![Trader's Radio](../assets/Trader%27s_Radio.jpg)The Trader can only be contacted by special yellow [Radios](./Radio.md) with a microphone and portable antenna, which can be found at fixed locations on [Great Bear Island](./Great%20Bear%20Island.md) (and cannot moved with [Safehouse Customization](./Safehouse%20Customization.md)).
@@ -146,52 +167,114 @@ The player has no way of know this at first, but Sutherland eventually reveals t
 | [Transfer Pass](./Transfer%20Pass.md) | [Vacant Depot](./Vacant%20Depot.md) |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Idle Camp](./Idle%20Camp.md) (Mess Hall) |
 
-<span id="starting_sutherlands_tale"></span><span id="Starting_Sutherland&#x27;s_Tale"></span><span id="starting_sutherland&#x27;s_tale"></span><span id="starting-sutherlands-tale"></span>
+<!-- #starting_sutherlands_tale -->
+​
 
+<!-- #Starting_Sutherland's_Tale -->
+​
+
+<!-- #starting_sutherland's_tale -->
+​
+
+<!-- #Starting_sutherland's_tale -->
+​
+
+<!-- #starting-sutherlands-tale -->
 ### Starting Sutherland's Tale
 
 After the arrival time is met and the Aurora/Glimmer Fog powers the Radios, a voice will be heard on the radio. Talking to the man on the radio will allow you to begin trading with him where he offers to trade things with you. He requests that you drop everything off at the [Trade Drop Box](./Trade%20Drop%20Box.md) at the pier near [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) in [Coastal Highway](./Coastal%20Highway.md).
 
-<span id="complete_trades"></span><span id="Complete_Trades"></span><span id="complete-trades"></span>
+<!-- #complete_trades -->
+​
 
+<!-- #Complete_Trades -->
+​
+
+<!-- #Complete_trades -->
+​
+
+<!-- #complete-trades -->
 ### Complete Trades
 
 At this point, simply complete around 5 trades with him. It does not matter how much you trade for, or what the quality of items are. Consider just trading for 1 item 5 times to speed up this questline. If multiple items are requested in a trade, make sure to fully satisfy each trade request. Partially completed trades do not gain as much Trust as fully completed ones.
 
 Once enough trades are made, a special blue Conversation will appear.
 
-<span id="finding_the_prepper_caches"></span><span id="Finding_the_Prepper_Caches"></span><span id="finding-the-prepper-caches"></span>
+<!-- #finding_the_prepper_caches -->
+​
 
+<!-- #Finding_the_Prepper_Caches -->
+​
+
+<!-- #Finding_the_prepper_caches -->
+​
+
+<!-- #Finding_The_Prepper_Caches -->
+​
+
+<!-- #finding-the-prepper-caches -->
 ### Finding the Prepper Caches
 
 The Trader will want to know where his brother Wyatt is since he has not heard from him since the lights started appearing in the sky, and mentions a series of [Prepper Caches](./Prepper%20Cache.md) across the island belonging to Wyatt's old crew. After listening to the special conversation, a new Trade item will appear in the Trade menu called "Special Request".
 
 The first 3 Special Requests involve finding 3 themed Prepper Caches distributed across the Lower Great Bear. You only need to consider the 9 Prepper Caches in the Lower Great Bear, 6 of which are empty. In 3 of them (Stockpile, Hunter, and Conspiracy) you will find a large amount of loot (except on Interloper and above), as well as a Loose Bricks Stash that is only accessible after you've accepted the respective trade offer. Inside the Loose Bricks Stash you will find a Documents Stash which you need to trade to Sutherland (meaning that you must obtain the stashes in order, and you must return to Coastal Highway after every step). The fixed location of each of the 9 Prepper Caches is listed here: [Prepper Caches](./Prepper%20Cache.md).
 
-<span id="special_request_1"></span><span id="Special_Request_1"></span><span id="special-request-1"></span>
+<!-- #special_request_1 -->
+​
 
+<!-- #Special_Request_1 -->
+​
+
+<!-- #Special_request_1 -->
+​
+
+<!-- #special-request-1 -->
 ### Special Request 1
 
 The first cache the player must find is the Stockpile themed bunker. On Interloper this cache can be identified as the one with a corpse and Prepper's Pie recipe. Look around the walls until you find a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) and obtain the [Document Stash 1](./Document%20Stash%201.md) ([Wyatt's Lost Papers 1](./Wyatt%27s%20Lost%20Papers%201.md) and [Bunker Schematic Fragment 1](./Bunker%20Schematic%20Fragment%201.md) are found inside). Return the Document Stash 1 to the Trader by placing it in the Trade Drop Box, thus fulfilling his Special Request trade. Then talk to him on the radio after obtaining your reward ([Mackinaw Jacket](./Mackinaw%20Jacket.md)).
 
-<span id="special_request_2"></span><span id="Special_Request_2"></span><span id="special-request-2"></span>
+<!-- #special_request_2 -->
+​
 
+<!-- #Special_Request_2 -->
+​
+
+<!-- #Special_request_2 -->
+​
+
+<!-- #special-request-2 -->
 ### Special Request 2
 
 The Trader will want to know more of where his brother went, and mentions finding the Hunter cache on the island next.
 
 The second cache the player must find is the Hunter themed bunker. On Interloper this cache will have the L-shaped layout. Look around the walls until you find a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) and obtain the [Document Stash 2](./Document%20Stash%202.md) ([Wyatt's Lost Papers 2](./Wyatt%27s%20Lost%20Papers%202.md) and [Bunker Schematic Fragment 2](./Bunker%20Schematic%20Fragment%202.md) are found inside). Return the Document Stash 2 to the Trader by placing it in the Trade Drop Box, thus fulfilling his Special Request trade. Then talk to him on the radio after obtaining your reward (3x [Arrowheads](./Arrowhead.md)).
 
-<span id="special_request_3"></span><span id="Special_Request_3"></span><span id="special-request-3"></span>
+<!-- #special_request_3 -->
+​
 
+<!-- #Special_Request_3 -->
+​
+
+<!-- #Special_request_3 -->
+​
+
+<!-- #special-request-3 -->
 ### Special Request 3
 
 The Trader will want to know more of where his brother went, and mentions searching for the Conspiracy cache on the island next.
 
 The third cache the player must find is the Conspiracy themed bunker. On Interloper this cache can be identified by having distinct red corridor walls and a radiation sign on the wall. Look around them until you find a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) and obtain the [Document Stash 3](./Document%20Stash%203.md) ([Wyatt's Lost Papers 3](./Wyatt%27s%20Lost%20Papers%203.md) and [Bunker Schematic Fragment 3](./Bunker%20Schematic%20Fragment%203.md) are found inside). Return the Document Stash 3 to the Trader by placing it in the Trade Drop Box, thus fulfilling his Special Request trade. Then talk to him on the radio after obtaining your reward ([Improvised Knife](./Improvised%20Knife.md)).
 
-<span id="special_request_4"></span><span id="Special_Request_4"></span><span id="special-request-4"></span>
+<!-- #special_request_4 -->
+​
 
+<!-- #Special_Request_4 -->
+​
+
+<!-- #Special_request_4 -->
+​
+
+<!-- #special-request-4 -->
 ### Special Request 4
 
 After reading all the information you've found and sent to him, the Trader will mention a 4th bunker not related to his brother's 3 crewmates. He will tell you to find Tom Joplin's [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) in [Pleasant Valley](./Pleasant%20Valley.md).
@@ -202,8 +285,16 @@ Head there and look at the wall near the Mattress to find a semi bricked up wall
 
 Return "A Skeleton And Note" to the Trader by placing it in the Trade Drop Box, thus fulfilling his Special Request trade. Then talk to him on the radio after obtaining your reward ([Hockey Jersey](./Hockey%20Jersey.md)).
 
-<span id="special_request_5"></span><span id="Special_Request_5"></span><span id="special-request-5"></span>
+<!-- #special_request_5 -->
+​
 
+<!-- #Special_Request_5 -->
+​
+
+<!-- #Special_request_5 -->
+​
+
+<!-- #special-request-5 -->
 ### Special Request 5
 
 Sutherland finally remembers that his brother has been dead for many decades now, and requests that the player return him back to the Abandoned Prepper's Cache, then to seal it up so that he may be at rest. He mentions the failsafe made into the bunker from all the notes you have found and to bring back evidence that you properly laid Wyatt to rest. Return to the Trade Drop Box to find that a [Metal Container](./Metal%20Container.md) has been placed next to the Box, and that the "A Skeleton And Note" has been returned as "[Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md)". Take Wyatt's Skeleton from the Trade Drop Box and bring a [Wire Bundle](./Wires.md) with you for later. Make your way back to Joplin's Cache in Pleasant Valley and head into the hidden room you previously opened.
@@ -216,18 +307,30 @@ Return the Broken Hatch Wheel to the Trader by placing it in the Trade Drop Box,
 
 Sutherland mentions that he will continue to stay around to trade with you, at least for now. As a reward for helping him, most future services now include a discount when trading with Sutherland.
 
-<span id="gaining_max_trust"></span><span id="Gaining_Max_Trust"></span><span id="gaining-max-trust"></span>
+<!-- #gaining_max_trust -->
+​
 
+<!-- #Gaining_Max_Trust -->
+​
+
+<!-- #Gaining_max_trust -->
+​
+
+<!-- #gaining-max-trust -->
 ### Gaining Max Trust
 
 From this point onwards, the Tale ends but the player can continue to trade to gain max Trust with Sutherland. Gaining max Trust will unlock the [Goods and Services](./Goods%20and%20Services.md) achievement, but no new dialogue is unlocked with Sutherland.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #initial_contact -->
+​
 
-## Transcript
+<!-- #Initial_Contact -->
+​
 
-<span id="initial_contact"></span><span id="Initial_Contact"></span><span id="initial-contact"></span>
+<!-- #Initial_contact -->
+​
 
+<!-- #initial-contact -->
 ### Initial Contact
 
 _As the Survivor scours the Island for resources to survive, they come across yellow Radios with a microphone and antenna near them. They do nothing, even when powered, so the Survivor ignores them, seeing how most electronics don't work correctly anymore ever since their plane crashed. One night however, they pass by a powered Radio and hear a voice._
@@ -284,8 +387,16 @@ Trader: "There's...a place. A little island off Coastal Highway. A dock. An old 
 
 _From this point on, the option to Trade is opened up._
 
-<span id="trader_request_1"></span><span id="Trader_Request_1"></span><span id="trader-request-1"></span>
+<!-- #trader_request_1 -->
+​
 
+<!-- #Trader_Request_1 -->
+​
+
+<!-- #Trader_request_1 -->
+​
+
+<!-- #trader-request-1 -->
 ### Trader Request 1
 
 _After completing 5 trades (it does not matter what or how much is requested), two special blue Conversation topics appears._
@@ -300,8 +411,16 @@ Trader: "Find my brother. Wyatt. He hasn't checked in since it all went dark. He
 
 _The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island, looking for [Prepper Caches](./Prepper%20Cache.md) until they find the "Stockpile" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 1](./Document%20Stash%201.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Mackinaw Jacket](./Mackinaw%20Jacket.md). After a few hours, the survivor speaks to Sutherland again._
 
-<span id="trader_request_2"></span><span id="Trader_Request_2"></span><span id="trader-request-2"></span>
+<!-- #trader_request_2 -->
+​
 
+<!-- #Trader_Request_2 -->
+​
+
+<!-- #Trader_request_2 -->
+​
+
+<!-- #trader-request-2 -->
 ### Trader Request 2
 
 - Wyatt's Documents?
@@ -310,8 +429,16 @@ Trader: "You found some of my brother's old papers. He was always writing. Drawi
 
 _The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island again until they find the "Hunter" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 2](./Document%20Stash%202.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives 3 [Arrowheads](./Arrowhead.md). After a few hours, the survivor speaks to Sutherland again._
 
-<span id="trader_request_3"></span><span id="Trader_Request_3"></span><span id="trader-request-3"></span>
+<!-- #trader_request_3 -->
+​
 
+<!-- #Trader_Request_3 -->
+​
+
+<!-- #Trader_request_3 -->
+​
+
+<!-- #trader-request-3 -->
 ### Trader Request 3
 
 - Outsider?
@@ -320,8 +447,16 @@ Trader: "These papers you found...it looks like Wyatt's handwriting but... Those
 
 _The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island again until they find the "Conspiracy" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 3](./Document%20Stash%203.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives an [Improvised Knife](./Improvised%20Knife.md). After a few hours, the survivor speaks to Sutherland again._
 
-<span id="trader_request_4"></span><span id="Trader_Request_4"></span><span id="trader-request-4"></span>
+<!-- #trader_request_4 -->
+​
 
+<!-- #Trader_Request_4 -->
+​
+
+<!-- #Trader_request_4 -->
+​
+
+<!-- #trader-request-4 -->
 ### Trader Request 4
 
 - Meeting?
@@ -334,8 +469,16 @@ Trader: "There's one more bunker you can check. One of old man Joplin's in Pleas
 
 _The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor heads to [Pleasant Valley](./Pleasant%20Valley.md) and finds the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md), where they find [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Hockey Jersey](./Hockey%20Jersey.md). After a few hours, the survivor speaks to Sutherland again._
 
-<span id="trader_request_5"></span><span id="Trader_Request_5"></span><span id="trader-request-5"></span>
+<!-- #trader_request_5 -->
+​
 
+<!-- #Trader_Request_5 -->
+​
+
+<!-- #Trader_request_5 -->
+​
+
+<!-- #trader-request-5 -->
 ### Trader Request 5
 
 - End of the road?
@@ -354,14 +497,30 @@ Trader: "You're back. Well, if anything in this new world makes sense, it's leav
 
 _This completes Sutherland's Tale_
 
-<span id="basic_trader_dialogue"></span><span id="Basic_Trader_Dialogue"></span><span id="basic-trader-dialogue"></span>
+<!-- #basic_trader_dialogue -->
+​
 
+<!-- #Basic_Trader_Dialogue -->
+​
+
+<!-- #Basic_trader_dialogue -->
+​
+
+<!-- #basic-trader-dialogue -->
 ## Basic Trader Dialogue
 
 This is a list of all voice lines the Trader generally gives when interacting with him
 
-<span id="start_trade"></span><span id="Start_Trade"></span><span id="start-trade"></span>
+<!-- #start_trade -->
+​
 
+<!-- #Start_Trade -->
+​
+
+<!-- #Start_trade -->
+​
+
+<!-- #start-trade -->
 ### Start Trade
 
 - Trade
@@ -385,8 +544,16 @@ Trader:
 - "I'm up for it."
 - "Let me go over it with you..."
 
-<span id="complete_trade"></span><span id="Complete_Trade"></span><span id="complete-trade"></span>
+<!-- #complete_trade -->
+​
 
+<!-- #Complete_Trade -->
+​
+
+<!-- #Complete_trade -->
+​
+
+<!-- #complete-trade -->
 ### Complete Trade
 
 - Signal Trader to Complete Trade
@@ -407,8 +574,16 @@ Trader:
 - "Message received, I'm on my way."
 - "Roger that, I'm on it."
 
-<span id="cancel_trade"></span><span id="Cancel_Trade"></span><span id="cancel-trade"></span>
+<!-- #cancel_trade -->
+​
 
+<!-- #Cancel_Trade -->
+​
+
+<!-- #Cancel_trade -->
+​
+
+<!-- #cancel-trade -->
 ### Cancel Trade
 
 - Cancel active trade
@@ -427,8 +602,19 @@ Trader:
 - "Sure, champ...sure."
 - "Next time then."
 
-<span id="greeting_the_trader"></span><span id="Greeting_the_Trader"></span><span id="greeting-the-trader"></span>
+<!-- #greeting_the_trader -->
+​
 
+<!-- #Greeting_the_Trader -->
+​
+
+<!-- #Greeting_the_trader -->
+​
+
+<!-- #Greeting_The_Trader -->
+​
+
+<!-- #greeting-the-trader -->
 ### Greeting the Trader
 
 _When picking up the Radio after first meeting him, the Trader has these voice lines_
@@ -448,8 +634,16 @@ Trader:
 
 _If angered by being called repeatedly on the same night (calling more than 3 times), Sutherland reuses the previous voice lines but his tone changes to a negative one._
 
-<span id="end_call"></span><span id="End_Call"></span><span id="end-call"></span>
+<!-- #end_call -->
+​
 
+<!-- #End_Call -->
+​
+
+<!-- #End_call -->
+​
+
+<!-- #end-call -->
 ### End Call
 
 _Choosing this option always ends the call with the Trader_
@@ -474,8 +668,16 @@ Trader:
 
 _If angered by being called repeatedly on the same night (calling more than 3 times), Sutherland reuses the previous voice lines but his tone changes to a negative one._
 
-<span id="idle_chatter"></span><span id="Idle_Chatter"></span><span id="idle-chatter"></span>
+<!-- #idle_chatter -->
+​
 
+<!-- #Idle_Chatter -->
+​
+
+<!-- #Idle_chatter -->
+​
+
+<!-- #idle-chatter -->
 ### Idle Chatter
 
 _These lines play after the player first meets the Trader. He will voice these lines trying to get the player's attention once the Radio is powered again and he is ready to start a new trade again. He always sounds angry with low trust, even if the player has not angered him (his voice lines eventually sound more friendly the more you complete his Tale)._
@@ -496,8 +698,10 @@ Trader:
 - "Damn it, are you there?"
 - "Hello? Hello?!"
 
-<span id="conversations"></span><span id="Conversations"></span>
+<!-- #Conversations -->
+​
 
+<!-- #conversations -->
 ## Conversations
 
 _Selecting the "Conversations" option allows the player to chat with the Trader about things. These lines appear when first meeting him_
@@ -566,8 +770,16 @@ Trader: "Colder n' hell out here on the water....but I manage. Better than you, 
 
 Trader: "Nosy type, huh? I don't think I....was it before...or after? Damn it! Just let me think for a second."
 
-<span id="high_trust_conversations"></span><span id="High_Trust_Conversations"></span><span id="high-trust-conversations"></span>
+<!-- #high_trust_conversations -->
+​
 
+<!-- #High_Trust_Conversations -->
+​
+
+<!-- #High_trust_conversations -->
+​
+
+<!-- #high-trust-conversations -->
 ### High Trust Conversations
 
 _After completing Sutherland's 1st special trade request, these conversations appear_
@@ -624,8 +836,16 @@ Trader: "What do you mean? I don't follow... You mean other than me? Lookin' for
 
 Trader: "It's my brother's old sloop. Small enough to tool around the coast, but wouldn't stand a chance in the open ocean. I would know. I've been out there before, in the big ships."
 
-<span id="lost_trust_conversations"></span><span id="Lost_Trust_Conversations"></span><span id="lost-trust-conversations"></span>
+<!-- #lost_trust_conversations -->
+​
 
+<!-- #Lost_Trust_Conversations -->
+​
+
+<!-- #Lost_trust_conversations -->
+​
+
+<!-- #lost-trust-conversations -->
 ### Lost Trust Conversations
 
 _If the player angers Sutherland in any way (repeatedly calling, canceling trades), these conversations appear_
@@ -650,12 +870,10 @@ Trader: "Well, you keep blowing' me off or pinging me on this damn radio over an
 
 Trader: "Not sure what you mean? I forget things sometimes...best to leave it alone. What were we talking about?"
 
-<span id="collectibles"></span><span id="Collectibles"></span>
+<!-- #Tools -->
+​
 
-## Collectibles
-
-<span id="tools"></span><span id="Tools"></span>
-
+<!-- #tools -->
 ### Tools
 
 - ![A Skeleton And Note icon](../assets/A_Skeleton_And_Note_icon.png) [A Skeleton And Note](./A%20Skeleton%20And%20Note.md)
@@ -665,8 +883,10 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 - ![Document Stash 3 icon](../assets/Document_Stash_3_icon.png) [Document Stash 3](./Document%20Stash%203.md)
 - ![Wyatt's Skeleton icon](../assets/Wyatt%27s_Skeleton_icon.png) [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md)
 
-<span id="collectibles_1"></span><span id="collectibles-1"></span>
+<!-- #collectibles_1 -->
+​
 
+<!-- #collectibles-1 -->
 ### Collectibles
 
 - ![Sutherland's Note icon](../assets/Sutherland%27s_Note_icon.png) [Sutherland's Note](./Sutherland%27s%20Note.md)
@@ -677,8 +897,10 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 - ![Bunker Schematic Fragment 2 icon](../assets/Bunker_Schematic_Fragment_2_icon.png) [Bunker Schematic Fragment 2](./Bunker%20Schematic%20Fragment%202.md)
 - ![Bunker Schematic Fragment 3 icon](../assets/Bunker_Schematic_Fragment_3_icon.png) [Bunker Schematic Fragment 3](./Bunker%20Schematic%20Fragment%203.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Example of loose bricks that quest items can be found in.](../assets/Loose_Bricks.png)
@@ -691,8 +913,10 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 
 ![Ditto, unsealed](../assets/Prepper%27s_Abandoned_Cache_hidden_room.jpg)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

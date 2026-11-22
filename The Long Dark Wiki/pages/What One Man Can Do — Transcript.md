@@ -20,8 +20,10 @@
 
 This is the mission transcript for mission 4 [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _Mackenzie pushes himself off of a cave floor._

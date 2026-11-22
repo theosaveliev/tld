@@ -32,8 +32,19 @@
 
 This is the transcript for Chapter 2 [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<span id="find_the_railway_maintenance_yard_and_get_into_the_repair_shed."></span><span id="Find_the_Railway_Maintenance_Yard_and_get_into_the_repair_shed."></span><span id="find-the-railway-maintenance-yard-and-get-into-the-repair-shed"></span>
+<!-- #find_the_railway_maintenance_yard_and_get_into_the_repair_shed. -->
+​
 
+<!-- #Find_the_Railway_Maintenance_Yard_and_get_into_the_repair_shed. -->
+​
+
+<!-- #Find_the_railway_maintenance_yard_and_get_into_the_repair_shed. -->
+​
+
+<!-- #Find_The_Railway_Maintenance_Yard_And_Get_Into_The_Repair_Shed. -->
+​
+
+<!-- #find-the-railway-maintenance-yard-and-get-into-the-repair-shed -->
 ## Find the Railway [Maintenance Yard](./Maintenance%20Yard.md) and get into the repair shed.
 
 CHAPTER TWO
@@ -48,8 +59,22 @@ _After leaving the [Trapper's Homestead](./Trapper%27s%20Homestead.md), if the p
 
 _Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md). He walks past it, entering the [Maintenance Yard](./Maintenance%20Yard.md) and the Shed._
 
-<span id="use_the_hand_driven_milling_machine_to_repair_jeremiahs_rifle."></span><span id="Use_the_hand-driven_milling_machine_to_repair_Jeremiah&#x27;s_rifle."></span><span id="use_the_hand-driven_milling_machine_to_repair_jeremiah&#x27;s_rifle."></span><span id="use-the-hand-driven-milling-machine-to-repair-jeremiahs-rifle"></span>
+<!-- #use_the_hand_driven_milling_machine_to_repair_jeremiahs_rifle. -->
+​
 
+<!-- #Use_the_hand-driven_milling_machine_to_repair_Jeremiah's_rifle. -->
+​
+
+<!-- #use_the_hand-driven_milling_machine_to_repair_jeremiah's_rifle. -->
+​
+
+<!-- #Use_the_hand-driven_milling_machine_to_repair_jeremiah's_rifle. -->
+​
+
+<!-- #Use_The_Hand-driven_Milling_Machine_To_Repair_Jeremiah's_Rifle. -->
+​
+
+<!-- #use-the-hand-driven-milling-machine-to-repair-jeremiahs-rifle -->
 ## Use the hand-driven milling machine to repair Jeremiah's rifle.
 
 _Inside, he spots the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md) and walks to it as a cutscene plays_
@@ -76,8 +101,19 @@ Mackenzie: "This is what I'm looking for."
 
 _He picks up a pair of [Bolt Cutters](./Bolt%20Cutters.md) lying nearby and then starts repairing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md). After some time passes, Mackenzie [repairs the Rifle](./Jeremiah%27s%20Repaired%20Rifle.md) and leaves the shed, preparing to go to the Lodge mentioned in the note_
 
-<span id="look_for_more_info_about_the_forest_talkers_at_the_old_hunting_lodge."></span><span id="Look_for_more_info_about_the_Forest_Talkers_at_the_old_Hunting_Lodge."></span><span id="look-for-more-info-about-the-forest-talkers-at-the-old-hunting-lodge"></span>
+<!-- #look_for_more_info_about_the_forest_talkers_at_the_old_hunting_lodge. -->
+​
 
+<!-- #Look_for_more_info_about_the_Forest_Talkers_at_the_old_Hunting_Lodge. -->
+​
+
+<!-- #Look_for_more_info_about_the_forest_talkers_at_the_old_hunting_lodge. -->
+​
+
+<!-- #Look_For_More_Info_About_The_Forest_Talkers_At_The_Old_Hunting_Lodge. -->
+​
+
+<!-- #look-for-more-info-about-the-forest-talkers-at-the-old-hunting-lodge -->
 ## Look for more info about the Forest Talkers at the old Hunting Lodge.
 
 _As he leaves the Shed, another cutscene begins. Mackenzie grabs his head in pain and stops walking forward_
@@ -102,8 +138,19 @@ Mackenzie: "Wow...this must have been really nice, once upon a time."
 
 _He enters the Lodge_
 
-<span id="search_the_lodge_for_supplies._something_here_could_save_your_life."></span><span id="Search_the_Lodge_for_supplies._Something_here_could_save_your_life."></span><span id="search-the-lodge-for-supplies-something-here-could-save-your-life"></span>
+<!-- #search_the_lodge_for_supplies._something_here_could_save_your_life. -->
+​
 
+<!-- #Search_the_Lodge_for_supplies._Something_here_could_save_your_life. -->
+​
+
+<!-- #Search_the_lodge_for_supplies._something_here_could_save_your_life. -->
+​
+
+<!-- #Search_The_Lodge_For_Supplies._Something_Here_Could_Save_Your_Life. -->
+​
+
+<!-- #search-the-lodge-for-supplies-something-here-could-save-your-life -->
 ## Search the Lodge for supplies. Something here could save your life.
 
 Mackenzie: "Hmm...looks like this might be where those eco-terrorists were hiding out. Let's see if they left anything useful."
@@ -142,8 +189,19 @@ Rifle
 
 _Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge._
 
-<span id="get_back_to_jeremiah."></span><span id="Get_back_to_Jeremiah."></span><span id="get-back-to-jeremiah"></span>
+<!-- #get_back_to_jeremiah. -->
+​
 
+<!-- #Get_back_to_Jeremiah. -->
+​
+
+<!-- #Get_back_to_jeremiah. -->
+​
+
+<!-- #Get_Back_To_Jeremiah. -->
+​
+
+<!-- #get-back-to-jeremiah -->
 ## Get back to Jeremiah.
 
 _The walk back to Jeremiah is largely an uneventful one, but once Mackenzie enters Forlorn Muskeg and walks past the timber rail cars, he sees the Old Bear. Doing what Jeremiah said, he avoids the beast, and makes his way back to Mystery Lake and eventually the Trapper's Homestead. A cutscene begins as Mackenzie walks inside_
@@ -176,14 +234,33 @@ Mackenzie: "Hmph."
 
 _The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW TRUSTS YOU MORE NOW. (+10)" appears_
 
-<span id="jeremiahs_trust"></span><span id="Jeremiah&#x27;s_Trust"></span><span id="jeremiah&#x27;s_trust"></span><span id="jeremiahs-trust"></span>
+<!-- #jeremiahs_trust -->
+​
 
+<!-- #Jeremiah's_Trust -->
+​
+
+<!-- #jeremiah's_trust -->
+​
+
+<!-- #Jeremiah's_trust -->
+​
+
+<!-- #jeremiahs-trust -->
 ## Jeremiah's Trust
 
 _At any point in the mission or the ones after this one, the player has the option to raise Jeremiah's Trust. The following dialogue options are unlocked once sufficient Trust is earned._
 
-<span id="items_that_increase_trust"></span><span id="Items_That_Increase_Trust"></span><span id="items-that-increase-trust"></span>
+<!-- #items_that_increase_trust -->
+​
 
+<!-- #Items_That_Increase_Trust -->
+​
+
+<!-- #Items_that_increase_trust -->
+​
+
+<!-- #items-that-increase-trust -->
 #### Items That Increase Trust
 
 - +1 [Stick](./Stick.md)
@@ -193,16 +270,35 @@ _At any point in the mission or the ones after this one, the player has the opti
 - +25 [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) or [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
 - +30 [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) or [Cured Deer Hide](./Cured%20Deer%20Hide.md)
 
-<span id="things_that_lose_trust"></span><span id="Things_that_lose_Trust"></span><span id="things-that-lose-trust"></span>
+<!-- #things_that_lose_trust -->
+​
 
+<!-- #Things_that_lose_Trust -->
+​
+
+<!-- #Things_that_lose_trust -->
+​
+
+<!-- #Things_That_Lose_Trust -->
+​
+
+<!-- #things-that-lose-trust -->
 ### Things that lose Trust
 
 - -5 Searching containers (even if you don't take anything)
 - -15 Taking items
 - -25 Breaking down furniture
 
-<span id="trust_levels_and_unlocks"></span><span id="Trust_Levels_And_Unlocks"></span><span id="trust-levels-and-unlocks"></span>
+<!-- #trust_levels_and_unlocks -->
+​
 
+<!-- #Trust_Levels_And_Unlocks -->
+​
+
+<!-- #Trust_levels_and_unlocks -->
+​
+
+<!-- #trust-levels-and-unlocks -->
 #### Trust Levels And Unlocks
 
 - 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md) [What I Know](./What%20I%20Know.md) Knowledge)

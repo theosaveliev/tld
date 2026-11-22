@@ -26,8 +26,10 @@ Episode
 
 **Perseverance** is the first mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Investigate Dr Larsen's whereabouts.
@@ -38,12 +40,10 @@ Episode
   - Find clues at the Co-op [0/1].
   - Check out the Mill.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Trivia -->
+​
 
-## Walkthrough
-
-<span id="trivia"></span><span id="Trivia"></span>
-
+<!-- #trivia -->
 ## Trivia
 
 - [Jane Yang's](./Jane%20Yang.md) home is the only dwelling to have a [Mailbox](./Mailbox.md), and her Mailbox is also a unique model.

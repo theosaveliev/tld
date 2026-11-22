@@ -16,8 +16,10 @@
 
 Has no shelter **Idle Hideout** is a location in [Sundered Pass](./Sundered%20Pass.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is located directly below the destroyed bridge leading to the [Weather Station](./Weather%20Station.md), deep below the treeline in the north eastern most section of the valley. The cave entrance often has a campfire and some supplies outside (possibly a [Cooking Skillet](./Cooking%20Skillet.md)), with the cave itself leading to an indoor cave system.

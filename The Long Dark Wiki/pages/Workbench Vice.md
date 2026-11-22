@@ -22,8 +22,10 @@
 
 A **Workbench Vice** is a [Materials](./Materials.md) obtained from [Harvesting](./Harvesting.md) a wooden or metal [Work Bench](./Work%20Bench.md). It allows the player to create a new Work Bench as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature, and place it in any Safehouse.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 - [Harvesting](./Harvesting.md) a Metal [Work Bench](./Work%20Bench.md) with a [Hacksaw](./Hacksaw.md) will produce 10 Scrap Metal and 1 Workbench Vice in 4 hours.
@@ -35,14 +37,12 @@ There are currently 50 Work Benches found in the game, producing a limited amoun
 
 _For a full list of locations with a Work Bench, see :Category:Locations with a workbench._
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Workbench](./Work%20Bench.md) | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Workbench Vice](./Workbench%20Vice.md) |
-
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
-
-## Game History

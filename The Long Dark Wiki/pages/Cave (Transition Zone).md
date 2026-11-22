@@ -36,36 +36,67 @@ There are several cave systems located on [Great Bear Island](./Great%20Bear%20I
 
 Despite appearing to be unique isolated areas on the island, every cave system is considered parented to a particular region (this can be seen when opening a map inside a cave system). While this would otherwise be considered trivial information, this detail can come in handy when attempting to wait out/escape the [Toxic Fog](./Toxic%20Fog.md) while playing [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), and also affects the "days spent in" record for a region.
 
-<span id="non_cave_transition_zones"></span><span id="Non_cave_transition_zones"></span><span id="non-cave-transition-zones"></span>
+<!-- #cinder_hills_coal_mine -->
+​
 
-## Non cave transition zones
+<!-- #Cinder_Hills_Coal_Mine -->
+​
 
-<span id="cinder_hills_coal_mine"></span><span id="Cinder_Hills_Coal_Mine"></span><span id="cinder-hills-coal-mine"></span>
+<!-- #Cinder_hills_coal_mine -->
+​
 
+<!-- #cinder-hills-coal-mine -->
 ### [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)
 
 Located between the upper area of [Coastal Highway](./Coastal%20Highway.md) and a cliff overlooking [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md), this coal mine is rich in coal, containers, and sometimes tools, as well as a [Work Bench](./Work%20Bench.md) that can be found inside.
 
 This Cave system is part of Coastal Highway.
 
-<span id="abandoned_mine_no._3"></span><span id="Abandoned_Mine_No._3"></span><span id="abandoned-mine-no-3"></span>
+<!-- #abandoned_mine_no._3 -->
+​
 
+<!-- #Abandoned_Mine_No._3 -->
+​
+
+<!-- #Abandoned_mine_no._3 -->
+​
+
+<!-- #abandoned-mine-no-3 -->
 ### [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md)
 
 Located between [Desolation Point](./Desolation%20Point.md) and the [Old Island Connector](./Crumbling%20Highway.md) (Crumbling Highway), this coal mine is rich in coal, containers, and sometimes tools, as well as a work bench that can be found inside. There are several collapsed portions of the mine that must be crouched under in order to pass through.
 
 This Cave system is part of Desolation Point.
 
-<span id="carter_hydro_dam"></span><span id="Carter_Hydro_Dam"></span><span id="carter-hydro-dam"></span>
+<!-- #carter_hydro_dam -->
+​
 
+<!-- #Carter_Hydro_Dam -->
+​
+
+<!-- #Carter_hydro_dam -->
+​
+
+<!-- #carter-hydro-dam -->
 ### Carter Hydro Dam
 
 Though technically not a cave system, the Carter Hydroelectric Dam Environs is an indoor Transition Zone (see [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) for more details) that connects [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to [Winding River](./Winding%20River.md).
 
 Both the upper and lower map cells of the dam are part of the Mystery Lake region.
 
-<span id="pleasant_valley_to_winding_river"></span><span id="Pleasant_Valley_to_Winding_River"></span><span id="pleasant-valley-to-winding-river"></span>
+<!-- #pleasant_valley_to_winding_river -->
+​
 
+<!-- #Pleasant_Valley_to_Winding_River -->
+​
+
+<!-- #Pleasant_valley_to_winding_river -->
+​
+
+<!-- #Pleasant_Valley_To_Winding_River -->
+​
+
+<!-- #pleasant-valley-to-winding-river -->
 ## Pleasant Valley to Winding River
 
 This cave system is located between the northwestern area near the [Hilltop Cave](./Hilltop%20Cave.md) in [Pleasant Valley](./Pleasant%20Valley.md) and the [Winding River](./Winding%20River.md) regions.
@@ -74,8 +105,19 @@ The long and winding tunnels coupled with the low light make navigating this cav
 
 This Cave system is part of Winding River.
 
-<span id="mountain_town_to_mystery_lake"></span><span id="Mountain_Town_to_Mystery_Lake"></span><span id="mountain-town-to-mystery-lake"></span>
+<!-- #mountain_town_to_mystery_lake -->
+​
 
+<!-- #Mountain_Town_to_Mystery_Lake -->
+​
+
+<!-- #Mountain_town_to_mystery_lake -->
+​
+
+<!-- #Mountain_Town_To_Mystery_Lake -->
+​
+
+<!-- #mountain-town-to-mystery-lake -->
 ## Mountain Town to Mystery Lake
 
 The cave has a relatively linear layout. One end is found in the south of the the [Mountain Town](./Mountain%20Town.md) region, and accessed via the climbing spot at the [Picnic Area](./Picnic%20Area.md). The other is found southeast of the [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Mystery Lake.](./Mystery%20Lake%20%28region%29.md)
@@ -84,24 +126,57 @@ The cave contains no [Wildlife](./Wildlife.md), but there are several [Sticks](.
 
 This Cave system is part of Mountain Town.
 
-<span id="mountain_town_to_hushed_river_valley"></span><span id="Mountain_Town_to_Hushed_River_Valley"></span><span id="mountain-town-to-hushed-river-valley"></span>
+<!-- #mountain_town_to_hushed_river_valley -->
+​
 
+<!-- #Mountain_Town_to_Hushed_River_Valley -->
+​
+
+<!-- #Mountain_town_to_hushed_river_valley -->
+​
+
+<!-- #Mountain_Town_To_Hushed_River_Valley -->
+​
+
+<!-- #mountain-town-to-hushed-river-valley -->
 ## Mountain Town to Hushed River Valley
 
 The second transition cave in [Mountain Town](./Mountain%20Town.md) is on the northernmost part of the map, close to the [Trailer (Mountain Town Region)](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md). The cave is rather short and unremarkable, but contains a few pieces of coal and some sticks.
 
 This Cave system is part of Hushed River Valley.
 
-<span id="bleak_inlet_to_forlorn_muskeg"></span><span id="Bleak_Inlet_to_Forlorn_Muskeg"></span><span id="bleak-inlet-to-forlorn-muskeg"></span>
+<!-- #bleak_inlet_to_forlorn_muskeg -->
+​
 
+<!-- #Bleak_Inlet_to_Forlorn_Muskeg -->
+​
+
+<!-- #Bleak_inlet_to_forlorn_muskeg -->
+​
+
+<!-- #Bleak_Inlet_To_Forlorn_Muskeg -->
+​
+
+<!-- #bleak-inlet-to-forlorn-muskeg -->
 ## Bleak Inlet to Forlorn Muskeg
 
 A very dark linear but winding cave with very little notable features, this cave connects to the lower elevations of [Bleak Inlet](./Bleak%20Inlet.md) (close to [Ravine's End Waterfall](./Ravine%27s%20End%20Waterfall.md)) and to the slightly higher elevations of [Forlorn Muskeg](./Forlorn%20Muskeg.md), not far from the [Muskeg Overlook](./Muskeg%20Overlook.md). It forms a path inside that splits into 2, only to ultimately reconnect to form a loop. One part of the path forces the player to climb a small cliff using roots; a moss bed is laid out at the base of the cliff. The other path is a straight line accessible by crouching and weaving through a narrow passage.
 
 This Cave system is part of Bleak Inlet.
 
-<span id="timberwolf_mountain_to_ash_canyon"></span><span id="Timberwolf_Mountain_to_Ash_Canyon"></span><span id="timberwolf-mountain-to-ash-canyon"></span>
+<!-- #timberwolf_mountain_to_ash_canyon -->
+​
 
+<!-- #Timberwolf_Mountain_to_Ash_Canyon -->
+​
+
+<!-- #Timberwolf_mountain_to_ash_canyon -->
+​
+
+<!-- #Timberwolf_Mountain_To_Ash_Canyon -->
+​
+
+<!-- #timberwolf-mountain-to-ash-canyon -->
 ## Timberwolf Mountain to Ash Canyon
 
 The entrance to this cave system starts in [Timberwolf Mountain](./Timberwolf%20Mountain.md), specifically near the [Deer Clearing](./Deer%20Clearing.md). It is filled with the usual bits of Coal and fallen Sticks from holes in the ceiling, but contains notably also contains a chamber in the center of the cave system that spawns a corpse next to a campfire with some loot. The exit to this cave system leads to the upper plateau area of [Ash Canyon](./Ash%20Canyon.md).
@@ -110,30 +185,65 @@ The cave does NOT contain a rope climb, only two "root climbs". As such it is po
 
 This Cave system is part of Ash Canyon.
 
-<span id="timberwolf_mountain_to_blackrock"></span><span id="Timberwolf_Mountain_to_Blackrock"></span><span id="timberwolf-mountain-to-blackrock"></span>
+<!-- #timberwolf_mountain_to_blackrock -->
+​
 
+<!-- #Timberwolf_Mountain_to_Blackrock -->
+​
+
+<!-- #Timberwolf_mountain_to_blackrock -->
+​
+
+<!-- #Timberwolf_Mountain_To_Blackrock -->
+​
+
+<!-- #timberwolf-mountain-to-blackrock -->
 ## Timberwolf Mountain to Blackrock
 
 The entrance to the cave in [Timberwolf Mountain](./Timberwolf%20Mountain.md) can be found by following the frozen river uphill which is right next to [Andre's Peak](./Andre%27s%20Peak.md). A [Rose Hip](./Rose%20Hip.md) bush can be found right in front of the cave. It is a very dark cave and requires an artificial light source. It contains two small cliffs with roots that can be climbed. The lower part of the cave may also contain a ravaged wolf carcass very close to the exit towards [Blackrock.](./Blackrock.md) Caution is advised since the cave also contains pools of cold water that can wet the players clothing, though some of them cannot be seen. Whether this a bug or an intended feature is unknown.
 
 This Cave System is part of Blackrock.
 
-<span id="keepers_pass_north_to_keepers_pass_south"></span><span id="Keeper&#x27;s_Pass_North_to_Keeper&#x27;s_Pass_South"></span><span id="keeper&#x27;s_pass_north_to_keeper&#x27;s_pass_south"></span><span id="keepers-pass-north-to-keepers-pass-south"></span>
+<!-- #keepers_pass_north_to_keepers_pass_south -->
+​
 
+<!-- #Keeper's_Pass_North_to_Keeper's_Pass_South -->
+​
+
+<!-- #keeper's_pass_north_to_keeper's_pass_south -->
+​
+
+<!-- #Keeper's_pass_north_to_keeper's_pass_south -->
+​
+
+<!-- #Keeper's_Pass_North_To_Keeper's_Pass_South -->
+​
+
+<!-- #keepers-pass-north-to-keepers-pass-south -->
 ## [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 
 The entrance to the cave system is easy to get to as both Keeper's Pass regions are rather linearly structured. The inside of the cave itself contain a torch on the North side, a possible deer carcass with some arrows sticking out of it on the south side, a dead end where a [Wool Toque](./Wool%20Toque.md) may spawn and a large shining moss covered room containing a backpack with randomized loot and a [Marine Flare](./Marine%20Flare.md) which may be hard to spot due to its color, but lies near the spiky rock in the middle of the room.
 
-<span id="route"></span><span id="Route"></span>
+<!-- #Route -->
+​
 
+<!-- #route -->
 ### Route
 
 The cave is very easy to navigate, featuring only a simple loop on the north side and a couple of dead ends. When going north to south choose the second right split (the last one that isn't a dead end), you should arrive at a place where there are stalactites in the hallway, take a left and you should be in the well lit moss covered room, it should now be a straight path to the exit, in the room with the deer carcass climb a little ramp to reach it.
 
 This Cave system is part of Keeper's Pass North.
 
-<span id="far_territory_cave_system"></span><span id="Far_Territory_Cave_System"></span><span id="far-territory-cave-system"></span>
+<!-- #far_territory_cave_system -->
+​
 
+<!-- #Far_Territory_Cave_System -->
+​
+
+<!-- #Far_territory_cave_system -->
+​
+
+<!-- #far-territory-cave-system -->
 ## Far Territory Cave System
 
 This Transition Cave is by far the largest and longest cave in the game, so be prepared to bring plenty of light sources.

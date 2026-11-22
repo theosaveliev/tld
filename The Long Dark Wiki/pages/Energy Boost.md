@@ -31,22 +31,43 @@
 
 **Energy Boost** is a positive [Affliction](./Afflictions.md) gained by drinking [Go! Energy Drink](./Go!%20Energy%20Drink.md) or injecting yourself with an [Emergency Stim](./Emergency%20Stim.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Using either item will give the Energy boost benefit for several minutes. The two items have different effects.
 
-<span id="emergency_stim"></span><span id="Emergency_Stim"></span><span id="emergency-stim"></span>
+<!-- #emergency_stim -->
+​
 
+<!-- #Emergency_Stim -->
+​
+
+<!-- #Emergency_stim -->
+​
+
+<!-- #emergency-stim -->
 ### Emergency Stim
 
 - [Fatigue](./Fatigue.md) and [Stamina](./Stamina.md) are fully replenished (100%) and do not decrease for duration.
 - If the energy boost effect is applied, the character will not lose [Stamina](./Stamina.md) and will lose very little [Fatigue](./Fatigue.md), allowing him to run away from predators, for example, or [Rope Climbing](./Rope%20Climbing.md) easily.
 - Benefit lasts for 60 minutes or 75 minutes with the [Feat](./Feats.md) Straight to the Heart (time increased by 25%).
 
-<span id="go_energy_drink"></span><span id="Go!_Energy_Drink"></span><span id="go!_energy_drink"></span><span id="go-energy-drink"></span>
+<!-- #go_energy_drink -->
+​
 
+<!-- #Go!_Energy_Drink -->
+​
+
+<!-- #go!_energy_drink -->
+​
+
+<!-- #Go!_energy_drink -->
+​
+
+<!-- #go-energy-drink -->
 ### Go! Energy Drink
 
 - [Stamina](./Stamina.md) is replenished (60%).
@@ -54,8 +75,16 @@ Using either item will give the Energy boost benefit for several minutes. The tw
 - [Stamina](./Stamina.md) recovers faster due to replenished [Fatigue](./Fatigue.md).
 - Benefit lasts for 30 minutes or 37.5 minutes with the [Feat](./Feats.md) Straight to the Heart (time increased by 25%).
 
-<span id="negative_effects"></span><span id="Negative_effects"></span><span id="negative-effects"></span>
+<!-- #negative_effects -->
+​
 
+<!-- #Negative_effects -->
+​
+
+<!-- #Negative_Effects -->
+​
+
+<!-- #negative-effects -->
 ## Negative effects
 
 After either the Energy drink or the Emergency Stim is consumed and the primary effects wore off, the player will experience some negative afflictions: ![Emergency Stim icon](../assets/Emergency_Stim_icon.png)

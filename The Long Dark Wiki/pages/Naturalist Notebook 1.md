@@ -30,8 +30,10 @@
 
 The note refers to the behavior of the local [Cougars](./Cougar.md) on [Great Bear Island](./Great%20Bear%20Island.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Naturalist Notebook 1**_
@@ -42,6 +44,16 @@ They have very distinct territories on the island. This was expected, but even f
 
 I believe it's possible to live at peace with them - and my work here will show that. But I need to track their movements and note the boundaries of their hunting grounds. And somehow survive.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
+
+[ru:Дневник натуралиста 1](https://ru.wikipedia.org/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_1)

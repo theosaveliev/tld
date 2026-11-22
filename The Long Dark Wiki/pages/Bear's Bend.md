@@ -18,8 +18,16 @@ Region
 
 **Type:** Landmark
 
-<span id="landslide_and_ledge_path"></span><span id="Landslide_and_ledge_path"></span><span id="landslide-and-ledge-path"></span>
+<!-- #landslide_and_ledge_path -->
+​
 
+<!-- #Landslide_and_ledge_path -->
+​
+
+<!-- #Landslide_And_Ledge_Path -->
+​
+
+<!-- #landslide-and-ledge-path -->
 ## Landslide and ledge path
 
 The road is blocked by an enormous landslide just to the southeast of this location. There is no passage on ground level.
@@ -36,8 +44,10 @@ The beginning of the ledge path is relatively easy to find from either direction
 
 There is no shelter down at Bear's Bend, but the ledge path through the mountains above allows access to a small cave. Rabbits can be hunted in front of the cave, and a small number of various plants can be harvested in several spots along the ledge path, including [Rose Hip](./Rose%20Hip.md) and [Cat Tail](./Cat%20Tail.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Bear's Bend from a tree bridge along the ledge path, looking east, with the rock bridge visible to the left and the landslide to the right](../assets/Bear%27s_Bend.jpg)

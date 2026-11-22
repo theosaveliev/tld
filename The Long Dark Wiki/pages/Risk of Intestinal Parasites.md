@@ -53,8 +53,10 @@ It is only present when playing the following game modes:
 - It is only active in [Wintermute](./Wintermute.md) if playing on the Hardened Survivor difficulty.
 - The Affliction is also present in the [Challenge](./Challenge.md) [As The Dead Sleep](./As%20the%20Dead%20Sleep.md).
 
-<span id="risk"></span><span id="Risk"></span>
+<!-- #Risk -->
+​
 
+<!-- #risk -->
 ## Risk
 
 > “**Game meat from carnivorous animals may be infected with parasites.**”
@@ -70,8 +72,19 @@ Only the following pieces of meat, cooked or raw, contribute to Risk of Intestin
 - ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)/![Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)
 - ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)<span id="fnref1"></span>[¹](#fn1)
 
-<span id="risk_of_intestinal_parasites_mechanics"></span><span id="Risk_of_Intestinal_Parasites_Mechanics"></span><span id="risk-of-intestinal-parasites-mechanics"></span>
+<!-- #risk_of_intestinal_parasites_mechanics -->
+​
 
+<!-- #Risk_of_Intestinal_Parasites_Mechanics -->
+​
+
+<!-- #Risk_of_intestinal_parasites_mechanics -->
+​
+
+<!-- #Risk_Of_Intestinal_Parasites_Mechanics -->
+​
+
+<!-- #risk-of-intestinal-parasites-mechanics -->
 ## Risk of Intestinal Parasites Mechanics
 
 The mechanics Risk of Intestinal Parasites are different than other Afflictions risks:
@@ -82,16 +95,29 @@ The mechanics Risk of Intestinal Parasites are different than other Afflictions 
 - After one full in-game day (24hrs) from eating the first piece of infected meat, the game rolls to see if you get the full affliction. The chance of being Afflicted occurs based how full your Intestinal Parasites Risk meter is. (i.e. 4% risk on the meter = 4% chance of getting Parasites after 24hrs). If you do not get Intestinal Parasites, the risk is cleared until more meat is eaten.
 - If a survivor continues to eat infected meat, they will inevitably develop [Intestinal Parasites](./Intestinal%20Parasites.md), as the game will hard roll the Affliction after 6-9 Risk of Intestinal Parasites pass, even if the risk percentage is always at 1%.
 
-<span id="strategy"></span><span id="Strategy"></span>
+<!-- #Strategy -->
+​
 
+<!-- #strategy -->
 ## Strategy
 
 Since Risk of Intestinal Parasites is only present before Level 5 [Cooking](./Cooking.md) [Skill](./Skills.md), it is most beneficial to **eat entire single servings rather than lots of small servings** before the Risk appears. Reaching Cooking Level 5 will remove any future Risk of Intestinal Parasites upon eating predator meat (Reaching Level 5 in Cooking **does** **not** remove preexisting risk of developing parasites, a parasite affliction contracted previously, or parasite risk from eating raw predator meat).
 
 Using a [Meat Curing Box](./Meat%20Curing%20Box.md) to convert raw predator meat into [Cured Meat](./Cured%20Meat.md) will remove the Risk of Intestinal Parasites from the food, but this requires large amounts of [Salt](./Salt.md) and [Woodworking Tools](./Woodworking%20Tools.md).
 
-<span id="misery_and_sour_stomach"></span><span id="Misery_and_Sour_Stomach"></span><span id="misery-and-sour-stomach"></span>
+<!-- #misery_and_sour_stomach -->
+​
 
+<!-- #Misery_and_Sour_Stomach -->
+​
+
+<!-- #Misery_and_sour_stomach -->
+​
+
+<!-- #Misery_And_Sour_Stomach -->
+​
+
+<!-- #misery-and-sour-stomach -->
 ## Misery and Sour Stomach
 
 When playing on [Misery](./Misery.md), the [Sour Stomach](./Sour%20Stomach.md) Affliction removes the immunity from Intestinal Parasites that Level 5 [Cooking](./Cooking.md) provides, so predator meat will become a threat again after a certain amount of in-game days pass.
@@ -100,22 +126,34 @@ When playing on [Misery](./Misery.md), the [Sour Stomach](./Sour%20Stomach.md) A
 - The rate at which the Risk of Intestinal Parasites meter is filled after consuming predator meat also changes with Sour Stomach; by an increased factor of 1.5:
   - One piece now gives gives 1% meter risk, two pieces 6%, three pieces 13%, and so on.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Despite all the types of fish caught from [Ice Fishing](./Ice%20Fishing.md) being predatory, none grant Intestinal Parasites Risk when eaten (raw or cooked).
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 \* UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
 
 - Added to game in Tireless Menace Update.
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

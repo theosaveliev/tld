@@ -20,8 +20,10 @@
 
 <br>An **Oil Tank** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in Railyards on [Cauldron Island](./Cauldron%20Island.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 An **Oil Tank** initially contains 5,000 liters of [Whale Oil](./Whale%20Oil%20Can.md), and is accompanied by two yellow signs labelled "FUEL". When the Survivor pulls up close to the tower, a small sign under the signpost will flip a black panel to green a green one, letting them know that the [train](./Prototype%20Train.md) is in position to be filled (fuel and water caps must be in the middle of the signs to trigger this). Unlike the [Water Tower](./Water%20Tower.md), a vertical gauge is present on the Oil Tank to show its current storage status.
@@ -42,8 +44,10 @@ Whale Oil can also be transferred into the Survivor's backpack, 5.00 liters at a
 - Oil Tanks refuel over time, so that the player will never run out of fuel for the train.
   - Unlike the [Water Tower](./Water%20Tower.md), the Oil Tank will not immediately refill as it is emptied, but will gradually replenish over time if you leave the region and return later.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ### Locations
 
 Oil Tanks can be found at:

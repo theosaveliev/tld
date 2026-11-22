@@ -16,8 +16,10 @@
 
 Has an interior<br>**Doubter's Retreat** is a location in [Perseverance Wilds](./Perseverance%20Wilds.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Located to the southwestern most section of the map, it is a lone cabin located near the sea. A [Timberwolf](./Timberwolf.md) pack is often found near the area.
@@ -26,8 +28,10 @@ The cabin consists of 1 room, with cabinets and a bed, and several animal themed
 
 A unique [Fishing Hut](./Fishing%20Hut.md) can be found on the ice, this one designed to be on land all year round.
 
-<span id="wintermute"></span><span id="Wintermute"></span>
+<!-- #Wintermute -->
+​
 
+<!-- #wintermute -->
 ## Wintermute
 
 [Astrid](./Astrid%20Greenwood.md) heads to this Cabin in search of one of the three missing persons from [Perseverance Mills](./Perseverance%20Mills.md).

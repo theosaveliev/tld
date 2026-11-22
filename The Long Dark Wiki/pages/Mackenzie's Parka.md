@@ -41,8 +41,6 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 > “**The coat you were wearing when you crashed in your plane.**”
 >
 > — Post Crash In-game description
@@ -51,8 +49,13 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 The statistics of Mackenzie's Parka are identical to those of a [Simple Parka](./Simple%20Parka.md).
 
-<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+<!-- #episode_1 -->
+​
 
+<!-- #Episode_1 -->
+​
+
+<!-- #episode-1 -->
 ## Episode 1
 
 Mackenzie's Parka can be found on a table in the [Jackrabbit Hangar](./Jackrabbit%20Hangar.md) during [Memories](./Memories.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), but cannot be worn. Picking it up near the end of the mission ends the playable section of the Hangar.
@@ -61,14 +64,24 @@ After resting in the cave for the night during the mission [The Crash](./The%20C
 
 It can be carried into Episode 2 if the player holds onto it by the end of Episode 1.
 
-<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+<!-- #episode_2 -->
+​
 
+<!-- #Episode_2 -->
+​
+
+<!-- #episode-2 -->
 ## Episode 2
 
 If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) out of order, Mackenzie starts the Episode wearing his Parka.
 
-<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+<!-- #episode_4 -->
+​
 
+<!-- #Episode_4 -->
+​
+
+<!-- #episode-4 -->
 ## Episode 4
 
 Mackenzie's Parka is missing when playing [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), being discarded by [Mathis](./Mathis.md) (along with [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)) after Mackenzie is stripped of his gear and transported.
@@ -77,8 +90,16 @@ Mackenzie's Parka is missing when playing [Episode 4: Fury, Then Silence](./Epis
 
 ![Model icon damaged](../assets/Mackenzie%27s_Parka_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

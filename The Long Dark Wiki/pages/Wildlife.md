@@ -28,12 +28,10 @@
 
 In _The Long Dark_, interaction with wildlife is a central part of survival. A wide variety of plants and animals exist on [Great Bear Island](./Great%20Bear%20Island.md), including terrestrial, aquatic, and avian animals, as well as conifers, beech, and fungal species of plants and fungi. Many of the animals' behaviors are unusual or unnatural--possibly due to the [First Flare](./First%20Flare.md) and subsequent [Aurora](./Aurora.md).
 
-<span id="animal_species"></span><span id="Animal_Species"></span><span id="animal-species"></span>
+<!-- #Prey -->
+​
 
-## Animal Species
-
-<span id="prey"></span><span id="Prey"></span>
-
+<!-- #prey -->
 ### Prey
 
 Prey include [Deer](./Deer.md), [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), and [Moose](./Moose.md):
@@ -55,8 +53,10 @@ Prey include [Deer](./Deer.md), [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.
 
 Deer, Ptarmigan, and Rabbits are easily frightened by the player or a predator. Moose however are highly aggressive and territorial, issuing warnings before attacking intruders.
 
-<span id="predators"></span><span id="Predators"></span>
+<!-- #Predators -->
+​
 
+<!-- #predators -->
 ### Predators
 
 Predators include [Wolves](./Wolf.md), [Poisoned Wolves](./Poisoned%20Wolf.md), [Timberwolves](./Timberwolf.md), [Cougars](./Cougar.md), and [Bears](./Bear.md):
@@ -81,8 +81,16 @@ All predators will stalk or attack a nearby player, potentially resulting in a [
 
 All animals can be [Hunted](./Hunting.md) to obtain meat (except for Poisoned Wolves), hides, and Guts, which can be cured for use in crafting. Animals will eventually respawn after being killed. However, the respawn rate can be delayed temporarily if the player aggressively hunts down animals in a certain area. [Trapping](./Trapping.md), on the other hand, does not seem to diminish the number of live rabbits in an area.
 
-<span id="aurora_predators"></span><span id="Aurora_Predators"></span><span id="aurora-predators"></span>
+<!-- #aurora_predators -->
+​
 
+<!-- #Aurora_Predators -->
+​
+
+<!-- #Aurora_predators -->
+​
+
+<!-- #aurora-predators -->
 ### Aurora Predators
 
 During an Aurora at night all prey animals will disappear and all predators will be replaced with their aurora counterpart (e.g. wolves are replaced by aurora wolves). Aurora predators are visually distinct (pale green glow on their fur, glowing eyes), act more chaotically (e.g. wolves bark often and run around randomly), are more aggressive (wider detection radius), deadlier (do more damage in [Struggles](./Struggle.md)), take more damage to kill, and are immune to being frightened by [Fire](./Fire.md). Powered streetlamps, vehicle headlights, and the [Flashlight](./Flashlight.md) or [Miner's Flashlight](./Miner%27s%20Flashlight.md) may be used to scare aurora predators, as well as lit [Flares](./Flare.md), [Marine Flares](./Marine%20Flare.md), and firing the [Distress Pistol](./Distress%20Pistol.md).
@@ -97,16 +105,26 @@ During an Aurora at night all prey animals will disappear and all predators will
 
 ![Aurora Cougar](../assets/Aurora_Cougar.jpg)
 
-<span id="scavenger_birds"></span><span id="Scavenger_Birds"></span><span id="scavenger-birds"></span>
+<!-- #scavenger_birds -->
+​
 
+<!-- #Scavenger_Birds -->
+​
+
+<!-- #Scavenger_birds -->
+​
+
+<!-- #scavenger-birds -->
 ### Scavenger Birds
 
 [Crows](./Crow.md) will circle over [Frozen Corpses](./Frozen%20Corpse.md) and are used to draw attention to certain locations, while dropping [Crow Feathers](./Crow%20Feather.md) around corpses. When the player is near a Bear, crows can be heard aggressively calling with a distinctive "bear call." Crows cannot be harmed.
 
 ![Crow model](../assets/Crow.png)
 
-<span id="fish"></span><span id="Fish"></span>
+<!-- #Fish -->
+​
 
+<!-- #fish -->
 ### Fish
 
 Fish inhabit the waters of numerous regions and may encountered by [Ice Fishing](./Ice%20Fishing.md) (either inside of fishing huts or by Free-Form ice holes). Species include [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md), [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md), [Rockfish](./Rockfish%20%28Raw%29.md), and [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) in coastal saltwater, while inland freshwater hosts [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md), [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md), [Goldeye](./Goldeye%20%28Raw%29.md), and [Burbot](./Burbot%20%28Raw%29.md).
@@ -127,8 +145,16 @@ Fish inhabit the waters of numerous regions and may encountered by [Ice Fishing]
 
 ![Burbot](../assets/Burbot_%28Raw%29_icon.png)
 
-<span id="special_animals"></span><span id="Special_Animals"></span><span id="special-animals"></span>
+<!-- #special_animals -->
+​
 
+<!-- #Special_Animals -->
+​
+
+<!-- #Special_animals -->
+​
+
+<!-- #special-animals -->
 ### Special Animals
 
 A few animals unique to Wintermute can be found in various Episodes. These include the [Big Bass](./Big%20Bass%20%28Raw%29.md), an incredibly large fish, the [Ghost Stag](./Ghost%20Stag.md), an albino Deer, and the [Old Bear](./Old%20Bear.md), an unusually tough and aggressive Bear. The Old Bear is the only unique animal found within Survival Mode, specifically in the "The Hunted" series of [Challenges](./Challenge.md).
@@ -139,8 +165,16 @@ A few animals unique to Wintermute can be found in various Episodes. These inclu
 
 ![Big Bass](../assets/Big_Bass_%28Raw%29_icon.png)
 
-<span id="other_animals"></span><span id="Other_Animals"></span><span id="other-animals"></span>
+<!-- #other_animals -->
+​
 
+<!-- #Other_Animals -->
+​
+
+<!-- #Other_animals -->
+​
+
+<!-- #other-animals -->
 ### Other Animals
 
 Other species of animals can be inferred to be in the game world, but are not seen in gameplay:
@@ -209,16 +243,32 @@ _Dogs and [Dog Food](./Dog%20Food.md)_
 
 ![Doghouse](../assets/Doghouse.jpg)
 
-<span id="the_darkwalker"></span><span id="The_Darkwalker"></span><span id="the-darkwalker"></span>
+<!-- #the_darkwalker -->
+​
 
+<!-- #The_Darkwalker -->
+​
+
+<!-- #The_darkwalker -->
+​
+
+<!-- #the-darkwalker -->
 ### The Darkwalker
 
 While not considered wildlife (being treated more as a kind of sapient, eldritch creature that simply hunts the player), the Darkwalker is an "animal" with pathfinding A.I. that appears during the challenge [Escape the Darkwalker](./Escape%20the%20Darkwalker.md). It does not have a physical model, only producing footsteps in the snow and roaring as it grows closer, following the player with the sole purpose of killing them. It cannot be killed or harmed by normal means, only avoided or banished by completing the challenge.
 
 ![The Darkwalker](../assets/Darkwalker-Blog-Featured-Img.png)
 
-<span id="animal_spawning"></span><span id="Animal_Spawning"></span><span id="animal-spawning"></span>
+<!-- #animal_spawning -->
+​
 
+<!-- #Animal_Spawning -->
+​
+
+<!-- #Animal_spawning -->
+​
+
+<!-- #animal-spawning -->
 ## Animal Spawning
 
 With the exception of fish and Crows, when the player first starts up a world, animals will spawn in at the same time the player does. These animals will wander around the region for however long the player stays outside. Some Survival Modes and Challenges offer a "grace period" before predators can spawn at the very start of a sandbox. On Interloper mode, all fish and prey animals will become rarer over time (to a limit).
@@ -229,14 +279,27 @@ When an animal is killed, it will be removed from the respawn list for a few day
 
 All animals will remain outdoors during a blizzard, but despawn when a player goes indoors.
 
-<span id="plant_and_fungal_species"></span><span id="Plant_and_Fungal_Species"></span><span id="plant-and-fungal-species"></span>
+<!-- #plant_and_fungal_species -->
+​
 
+<!-- #Plant_and_Fungal_Species -->
+​
+
+<!-- #Plant_and_fungal_species -->
+​
+
+<!-- #Plant_And_Fungal_Species -->
+​
+
+<!-- #plant-and-fungal-species -->
 ## Plant and Fungal Species
 
 While containing no AI, interactions with plants and fungi are an equally important aspect of surviving on Great Bear Island. Many Afflictions created by predator animals can only be cured by harvesting and cooking certain species of plants and fungi, while others can be prepared and eaten in meals. Some plants can be harvested and cured to craft weapons and tools for survival, and many species of trees also drop branches that can be used as fuel for fires.
 
-<span id="plants"></span><span id="Plants"></span>
+<!-- #Plants -->
+​
 
+<!-- #plants -->
 ### Plants
 
 - [Burdock](./Burdock.md) can be dug out of the ground for [Burdock Root](./Burdock%20Root.md), and these roots can be [prepared](./Prepared%20Burdock.md).
@@ -268,8 +331,10 @@ _Cat Tail_
 
 ![Fully grown Birch trees](../assets/BearFlare.png)
 
-<span id="fungi"></span><span id="Fungi"></span>
+<!-- #Fungi -->
+​
 
+<!-- #fungi -->
 ### Fungi
 
 - [Reishi Mushroom](./Reishi%20Mushroom.md) are found around rotting tree stumps, and can be prepared to create [Reishi Tea](./Reishi%20Tea.md) or be used in Recipes.
@@ -279,8 +344,16 @@ _Cat Tail_
 
 ![Old Man's Beard Lichen](../assets/Old_Man%27s_Beard_Lichen_on_trees.jpg)
 
-<span id="other_flora"></span><span id="Other_Flora"></span><span id="other-flora"></span>
+<!-- #other_flora -->
+​
 
+<!-- #Other_Flora -->
+​
+
+<!-- #Other_flora -->
+​
+
+<!-- #other-flora -->
 ### Other Flora
 
 Other examples of Flora include Bioluminescent Moss in [Ice Caves](./Ice%20Cave.md) and various grasses occasionally found on the Island. Certain packaged foods show images of plants not found in game.
@@ -305,8 +378,10 @@ _Acorns and leaves on a [Granola Bar](./Granola%20Bar.md)_
 
 _Peanuts on [Peanut Butter](./Peanut%20Butter.md)_
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 !["Demon Wolves" in the 4 Days of Night Event](../assets/Demon_wolf_pounce.jpg)
@@ -319,8 +394,10 @@ _"Demon Wolves" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.m
 
 ![Bear Footprints](../assets/Bear%27s_footprints.png)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Animals never appear indoors across the Island except for 5 special animals, many of whom are given unofficial names by The Long Dark community:
@@ -333,3 +410,5 @@ _"Demon Wolves" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.m
 - Animals can't enter locations only accessible by crouching. Animals also cannot enter buildings with outside interiors, even when the doorways are open.
 - Animals will never jump down embankments, even from heights that would not damage the player.
 - During [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), the [Toxic Fog](./Toxic%20Fog.md) will immediately kill all prey and predator type animals when it descends. Crows and plants will not be affected.
+
+[es:Fauna local](https://es.wikipedia.org/wiki/Fauna_local) [fr:Animaux](https://fr.wikipedia.org/wiki/Animaux)

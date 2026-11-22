@@ -70,8 +70,10 @@ _For the cooked version, see [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md)._
 
 Rockfish can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 3 units per kilogram harvested.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -80,8 +82,16 @@ Rockfish can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yieldin
 | [Mounted Rockfish](./Mounted%20Rockfish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
 | [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) | None | - 1.00 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

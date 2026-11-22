@@ -35,16 +35,16 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 > “**Search the Langston mine for remnants of Rüdiger and his project.**”
 
 **Buried Echoes** is the second [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md).
 
 As of V 2.27, Buried Echoes can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md) has been completed on the current or another playthrough and its associated Badge is acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order.![Buried Echoes Icon](../assets/Buried_Echoes_Icon.png)
 
-<span id="preface"></span><span id="Preface"></span>
+<!-- #Preface -->
+​
 
+<!-- #preface -->
 ## Preface
 
 <span id="stub"></span> _SPOILER WARNING_  
@@ -54,8 +54,10 @@ Continuing the events of the last Tale, the survivor decides to follow clues lef
 
 Entering the Zone of Contamination will begin Buried Echoes.
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Use the Handheld Shortwave to locate any signs of life.
@@ -77,16 +79,35 @@ Entering the Zone of Contamination will begin Buried Echoes.
 - Return to the surface.
   - Lay the Security Chief's Bones to rest near the waterfall from her logbook Polaroid.
 
-<span id="search_for_signs_of_life"></span><span id="Search_for_signs_of_life"></span><span id="search-for-signs-of-life"></span>
+<!-- #search_for_signs_of_life -->
+​
 
+<!-- #Search_for_signs_of_life -->
+​
+
+<!-- #Search_For_Signs_Of_Life -->
+​
+
+<!-- #search-for-signs-of-life -->
 ## Search for signs of life
 
 Entering the Zone will prompt you with an objective to find any sign of life in the region. A signal can be located near the [Boss's Settlement](./Boss%27s%20Settlement.md) when the Handheld Radio becomes active, at the corner of a ruined cabin. Uncovering it produces a lockbox containing some simple supplies and a [A Page From A Journal](./A%20Page%20From%20A%20Journal.md) written on 18-June-91. The Author of said note writes of the strange events surrounding the region: toxic chemicals, sick wolves, and inaccessible areas in the mine, as well as a [Helicopter](./Helicopter.md) that crashed in the mountains near the water pumps.
 
 Head to the [Old Corral](./Old%20Corral.md) near [Unquenched Extraction](./Unquenched%20Extraction.md). When the Handheld Radio is powered, head east into the hills to find the crashed helicopter to uncover a lockbox buried under the tail section. Claim the [Foreman's Key](./Foreman%27s%20Key.md) inside and the [Security Chief's Log 31](./Security%20Chief%27s%20Log%2031.md) that was also uncovered in the nearby snow.
 
-<span id="search_the_mine"></span><span id="Search_the_Mine"></span><span id="search-the-mine"></span>
+<!-- #search_the_mine -->
+​
 
+<!-- #Search_the_Mine -->
+​
+
+<!-- #Search_the_mine -->
+​
+
+<!-- #Search_The_Mine -->
+​
+
+<!-- #search-the-mine -->
 ## Search the Mine
 
 After grabbing both items, head to the [Headframe Building](./Headframe%20Building.md) to open a locked door in order to obtain [Foreman's Site Report Day 45](./Foreman%27s%20Site%20Report%20Day%2045.md) and some [Bolt Cutters](./Bolt%20Cutters.md).
@@ -95,8 +116,19 @@ Return to the surface and head to the [Concentrator](./Concentrator.md). From he
 
 Heading below to the lowest level of the elevator shaft and entering the door will put you in a room either a building to the right that can be unlocked with the Foreman's key for [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md). Collect it and head left from the mineshaft elevator door and continue onwards until you find a large airshaft cavern with a catwalk going around it. A nearby locked gate can be opened with the Bolt Cutters and a Corpse can be looted for the [Mine Gate Key](./Mine%20Gate%20Key.md).
 
-<span id="search_the_mountain_mine_for_any_signs_of_rüdiger"></span><span id="Search_the_Mountain_Mine_for_any_signs_of_Rüdiger"></span><span id="search-the-mountain-mine-for-any-signs-of-rüdiger"></span>
+<!-- #search_the_mountain_mine_for_any_signs_of_rüdiger -->
+​
 
+<!-- #Search_the_Mountain_Mine_for_any_signs_of_Rüdiger -->
+​
+
+<!-- #Search_the_mountain_mine_for_any_signs_of_rüdiger -->
+​
+
+<!-- #Search_The_Mountain_Mine_For_Any_Signs_Of_Rüdiger -->
+​
+
+<!-- #search-the-mountain-mine-for-any-signs-of-rüdiger -->
 ## Search the Mountain Mine for any signs of Rüdiger
 
 Head back up to the mountain mine entrance and unlock the gate. [Security Chief's Log 32](./Security%20Chief%27s%20Log%2032.md) can be found in the gated area to the right upon entering. Head down the minecart railroad until you find a Supply Bin with [Foreman's Site Report Day 38](./Foreman%27s%20Site%20Report%20Day%2038.md) on it. Continue down even further until you find a room with a several crates and yet another [Security Chief's Log 33](./Security%20Chief%27s%20Log%2033.md). Head down the tunnel made of concrete to find the machine that was built inside the mine, and approach the console. The player will pass out from touching it and will reawaken to find that an Aurora/Glimmer Fog event has activated the machine. After this, head into the nearby control room to find [My Testament](./My%20Testament.md), [Security Chief's Log (illegible)](./Security%20Chief%27s%20Log%20%28illegible%29.md), [Foreman's Site Report Day (illegible)](./Foreman%27s%20Site%20Report%20Day%20%28illegible%29.md), and [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md).
@@ -105,18 +137,18 @@ A [Faded Photograph](./Faded%20Photograph.md) is added to the player's inventory
 
 The Tales from the Far Territory is to be concluded in the third and final Tale [Last Horizon](./Last%20Horizon.md)...
 
-<span id="collectibles"></span><span id="Collectibles"></span>
+<!-- #Clothing -->
+​
 
-## Collectibles
-
-<span id="clothing"></span><span id="Clothing"></span>
-
+<!-- #clothing -->
 ### Clothing
 
 - [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md)
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ### Notes
 
 - [A Page From A Journal](./A%20Page%20From%20A%20Journal.md)
@@ -135,14 +167,18 @@ The Tales from the Far Territory is to be concluded in the third and final Tale 
 - [My Testament](./My%20Testament.md)
 - [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Foreman's Tool Belt at the end of the episode](../assets/Foreman%27s_Tool_Belt_Location.jpg)
 
-<span id="notes_1"></span><span id="notes-1"></span>
+<!-- #notes_1 -->
+​
 
+<!-- #notes-1 -->
 ## Notes
 
 Completing Buried Echoes unlocks a [Badge](./Badges.md) of the same name.

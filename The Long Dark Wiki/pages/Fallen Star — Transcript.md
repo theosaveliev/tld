@@ -28,8 +28,10 @@
 
 This is the mission transcript for mission 2 [Fallen Star](./Fallen%20Star.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 CHAPTER TWO
@@ -113,8 +115,16 @@ Astrid: "I mean no disrespect, Father, but do you really believe this will help?
 
 Father Thomas: "Perhaps in the end, faith is all we have."
 
-<span id="locate_the_downed_airliner."></span><span id="Locate_the_downed_airliner."></span><span id="locate-the-downed-airliner"></span>
+<!-- #locate_the_downed_airliner. -->
+​
 
+<!-- #Locate_the_downed_airliner. -->
+​
+
+<!-- #Locate_The_Downed_Airliner. -->
+​
+
+<!-- #locate-the-downed-airliner -->
 ## Locate the downed airliner.
 
 _Just as Astrid is about to leave the Community Hall, a phone rings at the entrance. Astrid picks it up._
@@ -172,8 +182,22 @@ _The quake subsides after a few moments, and Astrid carries on. She eventually s
 
 Astrid: "Hard to believe anyone survived this. Now to find that insulin."
 
-<span id="find_the_passenger_ids._010_find_insulin_for_dimitri."></span><span id="Find_the_passenger_IDs._[0/10]_Find_Insulin_for_Dimitri."></span><span id="find_the_passenger_ids._[0/10]_find_insulin_for_dimitri."></span><span id="find-the-passenger-ids-010-find-insulin-for-dimitri"></span>
+<!-- #find_the_passenger_ids._010_find_insulin_for_dimitri. -->
+​
 
+<!-- #Find_the_passenger_IDs._[0/10]_Find_Insulin_for_Dimitri. -->
+​
+
+<!-- #find_the_passenger_ids._[0/10]_find_insulin_for_dimitri. -->
+​
+
+<!-- #Find_the_passenger_ids._[0/10]_find_insulin_for_dimitri. -->
+​
+
+<!-- #Find_The_Passenger_Ids._[0/10]_Find_Insulin_For_Dimitri. -->
+​
+
+<!-- #find-the-passenger-ids-010-find-insulin-for-dimitri -->
 ## Find the passenger IDs. [0/10] Find Insulin for Dimitri.
 
 _Astrid begins searching for IDs on the first of the bodies, the skin frozen purple by now._
@@ -268,8 +292,19 @@ _The phone call and flashback ends, and the scene returns to the present with As
 
 Astrid: "I'm sorry...I'm so sorry. I know you're in pain...and you just want it all to end. But I won't let you die out here."
 
-<span id="bring_gwen_to_the_community_hall."></span><span id="Bring_Gwen_to_the_Community_Hall."></span><span id="bring-gwen-to-the-community-hall"></span>
+<!-- #bring_gwen_to_the_community_hall. -->
+​
 
+<!-- #Bring_Gwen_to_the_Community_Hall. -->
+​
+
+<!-- #Bring_gwen_to_the_community_hall. -->
+​
+
+<!-- #Bring_Gwen_To_The_Community_Hall. -->
+​
+
+<!-- #bring-gwen-to-the-community-hall -->
 ## Bring Gwen to the Community Hall.
 
 _Having found the Insulin and all the IDs, Astrid treats Gwen's [Blood Loss](./Blood%20Loss.md) and picks her up. Gwen and Astrid may say many lines regarding their situation, which can be found here: [Survivor Monologue](./Survivor%20Monologue.md)_
@@ -342,8 +377,19 @@ _These survivors have a response afterwards._
 - Nolan: "Please find them..."
 - Eric: "Find them...please."
 
-<span id="talk_to_father_thomas."></span><span id="Talk_to_Father_Thomas."></span><span id="talk-to-father-thomas"></span>
+<!-- #talk_to_father_thomas. -->
+​
 
+<!-- #Talk_to_Father_Thomas. -->
+​
+
+<!-- #Talk_to_father_thomas. -->
+​
+
+<!-- #Talk_To_Father_Thomas. -->
+​
+
+<!-- #talk-to-father-thomas -->
 ## Talk to Father Thomas.
 
 Father Thomas: "You made it. I prayed that you would."

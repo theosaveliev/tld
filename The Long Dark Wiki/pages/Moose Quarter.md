@@ -22,8 +22,10 @@
 
 **Outside:** 10.0% per day
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Moose Quarter**s are sections harvested from a [Moose](./Moose.md), after using the _quarter action_.
@@ -34,8 +36,16 @@ A moose will always have 6-9 of these.
 
 Each moose quarter will always have useable meat equal to 50% of the total weight of the quarter, meaning you are carrying more weight than the amount of meat that you will receive. This tradeoff can be useful if signs of an onsetting blizzard are apparent, and it will become unsafe to harvest where the moose is located. Any remaining raw meat left inside the bag will be lost if the Quarter's Condition reaches 0%, with bags spoiling within 1 day of harvesting.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**

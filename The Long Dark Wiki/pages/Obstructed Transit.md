@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Obstructed Transit**
 
 \[\[File:
@@ -44,8 +42,10 @@ Firebox
 
 Has no shelter **Obstructed Transit** is a location in [Port Remnant](./Port%20Remnant.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 This location is a train station with a chain link fence completely surrounding the location. Several holes can be found in the fences, but cannot be crouched under to enter the terminal. As a result, access to the location will be locked when first arriving in Port Remnant.

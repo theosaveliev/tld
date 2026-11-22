@@ -20,16 +20,20 @@
 
 Has an interior **Rüdiger's Machine** is the unofficial name given to a location found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The location can only be accessed by completing the [Buried Echoes](./Buried%20Echoes.md) Tale.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A mountainside entrance near the 6th floor of the [Concentrator](./Concentrator.md) is initially locked when playing in Survival Mode, but can be opened as part of Buried Echoes. The [Mine Gate Key](./Mine%20Gate%20Key.md) to the mountain entrance can be found deeper in Level 3 after progressing through the Tale, and then passing through the mountain. When reaching the room with the device, the survivor will attempt to touch it but pass out, only to reawaken to find it powered at midnight during an [Aurora](./Aurora.md).
 
 A nearby control room contains several collectibles for the Tale, as well as the [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md). The Machine does not have any amenities inside, such as Beds, Work Benches, or Fireplaces.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The Machine is what caused the mental deterioration of [The Foreman](./The%20Foreman.md), the mine workers, [The Security Chief](./The%20Security%20Chief.md), and [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md), among others.
@@ -41,8 +45,10 @@ A nearby control room contains several collectibles for the Tale, as well as the
 
 ![The Security Chief's Remains in the control room.](../assets/The_Security_Chief.jpg)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

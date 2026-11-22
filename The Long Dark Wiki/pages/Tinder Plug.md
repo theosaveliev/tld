@@ -33,8 +33,10 @@
 
 A **Tinder Plug** is a material item used as Tinder.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Tinder plugs fill the role of tinder, which is used for [Fire Starting](./Fire%20Starting.md). Tinder plugs are the lightest tinder, tied with the [Cat Tail Head](./Cat%20Tail%20Head.md), [Birch Bark](./Birch%20Bark.md), and [Cash](./Cash.md), and weighs only 0.05 kg per unit. Like all other types of tinder, it does not increase the chance to successfully light a fire.
@@ -43,8 +45,19 @@ Tinder or Tinder plugs are required until Fire Starting Level 3, at which point 
 
 Tinder plugs can be found inside containers, crafted from most forms of tinder, or harvested from a [Cardboard Box](./Cardboard%20Box.md). At least one is also given along with firewood when chopping a fir or cedar limb with a [Hatchet](./Hatchet.md) or [Hacksaw.](./Hacksaw.md)
 
-<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+<!-- #fire_starting_info -->
+​
 
+<!-- #Fire_Starting_info -->
+​
+
+<!-- #Fire_starting_info -->
+​
+
+<!-- #Fire_Starting_Info -->
+​
+
+<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Tinder Plug**
@@ -55,19 +68,21 @@ Tinder plugs can be found inside containers, crafted from most forms of tinder, 
 
 **Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 Tinder plugs can be crafted or harvested from some fire starting items, such as [Newsprint](./Newsprint.md), [Newsprint Roll](./Newsprint%20Roll.md), and [Sticks](./Stick.md). Harvesting these items provides additional tinder at the same weight, conserving inventory space. The most efficient example is the Newsprint Roll, which yields 4 tinder plugs.
 
-<span id="stick"></span><span id="Stick"></span>
+<!-- #Stick -->
+​
 
+<!-- #stick -->
 ### Stick
 
 **Tinder Plug**
-
-
 
 5 minutes
 
@@ -79,13 +94,13 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Quantity:** 1
 
-<span id="newsprint"></span><span id="Newsprint"></span>
+<!-- #Newsprint -->
+​
 
+<!-- #newsprint -->
 ### Newsprint
 
 **Tinder Plug**
-
-
 
 10 minutes
 
@@ -97,13 +112,19 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Quantity:** 1
 
-<span id="newspaper_roll"></span><span id="Newspaper_Roll"></span><span id="newspaper-roll"></span>
+<!-- #newspaper_roll -->
+​
 
+<!-- #Newspaper_Roll -->
+​
+
+<!-- #Newspaper_roll -->
+​
+
+<!-- #newspaper-roll -->
 ### Newspaper Roll
 
 **Tinder Plug**
-
-
 
 10 minutes
 
@@ -115,13 +136,22 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Quantity:** 1
 
-<span id="stack_of_papers"></span><span id="Stack_of_Papers"></span><span id="stack-of-papers"></span>
+<!-- #stack_of_papers -->
+​
 
+<!-- #Stack_of_Papers -->
+​
+
+<!-- #Stack_of_papers -->
+​
+
+<!-- #Stack_Of_Papers -->
+​
+
+<!-- #stack-of-papers -->
 ### Stack of Papers
 
 **Tinder Plug**
-
-
 
 10 minutes
 
@@ -133,8 +163,10 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Quantity:** 1
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Tinder_plug.png)

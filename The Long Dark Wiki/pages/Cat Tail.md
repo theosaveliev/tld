@@ -15,16 +15,20 @@ _XTHUMB_
 
 **Cat Tail** is a type of harvestable wetland plant.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Cat tails are harvestable plants found in the world of [_The Long Dark_](./The%20Long%20Dark.md) near sources of fresh water, such as frozen ponds, marshes, creeks, and rivers. Like other plants, they do not grow back once harvested. After harvesting, they leave no trace behind, unlike [Rose Hips](./Rose%20Hip.md) and saplings, which leave behind an empty bush, and a stump respectively.
 
 They are one of the most plentiful sources of [Forage](./Foraging.md) in the game. There are over 1000 individuals Cat Tail plants found through the game world, making it one of the most common types of plants that can be foraged (even more with [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed, upping that number to over 2000).
 
-<span id="harvesting"></span><span id="Harvesting"></span>
+<!-- #Harvesting -->
+​
 
+<!-- #harvesting -->
 ## Harvesting
 
 Cat tails can be harvested without a tool. Upon harvesting, they provide both a single [Cat Tail Head](./Cat%20Tail%20Head.md), and a single [Cat Tail Stalk](./Cat%20Tail%20Stalk.md).
@@ -33,8 +37,10 @@ The Cat Tail Head acts as a form of Tinder, and can be used as such, providing a
 
 The Cat Tail Stalk is a [Food](./Food%20And%20Drink.md) item that can be consumed for 150 calories. Doing so does not drain your [Thirst](./Thirst.md), unlike most other foods. Cat Tail Stalks are a staple food source that all survivors should carry. It is especially helpful in the early game when food is scarce, or on harder difficulties like Interloper.
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ## Location
 
 Cat Tails can be found in every [Region](./Region.md), and are always located near freshwater lakes, streams and rivers. Cat tails can be alone, or near loose groups of others. They cannot be found near saltwater. (However freshwater rivers flowing into the ocean can have cat tails). They are especially prominent in the Forlorn Muskeg region.
@@ -64,8 +70,16 @@ Some other locations you can find them in each region include:
 - [Broken Railroad](./Broken%20Railroad.md)
   - At the lake overlooked by the [Hunters Blind](./Hunter%27s%20Blind%20%28disambiguation%29.md)
 
-<span id="the_far_territory"></span><span id="The_Far_Territory"></span><span id="the-far-territory"></span>
+<!-- #the_far_territory -->
+​
 
+<!-- #The_Far_Territory -->
+​
+
+<!-- #The_far_territory -->
+​
+
+<!-- #the-far-territory -->
 ### The Far Territory
 
 - [Zone of Contamination](./Zone%20of%20Contamination.md)

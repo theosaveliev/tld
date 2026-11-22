@@ -39,14 +39,27 @@
 
 **Anxiety** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of two unique Afflictions found only within the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflicted with Anxiety, accompanied by a unique audio cue and dialogue. A message box will appear in the middle of the screen, detailing the distance between the survivor and the Darkwalker. While afflicted with Anxiety actions which accelerate time (Sleep, Pass Time, Craft, Sharpen, Clean, Harvest, Research, etc.) are impossible. If the survivor was asleep when the Darkwalker approached, it will automatically wake them. The closer the the survivor moves toward the Darkwalker, the more bloody the visual effect will appear.
 
-<span id="darkwalker_distance"></span><span id="Darkwalker_Distance:"></span><span id="darkwalker_distance:"></span><span id="darkwalker-distance"></span>
+<!-- #darkwalker_distance -->
+​
 
+<!-- #Darkwalker_Distance: -->
+​
+
+<!-- #darkwalker_distance: -->
+​
+
+<!-- #Darkwalker_distance: -->
+​
+
+<!-- #darkwalker-distance -->
 ###### Darkwalker Distance:
 
 - 200m or greater: Anxiety is removed.
@@ -54,8 +67,16 @@ If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflic
 - 50m (~164 feet): Anxiety is replaced with [Fear](./Fear.md) (rapid Condition drain).
 - 5m: the Darkwalker catches the survivor (instant death).
 
-<span id="player_quotes"></span><span id="Player_Quotes"></span><span id="player-quotes"></span>
+<!-- #player_quotes -->
+​
 
+<!-- #Player_Quotes -->
+​
+
+<!-- #Player_quotes -->
+​
+
+<!-- #player-quotes -->
 ## Player Quotes
 
 - "That's not an animal..."
@@ -65,8 +86,10 @@ If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflic
 - "This is like something out of a horror movie"
 - "(Panicked) I gotta get outta here!"
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Anxiety is the only Affliction Risk that has a negative effect. Usually the Risk must develop into an Affliction before negative effects ensue.

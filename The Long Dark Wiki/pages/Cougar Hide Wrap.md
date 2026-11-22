@@ -36,16 +36,16 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 > “**A superior Wrap crafted from the warm, protective hide of a Cougar.**”
 >
 > — In-game description
 
 A **Cougar Hide Wrap** is a craftable [Clothing](./Clothing.md) worn on the outer layer of the head.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Cougar Hide Wraps are crafted using [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). Only 1 Cougar Hide Wrap can be worn at a time, specifically in the outer head slot.
@@ -58,15 +58,15 @@ A Cougar Hide Wrap can be harvested and re-crafted to restore its condition, rec
 
 ![Clothing model damaged](../assets/Cougar_Hide_Wrap_Model_Damaged.png)
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 Acquiring a [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) to cure and craft the wrap may prove challenging since it involves facing against one of Great Bear Island's deadliest predators.
 
 **Cougar Hide Wrap**
-
-
 
 1400 minutes (23 hour 20 minutes)
 
@@ -80,8 +80,16 @@ Acquiring a [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) to cure and craft th
 
 **Quantity:** 1
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**

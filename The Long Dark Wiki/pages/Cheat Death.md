@@ -27,14 +27,18 @@
 
 This option is available for every difficulty Experience except [Misery](./Misery.md), and is not present in [Challenges](./Challenge.md).<span id="fnref2"></span>[²](#fn2)
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Cheat Death is an optional change to The Long Dark's permadeath system which adds new gameplay to players who aren’t ready to lose their favorite survivor after dying. Cheat Death may be performed up to 3 times (for 4 total lives), with progressively harsher penalties each time. Each extra life is symbolized by a Campfire that can be seen upon quickly checking your status in the pause screen. If the player chooses to persist upon death, an extra life is used up, and the Campfires will become extinguished starting with the left, middle, right Campfire. Once a player dies a 4th time, the player will fade away into The Long Dark.
 
-<span id="choice"></span><span id="Choice"></span>
+<!-- #Choice -->
+​
 
+<!-- #choice -->
 ## Choice
 
 Upon reaching 0% [Condition](./Condition.md) while playing Survival Mode, the player will be presented with two options.
@@ -51,14 +55,24 @@ Upon reaching 0% [Condition](./Condition.md) while playing Survival Mode, the pl
 
 ![Cheat Death Choice](../assets/Cheat_Death_Choice.jpg) If the player closes the game at this point, the save file will be wiped by default. Choosing "Cheat Death" allows the player to continue playing in the same Survival Sandbox, but at a cost...
 
-<span id="cheat_death_consequences"></span><span id="Cheat_Death_Consequences"></span><span id="cheat-death-consequences"></span>
+<!-- #cheat_death_consequences -->
+​
 
+<!-- #Cheat_Death_Consequences -->
+​
+
+<!-- #Cheat_death_consequences -->
+​
+
+<!-- #cheat-death-consequences -->
 ## Cheat Death Consequences
 
 ![Cheat Death Consequences](../assets/Cheat_Death_Consequences.jpg)If the player chooses to Cheat Death, they will be presented with a list of consequences for this option.
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ### Achievements
 
 > “**Progress for achievements that require completion within a single game will be reset.**”
@@ -209,40 +223,56 @@ Reach all 6 [Vista](./Polaroids.md) locations in the Far Territory (single game)
 
 Travel from [Desolation Point](./Desolation%20Point.md) to [Sundered Pass](./Sundered%20Pass.md) (single game).
 
-<span id="affliction"></span><span id="Affliction"></span>
+<!-- #Affliction -->
+​
 
+<!-- #affliction -->
 ### Affliction
 
 > “**Cheating Death will weaken you, temporarily diminishing your condition and stamina recovery.**”
 
 The player's [Condition](./Condition.md) and [Stamina](./Stamina.md) recovery will be halved when they awaken ([Weakened State](./Weakened%20State.md)).
 
-<span id="backpack"></span><span id="Backpack"></span>
+<!-- #Backpack -->
+​
 
+<!-- #backpack -->
 ### Backpack
 
 > “**Your old pack is still in the world. Find it to recover what's left of your items.**”
 
 Many items in the player's inventory will be missing when they wake up. Some items will be carried over to their new life, but many will be lost until they are recovered by finding the [Recovery Backpack](./Recovery%20Backpack.md).
 
-<span id="penalty"></span><span id="Penalty"></span>
+<!-- #Penalty -->
+​
 
+<!-- #penalty -->
 ### Penalty
 
 > “**You will choose between a painful short-term penalty, or a more forgiving but permanent one.**”
 
 The player will be given the choice of the severity of a penalty for choosing to Cheat Death (see next section).
 
-<span id="respawn"></span><span id="Respawn"></span>
+<!-- #Respawn -->
+​
 
+<!-- #respawn -->
 ### Respawn
 
 > “**You will have to choose between the risk of a spawn close to where you died, or a safe but distant one.**”
 
 The player cannot choose where to respawn, but how they will respawn (see later section).
 
-<span id="cheat_death_penalty"></span><span id="Cheat_Death_Penalty"></span><span id="cheat-death-penalty"></span>
+<!-- #cheat_death_penalty -->
+​
 
+<!-- #Cheat_Death_Penalty -->
+​
+
+<!-- #Cheat_death_penalty -->
+​
+
+<!-- #cheat-death-penalty -->
 ## Cheat Death Penalty
 
 ![Cheat Death Penalty](../assets/Cheat_Death_Penalty.jpg)
@@ -256,8 +286,10 @@ The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.
   - No Recovery Time penalty, but...
   - Max Condition PERMANENTLY reduced by 25% for the first death, 35% for the second, 50% for the third.
 
-<span id="respawn_1"></span><span id="respawn-1"></span>
+<!-- #respawn_1 -->
+​
 
+<!-- #respawn-1 -->
 ## Respawn
 
 ![Cheat Death Respawn](../assets/Cheat_Death_Respawn.jpg) When you Cheat Death, you'll be given the option to respawn somewhere inside the region you just died, or in a safe but far away location:
@@ -267,8 +299,16 @@ The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.
 
 Once the respawn conditions are chosen, the player will be asked to confirm, allowing them to cancel Cheat Death or amend their previous choices.
 
-<span id="risky_respawn_locations"></span><span id="Risky_respawn_locations"></span><span id="risky-respawn-locations"></span>
+<!-- #risky_respawn_locations -->
+​
 
+<!-- #Risky_respawn_locations -->
+​
+
+<!-- #Risky_Respawn_Locations -->
+​
+
+<!-- #risky-respawn-locations -->
 ### Risky respawn locations
 
 _This section could use expansion._
@@ -279,8 +319,16 @@ _This section could use expansion._
 | --- | --- | --- |
 | [Coastal Highway](./Coastal%20Highway.md) | Near [coastal townsite](./Coastal%20Townsite.md) | Three way, T shaped intersection right above coastal townsite |
 
-<span id="safe_respawn_locations"></span><span id="Safe_respawn_locations"></span><span id="safe-respawn-locations"></span>
+<!-- #safe_respawn_locations -->
+​
 
+<!-- #Safe_respawn_locations -->
+​
+
+<!-- #Safe_Respawn_Locations -->
+​
+
+<!-- #safe-respawn-locations -->
 ### Safe respawn locations
 
 _This section is a work in progress. You can help by adding eligible locations found in the current version of the game._
@@ -297,7 +345,7 @@ It is unknown if there are any eligible Safe respawn locations in [Forlorn Muske
 | [Bleak Inlet](./Bleak%20Inlet.md) | [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) | outdoors |
 | Bleak Inlet | [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) |  |
 | Bleak Inlet | [Last Resort Cannery](./Last%20Resort%20Cannery.md) | outdoors, near the rope, [Timberwolves](./Timberwolf.md) may be active |
-| Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.31_%28Steam%2C_Epic_Games%29)_<span id="fnref4"></span>[⁴](#fn4) |
+| Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.31_%28Steam,_Epic_Games%29)_<span id="fnref4"></span>[⁴](#fn4) |
 | [Blackrock](./Blackrock.md) | [Old Substation](./Old%20Substation.md) |  |
 | Blackrock | [Power Plant](./Power%20Plant.md) |  |
 | Blackrock | [Trailer](./Trailer%20%28Blackrock%20Region%29.md) | west, near the river |
@@ -326,8 +374,16 @@ It is unknown if there are any eligible Safe respawn locations in [Forlorn Muske
 | (TFTFT) [Sundered Pass](./Sundered%20Pass.md) | [Placid Notch](./Placid%20Notch.md) | outdoors, near Refuge Cabin B |
 | (TFTFT) [Zone of Contamination](./Zone%20of%20Contamination.md) | _TBD_ |  |
 
-<span id="cheating_death"></span><span id="Cheating_Death"></span><span id="cheating-death"></span>
+<!-- #cheating_death -->
+​
 
+<!-- #Cheating_Death -->
+​
+
+<!-- #Cheating_death -->
+​
+
+<!-- #cheating-death -->
 ## Cheating Death
 
 If the player accepts the terms of Cheating Death, the survivor will wake up looking at their hands and commenting in their confusion if they really just died. Upon awakening, the following occurs:
@@ -344,14 +400,24 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 - Dying before reclaiming your Recovery Backpack and Cheating Death a second time will remove the first Backpack from the game world and generates a second one. The previous campsite will be removed from the Map and a second campsite will appear at a new location. This will result in the loss of all lost items tied to the Recovery Backpack from your first life if you did not recover them, **_including unique, one-of-a-kind items_** that can be found only once in the game world. The only exception to this is that any items around the first campsite rather than inside the Recovery Backpack will remain in the game world, but finding this camp can be troublesome without the icon on the Map.
   - Example: dying with [Barb's Rifle](./Barb%27s%20Rifle.md) and not having it in your inventory when you awake, then dying and cheating death a second time before it was recovered will result in the permanent loss of the rifle on that playthrough.
 
-<span id="achievements_1"></span><span id="achievements-1"></span>
+<!-- #achievements_1 -->
+​
 
+<!-- #achievements-1 -->
 ## Achievements
 
 - ![Something Wicked icon](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
@@ -359,8 +425,10 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 
 ## References
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

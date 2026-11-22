@@ -1,6 +1,6 @@
 # Frozen Corpse
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
 
 **Frozen Corpse**
 
@@ -24,8 +24,10 @@
 
 **Frozen Corpses** (sometimes labeled as just **Corpse**) are the remains of seemingly recently deceased people. They are usually found outdoors, although some can be found indoors, in caves, or crushed under structures or other landmarks.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Corpses can be searched for modest loot. Tools or weapons can often be found nearby. Sometimes, corpses will spawn with items in-hand. [Crow Feathers](./Crow%20Feather.md) also can spawn near corpses, and [Crows](./Crow.md) can be spotted circling above some spawned corpses.
@@ -34,8 +36,10 @@ The causes of death and identities of frozen corpses are almost universally a my
 
 If a frozen corpse is found inside a [safehouse](./Safehouse.md), it can be "Respectfully Removed" via [Safehouse Customization](./Safehouse%20Customization.md). Occasionally in [Wintermute](./Wintermute.md), a [Dead Prison Guard](./Dead%20Prison%20Guard.md) or dead Convict can be found.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A corpse inside a Hunting Blind with a hatchet](../assets/Corpse_in_blind.jpg)

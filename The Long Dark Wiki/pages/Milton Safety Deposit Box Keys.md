@@ -20,14 +20,18 @@
 
 **Milton Safety Deposit Box Keys** is a side mission in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 To start the mission, the player must find any one of three bank deposit box keys scattered around the [Mountain Town](./Mountain%20Town.md) region. Each key unlocks a safety deposit box in the [Milton Credit Union](./Milton%20Credit%20Union.md) vault. Finding all three keys and opening all three safety deposit boxes will complete the mission.
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Open bank deposit box #7
@@ -35,8 +39,16 @@ To start the mission, the player must find any one of three bank deposit box key
 - Open bank deposit box #20
 - Open Bank deposit box #15
 
-<span id="key_locations"></span><span id="Key_locations"></span><span id="key-locations"></span>
+<!-- #key_locations -->
+​
 
+<!-- #Key_locations -->
+​
+
+<!-- #Key_Locations -->
+​
+
+<!-- #key-locations -->
 ## Key locations
 
 - _[Bank Deposit Box Key #7](./Bank%20Deposit%20Box%20Key%207.md)_ is located inside a house on the main road between the [Post Office](https://thelongdark.fandom.com/wiki/Milton_Post_Office) and the [Orca Gas Station](https://thelongdark.fandom.com/wiki/Orca_Gas_Station), in a plastic container underneath the bed. The house is across the main road from the [Bank Manager's House](./Bank%20Manager%27s%20House.md). Note there is another house in between them. Box contains [cash](./Cash.md) and 2 [flare shells](./Flare%20Shell.md).

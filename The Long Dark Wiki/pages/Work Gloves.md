@@ -36,8 +36,10 @@
 
 **Work Gloves** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Work gloves have similar stats and appearance to the [Ski Gloves](./Ski%20Gloves.md), but provide more protection, less windchill bonus, and no waterproof bonus.
@@ -46,8 +48,16 @@ Work gloves have similar stats and appearance to the [Ski Gloves](./Ski%20Gloves
 
 ![Clothing Model](../assets/Work_Gloves_Model_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

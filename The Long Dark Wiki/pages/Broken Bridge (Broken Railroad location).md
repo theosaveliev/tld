@@ -16,8 +16,10 @@
 
 **Type:** Landmark
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The bridge is an unremarkable, completely destroyed railroad bridge in the region, with a [Truck](./Truck.md), [Train Shuttle](./Train%20Shuttle.md), [Rabbit Grove](./Rabbit%20Grove.md), and dead bodies with some loot can be found near the starting area of the bridge.
@@ -26,15 +28,19 @@ If players purchase the [Tales from the Far Territory](./Tales%20from%20the%20Fa
 
 A ravine lies below the bridge with a [Mementos](./Mementos.md) pointing to it. Climbing down below reveals a [Supply Bin](./Supply%20Bin.md) with various supplies, with the [Rope Climbing](./Rope%20Climbing.md) section to access the ravine found west of the frozen pond behind the [Maintenance Yard](./Maintenance%20Yard.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The bridge was originally nothing but a broken in half railroad bridge since the debut of the Broken Railroad [Region](./Region.md). The addition of the Tales from the Far Territory Expansion patched the game to include an unstable railroad footpath, finally making the bridge crossable.
   - The bridge is still broken in various [Challenges](./Challenge.md) however, even with the Expansion installed.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The gap in the bridge](../assets/Broken_bridge2.jpg)
@@ -44,3 +50,5 @@ A ravine lies below the bridge with a [Mementos](./Mementos.md) pointing to it. 
 ![The railcar and utility truck near the bridge](../assets/Broken_bridge_trolley.jpg)
 
 ![The bridge as seen from the bottom of the ravine](../assets/Broken_bridge_from_below.jpg)
+
+[ru:Разрушенный мост (Разбитая железная дорога)](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_%28%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%82%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%29)

@@ -20,7 +20,6 @@
 
 **Modded Content.**<br>This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
-
 “
 
 **A sprawling snowy coastal region that has been decimated by the earthquakes. Towering rock cliffs seclude the oil rig that has crashed into the shore while on its way to be decommissioned. The inland half of this region features deep crags that pre-collapse; proved a challenge to even the most experienced rock climbers.**<br>TLDEV Region Description
@@ -29,14 +28,18 @@
 
 **Forsaken Shore** is the 3rd [Modded Region](./The%20Long%20Development.md) added to the game, as part of The Long Development's unofficial region mods. The region connects from [Rocky Thoroughfare](./Rocky%20Thoroughfare.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The region features two areas: an area near the coast, and an inland half with significant elevation differences. There is a [Chemical Hazard](./Chemical%20Hazard.md) present around one of islands just off the shore.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are a number of accessible locations in this region, including:

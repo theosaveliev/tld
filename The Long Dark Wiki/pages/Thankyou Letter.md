@@ -36,16 +36,26 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) receives the _Thankyou Letter_ alongside a [Rabbitskin Hat](./Rabbitskin%20Hat.md) after returning the [Church Artifact](./Church%20Artifact.md) to the [Thomson's Crossing](./Thomson%27s%20Crossing.md) church.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Thankyou Letter**_
 
 I can only thank you for what you have done for us, and for letting God's light shine through you. Whoever you are, I sense that you have endured worse than a storm or two in order to return this humble treasure of ours. We will never forget you. -- Fr. Thomas.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

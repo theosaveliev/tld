@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Lighthouse Keeper's Cabin**
 
 [Lighthouse Keepers Cabin](../assets/Lighthouse_Keepers_Cabin.png)
@@ -35,7 +33,3 @@ Has a bed
 [Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior<br>**Lighthouse Keeper´s Cabin** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md).
-
-<span id="overview"></span><span id="Overview"></span>
-
-## Overview

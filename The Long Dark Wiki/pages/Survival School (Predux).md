@@ -41,8 +41,10 @@
 
 Due to its overwhelmingly negative impact on breaking the pace of the game (especially for players already familiar with Ice Fishing, Hunting, Mending, and Foraging/players whom have already played Episode 2 before) and being able to do only one task at a time, this mission has since been replaced by the optional side missions [Survival School](./Survival%20School.md) and [The Basics of Survival](./The%20Basics%20of%20Survival.md). The main mission that filled this spot of the story was instead replaced by [Signal to Noise](./Signal%20to%20Noise.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Learn to craft Fishing Tackle, then catch fish from Mystery Lake.
@@ -62,8 +64,10 @@ Due to its overwhelmingly negative impact on breaking the pace of the game (espe
   - [0/4] Cattail Stalks
 - Return to Jeremiah.
 
-<span id="walkthrough"></span><span id="Walkthrough"></span>
+<!-- #Walkthrough -->
+​
 
+<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details — Mission length | Mission details — Medium |
@@ -77,8 +81,10 @@ Due to its overwhelmingly negative impact on breaking the pace of the game (espe
 
 Any of the 4 mission tasks can be taken and completed in any order desired, but they must all be finished in order to get to the next mission [Jeremiah's Folly](./Jeremiah%27s%20Folly.md). Only one School of Survival can be active at one time.
 
-<span id="fishing"></span><span id="Fishing"></span>
+<!-- #Fishing -->
+​
 
+<!-- #fishing -->
 ### Fishing
 
 > “__M - Fishing. Do we really have time for this?  
@@ -91,8 +97,10 @@ Selecting this option will task Mackenzie to head to the [Camp Office](./Camp%20
 
 The Fishing Tackle blueprint will unlock, so head to the Camp Office and craft a tackle. Then start [Ice Fishing](./Ice%20Fishing.md) when you walk out to the lake and into a Fishing Hut. Break the ice in one of the huts and gather the specified amount of fish in terms of weight, then return to the Homestead and place them inside of the [Supply Bin](./Supply%20Bin.md) next to the door.
 
-<span id="hunting"></span><span id="Hunting"></span>
+<!-- #Hunting -->
+​
 
+<!-- #hunting -->
 ### Hunting
 
 > “__M - What can you tell me about hunting?  
@@ -106,8 +114,10 @@ Jeremiah will instruct Mackenzie to head to a clearing over the hill to the [Unn
 
 Clear as much from your inventory as you can, as you will need the extra storage space soon. Hunt during the morning or day to maximize your visual scanning of the area. Head forward over the hill the moment you step out of Trapper's Homestead until you find the Unnamed Pond, then crouch, get close, take aim, and kill a Deer. Harvest all the [Venison (Raw)](./Venison%20%28Raw%29.md) from its body and return to the cabin, then place the meat in the Supply Bin. You may need to kill multiple deer to accomplish this task.
 
-<span id="mending"></span><span id="Mending"></span>
+<!-- #Mending -->
+​
 
+<!-- #mending -->
 ### Mending
 
 > “__M - What do I need to know about clothing?  
@@ -117,8 +127,10 @@ Clear as much from your inventory as you can, as you will need the extra storage
 
 Jeremiah will explain to Mackenzie the importance of wearing good clothing in the Winter. Windproof and Wetproof clothing on the outer layers, while wearing warm clothing on the inside. Eventually, Jeremiah will give Mackenzie his old park, and will ask him to head to the nearby [Forestry Lookout](./Lookout%20%28Mystery%20Lake%20location%29.md) to retrieve some skins Jeremiah left up there as sewing supplies to fix the "parka" (The Parka in question is his damaged [Bearskin Coat](./Bearskin%20Coat.md) from the Old Bear's attack, it weighs 5.00 kg, and is found in the Clothing section of the Backpack). Simply make your way there, grab the [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), use a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md) to repair [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md), then return to the Trapper's Homestead. FYI, you can't wear his coat at any point after receiving it, nor can you harvest it (however you can drop it, but don't lose it). After repairing the coat, talk to Jeremiah and select the dialogue option Story to give it back to him, finishing the task.
 
-<span id="foraging"></span><span id="Foraging"></span>
+<!-- #Foraging -->
+​
 
+<!-- #foraging -->
 ### Foraging
 
 > “__M - Seems if you have your way, I'll never be a vegetarian out here.  
@@ -137,20 +149,44 @@ When it comes to finding the items needed:
 
 After completing all 4 Schools, return to Jeremiah and a cutscene begins where Mackenzie thanks Jeremiah for the training. After going through all that toil, Jeremiah tosses Mackenzie [his knife](./Jeremiah%27s%20Knife.md) as a graduation gift, saying he has a feeling that the pilot might need it, and the next mission starts.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md)
 
-<span id="differences_from_redux_episode_2"></span><span id="Differences_from_Redux_Episode_2"></span><span id="differences-from-redux-episode-2"></span>
+<!-- #differences_from_redux_episode_2 -->
+​
 
+<!-- #Differences_from_Redux_Episode_2 -->
+​
+
+<!-- #Differences_from_redux_episode_2 -->
+​
+
+<!-- #Differences_From_Redux_Episode_2 -->
+​
+
+<!-- #differences-from-redux-episode-2 -->
 ## Differences from Redux Episode 2
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 2:
 
-<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
+<!-- #plot_points_and_gameplay_changes -->
+​
 
+<!-- #Plot_Points_and_Gameplay_Changes -->
+​
+
+<!-- #Plot_points_and_gameplay_changes -->
+​
+
+<!-- #Plot_Points_And_Gameplay_Changes -->
+​
+
+<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - This entire mission was cut from the game due to very poor reception, and was turned into a two optional side mission in Redux, with all the tutorials being recycled into the side missions [The Basics of Survival](./The%20Basics%20of%20Survival.md) and [Survival School](./Survival%20School.md).
@@ -163,8 +199,16 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - This section of Episode 2's story was also replaced by [Signal to Noise](./Signal%20to%20Noise.md).
 - Jeremiah rewards Mackenzie with his unique Hunting Knife, [Jeremiah's Knife](./Jeremiah%27s%20Knife.md), after graduating from his Survival School. It serves as a reskinned [Hunting Knife](./Hunting%20Knife.md), with identical stats. This item was cut from the game, and regular Hunting Knives can be found more often throughout Episode 2 in the Redux.
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

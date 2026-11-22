@@ -30,8 +30,10 @@
 
 **Aurora Observations** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in the [Maintenance Yard](./Maintenance%20Yard.md) office building on the computer where the medic [Buffer Memory](./Buffer%20Memories.md) is in [Survival Mode](./Survival%20Mode.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Aurora Observations**_
@@ -40,8 +42,16 @@ Those lights in the sky are doing some funny things to the machines around here.
 
 We're still hoping Breyerhouse sends a team up before it comes to that. Even with the fire barrel we brought indoors, it's a bitter cold.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

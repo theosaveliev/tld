@@ -40,8 +40,10 @@ The **Insulated Flask** (otherwise known as a **Thermos**) is a [Tool](./Tools.m
 
 There are 6 variants in the game, but a 7th is available for players that own the Tales expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 An Insulated Flask's primary function acts as both a storage container and an insulator, keeping heated drinks warmer for much longer if placed inside to preserve their [Hot](./Warming%20Up.md) status. Insulated Flasks come in 7 different versions that, aside from aesthetics, all function exactly the same. Selecting the Thermos in the Backpack allows the player to Transfer any drink the player has, Hot or Cold, into the Thermos for storage.
@@ -71,8 +73,16 @@ The following foods and drinks can be placed inside an Insulated Flask:
 | [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md) |  |
 | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |  |
 
-<span id="heat_capacity"></span><span id="Heat_Capacity"></span><span id="heat-capacity"></span>
+<!-- #heat_capacity -->
+​
 
+<!-- #Heat_Capacity -->
+​
+
+<!-- #Heat_capacity -->
+​
+
+<!-- #heat-capacity -->
 ## Heat Capacity
 
 When Hot drinks are placed inside a Flask, a bar on the Flask will designate how much heat remains inside (100% heat capacity at max) until the contents go Cold. The contents of a Flask lose internal heat per minute at a rate of:
@@ -82,8 +92,16 @@ When Hot drinks are placed inside a Flask, a bar on the Flask will designate how
 
 Loss of heat in a Flask begins when a player walks more than 2 meters away from an active fire. As stated before, contents of a Flask cannot be reheated by placing the Flask near an active fire, and must be reheated one at a time and reinserted in order to regain 100% heat capacity.
 
-<span id="possible_spawns"></span><span id="Possible_Spawns"></span><span id="possible-spawns"></span>
+<!-- #possible_spawns -->
+​
 
+<!-- #Possible_Spawns -->
+​
+
+<!-- #Possible_spawns -->
+​
+
+<!-- #possible-spawns -->
 ## Possible Spawns
 
 Typically, only one flask will spawn per region in one of the below locations. Additional flasks can very rarely be found in unsearched containers, such as a combination [Safe](./Safe.md).
@@ -179,8 +197,10 @@ Note: Red Plaid Flask has a chance to spawn in any [Safe](./Safe.md).
 
 - Available to players that own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, the [Trader](./Trader.md) has a chance to trade a unique "Sticker" Insulated Flask to the player at higher Trust levels.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Insulated Flasks are a real world containers for insulating food and beverage.
@@ -204,8 +224,10 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 - Canadian Flag
 - "Mountain Time" with mountains
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Orange](../assets/Insulated_Flask_%28orange%29_icon.png)
@@ -226,14 +248,24 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 
 ![All Flasks with various drinks in front of them](../assets/Insulated_Flasks.png)
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - ![Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29)):**
@@ -241,8 +273,12 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33_%28Steam%29)):**
   - Added a 7th variant from the [Trader](./Trader.md).
 
-<span id="footnotes"></span>
+[ru:Термос](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81)
 
+<!-- #footnotes -->
+​
+
+<!-- #notes -->
 ## Notes
 
 ---

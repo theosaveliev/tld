@@ -32,8 +32,10 @@ Item Type
 
 **Prepared Rose Hips** are a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Prepared Rose Hips are crafted from 24 [Rose Hips](./Rose%20Hip.md) and takes 15 minutes (in-game) to prepare. Rose Hips can can be found in the wilderness growing on Rose Bushes, typically in clusters of 1-4 units, a single Rose Bush yields 8 Rose Hips when Harvested. Rose Hips can be found rarely inside of containers. They cannot be directly consumed and must first be crafted into Prepared Rose Hips and then cooked into [Rose Hip Tea](./Rose%20Hip%20Tea.md).
@@ -42,13 +44,13 @@ Rose Hip Tea functions similar to [Painkillers](./Painkillers.md) for treating A
 
 Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Decay](./Decay.md).
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Prepared Rose Hips**
-
-
 
 15 minutes
 
@@ -60,16 +62,20 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 **Quantity:** 24
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Rose Hip Tea](./Rose%20Hip%20Tea.md) | None | - 1 × [Prepared Rose Hips](./Prepared%20Rose%20Hips.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Harvesting 3 Rose Bushes (at 8 Rose Hips each) is required to craft 1 unit of Prepared Rose Hips/Rose Hip Tea.
@@ -83,23 +89,29 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 - Teas never decay once cooked.
 - The condition of Painkillers decays slowly over time (based on [Survival Mode](./Survival%20Mode.md)). Upon reaching 0% Condition, they become unusable and will disappear if inside of a container, but all forms of Rose Hips do not decay.
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 - Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192).
 - As of the 1.0 [Wintermute](./Wintermute.md) update (August 1, 2017) Rose Hips must be prepared before cooking them.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Rose Hips (also known as Rosehip, Rosehep or Rosehaw) are a [real world plant](https://en.wikipedia.org/wiki/Rose_hip) and accessory fruit to Rose Bushes, similar to their in-game representation including their use as a painkiller.
 - Real-World Rose Hips have a history as a [poverty food](https://en.wikipedia.org/wiki/Famine_food), particularly with Native American peoples during survival situations or times of hardship, as well as for ornamental purposes.
 - In The Long Dark, Painkillers and Tea must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distribute through the body.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The old Prepared Rose Hips model](../assets/Prepared_Rose_Hips_icon_historic.png)

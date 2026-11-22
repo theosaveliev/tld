@@ -36,8 +36,10 @@
 
 The **Windbreaker** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Low-tier outer layer. It grants highly windproof and light, but offers almost no warmth. It should be worn as an outer layer to make use of it's windproofing.
@@ -46,8 +48,16 @@ Low-tier outer layer. It grants highly windproof and light, but offers almost no
 
 ![Clothing model icon damaged](../assets/Windbreaker_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

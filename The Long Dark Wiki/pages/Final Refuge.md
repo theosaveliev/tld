@@ -22,8 +22,10 @@ Has a bed
 
 Has an interior<br>**Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The cabin can provide life-saving shelter if the weather conditions turn poor. It offers a small amount of loot and limited storage:
@@ -43,8 +45,10 @@ This location can also spawn a [Prybar](./Prybar.md) and [Simple Tools](./Simple
 
 The road ahead is blocked off by an avalanche, [Unyielding Inundation](./Unyielding%20Inundation.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The inside of cabin C](../assets/Inside_of_Cabin_C.png)

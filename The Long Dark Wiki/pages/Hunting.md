@@ -41,8 +41,10 @@
 
 **Hunting** [Wildlife](./Wildlife.md) is the process of searching for, stalking, and killing animals to harvest their flesh/hides and acquire [food](./Food%20And%20Drink.md) or crafting materials in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Hunting in _The Long Dark_ has been greatly simplified by keeping the animals conspicuous. Very little tracking needs to be done to find animals. Furthermore, while the player can see them from a great distance, all animals seem oblivious to anything farther than 30 meters away. Approaching them is rather easy, especially if one is crouching and not carrying any raw meat, which makes the player "visible" from further away. On top of that, certain [Skills](./Skills.md) can increase the damage output of their respective Weapons.
@@ -53,8 +55,10 @@ Unlike actual hunting, aiming for the Torso will often not instantly kill target
 
 Smaller animals like [Rabbit](./Rabbit.md) and [Ptarmigan](./Ptarmigan.md) die instantly when hit with any large projectile, regardless of where the shot lands. [Crows](./Crow.md) cannot be harmed in any way, due to a lack of collision/hitboxes. Fish cannot be shot under the ice, and only appear as items when [Ice Fishing](./Ice%20Fishing.md).
 
-<span id="weapons"></span><span id="Weapons"></span>
+<!-- #Weapons -->
+​
 
+<!-- #weapons -->
 ## Weapons
 
 Weapons are defined as [Tools](./Tools.md) that are capable of damaging Wildlife. These items also have their own dedicated space in the Weapons section of the [Radial Menu](./Radial%20Menu.md).
@@ -63,8 +67,16 @@ Shooting animals with projectiles is the most effective way to kill game while c
 
 Five ranged weapons currently exist in the game: [Stone](./Stone.md), the [Hunting Rifle](./Hunting%20Rifle.md), the [Survival Bow](./Survival%20Bow.md), the [Revolver](./Revolver.md), and the [Distress Pistol](./Distress%20Pistol.md). The Hunting Rifle, Survival Bow and the Revolver all have available weapon variants that have different weight, condition loss, damage output, swaying or stamina loss. Other Tools that can damage wildlife include the [Noisemaker](./Noisemaker.md) and tools normally used for [Carcass Harvesting](./Carcass%20Harvesting.md) or [Crafting](./Crafting.md) that can be used in a [Struggle](./Struggle.md).
 
-<span id="hunting_rifle"></span><span id="Hunting_Rifle"></span><span id="hunting-rifle"></span>
+<!-- #hunting_rifle -->
+​
 
+<!-- #Hunting_Rifle -->
+​
+
+<!-- #Hunting_rifle -->
+​
+
+<!-- #hunting-rifle -->
 ### Hunting Rifle
 
 ![Hunting Rifle](../assets/Hunting_Rifle_icon.png)
@@ -97,8 +109,16 @@ _[Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) cut weapon_
 - Hitting a solid target will produce a smoke effect often accompanied with a "clank" sound.
 - Hitting most environmental targets will produce a snow scatter effect or wood splinter effect.
 
-<span id="survival_bow"></span><span id="Survival_Bow"></span><span id="survival-bow"></span>
+<!-- #survival_bow -->
+​
 
+<!-- #Survival_Bow -->
+​
+
+<!-- #Survival_bow -->
+​
+
+<!-- #survival-bow -->
 ### Survival Bow
 
 ![Survival Bow](../assets/Survival_Bow_icon.png)
@@ -128,8 +148,10 @@ Arrows travel in an arc, so aiming needs to take into account how far away the t
 
 In Survival Mode, the effectiveness of the bow, its swaying and the ability to crouch while aiming are improved by increasing the [Archery](./Archery.md) skill.
 
-<span id="revolver"></span><span id="Revolver"></span>
+<!-- #Revolver -->
+​
 
+<!-- #revolver -->
 ### Revolver
 
 ![Revolver](../assets/Revolver_icon.png)
@@ -152,8 +174,10 @@ A handgun that is much lighter than the Hunting Rifle, but its ammunition is muc
 
 Killing smaller animals like Rabbits and Ptarmigan can be much easier (albeit a wasteful use of ammunition) due to the fast firing rate. Entire flocks of Ptarmigan can be hunted with good reflexes and aim due to the quick cycling rate of a Revolver compared to a Hunting Rifle however.
 
-<span id="stones"></span><span id="Stones"></span>
+<!-- #Stones -->
+​
 
+<!-- #stones -->
 ### Stones
 
 ![Stone](../assets/Stone_icon.png)
@@ -164,8 +188,16 @@ A basic tool that can be found lying around outdoors and in caves, [Stones](./St
 
 Stones are unable to injure larger game, but still have some use to alter their behavior. Stones that hit Wolves in the face have a chance to cause the Wolf to flee, while leaving a single blood stain in the snow (This will not be enough to cause extensive bleedout however, even if done repeatedly). Predators will investigate a thrown stone that lands near them, while prey animals will flee. Hunters can use these behaviors to their advantage to distract predators or scare prey into Wolves.
 
-<span id="distress_pistol"></span><span id="Distress_Pistol"></span><span id="distress-pistol"></span>
+<!-- #distress_pistol -->
+​
 
+<!-- #Distress_Pistol -->
+​
+
+<!-- #Distress_pistol -->
+​
+
+<!-- #distress-pistol -->
 ### Distress Pistol
 
 ![Distress Pistol](../assets/Distress_Pistol_icon.png)
@@ -177,8 +209,10 @@ The lack of proper sights and the low arc of shots fired from this weapon make i
 - Because wildlife will always flee from Distress Pistol shots, this makes it a fairly safe choice for hunting dangerous wildlife. Allowing an animal to charge the player and firing right in its face can greatly increase the chance of a successful hit. This is a surprisingly effective method for hunting bears, which provide a large target and suffer from bleeding wounds.
 - The greatest disadvantage to using the Distress Pistol is the general rareness of the weapon and its ammunition. Also, the Pistol itself cannot be repaired and Flare Shells are the only projectile that cannot be harvested or crafted.
 
-<span id="noisemakers"></span><span id="Noisemakers"></span>
+<!-- #Noisemakers -->
+​
 
+<!-- #noisemakers -->
 ### Noisemakers
 
 ![Noisemaker](../assets/Noisemaker_icon.png)
@@ -193,12 +227,19 @@ An improvised explosive primarily designed to scare hostile wildlife away, [Nois
 - Using Noisemakers can put the user at risk for [Burns](./Burns.md) and [Condition](./Condition.md) damage if they do not throw the bomb at the right time, or if they throw them while wildlife is too close.
 - Noisemakers are hard to produce, with the resources needed to make [Can of Gunpowder](./Can%20of%20Gunpowder.md) being uncommon and the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) table being so rare, resulting in a very resource intensive and expensive weapon that often causes more destruction to the user than to would be quarry.
 
-<span id="other_hunting_methods"></span><span id="Other_Hunting_Methods"></span><span id="other-hunting-methods"></span>
+<!-- #using_tools_during_a_struggle -->
+​
 
-## Other Hunting Methods
+<!-- #Using_Tools_during_a_Struggle -->
+​
 
-<span id="using_tools_during_a_struggle"></span><span id="Using_Tools_during_a_Struggle"></span><span id="using-tools-during-a-struggle"></span>
+<!-- #Using_tools_during_a_struggle -->
+​
 
+<!-- #Using_Tools_During_A_Struggle -->
+​
+
+<!-- #using-tools-during-a-struggle -->
 ### Using Tools during a Struggle
 
 ![Knives can be used to damage a Wolf in a Struggle](../assets/Hunting_Knife_icon.png)
@@ -233,8 +274,10 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 
 Knives with the Puncture type will lead a Wolf to bleed after the Struggle, cause it to constantly flee and run around until its movements slows down, eventually causing it to die. The Heavy Hammer and the Cougar Claw Knife in particular are well known for causing high amounts of damage, usually killing the Wolf during the Struggle before the bar is full. Revolvers can either kill or scare the Wolf off of you, but are more unreliable methods of killing a Wolf during a Struggle. Other tools generally do not hurt Wolves as badly as Knives and the Heavy Hammer (affectionately nicknamed "Wolf Bonker" by players).
 
-<span id="trapping"></span><span id="Trapping"></span>
+<!-- #Trapping -->
+​
 
+<!-- #trapping -->
 ### Trapping
 
 ![Snare](../assets/Snare_icon.png)
@@ -247,8 +290,19 @@ _[Fishing Tip-Up](./Fishing%20Tip-Up.md)_
 
 [Trapping](./Trapping.md) is a passive form of Hunting that involves placing traps to catch small animals. Trapping has its own dedicated page for how to use Snares and Fishing Tip-Ups.
 
-<span id="using_wolves_to_hunt_prey_for_you"></span><span id="Using_Wolves_to_hunt_Prey_for_you"></span><span id="using-wolves-to-hunt-prey-for-you"></span>
+<!-- #using_wolves_to_hunt_prey_for_you -->
+​
 
+<!-- #Using_Wolves_to_hunt_Prey_for_you -->
+​
+
+<!-- #Using_wolves_to_hunt_prey_for_you -->
+​
+
+<!-- #Using_Wolves_To_Hunt_Prey_For_You -->
+​
+
+<!-- #using-wolves-to-hunt-prey-for-you -->
 ### Using Wolves to hunt Prey for you
 
 ![A Wolf after hunting a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png)
@@ -261,14 +315,18 @@ The ordinarily dangerous [Wolf](./Wolf.md) can be used to hunt Prey animals for 
 
 This tactic can also be used as a distraction when walking through a dangerous area, as Wolves will ignore you and instead hunt Prey animals you lure to them. Be aware that this will only works if there are enough Prey animals per Wolf, as larger Wolf packs will individually attack a Prey animal, while the rest follow you. Note that intact [Timberwolf](./Timberwolf.md) packs ignore any Prey they catch once they gain sight of you, and will begin a pack attack.
 
-<span id="approach"></span><span id="Approach"></span>
+<!-- #Approach -->
+​
 
+<!-- #approach -->
 ## Approach
 
 Some animals run, others are attracted to you. Various methods exist for approaching each type of intended game. See the specific animal pages for preferred methods to hunt each.
 
-<span id="crouching"></span><span id="Crouching"></span>
+<!-- #Crouching -->
+​
 
+<!-- #crouching -->
 ### Crouching
 
 Crouching allows the player to move more quietly and less visibly, decreasing the animal's ability to detect them. Remaining still while crouching further reduces detection, allowing a player to get very close to intended game.
@@ -276,8 +334,19 @@ Crouching allows the player to move more quietly and less visibly, decreasing th
 - Only firearms and stones can be used from the crouching position without Survival Skill Bonuses. To shoot the bow while crouching, you must have a Survival Skill level of 5 in Archery. To attain level 5 Archery, you must reach 150 points. Archery points are increased by scoring a hit on an animal or by crafting arrows.
 - Without being Level 5 in Archery, you must first stand up to draw and loose the arrow - potentially alerting your prey and necessitating a rushing of the aiming process.
 
-<span id="aiming_and_shivering"></span><span id="Aiming_and_Shivering"></span><span id="aiming-and-shivering"></span>
+<!-- #aiming_and_shivering -->
+​
 
+<!-- #Aiming_and_Shivering -->
+​
+
+<!-- #Aiming_and_shivering -->
+​
+
+<!-- #Aiming_And_Shivering -->
+​
+
+<!-- #aiming-and-shivering -->
 ### Aiming and Shivering
 
 > “**When using a Rifle, a Revolver, or a Distress Pistol, cold temperatures can cause Shivering, affecting your aim.**”
@@ -288,8 +357,16 @@ Most weapons cannot be used unless the player aims down sights. Aiming uses [Sta
 
 Stones, Noisemakers, and Revolvers can be "fired" without having to aim down sights.
 
-<span id="hunting_the_hunters"></span><span id="Hunting_the_hunters"></span><span id="hunting-the-hunters"></span>
+<!-- #hunting_the_hunters -->
+​
 
+<!-- #Hunting_the_hunters -->
+​
+
+<!-- #Hunting_The_Hunters -->
+​
+
+<!-- #hunting-the-hunters -->
 ### Hunting the hunters
 
 Predators may decide to pursue a player that intends to hunt them. This trait can be used against them, to lure them into traps and ambushes or draw them close for an easy kill. Carrying items that give off [Scent](./Scent.md) will draw predators to the player. By manipulating scent while crouching, it is possible to line up ideal shots, while the tracking animal remains oblivious. Predators can also be moved into a better position by throwing stones, which they will investigate if they can't see the player.
@@ -300,22 +377,43 @@ Be aware that [bears](./Bear.md) may withstand more than one bullet/arrow that h
 
 [Moose](./Moose.md) behave more defensively and will not stalk players, but they are incredibly territorial and aggressive. They can survive more than one shot to the head, and will not bleed out, requiring multiple rounds from any weapon.
 
-<span id="baiting_and_scent"></span><span id="Baiting_and_Scent"></span><span id="baiting-and-scent"></span>
+<!-- #baiting_and_scent -->
+​
 
+<!-- #Baiting_and_Scent -->
+​
+
+<!-- #Baiting_and_scent -->
+​
+
+<!-- #Baiting_And_Scent -->
+​
+
+<!-- #baiting-and-scent -->
 ### Baiting and Scent
 
-As mentioned before, [Baiting](./Scent.md#Baiting%2FDecoys) can be used to escape predators before they charge, but it can also be used to draw predators to your location. Raw meat and fish is always the best item to use for Baiting, as Cooked meat gives off less odor. Bears in particular will travel the entire lengths of the map to your location (even leaving their normal dedicated stomping grounds to investigate the smell) if a sufficient quantity of "Decoys" are dropped onto the ground or the player's [Scent](./Scent.md) is at maximum. This can be a very time consuming venture to wait for a bear to come for you however, given the very slow walking speed of a bear.
+As mentioned before, [Baiting](./Scent.md#Baiting/Decoys) can be used to escape predators before they charge, but it can also be used to draw predators to your location. Raw meat and fish is always the best item to use for Baiting, as Cooked meat gives off less odor. Bears in particular will travel the entire lengths of the map to your location (even leaving their normal dedicated stomping grounds to investigate the smell) if a sufficient quantity of "Decoys" are dropped onto the ground or the player's [Scent](./Scent.md) is at maximum. This can be a very time consuming venture to wait for a bear to come for you however, given the very slow walking speed of a bear.
 
 Wolves on the other hand will very quickly detect the player with high enough Scent or if Decoys are placed nearby, picking up speed and switching into their "investigating" behavior, luring them straight towards you. Prey Wildlife is always uninterested in Baiting tactics however.
 
-<span id="wounding"></span><span id="Wounding"></span>
+<!-- #Wounding -->
+​
 
+<!-- #wounding -->
 ## Wounding
 
 It is possible to kill any animal with one shot, a mechanic called a "Critical Hit". Critical hits are random occurrences, and are more likely in an animal's designated critical areas. Hitting an animal but not immediately killing it still means that animal has a bleeding wound. A bleeding animal will always die if given enough time for its wound to finish bleeding.
 
-<span id="critical_hits"></span><span id="Critical_Hits"></span><span id="critical-hits"></span>
+<!-- #critical_hits -->
+​
 
+<!-- #Critical_Hits -->
+​
+
+<!-- #Critical_hits -->
+​
+
+<!-- #critical-hits -->
 ### Critical Hits
 
 Animals have five core hitbox areas, the head, neck, the front shoulder and chest, the hindquarters, and their legs. Shots to the head and neck have the best chance to cause a critical hit, with shots to the front shoulder and chest being second. Shots to the feet seem to be immune to critical hits.
@@ -329,14 +427,24 @@ Below is an example of the Critical Hit chance for a [Wolf](./Wolf.md).
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
-<span id="graze_shots"></span><span id="Graze_shots"></span><span id="graze-shots"></span>
+<!-- #graze_shots -->
+​
 
+<!-- #Graze_shots -->
+​
+
+<!-- #Graze_Shots -->
+​
+
+<!-- #graze-shots -->
 ### Graze shots
 
 Shots that only catch the very outside of an animals silhouette may only graze its skin. Such grazing shots will produce a blood spatter on impact and an audible body hit, but seemingly do not injure the animal at all, there will be no blood on the ground at the point of impact and no blood trail. Additionally, bouncing an arrow off terrain that then hits an animal may produce the body hit noise, but again, the animal feels no effect.
 
-<span id="bleeding"></span><span id="Bleeding"></span>
+<!-- #Bleeding -->
+​
 
+<!-- #bleeding -->
 ### Bleeding
 
 _Main article: [Hunting rifle#Bleed out time](./Hunting%20Rifle.md#Bleed_out_time)_
@@ -347,40 +455,64 @@ _Main article: [Survival bow#Bleed out time](./Survival%20Bow.md#Bleed_out_time)
 
 The bleed-out timers above elapse even while performing time-accelerated activities. This means that after wounding an animal, you can simply use 'Pass time' via the 'Campcraft' menu to accelerate its death relative to real time, but the animal will also move at an accelerated speed.
 
-<span id="tracking"></span><span id="Tracking"></span>
+<!-- #Tracking -->
+​
 
+<!-- #tracking -->
 ## Tracking
 
 ![Tracking wounded wolf](../assets/Tracking_wounded_wolf.jpg)Tracking is fairly straightforward when the animal chooses to run away. Blood drops will fall along its path for you to follow. The wounded animal is also still quite obvious against its background of snow. And animals tend to run in straight lines unless they are blocked. So following them visually is fairly easy, too. Sprinting can keep pace with all but the bear. Use your limited speed boost to keep your quarry in sight. Also when wounded, bears may charge back at you randomly, making tracking difficult sometimes.
 
-<span id="blood_trails"></span><span id="Blood_trails"></span><span id="blood-trails"></span>
+<!-- #blood_trails -->
+​
 
+<!-- #Blood_trails -->
+​
+
+<!-- #Blood_Trails -->
+​
+
+<!-- #blood-trails -->
 ### Blood trails
 
 Blood trails are temporary and will fade. Snow and wind increase the rate of fade. Fading trails may seem to disappear as the spot in front of you vanishes then you turn around and there are no longer any spots behind either. Actually, there are spots still ahead of you rapidly disappearing, too. But if you are not running faster than the animal that dropped them, you will never catch up to the fade point to see that.
 
 - Presently animals only bleed onto the ground when they are running away. When they charge or go back to walking, blood will not appear on the ground. They are however still bleeding and will eventually die. Blood drops will again appear if the animal is encouraged to run away (gunshot, throw a lit flare at it, close missed shot with an arrow).
 
-<span id="lost_contact"></span><span id="Lost_contact"></span><span id="lost-contact"></span>
+<!-- #lost_contact -->
+​
 
+<!-- #Lost_contact -->
+​
+
+<!-- #Lost_Contact -->
+​
+
+<!-- #lost-contact -->
 ### Lost contact
 
 If an animal successfully outruns you far enough to where you lose contact with it, it can stop running and return to a walking pace. Typically, these animals will be found returning along the same path they just fled along as they try to get back to their correct positions in the world.
 
-<span id="carcasses"></span><span id="Carcasses"></span>
+<!-- #Carcasses -->
+​
 
+<!-- #carcasses -->
 ### Carcasses
 
 Bleeding animals will eventually drop dead, regardless of whether the player is there to see it or not. Finding the carcass can be difficult if contact was lost as they fled. Carcasses no longer move about and do not leave a trail, so spotting some may be difficult; however, if the player suspects their prey died in a certain area, using charcoal to map that area will reveal the location of the carcass if the player is close enough (mapping from an elevated position helps greatly with this). Players should take advantage of elevated spots to look down into low areas. Search every side of obstacles, and look for [crows](./Crow.md) circling over an area. Carcasses will begin to freeze and meat will begin to decay the moment the animal dies. If left alone, a carcass will disappear after a few days. Frozen carcasses can be thawed by placing campfires near them, reducing the amount of time it takes to harvest meat.
 
-<span id="drowning"></span><span id="Drowning"></span>
+<!-- #Drowning -->
+​
 
+<!-- #drowning -->
 ## Drowning
 
 In some areas (e.g. [Coastal Highway](./Coastal%20Highway.md) or [Desolation Point](./Desolation%20Point.md)) the Rabbits, Deer and Wolves can be directed towards the water. While hunting on the open ice is easier due to the even ground, attention is advised if they get too close to the water. If they run out too far, that animal will simply disappear, probably because of it drowning, resulting in the effort (and maybe a few arrows) going down the drain. If unlucky, deer and wolves may die on the [Weak Ice](./Weak%20Ice.md), so that the player can't harvest the carcasses without risking falling through the Ice.
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

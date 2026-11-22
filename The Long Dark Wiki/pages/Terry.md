@@ -46,26 +46,34 @@
 
 **Terry** a minor character in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md). He appears in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) as the "**Radio Voice Man**."
 
-<span id="appearance"></span><span id="Appearance"></span>
+<!-- #Appearance -->
+​
 
+<!-- #appearance -->
 ## Appearance
 
 Terry wears a green jacket, glasses.
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 A resident of [Perseverance Mills](./Perseverance%20Mills.md), Terry operates his [own radio hut.](./Terry%27s%20Radio%20Shack.md)
 
 He is a man of a conspiratorial/distrusting of government types nature, with his motto being "Trust _No_ One." Terry also enjoys cannabis blunts.
 
-<span id="episode_2_luminance_fugue"></span><span id="Episode_2:_Luminance_Fugue"></span><span id="episode_2:_luminance_fugue"></span><span id="episode-2-luminance-fugue"></span>
+<!-- #what_one_man_can_do -->
+​
 
-## [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)
+<!-- #What_One_Man_Can_Do -->
+​
 
-<span id="what_one_man_can_do"></span><span id="What_One_Man_Can_Do"></span><span id="what-one-man-can-do"></span>
+<!-- #What_one_man_can_do -->
+​
 
+<!-- #what-one-man-can-do -->
 ### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
 > “__...[static]... This is...Mills...come in...  
@@ -76,12 +84,10 @@ He is a man of a conspiratorial/distrusting of government types nature, with his
 
 Terry is first heard on a radio broadcast as [Will Mackenzie](./Will%20Mackenzie.md) attempts to contact Perseverance Mills when [Jeremiah's](./Jeremiah.md) shortwave radio is powered by the [Aurora](./Aurora.md), in order to locate [Astrid Greenwood](./Astrid%20Greenwood.md). He intercepts a distress call from the Mills, with a man on the radio mentioning needing help and a quarantine. Before Mackenzie can ask what the problem is or if Astrid is at the Mills, the shortwave radio shorts out and contact is lost.
 
-<span id="episode_3_crossroads_elegy"></span><span id="Episode_3:_Crossroads_Elegy"></span><span id="episode_3:_crossroads_elegy"></span><span id="episode-3-crossroads-elegy"></span>
+<!-- #Aftermath -->
+​
 
-## [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-<span id="aftermath"></span><span id="Aftermath"></span>
-
+<!-- #aftermath -->
 ### [Aftermath](./Aftermath.md)
 
 > “__...[static]... Come in... We need...help... There's some kind of...quarantine...situation.  
@@ -90,12 +96,16 @@ Terry is first heard on a radio broadcast as [Will Mackenzie](./Will%20Mackenzie
 
 The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signal%20Hill.md), this time from Astrid Greenwood's perspective. The broadcast is mostly the same, but with slightly more dialogue.
 
-<span id="episode_5_the_light_at_the_end_of_all_things"></span><span id="Episode_5:_The_Light_At_The_End_Of_All_Things"></span><span id="episode_5:_the_light_at_the_end_of_all_things"></span><span id="episode-5-the-light-at-the-end-of-all-things"></span>
+<!-- #a_cry_for_help -->
+​
 
-## [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+<!-- #A_Cry_For_Help -->
+​
 
-<span id="a_cry_for_help"></span><span id="A_Cry_For_Help"></span><span id="a-cry-for-help"></span>
+<!-- #A_cry_for_help -->
+​
 
+<!-- #a-cry-for-help -->
 ### [A Cry For Help](./A%20Cry%20For%20Help.md)
 
 > “**Ok. So about 10 days ago, Doc Larsen asked me to start broadcasting a quarantine message.**”
@@ -112,18 +122,18 @@ Terry appears at the end of the mission, excitedly leading in [Mathis](./Mathis.
 
 Terry is then taken prisoner inside Cooper's Blind along with the other residents of the town after this point.
 
-<span id="conflagration"></span><span id="Conflagration"></span>
+<!-- #Conflagration -->
+​
 
+<!-- #conflagration -->
 ### [Conflagration](./Conflagration.md)
 
 Terry is last seen in the bunker under the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), residing with the other survivors of Perseverance Mills after having escaped the town.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Trivia -->
+​
 
-## Gallery
-
-<span id="trivia"></span><span id="Trivia"></span>
-
+<!-- #trivia -->
 ## Trivia
 
 - He is listed as "Radio Voice Man" in Episode 2 and 3, and is voiced by Noel Johansen.

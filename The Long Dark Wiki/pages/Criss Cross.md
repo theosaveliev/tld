@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Criss Cross**
 
 [Criss Cross](../assets/Criss_Cross.jpg)
@@ -25,7 +23,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **General**
 
 Has no shelter **Criss Cross** is a location in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
-
-<span id="overview"></span><span id="Overview"></span>
-
-## Overview

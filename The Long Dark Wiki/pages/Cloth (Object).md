@@ -35,8 +35,10 @@ Wintermute
 
 Yes **Cloth (Object)** are harvestable interactable objects mainly found inside homes and beds. They come in varying sizes but can be harvested by hand or with a [Hunting Knife](./Hunting%20Knife.md) to obtain [Cloth](./Cloth.md).
 
-<span id="blanket"></span><span id="Blanket"></span>
+<!-- #Blanket -->
+​
 
+<!-- #blanket -->
 ## Blanket
 
 Found near many beds and couches inside homes and cabins.
@@ -47,8 +49,10 @@ Found near many beds and couches inside homes and cabins.
 | 3 | 9 minutes |  | -2% Hunting Knife |
 | 3 |  |  | -3% Improvised Knife |
 
-<span id="scarf"></span><span id="Scarf"></span>
+<!-- #Scarf -->
+​
 
+<!-- #scarf -->
 ## Scarf
 
 Found hanging on coat racks inside homes.
@@ -59,8 +63,10 @@ Found hanging on coat racks inside homes.
 | 1 | 4 minutes | 11 | -2% Hunting Knife |
 | 1 | 4 minutes | 14 | -3% Improvised Knife |
 
-<span id="bedsheet"></span><span id="Bedsheet"></span>
+<!-- #Bedsheet -->
+​
 
+<!-- #bedsheet -->
 ## Bedsheet
 
 Found in bunkers and the Far Territory regions.
@@ -71,14 +77,24 @@ Found in bunkers and the Far Territory regions.
 | 5 | 18 minutes | 54 | -2% Hunting Knife |
 | 5 | 22 minutes | 68 | -3% Improvised Knife |
 
-<span id="tarp"></span><span id="Tarp"></span>
+<!-- #Tarp -->
+​
 
+<!-- #tarp -->
 ## Tarp
 
 Found in [Signal Void](./Signal%20Void.md) Bunkers, [Prepper Caches](./Prepper%20Cache.md) and the Far Territory regions ([Forsaken Airfield](./Forsaken%20Airfield.md), [Zone of Contamination](./Zone%20of%20Contamination.md)).
 
-<span id="small_tarp"></span><span id="Small_Tarp"></span><span id="small-tarp"></span>
+<!-- #small_tarp -->
+​
 
+<!-- #Small_Tarp -->
+​
+
+<!-- #Small_tarp -->
+​
+
+<!-- #small-tarp -->
 ### Small Tarp
 
 | Cloth | Time | Calories | Condition of Tool |
@@ -87,8 +103,16 @@ Found in [Signal Void](./Signal%20Void.md) Bunkers, [Prepper Caches](./Prepper%2
 | 4 | 14 minutes | 43 | -2% Hunting Knife |
 | 4 | 18 minutes | 54 | -3% Improvised Knife |
 
-<span id="large_tarp"></span><span id="Large_Tarp"></span><span id="large-tarp"></span>
+<!-- #large_tarp -->
+​
 
+<!-- #Large_Tarp -->
+​
+
+<!-- #Large_tarp -->
+​
+
+<!-- #large-tarp -->
 ### Large Tarp
 
 | Cloth | Time | Calories | Condition of Tool |

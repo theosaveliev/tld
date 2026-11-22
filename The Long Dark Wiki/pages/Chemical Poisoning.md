@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Chemical Poisoning**
 
 [Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png)
@@ -40,8 +38,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Chemical Poisoning** is a disease [Affliction](./Afflictions.md) mainly encountered in the [Zone of Contamination](./Zone%20of%20Contamination.md) region of [Great Bear Island](./Great%20Bear%20Island.md) once [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) is fully enveloped. It was added in the Part 4 Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 
-<span id="affliction"></span><span id="Affliction"></span>
+<!-- #Affliction -->
+​
 
+<!-- #affliction -->
 ## Affliction
 
 Being Afflicted with Chemical Poisoning immediately reduces the player's max [Condition](./Condition.md) to 80% (similar to [Burns](./Burns.md), but Condition lost is -20% instead of -25%).
@@ -50,16 +50,26 @@ This Affliction can be purged immediately by using an [Emergency Stim](./Emergen
 
 A side effect of contracting Chemical Poisoning is that the player will lose the [Well Fed](./Well%20Fed.md) bonus, along with the Condition bonus it provides, even if the player's [calorie store](./Hunger.md) is above 0.
 
-<span id="cumulative_afflictions"></span><span id="Cumulative_Afflictions"></span><span id="cumulative-afflictions"></span>
+<!-- #cumulative_afflictions -->
+​
 
+<!-- #Cumulative_Afflictions -->
+​
+
+<!-- #Cumulative_afflictions -->
+​
+
+<!-- #cumulative-afflictions -->
 ## Cumulative Afflictions
 
 Unlike Burns, it is possible to have multiple stacks of Chemical Poisoning, causing even more Condition reduction to occur if not treated. The player can have up to 4 different Chemical Poisoning Afflictions (minus 20% Condition each time), with a 5th killing the player.
 
 Using an Emergency Stim will only clear 1 Chemical Poisoning Affliction if multiple are acquired.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![An example of what happens to the screen when standing in a Chemical Hazard unprotected](../assets/Chemical_Hazard_Hud.jpg)

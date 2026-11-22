@@ -16,8 +16,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Prepper's Pie**
 
 [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png)
@@ -50,8 +48,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Prepper's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Prepper's Pie** is a unique recipe with a powerful Condition-restoring effect similar to [Dockworker's Pie](./Dockworker%27s%20Pie.md). It requires a combination of natural and artificial ingredients, and is learned from a recipe card that spawns randomly in one of nine [Prepper Cache](./Prepper%20Cache.md) bunkers. While it is marginally less calorie-efficient than its ingredients (total of 1200 kcal vs the pie's 1125 kcal), it has powerful effects--namely a large amount of [Condition](./Condition.md) restoration. This allows it to form a similar function to the rare [Emergency Stim](./Emergency%20Stim.md).
@@ -62,8 +62,10 @@ Most of the ingredients for Prepper's Pie are relatively common. However, Burdoc
 
 **Note**: [Prepared Burdock](./Prepared%20Burdock.md) and [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) cannot be used in Prepper's Pie, instead requiring their raw forms.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - +15% [Stamina](./Stamina.md) (instant)
@@ -72,12 +74,13 @@ Most of the ingredients for Prepper's Pie are relatively common. However, Burdoc
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - [Burdened](./Burdened.md) -3kg Carry Weight (for 1 hour)
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Prepper's Pie**
-
 
 80.0 minutes (1 hour 20 minutes)
 
@@ -109,14 +112,24 @@ Most of the ingredients for Prepper's Pie are relatively common. However, Burdoc
 
 **Quantity:** 1
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ### Location
 
 The recipe can be found inside a "Stockpile" [Prepper Cache](./Prepper%20Cache.md), the one with a kitchen counter inside. It is also possible to find the recipe inside a [Cardboard Box](./Cardboard%20Box.md) inside an Abandoned Prepper Cache on [Interloper](./Interloper.md)/[Misery](./Misery.md), as all Caches are Abandoned by default on these modes.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

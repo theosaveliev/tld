@@ -28,8 +28,10 @@
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Blackrock](./Blackrock.md). It is inside [Blackrock Prison](./Blackrock%20Prison.md) inside the 1st floor, in the guard room next to cell no. 11.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Note**_
@@ -40,10 +42,20 @@ We broke into the store rooms. There was lots to grab. More than we expected.
    
  -- J
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
+
+[ru:Записка (Здание тюрьмы)](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D1%8B%29)

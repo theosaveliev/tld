@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Canned Pineapple**
 
 [Canned Pineapple icon](../assets/Canned_Pineapple_icon.png)
@@ -50,8 +48,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Canned Pineapple** is a canned [food](./Food%20And%20Drink.md) item in _The Long Dark_ found only when trading with the [Trader](./Trader.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Consuming Canned Pineapple restores a moderate amount of calories and hydration. It may also be warmed by a [Fire](./Fire.md), to make progress in [Cooking](./Cooking.md) [Survival Skill](./Skills.md), and consumed while hot to grant the benefit [Warming Up](./Warming%20Up.md). Canned Pineapple has relatively low energy density (on par with that of cooked meats), making them relatively inefficient as a travel food.
@@ -60,8 +60,10 @@ Like other canned foods, Canned Pineapple may be opened with a [Can Opener](./Ca
 
 Canned Pineapple cannot be found as loot and is only acquired from the Trader, making it more difficult to acquire than similar [Pinnacle Peaches](./Pinnacle%20Peaches.md) but unlike other canned goods Pineapples are renewable.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Canned Pineapple is packaged as "FINE &amp; JUICY PINEAPPLE_"_.
@@ -69,7 +71,3 @@ Canned Pineapple cannot be found as loot and is only acquired from the Trader, m
 - Unlike other canned goods that must be opened with a bladed tool, Canned Pineapples does not have an open can icon in the Backpack after being opened.
 
 ![An opened Canned Pineapple](../assets/Canned_Pineapple_opened.jpg)
-
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
-
-## Update history

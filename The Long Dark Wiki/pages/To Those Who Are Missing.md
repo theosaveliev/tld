@@ -24,19 +24,13 @@ Episode
 
 **To Those Who Are Missing** is the second mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Search the Wilds.
   - Find the Constable along the river in Perseverance Wilds
   - Find a missing Patient in Perseverance Wilds
   - Find a missing Person in Perseverance Wilds
-
-<span id="walkthrough"></span><span id="Walkthrough"></span>
-
-## Walkthrough
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

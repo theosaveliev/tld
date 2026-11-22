@@ -38,14 +38,18 @@
 
 **Running Shoes** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The running shoes are a common starting item. They're lightweight, but they don't offer much warmth or protection, and the waterproofing is nonexistent. It is recommended to replace them, as they don't offer much of anything, and it is highly ill-advised to repair them, as they require valuable cured leather for repairs, and they only give 20% condition back per repair, making it extremely expensive to repair, especially for an inferior item. However, the shoes should still be picked up when found, as they can be harvested for two pieces of cured leather, which can be used to repair top-tier shoes such as [Mukluks](./Mukluks.md) and [Insulated Boots](./Insulated%20Boots.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Sneakers.png)
@@ -54,8 +58,16 @@ The running shoes are a common starting item. They're lightweight, but they don'
 
 ![Clothing model icon](../assets/Running_Shoes_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -29,8 +29,10 @@
 
 The **Ghost Stag** is a legendary [Deer](./Deer.md) rumored to be located within [Pleasant Valley](./Pleasant%20Valley.md) and is sought after in the [Tall Tales](./Tall%20Tales.md) side mission of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). It is an albino Deer and the only one of its kind in the game.
 
-<span id="story"></span><span id="Story"></span>
+<!-- #Story -->
+​
 
+<!-- #story -->
 ## Story
 
 The Ghost Stag is first learned about by the player after reading the book [Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md). This book can be found in the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md) within [Pleasant Valley](./Pleasant%20Valley.md).
@@ -39,8 +41,10 @@ After reading this book, the Ghost Stag will appear after the player sleep insid
 
 Once the player leaves the Snow Shelter, the Ghost Stag will run away upon spotting the player. It cannot be killed, even if shot repeatedly by the player, and will simply run off and despawn after enough time passes.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Ghost Stag](../assets/Ghost_stag.jpg)

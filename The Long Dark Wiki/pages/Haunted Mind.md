@@ -30,8 +30,10 @@
 
 **Haunted Mind** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “__You experience an endless inner turmoil.  
@@ -42,8 +44,10 @@
 
 Haunted Mind is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stages 2-4 of Misery. It reduces the survivor's Condition recovery while Sleeping and limits the maximum number of hours they can sleep consecutively.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - Maximum consecutive [Sleep](./Sleep.md) hours capped at 7 (normally 12)

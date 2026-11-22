@@ -32,8 +32,16 @@
 
 A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Curing.md) into a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). A fresh hide takes 10 days to cure.
 
-<span id="drop_sources"></span><span id="Drop_sources"></span><span id="drop-sources"></span>
+<!-- #drop_sources -->
+​
 
+<!-- #Drop_sources -->
+​
+
+<!-- #Drop_Sources -->
+​
+
+<!-- #drop-sources -->
 ## Drop sources
 
 | Source | Quantity | Rarity |
@@ -44,9 +52,19 @@ A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Cu
 
 ![Old icon](../assets/Cougar_Hide_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
+
+[ru:Свежая шкура пумы](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D0%BF%D1%83%D0%BC%D1%8B)

@@ -14,14 +14,18 @@
 
 A **Potato Sack** is an interactable storage container in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 They are often found in many homes and typically yield 5 [Potatoes](./Potato.md) when searched. The brand on the sack says Perfect Potatoes, and are 10 lbs sacks meant for cold storage.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 - [Camp Office](./Camp%20Office.md)

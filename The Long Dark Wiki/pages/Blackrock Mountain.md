@@ -26,8 +26,10 @@ Has no shelter
 
 **Blackrock Mountain** is a landmark in [Blackrock](./Blackrock.md) that can be seen throughout most of the region, as well as the reason for the region's namesake. The base of the mountain can be passed when heading to and from the [Last Prospect](./Last%20Prospect.md) mine. The mountain is large enough that it can be seen throughout most of the region, as well as appearing as a landmark on the World [Map](./Map.md) of Lower Great Bear.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The mountain as seen from Foreman's Clearcut](../assets/Foreman%27s_Clearcut.jpg)

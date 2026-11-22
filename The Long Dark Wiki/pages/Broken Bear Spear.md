@@ -34,14 +34,24 @@
 
 **Broken Bear Spear** is a [Tools](./Tools.md) item found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is found hanging over the [Fireplace](./Fireplace.md) in the [Hunting Lodge](./Hunting%20Lodge.md), and must be repaired with a [Spear Head](./Spear%20Head.md) crafted at a [Forge](./Forge.md) in order to restore it to a usable [Bear Spear](./Bear%20Spear.md). It is one of the few key items to have weight, weighing 3.75 kg, and is found in the [Collectibles](./Collectibles.md) tab, likely so it cannot be dropped and lost.
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
 ## Survival Mode
 
 It can be spawned via Console Commands in Survival Mode, but cannot be found otherwise.
@@ -52,8 +62,16 @@ Despite being unable to be broken down in Wintermute, a harvest option is presen
 
 ![Mackenzie picking up the spear](../assets/Bear_spear_hunting_lodge.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

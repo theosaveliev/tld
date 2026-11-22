@@ -18,8 +18,10 @@
 
 Provides some shelter **Poacher's Camp** is one of the few marked locations within [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Poacher's Camp is nestled inside a railway car, situated partway down the track that bisects Forlorn Muskeg. The car is surrounded by broken trees and other railway cars, and the entire assemblage is surrounded by portions of weak ice and [Cat Tail](./Cat%20Tail.md).
@@ -34,8 +36,12 @@ It's a perfect place to hunt the [bear](./Bear.md) nearby.
 
 The location is not considered indoors. Saplings and hides will **not** cure if left inside the train car.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Aerial view of Poacher's Camp](../assets/Forlorn_Muskeg_Poacher%27s_Camp.jpg)
+
+[ru:Лагерь браконьеров](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B1%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D1%8C%D0%B5%D1%80%D0%BE%D0%B2)

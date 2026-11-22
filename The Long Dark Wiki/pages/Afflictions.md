@@ -18,8 +18,10 @@
 
 ![Afflictions icon](../assets/Afflictions_icon.png) **Afflictions** are mostly temporary medical conditions that affect the player's ability to survive.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Afflictions can be acquired by the player through gameplay, and any current active Afflictions can be viewed in the menu.
@@ -29,8 +31,10 @@ There are two types of afflictions:
 - Positive afflictions: Referred to in-game as **Benefits**, confer favorable effects and are identifiable by a green status icon
 - Negative afflictions: Referred to simply as **Afflictions**, inflict harmful effects and are represented by a yellow risk or red afflicted status icon.
 
-<span id="benefits"></span><span id="Benefits"></span>
+<!-- #Benefits -->
+​
 
+<!-- #benefits -->
 ## Benefits
 
 Benefits are temporary status effects that provide positive effects to the player. They are gained by consuming certain foods, drinks, or recipes, wearing specific accessories, using First Aid items, or by avoiding starvation.
@@ -52,8 +56,22 @@ There are currently 11 different Benefits.
 | [Warming Up icon](../assets/Warming_Up_icon.png) | [Warming Up](./Warming%20Up.md) | Consume HOT food/drinks | - Significantly slows Warmth loss when 'feels like' is negative. | 1 hour |
 | [Well Fed icon](../assets/Well_Fed_icon.png) | [Well Fed](./Well%20Fed.md) | Calorie Store must not hit 0 for at least 72 hours | - +5% maximum Condition (for 105% total maximum)<br>- Increases carrying capacity by 5kg (11lbs). | Until starving (Calorie Store becomes 0) |
 
-<span id="benefit_like_causing_items"></span><span id="Benefit-Like_Causing_Items"></span><span id="benefit-like_causing_items"></span><span id="benefit-like-causing-items"></span>
+<!-- #benefit_like_causing_items -->
+​
 
+<!-- #Benefit-Like_Causing_Items -->
+​
+
+<!-- #benefit-like_causing_items -->
+​
+
+<!-- #Benefit-like_causing_items -->
+​
+
+<!-- #Benefit-like_Causing_Items -->
+​
+
+<!-- #benefit-like-causing-items -->
 ## Benefit-Like Causing Items
 
 The following items have positive secondary effects associated with them that give Benefit-like effects when equipped/used, despite no Affliction being present in the Stats menu. These Benefits are not immediately obvious, but gameplay altering effects do occur once these items are used/worn.
@@ -67,8 +85,10 @@ The following items have positive secondary effects associated with them that gi
 | Wildlife Deterring Effect | Carry[Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | - [Wolves](./Wolf.md) have a chance to flee upon seeing the player. | When deploying/carrying a Bear Skin Bedroll |
 | [Wildlife Deterring Effect](./Pumpkin%20Pie.md#Wildlife_deterring_effect) | Consume[Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png) [Pumpkin Pie](./Pumpkin%20Pie.md) | - [Wolves](./Wolf.md) always run away from the player. (only present during the [4 Days of Night](./4%20Days%20of%20Night%20Event.md) event). | 6 hours |
 
-<span id="afflictions"></span><span id="Afflictions"></span>
+<!-- #Afflictions -->
+​
 
+<!-- #afflictions -->
 ## Afflictions
 
 Afflictions are temporary or permanent status effects that cause Condition loss or detrimental effects to the player. Most afflictions are treatable, however treatments may require multiple doses (and time between each dose) to cure. Treatments are mostly affliction-specific, and when taken must be selected to treat affliction for their effect.
@@ -88,8 +108,10 @@ Acquiring an Affliction will always list the origin. A list of Affliction source
 
 There are 39 different Afflictions, which can be sorted into two categories: injuries and diseases.
 
-<span id="injuries"></span><span id="Injuries"></span>
+<!-- #Injuries -->
+​
 
+<!-- #injuries -->
 ### Injuries
 
 Injuries are Afflictions that cause instantaneous damage to the player, and can be caused by falling, animal struggles, exposure to the elements, and steep terrain. Frostbite is a notable exception, being a permanent injury that occurs after the "Frostbite Risk" reaches 100%.
@@ -114,8 +136,10 @@ Injuries are Afflictions that cause instantaneous damage to the player, and can 
 | [Suffocation icon](../assets/Suffocation_icon.png) | [Suffocation](./Suffocation.md) | Being inside polluted air found in [Last Prospect](./Last%20Prospect.md) and [Langston Mine](./Langston%20Mine.md). | - Deteriorating vision, loss of hearing.<br>- _**Instant Death**_ after the timer reaches 0 | Length of the timer (30-60 real life seconds) | Exit the polluted air Wear a[Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with[Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md) |
 | [Torn Clothing icon](../assets/Torn_Clothing_icon.png) | [Torn Clothing](./Torn%20Clothing.md) | [Struggles](./Struggle.md) with wildlife, falling | - Small amount of condition loss for outermost layer of clothing | Immediate effect | Status effect disappears shortly after injury |
 
-<span id="diseases"></span><span id="Diseases"></span>
+<!-- #Diseases -->
+​
 
+<!-- #diseases -->
 ### Diseases
 
 Diseases are Afflictions that build up as a visible yellow "Affliction Risk" and then physically deteriorate the body once the meter is full, with most diseases requiring some form of treatment in order to heal the player (though some will pass over time.) Though rare, some diseases are purely psychological in nature, but can be just as detrimental to a player's survival as a physical disease.
@@ -136,8 +160,16 @@ Actions that increase risk of disease include drinking unsafe water, consuming r
 | [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | Consuming [Bear](./Bear%20Meat%20%28Raw%29.md), [Cougar Meat](./Cougar%20Meat%20%28Raw%29.md), or [Wolf Meat](./Wolf%20Meat%20%28Raw%29.md) (on Stalker or Interloper mode) | - -2% Maximum [Condition](./Condition.md) per day<br>- -2% Maximum [Fatigue](./Fatigue.md) per day | Until treated | 2[Antibiotics icon](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) (or 1[Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/1[Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)) once a day for 10 days (240 hours) on Stalker; 20 days (480 hours) on Interloper |
 | [Scurvy icon](../assets/Scurvy_icon.png) | [Scurvy](./Scurvy.md) | Not eating enough foods rich in Vitamin-C | - Carry Capacity debuff of 5 Kg<br>- Stamina drain multiplier of 1.5<br>- Fatigue multiplier of 1.5<br>- Lose 1 point of [Condition](./Condition.md) per hour until the affliction is cured or until death | Until treated | Eat foods high in Vitamin-C |
 
-<span id="darkwalker_afflictions"></span><span id="Darkwalker_Afflictions"></span><span id="darkwalker-afflictions"></span>
+<!-- #darkwalker_afflictions -->
+​
 
+<!-- #Darkwalker_Afflictions -->
+​
+
+<!-- #Darkwalker_afflictions -->
+​
+
+<!-- #darkwalker-afflictions -->
 ## Darkwalker Afflictions
 
 The following Afflictions can only be encountered in the Challenge [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).
@@ -148,8 +180,16 @@ The following Afflictions can only be encountered in the Challenge [Escape the D
 | [Fear icon](../assets/Fear_icon.png) | [Fear](./Fear.md) | Being less than 50m (~164 feet) from The Darkwalker | - -50% [Condition](./Condition.md) per minute (real-time) | Immediate effect | Moving further than 50m from The Darkwalker |
 | [Toxic Fog icon (severe)](../assets/Toxic_Fog_icon_%28severe%29.png) | [Toxic Fog](./Toxic%20Fog.md) | Staying within a Region after Toxic Fog reaches Level 3 (timer reaches 2 minutes or less) | - All food and drink is instantly RUINED and provides 0 calories<br>- Rapid loss of Condition<br>- All Wildlife dies within the Region | Infinite | Leave Region with Level 3 Toxic Fog |
 
-<span id="misery_mode_afflictions"></span><span id="Misery_Mode_Afflictions"></span><span id="misery-mode-afflictions"></span>
+<!-- #misery_mode_afflictions -->
+​
 
+<!-- #Misery_Mode_Afflictions -->
+​
+
+<!-- #Misery_mode_afflictions -->
+​
+
+<!-- #misery-mode-afflictions -->
 ## Misery Mode Afflictions
 
 All Afflictions unique to [Misery Mode](./Misery.md) are permanent. Some Afflictions appear when at different stages.
@@ -163,8 +203,16 @@ All Afflictions unique to [Misery Mode](./Misery.md) are permanent. Some Afflict
 | [Haunted Mind icon](../assets/Haunted_Mind_icon.png) | [Haunted Mind](./Haunted%20Mind.md) | Stage 2: Sorrow<br>Stage 3: Despair<br>Stage 4: Torment | - Maximum consecutive [Sleep](./Sleep.md) hours capped at 7 (normally 12)<br>- -50% Condition recovered by Sleep | Permanent |
 | [Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | Stage 5: Ruin | - All forms of [Condition](./Condition.md) recovery are disabled (Passive from met [Needs](./Needs.md), [Sleep](./Sleep.md) and all [Items](./Emergency%20Stim.md))<br>- +100% Condition damage taken (double damage taken)(all sources) | Permanent |
 
-<span id="cheat_death_afflictions"></span><span id="Cheat_Death_Afflictions"></span><span id="cheat-death-afflictions"></span>
+<!-- #cheat_death_afflictions -->
+​
 
+<!-- #Cheat_Death_Afflictions -->
+​
+
+<!-- #Cheat_death_afflictions -->
+​
+
+<!-- #cheat-death-afflictions -->
 ## Cheat Death Afflictions
 
 If the player chooses to [Cheat Death](./Cheat%20Death.md), they will be given 2 Afflictions.
@@ -174,8 +222,16 @@ If the player chooses to [Cheat Death](./Cheat%20Death.md), they will be given 2
 | [Cheated Death Penalty icon](../assets/Cheated_Death_Penalty_icon.png) | [Cheated Death Penalty](./Cheated%20Death%20Penalty.md) | Cheated Death | - Long Term Penalty (permanent)<br>- -25%, -35%, -50% Condition (per death)<br>- Short Term Penalty (temporary)<br>- -50%, -60%, -75% Condition (per death) | - Short Term Penalty: Recovery Hours dependent on Experience and number of Deaths<br>- Long Term Penalty: Permanent Affliction | None |
 | [Weakened State icon](../assets/Weakened_State_icon.png) | [Weakened State](./Weakened%20State.md) | Cheated Death | - [Condition](./Condition.md) and [Stamina](./Stamina.md) recovery are halved<br>- A Black and White filter is placed over the world | Recovery Hours dependent on Experience and number of Deaths. | None |
 
-<span id="wintermute_afflictions"></span><span id="Wintermute_Afflictions"></span><span id="wintermute-afflictions"></span>
+<!-- #wintermute_afflictions -->
+​
 
+<!-- #Wintermute_Afflictions -->
+​
+
+<!-- #Wintermute_afflictions -->
+​
+
+<!-- #wintermute-afflictions -->
 ## Wintermute Afflictions
 
 The following Afflictions can only be encountered in [Wintermute](./Wintermute.md). These Afflictions do not affect the player character, but rather a [Crash Survivor](./Crash%20Survivor.md).
@@ -187,8 +243,16 @@ The following Afflictions can only be encountered in [Wintermute](./Wintermute.m
 | [Dehydrated icon](../assets/Dehydrated_icon.png) | [Dehydrated](./Dehydrated.md) | Affects a Crash Survivor, Lack of water | Loss of Condition | Until Healed or Death | Drink [Water (Potable)](./Water%20%28Potable%29.md) |
 | [Hyperglycemic Risk icon](../assets/Hyperglycemic_Risk_icon.png) | [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) | Dimitri has Type-1 Diabetes and has high blood sugar | None | Scripted | [Insulin](./Insulin.md) |
 
-<span id="removed_afflictions"></span><span id="Removed_Afflictions"></span><span id="removed-afflictions"></span>
+<!-- #removed_afflictions -->
+​
 
+<!-- #Removed_Afflictions -->
+​
+
+<!-- #Removed_afflictions -->
+​
+
+<!-- #removed-afflictions -->
 ## Removed Afflictions
 
 The following Affliction has been removed from the game:

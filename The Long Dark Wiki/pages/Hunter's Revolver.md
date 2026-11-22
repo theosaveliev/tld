@@ -17,8 +17,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Hunter's Revolver**
 
 [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png)
@@ -53,22 +51,34 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Hunter's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Hunter's Revolver is an artfully engraved and blued firearm with a distinct ivory grip featuring a diamond shaped insert. It has an extra long barrel enabling it to land hits from twice as far away, but the extra material makes it weigh 0.25 Kg more than the standard revolver.
 
 Instead of rear iron sights, the hunters revolver has a front sight post on the back which can make aiming a challenge.
 
-<span id="revolver_range"></span><span id="Revolver_Range"></span><span id="revolver-range"></span>
+<!-- #revolver_range -->
+​
 
+<!-- #Revolver_Range -->
+​
+
+<!-- #Revolver_range -->
+​
+
+<!-- #revolver-range -->
 ## Revolver Range
 
 The range increase is applied to a ray-trace fired from the center of the screen when a shot is fired, normally the standard Revolver's ray-trace range is about 30 meters long, but the Hunter's Revolver's is 60 meters long. Past this range the weapon will be unable to damage any [Wildlife](./Wildlife.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 The Hunter's Revolver can be found in [Prepper Caches](./Prepper%20Cache.md), specifically the hunting Cache containing many animal furs. Prepper Caches can spawn in several different regions and will only spawn once per region.
@@ -80,16 +90,29 @@ It can be found:
 - In a bucket next to a [Work Bench](./Work%20Bench.md)
 - Under the Work Bench
 
-<span id="differences_from_revolver"></span><span id="Differences_from_Revolver"></span><span id="differences-from-revolver"></span>
+<!-- #differences_from_revolver -->
+​
 
+<!-- #Differences_from_Revolver -->
+​
+
+<!-- #Differences_from_revolver -->
+​
+
+<!-- #Differences_From_Revolver -->
+​
+
+<!-- #differences-from-revolver -->
 ## Differences from Revolver
 
 - Base weight is 0.25kg more than the Revolver
 - Range is 100% more than the Revolver
 - Has two front posts as its iron sights
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The revolver's location under the workbench](../assets/Hunter%27sRevolverBench.jpg)
@@ -98,9 +121,19 @@ It can be found:
 
 ![Hunter's Revolver Ground Model](../assets/Hunters_Revolver_Ground_Model_High_res.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Охотничий револьвер](https://ru.wikipedia.org/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80)

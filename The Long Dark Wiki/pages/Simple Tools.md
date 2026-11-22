@@ -24,8 +24,10 @@
 
 **Simple Tools** are a Tool item used for crafting simple items and repairing equipment.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Simple tools weigh 1.0 kilogram. Simple tools can repair an item 25% faster than without any tools. They also increase the chance of a successful repair by 10%.
@@ -57,3 +59,5 @@ Simple Tools can also be used to decrease the [Crafting](./Crafting.md) times of
 - [Simple Arrow](./Simple%20Arrow.md)
 - [Improvised Crampons](./Improvised%20Crampons.md)
 - [Fishing Tip-Up](./Fishing%20Tip-Up.md)
+
+[ru:Простые инструменты](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)

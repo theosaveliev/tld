@@ -34,8 +34,10 @@
 
 Very little information about Molly's Husband is known outside of Molly's biased testimony of him. His real name is unknown and the local area of Pleasant Valley has no notes mentioning his name or past behavior.
 
-<span id="backstory"></span><span id="Backstory"></span>
+<!-- #Backstory -->
+​
 
+<!-- #backstory -->
 ## Backstory
 
 Married to Molly at an undisclosed date in the past, Molly's Husband lived with his wife on the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) in [Pleasant Valley](./Pleasant%20Valley.md) for many years. It is heavily implied that the marriage between the two was an abusive one, given Molly's misandrist outlook regarding men as she begins to open up to Astrid more and more. An uncomfortable family photo of the two can be found inside the Farmstead. Molly would later angrily remark that her life could have been better had she been anything but a simple farmer's wife, showing the depths of the abusive relationship she shared with her husband.
@@ -46,8 +48,10 @@ Molly would later drive off the wolves and recover her husband's body along with
 
 Though Molly feels more liberated than ever, Molly's has developed an unhealthy and highly misandrist stance regarding men even long after her husband's death. Molly's hatred of men can be seen in her brutal interactions with the local [Convicts](./Convicts.md), silently hunting them with a bow and arrow and leaving their corpses in the snow where they fall, often not even bothering to recover the arrow still attached to their bodies.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Molly's Husband once the cloth is pulled back.](../assets/Molly%27s_Husband.jpg)

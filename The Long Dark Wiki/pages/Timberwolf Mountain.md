@@ -46,8 +46,10 @@
 
 **Timberwolf Mountain** is the 5th [Region](./Region.md) to be introduced in _[The Long Dark](./The%20Long%20Dark.md)_. It's commonly considered one of the most difficult regions to survive in due to frigid temperatures (sub -20C / -4F almost every day) and frequent blizzards (usually at least three per week). These conditions limit the time a player can safely travel outside with anything less than top-quality clothing, and the lack of warm indoor shelters means maintaining [campfires](./Campfire.md) is critical.
 
-<span id="entrances"></span><span id="Entrances"></span>
+<!-- #Entrances -->
+​
 
+<!-- #entrances -->
 ## Entrances
 
 Timberwolf Mountain connects to three other regions, via four distinct entrances:
@@ -57,8 +59,10 @@ Timberwolf Mountain connects to three other regions, via four distinct entrances
 - A cave near [Deer Clearing](./Deer%20Clearing.md) leads to [Pillar's Footrest](./Pillar%27s%20Footrest.md) in [Ash Canyon](./Ash%20Canyon.md).
 - A cave at the end of [Echo Ravine](./Echo%20Ravine.md) also leads to [Ash Canyon](./Ash%20Canyon.md), at a ledge overlooking [Bitter Marsh](./Bitter%20Marsh.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Timberwolf Mountain is described as pure wilderness with a mountainous expanse almost entirely lacking in man-made shelters. It has steep cliffs and ravines that require [Rope Climbing](./Rope%20Climbing.md) to navigate to several locations.<span id="fnref1"></span>[¹](#fn1)
@@ -69,8 +73,10 @@ Another defining feature is the large jet that crashed on the summit of the moun
 
 Additionally, there are [Cargo Containers](./Cargo%20Container.md) from the plane scattered across the region, mostly near pieces of the wreckage, and with a huge cache in the tail end at the summit. When opened with a [Hacksaw](./Hacksaw.md), these containers can be looted for large amounts of items in a specific category (e.g., canned foods, medicines, or a class of clothing).
 
-<span id="strategy"></span><span id="Strategy"></span>
+<!-- #Strategy -->
+​
 
+<!-- #strategy -->
 ### Strategy
 
 Timberwolf Mountain hosts extreme environmental conditions, requiring careful preparation to ensure survival during any expedition. Wolves and bears constantly patrol the main areas of the map and there are few safe shelters, with little loot inside of those that exist. Due to the limited resources and abundant wildlife, hunting and defending yourself are necessary to survive for an extended period of time.
@@ -79,8 +85,10 @@ A few hundred meters from the end of the pathway to Pleasant Valley is [Crystal 
 
 The path to the [Summit](./Summit.md) is fairly linear, and the tail end of the plane on the summit contains a huge cache of high-tier supplies. End-game manufactured clothing, multiple MRE's, either a [Distress Pistol](./Distress%20Pistol.md) or a corpse with a bag next to it likely to contain [Crampons](./Crampons.md), multiple cured pelts, and multiple tools/weapons can be found in the tail section.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are many accessible locations within the Timberwolf Mountain region, including:
@@ -93,8 +101,10 @@ There are many accessible locations within the Timberwolf Mountain region, inclu
 
 Additionally, a second Landing Gear can be found at the Summit, but this is not considered a location. The cockpit of the crashed plane and the third Landing Gear are also nowhere to be found on or around the mountain.
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #Maps -->
+​
 
+<!-- #maps -->
 ## Maps
 
 ![Timberwolf Mountain map v2.35](../assets/3255435617_preview_TWM_default.jpg)
@@ -105,8 +115,10 @@ Additionally, a second Landing Gear can be found at the Summit, but this is not 
 
 ![Timberwolf mountain titlecard new](../assets/Timberwolf_mountain_titlecard_new.png)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A landscape view of the region.](../assets/Timberwolf_Mountain_landscape_01.jpg)
@@ -139,27 +151,43 @@ _Mountaineer's Hut_
 
 ![Forest Cave on Timberwolf Mountain](../assets/TLD66.png)
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
 
 Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Despite the name, [Timberwolves](./Timberwolf.md) were ironically absent from Timberwolf Mountain until December 2024.
   - Now, a pack may spawn near the [Wing](./Wing.md) and [Crystal Lake](./Crystal%20Lake.md).
 
-<span id="references"></span><span id="References"></span>
+<!-- #References -->
+​
 
+<!-- #references -->
 ## References
 
 &lt;div class="references-small" ;"&gt;
 
-<span id="footnotes"></span>
+[es:Montaña de lobos](https://es.wikipedia.org/wiki/Monta%C3%B1a_de_lobos) [ru:Волчья гора](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0) [fr:Mont Timberwolf](https://fr.wikipedia.org/wiki/Mont_Timberwolf) [de:Wolfsberg](https://de.wikipedia.org/wiki/Wolfsberg)
 
+<!-- #footnotes -->
+​
+
+<!-- #notes -->
 ## Notes
 
 ---

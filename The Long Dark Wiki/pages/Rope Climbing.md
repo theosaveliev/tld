@@ -17,14 +17,18 @@
 
 **Rope Climbing** is a gameplay feature in _[The Long Dark](./The%20Long%20Dark.md)_. ![Rope over cliff. old version](../assets/Rope_way.png)_Rope over cliff. old version_
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Rope climbing allows players to navigate up or down steep cliffs by utilizing a rope anchored on a specific rock at the top of a traverse. While most [Mountaineering Rope](./Mountaineering%20Rope.md) will spawn pre-attached to a climbing spot, there are certain climbing spots that will never have ropes set up. A non-deployed Mountaineering Rope can often be found somewhere nearby, which can be attached to the climbing rock, and then used as normal. Deployed Mountaineering Ropes can be removed and then deployed at other climbing points.
 
-<span id="climbing"></span><span id="Climbing"></span>
+<!-- #Climbing -->
+​
 
+<!-- #climbing -->
 ## Climbing
 
 ![A climbing spot and sign in lower Milton Park near Milton.](../assets/Climbing_sign.jpg)_A climbing spot and sign in lower Milton Park near Milton._ Climbing is the most strenuous activity in-game, draining [Fatigue](./Fatigue.md) and [Stamina](./Stamina.md) rapidly. When stamina reaches zero, the climbing rate slows significantly and there is a chance to slip and fall from the rope.
@@ -37,14 +41,18 @@ Climbing is not possible if the player is encumbered, or has any [Sprained Wrist
 
 If all options are exhausted, an [Emergency Stim](./Emergency%20Stim.md) can be used to ignore these injuries for a very short period, and provide the opportunity to climb to safety. However, not only are stims incredibly rare, they will also completely exhaust the player once their duration expires. Stims will _not allow climbing while encumbered_, and any extra weight should be dumped before using a stim.
 
-<span id="action"></span><span id="Action"></span>
+<!-- #Action -->
+​
 
+<!-- #action -->
 ### Action
 
 Select the deployed rope to begin climbing, then move forward to climb up, or backwards to climb down. Looking around while climbing is possible by stopping mid-climb, but Stamina, Fatigue, and Calories will continue to drain rapidly. It is possible to reverse climbing direction mid-climb, or stop and rest on a Ledge.
 
-<span id="ledges"></span><span id="Ledges"></span>
+<!-- #Ledges -->
+​
 
+<!-- #ledges -->
 ## Ledges
 
 Some cliffs feature ledges midway along their rope course, and are suggested when the white selection dot appears. To enter a ledge, stop climbing and look at the ledge until it highlights, then select it. Resting at a ledge is recommended when climbing up a rope, as stamina can be recovered to increase climbing speed and thus reduce fatigue drain.
@@ -53,8 +61,16 @@ Some cliffs feature ledges midway along their rope course, and are suggested whe
 - Almost all ledges are very cold and exposed, especially if strong winds or blizzards are present.
 - It is not possible to exit or enter a rope mid-climb except at designated ledges.
 
-<span id="slippingfalls"></span><span id="Slipping/Falls"></span><span id="slipping/falls"></span>
+<!-- #Slipping/Falls -->
+​
 
+<!-- #slipping/falls -->
+​
+
+<!-- #Slipping/falls -->
+​
+
+<!-- #slippingfalls -->
 ## Slipping/Falls
 
 When the character runs out of Stamina mid-climb, there is an increasing chance they will slip on the rope. The longer one continues to climb with no Stamina, the greater the chance of slipping.
@@ -64,20 +80,32 @@ When the character runs out of Stamina mid-climb, there is an increasing chance 
 - If one slips as far as the ground, it is equivalent to falling from the original height and bruising injuries, sprain [afflictions](./Afflictions.md), and [condition](./Condition.md) loss will be received accordingly, along with severely tearing clothes.
   - In some cases, Death is even possible.
 
-<span id="descending"></span><span id="Descending"></span>
+<!-- #Descending -->
+​
 
+<!-- #descending -->
 ## Descending
 
 Descending takes far less stamina and is less impacted by fatigue. However, slipping and falling is still possible. Select the rope between where it is tied off but before it turns over the cliff. Move backward to go down. It's possible to stop mid-climb and look around, if desired. If there is no rope available, or the player is encumbered, it is sometimes possible to "mountain goat" down a cliff. The trick here is to select a location with the fewest number of overhangs possible, and crouch-walk. As long as the slope of the cliff is anything less than vertical, the player will not fall. This technique must be used carefully, however; sprains and minor condition loss are likely, and one miscalculation could result in a lethal fall.
 
-<span id="deploying_ropes"></span><span id="Deploying_ropes"></span><span id="deploying-ropes"></span>
+<!-- #deploying_ropes -->
+​
 
+<!-- #Deploying_ropes -->
+​
+
+<!-- #Deploying_Ropes -->
+​
+
+<!-- #deploying-ropes -->
 ## Deploying ropes
 
 ![Rope tied off. old version](../assets/Rope_tie-off.png)_Rope tied off. old version_ Mountaineering ropes can only be attached to or detached from a specific rock formation at the top of a sheer cliff (see image for example of formation; looks like a sharp tooth about 3 meters high). To deploy a rope from inventory, simply select the middle of the rock when close. To detach and take a rope, select the rope where it wraps around the rock. Rope will automatically be placed in inventory. Attaching/detaching a rope takes about 10 minutes.
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 Note: Stamina for climbing is not affected by the Sprint Penalty statistic of worn clothing, but is derived from the same Stamina meter used for sprinting. It is not wise to Sprint prior to a climb without allowing Stamina to recover.
@@ -92,14 +120,24 @@ Note: Stamina for climbing is not affected by the Sprint Penalty statistic of wo
 - In a few rare cases, it may even be possible to avoid a rope climb by navigating up sloped terrain (for example, one can reach the [Lake Overlook](./Lake%20Overlook.md) by marching up the hill in front of the [Camp Office](./Camp%20Office.md)). Even more so than dropping down, climbing steep terrain comes with a high risk of sprains.
 - For players with [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed, eating [Rose Hip Pie](./Rose%20Hip%20Pie.md) or [Peach Pie](./Peach%20Pie.md) before climbing or at a ledge can be helpful to restore Fatigue (15% worth). It may also be useful to eat a [Ptarmigan Pie](./Ptarmigan%20Pie.md), [Rabbit Pie](./Rabbit%20Pie.md), or [Venison Pie](./Venison%20Pie.md), as those will increase carrying capacity by 3 kg.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
 
 Rope Climbing was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) also known as the Timberwolf Mountain update.
 
-<span id="references"></span><span id="References"></span>
+<!-- #References -->
+​
 
+<!-- #references -->
 ## References
 
 &lt;div class="references-small" ;"&gt;

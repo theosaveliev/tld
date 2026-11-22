@@ -24,8 +24,10 @@ Episode
 
 **The Cold, Broken Road** is the first mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<span id="objectives"></span><span id="Objectives"></span>
+<!-- #Objectives -->
+​
 
+<!-- #objectives -->
 ## Objectives
 
 - Find a way to the Suzuki Radio Telescope.
@@ -38,11 +40,3 @@ Episode
   - Visit the kitchen and get some rest.
   - Return to the control room.
   - Get ready for the Geothermal Substations mission.
-
-<span id="walkthrough"></span><span id="Walkthrough"></span>
-
-## Walkthrough
-
-<span id="trivia"></span><span id="Trivia"></span>
-
-## Trivia

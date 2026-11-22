@@ -18,8 +18,10 @@
 
 The **Quilted Bed** is a [Decorations](./Decorations.md) and [Bed](./Bed.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A makeshift wooden bed with bedsheets made from sewn together pieces of cloth, a Quilted Bed can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -33,13 +35,13 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the bed cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the bed will yield no resources, so consider the material cost/time investment before creating this item).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Quilted Bed**
-
-
 
 1200 minutes (20 hour 0 minutes)
 
@@ -60,7 +62,3 @@ Despite having a Backpack carry weight value, the bed cannot be picked up and pl
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 12
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

@@ -26,8 +26,10 @@
 
 **"What I Know"** is a part of the [Journal](./Journal.md) that appears while playing [Wintermute](./Wintermute.md) and provides useful information about [Great Bear Island](./Great%20Bear%20Island.md), its denizens, and how to survive.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 What I Know contains 4 submenus related to all information gathered about the game world's settings, characters, and items, and is divided into:
@@ -39,16 +41,23 @@ What I Know contains 4 submenus related to all information gathered about the ga
 
 Different People, Places, Things, and Actions are different between Episodes. Unlocked information carries over between [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) if they are played in order (until [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) begins)
 
-<span id="people"></span><span id="People"></span>
+<!-- #People -->
+​
 
+<!-- #people -->
 ## People
 
 ![Knowledge What I Know large people](../assets/Knowledge_What_I_Know_large_people.png)
 
 This tab contains all information related to major characters encountered on the Island.
 
-<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+<!-- #episode_1 -->
+​
 
+<!-- #Episode_1 -->
+​
+
+<!-- #episode-1 -->
 ### Episode 1
 
 [Grey Mother](./Grey%20Mother.md)
@@ -65,20 +74,23 @@ In-game description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |”  [Hobbs](./Hobbs.md)
 
-<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+<!-- #Jeremiah -->
+​
 
-### Episode 2
-
-<span id="jeremiah"></span><span id="Jeremiah"></span>
-
+<!-- #jeremiah -->
 ### [Jeremiah](./Jeremiah.md)
 
 > “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
 >
 > — In-game description
 
-<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+<!-- #episode_3 -->
+​
 
+<!-- #Episode_3 -->
+​
+
+<!-- #episode-3 -->
 ### Episode 3
 
 [Molly](./Molly.md)
@@ -97,8 +109,13 @@ In-game description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” 
 
-<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+<!-- #episode_4 -->
+​
 
+<!-- #Episode_4 -->
+​
+
+<!-- #episode-4 -->
 ### Episode 4
 
 [Mathis](./Mathis.md) [Franklin](./Franklin.md)
@@ -123,57 +140,85 @@ In-game description
 >
 > — In-game description
 
-<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+<!-- #episode_5 -->
+​
 
+<!-- #Episode_5 -->
+​
+
+<!-- #episode-5 -->
 ### Episode 5
 
 None
 
-<span id="places"></span><span id="Places"></span>
+<!-- #Places -->
+​
 
+<!-- #places -->
 ## Places
 
 ![Knowledge What I Know large places](../assets/Knowledge_What_I_Know_large_places.png)
 
 Information here was previously found through the cut Trust system (Predux Ep 1 and 2). Redux and onward, all information here is only unlocked when the below notes are found, and is just the entire transcript of these items:
 
-<span id="episode_1_1"></span><span id="episode-1-1"></span>
+<!-- #episode_1_1 -->
+​
 
+<!-- #episode-1-1 -->
 ### Episode 1
 
 - [History of The Collapse](./History%20of%20The%20Collapse.md) (Part 1 and 2)
 - [Town of Milton](./Town%20of%20Milton.md)
 
-<span id="episode_2_1"></span><span id="episode-2-1"></span>
+<!-- #episode_2_1 -->
+​
 
+<!-- #episode-2-1 -->
 ### Episode 2
 
 - [History of The Collapse](./History%20of%20The%20Collapse.md) (Part 3 and 4)
 - [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)
 - [Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md)
 
-<span id="episode_3_1"></span><span id="episode-3-1"></span>
+<!-- #episode_3_1 -->
+​
 
+<!-- #episode-3-1 -->
 ### Episode 3
 
 - [Pleasant Valley History](./Pleasant%20Valley%20History.md)
 
-<span id="episode_4_1"></span><span id="episode-4-1"></span>
+<!-- #episode_4_1 -->
+​
 
+<!-- #episode-4-1 -->
 ### Episode 4
 
 - [Building Blackrock](./Building%20Blackrock.md)
 
-<span id="things"></span><span id="Things"></span>
+<!-- #Things -->
+​
 
+<!-- #things -->
 ## Things
 
 ![Knowledge What I Know large things](../assets/Knowledge_What_I_Know_large_things.png)
 
 Things give tutorials on subjects such as Tools, world objects, wildlife, and journal/mission mechanics.
 
-<span id="episode_1_2_and_3"></span><span id="Episode_1,_2,_and_3"></span><span id="episode_1,_2,_and_3"></span><span id="episode-1-2-and-3"></span>
+<!-- #episode_1_2_and_3 -->
+​
 
+<!-- #Episode_1,_2,_and_3 -->
+​
+
+<!-- #episode_1,_2,_and_3 -->
+​
+
+<!-- #Episode_1,_2,_And_3 -->
+​
+
+<!-- #episode-1-2-and-3 -->
 ### Episode 1, 2, and 3
 
 Controls
@@ -297,8 +342,10 @@ What I Know description
 >
 > — What I Know description
 
-<span id="episode_4_2"></span><span id="episode-4-2"></span>
+<!-- #episode_4_2 -->
+​
 
+<!-- #episode-4-2 -->
 ### Episode 4
 
 Item Confiscation
@@ -327,8 +374,10 @@ Point Of No Return
 >
 > — What I Know description
 
-<span id="episode_5_1"></span><span id="episode-5-1"></span>
+<!-- #episode_5_1 -->
+​
 
+<!-- #episode-5-1 -->
 ### Episode 5
 
 Respirator
@@ -353,8 +402,16 @@ What I Know description
 >
 > — What I Know description
 
-<span id="cut_what_i_know"></span><span id="Cut_What_I_Know"></span><span id="cut-what-i-know"></span>
+<!-- #cut_what_i_know -->
+​
 
+<!-- #Cut_What_I_Know -->
+​
+
+<!-- #Cut_what_i_know -->
+​
+
+<!-- #cut-what-i-know -->
 ### Cut What I Know
 
 [Condition](./Condition.md)
@@ -383,8 +440,10 @@ What I Know description
 >
 > — What I Know description
 
-<span id="actions"></span><span id="Actions"></span>
+<!-- #Actions -->
+​
 
+<!-- #actions -->
 ## Actions
 
 ![Knowledge What I Know large actions](../assets/Knowledge_What_I_Know_large_actions.png)

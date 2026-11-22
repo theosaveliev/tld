@@ -15,34 +15,50 @@ The **almanac** is a tool that can be used in the [Whiteout](./Whiteout.md) [cha
 
 The almanac is accessible through the journal. Each day will be marked with a red "X" when it passes.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - An almanac is an annual publication that includes information such as weather forecasts, farmers' planting dates, tide tables, and tabular information often arranged according to the calendar.<span id="fnref1"></span>[¹](#fn1)
 
 - While the almanac in the game was previously formatted like a calendar, after the Faithful Cartographer update it now has eight days per week.
 
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_history -->
+​
+
+<!-- #Game_History -->
+​
+
+<!-- #game-history -->
 ## Game history
 
 The almanac was first introduced in version [0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) - also known as the Penitent Scholar update - to support gameplay for the [Whiteout](./Whiteout.md) [challenge](./Challenge.md).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The previous almanac](../assets/Almanac.png)
 
-<span id="references"></span><span id="References"></span>
+<!-- #References -->
+​
 
+<!-- #references -->
 ## References
 
 &lt;div class="references-small" ;"&gt;
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

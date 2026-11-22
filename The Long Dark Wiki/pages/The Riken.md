@@ -29,14 +29,18 @@
 
 Has a forge
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Riken is a wrecked whaling ship located between the [Lonely Lighthouse](./Lonely%20Lighthouse.md), [Hibernia Processing](./Hibernia%20Processing.md) and the [Little Island](./Little%20Island.md) (Unmarked location). It sits on top of a rock sticking out of the ice and there is a huge hole in the bottom on one side, which allows access to the interior.
 
-<span id="interior"></span><span id="Interior"></span>
+<!-- #Interior -->
+​
 
+<!-- #interior -->
 ## Interior
 
 The ship has four decks: the boiler deck, upper deck, weather deck and bridge deck.
@@ -47,8 +51,16 @@ The upper deck has bunk beds, a small kitchen to loot, and access to both the bo
 
 The weather deck features an inoperable harpoon gun, direct passage to/from the ice through some broken railings, and stairs to the bridge deck, where you can occasionally find useful items.
 
-<span id="notable_loot"></span><span id="Notable_loot"></span><span id="notable-loot"></span>
+<!-- #notable_loot -->
+​
 
+<!-- #Notable_loot -->
+​
+
+<!-- #Notable_Loot -->
+​
+
+<!-- #notable-loot -->
 ## Notable loot
 
 - [Storm Lantern](./Storm%20Lantern.md) (Shelves in the boiler deck)
@@ -56,8 +68,10 @@ The weather deck features an inoperable harpoon gun, direct passage to/from the 
 - [Rifle Ammunition](./Rifle%20Ammunition.md) (Weather deck and next to shelves in the boiler deck)
 - [Sewing Kit](./Sewing%20Kit.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Furnace room](../assets/The_Riken_-_furnace_room.jpg)

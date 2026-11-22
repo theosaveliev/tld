@@ -20,8 +20,10 @@
 
 Provides some shelter<br>**Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The cave is located on the cliffside in the southwestern most section of the lower valley, right next to [Seedling Spring](./Seedling%20Spring.md). Further south is the crossroads that leads to the transition to [Transfer Pass](./Transfer%20Pass.md). It is reached by scaling a [Rock Climb](./Rock%20Climb.md), and the cave itself is a source of [Coal](./Coal.md), being a great place to shelter if the weather turns bad without risking heading back to [Last Lonely House](./Last%20Lonely%20House.md).

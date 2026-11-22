@@ -51,22 +51,34 @@ Has a bed
 
 Has a workbench|-
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Hibernia Processing is an old whaling station situated almost at the end of Desolation Point. The location is visible from the road, as well as from the top deck of the [Lonely Lighthouse](./Lonely%20Lighthouse.md). The outside area and road is patrolled by several [wolves](./Wolf.md). Preparation for a possible encounter with any predator is highly recommended, but hiding inside one of the smaller structures and sleeping may cause them to drift away, allowing the player to escape.
 
-<span id="the_yard"></span><span id="The_Yard"></span><span id="the-yard"></span>
+<!-- #the_yard -->
+​
 
+<!-- #The_Yard -->
+​
+
+<!-- #The_yard -->
+​
+
+<!-- #the-yard -->
 ## The Yard
 
 The yard area has a group of conjoined trailers on one side; a lone trailer with an outdoor fire barrel sits on the other side of the main building of the Hibernia Processing warehouse. The yard can be accessed from both the road and the coast, either by climbing up the main boat ramp from the east, or climbing through a [Truck](./Truck.md) that is blocking the main gate from the west.
 
 The road up from Hibernia can also spawn a [Moose](./Moose.md) and a nearby [Warm Cave](./Warm%20Cave.md) can spawn a [Bear](./Bear.md).
 
-<span id="interior"></span><span id="Interior"></span>
+<!-- #Interior -->
+​
 
+<!-- #interior -->
 ## Interior
 
 Much of the entire interior is dimly lit, so an artificial light source may be beneficial during most of the day and night. The building is also relatively cold, and players with low-quality clothing may need to start a fire or use a bed to warm up.
@@ -87,20 +99,26 @@ The player can fall through the holes in 2nd floor safely, although this is not 
 
 It is full of whale bones, and certain objects such as pallets, which can make it hard to traverse, and impossible to enter some areas without breaking down something.
 
-<span id="safehouse"></span><span id="Safehouse"></span>
+<!-- #Safehouse -->
+​
 
+<!-- #safehouse -->
 ## Safehouse
 
 Due to its spacious interior and many amenities, along with the nearby forge at [The Riken](./The%20Riken.md), coal in the nearby mines, [beachcombing](./Beachcombing.md), and hunting at [Little Island](./Little%20Island.md), Hibernia Processing has long been a popular [safehouse](./Safehouse.md) for players living in [Desolation Point](./Desolation%20Point.md). Its large interior comes with plenty of storage, and there is more than enough space for extensive [customization](./Safehouse%20Customization.md). The biggest weakness of Hibernia as a safehouse is the region it's in: Desolation Point is a relatively small and isolated region, making it less than ideal for players who wish to travel around the island, especially if they wish to visit the [Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Hibernia (meaning "Land of Winter") is the Classical Latin name for the island of [Ireland](https://en.wikipedia.org/wiki/Hibernia). This could imply that the founders of the company are/were of Irish descent.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Hibernia Processing, view on a corpse from the snowdrift on the maintenance floor.](../assets/Hibernia_Processing_View_On_the_Corpse.jpg)
@@ -124,3 +142,5 @@ Due to its spacious interior and many amenities, along with the nearby forge at 
 ![Hibernia Processing Engine Room, view from the stairs.](../assets/Hibernia_Processing_Engine_Room.jpg)
 
 ![Example location of a battery added with Patch 2.38](../assets/HiberniaProcessingBattery.png)
+
+[ru:Китобойная станция](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%BE%D0%B1%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)

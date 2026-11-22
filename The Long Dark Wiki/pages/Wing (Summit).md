@@ -18,8 +18,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The location of this wing is on the Summit, just between a piece of landing gear and the [Tail Section](./Tail%20Section.md). A [Warm Cave](./Warm%20Cave.md) is found nearby and can be used for shelter.

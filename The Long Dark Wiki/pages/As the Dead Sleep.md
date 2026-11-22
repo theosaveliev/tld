@@ -30,8 +30,10 @@
 
 **As the Dead Sleep**is the 7th [Challenge](./Challenge.md) to be added into the game. In the challenge, you have to visit 5 graves in marked locations around [Great Bear Island](./Great%20Bear%20Island.md). It is considered the hardest Challenge currently in the game (even harder than [Escape the Darkwalker](./Escape%20the%20Darkwalker.md)), and was inspired by the community-created "Deadman" custom difficulty.
 
-<span id="gameplay"></span><span id="Gameplay"></span>
+<!-- #Gameplay -->
+​
 
+<!-- #gameplay -->
 ## Gameplay
 
 > “**Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.**”
@@ -48,8 +50,10 @@ The game is set to [Interloper](./Interloper.md) difficulty, meaning that wildli
 - [Ravine Basin](./Ravine%20Basin.md) in [The Ravine](./The%20Ravine.md)
 - [The Riken](./The%20Riken.md) in [Desolation Point](./Desolation%20Point.md)
 
-<span id="routes"></span><span id="Routes"></span>
+<!-- #Routes -->
+​
 
+<!-- #routes -->
 ## Routes
 
 The most common route for completing this challenge requires visiting the graves in the following order:
@@ -60,8 +64,16 @@ The most common route for completing this challenge requires visiting the graves
   1. Go through the [Winding River](./Winding%20River.md) to [Pleasant Valley](./Pleasant%20Valley.md) to reach [Timberwolf Mountain](./Timberwolf%20Mountain.md), then to [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md), then to [The Ravine](./The%20Ravine.md) and [Ravine Basin](./Ravine%20Basin.md).
   2. Through [The Ravine](./The%20Ravine.md) to go to the [Ravine Basin](./Ravine%20Basin.md), then [Coastal Highway](./Coastal%20Highway.md) and then to [Desolation Point](./Desolation%20Point.md). Then to [Pleasant Valley](./Pleasant%20Valley.md) and off to [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 
-<span id="grave_quotes"></span><span id="Grave_Quotes"></span><span id="grave-quotes"></span>
+<!-- #grave_quotes -->
+​
 
+<!-- #Grave_Quotes -->
+​
+
+<!-- #Grave_quotes -->
+​
+
+<!-- #grave-quotes -->
 ## Grave Quotes
 
 As the player visits each grave, the thoughts of the survivor will be displayed on screen. They will be displayed in the same order no matter what order the graves are found. Notes are generated in the player's inventory when a grave is visited. The quotes are as follows:
@@ -72,8 +84,10 @@ As the player visits each grave, the thoughts of the survivor will be displayed 
 4. Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are? ([Memento Mori 4](./Memento%20Mori%204.md))
 5. The world falling away. Did you know already, somehow? Before you left us? The lights, they used to go on. ([Memento Mori 5](./Memento%20Mori%205.md))
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 Interloper difficulty means that you will not be able to loot warm manufactured clothes or firearms at any point during this challenge. With the amount of time it takes to prepare a bow and hide clothing, plan on completing the challenge without either. General Interloper gameplay advice applies to this challenge, with some additional points. If you are having trouble completing the challenge, consider following the [As the Dead Sleep Challenge Walkthrough](./As%20the%20Dead%20Sleep%20Challenge%20Walkthrough.md).
@@ -88,14 +102,18 @@ Interloper difficulty means that you will not be able to loot warm manufactured 
   - The transition cave from Bleak Inlet to Forlorn Muskeg, the forge at [Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md), and the forge in the [Maintenance Yard](./Maintenance%20Yard.md) should provide more than enough coal to ensure that you can easily restore lost warmth while traveling.
 - Consider not visiting major loot spots unless they are on your path through a region. Locations such as the [Hunting Lodge](./Hunting%20Lodge.md) and [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), for example, will likely contain great loot spots, but also require traveling through wolf territory.
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 - This challenge was introduced in version 1.64.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 A grave headstone similar to the ones in this challenge is found outside of the [Community Hall](./Community%20Hall.md).

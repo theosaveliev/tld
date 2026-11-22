@@ -48,8 +48,16 @@ Possible spawns: [Signal Hill](./Signal%20Hill.md), [Crash Site](./Crash%20Site%
 
 ![Clothing model icon damaged](../assets/Combat_Pants_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -24,8 +24,10 @@ _For the version found in [Escape the Darkwalker](./Escape%20the%20Darkwalker.md
 
 **Spray Paint** is a mapping and information tool in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Spray Paint is an item which can be used to mark the environment with symbols that aid in navigation, relocating supplies, avoiding danger, etc. Its markings are bright, colored orange images on the painted surface, and on the [map](./Map.md).
@@ -38,8 +40,10 @@ Most but not all markers will display on the map (e.g. "avoid direction" will no
 
 There is a limit of 249 markers one can have in a region (approximately 25 spray cans), though most casual players will not reach this limit. If this limit is reached and the player tries to place down another marker, a warning message of "TOO MANY SPRAY PAINT MARKERS IN THIS REGION. ERASE OTHER MARKERS TO CONTINUE SPRAY PAINTING" will appear and prevent them from doing so.
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Spray Paint is visible even in low-light conditions and poor weather, making it useful for navigating indoors at night, or during [Blizzards or Fog outside](./Weather.md).
@@ -50,8 +54,10 @@ There is a limit of 249 markers one can have in a region (approximately 25 spray
 - Common uses of Spray Paint include marking looted locations (structures, vehicles, etc.), designating safehouses, aiding navigation in difficult areas, and for decoration.
 - This is the only item with a relative high spawn frequency in Interloper.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Pre release Spray Paint with a Blue cap](../assets/Spray-can-comp.jpg)

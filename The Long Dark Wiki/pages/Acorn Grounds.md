@@ -35,8 +35,10 @@
 
 **Item key:** GAMEPLAY\_AcornGrounds
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 **Acorn Grounds** are produced from grinding Cooked Acorns with a [Heavy Hammer](./Heavy%20Hammer.md).
@@ -45,13 +47,13 @@
 
 Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), or can be used as an ingredient to make several Recipes.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Acorn Grounds**
-
-
 
 10 minutes
 
@@ -65,8 +67,6 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Acorn Grounds**
 
-
-
 10 minutes
 
 **Requirements**
@@ -77,8 +77,10 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Quantity:** 1
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -90,8 +92,16 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 | [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

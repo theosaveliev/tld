@@ -28,16 +28,26 @@
 
 **Memento More 3** is a [Collectibles](./Collectibles.md) found in the [Challenge](./Challenge.md) [As the Dead Sleep](./As%20the%20Dead%20Sleep.md). It is generated in the player's inventory as a note after visiting the third grave.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Memento Mori 3**_
 
 I left you behind. My guts freezing. My feet on fire. Each step a hundred years. It was too far, too far.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**

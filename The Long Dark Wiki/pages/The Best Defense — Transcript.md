@@ -27,16 +27,29 @@
 
 This is the mission transcript for mission 2 [The Best Defense](./The%20Best%20Defense.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 CHAPTER TWO
 
 THE BEST DEFENSE
 
-<span id="retrieve_the_legendary_spear_from_the_hunting_lodge."></span><span id="Retrieve_the_legendary_spear_from_the_Hunting_Lodge."></span><span id="retrieve-the-legendary-spear-from-the-hunting-lodge"></span>
+<!-- #retrieve_the_legendary_spear_from_the_hunting_lodge. -->
+​
 
+<!-- #Retrieve_the_legendary_spear_from_the_Hunting_Lodge. -->
+​
+
+<!-- #Retrieve_the_legendary_spear_from_the_hunting_lodge. -->
+​
+
+<!-- #Retrieve_The_Legendary_Spear_From_The_Hunting_Lodge. -->
+​
+
+<!-- #retrieve-the-legendary-spear-from-the-hunting-lodge -->
 ## Retrieve the [legendary spear](./Broken%20Bear%20Spear.md) from the [Hunting Lodge](./Hunting%20Lodge.md).
 
 _Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md) and walks up a [Train Shuttle](./Train%20Shuttle.md) blocking his way forward, then walks into a broken window. Entering the vehicle, he walks to the grated door and the [Old Bear](./Old%20Bear.md) appears around a tree. It spots Mackenzie, and walks up to the grated door as the pilot slowly backs away from it._
@@ -137,8 +150,16 @@ _By this point, dawn breaks and the lights in the sky begin to fade. Cars and li
 
 Mackenzie: "Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed."
 
-<span id="repair_the_broken_spear_at_the_forge."></span><span id="Repair_the_broken_spear_at_the_forge."></span><span id="repair-the-broken-spear-at-the-forge"></span>
+<!-- #repair_the_broken_spear_at_the_forge. -->
+​
 
+<!-- #Repair_the_broken_spear_at_the_forge. -->
+​
+
+<!-- #Repair_The_Broken_Spear_At_The_Forge. -->
+​
+
+<!-- #repair-the-broken-spear-at-the-forge -->
 ## Repair the broken spear at the [forge](./Forge.md).
 
 _Mackenzie then travels back to the Maintenance Shed, [Broken Bear Spear](./Broken%20Bear%20Spear.md) in tow, and manages finds several pieces of [Scrap Metal](./Scrap%20Metal.md), a [Heavy Hammer](./Heavy%20Hammer.md), and enough wood to forge a new [Spear Head](./Spear%20Head.md). Mackenzie then lights the [Furnace](./Furnace.md)._
@@ -157,8 +178,19 @@ _Mackenzie holds up the [Bear Spear](./Bear%20Spear.md), showing off its restore
 
 Mackenzie: "Let's hope I don't have to put this spear to the test."
 
-<span id="get_back_to_jeremiah"></span><span id="Get_back_to_Jeremiah"></span><span id="get-back-to-jeremiah"></span>
+<!-- #get_back_to_jeremiah -->
+​
 
+<!-- #Get_back_to_Jeremiah -->
+​
+
+<!-- #Get_back_to_jeremiah -->
+​
+
+<!-- #Get_Back_To_Jeremiah -->
+​
+
+<!-- #get-back-to-jeremiah -->
 ## Get back to Jeremiah
 
 _Mackenzie then leaves the Maintenance Shed, choosing to craft a set of improvised tools or to just leave. He passes by the spot that Methuselah was the night before, but he is long gone by now and the campfire burned out. The return trip to [Trapper's Homestead](./Trapper%27s%20Homestead.md) is uneventful, as Mackenzie passes through Broken Railroad and the Muskeg with no trouble, until he reaches the transition to Mystery Lake and spots the Old Bear in the nearby mountain._

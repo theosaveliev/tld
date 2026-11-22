@@ -18,22 +18,30 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 On the peak is [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), [rose hips](./Rose%20Hip.md) and sometimes a [corpse](./Frozen%20Corpse.md). There is also a small cave nearby that may have some supplies such as [coal](./Coal.md) and firewood.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The small cave on Andre's Peak](../assets/Andres_peak_cave.jpg)
 
 ![A panoramic view from the peak](../assets/Andres_peak_panorama.jpg)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Andre's Peak is named for Andre da Rosa, a UI programmer at [Hinterland Studio](./Hinterland%20Studio%20Inc..md)
+
+[ru:Пик Андре](https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA_%D0%90%D0%BD%D0%B4%D1%80%D0%B5)

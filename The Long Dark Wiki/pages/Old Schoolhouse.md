@@ -18,12 +18,18 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The schoolhouse itself is destroyed, and a sign at the front door reads _Milton School_. On one side of the schoolhouse, there is a small shed containing [coal](./Coal.md) or other fuel. On the other, there are swings and other broken playground equipment. Shoes, glasses, and other personal belongings are scattered around the building's charred remains, as well as a frozen corpse nearby.
 
-<span id="wintermute"></span><span id="Wintermute"></span>
+<!-- #Wintermute -->
+​
 
+<!-- #wintermute -->
 ## Wintermute
+
+[ru:Старая школа](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0) [es:Antiguo colegio](https://es.wikipedia.org/wiki/Antiguo_colegio)

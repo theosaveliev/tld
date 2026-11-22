@@ -24,14 +24,24 @@
 
 **Cured Gut** is an animal-based [Material](./Materials.md) that is acquired after air-drying [Fresh Gut](./Fresh%20Gut.md) indoors for 5 days. They can be used to craft or repair hide/pelt based [Clothing](./Clothing.md) and several [Tools](./Tools.md).
 
-<span id="cured_gut"></span><span id="Cured_Gut"></span><span id="cured-gut"></span>
+<!-- #cured_gut -->
+​
 
+<!-- #Cured_Gut -->
+​
+
+<!-- #Cured_gut -->
+​
+
+<!-- #cured-gut -->
 ## Cured Gut
 
 Cured Gut is an item required for crafting or repairing many items, such as [line](./Line.md), [snares](./Snare.md), and animal skin based Clothing. Unlike Fresh Gut, Cured Gut do not contribute to a player's overall [Scent](./Scent.md). Cured Gut can occasionally be found inside containers.
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -58,11 +68,19 @@ Cured Gut is an item required for crafting or repairing many items, such as [lin
 | [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md)<br>- 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 | [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_%26_2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_&_2.10)):**
   - UI - Added a unique Icon for Cured/Dried Guts.
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.

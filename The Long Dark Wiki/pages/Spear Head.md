@@ -32,13 +32,13 @@
 
 More Spear Heads can be crafted in the forge after the first one. They can be carried around, have a world model, and inventory model, but serve no other purpose.
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Spear Head**
-
-
 
 90 minutes (1 hour 30 minutes)
 
@@ -50,16 +50,26 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 **Quantity:** 2
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Forge menu for building the Spear Head](../assets/Spear_Head.jpg)
 
 ![3d model from a second forged Spear Head](../assets/Spear_Head_3d_Model.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

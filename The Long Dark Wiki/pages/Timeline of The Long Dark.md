@@ -2,6 +2,1374 @@
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Timeline_of_The_Long_Dark)
 
-The following is the official '''Timeline''' of events that take place in ''[\[The Long Dark]\]''. Due to a lack of concrete dates provided in the world of ''The Long Dark'', this list is compiled in order of known chronological events followed by what occurs in game. Information provided during the Missions and Side Missions Episode 1 and Episode 2 is based on the current Redux timeline, not the [\[Cut/Discontinued Content#The original Wintermute storyline|Predux timeline]\]. Some Predux timeline details are presumed to still be true, unless explicitly stated in the Redux (any references from the Predux timeline will be labeled as such). Information recorded here is based off of: \* The events of [\[Wintermute]\] and their [\[Notes]\], [\[Collectibles]\], and [\[Load Screen]\] messages. \* [\[Survival Mode|Survival Mode's]\] [\[Tales from the Far Territory]\] storyline, as well as Notes, Collectibles, and [\[Buffer Memories]\] found in the world. \* [\[Challenge|Challenges]\] and limited time Events are considered non-canon "what if" scenarios, and are not listed here. == History &amp; Timeline== ===''Known Past Events''=== The following is a list of events confirmed to have happened, but the exact dates are unknown. As such, anything listed below may be out of order chronologically. ===[\[Wintermute]\]=== _It is unknown what year Wintermute begins, but it is theorized to occur sometime around 2012-2020s. Grey Mother mentions the collapse occurred 10 years before the present. (Unconfirmed. Predux information)[\[The Grey Mother (Predux)/Transcript]\]Grey Mother: "We needed help ten years ago. During the Collapse. When you Mainlanders were sitting pretty, and the others raped our Island. Took what they wanted. We needed help ten years ago, and it didn't come then. Why would it come now?" \_\* Some time in the past, Mathis, and Heller were imprisoned on the Mainland in Montreal, Canada. Mathis had a plan months in the making to escape from the prison and busts out at the right time. The get away driver is 2 minutes late to pick the gang up. Heller escapes but the Mathis stays and beats the get away driver for being late, taking 5 guards to pull Mathis off him. Heller would later be apprehended and both men would be sent to Great Bear Island's Blackrock Prison via the prison bus. [\[Blackrock Blues/Transcript]\]Heller: "Right. You clean up the warden and I'll tell you all about it. So there was this really tight plan, Mathis had months to set it up. Everyone had their part to play. It was like...out of a fucking movie. So we bust out, and all hell breaks loose. We get to the front gates, it's a mess, right? Place is in chaos. And the driver who's supposed to pick us up. He's late." Vachon: "No shit." Heller: "No shit. So the driver pulls up, like...two minutes late. Alarms are going off everywhere, it's like...the prison guards are coming after us. we're going to get grabbed at any second. We're yelling at Mathis, "Come on man let's go. Let's get outta here!" And Mathis just stands there. Looking at the fucking driver. Looking like...he wants to eat the guy. The driver's terrified. Mathis walks over to the van, slowly. We're all jumping in and yelling to get out, and we...and we can _see\_ the fucking guards coming. Like, we are done. We need to GET OUT. Mathis...he pulls the driver out of the van, looks back at us, and...with this totally wild look in his eyes...just says..."Go". Like totally calmly, but with this wild edge. And he just starts beating the living shit out of the driver." Vachon: "Wow. I knew it went bad in Montreal but I didn't know that story." Heller: "Yeah I mean we took off. And Mathis...it took five cops to pull him off that driver. He cared less about being caught than he did about the driver being late." \*\*1 week before the First Flare, [\[Father Thomas]\] mentions a massive blizzard rolling through [\[Pleasant Valley]\], blocking the roads out of the region. The roads remained blocked for a whole week until the Flare hits. (It is actually revealed in the mission [\[Forest Talkers (side mission)]\] that the Forest Talkers caused the landslide) [\[Trauma/Transcript]\] Father Thomas: "Yes...another storm blew through about a week ago. The worst I've seen in years. Blocked the roads in and out. I'm afraid we're stuck here until the roads are cleared." \*\*1 week after the First Flare, the backup power at Blackrock Prison gave out and prisoners broke out of their cells, executing prison staff and taking Franklin hostage.[\[Blackrock Blues/Transcript]\]Franklin: "Well, that's a story. Power went out here a couple weeks ago now. The backups held for a while but eventually the cons were able to break out and overwhelm the guards. \*\*\*[\[Jace|Jace's]\] testimony conflicts with this information, as she claims that the prisoners broke out immediately after the First Flare hit, as it was only a few hours that she happened upon the Prison before she heard gunshots from the Convicts executing prison staff.[\[The Power Plant/Transcript]\]Jace: "Car broke down when the aurora first appeared. Well, not so much "broke down" as just stopped working. Like most things. It was freezing so I got out and started walking down the road, to see if I might find someone else. Or maybe some shelter. Got turned around in the darkness and snow...everything looked pretty much the same. Wandered for hours. Nearly froze to death. Then I found a fence. Followed it, and found a guard tower. Next thing I knew, I heard gunshots." \* Jace: "It was...horrible. The shots were...there were so many. I waited...half an hour? Longer? Crept up and I could see them, slumped against the wall. Blood everywhere. It was guards. Prison workers. Civilians. Innocents. They had executed them. I had to get out, but, I know the area a bit. There's nowhere to go, really. Not on foot. I don't know if anyone's coming to help, but I figure...I gotta do what I can to keep those fuckers locked up. Donner...he is evil. If he gets out, nobody within a hundred klicks of this place will be safe. And if this thing lasts as long as I think it will...that would be very, very bad for all of us." \*\*10 years before the First Flare, [\[Mathis]\] is sent to prison for 10 years for murder. He serves 7 years of his sentence then is released on parole. Franklin was his prison warden back on the Mainland during this time.[\[Blackrock Blues/Transcript]\]Franklin: "Oh yeah. We go way back. He was in for murder on the Mainland about ten years ago. He did seven and then got off on parole. I was Warden at one of the federal pens there and...well let's just say Mathis isn't sending me any Christmas cards these days." \*\*20 years before the First Flare, 2 convicts escape [\[Blackrock Prison]\]. They came back 3 days later, half dead amd begging to be let back in after being unable to survive in the wilderness on the Island during the middle of summer.[\[Blackrock Blues/Transcript]\]Franklin: "Yeah...but are you going to get out? About twenty years ago a pair of cons escaped. They came back three days later, half-dead, begging us to take them back. And that was in the middle of summer." \**The [\[Pleasant Valley Farmstead]\] was created 60-70 years before the present.[\[Trauma/Transcript]\] Molly: "I guess it's because it's pre-electronics? The old party line from when this farm was originally put in...maybe sixty, seventy years ago. I'm not exactly sure how or why it still works, but it does." \**Jeremiah believes that Great Bear Island has been exploited by Mainland interests for the past 100 years or so. (Predux Reference [\[Risk of Infection/Transcript]\]Jeremiah: "Railroads. Coal. Logging. Mining. Hydro. Whole island's basically a perfect wilderness that's been slowly destroyed by industry over the past, oh...hundred years or so.") \*\* 100 years ago, G.W. Jahnn would found the [\[Blackrock Prison|Blackrock Federal Penitentiary]\] on Great Bear Island. Some of the prison's building material is used from stone mined from the [\[Last Prospect]\] mine.[\[Building Blackrock]\][\[Blackrock Blues/Transcript]\]Franklin: "Yeah. Maximum security prison. Built a hundred years ago and updated a few times. It's basically a fortress." \*\**Old dynamite was kept in a storage shed at the Prison, with detonators kept in the Last Prospect mine. This was because there was no safe way to transport it back to the Mainland at the time.[\[The Power Plant/Transcript]\]Mathis: "Detonators. Can't do shit with this dynamite, unless we find detonators. Since we found the dynamite in one of the old machine sheds, the detonators should be around here somewhere." Franklin: "The...detonators. That dynamite is old. We kept it in storage because we didn't have a safe way to get it back to the mainland." \*\*\*[\[Mule Bridge|Mules]\] were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.[\[Load Screen]\] \*\* 150 years before the events of Wintermute, Spence creates [\[Old Spence Family Homestead]\] with his wife and children as he settles the land in [\[Forlorn Muskeg]\], as well as building [\[Bunkhouses]\] for the hired hands. A Bear reportedly attacks the Homestead and Spence's wife falls ill, having nightmares regarding the bear. Spence believes that the bear is an evil spirit that is killing his wife, and takes his hired hands attempt to slay it. The beast is unaffected by bullets, and terrifies the locals. Spence forges a Bear Spear and sets out alone to kill the bear, and the wife's fever finally breaks. Men go out looking for Spence and find him half dead in the snow, with his final words being "spear stole the bear's soul. My wife is free now", Spence is buried but the bear carcass is never found. This resulted in the legend of the [\[Bear Spear]\] and the Demon Bear.[\[The Wounded Trapper/Transcript#The Legend of the Spence family|The Wounded Trapper/Transcript]\][\[The Wounded Trapper/Transcript]\] Jeremiah: "Don't be silly. Spence bear would be long gone by now. That was...150 years ago." \*\**Years after the Spence family faded away, the [\[Bear Spear]\] would be bought by a wealthy land baron from the Homestead and hung in the [\[Hunting Lodge]\]. \*\**Jeremiah doesn't believe the legend was real, thinking it is probably just a story the land baron made up after he bought the Bear Spear to make it less mundane. \*[\[Jackrabbit Hangar|Jackrabbit Remote Transport]\] was founded by Jack Mackenzie, and he eventually passes the business along to his son [\[Will Mackenzie]\]. _The [\[Suzuki Radio Telescope]\], a government facility, is built on the Island to study the stars due to the Island's lack of light pollution and unique geolocation. The facility is shielded from EMP damage.[\[The Detonators/Transcript]\]Jace: "So, it just so happens that this part of Great Bear offers one of the best unconcluded zones...ideal for setting up sensitive instruments for my research so that..."[\[The Detonators/Transcript]\]Jace: "The [\[Suzuki Radio Telescope]\]. It's...about 15-20 clicks from here. That's where I was headed when my car stopped working. I've been living there, doing research, for months. Alongside Dr. Atwood. Mackenzie, if the convicts find out about the radio telescope...it'll be bad. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios.[\[The Detonators/Transcript]\]Jace: "It's pretty messed up. Look, Suzuki is shielded. Due to the kind of work they do there. It's shielded from electromagnetic radiation. There's a good chance that all the shit that's been going on out here...that it hasn't been affected in the same way." \_\*[\[Jace]\] and [\[Atwood]\] come to the Island to study Astrophysics at this facility.[\[The Detonators/Transcript]\]Jace: "Oh right...just...my thesis advisor. She's the only reason I'm out here at all, Mackenzie. I'm a grad student. Astrophysics."[\[Letter (Car)]\] _The settlements of Port Mary and [\[Perseverance Mills]\] are created on the North coast of the Island. (A town called Rupert's Landing is mentioned by Jeremiah and [\[Mystery Lake &amp; Area]\]) \_[\[Will Mackenzie]\] and [\[Astrid Greenwood]\] marry, have a son, and separate after their son dies. Will Mackenzie continues to work at Jackrabbit Hangar, while Astrid Greenwood works for Seraphim Sleep Research Centre. Both keep their wedding bands, despite the divorce. \*\*[\[Jane Yang]\] contacts Astrid years later, pleading her to bring a cure to [\[Perseverance Mills]\] after a disease surfaces and overtakes her home. This sets the plot of [\[Wintermute]\] into motion after Astrid steals the cure and makes her way to Jackrabbit Remote Transport. \* Five men, all serving life sentences at Blackrock Penitentiary, reportedly escaped from [\[Blackrock Prison]\]. Of the five, one returned on his own, one was found dead by pursuing officers, and the last three remained missing.[\[Newspaper Clipping 2]\] \*\* The first man to attempt escape from Blackrock, [\[Cutty's Cave|Bill Cutty]\] is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates. *The Archdiocese's decided to withdraw Father Francis McGill from [\[St. Christopher's Church]\] in Milton. His services continue via Skype.[\[Pastor's Note]\] _Wolves attack [\[Molly's Husband]\] after his [\[Hunting Rifle]\] explodes. Molly's Husband pleads for his wife to help him, but she allows the wolves to kill him. [\[Molly]\] then stores her husband's body in their farmhouse cellar and covers it up. It is unknown whether it was sabotage or a cartridge misfire that caused the Hunting Rifle to explode. Though unconfirmed, it is believed that this event occurred after the First Flare, due to the freshness of the body. \_ Unusually cold weather is predicated for the coming winter in the year the plot of Wintermute takes place, with heavy snow and record low temperatures expected.[\[Winter Forecast]\] \**Mystery Lake is shut down early for the year because of this.[\[Park Notice]\] ===[\[Survival Mode]\]=== *The events of [\[Tales from the Far Territory]\] occur at least 4 decades before [\[Wintermute]\], sometime in the 1980s. _An Island wide radio system is created to keep Islanders in touch with one another in case earthquake activity on the Island gets worse, or "the big one" hits the Island. Sutherland mentions that the radios the survivor uses to communicate from him are from an old emergency messaging system meant to keep Islanders in contact with one another. The "[\[A page from an old newsletter.]\]" note also explains why these radios are found across the Island. \*_Sutherland is a Great Bear Island native born in Coastal Highway, being the titular "Misanthrope" that lived at [\[Misanthrope's Homestead]\]. Sutherland, along with his "Pa" and brother Wyatt, lived there for most of their lives. Sutherland eventually states that he has abandoned his home and is more comfortable on his boat, saying that the survivor can do as they please with his house during the Quiet Apocalypse. \**Sutherland has a crippled leg that locks up on him in winter. He received it while at sea after heavy cables came loose on a ship and almost took his leg clean off. This information is conflicted moments later, with Sutherland mentioning that it might have instead have had something to do with his brother Wyatt. \**Wyatt would own and maintain an old sailboat, which Sutherland would eventually take for himself in the future. \**It is revealed that his brother Wyatt is the one who created all of the [\[Prepper Cache]\] bunkers across the island, including [\[Joplin's Bunker Raid|Joplin's Bunkers]\]. Though not confirmed, he most like created [\[Hank's Hatch]\], the [\[Aurora Hatch]\], and the hatch in [\[Blackrock Rumours]\] - Suspicious Person as well. \*\**His reasoning was the belief that a nuclear exchange was coming that would destroy the world, confirming that the caches were fallout shelters. \*\*\*3 other people were a part of Wyatt's crew, but ultimately turned on him due to paranoia. Sutherland's leg slowing the group down was one of the reasons why he was kicked out of the group and lead to his distrust of strangers. \*[\[Ash Canyon]\] suffers a massive forest fire, most likely caused by negligent miners working in the [\[Gold Mine]\]. *The Langston Mining Corporation creates the [\[Langston Mine]\], a large open pit coal/uranium mine. The workers eventually destroy the local ecosystem, using water from [\[Unquenched Extraction]\] to pump toxins out of the mine and into the [\[Overladen Pond]\] near the [\[Pump House]\], poisoning the nearby streams. Toxic barrels are also dumped in several locations across the region. Many of these metal barrels eventually rupture due to weathering and age as the decades pass, creating several [\[Chemical Hazard|Chemical Hazards]\] that effect [\[Poisoned Wolf|local wildlife]\]. _An airstrip, [\[Field 31]\], is built in [\[Forsaken Airfield]\], presumably to fly workers into the Langston Mine. [\[Transfer Pass]\] is established to help facilitate transfers via [\[Train Shuttle]\]. A [\[Weather Station]\] is built in [\[Sundered Pass]\] to provide weather reports for the Far Territory. == Pre-Collapse == \_1830 - \**Ryan Thompson is born. \* 1899 - \**Ryan Thompson passes away at age 69, after presumably founding [\[Thomson's Crossing]\]. He is buried at the Crossing, with his own special walled off grave plot and the tombstone reading "Beloved Father." \* 1904 - \**RJ Smith is born. \* 1911 - \**The Town of [\[Milton]\] is established as a coal mining town, with the population going as high as the 1,000s throughout the 1900s. Milton's story would follow the boom-and-bust of the entire Island over the century.[\[Town of Milton]\] \* 1919 - \*\*[\[Thomson's Crossing]\] is founded.[\[Pleasant Valley History]\] \* 1928 - \*\* Liam Dean is born. \*1930s - \*\* [\[Mystery Lake (region)|Mystery Lake]\] remains untouched by Mankind until mountain blasting for the [\[Trans-Island Railway Line]\] opens the area up for settlement. Its main purpose is presumably to ship coal, uranium, and workers from the Langston Mine to [\[Coastal Highway]\], as well as other resources found deeper within the Far Territory. The railways would be reused decades later by the [\[Breyerhouse]\] company operating in the Mystery Lake and Broken Railroad regions to ship timber to the Coastal Highway.[\[Mystery Lake &amp; Area]\] _Early 1950s - \*_A woman recalls her husband helping build [\[Blackrock Prison]\] around this time.[\[Archival Report]\] \*\**It's said that Blackrock's original foundation was built on the site of an old trapping community. The trappers' cabins were destroyed to make way for the Penitentiary, a move that defined the history of the place ever since. \*\**Academics sometimes visited Blackrock Penitentiary to explore its vast records archive. The unique combination of geographic and social isolation has led to various scientific studies, of its staff as well as its inmates. \*\*\**Dr. Childs has been medical director at Blackrock for decades. It's rumoured that due to his research on Penitentiary inmates he's never been able to secure another position on the Mainland. \*\**Blackrock has attracted a variety of Wardens over the years. Some were kind, some cruel, but all were men who relished the extremes of life on Great Bear Island. One of Blackrock's longest-serving officers was famous for playing a piano deep into the night. Some wardens tolerated his playing as a form of therapy for the inmates, while others saw it as a special punishment. \*\*\*[\[Noisemaker|Improvised explosives]\] have been a notorious problem for officers and staff at Blackrock. Some of the more enterprising inmates have used the devices as a kind of currency.[\[Office Memo]\] \*\**Although officially discouraged, gold panning has always been a pastime for Blackrock's staff. Locals suspected the Penitentiary banned the activity because they didn't want to lose any officers, should they strike it rich. \*1960s - \**Construction for the [\[Carter Hydro Dam]\] begins on the [\[Winding River|Carter River]\] by Richard Carter, founder of Carter Hydro Energy. This prototype test Dam would be the first major structure created for the region of Mystery Lake. The structure would be replenished by runoff from the Lake itself, and the dam would be used to power a future mining town Richard Carter planned on building. Seismic activity on Great Bear Island proved to be a major obstacle in the construction.[\[Carter Hydro Dam (Collectible)]\][\[The Wounded Trapper/Transcript]\] Jeremiah: "Yeah...the place was cracked open by the quake years ago, and never recovered. It was already half-dead at that time." Mackenzie: "Meaning?" Jeremiah: "Dam dates back to the 60s. Industrialist from the mainland wanted to use it to power a mining town he was planning to build. But, bottom fell out of the price of coal and he had to abandon those plans. Some fool tried to get it running again in the 80s but then the Forest Talkers got involved and that was the end of it. Pretty sure the quakes finished the job once and for all." \**Jessica Roy is born. \**The dirt road between the Town of Milton and the coastline to the north would be replaced by a paved road. \* 1961 - \*\* Liam Cote is born. \* 1962 - \**The Carter Hydro Dam project is abandoned due to the region’s inaccessibility and seismic instability making it too cost-prohibitive to construct. The cost of coal also plummeted around this time, causing Carter to scrap his plans for his coal mining town that the Dam would power. The prototype Dam is abandoned. \* 1963 - \**Emily Camp is born. \* 1966 - \**Tyler Clark is born. \* 1967 - \**Ryan Smith is born. \* 1969 - \*\*[\[Lilith Barker]\] is born to her parents [\[Grey Mother]\] and [\[Martin Barker]\]. \* 1973 - \*\* Liam Dean passes away at age 45, and is buried at Thompson's Crossing. His tombstone reads "Always And Forever." \* 1976 - \* After a few decades of operation, it became clear the Penitentiary needed its own source of electricity. The Warden at the time made it his personal mission to make Blackrock self-sustainable in an emergency and Blackrock Mountain Power could create the [\[Power Plant]\], [\[Old Substation]\], and the [\[Steam Tunnels]\] were created. \**Power workers would man the Sub Station near the Penitentiary to ensure the gates and doors stay locked at Blackrock, living in a trailer up the road. A lonely job, the electricians and line workers who fill the position never last long. \**The electrical stanchions that snake through the Region are a survival tool for Blackrock staff. If lost in a storm or whiteout blizzard, they could always follow the lines to find shelter. \* 1979 - \**Jocelyn Cook is born. \*1980s - \**RJ Smith passes away in 1980 at age 76, and is buried in Thompson's Crossing. His tombstone reads "He Should Have Listened." \**Chloe Miller is born in 1980. \**There were multiple attempts to modernize Carter Dam and bring it back online by new CEO of Carter Hydro Energy, Robert Clarke. \**The [\[Great Bear Highway]\] (AKA Highway 15) is formed, allowing people to bypass the Town of Milton, crippling the town's importance as a gateway town and contributing to its steady decline. The economy of the Island boomed at this point in history. \* 1981 - \*\* Liam Cote passes away at age 20, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "Always Adored." \**Emily Camp passes away at age 18, and is buried at the Graveyard across from St. Christopher's Church. Her tombstone reads "Dearly Loved." \**Goose Books publishes [\[Small Arms Handbook]\]. \*25-9-1982 - \**The events of the [\[Tales from the Far Territory]\] would occur in the Far Territory. \* 1983 - \**Tyler Clark passes away at age 17, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "An Inspiration." \* 1984 - \**Ryan Smith passes away at age 17, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "Into The Sunshine." \**Goose Books publishes [\[Medicinal Plants of Great Bear]\]. \* 1985 - \**Grey Mother, gives her [\[Grey Mother's Pearls|mother's pearls]\] to her daughter [\[Lilith Barker]\] for her 16th birthday. Wishing to summit the great peaks of the Island, Martin Barker urges her to follow her dream, but Grey Mother does not and wishes for their daughter to stay in Milton. Lilith eventually leaves, and falls to her death outside of [\[Milton Park]\] in a climbing accident, and no one comes to help her until after her death. Milton Park is shut down afterwards by the Milton &amp; Area parks Board, and Lilith is buried in the [\[Graveyard]\] across from [\[St. Christopher's Church]\]. Her tombstone reads "Our Fallen Angel."[\[Park Warning Notice]\][\[Paradise Lost/Transcript]\] Grey Mother: "They were the last gift I gave her...on her 16th birthday. She wanted to leave Milton. To be free. She had grown up here in the mountains...a climber. She wanted to leave to summit all the tallest peaks on Great Bear. I was afraid to let her go. We fought bitterly. And she left. She died out there...in the mountains. In the wilderness." \*\**Grey Mother and Martin Barker separate, with Grey Mother living in [\[Milton House (Grey Mother's)]\] and Martin living on the outskirts of town at [\[Paradise Meadows Farm]\]. Martin keeps Lilith's pearls as a way to remember his daughter, despite Grey Mother wanting the pearls buried with Lilith, and has the pearls locked up in the [\[Milton Credit Union]\]. \*\*\*[\[Lily's Map]\] and most of her climbing gear and clothes would be locked away in a blue chest in her room at Grey Mother's Home. \*\**Grey Mother shuns most of the residents of the town as the decades pass for failing to help Lilith fast enough, holding a deep grudge against everyone in Milton. She begins to refer to the town's residents as nothing more than liars, cheats, and [\[Martin Barker|thieves]\] and keeps only to herself. Eventually she would be given the name "The Grey Mother" by residents of the town, a title she would eventually adopt as her own. \**Jessica Roy passes away at age 25, and is buried at the Graveyard across from St. Christopher's Church. Her tombstone reads "In Our Memories." \* 1986 - \**Jocelyn Cook passes away at age 7, and is buried at Thompson's Crossing. Her tombstone reads "Your Memory Lives On." \* 1987 - \**Several [\[Research Book|Books]\] are published by Goose Books ©. \*\*\*[\[A Sewing Primer]\], [\[Advanced Guns Guns Guns!]\], [\[Field Dressing Your Kill, Vol. I]\], [\[Frontier Shooting Guide]\], [\[The Frozen Angler]\], [\[Stay on Target]\], and [\[Wilderness Kitchen]\]. \* 1988 - \**Goose Books publishes [\[Practical Gunsmithing]\]. \*1990s - \**Changes to the local climate and hydrodynamics of the Mystery Lake area, as well as external public pressure in support of the newly minted Mystery Lake Provincial Park, resulted in Carter Dam being shut down for good in the late 1990s. \*\**A skeleton crew composed of Benton, Hays, Ted Wallace, Geoff Wallace, McPherson, and Vaughn would be all that was left maintaining the Dam during this time. Vaughn would misplace his [\[Vaughn's Rifle|Rifle]\] before leaving.[\[Buffer Memories|Buffer Memories#Carter Hydro Dam]\] \*\**A large earthquake would hit Mystery Lake, devastating the Dam and causing it to finally shut down for good.(Predux Reference[\[Risk of Infection/Transcript]\]Jeremiah: "Yeah. The big quake years ago shut that nonsense down." Mackenzie: "Quake?" Jeremiah: "Bah. It doesn't matter. Quake put an end to that. And things are changing.") \*\**The crew would notice a [\[Jeremiah|Trapper]\] regularly skirting their fences to get to Winding River, and wish to contact him for the extra manpower before the Dam was shut down. \*\*\*[\[Forest Talkers]\], inhabitants of the Island, form to fight back against the development of Carter Hydro Dam.[\[The Wounded Trapper/Transcript]\]Mackenzie: "So...who are the "forest talkers"?" Jeremiah: "Eco-terrorists. Activists, some call them. Depends on who you talk to I guess." Mackenzie: "Why are they out here?" Jeremiah: "Well...they've been active for years. They come and go. Mostly here to throw a wrench in the works for a variety of resource projects -- mining and forestry mainly. They want Great Bear to remain a "pristine wilderness"." (Predux Reference[\[Survival School (Predux)/Transcript]\]Mackenzie: "When I was out there...I came across mention of the Forest Talkers". (sic) You know anything about that?" Jeremiah: "Oh yeah, I know all about the Talkers." Mackenzie: "What are they? Some kind of band? Or cult?" Jeremiah: "Nothing like that. Eco-activists. Terrorists, some call them. They've been fighting for years, against further exploitation of Great Bear." Mackenzie: "So...are they dangerous?" Jeremiah: "Not usually...they'll spike the occasional tree. Tie themselves to logging or mining equipment in protest. Don't think they've ever hurt anyone. But I'm not really up to date on current events." Mackenzie: "So, terrorists, or activists. Which is it?" Jeremiah: "Depends on your perspective, I guess. I try to stay out of politics. One thing's for sure - - they've been doing a lot more than just talking lately.") \*\**A letter is sent to the skeleton crew maintaining the Dam, informing them that the Dam will be shut down due to the quakes and Forest Talkers.[\[Carter Hydro Dam -- Safety &amp; Shutdown Notice]\] \*\**Forest Talkers would hold the skeleton crew hostage for days until mediators successfully extract them. The Dam would be officially shut down and locked up after this event, with most site equipment and technology being left behind. \*\**Earthquakes would continue to ravage the area and the Dam over the decades, turning it into a deathtrap of crumbling infastructure and exposed electrical wiring. \*\**Decades into the future, Breyerhouse management would warn workers to avoid going past the Staging Area into the Dam on their breaks due to the Dam's instability.[\[Breyerhouse Crew Winter Warning]\] \*\*\**Despite shutting the facility down, Forest Talkers would jump the fence and ironically begin using the Dam as a hiding place for documents and themselves.[\[Trash Can Letter]\][\[Forest Talker Dam Note]\][\[Forest Talker Documents]\] \*12 June 1991 - \**A traveler hides a diary page in the Loose Boards at [\[Mindful Cabin]\] as they travel the Far Territory. \* 18-Jun-91 - \**The same individual buries [\[A Page From A Journal]\] at the [\[Boss's Settlement]\] as they explore the ruined Langston Mine. == The Collapse == _mid-20XX - \*_An ongoing global economic crisis, fueled by continued political and economic instability in thr US and Europe in the early 21st century, contributes to increasing volatility in the financial markets, eventually leading to the sudden catastrophic collapse of the Canadian, and in general, North American banking system. This event became known as [\[The Collapse]\].[\[History of The Collapse]\] \*\**The Canadian Dollar would eventually collapse in value, with $1 CAD = $0.23 USD.[\[Convenience Store]\][\[Cash]\]A bundle of cash. Pretty much worthless these days. Useful as tinder. \**The Town of Milton's average population numbers in the 100s by the 2000s. \**Great Bear Island is abandoned by Civilization on the Mainland due to the major economic collapse. All of the Island's major industries to the Mainland collapse almost overnight. \*\*\*[\[Last Resort Cannery]\] shuts down. [\[Bleak Inlet]\] rots from a lack of maintenance, with the nearby [\[Fallen Lighthouse|Lighthouse]\] collapsing. \*\*\*[\[Hibernia Processing]\] shuts down in [\[Desolation Point]\], but the [\[Lonely Lighthouse]\] is maintained by a single worker. The [\[Stone Church]\] is abandoned. \*\*\*[\[Cinder Hills Coal Mine]\], [\[Abandoned Mine No. 3]\], [\[Abandoned Mine No. 5]\], and [\[Last Prospect]\] shut down. \*\*\* [\[Coastal Townsite]\] and [\[Fishing Camp]\] in [\[Coastal Highway]\] receive fewer travelers. \*\**The Town of [\[Milton]\] is abandoned by the world and becomes a ghost town, with only old timers and stubborn holdouts remaining. \*\**The Bank would repossess several buildings at [\[Thomson's Crossing]\], with many of the buildings still boarded up by the events of the game. \*\**Timely deliveries to the Island are no longer a feasible reality due to economic costs. \*\*\**The [\[Orca Gas Station]\] in Milton would only receive deliveries once per quarter year, with the manager being allowed to source supplies from local suppliers or other means to stay in business. Milk deliveries (priced at $6.00 CAD) take 3-4 weeks to arrive. Gas prices at the store eventually reach $8.88 CAD per gallon before the pumps run dry. The owner sells [\[Car Battery|Car Batteries]\] for $160.00 CAD. Eventually the ATM and Register runs out of cash, and the whole store is closed down and left to rot, with product still on the shelves.[\[Orca Gas Store Notice]\] \*\*\**The [\[Milton Post Office]\] can no longer get physical mail back to the Mainland, and urges people to send email or use drones to deliver mail instead. Most physical inspections of the power grid are performed by drones.[\[Milton Post Office Note]\]  (Predux Reference [\[The Grey Mother (Predux)/Transcript]\]Grey Mother (Text): "If you want to survive out here, you'll have to learn to be self-sufficient." Mackenzie (Text): "Right" Grey Mother (Text): "When I was growing up, we understood what that meant. When something wore out, we couldn't just go online and order a new one...have it magically "drone delivered" to your door. Bah. As a little girl, I already knew how to hunt Rabbits, and turn their skins into clothes. I'll tell you how it's done.") \*\*\**The manager of the [\[Rural Store]\], Dan Presnell, begins furiously emailing Better Food Vendors owner, Mr. Galveston, requesting supplies that he paid for. Many items did not appear in his shipment, and the locals of [\[Pleasant Valley]\] need many of these items to make life easier. His ATM is eventually taken offline, due to having no cash in it, with a truck never coming to pick it up.[\[Buffer Memories]\] Rural Store Buffer memory \**Without any major local economic drivers of their own, the remaining communities on Great Bear became completely dependent on a supply lifeline from the Mainland -- regular shipments of basic staples designed to keep them alive: fuel, food, medical supplies, etc., in many ways, akin to WW2-era wartime rationing. In exchange for regular supply drops, the “Mainlanders” -- in some cases, at the behest of their economic overlords South of the border -- felt justified in taking whatever supplies and raw materials they needed to maintain the urban communities, including dismantling some of the heavy industrial infrastructure left on Great Bear.[\[The Grey Mother/Transcript]\]Grey Mother: "We lost everything in [\[the Collapse]\]. People didn't realize how dependent we'd become. Some were fine with it. Others didn't want the scraps from your table. It created deep rifts in families, communities. Scars that never healed. The Mainland had become our lifeline. And it was suddenly cut. And so, we suffered." Will Mackenzie: "I guess I don't know much about that history." Grey Mother: "I'm not surprised. You Mainlanders have always been focused on your own story. Only interested in Great Bear when it had something to give you. If you can't cut it down or dig it out of the ground, what use is it to you?"[\[The Wounded Trapper/Transcript]\]Jeremiah: "Oh! I have no a love for industry. But this is the way of the world. You have something they want -- they take it. Nothing much you can do to stop it." (Predux Reference [\[The Grey Mother (Predux)/Transcript]\]Mackenzie: "A town like Milton - - where do supplies come from?" Grey Mother: "The Mainland, of course. Where else?' Mackenzie: "I don't know. Local stuff. Farms? Producers on the Island?" Grey Mother: "Those days are in the past. We became dependent on the Mainland just like you wanted us to. Then, when things Collapsed...you cut us off. Until you found things you could take, things you could sell to...the others. The ones in the South. Some tried farming, but..." Mackenzie: "Times were hard for everyone back then. Still are. You aren't the only ones to have suffered. In the cities..." Grey Mother: "Bah! The cities. You got what you deserved. You'll get no sympathy from Grey Mother.") \*\**A divide is formed among the Great Bear Islanders as they increasingly become segregated into two pseudo-political entities along ideological lines: those who gratefully embraced dependence on the Mainland and viewed the regular supply ships as a charitable gesture in apology for the Mainland’s exploitation of Great Bear’s resource riches, and those who sought ultimate independence and who considered trade and travel between the Mainland to be a necessary evil, viewing Mainlanders with a degree of mistrust. \*\**This seeds a deep hatred/overall dislike for Mainlanders ever coming to the Great Bear. Many of the Island's native inhabitants, such as the [\[Forest Talkers]\] and [\[Grey Mother]\], judge the presence of any Mainlander setting foot on their Island, automatically presuming that they are here to pillage the Island's resources and nothing else, even if they become stranded on the Island.[\[Forest Talker Memo]\] \*\*\* Many more open minded/desperate natives begin to leave their communities to see the Mainland civilization, hurting the already small and short staffed local communities.[\[Tearful Letter]\][\[The Wounded Trapper/Transcript]\]Mackenzie: "So, no other people living out here?" Jeremiah: "You gotta understand. The Collapse destroyed Great Bear. There's nothing here to stay for. You meet anyone out here, chances are they're hiding from something. Or someone." Mackenzie: "And you? Why are you here?" Jeremiah: "I have my reasons." (Predux Reference[\[Risk of Infection/Transcript]\]  
- Mackenzie: "You alone out here?" Jeremiah: "Pretty much. Whole Island's mostly abandoned now. Few scattered groups left. No real industry. Rare supply boat from the mainland. That's really the only lifeline for the few folks that still live on Great Bear...") \**Unhappy with their growing dependence on the Mainland for economic support, as well as the Mainlander’s continued view that Great Bear exists solely as a resource clearinghouse for their benefit, some people who chose to remain on Great Bear decided to engage in self-sufficiency. Small-scale local food production efforts, akin to the Victory Garden program of WW2 England and Canada, sprouted up all over Great Bear, with individuals and even communities taking it in their own hands to produce food and power resources. This is the case in [\[Thomson's Crossing]\], with the Town of Milton having far less success.(Predux References[\[The Grey Mother (Predux)/Transcript]\] Grey Mother: "Years ago, when the Collapse happened...we lost everything. The young people didn't understand how dependent we'd become. Some people may have accepted dependence on the Mainland. But I don't want the scraps from your table." Mackenzie: "Guess I don't know that much...about the history." Grey Mother: "I'm not surprised. You Mainlanders have always been focused on your own story.") \*\**With the onset of The Collapse, [\[Pleasant Valley]\] locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion, due to their subsistence farming lifestyle. \*\**Many residents of [\[Fishing Camp]\] and [\[Coastal Townsite]\] rely on fishing to stay alive, rather than Mainland trading. \*\**Already dependent on The Mainland, the effects of The Collapse intensified the Island's remote character. Deeply scarred by the Collapse, denizens of the Island begin stockpiling and hording supplies should another catastrophe equivalent to the Collapse ever occur in the future again. \*\*\**Many individuals in Milton would begin creating stashes: \*\*\*\*\*[\[Medicine in my backyard]\] \*\*\*\*\*[\[Cave Hidden Cache Note]\] \*\*\*\*\*[\[Milton Hidden Cache Note]\] \*\*\*\*[\[Martin Barker]\] would receive an Emergency Kit from the Great Bear Earthquake Memorial Society ([\[Emergency Kit Note]\] is a Predux Collectible, but the lockbox still exists in front of [\[Hobbs]\] in the Redux version). \*\*\**Several [\[Mementos]\] reveal hidden caches people left behind. \*\*\*\*[\[Hidden Cache|Hidden Caches]\] can be found all across the Island left by locals and Forest Talkers. \*\*\*\*\* [\[Mystery Lake Supply Caches]\] \*\*\*\*\*[\[Forest Talker Supply Caches]\] \*\*\**Several individuals create [\[Prepper Cache|Prepper Caches]\] across the Island: \*\*\*\**Tom Joplin creates 3 caches ([\[Joplin's Bunker Raid]\]) \*\*\*\**Hank finds a bunker in Mystery Lake and begins stockpiling it ([\[Hank's Hatch]\]). He sends a letter to his niece to come find him if SHTF in the future.[\[Letter for Hank's Niece]\][\[Hank's Journal - Part One]\] \*\*\*\*\* 1 Prepper Cache found in [\[Forlorn Muskeg]\] ([\[Aurora Hatch]\], formerly [\[Jeremiah's Hideout]\] in the Predux timeline) \*\*\*\*\* 1 Prepper Cache in Blackrock ([\[Blackrock Rumours]\]) \*\*\*\**Several other Prepper Caches found across the Island. (unknown if canon, Survival Mode only) == Post Collapse == \*''(Unknown Time) -'' \**In the Post-Collapse economic environment, very few travelers or resource workers have reason to visit Great Bear. What few industries remain only seem to take from the Island whenever they can.[\[Memories/Transcript]\]'''Astrid:''' "I need your help. There's an isolated community in the Northern part of Great Bear. Someone there is very sick and..." '''Mackenzie:''' "Great Bear? There's nothing there anymore. Not since..." (Predux Reference) \*\**The [\[Vacant Depot]\] shows a timetable with the date 20XX, suggesting that the Depot was still being used up until the 21 century.[\[:File:Vacant Depot Timetable.jpg]\] \**Blackrock Penitentiary would remain opened and continue to operate after The Collapse. \*\**An uneasy truce would exist between the Penitentiary staff and the local population on Great Bear, as it would continue to produce jobs and revenue for remote communities. Resentment still endures for the imposition of Blackrock on the Island by some locals however. \*\**While seismic activity damaged or the destroyed many of the roads and bridges around [\[Blackrock]\], the earthquakes left the Penitentiary itself largely untouched. Over the years, the extensive damage to the roads and bridges around Blackrock were seen as a bonus security feature to dissuade prisoners from escaping. \*\**Rumors spread of a faction of Forest Talkers becoming active around [\[Blackrock Mountain]\] in recent years, due to the Penitentiary grounds serving as a constant reminder of Great Bear Island's ties to the Mainland. Forest Talkers eventually set up a supply cache in the [\[Last Prospect]\] mine in [\[Blackrock]\], becoming experts at finding ways to make use of Blackrock Region's abandoned infrastructure. \*\**Blackrock's Wardens have traditionally kept a [\[Jailer's Residence|home]\] not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed. \*\**The remote Penitentiary never used to lack for food. Post-Collapse life on Great Bear, however, has meant lean Winter months for inmates and staff at Blackrock. Clever cooks at the prison have become known as much for their farming prowess as their kitchen skills, as they toil to keep their pantries full. \*\*\**New officers always bunked in the Blackrock Barracks. One of their tasks was supplementing the meager food supply at the Penitentiary -- a thankless and often dangerous job. \**Breyerhouse would remain one of the few industries continuing to harvest resources from the Island, with a focus on logging. They begin cutting forests down in Mystery Lake and Broken Railroad, shipping timber back to the coast via The Ravine and Coastal Highway through the Trans-Island Railroad Line. \*\*\*[\[Forest Talkers]\] continue their eco-activism on the Island, organizing to fight the [\[Breyerhouse]\] logging company across [\[Mystery Lake (region)|Mystery Lake]\], [\[Forlorn Muskeg]\], and [\[Broken Railroad]\]. They also begin annoying the locals of [\[Pleasant Valley]\] as their influence spread there. Their main base of operations resides at the old [\[Hunting Lodge]\], just under the noses of the nearby Breyerhouse [\[Maintenance Yard]\].[\[Forest Talker Flyer]\] \*\*\* The Forest Talkers eventually steal Documents from Breyerhouse claiming that they are illegibly cutting down Old Growth forests without permits or permission. \**Tourism to the Island would still occur despite the Post Collapse, becoming a niche way to provide revenue to Locals of the Island. [\[Notebook Page (Survival)]\][\[Notebook Page (Survival 2)]\] \*\**Earthquakes and seismic activity would continue to dissuade people from visiting the Island however.[\[Memories/Transcript]\]Will Mackenzie: "Great Bear Island. Dad used to fly there all the time. He said it used to be beautiful. Not much reason to go there these days... since the quakes and all." \*\*\*[\[Mystery Lake (region)|Mystery Lake]\], [\[Ash Canyon]\], and [\[Timberwolf Mountain]\] would often be the most popular tourist destinations. \*\**A company called DeepForest Experience would cause Manny Douglas to become stranded on Great Bear Island after they fail to extract him, as detailed in the [\[Hibernia Processing]\] [\[Buffer Memories]\]. \*\**Will Mackenzie holds a tourism pamphlet showing the Island. \**Earthquakes ravage the local power grid near Milton, and no one from the Mainland comes to fix it. The town is on its last legs at this point.[\[The Grey Mother/Transcript]\]Grey Mother: "The power's always been spotty here, since the quakes. No money to fix the broken stuff left behind. And nobody from the Mainland seemed to care enough to do anything about it." Will Mackenzie: "I'm sure...someone will come to fix it." Grey Mother: "Nobody's coming to save Milton." Will Mackenzie: "How can you be so sure?" Grey Mother: "I've learned to hear the difference between something quiet, and something abandoned. This goes deeper than just stillness. It feels like the moments before the world goes to sleep. We're just the last ones awake to notice it." (Predux Reference[\[The Grey Mother (Predux)/Transcript]\]Grey Mother: "So...the outsider wants to know more about Milton." Mackenzie: "Yeah. I'm curious about what happened here." Grey Mother: "To understand Milton you have to understand the Collapse." Mackenzie: "I mean...I know about the quakes. We experienced them too, on the Mainland." Grey Mother: "Not like this you didn't.") \*\**The Town of Milton struggles to maintain an average population above the lower double digits (slightly over 10 people left). The town would become a ghost town by this point, kept alive only by stubborn holdouts. \*\**Mainland Power Corp sends a recovery crew to seize [\[Martin Barker|Martin Barker's]\] SOLAR BLOCK MODEL BK1, due to him refusing to pay an accumulated bill of $1256.45 CAD.[\[Utilities Bill]\] \* 2010 - \**Chloe Miller passes away at age 30, and she is buried at Thompson's Crossing. \* June 30th, 2012 - \**The Great Bear Water Authority shuts down the [\[Milton Water Tower]\] due to an outbreak of E. Coli in the ground water, adding to the list of woes the town already faces.[\[Public Notice]\] \* September, 2012 - \**Due to global economic realities, the [\[Milton Credit Union]\] shuts down.[\[Milton Credit Union Letter]\] \*\**It is implied that at this point, the world no longer uses physical fiat currency. (Predux Reference[\[The Grey Mother (Predux)/Transcript]\]Mackenzie: "What do you do about...money?" Grey Mother: "Some of use still use the old paper. Or barter." Mackenzie: "I haven't seen paper money in...years. What of value could possibly be left in the bank?") _September 5th, 20XX - \*_A hiker makes their way to [\[Timberwolf Mountain]\], resting in the [\[Mountaineer's Hut]\].[\[Climber's Journal Page]\] _September 6th, 20XX - \*_The hiker at the [\[Mountaineer's Hut]\] awakes to a [\[Tail Section|deafening sound]\] in the night and sees fire on the [\[Summit]\] of [\[Timberwolf Mountain]\], but cannot investigate due to bad weather. _September 7th, 20XX - \_\* The hiker from the [\[Mountaineer's Hut]\] sees smoke arising from the peak of Timberwolf Mountain the next morning, and attempts to climb the summit to investigate. They also find several [\[Cargo Container|Cargo Containers]\] scattered across the mountain that weren't there before. _November XX - \*_Unknown individuals plan on secretly staying in Mystery Lake around this time, despite the park closing for the season.[\[Off Season Fun]\] == The [\[First Flare]\] (events of [\[Wintermute]\]) == \* Thursday, November XX, 20XX - \**A [\[Crashed Prison Transport Bus|Prison Transport Bus]\] was scheduled to arrive at [\[Blackrock Prison]\] with a bus full of 15 convicts.[\[Prison Transport Manifest]\] *In the midst of a terrible blizzard, Dr Astrid Greenwood travels to Jackrabbit Hangar to chart a plane to Great Bear Island. Will Mackenzie initially refuses the job, but eventually agrees to fly her to Perseverance Mills later that night. _A single massive solar flare, known as the [\[First Flare]\], occurs on the evening of Thursday, November XX, 20XX - \*_A heavy windstorm storm envelopes Great Bear Island.[\[The Grey Mother/Transcript]\]Grey Mother: "There was an Outsider woman. I heard her pass through. She wasn't alone. There were angry voices, and...but the storm was so loud."[\[Trauma/Transcript]\] Father Thomas: "This is the old community hall, in Thompson's Crossing. We gathered people here after the weather started turning bad three...or was it four days ago? The houses became too cold and it seemed better to bring everyone under one roof. Then yesterday, the crash survivors started showing up." \**Electronic devices across northern [\[Canada]\] and presumably the rest of the world (not mentioned, confirmed, or refuted by Wintermute story) stop working, leading to total blackouts and loss of communication, and possibly the collapse of most nation states. \**Disruption of weather patterns, extremely cold temperatures, and brutal snowstorms occur frequently across many regions of Great Bear Island and presumably the rest of northern Canada. Reoccurring Auroras and [\[Glimmer Fog|Electrostatic Fog]\] begins to plague certain areas of the world, occasionally reviving technology and [\[Buffer Memories|computers]\]. (Earth's magnetic polarity fields may have been damaged, explaining the sudden shifts in weather and the longer winter in the northern pole.) \**Wildlife behavior is disrupted. Predators that once avoided humans now stalk or attack them on sight. Bears are roused from their hibernation and begin roaming the area. Wildlife that normally sleep at night (such as birds) become active when the Aurora is out at night. \*\*\*[\[Timberwolf]\] packs begin stalking and attacking people across [\[Pleasant Valley]\] and [\[Blackrock]\]. \**Loss of electricity, severe weather, and food/water shortages leads to widespread looting and violence throughout many of the affected areas. It can be inferred that law and order in cities across the planet has also presumably broken down for the time being. \*\* Dozens of motorists are stranded on highways and roads after their cars stopped working. Refugees from the highway near Milton begin to make their way toward the town to avoid freezing to death in the night amidst the blizzards.[\[The Grey Mother/Transcript]\] Grey Mother: "The power went out. Who knows the reason. People started to get cold, hungry. They panicked. Started to talk crazy. Others walked here from the highway...some, belonged here. Others, were Outsiders like you." \**Multiple violent earthquakes rock various sections of Great Bear Island, ruining the [\[Trans-Island Railway Line]\], [\[Great Bear Highway]\], and other essential roads. Most of the Island's infrastructure is buried in landslides and avalanches. Seamless connections between regions are now made impossible, and travelers are forced to use dangerous abandoned mineshafts, caves systems, and other side passages to navigate around even the most basic obstructions. Rope climbing across steep cliffs is required to leave or enter certain isolated locations, such as Milton. \*\**With the road blocked by a landslide near [\[Spruce Falls Bridge]\] and the tunnel near the [\[Crashed Prison Transport Bus]\] being collapsed, this means that the Town of Milton is entirely cut off from the world, except by mountain rope climbing, leaving [\[Grey Mother]\] to conclude that the Town of Milton is finished, along with herself. \*\**Several landslides bury roads across the island, including: [\[Landslide (Hushed River Valley)]\], [\[Landslide (Bleak Inlet)]\], [\[Landslide]\], [\[Commuter's Lament]\], [\[Unyielding Inundation]\], [\[End of the Road]\], [\[Road Collapse]\], and many others. \**A prison bus carrying several inmates to [\[Blackrock Federal Penitentiary]\] crashes into a collapsed tunnel outside Milton. Some of the inmates survive, [\[Hobbs]\] among them, and proceed to [\[Milton]\], where they hold the residents and refugees from the highways hostage in the [\[Old Schoolhouse]\] and then ransack the town. The Old Schoolhouse catches on fire due to sparks from the electrical wiring from the Aurora, with everyone still trapped inside.[\[The Grey Mother/Transcript]\]Hobbs: "People all hanging around...trying to get warm after the power went out. All huddled together. Scared and freezing." ''Coughs before chuckling "''Man, I would have liked to have seen that. But we sure warmed them up!" ''Smiles and coughs again'' Will Mackenzie: "You're a bastard!" Hobbs: "That's about right." ''Begins laughing uncomfortably'' "We put them all in the old school house so we could keep an eye on them. And then something happened to the lights...the power...it was like sparks everywhere and then fire. Your scarf lady found us while the school was burning. She tried to help get them out. But it was already too late. Smoke already did em' in." \*\**Many other prisoners instead travel the road out of Milton rather than going into the town. These Convicts include [\[Mathis]\], [\[Heller]\], [\[Vachon]\], and several others. Many make their way to Pleasant Valley in the coming days, with Mathis traveling alone as far as the Carter Hydro Dam. \*\**Astrid Greenwood arrives at the town attempting to save the residents, but they are killed by a fire from a subsequent Aurora event and the Convicts scatter, with one attempting to overtake [\[Milton House (Grey Mother's)|Grey Mother's home]\] before being shot and killed. Astrid attacks one convict and stabs Hobbs with a Hunting Knife, then runs out of town as she is injured during the fight, before squeezing through the crashed prison bus before the tunnel fully collapses. She then travels along the road until she passes out at [\[Keeper's Pass South]\]. \*\**One resident of Milton escapes the town after being attacked by a Convict and drops his belongings in Broken Railroad, then bleeds to death in Forlorn Muskeg a day later.[\[Blood Soaked Note]\] \*\**Alice becomes lost in the storm on that night and dies inside the cave system past [\[Spruce Falls Bridge]\] when she becomes separated from the other fleeing residents after the storm worsens.[\[Lost in the Storm]\] \*\**Wolves begin to overtake the town shortly after, due to a lack of humans. [\[Martin Barker]\] is killed by a Wolf in his shed at [\[Paradise Meadows Farm]\]. \**The [\[Convicts|Prisoners]\] of [\[Blackrock Prison|Blackrock Federal Penitentiary]\] break out of their cells and execute the prison's staff after a sudden power loss, turning the prison into their own personal fortress and using it as a base of operations to begin looting nearby locales as they see fit. \*\*\*[\[Franklin]\], the warden of the prison, is taken hostage. \*\*\*[\[Jace]\] is driving through Blackrock to the [\[Suzuki Radio Telescope]\] when her car stops functioning. She wanders the region for what seems like hours until she hears gunshots near the Prison. She sees that it is overtaken by criminals, and hides somewhere in the guard towers nearby. \**Several helicopters and [\[Plane Crashes|planes crash]\] across various sections of the Island. \*\**Pilot [\[Will Mackenzie]\] and [\[Dr. Astrid Greenwood]\] crash in the mountains outside of Milton following the total loss of power to [\[Mackenzie's Crashed Plane|Mackenzie's Plane]\]. Astrid escapes and travels to the town, loosing most of her scarf along the way, while Mackenzie is stranded in a ravine with serious injuries and passes out in a nearby cave for the night. \*\**A motorist named Matt loses control of [\[Matt's Truck|his truck]\] and drives off a bridge in [\[Desolation Point]\]. \*\**Some hikers heading to Timberwolf Mountain become lost at [\[Point of Disagreement]\] after their cars crash. \**Workers at the [\[Maintenance Yard]\] notice the lights in the sky, and the correlation with it disrupting their electronics. They attempt to call Breyerhouse for help on their radios and stay indoors until help arrives, but eventually disperse into the woods to survive.[\[Aurora Observations]\] \*\**One Breyerhouse worker leaves the Shed and travels to Mystery Lake. Previously fed up with the Forest Talkers' eco-terrorism, they attempt to kill them for all the damages they have caused in the past. A Forest Talker is wounded but [\[Lake Gunshots|defends himself]\] at Mystery Lake after his friend is killed.[\[Crumpled Note (2)]\] _Friday, November XX, 20XX - \*_Will Mackenzie climbs out of the ravine near his crashed plane and makes his way to the Town of Milton. The events of [\[Episode 1: Do Not Go Gentle]\] occur. \*\*\* Mackenzie eventually escapes Milton, and rescues [\[Jeremiah]\] from the [\[Old Bear]\] in Mystery Lake, spending the next few days nursing him back to health. _Monday/Tuesday, November XX, 20XX - \*_The Sun begins becoming more active for the first time since the First Flare. [\[Aurora|Auroras]\] regularly appear in the night sky from this point on. \**Astrid awakes in the [\[Pleasant Valley Farmstead]\] after being rescued by [\[Molly]\], 3-4 days after she escapes Milton. \*\*\*[\[Crash Site (Pleasant Valley)|North Star Charters Flight 7030]\] crashes near [\[Skeeter's Ridge]\] in Pleasant Valley the previous day from when Astrid awakens. Half of the passengers die as the plane is torn apart upon impact, but many passengers survive and make their way to [\[Thomson's Crossing]\], though some become lost along the way.[\[Trauma/Transcript]\] Father Thomas: "The crash site? Don't you remember? ...another one suffering from shock maybe?" Astrid: "I crashed...but days ago. Far from here." Father Thomas: "No no...you crashed yesterday. In the hills. A terrible crashing sound. I even heard it over the howling blizzard. Don't you remember?" \*\**After killing the Old Bear, Mackenzie passes out and awakens to a functioning shortwave radio Jeremiah rebuilt. He calls Perseverance Mills before the radio is destroyed during the aurora. \*\*\**Astrid tries to call Perseverance Mills via [\[Signal Hill]\] during an aurora, and hears Mackenzie's voice from the previous radio broadcast, confirming that the events of [\[Episode 2: Luminance Fugue]\] and [\[Episode 3: Crossroads Elegy]\] take place almost simultaneously. \*\*\*\*(Unknown time after previous events) [\[Episode 4: Fury, Then Silence]\] takes place. == 1 Year after First Flare (events of [\[BLACKFROST: The Long Dark II]\]) == TBA == [\[Tales]\] from [\[Tales from the Far Territory]\]== \*25-9-1982 -[\[Stained Paper]\] \**The green light is given to fund [\[Dr. Rüdiger|Dr. Rüdiger's]\] Project by Jahnn Industries in the [\[Langston Mine]\] in the [\[Zone of Contamination]\]. The project will be to build [\[Rüdiger's Machine]\], a device used to study the natural geological cycles of Great Bear Island, and to use this data to understand Earth's natural cataclysmic cycles so that Mankind will be ready for the next major end of the world scenario. \*\**Several workers, security personnel, and supplies are flown to [\[Field 31]\]. They are later transported to [\[Transfer Pass]\], and then shipped to the Mine. \*\**A secret evac point at [\[High Peak Plateau]\] is built for Rüdiger if anything goes wrong in the future. \*\**Shipments of resources are hauled from the coast to the inland bases. Locals of the Island starting to notice the supplies being taken inland to the operation around the Airfield and Mine, but ultimately lose interest.[\[Security Chief's Log 6]\] \*\**Several planes fly in to deliver supplies for the project, with workers at Field 31 not knowing the cargo's true importance.[\[Memo (Survival)]\][\[Paper]\] \*\**Helicopters fly across the mountains between [\[Forsaken Airfield]\] and [\[Zone of Contamination]\] to deliver materials.[\[Page (2)]\] \*\*\*[\[Bunker Alpha]\], [\[Bunker Beta]\], [\[Bunker Gamma]\], and [\[Bunker Omega]\] are used in the early stages to house the workers in order to avoid suspicions from the locals, as well as to keep the project under wraps. Captain Redrick, 14th Wing, SAR at [\[Field 31]\], begins noticing odd radio signal interference coming from across the Island coming from these bunkers, but without repairs being made to several [\[Transmitters]\] to link the Forsaken Airfield radio coverage in the Far Territory with Lower Great Bear, the locations of the Bunkers remain undiscovered.[\[Field 31 Operation Memo]\] \*[\[The Security Chief]\], Lena Vertasky, is flown in to Field 31 to oversee security in the mine. She is hired by Jahnn Industries, and is provided an [\[Security Chief's ID Badge|ID Badge]\]. _Phase one of the project begins on Rüdiger's Machine after a suitable chamber to house the device is found in the mountain near the [\[Concentrator]\] above the Mine.[\[Security Chief's Log 14]\] \*_Several workers already working for the Langston Mining Corporation at the mine are given a new opportunity to earn bonus work as part of the project. This would require a non-disclosure agreement however, and the workers would not get paid or be able to leave until the job is finished. \**Miner Teams 1 and 2 cooperate with the project, but are on shaky ground. Team 3 becomes volatile and refuses to work on the project (either because they wish to leave the island and go home or due to working conditions), and the Security Chief calls for additional security to be flown in immediately. The Medical Officer conducts alignment interviews with the workers and makes troubling observations for worker morale. Ultimately progress continues on the project. *Day 38 of the project - Dr. Rüdiger and his associates arrive on the Island and have all workers in the mine sign new paperwork. A track above the Concentrator is established into the mountainside to make hauling resources to the Machine easier.[\[Foreman's Site Report Day 38]\] *Day 45 of the project - Work continues on the Machine as earthquakes begin destroying much of the temporary scaffolding on the project site. Most of the work on the Machine is completed by this point. There are enough generators to power a town through the winter installed in the Machine.[\[Foreman's Site Report Day 45]\] _Power is run to Rüdiger's Machine for the first time.[\[Security Chief's Log 23]\] \*_Team 3 is negatively affected by a sudden unknown illness that begins to rot the memories and mental faculties of all affected. \**Eventually, a large portion of the miners are effected by this sudden illness. \*\* Workers at [\[Field 31]\] begin to be affected by [\[Glimmer Fog]\].[\[Note (Forsaken Airfield)]\] _Day 64 of the project -The [\[Project Medical Officer]\] is flown to the Island to determine in person the cause of the sudden outbreak of the mental illness in the mines effecting the workers.[\[Foreman's Site Report Day 64]\] \*_Patient 7 becomes the focus of some of the Project Medical Officer's Interview Transcripts. \**A reoccurring pattern is found with the illness; every patient has an obsession with water as they attempt to recall past dreams and memories. Examples include: \*\*\*[\[Interview Transcript 4]\] \*\*\*[\[Interview Transcript 17]\] \*\*\*[\[Interview Transcript 12]\] \*\*\* [\[Security Chief's Log 32]\] \*\*\*[\[Faded Photograph]\] of [\[Enduring Waterfall]\] found in [\[Security Chief's Log (illegible)]\] \*\*\*[\[Rüdiger's Diary 2]\] \*\*\**Other references to this pattern can be found in [\[Episode 4]\]: \*\*\*\*\*[\[Conspiracy Theories]\] \*\*\*\**Samual Franks [\[Lost Worker's Note]\] \*\*\*\**Individuals affected by the illness at [\[Perseverance Mills]\] have been found breaking quarantine and wandering into the water. \*\*\*\**The [\[Trader]\] \**Most of the workers are confined to their quarters to prevent them from wandering. Most if not all of the mining staff and security personnel is now suffering from mental degradation. \**The Security Chief, The Foreman, and The Project Medical Officer begin to show signs of being effected by the outbreak, but not to the extent that the miners are.[\[Security Chief's Log 32]\][\[Foreman's Site Report Day (illegible)]\] \*\**Rudiger appears to be entirely unaffected by the illness, causing the Security Chief to believe he has a cure, and knew ahead of time that exposure to the Machine would cause this outcome to occur. \* Rüdiger's Machine is taken offline, with Dr. Rüdiger himself avoiding contact with any miners or security personnel, having self isolated.[\[Security Chief's Log 29]\] _The Project Medical Officer concludes that exposure to the Mine is the primary cause for the illness.[\[Interview Transcript 17]\] \*_He also concludes that the illness is not a virus or pathogen, as no physical damage to the body has been discovered. \**The Medical Officer holds out hope that treatment will be possible for those affected by the illness once they are taken away from the work environment. _As it becomes clear that the situation at the mine is lost, The Security Chief tries to reason with Rüdiger to cut his losses and save the workers. Instead, the Doctor destroys as much evidence related to the project as he can, then flees to [\[Sundered Pass]\] with all the data he acquired from the project.[\[Security Chief's Log 33]\] \*_Rüdiger presumably burns down the [\[Boss's Settlement]\] to cover his trail. \**A helicopter filled with mentally damaged workers was sent back to the Mainland with [\[Security Chief's Log 31]\] and the [\[Foreman's Key]\], but crashed in the mountains near [\[Old Corral]\]. This could have been possible sabotage by Rüdiger, or could have been legitimate engine/pilot failure. The surviving miners presumably wander off and die in the wilderness. \**The Security Chief then goes deeper into the Langston Mine, in order to destroy the Machine. It is unknown if she accomplishes her task, but eventually she perishes in the nearby control room as she loses her mind. *The Foreman, who was secretly a mole for Jahnn Industries, was already given a secret mission to track down and bring Rüdiger in should he withhold or not produce any data from the project for the company. The Foreman then begins tracking down the Doctor for failing to provide a return on the company's investment after the failure of The Machine.[\[Foreman's Technical Log 4]\] "Did you think the board was going to sit by and let you just walk away? After everything you promised? If it had gone another way down in that mine, you'd have never even known I was here. Just another hired hand."[\[Foreman's Technical Log 2]\] "I’m gonna try and keep a record of all this, as long as I’m able. Photos, whatever I can. These notes. If I make it back I’ll need something to show for how this all went to shit. _They\_ will want to know." \**The Security Chief and the workers did not know of The Foreman's true role in the project.[\[Foreman's Technical Log 1]\]  
- [\[Foreman's Technical Log 3]\] _Dr. Rüdiger attempts to radio for a private evacuation via a transmitter at [\[High Peak Plateau]\], but help ultimately never arrives. [\[The Foreman]\] shadows the Doctor from afar during this time, making his base in [\[Last Lonely House]\] as his mental status deteriorates. Rüdiger is aware that that he is being stalked, as he predicted and feared might happen with his failure at the mine, and hides in the [\[Basement (Sundered Pass)|Basement]\] of a [\[Old Settlement|ruined settlement]\] in between trips to the Peak. \*_The Foreman begins losing his belongings as his mind fails, losing various Polaroids and Technical Logs at each location he visits, including his [\[Tactical Gloves]\]. _Realizing that an evac is not coming for him, Rüdiger's mental state begins to fail, as he realizes that he also has been effected by the Machine's mind destroying properties. Rüdiger ultimately decides to leave the Pass and return to [\[Bunker Omega]\]. \*_Rüdiger is attacked by a [\[Cougar]\] on his way to Bunker Omega, but survives. His [\[Rüdiger's Watch|gold watch]\] is damaged during the struggle, and he is badly wounded. Eventually he successfully makes his way inside the Bunker, and hides in a hidden room.[\[Foreman's Technical Log 4]\] "I could see he'd already had a bad time of it out there. It must have been a cougar." _The Foreman tracks the doctor down, and demands the data from the project be handed over. An altercation occurs between the two, as Rüdiger attempts to shoot and kill The Foreman, but he is too slow and is instead shot himself. The doctor dies, and The Foreman makes an account to the best of his memory of what happened, before his mind fully deteriorates. \*_The Foreman leaves behind his [\[Foreman's Technical Log 4]\] (with barely legible handwriting by this point), his [\[Tactical Jacket]\], and the [\[Security Chief's ID Badge]\] in the hidden room before sealing the false wall, leaving the Bunker, and wandering off to never be seen again. \**The data regarding the project is ultimately lost. \*12 June 1991 - \**A traveler hides a [\[Faded Paper]\] in the Loose Boards at [\[Mindful Cabin]\] as they travel the Far Territory. \* 18-Jun-91 - \**The same individual buries [\[A Page From A Journal]\] at the [\[Boss's Settlement]\] as they explore the ruined Langston Mine. _At some point, [\[Rüdiger's Machine]\] is reactivated (assuming that it was never fully disabled by the Security Chief). People with symptoms similar to the miners in the past begin to appear in [\[Perseverance Mills]\]. \_\*[\[Lost Worker's Note|Samuel Franks]\] and [\[Conspiracy Theories|a suspicous person]\] around Blackrock also show symptoms as the miners affected by the device long ago. == [\[Episode 1: Do Not Go Gentle]\]== ===[\[Memories]\]=== _Astrid Greenwood travels to [\[Jackrabbit Hangar]\] with a [\[Astrid's Hardcase|mysterious hardcase]\], attempting to chart a plane from her ex husband, Will Mackenzie, to the remote island of Great Bear Island. \_ The First Flare occurs mid flight over Lower Great Bear, and Mackenzie's plane crashes in the remote wilderness of Lower Great Bear. ===[\[The Crash]\]=== _Astrid Greenwood survives the plane crash and makes a campfire near a small pond nearby, before making her way to the Town of Milton. She attempts to save the residents burning alive in the [\[Old Schoolhouse]\] before being attacked by [\[Convicts]\] and escaping through the tunnel out of Milton. \_\* [\[Hobbs]\] has a [\[Hunting Knife]\] stabbed into his chest by Astrid and flees to [\[Paradise Meadows Farm]\]. *Will Mackenzie survives the plane crash but is stranded in a ravine close to his plane for 1 night, due to injuries he sustained from the crash. Mackenzie climbs out of the ravine the next day and finds Astrid's Hardcase but not Astrid, and then follows her trail through the woods before arriving at Grey Mother's home. The woman inside is reluctant to help him after her town was destroyed by Convicts the previous night, but she offers to help Mackenzie find Astrid in exchange for food and fuel. ===[\[The Grey Mother]\]=== _Mackenzie finds food and fuel to help Grey Mother survive. \*_Mackenzie finds [\[Methuselah]\] inside the [\[Orca Gas Station]\] as he searches for supplies. _Grey Mother directs Mackenzie to the tunnel out of Milton, but Mackenzie finds that the [\[Crashed Prison Transport Bus]\] and an avalanche has blocked the tunnel. \_\* Mackenzie finds a message inside the bus left by Astrid: PERSERVERANCE. Grey Mother surmises that this is a clue pointing to an old logging town north of Milton, [\[Perseverance Mills]\], giving Mackenzie an objective to travel to. \**Grey Mother and Mackenzie realize they are both stranded in Milton for now. _Grey Mother then asks the pilot to retrieve [\[Grey Mother's Safety Deposit Box|her Safety Deposit Box]\], then to give [\[Grey Mother's Pearls|her Pearls]\] to [\[Lilith Barker]\] at her grave, finally giving Grey Mother closure and peace regarding her daughter's death. She rewards Mackenzie her daughter's old climbing gear, giving him a way to leave the town. \_\* Mackenzie finds Hobbs in the farmhouse, and chooses to either kill or spare him. The convict's fate is unknown if spared. ===[\[Paradise Lost]\]=== \* Mackenzie finds Methuselah for a second time outside of [\[Milton Park]\], with the old man congratulating the pilot for escaping the town and passing judgment on Mackenzie for how he chose to deal with Hobbs. \* Mackenzie circumvents the blocked tunnel out of Milton by passing through the mountains into [\[Mystery Lake (region)|Mystery Lake]\] encounters [\[Jeremiah]\] being mauled by the [\[Old Bear]\]. Mackenzie grabs the trapper's hunting rifle, and shoots the bear, scaring it off. Mackenzie then drags Jeremiah to his [\[Trapper's Homestead]\] and stabilizes his injuries for the next few days. == [\[Episode 2: Luminance Fugue]\]== ===[\[The Wounded Trapper]\]=== *Will Mackenzie nurses [\[Jeremiah]\] back to health to the best of his abilities, and the trapper wakes up. _Jeremiah urges Mackenzie to find [\[Carter Hydro Medical Supplies|Medical Supplies]\] in the nearby abandoned Carter Hydro Dam, as well as find [\[Radio Parts]\] to fix the his shortwave radio. \_\* Mackenzie encounters the Old Bear for a 2nd time outside the Carter Hydro Staging Area, but the bear wanders off after being unable to attack Mackenzie through the fence. \*\* Mackenzie finds [\[Carter Hydro Medical Supplies]\] and [\[Radio Parts]\] and returns to Jeremiah. \* Mackenzie gives morphine to Jeremiah to stabilize him, with the trapper revealing that both he and Mackenzie are trapped in Mystery Lake as long as the Old Bear is still alive. Jeremiah needs to send a message to Perseverance Mills and Mackenzie informs him that he is looking for Astrid. Jeremiah confirms that the road she took out of Milton does not connect with Mystery Lake, and that they need to repair the Shortwave to message the Mills to see if she made it there. ===[\[The Best Defense]\]=== _Jeremiah then gives Mackenzie an objective to travel to Broken Railroad find the mysterious [\[Bear Spear]\], as the trapper's [\[Hunting Rifle]\] won't be enough to kill the bear. \*_Mackenzie travels to the region and encounters the Old Bear for the 3rd time, who attacks him and knocks him out. When Mackenzie awakes, the [\[Aurora]\] is in the night sky again, with [\[Methuselah]\] nearby for a 3rd encounter. \**Mackenzie finds the [\[Hunting Lodge]\] and obtains the spear, but it is [\[Broken Bear Spear|Broken]\]. \**Mackenzie encounters a ringing phone in the lodge, but the phone call disconnects before Mackenzie can answer it. \**Mackenzie re-forges a [\[Spear Head]\] and rebuilds the Bear Spear, then returns to Jeremiah, encountering the Old Bear a 4th time, but it keeps its distance. ===[\[Signal to Noise]\]=== _Jeremiah gives Mackenzie the objective to find [\[Transponder Parts]\] from the 3 Shortwave Radio towers in [\[Forlorn Muskeg]\] to further repair his ham radio and boost the signal, so he can send his message out. \_\* Mackenzie encounters the Old Bear again, almost as if it is guarding several towers, but drives the bear off with the Bear Spear. \**After finding all 3 Transponder Parts, Mackenzie returns to Mystery Lake, but is ambushed by the Old Bear. He is attacked and rendered unconscious, then dragged into the [\[Old Bear's Den]\]. ===[\[What One Man Can Do]\]=== *Mackenzie, unarmed, travels through the cave system to retrieve his Bear Spear, and ultimately kills the great beast. He then returns to Trapper's Homestead with the Transponder Parts, and passes out. *Jeremiah fixes his shortwave radio as the Aurora appears in the night sky. He tunes the frequency to contact Perseverance Mills, and allows Mackenzie the honors of contacting them. A radio broadcast between an unknown party and Perseverance Mills is intercepted, with Mackenzie unable to get a word in with the two parties before the ham radio fizzles out (his words are broadcasted however). Jeremiah is distressed over the loss of his radio, and gives Mackenzie a message that he insists NEEDS to be taken to a woman living near the town named [\[Atwood]\]. The message is WINTERMUTE. === [\[Renewed Hope]\]=== _Jeremiah gives access codes to the control room in the Upper Carter Hydro Dam, and plots a course to [\[Perseverance Mills]\] for Mackenzie: Pass through the Dam, then through the [\[Winding River|Carter River]\], then reach a [\[Signal Hill|Radio Station]\] to call Perseverance Mills again before continuing to travel north to the Mills. \_\* Mackenzie encounters Methuselah for the 4th time outside the Hydro Dam. \* Mackenzie is assaulted inside the Dam, with [\[Astrid's Hardcase]\] being confiscated by a Convict named [\[Mathis]\] who demands that it be opened. \**Mathis mentions encountering a woman in the Dam and harming her, frightening Mackenzie who thinks this is Astrid. _After interrogating Mackenzie over the contents of the Hardcase and into revealing the location of his plane, Mathis knocks Mackenzie out and drags him out of the dam through the Winding River, eventually regrouping with [\[Vachon]\] and [\[Heller]\] and traveling through Pleasant Valley and Keeper's Pass South. == [\[Episode 3: Crossroads Elegy]\]== ===[\[Trauma]\]=== \_ [\[Molly]\] encounters Astrid Greenwood outside of the tunnel to Milton in [\[Keeper's Pass South]\], and drags her back to her home to save her. _Astrid Greenwood awakes inside of [\[Pleasant Valley Farmstead]\], and is introduced to her savior, before eventually going back to sleep. \*_Astrid explains to Molly that she escaped from Milton. \**Astrid asks if Molly has seen a man from the crash with her, but she denies seeing him. \**Molly reveals that the lights have been out for days, with even the generator outside the house refusing to work. _Astrid awakes after Molly returns with a food for the both of them, but leaves in frustration after Astrid asks more about her home. \*_Molly reveals that she has locked every door to the house from the outside before she leaves, trapping Astrid inside. \**Astrid snoops around the house, finding a piece of orange fabric from a prison jumpsuit, a photo of Molly and her husband, and an exploded rifle. _Molly later calls Astrid over the phone, saying she is trapped in her barn with wolves and giving her the location of a key to the basement. She asks Astrid to bring her some Rifle Ammunition, as well as to arm herself with a Revolver. \*_A light earthquake hits Pleasant Valley. This will be the first of many light earthquakes. Astrid finds the corpse of [\[Molly's Husband]\] in the basement at this time. \**Astrid follows blizzard lines to [\[Barn (Molly's)]\], but only finds a dead [\[Timberwolf]\] with arrows stuck in it when she goes inside. _Molly calls Astrid over the phone telling her that she got away, but Astrid reveals that she found the body in the cellar. Astrid then finds a [\[Community Hall Flyer]\] and heads to [\[Thomson's Crossing]\] to see if Mackenzie passed through there. She sees a large bonfire along the way in the middle of town, a beacon of sorts. \*_It is assumed that Molly began hunting the Convicts throughout the region after this point, as she had forgotten she had a bow stashed in the barn from last summer until she waited for Astrid to come help her, and many of the Convicts have arrows run through them. \**Mathis presumably escaped the region into Winding River at this point. ===[\[Fallen Star]\]=== _Astrid arrives at the [\[Community Hall]\], and finds several [\[Crash Survivor|Crash Survivors]\] from a nearby passenger plane crash. A man by the name of [\[Father Thomas]\] asks if she too is from the crash, but Astrid says she was from a different plan crash. Astrid then uses her skills as a doctor to tend to the wounded. Father Thomas also reveals that a monster blizzard is arriving soon in a few days, and that the Community Hall will need several supplies if the Crash Survivors are to recover. \*_Many plane survivors died from their injuries and were stored in the basement in order to preserve the bodies and keep the wolves from attacking the Hall. \**Astrid tends to every survivor, but finds one man, Dimitri, with a diabetes wristband. She decides to journey to the plane crash to find his [\[Insulin]\]. Father Thomas asks Astrid to find evidence of any missing passengers, as the Crash Survivors will need closure to begin healing after the devastating events that have taken place. \**Molly calls the Community Hall and Astrid picks up, revealing more information about her past regarding her husband, and leaving a [\[Molly's Gift|gift]\] near the playground. \*\*[\[Timberwolf|Timberwolves]\] attack Astrid for the first time, but she fends them off. _Astrid arrives at the [\[Crash Site (Pleasant Valley)]\] and is astounded by the devastation before her, questioning how anyone could have survived the impact. She finds several I.D. cards of many of the dead passengers in the snow, before finding [\[Characters#Gwen|Gwen]\] at the tail section next to Dimitri's suitcase containing her insulin. \*_A flashback occurs here, with Astrid appearing the past as Seraphim Sleep Research Centre, with [\[Jane Yang|a friend]\] calling and pleading her to find a cure for an illness affecting her home in [\[Perseverance Mills]\]. \**Astrid begins taking Gwen back to the Community hall after finding IDs of from the corpses she can find at the crash site, as well as a [\[Passenger Manifest]\]. Some passenger names are missing. \**Astrid receives a phone call from Molly at a burned down building, with Molly revealing more about her past. \*\*\* Astrid is aware that Molly is stalking her, as she mentions currently seeing Astrid with a survivor. \*\**Molly also reveals that all phones in the region are linked via a party line, and she just has to wait for Astrid to pick up any phone in the region to talk to Astrid. The phones also work because they run on a pre-electronics system, despite all modern electronics failing. *Astrid carries Gwen to the Community Hall, administers Insulin to Dimitri, and gives the ID cards to every survivor in the Hall, however she was unable to find 3 people's IDs on the Passenger Manifest. ===[\[Coming Storm]\]=== _Father Thomas urges Astrid to look for the 3 missing plane passengers, as they may still be out in the Valley, as well as finding any supplies to help the survivors through the coming storm. \*_Astrid does find 3 missing Crash Survivors: Ava, Wade, and Logan, and returns them to the Hall one by one. Astrid also recovers enough supplies to keep everyone alive through the Blizzard. ===[\[Aftermath]\]=== _Father Thomas gives Astrid a [\[Map of Pleasant Valley]\], showing her how to leave the region to make her way to Perseverance Mills, as well as the location of [\[Signal Hill]\]. Astrid goes to the radio station to radio the Mills, but the equipment is unpowered. She sleeps, only to awake to the Aurora with the station powered. She attempts to get a message out but overhears the conversation between Mackenzie and the unknown 2 parties from Episode 2. \*_Astrid knows Mackenzie is alive. \**Molly calls the Astrid for the final time, confirming that she has been the one killing the various Convicts in the region that Astrid has been finding ([\[Blackrock (mission)|Blackrock]\]). She reveals in the killing, feeling more free than she's ever felt before, and embraces her new life as a killer in this new world. *Astrid leaves Pleasant Valley as the whiteout blizzard envelops the region, and makes her way to [\[Cinder Hills Coal Mine]\]. She encounters a setback after an earthquake sends her to the lower level of the mine, but she ultimately escapes into Coastal Highway. *Astrid comes across a dead Orca pod, and remarks that nature is changing due to the First Flare and the Aurora, and then continues her journey alone to Perseverance Mills. == [\[Episode 4: Fury, Then Silence]\]== ===[\[Prologue]\] === _Will Mackenzie wakes up on a stretcher. His hands are tied and he is being carried by [\[Vachon]\] and [\[Heller]\] through the woods in [\[Keeper's Pass North]\]. Mathis is in tow, with the Hardcase. [\[Timberwolves]\] attack the group and Mackenzie escapes, before eventually being recaptured, knocked out again, and taken to [\[Blackrock Prison]\]. \*_Vachon reveals that one of the Prison Bus inmates, LECLERC, Y., was killed with an arrow shot through his chest. This was presumably Molly's work. \**Mathis reveals that the woman he met in the Dam is dead by his hands. ===[\[Blackrock Blues]\]=== _Mackenzie awakes in a cell and is greeted by [\[Franklin]\], the warden of Blackrock, who reveals that after the First Flare the convicts took over the prison and executed most of the staff. They are only keeping him alive because they are attempting to release a prisoner named [\[Donner]\] from the solitary wing of the facility, but cannot get in and believe that the warden is hiding information from them. \*_Donnor is Mathis' son, and is even more psychotic than his father, serving a life sentence in the Prison as he cannot be returned to normal society. \**Mathis arrives with Vachon and Heller, with Mathis beating Franklin within an inch of his life, forcing Vachon and Heller to patch him up. They need medicine found outside the Prison's walls, and Mackenzie volunteers to risk his life to find it. Since the 2 convicts know that Mackenzie won't run away without Astrid's Hardcase, they reluctantly and secretly let the pilot loose without Mathis' approval, and Mackenzie finds the [\[Blackrock Infirmary Medication]\] and administers it to Franklin. He then tells the warden that he met with a woman on the phone that is trying to help them both. \**Mackenzie encounters a [\[Jace|woman]\] on the phone while searching for the medicine, actively working to thwart the convicts attempts to free Donnor. She questions what side Mackenzie is on, as he is helping the Convicts, but realizes that the pilot might be able to help her. ===[\[The Power Plant]\]=== _Mackenzie's "prison break" is discovered by Mathis, who then puts the pilot to work to repair the [\[Steam Tunnels]\] to route power to solitary. \_\* The woman on the phone reveals her name is Jace when Mackenzie arrives at the [\[Power Plant]\], and orders him to sabotage the steam reactor, which he does. ===[\[The Detonators]\]=== \* Mathis is now aware that there is a spy attempting to thwart his plans after the destruction of the steam reactor, and with the Steam Tunnels not powering solitary, he orders Mackenzie to find [\[Detonators]\] in the [\[Last Prospect]\] mine. \**Mathis tortures and kills Franklin after Mackenzie leaves, with the warden leaking information about the alliance between Mackenzie and the woman on the phone in an attempt to save his own life. \*\* Mackenzie braves through the Last Prospect mine, and finds the Detonators. After ascending to the surface, he has another phone call with Jace, who reveals that she is a student of astrophysics that was driving to [\[Perseverance Mills]\] to meet her thesis professor [\[Atwood]\]. Mackenzie reveals that he is also seeking Atwood to deliver a message to her. \*\*\* Jace also reveals that the [\[Suzuki Radio Telescope]\] is nearby the Mills, and that it is properly shielded from EMPs, meaning that anything electronic inside likely still works. She also stresses that Mathis and his Convicts cannot be allowed to get inside, as it has enough food, water, shelter, radios, working vehicles, and other resources that would allow the Convicts to rule the Island with an iron fist. \*\**Jace is aware that Mackenzie needs a his Hardcase from back Mathis, and will be delivering the Detonators to him. She reveals that her plans will now need to go "nuclear" as she has an ace up her sleeve. \**An earthquake destroys [\[Mule Bridge]\] and collapses part of the mine, knocking Mackenzie out. When he awakes, Mackenzie sees the Aurora out and is forced to travel down river to the mine. He arrives at the Prison, seeing it powered again. ===[\[Donner (mission)|Donner]\]=== \* Mackenzie returns to the prison and delivers the Detonators, with Mathis revealing that he killed Franklin and is aware that Mackenzie was attempting to thwart his plans. \**Mathis reveals that the only reason he kept Mackenzie alive was that he hoped that he could steal a working plane, but now desires to stay on Great Bear Island since civilization on the Mainland is likely ruined, and that Great Bear Island is the perfect isolated location to start his own kingdom in this quiet apocalypse. \**Mathis attempts to kill Mackenzie, but is interrupted by an explosion that rocks the Prison. _Jace activates the prison lockdown, buying Mackenzie time, and reveals that her "nuclear" plan was to cause the prison to explode, as the Convicts blew the Detonators the wrong way. This allows Mackenzie to escape. \_\* Mackenzie recovers Astrid's Hardcase in the Warden's office, and has a phone call with Jace, telling him to meet her in the [\[Power Plant]\]. \*\* Mackenzie flees through the courtyard, avoiding being shot by Convicts using powered searchlights, then flees through the now destroyed Steam Tunnels. \* Mackenzie and Jace meet at the Power Plant, and Mathis and his Convicts catch up to the two. \**Heller reveals that Donnor has been freed from solitary, but is badly wounded and dying. This news sends Mathis into a blind rage as he attempts to kill Mackenzie and Jace. \*\* Mackenzie and Jace escape through the Power Plant's river, washing ashore and freezing in the snow. They begin their journey to Atwood and Perseverance Mills. _A post credits scene reveals that Astrid Greenwood has arrived at the port of Perseverance Mills via canoe. \*_Two men[\[Characters#Townsperson One and Two|Characters]\] approach her canoe, believing that she is a quarantine breaker, but realize she is not from the Mills. \*\*[\[Jane Yang]\] approaches Astrid, surprised to see Astrid alive but confused as to why she doesn't have the [\[Astrid's Hardcase|Hardcase]\]. == [\[Episode 5: The Light At The End Of All Things]\] == _TBA ==Wintermute Side Missions== === [\[Episode 1: Do Not Go Gentle]\]=== ===[\[Milton Supply Caches]\]=== \_ Mackenzie finds several notes from the residents of Milton who left behind 3 supply caches. He finds them and takes the contents for himself. ===[\[Milton Safety Deposit Box Keys]\]=== \* Mackenzie finds several bank vault keys and uses them to open deposit boxes at Milton Credit Union. === [\[Highway Robbery (mission)]\]=== \* Mackenzie finds a note regarding a truck out near the highway with several supplies. He travels there and takes the contents of a trunk for himself. ===[\[Extra Supplies]\]=== \* Mackenzie finds a [\[Winter Forecast]\] that shows the winter will get much colder, and finds extra food and fuel for Grey Mother. ===[\[The Basics of Survival]\]=== \* Mackenzie finds several books teaching about survival skills, and learns how to mend clothing, safety pick medicinal plants, and snare a rabbit. === [\[Episode 2: Luminance Fugue]\]=== ===[\[Forest Talker Supply Caches]\]=== \* Mackenzie finds a [\[Forest Talker Map Note]\] showing 3 supply caches, and finds them. === [\[Mystery Lake Supply Caches]\]=== \* Mackenzie finds 3 notes about supply caches left by other survivors, and finds them. ===[\[Aurora Hatch]\]=== \* Mackenzie finds a note in a supply cache about a special powered Prepper Cache, and loots it during the Aurora. ===[\[Hank's Hatch]\]=== \* Mackenzie finds several notes about a Prepper Cache created by a man named Hank. \*\* Hank sent a [\[Letter for Hank's Niece|letter to his Niece]\] Angela (and by extension her mother) to come find him and his Prepper Cache if things ever went wrong. Mackenzie finds the corpse of Angela and her mother by [\[Unnamed Pond]\] and outside Hank's hatch. \**Hank had been attacked by a wolf and locked his hatch, fearing the clawing from outside was more wolves. It was instead Angela, who froze to death outside (she was carrying [\[Antiseptic]\] and [\[Bandage|Bandages]\] and could have kept Hank alive). Hank ultimately passed away from his wounds inside his bunker. ===[\[Lake Gunshots]\]=== \*2 Forest Talkers at the [\[Logging Camp]\] travel to Mystery Lake to go fishing for food, but both are attacked. One perishes on the ice but the other escapes into a nearby cabin. Mackenzie arrives and offers to help the wounded Forest Talker, finding his [\[Forest Talker Supplies]\] and [\[Forest Talker Documents]\]. The fate of the man is unknown after this. \**The Forest Talkers were likely attacked by a [\[Breyerhouse]\] worker finally taking revenge on the eco-terrorists, evidenced by the [\[Crumpled Note (2)]\]. If Mackenzie takes the man's ammo, he will be attacked after leaving the cabin the next day and perish. ===[\[Survival School]\]=== \* Mackenzie finds more books teaching about survival skills, and learns how to kill a stage, how to ice fish, and how to cull wolves. \* === [\[Episode 3: Crossroads Elegy]\] === ====[\[Church Artifact]\] ==== *An unknown individual steals a [\[Church Artifact]\] from [\[Thomson's Crossing]\] Church, looking to sell it for cash out of desperation following The Collapse. It would remain stashed in the abandoned basement of [\[Skeeter's Ridge]\] for decades until Astrid finds and returns it to the Crossing's church.[\[Newspaper Clipping]\] [\[Blackrock (mission)]\] *Astrid finds the remains of a Blackrock Prison Guard and follows a trail of dead convicts, until finding a Convict cache. [\[Forest Talkers (side mission)]\] *Astrid finds several notes showing the thoughts of the Forest Talkers and Locals of Pleasant Valley. [\[Tall Tales]\] _Astrid finds 4 different books written by T. A. Gurnsey, a local of Pleasant Valley, regarding sightings of supernatural/wonderous phenomena around the Valley. \_\*[\[Local Legends - The Big One]\] \*\**Astrid travels to [\[Pensive Pond]\] and ice fishes the [\[Big Bass (Raw)]\]. \*\*[\[Local Legends - Sasquatch]\] \*\**Astrid finds the so called "Sasquatch" inside a cave, and it was a man wearing a [\[Wolfskin Coat]\]. \*\*[\[Local Legends - The Lost Cave]\] \*\**Astrid travels to [\[Misty Falls Picnic Area]\] and finds a cave inside. Deep within, she finds the so called lost cave. \*\*[\[Local Legends - Ghost Stag]\] \*\**Astrid travels to [\[Three Strikes Farmstead]\], and sees a very rare albino [\[Ghost Stag]\]. [\[Molly's Gift]\] *Astrid finds Molly's gift containing several [\[Marine Flare|Marine Flares]\] to fend off Timberwolf attacks. [\[Joplin's Bunker Raid]\] _Astrid finds a Prepper Cache from a local named Tom Joplin, and raids 3 of them, taking the resources and giving them to the Crash Survivors at the Community Hall. Tom Joplin is nowhere to be found. === [\[Episode 4: Fury, Then Silence]\]=== [\[Blackrock Lockers]\] \_ Mackenzie finds several lockers at the prison guard barracks and finds the keys to open them. [\[Blackrock Rumours]\] \* Mackenzie finds several notes from Blackrock Prison administration, and follows the clues left behind. \*[\[Blackrock Memo - Late Employee]\] \*\* Mackenzie finds Murphy who had been panning for gold, and froze to death. He takes the man's [\[Lock Box Key]\] and finds a [\[Gold Nugget]\] in his lockbox. \*[\[Blackrock Memo - Highly Aggressive Wolf]\] \*\* Mackenzie tracks down the aggressive wolf, and finds the remains of the dead animal researcher, killed by the very wolf he was trying to save. \*[\[Blackrock Memo - Suspicious Person]\] \*\* Mackenzie finds a hidden Prepper Cache in the region, stocked with supplies, but does not find the mysterious man that it belongs to. [\[Convict Caches]\] \* Mackenzie finds several Hidden Caches left behind by Convicts in the region, and loots them. [\[Dark Star]\] \* Mackenzie finds 4 [\[Archival Report|Archival Reports]\] detailing the early days of the Blackrock region. [\[Lost Power Workers]\] \* Mackenzie finds 2 dead Journeyman Electricians that had been working at the [\[Old Substation]\]. \**One worker, Linda Burnley, had shot herself with a Revolver, likely after finding out about the Convicts taking over [\[Blackrock Prison]\], and chose to go out on her own terms. \*\* The other worker, Samual Franks, is found at the bottom of the ravine near Blackrock Prison. His corpse holds a backpack and [\[Lost Worker's Note]\], and reveals that his mind had been going downhill before the First Flare, and that he had wandered off an frozen to death. [\[A Riddle Among the Shadows]\] \* Mackenzie finds several Forest Talker notes in the [\[Last Prospect]\] mine, and uses the codes to unlock a special Forest Talker supply cache at the entrance to the mine. === [\[Episode 5: The Light At The End Of All Things]\]=== \* TBA \* ==[\[Survival Mode]\]== _A plane crash survivor begins traveling across Great Bear Island after their plane is brought down by a mysterious geomagnetic storm. They encounter no other survivors on the Island. The plane crash survivor ultimately is never able to escape Great Bear Island, and becomes one with it, struggling to survive by looting, crafting, and foraging as the days pass. \_\* All major NPCs from Wintermute/Islanders in general are missing in the world at this point in time. Only [\[Frozen Corpse|frozen corpses]\] remain. \*\*[\[Blackrock Prison]\], [\[Mule Bridge]\], the entrance to [\[Last Prospect]\], and the [\[Steam Tunnels]\] lie in ruins, suggesting that this world takes place after Episode 4. _They uncover the secrets of the past that occurred in the Far Territory, as part of the [\[Tales]\] missions. \_\*[\[Rüdiger's Machine]\] does not fully destroy the mind of the survivor when they come into contact with [\[Glimmer Fog]\] for prolonged periods of time, instead only giving them temporary [\[Insomnia]\]. This confirms that The Security Chief did damage the machine just enough so that it does not destroy the minds of anyone unfortunate enough to come into the Far Territory. \**The Machine also begins storing energy from the Aurora at night and expends energy during the day, producing Glimmer Fog in the Far Territory once more. _After a number of days of surviving in this new world, an Aurora powers a yellow radio with a transceiver and a voice speaks over the radio, the [\[Trader]\]. This begins [\[Sutherland's Tale]\]. \*_The Trader is the only other living human the plane crash survivor finds. He hints that he has a theory as to where everyone went, but ultimately teases the survivor with this info without revealing his theory. \**After performing a few trades between each other, the Trader reveals his name to be Sutherland to the survivor, and asks for some special favors to find his brother Wyatt, while also displaying several memory issues. \*\**He reveals that he had a sudden urge to head to open water during the First Flare, and that he sometimes wanders into deeper waters before snapping back to reality. He seems to be afflicted to whatever mental disease is occurring in [\[Perseverance Mills]\]. \**The survivor scours the Island for [\[Prepper Cache|Prepper Caches]\] for signs of Sutherland's brother. Most bunkers are abandoned, but 3 of them are stocked and contain hidden document stashes that help reveal clues surrounding his brother's disappearance. \**The survivor eventually finds Wyatt's remains in a 4th Prepper Cache in Pleasant Valley and delivering him to Sutherland. Sutherland suddenly remembers that Wyatt has been dead for many years this whole time, and asks the survivor to return his brother to rest and to seal the cache where he was found. \**Sutherland would continue to stay off the coast of the Island and continue trading with the plane crash survivor after gaining their full trust. Sutherland is unable to escape the Island to the Mainland due to currents and weather preventing his sailboat from leaving the coastline, and survives off of scavenging shipwrecks and debris floating in the open waters. _Eventually, after surviving alone for an indeterminate amount of time (possibly for hundreds of days, or perhaps years), the plane crash survivor fades away into The Long Dark (either due to hostile wildlife attacks, disease, lack of food/water, or falling from a great height). ==[\[Buffer Memories]\]== These events are found on various computers, and occur before the First Flare, but at unknown times. \_[\[Camp Office]\] - Someone writes reports regarding wildlife activity around Mystery Lake and sends them to an unknown party. \*[\[Milton Credit Union]\] - Anika Longmire, Female, 41, writes about her life in Milton. \*[\[Milton Post Office]\] - Chris writes a series of diary entries regarding life in the post office. \*[\[Orca Gas Station]\] - Peter Good writes about inventory in the gas station. Contacts the owner of [\[Rural Store]\] Dan Presnell. \*[\[Chasm Cave]\] - Robbie, a survivor from the [\[Tail Section|Timberwolf Mountain Plane Crash]\], writes a diary from before and after the crash, but ultimately dies in the cave. \*[\[Carter Hydro Dam]\] - Several emails from the workers of the Carter Dam regarding its maintenance before it was abandoned in the 1990s. \*\*[\[Jeremiah]\] is mentioned in two emails. \*\* Vaughn is the owner of [\[Vaughn's Rifle]\]. \* [\[Fishing Camp]\]/[\[Rabbit Grove]\] - A local fishermen's diary regarding fishing and the state of his ship/equipment. \* [\[Quonset Garage]\] - Barbara Quincy, Garage Owner, Female, 62, recounts her experiences as the gas station owner. \**Barbara is the owner of [\[Barb's Rifle]\]. \*[\[Lonely Lighthouse]\] - Name Unknown, Lighthouse Keeper, Male, 41. Recounts maintaining the lighthouse. A a traveler from the [\[Coastal Townsite]\] flees to the lighthouse due to the realities of The Collapse. \*[\[Hibernia Processing]\] - Manny Douglas becomes stranded on Great Bear Island after DeepForest Experience inserts him on the Island and does not extract him. \*[\[Maintenance Shed]\] - Emails by Jerry Baltimore, Male, 29, recounts how [\[Forest Talkers]\] continue to harass Breyerhouse employees and destroy their equipment \*[\[Maintenance Yard]\] - A Breyerhouse medic responds to a Wolf attack on a worker out in [\[The Ravine]\]. \*[\[Shortwave Tower]\] - Partner Specialist 81926 performs maintenance on the Shortwave Tower in the Muskeg as per a contract, despite the danger of the remote area. \**He was contracted by workers of the [\[Last Resort Cannery]\] to fix the [\[Echo One Radio Tower]\]. \**He eventually is chased into The Ravine and later the mountains above Bleak Inlet by hostile wildlife. ([\[Communication Report]\]) \**He eventually runs out of food and makes it to the Cannery, creating the obstacle course that leads to the [\[Workshop]\]. They eventually make it inside and lock the door, though a wolf is locked inside with them. ([\[The Technician's Notebook]\]) \*[\[Signal Hill]\] - Sarah Easton, Female, 29 writes a journal as she comments on working in the radio tower, as well as events occurring in Pleasant Valley. \*[\[Rural Store|Rural Crossroads]\] - Dan Presnell, Shopkeeper, Male, 57 sends emails to Mainland suppler Mr. Galveston requesting more complete shipments of food staples that the Pleasant Valley community is dependent on. He also emails about their ATM being discontinued and [\[Joplin's Bunker Raid|Tom Joplin]\]. ==References== {{The Long Dark}}
+**Contents**
+
+- [History &amp; Timeline](#history-timeline)
+- [Known Past Events](#known-past-events)
+- [Wintermute](#wintermute)
+- [Survival Mode](#survival-mode)
+- [Pre-Collapse](#pre-collapse)
+- [The Collapse](#the-collapse)
+- [Post Collapse](#post-collapse)
+- [The First Flare (events of Wintermute)](#the-first-flare-events-of-wintermute)
+- [1 Year after First Flare (events of BLACKFROST: The Long Dark II)](#1-year-after-first-flare-events-of-blackfrost-the-long-dark-ii)
+- [Tales from Tales from the Far Territory](#tales-from-tales-from-the-far-territory)
+- [Episode 1: Do Not Go Gentle](#episode-1-do-not-go-gentle)
+- [Memories](#memories)
+- [The Crash](#the-crash)
+- [The Grey Mother](#the-grey-mother)
+- [Paradise Lost](#paradise-lost)
+- [Episode 2: Luminance Fugue](#episode-2-luminance-fugue)
+- [The Wounded Trapper](#the-wounded-trapper)
+- [The Best Defense](#the-best-defense)
+- [Signal to Noise](#signal-to-noise)
+- [What One Man Can Do](#what-one-man-can-do)
+- [Renewed Hope](#renewed-hope)
+- [Episode 3: Crossroads Elegy](#episode-3-crossroads-elegy)
+- [Trauma](#trauma)
+- [Fallen Star](#fallen-star)
+- [Coming Storm](#coming-storm)
+- [Aftermath](#aftermath)
+- [Episode 4: Fury, Then Silence](#episode-4-fury-then-silence)
+- [Prologue](#prologue)
+- [Blackrock Blues](#blackrock-blues)
+- [The Power Plant](#the-power-plant)
+- [The Detonators](#the-detonators)
+- [Donner](#donner)
+- [Episode 5: The Light At The End Of All Things](#episode-5-the-light-at-the-end-of-all-things)
+- [Wintermute Side Missions](#wintermute-side-missions)
+- [Episode 1: Do Not Go Gentle](#episode-1-do-not-go-gentle-1)
+- [Milton Supply Caches](#milton-supply-caches)
+- [Milton Safety Deposit Box Keys](#milton-safety-deposit-box-keys)
+- [Highway Robbery (mission)](#highway-robbery-mission)
+- [Extra Supplies](#extra-supplies)
+- [The Basics of Survival](#the-basics-of-survival)
+- [Episode 2: Luminance Fugue](#episode-2-luminance-fugue-1)
+- [Forest Talker Supply Caches](#forest-talker-supply-caches)
+- [Mystery Lake Supply Caches](#mystery-lake-supply-caches)
+- [Aurora Hatch](#aurora-hatch)
+- [Hank's Hatch](#hanks-hatch)
+- [Lake Gunshots](#lake-gunshots)
+- [Survival School](#survival-school)
+- [Episode 3: Crossroads Elegy](#episode-3-crossroads-elegy-1)
+- [Church Artifact](#church-artifact)
+- [Episode 4: Fury, Then Silence](#episode-4-fury-then-silence-1)
+- [Episode 5: The Light At The End Of All Things](#episode-5-the-light-at-the-end-of-all-things-1)
+- [Survival Mode](#survival-mode-1)
+- [Buffer Memories](#buffer-memories)
+- [References](#references)
+
+The following is the official **Timeline** of events that take place in _[The Long Dark](./The%20Long%20Dark.md)_. Due to a lack of concrete dates provided in the world of _The Long Dark_, this list is compiled in order of known chronological events followed by what occurs in game. Information provided during the Missions and Side Missions Episode 1 and Episode 2 is based on the current Redux timeline, not the [Predux timeline](./Cut%20%E2%80%94%20Discontinued%20Content.md#The_original_Wintermute_storyline). Some Predux timeline details are presumed to still be true, unless explicitly stated in the Redux (any references from the Predux timeline will be labeled as such).
+
+Information recorded here is based off of:
+
+- The events of [Wintermute](./Wintermute.md) and their [Notes](./Notes.md), [Collectibles](./Collectibles.md), and [Load Screen](./Load%20Screen.md) messages.
+- [Survival Mode's](./Survival%20Mode.md) [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline, as well as Notes, Collectibles, and [Buffer Memories](./Buffer%20Memories.md) found in the world.
+- [Challenges](./Challenge.md) and limited time Events are considered non-canon "what if" scenarios, and are not listed here.
+
+<!-- #known_past_events -->
+​
+
+<!-- #Known_Past_Events -->
+​
+
+<!-- #Known_past_events -->
+​
+
+<!-- #known-past-events -->
+### _Known Past Events_
+
+The following is a list of events confirmed to have happened, but the exact dates are unknown. As such, anything listed below may be out of order chronologically.
+
+<!-- #Wintermute -->
+​
+
+<!-- #wintermute -->
+### [Wintermute](./Wintermute.md)
+
+- It is unknown what year Wintermute begins, but it is theorized to occur sometime around 2012-2020s. Grey Mother mentions the collapse occurred 10 years before the present. (Unconfirmed. Predux information)<span id="fnref1"></span>[¹](#fn1)
+  - Some time in the past, Mathis, and Heller were imprisoned on the Mainland in Montreal, Canada. Mathis had a plan months in the making to escape from the prison and busts out at the right time. The get away driver is 2 minutes late to pick the gang up. Heller escapes but the Mathis stays and beats the get away driver for being late, taking 5 guards to pull Mathis off him. Heller would later be apprehended and both men would be sent to Great Bear Island's Blackrock Prison via the prison bus. &lt;ref&gt;[Blackrock Blues/TranscriptHeller](./Blackrock%20Blues%20%E2%80%94%20Transcript.md): "Right. You clean up the warden and I'll tell you all about it. So there was this really tight plan, Mathis had months to set it up. Everyone had their part to play. It was like...out of a fucking movie. So we bust out, and all hell breaks loose. We get to the front gates, it's a mess, right? Place is in chaos. And the driver who's supposed to pick us up. He's late."
+
+Vachon: "No shit."
+
+Heller: "No shit. So the driver pulls up, like...two minutes late. Alarms are going off everywhere, it's like...the prison guards are coming after us. we're going to get grabbed at any second. We're yelling at Mathis, "Come on man let's go. Let's get outta here!" And Mathis just stands there. Looking at the fucking driver. Looking like...he wants to eat the guy. The driver's terrified. Mathis walks over to the van, slowly. We're all jumping in and yelling to get out, and we...and we can _see\_ the fucking guards coming. Like, we are done. We need to GET OUT. Mathis...he pulls the driver out of the van, looks back at us, and...with this totally wild look in his eyes...just says..."Go". Like totally calmly, but with this wild edge. And he just starts beating the living shit out of the driver."
+
+Vachon: "Wow. I knew it went bad in Montreal but I didn't know that story."
+
+Heller: "Yeah I mean we took off. And Mathis...it took five cops to pull him off that driver. He cared less about being caught than he did about the driver being late."
+
+  - 1 week before the First Flare, [Father Thomas](./Father%20Thomas.md) mentions a massive blizzard rolling through [Pleasant Valley](./Pleasant%20Valley.md), blocking the roads out of the region. The roads remained blocked for a whole week until the Flare hits. (It is actually revealed in the mission [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) that the Forest Talkers caused the landslide) <span id="fnref2"></span>[²](#fn2)
+  - 1 week after the First Flare, the backup power at Blackrock Prison gave out and prisoners broke out of their cells, executing prison staff and taking Franklin hostage.<span id="fnref3"></span>[³](#fn3)
+    - [Jace's](./Jace.md) testimony conflicts with this information, as she claims that the prisoners broke out immediately after the First Flare hit, as it was only a few hours that she happened upon the Prison before she heard gunshots from the Convicts executing prison staff.&lt;ref&gt;[The Power Plant/TranscriptJace](./The%20Power%20Plant%20%E2%80%94%20Transcript.md): "Car broke down when the aurora first appeared. Well, not so much "broke down" as just stopped working. Like most things. It was freezing so I got out and started walking down the road, to see if I might find someone else. Or maybe some shelter. Got turned around in the darkness and snow...everything looked pretty much the same. Wandered for hours. Nearly froze to death. Then I found a fence. Followed it, and found a guard tower. Next thing I knew, I heard gunshots."
+
+Jace: "It was...horrible. The shots were...there were so many. I waited...half an hour? Longer? Crept up and I could see them, slumped against the wall. Blood everywhere. It was guards. Prison workers. Civilians. Innocents. They had executed them. I had to get out, but, I know the area a bit. There's nowhere to go, really. Not on foot. I don't know if anyone's coming to help, but I figure...I gotta do what I can to keep those fuckers locked up. Donner...he is evil. If he gets out, nobody within a hundred klicks of this place will be safe. And if this thing lasts as long as I think it will...that would be very, very bad for all of us."
+
+  - 10 years before the First Flare, [Mathis](./Mathis.md) is sent to prison for 10 years for murder. He serves 7 years of his sentence then is released on parole. Franklin was his prison warden back on the Mainland during this time.<span id="fnref4"></span>[⁴](#fn4)
+  - 20 years before the First Flare, 2 convicts escape [Blackrock Prison](./Blackrock%20Prison.md). They came back 3 days later, half dead amd begging to be let back in after being unable to survive in the wilderness on the Island during the middle of summer.<span id="fnref5"></span>[⁵](#fn5)
+  - The [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) was created 60-70 years before the present.<span id="fnref6"></span>[⁶](#fn6)
+  - Jeremiah believes that Great Bear Island has been exploited by Mainland interests for the past 100 years or so. (Predux Reference <span id="fnref7"></span>[⁷](#fn7))
+  - 100 years ago, G.W. Jahnn would found the [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) on Great Bear Island. Some of the prison's building material is used from stone mined from the [Last Prospect](./Last%20Prospect.md) mine.<span id="fnref8"></span>[⁸](#fn8)<span id="fnref9"></span>[⁹](#fn9)
+    - Old dynamite was kept in a storage shed at the Prison, with detonators kept in the Last Prospect mine. This was because there was no safe way to transport it back to the Mainland at the time.&lt;ref&gt;[The Power Plant/TranscriptMathis](./The%20Power%20Plant%20%E2%80%94%20Transcript.md): "Detonators. Can't do shit with this dynamite, unless we find detonators. Since we found the dynamite in one of the old machine sheds, the detonators should be around here somewhere."
+
+Franklin: "The...detonators. That dynamite is old. We kept it in storage because we didn't have a safe way to get it back to the mainland."
+
+  - [Mules](./Mule%20Bridge.md) were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.<span id="fnref10"></span>[¹⁰](#fn10)
+  - 150 years before the events of Wintermute, Spence creates [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) with his wife and children as he settles the land in [Forlorn Muskeg](./Forlorn%20Muskeg.md), as well as building [Bunkhouses](./Bunkhouses.md) for the hired hands. A Bear reportedly attacks the Homestead and Spence's wife falls ill, having nightmares regarding the bear. Spence believes that the bear is an evil spirit that is killing his wife, and takes his hired hands attempt to slay it. The beast is unaffected by bullets, and terrifies the locals. Spence forges a Bear Spear and sets out alone to kill the bear, and the wife's fever finally breaks. Men go out looking for Spence and find him half dead in the snow, with his final words being "spear stole the bear's soul. My wife is free now", Spence is buried but the bear carcass is never found. This resulted in the legend of the [Bear Spear](./Bear%20Spear.md) and the Demon Bear.<span id="fnref11"></span>[¹¹](#fn11)<span id="fnref12"></span>[¹²](#fn12)
+    - Years after the Spence family faded away, the [Bear Spear](./Bear%20Spear.md) would be bought by a wealthy land baron from the Homestead and hung in the [Hunting Lodge](./Hunting%20Lodge.md).
+    - Jeremiah doesn't believe the legend was real, thinking it is probably just a story the land baron made up after he bought the Bear Spear to make it less mundane.
+- [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) was founded by Jack Mackenzie, and he eventually passes the business along to his son [Will Mackenzie](./Will%20Mackenzie.md).
+- The [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), a government facility, is built on the Island to study the stars due to the Island's lack of light pollution and unique geolocation. The facility is shielded from EMP damage.<span id="fnref13"></span>[¹³](#fn13)<span id="fnref14"></span>[¹⁴](#fn14)<span id="fnref15"></span>[¹⁵](#fn15)
+  - [Jace](./Jace.md) and [Atwood](./Atwood.md) come to the Island to study Astrophysics at this facility.<span id="fnref16"></span>[¹⁶](#fn16)<span id="fnref17"></span>[¹⁷](#fn17)
+- The settlements of Port Mary and [Perseverance Mills](./Perseverance%20Mills.md) are created on the North coast of the Island. (A town called Rupert's Landing is mentioned by Jeremiah and [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md))
+- [Will Mackenzie](./Will%20Mackenzie.md) and [Astrid Greenwood](./Astrid%20Greenwood.md) marry, have a son, and separate after their son dies. Will Mackenzie continues to work at Jackrabbit Hangar, while Astrid Greenwood works for Seraphim Sleep Research Centre. Both keep their wedding bands, despite the divorce.
+  - [Jane Yang](./Jane%20Yang.md) contacts Astrid years later, pleading her to bring a cure to [Perseverance Mills](./Perseverance%20Mills.md) after a disease surfaces and overtakes her home. This sets the plot of [Wintermute](./Wintermute.md) into motion after Astrid steals the cure and makes her way to Jackrabbit Remote Transport.
+- Five men, all serving life sentences at Blackrock Penitentiary, reportedly escaped from [Blackrock Prison](./Blackrock%20Prison.md). Of the five, one returned on his own, one was found dead by pursuing officers, and the last three remained missing.<span id="fnref18"></span>[¹⁸](#fn18)
+  - The first man to attempt escape from Blackrock, [Bill Cutty](./Cutty%27s%20Cave.md) is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates.<span id="fnref19"></span>[¹⁹](#fn19)
+- The Archdiocese's decided to withdraw Father Francis McGill from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) in Milton. His services continue via Skype.<span id="fnref20"></span>[²⁰](#fn20)
+- Wolves attack [Molly's Husband](./Molly%27s%20Husband.md) after his [Hunting Rifle](./Hunting%20Rifle.md) explodes. Molly's Husband pleads for his wife to help him, but she allows the wolves to kill him. [Molly](./Molly.md) then stores her husband's body in their farmhouse cellar and covers it up. It is unknown whether it was sabotage or a cartridge misfire that caused the Hunting Rifle to explode. Though unconfirmed, it is believed that this event occurred after the First Flare, due to the freshness of the body.
+- Unusually cold weather is predicated for the coming winter in the year the plot of Wintermute takes place, with heavy snow and record low temperatures expected.<span id="fnref21"></span>[²¹](#fn21)
+  - Mystery Lake is shut down early for the year because of this.<span id="fnref22"></span>[²²](#fn22)
+
+<!-- #survival_mode -->
+​
+
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
+### [Survival Mode](./Survival%20Mode.md)
+
+- The events of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) occur at least 4 decades before [Wintermute](./Wintermute.md), sometime in the 1980s.
+- An Island wide radio system is created to keep Islanders in touch with one another in case earthquake activity on the Island gets worse, or "the big one" hits the Island. Sutherland mentions that the radios the survivor uses to communicate from him are from an old emergency messaging system meant to keep Islanders in contact with one another. The "[A page from an old newsletter.](./A%20page%20from%20an%20old%20newsletter..md)" note also explains why these radios are found across the Island.
+  - Sutherland is a Great Bear Island native born in Coastal Highway, being the titular "Misanthrope" that lived at [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md). Sutherland, along with his "Pa" and brother Wyatt, lived there for most of their lives. Sutherland eventually states that he has abandoned his home and is more comfortable on his boat, saying that the survivor can do as they please with his house during the Quiet Apocalypse.
+  - Sutherland has a crippled leg that locks up on him in winter. He received it while at sea after heavy cables came loose on a ship and almost took his leg clean off. This information is conflicted moments later, with Sutherland mentioning that it might have instead have had something to do with his brother Wyatt.
+  - Wyatt would own and maintain an old sailboat, which Sutherland would eventually take for himself in the future.
+  - It is revealed that his brother Wyatt is the one who created all of the [Prepper Cache](./Prepper%20Cache.md) bunkers across the island, including [Joplin's Bunkers](./Joplin%27s%20Bunker%20Raid.md). Though not confirmed, he most like created [Hank's Hatch](./Hank%27s%20Hatch.md), the [Aurora Hatch](./Aurora%20Hatch.md), and the hatch in [Blackrock Rumours](./Blackrock%20Rumours.md) - Suspicious Person as well.
+    - His reasoning was the belief that a nuclear exchange was coming that would destroy the world, confirming that the caches were fallout shelters.
+    - 3 other people were a part of Wyatt's crew, but ultimately turned on him due to paranoia. Sutherland's leg slowing the group down was one of the reasons why he was kicked out of the group and lead to his distrust of strangers.
+- [Ash Canyon](./Ash%20Canyon.md) suffers a massive forest fire, most likely caused by negligent miners working in the [Gold Mine](./Gold%20Mine.md).
+- The Langston Mining Corporation creates the [Langston Mine](./Langston%20Mine.md), a large open pit coal/uranium mine. The workers eventually destroy the local ecosystem, using water from [Unquenched Extraction](./Unquenched%20Extraction.md) to pump toxins out of the mine and into the [Overladen Pond](./Overladen%20Pond.md) near the [Pump House](./Pump%20House.md), poisoning the nearby streams. Toxic barrels are also dumped in several locations across the region. Many of these metal barrels eventually rupture due to weathering and age as the decades pass, creating several [Chemical Hazards](./Chemical%20Hazard.md) that effect [local wildlife](./Poisoned%20Wolf.md).
+- An airstrip, [Field 31](./Field%2031.md), is built in [Forsaken Airfield](./Forsaken%20Airfield.md), presumably to fly workers into the Langston Mine. [Transfer Pass](./Transfer%20Pass.md) is established to help facilitate transfers via [Train Shuttle](./Train%20Shuttle.md). A [Weather Station](./Weather%20Station.md) is built in [Sundered Pass](./Sundered%20Pass.md) to provide weather reports for the Far Territory.
+
+<!-- #pre_collapse -->
+​
+
+<!-- #Pre-Collapse -->
+​
+
+<!-- #Pre-collapse -->
+​
+
+<!-- #pre-collapse -->
+## Pre-Collapse
+
+- 1830 -
+  - Ryan Thompson is born.
+- 1899 -
+  - Ryan Thompson passes away at age 69, after presumably founding [Thomson's Crossing](./Thomson%27s%20Crossing.md). He is buried at the Crossing, with his own special walled off grave plot and the tombstone reading "Beloved Father."
+- 1904 -
+  - RJ Smith is born.
+- 1911 -
+  - The Town of [Milton](./Milton.md) is established as a coal mining town, with the population going as high as the 1,000s throughout the 1900s. Milton's story would follow the boom-and-bust of the entire Island over the century.<span id="fnref23"></span>[²³](#fn23)<span id="fnref24"></span>[²⁴](#fn24)
+
+- 1919 -
+  - [Thomson's Crossing](./Thomson%27s%20Crossing.md) is founded.<span id="fnref25"></span>[²⁵](#fn25)
+
+- 1928 -
+  - Liam Dean is born.
+- 1930s -
+  - [Mystery Lake](./Mystery%20Lake%20%28region%29.md) remains untouched by Mankind until mountain blasting for the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) opens the area up for settlement. Its main purpose is presumably to ship coal, uranium, and workers from the Langston Mine to [Coastal Highway](./Coastal%20Highway.md), as well as other resources found deeper within the Far Territory. The railways would be reused decades later by the [Breyerhouse](./Breyerhouse.md) company operating in the Mystery Lake and Broken Railroad regions to ship timber to the Coastal Highway.<span id="fnref26"></span>[²⁶](#fn26)
+- Early 1950s -
+  - A woman recalls her husband helping build [Blackrock Prison](./Blackrock%20Prison.md) around this time.<span id="fnref27"></span>[²⁷](#fn27)
+    - It's said that Blackrock's original foundation was built on the site of an old trapping community. The trappers' cabins were destroyed to make way for the Penitentiary, a move that defined the history of the place ever since.<span id="fnref28"></span>[²⁸](#fn28)
+    - Academics sometimes visited Blackrock Penitentiary to explore its vast records archive. The unique combination of geographic and social isolation has led to various scientific studies, of its staff as well as its inmates.<span id="fnref29"></span>[²⁹](#fn29)
+      - Dr. Childs has been medical director at Blackrock for decades. It's rumoured that due to his research on Penitentiary inmates he's never been able to secure another position on the Mainland.<span id="fnref30"></span>[³⁰](#fn30)
+    - Blackrock has attracted a variety of Wardens over the years. Some were kind, some cruel, but all were men who relished the extremes of life on Great Bear Island. One of Blackrock's longest-serving officers was famous for playing a piano deep into the night. Some wardens tolerated his playing as a form of therapy for the inmates, while others saw it as a special punishment.<span id="fnref31"></span>[³¹](#fn31)
+    - [Improvised explosives](./Noisemaker.md) have been a notorious problem for officers and staff at Blackrock. Some of the more enterprising inmates have used the devices as a kind of currency.<span id="fnref32"></span>[³²](#fn32)<span id="fnref33"></span>[³³](#fn33)
+    - Although officially discouraged, gold panning has always been a pastime for Blackrock's staff. Locals suspected the Penitentiary banned the activity because they didn't want to lose any officers, should they strike it rich.<span id="fnref34"></span>[³⁴](#fn34)
+- 1960s -
+  - Construction for the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) begins on the [Carter River](./Winding%20River.md) by Richard Carter, founder of Carter Hydro Energy. This prototype test Dam would be the first major structure created for the region of Mystery Lake. The structure would be replenished by runoff from the Lake itself, and the dam would be used to power a future mining town Richard Carter planned on building. Seismic activity on Great Bear Island proved to be a major obstacle in the construction.<span id="fnref35"></span>[³⁵](#fn35)<span id="fnref36"></span>[³⁶](#fn36)&lt;ref name=":12"&gt;[The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md)
+
+Jeremiah: "Yeah...the place was cracked open by the quake years ago, and never recovered. It was already half-dead at that time."
+
+Mackenzie: "Meaning?"
+
+Jeremiah: "Dam dates back to the 60s. Industrialist from the mainland wanted to use it to power a mining town he was planning to build. But, bottom fell out of the price of coal and he had to abandon those plans. Some fool tried to get it running again in the 80s but then the Forest Talkers got involved and that was the end of it. Pretty sure the quakes finished the job once and for all."<span id="fnref37"></span>[³⁷](#fn37)
+
+  - Jessica Roy is born.
+  - The dirt road between the Town of Milton and the coastline to the north would be replaced by a paved road.<span id="fnref38"></span>[³⁸](#fn38)
+
+- 1961 -
+  - Liam Cote is born.
+- 1962 -
+  - The Carter Hydro Dam project is abandoned due to the region’s inaccessibility and seismic instability making it too cost-prohibitive to construct. The cost of coal also plummeted around this time, causing Carter to scrap his plans for his coal mining town that the Dam would power. The prototype Dam is abandoned.<span id="fnref39"></span>[³⁹](#fn39)<span id="fnref40"></span>[⁴⁰](#fn40)
+- 1963 -
+  - Emily Camp is born.
+- 1966 -
+  - Tyler Clark is born.
+- 1967 -
+  - Ryan Smith is born.
+- 1969 -
+  - [Lilith Barker](./Lilith%20Barker.md) is born to her parents [Grey Mother](./Grey%20Mother.md) and [Martin Barker](./Martin%20Barker.md).
+- 1973 -
+  - Liam Dean passes away at age 45, and is buried at Thompson's Crossing. His tombstone reads "Always And Forever."
+- 1976 -
+- After a few decades of operation, it became clear the Penitentiary needed its own source of electricity. The Warden at the time made it his personal mission to make Blackrock self-sustainable in an emergency and Blackrock Mountain Power could create the [Power Plant](./Power%20Plant.md), [Old Substation](./Old%20Substation.md), and the [Steam Tunnels](./Steam%20Tunnels.md) were created.<span id="fnref41"></span>[⁴¹](#fn41)
+  - Power workers would man the Sub Station near the Penitentiary to ensure the gates and doors stay locked at Blackrock, living in a trailer up the road. A lonely job, the electricians and line workers who fill the position never last long.<span id="fnref42"></span>[⁴²](#fn42)
+  - The electrical stanchions that snake through the Region are a survival tool for Blackrock staff. If lost in a storm or whiteout blizzard, they could always follow the lines to find shelter.<span id="fnref43"></span>[⁴³](#fn43)
+- 1979 -
+  - Jocelyn Cook is born.
+
+- 1980s -
+  - RJ Smith passes away in 1980 at age 76, and is buried in Thompson's Crossing. His tombstone reads "He Should Have Listened."
+  - Chloe Miller is born in 1980.
+  - There were multiple attempts to modernize Carter Dam and bring it back online by new CEO of Carter Hydro Energy, Robert Clarke.<span id="fnref44"></span>[⁴⁴](#fn44)<span id="fnref45"></span>[⁴⁵](#fn45)
+  - The [Great Bear Highway](./Great%20Bear%20Highway.md) (AKA Highway 15) is formed, allowing people to bypass the Town of Milton, crippling the town's importance as a gateway town and contributing to its steady decline. The economy of the Island boomed at this point in history.<span id="fnref46"></span>[⁴⁶](#fn46)
+
+- 1981 -
+  - Liam Cote passes away at age 20, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "Always Adored."
+  - Emily Camp passes away at age 18, and is buried at the Graveyard across from St. Christopher's Church. Her tombstone reads "Dearly Loved."
+  - Goose Books publishes [Small Arms Handbook](./Small%20Arms%20Handbook.md).
+- 25-9-1982 -
+  - The events of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) would occur in the Far Territory.<span id="fnref47"></span>[⁴⁷](#fn47)
+- 1983 -
+  - Tyler Clark passes away at age 17, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "An Inspiration."
+- 1984 -
+  - Ryan Smith passes away at age 17, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "Into The Sunshine."
+  - Goose Books publishes [Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md).
+- 1985 -
+  - Grey Mother, gives her [mother's pearls](./Grey%20Mother%27s%20Pearls.md) to her daughter [Lilith Barker](./Lilith%20Barker.md) for her 16th birthday. Wishing to summit the great peaks of the Island, Martin Barker urges her to follow her dream, but Grey Mother does not and wishes for their daughter to stay in Milton. Lilith eventually leaves, and falls to her death outside of [Milton Park](./Milton%20Park.md) in a climbing accident, and no one comes to help her until after her death. Milton Park is shut down afterwards by the Milton &amp; Area parks Board, and Lilith is buried in the [Graveyard](./Graveyard.md) across from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). Her tombstone reads "Our Fallen Angel."<span id="fnref48"></span>[⁴⁸](#fn48)<span id="fnref49"></span>[⁴⁹](#fn49)
+    - Grey Mother and Martin Barker separate, with Grey Mother living in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) and Martin living on the outskirts of town at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). Martin keeps Lilith's pearls as a way to remember his daughter, despite Grey Mother wanting the pearls buried with Lilith, and has the pearls locked up in the [Milton Credit Union](./Milton%20Credit%20Union.md).
+    - [Lily's Map](./Lily%27s%20Map.md) and most of her climbing gear and clothes would be locked away in a blue chest in her room at Grey Mother's Home.
+    - Grey Mother shuns most of the residents of the town as the decades pass for failing to help Lilith fast enough, holding a deep grudge against everyone in Milton. She begins to refer to the town's residents as nothing more than liars, cheats, and [thieves](./Martin%20Barker.md) and keeps only to herself. Eventually she would be given the name "The Grey Mother" by residents of the town, a title she would eventually adopt as her own.
+  - Jessica Roy passes away at age 25, and is buried at the Graveyard across from St. Christopher's Church. Her tombstone reads "In Our Memories."
+
+- 1986 -
+  - Jocelyn Cook passes away at age 7, and is buried at Thompson's Crossing. Her tombstone reads "Your Memory Lives On."
+- 1987 -
+  - Several [Books](./Research%20Book.md) are published by Goose Books ©.
+    - [A Sewing Primer](./A%20Sewing%20Primer.md), [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md), [Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md), [Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md), [The Frozen Angler](./The%20Frozen%20Angler.md), [Stay on Target](./Stay%20on%20Target.md), and [Wilderness Kitchen](./Wilderness%20Kitchen.md).
+- 1988 -
+  - Goose Books publishes [Practical Gunsmithing](./Practical%20Gunsmithing.md).
+- 1990s -
+  - Changes to the local climate and hydrodynamics of the Mystery Lake area, as well as external public pressure in support of the newly minted Mystery Lake Provincial Park, resulted in Carter Dam being shut down for good in the late 1990s.<span id="fnref50"></span>[⁵⁰](#fn50)<span id="fnref51"></span>[⁵¹](#fn51)
+    - A skeleton crew composed of Benton, Hays, Ted Wallace, Geoff Wallace, McPherson, and Vaughn would be all that was left maintaining the Dam during this time. Vaughn would misplace his [Rifle](./Vaughn%27s%20Rifle.md) before leaving.<span id="fnref52"></span>[⁵²](#fn52)
+    - A large earthquake would hit Mystery Lake, devastating the Dam and causing it to finally shut down for good.<span id="fnref53"></span>[⁵³](#fn53)(Predux Reference&lt;ref&gt;[Risk of Infection/TranscriptJeremiah](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md): "Yeah. The big quake years ago shut that nonsense down."
+
+Mackenzie: "Quake?"
+
+Jeremiah: "Bah. It doesn't matter. Quake put an end to that. And things are changing.")
+
+  - The crew would notice a [Trapper](./Jeremiah.md) regularly skirting their fences to get to Winding River, and wish to contact him for the extra manpower before the Dam was shut down.<span id="fnref54"></span>[⁵⁴](#fn54)
+  - [Forest Talkers](./Forest%20Talkers.md), inhabitants of the Island, form to fight back against the development of Carter Hydro Dam.<span id="fnref55"></span>[⁵⁵](#fn55)&lt;ref&gt;[The Wounded Trapper/TranscriptMackenzie](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "So...who are the "forest talkers"?"
+
+Jeremiah: "Eco-terrorists. Activists, some call them. Depends on who you talk to I guess."
+
+Mackenzie: "Why are they out here?"
+
+Jeremiah: "Well...they've been active for years. They come and go. Mostly here to throw a wrench in the works for a variety of resource projects -- mining and forestry mainly. They want Great Bear to remain a "pristine wilderness"." (Predux Reference<span id="fnref56"></span>[⁵⁶](#fn56))
+
+  - A letter is sent to the skeleton crew maintaining the Dam, informing them that the Dam will be shut down due to the quakes and Forest Talkers.<span id="fnref57"></span>[⁵⁷](#fn57)
+  - Forest Talkers would hold the skeleton crew hostage for days until mediators successfully extract them. The Dam would be officially shut down and locked up after this event, with most site equipment and technology being left behind.<span id="fnref58"></span>[⁵⁸](#fn58)
+  - Earthquakes would continue to ravage the area and the Dam over the decades, turning it into a deathtrap of crumbling infastructure and exposed electrical wiring.
+  - Decades into the future, Breyerhouse management would warn workers to avoid going past the Staging Area into the Dam on their breaks due to the Dam's instability.<span id="fnref59"></span>[⁵⁹](#fn59)
+    - Despite shutting the facility down, Forest Talkers would jump the fence and ironically begin using the Dam as a hiding place for documents and themselves.<span id="fnref60"></span>[⁶⁰](#fn60)<span id="fnref61"></span>[⁶¹](#fn61)<span id="fnref62"></span>[⁶²](#fn62)
+- 12 June 1991 -
+  - A traveler hides a diary page in the Loose Boards at [Mindful Cabin](./Mindful%20Cabin.md) as they travel the Far Territory.
+- 18-Jun-91 -
+  - The same individual buries [A Page From A Journal](./A%20Page%20From%20A%20Journal.md) at the [Boss's Settlement](./Boss%27s%20Settlement.md) as they explore the ruined Langston Mine.
+
+<!-- #the_collapse -->
+​
+
+<!-- #The_Collapse -->
+​
+
+<!-- #The_collapse -->
+​
+
+<!-- #the-collapse -->
+## The Collapse
+
+- mid-20XX -
+  - An ongoing global economic crisis, fueled by continued political and economic instability in thr US and Europe in the early 21st century, contributes to increasing volatility in the financial markets, eventually leading to the sudden catastrophic collapse of the Canadian, and in general, North American banking system. This event became known as [The Collapse](./The%20Collapse.md).<span id="fnref63"></span>[⁶³](#fn63)
+    - The Canadian Dollar would eventually collapse in value, with $1 CAD = $0.23 USD.<span id="fnref64"></span>[⁶⁴](#fn64)<span id="fnref65"></span>[⁶⁵](#fn65)
+  - The Town of Milton's average population numbers in the 100s by the 2000s.<span id="fnref66"></span>[⁶⁶](#fn66)
+  - Great Bear Island is abandoned by Civilization on the Mainland due to the major economic collapse. All of the Island's major industries to the Mainland collapse almost overnight.
+    - [Last Resort Cannery](./Last%20Resort%20Cannery.md) shuts down. [Bleak Inlet](./Bleak%20Inlet.md) rots from a lack of maintenance, with the nearby [Lighthouse](./Fallen%20Lighthouse.md) collapsing.
+    - [Hibernia Processing](./Hibernia%20Processing.md) shuts down in [Desolation Point](./Desolation%20Point.md), but the [Lonely Lighthouse](./Lonely%20Lighthouse.md) is maintained by a single worker. The [Stone Church](./Stone%20Church.md) is abandoned.
+    - [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md), [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md), and [Last Prospect](./Last%20Prospect.md) shut down.
+    - [Coastal Townsite](./Coastal%20Townsite.md) and [Fishing Camp](./Fishing%20Camp.md) in [Coastal Highway](./Coastal%20Highway.md) receive fewer travelers.
+    - The Town of [Milton](./Milton.md) is abandoned by the world and becomes a ghost town, with only old timers and stubborn holdouts remaining.<span id="fnref67"></span>[⁶⁷](#fn67)
+    - The Bank would repossess several buildings at [Thomson's Crossing](./Thomson%27s%20Crossing.md), with many of the buildings still boarded up by the events of the game.
+    - Timely deliveries to the Island are no longer a feasible reality due to economic costs.
+      - The [Orca Gas Station](./Orca%20Gas%20Station.md) in Milton would only receive deliveries once per quarter year, with the manager being allowed to source supplies from local suppliers or other means to stay in business. Milk deliveries (priced at $6.00 CAD) take 3-4 weeks to arrive. Gas prices at the store eventually reach $8.88 CAD per gallon before the pumps run dry. The owner sells [Car Batteries](./Car%20Battery.md) for $160.00 CAD. Eventually the ATM and Register runs out of cash, and the whole store is closed down and left to rot, with product still on the shelves.<span id="fnref68"></span>[⁶⁸](#fn68)<span id="fnref69"></span>[⁶⁹](#fn69)
+      - The [Milton Post Office](./Milton%20Post%20Office.md) can no longer get physical mail back to the Mainland, and urges people to send email or use drones to deliver mail instead. Most physical inspections of the power grid are performed by drones.<span id="fnref70"></span>[⁷⁰](#fn70) <span id="fnref71"></span>[⁷¹](#fn71) (Predux Reference &lt;ref&gt;[The Grey Mother (Predux)/TranscriptGrey](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) Mother (Text): "If you want to survive out here, you'll have to learn to be self-sufficient."
+
+Mackenzie (Text): "Right"
+
+Grey Mother (Text): "When I was growing up, we understood what that meant. When something wore out, we couldn't just go online and order a new one...have it magically "drone delivered" to your door. Bah. As a little girl, I already knew how to hunt Rabbits, and turn their skins into clothes. I'll tell you how it's done.")
+
+  - The manager of the [Rural Store](./Rural%20Store.md), Dan Presnell, begins furiously emailing Better Food Vendors owner, Mr. Galveston, requesting supplies that he paid for. Many items did not appear in his shipment, and the locals of [Pleasant Valley](./Pleasant%20Valley.md) need many of these items to make life easier. His ATM is eventually taken offline, due to having no cash in it, with a truck never coming to pick it up.<span id="fnref72"></span>[⁷²](#fn72)
+  - Without any major local economic drivers of their own, the remaining communities on Great Bear became completely dependent on a supply lifeline from the Mainland -- regular shipments of basic staples designed to keep them alive: fuel, food, medical supplies, etc., in many ways, akin to WW2-era wartime rationing. In exchange for regular supply drops, the “Mainlanders” -- in some cases, at the behest of their economic overlords South of the border -- felt justified in taking whatever supplies and raw materials they needed to maintain the urban communities, including dismantling some of the heavy industrial infrastructure left on Great Bear.<span id="fnref73"></span>[⁷³](#fn73)&lt;ref name=":13"&gt;[The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "We lost everything in [the Collapse](./The%20Collapse.md). People didn't realize how dependent we'd become. Some were fine with it. Others didn't want the scraps from your table. It created deep rifts in families, communities. Scars that never healed. The Mainland had become our lifeline. And it was suddenly cut. And so, we suffered."
+
+Will Mackenzie: "I guess I don't know much about that history."
+
+Grey Mother: "I'm not surprised. You Mainlanders have always been focused on your own story. Only interested in Great Bear when it had something to give you. If you can't cut it down or dig it out of the ground, what use is it to you?"<span id="fnref74"></span>[⁷⁴](#fn74) (Predux Reference <span id="fnref75"></span>[⁷⁵](#fn75))
+
+  - A divide is formed among the Great Bear Islanders as they increasingly become segregated into two pseudo-political entities along ideological lines: those who gratefully embraced dependence on the Mainland and viewed the regular supply ships as a charitable gesture in apology for the Mainland’s exploitation of Great Bear’s resource riches, and those who sought ultimate independence and who considered trade and travel between the Mainland to be a necessary evil, viewing Mainlanders with a degree of mistrust.<span id="fnref76"></span>[⁷⁶](#fn76)
+  - This seeds a deep hatred/overall dislike for Mainlanders ever coming to the Great Bear. Many of the Island's native inhabitants, such as the [Forest Talkers](./Forest%20Talkers.md) and [Grey Mother](./Grey%20Mother.md), judge the presence of any Mainlander setting foot on their Island, automatically presuming that they are here to pillage the Island's resources and nothing else, even if they become stranded on the Island.<span id="fnref77"></span>[⁷⁷](#fn77)
+  - Many more open minded/desperate natives begin to leave their communities to see the Mainland civilization, hurting the already small and short staffed local communities.<span id="fnref78"></span>[⁷⁸](#fn78)&lt;ref&gt;[The Wounded Trapper/TranscriptMackenzie](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "So, no other people living out here?"
+
+Jeremiah: "You gotta understand. The Collapse destroyed Great Bear. There's nothing here to stay for. You meet anyone out here, chances are they're hiding from something. Or someone."
+
+Mackenzie: "And you? Why are you here?"
+
+Jeremiah: "I have my reasons." (Predux Reference<span id="fnref79"></span>[⁷⁹](#fn79))
+
+  - Unhappy with their growing dependence on the Mainland for economic support, as well as the Mainlander’s continued view that Great Bear exists solely as a resource clearinghouse for their benefit, some people who chose to remain on Great Bear decided to engage in self-sufficiency. Small-scale local food production efforts, akin to the Victory Garden program of WW2 England and Canada, sprouted up all over Great Bear, with individuals and even communities taking it in their own hands to produce food and power resources. This is the case in [Thomson's Crossing](./Thomson%27s%20Crossing.md), with the Town of Milton having far less success.<span id="fnref80"></span>[⁸⁰](#fn80)(Predux References&lt;ref&gt;[The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md)
+
+Grey Mother: "Years ago, when the Collapse happened...we lost everything. The young people didn't understand how dependent we'd become. Some people may have accepted dependence on the Mainland. But I don't want the scraps from your table."
+
+Mackenzie: "Guess I don't know that much...about the history."
+
+Grey Mother: "I'm not surprised. You Mainlanders have always been focused on your own story."<span id="fnref81"></span>[⁸¹](#fn81))
+
+  - With the onset of The Collapse, [Pleasant Valley](./Pleasant%20Valley.md) locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion, due to their subsistence farming lifestyle.<span id="fnref82"></span>[⁸²](#fn82)
+  - Many residents of [Fishing Camp](./Fishing%20Camp.md) and [Coastal Townsite](./Coastal%20Townsite.md) rely on fishing to stay alive, rather than Mainland trading.
+  - Already dependent on The Mainland, the effects of The Collapse intensified the Island's remote character. Deeply scarred by the Collapse, denizens of the Island begin stockpiling and hording supplies should another catastrophe equivalent to the Collapse ever occur in the future again.
+    - Many individuals in Milton would begin creating stashes:
+      - [Medicine in my backyard](./Medicine%20in%20my%20backyard.md)
+      - [Cave Hidden Cache Note](./Cave%20Hidden%20Cache%20Note.md)
+      - [Milton Hidden Cache Note](./Milton%20Hidden%20Cache%20Note.md)
+    - [Martin Barker](./Martin%20Barker.md) would receive an Emergency Kit from the Great Bear Earthquake Memorial Society ([Emergency Kit Note](./Emergency%20Kit%20Note.md) is a Predux Collectible, but the lockbox still exists in front of [Hobbs](./Hobbs.md) in the Redux version).
+    - Several [Mementos](./Mementos.md) reveal hidden caches people left behind.
+    - [Hidden Caches](./Hidden%20Cache.md) can be found all across the Island left by locals and Forest Talkers.
+      - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
+      - [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)
+    - Several individuals create [Prepper Caches](./Prepper%20Cache.md) across the Island:
+      - Tom Joplin creates 3 caches ([Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md))
+      - Hank finds a bunker in Mystery Lake and begins stockpiling it ([Hank's Hatch](./Hank%27s%20Hatch.md)). He sends a letter to his niece to come find him if SHTF in the future.<span id="fnref83"></span>[⁸³](#fn83)<span id="fnref84"></span>[⁸⁴](#fn84)
+      - 1 Prepper Cache found in [Forlorn Muskeg](./Forlorn%20Muskeg.md) ([Aurora Hatch](./Aurora%20Hatch.md), formerly [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) in the Predux timeline)
+      - 1 Prepper Cache in Blackrock ([Blackrock Rumours](./Blackrock%20Rumours.md))
+      - Several other Prepper Caches found across the Island. (unknown if canon, Survival Mode only)
+
+<!-- #post_collapse -->
+​
+
+<!-- #Post_Collapse -->
+​
+
+<!-- #Post_collapse -->
+​
+
+<!-- #post-collapse -->
+## Post Collapse
+
+- _(Unknown Time) -_
+  - In the Post-Collapse economic environment, very few travelers or resource workers have reason to visit Great Bear. What few industries remain only seem to take from the Island whenever they can.&lt;ref&gt;[Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md)**Astrid:** "I need your help. There's an isolated community in the Northern part of Great Bear. Someone there is very sick and..."
+
+**Mackenzie:** "Great Bear? There's nothing there anymore. Not since..." (Predux Reference<span id="fnref85"></span>[⁸⁵](#fn85)<span id="fnref86"></span>[⁸⁶](#fn86))
+
+  - The [Vacant Depot](./Vacant%20Depot.md) shows a timetable with the date 20XX, suggesting that the Depot was still being used up until the 21 century.<span id="fnref87"></span>[⁸⁷](#fn87)
+  - Blackrock Penitentiary would remain opened and continue to operate after The Collapse.<span id="fnref88"></span>[⁸⁸](#fn88)
+    - An uneasy truce would exist between the Penitentiary staff and the local population on Great Bear, as it would continue to produce jobs and revenue for remote communities. Resentment still endures for the imposition of Blackrock on the Island by some locals however.<span id="fnref89"></span>[⁸⁹](#fn89)
+    - While seismic activity damaged or the destroyed many of the roads and bridges around [Blackrock](./Blackrock.md), the earthquakes left the Penitentiary itself largely untouched. Over the years, the extensive damage to the roads and bridges around Blackrock were seen as a bonus security feature to dissuade prisoners from escaping.<span id="fnref90"></span>[⁹⁰](#fn90)
+    - Rumors spread of a faction of Forest Talkers becoming active around [Blackrock Mountain](./Blackrock%20Mountain.md) in recent years, due to the Penitentiary grounds serving as a constant reminder of Great Bear Island's ties to the Mainland. Forest Talkers eventually set up a supply cache in the [Last Prospect](./Last%20Prospect.md) mine in [Blackrock](./Blackrock.md), becoming experts at finding ways to make use of Blackrock Region's abandoned infrastructure.<span id="fnref91"></span>[⁹¹](#fn91)
+    - Blackrock's Wardens have traditionally kept a [home](./Jailer%27s%20Residence.md) not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.<span id="fnref92"></span>[⁹²](#fn92)
+    - The remote Penitentiary never used to lack for food. Post-Collapse life on Great Bear, however, has meant lean Winter months for inmates and staff at Blackrock. Clever cooks at the prison have become known as much for their farming prowess as their kitchen skills, as they toil to keep their pantries full.<span id="fnref93"></span>[⁹³](#fn93)
+      - New officers always bunked in the Blackrock Barracks. One of their tasks was supplementing the meager food supply at the Penitentiary -- a thankless and often dangerous job.<span id="fnref94"></span>[⁹⁴](#fn94)
+  - Breyerhouse would remain one of the few industries continuing to harvest resources from the Island, with a focus on logging. They begin cutting forests down in Mystery Lake and Broken Railroad, shipping timber back to the coast via The Ravine and Coastal Highway through the Trans-Island Railroad Line.
+    - [Forest Talkers](./Forest%20Talkers.md) continue their eco-activism on the Island, organizing to fight the [Breyerhouse](./Breyerhouse.md) logging company across [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), and [Broken Railroad](./Broken%20Railroad.md). They also begin annoying the locals of [Pleasant Valley](./Pleasant%20Valley.md) as their influence spread there. Their main base of operations resides at the old [Hunting Lodge](./Hunting%20Lodge.md), just under the noses of the nearby Breyerhouse [Maintenance Yard](./Maintenance%20Yard.md).<span id="fnref95"></span>[⁹⁵](#fn95)
+    - The Forest Talkers eventually steal Documents from Breyerhouse claiming that they are illegibly cutting down Old Growth forests without permits or permission.<span id="fnref96"></span>[⁹⁶](#fn96)
+  - Tourism to the Island would still occur despite the Post Collapse, becoming a niche way to provide revenue to Locals of the Island. <span id="fnref97"></span>[⁹⁷](#fn97)<span id="fnref98"></span>[⁹⁸](#fn98)
+    - Earthquakes and seismic activity would continue to dissuade people from visiting the Island however.<span id="fnref99"></span>[⁹⁹](#fn99)
+    - [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Ash Canyon](./Ash%20Canyon.md), and [Timberwolf Mountain](./Timberwolf%20Mountain.md) would often be the most popular tourist destinations.
+    - A company called DeepForest Experience would cause Manny Douglas to become stranded on Great Bear Island after they fail to extract him, as detailed in the [Hibernia Processing](./Hibernia%20Processing.md) [Buffer Memories](./Buffer%20Memories.md).
+    - Will Mackenzie holds a tourism pamphlet showing the Island.<span id="fnref100"></span>[¹⁰⁰](#fn100)
+  - Earthquakes ravage the local power grid near Milton, and no one from the Mainland comes to fix it. The town is on its last legs at this point.&lt;ref&gt;[The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "The power's always been spotty here, since the quakes. No money to fix the broken stuff left behind. And nobody from the Mainland seemed to care enough to do anything about it."
+
+Will Mackenzie: "I'm sure...someone will come to fix it."
+
+Grey Mother: "Nobody's coming to save Milton."
+
+Will Mackenzie: "How can you be so sure?"
+
+Grey Mother: "I've learned to hear the difference between something quiet, and something abandoned. This goes deeper than just stillness. It feels like the moments before the world goes to sleep. We're just the last ones awake to notice it." (Predux Reference<span id="fnref101"></span>[¹⁰¹](#fn101))
+
+  - The Town of Milton struggles to maintain an average population above the lower double digits (slightly over 10 people left). The town would become a ghost town by this point, kept alive only by stubborn holdouts.<span id="fnref102"></span>[¹⁰²](#fn102)
+  - Mainland Power Corp sends a recovery crew to seize [Martin Barker's](./Martin%20Barker.md) SOLAR BLOCK MODEL BK1, due to him refusing to pay an accumulated bill of $1256.45 CAD.<span id="fnref103"></span>[¹⁰³](#fn103)
+- 2010 -
+  - Chloe Miller passes away at age 30, and she is buried at Thompson's Crossing.
+- June 30th, 2012 -
+  - The Great Bear Water Authority shuts down the [Milton Water Tower](./Milton%20Water%20Tower.md) due to an outbreak of E. Coli in the ground water, adding to the list of woes the town already faces.<span id="fnref104"></span>[¹⁰⁴](#fn104)
+- September, 2012 -
+  - Due to global economic realities, the [Milton Credit Union](./Milton%20Credit%20Union.md) shuts down.<span id="fnref105"></span>[¹⁰⁵](#fn105)
+    - It is implied that at this point, the world no longer uses physical fiat currency. (Predux Reference&lt;ref&gt;[The Grey Mother (Predux)/TranscriptMackenzie](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md): "What do you do about...money?"
+
+Grey Mother: "Some of use still use the old paper. Or barter."
+
+Mackenzie: "I haven't seen paper money in...years. What of value could possibly be left in the bank?")
+
+- September 5th, 20XX -
+  - A hiker makes their way to [Timberwolf Mountain](./Timberwolf%20Mountain.md), resting in the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md).<span id="fnref106"></span>[¹⁰⁶](#fn106)
+- September 6th, 20XX -
+  - The hiker at the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) awakes to a [deafening sound](./Tail%20Section.md) in the night and sees fire on the [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md), but cannot investigate due to bad weather.<span id="fnref107"></span>[¹⁰⁷](#fn107)
+- September 7th, 20XX -
+  - The hiker from the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) sees smoke arising from the peak of Timberwolf Mountain the next morning, and attempts to climb the summit to investigate. They also find several [Cargo Containers](./Cargo%20Container.md) scattered across the mountain that weren't there before.<span id="fnref108"></span>[¹⁰⁸](#fn108)
+- November XX -
+  - Unknown individuals plan on secretly staying in Mystery Lake around this time, despite the park closing for the season.<span id="fnref109"></span>[¹⁰⁹](#fn109)
+
+<!-- #the_first_flare_events_of_wintermute -->
+​
+
+<!-- #The_First_Flare_(events_of_Wintermute) -->
+​
+
+<!-- #the_first_flare_(events_of_wintermute) -->
+​
+
+<!-- #The_first_flare_(events_of_wintermute) -->
+​
+
+<!-- #The_First_Flare_(events_Of_Wintermute) -->
+​
+
+<!-- #the-first-flare-events-of-wintermute -->
+## The [First Flare](./First%20Flare.md) (events of [Wintermute](./Wintermute.md))
+
+- Thursday, November XX, 20XX -
+  - A [Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) was scheduled to arrive at [Blackrock Prison](./Blackrock%20Prison.md) with a bus full of 15 convicts.<span id="fnref110"></span>[¹¹⁰](#fn110)
+- In the midst of a terrible blizzard, Dr Astrid Greenwood travels to Jackrabbit Hangar to chart a plane to Great Bear Island. Will Mackenzie initially refuses the job, but eventually agrees to fly her to Perseverance Mills later that night.
+- A single massive solar flare, known as the [First Flare](./First%20Flare.md), occurs on the evening of Thursday, November XX, 20XX -
+  - A heavy windstorm storm envelopes Great Bear Island.<span id="fnref111"></span>[¹¹¹](#fn111)<span id="fnref112"></span>[¹¹²](#fn112)
+  - Electronic devices across northern [Canada](./The%20Collapse.md) and presumably the rest of the world (not mentioned, confirmed, or refuted by Wintermute story) stop working, leading to total blackouts and loss of communication, and possibly the collapse of most nation states.
+  - Disruption of weather patterns, extremely cold temperatures, and brutal snowstorms occur frequently across many regions of Great Bear Island and presumably the rest of northern Canada. Reoccurring Auroras and [Electrostatic Fog](./Glimmer%20Fog.md) begins to plague certain areas of the world, occasionally reviving technology and [computers](./Buffer%20Memories.md). (Earth's magnetic polarity fields may have been damaged, explaining the sudden shifts in weather and the longer winter in the northern pole.)
+  - Wildlife behavior is disrupted. Predators that once avoided humans now stalk or attack them on sight. Bears are roused from their hibernation and begin roaming the area. Wildlife that normally sleep at night (such as birds) become active when the Aurora is out at night.
+    - [Timberwolf](./Timberwolf.md) packs begin stalking and attacking people across [Pleasant Valley](./Pleasant%20Valley.md) and [Blackrock](./Blackrock.md).
+  - Loss of electricity, severe weather, and food/water shortages leads to widespread looting and violence throughout many of the affected areas. It can be inferred that law and order in cities across the planet has also presumably broken down for the time being.
+  - Dozens of motorists are stranded on highways and roads after their cars stopped working. Refugees from the highway near Milton begin to make their way toward the town to avoid freezing to death in the night amidst the blizzards.<span id="fnref113"></span>[¹¹³](#fn113)
+  - Multiple violent earthquakes rock various sections of Great Bear Island, ruining the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), [Great Bear Highway](./Great%20Bear%20Highway.md), and other essential roads. Most of the Island's infrastructure is buried in landslides and avalanches. Seamless connections between regions are now made impossible, and travelers are forced to use dangerous abandoned mineshafts, caves systems, and other side passages to navigate around even the most basic obstructions. Rope climbing across steep cliffs is required to leave or enter certain isolated locations, such as Milton.
+    - With the road blocked by a landslide near [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) and the tunnel near the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) being collapsed, this means that the Town of Milton is entirely cut off from the world, except by mountain rope climbing, leaving [Grey Mother](./Grey%20Mother.md) to conclude that the Town of Milton is finished, along with herself.
+    - Several landslides bury roads across the island, including: [Landslide (Hushed River Valley)](./Landslide%20%28Hushed%20River%20Valley%29.md), [Landslide (Bleak Inlet)](./Landslide%20%28Bleak%20Inlet%29.md), [Landslide](./Landslide.md), [Commuter's Lament](./Commuter%27s%20Lament.md), [Unyielding Inundation](./Unyielding%20Inundation.md), [End of the Road](./End%20of%20the%20Road.md), [Road Collapse](./Road%20Collapse.md), and many others.
+  - A prison bus carrying several inmates to [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) crashes into a collapsed tunnel outside Milton. Some of the inmates survive, [Hobbs](./Hobbs.md) among them, and proceed to [Milton](./Milton.md), where they hold the residents and refugees from the highways hostage in the [Old Schoolhouse](./Old%20Schoolhouse.md) and then ransack the town. The Old Schoolhouse catches on fire due to sparks from the electrical wiring from the Aurora, with everyone still trapped inside.&lt;ref&gt;[The Grey Mother/TranscriptHobbs](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md): "People all hanging around...trying to get warm after the power went out. All huddled together. Scared and freezing." _Coughs before chuckling "_Man, I would have liked to have seen that. But we sure warmed them up!" _Smiles and coughs again_
+
+Will Mackenzie: "You're a bastard!"
+
+Hobbs: "That's about right." _Begins laughing uncomfortably_ "We put them all in the old school house so we could keep an eye on them. And then something happened to the lights...the power...it was like sparks everywhere and then fire. Your scarf lady found us while the school was burning. She tried to help get them out. But it was already too late. Smoke already did em' in."
+
+  - Many other prisoners instead travel the road out of Milton rather than going into the town. These Convicts include [Mathis](./Mathis.md), [Heller](./Heller.md), [Vachon](./Vachon.md), and several others. Many make their way to Pleasant Valley in the coming days, with Mathis traveling alone as far as the Carter Hydro Dam.
+  - Astrid Greenwood arrives at the town attempting to save the residents, but they are killed by a fire from a subsequent Aurora event and the Convicts scatter, with one attempting to overtake [Grey Mother's home](./Milton%20House%20%28Grey%20Mother%27s%29.md) before being shot and killed. Astrid attacks one convict and stabs Hobbs with a Hunting Knife, then runs out of town as she is injured during the fight, before squeezing through the crashed prison bus before the tunnel fully collapses. She then travels along the road until she passes out at [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
+  - One resident of Milton escapes the town after being attacked by a Convict and drops his belongings in Broken Railroad, then bleeds to death in Forlorn Muskeg a day later.<span id="fnref114"></span>[¹¹⁴](#fn114)
+  - Alice becomes lost in the storm on that night and dies inside the cave system past [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) when she becomes separated from the other fleeing residents after the storm worsens.<span id="fnref115"></span>[¹¹⁵](#fn115)
+  - Wolves begin to overtake the town shortly after, due to a lack of humans. [Martin Barker](./Martin%20Barker.md) is killed by a Wolf in his shed at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
+  - The [Prisoners](./Convicts.md) of [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) break out of their cells and execute the prison's staff after a sudden power loss, turning the prison into their own personal fortress and using it as a base of operations to begin looting nearby locales as they see fit.
+    - [Franklin](./Franklin.md), the warden of the prison, is taken hostage.
+    - [Jace](./Jace.md) is driving through Blackrock to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) when her car stops functioning. She wanders the region for what seems like hours until she hears gunshots near the Prison. She sees that it is overtaken by criminals, and hides somewhere in the guard towers nearby.
+  - Several helicopters and [planes crash](./Plane%20Crashes.md) across various sections of the Island.
+    - Pilot [Will Mackenzie](./Will%20Mackenzie.md) and [Dr. Astrid Greenwood](./Astrid%20Greenwood.md) crash in the mountains outside of Milton following the total loss of power to [Mackenzie's Plane](./Mackenzie%27s%20Crashed%20Plane.md). Astrid escapes and travels to the town, loosing most of her scarf along the way, while Mackenzie is stranded in a ravine with serious injuries and passes out in a nearby cave for the night.
+    - A motorist named Matt loses control of [his truck](./Matt%27s%20Truck.md) and drives off a bridge in [Desolation Point](./Desolation%20Point.md).
+    - Some hikers heading to Timberwolf Mountain become lost at [Point of Disagreement](./Point%20of%20Disagreement.md) after their cars crash.
+  - Workers at the [Maintenance Yard](./Maintenance%20Yard.md) notice the lights in the sky, and the correlation with it disrupting their electronics. They attempt to call Breyerhouse for help on their radios and stay indoors until help arrives, but eventually disperse into the woods to survive.<span id="fnref116"></span>[¹¹⁶](#fn116)
+    - One Breyerhouse worker leaves the Shed and travels to Mystery Lake. Previously fed up with the Forest Talkers' eco-terrorism, they attempt to kill them for all the damages they have caused in the past. A Forest Talker is wounded but [defends himself](./Lake%20Gunshots.md) at Mystery Lake after his friend is killed.<span id="fnref117"></span>[¹¹⁷](#fn117)
+
+- Friday, November XX, 20XX -
+  - Will Mackenzie climbs out of the ravine near his crashed plane and makes his way to the Town of Milton. The events of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) occur.
+    - Mackenzie eventually escapes Milton, and rescues [Jeremiah](./Jeremiah.md) from the [Old Bear](./Old%20Bear.md) in Mystery Lake, spending the next few days nursing him back to health.
+
+- Monday/Tuesday, November XX, 20XX -
+  - The Sun begins becoming more active for the first time since the First Flare. [Auroras](./Aurora.md) regularly appear in the night sky from this point on.
+  - Astrid awakes in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) after being rescued by [Molly](./Molly.md), 3-4 days after she escapes Milton.<span id="fnref118"></span>[¹¹⁸](#fn118)
+    - [North Star Charters Flight 7030](./Crash%20Site%20%28Pleasant%20Valley%29.md) crashes near [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) in Pleasant Valley the previous day from when Astrid awakens. Half of the passengers die as the plane is torn apart upon impact, but many passengers survive and make their way to [Thomson's Crossing](./Thomson%27s%20Crossing.md), though some become lost along the way.<span id="fnref119"></span>[¹¹⁹](#fn119)&lt;ref&gt;[Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) Father Thomas: "The crash site? Don't you remember? ...another one suffering from shock maybe?"
+
+Astrid: "I crashed...but days ago. Far from here."
+
+Father Thomas: "No no...you crashed yesterday. In the hills. A terrible crashing sound. I even heard it over the howling blizzard. Don't you remember?"
+
+  - After killing the Old Bear, Mackenzie passes out and awakens to a functioning shortwave radio Jeremiah rebuilt. He calls Perseverance Mills before the radio is destroyed during the aurora.
+    - Astrid tries to call Perseverance Mills via [Signal Hill](./Signal%20Hill.md) during an aurora, and hears Mackenzie's voice from the previous radio broadcast, confirming that the events of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) take place almost simultaneously.
+    - (Unknown time after previous events) [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) takes place.
+
+<!-- #year_after_first_flare_events_of_blackfrost_the_long_dark_ii -->
+​
+
+<!-- #1_Year_after_First_Flare_(events_of_BLACKFROST:_The_Long_Dark_II) -->
+​
+
+<!-- #1_year_after_first_flare_(events_of_blackfrost:_the_long_dark_ii) -->
+​
+
+<!-- #1_Year_After_First_Flare_(events_Of_Blackfrost:_The_Long_Dark_Ii) -->
+​
+
+<!-- #1-year-after-first-flare-events-of-blackfrost-the-long-dark-ii -->
+## 1 Year after First Flare (events of [BLACKFROST: The Long Dark II](./BLACKFROST%20-%20The%20Long%20Dark%20II.md))
+
+TBA
+
+<!-- #tales_from_tales_from_the_far_territory -->
+​
+
+<!-- #Tales_from_Tales_from_the_Far_Territory -->
+​
+
+<!-- #Tales_from_tales_from_the_far_territory -->
+​
+
+<!-- #Tales_From_Tales_From_The_Far_Territory -->
+​
+
+<!-- #tales-from-tales-from-the-far-territory -->
+## [Tales](./Tales.md) from [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)
+
+- 25-9-1982 -<span id="fnref120"></span>[¹²⁰](#fn120)
+  - The green light is given to fund [Dr. Rüdiger's](./Dr.%20R%C3%BCdiger.md) Project by Jahnn Industries in the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The project will be to build [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md), a device used to study the natural geological cycles of Great Bear Island, and to use this data to understand Earth's natural cataclysmic cycles so that Mankind will be ready for the next major end of the world scenario.
+    - Several workers, security personnel, and supplies are flown to [Field 31](./Field%2031.md). They are later transported to [Transfer Pass](./Transfer%20Pass.md), and then shipped to the Mine.
+    - A secret evac point at [High Peak Plateau](./High%20Peak%20Plateau.md) is built for Rüdiger if anything goes wrong in the future.
+    - Shipments of resources are hauled from the coast to the inland bases. Locals of the Island starting to notice the supplies being taken inland to the operation around the Airfield and Mine, but ultimately lose interest.<span id="fnref121"></span>[¹²¹](#fn121)
+    - Several planes fly in to deliver supplies for the project, with workers at Field 31 not knowing the cargo's true importance.<span id="fnref122"></span>[¹²²](#fn122)<span id="fnref123"></span>[¹²³](#fn123)
+    - Helicopters fly across the mountains between [Forsaken Airfield](./Forsaken%20Airfield.md) and [Zone of Contamination](./Zone%20of%20Contamination.md) to deliver materials.<span id="fnref124"></span>[¹²⁴](#fn124)
+    - [Bunker Alpha](./Bunker%20Alpha.md), [Bunker Beta](./Bunker%20Beta.md), [Bunker Gamma](./Bunker%20Gamma.md), and [Bunker Omega](./Bunker%20Omega.md) are used in the early stages to house the workers in order to avoid suspicions from the locals, as well as to keep the project under wraps. Captain Redrick, 14th Wing, SAR at [Field 31](./Field%2031.md), begins noticing odd radio signal interference coming from across the Island coming from these bunkers, but without repairs being made to several [Transmitters](./Transmitters.md) to link the Forsaken Airfield radio coverage in the Far Territory with Lower Great Bear, the locations of the Bunkers remain undiscovered.<span id="fnref125"></span>[¹²⁵](#fn125)
+- [The Security Chief](./The%20Security%20Chief.md), Lena Vertasky, is flown in to Field 31 to oversee security in the mine. She is hired by Jahnn Industries, and is provided an [ID Badge](./Security%20Chief%27s%20ID%20Badge.md).
+- Phase one of the project begins on Rüdiger's Machine after a suitable chamber to house the device is found in the mountain near the [Concentrator](./Concentrator.md) above the Mine.<span id="fnref126"></span>[¹²⁶](#fn126)
+  - Several workers already working for the Langston Mining Corporation at the mine are given a new opportunity to earn bonus work as part of the project. This would require a non-disclosure agreement however, and the workers would not get paid or be able to leave until the job is finished.
+  - Miner Teams 1 and 2 cooperate with the project, but are on shaky ground. Team 3 becomes volatile and refuses to work on the project (either because they wish to leave the island and go home or due to working conditions), and the Security Chief calls for additional security to be flown in immediately. The Medical Officer conducts alignment interviews with the workers and makes troubling observations for worker morale. Ultimately progress continues on the project.
+- Day 38 of the project - Dr. Rüdiger and his associates arrive on the Island and have all workers in the mine sign new paperwork. A track above the Concentrator is established into the mountainside to make hauling resources to the Machine easier.<span id="fnref127"></span>[¹²⁷](#fn127)
+- Day 45 of the project - Work continues on the Machine as earthquakes begin destroying much of the temporary scaffolding on the project site. Most of the work on the Machine is completed by this point. There are enough generators to power a town through the winter installed in the Machine.<span id="fnref128"></span>[¹²⁸](#fn128)
+- Power is run to Rüdiger's Machine for the first time.<span id="fnref129"></span>[¹²⁹](#fn129)
+  - Team 3 is negatively affected by a sudden unknown illness that begins to rot the memories and mental faculties of all affected.
+  - Eventually, a large portion of the miners are effected by this sudden illness.
+  - Workers at [Field 31](./Field%2031.md) begin to be affected by [Glimmer Fog](./Glimmer%20Fog.md).<span id="fnref130"></span>[¹³⁰](#fn130)
+- Day 64 of the project -The [Project Medical Officer](./Project%20Medical%20Officer.md) is flown to the Island to determine in person the cause of the sudden outbreak of the mental illness in the mines effecting the workers.<span id="fnref131"></span>[¹³¹](#fn131)
+  - Patient 7 becomes the focus of some of the Project Medical Officer's Interview Transcripts.
+  - A reoccurring pattern is found with the illness; every patient has an obsession with water as they attempt to recall past dreams and memories. Examples include:
+    - [Interview Transcript 4](./Interview%20Transcript%204.md)
+    - [Interview Transcript 17](./Interview%20Transcript%2017.md)
+    - [Interview Transcript 12](./Interview%20Transcript%2012.md)
+    - [Security Chief's Log 32](./Security%20Chief%27s%20Log%2032.md)
+    - [Faded Photograph](./Faded%20Photograph.md) of [Enduring Waterfall](./Enduring%20Waterfall.md) found in [Security Chief's Log (illegible)](./Security%20Chief%27s%20Log%20%28illegible%29.md)
+    - [Rüdiger's Diary 2](./R%C3%BCdiger%27s%20Diary%202.md)
+      - Other references to this pattern can be found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md):
+        - [Conspiracy Theories](./Conspiracy%20Theories.md)
+        - Samual Franks [Lost Worker's Note](./Lost%20Worker%27s%20Note.md)
+        - Individuals affected by the illness at [Perseverance Mills](./Perseverance%20Mills.md) have been found breaking quarantine and wandering into the water.
+        - The [Trader](./Trader.md)
+  - Most of the workers are confined to their quarters to prevent them from wandering. Most if not all of the mining staff and security personnel is now suffering from mental degradation.<span id="fnref132"></span>[¹³²](#fn132)
+  - The Security Chief, The Foreman, and The Project Medical Officer begin to show signs of being effected by the outbreak, but not to the extent that the miners are.<span id="fnref133"></span>[¹³³](#fn133)<span id="fnref134"></span>[¹³⁴](#fn134)<span id="fnref135"></span>[¹³⁵](#fn135)
+    - Rudiger appears to be entirely unaffected by the illness, causing the Security Chief to believe he has a cure, and knew ahead of time that exposure to the Machine would cause this outcome to occur.<span id="fnref136"></span>[¹³⁶](#fn136)
+- Rüdiger's Machine is taken offline, with Dr. Rüdiger himself avoiding contact with any miners or security personnel, having self isolated.<span id="fnref137"></span>[¹³⁷](#fn137)
+- The Project Medical Officer concludes that exposure to the Mine is the primary cause for the illness.<span id="fnref138"></span>[¹³⁸](#fn138)
+  - He also concludes that the illness is not a virus or pathogen, as no physical damage to the body has been discovered.<span id="fnref139"></span>[¹³⁹](#fn139)
+  - The Medical Officer holds out hope that treatment will be possible for those affected by the illness once they are taken away from the work environment.
+- As it becomes clear that the situation at the mine is lost, The Security Chief tries to reason with Rüdiger to cut his losses and save the workers. Instead, the Doctor destroys as much evidence related to the project as he can, then flees to [Sundered Pass](./Sundered%20Pass.md) with all the data he acquired from the project.<span id="fnref140"></span>[¹⁴⁰](#fn140)
+  - Rüdiger presumably burns down the [Boss's Settlement](./Boss%27s%20Settlement.md) to cover his trail.
+  - A helicopter filled with mentally damaged workers was sent back to the Mainland with [Security Chief's Log 31](./Security%20Chief%27s%20Log%2031.md) and the [Foreman's Key](./Foreman%27s%20Key.md), but crashed in the mountains near [Old Corral](./Old%20Corral.md). This could have been possible sabotage by Rüdiger, or could have been legitimate engine/pilot failure. The surviving miners presumably wander off and die in the wilderness.
+  - The Security Chief then goes deeper into the Langston Mine, in order to destroy the Machine. It is unknown if she accomplishes her task, but eventually she perishes in the nearby control room as she loses her mind.<span id="fnref141"></span>[¹⁴¹](#fn141)
+- The Foreman, who was secretly a mole for Jahnn Industries, was already given a secret mission to track down and bring Rüdiger in should he withhold or not produce any data from the project for the company. The Foreman then begins tracking down the Doctor for failing to provide a return on the company's investment after the failure of The Machine.&lt;ref&gt;[Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md) "Did you think the board was going to sit by and let you just walk away? After everything you promised?
+
+If it had gone another way down in that mine, you'd have never even known I was here. Just another hired hand."<span id="fnref142"></span>[¹⁴²](#fn142)
+
+- Dr. Rüdiger attempts to radio for a private evacuation via a transmitter at [High Peak Plateau](./High%20Peak%20Plateau.md), but help ultimately never arrives. [The Foreman](./The%20Foreman.md) shadows the Doctor from afar during this time, making his base in [Last Lonely House](./Last%20Lonely%20House.md) as his mental status deteriorates. Rüdiger is aware that that he is being stalked, as he predicted and feared might happen with his failure at the mine, and hides in the [Basement](./Basement%20%28Sundered%20Pass%29.md) of a [ruined settlement](./Old%20Settlement.md) in between trips to the Peak.
+  - The Foreman begins losing his belongings as his mind fails, losing various Polaroids and Technical Logs at each location he visits, including his [Tactical Gloves](./Tactical%20Gloves.md).
+- Realizing that an evac is not coming for him, Rüdiger's mental state begins to fail, as he realizes that he also has been effected by the Machine's mind destroying properties. Rüdiger ultimately decides to leave the Pass and return to [Bunker Omega](./Bunker%20Omega.md).
+  - Rüdiger is attacked by a [Cougar](./Cougar.md) on his way to Bunker Omega, but survives. His [gold watch](./R%C3%BCdiger%27s%20Watch.md) is damaged during the struggle, and he is badly wounded. Eventually he successfully makes his way inside the Bunker, and hides in a hidden room.<span id="fnref143"></span>[¹⁴³](#fn143)
+- The Foreman tracks the doctor down, and demands the data from the project be handed over. An altercation occurs between the two, as Rüdiger attempts to shoot and kill The Foreman, but he is too slow and is instead shot himself. The doctor dies, and The Foreman makes an account to the best of his memory of what happened, before his mind fully deteriorates.
+  - The Foreman leaves behind his [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md) (with barely legible handwriting by this point), his [Tactical Jacket](./Tactical%20Jacket.md), and the [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md) in the hidden room before sealing the false wall, leaving the Bunker, and wandering off to never be seen again.
+  - The data regarding the project is ultimately lost.
+
+- 12 June 1991 -
+  - A traveler hides a [Faded Paper](./Faded%20Paper.md) in the Loose Boards at [Mindful Cabin](./Mindful%20Cabin.md) as they travel the Far Territory.
+- 18-Jun-91 -
+  - The same individual buries [A Page From A Journal](./A%20Page%20From%20A%20Journal.md) at the [Boss's Settlement](./Boss%27s%20Settlement.md) as they explore the ruined Langston Mine.
+- At some point, [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md) is reactivated (assuming that it was never fully disabled by the Security Chief). People with symptoms similar to the miners in the past begin to appear in [Perseverance Mills](./Perseverance%20Mills.md).
+  - [Samuel Franks](./Lost%20Worker%27s%20Note.md) and [a suspicous person](./Conspiracy%20Theories.md) around Blackrock also show symptoms as the miners affected by the device long ago.
+
+<!-- #Memories -->
+​
+
+<!-- #memories -->
+### [Memories](./Memories.md)
+
+- Astrid Greenwood travels to [Jackrabbit Hangar](./Jackrabbit%20Hangar.md) with a [mysterious hardcase](./Astrid%27s%20Hardcase.md), attempting to chart a plane from her ex husband, Will Mackenzie, to the remote island of Great Bear Island.
+- The First Flare occurs mid flight over Lower Great Bear, and Mackenzie's plane crashes in the remote wilderness of Lower Great Bear.
+
+<!-- #the_crash -->
+​
+
+<!-- #The_Crash -->
+​
+
+<!-- #The_crash -->
+​
+
+<!-- #the-crash -->
+### [The Crash](./The%20Crash.md)
+
+- Astrid Greenwood survives the plane crash and makes a campfire near a small pond nearby, before making her way to the Town of Milton. She attempts to save the residents burning alive in the [Old Schoolhouse](./Old%20Schoolhouse.md) before being attacked by [Convicts](./Convicts.md) and escaping through the tunnel out of Milton.
+  - [Hobbs](./Hobbs.md) has a [Hunting Knife](./Hunting%20Knife.md) stabbed into his chest by Astrid and flees to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
+- Will Mackenzie survives the plane crash but is stranded in a ravine close to his plane for 1 night, due to injuries he sustained from the crash. Mackenzie climbs out of the ravine the next day and finds Astrid's Hardcase but not Astrid, and then follows her trail through the woods before arriving at Grey Mother's home. The woman inside is reluctant to help him after her town was destroyed by Convicts the previous night, but she offers to help Mackenzie find Astrid in exchange for food and fuel.
+
+<!-- #the_grey_mother -->
+​
+
+<!-- #The_Grey_Mother -->
+​
+
+<!-- #The_grey_mother -->
+​
+
+<!-- #the-grey-mother -->
+### [The Grey Mother](./The%20Grey%20Mother.md)
+
+- Mackenzie finds food and fuel to help Grey Mother survive.
+  - Mackenzie finds [Methuselah](./Methuselah.md) inside the [Orca Gas Station](./Orca%20Gas%20Station.md) as he searches for supplies.
+
+- Grey Mother directs Mackenzie to the tunnel out of Milton, but Mackenzie finds that the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) and an avalanche has blocked the tunnel.
+  - Mackenzie finds a message inside the bus left by Astrid: PERSERVERANCE. Grey Mother surmises that this is a clue pointing to an old logging town north of Milton, [Perseverance Mills](./Perseverance%20Mills.md), giving Mackenzie an objective to travel to.
+  - Grey Mother and Mackenzie realize they are both stranded in Milton for now.
+
+- Grey Mother then asks the pilot to retrieve [her Safety Deposit Box](./Grey%20Mother%27s%20Safety%20Deposit%20Box.md), then to give [her Pearls](./Grey%20Mother%27s%20Pearls.md) to [Lilith Barker](./Lilith%20Barker.md) at her grave, finally giving Grey Mother closure and peace regarding her daughter's death. She rewards Mackenzie her daughter's old climbing gear, giving him a way to leave the town.
+  - Mackenzie finds Hobbs in the farmhouse, and chooses to either kill or spare him. The convict's fate is unknown if spared.
+
+<!-- #paradise_lost -->
+​
+
+<!-- #Paradise_Lost -->
+​
+
+<!-- #Paradise_lost -->
+​
+
+<!-- #paradise-lost -->
+### [Paradise Lost](./Paradise%20Lost.md)
+
+- Mackenzie finds Methuselah for a second time outside of [Milton Park](./Milton%20Park.md), with the old man congratulating the pilot for escaping the town and passing judgment on Mackenzie for how he chose to deal with Hobbs.
+- Mackenzie circumvents the blocked tunnel out of Milton by passing through the mountains into [Mystery Lake](./Mystery%20Lake%20%28region%29.md) encounters [Jeremiah](./Jeremiah.md) being mauled by the [Old Bear](./Old%20Bear.md). Mackenzie grabs the trapper's hunting rifle, and shoots the bear, scaring it off. Mackenzie then drags Jeremiah to his [Trapper's Homestead](./Trapper%27s%20Homestead.md) and stabilizes his injuries for the next few days.
+
+<!-- #the_wounded_trapper -->
+​
+
+<!-- #The_Wounded_Trapper -->
+​
+
+<!-- #The_wounded_trapper -->
+​
+
+<!-- #the-wounded-trapper -->
+### [The Wounded Trapper](./The%20Wounded%20Trapper.md)
+
+- Will Mackenzie nurses [Jeremiah](./Jeremiah.md) back to health to the best of his abilities, and the trapper wakes up.
+- Jeremiah urges Mackenzie to find [Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) in the nearby abandoned Carter Hydro Dam, as well as find [Radio Parts](./Radio%20Parts.md) to fix the his shortwave radio.
+  - Mackenzie encounters the Old Bear for a 2nd time outside the Carter Hydro Staging Area, but the bear wanders off after being unable to attack Mackenzie through the fence.
+  - Mackenzie finds [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) and [Radio Parts](./Radio%20Parts.md) and returns to Jeremiah.
+- Mackenzie gives morphine to Jeremiah to stabilize him, with the trapper revealing that both he and Mackenzie are trapped in Mystery Lake as long as the Old Bear is still alive. Jeremiah needs to send a message to Perseverance Mills and Mackenzie informs him that he is looking for Astrid. Jeremiah confirms that the road she took out of Milton does not connect with Mystery Lake, and that they need to repair the Shortwave to message the Mills to see if she made it there.
+
+<!-- #the_best_defense -->
+​
+
+<!-- #The_Best_Defense -->
+​
+
+<!-- #The_best_defense -->
+​
+
+<!-- #the-best-defense -->
+### [The Best Defense](./The%20Best%20Defense.md)
+
+- Jeremiah then gives Mackenzie an objective to travel to Broken Railroad find the mysterious [Bear Spear](./Bear%20Spear.md), as the trapper's [Hunting Rifle](./Hunting%20Rifle.md) won't be enough to kill the bear.
+  - Mackenzie travels to the region and encounters the Old Bear for the 3rd time, who attacks him and knocks him out. When Mackenzie awakes, the [Aurora](./Aurora.md) is in the night sky again, with [Methuselah](./Methuselah.md) nearby for a 3rd encounter.
+  - Mackenzie finds the [Hunting Lodge](./Hunting%20Lodge.md) and obtains the spear, but it is [Broken](./Broken%20Bear%20Spear.md).
+  - Mackenzie encounters a ringing phone in the lodge, but the phone call disconnects before Mackenzie can answer it.
+  - Mackenzie re-forges a [Spear Head](./Spear%20Head.md) and rebuilds the Bear Spear, then returns to Jeremiah, encountering the Old Bear a 4th time, but it keeps its distance.
+
+<!-- #signal_to_noise -->
+​
+
+<!-- #Signal_to_Noise -->
+​
+
+<!-- #Signal_to_noise -->
+​
+
+<!-- #Signal_To_Noise -->
+​
+
+<!-- #signal-to-noise -->
+### [Signal to Noise](./Signal%20to%20Noise.md)
+
+- Jeremiah gives Mackenzie the objective to find [Transponder Parts](./Transponder%20Parts.md) from the 3 Shortwave Radio towers in [Forlorn Muskeg](./Forlorn%20Muskeg.md) to further repair his ham radio and boost the signal, so he can send his message out.
+  - Mackenzie encounters the Old Bear again, almost as if it is guarding several towers, but drives the bear off with the Bear Spear.
+  - After finding all 3 Transponder Parts, Mackenzie returns to Mystery Lake, but is ambushed by the Old Bear. He is attacked and rendered unconscious, then dragged into the [Old Bear's Den](./Old%20Bear%27s%20Den.md).
+
+<!-- #what_one_man_can_do -->
+​
+
+<!-- #What_One_Man_Can_Do -->
+​
+
+<!-- #What_one_man_can_do -->
+​
+
+<!-- #what-one-man-can-do -->
+### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
+
+- Mackenzie, unarmed, travels through the cave system to retrieve his Bear Spear, and ultimately kills the great beast. He then returns to Trapper's Homestead with the Transponder Parts, and passes out.
+- Jeremiah fixes his shortwave radio as the Aurora appears in the night sky. He tunes the frequency to contact Perseverance Mills, and allows Mackenzie the honors of contacting them. A radio broadcast between an unknown party and Perseverance Mills is intercepted, with Mackenzie unable to get a word in with the two parties before the ham radio fizzles out (his words are broadcasted however). Jeremiah is distressed over the loss of his radio, and gives Mackenzie a message that he insists NEEDS to be taken to a woman living near the town named [Atwood](./Atwood.md). The message is WINTERMUTE.
+
+<!-- #renewed_hope -->
+​
+
+<!-- #Renewed_Hope -->
+​
+
+<!-- #Renewed_hope -->
+​
+
+<!-- #renewed-hope -->
+### [Renewed Hope](./Renewed%20Hope.md)
+
+- Jeremiah gives access codes to the control room in the Upper Carter Hydro Dam, and plots a course to [Perseverance Mills](./Perseverance%20Mills.md) for Mackenzie: Pass through the Dam, then through the [Carter River](./Winding%20River.md), then reach a [Radio Station](./Signal%20Hill.md) to call Perseverance Mills again before continuing to travel north to the Mills.
+  - Mackenzie encounters Methuselah for the 4th time outside the Hydro Dam.
+- Mackenzie is assaulted inside the Dam, with [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) being confiscated by a Convict named [Mathis](./Mathis.md) who demands that it be opened.
+  - Mathis mentions encountering a woman in the Dam and harming her, frightening Mackenzie who thinks this is Astrid.
+- After interrogating Mackenzie over the contents of the Hardcase and into revealing the location of his plane, Mathis knocks Mackenzie out and drags him out of the dam through the Winding River, eventually regrouping with [Vachon](./Vachon.md) and [Heller](./Heller.md) and traveling through Pleasant Valley and Keeper's Pass South.
+
+<!-- #Trauma -->
+​
+
+<!-- #trauma -->
+### [Trauma](./Trauma.md)
+
+- [Molly](./Molly.md) encounters Astrid Greenwood outside of the tunnel to Milton in [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), and drags her back to her home to save her.
+- Astrid Greenwood awakes inside of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), and is introduced to her savior, before eventually going back to sleep.
+  - Astrid explains to Molly that she escaped from Milton.
+  - Astrid asks if Molly has seen a man from the crash with her, but she denies seeing him.
+  - Molly reveals that the lights have been out for days, with even the generator outside the house refusing to work.
+- Astrid awakes after Molly returns with a food for the both of them, but leaves in frustration after Astrid asks more about her home.
+  - Molly reveals that she has locked every door to the house from the outside before she leaves, trapping Astrid inside.
+  - Astrid snoops around the house, finding a piece of orange fabric from a prison jumpsuit, a photo of Molly and her husband, and an exploded rifle.
+- Molly later calls Astrid over the phone, saying she is trapped in her barn with wolves and giving her the location of a key to the basement. She asks Astrid to bring her some Rifle Ammunition, as well as to arm herself with a Revolver.
+  - A light earthquake hits Pleasant Valley. This will be the first of many light earthquakes. Astrid finds the corpse of [Molly's Husband](./Molly%27s%20Husband.md) in the basement at this time.
+  - Astrid follows blizzard lines to [Barn (Molly's)](./Barn%20%28Molly%27s%29.md), but only finds a dead [Timberwolf](./Timberwolf.md) with arrows stuck in it when she goes inside.
+- Molly calls Astrid over the phone telling her that she got away, but Astrid reveals that she found the body in the cellar. Astrid then finds a [Community Hall Flyer](./Community%20Hall%20Flyer.md) and heads to [Thomson's Crossing](./Thomson%27s%20Crossing.md) to see if Mackenzie passed through there. She sees a large bonfire along the way in the middle of town, a beacon of sorts.
+  - It is assumed that Molly began hunting the Convicts throughout the region after this point, as she had forgotten she had a bow stashed in the barn from last summer until she waited for Astrid to come help her, and many of the Convicts have arrows run through them.
+  - Mathis presumably escaped the region into Winding River at this point.
+
+<!-- #fallen_star -->
+​
+
+<!-- #Fallen_Star -->
+​
+
+<!-- #Fallen_star -->
+​
+
+<!-- #fallen-star -->
+### [Fallen Star](./Fallen%20Star.md)
+
+- Astrid arrives at the [Community Hall](./Community%20Hall.md), and finds several [Crash Survivors](./Crash%20Survivor.md) from a nearby passenger plane crash. A man by the name of [Father Thomas](./Father%20Thomas.md) asks if she too is from the crash, but Astrid says she was from a different plan crash. Astrid then uses her skills as a doctor to tend to the wounded. Father Thomas also reveals that a monster blizzard is arriving soon in a few days, and that the Community Hall will need several supplies if the Crash Survivors are to recover.
+  - Many plane survivors died from their injuries and were stored in the basement in order to preserve the bodies and keep the wolves from attacking the Hall.
+  - Astrid tends to every survivor, but finds one man, Dimitri, with a diabetes wristband. She decides to journey to the plane crash to find his [Insulin](./Insulin.md). Father Thomas asks Astrid to find evidence of any missing passengers, as the Crash Survivors will need closure to begin healing after the devastating events that have taken place.
+  - Molly calls the Community Hall and Astrid picks up, revealing more information about her past regarding her husband, and leaving a [gift](./Molly%27s%20Gift.md) near the playground.
+  - [Timberwolves](./Timberwolf.md) attack Astrid for the first time, but she fends them off.
+- Astrid arrives at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and is astounded by the devastation before her, questioning how anyone could have survived the impact. She finds several I.D. cards of many of the dead passengers in the snow, before finding [Gwen](./Characters.md#Gwen) at the tail section next to Dimitri's suitcase containing her insulin.
+  - A flashback occurs here, with Astrid appearing the past as Seraphim Sleep Research Centre, with [a friend](./Jane%20Yang.md) calling and pleading her to find a cure for an illness affecting her home in [Perseverance Mills](./Perseverance%20Mills.md).
+  - Astrid begins taking Gwen back to the Community hall after finding IDs of from the corpses she can find at the crash site, as well as a [Passenger Manifest](./Passenger%20Manifest.md). Some passenger names are missing.
+  - Astrid receives a phone call from Molly at a burned down building, with Molly revealing more about her past.
+    - Astrid is aware that Molly is stalking her, as she mentions currently seeing Astrid with a survivor.
+    - Molly also reveals that all phones in the region are linked via a party line, and she just has to wait for Astrid to pick up any phone in the region to talk to Astrid. The phones also work because they run on a pre-electronics system, despite all modern electronics failing.
+- Astrid carries Gwen to the Community Hall, administers Insulin to Dimitri, and gives the ID cards to every survivor in the Hall, however she was unable to find 3 people's IDs on the Passenger Manifest.
+
+<!-- #coming_storm -->
+​
+
+<!-- #Coming_Storm -->
+​
+
+<!-- #Coming_storm -->
+​
+
+<!-- #coming-storm -->
+### [Coming Storm](./Coming%20Storm.md)
+
+- Father Thomas urges Astrid to look for the 3 missing plane passengers, as they may still be out in the Valley, as well as finding any supplies to help the survivors through the coming storm.
+  - Astrid does find 3 missing Crash Survivors: Ava, Wade, and Logan, and returns them to the Hall one by one. Astrid also recovers enough supplies to keep everyone alive through the Blizzard.
+
+<!-- #Aftermath -->
+​
+
+<!-- #aftermath -->
+### [Aftermath](./Aftermath.md)
+
+- Father Thomas gives Astrid a [Map of Pleasant Valley](./Map%20of%20Pleasant%20Valley.md), showing her how to leave the region to make her way to Perseverance Mills, as well as the location of [Signal Hill](./Signal%20Hill.md). Astrid goes to the radio station to radio the Mills, but the equipment is unpowered. She sleeps, only to awake to the Aurora with the station powered. She attempts to get a message out but overhears the conversation between Mackenzie and the unknown 2 parties from Episode 2.
+  - Astrid knows Mackenzie is alive.
+  - Molly calls the Astrid for the final time, confirming that she has been the one killing the various Convicts in the region that Astrid has been finding ([Blackrock](./Blackrock%20%28mission%29.md)). She reveals in the killing, feeling more free than she's ever felt before, and embraces her new life as a killer in this new world.
+- Astrid leaves Pleasant Valley as the whiteout blizzard envelops the region, and makes her way to [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md). She encounters a setback after an earthquake sends her to the lower level of the mine, but she ultimately escapes into Coastal Highway.
+- Astrid comes across a dead Orca pod, and remarks that nature is changing due to the First Flare and the Aurora, and then continues her journey alone to Perseverance Mills.
+
+<!-- #Prologue -->
+​
+
+<!-- #prologue -->
+### [Prologue](./Prologue.md)
+
+- Will Mackenzie wakes up on a stretcher. His hands are tied and he is being carried by [Vachon](./Vachon.md) and [Heller](./Heller.md) through the woods in [Keeper's Pass North](./Keeper%27s%20Pass%20North.md). Mathis is in tow, with the Hardcase. [Timberwolves](./Timberwolf.md) attack the group and Mackenzie escapes, before eventually being recaptured, knocked out again, and taken to [Blackrock Prison](./Blackrock%20Prison.md).
+  - Vachon reveals that one of the Prison Bus inmates, LECLERC, Y.,<span id="fnref144"></span>[¹⁴⁴](#fn144) was killed with an arrow shot through his chest. This was presumably Molly's work.
+  - Mathis reveals that the woman he met in the Dam is dead by his hands.
+
+<!-- #blackrock_blues -->
+​
+
+<!-- #Blackrock_Blues -->
+​
+
+<!-- #Blackrock_blues -->
+​
+
+<!-- #blackrock-blues -->
+### [Blackrock Blues](./Blackrock%20Blues.md)
+
+- Mackenzie awakes in a cell and is greeted by [Franklin](./Franklin.md), the warden of Blackrock, who reveals that after the First Flare the convicts took over the prison and executed most of the staff. They are only keeping him alive because they are attempting to release a prisoner named [Donner](./Donner.md) from the solitary wing of the facility, but cannot get in and believe that the warden is hiding information from them.
+  - Donnor is Mathis' son, and is even more psychotic than his father, serving a life sentence in the Prison as he cannot be returned to normal society.
+  - Mathis arrives with Vachon and Heller, with Mathis beating Franklin within an inch of his life, forcing Vachon and Heller to patch him up. They need medicine found outside the Prison's walls, and Mackenzie volunteers to risk his life to find it. Since the 2 convicts know that Mackenzie won't run away without Astrid's Hardcase, they reluctantly and secretly let the pilot loose without Mathis' approval, and Mackenzie finds the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) and administers it to Franklin. He then tells the warden that he met with a woman on the phone that is trying to help them both.
+  - Mackenzie encounters a [woman](./Jace.md) on the phone while searching for the medicine, actively working to thwart the convicts attempts to free Donnor. She questions what side Mackenzie is on, as he is helping the Convicts, but realizes that the pilot might be able to help her.
+
+<!-- #the_power_plant -->
+​
+
+<!-- #The_Power_Plant -->
+​
+
+<!-- #The_power_plant -->
+​
+
+<!-- #the-power-plant -->
+### [The Power Plant](./The%20Power%20Plant.md)
+
+- Mackenzie's "prison break" is discovered by Mathis, who then puts the pilot to work to repair the [Steam Tunnels](./Steam%20Tunnels.md) to route power to solitary.
+  - The woman on the phone reveals her name is Jace when Mackenzie arrives at the [Power Plant](./Power%20Plant.md), and orders him to sabotage the steam reactor, which he does.
+
+<!-- #the_detonators -->
+​
+
+<!-- #The_Detonators -->
+​
+
+<!-- #The_detonators -->
+​
+
+<!-- #the-detonators -->
+### [The Detonators](./The%20Detonators.md)
+
+- Mathis is now aware that there is a spy attempting to thwart his plans after the destruction of the steam reactor, and with the Steam Tunnels not powering solitary, he orders Mackenzie to find [Detonators](./Detonators.md) in the [Last Prospect](./Last%20Prospect.md) mine.
+  - Mathis tortures and kills Franklin after Mackenzie leaves, with the warden leaking information about the alliance between Mackenzie and the woman on the phone in an attempt to save his own life.
+  - Mackenzie braves through the Last Prospect mine, and finds the Detonators. After ascending to the surface, he has another phone call with Jace, who reveals that she is a student of astrophysics that was driving to [Perseverance Mills](./Perseverance%20Mills.md) to meet her thesis professor [Atwood](./Atwood.md). Mackenzie reveals that he is also seeking Atwood to deliver a message to her.
+    - Jace also reveals that the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) is nearby the Mills, and that it is properly shielded from EMPs, meaning that anything electronic inside likely still works. She also stresses that Mathis and his Convicts cannot be allowed to get inside, as it has enough food, water, shelter, radios, working vehicles, and other resources that would allow the Convicts to rule the Island with an iron fist.
+    - Jace is aware that Mackenzie needs a his Hardcase from back Mathis, and will be delivering the Detonators to him. She reveals that her plans will now need to go "nuclear" as she has an ace up her sleeve.
+  - An earthquake destroys [Mule Bridge](./Mule%20Bridge.md) and collapses part of the mine, knocking Mackenzie out. When he awakes, Mackenzie sees the Aurora out and is forced to travel down river to the mine. He arrives at the Prison, seeing it powered again.
+
+<!-- #Donner -->
+​
+
+<!-- #donner -->
+### [Donner](./Donner%20%28mission%29.md)
+
+- Mackenzie returns to the prison and delivers the Detonators, with Mathis revealing that he killed Franklin and is aware that Mackenzie was attempting to thwart his plans.
+  - Mathis reveals that the only reason he kept Mackenzie alive was that he hoped that he could steal a working plane, but now desires to stay on Great Bear Island since civilization on the Mainland is likely ruined, and that Great Bear Island is the perfect isolated location to start his own kingdom in this quiet apocalypse.
+  - Mathis attempts to kill Mackenzie, but is interrupted by an explosion that rocks the Prison.
+- Jace activates the prison lockdown, buying Mackenzie time, and reveals that her "nuclear" plan was to cause the prison to explode, as the Convicts blew the Detonators the wrong way. This allows Mackenzie to escape.
+  - Mackenzie recovers Astrid's Hardcase in the Warden's office, and has a phone call with Jace, telling him to meet her in the [Power Plant](./Power%20Plant.md).
+  - Mackenzie flees through the courtyard, avoiding being shot by Convicts using powered searchlights, then flees through the now destroyed Steam Tunnels.
+- Mackenzie and Jace meet at the Power Plant, and Mathis and his Convicts catch up to the two.
+  - Heller reveals that Donnor has been freed from solitary, but is badly wounded and dying. This news sends Mathis into a blind rage as he attempts to kill Mackenzie and Jace.
+  - Mackenzie and Jace escape through the Power Plant's river, washing ashore and freezing in the snow. They begin their journey to Atwood and Perseverance Mills.
+- A post credits scene reveals that Astrid Greenwood has arrived at the port of Perseverance Mills via canoe.
+  - Two men<span id="fnref145"></span>[¹⁴⁵](#fn145) approach her canoe, believing that she is a quarantine breaker, but realize she is not from the Mills.
+  - [Jane Yang](./Jane%20Yang.md) approaches Astrid, surprised to see Astrid alive but confused as to why she doesn't have the [Hardcase](./Astrid%27s%20Hardcase.md).
+
+<!-- #episode_5_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
+​
+
+<!-- #episode_5:_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #episode-5-the-light-at-the-end-of-all-things -->
+## [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+- TBA
+
+<!-- #milton_supply_caches -->
+​
+
+<!-- #Milton_Supply_Caches -->
+​
+
+<!-- #Milton_supply_caches -->
+​
+
+<!-- #milton-supply-caches -->
+### [Milton Supply Caches](./Milton%20Supply%20Caches.md)
+
+- Mackenzie finds several notes from the residents of Milton who left behind 3 supply caches. He finds them and takes the contents for himself.
+
+<!-- #milton_safety_deposit_box_keys -->
+​
+
+<!-- #Milton_Safety_Deposit_Box_Keys -->
+​
+
+<!-- #Milton_safety_deposit_box_keys -->
+​
+
+<!-- #milton-safety-deposit-box-keys -->
+### [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md)
+
+- Mackenzie finds several bank vault keys and uses them to open deposit boxes at Milton Credit Union.
+
+<!-- #highway_robbery_mission -->
+​
+
+<!-- #Highway_Robbery_(mission) -->
+​
+
+<!-- #highway_robbery_(mission) -->
+​
+
+<!-- #Highway_robbery_(mission) -->
+​
+
+<!-- #highway-robbery-mission -->
+### [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md)
+
+- Mackenzie finds a note regarding a truck out near the highway with several supplies. He travels there and takes the contents of a trunk for himself.
+
+<!-- #extra_supplies -->
+​
+
+<!-- #Extra_Supplies -->
+​
+
+<!-- #Extra_supplies -->
+​
+
+<!-- #extra-supplies -->
+### [Extra Supplies](./Extra%20Supplies.md)
+
+- Mackenzie finds a [Winter Forecast](./Winter%20Forecast.md) that shows the winter will get much colder, and finds extra food and fuel for Grey Mother.
+
+<!-- #the_basics_of_survival -->
+​
+
+<!-- #The_Basics_of_Survival -->
+​
+
+<!-- #The_basics_of_survival -->
+​
+
+<!-- #The_Basics_Of_Survival -->
+​
+
+<!-- #the-basics-of-survival -->
+### [The Basics of Survival](./The%20Basics%20of%20Survival.md)
+
+- Mackenzie finds several books teaching about survival skills, and learns how to mend clothing, safety pick medicinal plants, and snare a rabbit.
+
+<!-- #forest_talker_supply_caches -->
+​
+
+<!-- #Forest_Talker_Supply_Caches -->
+​
+
+<!-- #Forest_talker_supply_caches -->
+​
+
+<!-- #forest-talker-supply-caches -->
+### [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)
+
+- Mackenzie finds a [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md) showing 3 supply caches, and finds them.
+
+<!-- #mystery_lake_supply_caches -->
+​
+
+<!-- #Mystery_Lake_Supply_Caches -->
+​
+
+<!-- #Mystery_lake_supply_caches -->
+​
+
+<!-- #mystery-lake-supply-caches -->
+### [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
+
+- Mackenzie finds 3 notes about supply caches left by other survivors, and finds them.
+
+<!-- #aurora_hatch -->
+​
+
+<!-- #Aurora_Hatch -->
+​
+
+<!-- #Aurora_hatch -->
+​
+
+<!-- #aurora-hatch -->
+### [Aurora Hatch](./Aurora%20Hatch.md)
+
+- Mackenzie finds a note in a supply cache about a special powered Prepper Cache, and loots it during the Aurora.
+
+<!-- #hanks_hatch -->
+​
+
+<!-- #Hank's_Hatch -->
+​
+
+<!-- #hank's_hatch -->
+​
+
+<!-- #Hank's_hatch -->
+​
+
+<!-- #hanks-hatch -->
+### [Hank's Hatch](./Hank%27s%20Hatch.md)
+
+- Mackenzie finds several notes about a Prepper Cache created by a man named Hank.
+  - Hank sent a [letter to his Niece](./Letter%20for%20Hank%27s%20Niece.md) Angela (and by extension her mother) to come find him and his Prepper Cache if things ever went wrong. Mackenzie finds the corpse of Angela and her mother by [Unnamed Pond](./Unnamed%20Pond.md) and outside Hank's hatch.
+  - Hank had been attacked by a wolf and locked his hatch, fearing the clawing from outside was more wolves. It was instead Angela, who froze to death outside (she was carrying [Antiseptic](./Antiseptic.md) and [Bandages](./Bandage.md) and could have kept Hank alive). Hank ultimately passed away from his wounds inside his bunker.
+
+<!-- #lake_gunshots -->
+​
+
+<!-- #Lake_Gunshots -->
+​
+
+<!-- #Lake_gunshots -->
+​
+
+<!-- #lake-gunshots -->
+### [Lake Gunshots](./Lake%20Gunshots.md)
+
+- 2 Forest Talkers at the [Logging Camp](./Logging%20Camp.md) travel to Mystery Lake to go fishing for food, but both are attacked. One perishes on the ice but the other escapes into a nearby cabin. Mackenzie arrives and offers to help the wounded Forest Talker, finding his [Forest Talker Supplies](./Forest%20Talker%20Supplies.md) and [Forest Talker Documents](./Forest%20Talker%20Documents.md). The fate of the man is unknown after this.
+  - The Forest Talkers were likely attacked by a [Breyerhouse](./Breyerhouse.md) worker finally taking revenge on the eco-terrorists, evidenced by the [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md). If Mackenzie takes the man's ammo, he will be attacked after leaving the cabin the next day and perish.
+
+<!-- #survival_school -->
+​
+
+<!-- #Survival_School -->
+​
+
+<!-- #Survival_school -->
+​
+
+<!-- #survival-school -->
+### [Survival School](./Survival%20School.md)
+
+- Mackenzie finds more books teaching about survival skills, and learns how to kill a stage, how to ice fish, and how to cull wolves.
+
+<!-- #church_artifact -->
+​
+
+<!-- #Church_Artifact -->
+​
+
+<!-- #Church_artifact -->
+​
+
+<!-- #church-artifact -->
+#### [Church Artifact](./Church%20Artifact.md)
+
+- An unknown individual steals a [Church Artifact](./Church%20Artifact.md) from [Thomson's Crossing](./Thomson%27s%20Crossing.md) Church, looking to sell it for cash out of desperation following The Collapse. It would remain stashed in the abandoned basement of [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) for decades until Astrid finds and returns it to the Crossing's church.<span id="fnref146"></span>[¹⁴⁶](#fn146)
+
+[Blackrock (mission)](./Blackrock%20%28mission%29.md)
+
+- Astrid finds the remains of a Blackrock Prison Guard and follows a trail of dead convicts, until finding a Convict cache.
+
+[Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)
+
+- Astrid finds several notes showing the thoughts of the Forest Talkers and Locals of Pleasant Valley.
+
+[Tall Tales](./Tall%20Tales.md)
+
+- Astrid finds 4 different books written by T. A. Gurnsey, a local of Pleasant Valley, regarding sightings of supernatural/wonderous phenomena around the Valley.
+  - [Local Legends - The Big One](./Local%20Legends%20-%20The%20Big%20One.md)
+    - Astrid travels to [Pensive Pond](./Pensive%20Pond.md) and ice fishes the [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md).
+  - [Local Legends - Sasquatch](./Local%20Legends%20-%20Sasquatch.md)
+    - Astrid finds the so called "Sasquatch" inside a cave, and it was a man wearing a [Wolfskin Coat](./Wolfskin%20Coat.md).
+  - [Local Legends - The Lost Cave](./Local%20Legends%20-%20The%20Lost%20Cave.md)
+    - Astrid travels to [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md) and finds a cave inside. Deep within, she finds the so called lost cave.
+  - [Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md)
+    - Astrid travels to [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md), and sees a very rare albino [Ghost Stag](./Ghost%20Stag.md).
+
+[Molly's Gift](./Molly%27s%20Gift.md)
+
+- Astrid finds Molly's gift containing several [Marine Flares](./Marine%20Flare.md) to fend off Timberwolf attacks.
+
+[Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)
+
+- Astrid finds a Prepper Cache from a local named Tom Joplin, and raids 3 of them, taking the resources and giving them to the Crash Survivors at the Community Hall. Tom Joplin is nowhere to be found.
+
+<!-- #episode_4_fury_then_silence_1 -->
+​
+
+<!-- #episode-4-fury-then-silence-1 -->
+### [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+
+[Blackrock Lockers](./Blackrock%20Lockers.md)
+
+- Mackenzie finds several lockers at the prison guard barracks and finds the keys to open them.
+
+[Blackrock Rumours](./Blackrock%20Rumours.md)
+
+- Mackenzie finds several notes from Blackrock Prison administration, and follows the clues left behind.
+- [Blackrock Memo - Late Employee](./Blackrock%20Memo%20-%20Late%20Employee.md)
+  - Mackenzie finds Murphy who had been panning for gold, and froze to death. He takes the man's [Lock Box Key](./Lock%20Box%20Key.md) and finds a [Gold Nugget](./Gold%20Nugget.md) in his lockbox.
+- [Blackrock Memo - Highly Aggressive Wolf](./Blackrock%20Memo%20-%20Highly%20Aggressive%20Wolf.md)
+  - Mackenzie tracks down the aggressive wolf, and finds the remains of the dead animal researcher, killed by the very wolf he was trying to save.
+- [Blackrock Memo - Suspicious Person](./Blackrock%20Memo%20-%20Suspicious%20Person.md)
+  - Mackenzie finds a hidden Prepper Cache in the region, stocked with supplies, but does not find the mysterious man that it belongs to.
+
+[Convict Caches](./Convict%20Caches.md)
+
+- Mackenzie finds several Hidden Caches left behind by Convicts in the region, and loots them.
+
+[Dark Star](./Dark%20Star.md)
+
+- Mackenzie finds 4 [Archival Reports](./Archival%20Report.md) detailing the early days of the Blackrock region.
+
+[Lost Power Workers](./Lost%20Power%20Workers.md)
+
+- Mackenzie finds 2 dead Journeyman Electricians that had been working at the [Old Substation](./Old%20Substation.md).
+  - One worker, Linda Burnley, had shot herself with a Revolver, likely after finding out about the Convicts taking over [Blackrock Prison](./Blackrock%20Prison.md), and chose to go out on her own terms.
+  - The other worker, Samual Franks, is found at the bottom of the ravine near Blackrock Prison. His corpse holds a backpack and [Lost Worker's Note](./Lost%20Worker%27s%20Note.md), and reveals that his mind had been going downhill before the First Flare, and that he had wandered off an frozen to death.
+
+[A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)
+
+- Mackenzie finds several Forest Talker notes in the [Last Prospect](./Last%20Prospect.md) mine, and uses the codes to unlock a special Forest Talker supply cache at the entrance to the mine.
+
+<!-- #episode_5_the_light_at_the_end_of_all_things_1 -->
+​
+
+<!-- #episode-5-the-light-at-the-end-of-all-things-1 -->
+### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+TBA
+
+<!-- #survival_mode_1 -->
+​
+
+<!-- #survival-mode-1 -->
+## [Survival Mode](./Survival%20Mode.md)
+
+- A plane crash survivor begins traveling across Great Bear Island after their plane is brought down by a mysterious geomagnetic storm. They encounter no other survivors on the Island. The plane crash survivor ultimately is never able to escape Great Bear Island, and becomes one with it, struggling to survive by looting, crafting, and foraging as the days pass.
+  - All major NPCs from Wintermute/Islanders in general are missing in the world at this point in time. Only [frozen corpses](./Frozen%20Corpse.md) remain.
+  - [Blackrock Prison](./Blackrock%20Prison.md), [Mule Bridge](./Mule%20Bridge.md), the entrance to [Last Prospect](./Last%20Prospect.md), and the [Steam Tunnels](./Steam%20Tunnels.md) lie in ruins, suggesting that this world takes place after Episode 4.
+- They uncover the secrets of the past that occurred in the Far Territory, as part of the [Tales](./Tales.md) missions.
+  - [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md) does not fully destroy the mind of the survivor when they come into contact with [Glimmer Fog](./Glimmer%20Fog.md) for prolonged periods of time, instead only giving them temporary [Insomnia](./Insomnia.md). This confirms that The Security Chief did damage the machine just enough so that it does not destroy the minds of anyone unfortunate enough to come into the Far Territory.
+  - The Machine also begins storing energy from the Aurora at night and expends energy during the day, producing Glimmer Fog in the Far Territory once more.
+- After a number of days of surviving in this new world, an Aurora powers a yellow radio with a transceiver and a voice speaks over the radio, the [Trader](./Trader.md). This begins [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+  - The Trader is the only other living human the plane crash survivor finds. He hints that he has a theory as to where everyone went, but ultimately teases the survivor with this info without revealing his theory.
+  - After performing a few trades between each other, the Trader reveals his name to be Sutherland to the survivor, and asks for some special favors to find his brother Wyatt, while also displaying several memory issues.
+    - He reveals that he had a sudden urge to head to open water during the First Flare, and that he sometimes wanders into deeper waters before snapping back to reality. He seems to be afflicted to whatever mental disease is occurring in [Perseverance Mills](./Perseverance%20Mills.md).
+  - The survivor scours the Island for [Prepper Caches](./Prepper%20Cache.md) for signs of Sutherland's brother. Most bunkers are abandoned, but 3 of them are stocked and contain hidden document stashes that help reveal clues surrounding his brother's disappearance.
+  - The survivor eventually finds Wyatt's remains in a 4th Prepper Cache in Pleasant Valley and delivering him to Sutherland. Sutherland suddenly remembers that Wyatt has been dead for many years this whole time, and asks the survivor to return his brother to rest and to seal the cache where he was found.
+  - Sutherland would continue to stay off the coast of the Island and continue trading with the plane crash survivor after gaining their full trust. Sutherland is unable to escape the Island to the Mainland due to currents and weather preventing his sailboat from leaving the coastline, and survives off of scavenging shipwrecks and debris floating in the open waters.
+- Eventually, after surviving alone for an indeterminate amount of time (possibly for hundreds of days, or perhaps years), the plane crash survivor fades away into The Long Dark (either due to hostile wildlife attacks, disease, lack of food/water, or falling from a great height).
+
+<!-- #buffer_memories -->
+​
+
+<!-- #Buffer_Memories -->
+​
+
+<!-- #Buffer_memories -->
+​
+
+<!-- #buffer-memories -->
+## [Buffer Memories](./Buffer%20Memories.md)
+
+These events are found on various computers, and occur before the First Flare, but at unknown times.
+
+- [Camp Office](./Camp%20Office.md) - Someone writes reports regarding wildlife activity around Mystery Lake and sends them to an unknown party.
+- [Milton Credit Union](./Milton%20Credit%20Union.md) - Anika Longmire, Female, 41, writes about her life in Milton.
+- [Milton Post Office](./Milton%20Post%20Office.md) - Chris writes a series of diary entries regarding life in the post office.
+- [Orca Gas Station](./Orca%20Gas%20Station.md) - Peter Good writes about inventory in the gas station. Contacts the owner of [Rural Store](./Rural%20Store.md) Dan Presnell.
+- [Chasm Cave](./Chasm%20Cave.md) - Robbie, a survivor from the [Timberwolf Mountain Plane Crash](./Tail%20Section.md), writes a diary from before and after the crash, but ultimately dies in the cave.
+- [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) - Several emails from the workers of the Carter Dam regarding its maintenance before it was abandoned in the 1990s.
+  - [Jeremiah](./Jeremiah.md) is mentioned in two emails.
+  - Vaughn is the owner of [Vaughn's Rifle](./Vaughn%27s%20Rifle.md).
+- [Fishing Camp](./Fishing%20Camp.md)/[Rabbit Grove](./Rabbit%20Grove.md) - A local fishermen's diary regarding fishing and the state of his ship/equipment.
+- [Quonset Garage](./Quonset%20Garage.md) - Barbara Quincy, Garage Owner, Female, 62, recounts her experiences as the gas station owner.
+  - Barbara is the owner of [Barb's Rifle](./Barb%27s%20Rifle.md).
+- [Lonely Lighthouse](./Lonely%20Lighthouse.md) - Name Unknown, Lighthouse Keeper, Male, 41. Recounts maintaining the lighthouse. A a traveler from the [Coastal Townsite](./Coastal%20Townsite.md) flees to the lighthouse due to the realities of The Collapse.
+- [Hibernia Processing](./Hibernia%20Processing.md) - Manny Douglas becomes stranded on Great Bear Island after DeepForest Experience inserts him on the Island and does not extract him.
+- [Maintenance Shed](./Maintenance%20Yard.md) - Emails by Jerry Baltimore, Male, 29, recounts how [Forest Talkers](./Forest%20Talkers.md) continue to harass Breyerhouse employees and destroy their equipment
+- [Maintenance Yard](./Maintenance%20Yard.md) - A Breyerhouse medic responds to a Wolf attack on a worker out in [The Ravine](./The%20Ravine.md).
+- [Shortwave Tower](./Shortwave%20Tower.md) - Partner Specialist 81926 performs maintenance on the Shortwave Tower in the Muskeg as per a contract, despite the danger of the remote area.
+  - He was contracted by workers of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) to fix the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md).
+  - He eventually is chased into The Ravine and later the mountains above Bleak Inlet by hostile wildlife. ([Communication Report](./Communication%20Report.md))
+  - He eventually runs out of food and makes it to the Cannery, creating the obstacle course that leads to the [Workshop](./Workshop.md). They eventually make it inside and lock the door, though a wolf is locked inside with them. ([The Technician's Notebook](./The%20Technician%27s%20Notebook.md))
+- [Signal Hill](./Signal%20Hill.md) - Sarah Easton, Female, 29 writes a journal as she comments on working in the radio tower, as well as events occurring in Pleasant Valley.
+- [Rural Crossroads](./Rural%20Store.md) - Dan Presnell, Shopkeeper, Male, 57 sends emails to Mainland suppler Mr. Galveston requesting more complete shipments of food staples that the Pleasant Valley community is dependent on. He also emails about their ATM being discontinued and [Tom Joplin](./Joplin%27s%20Bunker%20Raid.md).
+
+<!-- #footnotes -->
+​
+
+<!-- #notes -->
+## Notes
+
+---
+
+1. <span id="fn1"></span>[The Grey Mother (Predux)/TranscriptGrey](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) Mother: "We needed help ten years ago. During the Collapse. When you Mainlanders were sitting pretty, and the others raped our Island. Took what they wanted. We needed help ten years ago, and it didn't come then. Why would it come now?"[↩︎](#fnref1)
+2. <span id="fn2"></span>[Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) Father Thomas: "Yes...another storm blew through about a week ago. The worst I've seen in years. Blocked the roads in and out. I'm afraid we're stuck here until the roads are cleared."[↩︎](#fnref2)
+3. <span id="fn3"></span>[Blackrock Blues/TranscriptFranklin](./Blackrock%20Blues%20%E2%80%94%20Transcript.md): "Well, that's a story. Power went out here a couple weeks ago now. The backups held for a while but eventually the cons were able to break out and overwhelm the guards.[↩︎](#fnref3)
+4. <span id="fn4"></span>[Blackrock Blues/TranscriptFranklin](./Blackrock%20Blues%20%E2%80%94%20Transcript.md): "Oh yeah. We go way back. He was in for murder on the Mainland about ten years ago. He did seven and then got off on parole. I was Warden at one of the federal pens there and...well let's just say Mathis isn't sending me any Christmas cards these days."[↩︎](#fnref4)
+5. <span id="fn5"></span>[Blackrock Blues/TranscriptFranklin](./Blackrock%20Blues%20%E2%80%94%20Transcript.md): "Yeah...but are you going to get out? About twenty years ago a pair of cons escaped. They came back three days later, half-dead, begging us to take them back. And that was in the middle of summer."[↩︎](#fnref5)
+6. <span id="fn6"></span>[Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) Molly: "I guess it's because it's pre-electronics? The old party line from when this farm was originally put in...maybe sixty, seventy years ago. I'm not exactly sure how or why it still works, but it does."[↩︎](#fnref6)
+7. <span id="fn7"></span>[Risk of Infection/TranscriptJeremiah](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md): "Railroads. Coal. Logging. Mining. Hydro. Whole island's basically a perfect wilderness that's been slowly destroyed by industry over the past, oh...hundred years or so."[↩︎](#fnref7)
+8. <span id="fn8"></span>[Building Blackrock](./Building%20Blackrock.md)[↩︎](#fnref8)
+9. <span id="fn9"></span>[Blackrock Blues/TranscriptFranklin](./Blackrock%20Blues%20%E2%80%94%20Transcript.md): "Yeah. Maximum security prison. Built a hundred years ago and updated a few times. It's basically a fortress."[↩︎](#fnref9)
+10. <span id="fn10"></span>[Load Screen](./Load%20Screen.md)[↩︎](#fnref10)
+11. <span id="fn11"></span>[The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md#The_Legend_of_the_Spence_family)[↩︎](#fnref11)
+12. <span id="fn12"></span>[The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md) Jeremiah: "Don't be silly. Spence bear would be long gone by now. That was...150 years ago."[↩︎](#fnref12)
+13. <span id="fn13"></span>[The Detonators/TranscriptJace](./The%20Detonators%20%E2%80%94%20Transcript.md): "So, it just so happens that this part of Great Bear offers one of the best unconcluded zones...ideal for setting up sensitive instruments for my research so that..."[↩︎](#fnref13)
+14. <span id="fn14"></span>[The Detonators/TranscriptJace](./The%20Detonators%20%E2%80%94%20Transcript.md): "The [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md). It's...about 15-20 clicks from here. That's where I was headed when my car stopped working. I've been living there, doing research, for months. Alongside Dr. Atwood. Mackenzie, if the convicts find out about the radio telescope...it'll be bad. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios.[↩︎](#fnref14)
+15. <span id="fn15"></span>[The Detonators/TranscriptJace](./The%20Detonators%20%E2%80%94%20Transcript.md): "It's pretty messed up. Look, Suzuki is shielded. Due to the kind of work they do there. It's shielded from electromagnetic radiation. There's a good chance that all the shit that's been going on out here...that it hasn't been affected in the same way."[↩︎](#fnref15)
+16. <span id="fn16"></span>[The Detonators/TranscriptJace](./The%20Detonators%20%E2%80%94%20Transcript.md): "Oh right...just...my thesis advisor. She's the only reason I'm out here at all, Mackenzie. I'm a grad student. Astrophysics."[↩︎](#fnref16)
+17. <span id="fn17"></span>[Letter (Car)](./Letter%20%28Car%29.md)[↩︎](#fnref17)
+18. <span id="fn18"></span>[Newspaper Clipping 2](./Newspaper%20Clipping%202.md)[↩︎](#fnref18)
+19. <span id="fn19"></span>
+20. <span id="fn20"></span>[Pastor's Note](./Pastor%27s%20Note.md)[↩︎](#fnref20)
+21. <span id="fn21"></span>[Winter Forecast](./Winter%20Forecast.md)[↩︎](#fnref21)
+22. <span id="fn22"></span>[Park Notice](./Park%20Notice.md)[↩︎](#fnref22)
+23. <span id="fn23"></span>[Town of Milton](./Town%20of%20Milton.md)[↩︎](#fnref23)
+24. <span id="fn24"></span>
+25. <span id="fn25"></span>[Pleasant Valley History](./Pleasant%20Valley%20History.md)[↩︎](#fnref25)
+26. <span id="fn26"></span>[Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)[↩︎](#fnref26)
+27. <span id="fn27"></span>[Archival Report](./Archival%20Report.md)[↩︎](#fnref27)
+28. <span id="fn28"></span>
+29. <span id="fn29"></span>
+30. <span id="fn30"></span>
+31. <span id="fn31"></span>
+32. <span id="fn32"></span>
+33. <span id="fn33"></span>[Office Memo](./Office%20Memo.md)[↩︎](#fnref33)
+34. <span id="fn34"></span>
+35. <span id="fn35"></span>
+36. <span id="fn36"></span>[Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md)[↩︎](#fnref36)
+37. <span id="fn37"></span>
+38. <span id="fn38"></span>
+39. <span id="fn39"></span>
+40. <span id="fn40"></span>
+41. <span id="fn41"></span>
+42. <span id="fn42"></span>
+43. <span id="fn43"></span>
+44. <span id="fn44"></span>
+45. <span id="fn45"></span>
+46. <span id="fn46"></span>
+47. <span id="fn47"></span>
+48. <span id="fn48"></span>[Park Warning Notice](./Park%20Warning%20Notice.md)[↩︎](#fnref48)
+49. <span id="fn49"></span>[Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) Grey Mother: "They were the last gift I gave her...on her 16th birthday. She wanted to leave Milton. To be free. She had grown up here in the mountains...a climber. She wanted to leave to summit all the tallest peaks on Great Bear. I was afraid to let her go. We fought bitterly. And she left. She died out there...in the mountains. In the wilderness."[↩︎](#fnref49)
+50. <span id="fn50"></span>
+51. <span id="fn51"></span>
+52. <span id="fn52"></span>[Buffer Memories#Carter Hydro Dam](./Buffer%20Memories.md)[↩︎](#fnref52)
+53. <span id="fn53"></span>
+54. <span id="fn54"></span>
+55. <span id="fn55"></span>
+56. <span id="fn56"></span>[Survival School (Predux)/TranscriptMackenzie](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md): "When I was out there...I came across mention of the Forest Talkers". (sic) You know anything about that?" Jeremiah: "Oh yeah, I know all about the Talkers." Mackenzie: "What are they? Some kind of band? Or cult?" Jeremiah: "Nothing like that. Eco-activists. Terrorists, some call them. They've been fighting for years, against further exploitation of Great Bear." Mackenzie: "So...are they dangerous?" Jeremiah: "Not usually...they'll spike the occasional tree. Tie themselves to logging or mining equipment in protest. Don't think they've ever hurt anyone. But I'm not really up to date on current events." Mackenzie: "So, terrorists, or activists. Which is it?" Jeremiah: "Depends on your perspective, I guess. I try to stay out of politics. One thing's for sure - - they've been doing a lot more than just talking lately."[↩︎](#fnref56)
+57. <span id="fn57"></span>[Carter Hydro Dam -- Safety &amp; Shutdown Notice](./Carter%20Hydro%20Dam%20--%20Safety%20%26%20Shutdown%20Notice.md)[↩︎](#fnref57)
+58. <span id="fn58"></span>
+59. <span id="fn59"></span>[Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md)[↩︎](#fnref59)
+60. <span id="fn60"></span>[Trash Can Letter](./Trash%20Can%20Letter.md)[↩︎](#fnref60)
+61. <span id="fn61"></span>[Forest Talker Dam Note](./Forest%20Talker%20Dam%20Note.md)[↩︎](#fnref61)
+62. <span id="fn62"></span>[Forest Talker Documents](./Forest%20Talker%20Documents.md)[↩︎](#fnref62)
+63. <span id="fn63"></span>[History of The Collapse](./History%20of%20The%20Collapse.md)[↩︎](#fnref63)
+64. <span id="fn64"></span>[Convenience Store](./Convenience%20Store.md)[↩︎](#fnref64)
+65. <span id="fn65"></span>[CashA](./Cash.md) bundle of cash. Pretty much worthless these days. Useful as tinder.[↩︎](#fnref65)
+66. <span id="fn66"></span>
+67. <span id="fn67"></span>
+68. <span id="fn68"></span>
+69. <span id="fn69"></span>[Orca Gas Store Notice](./Orca%20Gas%20Store%20Notice.md)[↩︎](#fnref69)
+70. <span id="fn70"></span>[Milton Post Office Note](./Milton%20Post%20Office%20Note.md)[↩︎](#fnref70)
+71. <span id="fn71"></span>
+72. <span id="fn72"></span>[Buffer Memories](./Buffer%20Memories.md) Rural Store Buffer memory[↩︎](#fnref72)
+73. <span id="fn73"></span>
+74. <span id="fn74"></span>[The Wounded Trapper/TranscriptJeremiah](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "Oh! I have no a love for industry. But this is the way of the world. You have something they want -- they take it. Nothing much you can do to stop it."[↩︎](#fnref74)
+75. <span id="fn75"></span>[The Grey Mother (Predux)/TranscriptMackenzie](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md): "A town like Milton - - where do supplies come from?" Grey Mother: "The Mainland, of course. Where else?' Mackenzie: "I don't know. Local stuff. Farms? Producers on the Island?" Grey Mother: "Those days are in the past. We became dependent on the Mainland just like you wanted us to. Then, when things Collapsed...you cut us off. Until you found things you could take, things you could sell to...the others. The ones in the South. Some tried farming, but..." Mackenzie: "Times were hard for everyone back then. Still are. You aren't the only ones to have suffered. In the cities..." Grey Mother: "Bah! The cities. You got what you deserved. You'll get no sympathy from Grey Mother."[↩︎](#fnref75)
+76. <span id="fn76"></span>
+77. <span id="fn77"></span>[Forest Talker Memo](./Forest%20Talker%20Memo.md)[↩︎](#fnref77)
+78. <span id="fn78"></span>[Tearful Letter](./Tearful%20Letter.md)[↩︎](#fnref78)
+79. <span id="fn79"></span>[Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md)&lt;br&gt; Mackenzie: "You alone out here?" Jeremiah: "Pretty much. Whole Island's mostly abandoned now. Few scattered groups left. No real industry. Rare supply boat from the mainland. That's really the only lifeline for the few folks that still live on Great Bear..."[↩︎](#fnref79)
+80. <span id="fn80"></span>
+81. <span id="fn81"></span>
+82. <span id="fn82"></span>
+83. <span id="fn83"></span>[Letter for Hank's Niece](./Letter%20for%20Hank%27s%20Niece.md)[↩︎](#fnref83)
+84. <span id="fn84"></span>[Hank's Journal - Part One](./Hank%27s%20Journal%20-%20Part%20One.md)[↩︎](#fnref84)
+85. <span id="fn85"></span>
+86. <span id="fn86"></span>
+87. <span id="fn87"></span>[:File:Vacant Depot Timetable.jpg](../assets/Vacant_Depot_Timetable.jpg)[↩︎](#fnref87)
+88. <span id="fn88"></span>
+89. <span id="fn89"></span>
+90. <span id="fn90"></span>
+91. <span id="fn91"></span>
+92. <span id="fn92"></span>
+93. <span id="fn93"></span>
+94. <span id="fn94"></span>
+95. <span id="fn95"></span>[Forest Talker Flyer](./Forest%20Talker%20Flyer.md)[↩︎](#fnref95)
+96. <span id="fn96"></span>
+97. <span id="fn97"></span>[Notebook Page (Survival)](./Notebook%20Page%20%28Survival%29.md)[↩︎](#fnref97)
+98. <span id="fn98"></span>[Notebook Page (Survival 2)](./Notebook%20Page%20%28Survival%202%29.md)[↩︎](#fnref98)
+99. <span id="fn99"></span>[Memories/TranscriptWill](./Memories%20%E2%80%94%20Transcript.md) Mackenzie: "Great Bear Island. Dad used to fly there all the time. He said it used to be beautiful. Not much reason to go there these days... since the quakes and all."[↩︎](#fnref99)
+100. <span id="fn100"></span>
+101. <span id="fn101"></span>[The Grey Mother (Predux)/TranscriptGrey](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) Mother: "So...the outsider wants to know more about Milton." Mackenzie: "Yeah. I'm curious about what happened here." Grey Mother: "To understand Milton you have to understand the Collapse." Mackenzie: "I mean...I know about the quakes. We experienced them too, on the Mainland." Grey Mother: "Not like this you didn't."[↩︎](#fnref101)
+102. <span id="fn102"></span>
+103. <span id="fn103"></span>[Utilities Bill](./Utilities%20Bill.md)[↩︎](#fnref103)
+104. <span id="fn104"></span>[Public Notice](./Public%20Notice.md)[↩︎](#fnref104)
+105. <span id="fn105"></span>[Milton Credit Union Letter](./Milton%20Credit%20Union%20Letter.md)[↩︎](#fnref105)
+106. <span id="fn106"></span>[Climber's Journal Page](./Climber%27s%20Journal%20Page.md)[↩︎](#fnref106)
+107. <span id="fn107"></span>
+108. <span id="fn108"></span>
+109. <span id="fn109"></span>[Off Season Fun](./Off%20Season%20Fun.md)[↩︎](#fnref109)
+110. <span id="fn110"></span>[Prison Transport Manifest](./Prison%20Transport%20Manifest.md)[↩︎](#fnref110)
+111. <span id="fn111"></span>[The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "There was an Outsider woman. I heard her pass through. She wasn't alone. There were angry voices, and...but the storm was so loud."[↩︎](#fnref111)
+112. <span id="fn112"></span>[Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) Father Thomas: "This is the old community hall, in Thompson's Crossing. We gathered people here after the weather started turning bad three...or was it four days ago? The houses became too cold and it seemed better to bring everyone under one roof. Then yesterday, the crash survivors started showing up."[↩︎](#fnref112)
+113. <span id="fn113"></span>[The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Grey Mother: "The power went out. Who knows the reason. People started to get cold, hungry. They panicked. Started to talk crazy. Others walked here from the highway...some, belonged here. Others, were Outsiders like you."[↩︎](#fnref113)
+114. <span id="fn114"></span>[Blood Soaked Note](./Blood%20Soaked%20Note.md)[↩︎](#fnref114)
+115. <span id="fn115"></span>[Lost in the Storm](./Lost%20in%20the%20Storm.md)[↩︎](#fnref115)
+116. <span id="fn116"></span>[Aurora Observations](./Aurora%20Observations.md)[↩︎](#fnref116)
+117. <span id="fn117"></span>[Crumpled Note (2)](./Crumpled%20Note%20%282%29.md)[↩︎](#fnref117)
+118. <span id="fn118"></span>
+119. <span id="fn119"></span>
+120. <span id="fn120"></span>[Stained Paper](./Stained%20Paper.md)[↩︎](#fnref120)
+121. <span id="fn121"></span>[Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)[↩︎](#fnref121)
+122. <span id="fn122"></span>[Memo (Survival)](./Memo%20%28Survival%29.md)[↩︎](#fnref122)
+123. <span id="fn123"></span>[Paper](./Paper.md)[↩︎](#fnref123)
+124. <span id="fn124"></span>[Page (2)](./Page%20%282%29.md)[↩︎](#fnref124)
+125. <span id="fn125"></span>[Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)[↩︎](#fnref125)
+126. <span id="fn126"></span>[Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)[↩︎](#fnref126)
+127. <span id="fn127"></span>[Foreman's Site Report Day 38](./Foreman%27s%20Site%20Report%20Day%2038.md)[↩︎](#fnref127)
+128. <span id="fn128"></span>[Foreman's Site Report Day 45](./Foreman%27s%20Site%20Report%20Day%2045.md)[↩︎](#fnref128)
+129. <span id="fn129"></span>[Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)[↩︎](#fnref129)
+130. <span id="fn130"></span>[Note (Forsaken Airfield)](./Note%20%28Forsaken%20Airfield%29.md)[↩︎](#fnref130)
+131. <span id="fn131"></span>[Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)[↩︎](#fnref131)
+132. <span id="fn132"></span>
+133. <span id="fn133"></span>[Security Chief's Log 32](./Security%20Chief%27s%20Log%2032.md)[↩︎](#fnref133)
+134. <span id="fn134"></span>[Foreman's Site Report Day (illegible)](./Foreman%27s%20Site%20Report%20Day%20%28illegible%29.md)[↩︎](#fnref134)
+135. <span id="fn135"></span>
+136. <span id="fn136"></span>
+137. <span id="fn137"></span>[Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)[↩︎](#fnref137)
+138. <span id="fn138"></span>[Interview Transcript 17](./Interview%20Transcript%2017.md)[↩︎](#fnref138)
+139. <span id="fn139"></span>
+140. <span id="fn140"></span>[Security Chief's Log 33](./Security%20Chief%27s%20Log%2033.md)[↩︎](#fnref140)
+141. <span id="fn141"></span>
+142. <span id="fn142"></span>[Foreman's Technical Log 2](./Foreman%27s%20Technical%20Log%202.md) "I’m gonna try and keep a record of all this, as long as I’m able. Photos, whatever I can. These notes. If I make it back I’ll need something to show for how this all went to shit.  [Foreman's Technical Log 3](./Foreman%27s%20Technical%20Log%203.md)[↩︎](#fnref142)
+  - They\* will want to know."
+143. <span id="fn143"></span>[Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md) "I could see he'd already had a bad time of it out there. It must have been a cougar."[↩︎](#fnref143)
+144. <span id="fn144"></span>
+145. <span id="fn145"></span>[Characters](./Characters.md#Townsperson_One_and_Two)[↩︎](#fnref145)
+146. <span id="fn146"></span>[Newspaper Clipping](./Newspaper%20Clipping.md)[↩︎](#fnref146)

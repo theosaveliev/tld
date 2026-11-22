@@ -32,8 +32,10 @@
 
 **Bullets** are a crafting item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Bullets are a material for crafting ammunition at the [Ammunition Workbench](./Ammunition%20Work%20Bench.md) in [Bleak Inlet](./Bleak%20Inlet.md) and [Blackrock](./Blackrock.md). Six bullets are produced from one [Scrap Lead](./Scrap%20Lead.md) at the Ammunition Forge (found with the Ammunition Workbench), which must be lit and with 1 hour or more fuel inside of it. Scrap Lead is obtained by harvesting a [Car Battery](./Car%20Battery.md) (found beneath the hood of some cars and trucks) with a [Hacksaw](./Hacksaw.md); one Car Battery will always yield six Scrap Lead; each piece of Scrap Lead may be crafted into six [Bullets](./Bullet.md), so one Car Battery always allows the crafting of 36 Bullets.
@@ -42,8 +44,10 @@ Each bullet can be crafted into one [Revolver Ammunition](./Revolver%20Ammunitio
 
 Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition (with higher chance of receiving them, at higher Gunsmithing skill).
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 **Bullet**
@@ -58,8 +62,10 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 **Quantity:** 1
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -67,8 +73,10 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 | [Revolver Cartridge](./Revolver%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 | [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Crafting Bullets requires a lot of fuel and time: 1 hour per Scrap Lead (6 Bullets) produced.
@@ -81,23 +89,35 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 - Car Batteries are finite and non-renewable.
 - It is advised to craft a lot of bullets first if your gunsmithing skill is low, since crafting them also give experience points, so wasting ingredients can be avoided.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
 - Despite bullets for the Revolver and Hunting Rifle Ammunition being of different lengths, the Bullet object model used for both ammo types is the same size. Rifle rounds typically have longer bullet lengths than pistol rounds, but using a Bullet for hunting rifle ammunition does not affect its lethality. Evidence that different bullets existed can be seen in cut icons found in the game files.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Cut Pistol 44 Mag Bullet](../assets/Revolver_44_Mag_Bullet_icon.png)
 
 ![Cut Hunting Rifle Bullet](../assets/Rifle_Ammo_Single_Bullet_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **20 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**

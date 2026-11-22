@@ -30,8 +30,10 @@
 
 **Rheumatic Joints** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “__A painful inflammation has taken hold.  
@@ -42,8 +44,10 @@
 
 Rheumatic Joints is a permanent Affliction unique to [Misery](./Misery.md) which occurs from Stages 2-4 of Misery. It reduces the survivor's speed while [sprinting](./Stamina.md), the length of time available to aim the [Survival Bow](./Survival%20Bow.md), and increases the chance of getting a [Sprained Wrist](./Sprained%20Wrist.md) or [Sprained Ankle](./Sprained%20Ankle.md) when on uneven terrain<span id="fnref1"></span>[¹](#fn1). It also causes minor Condition damage when incurring a [Sprained Ankle](./Sprained%20Ankle.md) or [Sprained Wrist](./Sprained%20Wrist.md), making [Mountain Goating](./Mountain%20Goating.md) and slopes a danger to the player once [Broken Body](./Broken%20Body.md) sets in.
 
-<span id="effects"></span><span id="Effects"></span>
+<!-- #Effects -->
+​
 
+<!-- #effects -->
 ## Effects
 
 - -40% [Sprint](./Stamina.md) speed
@@ -51,12 +55,10 @@ Rheumatic Joints is a permanent Affliction unique to [Misery](./Misery.md) which
 - Chance to get Sprains increased from 15% (base chance) to 40%
 - 2% [Condition](./Condition.md) damage upon receiving a Sprained Wrist or Sprained Ankle (Do note that the damage is doubled, i.e. 4%, when you also have Broken Body.)
 
-<span id="references"></span><span id="References"></span>
+<!-- #footnotes -->
+​
 
-## References
-
-<span id="footnotes"></span>
-
+<!-- #notes -->
 ## Notes
 
 ---

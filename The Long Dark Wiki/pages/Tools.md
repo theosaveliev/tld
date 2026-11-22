@@ -22,12 +22,10 @@
 
 **Tools** are items with specialized purposes in [The Long Dark](./The%20Long%20Dark.md).
 
-<span id="tool_types"></span><span id="Tool_Types"></span><span id="tool-types"></span>
+<!-- #Cooking -->
+​
 
-## Tool Types
-
-<span id="cooking"></span><span id="Cooking"></span>
-
+<!-- #cooking -->
 ### Cooking
 
 | [Tools](../assets/Tools.png) | Item | Boiling Water Capacity | Weight | Comment |
@@ -38,8 +36,10 @@
 | [Insulated Flasks animation](../assets/Insulated_Flasks_animation.gif) | [Insulated Flask](./Insulated%20Flask.md) | N/A | 0.20 kg<br>_(0.44 lb)_ | - Can store and transport multiple drinks inside, keeping them warm<br>- Comes in 7 fun design patterns! |
 | [Can Opener icon](../assets/Can_Opener_icon.png) | [Can Opener](./Can%20Opener.md) | N/A | 0.25 kg<br>_(0.55 lb)_ | - Used to open food cans without losing food/damaging can<br>- Repaired with scrap metal |
 
-<span id="lighting"></span><span id="Lighting"></span>
+<!-- #Lighting -->
+​
 
+<!-- #lighting -->
 ### Lighting
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -53,9 +53,16 @@
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) | 0.3 kg<br>_(0.66 lb)_ | - Can keep [Wolf](./Wolf.md) at bay.<br>- Can be obtained with a lit fire. |
 | [Wood Matches icon](../assets/Wood_Matches_icon.png)[Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) | [Cardboard Matches](./Cardboard%20Matches.md)/[Wood Matches](./Wood%20Matches.md) | 0.005 kg<br>_(0.011 lb)_0.10 kg<br>_(0.22 lb)_ | - Very limited light source time. Only practical when used indoors |
 
+<!-- #fire_starting -->
+​
 
-<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
+<!-- #Fire_Starting -->
+​
 
+<!-- #Fire_starting -->
+​
+
+<!-- #fire-starting -->
 ### Fire Starting
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -72,8 +79,10 @@
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) | 0.30 kg<br>_(0.66 lb)_ | - Can be pulled from fires and used to start a fire elsewhere ([Daisy Chaining](./Daisy%20Chaining.md))<br>- Must use a match if unlit in order to start a fire |
 | [Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | 0.10 kg<br>_(0.22 lb)_ | - Less common than Cardboard Matches<br>- Increases chance of starting fires<br>- Can be used as a light source |
 
-<span id="fishing"></span><span id="Fishing"></span>
+<!-- #Fishing -->
+​
 
+<!-- #fishing -->
 ### Fishing
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -86,8 +95,16 @@
 | [Hook icon](../assets/Hook_icon.png) | [Hook](./Hook.md) | 0.01 kg<br>_(0.022 lb)_ | - Required to craft [Fishing Tackle](./Fishing%20Tackle.md)<br>- Crafted using 1 [Scrap Metal](./Scrap%20Metal.md) |
 | [Line icon](../assets/Line_icon.png) | [Line](./Line.md) | 0.01 kg<br>_(0.022 lb)_ | - Required to craft [Fishing Tackle](./Fishing%20Tackle.md)<br>- Crafted using 1 [Cured Gut](./Cured%20Gut.md) |
 
-<span id="hand_tools"></span><span id="Hand_Tools"></span><span id="hand-tools"></span>
+<!-- #hand_tools -->
+​
 
+<!-- #Hand_Tools -->
+​
+
+<!-- #Hand_tools -->
+​
+
+<!-- #hand-tools -->
 ### Hand Tools
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -102,8 +119,10 @@
 | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | 2.00 kg<br>_(4.4 lb)_ | - Used to craft tools in a [Forge](./Forge.md)<br>- Can be used to break down furniture |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | 1.00 kg<br>_(2.2 lb)_ | - Used to open locked doors and cars<br>- Cannot be repaired |
 
-<span id="hunting"></span><span id="Hunting"></span>
+<!-- #Hunting -->
+​
 
+<!-- #hunting -->
 ### Hunting
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -133,8 +152,10 @@
 | [Stone icon](../assets/Stone_icon.png) | [Stone](./Stone.md) | 0.15 kg<br>_(0.33 lb)_ | - Most common ranged weapon<br>- Used to stun [rabbits](./Rabbit.md) and [ptarmigans](./Ptarmigan.md)<br>- Can be used to build [rock caches](./Rock%20Cache.md) |
 | [Noisemaker icon](../assets/Noisemaker_icon.png) | [Noisemaker](./Noisemaker.md) | 0.20 kg _(0.44 lb)_ |  |
 
-<span id="repair"></span><span id="Repair"></span>
+<!-- #Repair -->
+​
 
+<!-- #repair -->
 ### Repair
 
 | [Tools](../assets/Tools.png) | Item | Survival skill | Weight | Comment |
@@ -146,8 +167,10 @@
 | [Simple Tools icon](../assets/Simple_Tools_icon.png) | [Simple Tools](./Simple%20Tools.md) | [Repair](./Repair.md) | 1.00 kg<br>_(2.2 lb)_ | - Allows players to repair a variety of damaged tools. |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png) | [Quality Tools](./Quality%20Tools.md) | [Repair](./Repair.md) | 0.75 kg<br>_(1.65 lb)_ | - Allows players to repair a variety of damaged tools at a better rate. |
 
-<span id="sleep"></span><span id="Sleep"></span>
+<!-- #Sleep -->
+​
 
+<!-- #sleep -->
 ### Sleep
 
 | [Tools](../assets/Tools.png) | Item | Weight | Warmth | Comment |
@@ -156,8 +179,16 @@
 | [Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) | [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | 1.10 kg _(2.42 lbs)_ | 8 °C<br>_(14.4 °F)_ | - Allows players to [sleep](./Sleep.md).<br>- Improved version of the Bedroll. |
 | [Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) | [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | 3.00 kg<br>_(6.6 lb)_ | 12 °C<br>_(21.6 °F)_ | - Allows players to [sleep](./Sleep.md).<br>- Can keep [Wolf](./Wolf.md) at bay.<br>- Warmest, but also Heaviest, Bedroll |
 
-<span id="transmitter_parts"></span><span id="Transmitter_Parts"></span><span id="transmitter-parts"></span>
+<!-- #transmitter_parts -->
+​
 
+<!-- #Transmitter_Parts -->
+​
+
+<!-- #Transmitter_parts -->
+​
+
+<!-- #transmitter-parts -->
 ### Transmitter Parts
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -182,8 +213,10 @@ Research Book
 | [Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png) | [Small Arms Handbook](./Small%20Arms%20Handbook.md) | 0.50 kg<br>_(1.1 lb)_ | - Can be Researched to raise the [Revolver Firearm](./Revolver%20Firearm.md) Skill |
 | [Practical Gunsmithing icon](../assets/Practical_Gunsmithing_icon.png) | [Practical Gunsmithing](./Practical%20Gunsmithing.md) | 0.50 kg<br>_(1.1 lb)_ | - Can be Researched to raise the [Gunsmithing](./Gunsmithing.md) Skill |
 
-<span id="camera"></span><span id="Camera"></span>
+<!-- #Camera -->
+​
 
+<!-- #camera -->
 ### Camera
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -193,8 +226,10 @@ Research Book
 | [FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png) | [FastFilm-500BW](./FastFilm-500BW.md) | 0.50 kg<br>_(1.1 lb)_ | - Used with the Camera. Uses Black &amp; White film |
 | [FastFilm 500SPA icon](../assets/FastFilm-500SPA_icon.png) | [FastFilm-500SPA](./FastFilm-500SPA.md) | 0.50 kg<br>_(1.1 lb)_ | - Used with the Camera. Uses Sepia film |
 
-<span id="other"></span><span id="Other"></span>
+<!-- #Other -->
+​
 
+<!-- #other -->
 ### Other
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -211,8 +246,19 @@ Research Book
 | [Travois Icon](../assets/Travois_Icon.png) | [Travois](./Travois.md) | 1.00 kg<br>_(2.2 lb)_ | - Can be used to transport items anywhere on the Island |
 | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) | [Woodworking Tools](./Woodworking%20Tools.md) | 1.50 kg<br>_(3.3 lb)_ | - Used to create advanced [Decorations](./Decorations.md) Furniture<br>- Only 4 exist in Survival Mode |
 
-<span id="sutherlands_tale"></span><span id="Sutherland&#x27;s_Tale"></span><span id="sutherland&#x27;s_tale"></span><span id="sutherlands-tale"></span>
+<!-- #sutherlands_tale -->
+​
 
+<!-- #Sutherland's_Tale -->
+​
+
+<!-- #sutherland's_tale -->
+​
+
+<!-- #Sutherland's_tale -->
+​
+
+<!-- #sutherlands-tale -->
 ### Sutherland's Tale
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -225,8 +271,16 @@ Research Book
 | [A Skeleton And Note icon](../assets/A_Skeleton_And_Note_icon.png) | [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md) | 0.00 kg<br>_(0 lb)_ | - Traded to the [Trader](./Trader.md) as part of his quest |
 | [Broken Hatch Wheel icon](../assets/Broken_Hatch_Wheel_icon.png) | [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md) | 0.00 kg<br>_(0 lb)_ | - Traded to the [Trader](./Trader.md) as part of his quest |
 
-<span id="wintermute_exclusive"></span><span id="Wintermute_Exclusive"></span><span id="wintermute-exclusive"></span>
+<!-- #wintermute_exclusive -->
+​
 
+<!-- #Wintermute_Exclusive -->
+​
+
+<!-- #Wintermute_exclusive -->
+​
+
+<!-- #wintermute-exclusive -->
 ### Wintermute Exclusive
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -244,8 +298,16 @@ Research Book
 | [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | 0.30 kg<br>_(0.66 lb)_ | - Found in Wintermute Episode 1 and can be carried to Episode 2<br>- Slightly less effective version of the Hunting Knife |
 | [Valve Socket Handle icon](../assets/Valve_Socket_Handle_icon.png) | [Valve Socket Handle](./Valve%20Socket%20Handle.md) | 0.00 kg<br>_(0 lb)_ | - Used to open mineshaft airflow valves in Episode 4 |
 
-<span id="cut_tools"></span><span id="Cut_Tools"></span><span id="cut-tools"></span>
+<!-- #cut_tools -->
+​
 
+<!-- #Cut_Tools -->
+​
+
+<!-- #Cut_tools -->
+​
+
+<!-- #cut-tools -->
 ### Cut Tools
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -253,3 +315,5 @@ Research Book
 | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | 0.50 kg<br>_(1.1 lb)_ | - Only found in Wintermute Predux Episode 2 after completing [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)<br>- Behaves as a reskinned Hunting Knife<br>- Currently inaccessible but still in the game files |
 | [Brand icon](../assets/Brand_icon.png) | [Brand](./Brand.md) | 0.30 kg<br>_(0.66 lb)_ | - Removed from the Alpha versions of _[The Long Dark](./The%20Long%20Dark.md)_ and replaced by the [Torch](./Torch.md)<br>- Can be Brandished to scare predator Wildlife |
 | [Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png) | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) | 4.00 kg<br>_(8.8 lb)_ | - Found in the Predux Episode 2 Mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
+
+[es:Herramientas](https://es.wikipedia.org/wiki/Herramientas) [fr:Outils](https://fr.wikipedia.org/wiki/Outils) [ru:Снаряжение](https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5) [de:Werkzeuge](https://de.wikipedia.org/wiki/Werkzeuge)

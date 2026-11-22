@@ -23,14 +23,27 @@
 
 A **Forge** is the rectangular space located in the middle of a [Furnace](./Furnace.md) and is used for crafting new items made from [Scrap Metal](./Scrap%20Metal.md). Forging is the only method to [Craft](./Crafting.md) new Arrowheads, Improvised Knives, and Improvised Hatchets.
 
-<span id="furnaces_forges"></span><span id="Furnaces_&amp;_Forges"></span><span id="furnaces_&amp;_forges"></span><span id="furnaces-forges"></span>
+<!-- #furnaces_forges -->
+​
 
+<!-- #Furnaces_&_Forges -->
+​
+
+<!-- #furnaces_&_forges -->
+​
+
+<!-- #Furnaces_&_forges -->
+​
+
+<!-- #furnaces-forges -->
 ## Furnaces &amp; Forges
 
 The Furnace can be accessed via the circular hatch and operates like a normal firebox. The forge is the horizontal slot above the furnace hatch, and selecting it will open a crafting interface. Furnaces are unique in that they are the only fire boxes capable of exceeding 80°C in temperature.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ### Locations
 
 There are 4 available for use in the game:
@@ -40,24 +53,48 @@ There are 4 available for use in the game:
 - [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md)
 - In the [Hangar Basement](./Hangar%20Basement.md) in the [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). (only available for players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion)
 
-<span id="working_temperature"></span><span id="Working_temperature"></span><span id="working-temperature"></span>
+<!-- #working_temperature -->
+​
 
+<!-- #Working_temperature -->
+​
+
+<!-- #Working_Temperature -->
+​
+
+<!-- #working-temperature -->
 ### Working temperature
 
 In order to access the forge, the player must create an active [Fire](./Fire.md) in the Furnace to a temperature of around 150° Celsius (302° Fahrenheit). This is only achievable through adding Coal to the fire as it is the only fuel that burns hotter than 80°C.
 
 When the Furnace is 150°C (or 270°F) or greater, forging can be conducted there via a similar interface to that of the [Work Bench](./Work%20Bench.md) by selecting the Forge. Note that it's impossible to reach 150°C without [Coal](./Coal.md). Low temperature materials (such as [Reclaimed Wood](./Reclaimed%20Wood.md) or [Cedar Firewood](./Cedar%20Firewood.md)) may be used at the beginning before the introduction of Coal. If too much wood is added to the fire, it will become full and no more fuel can be added for a time.
 
-<span id="burn_time"></span><span id="Burn_time"></span><span id="burn-time"></span>
+<!-- #burn_time -->
+​
 
+<!-- #Burn_time -->
+​
+
+<!-- #Burn_Time -->
+​
+
+<!-- #burn-time -->
 ### Burn time
 
 The furnace burn time is capped at 12 hours like all other fires. However, Coal can continue to be added even when it is capped for purpose of increasing the temperature only, up to the maximum 200°C.
 
 - Once the Furnace fire burns out, the Forge interface will not be usable until a new fire achieves working temperature again.
 
-<span id="craftable_items"></span><span id="Craftable_Items"></span><span id="craftable-items"></span>
+<!-- #craftable_items -->
+​
 
+<!-- #Craftable_Items -->
+​
+
+<!-- #Craftable_items -->
+​
+
+<!-- #craftable-items -->
 ## Craftable Items
 
 All crafting in the Forge requires a [Heavy Hammer](./Heavy%20Hammer.md) in your inventory. Additionally, all recipes require [Scrap Metal](./Scrap%20Metal.md). It is advisable to obtain all required materials for Forging the desired item before lighting the Furnace due to the amount of fuel needed to be consumed before forging is permitted.
@@ -72,8 +109,10 @@ The specific items that can be crafted, and their respective requirements, can b
 | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 1x [Cougar Claw icon](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x [Cured Leather icon](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 3 Hours 40 Min |
 | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 5x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 4 Hours |
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - Forging is somewhat time consuming, so it can be worthwhile to take along extra food. Water and food can be cooked atop the forge (though keep in mind that it can be burned/boiled away as you work).
@@ -83,8 +122,10 @@ The specific items that can be crafted, and their respective requirements, can b
 - Any fuel may be used to extend the duration of the furnace fire once it has reached its working temperature.
 - Ensure that the required crafting materials are obtained prior to starting the Furnace.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 [Missing image: Screen\_(-1,\_4,\_-18)\_8b85d96a-957e-4c52-a687-c18d46e560f7.png]
@@ -101,8 +142,16 @@ _The forging icon found in the [Survival Menu](./Survival%20Menu.md)_
 
 ![Old Spence Family Homestead Forge in Forlorn Muskeg](../assets/Old_Spence_Family_Homestead_Forge_in_Forlorn_Muskeg_%28Compressed%29.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **28 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.19_%28Steam%29)):**

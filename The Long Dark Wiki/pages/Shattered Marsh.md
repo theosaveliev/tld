@@ -20,7 +20,6 @@
 
 **Modded Content.**<br>This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
-
 “
 
 **An expanse of treacherous marshland that has been ravaged by wildfire. The mountains that line this location feature many transition areas to surrounding regions, as well harbor a secret to uncover.**<br>TLDEV Region Description
@@ -29,12 +28,10 @@
 
 **Shattered Marsh** is the 4th [Modded Region](./The%20Long%20Development.md) added to the game, as part of The Long Development's unofficial region mods.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Locations -->
+​
 
-## Overview
-
-<span id="locations"></span><span id="Locations"></span>
-
+<!-- #locations -->
 ## Locations
 
 - Collapsed Cave

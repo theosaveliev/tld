@@ -26,8 +26,10 @@ Has an interior
 
 The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Lone Lake Cabin is located along the eastern shore of [Mystery Lake](./Mystery%20Lake%20%28location%29.md).
@@ -36,8 +38,12 @@ Some supplies can be found inside the cabin, which also provides good protection
 
 A possible [bear](./Bear.md) and a cave may spawn north of the cabin. For players wishing to hunt the bear, the cabin can make a good place to cure the bear's guts and hide.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - In Episode 2 - Luminance Fugue, this cabin needs a key to be unlocked.
+
+[ru:Одинокий дом у озера](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC_%D1%83_%D0%BE%D0%B7%D0%B5%D1%80%D0%B0) [de:Einsame\_Hütte\_am\_See](https://de.wikipedia.org/wiki/Einsame_H%C3%BCtte_am_See)

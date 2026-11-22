@@ -32,8 +32,10 @@
 
 The code 1859 is a reference to the [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event) that occurred in the same year, a reference to Atwood's work and her research leading up to the [First Flare](./First%20Flare.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Shopping List**_
@@ -46,8 +48,16 @@ Oranges
 
 The code for our PO box is 1859 Make sure they sent the proper spare parts this time, otherwise don't bother bringing them up here. And remember our security protocols: cash only, no names, and don't mention where you work.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

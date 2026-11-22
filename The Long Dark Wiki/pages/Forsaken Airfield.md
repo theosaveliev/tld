@@ -50,13 +50,9 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 > “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**”
 >
 > — Official Marketing Description
-
-
 
 “
 
@@ -72,8 +68,10 @@ In-game description
 
 The Region connects to [Transfer Pass](./Transfer%20Pass.md) via the mountain road and to the [Zone of Contamination](./Zone%20of%20Contamination.md) and [Sundered Pass](./Sundered%20Pass.md) via a large cave system south-east of [Fallow Dugout](./Fallow%20Dugout.md) near the downed helicopter.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A massive flat basin situated within a mountainous valley, the Forsaken Airfield Region is home to the titular Airfield 31, or '[Field 31](./Field%2031.md)' as signs in the location read. The small, abandoned air travel terminal is littered with non-functioning airplanes and helicopters.
@@ -82,8 +80,10 @@ The region's geography consists of winding, long, crumbling roads from the mount
 
 Foggy weather and deafening, howling winds are common, often hindering navigation of the many wide open areas. In addition to normal foggy conditions, a special electrostatic variant of heavy fog called [Glimmer Fog](./Glimmer%20Fog.md) often appears during the day, powering the machinery and lights of many of the area's remote buildings and vehicles, as well giving the player character the unique [Insomnia](./Insomnia.md) [Affliction](./Afflictions.md).
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #Survivability -->
+​
 
+<!-- #survivability -->
 ## Survivability
 
 Forsaken Airfield is much more open than most of the other regions on Great Bear Island, which makes it quite easy to navigate and avoid predators when the weather's clear. When the visibility falls, however, these same characteristics make it very difficult to know one's location, which is compounded by the region's lack of roads. Additionally, the flat terrain makes it difficult for players to find a location that's protected from the often strong winds or sudden blizzards. Starting and sustaining [Campfires](./Campfire.md) can be a challenge in these situations, making [Hypothermia](./Hypothermia.md) and [Frostbite](./Frostbite.md) a serious concern. Carrying along enough [cloth](./Cloth.md) and [sticks](./Stick.md) to make an emergency [snow shelter](./Snow%20Shelter.md) can help prevent disaster; a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) can also help. Using a [Travois](./Travois.md) can help make hauling these supplies over the flat, open terrain much easier.
@@ -92,46 +92,90 @@ There are few shelters available in the center of the region aside from the airp
 
 The five main man-made shelters in the region are: the airport complex near the center, [Mindful Cabin](./Mindful%20Cabin.md) to the northwest, [Island Cottage](./Island%20Cottage.md) to the north, [Junker's Paddock](./Junker%27s%20Paddock.md) to the southwest, and [Justy's Hovel](./Justy%27s%20Hovel.md) to the southeast.
 
-<span id="description"></span><span id="Description"></span>
+<!-- #Description -->
+​
 
+<!-- #description -->
 ## Description
 
 In a broad sense, Forsaken Airfield can be divided into a few major areas, each with their own characteristics.
 
-<span id="approach_road"></span><span id="Approach_Road"></span><span id="approach-road"></span>
+<!-- #approach_road -->
+​
 
+<!-- #Approach_Road -->
+​
+
+<!-- #Approach_road -->
+​
+
+<!-- #approach-road -->
 ### Approach Road
 
 This is the road that connects Forsaken Airfield to [Transfer Pass](./Transfer%20Pass.md). It is a long, winding road, with little in the way of resources, though it does offer some shelter in a cave and occasional vehicles. Notable locations include [Whealy's Turn](./Whealy%27s%20Turn.md), the first place where Survivors will see the airfield itself, and the [Junker's Paddock](./Junker%27s%20Paddock.md) where the road opens up into the wide open field. No wildlife can be found along this road, aside from a few [rabbits](./Rabbit.md) near Junker's Paddock. Much of this long walk can be bypassed when leaving the region by taking a narrow footpath just south of Field 31.
 
-<span id="field_31"></span><span id="Field_31"></span><span id="field-31"></span>
+<!-- #field_31 -->
+​
 
+<!-- #Field_31 -->
+​
+
+<!-- #field-31 -->
 ### [Field 31](./Field%2031.md)
 
 Following the road from Junker's Paddock and staying right will eventually lead the Survivor towards Field 31, an abandoned airport terminal littered with many non-functional airplanes, helicopters, and vehicles. Most players who choose to live here will end up living in the airport's [hangar](./Main%20Hangar.md), as it offers all the essentials, along with the only [forge](./Forge.md) in the Far Territory. This area has limited hunting and natural resources, however, and is frequented by [wolves](./Wolf.md), so Survivors should be alert.
 
-<span id="central_plain"></span><span id="Central_Plain"></span><span id="central-plain"></span>
+<!-- #central_plain -->
+​
 
+<!-- #Central_Plain -->
+​
+
+<!-- #Central_plain -->
+​
+
+<!-- #central-plain -->
 ### Central Plain
 
 Most of the centre of the region is occupied by a relatively flat plain with few features, aside from a river flowing into [Shoulder Lake](./Shoulder%20Lake.md) and a road leading to [Mindful Cabin](./Mindful%20Cabin.md). Although the wide open nature of this plain makes it easy to navigate in good weather and has good [deer](./Deer.md) and [moose](./Moose.md) hunting, low visibility can make it extremely difficult to navigate and the Survivor can easily fall victim to a [wolf](./Wolf.md) here. There are also very few shelters in the area, aside from the helicopter at [Final Approach](./Final%20Approach.md). It is also difficult to find much firewood here, due to the area's severe lack of trees. There are also few natural resources to forage here, aside from [cat tails](./Cat%20Tail.md) on the pond near Final Approach, where it is also possible to Ice Fish.
 
-<span id="shoulder_lake_and_area"></span><span id="Shoulder_Lake_and_Area"></span><span id="shoulder-lake-and-area"></span>
+<!-- #shoulder_lake_and_area -->
+​
 
+<!-- #Shoulder_Lake_and_Area -->
+​
+
+<!-- #Shoulder_lake_and_area -->
+​
+
+<!-- #Shoulder_Lake_And_Area -->
+​
+
+<!-- #shoulder-lake-and-area -->
 ### [Shoulder Lake](./Shoulder%20Lake.md) and Area
 
 Located in the northeastern corner of the map beyond the airfield, Shoulder Lake is the largest freshwater body in the game, and features two [Ice Fishing](./Ice%20Fishing.md) huts. Several small islands are scattered throughout the lake, and a [Hunter's Blind](./Hunter%27s%20Blind.md) may be found on the lake's southern shore. Towards the lake's northern shore lies the largest island, [Drift Island](./Drift%20Island.md), home to [Island Cottage](./Island%20Cottage.md) and [Archie's Crawlspace](./Archie%27s%20Crawlspace.md). To the northeast of the island, the land goes uphill, and there is a valley and river that leads into the lake.
 
 Although this area is one of the most popular places to live in the Far Territory, owing to Island Cottage, abundant [rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), [deer](./Deer.md), fishing firewood, and forageable resources, survivors should be careful as there are many wolves on the lake, along with a [bear](./Bear.md) that wanders near the east end of Drift Island.
 
-<span id="region_edges"></span><span id="Region_Edges"></span><span id="region-edges"></span>
+<!-- #region_edges -->
+​
 
+<!-- #Region_Edges -->
+​
+
+<!-- #Region_edges -->
+​
+
+<!-- #region-edges -->
 ### Region Edges
 
 Near the edges of the large central plain, the region features more uneven terrain, more trees, richer natural resources, and much more shelter. In addition to the shallow caves in the cliffs, much of the region's man-made shelter can also be found here. The left fork of the road entering from Transfer Pass goes through the central plain before gradually gaining altitude and ending at [Mindful Cabin](./Mindful%20Cabin.md), located atop a cliff near the region's western edge. The eastern and southern edges are home to [Justy's Hovel](./Justy%27s%20Hovel.md) and [Bunker Omega](./Bunker%20Omega.md).
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 | Column 1 | Column 2 |
@@ -140,8 +184,10 @@ Near the edges of the large central plain, the region features more uneven terra
 
 1 [Hunter's Blind](./Hunter%27s%20Blinds.md) is found between [Shoulder Lake](./Shoulder%20Lake.md) and [Final Approach](./Final%20Approach.md), though it is unnamed.
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #Maps -->
+​
 
+<!-- #maps -->
 ## Maps
 
 ![A detailed map of Forsaken Airfield v2.35 (contains spoilers)](../assets/FA_map_default.png)
@@ -152,8 +198,10 @@ Near the edges of the large central plain, the region features more uneven terra
 
 ![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Airfield at the sunset](../assets/Screen_0c1f49f9-5aa3-45ea-a71f-8d8ac67fcc5e.png)

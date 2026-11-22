@@ -26,8 +26,10 @@
 
 The **Hacksaw** is a tool with several critical functions, including harvesting saplings and furniture made of a variety of materials. [Scrap Metal](./Scrap%20Metal.md) is required to repair it.
 
-<span id="uses"></span><span id="Uses"></span>
+<!-- #Uses -->
+​
 
+<!-- #uses -->
 ## Uses
 
 The hacksaw is the only tool able to break down [Metal Shelves](./Metal%20Shelf.md) and other metal items to obtain scrap metal. It is required to open [Cargo Containers](./Cargo%20Container.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md), and it can be used instead of a [Hatchet](./Hatchet.md) to cut small tree limbs (a hatchet must be used for the largest limbs) and saplings. It also can be used to harvest carcasses for meat, hides, or guts, although it may be more efficient to use bare hands or other tools. It cannot be used as a weapon in struggles.
@@ -44,14 +46,18 @@ Uses of Hacksaw:
 
 Unlike most other tools, Hacksaws cannot be selected as a tool for self-defense during a Wolf Struggle. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
-<span id="repair"></span><span id="Repair"></span>
+<!-- #Repair -->
+​
 
+<!-- #repair -->
 ## Repair
 
 Hacksaws are repairable with [Tools](./Simple%20Tools.md) using [Scrap Metal](./Scrap%20Metal.md). Also the [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined hacksaw to 100% condition for one [Scrap Metal](./Scrap%20Metal.md), during an active [Aurora](./Aurora.md). N.B. The hacksaw has a breaking threshold at 25% condition, usage below this number risks ruining it for good.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 As with other items, the hacksaw will randomly spawn in any of several different locations on different play-throughs.
@@ -136,3 +142,5 @@ Some observed spawn points include:
 - In [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 
 [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
+
+[ru:Ножовка](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B6%D0%BE%D0%B2%D0%BA%D0%B0) [es:Sierra de arco](https://es.wikipedia.org/wiki/Sierra_de_arco)

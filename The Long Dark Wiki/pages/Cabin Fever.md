@@ -48,8 +48,10 @@
 
 Starting a Survival Mode game with the Settled Mind [Feat](./Feats.md) selected will automatically prevent [Cabin Fever Risk](./Cabin%20Fever%20Risk.md), and Cabin Fever, from ever developing.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 > “**You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.**”
@@ -66,8 +68,16 @@ A grace period for Cabin Fever was introduced in [version 0.326](./The%20Long%20
 
 A reliable way to determine exterior locations is to attempt to create a [Campfire](./Campfire.md), if the error message "CANNOT START CAMPFIRE INDOORS" appears then the location is indoors.
 
-<span id="special_locations"></span><span id="Special_Locations"></span><span id="special-locations"></span>
+<!-- #special_locations -->
+​
 
+<!-- #Special_Locations -->
+​
+
+<!-- #Special_locations -->
+​
+
+<!-- #special-locations -->
 ### Special Locations
 
 There are also a few exterior buildings that give a warmth bonus and do not progress Cabin Fever despite appearing to be an indoor space:
@@ -85,8 +95,10 @@ The following areas do progress Cabin Fever.
 - The front porch of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
 - The maintenance hallway in the south tunnel in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
-<span id="treatment"></span><span id="Treatment"></span>
+<!-- #Treatment -->
+​
 
+<!-- #treatment -->
 ## Treatment
 
 Cabin Fever and Cabin Fever Risk can be dealt with in a number of ways, even on Interloper (see below for Interloper specific tips).
@@ -107,8 +119,16 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
-<span id="interlopermisery"></span><span id="Interloper/Misery"></span><span id="interloper/misery"></span>
+<!-- #Interloper/Misery -->
+​
 
+<!-- #interloper/misery -->
+​
+
+<!-- #Interloper/misery -->
+​
+
+<!-- #interlopermisery -->
 ## Interloper/Misery
 
 On [Interloper](./Interloper.md) or [Misery](./Misery.md) Experience, Cabin Fever Risk can develop immediately since there is no grace period.
@@ -117,8 +137,16 @@ Cars are useful for warding off Cabin Fever, but must be used during the warmest
 
 During late game Interloper, crafted fur clothing are required due to the colder world temperatures, making the rears of [Warm Caves](./Warm%20Cave.md) more effective without risking [Hypothermia](./Hypothermia.md). However if a blizzard occurs inside an outdoors cave, it is possible to freeze full even in high-quality fur clothing and dual bearskin coats, so sleeping/passing time for shorter times is safer, as well as stockpiling hot fuel (sticks, coal) to create a fire if necessary.
 
-<span id="cabin_fever_emergencies"></span><span id="Cabin_Fever_Emergencies"></span><span id="cabin-fever-emergencies"></span>
+<!-- #cabin_fever_emergencies -->
+​
 
+<!-- #Cabin_Fever_Emergencies -->
+​
+
+<!-- #Cabin_fever_emergencies -->
+​
+
+<!-- #cabin-fever-emergencies -->
 ## Cabin Fever Emergencies
 
 In exceptional cases it is possible to get trapped in an indoor area while afflicted with cabin fever, such as in a safe indoor space with a blizzard outside, or becoming trapped in the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) middle layer when an aurora ends.
@@ -129,29 +157,41 @@ The main problem of Cabin Fever when trapped indoors can lie purely in gameplay:
 
 [Harvesting](./Harvesting.md) however is also an effective way to make time pass quickly, and is still allowed. In order to not destroy the whole inventory, a player will start to break down any piece of equipment, and then cancel the process before it completes. This can be repeated indefinitely on one single item, ideally passing about 1 hour at a time.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Cabin Fever was first introduced in the [Tireless Menace](https://hinterlandforums.com/forums/topic/10546-the-long-dark-sandbox-updated-to-v321-tireless-menace/) update.
 - When suffering from Cabin Fever Risk, working on an item at a [Work Bench](./Work%20Bench.md)/[Ammunition Work Bench](./Ammunition%20Work%20Bench.md) or reading a [Research Book](./Research%20Book.md) WILL increase the Affliction Risk meter, despite the fact that the survivor is keeping their mind occupied at the time.
 - Cabin Fever is not a diagnosable disorder; however, it can be considered as a syndrome characterized by the overlapping of psychological symptoms that can have real impacts on a person’s behavior and well-being. It’s most often characterized by combinations of boredom, anxiety, irritability, and restlessness. To be restricted indoors and significantly restricted in your choices and activities has been found stressful even for those people used to cold weather.<span id="fnref3"></span>[³](#fn3)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29)):**
   - Added to game.
 - HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326)):**
   - Added a grace period for Voyageur and Stalker and removed the affliction entirely on Pilgrim.
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam%2C_Epic_Games%2C_Xbox%2C_PlayStation%29_%28TFTFT_PART_FIVE%3A_Last_Horizon_Update%29)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam,_Epic_Games,_Xbox,_PlayStation%29_%28TFTFT_PART_FIVE:_Last_Horizon_Update%29)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever.
 
 ## References
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

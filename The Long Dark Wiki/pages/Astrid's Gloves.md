@@ -32,7 +32,6 @@
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-
 “
 
 **Lightweight gloves. Not too warm, but very flexible.**<br>In-game description
@@ -41,8 +40,10 @@
 
 **Astrid's Gloves** are a [Clothing](./Clothing.md) item worn on the player's hands obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Astrid's gloves can be found on a table in the basement of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) during [Trauma](./Trauma.md), the first chapter of Crossroads Elegy. They can not be acquired in [Survival Mode](./Survival%20Mode.md), nor at any later stage in the [Story](./Wintermute.md).
@@ -53,8 +54,16 @@ The statistics of Astrid's gloves are identical to those of [Fleece Mittens](./F
 
 ![Model icon damaged](../assets/Astrid%27s_Gloves_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

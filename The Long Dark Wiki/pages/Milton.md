@@ -44,8 +44,10 @@ _For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Tow
 
 **The Town of Milton**is a major location in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _The Long Dark's_Story Mode. It is a small, largely abandoned town nestled in the mountains of [Great Bear Island](./Great%20Bear%20Island.md). The location name of the game map is "Town of Milton."
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 Milton was founded in 1911 to support the initially booming coal industry in the surrounding mountains. The town was originally built along a supply route from the coast to the interior of [Great Bear Island](./Great%20Bear%20Island.md), with the road replaced by a paved highway in 1960. The location of the town, halfway between Port Mary and the mountains in the interior of Great Bear, made it a convenient stopping-off point for fuel and supplies for workers in the mining, logging, and milling industries, as well as campers from Mainland [Canada](./The%20Collapse.md).<span id="fnref1"></span>[¹](#fn1)
@@ -54,14 +56,33 @@ The town's economy boomed in the 1980s, with the population reaching around 1000
 
 Following [The Collapse](./The%20Collapse.md), even fewer travelers or industrial workers visited Great Bear, and eventually the population fell to only a dozen or so - stalwarts and old-timers, with deep roots in Milton. Soon, Milton became a ghost town.<span id="fnref3"></span>[³](#fn3)
 
-<span id="notable_locations"></span><span id="Notable_Locations"></span><span id="notable-locations"></span>
+<!-- #notable_locations -->
+​
 
+<!-- #Notable_Locations -->
+​
+
+<!-- #Notable_locations -->
+​
+
+<!-- #notable-locations -->
 ## Notable Locations
 
 In addition to several houses within the town, the Mountain Town region contains multiple named locations.
 
-<span id="town_of_milton"></span><span id="Town_of_Milton"></span><span id="town-of-milton"></span>
+<!-- #town_of_milton -->
+​
 
+<!-- #Town_of_Milton -->
+​
+
+<!-- #Town_of_milton -->
+​
+
+<!-- #Town_Of_Milton -->
+​
+
+<!-- #town-of-milton -->
 #### Town of Milton
 
 - [Bank Manager's House](./Bank%20Manager%27s%20House.md)
@@ -73,8 +94,16 @@ In addition to several houses within the town, the Mountain Town region contains
 - [Old Schoolhouse](./Old%20Schoolhouse.md)
 - [The Arch (Mountain Town location)](./The%20Arch%20%28Mountain%20Town%20location%29.md)
 
-<span id="milton_outskirts"></span><span id="Milton_Outskirts"></span><span id="milton-outskirts"></span>
+<!-- #milton_outskirts -->
+​
 
+<!-- #Milton_Outskirts -->
+​
+
+<!-- #Milton_outskirts -->
+​
+
+<!-- #milton-outskirts -->
 #### Milton Outskirts
 
 - [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)
@@ -88,8 +117,19 @@ In addition to several houses within the town, the Mountain Town region contains
 - [Trailer (Mountain Town Region)](./Trailer%20%28Mountain%20Town%20Region%29.md)
 - 3 x [Wood Lot](./Wood%20Lot.md)
 
-<span id="current_and_former_residents"></span><span id="Current_and_Former_Residents"></span><span id="current-and-former-residents"></span>
+<!-- #current_and_former_residents -->
+​
 
+<!-- #Current_and_Former_Residents -->
+​
+
+<!-- #Current_and_former_residents -->
+​
+
+<!-- #Current_And_Former_Residents -->
+​
+
+<!-- #current-and-former-residents -->
 ## Current and Former Residents
 
 - [Grey Mother](./Grey%20Mother.md)
@@ -106,8 +146,10 @@ In addition to several houses within the town, the Mountain Town region contains
 - N.<span id="fnref13"></span>[¹³](#fn13)
 - Henry McDermott<span id="fnref14"></span>[¹⁴](#fn14)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Aerial view of Milton (Redux)](../assets/TLD-SS-Milton_%282%29.jpg)
@@ -122,12 +164,10 @@ In addition to several houses within the town, the Mountain Town region contains
 
 ![The welcoming sign near the bridge entrance to town](../assets/Milton_sign.jpg)
 
-<span id="references"></span><span id="References"></span>
+<!-- #footnotes -->
+​
 
-## References
-
-<span id="footnotes"></span>
-
+<!-- #notes -->
 ## Notes
 
 ---

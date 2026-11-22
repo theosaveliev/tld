@@ -28,16 +28,26 @@
 
 **Faded Photograph** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found inside [Security Chief's Log (illegible)](./Security%20Chief%27s%20Log%20%28illegible%29.md) and provides a hint of where to bury the [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md). It points to [Enduring Waterfall](./Enduring%20Waterfall.md). Despite being a [Polaroid](./Polaroids.md), does not offer a Vista point at the falls, and is merely a story item.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from the note **Faded photograph**_
 
 The locals call this the Enduring Waterfall. Wanted to capture the view from my usual spot.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

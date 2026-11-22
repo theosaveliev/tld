@@ -32,8 +32,10 @@
 
 in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Water Stained Paper**_
@@ -48,8 +50,16 @@ I have to wash it away. -THEY- knew it too, and they left. They all left.
 
 I can go deeper.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

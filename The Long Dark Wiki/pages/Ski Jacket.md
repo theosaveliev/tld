@@ -36,16 +36,20 @@
 
 The **Ski Jacket** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Ski Jacket is a low-tier jacket and a common starting item.
 
 It is a direct upgrade to the [Simple Parka](./Simple%20Parka.md). It weighs 0.25 kg less and has a 2% lower mobility penalty.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Ski_Jacket_Model_icon.png)
@@ -54,8 +58,16 @@ It is a direct upgrade to the [Simple Parka](./Simple%20Parka.md). It weighs 0.2
 
 ![Old model.](../assets/Down_ski_jacket_%28historical%29.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

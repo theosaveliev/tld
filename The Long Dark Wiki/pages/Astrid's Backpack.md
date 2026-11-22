@@ -8,8 +8,6 @@
 
 This content only appears in [Wintermute](./Wintermute.md).
 
-
-
 **Astrid's Backpack**
 
 [Astrid's Backpack icon](../assets/Astrid%27s_Backpack_icon.png)

@@ -47,7 +47,7 @@
 
 **Equipment:** [Hunting Rifle](./Hunting%20Rifle.md)
 
-**Voiced by:** [Gwynyth Walsh](wikipedia:Gwynyth_Walsh)
+**Voiced by:** [Gwynyth Walsh](https://en.wikipedia.org/wiki/Gwynyth_Walsh)
 
 > “**An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.**”
 >
@@ -59,32 +59,54 @@
 
 **Grey Mother** is a major character that appears in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). She is the first NPC that [Will Mackenzie](./Will%20Mackenzie.md) encounters after his plane crashes, and the only remaining resident in the town of [Milton](./Milton.md).
 
-<span id="history"></span><span id="History"></span>
+<!-- #History -->
+​
 
+<!-- #history -->
 ## History
 
 Years before the events of _The Long Dark_, Grey Mother was married to a farmer named [Martin Barker](./Martin%20Barker.md). Together they had a daughter named [Lilith](./Lilith%20Barker.md). Tragedy struck when Lilith died in a climbing accident, and Grey Mother blamed her death on Martin, driving a wedge between them and causing them to live in separate homes. Things only got worse when the quakes devastated the island, and Grey Mother eventually became a recluse, abandoning the name of Barker and developing a reputation as a senile old blind lady.
 
 When the [First Flare](./First%20Flare.md) struck, she remained in her Milton home after the surviving residents were killed by [Convicts](./Convicts.md).
 
-<span id="episode_1_do_not_go_gentle"></span><span id="Episode_1:_Do_Not_Go_Gentle"></span><span id="episode_1:_do_not_go_gentle"></span><span id="episode-1-do-not-go-gentle"></span>
+<!-- #the_crash -->
+​
 
-## Episode 1: Do Not Go Gentle
+<!-- #The_Crash -->
+​
 
-<span id="the_crash"></span><span id="The_Crash"></span><span id="the-crash"></span>
+<!-- #The_crash -->
+​
 
+<!-- #the-crash -->
 ### [The Crash](./The%20Crash.md)
 
 Grey Mother is first seen sleeping in a chair in front of her fireplace with a rifle. When Will Mackenzie tries to wake her up, she fires a warning shot. After a brief but tense standoff, the two have a conversation. Grey Mother makes it clear that she does not trust Will due to him being a "mainlander", but he begins to gain her trust after he gathers enough food and firewood for her to last the winter.
 
-<span id="the_grey_mother"></span><span id="The_Grey_Mother"></span><span id="the-grey-mother"></span>
+<!-- #the_grey_mother -->
+​
 
+<!-- #The_Grey_Mother -->
+​
+
+<!-- #The_grey_mother -->
+​
+
+<!-- #the-grey-mother -->
 ### [The Grey Mother](./The%20Grey%20Mother.md)
 
 The two of them make a deal after Mackenzie gets enough food and fuel for the old woman: Grey Mother will tell him all she knows about the whereabouts of [Dr. Astrid Greenwood](./Astrid%20Greenwood.md) in exchange for a few favors. One of these favors includes scouting the main tunnel through the mountains outside Milton, the only way out of town besides climbing. When Will informs Grey Mother that the tunnel has collapsed, she is distraught, knowing that she is effectively trapped in Milton with no hope of rescue. As a result, she asks Will for one more favor: retrieve Lilith Barker's necklace from a safety deposit box at the bank and place it on her grave outside of town. After Will does this, Grey Mother tells him all she knows about Astrid. She also reveals that Lilith was her daughter and that she was once married to Martin Barker, the deceased farmer whose safety deposit box contained Lilith's necklace. She gives Will some old climbing gear that once belonged to Lilith, in order for him to make his way out of Milton.
 
-<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
+<!-- #paradise_lost -->
+​
 
+<!-- #Paradise_Lost -->
+​
+
+<!-- #Paradise_lost -->
+​
+
+<!-- #paradise-lost -->
 ### [Paradise Lost](./Paradise%20Lost.md)
 
 > “**My journey is finished. But yours is only beginning. Go, and don't think of Grey Mother, or Milton. We're of the old world now. The new world is for the strong to survive.**”
@@ -93,27 +115,53 @@ Before Mackeznie leaves Milton, he has a chance to right a wrong from the past i
 
 After Will leaves Milton, she is not seen again.
 
-<span id="episode_3_crossroads_elegy"></span><span id="Episode_3:_Crossroads_Elegy"></span><span id="episode_3:_crossroads_elegy"></span><span id="episode-3-crossroads-elegy"></span>
+<!-- #episode_3_crossroads_elegy -->
+​
 
+<!-- #Episode_3:_Crossroads_Elegy -->
+​
+
+<!-- #episode_3:_crossroads_elegy -->
+​
+
+<!-- #Episode_3:_crossroads_elegy -->
+​
+
+<!-- #episode-3-crossroads-elegy -->
 ## Episode 3: Crossroads Elegy
 
 Grey Mother does not appear in this episode, but appears during the intro story recap talking about [Perseverance Mills](./Perseverance%20Mills.md).
 
-<span id="episode_5_the_light_at_the_end_of_all_things"></span><span id="Episode_5:_The_Light_At_The_End_Of_All_Things"></span><span id="episode_5:_the_light_at_the_end_of_all_things"></span><span id="episode-5-the-light-at-the-end-of-all-things"></span>
+<!-- #episode_5_the_light_at_the_end_of_all_things -->
+​
 
+<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
+​
+
+<!-- #episode_5:_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
+​
+
+<!-- #episode-5-the-light-at-the-end-of-all-things -->
 ## Episode 5: The Light At The End Of All Things
 
 Grey Mother seemingly passed away in her home in the time since MacKenzie left Milton. At the end of the episode, MacKenzie is seen carrying her corpse, wrapped in a blanket, from her house to the [Graveyard](./Graveyard.md), where she is cremated on a pyre. He erects a wooden cross with the name "Grey Mother" written on it next to [Lily's](./Lilith%20Barker.md) grave.
 
-<span id="achievements"></span><span id="Achievements"></span>
+<!-- #Achievements -->
+​
 
+<!-- #achievements -->
 ## Achievements
 
 - ![The Long Winter icon](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
 - ![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Steam Trading Card](../assets/Grey_Mother_Steam_Card_Preview.png)
@@ -132,8 +180,16 @@ _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%2
 
 ![Grey Mother's Cut Trust menu](../assets/GreyMotherTrustOutdated.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.46)):**

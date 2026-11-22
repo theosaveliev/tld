@@ -22,8 +22,10 @@ Has a bed
 
 Has an interior **Idle Camp** is one of the two major human settlements in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 2 lodging barracks hold numerous [Beds](./Bed.md), [Lockers](./Locker.md), and bathrooms containing [Toilets](./Toilet.md). Rare, region exclusive clothing such as a [Hardhat](./Hardhat.md), [Miner's Jacket](./Miner%27s%20Jacket.md), [Miner's Pants](./Miner%27s%20Pants.md), and [Chemical Boots](./Chemical%20Boots.md) have a chance to spawn in the 3 buildings and the nearby [Train Shuttle](./Train%20Shuttle.md) near the road.

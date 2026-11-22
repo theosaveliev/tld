@@ -16,8 +16,10 @@
 
 Each bunker contains a large amount of supplies, which varies slightly but generally contains food, [flares](./Flare.md), [revolver ammunition](./Revolver%20Ammunition.md), [rifle ammunition](./Rifle%20Ammunition.md), [flare shells](./Flare%20Shell.md), and [kerosene](./Kerosene.md). The bunkers are useful particularly when completing the [Coming Storm](./Coming%20Storm.md) mission.
 
-<span id="tasks"></span><span id="Tasks"></span>
+<!-- #Tasks -->
+​
 
+<!-- #tasks -->
 ## Tasks
 
 - Locate the first bunker
@@ -26,8 +28,10 @@ Each bunker contains a large amount of supplies, which varies slightly but gener
 - Find the next journal entry
 - Locate the third bunker
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 - [Forest Talker Bunker Memo](./Forest%20Talker%20Bunker%20Memo.md) is located in the [Rural Store](./Rural%20Store.md) of [Thomson's Crossing](./Thomson%27s%20Crossing.md) on Green and Capable Survivor difficulty. On Hardened Survivor, the note is found in a backpack next to a corpse at the [Derelict Cabins](./Derelict%20Cabins.md).
@@ -35,8 +39,10 @@ Each bunker contains a large amount of supplies, which varies slightly but gener
 - [Joplin's Journal, Part Two](./Joplin%27s%20Journal%2C%20Part%20Two.md) is located in the bunker near [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md)
 - The third bunker is located near [Upper Falls](./Upper%20Falls.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![1901570789 preview Map PleasantValley EP3 spoil Fixv162 05](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)

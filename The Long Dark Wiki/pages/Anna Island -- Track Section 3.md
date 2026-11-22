@@ -18,8 +18,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Anna Island -- Track Section 3**
 
 [Anna Island Track Section 3](../assets/Anna_Island_--_Track_Section_3.jpg)
@@ -42,16 +40,20 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 3** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Another coastal Track Section that runs around Anna Island, this region has only a handful of notable locations.
 
 Certain parts of the ocean support [Ice Fishing](./Ice%20Fishing.md) via Free Form Ice Fishing Holes.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are 5 named locations within Track Section 3, including:
@@ -68,27 +70,24 @@ There is also 1 indoor location that is tracked in the [Journal](./Journal.md).
 
 There is one [Whale Oil Tank](./Oil%20Tank.md) and one [Water Tower](./Water%20Tower.md) at the Railyard.
 
+<!-- #wildlife_management -->
+​
 
-<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+<!-- #Wildlife_management -->
+​
 
+<!-- #Wildlife_Management -->
+​
+
+<!-- #wildlife-management -->
 ## Wildlife management
 
 A [Bear](./Bear.md) patrols the cave leading up to the Cove cabin.
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #locations_1 -->
+​
 
-## Survivability
-
-<span id="gallery"></span><span id="Gallery"></span>
-
-## Gallery
-
-<span id="maps"></span><span id="Maps"></span>
-
-### Maps
-
-<span id="locations_1"></span><span id="locations-1"></span>
-
+<!-- #locations-1 -->
 ### Locations
 
 ![Transition to Track Section 4](../assets/Transition_to_Track_Section_4_%28from_3%29.png)
@@ -106,3 +105,5 @@ _**Railyard**_
 ![Cove Cabin](../assets/Cove_Cabin.png)
 
 ![Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg)
+
+[ru:Остров Анны — Участок пути 3](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D1%8B_%E2%80%94_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D1%82%D0%B8_3)

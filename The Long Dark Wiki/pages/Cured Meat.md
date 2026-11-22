@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Cured Meat**
 
 [Cured Meat icon](../assets/Cured_Meat_icon.png)
@@ -36,8 +34,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cured Meat** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## [Overview](./Meat%20Curing%20Box.md)
 
 Cured Meat can be produced by placing any type of raw meat with condition higher than 40% inside a [Meat Curing Box](./Meat%20Curing%20Box.md) filled with [Salt](./Salt.md) for 5 in-game days. Placing fish inside a Meat Curing Box will instead produce [Cured Fish](./Cured%20Fish.md).
@@ -48,8 +48,10 @@ On its own, Cured Meat is an amazing food source, having high calories of 900 wh
 
 The calories of raw meat put in the curing box don't affect the calories of the cured meat; the output is always the same Cured Meat, using 4/1 or 5/1 weight ratio (eg: 1kg raw meat =&gt; 0.25 kg Cured Meat with 900 kcal or 0.20 kg for fish). The best strategy is to cure raw meat with less than 900 kcal/kg (rabbit, ptarmigan, wolf) because it will increase the calories when it transforms into Cured Meat (TLD version 2.35).
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -57,6 +59,16 @@ The calories of raw meat put in the curing box don't affect the calories of the 
 | [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
 | [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
+
+[ru:Засоленное мясо](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D1%8F%D1%81%D0%BE)

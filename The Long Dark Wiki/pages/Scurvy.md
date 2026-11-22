@@ -48,8 +48,10 @@
 
 **Scurvy** is an [Affliction](./Afflictions.md) in _The Long Dark_. It is caused by consuming a diet with low/no Vitamin-C, and is lethal if untreated.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Scurvy is a long-term affliction caused by Vitamin-C deficiency: failing to consume as much Vitamin-C as is drained daily. Each day the survivor's Vitamin-C level decreases by a small amount from a hidden Vitamin-C meter; this loss can be mitigated or recovered by consuming foods with Vitamin-C.
@@ -60,8 +62,16 @@ Scurvy is a long-term affliction caused by Vitamin-C deficiency: failing to cons
 
 Most Vitamin-C food sources are finite (artificial foods and cattails), which can make Scurvy an increasing challenge in the late-game. However fish, and to a lesser extent [Birch Bark Tea](./Birch%20Bark%20Tea.md), are renewable sources.
 
-<span id="enable_option"></span><span id="Enable_Option"></span><span id="enable-option"></span>
+<!-- #enable_option -->
+​
 
+<!-- #Enable_Option -->
+​
+
+<!-- #Enable_option -->
+​
+
+<!-- #enable-option -->
 ## Enable Option
 
 ![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)
@@ -77,8 +87,19 @@ Scurvy is present on [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interl
 
 This option to disable Scurvy is not available when playing on Misery.
 
-<span id="risk_and_prevention"></span><span id="Risk_and_Prevention"></span><span id="risk-and-prevention"></span>
+<!-- #risk_and_prevention -->
+​
 
+<!-- #Risk_and_Prevention -->
+​
+
+<!-- #Risk_and_prevention -->
+​
+
+<!-- #Risk_And_Prevention -->
+​
+
+<!-- #risk-and-prevention -->
 ## Risk and Prevention
 
 Scurvy can be prevented by regularly consuming enough Vitamin-C foods to prevent Scurvy Risk from reaching 100%. Scurvy Risk will appear when the survivor's hidden Vitamin-C stat drops below 20% remaining, giving the survivor a warning several days before the true affliction occurs.
@@ -95,8 +116,10 @@ Because Vitamin-C drains at a consistent rate, it is possible to estimate the su
 - Voyageur: 50 days from game start/treatment (10 days after Scurvy Risk)
 - Stalker/Interloper/Misery: 25 days from game start/treatment (5 days after Scurvy Risk)
 
-<span id="affliction"></span><span id="Affliction"></span>
+<!-- #Affliction -->
+​
 
+<!-- #affliction -->
 ## Affliction
 
 > “**You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die.**”
@@ -115,8 +138,10 @@ Effects of Scurvy:
 
 *Note: While afflicted with Scurvy, Condition can still be recovered from [Sleep](./Sleep.md) (if all four [Needs](./Needs.md) are met), but Condition recovery will be reduced as the -0.5% Condition loss will occur each hour even while asleep. The Condition restoring effects of [Birch Bark Tea](./Birch%20Bark%20Tea.md), [Emergency Stims](./Emergency%20Stim.md) and some [Cooked Foods](./Cooking.md) retain their full effect.
 
-<span id="treatment"></span><span id="Treatment"></span>
+<!-- #Treatment -->
+​
 
+<!-- #treatment -->
 ## Treatment
 
 Scurvy and Scurvy Risk is cured by consuming food containing Vitamin-C until the "Treatment" bar is full (500 units of Vitamin-C); while Scurvy is manifest the Treatment Meter (Vitamin-C) will not deplete.
@@ -129,8 +154,19 @@ If the player has the Tales from the Far Territory addon installed, reaching max
 
 Curing Scurvy will resume the daily Vitamin-C drain, with the survivor starting at 500 units of Vitamin-C.
 
-<span id="cooked_meals_vs_ingredients"></span><span id="Cooked_Meals_vs_Ingredients"></span><span id="cooked-meals-vs-ingredients"></span>
+<!-- #cooked_meals_vs_ingredients -->
+​
 
+<!-- #Cooked_Meals_vs_Ingredients -->
+​
+
+<!-- #Cooked_meals_vs_ingredients -->
+​
+
+<!-- #Cooked_Meals_Vs_Ingredients -->
+​
+
+<!-- #cooked-meals-vs-ingredients -->
 ## Cooked Meals vs Ingredients
 
 Cooking usually destroys some of the Vitamin-C (in real life, this process is called denaturing). Apart from two of the fish-based meals, all other items contain about the same or less Vitamin-C when compared to their ingredients consumed separately. When aiming for maximizing Vitamin-C intake, it is often better to consume the ingredients separately.
@@ -148,8 +184,22 @@ Examples (in order of added/lost Vitamin-C)
 - Prepper's Pie: -4 [22 in final dish vs 26 (10 in 4 reishi mushrooms (in the form of 2 reishi teas), 16 in 2 prepared burdock roots)]
 - Thomson Family Stew: -61 [80 in final dish vs 141 (52 in canned corn, 36 in 4 carrots, 48 in 2 cooked potatoes, 5 in 2 reishi mushrooms (as 1 reishi tea))]
 
-<span id="vitamin_c_foods"></span><span id="Vitamin-C_Foods"></span><span id="vitamin-c_foods"></span><span id="vitamin-c-foods"></span>
+<!-- #vitamin_c_foods -->
+​
 
+<!-- #Vitamin-C_Foods -->
+​
+
+<!-- #vitamin-c_foods -->
+​
+
+<!-- #Vitamin-c_foods -->
+​
+
+<!-- #Vitamin-c_Foods -->
+​
+
+<!-- #vitamin-c-foods -->
 ## Vitamin-C Foods
 
 Note that fish are the only food where the higher their weight, the higher their Vitamin-C levels becomes (average fish weight increases when caught with higher [Ice Fishing](./Ice%20Fishing.md) Levels). All other Vitamin-C levels in foods are static.
@@ -203,8 +253,10 @@ Note that fish are the only food where the higher their weight, the higher their
 | [Pork and Beans icon](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md) | Minor | 2 | 8 | 3.33 |
 | [Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png) [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | Minor | 1 | 20 | 6.67 |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Scurvy was originally not retroactively enabled on save files created before Part Four: Buried Echoes (December 5th 2023), regardless of difficulty, "to avoid the risk that players have already harvested most of the Vitamin-C rich foods in their game world." The ability to enable it on older saves was eventually added in the Part Five update however.
@@ -212,8 +264,16 @@ Note that fish are the only food where the higher their weight, the higher their
 - The icon for Scurvy depicts a human tooth and blood droplet, both symptoms of real-world scurvy which causes tooth loosening and loss, as well as bruising (bleeding under the skin) and poor healing. Despite this, in-game Scurvy does not cause permanent damage to the survivor like [Frostbite](./Frostbite.md), or cause/increase the likelihood of [Blood Loss](./Blood%20Loss.md).
 - Real-world people who inhabit arctic regions, such as the indigenous peoples of Alaska, Canada and northern Russia, primarily receive their Vitamin-C from eating fish, as depicted in-game.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29)):**

@@ -43,8 +43,10 @@
 
 **Wilderness Kitchen** is a [Research Book](./Research%20Book.md) used to improve the [Cooking](./Cooking.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
-<span id="research"></span><span id="Research"></span>
+<!-- #Research -->
+​
 
+<!-- #research -->
 ## Research
 
 _Wilderness Kitchen_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Cooking skill points](./Cooking.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
@@ -57,8 +59,16 @@ Research can only be performed under the following conditions:
 
 If the player's fatigue, thirst or hunger meters go down to zero or if the environment becomes dark during a research session, the session will be terminated instantly. The hour of research that was in progress will not be completed and any time that had already been spent will be wasted. For a multiple-hour research session, only the incomplete hour will be lost, all the previous hours will still count towards completion of the book.
 
-<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
+<!-- #fire_starting -->
+​
 
+<!-- #Fire_Starting -->
+​
+
+<!-- #Fire_starting -->
+​
+
+<!-- #fire-starting -->
 ## Fire Starting
 
 **Wilderness Kitchen**
@@ -75,66 +85,122 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
-<span id="location"></span><span id="Location"></span>
+<!-- #coastal_highway -->
+​
 
-## Location
+<!-- #Coastal_Highway -->
+​
 
-<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
+<!-- #Coastal_highway -->
+​
 
+<!-- #coastal-highway -->
 #### Coastal Highway
 
 - [Abandoned Lookout](./Abandoned%20Lookout.md)
 
-<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+<!-- #forlorn_muskeg -->
+​
 
+<!-- #Forlorn_Muskeg -->
+​
+
+<!-- #Forlorn_muskeg -->
+​
+
+<!-- #forlorn-muskeg -->
 #### Forlorn Muskeg
 
 - Inside the backpack at the elevated area of the [Forge](./Forge.md) building at [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md)
 - [Poacher's Camp](./Poacher%27s%20Camp.md)
 
-<span id="forsaken_airfield"></span><span id="Forsaken_Airfield"></span><span id="forsaken-airfield"></span>
+<!-- #forsaken_airfield -->
+​
 
+<!-- #Forsaken_Airfield -->
+​
+
+<!-- #Forsaken_airfield -->
+​
+
+<!-- #forsaken-airfield -->
 #### Forsaken Airfield
 
 - Inside [Bunker Omega](./Bunker%20Omega.md)
 
-<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+<!-- #mountain_town -->
+​
 
+<!-- #Mountain_Town -->
+​
+
+<!-- #Mountain_town -->
+​
+
+<!-- #mountain-town -->
 #### Mountain Town
 
 - [Grey Mother's House](./Milton%20House.md)
 
-<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+<!-- #mystery_lake -->
+​
 
+<!-- #Mystery_Lake -->
+​
+
+<!-- #Mystery_lake -->
+​
+
+<!-- #mystery-lake -->
 #### Mystery Lake
 
 - [Trapper's Homestead](./Trapper%27s%20Homestead.md)
 
-<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+<!-- #pleasant_valley -->
+​
 
+<!-- #Pleasant_Valley -->
+​
+
+<!-- #Pleasant_valley -->
+​
+
+<!-- #pleasant-valley -->
 #### Pleasant Valley
 
 - Inside the car between the garden beds area and one of the small houses in [Thomson's Crossing](./Thomson%27s%20Crossing.md)
 
 _Wilderness Kitchen_ can also spawn inside the Kitchen variant of the [Prepper Cache](./Prepper%20Cache.md).
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Attempting to burn a copy of _Wilderness Kitchen_ when it has not been fully read will give a confirmation warning before it can be burned.
 - Once a copy of _Wilderness Kitchen_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![3D Model](../assets/Wilderness_kitchen.png)
 
 ![Old model](../assets/Wilderness_Kitchen_Old.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**

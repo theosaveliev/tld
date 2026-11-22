@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Porridge**
 
 [Porridge icon](../assets/Porridge_icon.png)
@@ -46,12 +44,13 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 For Interloper players, Porridge can be one of the most useful foods, as it has a decently high caloric value and provides the [Warming Up](./Warming%20Up.md) bonus. Furthermore, [Running River Oats](./Running%20River%20Oats.md) are relatively easy to obtain from kitchens.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Porridge**
-
 
 20.0 minutes
 
@@ -67,9 +66,19 @@ For Interloper players, Porridge can be one of the most useful foods, as it has 
 
 **Quantity:** 0.25 L
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
+
+[ru:Овсяная каша](https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D1%81%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0)

@@ -27,12 +27,10 @@ Food and drink items primarily designed to refill the [Hunger](./Hunger.md) (Cal
 
 Keep in mind that some foods are only available for those that purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Strategies -->
+​
 
-## Overview
-
-<span id="strategies"></span><span id="Strategies"></span>
-
+<!-- #strategies -->
 ### Strategies
 
 Especially when moving from place to place, it is usually wise to first consume the food that [spoils](./Decay.md#Food_and_drink) the fastest and has lower energy density, while saving energy-dense products for traveling or for an emergency.
@@ -47,12 +45,10 @@ For long-term food options, keep in mind the following:
 
 It is important to note that cooking Food and Drink adds more calories to the cooked item version (up to 25% extra calories at Level 5 Cooking). The caloric content for each item below is listed at the base Level 0 Cooking values for reference.
 
-<span id="survival_mode_foods"></span><span id="Survival_Mode_Foods"></span><span id="survival-mode-foods"></span>
+<!-- #Foods -->
+​
 
-## Survival Mode Foods
-
-<span id="foods"></span><span id="Foods"></span>
-
+<!-- #foods -->
 ### Foods
 
 Food and Drink have their own 2 dedicated sections within the [Radial Menu](./Radial%20Menu.md), but share the same menu in the Backpack [Survival Menu](./Survival%20Menu.md). **Note**: Most of these foods and drinks can be found in Wintermute.
@@ -107,8 +103,10 @@ The following items are found in the Foods section of the Radial Menu.
 | [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) | [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | 700 kcal | -10% | 1.00 kg<br>_(2.2 lb)_ | 700 kcal / kg<br>_(318 kcal / lb)_ |  |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 800 kcal | 0% | 1.00 kg<br>_(2.2 lb)_ | 800 kcal / kg<br>_(364 kcal / lb)_ |  |
 
-<span id="drinks"></span><span id="Drinks"></span>
+<!-- #Drinks -->
+​
 
+<!-- #drinks -->
 ### Drinks
 
 The following items are found in the Drinks section of the Radial Menu.
@@ -124,8 +122,19 @@ The following items are found in the Drinks section of the Radial Menu.
 | [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) | [Water (Potable)](./Water%20%28Potable%29.md) | 0 kcal | 150% | 1.00 kg<br>_(2.2 lb)_ | 0 kcal / kg<br>_(0 kcal / lb)_ |  |
 | [Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) | [Water (Unsafe)](./Water%20%28Unsafe%29.md)<span id="fnref1"></span>[¹](#fn1) | 0 kcal | 150% | 1.00 kg<br>_(2.2 lb)_ | 0 kcal / kg<br>_(0 kcal / lb)_ |  |
 
-<span id="brew_able_materials"></span><span id="Brew-able_Materials"></span><span id="brew-able_materials"></span><span id="brew-able-materials"></span>
+<!-- #brew_able_materials -->
+​
 
+<!-- #Brew-able_Materials -->
+​
+
+<!-- #brew-able_materials -->
+​
+
+<!-- #Brew-able_materials -->
+​
+
+<!-- #brew-able-materials -->
 ### Brew-able Materials
 
 Below is a list of foods cannot be eaten as is, and must be brewed in an active fire along with Potable Water in order to turn them into consumable drinks.
@@ -135,8 +144,10 @@ Below is a list of foods cannot be eaten as is, and must be brewed in an active 
 | [Tin of Coffee icon](../assets/Tin_of_Coffee_icon.png) | [Tin of Coffee](./Tin%20of%20Coffee.md) | 0.01 kg<br>_(0.022 lb)_ |
 | [Herbal Tea icon](../assets/Herbal_Tea_icon.png) | [Herbal Tea](./Herbal%20Tea.md) | 0.01 kg<br>_(0.022 lb)_ |
 
-<span id="carcass"></span><span id="Carcass"></span>
+<!-- #Carcass -->
+​
 
+<!-- #carcass -->
 ### Carcass
 
 Carcasses cannot be eaten as is, and must be harvested for usable meat. A [Rabbit](./Rabbit.md) can be killed and butchered on the spot for it's meat, or the corpse can be carried to a safer location to be butchered later. Larger animals can be quartered into meat bag quarters and carried away.
@@ -149,8 +160,16 @@ Carcasses cannot be eaten as is, and must be harvested for usable meat. A [Rabbi
 | [Rabbit Carcass icon](../assets/Rabbit_Carcass_icon.png) | [Rabbit Carcass](./Rabbit%20Carcass.md) |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) |
 
-<span id="first_aid_items"></span><span id="First_Aid_Items"></span><span id="first-aid-items"></span>
+<!-- #first_aid_items -->
+​
 
+<!-- #First_Aid_Items -->
+​
+
+<!-- #First_aid_items -->
+​
+
+<!-- #first-aid-items -->
 ### First Aid Items
 
 Below is a list of items that are classified as [First Aid](./First%20Aid.md) items. While they can be used to cure [Afflictions](./Afflictions.md), they can also be created and consumed solely for calories (though the error message "That Treatment Didn't Do Anything" will always appear for Reishi Tea, Burdock Tea, and Rose Hip Tea if no Afflictions are present).
@@ -166,14 +185,36 @@ Below is a list of items that are classified as [First Aid](./First%20Aid.md) it
 | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) | [Rose Hip Tea](./Rose%20Hip%20Tea.md) | 100 kcal | 30% | 0.10 kg<br>_(0.22 lb)_ | 1000 kcal / kg<br>_(455 kcal / lb)_ | 13% |
 | [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png) | [Vitamin-C Pills](./Vitamin-C%20Pills.md) | 5 kcal (25 kcal/bottle) | 0% | 0.10 kg<br>_(0.22 lb)_ | 250 kcal / kg<br>_(114 kcal / lb)_ | 125% |
 
-<span id="tales_from_the_far_territory_foods"></span><span id="Tales_from_the_Far_Territory_Foods"></span><span id="tales-from-the-far-territory-foods"></span>
+<!-- #tales_from_the_far_territory_foods -->
+​
 
+<!-- #Tales_from_the_Far_Territory_Foods -->
+​
+
+<!-- #Tales_from_the_far_territory_foods -->
+​
+
+<!-- #Tales_From_The_Far_Territory_Foods -->
+​
+
+<!-- #tales-from-the-far-territory-foods -->
 ## Tales from the Far Territory Foods
 
 These foods are only available in Survival Mode to players that purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
-<span id="types_of_food"></span><span id="Types_of_Food"></span><span id="types-of-food"></span>
+<!-- #types_of_food -->
+​
 
+<!-- #Types_of_Food -->
+​
+
+<!-- #Types_of_food -->
+​
+
+<!-- #Types_Of_Food -->
+​
+
+<!-- #types-of-food -->
 ### Types of Food
 
 | [Cooking](../assets/Cooking.png) | Item | Calories | Hydration | Weight | Calorie density | Vitamin C |
@@ -194,8 +235,10 @@ These foods are only available in Survival Mode to players that purchase the [Ta
 | [Ptarmigan (Cooked) icon](../assets/Ptarmigan_%28Cooked%29_icon.png) | [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) | 450 kcal | -5% | _1.00 kg<br>_(2.2 lb)__ | 500 kcal / kg<br>_(227 kcal / lb)_ |  |
 | [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 500 kcal | 0% | _1.00 kg<br>_(2.2 lb)__ | 500 kcal / kg<br>_(227 kcal / lb)_ |  |
 
-<span id="recipes"></span><span id="Recipes"></span>
+<!-- #Recipes -->
+​
 
+<!-- #recipes -->
 ### Recipes
 
 Recipes are food items that cannot simply be cooked over a Fire, and instead require multiple ingredients, dedicated cooking containers ([Cooking Pot](./Cooking%20Pot.md), [Cooking Skillet](./Cooking%20Skillet.md)), and additional time to prepare before cooking in a Fire. Some Recipes require a survivor to find [Recipe Cards](./Recipe%20Cards.md) before they can be created. (the following list shows calories at cooking lv1 even if that food can't be made at cooking lv1 to make calories density comparable)
@@ -231,8 +274,10 @@ Recipes are food items that cannot simply be cooked over a Fire, and instead req
 | [Venison Pie icon](../assets/Venison_Pie_icon.png) | [Venison Pie](./Venison%20Pie.md) | 325 kcal | 0% | _0.10 kg<br>_(0.22 lb)__ | 3250 kcal / kg<br>_(1,477 kcal / lb)_ |  |
 | [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 900 kcal | 3% | _0.35 kg<br>_(0.77 lb)__ | 2571 kcal / kg<br>_(1,169 kcal / lb)_ |  |
 
-<span id="ingredients"></span><span id="Ingredients"></span>
+<!-- #Ingredients -->
+​
 
+<!-- #ingredients -->
 ### Ingredients
 
 Note\* none of these items are edible despite being food items, and can only be used in the creation of Recipes.<span id="fnref2"></span>[²](#fn2)
@@ -246,8 +291,10 @@ Note\* none of these items are edible despite being food items, and can only be 
 | [Salt icon](../assets/Salt_icon.png) | [Salt](./Salt.md) | _0.25 kg<br>_(0.55 lb)__ |
 | [Salt (Bag) icon](../assets/Salt_%28Bag%29_icon.png) | [Salt (Bag)](./Salt%20%28Bag%29.md) | _10.00 kg<br>_(22 lb)__ |
 
-<span id="carcass_1"></span><span id="carcass-1"></span>
+<!-- #carcass_1 -->
+​
 
+<!-- #carcass-1 -->
 ### Carcass
 
 A [Ptarmigan](./Ptarmigan.md) can be killed and butchered on the spot for its meat, or the corpse can be carried to a safer location to be butchered later. If you survive your encounter with a [Cougar](./Cougar.md), its carcass can be butchered for around 2 quarters.
@@ -257,8 +304,16 @@ A [Ptarmigan](./Ptarmigan.md) can be killed and butchered on the spot for its me
 | [Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png) | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | _3.00 kg<br>_(6.6 lb)__ |
 | [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | _4.00 kg<br>_(8.8 lb)__ |
 
-<span id="wintermute_foods"></span><span id="Wintermute_Foods"></span><span id="wintermute-foods"></span>
+<!-- #wintermute_foods -->
+​
 
+<!-- #Wintermute_Foods -->
+​
+
+<!-- #Wintermute_foods -->
+​
+
+<!-- #wintermute-foods -->
 ## Wintermute Foods
 
 These foods are exclusive to [Wintermute](./Wintermute.md).
@@ -269,8 +324,16 @@ These foods are exclusive to [Wintermute](./Wintermute.md).
 | [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) | 3750 kcal | 0% | _15.00 kg<br>_(33 lb)__ |  |
 | [Home Made Soup icon](../assets/Home-Made_Soup_icon.png) | [Home-made Soup](./Home-made%20Soup.md) | 600 kcal | 0% | _0.25 kg<br>_(0.55 lb)__ |  |
 
-<span id="seasonal_foods"></span><span id="Seasonal_Foods"></span><span id="seasonal-foods"></span>
+<!-- #seasonal_foods -->
+​
 
+<!-- #Seasonal_Foods -->
+​
+
+<!-- #Seasonal_foods -->
+​
+
+<!-- #seasonal-foods -->
 ## Seasonal Foods
 
 These foods are exclusive to the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) [Challenge](./Challenge.md).
@@ -280,8 +343,10 @@ These foods are exclusive to the [4 Days of Night Event](./4%20Days%20of%20Night
 | [Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png) | [Pumpkin Pie](./Pumpkin%20Pie.md) | 2000 kcal | -5% | 0.50 kg<br>_(1.1 lb)_ | 4000 kcal / kg<br>_(1,818 kcal / lb)_ |
 | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) | [Chocolate Bar (4 Days of Night)](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md) | 2500 kcal | N/A | _0.10 kg<br>_(0.22 lb)__ |  |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - If meat transitions to a ruined status during cooking (i.e., condition is very low at 1-3% when cooking begins), it will vanish and will not be available for consumption. This behavior may be a bug.
@@ -290,8 +355,10 @@ These foods are exclusive to the [4 Days of Night Event](./4%20Days%20of%20Night
 
 ![A bottle of Cariboo](../assets/Office_%28Memories%29.png)
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

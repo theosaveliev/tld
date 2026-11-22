@@ -36,8 +36,10 @@
 
 **Combat Boots** are a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="usefulness"></span><span id="Usefulness"></span>
+<!-- #Usefulness -->
+​
 
+<!-- #usefulness -->
 ## Usefulness
 
 Mid-tier boots. They are heavier than the [Work Boots](./Work%20Boots.md) and offer less [warmth](./Warmth.md) and mobility, but are more waterproof and offer more protection. Expensive to repair but their protection is useful during wildlife [struggles](./Struggle.md), and they are only a half the weight of [Ski Boots](./Ski%20Boots.md).
@@ -46,8 +48,16 @@ Mid-tier boots. They are heavier than the [Work Boots](./Work%20Boots.md) and of
 
 ![Clothing model damaged](../assets/Combat_Boots_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

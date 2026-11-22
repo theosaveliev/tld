@@ -38,8 +38,10 @@ Clothing Slot
 
  **Chemical Boots** are a footwear [Clothing](./Clothing.md) in _The Long Dark_. They are a tool for more safely crossing [Chemical Hazards](./Chemical%20Hazard.md) on the surface of [Zone of Contamination](./Zone%20of%20Contamination.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Chemical Boots protect against [Chemical Poisoning](./Chemical%20Poisoning.md) when standing in Chemical Hazards on the surface of Zone of Contamination, but not against inhaled chemical fumes from these areas (which require a loaded [Respirator](./Respirator.md)). Chemical Boots are immune to the corrosive effect of Chemical Hazards; unlike other footwear, which rapidly decays when standing in these areas.
@@ -56,8 +58,16 @@ Possible to acquire from the [Trader](./Trader.md) for 2.00 L [Lantern Fuel](./L
 
 ![Old gear icon](../assets/Chemical_Boots_icon_old.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

@@ -16,8 +16,10 @@
 
 **Type:** Outdoors
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 While the road at one point offered a connection to the upper mountain area that leads to [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md), it has long been buried in rubble by an earthquake. The only way to navigate around it is via [Rope Climbing](./Rope%20Climbing.md) near [Pensive Lookout](./Pensive%20Lookout.md). The rope climb must first be set up, which requires the player navigate to [The Ravine](./The%20Ravine.md) and travel down the [Ravine Basin](./Ravine%20Basin.md) to reach the upper area, then travel to Pensive Lookout to deploy the rope.

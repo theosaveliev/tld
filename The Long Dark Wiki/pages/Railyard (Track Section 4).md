@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Railyard (Track Section 4)**
 
 \[\[File:
@@ -32,18 +30,30 @@ Location
 
 Has an interior **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #railyard_east -->
+​
 
-## Overview
+<!-- #Railyard_East -->
+​
 
-<span id="railyard_east"></span><span id="Railyard_East"></span><span id="railyard-east"></span>
+<!-- #Railyard_east -->
+​
 
+<!-- #railyard-east -->
 ### Railyard East
 
 A mostly empty set of land with some tracks that lead into a smashed in tunnel leading to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). Further east leads to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
 
-<span id="railyard_west"></span><span id="Railyard_West"></span><span id="railyard-west"></span>
+<!-- #railyard_west -->
+​
 
+<!-- #Railyard_West -->
+​
+
+<!-- #Railyard_west -->
+​
+
+<!-- #railyard-west -->
 ### Railyard West
 
 To the west of the map lies the first [Repair Depots](./Repair%20Depot.md) the player will find after acquiring the [Prototype Train](./Prototype%20Train.md). This Railyard has a [Water Tower](./Water%20Tower.md) and [Oil Tank](./Oil%20Tank.md) for refueling the train.

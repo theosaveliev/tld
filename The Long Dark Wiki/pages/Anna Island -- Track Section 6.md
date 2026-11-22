@@ -18,8 +18,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Anna Island -- Track Section 6**
 
 [Anna Island Track Section 6](../assets/Anna_Island_Track_Section_6.jpg)
@@ -40,8 +38,10 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 6** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A mountainous region hidden from the rest of Anna Island, Track Section 6 is initially accessed on foot via a mountain passage from [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md), and the rail line leading out of the region goes to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
@@ -54,8 +54,10 @@ A small detail that can be observed is that when entering Track Section 5, the t
 
 There is no [Whale Oil Tank](./Oil%20Tank.md) or [Water Tower](./Water%20Tower.md) in this region.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are only 3 named locations within Track Section 6, including:
@@ -64,29 +66,32 @@ There are only 3 named locations within Track Section 6, including:
 - To Anna Island Track Section 4 (Region Transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md))
 - To Anna Island Track Section 5 (Region Transition to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md))
 
+<!-- #wildlife_management -->
+​
 
-<span id="wildlife_management"></span><span id="Wildlife_Management"></span><span id="wildlife-management"></span>
+<!-- #Wildlife_Management -->
+​
 
+<!-- #Wildlife_management -->
+​
+
+<!-- #wildlife-management -->
 ## Wildlife Management
 
 There are no wildlife in this region.
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #Survivability -->
+​
 
+<!-- #survivability -->
 ## Survivability
 
 There is a single bed, [Pot Belly Stove](./Pot%20Belly%20Stove.md), and [Bed](./Bed.md) at the shelter at the Train Shelter, as well as some plants here and there that can be found. The Train Shelter itself has very few resources that can be picked up or harvested. The Train Shelter does not support [Safehouse Customization](./Safehouse%20Customization.md). All in all, there is very little reason to return to this region after acquiring the train.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #locations_1 -->
+​
 
-## Gallery
-
-<span id="maps"></span><span id="Maps"></span>
-
-### Maps
-
-<span id="locations_1"></span><span id="locations-1"></span>
-
+<!-- #locations-1 -->
 ### Locations
 
 ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg)
@@ -102,3 +107,5 @@ There is a single bed, [Pot Belly Stove](./Pot%20Belly%20Stove.md), and [Bed](./
 ![The Trestle leading out of the region.](../assets/Track_Section_6_Trestle.jpg)
 
 ![The tunnel leading out of the region as observed in the Track Section 5 region](../assets/Track_Section_6_Tunnel.jpg)
+
+[ru:Остров Анны — Участок пути 6](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D1%8B_%E2%80%94_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D1%82%D0%B8_6)

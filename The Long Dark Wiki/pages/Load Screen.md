@@ -15,13 +15,10 @@
 
 In The Long Dark, whenever you go into a building, cave or other transition, a loading screen is displayed. Loading screens can have several variations. They will each have a background, a little tip/lore box, and a loading animation. Below are all the variations of the load screen.
 
-<span id="background_images"></span><span id="Background_Images"></span><span id="background-images"></span>
+<!-- #Tips -->
+​
 
-## Background Images
-
-
-<span id="tips"></span><span id="Tips"></span>
-
+<!-- #tips -->
 ## Tips
 
 **HINT\_Vehicles**
@@ -524,8 +521,16 @@ Your ability to aim successfully is affected by Cold, Fatigue, and Breathing. Kn
 
 Timberwolf packs have Morale, indicated by a red meter. Timberwolf Morale can be broken by shooting or throwing things at them. Packs with broken Morale will flee, but may return once they recover.
 
-<span id="episode_4_messages"></span><span id="Episode_4_messages"></span><span id="episode-4-messages"></span>
+<!-- #episode_4_messages -->
+​
 
+<!-- #Episode_4_messages -->
+​
+
+<!-- #Episode_4_Messages -->
+​
+
+<!-- #episode-4-messages -->
 ## Episode 4 messages
 
 **HINT\_BlackrockMountain**
@@ -624,19 +629,18 @@ The electrical stanchions that snake through the Region are a survival tool for 
 
 New officers always bunked in the Blackrock Barracks. One of their tasks was supplementing the meager food supply at the Penitentiary -- a thankless and often dangerous job.
 
-<span id="loading_animations"></span><span id="Loading_Animations"></span><span id="loading-animations"></span>
+<!-- #Trivia -->
+​
 
-## Loading Animations
-
-
-<span id="trivia"></span><span id="Trivia"></span>
-
+<!-- #trivia -->
 ## Trivia
 
 - The tips you see actually change depending on how many days you have survived. More basic tips are displayed when you first start a new run, and more lore-heavy, or complex tips are shown during late-game runs.
 
-<span id="notes"></span><span id="Notes"></span>
+<!-- #Notes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 - This Page is work in progress, if you have found a Tip/Lore or a background image that is not present, please add it.

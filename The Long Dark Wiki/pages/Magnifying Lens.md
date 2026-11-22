@@ -26,8 +26,10 @@
 
 A **Magnifying Lens** is a tool used to start fires.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A Magnifying Lens is a [Fire Starting](./Fire%20Starting.md) [Tool](./Tools.md) used to start [fires](./Fire.md), but certain criteria must be met before it can be used, unlike other Fire Starters.
@@ -43,8 +45,10 @@ Magnifying lenses are relatively uncommon, and even if present, may be hidden on
 
 The Magnifying Lens cannot be crafted, harvested, or repaired, and its condition does not degrade. A Magnifying Lens is useless if used during a [Custom](./Custom.md) gamemode with Endless Night enabled.
 
-<span id="strategy"></span><span id="Strategy"></span>
+<!-- #Strategy -->
+​
 
+<!-- #strategy -->
 ## Strategy
 
 Because it does not degrade naturally and can be re-used without any cost, they are an integral part of late-game strategy, especially in Interloper where only [Wood Matches](./Wood%20Matches.md) and only handful of [Firestrikers](./Firestriker.md) spawn, giving less total fires in a game world. It allows survivors to survive indefinitely without fear of death by [Thirst](./Thirst.md) loss. Its drawback, however, is that it may only be used during the day when there is no cloud cover, and only in areas considered by the game to be "outside." Using this whenever one can instead of always using matches will ensure you have matches when you need them later.
@@ -53,8 +57,10 @@ Clear skies are most likely to occur at dawn/early morning, which is simultaneou
 
 You can, however, utilize the magnifying lens to start fires in the safety of indoor areas, via starting a fire with two sticks outdoors using the magnifying glass (a single stick will only provide the 10 minutes minimum fire duration to take a torch at [Fire Starting](./Fire%20Starting.md) lvl 5, any other skill level requires 2 sticks to take a [Torch](./Torch.md)), taking a torch from the fire, then taking that torch inside to start a fire in an indoor fireplace like a fireplace or stove. This allows for indoor fires after all other methods of firestarting have been exhausted, or to conserve matches and firestrikers on sunny days to delay the exhaustion of other firestarting tools in the world. This method similarly allows the lighting of forges in indoor areas such as the [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md) or the [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) after other firestarting tools are exhausted, as both of those are indoors and thus cannot be directly lit with a magnifying glass,
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model](../assets/Magnifying_lens.png)

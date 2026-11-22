@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Porter's Soup**
 
 [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png)
@@ -46,8 +44,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Porter's Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md).
@@ -56,12 +56,13 @@ It is only acquired when trading with the [Trader](./Trader.md).
 - Max Carry Weight ([Unburdened](./Unburdened.md))
 - Negative [Fatigue](./Fatigue.md) increase (-15%)
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Porter's Soup**
-
 
 40 minutes
 
@@ -89,6 +90,16 @@ It is only acquired when trading with the [Trader](./Trader.md).
 
 **Quantity:** 2
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
+
+[ru:Суп носильщика](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF_%D0%BD%D0%BE%D1%81%D0%B8%D0%BB%D1%8C%D1%89%D0%B8%D0%BA%D0%B0)

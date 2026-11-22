@@ -8,8 +8,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Broken Hatch Wheel**
 
 [Broken Hatch Wheel icon](../assets/Broken_Hatch_Wheel_icon.png)
@@ -32,14 +30,12 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Broken Hatch Wheel** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It is found after returning [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md) and then destroying [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md). It must be placed in the [Trade Drop Box](./Trade%20Drop%20Box.md) as the 5th Special Request to Sutherland to advance his questline.
 
 It cannot be dropped or placed in a container, so it cannot be lost.
-
-<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
-
-## Update History

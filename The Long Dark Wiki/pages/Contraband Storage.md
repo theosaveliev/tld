@@ -20,8 +20,10 @@
 
 The **Contraband Storage** Locker is a unique [Locker](./Locker.md) found at the gate entrance to [Blackrock Prison](./Blackrock%20Prison.md) during [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 It serves as a quick way to store any items found by the player while exploring the outskirts of the region during the episode, such as food, clothing, and weapons, in order to prevent them from being permanently taken by the [Convicts](./Convicts.md) when returning to the Prison to progress the narrative.

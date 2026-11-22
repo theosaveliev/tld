@@ -22,14 +22,18 @@
 
 This is the mission transcript for mission 1 [Memories](./Memories.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 The intro cutscene "By the Lion's Roar" plays.
 
-<span id="intro"></span><span id="Intro"></span>
+<!-- #Intro -->
+​
 
+<!-- #intro -->
 ### Intro
 
 _The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. The survivor begins to get up, before the man cries out:_
@@ -42,8 +46,10 @@ _The man gets up, and notices a piece of metal lodged in his left hand, hesitati
 
 _The man looks at the gaping wound in his hand before the camera shifts and slowly zooms out as if to give control to the player, but instead the scene slowly goes dark._
 
-<span id="flashback"></span><span id="Flashback"></span>
+<!-- #Flashback -->
+​
 
+<!-- #flashback -->
 ### Flashback
 
 **12 HOURS EARLIER...**

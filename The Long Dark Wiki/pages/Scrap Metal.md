@@ -30,14 +30,27 @@
 
 **Scrap Metal** is a crafting material in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Scrap Metal is a common and useful resource for crafting and [repair](./Repair.md). Pieces of Scrap Metal can be found across [Great Bear Island](./Great%20Bear%20Island.md), inside containers, and by [Beachcombing](./Beachcombing.md), but is primarily acquired by harvesting metal furniture with a [Hacksaw](./Hacksaw.md) (metal shelves, chairs, toasters, light fixtures, etc.).
 
-<span id="uses_for_scrap_metal"></span><span id="Uses_for_Scrap_Metal"></span><span id="uses-for-scrap-metal"></span>
+<!-- #uses_for_scrap_metal -->
+​
 
+<!-- #Uses_for_Scrap_Metal -->
+​
+
+<!-- #Uses_for_scrap_metal -->
+​
+
+<!-- #Uses_For_Scrap_Metal -->
+​
+
+<!-- #uses-for-scrap-metal -->
 #### Uses for Scrap Metal
 
 - Crafting [Hooks](./Hook.md) (for [Ice Fishing](./Ice%20Fishing.md) and [Mending](./Mending.md)).
@@ -46,8 +59,10 @@ Scrap Metal is a common and useful resource for crafting and [repair](./Repair.m
 - [Milling Machine](./Milling%20Machine.md) Repair: [Hunting Rifle](./Hunting%20Rifle.md) ([Barb's Rifle](./Barb%27s%20Rifle.md), [Curator's Rifle](./Curator%27s%20Rifle.md), [Vaughn's Rifle](./Vaughn%27s%20Rifle.md)), [Revolver](./Revolver.md) ([Forester's Revolver](./Forester%27s%20Revolver.md), [Hunter's Revolver](./Hunter%27s%20Revolver.md), [Warden's Revolver](./Warden%27s%20Revolver.md)), [Hacksaw](./Hacksaw.md), [Hatchet](./Hatchet.md) ([Improvised Hatchet](./Improvised%20Hatchet.md)), [Hunting Knife](./Hunting%20Knife.md) ([Improvised Knife](./Improvised%20Knife.md)).
 - Repairing a [Transmitter](./Transmitters.md) requires 5 scrap metal.
 
-<span id="harvesting"></span><span id="Harvesting"></span>
+<!-- #Harvesting -->
+​
 
+<!-- #harvesting -->
 ## Harvesting
 
 Scrap metal can be obtained by harvesting various pieces of furniture in-game by using a [hacksaw](./Hacksaw.md):
@@ -62,8 +77,10 @@ Scrap metal can be obtained by harvesting various pieces of furniture in-game by
 | Chair | 2h36 | 6 +1cloth | 585 | 26 min 30 sec |
 | Bed frame | 3h | 8 | 675 | 22min 30 sec |
 
-<span id="products"></span><span id="Products"></span>
+<!-- #Products -->
+​
 
+<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
@@ -85,8 +102,10 @@ Scrap metal can be obtained by harvesting various pieces of furniture in-game by
 | [Spear Head](./Spear%20Head.md) | None | - 2 × [Scrap Metal](./Scrap%20Metal.md) |
 | [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Scrap_metal.png)

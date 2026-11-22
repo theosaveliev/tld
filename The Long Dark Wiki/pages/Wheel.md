@@ -46,8 +46,10 @@ Harvesting either form with a [Hatchet](./Hatchet.md) yields 3 [Reclaimed Wood](
 | 6 | 49 minutes | 146 | -3% Improvised Hatchet |
 | 6 | 56 minutes | 169 | -0.5% Heavy Hammer |
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Wheel in the Camp Office](../assets/Wooden_Wheel_Undamaged.jpg)

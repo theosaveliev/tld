@@ -34,8 +34,10 @@ Residential|-
 
 Has an interior **Log Sort** is a location by the coast in [Coastal Highway](./Coastal%20Highway.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Log Sort is located between [Fishing Camp](./Fishing%20Camp.md) and [Coastal Townsite](./Coastal%20Townsite.md). A two-story house serves as a suitable [safe house](./Safehouse.md) for the player. There is also a trailer that contains beds with different warmth bonuses.
@@ -44,8 +46,10 @@ The Log Sort is clearly defined by the tree logs that surround it.
 
 There is an entrance to the [Abandoned Mine](./Cinder%20Hills%20Coal%20Mine.md) near the road, north of the Log Sort.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Trailer](../assets/Log_Sort_-_trailer.jpg)

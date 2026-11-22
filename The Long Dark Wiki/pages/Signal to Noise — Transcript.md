@@ -20,8 +20,10 @@
 
 This is the mission transcript for mission 3 [Signal to Noise](./Signal%20to%20Noise.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 CHAPTER THREE

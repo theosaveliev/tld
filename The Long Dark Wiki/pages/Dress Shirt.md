@@ -36,8 +36,10 @@
 
 The **Dress Shirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 A common starting item, the dress shirt is one of the worst clothing items in the game. The Dress Shirt only offers a little warmth and a small windproof bonus. While the windproof bonus does at least allow it to outclass the [T-Shirt](./T-Shirt.md#Overview), if it is worn as an inner layer the windproof bonus will be lost, thus rendering the Dress Shirt to the exact stats of a T-Shirt. As a result, the Dress Shirt should be replaced and harvested for [Cloth](./Cloth.md) as soon as possible, as almost anything will be better.
@@ -48,8 +50,16 @@ The [Sweatshirt](./Sweatshirt.md) serves as a direct upgrade, offering all of th
 
 ![Clothing model damaged](../assets/Dress_Shirt_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

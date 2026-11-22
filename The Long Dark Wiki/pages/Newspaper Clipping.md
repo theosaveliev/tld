@@ -36,8 +36,10 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Newspaper Clipping_ on the floor at the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md).
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Newspaper Clipping**_
@@ -46,8 +48,16 @@ _The following text is transcribed from **Newspaper Clipping**_
 
 "Although its monetary value is considerable, for members of our church it is a spiritual matter as well," he said...
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

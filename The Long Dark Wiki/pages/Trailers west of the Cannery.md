@@ -32,16 +32,20 @@ Has an interior
 
 **Trailers west of the Cannery** is an unofficial name for a group of two trailers located a short distance west of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) and down the road from [Coastal Highway Terminus](./Coastal%20Highway%20Terminus.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 There are one vehicle and two trailers that can be accessed. Weapons, tools and matches may spawn outdoors.
 
 To the north of the trailer is a short wooden bridge and beyond it is a hill. A backpack, Abandoned camp (campfire / snow shelter), tool and frozen corpse may spawn on top of the hills. Climbing up the hill from near the trailer (from the south) is likely to sprain on steep slopes. Climbing the hill from the north is a low risk.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Trailers](../assets/SS-BI-Trailer01.jpg)

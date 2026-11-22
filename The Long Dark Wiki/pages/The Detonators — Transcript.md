@@ -26,8 +26,16 @@ CHAPTER THREE
 
 THE DETONATORS
 
-<span id="reach_the_mine_entrance."></span><span id="Reach_the_mine_entrance."></span><span id="reach-the-mine-entrance"></span>
+<!-- #reach_the_mine_entrance. -->
+​
 
+<!-- #Reach_the_mine_entrance. -->
+​
+
+<!-- #Reach_The_Mine_Entrance. -->
+​
+
+<!-- #reach-the-mine-entrance -->
 ## Reach the mine entrance.
 
 _Mackenzie appears outside of the front steps to the Prison at dawn, at the start of a blizzard_

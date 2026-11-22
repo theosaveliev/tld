@@ -22,20 +22,32 @@ Region
 
 Has an interior **Graveyard** is a location across the street from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) and just the road up from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region.
 
-<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+<!-- #survival_mode -->
+​
 
+<!-- #Survival_Mode -->
+​
+
+<!-- #Survival_mode -->
+​
+
+<!-- #survival-mode -->
 ## Survival Mode
 
 The Graveyard has no distinguishing features or items that can be looted, with the nearby church being a much more enticing location to shelter in/loot.
 
-<span id="wintermute"></span><span id="Wintermute"></span>
+<!-- #Wintermute -->
+​
 
+<!-- #wintermute -->
 ## Wintermute
 
 [Will Mackenzie](./Will%20Mackenzie.md) is requested by [Grey Mother](./Grey%20Mother.md) to come to this location in the mission [One Last Thing](./One%20Last%20Thing.md), where he finds the grave of [Lilith Barker](./Lilith%20Barker.md) and lays [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) on the headstone.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Several names appear on many graves:

@@ -36,8 +36,10 @@ Residential|-
 
 Has a workbench|-
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Coastal Townsite has several buildings, including the [Quonset Gas Station](./Quonset%20Garage.md) in the middle of the town. This is a good place to stock up on supplies, including (possibly) some important tools such as the [hacksaw](./Hacksaw.md).
@@ -48,8 +50,10 @@ Cars are usually parked near the houses, and loot can be found in the trunks (ma
 
 In addition to a relatively large number of wolves often patrolling the area, a [bear](./Bear.md) and a [moose](./Moose.md) may also wander by, so caution outdoors is almost always advisable.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Coastal townsite 1](../assets/Coastal_townsite_1.jpg)
@@ -57,3 +61,5 @@ In addition to a relatively large number of wolves often patrolling the area, a 
 ![Coastal townsite 3](../assets/Coastal_townsite_3.jpg)
 
 ![Coastal townsite 4](../assets/Coastal_townsite_4.jpg)
+
+[ru:Прибрежный посёлок](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA) [es:Pueblo litoral](https://es.wikipedia.org/wiki/Pueblo_litoral)

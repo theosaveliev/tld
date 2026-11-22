@@ -38,8 +38,16 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The 
 
 During the course of the mission, Mackenzie finds the book in a chair in [Camp Office](./Camp%20Office.md) and is required to craft a fishing tackle and then fish in the nearby Mystery Lake.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

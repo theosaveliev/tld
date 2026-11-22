@@ -10,8 +10,10 @@
 
 **Living Off the Land** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<span id="guide"></span><span id="Guide"></span>
+<!-- #Guide -->
+​
 
+<!-- #guide -->
 ## Guide
 
 This achievement is obtained after surviving for twenty-five consecutive days by only consuming calories obtained from animals or plants harvested by the player in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim.
@@ -24,8 +26,16 @@ Drinking [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) or [Cup of Coffee](./
 
 In addition, consuming [Antibiotics](./Antibiotics.md) or [Painkillers](./Painkillers.md) will also reset the counter progress.
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
@@ -39,8 +49,10 @@ In addition, consuming [Antibiotics](./Antibiotics.md) or [Painkillers](./Painki
 
 &lt;div class="references-small" ;"&gt;
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

@@ -14,16 +14,10 @@
 
 **Type:** Residential
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Gallery -->
+​
 
-## Overview
-
-<span id="wintermute"></span><span id="Wintermute"></span>
-
-## Wintermute
-
-<span id="gallery"></span><span id="Gallery"></span>
-
+<!-- #gallery -->
 ## Gallery
 
 ![20260406234153 1](../assets/20260406234153_1.jpg)

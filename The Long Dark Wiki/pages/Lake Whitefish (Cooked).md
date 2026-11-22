@@ -43,8 +43,10 @@ _For the raw version, see [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.
 
 **Lake Whitefish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Lake Whitefish are small freshwater fish found commonly in lakes and ponds. They can be caught by [Ice Fishing](./Ice%20Fishing.md) using [Fishing Tackle](./Fishing%20Tackle.md). Lake Whitefish can be between 1.5 and 2.3 kg raw.
@@ -55,12 +57,13 @@ Cooking Whitefish takes 20+ minutes and is be obtained by using a lit [fire](./F
 
 Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooking food for too long will burn it. Destroying the item and damaging a Cooking Pot if used.
 
-<span id="recipe"></span><span id="Recipe"></span>
+<!-- #Recipe -->
+​
 
+<!-- #recipe -->
 ## Recipe
 
 **Lake Whitefish (Cooked)**
-
 
 20 minutes
 
@@ -70,8 +73,10 @@ Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Co
 
 **Quantity:** 1
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Raw Uncooked Prepared](../assets/Lake_Whitefish_%28Cooked%29_icon.png)
@@ -86,8 +91,16 @@ Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Co
 
 ![Ruined](../assets/Lake_Whitefish_%28Cooked%29_Ruined_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**

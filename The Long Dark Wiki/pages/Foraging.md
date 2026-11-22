@@ -19,14 +19,33 @@
 
 Foraging is often a very quick process that often requires no tools to pick or gather Flora from bushes, conifer tree stumps, or from plants growing out of the ground.
 
-<span id="types_of_flora"></span><span id="Types_of_Flora"></span><span id="types-of-flora"></span>
+<!-- #types_of_flora -->
+​
 
+<!-- #Types_of_Flora -->
+​
+
+<!-- #Types_of_flora -->
+​
+
+<!-- #Types_Of_Flora -->
+​
+
+<!-- #types-of-flora -->
 ## Types of Flora
 
 There are two types of items obtained from Flora in the game world; directly or indirectly harvestable Flora items:
 
-<span id="direct_harvesting_flora"></span><span id="Direct_Harvesting_Flora"></span><span id="direct-harvesting-flora"></span>
+<!-- #direct_harvesting_flora -->
+​
 
+<!-- #Direct_Harvesting_Flora -->
+​
+
+<!-- #Direct_harvesting_flora -->
+​
+
+<!-- #direct-harvesting-flora -->
 ### Direct Harvesting Flora
 
 Directly harvesting Flora simply requires the player to walk up to and click on the plant/fungus, where it will be turned into an item for the player:
@@ -68,8 +87,16 @@ Some plants require a tool to harvest however:
 
 ![Scrub Brush Patch](../assets/Scrub_Brush_Group.jpg)
 
-<span id="indirect_harvesting_flora"></span><span id="Indirect_Harvesting_Flora"></span><span id="indirect-harvesting-flora"></span>
+<!-- #indirect_harvesting_flora -->
+​
 
+<!-- #Indirect_Harvesting_Flora -->
+​
+
+<!-- #Indirect_harvesting_flora -->
+​
+
+<!-- #indirect-harvesting-flora -->
 ### Indirect Harvesting Flora
 
 | Item | Found |
@@ -90,16 +117,35 @@ Some plants require a tool to harvest however:
 
 ![Large Cedar Limb](../assets/CedarLimbLarge.jpg)
 
-<span id="first_aid_and_cooking"></span><span id="First_Aid_and_Cooking"></span><span id="first-aid-and-cooking"></span>
+<!-- #first_aid_and_cooking -->
+​
 
+<!-- #First_Aid_and_Cooking -->
+​
+
+<!-- #First_aid_and_cooking -->
+​
+
+<!-- #First_Aid_And_Cooking -->
+​
+
+<!-- #first-aid-and-cooking -->
 ## First Aid and Cooking
 
 The natural world often provide many remedies for healing personal ailments. [Afflictions](./Afflictions.md) can often be healed via man made [First Aid](./First%20Aid.md) items, but foraging can produce alternatives that can be produced repeatedly as the man made versions become more scarce. Cooking most forage at a [Fire](./Fire.md) (after it has been prepared) produces First Aid tea.
 
 They can also be cooked simply to create [Food And Drink](./Food%20And%20Drink.md) items made solely for their calories. All teas weigh 0.10kg and provide 100 calories for [Hunger](./Hunger.md) and 30% hydration for [Thirst](./Thirst.md).
 
-<span id="first_aid"></span><span id="First_Aid"></span><span id="first-aid"></span>
+<!-- #first_aid -->
+​
 
+<!-- #First_Aid -->
+​
+
+<!-- #First_aid -->
+​
+
+<!-- #first-aid -->
 ### First Aid
 
 The following items heal negative Afflictions:
@@ -123,8 +169,19 @@ Old Man's Beard Lichen can be crafted into an Infection suppressing bandage. Pre
 | [Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | 3[Old Man's Beard Lichen icon](../assets/Old_Man%27s_Beard_Lichen_icon.png) [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) | Cures [Infection Risk icon](../assets/Infection_Risk_icon.png) [Infection Risk](./Infection%20Risk.md) |
 | [Prepared Burdock icon](../assets/Prepared_Burdock_icon.png) [Prepared Burdock](./Prepared%20Burdock.md) | 1 [Burdock Root icon](../assets/Burdock_Root_icon.png) [Burdock Root](./Burdock%20Root.md) | Can be eaten for 275 calories |
 
-<span id="food_and_drink"></span><span id="Food_and_Drink"></span><span id="food-and-drink"></span>
+<!-- #food_and_drink -->
+​
 
+<!-- #Food_and_Drink -->
+​
+
+<!-- #Food_and_drink -->
+​
+
+<!-- #Food_And_Drink -->
+​
+
+<!-- #food-and-drink -->
 ### Food and Drink
 
 The following items can be cooked via forage found in the world:
@@ -136,8 +193,16 @@ The following items can be cooked via forage found in the world:
 | [Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png) [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | Harvest 1 [Cat Tail icon](../assets/Cat_Tail_icon.png) [Cat Tail](./Cat%20Tail.md) plant | 150 | None |
 | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 1 [Acorn Grounds icon](../assets/Acorn_Grounds_icon.png) [Acorn Grounds](./Acorn%20Grounds.md) + 0.25L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | 100 | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) [Fatigue Reduced](./Fatigue%20Reduced.md) |
 
-<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
+<!-- #fire_starting -->
+​
 
+<!-- #Fire_Starting -->
+​
+
+<!-- #Fire_starting -->
+​
+
+<!-- #fire-starting -->
 ## Fire Starting
 
 Foraging for [Fire Starting](./Fire%20Starting.md) fuel is an important part of surviving on the Island.
@@ -150,20 +215,32 @@ Foraging for [Fire Starting](./Fire%20Starting.md) fuel is an important part of 
 | [Birch Bark icon](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) | Near Birch Tree forests |
 | [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) [Cat Tail Head](./Cat%20Tail%20Head.md) | On [Cat Tails](./Cat%20Tail.md) |
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - Originally, items could not be picked up in the game world at all. A menu option called Abstract Foraging was present during the Pre Alpha builds of the game that would allow the player to dedicated time to make the survivor find unseen usable materials/fuel in the world offscreen. The game would pass time and would often create very small item yields despite the amount of hours spent foraging. The Deep Forest Update removed this feature and instead preplaced items throughout the world for the player to pick up and added plants to forage.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![The Early Access Abstract Foraging option in the menu](../assets/Alpha_main_menu.jpg)
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**

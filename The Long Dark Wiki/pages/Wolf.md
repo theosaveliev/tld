@@ -56,8 +56,10 @@
 
   **Wolves** are iconic [Wildlife](./Wildlife.md) in _[The Long Dark](./The%20Long%20Dark.md)._ In [Survival Mode](./Survival%20Mode.md) and [Wintermute](./Wintermute.md) they are a primary threat to survival on [Great Bear Island](./Great%20Bear%20Island.md) and can be found in all major [regions](./Region.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Wolves are a common predatory animal found on Great Bear Island; they may appear alone or in packs of up to four:
@@ -72,8 +74,10 @@ Wolves can be avoided by keeping distance, sneaking (crouching) and not carrying
 
 At night, Wolves can easily be spotted if they are facing your direction by the green shimmer in their eyes (Red in [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md)).
 
-<span id="drops"></span><span id="Drops"></span>
+<!-- #Drops -->
+​
 
+<!-- #drops -->
 ## Drops
 
 A [Wolf Carcass](./Wolf%20Carcass.md) may be harvested for 3.0-6.0 kg of [raw meat](./Wolf%20Meat%20%28Raw%29.md), 1 [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) and 2 guts. Wolf hides can be cured to craft [Wolfskin Coat](./Wolfskin%20Coat.md), [Wolfskin Pants](./Wolfskin%20Pants.md), or a [Wolfskin Hat](./Wolfskin%20Hat.md).
@@ -93,14 +97,24 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
-<span id="behaviour"></span><span id="Behaviour"></span>
+<!-- #Behaviour -->
+​
 
+<!-- #behaviour -->
 ## Behaviour
 
 Wolves feature the most complex and varied behavior of all [Wildlife](./Wildlife.md) in The Long Dark.
 
-<span id="as_hunters"></span><span id="As_hunters"></span><span id="as-hunters"></span>
+<!-- #as_hunters -->
+​
 
+<!-- #As_hunters -->
+​
+
+<!-- #As_Hunters -->
+​
+
+<!-- #as-hunters -->
 ### As hunters
 
 ![A wolf chasing a rabbit](../assets/Wolf_pursuit.jpg)_A wolf chasing a rabbit_ Wolves hunt Rabbit, Deer, and Ptarmigan they detect, and stalk the survivor. Wolves will 'bark' when they see a target and slowly stalk it to get closer. When close enough they will start chasing it, sprinting at close distances and killing prey animals on contact. After a kill, wolves will feed on the animal's carcass until no harvestable yield remains ("Ravaged"). Wolves making contact with the survivor will start a [Struggle](./Struggle.md).
@@ -111,14 +125,18 @@ Climbing felled trees, some boulders or rock ledges outside of a Wolf's pathfind
 
 A Wolf that has been shot by the player will retreat to a great distance away from the player until it cannot detect them anymore, and will begin to bleed out. Once their health is low enough then they will noticeably slow down, pulling their front left leg off the ground and limping as they move. They will will refuse to attack animals or the player in this state and eventually fall over dead once they fully bleed out.
 
-<span id="howling"></span><span id="Howling"></span>
+<!-- #Howling -->
+​
 
+<!-- #howling -->
 ### Howling
 
 Idle wolves will periodically and howl to one another, which may result in other nearby wolves replying. This can be useful to detect the presence of unseen wolves in areas with low visibility, or count the amount of nearby wolves.
 
-<span id="interaction"></span><span id="Interaction"></span>
+<!-- #Interaction -->
+​
 
+<!-- #interaction -->
 ## Interaction
 
 > “**Wolves - - they hate fire, like most wildlife. Campfire'll keep them away from you at night, most of the time. Improvise a torch if you have to. Flare will work too, you know one of those emergency ones for road accidents. Sometimes, if you get lucky, a stone to the head will scare them off.**”
@@ -129,8 +147,16 @@ Wolves are hostile wildlife found in all major regions of Great Bear Island wand
 
 _For detailed information on wolf behavior see: "Spawning and Behavior" below._
 
-<span id="aurora_wolves"></span><span id="Aurora_wolves"></span><span id="aurora-wolves"></span>
+<!-- #aurora_wolves -->
+​
 
+<!-- #Aurora_wolves -->
+​
+
+<!-- #Aurora_Wolves -->
+​
+
+<!-- #aurora-wolves -->
 ### Aurora wolves
 
 ![An Aurora Wolf on the prowl](../assets/Aurora_Wolf.jpg)_An Aurora Wolf on the prowl_ When an [Aurora](./Aurora.md) begins all wolves temporarily flee and before becoming aurora wolves: which glow green and are more aggressive, deal more damage and have more health. Aurora wolves often behave erratically: barking and running in circles almost constantly.
@@ -144,22 +170,34 @@ _For detailed information on wolf behavior see: "Spawning and Behavior" below._
 
 ![A wolf feeding on a rabbit](../assets/Wolf_feeding.jpg)
 
-<span id="defending_kills"></span><span id="Defending_kills"></span><span id="defending-kills"></span>
+<!-- #defending_kills -->
+​
 
+<!-- #Defending_kills -->
+​
+
+<!-- #Defending_Kills -->
+​
+
+<!-- #defending-kills -->
 ### Defending kills
 
 A wolf that has recently killed an animal will begin to eat its carcass, reducing yields until nothing remains. While the wolf feeds, its senses are greatly reduced (-75%). Scaring a wolf away from its kill will cause it to flee for a time, potentially allowing the survivor to harvest the carcass. Feeding wolves which are defending their kill may attack a survivor even on [Pilgrim](./Survival%20Mode.md) mode.
 
-<span id="decoys"></span><span id="Decoys"></span>
+<!-- #Decoys -->
+​
 
+<!-- #decoys -->
 ### Decoys
 
 Most products harvested from animals produce [Scent](./Scent.md) when carried by the survivor; while carried Scented items increases the radius at which wolves (and other predators) can smell the survivor, affected by wind (positively or negatively). While carried these items may be dropped ("3") as a Decoy to distract nearby predators, if a wolf detects a nearby Decoy (and the survivor is adequately far enough from it) they will pursue and eat the Decoy (destroying it), remaining distracted for a few seconds.
 
 Additionally if a wolf detects a prey animal while stalking the survivor it may pursue the animal instead. This can allow the survivor to distract wolves pursuing them by traveling past [herds of deer](./Deer.md), [rabbit groves](./Rabbit%20Grove.md), or [ptarmigan nests](./Ptarmigan.md).
 
-<span id="fire"></span><span id="Fire"></span>
+<!-- #Fire -->
+​
 
+<!-- #fire -->
 ### [Fire](./Fire.md)
 
  Wolves are afraid of [fire](./Fire.md) and generally avoid it if the survivor is nearby (~5m): making lit campfires, torches and flares powerful wolf deterrents. If the survivor is within range of a light source wolves respect (e.g. lit torch dropped at their feet) and aiming any weapon (e.g. [Stone](./Stone.md)) a stalking wolf will flee. Fires should be between the survivor and the wolf for maximum safety. If a wolf is charging the survivor, throwing a lit torch or flares may interrupt it.
@@ -169,26 +207,34 @@ Additionally if a wolf detects a prey animal while stalking the survivor it may 
 - **Aurora wolves do not fear fires.**
 - Accelerating Time (sleep, reading, crafting, harvesting etc.) while relying on a lit campfire to deter wolves may be dangerous: either with the wolf moving around the fire to attack, or the fire extinguishing (consuming its fuel, or blown out by wind).
 
-<span id="gunshots"></span><span id="Gunshots"></span>
+<!-- #Gunshots -->
+​
 
+<!-- #gunshots -->
 ### Gunshots
 
 Wolves flee from the report of a [Hunting Rifle](./Hunting%20Rifle.md), [Revolver](./Revolver.md) or [Distress Pistol](./Distress%20Pistol.md) and the impact of nearby bullets and arrows.
 
-<span id="stones"></span><span id="Stones"></span>
+<!-- #Stones -->
+​
 
+<!-- #stones -->
 ### [Stones](./Stone.md)
 
 Wolves investigate thrown stones landing nearby if the survivor is not detected. This can allow an undetected survivor to temporarily distract wolves from an area. If a stone stone lands very close to a wolf (undetected) or hits them directly (detected) they may flee. After investigating a stone wolves will return to their original position.
 
-<span id="noisemakers"></span><span id="Noisemakers"></span>
+<!-- #Noisemakers -->
+​
 
+<!-- #noisemakers -->
 ### [Noisemakers](./Noisemaker.md)
 
 Exploding Noisemakers cause all nearby wolves to flee (including aurora wolves) at moderate range (~20m), and can wound or kill wolves at short range (~5m). **Note: at very close range (or if the survivor fails to throw a lit Noisemaker in time) Noisemaker explosions will damage the survivor.**
 
-<span id="struggle"></span><span id="Struggle"></span>
+<!-- #Struggle -->
+​
 
+<!-- #struggle -->
 ## Struggle
 
 ![Wolf attack](../assets/Wolf_attack.jpg) Wolves within 15 meters who detect the survivor charge them, attempting to make contact and start a [Struggle](./Struggle.md). At the start of a struggle the survivor will have several seconds to select a [tool](./Tools.md) from their inventory to defend themselves. Over the following seconds the survivor and wolf will attack one another: taking [Condition](./Condition.md) and [Clothing](./Clothing.md) damage with chances to incur [Afflictions](./Afflictions.md) until either side wins, or dies, or the struggle ends (after 10 seconds).
@@ -202,8 +248,10 @@ Exploding Noisemakers cause all nearby wolves to flee (including aurora wolves) 
 - Wolves charge as fast as a sprinting player when unencumbered, and charge for up to 10 seconds (real-time), before fleeing if unable to reach the make contact. It is possible but unlikely to outrun a charging wolf, usually requiring a [Emergency Stim](./Emergency%20Stim.md) or [Go! Energy Drink](./Go!%20Energy%20Drink.md) and favorable terrain.
 - Wolves are unaffected by movement speed bonuses/maluses (wind speed/direction, slopes, roads, etc).
 
-<span id="tools"></span><span id="Tools"></span>
+<!-- #Tools -->
+​
 
+<!-- #tools -->
 ### Tools
 
 When a Wolf struggle begins the survivor is prompted to defend themselves with a tool(s) or Revolver from their inventory:
@@ -219,8 +267,10 @@ When a Wolf struggle begins the survivor is prompted to defend themselves with a
 1. Note: any the tool/weapon selected for use during a Struggle will take a small amount of condition damage (~1-3%).
 2. Note: Not all "Tools" category items may be selected for use during a wolf struggle (e.g. [Simple Tools](./Simple%20Tools.md), [Quality Tools](./Quality%20Tools.md), [Hacksaw](./Hacksaw.md), [Storm Lantern](./Storm%20Lantern.md), [Flashlight](./Flashlight.md) cannot be used).
 
-<span id="preparation"></span><span id="Preparation"></span>
+<!-- #Preparation -->
+​
 
+<!-- #preparation -->
 ### Preparation
 
 Struggles are best avoided, but are sometimes inevitable:
@@ -231,8 +281,10 @@ Struggles are best avoided, but are sometimes inevitable:
 - [Clothing](./Clothing.md) can offer Protection from struggles in its item statistics. Each point of Protection reduces incoming wildlife damage by 1%. **Only the 'outer layer' of worn clothing provides protection (further from the player, on the 'paper doll' UI).**
 - Remove fragile clothing before a struggle: wolves can damage or destroy low condition or fragile clothing like [Wool Ear Wraps.](./Wool%20Ear%20Wrap.md)
 
-<span id="weakness"></span><span id="Weakness"></span>
+<!-- #Weakness -->
+​
 
+<!-- #weakness -->
 ### Weakness
 
 If the survivor is weak due to low [Condition](./Condition.md) or some [Afflictions](./Afflictions.md) then wolves will act more aggressively towards them: charging from ~50% greater distance (&lt;15m normally to &lt;21m if Weak). **This particularly dangerous since allow wolves to charge in situations where they would normally flee** (e.g. survivor is holding a lit [Torch](./Torch.md) and sprints towards a wolf). These effects are binary (the survivor is either Weak or not) and do not stack, they are:
@@ -243,16 +295,26 @@ If the survivor is weak due to low [Condition](./Condition.md) or some [Afflicti
 - [Blood Loss](./Blood%20Loss.md) **(Note: Blood Loss also increases the surivor's [Scent](./Scent.md))**
 - [Sprained Wrist](./Sprained%20Wrist.md)/[Ankle](./Sprained%20Ankle.md)
 
-<span id="hunting"></span><span id="Hunting"></span>
+<!-- #Hunting -->
+​
 
+<!-- #hunting -->
 ## [Hunting](./Hunting.md)
 
 Wolf can be killed at range with any weapon (except [Stone](./Stone.md) and [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md)), or from melee during a struggle with any struggle-selectable tool (e.g. [Hatchet](./Hatchet.md)). All weapons cause bleeding, which is certain death for the animal over time; however injured wolves may still attack. If not killed during a struggle a wounded wolf flees at a sprint for several seconds, before slowing to a walk (and being able to attack again).
 
 - Note: wolves only bleed on the ground while fleeing. Once slowing back to a walk they will cease bleeding on the ground, but will continue taking damage and eventually die. Blood Drops will again appear if the wolf resumes fleeing (e.g. a new gunshot, thrown lit flare, etc).
 
-<span id="critical_hits"></span><span id="Critical_hits"></span><span id="critical-hits"></span>
+<!-- #critical_hits -->
+​
 
+<!-- #Critical_hits -->
+​
+
+<!-- #Critical_Hits -->
+​
+
+<!-- #critical-hits -->
 ### Critical hits
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
@@ -264,14 +326,30 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
-<span id="bleeding_wounds"></span><span id="Bleeding_wounds"></span><span id="bleeding-wounds"></span>
+<!-- #bleeding_wounds -->
+​
 
+<!-- #Bleeding_wounds -->
+​
+
+<!-- #Bleeding_Wounds -->
+​
+
+<!-- #bleeding-wounds -->
 ### Bleeding wounds
 
 All shots from weapons which hit a wolf cause blood loss; or a chance after a struggle if the player used a knife or hatchet. Wolves lose condition at a rate based on where they were shot. Multiple shots cause additional condition damage from impact, but do not bleed out any faster. A wolf bleeding from multiple wounds will use the highest bleed out value.
 
-<span id="bleed_out"></span><span id="Bleed_Out"></span><span id="bleed-out"></span>
+<!-- #bleed_out -->
+​
 
+<!-- #Bleed_Out -->
+​
+
+<!-- #Bleed_out -->
+​
+
+<!-- #bleed-out -->
 ### Bleed Out
 
 | Weapon — Head | Weapon — Neck | Bleed Out — Torso | Bleed Out — Hips | Bleed Out — Limb | Bleed Out | Bleed Out |
@@ -281,8 +359,10 @@ All shots from weapons which hit a wolf cause blood loss; or a chance after a st
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 60 min | 30 min | 60 min | 120 min | 150 min |
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Instant | 12 min | 30 min | 35 min | 40 min |
 
-<span id="strategies"></span><span id="Strategies"></span>
+<!-- #Strategies -->
+​
 
+<!-- #strategies -->
 ### Strategies
 
 - A simple strategy wolf killing is to shoot its head with a ranged weapon. This is made easier by first distracting the wolf so it will stand still for a clean shot:
@@ -292,12 +372,10 @@ All shots from weapons which hit a wolf cause blood loss; or a chance after a st
   - Ambush: crouch to sneak into the path of an approaching wolf.
 - Wolves may also be engaged in struggles, though this is far more dangerous than using ranged weapons. See Struggles (above).
 
-<span id="spawning_and_behavior"></span><span id="Spawning_and_Behavior"></span><span id="spawning-and-behavior"></span>
+<!-- #Spawning -->
+​
 
-## Spawning and Behavior
-
-<span id="spawning"></span><span id="Spawning"></span>
-
+<!-- #spawning -->
 ### Spawning
 
 [Region](./Region.md) and [Survival Mode](./Survival%20Mode.md) determine how many wolves may spawn. Wolves spawn at active spawn points in the same region as the survivor within rendering distance and roam the surrounding area. As in-game time progresses these spawn points may change, resulting in wolf(s) moving between points. The number and the availability of wolf spawn points increases based on the "WOLF SPAWN CHANCE" Wildlife Spawns setting.
@@ -306,8 +384,10 @@ All shots from weapons which hit a wolf cause blood loss; or a chance after a st
 - Aurora: all wolves flee and despawn when an [Aurora](./Aurora.md) begins or ends (even if during a [Struggle](./Struggle.md)), being replaced with more dangerous Aurora Wolves.
 - Blizzard: spawned wolves will remain active, but unloaded wolf spawns will not
 
-<span id="detection"></span><span id="Detection"></span>
+<!-- #Detection -->
+​
 
+<!-- #detection -->
 ### Detection
 
 - Sight: Wolves can see in a 30m 45° frontal cone from the center of their head, reduced to 15m if the player crouching. Line of sight blockers (trees, hills, structures) may reduce this further, but not by time of day or [weather](./Weather.md) (fog or blizzards).
@@ -319,8 +399,10 @@ Note:
 1. [Survival Mode](./Survival%20Mode.md) affects wildlife detection ranges.
 2. The active [Feat "Big Cat Killer"](./Feats.md) reduces Wolf (and other wildlife) Sight and Smell by 50%.
 
-<span id="behavior"></span><span id="Behavior"></span>
+<!-- #Behavior -->
+​
 
+<!-- #behavior -->
 ### Behavior
 
 Wolves exhibit complex behavior based on what they detect, it's type and distance, and wolf's status. Wolf behavior changes based on "Wildlife Behavior" and "Wildlife Struggle" settings.
@@ -345,13 +427,21 @@ Wolves will actively pursue or flee from targets they detect or situations, orde
 6. _Charge:_ detected survivor or hunted prey (&lt;10m, &lt;21m if survivor is Weak), **or if the survivor any weapon wh**A wolf will stalk the survivor if they detect them (&gt;10m) at **walking speed if within 10-20m**, and will **sprint if beyond 20m until they are 20m away**.**g them.**
 7. _Stalk:_ detect survivor (&gt;10m). **Only one** If**f**multiple wolves **k the survivor at on**,**e**the wolf with the closest spawn point to the survivor's current coordinates will Stalk while all other wolf(s) will Hold Ground.**20m until they are 20m from the survivor**.
 8. _Hunt:_ see live prey wildlife not being hunted by any wolf.
-9. _Investigate Smell:_ dropped [Decoy](./Scent.md#Baiting%2FDecoys) or [Survivor Scent](./Scent.md). Note: wolves detect dropped Decoy based on distance regardless terrain or line-of-sight blockers, and investigate the **initial coordinates** of a smelly survivor **not the survivor's current coordinates.**
+9. _Investigate Smell:_ dropped [Decoy](./Scent.md#Baiting/Decoys) or [Survivor Scent](./Scent.md). Note: wolves detect dropped Decoy based on distance regardless terrain or line-of-sight blockers, and investigate the **initial coordinates** of a smelly survivor **not the survivor's current coordinates.**
 10. _Wander:_ return to spawn point and wande
 11. Smell: Wolves smell regardless of terrain in a 45m radius from the player or dropped smelly item. The "[Scent](./Scent.md) Indicator" UI element shows an estimate of current player scent, increased by carrying more smelly items (raw or cooked [meat](./Food%20And%20Drink.md), fresh hides, [fresh guts](./Fresh%20Gut.md), rabbit carcasses). The player has a minimum smell radius of 5m which increases up to 75m; strong winds can increase or decrease this radius +/-15m.
 12. Sound: Wolves can hear nearby [rifle](./Hunting%20Rifle.md)/[revolver](./Revolver.md)/[distress pistol](./Distress%20Pistol.md) reports (75m) and projectile weapon impacts (20m), which cause them to flee (except stones), unless charging.
 
-<span id="unique_wolves"></span><span id="Unique_Wolves"></span><span id="unique-wolves"></span>
+<!-- #unique_wolves -->
+​
 
+<!-- #Unique_Wolves -->
+​
+
+<!-- #Unique_wolves -->
+​
+
+<!-- #unique-wolves -->
 ## Unique Wolves
 
 Most wildlife in The Long Dark cannot enter indoors locations (thought transition screens) or spawn inside indoors structures and caverns, making thes locations 'safe' for the survivor, at least from wildlife; 'unique wolves' break this location by being wolves which can only spawn inside fixed indoors locations, break this convention and often ambushing unsuspecting players. Because of this these wolves have garnered a reputation for being particularly memorable and dangerous The Long Dark survivors who encounter them, often becoming named by _The Long Dark_ community.
@@ -363,16 +453,26 @@ Unique wolves:
 - May become Aurora Wolves during [Aurora](./Aurora.md) weather.
 - Do not spawn in Pilgrim mode, or the first 12 hours of Voyageur ('Grace Period').
 
-<span id="fluffy"></span><span id="Fluffy"></span>
+<!-- #Fluffy -->
+​
 
+<!-- #fluffy -->
 ### Fluffy
 
 Fluffy is a wolf which can spawn inside of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) workshop in [Bleak Inlet](./Bleak%20Inlet.md). To encounter Fluffy the electronic door must be unlocked and opened: this requires reading (touching or picking up) the key-code Note inside [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md), and then activating the keypad at Last Resort Cannery during an [Aurora](./Aurora.md) at night. Due the Cannery requiring an active Aurora to unlock, Fluffy is often encountered in her more dangerous 'aurora wolf' form and typically ambushes unsuspecting players with her unusual indoors location, driven by the importance of the location for [Gunsmithing](./Gunsmithing.md) and [Milling](./Milling%20Machine.md). Additionally the interior of the Last Resort Cannery features many [electrified wires](./Burns.md) during an Aurora, making evading Fluffy even more dangerous.
 
 In early versions of _The Long Dark_ (0.124) Fluffy was found inside of the turbine room of the [Carter Hydro Dam](./Winding%20River.md). Players initially reported her presence as a bug due to this unexpected location; however, she quickly developed a cult following on the [Official Hinterlands Forums](./Hinterland%20Studio%20Inc..md) for her reputation of murdering unsuspecting new players. "Fluffy" was not officially named or mentioned in the changelog when added, but after being named by the community she was officially mentioned in changelog 0.127. She appears to have gained access to the dam's interior through a broken window from the [Winding River](./Winding%20River.md). Fluffy was removed from [Carter Hydro Dam](./Winding%20River.md) in Survival Mode in version 1.00 (August 1, 2017) during the [Wintermute](./Wintermute.md) release, as her AI could not pathfind the new interior. In [Story Mode](./Wintermute.md): [Episode Two](./Episode%202%20-%20Luminance%20Fugue.md) her corpse can be found inside the Carter Hydro Dam. The November 2019 developer diary stated that Fluffy would return, and as of the [Errant Pilgrim](./The%20Long%20Dark%20%E2%80%94%20Changelog.md) update Fluffy resides in the [Last Resort Cannery](./Last%20Resort%20Cannery.md).![Fluffy in the story mode](../assets/Dead_fluffy.jpg)_Fluffy in the story mode_
 
-<span id="other_unique_wolves"></span><span id="Other_Unique_Wolves"></span><span id="other-unique-wolves"></span>
+<!-- #other_unique_wolves -->
+​
 
+<!-- #Other_Unique_Wolves -->
+​
+
+<!-- #Other_unique_wolves -->
+​
+
+<!-- #other-unique-wolves -->
 ### Other Unique Wolves
 
 [Desolation Point](./Desolation%20Point.md) inside the north-eastern [cave](./Cave%20%28Desolation%20Point%20location%29.md) near the waterfall has a unique wolf, along with with multiple deer carcasses and potentially a [frozen corpse](./Frozen%20Corpse.md). This wolf can be particularly effective at ambushing survivors, since the cave is dark and has numerous side tunnels and stalactites.
@@ -381,14 +481,27 @@ In early versions of _The Long Dark_ (0.124) Fluffy was found inside of the turb
 
 The [Sundered Pass](./Sundered%20Pass.md) wing of the massive cavern which connects Sundered Pass, [Forsaken Airfield](./Forsaken%20Airfield.md) and [Zone of Contamination](./Zone%20of%20Contamination.md) in [The Far Territory](./Tales%20from%20the%20Far%20Territory.md). The wolf spawns in the circular chamber dominated with an ice stalactite, but may roam to any location within the wing between the indoors [rope climb](./Rope%20Climbing.md) and [rock climb](./Rock%20Climb.md).
 
-<span id="demon_wolves"></span><span id="&quot;Demon&quot;_Wolves"></span><span id="&quot;demon&quot;_wolves"></span><span id="demon-wolves"></span>
+<!-- #demon_wolves -->
+​
 
+<!-- #"Demon"_Wolves -->
+​
+
+<!-- #"demon"_wolves -->
+​
+
+<!-- #"demon"_Wolves -->
+​
+
+<!-- #demon-wolves -->
 ### "Demon" Wolves
 
 "Demon" Wolves were a Halloween-themed variant in "[4 Days of Night](./4%20Days%20of%20Night%20Event.md)" (4DON) a discontinued game mode from 2016-2019. They were distinct in having glowing red eyes and fleeing from survivors who consumed n [Pumpkin Pies](./Pumpkin%20Pie.md), but otherwise behaved like typical Wolves. When a Demon Wolf died their eyes lose the glow effect, making their appearance identical to regular wolves.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The Wolf is based off the well known [Gray Wolf](https://en.wikipedia.org/wiki/Wolf) (**_Canis lupus_**), specifically the [Black Wolf](https://en.wikipedia.org/wiki/Black_wolf) a darkly color variant found rarely throughout the world most commonly in Southern Canada.
@@ -396,8 +509,10 @@ The [Sundered Pass](./Sundered%20Pass.md) wing of the massive cavern which conne
 - In-Game loading Screens sometimes feature an stylized 2D sprite of a wolf walking.
 - The Wolf model, animation and AI rig have undergone numerous updates and overhauls since Early Access.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Steam Trading Card](../assets/Stalking_Wolf_Steam_Card_Preview.png)
@@ -432,8 +547,16 @@ The [Sundered Pass](./Sundered%20Pass.md) wing of the massive cavern which conne
 
 _A Wolf compared to a [Timberwolf](./Timberwolf.md)_
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
@@ -477,8 +600,10 @@ _A Wolf compared to a [Timberwolf](./Timberwolf.md)_
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game
 
-<span id="footnotes"></span>
+<!-- #footnotes -->
+​
 
+<!-- #notes -->
 ## Notes
 
 ---

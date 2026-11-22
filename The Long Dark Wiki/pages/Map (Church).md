@@ -8,8 +8,6 @@
 
 This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Map**
 
 [Map (Church) icon](../assets/Map_%28Church%29_icon.png)
@@ -35,7 +33,3 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **On ground:** Take It, Read Text, Leave It
 
 **Map** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Port Renmant](./Port%20Remnant.md) inside the ruined lighthouse. It points to a hidden pathway to the [Desecrated Church](./Desecrated%20Church.md). The road to the east of the church is blocked, and this map shows a cave that allows access to the upper cliffs to reach the church.
-
-<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
-
-## Game history

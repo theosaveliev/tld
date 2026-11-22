@@ -36,8 +36,10 @@
 
 **Work Pants** are a type of [clothing](./Clothing.md) in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 High tier pants, Work Pants provide decent warmth and very good protection but are somewhat heavy. They pair well with [Snow Pants](./Snow%20Pants.md) until [Combat Pants](./Combat%20Pants.md) can be found which are generally superior.
@@ -46,8 +48,16 @@ High tier pants, Work Pants provide decent warmth and very good protection but a
 
 ![Clothing model icon damaged](../assets/Work_Pants_Model_Damaged_icon.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -32,8 +32,10 @@ Residential|-
 
 Has a workbench|-
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Fishing Camp is located on the western side of the region, between [Bear Creek Campground](./Bear%20Creek%20Campground.md) and [Jackrabbit Island](./Jackrabbit%20Island.md).
@@ -42,8 +44,10 @@ The Fishing Camp is a suitable place to set up a [safe house](./Safehouse.md). T
 
 A [hatchet](./Hatchet.md) often spawns near the fishing nets and pallets located near the roadside. A knife, a hammer, or a [mountaineering rope](./Mountaineering%20Rope.md) may be found on the workbench. Additionally, a corpse near the end of the dock may be holding a [hunting knife](./Hunting%20Knife.md). Keep an eye out for wolves that may be patrolling the area near the body.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![Lone cabin with a work bench at the back.](../assets/Fishing_Camp_-_cabin.jpg)
@@ -55,3 +59,5 @@ A [hatchet](./Hatchet.md) often spawns near the fishing nets and pallets located
 ![Aurora night PC (It has a Buffer Memories of the Fishing Cabin)](../assets/SS-CH-FishingCabin02.jpg)
 
 _Aurora night PC (It has a [Buffer Memories](./Buffer%20Memories.md) of the Fishing Cabin)_
+
+[ru:Стоянка рыбаков](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0_%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2)

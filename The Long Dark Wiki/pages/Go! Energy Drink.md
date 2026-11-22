@@ -32,8 +32,10 @@
 
 **Go! Energy Drink** is a [First Aid](./First%20Aid.md) item in _The Long Dark_.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Consuming Go! Energy Drink restores hydration and a small amount of calories. It also provides the benefits [Energy Boost](./Energy%20Boost.md) for 30 minutes, and [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 min.
@@ -44,8 +46,16 @@ Upon consumption, Fatigue is increased by 60% (to a maximum of 100%), but once t
 
 Go! Energy Drink does not spawn on Interloper difficulty.
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**

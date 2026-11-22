@@ -19,8 +19,6 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
-
 **Bushcraft Bow**
 
 [Bushcraft Bow icon](../assets/Bushcraft_Bow_icon.png)
@@ -45,22 +43,37 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **Bushcraft Bow** is a variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark,_ whose recipe can be acquired from the [Trader](./Trader.md), after completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 The Bushcraft bow is a handmade penobscot bow with a cloth wrapped handle, black stripe tips, and distinct green colored string. It deals the most damage to [wildlife](./Wildlife.md) when compared to other bows, and degrades slightly slower than the survival bow, however, the Bushcraft Bow has the potential to break much earlier than other bows; starting at 50% condition instead of 15%.
 
-<span id="differences_from_survival_bow"></span><span id="Differences_from_Survival_Bow"></span><span id="differences-from-survival-bow"></span>
+<!-- #differences_from_survival_bow -->
+​
 
+<!-- #Differences_from_Survival_Bow -->
+​
+
+<!-- #Differences_from_survival_bow -->
+​
+
+<!-- #Differences_From_Survival_Bow -->
+​
+
+<!-- #differences-from-survival-bow -->
 ## Differences from Survival Bow
 
 - 25% more damage than the [Survival Bow](./Survival%20Bow.md)
 - Total durability is 20% more than Survival Bow (uses 1.6%-0.8% condition per shot based on [archery skill](./Archery.md))
 - Can break earlier, risks breaking under 50% condition, all other bows risk breaking below 15% condition
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 Obtaining the [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md) is required to unlock the crafting blueprint, as this bow does not appear naturally in the game world. It is available from the [Trader](./Trader.md) after completing [Sutherland's Tale](./Sutherland%27s%20Tale.md). It will always appear as a trade when unlocked and the card can only be purchased once.
@@ -75,15 +88,15 @@ This cost is lowered when the player has gained enough Trust to get a discount f
 - 2 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
 - 2 any cured hides
 
-<span id="crafting"></span><span id="Crafting"></span>
+<!-- #Crafting -->
+​
 
+<!-- #crafting -->
 ## Crafting
 
 One key note about this bow is that it requires 2 [**Green Birch Saplings**](./Green%20Birch%20Sapling.md), not 2 [Cured Birch Saplings](./Cured%20Birch%20Sapling.md). This is the only tool in the game that requires an uncured item to craft. If you plan on getting this tool from the Trader eventually, make sure to save some uncured Birch saplings in storage, as although it is a renewable material, [Beachcombing](./Beachcombing.md) can only yield so many Green Birches in a set amount of time.
 
 **Bushcraft Bow**
-
-
 
 300 minutes (5 hour 0 minutes)
 
@@ -97,8 +110,10 @@ One key note about this bow is that it requires 2 [**Green Birch Saplings**](./G
 
 **Quantity:** 2
 
-<span id="tips"></span><span id="Tips"></span>
+<!-- #Tips -->
+​
 
+<!-- #tips -->
 ## Tips
 
 - The Bushcraft bow's recipe card is available for purchase on [Interloper](./Interloper.md) and [Misery](./Misery.md) difficulties, provided the player has completed the entirety of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
@@ -106,15 +121,19 @@ One key note about this bow is that it requires 2 [**Green Birch Saplings**](./G
 - Breaking chance increases quadratically as bow condition degrades, and follows this pattern: 4% break chance at 40% condition, 16% break chance at 30% condition, 36% break chance at 20% condition, 50% break chance at 15% condition, and 81.72% break chance at 5% condition.
 - The damage modifier from the bow stacks with the [manufactured arrow's](./Manufactured%20Arrow.md) damage bonus allowing the player to inflict large amounts of damage to animals, the most notable breakpoint being neck shots (not headshots) on [moose](./Moose.md) become instant-kills with this setup.
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The Bushcraft Bow is based on a Penobscot/Wabanaki type of cable-backed bows, thought to be one of the first composite bow designs in history.
 - The bow being crafted from [Green Birch Saplings](./Green%20Birch%20Sapling.md) is an accurate real-world representation of how cable-backed bows can be made from poor-quality wood.
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![When inspected](../assets/BushcarftBowInspect.png)
@@ -125,6 +144,16 @@ One key note about this bow is that it requires 2 [**Green Birch Saplings**](./G
 
 ![Bushcraft bow ground model](../assets/Bushcraft_Bow_Dropped.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
+
+[ru:Лук выживальщика](https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BA_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%D1%89%D0%B8%D0%BA%D0%B0)

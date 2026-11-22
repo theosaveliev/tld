@@ -54,42 +54,66 @@
 
 The Pumpkin Pie is still found in the game files in [Wintermute](./Wintermute.md), but cannot be accessed through normal means.
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Consuming a Pumpkin Pie grants up to 2000 [calories](./Hunger.md) for 0.50 kg of weight, making it even more efficient than the rare [MRE](./Military-Grade%20MRE.md) (1750 calories). Pumpkin Pies additionally grant a [Wildlife Repelling Effect](./Afflictions.md), frightening nearby [Demon Wolves](./Wolf.md), as well as constantly being "hot" so its consumption can warm the survivor.
 
 If found during the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) event, the Darkwalker will refuse to pursue the player for a time when the Pie is consumed.
 
-<span id="warmth_effect"></span><span id="Warmth_effect"></span><span id="warmth-effect"></span>
+<!-- #warmth_effect -->
+​
 
+<!-- #Warmth_effect -->
+​
+
+<!-- #Warmth_Effect -->
+​
+
+<!-- #warmth-effect -->
 ## Warmth effect
 
 It has a constant [Hot](./Warming%20Up.md) attribute, which grants [Warmth](./Warmth.md) even when eating small amounts of the pie. This allows a survivor to keep warm for extended periods of time, preventing [Hypothermia](./Hypothermia.md) by keeping Warmth above zero. The amount of warmth gained is proportional to the amount of pie eaten (and calories consumed).
 
 An intact pie can restore the [Warmth](./Warmth.md) of the survivor from freezing (0%) to full (100%) once.
 
-<span id="wildlife_deterring_effect"></span><span id="Wildlife_deterring_effect"></span><span id="wildlife-deterring-effect"></span>
+<!-- #don -->
+​
 
-## Wildlife deterring effect
+<!-- #4DON -->
+​
 
-<span id="don"></span><span id="4DON"></span><span id="4don"></span>
-
+<!-- #4don -->
 ### 4DON
 
 The "Wildlife Repelling Effect" Benefit is granted to the survivor upon consuming a Pumpkin Pie, which causes nearby Demon Wolves to flee upon detecting them. This effect is similar to that of Pilgrim game mode.
 
 If the effect is obtained while a Wolf is charging the survivor, there is no effect for that Wolf, resulting in a [Struggle](./Struggle.md).
 
-<span id="escape_the_darkwalker"></span><span id="Escape_the_Darkwalker"></span><span id="escape-the-darkwalker"></span>
+<!-- #escape_the_darkwalker -->
+​
 
+<!-- #Escape_the_Darkwalker -->
+​
+
+<!-- #Escape_the_darkwalker -->
+​
+
+<!-- #Escape_The_Darkwalker -->
+​
+
+<!-- #escape-the-darkwalker -->
 ### Escape the Darkwalker
 
 If consumed while the Darkwalker is chasing the player, the entity will stay away from them for some time, similar to using a [Spray Paint - Glyph](./Spray%20Paint%20-%20Glyph.md) to create a Ward/standing near a Green Fire.
 
-<span id="spawns"></span><span id="Spawns"></span>
+<!-- #Spawns -->
+​
 
+<!-- #spawns -->
 ## Spawns
 
 Pumpkin Pies spawn inside major structures such as the [Camp Office](./Camp%20Office.md). Their spawns are not guaranteed, but multiple pies can spawn in the same Region. Pies found usually spawn atop stoves.
@@ -102,8 +126,10 @@ Pumpkin Pies spawn inside major structures such as the [Camp Office](./Camp%20Of
 - [Signal Hill](./Signal%20Hill.md)
 - [Fishing Hut](./Fishing%20Hut.md)
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 ![A pumpkin pie on the stove in the Pleasant Valley Farmstead](../assets/PVPumpkin.jpg)
@@ -114,8 +140,16 @@ _A pumpkin pie on the stove in the [Pleasant Valley Farmstead](./Pleasant%20Vall
 
 ![Item description in Escape the Darkwalker](../assets/Pumpkin_Pie_Darkwalker.png)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.373)):**

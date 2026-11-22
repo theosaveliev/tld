@@ -42,7 +42,6 @@
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-
 “
 
 **An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.**<br>Official Hinterland Description
@@ -57,8 +56,10 @@ The **Zone of Contamination** or **ZOC** as its also known as, is the 15th [Regi
 
 It connects to [Transfer Pass](./Transfer%20Pass.md) via the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md) and [Forsaken Airfield](./Forsaken%20Airfield.md) via a large cave system near [Enduring Waterfall](./Enduring%20Waterfall.md).
 
-<span id="overview"></span><span id="Overview"></span>
+<!-- #Overview -->
+​
 
+<!-- #overview -->
 ## Overview
 
 Locally named the Langston Mine and built by the Langston Mining Corporation, the Zone of Contamination is an abandoned open-pit mine that is one of the most dangerous places to travel to on [Great Bear Island](./Great%20Bear%20Island.md), due to the dead zone created by the extreme amount of toxic chemicals spilled throughout the center of the region.
@@ -67,8 +68,10 @@ Ponds are filled with a sickly orange toxic runoff previously pumped and dumped 
 
 Though thankfully not all areas of the Zone are so treacherous to the player's well-being. Sections of Great Bear Island's pristine beauty still shine through decay of the locally mismanaged industrialization, and can still be found to the south, north, and west of the map. The south and west still sees a great deal of thriving [deer](./Deer.md), [bears](./Bear.md), and [rabbits](./Rabbit.md) to provide hunting opportunities for fresh meat and the hills to the north and east occasionally contain [ptarmigan](./Ptarmigan.md) nests. The uncontaminated frozen hills also offer an unspoiled bounty of harvestable [cat tails](./Cat%20Tail.md) and other plants to forage, and the north western corner of the map contains a pond large enough to freely fish in.
 
-<span id="survivability"></span><span id="Survivability"></span>
+<!-- #Survivability -->
+​
 
+<!-- #survivability -->
 ## Survivability
 
 Surviving in the Zone of Contamination can be quite difficult without the right equipment, supplies, or strategy. Most supplies and shelters in the region are located in contaminated areas, creating an incentive to stay close to them for items needed for survival despite the danger. On the flipside, the nearby valleys and mountains, while pristine and full of healthy wildlife to hunt, contain no manmade shelters and very few caves to escape from the cold, creating a unique survival dichotomy only found within this region. One potential solution is to use a [Travois](./Travois.md) to haul more food from the valleys and mountains to the shelters per trip.
@@ -77,8 +80,10 @@ Surviving in the Zone of Contamination can be quite difficult without the right 
 
 The region has 2 vista locations: one is located at a cliff with a picnic table at [Boss's Settlement](./Boss%27s%20Settlement.md), the other can be found on a cliff side close to [Welkin's Window](./Welkin%27s%20Window.md) overlooking the valley of Enduring Falls.
 
-<span id="locations"></span><span id="Locations"></span>
+<!-- #Locations -->
+​
 
+<!-- #locations -->
 ## Locations
 
 There are a number of locations in the Zone of Contamination, including:
@@ -87,8 +92,10 @@ There are a number of locations in the Zone of Contamination, including:
 | --- | --- |
 | - [Boss's Settlement](./Boss%27s%20Settlement.md)<br>- [Bountiful Overlook](./Bountiful%20Overlook.md)<br>- [Concentrator](./Concentrator.md)<br>- [Conveyor Room](./Conveyor%20Room.md)<br>- [Craggy Passage](./Craggy%20Passage.md)<br>- [Desperate Elevation](./Desperate%20Elevation.md)<br>- [Dubious Overlook](./Dubious%20Overlook.md)<br>- [Enduring Waterfall](./Enduring%20Waterfall.md)<br>- [Flagman's Gap](./Flagman%27s%20Gap.md)<br>- [Forgotten Exploration](./Forgotten%20Exploration.md)<br>- [Harrowed Residence](./Harrowed%20Residence.md)<br>- [Headframe Building](./Headframe%20Building.md)<br>- [Idle Camp](./Idle%20Camp.md) | - [Indolent Hoppers](./Indolent%20Hoppers.md)<br>- [Langston Mine](./Langston%20Mine.md)<br>- [Miner's Footpath](./Miner%27s%20Footpath.md)<br>- [Old Corral](./Old%20Corral.md)<br>- [Overladen Pond](./Overladen%20Pond.md)<br>- [Pump House](./Pump%20House.md)<br>- [Smoker's Cave](./Smoker%27s%20Cave.md)<br>- [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md)<br>- To Cave System (Region Transition to [Forsaken Airfield](./Forsaken%20Airfield.md)/[Sundered Pass](./Sundered%20Pass.md))<br>- To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md))<br>- [Turbulent Pasture](./Turbulent%20Pasture.md)<br>- [Unquenched Extraction](./Unquenched%20Extraction.md)<br>- [Welkin's Window](./Welkin%27s%20Window.md) |
 
-<span id="maps"></span><span id="Maps"></span>
+<!-- #Maps -->
+​
 
+<!-- #maps -->
 ## Maps
 
 ![A detailed map of Zone of Contamination v2.35 (contains spoilers)](../assets/ZOC_map_default.png)
@@ -105,22 +112,34 @@ There are a number of locations in the Zone of Contamination, including:
 
 ![Fan made layout of all three floors of the Langston Mine](../assets/Langston_Mine_Fan_made_Map.jpg)
 
-<span id="trivia"></span><span id="Trivia"></span>
+<!-- #Trivia -->
+​
 
+<!-- #trivia -->
 ## Trivia
 
 - The region was formerly announced as the Industrial Mine, but was renamed during its debut.
 - The [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), and [Headframe Building](./Headframe%20Building.md) found above the mine form the largest interior building space found in the game to date. The previous holder of this title, the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), is significantly smaller in comparison.
 - The Zone of Contamination is currently the only region to feature the [Earth Mover](./Haul%20Truck.md) and [Poisoned Wolf](./Poisoned%20Wolf.md).
 
-<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+<!-- #game_history -->
+​
 
+<!-- #Game_History -->
+​
+
+<!-- #Game_history -->
+​
+
+<!-- #game-history -->
 ## Game History
 
 - Zone of Contamination was added to the game on 5 December 2023 in the [TFTFT Chapter 4 Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29).
 
-<span id="gallery"></span><span id="Gallery"></span>
+<!-- #Gallery -->
+​
 
+<!-- #gallery -->
 ## Gallery
 
 [Missing image: 20230520075647\_1.jpg]

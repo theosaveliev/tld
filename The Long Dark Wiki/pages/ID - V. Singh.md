@@ -32,16 +32,26 @@
 
 During the course of the mission, Astrid finds the ID on a corpse at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
 
-<span id="location"></span><span id="Location"></span>
+<!-- #Location -->
+​
 
+<!-- #location -->
 ## Location
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found near the top of the hill, slightly before encountering Gwen. This is also the corpse that holds the [Passenger Manifest](./Passenger%20Manifest.md). The ID is later returned to Sam at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
 ![V. Singh location](../assets/V._Singh_location.jpg)
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 \* UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

@@ -22,8 +22,10 @@ Wintermute
 
 Yes **Curtains** are interactable items that are found inside homes, cabins, or industrial buildings and can be harvested for [Cloth](./Cloth.md) either by hand or with a [Hunting Knife](./Hunting%20Knife.md).
 
-<span id="curtain"></span><span id="Curtain"></span>
+<!-- #Curtain -->
+​
 
+<!-- #curtain -->
 ## Curtain
 
 | Cloth | Time | Calories | Condition of Tool |
@@ -32,8 +34,16 @@ Yes **Curtains** are interactable items that are found inside homes, cabins, or 
 | 2 | 6 minutes | 18 | -2% Hunting Knife |
 | 2 | 8 minutes | 23 | -3% Improvised Knife |
 
-<span id="bed_curtain"></span><span id="Bed_Curtain"></span><span id="bed-curtain"></span>
+<!-- #bed_curtain -->
+​
 
+<!-- #Bed_Curtain -->
+​
+
+<!-- #Bed_curtain -->
+​
+
+<!-- #bed-curtain -->
 ## Bed Curtain
 
 | Cloth | Time | Calories | Condition of Tool |

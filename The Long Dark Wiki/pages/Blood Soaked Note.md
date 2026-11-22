@@ -30,8 +30,10 @@
 
 **Blood Soaked Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found near the derailed logging cares in the [Forlorn Muskeg](./Forlorn%20Muskeg.md) region. Collecting it unlocks a cache in the [Broken Railroad](./Broken%20Railroad.md) region for the [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) side mission.
 
-<span id="transcript"></span><span id="Transcript"></span>
+<!-- #Transcript -->
+​
 
+<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Blood Soaked Note**_
@@ -42,8 +44,16 @@ Judging by the amount of blood frozen on this page, the author wasn't doing too 
 
 Should've never tried to leave Milton."
 
-<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+<!-- #update_history -->
+​
 
+<!-- #Update_history -->
+​
+
+<!-- #Update_History -->
+​
+
+<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

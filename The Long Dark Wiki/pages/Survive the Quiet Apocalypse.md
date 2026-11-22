@@ -4,9 +4,7 @@
 
 **Survive the Quiet Apocalypse**
 
-![](../assets/Survive_the_Quiet_Apocalypse_icon.png)
-
-_Survive\_the\_Quiet\_Apocalypse\_icon.png_
+![Survive the Quiet Apocalypse icon](../assets/Survive_the_Quiet_Apocalypse_icon.png)
 
 **Description:** Whatever the future brings, you will be ready.
 

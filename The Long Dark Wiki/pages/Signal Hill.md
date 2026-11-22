@@ -4,15 +4,13 @@
 
 **Signal Hill**
 
-\[\[File: / \[Missing image: SignalHill2.png\] / _Exterior_ / ![Interior](../assets/Signal_Hill_-_radio_shack_bedroom.png) / _Interior_
+\[Missing image: SignalHill2.png\]<br>_Exterior_<br>![Interior](../assets/Signal_Hill_-_radio_shack_bedroom.png)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Signal_Hill_Location.png)
-
-_Signal\_Hill\_Location.png_
+![Signal Hill Location](../assets/Signal_Hill_Location.png)
 
 Region
 
@@ -28,15 +26,11 @@ Military/Sporting
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -67,12 +61,6 @@ In the final chapter of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [
 
 ![A landscape of Pleasant Valley with Signal Hill in the distance. Its radio tower is silhouetted against the sky.](../assets/Pleasant_Valley_landscape_01.png)
 
-_A landscape of Pleasant Valley with Signal Hill in the distance. Its radio tower is silhouetted against the sky._
-
 ![A view of Signal Hill.](../assets/Signal_Hill.png)
 
-_A view of Signal Hill._
-
 ![Approaching Signal Hill from the Southwest](../assets/Screen_17ccd10b-d074-4dc4-b88d-0d25d7ab304d_hi.png)
-
-_Approaching Signal Hill from the Southwest_

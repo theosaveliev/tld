@@ -13,9 +13,7 @@
 
 **Survival School (Predux)/Transcript**
 
-![](../assets/The_Long_Dark_-_episode_two_-_survival_school.png)
-
-_The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png_
+![The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -27,7 +25,7 @@ _The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png_
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)
 
 This is the transcript for Chapter 3 [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

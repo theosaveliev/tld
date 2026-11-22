@@ -35,9 +35,7 @@
 
 **Revolver**
 
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
+![Revolver icon](../assets/Revolver_icon.png)
 
 **General**
 
@@ -47,7 +45,7 @@ _Revolver\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
 **Harvest:** Unharvestable
 
@@ -252,19 +250,13 @@ The Revolver may spawn in any of following locations in all survival modes excep
 
 ![The Revolvers iron sights](../assets/Revolver_Iron_Sights.png)
 
-_The Revolvers iron sights_
-
 ![Revolver Ground Model](../assets/Revolver_Ground_Model.png)
 
-_Revolver Ground Model_
-
-![](../assets/The_Long_Dark_--_STEADFAST_RANGER_%28Survival_Mode_Update%29.jpg)
+![The Long Dark STEADFAST RANGER (Survival Mode Update)](../assets/The_Long_Dark_--_STEADFAST_RANGER_%28Survival_Mode_Update%29.jpg)
 
 _The\_Long\_Dark\_--\_STEADFAST\_RANGER\_(Survival\_Mode\_Update)_
 
 ![The unreleased Pre Alpha Revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp)
-
-_The unreleased Pre Alpha Revolver, with ammunition and casings_
 
 ![A Revolver found hidden behind a Grate](../assets/Grate_Revolver.jpg)
 

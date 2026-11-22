@@ -4,9 +4,7 @@
 
 **Broken Body**
 
-![](../assets/Broken_Body_icon.png)
-
-_Broken\_Body\_icon.png_
+![Broken Body icon](../assets/Broken_Body_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -16,7 +14,7 @@ _Broken\_Body\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** Your body carries the weight of a dying world. / You have lost the ability to recover Condition and are twice as vulnerable to physical damage.
+**Description:** Your body carries the weight of a dying world.<br>You have lost the ability to recover Condition and are twice as vulnerable to physical damage.
 
 **Caused By:** [Misery Mode](./Misery.md)
 

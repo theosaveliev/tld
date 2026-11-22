@@ -11,9 +11,7 @@
 
 **Fresh Rabbit Pelt**
 
-![](../assets/Fresh_Rabbit_Pelt_icon.png)
-
-_Fresh\_Rabbit\_Pelt\_icon.png_
+![Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 
@@ -27,7 +25,7 @@ _Fresh\_Rabbit\_Pelt\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested rabbit pelt. / Can be used for crafting and repairs after air-drying indoors for 3 days.
+**Examine:** Freshly harvested rabbit pelt.<br>Can be used for crafting and repairs after air-drying indoors for 3 days.
 
 **Values**
 
@@ -50,8 +48,6 @@ Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning Rabbits with a 
 ## Gallery
 
 ![Old model.](../assets/Rabbit_pelt.png)
-
-_Old model._
 
 ## Update history
 

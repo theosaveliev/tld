@@ -12,9 +12,7 @@
 
 **Mackenzie's Boots**
 
-![](../assets/Mackenzie%27s_Boots_icon.png)
-
-_Mackenzie's\_Boots\_icon.png_
+![Mackenzie's Boots icon](../assets/Mackenzie%27s_Boots_icon.png)
 
 **General**
 
@@ -22,32 +20,30 @@ _Mackenzie's\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**The boots you were wearing when you crashed in your plane.** / Post Crash In-game description
+**The boots you were wearing when you crashed in your plane.**<br>Post Crash In-game description
 
 ”
 
@@ -81,11 +77,7 @@ Mackenzie's Boots are still worn when playing [Episode 4: Fury, Then Silence](./
 
 ![Model icon](../assets/Mackenzie%27s_Boots_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Mackenzie%27s_Boots_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Update history
 

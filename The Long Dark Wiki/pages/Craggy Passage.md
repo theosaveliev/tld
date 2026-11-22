@@ -4,14 +4,10 @@
 
 **Craggy Passage**
 
-![](../assets/Craggy_Passage.jpg)
-
-_Craggy\_Passage.jpg_
+![Craggy Passage](../assets/Craggy_Passage.jpg)
 
 **Location**
 
-![](../assets/Craggy_Passage_Location.png)
-
-_Craggy\_Passage\_Location.png_
+![Craggy Passage Location](../assets/Craggy_Passage_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)

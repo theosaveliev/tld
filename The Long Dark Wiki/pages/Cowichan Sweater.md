@@ -2,7 +2,7 @@
 
 **Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cowichan_Sweater)
 
-{| |+ XSENT:infobox:Cowichan Sweater |- | colspan="2" | ![](../assets/Cowichan_Sweater_icon.png) |- | colspan="2" | **General** |- ! Item Type | Clothing|- ! Wintermute | Yes|- ! Clothing Slot | Inner torso |- | colspan="2" | **Statistics** |- ! Weight | ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |- ! Warmth bonus | ![](../assets/Temp_icon.png)2.5 °C(4.5 °F) |- ! Windproof bonus | ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |- ! Waterproof bonus | ![](../assets/Waterproofness_icon.png)50% |- ! Protection | ![](../assets/Protection_icon.png)5% |- ! Mobility | ![](../assets/Mobility_icon.png)-2% |- ! Harvest | 1 × [Cloth](./Cloth.md)  
+{| |+ XSENT:infobox:Cowichan Sweater |- | colspan="2" | ![Cowichan Sweater icon](../assets/Cowichan_Sweater_icon.png) |- | colspan="2" | **General** |- ! Item Type | Clothing|- ! Wintermute | Yes|- ! Clothing Slot | Inner torso |- | colspan="2" | **Statistics** |- ! Weight | ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |- ! Warmth bonus | ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |- ! Windproof bonus | ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |- ! Waterproof bonus | ![Waterproofness icon](../assets/Waterproofness_icon.png)50% |- ! Protection | ![Protection icon](../assets/Protection_icon.png)5% |- ! Mobility | ![Mobility icon](../assets/Mobility_icon.png)-2% |- ! Harvest | 1 × [Cloth](./Cloth.md)  
  45 minutes |- ! Repair | 1 × [Cloth](./Cloth.md)  
  60 minutes  
  30% condition 
@@ -37,15 +37,9 @@ The sweater can sometimes be found in:
 
 ![Old model.](../assets/Fleece_sweater_%28historical%29.png)
 
-_Old model._
-
 ![Clothing model](../assets/Cowichan_Sweater_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Cowichan_Sweater_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

@@ -13,9 +13,7 @@
 
 **Prepared Reishi Mushrooms**
 
-![](../assets/Prepared_Reishi_Mushrooms_icon.png)
-
-_Prepared\_Reishi\_Mushrooms\_icon.png_
+![Prepared Reishi Mushrooms icon](../assets/Prepared_Reishi_Mushrooms_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -85,11 +83,7 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ![The old icon for prepared mushrooms](../assets/Prepared_Reishi_Mushrooms_icon_historic.png)
 
-_The old icon for prepared mushrooms_
-
 ![ditto, 3D model](../assets/Prepared_mushrooms.png)
-
-_ditto, 3D model_
 
 ## Update history
 

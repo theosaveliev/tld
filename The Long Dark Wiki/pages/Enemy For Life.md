@@ -4,9 +4,7 @@
 
 **Enemy For Life**
 
-![](../assets/Enemy_For_Life_icon.png)
-
-_Enemy\_For\_Life\_icon.png_
+![Enemy For Life icon](../assets/Enemy_For_Life_icon.png)
 
 **Description:** Turn the tables on Mathis.
 

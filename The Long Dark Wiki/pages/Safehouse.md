@@ -87,7 +87,7 @@
 - [Sundered Pass](#sundered-pass)
 - [Last Lonely House](#last-lonely-house)
 
-![](../assets/Safe_House.jpg) In an open-world experience like _[The Long Dark](./The%20Long%20Dark.md)_, the player needs a safe, sheltered location to return to in order to recover their mind and body from the hazards of a nomadic lifestyle. A deliberate mechanic that separates _The Long Dark_ from other survival games is that it does not provide the player any means to create a customized shelter from scratch. As such, the player will need to find a pre-existing location to call their temporary home as they explore the island. In a world as unforgiving and hostile as [Great Bear Island](./Great%20Bear%20Island.md), **Safe Houses** are indoor sanctuaries that allow a player to survive and thrive through the permanent winter of the Quiet Apocalypse.
+![Safe House](../assets/Safe_House.jpg) In an open-world experience like _[The Long Dark](./The%20Long%20Dark.md)_, the player needs a safe, sheltered location to return to in order to recover their mind and body from the hazards of a nomadic lifestyle. A deliberate mechanic that separates _The Long Dark_ from other survival games is that it does not provide the player any means to create a customized shelter from scratch. As such, the player will need to find a pre-existing location to call their temporary home as they explore the island. In a world as unforgiving and hostile as [Great Bear Island](./Great%20Bear%20Island.md), **Safe Houses** are indoor sanctuaries that allow a player to survive and thrive through the permanent winter of the Quiet Apocalypse.
 
 Safe Houses sometimes acts as a "gate" for narrative progression — I.E. events that advance the story or change the world state may only occur when the player returns to the safe house, as they often act as out of harm's way for interacting with story NPCs.
 
@@ -206,11 +206,7 @@ _The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized
 
 ![The Homestead after being customized](../assets/Safehouse_after-comp.jpg)
 
-_The Homestead after being customized_
-
 ![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
-
-_Safe House furniture Concept Art_
 
 ## Coastal Regions
 

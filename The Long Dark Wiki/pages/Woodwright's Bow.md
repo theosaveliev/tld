@@ -11,13 +11,11 @@
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Woodwright's Bow** / ![](../assets/Woodwright%27s_Bow_icon.png) / _Woodwright's\_Bow\_icon.png_ / **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) / **Wintermute:** No / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch. / A more durable and agile Survival Bow. / **Values** / **Weight:** 0.75 kg (1.65 lbs) / **Actions** / **Backpack:** Use, Drop / **On ground:** Take It, Equip It, Leave It / **Advanced data** / **Item key:** GAMEPLAY\_Bow\_Woodwrights / **Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+<br>**Woodwright's Bow**<br>![Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png)<br>**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch.<br>A more durable and agile Survival Bow.<br>**Values**<br>**Weight:** 0.75 kg (1.65 lbs)<br>**Actions**<br>**Backpack:** Use, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Bow\_Woodwrights<br>**Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 
@@ -50,27 +48,15 @@ The bow will spawn a single time per world at 100% condition in one of several r
 
 ![The Woodright's bow as seen in the survivors hands.](../assets/Woodrights_bow_holding.png)
 
-_The Woodright's bow as seen in the survivors hands._
-
 ![The Woodright's bow when drawn and aiming.](../assets/Woodrights_bow_aiming.png)
-
-_The Woodright's bow when drawn and aiming._
 
 ![The bow found near Offset Falls.](../assets/Woodright%27s_Bow_Spawn_Offset_Falls.png)
 
-_The bow found near Offset Falls._
-
 ![The edge of the handle's ring make a good reference point when aiming, the white reticle is the point where the arrow will fire from regardless of the sway.](../assets/Woodrights_bow_sight.png)
 
-_The edge of the handle's ring make a good reference point when aiming, the white reticle is the point where the arrow will fire from regardless of the sway._
-
-![](../assets/Woodwright%27s_Bow_corpse.jpg)
-
-_Woodwright's\_Bow\_corpse.jpg_
+![Woodwright's Bow corpse](../assets/Woodwright%27s_Bow_corpse.jpg)
 
 ![Woodwrights bow in-game ground model](../assets/Woodwrights_Bow_Dropped.png)
-
-_Woodwrights bow in-game ground model_
 
 ## Update history
 

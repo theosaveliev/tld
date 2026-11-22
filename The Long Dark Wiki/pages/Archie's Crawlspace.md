@@ -4,15 +4,11 @@
 
 **Archie's Crawlspace**
 
-![](../assets/Screen_07396e10-f97f-47ed-8f34-e3083be6fa00_hi.png)
-
-_Screen\_07396e10-f97f-47ed-8f34-e3083be6fa00\_hi.png_
+![Screen 07396e10 f97f 47ed 8f34 e3083be6fa00 hi](../assets/Screen_07396e10-f97f-47ed-8f34-e3083be6fa00_hi.png)
 
 **Location**
 
-![](../assets/Archie%27s_Crawlspace_Location.png)
-
-_Archie's\_Crawlspace\_Location.png_
+![Archie's Crawlspace Location](../assets/Archie%27s_Crawlspace_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -20,11 +16,9 @@ _Archie's\_Crawlspace\_Location.png_
 
 Type
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-Has an interior / **Archie's Crawlspace** is a small cave in the south part of the [Drift Island](./Drift%20Island.md) to the east of [Cove](./Cove.md).
+Has an interior<br>**Archie's Crawlspace** is a small cave in the south part of the [Drift Island](./Drift%20Island.md) to the east of [Cove](./Cove.md).
 
 ## Overview
 

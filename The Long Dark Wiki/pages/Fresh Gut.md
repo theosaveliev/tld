@@ -4,9 +4,7 @@
 
 **Fresh Gut**
 
-![](../assets/Fresh_Gut_icon.png)
-
-_Fresh\_Gut\_icon.png_
+![Fresh Gut icon](../assets/Fresh_Gut_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -20,7 +18,7 @@ _Fresh\_Gut\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested gut. / Can be used for crafting and repair after air-drying indoors for 5 days.
+**Examine:** Freshly harvested gut.<br>Can be used for crafting and repair after air-drying indoors for 5 days.
 
 **Values**
 

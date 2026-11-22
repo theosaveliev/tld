@@ -4,9 +4,7 @@
 
 **Ready for when the SHTF!**
 
-![](../assets/Ready_for_when_the_SHTF!_icon.png)
-
-_Ready\_for\_when\_the\_SHTF!\_icon.png_
+![Ready for when the SHTF! icon](../assets/Ready_for_when_the_SHTF!_icon.png)
 
 **Description:** You survived 50 days in a single Survival mode game.
 

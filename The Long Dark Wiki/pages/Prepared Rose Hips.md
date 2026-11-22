@@ -14,9 +14,7 @@
 
 **Prepared Rose Hips**
 
-![](../assets/Prepared_Rose_Hips_icon.png)
-
-_Prepared\_Rose\_Hips\_icon.png_
+![Prepared Rose Hips icon](../assets/Prepared_Rose_Hips_icon.png)
 
 **General**
 
@@ -26,7 +24,7 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
 
 > “**Rose hips that are ready to be boiled to make a healing natural tea.**”
 >
@@ -91,5 +89,3 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 ## Gallery
 
 ![The old Prepared Rose Hips model](../assets/Prepared_Rose_Hips_icon_historic.png)
-
-_The old Prepared Rose Hips model_

@@ -4,7 +4,7 @@
 
 **Fuel Cover**
 
-\[\[File: / ![Truck](../assets/Truck_Fuel_Cover.jpg) / _Truck_ / ![Truck](../assets/Truck_Fuel_Cover_Open.jpg) / _Truck_ / ![Car](../assets/Car_Fuel_Cover.jpg) / _Car_ / ![Car](../assets/Car_Fuel_Cover_Open.jpg) / _Car_
+![Truck](../assets/Truck_Fuel_Cover.jpg)<br>![Truck](../assets/Truck_Fuel_Cover_Open.jpg)<br>![Car](../assets/Car_Fuel_Cover.jpg)<br>![Car](../assets/Car_Fuel_Cover_Open.jpg)
 
 250px\]\]
 

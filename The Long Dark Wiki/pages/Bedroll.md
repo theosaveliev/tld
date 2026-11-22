@@ -13,9 +13,7 @@
 
 **Bedroll**
 
-![](../assets/Bedroll_icon.png)
-
-_bedroll\_icon.png_
+![Bedroll icon](../assets/Bedroll_icon.png)
 
 **General**
 
@@ -23,13 +21,13 @@ _bedroll\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)5.0 °C(9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)5.0 °C(9 °F)
 
 **Harvest:** 90 Minutes 10 × [Cloth](./Cloth.md)
 
-**Repair:** 45 Minutes 2 × [Cloth](./Cloth.md) / 30% Condition
+**Repair:** 45 Minutes 2 × [Cloth](./Cloth.md)<br>30% Condition
 
 _This is about the normal cloth bedroll. For a list of other bedrolls see here._
 
@@ -76,5 +74,3 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 ## Gallery
 
 ![Old model.](../assets/Bedroll.png)
-
-_Old model._

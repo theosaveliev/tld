@@ -16,19 +16,13 @@
 
 **Timberwolf Mountain**
 
-![](../assets/Timberwolf_Mountain_title_card.png)
-
-_Timberwolf\_Mountain\_title\_card.png_
+![Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Timberwolf_Mountain_Location.png)
+![Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png)
 
-_Timberwolf\_Mountain\_Location.png_
-
-![](../assets/Timberwolf_Mountain_map.png)
-
-_timberwolf\_mountain\_map.png_
+![Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png)
 
 **Details**
 
@@ -95,61 +89,33 @@ Additionally, a second Landing Gear can be found at the Summit, but this is not 
 
 ![Timberwolf Mountain map v2.35](../assets/3255435617_preview_TWM_default.jpg)
 
-_Timberwolf Mountain map v2.35_
-
 ![Timberwolf Mountain map v2.35 (Interloper-Misery)](../assets/3255435617_preview_TWM_loper.jpg)
-
-_Timberwolf Mountain map v2.35 (Interloper-Misery)_
 
 ![Updated map that includes the entrance for Blackrock Region (v1.98)](../assets/Timberwolf_Mountain_map.png)
 
-_Updated map that includes the entrance for Blackrock Region (v1.98)_
-
-![](../assets/Timberwolf_mountain_titlecard_new.png)
-
-_Timberwolf\_mountain\_titlecard\_new.png_
+![Timberwolf mountain titlecard new](../assets/Timberwolf_mountain_titlecard_new.png)
 
 ## Gallery
 
 ![A landscape view of the region.](../assets/Timberwolf_Mountain_landscape_01.jpg)
 
-_A landscape view of the region._
+![Timberwolf Mountain landscape 02](../assets/Timberwolf_Mountain_landscape_02.jpg)
 
-![](../assets/Timberwolf_Mountain_landscape_02.jpg)
+![Cave (Timberwolf Mountain location 1) exterior](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg)
 
-_Timberwolf\_Mountain\_landscape\_02.jpg_
+![Cave (Timberwolf Mountain location 2)](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg)
 
-![](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg)
+![Chasm Cave interior](../assets/Chasm_Cave_interior.jpg)
 
-_Cave\_(Timberwolf\_Mountain\_location\_1)\_exterior.jpg_
+![Echo Peak West](../assets/Echo_Peak_West.jpg)
 
-![](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg)
+![Echo Ravine](../assets/Echo_Ravine.jpg)
 
-_Cave\_(Timberwolf\_Mountain\_location\_2).jpg_
+![Engine Timberwolf Mountain location](../assets/Engine_-_Timberwolf_Mountain_location.jpg)
 
-![](../assets/Chasm_Cave_interior.jpg)
+![Forest Cave entrance (Timberwolf Mountain location)](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg)
 
-_Chasm\_Cave\_interior.jpg_
-
-![](../assets/Echo_Peak_West.jpg)
-
-_Echo\_Peak\_West.jpg_
-
-![](../assets/Echo_Ravine.jpg)
-
-_Echo\_Ravine.jpg_
-
-![](../assets/Engine_-_Timberwolf_Mountain_location.jpg)
-
-_Engine\_-\_Timberwolf\_Mountain\_location.jpg_
-
-![](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg)
-
-_Forest\_Cave\_-\_entrance\_(Timberwolf\_Mountain\_location).jpg_
-
-![](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
-
-_Wing\_-\_Timberwolf\_Mountain\_location.jpg_
+![Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
 
 \[Missing image: Mountaineer\_Cabin.png\]
 
@@ -157,15 +123,9 @@ _Mountaineer's Hut_
 
 ![Mountaineer's Hut fishing cabin, Crystal Lake](../assets/Crystal_Lake.png)
 
-_Mountaineer's Hut fishing cabin, Crystal Lake_
-
 ![Landing Gear](../assets/Landing_Gear.png)
 
-_Landing Gear_
-
 ![Forest Cave on Timberwolf Mountain](../assets/TLD66.png)
-
-_Forest Cave on Timberwolf Mountain_
 
 ## Game history
 

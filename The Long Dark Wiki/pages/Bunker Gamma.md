@@ -11,15 +11,11 @@
 
 **Bunker Gamma**
 
-![](../assets/Bunker_Gamma.jpg)
-
-_Bunker\_Gamma.jpg_
+![Bunker Gamma](../assets/Bunker_Gamma.jpg)
 
 **Location**
 
-![](../assets/Bunker_Gamma_Location.png)
-
-_Bunker\_Gamma\_Location.png_
+![Bunker Gamma Location](../assets/Bunker_Gamma_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -27,15 +23,11 @@ _Bunker\_Gamma\_Location.png_
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -59,20 +51,10 @@ Of all the bunkers in Signal Void, this one is the most useful as a safehouse. I
 
 ![The main room of the bunker](../assets/Bunker_Gamma_main_room.png)
 
-_The main room of the bunker_
-
 ![The beds and kitchenette in the bunker](../assets/Bunker_Gamma_beds.png)
-
-_The beds and kitchenette in the bunker_
 
 ![The entrance to the bunker, after the snow's been cleared away](../assets/Bunker_Gamma_outdoor.png)
 
-_The entrance to the bunker, after the snow's been cleared away_
-
 ![Entrance lab](../assets/Bunker_Gamma_Entrance.png)
 
-_Entrance lab_
-
 ![The bunker before it is uncovered](../assets/Bunker_Gamma_Snow.jpg)
-
-_The bunker before it is uncovered_

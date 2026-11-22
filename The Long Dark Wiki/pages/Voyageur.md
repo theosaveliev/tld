@@ -2,9 +2,7 @@
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Voyageur)
 
-![](../assets/Voyageur_icon.png)
-
-_Voyageur\_icon.png_
+![Voyageur icon](../assets/Voyageur_icon.png)
 
 > “**Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.**”
 

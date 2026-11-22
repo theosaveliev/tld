@@ -11,7 +11,7 @@
 
 **Bench**
 
-\[\[File: / ![Bench Table](../assets/BenchAndChair.jpg) / _Bench Table_ / ![Couch](../assets/BenchCouch.jpg) / _Couch_ / ![Chair Bench](../assets/WoodenBenchChair.jpg) / _Chair Bench_ / ![Small Table](../assets/WoodenBenchTable.jpg) / _Small Table_
+![Bench Table](../assets/BenchAndChair.jpg)<br>![Couch](../assets/BenchCouch.jpg)<br>![Chair Bench](../assets/WoodenBenchChair.jpg)<br>![Small Table](../assets/WoodenBenchTable.jpg)
 
 250px\]\]
 

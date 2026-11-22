@@ -4,17 +4,13 @@
 
 **Revolver Firearm**
 
-![](../assets/Revolver_Firearm_background.png)
-
-_Revolver\_Firearm\_background.png_
+![Revolver Firearm background](../assets/Revolver_Firearm_background.png)
 
 **Release:** [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 
 **Date:** 6 May 2019
 
-![](../assets/Revolver_Firearm.png)
-
-_Revolver\_Firearm.png_
+![Revolver Firearm](../assets/Revolver_Firearm.png)
 
 **Revolver Firearm** is a [survival skill](./Skills.md) that involves the use of a [revolver](./Revolver.md) to defend oneself from hostile [wildlife](./Wildlife.md), or as a sub-optimal hunting tool.
 

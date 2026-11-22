@@ -4,9 +4,7 @@
 
 **Blackrock Locker Key #2**
 
-![](../assets/Blackrock_Locker_Key_2_icon.png)
-
-_Blackrock\_Locker\_Key\_2\_icon.png_
+![Blackrock Locker Key 2 icon](../assets/Blackrock_Locker_Key_2_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

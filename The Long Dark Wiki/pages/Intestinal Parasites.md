@@ -13,9 +13,7 @@
 
 **Intestinal Parasites**
 
-![](../assets/Intestinal_Parasites_icon.png)
-
-_Intestinal\_Parasites\_icon.png_
+![Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png)
 
 **Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
 
@@ -37,9 +35,9 @@ _Intestinal\_Parasites\_icon.png_
 
 **Treatment**
 
-**Treatment:** 2 x ![](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours
+**Treatment:** 2 x ![Antibiotics icon](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours
 
-**Alternate Treatment:** 1 x ![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/![](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours
+**Alternate Treatment:** 1 x ![Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/![Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours
 
 **Recovery Time:** 10 Days (Stalker) 20 Days (Interloper/Misery)
 

@@ -11,9 +11,7 @@
 
 **Jerry Can**
 
-![](../assets/Jerry_Can_icon.png)
-
-_Jerry\_Can\_icon.png_
+![Jerry Can icon](../assets/Jerry_Can_icon.png)
 
 **General**
 
@@ -23,7 +21,7 @@ _Jerry\_Can\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 - 3.30 kg(0.22 - 7.26 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 - 3.30 kg(0.22 - 7.26 lbs)
 
 > “**An old metal jerry can containing fuel for oil lamps.**”
 >

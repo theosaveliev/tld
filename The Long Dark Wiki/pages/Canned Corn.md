@@ -11,7 +11,7 @@
 
 **Canned Corn**
 
-\[\[File: / ![Sealed](../assets/Canned_Corn_icon.png) / _Sealed_ / ![Opened](../assets/Canned_Corn_%28Opened%29_icon.png) / _Opened_
+![Sealed](../assets/Canned_Corn_icon.png)<br>![Opened](../assets/Canned_Corn_%28Opened%29_icon.png)
 
 250px\]\]
 
@@ -53,11 +53,9 @@ Equipable
 
 **Item key:** GAMEPLAY\_CannedCorn
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Canned Corn** is a packaged [food](./Food%20And%20Drink.md) which recovers hydration by 5% and provides 295 calories.
 

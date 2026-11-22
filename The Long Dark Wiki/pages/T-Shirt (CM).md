@@ -4,9 +4,7 @@
 
 **T-Shirt (CM)**
 
-![](../assets/T-Shirt_%28CM%29_icon.png)
-
-_T-Shirt\_(CM)\_icon.png_
+![T Shirt (CM) icon](../assets/T-Shirt_%28CM%29_icon.png)
 
 **General**
 
@@ -16,32 +14,30 @@ _T-Shirt\_(CM)\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0
 
-**Protection:** ![](../assets/Protection_icon.png)0
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0
 
-**Mobility:** ![](../assets/Mobility_icon.png)0
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**Short-sleeved cotton t-shirt. A remnant from an old summer camp on Great Bear Island.** / In-game description
+**Short-sleeved cotton t-shirt. A remnant from an old summer camp on Great Bear Island.**<br>In-game description
 
 ”
 
@@ -53,10 +49,6 @@ The T-shirt is the worst inner torso clothing in the game. This is more rare tha
 
 ![Clothing model](../assets/T-Shirt_%28CM%29_model.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/T-Shirt_%28CM%29_model_damaged.png)
-
-_Clothing model damaged_
 
 ## Update history

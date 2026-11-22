@@ -4,9 +4,7 @@
 
 **Medical Log**
 
-![](../assets/Medical_Log_icon.png)
-
-_Medical\_Log\_icon.png_
+![Medical Log icon](../assets/Medical_Log_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

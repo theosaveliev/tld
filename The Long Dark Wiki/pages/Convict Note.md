@@ -4,9 +4,7 @@
 
 **Convict Note**
 
-![](../assets/Convict_Note_icon.png)
-
-_Convict\_Note\_icon.png_
+![Convict Note icon](../assets/Convict_Note_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

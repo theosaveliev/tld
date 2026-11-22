@@ -12,9 +12,7 @@
 
 **One Last Thing**
 
-![Grey Mother asks you to deliver Grey Mother's Pearls to the grave of Lilith Barker](../assets/Grey_Mother%27s_Pearls_icon.png)
-
-_Grey Mother asks you to deliver [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to the grave of [Lilith Barker](./Lilith%20Barker.md)_
+![Grey Mother asks you to deliver Grey Mother's Pearls to the grave of Lilith Barker](../assets/Grey_Mother%27s_Pearls_icon.png)<br>_Grey Mother asks you to deliver [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to the grave of [Lilith Barker](./Lilith%20Barker.md)_
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

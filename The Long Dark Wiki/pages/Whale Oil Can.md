@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Whale Oil Can** / ![](../assets/Whale_Oil_Can_icon.png) / _Whale\_Oil\_Can\_icon.png_ / **General** / **Item Type:** Tool\\|- / **Renewable:** Yes / **Statistics** / **Weight:** ![](../assets/Weight_icon.png)0.00-5.10 kg(-11.22 lbs) / > “**An old canister of preserved Whale Oil. Pungent stuff, but flammable and a highly efficient fuel source in the right machine.**” / > / > — In-game description / A **Whale Oil Can** is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [_The Long Dark_](./The%20Long%20Dark.md).
+<br>**Whale Oil Can**<br>![Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png)<br>**General**<br>**Item Type:** Tool\\|-<br>**Renewable:** Yes<br>**Statistics**<br>**Weight:** ![Weight icon](../assets/Weight_icon.png)0.00-5.10 kg(-11.22 lbs)<br>> “**An old canister of preserved Whale Oil. Pungent stuff, but flammable and a highly efficient fuel source in the right machine.**”<br>><br>> — In-game description<br>A **Whale Oil Can** is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

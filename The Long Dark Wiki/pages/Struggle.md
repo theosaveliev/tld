@@ -30,133 +30,27 @@
 
 Struggles typically result in a loss of [Condition](./Condition.md) via the following [Afflictions](./Afflictions.md):
 
-Image
-
-Affliction
-
-Min Damage
-
-Max Damage
-
-![](../assets/Blood_Loss_icon.png)
-
-_Blood\_Loss\_icon.png_
-
-[Blood Loss](./Blood%20Loss.md)
-
-15
-
-20
-
-![](../assets/Sprained_Ankle_icon.png)
-
-_Sprained\_Ankle\_icon.png_
-
-[Sprained Ankle](./Sprained%20Ankle.md)
-
-0
-
-0
-
-![](../assets/Sprained_Wrist_icon.png)
-
-_Sprained\_Wrist\_icon.png_
-
-[Sprained Wrist](./Sprained%20Wrist.md)
-
-0
-
-0
-
-![](../assets/Laceration_icon.png)
-
-_Laceration\_icon.png_
-
-[Laceration](./Laceration.md)
-
-5
-
-10
-
-![](../assets/Minor_Bruising_icon.png)
-
-_Minor\_Bruising\_icon.png_
-
-[Minor Bruising](./Minor%20Bruising.md)
-
-5
-
-10
-
-![](../assets/Major_Bruising_icon.png)
-
-_Major\_Bruising\_icon.png_
-
-[Major Bruising](./Major%20Bruising.md)
-
-10
-
-15
-
-![](../assets/Torn_Clothing_icon.png)
-
-_Torn\_Clothing\_icon.png_
-
-[Torn Clothing](./Torn%20Clothing.md)
-
-15 (To Clothing)
-
-25 (To Clothing)
+| Image | Affliction | Min Damage | Max Damage |
+| --- | --- | --- | --- |
+| ![Blood Loss icon](../assets/Blood_Loss_icon.png) | [Blood Loss](./Blood%20Loss.md) | 15 | 20 |
+| ![Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | 0 | 0 |
+| ![Sprained Wrist icon](../assets/Sprained_Wrist_icon.png) | [Sprained Wrist](./Sprained%20Wrist.md) | 0 | 0 |
+| ![Laceration icon](../assets/Laceration_icon.png) | [Laceration](./Laceration.md) | 5 | 10 |
+| ![Minor Bruising icon](../assets/Minor_Bruising_icon.png) | [Minor Bruising](./Minor%20Bruising.md) | 5 | 10 |
+| ![Major Bruising icon](../assets/Major_Bruising_icon.png) | [Major Bruising](./Major%20Bruising.md) | 10 | 15 |
+| ![Torn Clothing icon](../assets/Torn_Clothing_icon.png) | [Torn Clothing](./Torn%20Clothing.md) | 15 (To Clothing) | 25 (To Clothing) |
 
 The above damage values are always increased by 50% on Interloper.
 
 The following Afflictions can also be acquired during Struggles:
 
-Image
-
-Affliction
-
-Source
-
-![](../assets/Infection_Risk_icon.png)
-
-_Infection\_Risk\_icon.png_
-
-[Infection Risk](./Infection%20Risk.md)
-
-Acquire Blood Loss
-
-![](../assets/Chemical_Poisoning_Risk_icon.png)
-
-_Chemical\_Poisoning\_Risk\_icon.png_
-
-[Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md)
-
-[Poisoned Wolf](./Poisoned%20Wolf.md) Struggles
-
-![](../assets/Pain_icon.png)
-
-_Pain\_icon.png_
-
-[Pain](./Pain.md)
-
-Sprained Ankle/Wrist
-
-![](../assets/Broken_Ribs_icon.png)
-
-_Broken\_Ribs\_icon.png_
-
-[Broken Ribs](./Broken%20Ribs.md)
-
-[Moose](./Moose.md) Struggles
-
-![](../assets/Severe_Lacerations_icon.png)
-
-_Severe\_Lacerations\_icon.png_
-
-[Severe Lacerations](./Severe%20Lacerations.md)
-
-[Cougar](./Cougar.md) Struggles
+| Image | Affliction | Source |
+| --- | --- | --- |
+| ![Infection Risk icon](../assets/Infection_Risk_icon.png) | [Infection Risk](./Infection%20Risk.md) | Acquire Blood Loss |
+| ![Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png) | [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) | [Poisoned Wolf](./Poisoned%20Wolf.md) Struggles |
+| ![Pain icon](../assets/Pain_icon.png) | [Pain](./Pain.md) | Sprained Ankle/Wrist |
+| ![Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | [Moose](./Moose.md) Struggles |
+| ![Severe Lacerations icon](../assets/Severe_Lacerations_icon.png) | [Severe Lacerations](./Severe%20Lacerations.md) | [Cougar](./Cougar.md) Struggles |
 
 Wolf Struggles are partially scripted and can be defended against with certain [Tools](./Tools.md), Bear and Moose struggles are fully scripted and always result in a player defeat. Animals wounded prior to the start of a struggle can be killed during it, and Wolves wounded in struggles can later bleed out and die.
 
@@ -166,259 +60,23 @@ Only 4 Tool options appear once a Struggle begins regardless of how many tools t
 
 Different tools are more or less effective at ending the struggle (scaring the Wolf), injuring, or killing the wolf (e.g., a [Prybar](./Prybar.md) may only scare the animal away, while a [Hatchet](./Hatchet.md) can inflict fatal Blood Loss). If the player chooses a loaded [Revolver](./Revolver.md) for the Wolf struggle, the option to 'Take Shot' will be presented once half of the struggle bar is filled, this fires a round and ends the struggle immediately, scaring the Wolf and potentially killing it or wounding the Wolf.
 
-Image
-
-Weapon
-
-Damage Type
-
-Damage[¹](#fn1)
-
-Flee Chance[²](#fn2)
-
-Puncture Bleedout
-
-Tool Decay
-
-![](../assets/Anywhere_icon.png)
-
-_Anywhere\_icon.png_
-
-Bare Hands
-
-Desperation
-
-0.00%
-
-1.00%
-
-None
-
-0
-
-![](../assets/Hunting_Knife_icon.png)
-
-_Hunting\_Knife\_icon.png_
-
-[Hunting Knife](./Hunting%20Knife.md)
-
-Puncture
-
-3.00%
-
-1.30%
-
-12 min
-
-2
-
-![](../assets/Improvised_Knife_icon.png)
-
-_Improvised\_Knife\_icon.png_
-
-[Improvised Knife](./Improvised%20Knife.md)
-
-Puncture
-
-2.00%
-
-1.30%
-
-20 min
-
-3
-
-![](../assets/Survival_Knife_icon.png)
-
-_Survival\_Knife\_icon.png_
-
-[Survival Knife](./Survival%20Knife.md)
-
-Puncture
-
-3.50%
-
-1.30%
-
-16 min
-
-1.5
-
-![](../assets/Scrap_Metal_Shard_icon.png)
-
-_Scrap\_Metal\_Shard\_icon.png_
-
-[Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
-
-Puncture
-
-3.00%
-
-1.30%
-
-40 min
-
-3
-
-![](../assets/Jeremiah%27s_Knife_icon.png)
-
-_Jeremiah's\_Knife\_icon.png_
-
-[Jeremiah's Knife](./Jeremiah%27s%20Knife.md)
-
-Puncture
-
-3.00%
-
-1.30%
-
-12 min
-
-2
-
-![](../assets/Cougar_Claw_Knife_icon.png)
-
-_Cougar\_Claw\_Knife\_icon.png_
-
-[Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
-
-Puncture
-
-4.00%
-
-1.30%
-
-10 min
-
-2
-
-![](../assets/Hatchet_icon.png)
-
-_Hatchet\_icon.png_
-
-[Hatchet](./Hatchet.md)
-
-Slashing
-
-4.00%
-
-1.50%
-
-30 min
-
-2
-
-![](../assets/Improvised_Hatchet_icon.png)
-
-_Improvised\_Hatchet\_icon.png_
-
-[Improvised Hatchet](./Improvised%20Hatchet.md)
-
-Slashing
-
-3.00%
-
-1.25%
-
-40 min
-
-3
-
-![](../assets/Prybar_icon.png)
-
-_Prybar\_icon.png_
-
-[Prybar](./Prybar.md)
-
-Scare
-
-1.25%
-
-1.50%
-
-None
-
-2
-
-![](../assets/Heavy_Hammer_icon.png)
-
-_Heavy\_Hammer\_icon.png_
-
-[Heavy Hammer](./Heavy%20Hammer.md)
-
-Scare
-
-2.00%
-
-4.00%
-
-None
-
-1
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)[³](#fn3)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-1
-
-![](../assets/Forester%27s_Revolver_icon.png)
-
-_Forester's\_Revolver\_icon.png_
-
-[Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-1
-
-![](../assets/Hunter%27s_Revolver_icon.png)
-
-_Hunter's\_Revolver\_icon.png_
-
-[Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-1
-
-![](../assets/Warden%27s_Revolver_icon.png)
-
-_Warden's\_Revolver\_icon.png_
-
-[Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-1
+| Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
+| ![Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
+| ![Improvised Knife icon](../assets/Improvised_Knife_icon.png) | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | 3 |
+| ![Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture | 3.50% | 1.30% | 16 min | 1.5 |
+| ![Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | 40 min | 3 |
+| ![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
+| ![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | 2 |
+| ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | 2 |
+| ![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
+| ![Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
+| ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
+| ![Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
+| ![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
+| ![Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
 
 Note some [Tools](./Tools.md) cannot be selected as defense options during a Wolf Struggle, this includes the [Hacksaw](./Hacksaw.md), [Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), [Bear Spear](./Bear%20Spear.md), [Distress Pistol](./Distress%20Pistol.md), [Storm Lantern](./Storm%20Lantern.md), [Flashlight](./Flashlight.md), and [Stone](./Stone.md).
 
@@ -452,7 +110,7 @@ Maulings are a more aggressive version of Struggles, wherein the player is unabl
 
 ### Bears
 
-![](../assets/Screen_94b5eb73-fd2a-4e19-8f1c-8391b2ad7bd8_hi.png) A Struggle with a [Bear](./Bear.md) will always result in a loss for the player, because they are unable to take any action during this time. This will result in a loss of -60-90% of pre-struggle condition remaining and two Afflictions: Blood Loss and Infection Risk. Any tools the player is currently holding will be dropped to the ground (along with a random item in the player's inventory) and must be picked up once the player regains consciousness. This can result in wasted [Torch](./Torch.md), [Storm Lantern](./Storm%20Lantern.md), [Flare](./Flare.md) fuel if the player is not careful.
+![Screen 94b5eb73 fd2a 4e19 8f1c 8391b2ad7bd8 hi](../assets/Screen_94b5eb73-fd2a-4e19-8f1c-8391b2ad7bd8_hi.png) A Struggle with a [Bear](./Bear.md) will always result in a loss for the player, because they are unable to take any action during this time. This will result in a loss of -60-90% of pre-struggle condition remaining and two Afflictions: Blood Loss and Infection Risk. Any tools the player is currently holding will be dropped to the ground (along with a random item in the player's inventory) and must be picked up once the player regains consciousness. This can result in wasted [Torch](./Torch.md), [Storm Lantern](./Storm%20Lantern.md), [Flare](./Flare.md) fuel if the player is not careful.
 
 During Wintermute's Chapter 2, the [Bear Spear](./Bear%20Spear.md) may be used against a charging Bear for a "Bear Spear Struggle", which can be won or lost by the player. Hinterland has stated that the spear may become available in Survival Mode in the future.
 
@@ -468,7 +126,7 @@ The in-game mechanics of bear mauling can be deduced from [this YouTube video](h
 
 ### Moose
 
-![](../assets/Moose_Struggle.jpg) Similar to Bears, a Struggle with a [Moose](./Moose.md) will always result in a loss. The Moose tramples the player and knocks them to their feet, then stomps several times before the player passes out. Upon waking up, the player will be temporarily disoriented and lose about 50% Condition, as well as obtaining a [Broken Ribs](./Broken%20Ribs.md) Affliction. Any tools the player is holding when a Moose attacks will be lying on the ground nearby when the player regains consciousness, similar to a Bear mauling.
+![Moose Struggle](../assets/Moose_Struggle.jpg) Similar to Bears, a Struggle with a [Moose](./Moose.md) will always result in a loss. The Moose tramples the player and knocks them to their feet, then stomps several times before the player passes out. Upon waking up, the player will be temporarily disoriented and lose about 50% Condition, as well as obtaining a [Broken Ribs](./Broken%20Ribs.md) Affliction. Any tools the player is holding when a Moose attacks will be lying on the ground nearby when the player regains consciousness, similar to a Bear mauling.
 
 ### Cougars
 
@@ -514,19 +172,11 @@ Aurora Bears will also be just as aggressive, but their damage values remain con
 
 ![An Aurora Wolf Struggle](../assets/Aurora_Wolf_Struggle.jpg)
 
-_An Aurora Wolf Struggle_
-
 ![Cougar Struggle](../assets/Cougar_Struggle.jpg)
-
-_Cougar Struggle_
 
 ![Alpha version Struggle menu](../assets/Alpha_Wolf_Struggle.jpg)
 
-_Alpha version Struggle menu_
-
 ![A Moose staring at the player before stomping them](../assets/Mooseattack.jpg)
-
-_A Moose staring at the player before stomping them_
 
 ![A "Demon Wolf" in the 4 Days of Night Event attacking the player](../assets/Demon_wolf_pounce.jpg)
 

@@ -4,9 +4,7 @@
 
 **Carter Hydro Dam**
 
-![](../assets/Carter_Hydro_Dam_%28Collectible%29_icon.png)
-
-_Carter\_Hydro\_Dam\_(Collectible)\_icon.png_
+![Carter Hydro Dam (Collectible) icon](../assets/Carter_Hydro_Dam_%28Collectible%29_icon.png)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

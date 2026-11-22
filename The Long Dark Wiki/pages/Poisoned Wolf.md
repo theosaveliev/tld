@@ -13,9 +13,7 @@
 
 **Poisoned Wolf**
 
-![](../assets/Poisoned_Wolf.png)
-
-_Poisoned\_Wolf.png_
+![Poisoned Wolf](../assets/Poisoned_Wolf.png)
 
 **Basic Information**
 
@@ -29,16 +27,14 @@ _Poisoned\_Wolf.png_
 
 **Size:** Medium
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.** / [A Page From A Journal](./A%20Page%20From%20A%20Journal.md)
+**This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.**<br>[A Page From A Journal](./A%20Page%20From%20A%20Journal.md)
 
 ”
 
@@ -54,49 +50,12 @@ They are easily identifiable from a distance due to how they carry their heads m
 
 A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt and 2 Fresh Guts, but due to the extreme malnourishment and contaminated meat of the animal, no harvestable Wolf Meat is present on a carcass.
 
-Item
-
-Quantity
-
-Rarity
-
-![](../assets/Wolf_Meat_%28Raw%29_icon.png)
-
-_Wolf\_Meat\_(Raw)\_icon.png_
-
-[Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
-
-0.00 kg
-
-Always[¹](#fn1)
-
-![](../assets/Wolf_Quarter_icon.png)
-
-_Wolf\_Quarter\_icon.png_
-
-[Wolf Quarter](./Wolf%20Quarter.md)
-
-0.00 kg
-
-Always[²](#fn2)
-
-![](../assets/Fresh_Wolf_Pelt_icon.png)
-
-_Fresh\_Wolf\_Pelt\_icon.png_
-
-[Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
-
-1
-
-Always
-
-\[Missing image: Gut\_icon.png\] / _Gut\_icon.png_
-
-[Fresh Gut](./Fresh%20Gut.md)
-
-2
-
-Always
+|  | Item | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always[¹](#fn1) |
+| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always[²](#fn2) |
+| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Behaviour
 
@@ -117,8 +76,6 @@ Poisoned Wolves behave mechanically the same to that of regular Wolves, forming 
 - A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) has no harvestable meat.
 
 ![An Aurora Poisoned Wolf](../assets/Aurora_Poisoned_Wolf.jpg)
-
-_An Aurora Poisoned Wolf_
 
 ### Aurora Poisoned Wolf
 
@@ -141,23 +98,13 @@ Like all predators, Poisoned Wolves glow green and become a more aggressive Auro
 
 ![Concept art of a Poisoned Wolf in the Zone](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
 
-_Concept art of a Poisoned Wolf in the Zone_
-
 ![The carcass of a Poisoned Wolf](../assets/Poisoned_Wolf_Carcass.jpg)
-
-_The carcass of a Poisoned Wolf_
 
 ![A carcass that has been in the snow for some time](../assets/Poisoned_Wolf_Carcass_Snow.jpg)
 
-_A carcass that has been in the snow for some time_
-
 ![ditto.](../assets/Poisoned_Wolf_Carcass_2.jpg)
 
-_ditto._
-
 ![A Poisoned Wolf Struggle](../assets/Poisoned_Wolf_Struggle.jpg)
-
-_A Poisoned Wolf Struggle_
 
 ## Notes
 

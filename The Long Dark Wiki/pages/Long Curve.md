@@ -4,15 +4,11 @@
 
 **Long Curve**
 
-![](../assets/Longcurveupdated.png)
-
-_Longcurveupdated.png_
+![Longcurveupdated](../assets/Longcurveupdated.png)
 
 **Location**
 
-![](../assets/Long_Curve_Location.png)
-
-_Long\_Curve\_Location.png_
+![Long Curve Location](../assets/Long_Curve_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

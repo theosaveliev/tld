@@ -4,9 +4,7 @@
 
 **Molly's Husband**
 
-![](../assets/Molly%27s_Husband_Picture.png)
-
-_Molly's\_Husband\_Picture.png_
+![Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
@@ -50,12 +48,6 @@ Though Molly feels more liberated than ever, Molly's has developed an unhealthy 
 
 ![Molly's Husband once the cloth is pulled back.](../assets/Molly%27s_Husband.jpg)
 
-_Molly's Husband once the cloth is pulled back._
-
 ![Astrid finding a body on a table with a cloth covering it.](../assets/Molly%27s_Husband_Table.jpg)
 
-_Astrid finding a body on a table with a cloth covering it._
-
 ![The exploded rifle.](../assets/Molly%27s_Broken_Rifle.jpg)
-
-_The exploded rifle._

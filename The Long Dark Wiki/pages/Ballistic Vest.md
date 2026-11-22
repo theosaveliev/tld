@@ -12,9 +12,7 @@
 
 **Ballistic Vest**
 
-![](../assets/Ballistic_Vest_icon.png)
-
-_Ballistic\_Vest\_icon.png_
+![Ballistic Vest icon](../assets/Ballistic_Vest_icon.png)
 
 **General**
 
@@ -26,17 +24,17 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![](../assets/Protection_icon.png)50%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)50%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-40%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-40%
 
 **Harvest:** Cannot Harvest
 
@@ -68,11 +66,7 @@ The Ballistic Vest can only be found inside of the main building of [Blackrock P
 
 ![Clothing model icon](../assets/Ballistic_Vest_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Ballistic_Vest_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update History
 

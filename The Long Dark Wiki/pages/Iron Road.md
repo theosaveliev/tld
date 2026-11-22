@@ -23,9 +23,7 @@
 - [References](#references)
 - [Links](#links)
 
-![](../assets/Iron_Road_logo.png)
-
-_Iron\_Road\_logo.png_
+![Iron Road logo](../assets/Iron_Road_logo.png)
 
 > “**Welcome to Cauldron Island. Lost to history, hiding a mystery. A vast northern chain of islands with 100km+ of railway winding its way across the craggy and desolate landscape, and the abandoned remnants of a once-thriving whaling industry there for you to discover.**”
 >
@@ -38,8 +36,6 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 ## Overview
 
 ![Cauldron Island](../assets/Cauldron_Island_Logo.png)
-
-_Cauldron Island_
 
 > “**A century ago, a rich industrialist named Hamish McLeod harnessed the unique properties of Cauldron Island with a plan for economic domination through whale-oil powered technology. But this history was erased, and the dark truth about how things went wrong has been hidden in the past. Until now.**”
 >
@@ -151,55 +147,29 @@ TBA
 
 ![August 2026 teaser for Cauldron Island.](../assets/Tld-august-dev-diary-site-support-img-1.jpg)
 
-_August 2026 teaser for Cauldron Island._
-
 ![Concept art of the Iron Train](../assets/Iron_Road_Steam_Train_Art.png)
-
-_Concept art of the Iron Train_
 
 ![ditto, of the train's cabin](../assets/Prototype_Train_Concept_Art.png)
 
-_ditto, of the train's cabin_
-
 ![Ditto](../assets/IronRoadTrainTrestle.png)
-
-_Ditto_
 
 ![Concept of the Fulmar Boat](../assets/Iron_Road_Boat_Art_2.png)
 
-_Concept of the Fulmar Boat_
-
 ![ditto](../assets/Fulmar_Loading_Screen.png)
-
-_ditto_
 
 ![ditto](../assets/Fulmar_Loading_Screen_2.png)
 
-_ditto_
-
 ![ditto](../assets/Iron_Road_Boat_Art.png)
-
-_ditto_
 
 ![ditto](../assets/Fulmar_Loading_Screen_3.png)
 
-_ditto_
+![Iron Road Train Tracks](../assets/Iron_Road_Train_Tracks.png)
 
-![](../assets/Iron_Road_Train_Tracks.png)
+![Iron Road Decorations](../assets/Iron_Road_Decorations.png)
 
-_Iron\_Road\_Train\_Tracks.png_
+![Iron Road Seal and Seagull](../assets/Iron_Road_Seal_and_Seagull.png)
 
-![](../assets/Iron_Road_Decorations.png)
-
-_Iron\_Road\_Decorations.png_
-
-![](../assets/Iron_Road_Seal_and_Seagull.png)
-
-_Iron\_Road\_Seal\_and\_Seagull.png_
-
-![](../assets/Iron_Road_Clothing_Logo.png)
-
-_Iron\_Road\_Clothing\_Logo.png_
+![Iron Road Clothing Logo](../assets/Iron_Road_Clothing_Logo.png)
 
 ## References
 

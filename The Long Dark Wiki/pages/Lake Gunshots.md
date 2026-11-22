@@ -14,9 +14,7 @@
 
 **Lake Gunshots**
 
-![](../assets/Lake_cabin4.jpg)
-
-_lake\_cabin4.jpg_
+![Lake cabin4](../assets/Lake_cabin4.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -60,8 +58,6 @@ The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20
 - If you choose to take ammo out, the Forest Talker will die and will have [Blood Soaked Forest Talker Documents](./Blood%20Soaked%20Forest%20Talker%20Documents.md) on him. Otherwise, you will get new [Deerskin Pants](./Deerskin%20Pants.md). Both outcomes always leave a [Forest Talker Note](./Forest%20Talker%20Note.md) for Mackenzie inside the cabin, but with a different message depending on what choice you made.
 
 ![The Forest Talker's fate if you take his ammunition](../assets/Lake_Gunshots_Forest_Talker.jpg)
-
-_The Forest Talker's fate if you take his ammunition_
 
 ## Redux Transcript
 

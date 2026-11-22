@@ -4,15 +4,11 @@
 
 **Foundered Track**
 
-![](../assets/Foundered_Track_Front.jpg)
-
-_Foundered\_Track\_Front.jpg_
+![Foundered Track Front](../assets/Foundered_Track_Front.jpg)
 
 **Location**
 
-![](../assets/Foundered_Track_Location.png)
-
-_Foundered\_Track\_Location.png_
+![Foundered Track Location](../assets/Foundered_Track_Location.png)
 
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 

@@ -11,15 +11,11 @@
 
 **Power Plant**
 
-![](../assets/Power_Plant.jpg)
-
-_Power\_Plant.jpg_
+![Power Plant](../assets/Power_Plant.jpg)
 
 **Location**
 
-![](../assets/Power_Plant_Location.png)
-
-_Power\_Plant\_Location.png_
+![Power Plant Location](../assets/Power_Plant_Location.png)
 
 Region
 
@@ -29,7 +25,7 @@ Region
 
 **Type:** Industrial
 
-**Missions:** [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md)
+**Missions:** [The Power Plant](./The%20Power%20Plant.md)<br>[Donner](./Donner.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -45,19 +41,11 @@ Region
 
 ![Arrival at the Power Plant by road](../assets/Power_Plant_access.jpg)
 
-_Arrival at the Power Plant by road_
-
 ![The Power Plant structure, with the catwalk in front](../assets/Power_Plant.jpg)
-
-_The Power Plant structure, with the catwalk in front_
 
 ![River dam at the Power Plant, looking west](../assets/Power_Plant_dam.jpg)
 
-_River dam at the Power Plant, looking west_
-
 ![Power Plant interior](../assets/Power_Plant_interior.jpg)
-
-_Power Plant interior_
 
 ## See also
 

@@ -4,9 +4,7 @@
 
 **Penitent Scholar**
 
-![](../assets/Penitent_Scholar_icon.png)
-
-_Penitent\_Scholar\_icon.png_
+![Penitent Scholar icon](../assets/Penitent_Scholar_icon.png)
 
 **Description:** Complete all Research books.
 

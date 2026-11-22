@@ -14,9 +14,7 @@
 
 **Forest Talkers**
 
-![](../assets/Forest_talker_logo.png)
-
-_Forest\_talker\_logo.png_
+![Forest talker logo](../assets/Forest_talker_logo.png)
 
 **Type:** Eco terrorism
 

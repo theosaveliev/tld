@@ -4,9 +4,7 @@
 
 **A Cry For Help**
 
-![](../assets/Missions_story_ep5_ACryforHelp.png)
-
-_Missions\_story\_ep5\_ACryforHelp.png_
+![Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Perseverance Mills](./Perseverance%20Mills.md) [Desperation Bay](./Desperation%20Bay.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) / [Terry](./Terry.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Jane Yang](./Jane%20Yang.md)<br>[Terry](./Terry.md)
 
 > “**Investigate the strange transmission Terry intercepted.**”
 

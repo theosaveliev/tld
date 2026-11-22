@@ -15,9 +15,7 @@
 
 **A Riddle Among the Shadows**
 
-![](../assets/Forest_Talker_Letter.jpg)
-
-_Forest\_Talker\_Letter.jpg_
+![Forest Talker Letter](../assets/Forest_Talker_Letter.jpg)
 
 Episode
 
@@ -48,15 +46,9 @@ Clue two is found on floor 2, in the area where there's a bed and 3 lockers. It'
 
 ![riddle among shadows - clue 2](../assets/2nd_floor_light_system_clue_-_stand_here.jpg)
 
-_riddle among shadows - clue 2_
-
 ![riddle among shadows - clue 2 flash](../assets/2nd_floor_light_system_clue_-_flashes_7_times.jpg)
 
-_riddle among shadows - clue 2 flash_
-
 ![mines floor 2 - main room](../assets/2nd_floor_room.jpg)
-
-_mines floor 2 - main room_
 
 #### Clue 3
 
@@ -64,31 +56,17 @@ Clue three is found on 5-6 signs on the 2nd and 1st floors. Presumably you've gr
 
 ![yellow marking 1](../assets/Riddle_among_shadows_-_Yellow_marking1.jpg)
 
-_yellow marking 1_
-
 ![yellow marking 2](../assets/Riddle_among_shadows_-_Yellow_marking2.jpg)
-
-_yellow marking 2_
 
 ![yellow marking 3](../assets/Riddle_among_shadows_-_Yellow_marking3.jpg)
 
-_yellow marking 3_
-
 ![yellow marking 4](../assets/Riddle_among_shadows_-_Yellow_marking4.jpg)
-
-_yellow marking 4_
 
 ![yellow marking 5](../assets/Riddle_among_shadows_-_Yellow_marking5.jpg)
 
-_yellow marking 5_
-
 ![yellow marking 6](../assets/Doubleyew.png)
 
-_yellow marking 6_
-
 ![supply cache](../assets/Riddle_Among_the_shadows_-_Supply_cache.jpg)
-
-_supply cache_
 
 #### Combination
 

@@ -27,7 +27,7 @@
 - [Achievements](#achievements)
 - [Gallery](#gallery)
 
-![](../assets/Episode_3.png)**Template:spoiler**
+![Episode 3](../assets/Episode_3.png)**Template:spoiler**
 
 _"In the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood from near-death. Facing the blizzards of Pleasant Valley, Astrid must bring all of her skills as a doctor to bear on the survivors she encounters. Will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?"_
 
@@ -41,9 +41,7 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ### Trauma
 
-![](../assets/Missions_story_ep3_Trauma.png)
-
-_Missions\_story\_ep3\_Trauma.png_
+![Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
 
 _Main article: [Trauma](./Trauma.md)_
 
@@ -53,9 +51,7 @@ _Main article: [Trauma](./Trauma.md)_
 
 ### Fallen Star
 
-![](../assets/Missions_story_ep3_Triage.png)
-
-_Missions\_story\_ep3\_Triage.png_
+![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
 
 _Main article: [Fallen Star](./Fallen%20Star.md)_
 
@@ -65,9 +61,7 @@ _Main article: [Fallen Star](./Fallen%20Star.md)_
 
 ### Coming Storm
 
-![](../assets/Missions_story_ep3_Coming_Storm.png)
-
-_Missions\_story\_ep3\_Coming\_Storm.png_
+![Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png)
 
 _Main article: [Coming Storm](./Coming%20Storm.md)_
 
@@ -77,9 +71,7 @@ _Main article: [Coming Storm](./Coming%20Storm.md)_
 
 ### Aftermath
 
-![](../assets/Missions_story_ep3_Aftermath.png)
-
-_Missions\_story\_ep3\_Aftermath.png_
+![Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png)
 
 _Main article: [Aftermath](./Aftermath.md)_
 
@@ -91,9 +83,7 @@ _Main article: [Aftermath](./Aftermath.md)_
 
 ### Blackrock
 
-![](../assets/Missions_story_ep3_Side.png)
-
-_Missions\_story\_ep3\_Side.png_
+![Missions story ep3 Side](../assets/Missions_story_ep3_Side.png)
 
 _Main article: [Blackrock (mission)](./Blackrock%20%28mission%29.md)_
 
@@ -103,9 +93,7 @@ _Main article: [Blackrock (mission)](./Blackrock%20%28mission%29.md)_
 
 ### Forest Talkers
 
-![](../assets/Missions_story_ep3_Fallen_Star.png)
-
-_Missions\_story\_ep3\_Fallen\_Star.png_
+![Missions story ep3 Fallen Star](../assets/Missions_story_ep3_Fallen_Star.png)
 
 _Main article: [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)_
 
@@ -184,33 +172,25 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 
 ## Achievements
 
-- ![](../assets/Community_Service_icon.png) [Community Service](./Community%20Service.md)
-- ![](../assets/Save_Our_Souls_icon.png) [Save Our Souls](./Save%20Our%20Souls.md)
-- ![](../assets/Hippocratic_Oath_icon.png) [Hippocratic Oath](./Hippocratic%20Oath.md)
-- ![](../assets/He_Lives_icon.png) [He Lives](./He%20Lives.md)
-- ![](../assets/The_Crossroads_Elegy_icon.png) [The Crossroads Elegy](./The%20Crossroads%20Elegy.md)
-- ![](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
-- ![](../assets/Every_Last_One_icon.png) [Every Last One](./Every%20Last%20One.md)
-- ![](../assets/There_Will_Be_Blood_icon.png) [There Will Be Blood](./There%20Will%20Be%20Blood.md)
+- ![Community Service icon](../assets/Community_Service_icon.png) [Community Service](./Community%20Service.md)
+- ![Save Our Souls icon](../assets/Save_Our_Souls_icon.png) [Save Our Souls](./Save%20Our%20Souls.md)
+- ![Hippocratic Oath icon](../assets/Hippocratic_Oath_icon.png) [Hippocratic Oath](./Hippocratic%20Oath.md)
+- ![He Lives icon](../assets/He_Lives_icon.png) [He Lives](./He%20Lives.md)
+- ![The Crossroads Elegy icon](../assets/The_Crossroads_Elegy_icon.png) [The Crossroads Elegy](./The%20Crossroads%20Elegy.md)
+- ![Tall Tales (Achievement) icon](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
+- ![Every Last One icon](../assets/Every_Last_One_icon.png) [Every Last One](./Every%20Last%20One.md)
+- ![There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png) [There Will Be Blood](./There%20Will%20Be%20Blood.md)
 
 ## Gallery
 
 ![The Episode 3 Menu Background](../assets/Episode_3_Menu_Background.png)
 
-_The Episode 3 Menu Background_
-
 ![As of 1.92. The in-game map is this map but rotated 90 degrees clockwise](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
 
-_As of 1.92. The in-game map is this map but rotated 90 degrees clockwise_
-
-![](../assets/Elegy_poster.png)
-
-_Elegy\_poster.png_
+![Elegy poster](../assets/Elegy_poster.png)
 
 ![Crossroads Elegy Poster](../assets/Elegy_poster_cropped.png)
 
-_Crossroads Elegy Poster_
-
-![](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer.jpg)
+![The Long Dark Episode Three CROSSROADS ELEGY Launch Trailer](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer.jpg)
 
 _The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer_

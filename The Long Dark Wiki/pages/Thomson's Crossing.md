@@ -6,13 +6,9 @@
 
 ![The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg)
 
-_The main road in Thomson's Crossing_
-
 **Location**
 
-![](../assets/Thomson%27s_Crossing_Location.png)
-
-_Thomson's\_Crossing\_Location.png_
+![Thomson's Crossing Location](../assets/Thomson%27s_Crossing_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -22,9 +18,7 @@ _Thomson's\_Crossing\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -61,44 +55,22 @@ This area plays a key role in many quests in Episode 3 of Story mode, and it can
 
 ![The Community Hall (Episode3)](../assets/Community_hall_exterior.jpg)
 
-_The Community Hall (Episode3)_
-
 ![The Community Hall (Survival)](../assets/SS-PV-TC_%281%29.jpg)
-
-_The Community Hall (Survival)_
 
 ![The Community Hall](../assets/SS-PV-TC_%287%29.jpg)
 
-_The Community Hall_
-
 ![The Rural Store](../assets/Thomson_market_exterior.jpg)
-
-_The Rural Store_
 
 ![The Rural Store](../assets/SS-PV-TC_%284%29.jpg)
 
-_The Rural Store_
-
 ![The church](../assets/Thomson_crossing_church_exterior.jpg)
-
-_The church_
 
 ![The church](../assets/SS-PV-TC_%286%29.jpg)
 
-_The church_
+![SS PV TC (3)](../assets/SS-PV-TC_%283%29.jpg)
 
-![](../assets/SS-PV-TC_%283%29.jpg)
+![SS PV TC (2)](../assets/SS-PV-TC_%282%29.jpg)
 
-_SS-PV-TC\_(3).jpg_
-
-![](../assets/SS-PV-TC_%282%29.jpg)
-
-_SS-PV-TC\_(2).jpg_
-
-![](../assets/SS-PV-TC_%285%29.jpg)
-
-_SS-PV-TC\_(5).jpg_
+![SS PV TC (5)](../assets/SS-PV-TC_%285%29.jpg)
 
 ![A foreclosed house](../assets/Thomson_crossing_house.jpg)
-
-_A foreclosed house_

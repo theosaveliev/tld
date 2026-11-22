@@ -4,9 +4,7 @@
 
 **Many Falls Vista**
 
-![](../assets/ManyFallsVistaView.png)
-
-_ManyFallsVistaView.png_
+![ManyFallsVistaView](../assets/ManyFallsVistaView.png)
 
 **Location**
 
@@ -30,16 +28,8 @@ The climb up to Many Falls Vista from the valley beneath is a very long one. Unl
 
 ![The view from Many Falls Vista.](../assets/ManyFallsVistaView.png)
 
-_The view from Many Falls Vista._
-
 ![The rope climb leading down.](../assets/ClimbIntoLowerHushedRiverValley.png)
-
-_The rope climb leading down._
 
 ![Another picture of the vista.](../assets/ManyFallsVistaView2.png)
 
-_Another picture of the vista._
-
 ![Many Falls Vista - As the Dead Sleep challenge](../assets/20200202180749_1.jpg)
-
-_Many Falls Vista - As the Dead Sleep challenge_

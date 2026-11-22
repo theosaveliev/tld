@@ -4,15 +4,11 @@
 
 **Freighthopper's Rockfall**
 
-![](../assets/Freighthopper%27s_Rockfall_Title.jpg)
-
-_Freighthopper's\_Rockfall\_Title.jpg_
+![Freighthopper's Rockfall Title](../assets/Freighthopper%27s_Rockfall_Title.jpg)
 
 **Location**
 
-![](../assets/Freighthopper%27s_Rockfall_Location.png)
-
-_Freighthopper's\_Rockfall\_Location.png_
+![Freighthopper's Rockfall Location](../assets/Freighthopper%27s_Rockfall_Location.png)
 
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
@@ -29,5 +25,3 @@ Despite its name, the rockfall shelter is designed to offer more shelter and pro
 The area does not appear as a location on the map, even when surveyed with [Charcoal](./Charcoal.md).
 
 ![Closeup of the inside area](../assets/Freighthopper%27s_Rockfall.jpg)
-
-_Closeup of the inside area_

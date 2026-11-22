@@ -10,13 +10,11 @@
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Forester's Revolver** / ![](../assets/Forester%27s_Revolver_icon.png) / _Forester's\_Revolver\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** No (unique item) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** An old, reliable weapon. Durable. Taken from a Breyerhouse worker by an unknown forest talker. / **Values** / **Weight:** 1.50 kg (3.3 lbs) / **Actions** / **Backpack:** Use, Actions, Drop / **On ground:** Take It, Equip It, Leave It / **Advanced data** / **Item key:** GEAR\_RevolverGreen / **Forester's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+<br>**Forester's Revolver**<br>![Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** No (unique item)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** An old, reliable weapon. Durable. Taken from a Breyerhouse worker by an unknown forest talker.<br>**Values**<br>**Weight:** 1.50 kg (3.3 lbs)<br>**Actions**<br>**Backpack:** Use, Actions, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GEAR\_RevolverGreen<br>**Forester's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 
@@ -40,15 +38,9 @@ The Forester's Revolver spawns somewhere within [Bleak Inlet](./Bleak%20Inlet.md
 
 ![The Revolver on the desk in Pensive Lookout](../assets/Forester%27s_Revolver_Pensive_Lookout.jpg)
 
-_The Revolver on the desk in Pensive Lookout_
-
 ![The Iron sights of the Foresters Revolver](../assets/Foresters_Revolver_Iron_Sights.png)
 
-_The Iron sights of the Foresters Revolver_
-
 ![Foresters Revolver Ground Model](../assets/Foresters_Revolver_Ground_Model.png)
-
-_Foresters Revolver Ground Model_
 
 ## Update history
 

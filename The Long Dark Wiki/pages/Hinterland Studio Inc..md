@@ -14,9 +14,7 @@
 
 **Hinterland Studio Inc.**
 
-![](../assets/Landing%2Blogo%2Bwide2.png)
-
-_Landing+logo+wide2.png_
+![Landing+logo+wide2](../assets/Landing%2Blogo%2Bwide2.png)
 
 **Industry:** Video games
 
@@ -76,11 +74,7 @@ _The Hinterland logo is always found on a [Cup of Coffee](./Cup%20of%20Coffee.md
 
 ![Ditto, bottom](../assets/Cup_of_coffee_bottom.jpg)
 
-_Ditto, bottom_
-
 ![A real world Cup of Coffee coffee cup](../assets/Cup_of_Coffee_Mug_Real.webp)
-
-_A real world Cup of Coffee coffee cup_
 
 ![Lost and Found box with the Hinterland logo](../assets/Lost_and_Found.png)
 
@@ -88,11 +82,7 @@ _[Lost and Found](./Lost%20and%20Found.md) box with the Hinterland logo_
 
 ![The early Hinterland Logo](../assets/Old_Hinterland_Logo.jpg)
 
-_The early Hinterland Logo_
-
 ![Cup of Coffee model with the old logo](../assets/Cup_of_coffee.png)
-
-_Cup of Coffee model with the old logo_
 
 ![The old Hinterland logo on the board in the Jackrabbit Remote Transport hangar in Episode 1](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
 

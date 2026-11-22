@@ -11,9 +11,7 @@
 
 **Tall Tales**
 
-![](../assets/Tall_Tales_%28Achievement%29_icon.png)
-
-_Tall\_Tales\_(Achievement)\_icon.png_
+![Tall Tales (Achievement) icon](../assets/Tall_Tales_%28Achievement%29_icon.png)
 
 **Description:** Investigate all four mysterious local legends.
 

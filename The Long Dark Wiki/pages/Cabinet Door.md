@@ -4,9 +4,7 @@
 
 **Cabinet Door**
 
-![](../assets/Cabinet_Door.jpg)
-
-_Cabinet\_Door.jpg_
+![Cabinet Door](../assets/Cabinet_Door.jpg)
 
 **General**
 

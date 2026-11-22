@@ -4,9 +4,7 @@
 
 **ID - V. Singh**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -38,9 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found near the top of the hill, slightly before encountering Gwen. This is also the corpse that holds the [Passenger Manifest](./Passenger%20Manifest.md). The ID is later returned to Sam at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-![](../assets/V._Singh_location.jpg)
-
-_V.\_Singh\_location.jpg_
+![V. Singh location](../assets/V._Singh_location.jpg)
 
 ## Update history
 

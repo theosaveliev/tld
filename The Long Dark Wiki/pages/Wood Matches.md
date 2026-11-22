@@ -11,9 +11,7 @@
 
 **Wood Matches**
 
-![](../assets/Wood_Matches_icon.png)
-
-_Wood\_Matches\_icon.png_
+![Wood Matches icon](../assets/Wood_Matches_icon.png)
 
 **General**
 
@@ -25,11 +23,11 @@ _Wood\_Matches\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.008 kg(0.02 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.008 kg(0.02 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
 
-**Unit count:** ![](../assets/Unit_count_icon.png)12match
+**Unit count:** ![Unit count icon](../assets/Unit_count_icon.png)12match
 
 > “**Wooden strike-anywhere matches.**”
 >
@@ -64,12 +62,6 @@ Pressing H with a lit match will cause the survivor to flick the match into the 
 
 ![Wood matches' viewmodel](../assets/Matches_viewmodel.jpg)
 
-_Wood matches' viewmodel_
-
 ![old model](../assets/Wood_matches.png)
 
-_old model_
-
 ![Pre Alpha model](../assets/Pre_Alpha_Wood_Matches.jpg)
-
-_Pre Alpha model_

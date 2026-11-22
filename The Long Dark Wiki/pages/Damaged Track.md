@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Damaged_Track)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Damaged Track** / ![](../assets/Damaged_Tracks.jpg) / _Damaged\_Tracks.jpg_ / **General** / **Item Type:** Item / **Wintermute:** No / **Damaged Track** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
+<br>**Damaged Track**<br>![Damaged Tracks](../assets/Damaged_Tracks.jpg)<br>**General**<br>**Item Type:** Item<br>**Wintermute:** No<br>**Damaged Track** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

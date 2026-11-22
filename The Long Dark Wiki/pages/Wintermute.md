@@ -95,107 +95,67 @@ There are three gameplay difficulty options for Wintermute.
 
 ![Green Survivor](../assets/XpMode_Fresh.png)
 
-_Green Survivor_
-
 ![Capable Survivor](../assets/XpMode_Capable.png)
 
-_Capable Survivor_
-
 ![Hardened Survivor](../assets/XpMode_Hardened.png)
-
-_Hardened Survivor_
 
 ## Media
 
 ### Images
 
-![](../assets/The_Long_Dark_-_Story_Mode_image1.png)
+![The Long Dark Story Mode image1](../assets/The_Long_Dark_-_Story_Mode_image1.png)
 
-_The\_Long\_Dark\_-\_Story\_Mode\_image1.png_
+![The Long Dark Story Mode image2](../assets/The_Long_Dark_-_Story_Mode_image2.png)
 
-![](../assets/The_Long_Dark_-_Story_Mode_image2.png)
+![The Long Dark Story Mode image3](../assets/The_Long_Dark_-_Story_Mode_image3.png)
 
-_The\_Long\_Dark\_-\_Story\_Mode\_image2.png_
+![Intro cutscene 1](../assets/Intro_cutscene_1.jpg)
 
-![](../assets/The_Long_Dark_-_Story_Mode_image3.png)
+![Intro cutscene 2](../assets/Intro_cutscene_2.jpg)
 
-_The\_Long\_Dark\_-\_Story\_Mode\_image3.png_
+![Intro cutscene 3](../assets/Intro_cutscene_3.jpg)
 
-![](../assets/Intro_cutscene_1.jpg)
+![Intro cutscene 4](../assets/Intro_cutscene_4.jpg)
 
-_Intro\_cutscene\_1.jpg_
+![Intro cutscene 5](../assets/Intro_cutscene_5.jpg)
 
-![](../assets/Intro_cutscene_2.jpg)
+![Intro cutscene 6](../assets/Intro_cutscene_6.jpg)
 
-_Intro\_cutscene\_2.jpg_
+![Intro cutscene 7](../assets/Intro_cutscene_7.jpg)
 
-![](../assets/Intro_cutscene_3.jpg)
+![The long dark poster2](../assets/The_long_dark_poster2.jpg)
 
-_Intro\_cutscene\_3.jpg_
+![The long dark poster no text](../assets/The_long_dark_poster_no_text.jpg)
 
-![](../assets/Intro_cutscene_4.jpg)
+![The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg)
 
-_Intro\_cutscene\_4.jpg_
+![Aurora mainpage](../assets/Aurora_mainpage.jpg)
 
-![](../assets/Intro_cutscene_5.jpg)
+![The Long Dark Steam header](../assets/The_Long_Dark_Steam_header.jpg)
 
-_Intro\_cutscene\_5.jpg_
+![December update 2018](../assets/December_update_2018.jpg)
 
-![](../assets/Intro_cutscene_6.jpg)
-
-_Intro\_cutscene\_6.jpg_
-
-![](../assets/Intro_cutscene_7.jpg)
-
-_Intro\_cutscene\_7.jpg_
-
-![](../assets/The_long_dark_poster2.jpg)
-
-_The\_long\_dark\_poster2.jpg_
-
-![](../assets/The_long_dark_poster_no_text.jpg)
-
-_The\_long\_dark\_poster\_no\_text.jpg_
-
-![](../assets/The_Long_Dark_Poster.jpg)
-
-_The\_Long\_Dark\_Poster.jpg_
-
-![](../assets/Aurora_mainpage.jpg)
-
-_Aurora\_mainpage.jpg_
-
-![](../assets/The_Long_Dark_Steam_header.jpg)
-
-_The\_Long\_Dark\_Steam\_header.jpg_
-
-![](../assets/December_update_2018.jpg)
-
-_December\_update\_2018.jpg_
-
-![](../assets/December_update_2018_notext.jpg)
-
-_December\_update\_2018\_notext.jpg_
+![December update 2018 notext](../assets/December_update_2018_notext.jpg)
 
 ### Videos
 
-![](../assets/The_Long_Dark_-_Episode_2_%28Luminance_Fugue%29_Opening_Credits.jpg)
+![The Long Dark Episode 2 (Luminance Fugue) Opening Credits](../assets/The_Long_Dark_-_Episode_2_%28Luminance_Fugue%29_Opening_Credits.jpg)
 
 _The\_Long\_Dark\_-\_Episode\_2\_(Luminance\_Fugue)\_Opening\_Credits_
 
-![](../assets/The_Long_Dark_--_WINTERMUTE_REDUX_--_Launch_Trailer_%282018%29.jpg)
+![The Long Dark WINTERMUTE REDUX Launch Trailer (2018)](../assets/The_Long_Dark_--_WINTERMUTE_REDUX_--_Launch_Trailer_%282018%29.jpg)
 
 _The\_Long\_Dark\_--\_WINTERMUTE\_REDUX\_--\_Launch\_Trailer\_(2018)_
 
-![](../assets/The_Long_Dark_--_%22Make_It_Right%22_--_WINTERMUTE_LAUNCH_TRAILER.jpg)
+![The Long Dark "Make It Right" WINTERMUTE LAUNCH TRAILER](../assets/The_Long_Dark_--_%22Make_It_Right%22_--_WINTERMUTE_LAUNCH_TRAILER.jpg)
 
 _The\_Long\_Dark\_--\_"Make\_It\_Right"\_--\_WINTERMUTE\_LAUNCH\_TRAILER_
 
-![](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer.jpg)
+![The Long Dark Episode Three CROSSROADS ELEGY Launch Trailer](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer.jpg)
 
 _The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer_
 
-![](../assets/The_Long_Dark_--_Episode_Four_--_FURY%2C_THEN_SILENCE_--_Teaser.jpg)
+![The Long Dark Episode Four FURY, THEN SILENCE Teaser](../assets/The_Long_Dark_--_Episode_Four_--_FURY%2C_THEN_SILENCE_--_Teaser.jpg)
 
 _The\_Long\_Dark\_--\_Episode\_Four\_--\_FURY,\_THEN\_SILENCE\_--\_Teaser_
 

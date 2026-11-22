@@ -4,9 +4,7 @@
 
 **Spear Head**
 
-![](../assets/Spear_Head_icon.png)
-
-_Spear\_Head\_icon.png_
+![Spear Head icon](../assets/Spear_Head_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -54,11 +52,7 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 ![The Forge menu for building the Spear Head](../assets/Spear_Head.jpg)
 
-_The Forge menu for building the Spear Head_
-
 ![3d model from a second forged Spear Head](../assets/Spear_Head_3d_Model.jpg)
-
-_3d model from a second forged Spear Head_
 
 ## Update history
 

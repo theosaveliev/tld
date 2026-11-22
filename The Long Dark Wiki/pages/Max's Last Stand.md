@@ -4,15 +4,11 @@
 
 **Max's Last Stand**
 
-![](../assets/Max%27s_last_stand.jpg)
-
-_Max's\_last\_stand.jpg_
+![Max's last stand](../assets/Max%27s_last_stand.jpg)
 
 **Location**
 
-![](../assets/Max%27s_Last_Stand_Location.png)
-
-_Max's\_Last\_Stand\_Location.png_
+![Max's Last Stand Location](../assets/Max%27s_Last_Stand_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

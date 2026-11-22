@@ -4,15 +4,11 @@
 
 **Cascading Gap**
 
-![](../assets/Cascading_Gap.jpg)
-
-_Cascading\_Gap.jpg_
+![Cascading Gap](../assets/Cascading_Gap.jpg)
 
 **Location**
 
-![](../assets/Cascading_Gap_Location.png)
-
-_Cascading\_Gap\_Location.png_
+![Cascading Gap Location](../assets/Cascading_Gap_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

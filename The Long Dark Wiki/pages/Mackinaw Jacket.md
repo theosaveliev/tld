@@ -4,9 +4,7 @@
 
 **Mackinaw Jacket**
 
-![](../assets/Mackinaw_Jacket_icon.png)
-
-_Mackinaw\_Jacket\_icon.png_
+![Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Mackinaw\_Jacket\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 60 minutes / 35% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>60 minutes<br>35% condition
 
 > “**Heavy wool jacket with a decidedly Canadian flavour. Beloved by hunters and lumberjacks alike.**”
 >
@@ -52,11 +50,7 @@ In [Wintermute](./Wintermute.md), the jacket will be rewarded to the player in [
 
 ![Clothing model icon](../assets/Mackinaw_Jacket_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Mackinaw_Jacket_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

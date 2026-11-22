@@ -4,9 +4,7 @@
 
 **Overhead Locker**
 
-![](../assets/Overhead_Locker.jpg)
-
-_Overhead\_Locker.jpg_
+![Overhead Locker](../assets/Overhead_Locker.jpg)
 
 **Story item:** Yes
 

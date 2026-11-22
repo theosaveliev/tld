@@ -4,9 +4,7 @@
 
 **Broken Fire Hardened Arrow**
 
-![](../assets/Broken_Fire_Hardened_Arrow_icon.png)
-
-_Broken\_Fire\_Hardened\_Arrow\_icon.png_
+![Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
@@ -33,8 +31,6 @@ _Broken\_Fire\_Hardened\_Arrow\_icon.png_
 A **Broken Fire Hardened Arrow** a broken version of a [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) that has become too badly damaged to function. Unlike [Broken Arrows](./Broken%20Arrow.md), Broken Fire Hardened Arrows are not found in the game world. They can be harvested for 1 [Crow Feather](./Crow%20Feather.md) in 5 minutes. Curiously, they weigh 0.05 Kg more than their unbroken counterparts.
 
 ![All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
-
-_All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right._
 
 ## Update history
 

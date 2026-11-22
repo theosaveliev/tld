@@ -4,9 +4,7 @@
 
 **Bending The Rail**
 
-![](../assets/Bending_The_Rail_icon.png)
-
-_Bending\_The\_Rail\_icon.png_
+![Bending The Rail icon](../assets/Bending_The_Rail_icon.png)
 
 **Description:** Retrieve the Trauma Kit.
 

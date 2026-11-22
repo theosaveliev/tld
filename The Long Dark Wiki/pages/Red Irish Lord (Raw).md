@@ -4,7 +4,7 @@
 
 **Red Irish Lord (Raw)**
 
-\[\[File: / ![Raw](../assets/Red_Irish_Lord_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Red_Irish_Lord_%28Raw%29_Opened_icon.png) / _Opened_
+![Raw](../assets/Red_Irish_Lord_%28Raw%29_icon.png)<br>![Opened](../assets/Red_Irish_Lord_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 

@@ -4,9 +4,7 @@
 
 **Too Greedily, too Deep**
 
-![](../assets/Too_Greedily%2C_too_Deep_icon.png)
-
-_Too\_Greedily,\_too\_Deep\_icon.png_
+![Too Greedily, too Deep icon](../assets/Too_Greedily%2C_too_Deep_icon.png)
 
 **Description:** Survive 25 consecutive days inside the Langston Mine.
 

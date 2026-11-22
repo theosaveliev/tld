@@ -18,9 +18,7 @@
 
 **Jace**
 
-![](../assets/Jace.png)
-
-_Jace.png_
+![Jace](../assets/Jace.png)
 
 **Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 
@@ -28,7 +26,7 @@ _Jace.png_
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
-**Mission:** **•** [Blackrock Blues](./Blackrock%20Blues.md) / **•** [The Power Plant](./The%20Power%20Plant.md) / **•** [The Detonators](./The%20Detonators.md) / **•** [Donner](./Donner.md)
+**Mission:** **•** [Blackrock Blues](./Blackrock%20Blues.md)<br>**•** [The Power Plant](./The%20Power%20Plant.md)<br>**•** [The Detonators](./The%20Detonators.md)<br>**•** [Donner](./Donner.md)
 
 **Location(s):** [Power Plant](./Power%20Plant.md)
 

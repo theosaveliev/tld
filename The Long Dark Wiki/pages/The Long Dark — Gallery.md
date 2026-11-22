@@ -19,223 +19,117 @@
 
 ![Standard day theme](../assets/The_Long_Dark_main_menu_theme.jpg)
 
-_Standard day theme_
-
 ![Standard night theme](../assets/The_Long_Dark_main_menu_theme_night.jpg)
-
-_Standard night theme_
 
 ![Halloween theme](../assets/The_Long_Dark_Halloween_main_menu_theme.jpg)
 
-_Halloween theme_
-
 ![Holiday Theme](../assets/The_Long_Dark-_Christma.jpg)
-
-_Holiday Theme_
 
 ## Official Screenshots
 
 ### Full Release
 
-![](../assets/Release_Image_Slide-01-large.jpg)
+![Release Image Slide 01 large](../assets/Release_Image_Slide-01-large.jpg)
 
-_Release\_Image\_Slide-01-large.jpg_
+![Release Image Slide 02 large](../assets/Release_Image_Slide-02-large.jpg)
 
-![](../assets/Release_Image_Slide-02-large.jpg)
+![Release Image Slide 03 large](../assets/Release_Image_Slide-03-large.jpg)
 
-_Release\_Image\_Slide-02-large.jpg_
+![Release Image Slide 04 large](../assets/Release_Image_Slide-04-large.jpg)
 
-![](../assets/Release_Image_Slide-03-large.jpg)
+![Release Image Slide 05 large](../assets/Release_Image_Slide-05-large.jpg)
 
-_Release\_Image\_Slide-03-large.jpg_
+![Release Image Slide 06 large](../assets/Release_Image_Slide-06-large.jpg)
 
-![](../assets/Release_Image_Slide-04-large.jpg)
+![Release Image Slide 07 large](../assets/Release_Image_Slide-07-large.jpg)
 
-_Release\_Image\_Slide-04-large.jpg_
+![Release Image Slide 08 large](../assets/Release_Image_Slide-08-large.jpg)
 
-![](../assets/Release_Image_Slide-05-large.jpg)
+![Release Image Slide 09 large](../assets/Release_Image_Slide-09-large.jpg)
 
-_Release\_Image\_Slide-05-large.jpg_
-
-![](../assets/Release_Image_Slide-06-large.jpg)
-
-_Release\_Image\_Slide-06-large.jpg_
-
-![](../assets/Release_Image_Slide-07-large.jpg)
-
-_Release\_Image\_Slide-07-large.jpg_
-
-![](../assets/Release_Image_Slide-08-large.jpg)
-
-_Release\_Image\_Slide-08-large.jpg_
-
-![](../assets/Release_Image_Slide-09-large.jpg)
-
-_Release\_Image\_Slide-09-large.jpg_
-
-![](../assets/Release_Image_Slide-10-large.jpg)
-
-_Release\_Image\_Slide-10-large.jpg_
+![Release Image Slide 10 large](../assets/Release_Image_Slide-10-large.jpg)
 
 ### Alpha
 
-![](../assets/The_Long_Dark_-_Campfire.jpg)
+![The Long Dark Campfire](../assets/The_Long_Dark_-_Campfire.jpg)
 
-_The\_Long\_Dark\_-\_Campfire.jpg_
+![The Long Dark Deer](../assets/The_Long_Dark_-_Deer.jpg)
 
-![](../assets/The_Long_Dark_-_Deer.jpg)
+![The Long Dark Safehaven](../assets/The_Long_Dark_-_Safehaven.jpg)
 
-_The\_Long\_Dark\_-\_Deer.jpg_
+![The Long Dark Safehouse](../assets/The_Long_Dark_-_Safehouse.jpg)
 
-![](../assets/The_Long_Dark_-_Safehaven.jpg)
+![The Long Dark screenshot 01](../assets/The_Long_Dark_-_screenshot_01.jpg)
 
-_The\_Long\_Dark\_-\_Safehaven.jpg_
+![The Long Dark screenshot 02](../assets/The_Long_Dark_-_screenshot_02.jpg)
 
-![](../assets/The_Long_Dark_-_Safehouse.jpg)
+![The Long Dark screenshot 03](../assets/The_Long_Dark_-_screenshot_03.jpg)
 
-_The\_Long\_Dark\_-\_Safehouse.jpg_
+![The Long Dark screenshot 04](../assets/The_Long_Dark_-_screenshot_04.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_01.jpg)
+![The Long Dark screenshot 05](../assets/The_Long_Dark_-_screenshot_05.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_01.jpg_
+![The Long Dark screenshot 06](../assets/The_Long_Dark_-_screenshot_06.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_02.jpg)
+![The Long Dark screenshot 07](../assets/The_Long_Dark_-_screenshot_07.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_02.jpg_
+![The Long Dark screenshot 08](../assets/The_Long_Dark_-_screenshot_08.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_03.jpg)
+![The Long Dark screenshot 09](../assets/The_Long_Dark_-_screenshot_09.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_03.jpg_
+![The Long Dark screenshot 10](../assets/The_Long_Dark_-_screenshot_10.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_04.jpg)
+![The Long Dark screenshot 11](../assets/The_Long_Dark_-_screenshot_11.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_04.jpg_
+![The Long Dark screenshot 12](../assets/The_Long_Dark_-_screenshot_12.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_05.jpg)
+![The Long Dark screenshot 13](../assets/The_Long_Dark_-_screenshot_13.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_05.jpg_
+![The Long Dark screenshot 14](../assets/The_Long_Dark_-_screenshot_14.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_06.jpg)
+![The Long Dark screenshot 15](../assets/The_Long_Dark_-_screenshot_15.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_06.jpg_
+![The Long Dark screenshot 16](../assets/The_Long_Dark_-_screenshot_16.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_07.jpg)
+![The Long Dark screenshot 17](../assets/The_Long_Dark_-_screenshot_17.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_07.jpg_
+![The Long Dark screenshot 18](../assets/The_Long_Dark_-_screenshot_18.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_08.jpg)
+![The Long Dark screenshot 19](../assets/The_Long_Dark_-_screenshot_19.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_08.jpg_
+![The Long Dark screenshot 20](../assets/The_Long_Dark_-_screenshot_20.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_09.jpg)
+![The Long Dark A New Dawn](../assets/The_Long_Dark_-_A_New_Dawn.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_09.jpg_
+![The Long Dark Barn](../assets/The_Long_Dark_-_Barn.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_10.jpg)
+![The Long Dark Bow Hunting](../assets/The_Long_Dark_-_Bow_Hunting.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_10.jpg_
+![The Long Dark Bridge](../assets/The_Long_Dark_-_Bridge.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_11.jpg)
+![The Long Dark Burnt Cabin](../assets/The_Long_Dark_-_Burnt_Cabin.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_11.jpg_
+![The Long Dark Dam](../assets/The_Long_Dark_-_Dam.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_12.jpg)
+![The Long Dark Farmstead](../assets/The_Long_Dark_-_Farmstead.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_12.jpg_
+![The Long Dark Home Stead](../assets/The_Long_Dark_-_Home_Stead.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_13.jpg)
+![The Long Dark Lone Wofl](../assets/The_Long_Dark_-_Lone_Wofl.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_13.jpg_
+![The Long Dark Moon Rise](../assets/The_Long_Dark_-_Moon_Rise.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_14.jpg)
+![The Long Dark Quonset](../assets/The_Long_Dark_-_Quonset.jpg)
 
-_The\_Long\_Dark\_-\_screenshot\_14.jpg_
+![The Long Dark Radio Hut](../assets/The_Long_Dark_-_Radio_Hut.jpg)
 
-![](../assets/The_Long_Dark_-_screenshot_15.jpg)
-
-_The\_Long\_Dark\_-\_screenshot\_15.jpg_
-
-![](../assets/The_Long_Dark_-_screenshot_16.jpg)
-
-_The\_Long\_Dark\_-\_screenshot\_16.jpg_
-
-![](../assets/The_Long_Dark_-_screenshot_17.jpg)
-
-_The\_Long\_Dark\_-\_screenshot\_17.jpg_
-
-![](../assets/The_Long_Dark_-_screenshot_18.jpg)
-
-_The\_Long\_Dark\_-\_screenshot\_18.jpg_
-
-![](../assets/The_Long_Dark_-_screenshot_19.jpg)
-
-_The\_Long\_Dark\_-\_screenshot\_19.jpg_
-
-![](../assets/The_Long_Dark_-_screenshot_20.jpg)
-
-_The\_Long\_Dark\_-\_screenshot\_20.jpg_
-
-![](../assets/The_Long_Dark_-_A_New_Dawn.jpg)
-
-_The\_Long\_Dark\_-\_A\_New\_Dawn.jpg_
-
-![](../assets/The_Long_Dark_-_Barn.jpg)
-
-_The\_Long\_Dark\_-\_Barn.jpg_
-
-![](../assets/The_Long_Dark_-_Bow_Hunting.jpg)
-
-_The\_Long\_Dark\_-\_Bow\_Hunting.jpg_
-
-![](../assets/The_Long_Dark_-_Bridge.jpg)
-
-_The\_Long\_Dark\_-\_Bridge.jpg_
-
-![](../assets/The_Long_Dark_-_Burnt_Cabin.jpg)
-
-_The\_Long\_Dark\_-\_Burnt\_Cabin.jpg_
-
-![](../assets/The_Long_Dark_-_Dam.jpg)
-
-_The\_Long\_Dark\_-\_Dam.jpg_
-
-![](../assets/The_Long_Dark_-_Farmstead.jpg)
-
-_The\_Long\_Dark\_-\_Farmstead.jpg_
-
-![](../assets/The_Long_Dark_-_Home_Stead.jpg)
-
-_The\_Long\_Dark\_-\_Home\_Stead.jpg_
-
-![](../assets/The_Long_Dark_-_Lone_Wofl.jpg)
-
-_The\_Long\_Dark\_-\_Lone\_Wofl.jpg_
-
-![](../assets/The_Long_Dark_-_Moon_Rise.jpg)
-
-_The\_Long\_Dark\_-\_Moon\_Rise.jpg_
-
-![](../assets/The_Long_Dark_-_Quonset.jpg)
-
-_The\_Long\_Dark\_-\_Quonset.jpg_
-
-![](../assets/The_Long_Dark_-_Radio_Hut.jpg)
-
-_The\_Long\_Dark\_-\_Radio\_Hut.jpg_
-
-![](../assets/The_Long_Dark_-_Vista.jpg)
-
-_The\_Long\_Dark\_-\_Vista.jpg_
+![The Long Dark Vista](../assets/The_Long_Dark_-_Vista.jpg)
 
 ### Early alpha
 
 ![Forest](../assets/In_game_forest.jpg)
 
-_Forest_
-
 ![Barn](../assets/In_game_barn.jpg)
-
-_Barn_
 
 ![Cabin](../assets/In_game_cabin.jpg)
 
@@ -245,11 +139,7 @@ _[Cabin](./Trapper%27s%20Homestead.md)_
 
 ![Night at the lake cabin](../assets/The_Long_Dark_Night_at_the_Lake_Cabin.png)
 
-_Night at the lake cabin_
-
 ![Dawn](../assets/The_Long_Dark_Dawn_Overview.png)
-
-_Dawn_
 
 ![Mystery Lake overview](../assets/The_Long_Dark_Lake_Overview.png)
 
@@ -260,8 +150,6 @@ _[Mystery Lake](./Mystery%20Lake%20%28location%29.md) overview_
 _Sunset at [Desolation Point](./Desolation%20Point.md)_
 
 ![Sunset at Desolation Point](../assets/Sunset_in_Desolation_Point_02.jpg)
-
-_Sunset at Desolation Point_
 
 #### Locations
 
@@ -287,8 +175,6 @@ _[Bear Creek Campground](./Bear%20Creek%20Campground.md)_
 
 ![Bear Creek Campground](../assets/Bear_Creek_Campground_02.jpg)
 
-_Bear Creek Campground_
-
 ![Tunnel at The Ravine](../assets/The_Ravine_-_tunnel.jpg)
 
 _Tunnel at [The Ravine](./The%20Ravine.md)_
@@ -301,15 +187,11 @@ _Old model of the [wolf](./Wolf.md)_
 
 ![Wolf carcass](../assets/Wolf_Carcass.jpg)
 
-_Wolf carcass_
-
 ![Black bear carcass](../assets/Black_bear_carcass.jpg)
 
 _Black [bear](./Bear.md) carcass_
 
 ![Deer running](../assets/Deer_Running.jpg)
-
-_Deer running_
 
 ![Crows circle above a corpse](../assets/Crows.jpg)
 
@@ -327,35 +209,19 @@ _Lonely Fire / _([story](./Wintermute.md) mode artwork)__
 
 ![Empty campfire](../assets/The_Long_Dark_-_Empty_campfire.jpg)
 
-_Empty campfire_
-
 ![Environment 1](../assets/The_Long_Dark_-_Environment_01.jpg)
-
-_Environment 1_
 
 ![Environment 2](../assets/The_Long_Dark_-_Environment_02.jpg)
 
-_Environment 2_
-
 ![Environment 3](../assets/The_Long_Dark_-_Environment_03.jpg)
-
-_Environment 3_
 
 ![Fireplace](../assets/The_Long_Dark_-_Fireplace.jpg)
 
-_Fireplace_
-
 ![Camper](../assets/Camper.jpg)
-
-_Camper_
 
 ![Garage](../assets/Garage-tld.jpg)
 
-_Garage_
-
 ![Wolf](../assets/Wolf.jpg)
-
-_Wolf_
 
 ![Safe House](../assets/Safe_House.jpg)
 
@@ -363,26 +229,14 @@ _[Safe House](./Safehouse.md)_
 
 ![Poster](../assets/Poster.jpg)
 
-_Poster_
-
 ![Fence](../assets/Forsaken_Airfield.jpg)
-
-_Fence_
 
 ## Miscellaneous
 
 ![Poster](../assets/Large_poster.jpg)
 
-_Poster_
-
 ![Movie poster](../assets/Movie_poster.jpg)
-
-_Movie poster_
 
 ![Key art](../assets/The_Long_Dark_Key_Art-1500px.png)
 
-_Key art_
-
-![](../assets/Wikia-Visualization-Main%2Cintothelongdark.png)
-
-_Wikia-Visualization-Main,intothelongdark.png_
+![Wikia Visualization Main,intothelongdark](../assets/Wikia-Visualization-Main%2Cintothelongdark.png)

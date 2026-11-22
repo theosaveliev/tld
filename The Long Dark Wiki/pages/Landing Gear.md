@@ -4,15 +4,11 @@
 
 **Landing Gear**
 
-![](../assets/Landing_Gear.png)
-
-_Landing\_Gear.png_
+![Landing Gear](../assets/Landing_Gear.png)
 
 **Location**
 
-![](../assets/Landing_Gear_Location.png)
-
-_Landing\_Gear\_Location.png_
+![Landing Gear Location](../assets/Landing_Gear_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

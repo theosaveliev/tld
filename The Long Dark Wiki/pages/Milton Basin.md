@@ -4,15 +4,11 @@
 
 **Milton Basin**
 
-![](../assets/Milton_basin_aerial_view.jpg)
-
-_Milton\_basin\_aerial\_view.jpg_
+![Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg)
 
 **Location**
 
-![](../assets/Milton_Basin_Location.png)
-
-_Milton\_Basin\_Location.png_
+![Milton Basin Location](../assets/Milton_Basin_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -41,16 +37,10 @@ There are two locations in the basin:
 
 ![Camping by the Hermit's Cabin](../assets/Milton_Basin_Cabin.jpg)
 
-_Camping by the Hermit's Cabin_
-
-![](../assets/Milton_Basin1.jpg)
-
-_Milton\_Basin1.jpg_
+![Milton Basin1](../assets/Milton_Basin1.jpg)
 
 ![Overview of the lake with a nearby moose](../assets/Milton_Basin2.jpg)
 
 _Overview of the lake with a nearby [moose](./Moose.md)_
 
 ![Up to 7 deer in Milton Basin (Interloper)](../assets/Milton_Basin_Deer_spawns.jpg)
-
-_Up to 7 deer in Milton Basin (Interloper)_

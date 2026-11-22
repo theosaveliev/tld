@@ -13,9 +13,7 @@
 
 **Fir Firewood**
 
-![](../assets/Fir_Firewood_icon.png)
-
-_Fir\_Firewood\_icon.png_
+![Fir Firewood icon](../assets/Fir_Firewood_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -53,11 +51,11 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 90 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 90 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +8°C (+14.4°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +8°C (+14.4°F)
 
 **Burn Density:** 1.5 hr/kg (0.68 hr/lb)
 

@@ -4,7 +4,7 @@
 
 **Pallets**
 
-\[\[File: / ![Stacked](../assets/PalletsStacked.jpg) / _Stacked_ / ![Piled](../assets/PalletsPiled.jpg) / _Piled_
+![Stacked](../assets/PalletsStacked.jpg)<br>![Piled](../assets/PalletsPiled.jpg)
 
 250px\]\]
 
@@ -12,7 +12,7 @@
 
 **Item Type:** Item
 
-**Wintermute:** Yes / _For a singular pallet, see [Pallet](./Pallet.md)._ / **Pallets** are a stack of interactable objects that can be harvested to produce [Reclaimed Wood](./Reclaimed%20Wood.md). They are often found near industrial areas and stacks of pallets usually come in bulk of 6-7 separate pallets serving as 1 interactable item. Multiple pallets are usually near other stacks. / They require a [Hatchet](./Hatchet.md) to harvest and come in 2 variants, Stacked and Piled Pallets.
+**Wintermute:** Yes<br>_For a singular pallet, see [Pallet](./Pallet.md)._<br>**Pallets** are a stack of interactable objects that can be harvested to produce [Reclaimed Wood](./Reclaimed%20Wood.md). They are often found near industrial areas and stacks of pallets usually come in bulk of 6-7 separate pallets serving as 1 interactable item. Multiple pallets are usually near other stacks.<br>They require a [Hatchet](./Hatchet.md) to harvest and come in 2 variants, Stacked and Piled Pallets.
 
 ## Stacked Pallets
 

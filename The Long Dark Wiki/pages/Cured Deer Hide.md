@@ -11,9 +11,7 @@
 
 **Cured Deer Hide**
 
-![](../assets/Cured_Deer_Hide_icon.png)
-
-_Cured\_Deer\_Hide\_icon.png_
+![Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -53,8 +51,6 @@ Cured Deer Hide is acquired by leaving [Fresh Deer Hide](./Fresh%20Deer%20Hide.m
 ## Gallery
 
 ![Old model](../assets/Cured_deer_hide.png)
-
-_Old model_
 
 ## Update history
 

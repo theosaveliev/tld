@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/FastFilm-500)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **FastFilm-500** / ![](../assets/FastFilm-500_icon.png) / _FastFilm-500\_icon.png_ / **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) / **Renewable:** Yes ([Trader](./Trader.md) only) / **Properties** / **Examine:** A box of Colour Instant Film / **Values** / **Weight:** 0.10 kg (0.22 lbs) / **Actions** / **Backpack:** Examine, Drop, Pick up / **Advanced data** / **Item key:** GEAR\_FilmBoxColour / **FastFilm-500** is a tool used with the [Camera](./Camera.md) to take photos.
+<br>**FastFilm-500**<br>![FastFilm 500 icon](../assets/FastFilm-500_icon.png)<br>**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Examine:** A box of Colour Instant Film<br>**Values**<br>**Weight:** 0.10 kg (0.22 lbs)<br>**Actions**<br>**Backpack:** Examine, Drop, Pick up<br>**Advanced data**<br>**Item key:** GEAR\_FilmBoxColour<br>**FastFilm-500** is a tool used with the [Camera](./Camera.md) to take photos.
 
 ## Overview
 

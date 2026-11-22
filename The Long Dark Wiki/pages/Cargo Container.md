@@ -4,9 +4,7 @@
 
 **Cargo Container**
 
-![](../assets/Cargo_container_new.jpg)
-
-_Cargo\_container\_new.jpg_
+![Cargo container new](../assets/Cargo_container_new.jpg)
 
 **Release:** Dec 2015
 
@@ -31,8 +29,6 @@ Cargo Containers are loot-filled blue-green shipping devices scattered across Ti
 - 2-3 green Wooden Crates which may be broken down for Reclaimed Wood may be found near Cargo Container sites (these crate are always present, even on Interloper when Cargo Containers themselves may not spawn).
 
 ![The containers were gray Until the 1.00 update](../assets/Cargo_container.jpg)
-
-_The containers were gray Until the 1.00 update_
 
 ## Locations
 

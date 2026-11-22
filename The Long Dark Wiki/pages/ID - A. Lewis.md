@@ -4,9 +4,7 @@
 
 **ID - A. Lewis**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -38,9 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning slightly to the left. The ID is later returned to Ruby at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-![](../assets/A._Lewis_location.jpg)
-
-_A.\_Lewis\_location.jpg_
+![A. Lewis location](../assets/A._Lewis_location.jpg)
 
 ## Update history
 

@@ -34,8 +34,6 @@
 
 ![The central hub of the survival Overlay, with all icon sections explained.](../assets/Survival_Overlay_Breakdown.png)
 
-_The central hub of the survival Overlay, with all icon sections explained._
-
 _For the more detailed backpack menus, see [Survival Menu](./Survival%20Menu.md)._
 
 The **Survival Overlay** is an interface that allows the player to quickly judge their situation with. It shows a copious amount of essential information in its entirety through the use of symbol and bars rather than using text to overly explain stats. This includes things like [Needs](./Needs.md), [Condition](./Condition.md), Wind Shield, temperature, Time of Day, and the player's current [Stamina](./Stamina.md).
@@ -80,15 +78,13 @@ These two icons appear in the top middle of the screen.
 
 ### Windshield
 
-![](../assets/Wind_shield_icon.png) Shown as an icon of a shield with wind blowing against its left side, the Windshield Icon will appear whenever you are currently shielded from the wind by an object (such as against a rock wall, inside a [Warm Cave](./Warm%20Cave.md), when pressed against the walls of a ruined building, while inside interior outdoor buildings such as a [Fishing Hut](./Fishing%20Hut.md), or while inside a [Snow Shelter](./Snow%20Shelter.md)). This icon only appears when outdoors.
+![Wind shield icon](../assets/Wind_shield_icon.png) Shown as an icon of a shield with wind blowing against its left side, the Windshield Icon will appear whenever you are currently shielded from the wind by an object (such as against a rock wall, inside a [Warm Cave](./Warm%20Cave.md), when pressed against the walls of a ruined building, while inside interior outdoor buildings such as a [Fishing Hut](./Fishing%20Hut.md), or while inside a [Snow Shelter](./Snow%20Shelter.md)). This icon only appears when outdoors.
 
 When shielded from the wind, the windchill effect of high winds on the player character is negated (increasing player Warmth) and [Campfires](./Campfire.md) built will be protected from becoming [windblown campfires](./Fire.md#Windblown_campfire).
 
 ### Scent
 
-![](../assets/ScentMeter.png)
-
-_ScentMeter.png_
+![ScentMeter](../assets/ScentMeter.png)
 
 [Scent](./Scent.md) is a mechanic which increases the distance which [predators](./Wildlife.md) can detect the survivor by smell. Scent is increased when the survivor is carrying meat and fresh guts, and is affected by wind speed and wind direction. There are 3 meters that increase as the player carries more odorous items. Being Windshielded will prevent the smell from spreading downstream.
 
@@ -98,17 +94,13 @@ Several icons, typically appearing in the bottom center of the screen, will appe
 
 ### Weak Ice
 
-![](../assets/Weak_Ice_icon.png)
-
-_Weak\_Ice\_icon.png_
+![Weak Ice icon](../assets/Weak_Ice_icon.png)
 
 [Weak Ice](./Weak%20Ice.md) will trigger the above icon as a danger warning to back away from the area. Failing to heed this warning will result in the player falling through the ice and taking Condition damage, wetting their clothes, and gaining [Hypothermia](./Hypothermia.md).
 
 ### Timberwolf Morale
 
-![](../assets/Timberwolf_Morale_Bar.jpg)
-
-_Timberwolf\_Morale\_Bar.jpg_
+![Timberwolf Morale Bar](../assets/Timberwolf_Morale_Bar.jpg)
 
 When a [Timberwolf](./Timberwolf.md) pack has been alerted to the presence of the player, a special Morale meter appears in the bottom middle of the screen. Attacking the pack will cause the bar to gradually empty until the pack is entirely killed or scatters, in which it will dissapear.
 
@@ -124,8 +116,6 @@ _The corners of the screen appear yellow when suffering from [Chemical Poisoning
 
 ![The bloody screen and distance meter](../assets/Darkwalker_Very_Bloody_Screen.jpg)
 
-_The bloody screen and distance meter_
-
 Getting close to the Darkwalker in the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md) will cause a distance meter to appear when near the creature, displaying the current distance the monster is to the player.
 
 Two Afflictions unique to the Challenge, [Fear](./Fear.md) and [Anxiety](./Anxiety.md), will also cause the screen to become more and more bloody the closer the player is to the Darkwalker. Walking farther away from the monster will cause the bloody screen to clear up and the distance meter to disappear.
@@ -136,9 +126,7 @@ These icons appear in the bottom right corner of the screen, and are related to 
 
 ### Stamina
 
-![](../assets/Sprint_icon.png)
-
-_Sprint\_icon.png_
+![Sprint icon](../assets/Sprint_icon.png)
 
 [Stamina](./Stamina.md) represents the player's ability to undertake several physically demanding tasks, and appears inside a draining circle similar to Needs. The image inside the bar changes depending on what physical task is being performed:
 
@@ -165,17 +153,13 @@ An icon of a man crouching appears when the player is currently crouching. Stand
 
 ### Carrying Crash Survivor
 
-![](../assets/Burdened_icon.png)
-
-_Burdened\_icon.png_
+![Burdened icon](../assets/Burdened_icon.png)
 
 An icon appears when carrying a [Crash Survivor](./Crash%20Survivor.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). When this icon appears, the player cannot Sprint, use weapons, or enter vehicles.
 
 ### Over Encumbered
 
-![](../assets/Weight_icon.png)
-
-_Weight\_icon.png_
+![Weight icon](../assets/Weight_icon.png)
 
 A weight icon related to the player's current [Encumbrance](./Encumbrance.md) level will appear in the bottom right. If the player is currently under their Carry Weight, the weight will appear green. If they are Over Encumbered, a red weight icon will appear instead, and will not disappear until the player's Encumbrance goes below their max Carry Weight again.
 
@@ -221,11 +205,7 @@ _The first Survival Overlay in the Alpha game versions was inside the [Survival 
 
 ![0.264 (Desolation Point Update)](../assets/Survival_Overlay_old.png)
 
-_0.264 (Desolation Point Update)_
-
 ![V1.00 overlay (Needs are in the middle of the screen)](../assets/The_Long_Dark_updated_Radial_Menu.png)
-
-_V1.00 overlay (Needs are in the middle of the screen)_
 
 ## Notes
 

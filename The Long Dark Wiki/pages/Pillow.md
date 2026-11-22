@@ -4,7 +4,7 @@
 
 **Pillow**
 
-\[\[File: / ![White](../assets/Pillow.jpg) / _White_ / ![Red](../assets/PillowRed.jpg) / _Red_
+![White](../assets/Pillow.jpg)<br>![Red](../assets/PillowRed.jpg)
 
 250px\]\]
 

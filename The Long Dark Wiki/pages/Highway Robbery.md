@@ -6,9 +6,7 @@ _For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%2
 
 **Highway Robbery**
 
-![](../assets/Highway_Robbery_icon.png)
-
-_Highway\_Robbery\_icon.png_
+![Highway Robbery icon](../assets/Highway_Robbery_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -15,9 +15,7 @@
 
 **Cured Leather**
 
-![](../assets/Cured_Leather_icon.png)
-
-_Cured\_Leather\_icon.png_
+![Cured Leather icon](../assets/Cured_Leather_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -84,11 +82,7 @@ Cured Leather is harvested from and used to repair:
 
 ![Old model.](../assets/Cured_leather.png)
 
-_Old model._
-
 ![ditto, with old Scrap Metal model](../assets/Materials.png)
-
-_ditto, with old Scrap Metal model_
 
 ## Update history
 

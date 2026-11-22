@@ -16,15 +16,11 @@
 
 **Hunting Lodge**
 
-![](../assets/Hunting_lodge.jpg)
-
-_Hunting\_lodge.jpg_
+![Hunting lodge](../assets/Hunting_lodge.jpg)
 
 **Location**
 
-![](../assets/Hunting_Lodge_Location.png)
-
-_Hunting\_Lodge\_Location.png_
+![Hunting Lodge Location](../assets/Hunting_Lodge_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -34,15 +30,11 @@ _Hunting\_Lodge\_Location.png_
 
 **Type:** ResidentialMilitary/Sporting
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -94,20 +86,10 @@ The fact that a car and truck are present at the Lodge makes no logical sense, a
 
 ![A chain-link gate at the base of the hill that leads to the lodge](../assets/Gate_to_lodge.jpg)
 
-_A chain-link gate at the base of the hill that leads to the lodge_
-
 ![The sign on the path to the lodge](../assets/Lodge_sign.jpg)
-
-_The sign on the path to the lodge_
 
 ![The main floor](../assets/Hunting_lodge_main_floor.jpg)
 
-_The main floor_
-
 ![The basement](../assets/Hunting_lodge_basement.jpg)
 
-_The basement_
-
 ![The top floor](../assets/Hunting_lodge_top_floor.jpg)
-
-_The top floor_

@@ -4,15 +4,11 @@
 
 **Lonely Cave**
 
-![](../assets/LonelyCave.png)
-
-_LonelyCave.png_
+![LonelyCave](../assets/LonelyCave.png)
 
 **Location**
 
-![](../assets/Lonely_Cave_Location.png)
-
-_Lonely\_Cave\_Location.png_
+![Lonely Cave Location](../assets/Lonely_Cave_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

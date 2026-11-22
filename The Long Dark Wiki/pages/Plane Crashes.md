@@ -41,28 +41,14 @@ Crash sites offer decent loot. A frozen corpse or backpack can often be found in
 
 ![Muskeg Overlook Helicopter](../assets/Muskeg_Overlook_Helicopter.png)
 
-_Muskeg Overlook Helicopter_
-
 ![Lonely cave crashed plane](../assets/Crashed_Plane_Hushed_River_Valley.jpg)
-
-_Lonely cave crashed plane_
 
 ![Forestry Lookout crashed plane](../assets/Crashed_Plane_Mystery_Lake.jpg)
 
-_Forestry Lookout crashed plane_
-
 ![Coastal House crashed plane](../assets/Airplane_Crash_Coastal_Highway.jpg)
-
-_Coastal House crashed plane_
 
 ![Fallow Dugout Helicopter](../assets/Fallow_Dugout_crash.png)
 
-_Fallow Dugout Helicopter_
-
 ![Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png)
 
-_Shoulder Lake Airplane_
-
 ![Old Corral Helicopter](../assets/Old_corral_crash.png)
-
-_Old Corral Helicopter_

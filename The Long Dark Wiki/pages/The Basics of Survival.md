@@ -20,8 +20,6 @@
 
 ![One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png)
 
-_One of the skill books that will start the mission_
-
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Current:** The Basics of Survival
@@ -54,13 +52,13 @@ Each found book adds a new task to the mission tracker.
 
 ### Mending clothing
 
-![](../assets/A_Sewing_Primer_icon.png) This mission objective can be started after finding the [Collectible](./Collectibles.md) [A Sewing Primer](./A%20Sewing%20Primer.md), which is located on the second floor of [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) where [Grey Mother](./Grey%20Mother.md) is located.
+![A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) This mission objective can be started after finding the [Collectible](./Collectibles.md) [A Sewing Primer](./A%20Sewing%20Primer.md), which is located on the second floor of [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) where [Grey Mother](./Grey%20Mother.md) is located.
 
 A [Sewing Kit](./Sewing%20Kit.md) and [Cloth](./Cloth.md) are required to complete this objective, as well as a piece of damaged [clothing](./Clothing.md). All three can be found by scavenging houses within the town of [Milton](./Milton.md).
 
 ### Preparing natural medicine
 
-![](../assets/Medicinal_Plants_of_Great_Bear_icon.png) This mission objective can be started after finding the [collectible](./Collectibles.md) [Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md), which is located in the [Milton Post Office](./Milton%20Post%20Office.md) within the town of [Milton](./Milton.md). To complete the objective, the Mackenzie must prepare the following medicine:
+![Medicinal Plants of Great Bear icon](../assets/Medicinal_Plants_of_Great_Bear_icon.png) This mission objective can be started after finding the [collectible](./Collectibles.md) [Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md), which is located in the [Milton Post Office](./Milton%20Post%20Office.md) within the town of [Milton](./Milton.md). To complete the objective, the Mackenzie must prepare the following medicine:
 
 - (3) [Reishi Tea](./Reishi%20Tea.md)
 - (3) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
@@ -88,7 +86,7 @@ A total of 72 [Rose Hips](./Rose%20Hip.md) are required to craft 3 [Prepared Ros
 
 ### Snaring a rabbit
 
-![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) This mission objective can be started after finding the [collectible](./Collectibles.md) [Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md), which is located at the [Work Bench](./Work%20Bench.md) in the shed outside [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). A [snare](./Snare.md) is also on the work bench near the book, and can be used by the survivor to complete the mission objective. Alternatively, it can be found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) on the first floor of the [Hunting Lodge](./Hunting%20Lodge.md) in the [Broken Railroad](./Broken%20Railroad.md) region.
+![Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) This mission objective can be started after finding the [collectible](./Collectibles.md) [Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md), which is located at the [Work Bench](./Work%20Bench.md) in the shed outside [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). A [snare](./Snare.md) is also on the work bench near the book, and can be used by the survivor to complete the mission objective. Alternatively, it can be found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) on the first floor of the [Hunting Lodge](./Hunting%20Lodge.md) in the [Broken Railroad](./Broken%20Railroad.md) region.
 
 There are [rabbits](./Rabbit.md) located around the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) area for the survivor to snare; alternatively, there are rabbits located near the pond at the [Radio Tower](./Radio%20Tower.md) behind Grey Mother's House.
 

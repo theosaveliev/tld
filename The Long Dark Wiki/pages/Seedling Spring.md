@@ -4,15 +4,11 @@
 
 **Seedling Spring**
 
-![](../assets/Seedling_Spring.jpg)
-
-_Seedling\_Spring.jpg_
+![Seedling Spring](../assets/Seedling_Spring.jpg)
 
 **Location**
 
-![](../assets/Seedling_Spring_Location.png)
-
-_Seedling\_Spring\_Location.png_
+![Seedling Spring Location](../assets/Seedling_Spring_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -31,8 +27,6 @@ It is a small frozen pond, south of [Last Lonely House](./Last%20Lonely%20House.
 A [Rope Climbing](./Rope%20Climbing.md) section near the cliff to the mountain road is found to the south east, and leads to a cave entrance with 2 [Rose Hip](./Rose%20Hip.md) bushes. The cave system can be followed and leads to a hidden path into the mountains underneath [Baneful Bridge](./Baneful%20Bridge.md), eventually ending at a [Frozen Corpse](./Frozen%20Corpse.md) with a [Backpack](./Backpack.md) overlooking a cliff to the mountain road, which can be jumped down (beware the one way trip) to reach Baneful Bridge or [Lotte's Rest](./Lotte%27s%20Rest.md).
 
 ![The spring up close](../assets/Seedling_Spring_resized.png)
-
-_The spring up close_
 
 ![The nearby Miserable Haunt cave](../assets/Miserable_Haunt.jpg)
 

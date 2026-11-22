@@ -4,7 +4,7 @@
 
 **Metal Lamp**
 
-\[\[File: / ![Small](../assets/MetalLamp.jpg) / _Small_ / ![Large](../assets/Metal_Lamp_Large.jpg) / _Large_ / ![Aurora](../assets/MetalLampAurora.jpg) / _Aurora_
+![Small](../assets/MetalLamp.jpg)<br>![Large](../assets/Metal_Lamp_Large.jpg)<br>![Aurora](../assets/MetalLampAurora.jpg)
 
 250px\]\]
 

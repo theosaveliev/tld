@@ -11,9 +11,7 @@
 
 **Rabbit (Cooked)**
 
-![](../assets/Rabbit_%28Cooked%29_icon.png)
-
-_Rabbit\_(Cooked)\_icon.png_
+![Rabbit (Cooked) icon](../assets/Rabbit_%28Cooked%29_icon.png)
 
 **Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
 
@@ -65,27 +63,15 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ![Fresh](../assets/Rabbit_%28Cooked%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Rabbit_%28Cooked%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Rabbit_%28Cooked%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Rabbit_%28Cooked%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Rabbit_%28Cooked%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old Model](../assets/Rabbit_cooked.png)
-
-_Old Model_
 
 ## Update history
 

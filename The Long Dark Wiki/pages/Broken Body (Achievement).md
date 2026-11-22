@@ -4,9 +4,7 @@
 
 **Broken Body**
 
-![](../assets/Broken_Body_%28Achievement%29_icon.png)
-
-_Broken\_Body\_(Achievement)\_icon.png_
+![Broken Body (Achievement) icon](../assets/Broken_Body_%28Achievement%29_icon.png)
 
 **Description:** Survive long enough to receive the final Affliction in Misery Mode.
 

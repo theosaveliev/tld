@@ -4,9 +4,7 @@
 
 **Medical Locker**
 
-![](../assets/Medical_Locker.png)
-
-_Medical\_Locker.png_
+![Medical Locker](../assets/Medical_Locker.png)
 
 **Story item:** Yes
 

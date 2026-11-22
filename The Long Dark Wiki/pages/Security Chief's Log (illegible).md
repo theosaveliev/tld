@@ -4,9 +4,7 @@
 
 **Security Chief's Log \[illegible...\]**
 
-![](../assets/Security_Chief%27s_Log_%28illegible%29_icon.png)
-
-_Security\_Chief's\_Log\_(illegible)\_icon.png_
+![Security Chief's Log (illegible) icon](../assets/Security_Chief%27s_Log_%28illegible%29_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

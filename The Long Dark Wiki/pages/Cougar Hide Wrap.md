@@ -4,9 +4,7 @@
 
 **Cougar Hide Wrap**
 
-![](../assets/Cougar_Hide_Wrap_icon.png)
-
-_Cougar\_Hide\_Wrap\_icon.png_
+![Cougar Hide Wrap icon](../assets/Cougar_Hide_Wrap_icon.png)
 
 **General**
 
@@ -16,29 +14,27 @@ _Cougar\_Hide\_Wrap\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)4.0 °C(7.2 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![](../assets/Protection_icon.png)6%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)6%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / 90 minutes
+**Harvest:** 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md)<br>90 minutes
 
-**Repair:** 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 240 minutes / 70% condition
+**Repair:** 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>240 minutes<br>70% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**A superior Wrap crafted from the warm, protective hide of a Cougar.**” / > / > — In-game description / A **Cougar Hide Wrap** is a craftable [Clothing](./Clothing.md) worn on the outer layer of the head.
+<br>> “**A superior Wrap crafted from the warm, protective hide of a Cougar.**”<br>><br>> — In-game description<br>A **Cougar Hide Wrap** is a craftable [Clothing](./Clothing.md) worn on the outer layer of the head.
 
 ## Overview
 
@@ -50,11 +46,7 @@ A Cougar Hide Wrap can be harvested and re-crafted to restore its condition, rec
 
 ![Clothing model](../assets/Cougar_Hide_Wrap_Model.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Cougar_Hide_Wrap_Model_Damaged.png)
-
-_Clothing model damaged_
 
 ## Crafting
 

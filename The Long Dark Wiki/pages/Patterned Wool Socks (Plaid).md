@@ -4,9 +4,7 @@
 
 **Patterned Wool Socks (Plaid)**
 
-![](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)
-
-_Patterned\_Wool\_Socks\_(Plaid)\_icon.png_
+![Patterned Wool Socks (Plaid) icon](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)
 
 **General**
 
@@ -16,29 +14,27 @@ _Patterned\_Wool\_Socks\_(Plaid)\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)0%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 45 minutes / 55% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>45 minutes<br>55% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**Patterned Wool socks. Tough and warm.**” / > / > — in-game description / **Patterned Wool Socks (Plaid)** is the name given to 3 unique variations of [Wool Socks](./Wool%20Socks.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
+<br>> “**Patterned Wool socks. Tough and warm.**”<br>><br>> — in-game description<br>**Patterned Wool Socks (Plaid)** is the name given to 3 unique variations of [Wool Socks](./Wool%20Socks.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -48,10 +44,6 @@ Wool Socks are the best available socks in [Interloper](./Interloper.md)/ [Miser
 
 ![Clothing model](../assets/Patterned_Wool_Socks_%28Plaid%29_model.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Patterned_Wool_Socks_%28Plaid%29_model_damaged.png)
-
-_Clothing model damaged_
 
 ## Update history

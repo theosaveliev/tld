@@ -17,9 +17,7 @@
 
 **Oak Tree**
 
-![](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png)
-
-_Oak\_tree\_in\_Mystery\_Lake\_on\_a\_foggy\_day.png_
+![Oak tree in Mystery Lake on a foggy day](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png)
 
 **Release:** 2.10
 
@@ -75,8 +73,6 @@ Oak Trees can be found in the Following locations.
 _[Acorns](./Acorns.md) can be found in the interactable areas at the base of oak trees._
 
 ![A line of oak trees in Transfer Pass](../assets/Oak_trees_Transfer_Pass.jpg)
-
-_A line of oak trees in Transfer Pass_
 
 ## Update history
 

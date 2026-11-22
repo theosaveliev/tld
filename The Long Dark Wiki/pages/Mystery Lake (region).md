@@ -99,26 +99,14 @@ The inside of Trapper's Homestead is labeled Trapper's Cabin.
 
 ![Mystery Lake map v2.35](../assets/Mystery_Lake_map_v2.35.jpg)
 
-_Mystery Lake map v2.35_
-
 ![Mystery Lake map v2.35 (Interloper/Misery Edition)](../assets/Mystery_Lake_map_v2.35_%28Interloper-Misery%29.jpg)
 
-_Mystery Lake map v2.35 (Interloper/Misery Edition)_
+![Mystery Lake map by Sniper Bob](../assets/Mystery_Lake_map_by_Sniper_Bob.jpg)
 
-![](../assets/Mystery_Lake_map_by_Sniper_Bob.jpg)
-
-_Mystery\_Lake\_map\_by\_Sniper\_Bob.jpg_
-
-![](../assets/Map-ML-lv3-v183.png)
-
-_Map-ML-lv3-v183.png_
+![Map ML lv3 v183](../assets/Map-ML-lv3-v183.png)
 
 ![In-game charcoal map](../assets/Mystery_lake_map.png)
-
-_In-game charcoal map_
 
 ## Gallery
 
 ![A promotional poster](../assets/Mystery_lake_poster.png)
-
-_A promotional poster_

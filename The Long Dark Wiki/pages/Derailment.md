@@ -4,15 +4,11 @@
 
 **Derailment**
 
-![](../assets/Derailment_2.jpg)
-
-_Derailment\_2.jpg_
+![Derailment 2](../assets/Derailment_2.jpg)
 
 **Location**
 
-![](../assets/Derailment_Location.png)
-
-_Derailment\_Location.png_
+![Derailment Location](../assets/Derailment_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -32,6 +28,4 @@ To enter the car with the open door, you must walk up the fallen tree. You canno
 
 ## Gallery
 
-![](../assets/Derailment.jpg)
-
-_Derailment.jpg_
+![Derailment](../assets/Derailment.jpg)

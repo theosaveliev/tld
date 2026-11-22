@@ -2,7 +2,7 @@
 
 **Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Helicopter)
 
-![](../assets/Helicopter.jpg) **Helicopters** are the rarest of any [Vehicle](./Vehicle.md) on [Great Bear Island](./Great%20Bear%20Island.md), second only to [Buses](./Bus.md) and [Earth Movers](./Haul%20Truck.md). Most are only found in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region and provide a small warmth bonus and complete protection from wind-chill as [Cars](./Car.md), [Trucks](./Truck.md), and [Tractors](./Tractor.md) would. They can also be used as a temporary shelter to sleep or evade wildlife.
+![Helicopter](../assets/Helicopter.jpg) **Helicopters** are the rarest of any [Vehicle](./Vehicle.md) on [Great Bear Island](./Great%20Bear%20Island.md), second only to [Buses](./Bus.md) and [Earth Movers](./Haul%20Truck.md). Most are only found in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region and provide a small warmth bonus and complete protection from wind-chill as [Cars](./Car.md), [Trucks](./Truck.md), and [Tractors](./Tractor.md) would. They can also be used as a temporary shelter to sleep or evade wildlife.
 
 Helicopters contain the most loot containers of any vehicle, often containing 2 side hatches and 2 cylindrical hatches on the outside, 2 baskets that often contain loot, and many lockers inside the passenger cabin. Like other vehicles during an [Aurora](./Aurora.md), the electronics of a Helicopter will turn back on.
 
@@ -12,15 +12,9 @@ Only 1 Helicopter can be found in Lower Great Bear, crashed on a ridge near [Mus
 
 ![A crashed helicopter in Forlorn Muskeg](../assets/Muskeg_Overlook_Helicopter.png)
 
-_A crashed helicopter in Forlorn Muskeg_
-
 ![The cockpit during an aurora](../assets/Helicopter_aurora.png)
 
-_The cockpit during an aurora_
-
 ![The Final Approach medical helicopter](../assets/Final_Approach_Close.jpg)
-
-_The Final Approach medical helicopter_
 
 ![Flight Instruments during Glimmer Fog](../assets/Old_Corral_crashed_helicopter_.png)
 

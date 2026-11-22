@@ -149,8 +149,6 @@ The [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) features an elec
 
 ![The aurora borealis in Nova Scotia, October 2024.](../assets/Aurora_in_Nova_Scotia_October_2024_View_NW.jpg)
 
-_The aurora borealis in Nova Scotia, October 2024._
-
 - [The Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event) may be an inspiration for _The Long Dark_. Like "The First Flare", it was a geo-magnetic storm during the 1–2 of September 1859. It resulted in widespread auras at low latitudes: Hawaii, Cuba, Queensland, Japan and Colombia. It caused telegraph pylons to throw sparks, shocked operators, powered telegraphs (even when turned off), and was bright enough to allow reading at night.
 
 - Radios found in buildings or inside vehicle consoles can be turned on/off through interaction. If "on" during an aurora, they will play "Glenn Gould performing Bach: Goldberg Variations, BWV988 - Variation 6 Canon"
@@ -169,27 +167,15 @@ _Aurora _(early alpha)__
 
 ![Aurora on the sky (Full version)](../assets/The_Long_Dark_20170813115027.jpg)
 
-_Aurora on the sky (Full version)_
-
 ![Aurora's Horizon](../assets/The_Long_Dark_20170818004814.jpg)
-
-_Aurora's Horizon_
 
 ![Electronics turned on due to Aurora](../assets/The_Long_Dark_20170813232937.jpg)
 
-_Electronics turned on due to Aurora_
-
 ![TV set and computer monitor turned on due to Aurora](../assets/The_Long_Dark_20170813233306.jpg)
-
-_TV set and computer monitor turned on due to Aurora_
 
 ![Wolves afraid of a street light turned on by Aurora](../assets/The_Long_Dark_20170813114638.jpg)
 
-_Wolves afraid of a street light turned on by Aurora_
-
 ![Cabin lights flickering](../assets/The_Long_Dark_20170818004943.jpg)
-
-_Cabin lights flickering_
 
 ![The Carter Hydro Dam during an aurora](../assets/Carter_Hydro_Dam_Aurora.jpg)
 
@@ -197,24 +183,12 @@ _The [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) during an aurora_
 
 ![Mystery Lake's Camp Office during an Aurora.](../assets/Aurora.jpg)
 
-_Mystery Lake's Camp Office during an Aurora._
-
 ![Car's lights flickering with a wolf waiting in distance, afraid of the lights during the Aurora](../assets/Cars_during_aurora.jpg)
-
-_Car's lights flickering with a wolf waiting in distance, afraid of the lights during the Aurora_
 
 ![The elevator powered by Aurora.](../assets/SS-AM-Aurora-2F.jpg)
 
-_The elevator powered by Aurora._
-
 ![Electronics turned on due to Aurora](../assets/20191114055253_1.jpg)
-
-_Electronics turned on due to Aurora_
 
 ![Lighthouse turned on due to Aurora](../assets/Aurora-lighthouse.jpg)
 
-_Lighthouse turned on due to Aurora_
-
 ![Another shot of Mystery Lake's Camp Office during an Aurora.](../assets/Camp_Office_-_Aurora.jpg)
-
-_Another shot of Mystery Lake's Camp Office during an Aurora._

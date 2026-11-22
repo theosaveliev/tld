@@ -19,9 +19,7 @@
 
 **Jeremiah's Hideout**
 
-![](../assets/Aurora_hatch.png)
-
-_Aurora\_hatch.png_
+![Aurora hatch](../assets/Aurora_hatch.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -129,8 +127,6 @@ Mackenzie: "I'd better stay focused on finding Astrid."
 ## Gallery
 
 ![The Aurora Hatch.](../assets/Aurora_hatch.png)
-
-_The Aurora Hatch._
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **To SAR And Back**
 
-![](../assets/Missions_story_ep5_ToSARandBack.png)
-
-_Missions\_story\_ep5\_ToSARandBack.png_
+![Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Railway](./Railway.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) / [Mathis](./Mathis.md) / [Jane Yang](./Jane%20Yang.md) / [Donner](./Donner.md) / [Heller](./Heller.md) / [Vachon](./Vachon.md) / [Jeremiah](./Jeremiah.md) / [Molly](./Molly.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Mathis](./Mathis.md)<br>[Jane Yang](./Jane%20Yang.md)<br>[Donner](./Donner.md)<br>[Heller](./Heller.md)<br>[Vachon](./Vachon.md)<br>[Jeremiah](./Jeremiah.md)<br>[Molly](./Molly.md)
 
 > “**Save Donner to save the townsfolk.**”
 

@@ -39,9 +39,7 @@ Different People, Places, Things, and Actions are different between Episodes. Un
 
 ## People
 
-![](../assets/Knowledge_What_I_Know_large_people.png)
-
-_Knowledge\_What\_I\_Know\_large\_people.png_
+![Knowledge What I Know large people](../assets/Knowledge_What_I_Know_large_people.png)
 
 This tab contains all information related to major characters encountered on the Island.
 
@@ -117,9 +115,7 @@ None
 
 ## Places
 
-![](../assets/Knowledge_What_I_Know_large_places.png)
-
-_Knowledge\_What\_I\_Know\_large\_places.png_
+![Knowledge What I Know large places](../assets/Knowledge_What_I_Know_large_places.png)
 
 Information here was previously found through the cut Trust system (Predux Ep 1 and 2). Redux and onward, all information here is only unlocked when the below notes are found, and is just the entire transcript of these items:
 
@@ -144,9 +140,7 @@ Information here was previously found through the cut Trust system (Predux Ep 1 
 
 ## Things
 
-![](../assets/Knowledge_What_I_Know_large_things.png)
-
-_Knowledge\_What\_I\_Know\_large\_things.png_
+![Knowledge What I Know large things](../assets/Knowledge_What_I_Know_large_things.png)
 
 Things give tutorials on subjects such as Tools, world objects, wildlife, and journal/mission mechanics.
 
@@ -355,9 +349,7 @@ What I Know description
 
 ## Actions
 
-![](../assets/Knowledge_What_I_Know_large_actions.png)
-
-_Knowledge\_What\_I\_Know\_large\_actions.png_
+![Knowledge What I Know large actions](../assets/Knowledge_What_I_Know_large_actions.png)
 
 Actions gives information on basic gameplay mechanics.
 

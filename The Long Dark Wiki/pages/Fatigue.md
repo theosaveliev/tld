@@ -28,7 +28,7 @@
 - [Character quotes](#character-quotes)
 - [Trivia](#trivia)
 
-![](../assets/Fatigue_icon.png) **Fatigue** is one of the four essential [Needs](./Needs.md). Fatigue is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and [struggles](./Struggle.md). When completely depleted, fatigue will begin to lower the player's [Condition](./Condition.md).
+![Fatigue icon](../assets/Fatigue_icon.png) **Fatigue** is one of the four essential [Needs](./Needs.md). Fatigue is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and [struggles](./Struggle.md). When completely depleted, fatigue will begin to lower the player's [Condition](./Condition.md).
 
 ## Gaining/Losing Fatigue
 
@@ -58,45 +58,12 @@ In custom games, non-standard game timescales will multiply normal sources of fa
 
 Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) will immediately refill the player's [Stamina](./Stamina.md) and half the player's fatigue for a total time of 45 in-game minutes. After 30 minutes, the player will get a [Headache](./Headache.md), and at the end of the 45 minutes, the player's fatigue will drop by 50%.
 
-Item
-
-Initial Reduction
-
-Fatigue Loss
-
-Duration
-
-![](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
-
-10%
-
-50%
-
-60 minutes
-
-![](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
-
-5%
-
-75%
-
-30 minutes
-
-![](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md)
-
-20%
-
-50%
-
-45 minutes
-
-![](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md)
-
-10%
-
-50%
-
-60 minutes
+| Item | Initial Reduction | Fatigue Loss | Duration |
+| --- | --- | --- | --- |
+| ![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | 10% | 50% | 60 minutes |
+| ![Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 5% | 75% | 30 minutes |
+| ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes |
+| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) | 10% | 50% | 60 minutes |
 
 ### Food
 
@@ -104,91 +71,22 @@ Eating certain foods can also affect the fatigue meter.
 
 #### Fatigue Increase:
 
-Item
-
-Name
-
-Initial Increase
-
-![](../assets/Breyerhouse_Pie_icon.png)
-
-_Breyerhouse\_Pie\_icon.png_
-
-[Breyerhouse Pie](./Breyerhouse%20Pie.md)
-
-15%
-
-![](../assets/Rose_Hip_Pie_icon.png)
-
-_Rose\_Hip\_Pie\_icon.png_
-
-[Rose Hip Pie](./Rose%20Hip%20Pie.md)
-
-15%
-
-![](../assets/Peach_Pie_icon.png)
-
-_Peach\_Pie\_icon.png_
-
-[Peach Pie](./Peach%20Pie.md)
-
-15%
+| Item | Name | Initial Increase |
+| --- | --- | --- |
+| ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
+| ![Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
+| ![Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 15% |
 
 #### Fatigue Decrease:
 
-Item
-
-Name
-
-Initial Decrease
-
-![](../assets/Ptarmigan_Stew_icon.png)
-
-_Ptarmigan\_Stew\_icon.png_
-
-[Ptarmigan Stew](./Ptarmigan%20Stew.md)
-
--15%
-
-![](../assets/Rabbit_Stew_icon.png)
-
-_Rabbit\_Stew\_icon.png_
-
-[Rabbit Stew](./Rabbit%20Stew.md)
-
--15%
-
-![](../assets/Trout_Stew_icon.png)
-
-_Trout\_Stew\_icon.png_
-
-[Trout Stew](./Trout%20Stew.md)
-
--15%
-
-![](../assets/Venison_Stew_icon.png)
-
-_Venison\_Stew\_icon.png_
-
-[Venison Stew](./Venison%20Stew.md)
-
--15%
-
-![](../assets/Ranger_Stew_icon.png)
-
-_Ranger\_Stew\_icon.png_
-
-[Ranger Stew](./Ranger%20Stew.md)
-
--15%
-
-![](../assets/Thomson_Family_Stew_icon.png)
-
-_Thomson\_Family\_Stew\_icon.png_
-
-[Thomson Family Stew](./Thomson%20Family%20Stew.md)
-
--15%
+| Item | Name | Initial Decrease |
+| --- | --- | --- |
+| ![Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | -15% |
+| ![Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | -15% |
+| ![Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | -15% |
+| ![Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | -15% |
+| ![Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | -15% |
+| ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
 
 ## Affecting Condition
 
@@ -254,7 +152,7 @@ Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded 
 
 ## Hunger and Parasites affects fatigue
 
-![](../assets/UI_Long-Hunger.jpg) A player that remains starving for a long enough time will start to have their [fatigue](./Fatigue.md) affected; the maximal amount of energy that the player will be able to acquire through sleep will start to decrease, which is represented by the red color that starts filling up the inside of the fatigue bar, as well as by the yellow exclamation mark that appears next to the eye icon, symbolizing the fatigue bar. This issue is easily solved by consuming food, the red color won't vanish immediately, but the player will be allowed to gain full energy from sleep right away.
+![UI Long Hunger](../assets/UI_Long-Hunger.jpg) A player that remains starving for a long enough time will start to have their [fatigue](./Fatigue.md) affected; the maximal amount of energy that the player will be able to acquire through sleep will start to decrease, which is represented by the red color that starts filling up the inside of the fatigue bar, as well as by the yellow exclamation mark that appears next to the eye icon, symbolizing the fatigue bar. This issue is easily solved by consuming food, the red color won't vanish immediately, but the player will be allowed to gain full energy from sleep right away.
 
 [Intestinal Parasites](./Intestinal%20Parasites.md) also slowly drain the player's maximum available Fatigue bar to the same effect, but have a far harsher treating period.
 

@@ -15,9 +15,7 @@
 
 **Torch**
 
-![](../assets/Torch_icon.png)
-
-_Torch\_icon.png_
+![Torch icon](../assets/Torch_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 
@@ -73,7 +71,7 @@ A [Torch](./Torch.md) can be used either as a Starter or as Fuel. The properties
 
 **Statistics**
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +5%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +5%
 
 The properties of a Torch when used as Fuel are:
 
@@ -83,11 +81,11 @@ The properties of a Torch when used as Fuel are:
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 10 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 10 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) -5%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) -5%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
 
 **Burn Density:** 0.55 hr/kg (0.25 hr/lb)
 
@@ -129,15 +127,9 @@ Torches cannot be repaired. They can be 'recycled' by adding them to fires or ha
 
 ![Old model - unused](../assets/Torch_-_unused.png)
 
-_Old model - unused_
-
 ![Old model - burning](../assets/Torch_-_Burning.png)
 
-_Old model - burning_
-
 ![Old model - ruined](../assets/Torch.png)
-
-_Old model - ruined_
 
 ## Update history
 

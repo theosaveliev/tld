@@ -13,9 +13,7 @@
 
 **Rose Hip**
 
-![](../assets/Rose_Hip_icon.png)
-
-_Rose\_Hip\_icon.png_
+![Rose Hip icon](../assets/Rose_Hip_icon.png)
 
 **General**
 
@@ -23,7 +21,7 @@ _Rose\_Hip\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
 
 > “**A fruit of a wild rose bush.**”
 >
@@ -37,15 +35,9 @@ Rose Hips can can be found in the wilderness growing on 2 types of Rose Bushes. 
 
 ![A green Rose Bush](../assets/RoseBushGreen.jpg)
 
-_A green Rose Bush_
-
 ![a smaller gray Rose Bush](../assets/RoseBushGrey.jpg)
 
-_a smaller gray Rose Bush_
-
 ![A green Rose Bush on a Rock Climb](../assets/RockClimb.jpg)
-
-_A green Rose Bush on a Rock Climb_
 
 Prepared Rose Hips weigh 0.05 kg, or around 1/5 of what 24 Rose Hips (their crafting materials) weigh, and no form of Rose Hips [Decay](./Decay.md).
 
@@ -87,8 +79,4 @@ Prepared Rose Hips weigh 0.05 kg, or around 1/5 of what 24 Rose Hips (their craf
 
 ![Pre alpha Rose Hip model](../assets/Rose_hip.png)
 
-_Pre alpha Rose Hip model_
-
 ![The old Rose Hip model](../assets/Rose_Hip_icon_historic.png)
-
-_The old Rose Hip model_

@@ -14,9 +14,7 @@
 
 **Dr. Atwood**
 
-![](../assets/Dr_Atwood.jpg)
-
-_Dr\_Atwood.jpg_
+![Dr Atwood](../assets/Dr_Atwood.jpg)
 
 **Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
@@ -67,14 +65,8 @@ Atwood is slated to appear in the upcoming [Episode 5: The Light At The End Of A
 
 ## Gallery
 
-![](../assets/Dr_Atwood.jpg)
-
-_Dr\_Atwood.jpg_
+![Dr Atwood](../assets/Dr_Atwood.jpg)
 
 ![Dr. Atwood and Jace reuniting.](../assets/Dr_Atwood_and_Jace_hugging.jpg)
 
-_Dr. Atwood and Jace reuniting._
-
 ![Dr. Atwood wearing a coat while waiting for Mackenzie.](../assets/Atwood_Coat.png)
-
-_Dr. Atwood wearing a coat while waiting for Mackenzie._

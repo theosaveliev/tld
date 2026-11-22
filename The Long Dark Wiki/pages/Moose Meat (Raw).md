@@ -11,9 +11,7 @@
 
 **Moose Meat**
 
-![](../assets/Moose_Meat_%28Raw%29_icon.png)
-
-_Moose\_Meat\_(Raw)\_icon.png_
+![Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 
@@ -63,27 +61,15 @@ Often considered the best meat in _The Long Dark_, moose meat carries no risk of
 
 ![Fresh](../assets/Moose_Meat_%28Raw%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Moose_Meat_%28Raw%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Moose_Meat_%28Raw%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Moose_Meat_%28Raw%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Moose_Meat_%28Raw%29_Ruined_icon.png)
 
-_Ruined_
-
 ![old model](../assets/Raw_moose_meat_icon_old.webp)
-
-_old model_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Communication Report**
 
-![](../assets/Communication_Report_icon.png)
-
-_Communication\_Report\_icon.png_
+![Communication Report icon](../assets/Communication_Report_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

@@ -4,15 +4,11 @@
 
 **Point of Disagreement**
 
-![](../assets/Point_of_disagreement.jpg)
-
-_point\_of\_disagreement.jpg_
+![Point of disagreement](../assets/Point_of_disagreement.jpg)
 
 **Location**
 
-![](../assets/Point_of_Disagreement_Location.png)
-
-_Point\_of\_Disagreement\_Location.png_
+![Point of Disagreement Location](../assets/Point_of_Disagreement_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

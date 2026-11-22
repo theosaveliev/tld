@@ -4,15 +4,11 @@
 
 **Whistling Perch**
 
-![](../assets/Whistling_Perch.jpg)
-
-_Whistling\_Perch.jpg_
+![Whistling Perch](../assets/Whistling_Perch.jpg)
 
 **Location**
 
-![](../assets/Whistling_Perch_Location.png)
-
-_Whistling\_Perch\_Location.png_
+![Whistling Perch Location](../assets/Whistling_Perch_Location.png)
 
 Region
 
@@ -26,11 +22,7 @@ Region
 
 ![Whistling Perch](../assets/Whistling_Perch.jpg)
 
-_Whistling Perch_
-
 ![View north from Whistling Perch](../assets/Whistling_Perch_view_north.jpg)
-
-_View north from Whistling Perch_
 
 ![View south from Whistling Perch towards Bricklayer's Retreat](../assets/Whistling_Perch_view_south.jpg)
 

@@ -4,9 +4,7 @@
 
 **Oil Tank**
 
-![](../assets/Whale_Oil_Refueling.jpg)
-
-_Whale\_Oil\_Refueling.jpg_
+![Whale Oil Refueling](../assets/Whale_Oil_Refueling.jpg)
 
 **General**
 
@@ -16,13 +14,11 @@ _Whale\_Oil\_Refueling.jpg_
 
 **Renewable:** Yes
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / An **Oil Tank** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in Railyards on [Cauldron Island](./Cauldron%20Island.md).
+<br>An **Oil Tank** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in Railyards on [Cauldron Island](./Cauldron%20Island.md).
 
 ## Overview
 
@@ -32,11 +28,7 @@ The player can then exit the train and walk over to the valve on the side of the
 
 ![The sign panel displaying that the train is not in position for refueling.](../assets/Refueling_Panel.jpg)
 
-_The sign panel displaying that the train is not in position for refueling._
-
 ![The panel flipped to green, signaling that refueling is possible.](../assets/Refueling_Panel_Green.jpg)
-
-_The panel flipped to green, signaling that refueling is possible._
 
 Oil is transferred into the train at a rate of 5.00 liters per minute (20.00 min cap at 5 minutes per increment), meaning that a fully empty locomotive can be refilled with 500.00 L of oil in 1 hour and 40 minutes. Make sure to turn the train Engine off while refueling, as this can burn already stored fuel and not fully refuel the train.
 

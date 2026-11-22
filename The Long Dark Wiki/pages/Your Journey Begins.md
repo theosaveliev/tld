@@ -4,9 +4,7 @@
 
 **Your Journey Begins**
 
-![](../assets/Your_Journey_Begins_icon.png)
-
-_Your\_Journey\_Begins\_icon.png_
+![Your Journey Begins icon](../assets/Your_Journey_Begins_icon.png)
 
 **Description:** Escape the ravine after your crash.
 

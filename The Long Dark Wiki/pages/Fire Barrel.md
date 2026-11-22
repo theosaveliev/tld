@@ -18,9 +18,7 @@
 
 **Fire Barrel**
 
-![](../assets/Fire_barrel.png)
-
-_Fire\_barrel.png_
+![Fire barrel](../assets/Fire_barrel.png)
 
 **General**
 

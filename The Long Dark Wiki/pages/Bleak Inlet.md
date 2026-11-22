@@ -14,19 +14,13 @@
 
 **Bleak Inlet**
 
-![](../assets/Bleakinlet.png)
-
-_Bleakinlet.png_
+![Bleakinlet](../assets/Bleakinlet.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Bleak_Inlet_Location.png)
+![Bleak Inlet Location](../assets/Bleak_Inlet_Location.png)
 
-_Bleak\_Inlet\_Location.png_
-
-![](../assets/Bleak_Inlet_Region_Map.png)
-
-_Bleak\_Inlet\_Region\_Map.png_
+![Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png)
 
 **Details**
 
@@ -123,142 +117,72 @@ Additionally, 1 [Prepper Cache](./Prepper%20Cache.md) spawns in the hills betwee
 
 ![Bleak Inlet (view from the fallen lighthouse)](../assets/SS-BI-Inlet01.jpg)
 
-_Bleak Inlet (view from the fallen lighthouse)_
-
 ![Worker Residences - Long bridge - Cannery](../assets/SS-BI-Inlet02.jpg)
-
-_Worker Residences - Long bridge - Cannery_
 
 ![Long bridge - Cannery - Washed out - Frozen delta](../assets/SS-BI-Inlet03.jpg)
 
-_Long bridge - Cannery - Washed out - Frozen delta_
-
 ![Worker Residences - Light house](../assets/SS-BI-CanneryWorkerResidences03.jpg)
-
-_Worker Residences - Light house_
 
 ![Cannery - Long bridge - Worker Residences](../assets/SS-BI-CanneryWorkerResidences02.jpg)
 
-_Cannery - Long bridge - Worker Residences_
-
 ![Frozen delta and Inlet](../assets/SS-BI-FrozenDelta01.jpg)
-
-_Frozen delta and Inlet_
 
 ![Frozen delta behind the Inlet](../assets/SS-BI-FrozenDelta02.jpg)
 
-_Frozen delta behind the Inlet_
-
 ![The radio tower behind the Inlet](../assets/SS-BI-inlet04.jpg)
-
-_The radio tower behind the Inlet_
 
 ![Summit at Ravine's End](../assets/SS-BI-SummitAtRavien%27sEnd.jpg)
 
-_Summit at Ravine's End_
-
 ![Trailers west of the Cannery](../assets/SS-BI-Trailer01.jpg)
-
-_Trailers west of the Cannery_
 
 ![Raven Crossing](../assets/SS-BI-RavenCrossing01.jpg)
 
-_Raven Crossing_
-
 ![Ravine's End Waterfall](../assets/SS-BI-Ravine%27sEndWaterfall.jpg)
-
-_Ravine's End Waterfall_
 
 ![Lower raven falls and Broken furniture](../assets/SS-BI-LowerRavenFall.jpg)
 
-_Lower raven falls and Broken furniture_
-
 ![Long bridge](../assets/SS-BI-LongBridge01.jpg)
-
-_Long bridge_
 
 ![Southwest island and cave](../assets/SS-BI-Southwest-Island01.jpg)
 
-_Southwest island and cave_
-
 ![Southeast island and Fallen lighthouse](../assets/SS-BI-FallenLighthouse02.jpg)
-
-_Southeast island and Fallen lighthouse_
 
 ![Coast Mountain Road (Lower)](../assets/SS-BI-CoastMountainRoad03.jpg)
 
-_Coast Mountain Road (Lower)_
-
 ![Coast Mountain Road (Upper)](../assets/SS-BI-CoastMountainRoad02.jpg)
-
-_Coast Mountain Road (Upper)_
 
 ![Coast Mountain Road](../assets/SS-BI-CoastMountainRoad01.jpg)
 
-_Coast Mountain Road_
-
 ![Landslide](../assets/SS-BI-Landslide01.jpg)
-
-_Landslide_
 
 ![Coastal highway terminus](../assets/SS-BI-Terminus01.jpg)
 
-_Coastal highway terminus_
-
 ![Last Resort Cannery from Cannery Worker Residences](../assets/Screen_60ebb629-1d86-495f-9716-576de812490f_hi.png)
-
-_Last Resort Cannery from Cannery Worker Residences_
 
 ![Last resort cannery](../assets/SS-BI-Cannery01.jpg)
 
-_Last resort cannery_
-
 ![Cabin near Lower raven fall](../assets/SS-BI-LowerCabin01.jpg)
-
-_Cabin near Lower raven fall_
 
 ![Washed out trailer](../assets/SS-BI-WashedOut01.jpg)
 
-_Washed out trailer_
-
 ![Lookout and Rope climbing spot (Upper)](../assets/SS-BI-Rope01.jpg)
-
-_Lookout and Rope climbing spot (Upper)_
 
 ![Lookout and Rope climbing spot (Lower)](../assets/SS-BI-Rope02.jpg)
 
-_Lookout and Rope climbing spot (Lower)_
-
 ![Secret Mountain path](../assets/20210118150830_1.jpg)
-
-_Secret Mountain path_
 
 ![Lighthouse view](../assets/20210111173319_1.jpg)
 
-_Lighthouse view_
+![20210111173118 1](../assets/20210111173118_1.jpg)
 
-![](../assets/20210111173118_1.jpg)
+![20210111173056 1](../assets/20210111173056_1.jpg)
 
-_20210111173118\_1.jpg_
-
-![](../assets/20210111173056_1.jpg)
-
-_20210111173056\_1.jpg_
-
-![](../assets/20210111173156_1.jpg)
-
-_20210111173156\_1.jpg_
+![20210111173156 1](../assets/20210111173156_1.jpg)
 
 ## Maps
 
 ![A detailed map of Bleak Inlet v2.35](../assets/BI_map_default.png.png)
 
-_A detailed map of Bleak Inlet v2.35_
-
 ![A map of Bleak Inlet v2.35 (Interloper/Misery edition, contains spoilers)](../assets/BI_Map_Interloper.png)
 
-_A map of Bleak Inlet v2.35 (Interloper/Misery edition, contains spoilers)_
-
-![](../assets/Bleak_Inlet_map.png)
-
-_Bleak\_Inlet\_map.png_
+![Bleak Inlet map](../assets/Bleak_Inlet_map.png)

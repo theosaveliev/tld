@@ -4,9 +4,7 @@
 
 **Ski Boots**
 
-![](../assets/Ski_Boots_icon.png)
-
-_Ski\_Boots\_icon.png_
+![Ski Boots icon](../assets/Ski_Boots_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Ski\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)10%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)10%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-20%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-20%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md),<br>1 × [Cloth](./Cloth.md)<br>90 minutes<br>30% condition
 
 > “**Hard plastic boots with high-tech synthetic insulation. Will keep your feet very warm at the expense of mobility.**”
 >
@@ -44,11 +42,7 @@ Not available on Interloper.
 
 ![Clothing model icon](../assets/Ski_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Ski_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

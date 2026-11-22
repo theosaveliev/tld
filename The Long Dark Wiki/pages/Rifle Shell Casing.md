@@ -4,9 +4,7 @@
 
 **Rifle Shell Casing**
 
-![](../assets/Rifle_Shell_Casing_icon.png)
-
-_Rifle\_Shell\_Casing\_icon.png_
+![Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png)
 
 **General**
 
@@ -16,7 +14,7 @@ _Rifle\_Shell\_Casing\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
 
 > “**Empty casing from firing a Rifle. Used for Crafting new Ammunition.**”
 >

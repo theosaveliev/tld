@@ -16,15 +16,13 @@
 
 **Lena Vertasky**
 
-![](../assets/Security_Chief%27s_ID_Badge_icon.png)
-
-_Security\_Chief's\_ID\_Badge\_icon.png_
+![Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png)
 
 **Release:** 2.03
 
 **Date:** 5 December 2022
 
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md)
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md)<br>[Last Horizon](./Last%20Horizon.md)
 
 **Biographical Information**
 
@@ -73,23 +71,19 @@ Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), li
 
 ### Clothing
 
-- ![](../assets/Security_Chief%27s_Rifle_Holster_icon.png) [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
+- ![Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
 ### Collectibles
 
-- ![](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
-- ![](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
-- ![](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
-- ![](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![Security Chief's Log 6 icon](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
+- ![Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![Security Chief's Log 23 icon](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
+- ![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 
 ## Gallery
 
 ![The Chief's remains in the control room next to the machine](../assets/The_Security_Chief.jpg)
 
-_The Chief's remains in the control room next to the machine_
-
 ![The chief in a photo along with the Foreman](../assets/Foreman%27s_Polaroid_4_icon.png)
-
-_The chief in a photo along with the Foreman_
 
 ## Trivia

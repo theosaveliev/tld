@@ -4,9 +4,7 @@
 
 **Ski Gloves**
 
-![](../assets/Ski_Gloves_icon.png)
-
-_Ski\_Gloves\_icon.png_
+![Ski Gloves icon](../assets/Ski_Gloves_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Ski\_Gloves\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-1%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
 
 > “**Nylon ski gloves that go well beyond the wrist. Synthetic insulation keeps the hands warm, and the outer layer is nicely waterproof.**”
 >
@@ -42,8 +40,4 @@ They are tied for the lowest warmth-to-weight ratio gloves in the game with the 
 
 ![Clothing model](../assets/Ski_Gloves_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Ski_Gloves_Damaged_icon.png)
-
-_Clothing model damaged_

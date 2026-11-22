@@ -4,7 +4,7 @@
 
 **Lantern**
 
-\[\[File: / ![Lit](../assets/Lantern.jpg) / _Lit_ / ![Unlit](../assets/LanternUnlit.jpg) / _Unlit_
+![Lit](../assets/Lantern.jpg)<br>![Unlit](../assets/LanternUnlit.jpg)
 
 250px\]\]
 

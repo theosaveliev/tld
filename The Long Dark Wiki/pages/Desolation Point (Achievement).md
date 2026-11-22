@@ -4,9 +4,7 @@
 
 **Desolation Point**
 
-![](../assets/Desolation_Point_%28Achievement%29_icon.png)
-
-_Desolation\_Point\_(Achievement)\_icon.png_
+![Desolation Point (Achievement) icon](../assets/Desolation_Point_%28Achievement%29_icon.png)
 
 **Description:** Craft a full set of improvised Tools.
 

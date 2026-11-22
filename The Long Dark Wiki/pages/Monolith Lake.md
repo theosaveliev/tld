@@ -4,15 +4,11 @@
 
 **Monolith Lake**
 
-![](../assets/Monolith_Lake_from_Peak_Cave.png)
-
-_Monolith\_Lake\_from\_Peak\_Cave.png_
+![Monolith Lake from Peak Cave](../assets/Monolith_Lake_from_Peak_Cave.png)
 
 **Location**
 
-![](../assets/Monolith_Lake_Location.png)
-
-_Monolith\_Lake\_Location.png_
+![Monolith Lake Location](../assets/Monolith_Lake_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -30,6 +26,4 @@ The lake is notable for being the only location in the region with water that's 
 
 ## Gallery
 
-![](../assets/Monolith_Lake.jpg)
-
-_Monolith\_Lake.jpg_
+![Monolith Lake](../assets/Monolith_Lake.jpg)

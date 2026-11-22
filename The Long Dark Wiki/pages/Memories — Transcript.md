@@ -4,9 +4,7 @@
 
 **Memories/Transcript**
 
-![](../assets/Memories.png)
-
-_Memories.png_
+![Memories](../assets/Memories.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
 

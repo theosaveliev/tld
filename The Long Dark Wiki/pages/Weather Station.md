@@ -11,21 +11,15 @@
 
 **Weather Station**
 
-![](../assets/Main_Menu_Weather_Station.jpg)
-
-_Main\_Menu\_Weather\_Station.jpg_
+![Main Menu Weather Station](../assets/Main_Menu_Weather_Station.jpg)
 
 **Location**
 
-![](../assets/Weather_Station_Location.png)
-
-_Weather\_Station\_Location.png_
+![Weather Station Location](../assets/Weather_Station_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -59,36 +53,20 @@ There is a Hunting Rifle and unusual amount of Rifle Ammunition boxes strewn abo
 
 ![Concept art of the station](../assets/Mountain_Pass_Weather_Station_concept_art.jpg)
 
-_Concept art of the station_
-
 ![The Station Bunkhouse and the Radar Dome](../assets/Weather_Station_radar_and_bunkhouse_small.png)
-
-_The Station Bunkhouse and the Radar Dome_
 
 ![A Cougar stalking a survivor, with the Weather Station in the background](../assets/Cougar_Part_5.jpg)
 
 _A [Cougar](./Cougar.md) stalking a survivor, with the Weather Station in the background_
 
-![](../assets/Weather_Station_.jpg)
+![Weather Station](../assets/Weather_Station_.jpg)
 
-_Weather\_Station\_.jpg_
+![WeatherStation](../assets/WeatherStation.jpg)
 
-![](../assets/WeatherStation.jpg)
-
-_WeatherStation.jpg_
-
-![](../assets/Weather_Station_Dusk.jpg)
-
-_Weather\_Station\_Dusk.jpg_
+![Weather Station Dusk](../assets/Weather_Station_Dusk.jpg)
 
 ![The radar station interior](../assets/Weather_Station_Radar.jpg)
 
-_The radar station interior_
+![Weather Station Aurora](../assets/Weather_Station_Aurora.jpg)
 
-![](../assets/Weather_Station_Aurora.jpg)
-
-_Weather\_Station\_Aurora.jpg_
-
-![](../assets/Weather_Station_Night.jpg)
-
-_Weather\_Station\_Night.jpg_
+![Weather Station Night](../assets/Weather_Station_Night.jpg)

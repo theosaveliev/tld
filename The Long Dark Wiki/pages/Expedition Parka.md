@@ -11,9 +11,7 @@
 
 **Expedition Parka**
 
-![](../assets/Expedition_Parka_icon.png)
-
-_Expedition\_Parka\_icon.png_
+![Expedition Parka icon](../assets/Expedition_Parka_icon.png)
 
 **General**
 
@@ -25,21 +23,21 @@ _Expedition\_Parka\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)4.0 °C(7.2 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)6.0 °C(10.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)6.0 °C(10.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)6%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)6%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
 > “**Heavy down-filled parka made using high-end materials. The kind of parka worn by people who know what they're doing.**”
 >
@@ -67,15 +65,9 @@ It can also spawn in the train car in the abandoned passenger rail car in the [F
 
 ![Old model.](../assets/Expedition_parka_%28historical%29.png)
 
-_Old model._
-
 ![Clothing model icon](../assets/Expedition_Parka_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Expedition_Parka_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

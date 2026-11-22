@@ -4,9 +4,7 @@
 
 **Newsprint**
 
-![](../assets/Newsprint_icon.png)
-
-_newsprint\_icon.png_
+![Newsprint icon](../assets/Newsprint_icon.png)
 
 **General**
 
@@ -16,7 +14,7 @@ _newsprint\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Newsprint. Can be used as tinder.**”
 >
@@ -37,5 +35,3 @@ Newsprints fill the role of tinder, which is used for [fire starting](./Fire%20S
 ## Gallery
 
 ![Old model.](../assets/Newsprint.png)
-
-_Old model._

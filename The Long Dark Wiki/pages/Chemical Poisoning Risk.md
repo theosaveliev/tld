@@ -11,9 +11,7 @@
 
 **Chemical Poisoning Risk**
 
-![](../assets/Chemical_Poisoning_Risk_icon.png)
-
-_Chemical\_Poisoning\_Risk\_icon.png_
+![Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 
@@ -21,19 +19,17 @@ _Chemical\_Poisoning\_Risk\_icon.png_
 
 **Treatment:** Avoid Chemical Hazards
 
-**Alternate Treatment:** Equip ![](../assets/Respirator_icon.png) [Respirator](./Respirator.md) w/ ![](../assets/Canister_icon.png) [Canister](./Canister.md) and ![](../assets/Chemical_Boots_icon.png) [Chemical Boots](./Chemical%20Boots.md) to reduce vulnerability.
+**Alternate Treatment:** Equip ![Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) w/ ![Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md) and ![Chemical Boots icon](../assets/Chemical_Boots_icon.png) [Chemical Boots](./Chemical%20Boots.md) to reduce vulnerability.
 
 **Advanced Data**
 
 **Item Key:** GAMEPLAY\_ChemicalPoisoningRisk
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- A **Chemical Poisoning Risk** is an [affliction](./Afflictions.md) that can develop into [Chemical Poisoning](./Chemical%20Poisoning.md) if left untreated. / Proximity to [Chemical Hazards](./Chemical%20Hazard.md) will add toxicity at a rate of 3% per minute for up to a maximum of 100% toxicity. The player will receive the [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) affliction once they reach 20% toxicity and the [Chemical Poisoning](./Chemical%20Poisoning.md) affliction at 100% toxicity. By remaining away from Chemical Hazards, 10% toxicity will be removed per hour after a half hour delay. If a treatment is applied, the Chemical Poisoning Risk is removed without developing further into [Chemical Poisoning](./Chemical%20Poisoning.md).
+ A **Chemical Poisoning Risk** is an [affliction](./Afflictions.md) that can develop into [Chemical Poisoning](./Chemical%20Poisoning.md) if left untreated.<br>Proximity to [Chemical Hazards](./Chemical%20Hazard.md) will add toxicity at a rate of 3% per minute for up to a maximum of 100% toxicity. The player will receive the [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) affliction once they reach 20% toxicity and the [Chemical Poisoning](./Chemical%20Poisoning.md) affliction at 100% toxicity. By remaining away from Chemical Hazards, 10% toxicity will be removed per hour after a half hour delay. If a treatment is applied, the Chemical Poisoning Risk is removed without developing further into [Chemical Poisoning](./Chemical%20Poisoning.md).
 
 ## Risk
 
@@ -53,7 +49,7 @@ If a player does build up Chemical Poisoning Risk, simply leaving the hazardous 
 
 ## Treatment
 
-The only treatment to Chemical Poisoning is to spend time away from contaminated areas; but additional buildup can be avoided by wearing ![](../assets/Chemical_Boots_icon.png) [Chemical Boots](./Chemical%20Boots.md) in toxic areas and wearing a ![](../assets/Respirator_icon.png) [Respirator](./Respirator.md) (with a loaded![](../assets/Canister_icon.png) [Canister](./Canister.md)) in toxic gases from the Chemical Hazards, and avoiding struggles with Poisoned Wolves.
+The only treatment to Chemical Poisoning is to spend time away from contaminated areas; but additional buildup can be avoided by wearing ![Chemical Boots icon](../assets/Chemical_Boots_icon.png) [Chemical Boots](./Chemical%20Boots.md) in toxic areas and wearing a ![Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) (with a loaded![Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md)) in toxic gases from the Chemical Hazards, and avoiding struggles with Poisoned Wolves.
 
 If enough Chemical Poisoning Risk builds up, the player will be afflicted with [Chemical Poisoning](./Chemical%20Poisoning.md).
 

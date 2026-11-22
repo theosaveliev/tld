@@ -11,9 +11,7 @@
 
 **Antiseptic**
 
-![](../assets/Antiseptic_icon.png)
-
-_Antiseptic\_icon.png_
+![Antiseptic icon](../assets/Antiseptic_icon.png)
 
 **Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094)
 
@@ -75,5 +73,3 @@ Antiseptic can be used to treat the following afflictions:
 ## Gallery
 
 ![old model](../assets/Antiseptic.png)
-
-_old model_

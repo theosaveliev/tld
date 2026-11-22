@@ -12,9 +12,7 @@
 
 **Nomad**
 
-![](../assets/Challenge_Nomad.png)
-
-_Challenge\_Nomad.png_
+![Challenge Nomad](../assets/Challenge_Nomad.png)
 
 **Details**
 
@@ -58,7 +56,7 @@ The journal automatically tracks how long the player has been at each location i
 
 ## Locations
 
-![](../assets/Nomad.png) ![Current (Crossroads Elegy) journal entry](../assets/20191118161857_1.jpg)_Current (Crossroads Elegy) journal entry_ The locations you need to spend 3 days in are listed in your journal. They are:
+![Nomad](../assets/Nomad.png) ![Current (Crossroads Elegy) journal entry](../assets/20191118161857_1.jpg)_Current (Crossroads Elegy) journal entry_ The locations you need to spend 3 days in are listed in your journal. They are:
 
 | Region | Location | Mission Title |
 | --- | --- | --- |
@@ -82,12 +80,6 @@ The journal automatically tracks how long the player has been at each location i
 
 ![The screen displayed at the completion of the challenge](../assets/Nomad_endscreen.jpg)
 
-_The screen displayed at the completion of the challenge_
-
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_nomad.png)
 
-_The badge awarded upon completing the challenge_
-
 ![Fan art](../assets/Nomad_Art.jpg)
-
-_Fan art_

@@ -11,15 +11,11 @@
 
 **Misty Falls Cave**
 
-![](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
-
-_Misty\_Falls\_Picnic\_Area\_Cave.jpg_
+![Misty Falls Picnic Area Cave](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
 
 **Location**
 
-![](../assets/Misty_Falls_Cave_Location.png)
-
-_Misty\_Falls\_Cave\_Location.png_
+![Misty Falls Cave Location](../assets/Misty_Falls_Cave_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -57,38 +53,20 @@ There can be decent amounts of gear inside, in addition to an abundance of [Coal
 - The area accessed through the waterfall inside the cave has small patches of bio-luminescent moss along some of the walls, just like the [ice caves](./Ice%20Cave.md) in [Hushed River Valley](./Hushed%20River%20Valley.md).
 - Up to two hunting rifles (one inside, one outside) and a bow with arrows can be found here in the same run.
 
-![](../assets/Misty_Falls_Cave_%2820%29.jpg)
+![Misty Falls Cave (20)](../assets/Misty_Falls_Cave_%2820%29.jpg)
 
-_Misty\_Falls\_Cave\_(20).jpg_
-
-![](../assets/Misty_Falls_Cave_%286%29.jpg)
-
-_Misty\_Falls\_Cave\_(6).jpg_
+![Misty Falls Cave (6)](../assets/Misty_Falls_Cave_%286%29.jpg)
 
 ![Crouch through](../assets/Misty_Falls_Cave_%283%29.jpg)
 
-_Crouch through_
+![Misty Falls Cave (25)](../assets/Misty_Falls_Cave_%2825%29.jpg)
 
-![](../assets/Misty_Falls_Cave_%2825%29.jpg)
-
-_Misty\_Falls\_Cave\_(25).jpg_
-
-![](../assets/Misty_Falls_Cave_%2811%29.jpg)
-
-_Misty\_Falls\_Cave\_(11).jpg_
+![Misty Falls Cave (11)](../assets/Misty_Falls_Cave_%2811%29.jpg)
 
 ![Episode3](../assets/Misty_Falls_Cave_%2817%29.jpg)
 
-_Episode3_
-
 ![Survival](../assets/Misty_Falls_Cave_%2812%29.jpg)
-
-_Survival_
 
 ![Survival](../assets/Misty_Falls_Cave_%2826%29.jpg)
 
-_Survival_
-
-![](../assets/MistyFallsCave-1.jpg)
-
-_MistyFallsCave-1.jpg_
+![MistyFallsCave 1](../assets/MistyFallsCave-1.jpg)

@@ -26,7 +26,7 @@
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-![](../assets/Episode_5_Poster.jpg)_"Separated by events on Great Bear Island, Astrid and Mackenzie struggle to make sense of The Quiet Apocalypse. In Perseverance Mills, Astrid investigates the quarantine established in the remote town. Lost in the wilderness with Jace, Mackenzie pushes on to deliver the WINTERMUTE message to Dr. Atwood._
+![Episode 5 Poster](../assets/Episode_5_Poster.jpg)_"Separated by events on Great Bear Island, Astrid and Mackenzie struggle to make sense of The Quiet Apocalypse. In Perseverance Mills, Astrid investigates the quarantine established in the remote town. Lost in the wilderness with Jace, Mackenzie pushes on to deliver the WINTERMUTE message to Dr. Atwood._
 
 _Will they finally uncover the mystery of the Aurora, and what it means for the world?"_
 
@@ -44,7 +44,7 @@ Both Mackenzie and Astrid are playable characters in the Episode, switching pers
 
 ### Part One: Perseverance
 
-Perseverance is the first chapter of Episode 5. [Astrid Greenwood](./Astrid%20Greenwood.md) is the only playable character in this chapter. The chapter takes place at [Perseverance Mills](./Perseverance%20Mills.md) and in the surrounding Perseverance Countryside. It contains 3 different missions. ![](../assets/Missions_story_ep5_Perseverance.png)
+Perseverance is the first chapter of Episode 5. [Astrid Greenwood](./Astrid%20Greenwood.md) is the only playable character in this chapter. The chapter takes place at [Perseverance Mills](./Perseverance%20Mills.md) and in the surrounding Perseverance Countryside. It contains 3 different missions. ![Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
 
 #### Perseverance
 
@@ -54,7 +54,7 @@ _Main article: [Perseverance](./Perseverance.md)_
 
 — In-game description
 
-It is the first mission of the game. This mission starts with a conversation between [Astrid](./Astrid%20Greenwood.md) and [Jane Yang](./Jane%20Yang.md). Jane states there are some missing people of the town. Hence, in order to find out what happened to these missing people, Astrid goes to the Cooper's Blind and Dr. Larson's clinic. ![](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
+It is the first mission of the game. This mission starts with a conversation between [Astrid](./Astrid%20Greenwood.md) and [Jane Yang](./Jane%20Yang.md). Jane states there are some missing people of the town. Hence, in order to find out what happened to these missing people, Astrid goes to the Cooper's Blind and Dr. Larson's clinic. ![Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
 
 #### To Those Who Are Missing
 
@@ -64,9 +64,7 @@ _Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)
 
 — In-game description
 
-![](../assets/Missions_story_ep5_ACryforHelp.png)
-
-_Missions\_story\_ep5\_ACryforHelp.png_
+![Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
 
 #### A Cry For Help
 
@@ -78,7 +76,7 @@ _Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)_
 
 ### Part Two: Strange History
 
-The player plays as [Will Mackenzie](./Will%20Mackenzie.md) while accompanying [Jace](./Jace.md) to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), containing 2 missions. ![](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
+The player plays as [Will Mackenzie](./Will%20Mackenzie.md) while accompanying [Jace](./Jace.md) to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), containing 2 missions. ![Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
 
 #### The Cold, Broken Road
 
@@ -88,9 +86,7 @@ _Main article: [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)_
 
 — In-game description
 
-![](../assets/Missions_story_ep5_HighEnergy.png)
-
-_Missions\_story\_ep5\_HighEnergy.png_
+![Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
 
 #### High Energy
 
@@ -102,7 +98,7 @@ _Main article: [High Energy](./High%20Energy.md)_
 
 ### Part Three: Do No Harm
 
-![](../assets/Missions_story_ep5_ToSARandBack.png) The player takes control of Astrid again for a single mission.
+![Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png) The player takes control of Astrid again for a single mission.
 
 #### To SAR And Back
 
@@ -114,7 +110,7 @@ _Main article: [To SAR And Back](./To%20SAR%20And%20Back.md)_
 
 ### Part Four: Terminus
 
-The player takes control of Mackenzie again for the last mission. ![](../assets/Missions_story_ep5_Conflagration.png)
+The player takes control of Mackenzie again for the last mission. ![Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png)
 
 #### Conflagration
 
@@ -161,36 +157,28 @@ This is the only Episode to not contain any Side Missions.
 
 ## Achievements
 
-- ![](../assets/Quarantine_icon.png) [Quarantine](./Quarantine.md)
-- ![](../assets/Search_Party_icon.png) [Search Party](./Search%20Party.md)
-- ![](../assets/To_The_Bone_icon.png) [To The Bone](./To%20The%20Bone.md)
-- ![](../assets/Adrift_icon.png) [Adrift](./Adrift.md)
-- ![](../assets/Dead_Wake_icon.png) [Dead Wake](./Dead%20Wake.md)
-- ![](../assets/The_Hard_Sciences_icon.png) [The Hard Sciences](./The%20Hard%20Sciences.md)
-- ![](../assets/Song_of_the_Earth_icon.png) [Song of the Earth](./Song%20of%20the%20Earth.md)
-- ![](../assets/Wild_At_Heart_icon.png) [Wild At Heart](./Wild%20At%20Heart.md)
-- ![](../assets/Finely_Tuned_icon.png) [Finely Tuned](./Finely%20Tuned.md)
-- ![](../assets/Bending_The_Rail_icon.png) [Bending The Rail](./Bending%20The%20Rail.md)
-- ![](../assets/The_Last_Light_icon.png) [The Last Light](./The%20Last%20Light.md)
-- ![](../assets/The_New_World_icon.png) [The New World](./The%20New%20World.md)
+- ![Quarantine icon](../assets/Quarantine_icon.png) [Quarantine](./Quarantine.md)
+- ![Search Party icon](../assets/Search_Party_icon.png) [Search Party](./Search%20Party.md)
+- ![To The Bone icon](../assets/To_The_Bone_icon.png) [To The Bone](./To%20The%20Bone.md)
+- ![Adrift icon](../assets/Adrift_icon.png) [Adrift](./Adrift.md)
+- ![Dead Wake icon](../assets/Dead_Wake_icon.png) [Dead Wake](./Dead%20Wake.md)
+- ![The Hard Sciences icon](../assets/The_Hard_Sciences_icon.png) [The Hard Sciences](./The%20Hard%20Sciences.md)
+- ![Song of the Earth icon](../assets/Song_of_the_Earth_icon.png) [Song of the Earth](./Song%20of%20the%20Earth.md)
+- ![Wild At Heart icon](../assets/Wild_At_Heart_icon.png) [Wild At Heart](./Wild%20At%20Heart.md)
+- ![Finely Tuned icon](../assets/Finely_Tuned_icon.png) [Finely Tuned](./Finely%20Tuned.md)
+- ![Bending The Rail icon](../assets/Bending_The_Rail_icon.png) [Bending The Rail](./Bending%20The%20Rail.md)
+- ![The Last Light icon](../assets/The_Last_Light_icon.png) [The Last Light](./The%20Last%20Light.md)
+- ![The New World icon](../assets/The_New_World_icon.png) [The New World](./The%20New%20World.md)
 
 ## Gallery
 
 ![Announcement poster for Episode 5](../assets/Episode_Five_Poster.jpg)
 
-_Announcement poster for Episode 5_
+![Tld april dev diary lighthouse](../assets/Tld-april-dev-diary-lighthouse.jpg)
 
-![](../assets/Tld-april-dev-diary-lighthouse.jpg)
+![Tld april dev diary bar counter view](../assets/Tld-april-dev-diary-bar-counter-view.jpg)
 
-_Tld-april-dev-diary-lighthouse.jpg_
-
-![](../assets/Tld-april-dev-diary-bar-counter-view.jpg)
-
-_Tld-april-dev-diary-bar-counter-view.jpg_
-
-![](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
-
-_Tld-april-dev-diary-balcony-view-res-resized.jpg_
+![Tld april dev diary balcony view res resized](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
 
 ## Trivia
 

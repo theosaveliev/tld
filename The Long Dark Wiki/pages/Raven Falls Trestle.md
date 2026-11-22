@@ -6,13 +6,9 @@
 
 ![Trestle at Ravine's End](../assets/The_Ravine_-_long_train_bridge.jpg)
 
-_Trestle at Ravine's End_
-
 **Location**
 
-![](../assets/Raven_Falls_Trestle_Location.png)
-
-_Raven\_Falls\_Trestle\_Location.png_
+![Raven Falls Trestle Location](../assets/Raven_Falls_Trestle_Location.png)
 
 **Region:** [The Ravine](./The%20Ravine.md)
 

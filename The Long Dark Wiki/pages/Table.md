@@ -13,7 +13,7 @@
 
 **Table**
 
-\[\[File: / ![Small](../assets/Small_Table.jpg) / _Small_ / ![Recreation](../assets/Recreation_Table.jpg) / _Recreation_ / ![Broken](../assets/Small_Broken_Table.jpg) / _Broken_ / ![Coffee](../assets/Coffee_Table.jpg) / _Coffee_ / ![Nightstand](../assets/Nightstand_Table.jpg) / _Nightstand_ / ![Medium](../assets/Medium_Table.jpg) / _Medium_ / ![Dining](../assets/Dining_Table.jpg) / _Dining_
+![Small](../assets/Small_Table.jpg)<br>![Recreation](../assets/Recreation_Table.jpg)<br>![Broken](../assets/Small_Broken_Table.jpg)<br>![Coffee](../assets/Coffee_Table.jpg)<br>![Nightstand](../assets/Nightstand_Table.jpg)<br>![Medium](../assets/Medium_Table.jpg)<br>![Dining](../assets/Dining_Table.jpg)
 
 250px\]\]
 

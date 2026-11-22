@@ -12,25 +12,19 @@
 
 **Transfer Pass**
 
-![](../assets/Transfer_Pass_Main_Menu.jpg)
-
-_Transfer\_Pass\_Main\_Menu.jpg_
+![Transfer Pass Main Menu](../assets/Transfer_Pass_Main_Menu.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Transfer_Pass_Location.png)
+![Transfer Pass Location](../assets/Transfer_Pass_Location.png)
 
-_Transfer\_Pass\_Location.png_
-
-![](../assets/TransferPass.png)
-
-_TransferPass.png_
+![TransferPass](../assets/TransferPass.png)
 
 **Details**
 
 **Description:** An abandoned train depot near the edge of the Far Territory
 
-**Connecting Regions:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (Leads to [Broken Railroad](./Broken%20Railroad.md)) [Forsaken Airfield](./Forsaken%20Airfield.md) / [Zone of Contamination](./Zone%20of%20Contamination.md) / [Sundered Pass](./Sundered%20Pass.md)
+**Connecting Regions:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (Leads to [Broken Railroad](./Broken%20Railroad.md)) [Forsaken Airfield](./Forsaken%20Airfield.md)<br>[Zone of Contamination](./Zone%20of%20Contamination.md)<br>[Sundered Pass](./Sundered%20Pass.md)
 
 **TFTFT paid content:** Yes
 
@@ -44,13 +38,11 @@ _TransferPass.png_
 
 **Date Added:** Dec 5, 2022
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**For intermediate players. A crossroads dug out of the looming mountains, Transfer Pass is quiet since the trains stopped. But it remains a critical junction for anyone wishing to access the Far Territory. / Connects to Broken Railroad, Forsaken Airfield, Zone of Contamination, and Sundered Pass.**” / > / > — In-game description / **Transfer Pass** is the 13th [Region](./Region.md) in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022. / Transfer Pass is set-up as a ''hub'' region, connecting to all other regions in the Far Territory. It connects to [Broken Railroad](./Broken%20Railroad.md) via the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), to [Forsaken Airfield](./Forsaken%20Airfield.md) via a mountain road, to the [Zone of Contamination](./Zone%20of%20Contamination.md) further along the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md), and to [Sundered Pass](./Sundered%20Pass.md) up north on the road after bypassing a collapsed tunnel.
+<br>> “**For intermediate players. A crossroads dug out of the looming mountains, Transfer Pass is quiet since the trains stopped. But it remains a critical junction for anyone wishing to access the Far Territory.<br>Connects to Broken Railroad, Forsaken Airfield, Zone of Contamination, and Sundered Pass.**”<br>><br>> — In-game description<br>**Transfer Pass** is the 13th [Region](./Region.md) in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.<br>Transfer Pass is set-up as a ''hub'' region, connecting to all other regions in the Far Territory. It connects to [Broken Railroad](./Broken%20Railroad.md) via the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), to [Forsaken Airfield](./Forsaken%20Airfield.md) via a mountain road, to the [Zone of Contamination](./Zone%20of%20Contamination.md) further along the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md), and to [Sundered Pass](./Sundered%20Pass.md) up north on the road after bypassing a collapsed tunnel.
 
 ## Overview
 
@@ -94,23 +86,13 @@ There are a number of locations in Transfer Pass, including:
 
 ![A detailed map of Transfer Pass v2.35 (contains spoilers)](../assets/TP_map.png)
 
-_A detailed map of Transfer Pass v2.35 (contains spoilers)_
-
 ![A detailed map of Transfer Pass v2.35 (Interloper/Misery edition, contains spoilers)](../assets/TP_map_loper.png)
-
-_A detailed map of Transfer Pass v2.35 (Interloper/Misery edition, contains spoilers)_
 
 ![Vacant Depot](../assets/Vacant_Depot.png)
 
-_Vacant Depot_
-
 ![The Vacant Depot during an Aurora](../assets/Transfer_Pass_Station_Aurora.jpg)
 
-_The Vacant Depot during an Aurora_
-
 ![Ditto](../assets/Vacant_Depot_Aurora.jpg)
-
-_Ditto_
 
 ![Oak Trees are plentiful in the Pass](../assets/Oak_trees_Transfer_Pass.jpg)
 
@@ -122,12 +104,6 @@ _Photo frames inside the Depot showing the [Langston Mine](./Langston%20Mine.md)
 
 ![Photos of miners inside the Depot](../assets/Vacant_Depot_Miner_Photos.jpg)
 
-_Photos of miners inside the Depot_
-
 ![The collapsed tunnel leading to Sundered Pass](../assets/Collapsed_Tunnel_Transfer_Pass.jpg)
 
-_The collapsed tunnel leading to Sundered Pass_
-
 ![The other side of the tunnel in Sundered Pass](../assets/Collapsed_Tunnel_Sundered_Pass.jpg)
-
-_The other side of the tunnel in Sundered Pass_

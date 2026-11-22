@@ -4,9 +4,7 @@
 
 **Interview Transcript 14**
 
-![](../assets/Interview_Transcript_14_icon.png)
-
-_Interview\_Transcript\_14\_icon.png_
+![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 

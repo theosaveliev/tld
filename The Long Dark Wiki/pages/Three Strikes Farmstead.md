@@ -4,21 +4,17 @@
 
 **Three Strikes Farmstead**
 
-![](../assets/SS-PV-3strike-001.jpg)
-
-_SS-PV-3strike-001.jpg_
+![SS PV 3strike 001](../assets/SS-PV-3strike-001.jpg)
 
 **Location**
 
-![](../assets/Three_Strikes_Farmstead_Location.png)
-
-_Three\_Strikes\_Farmstead\_Location.png_
+![Three Strikes Farmstead Location](../assets/Three_Strikes_Farmstead_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Type:** Outdoors
 
-Has no shelter / **Three Strikes Farmstead** is a collection of several farm buildings in [Pleasant Valley](./Pleasant%20Valley.md), located about 5 minutes walk northwest of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
+Has no shelter<br>**Three Strikes Farmstead** is a collection of several farm buildings in [Pleasant Valley](./Pleasant%20Valley.md), located about 5 minutes walk northwest of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
 
 ## Overview
 
@@ -34,18 +30,10 @@ A [fire barrel](./Fire%20Barrel.md) and possibly a [hunting rifle](./Hunting%20R
 
 In [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md), the player must visit the site to complete the [Ghost Stag](./Ghost%20Stag.md) as part of the [Tall Tales](./Tall%20Tales.md) side quest. Some optional story-relevant materials may also be found in the barn along with some relatively valuable loot.
 
-![](../assets/SS-PV-3strike-001.jpg)
+![SS PV 3strike 001](../assets/SS-PV-3strike-001.jpg)
 
-_SS-PV-3strike-001.jpg_
+![SS PV 3strike (3)](../assets/SS-PV-3strike_%283%29.jpg)
 
-![](../assets/SS-PV-3strike_%283%29.jpg)
+![SS PV 3strike (4)](../assets/SS-PV-3strike_%284%29.jpg)
 
-_SS-PV-3strike\_(3).jpg_
-
-![](../assets/SS-PV-3strike_%284%29.jpg)
-
-_SS-PV-3strike\_(4).jpg_
-
-![](../assets/SS-PV-3strike_%286%29.jpg)
-
-_SS-PV-3strike\_(6).jpg_
+![SS PV 3strike (6)](../assets/SS-PV-3strike_%286%29.jpg)

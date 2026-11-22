@@ -4,7 +4,7 @@
 
 **No. 3 Coal Mine**
 
-\[\[File: / ![](../assets/Abandoned_Mine_No.3_%28West%29_interior.jpg) / _Abandoned\_Mine\_No.3\_(West)\_interior.jpg_
+![Abandoned Mine No.3 (West) interior](../assets/Abandoned_Mine_No.3_%28West%29_interior.jpg)
 
 250px\]\]
 
@@ -22,9 +22,7 @@ Type
 
 Cave
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 ## Overview
 
@@ -40,12 +38,6 @@ The mine is a dark place with several tunnels splitting off in different directi
 
 ![A view of Abandoned Mine No. 3 (West) in Crumbling Highway.](../assets/Abandoned_Mine_No.3_%28West%29.jpg)
 
-_A view of Abandoned Mine No. 3 (West) in Crumbling Highway._
-
 ![A view of Abandoned Mine No. 3 (East Access) in Desolation Point.](../assets/Abandoned_Mine_No.3_%28East_Access%29.jpg)
 
-_A view of Abandoned Mine No. 3 (East Access) in Desolation Point._
-
-![](../assets/Map-Mine-No3-100.png)
-
-_Map-Mine-No3-100.png_
+![Map Mine No3 100](../assets/Map-Mine-No3-100.png)

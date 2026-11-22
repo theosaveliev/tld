@@ -14,9 +14,7 @@
 
 **Astrid's Hardcase**
 
-![](../assets/Astrid%27s_Hardcase_icon.png)
-
-_Astrid's\_Hardcase\_icon.png_
+![Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png)
 
 **General**
 
@@ -24,7 +22,7 @@ _Astrid's\_Hardcase\_icon.png_
 
 **Wintermute:** Yes
 
-**Weight:** ![](../assets/Weight_icon.png)0 kg(0 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0 kg(0 lbs)
 
 **Astrid's Hardcase** is a [Tool](./Tools.md) and [Collectible](./Collectibles.md) found throughout most episodes of [Wintermute](./Wintermute.md). It belongs to [Astrid Greenwood](./Astrid%20Greenwood.md) and is one of the main plot points of the Wintermute story.
 
@@ -69,15 +67,9 @@ Gallery
 
 ![Mackenzie finding the Hardcase after crashing](../assets/Astrid%27s_Hardcase_found.jpg)
 
-_Mackenzie finding the Hardcase after crashing_
-
 ![Mathis holding the hardcase](../assets/Mathis_Hardcase.jpg)
 
-_Mathis holding the hardcase_
-
 ![Mathis striking Mackenzie over the head with the case](../assets/Mathis_strike_hardcase.jpg)
-
-_Mathis striking Mackenzie over the head with the case_
 
 ![The Hardcase and Astrid's Backpack](../assets/Astrid%27s_Hardcase_and_Backpack.jpg)
 

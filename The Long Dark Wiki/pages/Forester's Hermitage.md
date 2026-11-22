@@ -4,15 +4,11 @@
 
 **Forester's Hermitage**
 
-![](../assets/Forestershermitage.png)
-
-_Forestershermitage.png_
+![Forestershermitage](../assets/Forestershermitage.png)
 
 **Location**
 
-![](../assets/Forester%27s_Hermitage_Location.png)
-
-_Forester's\_Hermitage\_Location.png_
+![Forester's Hermitage Location](../assets/Forester%27s_Hermitage_Location.png)
 
 Region
 
@@ -22,13 +18,11 @@ Region
 
 **Firebox:** [Wood Stove](./Wood%20Stove.md)
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Provides some shelter / **Forester's Hermitage** is a small ruined cabin and the only man-made refuge in the [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
+Provides some shelter<br>**Forester's Hermitage** is a small ruined cabin and the only man-made refuge in the [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
 
 ## Overview
 
@@ -38,6 +32,4 @@ During [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Sile
 
 ## Gallery
 
-![](../assets/Feahsrjtkjrew.png)
-
-_Feahsrjtkjrew.png_
+![Feahsrjtkjrew](../assets/Feahsrjtkjrew.png)

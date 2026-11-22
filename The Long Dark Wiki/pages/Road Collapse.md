@@ -4,15 +4,11 @@
 
 **Road Collapse**
 
-![](../assets/Road_Collapse.jpg)
-
-_Road\_Collapse.jpg_
+![Road Collapse](../assets/Road_Collapse.jpg)
 
 **Location**
 
-![](../assets/Road_Collapse_Location.png)
-
-_Road\_Collapse\_Location.png_
+![Road Collapse Location](../assets/Road_Collapse_Location.png)
 
 **Region:** [Old Island Connector](./Crumbling%20Highway.md)
 

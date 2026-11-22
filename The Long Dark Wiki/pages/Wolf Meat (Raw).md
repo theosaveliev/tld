@@ -11,9 +11,7 @@
 
 **Wolf Meat (Raw)**
 
-![](../assets/Wolf_Meat_%28Raw%29_icon.png)
-
-_Wolf\_Meat\_(Raw)\_icon.png_
+![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -65,27 +63,15 @@ Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) 
 
 ![Fresh](../assets/Wolf_Meat_%28Raw%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Wolf_Meat_%28Raw%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Wolf_Meat_%28Raw%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Wolf_Meat_%28Raw%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Wolf_Meat_%28Raw%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old model](../assets/Wolf_meat_raw.png)
-
-_Old model_
 
 ## Update history
 

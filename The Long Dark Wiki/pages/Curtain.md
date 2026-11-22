@@ -4,7 +4,7 @@
 
 **Curtain**
 
-\[\[File: / ![Window](../assets/Curtain.jpg) / _Window_ / ![Bed](../assets/CurtainBed.jpg) / _Bed_
+![Window](../assets/Curtain.jpg)<br>![Bed](../assets/CurtainBed.jpg)
 
 250px\]\]
 

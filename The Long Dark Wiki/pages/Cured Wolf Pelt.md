@@ -11,9 +11,7 @@
 
 **Cured Wolf Pelt**
 
-![](../assets/Cured_Wolf_Pelt_icon.png)
-
-_Cured\_Wolf\_Pelt\_icon.png_
+![Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -54,8 +52,6 @@ Each Wolf Carcass will have one pelt, along with [meat](./Wolf%20Meat%20%28Raw%2
 ## Gallery
 
 ![Old model.](../assets/Cured_wolf_pelt.png)
-
-_Old model._
 
 ## Update history
 

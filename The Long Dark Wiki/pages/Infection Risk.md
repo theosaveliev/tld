@@ -11,9 +11,7 @@
 
 **Infection Risk**
 
-![](../assets/Infection_Risk_icon.png)
-
-_Infection\_Risk\_icon.png_
+![Infection Risk icon](../assets/Infection_Risk_icon.png)
 
 **Release:** [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107)
 
@@ -35,9 +33,9 @@ _Infection\_Risk\_icon.png_
 
 **Treatment**
 
-**Treatment:** 1 x ![](../assets/Antiseptic_icon.png) [Antiseptic](./Antiseptic.md)
+**Treatment:** 1 x ![Antiseptic icon](../assets/Antiseptic_icon.png) [Antiseptic](./Antiseptic.md)
 
-**Alternate Treatment:** 1 x ![](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
+**Alternate Treatment:** 1 x ![Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
 
 **Recovery Time:** Immediate
 

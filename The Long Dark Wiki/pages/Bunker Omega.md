@@ -11,15 +11,11 @@
 
 **Bunker Omega**
 
-![](../assets/Bunker_Omega_outside.png)
-
-_Bunker\_Omega\_outside.png_
+![Bunker Omega outside](../assets/Bunker_Omega_outside.png)
 
 **Location**
 
-![](../assets/Bunker_Omega_Location.png)
-
-_Bunker\_Omega\_Location.png_
+![Bunker Omega Location](../assets/Bunker_Omega_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -27,15 +23,11 @@ _Bunker\_Omega\_Location.png_
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -59,24 +51,12 @@ The player is required to return here as part of [Last Horizon](./Last%20Horizon
 
 ![The bunker's bathroom](../assets/Bunker_Omega_bathroom.png)
 
-_The bunker's bathroom_
-
 ![The bedroom in the bunker](../assets/Bunker_Omega_bedroom.png)
-
-_The bedroom in the bunker_
 
 ![The stairway leading into the bunker](../assets/Bunker_Omega_entrance.png)
 
-_The stairway leading into the bunker_
-
 ![The bunker's kitchen area](../assets/Bunker_Omega_kitchen.png)
-
-_The bunker's kitchen area_
 
 ![the bunker's workshop, featuring a workbench](../assets/Bunker_Omega_workshop.png)
 
-_the bunker's workshop, featuring a workbench_
-
 ![The Bunker before it is uncovered](../assets/Bunker_Omega_Snow.jpg)
-
-_The Bunker before it is uncovered_

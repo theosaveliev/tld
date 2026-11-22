@@ -4,15 +4,11 @@
 
 **Stony Passage**
 
-![](../assets/Stony.png)
-
-_Stony.png_
+![Stony](../assets/Stony.png)
 
 **Location**
 
-![](../assets/Stoney_Passage_Location.png)
-
-_Stoney\_Passage\_Location.png_
+![Stoney Passage Location](../assets/Stoney_Passage_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

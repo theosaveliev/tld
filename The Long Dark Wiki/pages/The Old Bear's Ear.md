@@ -4,9 +4,7 @@
 
 **The Old Bear's Ear**
 
-![](../assets/The_Old_Bear%27s_Ear_icon.png)
-
-_The\_Old\_Bear's\_Ear\_icon.png_
+![The Old Bear's Ear icon](../assets/The_Old_Bear%27s_Ear_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -40,13 +38,9 @@ _The\_Old\_Bear's\_Ear\_icon.png_
 
 It was obtained after successfully tracking and shooting the [Old Bear](./Old%20Bear.md) multiple times in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), and finally killing the bear. After interacting with the carcass of The Old Bear, the bear's ear would instantly appear and could be taken. It would later be taken to [Jeremiah](./Jeremiah.md) as proof that [Will Mackenzie](./Will%20Mackenzie.md) managed to kill the Old Bear.
 
-![](../assets/The_Old_Bear%27s_Ear.jpg)
-
-_The\_Old\_Bear's\_Ear.jpg_
+![The Old Bear's Ear](../assets/The_Old_Bear%27s_Ear.jpg)
 
 ![Jeremiah with the Old Bear's Ear after Mackenzie returns with it.](../assets/Jeremiah_Old_Bear_Ear.jpg)
-
-_Jeremiah with the Old Bear's Ear after Mackenzie returns with it._
 
 ## Update history
 

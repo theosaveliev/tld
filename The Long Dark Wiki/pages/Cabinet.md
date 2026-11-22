@@ -4,7 +4,7 @@
 
 **Cabinet**
 
-\[\[File: / ![Food](../assets/Food_Cabinet.jpg) / _Food_ / ![Small](../assets/Small_Cabinet.jpg) / _Small_ / ![Clothing](../assets/Clothing_Cabinet.jpg) / _Clothing_
+![Food](../assets/Food_Cabinet.jpg)<br>![Small](../assets/Small_Cabinet.jpg)<br>![Clothing](../assets/Clothing_Cabinet.jpg)
 
 250px\]\]
 

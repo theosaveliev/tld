@@ -11,9 +11,7 @@
 
 **Small Arms Handbook**
 
-![](../assets/Small_Arms_Handbook_icon.png)
-
-_Small\_Arms\_Handbook\_icon.png_
+![Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png)
 
 **Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 
@@ -55,11 +53,11 @@ Research can only be performed under the following conditions:
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 

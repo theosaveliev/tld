@@ -4,9 +4,7 @@
 
 **Contraband Storage**
 
-![](../assets/Contraband_Storage.jpg)
-
-_Contraband\_Storage.jpg_
+![Contraband Storage](../assets/Contraband_Storage.jpg)
 
 **Update:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

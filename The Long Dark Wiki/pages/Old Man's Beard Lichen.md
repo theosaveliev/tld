@@ -13,9 +13,7 @@
 
 **Old Man's Beard Lichen**
 
-![](../assets/Old_Man%27s_Beard_Lichen_icon.png)
-
-_Old\_Man's\_Beard\_Lichen\_icon.png_
+![Old Man's Beard Lichen icon](../assets/Old_Man%27s_Beard_Lichen_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 
@@ -62,8 +60,6 @@ Old Man's Beard Lichen can be found hanging from low tree branches in all region
 ## Gallery
 
 ![Old model.](../assets/Old_man%27s_beard_lichen.png)
-
-_Old model._
 
 ## Update history
 

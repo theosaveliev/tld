@@ -18,7 +18,7 @@
 >
 > — In-game description
 
-![](../assets/Thirst_icon.png) **Thirst** is one of the four essential [needs](./Needs.md). Thirst is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire, and are particularly heavy. The thirst need is fulfilled by consuming [water](./Water%20%28Potable%29.md) or particular [foods and drinks](./Food%20And%20Drink.md). Failing to fulfill this need will result in [condition](./Condition.md) loss.
+![Thirst icon](../assets/Thirst_icon.png) **Thirst** is one of the four essential [needs](./Needs.md). Thirst is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire, and are particularly heavy. The thirst need is fulfilled by consuming [water](./Water%20%28Potable%29.md) or particular [foods and drinks](./Food%20And%20Drink.md). Failing to fulfill this need will result in [condition](./Condition.md) loss.
 
 ## Thirst bar
 

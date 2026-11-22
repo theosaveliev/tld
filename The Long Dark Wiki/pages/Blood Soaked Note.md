@@ -4,9 +4,7 @@
 
 **Blood Soaked Note**
 
-![](../assets/Blood_Soaked_Note_icon.png)
-
-_Blood\_Soaked\_Note\_icon.png_
+![Blood Soaked Note icon](../assets/Blood_Soaked_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -4,9 +4,7 @@
 
 **Broom**
 
-![](../assets/Broom.jpg)
-
-_Broom.jpg_
+![Broom](../assets/Broom.jpg)
 
 **General**
 

@@ -4,15 +4,11 @@
 
 **Hat Creek**
 
-![](../assets/20170304105847_1.jpg)
-
-_20170304105847\_1.jpg_
+![20170304105847 1](../assets/20170304105847_1.jpg)
 
 **Location**
 
-![](../assets/Hat_Creek_Location.png)
-
-_Hat\_Creek\_Location.png_
+![Hat Creek Location](../assets/Hat_Creek_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -24,6 +20,4 @@ The creek is a good source of [Cat Tail](./Cat%20Tail.md). Right next to its wat
 
 ## Gallery
 
-![](../assets/20170304105849_1.jpg)
-
-_20170304105849\_1.jpg_
+![20170304105849 1](../assets/20170304105849_1.jpg)

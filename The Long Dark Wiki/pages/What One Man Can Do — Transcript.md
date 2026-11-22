@@ -4,9 +4,7 @@
 
 **What One Man Can Do/Transcript**
 
-![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
-
-_Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
+![Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -18,7 +16,7 @@ _Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Characters:** [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man)
+**Characters:** [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md)<br>[Jeremiah](./Jeremiah.md)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man)
 
 This is the mission transcript for mission 4 [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

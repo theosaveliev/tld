@@ -2,7 +2,7 @@
 
 **Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Visor)
 
-![](../assets/Visor1.png) **Visors** are searchable scenery inside vehicles.
+![Visor1](../assets/Visor1.png) **Visors** are searchable scenery inside vehicles.
 
 ## Overview
 

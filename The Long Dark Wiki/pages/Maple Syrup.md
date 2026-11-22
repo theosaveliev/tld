@@ -12,9 +12,7 @@
 
 **Maple Syrup**
 
-![](../assets/Maple_Syrup_icon.png)
-
-_Maple\_Syrup\_icon.png_
+![Maple Syrup icon](../assets/Maple_Syrup_icon.png)
 
 **Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)
 

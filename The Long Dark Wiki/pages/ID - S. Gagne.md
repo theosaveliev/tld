@@ -4,9 +4,7 @@
 
 **ID - S. Gagne**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -38,9 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning slightly to the right. The ID is later returned to Winston at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-![](../assets/ID_-_S._Gagne_location.jpg)
-
-_ID\_-\_S.\_Gagne\_location.jpg_
+![ID S. Gagne location](../assets/ID_-_S._Gagne_location.jpg)
 
 ## Update history
 

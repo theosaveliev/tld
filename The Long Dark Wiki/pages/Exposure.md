@@ -11,9 +11,7 @@
 
 **Exposure**
 
-![](../assets/Exposure_icon.png)
-
-_Exposure\_icon.png_
+![Exposure icon](../assets/Exposure_icon.png)
 
 **Description:** Take a photo in each Great Bear Island Region for a total of 16 (single game).
 

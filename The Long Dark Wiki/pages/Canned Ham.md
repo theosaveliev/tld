@@ -4,9 +4,7 @@
 
 **Canned Ham**
 
-![](../assets/Canned_Ham_icon.png)
-
-_Canned\_Ham\_icon.png_
+![Canned Ham icon](../assets/Canned_Ham_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
@@ -40,11 +38,9 @@ _Canned\_Ham\_icon.png_
 
 **Item key:** GAMEPLAY\_CannedHam
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Canned Ham** is a packaged [food](./Food%20And%20Drink.md) which reduces hydration by 5% and provides 550 calories.
 

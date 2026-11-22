@@ -4,9 +4,7 @@
 
 **The Hard Sciences**
 
-![](../assets/The_Hard_Sciences_icon.png)
-
-_The\_Hard\_Sciences\_icon.png_
+![The Hard Sciences icon](../assets/The_Hard_Sciences_icon.png)
 
 **Description:** Reach the Suzuki Radio Telescope and deliver Jeremiah's "Wintermute" message to Dr. Atwood.
 

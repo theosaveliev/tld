@@ -4,9 +4,7 @@
 
 **Dryer**
 
-![](../assets/Dryer.jpg)
-
-_Dryer.jpg_
+![Dryer](../assets/Dryer.jpg)
 
 **Release:** TBD
 
@@ -26,148 +24,23 @@ A **Dryer** is a stationary interactable object in [The Long Dark](./The%20Long%
 
 ## Loot
 
-**Item:** Rarity
-
-![](../assets/Sports_Socks_icon.png)
-
-_Sports\_Socks\_icon.png_
-
-[Sports Socks](./Sports%20Socks.md)
-
-14.47%
-
-![](../assets/Wool_Socks_icon.png)
-
-_Wool\_Socks\_icon.png_
-
-[Wool Socks](./Wool%20Socks.md)
-
-14.47%
-
-![](../assets/T-Shirt_icon.png)
-
-_T-Shirt\_icon.png_
-
-[T-Shirt](./T-Shirt.md)
-
-13.16%
-
-![](../assets/Thermal_Underwear_icon.png)
-
-_Thermal\_Underwear\_icon.png_
-
-[Thermal Underwear](./Thermal%20Underwear.md)
-
-6.58%
-
-![](../assets/Dress_Shirt_icon.png)
-
-_Dress\_Shirt\_icon.png_
-
-[Dress Shirt](./Dress%20Shirt.md)
-
-6.58%
-
-![](../assets/Hoodie_icon.png)
-
-_Hoodie\_icon.png_
-
-[Hoodie](./Hoodie.md)
-
-6.58%
-
-![](../assets/Cargo_Pants_icon.png)
-
-_Cargo\_Pants\_icon.png_
-
-[Cargo Pants](./Cargo%20Pants.md)
-
-3.29%
-
-![](../assets/Thick_Wool_Sweater_icon.png)
-
-_Thick\_Wool\_Sweater\_icon.png_
-
-[Thick Wool Sweater](./Thick%20Wool%20Sweater.md)
-
-3.29%
-
-![](../assets/Sweatshirt_icon.png)
-
-_Sweatshirt\_icon.png_
-
-[Sweatshirt](./Sweatshirt.md)
-
-3.29%
-
-![](../assets/Thin_Wool_Sweater_icon.png)
-
-_Thin\_Wool\_Sweater\_icon.png_
-
-[Thin Wool Sweater](./Thin%20Wool%20Sweater.md)
-
-3.29%
-
-![](../assets/Jeans_icon.png)
-
-_Jeans\_icon.png_
-
-[Jeans](./Jeans.md)
-
-3.29%
-
-![](../assets/Plaid_Shirt_icon.png)
-
-_Plaid\_Shirt\_icon.png_
-
-[Plaid Shirt](./Plaid%20Shirt.md)
-
-3.29%
-
-![](../assets/Wool_Longjohns_icon.png)
-
-_Wool\_Longjohns\_icon.png_
-
-[Wool Longjohns](./Wool%20Longjohns.md)
-
-3.29%
-
-![](../assets/Work_Pants_icon.png)
-
-_Work\_Pants\_icon.png_
-
-[Work Pants](./Work%20Pants.md)
-
-3.29%
-
-![](../assets/Climbing_Socks_icon.png)
-
-_Climbing\_Socks\_icon.png_
-
-[Climbing Socks](./Climbing%20Socks.md)
-
-3.29%
-
-![](../assets/Wool_Shirt_icon.png)
-
-_Wool\_Shirt\_icon.png_
-
-[Wool Shirt](./Wool%20Shirt.md)
-
-3.29%
-
-![](../assets/Work_Pants_icon.png)
-
-_Work\_Pants\_icon.png_
-
-[Work Pants](./Work%20Pants.md)
-
-3.29%
-
-![](../assets/Combat_Pants_icon.png)
-
-_Combat\_Pants\_icon.png_
-
-[Combat Pants](./Combat%20Pants.md)
-
-1.97%
+|  | Item | Rarity |
+| --- | --- | --- |
+| ![Sports Socks icon](../assets/Sports_Socks_icon.png) | [Sports Socks](./Sports%20Socks.md) | 14.47% |
+| ![Wool Socks icon](../assets/Wool_Socks_icon.png) | [Wool Socks](./Wool%20Socks.md) | 14.47% |
+| ![T Shirt icon](../assets/T-Shirt_icon.png) | [T-Shirt](./T-Shirt.md) | 13.16% |
+| ![Thermal Underwear icon](../assets/Thermal_Underwear_icon.png) | [Thermal Underwear](./Thermal%20Underwear.md) | 6.58% |
+| ![Dress Shirt icon](../assets/Dress_Shirt_icon.png) | [Dress Shirt](./Dress%20Shirt.md) | 6.58% |
+| ![Hoodie icon](../assets/Hoodie_icon.png) | [Hoodie](./Hoodie.md) | 6.58% |
+| ![Cargo Pants icon](../assets/Cargo_Pants_icon.png) | [Cargo Pants](./Cargo%20Pants.md) | 3.29% |
+| ![Thick Wool Sweater icon](../assets/Thick_Wool_Sweater_icon.png) | [Thick Wool Sweater](./Thick%20Wool%20Sweater.md) | 3.29% |
+| ![Sweatshirt icon](../assets/Sweatshirt_icon.png) | [Sweatshirt](./Sweatshirt.md) | 3.29% |
+| ![Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png) | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 3.29% |
+| ![Jeans icon](../assets/Jeans_icon.png) | [Jeans](./Jeans.md) | 3.29% |
+| ![Plaid Shirt icon](../assets/Plaid_Shirt_icon.png) | [Plaid Shirt](./Plaid%20Shirt.md) | 3.29% |
+| ![Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) | [Wool Longjohns](./Wool%20Longjohns.md) | 3.29% |
+| ![Work Pants icon](../assets/Work_Pants_icon.png) | [Work Pants](./Work%20Pants.md) | 3.29% |
+| ![Climbing Socks icon](../assets/Climbing_Socks_icon.png) | [Climbing Socks](./Climbing%20Socks.md) | 3.29% |
+| ![Wool Shirt icon](../assets/Wool_Shirt_icon.png) | [Wool Shirt](./Wool%20Shirt.md) | 3.29% |
+| ![Work Pants icon](../assets/Work_Pants_icon.png) | [Work Pants](./Work%20Pants.md) | 3.29% |
+| ![Combat Pants icon](../assets/Combat_Pants_icon.png) | [Combat Pants](./Combat%20Pants.md) | 1.97% |

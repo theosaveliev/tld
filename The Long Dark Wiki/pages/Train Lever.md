@@ -4,9 +4,7 @@
 
 **Train Lever**
 
-![](../assets/Train_Lever_icon.png)
-
-_Train\_Lever\_icon.png_
+![Train Lever icon](../assets/Train_Lever_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

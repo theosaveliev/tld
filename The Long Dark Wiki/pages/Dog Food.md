@@ -11,7 +11,7 @@
 
 **Dog Food**
 
-\[\[File: / ![Sealed](../assets/Dog_Food_icon.png) / _Sealed_ / ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / _Opened_
+![Sealed](../assets/Dog_Food_icon.png)<br>![Opened](../assets/Dog_Food_%28Opened%29_icon.png)
 
 250px\]\]
 
@@ -73,8 +73,6 @@ It has relatively high chance of causing [Food Poisoning](./Food%20Poisoning.md)
 ## Gallery
 
 ![old model](../assets/Dog_food.png)
-
-_old model_
 
 ## Update history
 

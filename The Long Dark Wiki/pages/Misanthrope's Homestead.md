@@ -11,15 +11,13 @@
 
 **Misanthrope's Homestead**
 
-\[\[File: / ![](../assets/Misanthrope%27s_Homestead.jpg) / _Misanthrope's\_Homestead.jpg_
+![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Misanthrope%27s_Homestead_map.png)
-
-_Misanthrope's\_Homestead\_map.png_
+![Misanthrope's Homestead map](../assets/Misanthrope%27s_Homestead_map.png)
 
 Region
 
@@ -35,11 +33,9 @@ Type
 
 Residential
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-Has an interior / **Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
+Has an interior<br>**Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 
@@ -64,5 +60,3 @@ Due to the island's proximity to Sutherland's Trade Drop Box, the two story hous
 ## Gallery
 
 ![A view of the island.](../assets/Misanthrope%27s_Homestead_distant.jpg)
-
-_A view of the island._

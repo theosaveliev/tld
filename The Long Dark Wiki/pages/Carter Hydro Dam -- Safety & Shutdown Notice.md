@@ -4,9 +4,7 @@
 
 **Carter Hydro Dam -- Safety &amp; Shutdown Notice**
 
-![](../assets/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice_icon.png)
-
-_Carter\_Hydro\_Dam\_--\_Safety\_&amp;\_Shutdown\_Notice\_icon.png_
+![Carter Hydro Dam Safety &amp; Shutdown Notice icon](../assets/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice_icon.png)<br>_Carter\_Hydro\_Dam\_--\_Safety\_&amp;\_Shutdown\_Notice\_icon.png_
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

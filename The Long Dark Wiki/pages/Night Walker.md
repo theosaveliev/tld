@@ -11,9 +11,7 @@
 
 **Night Walker**
 
-![](../assets/Night_Walker_icon.png)
-
-_Night\_Walker\_icon.png_
+![Night Walker icon](../assets/Night_Walker_icon.png)
 
 **Description:** Survive an entire Night outside (single game)
 

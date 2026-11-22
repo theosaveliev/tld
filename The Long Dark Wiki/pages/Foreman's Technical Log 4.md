@@ -4,9 +4,7 @@
 
 **Foreman's Technical Log 4**
 
-![](../assets/Foreman%27s_Technical_Log_4_icon.png)
-
-_Foreman's\_Technical\_Log\_4\_icon.png_
+![Foreman's Technical Log 4 icon](../assets/Foreman%27s_Technical_Log_4_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

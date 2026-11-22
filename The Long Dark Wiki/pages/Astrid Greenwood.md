@@ -18,17 +18,15 @@
 
 **Astrid Greenwood**
 
-![](../assets/Astrid.png)
-
-_Astrid.png_
+![Astrid](../assets/Astrid.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
 **Date:** 1 August 2017
 
-**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)<br>**•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)<br>**•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
-**Mission:** **•** [Memories](./Memories.md) / **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) / **•** [Donner](./Donner.md)
+**Mission:** **•** [Memories](./Memories.md)<br>**•** [Trauma](./Trauma.md)<br>**•** [Fallen Star](./Fallen%20Star.md)<br>**•** [Coming Storm](./Coming%20Storm.md)<br>**•** [Aftermath](./Aftermath.md)<br>**•** [Donner](./Donner.md)
 
 **Biographical Information**
 
@@ -36,7 +34,7 @@ _Astrid.png_
 
 **Status:** Alive
 
-**Relatives:** **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) / **•** Jack (Son)
+**Relatives:** **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband)<br>**•** Jack (Son)
 
 **Occupation:** Doctor
 
@@ -121,60 +119,38 @@ In [Story](./Wintermute.md) mode each survivor has slightly different skills, th
 
 ## Belongings
 
-- ![](../assets/Astrid%27s_Toque_icon.png) [Astrid's Toque](./Astrid%27s%20Toque.md)
-- ![](../assets/Astrid%27s_Jacket_icon.png) [Astrid's Jacket](./Astrid%27s%20Jacket.md)
-- ![](../assets/Astrid%27s_Sweater_icon.png) [Astrid's Sweater](./Astrid%27s%20Sweater.md)
-- ![](../assets/Astrid%27s_Jeans_icon.png) [Astrid's Jeans](./Astrid%27s%20Jeans.md)
-- ![](../assets/Astrid%27s_Gloves_icon.png) [Astrid's Gloves](./Astrid%27s%20Gloves.md)
-- ![](../assets/Astrid%27s_Boots_icon.png) [Astrid's Boots](./Astrid%27s%20Boots.md)
-- ![](../assets/Astrid%27s_Hardcase_icon.png) [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
+- ![Astrid's Toque icon](../assets/Astrid%27s_Toque_icon.png) [Astrid's Toque](./Astrid%27s%20Toque.md)
+- ![Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png) [Astrid's Jacket](./Astrid%27s%20Jacket.md)
+- ![Astrid's Sweater icon](../assets/Astrid%27s_Sweater_icon.png) [Astrid's Sweater](./Astrid%27s%20Sweater.md)
+- ![Astrid's Jeans icon](../assets/Astrid%27s_Jeans_icon.png) [Astrid's Jeans](./Astrid%27s%20Jeans.md)
+- ![Astrid's Gloves icon](../assets/Astrid%27s_Gloves_icon.png) [Astrid's Gloves](./Astrid%27s%20Gloves.md)
+- ![Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png) [Astrid's Boots](./Astrid%27s%20Boots.md)
+- ![Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png) [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 - Astrid wears a blue scarf with birds on it at the start of Episode 1, but it is mostly destroyed and its remains are used by Hobbs to make a makeshift arm sling.
 
 ## Gallery
 
 ![Steam Trading Card](../assets/Dr._Astrid_Greenwood_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
 ![Ditto, full screen](../assets/Dr._Astrid_Greenwood_Steam_Card.jpg)
-
-_Ditto, full screen_
 
 ![Astrid in Wintermute](../assets/The_Long_Dark_-_Story_Mode_image3.png)
 
-_Astrid in Wintermute_
-
 ![From the February 2018 dev diary.](../assets/Astrid-_Dev_Diary_2018.jpg)
-
-_From the February 2018 dev diary._
 
 ![From the August 2018 dev diary.](../assets/Desolation-Point.jpg)
 
-_From the August 2018 dev diary._
-
 ![From the March 2019 dev diary.](../assets/ASTRID_in_snow_ep3-2-corrected-comp.jpg)
-
-_From the March 2019 dev diary._
 
 ![ditto, at the start of Episode 3](../assets/Astrid_in_the_snow_Episode_3.jpg)
 
-_ditto, at the start of Episode 3_
-
 ![ditto](../assets/Astrid_in_snow.jpg)
-
-_ditto_
 
 ![Astrid concept art.](../assets/Astrid_Greenwood_-_concept_art.jpg)
 
-_Astrid concept art._
-
 ![Astrid concept art](../assets/Astrid_Greenwood_-_concept_art_-_close.jpg)
 
-_Astrid concept art_
-
 ![A smashed photo of Astrid and Will](../assets/Astrid_and_Will_photo.jpg)
-
-_A smashed photo of Astrid and Will_
 
 ![A photo of Will and Astrid in the Jackrabbit Remote Transport](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
 
@@ -182,11 +158,7 @@ _A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20
 
 ![A painting of Astrid in the game](../assets/Astrid_painting.png)
 
-_A painting of Astrid in the game_
-
 ![Astrid's magnetic stripe card](../assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%283%29.png)
-
-_Astrid's magnetic stripe card_
 
 ## Trivia
 

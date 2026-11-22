@@ -4,9 +4,7 @@
 
 **Astrid's Boots**
 
-![](../assets/Astrid%27s_Boots_icon.png)
-
-_Astrid's\_Boots\_icon.png_
+![Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png)
 
 **General**
 
@@ -14,32 +12,30 @@ _Astrid's\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 1 × [Leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**Made of strong but supple leather, these boots are built to last.** / In-game description
+**Made of strong but supple leather, these boots are built to last.**<br>In-game description
 
 ”
 
@@ -53,11 +49,7 @@ The statistics of Astrid's boots are identical to those of [Trail Boots](./Trail
 
 ![Clothing model icon](../assets/Astrid%27s_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon](../assets/Astrid%27s_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Park Warning Notice**
 
-![](../assets/Park_Warning_Notice_icon.png)
-
-_Park\_Warning\_Notice\_icon.png_
+![Park Warning Notice icon](../assets/Park_Warning_Notice_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -4,7 +4,7 @@
 
 **Trade Drop Box**
 
-\[\[File: / ![Locked](../assets/Trade_Drop_Box.jpg) / _Locked_ / ![Unlocked](../assets/Trade_Drop_Box_Unlocked.png) / _Unlocked_
+![Locked](../assets/Trade_Drop_Box.jpg)<br>![Unlocked](../assets/Trade_Drop_Box_Unlocked.png)
 
 250px\]\]
 
@@ -12,11 +12,9 @@
 
 **Update:** [2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
  A **Trade Drop Box** is a container used to make trades with the [Trader](./Trader.md) in [Survival Mode](./Survival%20Mode.md). It does not appear if the Trader is not enabled on a Survival save file.
 

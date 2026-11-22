@@ -18,9 +18,7 @@
 
 **Field Dressing Your Kill, Vol. I**
 
-![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png)
-
-_Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png_
+![Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png)
 
 **Release:** [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346)
 
@@ -66,11 +64,11 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
@@ -105,11 +103,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ![3D Model](../assets/Field_dressing_your_kill.png)
 
-_3D Model_
-
 ![Old model](../assets/Field_Dressing_Your_Kill_Old.png)
-
-_Old model_
 
 ## Update history
 

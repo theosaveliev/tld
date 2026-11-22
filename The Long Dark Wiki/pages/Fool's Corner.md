@@ -4,15 +4,11 @@
 
 **Fool's Corner**
 
-![](../assets/Fool%27s_Corner_rope_climb_top.jpg)
-
-_Fool's\_Corner\_rope\_climb\_top.jpg_
+![Fool's Corner rope climb top](../assets/Fool%27s_Corner_rope_climb_top.jpg)
 
 **Location**
 
-![](../assets/Fool%27s_Corner_Location.png)
-
-_Fool's\_Corner\_Location.png_
+![Fool's Corner Location](../assets/Fool%27s_Corner_Location.png)
 
 Region
 

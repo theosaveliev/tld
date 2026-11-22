@@ -12,9 +12,7 @@
 
 **Echoes Of Astrid/Transcript**
 
-![](../assets/Echoes_Of_Astrid.jpg)
-
-_Echoes\_Of\_Astrid.jpg_
+![Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg)
 
 Episode
 

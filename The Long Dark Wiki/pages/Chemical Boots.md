@@ -4,9 +4,7 @@
 
 **Chemical Boots**
 
-![](../assets/Chemical_Boots_icon.png)
-
-_Chemical\_Boots\_icon.png_
+![Chemical Boots icon](../assets/Chemical_Boots_icon.png)
 
 **General**
 
@@ -18,27 +16,25 @@ Clothing Slot
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)60%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)60%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-8%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-8%
 
 **Harvest:** Cannot Harvest
 
 **Repair:** Cannot Repair
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
  **Chemical Boots** are a footwear [Clothing](./Clothing.md) in _The Long Dark_. They are a tool for more safely crossing [Chemical Hazards](./Chemical%20Hazard.md) on the surface of [Zone of Contamination](./Zone%20of%20Contamination.md).
 
@@ -54,15 +50,9 @@ Possible to acquire from the [Trader](./Trader.md) for 2.00 L [Lantern Fuel](./L
 
 ![Clothing model icon](../assets/Chemical_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Chemical_Boots_Model_Damaged_icon.png)
 
-_Clothing model icon damaged_
-
 ![Old gear icon](../assets/Chemical_Boots_icon_old.png)
-
-_Old gear icon_
 
 ## Update history
 

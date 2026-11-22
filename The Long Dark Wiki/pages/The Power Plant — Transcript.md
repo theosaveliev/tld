@@ -11,9 +11,7 @@
 
 **The Power Plant/Transcript**
 
-![](../assets/The_Power_Plant.png)
-
-_The\_Power\_Plant.png_
+![The Power Plant](../assets/The_Power_Plant.png)
 
 Episode
 
@@ -27,7 +25,7 @@ Episode
 
 **Region:** [Blackrock Region](./Blackrock.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Franklin](./Franklin.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Franklin](./Franklin.md)<br>[Mathis](./Mathis.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
 
 This is the transcript for Chapter 2 [The Power Plant](./The%20Power%20Plant.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

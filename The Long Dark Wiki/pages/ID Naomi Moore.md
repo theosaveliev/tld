@@ -4,9 +4,7 @@
 
 **ID Naomi Moore**
 
-![](../assets/ID_Naomi_Moore_icon.png)
-
-_ID\_Naomi\_Moore\_icon.png_
+![ID Naomi Moore icon](../assets/ID_Naomi_Moore_icon.png)
 
 **Wintermute:** No
 

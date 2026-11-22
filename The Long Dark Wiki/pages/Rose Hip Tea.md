@@ -12,9 +12,7 @@
 
 **Rose Hip Tea**
 
-![](../assets/Rose_Hip_Tea_icon.png)
-
-_Rose\_Hip\_Tea\_icon.png_
+![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png)
 
 **Renewable:** No
 
@@ -80,11 +78,7 @@ Prepared Rose Hips have half the weight of their raw form, and no form of Rose H
 
 ![Old model.](../assets/Rose_hip_tea.png)
 
-_Old model._
-
 ![Old icon](../assets/Rose_hip_tea_icon_old.png)
-
-_Old icon_
 
 ## History
 

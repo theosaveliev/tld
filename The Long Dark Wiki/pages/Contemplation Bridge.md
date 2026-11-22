@@ -4,15 +4,11 @@
 
 **Contemplation Bridge**
 
-![](../assets/Contemplation_Bridge.jpg)
-
-_Contemplation\_Bridge.jpg_
+![Contemplation Bridge](../assets/Contemplation_Bridge.jpg)
 
 **Location**
 
-![](../assets/Contemplation_Bridge_Location.png)
-
-_Contemplation\_Bridge\_Location.png_
+![Contemplation Bridge Location](../assets/Contemplation_Bridge_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

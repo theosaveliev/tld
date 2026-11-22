@@ -4,9 +4,7 @@
 
 **Beef Jerky**
 
-![](../assets/Beef_Jerky_icon.png)
-
-_Beef\_Jerky\_icon.png_
+![Beef Jerky icon](../assets/Beef_Jerky_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -46,8 +44,6 @@ Beef Jerky features a high energy density, making it a valuable food item. Addit
 ## Gallery
 
 ![Old model](../assets/Beef_Jerky.png)
-
-_Old model_
 
 ## Update history
 

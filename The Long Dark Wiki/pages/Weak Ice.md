@@ -13,11 +13,7 @@
 
 ![A patch of weak cracking ice](../assets/WeakIce.jpg)
 
-_A patch of weak cracking ice_
-
 ![A hole formed after a player fell through weak ice](../assets/Weak_Ice_Hole.jpg)
-
-_A hole formed after a player fell through weak ice_
 
 **Weak Ice** (also known as **Thin Ice**) is an uncommon but dangerous [Environmental Hazard](./Environmental%20Hazard.md) found within some [Regions](./Region.md) of [_The Long Dark_.](./The%20Long%20Dark.md)
 
@@ -68,8 +64,4 @@ If the survivor falls through Weak Ice, it is recommend to quickly find shelter 
 
 ![The old warning that showed when stepping over Weak Ice](../assets/Weak_Ice_Old.jpg)
 
-_The old warning that showed when stepping over Weak Ice_
-
 ![The old broken ice model formed after falling through Weak Ice (note that there are over 8 different holes formed after falling through)](../assets/Weak_Ice_Old_Cracked.jpg)
-
-_The old broken ice model formed after falling through Weak Ice (note that there are over 8 different holes formed after falling through)_

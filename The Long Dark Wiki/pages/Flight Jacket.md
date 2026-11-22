@@ -4,9 +4,7 @@
 
 **Flight Jacket**
 
-![](../assets/Flight_Jacket_icon.png)
-
-_Flight\_Jacket\_icon.png_
+![Flight Jacket icon](../assets/Flight_Jacket_icon.png)
 
 **General**
 
@@ -16,29 +14,27 @@ _Flight\_Jacket\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)5.0 °C(9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)10%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)10%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 3 × [Cured Leather](./Cured%20Leather.md) / 30 minutes
+**Harvest:** 3 × [Cured Leather](./Cured%20Leather.md)<br>30 minutes
 
-**Repair:** 2 × [Cured Leather](./Cured%20Leather.md) / 60 minutes / 40% condition
+**Repair:** 2 × [Cured Leather](./Cured%20Leather.md)<br>60 minutes<br>40% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**Its thick leather and heavy stitching keep bush pilots warm at altitude. Also offers good protection when operating at ground level.**” / > / > — In-game description / A **Flight Jacket** is a type of [Clothing](./Clothing.md) in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
+<br>> “**Its thick leather and heavy stitching keep bush pilots warm at altitude. Also offers good protection when operating at ground level.**”<br>><br>> — In-game description<br>A **Flight Jacket** is a type of [Clothing](./Clothing.md) in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
 ## Overview
 
@@ -56,11 +52,7 @@ Note: While it used to spawn, it is no longer available on [Interloper](./Interl
 
 ![Clothing model icon](../assets/Flight_Jacket_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Flight_Jacket_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

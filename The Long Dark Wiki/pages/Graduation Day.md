@@ -4,9 +4,7 @@
 
 **Graduation Day**
 
-![](../assets/Graduation_Day_icon.png)
-
-_Graduation\_Day\_icon.png_
+![Graduation Day icon](../assets/Graduation_Day_icon.png)
 
 **Description:** Complete all six Survival School objectives across Episodes One and Two.
 

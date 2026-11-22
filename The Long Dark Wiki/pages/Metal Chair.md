@@ -4,7 +4,7 @@
 
 **Metal Chair**
 
-\[\[File: / ![Chair](../assets/MetalChair.jpg) / _Chair_ / ![Armrest](../assets/MetalChairArmrest.jpg) / _Armrest_ / ![Bench](../assets/MetalChairBench.jpg) / _Bench_
+![Chair](../assets/MetalChair.jpg)<br>![Armrest](../assets/MetalChairArmrest.jpg)<br>![Bench](../assets/MetalChairBench.jpg)
 
 250px\]\]
 

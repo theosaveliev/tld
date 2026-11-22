@@ -12,9 +12,7 @@
 
 **Stick**
 
-![](../assets/Stick_icon.png)
-
-_Stick\_icon.png_
+![Stick icon](../assets/Stick_icon.png)
 
 **Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
 
@@ -44,11 +42,11 @@ _Stick\_icon.png_
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 7.5 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 7.5 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) 15%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 15%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
 
 **Burn Density:** 0.83 hr/kg (0.38 hr/lb)
 
@@ -79,8 +77,6 @@ It's commonly believed that sticks respawn after strong winds or blizzards, but 
 ## Gallery
 
 ![An arrow for navigation purposes made out of four sticks.](../assets/ArrowMadeOfSticks.png)
-
-_An arrow for navigation purposes made out of four sticks._
 
 ## Update history
 

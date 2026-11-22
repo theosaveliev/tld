@@ -4,15 +4,11 @@
 
 **Marsh Ridge**
 
-![](../assets/Marsh_Ridge_aerial_view.jpg)
-
-_Marsh\_Ridge\_aerial\_view.jpg_
+![Marsh Ridge aerial view](../assets/Marsh_Ridge_aerial_view.jpg)
 
 **Location**
 
-![](../assets/Marsh_Ridge_Location.png)
-
-_Marsh\_Ridge\_Location.png_
+![Marsh Ridge Location](../assets/Marsh_Ridge_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -26,22 +22,12 @@ On Marsh Ridge, there is a shallow cave where relatively good loot (e.g., food, 
 
 ## Gallery
 
-![](../assets/20170304112400_1.jpg)
+![20170304112400 1](../assets/20170304112400_1.jpg)
 
-_20170304112400\_1.jpg_
+![20170304114824 1](../assets/20170304114824_1.jpg)
 
-![](../assets/20170304114824_1.jpg)
+![20170304114805 1](../assets/20170304114805_1.jpg)
 
-_20170304114824\_1.jpg_
+![20170304114655 1](../assets/20170304114655_1.jpg)
 
-![](../assets/20170304114805_1.jpg)
-
-_20170304114805\_1.jpg_
-
-![](../assets/20170304114655_1.jpg)
-
-_20170304114655\_1.jpg_
-
-![](../assets/Rabbit_luck.jpg)
-
-_Rabbit\_luck.jpg_
+![Rabbit luck](../assets/Rabbit_luck.jpg)

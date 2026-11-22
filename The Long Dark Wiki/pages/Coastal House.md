@@ -15,7 +15,7 @@
 
 **Coastal House**
 
-\[\[File: / ![Type 1](../assets/Coastal_House_1.jpg) / _Type 1_ / ![Type 2](../assets/Coastal_House_2.jpg) / _Type 2_ / ![Type 3](../assets/Coastal_House_3.jpg) / _Type 3_ / ![Type 4](../assets/Coastal_House_4.jpg) / _Type 4_ / ![Type 5](../assets/Jackrabbit_Island_-_house.jpg) / _Type 5_
+![Type 1](../assets/Coastal_House_1.jpg)<br>![Type 2](../assets/Coastal_House_2.jpg)<br>![Type 3](../assets/Coastal_House_3.jpg)<br>![Type 4](../assets/Coastal_House_4.jpg)<br>![Type 5](../assets/Jackrabbit_Island_-_house.jpg)
 
 250px\]\]
 
@@ -35,9 +35,7 @@ Residential
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -66,21 +64,13 @@ Coastal Houses appear as 5 types of buildings:
 
 ### 1 Story House Type 1
 
-![](../assets/Coastal_House_1.jpg)
+![Coastal House 1](../assets/Coastal_House_1.jpg)
 
-_Coastal\_House\_1.jpg_
+![Coastal House 2 Kitchen](../assets/Coastal_House_2_Kitchen.jpg)
 
-![](../assets/Coastal_House_2_Kitchen.jpg)
+![Coastal House 2 Den](../assets/Coastal_House_2_Den.jpg)
 
-_Coastal\_House\_2\_Kitchen.jpg_
-
-![](../assets/Coastal_House_2_Den.jpg)
-
-_Coastal\_House\_2\_Den.jpg_
-
-![](../assets/Coastal_House_2_Bedroom.jpg)
-
-_Coastal\_House\_2\_Bedroom.jpg_
+![Coastal House 2 Bedroom](../assets/Coastal_House_2_Bedroom.jpg)
 
 This type of building has only 1 floor, with 2 doors leading outside of the building to either the kitchen or living room. They are composed of:
 
@@ -91,17 +81,11 @@ This type of building has only 1 floor, with 2 doors leading outside of the buil
 
 ### 1 Story House Type 2
 
-![](../assets/Coastal_House_3.jpg)
-
-_Coastal\_House\_3.jpg_
+![Coastal House 3](../assets/Coastal_House_3.jpg)
 
 ![Den](../assets/Coastal_House_1_Den.jpg)
 
-_Den_
-
 ![Kitchen leading to bedroom/bathroom](../assets/Coastal_House_3_Kitchen.jpg)
-
-_Kitchen leading to bedroom/bathroom_
 
 This type of building has only 1 floor, with 2 doors leading outside of the building to either the kitchen or living room, but with a slightly different layout from the first house type. They are composed of:
 
@@ -112,17 +96,11 @@ This type of building has only 1 floor, with 2 doors leading outside of the buil
 
 ### 1 Story House Type 3
 
-![](../assets/Coastal_House_2.jpg)
-
-_Coastal\_House\_2.jpg_
+![Coastal House 2](../assets/Coastal_House_2.jpg)
 
 ![Kitchen](../assets/Crossroads_House_1_Kitchen.jpg)
 
-_Kitchen_
-
 ![Bedroom and Bathroom](../assets/Crossroads_House_1_Bedroom.jpg)
-
-_Bedroom and Bathroom_
 
 A very small walk in house with a single door entrance. This building has only 3 major rooms:
 
@@ -132,9 +110,7 @@ A very small walk in house with a single door entrance. This building has only 3
 
 ### 1 Story House Type 4
 
-![](../assets/Jackrabbit_Island_-_house.jpg)
-
-_Jackrabbit\_Island\_-\_house.jpg_
+![Jackrabbit Island house](../assets/Jackrabbit_Island_-_house.jpg)
 
 This building type only appears at [Jackrabbit Island](./Jackrabbit%20Island.md). It has 2 entrances that lead to 4 different rooms:
 
@@ -145,18 +121,10 @@ This building type only appears at [Jackrabbit Island](./Jackrabbit%20Island.md)
 
 ### 2 Story House
 
-![](../assets/Coastal_House_4.jpg)
-
-_Coastal\_House\_4.jpg_
+![Coastal House 4](../assets/Coastal_House_4.jpg)
 
 ![Den](../assets/Coastal_House_5_Den.jpg)
 
-_Den_
-
 ![Kitchen](../assets/Coastal_House_5_kitchen.jpg)
 
-_Kitchen_
-
 ![Upper Floor](../assets/Coastal_House_5_upper_floor.jpg)
-
-_Upper Floor_

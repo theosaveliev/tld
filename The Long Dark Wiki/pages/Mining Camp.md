@@ -11,15 +11,11 @@
 
 **Mining Camp**
 
-![](../assets/20201209233317_1.jpg)
-
-_20201209233317\_1.jpg_
+![20201209233317 1](../assets/20201209233317_1.jpg)
 
 **Location**
 
-![](../assets/Mining_Camp_Location.png)
-
-_Mining\_Camp\_Location.png_
+![Mining Camp Location](../assets/Mining_Camp_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -50,20 +46,10 @@ Before going into the Mining camp, you will need a [mountaineering rope](./Mount
 
 ![Mining Camp overlook](../assets/20201209232930_1.jpg)
 
-_Mining Camp overlook_
-
 ![Gold Mine](../assets/Screen_4a21893e-0fb9-43e8-ab33-b094204a8542_hi.png)
-
-_Gold Mine_
 
 ![Mining Camp overlook](../assets/Screenshot_%2826%29.png)
 
-_Mining Camp overlook_
+![Double Waterfall of Mining Camp](../assets/Double_Waterfall_of_Mining_Camp.jpg)
 
-![](../assets/Double_Waterfall_of_Mining_Camp.jpg)
-
-_Double\_Waterfall\_of\_Mining\_Camp.jpg_
-
-![](../assets/Double_Waterfall_of_Mining_Camp_Alt_View.jpg)
-
-_Double\_Waterfall\_of\_Mining\_Camp\_Alt\_View.jpg_
+![Double Waterfall of Mining Camp Alt View](../assets/Double_Waterfall_of_Mining_Camp_Alt_View.jpg)

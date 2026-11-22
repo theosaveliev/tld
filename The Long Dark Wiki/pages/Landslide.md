@@ -4,15 +4,13 @@
 
 **Landslide**
 
-\[\[File: / ![Front Side](../assets/Landslide2.jpg) / _Front Side_ / ![Back Side](../assets/Landslide.jpg) / _Back Side_
+![Front Side](../assets/Landslide2.jpg)<br>![Back Side](../assets/Landslide.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Landslide_Location.png)
-
-_Landslide\_Location.png_
+![Landslide Location](../assets/Landslide_Location.png)
 
 Region
 

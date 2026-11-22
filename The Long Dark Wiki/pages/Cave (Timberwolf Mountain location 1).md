@@ -6,7 +6,7 @@
 
 **Cave (Timberwolf Mountain location 1)**
 
-\[\[File: / ![](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg) / _Cave\_(Timberwolf\_Mountain\_location\_1)\_exterior.jpg_
+![Cave (Timberwolf Mountain location 1) exterior](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg)
 
 250px\]\]
 
@@ -32,5 +32,3 @@ There is a [Cargo Container](./Cargo%20Container.md) near Cave C exit (although 
 ## Gallery
 
 ![A corpse inside the Cave in TWM, next to backpack and book](../assets/20210427234245_1.jpg)
-
-_A corpse inside the Cave in TWM, next to backpack and book_

@@ -4,15 +4,11 @@
 
 **Cave**
 
-![](../assets/Milton_cave.png)
-
-_Milton\_cave.png_
+![Milton cave](../assets/Milton_cave.png)
 
 **Location**
 
-![](../assets/Cave_Mountain_Town_Location.png)
-
-_Cave\_Mountain\_Town\_Location.png_
+![Cave Mountain Town Location](../assets/Cave_Mountain_Town_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -22,7 +18,7 @@ _Cave\_Mountain\_Town\_Location.png_
 
 **Type:** Cave
 
-Has an interior / **Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md).
+Has an interior<br>**Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md).
 
 ## Overview
 

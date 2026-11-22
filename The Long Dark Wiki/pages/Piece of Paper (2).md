@@ -4,9 +4,7 @@
 
 **Piece of Paper**
 
-![](../assets/Piece_Of_Paper_icon.png)
-
-_Piece\_of\_Paper\_icon.png_
+![Piece Of Paper icon](../assets/Piece_Of_Paper_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

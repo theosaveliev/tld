@@ -4,9 +4,7 @@
 
 **Note From Dr Larsen**
 
-![](../assets/Note_From_Dr_Larsen_icon.png)
-
-_Note\_From\_Dr\_Larsen\_icon.png_
+![Note From Dr Larsen icon](../assets/Note_From_Dr_Larsen_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

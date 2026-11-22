@@ -4,9 +4,7 @@
 
 **Armoured**
 
-![](../assets/Armoured_icon.png)
-
-_Armoured\_icon.png_
+![Armoured icon](../assets/Armoured_icon.png)
 
 **Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
 

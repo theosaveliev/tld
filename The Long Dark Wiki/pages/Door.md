@@ -4,9 +4,7 @@
 
 **Door**
 
-![](../assets/Door_%28Object%29.jpg)
-
-_Door\_(Object).jpg_
+![Door (Object)](../assets/Door_%28Object%29.jpg)
 
 **General**
 

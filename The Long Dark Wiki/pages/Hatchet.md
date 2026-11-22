@@ -14,9 +14,7 @@
 
 **Hatchet**
 
-![](../assets/Hatchet_icon.png)
-
-_Hatchet\_icon.png_
+![Hatchet icon](../assets/Hatchet_icon.png)
 
 **General**
 
@@ -24,11 +22,11 @@ _Hatchet\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md)<br>1 × [Fir Firewood](./Fir%20Firewood.md)<br>1 hour
 
-**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5%
+**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes<br>3%-5%
 
 _For the improvised variant, see [Improvised Hatchet](./Improvised%20Hatchet.md)._
 
@@ -84,8 +82,4 @@ The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.m
 
 ![Old model.](../assets/Hatchet.png)
 
-_Old model._
-
 ![Old icon](../assets/Hatchet_old_icon.webp)
-
-_Old icon_

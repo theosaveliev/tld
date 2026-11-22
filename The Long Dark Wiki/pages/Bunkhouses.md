@@ -4,15 +4,11 @@
 
 **Bunkhouses**
 
-![](../assets/Forlorn_Muskeg_Bunkhouses.jpg)
-
-_Forlorn\_Muskeg\_Bunkhouses.jpg_
+![Forlorn Muskeg Bunkhouses](../assets/Forlorn_Muskeg_Bunkhouses.jpg)
 
 **Location**
 
-![](../assets/Bunkhouses_Location.png)
-
-_Bunkhouses\_Location.png_
+![Bunkhouses Location](../assets/Bunkhouses_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

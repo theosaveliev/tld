@@ -4,15 +4,11 @@
 
 **Pensive Vista**
 
-![](../assets/Pensive_Vista.jpg)
-
-_Pensive\_Vista.jpg_
+![Pensive Vista](../assets/Pensive_Vista.jpg)
 
 **Location**
 
-![](../assets/Pensive_Vista_Location.png)
-
-_Pensive\_Vista\_Location.png_
+![Pensive Vista Location](../assets/Pensive_Vista_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

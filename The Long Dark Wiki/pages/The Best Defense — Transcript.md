@@ -11,9 +11,7 @@
 
 **The Best Defense/Transcript**
 
-![](../assets/Missions_story_ep2_The_Best_Defense.png)
-
-_Missions\_story\_ep2\_The\_Best\_Defense.png_
+![Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -23,9 +21,9 @@ _Missions\_story\_ep2\_The\_Best\_Defense.png_
 
 **Next:** [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md)
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md)
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Broken Railroad](./Broken%20Railroad.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) / [Methuselah](./Methuselah.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)<br>[Methuselah](./Methuselah.md)
 
 This is the mission transcript for mission 2 [The Best Defense](./The%20Best%20Defense.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

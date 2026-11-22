@@ -4,15 +4,11 @@
 
 **Lookout (Mystery Lake location)**
 
-![](../assets/Lookout_closeup.jpg)
-
-_lookout\_closeup.jpg_
+![Lookout closeup](../assets/Lookout_closeup.jpg)
 
 **Location**
 
-![](../assets/Lookout_Location.png)
-
-_Lookout\_Location.png_
+![Lookout Location](../assets/Lookout_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -28,9 +24,7 @@ This location does not need to be surveyed as part of the [Faithful Cartographer
 
 ## Gallery
 
-![](../assets/Lookout_%28Mystery_Lake_location%29.jpg)
-
-_Lookout\_(Mystery\_Lake\_location).jpg_
+![Lookout (Mystery Lake location)](../assets/Lookout_%28Mystery_Lake_location%29.jpg)
 
 ![A view of the Mystery Lake Region from the hill beside Lookout. The Forestry Lookout and Destroyed Lookout are visible in the background.](../assets/Lookout_wide_angle.png)
 

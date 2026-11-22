@@ -4,9 +4,7 @@
 
 **Urn**
 
-![](../assets/Urn.jpg)
-
-_Urn.jpg_
+![Urn](../assets/Urn.jpg)
 
 **Release:** 1.00
 

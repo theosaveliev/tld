@@ -4,15 +4,11 @@
 
 **No Road Cave**
 
-![](../assets/Onewaycave.jpg)
-
-_Onewaycave.jpg_
+![Onewaycave](../assets/Onewaycave.jpg)
 
 **Location**
 
-![](../assets/No_Road_Cave_Location.png)
-
-_No\_Road\_Cave\_Location.png_
+![No Road Cave Location](../assets/No_Road_Cave_Location.png)
 
 Region
 

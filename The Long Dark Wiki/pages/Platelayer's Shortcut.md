@@ -4,15 +4,13 @@
 
 **Platelayer's Shortcut**
 
-\[\[File: / ![Lower Entrance](../assets/Platelayer%27s_Shortcut.jpg) / _Lower Entrance_ / ![Upper Entrance](../assets/Platelayer%27s_Shortcut_Upper.jpg) / _Upper Entrance_
+![Lower Entrance](../assets/Platelayer%27s_Shortcut.jpg)<br>![Upper Entrance](../assets/Platelayer%27s_Shortcut_Upper.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Platelayer%27s_Shortcut_Location.png)
-
-_Platelayer's\_Shortcut\_Location.png_
+![Platelayer's Shortcut Location](../assets/Platelayer%27s_Shortcut_Location.png)
 
 Region
 

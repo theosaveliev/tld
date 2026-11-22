@@ -4,9 +4,7 @@
 
 **Adrift**
 
-![](../assets/Adrift_icon.png)
-
-_Adrift\_icon.png_
+![Adrift icon](../assets/Adrift_icon.png)
 
 **Description:** Discover the truth behind the mysterious signal in Desperation Bay.
 

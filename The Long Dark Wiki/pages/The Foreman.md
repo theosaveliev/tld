@@ -15,9 +15,7 @@
 
 **The Foreman**
 
-![](../assets/Foreman%27s_Polaroid_4_icon.png)
-
-_Foreman's\_Polaroid\_4\_icon.png_
+![Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png)
 
 **Release:** 2.03
 
@@ -39,7 +37,7 @@ _Foreman's\_Polaroid\_4\_icon.png_
 
 **Game Information**
 
-**Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) / [Tactical Jacket](./Tactical%20Jacket.md)
+**Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md)<br>[Tactical Jacket](./Tactical%20Jacket.md)
 
 **Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
 

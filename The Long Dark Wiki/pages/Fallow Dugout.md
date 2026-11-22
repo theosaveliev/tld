@@ -4,15 +4,11 @@
 
 **Fallow Dugout**
 
-![](../assets/Fallow_Dugout.jpg)
-
-_Fallow\_Dugout.jpg_
+![Fallow Dugout](../assets/Fallow_Dugout.jpg)
 
 **Location**
 
-![](../assets/Fallow_Dugout_Location.png)
-
-_Fallow\_Dugout\_Location.png_
+![Fallow Dugout Location](../assets/Fallow_Dugout_Location.png)
 
 Region
 

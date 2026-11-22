@@ -14,9 +14,7 @@
 
 **Marine Flare**
 
-![](../assets/Marine_Flare_icon.png)
-
-_Marine\_Flare\_icon.png_
+![Marine Flare icon](../assets/Marine_Flare_icon.png)
 
 **General**
 
@@ -26,9 +24,9 @@ _Marine\_Flare\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
 
 
 

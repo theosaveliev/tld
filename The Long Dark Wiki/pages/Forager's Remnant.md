@@ -4,15 +4,11 @@
 
 **Forager's Remnant**
 
-![](../assets/Forager%27s_Remnant.jpg)
-
-_Forager's\_Remnant.jpg_
+![Forager's Remnant](../assets/Forager%27s_Remnant.jpg)
 
 **Location**
 
-![](../assets/Forager%27s_Remnant_Location.png)
-
-_Forager's\_Remnant\_Location.png_
+![Forager's Remnant Location](../assets/Forager%27s_Remnant_Location.png)
 
 Region
 
@@ -24,9 +20,7 @@ Region
 
 **Type:** Outdoors
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -38,8 +32,4 @@ _Overview of Forager's Remnant, with the rope climb to the ledge path towards [N
 
 ![Work bench and storage at Forager's Remnant](../assets/Forager%27s_Remnant_workbench.jpg)
 
-_Work bench and storage at Forager's Remnant_
-
 ![Inside what's left of the structure at Forager's Remnant](../assets/Forager%27s_Remnant.jpg)
-
-_Inside what's left of the structure at Forager's Remnant_

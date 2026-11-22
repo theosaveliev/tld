@@ -4,9 +4,7 @@
 
 **Trail Boots**
 
-![](../assets/Trail_Boots_icon.png)
-
-_Trail\_Boots\_icon.png_
+![Trail Boots icon](../assets/Trail_Boots_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Trail\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
 > “**Rugged leather hiking boot. Designed to last for long-distance journeys on rocky terrain. Leather upper and heavy rubber sole.**”
 >
@@ -50,15 +48,9 @@ Counterintuitively, while bulkier and heavier than similar footwear they only re
 
 ![Trail Boots old model](../assets/Basic_boots_%28historical%29.png)
 
-_Trail Boots old model_
-
 ![Clothing model icon](../assets/Trail_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Trail_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

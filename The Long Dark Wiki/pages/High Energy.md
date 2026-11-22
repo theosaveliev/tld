@@ -4,9 +4,7 @@
 
 **High Energy**
 
-![](../assets/Missions_story_ep5_HighEnergy.png)
-
-_Missions\_story\_ep5\_HighEnergy.png_
+![Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Suzuki Environs](./Suzuki%20Environs.md) [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jace](./Jace.md) / [Atwood](./Atwood.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jace](./Jace.md)<br>[Atwood](./Atwood.md)
 
 > “**Activate each Substation before the aurora returns.**”
 

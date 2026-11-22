@@ -4,15 +4,11 @@
 
 **Indolent Hoppers**
 
-![](../assets/Indolent_Hoppers.jpg)
-
-_Indolent\_Hoppers.jpg_
+![Indolent Hoppers](../assets/Indolent_Hoppers.jpg)
 
 **Location**
 
-![](../assets/Indolent_Hoppers_Location.png)
-
-_Indolent\_Hoppers\_Location.png_
+![Indolent Hoppers Location](../assets/Indolent_Hoppers_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -24,9 +20,7 @@ Type
 
 Firebox
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

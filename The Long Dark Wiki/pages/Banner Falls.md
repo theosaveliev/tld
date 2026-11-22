@@ -4,15 +4,13 @@
 
 **Banner Falls**
 
-\[\[File: / ![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg) / _Banner falls (Left) Watchfull Falls (right)_
+![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Banner_Falls_Location.png)
-
-_Banner\_Falls\_Location.png_
+![Banner Falls Location](../assets/Banner_Falls_Location.png)
 
 Region
 

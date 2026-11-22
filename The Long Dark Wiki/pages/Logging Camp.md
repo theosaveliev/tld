@@ -4,27 +4,19 @@
 
 **Logging Camp**
 
-![](../assets/Logging_camp_01.jpg)
-
-_Logging\_camp\_01.jpg_
+![Logging camp 01](../assets/Logging_camp_01.jpg)
 
 **Location**
 
-![](../assets/Logging_Camp_Location.png)
-
-_Logging\_Camp\_Location.png_
+![Logging Camp Location](../assets/Logging_Camp_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **Type:** Residential
 
-![](../assets/Forge_icon_green.png)
+![Forge icon green](../assets/Forge_icon_green.png)
 
-_forge\_icon\_green.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior The**Logging Camp** is a collection of several small trailers, presumably to shelter the loggers who once worked in the nearby [Clearcut](./Clearcut.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
@@ -41,5 +33,3 @@ The camp may make a fine temporary base, as it has many beds and access to plent
 ## Gallery
 
 ![An alternative view of the logging camp.](../assets/Logging_Camp.png)
-
-_An alternative view of the logging camp._

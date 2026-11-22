@@ -11,15 +11,11 @@
 
 **Milton Post Office**
 
-![](../assets/Milton_Post_Office_-_Front.jpg)
-
-_Milton\_Post\_Office\_-\_Front.jpg_
+![Milton Post Office Front](../assets/Milton_Post_Office_-_Front.jpg)
 
 **Location**
 
-![](../assets/Milton_Post_Office_Location.png)
-
-_Milton\_Post\_Office\_Location.png_
+![Milton Post Office Location](../assets/Milton_Post_Office_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -51,16 +47,8 @@ Despite there being a back-end of the post office, this part of the building is 
 
 ![Exterior](../assets/TLD-SS-Milton-PO-ex.jpg)
 
-_Exterior_
-
 ![Interior](../assets/TLD-SS-Milton-PO-in.jpg)
-
-_Interior_
 
 ![Loading bay at the rear of the building](../assets/Milton_Post_Office_-_Loading_Bay.jpg)
 
-_Loading bay at the rear of the building_
-
 ![Exterior sign](../assets/Milton_post_office_sign.png)
-
-_Exterior sign_

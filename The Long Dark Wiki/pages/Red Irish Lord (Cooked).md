@@ -6,9 +6,7 @@ _For the raw version, see [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%2
 
 **Red Irish Lord (Cooked)**
 
-![](../assets/Red_Irish_Lord_%28Cooked%29_icon.png)
-
-_Red\_Irish\_Lord\_(Cooked)\_icon.png_
+![Red Irish Lord (Cooked) icon](../assets/Red_Irish_Lord_%28Cooked%29_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -52,23 +50,13 @@ _Red\_Irish\_Lord\_(Cooked)\_icon.png_
 
 ![Fresh](../assets/Red_Irish_Lord_%28Cooked%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Red_Irish_Lord_%28Cooked%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Red_Irish_Lord_%28Cooked%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Red_Irish_Lord_%28Cooked%29_Rancid_icon.png)
 
-_Rancid_
-
 ![Ruined](../assets/Red_Irish_Lord_%28Cooked%29_Ruined_icon.png)
-
-_Ruined_
 
 ## Update history
 

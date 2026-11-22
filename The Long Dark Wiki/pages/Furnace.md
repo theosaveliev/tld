@@ -4,15 +4,13 @@
 
 **Furnace**
 
-![](../assets/Furnace.png)
-
-_Furnace.png_
+![Furnace](../assets/Furnace.png)
 
 **General**
 
 **Type:** Fire Starting
 
-**Max temperature:** 200 °C / _(360 °F)_
+**Max temperature:** 200 °C<br>_(360 °F)_
 
 **Cooking slots:** 1
 

@@ -28,15 +28,15 @@ Trapping is a safe and efficient method exclusively for killing rabbits in The L
 
 ### Placement
 
-![](../assets/Snare_icon.png) Snares are set individually by "placing" them from either the radial menu or inventory. Selecting a trap from the radial menu allows the player to immediately see the outline of a placeable snare, centered on the screen. Alternatively, a "place" button uniquely appears under the snare description in the inventory screen. Similarly, selecting "Place" from the inventory screen immediately returns the view to the main screen with the outlined view of a placeable snare. The outline will be red when placement is not possible, green when it is. Move as desired to a good spot. Left click to release. Right click to cancel. Left click on a placed snare to pick it up again as you would any loose item in the game.
+![Snare icon](../assets/Snare_icon.png) Snares are set individually by "placing" them from either the radial menu or inventory. Selecting a trap from the radial menu allows the player to immediately see the outline of a placeable snare, centered on the screen. Alternatively, a "place" button uniquely appears under the snare description in the inventory screen. Similarly, selecting "Place" from the inventory screen immediately returns the view to the main screen with the outlined view of a placeable snare. The outline will be red when placement is not possible, green when it is. Move as desired to a good spot. Left click to release. Right click to cancel. Left click on a placed snare to pick it up again as you would any loose item in the game.
 
 ### Setting Runs
 
-![](../assets/Placed_snare.png) Location of traps is critical; they must be set where the rabbits are able to spawn or they will catch nothing. Spotting a specimen is the best sign of a valid area. But individuals wander, so it is possible it has left the bounds of its spawn point, especially if something has startled it. Estimate the center of animal activity by observing the area carefully. Set your traps there. Setting multiple traps along a line or even in a grid can greatly assist learning exactly where the rabbiting area is. Traps set outside a rabbiting area will never catch anything. Choosing a convenient location is also important because you will have to come back later to remove the catch.
+![Placed snare](../assets/Placed_snare.png) Location of traps is critical; they must be set where the rabbits are able to spawn or they will catch nothing. Spotting a specimen is the best sign of a valid area. But individuals wander, so it is possible it has left the bounds of its spawn point, especially if something has startled it. Estimate the center of animal activity by observing the area carefully. Set your traps there. Setting multiple traps along a line or even in a grid can greatly assist learning exactly where the rabbiting area is. Traps set outside a rabbiting area will never catch anything. Choosing a convenient location is also important because you will have to come back later to remove the catch.
 
 ### The Catch
 
-![](../assets/Caught_Rabbit.png) You will never see a trap activated. Chasing rabbits into snares has no effect, and there is no relevant bait. What catches rabbits is time and absence. Twelve hours after a trap is set, it begins checking to see if a rabbit has been caught. Trapped animals immediately begin freezing. Their carcasses appear identical to rabbits killed by other means. Snares that have made a catch will need to be reset. It is also possible that snares may have been damaged and must be rebuilt.
+![Caught Rabbit](../assets/Caught_Rabbit.png) You will never see a trap activated. Chasing rabbits into snares has no effect, and there is no relevant bait. What catches rabbits is time and absence. Twelve hours after a trap is set, it begins checking to see if a rabbit has been caught. Trapped animals immediately begin freezing. Their carcasses appear identical to rabbits killed by other means. Snares that have made a catch will need to be reset. It is also possible that snares may have been damaged and must be rebuilt.
 
 ### Broken Snares
 
@@ -46,7 +46,7 @@ Occasionally snares will be found "broken", their condition reduced to 0%. This 
 
 ## Fishing Tip-Ups
 
-![](../assets/Fishing_Tip-Up_icon.png) A [Fishing Tip-Up](./Fishing%20Tip-Up.md) can be placed in any [Ice Fishing](./Ice%20Fishing.md) hole that has been broken open. The player can use them to fish on their behalf or as they fish in their own separate hole.
+![Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) A [Fishing Tip-Up](./Fishing%20Tip-Up.md) can be placed in any [Ice Fishing](./Ice%20Fishing.md) hole that has been broken open. The player can use them to fish on their behalf or as they fish in their own separate hole.
 
 ### Placement
 
@@ -78,12 +78,6 @@ Blizzards and general use will decay the Condition of a Tip-Up, and they can be 
 
 ![Setting many traps...](../assets/Placedtraps.png)
 
-_Setting many traps..._
-
 ![...will catch many rabbits.](../assets/Caughtrabbits.png)
 
-_...will catch many rabbits._
-
 ![lining traps can help show the extents of the rabbit area.](../assets/Trapline.jpg)
-
-_lining traps can help show the extents of the rabbit area._

@@ -11,9 +11,7 @@
 
 **Paradise Lost**
 
-![](../assets/Paradise_Lost.png)
-
-_Paradise\_Lost.png_
+![Paradise Lost](../assets/Paradise_Lost.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -25,7 +23,7 @@ _Paradise\_Lost.png_
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Grey Mother](./Grey%20Mother.md)<br>[Methuselah](./Methuselah.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 

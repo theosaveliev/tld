@@ -4,9 +4,7 @@
 
 **Tough as Nails**
 
-![](../assets/Tough_as_Nails.jpg)
-
-_Tough\_as\_Nails.jpg_
+![Tough as Nails](../assets/Tough_as_Nails.jpg)
 
 **Description:** Survive 20 days in a single Survival Mode game.
 

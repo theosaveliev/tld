@@ -17,9 +17,7 @@
 
 **Terry**
 
-![](../assets/Terry.jpg)
-
-_Terry.jpg_
+![Terry](../assets/Terry.jpg)
 
 **Release:** [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

@@ -4,9 +4,7 @@
 
 **Mounted Rainbow Trout**
 
-![](../assets/Mounted_Rainbow_Trout_icon.png)
-
-_Mounted\_Rainbow\_Trout\_icon.png_
+![Mounted Rainbow Trout icon](../assets/Mounted_Rainbow_Trout_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

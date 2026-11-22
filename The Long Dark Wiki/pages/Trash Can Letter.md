@@ -4,9 +4,7 @@
 
 **Trash Can Letter**
 
-![](../assets/Trash_Can_Letter_icon.png)
-
-_Trash\_Can\_Letter\_icon.png_
+![Trash Can Letter icon](../assets/Trash_Can_Letter_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

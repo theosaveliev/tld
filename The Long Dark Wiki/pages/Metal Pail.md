@@ -4,9 +4,7 @@
 
 **Metal Pail**
 
-![](../assets/MetalPail.jpg)
-
-_MetalPail.jpg_
+![MetalPail](../assets/MetalPail.jpg)
 
 **General**
 

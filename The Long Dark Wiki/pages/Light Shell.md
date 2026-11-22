@@ -4,9 +4,7 @@
 
 **Light Shell**
 
-![](../assets/Light_Shell_icon.png)
-
-_Light\_Shell\_icon.png_
+![Light Shell icon](../assets/Light_Shell_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Light\_Shell\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-2%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-2%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 40 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>40 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
 > “**A light outer layer meant to protect from wind and water. Has no real warmth value of its own, but useful when paired with a decent under layer.**”
 >
@@ -44,11 +42,7 @@ Mid-tier outer torso with similar stats to the [Windbreaker](./Windbreaker.md), 
 
 ![Clothing model](../assets/Light_Shell_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Light_Shell_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

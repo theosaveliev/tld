@@ -35,12 +35,6 @@ While there is no way to remove the fog, it is possible to delay its onset with 
 
 ![Level 1](../assets/Toxic_Fog_icon_%28mild%29.png)
 
-_Level 1_
-
 ![Level 2](../assets/Toxic_Fog_icon_%28moderate%29.png)
 
-_Level 2_
-
 ![Level 3](../assets/Toxic_Fog_icon_%28severe%29.png)
-
-_Level 3_

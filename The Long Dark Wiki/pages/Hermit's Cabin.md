@@ -11,15 +11,11 @@
 
 **Hermit's Cabin**
 
-![](../assets/Hermits_cabin.jpg)
-
-_hermits\_cabin.jpg_
+![Hermits cabin](../assets/Hermits_cabin.jpg)
 
 **Location**
 
-![](../assets/Hermit%27s_Cabin_Location.png)
-
-_Hermit's\_Cabin\_Location.png_
+![Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -43,10 +39,6 @@ A wood stove, wooden crates and containers are inside the ruins, as well as a fi
 
 ## Gallery
 
-![](../assets/Hermits_cabin_2.jpg)
+![Hermits cabin 2](../assets/Hermits_cabin_2.jpg)
 
-_hermits\_cabin\_2.jpg_
-
-![](../assets/Milton_Basin_Cabin.jpg)
-
-_Milton\_Basin\_Cabin.jpg_
+![Milton Basin Cabin](../assets/Milton_Basin_Cabin.jpg)

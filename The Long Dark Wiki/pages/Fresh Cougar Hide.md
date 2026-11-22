@@ -4,9 +4,7 @@
 
 **Fresh Cougar Hide**
 
-![](../assets/Fresh_Cougar_Hide_icon.png)
-
-_Fresh\_Cougar\_Hide\_icon.png_
+![Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -18,7 +16,7 @@ _Fresh\_Cougar\_Hide\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested hide from a Cougar. A reminder of the predator's fearsome strength. / Can be used for crafting and repairs after air-drying indoors for 10 days.
+**Examine:** Freshly harvested hide from a Cougar. A reminder of the predator's fearsome strength.<br>Can be used for crafting and repairs after air-drying indoors for 10 days.
 
 **Values**
 
@@ -28,11 +26,9 @@ _Fresh\_Cougar\_Hide\_icon.png_
 
 **Item key:** GAMEPLAY\_CougarHide
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Curing.md) into a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). A fresh hide takes 10 days to cure.
 
@@ -44,11 +40,7 @@ A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Cu
 
 ![3d model](../assets/Cougar_Hide_3d_model.jpg)
 
-_3d model_
-
 ![Old icon](../assets/Cougar_Hide_icon.png)
-
-_Old icon_
 
 ## Update history
 

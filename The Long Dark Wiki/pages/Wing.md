@@ -4,15 +4,11 @@
 
 **Wing**
 
-![](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
-
-_Wing\_-\_Timberwolf\_Mountain\_location.jpg_
+![Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
 
 **Location**
 
-![](../assets/Wing_Location.png)
-
-_Wing\_Location.png_
+![Wing Location](../assets/Wing_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -45,5 +41,3 @@ The [crates](./Crate.md) and cardboard box contain nothing (Stalker).
 ## Gallery
 
 ![The cargo containers near the wing.](../assets/Wing_cargo_containers.jpg)
-
-_The cargo containers near the wing._

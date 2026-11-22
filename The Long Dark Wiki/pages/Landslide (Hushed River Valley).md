@@ -4,15 +4,11 @@
 
 **Landslide**
 
-![](../assets/Landslide_HRV.png)
-
-_Landslide\_HRV.png_
+![Landslide HRV](../assets/Landslide_HRV.png)
 
 **Location**
 
-![](../assets/Landslide_HRV_Location.png)
-
-_Landslide\_HRV\_Location.png_
+![Landslide HRV Location](../assets/Landslide_HRV_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

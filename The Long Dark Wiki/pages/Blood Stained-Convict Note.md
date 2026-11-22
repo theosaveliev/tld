@@ -4,9 +4,7 @@
 
 **Blood Stained-Convict Note**
 
-![](../assets/Blood_Stained-Convict_Note_icon.png)
-
-_Blood\_Stained-Convict\_Note\_icon.png_
+![Blood Stained Convict Note icon](../assets/Blood_Stained-Convict_Note_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

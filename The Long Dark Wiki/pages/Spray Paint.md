@@ -4,9 +4,7 @@
 
 **Spray Paint**
 
-![](../assets/Spray_Paint_icon.png)
-
-_Spray\_Paint\_icon.png_
+![Spray Paint icon](../assets/Spray_Paint_icon.png)
 
 **General**
 
@@ -16,7 +14,7 @@ _Spray\_Paint\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
 
 > “__A can of Spray Paint. Can be used to leave signs and markers in the environment. __”
 >
@@ -52,56 +50,28 @@ There is a limit of 249 markers one can have in a region (approximately 25 spray
 
 ![Pre release Spray Paint with a Blue cap](../assets/Spray-can-comp.jpg)
 
-_Pre release Spray Paint with a Blue cap_
-
 ![Spray Paint Markers](../assets/Spray_Paint_Markers-0.png)
-
-_Spray Paint Markers_
 
 ![Avoid marker](../assets/Avoid-icon-comp.png)
 
-_Avoid marker_
-
 ![Clothing marker](../assets/Clothing-icon-comp.png)
-
-_Clothing marker_
 
 ![Danger marker](../assets/Danger-icon-comp.png)
 
-_Danger marker_
-
 ![Searched marker](../assets/Dead-end-icon-comp.png)
-
-_Searched marker_
 
 ![Direction marker](../assets/Direction-icon-comp.png)
 
-_Direction marker_
-
 ![Fire starting marker](../assets/Fire-starting-icon-comp.png)
-
-_Fire starting marker_
 
 ![First aid marker](../assets/First-aid-icon-comp.png)
 
-_First aid marker_
-
 ![Food and/or drink marker](../assets/Food-drink-icon-comp.png)
-
-_Food and/or drink marker_
 
 ![Hunting area marker](../assets/Hunting-icon-comp.png)
 
-_Hunting area marker_
-
 ![Materials marker](../assets/Materials-icon-comp.png)
-
-_Materials marker_
 
 ![Storage marker](../assets/Storage-icon-comp.png)
 
-_Storage marker_
-
 ![Tools marker](../assets/Tools-icon-comp.png)
-
-_Tools marker_

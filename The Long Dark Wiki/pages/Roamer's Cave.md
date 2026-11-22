@@ -4,15 +4,11 @@
 
 **Roamer's Cave**
 
-![](../assets/Roamer%27s_Cave.jpg)
-
-_Roamer's\_Cave.jpg_
+![Roamer's Cave](../assets/Roamer%27s_Cave.jpg)
 
 **Location**
 
-![](../assets/Roamer%27s_Cave_Location.png)
-
-_Roamer's\_Cave\_Location.png_
+![Roamer's Cave Location](../assets/Roamer%27s_Cave_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

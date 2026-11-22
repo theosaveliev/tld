@@ -18,9 +18,7 @@
 
 **Signal Void**
 
-![](../assets/Tales_objectives_01_signalVoid.png)
-
-_Tales\_objectives\_01\_signalVoid.png_
+![Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png)
 
 **Missions**
 
@@ -28,13 +26,11 @@ _Tales\_objectives\_01\_signalVoid.png_
 
 **Next:** [Buried Echoes](./Buried%20Echoes.md)
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Bleak Inlet](./Bleak%20Inlet.md) / [Pleasant Valley](./Pleasant%20Valley.md) / [Mountain Town](./Mountain%20Town.md) / [Hushed River Valley](./Hushed%20River%20Valley.md)
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Bleak Inlet](./Bleak%20Inlet.md)<br>[Pleasant Valley](./Pleasant%20Valley.md)<br>[Mountain Town](./Mountain%20Town.md)<br>[Hushed River Valley](./Hushed%20River%20Valley.md)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
@@ -47,9 +43,7 @@ _Ptarmigan\_icon.png_
 
 ## Initiating the Tale
 
-![](../assets/Signal_Void_Banner.jpg)
-
-_Signal\_Void\_Banner.jpg_
+![Signal Void Banner](../assets/Signal_Void_Banner.jpg)
 
 Signal Void begins when the player finds a note located on the top floor of the [Control Tower](./Control%20Tower.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md). The note, labeled [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md), details information about the Airfield staff's efforts to try and expand the radio wave coverage of several preexisting radio towers located within Lower Great Bear, in order to sync them with Airfield 31's radio coverage. The memo also makes note of the presence of several anomalous transmission signals that were detected across the island, but their sources were otherwise unable to be identified.
 

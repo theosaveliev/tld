@@ -6,9 +6,7 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Fiel
 
 **Field Dressing Your Kill, Vol. I**
 
-![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png)
-
-_Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png_
+![Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

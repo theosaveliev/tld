@@ -4,9 +4,7 @@
 
 **Basin**
 
-![](../assets/Basin.jpg)
-
-_Basin.jpg_
+![Basin](../assets/Basin.jpg)
 
 **Story item:** Yes
 

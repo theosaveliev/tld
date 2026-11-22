@@ -4,9 +4,7 @@
 
 **Canister**
 
-![](../assets/Canister_icon.png)
-
-_Canister\_icon.png_
+![Canister icon](../assets/Canister_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 
@@ -30,11 +28,9 @@ _Canister\_icon.png_
 
 **Item key:** GAMEPLAY\_Canister
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Canister** is a [First Aid](./First%20Aid.md) item found in _The Long Dark_ that was added in the Part 4 Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 

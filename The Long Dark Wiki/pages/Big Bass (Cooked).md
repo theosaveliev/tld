@@ -2,13 +2,11 @@
 
 **Categories:** Food And Drink, Pages with update history, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Big_Bass_%28Cooked%29)
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / **Big Bass (Cooked)** / ![](../assets/Big_Bass_%28Cooked%29_icon.png) / _Big\_Bass\_(Cooked)\_icon.png_ / **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Values** / **Calories:** 4313 kcal / **Hydration:** -5% / **Weight:** 15.00 kg (33 lbs) / **Advanced data** / **Item key:** GAMEPLAY\_CookedBigMouthBass / _For for the raw version, see [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md)._ / The **Big Bass** is a legendary [Bass](./Smallmouth%20Bass%20%28Raw%29.md) rumored to be located in the [Pensive Pond](./Pensive%20Pond.md) in [Pleasant Valley](./Pleasant%20Valley.md) and is sought after in the [Tall Tales](./Tall%20Tales.md) side mission of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [story](./Wintermute.md) mode.
+<br>**Big Bass (Cooked)**<br>![Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png)<br>**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 4313 kcal<br>**Hydration:** -5%<br>**Weight:** 15.00 kg (33 lbs)<br>**Advanced data**<br>**Item key:** GAMEPLAY\_CookedBigMouthBass<br>_For for the raw version, see [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md)._<br>The **Big Bass** is a legendary [Bass](./Smallmouth%20Bass%20%28Raw%29.md) rumored to be located in the [Pensive Pond](./Pensive%20Pond.md) in [Pleasant Valley](./Pleasant%20Valley.md) and is sought after in the [Tall Tales](./Tall%20Tales.md) side mission of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [story](./Wintermute.md) mode.
 
 ## Story
 

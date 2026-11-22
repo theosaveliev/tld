@@ -13,19 +13,13 @@
 
 **Keeper's Pass South**
 
-![](../assets/Vistekeeperspass.png)
-
-_Vistekeeperspass.png_
+![Vistekeeperspass](../assets/Vistekeeperspass.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Keeper%27s_Pass_South_Location.png)
+![Keeper's Pass South Location](../assets/Keeper%27s_Pass_South_Location.png)
 
-_Keeper's\_Pass\_South\_Location.png_
-
-![](../assets/Keeper%27s_Pass_South_Region_Map.png)
-
-_Keeper's\_Pass\_South\_Region\_Map.png_
+![Keeper's Pass South Region Map](../assets/Keeper%27s_Pass_South_Region_Map.png)
 
 **Details**
 
@@ -70,47 +64,25 @@ The beginning of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20
 
 ![A detailed map of Keeper's Pass v2.35 (includes spoilers)](../assets/Keeper%27s_Pass_map_.png)
 
-_A detailed map of Keeper's Pass v2.35 (includes spoilers)_
-
 ![A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Keeper%27s_Pass_map_loper.png)
 
-_A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)_
-
-![](../assets/Cabinkeeperspass.png)
-
-_Cabinkeeperspass.png_
+![Cabinkeeperspass](../assets/Cabinkeeperspass.png)
 
 ![Mirthless Fork](../assets/Trailerkeeper_1.jpg)
 
-_Mirthless Fork_
+![20211209131048 1](../assets/20211209131048_1.jpg)
 
-![](../assets/20211209131048_1.jpg)
+![20211209131143 1](../assets/20211209131143_1.jpg)
 
-_20211209131048\_1.jpg_
+![20211212182300 1](../assets/20211212182300_1.jpg)
 
-![](../assets/20211209131143_1.jpg)
-
-_20211209131143\_1.jpg_
-
-![](../assets/20211212182300_1.jpg)
-
-_20211212182300\_1.jpg_
-
-![](../assets/Keeper%27s_Pass_Bridge.png)
-
-_Keeper's\_Pass\_Bridge.png_
+![Keeper's Pass Bridge](../assets/Keeper%27s_Pass_Bridge.png)
 
 ![A rock arch found south of Mirthless Fork](../assets/Keeper%27s_Pass_South_Rock_Arch.jpg)
 
-_A rock arch found south of Mirthless Fork_
-
 ![The blocked road to Milton](../assets/Keeper%27s_Pass_South_blocked_road_to_Milton.jpg)
 
-_The blocked road to Milton_
-
 ![The blocked road to Keeper's Pass North](../assets/Keeper%27s_Pass_South_blocked_road.jpg)
-
-_The blocked road to Keeper's Pass North_
 
 ## Update history
 

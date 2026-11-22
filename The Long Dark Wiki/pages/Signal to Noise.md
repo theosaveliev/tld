@@ -11,9 +11,7 @@
 
 **Signal to Noise**
 
-![](../assets/Missions_story_ep2_Signal_to_Noise.png)
-
-_Missions\_story\_ep2\_Signal\_to\_Noise.png_
+![Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -23,9 +21,9 @@ _Missions\_story\_ep2\_Signal\_to\_Noise.png_
 
 **Next:** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)<br>[Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 
@@ -54,5 +52,3 @@ Timing is essential, as setting the spear is not instantaneous and the stamina m
 ## Gallery
 
 ![The location of the transponder parts on the towers](../assets/Transponder.jpg)
-
-_The location of the transponder parts on the towers_

@@ -4,9 +4,7 @@
 
 **Aviator Cap**
 
-![](../assets/Aviator_Cap_icon.png)
-
-_Aviator\_Cap\_icon.png_
+![Aviator Cap icon](../assets/Aviator_Cap_icon.png)
 
 **General**
 
@@ -18,29 +16,27 @@ _Aviator\_Cap\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)4%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)4%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes
+**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>10 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) / 25 minutes / 60% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>25 minutes<br>60% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**A warm, durable hat favoured by pilots operating in the frozen North. Stylish, to a point.**” / **Aviator Cap** is a type of clothing in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
+<br>> “**A warm, durable hat favoured by pilots operating in the frozen North. Stylish, to a point.**”<br>**Aviator Cap** is a type of clothing in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
 ## Overview
 
@@ -63,11 +59,7 @@ Aviator Caps spawn rarely on all game modes.
 
 ![Model icon](../assets/Aviator_Cap_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Update history
 

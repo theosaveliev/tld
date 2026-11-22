@@ -4,9 +4,7 @@
 
 **You Prep the Preppers**
 
-![](../assets/You_Prep_the_Preppers.jpg)
-
-_You\_Prep\_the\_Preppers.jpg_
+![You Prep the Preppers](../assets/You_Prep_the_Preppers.jpg)
 
 **Description:** Survive 30 days in a single Survival Mode game.
 

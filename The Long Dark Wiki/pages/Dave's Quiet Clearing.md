@@ -4,15 +4,11 @@
 
 **Dave's Quiet Clearing**
 
-![](../assets/Dave%27s_quiet_clearing.jpg)
-
-_Dave's\_quiet\_clearing.jpg_
+![Dave's quiet clearing](../assets/Dave%27s_quiet_clearing.jpg)
 
 **Location**
 
-![](../assets/Dave%27s_Quiet_Clearing_Location.png)
-
-_Dave's\_Quiet\_Clearing\_Location.png_
+![Dave's Quiet Clearing Location](../assets/Dave%27s_Quiet_Clearing_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

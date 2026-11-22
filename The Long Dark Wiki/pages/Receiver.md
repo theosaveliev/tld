@@ -4,9 +4,7 @@
 
 **Receiver**
 
-![](../assets/Receiver.jpg)
-
-_Receiver.jpg_
+![Receiver](../assets/Receiver.jpg)
 
 **Release:** 1.60
 

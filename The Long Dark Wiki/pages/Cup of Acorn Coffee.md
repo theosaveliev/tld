@@ -4,9 +4,7 @@
 
 **Cup of Acorn Coffee**
 
-![](../assets/Cup_of_Acorn_Coffee_icon.png)
-
-_Cup\_of\_Acorn\_Coffee\_icon.png_
+![Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 

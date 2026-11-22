@@ -4,7 +4,7 @@
 
 **Fridge**
 
-\[\[File: / ![Fridge](../assets/Fridge.png) / _Fridge_ / ![Soda](../assets/Fridge_Soda.jpg) / _Soda_
+![Fridge](../assets/Fridge.png)<br>![Soda](../assets/Fridge_Soda.jpg)
 
 250px\]\]
 

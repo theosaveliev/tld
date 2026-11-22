@@ -13,6 +13,7 @@
 
 **Revolver ammunition**
 
+![Box](../assets/Revolver_Ammunition_icon.png)<br>![Cartridge](../assets/Revolver_Cartridge_icon.png)<br>Rifle ammunition icon.png\|
 
 **General**
 
@@ -24,9 +25,9 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
 
-**Harvest:** Chance to produce: / 1 × [Bullet](./Bullet.md) 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / 0.01kg x [Can of Gunpowder](./Can%20of%20Gunpowder.md) / 5 minutes
+**Harvest:** Chance to produce:<br>1 × [Bullet](./Bullet.md) 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>0.01kg x [Can of Gunpowder](./Can%20of%20Gunpowder.md)<br>5 minutes
 
 > “**A box of Revolver cartridges.**”
 >
@@ -95,8 +96,6 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 ## Gallery
 
 ![an unreleased Pre Alpha revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp)
-
-_an unreleased Pre Alpha revolver, with ammunition and casings_
 
 ## Update history
 

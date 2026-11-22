@@ -4,9 +4,7 @@
 
 **Mounted Red Irish Lord**
 
-![](../assets/Mounted_Red_Irish_Lord_icon.png)
-
-_Mounted\_Red\_Irish\_Lord\_icon.png_
+![Mounted Red Irish Lord icon](../assets/Mounted_Red_Irish_Lord_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

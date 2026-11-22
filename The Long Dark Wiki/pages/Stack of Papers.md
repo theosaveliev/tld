@@ -4,9 +4,7 @@
 
 **Stack of Papers**
 
-![](../assets/Stack_of_Papers_icon.png)
-
-_Stack\_of\_Papers\_icon.png_
+![Stack of Papers icon](../assets/Stack_of_Papers_icon.png)
 
 **General**
 
@@ -14,7 +12,7 @@ _Stack\_of\_Papers\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Stack of now-useless papers. Makes for good Tinder, and that's about it.**”
 >
@@ -35,5 +33,3 @@ Stacks of papers fill the role of tinder, which is used for [Fire Starting](./Fi
 ## Gallery
 
 ![3D model](../assets/Stack_of_papers.png)
-
-_3D model_

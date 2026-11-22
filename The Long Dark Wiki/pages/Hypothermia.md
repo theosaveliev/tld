@@ -11,9 +11,7 @@
 
 **Hypothermia**
 
-![](../assets/Hypothermia_icon.png)
-
-_Hypothermia\_icon.png_
+![Hypothermia icon](../assets/Hypothermia_icon.png)
 
 **Properties**
 
@@ -33,7 +31,7 @@ _Hypothermia\_icon.png_
 
 **Treatment:** Replenish [Warmth](./Warmth.md) and maintain it until Recovery Time elapses
 
-**Recovery Time:** 6 hours (Pilgrim) / 12 hours (Voyageur) / 18 hours (Stalker) / 24 hours (Interloper)
+**Recovery Time:** 6 hours (Pilgrim)<br>12 hours (Voyageur)<br>18 hours (Stalker)<br>24 hours (Interloper)
 
 **Advanced Data**
 
@@ -65,5 +63,3 @@ Once manifested Hypothermia doubles the [Condition](./Condition.md) loss from fr
 ## Gallery
 
 ![Old icon.](../assets/Hypothermia.png)
-
-_Old icon._

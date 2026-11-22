@@ -14,9 +14,7 @@
 
 **Hank's Hatch**
 
-![](../assets/Hank%27s_prepper_cache.jpg)
-
-_Hank's\_prepper\_cache.jpg_
+![Hank's prepper cache](../assets/Hank%27s_prepper_cache.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -74,8 +72,4 @@ Inside the bunker, there is plenty of [canned food](./Food%20And%20Drink.md), [w
 
 ![Hank's body inside the bunker](../assets/Hank.jpg)
 
-_Hank's body inside the bunker_
-
 ![Location of corpse with Hank’s Lockbox Key](../assets/Hankkeylocation.jpeg)
-
-_Location of corpse with Hank’s Lockbox Key_

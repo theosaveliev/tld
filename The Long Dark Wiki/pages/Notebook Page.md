@@ -4,9 +4,7 @@
 
 **Notebook Page**
 
-![](../assets/Notebook_Page_icon.png)
-
-_Notebook\_Page\_icon.png_
+![Notebook Page icon](../assets/Notebook_Page_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

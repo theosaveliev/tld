@@ -4,15 +4,11 @@
 
 **Jailer's Residence**
 
-![](../assets/Jailer%27s_Residence.jpg)
-
-_Jailer's\_Residence.jpg_
+![Jailer's Residence](../assets/Jailer%27s_Residence.jpg)
 
 **Location**
 
-![](../assets/Jailer%27s_Residence_Location.png)
-
-_Jailer's\_Residence\_Location.png_
+![Jailer's Residence Location](../assets/Jailer%27s_Residence_Location.png)
 
 Region
 
@@ -20,7 +16,7 @@ Region
 
 **Type:** Outdoors
 
-Provides some shelter / > “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**” / > / > — [Load Screen](./Load%20Screen.md) Description / **Jailer's Residence** is a location in [Blackrock](./Blackrock.md), located not far from [Blocked Bridge](./Blocked%20Bridge.md).
+Provides some shelter<br>> “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**”<br>><br>> — [Load Screen](./Load%20Screen.md) Description<br>**Jailer's Residence** is a location in [Blackrock](./Blackrock.md), located not far from [Blocked Bridge](./Blocked%20Bridge.md).
 
 ## Overview
 
@@ -30,6 +26,4 @@ A nearby barn houses a car and a [Fire Barrel](./Fire%20Barrel.md), providing so
 
 ## Gallery
 
-![](../assets/Jailer%27s_Residence_-_back.jpg)
-
-_Jailer's\_Residence\_-\_back.jpg_
+![Jailer's Residence back](../assets/Jailer%27s_Residence_-_back.jpg)

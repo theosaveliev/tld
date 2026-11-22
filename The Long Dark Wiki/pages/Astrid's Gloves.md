@@ -4,9 +4,7 @@
 
 **Astrid's Gloves**
 
-![](../assets/Astrid%27s_Gloves_icon.png)
-
-_Astrid's\_Gloves\_icon.png_
+![Astrid's Gloves icon](../assets/Astrid%27s_Gloves_icon.png)
 
 **General**
 
@@ -14,32 +12,30 @@ _Astrid's\_Gloves\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)5%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)5%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>65% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**Lightweight gloves. Not too warm, but very flexible.** / In-game description
+**Lightweight gloves. Not too warm, but very flexible.**<br>In-game description
 
 ”
 
@@ -53,11 +49,7 @@ The statistics of Astrid's gloves are identical to those of [Fleece Mittens](./F
 
 ![Model icon](../assets/Astrid%27s_Gloves_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Astrid%27s_Gloves_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Update history
 

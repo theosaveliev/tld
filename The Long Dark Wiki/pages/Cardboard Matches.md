@@ -11,9 +11,7 @@
 
 **Cardboard Matches**
 
-![](../assets/Cardboard_Matches_icon.png)
-
-_Cardboard\_Matches\_icon.png_
+![Cardboard Matches icon](../assets/Cardboard_Matches_icon.png)
 
 **General**
 
@@ -25,11 +23,11 @@ _Cardboard\_Matches\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+0%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+0%
 
-**Unit count:** ![](../assets/Unit_count_icon.png)20match
+**Unit count:** ![Unit count icon](../assets/Unit_count_icon.png)20match
 
 > “**Cardboard strike-anywhere matches.**”
 >
@@ -56,8 +54,6 @@ Pressing H with a lit match will cause the survivor to flick the match into the 
 ## Gallery
 
 ![old model](../assets/Cardboard_Matches.png)
-
-_old model_
 
 ## Trivia
 

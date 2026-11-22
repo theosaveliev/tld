@@ -11,9 +11,7 @@
 
 **Painkillers**
 
-![](../assets/Painkillers_icon.png)
-
-_Painkillers\_icon.png_
+![Painkillers icon](../assets/Painkillers_icon.png)
 
 **General**
 
@@ -25,9 +23,9 @@ _Painkillers\_icon.png_
 
 **Unit weight:** 0.02 kg/dose(0.04 lbs/dose)
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Unit count:** ![](../assets/Unit_count_icon.png)6 doses
+**Unit count:** ![Unit count icon](../assets/Unit_count_icon.png)6 doses
 
 > “**A bottle of Painkillers. Take it to reduce pain from injuries.**”
 >
@@ -58,8 +56,6 @@ The effect of painkillers is not generalized throughout the body, and each dose 
 ## Gallery
 
 ![old model](../assets/Painkillers.png)
-
-_old model_
 
 ## Trivia
 

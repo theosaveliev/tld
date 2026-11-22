@@ -4,15 +4,11 @@
 
 **Grand Meadow**
 
-![](../assets/Grand_Meadow.jpg)
-
-_Grand\_Meadow.jpg_
+![Grand Meadow](../assets/Grand_Meadow.jpg)
 
 **Location**
 
-![](../assets/Grand_Meadow_Location.png)
-
-_Grand\_Meadow\_Location.png_
+![Grand Meadow Location](../assets/Grand_Meadow_Location.png)
 
 Region
 

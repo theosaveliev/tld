@@ -4,9 +4,7 @@
 
 **Green Maple Sapling**
 
-![](../assets/Green_Maple_Sapling_icon.png)
-
-_Green\_Maple\_Sapling\_icon.png_
+![Green Maple Sapling icon](../assets/Green_Maple_Sapling_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -20,7 +18,7 @@ _Green\_Maple\_Sapling\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested maple sapling. Needs to be cured before it can be used for crafting and repair. / Can be used for crafting and repairs after air-drying indoors for 6 days.
+**Examine:** Freshly harvested maple sapling. Needs to be cured before it can be used for crafting and repair.<br>Can be used for crafting and repairs after air-drying indoors for 6 days.
 
 **Values**
 
@@ -54,11 +52,7 @@ _Maple sapling as it appears on the [map](./Map.md)_
 
 ![A growing maple sapling.](../assets/Maple_sapling_growing.png)
 
-_A growing maple sapling._
-
 ![Old model.](../assets/Green_Maple_Sapling.png)
-
-_Old model._
 
 ## Update history
 

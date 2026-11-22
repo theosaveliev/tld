@@ -4,9 +4,7 @@
 
 **Security Chief's Log 29**
 
-![](../assets/Security_Chief%27s_Log_29_icon.png)
-
-_Security\_Chief's\_Log\_29\_icon.png_
+![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 

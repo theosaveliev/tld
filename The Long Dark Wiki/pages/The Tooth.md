@@ -4,15 +4,13 @@
 
 **The Tooth**
 
-\[\[File: / ![](../assets/CH_Tooth_2.jpg) / _CH\_Tooth\_2.jpg_
+![CH Tooth 2](../assets/CH_Tooth_2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/The_Tooth_map.png)
-
-_The\_Tooth\_map.png_
+![The Tooth map](../assets/The_Tooth_map.png)
 
 **Location:** West of [Log Sort](./Log%20Sort.md)
 
@@ -30,12 +28,6 @@ A [frozen corpse](./Frozen%20Corpse.md) can usually be found half-crushed under 
 
 ![The Tooth as it appeared in 2015.](../assets/The_Tooth.jpg)
 
-_The Tooth as it appeared in 2015._
+![CH Tooth 1](../assets/CH_Tooth_1.jpg)
 
-![](../assets/CH_Tooth_1.jpg)
-
-_CH\_Tooth\_1.jpg_
-
-![](../assets/CH_Tooth_3.jpg)
-
-_CH\_Tooth\_3.jpg_
+![CH Tooth 3](../assets/CH_Tooth_3.jpg)

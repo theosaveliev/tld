@@ -4,9 +4,7 @@
 
 **Winter's Embrace**
 
-![](../assets/Winters_embrace_poster.png)
-
-_Winters\_embrace\_poster.png_
+![Winters embrace poster](../assets/Winters_embrace_poster.png)
 
 **Details**
 

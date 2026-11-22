@@ -4,9 +4,7 @@
 
 **Memento Mori 3**
 
-![](../assets/Memento_Mori_3_icon.png)
-
-_Memento\_Mori\_3\_icon.png_
+![Memento Mori 3 icon](../assets/Memento_Mori_3_icon.png)
 
 **Release:** [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
 

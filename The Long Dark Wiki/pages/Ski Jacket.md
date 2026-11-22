@@ -4,9 +4,7 @@
 
 **Ski Jacket**
 
-![](../assets/Ski_Jacket_icon.png)
-
-_Ski\_Jacket\_icon.png_
+![Ski Jacket icon](../assets/Ski_Jacket_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Ski\_Jacket\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-2%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-2%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 90 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>90 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
 > “**Winter jacket made out of synthetic materials. Highly Windproof but not well insulated.**”
 >
@@ -48,15 +46,9 @@ It is a direct upgrade to the [Simple Parka](./Simple%20Parka.md). It weighs 0.2
 
 ![Clothing model icon](../assets/Ski_Jacket_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Ski_Jacket_Model_Damaged_icon.png)
 
-_Clothing model icon damaged_
-
 ![Old model.](../assets/Down_ski_jacket_%28historical%29.png)
-
-_Old model._
 
 ## Update history
 

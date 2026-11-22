@@ -43,15 +43,9 @@ Many features of the Hunting Lodge Rifle would later be recycled into the [Curat
 
 ![The 3D model in the menu](../assets/Hunting_Lodge_Rifle_menu.jpg)
 
-_The 3D model in the menu_
-
 ![The Rifle on the rack above the fireplace](../assets/Hunting_Lodge_Rifle_Rack.jpg)
 
-_The Rifle on the rack above the fireplace_
-
 ![The Rifle when placed on the ground](../assets/Hunting_Lodge_Rifle_Ground.jpg)
-
-_The Rifle when placed on the ground_
 
 ![Curator's Rifle](../assets/Curator%27s_Rifle_icon.png)
 

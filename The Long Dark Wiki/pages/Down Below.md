@@ -4,9 +4,7 @@
 
 **Down Below**
 
-![](../assets/Down_Below_icon.png)
-
-_Down\_Below\_icon.png_
+![Down Below icon](../assets/Down_Below_icon.png)
 
 **Description:** Enter all 9 Prepper Cache locations (single game).
 

@@ -4,9 +4,7 @@
 
 **Blackrock Foothills Map**
 
-![](../assets/Blackrock_Foothills_Map_icon.png)
-
-_Blackrock\_Foothills\_Map\_icon.png_
+![Blackrock Foothills Map icon](../assets/Blackrock_Foothills_Map_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 
@@ -35,8 +33,6 @@ _Blackrock\_Foothills\_Map\_icon.png_
 Once acquired, the [Map](./Map.md) for the [Blackrock Foothills](./Blackrock%20Foothills.md) region is unlocked.
 
 ![alt icon](../assets/Blackrock_Foothills_Map_Alt_icon.png)
-
-_alt icon_
 
 ## Update history
 

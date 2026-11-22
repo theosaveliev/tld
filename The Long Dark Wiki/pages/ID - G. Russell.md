@@ -4,9 +4,7 @@
 
 **ID - G. Russell**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

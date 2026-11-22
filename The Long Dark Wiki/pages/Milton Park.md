@@ -4,15 +4,11 @@
 
 **Milton Park**
 
-![](../assets/Milton_Park_Office.jpg)
-
-_Milton\_Park\_Office.jpg_
+![Milton Park Office](../assets/Milton_Park_Office.jpg)
 
 **Location**
 
-![](../assets/Milton_Park_Location.png)
-
-_Milton\_Park\_Location.png_
+![Milton Park Location](../assets/Milton_Park_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -20,9 +16,7 @@ _Milton\_Park\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -42,10 +36,6 @@ A noticeboard can be found at the entrance, and there is a park office further u
 
 ## Gallery
 
-![](../assets/Milton_Park_inside.jpg)
+![Milton Park inside](../assets/Milton_Park_inside.jpg)
 
-_Milton\_Park\_inside.jpg_
-
-![](../assets/Milton_Park_Notice_Board.jpg)
-
-_Milton\_Park\_Notice\_Board.jpg_
+![Milton Park Notice Board](../assets/Milton_Park_Notice_Board.jpg)

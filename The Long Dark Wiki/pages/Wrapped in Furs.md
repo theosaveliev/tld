@@ -4,9 +4,7 @@
 
 **Wrapped in Furs**
 
-![](../assets/Wrapped_in_Furs_icon.png)
-
-_Wrapped\_in\_Furs\_icon.png_
+![Wrapped in Furs icon](../assets/Wrapped_in_Furs_icon.png)
 
 **Description:** Slept in a bearskin bedroll while wearing a wolfskin coat, deerskin boots, and rabbitskin mittens.
 

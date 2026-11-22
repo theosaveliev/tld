@@ -19,7 +19,7 @@
 
 **Drawer**
 
-\[\[File: / ![Food](../assets/DrawerFood.jpg) / _Food_ / ![Table](../assets/DrawerBedside.jpg) / _Table_ / ![Wide Table](../assets/DrawerWide.jpg) / _Wide Table_ / ![L Table](../assets/DrawerLargeTable.jpg) / _L Table_ / ![FH](../assets/Fishing_Hut_Drawer.jpg) / _FH_ / ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / _S Toolbox_ / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / _L Toolbox_ / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / _Clothing_ / ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / _Tall Clothing_
+![Food](../assets/DrawerFood.jpg)<br>![Table](../assets/DrawerBedside.jpg)<br>![Wide Table](../assets/DrawerWide.jpg)<br>![L Table](../assets/DrawerLargeTable.jpg)<br>![FH](../assets/Fishing_Hut_Drawer.jpg)<br>![S Toolbox](../assets/DrawerToolboxSmall.jpg)<br>![L Toolbox](../assets/DrawerToolboxLarge.jpg)<br>![Clothing](../assets/Drawer_Clothing_Horozontal.jpg)<br>![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg)
 
 250px\]\]
 

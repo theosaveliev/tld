@@ -11,9 +11,7 @@
 
 **Line**
 
-![](../assets/Line_icon.png)
-
-_Line\_icon.png_
+![Line icon](../assets/Line_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
@@ -62,7 +60,5 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 ## Gallery
 
 ![Old model.](../assets/Line.png)
-
-_Old model._
 
 ## Update history

@@ -13,9 +13,7 @@
 
 **The Crash/Transcript**
 
-![](../assets/The_Crash.png)
-
-_The\_Crash.png_
+![The Crash](../assets/The_Crash.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
 

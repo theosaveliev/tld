@@ -4,9 +4,7 @@
 
 **Tasting Menu**
 
-![](../assets/Tasting_Menu_icon.png)
-
-_Tasting\_Menu\_icon.png_
+![Tasting Menu icon](../assets/Tasting_Menu_icon.png)
 
 **Description:** Find and Cook 9 Unique Recipes.
 

@@ -15,8 +15,6 @@
 
 ![Updated map, including Blackrock.](../assets/World_Map_Overview.png)
 
-_Updated map, including Blackrock._
-
 _For Individual maps, see [Region](./Region.md)._
 
 The **Map** is a [Survival Menu](./Survival%20Menu.md) menu showing a region of [Great Bear Island](./Great%20Bear%20Island.md). On the world map, the player can view major geographic markers, as well as regions' relative locations to one another. Each regional map shows more detailed geographic features, as well as informational icons for specific locations and buildings.

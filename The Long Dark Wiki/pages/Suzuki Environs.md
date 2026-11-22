@@ -4,19 +4,13 @@
 
 **Suzuki Environs**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
+![No picture](../assets/No_picture.png)
 
-_No\_picture.png_
-
-![](../assets/Suzuki_Region_In-Game_Map.png)
-
-_Suzuki\_Region\_In-Game\_Map.png_
+![Suzuki Region In Game Map](../assets/Suzuki_Region_In-Game_Map.png)
 
 **Details**
 

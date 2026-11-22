@@ -4,9 +4,7 @@
 
 **The Cold, Broken Road**
 
-![](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
-
-_Missions\_story\_ep5\_TheLongBrokenRoad.png_
+![Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Blackrock Foothills](./Blackrock%20Foothills.md) [Suzuki Environs](./Suzuki%20Environs.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jace](./Jace.md) / [Atwood](./Atwood.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jace](./Jace.md)<br>[Atwood](./Atwood.md)
 
 > “**Find Atwood.**”
 

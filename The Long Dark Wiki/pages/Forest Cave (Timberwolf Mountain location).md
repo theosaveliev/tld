@@ -4,15 +4,11 @@
 
 **Forest Cave**
 
-![](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg)
-
-_Forest\_Cave\_-\_entrance\_(Timberwolf\_Mountain\_location).jpg_
+![Forest Cave entrance (Timberwolf Mountain location)](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg)
 
 **Location**
 
-![](../assets/Forest_Cave_%28Timberwolf_Mountain_location%29_Location.png)
-
-_Forest\_Cave\_(Timberwolf\_Mountain\_location)\_Location.png_
+![Forest Cave (Timberwolf Mountain location) Location](../assets/Forest_Cave_%28Timberwolf_Mountain_location%29_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

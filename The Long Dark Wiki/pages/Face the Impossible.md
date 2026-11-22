@@ -4,9 +4,7 @@
 
 **Face the Impossible**
 
-![](../assets/Face_the_Impossible_icon.png)
-
-_Face\_the\_Impossible\_icon.png_
+![Face the Impossible icon](../assets/Face_the_Impossible_icon.png)
 
 **Description:** Survive at least one day on Interloper difficulty
 

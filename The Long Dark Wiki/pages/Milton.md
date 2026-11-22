@@ -14,15 +14,11 @@
 
 **Milton**
 
-![](../assets/Milton.jpg)
-
-_Milton.jpg_
+![Milton](../assets/Milton.jpg)
 
 **Location**
 
-![](../assets/Milton_Location.png)
-
-_Milton\_Location.png_
+![Milton Location](../assets/Milton_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -32,9 +28,7 @@ _Milton\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -106,27 +100,15 @@ In addition to several houses within the town, the Mountain Town region contains
 
 ![Aerial view of Milton (Redux)](../assets/TLD-SS-Milton_%282%29.jpg)
 
-_Aerial view of Milton (Redux)_
-
 ![Aerial view of Milton (Before the Redux update)](../assets/Milton_-_aerial_view.jpg)
-
-_Aerial view of Milton (Before the Redux update)_
 
 ![Milton Credit Union and Water Tower](../assets/TLD-SS-Milton_%283%29.jpg)
 
-_Milton Credit Union and Water Tower_
-
 ![Milton Post Office and Radio Tower](../assets/TLD-SS-Milton-PO-ex.jpg)
-
-_Milton Post Office and Radio Tower_
 
 ![Milton at dusk](../assets/Town_of_milton.jpg)
 
-_Milton at dusk_
-
 ![The welcoming sign near the bridge entrance to town](../assets/Milton_sign.jpg)
-
-_The welcoming sign near the bridge entrance to town_
 
 ## References
 

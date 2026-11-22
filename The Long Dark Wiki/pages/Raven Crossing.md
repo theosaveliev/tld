@@ -4,15 +4,11 @@
 
 **Raven Crossing**
 
-![](../assets/SS-BI-RavenCrossing01.jpg)
-
-_SS-BI-RavenCrossing01.jpg_
+![SS BI RavenCrossing01](../assets/SS-BI-RavenCrossing01.jpg)
 
 **Location**
 
-![](../assets/Raven_Crossing_Location.png)
-
-_Raven\_Crossing\_Location.png_
+![Raven Crossing Location](../assets/Raven_Crossing_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

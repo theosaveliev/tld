@@ -4,15 +4,13 @@
 
 **Log Sort**
 
-\[\[File: / ![](../assets/Log_Sort_-_double-story_house.jpg) / _Log\_Sort\_-\_double-story\_house.jpg_
+![Log Sort double story house](../assets/Log_Sort_-_double-story_house.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Log_Sort_map.png)
-
-_Log\_Sort\_map.png_
+![Log Sort map](../assets/Log_Sort_map.png)
 
 Region
 
@@ -28,9 +26,7 @@ Type
 
 Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has an interior **Log Sort** is a location by the coast in [Coastal Highway](./Coastal%20Highway.md).
 
@@ -46,11 +42,7 @@ There is an entrance to the [Abandoned Mine](./Cinder%20Hills%20Coal%20Mine.md) 
 
 ![Trailer](../assets/Log_Sort_-_trailer.jpg)
 
-_Trailer_
-
 ![Condemned house](../assets/Log_Sort_-_fortified_house.jpg)
-
-_Condemned house_
 
 ![The Log Sort area, from above](../assets/20180119115447_1.jpg)
 

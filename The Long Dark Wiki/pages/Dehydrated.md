@@ -4,9 +4,7 @@
 
 **Dehydrated**
 
-![](../assets/Dehydrated_icon.png)
-
-_Dehydrated\_icon.png_
+![Dehydrated icon](../assets/Dehydrated_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -28,7 +26,7 @@ _Dehydrated\_icon.png_
 
 **Treatment**
 
-**Treatment:** ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+**Treatment:** ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
 **Recovery Time:** Instant
 

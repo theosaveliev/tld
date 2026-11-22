@@ -4,15 +4,11 @@
 
 **Runaway Bridge**
 
-![](../assets/Runaway_Bridge.jpg)
-
-_Runaway\_Bridge.jpg_
+![Runaway Bridge](../assets/Runaway_Bridge.jpg)
 
 **Location**
 
-![](../assets/Runaway_Bridge_Location.png)
-
-_Runaway\_Bridge\_Location.png_
+![Runaway Bridge Location](../assets/Runaway_Bridge_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

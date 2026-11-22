@@ -4,15 +4,11 @@
 
 **Forsaken Shore**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Details**
 
@@ -20,16 +16,14 @@ _No\_picture.png_
 
 **Difficulty:** Intermediate
 
-![](../assets/The_Long_Development_White_Logo.png)
+![The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
-_The\_Long\_Development\_White\_Logo.png_
-
-**Modded Content.** / This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
+**Modded Content.**<br>This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
 
 “
 
-**A sprawling snowy coastal region that has been decimated by the earthquakes. Towering rock cliffs seclude the oil rig that has crashed into the shore while on its way to be decommissioned. The inland half of this region features deep crags that pre-collapse; proved a challenge to even the most experienced rock climbers.** / TLDEV Region Description
+**A sprawling snowy coastal region that has been decimated by the earthquakes. Towering rock cliffs seclude the oil rig that has crashed into the shore while on its way to be decommissioned. The inland half of this region features deep crags that pre-collapse; proved a challenge to even the most experienced rock climbers.**<br>TLDEV Region Description
 
 ”
 

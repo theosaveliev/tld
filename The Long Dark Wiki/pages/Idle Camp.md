@@ -4,15 +4,11 @@
 
 **Idle Camp**
 
-![](../assets/Idle_Camp.jpg)
-
-_Idle\_Camp.jpg_
+![Idle Camp](../assets/Idle_Camp.jpg)
 
 **Location**
 
-![](../assets/Idle_Camp_Location.png)
-
-_Idle\_Camp\_Location.png_
+![Idle Camp Location](../assets/Idle_Camp_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -20,9 +16,7 @@ _Idle\_Camp\_Location.png_
 
 **Firebox:** [Stove](./Stove.md)
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -38,10 +32,6 @@ The mess hall building contains a mess hall with several wooden tables and a kit
 
 Multiple [Poisoned Wolves](./Poisoned%20Wolf.md) often patrol the field across the train tracks from the camp, and can wander into the Camp if the player is spotted.
 
-![](../assets/Idle_Camp_closeup.png)
-
-_Idle\_Camp\_closeup.png_
+![Idle Camp closeup](../assets/Idle_Camp_closeup.png)
 
 ![Bunkhouses](../assets/Idle_camp_bunkhouses.png)
-
-_Bunkhouses_

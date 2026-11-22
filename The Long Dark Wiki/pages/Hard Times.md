@@ -11,9 +11,7 @@
 
 **Hard Times**
 
-![](../assets/Hard_Times_icon.png)
-
-_Hard\_Times\_icon.png_
+![Hard Times icon](../assets/Hard_Times_icon.png)
 
 **Description:** Learn the truth behind all three Blackrock rumours.
 

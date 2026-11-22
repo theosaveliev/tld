@@ -4,7 +4,7 @@
 
 **Locker**
 
-\[\[File: / ![Single](../assets/LockerSingle.jpg) / _Single_ / ![Double](../assets/LockerDouble.jpg) / _Double_ / ![Triple](../assets/LockerTriple.jpg) / _Triple_ / ![Green](../assets/Five_Locker.jpg) / _Green_
+![Single](../assets/LockerSingle.jpg)<br>![Double](../assets/LockerDouble.jpg)<br>![Triple](../assets/LockerTriple.jpg)<br>![Green](../assets/Five_Locker.jpg)
 
 250px\]\]
 
@@ -35,496 +35,68 @@ Occasionally 5th type of locker, a [Medical Locker](./Medical%20Locker.md), can 
 
 ![Pre Alpha Lockers](../assets/Pre_Alpha_Lockers.jpg)
 
-_Pre Alpha Lockers_
-
 ## Loot
 
-**Item:** Rarity
-
-![](../assets/Arrowhead_icon.png)
-
-_Arrowhead\_icon.png_
-
-[Arrowhead](./Arrowhead.md)
-
-0.413%
-
-![](../assets/Rifle_Shell_Casing_icon.png)
-
-_Rifle\_Shell\_Casing\_icon.png_
-
-[Rifle Shell Casing](./Rifle%20Shell%20Casing.md)
-
-0.413%
-
-![](../assets/Cargo_Pants_icon.png)
-
-_Cargo\_Pants\_icon.png_
-
-[Cargo Pants](./Cargo%20Pants.md)
-
-0.689%
-
-![](../assets/Combat_Boots_icon.png)
-
-_Combat\_Boots\_icon.png_
-
-[Combat Boots](./Combat%20Boots.md)
-
-0.689%
-
-![](../assets/Flare_Shell_icon.png)
-
-_Flare\_Shell\_icon.png_
-
-[Flare Shell](./Flare%20Shell.md)
-
-0.689%
-
-![](../assets/Replacement_Fuse_icon.png)
-
-_Replacement\_Fuse\_icon.png_
-
-[Replacement Fuse](./Replacement%20Fuse.md)
-
-0.689%
-
-![](../assets/Cured_Leather_icon.png)
-
-_Cured\_Leather\_icon.png_
-
-[Cured Leather](./Cured%20Leather.md)
-
-0.689%
-
-![](../assets/Line_icon.png)
-
-_Line\_icon.png_
-
-[Line](./Line.md)
-
-0.689%
-
-![](../assets/Thermal_Underwear_icon.png)
-
-_Thermal\_Underwear\_icon.png_
-
-[Thermal Underwear](./Thermal%20Underwear.md)
-
-0.689%
-
-![](../assets/Wool_Mittens_icon.png)
-
-_Wool\_Mittens\_icon.png_
-
-[Wool Mittens](./Wool%20Mittens.md)
-
-0.689%
-
-![](../assets/Stack_of_Papers_icon.png)
-
-_Stack\_of\_Papers\_icon.png_
-
-[Stack of Papers](./Stack%20of%20Papers.md)
-
-0.689%
-
-![](../assets/Simple_Tools_icon.png)
-
-_Simple\_Tools\_icon.png_
-
-[Simple Tools](./Simple%20Tools.md)
-
-0.689%
-
-![](../assets/Tinder_Plug_icon.png)
-
-_Tinder\_Plug\_icon.png_
-
-[Tinder Plug](./Tinder%20Plug.md)
-
-0.689%
-
-![](../assets/Tomato_Soup_icon.png)
-
-_Tomato\_Soup\_icon.png_
-
-[Tomato Soup](./Tomato%20Soup.md)
-
-0.689%
-
-![](../assets/Water_%28Potable%29_icon.png)
-
-_Water\_(Potable)\_icon.png_
-
-[Water Bottle](./Water%20%28Potable%29.md)
-
-0.689%
-
-![](../assets/Wires_icon.png)
-
-_Wires\_icon.png_
-
-[Wires](./Wires.md)
-
-0.689%
-
-![](../assets/Work_Pants_icon.png)
-
-_Work\_Pants\_icon.png_
-
-[Work Pants](./Work%20Pants.md)
-
-0.689%
-
-![](../assets/Accelerant_icon.png)
-
-_Accelerant\_icon.png_
-
-[Accelerant](./Accelerant.md)
-
-1.377%
-
-![](../assets/Wool_Scarf_icon.png)
-
-_Wool\_Scarf\_icon.png_
-
-[Wool Scarf](./Wool%20Scarf.md)
-
-1.377%
-
-![](../assets/Marine_Flare_icon.png)
-
-_Marine\_Flare\_icon.png_
-
-[Marine Flare](./Marine%20Flare.md)
-
-1.377%
-
-![](../assets/Antiseptic_icon.png)
-
-_Antiseptic\_icon.png_
-
-[Antiseptic](./Antiseptic.md)
-
-1.377%
-
-![](../assets/Painkillers_icon.png)
-
-_Painkillers\_icon.png_
-
-[Painkillers](./Painkillers.md)
-
-1.377%
-
-![](../assets/Chocolate_Bar_icon.png)
-
-_Chocolate\_Bar\_icon.png_
-
-[Candy Bar](./Chocolate%20Bar.md)
-
-1.377%
-
-![](../assets/Pork_and_Beans_icon.png)
-
-_Pork\_and\_Beans\_icon.png_
-
-[Pork and Beans](./Pork%20and%20Beans.md)
-
-1.377%
-
-![](../assets/Down_Vest_icon.png)
-
-_Down\_Vest\_icon.png_
-
-[Down Vest](./Down%20Vest.md)
-
-1.377%
-
-![](../assets/Flare_icon.png)
-
-_Flare\_icon.png_
-
-[Flare](./Flare.md)
-
-1.377%
-
-![](../assets/Fleece_Mittens_icon.png)
-
-_Fleece\_Mittens\_icon.png_
-
-[Fleece Mittens](./Fleece%20Mittens.md)
-
-1.377%
-
-![](../assets/Revolver_Cartridge_icon.png)
-
-_Revolver\_Cartridge\_icon.png_
-
-[Revolver Cartridge](./Revolver%20Ammunition.md)
-
-1.377%
-
-![](../assets/Summit_Soda_icon.png)
-
-_Summit\_Soda\_icon.png_
-
-[Summit Soda](./Summit%20Soda.md)
-
-1.377%
-
-![](../assets/Go!_Energy_Drink_icon.png)
-
-_Go!\_Energy\_Drink\_icon.png_
-
-[Go! Energy Drink](./Go!%20Energy%20Drink.md)
-
-1.377%
-
-![](../assets/Stacy%27s_Grape_Soda_icon.png)
-
-_Stacy's\_Grape\_Soda\_icon.png_
-
-[Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md)
-
-1.377%
-
-![](../assets/Spray_Paint_icon.png)
-
-_Spray\_Paint\_icon.png_
-
-[Spray Paint](./Spray%20Paint.md)
-
-1.377%
-
-![](../assets/Wool_Toque_icon.png)
-
-_Wool\_Toque\_icon.png_
-
-[Wool Toque](./Wool%20Toque.md)
-
-1.377%
-
-![](../assets/Water_Purification_Tablets_icon.png)
-
-_Water\_Purification\_Tablets\_icon.png_
-
-[Water Purification Tablets](./Water%20Purification%20Tablets.md)
-
-1.377%
-
-![](../assets/Thin_Wool_Sweater_icon.png)
-
-_Thin\_Wool\_Sweater\_icon.png_
-
-[Thin Wool Sweater](./Thin%20Wool%20Sweater.md)
-
-1.377%
-
-![](../assets/Work_Boots_icon.png)
-
-_Work\_Boots\_icon.png_
-
-[Work Boots](./Work%20Boots.md)
-
-1.377%
-
-![](../assets/Work_Gloves_icon.png)
-
-_Work\_Gloves\_icon.png_
-
-[Work Gloves](./Work%20Gloves.md)
-
-1.377%
-
-![](../assets/Book_icon.png)
-
-_Book\_icon.png_
-
-[Book](./Book.md)
-
-2.066%
-
-![](../assets/Book_icon.png)
-
-_Book\_icon.png_
-
-[Book](./Book.md)
-
-2.066%
-
-![](../assets/Cloth_icon.png)
-
-_Cloth\_icon.png_
-
-[Cloth](./Cloth.md)
-
-2.066%
-
-![](../assets/Cotton_Scarf_icon.png)
-
-_Cotton\_Scarf\_icon.png_
-
-[Cotton Scarf](./Cotton%20Scarf.md)
-
-2.066%
-
-![](../assets/Ketchup_Chips_icon.png)
-
-_Ketchup\_Chips\_icon.png_
-
-[Ketchup Chips](./Ketchup%20Chips.md)
-
-2.066%
-
-![](../assets/Lantern_Fuel_icon.png)
-
-_Lantern\_Fuel\_icon.png_
-
-[Lantern Fuel](./Lantern%20Fuel.md)
-
-2.066%
-
-![](../assets/Simple_Parka_icon.png)
-
-_Simple\_Parka\_icon.png_
-
-[Simple Parka](./Simple%20Parka.md)
-
-2.066%
-
-![](../assets/Newsprint_Roll_icon.png)
-
-_Newsprint\_Roll\_icon.png_
-
-[Newsprint Roll](./Newsprint%20Roll.md)
-
-2.066%
-
-![](../assets/Scrap_Metal_icon.png)
-
-_Scrap\_Metal\_icon.png_
-
-[Scrap Metal](./Scrap%20Metal.md)
-
-2.066%
-
-![](../assets/Light_Shell_icon.png)
-
-_Light\_Shell\_icon.png_
-
-[Light Shell](./Light%20Shell.md)
-
-2.066%
-
-![](../assets/Driving_Gloves_icon.png)
-
-_Driving\_Gloves\_icon.png_
-
-[Driving Gloves](./Driving%20Gloves.md)
-
-2.755%
-
-![](../assets/Windbreaker_icon.png)
-
-_Windbreaker\_icon.png_
-
-[Windbreaker](./Windbreaker.md)
-
-2.755%
-
-![](../assets/Cotton_Toque_icon.png)
-
-_Cotton\_Toque\_icon.png_
-
-[Cotton Toque](./Cotton%20Toque.md)
-
-2.755%
-
-![](../assets/Hoodie_icon.png)
-
-_Hoodie\_icon.png_
-
-[Hoodie](./Hoodie.md)
-
-2.755%
-
-![](../assets/Sweatshirt_icon.png)
-
-_Sweatshirt\_icon.png_
-
-[Sweatshirt](./Sweatshirt.md)
-
-2.755%
-
-![](../assets/Sport_Vest_icon.png)
-
-_Sport\_Vest\_icon.png_
-
-[Sport Vest](./Sport%20Vest.md)
-
-2.755%
-
-![](../assets/Jeans_icon.png)
-
-_Jeans\_icon.png_
-
-[Jeans](./Jeans.md)
-
-2.755%
-
-![](../assets/Newsprint_icon.png)
-
-_Newsprint\_icon.png_
-
-[Newsprint](./Newsprint.md)
-
-2.755%
-
-![](../assets/Plaid_Shirt_icon.png)
-
-_Plaid\_Shirt\_icon.png_
-
-[Plaid Shirt](./Plaid%20Shirt.md)
-
-2.755%
-
-![](../assets/T-Shirt_icon.png)
-
-_T-Shirt\_icon.png_
-
-[T-Shirt](./T-Shirt.md)
-
-2.755%
-
-![](../assets/Wood_Matches_icon.png)
-
-_Wood\_Matches\_icon.png_
-
-[Wood Matches](./Wood%20Matches.md)
-
-2.755%
-
-![](../assets/Trail_Boots_icon.png)
-
-_Trail\_Boots\_icon.png_
-
-[Trail Boots](./Trail%20Boots.md)
-
-3.444%
-
-![](../assets/Running_Shoes_icon.png)
-
-_Running\_Shoes\_icon.png_
-
-[Running Shoes](./Running%20Shoes.md)
-
-3.444%
-
-![](../assets/Leather_Shoes_icon.png)
-
-_Leather\_Shoes\_icon.png_
-
-[Leather Shoes](./Leather%20Shoes.md)
-
-3.444%
+|  | Item | Rarity |
+| --- | --- | --- |
+| ![Arrowhead icon](../assets/Arrowhead_icon.png) | [Arrowhead](./Arrowhead.md) | 0.413% |
+| ![Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 0.413% |
+| ![Cargo Pants icon](../assets/Cargo_Pants_icon.png) | [Cargo Pants](./Cargo%20Pants.md) | 0.689% |
+| ![Combat Boots icon](../assets/Combat_Boots_icon.png) | [Combat Boots](./Combat%20Boots.md) | 0.689% |
+| ![Flare Shell icon](../assets/Flare_Shell_icon.png) | [Flare Shell](./Flare%20Shell.md) | 0.689% |
+| ![Replacement Fuse icon](../assets/Replacement_Fuse_icon.png) | [Replacement Fuse](./Replacement%20Fuse.md) | 0.689% |
+| ![Cured Leather icon](../assets/Cured_Leather_icon.png) | [Cured Leather](./Cured%20Leather.md) | 0.689% |
+| ![Line icon](../assets/Line_icon.png) | [Line](./Line.md) | 0.689% |
+| ![Thermal Underwear icon](../assets/Thermal_Underwear_icon.png) | [Thermal Underwear](./Thermal%20Underwear.md) | 0.689% |
+| ![Wool Mittens icon](../assets/Wool_Mittens_icon.png) | [Wool Mittens](./Wool%20Mittens.md) | 0.689% |
+| ![Stack of Papers icon](../assets/Stack_of_Papers_icon.png) | [Stack of Papers](./Stack%20of%20Papers.md) | 0.689% |
+| ![Simple Tools icon](../assets/Simple_Tools_icon.png) | [Simple Tools](./Simple%20Tools.md) | 0.689% |
+| ![Tinder Plug icon](../assets/Tinder_Plug_icon.png) | [Tinder Plug](./Tinder%20Plug.md) | 0.689% |
+| ![Tomato Soup icon](../assets/Tomato_Soup_icon.png) | [Tomato Soup](./Tomato%20Soup.md) | 0.689% |
+| ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) | [Water Bottle](./Water%20%28Potable%29.md) | 0.689% |
+| ![Wires icon](../assets/Wires_icon.png) | [Wires](./Wires.md) | 0.689% |
+| ![Work Pants icon](../assets/Work_Pants_icon.png) | [Work Pants](./Work%20Pants.md) | 0.689% |
+| ![Accelerant icon](../assets/Accelerant_icon.png) | [Accelerant](./Accelerant.md) | 1.377% |
+| ![Wool Scarf icon](../assets/Wool_Scarf_icon.png) | [Wool Scarf](./Wool%20Scarf.md) | 1.377% |
+| ![Marine Flare icon](../assets/Marine_Flare_icon.png) | [Marine Flare](./Marine%20Flare.md) | 1.377% |
+| ![Antiseptic icon](../assets/Antiseptic_icon.png) | [Antiseptic](./Antiseptic.md) | 1.377% |
+| ![Painkillers icon](../assets/Painkillers_icon.png) | [Painkillers](./Painkillers.md) | 1.377% |
+| ![Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) | [Candy Bar](./Chocolate%20Bar.md) | 1.377% |
+| ![Pork and Beans icon](../assets/Pork_and_Beans_icon.png) | [Pork and Beans](./Pork%20and%20Beans.md) | 1.377% |
+| ![Down Vest icon](../assets/Down_Vest_icon.png) | [Down Vest](./Down%20Vest.md) | 1.377% |
+| ![Flare icon](../assets/Flare_icon.png) | [Flare](./Flare.md) | 1.377% |
+| ![Fleece Mittens icon](../assets/Fleece_Mittens_icon.png) | [Fleece Mittens](./Fleece%20Mittens.md) | 1.377% |
+| ![Revolver Cartridge icon](../assets/Revolver_Cartridge_icon.png) | [Revolver Cartridge](./Revolver%20Ammunition.md) | 1.377% |
+| ![Summit Soda icon](../assets/Summit_Soda_icon.png) | [Summit Soda](./Summit%20Soda.md) | 1.377% |
+| ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 1.377% |
+| ![Stacy's Grape Soda icon](../assets/Stacy%27s_Grape_Soda_icon.png) | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 1.377% |
+| ![Spray Paint icon](../assets/Spray_Paint_icon.png) | [Spray Paint](./Spray%20Paint.md) | 1.377% |
+| ![Wool Toque icon](../assets/Wool_Toque_icon.png) | [Wool Toque](./Wool%20Toque.md) | 1.377% |
+| ![Water Purification Tablets icon](../assets/Water_Purification_Tablets_icon.png) | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 1.377% |
+| ![Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png) | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 1.377% |
+| ![Work Boots icon](../assets/Work_Boots_icon.png) | [Work Boots](./Work%20Boots.md) | 1.377% |
+| ![Work Gloves icon](../assets/Work_Gloves_icon.png) | [Work Gloves](./Work%20Gloves.md) | 1.377% |
+| ![Book icon](../assets/Book_icon.png) | [Book](./Book.md) | 2.066% |
+| ![Book icon](../assets/Book_icon.png) | [Book](./Book.md) | 2.066% |
+| ![Cloth icon](../assets/Cloth_icon.png) | [Cloth](./Cloth.md) | 2.066% |
+| ![Cotton Scarf icon](../assets/Cotton_Scarf_icon.png) | [Cotton Scarf](./Cotton%20Scarf.md) | 2.066% |
+| ![Ketchup Chips icon](../assets/Ketchup_Chips_icon.png) | [Ketchup Chips](./Ketchup%20Chips.md) | 2.066% |
+| ![Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) | [Lantern Fuel](./Lantern%20Fuel.md) | 2.066% |
+| ![Simple Parka icon](../assets/Simple_Parka_icon.png) | [Simple Parka](./Simple%20Parka.md) | 2.066% |
+| ![Newsprint Roll icon](../assets/Newsprint_Roll_icon.png) | [Newsprint Roll](./Newsprint%20Roll.md) | 2.066% |
+| ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) | [Scrap Metal](./Scrap%20Metal.md) | 2.066% |
+| ![Light Shell icon](../assets/Light_Shell_icon.png) | [Light Shell](./Light%20Shell.md) | 2.066% |
+| ![Driving Gloves icon](../assets/Driving_Gloves_icon.png) | [Driving Gloves](./Driving%20Gloves.md) | 2.755% |
+| ![Windbreaker icon](../assets/Windbreaker_icon.png) | [Windbreaker](./Windbreaker.md) | 2.755% |
+| ![Cotton Toque icon](../assets/Cotton_Toque_icon.png) | [Cotton Toque](./Cotton%20Toque.md) | 2.755% |
+| ![Hoodie icon](../assets/Hoodie_icon.png) | [Hoodie](./Hoodie.md) | 2.755% |
+| ![Sweatshirt icon](../assets/Sweatshirt_icon.png) | [Sweatshirt](./Sweatshirt.md) | 2.755% |
+| ![Sport Vest icon](../assets/Sport_Vest_icon.png) | [Sport Vest](./Sport%20Vest.md) | 2.755% |
+| ![Jeans icon](../assets/Jeans_icon.png) | [Jeans](./Jeans.md) | 2.755% |
+| ![Newsprint icon](../assets/Newsprint_icon.png) | [Newsprint](./Newsprint.md) | 2.755% |
+| ![Plaid Shirt icon](../assets/Plaid_Shirt_icon.png) | [Plaid Shirt](./Plaid%20Shirt.md) | 2.755% |
+| ![T Shirt icon](../assets/T-Shirt_icon.png) | [T-Shirt](./T-Shirt.md) | 2.755% |
+| ![Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | 2.755% |
+| ![Trail Boots icon](../assets/Trail_Boots_icon.png) | [Trail Boots](./Trail%20Boots.md) | 3.444% |
+| ![Running Shoes icon](../assets/Running_Shoes_icon.png) | [Running Shoes](./Running%20Shoes.md) | 3.444% |
+| ![Leather Shoes icon](../assets/Leather_Shoes_icon.png) | [Leather Shoes](./Leather%20Shoes.md) | 3.444% |

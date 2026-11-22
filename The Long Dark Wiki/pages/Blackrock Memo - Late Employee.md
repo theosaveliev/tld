@@ -4,9 +4,7 @@
 
 **Blackrock Memo - Late Employee**
 
-![](../assets/Blackrock_Memo_-_Late_Employee_icon.png)
-
-_Blackrock\_Memo\_-\_Late\_Employee\_icon.png_
+![Blackrock Memo Late Employee icon](../assets/Blackrock_Memo_-_Late_Employee_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

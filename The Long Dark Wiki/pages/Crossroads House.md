@@ -11,7 +11,7 @@
 
 **Crossroads House**
 
-\[\[File: / ![1 story](../assets/Crossroads_House_1.jpg) / _1 story_ / ![Shed](../assets/Crossroads_House_Shed.jpg) / _Shed_
+![1 story](../assets/Crossroads_House_1.jpg)<br>![Shed](../assets/Crossroads_House_Shed.jpg)
 
 250px\]\]
 
@@ -31,9 +31,7 @@ Residential
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -52,17 +50,11 @@ Crossroads Houses appear as 3 types of buildings:
 
 ### 1 Story House
 
-![](../assets/Crossroads_House_1.jpg)
-
-_Crossroads\_House\_1.jpg_
+![Crossroads House 1](../assets/Crossroads_House_1.jpg)
 
 ![Kitchen](../assets/Crossroads_House_1_Kitchen.jpg)
 
-_Kitchen_
-
 ![Bedroom and Bathroom](../assets/Crossroads_House_1_Bedroom.jpg)
-
-_Bedroom and Bathroom_
 
 This type of building has only 1 floor, with 1 door leading to the kitchen. They are composed of:
 
@@ -76,15 +68,9 @@ The layout for this building has 2 different layouts, but tends to be filled wit
 
 ![Front hallway](../assets/Crossroads_House_2_Hallway.jpg)
 
-_Front hallway_
-
 ![Kitchen and bathroom](../assets/Crossroads_House_2_Kitchen.jpg)
 
-_Kitchen and bathroom_
-
 ![Upstairs bedroom](../assets/Crossroads_House_2_Bedroom.jpg)
-
-_Upstairs bedroom_
 
 These homes are much smaller buildings with a single door leading to the front hallway. They have a stairwell that leads the bedroom, with the ground floor containing a kitchen and nearby bathroom.
 
@@ -92,8 +78,4 @@ These homes are much smaller buildings with a single door leading to the front h
 
 ![Shed](../assets/Crossroads_House_Shed.jpg)
 
-_Shed_
-
 ![Inside](../assets/Crossroads_House_Shed_Inside.jpg)
-
-_Inside_

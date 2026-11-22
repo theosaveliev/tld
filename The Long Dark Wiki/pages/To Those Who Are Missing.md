@@ -4,9 +4,7 @@
 
 **To Those Who Are Missing**
 
-![](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
-
-_Missions\_story\_ep5\_ToThoseWhoAreMissing.png_
+![Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Perseverance Mills](./Perseverance%20Mills.md) [Perseverance Wilds](./Perseverance%20Wilds.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Jane Yang](./Jane%20Yang.md)
 
 > “**Find the Constable along the river in Perseverance Wilds.**”
 

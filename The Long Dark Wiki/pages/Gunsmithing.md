@@ -14,17 +14,13 @@
 
 **Gunsmithing**
 
-![](../assets/Gunsmithing_background.png)
-
-_Gunsmithing\_background.png_
+![Gunsmithing background](../assets/Gunsmithing_background.png)
 
 **Release:** [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
 
 **Date:** 10 December 2019
 
-![](../assets/Gunsmithing.png)
-
-_Gunsmithing.png_
+![Gunsmithing](../assets/Gunsmithing.png)
 
 **Gunsmithing** is a Survival [Skill](./Skills.md) that enables the player to craft ammunition for the [Revolver](./Revolver.md) and [Hunting Rifle](./Hunting%20Rifle.md).
 

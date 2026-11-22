@@ -4,15 +4,13 @@
 
 **Forgotten Exploration**
 
-\[\[File: / ![Western Entrance](../assets/Forgotten_Exploration.jpg) / _Western Entrance_ / ![Eastern Entrance](../assets/Forgotten_Exploration_2.jpg) / _Eastern Entrance_
+![Western Entrance](../assets/Forgotten_Exploration.jpg)<br>![Eastern Entrance](../assets/Forgotten_Exploration_2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Forgotten_Exploration_Location.png)
-
-_Forgotten\_Exploration\_Location.png_
+![Forgotten Exploration Location](../assets/Forgotten_Exploration_Location.png)
 
 Region
 

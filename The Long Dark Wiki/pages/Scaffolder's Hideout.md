@@ -4,20 +4,14 @@
 
 **Scaffolder's Hideout**
 
-![](../assets/Scaffolder%27s_Hideout.jpg)
-
-_Scaffolder's\_Hideout.jpg_
+![Scaffolder's Hideout](../assets/Scaffolder%27s_Hideout.jpg)
 
 **Location**
 
-![](../assets/Scaffolder%27s_Hideout_Location.png)
-
-_Scaffolder's\_Hideout\_Location.png_
+![Scaffolder's Hideout Location](../assets/Scaffolder%27s_Hideout_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)

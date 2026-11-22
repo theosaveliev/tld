@@ -19,9 +19,7 @@
 
 **Hopeless Rescue**
 
-![](../assets/Challenge_HopelessRescue.png)
-
-_Challenge\_HopelessRescue.png_
+![Challenge HopelessRescue](../assets/Challenge_HopelessRescue.png)
 
 **Details**
 
@@ -123,15 +121,9 @@ It may be beneficial to intentionally let [Condition](./Condition.md) drain when
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_hopelessRescue.png)
 
-_The badge awarded upon completing the challenge_
-
 ![Fan art](../assets/Hopeless_Rescue.jpg)
 
-_Fan art_
-
 ![Old selection screen banner](../assets/Hopeless_Rescue.png)
-
-_Old selection screen banner_
 
 ## Game History
 

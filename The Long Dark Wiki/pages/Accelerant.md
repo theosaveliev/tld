@@ -4,9 +4,7 @@
 
 **Accelerant**
 
-![](../assets/Accelerant_icon.png)
-
-_accelerant\_icon.png_
+![Accelerant icon](../assets/Accelerant_icon.png)
 
 **General**
 
@@ -18,9 +16,9 @@ _accelerant\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+40%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
 
 > “**Low-volume fuel source designed to help start fires; ex. lighter fluid.**”
 >
@@ -37,5 +35,3 @@ As accelerant is non-renewable beside from the rare spawn chance from [Beachcomb
 ## Gallery
 
 ![old model](../assets/Accelerant.png)
-
-_old model_

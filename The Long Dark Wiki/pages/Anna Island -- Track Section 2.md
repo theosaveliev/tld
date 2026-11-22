@@ -13,13 +13,11 @@
 - [Locations](#locations-1)
 - [Miscellaneous](#miscellaneous)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Anna Island -- Track Section 2** / ![](../assets/Track_Section_2_Turn_Circle.jpg) / _Track\_Section\_2\_Turn\_Circle.jpg_ / **Location on [Cauldron Island](./Cauldron%20Island.md)** / ![](../assets/No_picture.png) / _No\_picture.png_ / ![](../assets/Anna_Island_Track_Section_2_Map.png) / _Anna\_Island\_Track\_Section\_2\_Map.png_ / **Details** / **Description:** A long stretch of coastal railway. / **Connecting Regions:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) / **Interloper Region Spawn:** No / **Date Added:** October 27 2026 / **Anna Island -- Track Section 2** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
+<br>**Anna Island -- Track Section 2**<br>![Track Section 2 Turn Circle](../assets/Track_Section_2_Turn_Circle.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 2 Map](../assets/Anna_Island_Track_Section_2_Map.png)<br>**Details**<br>**Description:** A long stretch of coastal railway.<br>**Connecting Regions:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 2** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 
@@ -83,19 +81,11 @@ _**Repair Depot**_
 
 ![The turn circle to the west of the region](../assets/Track_Section_2_Turn_Circle.jpg)
 
-_The turn circle to the west of the region_
-
 ![Warm cave near the middle-west of the map](../assets/Cave_Track_Section_2.jpg)
-
-_Warm cave near the middle-west of the map_
 
 ![Cave to the west of the map before the Railyard.](../assets/Cave_2_Track_Section_2.jpg)
 
-_Cave to the west of the map before the Railyard._
-
 ![The inaccessible collapsed tunnel](../assets/Anna_Island_Track_2_Collapsed_Tunnel.jpg)
-
-_The inaccessible collapsed tunnel_
 
 ### Maps
 
@@ -103,26 +93,14 @@ _The inaccessible collapsed tunnel_
 
 ![Railyard west](../assets/Track_Section_2_Repair_Depot.jpg)
 
-_Railyard west_
-
 ![Tunnel West](../assets/Tunnel_West.jpg)
-
-_Tunnel West_
 
 ![Criss Cross](../assets/Criss_Cross.jpg)
 
-_Criss Cross_
-
 ![Tunnel East](../assets/Tunnel_East.jpg)
 
-_Tunnel East_
-
 ![Railyard East](../assets/Railyard_%28Track_Section_2_East%29.jpg)
-
-_Railyard East_
 
 ### Miscellaneous
 
 ![The unmarked Whale Bone Shrine in the middle of the map](../assets/Whale_Bone_Shrine_Track_Section_2.jpg)
-
-_The unmarked Whale Bone Shrine in the middle of the map_

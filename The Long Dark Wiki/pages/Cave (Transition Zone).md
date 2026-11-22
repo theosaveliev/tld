@@ -20,15 +20,11 @@
 
 **Cave (Transition Zone)**
 
-![](../assets/RegionAtlas-resources.assets-562_%286%29.png)
-
-_RegionAtlas-resources.assets-562\_(6).png_
+![RegionAtlas resources.assets 562 (6)](../assets/RegionAtlas-resources.assets-562_%286%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Details**
 
@@ -126,8 +122,4 @@ The Cave system is part of the [Zone of Contamination](./Zone%20of%20Contaminati
 
 ![The waterfall near the end of Sundered Pass transition cave](../assets/Transition_Cave_Sundered_Pass_Waterfall.jpg)
 
-_The waterfall near the end of Sundered Pass transition cave_
-
-![](../assets/Far_Territory_Cave_waterfall.jpg)
-
-_Far\_Territory\_Cave\_waterfall.jpg_
+![Far Territory Cave waterfall](../assets/Far_Territory_Cave_waterfall.jpg)

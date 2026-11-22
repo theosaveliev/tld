@@ -4,9 +4,7 @@
 
 **Improvised Head Wrap**
 
-![](../assets/Improvised_Head_Wrap_icon.png)
-
-_improvised\_Head\_Wrap\_icon.png_
+![Improvised Head Wrap icon](../assets/Improvised_Head_Wrap_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _improvised\_Head\_Wrap\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0.0
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0.0
 
-**Protection:** ![](../assets/Protection_icon.png)0.5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0.5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
 
 > “**Almost a hat, made from scraps of cloth.**”
 >
@@ -42,11 +40,7 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 ![Model icon](../assets/Improvised_Head_Wrap_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Improvised_Head_Wrap_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Crafting
 

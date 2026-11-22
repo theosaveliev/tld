@@ -4,15 +4,11 @@
 
 **Mammoth Falls**
 
-![](../assets/Mammoth_Falls.jpg)
-
-_Mammoth\_Falls.jpg_
+![Mammoth Falls](../assets/Mammoth_Falls.jpg)
 
 **Location**
 
-![](../assets/Mammoth_Falls_Location.png)
-
-_Mammoth\_Falls\_Location.png_
+![Mammoth Falls Location](../assets/Mammoth_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

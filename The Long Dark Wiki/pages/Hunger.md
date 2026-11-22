@@ -11,7 +11,7 @@
 - [Affecting fatigue](#affecting-fatigue)
 - [Character quotes](#character-quotes)
 
-![](../assets/Hunger_icon.png) **Hunger** is one of the four essential [Needs](./Needs.md). Hunger is a measure of how many calories the player consumes and expends. The player's hunger is restored by consuming calories, which come in the form of [Foods and Drink](./Food%20And%20Drink.md). The player will begin to lose [Condition](./Condition.md) when their hunger is completely depleted.
+![Hunger icon](../assets/Hunger_icon.png) **Hunger** is one of the four essential [Needs](./Needs.md). Hunger is a measure of how many calories the player consumes and expends. The player's hunger is restored by consuming calories, which come in the form of [Foods and Drink](./Food%20And%20Drink.md). The player will begin to lose [Condition](./Condition.md) when their hunger is completely depleted.
 
 ## Hunger bar / Calorie store
 
@@ -44,7 +44,7 @@ When no more calories are in the calorie store, [Condition](./Condition.md) drai
 
 ## Affecting fatigue
 
-![](../assets/UI_Long-Hunger.jpg) A player that remains starving for more than 24 hours will start to have their [Fatigue](./Fatigue.md) affected; similar to [Intestinal Parasites](./Intestinal%20Parasites.md). The maximal amount of energy that the player will be able to acquire through sleep will start to decrease, which is represented by the red color that starts filling up the inside of the fatigue bar, as well as by the yellow exclamation mark that appears next to the fatigue bar. The maximum amount of fatigue that a player can have will decrease by 2% per hour, with a maximum decrease of 50%. Once the player has started eating, the fatigue cap will decrease by 5% per hour until it is fully removed. This issue is easily solved by consuming food, the red color won't vanish immediately, but the player will be allowed to gain full energy from sleep right away.
+![UI Long Hunger](../assets/UI_Long-Hunger.jpg) A player that remains starving for more than 24 hours will start to have their [Fatigue](./Fatigue.md) affected; similar to [Intestinal Parasites](./Intestinal%20Parasites.md). The maximal amount of energy that the player will be able to acquire through sleep will start to decrease, which is represented by the red color that starts filling up the inside of the fatigue bar, as well as by the yellow exclamation mark that appears next to the fatigue bar. The maximum amount of fatigue that a player can have will decrease by 2% per hour, with a maximum decrease of 50%. Once the player has started eating, the fatigue cap will decrease by 5% per hour until it is fully removed. This issue is easily solved by consuming food, the red color won't vanish immediately, but the player will be allowed to gain full energy from sleep right away.
 
 ## Character quotes
 

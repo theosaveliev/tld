@@ -4,9 +4,7 @@
 
 **Aurora Hatch Door Entry Code**
 
-![](../assets/Aurora_Hatch_Door_Entry_Code_icon.png)
-
-_Aurora\_Hatch\_Door\_Entry\_Code\_icon.png_
+![Aurora Hatch Door Entry Code icon](../assets/Aurora_Hatch_Door_Entry_Code_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

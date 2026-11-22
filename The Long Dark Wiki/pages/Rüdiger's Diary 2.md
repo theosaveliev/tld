@@ -4,9 +4,7 @@
 
 **Rüdiger's Diary 2**
 
-![](../assets/R%C3%BCdiger%27s_Diary_2_icon.png)
-
-_Rüdiger's\_Diary\_2\_icon.png_
+![Rüdiger's Diary 2 icon](../assets/R%C3%BCdiger%27s_Diary_2_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

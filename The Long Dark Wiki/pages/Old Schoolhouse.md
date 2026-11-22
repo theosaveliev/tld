@@ -4,15 +4,11 @@
 
 **Old Schoolhouse**
 
-![Milton's Old Schoolhouse.](../assets/TLD-SSb-MT-Oldschool.jpg)
-
-_[Milton](./Milton.md)'s Old Schoolhouse._
+![Milton's Old Schoolhouse.](../assets/TLD-SSb-MT-Oldschool.jpg)<br>_[Milton](./Milton.md)'s Old Schoolhouse._
 
 **Location**
 
-![](../assets/Old_Schoolhouse_Location.png)
-
-_Old\_Schoolhouse\_Location.png_
+![Old Schoolhouse Location](../assets/Old_Schoolhouse_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

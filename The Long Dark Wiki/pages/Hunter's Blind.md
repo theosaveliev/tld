@@ -4,15 +4,11 @@
 
 **Hunter's Blind**
 
-![](../assets/Hunters_blind2.jpg)
-
-_Hunters\_blind2.jpg_
+![Hunters blind2](../assets/Hunters_blind2.jpg)
 
 **Location**
 
-![](../assets/Hunter%27s_Blind_Location.png)
-
-_Hunter's\_Blind\_Location.png_
+![Hunter's Blind Location](../assets/Hunter%27s_Blind_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -29,5 +25,3 @@ The blind is found on the north side of a small lake. There may be a [Frozen Cor
 The lake near the blind is considered deep water, so it is suitable for [Ice Fishing](./Ice%20Fishing.md) with Free Form holes.
 
 ![A corpse in the blind](../assets/Corpse_in_blind.jpg)
-
-_A corpse in the blind_

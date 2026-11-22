@@ -2,9 +2,7 @@
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pilgrim)
 
-![](../assets/Pilgrim_icon.png)
-
-_Pilgrim\_icon.png_
+![Pilgrim icon](../assets/Pilgrim_icon.png)
 
 > “**Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.**”
 

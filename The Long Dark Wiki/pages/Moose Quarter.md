@@ -4,9 +4,7 @@
 
 **Moose Quarter**
 
-![](../assets/Moose_Quarter_icon.png)
-
-_Moose\_Quarter\_icon.png_
+![Moose Quarter icon](../assets/Moose_Quarter_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 

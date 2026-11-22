@@ -11,9 +11,7 @@
 
 **Energy Bar**
 
-![](../assets/Energy_Bar_icon.png)
-
-_Energy\_Bar\_icon.png_
+![Energy Bar icon](../assets/Energy_Bar_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -63,8 +61,6 @@ Energy Bars [decay](./Decay.md) very slowly, especially when outdoors.
 ## Gallery
 
 ![Old model](../assets/Energy_Bar.png)
-
-_Old model_
 
 ## Update history
 

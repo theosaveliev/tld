@@ -12,9 +12,7 @@
 
 **The Wounded Trapper/Transcript**
 
-![](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
-
-_Missions\_story\_ep2\_The\_Wounded\_Trapper.png_
+![Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -26,7 +24,7 @@ _Missions\_story\_ep2\_The\_Wounded\_Trapper.png_
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
 
 This is the mission transcript for mission 1 [The Wounded Trapper](./The%20Wounded%20Trapper.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

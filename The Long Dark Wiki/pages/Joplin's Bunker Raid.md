@@ -33,6 +33,4 @@ Each bunker contains a large amount of supplies, which varies slightly but gener
 
 ## Gallery
 
-![](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
-
-_1901570789\_preview\_Map-PleasantValley-EP3-spoil-Fixv162-05.png_
+![1901570789 preview Map PleasantValley EP3 spoil Fixv162 05](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)

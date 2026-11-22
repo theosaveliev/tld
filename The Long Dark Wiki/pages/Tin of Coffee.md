@@ -13,9 +13,7 @@ _For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md)._
 
 **Tin of Coffee**
 
-![](../assets/Tin_of_Coffee_icon.png)
-
-_Tin\_of\_Coffee\_icon.png_
+![Tin of Coffee icon](../assets/Tin_of_Coffee_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 
@@ -89,8 +87,4 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 
 ![Pre-Alpha model (Historic)](../assets/Tin_of_coffee.png)
 
-_Pre-Alpha model (Historic)_
-
 ![The real world Coffee Tin Cup released by Hinterland](../assets/Moose_Mug_Coffee_Real.webp)
-
-_The real world Coffee Tin Cup released by Hinterland_

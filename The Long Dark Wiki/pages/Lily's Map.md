@@ -4,9 +4,7 @@
 
 **Lily's Map**
 
-![](../assets/Lily%27s_Map_icon.png)
-
-_Lily's\_Map\_icon.png_
+![Lily's Map icon](../assets/Lily%27s_Map_icon.png)
 
 **General**
 
@@ -14,7 +12,7 @@ Item Type
 
 **Wintermute:** Yes
 
-**Weight:** ![](../assets/Weight_icon.png)0.0 kg(0 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.0 kg(0 lbs)
 
 > “**A map that shows Lily's climbing route, leading out of the Milton area.**”
 >

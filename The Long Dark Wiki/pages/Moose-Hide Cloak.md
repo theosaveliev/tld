@@ -12,9 +12,7 @@
 
 **Moose-Hide Cloak**
 
-![](../assets/Moose-Hide_Cloak_icon.png)
-
-_Moose-Hide\_Cloak\_icon.png_
+![Moose Hide Cloak icon](../assets/Moose-Hide_Cloak_icon.png)
 
 **General**
 
@@ -24,21 +22,21 @@ _Moose-Hide\_Cloak\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.5 °C(6.3 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.5 °C(6.3 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)90%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)90%
 
-**Protection:** ![](../assets/Protection_icon.png)20%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)20%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-10%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-10%
 
-**Harvest:** 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / 120 minutes
+**Harvest:** 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md)<br>120 minutes
 
-**Repair:** 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md), / 2 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 60% condition
+**Repair:** 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md),<br>2 × [Cured Gut](./Cured%20Gut.md)<br>120 minutes<br>60% condition
 
 > “**Cloak crafted from Moose hide. Heavy, but offers significant protection from unfriendly wildlife, and is highly waterproof. A rare trophy."**”
 >
@@ -79,11 +77,7 @@ Note: Crafting Moose-Hide Cloaks costs durability of the used tool (e.g. [huntin
 
 ![Clothing model icon](../assets/Moose-Hide_Cloak_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Moose-Hide_Cloak_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

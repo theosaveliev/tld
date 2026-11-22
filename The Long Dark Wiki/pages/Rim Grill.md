@@ -4,9 +4,7 @@
 
 **Rim Grill**
 
-![](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png)
-
-_screen\_ab2c5b97-8817-4398-a5b1-fb4b96024b93\_hi.png_
+![Screen ab2c5b97 8817 4398 a5b1 fb4b96024b93 hi](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png)
 
 **Statistics**
 
@@ -25,5 +23,3 @@ In [Wintermute](./Wintermute.md), [Methuselah](./Methuselah.md) uses a Rim Grill
 ## Gallery
 
 ![The rim grill in the cabin](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png)
-
-_The rim grill in the cabin_

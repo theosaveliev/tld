@@ -4,7 +4,7 @@
 
 **Burns**
 
-\[\[File: / ![Fire](../assets/Burns_icon.png) / _Fire_ / ![Electrical](../assets/Burns_%28electric%29_icon.png) / _Electrical_
+![Fire](../assets/Burns_icon.png)<br>![Electrical](../assets/Burns_%28electric%29_icon.png)
 
 250px\]\]
 
@@ -20,9 +20,9 @@
 
 **Treatment**
 
-**Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
+**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
 
-**Alternate Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+**Alternate Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 **Recovery Time:** Wait 30 hours (untreated)
 
@@ -57,5 +57,3 @@ Without treatment Burns will heal after 30 hours, but can be Treated and removed
 ## Gallery
 
 ![Old icon.](../assets/Burns.png)
-
-_Old icon._

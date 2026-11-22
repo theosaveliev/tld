@@ -4,15 +4,11 @@
 
 **Secluded Shelf**
 
-![](../assets/Secluded_Shelf.jpg)
-
-_Secluded\_Shelf.jpg_
+![Secluded Shelf](../assets/Secluded_Shelf.jpg)
 
 **Location**
 
-![](../assets/Secluded_Shelf_Location.png)
-
-_Secluded\_Shelf\_Location.png_
+![Secluded Shelf Location](../assets/Secluded_Shelf_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -31,5 +27,3 @@ In the cliff face on the shelf is a cave which connects to another cave near the
 ## Gallery
 
 ![A view from the shelf](../assets/Secluded_Shelf_view.jpg)
-
-_A view from the shelf_

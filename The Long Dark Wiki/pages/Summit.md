@@ -12,15 +12,11 @@
 
 **Summit**
 
-![](../assets/Tail_section_and_wing2.jpg)
-
-_tail\_section\_and\_wing2.jpg_
+![Tail section and wing2](../assets/Tail_section_and_wing2.jpg)
 
 **Location**
 
-![](../assets/Summit_Location.png)
-
-_Summit\_Location.png_
+![Summit Location](../assets/Summit_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -57,17 +53,13 @@ It is possible to reach the Summit on day one of a playthrough, depending on the
 
 ## Gallery
 
-![](../assets/TailSection%26Wing_Summit.jpg)
+![TailSection&amp;Wing Summit](../assets/TailSection%26Wing_Summit.jpg)
 
 _TailSection&amp;Wing\_Summit.jpg_
 
-![](../assets/Summit_sunset_panorama.jpg)
-
-_Summit\_sunset\_panorama.jpg_
+![Summit sunset panorama](../assets/Summit_sunset_panorama.jpg)
 
 ![Panoramic View from the Summit](../assets/TW_Pano-1.jpg)
-
-_Panoramic View from the Summit_
 
 ## Trivia
 

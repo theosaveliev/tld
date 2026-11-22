@@ -26,9 +26,7 @@
 
 **Heavy Hammer**
 
-![](../assets/Heavy_Hammer_icon.png)
-
-_Heavy\_Hammer\_icon.png_
+![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png)
 
 **General**
 
@@ -38,11 +36,11 @@ _Heavy\_Hammer\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md)<br>30 minutes
 
-**Repair:** 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition / 45 to 30 minutes
+**Repair:** 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition<br>45 to 30 minutes
 
 > “**A hammer suitable for metalworking.**”
 >
@@ -166,8 +164,6 @@ Some particular observed locations in which a heavy hammer may be found include:
 ## Gallery
 
 ![Old model.](../assets/Heavy_hammer.png)
-
-_Old model._
 
 ## Game History
 

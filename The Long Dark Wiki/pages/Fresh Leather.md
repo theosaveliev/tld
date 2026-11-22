@@ -11,9 +11,7 @@
 
 **Fresh Leather**
 
-![](../assets/Fresh_Leather_icon.png)
-
-_Fresh\_Leather\_icon.png_
+![Fresh Leather icon](../assets/Fresh_Leather_icon.png)
 
 **Release:** [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.05)
 
@@ -25,7 +23,7 @@ _Fresh\_Leather\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested leather. / Can be used for crafting and repair after air-drying indoors for 5 days.
+**Examine:** Freshly harvested leather.<br>Can be used for crafting and repair after air-drying indoors for 5 days.
 
 **Values**
 
@@ -46,8 +44,6 @@ In early builds of _The Long Dark_ (alpha/beta), Fresh Leather was a very common
 ## Gallery
 
 ![Old model.](../assets/Fresh_Leather.jpg)
-
-_Old model._
 
 ## Update history
 

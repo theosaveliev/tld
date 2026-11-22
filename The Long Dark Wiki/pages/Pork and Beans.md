@@ -11,7 +11,7 @@
 
 **Pork and Beans**
 
-\[\[File: / ![Sealed](../assets/Pork_and_Beans_icon.png) / _Sealed_ / ![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png) / _Opened_
+![Sealed](../assets/Pork_and_Beans_icon.png)<br>![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png)
 
 250px\]\]
 
@@ -70,8 +70,6 @@ Pork and Beans is relatively common inside homes: usually in cupboards or on she
 ## Gallery
 
 ![old model](../assets/Pork_and_beans.png)
-
-_old model_
 
 ## Update history
 

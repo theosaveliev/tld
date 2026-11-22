@@ -14,19 +14,13 @@
 
 **Mountain Town**
 
-![](../assets/Mountain_town_titlecard.png)
-
-_Mountain\_town\_titlecard.png_
+![Mountain town titlecard](../assets/Mountain_town_titlecard.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Mountain_Town_Location.png)
+![Mountain Town Location](../assets/Mountain_Town_Location.png)
 
-_Mountain\_Town\_Location.png_
-
-![](../assets/Mountain_Town_map.png)
-
-_Mountain\_Town\_map.png_
+![Mountain Town map](../assets/Mountain_Town_map.png)
 
 **Details**
 
@@ -94,27 +88,15 @@ A few other locations can be found in the region:
 
 ![A detailed map of Mountain Town v2.35 (spoilers)](../assets/MT_map_default.png)
 
-_A detailed map of Mountain Town v2.35 (spoilers)_
-
 ![Map of Mountain Town v2.35 (Interloper/Misery edition, contains spoilers)](../assets/MT_map_loper.png)
-
-_Map of Mountain Town v2.35 (Interloper/Misery edition, contains spoilers)_
 
 ![In-game map](../assets/Mountain_Town_map.png)
 
-_In-game map_
-
 ![Detailed map. Updated for v1.81](../assets/Map-MT-lv3-v180.png)
-
-_Detailed map. Updated for v1.81_
 
 ![No spoiler map for v1.73](../assets/Map-MT-lv1-v173.png)
 
-_No spoiler map for v1.73_
-
 ![Map Updated for v.1.56](../assets/Mountain-town-map-the-long-dark-scaled.jpg)
-
-_Map Updated for v.1.56_
 
 ![The map found in Episode 1 is different from Survival Mode](../assets/Mountain_Town_Map_full.jpg)
 

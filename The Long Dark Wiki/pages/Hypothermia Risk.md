@@ -4,9 +4,7 @@
 
 **Hypothermia Risk**
 
-![](../assets/Hypothermia_Risk_icon.png)
-
-_Hypothermia\_Risk\_icon.png_
+![Hypothermia Risk icon](../assets/Hypothermia_Risk_icon.png)
 
 **Properties**
 

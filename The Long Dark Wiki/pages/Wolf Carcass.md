@@ -11,9 +11,7 @@
 
 **Wolf Carcass**
 
-![](../assets/Wolf_carcass_icon.png)
-
-_Wolf\_carcass\_icon.png_
+![Wolf carcass icon](../assets/Wolf_carcass_icon.png)
 
 **General**
 
@@ -25,49 +23,12 @@ _Wolf\_carcass\_icon.png_
 
 A Wolf Carcass may be harvested for 3.00-6.00 kg of [raw meat](./Wolf%20Meat%20%28Raw%29.md), 1 [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) and 2 guts. Wolf hides can be cured to craft [Wolfskin Coat](./Wolfskin%20Coat.md). On Stalker and Interloper modes, wolf meat carries the risk of [Intestinal Parasites](./Intestinal%20Parasites.md).
 
-Item
-
-Quantity
-
-Rarity
-
-![](../assets/Wolf_Meat_%28Raw%29_icon.png)
-
-_Wolf\_Meat\_(Raw)\_icon.png_
-
-[Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
-
-3 - 6
-
-Always[¹](#fn1)
-
-![](../assets/Wolf_Quarter_icon.png)
-
-_Wolf\_Quarter\_icon.png_
-
-[Wolf Quarter](./Wolf%20Quarter.md)
-
-2 - 3
-
-Always[²](#fn2)
-
-![](../assets/Fresh_Wolf_Pelt_icon.png)
-
-_Fresh\_Wolf\_Pelt\_icon.png_
-
-[Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
-
-1
-
-Always
-
-\[Missing image: Gut\_icon.png\] / _Gut\_icon.png_
-
-[Fresh Gut](./Fresh%20Gut.md)
-
-2
-
-Always
+|  | Item | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 3 - 6 | Always[¹](#fn1) |
+| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always[²](#fn2) |
+| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Preplaced Locations
 
@@ -101,11 +62,7 @@ _A wolf carcass as seen in the [Escape the Darkwalker](./Escape%20the%20Darkwalk
 
 ![A Fresh Wolf Carcass](../assets/Wolf_Carcass.jpg)
 
-_A Fresh Wolf Carcass_
-
 ![A harvested fresh wolf carcass](../assets/Wolf_Carcass_Harvested.jpg)
-
-_A harvested fresh wolf carcass_
 
 ## Notes
 

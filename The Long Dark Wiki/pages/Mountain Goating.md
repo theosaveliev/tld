@@ -4,8 +4,6 @@
 
 ![An example of the player character clinging to an extremely steep slope -- this is known as Mountain Goating.](../assets/YouCan%27tHoldOnHere.png)
 
-_An example of the player character clinging to an extremely steep slope -- this is known as Mountain Goating._
-
 The term **Mountain Goating** is an informal term popularized on the [Hinterland Forums](https://hinterlandforums.com) (similar to [Daisy Chaining](./Daisy%20Chaining.md) and [Hibernation](./Hibernation.md)), which is used to refer to the gameplay practice of players "sticking" to extremely steep terrain that is not normally climbable.
 
 ## Premise

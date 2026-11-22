@@ -12,15 +12,11 @@
 
 **Cinder Hills Coal Mine**
 
-![](../assets/RegionAtlas-resources.assets-562_%284%29.png)
-
-_RegionAtlas-resources.assets-562\_(4).png_
+![RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png)
 
 **Location**
 
-![](../assets/Cinder_Hills_Coal_Mine_map.png)
-
-_Cinder\_Hills\_Coal\_Mine\_map.png_
+![Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png)
 
 **Region:** [Coastal Highway](./Coastal%20Highway.md)
 
@@ -68,36 +64,18 @@ If you get trapped within the mine, there will always be another aurora scripted
 
 ![Road sign to the entrance 1 (Pleasant Valley)](../assets/SS-PV-CHCM_%281%29.jpg)
 
-_Road sign to the entrance 1 (Pleasant Valley)_
-
 ![Road sign to the entrance 2 (Pleasant Valley)](../assets/SS-PV-CHCM_%283%29.jpg)
-
-_Road sign to the entrance 2 (Pleasant Valley)_
 
 ![The entrance (Pleasant Valley)](../assets/SS-PV-CHCM_%282%29.jpg)
 
-_The entrance (Pleasant Valley)_
-
 ![A map of the mines (outdate with Episode 3)](../assets/Costal_highway_Abandoned_mine_leads_to_Pleasant_valley_map_zpslvkwlyyp.jpg)
-
-_A map of the mines (outdate with Episode 3)_
 
 ![Abandoned mine Map (Top layer) v.1.62](../assets/Map-CinderHillsCoalMine-SV.png)
 
-_Abandoned mine Map (Top layer) v.1.62_
-
 ![Abandoned mine (Middle layer and Bottom layer) v.1.62](../assets/Map-AuroraMine-SV.png)
-
-_Abandoned mine (Middle layer and Bottom layer) v.1.62_
 
 ![Elevator (bottom layer)](../assets/SS-AM-Aurora-1F.jpg)
 
-_Elevator (bottom layer)_
-
 ![Elevator (middle layer)](../assets/SS-AM-Aurora-2F.jpg)
 
-_Elevator (middle layer)_
-
 ![Middle layer (During Aurora)](../assets/SS-AM-Aurora-01.jpg)
-
-_Middle layer (During Aurora)_

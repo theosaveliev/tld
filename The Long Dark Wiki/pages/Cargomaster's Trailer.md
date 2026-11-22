@@ -4,15 +4,11 @@
 
 **Cargomaster's Trailer**
 
-![](../assets/Cargomaster%27s_Trailer.jpg)
-
-_Cargomaster's\_Trailer.jpg_
+![Cargomaster's Trailer](../assets/Cargomaster%27s_Trailer.jpg)
 
 **Location**
 
-![](../assets/Cargomaster%27s_Trailer_Location.png)
-
-_Cargomaster's\_Trailer\_Location.png_
+![Cargomaster's Trailer Location](../assets/Cargomaster%27s_Trailer_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -20,13 +16,11 @@ _Cargomaster's\_Trailer\_Location.png_
 
 Type
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / **Cargomaster's Trailer** is a small trailer just near the "Y" section of the runway of the airfield, north of the [Control Tower](./Control%20Tower.md).
+Has an interior<br>**Cargomaster's Trailer** is a small trailer just near the "Y" section of the runway of the airfield, north of the [Control Tower](./Control%20Tower.md).
 
 ## Overview
 

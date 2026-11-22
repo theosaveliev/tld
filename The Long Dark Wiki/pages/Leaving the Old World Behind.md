@@ -4,9 +4,7 @@
 
 **Leaving the Old World Behind**
 
-![](../assets/Leaving_the_Old_World_Behind_icon.png)
-
-_Leaving\_the\_Old\_World\_Behind\_icon.png_
+![Leaving the Old World Behind icon](../assets/Leaving_the_Old_World_Behind_icon.png)
 
 **Description:** Leave Milton. Complete Episode One.
 

@@ -4,9 +4,7 @@
 
 **ID - O. Gould**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -38,9 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found directly in front of the middle plane section in the valley. The ID is later returned to Jake at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-![](../assets/O._Gould_location.jpg)
-
-_O.\_Gould\_location.jpg_
+![O. Gould location](../assets/O._Gould_location.jpg)
 
 ## Update history
 

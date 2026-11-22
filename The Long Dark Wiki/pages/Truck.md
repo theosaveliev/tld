@@ -16,8 +16,4 @@ There are three types of trucks found on [Great Bear Island](./Great%20Bear%20Is
 
 ![A Breyerhouse utility truck on the tracks.](../assets/Breyerhouse_on_tracks.jpg)
 
-_A Breyerhouse utility truck on the tracks._
-
-![](../assets/Maintenance_yard.jpg)
-
-_maintenance\_yard.jpg_
+![Maintenance yard](../assets/Maintenance_yard.jpg)

@@ -4,15 +4,11 @@
 
 **Destroyed Lookout**
 
-![](../assets/Destroyed_lookout.jpg)
-
-_destroyed\_lookout.jpg_
+![Destroyed lookout](../assets/Destroyed_lookout.jpg)
 
 **Location**
 
-![](../assets/Destroyed_Lookout_Location.png)
-
-_Destroyed\_Lookout\_Location.png_
+![Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -36,11 +32,7 @@ The [Forestry Lookout](./Forestry%20Lookout.md) once stood in the space the Dest
 
 ![A close up of Destroyed Lookout](../assets/Destroyed_lookout4.jpg)
 
-_A close up of Destroyed Lookout_
-
 ![Destroyed Lookout as seen from the new Forestry Lookout](../assets/Destroyed_lookout5.jpg)
-
-_Destroyed Lookout as seen from the new Forestry Lookout_
 
 ![A Frozen Corpse with a Hunting Rifle in the ruins](../assets/Destroyed_lookout6.jpg)
 
@@ -48,16 +40,8 @@ _A [Frozen Corpse](./Frozen%20Corpse.md) with a [Hunting Rifle](./Hunting%20Rifl
 
 ![The large supply crate under the supports](../assets/Destroyed_lookout_supply_crate.jpg)
 
-_The large supply crate under the supports_
-
 ![A view of Destroyed Lookout from the top of the ruins](../assets/Destroyed_lookout_from_above.jpg)
-
-_A view of Destroyed Lookout from the top of the ruins_
 
 ![See the Forestry Lookout in background](../assets/Destroyed_Lookout_Aurora_2.jpg)
 
-_See the Forestry Lookout in background_
-
 ![You can rest here with good clothing](../assets/Destroyed_Lookout_Aurora.jpg)
-
-_You can rest here with good clothing_

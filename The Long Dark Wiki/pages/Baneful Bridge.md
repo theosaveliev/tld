@@ -4,15 +4,11 @@
 
 **Baneful Bridge**
 
-![](../assets/Baneful_Bridge.jpg)
-
-_Baneful\_Bridge.jpg_
+![Baneful Bridge](../assets/Baneful_Bridge.jpg)
 
 **Location**
 
-![](../assets/Baneful_Bridge_Location.png)
-
-_Baneful\_Bridge\_Location.png_
+![Baneful Bridge Location](../assets/Baneful_Bridge_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

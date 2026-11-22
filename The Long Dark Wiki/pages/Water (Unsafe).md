@@ -13,9 +13,7 @@
 
 **Water (Unsafe)**
 
-![](../assets/Water_%28Unsafe%29_icon.png)
-
-_Water\_(Unsafe)\_icon.png_
+![Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -61,8 +59,6 @@ Unsafe water can be turned into [Potable Water](./Water%20%28Potable%29.md) thro
 
 ![Bottles of unsafe and potable water of varied sizes old](../assets/Water_bottles.jpg)
 
-_Bottles of unsafe and potable water of varied sizes old_
-
 ## Appearance
 
 Water requires no container to carry, and despite displaying as a jug in the inventory, will appear as a plastic blue water bottle when dropped.
@@ -82,8 +78,6 @@ Water drawn from Toilets always yields Potable Water and never Unsafe Water, reg
 ## Gallery
 
 ![Old model.](../assets/Water_%28unsafe%29.png)
-
-_Old model._
 
 ## Update history
 

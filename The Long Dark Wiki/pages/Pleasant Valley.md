@@ -13,25 +13,19 @@
 
 **Pleasant Valley**
 
-![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png)
-
-_[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
+![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png)<br>_[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Pleasant_Valley_Location.png)
+![Pleasant Valley Location](../assets/Pleasant_Valley_Location.png)
 
-_Pleasant\_Valley\_Location.png_
-
-![](../assets/Pleasant_valley_map.png)
-
-_Pleasant\_valley\_map.png_
+![Pleasant valley map](../assets/Pleasant_valley_map.png)
 
 **Details**
 
 **Description:** A large open farmland basin surrounded by mountains on all sides, with a very ironic name.
 
-**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md), / [Coastal Highway](./Coastal%20Highway.md), / [Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_, / [Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_
+**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md),<br>[Coastal Highway](./Coastal%20Highway.md),<br>[Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_,<br>[Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_
 
 **Difficulty:** Advanced
 
@@ -98,31 +92,17 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) located northwest of the C
 
 ![A detailed map of Pleasant Valley v2.35 (spoilers)](../assets/PV_map_default.png)
 
-_A detailed map of Pleasant Valley v2.35 (spoilers)_
-
 ![A detailed map of Pleasant Valley v2.35 (Loper/Misery edition, spoilers)](../assets/PV_map_loper.png)
 
-_A detailed map of Pleasant Valley v2.35 (Loper/Misery edition, spoilers)_
+![1901570789 preview Map PleasantValley EP3 spoil Fixv162 05](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
 
-![](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
+![Pleasant Valley map by Sniper Bob](../assets/Pleasant_Valley_map_by_Sniper_Bob.jpg)
 
-_1901570789\_preview\_Map-PleasantValley-EP3-spoil-Fixv162-05.png_
+![Map PleasantValley SV spoil Fixv169](../assets/Map-PleasantValley-SV-spoil-Fixv169.png)
 
-![](../assets/Pleasant_Valley_map_by_Sniper_Bob.jpg)
+![Pleasant valley map](../assets/Pleasant_valley_map.png)
 
-_Pleasant\_Valley\_map\_by\_Sniper\_Bob.jpg_
-
-![](../assets/Map-PleasantValley-SV-spoil-Fixv169.png)
-
-_Map-PleasantValley-SV-spoil-Fixv169.png_
-
-![](../assets/Pleasant_valley_map.png)
-
-_Pleasant\_valley\_map.png_
-
-![](../assets/MAP-ingame-PV-v160-Eng.jpg)
-
-_MAP-ingame-PV-v160-Eng.jpg_
+![MAP ingame PV v160 Eng](../assets/MAP-ingame-PV-v160-Eng.jpg)
 
 ### Locations
 
@@ -132,60 +112,30 @@ _A view showing the expansive Pleasant Valley. [Pleasant Valley outbuildings](./
 
 ![A snow-covered Tractor found commonly near the farms](../assets/Tractor.jpg)
 
-_A snow-covered Tractor found commonly near the farms_
+![Pensive Pond](../assets/Pensive_Pond.jpg)
 
-![](../assets/Pensive_Pond.jpg)
+![Picnic Spot](../assets/Picnic_Spot.jpg)
 
-_Pensive\_Pond.jpg_
+![Rural Crossroads](../assets/Rural_Crossroads.jpg)
 
-![](../assets/Picnic_Spot.jpg)
+![Cascading Falls](../assets/Cascading_Falls.jpg)
 
-_Picnic\_Spot.jpg_
+![Lower Falls](../assets/Lower_Falls.jpg)
 
-![](../assets/Rural_Crossroads.jpg)
+![Skeeter's Ridge](../assets/Skeeter%27s_Ridge.jpg)
 
-_Rural\_Crossroads.jpg_
+![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_Outbuildings.jpg)
 
-![](../assets/Cascading_Falls.jpg)
+![Pleasant Valley Farmstead](../assets/Pleasant_Valley_Farmstead.jpg)
 
-_Cascading\_Falls.jpg_
+![Heartbreak Bridge](../assets/Heartbreak_Bridge.jpg)
 
-![](../assets/Lower_Falls.jpg)
+![Contemplation Bridge](../assets/Contemplation_Bridge.jpg)
 
-_Lower\_Falls.jpg_
+![Derelict Cabins](../assets/Derelict_Cabins.jpg)
 
-![](../assets/Skeeter%27s_Ridge.jpg)
+![End of the Road](../assets/End_of_the_Road.jpg)
 
-_Skeeter's\_Ridge.jpg_
+![Draft Dodger's Cabin](../assets/Draft_Dodger%27s_Cabin.jpg)
 
-![](../assets/Pleasant_Valley_Outbuildings.jpg)
-
-_Pleasant\_Valley\_Outbuildings.jpg_
-
-![](../assets/Pleasant_Valley_Farmstead.jpg)
-
-_Pleasant\_Valley\_Farmstead.jpg_
-
-![](../assets/Heartbreak_Bridge.jpg)
-
-_Heartbreak\_Bridge.jpg_
-
-![](../assets/Contemplation_Bridge.jpg)
-
-_Contemplation\_Bridge.jpg_
-
-![](../assets/Derelict_Cabins.jpg)
-
-_Derelict\_Cabins.jpg_
-
-![](../assets/End_of_the_Road.jpg)
-
-_End\_of\_the\_Road.jpg_
-
-![](../assets/Draft_Dodger%27s_Cabin.jpg)
-
-_Draft\_Dodger's\_Cabin.jpg_
-
-![](../assets/Signal_Hill.jpg)
-
-_Signal\_Hill.jpg_
+![Signal Hill](../assets/Signal_Hill.jpg)

@@ -4,9 +4,7 @@
 
 **Magnifying Lens**
 
-![](../assets/Magnifying_Lens_icon.png)
-
-_Magnifying\_Lens\_icon.png_
+![Magnifying Lens icon](../assets/Magnifying_Lens_icon.png)
 
 **General**
 
@@ -18,9 +16,9 @@ _Magnifying\_Lens\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
 
 > “**A magnifying lens that can be used to start a fire during daylight.**”
 >
@@ -54,5 +52,3 @@ You can, however, utilize the magnifying lens to start fires in the safety of in
 ## Gallery
 
 ![Old model](../assets/Magnifying_lens.png)
-
-_Old model_

@@ -4,9 +4,7 @@
 
 **Stone-Age Sniper**
 
-![](../assets/Stone-Age_Sniper_icon.png)
-
-_Stone-Age\_Sniper\_icon.png_
+![Stone Age Sniper icon](../assets/Stone-Age_Sniper_icon.png)
 
 **Description:** Stun a rabbit with a rock from over 25 meters (80 feet) away.
 

@@ -4,7 +4,7 @@
 
 **Wheel**
 
-\[\[File: / ![Full](../assets/Wheel.png) / _Full_ / ![Broken](../assets/Wheel_%28broken%29.png) / _Broken_
+![Full](../assets/Wheel.png)<br>![Broken](../assets/Wheel_%28broken%29.png)
 
 250px\]\]
 
@@ -38,8 +38,4 @@ Harvesting either form with a [Hatchet](./Hatchet.md) yields 3 [Reclaimed Wood](
 
 ![The Wheel in the Camp Office](../assets/Wooden_Wheel_Undamaged.jpg)
 
-_The Wheel in the Camp Office_
-
 ![Ditto, broken](../assets/Wooden_Wheel_Damaged.jpg)
-
-_Ditto, broken_

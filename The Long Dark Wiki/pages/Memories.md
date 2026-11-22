@@ -20,9 +20,7 @@
 
 **Memories**
 
-![](../assets/Memories.png)
-
-_Memories.png_
+![Memories](../assets/Memories.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -67,7 +65,7 @@ This section contains a list of the journal entries for the mission:
 
 ### Start a Fire
 
-![](../assets/Office_%28Memories%29.png) Mackenzie will state he is getting cold. Pick up the following items within the office:
+![Office (Memories)](../assets/Office_%28Memories%29.png) Mackenzie will state he is getting cold. Pick up the following items within the office:
 
 - One Firestarter, such as
   - located on the left side of the desk
@@ -110,7 +108,7 @@ Mackenzie will answer the ringing phone, with another Jackrabbit Remote Transpor
 
 ### Load the Plane
 
-![](../assets/Jackrabbit_hanger.jpg) Load the following items from the central hanger into the Hatch located on the Floatplane:
+![Jackrabbit hanger](../assets/Jackrabbit_hanger.jpg) Load the following items from the central hanger into the Hatch located on the Floatplane:
 
 
 Optionally, load one the three following items also located on the table by the plane:
@@ -140,39 +138,21 @@ A cutscene triggers, where you fly through bad weather and experience an [Aurora
 
 ![The interior of the hanger](../assets/Jackrabbit_hanger.jpg)
 
-_The interior of the hanger_
-
 ![A poster found inside the hanger](../assets/Jackrabbit_transport_flyer.png)
-
-_A poster found inside the hanger_
 
 ![A painting featuring the company's staff and De Havilland Beaver floatplane](../assets/Jackrabbit_transport_painting.png)
 
-_A painting featuring the company's staff and De Havilland Beaver floatplane_
-
 ![The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
-
-_The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map_
 
 ![Mackenzie passing the time by playing Solitaire, pulling the Joker card out](../assets/Joker_Playing_Card_Wolf.jpg)
 
-_Mackenzie passing the time by playing Solitaire, pulling the Joker card out_
-
 ![The old Global map on the office board](../assets/Global_map_Published_by_development_team.jpg)
-
-_The old Global map on the office board_
 
 ![Mackenzie's boredom showing](../assets/Solitaire_cards.jpg)
 
-_Mackenzie's boredom showing_
-
 ![Certified Pilot](../assets/Jackrabbit_Certificate.jpg)
 
-_Certified Pilot_
-
 ![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg)
-
-_Mackenzie eyeing the Great Bear Island brochure_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Dr Larsen's Clipboard**
 
-![](../assets/Dr_Larsen%27s_Clipboard_icon.png)
-
-_Dr\_Larsen's\_Clipboard\_icon.png_
+![Dr Larsen's Clipboard icon](../assets/Dr_Larsen%27s_Clipboard_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

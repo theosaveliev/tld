@@ -4,15 +4,11 @@
 
 **Final Refuge**
 
-![](../assets/Final_Refuge.png)
-
-_Final\_Refuge.png_
+![Final Refuge](../assets/Final_Refuge.png)
 
 **Location**
 
-![](../assets/Final_Refuge_Location.png)
-
-_Final\_Refuge\_Location.png_
+![Final Refuge Location](../assets/Final_Refuge_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -20,13 +16,11 @@ _Final\_Refuge\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / **Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md).
+Has an interior<br>**Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md).
 
 ## Overview
 
@@ -51,16 +45,10 @@ The road ahead is blocked off by an avalanche, [Unyielding Inundation](./Unyield
 
 ![The inside of cabin C](../assets/Inside_of_Cabin_C.png)
 
-_The inside of cabin C_
-
 ![The road ahead blocked by Unyielding Inundation](../assets/Avalache_blocking_road.png)
 
 _The road ahead blocked by [Unyielding Inundation](./Unyielding%20Inundation.md)_
 
 ![An avalanche warning sign inside the cabin](../assets/Avalanche_Warning_Sign.png)
 
-_An avalanche warning sign inside the cabin_
-
 ![A view upon the valley from the Final Refuge](../assets/Viewfinalrefuge.png)
-
-_A view upon the valley from the Final Refuge_

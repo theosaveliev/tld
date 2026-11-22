@@ -12,9 +12,7 @@
 
 **Mountaineering Boots**
 
-![](../assets/Mountaineering_Boots_icon.png)
-
-_Mountaineering\_Boots\_icon.png_
+![Mountaineering Boots icon](../assets/Mountaineering_Boots_icon.png)
 
 **General**
 
@@ -22,29 +20,27 @@ _Mountaineering\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 2 × [Cured Leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 2 × [Cured Leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md),<br>1 × [Cloth](./Cloth.md)<br>90 minutes<br>50% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / > “**Especially rugged boots given to you by Grey Mother.**” / > / > — In-game description / > “**Don't be so stubborn, Mainlander. Here... Take these old boots. [They belonged to my](./Lilith%20Barker.md)...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going.**” / > / > — Grey Mother in Predux Episode 1 after earning her Trust / **Mountaineering Boots** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_ obtained exclusively in [Wintermute](./Wintermute.md).
+<br>> “**Especially rugged boots given to you by Grey Mother.**”<br>><br>> — In-game description<br>> “**Don't be so stubborn, Mainlander. Here... Take these old boots. [They belonged to my](./Lilith%20Barker.md)...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going.**”<br>><br>> — Grey Mother in Predux Episode 1 after earning her Trust<br>**Mountaineering Boots** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_ obtained exclusively in [Wintermute](./Wintermute.md).
 
 ## Overview
 
@@ -72,11 +68,7 @@ It's implied by Grey Mother that these boots once belonged to [Lilith Barker](./
 
 ![Clothing model icon](../assets/Mountaineering_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Mountaineering_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

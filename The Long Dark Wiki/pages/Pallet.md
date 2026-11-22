@@ -4,9 +4,7 @@
 
 **Pallet**
 
-![](../assets/Pallet.jpg)
-
-_Pallet.jpg_
+![Pallet](../assets/Pallet.jpg)
 
 **General**
 

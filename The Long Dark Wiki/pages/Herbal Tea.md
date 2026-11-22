@@ -13,9 +13,7 @@
 
 **Herbal Tea**
 
-![](../assets/Herbal_Tea_icon.png)
-
-_Herbal\_Tea\_icon.png_
+![Herbal Tea icon](../assets/Herbal_Tea_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 
@@ -70,8 +68,6 @@ The ingredients on the back list: "Chamomile Flower, Mint Leaf, Natural Flavors.
 ## Gallery
 
 ![Old model](../assets/Herbal_tea.png)
-
-_Old model_
 
 ## Update history
 

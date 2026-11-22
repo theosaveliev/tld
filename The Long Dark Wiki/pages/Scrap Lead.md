@@ -12,9 +12,7 @@
 
 **Scrap Lead**
 
-![](../assets/Scrap_Lead_icon.png)
-
-_Scrap\_Lead\_icon.png_
+![Scrap Lead icon](../assets/Scrap_Lead_icon.png)
 
 **General**
 
@@ -24,7 +22,7 @@ _Scrap\_Lead\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
 > “**Harvested from dead car batteries. Scrap lead can be used to craft bullets.**”
 >

@@ -11,7 +11,7 @@
 
 **Chair**
 
-\[\[File: / ![Chair](../assets/Chair.jpg) / _Chair_ / ![Sofa](../assets/Sofa_Chair.jpg) / _Sofa_ / ![Stool](../assets/Stool.png) / _Stool_
+![Chair](../assets/Chair.jpg)<br>![Sofa](../assets/Sofa_Chair.jpg)<br>![Stool](../assets/Stool.png)
 
 250px\]\]
 

@@ -4,9 +4,7 @@
 
 **Martin Barker**
 
-![](../assets/Martin_Barker.png)
-
-_Martin\_Barker.png_
+![Martin Barker](../assets/Martin_Barker.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
@@ -24,7 +22,7 @@ _Martin\_Barker.png_
 
 **Place of death:** [Milton](./Milton.md)
 
-**Relatives:** **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
+**Relatives:** **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife)<br>**•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
 
 **Occupation:** Farmer
 
@@ -56,5 +54,3 @@ His corpse can appear in [Survival Mode](./Survival%20Mode.md), serving as 1 of 
 _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of Martin Barker, Lilith Barker and Grey Mother._
 
 ![A dead Martin Barker being eaten by a Wolf](../assets/Martin_Barker_Dead.jpg)
-
-_A dead Martin Barker being eaten by a Wolf_

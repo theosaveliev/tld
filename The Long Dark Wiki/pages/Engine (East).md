@@ -4,15 +4,11 @@
 
 **Engine (East)**
 
-![](../assets/Engine_-_Timberwolf_Mountain_location.jpg)
-
-_Engine\_-\_Timberwolf\_Mountain\_location.jpg_
+![Engine Timberwolf Mountain location](../assets/Engine_-_Timberwolf_Mountain_location.jpg)
 
 **Location**
 
-![](../assets/Engine_%28East%29_Location.png)
-
-_Engine\_(East)\_Location.png_
+![Engine (East) Location](../assets/Engine_%28East%29_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -47,8 +43,6 @@ The crates and the cardboard boxes don't contain anything but can be broken down
 ### Gallery
 
 ![A view showing the two cargo containers](../assets/Engine4.jpg)
-
-_A view showing the two cargo containers_
 
 ![A view of the engine from Echo Peak East](../assets/Engine5.jpg)
 

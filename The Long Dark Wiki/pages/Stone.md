@@ -12,9 +12,7 @@
 
 **Stone**
 
-![](../assets/Stone_icon.png)
-
-_Stone\_icon.png_
+![Stone icon](../assets/Stone_icon.png)
 
 **Release:** [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)
 
@@ -80,11 +78,7 @@ Like [arrows](./Simple%20Arrow.md), stones will ricochet off terrain and objects
 
 ![Stone's viewmodel](../assets/Stone_viewmodel.jpg)
 
-_Stone's viewmodel_
-
 ![The view when aiming a Stone for a throw](../assets/Sweatshirt_RockThrow_Male.jpg)
-
-_The view when aiming a Stone for a throw_
 
 ![A Rock Cache made of several Stones](../assets/Rock_Cache_icon.png)
 

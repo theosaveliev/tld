@@ -4,9 +4,7 @@
 
 **Letter for Hank's Niece**
 
-![](../assets/Letter_for_Hank%27s_Niece_icon.png)
-
-_Letter\_for\_Hank's\_Niece\_icon.png_
+![Letter for Hank's Niece icon](../assets/Letter_for_Hank%27s_Niece_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

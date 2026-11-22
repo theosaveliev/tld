@@ -4,9 +4,7 @@
 
 **Welcome to the S\*\*t Show**
 
-![](../assets/Welcome_to_the_S%2A%2At_Show_icon.png)
-
-_Welcome\_to\_the\_S\*\*t\_Show\_icon.png_
+![Welcome to the S\*\*t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png)
 
 **Description:** Find Medicine for the Warden.
 

@@ -11,15 +11,11 @@
 
 **Old Spence Family Homestead**
 
-![](../assets/20170304095533_1.jpg)
-
-_20170304095533\_1.jpg_
+![20170304095533 1](../assets/20170304095533_1.jpg)
 
 **Location**
 
-![](../assets/Old_Spence_Family_Homestead_Location.png)
-
-_Old\_Spence\_Family\_Homestead\_Location.png_
+![Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -27,15 +23,11 @@ _Old\_Spence\_Family\_Homestead\_Location.png_
 
 **Type:** Industrial
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 
@@ -64,14 +56,8 @@ Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle]
 
 ## Gallery
 
-![](../assets/Old_Spence_Family_Homestead.png)
-
-_Old\_Spence\_Family\_Homestead.png_
+![Old Spence Family Homestead](../assets/Old_Spence_Family_Homestead.png)
 
 ![View inside main building, with Forge visible on left behind wooden slats.](../assets/Old_Spence_Family_Homestead_Forge.png)
 
-_View inside main building, with Forge visible on left behind wooden slats._
-
 ![The Forge illuminated by a flare, with coal nearby.](../assets/20161220215121_1.jpg)
-
-_The Forge illuminated by a flare, with coal nearby._

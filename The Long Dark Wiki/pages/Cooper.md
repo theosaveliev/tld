@@ -13,9 +13,7 @@
 
 **Cooper**
 
-![](../assets/Coopr.jpg)
-
-_Coopr.jpg_
+![Coopr](../assets/Coopr.jpg)
 
 **Release:** [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 
@@ -77,12 +75,6 @@ Cooper does not make any other appearance after this point, but is presumed to h
 
 ![Cooper at the bar.](../assets/Cooper_at_bar.jpg)
 
-_Cooper at the bar._
-
 ![Cooper handing a Bar Patron a whiskey to give to Astrid.](../assets/Cooper_giving_whiskey.jpg)
 
-_Cooper handing a Bar Patron a whiskey to give to Astrid._
-
 ![Cooper listening to Astrid's story.](../assets/Cooper.jpg)
-
-_Cooper listening to Astrid's story._

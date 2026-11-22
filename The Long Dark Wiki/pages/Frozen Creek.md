@@ -4,15 +4,11 @@
 
 **Frozen Creek**
 
-![](../assets/Frozen_Creek_upstream.jpg)
-
-_Frozen\_Creek\_upstream.jpg_
+![Frozen Creek upstream](../assets/Frozen_Creek_upstream.jpg)
 
 **Location**
 
-![](../assets/Frozen_Creek_Location.png)
-
-_Frozen\_Creek\_Location.png_
+![Frozen Creek Location](../assets/Frozen_Creek_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -32,8 +28,4 @@ Oddly enough, [Coal](./Coal.md) may spawn in the area and along the river, howev
 
 ![Another view of Frozen Creek.](../assets/Frozen_Creek_downstream.jpg)
 
-_Another view of Frozen Creek._
-
 ![Frozen Creek at dawn.](../assets/Frozen_Creek_dawn.png)
-
-_Frozen Creek at dawn._

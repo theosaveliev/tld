@@ -6,9 +6,7 @@
 
 **First Aid Kit**
 
-![](../assets/First_Aid_Kit.png)
-
-_First\_Aid\_Kit.png_
+![First Aid Kit](../assets/First_Aid_Kit.png)
 
 **Story item:** No
 
@@ -28,71 +26,16 @@ A first aid kit is a common type of container which can be found in most buildin
 
 ## Loot
 
-**Item:** Rarity
-
-![](../assets/Bandage_icon.png)
-
-_Bandage\_icon.png_
-
-[Bandage](./Bandage.md)
-
-22.73%
-
-![](../assets/Antiseptic_icon.png)
-
-_Antiseptic\_icon.png_
-
-[Antiseptic](./Antiseptic.md)
-
-15.91%
-
-![](../assets/Antibiotics_icon.png)
-
-_Antibiotics\_icon.png_
-
-[Antibiotics](./Antibiotics.md)
-
-11.36%
-
-![](../assets/Painkillers_icon.png)
-
-_Painkillers\_icon.png_
-
-[Painkillers](./Painkillers.md)
-
-11.36%
-
-![](../assets/Energy_Bar_icon.png)
-
-_Energy\_Bar\_icon.png_
-
-[Energy Bar](./Energy%20Bar.md)
-
-11.36%
-
-![](../assets/Sewing_Kit_icon.png)
-
-_Sewing\_Kit\_icon.png_
-
-[Sewing Kit](./Sewing%20Kit.md)
-
-9.09%
-
-![](../assets/Water_Purification_Tablets_icon.png)
-
-_Water\_Purification\_Tablets\_icon.png_
-
-[Water Purification Tablets](./Water%20Purification%20Tablets.md)
-
-9.09%
-
-![](../assets/Emergency_Stim_icon.png)
-
-_Emergency\_Stim\_icon.png_
-
-[Emergency Stim](./Emergency%20Stim.md)
-
-9.09%
+|  | Item | Rarity |
+| --- | --- | --- |
+| ![Bandage icon](../assets/Bandage_icon.png) | [Bandage](./Bandage.md) | 22.73% |
+| ![Antiseptic icon](../assets/Antiseptic_icon.png) | [Antiseptic](./Antiseptic.md) | 15.91% |
+| ![Antibiotics icon](../assets/Antibiotics_icon.png) | [Antibiotics](./Antibiotics.md) | 11.36% |
+| ![Painkillers icon](../assets/Painkillers_icon.png) | [Painkillers](./Painkillers.md) | 11.36% |
+| ![Energy Bar icon](../assets/Energy_Bar_icon.png) | [Energy Bar](./Energy%20Bar.md) | 11.36% |
+| ![Sewing Kit icon](../assets/Sewing_Kit_icon.png) | [Sewing Kit](./Sewing%20Kit.md) | 9.09% |
+| ![Water Purification Tablets icon](../assets/Water_Purification_Tablets_icon.png) | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 9.09% |
+| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | 9.09% |
 
 ## Gallery
 

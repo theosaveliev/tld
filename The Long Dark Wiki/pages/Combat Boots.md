@@ -4,9 +4,7 @@
 
 **Combat Boots**
 
-![](../assets/Combat_Boots_icon.png)
-
-_Combat\_Boots\_icon.png_
+![Combat Boots icon](../assets/Combat_Boots_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Combat\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)10%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)10%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-7%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-7%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
 > “**Boots designed for war zones. Too bad they weren't made for Winter. Heavy-duty leather with good ankle support. Would offer fair resistance to animal bites.**”
 >
@@ -44,11 +42,7 @@ Mid-tier boots. They are heavier than the [Work Boots](./Work%20Boots.md) and of
 
 ![Clothing model](../assets/Combat_Boots_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Combat_Boots_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

@@ -4,15 +4,11 @@
 
 **Train Bridge**
 
-![](../assets/Train_Bridge.jpg)
-
-_Train\_Bridge.jpg_
+![Train Bridge](../assets/Train_Bridge.jpg)
 
 **Location**
 
-![](../assets/Train_Bridge_Location.png)
-
-_Train\_Bridge\_Location.png_
+![Train Bridge Location](../assets/Train_Bridge_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

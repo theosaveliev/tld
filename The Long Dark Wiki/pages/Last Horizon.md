@@ -30,11 +30,9 @@
 | Next | [Sutherland's Tale](./Sutherland%27s%20Tale.md) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) [Forsaken Airfield](./Forsaken%20Airfield.md) |
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
@@ -43,7 +41,7 @@ _Ptarmigan\_icon.png_
 
 ”
 
-**Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![](../assets/Cougar_Part_5.jpg)
+**Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![Cougar Part 5](../assets/Cougar_Part_5.jpg)
 
 ## Preface
 
@@ -184,11 +182,7 @@ _Rüdiger's fate and the [Tactical Jacket](./Tactical%20Jacket.md)_
 
 ![Acquiring the Settled Mind Feat](../assets/Settled_Mind_Feat.jpg)
 
-_Acquiring the Settled Mind Feat_
-
 ![Completing the Tale](../assets/Final_Horizon_Badge.jpg)
-
-_Completing the Tale_
 
 ## Trivia
 

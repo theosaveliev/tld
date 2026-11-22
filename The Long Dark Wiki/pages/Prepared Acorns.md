@@ -13,7 +13,7 @@
 
 **Prepared Acorns**
 
-\[\[File: / ![Portion](../assets/Prepared_Acorns_icon.png) / _Portion_
+![Portion](../assets/Prepared_Acorns_icon.png)
 
 250px\]\]
 

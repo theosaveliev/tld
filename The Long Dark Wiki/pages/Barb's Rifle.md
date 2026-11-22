@@ -11,13 +11,11 @@
 - [Gallery](#gallery)
 - [Update History](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Barb's Rifle** / ![](../assets/Barb%27s_Rifle_icon.png) / _Barb's\_Rifle\_icon.png_ / **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) / **Wintermute:** No / **Renewable:** No (unique item) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** A pale green .303 with a custom stock. A trucker's companion and a durable friend on the open road. / Reliable beyond all else. / **Values** / **Weight:** 4.50 kg (9.9 lbs) / **Actions** / **Backpack:** Use, Actions, Drop / **On ground:** Take It, Equip It, Leave It / **Advanced data** / **Item key:** GAMEPLAY\_Rifle\_Barbs / **Barb's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _[The Long Dark](./The%20Long%20Dark.md)_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+<br>**Barb's Rifle**<br>![Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png)<br>**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)<br>**Wintermute:** No<br>**Renewable:** No (unique item)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A pale green .303 with a custom stock. A trucker's companion and a durable friend on the open road.<br>Reliable beyond all else.<br>**Values**<br>**Weight:** 4.50 kg (9.9 lbs)<br>**Actions**<br>**Backpack:** Use, Actions, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Rifle\_Barbs<br>**Barb's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _[The Long Dark](./The%20Long%20Dark.md)_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 
@@ -55,35 +53,19 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 
 ![Barbs Rifle Inspect](../assets/Barbs_Rifle_Inspect.png)
 
-_Barbs Rifle Inspect_
-
-![](../assets/Barbs_Rifle_bolt_open.png)
-
-_Barbs\_Rifle\_bolt\_open.png_
+![Barbs Rifle bolt open](../assets/Barbs_Rifle_bolt_open.png)
 
 ![Barbs Rifle Iron Sights](../assets/Barbs_Rifle_Sight.png)
 
-_Barbs Rifle Iron Sights_
-
 ![Barbs Rifle Ground Model](../assets/Barbs_Rifle_Ground_Model.png)
-
-_Barbs Rifle Ground Model_
 
 ![The rifle's location in the Train Unloading area](../assets/Barb_Rifle_Location.png)
 
-_The rifle's location in the Train Unloading area_
-
 ![ditto](../assets/Barb%27s_Rifle_Train_Unloading.jpg)
-
-_ditto_
 
 ![The Rifle's location under the concrete bridge](../assets/Barbs_rifle_location.jpg)
 
-_The Rifle's location under the concrete bridge_
-
 ![Ditto](../assets/Barb%27s_Rifle_Bridge.jpg)
-
-_Ditto_
 
 ## Update History
 

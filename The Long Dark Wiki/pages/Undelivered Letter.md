@@ -4,9 +4,7 @@
 
 **Undelivered Letter**
 
-![](../assets/Undelivered_Letter_icon.png)
-
-_Undelivered\_Letter\_icon.png_
+![Undelivered Letter icon](../assets/Undelivered_Letter_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

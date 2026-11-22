@@ -4,15 +4,11 @@
 
 **Island Cottage**
 
-![](../assets/Island_Cottage.png)
-
-_Island\_Cottage.png_
+![Island Cottage](../assets/Island_Cottage.png)
 
 **Location**
 
-![](../assets/Island_Cottage_Location.png)
-
-_Island\_Cottage\_Location.png_
+![Island Cottage Location](../assets/Island_Cottage_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -22,9 +18,7 @@ _Island\_Cottage\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -50,20 +44,10 @@ Much like its other cabin counterpart in the region, the [Mindful Cabin](./Mindf
 
 ![The interior of Island Cottage.](../assets/Island_Cottage_Interior.png)
 
-_The interior of Island Cottage._
-
 ![The potable water container under the sink.](../assets/Island_Cottage_water_storage.png)
-
-_The potable water container under the sink._
 
 ![The outside of the Island Cottage during an aurora.](../assets/Island_Cottage_Aurora.png)
 
-_The outside of the Island Cottage during an aurora._
-
 ![A balcony view of Airfield 31 from the Island Cottage during an aurora.](../assets/Balcony_View_during_an_aurora%2C_Island_Cottage.png)
 
-_A balcony view of Airfield 31 from the Island Cottage during an aurora._
-
-![](../assets/Island_Cottage_balcony_view_1.png)
-
-_Island\_Cottage\_balcony\_view\_1.png_
+![Island Cottage balcony view 1](../assets/Island_Cottage_balcony_view_1.png)

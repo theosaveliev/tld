@@ -33,7 +33,7 @@ Players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20F
 
 ## Experience
 
-The choice of Experience dictates how harshly the world will treat the player throughout their journey in _The Long Dark_.![](../assets/Pilgrim_icon.png)
+The choice of Experience dictates how harshly the world will treat the player throughout their journey in _The Long Dark_.![Pilgrim icon](../assets/Pilgrim_icon.png)
 
 ### Pilgrim
 
@@ -46,7 +46,7 @@ The choice of Experience dictates how harshly the world will treat the player th
 - Wildlife will not attack unless provoked.
 - Allows for 5 active [Feats](./Feats.md).
 
-![](../assets/Voyageur_icon.png)
+![Voyageur icon](../assets/Voyageur_icon.png)
 
 ### Voyageur
 
@@ -59,7 +59,7 @@ An experience that balances exploration with a challenge, [Voyageur](./Voyageur.
 - Survival elements are challenging but resources are plentiful.
 - Allows for 4 active [Feats](./Feats.md).
 
-![](../assets/Stalker_icon.png)
+![Stalker icon](../assets/Stalker_icon.png)
 
 ### Stalker
 
@@ -72,7 +72,7 @@ A punishing survival challenge. [Stalker](./Stalker.md) features numerous aggres
 - All survival elements are tuned to be particularly challenging.
 - Allows for 3 active [Feats](./Feats.md).
 
-![](../assets/Interloper_icon.png)
+![Interloper icon](../assets/Interloper_icon.png)
 
 ### Interloper
 
@@ -85,7 +85,7 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 - The world becomes more hostile the longer you survive.
 - Allows for 2 active [Feats](./Feats.md).
 
-![](../assets/Misery_icon.png)
+![Misery icon](../assets/Misery_icon.png)
 
 ### Misery
 
@@ -98,7 +98,7 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 - At timed intervals, you gradually succumb to permanent, unavoidable Afflictions unique to Misery.
 - No active [Feats](./Feats.md) allowed.
 
-![](../assets/Custom_icon.png)
+![Custom icon](../assets/Custom_icon.png)
 
 ### Custom
 
@@ -126,11 +126,7 @@ May choose between a male or female survivor. The only differences are the chara
 
 ![The female survivor silhouette](../assets/CharacterSelect_Female_Silhouette.png)
 
-_The female survivor silhouette_
-
 ![The male survivor silhouette](../assets/CharacterSelect_Male_Silhouette.png)
-
-_The male survivor silhouette_
 
 ## Start
 
@@ -180,40 +176,40 @@ Some items, locations, and even events found within the Wintermute Story mode ar
 
 ## Achievements
 
-- ![](../assets/The_First_of_Many_icon.png) [The First of Many](./The%20First%20of%20Many.md)
-- ![](../assets/You_Made_It!_icon.png) [You Made It!](./You%20Made%20It!.md)
-- ![](../assets/Ready_for_when_the_SHTF!_icon.png) [Ready for when the SHTF!](./Ready%20for%20when%20the%20SHTF!.md)
-- ![](../assets/Centurion_icon.png) [Centurion](./Centurion.md)
-- ![](../assets/The_Will_to_Live_icon.png) [The Will to Live](./The%20Will%20to%20Live.md)
-- ![](../assets/Exploration_Game_icon.png) [Exploration Game](./Exploration%20Game.md)
-- ![](../assets/Waste_Not%2C_Want_Not_icon.png) [Waste Not, Want Not](./Waste%20Not%2C%20Want%20Not.md)
-- ![](../assets/Night_Walker_icon.png) [Night Walker](./Night%20Walker.md)
-- ![](../assets/Beneath_a_Starry_Sky_icon.png) [Beneath a Starry Sky](./Beneath%20a%20Starry%20Sky.md)
-- ![](../assets/Silent_Hunter_icon.png) [Silent Hunter](./Silent%20Hunter.md)
-- ![](../assets/Pacifist_icon.png) [Pacifist](./Pacifist.md)
-- ![](../assets/It_was_THIS_Big!_icon.png) [It was THIS Big!](./It%20was%20THIS%20Big!.md)
-- ![](../assets/Wrapped_in_Furs_icon.png) [Wrapped in Furs](./Wrapped%20in%20Furs.md)
-- ![](../assets/Living_Off_the_Land_icon.png) [Living Off the Land](./Living%20Off%20the%20Land.md)
-- ![](../assets/Natural_Healer_icon.png) [Natural Healer](./Natural%20Healer.md)
-- ![](../assets/Happy_Harvester_icon.png) [Happy Harvester](./Happy%20Harvester.md)
-- ![](../assets/Stone-Age_Sniper_icon.png) [Stone-Age Sniper](./Stone-Age%20Sniper.md)
-- ![](../assets/Skilled_Survivor_icon.png) [Skilled Survivor](./Skilled%20Survivor.md)
-- ![](../assets/Face_the_Impossible_icon.png) [Face the Impossible](./Face%20the%20Impossible.md)
-- ![](../assets/Don%27t_Starve_icon.png) [Don't Starve](./Don%27t%20Starve.md)
-- ![](../assets/Faithful_Cartographer_icon.png) [Faithful Cartographer](./Faithful%20Cartographer.md)
-- ![](../assets/Resolute_Outfitter_icon.png) [Resolute Outfitter](./Resolute%20Outfitter.md)
-- ![](../assets/Penitent_Scholar_icon.png) [Penitent Scholar](./Penitent%20Scholar.md)
-- ![](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png) [Timberwolf Mountain (Achievement)](./Timberwolf%20Mountain%20%28Achievement%29.md)
-- ![](../assets/Desolation_Point_%28Achievement%29_icon.png) [Desolation Point (Achievement)](./Desolation%20Point%20%28Achievement%29.md)
-- ![](../assets/Deep_Forest_icon.png) [Deep Forest](./Deep%20Forest.md)
-- ![](../assets/Challenge_Mastery_icon.png) [Challenge Mastery](./Challenge%20Mastery.md)
-- ![](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
-- ![](../assets/Expert_Angler_icon.png) [Expert Angler](./Expert%20Angler.md)
-- ![](../assets/Broken_Body_%28Achievement%29_icon.png) [Broken Body (Achievement)](./Broken%20Body%20%28Achievement%29.md)
-- ![](../assets/Tackle_Box_icon.png) [Tackle Box](./Tackle%20Box.md)
-- ![](../assets/Thanks_for_the_Memories_icon.png) [Thanks for the Memories](./Thanks%20for%20the%20Memories.md)
-- ![](../assets/Hot_Shot_icon.png) [Hot Shot](./Hot%20Shot.md)
-- ![](../assets/Down_Below_icon.png) [Down Below](./Down%20Below.md)
+- ![The First of Many icon](../assets/The_First_of_Many_icon.png) [The First of Many](./The%20First%20of%20Many.md)
+- ![You Made It! icon](../assets/You_Made_It!_icon.png) [You Made It!](./You%20Made%20It!.md)
+- ![Ready for when the SHTF! icon](../assets/Ready_for_when_the_SHTF!_icon.png) [Ready for when the SHTF!](./Ready%20for%20when%20the%20SHTF!.md)
+- ![Centurion icon](../assets/Centurion_icon.png) [Centurion](./Centurion.md)
+- ![The Will to Live icon](../assets/The_Will_to_Live_icon.png) [The Will to Live](./The%20Will%20to%20Live.md)
+- ![Exploration Game icon](../assets/Exploration_Game_icon.png) [Exploration Game](./Exploration%20Game.md)
+- ![Waste Not, Want Not icon](../assets/Waste_Not%2C_Want_Not_icon.png) [Waste Not, Want Not](./Waste%20Not%2C%20Want%20Not.md)
+- ![Night Walker icon](../assets/Night_Walker_icon.png) [Night Walker](./Night%20Walker.md)
+- ![Beneath a Starry Sky icon](../assets/Beneath_a_Starry_Sky_icon.png) [Beneath a Starry Sky](./Beneath%20a%20Starry%20Sky.md)
+- ![Silent Hunter icon](../assets/Silent_Hunter_icon.png) [Silent Hunter](./Silent%20Hunter.md)
+- ![Pacifist icon](../assets/Pacifist_icon.png) [Pacifist](./Pacifist.md)
+- ![It was THIS Big! icon](../assets/It_was_THIS_Big!_icon.png) [It was THIS Big!](./It%20was%20THIS%20Big!.md)
+- ![Wrapped in Furs icon](../assets/Wrapped_in_Furs_icon.png) [Wrapped in Furs](./Wrapped%20in%20Furs.md)
+- ![Living Off the Land icon](../assets/Living_Off_the_Land_icon.png) [Living Off the Land](./Living%20Off%20the%20Land.md)
+- ![Natural Healer icon](../assets/Natural_Healer_icon.png) [Natural Healer](./Natural%20Healer.md)
+- ![Happy Harvester icon](../assets/Happy_Harvester_icon.png) [Happy Harvester](./Happy%20Harvester.md)
+- ![Stone Age Sniper icon](../assets/Stone-Age_Sniper_icon.png) [Stone-Age Sniper](./Stone-Age%20Sniper.md)
+- ![Skilled Survivor icon](../assets/Skilled_Survivor_icon.png) [Skilled Survivor](./Skilled%20Survivor.md)
+- ![Face the Impossible icon](../assets/Face_the_Impossible_icon.png) [Face the Impossible](./Face%20the%20Impossible.md)
+- ![Don't Starve icon](../assets/Don%27t_Starve_icon.png) [Don't Starve](./Don%27t%20Starve.md)
+- ![Faithful Cartographer icon](../assets/Faithful_Cartographer_icon.png) [Faithful Cartographer](./Faithful%20Cartographer.md)
+- ![Resolute Outfitter icon](../assets/Resolute_Outfitter_icon.png) [Resolute Outfitter](./Resolute%20Outfitter.md)
+- ![Penitent Scholar icon](../assets/Penitent_Scholar_icon.png) [Penitent Scholar](./Penitent%20Scholar.md)
+- ![Timberwolf Mountain (Achievement) icon](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png) [Timberwolf Mountain (Achievement)](./Timberwolf%20Mountain%20%28Achievement%29.md)
+- ![Desolation Point (Achievement) icon](../assets/Desolation_Point_%28Achievement%29_icon.png) [Desolation Point (Achievement)](./Desolation%20Point%20%28Achievement%29.md)
+- ![Deep Forest icon](../assets/Deep_Forest_icon.png) [Deep Forest](./Deep%20Forest.md)
+- ![Challenge Mastery icon](../assets/Challenge_Mastery_icon.png) [Challenge Mastery](./Challenge%20Mastery.md)
+- ![Something Wicked icon](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
+- ![Expert Angler icon](../assets/Expert_Angler_icon.png) [Expert Angler](./Expert%20Angler.md)
+- ![Broken Body (Achievement) icon](../assets/Broken_Body_%28Achievement%29_icon.png) [Broken Body (Achievement)](./Broken%20Body%20%28Achievement%29.md)
+- ![Tackle Box icon](../assets/Tackle_Box_icon.png) [Tackle Box](./Tackle%20Box.md)
+- ![Thanks for the Memories icon](../assets/Thanks_for_the_Memories_icon.png) [Thanks for the Memories](./Thanks%20for%20the%20Memories.md)
+- ![Hot Shot icon](../assets/Hot_Shot_icon.png) [Hot Shot](./Hot%20Shot.md)
+- ![Down Below icon](../assets/Down_Below_icon.png) [Down Below](./Down%20Below.md)
 
 ## Trivia
 
@@ -223,42 +219,22 @@ Some items, locations, and even events found within the Wintermute Story mode ar
 
 ![Mode preset](../assets/Custom_Toolbox_v162.jpg)
 
-_Mode preset_
-
 ![Custom Toolbox v.1.62](../assets/CustomToolbox-v162.png)
-
-_Custom Toolbox v.1.62_
 
 ![Pilgrim Icon old](../assets/Pilgrim_icon_old.png)
 
-_Pilgrim Icon old_
-
 ![ditto](../assets/Pilgrim_title_card.png)
-
-_ditto_
 
 ![Voyageur icon old](../assets/Voyageur_icon_old.png)
 
-_Voyageur icon old_
-
 ![ditto](../assets/Voyageur_title_card.png)
-
-_ditto_
 
 ![stalker icon old](../assets/Stalker_icon_old.png)
 
-_stalker icon old_
-
 ![ditto](../assets/Stalker_title_card.png)
-
-_ditto_
 
 ![Interloper icon old](../assets/Interloper_icon_old.png)
 
-_Interloper icon old_
-
 ![ditto](../assets/Interloper_title_card.png)
-
-_ditto_
 
 References

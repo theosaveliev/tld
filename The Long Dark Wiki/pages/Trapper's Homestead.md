@@ -13,15 +13,13 @@
 
 **Trapper's Homestead**
 
-\[\[File: / ![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg) / _Exterior_ / ![Interior](../assets/Trapper%27s_Homestead_interior.jpg) / _Interior_
+![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg)<br>![Interior](../assets/Trapper%27s_Homestead_interior.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Trapper%27s_Homestead_Location.png)
-
-_Trapper's\_Homestead\_Location.png_
+![Trapper's Homestead Location](../assets/Trapper%27s_Homestead_Location.png)
 
 Region
 
@@ -39,15 +37,11 @@ Military/Sporting
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -66,8 +60,6 @@ The Trapper's Homestead can serve as a great [Safe House](./Safehouse.md) due to
 ## Story mode
 
 ![Cave from the Mountain Town (center), as seen from the Trapper's Homestead.](../assets/Cave_opposite_Trapper%27s_Homestead.jpg)
-
-_Cave from the Mountain Town (center), as seen from the Trapper's Homestead._
 
 In [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md), the cabin is home to the trapper [Jeremiah](./Jeremiah.md), who occupies the bed at all times. You cannot sleep inside Jeremiah's home without a bedroll. The fire inside is always lit, allowing players to use the location to cook food and boil water without expending matches, tinder or firewood.
 
@@ -97,33 +89,19 @@ For many years, Trapper's Homestead was featured on the Title Screen.
 
 _A [hunting rifle](./Hunting%20Rifle.md) on a rack in the Trapper's Homestead_
 
-![](../assets/Trapper%27s_Homestead_Work_Bench.png)
-
-_Trapper's\_Homestead\_Work\_Bench.png_
+![Trapper's Homestead Work Bench](../assets/Trapper%27s_Homestead_Work_Bench.png)
 
 ![The trapper's homestead during the Aurora.](../assets/Trappers_Cabin_Aurora.jpg)
 
-_The trapper's homestead during the Aurora._
-
-![](../assets/The_Long_Dark_-_Home_Stead.jpg)
-
-_The\_Long\_Dark\_-\_Home\_Stead.jpg_
+![The Long Dark Home Stead](../assets/The_Long_Dark_-_Home_Stead.jpg)
 
 ![The Cut hidden radio in the floorboard](../assets/Trapper%27s_Cabin_Hidden_Ham_Radio.jpg)
 
-_The Cut hidden radio in the floorboard_
-
 ![Jeremiah opening the hidden floorboard](../assets/Jeremiah_Floor_Hatch_Opening.jpg)
-
-_Jeremiah opening the hidden floorboard_
 
 ![The panel in the redux version, but it cannot be opened](../assets/Trapper%27s_Homestead_hidden_hatch.jpg)
 
-_The panel in the redux version, but it cannot be opened_
-
 ![The radio now moved to the table in Redux Episode 2](../assets/Episode_2_radio.jpg)
-
-_The radio now moved to the table in Redux Episode 2_
 
 ![Halloween 2018 4 Days of Night Event](../assets/4DON_menu_background.jpg)
 

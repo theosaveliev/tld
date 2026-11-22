@@ -4,9 +4,7 @@
 
 **Restore Condition**
 
-![](../assets/Restore_Condition_icon.png)
-
-_Restore\_Condition\_icon.png_
+![Restore Condition icon](../assets/Restore_Condition_icon.png)
 
 **Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
 
@@ -16,7 +14,7 @@ _Restore\_Condition\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Caused By:** Consume ![](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+**Caused By:** Consume ![Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
 **Effect:** Positive
 

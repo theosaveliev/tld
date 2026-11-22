@@ -4,15 +4,13 @@
 
 **Trailer**
 
-\[\[File: / ![Exterior](../assets/Mobile_Home_1.png) / _Exterior_ / ![Interior](../assets/It%27s_really_a_trailer.jpg) / _Interior_
+![Exterior](../assets/Mobile_Home_1.png)<br>![Interior](../assets/It%27s_really_a_trailer.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Trailer_MT_Location.png)
-
-_Trailer\_MT\_Location.png_
+![Trailer MT Location](../assets/Trailer_MT_Location.png)
 
 Region
 
@@ -24,15 +22,11 @@ Location
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -44,18 +38,10 @@ It is the last human-made structure before entering [Hushed River Valley](./Hush
 
 ## Gallery
 
-![](../assets/Mobile_Home_3.png)
+![Mobile Home 3](../assets/Mobile_Home_3.png)
 
-_Mobile\_Home\_3.png_
-
-![](../assets/Mobile_Home_2.png)
-
-_Mobile\_Home\_2.png_
+![Mobile Home 2](../assets/Mobile_Home_2.png)
 
 ![Vigilant flame new workbench in Trailer. Nearby Hushed River Valley.](../assets/Workbench_in_Milton_Mobile_Home.jpg)
 
-_Vigilant flame new workbench in Trailer. Nearby Hushed River Valley._
-
 ![Trailer position on Mountain Town map](../assets/TLD_Milton_Trailer.png)
-
-_Trailer position on Mountain Town map_

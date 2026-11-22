@@ -17,9 +17,7 @@
 
 **Franklin**
 
-![](../assets/Franklin.png)
-
-_Franklin.png_
+![Franklin](../assets/Franklin.png)
 
 **Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 
@@ -92,23 +90,13 @@ Despite being unarmed in Wintermute, his [pistol](./Warden%27s%20Revolver.md) ca
 
 ![After being beaten by Mathis](../assets/Franklin_hurt.webp)
 
-_After being beaten by Mathis_
-
 ![Franklin tied to his chair](../assets/Franklin_Torture.jpg)
-
-_Franklin tied to his chair_
 
 ![Franklin tied to his chair as seen from the other cell](../assets/Franklin_Jail_Cell.jpg)
 
-_Franklin tied to his chair as seen from the other cell_
-
 ![Franklin dead on a stretcher](../assets/Franklin_Dead.jpg)
 
-_Franklin dead on a stretcher_
-
 ![The aftermath of Franklin's execution, also found in Survival Mode](../assets/Franklin_Chair_Aftermath.jpg)
-
-_The aftermath of Franklin's execution, also found in Survival Mode_
 
 ## Update history
 

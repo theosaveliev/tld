@@ -4,15 +4,11 @@
 
 **Shoulder Lake**
 
-![](../assets/Shoulder_Lake_Airplane.png)
-
-_Shoulder\_Lake\_Airplane.png_
+![Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png)
 
 **Location**
 
-![](../assets/Shoulder_Lake_Location.png)
-
-_Shoulder\_Lake\_Location.png_
+![Shoulder Lake Location](../assets/Shoulder_Lake_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

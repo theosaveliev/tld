@@ -4,15 +4,11 @@
 
 **Blackrock Mountain**
 
-![](../assets/Blackrock_Region.jpg)
-
-_Blackrock\_Region.jpg_
+![Blackrock Region](../assets/Blackrock_Region.jpg)
 
 **Location**
 
-![](../assets/Blackrock_Mountain_Location.png)
-
-_Blackrock\_Mountain\_Location.png_
+![Blackrock Mountain Location](../assets/Blackrock_Mountain_Location.png)
 
 Region
 
@@ -20,7 +16,7 @@ Region
 
 **General**
 
-Has no shelter / > “**The dramatic peak dominates the landscape around Blackrock Penitentiary and played a role in establishing the prison's fearsome reputation.**” / > / > — [Load Screen](./Load%20Screen.md) Description / **Blackrock Mountain** is a landmark in [Blackrock](./Blackrock.md) that can be seen throughout most of the region, as well as the reason for the region's namesake. The base of the mountain can be passed when heading to and from the [Last Prospect](./Last%20Prospect.md) mine. The mountain is large enough that it can be seen throughout most of the region, as well as appearing as a landmark on the World [Map](./Map.md) of Lower Great Bear.
+Has no shelter<br>> “**The dramatic peak dominates the landscape around Blackrock Penitentiary and played a role in establishing the prison's fearsome reputation.**”<br>><br>> — [Load Screen](./Load%20Screen.md) Description<br>**Blackrock Mountain** is a landmark in [Blackrock](./Blackrock.md) that can be seen throughout most of the region, as well as the reason for the region's namesake. The base of the mountain can be passed when heading to and from the [Last Prospect](./Last%20Prospect.md) mine. The mountain is large enough that it can be seen throughout most of the region, as well as appearing as a landmark on the World [Map](./Map.md) of Lower Great Bear.
 
 ## Gallery
 
@@ -30,11 +26,7 @@ _The mountain as seen from [Foreman's Clearcut](./Foreman%27s%20Clearcut.md)_
 
 ![The mountain as seen on the world map](../assets/Lower_Great_Bear_1.98.jpg)
 
-_The mountain as seen on the world map_
-
 ![The mountain seen on the region map](../assets/Map-EP4-L0.jpg)
-
-_The mountain seen on the region map_
 
 ![Concept art of Blackrock Prison with the mountain](../assets/Blackrock_Federal_Penitentiary_%E2%80%94_outside_view.png)
 

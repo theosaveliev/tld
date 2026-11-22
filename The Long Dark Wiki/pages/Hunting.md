@@ -183,8 +183,6 @@ An improvised explosive primarily designed to scare hostile wildlife away, [Nois
 
 ![Knives can be used to damage a Wolf in a Struggle](../assets/Hunting_Knife_icon.png)
 
-_Knives can be used to damage a Wolf in a Struggle_
-
 A very dangerous method that can be used to exclusively hunt Wolves is to allow yourself to be attacked by a Wolf (start a [Struggle](./Struggle.md)) and to use a weapon that can Puncture the beast in order for it to slowly Bleed Out. When a Struggle begins, many Tools normally used for [Carcass Harvesting](./Carcass%20Harvesting.md) or other uses can be used to damage a Wolf as the Struggle is ongoing. Be aware that using Struggles to hunt carries a high risk of Death and Afflictions, including [Torn Clothing](./Torn%20Clothing.md), [Blood Loss](./Blood%20Loss.md), [Infection Risk](./Infection%20Risk.md), [Sprained Ankle](./Sprained%20Ankle.md), [Sprained Wrist](./Sprained%20Wrist.md), [Pain](./Pain.md), and loss of Condition. Higher difficulties will almost certainly result in the player dying from MASSIVE Condition loss by using this method if their Condition is below 80% when a Struggle begins. Using this method also degrades Tool Condition.
 
 Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare, and Strike:
@@ -195,251 +193,23 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 - Scare does less damage to the Wolf, but has a high chance of causing it to flee faster.
 - Strike is when the survivor uses the barrel of a Revolver to strike the Wolf. Eventually, they get their hand on the trigger and the "Take Shot" option appears to shoot the Wolf. This can result in two outcomes: it instantly kills the Wolf or just scares it off while causing it to bleed.
 
-Image
-
-Weapon
-
-Damage Type
-
-Damage[¹](#fn1)
-
-Flee Chance[²](#fn2)
-
-Puncture Bleedout
-
-Tool Decay
-
-![](../assets/Anywhere_icon.png)
-
-_Anywhere\_icon.png_
-
-Bare Hands
-
-Desperation
-
-0.00%
-
-1.00%
-
-None
-
-None
-
-![](../assets/Hunting_Knife_icon.png)
-
-_Hunting\_Knife\_icon.png_
-
-[Hunting Knife](./Hunting%20Knife.md)
-
-Puncture
-
-3.00%
-
-1.30%
-
-12 min
-
-High
-
-![](../assets/Improvised_Knife_icon.png)
-
-_Improvised\_Knife\_icon.png_
-
-[Improvised Knife](./Improvised%20Knife.md)
-
-Puncture
-
-2.00%
-
-1.30%
-
-20 min
-
-Very High
-
-![](../assets/Scrap_Metal_Shard_icon.png)
-
-_Scrap\_Metal\_Shard\_icon.png_
-
-[Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
-
-Puncture
-
-3.00%
-
-1.30%
-
-N/A
-
-N/A
-
-![](../assets/Jeremiah%27s_Knife_icon.png)
-
-_Jeremiah's\_Knife\_icon.png_
-
-[Jeremiah's Knife](./Jeremiah%27s%20Knife.md)
-
-Puncture
-
-3.00%
-
-1.30%
-
-N/A
-
-N/A
-
-![](../assets/Cougar_Claw_Knife_icon.png)
-
-_Cougar\_Claw\_Knife\_icon.png_
-
-[Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
-
-Puncture
-
-4.00%
-
-1.30%
-
-10 min
-
-Low
-
-![](../assets/Survival_Knife_icon.png)
-
-_Survival\_Knife\_icon.png_
-
-[Survival Knife](./Survival%20Knife.md)
-
-Puncture
-
-![](../assets/Hatchet_icon.png)
-
-_Hatchet\_icon.png_
-
-[Hatchet](./Hatchet.md)
-
-Slashing
-
-4.00%
-
-1.50%
-
-30 min
-
-High
-
-![](../assets/Improvised_Hatchet_icon.png)
-
-_Improvised\_Hatchet\_icon.png_
-
-[Improvised Hatchet](./Improvised%20Hatchet.md)
-
-Slashing
-
-3.00%
-
-1.25%
-
-40 min
-
-Very High
-
-![](../assets/Prybar_icon.png)
-
-_Prybar\_icon.png_
-
-[Prybar](./Prybar.md)
-
-Scare
-
-1.25%
-
-1.50%
-
-None
-
-Medium
-
-![](../assets/Heavy_Hammer_icon.png)
-
-_Heavy\_Hammer\_icon.png_
-
-[Heavy Hammer](./Heavy%20Hammer.md)
-
-Scare
-
-2.00%
-
-4.00%
-
-None
-
-Very Low
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)[³](#fn3)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-Low
-
-![](../assets/Forester%27s_Revolver_icon.png)
-
-_Forester's\_Revolver\_icon.png_
-
-[Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-Low
-
-![](../assets/Hunter%27s_Revolver_icon.png)
-
-_Hunter's\_Revolver\_icon.png_
-
-[Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-Low
-
-![](../assets/Warden%27s_Revolver_icon.png)
-
-_Warden's\_Revolver\_icon.png_
-
-[Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6)
-
-Strike
-
-1.00%
-
-1.00%
-
-None
-
-Low
+| Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | None |
+| ![Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | High |
+| ![Improvised Knife icon](../assets/Improvised_Knife_icon.png) | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | Very High |
+| ![Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
+| ![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
+| ![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | Low |
+| ![Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture |  |  |  |  |
+| ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | High |
+| ![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
+| ![Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |
+| ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | Very Low |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | Low |
+| ![Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | Low |
+| ![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | Low |
+| ![Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | Low |
 
 Knives with the Puncture type will lead a Wolf to bleed after the Struggle, cause it to constantly flee and run around until its movements slows down, eventually causing it to die. The Heavy Hammer and the Cougar Claw Knife in particular are well known for causing high amounts of damage, usually killing the Wolf during the Struggle before the bar is full. Revolvers can either kill or scare the Wolf off of you, but are more unreliable methods of killing a Wolf during a Struggle. Other tools generally do not hurt Wolves as badly as Knives and the Heavy Hammer (affectionately nicknamed "Wolf Bonker" by players).
 
@@ -459,15 +229,9 @@ _[Fishing Tip-Up](./Fishing%20Tip-Up.md)_
 
 ![A Wolf after hunting a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png)
 
-_A Wolf after hunting a Ptarmigan_
-
 ![A Wolf after hunting a Deer](../assets/Wolf_feeding_on_deer.jpg)
 
-_A Wolf after hunting a Deer_
-
 ![A Wolf chasing a Rabbit](../assets/Wolf_pursuit.jpg)
-
-_A Wolf chasing a Rabbit_
 
 The ordinarily dangerous [Wolf](./Wolf.md) can be used to hunt Prey animals for you with enough cunning and planning. Scaring Prey Wildlife into running into the direction of a nearby Wolf will cause the Wolf to stalk and charge the Prey animal. If prey is far away the wolf could be guided towards the prey by grabbing its attention and walking it towards the area of the prey, then crouching. Once the Wolf catches up, the Prey animal instantly dies and the Wolf will begin feeding on it. From here, coming close and aiming a weapon (Stone, Rifle, Revolver, etc) will cause the Wolf to flee, allowing the Carcass to be Harvested. Some meat will be consumed by the Wolf during the process, with more meat being lost the longer you wait to scare the Wolf off of the Carcass.
 
@@ -520,61 +284,13 @@ Animals have five core hitbox areas, the head, neck, the front shoulder and ches
 
 Below is an example of the Critical Hit chance for a [Wolf](./Wolf.md).
 
-**Weapon:** Critical Hit Chance
-
-Head
-
-Neck
-
-Torso
-
-Hips
-
-Limb
-
-![](../assets/Hunting_Rifle_icon.png)
-
-_Hunting\_Rifle\_icon.png_
-
-[Hunting Rifle](./Hunting%20Rifle.md)
-
-Guaranteed
-
-Guaranteed
-
-33%
-
-10%
-
-10%
-
-![](../assets/Distress_Pistol_icon.png)
-
-_Distress\_Pistol\_icon.png_
-
-[Distress Pistol](./Distress%20Pistol.md)
-
-![](../assets/Survival_Bow_icon.png)
-
-_Survival\_Bow\_icon.png_
-
-[Survival Bow](./Survival%20Bow.md)
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)
-
-40%
-
-20%
-
-15%
-
-5%
-
-5%
+| Weapon | Critical Hit Chance |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Head | Neck | Torso | Hips | Limb |  |  |
+| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
 ### Graze shots
 
@@ -592,7 +308,7 @@ The bleed-out timers above elapse even while performing time-accelerated activit
 
 ## Tracking
 
-![](../assets/Tracking_wounded_wolf.jpg)Tracking is fairly straightforward when the animal chooses to run away. Blood drops will fall along its path for you to follow. The wounded animal is also still quite obvious against its background of snow. And animals tend to run in straight lines unless they are blocked. So following them visually is fairly easy, too. Sprinting can keep pace with all but the bear. Use your limited speed boost to keep your quarry in sight. Also when wounded, bears may charge back at you randomly, making tracking difficult sometimes.
+![Tracking wounded wolf](../assets/Tracking_wounded_wolf.jpg)Tracking is fairly straightforward when the animal chooses to run away. Blood drops will fall along its path for you to follow. The wounded animal is also still quite obvious against its background of snow. And animals tend to run in straight lines unless they are blocked. So following them visually is fairly easy, too. Sprinting can keep pace with all but the bear. Use your limited speed boost to keep your quarry in sight. Also when wounded, bears may charge back at you randomly, making tracking difficult sometimes.
 
 ### Blood trails
 

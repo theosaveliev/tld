@@ -4,9 +4,7 @@
 
 **Shutterbug**
 
-![](../assets/Shutterbug_icon.png)
-
-_Shutterbug\_icon.png_
+![Shutterbug icon](../assets/Shutterbug_icon.png)
 
 **Description:** Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game).
 

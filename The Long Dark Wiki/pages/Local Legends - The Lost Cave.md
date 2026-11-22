@@ -4,9 +4,7 @@
 
 **Local Legends - The Lost Cave**
 
-![](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
-
-_Local\_Legends\_-\_The\_Lost\_Cave\_icon.png_
+![Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

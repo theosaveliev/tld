@@ -4,9 +4,7 @@
 
 **Sure Footing**
 
-![](../assets/Sure_Footing_icon.png)
-
-_Sure\_Footing\_icon.png_
+![Sure Footing icon](../assets/Sure_Footing_icon.png)
 
 **Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
 
@@ -24,7 +22,7 @@ _Sure\_Footing\_icon.png_
 
 **Type:** Benefit
 
-**Benefit Duration:** Until / ![](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / ![](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
+**Benefit Duration:** Until<br>![Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md)<br>or<br>![Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
 
 **Advanced Data**
 

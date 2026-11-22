@@ -11,15 +11,13 @@
 
 **Convenience Store**
 
-\[\[File: / ![Floor](../assets/SS-MT-Orca-02.jpg) / _Floor_ / ![Back](../assets/SS-MT-Orca-01.jpg) / _Back_
+![Floor](../assets/SS-MT-Orca-02.jpg)<br>![Back](../assets/SS-MT-Orca-01.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Orca_Gas_Station_Location.png)
-
-_Orca\_Gas\_Station\_Location.png_
+![Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png)
 
 Region
 
@@ -37,9 +35,7 @@ Store
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

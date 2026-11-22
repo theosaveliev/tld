@@ -12,9 +12,7 @@
 
 **Cup of Herbal Tea**
 
-![](../assets/Cup_of_Herbal_Tea_icon.png)
-
-_Cup\_of\_Herbal\_Tea\_icon.png_
+![Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 
@@ -82,11 +80,7 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 
 ![old model](../assets/Herbal_tea_cup.png)
 
-_old model_
-
 ![Old icon](../assets/Cup_of_herbal_tea_icon_old.png)
-
-_Old icon_
 
 ## Update history
 

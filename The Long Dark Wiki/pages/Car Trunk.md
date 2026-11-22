@@ -4,9 +4,7 @@
 
 **Car Trunk**
 
-![](../assets/Car_Trunk.jpg)
-
-_Car\_Trunk.jpg_
+![Car Trunk](../assets/Car_Trunk.jpg)
 
 **Release:** TBD
 

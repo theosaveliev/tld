@@ -11,9 +11,7 @@
 
 **Bear Meat**
 
-![](../assets/Bear_Meat_%28Raw%29_icon.png)
-
-_Bear\_Meat\_(Raw)\_icon.png_
+![Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 
@@ -66,27 +64,15 @@ Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 2
 
 ![Fresh](../assets/Bear_Meat_%28Raw%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Bear_Meat_%28Raw%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Bear_Meat_%28Raw%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Bear_Meat_%28Raw%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Bear_Meat_%28Raw%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old model.](../assets/Black_bear_meat.png)
-
-_Old model._
 
 ## Update history
 

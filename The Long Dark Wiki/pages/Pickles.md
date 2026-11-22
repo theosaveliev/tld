@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pickles)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Pickles** / ![](../assets/Pickles_icon.png) / _Pickles\_icon.png_ / **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) / **Wintermute:** No / **Renewable:** Yes ([Trader](./Trader.md) only) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** No / **Examine:** Classic dill Pickles. Crunchy and satisfying. / **Values** / **Calories:** 650 kcal / **Hydration:** 5% / **[Vitamin C](./Scurvy.md):** Moderate (50%) / **Weight:** 0.60 kg (1.32 lbs) / **Pickles** is a rare [Food And Drink](./Food%20And%20Drink.md) item in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+<br>**Pickles**<br>![Pickles icon](../assets/Pickles_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Classic dill Pickles. Crunchy and satisfying.<br>**Values**<br>**Calories:** 650 kcal<br>**Hydration:** 5%<br>**[Vitamin C](./Scurvy.md):** Moderate (50%)<br>**Weight:** 0.60 kg (1.32 lbs)<br>**Pickles** is a rare [Food And Drink](./Food%20And%20Drink.md) item in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 
@@ -17,6 +15,6 @@ This item is only found only when trading with the [Trader](./Trader.md). It has
 Pickles cost the following to acquire from the Trader:
 
 - 4.00 kg Any Raw Fish Meat
-- 2.00 L ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+- 2.00 L ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
 ## Update History

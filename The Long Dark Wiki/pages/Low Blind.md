@@ -4,15 +4,11 @@
 
 **Low Blind**
 
-![](../assets/20170304103515_1.jpg)
-
-_20170304103515\_1.jpg_
+![20170304103515 1](../assets/20170304103515_1.jpg)
 
 **Location**
 
-![](../assets/Low_Blind_Location.png)
-
-_Low\_Blind\_Location.png_
+![Low Blind Location](../assets/Low_Blind_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -24,18 +20,10 @@ Low blind is located north of the railway on the end opposite the rail tunnel le
 
 ## Gallery
 
-![](../assets/Low_blind2.jpg)
+![Low blind2](../assets/Low_blind2.jpg)
 
-_Low\_blind2.jpg_
+![Low Blind](../assets/Low_Blind.jpg)
 
-![](../assets/Low_Blind.jpg)
+![20170304102910 1](../assets/20170304102910_1.jpg)
 
-_Low\_Blind.jpg_
-
-![](../assets/20170304102910_1.jpg)
-
-_20170304102910\_1.jpg_
-
-![](../assets/20170304102908_1.jpg)
-
-_20170304102908\_1.jpg_
+![20170304102908 1](../assets/20170304102908_1.jpg)

@@ -4,9 +4,7 @@
 
 **Island Cave**
 
-![](../assets/IslandCave.png)
-
-_IslandCave.png_
+![IslandCave](../assets/IslandCave.png)
 
 **Location**
 
@@ -30,8 +28,4 @@ A [frozen corpse](./Frozen%20Corpse.md) may spawn in the cave, along with some r
 
 ![View from the path leading to the cave](../assets/IslandCavePath.png)
 
-_View from the path leading to the cave_
-
 ![Looking out of the cave](../assets/ViewFromIslandCave.png)
-
-_Looking out of the cave_

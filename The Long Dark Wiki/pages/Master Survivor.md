@@ -4,9 +4,7 @@
 
 **Master Survivor**
 
-![](../assets/Master_Survivor.jpg)
-
-_Master\_Survivor.jpg_
+![Master Survivor](../assets/Master_Survivor.jpg)
 
 **Description:** Survive 40 days in a single Survival Mode game.
 

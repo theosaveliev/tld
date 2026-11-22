@@ -15,9 +15,7 @@
 
 **Milton Supply Caches**
 
-![](../assets/Hidden_Cache.png)
-
-_Hidden\_Cache.png_
+![Hidden Cache](../assets/Hidden_Cache.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

@@ -12,8 +12,6 @@
 
 ![The 4 Needs above the Condition bar.](../assets/Needs_Current.png)
 
-_The 4 Needs above the Condition bar._
-
 Warmth, Fatigue, Thirst, and Hunger represent **Needs** that must be satisfied during the course of the game.
 
 Failure to meet any of the Needs will cause the survivor to begin losing [Condition](./Condition.md) (the primary health bar) at steady rates, eventually weakening them to the point of [death](./Condition.md) if not properly handled. Failing to satisfy [Warmth](./Warmth.md) will cause the fastest Condition loss, and each additional unmet need adds to the rate of loss.
@@ -36,7 +34,7 @@ As Needs deteriorate past certain points, the description to the right of the ba
 
 ## [Warmth](./Warmth.md)
 
-![](../assets/Fire_heat_icon.png) [Warmth](./Warmth.md) is a measure of the temperatures the player is exposed to. The player's warmth drains when the temperature the character experiences dips below 0°C (32°F) and is regained when it is above. Exposure to the elements is the main reason for loss of warmth and can be countered by staying indoors, having good clothing, being near a fire, and by consuming certain hot foods and drinks. Warmth will also deplete instantly if you come into contact with freezing water. When warmth is depleted, condition starts to steadily drop and can kill within a few game hours. This makes warmth the most critical need to satisfy.
+![Fire heat icon](../assets/Fire_heat_icon.png) [Warmth](./Warmth.md) is a measure of the temperatures the player is exposed to. The player's warmth drains when the temperature the character experiences dips below 0°C (32°F) and is regained when it is above. Exposure to the elements is the main reason for loss of warmth and can be countered by staying indoors, having good clothing, being near a fire, and by consuming certain hot foods and drinks. Warmth will also deplete instantly if you come into contact with freezing water. When warmth is depleted, condition starts to steadily drop and can kill within a few game hours. This makes warmth the most critical need to satisfy.
 
 Warmth is satisfied by maintaining a [feels like](./Feels%20Like.md) temperature above freezing (0°C or 32°F) over time. [Hot](./Warming%20Up.md) foods or drinks such as recently cooked or warmed up [pork and beans](./Pork%20and%20Beans.md) or [herbal tea](./Herbal%20Tea.md) will also decrease your cold by 20% as well as apply the [warming up](./Warming%20Up.md) attribute. Warmth drains in cold areas - the colder it is, the faster it will drain. The drain rate is accelerated by wet or freezing clothes and is completely drained after the player falls into freezing water. Visually warmth in the environment is represented by rising steam (as from boiling water) and icicles on cliffs, which may hint at a nearby cave.\[Dubious\]
 
@@ -44,7 +42,7 @@ When the warmth bar is empty you begin freezing and condition begins to drain ra
 
 ## [Fatigue](./Fatigue.md)
 
-![](../assets/Fatigue_icon.png) [Fatigue](./Fatigue.md) is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping or by using certain items. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and struggle. When completely depleted, fatigue will begin to lower the player's condition, and the player will be unable to sprint or climb ropes.
+![Fatigue icon](../assets/Fatigue_icon.png) [Fatigue](./Fatigue.md) is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping or by using certain items. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and struggle. When completely depleted, fatigue will begin to lower the player's condition, and the player will be unable to sprint or climb ropes.
 
 Fatigue is satisfied by [sleep](./Sleep.md) or by drinking [cups of coffee](./Cup%20of%20Coffee.md). It drains based on activity level, types of actions performed, and weight. Using an [emergency stim](./Emergency%20Stim.md) will completely restore fatigue for a brief period, but fatigue will drop to zero once the effect wears off.
 
@@ -52,7 +50,7 @@ When fatigue falls below 'tired', the player's recommended weight capacity will 
 
 ## [Hunger](./Hunger.md)
 
-![](../assets/Calorie_icon.png) [Hunger](./Hunger.md) is a measure of how many calories the player consumes and expends. The character's hunger is restored by consuming calories, which come in the form of foods and drinks. The character will begin to lose condition when their hunger is completely depleted.
+![Calorie icon](../assets/Calorie_icon.png) [Hunger](./Hunger.md) is a measure of how many calories the player consumes and expends. The character's hunger is restored by consuming calories, which come in the form of foods and drinks. The character will begin to lose condition when their hunger is completely depleted.
 
 When no more calories are in the calorie store, condition drains at a rate of 1% each hour. Dying of starvation will therefore take a little while and, if starting from 100% condition, will require more than 4 game days. Living without eating food every day is a game strategy known as Hibernation.
 
@@ -60,7 +58,7 @@ To fill the hunger bar, 2500 calories are required.
 
 ## [Thirst](./Thirst.md)
 
-![](../assets/Hydration_icon.png) [Thirst](./Thirst.md) is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire and are particularly heavy. The thirst need is fulfilled by consuming water or particular foods and drinks (e.g., [tins of sardines](./Tin%20of%20Sardines.md) or [Reishi tea](./Reishi%20Tea.md)). Failing to fill this need will result in steady condition loss.
+![Hydration icon](../assets/Hydration_icon.png) [Thirst](./Thirst.md) is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire and are particularly heavy. The thirst need is fulfilled by consuming water or particular foods and drinks (e.g., [tins of sardines](./Tin%20of%20Sardines.md) or [Reishi tea](./Reishi%20Tea.md)). Failing to fill this need will result in steady condition loss.
 
 When no more water is in the thirst bar, condition drains at a rate of 50% each day (approximately 2% per hour).
 

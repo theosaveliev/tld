@@ -4,15 +4,11 @@
 
 **Unnamed Pond**
 
-![](../assets/Unnamed_pond_01.jpg)
-
-_Unnamed\_pond\_01.jpg_
+![Unnamed pond 01](../assets/Unnamed_pond_01.jpg)
 
 **Location**
 
-![](../assets/Unnamed_Pond_Location.png)
-
-_Unnamed\_Pond\_Location.png_
+![Unnamed Pond Location](../assets/Unnamed_Pond_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

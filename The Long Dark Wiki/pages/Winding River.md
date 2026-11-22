@@ -11,25 +11,19 @@
 
 **Winding River**
 
-![](../assets/RegionAtlas-resources.assets-562_%285%29.png)
-
-_RegionAtlas-resources.assets-562\_(5).png_
+![RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Winding_River_Location.png)
+![Winding River Location](../assets/Winding_River_Location.png)
 
-_Winding\_River\_Location.png_
-
-![](../assets/Winding_River_map.png)
-
-_Winding\_River\_map.png_
+![Winding River map](../assets/Winding_River_map.png)
 
 **Details**
 
 **Description:** An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
 
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Pleasant Valley](./Pleasant%20Valley.md)
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md),<br>[Pleasant Valley](./Pleasant%20Valley.md)
 
 **Locations:** 2
 
@@ -66,20 +60,10 @@ The exit door to the dam does not count as a Region Transition icon.
 
 ![A detailed map of Winding River v2.35 (includes spoilers)](../assets/WR_map.png)
 
-_A detailed map of Winding River v2.35 (includes spoilers)_
-
 ![A detailed map of Winding River v2.35 (Interloper/Misery edition, includes spoilers)](../assets/WR_map_loper.png)
-
-_A detailed map of Winding River v2.35 (Interloper/Misery edition, includes spoilers)_
 
 ![An outdated map of Winding River](../assets/Winding_River_map_by_whiteberry-toarda.png)
 
-_An outdated map of Winding River_
-
 ![An outdated map of Winding River v1.93](../assets/MAP-DAM_WR-Lv3-v193-110.png)
 
-_An outdated map of Winding River v1.93_
-
-![](../assets/The_Carter_Hydro_Dam_one-way_entrance.jpg)
-
-_The\_Carter\_Hydro\_Dam\_one-way\_entrance.jpg_
+![The Carter Hydro Dam one way entrance](../assets/The_Carter_Hydro_Dam_one-way_entrance.jpg)

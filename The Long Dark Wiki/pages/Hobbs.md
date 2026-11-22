@@ -16,9 +16,7 @@
 
 **Hobbs**
 
-![](../assets/Hobbs.jpg)
-
-_Hobbs.jpg_
+![Hobbs](../assets/Hobbs.jpg)
 
 **Release:** 1.41 (Wintermute Redux Update)
 
@@ -34,7 +32,7 @@ _Hobbs.jpg_
 
 **Age:** 40's
 
-**Status:** Critical Condition: / Dead if "Push Knife Deeper" is chosen / Alive but in unknown if "Pull Knife Out" is chosen
+**Status:** Critical Condition:<br>Dead if "Push Knife Deeper" is chosen<br>Alive but in unknown if "Pull Knife Out" is chosen
 
 **Occupation:** Criminal
 

@@ -25,7 +25,7 @@
 - [Impaired sleep](#impaired-sleep)
 - [Gallery](#gallery)
 
-![](../assets/Resting.png) Sleep is the player's most efficient way to both eliminate [Fatigue](./Fatigue.md) and regain [Condition](./Condition.md). Selecting a [Bed](./Bed.md), or deployed [Bedroll](./Bedroll.md), will open up the sleep interface. While inside a [Vehicle](./Vehicle.md), the option to sleep can also be accessed via Campcraft in the [Radial Menu](./Radial%20Menu.md).
+![Resting](../assets/Resting.png) Sleep is the player's most efficient way to both eliminate [Fatigue](./Fatigue.md) and regain [Condition](./Condition.md). Selecting a [Bed](./Bed.md), or deployed [Bedroll](./Bedroll.md), will open up the sleep interface. While inside a [Vehicle](./Vehicle.md), the option to sleep can also be accessed via Campcraft in the [Radial Menu](./Radial%20Menu.md).
 
 ## Duration and interruption
 
@@ -55,9 +55,9 @@ The player also has the ability to create beds via [Safehouse Customization](./S
 
 A list of Bedrolls that allow sleeping almost anywhere include:
 
-- ![](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) (+ 5 °C (+ 9 °F )
-- ![](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) (+ 8 °C (+ 14.4 °F)
-- ![](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) (+12 °C (+ 21.6 °F)
+- ![Bedroll icon](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) (+ 5 °C (+ 9 °F )
+- ![Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) (+ 8 °C (+ 14.4 °F)
+- ![Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) (+12 °C (+ 21.6 °F)
 
 ### Sleeping in Vehicles
 
@@ -248,5 +248,3 @@ There are many [Afflictions](./Afflictions.md) that impair sleep. [Food Poisonin
 ## Gallery
 
 ![Old icon.](../assets/Sleep.png)
-
-_Old icon._

@@ -4,9 +4,7 @@
 
 **Vase**
 
-![](../assets/Vase.jpg)
-
-_Vase.jpg_
+![Vase](../assets/Vase.jpg)
 
 **Release:** 1.60
 

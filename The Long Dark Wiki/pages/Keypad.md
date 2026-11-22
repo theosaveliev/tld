@@ -4,7 +4,7 @@
 
 **Keypad**
 
-\[\[File: / ![Locked](../assets/Keypad_Powered_Locked.jpg) / _Locked_ / ![Unlocked](../assets/Keypad_Powered_Unlocked.jpg) / _Unlocked_ / ![Unpowered](../assets/Keypad_Unpowered.jpg) / _Unpowered_
+![Locked](../assets/Keypad_Powered_Locked.jpg)<br>![Unlocked](../assets/Keypad_Powered_Unlocked.jpg)<br>![Unpowered](../assets/Keypad_Unpowered.jpg)
 
 250px\]\]
 

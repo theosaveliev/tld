@@ -27,19 +27,15 @@
 
 **Hushed River Valley**
 
-\[\[File: / ![](../assets/Hushed_River_Valley_title_card.png) / _Hushed\_River\_Valley\_title\_card.png_
+![Hushed River Valley title card](../assets/Hushed_River_Valley_title_card.png)
 
 250px\]\]
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Hushed_River_Valley_Location.png)
+![Hushed River Valley Location](../assets/Hushed_River_Valley_Location.png)
 
-_Hushed\_River\_Valley\_Location.png_
-
-![](../assets/Hushed_River_Valley_Region_Map.png)
-
-_Hushed\_River\_Valley\_Region\_Map.png_
+![Hushed River Valley Region Map](../assets/Hushed_River_Valley_Region_Map.png)
 
 **Details**
 
@@ -191,57 +187,31 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) and a crashed plane locate
 
 ![A detailed map of Hushed River Valley v2.35 (spoilers)](../assets/Hushed_River_Valley.jpg)
 
-_A detailed map of Hushed River Valley v2.35 (spoilers)_
-
 ![Map of Hushed River Valley v2.35 (Interloper/Misery edition, spoilers)](../assets/HRV_map_loper.jpg)
-
-_Map of Hushed River Valley v2.35 (Interloper/Misery edition, spoilers)_
 
 ![HRV Ice Caves Map (Interior)](../assets/Map-IceCave-wtM-100.png)
 
-_HRV Ice Caves Map (Interior)_
-
 ![Hushed River Valley map v1.83 (spoilers)](../assets/Map-HRV-Lv3-v183-201-edited.png)
-
-_Hushed River Valley map v1.83 (spoilers)_
 
 ![A charcoal map of the region](../assets/Hushed_river_valley_charcoal_map.png)
 
-_A charcoal map of the region_
-
 ![Hushed River Valley Item Spawn Locations](../assets/Hushed_River_Valley_items_spawn_Complete.png)
-
-_Hushed River Valley Item Spawn Locations_
 
 ![A fully explored map](../assets/HRV_explored_charcoal_map.jpg)
 
-_A fully explored map_
-
 ![An ice cave map (Exterior Overlay)](../assets/P6IbxmV.png)
-
-_An ice cave map (Exterior Overlay)_
 
 ## Gallery
 
-![](../assets/River_Valley_-_cave.png)
+![River Valley cave](../assets/River_Valley_-_cave.png)
 
-_River\_Valley\_-\_cave.png_
+![River Valley waterfall](../assets/River_Valley_-_waterfall.png)
 
-![](../assets/River_Valley_-_waterfall.png)
-
-_River\_Valley\_-\_waterfall.png_
-
-![](../assets/River_Valley_-_river.jpg)
-
-_River\_Valley\_-\_river.jpg_
+![River Valley river](../assets/River_Valley_-_river.jpg)
 
 ![A cave in Hushed River Valley. To rest and to cure hides.](../assets/Shelter_in_HRV.jpg)
 
-_A cave in Hushed River Valley. To rest and to cure hides._
-
 ![Rainbow as seen at Twin Sister Falls](../assets/HRV_waterfall_rainbow.jpg)
-
-_Rainbow as seen at Twin Sister Falls_
 
 ## Reference
 

@@ -4,15 +4,11 @@
 
 **Rocky Thoroughfare**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Details**
 
@@ -20,16 +16,14 @@ _No\_picture.png_
 
 **Difficulty:** Beginner
 
-![](../assets/The_Long_Development_White_Logo.png)
+![The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
-_The\_Long\_Development\_White\_Logo.png_
-
-**Modded Content.** / This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
+**Modded Content.**<br>This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
 
 “
 
-**A region that feels eerily familiar to some. This portion of the coast is primarily known for being a small construction supplies depot -- as well as providing an impressive view of the neighboring oil rig.** / TLDEV Region Description
+**A region that feels eerily familiar to some. This portion of the coast is primarily known for being a small construction supplies depot -- as well as providing an impressive view of the neighboring oil rig.**<br>TLDEV Region Description
 
 ”
 

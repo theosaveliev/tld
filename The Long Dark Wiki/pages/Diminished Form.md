@@ -4,9 +4,7 @@
 
 **Diminished Form**
 
-![](../assets/Diminished_Form_icon.png)
-
-_Diminished\_Form\_icon.png_
+![Diminished Form icon](../assets/Diminished_Form_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -16,7 +14,7 @@ _Diminished\_Form\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** A morbid decay has set in. / You have less Stamina, and your carrying capacity is reduced. Sensing your vulnerability, Wolves are less likely to Flee during a Struggle.
+**Description:** A morbid decay has set in.<br>You have less Stamina, and your carrying capacity is reduced. Sensing your vulnerability, Wolves are less likely to Flee during a Struggle.
 
 **Caused By:** [Misery Mode](./Misery.md)
 

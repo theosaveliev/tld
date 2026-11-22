@@ -4,9 +4,7 @@
 
 **Just Like New**
 
-![](../assets/Just_Like_New_icon.png)
-
-_Just\_Like\_New\_icon.png_
+![Just Like New icon](../assets/Just_Like_New_icon.png)
 
 **Description:** Sabotage the Locking Mechanism.
 

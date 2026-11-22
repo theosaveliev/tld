@@ -4,9 +4,7 @@
 
 **Frostbite Risk**
 
-![](../assets/Frostbite_Risk_icon.png)
-
-_Frostbite\_Risk\_icon.png_
+![Frostbite Risk icon](../assets/Frostbite_Risk_icon.png)
 
 **Properties**
 
@@ -14,7 +12,7 @@ _Frostbite\_Risk\_icon.png_
 
 **Description:** Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.
 
-**Caused By:** No [Clothing](./Clothing.md) on body parts / Bare Skin exposed to inner layer Frozen Clothing
+**Caused By:** No [Clothing](./Clothing.md) on body parts<br>Bare Skin exposed to inner layer Frozen Clothing
 
 **Effect:** Negative
 
@@ -43,8 +41,6 @@ Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on t
 ## Mechanics
 
 ![Outer and inner layers on the 5 body parts](../assets/Outer_and_inner_layers.jpg)
-
-_Outer and inner layers on the 5 body parts_
 
 - Frostbite Risk is calculated by game world temperature, which consists of ambient air temperature, windchill, and weather. This is not the same as "[Feels Like](./Feels%20Like.md)", a combination of the player's Clothing stats, any [Feats](./Feats.md), or Afflictions (ex. [Warming Up](./Warming%20Up.md), [Frigid Bones](./Frigid%20Bones.md)).
 - Frostbite Risk only increases when temperature goes below -20C.

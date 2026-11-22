@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wires)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Wires** / ![](../assets/Wires_icon.png) / _Wires\_icon.png_ / **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) / **Wintermute:** No / **Renewable:** Yes ([Beachcombing](./Beachcombing.md)) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** Yes / **Examine:** A bundle of scavenged Wires. Old, but intact. / **Values** / **Weight:** 0.10 kg (0.22 lbs) / **Advanced data** / **Item key:** GAMEPLAY\_Wires / **Wires** are an item found in [Survival Mode](./Survival%20Mode.md) in _[The Long Dark](./The%20Long%20Dark.md)_. They were introduced in Part 2 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon. They can be found in most industrial areas in the game world.
+<br>**Wires**<br>![Wires icon](../assets/Wires_icon.png)<br>**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)<br>**Wintermute:** No<br>**Renewable:** Yes ([Beachcombing](./Beachcombing.md))<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** Yes<br>**Examine:** A bundle of scavenged Wires. Old, but intact.<br>**Values**<br>**Weight:** 0.10 kg (0.22 lbs)<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Wires<br>**Wires** are an item found in [Survival Mode](./Survival%20Mode.md) in _[The Long Dark](./The%20Long%20Dark.md)_. They were introduced in Part 2 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon. They can be found in most industrial areas in the game world.
 
 ## Uses
 

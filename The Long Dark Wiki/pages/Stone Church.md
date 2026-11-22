@@ -4,15 +4,13 @@
 
 **Stone Church**
 
-\[\[File: / ![Exterior](../assets/Stone_Church.jpg) / _Exterior_ / ![Interior](../assets/Stone_Church_interior.jpg) / _Interior_
+![Exterior](../assets/Stone_Church.jpg)<br>![Interior](../assets/Stone_Church_interior.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Stone_Church_Location.png)
-
-_Stone\_Church\_Location.png_
+![Stone Church Location](../assets/Stone_Church_Location.png)
 
 Region
 
@@ -56,19 +54,11 @@ The church is considered an indoor area (slow movement like a [Warm Cave](./Warm
 
 ![A view of the interior of the church.](../assets/Stone_Church_interior.jpg)
 
-_A view of the interior of the church._
+![20170305143322 1](../assets/20170305143322_1.jpg)
 
-![](../assets/20170305143322_1.jpg)
-
-_20170305143322\_1.jpg_
-
-![](../assets/20170305144443_1.jpg)
-
-_20170305144443\_1.jpg_
+![20170305144443 1](../assets/20170305144443_1.jpg)
 
 ![Boring sermon?](../assets/Screen_652a8504-024e-4eb3-8665-311e7885e0d1_hi.png)
-
-_Boring sermon?_
 
 ![A view from the lighthouse.](../assets/Stone_Church_from_Lighthouse_resized.png)
 

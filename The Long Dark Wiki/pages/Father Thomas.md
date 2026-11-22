@@ -17,9 +17,7 @@
 
 **Father Thomas**
 
-![](../assets/Father_thomas.jpg)
-
-_Father\_thomas.jpg_
+![Father thomas](../assets/Father_thomas.jpg)
 
 **Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -27,7 +25,7 @@ _Father\_thomas.jpg_
 
 **Wintermute:** [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
 
-**Mission:** **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md)
+**Mission:** **•** [Trauma](./Trauma.md)<br>**•** [Fallen Star](./Fallen%20Star.md)<br>**•** [Coming Storm](./Coming%20Storm.md)<br>**•** [Aftermath](./Aftermath.md)
 
 **Location(s):** [Community Hall](./Community%20Hall.md)
 
@@ -97,13 +95,9 @@ Astrid can return a stolen [Church Artifact](./Church%20Artifact.md) to the near
 
 ## Gallery
 
-![](../assets/Community_hall_interior_2.jpg)
+![Community hall interior 2](../assets/Community_hall_interior_2.jpg)
 
-_Community\_hall\_interior\_2.jpg_
-
-![](../assets/Missions_story_ep3_Triage.png)
-
-_Missions\_story\_ep3\_Triage.png_
+![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
 
 ## Update History
 

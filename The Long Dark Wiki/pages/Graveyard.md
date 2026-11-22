@@ -4,15 +4,11 @@
 
 **Graveyard**
 
-![](../assets/Graveyard.png)
-
-_Graveyard.png_
+![Graveyard](../assets/Graveyard.png)
 
 **Location**
 
-![](../assets/Graveyard_Location.png)
-
-_Graveyard\_Location.png_
+![Graveyard Location](../assets/Graveyard_Location.png)
 
 Region
 
@@ -45,8 +41,6 @@ The Graveyard has no distinguishing features or items that can be looted, with t
   - Tyler Clark - 1966-1983 "An Inspiration"
 
 ![The road from Milton leading to the Church and Graveyard through the Wood Lot](../assets/St._Christopher%27s_Church_2.png)
-
-_The road from Milton leading to the Church and Graveyard through the Wood Lot_
 
 ![Will Mackenzie placing the pearls on Lilith Barker's headstone.](../assets/One_last_thing.jpg)
 

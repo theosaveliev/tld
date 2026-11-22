@@ -4,15 +4,11 @@
 
 **Bear's Bend**
 
-![](../assets/Bear%27s_Bend.jpg)
-
-_Bear's\_Bend.jpg_
+![Bear's Bend](../assets/Bear%27s_Bend.jpg)
 
 **Location**
 
-![](../assets/Bear%27s_Bend_Location.png)
-
-_Bear's\_Bend\_Location.png_
+![Bear's Bend Location](../assets/Bear%27s_Bend_Location.png)
 
 Region
 
@@ -42,12 +38,6 @@ There is no shelter down at Bear's Bend, but the ledge path through the mountain
 
 ![Bear's Bend from a tree bridge along the ledge path, looking east, with the rock bridge visible to the left and the landslide to the right](../assets/Bear%27s_Bend.jpg)
 
-_Bear's Bend from a tree bridge along the ledge path, looking east, with the rock bridge visible to the left and the landslide to the right_
-
 ![Bear's Bend from the rock bridge, looking south](../assets/Bear%27s_Bend_from_rock_bridge.jpg)
 
-_Bear's Bend from the rock bridge, looking south_
-
 ![Blocked road at Bear's Bend, on the northwest side of the landslide at ground level](../assets/Bear%27s_Bend_blockage.jpg)
-
-_Blocked road at Bear's Bend, on the northwest side of the landslide at ground level_

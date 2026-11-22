@@ -387,8 +387,4 @@ _The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized
 
 ![The Homestead after being customized](../assets/Safehouse_after-comp.jpg)
 
-_The Homestead after being customized_
-
 ![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
-
-_Safe House furniture Concept Art_

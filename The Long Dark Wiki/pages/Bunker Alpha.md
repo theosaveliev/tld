@@ -13,15 +13,11 @@
 
 **Bunker Alpha**
 
-![](../assets/Bunker_Alpha.jpg)
-
-_Bunker\_Alpha.jpg_
+![Bunker Alpha](../assets/Bunker_Alpha.jpg)
 
 **Location**
 
-![](../assets/Bunker_Alpha_Location.png)
-
-_Bunker\_Alpha\_Location.png_
+![Bunker Alpha Location](../assets/Bunker_Alpha_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -29,7 +25,7 @@ _Bunker\_Alpha\_Location.png_
 
 **Type:** OutdoorsMilitary/Sporting
 
-Has an interior / **Bunker Alpha** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Bleak Inlet](./Bleak%20Inlet.md).
+Has an interior<br>**Bunker Alpha** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Bleak Inlet](./Bleak%20Inlet.md).
 
 ## Unlocking
 
@@ -53,16 +49,8 @@ The back kitchen has a door to a hallway intersection. The left path leads to a 
 
 ![The kitchen](../assets/Bunker_Alpha_Kitchen.jpg)
 
-_The kitchen_
-
 ![The closet](../assets/Bunker_Alpha_Closet.jpg)
-
-_The closet_
 
 ![The lab](../assets/Bunker_Alpha_Lab.jpg)
 
-_The lab_
-
 ![The hatch before it is uncovered](../assets/Bunker_Alpha_Snow.jpg)
-
-_The hatch before it is uncovered_

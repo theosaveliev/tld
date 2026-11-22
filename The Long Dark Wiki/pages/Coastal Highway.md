@@ -22,25 +22,19 @@
 
 **Coastal Highway**
 
-![](../assets/Coastal_Highway_title_card.png)
-
-_Coastal\_Highway\_title\_card.png_
+![Coastal Highway title card](../assets/Coastal_Highway_title_card.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Coastal_Highway_Location.png)
+![Coastal Highway Location](../assets/Coastal_Highway_Location.png)
 
-_Coastal\_Highway\_Location.png_
-
-![](../assets/Coastal_Highway_Region_Map.png)
-
-_Coastal\_Highway\_Region\_Map.png_
+![Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png)
 
 **Details**
 
 **Description:** A large frozen bay and coastline with a ruined highway crossing around it.
 
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md)) / [Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md)) / [Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) / [Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md))
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md))<br>[Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md))<br>[Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md))<br>[Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md))
 
 **Difficulty:** Intermediate
 
@@ -167,57 +161,31 @@ There are several locations for [Safehouses](./Safehouse.md) in the Coastal High
 
 ![A detailed map of Coastal Highway v2.35 (spoilers)](../assets/Coastal_Highway_%28Pilgrim-Stalker%29.jpg)
 
-_A detailed map of Coastal Highway v2.35 (spoilers)_
-
 ![Map of Coastal Highway v2.35 (Interloper/Misery edition, contains spoilers)](../assets/CH_map_loper.jpg)
 
-_Map of Coastal Highway v2.35 (Interloper/Misery edition, contains spoilers)_
+![Coastal highway map](../assets/Coastal_highway_map.png)
 
-![](../assets/Coastal_highway_map.png)
+![MAP ingame CH v162 Eng](../assets/MAP-ingame-CH-v162-Eng.jpg)
 
-_Coastal\_highway\_map.png_
-
-![](../assets/MAP-ingame-CH-v162-Eng.jpg)
-
-_MAP-ingame-CH-v162-Eng.jpg_
-
-![](../assets/Coastal_Highway_map_by_Sniper_Bob.jpg)
-
-_Coastal\_Highway\_map\_by\_Sniper\_Bob.jpg_
+![Coastal Highway map by Sniper Bob](../assets/Coastal_Highway_map_by_Sniper_Bob.jpg)
 
 ### Locations (Old)
 
 ![Abandoned Lookout](../assets/Abandoned_Lookout.jpg)
 
-_Abandoned Lookout_
-
 ![Bear Creek Campground](../assets/Bear_Creek_Campground_02.jpg)
-
-_Bear Creek Campground_
 
 ![Coastal Townsite](../assets/Coastal_townsite_1.jpg)
 
-_Coastal Townsite_
-
 ![Commuter's Lament](../assets/Commuter%27s_Lament.jpg)
-
-_Commuter's Lament_
 
 ![Jackrabbit Island](../assets/Jackrabbit_Island.jpg)
 
-_Jackrabbit Island_
-
 ![Fishing Camp](../assets/Fishing_Camp_-_fishing_cabins.jpg)
-
-_Fishing Camp_
 
 ![Log Sort](../assets/Log_Sort_-_trailer.jpg)
 
-_Log Sort_
-
 ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
-
-_Misanthrope's Homestead_
 
 \[Missing image: Quonset\_Gas\_Station\_exterior.jpg\]
 
@@ -225,30 +193,16 @@ _Quonset Gas Station_
 
 ![Rabbit Grove](../assets/Rabbit_Grove.jpg)
 
-_Rabbit Grove_
-
 ![Rockfall](../assets/Rockfall.jpg)
-
-_Rockfall_
 
 ![Silent Clearing](../assets/Silent_Clearing.jpg)
 
-_Silent Clearing_
-
 ![The Tooth](../assets/The_Tooth.jpg)
-
-_The Tooth_
 
 ![Train Unloading](../assets/Train_Unloading.jpg)
 
-_Train Unloading_
-
 ![Waterfront Cottages](../assets/Waterfront_Cottages.jpg)
-
-_Waterfront Cottages_
 
 ### Miscellaneous
 
 ![A poster of Coastal Highway](../assets/Coastal_highway_poster.png)
-
-_A poster of Coastal Highway_

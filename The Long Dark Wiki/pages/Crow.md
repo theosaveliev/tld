@@ -13,9 +13,7 @@
 
 **Crow**
 
-![](../assets/Crow.png)
-
-_Crow.png_
+![Crow](../assets/Crow.png)
 
 **Basic Information**
 
@@ -45,121 +43,19 @@ Crows are flying black birds with conspicuously loud cries. They never land and 
 
 Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground underneath circling Crows (1 Feather will fall per crow flying overhead). Once on the ground, the feathers remain until picked up, making these locations valuable as the only source of crow feathers for [Crafting](./Crafting.md).
 
-Carcass
-
-Quantity
-
-Rarity
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Rabbit Carcass](./Rabbit%20Carcass.md)
-
-0
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Ptarmigan Carcass](./Ptarmigan%20Carcass.md)
-
-0
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Frozen Corpse](./Frozen%20Corpse.md)
-
-3-4
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Wolf Carcass](./Wolf%20Carcass.md)
-
-3
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Timberwolf Carcass](./Timberwolf%20Carcass.md)
-
-3
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
-
-3
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Deer Carcass](./Deer%20Carcass.md)
-
-4
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Cougar Carcass](./Cougar%20Carcass.md)
-
-4
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Black Bear Carcass](./Black%20Bear%20Carcass.md)
-
-5
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Moose Carcass](./Moose%20Carcass.md)
-
-5
-
-Always
-
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
-
-[Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md)
-
-1-2
-
-Always
+|  | Carcass | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Frozen Corpse](./Frozen%20Corpse.md) | 3-4 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Wolf Carcass](./Wolf%20Carcass.md) | 3 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 3 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 3 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Deer Carcass](./Deer%20Carcass.md) | 4 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Cougar Carcass](./Cougar%20Carcass.md) | 4 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 5 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
+| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
 
 ## Behavior
 
@@ -180,23 +76,13 @@ Occasionally a group of crows will be seen flying in "V" formation in a straight
 
 ![Steam Trading Card](../assets/Murder_of_Crows_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
 ![Ditto, full screen](../assets/Muder_of_Crows_Steam_Card.jpg)
-
-_Ditto, full screen_
 
 ![Steam Badge](../assets/Steam_Crow_Badge.png)
 
-_Steam Badge_
-
 ![Crows circle above a frozen corpse.](../assets/Crows.jpg)
 
-_Crows circle above a frozen corpse._
-
 ![Crows in the sky against the sun, circle above a corpse.](../assets/Crows_against_the_sun.jpg)
-
-_Crows in the sky against the sun, circle above a corpse._
 
 ## Update history
 

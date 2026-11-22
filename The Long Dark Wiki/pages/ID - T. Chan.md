@@ -4,9 +4,7 @@
 
 **ID - T. Chan**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -38,9 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found directly across from the middle plane section in the valley, hidden behind some debris. The ID is later returned to Sadie at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-![](../assets/T._Chan_location.jpg)
-
-_T.\_Chan\_location.jpg_
+![T. Chan location](../assets/T._Chan_location.jpg)
 
 ## Update history
 

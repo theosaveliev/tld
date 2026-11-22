@@ -4,9 +4,7 @@
 
 **Fishing Lure (Revolver Shell Casing)**
 
-![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
-
-_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_
+![Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -40,7 +38,7 @@ It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery]
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)<br>_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 

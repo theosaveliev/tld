@@ -4,9 +4,7 @@
 
 **Freezer**
 
-![](../assets/Fridge.png)
-
-_Fridge.png_
+![Fridge](../assets/Fridge.png)
 
 **Release:** TBD
 

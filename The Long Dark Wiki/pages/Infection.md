@@ -4,9 +4,7 @@
 
 **Infection**
 
-![](../assets/Infection_icon.png)
-
-_Infection\_icon.png_
+![Infection icon](../assets/Infection_icon.png)
 
 **Release:** [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107)
 
@@ -51,5 +49,3 @@ It is very important to note that one can have multiple Infections at once, even
 ## Gallery
 
 ![Old icon.](../assets/Infection_risk.png)
-
-_Old icon._

@@ -4,9 +4,7 @@
 
 **Park Notice**
 
-![](../assets/Park_Notice_icon.png)
-
-_Park\_Notice\_icon.png_
+![Park Notice icon](../assets/Park_Notice_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

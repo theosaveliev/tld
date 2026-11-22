@@ -16,9 +16,7 @@
 
 **Ammunition Work Bench**
 
-![](../assets/Ammunition_Work_Bench.png)
-
-_Ammunition\_Work\_Bench.png_
+![Ammunition Work Bench](../assets/Ammunition_Work_Bench.png)
 
 **Release:** 9 December 2019
 
@@ -26,7 +24,7 @@ _Ammunition\_Work\_Bench.png_
 
 **Story item:** No
 
-**Location:** [Last Resort Cannery](./Last%20Resort%20Cannery.md) / [Blackrock Prison](./Blackrock%20Prison.md)
+**Location:** [Last Resort Cannery](./Last%20Resort%20Cannery.md)<br>[Blackrock Prison](./Blackrock%20Prison.md)
 
 **Advanced data**
 
@@ -48,14 +46,14 @@ In the Bleak Inlet workshop, electrified wires present around the room will be a
 
 Normal crafting and forging is not possible at the Ammunition Workbench, only the production of Gunsmithing items. The Ammunition Workbench can be used to craft the following:
 
-- ![](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) 0.5 kg (1.1 lbs)
-- ![](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md)
-- ![](../assets/Revolver_Ammunition_icon.png) [Revolver Ammunition](./Revolver%20Ammunition.md)
-- ![](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md)
+- ![Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) 0.5 kg (1.1 lbs)
+- ![Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md)
+- ![Revolver Ammunition icon](../assets/Revolver_Ammunition_icon.png) [Revolver Ammunition](./Revolver%20Ammunition.md)
+- ![Noisemaker icon](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md)
 
 An Ammunition Forge is present to the bottom left of the Work Bench, which must be lit and fueled to produce:
 
-- ![](../assets/Bullet_icon.png) [Bullet](./Bullet.md) (x6)
+- ![Bullet icon](../assets/Bullet_icon.png) [Bullet](./Bullet.md) (x6)
 
 Unlike a regular [Forge](./Forge.md), the temperature does not need to be raised above +150 C in order to cast bullets.
 
@@ -106,12 +104,6 @@ The Ammunition Workbenches in both locations are initially sealed away behind el
 
 ![The Ammunition Forge next to the Work Bench](../assets/Ammunition_Forge.jpg)
 
-_The Ammunition Forge next to the Work Bench_
-
 ![The Work Bench portion](../assets/Ammunition_Workbench.jpg)
 
-_The Work Bench portion_
-
 ![Crafting icon](../assets/Ammunition_workbench_icon.png)
-
-_Crafting icon_

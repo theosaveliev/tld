@@ -9,13 +9,11 @@
 - [Products](#products)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Broth** / ![](../assets/Broth_icon.png) / _Broth\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** Yes / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** No / **Examine:** A wholesome broth. Savory. / **Values** / **Calories:** 680 (850) kcal / **Hydration:** 5.0% / **Weight:** 0.80 kg (1.76 lbs) / **Decay Rate** / **Inside:** 0.667% per day / **Outside:** 0.167% per day / **Advanced data** / **Item key:** GAMEPLAY\_Broth
+<br>**Broth**<br>![Broth icon](../assets/Broth_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** A wholesome broth. Savory.<br>**Values**<br>**Calories:** 680 (850) kcal<br>**Hydration:** 5.0%<br>**Weight:** 0.80 kg (1.76 lbs)<br>**Decay Rate**<br>**Inside:** 0.667% per day<br>**Outside:** 0.167% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Broth
 
 ## Overview
 

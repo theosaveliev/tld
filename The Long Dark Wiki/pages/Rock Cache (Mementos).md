@@ -4,9 +4,7 @@
 
 **Rock Cache (Mementos)**
 
-![](../assets/Rock_Cache_%28Mementos%29.jpg)
-
-_Rock\_Cache\_(Mementos).jpg_
+![Rock Cache (Mementos)](../assets/Rock_Cache_%28Mementos%29.jpg)
 
 **Release:** Part 1 TFTFT
 

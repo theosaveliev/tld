@@ -11,9 +11,7 @@
 
 **Rabbit (Raw)**
 
-![](../assets/Rabbit_%28Raw%29_icon.png)
-
-_Rabbit\_(Raw)\_icon.png_
+![Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png)
 
 **Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
 
@@ -69,27 +67,15 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 
 ![Fresh](../assets/Rabbit_%28Raw%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Rabbit_%28Raw%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Rabbit_%28Raw%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Rabbit_%28Raw%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Rabbit_%28Raw%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old model](../assets/Rabbit_raw.png)
-
-_Old model_
 
 ## Update history
 

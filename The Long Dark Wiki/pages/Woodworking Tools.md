@@ -14,9 +14,7 @@
 
 **Woodworking Tools**
 
-![](../assets/Woodworking_Tools_icon.png)
-
-_Woodworking\_Tools\_icon.png_
+![Woodworking Tools icon](../assets/Woodworking_Tools_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
@@ -65,18 +63,10 @@ These tools are a very rare find, with only 4 appearing on the whole island in t
 
 ![Zone of Contamination, fifth floor of Concentrator building.](../assets/Image_2025-02-20_033354685.png)
 
-_Zone of Contamination, fifth floor of Concentrator building._
-
 ![Zone of Contamination, inside the mountainside mine passage](../assets/Woodworking_Tools_Zone.jpg)
-
-_Zone of Contamination, inside the mountainside mine passage_
 
 ![Bleak Inlet](../assets/Woodworking_Tools_Bleak_Inlet.jpg)
 
-_Bleak Inlet_
-
 ![Ash Canyon](../assets/Woodworking_Tools_Ash.jpg)
-
-_Ash Canyon_
 
 ## Game History

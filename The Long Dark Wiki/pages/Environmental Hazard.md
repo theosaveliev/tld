@@ -33,8 +33,6 @@ These puddles/streams can be found in:
 
 ![An example of flowing ankle deep water](../assets/Flowing_Water_Hazard.jpg)
 
-_An example of flowing ankle deep water_
-
 ### Survivor Quotes
 
 Walking through a puddle will also generate a unique audio response from the survivor not found anywhere else in the game.

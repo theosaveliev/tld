@@ -4,15 +4,11 @@
 
 **Distempered Flatcars**
 
-![](../assets/Distempered_Flatcars_.jpg)
-
-_Distempered\_Flatcars\_.jpg_
+![Distempered Flatcars](../assets/Distempered_Flatcars_.jpg)
 
 **Location**
 
-![](../assets/Distempered_Flatcars_Location.png)
-
-_Distempered\_Flatcars\_Location.png_
+![Distempered Flatcars Location](../assets/Distempered_Flatcars_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 

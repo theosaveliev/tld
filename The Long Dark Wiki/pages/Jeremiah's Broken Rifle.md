@@ -4,9 +4,7 @@
 
 **Jeremiah's Broken Rifle**
 
-![](../assets/Jeremiah%27s_Broken_Rifle_icon.png)
-
-_Jeremiah's\_Broken\_Rifle\_icon.png_
+![Jeremiah's Broken Rifle icon](../assets/Jeremiah%27s_Broken_Rifle_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

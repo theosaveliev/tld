@@ -4,9 +4,7 @@
 
 **Winter Forecast**
 
-![](../assets/Winter_Forecast_icon.png)
-
-_Winter\_Forecast\_icon.png_
+![Winter Forecast icon](../assets/Winter_Forecast_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -32,7 +32,7 @@
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-![](../assets/Episode_2.png)**Template:spoiler**
+![Episode 2](../assets/Episode_2.png)**Template:spoiler**
 
 > “**Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?**”
 
@@ -44,9 +44,7 @@
 
 ### The Wounded Trapper
 
-![](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
-
-_Missions\_story\_ep2\_The\_Wounded\_Trapper.png_
+![Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
 
 _Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)_
 
@@ -56,9 +54,7 @@ _Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)_
 
 ### The Best Defense
 
-![](../assets/Missions_story_ep2_The_Best_Defense.png)
-
-_Missions\_story\_ep2\_The\_Best\_Defense.png_
+![Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
 
 _Main article: [The Best Defense](./The%20Best%20Defense.md)_
 
@@ -68,9 +64,7 @@ _Main article: [The Best Defense](./The%20Best%20Defense.md)_
 
 ### Signal to Noise
 
-![](../assets/Missions_story_ep2_Signal_to_Noise.png)
-
-_Missions\_story\_ep2\_Signal\_to\_Noise.png_
+![Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
 
 _Main article: [Signal to Noise](./Signal%20to%20Noise.md)_
 
@@ -80,9 +74,7 @@ _Main article: [Signal to Noise](./Signal%20to%20Noise.md)_
 
 ### What One Man Can Do
 
-![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
-
-_Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
+![Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
 
 _Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)_
 
@@ -92,9 +84,7 @@ _Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)_
 
 ### **Renewed Hope**
 
-![](../assets/Missions_story_ep2_Renewed_Hope.png)
-
-_Missions\_story\_ep2\_Renewed\_Hope.png_
+![Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
 
 _Main article: [Renewed Hope](./Renewed%20Hope.md)_
 
@@ -106,9 +96,7 @@ _Main article: [Renewed Hope](./Renewed%20Hope.md)_
 
 ### Forest Talker Supply Caches
 
-![](../assets/Missions_story_ep2_Side.png)
-
-_Missions\_story\_ep2\_Side.png_
+![Missions story ep2 Side](../assets/Missions_story_ep2_Side.png)
 
 _Main article: [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)_
 
@@ -241,19 +229,17 @@ In addition to the side missions, the player can also find three keys to the loc
 
 ## Achievements
 
-- ![](../assets/The_Old_Trapper_icon.png) [The Old Trapper](./The%20Old%20Trapper.md)
-- ![](../assets/Lights_in_the_Sky_icon.png) [Lights in the Sky](./Lights%20in%20the%20Sky.md)
-- ![](../assets/Graduation_Day_icon.png) [Graduation Day](./Graduation%20Day.md)
-- ![](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) [Freight-Train of Hate &amp; Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)
-- ![](../assets/You%27ll_Be_With_Her_Soon_icon.png) [You'll Be With Her Soon](./You%27ll%20Be%20With%20Her%20Soon.md)
-- ![](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) [Sounds Like Some Kind of Indie Band](./Sounds%20Like%20Some%20Kind%20of%20Indie%20Band.md)
-- ![](../assets/Cache_Mastery_icon.png) [Cache Mastery](./Cache%20Mastery.md)
+- ![The Old Trapper icon](../assets/The_Old_Trapper_icon.png) [The Old Trapper](./The%20Old%20Trapper.md)
+- ![Lights in the Sky icon](../assets/Lights_in_the_Sky_icon.png) [Lights in the Sky](./Lights%20in%20the%20Sky.md)
+- ![Graduation Day icon](../assets/Graduation_Day_icon.png) [Graduation Day](./Graduation%20Day.md)
+- ![Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) [Freight-Train of Hate &amp; Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)
+- ![You'll Be With Her Soon icon](../assets/You%27ll_Be_With_Her_Soon_icon.png) [You'll Be With Her Soon](./You%27ll%20Be%20With%20Her%20Soon.md)
+- ![Sounds Like Some Kind of Indie Band icon](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) [Sounds Like Some Kind of Indie Band](./Sounds%20Like%20Some%20Kind%20of%20Indie%20Band.md)
+- ![Cache Mastery icon](../assets/Cache_Mastery_icon.png) [Cache Mastery](./Cache%20Mastery.md)
 
 ## Gallery
 
 ![The Episode 2 Menu Background](../assets/Episode_2_Menu_Background.png)
-
-_The Episode 2 Menu Background_
 
 ## Trivia
 

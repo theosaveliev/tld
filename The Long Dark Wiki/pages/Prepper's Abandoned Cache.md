@@ -12,29 +12,21 @@
 
 **Prepper's Abandoned Cache**
 
-![](../assets/Preppers_abandoned_cache3.jpg)
-
-_preppers\_abandoned\_cache3.jpg_
+![Preppers abandoned cache3](../assets/Preppers_abandoned_cache3.jpg)
 
 **Location**
 
-![](../assets/Prepper%27s_Abandoned_Cache_Location.png)
-
-_Prepper's\_Abandoned\_Cache\_Location.png_
+![Prepper's Abandoned Cache Location](../assets/Prepper%27s_Abandoned_Cache_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Type:** Industrial
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -62,39 +54,21 @@ A hidden room containing [A Skeleton And Note](./A%20Skeleton%20And%20Note.md) c
 
 ![The exit to the surface](../assets/Preppers_abandoned_cache.jpg)
 
-_The exit to the surface_
-
 ![A bed and workbench](../assets/Preppers_abandoned_cache2.jpg)
-
-_A bed and workbench_
 
 ![View of entrance with relation to other nearby landmarks](../assets/PreppersAbandonedCache.png)
 
-_View of entrance with relation to other nearby landmarks_
-
 ![The Rope Climb to TWM, the cache is right above the ruined houses](../assets/RopeClimb-1.jpg)
-
-_The Rope Climb to TWM, the cache is right above the ruined houses_
 
 ![Interior during Aurora](../assets/PrepperCache-1.jpg)
 
-_Interior during Aurora_
-
 ![The Survivor waking up after destroying the Prepper's Abandoned Cache in Survival Mode](../assets/Prepper_Cache_Destroyed_2.jpg)
-
-_The Survivor waking up after destroying the Prepper's Abandoned Cache in Survival Mode_
 
 ![The destroyed Cache in Survival Mode](../assets/Prepper_Cache_Destroyed.jpg)
 
-_The destroyed Cache in Survival Mode_
-
 ![The hidden room opened up](../assets/Prepper%27s_Abandoned_Cache_hidden_room.jpg)
 
-_The hidden room opened up_
-
 ![The hidden wall in Survival Mode](../assets/Prepper%27s_Abandoned_Cache_hidden_room_2.jpg)
-
-_The hidden wall in Survival Mode_
 
 ## Trivia
 

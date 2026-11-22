@@ -4,9 +4,7 @@
 
 **Milton Hidden Cache Note**
 
-![](../assets/Milton_Hidden_Cache_Note_icon.png)
-
-_Milton\_Hidden\_Cache\_Note\_icon.png_
+![Milton Hidden Cache Note icon](../assets/Milton_Hidden_Cache_Note_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md)
 

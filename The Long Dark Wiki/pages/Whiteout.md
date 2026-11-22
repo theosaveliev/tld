@@ -17,9 +17,7 @@
 
 **Whiteout**
 
-![](../assets/Challenge_Whiteout.png)
-
-_Challenge\_Whiteout.png_
+![Challenge Whiteout](../assets/Challenge_Whiteout.png)
 
 **Details**
 
@@ -42,13 +40,13 @@ _Challenge\_Whiteout.png_
 >
 > — Journal Objective
 
-The objective of the challenge is to locate and retrieve all of the items listed in the journal during the allotted 30 days.![](../assets/White_Out_Start.png) The survivor spawns inside the [Quonset Garage](./Quonset%20Garage.md) with 2000 calories, fully rested, fully warm, and with no thirst. The survivor's inventory has a [Bedroll](./Bedroll.md), low grade [Clothing](./Clothing.md), and some other miscellaneous items.
+The objective of the challenge is to locate and retrieve all of the items listed in the journal during the allotted 30 days.![White Out Start](../assets/White_Out_Start.png) The survivor spawns inside the [Quonset Garage](./Quonset%20Garage.md) with 2000 calories, fully rested, fully warm, and with no thirst. The survivor's inventory has a [Bedroll](./Bedroll.md), low grade [Clothing](./Clothing.md), and some other miscellaneous items.
 
 The Gas Station will be entirely empty when starting ([Medicine Shelf](./Medicine%20Shelf.md), [First Aid Kit](./First%20Aid%20Kit.md), [Drawer](./Drawer.md), [Register](./Register.md), [Locker](./Locker.md), [Metal Container](./Metal%20Container.md), both [Fridges](./Fridge.md). The [Basin](./Basin.md) will also be missing on the Work Bench). The only loot inside the Station are [Cardboard Boxes](./Cardboard%20Box.md) and wooden [Crates](./Crate.md) that can be broken down, a [Toilet](./Toilet.md) that contains a small amount of potable water, and 2 [Recycled Cans](./Recycled%20Can.md) (one is found under the bed, the other near the store shelves). Two [Work Benches](./Work%20Bench.md), a [Fire Barrel](./Fire%20Barrel.md), and a [Bed](./Bed.md) are still located inside to be used. The area around the [Coastal Townsite](./Coastal%20Townsite.md) will still be filled with objects such as Cars and [Pallets](./Pallets.md) to search.
 
 As the challenge progresses, the weather gets harsher and hostile animals spawn in greater numbers. Initially however, conditions may still be challenging. Although predator spawns may be less common in the beginning, the player's lack of weapons (unless a revolver and ammunition spawned in the gas station) and protective clothing mean the relatively high density of wolves (and possibly a bear) near Quonset Garage can be deadly. Extra caution is required when entering and leaving the garage or when searching the area for supplies.
 
-Note that the player does not have to survive the prophesied blizzard nor the entire allotted 30 days. Once all the items on the list are inside the gas station, the challenge ends. If the player fails to fully stock the Gas Station within 30 days, the Challenge will fail and must be restarted. ![](../assets/Almanac.jpg)
+Note that the player does not have to survive the prophesied blizzard nor the entire allotted 30 days. Once all the items on the list are inside the gas station, the challenge ends. If the player fails to fully stock the Gas Station within 30 days, the Challenge will fail and must be restarted. ![Almanac](../assets/Almanac.jpg)
 
 ### Almanac
 
@@ -56,7 +54,7 @@ There is a new section of the [Journal](./Journal.md) exclusive to this Challeng
 
 ## Items
 
-All of the following Items are required to complete the challenge:![](../assets/Whiteout_journal_list.jpg)
+All of the following Items are required to complete the challenge:![Whiteout journal list](../assets/Whiteout_journal_list.jpg)
 
 - 15 days of [Food](./Food%20And%20Drink.md)
 - 20 Softwood/Hardwood
@@ -104,20 +102,10 @@ If the player can't find a [Hatchet](./Hatchet.md), it may be easier to head to 
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_whiteout.png)
 
-_The badge awarded upon completing the challenge_
-
 ![Old whiteout badge](../assets/Whiteout_badge.png)
-
-_Old whiteout badge_
 
 ![Fan art](../assets/Whiteout_Art.jpg)
 
-_Fan art_
-
 ![Old title selection card](../assets/Whiteout_plate.png)
 
-_Old title selection card_
-
 ![Old Almanac design](../assets/Almanac.png)
-
-_Old Almanac design_

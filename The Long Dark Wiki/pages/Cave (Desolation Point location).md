@@ -4,15 +4,11 @@
 
 **Cave**
 
-![](../assets/Cave_in_Desolation_Point_interior_entrance.jpg)
-
-_Cave\_in\_Desolation\_Point\_interior\_entrance.jpg_
+![Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg)
 
 **Location**
 
-![](../assets/Cave_%28Desolation_Point_location%29_Location.png)
-
-_Cave\_(Desolation\_Point\_location)\_Location.png_
+![Cave (Desolation Point location) Location](../assets/Cave_%28Desolation_Point_location%29_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 
@@ -30,8 +26,4 @@ The wolf tends to lurk near the large center portion of Cave, but can wander abo
 
 ![The large interior portion of Cave, showing the upper area where the corpse may appear as well as the deer carcasses.](../assets/20160621021349_1.jpg)
 
-_The large interior portion of Cave, showing the upper area where the corpse may appear as well as the deer carcasses._
-
 ![The hunter's corpse, with an abundance of loot nearby.](../assets/20160621021238_1.jpg)
-
-_The hunter's corpse, with an abundance of loot nearby._

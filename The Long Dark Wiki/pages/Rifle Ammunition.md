@@ -13,7 +13,7 @@
 
 **Rifle Ammunition**
 
-\[\[File: / ![Box](../assets/Rifle_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Rifle_Cartridge_icon.png) / _Cartridge_
+![Box](../assets/Rifle_Ammunition_icon.png)<br>![Cartridge](../assets/Rifle_Cartridge_icon.png)
 
 250px\]\]
 
@@ -27,7 +27,7 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
 
 > “**A box of rifle cartridges.**”
 >
@@ -105,12 +105,6 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 
 ![Old Rifle ammunition box](../assets/Rifleammooldmodel.png)
 
-_Old Rifle ammunition box_
-
 ![Current Cartridge model](../assets/Rifle_round.png)
 
-_Current Cartridge model_
-
 ![Old Rifle Cartridge model](../assets/Rifle_Cartridge_Old.png)
-
-_Old Rifle Cartridge model_

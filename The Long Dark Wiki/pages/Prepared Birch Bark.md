@@ -13,9 +13,7 @@
 
 **Prepared Birch Bark**
 
-![](../assets/Prepared_Birch_Bark_icon.png)
-
-_Prepared\_Birch\_Bark\_icon.png_
+![Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png)
 
 **Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 

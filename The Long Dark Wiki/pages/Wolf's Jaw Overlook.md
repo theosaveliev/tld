@@ -4,15 +4,11 @@
 
 **Wolf's Jaw Overlook**
 
-![](../assets/20201209231328_1.jpg)
-
-_20201209231328\_1.jpg_
+![20201209231328 1](../assets/20201209231328_1.jpg)
 
 **Location**
 
-![](../assets/Wolf%27s_Jaw_Overlook_Location.png)
-
-_Wolf's\_Jaw\_Overlook\_Location.png_
+![Wolf's Jaw Overlook Location](../assets/Wolf%27s_Jaw_Overlook_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -30,29 +26,17 @@ The nearby rope bridge has up to 40 [Cardboard Matches](./Cardboard%20Matches.md
 
 ## Gallery
 
-![](../assets/20201209231351_1.jpg)
-
-_20201209231351\_1.jpg_
+![20201209231351 1](../assets/20201209231351_1.jpg)
 
 ![Wolf Jaw Overlook (Aurora)](../assets/Screen_14e6b7c5-3d2d-4201-84a1-2ccff2a5e242_hi.png)
 
-_Wolf Jaw Overlook (Aurora)_
-
 ![Looking at Wolf's Jaw Overlook from some distance.](../assets/WolfsJawOverlook.png)
-
-_Looking at Wolf's Jaw Overlook from some distance._
 
 ![The view from Wolf's Jaw Overlook.](../assets/ViewFromWolfsJawOverlook.png)
 
-_The view from Wolf's Jaw Overlook._
-
 ![Looking towards the west from Wolf's Jaw Overlook.](../assets/ViewFromWolfsJawOverlook2.png)
 
-_Looking towards the west from Wolf's Jaw Overlook._
-
 ![Angler's Den - view from Wolf's Jaw Overlook](../assets/Angler%27s_Den_view_from_Wolf%27s_Jaw_Overlook.png)
-
-_Angler's Den - view from Wolf's Jaw Overlook_
 
 ![The Pillar and the Wolf's Jaw seen by Foreman's Retreat](../assets/PillarWolf.jpg)
 
@@ -63,5 +47,3 @@ _The [Pillar](./Pillar%27s%20Footrest.md) and the [Wolf's Jaw](./Wolf%27s%20Jaw%
 _[Pillar's Footrest](./Pillar%27s%20Footrest.md) and Wolf's Jaw Overlook from the [Foreman's Retreat](./Foreman%27s%20Retreat.md) during the aurora._
 
 ![The mountain appears to be similar to a howling Wolf](../assets/Stalking_Wolf_Steam_Card.jpg)
-
-_The mountain appears to be similar to a howling Wolf_

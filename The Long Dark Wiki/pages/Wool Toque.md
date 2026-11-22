@@ -11,9 +11,7 @@
 
 **Wool Toque**
 
-![](../assets/Wool_Toque_icon.png)
-
-_Wool\_Toque\_icon.png_
+![Wool Toque icon](../assets/Wool_Toque_icon.png)
 
 **General**
 
@@ -25,21 +23,21 @@ _Wool\_Toque\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
 
 > “**Knitted wool cap. Canadian style. Pronounced: "tuke".**”
 >
@@ -63,15 +61,9 @@ The [Wool Scarf](./Wool%20Scarf.md) may have a higher warmth-to-weight ratio but
 
 ![Old model.](../assets/Toque_%28historical%29.png)
 
-_Old model._
-
 ![Clothing menu model](../assets/Wool_Toque_Model_icon.png)
 
-_Clothing menu model_
-
 ![Clothing menu model damaged](../assets/Wool_Toque_Model_Damaged_icon.png)
-
-_Clothing menu model damaged_
 
 ## Update history
 

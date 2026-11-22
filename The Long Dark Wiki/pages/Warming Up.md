@@ -16,9 +16,7 @@
 
 **Warming Up**
 
-![](../assets/Warming_Up_icon.png)
-
-_Warming\_Up\_icon.png_
+![Warming Up icon](../assets/Warming_Up_icon.png)
 
 **Properties**
 
@@ -65,52 +63,52 @@ Note that some of these items are only available to players who purchased [Tales
 
 ### Food
 
-- ![](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
-- ![](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
-- ![](../assets/Cooked_Potato_icon.png) [Cooked Potato](./Cooked%20Potato.md) (cannot be reheated)
-- ![](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
-- ![](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
-- ![](../assets/Pumpkin_Pie_icon.png) [Pumpkin Pie](./Pumpkin%20Pie.md) (discontinued item)
-- ![](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
+- ![Canned Corn icon](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
+- ![Canned Pineapple icon](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
+- ![Cooked Potato icon](../assets/Cooked_Potato_icon.png) [Cooked Potato](./Cooked%20Potato.md) (cannot be reheated)
+- ![Pinnacle Peaches icon](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
+- ![Pork and Beans icon](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
+- ![Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png) [Pumpkin Pie](./Pumpkin%20Pie.md) (discontinued item)
+- ![Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
 
 ### Drink
 
-- ![](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
-- ![](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
-- ![](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
-- ![](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
-- ![](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
-- ![](../assets/Home-Made_Soup_icon.png) [Home-made Soup](./Home-made%20Soup.md)
-- ![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
-- ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+- ![Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+- ![Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
+- ![Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
+- ![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
+- ![Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
+- ![Home Made Soup icon](../assets/Home-Made_Soup_icon.png) [Home-made Soup](./Home-made%20Soup.md)
+- ![Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
+- ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 ### Prepared in [Cooking Skillet](./Cooking%20Skillet.md):
 
 (Pies cannot be reheated once Cooked)
 
-- ![](../assets/Peach_Pie_icon.png) [Peach Pie](./Peach%20Pie.md)
-- ![](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md)
-- ![](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md)
-- ![](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md)
-- ![](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md)
-- ![](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)
+- ![Peach Pie icon](../assets/Peach_Pie_icon.png) [Peach Pie](./Peach%20Pie.md)
+- ![Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md)
+- ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md)
+- ![Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md)
+- ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md)
+- ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)
 
 ### Prepared in [Cooking Pot](./Cooking%20Pot.md):
 
 (Stews cannot be reheated once Cooked)
 
-- ![](../assets/Broth_icon.png) [Broth](./Broth.md)
-- ![](../assets/Porridge_icon.png) [Porridge](./Porridge.md)
-- ![](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
-- ![](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md) (cannot be reheated)
-- ![](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md) (cannot be reheated)
-- ![](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md) (cannot be reheated)
-- ![](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md) (cannot be reheated)
-- ![](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md) (cannot be reheated)
-- ![](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) (cannot be reheated)
-- ![](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)
-- ![](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
-- ![](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md)
+- ![Broth icon](../assets/Broth_icon.png) [Broth](./Broth.md)
+- ![Porridge icon](../assets/Porridge_icon.png) [Porridge](./Porridge.md)
+- ![Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
+- ![Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md) (cannot be reheated)
+- ![Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md) (cannot be reheated)
+- ![Trout Stew icon](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md) (cannot be reheated)
+- ![Venison Stew icon](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md) (cannot be reheated)
+- ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md) (cannot be reheated)
+- ![Ranger Stew icon](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) (cannot be reheated)
+- ![Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)
+- ![Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
+- ![Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md)
 
 ## Trivia
 
@@ -119,5 +117,3 @@ Note that some of these items are only available to players who purchased [Tales
 ## Gallery
 
 ![Old icon.](../assets/Warming_up.png)
-
-_Old icon._

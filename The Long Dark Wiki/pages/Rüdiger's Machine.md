@@ -4,27 +4,19 @@
 
 **Rüdiger's Machine**
 
-![](../assets/R%C3%BCdiger%27s_Machine.jpg)
-
-_Rüdiger's\_Machine.jpg_
+![Rüdiger's Machine](../assets/R%C3%BCdiger%27s_Machine.jpg)
 
 **Location**
 
-![](../assets/R%C3%BCdiger%27s_Machine_Location.png)
-
-_Rüdiger's\_Machine\_Location.png_
+![Rüdiger's Machine Location](../assets/R%C3%BCdiger%27s_Machine_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior **Rüdiger's Machine** is the unofficial name given to a location found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The location can only be accessed by completing the [Buried Echoes](./Buried%20Echoes.md) Tale.
 
@@ -41,15 +33,9 @@ A nearby control room contains several collectibles for the Tale, as well as the
 
 ![The machine room when unpowered](../assets/The_Machine_unpowered.jpg)
 
-_The machine room when unpowered_
-
 ![The survivor almost touching the device](../assets/The_Machine_survivor.jpg)
 
-_The survivor almost touching the device_
-
 ![The Security Chief's Remains in the control room.](../assets/The_Security_Chief.jpg)
-
-_The Security Chief's Remains in the control room._
 
 ## Notes
 

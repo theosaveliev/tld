@@ -4,15 +4,11 @@
 
 **Frozen Delta**
 
-![](../assets/SS-BI-FrozenDelta003.jpg)
-
-_SS-BI-FrozenDelta003.jpg_
+![SS BI FrozenDelta003](../assets/SS-BI-FrozenDelta003.jpg)
 
 **Location**
 
-![](../assets/Frozen_Delta_Location.png)
-
-_Frozen\_Delta\_Location.png_
+![Frozen Delta Location](../assets/Frozen_Delta_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -26,16 +22,8 @@ There are three separate [Moose](./Moose.md) Spawn within the Frozen Delta and i
 
 ![Frozen delta - cave to Forlorn Muskeg](../assets/SS-BI-FrozenDelta003.jpg)
 
-_Frozen delta - cave to Forlorn Muskeg_
-
 ![Frozen delta - hunter's blind](../assets/SS-BI-FrozenDelta004.jpg)
 
-_Frozen delta - hunter's blind_
+![SS BI FrozenDelta02](../assets/SS-BI-FrozenDelta02.jpg)
 
-![](../assets/SS-BI-FrozenDelta02.jpg)
-
-_SS-BI-FrozenDelta02.jpg_
-
-![](../assets/SS-BI-FrozenDelta01.jpg)
-
-_SS-BI-FrozenDelta01.jpg_
+![SS BI FrozenDelta01](../assets/SS-BI-FrozenDelta01.jpg)

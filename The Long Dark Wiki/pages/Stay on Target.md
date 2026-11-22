@@ -20,9 +20,7 @@
 
 **Stay on Target**
 
-![](../assets/Stay_on_Target_icon.png)
-
-_Stay\_on\_Target\_icon.png_
+![Stay on Target icon](../assets/Stay_on_Target_icon.png)
 
 **Release:** [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.364)
 
@@ -66,11 +64,11 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
@@ -115,8 +113,6 @@ _Stay on Target_ will also spawn inside the Hunting variant of the [Prepper Cach
 ## Gallery
 
 ![3D Model](../assets/Stay_on_target.png)
-
-_3D Model_
 
 ## Update history
 

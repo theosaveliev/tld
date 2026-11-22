@@ -4,9 +4,7 @@
 
 **Recovery Backpack**
 
-![](../assets/Recovery_Backpack.png)
-
-_Recovery\_Backpack.png_
+![Recovery Backpack](../assets/Recovery_Backpack.png)
 
 **Story item:** No
 

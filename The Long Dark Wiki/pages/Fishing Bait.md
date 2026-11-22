@@ -4,9 +4,7 @@
 
 **Fishing Bait**
 
-![](../assets/Fishing_Bait_icon.png)
-
-_Fishing\_Bait\_icon.png_
+![Fishing Bait icon](../assets/Fishing_Bait_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 

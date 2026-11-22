@@ -4,9 +4,7 @@
 
 **Firewood Bin**
 
-![](../assets/Firewood_Bin.png)
-
-_Firewood\_Bin.png_
+![Firewood Bin](../assets/Firewood_Bin.png)
 
 **Release:** TBD
 

@@ -13,9 +13,7 @@
 
 **Echoes Of Astrid**
 
-![](../assets/Echoes_Of_Astrid.jpg)
-
-_Echoes\_Of\_Astrid.jpg_
+![Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -27,7 +25,7 @@ _Echoes\_Of\_Astrid.jpg_
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Grey Mother](./Grey%20Mother.md)
 
 **Template:spoiler**
 > **Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.**

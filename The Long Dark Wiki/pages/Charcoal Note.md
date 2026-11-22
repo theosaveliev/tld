@@ -4,9 +4,7 @@
 
 **Charcoal Note**
 
-![](../assets/Charcoal_Note_icon.png)
-
-_Charcoal\_Note\_icon.png_
+![Charcoal Note icon](../assets/Charcoal_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

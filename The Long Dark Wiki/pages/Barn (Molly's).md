@@ -4,15 +4,11 @@
 
 **Barn (Molly's)**
 
-![](../assets/Molly%27s_Barn_2.jpg)
-
-_Molly's\_Barn\_2.jpg_
+![Molly's Barn 2](../assets/Molly%27s_Barn_2.jpg)
 
 **Location**
 
-![](../assets/Barn_%28Molly%27s%29_Location.png)
-
-_Barn\_(Molly's)\_Location.png_
+![Barn (Molly's) Location](../assets/Barn_%28Molly%27s%29_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -22,13 +18,11 @@ _Barn\_(Molly's)\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / The **Barn** (Not to be confused with the one at the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)) is a small indoor hay storage shed south of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) and close to [Heartbreak Bridge](./Heartbreak%20Bridge.md).
+Has an interior<br>The **Barn** (Not to be confused with the one at the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)) is a small indoor hay storage shed south of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) and close to [Heartbreak Bridge](./Heartbreak%20Bridge.md).
 
 ## Survival Mode
 
@@ -44,12 +38,6 @@ In [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) the Barn is named **Mo
 
 ![The farmhouse and the Heartbreak bridge behind the Barn](../assets/Molly%27s_Barn.jpg)
 
-_The farmhouse and the Heartbreak bridge behind the Barn_
-
 ![The Signal hill radio tower behind the Barn](../assets/Molly%27s_Barn_2.jpg)
 
-_The Signal hill radio tower behind the Barn_
-
 ![interior](../assets/SS-PV-BarnMolly.jpg)
-
-_interior_

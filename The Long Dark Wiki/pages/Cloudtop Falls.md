@@ -4,15 +4,11 @@
 
 **Cloudtop Falls**
 
-![](../assets/Hushed_river_valley_cloudtop_falls_20201031.png)
-
-_Hushed\_river\_valley\_cloudtop\_falls\_20201031.png_
+![Hushed river valley cloudtop falls 20201031](../assets/Hushed_river_valley_cloudtop_falls_20201031.png)
 
 **Location**
 
-![](../assets/Cloudtop_Falls_Location.png)
-
-_Cloudtop\_Falls\_Location.png_
+![Cloudtop Falls Location](../assets/Cloudtop_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -29,5 +25,3 @@ A [Deer Carcass](./Deer%20Carcass.md) can potentially be found near the camp, th
 ## Gallery
 
 ![The camp located down river from the falls.](../assets/CloudtopCamp.png)
-
-_The camp located down river from the falls._

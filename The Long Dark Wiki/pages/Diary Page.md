@@ -4,9 +4,7 @@
 
 **Diary Page**
 
-![](../assets/Diary_Page_icon.png)
-
-_Diary\_Page\_icon.png_
+![Diary Page icon](../assets/Diary_Page_icon.png)
 
 **Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
 

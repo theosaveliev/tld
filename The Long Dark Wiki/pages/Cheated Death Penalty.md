@@ -11,9 +11,7 @@
 
 **Cheated Death Penalty**
 
-![](../assets/Cheated_Death_Penalty_icon.png)
-
-_Cheated\_Death\_Penalty\_icon.png_
+![Cheated Death Penalty icon](../assets/Cheated_Death_Penalty_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -43,7 +41,7 @@ _Cheated\_Death\_Penalty\_icon.png_
 
 > “**You have Cheated Death. Your maximum Condition is reduced each time you respawn.**”
 
-![](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
+![Cheat Death Penalty](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
 
 ## Short Term Penalty
 

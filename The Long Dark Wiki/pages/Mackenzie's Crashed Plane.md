@@ -14,13 +14,9 @@
 
 ![The wreckage of the plane](../assets/Plane.jpg)
 
-_The wreckage of the plane_
-
 **Location**
 
-![](../assets/Mackenzie%27s_Crashed_Plane_Location.png)
-
-_Mackenzie's\_Crashed\_Plane\_Location.png_
+![Mackenzie's Crashed Plane Location](../assets/Mackenzie%27s_Crashed_Plane_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -62,5 +58,3 @@ The location is simply named **Crashed Plane** in Survival Mode, and is the loca
 _The wreckage of the plane that serves as the setting for the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)._
 
 ![The plane at the start of Episode 1](../assets/Survival_Of_The_Fittest.jpg)
-
-_The plane at the start of Episode 1_

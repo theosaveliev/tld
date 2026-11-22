@@ -4,15 +4,11 @@
 
 **Waterfall Cave**
 
-![](../assets/Waterfall_cave.jpg)
-
-_Waterfall\_cave.jpg_
+![Waterfall cave](../assets/Waterfall_cave.jpg)
 
 **Location**
 
-![](../assets/Waterfall_Cave_Location.png)
-
-_Waterfall\_Cave\_Location.png_
+![Waterfall Cave Location](../assets/Waterfall_Cave_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -28,12 +24,6 @@ The cave provides a 10°C warmth bonus. Inside there may be a [Frozen Corpse](./
 
 ![The inside of the cave](../assets/Waterfall_cave_inside.jpg)
 
-_The inside of the cave_
-
 ![The cave provides good shelter](../assets/20210430165421_1_%282%29.jpg)
 
-_The cave provides good shelter_
-
 ![A lot of space inside](../assets/20210430165628_1.jpg)
-
-_A lot of space inside_

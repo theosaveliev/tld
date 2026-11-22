@@ -4,15 +4,11 @@
 
 **Miserable Haunt**
 
-![](../assets/Miserable_Haunt.jpg)
-
-_Miserable\_Haunt.jpg_
+![Miserable Haunt](../assets/Miserable_Haunt.jpg)
 
 **Location**
 
-![](../assets/Miserable_Haunt_Location.png)
-
-_Miserable\_Haunt\_Location.png_
+![Miserable Haunt Location](../assets/Miserable_Haunt_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -22,7 +18,7 @@ _Miserable\_Haunt\_Location.png_
 
 **Type:** Cave
 
-Provides some shelter / **Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md).
+Provides some shelter<br>**Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md).
 
 ## Overview
 
@@ -34,12 +30,6 @@ The cave has a randomly generated interior, and can spawn with only a single tuf
 
 ![The rock climb leading to the cave](../assets/Miserable_Haunt_Climb.jpg)
 
-_The rock climb leading to the cave_
-
 ![Miserable Haunt interior with two beds and a rim grill](../assets/Miserable_Haunt_Interior_Rim_Grill.png)
 
-_Miserable Haunt interior with two beds and a rim grill_
-
 ![The other possible interior of Miserable Haunt](../assets/20241115011918_1.jpg)
-
-_The other possible interior of Miserable Haunt_

@@ -4,15 +4,11 @@
 
 **The Arch**
 
-![](../assets/Arch2.jpg)
-
-_Arch2.jpg_
+![Arch2](../assets/Arch2.jpg)
 
 **Location**
 
-![](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png)
-
-_The\_Arch\_(Old\_Island\_Connector\_location)\_Location.png_
+![The Arch (Old Island Connector location) Location](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png)
 
 **Region:** [Old Island Connector](./Crumbling%20Highway.md)
 

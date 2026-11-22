@@ -4,9 +4,7 @@
 
 **Thankyou Letter**
 
-![](../assets/Thankyou_Letter_icon.png)
-
-_Thankyou\_Letter\_icon.png_
+![Thankyou Letter icon](../assets/Thankyou_Letter_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

@@ -13,9 +13,7 @@
 
 **Water (Potable)**
 
-![](../assets/Water_%28Potable%29_icon.png)
-
-_Water\_(Potable)\_icon.png_
+![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -118,19 +116,11 @@ Note: Unsafe and Potable water bottles are identical in appearance, and similar 
 
 ![Water bottles.](../assets/Water_bottles.jpg)
 
-_Water bottles._
-
 ![Old model.](../assets/Water_potable.png)
-
-_Old model._
 
 ![old icon 500ml](../assets/Water500ml.png)
 
-_old icon 500ml_
-
 ![old icon 1000ml](../assets/Water1000ml.png)
-
-_old icon 1000ml_
 
 ## Update history
 

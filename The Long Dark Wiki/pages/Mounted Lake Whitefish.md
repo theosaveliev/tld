@@ -4,9 +4,7 @@
 
 **Mounted Lake Whitefish**
 
-![](../assets/Mounted_Lake_Whitefish_icon.png)
-
-_Mounted\_Lake\_Whitefish\_icon.png_
+![Mounted Lake Whitefish icon](../assets/Mounted_Lake_Whitefish_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

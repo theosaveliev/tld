@@ -15,15 +15,13 @@
 
 **Project Medical Officer**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Release:** 2.03
 
 **Date:** 5 December 2022
 
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md)
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md)<br>[Last Horizon](./Last%20Horizon.md)
 
 **Biographical Information**
 
@@ -90,16 +88,16 @@ The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but 
 
 ### Collectibles
 
-- ![](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
-- ![](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
-- ![](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
-- ![](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
+- ![Interview Transcript 4 icon](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
+- ![Interview Transcript 12 icon](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
+- ![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
+- ![Interview Transcript 17 icon](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
 ### Mentioned
 
-- ![](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
-- ![](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
-- ![](../assets/Foreman%27s_Site_Report_Day_64_icon.png) [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
-- ![](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
+- ![Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![Foreman's Site Report Day 64 icon](../assets/Foreman%27s_Site_Report_Day_64_icon.png) [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
+- ![Foreman's Technical Log 4 icon](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
 
 ## Trivia

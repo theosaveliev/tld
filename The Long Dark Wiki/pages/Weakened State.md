@@ -11,9 +11,7 @@
 
 **Weakened State**
 
-![](../assets/Weakened_State_icon.png)
-
-_Weakened\_State\_icon.png_
+![Weakened State icon](../assets/Weakened_State_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

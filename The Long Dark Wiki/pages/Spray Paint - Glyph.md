@@ -14,9 +14,7 @@
 
 **Spray Paint - Glyph**
 
-![](../assets/Spray_Paint_-_Glyph_icon.png)
-
-_Spray\_Paint\_-\_Glyph\_icon.png_
+![Spray Paint Glyph icon](../assets/Spray_Paint_-_Glyph_icon.png)
 
 **General**
 
@@ -24,7 +22,7 @@ _Spray\_Paint\_-\_Glyph\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
 
 > “__A can of Spray Paint. Can be used to Create Glyphs to protect against the Darkwalker. __”
 >
@@ -63,5 +61,3 @@ The Banish Glyph only unlocks once all 10 [On the Nature of Darkwalkers](./On%20
 ## Gallery
 
 ![The 4 Glyphs](../assets/Glyphs.png)
-
-_The 4 Glyphs_

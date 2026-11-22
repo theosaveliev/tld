@@ -13,9 +13,7 @@
 
 **As the Dead Sleep**
 
-![](../assets/As_the_dead_sleep.png)
-
-_as\_the\_dead\_sleep.png_
+![As the dead sleep](../assets/As_the_dead_sleep.png)
 
 **Details**
 
@@ -40,7 +38,7 @@ _as\_the\_dead\_sleep.png_
 
 You will always spawn in the [Fallen Lighthouse](./Fallen%20Lighthouse.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the start of the Challenge, with the weather set to windy.
 
-The game is set to [Interloper](./Interloper.md) difficulty, meaning that wildlife are highly aggressive and high-tier loot (MREs, Expedition Parkas, Firearms, etc.) cannot be found. However, the rarity of loot is set to [Stalker](./Stalker.md), with clothing and food being very plentiful once leaving Bleak Inlet. In this challenge, you cannot heal [Condition](./Condition.md) by sleeping and [Birch Bark Tea](./Birch%20Bark%20Tea.md) is disabled, making the only way to heal by finding and using rare [Emergency Stims](./Emergency%20Stim.md). [Deer](./Deer.md), [Rabbits](./Rabbit.md), and [Ptarmigan](./Ptarmigan.md) will not spawn, though [Deer Carcasses](./Deer%20Carcass.md) are still available to scavenge. [Crafting](./Crafting.md) and [Hunting](./Hunting.md) is not advised, as there is plenty of Clothing and food to allow the player to quickly run from region to region to complete the challenge. ![](../assets/As_the_Dead_Sleep_Journal.jpg) The 5 graves are in the following locations:
+The game is set to [Interloper](./Interloper.md) difficulty, meaning that wildlife are highly aggressive and high-tier loot (MREs, Expedition Parkas, Firearms, etc.) cannot be found. However, the rarity of loot is set to [Stalker](./Stalker.md), with clothing and food being very plentiful once leaving Bleak Inlet. In this challenge, you cannot heal [Condition](./Condition.md) by sleeping and [Birch Bark Tea](./Birch%20Bark%20Tea.md) is disabled, making the only way to heal by finding and using rare [Emergency Stims](./Emergency%20Stim.md). [Deer](./Deer.md), [Rabbits](./Rabbit.md), and [Ptarmigan](./Ptarmigan.md) will not spawn, though [Deer Carcasses](./Deer%20Carcass.md) are still available to scavenge. [Crafting](./Crafting.md) and [Hunting](./Hunting.md) is not advised, as there is plenty of Clothing and food to allow the player to quickly run from region to region to complete the challenge. ![As the Dead Sleep Journal](../assets/As_the_Dead_Sleep_Journal.jpg) The 5 graves are in the following locations:
 
 - [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md)
 - [Many Falls Vista](./Many%20Falls%20Vista.md) in [Hushed River Valley](./Hushed%20River%20Valley.md)

@@ -14,9 +14,7 @@
 
 **Gold Nugget**
 
-![](../assets/Gold_Nugget_icon.png)
-
-_Gold\_Nugget\_icon.png_
+![Gold Nugget icon](../assets/Gold_Nugget_icon.png)
 
 **Wintermute:** Yes
 
@@ -32,19 +30,15 @@ _Gold\_Nugget\_icon.png_
 
 **Item key:** GAMEPLAY\_Ep4GoldNugget
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 {\| class="messagebox"
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
  A **Gold Nugget** is a [Collectible](./Collectibles.md) and [Tool](./Tools.md) in _The Long Dark_.
 
@@ -76,8 +70,6 @@ Depending on the cache layout generated, it spawns inside:
 ## Gallery
 
 ![The Gold Nugget in the Conspiracy Cache](../assets/Prepper_Cache_Conspiracy_4.jpg)
-
-_The Gold Nugget in the Conspiracy Cache_
 
 ## Update history
 

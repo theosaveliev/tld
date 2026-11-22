@@ -15,19 +15,13 @@
 
 **Ash Canyon**
 
-![](../assets/Ash_Canyon.jpg)
-
-_Ash\_Canyon.jpg_
+![Ash Canyon](../assets/Ash_Canyon.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Ash_Canyon_Location.png)
+![Ash Canyon Location](../assets/Ash_Canyon_Location.png)
 
-_Ash\_Canyon\_Location.png_
-
-![](../assets/Ash_Canyon_Region_Map.png)
-
-_Ash\_Canyon\_Region\_Map.png_
+![Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png)
 
 **Details**
 
@@ -103,24 +97,14 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region T
 
 ![A detailed map of Ash Canyon v2.35 (spoilers)](../assets/AC_map_default.png)
 
-_A detailed map of Ash Canyon v2.35 (spoilers)_
-
 ![A detailed map of Ash Canyon v2.35 (Interloper/Misery edition, includes spoilers)](../assets/AC_map_loper.png)
 
-_A detailed map of Ash Canyon v2.35 (Interloper/Misery edition, includes spoilers)_
-
 ![Older map variant v1.94](../assets/Ash_Canyon_map.png)
-
-_Older map variant v1.94_
 
 ## Gallery
 
 ![Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere](../assets/Ash_Canyon_Rope_Bridge_Fog.jpg)
 
-_Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere_
-
 ![Concept art for the region. Do note that such bridges do not appear in the final product](../assets/Ash_Canyon_Concept_Art.png)
-
-_Concept art for the region. Do note that such bridges do not appear in the final product_
 
 ## Trivia

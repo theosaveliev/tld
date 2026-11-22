@@ -4,9 +4,7 @@
 
 **Coastal Cave**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location**
 

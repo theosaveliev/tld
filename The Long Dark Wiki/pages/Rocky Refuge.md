@@ -4,15 +4,13 @@
 
 **Rocky Refuge**
 
-\[\[File: / ![Exterior](../assets/Rocky_refuge_2.jpg) / _Exterior_ / ![Interior](../assets/Rocky_refuge.jpg) / _Interior_
+![Exterior](../assets/Rocky_refuge_2.jpg)<br>![Interior](../assets/Rocky_refuge.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Rocky_Refuge_Location.png)
-
-_Rocky\_Refuge\_Location.png_
+![Rocky Refuge Location](../assets/Rocky_Refuge_Location.png)
 
 Region
 
@@ -35,5 +33,3 @@ A Birch forest is found to the north west, containing loads of [Birch Bark](./Bi
 ## Gallery
 
 ![A view of the basin from the refuge](../assets/Rocky_refuge_view.jpg)
-
-_A view of the basin from the refuge_

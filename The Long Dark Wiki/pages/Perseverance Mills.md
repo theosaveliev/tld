@@ -17,40 +17,32 @@
 
 **Perseverance Mills**
 
-![](../assets/Perseverance_Mills.jpg)
-
-_Perseverance\_Mills.jpg_
+![Perseverance Mills](../assets/Perseverance_Mills.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
+![No picture](../assets/No_picture.png)
 
-_No\_picture.png_
-
-![](../assets/Perseverance_Mills_in-game_map.png)
-
-_Perseverance\_Mills\_in-game\_map.png_
+![Perseverance Mills in game map](../assets/Perseverance_Mills_in-game_map.png)
 
 **Details**
 
 **Description:** An old, inhabited logging and milling town suffering from a quarantine
 
-**Connecting Regions:** [Desperation Bay](./Desperation%20Bay.md) / [Perseverance Wilds](./Perseverance%20Wilds.md) / [Railway](./Railway.md) (unused)
+**Connecting Regions:** [Desperation Bay](./Desperation%20Bay.md)<br>[Perseverance Wilds](./Perseverance%20Wilds.md)<br>[Railway](./Railway.md) (unused)
 
-**Characters:** [Jane Yang](./Jane%20Yang.md) / [Cooper](./Cooper.md) / [Terry](./Terry.md) / Freya / Dr. Larson / Constable Pete / Townsperson One and Two / Mill Worker / Bar Patrons
+**Characters:** [Jane Yang](./Jane%20Yang.md)<br>[Cooper](./Cooper.md)<br>[Terry](./Terry.md)<br>Freya<br>Dr. Larson<br>Constable Pete<br>Townsperson One and Two<br>Mill Worker<br>Bar Patrons
 
 **Date Added:** 31 March 2026
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**Shit-nothing town, north part of the island? Yeah...I know it.** / [Jeremiah](./Jeremiah.md)
+**Shit-nothing town, north part of the island? Yeah...I know it.**<br>[Jeremiah](./Jeremiah.md)
 
 ”
 
@@ -128,40 +120,20 @@ No spoilers.
 
 ![The docks at the end of Episode 4.](../assets/Perseverance_Mills.png)
 
-_The docks at the end of Episode 4._
-
 ![An aerial view of the docks](../assets/Perseverance_Mills_docks.jpg)
-
-_An aerial view of the docks_
 
 ![another view of the docks](../assets/Perseverance_Mills_docks_2.jpg)
 
-_another view of the docks_
-
 ![The word "Perseverance" written in blood by Astrid in the Prison Bus](../assets/Perseverance.jpg)
 
-_The word "Perseverance" written in blood by Astrid in the Prison Bus_
-
-![](../assets/Perseverence_logo.png)
-
-_Perseverence\_logo.png_
+![Perseverence logo](../assets/Perseverence_logo.png)
 
 ![The possible location along the coast (top right) of the Mills, according to an old Hinterland map](../assets/Global_map_Published_by_development_team.jpg)
 
-_The possible location along the coast (top right) of the Mills, according to an old Hinterland map_
-
 ![2 inhabitants of the town known only as "Townsperson One" and "Townsperson Two."](../assets/Townsperson_1_and_2.jpg)
-
-_2 inhabitants of the town known only as "Townsperson One" and "Townsperson Two."_
 
 ![Concept Art of the Mills](../assets/Perseverance_Mills_Concept_Art.jpg)
 
-_Concept Art of the Mills_
-
 ![Concept art of Cooper's Blind](../assets/Tld-april-dev-diary-bar-counter-view.jpg)
 
-_Concept art of Cooper's Blind_
-
 ![Ditto](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
-
-_Ditto_

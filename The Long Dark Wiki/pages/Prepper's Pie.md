@@ -10,13 +10,11 @@
 - [Location](#location)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Prepper's Pie** / ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** No (Several Ingredients) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Values** / **Calories:** 1125 kcal / **Hydration:** -3% / **[Vitamin C](./Scurvy.md):** Moderate (22%) / **Weight:** 0.30 kg (0.66 lbs) / **Decay Rate** / **Inside:** 20.000% per day / **Outside:** 5.000% per day / **Prepper's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
+<br>**Prepper's Pie**<br>![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** No (Several Ingredients)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 1125 kcal<br>**Hydration:** -3%<br>**[Vitamin C](./Scurvy.md):** Moderate (22%)<br>**Weight:** 0.30 kg (0.66 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Prepper's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
 ## Overview
 

@@ -4,9 +4,7 @@
 
 **Mukluks**
 
-![](../assets/Mukluks_icon.png)
-
-_Mukluks\_icon.png_
+![Mukluks icon](../assets/Mukluks_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Mukluks\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md),<br>1 × [Cloth](./Cloth.md)<br>90 minutes<br>50% condition
 
 > “**Manufactured boot inspired by the traditional hunter's footwear. Designed for mobility and warmth using leather and fur. You can stay warm and move quickly.**”
 >
@@ -63,11 +61,7 @@ Mukluks are similar to the [Deerskin Boots](./Deerskin%20Boots.md) in stats, off
 
 ![Clothing model icon](../assets/Mukluks_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon](../assets/Mukluks_Model_Damaged_icon.png)
-
-_Clothing model icon_
 
 ## Update history
 

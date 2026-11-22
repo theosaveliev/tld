@@ -4,9 +4,7 @@
 
 **Work Pants**
 
-![](../assets/Work_Pants_icon.png)
-
-_Work\_Pants\_icon.png_
+![Work Pants icon](../assets/Work_Pants_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Work\_Pants\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)10%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)10%
 
-**Protection:** ![](../assets/Protection_icon.png)8%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)8%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
 
 > “**A heavier duty type of jean, with some reinforced patches. Worn by construction workers the world round.**”
 >
@@ -44,11 +42,7 @@ High tier pants, Work Pants provide decent warmth and very good protection but a
 
 ![Clothing model icon](../assets/Work_Pants_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Work_Pants_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

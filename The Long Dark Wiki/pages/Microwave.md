@@ -4,7 +4,7 @@
 
 **Microwave**
 
-\[\[File: / ![Microwave](../assets/Microwave.jpg) / _Microwave_ / ![Toaster](../assets/Microwave_Toaster.jpg) / _Toaster_
+![Microwave](../assets/Microwave.jpg)<br>![Toaster](../assets/Microwave_Toaster.jpg)
 
 250px\]\]
 

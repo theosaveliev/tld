@@ -4,9 +4,7 @@
 
 **Foreman's Key**
 
-![](../assets/Foreman%27s_Key_icon.png)
-
-_Foreman's\_Key\_icon.png_
+![Foreman's Key icon](../assets/Foreman%27s_Key_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

@@ -4,15 +4,11 @@
 
 **Cliff Cave**
 
-![](../assets/Cliff_Cave.jpg)
-
-_Cliff\_Cave.jpg_
+![Cliff Cave](../assets/Cliff_Cave.jpg)
 
 **Location**
 
-![](../assets/Cliff_Cave_Location.png)
-
-_Cliff\_Cave\_Location.png_
+![Cliff Cave Location](../assets/Cliff_Cave_Location.png)
 
 Region
 
@@ -22,7 +18,7 @@ Region
 
 **Type:** Cave
 
-Provides some shelter / **Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md).
+Provides some shelter<br>**Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md).
 
 ## Overview
 

@@ -4,15 +4,11 @@
 
 **Narrow Falls Cave**
 
-![](../assets/NarrowFallsCave_1080p.png)
-
-_NarrowFallsCave\_1080p.png_
+![NarrowFallsCave 1080p](../assets/NarrowFallsCave_1080p.png)
 
 **Location**
 
-![](../assets/Narrow_Falls_Cave_Location.png)
-
-_Narrow\_Falls\_Cave\_Location.png_
+![Narrow Falls Cave Location](../assets/Narrow_Falls_Cave_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -27,5 +23,3 @@ The place is safe from predators but also quite secluded, nearest [wildife](./Wi
 ## Gallery
 
 ![Corpse in Narrow Falls Cave might yield high tier clothing](../assets/20210505003238_1.jpg)
-
-_Corpse in Narrow Falls Cave might yield high tier clothing_

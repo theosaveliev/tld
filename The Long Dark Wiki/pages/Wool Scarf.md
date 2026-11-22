@@ -4,9 +4,7 @@
 
 **Wool Scarf**
 
-![](../assets/Wool_Scarf_icon.png)
-
-_Wool\_Scarf\_icon.png_
+![Wool Scarf icon](../assets/Wool_Scarf_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Wool\_Scarf\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>60% condition
 
 > “**A hand-knit thick wool scarf. Nice and warm.**”
 >
@@ -50,15 +48,9 @@ As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%
 
 ![Model icon](../assets/Wool_Scarf_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Wool_Scarf_Model_Damaged_icon.png)
 
-_Model icon damaged_
-
 ![Old model.](../assets/Basic_wool_scarf_%28historical%29.png)
-
-_Old model._
 
 ## Update history
 

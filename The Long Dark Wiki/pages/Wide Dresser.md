@@ -4,9 +4,7 @@
 
 **Wide Dresser**
 
-![](../assets/Wide_Dresser_icon.png)
-
-_Wide\_Dresser\_icon.png_
+![Wide Dresser icon](../assets/Wide_Dresser_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

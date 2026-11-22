@@ -4,15 +4,13 @@
 
 **Crashed Prison Transport Bus**
 
-\[\[File: / ![Approach](../assets/PrisonBus.jpg) / _Approach_ / ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / _Tunnel Collapse_
+![Approach](../assets/PrisonBus.jpg)<br>![Tunnel Collapse](../assets/Tunnel_Collapse.png)
 
 250px\|Will approaches the bus\]\]
 
 **Location**
 
-![](../assets/Crashed_Prison_Transport_Bus_Location.png)
-
-_Crashed\_Prison\_Transport\_Bus\_Location.png_
+![Crashed Prison Transport Bus Location](../assets/Crashed_Prison_Transport_Bus_Location.png)
 
 Region
 
@@ -47,7 +45,7 @@ The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock
 
 ## Story Mode
 
-![](../assets/Perseverance.jpg)![](../assets/Perseverence_logo.png) Although the locale can be encountered at any point while exploring Milton, it must be visited as part of the main [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) questline. [Grey Mother](./Grey%20Mother.md) sends [Will Mackenzie](./Will%20Mackenzie.md) to investigate the tunnel, where he finds the bus crash and the collapsed tunnel. A cutscene shows Mackenzie noticing the scrap of clothing in the bus door, and then revealing the word _PERSEVERANCE_ written in blood on the floor inside the bus, presumably by [Astrid Greenwood](./Astrid%20Greenwood.md), leading Will to believe that Astrid made her way to the town of [Perseverance Mills](./Perseverance%20Mills.md).
+![Perseverance](../assets/Perseverance.jpg)![Perseverence logo](../assets/Perseverence_logo.png) Although the locale can be encountered at any point while exploring Milton, it must be visited as part of the main [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) questline. [Grey Mother](./Grey%20Mother.md) sends [Will Mackenzie](./Will%20Mackenzie.md) to investigate the tunnel, where he finds the bus crash and the collapsed tunnel. A cutscene shows Mackenzie noticing the scrap of clothing in the bus door, and then revealing the word _PERSEVERANCE_ written in blood on the floor inside the bus, presumably by [Astrid Greenwood](./Astrid%20Greenwood.md), leading Will to believe that Astrid made her way to the town of [Perseverance Mills](./Perseverance%20Mills.md).
 
 ## Trivia
 
@@ -71,8 +69,4 @@ The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock
 
 ![Crashed Prison Transport Bus](../assets/Crashed_Prison_Transport_Bus.png)
 
-_Crashed Prison Transport Bus_
-
 ![Can't access inside in Survival](../assets/Crashed_Prison_Transport_Bus_2.png)
-
-_Can't access inside in Survival_

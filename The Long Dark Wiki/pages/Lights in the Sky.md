@@ -4,9 +4,7 @@
 
 **Lights in the Sky**
 
-![](../assets/Lights_in_the_Sky_icon.png)
-
-_Lights\_in\_the\_Sky\_icon.png_
+![Lights in the Sky icon](../assets/Lights_in_the_Sky_icon.png)
 
 **Description:** Survive the first Aurora event.
 

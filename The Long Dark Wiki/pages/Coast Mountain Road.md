@@ -4,15 +4,11 @@
 
 **Coast Mountain Road**
 
-![](../assets/SS-BI-CoastMountainRoad01.jpg)
-
-_SS-BI-CoastMountainRoad01.jpg_
+![SS BI CoastMountainRoad01](../assets/SS-BI-CoastMountainRoad01.jpg)
 
 **Location**
 
-![](../assets/Coast_Mountain_Road_Location.png)
-
-_Coast\_Mountain\_Road\_Location.png_
+![Coast Mountain Road Location](../assets/Coast_Mountain_Road_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

@@ -4,15 +4,11 @@
 
 **Shortwave Tower West**
 
-![](../assets/20190101173144_1.jpg)
-
-_20190101173144\_1.jpg_
+![20190101173144 1](../assets/20190101173144_1.jpg)
 
 **Location**
 
-![](../assets/Shortwave_Tower_West_Location.png)
-
-_Shortwave\_Tower\_West\_Location.png_
+![Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

@@ -4,15 +4,11 @@
 
 **Steam Tunnels**
 
-![](../assets/Steam_Tunnels_lower_entrance.jpg)
-
-_Steam\_Tunnels\_lower\_entrance.jpg_
+![Steam Tunnels lower entrance](../assets/Steam_Tunnels_lower_entrance.jpg)
 
 **Location**
 
-![](../assets/Steam_Tunnels_Location.png)
-
-_Steam\_Tunnels\_Location.png_
+![Steam Tunnels Location](../assets/Steam_Tunnels_Location.png)
 
 Region
 
@@ -24,7 +20,7 @@ Region
 
 Has an interior
 
-**Missions:** [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md)
+**Missions:** [The Power Plant](./The%20Power%20Plant.md)<br>[Donner](./Donner.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

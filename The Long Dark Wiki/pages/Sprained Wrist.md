@@ -4,9 +4,7 @@
 
 **Sprained Wrist**
 
-![](../assets/Sprained_Wrist_icon.png)
-
-_Sprained\_Wrist\_icon.png_
+![Sprained Wrist icon](../assets/Sprained_Wrist_icon.png)
 
 **Properties**
 
@@ -14,7 +12,7 @@ _Sprained\_Wrist\_icon.png_
 
 **Description:** You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time.
 
-**Caused By:** Slopes Falls / Wildlife [Struggle](./Struggle.md)
+**Caused By:** Slopes Falls<br>Wildlife [Struggle](./Struggle.md)
 
 **Effect:** Negative
 
@@ -24,7 +22,7 @@ _Sprained\_Wrist\_icon.png_
 
 **Treatment**
 
-**Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
 
 **Recovery Time:** 2 hours of [Sleep](./Sleep.md)
 
@@ -63,5 +61,3 @@ With 2 Sprained Wrists, all Weapons can no longer be used, but lighting tools su
 _This symbol appears on the player interface when they move or stand on uneven slopes._
 
 ![Old icon.](../assets/Sprained_Wrist.png)
-
-_Old icon._

@@ -17,9 +17,7 @@
 
 **Scrub Brush**
 
-![](../assets/Scrub_Brush_icon.png)
-
-_Scrub\_Brush\_icon.png_
+![Scrub Brush icon](../assets/Scrub_Brush_icon.png)
 
 **General**
 
@@ -88,8 +86,4 @@ _**Scrub Brush on the left, false scrub on the right (Forlorn Muskeg)**_
 
 ![False scrub brush is very light in colour, has many branches and looks more delicate.](../assets/False_Scrub_Brush.png)
 
-_False scrub brush is very light in colour, has many branches and looks more delicate._
-
 ![An example of a patch of Scrub Brush blocking a path](../assets/Scrub_Brush_Group.jpg)
-
-_An example of a patch of Scrub Brush blocking a path_

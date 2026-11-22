@@ -4,9 +4,7 @@
 
 **Insulin**
 
-![](../assets/Insulin_icon.png)
-
-_Insulin\_icon.png_
+![Insulin icon](../assets/Insulin_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

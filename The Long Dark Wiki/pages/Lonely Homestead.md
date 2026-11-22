@@ -4,15 +4,11 @@
 
 **Lonely Homestead**
 
-![](../assets/Lonely_Homestead.jpg)
-
-_Lonely\_Homestead.jpg_
+![Lonely Homestead](../assets/Lonely_Homestead.jpg)
 
 **Location**
 
-![](../assets/Lonely_Homestead_Location.png)
-
-_Lonely\_Homestead\_Location.png_
+![Lonely Homestead Location](../assets/Lonely_Homestead_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -30,10 +26,6 @@ A [Bear](./Bear.md) often patrols the forest, so watch out.
 
 ## Gallery
 
-![](../assets/Lonely_Homestead2.jpg)
-
-_Lonely\_Homestead2.jpg_
+![Lonely Homestead2](../assets/Lonely_Homestead2.jpg)
 
 ![The bear in the nearby forest](../assets/BearTorch.png)
-
-_The bear in the nearby forest_

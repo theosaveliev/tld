@@ -4,19 +4,15 @@
 
 **Unyielding Inundation**
 
-![](../assets/Unyielding_Inundation.jpg)
-
-_Unyielding\_Inundation.jpg_
+![Unyielding Inundation](../assets/Unyielding_Inundation.jpg)
 
 **Location**
 
-![](../assets/Unyielding_Inundation_Location.png)
-
-_Unyielding\_Inundation\_Location.png_
+![Unyielding Inundation Location](../assets/Unyielding_Inundation_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
-Has no shelter / **Unyielding Inundation** is a location in [Sundered Pass](./Sundered%20Pass.md) just up the road from [Final Refuge](./Final%20Refuge.md).
+Has no shelter<br>**Unyielding Inundation** is a location in [Sundered Pass](./Sundered%20Pass.md) just up the road from [Final Refuge](./Final%20Refuge.md).
 
 ## Overview
 

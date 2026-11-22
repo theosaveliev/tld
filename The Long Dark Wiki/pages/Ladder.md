@@ -4,9 +4,7 @@
 
 **Ladder**
 
-![](../assets/Ladder.jpg)
-
-_Ladder.jpg_
+![Ladder](../assets/Ladder.jpg)
 
 **General**
 

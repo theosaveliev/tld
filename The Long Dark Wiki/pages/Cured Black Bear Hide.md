@@ -11,9 +11,7 @@
 
 **Cured Black Bear Hide**
 
-![](../assets/Cured_Black_Bear_Hide_icon.png)
-
-_Cured\_Black\_Bear\_Hide\_icon.png_
+![Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -48,8 +46,6 @@ One Cured Black Bear Hide can be found in a [Memento Cache](./Mementos.md) insid
 ## Gallery
 
 ![Old model.](../assets/Cured_Black_Bear_Hide.png)
-
-_Old model._
 
 ## Products
 

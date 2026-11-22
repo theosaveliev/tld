@@ -4,9 +4,7 @@
 
 **Leather Shoes**
 
-![](../assets/Leather_Shoes_icon.png)
-
-_Leather\_Shoes\_icon.png_
+![Leather Shoes icon](../assets/Leather_Shoes_icon.png)
 
 **General**
 
@@ -18,21 +16,21 @@ _Leather\_Shoes\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)10%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)10%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-3%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md)<br>75 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) / 90 minutes / 20% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md)<br>90 minutes<br>20% condition
 
 > “**Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!**”
 >
@@ -46,11 +44,7 @@ Low tier shoes and a common starting item. They offer more protection and waterp
 
 ![Clothing model icon](../assets/Leather_Shoes_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon](../assets/Leather_Shoes_Model_Damaged_icon.png)
-
-_Clothing model icon_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Wool Mittens**
 
-![](../assets/Wool_Mittens_icon.png)
-
-_Wool\_Mittens\_icon.png_
+![Wool Mittens icon](../assets/Wool_Mittens_icon.png)
 
 **General**
 
@@ -18,21 +16,21 @@ _Wool\_Mittens\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>65% condition
 
 > “**Wool mitts with a reinforced palm. Will keep your fingers nice and toasty.**”
 >
@@ -44,11 +42,7 @@ Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are 
 
 ![Clothing model](../assets/Wool_Mittens_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Wool_Mittens_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

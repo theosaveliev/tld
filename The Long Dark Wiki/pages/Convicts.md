@@ -16,9 +16,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![](../assets/Mathis_and_his_Convicts.jpg)
-
-_Mathis\_and\_his\_Convicts.jpg_
+![Mathis and his Convicts](../assets/Mathis_and_his_Convicts.jpg)
 
 > “**The bad men...the bad men CAME. Took my things. Tried to take my house. Thought they were safe because Grey Mother can't see. They were wrong.**”
 >
@@ -96,24 +94,12 @@ At the end of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue
 
 ![The convict in Episode 2](../assets/Convict_Episode_2.jpg)
 
-_The convict in Episode 2_
-
 ![A convict operating a spotlight while searching for Will.](../assets/Convict_Spotlight.jpg)
-
-_A convict operating a spotlight while searching for Will._
 
 ![A convict moving Franklin's body through the halls.](../assets/Franklin_Dead.jpg)
 
-_A convict moving Franklin's body through the halls._
-
 ![A dead prisoner in episode 3](../assets/Blackrock_prisoner_body_1.jpg)
-
-_A dead prisoner in episode 3_
 
 ![ditto](../assets/Blackrock_prisoner_body_2.jpg)
 
-_ditto_
-
 ![The executed remains of the Blackrock Personnel by the hands of the Convicts](../assets/Blackrock_Prison_Guards.jpg)
-
-_The executed remains of the Blackrock Personnel by the hands of the Convicts_

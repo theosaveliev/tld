@@ -4,15 +4,13 @@
 
 **Camp Office**
 
-\[\[File: / ![Exterior](../assets/Camp_Office_Exterior.png) / _Exterior_ / ![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg) / _Interior_
+![Exterior](../assets/Camp_Office_Exterior.png)<br>![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Camp_Office_Location.png)
-
-_Camp\_Office\_Location.png_
+![Camp Office Location](../assets/Camp_Office_Location.png)
 
 Region
 
@@ -30,15 +28,11 @@ Military/Sporting
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -64,38 +58,20 @@ This location is one of the most iconic places in the game as an important centr
 
 ## Gallery
 
-![](../assets/Camp_office_interior2.jpg)
+![Camp office interior2](../assets/Camp_office_interior2.jpg)
 
-_Camp\_office\_interior2.jpg_
-
-![](../assets/Camp_office_interior3.jpg)
-
-_Camp\_office\_interior3.jpg_
+![Camp office interior3](../assets/Camp_office_interior3.jpg)
 
 ![First floor of the Camp Office.](../assets/Camp_Office_First_Floor.jpg)
 
-_First floor of the Camp Office._
-
 ![First and second floor of the Camp Office.](../assets/Camp_Office_First_and_Second_Floor.jpg)
-
-_First and second floor of the Camp Office._
 
 ![View of the second floor.](../assets/Camp_Office_Second_Floor.jpg)
 
-_View of the second floor._
-
 ![The sign outside the office](../assets/Camp_office_sign.jpg)
-
-_The sign outside the office_
 
 ![Outside the Camp Office during the Aurora.](../assets/Camp_Office_-_Aurora.jpg)
 
-_Outside the Camp Office during the Aurora._
-
 ![Old version](../assets/Camp_Office_Railroad_Side.jpg)
 
-_Old version_
-
 ![Current version](../assets/Camp_Office.jpg)
-
-_Current version_

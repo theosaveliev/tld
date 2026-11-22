@@ -4,15 +4,11 @@
 
 **High Meadow**
 
-![](../assets/High_Meadows.jpg)
-
-_High\_Meadows.jpg_
+![High Meadows](../assets/High_Meadows.jpg)
 
 **Location**
 
-![](../assets/High_Meadow_Location.png)
-
-_High\_Meadow\_Location.png_
+![High Meadow Location](../assets/High_Meadow_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -28,14 +24,8 @@ The meadow contains 0-3 birch saplings, and under the wooden ramp leading to the
 
 ## Gallery
 
-![](../assets/High_Meadows.jpg)
+![High Meadows](../assets/High_Meadows.jpg)
 
-_High\_Meadows.jpg_
+![Downward View of Rope from High Meadow](../assets/Downward_View_of_Rope_from_High_Meadow.jpg)
 
-![](../assets/Downward_View_of_Rope_from_High_Meadow.jpg)
-
-_Downward\_View\_of\_Rope\_from\_High\_Meadow.jpg_
-
-![](../assets/Outward_View_of_Rope_from_High_Meadow.jpg)
-
-_Outward\_View\_of\_Rope\_from\_High\_Meadow.jpg_
+![Outward View of Rope from High Meadow](../assets/Outward_View_of_Rope_from_High_Meadow.jpg)

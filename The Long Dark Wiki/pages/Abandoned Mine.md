@@ -4,15 +4,13 @@
 
 **Abandoned Mine**
 
-\[\[File: / ![Entrance](../assets/Abandoned_Mine.jpg) / _Entrance_ / ![Exit](../assets/Abandoned_Mine_2.jpg) / _Exit_
+![Entrance](../assets/Abandoned_Mine.jpg)<br>![Exit](../assets/Abandoned_Mine_2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Abandoned_Mine_Location.png)
-
-_Abandoned\_Mine\_Location.png_
+![Abandoned Mine Location](../assets/Abandoned_Mine_Location.png)
 
 Region
 
@@ -46,8 +44,4 @@ The exit leads to a large field on the other side of the mountain, later branchi
 
 ![The hidden cache](../assets/Abandoned_Mine_Hidden_Cache.jpg)
 
-_The hidden cache_
-
 ![The inside of the entrance](../assets/Abandoned_Mine_Inside.jpg)
-
-_The inside of the entrance_

@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 5, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Railyard_%28Track_Section_5%29)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Railyard** / \[\[File: / ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / _East_ / ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / _West_ / 250px\]\] / **Location** / ![](../assets/Railyard_Track_Section_5_Location.png) / _Railyard\_Track\_Section\_5\_Location.png_ / Region / [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\\|- / Location / **Description:** 2 railyards in the region / **General** / Has no shelter\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
+<br>**Railyard**<br>![East](../assets/Railyard_%28Track_Section_5_East%29.jpg)<br>![West](../assets/Railyard_%28Track_Section_5_West%29.jpg)<br>250px\]\]<br>**Location**<br>![Railyard Track Section 5 Location](../assets/Railyard_Track_Section_5_Location.png)<br>Region<br>[Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\\|-<br>Location<br>**Description:** 2 railyards in the region<br>**General**<br>Has no shelter\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
 
 ## Overview
 

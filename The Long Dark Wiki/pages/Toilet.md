@@ -4,11 +4,7 @@
 
 ![Toilet bowl without toilet cistern.](../assets/Toilet_without_tank.jpg)
 
-_Toilet bowl without toilet cistern._
-
 ![Toilet bowl with toilet cistern.](../assets/Toilet_with_tank.jpg)
-
-_Toilet bowl with toilet cistern._
 
 **Toilet** belongs to stationary interactable objects in _[The Long Dark](./The%20Long%20Dark.md)_.
 

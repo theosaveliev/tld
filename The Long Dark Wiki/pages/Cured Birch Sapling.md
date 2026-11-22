@@ -4,9 +4,7 @@
 
 **Cured Birch Sapling**
 
-![](../assets/Cured_Birch_Sapling_icon.png)
-
-_Cured\_Birch\_Sapling\_icon.png_
+![Cured Birch Sapling icon](../assets/Cured_Birch_Sapling_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -46,11 +44,7 @@ The player can use a [Hunting Knife](./Hunting%20Knife.md) or Hatchet (or their 
 
 ![A birch sapling near several birch trees old](../assets/20170705181527_1.jpg)
 
-_A birch sapling near several birch trees old_
-
 ![A growing birch sapling old](../assets/Green_birch_sapling_growing.png)
-
-_A growing birch sapling old_
 
 ![A birch sapling as it appears on the map](../assets/Birch_Sapling.jpg)
 

@@ -11,13 +11,11 @@
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Sport Bow** / ![](../assets/Sport_Bow_icon.png) / _Sport\_Bow\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** A light and durable manufactured Bow. A trusty companion on or off the archery range. / **Values** / **Weight:** 0.35 kg (0.77 lbs) / **Actions** / **Backpack:** Use, Actions, Drop / **On ground:** Take It, Equip It, Leave It / **Advanced data** / **Item key:** GEAR\_Bow\_Manufactured / **Sport Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+<br>**Sport Bow**<br>![Sport Bow icon](../assets/Sport_Bow_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A light and durable manufactured Bow. A trusty companion on or off the archery range.<br>**Values**<br>**Weight:** 0.35 kg (0.77 lbs)<br>**Actions**<br>**Backpack:** Use, Actions, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GEAR\_Bow\_Manufactured<br>**Sport Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 
@@ -55,11 +53,7 @@ There are two sports bows available per game with one located in [Forsaken Airfi
 
 ![The bow in the crashed helicopter](../assets/SportBowHelicopter.jpg)
 
-_The bow in the crashed helicopter_
-
 ![Sport bow in-game ground model](../assets/Sports_Bow_Dropped.png)
-
-_Sport bow in-game ground model_
 
 ## Update history
 

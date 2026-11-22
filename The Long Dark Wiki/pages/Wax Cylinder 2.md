@@ -2,13 +2,11 @@
 
 **Categories:** Collectibles, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wax_Cylinder_2)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Wax Cylinder 2** / ![](../assets/Wax_Cylinder_2_icon.png) / _Wax\_Cylinder\_2\_icon.png_ / **Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) / **Properties** / **Item type:** [Collectibles](./Collectibles.md)\\|- / **Stackable:** No / **Examine:** An audio recording made of wax. / **Values** / **Weight:** 0.00 kg (0 lbs) / **Actions** / **Backpack:** Examine / **On ground:** Take It, Read Text, Leave It / **Wax Cylinder 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Port Remnant](./Port%20Remnant.md) in the ruined lighthouse. Picking the Wax Cylinder up also picks up a key to the lighthouse door, but the key is not added to the player's inventory. / The Cylinder is narrated by Alice McLeod.
+<br>**Wax Cylinder 2**<br>![Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)<br>**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)<br>**Properties**<br>**Item type:** [Collectibles](./Collectibles.md)\\|-<br>**Stackable:** No<br>**Examine:** An audio recording made of wax.<br>**Values**<br>**Weight:** 0.00 kg (0 lbs)<br>**Actions**<br>**Backpack:** Examine<br>**On ground:** Take It, Read Text, Leave It<br>**Wax Cylinder 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Port Remnant](./Port%20Remnant.md) in the ruined lighthouse. Picking the Wax Cylinder up also picks up a key to the lighthouse door, but the key is not added to the player's inventory.<br>The Cylinder is narrated by Alice McLeod.
 
 ## Transcript
 

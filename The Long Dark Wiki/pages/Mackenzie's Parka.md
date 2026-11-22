@@ -11,9 +11,7 @@
 
 **Mackenzie's Parka**
 
-![](../assets/Mackenzie%27s_Parka_icon.png)
-
-_Mackenzie's\_Parka\_icon.png_
+![Mackenzie's Parka icon](../assets/Mackenzie%27s_Parka_icon.png)
 
 **General**
 
@@ -21,29 +19,27 @@ _Mackenzie's\_Parka\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-4%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-4%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / > “**The coat you were wearing when you crashed in your plane.**” / > / > — Post Crash In-game description / **Mackenzie's Parka** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained exclusively in [Wintermute](./Wintermute.md). / The statistics of Mackenzie's Parka are identical to those of a [Simple Parka](./Simple%20Parka.md).
+<br>> “**The coat you were wearing when you crashed in your plane.**”<br>><br>> — Post Crash In-game description<br>**Mackenzie's Parka** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained exclusively in [Wintermute](./Wintermute.md).<br>The statistics of Mackenzie's Parka are identical to those of a [Simple Parka](./Simple%20Parka.md).
 
 ## Episode 1
 
@@ -63,11 +59,7 @@ Mackenzie's Parka is missing when playing [Episode 4: Fury, Then Silence](./Epis
 
 ![Model icon](../assets/Mackenzie%27s_Parka_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Mackenzie%27s_Parka_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Update history
 

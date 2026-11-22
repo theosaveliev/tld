@@ -4,9 +4,7 @@
 
 **Logging Camp Trailer Key**
 
-![](../assets/Logging_Camp_Trailer_Key_icon.png)
-
-_Logging\_Camp\_Trailer\_Key\_icon.png_
+![Logging Camp Trailer Key icon](../assets/Logging_Camp_Trailer_Key_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

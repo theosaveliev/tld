@@ -4,9 +4,7 @@
 
 **Mounted Smallmouth Bass**
 
-![](../assets/Mounted_Smallmouth_Bass_icon.png)
-
-_Mounted\_Smallmouth\_Bass\_icon.png_
+![Mounted Smallmouth Bass icon](../assets/Mounted_Smallmouth_Bass_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

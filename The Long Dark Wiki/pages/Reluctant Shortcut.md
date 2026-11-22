@@ -4,15 +4,11 @@
 
 **Reluctant Shortcut**
 
-![](../assets/Reluctant_shortcut.jpg)
-
-_Reluctant\_shortcut.jpg_
+![Reluctant shortcut](../assets/Reluctant_shortcut.jpg)
 
 **Location**
 
-![](../assets/Reluctant_Shortcut_Location.png)
-
-_Reluctant\_Shortcut\_Location.png_
+![Reluctant Shortcut Location](../assets/Reluctant_Shortcut_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

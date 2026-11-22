@@ -11,15 +11,11 @@
 
 **Mysterious Signal Fire**
 
-![](../assets/20180909115732_1.jpg)
-
-_20180909115732\_1.jpg_
+![20180909115732 1](../assets/20180909115732_1.jpg)
 
 **Location**
 
-![](../assets/Mysterious_Signal_Fire_Location.png)
-
-_Mysterious\_Signal\_Fire\_Location.png_
+![Mysterious Signal Fire Location](../assets/Mysterious_Signal_Fire_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -51,8 +47,6 @@ The Signal Fire provides no warmth since it is almost burned out. Try to go to t
 
 ![Mysterious signal fire at dusk.](../assets/Mysterious_signal_fire_view.png)
 
-_Mysterious signal fire at dusk._
-
 ![Looking at the mysterious signal fire from Pensive Vista.](../assets/MysteriousSignalFireFromPensiveVista.png)
 
 _Looking at the mysterious signal fire from [Pensive Vista](./Pensive%20Vista.md)._
@@ -62,5 +56,3 @@ _Looking at the mysterious signal fire from [Pensive Vista](./Pensive%20Vista.md
 _Looking at the mysterious signal fire from [Many Falls Vista](./Many%20Falls%20Vista.md)._
 
 ![The signal fire is similar to the fire in front of the Community Hall in Episode 3.](../assets/Community_hall_exterior_square.jpg)
-
-_The signal fire is similar to the fire in front of the Community Hall in Episode 3._

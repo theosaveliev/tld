@@ -4,9 +4,7 @@
 
 **Bloody note**
 
-![](../assets/Bloody_note_icon.png)
-
-_Bloody\_note\_icon.png_
+![Bloody note icon](../assets/Bloody_note_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

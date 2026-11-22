@@ -13,19 +13,13 @@
 
 **Broken Railroad**
 
-![](../assets/Broken_railway_titlecard_small.png)
-
-_Broken\_railway\_titlecard\_small.png_
+![Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Broken_Railroad_Location.png)
+![Broken Railroad Location](../assets/Broken_Railroad_Location.png)
 
-_Broken\_Railroad\_Location.png_
-
-![](../assets/Broken_Railroad_region_map.png)
-
-_Broken\_Railroad\_region\_map.png_
+![Broken Railroad region map](../assets/Broken_Railroad_region_map.png)
 
 **Details**
 
@@ -86,34 +80,18 @@ Broken Railroad is a relatively small map, but does feature a number of key loca
 
 ![Previously inaccessible, Rickety Bridge](../assets/Broken_railroad_hidden_bridge.jpg)
 
-_Previously inaccessible, Rickety Bridge_
-
-![](../assets/Broken_railroad_titlecard_new.png)
-
-_Broken\_railroad\_titlecard\_new.png_
+![Broken railroad titlecard new](../assets/Broken_railroad_titlecard_new.png)
 
 ![The sun rises over the Maintenance Yard.](../assets/SunriseOverMaintenanceShed.png)
 
-_The sun rises over the Maintenance Yard._
-
 ![The Aurora Borealis over the Hunting Lodge.](../assets/AuroraOverTheHuntingLodge.png)
 
-_The Aurora Borealis over the Hunting Lodge._
-
-![](../assets/Hunting_lodge.jpg)
-
-_Hunting\_lodge.jpg_
+![Hunting lodge](../assets/Hunting_lodge.jpg)
 
 ## Maps
 
 ![Broken Railroad map v2.35](../assets/3255435617_preview_BRR_default.jpg)
 
-_Broken Railroad map v2.35_
-
 ![Broken Railroad map v2.35 (Interloper-Misery)](../assets/BRR_loper.jpg)
 
-_Broken Railroad map v2.35 (Interloper-Misery)_
-
 ![Broken Railroad map v1.83](../assets/Broken_Railroad_map.png)
-
-_Broken Railroad map v1.83_

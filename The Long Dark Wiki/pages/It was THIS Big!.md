@@ -4,9 +4,7 @@
 
 **It was THIS Big!**
 
-![](../assets/It_was_THIS_Big!_icon.png)
-
-_It\_was\_THIS\_Big!\_icon.png_
+![It was THIS Big! icon](../assets/It_was_THIS_Big!_icon.png)
 
 **Description:** Caught a fish weighing over 5kg (11 lbs).
 

@@ -4,9 +4,7 @@
 
 **Major Bruising**
 
-![](../assets/Major_Bruising_icon.png)
-
-_Major\_Bruising\_icon.png_
+![Major Bruising icon](../assets/Major_Bruising_icon.png)
 
 **Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
 
@@ -33,5 +31,3 @@ _Major\_Bruising\_icon.png_
 Major Bruising damages [Condition](./Condition.md) by 10%, and makes any future losses of condition slightly more damaging than it normally would. Bruising cannot be treated, and will disappear after the fall or struggle is resolved.
 
 ![Old Icon](../assets/Clean_bruise.png)
-
-_Old Icon_

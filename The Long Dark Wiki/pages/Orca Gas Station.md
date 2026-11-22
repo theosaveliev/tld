@@ -11,15 +11,11 @@
 
 **Orca Gas Station**
 
-![](../assets/SS-MT-Orca-04.jpg)
-
-_SS-MT-Orca-04.jpg_
+![SS MT Orca 04](../assets/SS-MT-Orca-04.jpg)
 
 **Location**
 
-![](../assets/Orca_Gas_Station_Location.png)
-
-_Orca\_Gas\_Station\_Location.png_
+![Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -61,18 +57,10 @@ The gas station also serves as a prime example of the already dire situation of 
 
 _The Gas Station, looking towards [Milton](./Milton.md)_
 
-![](../assets/Orca_gas_station_sign.png)
+![Orca gas station sign](../assets/Orca_gas_station_sign.png)
 
-_Orca\_gas\_station\_sign.png_
+![SS MT Orca 03](../assets/SS-MT-Orca-03.jpg)
 
-![](../assets/SS-MT-Orca-03.jpg)
+![SS MT Orca 02](../assets/SS-MT-Orca-02.jpg)
 
-_SS-MT-Orca-03.jpg_
-
-![](../assets/SS-MT-Orca-02.jpg)
-
-_SS-MT-Orca-02.jpg_
-
-![](../assets/Orca_Gas_Station_sign.jpg)
-
-_Orca\_Gas\_Station\_sign.jpg_
+![Orca Gas Station sign](../assets/Orca_Gas_Station_sign.jpg)

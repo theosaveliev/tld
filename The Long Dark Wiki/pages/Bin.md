@@ -4,9 +4,7 @@
 
 **Bin**
 
-![](../assets/Bin_Wintermute.png)
-
-_Bin\_Wintermute.png_
+![Bin Wintermute](../assets/Bin_Wintermute.png)
 
 **Story item:** Yes
 

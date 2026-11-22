@@ -4,9 +4,7 @@
 
 **Thick Wool Sweater**
 
-![](../assets/Thick_Wool_Sweater_icon.png)
-
-_Thick\_Wool\_Sweater\_icon.png_
+![Thick Wool Sweater icon](../assets/Thick_Wool_Sweater_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Thick\_Wool\_Sweater\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-1%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 45 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>45 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>60 minutes<br>30% condition
 
 > “**Thick wool sweater. Will keep your core warm, even when wet.**”
 >
@@ -46,15 +44,9 @@ One of the warmest shirts in the game, the **Thick Wool Sweater** is also relati
 
 ![Clothing model icon](../assets/Thick_Wool_Sweater_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Thick_Wool_Sweater_Model_Damaged_icon.png)
 
-_Clothing model icon damaged_
-
 ![Old model.](../assets/Heavy_wool_sweater_%28historical%29.png)
-
-_Old model._
 
 ## Update history
 

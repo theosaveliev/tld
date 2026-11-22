@@ -4,9 +4,7 @@
 
 **Sports Socks**
 
-![](../assets/Sports_Socks_icon.png)
-
-_Sports\_Socks\_icon.png_
+![Sports Socks icon](../assets/Sports_Socks_icon.png)
 
 **General**
 
@@ -18,21 +16,21 @@ _Sports\_Socks\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.25 °C(0.5 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.25 °C(0.5 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![](../assets/Protection_icon.png)0%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 15 minutes / 75% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>15 minutes<br>75% condition
 
 > “**Thin cotton socks. Not very warm and useless when wet.**”
 >
@@ -50,15 +48,9 @@ Despite this, they may still be worth picking up, especially in higher difficult
 
 ![Old model.](../assets/Cotton_socks_%28historical%29.png)
 
-_Old model._
-
 ![Clothing model icon.](../assets/Sports_Socks_Model_icon.png)
 
-_Clothing model icon._
-
 ![Clothing model icon damaged.](../assets/Sports_Socks_Model_Damaged_icon.png)
-
-_Clothing model icon damaged._
 
 ## Update history
 

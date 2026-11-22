@@ -4,15 +4,11 @@
 
 **Watchful Falls**
 
-![](../assets/Watchful_Falls.jpg)
-
-_Watchful\_Falls.jpg_
+![Watchful Falls](../assets/Watchful_Falls.jpg)
 
 **Location**
 
-![](../assets/Watchful_Falls_Location.png)
-
-_Watchful\_Falls\_Location.png_
+![Watchful Falls Location](../assets/Watchful_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

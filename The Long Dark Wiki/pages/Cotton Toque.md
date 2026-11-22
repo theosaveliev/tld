@@ -4,9 +4,7 @@
 
 **Cotton Toque**
 
-![](../assets/Cotton_Toque_icon.png)
-
-_Cotton\_Toque\_icon.png_
+![Cotton Toque icon](../assets/Cotton_Toque_icon.png)
 
 **General**
 
@@ -18,21 +16,21 @@ _Cotton\_Toque\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)10%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)10%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 40% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>40% condition
 
 > “**Simple knitted cotton hat. Not as warm as wool, but better than nothing.**”
 >
@@ -50,15 +48,9 @@ It is slightly inferior to the [Wool Scarf](./Wool%20Scarf.md) in terms of water
 
 ![Old model.](../assets/Basic_wool_hat_%28historical%29.png)
 
-_Old model._
-
 ![Clothing model](../assets/Cotton_Toque_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Cotton_Toque_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

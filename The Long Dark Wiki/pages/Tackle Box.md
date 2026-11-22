@@ -4,9 +4,7 @@
 
 **Tackle Box**
 
-![](../assets/Tackle_Box_icon.png)
-
-_Tackle\_Box\_icon.png_
+![Tackle Box icon](../assets/Tackle_Box_icon.png)
 
 **Description:** Craft a full set of 3 Fishing Lures (single game).
 
@@ -16,7 +14,7 @@ _Tackle\_Box\_icon.png_
 
 The player only needs to craft any 3 of these Fishing Lures at a [Work Bench](./Work%20Bench.md) to unlock this Achievement.
 
-- ![](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)
-- ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)
-- ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
-- ![](../assets/Simple_Fishing_Lure_icon.png) [Simple Fishing Lure](./Simple%20Fishing%20Lure.md)
+- ![Fishing Lure (Acorns) icon](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)
+- ![Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)
+- ![Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
+- ![Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) [Simple Fishing Lure](./Simple%20Fishing%20Lure.md)

@@ -4,15 +4,11 @@
 
 **Lower Falls**
 
-![](../assets/Lower_Falls.jpg)
-
-_Lower\_Falls.jpg_
+![Lower Falls](../assets/Lower_Falls.jpg)
 
 **Location**
 
-![](../assets/Lower_Falls_Location.png)
-
-_Lower\_Falls\_Location.png_
+![Lower Falls Location](../assets/Lower_Falls_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

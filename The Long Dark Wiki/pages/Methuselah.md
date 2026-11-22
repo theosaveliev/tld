@@ -20,19 +20,17 @@
 
 **Methuselah**
 
-![](../assets/Methuselah.png)
-
-_Methuselah.png_
+![Methuselah](../assets/Methuselah.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
 **Date:** 1 August 2017
 
-**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)<br>**•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
-**Mission:** **•** [The Grey Mother](./The%20Grey%20Mother.md) / **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Renewed Hope](./Renewed%20Hope.md)
+**Mission:** **•** [The Grey Mother](./The%20Grey%20Mother.md)<br>**•** [Paradise Lost](./Paradise%20Lost.md)<br>**•** [The Best Defense](./The%20Best%20Defense.md)<br>**•** [Renewed Hope](./Renewed%20Hope.md)
 
-**Location(s):** **•** [Orca Gas Station](./Orca%20Gas%20Station.md) / **•** [Mountain Town](./Mountain%20Town.md) / **•** [Broken Railroad](./Broken%20Railroad.md) / **•** [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
+**Location(s):** **•** [Orca Gas Station](./Orca%20Gas%20Station.md)<br>**•** [Mountain Town](./Mountain%20Town.md)<br>**•** [Broken Railroad](./Broken%20Railroad.md)<br>**•** [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
 
 **Biographical Information**
 
@@ -119,8 +117,6 @@ In the original version of Wintermute, Methuselah was voiced by Gord Marriott (w
 
 ![Concept art of Methuselah](../assets/Methuselah_Art.jpg)
 
-_Concept art of Methuselah_
-
 ![Methuselah in the Orca Gas Station](../assets/Methuselah.jpg)
 
 _Methuselah in the [Orca Gas Station](./Orca%20Gas%20Station.md)_
@@ -137,20 +133,10 @@ _Methuselah's revised apperance in the [Blackrock Foothills](./Blackrock%20Footh
 
 ![Steam Trading Card](../assets/Methuselah_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
 ![Ditto, full screen](../assets/Methuselah_Steam_Card.jpg)
-
-_Ditto, full screen_
 
 ![Methuselah outside the dam Predux](../assets/Methuselah2.jpg)
 
-_Methuselah outside the dam Predux_
-
 ![ditto](../assets/The_Long_Dark_-_episode_two_-_Methuselah.png)
 
-_ditto_
-
 ![Ditto](../assets/Methuselah_Predux.jpg)
-
-_Ditto_

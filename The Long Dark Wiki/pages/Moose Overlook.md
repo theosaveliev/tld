@@ -4,7 +4,7 @@
 
 **Moose Overlook**
 
-\[\[File: / ![](../assets/Moose_Overlook.png) / _Moose\_Overlook.png_
+![Moose Overlook](../assets/Moose_Overlook.png)
 
 250px\]\]
 

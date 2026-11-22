@@ -4,9 +4,7 @@
 
 **Well Fed**
 
-![](../assets/Well_Fed_icon.png)
-
-_Well\_Fed\_icon.png_
+![Well Fed icon](../assets/Well_Fed_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
 

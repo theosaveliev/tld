@@ -16,21 +16,19 @@
 
 **Rifle Firearm**
 
-![](../assets/Rifle_Firearm_background.png)
-
-_Rifle\_Firearm\_background.png_
+![Rifle Firearm background](../assets/Rifle_Firearm_background.png)
 
 **Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
 
 **Date:** 23 June 2016
 
-![](../assets/Rifle_Firearm.png) **Rifle Firearm** or **Firearms** is a [Survival Skill](./Skills.md) that involves the use of a [Hunting Rifle](./Hunting%20Rifle.md) to [hunt](./Hunting.md) [animals](./Wildlife.md).
+![Rifle Firearm](../assets/Rifle_Firearm.png) **Rifle Firearm** or **Firearms** is a [Survival Skill](./Skills.md) that involves the use of a [Hunting Rifle](./Hunting%20Rifle.md) to [hunt](./Hunting.md) [animals](./Wildlife.md).
 
 The rifle's range allows it to wound or kill animals from relatively safe distances.
 
 ## Overview
 
-![](../assets/Riflesights.jpg) The hunting rifle is a tool used to fire [Rifle rounds](./Rifle%20Ammunition.md) at targets. The rifle operates as a hit-scan weapon; unlike the bow, its bullets are not affected by projectile drop. The high velocity rounds it fires will travel in a straight line and cause massive internal injuries to any animal struck by it, with the potential to kill instantly. If a shot hits the targeted animal (indicated by a spurt of blood) but fails to immediately kill it, the round will inflict a bleeding wound that leaves a blood trail on the ground. Over the course of several game hours (depending on where the animal was hit), the wound will eventually kill the animal. After a round is fired, a shell casing will be ejected from the gun where the player stands and can be picked up.
+![Riflesights](../assets/Riflesights.jpg) The hunting rifle is a tool used to fire [Rifle rounds](./Rifle%20Ammunition.md) at targets. The rifle operates as a hit-scan weapon; unlike the bow, its bullets are not affected by projectile drop. The high velocity rounds it fires will travel in a straight line and cause massive internal injuries to any animal struck by it, with the potential to kill instantly. If a shot hits the targeted animal (indicated by a spurt of blood) but fails to immediately kill it, the round will inflict a bleeding wound that leaves a blood trail on the ground. Over the course of several game hours (depending on where the animal was hit), the wound will eventually kill the animal. After a round is fired, a shell casing will be ejected from the gun where the player stands and can be picked up.
 
 - All rifles except for the [Curator's Rifle](./Curator%27s%20Rifle.md) currently have a maximum range of approximately fifty paces with a Beginner Firearms Skill. (The Curators' has a range of ~66 paces) Targets beyond the maximum range cannot be hit, even if the aiming reticle lines up accurately.
 - Hitting a fleshy target will produce a blood spray effect.

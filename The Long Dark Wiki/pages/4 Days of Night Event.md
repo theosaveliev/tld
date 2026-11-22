@@ -17,8 +17,6 @@
 
 ![The main menu background during the event](../assets/4DON_menu_background.jpg)
 
-_The main menu background during the event_
-
 > “**An endless night has arrived on Great Bear Island. Use your wits, and whatever you can find, to survive.**”
 >
 > — In-game description
@@ -85,7 +83,7 @@ Since the event is essentially a new game, all stats and settings are reset for 
 
 ## Changes from the regular mode
 
-![](../assets/XpMode_FourDaysOfNight-resources.assets-566.png) During the event the player will have to explore and scavenge in the world partially submerged in darkness. The primary goals of the game are still the same but some things have been changed since the player would get stuck otherwise. This means crafting, reading and repairing are possible to do in complete darkness. The visibility limitations of fog, storms and blizzard are even more apparent in the night, but likewise a starry sky can provide almost day-like view outside. It can however be easier to sleep off a blizzard, as a regular sleeping pattern is not as important when there is same amount of light outside all day.
+![XpMode FourDaysOfNight resources.assets 566](../assets/XpMode_FourDaysOfNight-resources.assets-566.png) During the event the player will have to explore and scavenge in the world partially submerged in darkness. The primary goals of the game are still the same but some things have been changed since the player would get stuck otherwise. This means crafting, reading and repairing are possible to do in complete darkness. The visibility limitations of fog, storms and blizzard are even more apparent in the night, but likewise a starry sky can provide almost day-like view outside. It can however be easier to sleep off a blizzard, as a regular sleeping pattern is not as important when there is same amount of light outside all day.
 
 Only a set amount of regions are explorable during the event, with the rest being blocked off (ex, the rope to Timberwolf Mountain is missing in Pleasant Valley). Only Coastal Highway, Pleasant Valley, Mystery Lake, Winding River, Cinder Hills Coal Mine, and The Ravine are explorable, but Jack o' lanterns only spawn in the first 3 regions.
 
@@ -104,63 +102,37 @@ The in game clock in the top right on the HUD does not move from midnight during
 
 ![Midnight Badge.](../assets/Badge_challenge_FourDaysOfNightFull.png)
 
-_Midnight Badge._
-
 ![Twilight Badge.](../assets/Badge_challenge_FourDaysOfNightHalf.png)
-
-_Twilight Badge._
 
 ![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Full.png)
 
-_2019 version_
-
 ![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Half.png)
 
-_2019 version_
-
-![](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
+![The Long Dark 4 Days of Night 2018 (Halloween Event)](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
 
 _The\_Long\_Dark\_--\_4\_Days\_of\_Night\_2018\_(Halloween\_Event)_
 
-![](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
+![The Long Dark 4 Days of Night (Halloween Event)](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
 
 _The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)_
 
 ![Pumpkin Cache from Coastal Highway.](../assets/4DON_pumpkin_cache.png)
 
-_Pumpkin Cache from Coastal Highway._
-
 ![A skull in a Fishing Hut from Coastal Highway.](../assets/4DON_skull_fishing_hut.png)
-
-_A skull in a Fishing Hut from Coastal Highway._
 
 ![Candy bowl outside Pleasant Valley Barn.](../assets/CandyBowl.jpg)
 
-_Candy bowl outside Pleasant Valley Barn._
-
 ![The Candy Bar provides 10x the amount of calories during the event.](../assets/Nutsnstuff.jpg)
-
-_The Candy Bar provides 10x the amount of calories during the event._
 
 ![Pumpkin pie, one of the unique items available during the event](../assets/Pumpkin_pie.png)
 
-_Pumpkin pie, one of the unique items available during the event_
-
 ![Pumpkin Pie spawn inside Pleasant Valley Farmstead.](../assets/PVPumpkin.jpg)
-
-_Pumpkin Pie spawn inside Pleasant Valley Farmstead._
 
 ![A 'Demon' wolf approaching.](../assets/Wolf_demon2.jpg)
 
-_A 'Demon' wolf approaching._
+![4DON titlecard](../assets/4DON_titlecard.jpg)
 
-![](../assets/4DON_titlecard.jpg)
-
-_4DON\_titlecard.jpg_
-
-![](../assets/Four_Days_Of_Night_2018.png)
-
-_Four\_Days\_Of\_Night\_2018.png_
+![Four Days Of Night 2018](../assets/Four_Days_Of_Night_2018.png)
 
 ## External links
 

@@ -4,9 +4,7 @@
 
 **Mystery Lake &amp; Area**
 
-![](../assets/Mystery_Lake_%26_Area_icon.png)
-
-_Mystery\_Lake\_&amp;\_Area\_icon.png_
+![Mystery Lake &amp; Area icon](../assets/Mystery_Lake_%26_Area_icon.png)<br>_Mystery\_Lake\_&amp;\_Area\_icon.png_
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

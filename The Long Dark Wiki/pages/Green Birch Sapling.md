@@ -11,9 +11,7 @@
 
 **Green Birch Sapling**
 
-![](../assets/Green_Birch_Sapling_icon.png)
-
-_Green\_Birch\_Sapling\_icon.png_
+![Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -27,7 +25,7 @@ _Green\_Birch\_Sapling\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested birch sapling. Needs to be cured before it can be used for crafting and repair. / Can be used for crafting and repair after air-drying indoors for 4 days.
+**Examine:** Freshly harvested birch sapling. Needs to be cured before it can be used for crafting and repair.<br>Can be used for crafting and repair after air-drying indoors for 4 days.
 
 **Values**
 
@@ -65,15 +63,9 @@ Once dried, the green birch sapling will become a cured birch sapling and will a
 
 ![A Birch Sapling next to a Rose Bush](../assets/Birch_Sapling.jpg)
 
-_A Birch Sapling next to a Rose Bush_
-
 ![A birch sapling near several birch trees (old model)](../assets/20170705181527_1.jpg)
 
-_A birch sapling near several birch trees (old model)_
-
 ![A growing birch sapling (old model)](../assets/Green_birch_sapling_growing.png)
-
-_A growing birch sapling (old model)_
 
 ![A birch sapling as it appears on the map](../assets/Birch_Sapling.jpg)
 
@@ -81,11 +73,7 @@ _A birch sapling as it appears on the [map](./Map.md)_
 
 ![Old model.](../assets/Green_Birch_Sapling.png)
 
-_Old model._
-
 ![Methuselah holding a birch sapling](../assets/Methuselah_paradise_lost.jpg)
-
-_Methuselah holding a birch sapling_
 
 ## Update history
 

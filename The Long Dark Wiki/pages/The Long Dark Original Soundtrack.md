@@ -25,7 +25,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 
 ### Volume One
 
-![](../assets/AlbumArtwork.png)
+![AlbumArtwork](../assets/AlbumArtwork.png)
 
 | No. | Title | Length | Appearance |
 | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 
 ### Volume Three
 
-![](../assets/SoundtrackVolume3.png)
+![SoundtrackVolume3](../assets/SoundtrackVolume3.png)
 
 | No. | Title | Length | Appearance |
 | --- | --- | --- | --- |

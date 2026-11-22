@@ -4,9 +4,7 @@
 
 **Fresh Moose Hide**
 
-![](../assets/Fresh_Moose_Hide_icon.png)
-
-_Fresh\_Moose\_Hide\_icon.png_
+![Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 
@@ -18,7 +16,7 @@ _Fresh\_Moose\_Hide\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested skin of a Moose. / Can be used for crafting and repairs after air-drying indoors for 10 days.
+**Examine:** Freshly harvested skin of a Moose.<br>Can be used for crafting and repairs after air-drying indoors for 10 days.
 
 **Values**
 

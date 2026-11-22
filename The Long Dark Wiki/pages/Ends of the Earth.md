@@ -4,9 +4,7 @@
 
 **Ends of the Earth**
 
-![](../assets/Ends_of_the_Earth_icon.png)
-
-_Ends\_of\_the\_Earth\_icon.png_
+![Ends of the Earth icon](../assets/Ends_of_the_Earth_icon.png)
 
 **Description:** Travel from Desolation Point to Sundered Pass (single game).
 

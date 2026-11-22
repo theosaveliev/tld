@@ -10,13 +10,11 @@
 - [Predux Episode 1](#predux-episode-1)
 - [Update history](#update-history)
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / **Home-made Soup** / ![](../assets/Home-Made_Soup_icon.png) / _Home-made\_Soup\_icon.png_ / **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) / **Wintermute:** Yes / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** No / **Examine:** Home-made soup. Warm, and nutritious. / **Values** / **Calories:** 600 kcal / **Hydration:** 0% / **Weight:** 0.25 kg (0.55 lbs) / **Advanced data** / **Item key:** GAMEPLAY\_HomeMadeSoup / > “**Grey Mother: "It's been awhile since Grey Mother had anyone to make meals for. Please...take some soup before you go..." / Mackenzie: "Uhh...thanks."**” / **Home-made Soup** (sic) is a [food](./Food%20And%20Drink.md) item found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md).
+<br>**Home-made Soup**<br>![Home Made Soup icon](../assets/Home-Made_Soup_icon.png)<br>**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)<br>**Wintermute:** Yes<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Home-made soup. Warm, and nutritious.<br>**Values**<br>**Calories:** 600 kcal<br>**Hydration:** 0%<br>**Weight:** 0.25 kg (0.55 lbs)<br>**Advanced data**<br>**Item key:** GAMEPLAY\_HomeMadeSoup<br>> “**Grey Mother: "It's been awhile since Grey Mother had anyone to make meals for. Please...take some soup before you go..."<br>Mackenzie: "Uhh...thanks."**”<br>**Home-made Soup** (sic) is a [food](./Food%20And%20Drink.md) item found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md).
 
 ## Overview
 
@@ -40,11 +38,7 @@ The soup cannot be crafted, and is not available in [Survival Mode](./Survival%2
 
 ![The Soup by the fireplace.](../assets/Home-made_Soup_fire.jpg)
 
-_The Soup by the fireplace._
-
 ![Old icon](../assets/Home-made_Soup_old_icon.jpg)
-
-_Old icon_
 
 ## Update history
 

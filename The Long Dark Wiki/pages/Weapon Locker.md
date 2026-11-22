@@ -4,7 +4,7 @@
 
 **Weapon Locker**
 
-\[\[File: / ![Closed](../assets/Weapon_Locker.jpg) / _Closed_ / ![Open](../assets/Weapon_Locker_Open.jpg) / _Open_
+![Closed](../assets/Weapon_Locker.jpg)<br>![Open](../assets/Weapon_Locker_Open.jpg)
 
 250px\]\]
 

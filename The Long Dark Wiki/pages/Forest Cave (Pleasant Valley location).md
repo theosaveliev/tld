@@ -4,15 +4,11 @@
 
 **Forest Cave**
 
-![](../assets/SS-PV-ForestCave_%281%29.jpg)
-
-_SS-PV-ForestCave\_(1).jpg_
+![SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg)
 
 **Location**
 
-![](../assets/Forest_Cave_PV_Location.png)
-
-_Forest\_Cave\_PV\_Location.png_
+![Forest Cave PV Location](../assets/Forest_Cave_PV_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -24,14 +20,8 @@ _Forest\_Cave\_PV\_Location.png_
 
 Forest Cave lies just north-north-west of [Pensive Pond](./Pensive%20Pond.md) and west-south-west of [Picnic Spot](./Picnic%20Spot.md). A [Green Maple Sapling](./Green%20Maple%20Sapling.md) and possibly a [Frozen Corpse](./Frozen%20Corpse.md) can be found just west of the cave.
 
-![](../assets/SS-PV-ForestCave_%281%29.jpg)
+![SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg)
 
-_SS-PV-ForestCave\_(1).jpg_
+![SS PV ForestCave (3)](../assets/SS-PV-ForestCave_%283%29.jpg)
 
-![](../assets/SS-PV-ForestCave_%283%29.jpg)
-
-_SS-PV-ForestCave\_(3).jpg_
-
-![](../assets/SS-PV-ForestCave_%282%29.jpg)
-
-_SS-PV-ForestCave\_(2).jpg_
+![SS PV ForestCave (2)](../assets/SS-PV-ForestCave_%282%29.jpg)

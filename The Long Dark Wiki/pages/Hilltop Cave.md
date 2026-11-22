@@ -4,15 +4,13 @@
 
 **Hilltop Cave**
 
-\[\[File: / ![Exterior](../assets/SS-PV-HilltopCave_%281%29.jpg) / _Exterior_ / ![Interior](../assets/SS-PV-HilltopCave_%282%29.jpg) / _Interior_
+![Exterior](../assets/SS-PV-HilltopCave_%281%29.jpg)<br>![Interior](../assets/SS-PV-HilltopCave_%282%29.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Hilltop_Cave_Location.png)
-
-_Hilltop\_Cave\_Location.png_
+![Hilltop Cave Location](../assets/Hilltop_Cave_Location.png)
 
 Region
 
@@ -24,9 +22,7 @@ Type
 
 Cave
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Provides some shelter **Hilltop Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md), located not far from [Signal Hill](./Signal%20Hill.md) and the [Winding River](./Winding%20River.md) transition cave (and subesquently [Cascading Falls](./Cascading%20Falls.md)).
 
@@ -38,18 +34,10 @@ Hilltop Cave lies next to a [Hunter's Blind](./Hunter%27s%20Blinds.md), both of 
 
 This cave can be useful if players are sleeping in [Signal Hill](./Signal%20Hill.md) and need to eliminate [Cabin Fever](./Cabin%20Fever.md), as it is relatively close by and, like most small caves, counts as an outdoor location.
 
-![](../assets/SS-PV-HilltopCave_%281%29.jpg)
+![SS PV HilltopCave (1)](../assets/SS-PV-HilltopCave_%281%29.jpg)
 
-_SS-PV-HilltopCave\_(1).jpg_
+![SS PV HilltopCave (2)](../assets/SS-PV-HilltopCave_%282%29.jpg)
 
-![](../assets/SS-PV-HilltopCave_%282%29.jpg)
+![SS PV HilltopCave (3)](../assets/SS-PV-HilltopCave_%283%29.jpg)
 
-_SS-PV-HilltopCave\_(2).jpg_
-
-![](../assets/SS-PV-HilltopCave_%283%29.jpg)
-
-_SS-PV-HilltopCave\_(3).jpg_
-
-![](../assets/SS-PV-HilltopCave_%285%29.jpg)
-
-_SS-PV-HilltopCave\_(5).jpg_
+![SS PV HilltopCave (5)](../assets/SS-PV-HilltopCave_%285%29.jpg)

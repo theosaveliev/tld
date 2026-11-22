@@ -11,9 +11,7 @@
 
 **Chocolate Bar**
 
-![](../assets/Chocolate_Bar_icon.png)
-
-_Chocolate\_Bar\_icon.png_
+![Chocolate Bar icon](../assets/Chocolate_Bar_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -59,11 +57,7 @@ The back of a Candy Bar lists "Ingredients: Chocolate, Almonds, Sugar, Salt, Nat
 
 ![Old model called "Candy Bar"](../assets/Candy_bar.png)
 
-_Old model called "Candy Bar"_
-
 ![Chocolate bar labeled as "Candy Bar" in game](../assets/Candy_Bar.jpg)
-
-_Chocolate bar labeled as "Candy Bar" in game_
 
 ## Update history
 

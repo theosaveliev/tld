@@ -11,9 +11,7 @@
 
 **Lake Cabins**
 
-![](../assets/Lake_cabin4.jpg)
-
-_Lake\_cabin4.jpg_
+![Lake cabin4](../assets/Lake_cabin4.jpg)
 
 **Location**
 
@@ -50,8 +48,4 @@ Beware of [wolves](./Wolf.md) that commonly patrol north of the cabins, and wolv
 
 ![The interior of a cabin](../assets/Lake_cabin.jpg)
 
-_The interior of a cabin_
-
 ![The old cabin exteriors](../assets/Lake_cabins.jpg)
-
-_The old cabin exteriors_

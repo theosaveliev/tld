@@ -4,15 +4,11 @@
 
 **Burned Ridge Cave**
 
-![](../assets/SS-PV-BurnedRidgeCave-01.jpg)
-
-_SS-PV-BurnedRidgeCave-01.jpg_
+![SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg)
 
 **Location**
 
-![](../assets/Burned_Ridge_Cave_Location.png)
-
-_Burned\_Ridge\_Cave\_Location.png_
+![Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -30,8 +26,4 @@ Burned Ridge Cave lies just south-west of [Skeeter's Ridge](./Skeeter%27s%20Ridg
 
 ![v.1.6](../assets/SS-PV-BurnedRidgeCave-02.jpg)
 
-_v.1.6_
-
 ![v.1.69](../assets/SS-PV-BurnedRidgeCave-01.jpg)
-
-_v.1.69_

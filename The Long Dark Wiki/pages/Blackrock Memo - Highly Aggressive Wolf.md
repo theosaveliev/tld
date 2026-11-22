@@ -4,9 +4,7 @@
 
 **Blackrock Memo - Highly Aggressive Wolf**
 
-![](../assets/Blackrock_Memo_-_Highly_Aggressive_Wolf_icon.png)
-
-_Blackrock\_Memo\_-\_Highly\_Aggressive\_Wolf\_icon.png_
+![Blackrock Memo Highly Aggressive Wolf icon](../assets/Blackrock_Memo_-_Highly_Aggressive_Wolf_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

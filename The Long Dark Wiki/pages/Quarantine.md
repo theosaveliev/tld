@@ -4,9 +4,7 @@
 
 **Quarantine**
 
-![](../assets/Quarantine_icon.png)
-
-_Quarantine\_icon.png_
+![Quarantine icon](../assets/Quarantine_icon.png)
 
 **Description:** Explore Perseverance Mills.
 

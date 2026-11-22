@@ -30,9 +30,7 @@
 
 **Distress Pistol**
 
-![](../assets/Distress_Pistol_icon.png)
-
-_Distress\_Pistol\_icon.png_
+![Distress Pistol icon](../assets/Distress_Pistol_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 
@@ -90,129 +88,23 @@ Distress Pistol rounds which hit an animal will almost always kill. Either immed
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-**Wildlife:** Critical Hit Chance
-
-Head
-
-Neck
-
-Torso
-
-Hips
-
-Limb
-
-![](../assets/Deer_icon.png)
-
-_Deer\_icon.png_
-
-[Deer](./Deer.md)
-
-Guaranteed
-
-50%
-
-40%
-
-25%
-
-10%
-
-![](../assets/Wolf_icon.png)
-
-_Wolf\_icon.png_
-
-[Wolf](./Wolf.md)
-
-Guaranteed
-
-Guaranteed
-
-33%
-
-10%
-
-10%
-
-![](../assets/Bear_icon.png)
-
-_Bear\_icon.png_
-
-[Bear](./Bear.md)
-
-60%
-
-90%
-
-Guaranteed
-
-Guaranteed
-
-Guaranteed
+| Wildlife | Critical Hit Chance |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Head | Neck | Torso | Hips | Limb |  |  |
+| ![Deer icon](../assets/Deer_icon.png) | [Deer](./Deer.md) | Guaranteed | 50% | 40% | 25% | 10% |
+| ![Wolf icon](../assets/Wolf_icon.png) | [Wolf](./Wolf.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| ![Bear icon](../assets/Bear_icon.png) | [Bear](./Bear.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
 
 ### Bleeding wounds
 
 [Wildlife](./Wildlife.md) take a specific amount of time to bleed out, as follows:
 
-**Wildlife:** Bleed Out
-
-Head
-
-Neck
-
-Torso
-
-Hips
-
-Limb
-
-![](../assets/Deer_icon.png)
-
-_Deer\_icon.png_
-
-[Deer](./Deer.md)
-
-Instant
-
-8 min
-
-15 min
-
-30 min
-
-80 min
-
-![](../assets/Wolf_icon.png)
-
-_Wolf\_icon.png_
-
-[Wolf](./Wolf.md)
-
-Instant
-
-12 min
-
-30 min
-
-35 min
-
-40 min
-
-![](../assets/Bear_icon.png)
-
-_Bear\_icon.png_
-
-[Bear](./Bear.md)
-
-30 min
-
-45 min
-
-50 min
-
-140 min
-
-140 min
+| Wildlife | Bleed Out |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Head | Neck | Torso | Hips | Limb |  |  |
+| ![Deer icon](../assets/Deer_icon.png) | [Deer](./Deer.md) | Instant | 8 min | 15 min | 30 min | 80 min |
+| ![Wolf icon](../assets/Wolf_icon.png) | [Wolf](./Wolf.md) | Instant | 12 min | 30 min | 35 min | 40 min |
+| ![Bear icon](../assets/Bear_icon.png) | [Bear](./Bear.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
 
 ## Locations
 
@@ -349,11 +241,7 @@ Note: guaranteed spawn, other difficulties have rifle spawn instead of distress 
 
 ![Distress Pistol Case - Empty.](../assets/Distress_Pistol_Empty_Case.png)
 
-_Distress Pistol Case - Empty._
-
 ![Bear shot with flare. old](../assets/Bear_shot_with_flare.png)
-
-_Bear shot with flare. old_
 
 ## Update history
 

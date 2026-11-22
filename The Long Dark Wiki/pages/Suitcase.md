@@ -11,9 +11,7 @@
 
 **Suitcase**
 
-![](../assets/Suitcase.jpg)
-
-_Suitcase.jpg_
+![Suitcase](../assets/Suitcase.jpg)
 
 **Release:** 1.60
 
@@ -69,29 +67,17 @@ You can use the "keep construction mode out of customizable areas" bug/exploit t
 
 ## Gallery
 
-![](../assets/Navy_Suitcase.png)
+![Navy Suitcase](../assets/Navy_Suitcase.png)
 
-_Navy\_Suitcase.png_
+![Blue Suitcase](../assets/Blue_Suitcase.png)
 
-![](../assets/Blue_Suitcase.png)
+![Red Suitcase](../assets/Red_Suitcase.png)
 
-_Blue\_Suitcase.png_
+![Grandmas Flower Suitcase](../assets/Grandmas_Flower_Suitcase.png)
 
-![](../assets/Red_Suitcase.png)
+![Tan Suitcase](../assets/Tan_Suitcase.png)
 
-_Red\_Suitcase.png_
-
-![](../assets/Grandmas_Flower_Suitcase.png)
-
-_Grandmas\_Flower\_Suitcase.png_
-
-![](../assets/Tan_Suitcase.png)
-
-_Tan\_Suitcase.png_
-
-![](../assets/Dark_Brown_Suitcase.png)
-
-_Dark\_Brown\_Suitcase.png_
+![Dark Brown Suitcase](../assets/Dark_Brown_Suitcase.png)
 
 ## Notes
 

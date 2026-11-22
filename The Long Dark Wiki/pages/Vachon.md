@@ -21,9 +21,7 @@
 
 **Vachon**
 
-![](../assets/Vachon.png)
-
-_Vachon.png_
+![Vachon](../assets/Vachon.png)
 
 **Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 
@@ -119,19 +117,11 @@ He is later killed by [Jeremiah](./Jeremiah.md) when a Hatchet is thrown into hi
 
 ![Vachon waiting for Mackenzie to return](../assets/Vachon_fire_barrel.jpg)
 
-_Vachon waiting for Mackenzie to return_
-
 ![Vachon being attacked by a Timberwolf](../assets/Vachon_Timberwolf.jpg)
-
-_Vachon being attacked by a Timberwolf_
 
 ![Mathis, Vachon, and Heller attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg)
 
-_Mathis, Vachon, and Heller attacked by Timberwolves_
-
 ![Vachon without his jacket on, revealing his sleeveless prison uniform](../assets/Mathis_Heller_Vachon.jpg)
-
-_Vachon without his jacket on, revealing his sleeveless prison uniform_
 
 ## Update history
 

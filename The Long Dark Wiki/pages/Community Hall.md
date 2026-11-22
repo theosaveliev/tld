@@ -4,15 +4,13 @@
 
 **Community Hall**
 
-\[\[File: / ![Exterior](../assets/Community_hall_exterior_square.jpg) / _Exterior_ / ![Interior](../assets/Community_hall_interior.jpg) / _Interior_
+![Exterior](../assets/Community_hall_exterior_square.jpg)<br>![Interior](../assets/Community_hall_interior.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Community_Hall_Location.png)
-
-_Community\_Hall\_Location.png_
+![Community Hall Location](../assets/Community_Hall_Location.png)
 
 Region
 
@@ -26,7 +24,7 @@ Residential
 
 Firebox
 
-Has an interior / **Community Hall** is a building at [Thomson's Crossing](./Thomson%27s%20Crossing.md) within [Pleasant Valley](./Pleasant%20Valley.md). It is a major location within [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md).
+Has an interior<br>**Community Hall** is a building at [Thomson's Crossing](./Thomson%27s%20Crossing.md) within [Pleasant Valley](./Pleasant%20Valley.md). It is a major location within [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md).
 
 ## Overview
 
@@ -46,18 +44,10 @@ The fireplace, however, is an "infinity fire," meaning that it never burns out. 
 
 ## Gallery
 
-![](../assets/Community_hall_exterior.jpg)
+![Community hall exterior](../assets/Community_hall_exterior.jpg)
 
-_community\_hall\_exterior.jpg_
+![Community hall exterior 2](../assets/Community_hall_exterior_2.jpg)
 
-![](../assets/Community_hall_exterior_2.jpg)
+![Community hall interior](../assets/Community_hall_interior.jpg)
 
-_community\_hall\_exterior\_2.jpg_
-
-![](../assets/Community_hall_interior.jpg)
-
-_community\_hall\_interior.jpg_
-
-![](../assets/Community_hall_interior_2.jpg)
-
-_community\_hall\_interior\_2.jpg_
+![Community hall interior 2](../assets/Community_hall_interior_2.jpg)

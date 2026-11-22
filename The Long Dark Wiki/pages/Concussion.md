@@ -4,9 +4,7 @@
 
 **Concussion**
 
-![](../assets/Concussion_icon.png)
-
-_Concussion\_icon.png_
+![Concussion icon](../assets/Concussion_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

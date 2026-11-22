@@ -6,15 +6,13 @@
 
 **Commuter's Lament**
 
-\[\[File: / ![](../assets/Commuter%27s_Lament.jpg) / _Commuter's\_Lament.jpg_
+![Commuter's Lament](../assets/Commuter%27s_Lament.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Commuter%27s_Lament_map.png)
-
-_Commuter's\_Lament\_map.png_
+![Commuter's Lament map](../assets/Commuter%27s_Lament_map.png)
 
 Region
 

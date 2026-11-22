@@ -4,9 +4,7 @@
 
 **Fallen Star**
 
-![](../assets/Missions_story_ep3_Triage.png)
-
-_Missions\_story\_ep3\_Triage.png_
+![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
@@ -18,7 +16,7 @@ _Missions\_story\_ep3\_Triage.png_
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) / [Crash Survivor](./Crash%20Survivor.md) / [Molly](./Molly.md) / [Jane Yang](./Jane%20Yang.md) (flashback)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md)<br>[Crash Survivor](./Crash%20Survivor.md)<br>[Molly](./Molly.md)<br>[Jane Yang](./Jane%20Yang.md) (flashback)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -68,7 +66,7 @@ Be wary of Timberwolves along the way back to the Community Hall. Gwen must be p
 
 ### ID quantity clarifications
 
-![](../assets/Survivor_count.jpg) Some confusion has been caused by the number of ID's required by the journal.
+![Survivor count](../assets/Survivor_count.jpg) Some confusion has been caused by the number of ID's required by the journal.
 
 - At the plane crash, Astrid must obtain 10 ID cards:
   - 9 ID cards from the dead bodies scattered behind the plane.

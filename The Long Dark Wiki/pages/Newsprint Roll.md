@@ -11,9 +11,7 @@
 
 **Newsprint Roll**
 
-![](../assets/Newsprint_Roll_icon.png)
-
-_Newsprint\_Roll\_icon.png_
+![Newsprint Roll icon](../assets/Newsprint_Roll_icon.png)
 
 **General**
 
@@ -23,7 +21,7 @@ _Newsprint\_Roll\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Newsprint Roll. Can be used as tinder.**”
 >
@@ -53,5 +51,3 @@ Like all other types of tinder, it does not increase the chance to successfully 
 ## Gallery
 
 ![Old model.](../assets/Newsprint_roll.png)
-
-_Old model._

@@ -20,7 +20,7 @@
 - [Achievements](#achievements-1)
 - [Game History](#game-history)
 
-![](../assets/Cheat_Death.jpg)
+![Cheat Death](../assets/Cheat_Death.jpg)
 > **You can cheat death, but you can’t cheat death for free.**
 
 **Cheat Death** is a mechanic in [Survival Mode](./Survival%20Mode.md) of _[The Long Dark](./The%20Long%20Dark.md)_, allowing the player to escape a previously lethal situation at the cost of increased difficulty. Cheat Death was added for free in the Part 5 update of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).[¹](#fn1)
@@ -45,11 +45,11 @@ Upon reaching 0% [Condition](./Condition.md) while playing Survival Mode, the pl
   - The world remains the same: explored/looted areas, stored gear, etc.
   - Increasing Penalties added each time Cheat Death is used (up to 3 times).
 
-![](../assets/Cheat_Death_Choice.jpg) If the player closes the game at this point, the save file will be wiped by default. Choosing "Cheat Death" allows the player to continue playing in the same Survival Sandbox, but at a cost...
+![Cheat Death Choice](../assets/Cheat_Death_Choice.jpg) If the player closes the game at this point, the save file will be wiped by default. Choosing "Cheat Death" allows the player to continue playing in the same Survival Sandbox, but at a cost...
 
 ## Cheat Death Consequences
 
-![](../assets/Cheat_Death_Consequences.jpg)If the player chooses to Cheat Death, they will be presented with a list of consequences for this option.
+![Cheat Death Consequences](../assets/Cheat_Death_Consequences.jpg)If the player chooses to Cheat Death, they will be presented with a list of consequences for this option.
 
 ### Achievements
 
@@ -63,185 +63,139 @@ Timers for [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) tha
 
 **Description**
 
-![](../assets/Exploration_Game_icon.png)
-
-_Exploration\_Game\_icon.png_
+![Exploration Game icon](../assets/Exploration_Game_icon.png)
 
 **[Exploration Game](./Exploration%20Game.md)**
 
 Visit every interior location in both [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md) (single game)
 
-![](../assets/Waste_Not%2C_Want_Not_icon.png)
-
-_Waste\_Not,\_Want\_Not\_icon.png_
+![Waste Not, Want Not icon](../assets/Waste_Not%2C_Want_Not_icon.png)
 
 **[Waste Not, Want Not](./Waste%20Not%2C%20Want%20Not.md)**
 
 Harvest 10 Complete [Deer Carcasses](./Deer%20Carcass.md) (single game)
 
-![](../assets/Night_Walker_icon.png)
-
-_Night\_Walker\_icon.png_
+![Night Walker icon](../assets/Night_Walker_icon.png)
 
 **[Night Walker](./Night%20Walker.md)**
 
 Survive an entire Night outside (single game)
 
-![](../assets/Beneath_a_Starry_Sky_icon.png)
-
-_Beneath\_a\_Starry\_Sky\_icon.png_
+![Beneath a Starry Sky icon](../assets/Beneath_a_Starry_Sky_icon.png)
 
 **[Beneath a Starry Sky](./Beneath%20a%20Starry%20Sky.md)**
 
 Survive 3 consecutive Nights outside (single game)
 
-![](../assets/Silent_Hunter_icon.png)
-
-_Silent\_Hunter\_icon.png_
+![Silent Hunter icon](../assets/Silent_Hunter_icon.png)
 
 **[Silent Hunter](./Silent%20Hunter.md)**
 
 Survive the first 50 days without firing the [hunting rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md) or the [distress pistol](./Distress%20Pistol.md) (single game)
 
-![](../assets/Pacifist_icon.png)
-
-_Pacifist\_icon.png_
+![Pacifist icon](../assets/Pacifist_icon.png)
 
 **[Pacifist](./Pacifist.md)**
 
 Survive the first 25 days without killing anything (single game)
 
-![](../assets/Living_Off_the_Land_icon.png)
-
-_Living\_Off\_the\_Land\_icon.png_
+![Living Off the Land icon](../assets/Living_Off_the_Land_icon.png)
 
 **[Living Off the Land](./Living%20Off%20the%20Land.md)**
 
 Survive 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)
 
-![](../assets/Natural_Healer_icon.png)
-
-_Natural\_Healer\_icon.png_
+![Natural Healer icon](../assets/Natural_Healer_icon.png)
 
 **[Natural Healer](./Natural%20Healer.md)**
 
 Heal yourself using all types of natural [medicines](./First%20Aid.md) (single game)
 
-![](../assets/Happy_Harvester_icon.png)
-
-_Happy\_Harvester\_icon.png_
+![Happy Harvester icon](../assets/Happy_Harvester_icon.png)
 
 **[Happy Harvester](./Happy%20Harvester.md)**
 
 Harvest 25 of each kind of plant (single game)
 
-![](../assets/Something_Wicked_icon.png)
-
-_Something\_Wicked\_icon.png_
+![Something Wicked icon](../assets/Something_Wicked_icon.png)
 
 **[Something Wicked](./Something%20Wicked.md)**
 
 Survive 1000 days in a single Survival Mode game without [Cheating Death](./Cheat%20Death.md).
 
-![](../assets/Expert_Angler_icon.png)
-
-_Expert\_Angler\_icon.png_
+![Expert Angler icon](../assets/Expert_Angler_icon.png)
 
 **[Expert Angler](./Expert%20Angler.md)**
 
 Catch 4 different Rare Fish – [Burbot](./Burbot%20%28Raw%29.md), [Goldeye](./Goldeye%20%28Raw%29.md), [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md), and [Rockfish](./Rockfish%20%28Raw%29.md) (single game).
 
-![](../assets/Tackle_Box_icon.png)
-
-_Tackle\_Box\_icon.png_
+![Tackle Box icon](../assets/Tackle_Box_icon.png)
 
 **[Tackle Box](./Tackle%20Box.md)**
 
 Craft a full set of 3 [Fishing Lures](./Fishing%20Lure%20%28disambiguation%29.md) (single game).
 
-![](../assets/Thanks_for_the_Memories_icon.png)
-
-_Thanks\_for\_the\_Memories\_icon.png_
+![Thanks for the Memories icon](../assets/Thanks_for_the_Memories_icon.png)
 
 **[Thanks for the Memories](./Thanks%20for%20the%20Memories.md)**
 
 Collect 12 [Mementos](./Mementos.md) – one from each Lower Great Bear Island Region (single game).
 
-![](../assets/Hot_Shot_icon.png)
-
-_Hot\_Shot\_icon.png_
+![Hot Shot icon](../assets/Hot_Shot_icon.png)
 
 **[Hot Shot](./Hot%20Shot.md)**
 
 Kill 25 Rabbits with [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) (single game).
 
-![](../assets/Down_Below_icon.png)
-
-_Down\_Below\_icon.png_
+![Down Below icon](../assets/Down_Below_icon.png)
 
 **[Down Below](./Down%20Below.md)**
 
 Enter all 9 [Prepper Cache](./Prepper%20Cache.md) locations (single game).
 
-![](../assets/To_the_Teeth_icon.png)
-
-_To\_the\_Teeth\_icon.png_
+![To the Teeth icon](../assets/To_the_Teeth_icon.png)
 
 [**To the Teeth**](./To%20the%20Teeth.md)
 
 Collect 7 Expansion Firearm variants (single game).
 
-![](../assets/R%C3%BCdiger%27s_Dream_icon.png)
-
-_Rüdiger's\_Dream\_icon.png_
+![Rüdiger's Dream icon](../assets/R%C3%BCdiger%27s_Dream_icon.png)
 
 [**Rüdiger's Dream**](./R%C3%BCdiger%27s%20Dream.md)
 
 Complete all 3 [Tales](./Tales.md) (single game)
 
-![](../assets/Something_Warm_to_Drink_icon.png)
-
-_Something\_Warm\_to\_Drink\_icon.png_
+![Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png)
 
 **[Something Warm to Drink](./Something%20Warm%20to%20Drink.md)**
 
 Collect 7 [Insulated Flask](./Insulated%20Flask.md) Variants (single game).
 
-![](../assets/Quick_Draw_icon.png)
-
-_Quick\_Draw\_icon.png_
+![Quick Draw icon](../assets/Quick_Draw_icon.png)
 
 **[Quick Draw](./Quick%20Draw.md)**
 
 Kill 10 [Ptarmigans](./Ptarmigan.md) with Arrows (single game).
 
-![](../assets/Exposure_icon.png)
-
-_Exposure\_icon.png_
+![Exposure icon](../assets/Exposure_icon.png)
 
 **[Exposure](./Exposure.md)**
 
 Take a photo in each Great Bear Island Region for a total of 16 (single game).
 
-![](../assets/Shutterbug_icon.png)
-
-_Shutterbug\_icon.png_
+![Shutterbug icon](../assets/Shutterbug_icon.png)
 
 **[Shutterbug](./Shutterbug.md)**
 
 Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game).
 
-![](../assets/On_the_Lookout_icon.png)
-
-_On\_the\_Lookout\_icon.png_
+![On the Lookout icon](../assets/On_the_Lookout_icon.png)
 
 **[On the Lookout](./On%20the%20Lookout.md)**
 
 Reach all 6 [Vista](./Polaroids.md) locations in the Far Territory (single game).
 
-![](../assets/Ends_of_the_Earth_icon.png)
-
-_Ends\_of\_the\_Earth\_icon.png_
+![Ends of the Earth icon](../assets/Ends_of_the_Earth_icon.png)
 
 **[Ends of the Earth](./Ends%20of%20the%20Earth.md)**
 
@@ -273,9 +227,7 @@ The player cannot choose where to respawn, but how they will respawn (see later 
 
 ## Cheat Death Penalty
 
-![](../assets/Cheat_Death_Penalty.jpg)
-
-_Cheat\_Death\_Penalty.jpg_
+![Cheat Death Penalty](../assets/Cheat_Death_Penalty.jpg)
 
 The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.md). The player can mix the two penalty types per death as they please:
 
@@ -288,7 +240,7 @@ The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.
 
 ## Respawn
 
-![](../assets/Cheat_Death_Respawn.jpg) When you Cheat Death, you'll be given the option to respawn somewhere inside the region you just died, or in a safe but far away location:
+![Cheat Death Respawn](../assets/Cheat_Death_Respawn.jpg) When you Cheat Death, you'll be given the option to respawn somewhere inside the region you just died, or in a safe but far away location:
 
 - **Close, Risky Respawn** will always put the player outdoors near danger in the same region you died in, and most of the time the hike back to where you died will be halfway across the map, but sometimes it will be shorter.
 - **Far, Safe Respawn** will always send the player in or near an indoor location that they may or may not have already discovered in another region. "Safe" is relative, since based on the condition of clothing and remaining inventory, survival may still be a challenge. It is possible to be sent to a region the player has not explored yet, may be a neighboring region or one quite distant (ex, from [Sundered Pass](./Sundered%20Pass.md) all the way to [Coastal Highway](./Coastal%20Highway.md)).
@@ -368,7 +320,7 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 
 ## Achievements
 
-- ![](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
+- ![Something Wicked icon](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
 
 ## Game History
 

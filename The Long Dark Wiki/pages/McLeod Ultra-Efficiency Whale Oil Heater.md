@@ -14,9 +14,7 @@
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
 
-![](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png)
-
-_McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_
+![McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png)
 
 **General**
 
@@ -26,21 +24,19 @@ _McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
 
 **Harvest:** Cannot Harvest
 
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition / 1 hour
+**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition<br>1 hour
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.** / In-game description
+**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.**<br>In-game description
 
 ”
 

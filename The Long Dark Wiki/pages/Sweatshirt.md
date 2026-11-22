@@ -4,9 +4,7 @@
 
 **Sweatshirt**
 
-![](../assets/Sweatshirt_icon.png)
-
-_Sweatshirt\_icon.png_
+![Sweatshirt icon](../assets/Sweatshirt_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Sweatshirt\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)10%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)10%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
 
 > “**Crew-neck sweater made of heavy cotton. Will take the edge off on a windy day, but not very warm.**”
 >
@@ -49,56 +47,28 @@ A common starting item, the **sweatshirt** has similar, but slightly better stat
 
 ![Clothing model](../assets/Sweatshirt_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Sweatshirt_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ![The front of a sweatshirt at 100% condition.](../assets/Sweatshirt_Front.jpg)
 
-_The front of a sweatshirt at 100% condition._
-
 ![The front of a sweatshirt at 1% condition.](../assets/Sweatshirt1%25_Front.jpg)
-
-_The front of a sweatshirt at 1% condition._
 
 ![The back of a sweatshirt at 1% condition.](../assets/Sweatshirt1%25_Back.jpg)
 
-_The back of a sweatshirt at 1% condition._
-
 ![The back of a sweatshirt at 100% condition.](../assets/Sweatshirt_Back.jpg)
-
-_The back of a sweatshirt at 100% condition._
 
 ![The sweatshirt at 1% condition on the male paper doll model.](../assets/Sweatshirt1%25_PaperDoll_Male.jpg)
 
-_The sweatshirt at 1% condition on the male paper doll model._
-
 ![The sweatshirt at 100% condition on the male paper doll model.](../assets/Sweatshirt_PaperDoll_Male.jpg)
-
-_The sweatshirt at 100% condition on the male paper doll model._
 
 ![The male in-game model wearing a 1% condition sweatshirt, aiming a rock.](../assets/Sweatshirt1%25_RockThrow_Male.jpg)
 
-_The male in-game model wearing a 1% condition sweatshirt, aiming a rock._
-
 ![The male in-game model wearing a sweatshirt, aiming a rock](../assets/Sweatshirt_RockThrow_Male.jpg)
-
-_The male in-game model wearing a sweatshirt, aiming a rock_
 
 ![The male in-game model wearing a 1% condition sweatshirt, aiming a revolver.](../assets/Sweatshirt1%25_Revolver_Male.jpg)
 
-_The male in-game model wearing a 1% condition sweatshirt, aiming a revolver._
-
 ![The male in-game model wearing a sweatshirt, aiming a revolver.](../assets/Sweatshirt_Revolver_Male.jpg)
-
-_The male in-game model wearing a sweatshirt, aiming a revolver._
 
 ![The male in-game model wearing a 1% condition sweatshirt, holding a rifle.](../assets/Sweatshirt1%25_Rifle_Male.jpg)
 
-_The male in-game model wearing a 1% condition sweatshirt, holding a rifle._
-
 ![The male in-game model wearing a sweatshirt, holding a rifle.](../assets/Sweatshirt_Rifle_Male.jpg)
-
-_The male in-game model wearing a sweatshirt, holding a rifle._

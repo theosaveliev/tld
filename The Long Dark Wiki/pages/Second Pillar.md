@@ -4,15 +4,11 @@
 
 **Second Pillar**
 
-![](../assets/Second_Pillar.jpg)
-
-_Second\_Pillar.jpg_
+![Second Pillar](../assets/Second_Pillar.jpg)
 
 **Location**
 
-![](../assets/Second_Pillar_Location.png)
-
-_Second\_Pillar\_Location.png_
+![Second Pillar Location](../assets/Second_Pillar_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -27,5 +23,3 @@ It is the anchor point for a [Rope Climbing](./Rope%20Climbing.md) section, and 
 Climbing across the bridge leads to the [Weather Station](./Weather%20Station.md) plateau. A one way path from the [Abandoned Mine](./Abandoned%20Mine.md) will lead the player to the base of the Pillar, but the player must climb up to reach the top.
 
 ![The pillar as seen from below (right side) with the Weather Station pillar on the left](../assets/Second_Pillar_below.jpg)
-
-_The pillar as seen from below (right side) with the Weather Station pillar on the left_

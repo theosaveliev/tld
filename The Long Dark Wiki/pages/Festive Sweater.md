@@ -4,9 +4,7 @@
 
 **Festive Sweater**
 
-![](../assets/Festive_Sweater_icon.png)
-
-_Festive\_Sweater\_icon.png_
+![Festive Sweater icon](../assets/Festive_Sweater_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Festive\_Sweater\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)15%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)15%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>60 minutes<br>40% condition
 
 > “**A warm, durable sweater fit for the holiday season.**”
 >
@@ -66,8 +64,4 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 ![Clothing model](../assets/SweaterChristmasA.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/SweaterChristmasA_dmg.png)
-
-_Clothing model damaged_

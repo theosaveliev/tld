@@ -4,9 +4,7 @@
 
 **Coal Bin**
 
-![](../assets/Coal_Bin.jpg)
-
-_Coal\_Bin.jpg_
+![Coal Bin](../assets/Coal_Bin.jpg)
 
 **Story item:** Yes
 

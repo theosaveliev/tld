@@ -4,9 +4,7 @@
 
 **Cave Hidden Cache Note**
 
-![](../assets/Cave_Hidden_Cache_Note_icon.png)
-
-_Cave\_Hidden\_Cache\_Note\_icon.png_
+![Cave Hidden Cache Note icon](../assets/Cave_Hidden_Cache_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

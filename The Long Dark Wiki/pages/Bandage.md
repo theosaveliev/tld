@@ -12,9 +12,7 @@
 
 **Bandage**
 
-![](../assets/Bandage_icon.png)
-
-_Bandage\_icon.png_
+![Bandage icon](../assets/Bandage_icon.png)
 
 **Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094)
 
@@ -86,8 +84,6 @@ Bandages can be used to treat the following afflictions:
 ## Gallery
 
 ![old model](../assets/Bandage.png)
-
-_old model_
 
 ## Update history
 

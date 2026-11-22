@@ -4,9 +4,7 @@
 
 **Security Chief's ID Badge**
 
-![](../assets/Security_Chief%27s_ID_Badge_icon.png)
-
-_Security\_Chief's\_ID\_Badge\_icon.png_
+![Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -35,8 +33,6 @@ _The following text is transcribed from **Security Chief's ID Badge**_
 A piece of corporate identification. Scratched by use and faded by time.
 
 ![Front and back of the card](../assets/OBJ_PictureIDSecurityChief.png)
-
-_Front and back of the card_
 
 ## Update history
 

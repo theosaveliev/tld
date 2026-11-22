@@ -4,15 +4,11 @@
 
 **Lotte's Rest**
 
-![](../assets/Lotte%27s_Rest_.jpg)
-
-_Lotte's\_Rest\_.jpg_
+![Lotte's Rest](../assets/Lotte%27s_Rest_.jpg)
 
 **Location**
 
-![](../assets/Lotte%27s_Rest_Location.png)
-
-_Lotte's\_Rest\_Location.png_
+![Lotte's Rest Location](../assets/Lotte%27s_Rest_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -22,9 +18,7 @@ _Lotte's\_Rest\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -47,12 +41,6 @@ The cabin can provide life-saving shelter if the weather conditions turn poor. I
 
 ![An avalanche warning inside the cabin](../assets/Avalanche_Warning_Sign.png)
 
-_An avalanche warning inside the cabin_
-
-![](../assets/Refuge_Cabin_A_resized.png)
-
-_Refuge\_Cabin\_A\_resized.png_
+![Refuge Cabin A resized](../assets/Refuge_Cabin_A_resized.png)
 
 ![The cliffside view during an aurora](../assets/Lotte%27s_rest_aurora.png)
-
-_The cliffside view during an aurora_

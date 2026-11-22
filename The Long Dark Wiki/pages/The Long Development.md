@@ -9,13 +9,11 @@
 - [Vehicle](#vehicle)
 - [Gallery](#gallery)
 
-![](../assets/The_Long_Development_White_Logo.png)
+![The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
-_The\_Long\_Development\_White\_Logo.png_
+**Modded Content.**<br>This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
-**Modded Content.** / This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
-
- ![](../assets/The_Long_Development.png) / > “**The Long Development is a small team project and a collaborative community effort to expand 'THE LONG DARK's' Great Bear Island in both a beautiful and balanced way. Our team is focused on creating as 'Hinterland-like' regions as possible to ensure that they fit within the world of the vanilla game. Consisting of a handful of core members, our 'TLDev' team brings a variety of work that allows this mod to be as expansive as it is. Our mod contains hand-crafted regions that seamlessly connect to the larger world of Great Bear, featuring custom 3D-modelled structure and an additional 20 minutes of brand-new music that make these regions' identities feel unique. We take our time creating our content, and as every member contributes to this project with our own free time; we apply the infamous ‘no crunch’ rules. Our work releases whenever we feel it is ready, and it will always be completely free for anyone who owns THE LONG DARK and TFTFT**” / > / > — Official Discord Description / **The Long Development** is an unofficial mod created by a dedicated group of community members for _[The Long Dark](./The%20Long%20Dark.md)_. It was not created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) and is thus not canon to the world or story of _The Long Dark_. / The YouTube channel for this project can be found [here](https://www.youtube.com/@Kaiusername). This mod will be free to download for any player and is only compatible to users that own both [Survival Mode](./Survival%20Mode.md) and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
+ ![The Long Development](../assets/The_Long_Development.png)<br>> “**The Long Development is a small team project and a collaborative community effort to expand 'THE LONG DARK's' Great Bear Island in both a beautiful and balanced way. Our team is focused on creating as 'Hinterland-like' regions as possible to ensure that they fit within the world of the vanilla game. Consisting of a handful of core members, our 'TLDev' team brings a variety of work that allows this mod to be as expansive as it is. Our mod contains hand-crafted regions that seamlessly connect to the larger world of Great Bear, featuring custom 3D-modelled structure and an additional 20 minutes of brand-new music that make these regions' identities feel unique. We take our time creating our content, and as every member contributes to this project with our own free time; we apply the infamous ‘no crunch’ rules. Our work releases whenever we feel it is ready, and it will always be completely free for anyone who owns THE LONG DARK and TFTFT**”<br>><br>> — Official Discord Description<br>**The Long Development** is an unofficial mod created by a dedicated group of community members for _[The Long Dark](./The%20Long%20Dark.md)_. It was not created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) and is thus not canon to the world or story of _The Long Dark_.<br>The YouTube channel for this project can be found [here](https://www.youtube.com/@Kaiusername). This mod will be free to download for any player and is only compatible to users that own both [Survival Mode](./Survival%20Mode.md) and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
 ## Overview
 
@@ -43,26 +41,14 @@ In addition to the vehicles found in the base game, The Long Development adds a 
 
 ## Gallery
 
-![](../assets/Precarious_Causeway.png)
+![Precarious Causeway](../assets/Precarious_Causeway.png)
 
-_Precarious\_Causeway.png_
+![Shattered Marsh](../assets/Shattered_Marsh.png)
 
-![](../assets/Shattered_Marsh.png)
+![Mountain Pass](../assets/Mountain_Pass.png)
 
-_Shattered\_Marsh.png_
+![Forsaken Shore](../assets/Forsaken_Shore.png)
 
-![](../assets/Mountain_Pass.png)
+![Rocky Thoroughfare](../assets/Rocky_Thoroughfare.png)
 
-_Mountain\_Pass.png_
-
-![](../assets/Forsaken_Shore.png)
-
-_Forsaken\_Shore.png_
-
-![](../assets/Rocky_Thoroughfare.png)
-
-_Rocky\_Thoroughfare.png_
-
-![](../assets/TLDevEAroadmapPNG.png)
-
-_TLDevEAroadmapPNG.png_
+![TLDevEAroadmapPNG](../assets/TLDevEAroadmapPNG.png)

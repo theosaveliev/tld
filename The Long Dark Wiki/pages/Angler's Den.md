@@ -4,15 +4,11 @@
 
 **Angler's Den**
 
-![](../assets/AnglersDenOutside_1080p.png)
-
-_AnglersDenOutside\_1080p.png_
+![AnglersDenOutside 1080p](../assets/AnglersDenOutside_1080p.png)
 
 **Location**
 
-![](../assets/Angler%27s_Den_Location.png)
-
-_Angler's\_Den\_Location.png_
+![Angler's Den Location](../assets/Angler%27s_Den_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -20,15 +16,11 @@ _Angler's\_Den\_Location.png_
 
 **Type:** Military/Sporting
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -46,24 +38,12 @@ With its central location, ample storage, and workbench the Angler's Den makes f
 
 ![The inside of the cabin.](../assets/AnglersDen_1080p.png)
 
-_The inside of the cabin._
-
 ![Another view of the cabin's interior.](../assets/AnglersDenInside2_1080p.png)
-
-_Another view of the cabin's interior._
 
 ![Another foggy day near Angler's Den](../assets/20201209172637_1.jpg)
 
-_Another foggy day near Angler's Den_
-
 ![Angler's Den - view from Wolf's Jaw Overlook](../assets/Angler%27s_Den_view_from_Wolf%27s_Jaw_Overlook.png)
-
-_Angler's Den - view from Wolf's Jaw Overlook_
 
 ![Angler's Den as seen from the Foreman's Retreat.](../assets/AnglersDenFromForemansRetreat.png)
 
-_Angler's Den as seen from the Foreman's Retreat._
-
 ![Angler's Den from High Meadow Viewpoint](../assets/Downward_View_of_Rope_from_High_Meadow.jpg)
-
-_Angler's Den from High Meadow Viewpoint_

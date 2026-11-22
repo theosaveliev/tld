@@ -11,9 +11,7 @@
 
 **Safe**
 
-![](../assets/Safe.png)
-
-_Safe.png_
+![Safe](../assets/Safe.png)
 
 **Release:** TBD
 
@@ -39,183 +37,30 @@ A safe can hold 10kg.
 
 ## Loot
 
-**Item:** Rarity
-
-![](../assets/Cash_icon.png)
-
-_Cash\_icon.png_
-
-[Cash](./Cash.md)
-
-13.04%
-
-![](../assets/Military-Grade_MRE_icon.png)
-
-_Military-Grade\_MRE\_icon.png_
-
-[Military-Grade MRE](./Military-Grade%20MRE.md)
-
-10.87%
-
-![](../assets/Rifle_Cartridge_icon.png)
-
-_Rifle\_Cartridge\_icon.png_
-
-[Rifle Cartridge](./Rifle%20Ammunition.md)
-
-10.87%
-
-![](../assets/Maple_Syrup_icon.png)
-
-_Maple\_Syrup\_icon.png_
-
-[Maple Syrup](./Maple%20Syrup.md)
-
-5.43%
-
-![](../assets/Emergency_Stim_icon.png)
-
-_Emergency\_Stim\_icon.png_
-
-[Emergency Stim](./Emergency%20Stim.md)
-
-5.43%
-
-![](../assets/Flare_icon.png)
-
-_Flare\_icon.png_
-
-[Flare](./Flare.md)
-
-5.43%
-
-![](../assets/Flare_Shell_icon.png)
-
-_Flare\_Shell\_icon.png_
-
-[Flare Shell](./Flare%20Shell.md)
-
-5.43%
-
-![](../assets/Insulated_Boots_icon.png)
-
-_Insulated\_Boots\_icon.png_
-
-[Insulated Boots](./Insulated%20Boots.md)
-
-5.43%
-
-![](../assets/Mukluks_icon.png)
-
-_Mukluks\_icon.png_
-
-[Mukluks](./Mukluks.md)
-
-5.43%
-
-![](../assets/Book_icon.png)
-
-_Book\_icon.png_
-
-[Book](./Book.md)
-
-5.43%
-
-![](../assets/Revolver_Ammunition_icon.png)
-
-_Revolver\_Ammunition\_icon.png_
-
-[Revolver Ammunition](./Revolver%20Ammunition.md)
-
-5.43%
-
-![](../assets/Wool_Ear_Wrap_icon.png)
-
-_Wool\_Ear\_Wrap\_icon.png_
-
-[Wool Ear Wrap](./Wool%20Ear%20Wrap.md)
-
-3.26%
-
-![](../assets/Can_of_Gunpowder_icon.png)
-
-_Can\_of\_Gunpowder\_icon.png_
-
-[Can of Gunpowder](./Can%20of%20Gunpowder.md)
-
-2.17%
-
-![](../assets/Magnifying_Lens_icon.png)
-
-_Magnifying\_Lens\_icon.png_
-
-[Magnifying Lens](./Magnifying%20Lens.md)
-
-2.17%
-
-![](../assets/Flashlight_icon.png)
-
-_Flashlight\_icon.png_
-
-[Flashlight](./Flashlight.md)
-
-2.17%
-
-![](../assets/Expedition_Parka_icon.png)
-
-_Expedition\_Parka\_icon.png_
-
-[Expedition Parka](./Expedition%20Parka.md)
-
-2.17%
-
-![](../assets/Rifle_Ammunition_icon.png)
-
-_Rifle\_Ammunition\_icon.png_
-
-[Rifle Ammunition](./Rifle%20Ammunition.md)
-
-2.17%
-
-![](../assets/Simple_Arrow_icon.png)
-
-_Simple\_Arrow\_icon.png_
-
-[Simple Arrow](./Simple%20Arrow.md)
-
-2.17%
-
-![](../assets/Cowichan_Sweater_icon.png)
-
-_Cowichan\_Sweater\_icon.png_
-
-[Cowichan Sweater](./Cowichan%20Sweater.md)
-
-2.17%
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)
-
-1.09%
-
-![](../assets/Distress_Pistol_icon.png)
-
-_Distress\_Pistol\_icon.png_
-
-[Distress Pistol](./Distress%20Pistol.md)
-
-1.09%
-
-![](../assets/Cured_Wolf_Pelt_icon.png)
-
-_Cured\_Wolf\_Pelt\_icon.png_
-
-[Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)
-
-1.09%
+|  | Item | Rarity |
+| --- | --- | --- |
+| ![Cash icon](../assets/Cash_icon.png) | [Cash](./Cash.md) | 13.04% |
+| ![Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png) | [Military-Grade MRE](./Military-Grade%20MRE.md) | 10.87% |
+| ![Rifle Cartridge icon](../assets/Rifle_Cartridge_icon.png) | [Rifle Cartridge](./Rifle%20Ammunition.md) | 10.87% |
+| ![Maple Syrup icon](../assets/Maple_Syrup_icon.png) | [Maple Syrup](./Maple%20Syrup.md) | 5.43% |
+| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | 5.43% |
+| ![Flare icon](../assets/Flare_icon.png) | [Flare](./Flare.md) | 5.43% |
+| ![Flare Shell icon](../assets/Flare_Shell_icon.png) | [Flare Shell](./Flare%20Shell.md) | 5.43% |
+| ![Insulated Boots icon](../assets/Insulated_Boots_icon.png) | [Insulated Boots](./Insulated%20Boots.md) | 5.43% |
+| ![Mukluks icon](../assets/Mukluks_icon.png) | [Mukluks](./Mukluks.md) | 5.43% |
+| ![Book icon](../assets/Book_icon.png) | [Book](./Book.md) | 5.43% |
+| ![Revolver Ammunition icon](../assets/Revolver_Ammunition_icon.png) | [Revolver Ammunition](./Revolver%20Ammunition.md) | 5.43% |
+| ![Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 3.26% |
+| ![Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 2.17% |
+| ![Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | 2.17% |
+| ![Flashlight icon](../assets/Flashlight_icon.png) | [Flashlight](./Flashlight.md) | 2.17% |
+| ![Expedition Parka icon](../assets/Expedition_Parka_icon.png) | [Expedition Parka](./Expedition%20Parka.md) | 2.17% |
+| ![Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) | [Rifle Ammunition](./Rifle%20Ammunition.md) | 2.17% |
+| ![Simple Arrow icon](../assets/Simple_Arrow_icon.png) | [Simple Arrow](./Simple%20Arrow.md) | 2.17% |
+| ![Cowichan Sweater icon](../assets/Cowichan_Sweater_icon.png) | [Cowichan Sweater](./Cowichan%20Sweater.md) | 2.17% |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 1.09% |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1.09% |
+| ![Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 1.09% |
 
 ## Locations
 
@@ -248,8 +93,4 @@ If the correct number is missed, cracking the safe can be started again by rotat
 
 ![Part of an animation. Usually the safe stays closed whether it is locked or not.](../assets/Safe_Opened.png)
 
-_Part of an animation. Usually the safe stays closed whether it is locked or not._
-
 ![Unlocking a safe](../assets/Safecracking.png)
-
-_Unlocking a safe_

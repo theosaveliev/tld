@@ -4,23 +4,17 @@
 
 **Draft Dodger's Cabin**
 
-![](../assets/Draft_Dodger%27s_Cabin.jpg)
-
-_Draft\_Dodger's\_Cabin.jpg_
+![Draft Dodger's Cabin](../assets/Draft_Dodger%27s_Cabin.jpg)
 
 **Location**
 
-![](../assets/Draft_Dodger%27s_Cabin_Location.png)
-
-_Draft\_Dodger's\_Cabin\_Location.png_
+![Draft Dodger's Cabin Location](../assets/Draft_Dodger%27s_Cabin_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

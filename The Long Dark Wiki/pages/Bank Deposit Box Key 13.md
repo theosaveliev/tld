@@ -4,9 +4,7 @@
 
 **Bank Deposit Box Key (#13)**
 
-![](../assets/Bank_Deposit_Box_Key_13_icon.png)
-
-_Bank\_Deposit\_Box\_Key\_13\_icon.png_
+![Bank Deposit Box Key 13 icon](../assets/Bank_Deposit_Box_Key_13_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -33,8 +31,6 @@ _Bank\_Deposit\_Box\_Key\_13\_icon.png_
 It is located on a corpse near the frozen river between [Orca Gas Station](./Orca%20Gas%20Station.md) and [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). Follow the stream downhill directly behind the gas station. Right before the slight bend turn left up the slope and The corpse will be directly ahead. The crows circling above the corpse should make locating it easier; If walking downstream, the crows can be seen circling above on the lefthand side of the river.
 
 ![Key is located here.](../assets/Location.Key.13.png)
-
-_Key is located here._
 
 ## Update history
 

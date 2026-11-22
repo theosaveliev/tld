@@ -4,15 +4,11 @@
 
 **Valley View Point**
 
-![](../assets/Valley_View_Point.jpg)
-
-_Valley\_View\_Point.jpg_
+![Valley View Point](../assets/Valley_View_Point.jpg)
 
 **Location**
 
-![](../assets/Valley_View_Point_Location.png)
-
-_Valley\_View\_Point\_Location.png_
+![Valley View Point Location](../assets/Valley_View_Point_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

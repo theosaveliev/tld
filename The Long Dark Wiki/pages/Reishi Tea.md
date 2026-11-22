@@ -13,9 +13,7 @@
 
 **Reishi Tea**
 
-![](../assets/Reishi_Tea_icon.png)
-
-_Reishi\_Tea\_icon.png_
+![Reishi Tea icon](../assets/Reishi_Tea_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 
@@ -95,11 +93,7 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ![Old model.](../assets/Reishi_Tea.png)
 
-_Old model._
-
 ![Old icon](../assets/Reishi_tea_icon_old.png)
-
-_Old icon_
 
 ## Update history
 

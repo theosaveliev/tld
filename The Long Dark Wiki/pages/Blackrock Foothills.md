@@ -15,19 +15,13 @@
 
 **Blackrock Foothills**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
+![No picture](../assets/No_picture.png)
 
-_No\_picture.png_
-
-![](../assets/Blackrock_Foothills_In-Game_Map.png)
-
-_Blackrock\_Foothills\_In-Game\_Map.png_
+![Blackrock Foothills In Game Map](../assets/Blackrock_Foothills_In-Game_Map.png)
 
 **Details**
 
@@ -35,9 +29,9 @@ _Blackrock\_Foothills\_In-Game\_Map.png_
 
 **Connecting Regions:** [Suzuki Environs](./Suzuki%20Environs.md)
 
-**Characters:** [Jace](./Jace.md) [Will Mackenzie](./Will%20Mackenzie.md) / Unnamed Convict 1 / Unnamed Convict 2
+**Characters:** [Jace](./Jace.md) [Will Mackenzie](./Will%20Mackenzie.md)<br>Unnamed Convict 1<br>Unnamed Convict 2
 
-**Locations:** Ruined Cabin / Bisecting Ravine / Logging Camp / Cable Cars / Unstable Mine
+**Locations:** Ruined Cabin<br>Bisecting Ravine<br>Logging Camp<br>Cable Cars<br>Unstable Mine
 
 **Date Added:** 31 March 2026
 

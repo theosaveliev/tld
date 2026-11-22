@@ -4,9 +4,7 @@
 
 **Admin Office Key**
 
-![](../assets/Admin_Office_Key_icon.png)
-
-_Admin\_Office\_Key\_icon.png_
+![Admin Office Key icon](../assets/Admin_Office_Key_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

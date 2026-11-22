@@ -4,9 +4,7 @@
 
 **Renewed Hope**
 
-![](../assets/Missions_story_ep2_Renewed_Hope.png)
-
-_Missions\_story\_ep2\_Renewed\_Hope.png_
+![Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -18,7 +16,7 @@ _Missions\_story\_ep2\_Renewed\_Hope.png_
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Methuselah](./Methuselah.md)<br>[Mathis](./Mathis.md)
 
 **Template:spoiler**
 

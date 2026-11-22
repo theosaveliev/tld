@@ -11,9 +11,7 @@
 
 **Revolver Shell Casing**
 
-![](../assets/Revolver_Shell_Casing_icon.png)
-
-_Revolver\_Shell\_Casing\_icon.png_
+![Revolver Shell Casing icon](../assets/Revolver_Shell_Casing_icon.png)
 
 **General**
 
@@ -21,7 +19,7 @@ _Revolver\_Shell\_Casing\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
 > “**Empty casing from firing a Revolver. Used for Crafting new Ammunition.**”
 >
@@ -51,5 +49,3 @@ Revolver Shell Casings are an ingredient in the crafting of [Revolver Ammunition
 ## Gallery
 
 ![an unreleased Pre Alpha revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp)
-
-_an unreleased Pre Alpha revolver, with ammunition and casings_

@@ -4,19 +4,13 @@
 
 **Perseverance Wilds**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
+![No picture](../assets/No_picture.png)
 
-_No\_picture.png_
-
-![](../assets/Perseverance_Wilds_In-Game_Map.png)
-
-_Perseverance\_Wilds\_In-Game\_Map.png_
+![Perseverance Wilds In Game Map](../assets/Perseverance_Wilds_In-Game_Map.png)
 
 **Details**
 
@@ -26,11 +20,9 @@ _Perseverance\_Wilds\_In-Game\_Map.png_
 
 **Date Added:** 31 March 2026
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
  **Perseverance Wilds** is a [Wintermute](./Wintermute.md)-exclusive region, which consists of the wilderness near the town of [Perseverance Mills](./Perseverance%20Mills.md), to which it connects.
 

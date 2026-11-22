@@ -15,7 +15,7 @@
 
 **Tall Tales**
 
-\[\[File: / ![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png) / _Sasquatch_ / ![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png) / _The Big One_ / ![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png) / _Ghost Stag_ / ![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png) / _Lost Cave_
+![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png)<br>![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png)<br>![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png)<br>![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 
 250px\]\]
 
@@ -72,4 +72,4 @@ This mission can be started by finding any of the Local Legends books, including
 
 ## Achievements
 
-- ![](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
+- ![Tall Tales (Achievement) icon](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)

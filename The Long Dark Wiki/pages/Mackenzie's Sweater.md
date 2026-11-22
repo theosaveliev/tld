@@ -12,9 +12,7 @@
 
 **Mackenzie's Sweater**
 
-![](../assets/Mackenzie%27s_Sweater_icon.png)
-
-_Mackenzie's\_Sweater\_icon.png_
+![Mackenzie's Sweater icon](../assets/Mackenzie%27s_Sweater_icon.png)
 
 **General**
 
@@ -22,32 +20,30 @@ _Mackenzie's\_Sweater\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)10%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)10%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**The sweater you were wearing when you crashed in your plane.** / Post Crash In-game description
+**The sweater you were wearing when you crashed in your plane.**<br>Post Crash In-game description
 
 ”
 
@@ -81,11 +77,7 @@ Mackenzie's Sweater is still worn when playing [Episode 4: Fury, Then Silence](.
 
 ![Model icon](../assets/Mackenzie%27s_Sweater_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Mackenzie%27s_Sweater_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Update history
 

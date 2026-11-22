@@ -41,23 +41,13 @@ Prey include [Deer](./Deer.md), [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.
 
 ![Deer (Stag)](../assets/Deer.png)
 
-_Deer (Stag)_
-
 ![Deer (Doe)](../assets/Doe.png)
-
-_Deer (Doe)_
 
 ![Rabbit](../assets/Rabbit.png)
 
-_Rabbit_
-
 ![Ptarmigan](../assets/Ptarmigan.png)
 
-_Ptarmigan_
-
 ![Moose](../assets/Moose.png)
-
-_Moose_
 
 Deer, Ptarmigan, and Rabbits are easily frightened by the player or a predator. Moose however are highly aggressive and territorial, issuing warnings before attacking intruders.
 
@@ -67,23 +57,13 @@ Predators include [Wolves](./Wolf.md), [Poisoned Wolves](./Poisoned%20Wolf.md), 
 
 ![Wolf](../assets/Wolf.png)
 
-_Wolf_
-
 ![Poisoned Wolf](../assets/Poisoned_Wolf.png)
-
-_Poisoned Wolf_
 
 ![Timberwolf](../assets/Timberwolf.png)
 
-_Timberwolf_
-
 ![Cougar](../assets/Cougar.png)
 
-_Cougar_
-
 ![Bear](../assets/Bear.png)
-
-_Bear_
 
 - Bears follow fixed routes to and from their den and typically do not hunt prey wildlife. Multiple dens may be present in a region, however not all may be populated by Bear in a given survival world.
 - Cougars are very fast and agile predators, but will only appear if the player enables them. They stick to dedicated "Cougar Territory" areas and attack the player if they wander too close to them.
@@ -101,23 +81,13 @@ During an Aurora at night all prey animals will disappear and all predators will
 
 ![Aurora Wolf](../assets/Aurora_Wolf.jpg)
 
-_Aurora Wolf_
-
 ![Aurora Timberwolf](../assets/Aurora_Timberwolf.jpg)
-
-_Aurora Timberwolf_
 
 ![Aurora Poisoned Wolf](../assets/Aurora_Poisoned_Wolf.jpg)
 
-_Aurora Poisoned Wolf_
-
 ![Aurora Bear](../assets/Aurora_Bear.jpg)
 
-_Aurora Bear_
-
 ![Aurora Cougar](../assets/Aurora_Cougar.jpg)
-
-_Aurora Cougar_
 
 ### Scavenger Birds
 
@@ -125,43 +95,25 @@ _Aurora Cougar_
 
 ![Crow model](../assets/Crow.png)
 
-_Crow model_
-
 ### Fish
 
 Fish inhabit the waters of numerous regions and may encountered by [Ice Fishing](./Ice%20Fishing.md) (either inside of fishing huts or by Free-Form ice holes). Species include [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md), [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md), [Rockfish](./Rockfish%20%28Raw%29.md), and [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) in coastal saltwater, while inland freshwater hosts [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md), [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md), [Goldeye](./Goldeye%20%28Raw%29.md), and [Burbot](./Burbot%20%28Raw%29.md).
 
 ![Coho Salmon](../assets/Coho_Salmon_%28Raw%29_icon.png)
 
-_Coho Salmon_
-
 ![Rainbow Trout](../assets/Rainbow_Trout_%28Raw%29_icon.png)
-
-_Rainbow Trout_
 
 ![Rockfish](../assets/Rockfish_%28Raw%29_icon.png)
 
-_Rockfish_
-
 ![Red Irish Lord](../assets/Red_Irish_Lord_%28Raw%29_icon.png)
-
-_Red Irish Lord_
 
 ![Smallmouth Bass](../assets/Smallmouth_Bass_%28Raw%29_icon.png)
 
-_Smallmouth Bass_
-
 ![Lake Whitefish](../assets/Lake_Whitefish_%28Raw%29_icon.png)
-
-_Lake Whitefish_
 
 ![Goldeye](../assets/Goldeye_icon.png)
 
-_Goldeye_
-
 ![Burbot](../assets/Burbot_%28Raw%29_icon.png)
-
-_Burbot_
 
 ### Special Animals
 
@@ -169,15 +121,9 @@ A few animals unique to Wintermute can be found in various Episodes. These inclu
 
 ![Old Bear](../assets/Old_Bear.png)
 
-_Old Bear_
-
 ![Ghost Stag](../assets/Ghost_Stag.png)
 
-_Ghost Stag_
-
 ![Big Bass](../assets/Big_Bass_%28Raw%29_icon.png)
-
-_Big Bass_
 
 ### Other Animals
 
@@ -193,11 +139,7 @@ Other species of animals can be inferred to be in the game world, but are not se
 
 ![Fox](../assets/Pilgrim_icon.png)
 
-_Fox_
-
 ![Owl](../assets/Voyageur_icon.png)
-
-_Owl_
 
 ![Concept art of Astrid Greenwood finding a dead killer whale](../assets/Desolation-Point.jpg)
 
@@ -221,15 +163,9 @@ _A Grizzly Bear on the [Tail Section](./Tail%20Section.md)_
 
 ![A female Moose as seen in a painting](../assets/Paintings.png)
 
-_A female Moose as seen in a painting_
-
 ![A Cougar on the back of the old Frontier Shooting Guide Research Book](../assets/Frontier_Shooting_Guide_Old.png)
 
-_A Cougar on the back of the old Frontier Shooting Guide Research Book_
-
 ![A Polar Bear on the back of the old The Frozen Angler Research Book](../assets/Frozen_Angler_Old.png)
-
-_A Polar Bear on the back of the old The Frozen Angler Research Book_
 
 ![Sardines on Tin of Sardines](../assets/Tin_of_Sardines_icon.png)
 
@@ -257,15 +193,11 @@ _Dogs and [Dog Food](./Dog%20Food.md)_
 
 ![Doghouse](../assets/Doghouse.jpg)
 
-_Doghouse_
-
 ### The Darkwalker
 
 While not considered wildlife (being treated more as a kind of sapient, eldritch creature that simply hunts the player), the Darkwalker is an "animal" with pathfinding A.I. that appears during the challenge [Escape the Darkwalker](./Escape%20the%20Darkwalker.md). It does not have a physical model, only producing footsteps in the snow and roaring as it grows closer, following the player with the sole purpose of killing them. It cannot be killed or harmed by normal means, only avoided or banished by completing the challenge.
 
 ![The Darkwalker](../assets/Darkwalker-Blog-Featured-Img.png)
-
-_The Darkwalker_
 
 ## Animal Spawning
 
@@ -294,19 +226,11 @@ While containing no AI, interactions with plants and fungi are an equally import
 
 ![Oak Tree](../assets/Oak_trees_Transfer_Pass.jpg)
 
-_Oak Tree_
-
 ![Burdock](../assets/Burdock_Plant.jpg)
-
-_Burdock_
 
 ![Birch Sapling with Rose Hip Bush](../assets/Birch_Sapling.jpg)
 
-_Birch Sapling with Rose Hip Bush_
-
 ![Maple Sapling](../assets/Maple_sapling_growing.png)
-
-_Maple Sapling_
 
 \[Missing image: Cat\_Tail\_plant.png\]
 
@@ -314,19 +238,13 @@ _Cat Tail_
 
 ![Rose Bush](../assets/Rose_hip_bush.jpg)
 
-_Rose Bush_
-
 ![A darker colored Rose Bush](../assets/RockClimb.jpg)
-
-_A darker colored Rose Bush_
 
 \[Missing image: Scrub\_Brush.png\]
 
 _Scrub Brush_
 
 ![Fully grown Birch trees](../assets/BearFlare.png)
-
-_Fully grown Birch trees_
 
 ### Fungi
 
@@ -335,11 +253,7 @@ _Fully grown Birch trees_
 
 ![Reishi Mushrooms](../assets/Reishi_mushrooms_on_tree_stump.jpg)
 
-_Reishi Mushrooms_
-
 ![Old Man's Beard Lichen](../assets/Old_Man%27s_Beard_Lichen_on_trees.jpg)
-
-_Old Man's Beard Lichen_
 
 ### Other Flora
 
@@ -347,11 +261,7 @@ Other examples of Flora include Bioluminescent Moss in [Ice Caves](./Ice%20Cave.
 
 ![Ice Cave moss](../assets/Ice_Cave_Moss.png)
 
-_Ice Cave moss_
-
 ![A tuffet bed made of Conifer leaves](../assets/Tuffet.png)
-
-_A tuffet bed made of Conifer leaves_
 
 ![Grapes on Stacy's Grape Soda](../assets/Stacy%27s_Grape_Soda_icon.png)
 
@@ -377,15 +287,9 @@ _"Demon Wolves" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.m
 
 ![ditto](../assets/Wolf_demon2.jpg)
 
-_ditto_
-
 ![A texture showing all in-game footprints from topright to left: Wolf, Ptarmigan, Deer, Rabbit, Moose, Bear, Human, Darkwalker, Cougar](../assets/Footsteps_Normal_Maps_AtlasTEX.png)
 
-_A texture showing all in-game footprints from topright to left: Wolf, Ptarmigan, Deer, Rabbit, Moose, Bear, Human, Darkwalker, Cougar_
-
 ![Bear Footprints](../assets/Bear%27s_footprints.png)
-
-_Bear Footprints_
 
 ## Trivia
 

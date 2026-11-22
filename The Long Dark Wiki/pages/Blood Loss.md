@@ -4,9 +4,7 @@
 
 **Blood Loss**
 
-![](../assets/Blood_Loss_icon.png)
-
-_Blood\_Loss\_icon.png_
+![Blood Loss icon](../assets/Blood_Loss_icon.png)
 
 **Properties**
 
@@ -24,7 +22,7 @@ _Blood\_Loss\_icon.png_
 
 **Treatment**
 
-**Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
 
 **Recovery Time:** Treated Instantly
 
@@ -50,5 +48,3 @@ Blood Loss from predator [Struggles](./Struggle.md) is always paired with an [In
 ## Gallery
 
 ![Old icon.](../assets/Blood_loss.png)
-
-_Old icon._

@@ -4,9 +4,7 @@
 
 **Improvised Insulation**
 
-![](../assets/Improvised_Insulation_icon.png)
-
-_Improvised\_Insulation\_icon.png_
+![Improvised Insulation icon](../assets/Improvised_Insulation_icon.png)
 
 **General**
 
@@ -14,27 +12,25 @@ _Improvised\_Insulation\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 20 minutes 2 × [Cloth](./Cloth.md) / 3 x [Ptarmigan Down](./Ptarmigan%20Down.md)
+**Harvest:** 20 minutes 2 × [Cloth](./Cloth.md)<br>3 x [Ptarmigan Down](./Ptarmigan%20Down.md)
 
-**Repair:** 1 × [Cloth](./Cloth.md) 2 x [Ptarmigan Down](./Ptarmigan%20Down.md) / 30 minutes / 60% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 2 x [Ptarmigan Down](./Ptarmigan%20Down.md)<br>30 minutes<br>60% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
@@ -69,11 +65,7 @@ _Ptarmigan\_icon.png_
 
 ![Clothing model icon](../assets/Improvised_Insulation_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Improvised_Insulation_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

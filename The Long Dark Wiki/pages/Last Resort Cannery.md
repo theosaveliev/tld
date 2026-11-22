@@ -16,15 +16,11 @@
 
 **Last Resort Cannery**
 
-![](../assets/SS-BI-Cannery03.jpg)
-
-_SS-BI-Cannery03.jpg_
+![SS BI Cannery03](../assets/SS-BI-Cannery03.jpg)
 
 **Location**
 
-![](../assets/Last_Resort_Cannery_Location.png)
-
-_Last\_Resort\_Cannery\_Location.png_
+![Last Resort Cannery Location](../assets/Last_Resort_Cannery_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -34,7 +30,7 @@ _Last\_Resort\_Cannery\_Location.png_
 
 **Type:** Industrial
 
-Has an interior / **Last Resort Cannery** is a major location in [Bleak Inlet](./Bleak%20Inlet.md). The cannery complex features a renewable source of a few important materials, a special workshop with some unique tools, and a trailer that can be used for shelter.
+Has an interior<br>**Last Resort Cannery** is a major location in [Bleak Inlet](./Bleak%20Inlet.md). The cannery complex features a renewable source of a few important materials, a special workshop with some unique tools, and a trailer that can be used for shelter.
 
 ## Overview
 
@@ -59,7 +55,7 @@ The trailer serves as a useful place to evade [timberwolves](./Timberwolf.md). I
 
 ## Warehouses
 
-![](../assets/SS-BI-Warehouse02.jpg)The cannery has 3 dilapidated warehouses surrounding an open work yard and dock area. The yard contains a few vehicles, some semitrailers, industrial equipment, and several green wooden crates.
+![SS BI Warehouse02](../assets/SS-BI-Warehouse02.jpg)The cannery has 3 dilapidated warehouses surrounding an open work yard and dock area. The yard contains a few vehicles, some semitrailers, industrial equipment, and several green wooden crates.
 
 Of the warehouses surrounding the area, two are broken down and mostly open to the outdoors; they provide little shelter from the elements but might contain a few supplies. Another warehouse is situated just off the pier and contains the workshop, but it is difficult to access. The other four warehouses are also more difficult to gain entry to and offer some limited protection from the weather.
 
@@ -77,13 +73,13 @@ After completing the course, the player can enter the pier warehouse's outer ent
 
 The workshop cannot be accessed through any alternate path, and the key-code cannot be guessed through trial and error. The player must read the Communication Report letter that is inside the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) in [Bleak Inlet](./Bleak%20Inlet.md). You do not need to take the report, but the player character must have seen the code document at least once.
 
-The first time, the player will only be able to enter the workshop during an [aurora](./Aurora.md) when the electronic keypad is active and the code can be entered to unlock the door. ![](../assets/SS-BI-Workshop02.jpg)Once door is unlocked, entrance to the workshop remains unlocked.
+The first time, the player will only be able to enter the workshop during an [aurora](./Aurora.md) when the electronic keypad is active and the code can be entered to unlock the door. ![SS BI Workshop02](../assets/SS-BI-Workshop02.jpg)Once door is unlocked, entrance to the workshop remains unlocked.
 
 Whenever the player passes through the workshop's door, there is a random chance of encountering a wolf. Once the wolf is dealt with, the player will be able to access the milling machine and the ammunition workbench. As the aurora appears frequently in this region, use caution around the live wires scattered about.
 
 ## Dangers
 
-![](../assets/SS-BI-TimberWolf.jpg)The Cannery is usually guarded by one or two packs of [timberwolves](./Timberwolf.md). Extreme caution should be used when nearing the facility complex as the number of timberwolves present could easily overwhelm the player.
+![SS BI TimberWolf](../assets/SS-BI-TimberWolf.jpg)The Cannery is usually guarded by one or two packs of [timberwolves](./Timberwolf.md). Extreme caution should be used when nearing the facility complex as the number of timberwolves present could easily overwhelm the player.
 
 Before venturing into the open outdoors in the area, it is advisable to drop any gear that isn't essential, especially before attempting to reach the workshop. The player will have to climb a rope to get away from the timberwolves and get started on the obstacle course. Because you can't climb while encumbered, you will need to be unencumbered to reach the catwalks that make up the first part of the course.
 
@@ -128,72 +124,36 @@ Warehouse 3 (Loading Dock)
 
 ![Cannery](../assets/SS-BI-Cannery01.jpg)
 
-_Cannery_
-
 ![Cannery](../assets/SS-BI-Cannery02.jpg)
-
-_Cannery_
 
 ![Cannery (full view)](../assets/SS-BI-Cannery03.jpg)
 
-_Cannery (full view)_
-
 ![Cannery (view from the sea)](../assets/SS-BI-Cannery04.jpg)
-
-_Cannery (view from the sea)_
 
 ![Cannery Pier](../assets/SS-BI-CanneryPier02.jpg)
 
-_Cannery Pier_
-
 ![The Harbinger](../assets/SS-BI-TheHarbinger.jpg)
-
-_The Harbinger_
 
 ![Warehouse (rope)](../assets/SS-BI-Warehouse01.jpg)
 
-_Warehouse (rope)_
-
 ![Warehouse (barrel and bed)](../assets/SS-BI-Warehouse02.jpg)
-
-_Warehouse (barrel and bed)_
 
 ![Workshop (keypad)](../assets/SS-BI-Workshop-Keypad.jpg)
 
-_Workshop (keypad)_
-
 ![Workshop (inside)](../assets/SS-BI-Workshop01.jpg)
-
-_Workshop (inside)_
 
 ![Workshop (the ammunition workbench and milling machine )](../assets/SS-BI-Workshop02.jpg)
 
-_Workshop (the ammunition workbench and milling machine )_
-
 ![Timber wolf](../assets/SS-BI-TimberWolf.jpg)
-
-_Timber wolf_
 
 ![Gatehouse](../assets/SS-BI-Cannery-Gatehouse.jpg)
 
-_Gatehouse_
-
 ![Obstacle Course](../assets/SS-BI-Cannery-ObstacleCourse.jpg)
-
-_Obstacle Course_
 
 ![Common Wolf encounters](../assets/20210118151624_1.jpg)
 
-_Common Wolf encounters_
-
 ![Dawn at Cannery](../assets/20210111153142_1.jpg)
-
-_Dawn at Cannery_
 
 ![Bunker down](../assets/20210111153220_1.jpg)
 
-_Bunker down_
-
-![](../assets/LRCannery.png)
-
-_LRCannery.png_
+![LRCannery](../assets/LRCannery.png)

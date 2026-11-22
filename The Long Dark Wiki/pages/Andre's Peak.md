@@ -4,15 +4,11 @@
 
 **Andre's Peak**
 
-![](../assets/Andres_peak.jpg)
-
-_andres\_peak.jpg_
+![Andres peak](../assets/Andres_peak.jpg)
 
 **Location**
 
-![](../assets/Andre%27s_Peak_Location.png)
-
-_Andre's\_Peak\_Location.png_
+![Andre's Peak Location](../assets/Andre%27s_Peak_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -30,11 +26,7 @@ On the peak is [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), [r
 
 ![The small cave on Andre's Peak](../assets/Andres_peak_cave.jpg)
 
-_The small cave on Andre's Peak_
-
 ![A panoramic view from the peak](../assets/Andres_peak_panorama.jpg)
-
-_A panoramic view from the peak_
 
 ## Trivia
 

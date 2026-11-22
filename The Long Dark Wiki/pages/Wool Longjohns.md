@@ -11,9 +11,7 @@
 
 **Wool Longjohns**
 
-![](../assets/Wool_Longjohns_icon.png)
-
-_Wool\_Longjohns\_icon.png_
+![Wool Longjohns icon](../assets/Wool_Longjohns_icon.png)
 
 **General**
 
@@ -23,21 +21,21 @@ _Wool\_Longjohns\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)35%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)35%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 45 minutes / 50% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>45 minutes<br>50% condition
 
 > “**Wool longjohns make a great underlayer for your legs. Warm but not very sturdy.**”
 >
@@ -59,15 +57,9 @@ Longjohns are not available on [Interloper mode](./Survival%20Mode.md).
 
 ![Old model.](../assets/Wool_long_underwear_%28historical%29.png)
 
-_Old model._
-
 ![Clothing model icon](../assets/Wool_Longjohns_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Wool_Longjohns_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

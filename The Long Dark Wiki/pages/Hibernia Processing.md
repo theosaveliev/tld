@@ -13,15 +13,13 @@
 
 **Hibernia Processing**
 
-\[\[File: / ![Exterior](../assets/Hibernia_Processing_Area_View_01.jpg) / _Exterior_ / ![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg) / _Interior_
+![Exterior](../assets/Hibernia_Processing_Area_View_01.jpg)<br>![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Hibernia_Processing_Location.png)
-
-_Hibernia\_Processing\_Location.png_
+![Hibernia Processing Location](../assets/Hibernia_Processing_Location.png)
 
 Region
 
@@ -39,15 +37,11 @@ Industrial
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -93,44 +87,22 @@ Due to its spacious interior and many amenities, along with the nearby forge at 
 
 ![Hibernia Processing, view on a corpse from the snowdrift on the maintenance floor.](../assets/Hibernia_Processing_View_On_the_Corpse.jpg)
 
-_Hibernia Processing, view on a corpse from the snowdrift on the maintenance floor._
-
 ![Hibernia Processing, staff lounge, view from the locker room entrance.](../assets/Hibernia_Processing_Staff_Lounge_02.jpg)
-
-_Hibernia Processing, staff lounge, view from the locker room entrance._
 
 ![Hibernia Processing, staff lounge, view from the stairs.](../assets/Hibernia_Processing_Staff_Lounge_01.jpg)
 
-_Hibernia Processing, staff lounge, view from the stairs._
-
 ![Hibernia Processing, office, view through the window from staff lounge.](../assets/Hibernia_Processing_Office_01.jpg)
-
-_Hibernia Processing, office, view through the window from staff lounge._
 
 ![Hibernia Processing, maintenance floor, view from the office.](../assets/Hibernia_Processing_Maintenance_Floor_01.jpg)
 
-_Hibernia Processing, maintenance floor, view from the office._
-
 ![Hibernia Processing, locker room, view from the staff lounge entrance.](../assets/Hibernia_Processing_Locker_Room_02.jpg)
-
-_Hibernia Processing, locker room, view from the staff lounge entrance._
 
 ![Hibernia Processing, locker room, view from the office.](../assets/Hibernia_Processing_Locker_Room_01.jpg)
 
-_Hibernia Processing, locker room, view from the office._
-
 ![Hibernia Processing, processing hall, view from the engine room.](../assets/Hibernia_Processing_Hall_From_Engine_Room.jpg)
-
-_Hibernia Processing, processing hall, view from the engine room._
 
 ![Hibernia Processing, processing hall, view from the first floor entrance.](../assets/Hibernia_Processing_Hall_From_Door.jpg)
 
-_Hibernia Processing, processing hall, view from the first floor entrance._
-
 ![Hibernia Processing Engine Room, view from the stairs.](../assets/Hibernia_Processing_Engine_Room.jpg)
 
-_Hibernia Processing Engine Room, view from the stairs._
-
 ![Example location of a battery added with Patch 2.38](../assets/HiberniaProcessingBattery.png)
-
-_Example location of a battery added with Patch 2.38_

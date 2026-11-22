@@ -4,9 +4,7 @@
 
 **Lock Box**
 
-![](../assets/Lock_Box.jpg)
-
-_Lock\_Box.jpg_
+![Lock Box](../assets/Lock_Box.jpg)
 
 **Release:** TBD
 

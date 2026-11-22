@@ -4,9 +4,7 @@
 
 **Emergency Kit Note**
 
-![](../assets/Emergency_Kit_Note_icon.png)
-
-_Emergency\_Kit\_Note\_icon.png_
+![Emergency Kit Note icon](../assets/Emergency_Kit_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

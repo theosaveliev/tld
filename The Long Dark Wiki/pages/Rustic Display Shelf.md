@@ -4,9 +4,7 @@
 
 **Rustic Display Shelf**
 
-![](../assets/Rustic_Display_Shelf_icon.png)
-
-_Rustic\_Display\_Shelf\_icon.png_
+![Rustic Display Shelf icon](../assets/Rustic_Display_Shelf_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

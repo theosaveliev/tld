@@ -12,9 +12,7 @@
 
 **Coho Salmon (Cooked)**
 
-![](../assets/Coho_Salmon_%28Cooked%29_icon.png)
-
-_Coho\_Salmon\_(Cooked)\_icon.png_
+![Coho Salmon (Cooked) icon](../assets/Coho_Salmon_%28Cooked%29_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
@@ -71,27 +69,15 @@ Cooking Salmon improves the [Cooking Skill](./Skills.md#Cooking) and requires a 
 
 ![Raw Uncooked Prepared](../assets/Coho_Salmon_%28Cooked%29_icon.png)
 
-_Raw Uncooked Prepared_
-
 ![Fresh](../assets/Coho_Salmon_%28Cooked%29_Fresh_icon.png)
-
-_Fresh_
 
 ![Gamey](../assets/Coho_Salmon_%28Cooked%29_Gamey_icon.png)
 
-_Gamey_
-
 ![Mouldy](../assets/Coho_Salmon_%28Cooked%29_Mouldy_icon.png)
-
-_Mouldy_
 
 ![Rancid](../assets/Coho_Salmon_%28Cooked%29_Rancid_icon.png)
 
-_Rancid_
-
 ![Ruined](../assets/Coho_Salmon_%28Cooked%29_Ruined_icon.png)
-
-_Ruined_
 
 ## Trivia
 

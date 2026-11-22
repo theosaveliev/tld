@@ -9,13 +9,11 @@
 - [Products](#products)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Salt** / ![](../assets/Salt_icon.png) / _Salt\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** Yes / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** Yes / **Examine:** A seasoning and preservative. / **Values** / **Weight:** 0.25 kg (0.55 lbs) / **Decay Rate** / **Inside:** 0.000% per day / **Outside:** 0.000% per day / **Advanced data** / **Item key:** GAMEPLAY\_Salt / _For the larger Salt bags, see [Salt (Bag)](./Salt%20%28Bag%29.md)._ / **Salt** is a [seasoning](./Food%20And%20Drink.md) and preservative in _[The Long Dark](./The%20Long%20Dark.md)_.
+<br>**Salt**<br>![Salt icon](../assets/Salt_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** Yes<br>**Examine:** A seasoning and preservative.<br>**Values**<br>**Weight:** 0.25 kg (0.55 lbs)<br>**Decay Rate**<br>**Inside:** 0.000% per day<br>**Outside:** 0.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Salt<br>_For the larger Salt bags, see [Salt (Bag)](./Salt%20%28Bag%29.md)._<br>**Salt** is a [seasoning](./Food%20And%20Drink.md) and preservative in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Usage
 

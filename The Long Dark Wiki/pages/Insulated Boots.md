@@ -4,9 +4,7 @@
 
 **Insulated Boots**
 
-![](../assets/Insulated_Boots_icon.png)
-
-_Insulated\_Boots\_icon.png_
+![Insulated Boots icon](../assets/Insulated_Boots_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Insulated\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)4%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)4%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-12%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-12%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md),<br>1 × [Cloth](./Cloth.md)<br>90 minutes<br>30% condition
 
 > “**Highly waterproof boots made of synthetic materials. The felt inner liner keeps your feet nice and warm. Their bulk will slow you down.**”
 >
@@ -48,12 +46,6 @@ The rare [Mukluks](./Mukluks.md) are half a degree colder and 10% less waterproo
 
 ![Old model.](../assets/Insulated_boots_%28historical%29.png)
 
-_Old model._
-
 ![Clothing model icon](../assets/Insulated_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Insulated_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_

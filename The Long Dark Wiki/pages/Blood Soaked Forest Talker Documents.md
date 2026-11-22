@@ -4,9 +4,7 @@
 
 **Blood Soaked Forest Talker Documents**
 
-![](../assets/Blood_Soaked_Forest_Talker_Documents_icon.png)
-
-_Blood\_Soaked\_Forest\_Talker\_Documents\_icon.png_
+![Blood Soaked Forest Talker Documents icon](../assets/Blood_Soaked_Forest_Talker_Documents_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

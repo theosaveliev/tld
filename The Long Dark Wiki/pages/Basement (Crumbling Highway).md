@@ -4,9 +4,7 @@
 
 **Basement (Crumbling Highway)**
 
-![](../assets/Crumbling_Highway_Basement.jpg)
-
-_Crumbling\_Highway\_Basement.jpg_
+![Crumbling Highway Basement](../assets/Crumbling_Highway_Basement.jpg)
 
 **Location**
 
@@ -18,17 +16,11 @@ _Crumbling\_Highway\_Basement.jpg_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 **Basement (Crumbling Highway)** is a sheltered indoor location in [Crumbling Highway](./Crumbling%20Highway.md), behind one of the houses in the [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) location.
 

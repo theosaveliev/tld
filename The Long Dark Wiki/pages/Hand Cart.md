@@ -4,9 +4,7 @@
 
 **Hand Cart**
 
-![](../assets/HandCart.jpg)
-
-_HandCart.jpg_
+![HandCart](../assets/HandCart.jpg)
 
 **General**
 

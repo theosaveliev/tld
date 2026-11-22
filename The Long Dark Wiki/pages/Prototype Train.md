@@ -21,13 +21,11 @@
 
 **Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Prototype+Train&amp;action=edit expanding it\].**
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- ![](../assets/TLDHOME_Survival_Expansion_IronRoad.png) / The **Prototype Train** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). It is part of the [_Iron Road_](./Iron%20Road.md) expansion for [Survival Mode](./Survival%20Mode.md) and is found exclusively on [Cauldron Island](./Cauldron%20Island.md).
+ ![TLDHOME Survival Expansion IronRoad](../assets/TLDHOME_Survival_Expansion_IronRoad.png)<br>The **Prototype Train** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). It is part of the [_Iron Road_](./Iron%20Road.md) expansion for [Survival Mode](./Survival%20Mode.md) and is found exclusively on [Cauldron Island](./Cauldron%20Island.md).
 
 ## Overview
 
@@ -119,11 +117,7 @@ Other information to consider:
 
 ![Whale Oil Refueling Tank](../assets/Whale_Oil_Refueling.jpg)
 
-_Whale Oil Refueling Tank_
-
 ![Water Refueling Tower](../assets/Water_Tower_Refueling.jpg)
-
-_Water Refueling Tower_
 
 The Prototype Train uses Whale Oil as a fuel source and Water that is heated up into steam to build PSI. Both fuel types will gradually deplete over time, and the train must be refueled to continue operating it. Scattered across Cauldron Island are Railyards that can contain either a [Water Tower](./Water%20Tower.md) or [Oil Tank](./Oil%20Tank.md). Sometimes only one type is found at a Railyard, but occasionally both are nearby.
 
@@ -142,9 +136,7 @@ The back side of the train must be parked very close to the Water Tower or Oil T
 
 ### Repairing and Refueling
 
-![](../assets/Train_Status_Survival_Menu.jpg)
-
-_Train\_Status\_Survival\_Menu.jpg_
+![Train Status Survival Menu](../assets/Train_Status_Survival_Menu.jpg)
 
 As the player rides around, parts of the train will begin to wear down. All metallic parts require the [Heavy Hammer](./Heavy%20Hammer.md) to fix. Successful Repairs raise the [Repair](./Repair.md) skill by 1 point, and always repair 20%-25% condition upon success (regardless of skill level). Train components' status can always be viewed either in person or in the Train Status section of the [Survival Menu](./Survival%20Menu.md) (this menu does not update in real time, and must be refreshed when damage is taken).
 
@@ -160,38 +152,26 @@ Repairing can take considerable time (up to several hours at a time), so finding
 
 | Train Part | Cause of Wear | Breakdown Consequences | Condition Penalty | Repair Costs | Repair Times |
 | --- | --- | --- | --- | --- | --- |
-| Cowcatcher | Running into hard track obstacles | Cannot ram train track obstacles? (untested) Boiler is damaged when ramming objects when Cowcatcher is 50% or lower | N/A | 2 x ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) ![](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1 Hour (20%) 1 Hour (25% when starting from ruined) |
-| Boiler | Shifting to 2 speed while PSI over-pressured (chance to drain condition 1% every 3.5 seconds. At 50% or lower, chance to instantly explode boiler.) Ramming hard track hazards with a low condition Cowcatcher | Boiler explodes inside the cabin, causing [Burns](./Burns.md). Boiler condition set to 0%, train immediately loses all stored PSI, Engine cannot be started. Cannot move until Boiler is repaired. | N/A | 2 x![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) ![](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1 Hour (20%) 1 Hour (25% when starting from ruined) |
-| Wheels | Riding over [Damaged Track](./Damaged%20Track.md) at high speed Riding over Electrified Track | Wheels do not grip to tracks properly. Acceleration penalty and increased whale oil burn rate penalty applied. | - 75-100% (0% acceleration penalty, +0% whale oil burn rate)<br>- 50-75% (-10% acceleration penalty, +10% whale oil burn rate)<br>- 1-50% (-25% acceleration penalty, +15% whale oil burn rate)<br>- 0% (-50% acceleration penalty, +25% whale oil burn rate) | 2 x![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) ![](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (20%) 1.5 Hours (25% when starting from ruined) |
-| Brake Shoes | Brake application | Cannot brake properly. | Takes longer to slow down (possibly bugged, braking does not change even at 0%) | 1 x![](../assets/Brake_Shoe_icon.png) [Brake Shoe](./Brake%20Shoe.md) ![](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (100% when starting from ruined) |
-| Water Tank | Normal use | Cannot build up PSI to move train Engine automatically turns off Boiler and cannot be ignited | N/A | Add![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)/![](../assets/Water_%28Unsafe%29_icon.png) [Water (Unsafe)](./Water%20%28Unsafe%29.md) ([Water Tower](./Water%20Tower.md) refuel station or by hand) | 5 minutes per 20.00 L |
-| Fuel Tank | Normal use | Cannot ignite Boiler | N/A | Add ![](../assets/Whale_Oil_Can_icon.png) [Whale Oil Can](./Whale%20Oil%20Can.md) ([Oil Tank](./Oil%20Tank.md) refuel station or by hand) | 5 minutes per 20.00 L |
+| Cowcatcher | Running into hard track obstacles | Cannot ram train track obstacles? (untested) Boiler is damaged when ramming objects when Cowcatcher is 50% or lower | N/A | 2 x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1 Hour (20%) 1 Hour (25% when starting from ruined) |
+| Boiler | Shifting to 2 speed while PSI over-pressured (chance to drain condition 1% every 3.5 seconds. At 50% or lower, chance to instantly explode boiler.) Ramming hard track hazards with a low condition Cowcatcher | Boiler explodes inside the cabin, causing [Burns](./Burns.md). Boiler condition set to 0%, train immediately loses all stored PSI, Engine cannot be started. Cannot move until Boiler is repaired. | N/A | 2 x![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1 Hour (20%) 1 Hour (25% when starting from ruined) |
+| Wheels | Riding over [Damaged Track](./Damaged%20Track.md) at high speed Riding over Electrified Track | Wheels do not grip to tracks properly. Acceleration penalty and increased whale oil burn rate penalty applied. | - 75-100% (0% acceleration penalty, +0% whale oil burn rate)<br>- 50-75% (-10% acceleration penalty, +10% whale oil burn rate)<br>- 1-50% (-25% acceleration penalty, +15% whale oil burn rate)<br>- 0% (-50% acceleration penalty, +25% whale oil burn rate) | 2 x![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (20%) 1.5 Hours (25% when starting from ruined) |
+| Brake Shoes | Brake application | Cannot brake properly. | Takes longer to slow down (possibly bugged, braking does not change even at 0%) | 1 x![Brake Shoe icon](../assets/Brake_Shoe_icon.png) [Brake Shoe](./Brake%20Shoe.md) ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (100% when starting from ruined) |
+| Water Tank | Normal use | Cannot build up PSI to move train Engine automatically turns off Boiler and cannot be ignited | N/A | Add![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)/![Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) [Water (Unsafe)](./Water%20%28Unsafe%29.md) ([Water Tower](./Water%20Tower.md) refuel station or by hand) | 5 minutes per 20.00 L |
+| Fuel Tank | Normal use | Cannot ignite Boiler | N/A | Add ![Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) [Whale Oil Can](./Whale%20Oil%20Can.md) ([Oil Tank](./Oil%20Tank.md) refuel station or by hand) | 5 minutes per 20.00 L |
 
 ### Traveling and Track Hazards
 
 ![Chained Metal Gates](../assets/Train_Hazard_Gates.jpg)
 
-_Chained Metal Gates_
-
 ![Chained Metal Gate (alternate model)](../assets/Train_Hazard_Gate_2.jpg)
-
-_Chained Metal Gate (alternate model)_
 
 ![Fallen Trees](../assets/Train_Hazard_Trees.jpg)
 
-_Fallen Trees_
-
 ![Flatbed Cars can sometimes be rammed and freely moved](../assets/Train_Hazard_Car.jpg)
-
-_Flatbed Cars can sometimes be rammed and freely moved_
 
 ![Deep Snow Drift](../assets/Train_Hazard_Snow_Drift.jpg)
 
-_Deep Snow Drift_
-
 ![Damaged Tracks](../assets/Damaged_Tracks.jpg)
-
-_Damaged Tracks_
 
 Sometimes objects and hazards litter the abandoned railways of Cauldron Island. A list of Track Hazards that include:
 
@@ -228,35 +208,19 @@ Driving into a [Repair Depot's](./Repair%20Depot.md) doors will never damage the
 
 ![Concept art of the train](../assets/Iron_Road_Steam_Train_Art.png)
 
-_Concept art of the train_
-
 ![ditto](../assets/IronRoadTrainTrestle.png)
-
-_ditto_
 
 ![ditto, inside cabin](../assets/Prototype_Train_Concept_Art.png)
 
-_ditto, inside cabin_
-
 ![The train when found](../assets/Prototype_Train.jpg)
-
-_The train when found_
 
 ![The train's whistle](../assets/Train_Whistle.jpg)
 
-_The train's whistle_
-
 ![Interior of the train](../assets/Prototype_Train_Interior.jpg)
 
-_Interior of the train_
+![Iron Train](../assets/Iron_Train.jpg)
 
-![](../assets/Iron_Train.jpg)
-
-_Iron\_Train.jpg_
-
-![](../assets/Iron_Train_2.jpg)
-
-_Iron\_Train\_2.jpg_
+![Iron Train 2](../assets/Iron_Train_2.jpg)
 
 ## Game History
 

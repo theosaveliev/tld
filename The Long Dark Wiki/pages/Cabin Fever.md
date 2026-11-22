@@ -14,9 +14,7 @@
 
 **Cabin Fever**
 
-![](../assets/Cabin_Fever_icon.png)
-
-_Cabin\_Fever\_icon.png_
+![Cabin Fever icon](../assets/Cabin_Fever_icon.png)
 
 **Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338)
 
@@ -95,37 +93,13 @@ Here are a few examples:
 
 Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as spent outdoors when consumed, based on the amount eaten. However, they require many ingredients to make and give only a few hours of additional time at most.
 
-**Item:** Name
-
-![](../assets/Breyerhouse_Pie_icon.png)
-
-_Breyerhouse\_Pie\_icon.png_
-
-[Breyerhouse Pie](./Breyerhouse%20Pie.md)
-
-![](../assets/Coastal_Fishcakes_icon.png)
-
-_Coastal\_Fishcakes\_icon.png_
-
-[Coastal Fishcakes](./Coastal%20Fishcakes.md)
-
-![](../assets/Dockworker%27s_Pie_icon.png)
-
-_Dockworker's\_Pie\_icon.png_
-
-[Dockworker's Pie](./Dockworker%27s%20Pie.md)
-
-![](../assets/Prepper%27s_Pie_icon.png)
-
-_Prepper's\_Pie\_icon.png_
-
-[Prepper's Pie](./Prepper%27s%20Pie.md)
-
-![](../assets/Stalker%27s_Pie_icon.png)
-
-_Stalker's\_Pie\_icon.png_
-
-[Stalker's Pie](./Stalker%27s%20Pie.md)
+| Item | Name |
+| --- | --- |
+| ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
+| ![Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
+| ![Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
+| ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
+| ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
 ## Interloper/Misery
 

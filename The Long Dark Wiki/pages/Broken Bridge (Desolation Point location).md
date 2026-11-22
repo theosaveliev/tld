@@ -4,15 +4,11 @@
 
 **Broken Bridge (Desolation Point location)**
 
-![](../assets/Broken_Bridge.jpg)
-
-_Broken\_Bridge.jpg_
+![Broken Bridge](../assets/Broken_Bridge.jpg)
 
 **Location**
 
-![](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png)
-
-_Broken\_Bridge\_(Desolation\_Point\_location)\_Location.png_
+![Broken Bridge (Desolation Point location) Location](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 
@@ -31,5 +27,3 @@ For players who have installed [The Long Development](./The%20Long%20Development
 ## Gallery
 
 ![A view of the underside of the bridge.](../assets/Broken_Bridge_underside.jpg)
-
-_A view of the underside of the bridge._

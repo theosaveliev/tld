@@ -4,7 +4,7 @@
 
 **Phone Box**
 
-\[\[File: / ![Closed](../assets/Phone_Box.jpg) / _Closed_ / ![Opened](../assets/Phone_Box_Open.jpg) / _Opened_
+![Closed](../assets/Phone_Box.jpg)<br>![Opened](../assets/Phone_Box_Open.jpg)
 
 250px\]\]
 

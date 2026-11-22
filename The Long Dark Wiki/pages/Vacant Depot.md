@@ -4,15 +4,11 @@
 
 **Vacant Depot**
 
-![](../assets/Vacant_Depot.png)
-
-_Vacant\_Depot.png_
+![Vacant Depot](../assets/Vacant_Depot.png)
 
 **Location**
 
-![](../assets/Vacant_Depot_Location.png)
-
-_Vacant\_Depot\_Location.png_
+![Vacant Depot Location](../assets/Vacant_Depot_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 
@@ -22,7 +18,7 @@ _Vacant\_Depot\_Location.png_
 
 **Type:** Industrial
 
-Provides some shelter / The **Vacant Depot** is a location in [Transfer Pass](./Transfer%20Pass.md), located near the center of the region.
+Provides some shelter<br>The **Vacant Depot** is a location in [Transfer Pass](./Transfer%20Pass.md), located near the center of the region.
 
 ## Overview
 
@@ -44,16 +40,8 @@ Several of the picture frames inside the Vacant Depot were changed with the rele
 
 ![The timetable outside](../assets/Vacant_Depot_Timetable.jpg)
 
-_The timetable outside_
+![Vacant Depot Miner Photos](../assets/Vacant_Depot_Miner_Photos.jpg)
 
-![](../assets/Vacant_Depot_Miner_Photos.jpg)
+![Vacant Depot Langston Mine Photo](../assets/Vacant_Depot_Langston_Mine_Photo.jpg)
 
-_Vacant\_Depot\_Miner\_Photos.jpg_
-
-![](../assets/Vacant_Depot_Langston_Mine_Photo.jpg)
-
-_Vacant\_Depot\_Langston\_Mine\_Photo.jpg_
-
-![](../assets/Vacant_Depot_Aurora.jpg)
-
-_Vacant\_Depot\_Aurora.jpg_
+![Vacant Depot Aurora](../assets/Vacant_Depot_Aurora.jpg)

@@ -12,15 +12,13 @@
 
 **Mending**
 
-![](../assets/Mending_background.png)
-
-_Mending\_background.png_
+![Mending background](../assets/Mending_background.png)
 
 **Release:** [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
 
 **Date:** 23 September 2016
 
-![](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.
+![Mending](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.
 
 ## Repairable Items
 
@@ -28,7 +26,7 @@ The following items can be repaired with the Mending skill:
 
 - Any non-Ruined:
   - [Clothing](./Clothing.md) ([Cloth](./Cloth.md) clothes, [Leather](./Cured%20Leather.md) clothes, [Metal](./Scrap%20Metal.md) accessories)
-  - Bedrolls (![](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md), ![](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md), ![](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md))
+  - Bedrolls (![Bedroll icon](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md), ![Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md), ![Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md))
 
 Ruined Clothing cannot be repaired, only harvested for materials. The Mending skill does not lower clothing crafting times or increase when crafting clothing.
 
@@ -44,111 +42,28 @@ Failing to repair results in the materials used in the repair to be wasted, but 
 
 A tool is required to repairing Clothing. Sewing Kits can be found by looting. Fishing Tackle can be found or crafted from [Hook](./Hook.md) and [Line](./Line.md). Fishing Tackle is 100% slower (twice as long) to repair than using Sewing Kits. Some items such as [Crampons](./Crampons.md) and [Improvised Crampons](./Improvised%20Crampons.md) required Scrap Metal and tools to fix.
 
-Tool
-
-![](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md)
-
-![](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
-
-![](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)
-
-![](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)
+| Tool |
+| --- |
+| ![Sewing Kit icon](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) |
+| ![Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
+| ![Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) |
+| ![Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
 
 ## Repair Materials
 
-Image
-
-Item
-
-Method
-
-![](../assets/Cloth_icon.png)
-
-_Cloth\_icon.png_
-
-[Cloth](./Cloth.md)
-
-Cloth is found by looting, harvesting cloth items (clothing, bedrolls, pillows, curtains), breaking down certain furniture (e.g comfy chair) and [Beachcombing](./Beachcombing.md).
-
-![](../assets/Cured_Leather_icon.png)
-
-_Cured\_Leather\_icon.png_
-
-[Cured Leather](./Cured%20Leather.md)
-
-Cured Leather is found by looting, harvesting leather clothing, and beachcombing.
-
-![](../assets/Scrap_Metal_icon.png)
-
-_Scrap\_Metal\_icon.png_
-
-[Scrap Metal](./Scrap%20Metal.md)
-
-Scrap Metal is harvested from metal objects and tools, or by looting.
-
-![](../assets/Cured_Gut_icon.png)
-
-_Cured\_Gut\_icon.png_
-
-[Cured Gut](./Cured%20Gut.md)
-
-Gut are [harvested or quartered](./Carcass%20Harvesting.md) from [animal](./Wildlife.md) carcasses (except Ptarmigan).
-
-![](../assets/Ptarmigan_Down_icon.png)
-
-_Ptarmigan\_Down\_icon.png_
-
-[Ptarmigan Down](./Ptarmigan%20Down.md)
-
-Ptarmigan Down is harvested from [Ptarmigan](./Ptarmigan.md) carcasses
-
-![](../assets/Cured_Rabbit_Pelt_icon.png)
-
-_Cured\_Rabbit\_Pelt\_icon.png_
-
-[Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
-
-Rabbit Pelts are harvested from [Rabbit](./Rabbit.md) carcasses.
-
-![](../assets/Cured_Deer_Hide_icon.png)
-
-_Cured\_Deer\_Hide\_icon.png_
-
-[Cured Deer Hide](./Cured%20Deer%20Hide.md)
-
-Deer Hides are harvested from [Deer](./Deer.md) carcasses.
-
-![](../assets/Cured_Wolf_Pelt_icon.png)
-
-_Cured\_Wolf\_Pelt\_icon.png_
-
-[Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)
-
-Wolf Pelts are harvested from [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md) carcasses.
-
-![](../assets/Cured_Black_Bear_Hide_icon.png)
-
-_Cured\_Black\_Bear\_Hide\_icon.png_
-
-[Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
-
-Black Bear Hides are harvested from [Bear](./Bear.md) carcasses.
-
-![](../assets/Cured_Moose_Hide_icon.png)
-
-_Cured\_Moose\_Hide\_icon.png_
-
-[Cured Moose Hide](./Cured%20Moose%20Hide.md)
-
-Moose Hides are harvested from [Moose](./Moose.md) carcasses.
-
-![](../assets/Cured_Cougar_Hide_icon.png)
-
-_Cured\_Cougar\_Hide\_icon.png_
-
-[Cured Cougar Hide](./Cured%20Cougar%20Hide.md)
-
-Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses.
+| Image | Item | Method |
+| --- | --- | --- |
+| ![Cloth icon](../assets/Cloth_icon.png) | [Cloth](./Cloth.md) | Cloth is found by looting, harvesting cloth items (clothing, bedrolls, pillows, curtains), breaking down certain furniture (e.g comfy chair) and [Beachcombing](./Beachcombing.md). |
+| ![Cured Leather icon](../assets/Cured_Leather_icon.png) | [Cured Leather](./Cured%20Leather.md) | Cured Leather is found by looting, harvesting leather clothing, and beachcombing. |
+| ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) | [Scrap Metal](./Scrap%20Metal.md) | Scrap Metal is harvested from metal objects and tools, or by looting. |
+| ![Cured Gut icon](../assets/Cured_Gut_icon.png) | [Cured Gut](./Cured%20Gut.md) | Gut are [harvested or quartered](./Carcass%20Harvesting.md) from [animal](./Wildlife.md) carcasses (except Ptarmigan). |
+| ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | Ptarmigan Down is harvested from [Ptarmigan](./Ptarmigan.md) carcasses |
+| ![Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png) | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | Rabbit Pelts are harvested from [Rabbit](./Rabbit.md) carcasses. |
+| ![Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png) | [Cured Deer Hide](./Cured%20Deer%20Hide.md) | Deer Hides are harvested from [Deer](./Deer.md) carcasses. |
+| ![Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | Wolf Pelts are harvested from [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md) carcasses. |
+| ![Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) | Black Bear Hides are harvested from [Bear](./Bear.md) carcasses. |
+| ![Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png) | [Cured Moose Hide](./Cured%20Moose%20Hide.md) | Moose Hides are harvested from [Moose](./Moose.md) carcasses. |
+| ![Cured Cougar Hide icon](../assets/Cured_Cougar_Hide_icon.png) | [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) | Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses. |
 
 _Note_: Fresh Animal hides must be [cured](./Curing.md) before they can be used in crafting/repair. Hides are cured by dropping/placing them indoors (e.g. inside of a house) or sufficiently deep [Warm Cave](./Warm%20Cave.md). If a hide is curing, it will display "X% cured", which will increase over time. Hides do not cure inside of containers or in the player's inventory.
 

@@ -13,9 +13,7 @@
 
 **Highway Robbery**
 
-![One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png)
-
-_One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_
+![One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png)<br>_One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -51,13 +49,13 @@ The first pickup truck has a trunk located in its bed. Search the trunk, taking 
 
 ## Rewards
 
-- 1 ![](../assets/Distress_Pistol_icon.png) [Distress Pistol](./Distress%20Pistol.md)
-- 4 ![](../assets/Flare_Shell_icon.png) [Flare Shells](./Flare%20Shell.md)
-- 2 ![](../assets/Peanut_Butter_icon.png) [Peanut Butter](./Peanut%20Butter.md)
-- 2 ![](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
-- 2 ![](../assets/Energy_Bar_icon.png) [Energy Bars](./Energy%20Bar.md)
-- 1 ![](../assets/Trail_Boots_icon.png) [Trail Boots](./Trail%20Boots.md)
-- 1 ![](../assets/Fleece_Mittens_icon.png) [Fleece Mittens](./Fleece%20Mittens.md)
+- 1 ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) [Distress Pistol](./Distress%20Pistol.md)
+- 4 ![Flare Shell icon](../assets/Flare_Shell_icon.png) [Flare Shells](./Flare%20Shell.md)
+- 2 ![Peanut Butter icon](../assets/Peanut_Butter_icon.png) [Peanut Butter](./Peanut%20Butter.md)
+- 2 ![Condensed Milk icon](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
+- 2 ![Energy Bar icon](../assets/Energy_Bar_icon.png) [Energy Bars](./Energy%20Bar.md)
+- 1 ![Trail Boots icon](../assets/Trail_Boots_icon.png) [Trail Boots](./Trail%20Boots.md)
+- 1 ![Fleece Mittens icon](../assets/Fleece_Mittens_icon.png) [Fleece Mittens](./Fleece%20Mittens.md)
 
 ## Transcript
 

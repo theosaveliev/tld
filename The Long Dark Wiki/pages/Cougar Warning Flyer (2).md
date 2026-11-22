@@ -4,9 +4,7 @@
 
 **Cougar Warning Flyer (2)**
 
-![](../assets/Cougar_Warning_Flyer_icon.png)
-
-_Cougar\_Warning\_Flyer\_icon.png_
+![Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png)
 
 **Properties**
 
@@ -43,7 +41,5 @@ COUGAR COUNTRY
 - Hike in groups whenever possible
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer_2.jpg)
-
-_The Flyer before it is picked up._
 
 ## Update history

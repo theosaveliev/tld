@@ -4,9 +4,7 @@
 
 **Register**
 
-![](../assets/Register.jpg)
-
-_Register.jpg_
+![Register](../assets/Register.jpg)
 
 **Release:** TBD
 

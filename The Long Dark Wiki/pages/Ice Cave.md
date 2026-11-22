@@ -23,26 +23,16 @@ Just like normal caves, lumps of [coal](./Coal.md) may occasionally be found lyi
 
 ## Gallery
 
-![](../assets/Map-IceCave-wtM-100.png)
+![Map IceCave wtM 100](../assets/Map-IceCave-wtM-100.png)
 
-_Map-IceCave-wtM-100.png_
-
-![](../assets/Map-IceCave-noM-101.png)
-
-_Map-IceCave-noM-101.png_
+![Map IceCave noM 101](../assets/Map-IceCave-noM-101.png)
 
 ![A rough map of the ice cave system](../assets/Ice_Cave_System.png)
 
-_A rough map of the ice cave system_
-
-![](../assets/River_Valley_-_cave.png)
-
-_River\_Valley\_-\_cave.png_
+![River Valley cave](../assets/River_Valley_-_cave.png)
 
 ![A frozen corpse in an ice cave](../assets/FrozenCorpseInAnIceCave.png)
 
 _A [frozen corpse](./Frozen%20Corpse.md) in an ice cave_
 
 ![An ice room lit with moss](../assets/IceRoomIceCave.png)
-
-_An ice room lit with moss_

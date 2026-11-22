@@ -9,7 +9,7 @@
 - [Gallery](#gallery)
 - [References](#references)
 
-![](../assets/Almanac.jpg)
+![Almanac](../assets/Almanac.jpg)
 
 The **almanac** is a tool that can be used in the [Whiteout](./Whiteout.md) [challenge](./Challenge.md). The almanac contains predictions for blizzards during the thirty days of the challenge. The blizzard placement is somewhat randomized, however the blizzards increase in category and frequency as time passes.
 
@@ -28,8 +28,6 @@ The almanac was first introduced in version [0.346](./The%20Long%20Dark%20%E2%80
 ## Gallery
 
 ![The previous almanac](../assets/Almanac.png)
-
-_The previous almanac_
 
 ## References
 

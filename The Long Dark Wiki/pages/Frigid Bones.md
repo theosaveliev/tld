@@ -4,9 +4,7 @@
 
 **Frigid Bones**
 
-![](../assets/Frigid_Bones_icon.png)
-
-_Frigid\_Bones\_icon.png_
+![Frigid Bones icon](../assets/Frigid_Bones_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -16,7 +14,7 @@ _Frigid\_Bones\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** You are chilled to the core. / Your Feels Like temperature is permanently reduced, and it takes you longer to warm up.
+**Description:** You are chilled to the core.<br>Your Feels Like temperature is permanently reduced, and it takes you longer to warm up.
 
 **Caused By:** [Misery Mode](./Misery.md)
 

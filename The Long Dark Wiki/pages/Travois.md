@@ -14,9 +14,7 @@
 
 **Travois**
 
-![](../assets/Travois_Icon.png)
-
-_Travois\_icon.png_
+![Travois Icon](../assets/Travois_Icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 
@@ -40,13 +38,11 @@ _Travois\_icon.png_
 
 **Item key:** GAMEPLAY\_Travois
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Travois** (pronounced Trav-wah) are a crafted vehicle for item transportation and storage in _The Long Dark_. They can be loaded with large amounts of items, then manually dragged to move them. It was introduced in Part 4 "Buried Echoes" update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). / **Warning**: As of [patch 2.50](https://store.steampowered.com/news/app/305620?updates=true&emclan=103582791436288468&emgid=526487474953781659) (December, 2025) on PC, the Travois can still fall under the terrain if left outside in a loaded state before transitioning through a loading screen, forcing the player to retrieve **ALL** its contents (with the exception of [Decorations](./Decorations.md), which will all be **LOST**) from a [Lost and Found](./Lost%20and%20Found.md) box appropriate to the [region](./Region.md) it was lost in. (Note: the Lost and Found box will always be found outdoors, in a predetermined place within the region.) As an added inconvenience, the Travois may be in a Ruined state when it is found. The Travois can even fly up in the air, instead of disappearing and being placed in a Lost and Found box, if left on the ground near certain locations (such as [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)), which will make the recovery of its contents impossible. To be completely safe, **NEVER** leave a loaded Travois on the ground before going through a loading screen.
+<br>**Travois** (pronounced Trav-wah) are a crafted vehicle for item transportation and storage in _The Long Dark_. They can be loaded with large amounts of items, then manually dragged to move them. It was introduced in Part 4 "Buried Echoes" update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).<br>**Warning**: As of [patch 2.50](https://store.steampowered.com/news/app/305620?updates=true&emclan=103582791436288468&emgid=526487474953781659) (December, 2025) on PC, the Travois can still fall under the terrain if left outside in a loaded state before transitioning through a loading screen, forcing the player to retrieve **ALL** its contents (with the exception of [Decorations](./Decorations.md), which will all be **LOST**) from a [Lost and Found](./Lost%20and%20Found.md) box appropriate to the [region](./Region.md) it was lost in. (Note: the Lost and Found box will always be found outdoors, in a predetermined place within the region.) As an added inconvenience, the Travois may be in a Ruined state when it is found. The Travois can even fly up in the air, instead of disappearing and being placed in a Lost and Found box, if left on the ground near certain locations (such as [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)), which will make the recovery of its contents impossible. To be completely safe, **NEVER** leave a loaded Travois on the ground before going through a loading screen.
 
 ## Overview
 
@@ -145,23 +141,13 @@ Travois lose condition over time when stored or moved and also when deployed in 
 
 ![Icon used in The Far Territory marketing](../assets/Travois_Icon.png)
 
-_Icon used in The Far Territory marketing_
-
 ![Travois concept art](../assets/Travois-in-storm-illustration-comp.jpg)
-
-_Travois concept art_
 
 ![Travois concept art 2](../assets/Travois_concept.jpg)
 
-_Travois concept art 2_
-
 ![Travois in-game screenshot](../assets/Travois.png)
 
-_Travois in-game screenshot_
-
 ![UI for loading and unloading the Travois](../assets/Travois_ui.png)
-
-_UI for loading and unloading the Travois_
 
 ## Update history
 

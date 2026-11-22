@@ -4,19 +4,15 @@
 
 **Whealy's Turn**
 
-![](../assets/Whealy%27s_Turn.jpg)
-
-_Whealy's\_Turn.jpg_
+![Whealy's Turn](../assets/Whealy%27s_Turn.jpg)
 
 **Location**
 
-![](../assets/Whealey%27s_Turn_Location.png)
-
-_Whealey's\_Turn\_Location.png_
+![Whealey's Turn Location](../assets/Whealey%27s_Turn_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
-Has no shelter / **Whealy's Turn** is an unmarked location in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md).
+Has no shelter<br>**Whealy's Turn** is an unmarked location in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md).
 
 ## Overview
 

@@ -4,9 +4,7 @@
 
 **Climber's Journal Page**
 
-![](../assets/Climber%27s_Journal_Page_icon.png)
-
-_Climber's\_Journal\_Page\_icon.png_
+![Climber's Journal Page icon](../assets/Climber%27s_Journal_Page_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 
@@ -55,8 +53,6 @@ Clear day. I went out again. Found some metal cargo crates. They look like they 
 ## Gallery
 
 ![Map on the back of the journal page.](../assets/Climber%27s_journal_page_-_map.jpg)
-
-_Map on the back of the journal page._
 
 ## Update history
 

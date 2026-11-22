@@ -4,9 +4,7 @@
 
 **Wool Ear Wrap**
 
-![](../assets/Wool_Ear_Wrap_icon.png)
-
-_Wool\_Ear\_Wrap\_icon.png_
+![Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Wool\_Ear\_Wrap\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
 
 > “**Covers your ears with an extra layer of Wool.**”
 >
@@ -54,11 +52,7 @@ Considering how rare they are, and as they offer only minimal protection but can
 
 ![Clothing model icon](../assets/Wool_Ear_Wrap_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Wool_Ear_Wrap_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

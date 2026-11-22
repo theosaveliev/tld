@@ -12,9 +12,7 @@
 
 **Mackenzie's Toque**
 
-![](../assets/Mackenzie%27s_Toque_icon.png)
-
-_Mackenzie's\_Toque\_icon.png_
+![Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png)
 
 **General**
 
@@ -22,32 +20,30 @@ _Mackenzie's\_Toque\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**The Toque you were wearing when you crashed in your plane.** / In-game description
+**The Toque you were wearing when you crashed in your plane.**<br>In-game description
 
 ”
 
@@ -77,11 +73,7 @@ Mackenzie's Toque is missing when playing [Episode 4: Fury, Then Silence](./Epis
 
 ![Clothing model](../assets/Mackenzie%27s_Toque_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Mackenzie%27s_Toque_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

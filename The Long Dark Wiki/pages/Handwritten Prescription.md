@@ -4,9 +4,7 @@
 
 **Handwritten Prescription**
 
-![](../assets/Handwritten_Prescription_icon.png)
-
-_Handwritten\_Prescription\_icon.png_
+![Handwritten Prescription icon](../assets/Handwritten_Prescription_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

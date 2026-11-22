@@ -13,15 +13,11 @@
 
 **Abandoned Lookout**
 
-![](../assets/New_forestry_lookout.jpg)
-
-_new\_forestry\_lookout.jpg_
+![New forestry lookout](../assets/New_forestry_lookout.jpg)
 
 **Location**
 
-![](../assets/Abandoned_Lookout_map.png)
-
-_Abandoned\_Lookout\_map.png_
+![Abandoned Lookout map](../assets/Abandoned_Lookout_map.png)
 
 **Region:** [Coastal Highway](./Coastal%20Highway.md)
 
@@ -31,9 +27,7 @@ _Abandoned\_Lookout\_map.png_
 
 **Type:** Military/Sporting
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -85,16 +79,8 @@ The [Quonset Garage](./Quonset%20Garage.md) and [Jackrabbit Island](./Jackrabbit
 
 ![A close up view of the lookout](../assets/Abandoned_Lookout.jpg)
 
-_A close up view of the lookout_
-
 ![A panoramic view from the top of the lookout](../assets/Abandoned_lookout_panorama.jpg)
 
-_A panoramic view from the top of the lookout_
-
-![](../assets/New_forestry_lookout2.jpg)
-
-_new\_forestry\_lookout2.jpg_
+![New forestry lookout2](../assets/New_forestry_lookout2.jpg)
 
 ![Overview at dawn](../assets/Abandonned_lookout_overview_at_dawn.jpg)
-
-_Overview at dawn_

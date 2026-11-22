@@ -4,7 +4,7 @@
 
 **Salt Deposit**
 
-\[\[File: / ![Full deposit](../assets/Salt_deposit.jpg) / _Full deposit_ / ![Depleted deposit](../assets/Salt_deposit_depleted.jpg) / _Depleted deposit_
+![Full deposit](../assets/Salt_deposit.jpg)<br>![Depleted deposit](../assets/Salt_deposit_depleted.jpg)
 
 250px\]\]
 

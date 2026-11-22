@@ -13,9 +13,7 @@
 
 **Arrowhead**
 
-![](../assets/Arrowhead_icon.png)
-
-_Arrowhead\_icon.png_
+![Arrowhead icon](../assets/Arrowhead_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -85,8 +83,6 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 ## Gallery
 
 ![Old model.](../assets/Arrowhead.png)
-
-_Old model._
 
 ## Update history
 

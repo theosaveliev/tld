@@ -11,9 +11,7 @@
 
 **Antibiotics**
 
-![](../assets/Antibiotics_icon.png)
-
-_Antibiotics\_icon.png_
+![Antibiotics icon](../assets/Antibiotics_icon.png)
 
 **General**
 
@@ -25,9 +23,9 @@ _Antibiotics\_icon.png_
 
 **Unit weight:** 0.02 kg/dose(0.04 lbs/dose)
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Unit count:** ![](../assets/Unit_count_icon.png)6 doses
+**Unit count:** ![Unit count icon](../assets/Unit_count_icon.png)6 doses
 
 > “**A bottle of Antibiotics. Take it to stop infections from spreading.**”
 >
@@ -58,8 +56,6 @@ One dose of Antibiotics consists of 2 Antibiotics pills. A single pill cannot be
 ## Gallery
 
 ![old model](../assets/Antibiotics.png)
-
-_old model_
 
 ## Trivia
 

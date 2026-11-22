@@ -14,15 +14,13 @@
 
 ![One of the hidden supply caches.](../assets/Bloodied_note.png)
 
-_One of the hidden supply caches._
-
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Current:** Mystery Lake Supply Caches
 
 **Next:** [Aurora Hatch](./Aurora%20Hatch.md)
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md)
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)<br>[Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Broken Railroad](./Broken%20Railroad.md)
 
 **Template:spoiler**
 
@@ -82,8 +80,4 @@ _Whenever Mackenzie finds a Hidden Cache, he will say a variation of these lines
 
 ![One of the hidden supply caches.](../assets/Cache.png)
 
-_One of the hidden supply caches._
-
 ![One of the notes which lead towards the caches.](../assets/Bloodied_note.png)
-
-_One of the notes which lead towards the caches._

@@ -4,9 +4,7 @@
 
 **Cougar Claw**
 
-![](../assets/Cougar_Claw_icon.png)
-
-_Cougar\_Claw\_icon.png_
+![Cougar Claw icon](../assets/Cougar_Claw_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -32,11 +30,9 @@ _Cougar\_Claw\_icon.png_
 
 **Item key:** GAMEPLAY\_CougarClaw
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Cougar Claw** is a [Material](./Materials.md) that can be crafted into a [Cougar Claw Knife](./Cougar%20Claw%20Knife.md).
 

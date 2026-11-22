@@ -11,9 +11,7 @@
 
 **Fresh Wolf Pelt**
 
-![](../assets/Fresh_Wolf_Pelt_icon.png)
-
-_Fresh\_Wolf\_Pelt\_icon.png_
+![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 
@@ -25,7 +23,7 @@ _Fresh\_Wolf\_Pelt\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested fur from a Wolf. Warm, and striking to look at. / Can be used for crafting and repair after air-drying indoors for 7 days.
+**Examine:** Freshly harvested fur from a Wolf. Warm, and striking to look at.<br>Can be used for crafting and repair after air-drying indoors for 7 days.
 
 **Values**
 
@@ -54,8 +52,6 @@ Each Wolf Carcass (or variant) will always contain one pelt, along with [meat](.
 ## Gallery
 
 ![Old model.](../assets/Fresh_wolf_pelt.png)
-
-_Old model._
 
 ## Update history
 

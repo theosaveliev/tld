@@ -12,9 +12,7 @@
 
 **Every Last One**
 
-![](../assets/Every_Last_One_icon.png)
-
-_Every\_Last\_One\_icon.png_
+![Every Last One icon](../assets/Every_Last_One_icon.png)
 
 **Description:** Collect all six Notes with details on Forest Talker activity in Pleasant Valley.
 

@@ -4,9 +4,7 @@
 
 **Carrot**
 
-![](../assets/Carrot_icon.png)
-
-_Carrot\_icon.png_
+![Carrot icon](../assets/Carrot_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -32,11 +30,9 @@ _Carrot\_icon.png_
 
 **Weight:** 0.10 kg (0.22 lbs)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Carrot** is a raw [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_, found inside [Vegetable Rack](./Vegetable%20Rack.md) containers or pre-placed in the world.
 

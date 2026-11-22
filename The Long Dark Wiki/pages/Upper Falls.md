@@ -4,15 +4,11 @@
 
 **Upper Falls**
 
-![](../assets/2021-05-23_23-00-55.jpg)
-
-_2021-05-23\_23-00-55.jpg_
+![2021 05 23 23 00 55](../assets/2021-05-23_23-00-55.jpg)
 
 **Location**
 
-![](../assets/Upper_Falls_Location.png)
-
-_Upper\_Falls\_Location.png_
+![Upper Falls Location](../assets/Upper_Falls_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

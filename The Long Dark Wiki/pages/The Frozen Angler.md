@@ -12,9 +12,7 @@
 
 **The Frozen Angler**
 
-![](../assets/The_Frozen_Angler_icon.png)
-
-_The\_Frozen\_Angler\_icon.png_
+![The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png)
 
 **Release:** [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346)
 
@@ -60,11 +58,11 @@ Research can only be performed under the following conditions:
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
@@ -78,11 +76,7 @@ Research can only be performed under the following conditions:
 
 ![3D Model](../assets/The_frozen_angler.png)
 
-_3D Model_
-
 ![Old model](../assets/Frozen_Angler_Old.png)
-
-_Old model_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Fleece Cowl**
 
-![](../assets/Fleece_Cowl_icon.png)
-
-_Fleece\_Cowl\_icon.png_
+![Fleece Cowl icon](../assets/Fleece_Cowl_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Fleece\_Cowl\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>60% condition
 
 > “**A thick cotton cap that covers the head but not the face. Designed to be layered under something warmer.**”
 >
@@ -44,11 +42,7 @@ Despite its description, the fleece cowl is best used as an outer layer for wind
 
 ![Model icon](../assets/Fleece_Cowl_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Fleece_Cowl_Model_Damaged_icon.png)
-
-_Model icon damaged_
 
 ## Update history
 

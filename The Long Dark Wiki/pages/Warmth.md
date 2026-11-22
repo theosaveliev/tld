@@ -15,7 +15,7 @@
 - [Trivia](#trivia)
 - [Character quotes](#character-quotes)
 
-![](../assets/Warmth_icon.png) **Warmth** is one of the four essential [needs](./Needs.md). Warmth is a measure of the temperatures the player is exposed to. The player's warmth drains when the temperature the character experiences dips below 0°C (32°F) and is regained when it is above. Exposure to the [elements](./Weather.md) is the main reason for loss of warmth and can be countered by staying indoors, having good [clothing](./Clothing.md), being near a [fire](./Fire.md), and by consuming [hot food and drinks](./Warming%20Up.md). Warmth will also deplete completely immediately if you fall into freezing water. When warmth is depleted, [condition](./Condition.md) starts to rapidly deplete and is able to kill within hours. This makes warmth the most critical need to satisfy.
+![Warmth icon](../assets/Warmth_icon.png) **Warmth** is one of the four essential [needs](./Needs.md). Warmth is a measure of the temperatures the player is exposed to. The player's warmth drains when the temperature the character experiences dips below 0°C (32°F) and is regained when it is above. Exposure to the [elements](./Weather.md) is the main reason for loss of warmth and can be countered by staying indoors, having good [clothing](./Clothing.md), being near a [fire](./Fire.md), and by consuming [hot food and drinks](./Warming%20Up.md). Warmth will also deplete completely immediately if you fall into freezing water. When warmth is depleted, [condition](./Condition.md) starts to rapidly deplete and is able to kill within hours. This makes warmth the most critical need to satisfy.
 
 ## Gaining and losing warmth
 

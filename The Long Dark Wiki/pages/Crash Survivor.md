@@ -10,7 +10,7 @@
 - [List of Passengers](#list-of-passengers)
 - [Trivia](#trivia)
 
-![](../assets/Survivors.png)
+![Survivors](../assets/Survivors.png)
 > **Then yesterday, the crash survivors started showing up....Best thing we can do is keep these people warm and fed and....then we'll see what the Lord has in store.**
 >
 >
@@ -43,13 +43,13 @@ Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approa
 
 ![The 2 options for interacting with a lost Crash Survivor.](../assets/Crash_Survivor_Diagnosing.jpg)_The 2 options for interacting with a lost Crash Survivor._ Crash Survivors can be diagnosed with the following Afflictions and the following treatments:
 
-- ![](../assets/Concussion_icon.png) [Concussion](./Concussion.md) - No treatment
-- ![](../assets/Hypothermia_Risk_icon.png) [Hypothermia Risk](./Hypothermia%20Risk.md) - Warm survivor
-- ![](../assets/Hypothermia_icon.png) [Hypothermia](./Hypothermia.md) - Warm survivor
-- ![](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md) - Use [Bandage](./Bandage.md)
-- ![](../assets/Dehydration_Risk_icon.png) [Dehydration Risk](./Dehydration%20Risk.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
-- ![](../assets/Dehydrated_icon.png) [Dehydrated](./Dehydrated.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
-- ![](../assets/Hyperglycemic_Risk_icon.png) [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) - Administer [Insulin](./Insulin.md)
+- ![Concussion icon](../assets/Concussion_icon.png) [Concussion](./Concussion.md) - No treatment
+- ![Hypothermia Risk icon](../assets/Hypothermia_Risk_icon.png) [Hypothermia Risk](./Hypothermia%20Risk.md) - Warm survivor
+- ![Hypothermia icon](../assets/Hypothermia_icon.png) [Hypothermia](./Hypothermia.md) - Warm survivor
+- ![Blood Loss icon](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md) - Use [Bandage](./Bandage.md)
+- ![Dehydration Risk icon](../assets/Dehydration_Risk_icon.png) [Dehydration Risk](./Dehydration%20Risk.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
+- ![Dehydrated icon](../assets/Dehydrated_icon.png) [Dehydrated](./Dehydrated.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
+- ![Hyperglycemic Risk icon](../assets/Hyperglycemic_Risk_icon.png) [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) - Administer [Insulin](./Insulin.md)
 
 ## List of Passengers
 

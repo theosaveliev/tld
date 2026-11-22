@@ -11,9 +11,7 @@
 
 **Salty Crackers**
 
-![](../assets/Salty_Crackers_icon.png)
-
-_Salty\_Crackers\_icon.png_
+![Salty Crackers icon](../assets/Salty_Crackers_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -60,8 +58,6 @@ Salty Crackers never [decay](./Decay.md), but are unique in that they can still 
 ## Gallery
 
 ![old model](../assets/Salty_crackers.png)
-
-_old model_
 
 ## Update history
 

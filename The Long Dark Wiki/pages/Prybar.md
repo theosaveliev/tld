@@ -11,9 +11,7 @@
 
 **Prybar**
 
-![](../assets/Prybar_icon.png)
-
-_Prybar\_icon.png_
+![Prybar icon](../assets/Prybar_icon.png)
 
 **General**
 
@@ -21,7 +19,7 @@ _Prybar\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 30 minutes
 
@@ -69,5 +67,3 @@ Prybar are most commonly found in industrial locations, [fishing huts](./Fishing
 ## Gallery
 
 ![Old model.](../assets/Prybar.png)
-
-_Old model._

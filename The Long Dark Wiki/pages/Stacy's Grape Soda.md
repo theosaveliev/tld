@@ -11,9 +11,7 @@
 
 **Stacy's Grape Soda**
 
-![](../assets/Stacy%27s_Grape_Soda_icon.png)
-
-_Stacy's\_Grape\_Soda\_icon.png_
+![Stacy's Grape Soda icon](../assets/Stacy%27s_Grape_Soda_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -57,8 +55,6 @@ All three types of soda share the same calories and hydration. Stacy's Grape Sod
 ## Gallery
 
 ![old model](../assets/Stacy%27s_grape_soda.png)
-
-_old model_
 
 ## Update history
 

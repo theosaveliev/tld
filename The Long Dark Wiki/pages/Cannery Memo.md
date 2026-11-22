@@ -4,9 +4,7 @@
 
 **Cannery Memo**
 
-![](../assets/Cannery_Memo_icon.png)
-
-_Cannery\_Memo\_icon.png_
+![Cannery Memo icon](../assets/Cannery_Memo_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

@@ -4,27 +4,21 @@
 
 **Washed Out Trailers**
 
-![](../assets/SS-BI-WashedOut01.jpg)
-
-_SS-BI-WashedOut01.jpg_
+![SS BI WashedOut01](../assets/SS-BI-WashedOut01.jpg)
 
 **Location**
 
-![](../assets/Washed_Out_Trailers_Location.png)
-
-_Washed\_Out\_Trailers\_Location.png_
+![Washed Out Trailers Location](../assets/Washed_Out_Trailers_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / **Washed Out Trailers** are a group of two trailers located a short distance northwest of the [Last Resort Cannery](./Last%20Resort%20Cannery.md). One of the trailers can be entered, while the other is wrecked.
+Has an interior<br>**Washed Out Trailers** are a group of two trailers located a short distance northwest of the [Last Resort Cannery](./Last%20Resort%20Cannery.md). One of the trailers can be entered, while the other is wrecked.
 
 ## Overview
 
@@ -34,12 +28,6 @@ While this location makes for an adequate place to spend the night, being consid
 
 ![Washed Out Trailers](../assets/SS-BI-WashedOut01.jpg)
 
-_Washed Out Trailers_
-
 ![Washed Out Trailers](../assets/SS-BI-WashedOut02.jpg)
 
-_Washed Out Trailers_
-
 ![Washed Out Trailers](../assets/SS-BI-WashedOut03.jpg)
-
-_Washed Out Trailers_

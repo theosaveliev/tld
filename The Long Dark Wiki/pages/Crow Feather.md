@@ -11,9 +11,7 @@
 
 **Crow Feather**
 
-![](../assets/Crow_Feather_icon.png)
-
-_Crow\_Feather\_icon.png_
+![Crow Feather icon](../assets/Crow_Feather_icon.png)
 
 **General**
 
@@ -23,9 +21,9 @@ _Crow\_Feather\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
 
-**Calories:** ![](../assets/Calorie_icon.png) calories
+**Calories:** ![Calorie icon](../assets/Calorie_icon.png) calories
 
 Harvest
 
@@ -58,8 +56,6 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 ## Gallery
 
 ![Old model.](../assets/Crow_feather.png)
-
-_Old model._
 
 ## Game history
 

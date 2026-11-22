@@ -12,15 +12,11 @@
 
 **Miner's Folly**
 
-![](../assets/20201210004606_1.jpg)
-
-_20201210004606\_1.jpg_
+![20201210004606 1](../assets/20201210004606_1.jpg)
 
 **Location**
 
-![](../assets/Miner%27s_Folly_Location.png)
-
-_Miner's\_Folly\_Location.png_
+![Miner's Folly Location](../assets/Miner%27s_Folly_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -28,9 +24,7 @@ _Miner's\_Folly\_Location.png_
 
 **Type:** Industrial
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -81,24 +75,12 @@ Although technically a separate location, the [Foreman's Retreat](./Foreman%27s%
 
 ![Bear at Miner's Folly](../assets/20201210003719_1.jpg)
 
-_Bear at Miner's Folly_
-
 ![Taking down the bear makes the whole area safer while providing a good source of food](../assets/MinersFollyBear-1.jpg)
-
-_Taking down the bear makes the whole area safer while providing a good source of food_
 
 ![Miner's Folly at night. The house on the right, the barn at the back.](../assets/MinersFolly-1.jpg)
 
-_Miner's Folly at night. The house on the right, the barn at the back._
-
 ![Typical day in Ash Canyon](../assets/20201210002514_1.jpg)
-
-_Typical day in Ash Canyon_
 
 ![Miner's Folly during the Aurora.](../assets/MinersFollyAurora.png)
 
-_Miner's Folly during the Aurora._
-
 ![Another view of Miner's Folly during the aurora.](../assets/MinersFollyAurora2.png)
-
-_Another view of Miner's Folly during the aurora._

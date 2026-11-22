@@ -4,9 +4,7 @@
 
 **Community Service**
 
-![](../assets/Community_Service_icon.png)
-
-_Community\_Service\_icon.png_
+![Community Service icon](../assets/Community_Service_icon.png)
 
 **Description:** Get to Thomson's Crossing.
 

@@ -28,7 +28,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-**Template:spoiler**![](../assets/Episode_1.png)
+**Template:spoiler**![Episode 1](../assets/Episode_1.png)
 
 _"Mackenzie and Dr. Greenwood are separated after their plane crashes deep in the Northern Canadian Wilderness. Struggling to survive, Mackenzie explores the small town of Milton, where he begins to understand the scope of this quiet apocalypse."_
 
@@ -44,9 +44,7 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 
 ### Memories
 
-![](../assets/Memories.png)
-
-_Memories.png_
+![Memories](../assets/Memories.png)
 
 _Main article: [Memories](./Memories.md)_
 
@@ -56,9 +54,7 @@ _Main article: [Memories](./Memories.md)_
 
 ### The Crash
 
-![](../assets/The_Crash.png)
-
-_The\_Crash.png_
+![The Crash](../assets/The_Crash.png)
 
 _Main article: [The Crash](./The%20Crash.md)_
 
@@ -68,9 +64,7 @@ _Main article: [The Crash](./The%20Crash.md)_
 
 ### The Grey Mother
 
-![](../assets/The_Grey_Mother.png)
-
-_The\_Grey\_Mother.png_
+![The Grey Mother](../assets/The_Grey_Mother.png)
 
 _Main article: [The Grey Mother](./The%20Grey%20Mother.md)_
 
@@ -80,9 +74,7 @@ _Main article: [The Grey Mother](./The%20Grey%20Mother.md)_
 
 ### Paradise Lost
 
-![](../assets/Paradise_Lost.png)
-
-_Paradise\_Lost.png_
+![Paradise Lost](../assets/Paradise_Lost.png)
 
 _Main article: [Paradise Lost](./Paradise%20Lost.md)_
 
@@ -92,9 +84,7 @@ _Main article: [Paradise Lost](./Paradise%20Lost.md)_
 
 ## Side Missions
 
-![](../assets/Missions_story_ep1_Side.png)
-
-_Missions\_story\_ep1\_Side.png_
+![Missions story ep1 Side](../assets/Missions_story_ep1_Side.png)
 
 ### The Basics of Survival
 
@@ -199,12 +189,12 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 
 ## Achievements
 
-- ![](../assets/Your_Journey_Begins_icon.png) [Your Journey Begins](./Your%20Journey%20Begins.md)
-- ![](../assets/Paradise_Lost_%28Achievement%29_icon.png) [Paradise Lost (Achievement)](./Paradise%20Lost%20%28Achievement%29.md)
-- ![](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Winter.md)
-- ![](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./Losing%20a%20Child%20is%20Like....md)
-- ![](../assets/Leaving_the_Old_World_Behind_icon.png) [Leaving the Old World Behind](./Leaving%20the%20Old%20World%20Behind.md)
-- ![](../assets/Too_Big_to_Fail_icon.png) [Too Big to Fail](./Too%20Big%20to%20Fail.md)
+- ![Your Journey Begins icon](../assets/Your_Journey_Begins_icon.png) [Your Journey Begins](./Your%20Journey%20Begins.md)
+- ![Paradise Lost (Achievement) icon](../assets/Paradise_Lost_%28Achievement%29_icon.png) [Paradise Lost (Achievement)](./Paradise%20Lost%20%28Achievement%29.md)
+- ![The Long Winter icon](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Winter.md)
+- ![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./Losing%20a%20Child%20is%20Like....md)
+- ![Leaving the Old World Behind icon](../assets/Leaving_the_Old_World_Behind_icon.png) [Leaving the Old World Behind](./Leaving%20the%20Old%20World%20Behind.md)
+- ![Too Big to Fail icon](../assets/Too_Big_to_Fail_icon.png) [Too Big to Fail](./Too%20Big%20to%20Fail.md)
 
 ## Trivia
 
@@ -216,5 +206,3 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 ## Gallery
 
 ![The Episode 1 Menu Background](../assets/Episode_1_Menu_Background.png)
-
-_The Episode 1 Menu Background_

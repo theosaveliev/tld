@@ -4,9 +4,7 @@
 
 **Forest Talker Map Note**
 
-![](../assets/Forest_Talker_Map_Note_icon.png)
-
-_Forest\_Talker\_Map\_Note\_icon.png_
+![Forest Talker Map Note icon](../assets/Forest_Talker_Map_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

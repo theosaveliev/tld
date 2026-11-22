@@ -4,15 +4,11 @@
 
 **Reclusive Falls**
 
-![](../assets/Hushed_river_valley_reclusive_falls_20201031.png)
-
-_Hushed\_river\_valley\_reclusive\_falls\_20201031.png_
+![Hushed river valley reclusive falls 20201031](../assets/Hushed_river_valley_reclusive_falls_20201031.png)
 
 **Location**
 
-![](../assets/Reclusive_Falls_Location.png)
-
-_Reclusive\_Falls\_Location.png_
+![Reclusive Falls Location](../assets/Reclusive_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

@@ -6,9 +6,7 @@
 
 **Molly's Gift**
 
-![](../assets/Mollys_gift.jpg)
-
-_Mollys\_gift.jpg_
+![Mollys gift](../assets/Mollys_gift.jpg)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

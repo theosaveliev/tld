@@ -12,13 +12,11 @@
 - [Maps](#maps)
 - [Locations](#locations-1)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Anna Island -- Track Section 3** / ![](../assets/Anna_Island_--_Track_Section_3.jpg) / _Anna\_Island\_--\_Track\_Section\_3.jpg_ / **Location on [Cauldron Island](./Cauldron%20Island.md)** / ![](../assets/No_picture.png) / _No\_picture.png_ / ![](../assets/Anna_Island_Track_Section_3_Map.png) / _Anna\_Island\_Track\_Section\_3\_Map.png_ / **Details** / **Description:** A continuation of coastal railway line. / **Connecting Regions:** [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) / **Interloper Region Spawn:** No / **Date Added:** October 27 2026 / **Anna Island -- Track Section 3** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
+<br>**Anna Island -- Track Section 3**<br>![Anna Island Track Section 3](../assets/Anna_Island_--_Track_Section_3.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 3 Map](../assets/Anna_Island_Track_Section_3_Map.png)<br>**Details**<br>**Description:** A continuation of coastal railway line.<br>**Connecting Regions:** [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 3** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 
@@ -69,8 +67,4 @@ _**Railyard**_
 
 ![Cove Cabin](../assets/Cove_Cabin.png)
 
-_Cove Cabin_
-
-![](../assets/Pond_%28Track_Section_3%29.jpg)
-
-_Pond\_(Track\_Section\_3).jpg_
+![Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg)

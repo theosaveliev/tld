@@ -4,15 +4,11 @@
 
 **Welkin's Window**
 
-![](../assets/Welkin%27s_Window.png)
-
-_Welkin's\_Window.png_
+![Welkin's Window](../assets/Welkin%27s_Window.png)
 
 **Location**
 
-![](../assets/Welkin%27s_Window_Location.png)
-
-_Welkin's\_Window\_Location.png_
+![Welkin's Window Location](../assets/Welkin%27s_Window_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -28,12 +24,6 @@ The information is reliable for older versions of the game: the cave may possibl
 
 ![View from Welkin's Window](../assets/Welkin%27s_Window_View.png)
 
-_View from Welkin's Window_
-
 ![Sunset from Welkin's Window](../assets/Screen_e2bb9b97-0afd-44b0-bc13-b26338cdbe1e_hi.png)
 
-_Sunset from Welkin's Window_
-
 ![Welkin's Window (Legacy photo, this has been patched)](../assets/Welkins_Window.jpg)
-
-_Welkin's Window (Legacy photo, this has been patched)_

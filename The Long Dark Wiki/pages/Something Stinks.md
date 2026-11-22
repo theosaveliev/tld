@@ -4,9 +4,7 @@
 
 **Something Stinks**
 
-![](../assets/Something_Stinks_icon.png)
-
-_Something\_Stinks\_icon.png_
+![Something Stinks icon](../assets/Something_Stinks_icon.png)
 
 **Description:** Locate the Detonators.
 

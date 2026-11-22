@@ -12,9 +12,7 @@
 
 **Deerskin Pants**
 
-![](../assets/Deerskin_Pants_icon.png)
-
-_Deerskin\_Pants\_icon.png_
+![Deerskin Pants icon](../assets/Deerskin_Pants_icon.png)
 
 **General**
 
@@ -24,21 +22,21 @@ _Deerskin\_Pants\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)60%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)60%
 
-**Protection:** ![](../assets/Protection_icon.png)10%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)10%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 30 minutes
+**Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>30 minutes
 
-**Repair:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 100 minutes / 30% condition
+**Repair:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>100 minutes<br>30% condition
 
 > “**Warm, supple, and tough. Offers a great combination of mobility and warmth. Wear these to feel like the Mad Max of the North.**”
 >
@@ -82,15 +80,9 @@ They are possible to obtain reliably and relatively early in the game by harvest
 
 ![Clothing model icon](../assets/Deerskin_Pants_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Deerskin_Pants_Model_Damaged_icon.png)
 
-_Clothing model icon damaged_
-
 ![Old model.](../assets/Deerskin_pants_%28historical%29.png)
-
-_Old model._
 
 ## Game history
 

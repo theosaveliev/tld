@@ -4,9 +4,7 @@
 
 **Broken Bear Spear**
 
-![](../assets/Broken_Bear_Spear_icon.png)
-
-_Broken\_Bear\_Spear\_icon.png_
+![Broken Bear Spear icon](../assets/Broken_Bear_Spear_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -48,11 +46,7 @@ Despite being unable to be broken down in Wintermute, a harvest option is presen
 
 ![The spear at the Hunting Lodge](../assets/Broken_Bear_Spear_Fireplace.jpg)
 
-_The spear at the Hunting Lodge_
-
 ![Mackenzie picking up the spear](../assets/Bear_spear_hunting_lodge.jpg)
-
-_Mackenzie picking up the spear_
 
 ## Update history
 

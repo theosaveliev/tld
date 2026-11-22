@@ -14,9 +14,7 @@
 
 **Simple Arrow**
 
-![](../assets/Simple_Arrow_icon.png)
-
-_Simple\_Arrow\_icon.png_
+![Simple Arrow icon](../assets/Simple_Arrow_icon.png)
 
 **General**
 
@@ -26,7 +24,7 @@ _Simple\_Arrow\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 
 **Harvest:** 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md)
 
@@ -103,11 +101,7 @@ Simple arrows can be found in a few places, some locations of note include:
 
 ![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
 
-_Fire Hardened Arrows on the left and Simple Arrows on the right._
-
 ![Old model](../assets/Simple_Arrow.png)
-
-_Old model_
 
 ## Game history
 

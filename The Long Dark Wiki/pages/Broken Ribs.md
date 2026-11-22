@@ -11,9 +11,7 @@
 
 **Broken Ribs**
 
-![](../assets/Broken_Ribs_icon.png)
-
-_Broken\_Ribs\_icon.png_
+![Broken Ribs icon](../assets/Broken_Ribs_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 
@@ -35,9 +33,9 @@ _Broken\_Ribs\_icon.png_
 
 **Treatment**
 
-**Treatment:** 2 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x ![](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
+**Treatment:** 2 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x ![Painkillers icon](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
 
-**Alternate Treatment:** 2 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+**Alternate Treatment:** 2 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 **Recovery Time:** 120 Hours
 

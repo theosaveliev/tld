@@ -11,9 +11,7 @@
 
 **Hook**
 
-![](../assets/Hook_icon.png)
-
-_Hook\_icon.png_
+![Hook icon](../assets/Hook_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
@@ -62,7 +60,5 @@ A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](.
 ## Gallery
 
 ![Old model.](../assets/Hook.png)
-
-_Old model._
 
 ## Update history

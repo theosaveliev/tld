@@ -4,7 +4,7 @@
 
 **Trash Can**
 
-\[\[File: / ![Regular](../assets/Trash_Can.jpg) / _Regular_ / ![Rusty](../assets/Trash_Can_Rusty.jpg) / _Rusty_
+![Regular](../assets/Trash_Can.jpg)<br>![Rusty](../assets/Trash_Can_Rusty.jpg)
 
 250px\]\]
 

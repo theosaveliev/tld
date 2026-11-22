@@ -11,15 +11,11 @@
 
 **Last Lonely House**
 
-![](../assets/Last_Lonely_House_resized.png)
-
-_Last\_Lonely\_House\_resized.png_
+![Last Lonely House resized](../assets/Last_Lonely_House_resized.png)
 
 **Location**
 
-![](../assets/Last_Lonely_House_Location.png)
-
-_Last\_Lonely\_House\_Location.png_
+![Last Lonely House Location](../assets/Last_Lonely_House_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -29,15 +25,11 @@ _Last\_Lonely\_House\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

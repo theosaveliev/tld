@@ -4,15 +4,11 @@
 
 **Homestead's Respite**
 
-![](../assets/20201210010226_1.jpg)
-
-_20201210010226\_1.jpg_
+![20201210010226 1](../assets/20201210010226_1.jpg)
 
 **Location**
 
-![](../assets/Homesteader%27s_Respite_Location.png)
-
-_Homesteader's\_Respite\_Location.png_
+![Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -20,13 +16,11 @@ _Homesteader's\_Respite\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / **Homesteader's Respite** is a small cabin located beside an old mining facility, near the eastern edge of [Ash Canyon](./Ash%20Canyon.md), a short distance north of [Bitter Marsh](./Bitter%20Marsh.md), and just below [Fire Overlook](./Fire%20Overlook.md). The cabin is sitting on a ledge between two rope climbs.
+Has an interior<br>**Homesteader's Respite** is a small cabin located beside an old mining facility, near the eastern edge of [Ash Canyon](./Ash%20Canyon.md), a short distance north of [Bitter Marsh](./Bitter%20Marsh.md), and just below [Fire Overlook](./Fire%20Overlook.md). The cabin is sitting on a ledge between two rope climbs.
 
 ## Access
 
@@ -42,14 +36,8 @@ No [Wildlife](./Wildlife.md) is present near the cabin apart from a [Ptarmigan](
 
 ## Gallery
 
-![](../assets/20201210005916_1.jpg)
-
-_20201210005916\_1.jpg_
+![20201210005916 1](../assets/20201210005916_1.jpg)
 
 ![Homesteader's Respite](../assets/Homesteader-2.jpg)
 
-_Homesteader's Respite_
-
 ![High Tier clothing can be found inside](../assets/Homesteader-1.jpg)
-
-_High Tier clothing can be found inside_

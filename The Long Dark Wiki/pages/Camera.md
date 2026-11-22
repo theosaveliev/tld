@@ -16,9 +16,7 @@
 
 **Camera**
 
-![](../assets/Camera_icon.png)
-
-_Camera\_icon.png_
+![Camera icon](../assets/Camera_icon.png)
 
 **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
@@ -36,16 +34,14 @@ _Camera\_icon.png_
 
 **Weight:** 0.00 kg (0 lbs)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**Discover an old manual instant camera. Take photos anywhere in the world and add them to your Album. Craft photos into wall-hangings for your personal Safehouse. Find Colour, Black &amp; White, or Sepia-toned film stock. Be a photographer at the end of the world.** / Official Description
+**Discover an old manual instant camera. Take photos anywhere in the world and add them to your Album. Craft photos into wall-hangings for your personal Safehouse. Find Colour, Black &amp; White, or Sepia-toned film stock. Be a photographer at the end of the world.**<br>Official Description
 
 ”
 
@@ -73,9 +69,9 @@ Photos taken can be placed inside a constructed [Framed Photo](./Framed%20Photo.
 
 ![From left to right: Sepia, Colour, Black &amp; White of Barn (Molly's)](../assets/Camera_Colour_films.jpg)_From left to right: Sepia, Colour, Black &amp; White of Barn (Molly's)_FastFilm is required to make the Camera work, and the film used effects the coloring of the photograph taken. They are commonly found in various locations around Great Bear Island, mostly hidden in houses and cabins. A single FastFilm contains enough film for 6 Shots. Running out of film in the Camera will cause the survivor to reload another FastFilm of the same color type into the Camera.
 
-- ![](../assets/FastFilm-500_icon.png) [FastFilm-500](./FastFilm-500.md) (Colour-toned)
-- ![](../assets/FastFilm-500BW_icon.png) [FastFilm-500BW](./FastFilm-500BW.md) (Black &amp; White-toned)
-- ![](../assets/FastFilm-500SPA_icon.png) [FastFilm-500SPA](./FastFilm-500SPA.md) (Sepia-toned)
+- ![FastFilm 500 icon](../assets/FastFilm-500_icon.png) [FastFilm-500](./FastFilm-500.md) (Colour-toned)
+- ![FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png) [FastFilm-500BW](./FastFilm-500BW.md) (Black &amp; White-toned)
+- ![FastFilm 500SPA icon](../assets/FastFilm-500SPA_icon.png) [FastFilm-500SPA](./FastFilm-500SPA.md) (Sepia-toned)
 
 Swapping to different film types into the Camera simply requires the player to press the "R" key when the Camera is equipped, where it cycles through the order Colour, Black and White, and Sepia film if the player has them in their inventory. Manually swapping through different film colors will also reload the Camera with fresh film from the player's inventory, if film Shots of a particular color inside the Camera is running low.
 
@@ -94,22 +90,18 @@ There is currently not an option to unload all film from inside the Camera in th
 
 ## Achievements
 
-- ![](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
-- ![](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
+- ![Exposure icon](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
+- ![Shutterbug icon](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
 
 ## Gallery
 
 ![The Camera with Colour, Black &amp; White, and Sepia-toned film stock, as well as some taken photos.](../assets/Camera_and_Film.jpg)
-
-_The Camera with Colour, Black &amp; White, and Sepia-toned film stock, as well as some taken photos._
 
 ![The Camera's location in the Station Bunkhouse.](../assets/Camera.jpg)
 
 _The Camera's location in the [Station Bunkhouse](./Station%20Bunkhouse.md)._
 
 ![The teased marketing photo for the Camera and former Dark Room.](../assets/Icon-camera-and-dark-room.svg)
-
-_The teased marketing photo for the Camera and former Dark Room._
 
 ## Game History
 

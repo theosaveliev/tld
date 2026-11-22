@@ -4,9 +4,7 @@
 
 **Faithful Cartographer**
 
-![](../assets/Faithful_Cartographer_icon.png)
-
-_Faithful\_Cartographer\_icon.png_
+![Faithful Cartographer icon](../assets/Faithful_Cartographer_icon.png)
 
 **Description:** Map all named locations in Survival Mode
 

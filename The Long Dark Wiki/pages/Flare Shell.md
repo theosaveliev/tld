@@ -12,9 +12,7 @@
 
 **Flare Shell**
 
-![](../assets/Flare_Shell_icon.png)
-
-_Flare\_Shell\_icon.png_
+![Flare Shell icon](../assets/Flare_Shell_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 
@@ -57,8 +55,6 @@ Flare shells always appear as a 12-Gauge Flare shells.
 ## Gallery
 
 ![An example of a flare shell being pickup and reusable after sticking a bear.](../assets/Reuseable_flare_shell.png)
-
-_An example of a flare shell being pickup and reusable after sticking a bear._
 
 ## Update history
 

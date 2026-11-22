@@ -13,19 +13,13 @@
 
 **Keeper's Pass North**
 
-![](../assets/Buildersbridge1.png)
-
-_Buildersbridge1.png_
+![Buildersbridge1](../assets/Buildersbridge1.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Keeper%27s_Pass_North_Location.png)
+![Keeper's Pass North Location](../assets/Keeper%27s_Pass_North_Location.png)
 
-_Keeper's\_Pass\_North\_Location.png_
-
-![](../assets/Keeper%27s_Pass_North_Region_Map.png)
-
-_Keeper's\_Pass\_North\_Region\_Map.png_
+![Keeper's Pass North Region Map](../assets/Keeper%27s_Pass_North_Region_Map.png)
 
 **Details**
 
@@ -74,23 +68,13 @@ The section from the transitional cave system to Forester's Hermitage is the sec
 
 ![A detailed map of Keeper's Pass v2.35 (includes spoilers)](../assets/Keeper%27s_Pass_map_.png)
 
-_A detailed map of Keeper's Pass v2.35 (includes spoilers)_
-
 ![A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Keeper%27s_Pass_map_loper.png)
 
-_A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)_
+![Buildersbridge](../assets/Buildersbridge.png)
 
-![](../assets/Buildersbridge.png)
+![Buildersbridge1](../assets/Buildersbridge1.png)
 
-_Buildersbridge.png_
-
-![](../assets/Buildersbridge1.png)
-
-_Buildersbridge1.png_
-
-![](../assets/Screen_95557cf2-d17d-4f57-8d39-6e33db538551_hi.png)
-
-_Screen\_95557cf2-d17d-4f57-8d39-6e33db538551\_hi.png_
+![Screen 95557cf2 d17d 4f57 8d39 6e33db538551 hi](../assets/Screen_95557cf2-d17d-4f57-8d39-6e33db538551_hi.png)
 
 ## Update history
 

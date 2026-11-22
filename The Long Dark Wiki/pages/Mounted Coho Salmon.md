@@ -4,9 +4,7 @@
 
 **Mounted Coho Salmon**
 
-![](../assets/Mounted_Coho_Salmon_icon.png)
-
-_Mounted\_Coho\_Salmon\_icon.png_
+![Mounted Coho Salmon icon](../assets/Mounted_Coho_Salmon_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

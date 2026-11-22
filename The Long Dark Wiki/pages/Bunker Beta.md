@@ -15,15 +15,11 @@
 
 **Bunker Beta**
 
-![](../assets/Bunker_Beta.jpg)
-
-_Bunker\_Beta.jpg_
+![Bunker Beta](../assets/Bunker_Beta.jpg)
 
 **Location**
 
-![](../assets/Bunker_Beta_Location.png)
-
-_Bunker\_Beta\_Location.png_
+![Bunker Beta Location](../assets/Bunker_Beta_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -31,9 +27,7 @@ _Bunker\_Beta\_Location.png_
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -71,20 +65,10 @@ As with most of the other bunkers unlocked during [Signal Void](./Signal%20Void.
 
 ![Bunker Beta room](../assets/Bunker_Beta_Storage.png)
 
-_Bunker Beta room_
-
 ![Bunker Beta Beds and Kitchen](../assets/Kitchen_Bunker_Beta.png)
-
-_Bunker Beta Beds and Kitchen_
 
 ![The entrance](../assets/Bunker_Beta_Entrance.jpg)
 
-_The entrance_
-
 ![Machine Room](../assets/Bunker_Beta_Machine_Room.jpg)
 
-_Machine Room_
-
 ![Bunker Beta before it is uncovered](../assets/Bunker_Beta_Snow.jpg)
-
-_Bunker Beta before it is uncovered_

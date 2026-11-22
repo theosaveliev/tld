@@ -11,9 +11,7 @@
 
 **Book**
 
-![](../assets/Book_icon.png)
-
-_Book\_icon.png_
+![Book icon](../assets/Book_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 
@@ -47,11 +45,11 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) 35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
@@ -66,47 +64,25 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 ![Old model.](../assets/Book.png)
 
-_Old model._
-
 ![Ditto, orange variant](../assets/Book_Old.jpg)
-
-_Ditto, orange variant_
 
 ![All Book variants. The open versions are the same as the ones below them.](../assets/Book_Variants.jpg)
 
-_All Book variants. The open versions are the same as the ones below them._
-
 ![Backpack icon](../assets/Ico_GearItem_BookA.png)
-
-_Backpack icon_
 
 ![Unused Backpack icon](../assets/Ico_GearItem_BookB.png)
 
-_Unused Backpack icon_
-
 ![Ditto](../assets/Ico_GearItem_BookCOpen.png)
-
-_Ditto_
 
 ![Ditto](../assets/Ico_GearItem_BookD.png)
 
-_Ditto_
-
 ![Ditto](../assets/Ico_GearItem_BookDOpen.png)
-
-_Ditto_
 
 ![Ditto](../assets/Ico_GearItem_BookE.png)
 
-_Ditto_
-
 ![Ditto](../assets/Ico_GearItem_BookEOpen.png)
 
-_Ditto_
-
 ![Ditto](../assets/Ico_GearItem_BookF.png)
-
-_Ditto_
 
 ## Update history
 

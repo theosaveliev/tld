@@ -4,9 +4,7 @@
 
 **Resolute Outfitter**
 
-![](../assets/Resolute_Outfitter_icon.png)
-
-_Resolute\_Outfitter\_icon.png_
+![Resolute Outfitter icon](../assets/Resolute_Outfitter_icon.png)
 
 **Description:** Fill all clothing slots with 100% condition gear.
 

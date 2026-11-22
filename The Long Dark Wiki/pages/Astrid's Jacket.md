@@ -4,9 +4,7 @@
 
 **Astrid's Jacket**
 
-![](../assets/Astrid%27s_Jacket_icon.png)
-
-_Astrid's\_Jacket\_icon.png_
+![Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png)
 
 **General**
 
@@ -14,32 +12,30 @@ _Astrid's\_Jacket\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-4%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-4%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
-
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 
 “
 
-**A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.** / In-game description
+**A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.**<br>In-game description
 
 ”
 
@@ -55,11 +51,7 @@ There is a small piece of Astrid's scarf tied to her left arm after her encounte
 
 ![Clothing model icon](../assets/Astrid%27s_Jacket_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon](../assets/Astrid%27s_Jacket_Model_Damaged_icon.png)
-
-_Clothing model icon_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Mounted Rockfish**
 
-![](../assets/Mounted_Rockfish_icon.png)
-
-_Mounted\_Rockfish\_icon.png_
+![Mounted Rockfish icon](../assets/Mounted_Rockfish_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

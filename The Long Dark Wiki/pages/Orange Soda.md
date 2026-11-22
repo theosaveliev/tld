@@ -13,9 +13,7 @@ _For other sodas, see [Soda (disambiguation)](./Soda%20%28disambiguation%29.md).
 
 **Orange Soda**
 
-![](../assets/Orange_Soda_icon.png)
-
-_Orange\_Soda\_icon.png_
+![Orange Soda icon](../assets/Orange_Soda_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -60,8 +58,6 @@ Orange Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 ## Gallery
 
 ![old model](../assets/Orange_soda.png)
-
-_old model_
 
 ## Update history
 

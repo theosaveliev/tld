@@ -11,7 +11,7 @@
 
 **Condensed Milk**
 
-\[\[File: / ![Sealed](../assets/Condensed_Milk_icon.png) / _Sealed_ / ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / _Opened_
+![Sealed](../assets/Condensed_Milk_icon.png)<br>![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png)
 
 250px\]\]
 
@@ -72,8 +72,6 @@ Contrary to its in-game description, Condensed Milk [spoils](./Decay.md) quickly
 ## Gallery
 
 ![Old model](../assets/Condensed_milk.png)
-
-_Old model_
 
 ## Update history
 

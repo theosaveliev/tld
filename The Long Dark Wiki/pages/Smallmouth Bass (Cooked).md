@@ -11,9 +11,7 @@
 
 **Smallmouth Bass (Cooked)**
 
-![](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)
-
-_Smallmouth\_Bass\_(Cooked)\_icon.png_
+![Smallmouth Bass (Cooked) icon](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
@@ -70,27 +68,15 @@ Cooking bass improves the [cooking skill](./Skills.md#Cooking). Using a [Cooking
 
 ![Fresh](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Smallmouth_Bass_%28Cooked%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Smallmouth_Bass_%28Cooked%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Smallmouth_Bass_%28Cooked%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Smallmouth_Bass_%28Cooked%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old model.](../assets/Smallmouth_bass_cooked.png)
-
-_Old model._
 
 ## Update history
 

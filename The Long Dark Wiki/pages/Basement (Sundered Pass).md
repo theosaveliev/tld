@@ -4,9 +4,7 @@
 
 **Basement (Sundered Pass)**
 
-![](../assets/Basement_%28Sundered_Pass%29.jpg)
-
-_Basement\_(Sundered\_Pass).jpg_
+![Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg)
 
 **Location**
 
@@ -14,9 +12,7 @@ _Basement\_(Sundered\_Pass).jpg_
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -35,5 +31,3 @@ The area above consists of several ruined buildings and one intact two story [ca
 Despite being underground, the basement does not protect against [Glimmer Fog](./Glimmer%20Fog.md) and [Insomnia Risk](./Insomnia%20Risk.md).
 
 ![The interior](../assets/Basement_%28Sundered_Pass%29_Interior.jpg)
-
-_The interior_

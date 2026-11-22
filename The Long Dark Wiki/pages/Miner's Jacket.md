@@ -4,9 +4,7 @@
 
 **Miner's Jacket**
 
-![](../assets/Miner%27s_Jacket_icon.png)
-
-_Miner's\_Jacket\_icon.png_
+![Miner's Jacket icon](../assets/Miner%27s_Jacket_icon.png)
 
 **General**
 
@@ -16,32 +14,30 @@ Clothing Slot
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)4%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)4%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 60 minutes / 35% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>60 minutes<br>35% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.** / In-game description
+**A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.**<br>In-game description
 
 ”
 
@@ -49,15 +45,9 @@ The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in var
 
 ![Model icon](../assets/Miner%27s_Jacket_Model_icon.png)
 
-_Model icon_
-
 ![Model icon damaged](../assets/Miner%27s_Jacket_Model_Damaged_icon.png)
 
-_Model icon damaged_
-
 ![Old gear icon](../assets/Miner%27s_Jacket_icon_old.png)
-
-_Old gear icon_
 
 ## Update history
 

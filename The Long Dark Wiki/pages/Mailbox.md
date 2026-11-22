@@ -4,9 +4,7 @@
 
 **Mailbox**
 
-![](../assets/Mailbox.jpg)
-
-_Mailbox.jpg_
+![Mailbox](../assets/Mailbox.jpg)
 
 **General**
 

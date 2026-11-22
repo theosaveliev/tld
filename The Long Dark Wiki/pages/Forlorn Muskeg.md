@@ -13,25 +13,19 @@
 
 **Forlorn Muskeg**
 
-![](../assets/Forlorn_Muskeg_Thumbnail.png)
-
-_Forlorn\_Muskeg\_Thumbnail.png_
+![Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Forlorn_Muskeg_Location.png)
+![Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png)
 
-_Forlorn\_Muskeg\_Location.png_
-
-![](../assets/Forlorn_Muskeg_map.png)
-
-_Forlorn\_Muskeg\_map.png_
+![Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png)
 
 **Details**
 
 **Description:** A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md).
 
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Broken Railroad](./Broken%20Railroad.md), / [Bleak Inlet](./Bleak%20Inlet.md), / [Mountain Town](./Mountain%20Town.md)
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md),<br>[Broken Railroad](./Broken%20Railroad.md),<br>[Bleak Inlet](./Bleak%20Inlet.md),<br>[Mountain Town](./Mountain%20Town.md)
 
 **Difficulty:** Advanced
 
@@ -85,26 +79,14 @@ _A south-facing panorama of Forlorn Muskeg, taken from beside the [Shortwave Tow
 
 ![The Archivist episode trigger.](../assets/20190113203759_1.jpg)
 
-_The Archivist episode trigger._
-
 ## Maps
 
 ![A detailed map of Forlorn Muskeg v2.35 (spoilers)](../assets/FM_map.png)
 
-_A detailed map of Forlorn Muskeg v2.35 (spoilers)_
-
 ![A detailed map of Forlorn Muskeg v2.35 (Interloper/Misery edition, spoilers)](../assets/FM_map_Loper.png)
 
-_A detailed map of Forlorn Muskeg v2.35 (Interloper/Misery edition, spoilers)_
-
-![](../assets/Forlorn_muskeg_titlecard_new.png)
-
-_Forlorn\_muskeg\_titlecard\_new.png_
+![Forlorn muskeg titlecard new](../assets/Forlorn_muskeg_titlecard_new.png)
 
 ![Topographic map v1.67](../assets/Map-FM-spoil-Fixv167.png)
 
-_Topographic map v1.67_
-
 ![Map v1.93](../assets/Map-FM-spoil-v193-141%288bit%29.png)
-
-_Map v1.93_

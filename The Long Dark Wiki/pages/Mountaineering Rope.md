@@ -12,9 +12,7 @@
 
 **Mountaineering Rope**
 
-![](../assets/Mountaineering_Rope_icon.png)
-
-_Mountaineering\_Rope\_icon.png_
+![Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 
@@ -93,8 +91,6 @@ Many ropes are already deployed from rocks over climbable cliffs, but these can 
 ## Gallery
 
 ![Mountaineering rope secured to a rock near a cliff face. old version](../assets/Mountaineering_rope_secured_on_rock.jpg)
-
-_Mountaineering rope secured to a rock near a cliff face. old version_
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Jeremiah's Folly/Transcript**
 
-![](../assets/Jeremiah%27s_Folly.jpg)
-
-_Jeremiah's\_Folly.jpg_
+![Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -18,7 +16,7 @@ _Jeremiah's\_Folly.jpg_
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
 
 This is the transcript for Chapter 4 [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

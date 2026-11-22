@@ -4,15 +4,11 @@
 
 **Locomotive Engine**
 
-![](../assets/Locomotive_engine.jpg)
-
-_locomotive\_engine.jpg_
+![Locomotive engine](../assets/Locomotive_engine.jpg)
 
 **Location**
 
-![](../assets/Locomotive_Engine_Location.png)
-
-_Locomotive\_Engine\_Location.png_
+![Locomotive Engine Location](../assets/Locomotive_Engine_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -30,10 +26,6 @@ _Locomotive\_Engine\_Location.png_
 
 ## Gallery
 
-![](../assets/Trans-Island_Line_Engine.jpg)
-
-_Trans-Island\_Line\_Engine.jpg_
+![Trans Island Line Engine](../assets/Trans-Island_Line_Engine.jpg)
 
 ![v2.33](../assets/Locomotive_Engine_Logo.jpg)
-
-_v2.33_

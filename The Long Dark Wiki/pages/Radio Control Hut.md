@@ -4,15 +4,11 @@
 
 **Radio Control Hut**
 
-![](../assets/RadioControlHutOutside.jpg)
-
-_RadioControlHutOutside.jpg_
+![RadioControlHutOutside](../assets/RadioControlHutOutside.jpg)
 
 **Location**
 
-![](../assets/RadioControlHutMap.jpg)
-
-_RadioControlHutMap.jpg_
+![RadioControlHutMap](../assets/RadioControlHutMap.jpg)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -20,13 +16,9 @@ _RadioControlHutMap.jpg_
 
 **Type:** Industrial
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior **Radio Control Hut** is a location found in [Bleak Inlet](./Bleak%20Inlet.md) on the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) plateau. It can easily be found by looking for the large red-and-white transmitter standing next to it and makes it one of the easiest landmarks to identify in the region.
 
@@ -50,24 +42,12 @@ While the Radio Control Hut can technically be considered a safehouse, it is by 
 
 ![A rare Medical Locker.](../assets/Radio_Control_Hut_entrance.jpg)
 
-_A rare Medical Locker._
-
 ![The Communication Report is lying on the keyboard on one of the desks.](../assets/Radio_Control_Hut_Desks.jpg)
-
-_The Communication Report is lying on the keyboard on one of the desks._
 
 ![The control room of the hut.](../assets/Control_Room_Radio_Control_Hut.jpg)
 
-_The control room of the hut._
-
 ![A small nook to listen to the radio.](../assets/Radio_Chair.jpg)
-
-_A small nook to listen to the radio._
 
 ![A view from the outside showing the Echo One Radio Tower standing behind the Control Hut.](../assets/RadioControlHutOutsideView.jpg)
 
-_A view from the outside showing the Echo One Radio Tower standing behind the Control Hut._
-
-![](../assets/Radio_hut_%284%29.jpg)
-
-_Radio\_hut\_(4).jpg_
+![Radio hut (4)](../assets/Radio_hut_%284%29.jpg)

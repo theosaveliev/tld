@@ -4,15 +4,11 @@
 
 **Mystery Lake (location)**
 
-![](../assets/The_Long_Dark_Lake_Overview.png)
-
-_The\_Long\_Dark\_Lake\_Overview.png_
+![The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png)
 
 **Location**
 
-![](../assets/Mystery_Lake_%28location%29_Location.png)
-
-_Mystery\_Lake\_(location)\_Location.png_
+![Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -34,12 +30,6 @@ There is the occasional [wolf](./Wolf.md) (usually two or 4) as well as a [bear]
 
 ![Mystery Lake (Western Access)](../assets/Mystery_Lake_%28Western_Access%29.png)
 
-_Mystery Lake (Western Access)_
-
 ![Office Cabin during the Aurora](../assets/Camp_Office_-_Aurora.jpg)
 
-_Office Cabin during the Aurora_
-
 ![The lookout during an aurora](../assets/LookoutAurora.jpg)
-
-_The lookout during an aurora_

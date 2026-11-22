@@ -4,9 +4,7 @@
 
 **The First of Many**
 
-![](../assets/The_First_of_Many.jpg)
-
-_The\_First\_of\_Many.jpg_
+![The First of Many](../assets/The_First_of_Many.jpg)
 
 **Description:** You survived for 1 day in a single Survival mode game.
 

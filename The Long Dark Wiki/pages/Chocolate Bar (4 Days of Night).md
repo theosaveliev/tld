@@ -4,9 +4,7 @@
 
 **Chocolate Bar**
 
-![](../assets/Chocolate_Bar_icon.png)
-
-_Chocolate\_Bar\_icon.png_
+![Chocolate Bar icon](../assets/Chocolate_Bar_icon.png)
 
 **Release:** [28 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.372)
 
@@ -51,11 +49,7 @@ These bars in the Halloween Event "[4 Days of Night](./4%20Days%20of%20Night%20E
 
 ![The Halloween variant](../assets/Nutsnstuff.jpg)
 
-_The Halloween variant_
-
 ![Candy Bars found outside houses in the 4DoN event](../assets/CandyBowl.jpg)
-
-_Candy Bars found outside houses in the 4DoN event_
 
 ## Update history
 

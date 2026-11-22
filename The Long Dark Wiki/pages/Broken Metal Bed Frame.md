@@ -4,9 +4,7 @@
 
 **Broken Metal Bed Frame**
 
-![](../assets/Broken_Metal_Bed_Frame.jpg)
-
-_Broken\_Metal\_Bed\_Frame.jpg_
+![Broken Metal Bed Frame](../assets/Broken_Metal_Bed_Frame.jpg)
 
 **General**
 

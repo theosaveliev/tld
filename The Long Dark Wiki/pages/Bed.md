@@ -12,7 +12,7 @@
 
 **Bed**
 
-\[\[File: / ![Full](../assets/Bed_2.jpg) / _Full_ / ![Twin](../assets/Bed.jpg) / _Twin_ / ![Cot](../assets/Cot.jpg) / _Cot_ / ![Bunk bed](../assets/Bunk_bed.jpg) / _Bunk bed_ / ![Mattress](../assets/Mattress.png) / _Mattress_ / ![Hay](../assets/Hay.jpg) / _Hay_ / ![Tuffet](../assets/Bed_%28Natural%29.png) / _Tuffet_ / ![Medical Cot](../assets/FinalApproachMedicalCot.jpg) / _Medical Cot_ / ![Blanket](../assets/Bed_Blanket.jpg) / _Blanket_
+![Full](../assets/Bed_2.jpg)<br>![Twin](../assets/Bed.jpg)<br>![Cot](../assets/Cot.jpg)<br>![Bunk bed](../assets/Bunk_bed.jpg)<br>![Mattress](../assets/Mattress.png)<br>![Hay](../assets/Hay.jpg)<br>![Tuffet](../assets/Bed_%28Natural%29.png)<br>![Medical Cot](../assets/FinalApproachMedicalCot.jpg)<br>![Blanket](../assets/Bed_Blanket.jpg)
 
 250px\]\]
 
@@ -20,7 +20,7 @@
 
 **Item Type:** Item
 
-**Wintermute:** Yes / A **Bed** is a type of furniture or a small, pre-built construction that frequently appears in houses and cabins, with some variants appearing in other buildings and even in some caves. Beds can be used to restore [Fatigue](./Fatigue.md) by [Sleeping](./Sleep.md) and grant a [Warmth](./Warmth.md) bonus while being used.
+**Wintermute:** Yes<br>A **Bed** is a type of furniture or a small, pre-built construction that frequently appears in houses and cabins, with some variants appearing in other buildings and even in some caves. Beds can be used to restore [Fatigue](./Fatigue.md) by [Sleeping](./Sleep.md) and grant a [Warmth](./Warmth.md) bonus while being used.
 
 ## Overview
 
@@ -74,10 +74,6 @@ Although there is a general pattern that warmer beds provide more [Condition](./
 
 ## Gallery
 
-![](../assets/Tuffet_Bed_Cave.jpg)
+![Tuffet Bed Cave](../assets/Tuffet_Bed_Cave.jpg)
 
-_Tuffet\_Bed\_Cave.jpg_
-
-![](../assets/Tuffet.png)
-
-_Tuffet.png_
+![Tuffet](../assets/Tuffet.png)

@@ -25,9 +25,7 @@
 
 **Escape the Darkwalker**
 
-![](../assets/Event_NowhereToHide.png)
-
-_Event\_NowhereToHide.png_
+![Event NowhereToHide](../assets/Event_NowhereToHide.png)
 
 **Details**
 
@@ -63,7 +61,7 @@ Completing Escape the Darkwalker rewards the player with 2 [Badges](./Badges.md)
 
 ## Gameplay &amp; Strategy
 
-![](../assets/Escape_the_Darkwalker_Startup.jpg) Upon starting _Escape The Darkwalker_ an extinguished campfire and supplies can be found close by, along with an introductory note called [On the Nature of Darkwalkers](./On%20the%20Nature%20of%20Darkwalkers.md). There are ten [Diary Pages](./Diary%20Page%20%28Darkwalker%29.md) to be collected, one in each major region (excluding [Ash Canyon](./Ash%20Canyon.md)) beside a green campfire. All region maps are fully revealed and display the locations of each Green Campfire. The Blackrock, [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), and [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) regions cannot be explored in this challenge.
+![Escape the Darkwalker Startup](../assets/Escape_the_Darkwalker_Startup.jpg) Upon starting _Escape The Darkwalker_ an extinguished campfire and supplies can be found close by, along with an introductory note called [On the Nature of Darkwalkers](./On%20the%20Nature%20of%20Darkwalkers.md). There are ten [Diary Pages](./Diary%20Page%20%28Darkwalker%29.md) to be collected, one in each major region (excluding [Ash Canyon](./Ash%20Canyon.md)) beside a green campfire. All region maps are fully revealed and display the locations of each Green Campfire. The Blackrock, [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), and [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) regions cannot be explored in this challenge.
 
 Once all notes are collected, the player must head to Ash Canyon to complete the challenge in the Ritual Circle located on the map and wait for the Darkwalker. The [On the Nature of Darkwalkers](./On%20the%20Nature%20of%20Darkwalkers.md) note does not need to be collected to complete the Challenge.
 
@@ -173,43 +171,11 @@ Open Regions (Multiple region entrances/exits)
 
 ## Rewards
 
-Icon
-
-Name
-
-Requirements
-
-Benefit
-
-![](../assets/Badge_Umbra.png)
-
-_Badge\_Umbra.png_
-
-Escape the Darkwalker - Umbra Badge (2020)
-
-Complete the Escape the Darkwalker challenge. _(Previously: Survive for 60 minutes (real-time) in a single Escape the Darkwalker game.)_
-
-Unlocks challenge badge.
-
-![](../assets/Badge_Deadly_Dreamer.png)
-
-_Badge\_Deadly\_Dreamer.png_
-
-Escape the Darkwalker - Deadly Dreamer Badge (2020)
-
-Collect 6 'Escape the Darkwalker Diary Pages' in a single game.
-
-Unlocks challenge badge.
-
-![](../assets/Badge_feat_nightWalker.png)
-
-_badge\_feat\_nightWalker.png_
-
-Darkwalker
-
-Complete the Escape the Darkwalker Challenge (2021)
-
-Unlocks feat. Less fatigued at night, more fatigued during the day.
+| Icon | Name | Requirements | Benefit |
+| --- | --- | --- | --- |
+| ![Badge Umbra](../assets/Badge_Umbra.png) | Escape the Darkwalker - Umbra Badge (2020) | Complete the Escape the Darkwalker challenge. _(Previously: Survive for 60 minutes (real-time) in a single Escape the Darkwalker game.)_ | Unlocks challenge badge. |
+| ![Badge Deadly Dreamer](../assets/Badge_Deadly_Dreamer.png) | Escape the Darkwalker - Deadly Dreamer Badge (2020) | Collect 6 'Escape the Darkwalker Diary Pages' in a single game. | Unlocks challenge badge. |
+| ![Badge feat nightWalker](../assets/Badge_feat_nightWalker.png) | Darkwalker | Complete the Escape the Darkwalker Challenge (2021) | Unlocks feat. Less fatigued at night, more fatigued during the day. |
 
 ## List of Diary Page Contents and Loot Next to Each Green Campfire
 
@@ -233,35 +199,19 @@ Unlocks feat. Less fatigued at night, more fatigued during the day.
 
 ![Promotional image](../assets/Halloween2020.jpg)
 
-_Promotional image_
-
 ![Darkwalker Blog](../assets/Darkwalker-Blog-Featured-Img.png)
-
-_Darkwalker Blog_
 
 ![DarkWalker tracks](../assets/DarkWalkerTrack.png)
 
-_DarkWalker tracks_
-
 ![All Glyphs](../assets/Glyphs.png)
-
-_All Glyphs_
 
 ![The Ritual Circle found in Ash Canyon](../assets/Darkwalker_Banishment_Circle_Texture.png)
 
-_The Ritual Circle found in Ash Canyon_
-
 ![Ritual Circle in game](../assets/Banishment_Circle.jpg)
-
-_Ritual Circle in game_
 
 ![Banishing the Darkwalker](../assets/The_Darkwalker_Banishment.jpg)
 
-_Banishing the Darkwalker_
-
 ![The completion screen](../assets/Escape_the_Darkwalker_Completion.jpg)
-
-_The completion screen_
 
 ## Trivia
 

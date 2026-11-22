@@ -4,9 +4,7 @@
 
 **Timberwolf Mountain**
 
-![](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png)
-
-_Timberwolf\_Mountain\_(Achievement)\_icon.png_
+![Timberwolf Mountain (Achievement) icon](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png)
 
 **Description:** Climb to the top of Timberwolf Mountain.
 

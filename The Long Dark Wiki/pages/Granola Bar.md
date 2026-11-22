@@ -11,9 +11,7 @@
 
 **Granola Bar**
 
-![](../assets/Granola_Bar_icon.png)
-
-_Granola\_Bar\_icon.png_
+![Granola Bar icon](../assets/Granola_Bar_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -59,8 +57,6 @@ Granola Bars can cause [Food Poisoning](./Food%20Poisoning.md), but [decays](./D
 ## Gallery
 
 ![Old model](../assets/Granola_bar.png)
-
-_Old model_
 
 ## Update history
 

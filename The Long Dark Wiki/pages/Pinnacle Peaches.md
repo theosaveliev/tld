@@ -12,7 +12,7 @@
 
 **Pinnacle Peaches**
 
-\[\[File: / ![Sealed](../assets/Pinnacle_Peaches_icon.png) / _Sealed_ / ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / _Opened_
+![Sealed](../assets/Pinnacle_Peaches_icon.png)<br>![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png)
 
 250px\]\]
 
@@ -80,8 +80,6 @@ Pinnacle Peaches are relatively common inside homes, usually in cupboards or on 
 ## Gallery
 
 ![Old model](../assets/Pinnacle_peaches.png)
-
-_Old model_
 
 ## Update history
 

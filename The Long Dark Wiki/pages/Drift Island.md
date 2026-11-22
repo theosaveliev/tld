@@ -4,15 +4,11 @@
 
 **Drift Island**
 
-![](../assets/Drift_Island.png)
-
-_Drift\_Island.png_
+![Drift Island](../assets/Drift_Island.png)
 
 **Location**
 
-![](../assets/Drift_Island_Location.png)
-
-_Drift\_Island\_Location.png_
+![Drift Island Location](../assets/Drift_Island_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

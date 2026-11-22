@@ -4,9 +4,7 @@
 
 **Hand-Powered Milling Tool**
 
-![](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
-
-_The\_Long\_Dark\_-\_episode\_two\_milling\_machine\_for\_rifle.png_
+![The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
 
 **Release:** Wintermute Release
 

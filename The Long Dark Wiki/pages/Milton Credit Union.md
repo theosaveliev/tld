@@ -4,15 +4,11 @@
 
 **Milton Credit Union**
 
-![](../assets/Milton_Credit_Union_exterior.jpg)
-
-_Milton\_Credit\_Union\_exterior.jpg_
+![Milton Credit Union exterior](../assets/Milton_Credit_Union_exterior.jpg)
 
 **Location**
 
-![](../assets/Milton_Credit_Union_Location.png)
-
-_Milton\_Credit\_Union\_Location.png_
+![Milton Credit Union Location](../assets/Milton_Credit_Union_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -55,24 +51,12 @@ The following keys can be found as part of the [Milton Safety Deposit Box Keys](
 
 ![The interior of Milton Credit Union](../assets/Milton_Credit_Union_-_Interior.jpg)
 
-_The interior of Milton Credit Union_
-
-![](../assets/TLD-SS-Milton-CU_%281%29.jpg)
-
-_TLD-SS-Milton-CU\_(1).jpg_
+![TLD SS Milton CU (1)](../assets/TLD-SS-Milton-CU_%281%29.jpg)
 
 ![Frozen corpse with a pry bar](../assets/TLD-SS-Milton-CU_%284%29.jpg)
 
-_Frozen corpse with a pry bar_
-
-![](../assets/TLD-SS-Milton-CU_%282%29.jpg)
-
-_TLD-SS-Milton-CU\_(2).jpg_
+![TLD SS Milton CU (2)](../assets/TLD-SS-Milton-CU_%282%29.jpg)
 
 ![Frozen corpse (robbery?) with a knife in the main bank vault](../assets/TLD-SS-Milton-CU_%283%29.jpg)
 
-_Frozen corpse (robbery?) with a knife in the main bank vault_
-
 ![Exterior sign](../assets/Milton_credit_union_sign.png)
-
-_Exterior sign_

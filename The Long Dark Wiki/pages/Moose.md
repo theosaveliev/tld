@@ -37,9 +37,7 @@
 
 **Moose**
 
-![](../assets/Moose.png)
-
-_Moose.png_
+![Moose](../assets/Moose.png)
 
 **Basic Information**
 
@@ -69,69 +67,18 @@ Moose are the largest and toughest of prey animals and can be dangerous if provo
 
 A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) and 12 guts. Moose hides can be cured to craft [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
 
-Item
-
-Quantity
-
-Rarity
-
-![](../assets/Moose_Meat_%28Raw%29_icon.png)
-
-_Moose\_Meat\_(Raw)\_icon.png_
-
-[Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md)
-
-30 - 45
-
-Always[¹](#fn1)
-
-![](../assets/Moose_Quarter_icon.png)
-
-_Moose\_Quarter\_icon.png_
-
-[Moose Quarter](./Moose%20Quarter.md)
-
-6 - 9
-
-Always[²](#fn2)
-
-![](../assets/Fresh_Moose_Hide_icon.png)
-
-_Fresh\_Moose\_Hide\_icon.png_
-
-[Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
-
-1
-
-Always
-
-![](../assets/Fresh_Gut_icon.png)
-
-_Fresh\_Gut\_icon.png_
-
-[Fresh Gut](./Fresh%20Gut.md)
-
-12
-
-Always
+|  | Item | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[¹](#fn1) |
+| ![Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[²](#fn2) |
+| ![Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
+| ![Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-Item
-
-Quantity
-
-Rarity
-
-![](../assets/Animal_Fat_icon.png)
-
-_Animal\_Fat\_icon.png_
-
-[Animal Fat](./Animal%20Fat.md)
-
-0.15 per kg of meat
-
-Always
+|  | Item | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
 
 ## Behaviour
 
@@ -184,71 +131,13 @@ Unlike other [Wildlife](./Wildlife.md), Moose do not suffer from [Blood Loss](./
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-**Weapon:** Critical Hit Chance
-
-Head
-
-Neck
-
-Torso
-
-Hips
-
-Limb
-
-![](../assets/Hunting_Rifle_icon.png)
-
-_Hunting\_Rifle\_icon.png_
-
-[Hunting Rifle](./Hunting%20Rifle.md)
-
-25%
-
-20%
-
-10%
-
-0%
-
-0%
-
-![](../assets/Survival_Bow_icon.png)
-
-_Survival\_Bow\_icon.png_
-
-[Survival Bow](./Survival%20Bow.md)
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)
-
-10%
-
-10%
-
-3%
-
-0%
-
-0%
-
-![](../assets/Distress_Pistol_icon.png)
-
-_Distress\_Pistol\_icon.png_
-
-[Distress Pistol](./Distress%20Pistol.md)
-
-0%
-
-0%
-
-0%
-
-0%
-
-0%
+| Weapon | Critical Hit Chance |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Head | Neck | Torso | Hips | Limb |  |  |
+| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 
 ## Locations
 
@@ -357,15 +246,9 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 
 ![Moose before attacking the player](../assets/Mooseattack.jpg)
 
-_Moose before attacking the player_
-
 ![ditto](../assets/Moose_up_close.jpg)
 
-_ditto_
-
 ![A running moose](../assets/Mooserun.gif)
-
-_A running moose_
 
 ![Dead moose in Timberwolf Mountain](../assets/Moose_carcass.png)
 
@@ -373,23 +256,13 @@ _Dead moose in [Timberwolf Mountain](./Timberwolf%20Mountain.md)_
 
 ![several marks form a rough ring around a possible spawn area. (Mystery Lake)](../assets/Moose-trees.jpg)
 
-_several marks form a rough ring around a possible spawn area. (Mystery Lake)_
-
 ![scratch marks](../assets/Moose-mark.jpg)
-
-_scratch marks_
 
 ![A slain Moose mini-base in Milton Basin.](../assets/Slayed_Moose_Mini-Base_in_Milton_Basin.jpg)
 
-_A slain Moose mini-base in Milton Basin._
-
 ![2020 Christmas Dev log with a moose](../assets/Seasons_greetings_2020.png)
 
-_2020 Christmas Dev log with a moose_
-
 ![Ditto](../assets/Seasons_greetings.jpg)
-
-_Ditto_
 
 ![Moose on Tin of Coffee](../assets/Tin_of_Coffee_icon.png)
 
@@ -397,11 +270,7 @@ _Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)_
 
 ![ditto, unused texture](../assets/GEAR_CoffeeTin_Dif.png)
 
-_ditto, unused texture_
-
 ![A real world Cup of Coffee Tin cup with a moose](../assets/Moose_Mug_Coffee_Real.webp)
-
-_A real world Cup of Coffee Tin cup with a moose_
 
 ## Update history
 

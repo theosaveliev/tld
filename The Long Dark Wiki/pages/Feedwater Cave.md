@@ -4,15 +4,11 @@
 
 **Feedwater Cave**
 
-![](../assets/Feedwater_Cave.jpg)
-
-_Feedwater\_Cave.jpg_
+![Feedwater Cave](../assets/Feedwater_Cave.jpg)
 
 **Location**
 
-![](../assets/Feedwater_Cave_Location.png)
-
-_Feedwater\_Cave\_Location.png_
+![Feedwater Cave Location](../assets/Feedwater_Cave_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 

@@ -11,9 +11,7 @@
 
 **Renewed Hope (Predux)/Transcript**
 
-![](../assets/Carter_hydro_dam_in_story_mode.jpg)
-
-_Carter\_hydro\_dam\_in\_story\_mode.jpg_
+![Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
@@ -25,7 +23,7 @@ _Carter\_hydro\_dam\_in\_story\_mode.jpg_
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Methuselah](./Methuselah.md)<br>[Mathis](./Mathis.md)
 
 This is the transcript for Chapter 5 [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), and is the last mission for the Predux timeline.
 

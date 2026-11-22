@@ -12,9 +12,7 @@
 
 **Arrow Shaft**
 
-![](../assets/Arrow_Shaft_icon.png)
-
-_Arrow\_Shaft\_icon.png_
+![Arrow Shaft icon](../assets/Arrow_Shaft_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -77,8 +75,6 @@ Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut
 ## Gallery
 
 ![Old model.](../assets/Arrow_Shaft.png)
-
-_Old model._
 
 ## Update history
 

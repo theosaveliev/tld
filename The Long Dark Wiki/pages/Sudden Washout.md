@@ -4,15 +4,11 @@
 
 **Sudden Washout**
 
-![](../assets/Sudden_Washout.png)
-
-_Sudden\_Washout.png_
+![Sudden Washout](../assets/Sudden_Washout.png)
 
 **Location**
 
-![](../assets/Sudden_Washout_Location.png)
-
-_Sudden\_Washout\_Location.png_
+![Sudden Washout Location](../assets/Sudden_Washout_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -22,7 +18,7 @@ _Sudden\_Washout\_Location.png_
 
 **Type:** Cave
 
-Provides some shelter / **Sudden Washout** is a cave in [Forsaken Airfield](./Forsaken%20Airfield.md).
+Provides some shelter<br>**Sudden Washout** is a cave in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
 ## Overview
 

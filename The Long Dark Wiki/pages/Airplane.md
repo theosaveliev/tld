@@ -9,7 +9,7 @@
 - [Destroyed Planes](#destroyed-planes)
 - [Gallery](#gallery)
 
-![](../assets/Airplane.jpg) An **Airplane** is a rare stationary [Vehicle](./Vehicle.md) found in _The Long Dark_.
+![Airplane](../assets/Airplane.jpg) An **Airplane** is a rare stationary [Vehicle](./Vehicle.md) found in _The Long Dark_.
 
 ## Overview
 
@@ -19,20 +19,14 @@ The only intact planes that can be found are the various abandoned airplanes fou
 
 ### Destroyed Planes
 
-![](../assets/Crashed_Plane_Mystery_Lake.jpg) Occasionally, smaller [Plane Crashes](./Plane%20Crashes.md) can be found in the Lower Great Bear regions, but are always completely destroyed when the player finds them, with small amounts of loot and presumably the dead body of the pilot found nearby. The 2 storage hatches are still intact and can be looted and the cabin can be entered and sheltered in.
+![Crashed Plane Mystery Lake](../assets/Crashed_Plane_Mystery_Lake.jpg) Occasionally, smaller [Plane Crashes](./Plane%20Crashes.md) can be found in the Lower Great Bear regions, but are always completely destroyed when the player finds them, with small amounts of loot and presumably the dead body of the pilot found nearby. The 2 storage hatches are still intact and can be looted and the cabin can be entered and sheltered in.
 
 Other crashed planes are rarely found on the Island, and are almost always destroyed if a survivor does find one. Notable examples of planes include the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md), the destroyed cargo plane found strewn across [Timberwolf Mountain](./Timberwolf%20Mountain.md) (see [Tail Section](./Tail%20Section.md)), and [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md).
 
 ## Gallery
 
-![](../assets/Airplane_Yellow.jpg)
+![Airplane Yellow](../assets/Airplane_Yellow.jpg)
 
-_Airplane\_Yellow.jpg_
+![Float Airplane](../assets/Float_Airplane.jpg)
 
-![](../assets/Float_Airplane.jpg)
-
-_Float\_Airplane.jpg_
-
-![](../assets/Airplane_Cockpit_Aurora.jpg)
-
-_Airplane\_Cockpit\_Aurora.jpg_
+![Airplane Cockpit Aurora](../assets/Airplane_Cockpit_Aurora.jpg)

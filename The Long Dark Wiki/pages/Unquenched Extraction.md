@@ -4,15 +4,11 @@
 
 **Unquenched Extraction**
 
-![](../assets/Unquenched_Extraction.jpg)
-
-_Unquenched\_Extraction.jpg_
+![Unquenched Extraction](../assets/Unquenched_Extraction.jpg)
 
 **Location**
 
-![](../assets/Unquenched_Extraction_Location.png)
-
-_Unquenched\_Extraction\_Location.png_
+![Unquenched Extraction Location](../assets/Unquenched_Extraction_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

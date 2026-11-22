@@ -4,9 +4,7 @@
 
 **Unknown (Alias: Patient 7)**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Date:** March 30th, 2023
 
@@ -40,9 +38,9 @@ Patient 7 was one of the patients evaluated and being treated by the Medical Off
 
 In the transcripts, we can see the Medical Officer asking Patient 7 to recall various instances from memories, involving a river, a beach, and a claustrophobic room.
 
-- ![](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md) : We can read the report of Patient 7's memory, recalling a summer day with a group of people in the edge of a river. He mentions how he entered the river and underestimated the depth of the body of water, resulting in him struggling and reaching for a stone, holding himself above the water line. At the end, we can read that he doesn't remember if it was a sunny or a rainy day, something that he mentions at the beginning of the transcript, showing the dementia-like symptoms caused by the machine.
-- ![](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md) : Patient 7 recalls a dark, square room made of a smooth "steel or glass" material. He notices a pit in the middle of the room, recalling it being made of bricks. At the end, he mentions when "it" shows up, being a floating, moving shape, calling it "a shadow". At the end, we can see he enters in a slightly paranoic episode, saying "Is it me? My face? Goddammit."
-- ![](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md) : In the third transcript, we can see Patient 7 recalling a "grey" day in a really deep, still beach, with no waves or wind around. He mentions being alone, not understanding what was happening at the moment, probably being lost in the middle of the ocean getting easily distracted in the storytelling. At the end, he states that they "lost him... just a little kid."
+- ![Interview Transcript 4 icon](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md) : We can read the report of Patient 7's memory, recalling a summer day with a group of people in the edge of a river. He mentions how he entered the river and underestimated the depth of the body of water, resulting in him struggling and reaching for a stone, holding himself above the water line. At the end, we can read that he doesn't remember if it was a sunny or a rainy day, something that he mentions at the beginning of the transcript, showing the dementia-like symptoms caused by the machine.
+- ![Interview Transcript 12 icon](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md) : Patient 7 recalls a dark, square room made of a smooth "steel or glass" material. He notices a pit in the middle of the room, recalling it being made of bricks. At the end, he mentions when "it" shows up, being a floating, moving shape, calling it "a shadow". At the end, we can see he enters in a slightly paranoic episode, saying "Is it me? My face? Goddammit."
+- ![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md) : In the third transcript, we can see Patient 7 recalling a "grey" day in a really deep, still beach, with no waves or wind around. He mentions being alone, not understanding what was happening at the moment, probably being lost in the middle of the ocean getting easily distracted in the storytelling. At the end, he states that they "lost him... just a little kid."
 
 Even with the efforts of the Doctor, we can witness the mental deterioration of Patient 7 as the sessions advance in number.
 

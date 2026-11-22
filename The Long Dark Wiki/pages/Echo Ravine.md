@@ -4,15 +4,11 @@
 
 **Echo Ravine**
 
-![](../assets/Echo_Ravine.jpg)
-
-_Echo\_Ravine.jpg_
+![Echo Ravine](../assets/Echo_Ravine.jpg)
 
 **Location**
 
-![](../assets/Echo_Ravine_Location.png)
-
-_Echo\_Ravine\_Location.png_
+![Echo Ravine Location](../assets/Echo_Ravine_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -29,5 +25,3 @@ Echo Ravine is a potential starting location for new players. A [Frozen Corpse](
 ## Gallery
 
 ![A bird's eye view of Echo Ravine.](../assets/Echo_Ravine_-_bird%27s_eye_view.jpg)
-
-_A bird's eye view of Echo Ravine._

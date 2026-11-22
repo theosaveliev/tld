@@ -11,9 +11,7 @@
 
 **Venison (Raw)**
 
-![](../assets/Venison_%28Raw%29_icon.png)
-
-_Venison\_(Raw)\_icon.png_
+![Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -70,27 +68,15 @@ Frozen deer carcasses created during world generation always contain 1 [deer hid
 
 ![Fresh](../assets/Venison_%28Raw%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Venison_%28Raw%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Venison_%28Raw%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Venison_%28Raw%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Venison_%28Raw%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old model.](../assets/Venison_raw.png)
-
-_Old model._
 
 ## Update history
 

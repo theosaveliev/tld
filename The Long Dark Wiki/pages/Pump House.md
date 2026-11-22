@@ -4,15 +4,11 @@
 
 **Pump House**
 
-![](../assets/Pump_House.jpg)
-
-_Pump\_House.jpg_
+![Pump House](../assets/Pump_House.jpg)
 
 **Location**
 
-![](../assets/Pump_House_Location.png)
-
-_Pump\_House\_Location.png_
+![Pump House Location](../assets/Pump_House_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

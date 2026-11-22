@@ -4,9 +4,7 @@
 
 **Ravaged Deer Remains**
 
-![](../assets/Ravaged_Deer_Remains.jpg)
-
-_Ravaged\_Deer\_Remains.jpg_
+![Ravaged Deer Remains](../assets/Ravaged_Deer_Remains.jpg)
 
 **General**
 

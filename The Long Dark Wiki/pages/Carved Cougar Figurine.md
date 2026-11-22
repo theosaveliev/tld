@@ -4,9 +4,7 @@
 
 **Carved Cougar Figurine**
 
-![](../assets/Carved_Cougar_Figurine_icon.png)
-
-_Carved\_Cougar\_Figurine\_icon.png_
+![Carved Cougar Figurine icon](../assets/Carved_Cougar_Figurine_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

@@ -4,9 +4,7 @@
 
 **Driving Gloves**
 
-![](../assets/Driving_Gloves_icon.png)
-
-_Driving\_Gloves\_icon.png_
+![Driving Gloves icon](../assets/Driving_Gloves_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Driving\_Gloves\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes
+**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>10 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
 > “**Thin leather gloves designed for driving. Not much use in the cold.**”
 >
@@ -48,15 +46,9 @@ More notably, driving gloves weigh relatively little and can be harvested for [C
 
 ![Pre alpha model.](../assets/Basic_gloves_%28historical%29.png)
 
-_Pre alpha model._
-
 ![Clothing model](../assets/Driving_Gloves_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Driving_Gloves_Damaged_Model_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

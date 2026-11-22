@@ -12,9 +12,7 @@
 
 **Fire Hardened Arrow**
 
-![](../assets/Fire_Hardened_Arrow_icon.png)
-
-_Fire\_Hardened\_Arrow\_icon.png_
+![Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
@@ -81,8 +79,6 @@ Fire hardened arrows are unique in that they break instantly upon impact with al
 **Quantity:** 5
 
 ![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
-
-_Fire Hardened Arrows on the left and Simple Arrows on the right._
 
 ## Update history
 

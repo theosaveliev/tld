@@ -4,9 +4,7 @@
 
 **Wolfbait**
 
-![](../assets/Wolfbait.jpg)
-
-_Wolfbait.jpg_
+![Wolfbait](../assets/Wolfbait.jpg)
 
 **Description:** Survive 5 days in a single Survival Mode game.
 

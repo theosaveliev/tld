@@ -12,9 +12,7 @@
 
 **Advanced Guns Guns Guns!**
 
-![](../assets/Advanced_Guns_Guns_Guns!_icon.png)
-
-_Advanced\_Guns\_Guns\_Guns!\_icon.png_
+![Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png)
 
 **Release:** [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346)
 
@@ -58,11 +56,11 @@ Research can only be performed under the following conditions:
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
@@ -76,11 +74,7 @@ Research can only be performed under the following conditions:
 
 ![3D Model](../assets/Guns_guns_guns.png)
 
-_3D Model_
-
 ![Old model](../assets/Advanced_Guns_Guns_Guns_Old.png)
-
-_Old model_
 
 ## Update history
 

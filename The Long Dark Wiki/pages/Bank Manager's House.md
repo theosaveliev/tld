@@ -4,15 +4,13 @@
 
 **Bank Manager's House**
 
-\[\[File: / ![Exterior](../assets/Milton_Bank_Managers_House.jpg) / _Exterior_ / ![Interior](../assets/Bank_managers_house_interior.jpg) / _Interior_
+![Exterior](../assets/Milton_Bank_Managers_House.jpg)<br>![Interior](../assets/Bank_managers_house_interior.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Bank_Manager%27s_House_Location.png)
-
-_Bank\_Manager's\_House\_Location.png_
+![Bank Manager's House Location](../assets/Bank_Manager%27s_House_Location.png)
 
 Region
 
@@ -30,9 +28,7 @@ Residential
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -58,8 +54,4 @@ The house is initially locked but can be opened once [Will](./Will%20Mackenzie.m
 
 ![The kitchen area](../assets/Bank_managers_house_interior.jpg)
 
-_The kitchen area_
-
 ![The bedroom](../assets/Bed_2.jpg)
-
-_The bedroom_

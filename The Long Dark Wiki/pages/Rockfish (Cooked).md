@@ -6,9 +6,7 @@ _For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)._
 
 **Rockfish (Cooked)**
 
-![](../assets/Rockfish_%28Cooked%29_icon.png)
-
-_Rockfish\_(Cooked)\_icon.png_
+![Rockfish (Cooked) icon](../assets/Rockfish_%28Cooked%29_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -53,23 +51,13 @@ _Rockfish\_(Cooked)\_icon.png_
 
 ![Fresh](../assets/Rockfish_%28Cooked%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Rockfish_%28Cooked%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Rockfish_%28Cooked%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Rockfish_%28Cooked%29_Rancid_icon.png)
 
-_Rancid_
-
 ![Ruined](../assets/Rockfish_%28Cooked%29_Ruined_icon.png)
-
-_Ruined_
 
 ## Update history
 

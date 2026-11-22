@@ -11,9 +11,7 @@
 
 **Respirator**
 
-![](../assets/Respirator_icon.png)
-
-_Respirator\_icon.png_
+![Respirator icon](../assets/Respirator_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 
@@ -35,13 +33,11 @@ _Respirator\_icon.png_
 
 **Item key:** GAMEPLAY\_Respirator
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-The **Respirator** is a [First Aid](./First%20Aid.md) item that was added as part of the Part 4 Buried Echoes update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. / It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) and [Camera](./Camera.md).
+The **Respirator** is a [First Aid](./First%20Aid.md) item that was added as part of the Part 4 Buried Echoes update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.<br>It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) and [Camera](./Camera.md).
 
 ## Overview
 
@@ -61,19 +57,11 @@ Keep in mind that wearing a Respirator prevents a player from eating or drinking
 
 ![Respirator in game](../assets/Respirator_in_game.png)
 
-_Respirator in game_
-
 ![Respirator location](../assets/Respirator_Location.jpg)
 
-_Respirator location_
-
-![](../assets/Buried_Echoes_Icon.png)
-
-_Buried\_Echoes\_Icon.png_
+![Buried Echoes Icon](../assets/Buried_Echoes_Icon.png)
 
 ![The Buried Echoes Badge](../assets/Buried_Echoes_Icon.png)
-
-_The Buried Echoes Badge_
 
 ## Update history
 

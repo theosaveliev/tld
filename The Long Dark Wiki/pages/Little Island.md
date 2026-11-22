@@ -4,15 +4,11 @@
 
 **Little Island**
 
-![](../assets/Little_Island_01.jpg)
-
-_Little\_Island\_01.jpg_
+![Little Island 01](../assets/Little_Island_01.jpg)
 
 **Location**
 
-![](../assets/Little_Island_Location.png)
-
-_Little\_Island\_Location.png_
+![Little Island Location](../assets/Little_Island_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 
@@ -29,8 +25,6 @@ Also, every few days a couple of [Deer](./Deer.md) will be seen on the island an
 ## Gallery
 
 ![Another view of Little Island.](../assets/Little_Island_02.jpg)
-
-_Another view of Little Island._
 
 ![Little Island, as seen from Lonely Lighthouse.](../assets/Little_Island_from_Lonely_Lighthouse.png)
 

@@ -4,9 +4,7 @@
 
 **Aurora Observations**
 
-![](../assets/Aurora_Observations_icon.png)
-
-_Aurora\_Observations\_icon.png_
+![Aurora Observations icon](../assets/Aurora_Observations_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

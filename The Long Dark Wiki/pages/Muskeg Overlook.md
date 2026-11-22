@@ -4,15 +4,11 @@
 
 **Muskeg Overlook**
 
-![](../assets/Muskeg_Overlook.jpg)
-
-_Muskeg\_Overlook.jpg_
+![Muskeg Overlook](../assets/Muskeg_Overlook.jpg)
 
 **Location**
 
-![](../assets/Muskeg_Overlook_Location.png)
-
-_Muskeg\_Overlook\_Location.png_
+![Muskeg Overlook Location](../assets/Muskeg_Overlook_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -28,22 +24,12 @@ A downed helicopter (which can easily be found using the [Handheld Shortwave Rad
 
 ## Gallery
 
-![](../assets/Moskeg_overlook.jpg)
+![Moskeg overlook](../assets/Moskeg_overlook.jpg)
 
-_Moskeg\_overlook.jpg_
+![Muskeg Overlook](../assets/Muskeg_Overlook.jpg)
 
-![](../assets/Muskeg_Overlook.jpg)
+![Overlook Muskeg](../assets/Overlook_Muskeg.jpg)
 
-_Muskeg\_overlook.jpg_
-
-![](../assets/Overlook_Muskeg.jpg)
-
-_Overlook\_Muskeg.jpg_
-
-![](../assets/Overlook_Muskeg-0.jpg)
-
-_Overlook\_Muskeg-0.jpg_
+![Overlook Muskeg 0](../assets/Overlook_Muskeg-0.jpg)
 
 ![The Helicopter nearby](../assets/Muskeg_Overlook_Helicopter.png)
-
-_The Helicopter nearby_

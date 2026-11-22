@@ -4,8 +4,6 @@
 
 ![Will Mackenzie inside the hangar](../assets/Intro_cutscene_1.jpg)
 
-_Will Mackenzie inside the hangar_
-
 
 
 **Jackrabbit Remote Transport** is the family business of the Mackenzie family, originally operated solely by Jack Mackenzie. The transport business runs supplies and people to and from hard-to-reach places isolated in the Canadian wilderness, hence the latter part of the name.
@@ -33,48 +31,24 @@ The only remaining reference to the company after the crash is the logo found on
 
 ![The interior of the hangar](../assets/Jackrabbit_hanger.jpg)
 
-_The interior of the hangar_
-
 ![The Hangar as shown from the outside](../assets/Jackrabbit_Hangar_Outside.jpg)
-
-_The Hangar as shown from the outside_
 
 ![A poster found inside the hangar](../assets/Jackrabbit_transport_flyer.png)
 
-_A poster found inside the hangar_
-
 ![A painting featuring the company's staff and De Havilland Beaver floatplane](../assets/Jackrabbit_transport_painting.png)
-
-_A painting featuring the company's staff and De Havilland Beaver floatplane_
 
 ![The Jackrabbit Remote Transport themed Insulated Flask](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png)
 
-_The Jackrabbit Remote Transport themed Insulated Flask_
-
 ![The real world Jackrabbit Remote Transport themed coffee mug](../assets/Jackrabbit_Remote_Transport_Mug.webp)
-
-_The real world Jackrabbit Remote Transport themed coffee mug_
 
 ![The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
 
-_The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map_
-
 ![Mackenzie passing the time by playing Solitaire, pulling the Joker card out](../assets/Joker_Playing_Card_Wolf.jpg)
-
-_Mackenzie passing the time by playing Solitaire, pulling the Joker card out_
 
 ![The old Global map on the office board](../assets/Global_map_Published_by_development_team.jpg)
 
-_The old Global map on the office board_
-
 ![Mackenzie's boredom showing](../assets/Solitaire_cards.jpg)
-
-_Mackenzie's boredom showing_
 
 ![Certified Pilot](../assets/Jackrabbit_Certificate.jpg)
 
-_Certified Pilot_
-
 ![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg)
-
-_Mackenzie eyeing the Great Bear Island brochure_

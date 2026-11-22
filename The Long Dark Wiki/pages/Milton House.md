@@ -14,7 +14,7 @@
 
 **Milton House**
 
-\[\[File: / ![Type 1](../assets/Milton_House_1.jpg) / _Type 1_ / ![Type 2](../assets/Coastal_House_1.jpg) / _Type 2_ / ![Type 3](../assets/Milton_House_2.jpg) / _Type 3_ / ![Type 4](../assets/Milton_Bank_Managers_House.jpg) / _Type 4_ / ![Type 5](../assets/Crossroads_House_Shed.jpg) / _Type 5_ / ![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png) / _Grey Mother's_
+![Type 1](../assets/Milton_House_1.jpg)<br>![Type 2](../assets/Coastal_House_1.jpg)<br>![Type 3](../assets/Milton_House_2.jpg)<br>![Type 4](../assets/Milton_Bank_Managers_House.jpg)<br>![Type 5](../assets/Crossroads_House_Shed.jpg)<br>![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png)
 
 250px\]\]
 
@@ -34,13 +34,11 @@ Residential
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / _For the large house owned by Grey Mother, see [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)._ / A **Milton House**is a type of house or shed found throughout the Town of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Crossroads House](./Crossroads%20House.md).
+Has an interior<br>_For the large house owned by Grey Mother, see [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)._<br>A **Milton House**is a type of house or shed found throughout the Town of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Crossroads House](./Crossroads%20House.md).
 
 ## Overview
 
@@ -52,21 +50,13 @@ Milton Houses appear as 6 types of buildings:
 
 ### 1 Story House
 
-![](../assets/Coastal_House_1.jpg)
+![Coastal House 1](../assets/Coastal_House_1.jpg)
 
-_Coastal\_House\_1.jpg_
+![Coastal House 2 Kitchen](../assets/Coastal_House_2_Kitchen.jpg)
 
-![](../assets/Coastal_House_2_Kitchen.jpg)
+![Coastal House 2 Den](../assets/Coastal_House_2_Den.jpg)
 
-_Coastal\_House\_2\_Kitchen.jpg_
-
-![](../assets/Coastal_House_2_Den.jpg)
-
-_Coastal\_House\_2\_Den.jpg_
-
-![](../assets/Coastal_House_2_Bedroom.jpg)
-
-_Coastal\_House\_2\_Bedroom.jpg_
+![Coastal House 2 Bedroom](../assets/Coastal_House_2_Bedroom.jpg)
 
 This type of building has only 1 floor, with 2 doors leading to the kitchen or living room. They are composed of:
 
@@ -79,33 +69,21 @@ The layout for this building has 2 different layouts, but tends to be filled wit
 
 ### Bank Manager's House
 
-![](../assets/Milton_Bank_Managers_House.jpg)
+![Milton Bank Managers House](../assets/Milton_Bank_Managers_House.jpg)
 
-_Milton\_Bank\_Managers\_House.jpg_
-
-![](../assets/Bank_managers_house_interior.jpg)
-
-_Bank\_managers\_house\_interior.jpg_
+![Bank managers house interior](../assets/Bank_managers_house_interior.jpg)
 
 This [Bank Manager's House](./Bank%20Manager%27s%20House.md) is different from every other house, containing just 3 rooms and a front door. It is locked in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and needs the [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md) to unlock.
 
 ### House Type 2
 
-![](../assets/Milton_House_2.jpg)
-
-_Milton\_House\_2.jpg_
+![Milton House 2](../assets/Milton_House_2.jpg)
 
 ![Bedroom](../assets/Milton_House_2_Bedroom.jpg)
 
-_Bedroom_
-
 ![Kitchen](../assets/Milton_House_2_Kitchen.jpg)
 
-_Kitchen_
-
 ![Den](../assets/House_Type_2_den.jpg)
-
-_Den_
 
 This building type only appears near the main road and is highly vandalized. It has 2 entrances that lead to 4 different rooms:
 
@@ -116,38 +94,24 @@ This building type only appears near the main road and is highly vandalized. It 
 
 ### 2 Story House
 
-![](../assets/Milton_House_1.jpg)
+![Milton House 1](../assets/Milton_House_1.jpg)
 
-_Milton\_House\_1.jpg_
+![Crossroads House 2 Hallway](../assets/Crossroads_House_2_Hallway.jpg)
 
-![](../assets/Crossroads_House_2_Hallway.jpg)
+![Crossroads House 2 Kitchen](../assets/Crossroads_House_2_Kitchen.jpg)
 
-_Crossroads\_House\_2\_Hallway.jpg_
-
-![](../assets/Crossroads_House_2_Kitchen.jpg)
-
-_Crossroads\_House\_2\_Kitchen.jpg_
-
-![](../assets/Crossroads_House_2_Bedroom.jpg)
-
-_Crossroads\_House\_2\_Bedroom.jpg_
+![Crossroads House 2 Bedroom](../assets/Crossroads_House_2_Bedroom.jpg)
 
 These homes are much smaller buildings with a single door leading to the front hallway. They have a stairwell that leads the bedroom, with the ground floor containing a kitchen and nearby bathroom. Some of these types of houses in the town are entirely abandoned, with the upper floors sometimes either containing a baby crib or no bed.
 
 ### Shed
 
-![](../assets/Crossroads_House_Shed.jpg)
+![Crossroads House Shed](../assets/Crossroads_House_Shed.jpg)
 
-_Crossroads\_House\_Shed.jpg_
-
-![](../assets/Crossroads_House_Shed_Inside.jpg)
-
-_Crossroads\_House\_Shed\_Inside.jpg_
+![Crossroads House Shed Inside](../assets/Crossroads_House_Shed_Inside.jpg)
 
 A few buildings are small tool sheds, with 2 doors for entering. They tend to contain a [Metal Shelf](./Metal%20Shelf.md) often holding a [Metal Container](./Metal%20Container.md) or other tools, [Crates](./Crate.md), [Planks](./Planks.md), and [Reclaimed Wood](./Reclaimed%20Wood.md). One shed is on a hill behind the pond with the ruined house, and has a Bed. 4 can be found in the town, but 2 will always be boarded up.
 
 ### Grey Mother's House
 
-![](../assets/Milton_House_%28Grey_Mother%27s%29.png)
-
-_Milton\_House\_(Grey\_Mother's).png_
+![Milton House (Grey Mother's)](../assets/Milton_House_%28Grey_Mother%27s%29.png)

@@ -4,15 +4,13 @@
 
 **Rockfall**
 
-\[\[File: / ![](../assets/Rockfall.jpg) / _Rockfall.jpg_
+![Rockfall](../assets/Rockfall.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Rockfall_map.png)
-
-_Rockfall\_map.png_
+![Rockfall map](../assets/Rockfall_map.png)
 
 Region
 

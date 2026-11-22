@@ -4,9 +4,7 @@
 
 **Can**
 
-![](../assets/Can.jpg)
-
-_Can.jpg_
+![Can](../assets/Can.jpg)
 
 **Story item:** Yes
 
@@ -17,8 +15,6 @@ A **Can** is a harvestable [Pork and Beans](./Pork%20and%20Beans.md) item found 
 4 Cans can be found in the [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) in [Sundered Pass](./Sundered%20Pass.md), while following the Tale [Last Horizon](./Last%20Horizon.md).
 
 ![The 4 cans in Survival Mode](../assets/Can_Survival_Mode.jpg)
-
-_The 4 cans in Survival Mode_
 
 ## Game History
 

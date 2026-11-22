@@ -4,9 +4,7 @@
 
 **Cougar Warning Flyer**
 
-![](../assets/Cougar_Warning_Flyer_icon.png)
-
-_Cougar\_Warning\_Flyer\_icon.png_
+![Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png)
 
 **Properties**
 
@@ -41,7 +39,5 @@ WILDERNESS SAFTEY GUIDE
 - Leave its territory to reduce risk of attack
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer.jpg)
-
-_The Flyer before it is picked up._
 
 ## Update history

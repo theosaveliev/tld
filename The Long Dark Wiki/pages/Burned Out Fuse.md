@@ -2,13 +2,11 @@
 
 **Categories:** Pages with update history, Tools, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / **Burned Out Fuse** / ![](../assets/Burned_Out_Fuse_icon.png) / _Burned\_Out\_Fuse\_icon.png_ / **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Aftermath](./Aftermath.md) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Examine:** Burned out fuse. Needs replacing. / **Values** / **Weight:** 0.20 kg (0.44 lbs) / **Advanced data** / **Item key:** STORY\_ElevatorPartsDead / **Burned Out Fuse** is an item that's exclusive to [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md) in the final mission, [Aftermath](./Aftermath.md).
+<br>**Burned Out Fuse**<br>![Burned Out Fuse icon](../assets/Burned_Out_Fuse_icon.png)<br>**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Aftermath](./Aftermath.md)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Examine:** Burned out fuse. Needs replacing.<br>**Values**<br>**Weight:** 0.20 kg (0.44 lbs)<br>**Advanced data**<br>**Item key:** STORY\_ElevatorPartsDead<br>**Burned Out Fuse** is an item that's exclusive to [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md) in the final mission, [Aftermath](./Aftermath.md).
 
 ## Overview
 

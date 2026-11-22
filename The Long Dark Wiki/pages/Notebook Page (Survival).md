@@ -4,9 +4,7 @@
 
 **Notebook Page (Survival)**
 
-![](../assets/Notebook_Page_%28Survival_2%29_icon.png)
-
-_Notebook\_Page\_(Survival\_2)\_icon.png_
+![Notebook Page (Survival 2) icon](../assets/Notebook_Page_%28Survival_2%29_icon.png)
 
 **Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
 

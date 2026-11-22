@@ -4,9 +4,7 @@
 
 **Bank Vault Code**
 
-![](../assets/Bank_Vault_Code_icon.png)
-
-_Bank\_Vault\_Code\_icon.png_
+![Bank Vault Code icon](../assets/Bank_Vault_Code_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md)
 

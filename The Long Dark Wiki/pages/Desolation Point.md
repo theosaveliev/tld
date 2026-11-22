@@ -24,17 +24,11 @@
 
 ![Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png)
 
-_Desolation Point's Lonely Lighthouse._
-
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Desolation_Point_Location.png)
+![Desolation Point Location](../assets/Desolation_Point_Location.png)
 
-_Desolation\_Point\_Location.png_
-
-![](../assets/Desolation_point_map.png)
-
-_Desolation\_point\_map.png_
+![Desolation point map](../assets/Desolation_point_map.png)
 
 **Details**
 
@@ -136,100 +130,52 @@ The ship's uppermost deck can serve as a vantage point to look for and/or hunt [
 
 ![Desolation Point map v2.35](../assets/Desolation_Point.jpg)
 
-_Desolation Point map v2.35_
-
 ![Desolation Point map v2.35 (Interloper-Misery)](../assets/DP_Map_loper.jpg)
-
-_Desolation Point map v2.35 (Interloper-Misery)_
 
 ![Desolation Point map v1.93](../assets/Map-DP-Lv3-v193-101.png)
 
-_Desolation Point map v1.93_
-
 ![Desolation Point map (old)](../assets/Desolation_Point_map_by_whiteberry-toarda.png)
-
-_Desolation Point map (old)_
 
 ![In-game charcoal map](../assets/Desolation_point_map.png)
 
-_In-game charcoal map_
-
 ### Locations
 
-![](../assets/Abandoned_Mine_No.3_%28East_Access%29.jpg)
+![Abandoned Mine No.3 (East Access)](../assets/Abandoned_Mine_No.3_%28East_Access%29.jpg)
 
-_Abandoned\_Mine\_No.3\_(East\_Access).jpg_
+![Abandoned Mine No.5 (West Access)](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)
 
-![](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)
+![Broken Bridge](../assets/Broken_Bridge.jpg)
 
-_Abandoned\_Mine\_No.5\_(West\_Access).jpg_
+![Blocked Highway](../assets/Blocked_Highway.jpg)
 
-![](../assets/Broken_Bridge.jpg)
+![Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg)
 
-_Broken\_Bridge.jpg_
+![Hibernia Processing Area View 01](../assets/Hibernia_Processing_Area_View_01.jpg)
 
-![](../assets/Blocked_Highway.jpg)
+![Katie's secluded corner](../assets/Katie%27s_secluded_corner.jpg)
 
-_Blocked\_Highway.jpg_
+![Little Island 01](../assets/Little_Island_01.jpg)
 
-![](../assets/Cave_in_Desolation_Point_interior_entrance.jpg)
+![Lonely Lighthouse](../assets/Lonely_Lighthouse.jpg)
 
-_Cave\_in\_Desolation\_Point\_interior\_entrance.jpg_
+![Matt's Truck](../assets/Matt%27s_Truck.jpg)
 
-![](../assets/Hibernia_Processing_Area_View_01.jpg)
+![Stone Church](../assets/Stone_Church.jpg)
 
-_Hibernia\_Processing\_Area\_View\_01.jpg_
+![The Riken](../assets/The_Riken.jpg)
 
-![](../assets/Katie%27s_secluded_corner.jpg)
-
-_Katie's\_secluded\_corner.jpg_
-
-![](../assets/Little_Island_01.jpg)
-
-_Little\_Island\_01.jpg_
-
-![](../assets/Lonely_Lighthouse.jpg)
-
-_Lonely\_Lighthouse.jpg_
-
-![](../assets/Matt%27s_Truck.jpg)
-
-_Matt's\_Truck.jpg_
-
-![](../assets/Stone_Church.jpg)
-
-_Stone\_Church.jpg_
-
-![](../assets/The_Riken.jpg)
-
-_The\_Riken.jpg_
-
-![](../assets/Waterfall.jpg)
-
-_Waterfall.jpg_
+![Waterfall](../assets/Waterfall.jpg)
 
 ![A distant view of Lonely Lighthouse.](../assets/Lonely_Lighthouse_-_distant.jpg)
 
-_A distant view of Lonely Lighthouse._
-
 ![Hibernia Processing to the right. Lonely Lighthouse in the background.](../assets/Hibernia_Processing_Area_View_03.jpg)
-
-_Hibernia Processing to the right. Lonely Lighthouse in the background._
 
 ![A view of the landscape. Lonely Lighthouse can be seen in the distance.](../assets/Desolation_Point_landscape_01.jpg)
 
-_A view of the landscape. Lonely Lighthouse can be seen in the distance._
-
 ![An alternative view of Little Island.](../assets/Little_Island_02.jpg)
 
-_An alternative view of Little Island._
-
 ![Desolation Point poster](../assets/Poster_in_the_Long_Dark_game.jpg)
-
-_Desolation Point poster_
 
 ### Miscellaneous
 
 ![A poster of Desolation Point](../assets/Desolation_point_poster.png)
-
-_A poster of Desolation Point_

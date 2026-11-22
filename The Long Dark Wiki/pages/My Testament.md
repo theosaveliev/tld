@@ -4,9 +4,7 @@
 
 **My Testament**
 
-![](../assets/My_Testament_icon.png)
-
-_My\_Testament\_icon.png_
+![My Testament icon](../assets/My_Testament_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

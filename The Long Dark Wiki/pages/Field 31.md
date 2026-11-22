@@ -4,9 +4,7 @@
 
 **Field 31**
 
-![](../assets/Field_31_Sign.jpg)
-
-_Field\_31\_Sign.jpg_
+![Field 31 Sign](../assets/Field_31_Sign.jpg)
 
 **Location**
 
@@ -16,15 +14,11 @@ _Field\_31\_Sign.jpg_
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 
@@ -46,15 +40,9 @@ Despite all electronics being rendered destroyed by the [First Flare](./First%20
 
 ![Transmitter at Control Tower](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)
 
-_Transmitter at Control Tower_
-
 ![Most of the Airfield as seen from the ground](../assets/Field_31_Sunrise.jpg)
 
-_Most of the Airfield as seen from the ground_
-
 ![The airfield during an aurora, as seen from a distance](../assets/Field_31_Aurora.jpg)
-
-_The airfield during an aurora, as seen from a distance_
 
 \[Missing image: 20230520075647\_1.jpg\]
 

@@ -23,9 +23,7 @@
 
 **Burdock**
 
-![](../assets/Burdock_Plant.jpg)
-
-_Burdock\_Plant.jpg_
+![Burdock Plant](../assets/Burdock_Plant.jpg)
 
 **Release:** 21 June 2023
 
@@ -156,8 +154,4 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 
 ![A Burdock plant growing under a waterfall in Blackrock region.](../assets/Burdock_plant.png)
 
-_A Burdock plant growing under a waterfall in Blackrock region._
-
 ![A spot where a Burdock plant used to grow.](../assets/Burdock_root_hole.png)
-
-_A spot where a Burdock plant used to grow._

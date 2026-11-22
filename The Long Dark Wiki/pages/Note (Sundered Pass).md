@@ -4,9 +4,7 @@
 
 **Note**
 
-![](../assets/Note_%28Sundered_Pass%29_icon.png)
-
-_Note\_(Sundered\_Pass)\_icon.png_
+![Note (Sundered Pass) icon](../assets/Note_%28Sundered_Pass%29_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

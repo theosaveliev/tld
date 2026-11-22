@@ -4,9 +4,7 @@
 
 **Faded Paper**
 
-![](../assets/Faded_Paper_icon.png)
-
-_Faded\_Paper\_icon.png_
+![Faded Paper icon](../assets/Faded_Paper_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
 

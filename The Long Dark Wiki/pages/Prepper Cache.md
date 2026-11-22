@@ -35,7 +35,7 @@
 
 **Prepper Cache**
 
-\[\[File: / ![Exterior](../assets/Prepper_Cache.jpg) / _Exterior_ / ![Interior](../assets/Prepper_cache_interior.png) / _Interior_
+![Exterior](../assets/Prepper_Cache.jpg)<br>![Interior](../assets/Prepper_cache_interior.png)
 
 250px\]\]
 
@@ -47,13 +47,11 @@
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / _Not to be confused with **[Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) or one of 4 [Signal Void](./Signal%20Void.md) bunkers.**_ / > “**Find my brother. Wyatt. He hasn't checked in since it all went dark. He runs with this group of preppers. Bad guys, his crew, but they look up to him. There were always three that followed Wyatt around. Stockpiles, hunters, conspiracy nuts. Maybe you know the type? Hehe.**” / > / > — Sutherland the [Trader](./Trader.md) / A **Prepper Cache,** also known by their nickname of **"Bunker"**, is a reinforced underground shelter with a stockpile of supplies. The contents of these 9 Caches is randomly selected during world generation across 9 regions in Lower Great Bear. They are the centerpiece of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+Has an interior<br>_Not to be confused with **[Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) or one of 4 [Signal Void](./Signal%20Void.md) bunkers.**_<br>> “**Find my brother. Wyatt. He hasn't checked in since it all went dark. He runs with this group of preppers. Bad guys, his crew, but they look up to him. There were always three that followed Wyatt around. Stockpiles, hunters, conspiracy nuts. Maybe you know the type? Hehe.**”<br>><br>> — Sutherland the [Trader](./Trader.md)<br>A **Prepper Cache,** also known by their nickname of **"Bunker"**, is a reinforced underground shelter with a stockpile of supplies. The contents of these 9 Caches is randomly selected during world generation across 9 regions in Lower Great Bear. They are the centerpiece of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Overview
 
@@ -75,13 +73,9 @@ Prepper Caches do not spawn in some [Challenge](./Challenge.md) game modes and o
 >
 > — Sutherland the [Trader](./Trader.md)
 
-![](../assets/Prepper_Cache_Kitchen_2.jpg)
+![Prepper Cache Kitchen 2](../assets/Prepper_Cache_Kitchen_2.jpg)
 
-_Prepper\_Cache\_Kitchen\_2.jpg_
-
-![](../assets/Prepper_Cache_Kitchen.jpg)
-
-_Prepper\_Cache\_Kitchen.jpg_
+![Prepper Cache Kitchen](../assets/Prepper_Cache_Kitchen.jpg)
 
 Contains one room with kitchen furniture and another room with a desk and bed stocked with general supplies from all categories: fire starting, first aid, clothing, food and drink, tools, materials and the unique [Prepper's Pie](./Prepper%27s%20Pie.md) [Recipe Card](./Recipe%20Cards.md).
 
@@ -111,9 +105,7 @@ On Interloper and Misery levels, this cache has sparse loot and almost no furnit
 
 This cache can be identified by the presence of the Prepper's Pie Recipe Card. It is also the only bunker which contains a corpse[³](#fn3). Its layout has a small vestibule which opens into a rectangular room containing the corpse and a bed.
 
-![](../assets/Abandoned_Mission_Cache_1.png)
-
-_Abandoned\_Mission\_Cache\_1.png_
+![Abandoned Mission Cache 1](../assets/Abandoned_Mission_Cache_1.png)
 
 Only _after_ accepting Special Request 1 will a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) appear for the player. It will spawn on the wall beside the corpse[⁴](#fn4).
 
@@ -123,21 +115,13 @@ Only _after_ accepting Special Request 1 will a [Loose Bricks Stash](./Loose%20B
 >
 > — Sutherland the [Trader](./Trader.md)
 
-![](../assets/Prepper%27s_Cache_Hunter.jpg)
+![Prepper's Cache Hunter](../assets/Prepper%27s_Cache_Hunter.jpg)
 
-_Prepper's\_Cache\_Hunter.jpg_
+![Prepper's Cache Hunter 2](../assets/Prepper%27s_Cache_Hunter_2.jpg)
 
-![](../assets/Prepper%27s_Cache_Hunter_2.jpg)
+![Prepper's Cache Hunter 3](../assets/Prepper%27s_Cache_Hunter_3.jpg)
 
-_Prepper's\_Cache\_Hunter\_2.jpg_
-
-![](../assets/Prepper%27s_Cache_Hunter_3.jpg)
-
-_Prepper's\_Cache\_Hunter\_3.jpg_
-
-![](../assets/Hunter%27sRevolverBench.jpg)
-
-_Hunter'sRevolverBench.jpg_
+![Hunter'sRevolverBench](../assets/Hunter%27sRevolverBench.jpg)
 
 Two rooms, the biggest one with antler decorations and different animal skulls, cured furs, a lot of storage space, a Bed, and a Work Bench. You may find plenty of animal skins, crow feathers, cured guts and hunting gear like a [Survival Bow](./Survival%20Bow.md) and arrows, a [Hunting Rifle](./Hunting%20Rifle.md) or [Revolver](./Revolver.md), [Snares](./Snare.md), and various tools. This is the only location in the game where the [Hunter's Revolver](./Hunter%27s%20Revolver.md) can be found.
 
@@ -159,9 +143,7 @@ Type 2 bunker (Hunter) loot:
 
 For Interloper and Misery players, this cache can be identified by its L-shaped layout[⁵](#fn5) and the green crate that is unique to this cache. Identifying this cache is needed to complete Special Request 2.
 
-![](../assets/Abandoned_Mission_Cache_2.png)
-
-_Abandoned\_Mission\_Cache\_2.png_
+![Abandoned Mission Cache 2](../assets/Abandoned_Mission_Cache_2.png)
 
 As with the other special requests, it is only _after_ accepting Special Request 2 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn on the far wall[⁶](#fn6).
 
@@ -173,21 +155,13 @@ As with the other special requests, it is only _after_ accepting Special Request
 >
 > — Sutherland the [Trader](./Trader.md)
 
-![](../assets/Prepper_Cache_Conspiracy.jpg)
+![Prepper Cache Conspiracy](../assets/Prepper_Cache_Conspiracy.jpg)
 
-_Prepper\_Cache\_Conspiracy.jpg_
+![Prepper Cache Conspiracy 2](../assets/Prepper_Cache_Conspiracy_2.jpg)
 
-![](../assets/Prepper_Cache_Conspiracy_2.jpg)
+![Prepper's Cache Conspiracy 3](../assets/Prepper%27s_Cache_Conspiracy_3.jpg)
 
-_Prepper\_Cache\_Conspiracy\_2.jpg_
-
-![](../assets/Prepper%27s_Cache_Conspiracy_3.jpg)
-
-_Prepper's\_Cache\_Conspiracy\_3.jpg_
-
-![](../assets/Prepper_Cache_Conspiracy_4.jpg)
-
-_Prepper\_Cache\_Conspiracy\_4.jpg_
+![Prepper Cache Conspiracy 4](../assets/Prepper_Cache_Conspiracy_4.jpg)
 
 A cache filled with papers lined across every available wall surface. A [Gold Nugget](./Gold%20Nugget.md) is guaranteed to spawn in the [Grate](./Grate.md).
 
@@ -207,13 +181,9 @@ Type 3 bunker (Conspiracy Type 1) loot:
 
 This cache is 1 room only and has a different layout and slightly different loot than the previous version.
 
-![](../assets/Survival_Stash_Bunker.jpg)
+![Survival Stash Bunker](../assets/Survival_Stash_Bunker.jpg)
 
-_Survival\_Stash\_Bunker.jpg_
-
-![](../assets/Survival_Stash_Bunker_2.jpg)
-
-_Survival\_Stash\_Bunker\_2.jpg_
+![Survival Stash Bunker 2](../assets/Survival_Stash_Bunker_2.jpg)
 
 With lots of guns, ammunition, arrows, bows, food, tools, and overall large amounts of survival supplies stored here. A [Safe](./Safe.md) is always hidden behind some crates and metal shelves near the entrance ladder and has a chance to contain a single [Gold Nugget](./Gold%20Nugget.md).
 
@@ -236,13 +206,9 @@ Type 3 bunker (Conspiracy Type 2) loot:
 
 For Interloper and Misery players, the Conspiracy Cache can be identified for having a red-painted corridor[⁷](#fn7) and a radiation sign on the wall. Identifying this cache is necessary to complete Special Request 3 as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-![](../assets/Abandoned_Mission_Cache_3_%28red_corridor%29.png)
+![Abandoned Mission Cache 3 (red corridor)](../assets/Abandoned_Mission_Cache_3_%28red_corridor%29.png)
 
-_Abandoned\_Mission\_Cache\_3\_(red\_corridor).png_
-
-![](../assets/Abandoned_Mission_Cache_3.png)
-
-_Abandoned\_Mission\_Cache\_3.png_
+![Abandoned Mission Cache 3](../assets/Abandoned_Mission_Cache_3.png)
 
 As with the other special requests, it is only _after_ accepting Special Request 3 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn at the far wall, to the left[⁸](#fn8).
 
@@ -316,97 +282,51 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 
 ![Timberwolf Mountain's prepper cache location](../assets/TM_cache.png)
 
-_Timberwolf Mountain's prepper cache location_
-
 ![Mystery Lake's prepper cache location](../assets/Camp_Office_to_Prepper_Cach.png)
 
-_Mystery Lake's prepper cache location_
-
 ![Ash Canyon's prepper cache location](../assets/AshCanyonPrepperCache.jpg)
-
-_Ash Canyon's prepper cache location_
 
 ## Outdated Gallery
 
 ![Prepper Cache (clothes) near Train Loading Area in Mystery Lake](../assets/Prepper_cache_clothes_in_ML.jpg)
 
-_Prepper Cache (clothes) near Train Loading Area in Mystery Lake_
-
 ![Very good supplies can be found inside a Prepper Cache](../assets/Expedition_Parka_in_Prepper_Cache_%28clothes%29.jpg)
-
-_Very good supplies can be found inside a Prepper Cache_
 
 ![A prepper cache containing mainly food.](../assets/305620_screenshots_20180708200046_1.jpg)
 
-_A prepper cache containing mainly food._
-
 ![Cache\_Firewood1](../assets/Cache_Firewood1.jpg)
-
-_Cache\_Firewood1_
 
 ![Cache\_Firewood2](../assets/Cache_Firewood2.jpg)
 
-_Cache\_Firewood2_
-
 ![Cache\_Firewood3](../assets/Cache_Firewood3.jpg)
-
-_Cache\_Firewood3_
 
 ![Cache\_Food1](../assets/Cache_Food1.jpg)
 
-_Cache\_Food1_
-
 ![Cache\_Food2](../assets/Cache_Food2.jpg)
-
-_Cache\_Food2_
 
 ![Cache\_Med1](../assets/Cache_Med1.jpg)
 
-_Cache\_Med1_
-
 ![Cache\_Med2](../assets/Cache_Med2.jpg)
-
-_Cache\_Med2_
 
 ![Cache\_Med3](../assets/Cache_Med3.jpg)
 
-_Cache\_Med3_
-
 ![Cache\_Weapon1](../assets/Cache_Hunting1.jpg)
-
-_Cache\_Weapon1_
 
 ![Cache\_Weapon2](../assets/Cache_Hunting2.jpg)
 
-_Cache\_Weapon2_
-
 ![Cache\_Weapon3](../assets/Cache_Hunting3.jpg)
-
-_Cache\_Weapon3_
 
 ![Cache\_Tool1](../assets/Cache_Tool1.jpg)
 
-_Cache\_Tool1_
-
 ![Cache\_Tool2](../assets/Cache_Tool2.jpg)
-
-_Cache\_Tool2_
 
 ![Cache\_Tool3](../assets/Cache_Tool3.jpg)
 
-_Cache\_Tool3_
-
 ![Cache\_Clothes1](../assets/Cache_Clothes1.jpg)
-
-_Cache\_Clothes1_
 
 ![Cache\_Clothes2](../assets/Cache_Clothes2.jpg)
 
-_Cache\_Clothes2_
-
 ![Cache\_Clothes3](../assets/Cache_Clothes3.jpg)
-
-_Cache\_Clothes3_
 
 ## Trivia
 
@@ -416,7 +336,7 @@ _Cache\_Clothes3_
 
 ## Achievements
 
-![](../assets/Down_Below_icon.png) [Down Below](./Down%20Below.md)
+![Down Below icon](../assets/Down_Below_icon.png) [Down Below](./Down%20Below.md)
 
 ## References
 

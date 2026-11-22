@@ -4,15 +4,11 @@
 
 **Crash Site (Pleasant Valley)**
 
-![](../assets/SS-PV-crash-04.jpg)
-
-_SS-PV-crash-04.jpg_
+![SS PV crash 04](../assets/SS-PV-crash-04.jpg)
 
 **Location**
 
-![](../assets/Crash_Site_Pleasant_Valley_Location.png)
-
-_Crash\_Site\_Pleasant\_Valley\_Location.png_
+![Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -36,34 +32,18 @@ Unlike the crate-filled [Tail Section](./Tail%20Section.md) that broke off on th
 
 ## Gallery
 
-![](../assets/SS-PV-crash-04.jpg)
-
-_SS-PV-crash-04.jpg_
+![SS PV crash 04](../assets/SS-PV-crash-04.jpg)
 
 ![The crashed Northern Charter plane in Episode 3](../assets/North_Charters_Crash.jpg)
 
-_The crashed Northern Charter plane in Episode 3_
+![SS PV crash 03](../assets/SS-PV-crash-03.jpg)
 
-![](../assets/SS-PV-crash-03.jpg)
+![SS PV crash 02](../assets/SS-PV-crash-02.jpg)
 
-_SS-PV-crash-03.jpg_
+![SS PV crash 01](../assets/SS-PV-crash-01.jpg)
 
-![](../assets/SS-PV-crash-02.jpg)
+![SS PV crash 06](../assets/SS-PV-crash-06.jpg)
 
-_SS-PV-crash-02.jpg_
+![SS PV crash 05](../assets/SS-PV-crash-05.jpg)
 
-![](../assets/SS-PV-crash-01.jpg)
-
-_SS-PV-crash-01.jpg_
-
-![](../assets/SS-PV-crash-06.jpg)
-
-_SS-PV-crash-06.jpg_
-
-![](../assets/SS-PV-crash-05.jpg)
-
-_SS-PV-crash-05.jpg_
-
-![](../assets/Missions_story_ep3_Fallen_Star.png)
-
-_Missions\_story\_ep3\_Fallen\_Star.png_
+![Missions story ep3 Fallen Star](../assets/Missions_story_ep3_Fallen_Star.png)

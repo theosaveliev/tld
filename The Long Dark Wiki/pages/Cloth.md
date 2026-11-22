@@ -4,9 +4,7 @@
 
 **Cloth**
 
-![](../assets/Cloth_icon.png)
-
-_cloth\_icon.png_
+![Cloth icon](../assets/Cloth_icon.png)
 
 **General**
 
@@ -16,7 +14,7 @@ _cloth\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Cloth used for crafting and repair, as well as for creating bandages.**”
 >
@@ -51,8 +49,4 @@ It can be used to repair [Clothing](./Clothing.md) in conjunction with a [Sewing
 
 ![3D model](../assets/Cloth.png)
 
-_3D model_
-
 ![Old model](../assets/Cloth_old_model.png)
-
-_Old model_

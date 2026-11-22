@@ -4,9 +4,7 @@
 
 **Simple Parka**
 
-![](../assets/Simple_Parka_icon.png)
-
-_Simple\_Parka\_icon.png_
+![Simple Parka icon](../assets/Simple_Parka_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Simple\_Parka\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-4%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-4%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
 > “**A simple winter coat constructed using modern materials. Good weight to warmth ratio.**”
 >
@@ -46,15 +44,9 @@ Similar to the [Ski Jacket](./Ski%20Jacket.md), but the parka weighs 0.25 kg (0.
 
 ![Clothing model](../assets/Simple_Parka_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Simple_Parka_Model_Damaged_icon.png)
 
-_Clothing model damaged_
-
 ![old model](../assets/Basic_winter_coat_%28historical%29.png)
-
-_old model_
 
 ## Update history
 

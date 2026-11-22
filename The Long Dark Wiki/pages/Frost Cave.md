@@ -4,15 +4,11 @@
 
 **Frost Cave**
 
-![](../assets/Frost_Cave_Interior.png)
-
-_Frost\_Cave\_Interior.png_
+![Frost Cave Interior](../assets/Frost_Cave_Interior.png)
 
 **Location**
 
-![](../assets/Frost_Cave_Location.png)
-
-_Frost\_Cave\_Location.png_
+![Frost Cave Location](../assets/Frost_Cave_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -22,7 +18,7 @@ _Frost\_Cave\_Location.png_
 
 **Type:** Cave
 
-Provides some shelter / **Frost Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md). It can be reached by climbing down the collapsed road near [Whealy's Turn](./Whealy%27s%20Turn.md) or by walking south of the [Main Hangar](./Main%20Hangar.md) at [Field 31](./Field%2031.md).
+Provides some shelter<br>**Frost Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md). It can be reached by climbing down the collapsed road near [Whealy's Turn](./Whealy%27s%20Turn.md) or by walking south of the [Main Hangar](./Main%20Hangar.md) at [Field 31](./Field%2031.md).
 
 ## Overview
 

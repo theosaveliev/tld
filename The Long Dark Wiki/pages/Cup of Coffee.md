@@ -15,9 +15,7 @@ _For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Cof
 
 **Cup of Coffee**
 
-![](../assets/Cup_of_Coffee_icon.png)
-
-_Cup\_of\_Coffee\_icon.png_
+![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 
@@ -100,15 +98,9 @@ Other items which restore fatigue, such as the [Emergency Stim](./Emergency%20St
 
 ![Cup of coffee with copyright mark on the base.](../assets/Cup_of_coffee_bottom.jpg)
 
-_Cup of coffee with copyright mark on the base._
-
 ![Old model.](../assets/Cup_of_coffee.png)
 
-_Old model._
-
 ![The real world Coffee Cup released by Hinterland](../assets/Cup_of_Coffee_Mug_Real.webp)
-
-_The real world Coffee Cup released by Hinterland_
 
 ## Update history
 

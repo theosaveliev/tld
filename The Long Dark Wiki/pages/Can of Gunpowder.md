@@ -13,9 +13,7 @@
 
 **Can of Gunpowder**
 
-![](../assets/Can_of_Gunpowder_icon.png)
-
-_Can\_of\_Gunpowder\_icon.png_
+![Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png)
 
 **Release:** [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
 

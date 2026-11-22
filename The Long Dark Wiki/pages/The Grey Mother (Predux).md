@@ -16,9 +16,7 @@
 
 **The Grey Mother (Predux)**
 
-![](../assets/The_Grey_Mother_%28Predux%29.jpg)
-
-_The\_Grey\_Mother\_(Predux).jpg_
+![The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -30,7 +28,7 @@ _The\_Grey\_Mother\_(Predux).jpg_
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Grey Mother](./Grey%20Mother.md)
 
 **Template:spoiler**
 > **The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.**

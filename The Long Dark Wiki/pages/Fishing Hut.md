@@ -2,17 +2,13 @@
 
 **Categories:** Locations in Coastal Highway, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Hut)
 
-![](../assets/Fishing_hut.png)
-
-_Fishing\_hut.png_
+![Fishing hut](../assets/Fishing_hut.png)
 
 **Fishing huts**are a type of small structure found on frozen lakes and coasts. While they can be found in many regions, they are especially abundant in [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 
-![](../assets/Fishing_hut_inside.jpg)
-
-_fishing\_hut\_inside.jpg_
+![Fishing hut inside](../assets/Fishing_hut_inside.jpg)
 
 Fishing huts are sheds placed on a frozen lake or ocean to provide shelter during ice [fishing](./Ice%20Fishing.md).
 

@@ -4,9 +4,7 @@
 
 **Security Chief's Rifle Holster**
 
-![](../assets/Security_Chief%27s_Rifle_Holster_icon.png)
-
-_Security\_Chief's\_Rifle\_Holster\_icon.png_
+![Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png)
 
 **General**
 
@@ -18,29 +16,27 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0
 
-**Protection:** ![](../assets/Protection_icon.png)0
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0
 
-**Mobility:** ![](../assets/Mobility_icon.png)0
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0
 
-**Harvest:** 4 x [Cured Leather](./Cured%20Leather.md) / 30 minutes
+**Harvest:** 4 x [Cured Leather](./Cured%20Leather.md)<br>30 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) / 22 minutes / 75% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>22 minutes<br>75% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**Although quite old, the Holster's original owner took great care to preserve the leatherwork. Its fine construction reduces the weight of your primary Rifle.**” / The **Security Chief's Rifle Holster** is a type of accessory in _The Long Dark_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
+<br>> “**Although quite old, the Holster's original owner took great care to preserve the leatherwork. Its fine construction reduces the weight of your primary Rifle.**”<br>The **Security Chief's Rifle Holster** is a type of accessory in _The Long Dark_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
 ## Overview
 
@@ -72,11 +68,7 @@ Security Chief's Rifle Holster is not available on [Interloper](./Interloper.md)
 
 ![Clothing model icon](../assets/Security_Chief%27s_Rifle_Holster_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Security_Chief%27s_Rifle_Holster_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

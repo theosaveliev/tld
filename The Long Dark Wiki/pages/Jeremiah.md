@@ -21,9 +21,7 @@
 
 **Jeremiah**
 
-![](../assets/Jeremiah.png)
-
-_Jeremiah.png_
+![Jeremiah](../assets/Jeremiah.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
@@ -31,7 +29,7 @@ _Jeremiah.png_
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
-**Mission:** **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [Renewed Hope](./Renewed%20Hope.md)
+**Mission:** **•** [Paradise Lost](./Paradise%20Lost.md)<br>**•** [The Wounded Trapper](./The%20Wounded%20Trapper.md)<br>**•** [The Best Defense](./The%20Best%20Defense.md)<br>**•** [Signal to Noise](./Signal%20to%20Noise.md)<br>**•** [Renewed Hope](./Renewed%20Hope.md)
 
 **Location(s):** [Trapper's Homestead](./Trapper%27s%20Homestead.md)
 
@@ -132,23 +130,13 @@ It is eventually revealed in Episode 5 that Jeremiah served in the Canadian Mili
 
 ![Jeremiah opening the hidden floorboard](../assets/Jeremiah_Floor_Hatch_Opening.jpg)
 
-_Jeremiah opening the hidden floorboard_
-
 ![The hidden shortwave](../assets/Trapper%27s_Cabin_Hidden_Ham_Radio.jpg)
-
-_The hidden shortwave_
 
 ![Jeremiah teaching Mackenzie his Survival School skills](../assets/The_Long_Dark_-_episode_two_-_survival_school.png)
 
-_Jeremiah teaching Mackenzie his Survival School skills_
-
 ![Mackenzie Tending to the wounded Trapper](../assets/The_Long_Dark_-_episode_2_trappers_cabin.png)
 
-_Mackenzie Tending to the wounded Trapper_
-
 ![What I Know icon](../assets/People_Jeremiah.png)
-
-_What I Know icon_
 
 ![Jeremiah's Knife](../assets/Jeremiah%27s_Knife_icon.png)
 
@@ -164,8 +152,6 @@ _[Jeremiah's Papers](./Jeremiah%27s%20Papers.md)_
 
 ![The cut Trust menu](../assets/Jeremiah_Trust_Menu.jpg)
 
-_The cut Trust menu_
-
 ![Jeremiah at the start of Risk of Infection](../assets/Risk_of_Infection.jpg)
 
 _Jeremiah at the start of [Risk of Infection](./Risk%20of%20Infection.md)_
@@ -174,42 +160,22 @@ _Jeremiah at the start of [Risk of Infection](./Risk%20of%20Infection.md)_
 
 ![Jeremiah being attacked by the Old Bear](../assets/Jeremiah_and_the_Old_Bear.jpg)
 
-_Jeremiah being attacked by the Old Bear_
-
 ![Ditto](../assets/Jeremiah_and_the_Old_Bear_2.jpg)
-
-_Ditto_
 
 ### Redux Episode 2
 
 ![Steam Trading Card](../assets/Jeremiah_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
 ![Ditto, full screen](../assets/Jeremiah_Steam_Card.jpg)
-
-_Ditto, full screen_
 
 ![Jeremiah resting in bed.](../assets/Jeremiah_in_bed.jpg)
 
-_Jeremiah resting in bed._
-
 ![ditto](../assets/Jeremiah_injured.jpg)
-
-_ditto_
 
 ![Jeremiah unconscious on the bed.](../assets/The_Long_Dark_20170812233655.jpg)
 
-_Jeremiah unconscious on the bed._
-
 ![Jeremiah recounting the tale of the "Demon Bear"](../assets/Demon_bear_legend_fire.jpg)
-
-_Jeremiah recounting the tale of the "Demon Bear"_
 
 ![Jeremiah with the military cartography map](../assets/Jeremiah_Military_Map.jpg)
 
-_Jeremiah with the military cartography map_
-
 ![Jeremiah's Shortwave Radio and Hunting Rifle.](../assets/Episode_2_radio.jpg)
-
-_Jeremiah's Shortwave Radio and Hunting Rifle._

@@ -4,9 +4,7 @@
 
 **Framed Photo**
 
-![](../assets/Framed_Photo_icon.png)
-
-_Framed\_Photo\_icon.png_
+![Framed Photo icon](../assets/Framed_Photo_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

@@ -4,9 +4,7 @@
 
 **Wool Shirt**
 
-![](../assets/Wool_Shirt_icon.png)
-
-_Wool\_Shirt\_icon.png_
+![Wool Shirt icon](../assets/Wool_Shirt_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Wool\_Shirt\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
 
 > “**A heavy insulated wool shirt designed to keep you warm in the Winter. Retains good warmth when wet.**”
 >
@@ -46,11 +44,7 @@ The Wool Shirt is not available in [Interloper](./Interloper.md) difficulty.
 
 ![Clothing model icon](../assets/Wool_Shirt_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Wool_Shirt_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

@@ -11,9 +11,7 @@
 
 **Peanut Butter**
 
-![](../assets/Peanut_Butter_icon.png)
-
-_Peanut\_Butter\_icon.png_
+![Peanut Butter icon](../assets/Peanut_Butter_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -57,8 +55,6 @@ Peanut Butter [decays](./Decay.md) more slowly when outdoors.
 ## Gallery
 
 ![Old model.](../assets/Peanut_butter.png)
-
-_Old model._
 
 ## Update history
 

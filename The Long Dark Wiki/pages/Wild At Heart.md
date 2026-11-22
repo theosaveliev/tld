@@ -4,9 +4,7 @@
 
 **Wild At Heart**
 
-![](../assets/Wild_At_Heart_icon.png)
-
-_Wild\_At\_Heart\_icon.png_
+![Wild At Heart icon](../assets/Wild_At_Heart_icon.png)
 
 **Description:** Defeat and kill the Cougar stalking the Geothermal Region.
 

@@ -4,9 +4,7 @@
 
 **Tall Rustic Closet**
 
-![](../assets/Tall_Rustic_Closet_icon.png)
-
-_Tall\_Rustic\_Closet\_icon.png_
+![Tall Rustic Closet icon](../assets/Tall_Rustic_Closet_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

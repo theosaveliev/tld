@@ -4,9 +4,7 @@
 
 **Goods and Services**
 
-![](../assets/Goods_and_Services_icon.png)
-
-_Goods\_and\_Services\_icon.png_
+![Goods and Services icon](../assets/Goods_and_Services_icon.png)
 
 **Description:** Achieve the highest Trust level with the Trader.
 

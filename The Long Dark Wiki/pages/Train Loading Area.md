@@ -4,15 +4,11 @@
 
 **Train Loading Area**
 
-![](../assets/Train_Loading_Area_1.jpg)
-
-_Train\_Loading\_Area\_1.jpg_
+![Train Loading Area 1](../assets/Train_Loading_Area_1.jpg)
 
 **Location**
 
-![](../assets/Train_Loading_Area_Location.png)
-
-_Train\_Loading\_Area\_Location.png_
+![Train Loading Area Location](../assets/Train_Loading_Area_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -29,5 +25,3 @@ A [Train Shuttle](./Train%20Shuttle.md) can be entered to escape wolves, and oft
 ## Gallery
 
 ![An alternative view of Train Loading Area.](../assets/Train_Loading_Area_2.jpg)
-
-_An alternative view of Train Loading Area._

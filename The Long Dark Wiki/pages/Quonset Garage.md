@@ -12,15 +12,13 @@
 
 **Quonset Garage**
 
-\[\[File: / ![](../assets/Garage_2019.jpg) / _Garage\_2019.jpg_
+![Garage 2019](../assets/Garage_2019.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Quonset_Garage_map.png)
-
-_Quonset\_Garage\_map.png_
+![Quonset Garage map](../assets/Quonset_Garage_map.png)
 
 Region
 
@@ -38,15 +36,11 @@ IndustrialStore
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -99,36 +93,18 @@ The garage has many advantages as a safe house. Inside you will find ample stora
 
 ![Quonset Gas Station workroom](../assets/Quonset_Gas_Station_-_backroom.jpg)
 
-_Quonset Gas Station workroom_
-
 ![Quonset Gas Station garage.](../assets/Quonset_Gas_Station_-_garage_2.jpg)
-
-_Quonset Gas Station garage._
 
 ![Quonset Gas Station garage.](../assets/Quonset_Gas_Station_-_garage_1.jpg)
 
-_Quonset Gas Station garage._
-
 ![Quonset Gas Station store.](../assets/Quonset_Gas_Station_-_store.jpg)
-
-_Quonset Gas Station store._
 
 ![Quonset Gas Station toilet.](../assets/Quonset_Gas_Station_-_restroom.jpg)
 
-_Quonset Gas Station toilet._
-
 ![Quonset lit up by Aurora](../assets/20210212013553_1.jpg)
 
-_Quonset lit up by Aurora_
-
-![](../assets/Quonset_Garage_exterior.jpg)
-
-_Quonset\_garage\_exterior.jpg_
+![Quonset Garage exterior](../assets/Quonset_Garage_exterior.jpg)
 
 ![The old exterior of the garage](../assets/Quonset_Garage_exterior.jpg)
 
-_The old exterior of the garage_
-
 ![The older exterior of the garage.](../assets/The_Long_Dark_-_screenshot_14.jpg)
-
-_The older exterior of the garage._

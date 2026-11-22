@@ -4,9 +4,7 @@
 
 **Switch Box**
 
-![](../assets/SwitchBox.jpg)
-
-_SwitchBox.jpg_
+![SwitchBox](../assets/SwitchBox.jpg)
 
 **General**
 

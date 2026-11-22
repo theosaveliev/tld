@@ -4,9 +4,7 @@
 
 **Local Legends - Ghost Stag**
 
-![](../assets/Local_Legends_-_Ghost_Stag_icon.png)
-
-_Local\_Legends\_-\_Ghost\_Stag\_icon.png_
+![Local Legends Ghost Stag icon](../assets/Local_Legends_-_Ghost_Stag_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

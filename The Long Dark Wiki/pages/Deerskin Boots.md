@@ -4,9 +4,7 @@
 
 **Deerskin Boots**
 
-![](../assets/Deerskin_Boots_icon.png)
-
-_Deerskin\_Boots\_icon.png_
+![Deerskin Boots icon](../assets/Deerskin_Boots_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Deerskin\_Boots\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)7%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)7%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 110 minutes
+**Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>110 minutes
 
-**Repair:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 90 minutes / 30% condition
+**Repair:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>90 minutes<br>30% condition
 
 > “**Supple and tough. Allows great balance of mobility and warmth. Also, stylish.**”
 >
@@ -46,11 +44,7 @@ Deerskin boots are comparable to the rare [Mukluks](./Mukluks.md), which are 0.5
 
 ![Clothing model icon](../assets/Deerskin_Boots_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Deerskin_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Crafting
 

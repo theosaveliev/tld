@@ -12,9 +12,7 @@
 
 **Rabbitskin Mitts**
 
-![](../assets/Rabbitskin_Mitts_icon.png)
-
-_Rabbitskin\_Mitts\_icon.png_
+![Rabbitskin Mitts icon](../assets/Rabbitskin_Mitts_icon.png)
 
 **General**
 
@@ -22,21 +20,21 @@ _Rabbitskin\_Mitts\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes
+**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)<br>10 minutes
 
-**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 30% condition
+**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>30 minutes<br>30% condition
 
 > “**Handcrafted mitts. They may make you clumsy, but they're very warm. Kind of like wearing a rabbit on your hands.**”
 >
@@ -78,15 +76,9 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 
 ![Pre alpha model.](../assets/Rabbitskin_mitts_%28historical%29.png)
 
-_Pre alpha model._
-
 ![Clothing model](../assets/Rabbitskin_Mitts_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Rabbitskin_Mitts_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

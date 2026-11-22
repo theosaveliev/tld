@@ -4,9 +4,7 @@
 
 **Lily's Trunk Key**
 
-![](../assets/Lily%27s_Trunk_Key_icon.png)
-
-_Lily's\_Trunk\_Key\_icon.png_
+![Lily's Trunk Key icon](../assets/Lily%27s_Trunk_Key_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

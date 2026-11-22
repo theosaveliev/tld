@@ -4,9 +4,7 @@
 
 **Brake Shoe**
 
-![](../assets/Brake_Shoe_icon.png)
-
-_Brake\_Shoe\_icon.png_
+![Brake Shoe icon](../assets/Brake_Shoe_icon.png)
 
 **General**
 
@@ -14,18 +12,16 @@ _Brake\_Shoe\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**A spare Brake Shoe used to repair a Train's braking mechanism. Old, but fit for purpose.** / In-game description
+**A spare Brake Shoe used to repair a Train's braking mechanism. Old, but fit for purpose.**<br>In-game description
 
 ”
 

@@ -11,15 +11,11 @@
 
 **The Riken**
 
-![](../assets/The_Riken.jpg)
-
-_The\_Riken.jpg_
+![The Riken](../assets/The_Riken.jpg)
 
 **Location**
 
-![](../assets/The_Riken_Location.png)
-
-_The\_Riken\_Location.png_
+![The Riken Location](../assets/The_Riken_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 
@@ -29,9 +25,7 @@ _The\_Riken\_Location.png_
 
 **Type:** Industrial
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 
@@ -60,23 +54,13 @@ The weather deck features an inoperable harpoon gun, direct passage to/from the 
 
 ![Furnace room](../assets/The_Riken_-_furnace_room.jpg)
 
-_Furnace room_
-
 ![Upper deck](../assets/The_Riken_-_upper_deck.jpg)
-
-_Upper deck_
 
 ![Bridge deck](../assets/The_Riken_-_bridge_deck.jpg)
 
-_Bridge deck_
-
 ![Weathered deck](../assets/The_Riken_-_weathered_deck.jpg)
 
-_Weathered deck_
-
 ![The ship's hold](../assets/Riken_hold.jpg)
-
-_The ship's hold_
 
 \[Missing image: 305620\_20160916194519\_1.png\]
 
@@ -84,8 +68,4 @@ _Harpoon gun_
 
 ![Roaming bear, an opportunity to have a secure shot from the deck of The Riken.](../assets/Roaming_bear.jpg)
 
-_Roaming bear, an opportunity to have a secure shot from the deck of The Riken._
-
 ![Forge smoke](../assets/Riken_smoke.png)
-
-_Forge smoke_

@@ -4,15 +4,11 @@
 
 **Shortwave Tower**
 
-![](../assets/Shortwave_Tower.png)
-
-_Shortwave\_Tower.png_
+![Shortwave Tower](../assets/Shortwave_Tower.png)
 
 **Location**
 
-![](../assets/Shortwave_Tower_Location.png)
-
-_Shortwave\_Tower\_Location.png_
+![Shortwave Tower Location](../assets/Shortwave_Tower_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -28,14 +24,8 @@ There are three crates which can be broken down for [reclaimed wood](./Reclaimed
 
 ## Gallery
 
-![](../assets/20170304170301_1.jpg)
+![20170304170301 1](../assets/20170304170301_1.jpg)
 
-_20170304170301\_1.jpg_
-
-![](../assets/20170304170439_1.jpg)
-
-_20170304170439\_1.jpg_
+![20170304170439 1](../assets/20170304170439_1.jpg)
 
 ![Laptop and Aurora in the Archivist Challenge](../assets/20190113203759_1.jpg)
-
-_Laptop and Aurora in the Archivist Challenge_

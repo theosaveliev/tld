@@ -4,9 +4,7 @@
 
 **Loose Tree Bark**
 
-![](../assets/Loose_Tree_Bark.jpg)
-
-_Loose\_Tree\_Bark.jpg_
+![Loose Tree Bark](../assets/Loose_Tree_Bark.jpg)
 
 **Release:** Part 1 TFTFT
 

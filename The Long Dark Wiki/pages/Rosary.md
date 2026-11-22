@@ -4,9 +4,7 @@
 
 **Rosary**
 
-![](../assets/Rosary_icon.png)
-
-_Rosary\_icon.png_
+![Rosary icon](../assets/Rosary_icon.png)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md)
 

@@ -13,7 +13,7 @@
 - [Predux Episode 1 and 2](#predux-episode-1-and-2)
 - [Tales from the Far Territory](#tales-from-the-far-territory)
 
-![](../assets/Disambig.png)_**This article is a disambiguation page for Transcript (disambiguation)**  
+![Disambig](../assets/Disambig.png)_**This article is a disambiguation page for Transcript (disambiguation)**  
  The following is a list of articles that share the same, or very similar, titles. Please follow one of the links below.  
  If an internal link led you here, you may wish to change the link to point directly to the intended article._
 

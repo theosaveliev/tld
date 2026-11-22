@@ -4,15 +4,11 @@
 
 **Crystal Lake**
 
-![](../assets/Crystal_Lake.png)
-
-_Crystal\_Lake.png_
+![Crystal Lake](../assets/Crystal_Lake.png)
 
 **Location**
 
-![](../assets/Crystal_Lake_Location.png)
-
-_Crystal\_Lake\_Location.png_
+![Crystal Lake Location](../assets/Crystal_Lake_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -36,12 +32,6 @@ A large number of [cat tail](./Cat%20Tail.md) plants can be found growing on the
 
 ![Crystal Lake during the Aurora](../assets/20201210115850_1.jpg)
 
-_Crystal Lake during the Aurora_
-
 ![A knife spawn on the canoes in front of the Hut](../assets/Knife.jpg)
 
-_A knife spawn on the canoes in front of the Hut_
-
 ![Crystal Lake with the fishing cabin and Hut.](../assets/20210428205850_1.jpg)
-
-_Crystal Lake with the fishing cabin and Hut._

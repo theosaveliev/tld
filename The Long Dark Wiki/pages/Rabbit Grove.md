@@ -4,15 +4,13 @@
 
 **Rabbit Grove**
 
-\[\[File: / ![](../assets/Rabbit_Grove.jpg) / _Rabbit\_Grove.jpg_
+![Rabbit Grove](../assets/Rabbit_Grove.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Rabbit_Grove_map.png)
-
-_Rabbit\_Grove\_map.png_
+![Rabbit Grove map](../assets/Rabbit_Grove_map.png)
 
 Region
 
@@ -24,9 +22,7 @@ Location
 
 Type
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
@@ -42,11 +38,7 @@ Rabbit Grove, as the name suggests, is populated with [rabbits](./Rabbit.md) in 
 
 ![Rabbit Grove Cabin](../assets/SS-CH-Rabbit01.jpg)
 
-_Rabbit Grove Cabin_
-
 ![Cabin - interior](../assets/Fishing_cabin.jpg)
-
-_Cabin - interior_
 
 ![Aurora night PC (It has a Buffer Memories of the Fishing Cabin)](../assets/SS-CH-FishingCabin02.jpg)
 

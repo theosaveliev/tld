@@ -4,15 +4,11 @@
 
 **Wedge Cave**
 
-![](../assets/Wedge_Cave.jpg)
-
-_Wedge\_Cave.jpg_
+![Wedge Cave](../assets/Wedge_Cave.jpg)
 
 **Location**
 
-![](../assets/Wedge_Cave_Location.png)
-
-_Wedge\_Cave\_Location.png_
+![Wedge Cave Location](../assets/Wedge_Cave_Location.png)
 
 Region
 
@@ -26,8 +22,4 @@ Region
 
 ![Path up to Wedge Cave from the road](../assets/Wedge_Cave.jpg)
 
-_Path up to Wedge Cave from the road_
-
 ![View of Blackrock Mountain from Wedge Cave just before sunset](../assets/Wedge_Cave_view.jpg)
-
-_View of Blackrock Mountain from Wedge Cave just before sunset_

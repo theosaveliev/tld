@@ -4,15 +4,13 @@
 
 **Broken Arrow**
 
-![](../assets/Broken_Arrow_icon.png)
-
-_Broken\_Arrow\_icon.png_
+![Broken Arrow icon](../assets/Broken_Arrow_icon.png)
 
 **General**
 
 **Item Type:** Tool
 
-**Weight:** ![](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 
 **Harvest:** 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md)
 
@@ -37,8 +35,4 @@ Broken arrows can be found in a few places, some locations of note include:
 
 ![All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
 
-_All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right._
-
 ![Old model.](../assets/Broken_Arrow.png)
-
-_Old model._

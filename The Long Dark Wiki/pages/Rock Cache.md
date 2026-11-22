@@ -12,9 +12,7 @@
 
 **Rock Cache**
 
-![](../assets/Rock_Cache_icon.png)
-
-_Rock\_Cache\_icon.png_
+![Rock Cache icon](../assets/Rock_Cache_icon.png)
 
 **General**
 
@@ -64,17 +62,11 @@ They can be dismantled over 15 in-game minutes for a full refund of 50 stones, h
 
 ## Gallery
 
-![](../assets/Rockcache2.png)
+![Rockcache2](../assets/Rockcache2.png)
 
-_Rockcache2.png_
-
-![](../assets/Rockcache.png)
-
-_Rockcache.png_
+![Rockcache](../assets/Rockcache.png)
 
 ![How a rock cache appears on the map, shown in orange](../assets/Rockcachemap.png)
-
-_How a rock cache appears on the map, shown in orange_
 
 ## Notes
 

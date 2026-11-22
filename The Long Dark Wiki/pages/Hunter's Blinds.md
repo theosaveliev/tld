@@ -14,8 +14,6 @@ Blinds may also contain a small amount of useful loot, such as [food](./Food%20A
 
 ![Another Hunter's Blind in Pleasant Valley.](../assets/Screen_Shot_2017-03-06_at_9.26.08_am.png)
 
-_Another Hunter's Blind in Pleasant Valley._
-
 ## Locations
 
 - Near [Abandoned Prepper's Cache](./Prepper%27s%20Abandoned%20Cache.md), in [Pleasant Valley](./Pleasant%20Valley.md).

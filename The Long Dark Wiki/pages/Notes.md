@@ -26,7 +26,7 @@
 - [Gallery](#gallery)
 - [References](#references)
 
-![](../assets/Note_icon.png) **Notes** are [Collectibles](./Collectibles.md) found scattered around the map in [Survival Mode](./Survival%20Mode.md). The notes are in-keeping with the game's setting: Some are letters, written as if the authors had been visiting [Great Bear Island](./Great%20Bear%20Island.md), while others are poems. Some notes stand alone, others tell a continuing story.
+![Note icon](../assets/Note_icon.png) **Notes** are [Collectibles](./Collectibles.md) found scattered around the map in [Survival Mode](./Survival%20Mode.md). The notes are in-keeping with the game's setting: Some are letters, written as if the authors had been visiting [Great Bear Island](./Great%20Bear%20Island.md), while others are poems. Some notes stand alone, others tell a continuing story.
 
 Notes found while playing [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) are also stored here.
 
@@ -152,15 +152,15 @@ There are currently 102 notes in total to find.
 
 ### [Signal Void](./Signal%20Void.md)
 
-- ![](../assets/Field_31_Operation_Memo_icon.png) [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)
-- ![](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
-- ![](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
-- ![](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
-- ![](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
-- ![](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
-- ![](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
-- ![](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
-- ![](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
+- ![Field 31 Operation Memo icon](../assets/Field_31_Operation_Memo_icon.png) [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)
+- ![Security Chief's Log 6 icon](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
+- ![Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![Security Chief's Log 23 icon](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
+- ![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![Interview Transcript 4 icon](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
+- ![Interview Transcript 12 icon](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
+- ![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
+- ![Interview Transcript 17 icon](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
 ### [Buried Echoes](./Buried%20Echoes.md)
 
@@ -182,9 +182,7 @@ There are currently 102 notes in total to find.
 
 ## Gallery
 
-![](../assets/A_Note_Left_Behind.jpg)
-
-_A\_Note\_Left\_Behind.jpg_
+![A Note Left Behind](../assets/A_Note_Left_Behind.jpg)
 
 ## References
 

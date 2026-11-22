@@ -2,13 +2,11 @@
 
 **Categories:** Article stubs, DLC Content, Locations, Locations in Anna Island -- Track Section 3, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Railyard_%28Track_Section_3%29)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Railyard** / ![](../assets/No_picture.png) / _No\_picture.png_ / **Location** / ![](../assets/Railyard_Track_3_Location.png) / _Railyard\_Track\_3\_Location.png_ / **Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)\\|- / **Description:** A railyard / **General** / Has no shelter\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
+<br>**Railyard**<br>![No picture](../assets/No_picture.png)<br>**Location**<br>![Railyard Track 3 Location](../assets/Railyard_Track_3_Location.png)<br>**Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)\\|-<br>**Description:** A railyard<br>**General**<br>Has no shelter\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
 
 ## Overview
 

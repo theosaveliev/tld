@@ -11,7 +11,7 @@
 
 **Smallmouth Bass (Raw)**
 
-\[\[File: / ![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png) / _Opened_
+![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png)<br>![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png)
 
 250px\]\]
 
@@ -71,8 +71,6 @@ At 0% condition food disappears if inside of a container, but not outside of con
 ## Gallery
 
 ![Old model.](../assets/Smallmouth_bass_raw.png)
-
-_Old model._
 
 ## Update history
 

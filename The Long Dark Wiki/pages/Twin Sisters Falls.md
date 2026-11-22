@@ -4,15 +4,11 @@
 
 **Twin Sisters Falls**
 
-![](../assets/TwinSisterFallsRainbow.png)
-
-_TwinSisterFallsRainbow.png_
+![TwinSisterFallsRainbow](../assets/TwinSisterFallsRainbow.png)
 
 **Location**
 
-![](../assets/Twin_Sisters_Falls_Location.png)
-
-_Twin\_Sisters\_Falls\_Location.png_
+![Twin Sisters Falls Location](../assets/Twin_Sisters_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -38,8 +34,4 @@ _The view from [Many Falls Vista](./Many%20Falls%20Vista.md). Twin Sisters Falls
 
 ![The falls at sunset.](../assets/Twin_Sister_Falls.png)
 
-_The falls at sunset._
-
 ![Another view of the rainbow seen at Twin Sisters Falls.](../assets/TwinSisterFallsRainbow2.png)
-
-_Another view of the rainbow seen at Twin Sisters Falls._

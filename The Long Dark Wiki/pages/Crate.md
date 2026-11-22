@@ -12,7 +12,7 @@
 
 **Crate**
 
-\[\[File: / ![Large](../assets/Crate_%28large%29.jpg) / _Large_ / ![Medium](../assets/Crate_%28medium%29.jpg) / _Medium_ / ![Small](../assets/CrateSmall.jpg) / _Small_ / ![Wooden](../assets/Wooden_crate_%28small%29.jpg) / _Wooden_ / ![Coal](../assets/Wood_crate_%28small%29.jpg) / _Coal_
+![Large](../assets/Crate_%28large%29.jpg)<br>![Medium](../assets/Crate_%28medium%29.jpg)<br>![Small](../assets/CrateSmall.jpg)<br>![Wooden](../assets/Wooden_crate_%28small%29.jpg)<br>![Coal](../assets/Wood_crate_%28small%29.jpg)
 
 250px\]\]
 
@@ -24,7 +24,7 @@
 
 **Statistics**
 
-**Harvest:** 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) (large) / 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) (medium) / 2 x [Reclaimed Wood](./Reclaimed%20Wood.md) (small)
+**Harvest:** 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) (large)<br>4 × [Reclaimed Wood](./Reclaimed%20Wood.md) (medium)<br>2 x [Reclaimed Wood](./Reclaimed%20Wood.md) (small)
 
 The crate is a wooden container which is used to store items. When a crate is broken down, it yields Reclaimed Wood and whatever contents may be inside. Crates are an excellent starter item, if any are found. Crates can be harvested with bare hands, with a hatchet, or with a heavy hammer.
 

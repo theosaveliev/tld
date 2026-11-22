@@ -4,15 +4,13 @@
 
 **Wood Stove**
 
-![](../assets/Wood_stove.png)
-
-_Wood\_stove.png_
+![Wood stove](../assets/Wood_stove.png)
 
 **General**
 
 **Type:** Fire Starting
 
-**Max temperature:** 80 °C / _(144 °F)_
+**Max temperature:** 80 °C<br>_(144 °F)_
 
 **Cooking slots:** 2
 

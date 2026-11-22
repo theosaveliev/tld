@@ -4,15 +4,13 @@
 
 **Conductor's Dropoff**
 
-\[\[File: / ![Slope](../assets/Conductor%27s_Dropoff.jpg) / _Slope_ / ![Cliff](../assets/Conductor%27s_Dropoff2.jpg) / _Cliff_
+![Slope](../assets/Conductor%27s_Dropoff.jpg)<br>![Cliff](../assets/Conductor%27s_Dropoff2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Conductor%27s_Dropoff_Location.png)
-
-_Conductor's\_Dropoff\_Location.png_
+![Conductor's Dropoff Location](../assets/Conductor%27s_Dropoff_Location.png)
 
 Region
 

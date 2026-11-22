@@ -9,13 +9,11 @@
 - [Survival Mode](#survival-mode)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Replacement Fuse** / ![](../assets/Replacement_Fuse_icon.png) / _Replacement\_Fuse\_icon.png_ / **Wintermute:** No / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Examine:** Electrical fuse. Looks old, but appears to be in working order. / **Values** / **Weight:** 0.2 kg (0.44 lbs) / **Advanced data** / **Item key:** STORY\_ElevatorParts / The **Replacement Fuse** is an item that was first added in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of Story Mode. It was later added to survival mode in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
+<br>**Replacement Fuse**<br>![Replacement Fuse icon](../assets/Replacement_Fuse_icon.png)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Examine:** Electrical fuse. Looks old, but appears to be in working order.<br>**Values**<br>**Weight:** 0.2 kg (0.44 lbs)<br>**Advanced data**<br>**Item key:** STORY\_ElevatorParts<br>The **Replacement Fuse** is an item that was first added in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of Story Mode. It was later added to survival mode in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
 ## Use
 

@@ -12,7 +12,7 @@
 
 **Shelf**
 
-\[\[File: / ![Wide](../assets/Wide_Shelf.jpg) / _Wide_ / ![Large](../assets/Large_Shelf.jpg) / _Large_ / ![Bookshelf](../assets/Bookshelf.jpg) / _Bookshelf_ / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / _Gun Rack_ / ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / _Single Rack_
+![Wide](../assets/Wide_Shelf.jpg)<br>![Large](../assets/Large_Shelf.jpg)<br>![Bookshelf](../assets/Bookshelf.jpg)<br>![Gun Rack](../assets/Hunting_rifle_rack.jpg)<br>![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
 
 250px\]\]
 

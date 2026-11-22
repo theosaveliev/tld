@@ -4,15 +4,11 @@
 
 **Pensive Pond**
 
-![](../assets/SS-PV-PensivePond_%281%29.jpg)
-
-_SS-PV-PensivePond\_(1).jpg_
+![SS PV PensivePond (1)](../assets/SS-PV-PensivePond_%281%29.jpg)
 
 **Location**
 
-![](../assets/Pensive_Pond_Location.png)
-
-_Pensive\_Pond\_Location.png_
+![Pensive Pond Location](../assets/Pensive_Pond_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -34,10 +30,6 @@ A [Cougar](./Cougar.md) spawns just east of here, which can pose a danger to pla
 
 Pensive Pond can be found easily from [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md). Standing at the round silo on the farmstead, turn to face [Heartbreak Bridge](./Heartbreak%20Bridge.md). Cliffs can be seen in the background, on top of which Pensive Pond can be found. Following [Lower Falls](./Lower%20Falls.md) and climbing up carefully, some shelter, fishing or a picnic can be had.
 
-![](../assets/SS-PV-PensivePond_%281%29.jpg)
+![SS PV PensivePond (1)](../assets/SS-PV-PensivePond_%281%29.jpg)
 
-_SS-PV-PensivePond\_(1).jpg_
-
-![](../assets/SS-PV-PensivePond_%282%29.jpg)
-
-_SS-PV-PensivePond\_(2).jpg_
+![SS PV PensivePond (2)](../assets/SS-PV-PensivePond_%282%29.jpg)

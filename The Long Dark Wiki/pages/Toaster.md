@@ -4,9 +4,7 @@
 
 **Toaster**
 
-![](../assets/Toaster.jpg)
-
-_Toaster.jpg_
+![Toaster](../assets/Toaster.jpg)
 
 **General**
 

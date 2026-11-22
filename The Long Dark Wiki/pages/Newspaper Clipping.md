@@ -4,9 +4,7 @@
 
 **Newspaper Clipping**
 
-![](../assets/Newspaper_Clipping_icon.png)
-
-_Newspaper\_Clipping\_icon.png_
+![Newspaper Clipping icon](../assets/Newspaper_Clipping_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

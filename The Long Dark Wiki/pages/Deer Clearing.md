@@ -4,15 +4,11 @@
 
 **Deer Clearing**
 
-![](../assets/Deer_Clearing.jpg)
-
-_Deer\_Clearing.jpg_
+![Deer Clearing](../assets/Deer_Clearing.jpg)
 
 **Location**
 
-![](../assets/Deer_Clearing_Location.png)
-
-_Deer\_Clearing\_Location.png_
+![Deer Clearing Location](../assets/Deer_Clearing_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -45,20 +41,10 @@ If the player places a [climbing rope](./Mountaineering%20Rope.md) at the spot o
 
 ![Deer Clearing Cave (Ash Canyon transition)](../assets/Timberwolf_AshCanyon_Cave.jpg)
 
-_Deer Clearing Cave (Ash Canyon transition)_
-
 ![Deer clearing, at night, from the shallow Cave](../assets/20210428012809_1.jpg)
-
-_Deer clearing, at night, from the shallow Cave_
 
 ![Deer Clearing Cave](../assets/TWM_deerclearing_cave.jpg)
 
-_Deer Clearing Cave_
-
 ![Deer Clearing](../assets/Deer_Clearing.jpg)
 
-_Deer Clearing_
-
 ![The shallow Cave at Deer Clearing can provide some shelter and be used to cure items](../assets/20210428011214_1.jpg)
-
-_The shallow Cave at Deer Clearing can provide some shelter and be used to cure items_

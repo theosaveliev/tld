@@ -4,9 +4,7 @@
 
 **Work Gloves**
 
-![](../assets/Work_Gloves_icon.png)
-
-_Work\_Gloves\_icon.png_
+![Work Gloves icon](../assets/Work_Gloves_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Work\_Gloves\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![](../assets/Protection_icon.png)4%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)4%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-2%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-2%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 10 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>10 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
 > “**Heavy leather gloves designed to protect the hands on the worksite. Unfortunately, not really designed for warmth.**”
 >
@@ -44,11 +42,7 @@ Work gloves have similar stats and appearance to the [Ski Gloves](./Ski%20Gloves
 
 ![Clothing model damaged](../assets/Work_Gloves_Damaged_icon.png)
 
-_Clothing model damaged_
-
 ![Clothing Model](../assets/Work_Gloves_Model_icon.png)
-
-_Clothing Model_
 
 ## Update history
 

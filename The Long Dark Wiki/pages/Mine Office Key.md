@@ -11,9 +11,7 @@
 
 **Mine Office Key**
 
-![](../assets/Mine_Office_Key_icon.png)
-
-_Mine\_Office\_Key\_icon.png_
+![Mine Office Key icon](../assets/Mine_Office_Key_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 
@@ -45,11 +43,7 @@ It can be found on a corpse in the mine. Starting from the bottom floor of the [
 
 ![The corpse with the key](../assets/Mine_Office_Key_location.jpg)
 
-_The corpse with the key_
-
 ![The other end of the chute for reference](../assets/Mine_Office_Key_location_2.jpg)
-
-_The other end of the chute for reference_
 
 ### Trailer
 
@@ -67,15 +61,9 @@ Loot:
 
 ![The chute exit from Level 2](../assets/Mine_Office_Key_trailer_2.jpg)
 
-_The chute exit from Level 2_
-
 ![The trailer](../assets/Mine_Office_Key_trailer.jpg)
 
-_The trailer_
-
 ![The inside of the trailer](../assets/Mine_Office_Key_trailer_3.jpg)
-
-_The inside of the trailer_
 
 ## Update history
 

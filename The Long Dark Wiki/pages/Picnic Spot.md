@@ -4,15 +4,11 @@
 
 **Picnic Spot**
 
-![](../assets/Picnic_Spot.jpg)
-
-_Picnic\_Spot.jpg_
+![Picnic Spot](../assets/Picnic_Spot.jpg)
 
 **Location**
 
-![](../assets/Picnic_Spot_Location.png)
-
-_Picnic\_Spot\_Location.png_
+![Picnic Spot Location](../assets/Picnic_Spot_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

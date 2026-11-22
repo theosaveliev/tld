@@ -12,7 +12,7 @@
 - [Rope Climbing](#rope-climbing)
 - [Feats](#feats)
 
-![](../assets/Sprint_icon.png)
+![Sprint icon](../assets/Sprint_icon.png)
 
 **Stamina** represents the player's ability to undertake several physically demanding tasks. Sprinting or Rope Climbing both reduce stamina. When the stamina bar is completely drained, rope climbing becomes slower and more dangerous, and the player is unable to sprint. The stamina bar will gradually refill itself when not in active use.
 
@@ -30,16 +30,16 @@ The following items positively impact the player's stamina.
 
 | Image | Item | Effect | Duration |
 | --- | --- | --- | --- |
-| ![](../assets/Cup_of_Acorn_Coffee_icon.png)<br>_Cup\_of\_Acorn\_Coffee\_icon.png_ | [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | - Fatigue is immediately reduced by approximately 5%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 30 minutes |
-| ![](../assets/Cup_of_Coffee_icon.png)<br>_Cup\_of\_Coffee\_icon.png_ | [Cup of Coffee](./Cup%20of%20Coffee.md) | - Fatigue is immediately reduced by approximately 10%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 1 hour |
-| ![](../assets/Emergency_Stim_icon.png)<br>_Emergency\_Stim\_icon.png_ | [Emergency Stim](./Emergency%20Stim.md) | - Allows the player to ignore sprained ankles and sprint.<br>- Gives temporary unlimited Stamina ([Energy Boost](./Energy%20Boost.md))<br>- After 1 minute the player's fatigue and stamina bars drain completely | 15 minutes |
-| ![](../assets/Go!_Energy_Drink_icon.png)<br>_Go!\_Energy\_Drink\_icon.png_ | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | - Provides a bonus to fatigue and Stamina despite afflictions for 30 min<br>- [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 minutes<br>- Grants [Energy Boost](./Energy%20Boost.md)<br>- Instantly recovers 60% of Stamina<br>- Can give [Headache](./Headache.md) | 45 minutes |
-| ![](../assets/Crampons_icon.png)<br>_Crampons\_icon.png_ | [Crampons](./Crampons.md) | - 60% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 50% on uneven slopes | Until unequipped |
-| ![](../assets/Improvised_Crampons_icon.png)<br>_Improvised\_Crampons\_icon.png_ | [Improvised Crampons](./Improvised%20Crampons.md) | - 40% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 30% on uneven slopes | Until unequipped |
-| ![](../assets/Coastal_Fishcakes_icon.png)<br>_Coastal\_Fishcakes\_icon.png_ | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | - Max 15% Stamina | 3 hours |
-| ![](../assets/Thomson_Family_Stew_icon.png)<br>_Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | - Max 15% Stamina | 3 hours |
-| ![](../assets/Stalker%27s_Pie_icon.png)<br>_Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
-| ![](../assets/Prepper%27s_Pie_icon.png)<br>_Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
+| ![Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) | [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | - Fatigue is immediately reduced by approximately 5%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 30 minutes |
+| ![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) | [Cup of Coffee](./Cup%20of%20Coffee.md) | - Fatigue is immediately reduced by approximately 10%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 1 hour |
+| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | - Allows the player to ignore sprained ankles and sprint.<br>- Gives temporary unlimited Stamina ([Energy Boost](./Energy%20Boost.md))<br>- After 1 minute the player's fatigue and stamina bars drain completely | 15 minutes |
+| ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | - Provides a bonus to fatigue and Stamina despite afflictions for 30 min<br>- [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 minutes<br>- Grants [Energy Boost](./Energy%20Boost.md)<br>- Instantly recovers 60% of Stamina<br>- Can give [Headache](./Headache.md) | 45 minutes |
+| ![Crampons icon](../assets/Crampons_icon.png) | [Crampons](./Crampons.md) | - 60% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 50% on uneven slopes | Until unequipped |
+| ![Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) | [Improvised Crampons](./Improvised%20Crampons.md) | - 40% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 30% on uneven slopes | Until unequipped |
+| ![Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | - Max 15% Stamina | 3 hours |
+| ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | - Max 15% Stamina | 3 hours |
+| ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
+| ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
 
 ### Negative modifiers
 
@@ -47,12 +47,12 @@ Suffering from the following afflictions affects the player's stamina.
 
 | Image | Affliction | Effect | Duration |
 | --- | --- | --- | --- |
-| ![](../assets/Broken_Ribs_icon.png)<br>_Broken\_ribs\_icon.png_ | [Broken Ribs](./Broken%20Ribs.md) | - Stamina reduced by 50%<br>- Carrying capacity reduced by 25% | Until treatment |
-| ![](../assets/Gorged_icon.png)<br>_Gorged\_icon.png_ | [Gorged](./Gorged.md) | - Temporarily decreases maximum Stamina by 15% | 1 Hour |
-| ![](../assets/Sprained_Ankle_icon.png)<br>_Sprained\_ankle\_icon.png_ | [Sprained Ankle](./Sprained%20Ankle.md) | - Sprinting is not possible | 4 Hours of rest or until treatment |
-| ![](../assets/Hypothermia_icon.png)<br>_Hypothermia\_icon.png_ | [Hypothermia](./Hypothermia.md) | - Fatigue is lost at twice the normal rate | Until treated |
-| ![](../assets/Infection_icon.png)<br>_Infection\_icon.png_ | [Infection](./Infection.md) | - Increase in fatigue gained while performing actions | Until treated |
-| ![](../assets/Intestinal_Parasites_icon.png)<br>_Intestinal\_parasites\_icon.png_ | [Intestinal Parasites](./Intestinal%20Parasites.md) | - Maximum fatigue amd stamina is reduced by 2% per day | Until treated |
+| ![Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | - Stamina reduced by 50%<br>- Carrying capacity reduced by 25% | Until treatment |
+| ![Gorged icon](../assets/Gorged_icon.png) | [Gorged](./Gorged.md) | - Temporarily decreases maximum Stamina by 15% | 1 Hour |
+| ![Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | - Sprinting is not possible | 4 Hours of rest or until treatment |
+| ![Hypothermia icon](../assets/Hypothermia_icon.png) | [Hypothermia](./Hypothermia.md) | - Fatigue is lost at twice the normal rate | Until treated |
+| ![Infection icon](../assets/Infection_icon.png) | [Infection](./Infection.md) | - Increase in fatigue gained while performing actions | Until treated |
+| ![Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | - Maximum fatigue amd stamina is reduced by 2% per day | Until treated |
 
 ## Activities
 
@@ -86,50 +86,9 @@ It can be dangerous to Sprint just prior to a Climb, without allowing Stamina to
 
 Several [Feats](./Feats.md) can affect the player's stamina and are listed below, along with the requirements for unlocking and the unique effects.
 
-Image
-
-Feat
-
-Requirement
-
-Effect
-
-![](../assets/Badge_feat_freeRunner.png)
-
-_Badge\_feat\_freeRunner.png_
-
-Free Runner
-
-Sprint 50 kilometers
-
-Sprinting burns 25% fewer calories
-
-![](../assets/Badge_feat_snowWalker.png)
-
-_Badge\_feat\_snowWalker.png_
-
-Snow Walker
-
-Travel 1000 kilometers
-
-Stamina bar recharges 20% faster
-
-![](../assets/Badge_feat_StraightToTheHeart.png)
-
-_Badge\_feat\_StraightToTheHeart.png_
-
-Straight to the Heart
-
-Use or consume 250 [Cup of Coffee](./Cup%20of%20Coffee.md), [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), [GO! Energy Drinks](./Go!%20Energy%20Drink.md) or [Emergency Stims](./Emergency%20Stim.md)
-
-The effects of Cup of Coffee, Cup of Acorn Coffee, GO! Energy Drink, and Emergency Stims last 25% longer
-
-![](../assets/Badge_feat_nightWalker.png)
-
-_Badge\_feat\_nightWalker.png_
-
-Darkwalker
-
-Complete the "[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)" Challenge. (Collect all 10 diary pages and Banish the Darkwalker.)
-
-You are less Fatigued at night, but more Fatigued during the day.
+| Image | Feat | Requirement | Effect |
+| --- | --- | --- | --- |
+| ![Badge feat freeRunner](../assets/Badge_feat_freeRunner.png) | Free Runner | Sprint 50 kilometers | Sprinting burns 25% fewer calories |
+| ![Badge feat snowWalker](../assets/Badge_feat_snowWalker.png) | Snow Walker | Travel 1000 kilometers | Stamina bar recharges 20% faster |
+| ![Badge feat StraightToTheHeart](../assets/Badge_feat_StraightToTheHeart.png) | Straight to the Heart | Use or consume 250 [Cup of Coffee](./Cup%20of%20Coffee.md), [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), [GO! Energy Drinks](./Go!%20Energy%20Drink.md) or [Emergency Stims](./Emergency%20Stim.md) | The effects of Cup of Coffee, Cup of Acorn Coffee, GO! Energy Drink, and Emergency Stims last 25% longer |
+| ![Badge feat nightWalker](../assets/Badge_feat_nightWalker.png) | Darkwalker | Complete the "[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)" Challenge. (Collect all 10 diary pages and Banish the Darkwalker.) | You are less Fatigued at night, but more Fatigued during the day. |

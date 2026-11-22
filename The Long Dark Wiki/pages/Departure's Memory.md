@@ -2,13 +2,11 @@
 
 **Categories:** Article stubs, DLC Content, Locations, Locations in Port Remnant, Locations with a workbench, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Departure's_Memory)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Departure%27s+Memory&amp;action=edit expanding it\].** / **Departure's Memory** / ![](../assets/Departure%27s_Memory.jpg) / _Departure's\_Memory.jpg_ / **Location** / ![](../assets/Departure%27s_Memory_Location.png) / _Departure's\_Memory\_Location.png_ / **Region:** [Port Remnant](./Port%20Remnant.md)\\|- / **Description:** A series of ruined warehouses near the frozen bay / **General** / **Firebox:** [Fire Barrel](./Fire%20Barrel.md) / ![](../assets/Bed_icon.png) / _bed\_icon.png_ / Has a bed / ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ / Has a workbench
+<br>**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Departure%27s+Memory&amp;action=edit expanding it\].**<br>**Departure's Memory**<br>![Departure's Memory](../assets/Departure%27s_Memory.jpg)<br>**Location**<br>![Departure's Memory Location](../assets/Departure%27s_Memory_Location.png)<br>**Region:** [Port Remnant](./Port%20Remnant.md)\\|-<br>**Description:** A series of ruined warehouses near the frozen bay<br>**General**<br>**Firebox:** [Fire Barrel](./Fire%20Barrel.md)<br>![Bed icon](../assets/Bed_icon.png)<br>Has a bed<br>![Workbench icon green](../assets/Workbench_icon_green.png)<br>Has a workbench
 
 ## Overview
 
@@ -24,34 +22,18 @@ A [Wolf Carcass](./Wolf%20Carcass.md) can be found nearby just outside of the bu
 
 ## Gallery
 
-![](../assets/Departure%27s_Memory_Overview.jpg)
+![Departure's Memory Overview](../assets/Departure%27s_Memory_Overview.jpg)
 
-_Departure's\_Memory\_Overview.jpg_
+![Departure's Memory Overview 2](../assets/Departure%27s_Memory_Overview_2.jpg)
 
-![](../assets/Departure%27s_Memory_Overview_2.jpg)
+![Departure's Memory Overview 3](../assets/Departure%27s_Memory_Overview_3.jpg)
 
-_Departure's\_Memory\_Overview\_2.jpg_
+![Departure's Memory Overview 4](../assets/Departure%27s_Memory_Overview_4.jpg)
 
-![](../assets/Departure%27s_Memory_Overview_3.jpg)
+![Departure's Memory Overview 5](../assets/Departure%27s_Memory_Overview_5.jpg)
 
-_Departure's\_Memory\_Overview\_3.jpg_
+![Departure's Memory Workbench](../assets/Departure%27s_Memory_Workbench.jpg)
 
-![](../assets/Departure%27s_Memory_Overview_4.jpg)
+![Departure's Memory bed building](../assets/Departure%27s_Memory_bed_building.jpg)
 
-_Departure's\_Memory\_Overview\_4.jpg_
-
-![](../assets/Departure%27s_Memory_Overview_5.jpg)
-
-_Departure's\_Memory\_Overview\_5.jpg_
-
-![](../assets/Departure%27s_Memory_Workbench.jpg)
-
-_Departure's\_Memory\_Workbench.jpg_
-
-![](../assets/Departure%27s_Memory_bed_building.jpg)
-
-_Departure's\_Memory\_bed\_building.jpg_
-
-![](../assets/Departure%27s_Memory_bed.jpg)
-
-_Departure's\_Memory\_bed.jpg_
+![Departure's Memory bed](../assets/Departure%27s_Memory_bed.jpg)

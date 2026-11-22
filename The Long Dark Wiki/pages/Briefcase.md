@@ -4,9 +4,7 @@
 
 **Briefcase**
 
-![](../assets/Briefcase.jpg)
-
-_Briefcase.jpg_
+![Briefcase](../assets/Briefcase.jpg)
 
 **Story item:** Yes
 

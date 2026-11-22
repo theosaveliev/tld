@@ -4,15 +4,11 @@
 
 **The Toe**
 
-![](../assets/Thetoe.jpg)
-
-_Thetoe.jpg_
+![Thetoe](../assets/Thetoe.jpg)
 
 **Location**
 
-![](../assets/The_Toe_Location.png)
-
-_The\_Toe\_Location.png_
+![The Toe Location](../assets/The_Toe_Location.png)
 
 **Region:** [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 

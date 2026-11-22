@@ -6,7 +6,7 @@ _For the cooked version, see [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md)._
 
 **Goldeye (Raw)**
 
-\[\[File: / ![Raw](../assets/Goldeye_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Goldeye_%28Raw%29_Opened_icon.png) / _Opened_
+![Raw](../assets/Goldeye_%28Raw%29_icon.png)<br>![Opened](../assets/Goldeye_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 

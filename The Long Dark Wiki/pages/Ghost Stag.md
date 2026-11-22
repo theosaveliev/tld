@@ -4,9 +4,7 @@
 
 **Ghost Stag**
 
-![](../assets/Ghost_Stag.png)
-
-_Ghost\_Stag.png_
+![Ghost Stag](../assets/Ghost_Stag.png)
 
 **Basic Information**
 
@@ -42,5 +40,3 @@ Once the player leaves the Snow Shelter, the Ghost Stag will run away upon spott
 ## Gallery
 
 ![The Ghost Stag](../assets/Ghost_stag.jpg)
-
-_The Ghost Stag_

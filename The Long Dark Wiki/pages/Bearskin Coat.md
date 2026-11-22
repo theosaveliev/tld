@@ -12,9 +12,7 @@
 
 **Bearskin Coat**
 
-![](../assets/Bearskin_Coat_icon.png)
-
-_Bearskin\_Coat\_icon.png_
+![Bearskin Coat icon](../assets/Bearskin_Coat_icon.png)
 
 **General**
 
@@ -24,21 +22,21 @@ _Bearskin\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)6.0 °C(10.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)6.0 °C(10.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)5.0 °C(9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)80%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)80%
 
-**Protection:** ![](../assets/Protection_icon.png)15%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)15%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-20%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-20%
 
-**Harvest:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 120 minutes
+**Harvest:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>120 minutes
 
-**Repair:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), / 2 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 40% condition
+**Repair:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md),<br>2 × [Cured Gut](./Cured%20Gut.md)<br>120 minutes<br>40% condition
 
 > “**If it's good enough for the Bear, it's good enough for you. Heavy, bulky, but very warm and one of the toughest things around. You may not run from much, but you may not need to either.**”
 >
@@ -78,11 +76,7 @@ As of the [Hesitant Prospect Update](./The%20Long%20Dark%20%E2%80%94%20Changelog
 
 ![Clothing model](../assets/Bearskin_Coat_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Bearskin_Coat_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

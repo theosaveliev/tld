@@ -24,9 +24,7 @@
 
 **BLACKFROST: The Long Dark II**
 
-![](../assets/Bf-wishlist.jpg)
-
-_Bf-wishlist.jpg_
+![Bf wishlist](../assets/Bf-wishlist.jpg)
 
 **Developer(s):** [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md)
 
@@ -114,7 +112,7 @@ BLACKFROST is being built using Early Access to maximize the player feedback loo
 
 ## Videos
 
-![](../assets/BLACKFROST_--_The_Long_Dark_2_--_Announcement_Trailer.jpg)
+![BLACKFROST The Long Dark 2 Announcement Trailer](../assets/BLACKFROST_--_The_Long_Dark_2_--_Announcement_Trailer.jpg)
 
 _BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer_
 
@@ -122,147 +120,77 @@ _BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer_
 
 ### Concept
 
-![](../assets/Ss_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg)
+![Ss e5378287fdd892338b443571a5a758374ae7739a.1920x1080](../assets/Ss_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg)
 
-_Ss\_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg_
+![Ss 648223251dff8a82a61a44012b03d781052ed32e.1920x1080](../assets/Ss_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg)
 
-![](../assets/Ss_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg)
+![Ss 9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080](../assets/Ss_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg)
 
-_Ss\_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg_
+![Ss eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080](../assets/Ss_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg)
 
-![](../assets/Ss_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg)
+![Ss 40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080](../assets/Ss_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg)
 
-_Ss\_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg_
+![Ss 64496beb07de3088513d094eb6d2927cc9069982.1920x1080](../assets/Ss_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg)
 
-![](../assets/Ss_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg)
-
-_Ss\_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg_
-
-![](../assets/Ss_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg)
-
-_Ss\_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg_
-
-![](../assets/Ss_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg)
-
-_Ss\_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg_
-
-![](../assets/Ss_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg)
-
-_Ss\_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg_
+![Ss ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080](../assets/Ss_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg)
 
 ![From the Steam page](../assets/BF_Trainyards_SteelMill_01.jpg)
 
-_From the Steam page_
-
 ![Steam page](../assets/BF_WILDERNESS_NORTH.jpg)
-
-_Steam page_
 
 ![Steam page](../assets/BF_WILDERNESS_VISTA_WEST_11zon.jpg)
 
-_Steam page_
-
 ![Steam page](../assets/BF_HARMONT_THEATRE_SUNNY_11zon.jpg)
-
-_Steam page_
 
 ![Website image showing a survivor with a horse](../assets/Bf_Image_0.jpg)
 
-_Website image showing a survivor with a horse_
-
 ![Website image showing dogs chasing a deer](../assets/Bf_Image_3.jpg)
-
-_Website image showing dogs chasing a deer_
 
 ![Website image showing a rundown safehouse](../assets/Bf_Image_0_1.jpg)
 
-_Website image showing a rundown safehouse_
-
 ![Twitter teaser showing the safehouse less rundown](../assets/Blackfrost_twitter_teaser_1.png)
 
-_Twitter teaser showing the safehouse less rundown_
-
-![](../assets/BF_twitterx_teaser.gif)
-
-_BF\_twitterx\_teaser.gif_
+![BF twitterx teaser](../assets/BF_twitterx_teaser.gif)
 
 ![First-person combat concept shared on the official TLD2 subreddit](../assets/Blackfrost-concept-art-wolf-encounter-Feb_04_2025.jpeg)
 
-_First-person combat concept shared on the official TLD2 subreddit_
-
 ![Concept shared on Bluesky](../assets/BF_bsky_mar_16_2025.jpg)
-
-_Concept shared on Bluesky_
 
 ### Announcement Trailer
 
-![](../assets/BF_announcement_trailer_-_forest_scenery.png)
+![BF announcement trailer forest scenery](../assets/BF_announcement_trailer_-_forest_scenery.png)
 
-_BF\_announcement\_trailer\_-\_forest\_scenery.png_
+![BF announcement trailer deer](../assets/BF_announcement_trailer_-_deer.png)
 
-![](../assets/BF_announcement_trailer_-_deer.png)
+![BF announcement trailer tree chopping](../assets/BF_announcement_trailer_-_tree_chopping.gif)
 
-_BF\_announcement\_trailer\_-\_deer.png_
+![BF announcement trailer ice plane](../assets/BF_announcement_trailer_-_ice_plane.png)
 
-![](../assets/BF_announcement_trailer_-_tree_chopping.gif)
+![BF announcement trailer survivors shelter](../assets/BF_announcement_trailer_-_survivors_shelter.png)
 
-_BF\_announcement\_trailer\_-\_tree\_chopping.gif_
+![BF announcement trailer broken bridge](../assets/BF_announcement_trailer_-_broken_bridge.png)
 
-![](../assets/BF_announcement_trailer_-_ice_plane.png)
+![BF announcement trailer dead moose](../assets/BF_announcement_trailer_-_dead_moose.png)
 
-_BF\_announcement\_trailer\_-\_ice\_plane.png_
+![BF announcement trailer peaches](../assets/BF_announcement_trailer_-_peaches.gif)
 
-![](../assets/BF_announcement_trailer_-_survivors_shelter.png)
+![BF announcement trailer horse](../assets/BF_announcement_trailer_-_horse.gif)
 
-_BF\_announcement\_trailer\_-\_survivors\_shelter.png_
+![BF announcement trailer campfire](../assets/BF_announcement_trailer_-_campfire.png)
 
-![](../assets/BF_announcement_trailer_-_broken_bridge.png)
+![BF announcement trailer horse travois](../assets/BF_announcement_trailer_-_horse_travois.png)
 
-_BF\_announcement\_trailer\_-\_broken\_bridge.png_
+![BF announcement trailer armed man](../assets/BF_announcement_trailer_-_armed_man.png)
 
-![](../assets/BF_announcement_trailer_-_dead_moose.png)
+![BF announcement trailer teamwork](../assets/BF_announcement_trailer_-_teamwork.gif)
 
-_BF\_announcement\_trailer\_-\_dead\_moose.png_
+![BF announcement trailer safehouse](../assets/BF_announcement_trailer_-_safehouse.gif)
 
-![](../assets/BF_announcement_trailer_-_peaches.gif)
+![BF announcement trailer wolves](../assets/BF_announcement_trailer_-_wolves.gif)
 
-_BF\_announcement\_trailer\_-\_peaches.gif_
+![BF announcement trailer powerplant](../assets/BF_announcement_trailer_-_powerplant.png)
 
-![](../assets/BF_announcement_trailer_-_horse.gif)
-
-_BF\_announcement\_trailer\_-\_horse.gif_
-
-![](../assets/BF_announcement_trailer_-_campfire.png)
-
-_BF\_announcement\_trailer\_-\_campfire.png_
-
-![](../assets/BF_announcement_trailer_-_horse_travois.png)
-
-_BF\_announcement\_trailer\_-\_horse\_travois.png_
-
-![](../assets/BF_announcement_trailer_-_armed_man.png)
-
-_BF\_announcement\_trailer\_-\_armed\_man.png_
-
-![](../assets/BF_announcement_trailer_-_teamwork.gif)
-
-_BF\_announcement\_trailer\_-\_teamwork.gif_
-
-![](../assets/BF_announcement_trailer_-_safehouse.gif)
-
-_BF\_announcement\_trailer\_-\_safehouse.gif_
-
-![](../assets/BF_announcement_trailer_-_wolves.gif)
-
-_BF\_announcement\_trailer\_-\_wolves.gif_
-
-![](../assets/BF_announcement_trailer_-_powerplant.png)
-
-_BF\_announcement\_trailer\_-\_powerplant.png_
-
-![](../assets/BF_announcement_trailer_-_aurora.gif)
-
-_BF\_announcement\_trailer\_-\_aurora.gif_
+![BF announcement trailer aurora](../assets/BF_announcement_trailer_-_aurora.gif)
 
 ## External links
 

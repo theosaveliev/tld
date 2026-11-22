@@ -19,9 +19,7 @@
 
 **Heller**
 
-![](../assets/Heller.png)
-
-_Heller.png_
+![Heller](../assets/Heller.png)
 
 **Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 
@@ -106,33 +104,19 @@ Despite being a major character in Episode 4, Heller does not get his own [What 
 
 ## Gallery
 
-![](../assets/Heller_doorway.jpg)
+![Heller doorway](../assets/Heller_doorway.jpg)
 
-_Heller\_doorway.jpg_
+![Heller letter](../assets/Heller_letter.jpg)
 
-![](../assets/Heller_letter.jpg)
+![Heller angry](../assets/Heller_angry.jpg)
 
-_Heller\_letter.jpg_
-
-![](../assets/Heller_angry.jpg)
-
-_Heller\_angry.jpg_
-
-![](../assets/Mathis_Heller_Vachon.jpg)
-
-_Mathis\_Heller\_Vachon.jpg_
+![Mathis Heller Vachon](../assets/Mathis_Heller_Vachon.jpg)
 
 ![Mathis, Vachon, and Heller attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg)
 
-_Mathis, Vachon, and Heller attacked by Timberwolves_
+![Heller Smile](../assets/Heller_Smile.jpg)
 
-![](../assets/Heller_Smile.jpg)
-
-_Heller\_Smile.jpg_
-
-![](../assets/Heller_Sneer.jpg)
-
-_Heller\_Sneer.jpg_
+![Heller Sneer](../assets/Heller_Sneer.jpg)
 
 ## Update history
 

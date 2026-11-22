@@ -4,7 +4,7 @@
 
 **Trunk**
 
-\[\[File: / ![Regular](../assets/Trunk.jpg) / _Regular_ / ![Lily's Trunk](../assets/TrunkLily%27s.jpg) / _Lily's Trunk_
+![Regular](../assets/Trunk.jpg)<br>![Lily's Trunk](../assets/TrunkLily%27s.jpg)
 
 250px\]\]
 

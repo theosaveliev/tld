@@ -4,15 +4,11 @@
 
 **Bolt Chopper's Haven**
 
-![](../assets/Bolt_Choppers_Haven.jpg)
-
-_Bolt\_Choppers\_Haven.jpg_
+![Bolt Choppers Haven](../assets/Bolt_Choppers_Haven.jpg)
 
 **Location**
 
-![](../assets/Bolt_Chopper%27s_Haven_Location.png)
-
-_Bolt\_Chopper's\_Haven\_Location.png_
+![Bolt Chopper's Haven Location](../assets/Bolt_Chopper%27s_Haven_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

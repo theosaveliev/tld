@@ -4,15 +4,11 @@
 
 **Giant's Thumbprint**
 
-![](../assets/Giant%27s_Thumbprint.jpg)
-
-_Giant's\_Thumbprint.jpg_
+![Giant's Thumbprint](../assets/Giant%27s_Thumbprint.jpg)
 
 **Location**
 
-![](../assets/Giant%27s_Thumbprint_Location.png)
-
-_Giant's\_Thumbprint\_Location.png_
+![Giant's Thumbprint Location](../assets/Giant%27s_Thumbprint_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

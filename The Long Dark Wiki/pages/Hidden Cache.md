@@ -13,9 +13,7 @@
 
 **Hidden Cache**
 
-![](../assets/Hidden_Cache.png)
-
-_Hidden\_Cache.png_
+![Hidden Cache](../assets/Hidden_Cache.png)
 
 **Release:** 14 June 2018
 

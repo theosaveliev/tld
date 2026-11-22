@@ -78,13 +78,9 @@ This step will be the most thorough and exhaustive, as it is the most important 
 
 Inverted color maps are nice to have up on your secondary monitor as you play without completely blinding yourself 👍
 
-![](../assets/Atds_step_1.png)
+![Atds step 1](../assets/Atds_step_1.png)
 
-_Atds\_step\_1.png_
-
-![](../assets/Atds_step_1_inverted.png)
-
-_Atds\_step\_1\_inverted.png_
+![Atds step 1 inverted](../assets/Atds_step_1_inverted.png)
 
 1. You will spawn at point 1 ([Fallen Lighthouse](./Fallen%20Lighthouse.md)) denoted on the map above.
 2. Immediately loot the first and second floor, which can sometimes contain a [bedroll](./Bedroll.md).
@@ -122,13 +118,9 @@ To my knowledge, there is no proper map of this cave on this wiki. Refer to [thi
 
 From this point, the walkthrough will not so thoroughly tell you exactly which detours to take. If there are cat tails / rose hips / reishi mushrooms / frozen carcasses close by the path on the map, evaluate your food situation and make your own determination as to if it is worth the time to collect the resources. Food at this point in the challenge is still quite scarce, so it is advised to collect everything directly on the path at the very least.
 
-![](../assets/Atds_step_3.png)
+![Atds step 3](../assets/Atds_step_3.png)
 
-_Atds\_step\_3.png_
-
-![](../assets/Atds_step_3_inverted.png)
-
-_Atds\_step\_3\_inverted.png_
+![Atds step 3 inverted](../assets/Atds_step_3_inverted.png)
 
 1. You will exit the cave at point 1 denoted on the map above.
 2. Navigate to point 2.
@@ -140,13 +132,9 @@ _Atds\_step\_3\_inverted.png_
 
 ### Step #4
 
-![](../assets/Atds_step_4.png)
+![Atds step 4](../assets/Atds_step_4.png)
 
-_Atds\_step\_4.png_
-
-![](../assets/Atds_step_4_inverted.png)
-
-_Atds\_step\_4\_inverted.png_
+![Atds step 4 inverted](../assets/Atds_step_4_inverted.png)
 
 1. Navigate to grave #1 indicated on the map at point 2.
   1. This area is tight, so it is difficult to completely avoid the wolves. If weather permits, it is especially worth daisy chaining torches so you are immediately prepared for a wolf encounter. This will help if you are cold as well. If weather does not permit torches, it is worth carrying an unlit flare so you can strike it as soon as a wolf engages with you. Prefer normal flares over marine flares here to preserve your marine flares for potential timberwolf encounters later.
@@ -157,13 +145,9 @@ _Atds\_step\_4\_inverted.png_
 
 ### Step #5
 
-![](../assets/Atds_step_5.png)
+![Atds step 5](../assets/Atds_step_5.png)
 
-_Atds\_step\_5.png_
-
-![](../assets/Atds_step_5_inverted.png)
-
-_Atds\_step\_5\_inverted.png_
+![Atds step 5 inverted](../assets/Atds_step_5_inverted.png)
 
 1. STOP FOR A MOMENT!
   1. If you don't have a bedroll at this point, the next step can be very difficult. This next step will involve traversing out of broken railroad, through forlorn muskeg, through milton basin in mountain town, up two quite large climbing ropes, and to paradise meadows farm, at which point, you will need to search for a key to unlock the house to get to warmth, safety, and most importantly, your next bed. Unless you are very confident, THIS PATH IS NOT ADVISED!
@@ -174,13 +158,9 @@ _Atds\_step\_5\_inverted.png_
 
 ### Step #6
 
-![](../assets/Atds_step_6.png)
+![Atds step 6](../assets/Atds_step_6.png)
 
-_Atds\_step\_6.png_
-
-![](../assets/Atds_step_6_inverted.png)
-
-_Atds\_step\_6\_inverted.png_
+![Atds step 6 inverted](../assets/Atds_step_6_inverted.png)
 
 1. Navigate to point 2.
 2. [Mountain Goat](./Mountain%20Goating.md) yourself up the cliff.
@@ -190,13 +170,9 @@ _Atds\_step\_6\_inverted.png_
 
 ### Step #7
 
-![](../assets/Atds_step_7.png)
+![Atds step 7](../assets/Atds_step_7.png)
 
-_Atds\_step\_7.png_
-
-![](../assets/Atds_step_7_inverted.png)
-
-_Atds\_step\_7\_inverted.png_
+![Atds step 7 inverted](../assets/Atds_step_7_inverted.png)
 
 1. Navigate to point 2.
   1. You may not want to linger long at this spot since you want to have enough energy to climb at least the first rope at point 3.
@@ -218,13 +194,9 @@ _Atds\_step\_7\_inverted.png_
 
 ### Step #8
 
-![](../assets/Atds_step_8.png)
+![Atds step 8](../assets/Atds_step_8.png)
 
-_Atds\_step\_8.png_
-
-![](../assets/Atds_step_8_inverted.png)
-
-_Atds\_step\_8\_inverted.png_
+![Atds step 8 inverted](../assets/Atds_step_8_inverted.png)
 
 THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROUTE ON THE MAP WOULD LARGELY OVERLAP. TO AVOID A CONFUSING MAP, THE ROUTE INTO AND OUT OF THIS REGION HAS BEEN SPLIT INTO TWO STEPS. THIS MEANS THAT THIS STEP DOES NOT END AT A SAFE LOCATION.
 
@@ -234,13 +206,9 @@ THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROU
 
 ### Step #9
 
-![](../assets/Atds_step_9.png)
+![Atds step 9](../assets/Atds_step_9.png)
 
-_Atds\_step\_9.png_
-
-![](../assets/Atds_step_9_inverted.png)
-
-_Atds\_step\_9\_inverted.png_
+![Atds step 9 inverted](../assets/Atds_step_9_inverted.png)
 
 1. Navigate to point 2.
   1. Do not be tempted to climb the rope at point A unless you have a hatchet. This path requires clearing scrub brush patches, which cannot be done without a hatchet.
@@ -248,13 +216,9 @@ _Atds\_step\_9\_inverted.png_
 
 ### Step #10
 
-![](../assets/Atds_step_10.png)
+![Atds step 10](../assets/Atds_step_10.png)
 
-_Atds\_step\_10.png_
-
-![](../assets/Atds_step_10_inverted.png)
-
-_Atds\_step\_10\_inverted.png_
+![Atds step 10 inverted](../assets/Atds_step_10_inverted.png)
 
 YOU MAY BE TEMPTED TO NAVIGATE INSTEAD TO SPRUCE FALLS BRIDGE AND THROUGH THE CAVE TO THE CRASHED PLANE AREA. DO SO AT YOUR OWN RISK. THIS PATH WILL BRING YOU THROUGH TIGHT QUARTERS WITH A BEAR. I AM PARTICULARLY AVERSE TO THIS PATH AS THIS BEAR HAS KILLED ME BEFORE.
 
@@ -274,13 +238,9 @@ YOU MAY BE TEMPTED TO NAVIGATE INSTEAD TO SPRUCE FALLS BRIDGE AND THROUGH THE CA
 
 From this point, the walkthrough will not give such thorough instructions as to what to do at each location. If you've made it this far, you know what to loot and when to loot.
 
-![](../assets/Atds_step_11.png)
+![Atds step 11](../assets/Atds_step_11.png)
 
-_Atds\_step\_11.png_
-
-![](../assets/Atds_step_11_inverted.png)
-
-_Atds\_step\_11\_inverted.png_
+![Atds step 11 inverted](../assets/Atds_step_11_inverted.png)
 
 1. Navigate to point 2.
 2. Navigate to point 3.
@@ -295,13 +255,9 @@ _Atds\_step\_11\_inverted.png_
 
 If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you could use some better gear, maybe you could use some more resources. Honestly at this point, you're doing very well at the challenge and if you keep it up, it's in the bag. If you're aiming for a shorter completion time, maybe it isn't worth looting. If you're aiming to maximize your safety, maybe it is worth looting.
 
-![](../assets/Atds_step_12.png)
+![Atds step 12](../assets/Atds_step_12.png)
 
-_Atds\_step\_12.png_
-
-![](../assets/Atds_step_12_inverted.png)
-
-_Atds\_step\_12\_inverted.png_
+![Atds step 12 inverted](../assets/Atds_step_12_inverted.png)
 
 1. Navigate to point 2.
   1. ALWAYS KEEP IN MIND THAT THE ELECTRICAL WIRES ON THE FLOOR BECOME LIVE DURING AN AURORA AND DRAIN YOUR CONDITION RAPIDLY IF YOU WALK ACROSS THEM.
@@ -311,13 +267,9 @@ _Atds\_step\_12\_inverted.png_
 
 ### Step #13
 
-![](../assets/Atds_step_13.png)
+![Atds step 13](../assets/Atds_step_13.png)
 
-_Atds\_step\_13.png_
-
-![](../assets/Atds_step_13_inverted.png)
-
-_Atds\_step\_13\_inverted.png_
+![Atds step 13 inverted](../assets/Atds_step_13_inverted.png)
 
 1. Navigate to point 2.
 2. Navigate to point 3.
@@ -333,13 +285,9 @@ _Atds\_step\_13\_inverted.png_
 
 ### Step #14
 
-![](../assets/Atds_step_14.png)
+![Atds step 14](../assets/Atds_step_14.png)
 
-_Atds\_step\_14.png_
-
-![](../assets/Atds_step_14_inverted.png)
-
-_Atds\_step\_14\_inverted.png_
+![Atds step 14 inverted](../assets/Atds_step_14_inverted.png)
 
 1. Navigate to point 2.
   1. This region can be very cold, so warm up at point 2 or on the way to it if you need.
@@ -347,26 +295,18 @@ _Atds\_step\_14\_inverted.png_
 
 ### Step #15
 
-![](../assets/Atds_step_15.png)
+![Atds step 15](../assets/Atds_step_15.png)
 
-_Atds\_step\_15.png_
-
-![](../assets/Atds_step_15_inverted.png)
-
-_Atds\_step\_15\_inverted.png_
+![Atds step 15 inverted](../assets/Atds_step_15_inverted.png)
 
 1. Navigate to point 2.
 2. Navigate to point 3.
 
 ### Step #16
 
-![](../assets/Atds_step_16.png)
+![Atds step 16](../assets/Atds_step_16.png)
 
-_Atds\_step\_16.png_
-
-![](../assets/Atds_step_16_inverted.png)
-
-_Atds\_step\_16\_inverted.png_
+![Atds step 16 inverted](../assets/Atds_step_16_inverted.png)
 
 1. Navigate to point 2.
 2. Navigate to point 3.
@@ -378,13 +318,9 @@ _Atds\_step\_16\_inverted.png_
 
 ### Step #17
 
-![](../assets/Atds_step_17.png)
+![Atds step 17](../assets/Atds_step_17.png)
 
-_Atds\_step\_17.png_
-
-![](../assets/Atds_step_17_inverted.png)
-
-_Atds\_step\_17\_inverted.png_
+![Atds step 17 inverted](../assets/Atds_step_17_inverted.png)
 
 1. Navigate to point 2.
   1. Don't fall!
@@ -395,25 +331,17 @@ _Atds\_step\_17\_inverted.png_
 
 ### Step #18
 
-![](../assets/Atds_step_18.png)
+![Atds step 18](../assets/Atds_step_18.png)
 
-_Atds\_step\_18.png_
-
-![](../assets/Atds_step_18_inverted.png)
-
-_Atds\_step\_18\_inverted.png_
+![Atds step 18 inverted](../assets/Atds_step_18_inverted.png)
 
 1. Navigate to point 2.
 
 ### Step #19
 
-![](../assets/Atds_step_19.png)
+![Atds step 19](../assets/Atds_step_19.png)
 
-_Atds\_step\_19.png_
-
-![](../assets/Atds_step_19_inverted.png)
-
-_Atds\_step\_19\_inverted.png_
+![Atds step 19 inverted](../assets/Atds_step_19_inverted.png)
 
 1. Navigate to point 2.
   1. You will require a mountaineering rope to climb down to the ravine basin at point 2.
@@ -424,13 +352,9 @@ _Atds\_step\_19\_inverted.png_
 
 ### Step #20
 
-![](../assets/Atds_step_20.png)
+![Atds step 20](../assets/Atds_step_20.png)
 
-_Atds\_step\_20.png_
-
-![](../assets/Atds_step_20_inverted.png)
-
-_Atds\_step\_20\_inverted.png_
+![Atds step 20 inverted](../assets/Atds_step_20_inverted.png)
 
 1. Navigate to point 2.
   1. Again, BE AWARE THAT THIS IS A VERY LONG CLIMB! You very likely should sleep in the cave at point 1 to top off your fatigue before attempting to climb back up. The [Fatigue Reduced](./Fatigue%20Reduced.md) [Affliction](./Afflictions.md) from coffee does not reduce the amount of fatigue incurred by climbing, but it will reduce the amount of fatigue incurred by walking from point 1 to point 2. It may seem insignificant, but every little bit helps. Additionally, there is a ledge during the climb that you will very likely need to rest on to make it to the top of the climb. If you drink your coffee hot before leaving the cave at point 1, you will also get the [Warming Up](./Warming%20Up.md) [Affliction](./Afflictions.md), which will help you not freeze during the climb and while resting on the ledge.
@@ -440,13 +364,9 @@ _Atds\_step\_20\_inverted.png_
 
 ### Step #21
 
-![](../assets/Atds_step_21.png)
+![Atds step 21](../assets/Atds_step_21.png)
 
-_Atds\_step\_21.png_
-
-![](../assets/Atds_step_21_inverted.png)
-
-_Atds\_step\_21\_inverted.png_
+![Atds step 21 inverted](../assets/Atds_step_21_inverted.png)
 
 1. Navigate to point 2.
 2. Navigate to point 3.
@@ -460,13 +380,9 @@ _Atds\_step\_21\_inverted.png_
 
 ### Step #22
 
-![](../assets/Atds_step_22.png)
+![Atds step 22](../assets/Atds_step_22.png)
 
-_Atds\_step\_22.png_
-
-![](../assets/Atds_step_22_inverted.png)
-
-_Atds\_step\_22\_inverted.png_
+![Atds step 22 inverted](../assets/Atds_step_22_inverted.png)
 
 1. Navigate to point 2.
   1. This region is very tight and you will be in close quarters with wolves. If you have any flares available, keep one equipped and at the ready. Otherwise keep a torch at the ready, but flares are preferable since wind cannot extinguish them unexpectedly, leaving you defenseless. You are so close to finishing this challenge, and that is not how you want your run to end.
@@ -475,13 +391,9 @@ _Atds\_step\_22\_inverted.png_
 
 ### Step #23
 
-![](../assets/Atds_step_23.png)
+![Atds step 23](../assets/Atds_step_23.png)
 
-_Atds\_step\_23.png_
-
-![](../assets/Atds_step_23_inverted.png)
-
-_Atds\_step\_23\_inverted.png_
+![Atds step 23 inverted](../assets/Atds_step_23_inverted.png)
 
 1. Navigate to point 2.
 2. Navigate to point 3.

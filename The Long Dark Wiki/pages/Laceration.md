@@ -4,9 +4,7 @@
 
 **Laceration**
 
-![](../assets/Laceration_icon.png)
-
-_Laceration\_icon.png_
+![Laceration icon](../assets/Laceration_icon.png)
 
 **Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
 
@@ -39,8 +37,6 @@ The player can receive a Laceration during a [Struggle](./Struggle.md) with a [B
 -10% to -15% instant condition loss. Cannot be treated and disappears immediately after being inflicted.
 
 ![Old icon](../assets/Laceration_png.png)
-
-_Old icon_
 
 ## Update history
 

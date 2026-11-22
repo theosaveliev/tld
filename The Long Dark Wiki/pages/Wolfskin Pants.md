@@ -11,9 +11,7 @@
 
 **Wolfskin Pants**
 
-![](../assets/Wolfskin_Pants_icon.png)
-
-_Wolfskin\_Pants\_icon.png_
+![Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png)
 
 **General**
 
@@ -23,32 +21,30 @@ Clothing Slot
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)10%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)10%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 40 minutes
+**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>40 minutes
 
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 125 minutes / 50% condition
+**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>125 minutes<br>50% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**Pants crafted from a Wolf hide. Warm and extremely durable.** / In-game description
+**Pants crafted from a Wolf hide. Warm and extremely durable.**<br>In-game description
 
 ”
 
@@ -86,10 +82,6 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 
 ![3d model](../assets/Wolfskin_Pants_model.png)
 
-_3d model_
-
 ![3d model damaged](../assets/Wolfskin_Pants_damaged.png)
-
-_3d model damaged_
 
 ## Update history

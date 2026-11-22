@@ -119,28 +119,14 @@ Refer to the table below for lowest and highest possible temperature in each reg
 
 ![Blizzard](../assets/Weather_-_blizzard.jpg)
 
-_Blizzard_
-
 ![Light fog](../assets/Weather_-_light_fog.jpg)
-
-_Light fog_
 
 ![Moderate fog](../assets/Weather_-_moderate_fog.jpg)
 
-_Moderate fog_
-
 ![Overcast skies](../assets/Weather_-_overcast.jpg)
-
-_Overcast skies_
 
 ![Clear, sunny skies](../assets/Weather_-_sunny.jpg)
 
-_Clear, sunny skies_
-
 ![Glimmer Fog](../assets/Glimmer_Fog.jpg)
 
-_Glimmer Fog_
-
 ![A detailed air temperatures table](../assets/Temperature_table.png)
-
-_A detailed air temperatures table_

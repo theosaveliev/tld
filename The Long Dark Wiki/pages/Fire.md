@@ -71,7 +71,7 @@ Burn times are increased with higher levels of the [Fire Starting](./Fire%20Star
 
 ### Campfires
 
-![](../assets/The_Long_Dark_-_Campfire.jpg)
+![The Long Dark Campfire](../assets/The_Long_Dark_-_Campfire.jpg)
 
 _Main article: [Campfire](./Campfire.md)_
 
@@ -79,7 +79,7 @@ A campfire is an open fire that can be placed into the world at the player's dis
 
 ### Contained fires
 
-![](../assets/Fire_barrel.png) Contained fires offer the benefits of relatively safe firestarting positions in unlikely places, such as indoors. Contained fires cannot become windblown and are unaffected by the weather.
+![Fire barrel](../assets/Fire_barrel.png) Contained fires offer the benefits of relatively safe firestarting positions in unlikely places, such as indoors. Contained fires cannot become windblown and are unaffected by the weather.
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
@@ -122,7 +122,7 @@ In regards to fire bonus, outdoor caves have a line separating the warm and cold
 
 ### Adding Coal
 
-![](../assets/Coal_icon.png) [Coal](./Coal.md) cannot be used to start a fire. It can only be burnt in an already active fire. Coal is an important component for forging as it is the only fuel that can raise the fire temperature above 80°C (only at a forge). When coal is added to the [furnace](./Furnace.md), it is not restricted by the 12-hour fuel cap and can be added repeatedly. The temperature will rise for each coal added, up to the furnace temperature cap of 200°C, though the time cap stands, and any burn duration in excess of 12 hours is lost.
+![Coal icon](../assets/Coal_icon.png) [Coal](./Coal.md) cannot be used to start a fire. It can only be burnt in an already active fire. Coal is an important component for forging as it is the only fuel that can raise the fire temperature above 80°C (only at a forge). When coal is added to the [furnace](./Furnace.md), it is not restricted by the 12-hour fuel cap and can be added repeatedly. The temperature will rise for each coal added, up to the furnace temperature cap of 200°C, though the time cap stands, and any burn duration in excess of 12 hours is lost.
 
 ## Fire Menu
 
@@ -138,7 +138,7 @@ Adding more fuel will both keep a fire alive for longer and raise the active tem
 
 ### Taking Torches
 
-![](../assets/Torch_icon.png) A [Torch](./Torch.md) can be taken out of any active fire, regardless of what material was used to create it, by activating the button on the bottom right, which reduces the fire by 10 minutes duration and 1°C and exits the fire page with the torch in hand. The "Take Torch" button only appears when a fire has at least 10 minutes of duration remaining. Torches taken from fire will have 25-50% condition and can be extinguished right away for later use. Torches can also be used as fuel for the fire, but taken torches will not fully refund the amount of fuel time lost.
+![Torch icon](../assets/Torch_icon.png) A [Torch](./Torch.md) can be taken out of any active fire, regardless of what material was used to create it, by activating the button on the bottom right, which reduces the fire by 10 minutes duration and 1°C and exits the fire page with the torch in hand. The "Take Torch" button only appears when a fire has at least 10 minutes of duration remaining. Torches taken from fire will have 25-50% condition and can be extinguished right away for later use. Torches can also be used as fuel for the fire, but taken torches will not fully refund the amount of fuel time lost.
 
 ### Place
 

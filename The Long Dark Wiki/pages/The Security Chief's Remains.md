@@ -4,9 +4,7 @@
 
 **The Security Chief's Remains**
 
-![](../assets/The_Security_Chief%27s_Remains_icon.png)
-
-_The\_Security\_Chief's\_Remains\_icon.png_
+![The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 
@@ -40,8 +38,6 @@ The skull is the same model rarely found around [Bear](./Bear.md) caves, along w
 - a [Fishing Hut](./Fishing%20Hut.md) between [Jackrabbit Island](./Jackrabbit%20Island.md) and [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) in [Coastal Highway](./Coastal%20Highway.md) and the fishing hut a [Crystal Lake](./Crystal%20Lake.md) in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) and [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) Challenge.
 
 ![The Chief's Remains before they are picked up.](../assets/The_Security_Chief.jpg)
-
-_The Chief's Remains before they are picked up._
 
 ## Update history
 

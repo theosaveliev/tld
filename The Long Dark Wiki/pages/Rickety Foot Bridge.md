@@ -4,15 +4,11 @@
 
 **Rickety Foot Bridge**
 
-![](../assets/Broken_railroad_hidden_bridge.jpg)
-
-_Broken\_railroad\_hidden\_bridge.jpg_
+![Broken railroad hidden bridge](../assets/Broken_railroad_hidden_bridge.jpg)
 
 **Location**
 
-![](../assets/Rickety_Foot_Bridge_Location.png)
-
-_Rickety\_Foot\_Bridge\_Location.png_
+![Rickety Foot Bridge Location](../assets/Rickety_Foot_Bridge_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 

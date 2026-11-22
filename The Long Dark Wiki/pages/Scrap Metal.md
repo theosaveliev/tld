@@ -12,9 +12,7 @@
 
 **Scrap Metal**
 
-![](../assets/Scrap_Metal_icon.png)
-
-_Scrap\_Metal\_icon.png_
+![Scrap Metal icon](../assets/Scrap_Metal_icon.png)
 
 **General**
 
@@ -24,7 +22,7 @@ _Scrap\_Metal\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
 
 > “**Bits and pieces of metal scrounged from various sources.**”
 >
@@ -83,8 +81,4 @@ Scrap metal can be obtained by harvesting various pieces of furniture in-game by
 
 ![Old model.](../assets/Scrap_metal.png)
 
-_Old model._
-
 ![Ditto, with old Leather model](../assets/Materials.png)
-
-_Ditto, with old Leather model_

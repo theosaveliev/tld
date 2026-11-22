@@ -4,9 +4,7 @@
 
 **Doubter's Retreat**
 
-![](../assets/Doubter%27s_Retreat.jpg)
-
-_Doubter's\_Retreat.jpg_
+![Doubter's Retreat](../assets/Doubter%27s_Retreat.jpg)
 
 **Location**
 
@@ -16,7 +14,7 @@ _Doubter's\_Retreat.jpg_
 
 **Type:** Residential
 
-Has an interior / **Doubter's Retreat** is a location in [Perseverance Wilds](./Perseverance%20Wilds.md).
+Has an interior<br>**Doubter's Retreat** is a location in [Perseverance Wilds](./Perseverance%20Wilds.md).
 
 ## Overview
 

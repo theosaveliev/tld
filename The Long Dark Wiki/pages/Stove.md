@@ -4,9 +4,7 @@
 
 **Stove**
 
-![](../assets/Stove.png)
-
-_Stove.png_
+![Stove](../assets/Stove.png)
 
 **General**
 

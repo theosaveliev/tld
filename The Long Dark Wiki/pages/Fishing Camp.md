@@ -4,15 +4,13 @@
 
 **Fishing Camp**
 
-\[\[File: / ![](../assets/Fishing_Camp_-_fishing_cabins.jpg) / _Fishing\_Camp\_-\_fishing\_cabins.jpg_
+![Fishing Camp fishing cabins](../assets/Fishing_Camp_-_fishing_cabins.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Fishing_Camp_map.png)
-
-_Fishing\_Camp\_map.png_
+![Fishing Camp map](../assets/Fishing_Camp_map.png)
 
 Region
 
@@ -26,13 +24,9 @@ Type
 
 Residential
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -48,15 +42,9 @@ A [hatchet](./Hatchet.md) often spawns near the fishing nets and pallets located
 
 ![Lone cabin with a work bench at the back.](../assets/Fishing_Camp_-_cabin.jpg)
 
-_Lone cabin with a work bench at the back._
-
 ![The docks.](../assets/Fishing_camp_-_docks.jpg)
 
-_The docks._
-
 ![Lone cabin - interior](../assets/Fishing_cabin.jpg)
-
-_Lone cabin - interior_
 
 ![Aurora night PC (It has a Buffer Memories of the Fishing Cabin)](../assets/SS-CH-FishingCabin02.jpg)
 

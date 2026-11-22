@@ -4,9 +4,7 @@
 
 **Lone Lake Cabin**
 
-![](../assets/Lone_Lake_Cabin.png)
-
-_Lone\_Lake\_Cabin.png_
+![Lone Lake Cabin](../assets/Lone_Lake_Cabin.png)
 
 **Location**
 
@@ -16,7 +14,7 @@ _Lone\_Lake\_Cabin.png_
 
 **Type:** Residential
 
-Has an interior / ![](../assets/Local_Legends_-_The_Lost_Cave_icon.png) / _Local\_Legends\_-\_The\_Lost\_Cave\_icon.png_ / **This article's name is conjectural.** / Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture / The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
+Has an interior<br>\| ![Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) \| **This article's name is conjectural.**<br>Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture \|<br>\| --- \| --- \|<br>The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

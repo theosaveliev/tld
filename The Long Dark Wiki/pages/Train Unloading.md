@@ -4,15 +4,13 @@
 
 **Train Unloading**
 
-\[\[File: / ![](../assets/Train_Unloading.jpg) / _Train\_Unloading.jpg_
+![Train Unloading](../assets/Train_Unloading.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Train_Unloading_map.png)
-
-_Train\_Unloading\_map.png_
+![Train Unloading map](../assets/Train_Unloading_map.png)
 
 Region
 
@@ -26,9 +24,7 @@ Type
 
 Outdoors
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has an interior **Train Unloading** is a location in [Coastal Highway](./Coastal%20Highway.md).
 

@@ -12,9 +12,7 @@
 
 **Birch Bark Tea**
 
-![](../assets/Birch_Bark_Tea_icon.png)
-
-_Birch\_Bark\_Tea\_icon.png_
+![Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png)
 
 **Renewable:** Yes
 

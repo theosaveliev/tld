@@ -4,9 +4,7 @@
 
 **Storm Lantern**
 
-![](../assets/Storm_Lantern_icon.png)
-
-_Storm\_Lantern\_icon.png_
+![Storm Lantern icon](../assets/Storm_Lantern_icon.png)
 
 **General**
 
@@ -14,11 +12,11 @@ _Storm\_Lantern\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md) / 0.00-1.00 KG [Lantern Fuel](./Lantern%20Fuel.md)
+**Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md)<br>0.00-1.00 KG [Lantern Fuel](./Lantern%20Fuel.md)
 
-**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md) / 45 to 30 min
+**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md)<br>45 to 30 min
 
 > “**Wind-proof storm lantern with mechanical ignitor. Burns kerosene.**”
 >
@@ -54,12 +52,6 @@ The Storm Lantern can be quickly extinguished without needing to stop the surviv
 
 ![The lighting when using a Spelunker's Lantern](../assets/Spelunker%27s_Lantern_Light_Test_Dim.jpg)
 
-_The lighting when using a Spelunker's Lantern_
-
 ![The lighting when using a Storm Lantern](../assets/Storm_Lantern_Light_Test_Bright.jpg)
 
-_The lighting when using a Storm Lantern_
-
 ![Old model.](../assets/Storm_lantern.png)
-
-_Old model._

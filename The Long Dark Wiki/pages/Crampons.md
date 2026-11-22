@@ -14,9 +14,7 @@
 
 **Crampons**
 
-![](../assets/Crampons_icon.png)
-
-_crampons\_icon.png_
+![Crampons icon](../assets/Crampons_icon.png)
 
 **General**
 
@@ -26,21 +24,21 @@ _crampons\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)100%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)100%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
 **Harvest:** Cannot Harvest
 
-**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% condition
+**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md)<br>60 minutes<br>20% condition
 
 > “**Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.**”
 >
@@ -94,8 +92,6 @@ Crampons can be repaired with 2 [Scrap Metal](./Scrap%20Metal.md) using [Quality
 ## Gallery
 
 ![Clothing model icon](../assets/Crampons_Model_icon.png)
-
-_Clothing model icon_
 
 ## Update history
 

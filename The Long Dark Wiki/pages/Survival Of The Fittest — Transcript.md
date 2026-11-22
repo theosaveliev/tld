@@ -13,9 +13,7 @@
 
 **Survival Of The Fittest/Transcript**
 
-![](../assets/Survival_Of_The_Fittest.jpg)
-
-_Survival\_Of\_The\_Fittest.jpg_
+![Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -27,7 +25,7 @@ _Survival\_Of\_The\_Fittest.jpg_
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Astrid Greenwood](./Astrid%20Greenwood.md)
 
 This is the transcript for Chapter 1 [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

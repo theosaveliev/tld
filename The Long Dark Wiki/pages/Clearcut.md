@@ -4,15 +4,11 @@
 
 **Clearcut**
 
-![](../assets/Clearcut_01.jpg)
-
-_Clearcut\_01.jpg_
+![Clearcut 01](../assets/Clearcut_01.jpg)
 
 **Location**
 
-![](../assets/Clearcut_Location.png)
-
-_Clearcut\_Location.png_
+![Clearcut Location](../assets/Clearcut_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -31,8 +27,6 @@ A large sign leads to an narrow, winding road that leads to the [Destroyed Looko
 ## Gallery
 
 ![An alternative view of Clearcut.](../assets/Clearcut_02.jpg)
-
-_An alternative view of Clearcut._
 
 ![A view of Clearcut from the nearby Destroyed Lookout.](../assets/Clearcut_from_Forestry_Lookout.jpg)
 

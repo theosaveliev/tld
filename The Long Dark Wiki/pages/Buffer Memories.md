@@ -292,5 +292,3 @@ Computers that are outside, such as the Timberwolf Mountain Chasm Cave laptop, d
 ## Gallery
 
 ![A computer screen with a buffer memory during the Aurora](../assets/Buffer-memories.gif)
-
-_A computer screen with a buffer memory during the Aurora_

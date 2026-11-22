@@ -11,9 +11,7 @@
 
 **Fresh Deer Hide**
 
-![](../assets/Fresh_Deer_Hide_icon.png)
-
-_Fresh\_Deer\_Hide\_icon.png_
+![Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -25,7 +23,7 @@ _Fresh\_Deer\_Hide\_icon.png_
 
 **Stackable:** No
 
-**Examine:** Freshly harvested hide from a Deer. / Can be used for crafting and repair after air-drying indoors for 5 days.
+**Examine:** Freshly harvested hide from a Deer.<br>Can be used for crafting and repair after air-drying indoors for 5 days.
 
 **Values**
 
@@ -49,11 +47,7 @@ Deer are quite common and can often be found in pairs of 2 or 3. Occasionally, a
 
 ![Old model.](../assets/Fresh_deer_hide.png)
 
-_Old model._
-
 ![old model](../assets/Deer_Hide_old_icon.png)
-
-_old model_
 
 ## Update history
 

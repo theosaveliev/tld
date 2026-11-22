@@ -4,15 +4,11 @@
 
 **Wood Lot**
 
-![The Wood Lot beside the Orca Gas Station](../assets/Wood_Lot_and_Orca_Gas_Station.jpg)
-
-_The Wood Lot beside the [Orca Gas Station](./Orca%20Gas%20Station.md)_
+![The Wood Lot beside the Orca Gas Station](../assets/Wood_Lot_and_Orca_Gas_Station.jpg)<br>_The Wood Lot beside the [Orca Gas Station](./Orca%20Gas%20Station.md)_
 
 **Location**
 
-![](../assets/Wood_Lot_Location.png)
-
-_Wood\_Lot\_Location.png_
+![Wood Lot Location](../assets/Wood_Lot_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

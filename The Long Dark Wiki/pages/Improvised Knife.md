@@ -11,9 +11,7 @@
 
 **Improvised Knife**
 
-![](../assets/Improvised_Knife_icon.png)
-
-_Improvised\_Knife\_icon.png_
+![Improvised Knife icon](../assets/Improvised_Knife_icon.png)
 
 **General**
 
@@ -21,11 +19,11 @@ _Improvised\_Knife\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
 
 **Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes
 
-**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5%
+**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes<br>3%-5%
 
 > “**An improvised knife made of scrap metal with a cloth-wrapped handle. Not as robust or nice to look at as one made by professional, but it'll do the trick.**”
 >

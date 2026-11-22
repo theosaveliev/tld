@@ -11,9 +11,7 @@
 
 **Blackrock Blues/Transcript**
 
-![](../assets/Blackrock_Blues.png)
-
-_Blackrock\_Blues.png_
+![Blackrock Blues](../assets/Blackrock_Blues.png)
 
 Episode
 
@@ -27,7 +25,7 @@ Episode
 
 **Region:** [Blackrock Region](./Blackrock.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Franklin](./Franklin.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Mathis](./Mathis.md)<br>[Franklin](./Franklin.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
 
 This is the transcript for Chapter 1 [Blackrock Blues](./Blackrock%20Blues.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

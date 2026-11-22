@@ -4,9 +4,7 @@
 
 **Quality Tools**
 
-![](../assets/Quality_Tools_icon.png)
-
-_Quality\_Tools\_icon.png_
+![Quality Tools icon](../assets/Quality_Tools_icon.png)
 
 **General**
 
@@ -14,11 +12,11 @@ _Quality\_Tools\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
 
 **Harvest:** 3 × [Scrap Metal](./Scrap%20Metal.md) 1 hour
 
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition / 2 hours
+**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition<br>2 hours
 
 > “**Good quality tools for crafting and repair.**”
 >
@@ -66,11 +64,7 @@ Quality Tools are needed to craft the following item
 
 ![Old model.](../assets/Quality_tools.png)
 
-_Old model._
-
 ![Model as of v2.33](../assets/Quality_tools_TFTFTpart6.jpg)
-
-_Model as of v2.33_
 
 ## Game History
 

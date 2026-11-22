@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Porridge)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Porridge** / ![](../assets/Porridge_icon.png) / _Porridge\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** Yes ([Trader](./Trader.md)) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Values** / **Calories:** 350 (438) kcal / **Hydration:** 0.0% / **Weight:** 0.20 kg (0.44 lbs) / **Decay Rate** / **Inside:** 20.000% per day / **Outside:** 5.000% per day / **Advanced data** / **Item key:** GAMEPLAY\_Porridge / **Porridge** is a food item made with a [Cooking Pot](./Cooking%20Pot.md). It can be made at Level 1 cooking and takes 20 minutes to prepare. / For Interloper players, Porridge can be one of the most useful foods, as it has a decently high caloric value and provides the [Warming Up](./Warming%20Up.md) bonus. Furthermore, [Running River Oats](./Running%20River%20Oats.md) are relatively easy to obtain from kitchens.
+<br>**Porridge**<br>![Porridge icon](../assets/Porridge_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md))<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 350 (438) kcal<br>**Hydration:** 0.0%<br>**Weight:** 0.20 kg (0.44 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Porridge<br>**Porridge** is a food item made with a [Cooking Pot](./Cooking%20Pot.md). It can be made at Level 1 cooking and takes 20 minutes to prepare.<br>For Interloper players, Porridge can be one of the most useful foods, as it has a decently high caloric value and provides the [Warming Up](./Warming%20Up.md) bonus. Furthermore, [Running River Oats](./Running%20River%20Oats.md) are relatively easy to obtain from kitchens.
 
 ## Recipe
 

@@ -12,9 +12,7 @@
 
 **Archivist**
 
-![](../assets/Challenge_Archivist.png)
-
-_Challenge\_Archivist.png_
+![Challenge Archivist](../assets/Challenge_Archivist.png)
 
 **Details**
 
@@ -49,9 +47,7 @@ The player starts out in the [Milton House (Grey Mother's)](./Milton%20House%20%
 
 ## Journal
 
-![](../assets/Archivist_Journal.jpg)
-
-_Archivist\_Journal.jpg_
+![Archivist Journal](../assets/Archivist_Journal.jpg)
 
 | Region | Location |
 | --- | --- |
@@ -81,5 +77,3 @@ The North Tower and Chasm Cave buffer memories are outdoors. You should be prepa
 ## Gallery
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_archivist.png)
-
-_The badge awarded upon completing the challenge_

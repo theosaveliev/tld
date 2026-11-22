@@ -4,9 +4,7 @@
 
 **Tearful Letter**
 
-![](../assets/Tearful_Letter_icon.png)
-
-_Tearful\_Letter\_icon.png_
+![Tearful Letter icon](../assets/Tearful_Letter_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

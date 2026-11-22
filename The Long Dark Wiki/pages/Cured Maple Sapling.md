@@ -4,9 +4,7 @@
 
 **Cured Maple Sapling**
 
-![](../assets/Cured_Maple_Sapling_icon.png)
-
-_Cured\_Maple\_Sapling\_icon.png_
+![Cured Maple Sapling icon](../assets/Cured_Maple_Sapling_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 
@@ -54,8 +52,6 @@ Cured Maple Saplings are occasionally found when [Beachcombing](./Beachcombing.m
 _Maple sapling as it appears on the [map](./Map.md)_
 
 ![A growing maple sapling.](../assets/Maple_sapling_growing.png)
-
-_A growing maple sapling._
 
 ## Update history
 

@@ -4,9 +4,7 @@
 
 **Haunted Mind**
 
-![](../assets/Haunted_Mind_icon.png)
-
-_Haunted\_Mind\_icon.png_
+![Haunted Mind icon](../assets/Haunted_Mind_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -16,7 +14,7 @@ _Haunted\_Mind\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** You experience an endless inner turmoil. / Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.
+**Description:** You experience an endless inner turmoil.<br>Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.
 
 **Caused By:** [Misery Mode](./Misery.md)
 

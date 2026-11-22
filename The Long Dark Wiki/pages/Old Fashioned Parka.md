@@ -4,9 +4,7 @@
 
 **Old Fashioned Parka**
 
-![](../assets/Old_Fashioned_Parka_icon.png)
-
-_Old\_Fashioned\_Parka\_icon.png_
+![Old Fashioned Parka icon](../assets/Old_Fashioned_Parka_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Old\_Fashioned\_Parka\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-7%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-7%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 60 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>60 minutes<br>30% condition
 
 > “**Bulky parka that uses old-fashioned materials. What is sacrifices in weight it makes up for in warmth and durability.**”
 >
@@ -40,11 +38,7 @@ The **Old Fashioned Parka** is a type of [Clothing](./Clothing.md) in _[The Long
 
 ![Clothing model](../assets/Old_Fashioned_Parka_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Old_Fashioned_Parka_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ## Update history
 

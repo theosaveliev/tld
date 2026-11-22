@@ -4,9 +4,7 @@
 
 **Old Bear's Den**
 
-![](../assets/Old_Bear%27s_Den.jpg)
-
-_Old\_Bear's\_Den.jpg_
+![Old Bear's Den](../assets/Old_Bear%27s_Den.jpg)
 
 **Location**
 
@@ -20,16 +18,8 @@ Has no shelter The **Old Bear's Den** is an unmarked location in [Forlorn Muskeg
 
 ![The second chamber housing a waterfall](../assets/Old_Bear%27s_Den_Waterfall.jpg)
 
-_The second chamber housing a waterfall_
-
 ![The open ceiling of the final chamber](../assets/Old_Bear%27s_Den_sky.jpg)
-
-_The open ceiling of the final chamber_
 
 ![The map location of the Old Bear's Den in Episode 2](../assets/Old_Bear%27s_Den_Map.jpg)
 
-_The map location of the Old Bear's Den in Episode 2_
-
-![](../assets/Bear_lair.jpg)
-
-_Bear\_lair.jpg_
+![Bear lair](../assets/Bear_lair.jpg)

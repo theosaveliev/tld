@@ -4,9 +4,7 @@
 
 **Broken Metal Light Fixture**
 
-![](../assets/BrokenMetalLightFixture.jpg)
-
-_BrokenMetalLightFixture.jpg_
+![BrokenMetalLightFixture](../assets/BrokenMetalLightFixture.jpg)
 
 **General**
 

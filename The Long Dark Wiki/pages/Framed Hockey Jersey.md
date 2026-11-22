@@ -4,9 +4,7 @@
 
 **Framed Hockey Jersey**
 
-![](../assets/Framed_Hockey_Jersey_icon.png)
-
-_Framed\_Hockey\_Jersey\_icon.png_
+![Framed Hockey Jersey icon](../assets/Framed_Hockey_Jersey_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

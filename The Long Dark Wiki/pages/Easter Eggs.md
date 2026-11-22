@@ -96,23 +96,15 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
 
 ![Cup of Coffee Icon with the Hinterland Logo](../assets/Cup_of_Coffee_icon.png)
 
-_Cup of Coffee Icon with the Hinterland Logo_
-
 ![The bottom of the cup](../assets/Cup_of_coffee_bottom.jpg)
 
-_The bottom of the cup_
-
 ![Old design with old logo](../assets/Cup_of_coffee.png)
-
-_Old design with old logo_
 
 ### Rock Art
 
 A number of rocks contain faint images of cavemen, monsters or graffiti, typically in an abstract art form or extremely low resolution. These rocks are found in all regions, but are most common in [Pleasant Valley](./Pleasant%20Valley.md) near the entrance to [Winding River](./Winding%20River.md), as well as [Bleak Inlet](./Bleak%20Inlet.md).
 
 ![Cave Art (Desolation Point), a monster or animal](../assets/Cave_art.png)
-
-_Cave Art (Desolation Point), a monster or animal_
 
 ### Hank's Hatch
 
@@ -128,20 +120,10 @@ During the mission [Memories](./Memories.md), several callbacks to previous buil
 
 ![The office board in Memories](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
 
-_The office board in Memories_
-
 ![The first ever released map](../assets/Global_map_Published_by_development_team.jpg)
-
-_The first ever released map_
 
 ![The old Hinterland Logo](../assets/Old_Hinterland_Logo.jpg)
 
-_The old Hinterland Logo_
-
 ![The shovel in the pre alpha main menu](../assets/Main_Menu_Alpha_Sandbox.jpg)
 
-_The shovel in the pre alpha main menu_
-
 ![The shovel near the bathroom](../assets/Shovel_Memories.jpg)
-
-_The shovel near the bathroom_

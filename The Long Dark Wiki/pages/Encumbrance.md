@@ -14,7 +14,7 @@
 - [Strategy](#strategy)
 - [Character quotes](#character-quotes)
 
-![](../assets/Weight_icon.png) **Encumbrance** is a player statistic that represents the total amount of weight the player can carry and how it effects their movement speed in the world.
+![Weight icon](../assets/Weight_icon.png) **Encumbrance** is a player statistic that represents the total amount of weight the player can carry and how it effects their movement speed in the world.
 
 Players can see the total weight of the items they are carrying on the Backpack screen from the Status [Survival Menu](./Survival%20Menu.md). This will include items they have equipped as well as those carried in the inventory. The Backpack screen truncates the amount of weight to two decimal places.
 
@@ -24,75 +24,13 @@ Players can see the total weight of the items they are carrying on the Backpack 
 
 The player's normal carrying capacity starts at 30 kg (66 lb). This baseline can be increased by:
 
-Image
-
-Name
-
-Carrying capacity increase
-
-Requirments
-
-Expires
-
-![](../assets/Moose-Hide_Satchel_icon.png)
-
-_Moose-Hide\_Satchel\_icon.png_
-
-[Moose-Hide Satchel](./Moose-Hide%20Satchel.md)
-
-5.00 kg / _(11 lb)_
-
-Wear Satchel
-
-Satchel is taken off or ruined
-
-![](../assets/Well_Fed_icon.png)
-
-_Well\_fed\_icon.png_
-
-[Well Fed](./Well%20Fed.md)
-
-5.00 kg / _(11 lb)_
-
-Avoid starvation for 72 hours
-
-When Calorie Store reaches 0
-
-![](../assets/Technical_Backpack_icon.png)
-
-_Technical\_Backpack\_icon.png_
-
-[Technical Backpack](./Technical%20Backpack.md)
-
-5.00 kg / _(11 lb)_
-
-Acquire Backpack
-
-Never
-
-![](../assets/Unburdened_icon.png)
-
-_Unburdened\_icon.png_
-
-[Unburdened](./Unburdened.md)
-
-3.00 kg / _(6.6 lb)_
-
-Consume: ![](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)![](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)![](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)![](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)![](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
-
-3 hours
-
-![](../assets/Travois_concept.jpg)
-
-_Travois\_concept.jpg_
-
-[Travois](./Travois.md)
-
-75.00 kg / _(165 lb)_
-
-Carry Travois
-
-When put down
+| Image | Name | Carrying capacity increase | Requirments | Expires |
+| --- | --- | --- | --- | --- |
+| ![Moose Hide Satchel icon](../assets/Moose-Hide_Satchel_icon.png) | [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | 5.00 kg<br>_(11 lb)_ | Wear Satchel | Satchel is taken off or ruined |
+| ![Well Fed icon](../assets/Well_Fed_icon.png) | [Well Fed](./Well%20Fed.md) | 5.00 kg<br>_(11 lb)_ | Avoid starvation for 72 hours | When Calorie Store reaches 0 |
+| ![Technical Backpack icon](../assets/Technical_Backpack_icon.png) | [Technical Backpack](./Technical%20Backpack.md) | 5.00 kg<br>_(11 lb)_ | Acquire Backpack | Never |
+| ![Unburdened icon](../assets/Unburdened_icon.png) | [Unburdened](./Unburdened.md) | 3.00 kg<br>_(6.6 lb)_ | Consume: ![Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)![Rabbit Pie icon](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)![Venison Pie icon](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)![Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)![Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md) | 3 hours |
+| ![Travois concept](../assets/Travois_concept.jpg) | [Travois](./Travois.md) | 75.00 kg<br>_(165 lb)_ | Carry Travois | When put down |
 
 These effects can be stacked, meaning that the player can increase their normal carrying capacity by up to 15 kg (33 lb). However, since there is a limit to how many satchels/backpacks the player can equip (only one of each can be equipped at a time), 45 kg (99 lb) is the highest-possible carrying capacity in the base game.
 
@@ -106,51 +44,13 @@ The amount of weight the character is carrying increases the rate of [Fatigue](.
 
 [Broken Ribs](./Broken%20Ribs.md) from a [Moose](./Moose.md) [Struggle](./Struggle.md) will remove 25% of maximum carrying capacity until healed. [Scurvy](./Scurvy.md) will also weaken a survivor to the point where they will lose 5 kg of carrying capacity until healed. If the [Burdened](./Burdened.md) Affliction is gained, then max carry capacity will be reduced by 3 kg for 1 hour.
 
-Image
-
-Name
-
-Carrying capacity increase
-
-![](../assets/Fatigue_Reduced_icon.png)
-
-_Fatigue\_Reduced\_icon.png_
-
-Low [Fatigue](./Fatigue.md)
-
--0.01 kg to -15.00 kg / _(0.02 - 33.09 lbs)_
-
-![](../assets/Burdened_icon.png)
-
-_Burdened\_icon.png_
-
-[Burdened](./Burdened.md)
-
--3.00 kg (-6.6 lb) for 1 hour
-
-![](../assets/Broken_Ribs_icon.png)
-
-_Broken\_Ribs\_icon.png_
-
-[Broken Ribs](./Broken%20Ribs.md)
-
-25% reduction until healed
-
-![](../assets/Scurvy_icon.png)
-
-_Scurvy\_icon.png_
-
-[Scurvy](./Scurvy.md)
-
--5 kg (-11 lb)
-
-![](../assets/Diminished_Form_icon.png)
-
-_Diminished\_Form\_icon.png_
-
-[Diminished Form](./Diminished%20Form.md)
-
-permanent -5 kg (-11 lb)
+| Image | Name | Carrying capacity increase |
+| --- | --- | --- |
+| ![Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) | Low [Fatigue](./Fatigue.md) | -0.01 kg to -15.00 kg<br>_(0.02 - 33.09 lbs)_ |
+| ![Burdened icon](../assets/Burdened_icon.png) | [Burdened](./Burdened.md) | -3.00 kg (-6.6 lb) for 1 hour |
+| ![Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | 25% reduction until healed |
+| ![Scurvy icon](../assets/Scurvy_icon.png) | [Scurvy](./Scurvy.md) | -5 kg (-11 lb) |
+| ![Diminished Form icon](../assets/Diminished_Form_icon.png) | [Diminished Form](./Diminished%20Form.md) | permanent -5 kg (-11 lb) |
 
 ## Movement Thresholds
 

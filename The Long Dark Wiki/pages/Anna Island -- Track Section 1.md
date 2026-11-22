@@ -15,7 +15,7 @@
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Seal_icon.png)<br>_Seal\_icon.png_ | **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | <br>**Anna Island -- Track Section 1**<br>![](../assets/Anna_Island_--_Track_Section_1.jpg)<br>_Anna\_Island\_--\_Track\_Section\_1.jpg_<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![](../assets/No_picture.png)<br>_No\_picture.png_<br>![](../assets/Anna_Island_Track_Section_1_Map.png)<br>_Anna\_Island\_Track\_Section\_1\_Map.png_<br>**Details**<br>**Connecting Regions:** [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._<br>## Overview<br>A continuation of the coastline from the previously numbered region.<br>- The west of the map leads to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md), while the east leads to [Port Remnant](./Port%20Remnant.md).<br>- Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.<br>## Locations<br>There are 6 named locations within Track Section 1, including:<br>\| Column 1 \| Column 2 \|<br>\| --- \| --- \|<br>\| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East) / - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West) / - [Bridge](./Bridge.md) / - [Huts](./Huts.md) \| - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) \|<br> |
+| ![Seal icon](../assets/Seal_icon.png) | **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | <br>**Anna Island -- Track Section 1**<br>![Anna Island Track Section 1](../assets/Anna_Island_--_Track_Section_1.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 1 Map](../assets/Anna_Island_Track_Section_1_Map.png)<br>**Details**<br>**Connecting Regions:** [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._<br>## Overview<br>A continuation of the coastline from the previously numbered region.<br>- The west of the map leads to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md), while the east leads to [Port Remnant](./Port%20Remnant.md).<br>- Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.<br>## Locations<br>There are 6 named locations within Track Section 1, including:<br>\| Column 1 \| Column 2 \|<br>\| --- \| --- \|<br>\| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East) / - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West) / - [Bridge](./Bridge.md) / - [Huts](./Huts.md) \| - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) \|<br> |
 
 There are also a single [Warm Cave](./Warm%20Cave.md) near the middle of the map.
 
@@ -60,12 +60,6 @@ _**Cave before Transition to Track Section 2**_
 
 ![Huts](../assets/Huts.png)
 
-_Huts_
-
 ![Railyard East](../assets/Railyard_%28Track_Section_1_East%29.jpg)
 
-_Railyard East_
-
 ![Railyard West](../assets/Railyard_%28Track_Section_1_West%29.jpg)
-
-_Railyard West_

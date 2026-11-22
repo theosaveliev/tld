@@ -11,7 +11,7 @@
 
 **Tomato Soup**
 
-\[\[File: / ![Sealed](../assets/Tomato_Soup_icon.png) / _Sealed_ / ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / _Opened_
+![Sealed](../assets/Tomato_Soup_icon.png)<br>![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png)
 
 250px\]\]
 
@@ -69,8 +69,6 @@ Tomato Soup is relatively common inside homes: usually in cupboards or on shelfs
 ## Gallery
 
 ![Old model](../assets/Tomato_soup.png)
-
-_Old model_
 
 ## Update history
 

@@ -4,15 +4,11 @@
 
 **Deadfall Area**
 
-![](../assets/Deadfall_area.jpg)
-
-_Deadfall\_area.jpg_
+![Deadfall area](../assets/Deadfall_area.jpg)
 
 **Location**
 
-![](../assets/Deadfall_Area_Location.png)
-
-_Deadfall\_Area\_Location.png_
+![Deadfall Area Location](../assets/Deadfall_Area_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -20,7 +16,7 @@ _Deadfall\_Area\_Location.png_
 
 **Type:** Outdoors
 
-Provides some shelter / **Deadfall Area** is a location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
+Provides some shelter<br>**Deadfall Area** is a location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

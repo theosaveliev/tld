@@ -4,9 +4,7 @@
 
 **Climbing Socks**
 
-![](../assets/Climbing_Socks_icon.png)
-
-_Climbing\_Socks\_icon.png_
+![Climbing Socks icon](../assets/Climbing_Socks_icon.png)
 
 **General**
 
@@ -18,21 +16,21 @@ _Climbing\_Socks\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)25%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)25%
 
-**Protection:** ![](../assets/Protection_icon.png)0%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 45 minutes / 55% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>45 minutes<br>55% condition
 
 > “**Reinforced, expedition quality wool socks.**”
 >
@@ -46,11 +44,7 @@ Climbing Socks are the warmest socks, and also have the slowest decay rate of al
 
 ![Clothing model icon](../assets/Climbing_Socks_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Climbing_Socks_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

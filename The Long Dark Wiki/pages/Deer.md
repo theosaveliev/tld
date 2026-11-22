@@ -21,7 +21,7 @@
 
 **Deer**
 
-\[\[File: / ![Stag](../assets/Deer.png) / _Stag_ / ![Doe](../assets/Doe.png) / _Doe_
+![Stag](../assets/Deer.png)<br>![Doe](../assets/Doe.png)
 
 250px\]\]
 
@@ -61,67 +61,18 @@ A carcass can also be quartered into bags of meat to be taken elsewhere for harv
 
 Stag and Doe carcasses contain slightly differing amounts of meat upon their corpses, with Stags generall having higher amounts of raw Venison.
 
-Item
-
-Quantity
-
-Rarity
-
-![](../assets/Venison_%28Raw%29_icon.png)
-
-_Venison\_(Raw)\_icon.png_
-
-[Venison (Raw)](./Venison%20%28Raw%29.md)
-
-8 - 12.5
-
-Always[¹](#fn1)
-
-![](../assets/Deer_Quarter_icon.png)
-
-_Deer\_Quarter\_icon.png_
-
-[Deer Quarter](./Deer%20Quarter.md)
-
-5
-
-Always[²](#fn2)
-
-![](../assets/Fresh_Deer_Hide_icon.png)
-
-_Fresh\_Deer\_Hide\_icon.png_
-
-[Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
-
-1
-
-Always
-
-\[Missing image: Gut\_icon.png\] / _Gut\_icon.png_
-
-[Fresh Gut](./Fresh%20Gut.md)
-
-2
-
-Always
+|  | Item | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always[¹](#fn1) |
+| ![Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always[²](#fn2) |
+| ![Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
+| \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-Item
-
-Quantity
-
-Rarity
-
-![](../assets/Animal_Fat_icon.png)
-
-_Animal\_Fat\_icon.png_
-
-[Animal Fat](./Animal%20Fat.md)
-
-0.20 kg per meat
-
-Always
+|  | Item | Quantity | Rarity |
+| --- | --- | --- | --- |
+| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.20 kg per meat | Always |
 
 ## Behaviour
 
@@ -159,59 +110,13 @@ It is possible to kill a deer with one shot, though this is a function of scorin
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-**Weapon:** Critical Hit Chance
-
-Head
-
-Neck
-
-Torso
-
-Hips
-
-Limb
-
-![](../assets/Hunting_Rifle_icon.png)
-
-_Hunting\_Rifle\_icon.png_
-
-[Hunting Rifle](./Hunting%20Rifle.md)
-
-Guaranteed
-
-50%
-
-40%
-
-25%
-
-10%
-
-![](../assets/Distress_Pistol_icon.png)
-
-_Distress\_Pistol\_icon.png_
-
-[Distress Pistol](./Distress%20Pistol.md)
-
-![](../assets/Survival_Bow_icon.png)
-
-_Survival\_Bow\_icon.png_
-
-[Survival Bow](./Survival%20Bow.md)
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)
-
-25%
-
-20%
-
-13%
-
-5%
+| Weapon | Critical Hit Chance |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Head | Neck | Torso | Hips | Limb |  |  |
+| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | 50% | 40% | 25% | 10% |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 25% | 20% | 13% | 5% |  |
 
 ### Bleeding wounds
 
@@ -219,81 +124,13 @@ _Revolver\_icon.png_
 
 ### Bleed Out
 
-**Weapon:** Bleed Out
-
-Head
-
-Neck
-
-Torso
-
-Hips
-
-Limb
-
-![](../assets/Hunting_Rifle_icon.png)
-
-_Hunting\_Rifle\_icon.png_
-
-[Hunting Rifle](./Hunting%20Rifle.md)
-
-Instant
-
-15 min
-
-45 min
-
-60 min
-
-240 min
-
-![](../assets/Survival_Bow_icon.png)
-
-_Survival\_Bow\_icon.png_
-
-[Survival Bow](./Survival%20Bow.md)
-
-Instant
-
-10 min
-
-22 min
-
-40 min
-
-120 min
-
-![](../assets/Revolver_icon.png)
-
-_Revolver\_icon.png_
-
-[Revolver](./Revolver.md)
-
-Instant
-
-20 min
-
-60 min
-
-80 min
-
-320 min
-
-![](../assets/Distress_Pistol_icon.png)
-
-_Distress\_Pistol\_icon.png_
-
-[Distress Pistol](./Distress%20Pistol.md)
-
-Instant
-
-8 min
-
-15 min
-
-30 min
-
-80 min
+| Weapon | Bleed Out |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Head | Neck | Torso | Hips | Limb |  |  |
+| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 15 min | 45 min | 60 min | 240 min |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Instant | 10 min | 22 min | 40 min | 120 min |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | Instant | 20 min | 60 min | 80 min | 320 min |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Instant | 8 min | 15 min | 30 min | 80 min |
 
 ### Strategies
 
@@ -313,19 +150,11 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
 
 ![Old deer model (v.113)](../assets/Deer_%28old%29.png)
 
-_Old deer model (v.113)_
-
 ![v.113 deer running](../assets/Deer_Running.jpg)
-
-_v.113 deer running_
 
 ![Wolf feeding on a Deer](../assets/Wolf_feeding_on_deer.jpg)
 
-_Wolf feeding on a Deer_
-
 ![Steam Badge](../assets/Steam_Deer_Badge.png)
-
-_Steam Badge_
 
 ## Update history
 

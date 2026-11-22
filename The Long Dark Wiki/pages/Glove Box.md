@@ -4,9 +4,7 @@
 
 **Glove Box**
 
-![](../assets/Glove_Box.jpg)
-
-_Glove\_Box.jpg_
+![Glove Box](../assets/Glove_Box.jpg)
 
 **Release:** TBD
 

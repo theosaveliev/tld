@@ -14,9 +14,7 @@
 
 **Meat Curing Box**
 
-![](../assets/Meat_Curing_Box_icon.png)
-
-_Meat\_Curing\_Box\_icon.png_
+![Meat Curing Box icon](../assets/Meat_Curing_Box_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

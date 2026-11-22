@@ -15,9 +15,7 @@
 
 **Emergency Stim**
 
-![](../assets/Emergency_Stim_icon.png)
-
-_Emergency\_Stim\_icon.png_
+![Emergency Stim icon](../assets/Emergency_Stim_icon.png)
 
 **Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
 
@@ -90,15 +88,9 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 
 ![An emergency stim when equipped](../assets/Emergency_stim_equipped.jpg)
 
-_An emergency stim when equipped_
-
 ![An emergency stim when equipped (old version)](../assets/Emergency_stim_equipped.png)
 
-_An emergency stim when equipped (old version)_
-
 ![Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available.](../assets/Tld-int-rav-stim.jpg)
-
-_Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available._
 
 ## Trivia
 

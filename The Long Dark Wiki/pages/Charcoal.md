@@ -14,9 +14,7 @@
 
 **Charcoal**
 
-![](../assets/Charcoal_icon.png)
-
-_Charcoal\_icon.png_
+![Charcoal icon](../assets/Charcoal_icon.png)
 
 **Release:** [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)
 
@@ -73,8 +71,6 @@ If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot 
 ## Gallery
 
 ![Charcoal's viewmodel](../assets/Charcoal_viewmodel.jpg)
-
-_Charcoal's viewmodel_
 
 ## Trivia
 

@@ -16,25 +16,21 @@
 
 **Suzuki Radio Telescope**
 
-![](../assets/Suzuki_Radio_Telescope.jpg)
-
-_Suzuki\_Radio\_Telescope.jpg_
+![Suzuki Radio Telescope](../assets/Suzuki_Radio_Telescope.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Details**
 
 **Description:** A government research facility with a powered space radio dish
 
-**Connecting Regions:** [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) / [Blackrock Foothills](./Blackrock%20Foothills.md)
+**Connecting Regions:** [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md)<br>[Blackrock Foothills](./Blackrock%20Foothills.md)
 
-**Characters:** [Jace](./Jace.md) / [Atwood](./Atwood.md)
+**Characters:** [Jace](./Jace.md)<br>[Atwood](./Atwood.md)
 
-**Locations:** Lower Suzuki / Upper Suzuki / The Bunker
+**Locations:** Lower Suzuki<br>Upper Suzuki<br>The Bunker
 
 > “**The Suzuki Radio Telescope. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to.**”
 >
@@ -91,15 +87,9 @@ Atwood goes on to explain what the Aurora exactly is, before letting Mackenzie h
 
 ![Suzuki, as seen from the Unstable Mine exit.](../assets/Screenshot_2026-09-27_054810.png)
 
-_Suzuki, as seen from the Unstable Mine exit._
-
 ![Suzuki seen from an alternative angle during the final cutscene. The Tuner Control Hall's window can be seen across from the Radio Telescope.](../assets/Screenshot_2026-09-27_192706.png)
 
-_Suzuki seen from an alternative angle during the final cutscene. The Tuner Control Hall's window can be seen across from the Radio Telescope._
-
 ![The entrance into the Bunker below Suzuki, marked as "G406."](../assets/Screenshot_2026-09-27_192723.png)
-
-_The entrance into the Bunker below Suzuki, marked as "G406."_
 
 ## Notes
 

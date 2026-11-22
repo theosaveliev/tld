@@ -10,9 +10,7 @@
 
 **Co-op**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location**
 
@@ -40,5 +38,5 @@ Several items not found anywhere else on Great Bear Island are found inside the 
 
 2 notes can be found at the location:
 
-- ![](../assets/Pinned_Note_icon.png) [Pinned Note](./Pinned%20Note.md)
-- ![](../assets/Handwritten_Prescription_icon.png) [Handwritten Prescription](./Handwritten%20Prescription.md)
+- ![Pinned Note icon](../assets/Pinned_Note_icon.png) [Pinned Note](./Pinned%20Note.md)
+- ![Handwritten Prescription icon](../assets/Handwritten_Prescription_icon.png) [Handwritten Prescription](./Handwritten%20Prescription.md)

@@ -4,15 +4,11 @@
 
 **Mountaineer's Hut**
 
-![](../assets/Mountaineer%27s_Hut.png)
-
-_Mountaineer's\_Hut.png_
+![Mountaineer's Hut](../assets/Mountaineer%27s_Hut.png)
 
 **Location**
 
-![](../assets/Mountaineer%27s_Hut_Location.png)
-
-_Mountaineer's\_Hut\_Location.png_
+![Mountaineer's Hut Location](../assets/Mountaineer%27s_Hut_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -20,15 +16,11 @@ _Mountaineer's\_Hut\_Location.png_
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -74,24 +66,12 @@ The [Cargo Container](./Cargo%20Container.md) on the right (doesn't spawn in Int
 
 ![The interior of the hut](../assets/Mountaineers_hut_interior.jpg)
 
-_The interior of the hut_
-
 ![A view from the other side of the room](../assets/Mountaineers_hut_interior2.jpg)
-
-_A view from the other side of the room_
 
 ![Mountaineer's Hut](../assets/MountaineersHut-1.jpg)
 
-_Mountaineer's Hut_
-
 ![A view of Crystal Lake from Mountaineer's Hut.](../assets/Crystal_Lake.png)
-
-_A view of Crystal Lake from Mountaineer's Hut._
 
 ![The hut is not properly insulated, and there is a big hole in the roof.](../assets/Broken_and_perforated_roof.jpg)
 
-_The hut is not properly insulated, and there is a big hole in the roof._
-
 ![Repaired roof](../assets/20251008152639_1.jpg)
-
-_Repaired roof_

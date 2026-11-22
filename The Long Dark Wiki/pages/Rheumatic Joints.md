@@ -4,9 +4,7 @@
 
 **Rheumatic Joints**
 
-![](../assets/Rheumatic_Joints_icon.png)
-
-_Rheumatic\_Joints\_icon.png_
+![Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -16,7 +14,7 @@ _Rheumatic\_Joints\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** A painful inflammation has taken hold. / You cannot Sprint as quickly, nor Aim a weapon for long before having to lower it. Sprains are more likely.
+**Description:** A painful inflammation has taken hold.<br>You cannot Sprint as quickly, nor Aim a weapon for long before having to lower it. Sprains are more likely.
 
 **Caused By:** [Misery Mode](./Misery.md)
 

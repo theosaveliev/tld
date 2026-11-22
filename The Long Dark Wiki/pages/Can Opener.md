@@ -4,9 +4,7 @@
 
 **Can Opener**
 
-![](../assets/Can_Opener_icon.png)
-
-_Can\_Opener\_icon.png_
+![Can Opener icon](../assets/Can_Opener_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -47,8 +45,6 @@ It can also be repaired 1 unit of Scrap Metal. Repairing restores 25% condition 
 ## Gallery
 
 ![Old model.](../assets/Can_opener.png)
-
-_Old model._
 
 ## Update history
 

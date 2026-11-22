@@ -4,15 +4,11 @@
 
 **Bricklayer's Retreat**
 
-![](../assets/Bricklayer%27s_Retreat.jpg)
-
-_Bricklayer's\_Retreat.jpg_
+![Bricklayer's Retreat](../assets/Bricklayer%27s_Retreat.jpg)
 
 **Location**
 
-![](../assets/Bricklayer%27s_Retreat_Location.png)
-
-_Bricklayer's\_Retreat\_Location.png_
+![Bricklayer's Retreat Location](../assets/Bricklayer%27s_Retreat_Location.png)
 
 Region
 
@@ -22,15 +18,11 @@ Region
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -46,6 +38,4 @@ A [Moose](./Moose.md) wanders around the small frozen pond in front of the cabin
 
 ## Gallery
 
-![](../assets/Screen_29dab73f-c28d-4d00-97a1-5541cbcfe3db_hi.png)
-
-_Screen\_29dab73f-c28d-4d00-97a1-5541cbcfe3db\_hi.png_
+![Screen 29dab73f c28d 4d00 97a1 5541cbcfe3db hi](../assets/Screen_29dab73f-c28d-4d00-97a1-5541cbcfe3db_hi.png)

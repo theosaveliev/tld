@@ -13,9 +13,7 @@
 
 **The Grey Mother/Transcript**
 
-![](../assets/The_Grey_Mother.png)
-
-_The\_Grey\_Mother.png_
+![The Grey Mother](../assets/The_Grey_Mother.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -27,7 +25,7 @@ _The\_Grey\_Mother.png_
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Hobbs](./Hobbs.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md)<br>[Methuselah](./Methuselah.md)<br>[Hobbs](./Hobbs.md)
 
 This is the mission transcript for mission 3 [The Grey Mother](./The%20Grey%20Mother.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

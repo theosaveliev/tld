@@ -2,7 +2,7 @@
 
 **Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cairns)
 
-![](../assets/Cairn_icon.png)
+![Cairn icon](../assets/Cairn_icon.png)
 
 **Cairns** are [Collectibles](./Collectibles.md) that appear in [Survival Mode](./Survival%20Mode.md). They are small rockpiles with a red piece of cloth that sways in the wind and serve as tributes to supporters from the kickstarter campaign, with each message having been written by a patron. There are currently 165 cairns in the game spread across most of Lower Great Bear.
 

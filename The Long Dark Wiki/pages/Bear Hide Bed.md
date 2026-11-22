@@ -11,9 +11,7 @@
 
 **Bear Hide Bed**
 
-![](../assets/Bear_Hide_Bed_icon.png)
-
-_Bear\_Hide\_Bed\_icon.png_
+![Bear Hide Bed icon](../assets/Bear_Hide_Bed_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
@@ -25,11 +23,9 @@ _Bear\_Hide\_Bed\_icon.png_
 
 **Backpack:** Drop, Place
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 The **Bear Hide Bed** is a [Decorations](./Decorations.md) and [Bed](./Bed.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

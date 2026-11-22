@@ -4,9 +4,7 @@
 
 **ID - D. Belanger**
 
-![](../assets/ID_-_D._Belanger_icon.png)
-
-_ID\_-\_D.\_Belanger\_icon.png_
+![ID D. Belanger icon](../assets/ID_-_D._Belanger_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -38,9 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning to the right, near the left side of the plane, next to the roaring fire. The ID is later returned to Dimitri at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-![](../assets/North_Charters_Crash.jpg)
-
-_North\_Charters\_Crash.jpg_
+![North Charters Crash](../assets/North_Charters_Crash.jpg)
 
 ## Update history
 

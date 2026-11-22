@@ -4,7 +4,7 @@
 
 **Rockfish (Raw)**
 
-\[\[File: / ![Raw](../assets/Rockfish_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Rockfish_%28Raw%29_Opened_icon.png) / _Opened_
+![Raw](../assets/Rockfish_%28Raw%29_icon.png)<br>![Opened](../assets/Rockfish_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 

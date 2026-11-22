@@ -13,9 +13,7 @@
 
 **Snow Shelter**
 
-![](../assets/Snow_Shelter_icon.png)
-
-_Snow\_shelter\_icon.png_
+![Snow Shelter icon](../assets/Snow_Shelter_icon.png)
 
 **General**
 
@@ -25,11 +23,11 @@ _Snow\_shelter\_icon.png_
 
 **Statistics**
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)15 °C(27 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)15 °C(27 °F)
 
-**Harvest:** 10 [Sticks](./Stick.md) / 2 [Cloth](./Cloth.md)
+**Harvest:** 10 [Sticks](./Stick.md)<br>2 [Cloth](./Cloth.md)
 
-**Repair:** up to 10 [Sticks](./Stick.md) / up to 3 [Cloth](./Cloth.md)
+**Repair:** up to 10 [Sticks](./Stick.md)<br>up to 3 [Cloth](./Cloth.md)
 
 **Snow Shelters** are temporary shelters which can be constructed outdoors in _The Long Dark_.
 
@@ -91,8 +89,6 @@ Dismantling a snow shelters above 0% condition yields:
 ## Gallery
 
 ![A Snow Shelter placed in the world](../assets/Drift_Island_Camp.png)
-
-_A Snow Shelter placed in the world_
 
 ## Game history
 

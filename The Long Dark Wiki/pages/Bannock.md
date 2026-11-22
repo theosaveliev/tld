@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bannock)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Bannock** / ![](../assets/Bannock_icon.png) / _Bannock\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** Yes ([Trader](./Trader.md) only) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Values** / **Calories:** 200 (250) kcal / **Hydration:** -3.0% / **Weight:** 0.05 kg (0.11 lbs) / **Decay Rate** / **Inside:** 20.000% per day / **Outside:** 5.000% per day / **Advanced data** / **Item key:** GAMEPLAY\_Bannock / **Bannock** is a food item made with a [Cooking Skillet](./Cooking%20Skillet.md) or no tool on an open slot at a [Fire](./Fire.md). / To cook the Bannock without a Cooking Skillet, select the No Tool option over an active Cooking Slot.![No Tool option for cooking Bannock or Acorn Bannock without a Cooking Skillet](../assets/Anywhere_icon.png)_No Tool option for cooking Bannock or Acorn Bannock without a Cooking Skillet_
+<br>**Bannock**<br>![Bannock icon](../assets/Bannock_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 200 (250) kcal<br>**Hydration:** -3.0%<br>**Weight:** 0.05 kg (0.11 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Bannock<br>**Bannock** is a food item made with a [Cooking Skillet](./Cooking%20Skillet.md) or no tool on an open slot at a [Fire](./Fire.md).<br>To cook the Bannock without a Cooking Skillet, select the No Tool option over an active Cooking Slot.![No Tool option for cooking Bannock or Acorn Bannock without a Cooking Skillet](../assets/Anywhere_icon.png)_No Tool option for cooking Bannock or Acorn Bannock without a Cooking Skillet_
 
 ## Recipe
 

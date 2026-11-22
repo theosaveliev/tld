@@ -28,9 +28,7 @@
 
 **Ptarmigan**
 
-![](../assets/Ptarmigan.png)
-
-_Ptarmigan.png_
+![Ptarmigan](../assets/Ptarmigan.png)
 
 **Basic Information**
 
@@ -46,16 +44,14 @@ _Ptarmigan.png_
 
 **Eyes:** Black
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.** / Official Hinterland Description
+**A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.**<br>Official Hinterland Description
 
 ”
 
@@ -71,31 +67,10 @@ Each region contains only a handful of specific areas populated with Ptarmigans,
 
 When killed, a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) can be butchered on the spot or carried whole, similar to a [Rabbit Carcass](./Rabbit%20Carcass.md). A whole bird weighs only slightly more than its meat and down feathers and harvesting is a time consuming process (30 minutes for each bundle). Unlike other animals, Ptarmigans are unique in that they do not drop Hides or Intestines.
 
-Item
-
-Quanity
-
-Rarity
-
-![](../assets/Ptarmigan_%28Raw%29_icon.png)
-
-_Ptarmigan\_(Raw)\_icon.png_
-
-[Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
-
-0.8-1.5 Kg (1.8-3.3 lbs)
-
-Always
-
-![](../assets/Ptarmigan_Down_icon.png)
-
-_Ptarmigan\_Down\_icon.png_
-
-[Ptarmigan Down](./Ptarmigan%20Down.md)
-
-4 Bundles
-
-Always
+|  | Item | Quanity | Rarity |
+| --- | --- | --- | --- |
+| ![Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
+| ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
 
 Ptarmigan meat is a necessary ingredient in making all stews, as it is the only reliable way of obtaining [Broth](./Broth.md).
 
@@ -236,16 +211,8 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 
 ![Ptarmigan icon used in the Far Territory marketing](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan icon used in the Far Territory marketing_
-
-![](../assets/Ptarmigan-768x432.png)
-
-_Ptarmigan-768x432.png_
+![Ptarmigan 768x432](../assets/Ptarmigan-768x432.png)
 
 ![A Ptarmigan up close](../assets/Ptarmigan_Up_Close.jpg)
 
-_A Ptarmigan up close_
-
 ![A Wolf feeding on a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png)
-
-_A Wolf feeding on a Ptarmigan_

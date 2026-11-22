@@ -32,9 +32,7 @@
 
 **Supply Cache**
 
-![](../assets/Transponder_Cache.jpg)
-
-_Transponder\_Cache.jpg_
+![Transponder Cache](../assets/Transponder_Cache.jpg)
 
 **Story item:** No
 
@@ -42,11 +40,9 @@ _Transponder\_Cache.jpg_
 
 **Capacity:** 30.00 kg(66 lbs)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 
@@ -346,8 +342,6 @@ Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md),
 An empty, opened Supply Cache can be found in the [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) of the [Old Settlement](./Old%20Settlement.md). This may have been used by [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md) long ago.
 
 ![The empty Supply Cache in the Basement.](../assets/Supply_Cache_Basement.jpg)
-
-_The empty Supply Cache in the Basement._
 
 ## References
 

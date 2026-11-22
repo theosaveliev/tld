@@ -4,9 +4,7 @@
 
 **Pain**
 
-![](../assets/Pain_icon.png)
-
-_Pain\_icon.png_
+![Pain icon](../assets/Pain_icon.png)
 
 **Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 
@@ -30,7 +28,7 @@ _Pain\_icon.png_
 
 **Treatment:** 2 x 
 
-**Alternate Treatment:** 1 x ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+**Alternate Treatment:** 1 x ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 **Recovery Time:** 20 min - 1 hour (untreated)
 

@@ -17,9 +17,7 @@
 
 **The Crash**
 
-![](../assets/The_Crash.png)
-
-_The\_Crash.png_
+![The Crash](../assets/The_Crash.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -62,7 +60,7 @@ This section contains a list of the journal entries for the mission:
 
 ### Stop the Blood Loss
 
-![](../assets/Scrap_Metal_Knife_Injury.jpg)
+![Scrap Metal Knife Injury](../assets/Scrap_Metal_Knife_Injury.jpg)
 
 After waking up in the ravine, the player must stop the blood loss using the bandage in the inventory. The bandage can be applied by activating the [Radial Menu](./Radial%20Menu.md), navigating to the [first aid](./First%20Aid.md) tab, and then using the bandage on the blood loss [affliction](./Afflictions.md). If the blood loss is not stopped, the player will continue to lose condition.
 
@@ -78,7 +76,7 @@ Once a Campfire has been successfully started, the player can select the moss on
 
 ### Climb out of the Ravine
 
-![](../assets/Plane.jpg) The next morning, the player can leave the ravine by walking up the fallen tree and then climbing the vines. At the top, the player will pass [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md). Underneath the plane is [Mackenzie's Parka](./Mackenzie%27s%20Parka.md), a [Bedroll](./Bedroll.md), [Astrid's Backpack](./Astrid%27s%20Backpack.md), and [Astrid's Hardcase](./Astrid%27s%20Hardcase.md). Further along the cliff, the extra supplies chosen by the player in [the previous mission](./Memories.md) can be found on the ground. The player then makes their way past the [Radio Tower](./Radio%20Tower.md).
+![Plane](../assets/Plane.jpg) The next morning, the player can leave the ravine by walking up the fallen tree and then climbing the vines. At the top, the player will pass [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md). Underneath the plane is [Mackenzie's Parka](./Mackenzie%27s%20Parka.md), a [Bedroll](./Bedroll.md), [Astrid's Backpack](./Astrid%27s%20Backpack.md), and [Astrid's Hardcase](./Astrid%27s%20Hardcase.md). Further along the cliff, the extra supplies chosen by the player in [the previous mission](./Memories.md) can be found on the ground. The player then makes their way past the [Radio Tower](./Radio%20Tower.md).
 
 ### Travel to town
 

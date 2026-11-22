@@ -4,9 +4,7 @@
 
 **Carter Hydro Staging Area Gate Key**
 
-![](../assets/Carter_Hydro_Staging_Area_Gate_Key_icon.png)
-
-_Carter\_Hydro\_Staging\_Area\_Gate\_Key\_icon.png_
+![Carter Hydro Staging Area Gate Key icon](../assets/Carter_Hydro_Staging_Area_Gate_Key_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

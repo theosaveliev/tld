@@ -2,12 +2,10 @@
 
 **Categories:** DLC Content, Indoor locations, Locations, Locations in Anna Island -- Track Section 5 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Track_Section_5%29)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Cave (Track Section 5)** / ![](../assets/Cave_%28Track_Section_5%29.jpg) / _Cave\_(Track\_Section\_5).jpg_ / **Location** / ![](../assets/Cave_Track_Section_5_Location.png) / _Cave\_Track\_Section\_5\_Location.png_ / **Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\\|- / **Description:** A warm cave / **General** / Has an interior\ **Cave** is a location in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
+<br>**Cave (Track Section 5)**<br>![Cave (Track Section 5)](../assets/Cave_%28Track_Section_5%29.jpg)<br>**Location**<br>![Cave Track Section 5 Location](../assets/Cave_Track_Section_5_Location.png)<br>**Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\\|-<br>**Description:** A warm cave<br>**General**<br>Has an interior\ **Cave** is a location in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
 
 ## Overview

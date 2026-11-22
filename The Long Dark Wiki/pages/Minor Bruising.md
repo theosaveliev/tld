@@ -4,9 +4,7 @@
 
 **Minor Bruising**
 
-![](../assets/Minor_Bruising_icon.png)
-
-_Minor\_Bruising\_icon.png_
+![Minor Bruising icon](../assets/Minor_Bruising_icon.png)
 
 **Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
 
@@ -33,5 +31,3 @@ _Minor\_Bruising\_icon.png_
 Minor Bruising damages [Condition](./Condition.md) by 5%, and makes any future losses of condition slightly more damaging than it normally would. Bruising cannot be treated, and will disappear after the fall or struggle is resolved.
 
 ![Old icon](../assets/Minor_brusing_2.png)
-
-_Old icon_

@@ -13,9 +13,7 @@
 
 **Reishi Mushroom**
 
-![](../assets/Reishi_Mushroom_icon.png)
-
-_Reishi\_Mushroom\_icon.png_
+![Reishi Mushroom icon](../assets/Reishi_Mushroom_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 
@@ -85,15 +83,9 @@ _A pair of reishi mushrooms growing on a tree stump in [Pleasant Valley](./Pleas
 
 ![Crafting (after v1.6 update)](../assets/Crafting-menu-v1.6x.jpg)
 
-_Crafting (after v1.6 update)_
-
 ![An older model for the mushroom](../assets/Reishi_Mushroom_icon_historical.png)
 
-_An older model for the mushroom_
-
 ![Early pre alpha model](../assets/Reishi_mushroom.png)
-
-_Early pre alpha model_
 
 ## Update history
 

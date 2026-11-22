@@ -4,15 +4,11 @@
 
 **Headframe Building**
 
-![](../assets/Headframe_Building.png)
-
-_Headframe\_Building.png_
+![Headframe Building](../assets/Headframe_Building.png)
 
 **Location**
 
-![](../assets/Headframe_Building_Location.png)
-
-_Headframe\_Building\_Location.png_
+![Headframe Building Location](../assets/Headframe_Building_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -20,9 +16,7 @@ _Headframe\_Building\_Location.png_
 
 Type
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

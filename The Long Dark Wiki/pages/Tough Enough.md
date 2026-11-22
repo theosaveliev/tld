@@ -11,9 +11,7 @@
 
 **Tough Enough**
 
-![](../assets/Tough_Enough_icon.png)
-
-_Tough\_Enough\_icon.png_
+![Tough Enough icon](../assets/Tough_Enough_icon.png)
 
 **Description:** Survive 25 Cougar Struggles.
 

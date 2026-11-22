@@ -11,9 +11,7 @@
 
 **Sprained Ankle**
 
-![](../assets/Sprained_Ankle_icon.png)
-
-_Sprained\_Ankle\_icon.png_
+![Sprained Ankle icon](../assets/Sprained_Ankle_icon.png)
 
 **Properties**
 
@@ -21,7 +19,7 @@ _Sprained\_Ankle\_icon.png_
 
 **Description:** You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.
 
-**Caused By:** Slopes Falls / Wildlife [Struggle](./Struggle.md)
+**Caused By:** Slopes Falls<br>Wildlife [Struggle](./Struggle.md)
 
 **Effect:** Negative
 
@@ -31,7 +29,7 @@ _Sprained\_Ankle\_icon.png_
 
 **Treatment**
 
-**Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
 
 **Recovery Time:** 4 hours of [Sleep](./Sleep.md)
 
@@ -67,5 +65,3 @@ If a player fails to heed a sprain risk or is attacked by hostile wildlife, they
 _This symbol appears on the player interface when they move or stand on uneven slopes._
 
 ![Old icon.](../assets/Sprained_Ankle.png)
-
-_Old icon._

@@ -4,8 +4,8 @@
 
 **Grate**
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![](../assets/Grate.jpg)<br>_Grate.jpg_ |  |
-| **General** |  |
-| Item Type | Item |
+![Grate](../assets/Grate.jpg)
+
+**General**
+
+**Item Type:** Item

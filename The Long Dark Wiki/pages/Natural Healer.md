@@ -4,9 +4,7 @@
 
 **Natural Healer**
 
-![](../assets/Natural_Healer_icon.png)
-
-_Natural\_Healer\_icon.png_
+![Natural Healer icon](../assets/Natural_Healer_icon.png)
 
 **Description:** Healed yourself using all types of natural medicines (single game)
 

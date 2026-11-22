@@ -4,9 +4,7 @@
 
 **Loose Boards**
 
-![](../assets/Loose_Boards.jpg)
-
-_Loose\_Boards.jpg_
+![Loose Boards](../assets/Loose_Boards.jpg)
 
 **Release:** Part 1 TFTFT
 

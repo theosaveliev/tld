@@ -4,29 +4,21 @@
 
 **Pleasant Valley Outbuildings**
 
-![](../assets/305620_20160918104124_1.png)
-
-_305620\_20160918104124\_1.png_
+![305620 20160918104124 1](../assets/305620_20160918104124_1.png)
 
 **Location**
 
-![](../assets/Pleasant_Valley_Outbuildings_Location.png)
-
-_Pleasant\_Valley\_Outbuildings\_Location.png_
+![Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -44,8 +36,4 @@ FOREST TALKERS 2 is past the workbench near a metal container on the upper floor
 
 ![Sunrise at the entrance](../assets/Screen_76d48679-c72a-44eb-bf02-8c4bac515038_hi.png)
 
-_Sunrise at the entrance_
-
-![](../assets/Blue_Flare_Long_Dark.png)
-
-_Blue\_Flare\_Long\_Dark.png_
+![Blue Flare Long Dark](../assets/Blue_Flare_Long_Dark.png)

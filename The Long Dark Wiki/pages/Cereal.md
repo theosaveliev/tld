@@ -4,9 +4,7 @@
 
 **Cereal**
 
-![](../assets/Cereal_icon.png)
-
-_Cereal\_icon.png_
+![Cereal icon](../assets/Cereal_icon.png)
 
 **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
@@ -30,11 +28,9 @@ _Cereal\_icon.png_
 
 **Weight:** 0.20 kg (0.44 lbs)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Cereal** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -44,8 +40,8 @@ It is only acquired when trading with the [Trader](./Trader.md). The price to ac
 
 Cereal costs the following to acquire from the Trader:
 
-- 20 ![](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
-- 2.00 L ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+- 20 ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+- 2.00 L ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
 ## Trivia
 

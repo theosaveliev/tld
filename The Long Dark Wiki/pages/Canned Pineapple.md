@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Canned_Pineapple)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Canned Pineapple** / ![](../assets/Canned_Pineapple_icon.png) / _Canned\_Pineapple\_icon.png_ / **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) / **Wintermute:** No / **Renewable:** Yes ([Trader](./Trader.md) only) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** No / **Examine:** Sweet, juicy, Pineapple in a can. A tropical treat and excellent source of Vitamin-C. / **Values** / **Calories:** 295 kcal / **Hydration:** 5% / **[Vitamin C](./Scurvy.md):** Moderate (56%) / **Weight:** 0.40 kg (0.88 lbs) / **Decay Rate** / **Inside:** 0.333% per day / **Outside:** 1.667% per day / **Advanced data** / **Item key:** GAMEPLAY\_CannedPineapple / **Canned Pineapple** is a canned [food](./Food%20And%20Drink.md) item in _The Long Dark_ found only when trading with the [Trader](./Trader.md).
+<br>**Canned Pineapple**<br>![Canned Pineapple icon](../assets/Canned_Pineapple_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Sweet, juicy, Pineapple in a can. A tropical treat and excellent source of Vitamin-C.<br>**Values**<br>**Calories:** 295 kcal<br>**Hydration:** 5%<br>**[Vitamin C](./Scurvy.md):** Moderate (56%)<br>**Weight:** 0.40 kg (0.88 lbs)<br>**Decay Rate**<br>**Inside:** 0.333% per day<br>**Outside:** 1.667% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_CannedPineapple<br>**Canned Pineapple** is a canned [food](./Food%20And%20Drink.md) item in _The Long Dark_ found only when trading with the [Trader](./Trader.md).
 
 ## Overview
 
@@ -25,7 +23,5 @@ Canned Pineapple cannot be found as loot and is only acquired from the Trader, m
 - Unlike other canned goods that must be opened with a bladed tool, Canned Pineapples does not have an open can icon in the Backpack after being opened.
 
 ![An opened Canned Pineapple](../assets/Canned_Pineapple_opened.jpg)
-
-_An opened Canned Pineapple_
 
 ## Update history

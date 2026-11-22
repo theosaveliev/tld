@@ -13,15 +13,11 @@
 
 **Last Prospect**
 
-![](../assets/LastProspectEntrance.png)
-
-_LastProspectEntrance.png_
+![LastProspectEntrance](../assets/LastProspectEntrance.png)
 
 **Location**
 
-![](../assets/Last_Prospect_Location.png)
-
-_Last\_Prospect\_Location.png_
+![Last Prospect Location](../assets/Last_Prospect_Location.png)
 
 Region
 
@@ -75,12 +71,6 @@ If the player travels deep into the mine and braves the toxic gases to reach the
 
 ![The upper entrance to the mine. It is the only one open in Survival Mode.](../assets/LastProspectEntrance.png)
 
-_The upper entrance to the mine. It is the only one open in Survival Mode._
-
 ![Between the two rope climbs up from the bottom of the ravine](../assets/HalfwayUp.png)
 
-_Between the two rope climbs up from the bottom of the ravine_
-
 ![Entrance to head deeper into the mine](../assets/The_Detonators.png)
-
-_Entrance to head deeper into the mine_

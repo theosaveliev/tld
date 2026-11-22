@@ -4,15 +4,13 @@
 
 **Abandoned Mine No. 5**
 
-\[\[File: / ![West Access](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg) / _West Access_ / ![East Access](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg) / _East Access_
+![West Access](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)<br>![East Access](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Abandoned_Mine_No._5_Location.png)
-
-_Abandoned\_Mine\_No.\_5\_Location.png_
+![Abandoned Mine No. 5 Location](../assets/Abandoned_Mine_No._5_Location.png)
 
 Region
 
@@ -38,8 +36,4 @@ While it is feasible to make it through the cave without a portable light source
 
 ![A view of Abandoned Mine No. 5 (West Access).](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)
 
-_A view of Abandoned Mine No. 5 (West Access)._
-
 ![A view of Abandoned Mine No. 5 (East Access).](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg)
-
-_A view of Abandoned Mine No. 5 (East Access)._

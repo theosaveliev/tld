@@ -4,15 +4,11 @@
 
 **Derelict Cabins**
 
-![](../assets/Derelict_Cabins.jpg)
-
-_Derelict\_Cabins.jpg_
+![Derelict Cabins](../assets/Derelict_Cabins.jpg)
 
 **Location**
 
-![](../assets/Derelict_Cabins_Location.png)
-
-_Derelict\_Cabins\_Location.png_
+![Derelict Cabins Location](../assets/Derelict_Cabins_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

@@ -16,17 +16,15 @@
 
 **Will Mackenzie**
 
-![](../assets/Will_Episode_5.jpg)
-
-_Will\_Episode\_5.jpg_
+![Will Episode 5](../assets/Will_Episode_5.jpg)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
 **Date:** 1 August 2017
 
-**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5
+**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)<br>**•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)<br>**•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5
 
-**Mission:** **•** [Memories](./Memories.md) / **•** [The Crash](./The%20Crash.md) / **•** [The Grey Mother](./The%20Grey%20Mother.md) / **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) / **•** [Renewed Hope](./Renewed%20Hope.md) / **•** [Prologue](./Prologue.md) / **•** [Blackrock Blues](./Blackrock%20Blues.md) / **•** [The Power Plant](./The%20Power%20Plant.md) / **•** [The Detonators](./The%20Detonators.md) / **•** [Donner (mission)](./Donner%20%28mission%29.md)
+**Mission:** **•** [Memories](./Memories.md)<br>**•** [The Crash](./The%20Crash.md)<br>**•** [The Grey Mother](./The%20Grey%20Mother.md)<br>**•** [Paradise Lost](./Paradise%20Lost.md)<br>**•** [The Wounded Trapper](./The%20Wounded%20Trapper.md)<br>**•** [The Best Defense](./The%20Best%20Defense.md)<br>**•** [Signal to Noise](./Signal%20to%20Noise.md)<br>**•** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)<br>**•** [Renewed Hope](./Renewed%20Hope.md)<br>**•** [Prologue](./Prologue.md)<br>**•** [Blackrock Blues](./Blackrock%20Blues.md)<br>**•** [The Power Plant](./The%20Power%20Plant.md)<br>**•** [The Detonators](./The%20Detonators.md)<br>**•** [Donner (mission)](./Donner%20%28mission%29.md)
 
 **Biographical Information**
 
@@ -36,7 +34,7 @@ _Will\_Episode\_5.jpg_
 
 **Hometown:** Black Creek, BC, Canada.
 
-**Relatives:** **•** [Astrid Greenwood](./Astrid%20Greenwood.md) (Ex-Wife) / **•** Jack (Son) - Deceased Unnamed Father - Deceased
+**Relatives:** **•** [Astrid Greenwood](./Astrid%20Greenwood.md) (Ex-Wife)<br>**•** Jack (Son) - Deceased Unnamed Father - Deceased
 
 **Occupation:** Bush Pilot
 
@@ -134,54 +132,34 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 
 ## Belongings
 
-- ![](../assets/Mackenzie%27s_Toque_icon.png) [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)
-- ![](../assets/Mackenzie%27s_Sweater_icon.png) [Mackenzie's Sweater](./Mackenzie%27s%20Sweater.md)
-- ![](../assets/Mackenzie%27s_Shirt_icon.png) [Mackenzie's Shirt](./Mackenzie%27s%20Shirt.md)
-- ![](../assets/Mackenzie%27s_Parka_icon.png) [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)
-- ![](../assets/Mackenzie%27s_Pants_icon.png) [Mackenzie's Pants](./Mackenzie%27s%20Pants.md)
-- ![](../assets/Mackenzie%27s_Boots_icon.png) [Mackenzie's Boots](./Mackenzie%27s%20Boots.md)
+- ![Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png) [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)
+- ![Mackenzie's Sweater icon](../assets/Mackenzie%27s_Sweater_icon.png) [Mackenzie's Sweater](./Mackenzie%27s%20Sweater.md)
+- ![Mackenzie's Shirt icon](../assets/Mackenzie%27s_Shirt_icon.png) [Mackenzie's Shirt](./Mackenzie%27s%20Shirt.md)
+- ![Mackenzie's Parka icon](../assets/Mackenzie%27s_Parka_icon.png) [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)
+- ![Mackenzie's Pants icon](../assets/Mackenzie%27s_Pants_icon.png) [Mackenzie's Pants](./Mackenzie%27s%20Pants.md)
+- ![Mackenzie's Boots icon](../assets/Mackenzie%27s_Boots_icon.png) [Mackenzie's Boots](./Mackenzie%27s%20Boots.md)
 
 ## Gallery
 
 ![Steam Trading Card](../assets/William_Mackenzie_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
-![](../assets/Will.png)
-
-_Will.png_
+![Will](../assets/Will.png)
 
 ![Ditto, full screen](../assets/William_Mackenzie_Steam_Card.jpg)
 
-_Ditto, full screen_
-
 ![Will from the Story Trailer](../assets/The_Long_Dark_-_William_Mackenzie.png)
-
-_Will from the Story Trailer_
 
 ![A smashed photo of Astrid and Will](../assets/Astrid_and_Will_photo.jpg)
 
-_A smashed photo of Astrid and Will_
-
 ![Will close-up](../assets/Will_Mackenzie_-_concept_art_-_close.jpg)
-
-_Will close-up_
 
 ![Poster featuring Will.](../assets/Poster.jpg)
 
-_Poster featuring Will._
-
 ![Concept art headshot of Will.](../assets/Will_headshot.jpg)
-
-_Concept art headshot of Will._
 
 ![Will Mackenzie concept art.](../assets/Will_Mackenzie_-_concept_art.jpg)
 
-_Will Mackenzie concept art._
-
 ![Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)](../assets/Will_Mackenzie_haha.png)
-
-_Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)_
 
 ## Notes
 

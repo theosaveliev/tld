@@ -4,9 +4,7 @@
 
 **Shopping List**
 
-![](../assets/Shopping_List_icon.png)
-
-_Shopping\_List\_icon.png_
+![Shopping List icon](../assets/Shopping_List_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

@@ -4,15 +4,11 @@
 
 **Dubious Overlook**
 
-![](../assets/Dubious_Overlook.jpg)
-
-_Dubious\_Overlook.jpg_
+![Dubious Overlook](../assets/Dubious_Overlook.jpg)
 
 **Location**
 
-![](../assets/Dubious_Overlook_Location.png)
-
-_Dubious\_Overlook\_Location.png_
+![Dubious Overlook Location](../assets/Dubious_Overlook_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -32,8 +28,4 @@ It gives a view of the unpolluted southern valley, as well as [Enduring Waterfal
 
 ![The trigger for the location is in the patch of snow (where the footprints currently are)](../assets/Dubious_Overlook_area.jpg)
 
-_The trigger for the location is in the patch of snow (where the footprints currently are)_
-
 ![The cliff as seen from below](../assets/Dubious_Overlook_Below.jpg)
-
-_The cliff as seen from below_

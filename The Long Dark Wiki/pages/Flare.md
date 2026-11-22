@@ -14,9 +14,7 @@
 
 **Flare**
 
-![](../assets/Flare_icon.png)
-
-_flare\_icon.png_
+![Flare icon](../assets/Flare_icon.png)
 
 **General**
 
@@ -28,9 +26,9 @@ _flare\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
 
 
 
@@ -87,24 +85,12 @@ Flares cannot be harvested, crafted, or repaired and are found uncommonly in all
 
 ![An expended flare in the inventory (old).](../assets/Ruined_flare.png)
 
-_An expended flare in the inventory (old)._
-
 ![A flare being thrown](../assets/Throwing_mechanic.jpg)
-
-_A flare being thrown_
 
 ![Flare's viewmodel](../assets/Flare_viewmodel.jpg)
 
-_Flare's viewmodel_
-
 ![current 3D model](../assets/Flare.png)
-
-_current 3D model_
 
 ![Alpha Flare 3D model](../assets/Alpha_Flare_3D_model.png)
 
-_Alpha Flare 3D model_
-
 ![Old model (capless).](../assets/Flare_-_Burned_Out.png)
-
-_Old model (capless)._

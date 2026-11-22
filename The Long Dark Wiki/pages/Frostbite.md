@@ -4,9 +4,7 @@
 
 **Frostbite**
 
-![](../assets/Frostbite_icon.png)
-
-_Frostbite\_icon.png_
+![Frostbite icon](../assets/Frostbite_icon.png)
 
 **Properties**
 

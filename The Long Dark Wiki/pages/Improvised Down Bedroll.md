@@ -2,13 +2,11 @@
 
 **Categories:** Bedrolls, Beds, DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Improvised Down Bedroll** / ![](../assets/Improvised_Down_Bedroll_icon.png) / _Improvised\_Down\_Bedroll\_icon.png_ / **General** / **Item Type:** Tool\\|- / **Statistics** / **Weight:** ![](../assets/Weight_icon.png)1.10 kg(2.42 lbs) / **Warmth bonus:** ![](../assets/Temp_icon.png)8.0 °C(14.4 °F) / **Harvest:** 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) / 90 minutes / **Repair:** 2 × [Cloth](./Cloth.md) / 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) / 30% Condition / 45 mins / > “__An ordinary Bedroll, but stuffed to bursting with harvested down feathers. Toasty. __” / > / > — In-game description / **Improvised Down Bedroll** is a Tool released for the Part 3: Frontier Comforts update for those who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. / The Down Bedroll weighs 0.10 kg more than a regular [Bedroll](./Bedroll.md) and is harder to repair, requiring [Ptarmigan Down](./Ptarmigan%20Down.md) in addition to [Cloth](./Cloth.md), but is also significantly warmer, making it a good alternative to the regular Bedroll.
+<br>**Improvised Down Bedroll**<br>![Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png)<br>**General**<br>**Item Type:** Tool\\|-<br>**Statistics**<br>**Weight:** ![Weight icon](../assets/Weight_icon.png)1.10 kg(2.42 lbs)<br>**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)8.0 °C(14.4 °F)<br>**Harvest:** 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>90 minutes<br>**Repair:** 2 × [Cloth](./Cloth.md)<br>5 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>30% Condition<br>45 mins<br>> “__An ordinary Bedroll, but stuffed to bursting with harvested down feathers. Toasty. __”<br>><br>> — In-game description<br>**Improvised Down Bedroll** is a Tool released for the Part 3: Frontier Comforts update for those who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.<br>The Down Bedroll weighs 0.10 kg more than a regular [Bedroll](./Bedroll.md) and is harder to repair, requiring [Ptarmigan Down](./Ptarmigan%20Down.md) in addition to [Cloth](./Cloth.md), but is also significantly warmer, making it a good alternative to the regular Bedroll.
 
 ## Crafting
 

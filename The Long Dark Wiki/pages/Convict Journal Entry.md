@@ -4,9 +4,7 @@
 
 **Convict Journal Entry**
 
-![](../assets/Convict_Journal_Entry_icon.png)
-
-_Convict\_Journal\_Entry\_icon.png_
+![Convict Journal Entry icon](../assets/Convict_Journal_Entry_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

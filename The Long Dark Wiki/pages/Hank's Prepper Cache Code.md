@@ -4,9 +4,7 @@
 
 **Hank's Prepper Cache Code**
 
-![](../assets/Hank%27s_Prepper_Cache_Code_icon.png)
-
-_Hank's\_Prepper\_Cache\_Code\_icon.png_
+![Hank's Prepper Cache Code icon](../assets/Hank%27s_Prepper_Cache_Code_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

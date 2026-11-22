@@ -16,25 +16,17 @@
 
 **Langston Mine**
 
-![](../assets/Langston_Mine_Outside_Buildings.png)
-
-_Langston\_Mine\_Outside\_Buildings.png_
+![Langston Mine Outside Buildings](../assets/Langston_Mine_Outside_Buildings.png)
 
 **Location**
 
-![](../assets/Langston_Mine_Location.png)
-
-_Langston\_Mine\_Location.png_
+![Langston Mine Location](../assets/Langston_Mine_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -101,26 +93,18 @@ Continuing further through more toxic gas will bring you across some [Supply Bin
 
 ## Achievements
 
-- ![](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
+- ![Too Greedily, too Deep icon](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
 
 ## Gallery
 
 ![The southwestern most entrance near Miner's Footpath.](../assets/Langston_Mine_Southwest.jpg)
 
-_The southwestern most entrance near Miner's Footpath._
-
 ![The open pit mine portion](../assets/Langston_Mine_Open_Pit.png)
 
-_The open pit mine portion_
-
 ![Fan made layout of all 3 floors](../assets/Langston_Mine_Fan_made_Map.jpg)
-
-_Fan made layout of all 3 floors_
 
 ![A photo of the Langston Mine in the Vacant Depot in Transfer Pass](../assets/Vacant_Depot_Langston_Mine_Photo.jpg)
 
 _A photo of the Langston Mine in the [Vacant Depot](./Vacant%20Depot.md) in [Transfer Pass](./Transfer%20Pass.md)_
 
 ![Some paintings showing the Langston Mine](../assets/Paintings.png)
-
-_Some paintings showing the Langston Mine_

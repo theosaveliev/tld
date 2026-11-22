@@ -4,9 +4,7 @@
 
 **Memo (Survival)**
 
-![](../assets/Memo_%28Survival%29_icon.png)
-
-_Memo\_(Survival)\_icon.png_
+![Memo (Survival) icon](../assets/Memo_%28Survival%29_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
 

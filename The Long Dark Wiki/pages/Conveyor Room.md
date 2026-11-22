@@ -4,15 +4,11 @@
 
 **Conveyor Room**
 
-![](../assets/Conveyor_Room.png)
-
-_Conveyor\_Room.png_
+![Conveyor Room](../assets/Conveyor_Room.png)
 
 **Location**
 
-![](../assets/Conveyor_Room_Location.png)
-
-_Conveyor\_Room\_Location.png_
+![Conveyor Room Location](../assets/Conveyor_Room_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -20,7 +16,7 @@ _Conveyor\_Room\_Location.png_
 
 Type
 
-Has an interior / The **Conveyor Room** is a side building sandwiched between the [Concentrator](./Concentrator.md) and the [Headframe Building](./Headframe%20Building.md). Its role is to bring ore to the surface and deliver it to the Concentrator via 3 conveyor belts connected between all 3 structures.
+Has an interior<br>The **Conveyor Room** is a side building sandwiched between the [Concentrator](./Concentrator.md) and the [Headframe Building](./Headframe%20Building.md). Its role is to bring ore to the surface and deliver it to the Concentrator via 3 conveyor belts connected between all 3 structures.
 
 ## Overview
 
@@ -31,5 +27,3 @@ Loot is scarce and can be obtained from [Lockers](./Locker.md) or from the groun
 ## Gallery
 
 ![The inside of the Conveyor Room](../assets/Inside_of_Conveyor_Room.png)
-
-_The inside of the Conveyor Room_

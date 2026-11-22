@@ -15,9 +15,7 @@
 
 **Brand**
 
-![](../assets/Brand_icon.png)
-
-_Brand\_icon.png_
+![Brand icon](../assets/Brand_icon.png)
 
 **Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
 
@@ -68,7 +66,7 @@ The lit Brand burns for 30 game minutes and cannot be extinguished, except when 
 
 ### Animation
 
-![](../assets/Brand_light.png) The Brand displays flickering orange flames when it is first created that gradually diminish as condition is lost. Area lighting also diminishes as the flame dies.
+![Brand light](../assets/Brand_light.png) The Brand displays flickering orange flames when it is first created that gradually diminish as condition is lost. Area lighting also diminishes as the flame dies.
 
 - If a Brand is already burning in the game when another one is pulled from a fire, the new brand animation will echo the previous brand, causing it to seemingly burn out early. The animation can be reset to mirror the actual brand by dropping it.
 
@@ -92,8 +90,6 @@ The brand has been specifically targeted by the developers to be very hard to ke
 - It is impossible to get rid of an extinguished Brand once it has been dropped on the ground. It can only be relocated in the world using RMB.
 
 ![Item when picked up](../assets/Brand_description.png)
-
-_Item when picked up_
 
 ## Update history
 

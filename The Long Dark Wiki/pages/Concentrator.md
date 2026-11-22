@@ -4,15 +4,11 @@
 
 **Concentrator**
 
-![](../assets/Concentrator.png)
-
-_Concentrator.png_
+![Concentrator](../assets/Concentrator.png)
 
 **Location**
 
-![](../assets/Concentrator_Location.png)
-
-_Concentrator\_Location.png_
+![Concentrator Location](../assets/Concentrator_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -20,13 +16,9 @@ _Concentrator\_Location.png_
 
 Type
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -60,12 +52,6 @@ The Concentrator is based off of the [Britannia Mine Museum](https://en.m.wikipe
 
 ![The Concentrator in the distance, with the company sign.](../assets/Zone_of_Contamination.jpg)
 
-_The Concentrator in the distance, with the company sign._
-
 ![Concentrator during aurora](../assets/Concentrator_during_aurora.png)
 
-_Concentrator during aurora_
-
 ![Concentrator inside during aurora](../assets/Concentrator_inside_during_aurora.png)
-
-_Concentrator inside during aurora_

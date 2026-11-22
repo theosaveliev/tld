@@ -4,15 +4,11 @@
 
 **Placid Notch**
 
-![](../assets/Refuge_Cabin_B_resized.png)
-
-_Refuge\_Cabin\_B\_resized.png_
+![Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png)
 
 **Location**
 
-![](../assets/Placid_Notch_Location.png)
-
-_Placid\_Notch\_Location.png_
+![Placid Notch Location](../assets/Placid_Notch_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -22,13 +18,11 @@ _Placid\_Notch\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / **Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
+Has an interior<br>**Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
 
 ## Overview
 
@@ -54,8 +48,4 @@ The area surrounding field is home to multiple large [Timberwolf](./Timberwolf.m
 
 ![An avalanche warning sign in the cabin](../assets/Avalanche_Warning_Sign.png)
 
-_An avalanche warning sign in the cabin_
-
 ![Inside the cabin](../assets/Cabin_B_interior.jpg)
-
-_Inside the cabin_

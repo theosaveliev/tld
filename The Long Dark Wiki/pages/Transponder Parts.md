@@ -4,9 +4,7 @@
 
 **Transponder Parts**
 
-![](../assets/Transponder_Parts_icon.png)
-
-_Transponder\_Parts\_icon.png_
+![Transponder Parts icon](../assets/Transponder_Parts_icon.png)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Signal to Noise](./Signal%20to%20Noise.md)
 
@@ -29,8 +27,6 @@ _Transponder\_Parts\_icon.png_
 **Transponder Parts** are a [Collectible](./Collectibles.md) found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). [Will Mackenzie](./Will%20Mackenzie.md) is tasked with recovering 3 of these during the mission [Signal to Noise](./Signal%20to%20Noise.md). They are recovered at the radio towers at [Shortwave Tower West](./Shortwave%20Tower%20West.md), [Muskeg Overlook](./Muskeg%20Overlook.md), and [Shortwave Tower](./Shortwave%20Tower.md). They are one of the few Collectibles to have weight.
 
 ![alt icon](../assets/Transponder_Parts_2_icon.png)
-
-_alt icon_
 
 ## Update history
 

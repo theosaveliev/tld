@@ -11,9 +11,7 @@
 
 **Cat Tail Stalk**
 
-![](../assets/Cat_Tail_Stalk_icon.png)
-
-_Cat\_Tail\_Stalk\_icon.png_
+![Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png)
 
 **Release:** [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.196)
 
@@ -64,8 +62,6 @@ Like all other plants, Cat Tails do not regrow once harvested.
 ## Gallery
 
 ![Old model.](../assets/Cat_tail_stalk.png)
-
-_Old model._
 
 ## Update history
 

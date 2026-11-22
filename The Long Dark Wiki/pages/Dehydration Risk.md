@@ -4,9 +4,7 @@
 
 **Dehydration Risk**
 
-![](../assets/Dehydration_Risk_icon.png)
-
-_Dehydration\_Risk\_icon.png_
+![Dehydration Risk icon](../assets/Dehydration_Risk_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -28,7 +26,7 @@ _Dehydration\_Risk\_icon.png_
 
 **Treatment**
 
-**Treatment:** ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+**Treatment:** ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
 **Recovery Time:** Instant
 

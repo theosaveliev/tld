@@ -12,9 +12,7 @@
 
 **Sewing Kit**
 
-![](../assets/Sewing_Kit_icon.png)
-
-_Sewing\_Kit\_icon.png_
+![Sewing Kit icon](../assets/Sewing_Kit_icon.png)
 
 **General**
 
@@ -24,7 +22,7 @@ _Sewing\_Kit\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**A basic sewing kit. Required to craft and repair clothing.**”
 >
@@ -55,11 +53,7 @@ The Fishing Tackle can also be used to repair clothing with the same effectivene
 
 ![3D model](../assets/Sewing_kit.png)
 
-_3D model_
-
 ![Old model](../assets/Sewing_kit_old_model.png)
-
-_Old model_
 
 ## Update history
 

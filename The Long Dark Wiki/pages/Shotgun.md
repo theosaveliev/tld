@@ -11,13 +11,11 @@
 - [Trivia](#trivia)
 - [Game History](#game-history)
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / **Shotgun** / ![](../assets/Shotgun_icon.png) / _Shotgun\_icon.png_ / **Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) / **Renewable:** No / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** A long barreled, single shot, break action shotgun. Calibrated to fire Slug rounds. A deadly, if slow firing weapon. / **Values** / **Weight:** 4.00 kg (8.8 lbs) / **Actions** / **Backpack:** Use, Unload, Drop / > “**Finally. The right tool for the job.**” / > / > — [Will Mackenzie](./Will%20Mackenzie.md) upon finding the Shotgun in the Supply Room / The **Shotgun** is a [Tools](./Tools.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
+<br>**Shotgun**<br>![Shotgun icon](../assets/Shotgun_icon.png)<br>**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)<br>**Renewable:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A long barreled, single shot, break action shotgun. Calibrated to fire Slug rounds. A deadly, if slow firing weapon.<br>**Values**<br>**Weight:** 4.00 kg (8.8 lbs)<br>**Actions**<br>**Backpack:** Use, Unload, Drop<br>> “**Finally. The right tool for the job.**”<br>><br>> — [Will Mackenzie](./Will%20Mackenzie.md) upon finding the Shotgun in the Supply Room<br>The **Shotgun** is a [Tools](./Tools.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

@@ -11,9 +11,7 @@
 
 **Jeremiah's Bearskin Coat**
 
-![](../assets/Jeremiah%27s_Bearskin_Coat_icon.png)
-
-_Jeremiah's\_Bearskin\_Coat\_icon.png_
+![Jeremiah's Bearskin Coat icon](../assets/Jeremiah%27s_Bearskin_Coat_icon.png)
 
 **General**
 
@@ -21,7 +19,7 @@ _Jeremiah's\_Bearskin\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
 **Harvest:** Cannot Harvest
 
@@ -47,8 +45,6 @@ The item is not a collectible, and can be found in the Clothing section of the B
 ## Gallery
 
 ![The coat in the Clothing screen](../assets/Jeremiah%27s_Bearskin_Coat.jpg)
-
-_The coat in the Clothing screen_
 
 ## Update history
 

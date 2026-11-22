@@ -13,9 +13,7 @@
 
 **Bear Skin Bedroll**
 
-![](../assets/Bear_Skin_Bedroll_icon.png)
-
-_Bear\_Skin\_Bedroll\_icon.png_
+![Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png)
 
 **General**
 
@@ -23,13 +21,13 @@ _Bear\_Skin\_Bedroll\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)12.0 °C(21.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)12.0 °C(21.6 °F)
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 50% Condition / (62.5% Mending Lv.5)
+**Repair:** 1 × [Cloth](./Cloth.md)<br>1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>50% Condition<br>(62.5% Mending Lv.5)
 
 > “**Bedroll crafted from Bear Skin. Heavy, but very warm. The smell might scare animals away.**”
 >
@@ -90,5 +88,3 @@ Additionally, in the Tales from the Far Territory DLC, a crafted bear skin bedro
 ## Gallery
 
 ![Old model.](../assets/Bear_skin_bedroll.png)
-
-_Old model._

@@ -14,9 +14,7 @@
 
 **Fishing Tip-Up**
 
-![](../assets/Fishing_Tip-Up_icon.png)
-
-_Fishing\_Tip-Up\_icon.png_
+![Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -130,19 +128,11 @@ Tip-Ups can be crafted at a [Workbench](./Work%20Bench.md), requiring no extra t
 
 ![A Tip-Up with a caught fish](../assets/Fishing_Tip-Up_Triggered.png)
 
-_A Tip-Up with a caught fish_
-
 ![A Deployed Tip-Up](../assets/Fishing_Tip-Up_Deployed.png)
-
-_A Deployed Tip-Up_
 
 ![Tip-Up inspect description](../assets/Fishing_Tip-Up_Inspect.png)
 
-_Tip-Up inspect description_
-
 ![Tip-Up ground model](../assets/Fishing_Tip-Up_Ground_Model.png)
-
-_Tip-Up ground model_
 
 ![Max 4 holes reachable from snow shelter entrance with the following setup. Example located in the Milton Basin across the shore from hermits cabin.](../assets/Fishing_Tip-Up_Snow_Shelter.png)
 

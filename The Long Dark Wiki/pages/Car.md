@@ -2,7 +2,7 @@
 
 **Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car)
 
-![](../assets/Car_red.jpg)
+![Car red](../assets/Car_red.jpg)
 
 **Cars** are small 4-door [vehicles](./Vehicle.md) found abandoned by the road in the savage Canadian wilderness. Cars are not the best place to set up a base, but they do provide protection from the wind and predators. It is possible but risky to [sleep](./Sleep.md) in a car by choosing the bedroll icon (even without a [Bedroll](./Bedroll.md) in your inventory) from the radial menu. A car's lights will flicker and its radio will have power during an aurora.
 
@@ -17,8 +17,6 @@ Entering a car will add a windproof protection as well as a bonus ambient temper
 ## Gallery
 
 ![A car with its hood open. old version](../assets/Car_hood_open.jpg)
-
-_A car with its hood open. old version_
 
 ## Trivia
 

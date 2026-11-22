@@ -54,8 +54,6 @@ Most of the railway line lies in ruins and is entirely unfit for even a basic pu
 
 ![A train engine bearing the Trans-Island Line logo.](../assets/Trans-Island_Line_Engine.jpg)
 
-_A train engine bearing the Trans-Island Line logo._
-
 ### Zone of Contamination
 
 The rail line begins in the local [Langston Mine](./Langston%20Mine.md) complex, starting at a train station near [Indolent Hoppers](./Indolent%20Hoppers.md) and heading towards Lower Great Bear. Several spilled chemicals and landslides make navigating the tracks hazardous in this region.
@@ -92,8 +90,4 @@ Coastal highway features the terminus of the railway line and is the smallest po
 
 ![The railroad in Lower Great Bear](../assets/Lower_Great_Bear_Map_2024.png)
 
-_The railroad in Lower Great Bear_
-
 ![The railroad in the Far Territory](../assets/Far_Territory_Part_5_Map.jpg)
-
-_The railroad in the Far Territory_

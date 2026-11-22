@@ -4,15 +4,11 @@
 
 **Abandoned Camp**
 
-![](../assets/Abandoned_camp.jpg)
-
-_abandoned\_camp.jpg_
+![Abandoned camp](../assets/Abandoned_camp.jpg)
 
 **Location**
 
-![](../assets/Abandoned_Camp_Location.png)
-
-_Abandoned\_Camp\_Location.png_
+![Abandoned Camp Location](../assets/Abandoned_Camp_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -33,32 +29,20 @@ The four possible spawn locations for the snow shelter are:
 
 ![North-east of Low Blind 01](../assets/North-east_of_Low_Blind_01.jpg)
 
-_North-east of Low Blind 01_
-
 ![North-east of Low Blind 02](../assets/North-east_of_Low_Blind_02c.jpg)
-
-_North-east of Low Blind 02_
 
 ![North-west of Low Blind 01](../assets/North-west_of_Low_Blind_01.jpg)
 
-_North-west of Low Blind 01_
-
 ![North-east of High Blind 01](../assets/North-east_of_High_Blind_01.jpg)
-
-_North-east of High Blind 01_
 
 ![North-east of High Blind 02](../assets/North-east_of_High_Blind_02.jpg)
 
-_North-east of High Blind 02_
-
 ![South-east of High Blind 01](../assets/South-east_of_High_Blind_01.jpg)
-
-_South-east of High Blind 01_
 
 North-east of [Low Blind](./Low%20Blind.md)
 
-![](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_Map_View.jpg)
+![Forlorn Muskeg Abandoned Camp Map View](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_Map_View.jpg)
 
-![](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_In_game_View.jpg)
+![Forlorn Muskeg Abandoned Camp In game View](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_In_game_View.jpg)
 
-![](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_In_game_View2.jpg)
+![Forlorn Muskeg Abandoned Camp In game View2](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_In_game_View2.jpg)

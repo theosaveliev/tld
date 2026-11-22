@@ -4,15 +4,13 @@
 
 **Coastal Townsite**
 
-\[\[File: / ![](../assets/Coastal_townsite_2.jpg) / _Coastal\_townsite\_2.jpg_
+![Coastal townsite 2](../assets/Coastal_townsite_2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Coastal_Townsite.png)
-
-_Coastal\_Townsite.png_
+![Coastal Townsite](../assets/Coastal_Townsite.png)
 
 Region
 
@@ -26,13 +24,9 @@ Type
 
 Residential
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -48,14 +42,8 @@ In addition to a relatively large number of wolves often patrolling the area, a 
 
 ## Gallery
 
-![](../assets/Coastal_townsite_1.jpg)
+![Coastal townsite 1](../assets/Coastal_townsite_1.jpg)
 
-_Coastal\_townsite\_1.jpg_
+![Coastal townsite 3](../assets/Coastal_townsite_3.jpg)
 
-![](../assets/Coastal_townsite_3.jpg)
-
-_Coastal\_townsite\_3.jpg_
-
-![](../assets/Coastal_townsite_4.jpg)
-
-_Coastal\_townsite\_4.jpg_
+![Coastal townsite 4](../assets/Coastal_townsite_4.jpg)

@@ -15,9 +15,7 @@
 
 **Forge**
 
-![](../assets/Forge.png)
-
-_Forge.png_
+![Forge](../assets/Forge.png)
 
 **Release:** 18 September 2015
 
@@ -56,41 +54,13 @@ All crafting in the Forge requires a [Heavy Hammer](./Heavy%20Hammer.md) in your
 
 The specific items that can be crafted, and their respective requirements, can be found below.
 
-Item
-
-Materials Required
-
-Time Required
-
-2x ![](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md)
-
-1x ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
-
-1 Hour
-
-\|![](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute Ep2 Only)
-
-2x ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
-
-1 Hour 30 Min
-
-![](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
-
-3x ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
-
-3 Hours
-
-![](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
-
-1x ![](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md)
-
-3 Hours 40 Min
-
-![](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
-
-5x ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
-
-4 Hours
+| Item | Materials Required | Time Required |
+| --- | --- | --- |
+| 2x ![Arrowhead icon](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) | 1x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour |
+| \|![Spear Head icon](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute Ep2 Only) | 2x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour 30 Min |
+| ![Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 3x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 3 Hours |
+| ![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 1x ![Cougar Claw icon](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Cured Leather icon](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 3 Hours 40 Min |
+| ![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 5x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 4 Hours |
 
 ## Tips
 
@@ -109,19 +79,13 @@ _The old forging interface_
 
 ![the Forge located above the Furnace](../assets/D73d44c0ba48.png)
 
-_the Forge located above the Furnace_
-
 ![the furnace in the Riken](../assets/The_Riken_-_furnace_room.jpg)
-
-_the furnace in the Riken_
 
 ![The forging icon found in the Survival Menu](../assets/Forge_icon.png)
 
 _The forging icon found in the [Survival Menu](./Survival%20Menu.md)_
 
 ![Old Spence Family Homestead Forge in Forlorn Muskeg](../assets/Old_Spence_Family_Homestead_Forge_in_Forlorn_Muskeg_%28Compressed%29.jpg)
-
-_Old Spence Family Homestead Forge in Forlorn Muskeg_
 
 ## Update history
 

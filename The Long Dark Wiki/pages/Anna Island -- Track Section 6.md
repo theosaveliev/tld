@@ -12,13 +12,11 @@
 - [Maps](#maps)
 - [Locations](#locations-1)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Anna Island -- Track Section 6** / ![](../assets/Anna_Island_Track_Section_6.jpg) / _Anna\_Island\_Track\_Section\_6.jpg_ / **Location on [Cauldron Island](./Cauldron%20Island.md)** / ![](../assets/No_picture.png) / _No\_picture.png_ / ![](../assets/Anna_Island_Track_Section_6_Map.png) / _Anna\_Island\_Track\_Section\_6\_Map.png_ / **Details** / **Connecting Regions:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / **Interloper Region Spawn:** No / **Date Added:** October 27 2026 / **Anna Island -- Track Section 6** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
+<br>**Anna Island -- Track Section 6**<br>![Anna Island Track Section 6](../assets/Anna_Island_Track_Section_6.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 6 Map](../assets/Anna_Island_Track_Section_6_Map.png)<br>**Details**<br>**Connecting Regions:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 6** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 
@@ -57,28 +55,14 @@ There is a single bed, [Pot Belly Stove](./Pot%20Belly%20Stove.md), and [Bed](./
 
 ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg)
 
-_The Train Shelter upon first approach_
-
 ![The Train Shelter](../assets/Train_Shelter.jpg)
-
-_The Train Shelter_
 
 ![Finding the Prototype Train in the Shelter](../assets/Prototype_Train.jpg)
 
-_Finding the Prototype Train in the Shelter_
-
 ![The small house inside the Train Shelter](../assets/Train_Shelter_Bed.jpg)
-
-_The small house inside the Train Shelter_
 
 ![Train Shelter interior](../assets/Train_Shelter_Interior.jpg)
 
-_Train Shelter interior_
-
 ![The Trestle leading out of the region.](../assets/Track_Section_6_Trestle.jpg)
 
-_The Trestle leading out of the region._
-
 ![The tunnel leading out of the region as observed in the Track Section 5 region](../assets/Track_Section_6_Tunnel.jpg)
-
-_The tunnel leading out of the region as observed in the Track Section 5 region_

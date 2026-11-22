@@ -4,9 +4,7 @@
 
 **Cured Cougar Hide**
 
-![](../assets/Cured_Cougar_Hide_icon.png)
-
-_Cured\_Cougar\_Hide\_icon.png_
+![Cured Cougar Hide icon](../assets/Cured_Cougar_Hide_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -28,11 +26,9 @@ _Cured\_Cougar\_Hide\_icon.png_
 
 **Item key:** GAMEPLAY\_CougarHideDried
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Cured Cougar Hide** is a [Material](./Materials.md) that can be crafted into a [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md).
 
@@ -43,8 +39,6 @@ A **Cured Cougar Hide** is a [Material](./Materials.md) that can be crafted into
 | [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
 
 ![Old Icon](../assets/Old_Cured_Cougar_Hide_icon.png)
-
-_Old Icon_
 
 ## Update history
 

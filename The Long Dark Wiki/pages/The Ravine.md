@@ -15,25 +15,19 @@
 
 **Raven Falls Railway Line**
 
-![](../assets/RegionAtlas-resources.assets-562_%281%29.png)
-
-_RegionAtlas-resources.assets-562\_(1).png_
+![RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/The_Ravine_Location.png)
+![The Ravine Location](../assets/The_Ravine_Location.png)
 
-_The\_Ravine\_Location.png_
-
-![](../assets/The_Ravine_map.png)
-
-_The\_Ravine\_map.png_
+![The Ravine map](../assets/The_Ravine_map.png)
 
 **Details**
 
 **Description:** A small valley containing a railway trestle passing through the mountains.
 
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md)
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md),<br>[Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Difficulty:** Beginner
 
@@ -92,40 +86,22 @@ At the Ravine Basin inside a rail-car is a [distress pistol case](./Distress%20P
 
 ![A detailed map of Ravine v2.35](../assets/Ravine_map.png)
 
-_A detailed map of Ravine v2.35_
-
 ![A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)](../assets/Ravine_map_loper.png)
-
-_A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)_
 
 ## Outdated Gallery
 
 ![Map of Ravine v1.83](../assets/Map-RV-spoil-Fixv167.png)
 
-_Map of Ravine v1.83_
-
 ![Several rail carriages derailed from their tracks.](../assets/The_Ravine_-_rail_carriages.jpg)
-
-_Several rail carriages derailed from their tracks._
 
 ![A fallen tree trunk serves as a makeshift bridge.](../assets/The_Ravine_-_crossing.jpg)
 
-_A fallen tree trunk serves as a makeshift bridge._
-
 ![Several rail carriages and their cargo lost at the bottom of the ravine. old version](../assets/The_Ravine_-_fallen_rail_carriages.jpg)
-
-_Several rail carriages and their cargo lost at the bottom of the ravine. old version_
 
 ![A short train bridge runs over the ravine.](../assets/The_Ravine_-_train_bridge.jpg)
 
-_A short train bridge runs over the ravine._
-
 ![The long, rickety train bridge in dire need of maintenance.](../assets/The_Ravine_-_long_train_bridge.jpg)
 
-_The long, rickety train bridge in dire need of maintenance._
-
 ![Train tunnel at The Ravine.](../assets/The_Ravine_-_tunnel.jpg)
-
-_Train tunnel at The Ravine._
 
 © Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts

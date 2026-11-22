@@ -15,19 +15,13 @@
 
 **Blackrock**
 
-![](../assets/Blackrock_Region.jpg)
-
-_Blackrock\_Region.jpg_
+![Blackrock Region](../assets/Blackrock_Region.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Blackrock_Location.png)
+![Blackrock Location](../assets/Blackrock_Location.png)
 
-_Blackrock\_Location.png_
-
-![](../assets/Map-EP4-L0.jpg)
-
-_Map-EP4-L0.jpg_
+![Map EP4 L0](../assets/Map-EP4-L0.jpg)
 
 **Details**
 
@@ -107,22 +101,12 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) that is found near Mule Br
 
 ![A night view from garden to Blackrock Prison](../assets/Blackcrock_Prison_.png)
 
-_A night view from garden to Blackrock Prison_
-
 ## Maps
 
 ![A detailed map of Blackrock v2.35 (spoilers)](../assets/Blackrock_.jpg)
 
-_A detailed map of Blackrock v2.35 (spoilers)_
-
 ![Map of Blackrock v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Map_of_Blackrock_v2.35_Interloper-Misery.jpg)
-
-_Map of Blackrock v2.35 (Interloper/Misery edition, includes spoilers)_
 
 ![A map of Blackrock Prison and interiors (Survival mode, v1.99)](../assets/Blackrock_Prison_map.png)
 
-_A map of Blackrock Prison and interiors (Survival mode, v1.99)_
-
-![](../assets/Blackrock_map.png)
-
-_Blackrock\_map.png_
+![Blackrock map](../assets/Blackrock_map.png)

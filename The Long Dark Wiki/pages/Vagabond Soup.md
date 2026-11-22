@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Vagabond_Soup)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Vagabond Soup** / ![](../assets/Vagabond_Soup_icon.png) / _Vagabond\_Soup\_icon.png_ / **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.36) / **Wintermute:** No / **Renewable:** Yes / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** No / **Examine:** A humble soup made of Salt, Broth, and fresh Rabbit. Fortifies Condition, if salty. Originated in the community of people known to hop trains along the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), who would harvest the many Rabbits that lived alongside the tracks. / **Values** / **Calories:** 550 kcal / **Hydration:** 6% / **Weight:** 0.35 kg (0.77 lbs) / **Decay Rate** / **Inside:** 20.000% per day / **Outside:** 5.000% per day / **Vagabond Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
+<br>**Vagabond Soup**<br>![Vagabond Soup icon](../assets/Vagabond_Soup_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.36)<br>**Wintermute:** No<br>**Renewable:** Yes<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** A humble soup made of Salt, Broth, and fresh Rabbit. Fortifies Condition, if salty. Originated in the community of people known to hop trains along the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), who would harvest the many Rabbits that lived alongside the tracks.<br>**Values**<br>**Calories:** 550 kcal<br>**Hydration:** 6%<br>**Weight:** 0.35 kg (0.77 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Vagabond Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
 ## Overview
 

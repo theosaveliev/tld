@@ -4,15 +4,11 @@
 
 **Chasm Cave**
 
-![](../assets/Chasm_Cave.jpg)
-
-_Chasm\_Cave.jpg_
+![Chasm Cave](../assets/Chasm_Cave.jpg)
 
 **Location**
 
-![](../assets/Chasm_Cave_Location.png)
-
-_Chasm\_Cave\_Location.png_
+![Chasm Cave Location](../assets/Chasm_Cave_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -33,5 +29,3 @@ The laptop can, during an [Aurora,](./Aurora.md) be used to gather one of the [B
 _Entrance. In the background is the [engine](./Engine%20%28East%29.md)_
 
 ![The corpse with a laptop](../assets/Cave_laptop.jpg)
-
-_The corpse with a laptop_

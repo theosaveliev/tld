@@ -11,9 +11,7 @@
 
 **Hockey Jersey**
 
-![](../assets/Hockey_Jersey_icon.png)
-
-_Hockey\_Jersey\_icon.png_
+![Hockey Jersey icon](../assets/Hockey_Jersey_icon.png)
 
 **General**
 
@@ -23,29 +21,27 @@ _Hockey\_Jersey\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)15%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)15%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>60 minutes<br>40% condition
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / > “**A warm sweater for days on the ice. Or anywhere cold.**” / > / > — In-game description / A **Hockey Jersey** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
+<br>> “**A warm sweater for days on the ice. Or anywhere cold.**”<br>><br>> — In-game description<br>A **Hockey Jersey** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
 ## Overview
 
@@ -72,32 +68,16 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 ![Clothing model icon](../assets/Hockey_Jersey_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon](../assets/Hockey_Jersey_Model_Damaged_icon.png)
-
-_Clothing model icon_
 
 ![The Hockey Jersey, on the ground and folded up.](../assets/Hockey_Jersey_Folded.jpg)
 
-_The Hockey Jersey, on the ground and folded up._
-
 ![The front of a Hockey Jersey at 100% condition.](../assets/HockeyJerseyFront.jpg)
-
-_The front of a Hockey Jersey at 100% condition._
 
 ![The back of a Hockey Jersey at 100% condition.](../assets/HockeyJerseyBack.jpg)
 
-_The back of a Hockey Jersey at 100% condition._
-
 ![How the Hockey Jersey looks when worn on the Male paper doll model.](../assets/HockeyJerseyDoll.jpg)
-
-_How the Hockey Jersey looks when worn on the Male paper doll model._
 
 ![A view of the full model for the player's arms when wearing a Hockey Jersey, from a third person perspective.](../assets/HockeyJerseyeExterior.jpg)
 
-_A view of the full model for the player's arms when wearing a Hockey Jersey, from a third person perspective._
-
 ![The Hockey Jersey from the regular first person perspective, holding a Stone in hand.](../assets/HockeyJerseyFP_Rock.jpg)
-
-_The Hockey Jersey from the regular first person perspective, holding a Stone in hand._

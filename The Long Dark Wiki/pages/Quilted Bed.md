@@ -4,9 +4,7 @@
 
 **Quilted Bed**
 
-![](../assets/Quilted_Bed_icon.png)
-
-_Quilted\_Bed\_icon.png_
+![Quilted Bed icon](../assets/Quilted_Bed_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

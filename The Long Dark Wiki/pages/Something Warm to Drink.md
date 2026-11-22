@@ -4,9 +4,7 @@
 
 **Something Warm to Drink**
 
-![](../assets/Something_Warm_to_Drink_icon.png)
-
-_Something\_Warm\_to\_Drink\_icon.png_
+![Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png)
 
 **Description:** Collect 7 Insulated Flask Variants (single game)
 
@@ -22,28 +20,14 @@ Collecting all 7 at least once on one save file unlocks the achievement.
 
 ![Orange](../assets/Insulated_Flask_%28orange%29_icon.png)
 
-_Orange_
-
 ![Purple](../assets/Insulated_Flask_%28purple%29_icon.png)
-
-_Purple_
 
 ![Red Plaid](../assets/Insulated_Flask_%28red_plaid%29_icon.png)
 
-_Red Plaid_
-
 ![Yellow Plaid](../assets/Insulated_Flask_%28yellow_plaid%29_icon.png)
-
-_Yellow Plaid_
 
 ![Sunburst](../assets/Insulated_Flask_%28sunburst%29_icon.png)
 
-_Sunburst_
-
 ![Jackrabbit](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png)
 
-_Jackrabbit_
-
 ![Sticker](../assets/Insulated_Flask_G.png)
-
-_Sticker_

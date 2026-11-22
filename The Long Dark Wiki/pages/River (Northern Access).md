@@ -4,15 +4,11 @@
 
 **River (Northern Access)**
 
-![](../assets/River_Northern_Access.jpg)
-
-_River\_Northern\_Access.jpg_
+![River Northern Access](../assets/River_Northern_Access.jpg)
 
 **Location**
 
-![](../assets/River_%28Northern_Access%29_Location.png)
-
-_River\_(Northern\_Access)\_Location.png_
+![River (Northern Access) Location](../assets/River_%28Northern_Access%29_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

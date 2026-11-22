@@ -4,19 +4,15 @@
 
 **Boss's Settlement**
 
-![](../assets/Boss%27s_Settlement.jpg)
-
-_Boss's\_Settlement.jpg_
+![Boss's Settlement](../assets/Boss%27s_Settlement.jpg)
 
 **Location**
 
-![](../assets/Boss%27s_Settlement_Location.png)
-
-_Boss's\_Settlement\_Location.png_
+![Boss's Settlement Location](../assets/Boss%27s_Settlement_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
-Has no shelter / **Boss's Encampment** is a ruined series of buildings high in the mountains near [Idle Camp](./Idle%20Camp.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
+Has no shelter<br>**Boss's Encampment** is a ruined series of buildings high in the mountains near [Idle Camp](./Idle%20Camp.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
 ## Overview
 

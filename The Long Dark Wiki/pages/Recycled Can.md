@@ -12,9 +12,7 @@
 
 **Recycled Can**
 
-![](../assets/Recycled_Can_icon.png)
-
-_Recycled\_Can\_icon.png_
+![Recycled Can icon](../assets/Recycled_Can_icon.png)
 
 **Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)
 
@@ -56,13 +54,13 @@ A Recycled Can will degrade by **10%** if its contents are burned or boiled dry.
 
 The following items produced a Recycled Can once the contents are consumed and the can is not smashed opened.
 
-- ![](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
-- ![](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
-- ![](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
-- ![](../assets/Dog_Food_icon.png) [Dog Food](./Dog%20Food.md)
-- ![](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
-- ![](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
-- ![](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
+- ![Canned Corn icon](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
+- ![Canned Pineapple icon](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
+- ![Condensed Milk icon](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
+- ![Dog Food icon](../assets/Dog_Food_icon.png) [Dog Food](./Dog%20Food.md)
+- ![Pinnacle Peaches icon](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
+- ![Pork and Beans icon](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
+- ![Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
 
 A [Can](./Can.md) can also be harvested for a Recycled Can.
 

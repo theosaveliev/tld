@@ -4,9 +4,7 @@
 
 **No Half-Measures**
 
-![](../assets/No_Half-Measures_icon.png)
-
-_No\_Half-Measures\_icon.png_
+![No Half Measures icon](../assets/No_Half-Measures_icon.png)
 
 **Description:** Uncover the latest Forest Talker Plans.
 

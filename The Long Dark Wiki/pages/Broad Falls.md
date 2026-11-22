@@ -4,15 +4,11 @@
 
 **Broad Falls**
 
-![](../assets/BroadFallsCloseup_1080p.png)
-
-_BroadFallsCloseup\_1080p.png_
+![BroadFallsCloseup 1080p](../assets/BroadFallsCloseup_1080p.png)
 
 **Location**
 
-![](../assets/Broad_Falls_Location.png)
-
-_Broad\_Falls\_Location.png_
+![Broad Falls Location](../assets/Broad_Falls_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -25,5 +21,3 @@ _Broad\_Falls\_Location.png_
 _Broad Falls as seen from [Angler's Den](./Angler%27s%20Den.md) at nightfall_
 
 ![The path leading behind the falls.](../assets/PathBehindBroadFalls.png)
-
-_The path leading behind the falls._

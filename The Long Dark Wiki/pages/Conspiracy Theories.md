@@ -4,9 +4,7 @@
 
 **Conspiracy Theories**
 
-![](../assets/Conspiracy_Theories_icon.png)
-
-_Conspiracy\_Theories\_icon.png_
+![Conspiracy Theories icon](../assets/Conspiracy_Theories_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

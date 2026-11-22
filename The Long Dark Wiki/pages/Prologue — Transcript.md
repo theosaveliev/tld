@@ -4,9 +4,7 @@
 
 **Prologue/Transcript**
 
-![](../assets/Prologue.png)
-
-_Prologue.png_
+![Prologue](../assets/Prologue.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jeremiah](./Jeremiah.md) (Opening cutscene)<br>[Hobbs](./Hobbs.md) (Opening cutscene)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene)
 
 This is the mission transcript for the opening [Prologue](./Prologue.md) of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

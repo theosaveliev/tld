@@ -4,15 +4,13 @@
 
 **Bear Creek Campground**
 
-\[\[File: / ![](../assets/Bear_Creek_Campground_01.jpg) / _Bear\_Creek\_Campground\_01.jpg_
+![Bear Creek Campground 01](../assets/Bear_Creek_Campground_01.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Bear_Creek_Campground_map.png)
-
-_Bear\_Creek\_Campground\_map.png_
+![Bear Creek Campground map](../assets/Bear_Creek_Campground_map.png)
 
 Region
 
@@ -32,12 +30,6 @@ There is a small cabin on a hill nearby, but otherwise, there is no real shelter
 
 ![An alternative view of Bear Creek Campground.](../assets/Bear_Creek_Campground_02.jpg)
 
-_An alternative view of Bear Creek Campground._
-
 ![Another view of the campground.](../assets/Bear_Creek_Campground_03.jpg)
 
-_Another view of the campground._
-
-![](../assets/TLD-SS-CH-Bear_Creek_Campground.jpg)
-
-_TLD-SS-CH-Bear\_Creek\_Campground.jpg_
+![TLD SS CH Bear Creek Campground](../assets/TLD-SS-CH-Bear_Creek_Campground.jpg)

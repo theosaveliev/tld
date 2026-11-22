@@ -4,9 +4,7 @@
 
 **Aftermath**
 
-![](../assets/Missions_story_ep3_Aftermath.png)
-
-_Missions\_story\_ep3\_Aftermath.png_
+![Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
@@ -18,7 +16,7 @@ _Missions\_story\_ep3\_Aftermath.png_
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo)
+**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man)<br>[Will Mackenzie](./Will%20Mackenzie.md)<br>[Father Thomas](./Father%20Thomas.md) (ending cameo)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -40,11 +38,7 @@ _Missions\_story\_ep3\_Aftermath.png_
 
 ![Abandoned mine (EP3 - Start)](../assets/Map-CinderHillsCoalMine-SV.png)
 
-_Abandoned mine (EP3 - Start)_
-
 ![Abandoned Mine (Episode.3 - Finish)](../assets/Map-AuroraMine-EP3-.png)
-
-_Abandoned Mine (Episode.3 - Finish)_
 
 ## Walkthrough
 

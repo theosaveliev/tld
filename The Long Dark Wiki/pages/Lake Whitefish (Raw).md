@@ -4,7 +4,7 @@
 
 **Lake Whitefish (Raw)**
 
-\[\[File: / ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / _Opened_
+![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png)<br>![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png)
 
 250px\]\]
 
@@ -62,8 +62,6 @@ Cooking whitefish improves the [cooking skill](./Skills.md#Cooking).
 | [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) |
 
 ![Old model](../assets/Lake_whitefish_%28raw%29.png)
-
-_Old model_
 
 ## Update history
 

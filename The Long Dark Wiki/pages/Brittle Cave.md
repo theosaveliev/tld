@@ -4,15 +4,11 @@
 
 **Brittle Cave**
 
-![](../assets/Brittle_Cave_Outside.png)
-
-_Brittle\_Cave\_Outside.png_
+![Brittle Cave Outside](../assets/Brittle_Cave_Outside.png)
 
 **Location**
 
-![](../assets/Brittle_Cave_Location.png)
-
-_Brittle\_Cave\_Location.png_
+![Brittle Cave Location](../assets/Brittle_Cave_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -22,7 +18,7 @@ _Brittle\_Cave\_Location.png_
 
 **Type:** Cave
 
-Provides some shelter / **Brittle Cave** is a cave found in [Forsaken Airfield](./Forsaken%20Airfield.md) in the north eastern most section of the map.
+Provides some shelter<br>**Brittle Cave** is a cave found in [Forsaken Airfield](./Forsaken%20Airfield.md) in the north eastern most section of the map.
 
 ## Overview
 

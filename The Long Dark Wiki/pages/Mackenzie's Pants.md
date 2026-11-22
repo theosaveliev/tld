@@ -12,7 +12,7 @@
 
 **Mackenzie's Pants**
 
-\[\[File: / ![After Crash](../assets/Mackenzie%27s_Pants_icon.png) / _After Crash_ / ![Before Crash](../assets/Mackenzie%27s_Pants_Before_Crash_icon.png) / _Before Crash_
+![After Crash](../assets/Mackenzie%27s_Pants_icon.png)<br>![Before Crash](../assets/Mackenzie%27s_Pants_Before_Crash_icon.png)
 
 250px\]\]
 
@@ -26,29 +26,27 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-1%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
 
-![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
-**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
- / > “**The pants you were wearing when you crashed in your plane.**” / > / > — Post Crash In-game description / > “**Comfortable pants, for a bush pilot.**” / > / > — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar / **Mackenzie's Pants** are a [Clothing](./Clothing.md) item worn on the player's inner legs obtained exclusively in [Wintermute](./Wintermute.md).
+<br>> “**The pants you were wearing when you crashed in your plane.**”<br>><br>> — Post Crash In-game description<br>> “**Comfortable pants, for a bush pilot.**”<br>><br>> — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar<br>**Mackenzie's Pants** are a [Clothing](./Clothing.md) item worn on the player's inner legs obtained exclusively in [Wintermute](./Wintermute.md).
 
 ## Overview
 
@@ -74,19 +72,11 @@ Mackenzie's Pants are still worn when playing [Episode 4: Fury, Then Silence](./
 
 ![Old icon](../assets/Mackenzie%27s_Pants_Old_icon.png)
 
-_Old icon_
-
 ![Pre crash model](../assets/Mackenzie%27s_Pants_Pre_Crash_Model_icon.png)
-
-_Pre crash model_
 
 ![Post Crash model](../assets/Mackenzie%27s_Pants_Model_icon.png)
 
-_Post Crash model_
-
 ![Post Crash model damaged](../assets/Mackenzie%27s_Pants_Post_Crash_Model_Damaged_icon.png)
-
-_Post Crash model damaged_
 
 ## Update history
 

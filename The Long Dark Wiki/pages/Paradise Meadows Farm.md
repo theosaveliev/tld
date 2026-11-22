@@ -19,15 +19,13 @@
 
 **Paradise Meadows Farm**
 
-\[\[File: / ![Overview](../assets/Paradise_meadows_farm.jpg) / _Overview_ / ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / _Barn_ / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / _Farmhouse_ / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / _Interior_
+![Overview](../assets/Paradise_meadows_farm.jpg)<br>![Barn](../assets/Paradise_meadows_farm_barn.jpg)<br>![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg)<br>![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Paradise_Meadows_Farm_Location.png)
-
-_Paradise\_Meadows\_Farm\_Location.png_
+![Paradise Meadows Farm Location](../assets/Paradise_Meadows_Farm_Location.png)
 
 Region
 
@@ -45,15 +43,11 @@ Residential
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -117,28 +111,14 @@ On all experience levels, the farmhouse offers decent loot (by the standards of 
 
 ![An overview of the property](../assets/Paradise_meadows_farm.jpg)
 
-_An overview of the property_
-
 ![The barn exterior](../assets/Paradise_meadows_farm_barn.jpg)
-
-_The barn exterior_
 
 ![The barn interior](../assets/Paradise_meadows_farm_barn_interior.jpg)
 
-_The barn interior_
-
 ![The farmhouse exterior](../assets/Paradise_meadows_farmhouse.jpg)
-
-_The farmhouse exterior_
 
 ![The main farmhouse room](../assets/Paradise_meadows_farmhouse_interior.jpg)
 
-_The main farmhouse room_
-
 ![An office in the farmhouse](../assets/Paradise_meadows_farmhouse_office.jpg)
 
-_An office in the farmhouse_
-
 ![The bedroom](../assets/Paradise_meadows_farmhouse_bedroom.jpg)
-
-_The bedroom_

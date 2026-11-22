@@ -13,9 +13,7 @@
 
 **Old Man's Beard Wound Dressing**
 
-![](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png)
-
-_Old\_Man's\_Beard\_Wound\_Dressing\_icon.png_
+![Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 
@@ -82,8 +80,6 @@ Before release of "Faithful Cartographer" the recipe was:
 ## Gallery
 
 ![Old model.](../assets/Old_mans_beard_wound_dressing.png)
-
-_Old model._
 
 ## Update history
 

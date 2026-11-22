@@ -11,15 +11,11 @@
 
 **Old Substation**
 
-![](../assets/Old_Substation.jpg)
-
-_Old\_Substation.jpg_
+![Old Substation](../assets/Old_Substation.jpg)
 
 **Location**
 
-![](../assets/Old_Substation_Location.png)
-
-_Old\_Substation\_Location.png_
+![Old Substation Location](../assets/Old_Substation_Location.png)
 
 Region
 
@@ -29,15 +25,11 @@ Region
 
 **Type:** Industrial
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -55,23 +47,13 @@ The interior layout is very similar to the Radio Control Hut at [Signal Hill](./
 
 ![Old Substation perimeter fence](../assets/Old_Substation.jpg)
 
-_Old Substation perimeter fence_
-
 ![Old Substation from the main road, looking northwest](../assets/Old_Substation_road.jpg)
-
-_Old Substation from the main road, looking northwest_
 
 ![Old Substation from the access road, looking southwest](../assets/Old_Substation_access.jpg)
 
-_Old Substation from the access road, looking southwest_
-
 ![Old Substation overview, looking west](../assets/Old_Substation_closeup.jpg)
 
-_Old Substation overview, looking west_
-
 ![Old Substation interior](../assets/Old_Substation_interior.jpg)
-
-_Old Substation interior_
 
 ## References
 

@@ -4,15 +4,11 @@
 
 **Broken Bridge**
 
-![](../assets/Broken_bridge3.jpg)
-
-_broken\_bridge3.jpg_
+![Broken bridge3](../assets/Broken_bridge3.jpg)
 
 **Location**
 
-![](../assets/Broken_Bridge_Location_%28Railroad%29.png)
-
-_Broken\_Bridge\_Location\_(Railroad).png_
+![Broken Bridge Location (Railroad)](../assets/Broken_Bridge_Location_%28Railroad%29.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -37,16 +33,8 @@ A ravine lies below the bridge with a [Mementos](./Mementos.md) pointing to it. 
 
 ![The gap in the bridge](../assets/Broken_bridge2.jpg)
 
-_The gap in the bridge_
-
 ![ditto](../assets/Broken_bridge1.jpg)
-
-_ditto_
 
 ![The railcar and utility truck near the bridge](../assets/Broken_bridge_trolley.jpg)
 
-_The railcar and utility truck near the bridge_
-
 ![The bridge as seen from the bottom of the ravine](../assets/Broken_bridge_from_below.jpg)
-
-_The bridge as seen from the bottom of the ravine_

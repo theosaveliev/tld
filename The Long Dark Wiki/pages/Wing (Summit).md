@@ -4,15 +4,11 @@
 
 **Wing (Summit)**
 
-![](../assets/Wing_%28Summit%29.jpg)
-
-_Wing\_(Summit).jpg_
+![Wing (Summit)](../assets/Wing_%28Summit%29.jpg)
 
 **Location**
 
-![](../assets/Wing_%28Summit%29_Location.png)
-
-_Wing\_(Summit)\_Location.png_
+![Wing (Summit) Location](../assets/Wing_%28Summit%29_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

@@ -4,9 +4,7 @@
 
 **Water Tower**
 
-![](../assets/Water_Tower_Resized.png)
-
-_Water\_Tower\_Resized.png_
+![Water Tower Resized](../assets/Water_Tower_Resized.png)
 
 **General**
 
@@ -16,13 +14,11 @@ _Water\_Tower\_Resized.png_
 
 **Renewable:** yes
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / A **Water Tower** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in railyards on [Cauldron Island](./Cauldron%20Island.md).
+<br>A **Water Tower** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in railyards on [Cauldron Island](./Cauldron%20Island.md).
 
 ## Overview
 
@@ -32,11 +28,7 @@ The player can then exit the train and walk over to the yellow lever on the side
 
 ![The sign panel displaying that the train is not in position for refueling.](../assets/Refueling_Panel.jpg)
 
-_The sign panel displaying that the train is not in position for refueling._
-
 ![The panel flipped to green, signaling that refueling is possible.](../assets/Refueling_Panel_Green.jpg)
-
-_The panel flipped to green, signaling that refueling is possible._
 
 Water is transferred into the train at a rate of 5.00 liters per minute (20.00 min cap at 5 minutes per increment), meaning that a fully empty locomotive can be refilled with 600.00 L of water in 2 hours. Make sure to turn the train Engine off while refueling, as this can burn already stored water and not fully refuel the train.
 

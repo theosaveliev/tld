@@ -4,9 +4,7 @@
 
 **Metal Pot**
 
-![](../assets/Metal_Pot.jpg)
-
-_Metal\_Pot.jpg_
+![Metal Pot](../assets/Metal_Pot.jpg)
 
 **General**
 
@@ -23,5 +21,3 @@ A **Metal Pot** was an interactable object that could be harvested for [Scrap Me
 | Metal Pot | 1 | 15 minutes | 31 | -5% |
 
 ![A Metal Pan and Metal Pot together](../assets/PVPumpkin.jpg)
-
-_A Metal Pan and Metal Pot together_

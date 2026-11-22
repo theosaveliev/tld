@@ -4,15 +4,11 @@
 
 **Skeeter's Ridge**
 
-![](../assets/Skeeters_ridge.jpg)
-
-_Skeeters\_ridge.jpg_
+![Skeeters ridge](../assets/Skeeters_ridge.jpg)
 
 **Location**
 
-![](../assets/Skeeter%27s_Ridge_Location.png)
-
-_Skeeter's\_Ridge\_Location.png_
+![Skeeter's Ridge Location](../assets/Skeeter%27s_Ridge_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -38,6 +34,4 @@ There is a [wolf](./Wolf.md) spawn point in the nearby forest. The player may en
 
 ## Gallery
 
-![](../assets/Skeeters_ridge_basement_door.jpg)
-
-_skeeters\_ridge\_basement\_door.jpg_
+![Skeeters ridge basement door](../assets/Skeeters_ridge_basement_door.jpg)

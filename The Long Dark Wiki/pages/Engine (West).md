@@ -4,15 +4,11 @@
 
 **Engine (West)**
 
-![](../assets/Engine.jpg)
-
-_Engine.jpg_
+![Engine](../assets/Engine.jpg)
 
 **Location**
 
-![](../assets/Engine_%28West%29_Location.png)
-
-_Engine\_(West)\_Location.png_
+![Engine (West) Location](../assets/Engine_%28West%29_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -32,8 +28,6 @@ Container near waterfall north of [cave](./Cave%20%28Timberwolf%20Mountain%20loc
 ### Gallery
 
 ![An alternate view](../assets/Engine2.jpg)
-
-_An alternate view_
 
 ![A view of the engine from Andre's Peak](../assets/Engine3.jpg)
 

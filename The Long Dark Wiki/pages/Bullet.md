@@ -14,9 +14,7 @@
 
 **Bullet**
 
-![](../assets/Bullet_icon.png)
-
-_bullet\_icon.png_
+![Bullet icon](../assets/Bullet_icon.png)
 
 **General**
 
@@ -26,7 +24,7 @@ _bullet\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
 > “**Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.**”
 >
@@ -84,11 +82,7 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 ![Cut Pistol 44 Mag Bullet](../assets/Revolver_44_Mag_Bullet_icon.png)
 
-_Cut Pistol 44 Mag Bullet_
-
 ![Cut Hunting Rifle Bullet](../assets/Rifle_Ammo_Single_Bullet_icon.png)
-
-_Cut Hunting Rifle Bullet_
 
 ## Update history
 

@@ -6,13 +6,9 @@
 
 ![A 'Climbing Area' signpost for the Picnic Area](../assets/Milton_Park_Picnic_Area.jpg)
 
-_A 'Climbing Area' signpost for the Picnic Area_
-
 **Location**
 
-![](../assets/Picnic_Area_Location.png)
-
-_Picnic\_Area\_Location.png_
+![Picnic Area Location](../assets/Picnic_Area_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -32,14 +28,8 @@ Park office is very close by, in between the benches and [Orca Gas Station](./Or
 
 ## Gallery
 
-![](../assets/Climbing_area_sign.png)
-
-_Climbing\_area\_sign.png_
+![Climbing area sign](../assets/Climbing_area_sign.png)
 
 ![Park Office is very close by, which can provide some shelter.](../assets/Picnic-MT-1.jpg)
 
-_Park Office is very close by, which can provide some shelter._
-
 ![Benches at the Picnic Area, next to a rope climb.](../assets/Picnic-MT-2.jpg)
-
-_Benches at the Picnic Area, next to a rope climb._

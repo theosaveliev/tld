@@ -4,37 +4,27 @@
 
 **Mirthless Fork**
 
-![](../assets/20211212180713_1.jpg)
-
-_20211212180713\_1.jpg_
+![20211212180713 1](../assets/20211212180713_1.jpg)
 
 **Location**
 
-![](../assets/Mirthless_Fork_Location.png)
-
-_Mirthless\_Fork\_Location.png_
+![Mirthless Fork Location](../assets/Mirthless_Fork_Location.png)
 
 **Region:** [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
 ## Gallery
 
-![](../assets/Trailerkeeper_1.jpg)
-
-_Trailerkeeper\_1.jpg_
+![Trailerkeeper 1](../assets/Trailerkeeper_1.jpg)
 
 ![The collapsed tunnel to Milton](../assets/20211212180931_1.jpg)
 

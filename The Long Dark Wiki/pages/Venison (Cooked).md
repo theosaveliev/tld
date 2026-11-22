@@ -14,9 +14,7 @@ _For the raw version, see [Venison (Raw)](./Venison%20%28Raw%29.md)._
 
 **Venison (Cooked)**
 
-![](../assets/Venison_%28Cooked%29_icon.png)
-
-_Venison\_(Cooked)\_icon.png_
+![Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -67,27 +65,15 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ![Fresh](../assets/Venison_%28Cooked%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Venison_%28Cooked%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Venison_%28Cooked%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Venison_%28Cooked%29_Rancid_icon.png)
-
-_Rancid_
 
 ![Ruined](../assets/Venison_%28Cooked%29_Ruined_icon.png)
 
-_Ruined_
-
 ![Old model](../assets/Venison_cooked.png)
-
-_Old model_
 
 ## Trivia
 

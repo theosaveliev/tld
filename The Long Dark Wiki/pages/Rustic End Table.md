@@ -4,9 +4,7 @@
 
 **Rustic End Table**
 
-![](../assets/Rustic_End_Table_icon.png)
-
-_Rustic\_End\_Table\_icon.png_
+![Rustic End Table icon](../assets/Rustic_End_Table_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

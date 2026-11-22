@@ -4,15 +4,11 @@
 
 **Maintenance Yard**
 
-![](../assets/Maintenance_yard_building.jpg)
-
-_maintenance\_yard\_building.jpg_
+![Maintenance yard building](../assets/Maintenance_yard_building.jpg)
 
 **Location**
 
-![](../assets/Maintenance_Yard_Location.png)
-
-_Maintenance\_Yard\_Location.png_
+![Maintenance Yard Location](../assets/Maintenance_Yard_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -22,15 +18,11 @@ _Maintenance\_Yard\_Location.png_
 
 **Type:** Industrial
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 
@@ -60,15 +52,9 @@ In Episode 2 of [Wintermute](./Wintermute.md), Will has to go to the Maintenance
 
 ![Inside the office](../assets/Inside_maintenance_yard.jpg)
 
-_Inside the office_
-
 ![The main room of the building](../assets/Inside_maintenance_yard2.jpg)
 
-_The main room of the building_
-
 ![An alternative view of the outside of the building](../assets/Maintenance_yard_building2.jpg)
-
-_An alternative view of the outside of the building_
 
 ![Scattered Breyerhouse utility trucks and debris in the yard](../assets/Maintenance_yard.jpg)
 
@@ -76,20 +62,10 @@ _Scattered [Breyerhouse](./Breyerhouse.md) utility trucks and debris in the yard
 
 ![The checkpoint booth](../assets/Maintenance_yard_gatehouse.jpg)
 
-_The checkpoint booth_
-
 ![The forge at the Maintenance Yard introduced with the REDUX upgrade](../assets/20181218175538_1.jpg)
-
-_The forge at the Maintenance Yard introduced with the REDUX upgrade_
 
 ![The graffiti in the office](../assets/They_Hate_The_Light_decal.png)
 
-_The graffiti in the office_
-
 ![ditto, old version](../assets/They_hate_the_light.png)
 
-_ditto, old version_
-
 ![Placing a plank on the raised platform allows reaching the hanging flag](../assets/Flag_MaintenanceYard.jpg)
-
-_Placing a plank on the raised platform allows reaching the hanging flag_

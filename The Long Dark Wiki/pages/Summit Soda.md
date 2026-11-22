@@ -11,9 +11,7 @@
 
 **Summit Soda**
 
-![](../assets/Summit_Soda_icon.png)
-
-_Summit\_Soda\_icon.png_
+![Summit Soda icon](../assets/Summit_Soda_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -61,8 +59,6 @@ Summit Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 ## Gallery
 
 ![old model](../assets/Summit_Soda.png)
-
-_old model_
 
 ## Update history
 

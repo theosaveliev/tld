@@ -4,7 +4,7 @@
 
 **Broken Metal Control Box**
 
-\[\[File: / ![Large](../assets/Broken_Metal_Control_Box.jpg) / _Large_ / ![Small](../assets/Broken_Metal_Control_Box_Small.jpg) / _Small_
+![Large](../assets/Broken_Metal_Control_Box.jpg)<br>![Small](../assets/Broken_Metal_Control_Box_Small.jpg)
 
 250px\]\]
 

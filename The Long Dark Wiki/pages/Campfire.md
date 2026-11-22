@@ -12,15 +12,13 @@
 
 **Campfire**
 
-![](../assets/Campfire_icon.png)
-
-_Campfire\_icon.png_
+![Campfire icon](../assets/Campfire_icon.png)
 
 **General**
 
 **Type:** Fire Starting
 
-**Max temperature:** 80 °C / _(144 °F)_
+**Max temperature:** 80 °C<br>_(144 °F)_
 
 **Cooking slots:** 2
 
@@ -78,12 +76,6 @@ Campfires which run out of fuel will persist as a burnt out campfire, from which
 
 ![Campfire seen burning in the distance](../assets/Distantfire.png)
 
-_Campfire seen burning in the distance_
-
 ![A campfire in a cave](../assets/Ventilation.png)
 
-_A campfire in a cave_
-
 ![Multiple fires for cooking](../assets/Cookingfire.png)
-
-_Multiple fires for cooking_

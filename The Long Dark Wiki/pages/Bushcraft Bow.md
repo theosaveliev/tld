@@ -13,13 +13,11 @@
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Bushcraft Bow** / ![](../assets/Bushcraft_Bow_icon.png) / _Bushcraft\_Bow\_icon.png_ / **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) / **Wintermute:** No / **Renewable:** Yes / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** A highly-improvised Bow fit for the backcountry. Heavier and powerful, if also more fragile. / **Values** / **Weight:** 0.50 kg (1.1 lbs) / The **Bushcraft Bow** is a variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark,_ whose recipe can be acquired from the [Trader](./Trader.md), after completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+<br>**Bushcraft Bow**<br>![Bushcraft Bow icon](../assets/Bushcraft_Bow_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** Yes<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A highly-improvised Bow fit for the backcountry. Heavier and powerful, if also more fragile.<br>**Values**<br>**Weight:** 0.50 kg (1.1 lbs)<br>The **Bushcraft Bow** is a variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark,_ whose recipe can be acquired from the [Trader](./Trader.md), after completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Overview
 
@@ -81,18 +79,10 @@ One key note about this bow is that it requires 2 [**Green Birch Saplings**](./G
 
 ![When inspected](../assets/BushcarftBowInspect.png)
 
-_When inspected_
-
 ![FIrst person view](../assets/BushcarftBowFPV.png)
-
-_FIrst person view_
 
 ![When drawn](../assets/BushcraftDrawn.png)
 
-_When drawn_
-
 ![Bushcraft bow ground model](../assets/Bushcraft_Bow_Dropped.png)
-
-_Bushcraft bow ground model_
 
 ## Update history

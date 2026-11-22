@@ -4,9 +4,7 @@
 
 **Prison Transport Manifest**
 
-![](../assets/Prison_Transport_Manifest_icon.png)
-
-_Prison\_Transport\_Manifest\_icon.png_
+![Prison Transport Manifest icon](../assets/Prison_Transport_Manifest_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -4,15 +4,11 @@
 
 **Control Tower**
 
-![](../assets/Control_Tower.jpg)
-
-_Control\_Tower.jpg_
+![Control Tower](../assets/Control_Tower.jpg)
 
 **Location**
 
-![](../assets/Control_Tower_Location.png)
-
-_Control\_Tower\_Location.png_
+![Control Tower Location](../assets/Control_Tower_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -24,11 +20,9 @@ Type
 
 Firebox
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
-
-Has an interior / The **Control Tower** is building in [Field 31](./Field%2031.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region.
+Has an interior<br>The **Control Tower** is building in [Field 31](./Field%2031.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region.
 
 ## Overview
 
@@ -42,8 +36,4 @@ As with other buildings around the airfield, there is a fair amount of furniture
 
 ![The control tower enlighted by aurora](../assets/Control_tower_panel_1_%281%29.png)
 
-_The control tower enlighted by aurora_
-
 ![The panel enlighted by aurora](../assets/Control_tower_panel_1_%282%29.png)
-
-_The panel enlighted by aurora_

@@ -4,15 +4,11 @@
 
 **Rail Tunnel**
 
-![](../assets/Rail_Tunnel.jpg)
-
-_Rail\_Tunnel.jpg_
+![Rail Tunnel](../assets/Rail_Tunnel.jpg)
 
 **Location**
 
-![](../assets/Rail_Tunnel_Location.png)
-
-_Rail\_Tunnel\_Location.png_
+![Rail Tunnel Location](../assets/Rail_Tunnel_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -34,8 +30,4 @@ The Rail Tunnel was originally a collapsed tunnel called "Tunnel Collapse" in th
 
 ![An alternative view of Rail Tunnel.](../assets/Tunnel_collapse_02.jpg)
 
-_An alternative view of Rail Tunnel._
-
 ![The location was known as "Tunnel Collapse" before the Forlorn Muskeg update.](../assets/Rail_Tunnel_Collapse.jpg)
-
-_The location was known as "Tunnel Collapse" before the Forlorn Muskeg update._

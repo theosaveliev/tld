@@ -4,15 +4,11 @@
 
 **Main Hangar**
 
-![](../assets/30995.png)
-
-_30995.png_
+![30995](../assets/30995.png)
 
 **Location**
 
-![](../assets/Main_Hangar_Location.png)
-
-_Main\_Hangar\_Location.png_
+![Main Hangar Location](../assets/Main_Hangar_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -26,15 +22,11 @@ Type
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 
@@ -54,8 +46,4 @@ Miscellaneous food, tools, and clothing items may be found inside and around the
 
 ![Main Hangar Interior](../assets/24211.png)
 
-_Main Hangar Interior_
-
 ![Helicopter control panel during the aurora](../assets/Helicopter_aurora.png)
-
-_Helicopter control panel during the aurora_

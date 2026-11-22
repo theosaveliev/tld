@@ -4,9 +4,7 @@
 
 **Frozen Corpse**
 
-![](../assets/Frozen_Corpse.jpg)
-
-_Frozen\_Corpse.jpg_
+![Frozen Corpse](../assets/Frozen_Corpse.jpg)
 
 **Story item:** Yes
 
@@ -42,19 +40,13 @@ _A corpse inside a [Hunting Blind](./Hunter%27s%20Blinds.md) with a [hatchet](./
 
 ![A Frozen Corpse labeled just "Corpse"](../assets/Corpse.jpg)
 
-_A Frozen Corpse labeled just "Corpse"_
-
 ![A corpse at the Destroyed Lookout with a rifle lying nearby](../assets/Destroyed_lookout6.jpg)
 
 _A corpse at the [Destroyed Lookout](./Destroyed%20Lookout.md) with a [rifle](./Hunting%20Rifle.md) lying nearby_
 
 ![Dead pilot model](../assets/V._Singh_location.jpg)
 
-_Dead pilot model_
-
-![](../assets/R._Tan_location.jpg)
-
-_R.\_Tan\_location.jpg_
+![R. Tan location](../assets/R._Tan_location.jpg)
 
 ![Dead Prison Guard](../assets/Dead_Prison_Guard.jpg)
 
@@ -70,12 +62,8 @@ _Several executed prison guards and civilians outside of [Blackrock Prison](./Bl
 
 ![very old version](../assets/Frozen_corpse.png)
 
-_very old version_
-
 ![A corpse in Ash Canyon](../assets/Frozen_Corpse_Ash_Canyon.jpg)
 
 _A corpse in [Ash Canyon](./Ash%20Canyon.md)_
 
 ![A dead Convict](../assets/Convict_Episode_2.jpg)
-
-_A dead Convict_

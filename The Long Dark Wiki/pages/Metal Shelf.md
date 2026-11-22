@@ -11,7 +11,7 @@
 
 **Metal Shelf**
 
-\[\[File: / ![Locker](../assets/MetalShelfLocker.jpg) / _Locker_ / ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / _Extra Small_ / ![Small](../assets/MetalShelfSmall.jpg) / _Small_ / ![Large](../assets/MetalShelfLarge.jpg) / _Large_ / ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / _Extra Large_
+![Locker](../assets/MetalShelfLocker.jpg)<br>![Extra Small](../assets/MetalShelfExtraSmall.jpg)<br>![Small](../assets/MetalShelfSmall.jpg)<br>![Large](../assets/MetalShelfLarge.jpg)<br>![Extra Large](../assets/MetalShelfExtraLarge.jpg)
 
 250px\]\]
 
@@ -23,7 +23,7 @@
 
 **Statistics**
 
-**Harvest:** 4x [Scrap Metal](./Scrap%20Metal.md) (Locker) / 6 × [Scrap Metal](./Scrap%20Metal.md) (Small) / 8 x [Scrap Metal](./Scrap%20Metal.md) (Medium) / 10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
+**Harvest:** 4x [Scrap Metal](./Scrap%20Metal.md) (Locker)<br>6 × [Scrap Metal](./Scrap%20Metal.md) (Small)<br>8 x [Scrap Metal](./Scrap%20Metal.md) (Medium)<br>10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
 
 ## Overview
 
@@ -56,5 +56,3 @@ Most metal shelves may be harvested for scrap metal; however, it is most efficie
 ## Gallery
 
 ![3 different types of metal shelves in lower Carter Hydro Dam. Left: 1 small one (4 rows but narrow) Middle: 2 small ones (3 rows but wide) Right: 1 medium one Next to the door on the right is an extra small one.](../assets/20210324171359_1.jpg)
-
-_3 different types of metal shelves in lower Carter Hydro Dam. Left: 1 small one (4 rows but narrow) Middle: 2 small ones (3 rows but wide) Right: 1 medium one Next to the door on the right is an extra small one._

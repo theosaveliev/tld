@@ -4,9 +4,7 @@
 
 **Supply Room Key**
 
-![](../assets/Supply_Room_Key_icon.png)
-
-_Supply\_Room\_Key\_icon.png_
+![Supply Room Key icon](../assets/Supply_Room_Key_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

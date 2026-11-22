@@ -13,7 +13,7 @@
 
 **Cloth (Object)**
 
-\[\[File: / ![Blanket](../assets/ClothBlanket.jpg) / _Blanket_ / ![Scarf](../assets/Cloth_Scarf.jpg) / _Scarf_ / ![Bedsheet](../assets/ClothBunker.jpg) / _Bedsheet_ / ![Tarp](../assets/ClothTarp.jpg) / _Tarp_
+![Blanket](../assets/ClothBlanket.jpg)<br>![Scarf](../assets/Cloth_Scarf.jpg)<br>![Bedsheet](../assets/ClothBunker.jpg)<br>![Tarp](../assets/ClothTarp.jpg)
 
 250px\]\]
 

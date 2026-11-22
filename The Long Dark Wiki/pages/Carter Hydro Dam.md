@@ -20,15 +20,13 @@
 
 **Carter Hydro Dam**
 
-\[\[File: / ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / _Exterior_ / ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / _Interior_
+![Exterior](../assets/Carter_Hydro_Dam_Exterior.png)<br>![Interior](../assets/Carter_Hydro_Dam_Interior.png)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Carter_Hydro_Dam_Location.png)
-
-_Carter\_Hydro\_Dam\_Location.png_
+![Carter Hydro Dam Location](../assets/Carter_Hydro_Dam_Location.png)
 
 Region
 
@@ -46,15 +44,13 @@ Industrial
 
 Firebox
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
-**Missions:** [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper) / [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
+**Missions:** [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper)<br>[Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
 
-**Characters:** [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md)
+**Characters:** [Methuselah](./Methuselah.md)<br>[Mathis](./Mathis.md)
 
 > “**The old Carter Dam -- it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore.**”
 >
@@ -132,31 +128,19 @@ _SPOILER WARNING_
 
 ![The old exterior of the dam](../assets/Carter_Hydro_Dam.jpg)
 
-_The old exterior of the dam_
-
 ![The dam during an aurora](../assets/Carter_Hydro_Dam_Aurora.jpg)
 
 _The dam during an [aurora](./Aurora.md)_
 
 ![Exterior sign](../assets/Carter_hydro_dam_sign.png)
 
-_Exterior sign_
-
 ![Posters inside](../assets/Carter_Hydro_Dam_Posters.jpg)
-
-_Posters inside_
 
 ![Entrance](../assets/Carter_Hydro_Dam_entrance.jpg)
 
-_Entrance_
-
-![](../assets/MAP-DAM_WR-Lv3-v193-110.png)
-
-_MAP-DAM\_WR-Lv3-v193-110.png_
+![MAP DAM WR Lv3 v193 110](../assets/MAP-DAM_WR-Lv3-v193-110.png)
 
 ![The staging area](../assets/The_Long_Dark_-_episode_2_Carter_Hydro_Dam.png)
-
-_The staging area_
 
 ## References
 

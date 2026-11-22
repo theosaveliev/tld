@@ -4,25 +4,19 @@
 
 **Crumbling Highway**
 
-![](../assets/RegionAtlas-resources.assets-562_%283%29.png)
-
-_RegionAtlas-resources.assets-562\_(3).png_
+![RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Crumbling_Highway_Location.png)
+![Crumbling Highway Location](../assets/Crumbling_Highway_Location.png)
 
-_Crumbling\_Highway\_Location.png_
-
-![](../assets/Old_Island_Connector_map.png)
-
-_Old\_Island\_Connector\_map.png_
+![Old Island Connector map](../assets/Old_Island_Connector_map.png)
 
 **Details**
 
 **Description:** A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md).
 
-**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md), / [Desolation Point](./Desolation%20Point.md)
+**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md),<br>[Desolation Point](./Desolation%20Point.md)
 
 **Locations:** 5
 
@@ -59,40 +53,20 @@ There are also 2 unmarked locations in the region.
 
 ![A detailed map of Crumbling Highway (all difficulties) v2.35](../assets/CRH_map.png)
 
-_A detailed map of Crumbling Highway (all difficulties) v2.35_
-
 ![An outdated map of Crumbling Highway v1.93](../assets/Map-OICCrH-Lv3-v193-110.png)
-
-_An outdated map of Crumbling Highway v1.93_
 
 ![An outdated map of Crumbling Highway](../assets/Crumbling_Highway_map_by_whiteberry-toarda.png)
 
-_An outdated map of Crumbling Highway_
-
 ![Road Collapse.](../assets/Road_Collapse.jpg)
-
-_Road Collapse._
 
 ![An alternative view of Road Collapse.](../assets/Road_Collapse_02.jpg)
 
-_An alternative view of Road Collapse._
-
 ![Abandoned Harris Home.](../assets/Abandoned_Harris_Home.jpg)
-
-_Abandoned Harris Home._
 
 ![An alternative view of Abandoned Harris Home.](../assets/Abandoned_Harris_Home_02.jpg)
 
-_An alternative view of Abandoned Harris Home._
-
 ![A view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway.jpg)
-
-_A view of Crumbling Highway from Coastal Highway entrance._
 
 ![An alternative view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway_02.jpg)
 
-_An alternative view of Crumbling Highway from Coastal Highway entrance._
-
 ![A view of the entrance to Abandoned Mine No.3 (West).](../assets/Abandoned_Mine_No.3_%28West%29.jpg)
-
-_A view of the entrance to Abandoned Mine No.3 (West)._

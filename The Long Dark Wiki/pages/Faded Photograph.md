@@ -4,9 +4,7 @@
 
 **Faded Photograph**
 
-![](../assets/Faded_Photograph_icon.png)
-
-_Faded\_Photograph\_icon.png_
+![Faded Photograph icon](../assets/Faded_Photograph_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

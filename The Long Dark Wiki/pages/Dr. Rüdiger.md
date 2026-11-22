@@ -13,15 +13,13 @@
 
 **Dr. Rüdiger**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Release:** 2.03
 
 **Date:** 5 December 2022
 
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md)
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md)<br>[Last Horizon](./Last%20Horizon.md)
 
 **Biographical Information**
 

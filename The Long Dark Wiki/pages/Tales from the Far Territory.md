@@ -35,9 +35,7 @@
 - [Official Art](#official-art)
 - [References](#references)
 
-![](../assets/Tales_from_the_far_territory_title.jpg)
-
-_Tales\_from\_the\_far\_territory\_title.jpg_
+![Tales from the far territory title](../assets/Tales_from_the_far_territory_title.jpg)
 
 > “__ Experience three unique regions, each with their own narrative objectives, and find your way through deep, twisting valleys littered with landmarks, landmarks that offer clues to unlocking the secrets of the land. Explore new items and gameplay mechanics that will challenge you to adapt to survive, and encounter new wildlife that inhabits these harsh and unforgiving territories. __”
 
@@ -357,18 +355,18 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 
 ## Achievements
 
-- ![](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
-- ![](../assets/To_the_Teeth_icon.png) [To the Teeth](./To%20the%20Teeth.md)
-- ![](../assets/Tasting_Menu_icon.png) [Tasting Menu](./Tasting%20Menu.md)
-- ![](../assets/R%C3%BCdiger%27s_Dream_icon.png) [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md)
-- ![](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
-- ![](../assets/Quick_Draw_icon.png) [Quick Draw](./Quick%20Draw.md)
-- ![](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
-- ![](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
-- ![](../assets/On_the_Lookout_icon.png) [On the Lookout](./On%20the%20Lookout.md)
-- ![](../assets/Ends_of_the_Earth_icon.png) [Ends of the Earth](./Ends%20of%20the%20Earth.md)
-- ![](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md)
-- ![](../assets/Tough_Enough_icon.png) [Tough Enough](./Tough%20Enough.md)
+- ![Too Greedily, too Deep icon](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
+- ![To the Teeth icon](../assets/To_the_Teeth_icon.png) [To the Teeth](./To%20the%20Teeth.md)
+- ![Tasting Menu icon](../assets/Tasting_Menu_icon.png) [Tasting Menu](./Tasting%20Menu.md)
+- ![Rüdiger's Dream icon](../assets/R%C3%BCdiger%27s_Dream_icon.png) [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md)
+- ![Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
+- ![Quick Draw icon](../assets/Quick_Draw_icon.png) [Quick Draw](./Quick%20Draw.md)
+- ![Exposure icon](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
+- ![Shutterbug icon](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
+- ![On the Lookout icon](../assets/On_the_Lookout_icon.png) [On the Lookout](./On%20the%20Lookout.md)
+- ![Ends of the Earth icon](../assets/Ends_of_the_Earth_icon.png) [Ends of the Earth](./Ends%20of%20the%20Earth.md)
+- ![Goods and Services icon](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md)
+- ![Tough Enough icon](../assets/Tough_Enough_icon.png) [Tough Enough](./Tough%20Enough.md)
 
 ## Trivia
 
@@ -383,23 +381,13 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 
 ![Title Card](../assets/Tales_from_the_far_territory_title.jpg)
 
-_Title Card_
-
 ![Teaser for the Handheld Shortwave Radio](../assets/Tales_from_the_far_territory_teaser.jpg)
-
-_Teaser for the Handheld Shortwave Radio_
 
 ![Travois Concept](../assets/Travois_concept.jpg)
 
-_Travois Concept_
-
 ![Ditto](../assets/Travois-in-storm-illustration-comp.jpg)
 
-_Ditto_
-
 ![Zone of Contamination Concept art (formerly named Industrial Mine)](../assets/Industrial_Mine_Concept.jpg)
-
-_Zone of Contamination Concept art (formerly named Industrial Mine)_
 
 ![Concept art of a Poisoned Wolf](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
 
@@ -407,27 +395,15 @@ _Concept art of a [Poisoned Wolf](./Poisoned%20Wolf.md)_
 
 ![Miner Clothing](../assets/Miner%27s_Clothing_Zone_of_Contamination.png)
 
-_Miner Clothing_
-
 ![Cougar Concept Art](../assets/Cougar_Concept_Art.jpg)
-
-_Cougar Concept Art_
 
 ![Sundered Pass](../assets/Mountain_Pass_Concept_Art.jpg)
 
-_Sundered Pass_
-
 ![Sundered Pass Weather Station](../assets/Mountain_Pass_Weather_Station_concept_art.jpg)
-
-_Sundered Pass Weather Station_
 
 ![Cougar Concept](../assets/Cougar_Part_5.jpg)
 
-_Cougar Concept_
-
 ![Safe House Customization Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
-
-_Safe House Customization Concept Art_
 
 ### References
 

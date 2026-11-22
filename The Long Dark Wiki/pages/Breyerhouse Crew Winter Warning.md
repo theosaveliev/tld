@@ -4,9 +4,7 @@
 
 **Breyerhouse Crew Winter Warning**
 
-![](../assets/Breyerhouse_Crew_Winter_Warning_icon.png)
-
-_Breyerhouse\_Crew\_Winter\_Warning\_icon.png_
+![Breyerhouse Crew Winter Warning icon](../assets/Breyerhouse_Crew_Winter_Warning_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -4,9 +4,7 @@
 
 **Foreman's Site Report, Day 64**
 
-![](../assets/Foreman%27s_Site_Report_Day_64_icon.png)
-
-_Foreman's\_Site\_Report\_Day\_64\_icon.png_
+![Foreman's Site Report Day 64 icon](../assets/Foreman%27s_Site_Report_Day_64_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

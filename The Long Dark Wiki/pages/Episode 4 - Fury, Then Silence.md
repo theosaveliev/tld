@@ -28,7 +28,7 @@
 - [Achievements](#achievements)
 - [Gallery](#gallery)
 
-**Template:spoiler**![](../assets/Episode_4.png) _"A murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?"_
+**Template:spoiler**![Episode 4](../assets/Episode_4.png) _"A murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?"_
 
 ## Overview
 
@@ -42,9 +42,7 @@ The Episode 4 was released on October 6th, 2021.
 
 _Main article: [Prologue](./Prologue.md)_
 
-![](../assets/Prologue.png)
-
-_Prologue.png_
+![Prologue](../assets/Prologue.png)
 
 "_Mackenzie seizes his chance to escape Mathis._"
 
@@ -54,9 +52,7 @@ _Prologue.png_
 
 _Main article: [Blackrock Blues](./Blackrock%20Blues.md)_
 
-![](../assets/Blackrock_Blues.png)
-
-_Blackrock\_Blues.png_
+![Blackrock Blues](../assets/Blackrock_Blues.png)
 
 "_Learn all you can about Blackrock Penitentiary._"
 
@@ -66,9 +62,7 @@ _Blackrock\_Blues.png_
 
 _Main article: [The Power Plant](./The%20Power%20Plant.md)_
 
-![](../assets/The_Power_Plant.png)
-
-_The\_Power\_Plant.png_
+![The Power Plant](../assets/The_Power_Plant.png)
 
 "_Mathis orders you to find the old Power Plant and look for a way to restore power to solitary._"
 
@@ -78,9 +72,7 @@ _The\_Power\_Plant.png_
 
 _Main article: [The Detonators](./The%20Detonators.md)_
 
-![](../assets/The_Detonators.png)
-
-_The\_Detonators.png_
+![The Detonators](../assets/The_Detonators.png)
 
 "_Travel to the Mine and locate the Detonators for Mathis._"
 
@@ -100,9 +92,7 @@ _Main article: [Donner (mission)](./Donner%20%28mission%29.md)_
 
 _Main article: [Blackrock Lockers](./Blackrock%20Lockers.md)_
 
-![](../assets/Missions_story_ep4_Side.png)
-
-_Missions\_story\_ep4\_Side.png_
+![Missions story ep4 Side](../assets/Missions_story_ep4_Side.png)
 
 "_Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary._"
 
@@ -189,37 +179,25 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 
 ## Achievements
 
-- ![](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) [Welcome to the S\*\*t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)
-- ![](../assets/Just_Like_New_icon.png) [Just Like New](./Just%20Like%20New.md)
-- ![](../assets/Something_Stinks_icon.png) [Something Stinks](./Something%20Stinks.md)
-- ![](../assets/Enemy_For_Life_icon.png) [Enemy For Life](./Enemy%20For%20Life.md)
-- ![](../assets/Leap_of_Faith_icon.png) [Leap of Faith](./Leap%20of%20Faith.md)
-- ![](../assets/Black_Black_Heart_icon.png) [Black Black Heart](./Black%20Black%20Heart.md)
-- ![](../assets/Hard_Times_icon.png) [Hard Times](./Hard%20Times.md)
-- ![](../assets/No_Half-Measures_icon.png) [No Half-Measures](./No%20Half-Measures.md)
+- ![Welcome to the S\*\*t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) [Welcome to the S\*\*t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)
+- ![Just Like New icon](../assets/Just_Like_New_icon.png) [Just Like New](./Just%20Like%20New.md)
+- ![Something Stinks icon](../assets/Something_Stinks_icon.png) [Something Stinks](./Something%20Stinks.md)
+- ![Enemy For Life icon](../assets/Enemy_For_Life_icon.png) [Enemy For Life](./Enemy%20For%20Life.md)
+- ![Leap of Faith icon](../assets/Leap_of_Faith_icon.png) [Leap of Faith](./Leap%20of%20Faith.md)
+- ![Black Black Heart icon](../assets/Black_Black_Heart_icon.png) [Black Black Heart](./Black%20Black%20Heart.md)
+- ![Hard Times icon](../assets/Hard_Times_icon.png) [Hard Times](./Hard%20Times.md)
+- ![No Half Measures icon](../assets/No_Half-Measures_icon.png) [No Half-Measures](./No%20Half-Measures.md)
 
 ## Gallery
 
 ![poster](../assets/Fury_then_silence_banner.png)
 
-_poster_
-
 ![Poster](../assets/Episode_4.jpg)
-
-_Poster_
 
 ![One of the convict caches.](../assets/Valley_cache.jpg)
 
-_One of the convict caches._
-
 ![Convict cache located at a mountain on the map.](../assets/Small_mountain_cache.jpg)
-
-_Convict cache located at a mountain on the map._
 
 ![Radio tower convict cache.](../assets/Radio_tower_cache.jpg)
 
-_Radio tower convict cache._
-
 ![Episode 4's Menu Background](../assets/Episode_4_Menu_Background.png)
-
-_Episode 4's Menu Background_

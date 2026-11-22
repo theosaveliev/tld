@@ -4,15 +4,11 @@
 
 **Junker's Paddock**
 
-![](../assets/Junker.jpg)
-
-_Junker.jpg_
+![Junker](../assets/Junker.jpg)
 
 **Location**
 
-![](../assets/Junker%27s_Paddock_Location.png)
-
-_Junker's\_Paddock\_Location.png_
+![Junker's Paddock Location](../assets/Junker%27s_Paddock_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -20,14 +16,10 @@ _Junker's\_Paddock\_Location.png_
 
 Type
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench

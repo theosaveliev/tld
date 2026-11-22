@@ -11,15 +11,13 @@
 
 **Lonely Lighthouse**
 
-\[\[File: / ![Exterior](../assets/Lonely_Lighthouse.jpg) / _Exterior_ / ![Interior](../assets/Lonely_Lighthouse_interior.jpg) / _Interior_
+![Exterior](../assets/Lonely_Lighthouse.jpg)<br>![Interior](../assets/Lonely_Lighthouse_interior.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Lonely_Lighthouse_Location.png)
-
-_Lonely\_Lighthouse\_Location.png_
+![Lonely Lighthouse Location](../assets/Lonely_Lighthouse_Location.png)
 
 Region
 
@@ -35,13 +33,11 @@ Residential
 
 Firebox
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-Has an interior / **Lonely Lighthouse** is a location in [Desolation Point](./Desolation%20Point.md).
+Has an interior<br>**Lonely Lighthouse** is a location in [Desolation Point](./Desolation%20Point.md).
 
 ## Overview
 
@@ -67,20 +63,12 @@ Depending on the difficulty, on the catwalk you may find a few [rifle rounds](./
 
 ![Lonely Lighthouse](../assets/Lonely_Lighthouse.jpg)
 
-_Lonely Lighthouse_
-
 ![A view from the top of the lighthouse](../assets/Screen_77d88388-5290-4099-a721-dec7b35c7076_hi.png)
 
-_A view from the top of the lighthouse_
-
 ![The Lighthouse during an aurora.](../assets/Screen_ab517721-7f34-4ffe-8af6-1d08c5126dc9_hi.jpg)
-
-_The Lighthouse during an aurora._
 
 ![Looking northeast towards Hibernia Processing and The Riken.](../assets/LighthouseViewNE.png)
 
 _Looking northeast towards [Hibernia Processing](./Hibernia%20Processing.md) and [The Riken](./The%20Riken.md)._
 
 ![The lighthouse lit during the aurora.](../assets/Lonely_Lighthouse_Lit_up_2.png)
-
-_The lighthouse lit during the aurora._

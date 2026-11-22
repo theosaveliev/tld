@@ -11,9 +11,7 @@
 
 **Sounds Like Some Kind of Indie Band**
 
-![](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png)
-
-_Sounds\_Like\_Some\_Kind\_of\_Indie\_Band\_icon.png_
+![Sounds Like Some Kind of Indie Band icon](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png)
 
 **Description:** Find all Forest Talker caches.
 

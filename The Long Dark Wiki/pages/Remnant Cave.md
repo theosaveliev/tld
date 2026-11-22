@@ -4,22 +4,16 @@
 
 **Remnant Cave**
 
-![](../assets/Remnant_Cave.jpg)
-
-_Remnant\_Cave.jpg_
+![Remnant Cave](../assets/Remnant_Cave.jpg)
 
 **Location**
 
-![](../assets/Remnant_Cave_Location.png)
-
-_Remnant\_Cave\_Location.png_
+![Remnant Cave Location](../assets/Remnant_Cave_Location.png)
 
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
 **General**
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed

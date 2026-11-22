@@ -4,15 +4,13 @@
 
 **Misty Falls Picnic Area**
 
-\[\[File: / ![Exterior](../assets/Misty_Falls_Picnic_Area.jpg) / _Exterior_ / ![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg) / _Interior_
+![Exterior](../assets/Misty_Falls_Picnic_Area.jpg)<br>![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Misty_Falls_Picnic_Area_Location.png)
-
-_Misty\_Falls\_Picnic\_Area\_Location.png_
+![Misty Falls Picnic Area Location](../assets/Misty_Falls_Picnic_Area_Location.png)
 
 Region
 
@@ -44,8 +42,4 @@ For a detailed description of the cave, visit [its own section](./Misty%20Falls%
 
 ![A Rifle can sometimes be found next to a frozen corpse and a backpack](../assets/MistyFallsPicnicArea.jpg)
 
-_A Rifle can sometimes be found next to a frozen corpse and a backpack_
-
 ![There is a special explorable cave in the area](../assets/MistyFallsCave-1.jpg)
-
-_There is a special explorable cave in the area_

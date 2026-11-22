@@ -4,15 +4,13 @@
 
 **Cave**
 
-\[\[File: / ![Lower Entrance](../assets/Cave_Ash_Canyon_1.jpg) / _Lower Entrance_ / ![Upper Entrance](../assets/Cave_Ash_Canyon_2.jpg) / _Upper Entrance_
+![Lower Entrance](../assets/Cave_Ash_Canyon_1.jpg)<br>![Upper Entrance](../assets/Cave_Ash_Canyon_2.jpg)
 
 250px\]\]
 
 **Location**
 
-![](../assets/Cave_%28Ash_Canyon_location%29_Location.png)
-
-_Cave\_(Ash\_Canyon\_location)\_Location.png_
+![Cave (Ash Canyon location) Location](../assets/Cave_%28Ash_Canyon_location%29_Location.png)
 
 Region
 
@@ -28,15 +26,11 @@ Type
 
 Military/Sporting
 
-![](../assets/Bed_icon.png)
+![Bed icon](../assets/Bed_icon.png)
 
-_bed\_icon.png_
+![Forge icon green](../assets/Forge_icon_green.png)
 
-![](../assets/Forge_icon_green.png)
-
-_forge\_icon\_green.png_
-
-Has an interior / _This article is about the large, explorable cave in [Ash Canyon](./Ash%20Canyon.md). For the cave in [Desolation Point](./Desolation%20Point.md), check [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md). For a list of all caves on Great Bear Island, see [here](./Cave%20%28disambiguation%29.md)._ / Similar to many other [regions](./Region.md) on Great Bear Island, Ash Canyon features a large, explorable **Cave System** located in the far north of the map. It is near [Long Falls](./Long%20Falls.md) and ends up in the mountains, with 2 paths that lead to either [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) or [Miner's Folly](./Miner%27s%20Folly.md). Like most other explorable caves, it's warm enough to keep even a poorly clothed character above freezing.
+Has an interior<br>_This article is about the large, explorable cave in [Ash Canyon](./Ash%20Canyon.md). For the cave in [Desolation Point](./Desolation%20Point.md), check [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md). For a list of all caves on Great Bear Island, see [here](./Cave%20%28disambiguation%29.md)._<br>Similar to many other [regions](./Region.md) on Great Bear Island, Ash Canyon features a large, explorable **Cave System** located in the far north of the map. It is near [Long Falls](./Long%20Falls.md) and ends up in the mountains, with 2 paths that lead to either [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) or [Miner's Folly](./Miner%27s%20Folly.md). Like most other explorable caves, it's warm enough to keep even a poorly clothed character above freezing.
 
 ## Overview
 
@@ -47,5 +41,3 @@ Unlike the ice caves, this cave has no natural sources of light. It is not very 
 ## Gallery
 
 ![Possible wolf carcass &amp; frozen corpse spawn on the second level](../assets/Ash_Canyon_Cave_-_Corpse_%26_Carcass.jpg)
-
-_Possible wolf carcass &amp; frozen corpse spawn on the second level_

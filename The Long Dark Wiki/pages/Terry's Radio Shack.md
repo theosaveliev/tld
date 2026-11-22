@@ -4,9 +4,7 @@
 
 **Terry's Radio Shack**
 
-![](../assets/TerryRadioShack.png)
-
-_TerryRadioShack.png_
+![TerryRadioShack](../assets/TerryRadioShack.png)
 
 **Location**
 
@@ -22,6 +20,4 @@ _TerryRadioShack.png_
 
 ## Gallery
 
-![](../assets/20260406234153_1.jpg)
-
-_20260406234153\_1.jpg_
+![20260406234153 1](../assets/20260406234153_1.jpg)

@@ -4,9 +4,7 @@
 
 **Military Coat**
 
-![](../assets/Military_Coat_icon.png)
-
-_Military\_Coat\_icon.png_
+![Military Coat icon](../assets/Military_Coat_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Military\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![](../assets/Protection_icon.png)8%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)8%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md) / 90 minutes / 30% condition
+**Repair:** 2 × [Cloth](./Cloth.md)<br>90 minutes<br>30% condition
 
 > “**Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.**”
 >
@@ -42,11 +40,7 @@ High-tier coat giving good warmth, waterproofness and protection compared to oth
 
 ![Clothing model icon](../assets/Military_Coat_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Military_Coat_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

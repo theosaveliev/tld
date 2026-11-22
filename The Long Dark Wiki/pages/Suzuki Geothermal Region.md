@@ -17,19 +17,13 @@
 
 **Suzuki Geothermal Region**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
+![No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/No_picture.png)
+![No picture](../assets/No_picture.png)
 
-_No\_picture.png_
-
-![](../assets/Suzuki_Geothermal_Region_In-Game_Map.png)
-
-_Suzuki\_Geothermal\_Region\_In-Game\_Map.png_
+![Suzuki Geothermal Region In Game Map](../assets/Suzuki_Geothermal_Region_In-Game_Map.png)
 
 **Details**
 

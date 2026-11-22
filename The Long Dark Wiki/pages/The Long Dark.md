@@ -35,16 +35,21 @@
 
 **The Long Dark**
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![](../assets/The_Long_Dark_Poster.jpg)<br>_The\_Long\_Dark\_Poster.jpg_ |  |
-| **Developer(s)** | [Hinterland Games](./Hinterland%20Studio%20Inc..md) |
-| **Director(s)** | Raphael Van Lierop<br>David Chan<br>Hokyo Lim<br>Alan Lawrance |
-| **Writer(s)** | Marianne Krawczyk |
-| **Composer(s)** | Cris Velasco<br>Sascha Dikiciyan |
-| Platform | PC/Mac/Linux<br>Xbox One/Series S/X<br>PlayStation 4/5<br>Nintendo Switch |
-| Released | - 1st August 2017 (PC, PS4, XO)<br>- September 17, 2020 (Switch) |
-| **Genre(s)** | First Person, Open-World, Sandbox, Survival |
+![The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg)
+
+**Developer(s):** [Hinterland Games](./Hinterland%20Studio%20Inc..md)
+
+**Director(s):** Raphael Van Lierop<br>David Chan<br>Hokyo Lim<br>Alan Lawrance
+
+**Writer(s):** Marianne Krawczyk
+
+**Composer(s):** Cris Velasco<br>Sascha Dikiciyan
+
+**Platform:** PC/Mac/Linux<br>Xbox One/Series S/X<br>PlayStation 4/5<br>Nintendo Switch
+
+**Released:** - 1st August 2017 (PC, PS4, XO)<br>- September 17, 2020 (Switch)
+
+**Genre(s):** First Person, Open-World, Sandbox, Survival
 
 **_The Long Dark_** is a first-person open-world survival game developed by [Hinterland Games](./Hinterland%20Studio%20Inc..md) for Microsoft Windows, OS X, Linux, Xbox One, PlayStation 4, and Nintendo Switch.
 
@@ -54,7 +59,7 @@ A sequel, _[BLACKFROST: The Long Dark II](./BLACKFROST%20-%20The%20Long%20Dark%2
 
 ## Summary
 
-_The Long Dark_ begins with a [massive geomagnetic anomaly](./First%20Flare.md) that affects all electronic equipment. Cars, radios, computers and most other modern technology have been rendered useless. The world is quiet now, and, with no lights, the nights are long and dark. ![](../assets/Ld_airplane.jpg) A front seat to the end of the world. Immersive first-person exploration game-play featuring a stunning, original art style. Navigate the savage beauty of the Northern wilderness while facing the hazards of a new post-digital frontier.
+_The Long Dark_ begins with a [massive geomagnetic anomaly](./First%20Flare.md) that affects all electronic equipment. Cars, radios, computers and most other modern technology have been rendered useless. The world is quiet now, and, with no lights, the nights are long and dark. ![Ld airplane](../assets/Ld_airplane.jpg) A front seat to the end of the world. Immersive first-person exploration game-play featuring a stunning, original art style. Navigate the savage beauty of the Northern wilderness while facing the hazards of a new post-digital frontier.
 
 Survive by your wits alone. Be on the lookout for potential supply caches, all the while ameliorating and improving your survival skills to overcome the dangers of harsh weather, aggressive wildlife, lack of food and water, and the mysterious [Aurora](./Aurora.md) that adds more uncertainty to an already uncertain survival situation.
 
@@ -76,7 +81,7 @@ Survival of the fittest. Deep survival simulation game-play whence every decisio
 
 ## Game Versions
 
-![](../assets/The_Long_Dark_Editions.png) As of December 5th, 2022, _The Long Dark_ can be purchased in several different forms from Steam or Epic Games:
+![The Long Dark Editions](../assets/The_Long_Dark_Editions.png) As of December 5th, 2022, _The Long Dark_ can be purchased in several different forms from Steam or Epic Games:
 
 ### _The Long Dark_
 
@@ -120,13 +125,11 @@ Includes Volume Three of the Original Soundtrack to The Long Dark, as composed b
 
 ## Visual Enhancements
 
-![](../assets/The_Long_Dark_visual_enhancements.png) A Visual Enhancement update is available for the game when playing on PlayStation 5, Xbox Series S/X, and PC. It is mainly for higher end hardware and is not available for game versions running on older game platforms (PlayStation 4/Xbox One, Nintendo Switch, Lower end PC, etc.).
+![The Long Dark visual enhancements](../assets/The_Long_Dark_visual_enhancements.png) A Visual Enhancement update is available for the game when playing on PlayStation 5, Xbox Series S/X, and PC. It is mainly for higher end hardware and is not available for game versions running on older game platforms (PlayStation 4/Xbox One, Nintendo Switch, Lower end PC, etc.).
 
 ## Gameplay
 
-![](../assets/Wolf.jpg)
-
-_Wolf.jpg_
+![Wolf](../assets/Wolf.jpg)
 
 No electricity: Only you and the brutal, brumal weather. To stay alive you will need to provide for yourself from what you can find amongst the landscapes. Nearby structures may still stand, and, perhaps they are all abandoned; perhaps they still contain useful equipment. They definitely can provide shelter. And the woods—the woods are everywhere. You grew up with woods like these, you have fished waters like these. There is much that nature can provide and much it can take away.
 
@@ -204,7 +207,7 @@ _Main article: [The Long Dark/Gallery](./The%20Long%20Dark%20%E2%80%94%20Gallery
 
 ## Videos
 
-![](../assets/The_Long_Dark_-_One_Year_Anniversary_on_Steam_2015_%28Official_Trailer%29.jpg)
+![The Long Dark One Year Anniversary on Steam 2015 (Official Trailer)](../assets/The_Long_Dark_-_One_Year_Anniversary_on_Steam_2015_%28Official_Trailer%29.jpg)
 
 _The\_Long\_Dark\_-\_One\_Year\_Anniversary\_on\_Steam\_2015\_(Official\_Trailer)_
 
@@ -218,27 +221,17 @@ _[Deep Forest update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)_
 
 ![Xbox One reveal trailer](../assets/The_Long_Dark_--_E3_2015_Trailer_--_Xbox_One_Reveal.jpg)
 
-_Xbox One reveal trailer_
-
-![](../assets/The_Long_Dark_-_Silent_Hunter_%28Alpha_Sandbox_Update%29_44_to_v.233)
-
-_The\_Long\_Dark\_-\_Silent\_Hunter\_(Alpha\_Sandbox\_Update)\_44\_to\_v.233_
+![The Long Dark Silent Hunter (Alpha Sandbox Update) 44 to v](../assets/The_Long_Dark_-_Silent_Hunter_%28Alpha_Sandbox_Update%29_44_to_v.233)
 
 ![Sandbox launch trailer](../assets/THE_LONG_DARK_--_%22A_Good_Day_to_Die%22_--_Sandbox_Launch_Trailer.jpg)
 
-_Sandbox launch trailer_
-
-![](../assets/The_Long_Dark_-_Echoes_%28Steam_Early_Access_Official_Trailer%29.jpg)
+![The Long Dark Echoes (Steam Early Access Official Trailer)](../assets/The_Long_Dark_-_Echoes_%28Steam_Early_Access_Official_Trailer%29.jpg)
 
 _The\_Long\_Dark\_-\_Echoes\_(Steam\_Early\_Access\_Official\_Trailer)_
 
 ![Survival Vignettes](../assets/The_Long_Dark_--_Survival_Vignettes_--_How_Far_Will_You_Go_To_Survive%3F.jpg)
 
-_Survival Vignettes_
-
 ![Survival - The Tent](../assets/The_Long_Dark_--_Survival_Vignette_1_of_3_--_The_Tent.jpg)
-
-_Survival - The Tent_
 
 ![Survival - Deer](../assets/The_Long_Dark_--_Survival_Vignette_2_of_3_--_The_Deer.jpg)
 
@@ -246,15 +239,9 @@ _Survival - [Deer](./Deer.md)_
 
 ![Survival - The Cabin](../assets/The_Long_Dark_--_Survival_Vignettes_3_of_3_--_The_Cabin.jpg)
 
-_Survival - The Cabin_
-
 ![Gameplay](../assets/The_Long_Dark_--_FIRST_GAMEPLAY_FOOTAGE!.jpg)
 
-_Gameplay_
-
 ![Project pitch](../assets/The_Long_Dark_--_PROJECT_PITCH.jpg)
-
-_Project pitch_
 
 ## External links
 

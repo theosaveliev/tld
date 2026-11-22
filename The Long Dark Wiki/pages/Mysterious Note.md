@@ -4,9 +4,7 @@
 
 **Mysterious Note**
 
-![](../assets/Mysterious_Note_icon.png)
-
-_Mysterious\_Note\_icon.png_
+![Mysterious Note icon](../assets/Mysterious_Note_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

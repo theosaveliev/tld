@@ -4,15 +4,11 @@
 
 **Oddment Falls**
 
-![](../assets/Oddment_Falls.jpg)
-
-_Oddment\_Falls.jpg_
+![Oddment Falls](../assets/Oddment_Falls.jpg)
 
 **Location**
 
-![](../assets/Oddment_Falls_Location.png)
-
-_Oddment\_Falls\_Location.png_
+![Oddment Falls Location](../assets/Oddment_Falls_Location.png)
 
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 

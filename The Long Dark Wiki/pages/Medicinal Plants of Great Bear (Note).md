@@ -4,9 +4,7 @@
 
 **Medicinal Plants of Great Bear**
 
-![](../assets/Medicinal_Plants_of_Great_Bear_%28Note%29_icon.png)
-
-_Medicinal\_Plants\_of\_Great\_Bear\_(Note)\_icon.png_
+![Medicinal Plants of Great Bear (Note) icon](../assets/Medicinal_Plants_of_Great_Bear_%28Note%29_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

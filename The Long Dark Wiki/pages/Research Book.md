@@ -10,7 +10,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![](../assets/Research1.jpg) A **Research Book** or **Skill Book** is both a Fuel and Tool item in [Survival Mode](./Survival%20Mode.md) that can be researched to increase [Skills](./Skills.md), and can be found as 10 separate in game items.
+![Research1](../assets/Research1.jpg) A **Research Book** or **Skill Book** is both a Fuel and Tool item in [Survival Mode](./Survival%20Mode.md) that can be researched to increase [Skills](./Skills.md), and can be found as 10 separate in game items.
 
 ## Overview
 
@@ -36,179 +36,18 @@ The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.m
 
 &lt;table-progress-tracking table-id="1" header-label="Collected?" unique-column-index="2"&gt;
 
-Image
-
-Title
-
-Skill
-
-Points / gained
-
-W/ Book Smarts
-
-Hours to / research
-
-W/ Settled Mind
-
-![](../assets/Stay_on_Target_icon.png)
-
-_Stay\_on\_Target\_icon.png_
-
-_[Stay on Target](./Stay%20on%20Target.md)_
-
-[Archery](./Archery.md)
-
-10
-
-11
-
-5
-
-4
-
-![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png)
-
-_Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png_
-
-_[Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md)_
-
-[Carcass Harvesting](./Carcass%20Harvesting.md)
-
-10
-
-11
-
-10
-
-8
-
-![](../assets/Wilderness_Kitchen_icon.png)
-
-_Wilderness\_Kitchen\_icon.png_
-
-_[Wilderness Kitchen](./Wilderness%20Kitchen.md)_
-
-[Cooking](./Cooking.md)
-
-10
-
-11
-
-5
-
-4
-
-![](../assets/Survive_the_Outdoors!_icon.png)
-
-_Survive\_the\_Outdoors!\_icon.png_
-
-_[Survive the Outdoors!](./Survive%20the%20Outdoors!.md)_
-
-[Fire Starting](./Fire%20Starting.md)
-
-10
-
-11
-
-5
-
-4
-
-![](../assets/The_Frozen_Angler_icon.png)
-
-_The\_Frozen\_Angler\_icon.png_
-
-_[The Frozen Angler](./The%20Frozen%20Angler.md)_
-
-[Ice Fishing](./Ice%20Fishing.md)
-
-10
-
-11
-
-5
-
-4
-
-![](../assets/A_Sewing_Primer_icon.png)
-
-_A\_Sewing\_Primer\_icon.png_
-
-_[A Sewing Primer](./A%20Sewing%20Primer.md)_
-
-[Mending](./Mending.md)
-
-10
-
-11
-
-5
-
-4
-
-![](../assets/Frontier_Shooting_Guide_icon.png)
-
-_Frontier\_Shooting\_Guide\_icon.png_
-
-_[Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)_
-
-[Rifle Firearm](./Rifle%20Firearm.md)
-
-5
-
-6
-
-4
-
-4
-
-![](../assets/Advanced_Guns_Guns_Guns!_icon.png)
-
-_Advanced\_Guns\_Guns\_Guns!\_icon.png_
-
-_[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)_
-
-[Rifle Firearm](./Rifle%20Firearm.md)
-
-10
-
-11
-
-25
-
-20
-
-![](../assets/Small_Arms_Handbook_icon.png)
-
-_Small\_Arms\_Handbook\_icon.png_
-
-_[Small Arms Handbook](./Small%20Arms%20Handbook.md)_
-
-[Revolver Firearm](./Revolver%20Firearm.md)
-
-10
-
-11
-
-5
-
-4
-
-![](../assets/Practical_Gunsmithing_icon.png)
-
-_Practical\_Gunsmithing\_icon.png_
-
-_[Practical Gunsmithing](./Practical%20Gunsmithing.md)_
-
-[Gunsmithing](./Gunsmithing.md)
-
-10
-
-11
-
-5
-
-4
+| Image | Title | Skill | Points<br>gained | W/ Book Smarts | Hours to<br>research | W/ Settled Mind |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![Stay on Target icon](../assets/Stay_on_Target_icon.png) | _[Stay on Target](./Stay%20on%20Target.md)_ | [Archery](./Archery.md) | 10 | 11 | 5 | 4 |
+| ![Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) | _[Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md)_ | [Carcass Harvesting](./Carcass%20Harvesting.md) | 10 | 11 | 10 | 8 |
+| ![Wilderness Kitchen icon](../assets/Wilderness_Kitchen_icon.png) | _[Wilderness Kitchen](./Wilderness%20Kitchen.md)_ | [Cooking](./Cooking.md) | 10 | 11 | 5 | 4 |
+| ![Survive the Outdoors! icon](../assets/Survive_the_Outdoors!_icon.png) | _[Survive the Outdoors!](./Survive%20the%20Outdoors!.md)_ | [Fire Starting](./Fire%20Starting.md) | 10 | 11 | 5 | 4 |
+| ![The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png) | _[The Frozen Angler](./The%20Frozen%20Angler.md)_ | [Ice Fishing](./Ice%20Fishing.md) | 10 | 11 | 5 | 4 |
+| ![A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) | _[A Sewing Primer](./A%20Sewing%20Primer.md)_ | [Mending](./Mending.md) | 10 | 11 | 5 | 4 |
+| ![Frontier Shooting Guide icon](../assets/Frontier_Shooting_Guide_icon.png) | _[Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)_ | [Rifle Firearm](./Rifle%20Firearm.md) | 5 | 6 | 4 | 4 |
+| ![Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png) | _[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)_ | [Rifle Firearm](./Rifle%20Firearm.md) | 10 | 11 | 25 | 20 |
+| ![Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png) | _[Small Arms Handbook](./Small%20Arms%20Handbook.md)_ | [Revolver Firearm](./Revolver%20Firearm.md) | 10 | 11 | 5 | 4 |
+| ![Practical Gunsmithing icon](../assets/Practical_Gunsmithing_icon.png) | _[Practical Gunsmithing](./Practical%20Gunsmithing.md)_ | [Gunsmithing](./Gunsmithing.md) | 10 | 11 | 5 | 4 |
 
 &lt;/table-progress-tracking&gt;
 
@@ -216,113 +55,18 @@ _[Practical Gunsmithing](./Practical%20Gunsmithing.md)_
 
 **Template:spoiler**In [Wintermute](./Wintermute.md), items that resemble Research Books may be found, but these items are instantly turned into [Collectibles](./Collectibles.md) when picked up and instead unlock side missions. &lt;table-progress-tracking table-id="2" header-label="Collected?" unique-column-index="2"&gt;
 
-Image
-
-Title
-
-Episode
-
-Unlocks Side Mission
-
-![](../assets/A_Sewing_Primer_icon.png)
-
-_A\_Sewing\_Primer\_icon.png_
-
-_[A Sewing Primer](./A%20Sewing%20Primer%20%28The%20Basics%20of%20Survival%29.md)_
-
-Episode 1
-
-[The Basics of Survival](./The%20Basics%20of%20Survival.md) Mend Clothing
-
-![](../assets/Medicinal_Plants_of_Great_Bear_icon.png)
-
-_Medicinal\_Plants\_of\_Great\_Bear\_icon.png_
-
-_[Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md)_
-
-Episode 1
-
-[The Basics of Survival](./The%20Basics%20of%20Survival.md) Preparing natural medicine
-
-![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png)
-
-_Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png_
-
-_[Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I%20%28The%20Basics%20of%20Survival%29.md)_
-
-Episode 1
-
-[The Basics of Survival](./The%20Basics%20of%20Survival.md) Snaring a Rabbit
-
-![](../assets/The_Frozen_Angler_icon.png)
-
-_The\_Frozen\_Angler\_icon.png_
-
-_[The Frozen Angler](./The%20Frozen%20Angler%20%28Survival%20School%29.md)_
-
-Episode 2
-
-[Survival School](./Survival%20School.md) Craft a Fishing Tackle and catch a fish from Mystery Lake
-
-![](../assets/Frontier_Shooting_Guide_icon.png)
-
-_Frontier\_Shooting\_Guide\_icon.png_
-
-_[Frontier Shooting Guide](./Frontier%20Shooting%20Guide%20%28Survival%20School%29.md)_
-
-Episode 2
-
-[Survival School](./Survival%20School.md) Kill a Deer
-
-![](../assets/Advanced_Guns_Guns_Guns!_icon.png)
-
-_Advanced\_Guns\_Guns\_Guns!\_icon.png_
-
-_[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!%20%28Survival%20School%29.md)_
-
-Episode 2
-
-[Survival School](./Survival%20School.md) Cull Wolves
-
-![](../assets/Local_Legends_-_Sasquatch_icon.png)
-
-_Local\_Legends\_-\_Sasquatch\_icon.png_
-
-_[Local Legends - Sasquatch](./Local%20Legends%20-%20Sasquatch.md)_
-
-Episode 3
-
-[Tall Tales](./Tall%20Tales.md) Locals tell of a Sasquatch...
-
-![](../assets/Local_Legends_-_The_Big_One_icon.png)
-
-_Local\_Legends\_-\_The\_Big\_One\_icon.png_
-
-_[Local Legends - The Big One](./Local%20Legends%20-%20The%20Big%20One.md)_
-
-Episode 3
-
-[Tall Tales](./Tall%20Tales.md) Locals tell of a magical pond...
-
-![](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
-
-_Local\_Legends\_-\_The\_Lost\_Cave\_icon.png_
-
-_[Local Legends - The Lost Cave](./Local%20Legends%20-%20The%20Lost%20Cave.md)_
-
-Episode 3
-
-[Tall Tales](./Tall%20Tales.md) Locals tell of a glowing cave...
-
-![](../assets/Local_Legends_-_Ghost_Stag_icon.png)
-
-_Local\_Legends\_-\_Ghost\_Stag\_icon.png_
-
-_[Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md)_
-
-Episode 3
-
-[Tall Tales](./Tall%20Tales.md) Locals tell of a hidden ghostly stag...
+| Image | Title | Episode | Unlocks Side Mission |
+| --- | --- | --- | --- |
+| ![A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) | _[A Sewing Primer](./A%20Sewing%20Primer%20%28The%20Basics%20of%20Survival%29.md)_ | Episode 1 | [The Basics of Survival](./The%20Basics%20of%20Survival.md) Mend Clothing |
+| ![Medicinal Plants of Great Bear icon](../assets/Medicinal_Plants_of_Great_Bear_icon.png) | _[Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md)_ | Episode 1 | [The Basics of Survival](./The%20Basics%20of%20Survival.md) Preparing natural medicine |
+| ![Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) | _[Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I%20%28The%20Basics%20of%20Survival%29.md)_ | Episode 1 | [The Basics of Survival](./The%20Basics%20of%20Survival.md) Snaring a Rabbit |
+| ![The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png) | _[The Frozen Angler](./The%20Frozen%20Angler%20%28Survival%20School%29.md)_ | Episode 2 | [Survival School](./Survival%20School.md) Craft a Fishing Tackle and catch a fish from Mystery Lake |
+| ![Frontier Shooting Guide icon](../assets/Frontier_Shooting_Guide_icon.png) | _[Frontier Shooting Guide](./Frontier%20Shooting%20Guide%20%28Survival%20School%29.md)_ | Episode 2 | [Survival School](./Survival%20School.md) Kill a Deer |
+| ![Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png) | _[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!%20%28Survival%20School%29.md)_ | Episode 2 | [Survival School](./Survival%20School.md) Cull Wolves |
+| ![Local Legends Sasquatch icon](../assets/Local_Legends_-_Sasquatch_icon.png) | _[Local Legends - Sasquatch](./Local%20Legends%20-%20Sasquatch.md)_ | Episode 3 | [Tall Tales](./Tall%20Tales.md) Locals tell of a Sasquatch... |
+| ![Local Legends The Big One icon](../assets/Local_Legends_-_The_Big_One_icon.png) | _[Local Legends - The Big One](./Local%20Legends%20-%20The%20Big%20One.md)_ | Episode 3 | [Tall Tales](./Tall%20Tales.md) Locals tell of a magical pond... |
+| ![Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | _[Local Legends - The Lost Cave](./Local%20Legends%20-%20The%20Lost%20Cave.md)_ | Episode 3 | [Tall Tales](./Tall%20Tales.md) Locals tell of a glowing cave... |
+| ![Local Legends Ghost Stag icon](../assets/Local_Legends_-_Ghost_Stag_icon.png) | _[Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md)_ | Episode 3 | [Tall Tales](./Tall%20Tales.md) Locals tell of a hidden ghostly stag... |
 
 &lt;/table-progress-tracking&gt;
 
@@ -337,24 +81,12 @@ Episode 3
 
 ![Field Dressing Your Kill, Vol 1. Old Model](../assets/Field_Dressing_Your_Kill_Old.png)
 
-_Field Dressing Your Kill, Vol 1. Old Model_
-
 ![Advanced Guns Guns Guns! Old Model](../assets/Advanced_Guns_Guns_Guns_Old.png)
-
-_Advanced Guns Guns Guns! Old Model_
 
 ![The Frozen Angler Old Model](../assets/Frozen_Angler_Old.png)
 
-_The Frozen Angler Old Model_
-
 ![Frontier Shooting Guide Old Model](../assets/Frontier_Shooting_Guide_Old.png)
-
-_Frontier Shooting Guide Old Model_
 
 ![Wilderness Kitchen Old Model](../assets/Wilderness_Kitchen_Old.png)
 
-_Wilderness Kitchen Old Model_
-
 ![Survive The Outdoors Old Model](../assets/Survive_The_Outdoors_Old.png)
-
-_Survive The Outdoors Old Model_

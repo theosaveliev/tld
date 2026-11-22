@@ -4,15 +4,11 @@
 
 **High Peak Plateau**
 
-![](../assets/High_Peak_Plateau_Area.jpg)
-
-_High\_Peak\_Plateau\_Area.jpg_
+![High Peak Plateau Area](../assets/High_Peak_Plateau_Area.jpg)
 
 **Location**
 
-![](../assets/High_Peak_Plateau_Location.png)
-
-_High\_Peak\_Plateau\_Location.png_
+![High Peak Plateau Location](../assets/High_Peak_Plateau_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -41,8 +37,4 @@ Heading west of the transmitter provides an anchor for the Mountaineering Rope a
 
 ![The Transmitter](../assets/High_Peak_Plateau.jpg)
 
-_The Transmitter_
-
 ![The shed up close](../assets/High_Peak_Plateau_Shed.jpg)
-
-_The shed up close_

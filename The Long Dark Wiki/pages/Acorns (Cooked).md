@@ -11,7 +11,7 @@
 
 **Acorns (Cooked)**
 
-\[\[File: / ![Portion](../assets/Acorns_%28Cooked%29_icon.png) / _Portion_
+![Portion](../assets/Acorns_%28Cooked%29_icon.png)
 
 250px\]\]
 

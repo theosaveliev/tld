@@ -11,13 +11,11 @@
 - [Anna Island -- Track Section 2](#anna-island----track-section-2-1)
 - [Anna Island -- Track Section 4](#anna-island----track-section-4-1)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Repair Depot** / ![](../assets/Repair_Depot.png) / _Repair\_Depot.png_ / **Location** / Region / **Description:** A Train Repair Depot for maintenance crews of Cauldron Island. / **General** / **Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md) / ![](../assets/Bed_icon.png) / _bed\_icon.png_ / Has a bed / ![](../assets/Forge_icon_green.png) / _forge\_icon\_green.png_ / ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ / Has an interior\ / A **Repair Depot** is a major landmark building that can be found on [Cauldron Island](./Cauldron%20Island.md). There are currently two in the game. Located on [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) and [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
+<br>**Repair Depot**<br>![Repair Depot](../assets/Repair_Depot.png)<br>**Location**<br>Region<br>**Description:** A Train Repair Depot for maintenance crews of Cauldron Island.<br>**General**<br>**Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md)<br>![Bed icon](../assets/Bed_icon.png)<br>Has a bed<br>![Forge icon green](../assets/Forge_icon_green.png)<br>![Workbench icon green](../assets/Workbench_icon_green.png)<br>Has an interior\<br>A **Repair Depot** is a major landmark building that can be found on [Cauldron Island](./Cauldron%20Island.md). There are currently two in the game. Located on [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) and [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
 ## Overview
 

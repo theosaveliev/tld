@@ -4,9 +4,7 @@
 
 **Military-Grade MRE**
 
-![](../assets/Military-Grade_MRE_icon.png)
-
-_Military-Grade\_MRE\_icon.png_
+![Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
@@ -54,8 +52,6 @@ MRE have a very low chance of causing [Food Poisoning](./Food%20Poisoning.md) an
 ## Gallery
 
 ![old model](../assets/Military_grade_mre.png)
-
-_old model_
 
 ## Update history
 

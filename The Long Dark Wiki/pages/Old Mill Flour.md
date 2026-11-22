@@ -12,9 +12,7 @@
 
 **Old Mill Flour**
 
-![](../assets/Old_Mill_Flour_icon.png)
-
-_Old\_Mill\_Flour\_icon.png_
+![Old Mill Flour icon](../assets/Old_Mill_Flour_icon.png)
 
 **Release:** [19 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -40,13 +38,11 @@ _Old\_Mill\_Flour\_icon.png_
 
 **Item key:** GAMEPLAY\_Flour
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Old Mill Flour** is an [ingredient](./Food%20And%20Drink.md) in [_The Long Dark_](./The%20Long%20Dark.md).
+<br>**Old Mill Flour** is an [ingredient](./Food%20And%20Drink.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

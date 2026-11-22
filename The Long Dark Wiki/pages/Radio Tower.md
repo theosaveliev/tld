@@ -4,15 +4,11 @@
 
 **Radio Tower**
 
-![](../assets/Milton_Shortwave_Tower.jpg)
-
-_Milton\_Shortwave\_Tower.jpg_
+![Milton Shortwave Tower](../assets/Milton_Shortwave_Tower.jpg)
 
 **Location**
 
-![](../assets/Radio_Tower_Location.png)
-
-_Radio\_Tower\_Location.png_
+![Radio Tower Location](../assets/Radio_Tower_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

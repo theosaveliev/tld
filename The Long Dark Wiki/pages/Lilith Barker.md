@@ -6,9 +6,7 @@
 
 **Lilith Barker**
 
-![](../assets/Lilith_Barker.png)
-
-_Lilith\_Barker.png_
+![Lilith Barker](../assets/Lilith_Barker.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
@@ -28,7 +26,7 @@ _Lilith\_Barker.png_
 
 **Place of death:** [Great Bear Island](./Great%20Bear%20Island.md)
 
-**Relatives:** **•** [Martin Barker](./Martin%20Barker.md) (Father) / **•** [Grey Mother](./Grey%20Mother.md) (Mother)
+**Relatives:** **•** [Martin Barker](./Martin%20Barker.md) (Father)<br>**•** [Grey Mother](./Grey%20Mother.md) (Mother)
 
 **Occupation:** Climber
 
@@ -64,10 +62,6 @@ A [Recipe Card](./Recipe%20Cards.md) named after Lily can be found in the [Milto
 
 _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of [Martin Barker](./Martin%20Barker.md), **Lilith Barker** and [Grey Mother](./Grey%20Mother.md)._
 
-![](../assets/Lily_picture.png)
-
-_Lily\_picture.png_
+![Lily picture](../assets/Lily_picture.png)
 
 ![Lilly's tombstone, with the pearls](../assets/Lilith_barker_grave.jpg)
-
-_Lilly's tombstone, with the pearls_

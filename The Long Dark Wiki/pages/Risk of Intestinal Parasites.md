@@ -13,9 +13,7 @@
 
 **Risk of Intestinal Parasites**
 
-![](../assets/Risk_of_Intestinal_Parasites_icon.png)
-
-_Risk\_of\_Intestinal\_Parasites\_icon.png_
+![Risk of Intestinal Parasites icon](../assets/Risk_of_Intestinal_Parasites_icon.png)
 
 **Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
 
@@ -65,10 +63,10 @@ Risk for Intestinal Parasites does not fill up as a meter to 100%, unlike many o
 
 Only the following pieces of meat, cooked or raw, contribute to Risk of Intestinal Parasites when eaten:
 
-- ![](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)/![](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)
-- ![](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)/![](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
-- ![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)/![](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)
-- ![](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)[¹](#fn1)
+- ![Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)/![Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)
+- ![Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)/![Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
+- ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)/![Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)
+- ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)[¹](#fn1)
 
 ## Risk of Intestinal Parasites Mechanics
 

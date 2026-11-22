@@ -4,15 +4,11 @@
 
 **Waterfall (Forlorn Muskeg)**
 
-![](../assets/20170304110023_1.jpg)
-
-_20170304110023\_1.jpg_
+![20170304110023 1](../assets/20170304110023_1.jpg)
 
 **Location**
 
-![](../assets/Waterfall_%28Forlorn_Muskeg%29_Location.png)
-
-_Waterfall\_(Forlorn\_Muskeg)\_Location.png_
+![Waterfall (Forlorn Muskeg) Location](../assets/Waterfall_%28Forlorn_Muskeg%29_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

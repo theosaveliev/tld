@@ -11,13 +11,11 @@
 - [Effects](#effects)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Heat Pack** / ![](../assets/Heat_Pack_icon.png) / _Heat\_Pack\_icon.png_ / **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) / **Wintermute:** [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) / **Renewable:** Yes ([Trader](./Trader.md) only) / **Properties** / **Item type:** [First Aid](./First%20Aid.md)\\|- / **Stackable:** No / **Examine:** A single-use, disposable Heat Pack. Provides a small amount of warmth when activated. / **Values** / **Weight:** 0.10 kg (0.22 lbs) / **Advanced data** / **Item key:** GEAR\_HeatPad / The **Heat Pack** is a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_ in [Survival Mode](./Survival%20Mode.md). They also appear in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
+<br>**Heat Pack**<br>![Heat Pack icon](../assets/Heat_Pack_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [First Aid](./First%20Aid.md)\\|-<br>**Stackable:** No<br>**Examine:** A single-use, disposable Heat Pack. Provides a small amount of warmth when activated.<br>**Values**<br>**Weight:** 0.10 kg (0.22 lbs)<br>**Advanced data**<br>**Item key:** GEAR\_HeatPad<br>The **Heat Pack** is a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_ in [Survival Mode](./Survival%20Mode.md). They also appear in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
 ## Overview
 
@@ -44,13 +42,13 @@ Despite the Affliction description stating that the Heat Pack is tucked into the
 
 Up to 5 Heat Packs can be traded for at once at the price of:
 
-- 10 ![](../assets/Coal_icon.png) [Coal](./Coal.md)
-- 15 ![](../assets/Stick_icon.png) [Stick](./Stick.md)
+- 10 ![Coal icon](../assets/Coal_icon.png) [Coal](./Coal.md)
+- 15 ![Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md)
 
 With discount:
 
-- 7 ![](../assets/Coal_icon.png) [Coal](./Coal.md)
-- 12 ![](../assets/Stick_icon.png) [Stick](./Stick.md)
+- 7 ![Coal icon](../assets/Coal_icon.png) [Coal](./Coal.md)
+- 12 ![Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md)
 
 ## Effects
 

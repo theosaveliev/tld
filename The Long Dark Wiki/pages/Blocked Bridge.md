@@ -4,15 +4,11 @@
 
 **Blocked Bridge**
 
-![](../assets/Blockedbridge.jpg)
-
-_Blockedbridge.jpg_
+![Blockedbridge](../assets/Blockedbridge.jpg)
 
 **Location**
 
-![](../assets/Blocked_Bridge_Location.png)
-
-_Blocked\_Bridge\_Location.png_
+![Blocked Bridge Location](../assets/Blocked_Bridge_Location.png)
 
 Region
 

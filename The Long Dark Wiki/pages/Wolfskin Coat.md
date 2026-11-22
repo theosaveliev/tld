@@ -11,9 +11,7 @@
 
 **Wolfskin Coat**
 
-![](../assets/Wolfskin_Coat_icon.png)
-
-_Wolfskin\_Coat\_icon.png_
+![Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png)
 
 **General**
 
@@ -21,21 +19,21 @@ _Wolfskin\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)4.0 °C(7.2 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)60%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)60%
 
-**Protection:** ![](../assets/Protection_icon.png)12%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)12%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-15%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-15%
 
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 90 minutes
+**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>90 minutes
 
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 30% condition
+**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>120 minutes<br>30% condition
 
 > “**Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.**”
 >
@@ -77,15 +75,9 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 ![Clothing model icon](../assets/Wolfskin_Coat_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Wolfskin_Coat_Model_Damaged_icon.png)
 
-_Clothing model icon damaged_
-
 ![Old model.](../assets/Wolfskin_Coat_-_back.png)
-
-_Old model._
 
 ## Update history
 

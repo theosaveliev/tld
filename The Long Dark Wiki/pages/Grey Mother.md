@@ -17,9 +17,7 @@
 
 **Grey Mother**
 
-![](../assets/Grey_Mother.png)
-
-_Grey\_Mother.png_
+![Grey Mother](../assets/Grey_Mother.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
@@ -39,7 +37,7 @@ _Grey\_Mother.png_
 
 **Hometown:** [Milton](./Milton.md)
 
-**Relatives:** **•** [Martin Barker](./Martin%20Barker.md) (ex-Husband) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
+**Relatives:** **•** [Martin Barker](./Martin%20Barker.md) (ex-Husband)<br>**•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
 
 **Physical Information**
 
@@ -95,18 +93,14 @@ Grey Mother seemingly passed away in her home in the time since MacKenzie left M
 
 ## Achievements
 
-- ![](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
-- ![](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
+- ![The Long Winter icon](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
+- ![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
 
 ## Gallery
 
 ![Steam Trading Card](../assets/Grey_Mother_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
 ![Ditto, full screen](../assets/Grey_Mother_Steam_Card.jpg)
-
-_Ditto, full screen_
 
 ![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg)
 
@@ -114,19 +108,11 @@ _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%2
 
 ![Grey Mother's family](../assets/Grey_mother_picture.png)
 
-_Grey Mother's family_
-
-![](../assets/Grey_Mother.jpg)
-
-_Grey\_Mother.jpg_
+![Grey Mother](../assets/Grey_Mother.jpg)
 
 ![Grey Mother aiming her weapon at Mackenzie in their first encounter](../assets/Grey_mother_gun.jpg)
 
-_Grey Mother aiming her weapon at Mackenzie in their first encounter_
-
 ![Grey Mother's Cut Trust menu](../assets/GreyMotherTrustOutdated.jpg)
-
-_Grey Mother's Cut Trust menu_
 
 ## Update history
 

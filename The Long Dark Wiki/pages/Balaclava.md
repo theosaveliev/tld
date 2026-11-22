@@ -4,9 +4,7 @@
 
 **Balaclava**
 
-![](../assets/Balaclava_icon.png)
-
-_Balaclava\_icon.png_
+![Balaclava icon](../assets/Balaclava_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Balaclava\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![](../assets/Protection_icon.png)3%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
 
 > “**Full wool head covering with holes for the eyes and mouth. Warm, even if a bit sinister looking.**”
 >
@@ -46,15 +44,9 @@ Despite this, the balaclava is just as good as the [Wool Toque](./Wool%20Toque.m
 
 ![Clothing model](../assets/Balaclava_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Balaclava_Model_Damaged_icon.png)
 
-_Clothing model damaged_
-
 ![Balaclava v1.92](../assets/Balaclava-full.jpg)
-
-_Balaclava v1.92_
 
 ![Balaclava in the clothing interface. (click to enlarge)](../assets/Clothing_interface_old.png)
 

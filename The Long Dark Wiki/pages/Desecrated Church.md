@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Indoor locations, Locations, Locations in Port Remnant · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Desecrated_Church)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Desecrated Church** / \[\[File: / ![Outside](../assets/Desecrated_Church.jpg) / _Outside_ / ![Inside](../assets/Desecrated_Church_Inside_2.jpg) / _Inside_ / ![Inside](../assets/Desecrated_Church_Inside.jpg) / _Inside_ / 250px\]\] / **Location** / ![](../assets/Desecrated_Church_Location.png) / _Desecrated\_Church\_Location.png_ / Region / [Port Remnant](./Port%20Remnant.md)\\|- / Location / **Description:** A church ruined by strange whale based graffiti. / **General** / Has an interior\ **Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
+<br>**Desecrated Church**<br>![Outside](../assets/Desecrated_Church.jpg)<br>![Inside](../assets/Desecrated_Church_Inside_2.jpg)<br>![Inside](../assets/Desecrated_Church_Inside.jpg)<br>250px\]\]<br>**Location**<br>![Desecrated Church Location](../assets/Desecrated_Church_Location.png)<br>Region<br>[Port Remnant](./Port%20Remnant.md)\\|-<br>Location<br>**Description:** A church ruined by strange whale based graffiti.<br>**General**<br>Has an interior\ **Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

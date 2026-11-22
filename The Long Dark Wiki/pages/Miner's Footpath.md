@@ -4,15 +4,11 @@
 
 **Miner's Footpath**
 
-![](../assets/Miner%27s_Footpath.jpg)
-
-_Miner's\_Footpath.jpg_
+![Miner's Footpath](../assets/Miner%27s_Footpath.jpg)
 
 **Location**
 
-![](../assets/Miner%27s_Footpath_Location.png)
-
-_Miner's\_Footpath\_Location.png_
+![Miner's Footpath Location](../assets/Miner%27s_Footpath_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

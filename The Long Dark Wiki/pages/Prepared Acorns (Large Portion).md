@@ -11,7 +11,7 @@
 
 **Prepared Acorns (Large Portion)**
 
-\[\[File: / ![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) / _Large Portion_
+![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png)
 
 250px\]\]
 

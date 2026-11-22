@@ -4,15 +4,11 @@
 
 **Lake Overlook**
 
-![](../assets/Mystery_Lake_Overlook.jpg)
-
-_Mystery\_Lake\_Overlook.jpg_
+![Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg)
 
 **Location**
 
-![](../assets/Lake_Overlook_Location.png)
-
-_Lake\_Overlook\_Location.png_
+![Lake Overlook Location](../assets/Lake_Overlook_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -26,7 +22,7 @@ This can be a very useful location for fighting Cabin Fever in Interloper if the
 
 ## Access
 
-![Green are rope climb spots, orange area outlines accessible area after the first climb, orange circle is the entrance to the cave, the arrow points the direction to location discovery.](../assets/Lake_Overview.jpg)_Green are rope climb spots, orange area outlines accessible area after the first climb, orange circle is the entrance to the cave, the arrow points the direction to location discovery._ The most direct route to reach the location is to climb two ropes up from near Mystery's Lake's southern access (along the river). There is a camping spot on the ledge between the two climbs. The other ways to reach the location involve hiking, either up through the forest opposite the Camp Office, or along the ridge from the direction of the Log Sort. ![](../assets/20160516235337_1.jpg) ![](../assets/20160516235354_1.jpg)
+![Green are rope climb spots, orange area outlines accessible area after the first climb, orange circle is the entrance to the cave, the arrow points the direction to location discovery.](../assets/Lake_Overview.jpg)_Green are rope climb spots, orange area outlines accessible area after the first climb, orange circle is the entrance to the cave, the arrow points the direction to location discovery._ The most direct route to reach the location is to climb two ropes up from near Mystery's Lake's southern access (along the river). There is a camping spot on the ledge between the two climbs. The other ways to reach the location involve hiking, either up through the forest opposite the Camp Office, or along the ridge from the direction of the Log Sort. ![20160516235337 1](../assets/20160516235337_1.jpg) ![20160516235354 1](../assets/20160516235354_1.jpg)
 
 ## Trivia
 

@@ -85,13 +85,9 @@ There was a tool called a [Brand](./Brand.md) in the early Alpha that was just a
 
 It was eventually cut in the Faithful Cartographer update and replaced by taking [Torches](./Torch.md) out of fireboxes instead. This item is still in the Wintermute game files.
 
-![](../assets/Brand_description.png)
+![Brand description](../assets/Brand_description.png)
 
-_Brand\_description.png_
-
-![](../assets/Brand_light.png)
-
-_Brand\_light.png_
+![Brand light](../assets/Brand_light.png)
 
 ### Brandishing
 
@@ -105,13 +101,9 @@ It can be found in the mission [Memories](./Memories.md) in [Episode 1: Do Not G
 
 Raph responded that this item was meant to be used for 'internal purposes' and never meant to be in public game. [https://hinterlandforums.com/forums/topic/47078-april-dev-diary/page/6/#findComment-297548 source](https://hinterlandforums.com/forums/topic/47078-april-dev-diary/page/6/#findComment-297548_source)
 
-![](../assets/Shovel.jpg)
-
-_Shovel.jpg_
+![Shovel](../assets/Shovel.jpg)
 
 ![The Alpha Main menu, with a shovel for the Snow Shelter icon](../assets/Alpha_main_menu.jpg)
-
-_The Alpha Main menu, with a shovel for the Snow Shelter icon_
 
 ![The shovel in Memories](../assets/Shovel_Memories.jpg)
 
@@ -119,11 +111,7 @@ _The shovel in [Memories](./Memories.md)_
 
 ![The shovel on the title screen of Penitent Scholar](../assets/Penitent_Scholar_Title_Screen.jpg)
 
-_The shovel on the title screen of Penitent Scholar_
-
 ![In the 4DON main menu](../assets/The_Long_Dark_Halloween_main_menu_theme.jpg)
-
-_In the 4DON main menu_
 
 ### Fire Axe
 
@@ -135,13 +123,9 @@ A Fire Axe remains in the game files as far back as 2015, but cannot be found ou
 
 Raphael von Lierop, creative lead of the game, responded that the item was used for prop only. [https://hinterlandforums.com/forums/topic/47078-april-dev-diary/page/6/#findComment-297548 source](https://hinterlandforums.com/forums/topic/47078-april-dev-diary/page/6/#findComment-297548_source). 2 Fire Axes appear on the [Fukkatsu Maru](./Fukkatsu%20Maru.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) (2026), but it is treated as an environmental prop and cannot be used.
 
-![](../assets/Fire_axe_icon.png)
+![Fire axe icon](../assets/Fire_axe_icon.png)
 
-_Fire\_axe\_icon.png_
-
-![](../assets/Fire_Axe_Episode_5.jpg)
-
-_Fire\_Axe\_Episode\_5.jpg_
+![Fire Axe Episode 5](../assets/Fire_Axe_Episode_5.jpg)
 
 ### Compression Bandage
 
@@ -151,9 +135,7 @@ _Fire\_Axe\_Episode\_5.jpg_
 
 There is an item in the Wintermute game files called the Compression Bandage. It has no Backpack model, and can only be dropped. It was likely replaced by the regular [Bandage](./Bandage.md), and may have been used to heal Sprains.
 
-![](../assets/Compression_Bandage.png)
-
-_Compression\_Bandage.png_
+![Compression Bandage](../assets/Compression_Bandage.png)
 
 ### Charcoal Accelerant
 
@@ -165,15 +147,9 @@ There is an item in the Wintermute game files called the Accelerant, but it is d
 
 ![Item description](../assets/Charcoal_Accelerant_Description.png)
 
-_Item description_
-
-![](../assets/Accelerant_Charcoal.png)
-
-_Accelerant\_Charcoal.png_
+![Accelerant Charcoal](../assets/Accelerant_Charcoal.png)
 
 ![A regular Accelerant compared to the unused one.](../assets/Accelerant_Charcoal_Ref.png)
-
-_A regular Accelerant compared to the unused one._
 
 ### Flint and Steel
 
@@ -185,19 +161,13 @@ There is an item in the Wintermute game files called the Flint and Steel. It is 
 
 ![The 3d model](../assets/Flint_and_Steel_Tool.png)
 
-_The 3d model_
-
 ![Possible scrapped icon](../assets/Flint_icon.png)
-
-_Possible scrapped icon_
 
 ### Heated Car Seats
 
 An option for Heated Seats would appear during an Aurora inside several trucks in [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) following the Perilous Constraint update. Hovering over the dashboard would make the option appear, but ultimately did not raise the player's [Warmth](./Warmth.md) since the feature was not complete (given the obvious string of gameplay code presented). The option was ultimately removed in a patch, and Heated Seats as a potential mechanic have yet to return.
 
 ![The Heated Seats option](../assets/Heated_Seats.png)
-
-_The Heated Seats option_
 
 ### Dark Room
 
@@ -207,23 +177,17 @@ The [Camera](./Camera.md) was originally teased as "A Photo Mode for THE LONG DA
 
 ![The teaser image for the Camera and Dark Room](../assets/Icon-camera-and-dark-room.svg)
 
-_The teaser image for the Camera and Dark Room_
-
 ### Carriable Wolf Carcass
 
 A unique [Ravaged Wolf Carcass](./Wolf%20Carcass.md) item exists in the game files for Survival Mode that features [Carcass Harvesting](./Carcass%20Harvesting.md). Normally only small carcasses of Rabbit or Ptarmigan can be transported, but this one is unique in that it can be transported in the backpack and can be fully harvested at any time, similar to animal Quarters (but meat, gut, and hide can be harvested). This item likely exists for development testing purposes, since it weighs 0.00 KG.
 
-![](../assets/Wolf_carcass_icon.png)
-
-_Wolf\_carcass\_icon.png_
+![Wolf carcass icon](../assets/Wolf_carcass_icon.png)
 
 ### Fresh Leather
 
 An [uncured](./Curing.md) variant of [Cured Leather](./Cured%20Leather.md) was originally present in the earlier builds of the game and was present past the 1.00 launch of the game. [Fresh Leather](./Fresh%20Leather.md) was originally harvested from animals instead of animal hides, and would cure indoors for 5 days before becoming Cured Leather. Eventually animal hides would replace Fresh Leather, but the item could occasionally be found in the game world, with indoor spawns of the items eventually turning into Cured Leather over time. This item has ultimately been removed from the game's loot tables in Survival Mode, and is impossible to find anywhere without console commands, and only appears in Survival Mode.
 
-![](../assets/Fresh_Leather.jpg)
-
-_Fresh\_Leather.jpg_
+![Fresh Leather](../assets/Fresh_Leather.jpg)
 
 ### Pumpkin Pie and 2500 Calorie Chocolate Bar
 
@@ -233,27 +197,15 @@ A second version of the Pumpkin Pie would appear in the 2020 [Escape the Darkwal
 
 ![Pumpkin Pie](../assets/Pumpkin_Pie_icon.png)
 
-_Pumpkin Pie_
-
 ![4DON version](../assets/Pumpkin_pie.png)
-
-_4DON version_
 
 ![Escape the Darkwalker 2020 event version](../assets/Pumpkin_Pie_Darkwalker.png)
 
-_Escape the Darkwalker 2020 event version_
-
 ![Jack o Lanterns](../assets/4DON_pumpkin_cache.png)
-
-_Jack o Lanterns_
 
 ![The 2500 Candy Bars](../assets/CandyBowl.jpg)
 
-_The 2500 Candy Bars_
-
-![](../assets/Nutsnstuff.jpg)
-
-_Nutsnstuff.jpg_
+![Nutsnstuff](../assets/Nutsnstuff.jpg)
 
 ## Past Events
 
@@ -277,31 +229,23 @@ _Nutsnstuff.jpg_
 
 ![4 Days of Night](../assets/4DON_titlecard.jpg)
 
-_4 Days of Night_
-
-![](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
+![The Long Dark 4 Days of Night 2018 (Halloween Event)](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
 
 _The\_Long\_Dark\_--\_4\_Days\_of\_Night\_2018\_(Halloween\_Event)_
 
-![](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
+![The Long Dark 4 Days of Night (Halloween Event)](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
 
 _The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)_
 
 ![Winter's Embrace](../assets/Winters_embrace_poster.png)
 
-_Winter's Embrace_
-
 ![Escape the Darkwalker](../assets/Darkwalker-Blog-Featured-Img.png)
-
-_Escape the Darkwalker_
 
 ## Early Survival Mode
 
 ### Struggle
 
 ![The early Struggle menu](../assets/Alpha_Wolf_Struggle.jpg)
-
-_The early Struggle menu_
 
 When the Long Dark entered in Early Access, [Struggle](./Struggle.md) with hostile [Wildlife](./Wildlife.md) underwent several changes throughout its development.
 
@@ -421,8 +365,6 @@ _[Wool Toque](./Wool%20Toque.md)_
 
 ![Basic Winter Coat](../assets/Basic_winter_coat_%28historical%29.png)
 
-_Basic Winter Coat_
-
 ![Fleece Sweater (Cowichan Sweater)](../assets/Fleece_sweater_%28historical%29.png)
 
 _Fleece Sweater ([Cowichan Sweater](./Cowichan%20Sweater.md))_
@@ -507,8 +449,6 @@ _[Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)_
 
 ![ditto, icon](../assets/Cup_of_herbal_tea_icon_old.png)
 
-_ditto, icon_
-
 ![Cup of Coffee](../assets/Cup_of_coffee.png)
 
 _[Cup of Coffee](./Cup%20of%20Coffee.md)_
@@ -583,11 +523,7 @@ _Old water bottle for [Water (Potable)](./Water%20%28Potable%29.md) or [Water (U
 
 ![Old 500ml icon (small bottle)](../assets/Water500ml.png)
 
-_Old 500ml icon (small bottle)_
-
 ![Old 1000ml icon (Large bottle)](../assets/Water1000ml.png)
-
-_Old 1000ml icon (Large bottle)_
 
 ![Water (Unsafe)](../assets/Water_%28unsafe%29.png)
 
@@ -661,15 +597,11 @@ _[Rose Hip Tea](./Rose%20Hip%20Tea.md)_
 
 ![ditto, icon](../assets/Rose_hip_tea_icon_old.png)
 
-_ditto, icon_
-
 ![Reishi Tea](../assets/Reishi_Tea.png)
 
 _[Reishi Tea](./Reishi%20Tea.md)_
 
 ![ditto, icon](../assets/Reishi_tea_icon_old.png)
-
-_ditto, icon_
 
 ![Sewing Kit](../assets/Sewing_kit_old_model.png)
 
@@ -805,8 +737,6 @@ _[Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)_
 
 ![Deer Pelt](../assets/Deer_Hide_old_icon.png)
 
-_Deer Pelt_
-
 ![Arrowhead](../assets/Arrowhead.png)
 
 _[Arrowhead](./Arrowhead.md)_
@@ -841,8 +771,6 @@ Most of the [Survival Menu](./Survival%20Menu.md) backgrounds have changed from 
 
 ![Skills Journal](../assets/Skills_journal3.png)
 
-_Skills Journal_
-
 ![Coming Storm Almanac](../assets/Almanac.png)
 
 _[Coming Storm](./Coming%20Storm.md) [Almanac](./Almanac.md)_
@@ -853,27 +781,15 @@ _[Forge](./Forge.md) Menu_
 
 ![Locations menu](../assets/Summary_sample.jpg)
 
-_Locations menu_
-
 ![Days survived menu](../assets/LogBook_sample.jpg)
-
-_Days survived menu_
 
 ![Old Status menu](../assets/Survival_page.jpg)
 
-_Old Status menu_
-
 ![ditto](../assets/Survival_page.png)
-
-_ditto_
 
 ![ditto](../assets/Old_Status_menu_2.png)
 
-_ditto_
-
 ![ditto](../assets/Old_Status_menu.png)
-
-_ditto_
 
 ![Nomad Challenge menu](../assets/Nomad.png)
 
@@ -885,23 +801,13 @@ _Nomad [Challenge](./Challenge.md) selection screen_
 
 ![Clothing Interface (2017)](../assets/Clothing_interface_old.png)
 
-_Clothing Interface (2017)_
-
 ![The Radial Menu underwent a complete overhaul in the Faithful Cartographer update.](../assets/Radialmenu.jpg)
-
-_The Radial Menu underwent a complete overhaul in the Faithful Cartographer update._
 
 ![Old Backpack inventory menu](../assets/Old_Backpack_Menu.png)
 
-_Old Backpack inventory menu_
-
 ![Ditto](../assets/Ruined_flare.png)
 
-_Ditto_
-
 ![Old Map location ui](../assets/Old_Map_ui.jpg)
-
-_Old Map location ui_
 
 ![Old Hunting Rifle ammo ui](../assets/Rifle_load.png)
 
@@ -913,8 +819,6 @@ _Old [Survival Overlay](./Survival%20Overlay.md)_
 
 ![ditto](../assets/Survival_Overlay_old.png)
 
-_ditto_
-
 ![Old Needs HUD](../assets/Needs_old.png)
 
 _Old [Needs](./Needs.md) HUD_
@@ -923,9 +827,7 @@ _Old [Needs](./Needs.md) HUD_
 
 The survival skills originally did not have a dedicated menu, but instead appeared when they were leveled up similarly to [Secondary Skills](./Skills.md#Secondary_skills). Eventually players could see their survival skills in the "basic skills" tab in a book, before it was changed to a modern-style book.
 
-![](../assets/Skills_journal3.png)
-
-_Skills\_journal3.png_
+![Skills journal3](../assets/Skills_journal3.png)
 
 ### Clock and Time of day
 
@@ -962,19 +864,11 @@ In the pre Redux version of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md
 
 ![Jeremiah getting out of bed to open the floor panel](../assets/Jeremiah_Floor_Hatch_Opening.jpg)
 
-_Jeremiah getting out of bed to open the floor panel_
-
 ![The Ham Radio in the floor panel was eventually reworked into the Redux version](../assets/Trapper%27s_Cabin_Hidden_Ham_Radio.jpg)
-
-_The Ham Radio in the floor panel was eventually reworked into the Redux version_
 
 ![The current hatch as seen in Redux Episode 2, though it cannot be opened](../assets/Trapper%27s_Homestead_hidden_hatch.jpg)
 
-_The current hatch as seen in Redux Episode 2, though it cannot be opened_
-
 ![The hidden ham radio is now on the work bench in the Redux version](../assets/Episode_2_radio.jpg)
-
-_The hidden ham radio is now on the work bench in the Redux version_
 
 ### Side Missions
 
@@ -987,8 +881,6 @@ Several side missions were cut or reworked into the Redux version of Episode 1 a
 ### Trust
 
 ![An example of the old Trust trading menu.](../assets/Trust_menu.jpg)
-
-_An example of the old Trust trading menu._
 
 > “**Trust. A hard thing to come by these days. Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.**”
 >
@@ -1058,15 +950,9 @@ The following would have unlocked as Trust continued to increase:
 
 ![The Journal Trust Menu for Grey Mother](../assets/GreyMotherTrustOutdated.jpg)
 
-_The Journal Trust Menu for Grey Mother_
-
 ![Jeremiah's Trust info](../assets/Jeremiah_Trust_Menu.jpg)
 
-_Jeremiah's Trust info_
-
 ![Ditto](../assets/Jeremiah_Trust_Menu_bed.jpg)
-
-_Ditto_
 
 ### 3Rd Person Cutscenes
 
@@ -1075,8 +961,6 @@ With the original Predux release of Episode 1 and 2, Mackenzie would appear in 3
 Following the Redux updates, all cutscenes were replaced with a first person perspective and were completely redesigned from Makenzie's perspective. All cutscenes in future Episodes still feature first person character interactions to date.
 
 ![Mackenzie finding the Crashed Prison Bus and activating a 3rd person cutscene](../assets/PrisonBus2.jpg)
-
-_Mackenzie finding the Crashed Prison Bus and activating a 3rd person cutscene_
 
 ### Jeremiah's Bearskin Coat
 
@@ -1092,23 +976,15 @@ The bolt cutters were removed from the game entirely after the Redux update, how
 
 ![Old icon](../assets/Bolt_Cutters_old.png)
 
-_Old icon_
-
 ![Current icon](../assets/Bolt_Cutters_icon.png)
-
-_Current icon_
 
 #### Jeremiah's Knife
 
 [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) was a tool found exclusively in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). It was removed from Episode and the game entirely after the Redux update, however the icon can still be seen occasionally in Survival Mode when crafting at a Work Bench. The knife is still present as a spawnable object in the Wintermute game files. It has been seen in an official trailer as late as December 5th 2023, as well as an icon for Misery Mode during the May 13th 2024 News update.
 
-![](../assets/Jeremiah%27s_Knife_icon.png)
-
-_Jeremiah's\_Knife\_icon.png_
+![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
 
 ![The knife in the Misery Mode icon](../assets/Misery_Mode.jpg)
-
-_The knife in the Misery Mode icon_
 
 #### Jeremiah's Broken Rifle and Hunting Lodge Rifle
 
@@ -1116,19 +992,11 @@ Jeremiah's rifle originally breaks after Mackenzie fires it at the end of Episod
 
 ![menu ui model](../assets/Hunting_Lodge_Rifle_menu.jpg)
 
-_menu ui model_
-
 ![The Hunting Lodge Rifle in the Hunting Lodge](../assets/Hunting_Lodge_Rifle_Rack.jpg)
-
-_The Hunting Lodge Rifle in the Hunting Lodge_
 
 ![Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png)
 
-_Hunting Lodge Rifle icon_
-
 ![Jeremiah's Broken/Repaired Rifle icon](../assets/Jeremiah%27s_Broken_Rifle_icon.png)
-
-_Jeremiah's Broken/Repaired Rifle icon_
 
 ### Cut Collectibles
 
@@ -1147,15 +1015,9 @@ Episode 2
 
 ![The Ear after killing the Old Bear](../assets/The_Old_Bear%27s_Ear.jpg)
 
-_The Ear after killing the Old Bear_
-
 ![collectible icon](../assets/The_Old_Bear%27s_Ear_icon.png)
 
-_collectible icon_
-
 ![Jeremiah's Papers](../assets/Jeremiah%27s_Papers_icon.png)
-
-_Jeremiah's Papers_
 
 ## Early Item Designs
 
@@ -1165,15 +1027,9 @@ _Jeremiah's Papers_
 
 ![Early Revolver, Ammunitions, Cartridges, and Casings](../assets/Pre_Alpha_Revolver.webp)
 
-_Early Revolver, Ammunitions, Cartridges, and Casings_
-
 ![Early Bear Spear teaser image](../assets/Early_Bear_Spear.png)
 
-_Early Bear Spear teaser image_
-
 ![Early Spray Paint](../assets/Spray-can-comp.jpg)
-
-_Early Spray Paint_
 
 ## Unused Icons/Textures
 
@@ -1184,11 +1040,7 @@ Several icons/textures for items can be found in the game files as far back as t
 
 ![Mountain Goat Feat (added 2019)](../assets/Badge_feat_MountainGoat.png)
 
-_Mountain Goat Feat (added 2019)_
-
 ![Expert Crafter Feat](../assets/Badge_feat_ExpertCrafter.png)
-
-_Expert Crafter Feat_
 
 ![Tin of Coffee cut texture](../assets/GEAR_CoffeeTin_Dif.png)
 
@@ -1224,63 +1076,33 @@ _[Salty Crackers](./Salty%20Crackers.md) cut texture_
 
 ![Wolf Carcass](../assets/Wolf_carcass_icon.png)
 
-_Wolf Carcass_
-
 ![Newsprint Insulation](../assets/Ico_GearItem_Newsprint_Insulation.png)
-
-_Newsprint Insulation_
 
 ![Fire Axe](../assets/Fire_axe_icon.png)
 
-_Fire Axe_
-
 ![The Fire Axe seen in a promotional image circa 2015](../assets/The_Long_Dark_Key_Art-1500px.png)
-
-_The Fire Axe seen in a promotional image circa 2015_
 
 ![Fishing Line](../assets/Fishing_line_icon.png)
 
-_Fishing Line_
-
 ![Leather Strips](../assets/Leather_Strips_icon.png)
-
-_Leather Strips_
 
 ![Nylon](../assets/Nylon_icon.png)
 
-_Nylon_
-
 ![Revolver 44 Mag Bullet](../assets/Revolver_44_Mag_Bullet_icon.png)
-
-_Revolver 44 Mag Bullet_
 
 ![Rifle Bullet](../assets/Rifle_Ammo_Single_Bullet_icon.png)
 
-_Rifle Bullet_
-
 ![Cloth Sheet](../assets/Cloth_Sheet_icon.png)
-
-_Cloth Sheet_
 
 ![Unknown Socks icon (Possibly Improvised Socks)](../assets/Unknown_cut_shoe_icon.png)
 
-_Unknown Socks icon (Possibly Improvised Socks)_
-
 ![ditto, damaged](../assets/Unknown_cut_shoe_damaged_icon.png.png)
-
-_ditto, damaged_
 
 ![Unknown Socks icon (possibly Technical Socks)](../assets/Unknown_cut_shoe_icon_2.png.png)
 
-_Unknown Socks icon (possibly Technical Socks)_
-
 ![Ditto](../assets/Unknown_cut_shoe_icon_2_damaged.png.png)
 
-_Ditto_
-
 ![Journal Texture](../assets/Journal_Texture_icon.png)
-
-_Journal Texture_
 
 \[Missing image: Cat\_Tail\_plant.png\]
 
@@ -1288,11 +1110,7 @@ _Cat Tail Plant_
 
 ![Lean To](../assets/Lean_To_icon.png)
 
-_Lean To_
-
 ![Pickled Eggs](../assets/GEAR_Pickled_Eggs.png)
-
-_Pickled Eggs_
 
 ![Alternate Cereal box](../assets/GEAR_Cereal_B.png)
 
@@ -1300,27 +1118,15 @@ _Alternate [Cereal](./Cereal.md) box_
 
 ![Dried Mangos](../assets/GEAR_DriedMangos.png)
 
-_Dried Mangos_
-
 ![Pickled Onions](../assets/GEAR_Pickled_Onions.png)
-
-_Pickled Onions_
 
 ![Canned Peas and Carrots](../assets/GEAR_FoodCannedPeasAndCarrots_Dif.png)
 
-_Canned Peas and Carrots_
-
 ![Canned Bean Brothers](../assets/GEAR_FoodCannedBeansBrothers_Dif.png)
-
-_Canned Bean Brothers_
 
 ![Pemmican Oil](../assets/OBJ_PemmicanOil.png)
 
-_Pemmican Oil_
-
 ![Fishing Line Texture](../assets/GEAR_FishingLineHook_Dif.png)
-
-_Fishing Line Texture_
 
 ![Possible alternate Revolver](../assets/RevolverFlat_Dif.png)
 
@@ -1328,43 +1134,23 @@ _Possible alternate [Revolver](./Revolver.md)_
 
 ![Deerskin Hat](../assets/DeerSkinHat.png)
 
-_Deerskin Hat_
-
 ![Deerskin Coat](../assets/DeerSkinCoat.png)
-
-_Deerskin Coat_
 
 ![Deerskin Gloves](../assets/DeerSkinGloves.png)
 
-_Deerskin Gloves_
-
 ![Episode 5 Medical Clinic Clipboard](../assets/Ico_GearItem_ClipBoard_Medical_Clinic_A.png)
-
-_Episode 5 Medical Clinic Clipboard_
 
 ![Episode 5 Police Report](../assets/Ico_GearItem_Ep5PMills_Police_Report_Memo_A.png)
 
-_Episode 5 Police Report_
-
 ![Episode 5 Desperation Bay Map](../assets/Ico_GearItem_DespBay_Map.png)
-
-_Episode 5 Desperation Bay Map_
 
 ![Episode 5 Ship Doctor ID](../assets/Ico_GearItem_Cargo_Ship_Doctor_ID.png)
 
-_Episode 5 Ship Doctor ID_
-
 ![Episode 5 Ship Doctor Ledger](../assets/Ico_GearItem_Doctor_Larsen_Diary_A.png)
-
-_Episode 5 Ship Doctor Ledger_
 
 ![Episode 5 Ship Sickbay Note](../assets/Ico_GearItem_DespBay_SickBayNote.png)
 
-_Episode 5 Ship Sickbay Note_
-
 ![Episode 5 Steam Train Brake Lever](../assets/Ico_GearItem_TrainBrakeLever.png)
-
-_Episode 5 Steam Train Brake Lever_
 
 ![Episode 5 Alternative Supply Room Key](../assets/Ico_GearItem_OBJ_SuzukiSupplyRoomKey.png)
 
@@ -1382,57 +1168,43 @@ A list of achievements that were cut from the game include:
 
 **Description**
 
-![](../assets/Two_for_Two.jpg)
-
-_Two\_for\_Two.jpg_
+![Two for Two](../assets/Two_for_Two.jpg)
 
 **[Two for Two](./Two%20for%20Two.md)**
 
 Survive for 2 days in a single Survival Mode game.
 
-![](../assets/Wolfbait.jpg)
-
-_Wolfbait.jpg_
+![Wolfbait](../assets/Wolfbait.jpg)
 
 **[Wolfbait](./Wolfbait.md)**
 
 Survive 5 days in a single Survival Mode game.
 
-![](../assets/It%27s_Getting_Cold_Out_There.jpg)
-
-_It's\_Getting\_Cold\_Out\_There.jpg_
+![It's Getting Cold Out There](../assets/It%27s_Getting_Cold_Out_There.jpg)
 
 **[It's Getting Cold Out There](./It%27s%20Getting%20Cold%20Out%20There.md)**
 
 Survive 15 days in a single Survival Mode game.
 
-![](../assets/Tough_as_Nails.jpg)
-
-_Tough\_as\_Nails.jpg_
+![Tough as Nails](../assets/Tough_as_Nails.jpg)
 
 **[Tough as Nails](./Tough%20as%20Nails.md)**
 
 Survive 20 days in a single Survival Mode game.
 
-![](../assets/You_Prep_the_Preppers.jpg)
-
-_You\_Prep\_the\_Preppers.jpg_
+![You Prep the Preppers](../assets/You_Prep_the_Preppers.jpg)
 
 **[You Prep the Preppers](./You%20Prep%20the%20Preppers.md)**
 
 Survive 30 days in a single Survival Mode game.
 
-![](../assets/Master_Survivor.jpg)
-
-_Master\_Survivor.jpg_
+![Master Survivor](../assets/Master_Survivor.jpg)
 
 **[Master Survivor](./Master%20Survivor.md)**
 
 Survive 40 days in a single Survival Mode game.
 
-![](../assets/One_With_Nature.jpg)
-
-_One\_With\_Nature.jpg_
+![One With Nature](../assets/One_With_Nature.jpg)
 
 **[One With Nature](./One%20With%20Nature.md)**
 
@@ -1446,121 +1218,91 @@ The following achievements were kept but received a new achievement icon:
 
 **Description**
 
-![](../assets/The_First_of_Many_old_icon.webp)
-
-_The\_First\_of\_Many\_old\_icon.webp_
+![The First of Many old icon](../assets/The_First_of_Many_old_icon.webp)
 
 **First of Many**
 
 Survive for 1 day in a single Survival Mode game.
 
-![](../assets/You_Made_It!_old_icon.webp)
-
-_You\_Made\_It!\_old\_icon.webp_
+![You Made It! old icon](../assets/You_Made_It!_old_icon.webp)
 
 **You Made It!**
 
 Survive 10 days in a single Survival Mode game.
 
-![](../assets/Ready_for_when_the_SHTF!_old_icon.webp)
-
-_Ready\_for\_when\_the\_SHTF!\_old\_icon.webp_
+![Ready for when the SHTF! old icon](../assets/Ready_for_when_the_SHTF!_old_icon.webp)
 
 **Ready for when the SHTF!**
 
 Survive for 50 days in a single Survival Mode game.
 
-![](../assets/Centurion_old_icon.webp)
-
-_Centurion\_old\_icon.webp_
+![Centurion old icon](../assets/Centurion_old_icon.webp)
 
 **Centurion**
 
 Survive for 100 days in a single Survival Mode game.
 
-![](../assets/Exploration_Game_old_icon.webp)
-
-_Exploration\_Game\_old\_icon.webp_
+![Exploration Game old icon](../assets/Exploration_Game_old_icon.webp)
 
 **Exploration Game**
 
 Visit every interior location in both [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md) (single game)
 
-![](../assets/Waste_Not%2C_Want_Not_old_icon.webp)
-
-_Waste\_Not,\_Want\_Not\_old\_icon.webp_
+![Waste Not, Want Not old icon](../assets/Waste_Not%2C_Want_Not_old_icon.webp)
 
 **Waste Not, Want Not**
 
 Harvest 10 Complete [Deer Carcasses](./Deer%20Carcass.md) (single game)
 
-![](../assets/Night_Walker_old_icon.webp)
-
-_Night\_Walker\_old\_icon.webp_
+![Night Walker old icon](../assets/Night_Walker_old_icon.webp)
 
 **Night Walker**
 
 Survive an entire Night outside (single game)
 
-![](../assets/Beneath_a_Starry_Sky_old_icon.webp)
-
-_Beneath\_a\_Starry\_Sky\_old\_icon.webp_
+![Beneath a Starry Sky old icon](../assets/Beneath_a_Starry_Sky_old_icon.webp)
 
 **Beneath a Stary Sky**
 
 Survive 3 consecutive Nights outside (single game)
 
-![](../assets/Silent_Hunter_old_icon.webp)
-
-_Silent\_Hunter\_old\_icon.webp_
+![Silent Hunter old icon](../assets/Silent_Hunter_old_icon.webp)
 
 **Silent Hunter**
 
 Survive the first 50 days without firing the [hunting rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md) or the [distress pistol](./Distress%20Pistol.md) (single game)
 
-![](../assets/Pacifist_old_icon.webp)
-
-_Pacifist\_old\_icon.webp_
+![Pacifist old icon](../assets/Pacifist_old_icon.webp)
 
 **Pacifist**
 
 Survive the first 25 days without killing anything (single game)
 
-![](../assets/It_was_THIS_Big!_old_icon.webp)
-
-_It\_was\_THIS\_Big!\_old\_icon.webp_
+![It was THIS Big! old icon](../assets/It_was_THIS_Big!_old_icon.webp)
 
 **It was THIS Big!**
 
 [Catch](./Ice%20Fishing.md) a fish weighing over 5kg (11 lbs).
 
-![](../assets/Wrapped_in_Furs_old_icon.webp)
-
-_Wrapped\_in\_Furs\_old\_icon.webp_
+![Wrapped in Furs old icon](../assets/Wrapped_in_Furs_old_icon.webp)
 
 **Wrapped in Furs**
 
 Sleep in a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) while wearing a [Wolfskin Coat](./Wolfskin%20Coat.md), [Deerskin Boots](./Deerskin%20Boots.md), and [Rabbitskin Mittens](./Rabbitskin%20Mitts.md).
 
-![](../assets/Living_Off_the_Land_old_icon.webp)
-
-_Living\_Off\_the\_Land\_old\_icon.webp_
+![Living Off the Land old icon](../assets/Living_Off_the_Land_old_icon.webp)
 
 **Living Off the Land**
 
 Survive 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)
 
-![](../assets/Natural_Healer_old_icon.webp)
-
-_Natural\_Healer\_old\_icon.webp_
+![Natural Healer old icon](../assets/Natural_Healer_old_icon.webp)
 
 **Natural Healer**
 
 Heal yourself using all types of natural [medicines](./First%20Aid.md) (single game)
 
-![](../assets/Happy_Harvester_old_icon.webp)
-
-_Happy\_Harvester\_old\_icon.webp_
+![Happy Harvester old icon](../assets/Happy_Harvester_old_icon.webp)
 
 **Happy Harvester**
 
@@ -1568,15 +1310,9 @@ Harvest 25 of each kind of plant (single game)
 
 ![All 22 achievement icons, pre V1.15.](../assets/Achievements_collage_22.png)
 
-_All 22 achievement icons, pre V1.15._
-
 ![Old Whiteout Badge](../assets/Whiteout_badge.png)
 
-_Old Whiteout Badge_
-
 ![Old Nomad Badge](../assets/Nomad_badge.png)
-
-_Old Nomad Badge_
 
 ## Discontinued Icons
 
@@ -1584,103 +1320,55 @@ _Old Nomad Badge_
 
 ![Dysentary](../assets/Dysentery.png)
 
-_Dysentary_
-
 ![Food Poisoning](../assets/Food_poisoning.png)
-
-_Food Poisoning_
 
 ![Minor Bruising](../assets/Minor_brusing_2.png)
 
-_Minor Bruising_
-
 ![Major Bruising](../assets/Clean_bruise.png)
-
-_Major Bruising_
 
 ![Laceration](../assets/Laceration_png.png)
 
-_Laceration_
-
 ![Sprained Wrist](../assets/Sprained_Wrist.png)
-
-_Sprained Wrist_
 
 ![Sprained Ankle](../assets/Clean_ankle_sprain.png)
 
-_Sprained Ankle_
-
 ![Burns](../assets/Burns.png)
-
-_Burns_
 
 ![Blood Loss](../assets/Clean_blood_loss.png)
 
-_Blood Loss_
-
 ![Frostbite](../assets/Frostbite_old.png)
-
-_Frostbite_
 
 ![Intestinal Parasites](../assets/Parasite_icon-1.png)
 
-_Intestinal Parasites_
-
 ![Hypothermia](../assets/Hypothermia.png)
-
-_Hypothermia_
 
 ![Affliction symbol present when suffering from an affliction](../assets/Afflictions_Cross_icon.png)
 
-_Affliction symbol present when suffering from an affliction_
-
 ![Symbol for no Afflictions](../assets/No_Afflictions_icon.png)
-
-_Symbol for no Afflictions_
 
 ![Fatigue Reduced](../assets/Fatigue_reduced.png)
 
-_Fatigue Reduced_
-
 ![Warming Up](../assets/Warming_up.png)
 
-_Warming Up_
-
 ![Improved Sleep](../assets/Improved_rest.png)
-
-_Improved Sleep_
 
 ### Skills
 
 ![Ice Fishing](../assets/Ice_fishing_skill_icon.png)
 
-_Ice Fishing_
-
 ![Carcass Harvesting](../assets/Carcass_harvesting_skill_icon.png)
-
-_Carcass Harvesting_
 
 ![Mending](../assets/Mending_skill_icon.png)
 
-_Mending_
-
 ![Firestarting](../assets/Firestarting_skill_icon.png)
-
-_Firestarting_
 
 ![Cooking](../assets/Cooking_skill_icon.png)
 
-_Cooking_
-
 ![Rifle Firearm Skill (Formerly named Firearms Skill)](../assets/Firearms_skill_icon.png)
-
-_Rifle Firearm Skill (Formerly named Firearms Skill)_
 
 ### Other
 
 ![Windshield](../assets/Windshield2.png)
-
-_Windshield_
 
 ### Challenge Portraits
 
@@ -1754,121 +1442,65 @@ _[Hushed River Valley](./Hushed%20River%20Valley.md)_
 
 _[Bleak Inlet](./Bleak%20Inlet.md)_
 
-![](../assets/RegionAtlas-resources.assets-562_%286%29.png)
+![RegionAtlas resources.assets 562 (6)](../assets/RegionAtlas-resources.assets-562_%286%29.png)
 
-_RegionAtlas-resources.assets-562\_(6).png_
+![Broken railroad titlecard new](../assets/Broken_railroad_titlecard_new.png)
 
-![](../assets/Broken_railroad_titlecard_new.png)
+![Coastal highway titlecard new](../assets/Coastal_highway_titlecard_new.png)
 
-_Broken\_railroad\_titlecard\_new.png_
+![Pleasant valley titlecard new](../assets/Pleasant_valley_titlecard_new.png)
 
-![](../assets/Coastal_highway_titlecard_new.png)
+![Forlorn muskeg titlecard new](../assets/Forlorn_muskeg_titlecard_new.png)
 
-_Coastal\_highway\_titlecard\_new.png_
+![Mystery lake titlecard new](../assets/Mystery_lake_titlecard_new.png)
 
-![](../assets/Pleasant_valley_titlecard_new.png)
-
-_Pleasant\_valley\_titlecard\_new.png_
-
-![](../assets/Forlorn_muskeg_titlecard_new.png)
-
-_Forlorn\_muskeg\_titlecard\_new.png_
-
-![](../assets/Mystery_lake_titlecard_new.png)
-
-_Mystery\_lake\_titlecard\_new.png_
-
-![](../assets/Desolation_point_titlecard_new.png)
-
-_Desolation\_point\_titlecard\_new.png_
+![Desolation point titlecard new](../assets/Desolation_point_titlecard_new.png)
 
 ![Broken Railroad Selection](../assets/Broken_railway_titlecard.jpg)
-
-_Broken Railroad Selection_
 
 ### Old Region Maps
 
 ![0.298 (Timberwolf Mountain Update) World Map released by Hinterland. Never officially in game](../assets/Global_map_Published_by_development_team.jpg)
 
-_0.298 (Timberwolf Mountain Update) World Map released by Hinterland. Never officially in game_
-
 ![1.00 (Wintermute Update) This was the first in game world map. Mountain Town was only available for Wintermute at the time](../assets/World_Map_1.00_%28Wintermute_Launch%29.jpg)
-
-_1.00 (Wintermute Update) This was the first in game world map. Mountain Town was only available for Wintermute at the time_
 
 ![1.16 (Rugged Sentinel Update)](../assets/Lower_Great_Bear_1.16.jpg)
 
-_1.16 (Rugged Sentinel Update)_
-
 ![1.33 (Vigilant Flame Update) World Map](../assets/Lower_Great_Bear_V1.33.jpg)
-
-_1.33 (Vigilant Flame Update) World Map_
 
 ![1.64 (Errant Pilgrim Update)](../assets/World_Map_1.64.jpg)
 
-_1.64 (Errant Pilgrim Update)_
-
 ![1.89 (Hesitant Prospect Update)](../assets/World_Map_Overview_V1.89.jpg)
-
-_1.89 (Hesitant Prospect Update)_
 
 ![1.89 (Hesitant Prospect Update) Selection Screen](../assets/TLD_regions.png)
 
-_1.89 (Hesitant Prospect Update) Selection Screen_
-
 ![1.98 (Perilous Constraint Update)](../assets/Lower_Great_Bear_1.98.jpg)
-
-_1.98 (Perilous Constraint Update)_
 
 ![1.98 Selection Screen](../assets/TLD_regions1.jpg)
 
-_1.98 Selection Screen_
-
 ![2.03 (Tales from the Far Territory Part 1) Current Map](../assets/Lower_Great_Bear_Map_2024.png)
-
-_2.03 (Tales from the Far Territory Part 1) Current Map_
 
 ![V2.03 (Part One Forsaken Airfield Update)](../assets/Far_Territory_World_Map_V2.03.png)
 
-_V2.03 (Part One Forsaken Airfield Update)_
-
 ![2.03 selection region map (missing Far Range Branch Line)](../assets/The_Far_Territory_Region_Selection_Part_One.png)
-
-_2.03 selection region map (missing Far Range Branch Line)_
 
 ![2.25 (TFTFT PART FOUR: Buried Echoes Update) World Map](../assets/Far_Territory_Map_2024.png)
 
-_2.25 (TFTFT PART FOUR: Buried Echoes Update) World Map_
-
 ![ditto, region selection](../assets/TLD_regions_list2.jpg)
-
-_ditto, region selection_
 
 ![2.28 (Part 5 Last Horizon Update) Current Map](../assets/Far_Territory_Part_5_Map.jpg)
 
-_2.28 (Part 5 Last Horizon Update) Current Map_
-
 ![Ditto, selection screen](../assets/Far_Territory_Selection_Part_5.jpg)
 
-_Ditto, selection screen_
-
 ![Cauldron Island (Part One V2.58)](../assets/Cauldron_Island_V2.58.jpg)
-
-_Cauldron Island (Part One V2.58)_
 
 ### Title Screens
 
 ![Pre Alpha Menu](../assets/Main_Menu_Alpha_Sandbox.jpg)
 
-_Pre Alpha Menu_
-
 ![Penitent Scholar](../assets/Penitent_Scholar_Title_Screen.jpg)
 
-_Penitent Scholar_
-
 ![Aurora Version](../assets/In_game_cabin.jpg)
-
-_Aurora Version_
 
 ![4DON Version (Pre Alpha)](../assets/The_Long_Dark_Halloween_main_menu_theme.jpg)
 
@@ -1876,55 +1508,29 @@ _[4DON](./4%20Days%20of%20Night%20Event.md) Version (Pre Alpha)_
 
 ![4DON](../assets/4DON_Main_Menu.jpg)
 
-_4DON_
-
 ![V1.00-1.60](../assets/The_Long_Dark_main_menu_theme.jpg)
-
-_V1.00-1.60_
 
 ![Crossroads Elegy](../assets/Crossroads_Elegy_Main_Menu.jpg)
 
-_Crossroads Elegy_
-
 ![Crossroads Elegy (Night)](../assets/Crossroads_Elegy_Main_Menu_Night.jpg)
-
-_Crossroads Elegy (Night)_
 
 ![Hesitant Prospect](../assets/Hesitant_Prospect_Main_Menu.jpg)
 
-_Hesitant Prospect_
-
 ![Fury, Then Silence](../assets/Episode_4_Main_Menu.jpg)
-
-_Fury, Then Silence_
 
 ![Perilous Constraint](../assets/Perilous_Constraint_Main_Menu.jpg)
 
-_Perilous Constraint_
-
 ![Forsaken Airfield Update](../assets/Forsaken_Airfield_Menu.jpg)
-
-_Forsaken Airfield Update_
 
 ![2.09 Part 2 and 3 Signal Void/Frontier Comforts](../assets/Transfer_Pass_Main_Menu.jpg)
 
-_2.09 Part 2 and 3 Signal Void/Frontier Comforts_
-
 ![Buried Echoes Update](../assets/Buried_Echoes_Main_Menu.jpg)
-
-_Buried Echoes Update_
 
 ![Last Horizon](../assets/Main_Menu_Last_Horizon.jpg)
 
-_Last Horizon_
-
 ![Broken Silence Update](../assets/Broken_Silence_Menu.jpg)
 
-_Broken Silence Update_
-
 ![Iron Road part 1](../assets/Iron_Road_Screen.jpg)
-
-_Iron Road part 1_
 
 ## Notes
 

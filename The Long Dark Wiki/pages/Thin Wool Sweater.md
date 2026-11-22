@@ -4,9 +4,7 @@
 
 **Thin Wool Sweater**
 
-![](../assets/Thin_Wool_Sweater_icon.png)
-
-_Thin\_Wool\_Sweater\_icon.png_
+![Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Thin\_Wool\_Sweater\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![](../assets/Protection_icon.png)2%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>60 minutes<br>40% condition
 
 > “**Thin-knit wool sweater. Mostly for looks, but provides some warmth and being knit from wool remains warm when wet.**”
 >
@@ -46,12 +44,6 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 ![Clothing model icon](../assets/Thin_Wool_Sweater_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Thin_Wool_Sweater_Model_Damaged_icon.png)
 
-_Clothing model icon damaged_
-
 ![Old model.](../assets/Thin_wool_sweater_%28historical%29.png)
-
-_Old model._

@@ -14,9 +14,7 @@
 
 **Bolt Cutters**
 
-![](../assets/Bolt_Cutters_icon.png)
-
-_Bolt\_Cutters\_icon.png_
+![Bolt Cutters icon](../assets/Bolt_Cutters_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -71,8 +69,6 @@ This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-
 _Predux model_
 
 ![The Bolt Cutters in Episode 2 with the old Milling Machine](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
-
-_The Bolt Cutters in Episode 2 with the old Milling Machine_
 
 ## Update history
 

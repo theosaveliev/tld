@@ -17,15 +17,13 @@
 
 ![The Aurora Hatch.](../assets/Aurora_hatch.png)
 
-_The Aurora Hatch._
-
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
 
 **Current:** Aurora Hatch
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+**Region:** [Broken Railroad](./Broken%20Railroad.md)<br>[Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **Template:spoiler**
 
@@ -106,11 +104,7 @@ Before the REDUX Update in December 2018, this bunker was a side quest given by 
 
 ![The unlocked door inside the hatch.](../assets/Unlocked_door.png)
 
-_The unlocked door inside the hatch._
-
 ![The Aurora Hatch.](../assets/Aurora_hatch.png)
-
-_The Aurora Hatch._
 
 ## Game History
 

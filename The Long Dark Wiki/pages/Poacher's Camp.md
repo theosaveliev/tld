@@ -4,15 +4,11 @@
 
 **Poacher's Camp**
 
-![](../assets/Poacher%27s_Camp.png)
-
-_Poacher's\_Camp.png_
+![Poacher's Camp](../assets/Poacher%27s_Camp.png)
 
 **Location**
 
-![](../assets/Poacher%27s_Camp_Location.png)
-
-_Poacher's\_Camp\_Location.png_
+![Poacher's Camp Location](../assets/Poacher%27s_Camp_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -39,5 +35,3 @@ The location is not considered indoors. Saplings and hides will **not** cure if 
 ## Gallery
 
 ![Aerial view of Poacher's Camp](../assets/Forlorn_Muskeg_Poacher%27s_Camp.jpg)
-
-_Aerial view of Poacher's Camp_

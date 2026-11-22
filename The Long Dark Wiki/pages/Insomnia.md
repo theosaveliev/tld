@@ -13,9 +13,7 @@
 
 **Insomnia**
 
-![](../assets/Insomnia_icon.png)
-
-_Insomnia\_icon.png_
+![Insomnia icon](../assets/Insomnia_icon.png)
 
 **Release:** [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
 
@@ -39,16 +37,14 @@ _Insomnia\_icon.png_
 
 **Recovery Time:** 18-36 hours
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.** / [Official Hinterland description](https://www.thelongdark.com/expansion/)
+**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.**<br>[Official Hinterland description](https://www.thelongdark.com/expansion/)
 
 ”
 
@@ -99,8 +95,4 @@ A [Note](./Note%20%28Forsaken%20Airfield%29.md) can be found from a survivor det
 
 ![An example of a survivor suffering from Insomnia](../assets/Insomnia_Risk.jpg)
 
-_An example of a survivor suffering from Insomnia_
-
 ![The marketing icon for Insomnia](../assets/Insomnia_Marketing_Icon.svg)
-
-_The marketing icon for Insomnia_

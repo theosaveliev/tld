@@ -4,15 +4,11 @@
 
 **Eric's Falls**
 
-![](../assets/Erics_falls.jpg)
-
-_erics\_falls.jpg_
+![Erics falls](../assets/Erics_falls.jpg)
 
 **Location**
 
-![](../assets/Eric%27s_Falls_Location.png)
-
-_Eric's\_Falls\_Location.png_
+![Eric's Falls Location](../assets/Eric%27s_Falls_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -39,24 +35,14 @@ If the player places a [climbing rope](./Mountaineering%20Rope.md) at the spot o
 
 ![A closeup view of the falls](../assets/Erics_falls_close_up.jpg)
 
-_A closeup view of the falls_
-
 ![The falls with the Waterfall Cave to the right](../assets/Waterfall_cave.jpg)
 
 _The falls with the [Waterfall Cave](./Waterfall%20Cave.md) to the right_
 
 ![The cargo container near the falls](../assets/Erics_falls_containers.jpg)
 
-_The cargo container near the falls_
-
 ![An area with deer to the left of the falls](../assets/Erics_falls_deer.jpg)
-
-_An area with deer to the left of the falls_
 
 ![A crash survivor expresses some thoughts on Stalker difficulty at the falls](../assets/KILLWOLF.png)
 
-_A crash survivor expresses some thoughts on Stalker difficulty at the falls_
-
 ![Dawn is breaking as the fire burns out](../assets/Burninglow.png)
-
-_Dawn is breaking as the fire burns out_

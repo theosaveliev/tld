@@ -4,9 +4,7 @@
 
 **Dusty Paper**
 
-![](../assets/Dusty_Paper_icon.png)
-
-_Dusty\_Paper\_icon.png_
+![Dusty Paper icon](../assets/Dusty_Paper_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

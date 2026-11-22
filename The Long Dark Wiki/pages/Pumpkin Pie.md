@@ -15,9 +15,7 @@
 
 **Pumpkin Pie**
 
-![](../assets/Pumpkin_Pie_icon.png)
-
-_Pumpkin\_Pie\_icon.png_
+![Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png)
 
 **Release:** [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.373)
 
@@ -100,11 +98,7 @@ _A pumpkin pie on the stove in the [Pleasant Valley Farmstead](./Pleasant%20Vall
 
 ![Item description in 4DON](../assets/Pumpkin_pie.png)
 
-_Item description in 4DON_
-
 ![Item description in Escape the Darkwalker](../assets/Pumpkin_Pie_Darkwalker.png)
-
-_Item description in Escape the Darkwalker_
 
 ## Update history
 

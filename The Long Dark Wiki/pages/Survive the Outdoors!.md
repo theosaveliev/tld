@@ -12,9 +12,7 @@
 
 **Survive the Outdoors!**
 
-![](../assets/Survive_the_Outdoors!_icon.png)
-
-_Survive\_the\_Outdoors!\_icon.png_
+![Survive the Outdoors! icon](../assets/Survive_the_Outdoors!_icon.png)
 
 **Release:** [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346)
 
@@ -56,11 +54,11 @@ Research can only be performed under the following conditions:
 
 **Statistics**
 
-**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![](../assets/Firestart_mod_icon.png) +35%
+**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
 
-**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
@@ -74,11 +72,7 @@ Research can only be performed under the following conditions:
 
 ![3D Model](../assets/Survive_the_outdoors.png)
 
-_3D Model_
-
 ![Old model](../assets/Survive_The_Outdoors_Old.png)
-
-_Old model_
 
 ## Update history
 

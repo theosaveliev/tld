@@ -4,9 +4,7 @@
 
 **Hank's Lock Box Key**
 
-![](../assets/Hank%27s_Lock_Box_Key_icon.png)
-
-_Hank's\_Lock\_Box\_Key\_icon.png_
+![Hank's Lock Box Key icon](../assets/Hank%27s_Lock_Box_Key_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

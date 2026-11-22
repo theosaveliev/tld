@@ -4,9 +4,7 @@
 
 **Journal Page**
 
-![](../assets/Journal_Page_icon.png)
-
-_Journal\_Page\_icon.png_
+![Journal Page icon](../assets/Journal_Page_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
 

@@ -11,13 +11,11 @@
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-![](../assets/Glimmer_Fog_Icon.png)
+![Glimmer Fog Icon](../assets/Glimmer_Fog_Icon.png)
 
 “
 
@@ -66,11 +64,7 @@ Note: Flashlights "high beam" mode are effective deterrents against aurora preda
 
 ![An example of Glimmer Fog. Notice the blue light patches in the fog.](../assets/Glimmer_Fog.jpg)
 
-_An example of Glimmer Fog. Notice the blue light patches in the fog._
-
 ![The machine inside the Langston Mine that creates Glimmer Fog](../assets/R%C3%BCdiger%27s_Machine.jpg)
-
-_The machine inside the Langston Mine that creates Glimmer Fog_
 
 ## Trivia
 

@@ -27,19 +27,17 @@
 
 **Mathis**
 
-![](../assets/Mathis.png)
-
-_Mathis.png_
+![Mathis](../assets/Mathis.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 
 **Date:** 1 August 2017
 
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) / [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)<br>[Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
-**Mission:** [Renewed Hope](./Renewed%20Hope.md) / [Prologue](./Prologue.md) / [Blackrock Blues](./Blackrock%20Blues.md) / [The Power Plant](./The%20Power%20Plant.md) / [The Detonators](./The%20Detonators.md) / [Donner](./Donner.md)
+**Mission:** [Renewed Hope](./Renewed%20Hope.md)<br>[Prologue](./Prologue.md)<br>[Blackrock Blues](./Blackrock%20Blues.md)<br>[The Power Plant](./The%20Power%20Plant.md)<br>[The Detonators](./The%20Detonators.md)<br>[Donner](./Donner.md)
 
-**Location(s):** [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) / [Blackrock Prison](./Blackrock%20Prison.md)
+**Location(s):** [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)<br>[Blackrock Prison](./Blackrock%20Prison.md)
 
 **Biographical Information**
 
@@ -161,68 +159,36 @@ Mathis and his gang will return in Episode 5 to settle their score with Mackenzi
 
 ![Mathis' face in Predux Episode 2](../assets/Mathis_face-on.jpg)
 
-_Mathis' face in Predux Episode 2_
-
 ![Ditto](../assets/Mathis_Predux_Interrogation_2.jpg)
-
-_Ditto_
 
 ![Mathis interrogation](../assets/Mathis_Predux_Interrogation.jpg)
 
-_Mathis interrogation_
-
 ![Mathis placing the Hardcase](../assets/Mathis_Placing_Hardcase.jpg)
-
-_Mathis placing the Hardcase_
 
 ![Mathis about to punch Mackenzie](../assets/Mathis_Predux_Punch.jpg)
 
-_Mathis about to punch Mackenzie_
-
 ![Mathis about to knock out Mackenzie](../assets/Mathis_Hatchet_Predux.jpg)
-
-_Mathis about to knock out Mackenzie_
 
 ### Redux Episode 2
 
 ![Mathis in the Redux version of Episode 2](../assets/Mathis_EP2_Redux.jpg)
 
-_Mathis in the Redux version of Episode 2_
-
 ![Notice the toned down blood on Mathis' sleeves](../assets/Mathis_EP2_Redux_2.jpg)
-
-_Notice the toned down blood on Mathis' sleeves_
 
 ### Episode 4
 
 ![Mathis about to strike Mackenzie over the head with the Hardcase](../assets/Mathis_strike_hardcase.jpg)
 
-_Mathis about to strike Mackenzie over the head with the Hardcase_
-
 ![Mathis with the Detonators](../assets/Mathis_Detonators.jpg)
-
-_Mathis with the Detonators_
 
 ![One of many of Mathis' sinister grins](../assets/Mathis_snow.jpg)
 
-_One of many of Mathis' sinister grins_
-
 ![Mathis interrogating Mackenzie](../assets/Mathis_interogation.jpg)
-
-_Mathis interrogating Mackenzie_
 
 ![Mathis, Heller, and Vachon attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg)
 
-_Mathis, Heller, and Vachon attacked by Timberwolves_
-
 !["I will destroy EVERYTHING you love!"](../assets/Mathis_destroy_everything_you_love.jpg)
-
-_"I will destroy EVERYTHING you love!"_
 
 ![Mathis getting in Mackenzie's face](../assets/Mathis_Mackenzie.jpg)
 
-_Mathis getting in Mackenzie's face_
-
 ![Mathis surrounded by Vachon and various other convicts](../assets/Mathis_and_his_Convicts.jpg)
-
-_Mathis surrounded by Vachon and various other convicts_

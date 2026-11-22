@@ -4,9 +4,7 @@
 
 **Paddle**
 
-![](../assets/Paddle.jpg)
-
-_Paddle.jpg_
+![Paddle](../assets/Paddle.jpg)
 
 **General**
 

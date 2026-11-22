@@ -4,9 +4,7 @@
 
 **Windbreaker**
 
-![](../assets/Windbreaker_icon.png)
-
-_Windbreaker\_icon.png_
+![Windbreaker icon](../assets/Windbreaker_icon.png)
 
 **General**
 
@@ -16,21 +14,21 @@ _Windbreaker\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)1%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
 
 > “**Cheap nylon outer layer that's good for blocking wind and that's about it.**”
 >
@@ -44,11 +42,7 @@ Low-tier outer layer. It grants highly windproof and light, but offers almost no
 
 ![Clothing model icon](../assets/Windbreaker_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Windbreaker_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

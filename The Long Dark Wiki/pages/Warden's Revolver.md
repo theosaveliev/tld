@@ -12,13 +12,11 @@
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Warden's Revolver** / ![](../assets/Warden%27s_Revolver_icon.png) / _Warden's\_Revolver\_icon.png_ / **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) / **Wintermute:** No / **Renewable:** No (unique item) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** Quick draw sidearm. Out of place in the wilderness, but its short barrel and light weight allow for a faster aiming action. / **Values** / **Weight:** 1.25 kg (2.75 lbs) / **Actions** / **Backpack:** Use, Actions, Drop / **On ground:** Take It, Equip It, Leave It / **Advanced data** / **Item key:** GEAR\_RevolverStubNosed / **Warden's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+<br>**Warden's Revolver**<br>![Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** No (unique item)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Quick draw sidearm. Out of place in the wilderness, but its short barrel and light weight allow for a faster aiming action.<br>**Values**<br>**Weight:** 1.25 kg (2.75 lbs)<br>**Actions**<br>**Backpack:** Use, Actions, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GEAR\_RevolverStubNosed<br>**Warden's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 
@@ -53,23 +51,13 @@ The Warden's revolver spawns a single time per world in various states of repair
 
 ![Wardens Revolver Ground Model](../assets/Wardens_Revolver_Ground_Model.png)
 
-_Wardens Revolver Ground Model_
-
 ![Wardens Revolver Iron Sights](../assets/Wardens_Revolver_Iron_Sights.png)
-
-_Wardens Revolver Iron Sights_
 
 ![The front door revolver location](../assets/Warden%27s_Revolver_Location.jpg)
 
-_The front door revolver location_
-
 ![The bathroom in the Warden's Office revolver location](../assets/Revolver.jpg)
 
-_The bathroom in the Warden's Office revolver location_
-
 ![The Warden's Revolver in broad daylight. Note the lack of rear iron sights.](../assets/WardenADSBroadDaylight.jpg)
-
-_The Warden's Revolver in broad daylight. Note the lack of rear iron sights._
 
 ## Update history
 

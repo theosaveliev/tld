@@ -13,9 +13,7 @@
 
 **Paradise Lost (Predux)**
 
-![](../assets/Paradise_Lost_%28Predux%29.jpg)
-
-_Paradise\_Lost\_(Predux).jpg_
+![Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -27,7 +25,7 @@ _Paradise\_Lost\_(Predux).jpg_
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 > **It looks like Astrid made it out of Milton. Follow Lily's path to continue your search beyond the town's borders.**

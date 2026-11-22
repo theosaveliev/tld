@@ -2,13 +2,11 @@
 
 **Categories:** DLC Content, Interactable Objects, Locations, Locations in Desolation Point, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fulmar_Autopilot_Boat)
 
-![](../assets/Seal_icon.png)
+![Seal icon](../assets/Seal_icon.png)
 
-_Seal\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Fulmar Autopilot Boat** / ![](../assets/Fulmar_Desolation_Point_GBI.png) / _Fulmar\_Desolation\_Point\_GBI.png_ / **Location** / **Region:** [Desolation Point](./Desolation%20Point.md)\\|- / Has no shelter\ The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
+<br>**Fulmar Autopilot Boat**<br>![Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png)<br>**Location**<br>**Region:** [Desolation Point](./Desolation%20Point.md)\\|-<br>Has no shelter\ The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -48,24 +46,12 @@ _**Fulmar Interior with a gold Pot Belly Stove**_
 
 ![Travel Requirements](../assets/Supplies_required_for_travel.png)
 
-_Travel Requirements_
-
 ![Loading Screen](../assets/Iron_Road_Boat_Art_2.png)
-
-_Loading Screen_
 
 ![Loading Screen](../assets/Fulmar_Loading_Screen.png)
 
-_Loading Screen_
-
 ![Loading Screen](../assets/Fulmar_Loading_Screen_2.png)
-
-_Loading Screen_
 
 ![Loading Screen](../assets/Iron_Road_Boat_Art.png)
 
-_Loading Screen_
-
 ![Loading Screen](../assets/Fulmar_Loading_Screen_3.png)
-
-_Loading Screen_

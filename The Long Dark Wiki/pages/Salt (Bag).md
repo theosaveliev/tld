@@ -10,13 +10,11 @@
 - [Trivia](#trivia)
 - [Update history](#update-history)
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
- / **Salt** / ![](../assets/Salt_%28Bag%29_icon.png) / _Salt\_(Bag)\_icon.png_ / **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) / **Wintermute:** No / **Renewable:** Yes ([Trader](./Trader.md) only) / **Properties** / **Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|- / **Stackable:** Yes / **Examine:** A seasoning and preservative. / **Values** / **Weight:** 10.00 kg (22 lbs) / **Decay Rate** / **Inside:** 0.000% per day / **Outside:** 0.000% per day / **Advanced data** / **Item key:** GAMEPLAY\_Salt / _For the smaller Salt jars, see [Salt](./Salt.md)._ / **Salt** is a [seasoning](./Food%20And%20Drink.md) and preservative in _[The Long Dark](./The%20Long%20Dark.md)_.
+<br>**Salt**<br>![Salt (Bag) icon](../assets/Salt_%28Bag%29_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** Yes<br>**Examine:** A seasoning and preservative.<br>**Values**<br>**Weight:** 10.00 kg (22 lbs)<br>**Decay Rate**<br>**Inside:** 0.000% per day<br>**Outside:** 0.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Salt<br>_For the smaller Salt jars, see [Salt](./Salt.md)._<br>**Salt** is a [seasoning](./Food%20And%20Drink.md) and preservative in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Usage
 

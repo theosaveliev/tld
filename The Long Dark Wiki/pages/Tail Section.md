@@ -11,15 +11,11 @@
 
 **Tail Section**
 
-![](../assets/Tail_section2.jpg)
-
-_tail\_section2.jpg_
+![Tail section2](../assets/Tail_section2.jpg)
 
 **Location**
 
-![](../assets/Tail_Section_Location.png)
-
-_Tail\_Section\_Location.png_
+![Tail Section Location](../assets/Tail_Section_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -46,7 +42,7 @@ There is a [corpse](./Frozen%20Corpse.md) underneath the plane's floor that you 
 
 Loot in containers has been updated, please correct if you notice a discrepancy!
 
-Be aware that opening a container with a hacksaw that has very low durability may result in ruining the container, rendering the loot unavailable if the hacksaw breaks whilst opening.![](../assets/Boxes1labeled.jpg) Cargo container A (Not spawned in Interloper)
+Be aware that opening a container with a hacksaw that has very low durability may result in ruining the container, rendering the loot unavailable if the hacksaw breaks whilst opening.![Boxes1labeled](../assets/Boxes1labeled.jpg) Cargo container A (Not spawned in Interloper)
 
 - Door 1: [balaclavas](./Balaclava.md), [wool toques](./Wool%20Toque.md), [wool longjohns](./Wool%20Longjohns.md), and [wool scarfs](./Wool%20Scarf.md)
 - Door 2: [Wood Matches](./Wood%20Matches.md) and [Accelerant](./Accelerant.md)
@@ -77,7 +73,7 @@ Cargo Container D
 
 The 4 boxes near D contain nothing in Interloper, but contain 4 [Pinnacle Peaches](./Pinnacle%20Peaches.md) and a [Can Opener](./Can%20Opener.md) on lower difficulties.
 
-![](../assets/Boxes2labeled.jpg) Cargo Container E (Not spawned in Interloper)
+![Boxes2labeled](../assets/Boxes2labeled.jpg) Cargo Container E (Not spawned in Interloper)
 
 - Door 1: [heavy hammers](./Heavy%20Hammer.md), [hatchets](./Hatchet.md), [hunting knives](./Hunting%20Knife.md), and [hacksaws](./Hacksaw.md)
 - Door 2: [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), [Cured Deer Hide](./Cured%20Deer%20Hide.md), [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), and [cured leather](./Cured%20Leather.md)
@@ -99,12 +95,8 @@ The boxes near G contain nothing in Interloper.
 
 ![Inside the Tail Section at night](../assets/Tail_section_inside.jpg)
 
-_Inside the Tail Section at night_
-
 ![The Tail Section during an aurora](../assets/Tail_section_aurora.jpg)
 
 _The Tail Section during an [aurora](./Aurora.md)_
 
 ![Crystal Lake viewed from the Tail Section](../assets/Crystal_Lake_from_Tail_Section.png)
-
-_Crystal Lake viewed from the Tail Section_

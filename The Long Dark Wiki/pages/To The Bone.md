@@ -4,9 +4,7 @@
 
 **To The Bone**
 
-![](../assets/To_The_Bone_icon.png)
-
-_To\_The\_Bone\_icon.png_
+![To The Bone icon](../assets/To_The_Bone_icon.png)
 
 **Description:** Complete the autopsy of a missing Perseverance Mills townsperson.
 

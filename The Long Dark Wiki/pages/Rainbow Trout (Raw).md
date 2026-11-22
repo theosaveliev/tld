@@ -12,7 +12,7 @@
 
 **Rainbow Trout (Raw)**
 
-\[\[File: / ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / _Opened_
+![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png)<br>![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 
@@ -68,8 +68,6 @@ Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cookin
 ## Gallery
 
 ![Old model.](../assets/Rainbow_trout.png)
-
-_Old model._
 
 ## Update history
 

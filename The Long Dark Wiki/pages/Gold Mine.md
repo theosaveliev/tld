@@ -11,15 +11,11 @@
 
 **Gold Mine**
 
-![](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png)
-
-_Screen\_a7808681-3b40-4f43-919e-586a759f76bf\_hi.png_
+![Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png)
 
 **Location**
 
-![](../assets/Gold_Mine_Location.png)
-
-_Gold\_Mine\_Location.png_
+![Gold Mine Location](../assets/Gold_Mine_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -29,15 +25,11 @@ _Gold\_Mine\_Location.png_
 
 **Type:** Cave
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![](../assets/Workbench_icon_green.png)
-
-_workbench\_icon\_green.png_
+![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 
@@ -57,8 +49,4 @@ This is the only location in the game where Technical Backpack and the Crampons 
 
 ![Entrance to the Gold Mine](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png)
 
-_Entrance to the Gold Mine_
-
-![](../assets/Map-Cave-AC-GoldMine-100.png)
-
-_Map-Cave-AC-GoldMine-100.png_
+![Map Cave AC GoldMine 100](../assets/Map-Cave-AC-GoldMine-100.png)

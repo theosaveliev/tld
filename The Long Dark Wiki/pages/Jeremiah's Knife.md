@@ -13,9 +13,7 @@
 
 **Jeremiah's Knife**
 
-![](../assets/Jeremiah%27s_Knife_icon.png)
-
-_Jeremiah's\_Knife\_icon.png_
+![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -68,11 +66,7 @@ Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at
 
 ![The Knife seen at 5:00](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Four_Update_Video.jpg)
 
-_The Knife seen at 5:00_
-
 ![The knife seen in Misery Mode](../assets/Misery_Mode.jpg)
-
-_The knife seen in Misery Mode_
 
 ## Game History
 

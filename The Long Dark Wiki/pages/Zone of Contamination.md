@@ -14,19 +14,13 @@
 
 **Zone of Contamination**
 
-![](../assets/Zone_of_Contamination.jpg)
-
-_Zone\_of\_Contamination.jpg_
+![Zone of Contamination](../assets/Zone_of_Contamination.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![](../assets/Zone_of_Contamination_Location.png)
+![Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png)
 
-_Zone\_of\_Contamination\_Location.png_
-
-![](../assets/Zone_of_Contamination_Region_map.png)
-
-_Zone\_of\_Contamination\_Region\_map.png_
+![Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png)
 
 **Details**
 
@@ -44,16 +38,14 @@ _Zone\_of\_Contamination\_Region\_map.png_
 
 **Date Added:** Dec 5, 2023
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 
 “
 
-**An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.** / Official Hinterland Description
+**An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.**<br>Official Hinterland Description
 
 ”
 
@@ -93,31 +85,17 @@ There are a number of locations in the Zone of Contamination, including:
 
 ![A detailed map of Zone of Contamination v2.35 (contains spoilers)](../assets/ZOC_map_default.png)
 
-_A detailed map of Zone of Contamination v2.35 (contains spoilers)_
-
 ![A detailed map of Zone of Contamination v2.35 (Interloper/Misery edition, contains spoilers)](../assets/ZOC_map_loper.png)
-
-_A detailed map of Zone of Contamination v2.35 (Interloper/Misery edition, contains spoilers)_
 
 ![Map of the Zone of Contamination with all named locations, by Aiibees.](../assets/ZOC%2C_all_locations_by_Aiibees.webp)
 
-_Map of the Zone of Contamination with all named locations, by Aiibees._
-
 ![Map of the Zone of Contamination with all named locations and chemical spills, by Aiibees.](../assets/ZOC%2C_chemical_spills%2C_by_Aiibees.webp)
-
-_Map of the Zone of Contamination with all named locations and chemical spills, by Aiibees._
 
 ![Map of the Zone of Contamination with all named locations and resources, by Aiibees.](../assets/ZOC%2C_Full_spoilers%2C_by_Aiibees.webp)
 
-_Map of the Zone of Contamination with all named locations and resources, by Aiibees._
-
 ![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg)
 
-_Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass_
-
 ![Fan made layout of all three floors of the Langston Mine](../assets/Langston_Mine_Fan_made_Map.jpg)
-
-_Fan made layout of all three floors of the Langston Mine_
 
 ## Trivia
 
@@ -137,32 +115,16 @@ _A sign in Transfer Pass directing motorists to the mine_
 
 ![Concept art of the Industrial Mine Region](../assets/Industrial_Mine_Concept.jpg)
 
-_Concept art of the Industrial Mine Region_
-
 ![A poisoned wolf concept art](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
-
-_A poisoned wolf concept art_
 
 ![The sign leading to the open pit mine near Bountiful Overlook](../assets/Bountiful_Overlook_sign.jpg)
 
-_The sign leading to the open pit mine near Bountiful Overlook_
-
 ![The open pit Langston Mine](../assets/Zone_of_Contamination_Open_Pit_Mine.jpg)
-
-_The open pit Langston Mine_
 
 ![A large Chemical Spill. Notice the dying trees.](../assets/Chemical_Spill.jpg)
 
-_A large Chemical Spill. Notice the dying trees._
-
 ![Poisoned lakes](../assets/Poisoned_lakes.png)
-
-_Poisoned lakes_
 
 ![Health warning sign at the mine](../assets/Mine_warning_sign.png)
 
-_Health warning sign at the mine_
-
 ![View of the buildings of the mine](../assets/Mine_buildings.png)
-
-_View of the buildings of the mine_

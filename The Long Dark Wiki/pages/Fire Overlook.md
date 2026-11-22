@@ -4,15 +4,11 @@
 
 **Fire Overlook**
 
-![](../assets/20201210005637_1.jpg)
-
-_20201210005637\_1.jpg_
+![20201210005637 1](../assets/20201210005637_1.jpg)
 
 **Location**
 
-![](../assets/Fire_Overlook_Location.png)
-
-_Fire\_Overlook\_Location.png_
+![Fire Overlook Location](../assets/Fire_Overlook_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -36,10 +32,6 @@ A climbing rope leads down here to travel to Homesteader's Respite. On a clear d
 
 ## Gallery
 
-![](../assets/Fire_Overlook_at_the_Edge_Inward.jpg)
+![Fire Overlook at the Edge Inward](../assets/Fire_Overlook_at_the_Edge_Inward.jpg)
 
-_Fire\_Overlook\_at\_the\_Edge\_Inward.jpg_
-
-![](../assets/Ledge_of_Rope_on_Fire_Overlook.jpg)
-
-_Ledge\_of\_Rope\_on\_Fire\_Overlook.jpg_
+![Ledge of Rope on Fire Overlook](../assets/Ledge_of_Rope_on_Fire_Overlook.jpg)

@@ -4,9 +4,7 @@
 
 **Simple Note**
 
-![](../assets/Simple_Note_icon.png)
-
-_Simple\_Note\_icon.png_
+![Simple Note icon](../assets/Simple_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

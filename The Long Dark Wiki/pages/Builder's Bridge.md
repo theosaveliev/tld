@@ -4,15 +4,11 @@
 
 **Builder's Bridge**
 
-![](../assets/Buildersbridge.png)
-
-_Buildersbridge.png_
+![Buildersbridge](../assets/Buildersbridge.png)
 
 **Location**
 
-![](../assets/Builder%27s_Bridge_Location.png)
-
-_Builder's\_Bridge\_Location.png_
+![Builder's Bridge Location](../assets/Builder%27s_Bridge_Location.png)
 
 **Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 
@@ -27,5 +23,3 @@ A rope bridge providing access to both sides of the river at the end of the crev
 ## Gallery
 
 ![The river below the bridge](../assets/Buildersbridge1.png)
-
-_The river below the bridge_

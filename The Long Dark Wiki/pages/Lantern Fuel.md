@@ -12,9 +12,7 @@
 
 **Lantern Fuel**
 
-![](../assets/Lantern_Fuel_icon.png)
-
-_Lantern\_Fuel\_icon.png_
+![Lantern Fuel icon](../assets/Lantern_Fuel_icon.png)
 
 **General**
 
@@ -26,9 +24,9 @@ _Lantern\_Fuel\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
 
-**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+40%
+**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
 
 > “**Small bottle of Lamp Fuel**”
 >
@@ -57,8 +55,6 @@ Bottles of Lantern Fuel can usually be found fairly frequently throughout the wo
 ## Gallery
 
 ![old model](../assets/Lantern_fuel.png)
-
-_old model_
 
 ## Trivia
 

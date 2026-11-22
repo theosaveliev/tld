@@ -42,9 +42,7 @@
 
 **Hunting Rifle**
 
-![](../assets/Hunting_Rifle_icon.png)
-
-_Hunting\_Rifle\_icon.png_
+![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png)
 
 **General**
 
@@ -52,11 +50,11 @@ _Hunting\_Rifle\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
 **Harvest:** 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md)
 
-**Repair:** [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) 12-5 minutes / 3%-5%
+**Repair:** [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) 12-5 minutes<br>3%-5%
 
 > “**An old .303 calibre bolt-action hunting rifle. Will bring a deer down. Maybe a wolf.**”
 >
@@ -298,19 +296,11 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 
 ![Jammed cartridge failed to chamber properly old version](../assets/Jammed.png)
 
-_Jammed cartridge failed to chamber properly old version_
-
 ![Rifle iron sights. (pre-v1.48 update)](../assets/Riflesights.jpg)
-
-_Rifle iron sights. (pre-v1.48 update)_
 
 ![Hunting rifle ejecting a casing after a shot.](../assets/Riflereloadingaftershoot.jpg)
 
-_Hunting rifle ejecting a casing after a shot._
-
 ![A 5-round stripper clip being loaded.](../assets/Riflereloadingmagazine.jpg)
-
-_A 5-round stripper clip being loaded._
 
 \[Missing image: Hunting\_Rifle\_icon\_(story).png\]
 
@@ -322,31 +312,17 @@ _A hunting rifle on the rack in the [Trapper's Homestead](./Trapper%27s%20Homest
 
 ![Old Hunting Rifle model (Pre-alpha)](../assets/Thelongdark_rugye_2.jpg)
 
-_Old Hunting Rifle model (Pre-alpha)_
-
 ![Old Hunting Rifle model in hands (Pre-Alpha)](../assets/Prealphahuntingrifle.jpg)
-
-_Old Hunting Rifle model in hands (Pre-Alpha)_
 
 ![Old Hunting Rifle model in hands (Early Access period)](../assets/Alphahuntingrifle.jpg)
 
-_Old Hunting Rifle model in hands (Early Access period)_
-
 ![Old Hunting Rifle model in hands (Pre-1.0)](../assets/Alphahuntingrifle2.jpg)
-
-_Old Hunting Rifle model in hands (Pre-1.0)_
 
 ![Old Hunting Rifle model in hands (1.0-1.47 version)](../assets/Oldhuntingriflemodel.png)
 
-_Old Hunting Rifle model in hands (1.0-1.47 version)_
-
 ![Old Hunting Rifle model in hands (1.48-2.23 version)](../assets/NewHuntingRifle.png)
 
-_Old Hunting Rifle model in hands (1.48-2.23 version)_
-
 ![New Hunting Rifle model in hands (v2.25-Present)](../assets/NewHuntingRifle2.jpg)
-
-_New Hunting Rifle model in hands (v2.25-Present)_
 
 ## Notes
 

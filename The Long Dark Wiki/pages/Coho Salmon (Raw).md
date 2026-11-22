@@ -12,7 +12,7 @@
 
 **Coho Salmon (Raw)**
 
-\[\[File: / ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / _Opened_
+![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png)<br>![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png)
 
 250px\]\]
 
@@ -78,11 +78,7 @@ Cooking Salmon improves the [cooking skill](./Skills.md#Cooking) and requires a 
 
 ![Old model.](../assets/Coho_salmon.png)
 
-_Old model._
-
 ![Steam Badge](../assets/Steam_Salmon_Badge.png)
-
-_Steam Badge_
 
 ## Update history
 

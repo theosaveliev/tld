@@ -22,9 +22,7 @@
 
 **The Grey Mother (Predux)/Transcript**
 
-![](../assets/The_Grey_Mother_%28Predux%29.jpg)
-
-_The\_Grey\_Mother\_(Predux).jpg_
+![The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

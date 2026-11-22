@@ -14,17 +14,11 @@ Laptops and computers are still a valid piece of backstory to the Long Dark, and
 
 During an Aurora, some of these computers will flash on to display a message, called a Buffer Memories. Each computer that _will_turn on in the game has at least three buffer memories, and computers that are active during an aurora will slowly cycle through the list, so if you wait long enough you might be able to catch more than one buffer memory on the same computer. Don't be fooled though - not all computers turn on. Generally if you've found a computer that didn't turn on during the Aurora, chances are there's another one in the building that did.
 
-![](../assets/20190113203759_1.jpg)
+![20190113203759 1](../assets/20190113203759_1.jpg)
 
-_20190113203759\_1.jpg_
+![Cave laptop](../assets/Cave_laptop.jpg)
 
-![](../assets/Cave_laptop.jpg)
-
-_Cave\_laptop.jpg_
-
-![](../assets/Buffer-memories.gif)
-
-_Buffer-memories.gif_
+![Buffer memories](../assets/Buffer-memories.gif)
 
 ## Locations
 

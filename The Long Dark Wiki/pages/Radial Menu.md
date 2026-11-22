@@ -12,7 +12,7 @@
 - [Navigation](#navigation)
 - [Campcraft](#campcraft)
 
-![](../assets/The_Long_Dark_updated_Radial_Menu.png)
+![The Long Dark updated Radial Menu](../assets/The_Long_Dark_updated_Radial_Menu.png)
 
 ## Overview
 

@@ -4,9 +4,7 @@
 
 **Suitcase belonging to Dimitri S.**
 
-![](../assets/Gwen_Crash_Survivor.jpg)
-
-_Gwen\_Crash\_Survivor.jpg_
+![Gwen Crash Survivor](../assets/Gwen_Crash_Survivor.jpg)
 
 **Release:** 1.60
 

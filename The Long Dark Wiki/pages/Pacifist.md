@@ -4,9 +4,7 @@
 
 **Pacifist**
 
-![](../assets/Pacifist_icon.png)
-
-_Pacifist\_icon.png_
+![Pacifist icon](../assets/Pacifist_icon.png)
 
 **Description:** Survive the first 25 days without killing anything (single game)
 

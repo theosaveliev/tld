@@ -11,9 +11,7 @@
 
 **Energy Boost**
 
-![](../assets/Energy_Boost_icon.png)
-
-_Energy\_Boost\_icon.png_
+![Energy Boost icon](../assets/Energy_Boost_icon.png)
 
 **Properties**
 
@@ -25,7 +23,7 @@ _Energy\_Boost\_icon.png_
 
 **Type:** Benefit
 
-**Benefit Duration:** ![](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) ![](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat)
+**Benefit Duration:** ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat)
 
 > “**For a short time, Fatigue vanishes and your Stamina feels endless.**”
 >
@@ -52,11 +50,11 @@ Using either item will give the Energy boost benefit for several minutes. The tw
 
 ## Negative effects
 
-After either the Energy drink or the Emergency Stim is consumed and the primary effects wore off, the player will experience some negative afflictions: ![](../assets/Emergency_Stim_icon.png)
+After either the Energy drink or the Emergency Stim is consumed and the primary effects wore off, the player will experience some negative afflictions: ![Emergency Stim icon](../assets/Emergency_Stim_icon.png)
 
 - [Emergency Stim](./Emergency%20Stim.md) will empty your [Fatigue](./Fatigue.md) after use, meaning you either need to find a method of sleeping or use another drink or stim.
 
-![](../assets/Go!_Energy_Drink_icon.png)
+![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png)
 
 - [Go! Energy Drink](./Go!%20Energy%20Drink.md) on the other hand has its own negative affliction called [Headache](./Headache.md) which causes the player to have shots of blurry vision similar to [Pain](./Pain.md).
 

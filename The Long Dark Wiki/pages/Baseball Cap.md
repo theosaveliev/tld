@@ -4,9 +4,7 @@
 
 **Baseball Cap**
 
-![](../assets/Baseball_Cap_icon.png)
-
-_Baseball\_Cap\_icon.png_
+![Baseball Cap icon](../assets/Baseball_Cap_icon.png)
 
 **General**
 
@@ -18,21 +16,21 @@ _Baseball\_Cap\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![](../assets/Protection_icon.png)0%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)0%
 
-**Mobility:** ![](../assets/Mobility_icon.png)0%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
 
 > “**Why would anyone wear one of these in the Winter?**”
 >
@@ -52,19 +50,11 @@ Wearing it is better than nothing though, as it at least prevents [Frostbite](./
 
 ![Clothing model](../assets/Baseball_Cap_Model_icon.png)
 
-_Clothing model_
-
 ![Clothing model damaged](../assets/Baseball_Cap_Model_Damaged_icon.png)
-
-_Clothing model damaged_
 
 ![the old 3d model was curled up](../assets/Baseball_Cap_Model_old.jpg)
 
-_the old 3d model was curled up_
-
 ![Current 3d model is not squished](../assets/Baseball_Cap_3d_model_current.jpg)
-
-_Current 3d model is not squished_
 
 ## Update history
 

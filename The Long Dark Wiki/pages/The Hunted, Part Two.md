@@ -15,9 +15,7 @@
 
 **The Hunted, Part Two**
 
-![](../assets/Challenge_Hunted2.png)
-
-_Challenge\_Hunted2.png_
+![Challenge Hunted2](../assets/Challenge_Hunted2.png)
 
 **Details**
 
@@ -102,8 +100,4 @@ This Challenge is quite similar to the mission [Jeremiah's Folly](./Jeremiah%27s
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_huntedPart2.png)
 
-_The badge awarded upon completing the challenge_
-
 ![Fan art](../assets/Hunted_2.jpg)
-
-_Fan art_

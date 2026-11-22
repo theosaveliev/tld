@@ -245,153 +245,81 @@ Some regions are connected directly, without any Transition Zones between them. 
 
 ![Mystery Lake](../assets/Mystery_Lake_title_card.png)
 
-_Mystery Lake_
-
 ![Coastal Highway](../assets/Coastal_Highway_title_card.png)
-
-_Coastal Highway_
 
 ![Pleasant Valley](../assets/Pleasant_Valley_title_card.png)
 
-_Pleasant Valley_
-
 ![Desolation Point](../assets/Desolation_Point_title_card.png)
-
-_Desolation Point_
 
 ![Timberwolf Mountain](../assets/Timberwolf_Mountain_title_card.png)
 
-_Timberwolf Mountain_
-
 ![Forlorn Muskeg](../assets/Forlorn_Muskeg_Thumbnail.png)
-
-_Forlorn Muskeg_
 
 ![Broken Railroad](../assets/Broken_railway_titlecard_small.png)
 
-_Broken Railroad_
-
 ![Mountain Town](../assets/Mountain_town_titlecard.png)
-
-_Mountain Town_
 
 ![Hushed River Valley](../assets/Hushed_River_Valley_title_card.png)
 
-_Hushed River Valley_
-
 ![Bleak Inlet](../assets/Bleak_inlet.png)
-
-_Bleak Inlet_
 
 ![Ash Canyon](../assets/Ash_Canyon_Concept_Art.png)
 
-_Ash Canyon_
-
 ![Blackrock](../assets/Blackrock_Region.jpg)
-
-_Blackrock_
 
 ![Transfer Pass](../assets/Transfer_Pass_Main_Menu.jpg)
 
-_Transfer Pass_
-
 ![Forsaken Airfield](../assets/Forsaken_Airfield.jpg)
-
-_Forsaken Airfield_
 
 ![Zone of Contamination](../assets/Industrial_Mine_Concept.jpg)
 
-_Zone of Contamination_
-
 ![Mountain Pass](../assets/Mountain_Pass_Concept_Art.jpg)
-
-_Mountain Pass_
 
 ### Region Maps
 
 ![1.64 (Errant Pilgrim Update)](../assets/World_map_links-0.png)
 
-_1.64 (Errant Pilgrim Update)_
-
 ![All current region maps for Lower Great Bear](../assets/TLD_regions_with_details.jpg)
-
-_All current region maps for Lower Great Bear_
 
 ![Custom made Region connections of all Regions (as of V2.03)](../assets/World_Region_Connections_Custom.jpg)
 
-_Custom made Region connections of all Regions (as of V2.03)_
-
 ![Connections between all regions v2.32, including TFTFT maps](../assets/Region_connections_schematic.jpg)
-
-_Connections between all regions v2.32, including TFTFT maps_
 
 ### Lower Great Bear Maps
 
 ![0.298 (Timberwolf Mountain Update) World Map released by Hinterland. Never officially in game](../assets/Global_map_Published_by_development_team.jpg)
 
-_0.298 (Timberwolf Mountain Update) World Map released by Hinterland. Never officially in game_
-
 ![1.00 (Wintermute Update) This was the first in game world map. Mountain Town was only available for Wintermute at the time](../assets/World_Map_1.00_%28Wintermute_Launch%29.jpg)
-
-_1.00 (Wintermute Update) This was the first in game world map. Mountain Town was only available for Wintermute at the time_
 
 ![1.16 (Rugged Sentinel Update)](../assets/Lower_Great_Bear_1.16.jpg)
 
-_1.16 (Rugged Sentinel Update)_
-
 ![1.33 (Vigilant Flame Update) World Map](../assets/Lower_Great_Bear_V1.33.jpg)
-
-_1.33 (Vigilant Flame Update) World Map_
 
 ![1.64 (Errant Pilgrim Update)](../assets/World_Map_1.64.jpg)
 
-_1.64 (Errant Pilgrim Update)_
-
 ![1.89 (Hesitant Prospect Update)](../assets/World_Map_Overview_V1.89.jpg)
-
-_1.89 (Hesitant Prospect Update)_
 
 ![1.89 (Hesitant Prospect Update) Selection Screen](../assets/TLD_regions.png)
 
-_1.89 (Hesitant Prospect Update) Selection Screen_
-
 ![1.98 (Perilous Constraint Update)](../assets/Lower_Great_Bear_1.98.jpg)
-
-_1.98 (Perilous Constraint Update)_
 
 ![1.98 Selection Screen](../assets/TLD_regions1.jpg)
 
-_1.98 Selection Screen_
-
 ![2.03 (Tales from the Far Territory Part 1) (Current Map)](../assets/Lower_Great_Bear_Map_2024.png)
-
-_2.03 (Tales from the Far Territory Part 1) (Current Map)_
 
 ### Far Territory Maps
 
 ![V2.03 (Part One Forsaken Airfield Update)](../assets/Far_Territory_World_Map_V2.03.png)
 
-_V2.03 (Part One Forsaken Airfield Update)_
-
 ![2.03 selection region map (missing Far Range Branch Line)](../assets/The_Far_Territory_Region_Selection_Part_One.png)
-
-_2.03 selection region map (missing Far Range Branch Line)_
 
 ![2.25 (TFTFT PART FOUR: Buried Echoes Update) World Map](../assets/Far_Territory_Map_2024.png)
 
-_2.25 (TFTFT PART FOUR: Buried Echoes Update) World Map_
-
 ![ditto, region selection](../assets/TLD_regions_list2.jpg)
-
-_ditto, region selection_
 
 ![2.28 (Part 5 Last Horizon Update) Current Map](../assets/Far_Territory_Part_5_Map.jpg)
 
-_2.28 (Part 5 Last Horizon Update) Current Map_
-
 ![Ditto, selection screen](../assets/Far_Territory_Selection_Part_5.jpg)
-
-_Ditto, selection screen_
 
 ## Trivia
 

@@ -4,9 +4,7 @@
 
 **Snow Pants**
 
-![](../assets/Snow_Pants_icon.png)
-
-_Snow\_Pants\_icon.png_
+![Snow Pants icon](../assets/Snow_Pants_icon.png)
 
 **General**
 
@@ -14,21 +12,21 @@ _Snow\_Pants\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![](../assets/Protection_icon.png)5%
+**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![](../assets/Mobility_icon.png)-5%
+**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition
+**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
 
 > “**Insulated pants with a nylon windproof layer. Designed for spending a day in the snow without getting too wet!**”
 >
@@ -50,11 +48,7 @@ Not available on [Interloper](./Interloper.md).
 
 ![Clothing model icon](../assets/Snow_Pants_Model_icon.png)
 
-_Clothing model icon_
-
 ![Clothing model icon damaged](../assets/Snow_Pants_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
 
 ## Update history
 

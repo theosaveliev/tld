@@ -4,9 +4,7 @@
 
 **A Page From A Journal**
 
-![](../assets/A_Page_From_A_Journal_icon.png)
-
-_A\_Page\_From\_A\_Journal\_icon.png_
+![A Page From A Journal icon](../assets/A_Page_From_A_Journal_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

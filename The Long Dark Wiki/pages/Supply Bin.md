@@ -11,9 +11,7 @@
 
 **Supply Bin**
 
-![](../assets/Supply_Bin.jpg)
-
-_Supply\_Bin.jpg_
+![Supply Bin](../assets/Supply_Bin.jpg)
 
 **Story item:** Yes
 

@@ -4,15 +4,11 @@
 
 **Ambler's Lake**
 
-![](../assets/Ambler%27s_Lake.jpg)
-
-_Ambler's\_Lake.jpg_
+![Ambler's Lake](../assets/Ambler%27s_Lake.jpg)
 
 **Location**
 
-![](../assets/Ambler%27s_Lake_Location.png)
-
-_Ambler's\_Lake\_Location.png_
+![Ambler's Lake Location](../assets/Ambler%27s_Lake_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -29,5 +25,3 @@ A [Moose](./Moose.md) can appear to the west of the lake, and a [Bear](./Bear.md
 ## Gallery
 
 ![A view of the lake in a foggy day](../assets/Screen_a67b8599-e064-4790-836b-94d5babb4224_hi.png)
-
-_A view of the lake in a foggy day_

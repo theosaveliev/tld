@@ -14,15 +14,13 @@
 
 **Flashlight**
 
-![](../assets/Flashlight_icon.png)
-
-_flashlight\_icon.png_
+![Flashlight icon](../assets/Flashlight_icon.png)
 
 **General**
 
 **Item Type:** Tool
 
-**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
 **Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md)
 
@@ -82,8 +80,4 @@ The Flashlight appears to be loosely based on a 1920s vintage Ever-Ready flashli
 
 ![The flashlight in use](../assets/Flashlight_in_action.jpg)
 
-_The flashlight in use_
-
 ![Utilizing the high beam function](../assets/Flashlight_high_beam.jpg)
-
-_Utilizing the high beam function_

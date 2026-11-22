@@ -4,9 +4,7 @@
 
 **Hippocratic Oath**
 
-![](../assets/Hippocratic_Oath_icon.png)
-
-_Hippocratic\_Oath\_icon.png_
+![Hippocratic Oath icon](../assets/Hippocratic_Oath_icon.png)
 
 **Description:** Rescue all three lost Survivors and stock the Hall with supplies.
 

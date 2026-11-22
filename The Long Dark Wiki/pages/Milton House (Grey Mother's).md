@@ -11,15 +11,11 @@
 
 **Milton House (Grey Mother's)**
 
-![](../assets/Milton_House_%28Grey_Mother%27s%29.png)
-
-_Milton\_House\_(Grey\_Mother's).png_
+![Milton House (Grey Mother's)](../assets/Milton_House_%28Grey_Mother%27s%29.png)
 
 **Location**
 
-![](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png)
-
-_Milton\_House\_(Grey\_Mother's)\_Location.png_
+![Milton House (Grey Mother's) Location](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -29,9 +25,7 @@ _Milton\_House\_(Grey\_Mother's)\_Location.png_
 
 **Type:** Residential
 
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
+![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

@@ -4,13 +4,11 @@
 
 **Landslide (Bleak Inlet)**
 
-\[Missing image: Landslide\_Bleak\_Inlet.jpg\] / _Landslide\_Bleak\_Inlet.jpg_
+\[Missing image: Landslide\_Bleak\_Inlet.jpg\]<br>_Landslide\_Bleak\_Inlet.jpg_
 
 **Location**
 
-![](../assets/Landslide_Bleak_Inlet_Location.png)
-
-_Landslide\_Bleak\_Inlet\_Location.png_
+![Landslide Bleak Inlet Location](../assets/Landslide_Bleak_Inlet_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

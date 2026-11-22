@@ -11,9 +11,7 @@
 
 **Rainbow Trout (Cooked)**
 
-![](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
-
-_Rainbow\_Trout\_(Cooked)\_icon.png_
+![Rainbow Trout (Cooked) icon](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
@@ -62,27 +60,15 @@ Cooking trout improves the [Cooking Skill](./Skills.md#Cooking). Using a [Cookin
 
 ![Prepared Raw](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
 
-_Prepared Raw_
-
 ![Fresh](../assets/Rainbow_Trout_%28Cooked%29_Fresh_icon.png)
-
-_Fresh_
 
 ![Gamey](../assets/Rainbow_Trout_%28Cooked%29_Gamey_icon.png)
 
-_Gamey_
-
 ![Mouldy](../assets/Rainbow_Trout_%28Cooked%29_Mouldy_icon.png)
-
-_Mouldy_
 
 ![Rancid](../assets/Rainbow_Trout_%28Cooked%29_Rancid_icon.png)
 
-_Rancid_
-
 ![Ruined](../assets/Rainbow_Trout_%28Cooked%29_Ruined_icon.png)
-
-_Ruined_
 
 ## Update history
 

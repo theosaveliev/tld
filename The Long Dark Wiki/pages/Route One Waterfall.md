@@ -4,15 +4,11 @@
 
 **Route One Waterfall**
 
-![](../assets/Route_One_Waterfall.jpg)
-
-_Route\_One\_Waterfall.jpg_
+![Route One Waterfall](../assets/Route_One_Waterfall.jpg)
 
 **Location**
 
-![](../assets/Route_One_Waterfall_Location.png)
-
-_Route\_One\_Waterfall\_Location.png_
+![Route One Waterfall Location](../assets/Route_One_Waterfall_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

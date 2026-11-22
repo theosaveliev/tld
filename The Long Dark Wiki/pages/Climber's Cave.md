@@ -14,15 +14,11 @@
 
 **Climber's Cave**
 
-![](../assets/20201212011633_1.jpg)
-
-_20201212011633\_1.jpg_
+![20201212011633 1](../assets/20201212011633_1.jpg)
 
 **Location**
 
-![](../assets/Climber%27s_Cave_Location.png)
-
-_Climber's\_Cave\_Location.png_
+![Climber's Cave Location](../assets/Climber%27s_Cave_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -62,11 +58,7 @@ From there the cave transition to Timberwolf Mountain, the West access, is not f
 
 ![The view from the Cave](../assets/Climbers_Cave.jpg)
 
-_The view from the Cave_
-
 ![Cave Entrance](../assets/20210503015111_1.jpg)
-
-_Cave Entrance_
 
 ![Overhang rock pass, begining of a scavenge route tovards the bridge above Shattered Cove](../assets/Overhang_rock_pass.png)
 

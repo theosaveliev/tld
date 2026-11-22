@@ -4,15 +4,11 @@
 
 **Alan's Cave**
 
-![](../assets/Alan%27s_Cave.jpg)
-
-_Alan's\_Cave.jpg_
+![Alan's Cave](../assets/Alan%27s_Cave.jpg)
 
 **Location**
 
-![](../assets/Alan%27s_Cave_Location.png)
-
-_Alan's\_Cave\_Location.png_
+![Alan's Cave Location](../assets/Alan%27s_Cave_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

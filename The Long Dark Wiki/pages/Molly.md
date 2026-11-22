@@ -17,9 +17,7 @@
 
 **Molly**
 
-![](../assets/Molly.png)
-
-_Molly.png_
+![Molly](../assets/Molly.png)
 
 **Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 
@@ -27,7 +25,7 @@ _Molly.png_
 
 **Wintermute:** [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
 
-**Mission:** **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Aftermath](./Aftermath.md)
+**Mission:** **•** [Trauma](./Trauma.md)<br>**•** [Fallen Star](./Fallen%20Star.md)<br>**•** [Aftermath](./Aftermath.md)
 
 **Location(s):** [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
 
@@ -49,7 +47,7 @@ _Molly.png_
 
 **Game Information**
 
-**Equipment:** **•** [Hunting rifle](./Hunting%20Rifle.md) / **•** [Survival bow](./Survival%20Bow.md)
+**Equipment:** **•** [Hunting rifle](./Hunting%20Rifle.md)<br>**•** [Survival bow](./Survival%20Bow.md)
 
 **Voiced by:** Jennifer Kitchen
 
@@ -108,23 +106,13 @@ Molly and Astrid's phone calls may have briefly connected to the [Hunting Lodge'
 
 ![Molly finding Astrid in the snow](../assets/Astrid_in_snow.jpg)
 
-_Molly finding Astrid in the snow_
-
 ![Molly introduces herself to Astrid](../assets/Molly_cinematic.jpg)
-
-_Molly introduces herself to Astrid_
 
 ![Molly's dead husband in the basement](../assets/Molly%27s_Husband.jpg)
 
-_Molly's dead husband in the basement_
-
 ![A photo of Molly and her husband](../assets/Molly%27s_Husband_Picture.png)
 
-_A photo of Molly and her husband_
-
-![](../assets/Missions_story_ep3_Trauma.png)
-
-_Missions\_story\_ep3\_Trauma.png_
+![Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
 
 ## Update History
 

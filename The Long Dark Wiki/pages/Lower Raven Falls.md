@@ -4,15 +4,11 @@
 
 **Lower Raven Falls**
 
-![](../assets/SS-BI-LowerRavenFall.jpg)
-
-_SS-BI-LowerRavenFall.jpg_
+![SS BI LowerRavenFall](../assets/SS-BI-LowerRavenFall.jpg)
 
 **Location**
 
-![](../assets/Lower_Raven_Falls_Location.png)
-
-_Lower\_Raven\_Falls\_Location.png_
+![Lower Raven Falls Location](../assets/Lower_Raven_Falls_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

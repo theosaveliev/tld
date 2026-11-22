@@ -4,9 +4,7 @@
 
 **Bunker Schematic Fragment 3**
 
-![](../assets/Bunker_Schematic_Fragment_3_icon.png)
-
-_Bunker\_Schematic\_Fragment\_3\_icon.png_
+![Bunker Schematic Fragment 3 icon](../assets/Bunker_Schematic_Fragment_3_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

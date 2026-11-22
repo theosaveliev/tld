@@ -21,9 +21,7 @@
 
 **Survival Bow**
 
-![](../assets/Survival_Bow_icon.png)
-
-_Survival\_Bow\_icon.png_
+![Survival Bow icon](../assets/Survival_Bow_icon.png)
 
 **General**
 
@@ -35,7 +33,7 @@ _Survival\_Bow\_icon.png_
 
 **Statistics**
 
-**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
 **Harvest:** _Unharvestable_
 
@@ -83,7 +81,7 @@ Drawing a loaded bow will cause the player's view to zoom, enabling the bow to b
 
 ## Hunting
 
-_Main article: [Hunting](./Hunting.md)_The Survival Bow is a crafted tool which fires Simple Arrows. Arrows may kill animals instantly with a critical hit, they more commonly cause bleeding wounds that drain the animal's health over time. When hunting it is wise to consider the weather, time of day, and ability to track a wounded animal as it flees. Arrows may be retrieved from the ground or an animal's carcass by left-clicking on it.![](../assets/20201128184359_1.jpg)
+_Main article: [Hunting](./Hunting.md)_The Survival Bow is a crafted tool which fires Simple Arrows. Arrows may kill animals instantly with a critical hit, they more commonly cause bleeding wounds that drain the animal's health over time. When hunting it is wise to consider the weather, time of day, and ability to track a wounded animal as it flees. Arrows may be retrieved from the ground or an animal's carcass by left-clicking on it.![20201128184359 1](../assets/20201128184359_1.jpg)
 
 ### Bleed-out time
 
@@ -166,5 +164,3 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 ## Gallery
 
 ![Old Survival Bow model](../assets/Oldsurvivalbowmodel.jpg)
-
-_Old Survival Bow model_

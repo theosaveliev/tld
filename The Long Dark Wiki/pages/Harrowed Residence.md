@@ -4,15 +4,11 @@
 
 **Harrowed Residence**
 
-![](../assets/Harrowed_Residence.jpg)
-
-_Harrowed\_Residence.jpg_
+![Harrowed Residence](../assets/Harrowed_Residence.jpg)
 
 **Location**
 
-![](../assets/Harrowed_Residence_Location.png)
-
-_Harrowed\_Residence\_Location.png_
+![Harrowed Residence Location](../assets/Harrowed_Residence_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

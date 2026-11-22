@@ -4,9 +4,7 @@
 
 **Perseverance**
 
-![](../assets/Missions_story_ep5_Perseverance.png)
-
-_Missions\_story\_ep5\_Perseverance.png_
+![Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
 
 Episode
 
@@ -20,7 +18,7 @@ Episode
 
 **Region:** [Perseverance Mills](./Perseverance%20Mills.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Jane Yang](./Jane%20Yang.md)
 
 **Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Perseverance&amp;action=edit expanding it\].**
 

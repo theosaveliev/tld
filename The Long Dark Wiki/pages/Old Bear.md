@@ -23,9 +23,7 @@
 
 **Old Bear**
 
-![](../assets/Old_Bear.png)
-
-_Old\_Bear.png_
+![Old Bear](../assets/Old_Bear.png)
 
 **Basic Information**
 
@@ -102,49 +100,31 @@ The Old Bear is slated to appear in a third challenge.
 
 ![Steam Trading Card](../assets/Old_Bear_Steam_Card_Preview.png)
 
-_Steam Trading Card_
-
 ![Ditto, full screen](../assets/Old_Bear_Steam_Card.jpg)
-
-_Ditto, full screen_
 
 ![Demon Bear
 
-Old Bear](../assets/Demonbear.jpg) / _Demon Bear / Old Bear_
+Old Bear](../assets/Demonbear.jpg)
 
 ![The Spear Used To Kill The Bear](../assets/20190222163731_1.jpg)
 
-_The Spear Used To Kill The Bear_
-
 ![The Bear Knocking Down The Train Car You're In.](../assets/Bear_attack_2.jpg)
-
-_The Bear Knocking Down The Train Car You're In._
 
 ![The Bear Backing Off After Getting The Spear.](../assets/Bear_attack.jpg)
 
-_The Bear Backing Off After Getting The Spear._
-
 ![The Old Bear attacking the player](../assets/The_Long_Dark_-_episode_two_-_jeremiahs_bear.png)
 
-_The Old Bear attacking the player_
-
 ![The 2 scars on his right side](../assets/Old_Bear_Scars.jpg)
-
-_The 2 scars on his right side_
 
 ### Predux Episode 2
 
 ![The Old Bear attacking Mackenzie (Predux)](../assets/Jeremiah%27s_Folly.jpg)
-
-_The Old Bear attacking Mackenzie (Predux)_
 
 ![The Old Bear slain in Jeremiah's Folly (Predux)](../assets/The_Old_Bear_dead.jpg)
 
 _The Old Bear slain in [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) (Predux)_
 
 ![The arrows stuck in the Old Bear (Predux)](../assets/Dead_Old_Bear_Arrows.jpg)
-
-_The arrows stuck in the Old Bear (Predux)_
 
 ![The Old Bear's Ear (Predux)](../assets/The_Old_Bear%27s_Ear_icon.png)
 
@@ -158,15 +138,9 @@ _[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)_
 
 ![Ditto, old icon](../assets/The_Hunted%2C_Part_One.png)
 
-_Ditto, old icon_
-
 ![The Hunted, Part One Badge](../assets/Badge_challenge_huntedPart2.png)
 
-_The Hunted, Part One Badge_
-
 ![The Hunted, Part One fanart](../assets/Hunted_1.jpg)
-
-_The Hunted, Part One fanart_
 
 ![The Hunted, Part Two](../assets/Challenge_Hunted2.png)
 
@@ -174,11 +148,7 @@ _[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)_
 
 ![The Badge awarded from The Hunted, Part Two](../assets/The_Hunted_Part_One_icon.png)
 
-_The Badge awarded from The Hunted, Part Two_
-
 ![The Hunted, Part Two fanart](../assets/Hunted_2.jpg)
-
-_The Hunted, Part Two fanart_
 
 ## Trivia
 

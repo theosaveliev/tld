@@ -15,9 +15,7 @@
 
 **The Hunted, Part One**
 
-![](../assets/Challenge_Hunted.png)
-
-_Challenge\_Hunted.png_
+![Challenge Hunted](../assets/Challenge_Hunted.png)
 
 **Details**
 
@@ -77,11 +75,7 @@ The Challenge is completed when the player enters the door to [Trapper's Homeste
 
 ![The badge awarded upon completing the challenge](../assets/The_Hunted_Part_One_icon.png)
 
-_The badge awarded upon completing the challenge_
-
 ![Fan art](../assets/Hunted_1.jpg)
-
-_Fan art_
 
 ## Game history
 

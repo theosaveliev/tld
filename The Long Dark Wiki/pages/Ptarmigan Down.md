@@ -4,9 +4,7 @@
 
 **Ptarmigan Down**
 
-![](../assets/Ptarmigan_Down_icon.png)
-
-_Ptarmigan\_Down\_icon.png_
+![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -30,13 +28,11 @@ _Ptarmigan\_Down\_icon.png_
 
 **Item key:** GAMEPLAY\_PtarmiganDown
 
-![](../assets/Ptarmigan_icon.png)
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-_Ptarmigan\_icon.png_
+**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-**Ptarmigan Down** is a Material resource that can be harvested from the bodies of slain [Ptarmigans](./Ptarmigan.md). It was released in the paid portion of the Part 3: Frontier Comforts update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. / Its primary use is for crafting the clothing accessory [Improvised Insulation](./Improvised%20Insulation.md), and for improving an ordinary [Bedroll](./Bedroll.md) into the warmer [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md). Down bundles are also used to repair both previously mentioned items.
+**Ptarmigan Down** is a Material resource that can be harvested from the bodies of slain [Ptarmigans](./Ptarmigan.md). It was released in the paid portion of the Part 3: Frontier Comforts update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.<br>Its primary use is for crafting the clothing accessory [Improvised Insulation](./Improvised%20Insulation.md), and for improving an ordinary [Bedroll](./Bedroll.md) into the warmer [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md). Down bundles are also used to repair both previously mentioned items.
 
 ## Products
 

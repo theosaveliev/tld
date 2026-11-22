@@ -4,15 +4,11 @@
 
 **Overladen Pond**
 
-![](../assets/Overladen_Pond.jpg)
-
-_Overladen\_Pond.jpg_
+![Overladen Pond](../assets/Overladen_Pond.jpg)
 
 **Location**
 
-![](../assets/Overladen_Pond_Location.png)
-
-_Overladen\_Pond\_Location.png_
+![Overladen Pond Location](../assets/Overladen_Pond_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

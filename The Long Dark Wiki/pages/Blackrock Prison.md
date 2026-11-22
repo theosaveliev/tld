@@ -13,15 +13,11 @@
 
 **Blackrock Prison**
 
-![](../assets/Blackrock_Region.jpg)
-
-_Blackrock\_Region.jpg_
+![Blackrock Region](../assets/Blackrock_Region.jpg)
 
 **Location**
 
-![](../assets/Blackrock_Prison_Location.png)
-
-_Blackrock\_Prison\_Location.png_
+![Blackrock Prison Location](../assets/Blackrock_Prison_Location.png)
 
 Region
 
@@ -81,16 +77,8 @@ The outside grounds are fully accessible in Survival Mode. This includes the inf
 
 ![Blackrock prison map (Not spoiler)](../assets/Map-BRP-Ep4-Lv0-100.png)
 
-_Blackrock prison map (Not spoiler)_
-
 ![Blackrock prison map (Spoiler)](../assets/Map-BRP-Ep4-Lv3-101.png)
-
-_Blackrock prison map (Spoiler)_
 
 ![The Penitentiary during an Aurora](../assets/Blackrock-penitentiary-1360-comp-768x432.jpg)
 
-_The Penitentiary during an Aurora_
-
 ![The entrance sign to the prison](../assets/Blackrock_Prison_Entrance.jpg)
-
-_The entrance sign to the prison_

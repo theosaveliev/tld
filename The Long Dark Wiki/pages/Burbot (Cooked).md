@@ -6,9 +6,7 @@ _For the raw version, see [Burbot (Raw)](./Burbot%20%28Raw%29.md)._
 
 **Burbot (Cooked)**
 
-![](../assets/Burbot_%28Cooked%29_icon.png)
-
-_Burbot\_(Cooked)\_icon.png_
+![Burbot (Cooked) icon](../assets/Burbot_%28Cooked%29_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -53,23 +51,13 @@ _Burbot\_(Cooked)\_icon.png_
 
 ![Fresh](../assets/Burbot_%28Cooked%29_icon.png)
 
-_Fresh_
-
 ![Gamey](../assets/Burbot_%28Cooked%29_Gamey_icon.png)
-
-_Gamey_
 
 ![Mouldy](../assets/Burbot_%28Cooked%29_Mouldy_icon.png)
 
-_Mouldy_
-
 ![Rancid](../assets/Burbot_%28Cooked%29_Rancid_icon.png)
 
-_Rancid_
-
 ![Ruined](../assets/Burbot_%28Cooked%29_Ruined_icon.png)
-
-_Ruined_
 
 ## Update history
 

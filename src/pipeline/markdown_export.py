@@ -3181,10 +3181,7 @@ def _convert_html_to_markdown(
 
     if _contains_html_markup(markdown_body):
         markdown_body = _html_fragment_to_markdown(rewritten_html)
-        note = (
-            f"{note} Converted HTML elements retained by Pandoc into Markdown."
-        ).strip()
-        return markdown_body, note, True
+        return markdown_body, note, False
     return markdown_body, note, False
 
 

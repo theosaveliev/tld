@@ -1672,11 +1672,11 @@ def test_page_markdown_dedents_root_lists_and_preserves_nested_indentation() -> 
 
     markdown = _page_markdown("Timeline", [], body, None)
 
-    assert "\\n- First event\\n" in markdown
-    assert "\\n  - Nested event\\n" in markdown
-    assert "\\n    - Deeply nested event\\n" in markdown
-    assert "\\n- Second event\\n" in markdown
-    assert "\\n- Another root event\\n" in markdown
+    assert "\n- First event\n" in markdown
+    assert "\n  - Nested event\n" in markdown
+    assert "\n    - Deeply nested event\n" in markdown
+    assert "\n- Second event\n" in markdown
+    assert "\n- Another root event\n" in markdown
 
 
 def test_page_markdown_strips_html_tags_and_decodes_visible_entities() -> None:

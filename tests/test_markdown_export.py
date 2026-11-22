@@ -886,6 +886,7 @@ def test_page_markdown_removes_leaked_template_and_wikitext_artifacts() -> None:
 
 - **Template:iconlink**, wooden matches used as a temporary light source
 - **Template:iconlink plain**
+- **Template:stub** A stub article awaiting details.
 
 \|}{\| style="margin:auto"
 

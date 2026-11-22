@@ -5,6 +5,7 @@ import re
 from typing import TYPE_CHECKING
 
 import pytest
+from lxml import html as lhtml
 
 from pipeline import markdown_export as markdown_export_module
 from pipeline.markdown_export import (
@@ -20,6 +21,7 @@ from pipeline.markdown_export import (
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
+    _markdown_image,  # pyright: ignore[reportPrivateUsage]
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
@@ -852,15 +854,15 @@ def test_markdown_images_get_readable_alt_text_from_filename() -> None:
     )
 
     assert (
-        markdown_export_module._markdown_image(image)
+        _markdown_image(image)
         == "![Energy Boost icon](../assets/Energy_Boost_icon.png)"
     )
     assert (
-        markdown_export_module._markdown_image(empty_alt_image)
+        _markdown_image(empty_alt_image)
         == "![Blood Loss icon](../assets/Blood_Loss_icon.png)"
     )
     assert (
-        markdown_export_module._markdown_image(no_alt_image)
+        _markdown_image(no_alt_image)
         == "![Cooking Pot icon](../assets/Cooking_Pot_icon.png)"
     )
 

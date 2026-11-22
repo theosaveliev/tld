@@ -794,6 +794,34 @@ def test_image_bearing_infobox_preserves_breaks_and_removes_filename_captions() 
     assert " / " not in markdown
 
 
+def test_image_bearing_data_table_with_headers_keeps_pipe_table_layout() -> None:
+    fragment = """<table><tbody>
+<tr>
+<th>Image</th><th>Affliction</th><th>Cause</th>
+<th>Effect</th><th>Duration</th><th>Treatment</th>
+</tr>
+<tr>
+<td><img src="../assets/Concussion_icon.png"
+alt="Concussion_icon.png" /><br /><em>Concussion_icon.png</em></td>
+<td><a href="./Concussion.md">Concussion</a></td>
+<td>Plane crash</td>
+<td>None</td>
+<td>Scripted</td>
+<td>None</td>
+</tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "| Image | Affliction | Cause | Effect | Duration | Treatment |" in markdown
+    assert (
+        "| ![](../assets/Concussion_icon.png) | "
+        "[Concussion](./Concussion.md) | Plane crash | None | Scripted | None |"
+    ) in markdown
+    assert "_Concussion\\\\_icon.png_" not in markdown
+    assert "| Property | Details |" not in markdown
+
+
 def test_image_table_removes_raw_file_wrapper_and_repeated_alt_captions() -> None:
     fragment = r"""<table><tbody><tr><td>
 [[File: / <img src="../assets/Abandoned_Mine.jpg" alt="Entrance" /> /

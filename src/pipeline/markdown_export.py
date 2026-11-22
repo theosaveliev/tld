@@ -1113,10 +1113,9 @@ def _heading_version_aliases(label: str) -> list[str]:
 
 
 def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
-    """Preserve source heading IDs and emit aliases that survive Markdown conversion."""
+    """Preserve source heading IDs for native Markdown section links."""
     existing_ids = {node.get("id") for node in root.iter() if node.get("id")}
     used: set[str] = set()
-    used_slugs: dict[str, int] = {}
     headings: list[tuple[int, str, str]] = []
     for heading in root.iter("h1", "h2", "h3", "h4", "h5", "h6"):
         label = heading.text_content().strip()
@@ -1131,11 +1130,6 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
             identifier = candidate
             heading.set("id", identifier)
         used.add(identifier)
-
-        slug = _markdown_heading_slug(label)
-        slug_count = used_slugs.get(slug, 0)
-        used_slugs[slug] = slug_count + 1
-        slug_alias = f"{slug}-{slug_count}" if slug_count else slug
 
         tag = heading.tag
         if not isinstance(tag, str):
@@ -1593,7 +1587,7 @@ def _strip_empty_markdown_sections(value: str) -> str:
 def _strip_leaked_html_markup(value: str) -> str:
     """Remove raw and escaped HTML tags/comments from user-facing Markdown."""
     cleaned = re.sub(r"\\?\s*&lt;!--[\s\S]*?--&gt;", "", value, flags=re.IGNORECASE)
-    cleaned = re.sub(r"\\?\s*<!--[\\s\\S]*?-->", "", cleaned)
+    cleaned = re.sub(r"\\?\s*<!--[\s\S]*?-->", "", cleaned)
     cleaned = re.sub(
         r"&lt;\s*/?\s*[A-Za-z][A-Za-z0-9:-]*(?:(?!&gt;)[\s\S])*?&gt;",
         " ",

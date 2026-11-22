@@ -1725,17 +1725,25 @@ def _markdown_code_span(value: str) -> str:
     return f"{fence}{padding}{content}{padding}{fence}"
 
 
+def _image_alt_from_source(source: str) -> str:
+    """Create a readable, non-empty image label from its source filename."""
+    image_path = urllib.parse.unquote(urllib.parse.urlsplit(source).path)
+    filename = image_path.rsplit("/", 1)[-1]
+    stem = filename.rsplit(".", 1)[0] if "." in filename else filename
+    label = re.sub(r"[_-]+", " ", stem).strip()
+    return label or "Image"
+
+
 def _markdown_image(node: lhtml.HtmlElement) -> str:
     """Convert an HTML image to a Markdown image reference."""
     source = node.get("src", "")
-    label = node.get("alt") or node.get("title") or ""
-    if (
-        label
-        and source
-        and normalize_image_name(label)
+    label = (node.get("alt") or node.get("title") or "").strip()
+    if source and (
+        not label
+        or normalize_image_name(label)
         == normalize_image_name(urllib.parse.unquote(source))
     ):
-        label = ""
+        label = _image_alt_from_source(source)
     if not source:
         return _markdown_text(label)
     return f"![{_markdown_text(label)}]({_markdown_destination(source)})"

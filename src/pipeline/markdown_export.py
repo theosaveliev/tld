@@ -1076,6 +1076,8 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
                 r"\1",
                 cleaned_line,
             )
+            if re.fullmatch(r"\s*\|\s*(?:\|\s*)+\s*", cleaned_line.strip()):
+                continue
             if re.fullmatch(r"\s*(?:[-*+]|\d+[.)])\s*", cleaned_line.strip()):
                 continue
         output.append(cleaned_line)
@@ -1133,8 +1135,9 @@ def _normalize_markdown_emphasis(value: str) -> str:
             if index % 2:
                 output.append(part)
             else:
+                separated_strong = re.sub(r"(?<!\\)\\*{4}(?!\\*)", "** **", part)
                 strong = STRONG_UNDERSCORE_RE.sub(
-                    lambda item: f"**{item.group('content')}**", part
+                    lambda item: f"**{item.group('content')}**", separated_strong
                 )
                 output.append(
                     ITALIC_ASTERISK_RE.sub(

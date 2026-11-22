@@ -481,8 +481,8 @@ def test_recipe_infobox_parses_single_cell_item_and_quantity_headers() -> None:
 <tr><td>Required level</td><td>2</td></tr>
 <tr><td>Facility</td><td>Fire</td></tr>
 <tr><td>Tool</td><td>Cooking Skillet</td></tr>
-<tr><td>Item</td></tr>
-<tr><td>Quantity</td></tr>
+<tr><td colspan="2"><strong>Item</strong></td></tr>
+<tr><td colspan="2"><strong>Quantity</strong></td></tr>
 <tr><td><a href="./Acorn_Grounds.md">Acorn Grounds</a></td></tr>
 <tr><td>1</td></tr>
 <tr><td><a href="./Water.md">Water (Potable)</a></td></tr>

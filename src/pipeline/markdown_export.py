@@ -46,6 +46,10 @@ USES_MATERIAL_LIST_RE = re.compile(
     r"\{\{\s*Uses material list(?:\s*\|\s*([^{}]*?))?\s*\}\}", re.IGNORECASE
 )
 BACKTICK = chr(96)
+REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
+    r"(?P<image>!\[(?:\\.|[^\]])*\]\((?P<destination>[^)]+)\))"
+    r"\s*/\s*_(?P<caption>(?:\\.|[^_])*)_"
+)
 INLINE_CODE_SPAN_RE = re.compile(
     "("
     + re.escape(BACKTICK)
@@ -1912,11 +1916,6 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
 
 def _remove_redundant_image_filename_captions(value: str) -> str:
     """Drop italic captions that only repeat the adjacent image filename."""
-    pattern = re.compile(
-        r"(?P<image>!\[(?:\\.|[^\]])*\]\((?P<destination>[^)]+)\))"
-        r"\s*/\s*_(?P<caption>(?:\\.|[^_])*)_"
-    )
-
     def replace(match: re.Match[str]) -> str:
         caption = re.sub(r"\\(.)", r"\1", match.group("caption"))
         destination = urllib.parse.unquote(
@@ -1926,7 +1925,7 @@ def _remove_redundant_image_filename_captions(value: str) -> str:
             return match.group("image")
         return match.group(0)
 
-    return pattern.sub(replace, value)
+    return REDUNDANT_IMAGE_FILENAME_CAPTION_RE.sub(replace, value)
 
 
 def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:

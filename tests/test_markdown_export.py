@@ -882,6 +882,20 @@ def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
     assert "| Column 1 |" not in markdown
 
 
+def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None:
+    fragment = """<table><tbody>
+<tr><th>Weather</th><th>Effects</th></tr>
+<tr><td>Clear</td><td><ul><li>Warm.</li><li>High visibility.</li></ul></td></tr>
+</tbody></table>"""
+
+    markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
+
+    assert not failed
+    assert not note
+    assert "| Weather | Effects |" in markdown
+    assert "| Clear | - Warm. / - High visibility. |" in markdown
+
+
 def test_page_markdown_removes_additional_leaked_template_labels() -> None:
     body = """==References==
 References are listed below.

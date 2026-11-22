@@ -399,7 +399,13 @@ def _changelog_archive_filename(
     filename: str, fragment: str, title_to_filename: dict[str, str]
 ) -> str | None:
     """Route legacy changelog version links to the page holding that release."""
-    if filename.casefold() != "the long dark — changelog.md".casefold():
+    changelog_pages = {
+        "the long dark — changelog.md",
+        "the long dark — early access changelog.md",
+        "the long dark — changelog — archive 1.md",
+        "the long dark — changelog — archive 2.md",
+    }
+    if filename.casefold() not in changelog_pages:
         return None
 
     match = re.fullmatch(

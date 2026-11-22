@@ -1667,6 +1667,9 @@ def _normalize_markdown_list_indentation(value: str) -> str:
         )
         if list_match is not None:
             indent = len(list_match.group("indent"))
+            if not list_stack and indent > 3:
+                output.append(line)
+                continue
             is_unordered = list_match.group("marker") in {"-", "+", "*"}
             while list_stack and indent <= list_stack[-1]:
                 list_stack.pop()

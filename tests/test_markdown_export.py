@@ -1878,12 +1878,14 @@ def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links
 
 
 def test_sanitize_expanded_wikitext_normalizes_nbsp_only_table_cells() -> None:
-    source = '{| class="wikitable"\n| &nbsp;\n|}'
+    source = '{| class="wikitable"\n|     &nbsp;\n!\n|}'
 
     sanitized = _sanitize_expanded_wikitext(source)
 
-    assert "|&nbsp;\n" in sanitized
-    assert "| &nbsp;" not in sanitized
+    assert "| &nbsp;\n" in sanitized
+    assert "! &nbsp;\n" in sanitized
+    assert "|&nbsp;" not in sanitized
+    assert "!&nbsp;" not in sanitized
 
 
 def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> None:

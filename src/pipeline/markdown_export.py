@@ -91,7 +91,9 @@ WIKITEXT_SCOPE_WIDTH_RE = re.compile(
     r'(?P<width>width\s*:\s*[^";|\r\n]+);(?P<tail>"?\s*\|)',
     re.IGNORECASE,
 )
-WIKITEXT_EMPTY_CELL_LINE_RE = re.compile(r"(?m)^(?P<marker>[|!])\s*$")
+WIKITEXT_EMPTY_CELL_LINE_RE = re.compile(
+    r"(?m)^(?P<marker>[|!])[ \t]*(?P<line_ending>\r?)$"
+)
 WIKITEXT_NBSP_CELL_RE = re.compile(
     r"(?im)^(?P<marker>[|!])[ \t]+&nbsp;[ \t]*(?P<line_ending>\r?)$"
 )
@@ -814,7 +816,7 @@ def _strip_orphan_wikitext_ref_closers(value: str) -> str:
 
 
 def _repair_malformed_wikitext_table_attributes(value: str) -> str:
-    """Repair common split style attributes emitted by Fandom table markup."""
+    """Repair split style attributes and preserve a space before NBSP cells."""
     cleaned = WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE.sub(r'\g<prefix>" \g<style>"', value)
 
     def join_style(match: re.Match[str]) -> str:
@@ -831,8 +833,10 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
         ),
         cleaned,
     )
-    cleaned = WIKITEXT_NBSP_CELL_RE.sub(r"\g<marker>&nbsp;\g<line_ending>", cleaned)
-    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker>&nbsp;", cleaned)
+    cleaned = WIKITEXT_NBSP_CELL_RE.sub(
+        r"\g<marker> &nbsp;\g<line_ending>", cleaned
+    )
+    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker> &nbsp;\g<line_ending>", cleaned)
 
 
 def _replace_wikitext_imagemaps(value: str) -> str:

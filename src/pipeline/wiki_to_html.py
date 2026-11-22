@@ -327,6 +327,17 @@ def render_missing(name, tpl):
     )
 
 
+NON_CONTENT_NAVBOX_TEMPLATES = frozenset(
+    {
+        "paradise lost (predux)",
+        "railway",
+        "renewed hope (predux)",
+        "survival school (predux)",
+        "the grey mother (predux)",
+    }
+)
+
+
 def prepass(text, ctx, infobox_defs, page_title, stats):
     code = mwparserfromhell.parse(text)
     for tpl in code.filter_templates(recursive=False):
@@ -338,6 +349,8 @@ def prepass(text, ctx, infobox_defs, page_title, stats):
             params = {str(p.name).strip(): str(p.value).strip() for p in tpl.params}
             code.replace(tpl, render_infobox(infobox_defs[cn], params, page_title))
             stats["infoboxes"] += 1
+        elif cn.casefold() in NON_CONTENT_NAVBOX_TEMPLATES:
+            code.replace(tpl, "")
         elif cn not in ctx.templates:
             code.replace(tpl, render_missing(cn, tpl))
             stats["missing_templates"].append(cn)

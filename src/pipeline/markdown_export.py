@@ -1076,6 +1076,8 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
                 r"\1",
                 cleaned_line,
             )
+            if re.fullmatch(r"\s*(?:[-*+]|\d+[.)])\s*", cleaned_line.strip()):
+                continue
         output.append(cleaned_line)
     return "".join(output)
 

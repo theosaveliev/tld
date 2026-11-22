@@ -333,6 +333,37 @@ def _follow_redirects(
     return title, fragment
 
 
+def _lookup_title_filename(
+    title: str, title_to_filename: dict[str, str]
+) -> str | None:
+    """Resolve exact, case-only, or punctuation-only title differences safely."""
+    filename = title_to_filename.get(title)
+    if filename is not None:
+        return filename
+
+    folded = title.casefold()
+    candidates = {
+        value
+        for key, value in title_to_filename.items()
+        if key.casefold() == folded
+    }
+    if len(candidates) == 1:
+        return candidates.pop()
+
+    compact = "".join(character for character in folded if character.isalnum())
+    if not compact:
+        return None
+    candidates = {
+        value
+        for key, value in title_to_filename.items()
+        if "".join(
+            character for character in key.casefold() if character.isalnum()
+        )
+        == compact
+    }
+    return candidates.pop() if len(candidates) == 1 else None
+
+
 def _resolve_page_destination(
     raw_target: str,
     fragment: str,
@@ -343,7 +374,7 @@ def _resolve_page_destination(
     """Resolve a local page target and preserve its section fragment."""
     key = normalize_title(raw_target.lstrip(":"))
     key, fragment = _follow_redirects(key, fragment, redirects)
-    filename = title_to_filename.get(key)
+    filename = _lookup_title_filename(key, title_to_filename)
     if filename is None:
         return None
 
@@ -1081,7 +1112,13 @@ def _rewrite_anchor_nodes(
 
         raw = urllib.parse.unquote(href).lstrip(":")
         prefix, separator, _ = raw.partition(":")
-        if separator and prefix.strip().casefold() in {"file", "image", "media"}:
+        namespace = prefix.strip().casefold()
+        if separator and namespace in {
+            "category", "special", "template", "user", "user_blog"
+        }:
+            link.drop_tag()
+            continue
+        if separator and namespace in {"file", "image", "media"}:
             output_name = _copy_image(
                 raw, image_index, image_dir, asset_dir, copied_images, used_asset_names
             )

@@ -1717,7 +1717,9 @@ def _markdown_image(node: lhtml.HtmlElement) -> str:
     """Convert an HTML image to a Markdown image reference."""
     source = node.get("src", "")
     label = node.get("alt") or node.get("title") or ""
-    if label and source and normalize_image_name(label) == normalize_image_name(source):
+    if label and source and normalize_image_name(label) == normalize_image_name(
+        urllib.parse.unquote(source)
+    ):
         label = ""
     if not source:
         return _markdown_text(label)

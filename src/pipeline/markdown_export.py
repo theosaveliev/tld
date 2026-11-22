@@ -1094,17 +1094,25 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
 
 
 def _strip_empty_gallery_sections(value: str) -> str:
-    """Remove Gallery headings that have no content and their matching TOC entries."""
+    """Remove Gallery headings only when their complete section has no content."""
     lines = value.splitlines()
     empty_gallery_lines: set[int] = set()
     for index, line in enumerate(lines):
         heading = re.match(r"^(#{1,6})\s+Gallery\s*#*\s*$", line, re.IGNORECASE)
         if heading is None:
             continue
-        following = index + 1
-        while following < len(lines) and not lines[following].strip():
-            following += 1
-        if following == len(lines) or re.match(r"^#{1,6}\s+", lines[following]):
+
+        gallery_level = len(heading.group(1))
+        section_has_content = False
+        for following in lines[index + 1 :]:
+            next_heading = re.match(r"^(#{1,6})\s+", following)
+            if next_heading is not None and len(next_heading.group(1)) <= gallery_level:
+                break
+            if following.strip() and next_heading is None:
+                section_has_content = True
+                break
+
+        if not section_has_content:
             empty_gallery_lines.add(index)
 
     if not empty_gallery_lines:
@@ -1829,6 +1837,149 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     return _pipe_table(["Property", "Details"], body)
 
 
+def _is_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Recognize recipe infoboxes by their Requirements and Materials fields."""
+    labels = {
+        cell.text_content().strip().casefold()
+        for row in rows
+        for cell in row
+    }
+    return {"requirements", "materials", "item", "quantity"} <= labels
+
+
+def _is_unresolved_icon_template(value: str) -> bool:
+    """Identify placeholder text left behind when an icon-link template is missing."""
+    return "template:iconlink" in value.casefold()
+
+
+def _render_recipe_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Render recipe metadata and ingredient pairs without splitting them into rows."""
+    skill: str | None = None
+    skill_values: list[str] = []
+    requirements: list[tuple[str, str]] = []
+    materials: list[tuple[str, str]] = []
+    pending_requirement: str | None = None
+    pending_material: str | None = None
+    section = ""
+
+    for cells in rows:
+        values = [_markdown_table_cell(cell).strip() for cell in cells]
+        plain_values = [cell.text_content().strip() for cell in cells]
+        if len(cells) == 1 and _is_table_section(cells[0]):
+            section = plain_values[0].casefold()
+            pending_requirement = None
+            continue
+
+        if not any(plain_values):
+            continue
+
+        if section == "materials":
+            if any(_is_unresolved_icon_template(value) for value in plain_values):
+                continue
+            if len(cells) > 1:
+                label = plain_values[0].rstrip(":").casefold()
+                detail = " / ".join(value for value in values[1:] if value)
+                if label == "item":
+                    pending_material = detail or None
+                elif label == "quantity":
+                    if pending_material and detail:
+                        materials.append((pending_material, detail))
+                    pending_material = None
+                elif pending_material and detail:
+                    materials.append((pending_material, detail))
+                    pending_material = None
+                continue
+
+            value = values[0]
+            if not value or _is_unresolved_icon_template(plain_values[0]):
+                continue
+            if pending_material is None:
+                pending_material = value
+            else:
+                materials.append((pending_material, value))
+                pending_material = None
+            continue
+
+        if section == "requirements":
+            if any(_is_unresolved_icon_template(value) for value in plain_values):
+                continue
+            if len(cells) > 1:
+                label = values[0].strip()
+                detail = " / ".join(value for value in values[1:] if value)
+                if label and detail:
+                    requirements.append((label.rstrip(":"), detail))
+                    pending_requirement = None
+                elif label:
+                    pending_requirement = label.rstrip(":")
+                continue
+            value = values[0]
+            if value and pending_requirement:
+                requirements.append((pending_requirement, value))
+                pending_requirement = None
+            continue
+
+        if len(cells) > 1:
+            label = values[0]
+            detail = " / ".join(value for value in values[1:] if value)
+            if label and not detail:
+                skill = label
+            elif label and detail:
+                requirements.append((label.rstrip(":"), detail))
+        else:
+            value = values[0]
+            if value and not _is_unresolved_icon_template(plain_values[0]):
+                skill_values.append(value)
+
+    if pending_material:
+        materials.append((pending_material, ""))
+
+    blocks: list[str] = []
+    if skill:
+        level = next(
+            (value for value in skill_values if re.fullmatch(r"\d+(?:\.\d+)?", value)),
+            None,
+        )
+        if level:
+            blocks.append(f"**Skill:** {skill} (Level {level})")
+        else:
+            blocks.append(f"**Skill:** {skill}")
+
+        duration = next(
+            (
+                value
+                for value in skill_values
+                if re.search(r"\b(?:seconds?|minutes?|hours?)\b", value, re.IGNORECASE)
+            ),
+            None,
+        )
+        if duration:
+            blocks.append(f"**Crafting time:** {duration}")
+        blocks.extend(
+            f"**Details:** {value}"
+            for value in skill_values
+            if value not in {level, duration}
+        )
+    else:
+        blocks.extend(skill_values)
+
+    if requirements:
+        blocks.append("**Requirements**")
+        blocks.extend(f"**{label}:** {value}" for label, value in requirements)
+
+    if materials:
+        blocks.extend(
+            [
+                "**Materials**",
+                _pipe_table(
+                    ["Item", "Quantity"],
+                    [[item, quantity] for item, quantity in materials],
+                ),
+            ]
+        )
+
+    return "\n\n".join(blocks) if blocks else _render_infobox_table(rows)
+
+
 def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
     rendered_rows = [[_markdown_table_cell(cell) for cell in row] for row in rows]
@@ -1896,7 +2047,10 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
             if quote is not None:
                 return f"**{caption}**\n\n{quote}" if caption else quote
         if "infobox" in table_classes:
-            table = _render_infobox_table(rows)
+            if _is_recipe_infobox(rows):
+                table = _render_recipe_infobox_table(rows)
+            else:
+                table = _render_infobox_table(rows)
         else:
             table = _render_generic_table(rows)
     return f"**{caption}**\n\n{table}" if caption else table

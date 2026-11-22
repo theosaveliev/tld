@@ -806,7 +806,8 @@ def test_image_bearing_data_table_with_headers_keeps_pipe_table_layout() -> None
 <td><img src="../assets/Concussion_icon.png"
 alt="Concussion_icon.png" /><br /><em>Concussion_icon.png</em></td>
 <td><a href="./Concussion.md">Concussion</a></td>
-<td>Plane crash</td>
+<td>Plane crash, 1<img src="../assets/Bandage_icon.png"
+alt="Bandage icon" /> <a href="./Bandage.md">Bandage</a></td>
 <td>None</td>
 <td>Scripted</td>
 <td>None</td>
@@ -817,10 +818,14 @@ alt="Concussion_icon.png" /><br /><em>Concussion_icon.png</em></td>
 
     assert "| Image | Affliction | Cause | Effect | Duration | Treatment |" in markdown
     assert (
-        "| ![Concussion icon](../assets/Concussion_icon.png) | "
-        "[Concussion](./Concussion.md) | Plane crash | None | Scripted | None |"
+        "| [Concussion icon](../assets/Concussion_icon.png) | "
+        "[Concussion](./Concussion.md) | "
+        "Plane crash, 1[Bandage icon](../assets/Bandage_icon.png) "
+        "[Bandage](./Bandage.md) | None | Scripted | None |"
     ) in markdown
     assert "_Concussion\\\\_icon.png_" not in markdown
+    assert "![Concussion icon]" not in markdown
+    assert "![Bandage icon]" not in markdown
     assert "| Property | Details |" not in markdown
 
 

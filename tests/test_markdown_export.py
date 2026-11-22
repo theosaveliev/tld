@@ -453,6 +453,37 @@ def test_rewrite_html_links_ignores_non_article_namespaces_and_empty_images(
     assert missing_images == set()
 
 
+def test_rewrite_html_links_copies_file_links_with_leaked_open_brackets(
+    tmp_path: Path,
+) -> None:
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    source = image_dir / "Rustic_Chair_icon.png"
+    source.write_bytes(b"chair")
+    asset_dir = tmp_path / "workspace" / "assets"
+    missing_links: set[str] = set()
+    missing_images: set[str] = set()
+
+    rewritten = _rewrite_html_links(
+        '<a href="[[File:Rustic_Chair_icon.png">Rustic Chair</a>',
+        "Main Page",
+        {},
+        {},
+        {"rustic_chair_icon.png": source},
+        image_dir,
+        asset_dir,
+        {},
+        {},
+        missing_links,
+        missing_images,
+    )
+
+    assert 'href="../assets/Rustic_Chair_icon.png"' in rewritten
+    assert (asset_dir / "Rustic_Chair_icon.png").read_bytes() == b"chair"
+    assert missing_links == set()
+    assert missing_images == set()
+
+
 def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
     tmp_path: Path,
 ) -> None:

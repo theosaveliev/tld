@@ -2123,7 +2123,10 @@ def test_write_workspace_index_preserves_taxonomy_and_writes_separate_page_list(
     page_list = (tmp_path / "Pages.md").read_text(encoding="utf-8")
     assert "# All Pages" in page_list
     assert "[Bear](pages/Bear.md)" in page_list
-    assert not (tmp_path / "Index.md").exists()
+    index_files = [
+        path.name for path in tmp_path.iterdir() if path.name.casefold() == "index.md"
+    ]
+    assert index_files == ["index.md"]
 
 
 def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(

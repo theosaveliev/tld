@@ -5,7 +5,7 @@
 | Property | Details |
 | --- | --- |
 | **Rüdiger's Watch** | ![Rüdiger's Watch icon](../assets/R%C3%BCdiger%27s_Watch_icon.png) |
-| **Release** | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| **Release** | 24 June 2024 |
 | **Wintermute** | No |
 | **Properties** | |
 | **Item type** | [Collectibles](./Collectibles.md) |

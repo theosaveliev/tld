@@ -750,7 +750,7 @@ def test_page_markdown_removes_leaked_template_and_wikitext_artifacts() -> None:
 \[\[File: / ![Box](../assets/Box.png) / _Box_ / Box icon.png\|250px\]\]
 ![Box](../assets/Box.png)
 
-- 
+-
 -
 
 ## Gallery

@@ -2940,10 +2940,12 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 
 def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
-    """Convert a Fandom infobox into a readable two-column Markdown table."""
+    """Convert a Fandom infobox into a two-column table with linked image assets."""
     body: list[list[str]] = []
     for cells in rows:
-        values = [_markdown_table_cell(cell) for cell in cells]
+        values = [
+            _markdown_images_as_links(_markdown_table_cell(cell)) for cell in cells
+        ]
         if len(cells) == 1:
             cell = cells[0]
             value = values[0]

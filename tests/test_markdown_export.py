@@ -1226,8 +1226,6 @@ def test_multirow_table_headers_expand_rowspan_and_colspan() -> None:
     assert "| Head | Neck | Torso | Hips | Limb |" not in markdown
 
 
-
-
 def test_image_layout_table_renders_image_cells_as_links() -> None:
     fragment = """<table><tbody><tr>
 <td><img src="../assets/Hunting_Rifle_icon.png" alt="Hunting Rifle icon" /></td>

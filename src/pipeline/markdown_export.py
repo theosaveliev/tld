@@ -2696,11 +2696,7 @@ def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         rendered
         for row in rows
         for cell in row
-        if (
-            rendered := _markdown_images_as_links(
-                _render_html_children(cell)
-            ).strip()
-        )
+        if (rendered := _markdown_images_as_links(_render_html_children(cell)).strip())
     ]
     return "\n\n".join(blocks)
 

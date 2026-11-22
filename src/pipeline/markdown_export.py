@@ -1760,6 +1760,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
 
     return "".join(state.output)
 
+
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""
     output: list[str] = []
@@ -3651,6 +3652,7 @@ def _render_special_html_table(
                 images_as_links=images_as_links,
             )
     return rendered
+
 
 def _render_html_table_content(
     rows: list[list[lhtml.HtmlElement]],

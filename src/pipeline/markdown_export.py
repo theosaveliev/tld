@@ -1071,7 +1071,7 @@ def _quote_table_opening(line: str) -> re.Match[str] | None:
     return re.search(
         r"\{\|\s*style\s*=\s*['\"]margin:auto['\"]\s*"
         r"\|\s*style\s*=\s*['\"]vertical-align:top;[^'\"]*['\"]\s*"
-        r"\|\s*[“‘\"]\s*\|\s*(.*)$",
+        r"\|\s*[\u201c\u2018\"]\s*\|\s*(.*)$",
         line,
         re.IGNORECASE,
     )
@@ -1081,7 +1081,7 @@ def _quote_table_closing(line: str) -> re.Match[str] | None:
     """Find the closing wrapper of a leaked Fandom quote2 table."""
     return re.search(
         r"\|\s*style\s*=\s*['\"]vertical-align:bottom;[^'\"]*['\"]\s*"
-        r"\|\s*[”’\"]\s*\|\}(.*)$",
+        r"\|\s*[\u201d\u2019\"]\s*\|\}(.*)$",
         line,
         re.IGNORECASE,
     )

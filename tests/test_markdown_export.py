@@ -1434,7 +1434,9 @@ def test_sanitize_expanded_wikitext_cleans_markup() -> None:
     assert "|}" in sanitized
 
 
-def test_render_mediawiki_html_sanitizes_expanded_markup(monkeypatch) -> None:
+def test_render_mediawiki_html_sanitizes_expanded_markup(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
     page = DumpPage("Bear", 0, "wikitext", "{{Unexpanded template}}", None)
     expanded = (
         '{| class="wikitable" style="text-align:center" '

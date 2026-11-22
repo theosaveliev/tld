@@ -13,18 +13,18 @@ from pipeline.markdown_export import (
     DumpPage,
     RenderStats,
     WikiContext,
+    _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
-    _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _contains_html_markup,  # pyright: ignore[reportPrivateUsage]
-    _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
-    _lookup_title_filename,  # pyright: ignore[reportPrivateUsage]
+    _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _copy_image,  # pyright: ignore[reportPrivateUsage]
     _expand_page,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _find_image_source,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
+    _lookup_title_filename,  # pyright: ignore[reportPrivateUsage]
     _markdown_image,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _page_markdown,  # pyright: ignore[reportPrivateUsage]

@@ -1,0 +1,25 @@
+build_directory: /Users/nett/fandom/cambium_site/
+domain_name: 'http://thelongdark.local'
+extensions: []
+extensions_to_ignore: []
+logging_level: INFO
+max_leaves: 10000
+paths_to_ignore: []
+protected_build_paths: []
+root_directory: '/Users/nett/fandom/The Long Dark Wiki'
+site_name: The Long Dark - Fandom Mirror
+stage_config: {}
+stages:
+- PreviewCSV
+- IdentifyMetadata
+- WriteReports
+- TransformMarkdown
+- TemplateMarkdown
+- EnsureIndexPages
+- PagefindSearch
+- CheckLinks
+subpath: null
+theme: maple
+theme_config:
+  default_colour_mode: dark
+

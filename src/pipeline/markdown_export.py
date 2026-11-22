@@ -2276,6 +2276,21 @@ def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     return "\n\n".join(items)
 
 
+def _render_single_cell_wrapper_table(
+    rows: list[list[lhtml.HtmlElement]], caption: str
+) -> str | None:
+    """Render a one-cell wrapper as blocks when it contains mixed layout."""
+    if len(rows) != 1 or len(rows[0]) != 1:
+        return None
+    cell = rows[0][0]
+    if not _table_cell_has_block_layout(cell):
+        return None
+    content = _render_html_children(cell)
+    if caption and content:
+        return f"**{caption}**\n\n{content}"
+    return content
+
+
 def _render_html_table(node: lhtml.HtmlElement) -> str:
     """Convert infoboxes, galleries, and data tables to Markdown."""
     rows = _table_rows(node)
@@ -2283,11 +2298,9 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
     if not rows:
         return f"**{caption}**" if caption else ""
-    if len(rows) == 1 and len(rows[0]) == 1:
-        cell = rows[0][0]
-        if _table_cell_has_block_layout(cell):
-            content = _render_html_children(cell)
-            return f"**{caption}**\n\n{content}" if caption and content else content
+    wrapper_content = _render_single_cell_wrapper_table(rows, caption)
+    if wrapper_content is not None:
+        return wrapper_content
 
     table_classes = (node.get("class") or "").split()
     has_images = any(

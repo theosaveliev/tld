@@ -256,6 +256,14 @@ def test_resolve_internal_href_matches_punctuation_variants_uniquely() -> None:
     )
 
 
+def test_resolve_internal_href_preserves_named_interwiki_and_app_links() -> None:
+    assert resolve_internal_href("wikt:scumming", "Main Page", {}, {}) == "wikt:scumming"
+    assert (
+        resolve_internal_href("steam://nav/console", "Main Page", {}, {})
+        == "steam://nav/console"
+    )
+
+
 def test_resolve_internal_href_preserves_external_links() -> None:
     mapping = {"Main Page": "Main Page.md"}
 

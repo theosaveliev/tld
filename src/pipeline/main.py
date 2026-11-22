@@ -275,6 +275,7 @@ def export_markdown(
     click.echo(f"Workspace written to {output_dir}")
     click.echo(f"Start here: {output_dir / 'Index.md'}")
 
+
 @cli.command("audit-markdown")
 @click.argument(
     "workspace_dir",

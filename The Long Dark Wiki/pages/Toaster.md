@@ -4,7 +4,7 @@
 
 **Toaster**
 
-![Toaster](../assets/Toaster.jpg)
+[Toaster](../assets/Toaster.jpg)
 
 **General**
 

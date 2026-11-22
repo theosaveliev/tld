@@ -19,7 +19,7 @@
 
 **Diary Page (Darkwalker)**
 
-![Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png)
+[Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png)
 
 **Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
 

@@ -4,7 +4,7 @@
 
 **Oven**
 
-![Oven](../assets/Oven.png)
+[Oven](../assets/Oven.png)
 
 **Release:** 12 June 2014
 

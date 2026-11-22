@@ -4,7 +4,7 @@
 
 **Doubter's Retreat**
 
-![Doubter's Retreat](../assets/Doubter%27s_Retreat.jpg)
+[Doubter's Retreat](../assets/Doubter%27s_Retreat.jpg)
 
 **Location**
 

@@ -4,7 +4,7 @@
 
 **Register**
 
-![Register](../assets/Register.jpg)
+[Register](../assets/Register.jpg)
 
 **Release:** TBD
 

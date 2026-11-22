@@ -20,13 +20,13 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Far Range Branch Line**
 
-![Far range line first look](../assets/Far_range_line_first_look.png)
+[Far range line first look](../assets/Far_range_line_first_look.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Far Range Branch Line Location](../assets/Far_Range_Branch_Line_Location.png)
+[Far Range Branch Line Location](../assets/Far_Range_Branch_Line_Location.png)
 
-![FarRangeBranchLine](../assets/FarRangeBranchLine.png)
+[FarRangeBranchLine](../assets/FarRangeBranchLine.png)
 
 **Details**
 

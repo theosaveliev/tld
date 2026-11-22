@@ -4,11 +4,11 @@
 
 **Vacant Depot**
 
-![Vacant Depot](../assets/Vacant_Depot.png)
+[Vacant Depot](../assets/Vacant_Depot.png)
 
 **Location**
 
-![Vacant Depot Location](../assets/Vacant_Depot_Location.png)
+[Vacant Depot Location](../assets/Vacant_Depot_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 

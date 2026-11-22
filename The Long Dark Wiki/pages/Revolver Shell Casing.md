@@ -11,7 +11,7 @@
 
 **Revolver Shell Casing**
 
-![Revolver Shell Casing icon](../assets/Revolver_Shell_Casing_icon.png)
+[Revolver Shell Casing icon](../assets/Revolver_Shell_Casing_icon.png)
 
 **General**
 
@@ -19,7 +19,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
 > “**Empty casing from firing a Revolver. Used for Crafting new Ammunition.**”
 >

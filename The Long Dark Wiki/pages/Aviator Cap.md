@@ -4,7 +4,7 @@
 
 **Aviator Cap**
 
-![Aviator Cap icon](../assets/Aviator_Cap_icon.png)
+[Aviator Cap icon](../assets/Aviator_Cap_icon.png)
 
 **General**
 
@@ -16,17 +16,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)4%
+**Protection:** [Protection icon](../assets/Protection_icon.png)4%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>10 minutes
 

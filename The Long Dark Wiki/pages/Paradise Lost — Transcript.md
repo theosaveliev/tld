@@ -4,7 +4,7 @@
 
 **Paradise Lost/Transcript**
 
-![Paradise Lost](../assets/Paradise_Lost.png)
+[Paradise Lost](../assets/Paradise_Lost.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

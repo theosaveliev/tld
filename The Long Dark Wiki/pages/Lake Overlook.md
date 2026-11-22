@@ -4,11 +4,11 @@
 
 **Lake Overlook**
 
-![Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg)
+[Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg)
 
 **Location**
 
-![Lake Overlook Location](../assets/Lake_Overlook_Location.png)
+[Lake Overlook Location](../assets/Lake_Overlook_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

@@ -4,11 +4,11 @@
 
 **Monolith Lake**
 
-![Monolith Lake from Peak Cave](../assets/Monolith_Lake_from_Peak_Cave.png)
+[Monolith Lake from Peak Cave](../assets/Monolith_Lake_from_Peak_Cave.png)
 
 **Location**
 
-![Monolith Lake Location](../assets/Monolith_Lake_Location.png)
+[Monolith Lake Location](../assets/Monolith_Lake_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

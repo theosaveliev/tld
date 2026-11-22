@@ -12,11 +12,11 @@
 
 **Mackenzie's Crashed Plane**
 
-![The wreckage of the plane](../assets/Plane.jpg)
+[The wreckage of the plane](../assets/Plane.jpg)
 
 **Location**
 
-![Mackenzie's Crashed Plane Location](../assets/Mackenzie%27s_Crashed_Plane_Location.png)
+[Mackenzie's Crashed Plane Location](../assets/Mackenzie%27s_Crashed_Plane_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

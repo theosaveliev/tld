@@ -4,7 +4,7 @@
 
 **Fresh Moose Hide**
 
-![Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png)
+[Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 

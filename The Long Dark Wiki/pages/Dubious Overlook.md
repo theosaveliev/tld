@@ -4,11 +4,11 @@
 
 **Dubious Overlook**
 
-![Dubious Overlook](../assets/Dubious_Overlook.jpg)
+[Dubious Overlook](../assets/Dubious_Overlook.jpg)
 
 **Location**
 
-![Dubious Overlook Location](../assets/Dubious_Overlook_Location.png)
+[Dubious Overlook Location](../assets/Dubious_Overlook_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

@@ -4,11 +4,11 @@
 
 **Juniper Runoff**
 
-![Juniper Runoff](../assets/Juniper_Runoff.jpg)
+[Juniper Runoff](../assets/Juniper_Runoff.jpg)
 
 **Location**
 
-![Juniper Runoff Location](../assets/Juniper_Runoff_Location.png)
+[Juniper Runoff Location](../assets/Juniper_Runoff_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

@@ -4,7 +4,7 @@
 
 **Torn Paper**
 
-![Torn Paper icon](../assets/Torn_Paper_icon.png)
+[Torn Paper icon](../assets/Torn_Paper_icon.png)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 

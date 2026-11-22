@@ -4,7 +4,7 @@
 
 **Corpse**
 
-![Frozen Corpse](../assets/Frozen_Corpse.jpg)
+[Frozen Corpse](../assets/Frozen_Corpse.jpg)
 
 **Story item:** Yes
 

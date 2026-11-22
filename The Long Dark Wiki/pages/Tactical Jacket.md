@@ -4,7 +4,7 @@
 
 **Tactical Jacket**
 
-![Tactical Jacket icon](../assets/Tactical_Jacket_icon.png)
+[Tactical Jacket icon](../assets/Tactical_Jacket_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)15%
+**Protection:** [Protection icon](../assets/Protection_icon.png)15%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-4%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-4%
 
 **Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 

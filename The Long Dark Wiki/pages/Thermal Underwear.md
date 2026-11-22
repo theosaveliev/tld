@@ -4,7 +4,7 @@
 
 **Thermal Underwear**
 
-![Thermal Underwear icon](../assets/Thermal_Underwear_icon.png)
+[Thermal Underwear icon](../assets/Thermal_Underwear_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)0%
+**Protection:** [Protection icon](../assets/Protection_icon.png)0%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
 

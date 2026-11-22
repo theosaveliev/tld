@@ -4,13 +4,13 @@
 
 **Crumbling Highway**
 
-![RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png)
+[RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Crumbling Highway Location](../assets/Crumbling_Highway_Location.png)
+[Crumbling Highway Location](../assets/Crumbling_Highway_Location.png)
 
-![Old Island Connector map](../assets/Old_Island_Connector_map.png)
+[Old Island Connector map](../assets/Old_Island_Connector_map.png)
 
 **Details**
 

@@ -4,11 +4,11 @@
 
 **Poacher's Camp**
 
-![Poacher's Camp](../assets/Poacher%27s_Camp.png)
+[Poacher's Camp](../assets/Poacher%27s_Camp.png)
 
 **Location**
 
-![Poacher's Camp Location](../assets/Poacher%27s_Camp_Location.png)
+[Poacher's Camp Location](../assets/Poacher%27s_Camp_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

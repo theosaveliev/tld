@@ -28,7 +28,7 @@
 
 **Ptarmigan**
 
-![Ptarmigan](../assets/Ptarmigan.png)
+[Ptarmigan](../assets/Ptarmigan.png)
 
 **Basic Information**
 
@@ -44,7 +44,7 @@
 
 **Eyes:** Black
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
@@ -69,8 +69,8 @@ When killed, a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) can be butchered on
 
 |  | Item | Quanity | Rarity |
 | --- | --- | --- | --- |
-| ![Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
-| ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
+| [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
+| [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
 
 Ptarmigan meat is a necessary ingredient in making all stews, as it is the only reliable way of obtaining [Broth](./Broth.md).
 

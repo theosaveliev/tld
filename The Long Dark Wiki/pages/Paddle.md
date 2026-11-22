@@ -4,7 +4,7 @@
 
 **Paddle**
 
-![Paddle](../assets/Paddle.jpg)
+[Paddle](../assets/Paddle.jpg)
 
 **General**
 

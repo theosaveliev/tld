@@ -4,11 +4,11 @@
 
 **Homestead's Respite**
 
-![20201210010226 1](../assets/20201210010226_1.jpg)
+[20201210010226 1](../assets/20201210010226_1.jpg)
 
 **Location**
 
-![Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png)
+[Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -16,7 +16,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

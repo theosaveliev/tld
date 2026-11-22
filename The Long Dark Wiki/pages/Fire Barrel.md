@@ -1,6 +1,6 @@
 # Fire Barrel
 
-**Categories:** Fire Starting, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Barrel)
+**Categories:** Fire Starting, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Barrel)
 
 **Contents**
 
@@ -18,7 +18,7 @@
 
 **Fire Barrel**
 
-![Fire barrel](../assets/Fire_barrel.png)
+[Fire barrel](../assets/Fire_barrel.png)
 
 **General**
 

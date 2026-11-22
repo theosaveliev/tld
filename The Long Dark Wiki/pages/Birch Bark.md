@@ -13,7 +13,7 @@
 
 **Birch Bark**
 
-![Birch Bark icon](../assets/Birch_Bark_icon.png)
+[Birch Bark icon](../assets/Birch_Bark_icon.png)
 
 **Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
 
@@ -63,7 +63,7 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Statistics**
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
 ## Products
 

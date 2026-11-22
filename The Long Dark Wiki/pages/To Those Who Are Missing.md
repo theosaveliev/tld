@@ -4,7 +4,7 @@
 
 **To Those Who Are Missing**
 
-![Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
+[Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
 
 Episode
 

@@ -26,7 +26,7 @@
 
 **Heavy Hammer**
 
-![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png)
+[Heavy Hammer icon](../assets/Heavy_Hammer_icon.png)
 
 **General**
 
@@ -36,7 +36,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md)<br>30 minutes
 

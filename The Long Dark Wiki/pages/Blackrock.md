@@ -15,13 +15,13 @@
 
 **Blackrock**
 
-![Blackrock Region](../assets/Blackrock_Region.jpg)
+[Blackrock Region](../assets/Blackrock_Region.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Blackrock Location](../assets/Blackrock_Location.png)
+[Blackrock Location](../assets/Blackrock_Location.png)
 
-![Map EP4 L0](../assets/Map-EP4-L0.jpg)
+[Map EP4 L0](../assets/Map-EP4-L0.jpg)
 
 **Details**
 

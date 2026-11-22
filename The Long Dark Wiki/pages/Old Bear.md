@@ -23,7 +23,7 @@
 
 **Old Bear**
 
-![Old Bear](../assets/Old_Bear.png)
+[Old Bear](../assets/Old_Bear.png)
 
 **Basic Information**
 

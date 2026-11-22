@@ -4,7 +4,7 @@
 
 **Search Party**
 
-![Search Party icon](../assets/Search_Party_icon.png)
+[Search Party icon](../assets/Search_Party_icon.png)
 
 **Description:** Find all three missing townspeople within 40 real time minutes.
 

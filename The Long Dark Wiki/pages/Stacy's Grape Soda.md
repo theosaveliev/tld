@@ -11,7 +11,7 @@
 
 **Stacy's Grape Soda**
 
-![Stacy's Grape Soda icon](../assets/Stacy%27s_Grape_Soda_icon.png)
+[Stacy's Grape Soda icon](../assets/Stacy%27s_Grape_Soda_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 

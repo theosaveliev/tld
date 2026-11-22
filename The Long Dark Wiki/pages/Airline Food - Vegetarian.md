@@ -4,7 +4,7 @@
 
 **Airline Food - Vegetarian**
 
-![Airline Food Vegetarian icon](../assets/Airline_Food_-_Vegetarian_icon.png)
+[Airline Food Vegetarian icon](../assets/Airline_Food_-_Vegetarian_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

@@ -11,7 +11,7 @@
 
 **Green Birch Sapling**
 
-![Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png)
+[Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 

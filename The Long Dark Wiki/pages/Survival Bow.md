@@ -21,7 +21,7 @@
 
 **Survival Bow**
 
-![Survival Bow icon](../assets/Survival_Bow_icon.png)
+[Survival Bow icon](../assets/Survival_Bow_icon.png)
 
 **General**
 
@@ -33,7 +33,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
 **Harvest:** _Unharvestable_
 

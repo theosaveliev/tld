@@ -23,7 +23,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Bushcraft Bow**
 
-![Bushcraft Bow icon](../assets/Bushcraft_Bow_icon.png)
+[Bushcraft Bow icon](../assets/Bushcraft_Bow_icon.png)
 
 **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

@@ -4,7 +4,7 @@
 
 **Breyerhouse**
 
-![Breyerhouse logo](../assets/Breyerhouse_logo.png)
+[Breyerhouse logo](../assets/Breyerhouse_logo.png)
 
 **Industry:** Forest products<br>Hydroelectric power
 

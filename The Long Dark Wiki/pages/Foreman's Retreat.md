@@ -11,11 +11,11 @@
 
 **Foreman's Retreat**
 
-![20201212120850 1](../assets/20201212120850_1.jpg)
+[20201212120850 1](../assets/20201212120850_1.jpg)
 
 **Location**
 
-![Foreman's Retreat Location](../assets/Foreman%27s_Retreat_Location.png)
+[Foreman's Retreat Location](../assets/Foreman%27s_Retreat_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -23,7 +23,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

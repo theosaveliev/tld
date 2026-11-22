@@ -12,7 +12,7 @@
 
 **Nomad**
 
-![Challenge Nomad](../assets/Challenge_Nomad.png)
+[Challenge Nomad](../assets/Challenge_Nomad.png)
 
 **Details**
 

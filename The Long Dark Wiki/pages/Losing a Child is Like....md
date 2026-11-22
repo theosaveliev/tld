@@ -4,7 +4,7 @@
 
 **Losing a Child is Like...**
 
-![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png)
+[Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png)
 
 **Description:** Complete Lily's Story.
 

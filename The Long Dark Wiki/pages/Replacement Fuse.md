@@ -19,7 +19,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Replacement Fuse**
 
-![Replacement Fuse icon](../assets/Replacement_Fuse_icon.png)
+[Replacement Fuse icon](../assets/Replacement_Fuse_icon.png)
 
 **Wintermute:** No
 

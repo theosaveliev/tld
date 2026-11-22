@@ -16,7 +16,7 @@
 
 **Rifle Firearm**
 
-![Rifle Firearm background](../assets/Rifle_Firearm_background.png)
+[Rifle Firearm background](../assets/Rifle_Firearm_background.png)
 
 **Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
 

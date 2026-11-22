@@ -25,7 +25,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Bear Spear**
 
-![Bear Spear icon](../assets/Bear_Spear_icon.png)
+[Bear Spear icon](../assets/Bear_Spear_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

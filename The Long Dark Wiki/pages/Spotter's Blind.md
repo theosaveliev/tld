@@ -4,11 +4,11 @@
 
 **Spotter's Blind**
 
-![Spotterblind](../assets/Spotterblind.png)
+[Spotterblind](../assets/Spotterblind.png)
 
 **Location**
 
-![Spotter's Blind Location](../assets/Spotter%27s_Blind_Location.png)
+[Spotter's Blind Location](../assets/Spotter%27s_Blind_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

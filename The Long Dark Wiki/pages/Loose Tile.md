@@ -4,7 +4,7 @@
 
 **Loose Tile**
 
-![Loose Tile](../assets/Loose_Tile.jpg)
+[Loose Tile](../assets/Loose_Tile.jpg)
 
 **Story item:** Yes
 

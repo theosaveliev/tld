@@ -4,7 +4,7 @@
 
 **Conflagration**
 
-![Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png)
+[Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png)
 
 Episode
 

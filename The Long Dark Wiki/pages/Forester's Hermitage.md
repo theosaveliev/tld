@@ -4,11 +4,11 @@
 
 **Forester's Hermitage**
 
-![Forestershermitage](../assets/Forestershermitage.png)
+[Forestershermitage](../assets/Forestershermitage.png)
 
 **Location**
 
-![Forester's Hermitage Location](../assets/Forester%27s_Hermitage_Location.png)
+[Forester's Hermitage Location](../assets/Forester%27s_Hermitage_Location.png)
 
 Region
 
@@ -18,7 +18,7 @@ Region
 
 **Firebox:** [Wood Stove](./Wood%20Stove.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

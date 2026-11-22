@@ -4,7 +4,7 @@
 
 **Deep Forest**
 
-![Deep Forest icon](../assets/Deep_Forest_icon.png)
+[Deep Forest icon](../assets/Deep_Forest_icon.png)
 
 **Description:** Keep a campfire burning for 3 days.
 

@@ -4,11 +4,11 @@
 
 **Little Island**
 
-![Little Island 01](../assets/Little_Island_01.jpg)
+[Little Island 01](../assets/Little_Island_01.jpg)
 
 **Location**
 
-![Little Island Location](../assets/Little_Island_Location.png)
+[Little Island Location](../assets/Little_Island_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 

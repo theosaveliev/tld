@@ -4,7 +4,7 @@
 
 **Community Hall Flyer**
 
-![Community Hall Flyer icon](../assets/Community_Hall_Flyer_icon.png)
+[Community Hall Flyer icon](../assets/Community_Hall_Flyer_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

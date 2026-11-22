@@ -14,11 +14,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Looted Grotto**
 
-![Looted Grotto](../assets/Looted_Grotto.jpg)
+[Looted Grotto](../assets/Looted_Grotto.jpg)
 
 **Location**
 
-![Looted Grotto Location](../assets/Looted_Grotto_Location.png)
+[Looted Grotto Location](../assets/Looted_Grotto_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 
@@ -26,7 +26,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

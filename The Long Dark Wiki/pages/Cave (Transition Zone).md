@@ -20,11 +20,11 @@
 
 **Cave (Transition Zone)**
 
-![RegionAtlas resources.assets 562 (6)](../assets/RegionAtlas-resources.assets-562_%286%29.png)
+[RegionAtlas resources.assets 562 (6)](../assets/RegionAtlas-resources.assets-562_%286%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Details**
 

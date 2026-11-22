@@ -4,11 +4,11 @@
 
 **Cliff Cave**
 
-![Cliff Cave](../assets/Cliff_Cave.jpg)
+[Cliff Cave](../assets/Cliff_Cave.jpg)
 
 **Location**
 
-![Cliff Cave Location](../assets/Cliff_Cave_Location.png)
+[Cliff Cave Location](../assets/Cliff_Cave_Location.png)
 
 Region
 

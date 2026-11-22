@@ -16,7 +16,7 @@
 
 **Risk of Infection**
 
-![Risk of Infection](../assets/Risk_of_Infection.jpg)
+[Risk of Infection](../assets/Risk_of_Infection.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

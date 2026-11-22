@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Path (Track Section 5)**
 
-![Path](../assets/Path.jpg)
+[Path](../assets/Path.jpg)
 
 **Location**
 
-![Path Track Section 5 Location](../assets/Path_Track_Section_5_Location.png)
+[Path Track Section 5 Location](../assets/Path_Track_Section_5_Location.png)
 
 **Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
 

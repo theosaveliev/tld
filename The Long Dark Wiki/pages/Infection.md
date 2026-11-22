@@ -4,7 +4,7 @@
 
 **Infection**
 
-![Infection icon](../assets/Infection_icon.png)
+[Infection icon](../assets/Infection_icon.png)
 
 **Release:** [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107)
 

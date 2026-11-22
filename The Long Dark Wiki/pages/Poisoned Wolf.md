@@ -13,7 +13,7 @@
 
 **Poisoned Wolf**
 
-![Poisoned Wolf](../assets/Poisoned_Wolf.png)
+[Poisoned Wolf](../assets/Poisoned_Wolf.png)
 
 **Basic Information**
 
@@ -27,7 +27,7 @@
 
 **Size:** Medium
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
@@ -52,9 +52,9 @@ A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt 
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always[¹](#fn1) |
-| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always[²](#fn2) |
-| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always[¹](#fn1) |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always[²](#fn2) |
+| [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Behaviour

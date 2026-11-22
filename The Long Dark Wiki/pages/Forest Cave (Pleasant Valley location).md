@@ -4,11 +4,11 @@
 
 **Forest Cave**
 
-![SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg)
+[SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg)
 
 **Location**
 
-![Forest Cave PV Location](../assets/Forest_Cave_PV_Location.png)
+[Forest Cave PV Location](../assets/Forest_Cave_PV_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

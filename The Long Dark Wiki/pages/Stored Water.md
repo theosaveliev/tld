@@ -4,7 +4,7 @@
 
 **Stored Water**
 
-![Stored Water](../assets/Stored_Water.jpg)
+[Stored Water](../assets/Stored_Water.jpg)
 
 **General**
 

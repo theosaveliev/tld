@@ -22,13 +22,13 @@
 
 **Desolation Point**
 
-![Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png)
+[Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Desolation Point Location](../assets/Desolation_Point_Location.png)
+[Desolation Point Location](../assets/Desolation_Point_Location.png)
 
-![Desolation point map](../assets/Desolation_point_map.png)
+[Desolation point map](../assets/Desolation_point_map.png)
 
 **Details**
 

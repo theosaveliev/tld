@@ -14,7 +14,7 @@
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
 
-![McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png)
+[McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png)
 
 **General**
 
@@ -24,13 +24,13 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
 
 **Harvest:** Cannot Harvest
 
 **Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition<br>1 hour
 
-![Seal icon](../assets/Seal_icon.png)
+[Seal icon](../assets/Seal_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 

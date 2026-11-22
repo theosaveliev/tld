@@ -12,7 +12,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Improvised Down Bedroll**
 
-![Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png)
+[Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png)
 
 **General**
 
@@ -20,9 +20,9 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.10 kg(2.42 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.10 kg(2.42 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)8.0 °C(14.4 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)8.0 °C(14.4 °F)
 
 **Harvest:** 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>90 minutes
 

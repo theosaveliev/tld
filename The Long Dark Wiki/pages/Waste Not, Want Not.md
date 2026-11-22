@@ -4,7 +4,7 @@
 
 **Waste Not, Want Not**
 
-![Waste Not, Want Not icon](../assets/Waste_Not%2C_Want_Not_icon.png)
+[Waste Not, Want Not icon](../assets/Waste_Not%2C_Want_Not_icon.png)
 
 **Description:** Harvest 10 Complete Deer Carcasses (single game)
 

@@ -4,11 +4,11 @@
 
 **Unyielding Inundation**
 
-![Unyielding Inundation](../assets/Unyielding_Inundation.jpg)
+[Unyielding Inundation](../assets/Unyielding_Inundation.jpg)
 
 **Location**
 
-![Unyielding Inundation Location](../assets/Unyielding_Inundation_Location.png)
+[Unyielding Inundation Location](../assets/Unyielding_Inundation_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

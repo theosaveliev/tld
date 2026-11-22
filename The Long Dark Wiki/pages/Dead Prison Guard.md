@@ -4,7 +4,7 @@
 
 **Dead Prison Guard**
 
-![Dead Prison Guard](../assets/Dead_Prison_Guard.jpg)
+[Dead Prison Guard](../assets/Dead_Prison_Guard.jpg)
 
 **Story item:** Yes
 

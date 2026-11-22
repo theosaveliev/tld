@@ -4,11 +4,11 @@
 
 **Forager's Remnant**
 
-![Forager's Remnant](../assets/Forager%27s_Remnant.jpg)
+[Forager's Remnant](../assets/Forager%27s_Remnant.jpg)
 
 **Location**
 
-![Forager's Remnant Location](../assets/Forager%27s_Remnant_Location.png)
+[Forager's Remnant Location](../assets/Forager%27s_Remnant_Location.png)
 
 Region
 
@@ -20,7 +20,7 @@ Region
 
 **Type:** Outdoors
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

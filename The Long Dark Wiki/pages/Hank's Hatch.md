@@ -14,7 +14,7 @@
 
 **Hank's Hatch**
 
-![Hank's prepper cache](../assets/Hank%27s_prepper_cache.jpg)
+[Hank's prepper cache](../assets/Hank%27s_prepper_cache.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

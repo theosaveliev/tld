@@ -4,11 +4,11 @@
 
 **Bear's Bend**
 
-![Bear's Bend](../assets/Bear%27s_Bend.jpg)
+[Bear's Bend](../assets/Bear%27s_Bend.jpg)
 
 **Location**
 
-![Bear's Bend Location](../assets/Bear%27s_Bend_Location.png)
+[Bear's Bend Location](../assets/Bear%27s_Bend_Location.png)
 
 Region
 

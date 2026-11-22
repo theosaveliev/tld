@@ -16,7 +16,7 @@
 
 **Warming Up**
 
-![Warming Up icon](../assets/Warming_Up_icon.png)
+[Warming Up icon](../assets/Warming_Up_icon.png)
 
 **Properties**
 

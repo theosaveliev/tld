@@ -4,7 +4,7 @@
 
 **Black Bear Carcass**
 
-![Bear Carcass](../assets/Bear_Carcass.jpg)
+[Bear Carcass](../assets/Bear_Carcass.jpg)
 
 **General**
 
@@ -18,9 +18,9 @@ A Bear Carcass may be harvested for 25.00-40.00 kg of [raw meat](./Bear%20Meat%2
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) | 25 - 40 | Always[¹](#fn1) |
-| ![Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always[²](#fn2) |
-| ![Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1 | Always |
+| [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) | 25 - 40 | Always[¹](#fn1) |
+| [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always[²](#fn2) |
+| [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1 | Always |
 | \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 10 | Always |
 
 ## Preplaced Locations

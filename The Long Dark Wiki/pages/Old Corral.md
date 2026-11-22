@@ -4,11 +4,11 @@
 
 **Old Corral**
 
-![Old Corral](../assets/Old_Corral.jpg)
+[Old Corral](../assets/Old_Corral.jpg)
 
 **Location**
 
-![Old Corral Location](../assets/Old_Corral_Location.png)
+[Old Corral Location](../assets/Old_Corral_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

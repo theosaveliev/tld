@@ -4,7 +4,7 @@
 
 **Two for Two**
 
-![Two for Two](../assets/Two_for_Two.jpg)
+[Two for Two](../assets/Two_for_Two.jpg)
 
 **Description:** Survive for 2 days in a single Survival Mode game.
 

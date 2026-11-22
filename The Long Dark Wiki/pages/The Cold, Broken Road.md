@@ -4,7 +4,7 @@
 
 **The Cold, Broken Road**
 
-![Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
+[Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
 
 Episode
 

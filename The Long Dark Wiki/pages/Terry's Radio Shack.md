@@ -4,7 +4,7 @@
 
 **Terry's Radio Shack**
 
-![TerryRadioShack](../assets/TerryRadioShack.png)
+[TerryRadioShack](../assets/TerryRadioShack.png)
 
 **Location**
 

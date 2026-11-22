@@ -18,7 +18,7 @@
 
 **Signal Void**
 
-![Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png)
+[Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png)
 
 **Missions**
 
@@ -28,7 +28,7 @@
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Bleak Inlet](./Bleak%20Inlet.md)<br>[Pleasant Valley](./Pleasant%20Valley.md)<br>[Mountain Town](./Mountain%20Town.md)<br>[Hushed River Valley](./Hushed%20River%20Valley.md)
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

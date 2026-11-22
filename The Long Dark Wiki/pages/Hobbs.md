@@ -16,7 +16,7 @@
 
 **Hobbs**
 
-![Hobbs](../assets/Hobbs.jpg)
+[Hobbs](../assets/Hobbs.jpg)
 
 **Release:** 1.41 (Wintermute Redux Update)
 

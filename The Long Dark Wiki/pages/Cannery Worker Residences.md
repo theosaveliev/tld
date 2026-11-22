@@ -4,11 +4,11 @@
 
 **Cannery Worker Residences**
 
-![Screen cff25cc7 7169 49a4 81a8 b5e18afd70ae hi](../assets/Screen_cff25cc7-7169-49a4-81a8-b5e18afd70ae_hi.jpg)
+[Screen cff25cc7 7169 49a4 81a8 b5e18afd70ae hi](../assets/Screen_cff25cc7-7169-49a4-81a8-b5e18afd70ae_hi.jpg)
 
 **Location**
 
-![Cannery Worker Residences Location](../assets/Cannery_Worker_Residences_Location.png)
+[Cannery Worker Residences Location](../assets/Cannery_Worker_Residences_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** IndustrialMilitary/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

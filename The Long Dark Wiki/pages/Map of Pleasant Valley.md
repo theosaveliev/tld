@@ -4,7 +4,7 @@
 
 **Map of Pleasant Valley**
 
-![Map of Pleasant Valley icon](../assets/Map_of_Pleasant_Valley_icon.png)
+[Map of Pleasant Valley icon](../assets/Map_of_Pleasant_Valley_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

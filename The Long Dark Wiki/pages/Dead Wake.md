@@ -4,7 +4,7 @@
 
 **Dead Wake**
 
-![Dead Wake icon](../assets/Dead_Wake_icon.png)
+[Dead Wake icon](../assets/Dead_Wake_icon.png)
 
 **Description:** Collect all the writings and personal effects left behind by the ship's crew.
 

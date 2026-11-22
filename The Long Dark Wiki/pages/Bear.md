@@ -31,7 +31,7 @@
 
 **Bear**
 
-![Bear](../assets/Bear.png)
+[Bear](../assets/Bear.png)
 
 **Basic Information**
 
@@ -67,10 +67,10 @@ A [Black Bear Carcass](./Black%20Bear%20Carcass.md) may be harvested for 25.00-4
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)\* | 25 - 40 | Always[¹](#fn1) |
-| ![Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always[²](#fn2) |
-| ![Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1 | Always |
-| ![Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 10 | Always |
+| [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)\* | 25 - 40 | Always[¹](#fn1) |
+| [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always[²](#fn2) |
+| [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1 | Always |
+| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 10 | Always |
 
 \*Note: Bear Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
 
@@ -78,7 +78,7 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
+| [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
 ## Behaviour
 
@@ -186,10 +186,10 @@ The critical-% for flare gun seem to be currently bugged (i.e. defaulting to rif
 
 | Weapon — Head | Weapon — Neck | Critical Hit Chance — Torso | Critical Hit Chance — Hips | Critical Hit Chance — Limb | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 15% | 10% | 5% | 3% | 3% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 15% | 10% | 5% | 3% | 3% |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 3% | 2% | 1% | 0% | 0% |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 15% | 10% | 5% | 3% | 3% |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 15% | 10% | 5% | 3% | 3% |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 3% | 2% | 1% | 0% | 0% |
 
 ### Bleeding wounds
 
@@ -199,10 +199,10 @@ All shots that cause blood loss are lethal, but may take many hours based on whi
 
 | Weapon — Head | Weapon — Neck | Bleed Out — Torso | Bleed Out — Hips | Bleed Out — Limb | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 80 min | 120 min | 320 min | 480 min | 640 min |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 60 min | 90 min | 240 min | 360 min | 480 min |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 45 min | 60 min | 375 min | 240 min | 240 min |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 80 min | 120 min | 320 min | 480 min | 640 min |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 60 min | 90 min | 240 min | 360 min | 480 min |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 45 min | 60 min | 375 min | 240 min | 240 min |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
 
 ### Strategies
 

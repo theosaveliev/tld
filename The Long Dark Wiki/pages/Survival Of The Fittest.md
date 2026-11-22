@@ -23,7 +23,7 @@
 
 **Survival Of The Fittest**
 
-![Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg)
+[Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

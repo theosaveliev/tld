@@ -15,7 +15,7 @@ _For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Cof
 
 **Cup of Coffee**
 
-![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png)
+[Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 

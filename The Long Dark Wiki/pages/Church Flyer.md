@@ -4,7 +4,7 @@
 
 **Church Flyer**
 
-![Church Flyer icon](../assets/Church_Flyer_icon.png)
+[Church Flyer icon](../assets/Church_Flyer_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

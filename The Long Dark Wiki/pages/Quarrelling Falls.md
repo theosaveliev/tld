@@ -4,11 +4,11 @@
 
 **Quarrelling Falls**
 
-![Quarreling Falls](../assets/Quarreling_Falls.jpg)
+[Quarreling Falls](../assets/Quarreling_Falls.jpg)
 
 **Location**
 
-![Quarrelling Falls Location](../assets/Quarrelling_Falls_Location.png)
+[Quarrelling Falls Location](../assets/Quarrelling_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

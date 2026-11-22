@@ -4,7 +4,7 @@
 
 **Mining Log Page**
 
-![Mining Log Page icon](../assets/Mining_Log_Page_icon.png)
+[Mining Log Page icon](../assets/Mining_Log_Page_icon.png)
 
 **Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
 

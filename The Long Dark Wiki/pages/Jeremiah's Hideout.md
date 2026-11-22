@@ -19,7 +19,7 @@
 
 **Jeremiah's Hideout**
 
-![Aurora hatch](../assets/Aurora_hatch.png)
+[Aurora hatch](../assets/Aurora_hatch.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

@@ -11,7 +11,7 @@
 
 **Lake Cabins**
 
-![Lake cabin4](../assets/Lake_cabin4.jpg)
+[Lake cabin4](../assets/Lake_cabin4.jpg)
 
 **Location**
 

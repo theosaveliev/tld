@@ -11,7 +11,7 @@
 
 **Blackrock Blues/Transcript**
 
-![Blackrock Blues](../assets/Blackrock_Blues.png)
+[Blackrock Blues](../assets/Blackrock_Blues.png)
 
 Episode
 

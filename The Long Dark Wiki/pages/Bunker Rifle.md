@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Bunker Rifle**
 
-![Bunker Rifle icon](../assets/Bunker_Rifle_icon.png)
+[Bunker Rifle icon](../assets/Bunker_Rifle_icon.png)
 
 **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

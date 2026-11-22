@@ -42,7 +42,7 @@
 
 **Hunting Rifle**
 
-![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png)
+[Hunting Rifle icon](../assets/Hunting_Rifle_icon.png)
 
 **General**
 
@@ -50,7 +50,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
 **Harvest:** 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md)
 

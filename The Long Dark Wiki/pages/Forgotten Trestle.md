@@ -14,11 +14,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Forgotten Trestle**
 
-![Forgotten Trestle](../assets/Forgotten_Trestle.jpg)
+[Forgotten Trestle](../assets/Forgotten_Trestle.jpg)
 
 **Location**
 
-![Forgotten Trestle Location](../assets/Forgotten_Trestle_Location.png)
+[Forgotten Trestle Location](../assets/Forgotten_Trestle_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 

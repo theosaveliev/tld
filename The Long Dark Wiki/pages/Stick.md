@@ -12,7 +12,7 @@
 
 **Stick**
 
-![Stick icon](../assets/Stick_icon.png)
+[Stick icon](../assets/Stick_icon.png)
 
 **Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
 
@@ -42,11 +42,11 @@
 
 **Statistics**
 
-**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 7.5 minutes
+**Duration:** [Fire Starting](../assets/Fire_Starting.png) 7.5 minutes
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 15%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 15%
 
-**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
+**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
 
 **Burn Density:** 0.83 hr/kg (0.38 hr/lb)
 

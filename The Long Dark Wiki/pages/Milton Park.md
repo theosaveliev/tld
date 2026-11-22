@@ -4,11 +4,11 @@
 
 **Milton Park**
 
-![Milton Park Office](../assets/Milton_Park_Office.jpg)
+[Milton Park Office](../assets/Milton_Park_Office.jpg)
 
 **Location**
 
-![Milton Park Location](../assets/Milton_Park_Location.png)
+[Milton Park Location](../assets/Milton_Park_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -16,7 +16,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

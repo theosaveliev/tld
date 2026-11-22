@@ -11,11 +11,11 @@
 
 **Tail Section**
 
-![Tail section2](../assets/Tail_section2.jpg)
+[Tail section2](../assets/Tail_section2.jpg)
 
 **Location**
 
-![Tail Section Location](../assets/Tail_Section_Location.png)
+[Tail Section Location](../assets/Tail_Section_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

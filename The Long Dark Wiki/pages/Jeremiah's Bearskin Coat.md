@@ -11,7 +11,7 @@
 
 **Jeremiah's Bearskin Coat**
 
-![Jeremiah's Bearskin Coat icon](../assets/Jeremiah%27s_Bearskin_Coat_icon.png)
+[Jeremiah's Bearskin Coat icon](../assets/Jeremiah%27s_Bearskin_Coat_icon.png)
 
 **General**
 
@@ -19,7 +19,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
 **Harvest:** Cannot Harvest
 

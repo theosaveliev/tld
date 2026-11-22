@@ -12,7 +12,7 @@
 
 **Firelog**
 
-![Firelog icon](../assets/Firelog_icon.png)
+[Firelog icon](../assets/Firelog_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -46,11 +46,11 @@ The Firelog burns for two hours and increases the probability of successfully li
 
 **Statistics**
 
-**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 120 minutes
+**Duration:** [Fire Starting](../assets/Fire_Starting.png) 120 minutes
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 7%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 7%
 
-**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
+**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
 
 **Burn Density:** 1 hr/kg (0.45 hr/lb)
 

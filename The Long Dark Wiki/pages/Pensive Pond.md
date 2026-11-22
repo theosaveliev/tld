@@ -4,11 +4,11 @@
 
 **Pensive Pond**
 
-![SS PV PensivePond (1)](../assets/SS-PV-PensivePond_%281%29.jpg)
+[SS PV PensivePond (1)](../assets/SS-PV-PensivePond_%281%29.jpg)
 
 **Location**
 
-![Pensive Pond Location](../assets/Pensive_Pond_Location.png)
+[Pensive Pond Location](../assets/Pensive_Pond_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

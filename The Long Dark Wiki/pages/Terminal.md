@@ -4,11 +4,11 @@
 
 **Terminal**
 
-![Terminal](../assets/Terminal.jpg)
+[Terminal](../assets/Terminal.jpg)
 
 **Location**
 
-![Terminal Location](../assets/Terminal_Location.png)
+[Terminal Location](../assets/Terminal_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

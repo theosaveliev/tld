@@ -11,7 +11,7 @@
 
 **The Power Plant/Transcript**
 
-![The Power Plant](../assets/The_Power_Plant.png)
+[The Power Plant](../assets/The_Power_Plant.png)
 
 Episode
 

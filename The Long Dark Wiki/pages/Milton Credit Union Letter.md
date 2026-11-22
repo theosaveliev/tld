@@ -4,7 +4,7 @@
 
 **Milton Credit Union Letter**
 
-![Milton Credit Union Letter icon](../assets/Milton_Credit_Union_Letter_icon.png)
+[Milton Credit Union Letter icon](../assets/Milton_Credit_Union_Letter_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

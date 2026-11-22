@@ -12,13 +12,13 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Astrid's Backpack**
 
-![Astrid's Backpack icon](../assets/Astrid%27s_Backpack_icon.png)
+[Astrid's Backpack icon](../assets/Astrid%27s_Backpack_icon.png)
 
 **General**
 
 **Item Type:** Tool
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
 > “**A small pack, the kind you grab when you're in a hurry.**”
 >

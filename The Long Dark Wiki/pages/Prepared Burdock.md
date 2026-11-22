@@ -4,7 +4,7 @@
 
 **Prepared Burdock**
 
-![Prepared Burdock icon](../assets/Prepared_Burdock_icon.png)
+[Prepared Burdock icon](../assets/Prepared_Burdock_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 

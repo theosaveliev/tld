@@ -12,7 +12,7 @@
 
 **Scrap Metal**
 
-![Scrap Metal icon](../assets/Scrap_Metal_icon.png)
+[Scrap Metal icon](../assets/Scrap_Metal_icon.png)
 
 **General**
 
@@ -22,7 +22,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
 
 > “**Bits and pieces of metal scrounged from various sources.**”
 >

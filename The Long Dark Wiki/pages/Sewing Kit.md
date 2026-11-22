@@ -12,7 +12,7 @@
 
 **Sewing Kit**
 
-![Sewing Kit icon](../assets/Sewing_Kit_icon.png)
+[Sewing Kit icon](../assets/Sewing_Kit_icon.png)
 
 **General**
 
@@ -22,7 +22,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**A basic sewing kit. Required to craft and repair clothing.**”
 >

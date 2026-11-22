@@ -4,7 +4,7 @@
 
 **Hymnal**
 
-![Hymnal icon](../assets/Hymnal_icon.png)
+[Hymnal icon](../assets/Hymnal_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

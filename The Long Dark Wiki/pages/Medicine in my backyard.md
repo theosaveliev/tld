@@ -4,7 +4,7 @@
 
 **Medicine in my backyard**
 
-![Medicine in my backyard icon](../assets/Medicine_in_my_backyard_icon.png)
+[Medicine in my backyard icon](../assets/Medicine_in_my_backyard_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -4,7 +4,7 @@
 
 **You Made It!**
 
-![You Made It! icon](../assets/You_Made_It!_icon.png)
+[You Made It! icon](../assets/You_Made_It!_icon.png)
 
 **Description:** You survived 10 days in a single Survival mode game.
 

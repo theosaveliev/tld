@@ -11,7 +11,7 @@
 
 **Suitcase**
 
-![Suitcase](../assets/Suitcase.jpg)
+[Suitcase](../assets/Suitcase.jpg)
 
 **Release:** 1.60
 

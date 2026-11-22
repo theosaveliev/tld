@@ -12,7 +12,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Ptarmigan Carcass**
 
-![Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png)
+[Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -48,8 +48,8 @@ When killed, a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) can be butchered on
 
 |  | Item | Quanity | Rarity |
 | --- | --- | --- | --- |
-| ![Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
-| ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
+| [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
+| [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
 
 ## Update history
 

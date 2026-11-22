@@ -11,13 +11,13 @@
 
 **Winding River**
 
-![RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png)
+[RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Winding River Location](../assets/Winding_River_Location.png)
+[Winding River Location](../assets/Winding_River_Location.png)
 
-![Winding River map](../assets/Winding_River_map.png)
+[Winding River map](../assets/Winding_River_map.png)
 
 **Details**
 

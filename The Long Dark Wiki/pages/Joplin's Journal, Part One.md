@@ -4,7 +4,7 @@
 
 **Joplin's Journal, Part One**
 
-![Joplin's Journal, Part One icon](../assets/Joplin%27s_Journal%2C_Part_One_icon.png)
+[Joplin's Journal, Part One icon](../assets/Joplin%27s_Journal%2C_Part_One_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

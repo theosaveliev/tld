@@ -13,7 +13,7 @@
 
 **Risk of Intestinal Parasites**
 
-![Risk of Intestinal Parasites icon](../assets/Risk_of_Intestinal_Parasites_icon.png)
+[Risk of Intestinal Parasites icon](../assets/Risk_of_Intestinal_Parasites_icon.png)
 
 **Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
 

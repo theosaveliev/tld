@@ -4,7 +4,7 @@
 
 **Cured Moose Hide**
 
-![Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png)
+[Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 

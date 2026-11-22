@@ -4,7 +4,7 @@
 
 **Signal to Noise/Transcript**
 
-![Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
+[Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

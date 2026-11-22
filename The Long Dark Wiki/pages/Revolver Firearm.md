@@ -4,7 +4,7 @@
 
 **Revolver Firearm**
 
-![Revolver Firearm background](../assets/Revolver_Firearm_background.png)
+[Revolver Firearm background](../assets/Revolver_Firearm_background.png)
 
 **Release:** [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 

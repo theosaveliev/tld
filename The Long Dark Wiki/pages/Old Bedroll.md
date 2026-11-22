@@ -4,7 +4,7 @@
 
 **Old Bedroll**
 
-![OldBedroll](../assets/OldBedroll.jpg)
+[OldBedroll](../assets/OldBedroll.jpg)
 
 **General**
 

@@ -11,11 +11,11 @@
 
 **Misty Falls Cave**
 
-![Misty Falls Picnic Area Cave](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
+[Misty Falls Picnic Area Cave](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
 
 **Location**
 
-![Misty Falls Cave Location](../assets/Misty_Falls_Cave_Location.png)
+[Misty Falls Cave Location](../assets/Misty_Falls_Cave_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

@@ -4,11 +4,11 @@
 
 **Ogre's Teardrop**
 
-![Ogre's Teardrop](../assets/Ogre%27s_Teardrop.jpg)
+[Ogre's Teardrop](../assets/Ogre%27s_Teardrop.jpg)
 
 **Location**
 
-![Ogre's Teardrop Location](../assets/Ogre%27s_Teardrop_Location.png)
+[Ogre's Teardrop Location](../assets/Ogre%27s_Teardrop_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

@@ -4,11 +4,11 @@
 
 **Fallen Lighthouse**
 
-![The Fallen Lighthouse, with the cannery in the background](../assets/Crique_lugubre_over.png)
+[The Fallen Lighthouse, with the cannery in the background](../assets/Crique_lugubre_over.png)
 
 **Location**
 
-![Fallen Lighthouse Location](../assets/Fallen_Lighthouse_Location.png)
+[Fallen Lighthouse Location](../assets/Fallen_Lighthouse_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** OutdoorsMilitary/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Provides some shelter **Fallen Lighthouse** is the collapsed ruin of a former lighthouse, similar to the intact building in [Desolation Point](./Desolation%20Point.md), in [Bleak Inlet](./Bleak%20Inlet.md). It is an iconic landmark used associated with the region.
 

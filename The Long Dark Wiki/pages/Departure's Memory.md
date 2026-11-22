@@ -14,11 +14,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Departure's Memory**
 
-![Departure's Memory](../assets/Departure%27s_Memory.jpg)
+[Departure's Memory](../assets/Departure%27s_Memory.jpg)
 
 **Location**
 
-![Departure's Memory Location](../assets/Departure%27s_Memory_Location.png)
+[Departure's Memory Location](../assets/Departure%27s_Memory_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 
@@ -28,11 +28,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

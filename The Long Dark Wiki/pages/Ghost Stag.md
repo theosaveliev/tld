@@ -4,7 +4,7 @@
 
 **Ghost Stag**
 
-![Ghost Stag](../assets/Ghost_Stag.png)
+[Ghost Stag](../assets/Ghost_Stag.png)
 
 **Basic Information**
 

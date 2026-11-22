@@ -4,7 +4,7 @@
 
 **Unknown (Alias: Patient 7)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Date:** March 30th, 2023
 

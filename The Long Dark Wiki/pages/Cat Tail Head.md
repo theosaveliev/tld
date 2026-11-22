@@ -11,7 +11,7 @@
 
 **Cat Tail Head**
 
-![Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png)
+[Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 
@@ -49,7 +49,7 @@ Like all other plants, Cat Tails do not regrow.
 
 **Statistics**
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
 ## Gallery
 

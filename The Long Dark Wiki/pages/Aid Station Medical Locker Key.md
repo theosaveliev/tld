@@ -4,7 +4,7 @@
 
 **Aid Station Medical Locker Key**
 
-![Aid Station Medical Locker Key icon](../assets/Aid_Station_Medical_Locker_Key_icon.png)
+[Aid Station Medical Locker Key icon](../assets/Aid_Station_Medical_Locker_Key_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

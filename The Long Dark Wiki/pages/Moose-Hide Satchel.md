@@ -13,7 +13,7 @@
 
 **Moose-Hide Satchel**
 
-![Moose Hide Satchel icon](../assets/Moose-Hide_Satchel_icon.png)
+[Moose Hide Satchel icon](../assets/Moose-Hide_Satchel_icon.png)
 
 **General**
 
@@ -23,17 +23,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.0 °C(0 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.0 °C(0 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)0%
+**Protection:** [Protection icon](../assets/Protection_icon.png)0%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 x [Cured Leather](./Cured%20Leather.md)<br>10 minutes
 

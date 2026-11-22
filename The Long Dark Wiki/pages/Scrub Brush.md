@@ -17,7 +17,7 @@
 
 **Scrub Brush**
 
-![Scrub Brush icon](../assets/Scrub_Brush_icon.png)
+[Scrub Brush icon](../assets/Scrub_Brush_icon.png)
 
 **General**
 

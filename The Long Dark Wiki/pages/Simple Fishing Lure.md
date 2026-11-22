@@ -4,7 +4,7 @@
 
 **Simple Fishing Lure**
 
-![Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png)
+[Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -42,7 +42,7 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+| [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
 
 ## Crafting
 

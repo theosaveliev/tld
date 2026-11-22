@@ -13,7 +13,7 @@
 
 **History of The Collapse**
 
-![History of The Collapse icon](../assets/History_of_The_Collapse_icon.png)
+[History of The Collapse icon](../assets/History_of_The_Collapse_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

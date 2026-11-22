@@ -4,11 +4,11 @@
 
 **Waterfall**
 
-![Waterfall](../assets/Waterfall.jpg)
+[Waterfall](../assets/Waterfall.jpg)
 
 **Location**
 
-![Waterfall Location](../assets/Waterfall_Location.png)
+[Waterfall Location](../assets/Waterfall_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 

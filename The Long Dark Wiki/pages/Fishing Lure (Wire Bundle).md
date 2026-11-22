@@ -4,7 +4,7 @@
 
 **Fishing Lure (Wire Bundle)**
 
-![Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)
+[Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -38,7 +38,7 @@ This lure has the highest chance of all the craftable lures to catch rare fish a
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | Fishing Lure (Wire Bundle) | +1000% | +75% | - 1 [Wires](./Wires.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | Fishing Lure (Wire Bundle) | +1000% | +75% | - 1 [Wires](./Wires.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 

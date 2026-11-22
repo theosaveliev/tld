@@ -4,7 +4,7 @@
 
 **Brass Key**
 
-![Brass Key icon](../assets/Brass_Key_icon.png)
+[Brass Key icon](../assets/Brass_Key_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

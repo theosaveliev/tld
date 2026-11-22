@@ -13,13 +13,13 @@
 
 **Forlorn Muskeg**
 
-![Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png)
+[Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png)
+[Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png)
 
-![Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png)
+[Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png)
 
 **Details**
 

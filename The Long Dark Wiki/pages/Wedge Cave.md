@@ -4,11 +4,11 @@
 
 **Wedge Cave**
 
-![Wedge Cave](../assets/Wedge_Cave.jpg)
+[Wedge Cave](../assets/Wedge_Cave.jpg)
 
 **Location**
 
-![Wedge Cave Location](../assets/Wedge_Cave_Location.png)
+[Wedge Cave Location](../assets/Wedge_Cave_Location.png)
 
 Region
 

@@ -4,7 +4,7 @@
 
 **Technical Backpack**
 
-![Technical Backpack icon](../assets/Technical_Backpack_icon.png)
+[Technical Backpack icon](../assets/Technical_Backpack_icon.png)
 
 **Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
 

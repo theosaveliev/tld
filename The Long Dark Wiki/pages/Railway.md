@@ -30,13 +30,13 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Railway**
 
-![Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)
+[Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Railway In Game Map](../assets/Railway_In-Game_Map.png)
+[Railway In Game Map](../assets/Railway_In-Game_Map.png)
 
 **Details**
 

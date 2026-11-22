@@ -4,7 +4,7 @@
 
 **Old Bear's Den**
 
-![Old Bear's Den](../assets/Old_Bear%27s_Den.jpg)
+[Old Bear's Den](../assets/Old_Bear%27s_Den.jpg)
 
 **Location**
 

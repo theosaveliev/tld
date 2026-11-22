@@ -4,11 +4,11 @@
 
 **Shattered Cove**
 
-![ShatteredCove](../assets/ShatteredCove.png)
+[ShatteredCove](../assets/ShatteredCove.png)
 
 **Location**
 
-![Shattered Cove Location](../assets/Shattered_Cove_Location.png)
+[Shattered Cove Location](../assets/Shattered_Cove_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

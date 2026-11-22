@@ -4,7 +4,7 @@
 
 **Accelerant**
 
-![Accelerant icon](../assets/Accelerant_icon.png)
+[Accelerant icon](../assets/Accelerant_icon.png)
 
 **General**
 
@@ -16,9 +16,9 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
+**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
 
 > “**Low-volume fuel source designed to help start fires; ex. lighter fluid.**”
 >

@@ -4,11 +4,11 @@
 
 **Blocked Highway**
 
-![Blocked Highway](../assets/Blocked_Highway.jpg)
+[Blocked Highway](../assets/Blocked_Highway.jpg)
 
 **Location**
 
-![Blocked Highway Location](../assets/Blocked_Highway_Location.png)
+[Blocked Highway Location](../assets/Blocked_Highway_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 

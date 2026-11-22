@@ -4,7 +4,7 @@
 
 **The Long Winter**
 
-![The Long Winter icon](../assets/The_Long_Winter_icon.png)
+[The Long Winter icon](../assets/The_Long_Winter_icon.png)
 
 **Description:** Prepare Grey Mother for Winter.
 

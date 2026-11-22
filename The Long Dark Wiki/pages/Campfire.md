@@ -12,7 +12,7 @@
 
 **Campfire**
 
-![Campfire icon](../assets/Campfire_icon.png)
+[Campfire icon](../assets/Campfire_icon.png)
 
 **General**
 

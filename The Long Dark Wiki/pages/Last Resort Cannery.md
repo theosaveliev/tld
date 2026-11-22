@@ -16,11 +16,11 @@
 
 **Last Resort Cannery**
 
-![SS BI Cannery03](../assets/SS-BI-Cannery03.jpg)
+[SS BI Cannery03](../assets/SS-BI-Cannery03.jpg)
 
 **Location**
 
-![Last Resort Cannery Location](../assets/Last_Resort_Cannery_Location.png)
+[Last Resort Cannery Location](../assets/Last_Resort_Cannery_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

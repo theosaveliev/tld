@@ -4,11 +4,11 @@
 
 **Prayerful Window**
 
-![Prayerful Window](../assets/Prayerful_Window.jpg)
+[Prayerful Window](../assets/Prayerful_Window.jpg)
 
 **Location**
 
-![Prayerful Window Location](../assets/Prayerful_Window_Location.png)
+[Prayerful Window Location](../assets/Prayerful_Window_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

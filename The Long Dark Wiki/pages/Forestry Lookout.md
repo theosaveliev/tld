@@ -14,11 +14,11 @@
 
 **Forestry Lookout**
 
-![New forestry lookout5](../assets/New_forestry_lookout5.jpg)
+[New forestry lookout5](../assets/New_forestry_lookout5.jpg)
 
 **Location**
 
-![Forestry Lookout Location](../assets/Forestry_Lookout_Location.png)
+[Forestry Lookout Location](../assets/Forestry_Lookout_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -26,7 +26,7 @@
 
 **Type:** Military/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

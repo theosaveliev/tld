@@ -4,7 +4,7 @@
 
 **The Old Bear's Ear**
 
-![The Old Bear's Ear icon](../assets/The_Old_Bear%27s_Ear_icon.png)
+[The Old Bear's Ear icon](../assets/The_Old_Bear%27s_Ear_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

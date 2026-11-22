@@ -4,7 +4,7 @@
 
 **Hangar Basement**
 
-![HangarBasementLights](../assets/HangarBasementLights.jpg)
+[HangarBasementLights](../assets/HangarBasementLights.jpg)
 
 **Location**
 
@@ -14,10 +14,10 @@
 
 Firebox
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge

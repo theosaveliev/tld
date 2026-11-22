@@ -13,13 +13,13 @@
 
 **Keeper's Pass North**
 
-![Buildersbridge1](../assets/Buildersbridge1.png)
+[Buildersbridge1](../assets/Buildersbridge1.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Keeper's Pass North Location](../assets/Keeper%27s_Pass_North_Location.png)
+[Keeper's Pass North Location](../assets/Keeper%27s_Pass_North_Location.png)
 
-![Keeper's Pass North Region Map](../assets/Keeper%27s_Pass_North_Region_Map.png)
+[Keeper's Pass North Region Map](../assets/Keeper%27s_Pass_North_Region_Map.png)
 
 **Details**
 

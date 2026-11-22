@@ -4,7 +4,7 @@
 
 **Fukkatsu Maru**
 
-![Fukkatsu Maru](../assets/Fukkatsu_Maru.jpg)
+[Fukkatsu Maru](../assets/Fukkatsu_Maru.jpg)
 
 **Location**
 

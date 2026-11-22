@@ -13,13 +13,13 @@
 
 **Keeper's Pass South**
 
-![Vistekeeperspass](../assets/Vistekeeperspass.png)
+[Vistekeeperspass](../assets/Vistekeeperspass.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Keeper's Pass South Location](../assets/Keeper%27s_Pass_South_Location.png)
+[Keeper's Pass South Location](../assets/Keeper%27s_Pass_South_Location.png)
 
-![Keeper's Pass South Region Map](../assets/Keeper%27s_Pass_South_Region_Map.png)
+[Keeper's Pass South Region Map](../assets/Keeper%27s_Pass_South_Region_Map.png)
 
 **Details**
 

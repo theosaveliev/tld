@@ -4,7 +4,7 @@
 
 **Broken Bear Spear**
 
-![Broken Bear Spear icon](../assets/Broken_Bear_Spear_icon.png)
+[Broken Bear Spear icon](../assets/Broken_Bear_Spear_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

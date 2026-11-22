@@ -4,7 +4,7 @@
 
 **The Crossroads Elegy**
 
-![The Crossroads Elegy icon](../assets/The_Crossroads_Elegy_icon.png)
+[The Crossroads Elegy icon](../assets/The_Crossroads_Elegy_icon.png)
 
 **Description:** Leave Pleasant Valley behind. Complete Episode Three.
 

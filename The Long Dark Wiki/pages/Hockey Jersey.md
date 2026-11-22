@@ -11,7 +11,7 @@
 
 **Hockey Jersey**
 
-![Hockey Jersey icon](../assets/Hockey_Jersey_icon.png)
+[Hockey Jersey icon](../assets/Hockey_Jersey_icon.png)
 
 **General**
 
@@ -21,17 +21,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)15%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)15%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
+**Protection:** [Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 

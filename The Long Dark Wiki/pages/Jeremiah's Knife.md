@@ -13,7 +13,7 @@
 
 **Jeremiah's Knife**
 
-![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
+[Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

@@ -4,11 +4,11 @@
 
 **Abandoned Camp**
 
-![Abandoned camp](../assets/Abandoned_camp.jpg)
+[Abandoned camp](../assets/Abandoned_camp.jpg)
 
 **Location**
 
-![Abandoned Camp Location](../assets/Abandoned_Camp_Location.png)
+[Abandoned Camp Location](../assets/Abandoned_Camp_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

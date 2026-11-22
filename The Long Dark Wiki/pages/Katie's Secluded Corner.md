@@ -4,11 +4,11 @@
 
 **Katie's Secluded Corner**
 
-![Katie's secluded corner](../assets/Katie%27s_secluded_corner.jpg)
+[Katie's secluded corner](../assets/Katie%27s_secluded_corner.jpg)
 
 **Location**
 
-![Katie's Secluded Corner Location](../assets/Katie%27s_Secluded_Corner_Location.png)
+[Katie's Secluded Corner Location](../assets/Katie%27s_Secluded_Corner_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 

@@ -13,7 +13,7 @@ _For other sodas, see [Soda (disambiguation)](./Soda%20%28disambiguation%29.md).
 
 **Orange Soda**
 
-![Orange Soda icon](../assets/Orange_Soda_icon.png)
+[Orange Soda icon](../assets/Orange_Soda_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 

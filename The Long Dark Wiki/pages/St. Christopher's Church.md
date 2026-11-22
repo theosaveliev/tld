@@ -4,11 +4,11 @@
 
 **St. Christopher's Church**
 
-![St. Christopher's Church](../assets/St._Christopher%27s_Church.png)
+[St. Christopher's Church](../assets/St._Christopher%27s_Church.png)
 
 **Location**
 
-![St. Christopher's Church Location](../assets/St._Christopher%27s_Church_Location.png)
+[St. Christopher's Church Location](../assets/St._Christopher%27s_Church_Location.png)
 
 Region
 

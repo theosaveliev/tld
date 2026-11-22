@@ -4,11 +4,11 @@
 
 **Matt's Truck**
 
-![Matt's Truck](../assets/Matt%27s_Truck.jpg)
+[Matt's Truck](../assets/Matt%27s_Truck.jpg)
 
 **Location**
 
-![Matt's Truck Location](../assets/Matt%27s_Truck_Location.png)
+[Matt's Truck Location](../assets/Matt%27s_Truck_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 

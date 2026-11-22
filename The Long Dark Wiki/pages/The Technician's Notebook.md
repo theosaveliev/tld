@@ -4,7 +4,7 @@
 
 **The Technician's Notebook**
 
-![The Technician's Notebook icon](../assets/The_Technician%27s_Notebook_icon.png)
+[The Technician's Notebook icon](../assets/The_Technician%27s_Notebook_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

@@ -11,11 +11,11 @@
 - [Wildlife](#wildlife)
 - [Gallery](#gallery)
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
- ![Chemical Hazard Barrels](../assets/Chemical_Hazard_Barrels.jpg)<br>A **Chemical Hazard** is an [Environmental Hazard](./Environmental%20Hazard.md) located only in the industrial areas of the [Zone of Contamination](./Zone%20of%20Contamination.md) [Region](./Region.md) in _[The Long Dark](./The%20Long%20Dark.md)_ and is the reason for the Region's namesake. They are a result of past mismanaged waste disposal by the Langston Mining Corporation during the coal and uranium extraction operations of the [Langston Mine](./Langston%20Mine.md), with the company's negligence and lack of care for the environment being another example of negative Mainlander influence upon [Great Bear Island](./Great%20Bear%20Island.md). The presence of these chemical spills has also contributed to the Region's lack of healthy [Wildlife](./Wildlife.md), and have indirectly created the [Poisoned Wolf](./Poisoned%20Wolf.md).<br>For players who have installed [The Long Development](./The%20Long%20Development.md), a Chemical Hazard can also be found at [Forsaken Shore](./Forsaken%20Shore.md).
+ [Chemical Hazard Barrels](../assets/Chemical_Hazard_Barrels.jpg)<br>A **Chemical Hazard** is an [Environmental Hazard](./Environmental%20Hazard.md) located only in the industrial areas of the [Zone of Contamination](./Zone%20of%20Contamination.md) [Region](./Region.md) in _[The Long Dark](./The%20Long%20Dark.md)_ and is the reason for the Region's namesake. They are a result of past mismanaged waste disposal by the Langston Mining Corporation during the coal and uranium extraction operations of the [Langston Mine](./Langston%20Mine.md), with the company's negligence and lack of care for the environment being another example of negative Mainlander influence upon [Great Bear Island](./Great%20Bear%20Island.md). The presence of these chemical spills has also contributed to the Region's lack of healthy [Wildlife](./Wildlife.md), and have indirectly created the [Poisoned Wolf](./Poisoned%20Wolf.md).<br>For players who have installed [The Long Development](./The%20Long%20Development.md), a Chemical Hazard can also be found at [Forsaken Shore](./Forsaken%20Shore.md).
 
 ## Overview
 

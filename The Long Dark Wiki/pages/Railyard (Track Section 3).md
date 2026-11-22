@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Railyard**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Location**
 
-![Railyard Track 3 Location](../assets/Railyard_Track_3_Location.png)
+[Railyard Track 3 Location](../assets/Railyard_Track_3_Location.png)
 
 **Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)
 

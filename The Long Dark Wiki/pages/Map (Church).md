@@ -12,7 +12,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Map**
 
-![Map (Church) icon](../assets/Map_%28Church%29_icon.png)
+[Map (Church) icon](../assets/Map_%28Church%29_icon.png)
 
 **Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)
 

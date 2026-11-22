@@ -4,11 +4,11 @@
 
 **Conveyor Room**
 
-![Conveyor Room](../assets/Conveyor_Room.png)
+[Conveyor Room](../assets/Conveyor_Room.png)
 
 **Location**
 
-![Conveyor Room Location](../assets/Conveyor_Room_Location.png)
+[Conveyor Room Location](../assets/Conveyor_Room_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

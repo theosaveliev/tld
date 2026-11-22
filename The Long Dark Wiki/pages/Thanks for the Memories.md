@@ -4,7 +4,7 @@
 
 **Thanks for the Memories**
 
-![Thanks for the Memories icon](../assets/Thanks_for_the_Memories_icon.png)
+[Thanks for the Memories icon](../assets/Thanks_for_the_Memories_icon.png)
 
 **Description:** Collect 12 Mementos – one from each Lower Great Bear Island Region (single game).
 

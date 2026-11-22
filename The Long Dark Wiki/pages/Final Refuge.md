@@ -4,11 +4,11 @@
 
 **Final Refuge**
 
-![Final Refuge](../assets/Final_Refuge.png)
+[Final Refuge](../assets/Final_Refuge.png)
 
 **Location**
 
-![Final Refuge Location](../assets/Final_Refuge_Location.png)
+[Final Refuge Location](../assets/Final_Refuge_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -16,7 +16,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

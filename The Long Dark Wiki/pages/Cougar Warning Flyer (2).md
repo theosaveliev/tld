@@ -4,7 +4,7 @@
 
 **Cougar Warning Flyer (2)**
 
-![Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png)
+[Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png)
 
 **Properties**
 

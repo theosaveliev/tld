@@ -13,13 +13,13 @@
 
 **Broken Railroad**
 
-![Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png)
+[Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Broken Railroad Location](../assets/Broken_Railroad_Location.png)
+[Broken Railroad Location](../assets/Broken_Railroad_Location.png)
 
-![Broken Railroad region map](../assets/Broken_Railroad_region_map.png)
+[Broken Railroad region map](../assets/Broken_Railroad_region_map.png)
 
 **Details**
 

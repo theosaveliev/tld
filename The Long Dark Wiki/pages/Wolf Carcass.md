@@ -11,7 +11,7 @@
 
 **Wolf Carcass**
 
-![Wolf carcass icon](../assets/Wolf_carcass_icon.png)
+[Wolf carcass icon](../assets/Wolf_carcass_icon.png)
 
 **General**
 
@@ -25,9 +25,9 @@ A Wolf Carcass may be harvested for 3.00-6.00 kg of [raw meat](./Wolf%20Meat%20%
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 3 - 6 | Always[¹](#fn1) |
-| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always[²](#fn2) |
-| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 3 - 6 | Always[¹](#fn1) |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always[²](#fn2) |
+| [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Preplaced Locations

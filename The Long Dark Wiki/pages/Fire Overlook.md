@@ -4,11 +4,11 @@
 
 **Fire Overlook**
 
-![20201210005637 1](../assets/20201210005637_1.jpg)
+[20201210005637 1](../assets/20201210005637_1.jpg)
 
 **Location**
 
-![Fire Overlook Location](../assets/Fire_Overlook_Location.png)
+[Fire Overlook Location](../assets/Fire_Overlook_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

@@ -12,7 +12,7 @@
 
 **Survival School**
 
-![Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png)
+[Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

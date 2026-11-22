@@ -4,7 +4,7 @@
 
 **Don't Starve**
 
-![Don't Starve icon](../assets/Don%27t_Starve_icon.png)
+[Don't Starve icon](../assets/Don%27t_Starve_icon.png)
 
 **Description:** Keep calorie store above zero for 10 days.
 

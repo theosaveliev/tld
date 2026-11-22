@@ -62,21 +62,21 @@ Different tools are more or less effective at ending the struggle (scaring the W
 
 | Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
-| ![Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
-| ![Improvised Knife icon](../assets/Improvised_Knife_icon.png) | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | 3 |
-| ![Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture | 3.50% | 1.30% | 16 min | 1.5 |
-| ![Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | 40 min | 3 |
-| ![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
-| ![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | 2 |
-| ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | 2 |
-| ![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
-| ![Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
-| ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
-| ![Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
-| ![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
-| ![Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
+| [Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
+| [Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
+| [Improvised Knife icon](../assets/Improvised_Knife_icon.png) | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | 3 |
+| [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture | 3.50% | 1.30% | 16 min | 1.5 |
+| [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | 40 min | 3 |
+| [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
+| [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | 2 |
+| [Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | 2 |
+| [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
+| [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
+| [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
+| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
+| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
+| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
 
 Note some [Tools](./Tools.md) cannot be selected as defense options during a Wolf Struggle, this includes the [Hacksaw](./Hacksaw.md), [Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), [Bear Spear](./Bear%20Spear.md), [Distress Pistol](./Distress%20Pistol.md), [Storm Lantern](./Storm%20Lantern.md), [Flashlight](./Flashlight.md), and [Stone](./Stone.md).
 

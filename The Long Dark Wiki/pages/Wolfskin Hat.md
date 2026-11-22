@@ -12,7 +12,7 @@
 
 **Wolfskin Hat**
 
-![Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png)
+[Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png)
 
 **General**
 
@@ -22,17 +22,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)4%
+**Protection:** [Protection icon](../assets/Protection_icon.png)4%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>20 minutes
 
@@ -42,7 +42,7 @@
 >
 > — In-game description
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

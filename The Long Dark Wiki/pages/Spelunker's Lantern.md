@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Spelunker's Lantern**
 
-![Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png)
+[Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
 

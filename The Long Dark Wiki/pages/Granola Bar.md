@@ -11,7 +11,7 @@
 
 **Granola Bar**
 
-![Granola Bar icon](../assets/Granola_Bar_icon.png)
+[Granola Bar icon](../assets/Granola_Bar_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 

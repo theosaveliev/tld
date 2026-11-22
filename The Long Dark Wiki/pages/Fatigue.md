@@ -60,10 +60,10 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) will immediately refill
 
 | Item | Initial Reduction | Fatigue Loss | Duration |
 | --- | --- | --- | --- |
-| ![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | 10% | 50% | 60 minutes |
-| ![Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 5% | 75% | 30 minutes |
-| ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes |
-| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) | 10% | 50% | 60 minutes |
+| [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | 10% | 50% | 60 minutes |
+| [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 5% | 75% | 30 minutes |
+| [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes |
+| [Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) | 10% | 50% | 60 minutes |
 
 ### Food
 
@@ -73,20 +73,20 @@ Eating certain foods can also affect the fatigue meter.
 
 | Item | Name | Initial Increase |
 | --- | --- | --- |
-| ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
-| ![Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
-| ![Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 15% |
+| [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
+| [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
+| [Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 15% |
 
 #### Fatigue Decrease:
 
 | Item | Name | Initial Decrease |
 | --- | --- | --- |
-| ![Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | -15% |
-| ![Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | -15% |
-| ![Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | -15% |
-| ![Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | -15% |
-| ![Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | -15% |
-| ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
+| [Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | -15% |
+| [Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | -15% |
+| [Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | -15% |
+| [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | -15% |
+| [Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | -15% |
+| [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
 
 ## Affecting Condition
 

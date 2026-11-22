@@ -4,7 +4,7 @@
 
 **Detonators**
 
-![Detonators icon](../assets/Detonators_icon.png)
+[Detonators icon](../assets/Detonators_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

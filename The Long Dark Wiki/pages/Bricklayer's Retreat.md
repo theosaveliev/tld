@@ -4,11 +4,11 @@
 
 **Bricklayer's Retreat**
 
-![Bricklayer's Retreat](../assets/Bricklayer%27s_Retreat.jpg)
+[Bricklayer's Retreat](../assets/Bricklayer%27s_Retreat.jpg)
 
 **Location**
 
-![Bricklayer's Retreat Location](../assets/Bricklayer%27s_Retreat_Location.png)
+[Bricklayer's Retreat Location](../assets/Bricklayer%27s_Retreat_Location.png)
 
 Region
 
@@ -18,11 +18,11 @@ Region
 
 Firebox
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

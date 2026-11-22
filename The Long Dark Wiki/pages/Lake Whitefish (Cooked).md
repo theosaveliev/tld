@@ -11,7 +11,7 @@
 
 **Lake Whitefish (Cooked)**
 
-![Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png)
+[Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 

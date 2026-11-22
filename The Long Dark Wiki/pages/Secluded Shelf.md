@@ -4,11 +4,11 @@
 
 **Secluded Shelf**
 
-![Secluded Shelf](../assets/Secluded_Shelf.jpg)
+[Secluded Shelf](../assets/Secluded_Shelf.jpg)
 
 **Location**
 
-![Secluded Shelf Location](../assets/Secluded_Shelf_Location.png)
+[Secluded Shelf Location](../assets/Secluded_Shelf_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

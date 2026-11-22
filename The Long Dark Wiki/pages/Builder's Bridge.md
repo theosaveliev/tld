@@ -4,11 +4,11 @@
 
 **Builder's Bridge**
 
-![Buildersbridge](../assets/Buildersbridge.png)
+[Buildersbridge](../assets/Buildersbridge.png)
 
 **Location**
 
-![Builder's Bridge Location](../assets/Builder%27s_Bridge_Location.png)
+[Builder's Bridge Location](../assets/Builder%27s_Bridge_Location.png)
 
 **Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 

@@ -4,7 +4,7 @@
 
 **You'll Be With Her Soon**
 
-![You'll Be With Her Soon icon](../assets/You%27ll_Be_With_Her_Soon_icon.png)
+[You'll Be With Her Soon icon](../assets/You%27ll_Be_With_Her_Soon_icon.png)
 
 **Description:** Leave Mystery Lake. Complete Episode Two.
 

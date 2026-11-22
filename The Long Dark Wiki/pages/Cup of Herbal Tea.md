@@ -12,7 +12,7 @@
 
 **Cup of Herbal Tea**
 
-![Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png)
+[Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 

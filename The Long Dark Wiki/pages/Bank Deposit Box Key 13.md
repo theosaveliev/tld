@@ -4,7 +4,7 @@
 
 **Bank Deposit Box Key (#13)**
 
-![Bank Deposit Box Key 13 icon](../assets/Bank_Deposit_Box_Key_13_icon.png)
+[Bank Deposit Box Key 13 icon](../assets/Bank_Deposit_Box_Key_13_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

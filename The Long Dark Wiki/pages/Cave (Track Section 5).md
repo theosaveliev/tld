@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Cave (Track Section 5)**
 
-![Cave (Track Section 5)](../assets/Cave_%28Track_Section_5%29.jpg)
+[Cave (Track Section 5)](../assets/Cave_%28Track_Section_5%29.jpg)
 
 **Location**
 
-![Cave Track Section 5 Location](../assets/Cave_Track_Section_5_Location.png)
+[Cave Track Section 5 Location](../assets/Cave_Track_Section_5_Location.png)
 
 **Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
 

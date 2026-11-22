@@ -22,13 +22,13 @@
 
 **Coastal Highway**
 
-![Coastal Highway title card](../assets/Coastal_Highway_title_card.png)
+[Coastal Highway title card](../assets/Coastal_Highway_title_card.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Coastal Highway Location](../assets/Coastal_Highway_Location.png)
+[Coastal Highway Location](../assets/Coastal_Highway_Location.png)
 
-![Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png)
+[Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png)
 
 **Details**
 

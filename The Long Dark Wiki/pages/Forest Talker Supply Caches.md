@@ -4,7 +4,7 @@
 
 **Forest Talker Supply Caches**
 
-![Trailer supplies icon](../assets/Trailer_supplies_icon.png)
+[Trailer supplies icon](../assets/Trailer_supplies_icon.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

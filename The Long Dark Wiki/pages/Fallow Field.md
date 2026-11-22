@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Fallow Field**
 
-![Fallow Field](../assets/Fallow_Field.jpg)
+[Fallow Field](../assets/Fallow_Field.jpg)
 
 **Location**
 
-![Fallow Field Location](../assets/Fallow_Field_Location.png)
+[Fallow Field Location](../assets/Fallow_Field_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 

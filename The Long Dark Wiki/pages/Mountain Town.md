@@ -14,13 +14,13 @@
 
 **Mountain Town**
 
-![Mountain town titlecard](../assets/Mountain_town_titlecard.png)
+[Mountain town titlecard](../assets/Mountain_town_titlecard.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Mountain Town Location](../assets/Mountain_Town_Location.png)
+[Mountain Town Location](../assets/Mountain_Town_Location.png)
 
-![Mountain Town map](../assets/Mountain_Town_map.png)
+[Mountain Town map](../assets/Mountain_Town_map.png)
 
 **Details**
 

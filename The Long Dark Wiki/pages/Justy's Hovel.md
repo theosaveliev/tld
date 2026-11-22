@@ -4,11 +4,11 @@
 
 **Justy's Hovel**
 
-![Justy's Hovel](../assets/Justy%27s_Hovel.png)
+[Justy's Hovel](../assets/Justy%27s_Hovel.png)
 
 **Location**
 
-![Justy's Hovel Location](../assets/Justy%27s_Hovel_Location.png)
+[Justy's Hovel Location](../assets/Justy%27s_Hovel_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -18,13 +18,13 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior<br>**Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md).
 

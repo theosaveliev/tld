@@ -15,7 +15,7 @@
 
 **Car Battery**
 
-![Car Battery icon](../assets/Car_Battery_icon.png)
+[Car Battery icon](../assets/Car_Battery_icon.png)
 
 **General**
 
@@ -23,7 +23,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)15.00 kg(33 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)15.00 kg(33 lbs)
 
 **Harvest:** 30 min 6 x [Scrap Lead](./Scrap%20Lead.md) with a [Hacksaw](./Hacksaw.md)
 

@@ -24,7 +24,7 @@
 
 **BLACKFROST: The Long Dark II**
 
-![Bf wishlist](../assets/Bf-wishlist.jpg)
+[Bf wishlist](../assets/Bf-wishlist.jpg)
 
 **Developer(s):** [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md)
 

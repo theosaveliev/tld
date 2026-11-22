@@ -15,13 +15,13 @@
 
 **Raven Falls Railway Line**
 
-![RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png)
+[RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![The Ravine Location](../assets/The_Ravine_Location.png)
+[The Ravine Location](../assets/The_Ravine_Location.png)
 
-![The Ravine map](../assets/The_Ravine_map.png)
+[The Ravine map](../assets/The_Ravine_map.png)
 
 **Details**
 

@@ -14,7 +14,7 @@
 
 **Dr. Atwood**
 
-![Dr Atwood](../assets/Dr_Atwood.jpg)
+[Dr Atwood](../assets/Dr_Atwood.jpg)
 
 **Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 

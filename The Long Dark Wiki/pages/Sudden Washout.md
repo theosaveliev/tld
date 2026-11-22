@@ -4,11 +4,11 @@
 
 **Sudden Washout**
 
-![Sudden Washout](../assets/Sudden_Washout.png)
+[Sudden Washout](../assets/Sudden_Washout.png)
 
 **Location**
 
-![Sudden Washout Location](../assets/Sudden_Washout_Location.png)
+[Sudden Washout Location](../assets/Sudden_Washout_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

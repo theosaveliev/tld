@@ -12,7 +12,7 @@
 
 **Too Big to Fail**
 
-![Too Big to Fail icon](../assets/Too_Big_to_Fail_icon.png)
+[Too Big to Fail icon](../assets/Too_Big_to_Fail_icon.png)
 
 **Description:** Open all Safety Deposit boxes in Milton.
 

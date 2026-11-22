@@ -4,7 +4,7 @@
 
 **Field 31 Operation Memo**
 
-![Field 31 Operation Memo icon](../assets/Field_31_Operation_Memo_icon.png)
+[Field 31 Operation Memo icon](../assets/Field_31_Operation_Memo_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 

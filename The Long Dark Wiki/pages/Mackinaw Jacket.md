@@ -4,7 +4,7 @@
 
 **Mackinaw Jacket**
 
-![Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png)
+[Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png)
 
 **General**
 
@@ -12,17 +12,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
+**Protection:** [Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
 **Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 

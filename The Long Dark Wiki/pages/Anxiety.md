@@ -11,7 +11,7 @@
 
 **Anxiety**
 
-![Anxiety icon](../assets/Anxiety_icon.png)
+[Anxiety icon](../assets/Anxiety_icon.png)
 
 **Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
 

@@ -11,7 +11,7 @@
 
 **Blackrock Lockers**
 
-![Blackrock Lockers](../assets/Blackrock_Lockers.jpg)
+[Blackrock Lockers](../assets/Blackrock_Lockers.jpg)
 
 Episode
 

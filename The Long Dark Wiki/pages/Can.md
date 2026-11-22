@@ -4,7 +4,7 @@
 
 **Can**
 
-![Can](../assets/Can.jpg)
+[Can](../assets/Can.jpg)
 
 **Story item:** Yes
 

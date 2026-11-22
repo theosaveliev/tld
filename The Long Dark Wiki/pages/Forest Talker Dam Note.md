@@ -4,7 +4,7 @@
 
 **Forest Talker Dam Note**
 
-![Forest Talker Dam Note icon](../assets/Forest_Talker_Dam_Note_icon.png)
+[Forest Talker Dam Note icon](../assets/Forest_Talker_Dam_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

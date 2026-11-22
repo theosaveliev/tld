@@ -13,7 +13,7 @@
 
 **Echoes Of Astrid**
 
-![Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg)
+[Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

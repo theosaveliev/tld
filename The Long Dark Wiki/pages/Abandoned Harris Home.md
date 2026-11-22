@@ -4,11 +4,11 @@
 
 **Abandoned Harris Home**
 
-![Abandoned Harris Home](../assets/Abandoned_Harris_Home.jpg)
+[Abandoned Harris Home](../assets/Abandoned_Harris_Home.jpg)
 
 **Location**
 
-![Abandoned Harris Home Location](../assets/Abandoned_Harris_Home_Location.png)
+[Abandoned Harris Home Location](../assets/Abandoned_Harris_Home_Location.png)
 
 **Region:** [Old Island Connector](./Crumbling%20Highway.md)
 

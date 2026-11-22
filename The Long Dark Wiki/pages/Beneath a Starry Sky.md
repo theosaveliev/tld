@@ -4,7 +4,7 @@
 
 **Beneath a Starry Sky**
 
-![Beneath a Starry Sky icon](../assets/Beneath_a_Starry_Sky_icon.png)
+[Beneath a Starry Sky icon](../assets/Beneath_a_Starry_Sky_icon.png)
 
 **Description:** Survive 3 consecutive Nights outside (single game)
 

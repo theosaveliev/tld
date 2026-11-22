@@ -13,7 +13,7 @@
 
 **Crow**
 
-![Crow](../assets/Crow.png)
+[Crow](../assets/Crow.png)
 
 **Basic Information**
 
@@ -45,17 +45,17 @@ Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground under
 
 |  | Carcass | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Frozen Corpse](./Frozen%20Corpse.md) | 3-4 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Wolf Carcass](./Wolf%20Carcass.md) | 3 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 3 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 3 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Deer Carcass](./Deer%20Carcass.md) | 4 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Cougar Carcass](./Cougar%20Carcass.md) | 4 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 5 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
-| ![Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Frozen Corpse](./Frozen%20Corpse.md) | 3-4 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Wolf Carcass](./Wolf%20Carcass.md) | 3 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 3 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 3 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Deer Carcass](./Deer%20Carcass.md) | 4 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Cougar Carcass](./Cougar%20Carcass.md) | 4 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 5 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
+| [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
 
 ## Behavior
 

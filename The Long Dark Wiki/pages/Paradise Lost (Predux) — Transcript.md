@@ -4,7 +4,7 @@
 
 **Paradise Lost (Predux)/Transcript**
 
-![Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg)
+[Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

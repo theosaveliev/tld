@@ -11,7 +11,7 @@
 
 **Fishing Tackle**
 
-![Fishing Tackle icon](../assets/Fishing_Tackle_icon.png)
+[Fishing Tackle icon](../assets/Fishing_Tackle_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 

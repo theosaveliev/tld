@@ -4,11 +4,11 @@
 
 **Whistling Perch**
 
-![Whistling Perch](../assets/Whistling_Perch.jpg)
+[Whistling Perch](../assets/Whistling_Perch.jpg)
 
 **Location**
 
-![Whistling Perch Location](../assets/Whistling_Perch_Location.png)
+[Whistling Perch Location](../assets/Whistling_Perch_Location.png)
 
 Region
 

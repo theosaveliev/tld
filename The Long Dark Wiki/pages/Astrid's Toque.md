@@ -4,7 +4,7 @@
 
 **Astrid's Toque**
 
-![Astrid's Toque icon](../assets/Astrid%27s_Toque_icon.png)
+[Astrid's Toque icon](../assets/Astrid%27s_Toque_icon.png)
 
 **General**
 
@@ -12,23 +12,23 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
+**Protection:** [Protection icon](../assets/Protection_icon.png)2%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
 
 **Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
 
-![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+[2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 

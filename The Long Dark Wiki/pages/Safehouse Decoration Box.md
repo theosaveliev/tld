@@ -4,7 +4,7 @@
 
 **Safehouse Decoration Box**
 
-![Safehouse Decoration Box](../assets/Safehouse_Decoration_Box.jpg)
+[Safehouse Decoration Box](../assets/Safehouse_Decoration_Box.jpg)
 
 **Release:** TFTFT Part 6 Broken Silence
 

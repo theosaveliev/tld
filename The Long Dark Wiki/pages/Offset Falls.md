@@ -4,11 +4,11 @@
 
 **Offset Falls**
 
-![20190302003955 1](../assets/20190302003955_1.jpg)
+[20190302003955 1](../assets/20190302003955_1.jpg)
 
 **Location**
 
-![Offset Falls Location](../assets/Offset_Falls_Location.png)
+[Offset Falls Location](../assets/Offset_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

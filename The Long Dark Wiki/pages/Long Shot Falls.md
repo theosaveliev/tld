@@ -4,11 +4,11 @@
 
 **Long Shot Falls**
 
-![Long Shot Falls (2)](../assets/Long_Shot_Falls_%282%29.jpg)
+[Long Shot Falls (2)](../assets/Long_Shot_Falls_%282%29.jpg)
 
 **Location**
 
-![Long Shot Falls Location](../assets/Long_Shot_Falls_Location.png)
+[Long Shot Falls Location](../assets/Long_Shot_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

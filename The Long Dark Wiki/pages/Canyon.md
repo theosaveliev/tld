@@ -10,7 +10,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Canyon**
 
-![Canyon](../assets/Canyon.jpg)
+[Canyon](../assets/Canyon.jpg)
 
 **Location**
 

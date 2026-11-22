@@ -4,11 +4,11 @@
 
 **The Arch**
 
-![The Arch Milton](../assets/The_Arch_-_Milton.jpg)
+[The Arch Milton](../assets/The_Arch_-_Milton.jpg)
 
 **Location**
 
-![The Arch Mountain Town Location](../assets/The_Arch_Mountain_Town_Location.png)
+[The Arch Mountain Town Location](../assets/The_Arch_Mountain_Town_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

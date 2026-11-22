@@ -11,7 +11,7 @@
 
 **Cat Tail Stalk**
 
-![Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png)
+[Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png)
 
 **Release:** [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.196)
 

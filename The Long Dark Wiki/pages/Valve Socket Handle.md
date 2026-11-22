@@ -12,7 +12,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Valve Socket Handle**
 
-![Valve Socket Handle icon](../assets/Valve_Socket_Handle_icon.png)
+[Valve Socket Handle icon](../assets/Valve_Socket_Handle_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

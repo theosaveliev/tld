@@ -13,7 +13,7 @@
 
 **Snow Shelter**
 
-![Snow Shelter icon](../assets/Snow_Shelter_icon.png)
+[Snow Shelter icon](../assets/Snow_Shelter_icon.png)
 
 **General**
 
@@ -23,7 +23,7 @@
 
 **Statistics**
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)15 °C(27 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)15 °C(27 °F)
 
 **Harvest:** 10 [Sticks](./Stick.md)<br>2 [Cloth](./Cloth.md)
 

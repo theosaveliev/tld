@@ -4,11 +4,11 @@
 
 **Little Bear and Cub Falls**
 
-![Little Bear and Cub Falls](../assets/Little_Bear_and_Cub_Falls.jpg)
+[Little Bear and Cub Falls](../assets/Little_Bear_and_Cub_Falls.jpg)
 
 **Location**
 
-![Little Bear and Cub Falls Location](../assets/Little_Bear_and_Cub_Falls_Location.png)
+[Little Bear and Cub Falls Location](../assets/Little_Bear_and_Cub_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

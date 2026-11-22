@@ -4,7 +4,7 @@
 
 **Key To Lake Cabin #3**
 
-![Key To Lake Cabin 3 icon](../assets/Key_To_Lake_Cabin_3_icon.png)
+[Key To Lake Cabin 3 icon](../assets/Key_To_Lake_Cabin_3_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

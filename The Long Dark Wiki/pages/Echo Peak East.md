@@ -4,11 +4,11 @@
 
 **Echo Peak East**
 
-![Echo peak east](../assets/Echo_peak_east.jpg)
+[Echo peak east](../assets/Echo_peak_east.jpg)
 
 **Location**
 
-![Echo Peak East Location](../assets/Echo_Peak_East_Location.png)
+[Echo Peak East Location](../assets/Echo_Peak_East_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

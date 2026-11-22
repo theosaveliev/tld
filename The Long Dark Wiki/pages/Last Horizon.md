@@ -30,7 +30,7 @@
 | Next | [Sutherland's Tale](./Sutherland%27s%20Tale.md) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) [Forsaken Airfield](./Forsaken%20Airfield.md) |
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

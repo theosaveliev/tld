@@ -12,13 +12,13 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Desperation Bay**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Desperation Bay In Game Map](../assets/Desperation_Bay_In-Game_Map.png)
+[Desperation Bay In Game Map](../assets/Desperation_Bay_In-Game_Map.png)
 
 **Details**
 

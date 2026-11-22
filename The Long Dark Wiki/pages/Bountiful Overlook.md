@@ -4,11 +4,11 @@
 
 **Bountiful Overlook**
 
-![Bountiful Overlook](../assets/Bountiful_Overlook.jpg)
+[Bountiful Overlook](../assets/Bountiful_Overlook.jpg)
 
 **Location**
 
-![Bountiful Overlook Location](../assets/Bountiful_Overlook_Location.png)
+[Bountiful Overlook Location](../assets/Bountiful_Overlook_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

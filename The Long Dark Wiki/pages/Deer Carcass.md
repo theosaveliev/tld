@@ -4,7 +4,7 @@
 
 **Deer Carcass**
 
-![A Fresh Ravaged Deer](../assets/A_Fresh_Ravaged_Deer.jpg)
+[A Fresh Ravaged Deer](../assets/A_Fresh_Ravaged_Deer.jpg)
 
 **General**
 
@@ -26,9 +26,9 @@ Buck and Doe carcasses contain slightly differing amounts of meat upon their cor
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always[¹](#fn1) |
-| ![Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always[²](#fn2) |
-| ![Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
+| [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always[¹](#fn1) |
+| [Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always[²](#fn2) |
+| [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
 | \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Spawn Locations

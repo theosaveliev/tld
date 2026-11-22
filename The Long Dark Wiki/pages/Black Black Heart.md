@@ -4,7 +4,7 @@
 
 **Black Black Heart**
 
-![Black Black Heart icon](../assets/Black_Black_Heart_icon.png)
+[Black Black Heart icon](../assets/Black_Black_Heart_icon.png)
 
 **Description:** Collect all four bloody pages from the Blackrock Archives.
 

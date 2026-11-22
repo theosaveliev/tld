@@ -4,7 +4,7 @@
 
 **Jeremiah's Folly/Transcript**
 
-![Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg)
+[Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

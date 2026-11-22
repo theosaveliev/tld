@@ -4,7 +4,7 @@
 
 **Local Legends - The Big One**
 
-![Local Legends The Big One icon](../assets/Local_Legends_-_The_Big_One_icon.png)
+[Local Legends The Big One icon](../assets/Local_Legends_-_The_Big_One_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

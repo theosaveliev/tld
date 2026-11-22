@@ -4,11 +4,11 @@
 
 **Surfeit Trestle**
 
-![Surfeit Trestle](../assets/Surfeit_Trestle.jpg)
+[Surfeit Trestle](../assets/Surfeit_Trestle.jpg)
 
 **Location**
 
-![Surfeit Trestle Location](../assets/Surfeit_Trestle_Location.png)
+[Surfeit Trestle Location](../assets/Surfeit_Trestle_Location.png)
 
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 

@@ -12,7 +12,7 @@
 
 **Fire Hardened Arrow**
 
-![Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png)
+[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 

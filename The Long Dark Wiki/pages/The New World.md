@@ -4,7 +4,7 @@
 
 **The New World**
 
-![The New World icon](../assets/The_New_World_icon.png)
+[The New World icon](../assets/The_New_World_icon.png)
 
 **Description:** Complete Episode Five.
 

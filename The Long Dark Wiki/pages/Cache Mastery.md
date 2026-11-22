@@ -12,7 +12,7 @@
 
 **Cache Mastery**
 
-![Cache Mastery icon](../assets/Cache_Mastery_icon.png)
+[Cache Mastery icon](../assets/Cache_Mastery_icon.png)
 
 **Description:** Find all hidden caches in Episode One and Episode Two.
 

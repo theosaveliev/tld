@@ -15,7 +15,7 @@
 
 **The Hunted, Part Two**
 
-![Challenge Hunted2](../assets/Challenge_Hunted2.png)
+[Challenge Hunted2](../assets/Challenge_Hunted2.png)
 
 **Details**
 

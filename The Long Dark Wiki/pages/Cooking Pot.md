@@ -12,7 +12,7 @@
 
 **Cooking Pot**
 
-![Cooking Pot icon](../assets/Cooking_Pot_icon.png)
+[Cooking Pot icon](../assets/Cooking_Pot_icon.png)
 
 **Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)
 
@@ -89,27 +89,27 @@ It is not guaranteed that every region will spawn a Cooking Pot. Some regions, l
 
 The following recipes can only be created within a Cooking Pot, and are available to cook from the start:
 
-| ![Cooking](../assets/Cooking.png) | Item | Weight | Cooking Times | Cooking Level |
+| [Cooking](../assets/Cooking.png) | Item | Weight | Cooking Times | Cooking Level |
 | --- | --- | --- | --- | --- |
-| ![Broth icon](../assets/Broth_icon.png) | [Broth](./Broth.md) | 0.80 kg | 60 min | 1 |
-| ![Cooking Oil icon](../assets/Cooking_Oil_icon.png) | [Cooking Oil](./Cooking%20Oil.md) | 0.75 kg | 24 min | 1 |
-| ![Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![Porridge icon](../assets/Porridge_icon.png) | [Porridge](./Porridge.md) | 0.20 kg | 20 min | 1 |
+| [Broth icon](../assets/Broth_icon.png) | [Broth](./Broth.md) | 0.80 kg | 60 min | 1 |
+| [Cooking Oil icon](../assets/Cooking_Oil_icon.png) | [Cooking Oil](./Cooking%20Oil.md) | 0.75 kg | 24 min | 1 |
+| [Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 0.35 kg | 2 hr | 1 |
+| [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 0.35 kg | 2 hr | 1 |
+| [Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | 0.35 kg | 2 hr | 1 |
+| [Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | 0.35 kg | 2 hr | 1 |
+| [Porridge icon](../assets/Porridge_icon.png) | [Porridge](./Porridge.md) | 0.20 kg | 20 min | 1 |
 
 These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Cards.md) are found:
 
-| ![Cooking](../assets/Cooking.png) | Item | Weight | Cooking Times | Cooking Level |
+| [Cooking](../assets/Cooking.png) | Item | Weight | Cooking Times | Cooking Level |
 | --- | --- | --- | --- | --- |
-| ![Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 0.30 kg | 20 min | 4 |
-| ![Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) | [Last Resort Soup](./Last%20Resort%20Soup.md) | 0.10 kg | 40 min | 1 |
-| ![Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) | [Pemmican Bar](./Pemmican%20Bar.md) (4) | 0.25 kg | 40 min | 5 |
-| ![Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) | [Porter's Soup](./Porter%27s%20Soup.md) | 0.10 kg | 40 min | 4 |
-| ![Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | 0.40 kg | 2 hr | 4 |
-| ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 0.35 kg | 2 hr | 4 |
-| ![Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 0.10 kg | 40 min | 1 |
+| [Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 0.30 kg | 20 min | 4 |
+| [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) | [Last Resort Soup](./Last%20Resort%20Soup.md) | 0.10 kg | 40 min | 1 |
+| [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) | [Pemmican Bar](./Pemmican%20Bar.md) (4) | 0.25 kg | 40 min | 5 |
+| [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) | [Porter's Soup](./Porter%27s%20Soup.md) | 0.10 kg | 40 min | 4 |
+| [Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | 0.40 kg | 2 hr | 4 |
+| [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 0.35 kg | 2 hr | 4 |
+| [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 0.10 kg | 40 min | 1 |
 
 ## Trivia
 

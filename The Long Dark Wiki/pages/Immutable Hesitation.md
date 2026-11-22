@@ -4,16 +4,16 @@
 
 **Immutable Hesitation**
 
-![Immutable Hesitation](../assets/Immutable_Hesitation.jpg)
+[Immutable Hesitation](../assets/Immutable_Hesitation.jpg)
 
 **Location**
 
-![Immutable Hesitation Location](../assets/Immutable_Hesitation_Location.png)
+[Immutable Hesitation Location](../assets/Immutable_Hesitation_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)

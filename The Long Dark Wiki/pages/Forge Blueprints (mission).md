@@ -13,7 +13,7 @@
 
 **Forge Blueprints (mission)**
 
-![Old Spence Family Homestead Forge](../assets/Old_Spence_Family_Homestead_Forge.png)
+[Old Spence Family Homestead Forge](../assets/Old_Spence_Family_Homestead_Forge.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

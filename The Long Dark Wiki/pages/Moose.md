@@ -37,7 +37,7 @@
 
 **Moose**
 
-![Moose](../assets/Moose.png)
+[Moose](../assets/Moose.png)
 
 **Basic Information**
 
@@ -69,16 +69,16 @@ A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of r
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[¹](#fn1) |
-| ![Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[²](#fn2) |
-| ![Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
-| ![Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
+| [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[¹](#fn1) |
+| [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[²](#fn2) |
+| [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
+| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
+| [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
 
 ## Behaviour
 
@@ -133,10 +133,10 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 | Weapon — Head | Weapon — Neck | Critical Hit Chance — Torso | Critical Hit Chance — Hips | Critical Hit Chance — Limb | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 25% | 20% | 10% | 0% | 0% |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 25% | 20% | 10% | 0% | 0% |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 
 ## Locations
 

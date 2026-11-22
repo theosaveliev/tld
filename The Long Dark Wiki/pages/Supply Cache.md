@@ -32,7 +32,7 @@
 
 **Supply Cache**
 
-![Transponder Cache](../assets/Transponder_Cache.jpg)
+[Transponder Cache](../assets/Transponder_Cache.jpg)
 
 **Story item:** No
 
@@ -40,7 +40,7 @@
 
 **Capacity:** 30.00 kg(66 lbs)
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

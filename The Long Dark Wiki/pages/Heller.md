@@ -19,7 +19,7 @@
 
 **Heller**
 
-![Heller](../assets/Heller.png)
+[Heller](../assets/Heller.png)
 
 **Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

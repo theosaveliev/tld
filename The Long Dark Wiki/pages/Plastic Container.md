@@ -4,7 +4,7 @@
 
 **Plastic Container**
 
-![Plastic Container](../assets/Plastic_Container.jpg)
+[Plastic Container](../assets/Plastic_Container.jpg)
 
 **Release:** TBD
 

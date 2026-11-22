@@ -4,7 +4,7 @@
 
 **The Detonators/Transcript**
 
-![The Detonators](../assets/The_Detonators.png)
+[The Detonators](../assets/The_Detonators.png)
 
 Episode
 

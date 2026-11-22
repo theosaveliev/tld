@@ -4,11 +4,11 @@
 
 **Milton Credit Union**
 
-![Milton Credit Union exterior](../assets/Milton_Credit_Union_exterior.jpg)
+[Milton Credit Union exterior](../assets/Milton_Credit_Union_exterior.jpg)
 
 **Location**
 
-![Milton Credit Union Location](../assets/Milton_Credit_Union_Location.png)
+[Milton Credit Union Location](../assets/Milton_Credit_Union_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

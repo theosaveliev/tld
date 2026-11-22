@@ -4,11 +4,11 @@
 
 **Loitering Marsh**
 
-![Loitering Marsh](../assets/Loitering_Marsh.jpg)
+[Loitering Marsh](../assets/Loitering_Marsh.jpg)
 
 **Location**
 
-![Loitering Marsh Location](../assets/Loitering_Marsh_Location.png)
+[Loitering Marsh Location](../assets/Loitering_Marsh_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 

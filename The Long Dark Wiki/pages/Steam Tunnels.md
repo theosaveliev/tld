@@ -4,11 +4,11 @@
 
 **Steam Tunnels**
 
-![Steam Tunnels lower entrance](../assets/Steam_Tunnels_lower_entrance.jpg)
+[Steam Tunnels lower entrance](../assets/Steam_Tunnels_lower_entrance.jpg)
 
 **Location**
 
-![Steam Tunnels Location](../assets/Steam_Tunnels_Location.png)
+[Steam Tunnels Location](../assets/Steam_Tunnels_Location.png)
 
 Region
 

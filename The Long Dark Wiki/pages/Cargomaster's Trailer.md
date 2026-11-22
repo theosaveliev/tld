@@ -4,11 +4,11 @@
 
 **Cargomaster's Trailer**
 
-![Cargomaster's Trailer](../assets/Cargomaster%27s_Trailer.jpg)
+[Cargomaster's Trailer](../assets/Cargomaster%27s_Trailer.jpg)
 
 **Location**
 
-![Cargomaster's Trailer Location](../assets/Cargomaster%27s_Trailer_Location.png)
+[Cargomaster's Trailer Location](../assets/Cargomaster%27s_Trailer_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -16,7 +16,7 @@
 
 Type
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

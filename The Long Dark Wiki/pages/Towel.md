@@ -4,7 +4,7 @@
 
 **Towel**
 
-![Towel](../assets/Towel.png)
+[Towel](../assets/Towel.png)
 
 **Release:** 18 September 2015
 

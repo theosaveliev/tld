@@ -12,7 +12,7 @@
 
 **Rose Hip Tea**
 
-![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png)
+[Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png)
 
 **Renewable:** No
 

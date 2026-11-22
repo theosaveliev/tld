@@ -4,7 +4,7 @@
 
 **Finely Tuned**
 
-![Finely Tuned icon](../assets/Finely_Tuned_icon.png)
+[Finely Tuned icon](../assets/Finely_Tuned_icon.png)
 
 **Description:** Complete “To SAR and Back” without using more than 50 pieces of coal.
 

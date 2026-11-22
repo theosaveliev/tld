@@ -13,11 +13,11 @@
 
 **Abandoned Lookout**
 
-![New forestry lookout](../assets/New_forestry_lookout.jpg)
+[New forestry lookout](../assets/New_forestry_lookout.jpg)
 
 **Location**
 
-![Abandoned Lookout map](../assets/Abandoned_Lookout_map.png)
+[Abandoned Lookout map](../assets/Abandoned_Lookout_map.png)
 
 **Region:** [Coastal Highway](./Coastal%20Highway.md)
 
@@ -27,7 +27,7 @@
 
 **Type:** Military/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

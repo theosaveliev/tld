@@ -4,7 +4,7 @@
 
 **Heat Pack**
 
-![Heat Pack (Affliction) icon](../assets/Heat_Pack_%28Affliction%29_icon.png)
+[Heat Pack (Affliction) icon](../assets/Heat_Pack_%28Affliction%29_icon.png)
 
 **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
@@ -16,7 +16,7 @@
 
 **Description:** You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing.
 
-**Caused By:** Active ![Heat Pack icon](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) in inventory
+**Caused By:** Active [Heat Pack icon](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) in inventory
 
 **Effect:** Positive
 
@@ -24,7 +24,7 @@
 
 **Affliction Duration:** 6 Hours
 
-**Benefit Duration:** Until![Heat Pack icon](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) wears off/is dropped
+**Benefit Duration:** Until[Heat Pack icon](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) wears off/is dropped
 
 > “**You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing.**”
 >

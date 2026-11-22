@@ -4,7 +4,7 @@
 
 **Astrid's Boots**
 
-![Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png)
+[Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png)
 
 **General**
 
@@ -12,23 +12,23 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
+**Protection:** [Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
 **Harvest:** 1 × [Leather](./Cured%20Leather.md)<br>90 minutes
 
 **Repair:** 1 × [Leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
 
-![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+[2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 

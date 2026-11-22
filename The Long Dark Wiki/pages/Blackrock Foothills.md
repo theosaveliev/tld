@@ -15,13 +15,13 @@
 
 **Blackrock Foothills**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Blackrock Foothills In Game Map](../assets/Blackrock_Foothills_In-Game_Map.png)
+[Blackrock Foothills In Game Map](../assets/Blackrock_Foothills_In-Game_Map.png)
 
 **Details**
 

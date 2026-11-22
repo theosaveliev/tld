@@ -4,7 +4,7 @@
 
 **Lock Box**
 
-![Lock Box](../assets/Lock_Box.jpg)
+[Lock Box](../assets/Lock_Box.jpg)
 
 **Release:** TBD
 

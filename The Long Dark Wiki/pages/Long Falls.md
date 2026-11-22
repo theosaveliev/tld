@@ -4,11 +4,11 @@
 
 **Long Falls**
 
-![Long Falls](../assets/Long_Falls.png)
+[Long Falls](../assets/Long_Falls.png)
 
 **Location**
 
-![Long Falls Location](../assets/Long_Falls_Location.png)
+[Long Falls Location](../assets/Long_Falls_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

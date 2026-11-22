@@ -4,7 +4,7 @@
 
 **Water Purification Tablets**
 
-![Water Purification Tablets icon](../assets/Water_Purification_Tablets_icon.png)
+[Water Purification Tablets icon](../assets/Water_Purification_Tablets_icon.png)
 
 **General**
 
@@ -16,9 +16,9 @@
 
 **Unit weight:** 0.06 kg/tablet(0.14 lbs/tablet)
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Unit count:** ![Unit count icon](../assets/Unit_count_icon.png)4 tablets
+**Unit count:** [Unit count icon](../assets/Unit_count_icon.png)4 tablets
 
 > “**A packet of water purification tablets. Can help prevent dysentery. One tablet treats 1L/0.26 gallon of non-potable water.**”
 >

@@ -4,11 +4,11 @@
 
 **Control Tower**
 
-![Control Tower](../assets/Control_Tower.jpg)
+[Control Tower](../assets/Control_Tower.jpg)
 
 **Location**
 
-![Control Tower Location](../assets/Control_Tower_Location.png)
+[Control Tower Location](../assets/Control_Tower_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -20,7 +20,7 @@ Type
 
 Firebox
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has an interior<br>The **Control Tower** is building in [Field 31](./Field%2031.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region.
 

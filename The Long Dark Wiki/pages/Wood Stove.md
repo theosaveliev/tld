@@ -4,7 +4,7 @@
 
 **Wood Stove**
 
-![Wood stove](../assets/Wood_stove.png)
+[Wood stove](../assets/Wood_stove.png)
 
 **General**
 

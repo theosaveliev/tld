@@ -11,7 +11,7 @@
 
 **Welcoming Party**
 
-![The prison guard's body](../assets/Blackrock_prison_guard_body.jpg)
+[The prison guard's body](../assets/Blackrock_prison_guard_body.jpg)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

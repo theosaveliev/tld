@@ -4,11 +4,11 @@
 
 **Pensive Lookout**
 
-![Screen 8fe81024 1225 4d19 8ee2 cab3a9a3a50c hi](../assets/Screen_8fe81024-1225-4d19-8ee2-cab3a9a3a50c_hi.jpg)
+[Screen 8fe81024 1225 4d19 8ee2 cab3a9a3a50c hi](../assets/Screen_8fe81024-1225-4d19-8ee2-cab3a9a3a50c_hi.jpg)
 
 **Location**
 
-![Pensive Lookout Location](../assets/Pensive_Lookout_Location.png)
+[Pensive Lookout Location](../assets/Pensive_Lookout_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Military/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

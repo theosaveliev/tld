@@ -4,11 +4,11 @@
 
 **Graveyard**
 
-![Graveyard](../assets/Graveyard.png)
+[Graveyard](../assets/Graveyard.png)
 
 **Location**
 
-![Graveyard Location](../assets/Graveyard_Location.png)
+[Graveyard Location](../assets/Graveyard_Location.png)
 
 Region
 

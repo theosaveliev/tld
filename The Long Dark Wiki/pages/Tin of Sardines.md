@@ -11,7 +11,7 @@
 
 **Tin of Sardines**
 
-![Tin of Sardines icon](../assets/Tin_of_Sardines_icon.png)
+[Tin of Sardines icon](../assets/Tin_of_Sardines_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 

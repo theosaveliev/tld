@@ -4,7 +4,7 @@
 
 **Centurion**
 
-![Centurion icon](../assets/Centurion_icon.png)
+[Centurion icon](../assets/Centurion_icon.png)
 
 **Description:** You survived for 100 days in a single Survival mode game.
 

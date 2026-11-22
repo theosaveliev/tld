@@ -4,7 +4,7 @@
 
 **Fuse Box**
 
-![Fuse Box](../assets/Fuse_Box.jpg)
+[Fuse Box](../assets/Fuse_Box.jpg)
 
 **Story item:** Yes
 

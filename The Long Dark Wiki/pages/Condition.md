@@ -123,27 +123,27 @@ The following items positively affect Condition recovery:
 
 | Image | Name | Condition Restored |
 | --- | --- | --- |
-| ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | Instantly restores 10% of Condition Provides the ![Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | Instantly restores 10% of Condition Provides the ![Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | Instantly restores 35% of Condition Provides the ![Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | Instantly restores 10% of Condition Provides the ![Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | Instantly restores 10% of Condition |
-| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | Instantly restores 15% of Condition |
-| ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | Instantly restores 25% of Condition |
-| ![Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | Grants the ![Restore Condition icon](../assets/Restore_Condition_icon.png) [Restore Condition](./Restore%20Condition.md) Affliction, Restoring 5% Condition for 2 hours |
+| [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | Instantly restores 10% of Condition Provides the [Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| [Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | Instantly restores 10% of Condition Provides the [Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | Instantly restores 35% of Condition Provides the [Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| [Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | Instantly restores 10% of Condition Provides the [Nourished icon](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| [Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | Instantly restores 10% of Condition |
+| [Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | Instantly restores 15% of Condition |
+| [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | Instantly restores 25% of Condition |
+| [Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | Grants the [Restore Condition icon](../assets/Restore_Condition_icon.png) [Restore Condition](./Restore%20Condition.md) Affliction, Restoring 5% Condition for 2 hours |
 
 The following foods grant the ![Improved Rest icon](../assets/Improved_Rest_icon.png) [Improved Rest](./Improved%20Rest.md) Affliction, restoring Condition gained while [sleeping](./Sleep.md) by an extra 2% (1% for Interloper) an hour while the benefit is still active. This benefit is used whenever sleeping, whether this be all at once or across multiple sleep sessions.
 
 |  | Food and Drink | Duration |
 | --- | --- | --- |
-| ![Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
-| ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
-| ![Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
-| ![Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
-| ![Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
-| ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
-| ![Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | 3 hours |
-| ![Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 3 hours |
+| [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
+| [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
+| [Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
+| [Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
+| [Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
+| [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
+| [Trout Stew icon](../assets/Trout_Stew_icon.png) | [Trout Stew](./Trout%20Stew.md) | 3 hours |
+| [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 3 hours |
 
 During the [Challenge](./Challenge.md) "[As the Dead Sleep](./As%20the%20Dead%20Sleep.md)" (or Custom), passive healing and sleep healing are disabled, additionally [Birch Bark Tea](./Birch%20Bark%20Tea.md) is disabled. This makes [Herbal Tea](./Herbal%20Tea.md) and [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) strictly a food item and [Birch Bark](./Birch%20Bark.md) strictly tinder. The only way to heal during the challenge are with using rare and finite [Emergency Stims](./Emergency%20Stim.md).
 

@@ -8,7 +8,7 @@
 
 **Location**
 
-![Landslide Bleak Inlet Location](../assets/Landslide_Bleak_Inlet_Location.png)
+[Landslide Bleak Inlet Location](../assets/Landslide_Bleak_Inlet_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

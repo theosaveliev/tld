@@ -4,11 +4,11 @@
 
 **Main Hangar**
 
-![30995](../assets/30995.png)
+[30995](../assets/30995.png)
 
 **Location**
 
-![Main Hangar Location](../assets/Main_Hangar_Location.png)
+[Main Hangar Location](../assets/Main_Hangar_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -22,11 +22,11 @@ Type
 
 Firebox
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 

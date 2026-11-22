@@ -4,7 +4,7 @@
 
 **Hot Shot**
 
-![Hot Shot icon](../assets/Hot_Shot_icon.png)
+[Hot Shot icon](../assets/Hot_Shot_icon.png)
 
 **Description:** Kill 25 Rabbits with Fire Hardened Arrows (single game).
 

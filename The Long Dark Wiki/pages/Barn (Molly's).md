@@ -4,11 +4,11 @@
 
 **Barn (Molly's)**
 
-![Molly's Barn 2](../assets/Molly%27s_Barn_2.jpg)
+[Molly's Barn 2](../assets/Molly%27s_Barn_2.jpg)
 
 **Location**
 
-![Barn (Molly's) Location](../assets/Barn_%28Molly%27s%29_Location.png)
+[Barn (Molly's) Location](../assets/Barn_%28Molly%27s%29_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

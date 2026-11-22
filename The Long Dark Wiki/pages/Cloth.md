@@ -4,7 +4,7 @@
 
 **Cloth**
 
-![Cloth icon](../assets/Cloth_icon.png)
+[Cloth icon](../assets/Cloth_icon.png)
 
 **General**
 
@@ -14,7 +14,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Cloth used for crafting and repair, as well as for creating bandages.**”
 >

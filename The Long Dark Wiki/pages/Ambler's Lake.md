@@ -4,11 +4,11 @@
 
 **Ambler's Lake**
 
-![Ambler's Lake](../assets/Ambler%27s_Lake.jpg)
+[Ambler's Lake](../assets/Ambler%27s_Lake.jpg)
 
 **Location**
 
-![Ambler's Lake Location](../assets/Ambler%27s_Lake_Location.png)
+[Ambler's Lake Location](../assets/Ambler%27s_Lake_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

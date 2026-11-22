@@ -4,7 +4,7 @@
 
 **Blackrock Blues**
 
-![Blackrock Blues](../assets/Blackrock_Blues.png)
+[Blackrock Blues](../assets/Blackrock_Blues.png)
 
 Episode
 

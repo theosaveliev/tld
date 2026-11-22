@@ -4,11 +4,11 @@
 
 **Mule Bridge**
 
-![MuleBridge](../assets/MuleBridge.jpg)
+[MuleBridge](../assets/MuleBridge.jpg)
 
 **Location**
 
-![Mule Bridge Location](../assets/Mule_Bridge_Location.png)
+[Mule Bridge Location](../assets/Mule_Bridge_Location.png)
 
 Region
 

@@ -4,7 +4,7 @@
 
 **High Energy**
 
-![Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
+[Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
 
 Episode
 

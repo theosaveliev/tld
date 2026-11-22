@@ -11,11 +11,11 @@
 
 **Orca Gas Station**
 
-![SS MT Orca 04](../assets/SS-MT-Orca-04.jpg)
+[SS MT Orca 04](../assets/SS-MT-Orca-04.jpg)
 
 **Location**
 
-![Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png)
+[Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

@@ -12,7 +12,7 @@
 
 **Coal**
 
-![Coal icon](../assets/Coal_icon.png)
+[Coal icon](../assets/Coal_icon.png)
 
 **Release:** [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264)
 
@@ -46,9 +46,9 @@ Coal is a fuel source for fires, and the only fuel which can heat Forges hot eno
 
 **Statistics**
 
-**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 60 minutes
+**Duration:** [Fire Starting](../assets/Fire_Starting.png) 60 minutes
 
-**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +20°C (+36°F)
+**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +20°C (+36°F)
 
 **Burn Density:** 3.33 hr/kg (1.51 hr/lb)
 

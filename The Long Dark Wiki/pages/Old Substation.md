@@ -11,11 +11,11 @@
 
 **Old Substation**
 
-![Old Substation](../assets/Old_Substation.jpg)
+[Old Substation](../assets/Old_Substation.jpg)
 
 **Location**
 
-![Old Substation Location](../assets/Old_Substation_Location.png)
+[Old Substation Location](../assets/Old_Substation_Location.png)
 
 Region
 
@@ -25,11 +25,11 @@ Region
 
 **Type:** Industrial
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

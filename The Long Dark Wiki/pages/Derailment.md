@@ -4,11 +4,11 @@
 
 **Derailment**
 
-![Derailment 2](../assets/Derailment_2.jpg)
+[Derailment 2](../assets/Derailment_2.jpg)
 
 **Location**
 
-![Derailment Location](../assets/Derailment_Location.png)
+[Derailment Location](../assets/Derailment_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

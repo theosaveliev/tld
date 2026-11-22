@@ -4,7 +4,7 @@
 
 **Glove Box**
 
-![Glove Box](../assets/Glove_Box.jpg)
+[Glove Box](../assets/Glove_Box.jpg)
 
 **Release:** TBD
 

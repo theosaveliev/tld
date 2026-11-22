@@ -13,7 +13,7 @@
 
 **Reishi Tea**
 
-![Reishi Tea icon](../assets/Reishi_Tea_icon.png)
+[Reishi Tea icon](../assets/Reishi_Tea_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 

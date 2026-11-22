@@ -4,7 +4,7 @@
 
 **A Handwritten Letter**
 
-![A Handwritten Letter icon](../assets/A_Handwritten_Letter_icon.png)
+[A Handwritten Letter icon](../assets/A_Handwritten_Letter_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

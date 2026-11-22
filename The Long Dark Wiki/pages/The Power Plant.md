@@ -4,7 +4,7 @@
 
 **The Power Plant**
 
-![The Power Plant](../assets/The_Power_Plant.png)
+[The Power Plant](../assets/The_Power_Plant.png)
 
 Episode
 

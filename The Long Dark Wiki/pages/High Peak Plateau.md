@@ -4,11 +4,11 @@
 
 **High Peak Plateau**
 
-![High Peak Plateau Area](../assets/High_Peak_Plateau_Area.jpg)
+[High Peak Plateau Area](../assets/High_Peak_Plateau_Area.jpg)
 
 **Location**
 
-![High Peak Plateau Location](../assets/High_Peak_Plateau_Location.png)
+[High Peak Plateau Location](../assets/High_Peak_Plateau_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

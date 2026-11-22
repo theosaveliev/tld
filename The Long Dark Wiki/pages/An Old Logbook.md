@@ -4,7 +4,7 @@
 
 **An Old Logbook**
 
-![An Old Logbook icon](../assets/An_Old_Logbook_icon.png)
+[An Old Logbook icon](../assets/An_Old_Logbook_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

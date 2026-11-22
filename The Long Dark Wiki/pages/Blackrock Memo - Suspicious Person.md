@@ -4,7 +4,7 @@
 
 **Blackrock Memo - Suspicious Person**
 
-![Blackrock Memo Suspicious Person icon](../assets/Blackrock_Memo_-_Suspicious_Person_icon.png)
+[Blackrock Memo Suspicious Person icon](../assets/Blackrock_Memo_-_Suspicious_Person_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

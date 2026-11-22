@@ -16,11 +16,11 @@
 
 **Hunting Lodge**
 
-![Hunting lodge](../assets/Hunting_lodge.jpg)
+[Hunting lodge](../assets/Hunting_lodge.jpg)
 
 **Location**
 
-![Hunting Lodge Location](../assets/Hunting_Lodge_Location.png)
+[Hunting Lodge Location](../assets/Hunting_Lodge_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -30,11 +30,11 @@
 
 **Type:** ResidentialMilitary/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

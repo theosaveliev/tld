@@ -4,11 +4,11 @@
 
 **Destroyed Lookout**
 
-![Destroyed lookout](../assets/Destroyed_lookout.jpg)
+[Destroyed lookout](../assets/Destroyed_lookout.jpg)
 
 **Location**
 
-![Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png)
+[Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

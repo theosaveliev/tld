@@ -10,7 +10,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Pond (Track Section 4)**
 
-![Pond (Track Section 4)](../assets/Pond_%28Track_Section_4%29.jpg)
+[Pond (Track Section 4)](../assets/Pond_%28Track_Section_4%29.jpg)
 
 **Location**
 

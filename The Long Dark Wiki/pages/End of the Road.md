@@ -4,11 +4,11 @@
 
 **End of the Road**
 
-![End of the Road](../assets/End_of_the_Road.jpg)
+[End of the Road](../assets/End_of_the_Road.jpg)
 
 **Location**
 
-![End of the Road Location](../assets/End_of_the_Road_Location.png)
+[End of the Road Location](../assets/End_of_the_Road_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

@@ -17,7 +17,7 @@
 
 **Buried Echoes**
 
-![Tales objectives 02 BuriedEchoes](../assets/Tales_objectives_02_BuriedEchoes.png)
+[Tales objectives 02 BuriedEchoes](../assets/Tales_objectives_02_BuriedEchoes.png)
 
 **Missions**
 

@@ -4,11 +4,11 @@
 
 **Lake Trail**
 
-![Entrance to the lake trail](../assets/20180902182942_1.jpg)
+[Entrance to the lake trail](../assets/20180902182942_1.jpg)
 
 **Location**
 
-![Lake Trail Location](../assets/Lake_Trail_Location.png)
+[Lake Trail Location](../assets/Lake_Trail_Location.png)
 
 Region
 

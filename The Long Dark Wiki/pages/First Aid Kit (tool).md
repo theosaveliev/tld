@@ -12,7 +12,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **First Aid Kit**
 
-![First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png)
+[First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png)
 
 **Wintermute:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

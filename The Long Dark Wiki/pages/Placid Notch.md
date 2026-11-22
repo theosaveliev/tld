@@ -4,11 +4,11 @@
 
 **Placid Notch**
 
-![Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png)
+[Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png)
 
 **Location**
 
-![Placid Notch Location](../assets/Placid_Notch_Location.png)
+[Placid Notch Location](../assets/Placid_Notch_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

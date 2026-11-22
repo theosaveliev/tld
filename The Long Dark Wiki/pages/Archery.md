@@ -18,7 +18,7 @@
 
 **Archery**
 
-![Archery background](../assets/Archery_background.png)
+[Archery background](../assets/Archery_background.png)
 
 **Release:** [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
 

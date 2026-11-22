@@ -4,7 +4,7 @@
 
 **Field 31**
 
-![Field 31 Sign](../assets/Field_31_Sign.jpg)
+[Field 31 Sign](../assets/Field_31_Sign.jpg)
 
 **Location**
 
@@ -14,11 +14,11 @@
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 

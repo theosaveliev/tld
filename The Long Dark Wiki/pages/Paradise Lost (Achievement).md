@@ -4,7 +4,7 @@
 
 **Paradise Lost**
 
-![Paradise Lost (Achievement) icon](../assets/Paradise_Lost_%28Achievement%29_icon.png)
+[Paradise Lost (Achievement) icon](../assets/Paradise_Lost_%28Achievement%29_icon.png)
 
 **Description:** Make your way to Milton.
 

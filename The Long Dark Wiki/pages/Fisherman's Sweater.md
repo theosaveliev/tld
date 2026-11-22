@@ -4,7 +4,7 @@
 
 **Fisherman's Sweater**
 
-![Fisherman's Sweater icon](../assets/Fisherman%27s_Sweater_icon.png)
+[Fisherman's Sweater icon](../assets/Fisherman%27s_Sweater_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
+**Protection:** [Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-1%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
 
 **Harvest:** 1 × [Cloth](./Cloth.md)<br>45 minutes
 

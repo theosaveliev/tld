@@ -4,7 +4,7 @@
 
 **The Will to Live**
 
-![The Will to Live icon](../assets/The_Will_to_Live_icon.png)
+[The Will to Live icon](../assets/The_Will_to_Live_icon.png)
 
 **Description:** Survive 500 days in a single Survival Mode game.
 

@@ -4,11 +4,11 @@
 
 **Cook's Farm**
 
-![Cook's Farm](../assets/Cook%27s_Farm.png)
+[Cook's Farm](../assets/Cook%27s_Farm.png)
 
 **Location**
 
-![Cook's Farm Location](../assets/Cook%27s_Farm_Location.png)
+[Cook's Farm Location](../assets/Cook%27s_Farm_Location.png)
 
 Region
 
@@ -20,11 +20,11 @@ Region
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

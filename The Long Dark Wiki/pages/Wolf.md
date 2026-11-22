@@ -40,7 +40,7 @@
 
 **Wolf**
 
-![Wolf](../assets/Wolf.png)
+[Wolf](../assets/Wolf.png)
 
 **Basic Information**
 
@@ -76,10 +76,10 @@ A [Wolf Carcass](./Wolf%20Carcass.md) may be harvested for 3.0-6.0 kg of [raw me
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)\* | 3 - 6 | Always[¹](#fn1) |
-| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always[²](#fn2) |
-| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
-| ![Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)\* | 3 - 6 | Always[¹](#fn1) |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always[²](#fn2) |
+| [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 \*Note: Wolf Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
 
@@ -87,7 +87,7 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
+| [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
 ## Behaviour
 
@@ -221,10 +221,10 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 | Weapon — Head | Weapon — Neck | Critical Hit Chance — Torso | Critical Hit Chance — Hips | Critical Hit Chance — Limb | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
 ### Bleeding wounds
 
@@ -234,10 +234,10 @@ All shots from weapons which hit a wolf cause blood loss; or a chance after a st
 
 | Weapon — Head | Weapon — Neck | Bleed Out — Torso | Bleed Out — Hips | Bleed Out — Limb | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 20 min | 60 min | 90 min | 120 min |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Instant | 15 min | 40 min | 45 min | 60 min |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 60 min | 30 min | 60 min | 120 min | 150 min |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Instant | 12 min | 30 min | 35 min | 40 min |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 20 min | 60 min | 90 min | 120 min |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Instant | 15 min | 40 min | 45 min | 60 min |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 60 min | 30 min | 60 min | 120 min | 150 min |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Instant | 12 min | 30 min | 35 min | 40 min |
 
 ### Strategies
 

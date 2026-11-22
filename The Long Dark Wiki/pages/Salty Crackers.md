@@ -11,7 +11,7 @@
 
 **Salty Crackers**
 
-![Salty Crackers icon](../assets/Salty_Crackers_icon.png)
+[Salty Crackers icon](../assets/Salty_Crackers_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 

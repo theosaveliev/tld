@@ -4,7 +4,7 @@
 
 **Paradise Meadows Farm Key**
 
-![Paradise Meadows Farm Key icon](../assets/Paradise_Meadows_Farm_Key_icon.png)
+[Paradise Meadows Farm Key icon](../assets/Paradise_Meadows_Farm_Key_icon.png)
 
 **Properties**
 

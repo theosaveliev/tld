@@ -12,7 +12,7 @@
 
 **Freight-Train of Hate &amp; Hunger**
 
-![Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
+[Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
 
 **Description:** Kill the Old Bear.
 

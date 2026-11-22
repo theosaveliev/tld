@@ -4,11 +4,11 @@
 
 **Idle Camp**
 
-![Idle Camp](../assets/Idle_Camp.jpg)
+[Idle Camp](../assets/Idle_Camp.jpg)
 
 **Location**
 
-![Idle Camp Location](../assets/Idle_Camp_Location.png)
+[Idle Camp Location](../assets/Idle_Camp_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -16,7 +16,7 @@
 
 **Firebox:** [Stove](./Stove.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

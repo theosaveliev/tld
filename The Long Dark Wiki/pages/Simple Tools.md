@@ -4,7 +4,7 @@
 
 **Simple Tools**
 
-![Simple Tools icon](../assets/Simple_Tools_icon.png)
+[Simple Tools icon](../assets/Simple_Tools_icon.png)
 
 **General**
 
@@ -12,7 +12,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
 **Harvest:** 3 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
 

@@ -4,11 +4,11 @@
 
 **Lookout (Mystery Lake location)**
 
-![Lookout closeup](../assets/Lookout_closeup.jpg)
+[Lookout closeup](../assets/Lookout_closeup.jpg)
 
 **Location**
 
-![Lookout Location](../assets/Lookout_Location.png)
+[Lookout Location](../assets/Lookout_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

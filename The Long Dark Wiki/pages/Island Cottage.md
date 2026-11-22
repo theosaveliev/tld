@@ -4,11 +4,11 @@
 
 **Island Cottage**
 
-![Island Cottage](../assets/Island_Cottage.png)
+[Island Cottage](../assets/Island_Cottage.png)
 
 **Location**
 
-![Island Cottage Location](../assets/Island_Cottage_Location.png)
+[Island Cottage Location](../assets/Island_Cottage_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Residential
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

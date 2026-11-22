@@ -6,7 +6,7 @@ _For the raw version, see [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%2
 
 **Red Irish Lord (Cooked)**
 
-![Red Irish Lord (Cooked) icon](../assets/Red_Irish_Lord_%28Cooked%29_icon.png)
+[Red Irish Lord (Cooked) icon](../assets/Red_Irish_Lord_%28Cooked%29_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 

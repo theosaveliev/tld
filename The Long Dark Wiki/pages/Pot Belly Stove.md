@@ -4,7 +4,7 @@
 
 **Pot Belly Stove**
 
-![Pot belly stove](../assets/Pot_belly_stove.png)
+[Pot belly stove](../assets/Pot_belly_stove.png)
 
 **General**
 

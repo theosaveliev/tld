@@ -4,7 +4,7 @@
 
 **Deerskin Boots**
 
-![Deerskin Boots icon](../assets/Deerskin_Boots_icon.png)
+[Deerskin Boots icon](../assets/Deerskin_Boots_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)7%
+**Protection:** [Protection icon](../assets/Protection_icon.png)7%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
 **Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>110 minutes
 

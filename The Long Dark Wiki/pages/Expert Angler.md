@@ -4,7 +4,7 @@
 
 **Expert Angler**
 
-![Expert Angler icon](../assets/Expert_Angler_icon.png)
+[Expert Angler icon](../assets/Expert_Angler_icon.png)
 
 **Description:** Catch 4 different Rare Fish – Burbot, Goldeye, Red Irish Lord, and Rockfish (single game).
 

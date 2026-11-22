@@ -4,7 +4,7 @@
 
 **Can Opener**
 
-![Can Opener icon](../assets/Can_Opener_icon.png)
+[Can Opener icon](../assets/Can_Opener_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 

@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Criss Cross**
 
-![Criss Cross](../assets/Criss_Cross.jpg)
+[Criss Cross](../assets/Criss_Cross.jpg)
 
 **Location**
 
-![Criss Cross Location](../assets/Criss_Cross_Location.png)
+[Criss Cross Location](../assets/Criss_Cross_Location.png)
 
 **Region:** [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)
 

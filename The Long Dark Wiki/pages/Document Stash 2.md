@@ -12,7 +12,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Document Stash 2**
 
-![Document Stash 2 icon](../assets/Document_Stash_2_icon.png)
+[Document Stash 2 icon](../assets/Document_Stash_2_icon.png)
 
 **Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

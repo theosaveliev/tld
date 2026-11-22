@@ -4,7 +4,7 @@
 
 **Note (Forsaken Airfield)**
 
-![Note (Forsaken Airfield) icon](../assets/Note_%28Forsaken_Airfield%29_icon.png)
+[Note (Forsaken Airfield) icon](../assets/Note_%28Forsaken_Airfield%29_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
 

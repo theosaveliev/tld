@@ -13,11 +13,11 @@
 
 **Bunker Alpha**
 
-![Bunker Alpha](../assets/Bunker_Alpha.jpg)
+[Bunker Alpha](../assets/Bunker_Alpha.jpg)
 
 **Location**
 
-![Bunker Alpha Location](../assets/Bunker_Alpha_Location.png)
+[Bunker Alpha Location](../assets/Bunker_Alpha_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

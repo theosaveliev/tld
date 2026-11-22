@@ -4,11 +4,11 @@
 
 **Brittle Cave**
 
-![Brittle Cave Outside](../assets/Brittle_Cave_Outside.png)
+[Brittle Cave Outside](../assets/Brittle_Cave_Outside.png)
 
 **Location**
 
-![Brittle Cave Location](../assets/Brittle_Cave_Location.png)
+[Brittle Cave Location](../assets/Brittle_Cave_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

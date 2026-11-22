@@ -12,7 +12,7 @@
 
 **Trauma/Transcript**
 
-![Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
+[Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

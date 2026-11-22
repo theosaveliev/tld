@@ -4,7 +4,7 @@
 
 **Burdock Tea**
 
-![Burdock Tea icon](../assets/Burdock_Tea_icon.png)
+[Burdock Tea icon](../assets/Burdock_Tea_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 

@@ -12,7 +12,7 @@
 
 **Lantern Fuel**
 
-![Lantern Fuel icon](../assets/Lantern_Fuel_icon.png)
+[Lantern Fuel icon](../assets/Lantern_Fuel_icon.png)
 
 **General**
 
@@ -24,9 +24,9 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
 
-**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
+**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
 
 > “**Small bottle of Lamp Fuel**”
 >

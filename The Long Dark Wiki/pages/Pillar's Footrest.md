@@ -4,11 +4,11 @@
 
 **Pillar's Footrest**
 
-![20201212011141 1](../assets/20201212011141_1.jpg)
+[20201212011141 1](../assets/20201212011141_1.jpg)
 
 **Location**
 
-![Pillar's Footrest Location](../assets/Pillar%27s_Footrest_Location.png)
+[Pillar's Footrest Location](../assets/Pillar%27s_Footrest_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

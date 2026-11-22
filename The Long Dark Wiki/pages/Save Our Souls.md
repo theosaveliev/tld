@@ -4,7 +4,7 @@
 
 **Save Our Souls**
 
-![Save Our Souls icon](../assets/Save_Our_Souls_icon.png)
+[Save Our Souls icon](../assets/Save_Our_Souls_icon.png)
 
 **Description:** Enter the Crash Site.
 

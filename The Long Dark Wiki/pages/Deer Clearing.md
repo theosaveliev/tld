@@ -4,11 +4,11 @@
 
 **Deer Clearing**
 
-![Deer Clearing](../assets/Deer_Clearing.jpg)
+[Deer Clearing](../assets/Deer_Clearing.jpg)
 
 **Location**
 
-![Deer Clearing Location](../assets/Deer_Clearing_Location.png)
+[Deer Clearing Location](../assets/Deer_Clearing_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

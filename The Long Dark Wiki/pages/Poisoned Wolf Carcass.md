@@ -4,7 +4,7 @@
 
 **Poisoned Wolf Carcass**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **General**
 
@@ -18,9 +18,9 @@ Killing a Poisoned Wolf will drop a Fresh Wolf Pelt and 2 Fresh Guts, but due to
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0 | Always[¹](#fn1) |
-| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0 | Always[²](#fn2) |
-| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0 | Always[¹](#fn1) |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0 | Always[²](#fn2) |
+| [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Preplaced Locations

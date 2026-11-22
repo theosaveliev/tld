@@ -4,7 +4,7 @@
 
 **Renewed Hope/Transcript**
 
-![Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
+[Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

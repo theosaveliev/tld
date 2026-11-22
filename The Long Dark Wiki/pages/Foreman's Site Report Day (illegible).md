@@ -4,7 +4,7 @@
 
 **Foreman's Site Report, Day \[illegible\]**
 
-![Foreman's Site Report Day (illegible) icon](../assets/Foreman%27s_Site_Report_Day_%28illegible%29_icon.png)
+[Foreman's Site Report Day (illegible) icon](../assets/Foreman%27s_Site_Report_Day_%28illegible%29_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

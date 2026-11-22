@@ -12,11 +12,11 @@
 
 **Miner's Folly**
 
-![20201210004606 1](../assets/20201210004606_1.jpg)
+[20201210004606 1](../assets/20201210004606_1.jpg)
 
 **Location**
 
-![Miner's Folly Location](../assets/Miner%27s_Folly_Location.png)
+[Miner's Folly Location](../assets/Miner%27s_Folly_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -24,7 +24,7 @@
 
 **Type:** Industrial
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

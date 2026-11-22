@@ -18,7 +18,7 @@
 
 **The Basics of Survival**
 
-![One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png)
+[One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

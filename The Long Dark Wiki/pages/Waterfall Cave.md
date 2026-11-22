@@ -4,11 +4,11 @@
 
 **Waterfall Cave**
 
-![Waterfall cave](../assets/Waterfall_cave.jpg)
+[Waterfall cave](../assets/Waterfall_cave.jpg)
 
 **Location**
 
-![Waterfall Cave Location](../assets/Waterfall_Cave_Location.png)
+[Waterfall Cave Location](../assets/Waterfall_Cave_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

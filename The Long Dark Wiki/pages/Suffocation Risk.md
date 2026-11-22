@@ -11,7 +11,7 @@
 
 **Suffocation Risk**
 
-![Suffocation Risk icon](../assets/Suffocation_Risk_icon.png)
+[Suffocation Risk icon](../assets/Suffocation_Risk_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 
@@ -33,7 +33,7 @@
 
 **Treatment**
 
-**Treatment:** Find breathable air or equip a ![Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with ![Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md)
+**Treatment:** Find breathable air or equip a [Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with [Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md)
 
 **Recovery Time:** Immediate
 

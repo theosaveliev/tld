@@ -12,7 +12,7 @@
 
 **Pleasant Valley History**
 
-![Knowledge](../assets/Knowledge.png)
+[Knowledge](../assets/Knowledge.png)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

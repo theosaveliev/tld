@@ -4,7 +4,7 @@
 
 **One With Nature**
 
-![One With Nature](../assets/One_With_Nature.jpg)
+[One With Nature](../assets/One_With_Nature.jpg)
 
 **Description:** Survive for 200 days in a single Survival Mode game.
 

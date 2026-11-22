@@ -4,7 +4,7 @@
 
 **Carter Hydro Medical Supplies**
 
-![Carter Hydro Medical Supplies icon](../assets/Carter_Hydro_Medical_Supplies_icon.png)
+[Carter Hydro Medical Supplies icon](../assets/Carter_Hydro_Medical_Supplies_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

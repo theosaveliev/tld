@@ -4,7 +4,7 @@
 
 **Forest Talker Collectible, Part Three**
 
-![Forest Talker Collectible, Part Three icon](../assets/Forest_Talker_Collectible%2C_Part_Three_icon.png)
+[Forest Talker Collectible, Part Three icon](../assets/Forest_Talker_Collectible%2C_Part_Three_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

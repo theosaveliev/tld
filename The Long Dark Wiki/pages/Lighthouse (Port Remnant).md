@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Lighthouse (Port Remnant)**
 
-![Lighthouse (Port Remnant)](../assets/Lighthouse_%28Port_Remnant%29.jpg)
+[Lighthouse (Port Remnant)](../assets/Lighthouse_%28Port_Remnant%29.jpg)
 
 **Location**
 
-![Lighthouse (Port Remnant) Location](../assets/Lighthouse_%28Port_Remnant%29_Location.png)
+[Lighthouse (Port Remnant) Location](../assets/Lighthouse_%28Port_Remnant%29_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 
@@ -26,13 +26,13 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior **Lighthouse** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md), and is the first location visited when entering [Cauldron Island](./Cauldron%20Island.md).
 

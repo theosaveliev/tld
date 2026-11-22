@@ -4,7 +4,7 @@
 
 **Furnace**
 
-![Furnace](../assets/Furnace.png)
+[Furnace](../assets/Furnace.png)
 
 **General**
 

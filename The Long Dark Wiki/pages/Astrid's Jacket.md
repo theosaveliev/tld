@@ -4,7 +4,7 @@
 
 **Astrid's Jacket**
 
-![Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png)
+[Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png)
 
 **General**
 
@@ -12,23 +12,23 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
+**Protection:** [Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-4%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-4%
 
 **Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 
 **Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
 
-![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+[2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 

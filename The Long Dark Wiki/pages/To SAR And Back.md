@@ -4,7 +4,7 @@
 
 **To SAR And Back**
 
-![Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png)
+[Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png)
 
 Episode
 

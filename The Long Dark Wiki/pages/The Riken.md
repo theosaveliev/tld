@@ -11,11 +11,11 @@
 
 **The Riken**
 
-![The Riken](../assets/The_Riken.jpg)
+[The Riken](../assets/The_Riken.jpg)
 
 **Location**
 
-![The Riken Location](../assets/The_Riken_Location.png)
+[The Riken Location](../assets/The_Riken_Location.png)
 
 **Region:** [Desolation Point](./Desolation%20Point.md)
 
@@ -25,7 +25,7 @@
 
 **Type:** Industrial
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 

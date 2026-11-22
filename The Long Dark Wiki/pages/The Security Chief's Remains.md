@@ -4,7 +4,7 @@
 
 **The Security Chief's Remains**
 
-![The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png)
+[The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

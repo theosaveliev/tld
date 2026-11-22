@@ -4,11 +4,11 @@
 
 **Skeeter's Ridge**
 
-![Skeeters ridge](../assets/Skeeters_ridge.jpg)
+[Skeeters ridge](../assets/Skeeters_ridge.jpg)
 
 **Location**
 
-![Skeeter's Ridge Location](../assets/Skeeter%27s_Ridge_Location.png)
+[Skeeter's Ridge Location](../assets/Skeeter%27s_Ridge_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

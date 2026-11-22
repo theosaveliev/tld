@@ -13,11 +13,11 @@
 - [Skye Island](#skye-island)
 - [Trivia](#trivia)
 
-![Seal icon](../assets/Seal_icon.png)
+[Seal icon](../assets/Seal_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<br>**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it\].**<br>![Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
+<br>**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it\].**<br>[Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
 
 ## Overview
 

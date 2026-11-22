@@ -4,7 +4,7 @@
 
 **Storage Cupboard**
 
-![Storage Cupboard](../assets/Storage_Cupboard.jpg)
+[Storage Cupboard](../assets/Storage_Cupboard.jpg)
 
 **Release:** 1.60
 

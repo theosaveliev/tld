@@ -4,11 +4,11 @@
 
 **Mountaineer's Hut**
 
-![Mountaineer's Hut](../assets/Mountaineer%27s_Hut.png)
+[Mountaineer's Hut](../assets/Mountaineer%27s_Hut.png)
 
 **Location**
 
-![Mountaineer's Hut Location](../assets/Mountaineer%27s_Hut_Location.png)
+[Mountaineer's Hut Location](../assets/Mountaineer%27s_Hut_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -16,11 +16,11 @@
 
 Firebox
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

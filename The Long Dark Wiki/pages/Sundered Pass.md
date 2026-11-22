@@ -17,13 +17,13 @@
 
 **Sundered Pass**
 
-![Sundered Pass](../assets/Sundered_Pass.jpg)
+[Sundered Pass](../assets/Sundered_Pass.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Sundered Pass Location](../assets/Sundered_Pass_Location.png)
+[Sundered Pass Location](../assets/Sundered_Pass_Location.png)
 
-![Sundered Pass In game Map](../assets/Sundered_Pass_In-game_Map.png)
+[Sundered Pass In game Map](../assets/Sundered_Pass_In-game_Map.png)
 
 **Details**
 

@@ -4,7 +4,7 @@
 
 **Cougar Hide Wrap**
 
-![Cougar Hide Wrap icon](../assets/Cougar_Hide_Wrap_icon.png)
+[Cougar Hide Wrap icon](../assets/Cougar_Hide_Wrap_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)6%
+**Protection:** [Protection icon](../assets/Protection_icon.png)6%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md)<br>90 minutes
 

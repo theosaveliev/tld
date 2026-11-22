@@ -12,7 +12,7 @@
 
 **Mountaineering Rope**
 
-![Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png)
+[Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 

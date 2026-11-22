@@ -4,7 +4,7 @@
 
 **He Lives**
 
-![He Lives icon](../assets/He_Lives_icon.png)
+[He Lives icon](../assets/He_Lives_icon.png)
 
 **Description:** Intercept the Radio transmission.
 

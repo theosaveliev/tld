@@ -11,7 +11,7 @@
 
 **Hunting Knife**
 
-![Hunting Knife icon](../assets/Hunting_Knife_icon.png)
+[Hunting Knife icon](../assets/Hunting_Knife_icon.png)
 
 **General**
 
@@ -19,7 +19,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
 **Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes
 

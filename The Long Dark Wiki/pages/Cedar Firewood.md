@@ -12,7 +12,7 @@
 
 **Cedar Firewood**
 
-![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png)
+[Cedar Firewood icon](../assets/Cedar_Firewood_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -46,11 +46,11 @@
 
 **Statistics**
 
-**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 60 minutes
+**Duration:** [Fire Starting](../assets/Fire_Starting.png) 60 minutes
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 15%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 15%
 
-**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +6°C (+10.8°F)
+**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +6°C (+10.8°F)
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 

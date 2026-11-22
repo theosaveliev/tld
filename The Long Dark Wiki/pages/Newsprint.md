@@ -4,7 +4,7 @@
 
 **Newsprint**
 
-![Newsprint icon](../assets/Newsprint_icon.png)
+[Newsprint icon](../assets/Newsprint_icon.png)
 
 **General**
 
@@ -14,7 +14,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Newsprint. Can be used as tinder.**”
 >

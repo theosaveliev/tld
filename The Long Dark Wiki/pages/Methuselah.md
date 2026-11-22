@@ -20,7 +20,7 @@
 
 **Methuselah**
 
-![Methuselah](../assets/Methuselah.png)
+[Methuselah](../assets/Methuselah.png)
 
 **Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
 

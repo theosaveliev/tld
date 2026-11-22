@@ -4,11 +4,11 @@
 
 **Thomson's Crossing**
 
-![The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg)
+[The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg)
 
 **Location**
 
-![Thomson's Crossing Location](../assets/Thomson%27s_Crossing_Location.png)
+[Thomson's Crossing Location](../assets/Thomson%27s_Crossing_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

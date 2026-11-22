@@ -4,7 +4,7 @@
 
 **Perseverance**
 
-![Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
+[Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
 
 Episode
 

@@ -30,16 +30,16 @@ The following items positively impact the player's stamina.
 
 | Image | Item | Effect | Duration |
 | --- | --- | --- | --- |
-| ![Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) | [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | - Fatigue is immediately reduced by approximately 5%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 30 minutes |
-| ![Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) | [Cup of Coffee](./Cup%20of%20Coffee.md) | - Fatigue is immediately reduced by approximately 10%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 1 hour |
-| ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | - Allows the player to ignore sprained ankles and sprint.<br>- Gives temporary unlimited Stamina ([Energy Boost](./Energy%20Boost.md))<br>- After 1 minute the player's fatigue and stamina bars drain completely | 15 minutes |
-| ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | - Provides a bonus to fatigue and Stamina despite afflictions for 30 min<br>- [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 minutes<br>- Grants [Energy Boost](./Energy%20Boost.md)<br>- Instantly recovers 60% of Stamina<br>- Can give [Headache](./Headache.md) | 45 minutes |
-| ![Crampons icon](../assets/Crampons_icon.png) | [Crampons](./Crampons.md) | - 60% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 50% on uneven slopes | Until unequipped |
-| ![Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) | [Improvised Crampons](./Improvised%20Crampons.md) | - 40% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 30% on uneven slopes | Until unequipped |
-| ![Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | - Max 15% Stamina | 3 hours |
-| ![Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | - Max 15% Stamina | 3 hours |
-| ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
-| ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
+| [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) | [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | - Fatigue is immediately reduced by approximately 5%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 30 minutes |
+| [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) | [Cup of Coffee](./Cup%20of%20Coffee.md) | - Fatigue is immediately reduced by approximately 10%<br>- Fatigue decay being slowed<br>- Sprinting will also use approximately 25% of the energy it typically does | 1 hour |
+| [Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | - Allows the player to ignore sprained ankles and sprint.<br>- Gives temporary unlimited Stamina ([Energy Boost](./Energy%20Boost.md))<br>- After 1 minute the player's fatigue and stamina bars drain completely | 15 minutes |
+| [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | - Provides a bonus to fatigue and Stamina despite afflictions for 30 min<br>- [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 minutes<br>- Grants [Energy Boost](./Energy%20Boost.md)<br>- Instantly recovers 60% of Stamina<br>- Can give [Headache](./Headache.md) | 45 minutes |
+| [Crampons icon](../assets/Crampons_icon.png) | [Crampons](./Crampons.md) | - 60% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 50% on uneven slopes | Until unequipped |
+| [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) | [Improvised Crampons](./Improvised%20Crampons.md) | - 40% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second<br>- [Sprain Risk](./Sprain%20Risk.md) reduction of 30% on uneven slopes | Until unequipped |
+| [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | - Max 15% Stamina | 3 hours |
+| [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | - Max 15% Stamina | 3 hours |
+| [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
+| [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
 
 ### Negative modifiers
 
@@ -88,7 +88,7 @@ Several [Feats](./Feats.md) can affect the player's stamina and are listed below
 
 | Image | Feat | Requirement | Effect |
 | --- | --- | --- | --- |
-| ![Badge feat freeRunner](../assets/Badge_feat_freeRunner.png) | Free Runner | Sprint 50 kilometers | Sprinting burns 25% fewer calories |
-| ![Badge feat snowWalker](../assets/Badge_feat_snowWalker.png) | Snow Walker | Travel 1000 kilometers | Stamina bar recharges 20% faster |
-| ![Badge feat StraightToTheHeart](../assets/Badge_feat_StraightToTheHeart.png) | Straight to the Heart | Use or consume 250 [Cup of Coffee](./Cup%20of%20Coffee.md), [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), [GO! Energy Drinks](./Go!%20Energy%20Drink.md) or [Emergency Stims](./Emergency%20Stim.md) | The effects of Cup of Coffee, Cup of Acorn Coffee, GO! Energy Drink, and Emergency Stims last 25% longer |
-| ![Badge feat nightWalker](../assets/Badge_feat_nightWalker.png) | Darkwalker | Complete the "[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)" Challenge. (Collect all 10 diary pages and Banish the Darkwalker.) | You are less Fatigued at night, but more Fatigued during the day. |
+| [Badge feat freeRunner](../assets/Badge_feat_freeRunner.png) | Free Runner | Sprint 50 kilometers | Sprinting burns 25% fewer calories |
+| [Badge feat snowWalker](../assets/Badge_feat_snowWalker.png) | Snow Walker | Travel 1000 kilometers | Stamina bar recharges 20% faster |
+| [Badge feat StraightToTheHeart](../assets/Badge_feat_StraightToTheHeart.png) | Straight to the Heart | Use or consume 250 [Cup of Coffee](./Cup%20of%20Coffee.md), [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), [GO! Energy Drinks](./Go!%20Energy%20Drink.md) or [Emergency Stims](./Emergency%20Stim.md) | The effects of Cup of Coffee, Cup of Acorn Coffee, GO! Energy Drink, and Emergency Stims last 25% longer |
+| [Badge feat nightWalker](../assets/Badge_feat_nightWalker.png) | Darkwalker | Complete the "[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)" Challenge. (Collect all 10 diary pages and Banish the Darkwalker.) | You are less Fatigued at night, but more Fatigued during the day. |

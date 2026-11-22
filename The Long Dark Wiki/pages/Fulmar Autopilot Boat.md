@@ -12,7 +12,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Fulmar Autopilot Boat**
 
-![Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png)
+[Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png)
 
 **Location**
 

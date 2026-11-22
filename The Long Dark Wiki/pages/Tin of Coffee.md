@@ -13,7 +13,7 @@ _For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md)._
 
 **Tin of Coffee**
 
-![Tin of Coffee icon](../assets/Tin_of_Coffee_icon.png)
+[Tin of Coffee icon](../assets/Tin_of_Coffee_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 

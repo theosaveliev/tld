@@ -4,7 +4,7 @@
 
 **Neighbour's Note**
 
-![Neighbour's Note icon](../assets/Neighbour%27s_Note_icon.png)
+[Neighbour's Note icon](../assets/Neighbour%27s_Note_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md)
 

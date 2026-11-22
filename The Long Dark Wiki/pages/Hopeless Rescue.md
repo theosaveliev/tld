@@ -19,7 +19,7 @@
 
 **Hopeless Rescue**
 
-![Challenge HopelessRescue](../assets/Challenge_HopelessRescue.png)
+[Challenge HopelessRescue](../assets/Challenge_HopelessRescue.png)
 
 **Details**
 

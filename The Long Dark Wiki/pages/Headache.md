@@ -4,7 +4,7 @@
 
 **Headache**
 
-![Headache icon](../assets/Headache_icon.png)
+[Headache icon](../assets/Headache_icon.png)
 
 **Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 
@@ -55,8 +55,8 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pil
 
 |  | First Aid | Duration |
 | --- | --- | --- |
-| ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
-| ![Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
+| [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
+| [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
 
 ## Food and Drink Headaches
 
@@ -68,7 +68,7 @@ Certain Recipes will also produce a Headache. Partially consuming Recipes will n
 
 |  | Food and Drink | Duration |
 | --- | --- | --- |
-| ![Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 1 hour |
-| ![Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 1 hour |
-| ![Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 1 hour |
-| ![Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 1 hour |
+| [Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 1 hour |
+| [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 1 hour |
+| [Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 1 hour |
+| [Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 1 hour |

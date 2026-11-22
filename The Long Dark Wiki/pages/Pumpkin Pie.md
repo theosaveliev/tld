@@ -15,7 +15,7 @@
 
 **Pumpkin Pie**
 
-![Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png)
+[Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png)
 
 **Release:** [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.373)
 

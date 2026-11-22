@@ -4,7 +4,7 @@
 
 **Car Trunk**
 
-![Car Trunk](../assets/Car_Trunk.jpg)
+[Car Trunk](../assets/Car_Trunk.jpg)
 
 **Release:** TBD
 

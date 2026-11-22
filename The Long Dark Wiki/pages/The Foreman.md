@@ -15,7 +15,7 @@
 
 **The Foreman**
 
-![Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png)
+[Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png)
 
 **Release:** 2.03
 

@@ -4,7 +4,7 @@
 
 **Potato Sack**
 
-![PotatoSack](../assets/PotatoSack.jpg)
+[PotatoSack](../assets/PotatoSack.jpg)
 
 **Story item:** No
 

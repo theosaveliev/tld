@@ -4,11 +4,11 @@
 
 **High Meadow**
 
-![High Meadows](../assets/High_Meadows.jpg)
+[High Meadows](../assets/High_Meadows.jpg)
 
 **Location**
 
-![High Meadow Location](../assets/High_Meadow_Location.png)
+[High Meadow Location](../assets/High_Meadow_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

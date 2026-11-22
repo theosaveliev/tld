@@ -14,7 +14,7 @@
 
 **Flare**
 
-![Flare icon](../assets/Flare_icon.png)
+[Flare icon](../assets/Flare_icon.png)
 
 **General**
 
@@ -26,9 +26,9 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
 
 
 

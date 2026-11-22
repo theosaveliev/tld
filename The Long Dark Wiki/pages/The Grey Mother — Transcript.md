@@ -13,7 +13,7 @@
 
 **The Grey Mother/Transcript**
 
-![The Grey Mother](../assets/The_Grey_Mother.png)
+[The Grey Mother](../assets/The_Grey_Mother.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

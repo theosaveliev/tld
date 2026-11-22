@@ -4,11 +4,11 @@
 
 **Andre's Peak**
 
-![Andres peak](../assets/Andres_peak.jpg)
+[Andres peak](../assets/Andres_peak.jpg)
 
 **Location**
 
-![Andre's Peak Location](../assets/Andre%27s_Peak_Location.png)
+[Andre's Peak Location](../assets/Andre%27s_Peak_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

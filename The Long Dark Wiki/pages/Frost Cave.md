@@ -4,11 +4,11 @@
 
 **Frost Cave**
 
-![Frost Cave Interior](../assets/Frost_Cave_Interior.png)
+[Frost Cave Interior](../assets/Frost_Cave_Interior.png)
 
 **Location**
 
-![Frost Cave Location](../assets/Frost_Cave_Location.png)
+[Frost Cave Location](../assets/Frost_Cave_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

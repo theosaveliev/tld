@@ -20,7 +20,7 @@
 
 **Timberwolf**
 
-![Timberwolf](../assets/Timberwolf.png)
+[Timberwolf](../assets/Timberwolf.png)
 
 **Basic Information**
 
@@ -52,10 +52,10 @@ Despite having a different colored coat, ordinary black Wolf Hides are produced 
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)\* | 4 - 7 | Always[¹](#fn1) |
-| ![Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always[²](#fn2) |
-| ![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
-| ![Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)\* | 4 - 7 | Always[¹](#fn1) |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always[²](#fn2) |
+| [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 \*Note: Wolf Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
 
@@ -63,7 +63,7 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
+| [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
 ## Behavior
 

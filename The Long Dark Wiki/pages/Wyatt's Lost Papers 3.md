@@ -4,7 +4,7 @@
 
 **Wyatt's Lost Papers 3**
 
-![Wyatt's Lost Papers 3 icon](../assets/Wyatt%27s_Lost_Papers_3_icon.png)
+[Wyatt's Lost Papers 3 icon](../assets/Wyatt%27s_Lost_Papers_3_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

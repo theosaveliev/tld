@@ -12,7 +12,7 @@
 
 **Whetstone**
 
-![Whetstone icon](../assets/Whetstone_icon.png)
+[Whetstone icon](../assets/Whetstone_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 
@@ -52,35 +52,35 @@ The [Sharpening](./Sharpening.md) [Skill](./Skills.md), which is only visible wh
 
 The Whetstone can only be used to sharpen the following tools:
 
-![Hunting Knife icon](../assets/Hunting_Knife_icon.png)
+[Hunting Knife icon](../assets/Hunting_Knife_icon.png)
 
 [Hunting Knife](./Hunting%20Knife.md)
 
-![Improvised Knife icon](../assets/Improvised_Knife_icon.png)
+[Improvised Knife icon](../assets/Improvised_Knife_icon.png)
 
 [Improvised Knife](./Improvised%20Knife.md)
 
-![Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png)
+[Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png)
 
 [Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
 
-![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
+[Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
 
 [Jeremiah's Knife](./Jeremiah%27s%20Knife.md)
 
-![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png)
+[Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png)
 
 [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
 
-![Survival Knife icon](../assets/Survival_Knife_icon.png)
+[Survival Knife icon](../assets/Survival_Knife_icon.png)
 
 [Survival Knife](./Survival%20Knife.md)
 
-![Hatchet icon](../assets/Hatchet_icon.png)
+[Hatchet icon](../assets/Hatchet_icon.png)
 
 [Hatchet](./Hatchet.md)
 
-![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png)
+[Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png)
 
 [Improvised Hatchet](./Improvised%20Hatchet.md)
 

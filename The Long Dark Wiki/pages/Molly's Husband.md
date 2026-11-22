@@ -4,7 +4,7 @@
 
 **Molly's Husband**
 
-![Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png)
+[Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

@@ -4,7 +4,7 @@
 
 **Fireplace**
 
-![Fire place](../assets/Fire_place.png)
+[Fire place](../assets/Fire_place.png)
 
 **General**
 

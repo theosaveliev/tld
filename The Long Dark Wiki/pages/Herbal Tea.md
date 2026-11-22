@@ -13,7 +13,7 @@
 
 **Herbal Tea**
 
-![Herbal Tea icon](../assets/Herbal_Tea_icon.png)
+[Herbal Tea icon](../assets/Herbal_Tea_icon.png)
 
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 

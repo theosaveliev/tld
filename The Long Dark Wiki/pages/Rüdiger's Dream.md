@@ -4,7 +4,7 @@
 
 **Rüdiger's Dream**
 
-![Rüdiger's Dream icon](../assets/R%C3%BCdiger%27s_Dream_icon.png)
+[Rüdiger's Dream icon](../assets/R%C3%BCdiger%27s_Dream_icon.png)
 
 **Description:** Complete all 3 Tales (single game).
 

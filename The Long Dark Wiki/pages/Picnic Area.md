@@ -4,11 +4,11 @@
 
 **Picnic Area**
 
-![A 'Climbing Area' signpost for the Picnic Area](../assets/Milton_Park_Picnic_Area.jpg)
+[A 'Climbing Area' signpost for the Picnic Area](../assets/Milton_Park_Picnic_Area.jpg)
 
 **Location**
 
-![Picnic Area Location](../assets/Picnic_Area_Location.png)
+[Picnic Area Location](../assets/Picnic_Area_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

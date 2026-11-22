@@ -11,11 +11,11 @@
 
 **Gold Mine**
 
-![Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png)
+[Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png)
 
 **Location**
 
-![Gold Mine Location](../assets/Gold_Mine_Location.png)
+[Gold Mine Location](../assets/Gold_Mine_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 
@@ -25,11 +25,11 @@
 
 **Type:** Cave
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

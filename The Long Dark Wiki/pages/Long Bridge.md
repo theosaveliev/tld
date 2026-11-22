@@ -4,11 +4,11 @@
 
 **Long Bridge**
 
-![Screen ff04f5c7 2496 4839 b372 ddcf19507a70 hi](../assets/Screen_ff04f5c7-2496-4839-b372-ddcf19507a70_hi.jpg)
+[Screen ff04f5c7 2496 4839 b372 ddcf19507a70 hi](../assets/Screen_ff04f5c7-2496-4839-b372-ddcf19507a70_hi.jpg)
 
 **Location**
 
-![Long Bridge Location](../assets/Long_Bridge_Location.png)
+[Long Bridge Location](../assets/Long_Bridge_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

@@ -4,7 +4,7 @@
 
 **Military-Grade MRE**
 
-![Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png)
+[Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png)
 
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 

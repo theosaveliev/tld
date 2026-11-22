@@ -11,7 +11,7 @@
 
 **Wool Longjohns**
 
-![Wool Longjohns icon](../assets/Wool_Longjohns_icon.png)
+[Wool Longjohns icon](../assets/Wool_Longjohns_icon.png)
 
 **General**
 
@@ -21,17 +21,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)35%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)35%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
+**Protection:** [Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
 

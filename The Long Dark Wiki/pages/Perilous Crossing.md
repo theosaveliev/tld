@@ -4,11 +4,11 @@
 
 **Perilous Crossing**
 
-![Perilous Crossing](../assets/Perilous_Crossing.jpg)
+[Perilous Crossing](../assets/Perilous_Crossing.jpg)
 
 **Location**
 
-![Perilous Crossing Location](../assets/Perilous_Crossing_Location.png)
+[Perilous Crossing Location](../assets/Perilous_Crossing_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

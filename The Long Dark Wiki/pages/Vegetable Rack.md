@@ -4,7 +4,7 @@
 
 **Vegetable Rack**
 
-![IngrediantDrawer](../assets/IngrediantDrawer.jpg)
+[IngrediantDrawer](../assets/IngrediantDrawer.jpg)
 
 **Release:** TBD
 

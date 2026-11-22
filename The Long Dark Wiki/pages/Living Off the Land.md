@@ -4,7 +4,7 @@
 
 **Living Off the Land**
 
-![Living Off the Land icon](../assets/Living_Off_the_Land_icon.png)
+[Living Off the Land icon](../assets/Living_Off_the_Land_icon.png)
 
 **Description:** Survived 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)
 

@@ -4,7 +4,7 @@
 
 **Silent Hunter**
 
-![Silent Hunter icon](../assets/Silent_Hunter_icon.png)
+[Silent Hunter icon](../assets/Silent_Hunter_icon.png)
 
 **Description:** Survive the first 50 days without firing any firearms (single game).
 

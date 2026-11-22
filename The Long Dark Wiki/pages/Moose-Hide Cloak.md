@@ -12,7 +12,7 @@
 
 **Moose-Hide Cloak**
 
-![Moose Hide Cloak icon](../assets/Moose-Hide_Cloak_icon.png)
+[Moose Hide Cloak icon](../assets/Moose-Hide_Cloak_icon.png)
 
 **General**
 
@@ -22,17 +22,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.5 °C(6.3 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.5 °C(6.3 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)90%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)90%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)20%
+**Protection:** [Protection icon](../assets/Protection_icon.png)20%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-10%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-10%
 
 **Harvest:** 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md)<br>120 minutes
 

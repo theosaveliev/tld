@@ -4,7 +4,7 @@
 
 **Security Chief's Rifle Holster**
 
-![Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png)
+[Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png)
 
 **General**
 
@@ -16,17 +16,17 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)0
+**Protection:** [Protection icon](../assets/Protection_icon.png)0
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0
 
 **Harvest:** 4 x [Cured Leather](./Cured%20Leather.md)<br>30 minutes
 

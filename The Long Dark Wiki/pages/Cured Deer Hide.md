@@ -11,7 +11,7 @@
 
 **Cured Deer Hide**
 
-![Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png)
+[Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 

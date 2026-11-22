@@ -4,7 +4,7 @@
 
 **Cabin (Sundered Pass)**
 
-![Old Settlement Cabin](../assets/Old_Settlement_Cabin.jpg)
+[Old Settlement Cabin](../assets/Old_Settlement_Cabin.jpg)
 
 **Location**
 
@@ -12,7 +12,7 @@
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

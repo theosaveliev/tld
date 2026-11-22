@@ -4,11 +4,11 @@
 
 **Crash Site (Pleasant Valley)**
 
-![SS PV crash 04](../assets/SS-PV-crash-04.jpg)
+[SS PV crash 04](../assets/SS-PV-crash-04.jpg)
 
 **Location**
 
-![Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png)
+[Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

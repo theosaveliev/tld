@@ -4,11 +4,11 @@
 
 **Cannery Pier**
 
-![SS BI CanneryPier02](../assets/SS-BI-CanneryPier02.jpg)
+[SS BI CanneryPier02](../assets/SS-BI-CanneryPier02.jpg)
 
 **Location**
 
-![Cannery Pier Location](../assets/Cannery_Pier_Location.png)
+[Cannery Pier Location](../assets/Cannery_Pier_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Industrial
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

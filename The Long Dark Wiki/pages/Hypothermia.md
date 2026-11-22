@@ -11,7 +11,7 @@
 
 **Hypothermia**
 
-![Hypothermia icon](../assets/Hypothermia_icon.png)
+[Hypothermia icon](../assets/Hypothermia_icon.png)
 
 **Properties**
 

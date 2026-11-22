@@ -13,7 +13,7 @@
 
 **Skilled Survivor**
 
-![Skilled Survivor icon](../assets/Skilled_Survivor_icon.png)
+[Skilled Survivor icon](../assets/Skilled_Survivor_icon.png)
 
 **Description:** Get all skills to level 5 in a single Survival Mode game.
 

@@ -4,7 +4,7 @@
 
 **Something Warm to Drink**
 
-![Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png)
+[Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png)
 
 **Description:** Collect 7 Insulated Flask Variants (single game)
 

@@ -11,11 +11,11 @@
 
 **Milton Post Office**
 
-![Milton Post Office Front](../assets/Milton_Post_Office_-_Front.jpg)
+[Milton Post Office Front](../assets/Milton_Post_Office_-_Front.jpg)
 
 **Location**
 
-![Milton Post Office Location](../assets/Milton_Post_Office_Location.png)
+[Milton Post Office Location](../assets/Milton_Post_Office_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

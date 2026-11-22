@@ -4,7 +4,7 @@
 
 **Brake Shoe**
 
-![Brake Shoe icon](../assets/Brake_Shoe_icon.png)
+[Brake Shoe icon](../assets/Brake_Shoe_icon.png)
 
 **General**
 
@@ -12,9 +12,9 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-![Seal icon](../assets/Seal_icon.png)
+[Seal icon](../assets/Seal_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 

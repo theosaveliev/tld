@@ -4,11 +4,11 @@
 
 **Hushed River**
 
-![HushedRiverValleyFromPensiveVista](../assets/HushedRiverValleyFromPensiveVista.png)
+[HushedRiverValleyFromPensiveVista](../assets/HushedRiverValleyFromPensiveVista.png)
 
 **Location**
 
-![Hushed River Location](../assets/Hushed_River_Location.png)
+[Hushed River Location](../assets/Hushed_River_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

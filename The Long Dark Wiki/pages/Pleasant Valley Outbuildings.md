@@ -4,21 +4,21 @@
 
 **Pleasant Valley Outbuildings**
 
-![305620 20160918104124 1](../assets/305620_20160918104124_1.png)
+[305620 20160918104124 1](../assets/305620_20160918104124_1.png)
 
 **Location**
 
-![Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png)
+[Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

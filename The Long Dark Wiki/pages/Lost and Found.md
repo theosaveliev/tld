@@ -12,7 +12,7 @@
 
 **Lost and Found**
 
-![Lost and Found](../assets/Lost_and_Found.png)
+[Lost and Found](../assets/Lost_and_Found.png)
 
 **Release:** 22 October 2019
 

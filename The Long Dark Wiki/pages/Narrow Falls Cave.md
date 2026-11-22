@@ -4,11 +4,11 @@
 
 **Narrow Falls Cave**
 
-![NarrowFallsCave 1080p](../assets/NarrowFallsCave_1080p.png)
+[NarrowFallsCave 1080p](../assets/NarrowFallsCave_1080p.png)
 
 **Location**
 
-![Narrow Falls Cave Location](../assets/Narrow_Falls_Cave_Location.png)
+[Narrow Falls Cave Location](../assets/Narrow_Falls_Cave_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

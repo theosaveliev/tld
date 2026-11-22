@@ -4,7 +4,7 @@
 
 **Tackle Box**
 
-![Tackle Box icon](../assets/Tackle_Box_icon.png)
+[Tackle Box icon](../assets/Tackle_Box_icon.png)
 
 **Description:** Craft a full set of 3 Fishing Lures (single game).
 

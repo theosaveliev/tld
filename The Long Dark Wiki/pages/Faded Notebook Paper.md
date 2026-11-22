@@ -4,7 +4,7 @@
 
 **Faded Notebook Paper**
 
-![Faded Notebook Paper icon](../assets/Faded_Notebook_Paper_icon.png)
+[Faded Notebook Paper icon](../assets/Faded_Notebook_Paper_icon.png)
 
 **Properties**
 

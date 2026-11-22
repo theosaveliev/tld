@@ -4,11 +4,11 @@
 
 **Cutty's Cave**
 
-![Cutty's Cave](../assets/Cutty%27s_Cave.png)
+[Cutty's Cave](../assets/Cutty%27s_Cave.png)
 
 **Location**
 
-![Cutty's Cave Location](../assets/Cutty%27s_Cave_Location.png)
+[Cutty's Cave Location](../assets/Cutty%27s_Cave_Location.png)
 
 Region
 

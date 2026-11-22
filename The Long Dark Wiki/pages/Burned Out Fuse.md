@@ -12,7 +12,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Burned Out Fuse**
 
-![Burned Out Fuse icon](../assets/Burned_Out_Fuse_icon.png)
+[Burned Out Fuse icon](../assets/Burned_Out_Fuse_icon.png)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Aftermath](./Aftermath.md)
 

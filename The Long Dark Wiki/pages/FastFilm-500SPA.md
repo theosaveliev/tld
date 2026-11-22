@@ -12,7 +12,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **FastFilm-500SPA**
 
-![FastFilm 500SPA icon](../assets/FastFilm-500SPA_icon.png)
+[FastFilm 500SPA icon](../assets/FastFilm-500SPA_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

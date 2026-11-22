@@ -4,7 +4,7 @@
 
 **Prologue**
 
-![Prologue](../assets/Prologue.png)
+[Prologue](../assets/Prologue.png)
 
 Episode
 

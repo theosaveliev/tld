@@ -12,13 +12,13 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Distress Pistol Kit**
 
-![Distress Pistol Kit icon](../assets/Distress_Pistol_Kit_icon.png)
+[Distress Pistol Kit icon](../assets/Distress_Pistol_Kit_icon.png)
 
 **General**
 
 **Item Type:** Tool
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
 > “**Useful for getting someone's attention in an emergency. Fires Distress Pistol Shells.**”
 >

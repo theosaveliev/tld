@@ -4,11 +4,11 @@
 
 **Bitter Marsh**
 
-![20201210111120 1](../assets/20201210111120_1.jpg)
+[20201210111120 1](../assets/20201210111120_1.jpg)
 
 **Location**
 
-![Bitter Marsh Location](../assets/Bitter_Marsh_Location.png)
+[Bitter Marsh Location](../assets/Bitter_Marsh_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

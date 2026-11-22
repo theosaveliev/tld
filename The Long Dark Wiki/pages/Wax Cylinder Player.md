@@ -12,7 +12,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Wax Cylinder Player**
 
-![Wax Cylinder Player icon](../assets/Wax_Cylinder_Player_icon.png)
+[Wax Cylinder Player icon](../assets/Wax_Cylinder_Player_icon.png)
 
 **Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)
 

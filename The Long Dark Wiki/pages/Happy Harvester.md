@@ -4,7 +4,7 @@
 
 **Happy Harvester**
 
-![Happy Harvester icon](../assets/Happy_Harvester_icon.png)
+[Happy Harvester icon](../assets/Happy_Harvester_icon.png)
 
 **Description:** Harvested 25 of each kind of plant (single game)[¹](#fn1)
 

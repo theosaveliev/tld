@@ -4,11 +4,11 @@
 
 **Stairsteps Lake**
 
-![Hushed river valley stairsteps lake 20201031](../assets/Hushed_river_valley_stairsteps_lake_20201031.png)
+[Hushed river valley stairsteps lake 20201031](../assets/Hushed_river_valley_stairsteps_lake_20201031.png)
 
 **Location**
 
-![Stairsteps Lake Location](../assets/Stairsteps_Lake_Location.png)
+[Stairsteps Lake Location](../assets/Stairsteps_Lake_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

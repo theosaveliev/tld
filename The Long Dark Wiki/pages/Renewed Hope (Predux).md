@@ -14,7 +14,7 @@
 
 **Renewed Hope (Predux)**
 
-![Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg)
+[Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

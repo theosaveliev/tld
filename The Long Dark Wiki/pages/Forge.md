@@ -15,7 +15,7 @@
 
 **Forge**
 
-![Forge](../assets/Forge.png)
+[Forge](../assets/Forge.png)
 
 **Release:** 18 September 2015
 
@@ -56,11 +56,11 @@ The specific items that can be crafted, and their respective requirements, can b
 
 | Item | Materials Required | Time Required |
 | --- | --- | --- |
-| 2x ![Arrowhead icon](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) | 1x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour |
-| \|![Spear Head icon](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute Ep2 Only) | 2x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour 30 Min |
-| ![Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 3x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 3 Hours |
-| ![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 1x ![Cougar Claw icon](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Cured Leather icon](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 3 Hours 40 Min |
-| ![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 5x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 4 Hours |
+| 2x [Arrowhead icon](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) | 1x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour |
+| \|[Spear Head icon](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute Ep2 Only) | 2x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour 30 Min |
+| [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 3x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 3 Hours |
+| [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 1x [Cougar Claw icon](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x [Cured Leather icon](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 3 Hours 40 Min |
+| [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 5x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 4 Hours |
 
 ## Tips
 

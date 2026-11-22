@@ -4,7 +4,7 @@
 
 **Light Shell**
 
-![Light Shell icon](../assets/Light_Shell_icon.png)
+[Light Shell icon](../assets/Light_Shell_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
+**Protection:** [Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-2%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-2%
 
 **Harvest:** 2 × [Cloth](./Cloth.md)<br>40 minutes
 

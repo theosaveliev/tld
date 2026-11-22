@@ -4,11 +4,11 @@
 
 **Lonely Homestead**
 
-![Lonely Homestead](../assets/Lonely_Homestead.jpg)
+[Lonely Homestead](../assets/Lonely_Homestead.jpg)
 
 **Location**
 
-![Lonely Homestead Location](../assets/Lonely_Homestead_Location.png)
+[Lonely Homestead Location](../assets/Lonely_Homestead_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

@@ -11,7 +11,7 @@
 
 **Fresh Leather**
 
-![Fresh Leather icon](../assets/Fresh_Leather_icon.png)
+[Fresh Leather icon](../assets/Fresh_Leather_icon.png)
 
 **Release:** [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.05)
 

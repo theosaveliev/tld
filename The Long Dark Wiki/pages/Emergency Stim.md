@@ -15,7 +15,7 @@
 
 **Emergency Stim**
 
-![Emergency Stim icon](../assets/Emergency_Stim_icon.png)
+[Emergency Stim icon](../assets/Emergency_Stim_icon.png)
 
 **Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
 

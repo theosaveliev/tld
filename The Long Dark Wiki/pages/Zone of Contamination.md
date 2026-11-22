@@ -14,13 +14,13 @@
 
 **Zone of Contamination**
 
-![Zone of Contamination](../assets/Zone_of_Contamination.jpg)
+[Zone of Contamination](../assets/Zone_of_Contamination.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png)
+[Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png)
 
-![Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png)
+[Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png)
 
 **Details**
 
@@ -38,7 +38,7 @@
 
 **Date Added:** Dec 5, 2023
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

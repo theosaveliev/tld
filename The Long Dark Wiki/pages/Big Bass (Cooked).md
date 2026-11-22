@@ -12,7 +12,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Big Bass (Cooked)**
 
-![Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png)
+[Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

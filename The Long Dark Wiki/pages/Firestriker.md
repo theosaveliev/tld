@@ -16,7 +16,7 @@
 
 **Firestriker**
 
-![Firestriker icon](../assets/Firestriker_icon.png)
+[Firestriker icon](../assets/Firestriker_icon.png)
 
 **General**
 
@@ -28,9 +28,9 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Bonus chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png)+15%
+**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+15%
 
 > “**Metal tool designed to help start fires in the wilderness.**”
 >

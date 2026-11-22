@@ -4,7 +4,7 @@
 
 **On the Nature of Darkwalkers**
 
-![On the Nature of Darkwalkers icon](../assets/On_the_Nature_of_Darkwalkers_icon.png)
+[On the Nature of Darkwalkers icon](../assets/On_the_Nature_of_Darkwalkers_icon.png)
 
 **Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
 

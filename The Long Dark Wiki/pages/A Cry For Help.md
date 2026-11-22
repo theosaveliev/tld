@@ -4,7 +4,7 @@
 
 **A Cry For Help**
 
-![Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
+[Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
 
 Episode
 

@@ -12,21 +12,21 @@
 
 **Prepper's Abandoned Cache**
 
-![Preppers abandoned cache3](../assets/Preppers_abandoned_cache3.jpg)
+[Preppers abandoned cache3](../assets/Preppers_abandoned_cache3.jpg)
 
 **Location**
 
-![Prepper's Abandoned Cache Location](../assets/Prepper%27s_Abandoned_Cache_Location.png)
+[Prepper's Abandoned Cache Location](../assets/Prepper%27s_Abandoned_Cache_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Type:** Industrial
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

@@ -13,11 +13,11 @@
 
 **Last Prospect**
 
-![LastProspectEntrance](../assets/LastProspectEntrance.png)
+[LastProspectEntrance](../assets/LastProspectEntrance.png)
 
 **Location**
 
-![Last Prospect Location](../assets/Last_Prospect_Location.png)
+[Last Prospect Location](../assets/Last_Prospect_Location.png)
 
 Region
 

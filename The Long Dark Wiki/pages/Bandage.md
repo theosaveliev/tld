@@ -12,7 +12,7 @@
 
 **Bandage**
 
-![Bandage icon](../assets/Bandage_icon.png)
+[Bandage icon](../assets/Bandage_icon.png)
 
 **Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094)
 

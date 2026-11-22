@@ -4,7 +4,7 @@
 
 **Pleasant Valley Collectible, Part Three**
 
-![Pleasant Valley Collectible, Part Three icon](../assets/Pleasant_Valley_Collectible%2C_Part_Three_icon.png)
+[Pleasant Valley Collectible, Part Three icon](../assets/Pleasant_Valley_Collectible%2C_Part_Three_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

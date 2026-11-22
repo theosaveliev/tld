@@ -4,7 +4,7 @@
 
 **Deer Quarter**
 
-![Deer Quarter icon](../assets/Deer_Quarter_icon.png)
+[Deer Quarter icon](../assets/Deer_Quarter_icon.png)
 
 **Release:** [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)
 

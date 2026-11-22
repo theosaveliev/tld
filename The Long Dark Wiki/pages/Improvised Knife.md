@@ -11,7 +11,7 @@
 
 **Improvised Knife**
 
-![Improvised Knife icon](../assets/Improvised_Knife_icon.png)
+[Improvised Knife icon](../assets/Improvised_Knife_icon.png)
 
 **General**
 
@@ -19,7 +19,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
 
 **Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes
 

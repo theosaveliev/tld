@@ -4,11 +4,11 @@
 
 **Seedling Spring**
 
-![Seedling Spring](../assets/Seedling_Spring.jpg)
+[Seedling Spring](../assets/Seedling_Spring.jpg)
 
 **Location**
 
-![Seedling Spring Location](../assets/Seedling_Spring_Location.png)
+[Seedling Spring Location](../assets/Seedling_Spring_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

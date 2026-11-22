@@ -4,7 +4,7 @@
 
 **Work Boots**
 
-![Work Boots icon](../assets/Work_Boots_icon.png)
+[Work Boots icon](../assets/Work_Boots_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)5%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)5%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)7%
+**Protection:** [Protection icon](../assets/Protection_icon.png)7%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-10%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-10%
 
 **Harvest:** 2 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 

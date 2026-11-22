@@ -4,7 +4,7 @@
 
 **Sprained Wrist**
 
-![Sprained Wrist icon](../assets/Sprained_Wrist_icon.png)
+[Sprained Wrist icon](../assets/Sprained_Wrist_icon.png)
 
 **Properties**
 
@@ -22,7 +22,7 @@
 
 **Treatment**
 
-**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+**Treatment:** 1 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
 
 **Recovery Time:** 2 hours of [Sleep](./Sleep.md)
 

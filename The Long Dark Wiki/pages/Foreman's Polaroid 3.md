@@ -4,7 +4,7 @@
 
 **Foreman's Polaroid 3**
 
-![Foreman's Polaroid 3 icon](../assets/Foreman%27s_Polaroid_3_icon.png)
+[Foreman's Polaroid 3 icon](../assets/Foreman%27s_Polaroid_3_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

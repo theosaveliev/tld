@@ -11,7 +11,7 @@
 
 **Energy Boost**
 
-![Energy Boost icon](../assets/Energy_Boost_icon.png)
+[Energy Boost icon](../assets/Energy_Boost_icon.png)
 
 **Properties**
 
@@ -23,7 +23,7 @@
 
 **Type:** Benefit
 
-**Benefit Duration:** ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) ![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat)
+**Benefit Duration:** [Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat)
 
 > “**For a short time, Fatigue vanishes and your Stamina feels endless.**”
 >

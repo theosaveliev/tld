@@ -4,7 +4,7 @@
 
 **Old Fashioned Parka**
 
-![Old Fashioned Parka icon](../assets/Old_Fashioned_Parka_icon.png)
+[Old Fashioned Parka icon](../assets/Old_Fashioned_Parka_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
+**Protection:** [Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-7%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-7%
 
 **Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
 

@@ -4,11 +4,11 @@
 
 **Ice Fishing Huts**
 
-![Ice Fishing Huts](../assets/Ice_Fishing_Huts.jpg)
+[Ice Fishing Huts](../assets/Ice_Fishing_Huts.jpg)
 
 **Location**
 
-![Ice Fishing Huts Location](../assets/Ice_Fishing_Huts_Location.png)
+[Ice Fishing Huts Location](../assets/Ice_Fishing_Huts_Location.png)
 
 Region
 

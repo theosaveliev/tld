@@ -18,13 +18,13 @@
 
 **Forsaken Airfield**
 
-![Forsaken Airfield](../assets/Forsaken_Airfield.jpg)
+[Forsaken Airfield](../assets/Forsaken_Airfield.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Forsaken Airfield Location](../assets/Forsaken_Airfield_Location.png)
+[Forsaken Airfield Location](../assets/Forsaken_Airfield_Location.png)
 
-![Forsaken Airfield In game Map](../assets/Forsaken_Airfield_In-game_Map.png)
+[Forsaken Airfield In game Map](../assets/Forsaken_Airfield_In-game_Map.png)
 
 **Details**
 

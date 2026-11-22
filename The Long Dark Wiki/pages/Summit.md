@@ -12,11 +12,11 @@
 
 **Summit**
 
-![Tail section and wing2](../assets/Tail_section_and_wing2.jpg)
+[Tail section and wing2](../assets/Tail_section_and_wing2.jpg)
 
 **Location**
 
-![Summit Location](../assets/Summit_Location.png)
+[Summit Location](../assets/Summit_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

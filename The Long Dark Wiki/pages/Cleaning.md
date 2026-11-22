@@ -41,16 +41,16 @@ The player is able to clean the following firearms to improve their condition:
 
 | Image | Name |
 | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) |
-| ![Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) | [Barb's Rifle](./Barb%27s%20Rifle.md) |
-| ![Bunker Rifle icon](../assets/Bunker_Rifle_icon.png) | [Bunker Rifle](./Bunker%20Rifle.md) |
-| ![Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) | [Curator's Rifle](./Curator%27s%20Rifle.md) |
-| ![Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) |
-| ![Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png) | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) |
-| ![Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md) |
-| ![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md) |
-| ![Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md) |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) |
+| [Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) | [Barb's Rifle](./Barb%27s%20Rifle.md) |
+| [Bunker Rifle icon](../assets/Bunker_Rifle_icon.png) | [Bunker Rifle](./Bunker%20Rifle.md) |
+| [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) | [Curator's Rifle](./Curator%27s%20Rifle.md) |
+| [Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) |
+| [Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png) | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) |
+| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md) |
+| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md) |
+| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md) |
 
 The player is not currently able to clean the [Distress Pistol](./Distress%20Pistol.md) to improve its condition.
 

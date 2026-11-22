@@ -4,7 +4,7 @@
 
 **Island Cave**
 
-![IslandCave](../assets/IslandCave.png)
+[IslandCave](../assets/IslandCave.png)
 
 **Location**
 

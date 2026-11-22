@@ -13,7 +13,7 @@
 
 **Hidden Cache**
 
-![Hidden Cache](../assets/Hidden_Cache.png)
+[Hidden Cache](../assets/Hidden_Cache.png)
 
 **Release:** 14 June 2018
 

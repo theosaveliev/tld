@@ -4,11 +4,11 @@
 
 **High Blind**
 
-![Forlorn Muskleg High Blind](../assets/Forlorn_Muskleg_High_Blind.jpg)
+[Forlorn Muskleg High Blind](../assets/Forlorn_Muskleg_High_Blind.jpg)
 
 **Location**
 
-![High Blind Location](../assets/High_Blind_Location.png)
+[High Blind Location](../assets/High_Blind_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

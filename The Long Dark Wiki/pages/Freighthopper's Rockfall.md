@@ -4,11 +4,11 @@
 
 **Freighthopper's Rockfall**
 
-![Freighthopper's Rockfall Title](../assets/Freighthopper%27s_Rockfall_Title.jpg)
+[Freighthopper's Rockfall Title](../assets/Freighthopper%27s_Rockfall_Title.jpg)
 
 **Location**
 
-![Freighthopper's Rockfall Location](../assets/Freighthopper%27s_Rockfall_Location.png)
+[Freighthopper's Rockfall Location](../assets/Freighthopper%27s_Rockfall_Location.png)
 
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 

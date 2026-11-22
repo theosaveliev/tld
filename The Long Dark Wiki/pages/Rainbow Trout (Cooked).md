@@ -11,7 +11,7 @@
 
 **Rainbow Trout (Cooked)**
 
-![Rainbow Trout (Cooked) icon](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
+[Rainbow Trout (Cooked) icon](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
 
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 

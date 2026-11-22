@@ -4,7 +4,7 @@
 
 **Note**
 
-![Note (EP4) icon](../assets/Note_%28EP4%29_icon.png)
+[Note (EP4) icon](../assets/Note_%28EP4%29_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

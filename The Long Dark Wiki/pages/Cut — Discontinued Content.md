@@ -1168,43 +1168,43 @@ A list of achievements that were cut from the game include:
 
 **Description**
 
-![Two for Two](../assets/Two_for_Two.jpg)
+[Two for Two](../assets/Two_for_Two.jpg)
 
 **[Two for Two](./Two%20for%20Two.md)**
 
 Survive for 2 days in a single Survival Mode game.
 
-![Wolfbait](../assets/Wolfbait.jpg)
+[Wolfbait](../assets/Wolfbait.jpg)
 
 **[Wolfbait](./Wolfbait.md)**
 
 Survive 5 days in a single Survival Mode game.
 
-![It's Getting Cold Out There](../assets/It%27s_Getting_Cold_Out_There.jpg)
+[It's Getting Cold Out There](../assets/It%27s_Getting_Cold_Out_There.jpg)
 
 **[It's Getting Cold Out There](./It%27s%20Getting%20Cold%20Out%20There.md)**
 
 Survive 15 days in a single Survival Mode game.
 
-![Tough as Nails](../assets/Tough_as_Nails.jpg)
+[Tough as Nails](../assets/Tough_as_Nails.jpg)
 
 **[Tough as Nails](./Tough%20as%20Nails.md)**
 
 Survive 20 days in a single Survival Mode game.
 
-![You Prep the Preppers](../assets/You_Prep_the_Preppers.jpg)
+[You Prep the Preppers](../assets/You_Prep_the_Preppers.jpg)
 
 **[You Prep the Preppers](./You%20Prep%20the%20Preppers.md)**
 
 Survive 30 days in a single Survival Mode game.
 
-![Master Survivor](../assets/Master_Survivor.jpg)
+[Master Survivor](../assets/Master_Survivor.jpg)
 
 **[Master Survivor](./Master%20Survivor.md)**
 
 Survive 40 days in a single Survival Mode game.
 
-![One With Nature](../assets/One_With_Nature.jpg)
+[One With Nature](../assets/One_With_Nature.jpg)
 
 **[One With Nature](./One%20With%20Nature.md)**
 
@@ -1218,91 +1218,91 @@ The following achievements were kept but received a new achievement icon:
 
 **Description**
 
-![The First of Many old icon](../assets/The_First_of_Many_old_icon.webp)
+[The First of Many old icon](../assets/The_First_of_Many_old_icon.webp)
 
 **First of Many**
 
 Survive for 1 day in a single Survival Mode game.
 
-![You Made It! old icon](../assets/You_Made_It!_old_icon.webp)
+[You Made It! old icon](../assets/You_Made_It!_old_icon.webp)
 
 **You Made It!**
 
 Survive 10 days in a single Survival Mode game.
 
-![Ready for when the SHTF! old icon](../assets/Ready_for_when_the_SHTF!_old_icon.webp)
+[Ready for when the SHTF! old icon](../assets/Ready_for_when_the_SHTF!_old_icon.webp)
 
 **Ready for when the SHTF!**
 
 Survive for 50 days in a single Survival Mode game.
 
-![Centurion old icon](../assets/Centurion_old_icon.webp)
+[Centurion old icon](../assets/Centurion_old_icon.webp)
 
 **Centurion**
 
 Survive for 100 days in a single Survival Mode game.
 
-![Exploration Game old icon](../assets/Exploration_Game_old_icon.webp)
+[Exploration Game old icon](../assets/Exploration_Game_old_icon.webp)
 
 **Exploration Game**
 
 Visit every interior location in both [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md) (single game)
 
-![Waste Not, Want Not old icon](../assets/Waste_Not%2C_Want_Not_old_icon.webp)
+[Waste Not, Want Not old icon](../assets/Waste_Not%2C_Want_Not_old_icon.webp)
 
 **Waste Not, Want Not**
 
 Harvest 10 Complete [Deer Carcasses](./Deer%20Carcass.md) (single game)
 
-![Night Walker old icon](../assets/Night_Walker_old_icon.webp)
+[Night Walker old icon](../assets/Night_Walker_old_icon.webp)
 
 **Night Walker**
 
 Survive an entire Night outside (single game)
 
-![Beneath a Starry Sky old icon](../assets/Beneath_a_Starry_Sky_old_icon.webp)
+[Beneath a Starry Sky old icon](../assets/Beneath_a_Starry_Sky_old_icon.webp)
 
 **Beneath a Stary Sky**
 
 Survive 3 consecutive Nights outside (single game)
 
-![Silent Hunter old icon](../assets/Silent_Hunter_old_icon.webp)
+[Silent Hunter old icon](../assets/Silent_Hunter_old_icon.webp)
 
 **Silent Hunter**
 
 Survive the first 50 days without firing the [hunting rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md) or the [distress pistol](./Distress%20Pistol.md) (single game)
 
-![Pacifist old icon](../assets/Pacifist_old_icon.webp)
+[Pacifist old icon](../assets/Pacifist_old_icon.webp)
 
 **Pacifist**
 
 Survive the first 25 days without killing anything (single game)
 
-![It was THIS Big! old icon](../assets/It_was_THIS_Big!_old_icon.webp)
+[It was THIS Big! old icon](../assets/It_was_THIS_Big!_old_icon.webp)
 
 **It was THIS Big!**
 
 [Catch](./Ice%20Fishing.md) a fish weighing over 5kg (11 lbs).
 
-![Wrapped in Furs old icon](../assets/Wrapped_in_Furs_old_icon.webp)
+[Wrapped in Furs old icon](../assets/Wrapped_in_Furs_old_icon.webp)
 
 **Wrapped in Furs**
 
 Sleep in a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) while wearing a [Wolfskin Coat](./Wolfskin%20Coat.md), [Deerskin Boots](./Deerskin%20Boots.md), and [Rabbitskin Mittens](./Rabbitskin%20Mitts.md).
 
-![Living Off the Land old icon](../assets/Living_Off_the_Land_old_icon.webp)
+[Living Off the Land old icon](../assets/Living_Off_the_Land_old_icon.webp)
 
 **Living Off the Land**
 
 Survive 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)
 
-![Natural Healer old icon](../assets/Natural_Healer_old_icon.webp)
+[Natural Healer old icon](../assets/Natural_Healer_old_icon.webp)
 
 **Natural Healer**
 
 Heal yourself using all types of natural [medicines](./First%20Aid.md) (single game)
 
-![Happy Harvester old icon](../assets/Happy_Harvester_old_icon.webp)
+[Happy Harvester old icon](../assets/Happy_Harvester_old_icon.webp)
 
 **Happy Harvester**
 

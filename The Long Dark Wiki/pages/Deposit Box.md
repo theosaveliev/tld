@@ -4,7 +4,7 @@
 
 **Deposit Box**
 
-![Deposit Box](../assets/Deposit_Box.jpg)
+[Deposit Box](../assets/Deposit_Box.jpg)
 
 **Story item:** Yes
 

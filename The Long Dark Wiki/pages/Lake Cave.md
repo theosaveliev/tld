@@ -14,11 +14,11 @@
 
 **Lake Cave**
 
-![Lake Cave](../assets/Lake_Cave.jpg)
+[Lake Cave](../assets/Lake_Cave.jpg)
 
 **Location**
 
-![Lake Cave Location](../assets/Lake_Cave_Location.png)
+[Lake Cave Location](../assets/Lake_Cave_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

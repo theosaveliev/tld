@@ -14,11 +14,11 @@
 
 **Milton**
 
-![Milton](../assets/Milton.jpg)
+[Milton](../assets/Milton.jpg)
 
 **Location**
 
-![Milton Location](../assets/Milton_Location.png)
+[Milton Location](../assets/Milton_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
@@ -28,7 +28,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

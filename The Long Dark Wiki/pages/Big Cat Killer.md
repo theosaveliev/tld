@@ -4,7 +4,7 @@
 
 **Big Cat Killer**
 
-![Master Hunter icon](../assets/Master_Hunter_icon.png)
+[Master Hunter icon](../assets/Master_Hunter_icon.png)
 
 **Description:** You've successfully killed 3 Cougars in a single game.
 

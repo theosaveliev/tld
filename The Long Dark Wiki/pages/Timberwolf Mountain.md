@@ -16,13 +16,13 @@
 
 **Timberwolf Mountain**
 
-![Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png)
+[Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png)
+[Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png)
 
-![Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png)
+[Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png)
 
 **Details**
 

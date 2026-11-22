@@ -13,13 +13,13 @@
 
 **Pleasant Valley**
 
-![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png)<br>_[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
+[Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png)<br>_[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Pleasant Valley Location](../assets/Pleasant_Valley_Location.png)
+[Pleasant Valley Location](../assets/Pleasant_Valley_Location.png)
 
-![Pleasant valley map](../assets/Pleasant_valley_map.png)
+[Pleasant valley map](../assets/Pleasant_valley_map.png)
 
 **Details**
 

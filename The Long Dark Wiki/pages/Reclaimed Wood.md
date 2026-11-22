@@ -12,7 +12,7 @@
 
 **Reclaimed Wood**
 
-![Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png)
+[Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 
@@ -48,11 +48,11 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 **Statistics**
 
-**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 30 minutes
+**Duration:** [Fire Starting](../assets/Fire_Starting.png) 30 minutes
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) -5%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) -5%
 
-**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
+**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 

@@ -2,11 +2,11 @@
 
 **Categories:** Collectibles, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Recipe_Cards)
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
- ![Recipe Card](../assets/Recipe_Card.jpg)
+ [Recipe Card](../assets/Recipe_Card.jpg)
 
 “
 
@@ -24,19 +24,19 @@ Cards usually spawn at the same location/building, but the exact locations withi
 
 | Image | Recipe Name | Cooking Level | Region | Location |
 | --- | --- | --- | --- | --- |
-| ![Recipe Card (Breyerhouse Pie) icon](../assets/Recipe_Card_%28Breyerhouse_Pie%29_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 5 | [Broken Railroad](./Broken%20Railroad.md) | [Hunting Lodge](./Hunting%20Lodge.md)<br>- In the basement, atop a [Vegetable Rack](./Vegetable%20Rack.md)<br>- Between the mattresses in the upstairs room opposite the bathroom<br>- On the nightstand table next to the [Stove](./Stove.md) |
-| ![Recipe Card (Camber Flight Porridge) icon](../assets/Recipe_Card_%28Camber_Flight_Porridge%29_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 4 | [Forsaken Airfield](./Forsaken%20Airfield.md) | [Main Hanger](./Main%20Hangar.md) kitchen<br>- On the table left side of the room<br>- Under the Microwave cabinet shelf on the right side of the room |
-| ![Recipe Card (Coastal Fishcakes) icon](../assets/Recipe_Card_%28Coastal_Fishcakes%29_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | 5 | [Desolation Point](./Desolation%20Point.md) | [Lonely Lighthouse](./Lonely%20Lighthouse.md)<br>- Pinned to a board on the wall above the [Buffer Memories](./Buffer%20Memories.md) computer<br>- Underneath the yellow lockers on the 3rd floor<br>- On the final step of the 4th floor before exiting outside |
-| ![Recipe Card (Dockworker's Pie) icon](../assets/Recipe_Card_%28Dockworker%27s_Pie%29_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | 5 | [Bleak Inlet](./Bleak%20Inlet.md) | Last Resort Cannery [Workshop](./Workshop.md)<br>- On the counter by the sink<br>- Inside the lockers in the break room |
-| ![Recipe Card Soup Potato](../assets/Recipe_Card_Soup_Potato.png) | [Last Resort Soup](./Last%20Resort%20Soup.md) | 1 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
-| ![Recipe Card (Lily's Pancakes) icon](../assets/Recipe_Card_%28Lily%27s_Pancakes%29_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 4 | [Mountain Town](./Mountain%20Town.md) | In [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)<br>- Atop the left table in the kitchen.<br>- On the cabinet behind the fireplace, partially hidden by the picture frame.<br>- On the shelf in the upstairs storage room. |
-| ![Recipe Card Pemmican Bar](../assets/Recipe_Card_Pemmican_Bar.png) | [Pemmican Bar](./Pemmican%20Bar.md) | 5 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
-| ![Recipe Card Soup Ptarmigan](../assets/Recipe_Card_Soup_Ptarmigan.png) | [Porter's Soup](./Porter%27s%20Soup.md) | 4 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
-| ![Recipe Card (Prepper's Pie) icon](../assets/Recipe_Card_%28Prepper%27s_Pie%29_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | 5 | Random Prepper Cache | Inside a [Prepper Cache](./Prepper%20Cache.md)<br>- In the "Stockpile" Prepper Cache<br>- In a carboard box in an Abandoned Prepper Cache with a Corpse (Interloper/Misery only) |
-| ![Recipe Card (Ranger Stew) icon](../assets/Recipe_Card_%28Ranger_Stew%29_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | 4 | [Ash Canyon](./Ash%20Canyon.md) | [Foreman's Retreat](./Foreman%27s%20Retreat.md)<br>- On the floor under the table left of the door |
-| ![Recipe Card (Stalker's Pie) icon](../assets/Recipe_Card_%28Stalker%27s_Pie%29_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 5 | [Hushed River Valley](./Hushed%20River%20Valley.md) | On one of three possible frozen corpses in Hushed River Valley (see image below) |
-| ![Recipe Card (Thomson Family Stew) icon](../assets/Recipe_Card_%28Thomson_Family_Stew%29_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 4 | [Pleasant Valley](./Pleasant%20Valley.md) | Thomson's Crossing [Community Hall](./Community%20Hall.md)<br>- On the open counter in the kitchen<br>- On the middle shelf next to the back door<br>- On the desk in the office |
-| ![Recipe Card Rabbit Soup](../assets/Recipe_Card_Rabbit_Soup.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 1 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
+| [Recipe Card (Breyerhouse Pie) icon](../assets/Recipe_Card_%28Breyerhouse_Pie%29_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 5 | [Broken Railroad](./Broken%20Railroad.md) | [Hunting Lodge](./Hunting%20Lodge.md)<br>- In the basement, atop a [Vegetable Rack](./Vegetable%20Rack.md)<br>- Between the mattresses in the upstairs room opposite the bathroom<br>- On the nightstand table next to the [Stove](./Stove.md) |
+| [Recipe Card (Camber Flight Porridge) icon](../assets/Recipe_Card_%28Camber_Flight_Porridge%29_icon.png) | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 4 | [Forsaken Airfield](./Forsaken%20Airfield.md) | [Main Hanger](./Main%20Hangar.md) kitchen<br>- On the table left side of the room<br>- Under the Microwave cabinet shelf on the right side of the room |
+| [Recipe Card (Coastal Fishcakes) icon](../assets/Recipe_Card_%28Coastal_Fishcakes%29_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | 5 | [Desolation Point](./Desolation%20Point.md) | [Lonely Lighthouse](./Lonely%20Lighthouse.md)<br>- Pinned to a board on the wall above the [Buffer Memories](./Buffer%20Memories.md) computer<br>- Underneath the yellow lockers on the 3rd floor<br>- On the final step of the 4th floor before exiting outside |
+| [Recipe Card (Dockworker's Pie) icon](../assets/Recipe_Card_%28Dockworker%27s_Pie%29_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | 5 | [Bleak Inlet](./Bleak%20Inlet.md) | Last Resort Cannery [Workshop](./Workshop.md)<br>- On the counter by the sink<br>- Inside the lockers in the break room |
+| [Recipe Card Soup Potato](../assets/Recipe_Card_Soup_Potato.png) | [Last Resort Soup](./Last%20Resort%20Soup.md) | 1 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
+| [Recipe Card (Lily's Pancakes) icon](../assets/Recipe_Card_%28Lily%27s_Pancakes%29_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 4 | [Mountain Town](./Mountain%20Town.md) | In [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)<br>- Atop the left table in the kitchen.<br>- On the cabinet behind the fireplace, partially hidden by the picture frame.<br>- On the shelf in the upstairs storage room. |
+| [Recipe Card Pemmican Bar](../assets/Recipe_Card_Pemmican_Bar.png) | [Pemmican Bar](./Pemmican%20Bar.md) | 5 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
+| [Recipe Card Soup Ptarmigan](../assets/Recipe_Card_Soup_Ptarmigan.png) | [Porter's Soup](./Porter%27s%20Soup.md) | 4 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
+| [Recipe Card (Prepper's Pie) icon](../assets/Recipe_Card_%28Prepper%27s_Pie%29_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | 5 | Random Prepper Cache | Inside a [Prepper Cache](./Prepper%20Cache.md)<br>- In the "Stockpile" Prepper Cache<br>- In a carboard box in an Abandoned Prepper Cache with a Corpse (Interloper/Misery only) |
+| [Recipe Card (Ranger Stew) icon](../assets/Recipe_Card_%28Ranger_Stew%29_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | 4 | [Ash Canyon](./Ash%20Canyon.md) | [Foreman's Retreat](./Foreman%27s%20Retreat.md)<br>- On the floor under the table left of the door |
+| [Recipe Card (Stalker's Pie) icon](../assets/Recipe_Card_%28Stalker%27s_Pie%29_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 5 | [Hushed River Valley](./Hushed%20River%20Valley.md) | On one of three possible frozen corpses in Hushed River Valley (see image below) |
+| [Recipe Card (Thomson Family Stew) icon](../assets/Recipe_Card_%28Thomson_Family_Stew%29_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 4 | [Pleasant Valley](./Pleasant%20Valley.md) | Thomson's Crossing [Community Hall](./Community%20Hall.md)<br>- On the open counter in the kitchen<br>- On the middle shelf next to the back door<br>- On the desk in the office |
+| [Recipe Card Rabbit Soup](../assets/Recipe_Card_Rabbit_Soup.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 1 | [Trader](./Trader.md) | This recipe is acquired through a trade. |
 
 &lt;/table-progress-tracking&gt;
 

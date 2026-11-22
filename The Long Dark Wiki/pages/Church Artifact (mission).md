@@ -6,7 +6,7 @@
 
 **Church Artifact (mission)**
 
-![The artifact](../assets/Church_Artifact_icon.png)
+[The artifact](../assets/Church_Artifact_icon.png)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

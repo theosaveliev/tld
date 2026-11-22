@@ -4,11 +4,11 @@
 
 **Valley Cave**
 
-![Valley Cave](../assets/Valley_Cave.jpg)
+[Valley Cave](../assets/Valley_Cave.jpg)
 
 **Location**
 
-![Valley Cave Location](../assets/Valley_Cave_Location.png)
+[Valley Cave Location](../assets/Valley_Cave_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

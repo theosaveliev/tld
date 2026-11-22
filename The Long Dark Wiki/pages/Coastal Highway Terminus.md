@@ -4,11 +4,11 @@
 
 **Coastal Highway Terminus**
 
-![SS BI Terminus01](../assets/SS-BI-Terminus01.jpg)
+[SS BI Terminus01](../assets/SS-BI-Terminus01.jpg)
 
 **Location**
 
-![Coastal Highway Terminus Location](../assets/Coastal_Highway_Terminus_Location.png)
+[Coastal Highway Terminus Location](../assets/Coastal_Highway_Terminus_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 

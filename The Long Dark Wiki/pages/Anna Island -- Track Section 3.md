@@ -22,13 +22,13 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 3**
 
-![Anna Island Track Section 3](../assets/Anna_Island_--_Track_Section_3.jpg)
+[Anna Island Track Section 3](../assets/Anna_Island_--_Track_Section_3.jpg)
 
 **Location on [Cauldron Island](./Cauldron%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Anna Island Track Section 3 Map](../assets/Anna_Island_Track_Section_3_Map.png)
+[Anna Island Track Section 3 Map](../assets/Anna_Island_Track_Section_3_Map.png)
 
 **Details**
 

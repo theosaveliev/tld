@@ -4,7 +4,7 @@
 
 **Wolfskin Pants Blueprint Card**
 
-![Wolfskin Pants Blueprint Card icon](../assets/Wolfskin_Pants_Blueprint_Card_icon.png)
+[Wolfskin Pants Blueprint Card icon](../assets/Wolfskin_Pants_Blueprint_Card_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 
@@ -26,7 +26,7 @@
 
 **On ground:** Take It, Leave It
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

@@ -11,11 +11,11 @@
 
 **Old Spence Family Homestead**
 
-![20170304095533 1](../assets/20170304095533_1.jpg)
+[20170304095533 1](../assets/20170304095533_1.jpg)
 
 **Location**
 
-![Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png)
+[Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -23,11 +23,11 @@
 
 **Type:** Industrial
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 

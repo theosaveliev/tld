@@ -4,7 +4,7 @@
 
 **Water Tower**
 
-![Water Tower Resized](../assets/Water_Tower_Resized.png)
+[Water Tower Resized](../assets/Water_Tower_Resized.png)
 
 **General**
 
@@ -14,7 +14,7 @@
 
 **Renewable:** yes
 
-![Seal icon](../assets/Seal_icon.png)
+[Seal icon](../assets/Seal_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 

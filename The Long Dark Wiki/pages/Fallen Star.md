@@ -4,7 +4,7 @@
 
 **Fallen Star**
 
-![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
+[Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
 
 **Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 

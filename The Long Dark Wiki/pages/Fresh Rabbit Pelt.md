@@ -11,7 +11,7 @@
 
 **Fresh Rabbit Pelt**
 
-![Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png)
+[Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 

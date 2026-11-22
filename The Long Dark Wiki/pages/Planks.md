@@ -4,7 +4,7 @@
 
 **Planks**
 
-![Planks](../assets/Planks.jpg)
+[Planks](../assets/Planks.jpg)
 
 **General**
 

@@ -12,13 +12,13 @@
 
 **Transfer Pass**
 
-![Transfer Pass Main Menu](../assets/Transfer_Pass_Main_Menu.jpg)
+[Transfer Pass Main Menu](../assets/Transfer_Pass_Main_Menu.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Transfer Pass Location](../assets/Transfer_Pass_Location.png)
+[Transfer Pass Location](../assets/Transfer_Pass_Location.png)
 
-![TransferPass](../assets/TransferPass.png)
+[TransferPass](../assets/TransferPass.png)
 
 **Details**
 

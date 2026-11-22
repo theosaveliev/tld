@@ -17,7 +17,7 @@
 
 **Whiteout**
 
-![Challenge Whiteout](../assets/Challenge_Whiteout.png)
+[Challenge Whiteout](../assets/Challenge_Whiteout.png)
 
 **Details**
 

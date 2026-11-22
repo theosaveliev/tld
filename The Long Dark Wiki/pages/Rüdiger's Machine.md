@@ -4,19 +4,19 @@
 
 **Rüdiger's Machine**
 
-![Rüdiger's Machine](../assets/R%C3%BCdiger%27s_Machine.jpg)
+[Rüdiger's Machine](../assets/R%C3%BCdiger%27s_Machine.jpg)
 
 **Location**
 
-![Rüdiger's Machine Location](../assets/R%C3%BCdiger%27s_Machine_Location.png)
+[Rüdiger's Machine Location](../assets/R%C3%BCdiger%27s_Machine_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has an interior **Rüdiger's Machine** is the unofficial name given to a location found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The location can only be accessed by completing the [Buried Echoes](./Buried%20Echoes.md) Tale.
 

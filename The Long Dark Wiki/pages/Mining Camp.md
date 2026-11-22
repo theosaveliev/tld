@@ -11,11 +11,11 @@
 
 **Mining Camp**
 
-![20201209233317 1](../assets/20201209233317_1.jpg)
+[20201209233317 1](../assets/20201209233317_1.jpg)
 
 **Location**
 
-![Mining Camp Location](../assets/Mining_Camp_Location.png)
+[Mining Camp Location](../assets/Mining_Camp_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

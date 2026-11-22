@@ -4,11 +4,11 @@
 
 **Smoker's Cave**
 
-![Smoker's Cave](../assets/Smoker%27s_Cave.jpg)
+[Smoker's Cave](../assets/Smoker%27s_Cave.jpg)
 
 **Location**
 
-![Smoker's Cave Location](../assets/Smoker%27s_Cave_Location.png)
+[Smoker's Cave Location](../assets/Smoker%27s_Cave_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

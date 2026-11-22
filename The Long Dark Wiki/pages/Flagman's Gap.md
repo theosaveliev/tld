@@ -4,11 +4,11 @@
 
 **Flagman's Gap**
 
-![Flagman's Gap](../assets/Flagman%27s_Gap.jpg)
+[Flagman's Gap](../assets/Flagman%27s_Gap.jpg)
 
 **Location**
 
-![Flagman's Gap Location](../assets/Flagman%27s_Gap_Location.png)
+[Flagman's Gap Location](../assets/Flagman%27s_Gap_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

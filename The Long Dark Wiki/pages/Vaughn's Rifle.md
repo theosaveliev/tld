@@ -13,7 +13,7 @@
 
 **Vaughn's Rifle**
 
-![Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png)
+[Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
 
@@ -43,7 +43,7 @@
 
 **Item key:** GEAR\_Rifle\_Vaughns
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

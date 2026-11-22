@@ -12,7 +12,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cougar Meat (Cooked)**
 
-![Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png)
+[Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

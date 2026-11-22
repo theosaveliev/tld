@@ -11,7 +11,7 @@
 
 **Cooper's Blind**
 
-![Cooper's Blind](../assets/Cooper%27s_Blind.jpg)
+[Cooper's Blind](../assets/Cooper%27s_Blind.jpg)
 
 **Location**
 
@@ -21,7 +21,7 @@
 
 Type
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

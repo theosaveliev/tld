@@ -4,7 +4,7 @@
 
 **Canned Ham**
 
-![Canned Ham icon](../assets/Canned_Ham_icon.png)
+[Canned Ham icon](../assets/Canned_Ham_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
@@ -38,7 +38,7 @@
 
 **Item key:** GAMEPLAY\_CannedHam
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Last Quarrel**
 
-![Last Quarrel](../assets/Last_Quarrel.jpg)
+[Last Quarrel](../assets/Last_Quarrel.jpg)
 
 **Location**
 
-![Last Quarrel Location](../assets/Last_Quarrel_Location.png)
+[Last Quarrel Location](../assets/Last_Quarrel_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 

@@ -14,7 +14,7 @@
 
 **Crampons**
 
-![Crampons icon](../assets/Crampons_icon.png)
+[Crampons icon](../assets/Crampons_icon.png)
 
 **General**
 
@@ -24,17 +24,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)100%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)100%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
+**Protection:** [Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-5%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
 **Harvest:** Cannot Harvest
 

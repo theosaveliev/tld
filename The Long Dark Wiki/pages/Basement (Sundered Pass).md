@@ -4,7 +4,7 @@
 
 **Basement (Sundered Pass)**
 
-![Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg)
+[Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg)
 
 **Location**
 
@@ -12,7 +12,7 @@
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

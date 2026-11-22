@@ -6,7 +6,7 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The 
 
 **The Frozen Angler**
 
-![The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png)
+[The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

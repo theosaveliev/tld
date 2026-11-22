@@ -4,11 +4,11 @@
 
 **Pleasant Valley Farmstead**
 
-![Pleasant valley farmstead](../assets/Pleasant_valley_farmstead.png)
+[Pleasant valley farmstead](../assets/Pleasant_valley_farmstead.png)
 
 **Location**
 
-![Pleasant Valley Farmstead Location](../assets/Pleasant_Valley_Farmstead_Location.png)
+[Pleasant Valley Farmstead Location](../assets/Pleasant_Valley_Farmstead_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -16,11 +16,11 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

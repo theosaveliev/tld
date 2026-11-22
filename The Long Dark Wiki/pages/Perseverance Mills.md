@@ -17,13 +17,13 @@
 
 **Perseverance Mills**
 
-![Perseverance Mills](../assets/Perseverance_Mills.jpg)
+[Perseverance Mills](../assets/Perseverance_Mills.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Perseverance Mills in game map](../assets/Perseverance_Mills_in-game_map.png)
+[Perseverance Mills in game map](../assets/Perseverance_Mills_in-game_map.png)
 
 **Details**
 
@@ -35,7 +35,7 @@
 
 **Date Added:** 31 March 2026
 
-![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+[2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 

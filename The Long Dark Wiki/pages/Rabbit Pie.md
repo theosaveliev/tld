@@ -12,7 +12,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Rabbit Pie**
 
-![Rabbit Pie icon](../assets/Rabbit_Pie_icon.png)
+[Rabbit Pie icon](../assets/Rabbit_Pie_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 

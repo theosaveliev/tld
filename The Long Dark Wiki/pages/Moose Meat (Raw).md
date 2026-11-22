@@ -11,7 +11,7 @@
 
 **Moose Meat**
 
-![Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png)
+[Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png)
 
 **Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
 

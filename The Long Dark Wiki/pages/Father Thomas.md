@@ -17,7 +17,7 @@
 
 **Father Thomas**
 
-![Father thomas](../assets/Father_thomas.jpg)
+[Father thomas](../assets/Father_thomas.jpg)
 
 **Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

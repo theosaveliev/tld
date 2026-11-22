@@ -13,7 +13,7 @@ _For the raw version, see [Bear Meat](./Bear%20Meat%20%28Raw%29.md)._
 
 **Bear Meat (Cooked)**
 
-![Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png)
+[Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 

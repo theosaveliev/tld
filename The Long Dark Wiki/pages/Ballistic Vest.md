@@ -12,7 +12,7 @@
 
 **Ballistic Vest**
 
-![Ballistic Vest icon](../assets/Ballistic_Vest_icon.png)
+[Ballistic Vest icon](../assets/Ballistic_Vest_icon.png)
 
 **General**
 
@@ -24,17 +24,17 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)50%
+**Protection:** [Protection icon](../assets/Protection_icon.png)50%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-40%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-40%
 
 **Harvest:** Cannot Harvest
 

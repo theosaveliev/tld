@@ -25,7 +25,7 @@
 
 **Escape the Darkwalker**
 
-![Event NowhereToHide](../assets/Event_NowhereToHide.png)
+[Event NowhereToHide](../assets/Event_NowhereToHide.png)
 
 **Details**
 
@@ -173,9 +173,9 @@ Open Regions (Multiple region entrances/exits)
 
 | Icon | Name | Requirements | Benefit |
 | --- | --- | --- | --- |
-| ![Badge Umbra](../assets/Badge_Umbra.png) | Escape the Darkwalker - Umbra Badge (2020) | Complete the Escape the Darkwalker challenge. _(Previously: Survive for 60 minutes (real-time) in a single Escape the Darkwalker game.)_ | Unlocks challenge badge. |
-| ![Badge Deadly Dreamer](../assets/Badge_Deadly_Dreamer.png) | Escape the Darkwalker - Deadly Dreamer Badge (2020) | Collect 6 'Escape the Darkwalker Diary Pages' in a single game. | Unlocks challenge badge. |
-| ![Badge feat nightWalker](../assets/Badge_feat_nightWalker.png) | Darkwalker | Complete the Escape the Darkwalker Challenge (2021) | Unlocks feat. Less fatigued at night, more fatigued during the day. |
+| [Badge Umbra](../assets/Badge_Umbra.png) | Escape the Darkwalker - Umbra Badge (2020) | Complete the Escape the Darkwalker challenge. _(Previously: Survive for 60 minutes (real-time) in a single Escape the Darkwalker game.)_ | Unlocks challenge badge. |
+| [Badge Deadly Dreamer](../assets/Badge_Deadly_Dreamer.png) | Escape the Darkwalker - Deadly Dreamer Badge (2020) | Collect 6 'Escape the Darkwalker Diary Pages' in a single game. | Unlocks challenge badge. |
+| [Badge feat nightWalker](../assets/Badge_feat_nightWalker.png) | Darkwalker | Complete the Escape the Darkwalker Challenge (2021) | Unlocks feat. Less fatigued at night, more fatigued during the day. |
 
 ## List of Diary Page Contents and Loot Next to Each Green Campfire
 

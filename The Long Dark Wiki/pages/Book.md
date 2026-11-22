@@ -11,7 +11,7 @@
 
 **Book**
 
-![Book icon](../assets/Book_icon.png)
+[Book icon](../assets/Book_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 
@@ -45,11 +45,11 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 **Statistics**
 
-**Duration:** ![Fire Starting](../assets/Fire_Starting.png) 18 minutes
+**Duration:** [Fire Starting](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 35%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 35%
 
-**Heat:** ![Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 

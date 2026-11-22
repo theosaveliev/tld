@@ -4,7 +4,7 @@
 
 **Jack-o-Lantern**
 
-![Jack o Lantern](../assets/Jack-o-Lantern.png)
+[Jack o Lantern](../assets/Jack-o-Lantern.png)
 
 **Release:** 28 October 2016
 

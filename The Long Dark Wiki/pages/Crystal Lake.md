@@ -4,11 +4,11 @@
 
 **Crystal Lake**
 
-![Crystal Lake](../assets/Crystal_Lake.png)
+[Crystal Lake](../assets/Crystal_Lake.png)
 
 **Location**
 
-![Crystal Lake Location](../assets/Crystal_Lake_Location.png)
+[Crystal Lake Location](../assets/Crystal_Lake_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

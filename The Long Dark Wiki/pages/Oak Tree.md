@@ -17,7 +17,7 @@
 
 **Oak Tree**
 
-![Oak tree in Mystery Lake on a foggy day](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png)
+[Oak tree in Mystery Lake on a foggy day](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png)
 
 **Release:** 2.10
 

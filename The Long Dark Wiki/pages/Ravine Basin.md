@@ -4,11 +4,11 @@
 
 **Ravine Basin**
 
-![Ravine Basin](../assets/Ravine_Basin.jpg)
+[Ravine Basin](../assets/Ravine_Basin.jpg)
 
 **Location**
 
-![Ravine Basin Location](../assets/Ravine_Basin_Location.png)
+[Ravine Basin Location](../assets/Ravine_Basin_Location.png)
 
 **Region:** [The Ravine](./The%20Ravine.md)
 

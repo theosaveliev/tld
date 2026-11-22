@@ -11,7 +11,7 @@
 
 **Stump Remover**
 
-![Stump Remover icon](../assets/Stump_Remover_icon.png)
+[Stump Remover icon](../assets/Stump_Remover_icon.png)
 
 **General**
 
@@ -21,7 +21,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
 
 > “**An herbicide, this chemical can also be used to Craft Gunpowder.**”
 >

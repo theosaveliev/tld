@@ -4,11 +4,11 @@
 
 **Low Blind**
 
-![20170304103515 1](../assets/20170304103515_1.jpg)
+[20170304103515 1](../assets/20170304103515_1.jpg)
 
 **Location**
 
-![Low Blind Location](../assets/Low_Blind_Location.png)
+[Low Blind Location](../assets/Low_Blind_Location.png)
 
 **Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 

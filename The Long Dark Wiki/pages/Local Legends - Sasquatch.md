@@ -4,7 +4,7 @@
 
 **Local Legends - Sasquatch**
 
-![Local Legends Sasquatch icon](../assets/Local_Legends_-_Sasquatch_icon.png)
+[Local Legends Sasquatch icon](../assets/Local_Legends_-_Sasquatch_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

@@ -12,7 +12,7 @@
 
 **Flare Shell**
 
-![Flare Shell icon](../assets/Flare_Shell_icon.png)
+[Flare Shell icon](../assets/Flare_Shell_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 

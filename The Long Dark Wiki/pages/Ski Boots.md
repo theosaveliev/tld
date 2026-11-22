@@ -4,7 +4,7 @@
 
 **Ski Boots**
 
-![Ski Boots icon](../assets/Ski_Boots_icon.png)
+[Ski Boots icon](../assets/Ski_Boots_icon.png)
 
 **General**
 
@@ -12,17 +12,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)10%
+**Protection:** [Protection icon](../assets/Protection_icon.png)10%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-20%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-20%
 
 **Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
 

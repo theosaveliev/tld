@@ -4,7 +4,7 @@
 
 **Go! Energy Drink**
 
-![Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png)
+[Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png)
 
 **Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
 

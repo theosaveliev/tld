@@ -4,7 +4,7 @@
 
 **Exploration Game**
 
-![Exploration Game icon](../assets/Exploration_Game_icon.png)
+[Exploration Game icon](../assets/Exploration_Game_icon.png)
 
 **Description:** Visit every interior location in both Mystery Lake and Coastal Highway (single game)
 

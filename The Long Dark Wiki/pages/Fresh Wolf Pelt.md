@@ -11,7 +11,7 @@
 
 **Fresh Wolf Pelt**
 
-![Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png)
+[Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png)
 
 **Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
 

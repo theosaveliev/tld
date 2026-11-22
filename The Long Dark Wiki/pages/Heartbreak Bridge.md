@@ -4,11 +4,11 @@
 
 **Heartbreak Bridge**
 
-![Heartbreak Bridge](../assets/Heartbreak_Bridge.jpg)
+[Heartbreak Bridge](../assets/Heartbreak_Bridge.jpg)
 
 **Location**
 
-![Heartbreak Bridge Location](../assets/Heartbreak_Bridge_Location.png)
+[Heartbreak Bridge Location](../assets/Heartbreak_Bridge_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

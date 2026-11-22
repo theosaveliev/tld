@@ -4,7 +4,7 @@
 
 **Letter**
 
-![Letter (Car) icon](../assets/Letter_%28Car%29_icon.png)
+[Letter (Car) icon](../assets/Letter_%28Car%29_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

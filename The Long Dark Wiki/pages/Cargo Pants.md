@@ -4,7 +4,7 @@
 
 **Cargo Pants**
 
-![Cargo Pants icon](../assets/Cargo_Pants_icon.png)
+[Cargo Pants icon](../assets/Cargo_Pants_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)3%
+**Protection:** [Protection icon](../assets/Protection_icon.png)3%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-1%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
 
 **Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
 

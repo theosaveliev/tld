@@ -11,11 +11,11 @@
 
 **Bunker Omega**
 
-![Bunker Omega outside](../assets/Bunker_Omega_outside.png)
+[Bunker Omega outside](../assets/Bunker_Omega_outside.png)
 
 **Location**
 
-![Bunker Omega Location](../assets/Bunker_Omega_Location.png)
+[Bunker Omega Location](../assets/Bunker_Omega_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -23,11 +23,11 @@
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

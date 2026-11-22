@@ -4,11 +4,11 @@
 
 **Twin Sisters Falls**
 
-![TwinSisterFallsRainbow](../assets/TwinSisterFallsRainbow.png)
+[TwinSisterFallsRainbow](../assets/TwinSisterFallsRainbow.png)
 
 **Location**
 
-![Twin Sisters Falls Location](../assets/Twin_Sisters_Falls_Location.png)
+[Twin Sisters Falls Location](../assets/Twin_Sisters_Falls_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

@@ -4,7 +4,7 @@
 
 **Old Substation Work Memo**
 
-![Old Substation Work Memo icon](../assets/Old_Substation_Work_Memo_icon.png)
+[Old Substation Work Memo icon](../assets/Old_Substation_Work_Memo_icon.png)
 
 **Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
 

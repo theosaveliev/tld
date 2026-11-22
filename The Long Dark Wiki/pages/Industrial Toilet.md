@@ -4,7 +4,7 @@
 
 **Industrial Toilet**
 
-![Industrial Toilet](../assets/Industrial_Toilet.png)
+[Industrial Toilet](../assets/Industrial_Toilet.png)
 
 **General**
 

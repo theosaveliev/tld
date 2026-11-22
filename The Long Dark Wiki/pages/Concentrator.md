@@ -4,11 +4,11 @@
 
 **Concentrator**
 
-![Concentrator](../assets/Concentrator.png)
+[Concentrator](../assets/Concentrator.png)
 
 **Location**
 
-![Concentrator Location](../assets/Concentrator_Location.png)
+[Concentrator Location](../assets/Concentrator_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
@@ -16,9 +16,9 @@
 
 Type
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

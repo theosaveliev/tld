@@ -16,15 +16,15 @@
 
 {| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Content Portals 
 
-![Regions](../assets/Regions.png)
+[Regions](../assets/Regions.png)
 
-![Locations](../assets/Locations.png)
+[Locations](../assets/Locations.png)
 
-![Afflictions](../assets/Afflictions.png)
+[Afflictions](../assets/Afflictions.png)
 
-![New characters](../assets/New_characters.png)
+[New characters](../assets/New_characters.png)
 
-![New wildlife](../assets/New_wildlife.png)
+[New wildlife](../assets/New_wildlife.png)
 
 [Regions](./Region.md)
 
@@ -36,15 +36,15 @@
 
 [Wildlife](./Wildlife.md)
 
-![Food](../assets/Food.png)
+[Food](../assets/Food.png)
 
-![Clothing](../assets/Clothing.png)
+[Clothing](../assets/Clothing.png)
 
-![First Aid](../assets/First_Aid.png)
+[First Aid](../assets/First_Aid.png)
 
-![Tools](../assets/Tools.png)
+[Tools](../assets/Tools.png)
 
-![Materials2](../assets/Materials2.png)
+[Materials2](../assets/Materials2.png)
 
 [Food and Drink](./Food%20And%20Drink.md)
 

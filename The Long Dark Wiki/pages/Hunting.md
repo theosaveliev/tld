@@ -195,21 +195,21 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 
 | Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | None |
-| ![Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | High |
-| ![Improvised Knife icon](../assets/Improvised_Knife_icon.png) | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | Very High |
-| ![Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
-| ![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
-| ![Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | Low |
-| ![Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture |  |  |  |  |
-| ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | High |
-| ![Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
-| ![Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |
-| ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | Very Low |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | Low |
-| ![Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | Low |
-| ![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | Low |
-| ![Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | Low |
+| [Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | None |
+| [Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | High |
+| [Improvised Knife icon](../assets/Improvised_Knife_icon.png) | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | Very High |
+| [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
+| [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
+| [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | Low |
+| [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture |  |  |  |  |
+| [Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | High |
+| [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
+| [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |
+| [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | Very Low |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | Low |
+| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | Low |
+| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | Low |
+| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | Low |
 
 Knives with the Puncture type will lead a Wolf to bleed after the Struggle, cause it to constantly flee and run around until its movements slows down, eventually causing it to die. The Heavy Hammer and the Cougar Claw Knife in particular are well known for causing high amounts of damage, usually killing the Wolf during the Struggle before the bar is full. Revolvers can either kill or scare the Wolf off of you, but are more unreliable methods of killing a Wolf during a Struggle. Other tools generally do not hurt Wolves as badly as Knives and the Heavy Hammer (affectionately nicknamed "Wolf Bonker" by players).
 
@@ -286,10 +286,10 @@ Below is an example of the Critical Hit chance for a [Wolf](./Wolf.md).
 
 | Weapon — Head | Weapon — Neck | Critical Hit Chance — Torso | Critical Hit Chance — Hips | Critical Hit Chance — Limb | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
 ### Graze shots
 

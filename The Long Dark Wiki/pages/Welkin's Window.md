@@ -4,11 +4,11 @@
 
 **Welkin's Window**
 
-![Welkin's Window](../assets/Welkin%27s_Window.png)
+[Welkin's Window](../assets/Welkin%27s_Window.png)
 
 **Location**
 
-![Welkin's Window Location](../assets/Welkin%27s_Window_Location.png)
+[Welkin's Window Location](../assets/Welkin%27s_Window_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

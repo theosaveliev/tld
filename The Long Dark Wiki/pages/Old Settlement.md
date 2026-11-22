@@ -13,11 +13,11 @@
 
 **Old Settlement**
 
-![Old Settlement Close](../assets/Old_Settlement_Close.jpg)
+[Old Settlement Close](../assets/Old_Settlement_Close.jpg)
 
 **Location**
 
-![Old Settlement Location](../assets/Old_Settlement_Location.png)
+[Old Settlement Location](../assets/Old_Settlement_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

@@ -11,7 +11,7 @@
 
 **Cash**
 
-![Cash icon](../assets/Cash_icon.png)
+[Cash icon](../assets/Cash_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 
@@ -45,7 +45,7 @@ Cash fills the role of tinder, which is used for Fire Starting. Cash is the ligh
 
 **Statistics**
 
-**Start Chance:** ![Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
 ## Gallery
 

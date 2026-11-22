@@ -21,7 +21,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Shotgun**
 
-![Shotgun icon](../assets/Shotgun_icon.png)
+[Shotgun icon](../assets/Shotgun_icon.png)
 
 **Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 

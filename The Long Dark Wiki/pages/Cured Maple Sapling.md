@@ -4,7 +4,7 @@
 
 **Cured Maple Sapling**
 
-![Cured Maple Sapling icon](../assets/Cured_Maple_Sapling_icon.png)
+[Cured Maple Sapling icon](../assets/Cured_Maple_Sapling_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 

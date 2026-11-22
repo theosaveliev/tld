@@ -4,11 +4,11 @@
 
 **Miserable Haunt**
 
-![Miserable Haunt](../assets/Miserable_Haunt.jpg)
+[Miserable Haunt](../assets/Miserable_Haunt.jpg)
 
 **Location**
 
-![Miserable Haunt Location](../assets/Miserable_Haunt_Location.png)
+[Miserable Haunt Location](../assets/Miserable_Haunt_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

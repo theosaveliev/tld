@@ -16,7 +16,7 @@
 
 **Lena Vertasky**
 
-![Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png)
+[Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png)
 
 **Release:** 2.03
 

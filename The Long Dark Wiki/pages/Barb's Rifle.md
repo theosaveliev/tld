@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Barb's Rifle**
 
-![Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png)
+[Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
 

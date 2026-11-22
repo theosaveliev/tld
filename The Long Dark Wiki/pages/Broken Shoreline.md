@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Broken Shoreline**
 
-![Broken Shoreline](../assets/Broken_Shoreline.jpg)
+[Broken Shoreline](../assets/Broken_Shoreline.jpg)
 
 **Location**
 
-![Broken Shoreline Location](../assets/Broken_Shoreline_Location.png)
+[Broken Shoreline Location](../assets/Broken_Shoreline_Location.png)
 
 **Region:** [Port Remnant](./Port%20Remnant.md)
 

@@ -16,7 +16,7 @@
 
 **Ammunition Forge**
 
-![Ammunition Forge](../assets/Ammunition_Forge.png)
+[Ammunition Forge](../assets/Ammunition_Forge.png)
 
 **Release:** 9 December 2019
 

@@ -4,11 +4,11 @@
 
 **Broad Falls**
 
-![BroadFallsCloseup 1080p](../assets/BroadFallsCloseup_1080p.png)
+[BroadFallsCloseup 1080p](../assets/BroadFallsCloseup_1080p.png)
 
 **Location**
 
-![Broad Falls Location](../assets/Broad_Falls_Location.png)
+[Broad Falls Location](../assets/Broad_Falls_Location.png)
 
 **Region:** [Ash Canyon](./Ash%20Canyon.md)
 

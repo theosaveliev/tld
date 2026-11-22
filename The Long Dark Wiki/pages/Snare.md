@@ -11,7 +11,7 @@
 
 **Snare**
 
-![Snare icon](../assets/Snare_icon.png)
+[Snare icon](../assets/Snare_icon.png)
 
 **General**
 
@@ -21,7 +21,7 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
 **Harvest:** 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md)
 

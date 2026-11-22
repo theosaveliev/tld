@@ -4,7 +4,7 @@
 
 **Foreman's Site Report, Day 45**
 
-![Foreman's Site Report Day 45 icon](../assets/Foreman%27s_Site_Report_Day_45_icon.png)
+[Foreman's Site Report Day 45 icon](../assets/Foreman%27s_Site_Report_Day_45_icon.png)
 
 **Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
 

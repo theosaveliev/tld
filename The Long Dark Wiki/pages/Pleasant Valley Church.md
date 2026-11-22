@@ -4,7 +4,7 @@
 
 **Pleasant Valley Church**
 
-![Pleasant Valley Church](../assets/Pleasant_Valley_Church.jpg)
+[Pleasant Valley Church](../assets/Pleasant_Valley_Church.jpg)
 
 **Location**
 
@@ -16,7 +16,7 @@
 
 Type
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has an interior The **Pleasant Valley Church** is a church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md).
 

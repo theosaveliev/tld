@@ -11,7 +11,7 @@
 
 **Rabbit (Raw)**
 
-![Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png)
+[Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png)
 
 **Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
 

@@ -4,7 +4,7 @@
 
 **Note (Survival)**
 
-![Note (Survival) icon](../assets/Note_%28Survival%29_icon.png)
+[Note (Survival) icon](../assets/Note_%28Survival%29_icon.png)
 
 **Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
 

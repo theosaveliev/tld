@@ -4,11 +4,11 @@
 
 **Cove**
 
-![Cove](../assets/Cove.png)
+[Cove](../assets/Cove.png)
 
 **Location**
 
-![Cove Location](../assets/Cove_Location.png)
+[Cove Location](../assets/Cove_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

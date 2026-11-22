@@ -15,13 +15,13 @@
 
 **Ash Canyon**
 
-![Ash Canyon](../assets/Ash_Canyon.jpg)
+[Ash Canyon](../assets/Ash_Canyon.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Ash Canyon Location](../assets/Ash_Canyon_Location.png)
+[Ash Canyon Location](../assets/Ash_Canyon_Location.png)
 
-![Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png)
+[Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png)
 
 **Details**
 

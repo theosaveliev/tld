@@ -23,13 +23,13 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 4**
 
-![Railyard (Track Section 4 West)](../assets/Railyard_%28Track_Section_4_West%29.jpg)
+[Railyard (Track Section 4 West)](../assets/Railyard_%28Track_Section_4_West%29.jpg)
 
 **Location on [Cauldron Island](./Cauldron%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Anna Island Track Section 4 Map](../assets/Anna_Island_Track_Section_4_Map.png)
+[Anna Island Track Section 4 Map](../assets/Anna_Island_Track_Section_4_Map.png)
 
 **Details**
 

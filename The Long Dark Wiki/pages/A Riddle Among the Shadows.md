@@ -15,7 +15,7 @@
 
 **A Riddle Among the Shadows**
 
-![Forest Talker Letter](../assets/Forest_Talker_Letter.jpg)
+[Forest Talker Letter](../assets/Forest_Talker_Letter.jpg)
 
 Episode
 

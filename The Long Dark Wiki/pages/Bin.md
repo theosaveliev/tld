@@ -4,7 +4,7 @@
 
 **Bin**
 
-![Bin Wintermute](../assets/Bin_Wintermute.png)
+[Bin Wintermute](../assets/Bin_Wintermute.png)
 
 **Story item:** Yes
 

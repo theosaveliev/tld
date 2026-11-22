@@ -1,10 +1,10 @@
 # Cargo Container
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
 
 **Cargo Container**
 
-![Cargo container new](../assets/Cargo_container_new.jpg)
+[Cargo container new](../assets/Cargo_container_new.jpg)
 
 **Release:** Dec 2015
 

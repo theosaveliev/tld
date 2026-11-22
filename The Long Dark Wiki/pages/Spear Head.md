@@ -4,7 +4,7 @@
 
 **Spear Head**
 
-![Spear Head icon](../assets/Spear_Head_icon.png)
+[Spear Head icon](../assets/Spear_Head_icon.png)
 
 **Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

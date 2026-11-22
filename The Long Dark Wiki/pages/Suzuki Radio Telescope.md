@@ -16,11 +16,11 @@
 
 **Suzuki Radio Telescope**
 
-![Suzuki Radio Telescope](../assets/Suzuki_Radio_Telescope.jpg)
+[Suzuki Radio Telescope](../assets/Suzuki_Radio_Telescope.jpg)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Details**
 

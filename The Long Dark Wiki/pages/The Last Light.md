@@ -4,7 +4,7 @@
 
 **The Last Light**
 
-![The Last Light icon](../assets/The_Last_Light_icon.png)
+[The Last Light icon](../assets/The_Last_Light_icon.png)
 
 **Description:** Reunite with Astrid and deliver the Hardcase.
 

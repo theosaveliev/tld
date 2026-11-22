@@ -4,7 +4,7 @@
 
 **Many Falls Vista**
 
-![ManyFallsVistaView](../assets/ManyFallsVistaView.png)
+[ManyFallsVistaView](../assets/ManyFallsVistaView.png)
 
 **Location**
 

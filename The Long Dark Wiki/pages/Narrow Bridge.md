@@ -4,11 +4,11 @@
 
 **Narrow Bridge**
 
-![Narrow Bridge](../assets/Narrow_Bridge.jpg)
+[Narrow Bridge](../assets/Narrow_Bridge.jpg)
 
 **Location**
 
-![Narrow Bridge Location](../assets/Narrow_Bridge_Location.png)
+[Narrow Bridge Location](../assets/Narrow_Bridge_Location.png)
 
 Region
 

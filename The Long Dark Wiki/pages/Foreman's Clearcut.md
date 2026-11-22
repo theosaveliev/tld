@@ -4,11 +4,11 @@
 
 **Foreman's Clearcut**
 
-![Foreman's Clearcut](../assets/Foreman%27s_Clearcut.jpg)
+[Foreman's Clearcut](../assets/Foreman%27s_Clearcut.jpg)
 
 **Location**
 
-![Foreman's Clearcut Location](../assets/Foreman%27s_Clearcut_Location.png)
+[Foreman's Clearcut Location](../assets/Foreman%27s_Clearcut_Location.png)
 
 Region
 

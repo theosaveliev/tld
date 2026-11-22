@@ -16,7 +16,7 @@
 
 **The Grey Mother (Predux)**
 
-![The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg)
+[The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

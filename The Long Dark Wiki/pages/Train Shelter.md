@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Train Shelter**
 
-![Train Shelter](../assets/Train_Shelter.jpg)
+[Train Shelter](../assets/Train_Shelter.jpg)
 
 **Location**
 
-![Train Shelter Location](../assets/Train_Shelter_Location.png)
+[Train Shelter Location](../assets/Train_Shelter_Location.png)
 
 **Region:** [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
 
@@ -26,7 +26,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md)
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

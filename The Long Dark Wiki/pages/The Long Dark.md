@@ -35,7 +35,7 @@
 
 **The Long Dark**
 
-![The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg)
+[The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg)
 
 **Developer(s):** [Hinterland Games](./Hinterland%20Studio%20Inc..md)
 

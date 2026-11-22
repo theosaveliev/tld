@@ -12,7 +12,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Crank Light**
 
-![Crank Light icon](../assets/Crank_Light_icon.png)
+[Crank Light icon](../assets/Crank_Light_icon.png)
 
 **Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 

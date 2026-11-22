@@ -11,7 +11,7 @@
 
 **Newsprint Roll**
 
-![Newsprint Roll icon](../assets/Newsprint_Roll_icon.png)
+[Newsprint Roll icon](../assets/Newsprint_Roll_icon.png)
 
 **General**
 
@@ -21,7 +21,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Newsprint Roll. Can be used as tinder.**”
 >

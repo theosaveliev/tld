@@ -14,7 +14,7 @@
 
 **Gold Nugget**
 
-![Gold Nugget icon](../assets/Gold_Nugget_icon.png)
+[Gold Nugget icon](../assets/Gold_Nugget_icon.png)
 
 **Wintermute:** Yes
 
@@ -30,13 +30,13 @@
 
 **Item key:** GAMEPLAY\_Ep4GoldNugget
 
-![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+[2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
 **Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
 
 {\| class="messagebox"
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

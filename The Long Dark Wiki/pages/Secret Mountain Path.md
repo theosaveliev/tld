@@ -4,11 +4,11 @@
 
 **Secret Mountain Path**
 
-![SS BI secret mountaion path002](../assets/SS-BI-secret_mountaion_path002.jpg)
+[SS BI secret mountaion path002](../assets/SS-BI-secret_mountaion_path002.jpg)
 
 **Location**
 
-![Secret Mountain Path Location](../assets/Secret_Mountain_Path_Location.png)
+[Secret Mountain Path Location](../assets/Secret_Mountain_Path_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -16,7 +16,7 @@
 
 Type
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

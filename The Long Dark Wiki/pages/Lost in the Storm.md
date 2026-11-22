@@ -4,7 +4,7 @@
 
 **Lost in the Storm**
 
-![Lost in the Storm icon](../assets/Lost_in_the_Storm_icon.png)
+[Lost in the Storm icon](../assets/Lost_in_the_Storm_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

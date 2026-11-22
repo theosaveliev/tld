@@ -4,7 +4,7 @@
 
 **Basin**
 
-![Basin](../assets/Basin.jpg)
+[Basin](../assets/Basin.jpg)
 
 **Story item:** Yes
 

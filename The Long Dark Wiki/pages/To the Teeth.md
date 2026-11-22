@@ -11,7 +11,7 @@
 
 **To the Teeth**
 
-![To the Teeth icon](../assets/To_the_Teeth_icon.png)
+[To the Teeth icon](../assets/To_the_Teeth_icon.png)
 
 **Description:** Collect 7 Expansion Firearm variants (single game).
 

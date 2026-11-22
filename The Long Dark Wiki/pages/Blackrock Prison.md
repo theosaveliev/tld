@@ -13,11 +13,11 @@
 
 **Blackrock Prison**
 
-![Blackrock Region](../assets/Blackrock_Region.jpg)
+[Blackrock Region](../assets/Blackrock_Region.jpg)
 
 **Location**
 
-![Blackrock Prison Location](../assets/Blackrock_Prison_Location.png)
+[Blackrock Prison Location](../assets/Blackrock_Prison_Location.png)
 
 Region
 

@@ -4,7 +4,7 @@
 
 **Something Wicked**
 
-![Something Wicked icon](../assets/Something_Wicked_icon.png)
+[Something Wicked icon](../assets/Something_Wicked_icon.png)
 
 **Description:** Survive 1000 days in a single Survival Mode game without Cheating Death.
 

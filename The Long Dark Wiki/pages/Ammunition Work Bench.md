@@ -1,6 +1,6 @@
 # Ammunition Work Bench
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
 
 **Contents**
 
@@ -16,7 +16,7 @@
 
 **Ammunition Work Bench**
 
-![Ammunition Work Bench](../assets/Ammunition_Work_Bench.png)
+[Ammunition Work Bench](../assets/Ammunition_Work_Bench.png)
 
 **Release:** 9 December 2019
 

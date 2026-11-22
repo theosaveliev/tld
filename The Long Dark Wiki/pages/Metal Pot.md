@@ -4,7 +4,7 @@
 
 **Metal Pot**
 
-![Metal Pot](../assets/Metal_Pot.jpg)
+[Metal Pot](../assets/Metal_Pot.jpg)
 
 **General**
 

@@ -4,7 +4,7 @@
 
 **Handwritten Note**
 
-![Handwritten Note (3) icon](../assets/Handwritten_Note_%283%29_icon.png)
+[Handwritten Note (3) icon](../assets/Handwritten_Note_%283%29_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

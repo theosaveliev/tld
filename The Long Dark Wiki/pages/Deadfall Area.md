@@ -4,11 +4,11 @@
 
 **Deadfall Area**
 
-![Deadfall area](../assets/Deadfall_area.jpg)
+[Deadfall area](../assets/Deadfall_area.jpg)
 
 **Location**
 
-![Deadfall Area Location](../assets/Deadfall_Area_Location.png)
+[Deadfall Area Location](../assets/Deadfall_Area_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

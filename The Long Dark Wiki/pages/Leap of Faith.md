@@ -4,7 +4,7 @@
 
 **Leap of Faith**
 
-![Leap of Faith icon](../assets/Leap_of_Faith_icon.png)
+[Leap of Faith icon](../assets/Leap_of_Faith_icon.png)
 
 **Description:** Escape Blackrock and Complete Episode Four.
 

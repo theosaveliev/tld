@@ -14,7 +14,7 @@
 
 **Prepared Rose Hips**
 
-![Prepared Rose Hips icon](../assets/Prepared_Rose_Hips_icon.png)
+[Prepared Rose Hips icon](../assets/Prepared_Rose_Hips_icon.png)
 
 **General**
 
@@ -24,7 +24,7 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
 
 > “**Rose hips that are ready to be boiled to make a healing natural tea.**”
 >

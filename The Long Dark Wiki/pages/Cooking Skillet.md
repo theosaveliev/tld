@@ -19,7 +19,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cooking Skillet**
 
-![Cooking Skillet icon](../assets/Cooking_Skillet_icon.png)
+[Cooking Skillet icon](../assets/Cooking_Skillet_icon.png)
 
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
@@ -97,38 +97,38 @@ These recipes can only be created with a Cooking Skillet, and are available to c
 
 | Image | Recipe Name | Weight | Cooking Times | Cooking Level |
 | --- | --- | --- | --- | --- |
-| ![Acorn Pancakes icon](../assets/Acorn_Pancakes_icon.png) | [Acorn Pancakes](./Acorn%20Pancakes.md) | 0.10 kg | 12 min | 2 |
-| ![Pancakes icon](../assets/Pancakes_icon.png) | [Pancakes](./Pancakes.md) | 0.10 kg | 12 min | 2 |
-| ![Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
-| ![Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) | [Ptarmigan Pie](./Ptarmigan%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
-| ![Rabbit Pie icon](../assets/Rabbit_Pie_icon.png) | [Rabbit Pie](./Rabbit%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
-| ![Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
-| ![Venison Pie icon](../assets/Venison_Pie_icon.png) | [Venison Pie](./Venison%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
+| [Acorn Pancakes icon](../assets/Acorn_Pancakes_icon.png) | [Acorn Pancakes](./Acorn%20Pancakes.md) | 0.10 kg | 12 min | 2 |
+| [Pancakes icon](../assets/Pancakes_icon.png) | [Pancakes](./Pancakes.md) | 0.10 kg | 12 min | 2 |
+| [Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
+| [Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) | [Ptarmigan Pie](./Ptarmigan%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
+| [Rabbit Pie icon](../assets/Rabbit_Pie_icon.png) | [Rabbit Pie](./Rabbit%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
+| [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
+| [Venison Pie icon](../assets/Venison_Pie_icon.png) | [Venison Pie](./Venison%20Pie.md) (3) | 0.15 kg | 1 hr 20 min | 3 |
 
 These recipes can be cooked with either a Cooking Skillet or [Cooking Pot](./Cooking%20Pot.md):
 
 | Image | Recipe Name | Weight | Cooking Times | Cooking Level |
 | --- | --- | --- | --- | --- |
-| ![Cooking Oil icon](../assets/Cooking_Oil_icon.png) | [Cooking Oil](./Cooking%20Oil.md) | 0.75 kg | 24 min | 1 |
+| [Cooking Oil icon](../assets/Cooking_Oil_icon.png) | [Cooking Oil](./Cooking%20Oil.md) | 0.75 kg | 24 min | 1 |
 
 These recipes can be cooked with a Cooking Skillet, but do not require one:
 
 | Image | Recipe Name | Weight | Cooking Times | Cooking Level |
 | --- | --- | --- | --- | --- |
-| ![Acorn Bannock icon](../assets/Acorn_Bannock_icon.png) | [Acorn Bannock](./Acorn%20Bannock.md) (2) | 0.10 kg | 40 min | 2 |
-| ![Bannock icon](../assets/Bannock_icon.png) | [Bannock](./Bannock.md) (2) | 0.10 kg | 40 min | 2 |
+| [Acorn Bannock icon](../assets/Acorn_Bannock_icon.png) | [Acorn Bannock](./Acorn%20Bannock.md) (2) | 0.10 kg | 40 min | 2 |
+| [Bannock icon](../assets/Bannock_icon.png) | [Bannock](./Bannock.md) (2) | 0.10 kg | 40 min | 2 |
 
 These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Cards.md) are found:
 
 | Image | Recipe Name | Weight | Cooking Times | Cooking Level |
 | --- | --- | --- | --- | --- |
-| ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 0.20 kg | 56 min | 5 |
-| ![Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) (4) | 0.053 kg | 25 min | 5 |
-| ![Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | 0.30 kg | 80 min | 5 |
-| ![Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 0.20 kg | 10 min | 4 |
-| ![Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) | [Pemmican Bar](./Pemmican%20Bar.md) (4) | 0.25 kg | 40 min | 5 |
-| ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
-| ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
+| [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 0.20 kg | 56 min | 5 |
+| [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) (4) | 0.053 kg | 25 min | 5 |
+| [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | 0.30 kg | 80 min | 5 |
+| [Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 0.20 kg | 10 min | 4 |
+| [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) | [Pemmican Bar](./Pemmican%20Bar.md) (4) | 0.25 kg | 40 min | 5 |
+| [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
+| [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
 
 ## Update history
 

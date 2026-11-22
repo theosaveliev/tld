@@ -4,11 +4,11 @@
 
 **Three Strikes Farmstead**
 
-![SS PV 3strike 001](../assets/SS-PV-3strike-001.jpg)
+[SS PV 3strike 001](../assets/SS-PV-3strike-001.jpg)
 
 **Location**
 
-![Three Strikes Farmstead Location](../assets/Three_Strikes_Farmstead_Location.png)
+[Three Strikes Farmstead Location](../assets/Three_Strikes_Farmstead_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

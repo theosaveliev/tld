@@ -4,7 +4,7 @@
 
 **Cured Rabbit Pelt**
 
-![Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png)
+[Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 

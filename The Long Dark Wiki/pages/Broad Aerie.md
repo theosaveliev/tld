@@ -4,11 +4,11 @@
 
 **Broad Aerie**
 
-![Broad Aerie](../assets/Broad_Aerie.jpg)
+[Broad Aerie](../assets/Broad_Aerie.jpg)
 
 **Location**
 
-![Broad Aerie Location](../assets/Broad_Aerie_Location.png)
+[Broad Aerie Location](../assets/Broad_Aerie_Location.png)
 
 **Region:** [Transfer Pass](./Transfer%20Pass.md)
 

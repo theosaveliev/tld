@@ -4,7 +4,7 @@
 
 **Airline Food - Chicken**
 
-![Airline Food Chicken icon](../assets/Airline_Food_-_Chicken_icon.png)
+[Airline Food Chicken icon](../assets/Airline_Food_-_Chicken_icon.png)
 
 **Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
 

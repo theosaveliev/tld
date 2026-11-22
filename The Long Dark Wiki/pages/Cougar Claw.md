@@ -4,7 +4,7 @@
 
 **Cougar Claw**
 
-![Cougar Claw icon](../assets/Cougar_Claw_icon.png)
+[Cougar Claw icon](../assets/Cougar_Claw_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 
@@ -30,7 +30,7 @@
 
 **Item key:** GAMEPLAY\_CougarClaw
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+[Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

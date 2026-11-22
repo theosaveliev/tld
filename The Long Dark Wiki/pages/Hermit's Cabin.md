@@ -11,11 +11,11 @@
 
 **Hermit's Cabin**
 
-![Hermits cabin](../assets/Hermits_cabin.jpg)
+[Hermits cabin](../assets/Hermits_cabin.jpg)
 
 **Location**
 
-![Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png)
+[Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

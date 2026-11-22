@@ -12,7 +12,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Damaged Track**
 
-![Damaged Tracks](../assets/Damaged_Tracks.jpg)
+[Damaged Tracks](../assets/Damaged_Tracks.jpg)
 
 **General**
 

@@ -4,7 +4,7 @@
 
 **Quick Draw**
 
-![Quick Draw icon](../assets/Quick_Draw_icon.png)
+[Quick Draw icon](../assets/Quick_Draw_icon.png)
 
 **Description:** Kill 10 Ptarmigans with Arrows (single game).
 

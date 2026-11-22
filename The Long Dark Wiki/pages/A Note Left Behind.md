@@ -15,7 +15,7 @@
 
 **A Note Left Behind**
 
-![A Note Left Behind icon](../assets/A_Note_Left_Behind_icon.png)
+[A Note Left Behind icon](../assets/A_Note_Left_Behind_icon.png)
 
 **Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
 

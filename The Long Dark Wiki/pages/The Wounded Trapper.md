@@ -4,7 +4,7 @@
 
 **The Wounded Trapper**
 
-![Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
+[Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

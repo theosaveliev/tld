@@ -4,17 +4,17 @@
 
 **Washed Out Trailers**
 
-![SS BI WashedOut01](../assets/SS-BI-WashedOut01.jpg)
+[SS BI WashedOut01](../assets/SS-BI-WashedOut01.jpg)
 
 **Location**
 
-![Washed Out Trailers Location](../assets/Washed_Out_Trailers_Location.png)
+[Washed Out Trailers Location](../assets/Washed_Out_Trailers_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

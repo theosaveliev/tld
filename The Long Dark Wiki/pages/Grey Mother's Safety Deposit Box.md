@@ -4,7 +4,7 @@
 
 **Grey Mother's Safety Deposit Box**
 
-![Grey Mother's Safety Deposit Box icon](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png)
+[Grey Mother's Safety Deposit Box icon](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

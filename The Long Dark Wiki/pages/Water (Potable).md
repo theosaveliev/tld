@@ -13,7 +13,7 @@
 
 **Water (Potable)**
 
-![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)
+[Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
 

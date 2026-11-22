@@ -13,7 +13,7 @@
 
 **Old Man's Beard Wound Dressing**
 
-![Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png)
+[Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png)
 
 **Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
 

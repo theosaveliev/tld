@@ -4,11 +4,11 @@
 
 **Silent Clearing**
 
-![Silent Clearing](../assets/Silent_Clearing.jpg)
+[Silent Clearing](../assets/Silent_Clearing.jpg)
 
 **Location**
 
-![Silent Clearing Location](../assets/Silent_Clearing_Location.png)
+[Silent Clearing Location](../assets/Silent_Clearing_Location.png)
 
 **Region:** [Coastal Highway](./Coastal%20Highway.md)
 

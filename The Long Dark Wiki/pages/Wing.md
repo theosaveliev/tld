@@ -4,11 +4,11 @@
 
 **Wing**
 
-![Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
+[Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
 
 **Location**
 
-![Wing Location](../assets/Wing_Location.png)
+[Wing Location](../assets/Wing_Location.png)
 
 **Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 

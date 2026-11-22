@@ -4,11 +4,11 @@
 
 **Frozen Creek**
 
-![Frozen Creek upstream](../assets/Frozen_Creek_upstream.jpg)
+[Frozen Creek upstream](../assets/Frozen_Creek_upstream.jpg)
 
 **Location**
 
-![Frozen Creek Location](../assets/Frozen_Creek_Location.png)
+[Frozen Creek Location](../assets/Frozen_Creek_Location.png)
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 

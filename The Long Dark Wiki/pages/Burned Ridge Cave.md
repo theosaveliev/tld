@@ -4,11 +4,11 @@
 
 **Burned Ridge Cave**
 
-![SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg)
+[SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg)
 
 **Location**
 
-![Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png)
+[Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

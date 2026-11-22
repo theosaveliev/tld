@@ -4,7 +4,7 @@
 
 **Bank Manager's House Key**
 
-![Bank Manager's House Key icon](../assets/Bank_Manager%27s_House_Key_icon.png)
+[Bank Manager's House Key icon](../assets/Bank_Manager%27s_House_Key_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

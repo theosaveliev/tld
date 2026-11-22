@@ -4,7 +4,7 @@
 
 **Challenge Mastery**
 
-![Challenge Mastery icon](../assets/Challenge_Mastery_icon.png)
+[Challenge Mastery icon](../assets/Challenge_Mastery_icon.png)
 
 **Description:** Complete every Challenge.
 

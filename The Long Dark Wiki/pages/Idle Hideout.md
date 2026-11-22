@@ -4,11 +4,11 @@
 
 **Idle Hideout**
 
-![Idle Hideout](../assets/Idle_Hideout.jpg)
+[Idle Hideout](../assets/Idle_Hideout.jpg)
 
 **Location**
 
-![Idle Hideout Location](../assets/Idle_Hideout_Location.png)
+[Idle Hideout Location](../assets/Idle_Hideout_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

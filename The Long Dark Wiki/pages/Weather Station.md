@@ -11,15 +11,15 @@
 
 **Weather Station**
 
-![Main Menu Weather Station](../assets/Main_Menu_Weather_Station.jpg)
+[Main Menu Weather Station](../assets/Main_Menu_Weather_Station.jpg)
 
 **Location**
 
-![Weather Station Location](../assets/Weather_Station_Location.png)
+[Weather Station Location](../assets/Weather_Station_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
-![Workbench icon green](../assets/Workbench_icon_green.png)
+[Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench
 

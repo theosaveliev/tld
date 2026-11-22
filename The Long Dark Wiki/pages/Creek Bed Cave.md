@@ -4,11 +4,11 @@
 
 **Creek Bed Cave**
 
-![Creek Bed Cave](../assets/Creek_Bed_Cave.jpg)
+[Creek Bed Cave](../assets/Creek_Bed_Cave.jpg)
 
 **Location**
 
-![Creek Bed Cave Location](../assets/Creek_Bed_Cave_Location.png)
+[Creek Bed Cave Location](../assets/Creek_Bed_Cave_Location.png)
 
 Region
 

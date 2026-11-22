@@ -4,11 +4,11 @@
 
 **Peak Cave**
 
-![Peak Cave](../assets/Peak_Cave.jpg)
+[Peak Cave](../assets/Peak_Cave.jpg)
 
 **Location**
 
-![Peak Cave Location](../assets/Peak_Cave_Location.png)
+[Peak Cave Location](../assets/Peak_Cave_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

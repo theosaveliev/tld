@@ -12,7 +12,7 @@
 
 **Mending**
 
-![Mending background](../assets/Mending_background.png)
+[Mending background](../assets/Mending_background.png)
 
 **Release:** [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
 
@@ -44,26 +44,26 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 
 | Tool |
 | --- |
-| ![Sewing Kit icon](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) |
-| ![Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) |
-| ![Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
+| [Sewing Kit icon](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) |
+| [Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
+| [Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) |
+| [Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
 
 ## Repair Materials
 
 | Image | Item | Method |
 | --- | --- | --- |
-| ![Cloth icon](../assets/Cloth_icon.png) | [Cloth](./Cloth.md) | Cloth is found by looting, harvesting cloth items (clothing, bedrolls, pillows, curtains), breaking down certain furniture (e.g comfy chair) and [Beachcombing](./Beachcombing.md). |
-| ![Cured Leather icon](../assets/Cured_Leather_icon.png) | [Cured Leather](./Cured%20Leather.md) | Cured Leather is found by looting, harvesting leather clothing, and beachcombing. |
-| ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) | [Scrap Metal](./Scrap%20Metal.md) | Scrap Metal is harvested from metal objects and tools, or by looting. |
-| ![Cured Gut icon](../assets/Cured_Gut_icon.png) | [Cured Gut](./Cured%20Gut.md) | Gut are [harvested or quartered](./Carcass%20Harvesting.md) from [animal](./Wildlife.md) carcasses (except Ptarmigan). |
-| ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | Ptarmigan Down is harvested from [Ptarmigan](./Ptarmigan.md) carcasses |
-| ![Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png) | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | Rabbit Pelts are harvested from [Rabbit](./Rabbit.md) carcasses. |
-| ![Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png) | [Cured Deer Hide](./Cured%20Deer%20Hide.md) | Deer Hides are harvested from [Deer](./Deer.md) carcasses. |
-| ![Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | Wolf Pelts are harvested from [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md) carcasses. |
-| ![Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) | Black Bear Hides are harvested from [Bear](./Bear.md) carcasses. |
-| ![Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png) | [Cured Moose Hide](./Cured%20Moose%20Hide.md) | Moose Hides are harvested from [Moose](./Moose.md) carcasses. |
-| ![Cured Cougar Hide icon](../assets/Cured_Cougar_Hide_icon.png) | [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) | Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses. |
+| [Cloth icon](../assets/Cloth_icon.png) | [Cloth](./Cloth.md) | Cloth is found by looting, harvesting cloth items (clothing, bedrolls, pillows, curtains), breaking down certain furniture (e.g comfy chair) and [Beachcombing](./Beachcombing.md). |
+| [Cured Leather icon](../assets/Cured_Leather_icon.png) | [Cured Leather](./Cured%20Leather.md) | Cured Leather is found by looting, harvesting leather clothing, and beachcombing. |
+| [Scrap Metal icon](../assets/Scrap_Metal_icon.png) | [Scrap Metal](./Scrap%20Metal.md) | Scrap Metal is harvested from metal objects and tools, or by looting. |
+| [Cured Gut icon](../assets/Cured_Gut_icon.png) | [Cured Gut](./Cured%20Gut.md) | Gut are [harvested or quartered](./Carcass%20Harvesting.md) from [animal](./Wildlife.md) carcasses (except Ptarmigan). |
+| [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | Ptarmigan Down is harvested from [Ptarmigan](./Ptarmigan.md) carcasses |
+| [Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png) | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | Rabbit Pelts are harvested from [Rabbit](./Rabbit.md) carcasses. |
+| [Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png) | [Cured Deer Hide](./Cured%20Deer%20Hide.md) | Deer Hides are harvested from [Deer](./Deer.md) carcasses. |
+| [Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | Wolf Pelts are harvested from [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md) carcasses. |
+| [Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) | Black Bear Hides are harvested from [Bear](./Bear.md) carcasses. |
+| [Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png) | [Cured Moose Hide](./Cured%20Moose%20Hide.md) | Moose Hides are harvested from [Moose](./Moose.md) carcasses. |
+| [Cured Cougar Hide icon](../assets/Cured_Cougar_Hide_icon.png) | [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) | Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses. |
 
 _Note_: Fresh Animal hides must be [cured](./Curing.md) before they can be used in crafting/repair. Hides are cured by dropping/placing them indoors (e.g. inside of a house) or sufficiently deep [Warm Cave](./Warm%20Cave.md). If a hide is curing, it will display "X% cured", which will increase over time. Hides do not cure inside of containers or in the player's inventory.
 

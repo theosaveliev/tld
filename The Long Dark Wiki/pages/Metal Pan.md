@@ -4,7 +4,7 @@
 
 **Metal Pan**
 
-![Metal Pan](../assets/Metal_Pan.jpg)
+[Metal Pan](../assets/Metal_Pan.jpg)
 
 **General**
 

@@ -4,11 +4,11 @@
 
 **Cave**
 
-![Milton cave](../assets/Milton_cave.png)
+[Milton cave](../assets/Milton_cave.png)
 
 **Location**
 
-![Cave Mountain Town Location](../assets/Cave_Mountain_Town_Location.png)
+[Cave Mountain Town Location](../assets/Cave_Mountain_Town_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

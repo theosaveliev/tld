@@ -4,7 +4,7 @@
 
 **Frostbite Risk**
 
-![Frostbite Risk icon](../assets/Frostbite_Risk_icon.png)
+[Frostbite Risk icon](../assets/Frostbite_Risk_icon.png)
 
 **Properties**
 

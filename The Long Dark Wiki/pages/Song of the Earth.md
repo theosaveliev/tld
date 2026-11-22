@@ -4,7 +4,7 @@
 
 **Song of the Earth**
 
-![Song of the Earth icon](../assets/Song_of_the_Earth_icon.png)
+[Song of the Earth icon](../assets/Song_of_the_Earth_icon.png)
 
 **Description:** Reactivate the Geothermal Plant and power up the telescope.
 

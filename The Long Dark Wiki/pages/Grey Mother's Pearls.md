@@ -4,7 +4,7 @@
 
 **Grey Mother's Pearls**
 
-![Grey Mother's Pearls icon](../assets/Grey_Mother%27s_Pearls_icon.png)
+[Grey Mother's Pearls icon](../assets/Grey_Mother%27s_Pearls_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

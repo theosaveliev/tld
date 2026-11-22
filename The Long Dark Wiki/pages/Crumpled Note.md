@@ -4,7 +4,7 @@
 
 **Crumpled Note**
 
-![Crumpled Note icon](../assets/Crumpled_Note_icon.png)
+[Crumpled Note icon](../assets/Crumpled_Note_icon.png)
 
 **Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
 

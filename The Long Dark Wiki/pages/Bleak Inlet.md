@@ -14,13 +14,13 @@
 
 **Bleak Inlet**
 
-![Bleakinlet](../assets/Bleakinlet.png)
+[Bleakinlet](../assets/Bleakinlet.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Bleak Inlet Location](../assets/Bleak_Inlet_Location.png)
+[Bleak Inlet Location](../assets/Bleak_Inlet_Location.png)
 
-![Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png)
+[Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png)
 
 **Details**
 

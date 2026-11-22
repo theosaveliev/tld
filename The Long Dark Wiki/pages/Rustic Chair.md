@@ -11,7 +11,7 @@
 
 **Rustic Chair**
 
-![Rustic Chair icon](../assets/Rustic_Chair_icon.png)
+[Rustic Chair icon](../assets/Rustic_Chair_icon.png)
 
 **Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
 

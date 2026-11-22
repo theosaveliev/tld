@@ -4,11 +4,11 @@
 
 **Cabin**
 
-![Screen 76a1ab96 202f 48fe b28f 7d60e07bc4ea hi](../assets/Screen_76a1ab96-202f-48fe-b28f-7d60e07bc4ea_hi.png)
+[Screen 76a1ab96 202f 48fe b28f 7d60e07bc4ea hi](../assets/Screen_76a1ab96-202f-48fe-b28f-7d60e07bc4ea_hi.png)
 
 **Location**
 
-![Cabin Bleak Inlet Location](../assets/Cabin_Bleak_Inlet_Location.png)
+[Cabin Bleak Inlet Location](../assets/Cabin_Bleak_Inlet_Location.png)
 
 **Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
@@ -20,7 +20,7 @@
 
 **Type:** ResidentialMilitary/Sporting
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

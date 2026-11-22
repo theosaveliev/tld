@@ -25,13 +25,13 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Port Remnant**
 
-![Port Remnant](../assets/Port_Remnant.jpg)
+[Port Remnant](../assets/Port_Remnant.jpg)
 
 **Location on [Cauldron Island](./Cauldron%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
-![Port Remnant Map](../assets/Port_Remnant_Map.png)
+[Port Remnant Map](../assets/Port_Remnant_Map.png)
 
 **Details**
 

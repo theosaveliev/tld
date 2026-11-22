@@ -4,7 +4,7 @@
 
 **The Old Trapper**
 
-![The Old Trapper icon](../assets/The_Old_Trapper_icon.png)
+[The Old Trapper icon](../assets/The_Old_Trapper_icon.png)
 
 **Description:** Bring Jeremiah back from near death.
 

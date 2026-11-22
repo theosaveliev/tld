@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Pond**
 
-![Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg)
+[Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg)
 
 **Location**
 
-![Pond Track 3 Location](../assets/Pond_Track_3_Location.png)
+[Pond Track 3 Location](../assets/Pond_Track_3_Location.png)
 
 **Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)
 

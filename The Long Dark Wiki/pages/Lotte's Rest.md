@@ -4,11 +4,11 @@
 
 **Lotte's Rest**
 
-![Lotte's Rest](../assets/Lotte%27s_Rest_.jpg)
+[Lotte's Rest](../assets/Lotte%27s_Rest_.jpg)
 
 **Location**
 
-![Lotte's Rest Location](../assets/Lotte%27s_Rest_Location.png)
+[Lotte's Rest Location](../assets/Lotte%27s_Rest_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
@@ -18,7 +18,7 @@
 
 **Type:** Residential
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

@@ -53,7 +53,7 @@
 
 **Cougar**
 
-![Cougar](../assets/Cougar.png)
+[Cougar](../assets/Cougar.png)
 
 **Basic Information**
 
@@ -125,10 +125,10 @@ Killing a Cougar will produce a [Cougar Carcass](./Cougar%20Carcass.md) which ca
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)\* | 4-5 kg | Always[¹](#fn1) |
-| ![Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always[²](#fn2) |
-| ![Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 1 | Always |
-| ![Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)\* | 4-5 kg | Always[¹](#fn1) |
+| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always[²](#fn2) |
+| [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 1 | Always |
+| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 Cougar drops can be used to craft two unique items. The [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) is a [clothing item](./Clothing.md) worn on the outer head slot that is both made and repaired using a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). The [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) is a [Hunting Knife](./Hunting%20Knife.md) variant with slightly altered characteristics (mainly its superiority in struggles and faster harvesting times) that can be crafted with the [Cougar Claw](./Cougar%20Claw.md) (see below) and is sharpened like any other [Tool](./Tools.md).
 
@@ -138,8 +138,8 @@ Animal Fat is produced automatically when harvesting raw meat. A Cougar Claw is 
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
-| ![Cougar Claw icon](../assets/Cougar_Claw_icon.png) | [Cougar Claw](./Cougar%20Claw.md) | 1 | Always |
+| [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
+| [Cougar Claw icon](../assets/Cougar_Claw_icon.png) | [Cougar Claw](./Cougar%20Claw.md) | 1 | Always |
 
 ## Behaviour
 
@@ -378,10 +378,10 @@ The chart below shows how damage is calculate when injuring a Cougar.
 
 | Weapon — Head | Weapon — Neck | Damage Multiplier — Torso | Damage Multiplier — Hips | Damage Multiplier — Limb | Damage Multiplier | Damage Multiplier |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 0.6x | 0.35x | 0.35x | 0.2x | 0.2x |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 0.6x | 0.35x | 0.35x | 0.2x | 0.2x |
 
 ### Critical Hits
 
@@ -389,10 +389,10 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 | Weapon — Head | Weapon — Neck | Critical Hit Chance — Torso | Critical Hit Chance — Hips | Critical Hit Chance — Limb | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 10% | 5% | 5% | 0% | 0% |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 10% | 5% | 5% | 0% | 0% |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 5% | 2% | 2% | 0% | 0% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
+| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 10% | 5% | 5% | 0% | 0% |
+| [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 10% | 5% | 5% | 0% | 0% |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 5% | 2% | 2% | 0% | 0% |
+| [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 
 ### Base Weapon Damage
 

@@ -12,11 +12,11 @@
 
 **Cinder Hills Coal Mine**
 
-![RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png)
+[RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png)
 
 **Location**
 
-![Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png)
+[Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png)
 
 **Region:** [Coastal Highway](./Coastal%20Highway.md)
 

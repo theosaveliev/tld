@@ -4,7 +4,7 @@
 
 **Driving Gloves**
 
-![Driving Gloves icon](../assets/Driving_Gloves_icon.png)
+[Driving Gloves icon](../assets/Driving_Gloves_icon.png)
 
 **General**
 
@@ -14,17 +14,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)1%
+**Protection:** [Protection icon](../assets/Protection_icon.png)1%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)0%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>10 minutes
 

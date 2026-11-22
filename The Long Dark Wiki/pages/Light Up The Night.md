@@ -14,7 +14,7 @@
 
 **Light Up The Night**
 
-![Distress Pistol icon](../assets/Distress_Pistol_icon.png)
+[Distress Pistol icon](../assets/Distress_Pistol_icon.png)
 
 **Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

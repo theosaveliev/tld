@@ -15,11 +15,11 @@
 
 **Bunker Beta**
 
-![Bunker Beta](../assets/Bunker_Beta.jpg)
+[Bunker Beta](../assets/Bunker_Beta.jpg)
 
 **Location**
 
-![Bunker Beta Location](../assets/Bunker_Beta_Location.png)
+[Bunker Beta Location](../assets/Bunker_Beta_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -27,7 +27,7 @@
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

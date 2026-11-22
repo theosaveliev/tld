@@ -11,7 +11,7 @@
 
 **Cabin Fever Risk**
 
-![Cabin Fever Risk icon](../assets/Cabin_Fever_Risk_icon.png)
+[Cabin Fever Risk icon](../assets/Cabin_Fever_Risk_icon.png)
 
 **Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338)
 
@@ -82,11 +82,11 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 
 | Item | Name |
 | --- | --- |
-| ![Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
-| ![Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
-| ![Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
-| ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
-| ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
+| [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
+| [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
+| [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
+| [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
+| [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
 ## Update history
 

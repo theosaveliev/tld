@@ -4,7 +4,7 @@
 
 **Transponder Parts**
 
-![Transponder Parts icon](../assets/Transponder_Parts_icon.png)
+[Transponder Parts icon](../assets/Transponder_Parts_icon.png)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Signal to Noise](./Signal%20to%20Noise.md)
 

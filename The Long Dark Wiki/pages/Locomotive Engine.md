@@ -4,11 +4,11 @@
 
 **Locomotive Engine**
 
-![Locomotive engine](../assets/Locomotive_engine.jpg)
+[Locomotive engine](../assets/Locomotive_engine.jpg)
 
 **Location**
 
-![Locomotive Engine Location](../assets/Locomotive_Engine_Location.png)
+[Locomotive Engine Location](../assets/Locomotive_Engine_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 

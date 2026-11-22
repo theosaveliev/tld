@@ -4,11 +4,11 @@
 
 **Cascading Falls**
 
-![Cascading Falls](../assets/Cascading_Falls.jpg)
+[Cascading Falls](../assets/Cascading_Falls.jpg)
 
 **Location**
 
-![Cascading Falls Location](../assets/Cascading_Falls_Location.png)
+[Cascading Falls Location](../assets/Cascading_Falls_Location.png)
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 

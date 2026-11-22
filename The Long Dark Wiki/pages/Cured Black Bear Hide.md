@@ -11,7 +11,7 @@
 
 **Cured Black Bear Hide**
 
-![Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png)
+[Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png)
 
 **Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
 

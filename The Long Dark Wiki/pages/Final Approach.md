@@ -4,11 +4,11 @@
 
 **Final Approach**
 
-![Final Approach Close](../assets/Final_Approach_Close.jpg)
+[Final Approach Close](../assets/Final_Approach_Close.jpg)
 
 **Location**
 
-![Final Approach Location](../assets/Final_Approach_Location.png)
+[Final Approach Location](../assets/Final_Approach_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
@@ -20,7 +20,7 @@ Type
 
 Firebox
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

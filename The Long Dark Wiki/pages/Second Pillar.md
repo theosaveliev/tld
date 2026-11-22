@@ -4,11 +4,11 @@
 
 **Second Pillar**
 
-![Second Pillar](../assets/Second_Pillar.jpg)
+[Second Pillar](../assets/Second_Pillar.jpg)
 
 **Location**
 
-![Second Pillar Location](../assets/Second_Pillar_Location.png)
+[Second Pillar Location](../assets/Second_Pillar_Location.png)
 
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 

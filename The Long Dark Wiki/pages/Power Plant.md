@@ -11,11 +11,11 @@
 
 **Power Plant**
 
-![Power Plant](../assets/Power_Plant.jpg)
+[Power Plant](../assets/Power_Plant.jpg)
 
 **Location**
 
-![Power Plant Location](../assets/Power_Plant_Location.png)
+[Power Plant Location](../assets/Power_Plant_Location.png)
 
 Region
 

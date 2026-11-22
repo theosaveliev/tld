@@ -12,7 +12,7 @@
 
 **Mountaineering Boots**
 
-![Mountaineering Boots icon](../assets/Mountaineering_Boots_icon.png)
+[Mountaineering Boots icon](../assets/Mountaineering_Boots_icon.png)
 
 **General**
 
@@ -20,17 +20,17 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)5%
+**Protection:** [Protection icon](../assets/Protection_icon.png)5%
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-3%
+**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
 **Harvest:** 2 × [Cured Leather](./Cured%20Leather.md)<br>90 minutes
 

@@ -12,11 +12,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Huts**
 
-![Huts](../assets/Huts.png)
+[Huts](../assets/Huts.png)
 
 **Location**
 
-![Huts Location](../assets/Huts_Location.png)
+[Huts Location](../assets/Huts_Location.png)
 
 **Region:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)
 
@@ -24,7 +24,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **General**
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 

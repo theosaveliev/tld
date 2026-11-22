@@ -4,7 +4,7 @@
 
 **It's Getting Cold Out There**
 
-![It's Getting Cold Out There](../assets/It%27s_Getting_Cold_Out_There.jpg)
+[It's Getting Cold Out There](../assets/It%27s_Getting_Cold_Out_There.jpg)
 
 **Description:** Survive 15 days in a single Survival Mode game.
 

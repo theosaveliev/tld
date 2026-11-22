@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Handheld Shortwave Radio**
 
-![Handheld Shortwave Radio icon](../assets/Handheld_Shortwave_Radio_icon.png)
+[Handheld Shortwave Radio icon](../assets/Handheld_Shortwave_Radio_icon.png)
 
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 

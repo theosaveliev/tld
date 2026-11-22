@@ -13,7 +13,7 @@
 
 **Dr. Rüdiger**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Release:** 2.03
 

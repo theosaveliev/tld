@@ -4,7 +4,7 @@
 
 **Milton Post Office Note**
 
-![Milton Post Office Note icon](../assets/Milton_Post_Office_Note_icon.png)
+[Milton Post Office Note icon](../assets/Milton_Post_Office_Note_icon.png)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

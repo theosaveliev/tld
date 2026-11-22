@@ -4,11 +4,11 @@
 
 **Maintenance Yard**
 
-![Maintenance yard building](../assets/Maintenance_yard_building.jpg)
+[Maintenance yard building](../assets/Maintenance_yard_building.jpg)
 
 **Location**
 
-![Maintenance Yard Location](../assets/Maintenance_Yard_Location.png)
+[Maintenance Yard Location](../assets/Maintenance_Yard_Location.png)
 
 **Region:** [Broken Railroad](./Broken%20Railroad.md)
 
@@ -18,11 +18,11 @@
 
 **Type:** Industrial
 
-![Bed icon](../assets/Bed_icon.png)
+[Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
-![Forge icon green](../assets/Forge_icon_green.png)
+[Forge icon green](../assets/Forge_icon_green.png)
 
 Has a forge
 

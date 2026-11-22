@@ -4,7 +4,7 @@
 
 **There Will Be Blood**
 
-![There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png)
+[There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png)
 
 **Description:** Defeat your first Timberwolf pack.
 

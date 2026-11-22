@@ -11,7 +11,7 @@
 
 **Dusting Sulfur**
 
-![Dusting Sulfur icon](../assets/Dusting_Sulfur_icon.png)
+[Dusting Sulfur icon](../assets/Dusting_Sulfur_icon.png)
 
 **General**
 
@@ -21,7 +21,7 @@
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**A chemical compound sometimes used as a pesticide. Could be useful when crafting Ammunition.**”
 >

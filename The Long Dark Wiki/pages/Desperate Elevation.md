@@ -4,11 +4,11 @@
 
 **Desperate Elevation**
 
-![Desperate Elevation](../assets/Desperate_Elevation.jpg)
+[Desperate Elevation](../assets/Desperate_Elevation.jpg)
 
 **Location**
 
-![Desperate Elevation Location](../assets/Desperate_Elevation_Location.png)
+[Desperate Elevation Location](../assets/Desperate_Elevation_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

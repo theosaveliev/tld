@@ -4,11 +4,11 @@
 
 **Spruce Falls Bridge**
 
-![Spruce Falls Bridge with a sign to Milton](../assets/Spruce_Falls_Bridge.jpg)<br>_Spruce Falls Bridge with a sign to [Milton](./Milton.md)_
+[Spruce Falls Bridge with a sign to Milton](../assets/Spruce_Falls_Bridge.jpg)<br>_Spruce Falls Bridge with a sign to [Milton](./Milton.md)_
 
 **Location**
 
-![Spruce Falls Bridge Location](../assets/Spruce_Falls_Bridge_Location.png)
+[Spruce Falls Bridge Location](../assets/Spruce_Falls_Bridge_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

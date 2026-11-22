@@ -4,10 +4,10 @@
 
 **Enduring Waterfall**
 
-![Enduring Waterfall](../assets/Enduring_Waterfall.jpg)
+[Enduring Waterfall](../assets/Enduring_Waterfall.jpg)
 
 **Location**
 
-![Enduring Waterfall Location](../assets/Enduring_Waterfall_Location.png)
+[Enduring Waterfall Location](../assets/Enduring_Waterfall_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)

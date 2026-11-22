@@ -4,11 +4,11 @@
 
 **Boss's Settlement**
 
-![Boss's Settlement](../assets/Boss%27s_Settlement.jpg)
+[Boss's Settlement](../assets/Boss%27s_Settlement.jpg)
 
 **Location**
 
-![Boss's Settlement Location](../assets/Boss%27s_Settlement_Location.png)
+[Boss's Settlement Location](../assets/Boss%27s_Settlement_Location.png)
 
 **Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 

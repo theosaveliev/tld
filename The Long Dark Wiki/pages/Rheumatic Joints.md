@@ -4,7 +4,7 @@
 
 **Rheumatic Joints**
 
-![Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png)
+[Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

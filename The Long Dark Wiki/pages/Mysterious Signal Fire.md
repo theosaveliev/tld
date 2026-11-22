@@ -11,11 +11,11 @@
 
 **Mysterious Signal Fire**
 
-![20180909115732 1](../assets/20180909115732_1.jpg)
+[20180909115732 1](../assets/20180909115732_1.jpg)
 
 **Location**
 
-![Mysterious Signal Fire Location](../assets/Mysterious_Signal_Fire_Location.png)
+[Mysterious Signal Fire Location](../assets/Mysterious_Signal_Fire_Location.png)
 
 **Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 

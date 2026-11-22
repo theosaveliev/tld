@@ -4,11 +4,11 @@
 
 **Milton Basin**
 
-![Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg)
+[Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg)
 
 **Location**
 
-![Milton Basin Location](../assets/Milton_Basin_Location.png)
+[Milton Basin Location](../assets/Milton_Basin_Location.png)
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 

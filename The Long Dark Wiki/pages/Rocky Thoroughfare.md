@@ -4,11 +4,11 @@
 
 **Rocky Thoroughfare**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![No picture](../assets/No_picture.png)
+[No picture](../assets/No_picture.png)
 
 **Details**
 
@@ -16,7 +16,7 @@
 
 **Difficulty:** Beginner
 
-![The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
+[The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
 **Modded Content.**<br>This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 

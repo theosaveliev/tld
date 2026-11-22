@@ -11,7 +11,7 @@
 
 **Sprained Ankle**
 
-![Sprained Ankle icon](../assets/Sprained_Ankle_icon.png)
+[Sprained Ankle icon](../assets/Sprained_Ankle_icon.png)
 
 **Properties**
 
@@ -29,7 +29,7 @@
 
 **Treatment**
 
-**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+**Treatment:** 1 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
 
 **Recovery Time:** 4 hours of [Sleep](./Sleep.md)
 

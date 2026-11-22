@@ -4,7 +4,7 @@
 
 **Paper Fragment**
 
-![Paper Fragment icon](../assets/Paper_Fragment_icon.png)
+[Paper Fragment icon](../assets/Paper_Fragment_icon.png)
 
 **Release:** [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
 

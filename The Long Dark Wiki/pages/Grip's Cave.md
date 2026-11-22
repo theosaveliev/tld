@@ -4,11 +4,11 @@
 
 **Grip's Cave**
 
-![Grip's Cave](../assets/Grip%27s_Cave.jpg)
+[Grip's Cave](../assets/Grip%27s_Cave.jpg)
 
 **Location**
 
-![Grip's Cave Location](../assets/Grip%27s_Cave_Location.png)
+[Grip's Cave Location](../assets/Grip%27s_Cave_Location.png)
 
 **Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 

@@ -15,7 +15,7 @@
 
 **Aurora Hatch**
 
-![The Aurora Hatch.](../assets/Aurora_hatch.png)
+[The Aurora Hatch.](../assets/Aurora_hatch.png)
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 

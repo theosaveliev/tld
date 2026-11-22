@@ -4,7 +4,7 @@
 
 **Frigid Bones**
 
-![Frigid Bones icon](../assets/Frigid_Bones_icon.png)
+[Frigid Bones icon](../assets/Frigid_Bones_icon.png)
 
 **Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
 

@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Woodwright's Bow**
 
-![Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png)
+[Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png)
 
 **Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
 

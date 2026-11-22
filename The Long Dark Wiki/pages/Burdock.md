@@ -23,7 +23,7 @@
 
 **Burdock**
 
-![Burdock Plant](../assets/Burdock_Plant.jpg)
+[Burdock Plant](../assets/Burdock_Plant.jpg)
 
 **Release:** 21 June 2023
 

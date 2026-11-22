@@ -13,7 +13,7 @@
 
 **As the Dead Sleep**
 
-![As the dead sleep](../assets/As_the_dead_sleep.png)
+[As the dead sleep](../assets/As_the_dead_sleep.png)
 
 **Details**
 

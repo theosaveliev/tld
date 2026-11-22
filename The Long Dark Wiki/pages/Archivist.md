@@ -12,7 +12,7 @@
 
 **Archivist**
 
-![Challenge Archivist](../assets/Challenge_Archivist.png)
+[Challenge Archivist](../assets/Challenge_Archivist.png)
 
 **Details**
 

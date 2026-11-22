@@ -471,6 +471,41 @@ Added to the game.
     assert "## Update history" in markdown
 
 
+def test_recipe_infobox_parses_single_cell_item_and_quantity_headers() -> None:
+    fragment = """<table class="wikitable"><tbody>
+<tr><td>Acorn Bannock</td></tr>
+<tr><td>Cooking</td></tr>
+<tr><td>2</td></tr>
+<tr><td>40.0 minutes</td></tr>
+<tr><td><strong>Requirements</strong></td></tr>
+<tr><td>Required level</td><td>2</td></tr>
+<tr><td>Facility</td><td>Fire</td></tr>
+<tr><td>Tool</td><td>Cooking Skillet</td></tr>
+<tr><td>Item</td></tr>
+<tr><td>Quantity</td></tr>
+<tr><td><a href="./Acorn_Grounds.md">Acorn Grounds</a></td></tr>
+<tr><td>1</td></tr>
+<tr><td><a href="./Water.md">Water (Potable)</a></td></tr>
+<tr><td>0.15 L</td></tr>
+<tr><td><a href="./Cooking_Oil.md">Cooking Oil</a></td></tr>
+<tr><td>0.05 L</td></tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "**Requirements**" in markdown
+    assert "**Required level:** 2" in markdown
+    assert "**Facility:** Fire" in markdown
+    assert "**Tool:** Cooking Skillet" in markdown
+    assert "**Materials**" in markdown
+    assert "| Item | Quantity |" in markdown
+    assert "| [Acorn Grounds](./Acorn_Grounds.md) | 1 |" in markdown
+    assert "| [Water (Potable)](./Water.md) | 0.15 L |" in markdown
+    assert "| [Cooking Oil](./Cooking_Oil.md) | 0.05 L |" in markdown
+    assert "**Item:**" not in markdown
+    assert "**Quantity:**" not in markdown
+
+
 def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
     fragment = (
         '<table class="wikitable"><tbody>\n'
@@ -738,6 +773,42 @@ def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     assert "8 \u00d7 Salt" in markdown
     assert "Column 1" not in markdown
     assert markdown.startswith("| Item | Skills | Materials |")
+
+
+def test_image_bearing_infobox_preserves_breaks_and_removes_filename_captions() -> None:
+    fragment = """<table class="infobox"><tbody><tr><td>
+<strong>Acorn Bannock</strong><br />
+<img src="../assets/Acorn_Bannock_icon.png" alt="Acorn_Bannock_icon.png" /> /
+<em>Acorn_Bannock_icon.png</em><br />
+<strong>Release:</strong> 21 June 2023<br />
+<strong>Wintermute:</strong> No<br />
+<strong>Renewable:</strong> No
+</td></tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "**Acorn Bannock**<br>" in markdown
+    assert "![](../assets/Acorn_Bannock_icon.png)" in markdown
+    assert "_Acorn\\\\_Bannock\\\\_icon.png_" not in markdown
+    assert "**Release:** 21 June 2023<br>" in markdown
+    assert " / " not in markdown
+
+
+def test_image_table_removes_raw_file_wrapper_and_repeated_alt_captions() -> None:
+    fragment = r"""<table><tbody><tr><td>
+[[File: / <img src="../assets/Abandoned_Mine.jpg" alt="Entrance" /> /
+<em>Entrance</em> / <img src="../assets/Abandoned_Mine_2.jpg" alt="Exit" /> /
+<em>Exit</em> / 250px]]
+</td></tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "File:" not in markdown
+    assert "250px" not in markdown
+    assert "![Entrance](../assets/Abandoned_Mine.jpg)" in markdown
+    assert "![Exit](../assets/Abandoned_Mine_2.jpg)" in markdown
+    assert "_Entrance_" not in markdown
+    assert "_Exit_" not in markdown
 
 
 def test_image_bearing_infobox_renders_images_outside_pipe_tables(

@@ -1919,6 +1919,11 @@ def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
     return rows
 
 
+def _table_has_wide_row(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether a table row exceeds the normal Markdown table width."""
+    return any(len(row) > WIDE_TABLE_COLUMN_THRESHOLD for row in rows)
+
+
 def _pipe_table(headers: list[str], rows: list[list[str]]) -> str:
     """Serialize a rectangular collection of cells as a GFM pipe table."""
     width = max(len(headers), max((len(row) for row in rows), default=0), 1)
@@ -2415,6 +2420,10 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_generic_table(rows)
     elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
+    elif has_images:
+        table = _render_image_layout_table(rows)
+    elif _table_has_wide_row(rows):
+        table = _render_generic_table(rows)
     elif _table_has_list_content(rows):
         table = _render_list_content_table(rows)
     else:
@@ -2632,11 +2641,7 @@ def _contains_custom_render_table(fragment: str) -> bool:
             len(row) == 1 and _table_cell_has_block_layout(row[0])
             for row in _table_rows(table)
         )
-        or any(
-            sum(_html_tag(cell) in {"td", "th"} for cell in row)
-            > WIDE_TABLE_COLUMN_THRESHOLD
-            for row in table.iter("tr")
-        )
+        or _table_has_wide_row(_table_rows(table))
         for table in root.iter("table")
     )
 

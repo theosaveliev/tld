@@ -1209,7 +1209,10 @@ def _clean_wikitext_artifact_line(line: str) -> str:
     cleaned = re.sub(r"(?m)^(\s*[-*+]\s*),[ \t]*", r"\1", cleaned)
     heading = re.fullmatch(r"\s*(={2,6})\s*(.*?)\s*\1\s*", cleaned.strip())
     if heading is not None:
-        return f"{'#' * len(heading.group(1))} {heading.group(2).strip()}"
+        line_ending = (
+            "\r\n" if cleaned.endswith("\r\n") else "\n" if cleaned.endswith("\n") else ""
+        )
+        return f"{'#' * len(heading.group(1))} {heading.group(2).strip()}{line_ending}"
     return _strip_empty_markup_rows(cleaned)
 
 

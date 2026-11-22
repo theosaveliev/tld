@@ -14,18 +14,31 @@
 - [Flora](#flora)
 - [Maps](#maps)
 
-&lt;imagemap&gt; File:Lower Great Bear Map 2024.png|thumb|center|488px|A clickable map of Lower [Great Bear Island](./Great%20Bear%20Island.md).
+![A clickable map of Lower Great Bear Island](../assets/Lower_Great_Bear_Map_2024.png)
 
-rect 130 551 338 697 [Broken Railroad](./Broken%20Railroad.md) rect 392 548 588 727 [Forlorn Muskeg](./Forlorn%20Muskeg.md) rect 323 271 584 449 [Mountain Town](./Mountain%20Town.md) rect 621 469 807 583 [Mystery Lake)](./Mystery%20Lake%20%28region%29.md) rect 781 610 918 676 [The Ravine](./The%20Ravine.md) rect 873 497 982 600 [Winding River](./Winding%20River.md) rect 966 339 1200 588 [Pleasant Valley](./Pleasant%20Valley.md) rect 1191 248 1446 359 [Timberwolf Mountain](./Timberwolf%20Mountain.md) rect 1005 710 1282 840 [Coastal Highway](./Coastal%20Highway.md) rect 1081 877 1321 964 [Crumbling Highway](./Crumbling%20Highway.md) rect 1395 818 1614 930 [Desolation Point](./Desolation%20Point.md) rect 369 101 632 249 [Hushed River Valley](./Hushed%20River%20Valley.md) rect 649 711 877 872 [Bleak Inlet](./Bleak%20Inlet.md) rect 1059 117 1238 235 [Blackrock](./Blackrock.md) rect 1295 112 1485 212 [Ash Canyon](./Ash%20Canyon.md) desc none &lt;/imagemap&gt; &lt;imagemap&gt; File:Far Territory Part 5 Map.jpg|thumb|center|488px|A clickable map of the [Far Territory](./Tales%20from%20the%20Far%20Territory.md).
+- [Broken Railroad](./Broken%20Railroad.md)
+- [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+- [Mountain Town](./Mountain%20Town.md)
+- [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
+- [The Ravine](./The%20Ravine.md)
+- [Winding River](./Winding%20River.md)
+- [Pleasant Valley](./Pleasant%20Valley.md)
+- [Timberwolf Mountain](./Timberwolf%20Mountain.md)
+- [Coastal Highway](./Coastal%20Highway.md)
+- [Crumbling Highway](./Crumbling%20Highway.md)
+- [Desolation Point](./Desolation%20Point.md)
+- [Hushed River Valley](./Hushed%20River%20Valley.md)
+- [Bleak Inlet](./Bleak%20Inlet.md)
+- [Blackrock](./Blackrock.md)
+- [Ash Canyon](./Ash%20Canyon.md) ![A clickable map of the Far Territory](../assets/Far_Territory_Part_5_Map.jpg)
 
-rect 455 390 847 644 [Forsaken Airfield](./Forsaken%20Airfield.md) rect 882 295 1274 557 [Zone of Contamination](./Zone%20of%20Contamination.md) rect 911 623 1071 703 [Transfer Pass](./Transfer%20Pass.md) rect 956 712 1176 781 [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) desc none &lt;/imagemap&gt; ​​​​​​ **Great Bear Island**is a fictional island ​​​​​​that is the main setting of [_The Long Dark_](./The%20Long%20Dark.md). The Island is geographically located off the northern-western coast of mainland [Canada](./The%20Collapse.md), and is entirely surrounded by the Pacific Ocean. It is also located inside the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), resulting a higher than average amount of earthquakes.
+- [Forsaken Airfield](./Forsaken%20Airfield.md)
+- [Zone of Contamination](./Zone%20of%20Contamination.md)
+- [Transfer Pass](./Transfer%20Pass.md)
+- [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)  **Great Bear Island** is a fictional island that is the main setting of [_The Long Dark_](./The%20Long%20Dark.md). The Island is geographically located off the northern-western coast of mainland [Canada](./The%20Collapse.md), and is entirely surrounded by the Pacific Ocean. It is also located inside the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), resulting a higher than average amount of earthquakes.
 
-​​​​​​ The Island is inspired by the real world [Vancouver Island](https://en.wikipedia.org/wiki/Vancouver_Island).
+ The Island is inspired by the real world [Vancouver Island](https://en.wikipedia.org/wiki/Vancouver_Island).
 
-<!-- #History -->
-​
-
-<!-- #history -->
 ## History
 
 Great Bear Island was once a lively region rich in natural resources and rustic communities. The abundance of coal, the flowing rivers, and the pristine forests on the island attracted the attention of corporations from the mainland. Over the course of many years, these industrial barons established mines, logging camps, and dams to exploit the natural wonders of Great Bear.
@@ -34,19 +47,6 @@ While this industrial boom brought economic prosperity and stability to many isl
 
 During the turmoil of [The Collapse](./The%20Collapse.md), approximately ten years before the events of _The Long Dark_, a series of major earthquakes rocked Great Bear, destroying much of the island's infrastructure and industry during the ongoing economic crisis. As a result, the corporations that once flocked to reap the island's resources abandoned their camps and mines, sending what was left of the local communities into economic turmoil. Great Bear never fully recovered from the quakes, and, as a result, many abandoned facilities, destroyed roadways, and ghost towns dot the island--remnants of a once thriving region.
 
-<!-- #notable_island_landmarks_and_regions -->
-​
-
-<!-- #Notable_Island_Landmarks_and_Regions -->
-​
-
-<!-- #Notable_island_landmarks_and_regions -->
-​
-
-<!-- #Notable_Island_Landmarks_And_Regions -->
-​
-
-<!-- #notable-island-landmarks-and-regions -->
 ## Notable Island Landmarks and Regions
 
 - [The Town of Milton](./Milton.md) ([Mountain Town](./Mountain%20Town.md))
@@ -57,7 +57,7 @@ During the turmoil of [The Collapse](./The%20Collapse.md), approximately ten yea
 - [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md)
 - [Perseverance Mills](./Perseverance%20Mills.md)
 - Port Mary (mentioned in [Town of Milton](./Town%20of%20Milton.md))
-- Rupert's Landing (mentioned by Jeremiah and [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md))&lt;ref&gt;[Risk of Infection/TranscriptMackenzie](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md): "You alone out here?"
+- Rupert's Landing (mentioned by Jeremiah and [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)) [Risk of Infection/TranscriptMackenzie](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md): "You alone out here?"
 
 Jeremiah: "Yeah, I keep to myself. Hunt a bit. Fish in the summer. Keep my traplines full. Once a couple of month's, I head down to Rupert's Landing. Trade for what I need."
 
@@ -83,27 +83,10 @@ Jeremiah: "Yeah, I keep to myself. Hunt a bit. Fish in the summer. Keep my trapl
 - [Langston Mine](./Langston%20Mine.md) ([Zone of Contamination](./Zone%20of%20Contamination.md))
 - [Weather Station](./Weather%20Station.md) ([Sundered Pass](./Sundered%20Pass.md))
 
-<!-- #notable_inhabitants -->
-​
-
-<!-- #Notable_Inhabitants -->
-​
-
-<!-- #Notable_inhabitants -->
-​
-
-<!-- #notable-inhabitants -->
 ## Notable Inhabitants
 
 _For more information, see [Characters](./Characters.md)._
 
-<!-- #"Islanders" -->
-​
-
-<!-- #"islanders" -->
-​
-
-<!-- #islanders -->
 ### "Islanders"
 
 - [Grey Mother](./Grey%20Mother.md)
@@ -122,13 +105,6 @@ _For more information, see [Characters](./Characters.md)._
 - The inhabitants of [Perseverance Mills](./Perseverance%20Mills.md)
 - Various islanders working under the banner of the [Forest Talkers](./Forest%20Talkers.md)
 
-<!-- #"Mainlanders" -->
-​
-
-<!-- #"mainlanders" -->
-​
-
-<!-- #mainlanders -->
 ### "Mainlanders"
 
 - [Mathis](./Mathis.md)
@@ -143,24 +119,10 @@ _For more information, see [Characters](./Characters.md)._
 - Various [Convicts](./Convicts.md) and employee personal of [Blackrock Penitentiary](./Blackrock%20Prison.md)
 - [Plane Crash Survivors](./Crash%20Survivor.md) of the [North Star Charters Flight 7030](./Crash%20Site%20%28Pleasant%20Valley%29.md) airline
 
-<!-- #native_wildlife_species -->
-​
-
-<!-- #Native_Wildlife_Species -->
-​
-
-<!-- #Native_wildlife_species -->
-​
-
-<!-- #native-wildlife-species -->
 ## Native Wildlife Species
 
 _For more information, see [Wildlife](./Wildlife.md)._
 
-<!-- #Fauna -->
-​
-
-<!-- #fauna -->
 #### Fauna
 
 - [Wolf](./Wolf.md)
@@ -176,10 +138,6 @@ _For more information, see [Wildlife](./Wildlife.md)._
 - Various species of Freshwater and Saltwater Fish ([Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md), [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md), [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md), [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md), ([Big Bass](./Big%20Bass%20%28Raw%29.md)), [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md), [Goldeye](./Goldeye%20%28Raw%29.md), [Burbot](./Burbot%20%28Raw%29.md), [Rockfish](./Rockfish%20%28Raw%29.md))
 - Killer Whales (as seen in the ending of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)) and other various unseen wildlife (owls, woodpeckers, etc.)
 
-<!-- #Flora -->
-​
-
-<!-- #flora -->
 #### Flora
 
 - [Burdock](./Burdock.md)
@@ -196,10 +154,6 @@ _For more information, see [Wildlife](./Wildlife.md)._
 - Various grasses (golden grass, red grass) and shrubs
 - Bio luminescent moss found in [Ice Caves](./Ice%20Cave.md)
 
-<!-- #Maps -->
-​
-
-<!-- #maps -->
 ## Maps
 
 ![Map v.1.89](../assets/WorldMap-Ev189.jpg)

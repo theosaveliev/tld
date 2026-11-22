@@ -55,28 +55,20 @@ _For the unique bear found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.
 
 **Bears** (also known as **Black Bears**) are large, dangerous [Wildlife](./Wildlife.md) predators in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Bears are large solitary predatory [Wildlife](./Wildlife.md). Bears normally hibernate throughout the winter, but the [First Flare](./First%20Flare.md) and subsequent aurora has awoken them from their slumber. They are now regularly found exiting their bear cave (often with bones inside), or roaming the area near them in search of food, attacking human survivors if they are spotted.
 
 They are among the toughest and most dangerous animals on [Great Bear Island](./Great%20Bear%20Island.md), easily overpowering any human survivor with just their sheer size. While not as aggressive as [Wolves](./Wolf.md), Bears are highly territorial and will charge and [maul](./Struggle.md) their victims. They are significantly harder to avoid/kill compared to the common Wolf, requiring the player to be alert and prepared should they come across one.
 
-<!-- #Drops -->
-​
-
-<!-- #drops -->
 ## Drops
 
 A [Black Bear Carcass](./Black%20Bear%20Carcass.md) may be harvested for 25.00-40.00 kg of [raw meat](./Bear%20Meat%20%28Raw%29.md), 1 [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md), and 10 guts. Bear hides can be cured to craft [Bearskin Coat](./Bearskin%20Coat.md) or [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md).
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)* | 25 - 40 | Always<span id="fnref1"></span>[¹](#fn1) |
-| [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always<span id="fnref2"></span>[²](#fn2) |
+| [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)* | 25 - 40 | Always  [¹](#fn1) |
+| [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always  [²](#fn2) |
 | [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 10 | Always |
 
@@ -88,18 +80,10 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
-<!-- #Behaviour -->
-​
-
-<!-- #behaviour -->
 ## Behaviour
 
 Bears have three paces: walking, charging, and fleeing. Typically they wander near their bear caves at a slow walking pace, with little interest in their surroundings, but occasionally stop to forage or look around. Bears do not hunt other animals, unlike Wolves. Bears are the only animal whose breath is seen as they wander around.
 
-<!-- #Sounds -->
-​
-
-<!-- #sounds -->
 ### Sounds
 
 Bears are relatively quiet, but their soft-padded footsteps can be heard from a distance. At closer distances their grunts and snorts may be heard, and if the bear detects the player they will bellow, growl, and begin to follow them. Crows have a unique "bear call" which can be heard when a bear is stalking the player, and the standard "dangerous wildlife" music will start playing.
@@ -108,10 +92,6 @@ Charging bears usually stand on their hind legs and roar, with their heavy breat
 
 A fleeing bear will whine, moan, and "scream" as it rapidly runs away from the player if they successfully drive/scare it off.
 
-<!-- #Dens -->
-​
-
-<!-- #dens -->
 ### Dens
 
 All Bears have a specific den as their home, usually a dedicated [Warm Bear Cave](./Warm%20Cave.md) or a rocky outcropping in the side of a rockface. Each den is immediately identifiable by the remains of yellowing skeletons near their entrances (normally of deer, but sometimes of human). A bear will often return from roaming to their den after dusk, taking the most direct path (even if it is kilometers away) to try and sleep inside for the night. A frightened bear often flees for a time before attempting to return to their den.
@@ -120,10 +100,6 @@ All Bears have a specific den as their home, usually a dedicated [Warm Bear Cave
 - Not all dens are inhabited in at all times, as a Bear will often take many in game hours to return to their cave, even after dusk.
 - Sleeping in a cave with very high [Scent](./Scent.md) is generally a very bad idea, as the Bear will often leave its normal patrol to come to you
 
-<!-- #Scent -->
-​
-
-<!-- #scent -->
 ### Scent
 
 > “**Bears can smell blood from over 20 clicks away. You get out there, you cut yourself enough that you bleed, and he'll come to you. I'm sure of it.**”
@@ -132,79 +108,36 @@ All Bears have a specific den as their home, usually a dedicated [Warm Bear Cave
 
 Bears have the most sensitive noses of any predator wildlife animal, and will travel great lengths (up to over half of the game map) to find the player if their Scent is too high, far outside of their normal patrol pathways. This can make sleeping in a [Bedroll](./Bedroll.md) in the snow, buildings, or caves (even non-bear den caves) very dangerous if the Bear finds them, as they will attack the player in their sleep. This can be used to the player's advantage when hunting them, as long as the player is prepared to wait very long periods of time for the Bear to come to them, as the Bear will still walk at its normal slow walking speed upon detecting the player's Scent (unlike Wolves who walk quickly to the player's location).
 
-<!-- #Sleeping -->
-​
-
-<!-- #sleeping -->
 ### Sleeping
 
 ![A sleeping bear.](../assets/Sleeping_Bear.jpg)_A sleeping bear._ Bears occasionally return to their den to sleep for the night when dusk falls, in which they lie down to try and continue hibernating, often snoring quite loudly. In this state, a bear can be awoken by normal stimuli such as gun reports, lit flares, or simply being too close.
 
-<!-- #Interaction -->
-​
-
-<!-- #interaction -->
 ## Interaction
 
 Bears will follow any player they detect and attack the player at close distances. If the player moves far enough away, the bear will give up its pursuit. Bears will also charge if they detect the player and the player shoots at them; shots from undetected players usually cause bear to flee, even if not struck by the round.
 
-<!-- #Baiting -->
-​
-
-<!-- #baiting -->
 ### Baiting
 
 Bears are attracted by [Scent](./Scent.md). Baiting with dropped scent items while being pursued by a bear will distract them (unless charging). See: [Baiting](./Scent.md#Baiting/Decoys). ![A bear held at bay by a campfire.](../assets/Bear_Campfire_Close.png)_A bear held at bay by a campfire._
 
-<!-- #limited_fear_of_fire -->
-​
-
-<!-- #Limited_Fear_of_Fire -->
-​
-
-<!-- #Limited_fear_of_fire -->
-​
-
-<!-- #Limited_Fear_Of_Fire -->
-​
-
-<!-- #limited-fear-of-fire -->
 ### Limited Fear of Fire
 
 Bears are only held at bay by certain fires. [Campfires](./Campfire.md) and [flares](./Flare.md) (held in hand) will prevent a bear from charging the player unless it is already within a certain distance. It will wait outside the radius of the fire until the player leaves the safety of the fire or it is scared away. While being held at bay, bears can be scared away by hitting it with a thrown burning torch (short flee), weapon shot that misses (long flee), weapon shot that hits (longest flee). Approaching a bear while it is held at bay will cause it to overcome its fear and charge. They will walk or charge around a lone lit torch on the ground, but it will not stop them, nor will throwing torches or flares at them cause them to flee while they are not held at bay.
 
-<!-- #scaring_away_a_bear -->
-​
-
-<!-- #Scaring_Away_A_Bear -->
-​
-
-<!-- #Scaring_away_a_bear -->
-​
-
-<!-- #scaring-away-a-bear -->
 ### Scaring Away A Bear
 
 Bears flee from [Distress Pistol](./Distress%20Pistol.md) reports and from the landing site of flare rounds; the Distress Pistol can prevent a charging bear from attacking even at very close distance. Bears are also frightened of bullets and arrows striking near them, but only from undetected players; they will charge attackers if they can detect them (barring Distress Pistol fire).
 
-Bears will flee from [bow shots](./Survival%20Bow.md) only under certain conditions<span id="fnref3"></span>[³](#fn3). If a bear is shot from outside the range from which it can detect the player, the bear will flee<span id="fnref4"></span>[⁴](#fn4). If a bear has detected the player, shooting the ground beside the bear (rather than shooting the bear) can cause the bear to flee<span id="fnref5"></span>[⁵](#fn5).
+Bears will flee from [bow shots](./Survival%20Bow.md) only under certain conditions  [³](#fn3). If a bear is shot from outside the range from which it can detect the player, the bear will flee  [⁴](#fn4). If a bear has detected the player, shooting the ground beside the bear (rather than shooting the bear) can cause the bear to flee  [⁵](#fn5).
 
 Hunting Bears with a [Revolver](./Revolver.md) is not advised, as the sheer body weight will absorb any damage from the shot (though they will still bleed to death, even from 1 gunshot wound).
 
 An exploding [Noisemaker](./Noisemaker.md) will scare off a charging bear, as long as the [Aurora](./Aurora.md) isn't active.
 
-<!-- #Stones -->
-​
-
-<!-- #stones -->
 ### Stones
 
 [Stones](./Stone.md) deal no damage if striking a Bear, and a Bear will chase those who throw stones at them (if detected). Stones thrown by undetected players will distract nearby bears to investigate for a few seconds.
 
-<!-- #Aurora -->
-​
-
-<!-- #aurora -->
 ### Aurora
 
 ![Aurora Bear](../assets/Aurora_Bear.jpg) Like all predators, the [Aurora](./Aurora.md) will produce an Aurora Bear, a much tankier, less fear prone version of the Bear. It also becomes more perceptive and can detect the player from further away. Extreme caution is advised while the Aurora is out and a Bear is nearby. It can often take up to 6 well placed headshots on an Aurora Bear to fell them. Getting mauled by an aurora bear is extremely dangerous. Due to its heightened senses, it can detect and charge the player before any action can be taken, leading to consecutive maulings until death.
@@ -216,16 +149,6 @@ An exploding [Noisemaker](./Noisemaker.md) will scare off a charging bear, as lo
 - They will stay away from lit [Campfires](./Campfire.md), but will still stay close by and stalk the player. They will eventually overcome their fear of the fire and attack the player if they do not attack the bear or leave the area.
 - Gunshots are not effective at frightening Aurora Bears, as they will instantly charge the player unless they cannot see where the shot came from.
 
-<!-- #wildlife_interactions -->
-​
-
-<!-- #Wildlife_Interactions -->
-​
-
-<!-- #Wildlife_interactions -->
-​
-
-<!-- #wildlife-interactions -->
 ## Wildlife Interactions
 
 ![A Bear and Moose ignoring one another.](../assets/Moose_and_Bear.jpg)_A Bear and Moose ignoring one another._ Bears will ignore all other forms of Wildlife:
@@ -236,10 +159,6 @@ An exploding [Noisemaker](./Noisemaker.md) will scare off a charging bear, as lo
 - [Cougar](./Cougar.md) and Bears will ignore one another.
 - Bears run away when the [Darkwalker](./Escape%20the%20Darkwalker.md) is close to them, and will die once [Toxic Fog](./Toxic%20Fog.md) reaches 100%.
 
-<!-- #Mauling -->
-​
-
-<!-- #mauling -->
 ## Mauling
 
 ![Player's view of a bear mauling.](../assets/Screen_Shot_2016-07-12_at_5.47.12_pm.png)_Player's view of a bear mauling._ If provoked with weapons or approached too close, a bear will charge and maul the player. Bear struggles are different from [Wolf](./Wolf.md) struggles in that the player will always lose, getting mauled and eventually passing out. After mauling the player, the bear will walk away but may maul the player again if they do not flee immediately.
@@ -253,26 +172,12 @@ Bear attacks cause massive [Condition](./Condition.md) loss, [Blood Loss](./Bloo
 - Significant condition damage is usually inflicted on some of the clothing item(s), often ruining one.
 - Bear struggles cannot be won (except in [Wintermute](./Wintermute.md) with the [Bear Spear](./Bear%20Spear.md) against the [Old Bear](./Old%20Bear.md)).
 
-<!-- #Hunting -->
-​
-
-<!-- #hunting -->
 ## [Hunting](./Hunting.md)
 
 Bears may be hunted with any ranged weapon (except Stones) and suffer from blood loss, so a single round is lethal (but may take many hours for the animal to bleed out). A single rifle shot may even kill a bear instantly if it strikes their head and is a "critical hit", but usually bears survive multiple rounds and will immediately charge or flee depending if the player was detected.
 
 Before going on a bear hunt, it's generally a good idea to pare down the pack or to bring along a [Travois](./Travois.md), as there is a lot of [meat](./Bear%20Meat%20%28Raw%29.md) on a bear, which will almost certainly [overload](./Encumbrance.md) a player carrying a full set of gear.
 
-<!-- #critical_hits -->
-​
-
-<!-- #Critical_hits -->
-​
-
-<!-- #Critical_Hits -->
-​
-
-<!-- #critical-hits -->
 ### Critical hits
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
@@ -286,30 +191,10 @@ The critical-% for flare gun seem to be currently bugged (i.e. defaulting to rif
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 15% | 10% | 5% | 3% | 3% |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 3% | 2% | 1% | 0% | 0% |
 
-<!-- #bleeding_wounds -->
-​
-
-<!-- #Bleeding_wounds -->
-​
-
-<!-- #Bleeding_Wounds -->
-​
-
-<!-- #bleeding-wounds -->
 ### Bleeding wounds
 
 All shots that cause blood loss are lethal, but may take many hours based on which body part was struck. Multiple shots do not stack blood loss. A shot that hits a higher blood loss area will override blood loss from a shot in a lower blood loss area. Conversely, if shot in an area of lower blood loss after being shot in area of higher blood loss, the shot that hit the area of lower blood loss will override the blood loss from the first shot. Therefore, if you land a head shot which causes a bear to flee, shooting it in the hindquarters or limbs will cause the bear to bleed out more slowly. As such, you should not fire a second shot in that scenario and instead simply follow the bear until it bleeds out from the head wound.
 
-<!-- #bleed_out -->
-​
-
-<!-- #Bleed_Out -->
-​
-
-<!-- #Bleed_out -->
-​
-
-<!-- #bleed-out -->
 ### Bleed Out
 
 | Weapon — Head | Weapon — Neck | Bleed Out — Torso | Bleed Out — Hips | Bleed Out — Limb | Bleed Out | Bleed Out |
@@ -319,10 +204,6 @@ All shots that cause blood loss are lethal, but may take many hours based on whi
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 45 min | 60 min | 375 min | 240 min | 240 min |
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
 
-<!-- #Strategies -->
-​
-
-<!-- #strategies -->
 ### Strategies
 
 - Bull-Fight: Shoot from close to a position that bears cannot attack, perhaps luring or baiting the bear into range first. Shoot the bear, enter cover. Let it charge and fail. Follow until it bleeds out.
@@ -335,10 +216,6 @@ All shots that cause blood loss are lethal, but may take many hours based on whi
 
 It is worth noting that after killing the bear, it is more time-efficient to Quarter the bear than to harvest the hide and guts individually. However, the body of the bear that would be destroyed by quartering is also large enough to grant protection from the wind (Wind Shield) to campfires and crouching players, which can be useful for players looking to harvest the bear's meat on the spot.
 
-<!-- #Population -->
-​
-
-<!-- #population -->
 ## Population
 
 Bear spawns vary by region and Survival Mode. In some regions (Coastal Highway and Desolation Point) bears always spawn in the same location(s); in other regions (Mystery Lake and Pleasant Valley), bears have multiple possible spawning locations which only some may be be occupied in a given save file. The following list is a list of possible bear locations:
@@ -425,18 +302,10 @@ Bear spawns vary by region and Survival Mode. In some regions (Coastal Highway a
 
 - North of [Smoker's Cave](./Smoker%27s%20Cave.md), South of [Unquenched Extraction](./Unquenched%20Extraction.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Bears base their appearance off of the [American Black Bear](https://en.wikipedia.org/wiki/American_black_bear) (**_Ursus americanus_**), a species of Ursidae found in North America. Their sizes vary, but they are typically half the size of the Bears founds in game until they reach adulthood. The American black bear is also known for being timid. Often scared off by loud noises or just the sight of a human, however the Aurora has made the local bear population far more aggressive.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Bear on patrol](../assets/Bearonpatrol.jpg)
@@ -467,16 +336,6 @@ _A bear during an [aurora](./Aurora.md)_
 
 ![Steam Badge](../assets/Steam_Bear_Foil_Badge.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76)):**
@@ -553,16 +412,12 @@ _A bear during an [aurora](./Aurora.md)_
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
-2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)
-3. <span id="fn3"></span>BladesTLD, 2023. EVERYTHING you need to know about BEARS (spawning, stats, hunting strategies) [The Long Dark]. YouTube. [https://www.youtube.com/watch?v=3fuvFGDRtiE](https://www.youtube.com/watch?v=3fuvFGDRtiE)[↩︎](#fnref3)
-4. <span id="fn4"></span>
-5. <span id="fn5"></span>
+1.   If carcass is harvested[↩︎](#fnref1)
+2.   If carcass is quartered.[↩︎](#fnref2)
+3.   BladesTLD, 2023. EVERYTHING you need to know about BEARS (spawning, stats, hunting strategies) [The Long Dark]. YouTube. [https://www.youtube.com/watch?v=3fuvFGDRtiE](https://www.youtube.com/watch?v=3fuvFGDRtiE)[↩︎](#fnref3)
+4.
+5.

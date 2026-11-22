@@ -30,26 +30,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Wyatt's Skeleton** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is found in the [Trade Drop Box](./Trade%20Drop%20Box.md) after starting the 5th Special Request, and must be returned back to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) with a [Wire Bundle](./Wires.md), then destroying the cache to advance Sutherland's questline.
 
 It cannot be dropped or placed in a container, so it cannot be lost.
-
-<!-- #update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #update-history -->
-## Update History
 
 [ru:Скелет Уайетта](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82_%D0%A3%D0%B0%D0%B9%D0%B5%D1%82%D1%82%D0%B0)

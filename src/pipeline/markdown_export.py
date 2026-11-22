@@ -48,8 +48,16 @@ USES_MATERIAL_LIST_RE = re.compile(
 BACKTICK = chr(96)
 TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
-    r"(?P<image>!\[(?:\\.|[^\]])*\]\((?P<destination>[^)]+)\))"
-    r"\s*/\s*_(?P<caption>(?:\\.|[^_])*)_"
+    r"(?P<image>!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\))"
+    r"(?:\s*/\s*|\s*<br\s*/?>\s*|\s*\r?\n\s*)"
+    r"_(?P<caption>(?:\\.|[^_])*)_",
+    re.IGNORECASE,
+)
+LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
+    r"(?:\\)?\[(?:\\)?\[File:\s*(?:/\s*)?", re.IGNORECASE
+)
+LEAKED_FILE_WRAPPER_SUFFIX_RE = re.compile(
+    r"\s*(?:/\s*)?(?:\d+\s*px)?(?:\\)?\](?:\\)?\]\s*$", re.IGNORECASE
 )
 INLINE_CODE_SPAN_RE = re.compile(
     "("
@@ -1925,18 +1933,35 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
 
 
 def _remove_redundant_image_filename_captions(value: str) -> str:
-    """Drop italic captions that only repeat the adjacent image filename."""
+    """Drop captions that repeat an image's alt label or source filename."""
 
     def replace(match: re.Match[str]) -> str:
-        caption = re.sub(r"\\(.)", r"\1", match.group("caption"))
+        unescape = lambda text: re.sub(r"\\(.)", r"\1", text)
+        caption = unescape(match.group("caption")).strip()
+        label = unescape(match.group("label")).strip()
         destination = urllib.parse.unquote(
             urllib.parse.urlsplit(match.group("destination")).path
         )
-        if normalize_image_name(caption) == normalize_image_name(destination):
+        same_label = bool(label) and caption.casefold() == label.casefold()
+        same_filename = normalize_image_name(caption) == normalize_image_name(
+            destination
+        )
+        if same_label or same_filename:
             return match.group("image")
         return match.group(0)
 
     return REDUNDANT_IMAGE_FILENAME_CAPTION_RE.sub(replace, value)
+
+
+def _remove_leaked_file_wrapper(value: str) -> str:
+    """Remove raw File-link syntax and pixel width left around rendered images."""
+    if "File:" not in value or "![" not in value:
+        return value
+    cleaned, prefixes = LEAKED_FILE_WRAPPER_PREFIX_RE.subn("", value, count=1)
+    if not prefixes:
+        return value
+    cleaned, _ = LEAKED_FILE_WRAPPER_SUFFIX_RE.subn("", cleaned, count=1)
+    return cleaned
 
 
 def _markdown_table_cell(
@@ -1944,6 +1969,7 @@ def _markdown_table_cell(
 ) -> str:
     """Render a table cell as a single Markdown table row value."""
     content = _render_html_children(cell).rstrip()
+    content = _remove_leaked_file_wrapper(content)
     content = _remove_redundant_image_filename_captions(content)
     if content.endswith(r"\|-"):
         content = content[:-3].rstrip()
@@ -2040,7 +2066,11 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         values = [
             (cell, value)
             for cell in cells
-            if (value := _markdown_table_cell(cell).strip())
+            if (
+                value := _markdown_table_cell(
+                    cell, use_html_line_breaks=True
+                ).strip()
+            )
         ]
         if not values:
             continue
@@ -2252,12 +2282,18 @@ def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxD
             data.section = plain_values[0].casefold()
             data.pending_requirement = None
             continue
-        if (
-            data.section == "requirements"
-            and len(cells) > 1
-            and plain_values[0].rstrip(":").casefold() == "item"
-        ):
+        row_label = plain_values[0].rstrip(":").casefold() if plain_values else ""
+        if data.section == "requirements" and row_label == "item":
             data.section = "materials"
+            data.pending_requirement = None
+            if len(cells) == 1:
+                continue
+        if (
+            data.section == "materials"
+            and len(cells) == 1
+            and row_label in {"item", "quantity"}
+        ):
+            continue
         if not any(plain_values):
             continue
 

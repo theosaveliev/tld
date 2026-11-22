@@ -1883,8 +1883,13 @@ def test_render_mediawiki_html_recovers_reported_unexpected_ref_closers(
     expanded = "Opening text\nA sentence</ref>\nClosing text"
     received: list[str] = []
 
+    def identity_sanitizer(value: str) -> str:
+        return value
+
     monkeypatch.setattr(
-        markdown_export_module, "_sanitize_expanded_wikitext", lambda value: value
+        markdown_export_module,
+        "_sanitize_expanded_wikitext",
+        identity_sanitizer,
     )
 
     def fake_pandoc(_pandoc: str, value: str, from_format: str, to_format: str) -> str:

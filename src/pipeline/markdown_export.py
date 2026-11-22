@@ -1312,8 +1312,7 @@ def _external_interwiki_href(href: str) -> str | None:
     if community is not None:
         article = urllib.parse.quote(
             urllib.parse.unquote(community.group(2)).replace(" ", "_"),
-            safe="!def _rewrite_anchor_nodes(
-    root: lhtml.HtmlElement,'()*+,-._~:",
+            safe="!()*+,-._~:",
         )
         result = f"https://{community.group(1)}.fandom.com/wiki/{article}"
     else:
@@ -1324,15 +1323,13 @@ def _external_interwiki_href(href: str) -> str | None:
         if wikipedia is not None:
             article = urllib.parse.quote(
                 urllib.parse.unquote(wikipedia.group(1)).replace(" ", "_"),
-                safe="!def _rewrite_anchor_nodes(
-    root: lhtml.HtmlElement,'()*+,-._~:",
+                safe="!()*+,-._~:",
             )
             result = f"https://en.wikipedia.org/wiki/{article}"
         elif wiktionary is not None:
             article = urllib.parse.quote(
                 urllib.parse.unquote(wiktionary.group(1)).replace(" ", "_"),
-                safe="!def _rewrite_anchor_nodes(
-    root: lhtml.HtmlElement,'()*+,-._~:",
+                safe="!()*+,-._~:",
             )
             result = f"https://en.wiktionary.org/wiki/{article}"
         elif (
@@ -1341,8 +1338,7 @@ def _external_interwiki_href(href: str) -> str | None:
         ):
             article = urllib.parse.quote(
                 urllib.parse.unquote(language.group(2)).replace(" ", "_"),
-                safe="!def _rewrite_anchor_nodes(
-    root: lhtml.HtmlElement,'()*+,-._~:",
+                safe="!()*+,-._~:",
             )
             result = (
                 f"https://{language.group(1).lower()}.wikipedia.org/wiki/{article}"
@@ -1350,8 +1346,7 @@ def _external_interwiki_href(href: str) -> str | None:
         elif map_namespace is not None:
             article = urllib.parse.quote(
                 "Map:" + urllib.parse.unquote(map_namespace.group(1)),
-                safe="!def _rewrite_anchor_nodes(
-    root: lhtml.HtmlElement,'()*+,-._~:",
+                safe="!()*+,-._~:",
             )
             result = f"https://thelongdark.fandom.com/wiki/{article}"
         else:
@@ -2200,7 +2195,7 @@ def _render_mediawiki_html(
             html_fragment = _restore_deferred_material_tables_in_html(
                 html_fragment, deferred_material_tables or {}
             )
-            recovery_parts = []
+            recovery_parts: list[str] = []
             if ref_closers_removed:
                 recovery_parts.append(
                     f"removing {ref_closers_removed} parser-identified unmatched "

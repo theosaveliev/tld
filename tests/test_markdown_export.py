@@ -303,6 +303,18 @@ def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() ->
     ) == "./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17"
 
 
+    assert resolve_internal_href(
+        "The Long Dark/Early Access Changelog#1.00", "Backpack", mapping, {}
+    ) == (
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md"
+        "#1.00"
+    )
+    assert resolve_internal_href(
+        "The Long Dark/Changelog/Archive 1#1.60", "Backpack", mapping, {}
+    ) == (
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md"
+        "#1.60"
+    )
 def test_resolve_internal_href_preserves_named_interwiki_and_app_links() -> None:
     assert (
         resolve_internal_href("wikt:scumming", "Main Page", {}, {}) == "wikt:scumming"

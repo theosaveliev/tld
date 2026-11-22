@@ -842,6 +842,63 @@ def test_page_markdown_removes_inline_wikitext_table_wrappers() -> None:
     assert "Details  after text" in markdown
 
 
+def test_html_wrapper_table_renders_mixed_block_content_without_flattening() -> None:
+    fragment = """<table><tbody><tr><td>
+<p>Port Remnant introduction.</p>
+<h2>Overview</h2>
+<p>First overview paragraph.</p>
+<table class="infobox"><tbody>
+<tr><td>Details</td><td>Abandoned port</td></tr>
+</tbody></table>
+</td></tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "Port Remnant introduction." in markdown
+    assert "## Overview" in markdown
+    assert "First overview paragraph." in markdown
+    assert "| Property | Details |" in markdown
+    assert "| Details | Abandoned port |" in markdown
+    assert " / ## Overview / " not in markdown
+
+
+def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
+    fragment = """<table><tbody>
+<tr><td><ul>
+<li><a href="./Barn.md">Barn</a></li>
+<li><a href="./Burned_Ridge_Cave.md">Burned Ridge Cave</a></li>
+<li><a href="./Bunker_Beta.md">Bunker Beta</a></li>
+</ul></td></tr>
+</tbody></table>"""
+
+    markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
+
+    assert not failed
+    assert not note
+    assert "- [Barn](./Barn.md)" in markdown
+    assert "- [Burned Ridge Cave](./Burned_Ridge_Cave.md)" in markdown
+    assert "- [Bunker Beta](./Bunker_Beta.md)" in markdown
+    assert " / " not in markdown
+    assert "| Column 1 |" not in markdown
+
+
+def test_page_markdown_removes_additional_leaked_template_labels() -> None:
+    body = """## References
+
+**Template:update history**
+
+**Template:reflist**
+
+25.00 kg / _(55 lb)_**Template:pic link**
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "Template:" not in markdown
+    assert "References" in markdown
+    assert "25.00 kg / _(55 lb)_" in markdown
+
+
 def test_html_wrapper_table_renders_nested_table_without_flattening() -> None:
     fragment = """<table><tbody><tr><td>
 <p>Before the nested table.</p>

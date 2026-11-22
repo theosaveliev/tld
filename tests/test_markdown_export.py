@@ -680,6 +680,37 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
     assert "&lt;a" not in markdown
 
 
+def test_recovered_html_tables_use_pandoc_before_custom_renderer(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    calls: list[tuple[str, str]] = []
+
+    def render_with_pandoc(
+        _pandoc: str, _text: str, source_format: str, target_format: str
+    ) -> str:
+        calls.append((source_format, target_format))
+        return "DLC-Exclusive content is preserved."
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", render_with_pandoc)
+    fragment = """<table><tbody><tr>
+<td><img src="../assets/Ptarmigan_icon.png" /></td>
+<td><strong>DLC-Exclusive content.</strong></td>
+</tr></tbody></table>"""
+    recovery_note = (
+        "Recovered from Pandoc's unexpected end of input by closing "
+        "1 unterminated MediaWiki table(s)."
+    )
+
+    markdown, note, failed = _convert_html_to_markdown(
+        "pandoc", fragment, recovery_note
+    )
+
+    assert not failed
+    assert note == recovery_note
+    assert calls == [("html", "gfm")]
+    assert "DLC-Exclusive content is preserved." in markdown
+
+
 def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:

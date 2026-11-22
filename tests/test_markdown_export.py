@@ -1611,6 +1611,72 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     assert "## Section One" in markdown
 
 
+
+
+def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> None:
+    root = lhtml.fragment_fromstring(
+        '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>',
+        create_parent="div",
+    )
+
+    markdown_export_module._add_mediawiki_heading_ids(root)
+    markdown = _html_fragment_to_markdown(
+        etree.tostring(root, encoding="unicode", method="html")
+    )
+
+    assert '<span id="0.233"></span>' in markdown
+    assert '<span id="0233-silent-hunter-update"></span>' in markdown
+    assert "## 0.233 (Silent Hunter Update)" in markdown
+
+
+def test_custom_html_renderer_preserves_footnote_and_reference_ids() -> None:
+    fragment = """<section class="footnotes"><ol>
+<li id="fn1">A footnote <a id="fnref1" href="#fnref1">↩</a></li>
+</ol></section>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert '<span id="fn1"></span>' in markdown
+    assert '<span id="fnref1"></span>' in markdown
+    assert "[↩](#fnref1)" in markdown
+
+
+def test_page_markdown_cleans_escaped_bear_update_tags() -> None:
+    body = (
+        "- \\*Note: Bear meat is dangerous.\n"
+        "- &#x20;\\[General\\]&#x20; Bear sound effects changed.\n"
+        "| [Bear Meat](./Bear%20Meat.md)\\* | 25 - 40 |"
+    )
+
+    markdown = _page_markdown("Bear", [], body, None)
+
+    assert "*Note: Bear meat is dangerous." in markdown
+    assert "[General] Bear sound effects changed." in markdown
+    assert "&#x20;" not in markdown
+    assert r"\[General\]" not in markdown
+    assert r"\*" not in markdown
+
+
+def test_missing_title_aliases_resolve_to_existing_page_filenames() -> None:
+    mapping = {
+        "Fukkatsu Maru": "Fukkatsu Maru.md",
+        "Map": "Map.md",
+        "Port Remnant": "Port Remnant.md",
+        "Salt Deposit": "Salt Deposit.md",
+    }
+
+    assert markdown_export_module._lookup_title_filename(
+        "Fukattsu Maru", mapping
+    ) == "Fukkatsu Maru.md"
+    assert markdown_export_module._lookup_title_filename("Maps", mapping) == "Map.md"
+    assert markdown_export_module._lookup_title_filename(
+        "Port Renmant", mapping
+    ) == "Port Remnant.md"
+    assert markdown_export_module._lookup_title_filename(
+        "Salt Depost", mapping
+    ) == "Salt Deposit.md"
+
+
 def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     source = (
         '{| class="wikitable sticky-header sortable style="text-align: left;"\n'

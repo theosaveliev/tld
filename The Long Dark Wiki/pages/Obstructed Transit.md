@@ -4,9 +4,45 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Obstructed Transit**<br>![Perimeter](../assets/Obstructed_Transit.jpg)<br>![Interior](../assets/Obstructed_Transit_Interior.jpg)<br>250px\]\]<br>**Location**<br>\[Missing image: Obstructed\_Transit\_Location.png\]<br>_Obstructed\_Transit\_Location.png_<br>Region<br>[Port Remnant](./Port%20Remnant.md)\\|-<br>Location<br>**Description:** A train station pickup terminal long fallen into ruin and completely surrounded by a chain link fence.<br>**General**<br>**Firebox:** [Fire Barrel](./Fire%20Barrel.md)<br>Has no shelter\ **Obstructed Transit** is a location in [Port Remnant](./Port%20Remnant.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Obstructed Transit**
+
+\[\[File:
+
+![Perimeter](../assets/Obstructed_Transit.jpg)
+
+![Interior](../assets/Obstructed_Transit_Interior.jpg)
+
+250px\]\]
+
+**Location**
+
+\[Missing image: Obstructed\_Transit\_Location.png\]
+
+_Obstructed\_Transit\_Location.png_
+
+Region
+
+[Port Remnant](./Port%20Remnant.md)|-
+
+Location
+
+Description
+
+A train station pickup terminal long fallen into ruin and completely surrounded by a chain link fence.
+
+**General**
+
+Firebox
+
+[Fire Barrel](./Fire%20Barrel.md)
+
+Has no shelter **Obstructed Transit** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

@@ -13,7 +13,11 @@
 
 **Trapper's Homestead**
 
-![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg)<br>![Interior](../assets/Trapper%27s_Homestead_interior.jpg)
+\[\[File:
+
+![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg)
+
+![Interior](../assets/Trapper%27s_Homestead_interior.jpg)
 
 250px\]\]
 
@@ -23,17 +27,19 @@
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)|-
 
 Location
 
-**Description:** A trapper's home.
+Description
+
+A trapper's home.
 
 **General**
 
 Type
 
-Military/Sporting
+Military/Sporting|-
 
 Firebox
 
@@ -43,7 +49,7 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

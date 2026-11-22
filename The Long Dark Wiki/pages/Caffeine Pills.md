@@ -4,9 +4,41 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Caffeine Pills**<br>![Caffeine Pills icon](../assets/Caffeine_Pills_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [First Aid](./First%20Aid.md)\\|-<br>**Stackable:** Yes<br>**Examine:** Pure Caffeine. The tablets help resist the accumulation and onset of Fatique.<br>**Values**<br>**Calories:** 5 kcal<br>**Weight:** 0.10 kg (0.22 lbs)<br>**Advanced data**<br>**Item key:** GEAR\_BottleCaffeine<br>**Caffeine Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Caffeine Pills**
+
+![Caffeine Pills icon](../assets/Caffeine_Pills_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) only)
+
+**Properties**
+
+**Item type:** [First Aid](./First%20Aid.md)
+
+**Stackable:** Yes
+
+**Examine:** Pure Caffeine. The tablets help resist the accumulation and onset of Fatique.
+
+**Values**
+
+**Calories:** 5 kcal
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GEAR\_BottleCaffeine
+
+**Caffeine Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 

@@ -13,9 +13,45 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Hunter's Revolver**<br>![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** No (unique item)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Vintage, hand-cannon style. Its stout construction allows for deadlier shots at distance.<br>**Values**<br>**Weight:** 1.75 kg (3.85 lbs)<br>**Actions**<br>**Backpack:** Use, Actions, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GEAR\_RevolverFancy<br>**Hunter's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Hunter's Revolver**
+
+![Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** No (unique item)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** Vintage, hand-cannon style. Its stout construction allows for deadlier shots at distance.
+
+**Values**
+
+**Weight:** 1.75 kg (3.85 lbs)
+
+**Actions**
+
+**Backpack:** Use, Actions, Drop
+
+**On ground:** Take It, Equip It, Leave It
+
+**Advanced data**
+
+**Item key:** GEAR\_RevolverFancy
+
+**Hunter's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 

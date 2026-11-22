@@ -11,7 +11,11 @@
 
 **Convenience Store**
 
-![Floor](../assets/SS-MT-Orca-02.jpg)<br>![Back](../assets/SS-MT-Orca-01.jpg)
+\[\[File:
+
+![Floor](../assets/SS-MT-Orca-02.jpg)
+
+![Back](../assets/SS-MT-Orca-01.jpg)
 
 250px\]\]
 
@@ -21,17 +25,19 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
-**Description:** An abandoned gas station
+Description
+
+An abandoned gas station
 
 **General**
 
 Type
 
-Store
+Store|-
 
 Firebox
 
@@ -39,11 +45,17 @@ Firebox
 
 Has a bed
 
-**Has an interior\|-:** **Wintermute**
+Has an interior|-
 
-**Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+**Wintermute**
 
-**Characters:** [Methuselah](./Methuselah.md)
+Missions
+
+[Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+Characters
+
+[Methuselah](./Methuselah.md)
 
 The **Convenience** **Store** is the inside store found at the [Orca Gas Station](./Orca%20Gas%20Station.md). The front and back doors to the station are both initially locked in [Survival Mode](./Survival%20Mode.md), and require a [Prybar](./Prybar.md) to open.
 

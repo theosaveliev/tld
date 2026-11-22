@@ -4,6 +4,8 @@
 
 **Moose Overlook**
 
+\[\[File:
+
 ![Moose Overlook](../assets/Moose_Overlook.png)
 
 250px\]\]
@@ -12,11 +14,13 @@
 
 Region
 
-[Hushed River Valley](./Hushed%20River%20Valley.md)
+[Hushed River Valley](./Hushed%20River%20Valley.md)|-
 
 **General**
 
-**Type:** Outdoors
+Type
+
+Outdoors|-
 
 ## Overview
 

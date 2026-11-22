@@ -34,9 +34,15 @@ Wintermute
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**Although quite old, the Holster's original owner took great care to preserve the leatherwork. Its fine construction reduces the weight of your primary Rifle.**”<br>The **Security Chief's Rifle Holster** is a type of accessory in _The Long Dark_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**Although quite old, the Holster's original owner took great care to preserve the leatherwork. Its fine construction reduces the weight of your primary Rifle.**”
+
+The **Security Chief's Rifle Holster** is a type of accessory in _The Long Dark_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
 ## Overview
 

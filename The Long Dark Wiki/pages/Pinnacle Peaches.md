@@ -12,47 +12,75 @@
 
 **Pinnacle Peaches**
 
-![Sealed](../assets/Pinnacle_Peaches_icon.png)<br>![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png)
+\[\[File:
+
+![Sealed](../assets/Pinnacle_Peaches_icon.png)
+
+![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png)
 
 250px\]\]
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+Release
 
-**Wintermute:** No
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
-**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+Wintermute
+
+No
+
+Renewable
+
+Yes (rare [Beachcombing](./Beachcombing.md))
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** High quality peaches, halved.
+No
+
+Examine
+
+High quality peaches, halved.
 
 **Values**
 
-**Calories:** 450 kcal
+Calories
 
-**Hydration:** 20%
+450 kcal
 
-**[Vitamin C](./Scurvy.md):** Moderate (56%)
+Hydration
 
-**Weight:** 0.50 kg (1.1 lbs)
+20%
+
+[Vitamin C](./Scurvy.md)
+
+Moderate (56%)
+
+Weight
+
+0.50 kg (1.1 lbs)
 
 **Decay Rate**
 
-**Inside:** 0.333% per day
+Inside
 
-**Outside:** 1.667% per day
+0.333% per day
+
+Outside
+
+1.667% per day
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_PinnaclePeaches
+Item key
+
+GAMEPLAY\_PinnaclePeaches
 
 **Pinnacle Peaches** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

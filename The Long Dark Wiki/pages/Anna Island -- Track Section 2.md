@@ -15,9 +15,33 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Anna Island -- Track Section 2**<br>![Track Section 2 Turn Circle](../assets/Track_Section_2_Turn_Circle.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 2 Map](../assets/Anna_Island_Track_Section_2_Map.png)<br>**Details**<br>**Description:** A long stretch of coastal railway.<br>**Connecting Regions:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 2** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Anna Island -- Track Section 2**
+
+![Track Section 2 Turn Circle](../assets/Track_Section_2_Turn_Circle.jpg)
+
+**Location on [Cauldron Island](./Cauldron%20Island.md)**
+
+![No picture](../assets/No_picture.png)
+
+![Anna Island Track Section 2 Map](../assets/Anna_Island_Track_Section_2_Map.png)
+
+**Details**
+
+**Description:** A long stretch of coastal railway.
+
+**Connecting Regions:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)
+
+**Interloper Region Spawn:** No
+
+**Date Added:** October 27 2026
+
+**Anna Island -- Track Section 2** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 

@@ -12,15 +12,29 @@
 
 **Shelf**
 
-![Wide](../assets/Wide_Shelf.jpg)<br>![Large](../assets/Large_Shelf.jpg)<br>![Bookshelf](../assets/Bookshelf.jpg)<br>![Gun Rack](../assets/Hunting_rifle_rack.jpg)<br>![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
+\[\[File:
+
+![Wide](../assets/Wide_Shelf.jpg)
+
+![Large](../assets/Large_Shelf.jpg)
+
+![Bookshelf](../assets/Bookshelf.jpg)
+
+![Gun Rack](../assets/Hunting_rifle_rack.jpg)
+
+![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
 **Shelves**are common features in indoor environments in _[The Long Dark](./The%20Long%20Dark.md)_.
 

@@ -32,9 +32,15 @@ Clothing Slot
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**Tougher, with better resistance against wind and water than a standard Balaclava.**”<br>**Technical Balaclava** is a type of clothing in The Long Dark. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**Tougher, with better resistance against wind and water than a standard Balaclava.**”
+
+**Technical Balaclava** is a type of clothing in The Long Dark. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
 ## Overview
 

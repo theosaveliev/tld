@@ -4,10 +4,22 @@
 
 **Fuel Cover**
 
-![Truck](../assets/Truck_Fuel_Cover.jpg)<br>![Truck](../assets/Truck_Fuel_Cover_Open.jpg)<br>![Car](../assets/Car_Fuel_Cover.jpg)<br>![Car](../assets/Car_Fuel_Cover_Open.jpg)
+\[\[File:
+
+![Truck](../assets/Truck_Fuel_Cover.jpg)
+
+![Truck](../assets/Truck_Fuel_Cover_Open.jpg)
+
+![Car](../assets/Car_Fuel_Cover.jpg)
+
+![Car](../assets/Car_Fuel_Cover_Open.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
+
+Item
+
+Wintermute

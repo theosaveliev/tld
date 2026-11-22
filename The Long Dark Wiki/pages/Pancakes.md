@@ -4,9 +4,45 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Pancakes**<br>![Pancakes icon](../assets/Pancakes_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md))<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 500 (625) kcal<br>**Hydration:** -3.0%<br>**Weight:** 0.15 kg (0.33 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Pancake<br>**Pancakes** are a food item made with a [Cooking Skillet](./Cooking%20Skillet.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Pancakes**
+
+![Pancakes icon](../assets/Pancakes_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Values**
+
+**Calories:** 500 (625) kcal
+
+**Hydration:** -3.0%
+
+**Weight:** 0.15 kg (0.33 lbs)
+
+**Decay Rate**
+
+**Inside:** 20.000% per day
+
+**Outside:** 5.000% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Pancake
+
+**Pancakes** are a food item made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
 ## Recipe
 

@@ -4,7 +4,11 @@
 
 **Abandoned Mine**
 
-![Entrance](../assets/Abandoned_Mine.jpg)<br>![Exit](../assets/Abandoned_Mine_2.jpg)
+\[\[File:
+
+![Entrance](../assets/Abandoned_Mine.jpg)
+
+![Exit](../assets/Abandoned_Mine_2.jpg)
 
 250px\]\]
 
@@ -14,7 +18,7 @@
 
 Region
 
-[Sundered Pass](./Sundered%20Pass.md)
+[Sundered Pass](./Sundered%20Pass.md)|-
 
 Description
 
@@ -22,7 +26,7 @@ Description
 
 Type
 
-Cave
+Cave|-
 
 Firebox
 

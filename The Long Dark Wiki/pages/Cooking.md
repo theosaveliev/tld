@@ -142,9 +142,29 @@ Some plants can be cooked and eaten as is. Acorns are a unique food that can be 
 
 ## Frontier Cooking Recipes
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Ptarmigan icon](../assets/Ptarmigan_icon.png) | **DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. |  ![Icon Enhanced Cooking](../assets/Icon_Enhanced_Cooking.svg) ![1 Cooking System 1 768x432](../assets/1-Cooking-System-1-768x432.png)<br>> “**Recipes and new ingredients open a range of possibilities for food preparations that can offer different gameplay effects.**”<br>><br>> — Official marketing description<br>Enhanced Cooking Recipes were added in the Part 3: Frontier Comforts update, available for players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Expansion. Cooking Recipes have a different classification from normal cooking:<br>- They require multiple ingredients to create rather than simply cooking one item, and tend to take longer to prepare than normal foods, but can be worth the effort to create as they can provide unique benefits that can increase/decrease Afflictions.<br>- Enhanced Recipes require additional time to be "prepared" rather than simple placing them in a container and cooking them.<br>- Unlike regular cooking, Enhanced Cooking requires fresh ingredients, I.E. non-Ruined food items, to prepare recipes.<br>- Some recipes require the player to reach a certain Cooking skill level before the player is allowed to make them.<br>There are currently 24 recipes in total, separated into 3 categories via container used to prepare them. A full list can be found in the unique Recipe Book menu of the [Survival Menu](./Survival%20Menu.md) (Cooking Pot icon).<br>- 16 base Recipes are available from the start.<br>- 13 Unique Recipes can be found on [Recipe Cards](./Recipe%20Cards.md) that are spread out all over Great Bear and must be collected by the player first before they appear in the Cooking Recipe menu. Once the Recipe Card is obtained, it can be identified in the Cooking Recipe menu via a![Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png)white star. These recipes require the most ingredients to make and the highest Cooking Skill Levels, but they offer the greatest Affliction boosts. Unique Recipe Cards can be tracked in the Collectibles menu of the [Journal](./Journal.md). |
+![Ptarmigan icon](../assets/Ptarmigan_icon.png)
+
+**DLC-Exclusive content.**
+
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ ![Icon Enhanced Cooking](../assets/Icon_Enhanced_Cooking.svg) ![1 Cooking System 1 768x432](../assets/1-Cooking-System-1-768x432.png)
+
+> “**Recipes and new ingredients open a range of possibilities for food preparations that can offer different gameplay effects.**”
+>
+> — Official marketing description
+
+Enhanced Cooking Recipes were added in the Part 3: Frontier Comforts update, available for players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Expansion. Cooking Recipes have a different classification from normal cooking:
+
+- They require multiple ingredients to create rather than simply cooking one item, and tend to take longer to prepare than normal foods, but can be worth the effort to create as they can provide unique benefits that can increase/decrease Afflictions.
+- Enhanced Recipes require additional time to be "prepared" rather than simple placing them in a container and cooking them.
+- Unlike regular cooking, Enhanced Cooking requires fresh ingredients, I.E. non-Ruined food items, to prepare recipes.
+- Some recipes require the player to reach a certain Cooking skill level before the player is allowed to make them.
+
+There are currently 24 recipes in total, separated into 3 categories via container used to prepare them. A full list can be found in the unique Recipe Book menu of the [Survival Menu](./Survival%20Menu.md) (Cooking Pot icon).
+
+- 16 base Recipes are available from the start.
+- 13 Unique Recipes can be found on [Recipe Cards](./Recipe%20Cards.md) that are spread out all over Great Bear and must be collected by the player first before they appear in the Cooking Recipe menu. Once the Recipe Card is obtained, it can be identified in the Cooking Recipe menu via a![Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png)white star. These recipes require the most ingredients to make and the highest Cooking Skill Levels, but they offer the greatest Affliction boosts. Unique Recipe Cards can be tracked in the Collectibles menu of the [Journal](./Journal.md).
 
 ### Preparing Recipes
 

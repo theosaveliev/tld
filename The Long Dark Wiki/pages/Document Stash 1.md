@@ -4,9 +4,33 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Document Stash 1**<br>![Document Stash 1 icon](../assets/Document_Stash_1_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** An old lockbox.<br>**Values**<br>**Weight:** 0.00 kg (0 lbs)<br>**Document Stash 1** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Document Stash 1**
+
+![Document Stash 1 icon](../assets/Document_Stash_1_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** An old lockbox.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Document Stash 1** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Overview
 

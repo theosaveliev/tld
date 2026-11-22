@@ -1,6 +1,6 @@
 # Bed
 
-**Categories:** Beds, Interactable Objects, Interactable objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
+**Categories:** Beds, Interactable objects, Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
 
 **Contents**
 
@@ -12,15 +12,39 @@
 
 **Bed**
 
-![Full](../assets/Bed_2.jpg)<br>![Twin](../assets/Bed.jpg)<br>![Cot](../assets/Cot.jpg)<br>![Bunk bed](../assets/Bunk_bed.jpg)<br>![Mattress](../assets/Mattress.png)<br>![Hay](../assets/Hay.jpg)<br>![Tuffet](../assets/Bed_%28Natural%29.png)<br>![Medical Cot](../assets/FinalApproachMedicalCot.jpg)<br>![Blanket](../assets/Bed_Blanket.jpg)
+\[\[File:
+
+![Full](../assets/Bed_2.jpg)
+
+![Twin](../assets/Bed.jpg)
+
+![Cot](../assets/Cot.jpg)
+
+![Bunk bed](../assets/Bunk_bed.jpg)
+
+![Mattress](../assets/Mattress.png)
+
+![Hay](../assets/Hay.jpg)
+
+![Tuffet](../assets/Bed_%28Natural%29.png)
+
+![Medical Cot](../assets/FinalApproachMedicalCot.jpg)
+
+![Blanket](../assets/Bed_Blanket.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** Yes<br>A **Bed** is a type of furniture or a small, pre-built construction that frequently appears in houses and cabins, with some variants appearing in other buildings and even in some caves. Beds can be used to restore [Fatigue](./Fatigue.md) by [Sleeping](./Sleep.md) and grant a [Warmth](./Warmth.md) bonus while being used.
+Item
+
+Wintermute
+
+Yes
+
+A **Bed** is a type of furniture or a small, pre-built construction that frequently appears in houses and cabins, with some variants appearing in other buildings and even in some caves. Beds can be used to restore [Fatigue](./Fatigue.md) by [Sleeping](./Sleep.md) and grant a [Warmth](./Warmth.md) bonus while being used.
 
 ## Overview
 

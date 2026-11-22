@@ -39,9 +39,17 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**A warm sweater for days on the ice. Or anywhere cold.**”<br>><br>> — In-game description<br>A **Hockey Jersey** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**A warm sweater for days on the ice. Or anywhere cold.**”
+>
+> — In-game description
+
+A **Hockey Jersey** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
 ## Overview
 

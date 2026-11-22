@@ -4,7 +4,13 @@
 
 **Signal Hill**
 
-\[Missing image: SignalHill2.png\]<br>_Exterior_<br>![Interior](../assets/Signal_Hill_-_radio_shack_bedroom.png)
+\[\[File:
+
+\[Missing image: SignalHill2.png\]
+
+_Exterior_
+
+![Interior](../assets/Signal_Hill_-_radio_shack_bedroom.png)
 
 250px\]\]
 
@@ -14,7 +20,7 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)
+[Pleasant Valley](./Pleasant%20Valley.md)|-
 
 Description
 
@@ -22,7 +28,7 @@ Description
 
 Type
 
-Military/Sporting
+Military/Sporting|-
 
 Firebox
 
@@ -32,7 +38,7 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Location features
 

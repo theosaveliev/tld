@@ -13,9 +13,43 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Sport Bow**<br>![Sport Bow icon](../assets/Sport_Bow_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A light and durable manufactured Bow. A trusty companion on or off the archery range.<br>**Values**<br>**Weight:** 0.35 kg (0.77 lbs)<br>**Actions**<br>**Backpack:** Use, Actions, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GEAR\_Bow\_Manufactured<br>**Sport Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Sport Bow**
+
+![Sport Bow icon](../assets/Sport_Bow_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** A light and durable manufactured Bow. A trusty companion on or off the archery range.
+
+**Values**
+
+**Weight:** 0.35 kg (0.77 lbs)
+
+**Actions**
+
+**Backpack:** Use, Actions, Drop
+
+**On ground:** Take It, Equip It, Leave It
+
+**Advanced data**
+
+**Item key:** GEAR\_Bow\_Manufactured
+
+**Sport Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 

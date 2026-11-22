@@ -32,9 +32,17 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**A superior Wrap crafted from the warm, protective hide of a Cougar.**”<br>><br>> — In-game description<br>A **Cougar Hide Wrap** is a craftable [Clothing](./Clothing.md) worn on the outer layer of the head.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**A superior Wrap crafted from the warm, protective hide of a Cougar.**”
+>
+> — In-game description
+
+A **Cougar Hide Wrap** is a craftable [Clothing](./Clothing.md) worn on the outer layer of the head.
 
 ## Overview
 

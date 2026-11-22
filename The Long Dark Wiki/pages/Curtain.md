@@ -4,15 +4,23 @@
 
 **Curtain**
 
-![Window](../assets/Curtain.jpg)<br>![Bed](../assets/CurtainBed.jpg)
+\[\[File:
+
+![Window](../assets/Curtain.jpg)
+
+![Bed](../assets/CurtainBed.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** Yes **Curtains** are interactable items that are found inside homes, cabins, or industrial buildings and can be harvested for [Cloth](./Cloth.md) either by hand or with a [Hunting Knife](./Hunting%20Knife.md).
+Item
+
+Wintermute
+
+Yes **Curtains** are interactable items that are found inside homes, cabins, or industrial buildings and can be harvested for [Cloth](./Cloth.md) either by hand or with a [Hunting Knife](./Hunting%20Knife.md).
 
 ## Curtain
 

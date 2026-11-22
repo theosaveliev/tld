@@ -4,6 +4,8 @@
 
 **Coastal Townsite**
 
+\[\[File:
+
 ![Coastal townsite 2](../assets/Coastal_townsite_2.jpg)
 
 250px\]\]
@@ -14,21 +16,25 @@
 
 Region
 
-**Sublocations:** [Quonset Gas Station](./Quonset%20Garage.md)
+Sublocations
 
-**Description:** A small neighborhood
+[Quonset Gas Station](./Quonset%20Garage.md)
+
+Description
+
+A small neighborhood
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 ![Bed icon](../assets/Bed_icon.png)
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

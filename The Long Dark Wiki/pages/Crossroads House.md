@@ -11,7 +11,11 @@
 
 **Crossroads House**
 
-![1 story](../assets/Crossroads_House_1.jpg)<br>![Shed](../assets/Crossroads_House_Shed.jpg)
+\[\[File:
+
+![1 story](../assets/Crossroads_House_1.jpg)
+
+![Shed](../assets/Crossroads_House_Shed.jpg)
 
 250px\]\]
 
@@ -19,7 +23,7 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)
+[Pleasant Valley](./Pleasant%20Valley.md)|-
 
 Location
 
@@ -27,7 +31,7 @@ Location
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 

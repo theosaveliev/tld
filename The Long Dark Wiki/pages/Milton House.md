@@ -14,7 +14,19 @@
 
 **Milton House**
 
-![Type 1](../assets/Milton_House_1.jpg)<br>![Type 2](../assets/Coastal_House_1.jpg)<br>![Type 3](../assets/Milton_House_2.jpg)<br>![Type 4](../assets/Milton_Bank_Managers_House.jpg)<br>![Type 5](../assets/Crossroads_House_Shed.jpg)<br>![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png)
+\[\[File:
+
+![Type 1](../assets/Milton_House_1.jpg)
+
+![Type 2](../assets/Coastal_House_1.jpg)
+
+![Type 3](../assets/Milton_House_2.jpg)
+
+![Type 4](../assets/Milton_Bank_Managers_House.jpg)
+
+![Type 5](../assets/Crossroads_House_Shed.jpg)
+
+![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png)
 
 250px\]\]
 
@@ -22,7 +34,7 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
@@ -30,7 +42,7 @@ Location
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 
@@ -38,7 +50,11 @@ Firebox
 
 Has a bed
 
-Has an interior<br>_For the large house owned by Grey Mother, see [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)._<br>A **Milton House**is a type of house or shed found throughout the Town of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Crossroads House](./Crossroads%20House.md).
+Has an interior
+
+_For the large house owned by Grey Mother, see [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)._
+
+A **Milton House**is a type of house or shed found throughout the Town of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Crossroads House](./Crossroads%20House.md).
 
 ## Overview
 

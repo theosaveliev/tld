@@ -4,9 +4,27 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Last Quarrel**<br>![Last Quarrel](../assets/Last_Quarrel.jpg)<br>**Location**<br>![Last Quarrel Location](../assets/Last_Quarrel_Location.png)<br>**Region:** [Port Remnant](./Port%20Remnant.md)\\|-<br>**Description:** A large cave hidden behind 2 waterfalls.<br>**General**<br>Has no shelter\ **Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Last Quarrel**
+
+![Last Quarrel](../assets/Last_Quarrel.jpg)
+
+**Location**
+
+![Last Quarrel Location](../assets/Last_Quarrel_Location.png)
+
+**Region:** [Port Remnant](./Port%20Remnant.md)
+
+**Description:** A large cave hidden behind 2 waterfalls.
+
+**General**
+
+Has no shelter **Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

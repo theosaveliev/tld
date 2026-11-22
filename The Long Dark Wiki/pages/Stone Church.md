@@ -4,7 +4,11 @@
 
 **Stone Church**
 
-![Exterior](../assets/Stone_Church.jpg)<br>![Interior](../assets/Stone_Church_interior.jpg)
+\[\[File:
+
+![Exterior](../assets/Stone_Church.jpg)
+
+![Interior](../assets/Stone_Church_interior.jpg)
 
 250px\]\]
 
@@ -14,7 +18,7 @@
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)
+[Desolation Point](./Desolation%20Point.md)|-
 
 Location
 
@@ -22,7 +26,7 @@ Location
 
 Type
 
-Outdoors
+Outdoors|-
 
 Firebox
 

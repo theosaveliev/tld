@@ -4,21 +4,31 @@
 
 **Metal Chair**
 
-![Chair](../assets/MetalChair.jpg)<br>![Armrest](../assets/MetalChairArmrest.jpg)<br>![Bench](../assets/MetalChairBench.jpg)
+\[\[File:
+
+![Chair](../assets/MetalChair.jpg)
+
+![Armrest](../assets/MetalChairArmrest.jpg)
+
+![Bench](../assets/MetalChairBench.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
+
+Item
 
 Wintermute
 
-Yes
+Yes|-
 
 **Statistics**
 
-**Harvest:** 6 x [Scrap Metal](./Scrap%20Metal.md) 1 x [Cloth](./Cloth.md)
+Harvest
+
+6 x [Scrap Metal](./Scrap%20Metal.md) 1 x [Cloth](./Cloth.md)
 
 A **Metal Chair** is a harvestable object that can be found in most offices and industrial areas across the Island.
 

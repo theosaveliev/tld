@@ -4,6 +4,8 @@
 
 **The Tooth**
 
+\[\[File:
+
 ![CH Tooth 2](../assets/CH_Tooth_2.jpg)
 
 250px\]\]
@@ -12,11 +14,15 @@
 
 ![The Tooth map](../assets/The_Tooth_map.png)
 
-**Location:** West of [Log Sort](./Log%20Sort.md)
+Location
+
+West of [Log Sort](./Log%20Sort.md)
 
 **General**
 
-**Type:** Landmark
+Type
+
+Landmark|-
 
 ## Overview
 

@@ -4,15 +4,23 @@
 
 **Lantern**
 
-![Lit](../assets/Lantern.jpg)<br>![Unlit](../assets/LanternUnlit.jpg)
+\[\[File:
+
+![Lit](../assets/Lantern.jpg)
+
+![Unlit](../assets/LanternUnlit.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** Yes **Lanterns** are stationary light-producing objects in _The Long Dark._ For the hand-held light source, see [Storm Lantern](./Storm%20Lantern.md).
+Item
+
+Wintermute
+
+Yes **Lanterns** are stationary light-producing objects in _The Long Dark._ For the hand-held light source, see [Storm Lantern](./Storm%20Lantern.md).
 
 ## Overview
 

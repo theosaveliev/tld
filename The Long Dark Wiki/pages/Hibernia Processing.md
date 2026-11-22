@@ -13,7 +13,11 @@
 
 **Hibernia Processing**
 
-![Exterior](../assets/Hibernia_Processing_Area_View_01.jpg)<br>![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg)
+\[\[File:
+
+![Exterior](../assets/Hibernia_Processing_Area_View_01.jpg)
+
+![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg)
 
 250px\]\]
 
@@ -23,17 +27,19 @@
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)
+[Desolation Point](./Desolation%20Point.md)|-
 
 Location
 
-**Description:** An old whaling station
+Description
+
+An old whaling station
 
 **General**
 
 Type
 
-Industrial
+Industrial|-
 
 Firebox
 
@@ -43,7 +49,7 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

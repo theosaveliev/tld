@@ -4,9 +4,35 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Cougar Quarter**<br>![Cougar Quarter icon](../assets/Cougar_Quarter_icon.png)<br>**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Section of a Cougar carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat.<br>**Values**<br>**Weight:** 4.00 kg (8.8 lbs)<br>**Decay Rate**<br>**Inside:** 10.00% per day<br>**Outside:** 10.00% per day
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Cougar Quarter**
+
+![Cougar Quarter icon](../assets/Cougar_Quarter_icon.png)
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Stackable:** No
+
+**Examine:** Section of a Cougar carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat.
+
+**Values**
+
+**Weight:** 4.00 kg (8.8 lbs)
+
+**Decay Rate**
+
+**Inside:** 10.00% per day
+
+**Outside:** 10.00% per day
 
 ## Overview
 

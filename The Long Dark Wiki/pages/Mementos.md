@@ -23,7 +23,17 @@
 
 **Mementos**
 
-![Note 1](../assets/Mementos_Note_icon.png)<br>![Note 2](../assets/Mementos_Note_3_icon.png)<br>![Note 3](../assets/Mementos_Note_2_icon.png)<br>![Key 1](../assets/Mementos_Key_icon.png)<br>![Key 2](../assets/Mementos_Key_2_icon.png)
+\[\[File:
+
+![Note 1](../assets/Mementos_Note_icon.png)
+
+![Note 2](../assets/Mementos_Note_3_icon.png)
+
+![Note 3](../assets/Mementos_Note_2_icon.png)
+
+![Key 1](../assets/Mementos_Key_icon.png)
+
+![Key 2](../assets/Mementos_Key_2_icon.png)
 
 250px\]\]
 
@@ -31,15 +41,19 @@
 
 Item type
 
-[Collectibles](./Collectibles.md)
+[Collectibles](./Collectibles.md)|-
 
 Examine
 
 **Actions**
 
-**Backpack:** Examine
+Backpack
 
-**On ground:** Take It, Leave It
+Examine
+
+On ground
+
+Take It, Leave It
 
 **Mementos** are [Collectibles](./Collectibles.md) found throughout [Survival Mode](./Survival%20Mode.md). They are hints left for other survivors to find, and contain useful information for the player survivor. This may include locations of a hidden cache or directions to regional transitions and landmarks.
 

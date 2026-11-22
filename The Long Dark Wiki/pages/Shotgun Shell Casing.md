@@ -4,9 +4,31 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>**Shotgun Shell Casing**<br>![Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png)<br>**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** Yes<br>**Examine:** Empty casing from firing a Shotgun Slug. Used for Crafting new Ammunition<br>**Values**<br>**Weight:** 0.01 kg (0.02 lbs)<br>A **Shotgun** **Shell Casing** is a [Materials](./Materials.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+**Shotgun Shell Casing**
+
+![Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png)
+
+**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** Yes
+
+**Examine:** Empty casing from firing a Shotgun Slug. Used for Crafting new Ammunition
+
+**Values**
+
+**Weight:** 0.01 kg (0.02 lbs)
+
+A **Shotgun** **Shell Casing** is a [Materials](./Materials.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.
 
 ## Overview
 

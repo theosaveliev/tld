@@ -4,7 +4,11 @@
 
 **Abandoned Mine No. 5**
 
-![West Access](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)<br>![East Access](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg)
+\[\[File:
+
+![West Access](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)
+
+![East Access](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg)
 
 250px\]\]
 
@@ -14,11 +18,13 @@
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)
+[Desolation Point](./Desolation%20Point.md)|-
 
 **General**
 
-**Type:** Cave
+Type
+
+Cave|-
 
 ## Overview
 

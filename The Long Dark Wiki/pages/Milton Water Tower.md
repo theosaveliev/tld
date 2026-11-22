@@ -10,11 +10,19 @@
 
 ![Milton Water Tower Location](../assets/Milton_Water_Tower_Location.png)
 
-**Region:** [Mountain Town](./Mountain%20Town.md)
+Region
+
+[Mountain Town](./Mountain%20Town.md)|-
 
 **General**
 
-Has no shelter<br>> “**We recommend using bottled water until further notice.**”<br>><br>> — - Public Notice, Great Bear Water Authority<br>**Milton Water Tower** is a landmark and unmarked location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It appears as a landmark on the [Map](./Map.md), but is not considered a location.
+Has no shelter
+
+> “**We recommend using bottled water until further notice.**”
+>
+> — - Public Notice, Great Bear Water Authority
+
+**Milton Water Tower** is a landmark and unmarked location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It appears as a landmark on the [Map](./Map.md), but is not considered a location.
 
 ## Wintermute
 

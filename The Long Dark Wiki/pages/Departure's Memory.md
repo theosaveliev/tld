@@ -4,9 +4,37 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Departure%27s+Memory&amp;action=edit expanding it\].**<br>**Departure's Memory**<br>![Departure's Memory](../assets/Departure%27s_Memory.jpg)<br>**Location**<br>![Departure's Memory Location](../assets/Departure%27s_Memory_Location.png)<br>**Region:** [Port Remnant](./Port%20Remnant.md)\\|-<br>**Description:** A series of ruined warehouses near the frozen bay<br>**General**<br>**Firebox:** [Fire Barrel](./Fire%20Barrel.md)<br>![Bed icon](../assets/Bed_icon.png)<br>Has a bed<br>![Workbench icon green](../assets/Workbench_icon_green.png)<br>Has a workbench
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Departure%27s+Memory&amp;action=edit expanding it\].**
+
+**Departure's Memory**
+
+![Departure's Memory](../assets/Departure%27s_Memory.jpg)
+
+**Location**
+
+![Departure's Memory Location](../assets/Departure%27s_Memory_Location.png)
+
+**Region:** [Port Remnant](./Port%20Remnant.md)
+
+**Description:** A series of ruined warehouses near the frozen bay
+
+**General**
+
+**Firebox:** [Fire Barrel](./Fire%20Barrel.md)
+
+![Bed icon](../assets/Bed_icon.png)
+
+Has a bed
+
+![Workbench icon green](../assets/Workbench_icon_green.png)
+
+Has a workbench
 
 ## Overview
 

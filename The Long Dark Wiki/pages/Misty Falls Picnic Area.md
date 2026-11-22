@@ -4,7 +4,11 @@
 
 **Misty Falls Picnic Area**
 
-![Exterior](../assets/Misty_Falls_Picnic_Area.jpg)<br>![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
+\[\[File:
+
+![Exterior](../assets/Misty_Falls_Picnic_Area.jpg)
+
+![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
 
 250px\]\]
 
@@ -14,15 +18,19 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)
+[Pleasant Valley](./Pleasant%20Valley.md)|-
 
 Location
 
-**Description:** A recreational area with a cave
+Description
+
+A recreational area with a cave
 
 **General**
 
-**Type:** Outdoors
+Type
+
+Outdoors|-
 
 ## Overview
 

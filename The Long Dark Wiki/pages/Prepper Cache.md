@@ -35,15 +35,23 @@
 
 **Prepper Cache**
 
-![Exterior](../assets/Prepper_Cache.jpg)<br>![Interior](../assets/Prepper_cache_interior.png)
+\[\[File:
+
+![Exterior](../assets/Prepper_Cache.jpg)
+
+![Interior](../assets/Prepper_cache_interior.png)
 
 250px\]\]
 
 **Location**
 
-**Location:** Spread across 9 different regions throughout Great Bear Island.
+Location
 
-**Description:** A reinforced underground shelter.
+Spread across 9 different regions throughout Great Bear Island.
+
+Description
+
+A reinforced underground shelter.
 
 **General**
 
@@ -51,7 +59,15 @@
 
 Has a bed
 
-Has an interior<br>_Not to be confused with **[Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) or one of 4 [Signal Void](./Signal%20Void.md) bunkers.**_<br>> “**Find my brother. Wyatt. He hasn't checked in since it all went dark. He runs with this group of preppers. Bad guys, his crew, but they look up to him. There were always three that followed Wyatt around. Stockpiles, hunters, conspiracy nuts. Maybe you know the type? Hehe.**”<br>><br>> — Sutherland the [Trader](./Trader.md)<br>A **Prepper Cache,** also known by their nickname of **"Bunker"**, is a reinforced underground shelter with a stockpile of supplies. The contents of these 9 Caches is randomly selected during world generation across 9 regions in Lower Great Bear. They are the centerpiece of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+Has an interior
+
+_Not to be confused with **[Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) or one of 4 [Signal Void](./Signal%20Void.md) bunkers.**_
+
+> “**Find my brother. Wyatt. He hasn't checked in since it all went dark. He runs with this group of preppers. Bad guys, his crew, but they look up to him. There were always three that followed Wyatt around. Stockpiles, hunters, conspiracy nuts. Maybe you know the type? Hehe.**”
+>
+> — Sutherland the [Trader](./Trader.md)
+
+A **Prepper Cache,** also known by their nickname of **"Bunker"**, is a reinforced underground shelter with a stockpile of supplies. The contents of these 9 Caches is randomly selected during world generation across 9 regions in Lower Great Bear. They are the centerpiece of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Overview
 

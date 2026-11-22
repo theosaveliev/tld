@@ -4,43 +4,69 @@
 
 **Lake Whitefish (Raw)**
 
-![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png)<br>![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png)
+\[\[File:
+
+![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png)
+
+![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png)
 
 250px\]\]
 
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+Release
 
-**Wintermute:** No
+[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
-**Renewable:** Yes
+Wintermute
+
+No
+
+Renewable
+
+Yes
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** A common freshwater fish. Small, but plentiful.
+No
+
+Examine
+
+A common freshwater fish. Small, but plentiful.
 
 **Values**
 
-**Calories:** 575 kcal
+Calories
 
-**Hydration:** 0%
+575 kcal
 
-**[Vitamin C](./Scurvy.md):** Moderate (22%)
+Hydration
 
-**Weight:** 2.3 kg (5.06 lbs)
+0%
 
-**Oil/Weight:** 0,015
+[Vitamin C](./Scurvy.md)
+
+Moderate (22%)
+
+Weight
+
+2.3 kg (5.06 lbs)
+
+Oil/Weight
+
+0,015
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_RawLakeWhiteFish
+Item key
+
+GAMEPLAY\_RawLakeWhiteFish
 
 _For the cooked version, see [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md)._
 

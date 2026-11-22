@@ -4,9 +4,39 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Wax Cylinder 6**<br>![Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)<br>**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)<br>**Properties**<br>**Item type:** [Collectibles](./Collectibles.md)\\|-<br>**Stackable:** No<br>**Examine:** An audio recording made of wax.<br>**Values**<br>**Weight:** 0.00 kg (0 lbs)<br>**Actions**<br>**Backpack:** Examine<br>**On ground:** Take It, Read Text, Leave It<br>**Wax Cylinder 6** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Port Remnant](./Port%20Remnant.md) at the [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) close to the [Desecrated Church](./Desecrated%20Church.md), right next to the [Map (Train)](./Map%20%28Train%29.md).<br>The Cylinder is narrated by Alice McLeod.
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Wax Cylinder 6**
+
+![Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)
+
+**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)
+
+**Stackable:** No
+
+**Examine:** An audio recording made of wax.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Wax Cylinder 6** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Port Remnant](./Port%20Remnant.md) at the [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) close to the [Desecrated Church](./Desecrated%20Church.md), right next to the [Map (Train)](./Map%20%28Train%29.md).
+
+The Cylinder is narrated by Alice McLeod.
 
 ## Transcript
 

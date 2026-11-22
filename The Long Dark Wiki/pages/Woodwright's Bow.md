@@ -13,9 +13,43 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Woodwright's Bow**<br>![Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png)<br>**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch.<br>A more durable and agile Survival Bow.<br>**Values**<br>**Weight:** 0.75 kg (1.65 lbs)<br>**Actions**<br>**Backpack:** Use, Drop<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GAMEPLAY\_Bow\_Woodwrights<br>**Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Woodwright's Bow**
+
+![Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png)
+
+**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch.<br>A more durable and agile Survival Bow.
+
+**Values**
+
+**Weight:** 0.75 kg (1.65 lbs)
+
+**Actions**
+
+**Backpack:** Use, Drop
+
+**On ground:** Take It, Equip It, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Bow\_Woodwrights
+
+**Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 

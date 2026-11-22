@@ -11,43 +11,69 @@
 
 **Smallmouth Bass (Raw)**
 
-![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png)<br>![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png)
+\[\[File:
+
+![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png)
+
+![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png)
 
 250px\]\]
 
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+Release
 
-**Wintermute:** No
+[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
-**Renewable:** Yes
+Wintermute
+
+No
+
+Renewable
+
+Yes
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** A feast as good for the soul as for the stomach.
+No
+
+Examine
+
+A feast as good for the soul as for the stomach.
 
 **Values**
 
-**Calories:** 1500 kcal
+Calories
 
-**Hydration:** 0.0%
+1500 kcal
 
-**[Vitamin C](./Scurvy.md):** Minor (11%)
+Hydration
 
-**Weight:** 5.0 kg (11 lbs)
+0.0%
 
-**Oil/Weight:** 0,025
+[Vitamin C](./Scurvy.md)
+
+Minor (11%)
+
+Weight
+
+5.0 kg (11 lbs)
+
+Oil/Weight
+
+0,025
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_RawSmallmouthBass
+Item key
+
+GAMEPLAY\_RawSmallmouthBass
 
 _For the cooked version, see [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md)._
 

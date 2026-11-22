@@ -4,9 +4,39 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Bridge**<br>![The Bridge](../assets/Bridge.jpg)<br>![As seen from the ocean](../assets/Bridge_Water.jpg)<br>250px\]\]<br>**Location**<br>![Bridge Track Section 1 Location](../assets/Bridge_Track_Section_1_Location.png)<br>Region<br>[Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)\\|-<br>Location<br>**Description:** A small trestle bridge.<br>**General**<br>Has no shelter\ **Bridge** is a location in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Bridge**
+
+\[\[File:
+
+![The Bridge](../assets/Bridge.jpg)
+
+![As seen from the ocean](../assets/Bridge_Water.jpg)
+
+250px\]\]
+
+**Location**
+
+![Bridge Track Section 1 Location](../assets/Bridge_Track_Section_1_Location.png)
+
+Region
+
+[Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)|-
+
+Location
+
+Description
+
+A small trestle bridge.
+
+**General**
+
+Has no shelter **Bridge** is a location in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
 
 ## Overview
 

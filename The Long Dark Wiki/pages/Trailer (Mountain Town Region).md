@@ -4,7 +4,11 @@
 
 **Trailer**
 
-![Exterior](../assets/Mobile_Home_1.png)<br>![Interior](../assets/It%27s_really_a_trailer.jpg)
+\[\[File:
+
+![Exterior](../assets/Mobile_Home_1.png)
+
+![Interior](../assets/It%27s_really_a_trailer.jpg)
 
 250px\]\]
 
@@ -14,13 +18,15 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
 **General**
 
-**Firebox:** [Fire Barrel](./Fire%20Barrel.md)
+Firebox
+
+[Fire Barrel](./Fire%20Barrel.md)
 
 ![Bed icon](../assets/Bed_icon.png)
 
@@ -28,7 +34,7 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

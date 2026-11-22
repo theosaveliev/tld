@@ -4,9 +4,21 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Canyon**<br>![Canyon](../assets/Canyon.jpg)<br>**Location**<br>**Region:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)\\|-<br>**General**<br>Has no shelter\ **Canyon** is a location in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+**Canyon**
+
+![Canyon](../assets/Canyon.jpg)
+
+**Location**
+
+**Region:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)
+
+**General**
+
+Has no shelter **Canyon** is a location in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
 ## Overview
 

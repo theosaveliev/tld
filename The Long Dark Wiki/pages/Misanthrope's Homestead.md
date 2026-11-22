@@ -11,6 +11,8 @@
 
 **Misanthrope's Homestead**
 
+\[\[File:
+
 ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
 
 250px\]\]
@@ -21,21 +23,25 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
-**Description:** A small island with a house
+Description
+
+A small island with a house
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior<br>**Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
+Has an interior
+
+**Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

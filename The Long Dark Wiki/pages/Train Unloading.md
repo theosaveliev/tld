@@ -4,6 +4,8 @@
 
 **Train Unloading**
 
+\[\[File:
+
 ![Train Unloading](../assets/Train_Unloading.jpg)
 
 250px\]\]
@@ -14,7 +16,7 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
@@ -22,7 +24,7 @@ Location
 
 Type
 
-Outdoors
+Outdoors|-
 
 ![Bed icon](../assets/Bed_icon.png)
 

@@ -6,6 +6,8 @@
 
 **Commuter's Lament**
 
+\[\[File:
+
 ![Commuter's Lament](../assets/Commuter%27s_Lament.jpg)
 
 250px\]\]
@@ -16,11 +18,15 @@
 
 Region
 
-**Location:** Connects Coastal Highway to [Old Island Connector](./Crumbling%20Highway.md)
+Location
+
+Connects Coastal Highway to [Old Island Connector](./Crumbling%20Highway.md)
 
 **General**
 
-**Type:** Landmark
+Type
+
+Landmark|-
 
 ## Overview
 

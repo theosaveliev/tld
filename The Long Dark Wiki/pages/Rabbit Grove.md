@@ -4,6 +4,8 @@
 
 **Rabbit Grove**
 
+\[\[File:
+
 ![Rabbit Grove](../assets/Rabbit_Grove.jpg)
 
 250px\]\]
@@ -14,7 +16,7 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 

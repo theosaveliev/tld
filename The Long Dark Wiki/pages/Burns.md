@@ -4,27 +4,45 @@
 
 **Burns**
 
-![Fire](../assets/Burns_icon.png)<br>![Electrical](../assets/Burns_%28electric%29_icon.png)
+\[\[File:
+
+![Fire](../assets/Burns_icon.png)
+
+![Electrical](../assets/Burns_%28electric%29_icon.png)
 
 250px\]\]
 
 **Properties**
 
-**Caused By:** Fires Electrical Wires
+Caused By
 
-**Effect:** Negative
+Fires Electrical Wires
 
-**Type:** Injury
+Effect
 
-**Affliction Duration:** Until Treated or Recovery Time passes
+Negative
+
+Type
+
+Injury
+
+Affliction Duration
+
+Until Treated or Recovery Time passes
 
 **Treatment**
 
-**Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
+Treatment
 
-**Alternate Treatment:** 1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
 
-**Recovery Time:** Wait 30 hours (untreated)
+Alternate Treatment
+
+1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+
+Recovery Time
+
+Wait 30 hours (untreated)
 
 > “**You have sustained serious burns. Your general Condition will be reduced until you treat the burns, or you heal naturally.**”
 >

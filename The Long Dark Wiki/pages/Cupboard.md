@@ -4,15 +4,23 @@
 
 **Cupboard**
 
-![Kitchen](../assets/Kitchen_Cupboard.jpg)<br>![Fishing Hut](../assets/Fishing_Hut_Cupboard.jpg)
+\[\[File:
+
+![Kitchen](../assets/Kitchen_Cupboard.jpg)
+
+![Fishing Hut](../assets/Fishing_Hut_Cupboard.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
 A **Cupboard** is a storage object found in many kitchens and Ice [Fishing Huts](./Fishing%20Hut.md).
 

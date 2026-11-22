@@ -11,9 +11,50 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>**Shotgun Ammunition**<br>![Ammunition](../assets/Shotgun_Ammunition_icon.png)<br>![Slug](../assets/Shotgun_Slug_icon.png)<br>250px\]\]<br>**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)<br>**Properties**<br>Item type<br>[Tools](./Tools.md)\\|-<br>Equipable<br>**Stackable:** Yes<br>**Examine:** A box of Shotgun slugs.<br>A single shotgun slug shell.<br>**Values**<br>**Weight:** 0.02 kg (0.04 lbs)<br>**Shotgun** **Ammunition** or a **Shotgun Slug** is a [Tools](./Tools.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+**Shotgun Ammunition**
+
+\[\[File:
+
+![Ammunition](../assets/Shotgun_Ammunition_icon.png)
+
+![Slug](../assets/Shotgun_Slug_icon.png)
+
+250px\]\]
+
+Wintermute
+
+[Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Properties**
+
+Item type
+
+[Tools](./Tools.md)|-
+
+Equipable
+
+Stackable
+
+Yes
+
+Examine
+
+A box of Shotgun slugs.  
+ A single shotgun slug shell.
+
+**Values**
+
+Weight
+
+0.02 kg (0.04 lbs)
+
+**Shotgun** **Ammunition** or a **Shotgun Slug** is a [Tools](./Tools.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.
 
 ## Overview
 

@@ -4,19 +4,31 @@
 
 **Fridge**
 
-![Fridge](../assets/Fridge.png)<br>![Soda](../assets/Fridge_Soda.jpg)
+\[\[File:
+
+![Fridge](../assets/Fridge.png)
+
+![Soda](../assets/Fridge_Soda.jpg)
 
 250px\]\]
 
-**Release:** 12 June 2014
+Release
 
-**Update:** [0.01](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+12 June 2014
 
-**Story item:** No
+Update
+
+[0.01](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+
+Story item
+
+No
 
 **Container**
 
-**Capacity:** 40.00 kg(88 lbs)
+Capacity
+
+40.00 kg(88 lbs)
 
 A **Fridge** is a storage container found as part of refrigerators inside many the kitchens of homes and industrial buildings across the island. Most refrigerators have a **Fridge** on the bottom and a [Freezer](./Freezer.md) on the top. Ironically, it is best to store certain foods outdoors (mainly meat) in order to preserve them for longer periods of time, as the Fridge is not functional.
 

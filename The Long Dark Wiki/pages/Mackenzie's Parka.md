@@ -37,9 +37,19 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>> “**The coat you were wearing when you crashed in your plane.**”<br>><br>> — Post Crash In-game description<br>**Mackenzie's Parka** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained exclusively in [Wintermute](./Wintermute.md).<br>The statistics of Mackenzie's Parka are identical to those of a [Simple Parka](./Simple%20Parka.md).
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+> “**The coat you were wearing when you crashed in your plane.**”
+>
+> — Post Crash In-game description
+
+**Mackenzie's Parka** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained exclusively in [Wintermute](./Wintermute.md).
+
+The statistics of Mackenzie's Parka are identical to those of a [Simple Parka](./Simple%20Parka.md).
 
 ## Episode 1
 

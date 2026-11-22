@@ -34,9 +34,21 @@ Clothing Slot
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
- The **Hardhat** is a headgear [Clothing](./Clothing.md) that is found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).<br>They can be found in the in the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md).<br>Unlike other Clothing, Hardhats cannot be harvested or repaired.<br>Possible to acquire from the [Trader](./Trader.md) for 2.00 L [Lantern Fuel](./Lantern%20Fuel.md), 8 [Coal](./Coal.md) and 5 [Cloth](./Cloth.md)<br>![Model icon](../assets/Hardhat_Model_icon.png)<br>![Model icon damaged](../assets/Hardhat_Model_Damaged_icon.png)
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ The **Hardhat** is a headgear [Clothing](./Clothing.md) that is found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
+
+They can be found in the in the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md).
+
+Unlike other Clothing, Hardhats cannot be harvested or repaired.
+
+Possible to acquire from the [Trader](./Trader.md) for 2.00 L [Lantern Fuel](./Lantern%20Fuel.md), 8 [Coal](./Coal.md) and 5 [Cloth](./Cloth.md)
+
+![Model icon](../assets/Hardhat_Model_icon.png)
+
+![Model icon damaged](../assets/Hardhat_Model_Damaged_icon.png)
 
 ## Trivia
 

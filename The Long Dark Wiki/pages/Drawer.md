@@ -19,11 +19,31 @@
 
 **Drawer**
 
-![Food](../assets/DrawerFood.jpg)<br>![Table](../assets/DrawerBedside.jpg)<br>![Wide Table](../assets/DrawerWide.jpg)<br>![L Table](../assets/DrawerLargeTable.jpg)<br>![FH](../assets/Fishing_Hut_Drawer.jpg)<br>![S Toolbox](../assets/DrawerToolboxSmall.jpg)<br>![L Toolbox](../assets/DrawerToolboxLarge.jpg)<br>![Clothing](../assets/Drawer_Clothing_Horozontal.jpg)<br>![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg)
+\[\[File:
+
+![Food](../assets/DrawerFood.jpg)
+
+![Table](../assets/DrawerBedside.jpg)
+
+![Wide Table](../assets/DrawerWide.jpg)
+
+![L Table](../assets/DrawerLargeTable.jpg)
+
+![FH](../assets/Fishing_Hut_Drawer.jpg)
+
+![S Toolbox](../assets/DrawerToolboxSmall.jpg)
+
+![L Toolbox](../assets/DrawerToolboxLarge.jpg)
+
+![Clothing](../assets/Drawer_Clothing_Horozontal.jpg)
+
+![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg)
 
 250px\]\]
 
-**Story item:** Yes
+Story item
+
+Yes
 
 A **Drawer** is one possible type of storage container in the game that comes in many forms and can be found in every area in the game.
 

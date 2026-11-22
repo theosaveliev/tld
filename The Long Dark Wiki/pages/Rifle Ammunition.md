@@ -13,7 +13,11 @@
 
 **Rifle Ammunition**
 
-![Box](../assets/Rifle_Ammunition_icon.png)<br>![Cartridge](../assets/Rifle_Cartridge_icon.png)
+\[\[File:
+
+![Box](../assets/Rifle_Ammunition_icon.png)
+
+![Cartridge](../assets/Rifle_Cartridge_icon.png)
 
 250px\]\]
 
@@ -21,13 +25,19 @@
 
 Item Type
 
-**Wintermute:** No
+Wintermute
 
-**Renewable:** Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md)) no (Interloper)
+No
+
+Renewable
+
+Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md)) no (Interloper)
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+Weight
+
+![Weight icon](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
 
 > “**A box of rifle cartridges.**”
 >

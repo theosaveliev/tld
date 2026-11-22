@@ -13,9 +13,43 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Spelunker's Lantern**<br>![Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png)<br>**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)<br>**Wintermute:** No<br>**Renewable:** No (unique item)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Rigged for fuel efficiency. A light for deep, dark places, when other lights go out.<br>**Values**<br>**Weight:** 1.00 kg (2.2 lbs)<br>**Actions**<br>**On ground:** Take It, Equip It, Leave It<br>**Advanced data**<br>**Item key:** GAMEPLAY\_KeroseneLamp\_Spelunkers<br>**Spelunker's Lantern** is a unique variant of the [Storm Lantern](./Storm%20Lantern.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Spelunker's Lantern**
+
+![Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png)
+
+**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
+
+**Wintermute:** No
+
+**Renewable:** No (unique item)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** Rigged for fuel efficiency. A light for deep, dark places, when other lights go out.
+
+**Values**
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Actions**
+
+**On ground:** Take It, Equip It, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_KeroseneLamp\_Spelunkers
+
+**Spelunker's Lantern** is a unique variant of the [Storm Lantern](./Storm%20Lantern.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
 ## Overview
 

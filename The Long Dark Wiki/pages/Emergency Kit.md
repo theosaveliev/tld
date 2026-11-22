@@ -24,15 +24,27 @@
 
 **Emergency Kit**
 
-![Closed](../assets/Emergency_Kit.jpg)<br>![Open](../assets/Emergency_Kit_Open.jpg)
+\[\[File:
+
+![Closed](../assets/Emergency_Kit.jpg)
+
+![Open](../assets/Emergency_Kit_Open.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** Yes<br>_For the Distress Pistol Kit in Wintermute, see [Distress Pistol Kit](./Distress%20Pistol%20Kit.md)._<br>An **Emergency Kit** is a stationary object found occasionally in the game world. It is an interactable storage device, containing a [Distress Pistol](./Distress%20Pistol.md) and [Flare Shells](./Flare%20Shell.md).
+Item
+
+Wintermute
+
+Yes
+
+_For the Distress Pistol Kit in Wintermute, see [Distress Pistol Kit](./Distress%20Pistol%20Kit.md)._
+
+An **Emergency Kit** is a stationary object found occasionally in the game world. It is an interactable storage device, containing a [Distress Pistol](./Distress%20Pistol.md) and [Flare Shells](./Flare%20Shell.md).
 
 ## Overview
 

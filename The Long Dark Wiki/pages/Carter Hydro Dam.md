@@ -20,7 +20,11 @@
 
 **Carter Hydro Dam**
 
-![Exterior](../assets/Carter_Hydro_Dam_Exterior.png)<br>![Interior](../assets/Carter_Hydro_Dam_Interior.png)
+\[\[File:
+
+![Exterior](../assets/Carter_Hydro_Dam_Exterior.png)
+
+![Interior](../assets/Carter_Hydro_Dam_Interior.png)
 
 250px\]\]
 
@@ -30,27 +34,35 @@
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)|-
 
 Location
 
-**Description:** A hydroelectric dam.
+Description
+
+A hydroelectric dam.
 
 **General**
 
 Type
 
-Industrial
+Industrial|-
 
 Firebox
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
-**Missions:** [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper)<br>[Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
+Missions
 
-**Characters:** [Methuselah](./Methuselah.md)<br>[Mathis](./Mathis.md)
+[The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper)  
+ [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
+
+Characters
+
+[Methuselah](./Methuselah.md)  
+ [Mathis](./Mathis.md)
 
 > “**The old Carter Dam -- it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore.**”
 >

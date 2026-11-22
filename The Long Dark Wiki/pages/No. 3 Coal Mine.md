@@ -4,6 +4,8 @@
 
 **No. 3 Coal Mine**
 
+\[\[File:
+
 ![Abandoned Mine No.3 (West) interior](../assets/Abandoned_Mine_No.3_%28West%29_interior.jpg)
 
 250px\]\]
@@ -12,7 +14,7 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
@@ -20,7 +22,7 @@ Location
 
 Type
 
-Cave
+Cave|-
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 

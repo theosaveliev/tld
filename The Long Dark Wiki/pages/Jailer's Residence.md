@@ -14,9 +14,17 @@ Region
 
 **General**
 
-**Type:** Outdoors
+Type
 
-Provides some shelter<br>> “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**”<br>><br>> — [Load Screen](./Load%20Screen.md) Description<br>**Jailer's Residence** is a location in [Blackrock](./Blackrock.md), located not far from [Blocked Bridge](./Blocked%20Bridge.md).
+Outdoors|-
+
+Provides some shelter
+
+> “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**”
+>
+> — [Load Screen](./Load%20Screen.md) Description
+
+**Jailer's Residence** is a location in [Blackrock](./Blackrock.md), located not far from [Blocked Bridge](./Blocked%20Bridge.md).
 
 ## Overview
 

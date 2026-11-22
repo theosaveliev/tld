@@ -4,7 +4,11 @@
 
 **Hilltop Cave**
 
-![Exterior](../assets/SS-PV-HilltopCave_%281%29.jpg)<br>![Interior](../assets/SS-PV-HilltopCave_%282%29.jpg)
+\[\[File:
+
+![Exterior](../assets/SS-PV-HilltopCave_%281%29.jpg)
+
+![Interior](../assets/SS-PV-HilltopCave_%282%29.jpg)
 
 250px\]\]
 
@@ -14,13 +18,13 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)
+[Pleasant Valley](./Pleasant%20Valley.md)|-
 
 **General**
 
 Type
 
-Cave
+Cave|-
 
 ![Bed icon](../assets/Bed_icon.png)
 

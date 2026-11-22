@@ -4,6 +4,8 @@
 
 **Bear Creek Campground**
 
+\[\[File:
+
 ![Bear Creek Campground 01](../assets/Bear_Creek_Campground_01.jpg)
 
 250px\]\]
@@ -14,11 +16,13 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 **General**
 
-**Type:** Outdoors
+Type
+
+Outdoors|-
 
 ## Overview
 

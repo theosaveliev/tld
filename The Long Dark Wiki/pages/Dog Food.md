@@ -11,45 +11,71 @@
 
 **Dog Food**
 
-![Sealed](../assets/Dog_Food_icon.png)<br>![Opened](../assets/Dog_Food_%28Opened%29_icon.png)
+\[\[File:
+
+![Sealed](../assets/Dog_Food_icon.png)
+
+![Opened](../assets/Dog_Food_%28Opened%29_icon.png)
 
 250px\]\]
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+Release
 
-**Wintermute:** No
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
-**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+Wintermute
+
+No
+
+Renewable
+
+Yes (rare [Beachcombing](./Beachcombing.md))
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** Can of wet dog food. Smells bad, but eating it is better than starving. Probably.
+No
+
+Examine
+
+Can of wet dog food. Smells bad, but eating it is better than starving. Probably.
 
 **Values**
 
-**Calories:** 500 kcal
+Calories
 
-**Hydration:** 5%
+500 kcal
 
-**Weight:** 0.30 kg (0.66 lbs)
+Hydration
+
+5%
+
+Weight
+
+0.30 kg (0.66 lbs)
 
 **Decay Rate**
 
-**Inside:** 0.667% per day
+Inside
 
-**Outside:** 0.167% per day
+0.667% per day
+
+Outside
+
+0.167% per day
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_DogFood
+Item key
+
+GAMEPLAY\_DogFood
 
 **Dog Food** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

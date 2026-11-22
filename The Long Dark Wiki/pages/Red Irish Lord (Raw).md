@@ -4,41 +4,65 @@
 
 **Red Irish Lord (Raw)**
 
-![Raw](../assets/Red_Irish_Lord_%28Raw%29_icon.png)<br>![Opened](../assets/Red_Irish_Lord_%28Raw%29_Opened_icon.png)
+\[\[File:
+
+![Raw](../assets/Red_Irish_Lord_%28Raw%29_icon.png)
+
+![Opened](../assets/Red_Irish_Lord_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+Release
 
-**Wintermute:** No
+[21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
-**Renewable:** Yes
+Wintermute
+
+No
+
+Renewable
+
+Yes
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** A saltwater fish. Carnivorous and colourful.
+No
+
+Examine
+
+A saltwater fish. Carnivorous and colourful.
 
 **Values**
 
-**Calories:** 930 kcal
+Calories
 
-**Hydration:** 0.0%
+930 kcal
 
-**Weight:** 3.1 kg (6.82 lbs)
+Hydration
 
-**Oil/Weight:** 0,020
+0.0%
+
+Weight
+
+3.1 kg (6.82 lbs)
+
+Oil/Weight
+
+0,020
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_RawRedIrishLord
+Item key
+
+GAMEPLAY\_RawRedIrishLord
 
 _For the cooked version, see [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md)._
 

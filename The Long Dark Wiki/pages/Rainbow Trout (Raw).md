@@ -12,35 +12,55 @@
 
 **Rainbow Trout (Raw)**
 
-![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png)<br>![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
+\[\[File:
+
+![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png)
+
+![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+Release
 
-**Wintermute:** No
+[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
-**Renewable:** Yes
+Wintermute
+
+No
+
+Renewable
+
+Yes
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Examine
 
 **Values**
 
-**Calories:** 575 kcal
+Calories
 
-**Hydration:** 0%
+575 kcal
 
-**[Vitamin C](./Scurvy.md):** Moderate (20%)
+Hydration
 
-**Weight:** 2.3 kg (5.06 lbs)
+0%
 
-**Oil/Weight:** 0,025
+[Vitamin C](./Scurvy.md)
+
+Moderate (20%)
+
+Weight
+
+2.3 kg (5.06 lbs)
+
+Oil/Weight
+
+0,025
 
 **Rainbow Trout (Raw)** is a food item in _The Long Dark_.
 

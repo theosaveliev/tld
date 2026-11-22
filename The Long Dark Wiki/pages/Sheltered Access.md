@@ -4,9 +4,39 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Sheltered Access**<br>![South side](../assets/Sheltered_Access.jpg)<br>![North side](../assets/Sheltered_Access_2.jpg)<br>250px\]\]<br>**Location**<br>![Sheltered Access Location](../assets/Sheltered_Access_Location.png)<br>Region<br>[Port Remnant](./Port%20Remnant.md)\\|-<br>Location<br>**Description:** A long natural tunnel by the sea that leads to a cliff overlook.<br>**General**<br>Has no shelter\ **Sheltered Access** is a location in [Port Remnant](./Port%20Remnant.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Sheltered Access**
+
+\[\[File:
+
+![South side](../assets/Sheltered_Access.jpg)
+
+![North side](../assets/Sheltered_Access_2.jpg)
+
+250px\]\]
+
+**Location**
+
+![Sheltered Access Location](../assets/Sheltered_Access_Location.png)
+
+Region
+
+[Port Remnant](./Port%20Remnant.md)|-
+
+Location
+
+Description
+
+A long natural tunnel by the sea that leads to a cliff overlook.
+
+**General**
+
+Has no shelter **Sheltered Access** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

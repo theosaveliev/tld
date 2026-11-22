@@ -13,9 +13,50 @@
 - [Maps](#maps)
 - [Locations](#locations-1)
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Seal icon](../assets/Seal_icon.png) | **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | <br>**Anna Island -- Track Section 1**<br>![Anna Island Track Section 1](../assets/Anna_Island_--_Track_Section_1.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 1 Map](../assets/Anna_Island_Track_Section_1_Map.png)<br>**Details**<br>**Connecting Regions:** [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._<br>## Overview<br>A continuation of the coastline from the previously numbered region.<br>- The west of the map leads to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md), while the east leads to [Port Remnant](./Port%20Remnant.md).<br>- Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.<br>## Locations<br>There are 6 named locations within Track Section 1, including:<br>\| Column 1 \| Column 2 \|<br>\| --- \| --- \|<br>\| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East) / - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West) / - [Bridge](./Bridge.md) / - [Huts](./Huts.md) \| - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) \|<br> |
+![Seal icon](../assets/Seal_icon.png)
+
+**DLC-Exclusive content.**
+
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Anna Island -- Track Section 1**
+
+![Anna Island Track Section 1](../assets/Anna_Island_--_Track_Section_1.jpg)
+
+**Location on [Cauldron Island](./Cauldron%20Island.md)**
+
+![No picture](../assets/No_picture.png)
+
+![Anna Island Track Section 1 Map](../assets/Anna_Island_Track_Section_1_Map.png)
+
+**Details**
+
+**Connecting Regions:** [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)
+
+**Interloper Region Spawn:** No
+
+**Date Added:** October 27 2026
+
+**Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
+
+## Overview
+
+A continuation of the coastline from the previously numbered region.
+
+- The west of the map leads to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md), while the east leads to [Port Remnant](./Port%20Remnant.md).
+- Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.
+
+## Locations
+
+There are 6 named locations within Track Section 1, including:
+
+| Column 1 | Column 2 |
+| --- | --- |
+| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East) / - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West) / - [Bridge](./Bridge.md) / - [Huts](./Huts.md) | - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) |
+
+
 
 There are also a single [Warm Cave](./Warm%20Cave.md) near the middle of the map.
 

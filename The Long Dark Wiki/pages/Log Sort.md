@@ -4,6 +4,8 @@
 
 **Log Sort**
 
+\[\[File:
+
 ![Log Sort double story house](../assets/Log_Sort_-_double-story_house.jpg)
 
 250px\]\]
@@ -14,17 +16,19 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
-**Description:** A few buildings
+Description
+
+A few buildings
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 ![Bed icon](../assets/Bed_icon.png)
 

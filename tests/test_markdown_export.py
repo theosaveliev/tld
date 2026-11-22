@@ -25,10 +25,10 @@ from pipeline.markdown_export import (
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
-    _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
+    _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
     normalize_title,
@@ -1445,9 +1445,7 @@ def test_render_mediawiki_html_sanitizes_expanded_markup(
     )
     received: list[str] = []
 
-    def fake_pandoc(
-        _pandoc: str, value: str, from_format: str, to_format: str
-    ) -> str:
+    def fake_pandoc(_pandoc: str, value: str, from_format: str, to_format: str) -> str:
         assert from_format == "mediawiki"
         assert to_format == "html"
         received.append(value)

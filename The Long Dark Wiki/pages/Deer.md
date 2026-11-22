@@ -21,21 +21,33 @@
 
 **Deer**
 
-![Stag](../assets/Deer.png)<br>![Doe](../assets/Doe.png)
+\[\[File:
+
+![Stag](../assets/Deer.png)
+
+![Doe](../assets/Doe.png)
 
 250px\]\]
 
 **Basic Information**
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+Release
 
-**Role:** Prey
+[12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+
+Role
+
+Prey
 
 **Physical Information**
 
-**Color:** Brown
+Color
 
-**Size:** Medium
+Brown
+
+Size
+
+Medium
 
 _For the unique stag found in the [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) mission [Tall Tales](./Tall%20Tales.md), see [Ghost Stag](./Ghost%20Stag.md)._
 

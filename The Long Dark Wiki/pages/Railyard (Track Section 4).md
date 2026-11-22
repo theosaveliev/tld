@@ -4,9 +4,33 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Railyard (Track Section 4)**<br>![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg)<br>![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg)<br>250px\]\]<br>**Location**<br>Region<br>[Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)\\|-<br>Location<br>**General**<br>Has an interior\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Railyard (Track Section 4)**
+
+\[\[File:
+
+![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg)
+
+![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg)
+
+250px\]\]
+
+**Location**
+
+Region
+
+[Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)|-
+
+Location
+
+**General**
+
+Has an interior **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
 ## Overview
 

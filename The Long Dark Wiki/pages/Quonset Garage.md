@@ -12,6 +12,8 @@
 
 **Quonset Garage**
 
+\[\[File:
+
 ![Garage 2019](../assets/Garage_2019.jpg)
 
 250px\]\]
@@ -22,17 +24,19 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
-**Description:** A small automotive garage and store
+Description
+
+A small automotive garage and store
 
 **General**
 
 Type
 
-IndustrialStore
+IndustrialStore|-
 
 Firebox
 
@@ -42,7 +46,7 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

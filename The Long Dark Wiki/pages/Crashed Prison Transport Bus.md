@@ -4,9 +4,13 @@
 
 **Crashed Prison Transport Bus**
 
-![Approach](../assets/PrisonBus.jpg)<br>![Tunnel Collapse](../assets/Tunnel_Collapse.png)
+\[\[File:
 
-250px\|Will approaches the bus\]\]
+![Approach](../assets/PrisonBus.jpg)
+
+![Tunnel Collapse](../assets/Tunnel_Collapse.png)
+
+250px|Will approaches the bus\]\]
 
 **Location**
 
@@ -14,17 +18,23 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
-**Description:** A collapsed tunnel and crashed bus
+Description
+
+A collapsed tunnel and crashed bus
 
 **General**
 
-**Type:** Outdoors
+Type
 
-**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+Outdoors|-
+
+Missions
+
+[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

@@ -4,6 +4,8 @@
 
 **Banner Falls**
 
+\[\[File:
+
 ![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg)
 
 250px\]\]
@@ -14,10 +16,12 @@
 
 Region
 
-[Hushed River Valley](./Hushed%20River%20Valley.md)
+[Hushed River Valley](./Hushed%20River%20Valley.md)|-
 
 Location
 
 **General**
 
-**Type:** Outdoors
+Type
+
+Outdoors|-

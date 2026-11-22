@@ -4,6 +4,8 @@
 
 **Rockfall**
 
+\[\[File:
+
 ![Rockfall](../assets/Rockfall.jpg)
 
 250px\]\]
@@ -14,13 +16,15 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Description
 
 **General**
 
-**Type:** Landmark
+Type
+
+Landmark|-
 
 ## Overview
 

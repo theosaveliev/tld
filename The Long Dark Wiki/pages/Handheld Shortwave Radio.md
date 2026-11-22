@@ -13,9 +13,43 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Handheld Shortwave Radio**<br>![Handheld Shortwave Radio icon](../assets/Handheld_Shortwave_Radio_icon.png)<br>**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)<br>**Wintermute:** Signal Void<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** With a working Transmitter in range, home in on distant objects by navigating in the direction of the highest signal strength. The Shortwave's default tracking mode will detect signals of unknown origin, while its secondary setting is useful for locating hidden supply caches or downed aircraft.<br>Useless indoors or underground.<br>**Values**<br>**Weight:** 0 kg (0 lbs)<br>**Advanced data**<br>**Item key:** GAMEPLAY\_HandheldShortwave<br>> “**During the Aurora, or when in Glimmer Fog, the Handheld Shortwave may pick up errant signals that could lead you to supplies and locations that you wouldn't otherwise find.**”<br>><br>> — Official Hinterland description<br>The **Handheld Shortwave Radio** is a radio used in conjunction with a [Transmitter](./Transmitters.md) to locate items in the [Tales](./Tales.md) [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and [Last Horizon](./Last%20Horizon.md) in the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.<br>It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Camera](./Camera.md) and [Respirator](./Respirator.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Handheld Shortwave Radio**
+
+![Handheld Shortwave Radio icon](../assets/Handheld_Shortwave_Radio_icon.png)
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** Signal Void
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** With a working Transmitter in range, home in on distant objects by navigating in the direction of the highest signal strength. The Shortwave's default tracking mode will detect signals of unknown origin, while its secondary setting is useful for locating hidden supply caches or downed aircraft.<br>Useless indoors or underground.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_HandheldShortwave
+
+> “**During the Aurora, or when in Glimmer Fog, the Handheld Shortwave may pick up errant signals that could lead you to supplies and locations that you wouldn't otherwise find.**”
+>
+> — Official Hinterland description
+
+The **Handheld Shortwave Radio** is a radio used in conjunction with a [Transmitter](./Transmitters.md) to locate items in the [Tales](./Tales.md) [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and [Last Horizon](./Last%20Horizon.md) in the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
+
+It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Camera](./Camera.md) and [Respirator](./Respirator.md).
 
 ## Overview
 

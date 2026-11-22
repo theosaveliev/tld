@@ -4,7 +4,11 @@
 
 **Camp Office**
 
-![Exterior](../assets/Camp_Office_Exterior.png)<br>![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg)
+\[\[File:
+
+![Exterior](../assets/Camp_Office_Exterior.png)
+
+![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg)
 
 250px\]\]
 
@@ -14,17 +18,19 @@
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)|-
 
 Location
 
-**Description:** A two-story cabin.
+Description
+
+A two-story cabin.
 
 **General**
 
 Type
 
-Military/Sporting
+Military/Sporting|-
 
 Firebox
 
@@ -34,7 +40,7 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

@@ -4,9 +4,39 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Railyard**<br>![West](../assets/Railyard_%28Track_Section_2_West%29.jpg)<br>![East](../assets/Railyard_%28Track_Section_2_East%29.jpg)<br>250px\]\]<br>**Location**<br>![Railyard Track 2 Location](../assets/Railyard_Track_2_Location.png)<br>Region<br>[Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)\\|-<br>Location<br>**Description:** 2 railways in the region<br>**General**<br>Has no shelter\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Railyard**
+
+\[\[File:
+
+![West](../assets/Railyard_%28Track_Section_2_West%29.jpg)
+
+![East](../assets/Railyard_%28Track_Section_2_East%29.jpg)
+
+250px\]\]
+
+**Location**
+
+![Railyard Track 2 Location](../assets/Railyard_Track_2_Location.png)
+
+Region
+
+[Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)|-
+
+Location
+
+Description
+
+2 railways in the region
+
+**General**
+
+Has no shelter **Railyard** is a set of 2 locations in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
 ## Overview
 

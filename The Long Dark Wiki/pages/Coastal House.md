@@ -15,7 +15,17 @@
 
 **Coastal House**
 
-![Type 1](../assets/Coastal_House_1.jpg)<br>![Type 2](../assets/Coastal_House_2.jpg)<br>![Type 3](../assets/Coastal_House_3.jpg)<br>![Type 4](../assets/Coastal_House_4.jpg)<br>![Type 5](../assets/Jackrabbit_Island_-_house.jpg)
+\[\[File:
+
+![Type 1](../assets/Coastal_House_1.jpg)
+
+![Type 2](../assets/Coastal_House_2.jpg)
+
+![Type 3](../assets/Coastal_House_3.jpg)
+
+![Type 4](../assets/Coastal_House_4.jpg)
+
+![Type 5](../assets/Jackrabbit_Island_-_house.jpg)
 
 250px\]\]
 
@@ -23,7 +33,7 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
@@ -31,7 +41,7 @@ Location
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 

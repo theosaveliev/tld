@@ -11,39 +11,59 @@
 
 **Acorns (Cooked)**
 
+\[\[File:
+
 ![Portion](../assets/Acorns_%28Cooked%29_icon.png)
 
 250px\]\]
 
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+Release
 
-**Wintermute:** No
+[30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
-**Renewable:** No
+Wintermute
+
+No
+
+Renewable
+
+No
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** Yes
+Stackable
 
-**Examine:** Eat them as a snack or hammer them into Acorn Grounds for coffee.
+Yes
+
+Examine
+
+Eat them as a snack or hammer them into Acorn Grounds for coffee.
 
 **Values**
 
-**Calories:** 100 kcal
+Calories
 
-**Hydration:** 0%
+100 kcal
 
-**Weight:** 0.03 kg (0.07 lbs)
+Hydration
+
+0%
+
+Weight
+
+0.03 kg (0.07 lbs)
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_AcornCooked
+Item key
+
+GAMEPLAY\_AcornCooked
 
 **Acorns (Cooked)** are a natural [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

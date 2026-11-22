@@ -4,7 +4,11 @@
 
 **Rural Store**
 
-![Exterior](../assets/Rural_Store.png)<br>![Interior](../assets/Rural_store.jpg)
+\[\[File:
+
+![Exterior](../assets/Rural_Store.png)
+
+![Interior](../assets/Rural_store.jpg)
 
 250px\]\]
 
@@ -14,11 +18,13 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)
+[Pleasant Valley](./Pleasant%20Valley.md)|-
 
 Location
 
-**Description:** A small 2-room convenience store
+Description
+
+A small 2-room convenience store
 
 **General**
 
@@ -26,7 +32,9 @@ Type
 
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior<br>The **Rural Store**, also known as the Rural Gas Station or Thomson's Market, is a small convenience store in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md), across the road from the [Community Hall](./Community%20Hall.md).
+Has an interior
+
+The **Rural Store**, also known as the Rural Gas Station or Thomson's Market, is a small convenience store in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md), across the road from the [Community Hall](./Community%20Hall.md).
 
 ## Overview
 

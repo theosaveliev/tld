@@ -4,6 +4,8 @@
 
 **Waterfront Cottages**
 
+\[\[File:
+
 ![Waterfront Cottages](../assets/Waterfront_Cottages.jpg)
 
 250px\]\]
@@ -14,21 +16,25 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
-**Description:** A small cluster of houses
+Description
+
+A small cluster of houses
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior<br>**Waterfront Cottages** is a collection of cottages to the southeast of the [Coastal Highway](./Coastal%20Highway.md) region.
+Has an interior
+
+**Waterfront Cottages** is a collection of cottages to the southeast of the [Coastal Highway](./Coastal%20Highway.md) region.
 
 ## Overview
 

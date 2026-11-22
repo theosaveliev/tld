@@ -11,7 +11,11 @@
 
 **Lonely Lighthouse**
 
-![Exterior](../assets/Lonely_Lighthouse.jpg)<br>![Interior](../assets/Lonely_Lighthouse_interior.jpg)
+\[\[File:
+
+![Exterior](../assets/Lonely_Lighthouse.jpg)
+
+![Interior](../assets/Lonely_Lighthouse_interior.jpg)
 
 250px\]\]
 
@@ -21,7 +25,7 @@
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)
+[Desolation Point](./Desolation%20Point.md)|-
 
 Location
 
@@ -29,7 +33,7 @@ Location
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 
@@ -37,7 +41,9 @@ Firebox
 
 Has a bed
 
-Has an interior<br>**Lonely Lighthouse** is a location in [Desolation Point](./Desolation%20Point.md).
+Has an interior
+
+**Lonely Lighthouse** is a location in [Desolation Point](./Desolation%20Point.md).
 
 ## Overview
 

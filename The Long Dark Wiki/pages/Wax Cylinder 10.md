@@ -4,9 +4,39 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Wax Cylinder 10**<br>![Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)<br>**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)<br>**Properties**<br>**Item type:** [Collectibles](./Collectibles.md)\\|-<br>**Stackable:** No<br>**Examine:** An audio recording made of wax.<br>**Values**<br>**Weight:** 0.00 kg (0 lbs)<br>**Actions**<br>**Backpack:** Examine<br>**On ground:** Take It, Read Text, Leave It<br>**Wax Cylinder 10** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) inside the [Repair Depot](./Repair%20Depot.md) on a shelf on the 2nd floor.<br>The Cylinder is narrated by Chief Engineer Best.
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Wax Cylinder 10**
+
+![Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)
+
+**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)
+
+**Stackable:** No
+
+**Examine:** An audio recording made of wax.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Wax Cylinder 10** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) inside the [Repair Depot](./Repair%20Depot.md) on a shelf on the 2nd floor.
+
+The Cylinder is narrated by Chief Engineer Best.
 
 ## Transcript
 

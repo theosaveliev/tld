@@ -4,6 +4,8 @@
 
 **Fishing Camp**
 
+\[\[File:
+
 ![Fishing Camp fishing cabins](../assets/Fishing_Camp_-_fishing_cabins.jpg)
 
 250px\]\]
@@ -14,7 +16,7 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
@@ -22,13 +24,13 @@ Location
 
 Type
 
-Residential
+Residential|-
 
 ![Bed icon](../assets/Bed_icon.png)
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
 ## Overview
 

@@ -11,47 +11,75 @@
 
 **Canned Corn**
 
-![Sealed](../assets/Canned_Corn_icon.png)<br>![Opened](../assets/Canned_Corn_%28Opened%29_icon.png)
+\[\[File:
+
+![Sealed](../assets/Canned_Corn_icon.png)
+
+![Opened](../assets/Canned_Corn_%28Opened%29_icon.png)
 
 250px\]\]
 
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+Release
 
-**Wintermute:** No
+[30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
-**Renewable:** Yes ([Trader](./Trader.md) only)
+Wintermute
+
+No
+
+Renewable
+
+Yes ([Trader](./Trader.md) only)
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** Sweet, crisp, preserved Corn in a can. A treat in winter.
+No
+
+Examine
+
+Sweet, crisp, preserved Corn in a can. A treat in winter.
 
 **Values**
 
-**Calories:** 295 kcal
+Calories
 
-**Hydration:** 5%
+295 kcal
 
-**[Vitamin C](./Scurvy.md):** Moderate (52%)
+Hydration
 
-**Weight:** 0.30 kg (0.66 lbs)
+5%
+
+[Vitamin C](./Scurvy.md)
+
+Moderate (52%)
+
+Weight
+
+0.30 kg (0.66 lbs)
 
 **Decay Rate**
 
-**Inside:** 0.167% per day
+Inside
 
-**Outside:** 0.833% per day
+0.167% per day
+
+Outside
+
+0.833% per day
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_CannedCorn
+Item key
+
+GAMEPLAY\_CannedCorn
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

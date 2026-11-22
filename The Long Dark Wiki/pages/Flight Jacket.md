@@ -32,9 +32,17 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**Its thick leather and heavy stitching keep bush pilots warm at altitude. Also offers good protection when operating at ground level.**”<br>><br>> — In-game description<br>A **Flight Jacket** is a type of [Clothing](./Clothing.md) in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**Its thick leather and heavy stitching keep bush pilots warm at altitude. Also offers good protection when operating at ground level.**”
+>
+> — In-game description
+
+A **Flight Jacket** is a type of [Clothing](./Clothing.md) in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
 ## Overview
 

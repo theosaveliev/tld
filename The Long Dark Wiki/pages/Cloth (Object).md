@@ -13,15 +13,27 @@
 
 **Cloth (Object)**
 
-![Blanket](../assets/ClothBlanket.jpg)<br>![Scarf](../assets/Cloth_Scarf.jpg)<br>![Bedsheet](../assets/ClothBunker.jpg)<br>![Tarp](../assets/ClothTarp.jpg)
+\[\[File:
+
+![Blanket](../assets/ClothBlanket.jpg)
+
+![Scarf](../assets/Cloth_Scarf.jpg)
+
+![Bedsheet](../assets/ClothBunker.jpg)
+
+![Tarp](../assets/ClothTarp.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** Yes **Cloth (Object)** are harvestable interactable objects mainly found inside homes and beds. They come in varying sizes but can be harvested by hand or with a [Hunting Knife](./Hunting%20Knife.md) to obtain [Cloth](./Cloth.md).
+Item
+
+Wintermute
+
+Yes **Cloth (Object)** are harvestable interactable objects mainly found inside homes and beds. They come in varying sizes but can be harvested by hand or with a [Hunting Knife](./Hunting%20Knife.md) to obtain [Cloth](./Cloth.md).
 
 ## Blanket
 

@@ -19,7 +19,15 @@
 
 **Paradise Meadows Farm**
 
-![Overview](../assets/Paradise_meadows_farm.jpg)<br>![Barn](../assets/Paradise_meadows_farm_barn.jpg)<br>![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg)<br>![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
+\[\[File:
+
+![Overview](../assets/Paradise_meadows_farm.jpg)
+
+![Barn](../assets/Paradise_meadows_farm_barn.jpg)
+
+![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg)
+
+![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
 
 250px\]\]
 
@@ -29,17 +37,19 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
-**Description:** A farmhouse and several outbuildings
+Description
+
+A farmhouse and several outbuildings
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 
@@ -49,9 +59,11 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench
+Has a workbench|-
 
-**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+Missions
+
+[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

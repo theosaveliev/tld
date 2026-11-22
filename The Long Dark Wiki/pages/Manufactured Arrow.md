@@ -15,9 +15,35 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Manufactured Arrow**<br>![Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Commercially crafted Arrows made of metal alloy. Heavier, but more deadly and durable.<br>**Values**<br>**Weight:** 0.15 kg (0.33 lbs)<br>**Manufactured Arrows** are non-craftable ammunition items for the [Survival Bow](./Survival%20Bow.md) and its variants.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Manufactured Arrow**
+
+![Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) only)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** Commercially crafted Arrows made of metal alloy. Heavier, but more deadly and durable.
+
+**Values**
+
+**Weight:** 0.15 kg (0.33 lbs)
+
+**Manufactured Arrows** are non-craftable ammunition items for the [Survival Bow](./Survival%20Bow.md) and its variants.
 
 ## Overview
 

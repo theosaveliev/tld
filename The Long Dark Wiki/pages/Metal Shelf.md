@@ -11,19 +11,41 @@
 
 **Metal Shelf**
 
-![Locker](../assets/MetalShelfLocker.jpg)<br>![Extra Small](../assets/MetalShelfExtraSmall.jpg)<br>![Small](../assets/MetalShelfSmall.jpg)<br>![Large](../assets/MetalShelfLarge.jpg)<br>![Extra Large](../assets/MetalShelfExtraLarge.jpg)
+\[\[File:
+
+![Locker](../assets/MetalShelfLocker.jpg)
+
+![Extra Small](../assets/MetalShelfExtraSmall.jpg)
+
+![Small](../assets/MetalShelfSmall.jpg)
+
+![Large](../assets/MetalShelfLarge.jpg)
+
+![Extra Large](../assets/MetalShelfExtraLarge.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
 **Statistics**
 
-**Harvest:** 4x [Scrap Metal](./Scrap%20Metal.md) (Locker)<br>6 × [Scrap Metal](./Scrap%20Metal.md) (Small)<br>8 x [Scrap Metal](./Scrap%20Metal.md) (Medium)<br>10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
+Harvest
+
+4x [Scrap Metal](./Scrap%20Metal.md) (Locker)
+
+6 × [Scrap Metal](./Scrap%20Metal.md) (Small)
+
+8 x [Scrap Metal](./Scrap%20Metal.md) (Medium)
+
+10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
 
 ## Overview
 

@@ -14,9 +14,31 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Anna Island -- Track Section 6**<br>![Anna Island Track Section 6](../assets/Anna_Island_Track_Section_6.jpg)<br>**Location on [Cauldron Island](./Cauldron%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Anna Island Track Section 6 Map](../assets/Anna_Island_Track_Section_6_Map.png)<br>**Details**<br>**Connecting Regions:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)<br>**Interloper Region Spawn:** No<br>**Date Added:** October 27 2026<br>**Anna Island -- Track Section 6** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Anna Island -- Track Section 6**
+
+![Anna Island Track Section 6](../assets/Anna_Island_Track_Section_6.jpg)
+
+**Location on [Cauldron Island](./Cauldron%20Island.md)**
+
+![No picture](../assets/No_picture.png)
+
+![Anna Island Track Section 6 Map](../assets/Anna_Island_Track_Section_6_Map.png)
+
+**Details**
+
+**Connecting Regions:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
+
+**Interloper Region Spawn:** No
+
+**Date Added:** October 27 2026
+
+**Anna Island -- Track Section 6** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 

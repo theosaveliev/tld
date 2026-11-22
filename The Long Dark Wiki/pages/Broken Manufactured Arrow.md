@@ -4,9 +4,33 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Broken Manufactured Arrow**<br>![Broken Manufactured Arrow icon](../assets/Broken_Manufactured_Arrow_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A broken Manufactured Arrow. Cannot be harvested.<br>**Values**<br>**Weight:** 0.15 kg (0.33 lbs)<br>**Broken Manufactured Arrow** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Broken Manufactured Arrow**
+
+![Broken Manufactured Arrow icon](../assets/Broken_Manufactured_Arrow_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** A broken Manufactured Arrow. Cannot be harvested.
+
+**Values**
+
+**Weight:** 0.15 kg (0.33 lbs)
+
+**Broken Manufactured Arrow** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 

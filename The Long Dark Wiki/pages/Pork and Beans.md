@@ -11,45 +11,71 @@
 
 **Pork and Beans**
 
-![Sealed](../assets/Pork_and_Beans_icon.png)<br>![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png)
+\[\[File:
+
+![Sealed](../assets/Pork_and_Beans_icon.png)
+
+![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png)
 
 250px\]\]
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+Release
 
-**Wintermute:** No
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+Wintermute
+
+No
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** Beans in molasses, with bits of what looks like pork.
+No
+
+Examine
+
+Beans in molasses, with bits of what looks like pork.
 
 **Values**
 
-**Calories:** 600 kcal
+Calories
 
-**Hydration:** -5%
+600 kcal
 
-**[Vitamin C](./Scurvy.md):** Minor (2%)
+Hydration
 
-**Weight:** 0.25 kg (0.55 lbs)
+-5%
+
+[Vitamin C](./Scurvy.md)
+
+Minor (2%)
+
+Weight
+
+0.25 kg (0.55 lbs)
 
 **Decay Rate**
 
-**Inside:** 0.133% per day
+Inside
 
-**Outside:** 0.667% per day
+0.133% per day
+
+Outside
+
+0.667% per day
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_PorkandBeans
+Item key
+
+GAMEPLAY\_PorkandBeans
 
 **Pork and Beans** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

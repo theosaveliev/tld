@@ -4,9 +4,45 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Rabbit Pie**<br>![Rabbit Pie icon](../assets/Rabbit_Pie_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md))<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 250 (313) kcal<br>**Hydration:** 0.0%<br>**Weight:** 0.10 kg (0.22 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_RabbitMeatPie<br>**Rabbit Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Rabbit Pie**
+
+![Rabbit Pie icon](../assets/Rabbit_Pie_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Values**
+
+**Calories:** 250 (313) kcal
+
+**Hydration:** 0.0%
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Decay Rate**
+
+**Inside:** 20.000% per day
+
+**Outside:** 5.000% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_RabbitMeatPie
+
+**Rabbit Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
 
 ## Effects
 

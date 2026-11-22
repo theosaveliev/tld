@@ -15,19 +15,31 @@
 
 **Tall Tales**
 
-![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png)<br>![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png)<br>![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png)<br>![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+\[\[File:
+
+![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png)
+
+![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png)
+
+![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png)
+
+![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 
 250px\]\]
 
 Episode
 
-[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
+[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)|-
 
 **Missions**
 
-**Current:** Tall Tales
+Current
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+Tall Tales
+
+Region
+
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 > “**Books describing odd or mysterious events in Pleasant Valley. Investigate to find out more about the life and character of people in the Region.**”
 

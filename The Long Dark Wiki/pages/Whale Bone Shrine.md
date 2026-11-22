@@ -11,9 +11,37 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Whale Bone Shrine**<br>![Shrine 1](../assets/Whale_Bone_Shrine.jpg)<br>![Shrine 2](../assets/Whale_Bone_Shrine_2.jpg)<br>![Shrine 3](../assets/Whale_Bone_Shrine_3.jpg)<br>250px\]\]<br>**Location**<br>![Whale Bone Shrine Location](../assets/Whale_Bone_Shrine_Location.png)<br>Region<br>[Port Remnant](./Port%20Remnant.md)\\|-<br>Description<br>**General**<br>Has no shelter\ **Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Whale Bone Shrine**
+
+\[\[File:
+
+![Shrine 1](../assets/Whale_Bone_Shrine.jpg)
+
+![Shrine 2](../assets/Whale_Bone_Shrine_2.jpg)
+
+![Shrine 3](../assets/Whale_Bone_Shrine_3.jpg)
+
+250px\]\]
+
+**Location**
+
+![Whale Bone Shrine Location](../assets/Whale_Bone_Shrine_Location.png)
+
+Region
+
+[Port Remnant](./Port%20Remnant.md)|-
+
+Description
+
+**General**
+
+Has no shelter **Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

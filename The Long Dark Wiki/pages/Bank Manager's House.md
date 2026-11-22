@@ -4,7 +4,11 @@
 
 **Bank Manager's House**
 
-![Exterior](../assets/Milton_Bank_Managers_House.jpg)<br>![Interior](../assets/Bank_managers_house_interior.jpg)
+\[\[File:
+
+![Exterior](../assets/Milton_Bank_Managers_House.jpg)
+
+![Interior](../assets/Bank_managers_house_interior.jpg)
 
 250px\]\]
 
@@ -14,17 +18,19 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
-**Description:** A single-story house with a pot belly stove and bed
+Description
+
+A single-story house with a pot belly stove and bed
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 
@@ -32,9 +38,13 @@ Firebox
 
 Has a bed
 
-**Has an interior\|-:** **Wintermute**
+Has an interior|-
 
-**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+**Wintermute**
+
+Missions
+
+[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

@@ -4,9 +4,37 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Lighthouse (Port Remnant)**<br>![Lighthouse (Port Remnant)](../assets/Lighthouse_%28Port_Remnant%29.jpg)<br>**Location**<br>![Lighthouse (Port Remnant) Location](../assets/Lighthouse_%28Port_Remnant%29_Location.png)<br>**Region:** [Port Remnant](./Port%20Remnant.md)\\|-<br>**Description:** A ruined lighthouse with an interior cave system below it.<br>**General**<br>**Firebox:** [Fire Barrel](./Fire%20Barrel.md)<br>![Bed icon](../assets/Bed_icon.png)<br>Has a bed<br>![Forge icon green](../assets/Forge_icon_green.png)<br>![Workbench icon green](../assets/Workbench_icon_green.png)<br>Has an interior\ **Lighthouse** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md), and is the first location visited when entering [Cauldron Island](./Cauldron%20Island.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Lighthouse (Port Remnant)**
+
+![Lighthouse (Port Remnant)](../assets/Lighthouse_%28Port_Remnant%29.jpg)
+
+**Location**
+
+![Lighthouse (Port Remnant) Location](../assets/Lighthouse_%28Port_Remnant%29_Location.png)
+
+**Region:** [Port Remnant](./Port%20Remnant.md)
+
+**Description:** A ruined lighthouse with an interior cave system below it.
+
+**General**
+
+**Firebox:** [Fire Barrel](./Fire%20Barrel.md)
+
+![Bed icon](../assets/Bed_icon.png)
+
+Has a bed
+
+![Forge icon green](../assets/Forge_icon_green.png)
+
+![Workbench icon green](../assets/Workbench_icon_green.png)
+
+Has an interior **Lighthouse** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md), and is the first location visited when entering [Cauldron Island](./Cauldron%20Island.md).
 
 ## Overview
 

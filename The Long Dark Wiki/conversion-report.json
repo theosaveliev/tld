@@ -5,8 +5,8 @@
     "redirects": 443,
     "expansion_errors": 0,
     "conversion_errors": 0,
-    "repaired_pages": 581,
-    "raw_fallback_pages": 9,
+    "repaired_pages": 582,
+    "raw_fallback_pages": 5,
     "html_fallback_pages": 61,
     "unresolved_links": 117,
     "missing_images": 34,
@@ -1049,12 +1049,12 @@
     {
       "title": "Bear",
       "filename": "Bear.md",
-      "status": "raw_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML failed: Pandoc conversion failed: Error at (line 51, column 106):\nunexpected '_'\n{| class=\"wikitable sortable filterable sticky-header item-drops autosort=1,a\" style=\"text-align:center\" __uv-attr-style=\"text-align:center\"\n                                                                                                         ^ Direct Markdown conversion failed; rendered the original source through HTML-to-Markdown fallback."
+      "error": ""
     },
     {
       "title": "Bear Creek Campground",
@@ -3719,12 +3719,12 @@
     {
       "title": "Cougar",
       "filename": "Cougar.md",
-      "status": "raw_fallback",
+      "status": "repaired",
       "categories": 4,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML failed: Pandoc conversion failed: Error at (line 38, column 106):\nunexpected '_'\n{| class=\"wikitable sortable filterable sticky-header item-drops autosort=1,a\" style=\"text-align:center\" __uv-attr-style=\"text-align:center\"\n                                                                                                         ^ Direct Markdown conversion failed; rendered the original source through HTML-to-Markdown fallback."
+      "error": "Recovered from Pandoc's unexpected end of input by closing 2 unterminated MediaWiki table(s)."
     },
     {
       "title": "Cougar Carcass",
@@ -16207,12 +16207,12 @@
     {
       "title": "Timberwolf",
       "filename": "Timberwolf.md",
-      "status": "raw_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML failed: Pandoc conversion failed: Error at (line 55, column 106):\nunexpected '_'\n{| class=\"wikitable sortable filterable sticky-header item-drops autosort=1,a\" style=\"text-align:center\" __uv-attr-style=\"text-align:center\"\n                                                                                                         ^ Direct Markdown conversion failed; rendered the original source through HTML-to-Markdown fallback."
+      "error": ""
     },
     {
       "title": "Timberwolf Carcass",
@@ -17787,12 +17787,12 @@
     {
       "title": "Wolf",
       "filename": "Wolf.md",
-      "status": "raw_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML failed: Pandoc conversion failed: Error at (line 61, column 106):\nunexpected '_'\n{| class=\"wikitable sortable filterable sticky-header item-drops autosort=1,a\" style=\"text-align:center\" __uv-attr-style=\"text-align:center\"\n                                                                                                         ^ Direct Markdown conversion failed; rendered the original source through HTML-to-Markdown fallback."
+      "error": ""
     },
     {
       "title": "Wolf Carcass",

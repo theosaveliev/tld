@@ -4,15 +4,23 @@
 
 **Salt Deposit**
 
-![Full deposit](../assets/Salt_deposit.jpg)<br>![Depleted deposit](../assets/Salt_deposit_depleted.jpg)
+\[\[File:
+
+![Full deposit](../assets/Salt_deposit.jpg)
+
+![Depleted deposit](../assets/Salt_deposit_depleted.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
 A **Salt Deposit** is a harvestable interactable object found along Coastal Regions in [_The Long Dark_](./The%20Long%20Dark.md).
 

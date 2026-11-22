@@ -4,13 +4,43 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>**First Aid Kit**<br>![First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png)<br>**Wintermute:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Contains essential First Aid supplies.<br>**Values**<br>**Weight:** 5.00 kg (11 lbs)<br>**Template:for**<br>> “**Contains essential First Aid supplies.**”<br>><br>> — In-Game Description<br>
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+**First Aid Kit**
+
+![First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png)
+
+**Wintermute:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** Contains essential First Aid supplies.
+
+**Values**
+
+**Weight:** 5.00 kg (11 lbs)
+
+**Template:for**
+
+> “**Contains essential First Aid supplies.**”
+>
+> — In-Game Description
+
+
 
 “
 
-**Astrid's a doctor so we're covered there, but...probably best to have some extra meds just in case.**<br>Mackenzie's Description
+**Astrid's a doctor so we're covered there, but...probably best to have some extra meds just in case.**
+
+Mackenzie's Description
 
 ”
 

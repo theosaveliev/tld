@@ -40,9 +40,21 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**For intermediate players. A crossroads dug out of the looming mountains, Transfer Pass is quiet since the trains stopped. But it remains a critical junction for anyone wishing to access the Far Territory.<br>Connects to Broken Railroad, Forsaken Airfield, Zone of Contamination, and Sundered Pass.**”<br>><br>> — In-game description<br>**Transfer Pass** is the 13th [Region](./Region.md) in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.<br>Transfer Pass is set-up as a ''hub'' region, connecting to all other regions in the Far Territory. It connects to [Broken Railroad](./Broken%20Railroad.md) via the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), to [Forsaken Airfield](./Forsaken%20Airfield.md) via a mountain road, to the [Zone of Contamination](./Zone%20of%20Contamination.md) further along the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md), and to [Sundered Pass](./Sundered%20Pass.md) up north on the road after bypassing a collapsed tunnel.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “__For intermediate players. A crossroads dug out of the looming mountains, Transfer Pass is quiet since the trains stopped. But it remains a critical junction for anyone wishing to access the Far Territory.  
+   
+ Connects to Broken Railroad, Forsaken Airfield, Zone of Contamination, and Sundered Pass.__”
+>
+> — In-game description
+
+**Transfer Pass** is the 13th [Region](./Region.md) in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.
+
+Transfer Pass is set-up as a ''hub'' region, connecting to all other regions in the Far Territory. It connects to [Broken Railroad](./Broken%20Railroad.md) via the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), to [Forsaken Airfield](./Forsaken%20Airfield.md) via a mountain road, to the [Zone of Contamination](./Zone%20of%20Contamination.md) further along the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md), and to [Sundered Pass](./Sundered%20Pass.md) up north on the road after bypassing a collapsed tunnel.
 
 ## Overview
 

@@ -4,41 +4,65 @@
 
 **Rockfish (Raw)**
 
-![Raw](../assets/Rockfish_%28Raw%29_icon.png)<br>![Opened](../assets/Rockfish_%28Raw%29_Opened_icon.png)
+\[\[File:
+
+![Raw](../assets/Rockfish_%28Raw%29_icon.png)
+
+![Opened](../assets/Rockfish_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+Release
 
-**Wintermute:** No
+[21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
-**Renewable:** Yes
+Wintermute
+
+No
+
+Renewable
+
+Yes
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** A saltwater fish. Spiny, but edible.
+No
+
+Examine
+
+A saltwater fish. Spiny, but edible.
 
 **Values**
 
-**Calories:** 1500 kcal
+Calories
 
-**Hydration:** 0%
+1500 kcal
 
-**Weight:** 5.0 kg (11 lbs)
+Hydration
 
-**Oil/Weight:** 0,025
+0%
+
+Weight
+
+5.0 kg (11 lbs)
+
+Oil/Weight
+
+0,025
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_RawRockfish
+Item key
+
+GAMEPLAY\_RawRockfish
 
 _For the cooked version, see [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md)._
 

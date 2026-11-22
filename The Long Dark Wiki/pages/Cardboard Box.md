@@ -11,19 +11,31 @@
 
 **Cardboard Box**
 
-![Intact](../assets/Cardboard_boxes.jpg)<br>![Unfolded](../assets/CardboardBoxUnfolded.jpg)<br>![Torn](../assets/CardboardBoxTorn.jpg)
+\[\[File:
+
+![Intact](../assets/Cardboard_boxes.jpg)
+
+![Unfolded](../assets/CardboardBoxUnfolded.jpg)
+
+![Torn](../assets/CardboardBoxTorn.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
 **Statistics**
 
-**Harvest:** 1-3 [Tinder Plugs](./Tinder%20Plug.md)
+Harvest
+
+1-3 [Tinder Plugs](./Tinder%20Plug.md)
 
 ## Overview
 

@@ -4,19 +4,31 @@
 
 **Wheel**
 
-![Full](../assets/Wheel.png)<br>![Broken](../assets/Wheel_%28broken%29.png)
+\[\[File:
+
+![Full](../assets/Wheel.png)
+
+![Broken](../assets/Wheel_%28broken%29.png)
 
 250px\]\]
 
-**Release:** 1 August 2017
+Release
 
-**Update:** [1.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+1 August 2017
 
-**Story item:** No
+Update
+
+[1.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+Story item
+
+No
 
 **Advanced data**
 
-**Object key:** GAMEPLAY\_CartWheel
+Object key
+
+GAMEPLAY\_CartWheel
 
 A **Wheel** is a wooden carriage wheel that can be broken down and harvested for materials. They come in either an intact form or broken form.
 

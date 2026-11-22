@@ -11,9 +11,47 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Ranger Stew**<br>![Ranger Stew icon](../assets/Ranger_Stew_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 1600 (2000) kcal<br>**Hydration:** -3.0%<br>**[Vitamin C](./Scurvy.md):** Moderate (42%)<br>**Weight:** 0.40 kg (0.88 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_MeatStew<br>**Ranger Stew** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Ranger Stew**
+
+![Ranger Stew icon](../assets/Ranger_Stew_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Values**
+
+**Calories:** 1600 (2000) kcal
+
+**Hydration:** -3.0%
+
+**[Vitamin C](./Scurvy.md):** Moderate (42%)
+
+**Weight:** 0.40 kg (0.88 lbs)
+
+**Decay Rate**
+
+**Inside:** 20.000% per day
+
+**Outside:** 5.000% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_MeatStew
+
+**Ranger Stew** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).
 
 ## Overview
 

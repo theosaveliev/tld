@@ -4,9 +4,33 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**A Skeleton And Note**<br>![A Skeleton And Note icon](../assets/A_Skeleton_And_Note_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** Human remains resting on a scrap of paper. Some of the bones appear burnt.<br>**Values**<br>**Weight:** 0.00 kg (0 lbs)<br>**A Skeleton And Note** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**A Skeleton And Note**
+
+![A Skeleton And Note icon](../assets/A_Skeleton_And_Note_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** Human remains resting on a scrap of paper. Some of the bones appear burnt.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**A Skeleton And Note** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Overview
 

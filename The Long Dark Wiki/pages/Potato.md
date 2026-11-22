@@ -21,9 +21,35 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Potato**<br>![Potato icon](../assets/Potato_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** Yes ([Trader](./Trader.md))<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Highly nutritious, but only edible when cooked.<br>**Values**<br>**Weight:** 0.20 kg (0.44 lbs)<br>**Potato** is a raw [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_, found inside [Vegetable Rack](./Vegetable%20Rack.md), [Potato Sacks](./Potato%20Sack.md) or indoors.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Potato**
+
+![Potato icon](../assets/Potato_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Stackable:** No
+
+**Examine:** Highly nutritious, but only edible when cooked.
+
+**Values**
+
+**Weight:** 0.20 kg (0.44 lbs)
+
+**Potato** is a raw [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_, found inside [Vegetable Rack](./Vegetable%20Rack.md), [Potato Sacks](./Potato%20Sack.md) or indoors.
 
 ## Overview
 

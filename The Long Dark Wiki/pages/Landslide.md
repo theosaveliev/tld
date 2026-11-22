@@ -4,7 +4,11 @@
 
 **Landslide**
 
-![Front Side](../assets/Landslide2.jpg)<br>![Back Side](../assets/Landslide.jpg)
+\[\[File:
+
+![Front Side](../assets/Landslide2.jpg)
+
+![Back Side](../assets/Landslide.jpg)
 
 250px\]\]
 
@@ -14,15 +18,19 @@
 
 Region
 
-[Broken Railroad](./Broken%20Railroad.md)
+[Broken Railroad](./Broken%20Railroad.md)|-
 
 Location
 
-**Description:** A landslide blocking the railroad
+Description
+
+A landslide blocking the railroad
 
 **General**
 
-**Type:** Landmark
+Type
+
+Landmark|-
 
 ## Overview
 

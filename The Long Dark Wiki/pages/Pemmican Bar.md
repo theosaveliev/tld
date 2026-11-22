@@ -12,9 +12,47 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Pemmican Bar**<br>![Pemmican Bar icon](../assets/Pemmican_Bar_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Renewable:** No ([Rose Hip](./Rose%20Hip.md))<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** Yes<br>**Examine:** A traditional trail food based on dried meats. Fortifies physical Condition and resilience.<br>**Values**<br>**Calories:** 450 (562) kcal<br>**Hydration:** -6%<br>**[Vitamin C](./Scurvy.md):** Minor (14%)<br>**Weight:** 0.0625 kg (0.14 lbs)<br>**Decay Rate**<br>**Inside:** 4.000% per day<br>**Outside:** 0.800% per day<br>**Pemmican Bar** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Pemmican Bar**
+
+![Pemmican Bar icon](../assets/Pemmican_Bar_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Renewable:** No ([Rose Hip](./Rose%20Hip.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Stackable:** Yes
+
+**Examine:** A traditional trail food based on dried meats. Fortifies physical Condition and resilience.
+
+**Values**
+
+**Calories:** 450 (562) kcal
+
+**Hydration:** -6%
+
+**[Vitamin C](./Scurvy.md):** Minor (14%)
+
+**Weight:** 0.0625 kg (0.14 lbs)
+
+**Decay Rate**
+
+**Inside:** 4.000% per day
+
+**Outside:** 0.800% per day
+
+**Pemmican Bar** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
 ## Overview
 

@@ -4,7 +4,11 @@
 
 **Rocky Refuge**
 
-![Exterior](../assets/Rocky_refuge_2.jpg)<br>![Interior](../assets/Rocky_refuge.jpg)
+\[\[File:
+
+![Exterior](../assets/Rocky_refuge_2.jpg)
+
+![Interior](../assets/Rocky_refuge.jpg)
 
 250px\]\]
 
@@ -14,15 +18,19 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)
+[Mountain Town](./Mountain%20Town.md)|-
 
 Location
 
-**Description:** A small area protected on two sides by rocks
+Description
+
+A small area protected on two sides by rocks
 
 **General**
 
-**Type:** Outdoors
+Type
+
+Outdoors|-
 
 ## Overview
 

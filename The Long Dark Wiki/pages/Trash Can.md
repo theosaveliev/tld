@@ -4,16 +4,28 @@
 
 **Trash Can**
 
-![Regular](../assets/Trash_Can.jpg)<br>![Rusty](../assets/Trash_Can_Rusty.jpg)
+\[\[File:
+
+![Regular](../assets/Trash_Can.jpg)
+
+![Rusty](../assets/Trash_Can_Rusty.jpg)
 
 250px\]\]
 
-**Release:** TBD
+Release
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+TBD
 
-**Story item:** Yes
+Update
+
+[0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+
+Story item
+
+Yes
 
 **Container**
 
-**Capacity:** 15.00 kg(33 lbs)
+Capacity
+
+15.00 kg(33 lbs)

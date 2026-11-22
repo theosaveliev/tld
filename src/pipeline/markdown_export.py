@@ -57,8 +57,7 @@ REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
     re.IGNORECASE,
 )
 WIKITEXTPROCESSOR_ATTRIBUTE_RE = re.compile(
-    r"\s+__uv-attr-[A-Za-z0-9_-]+\s*=\s*(?:\"[^\"]*\"|'[^']*'|[^\s|]+)",
-    re.IGNORECASE,
+    r"\s+__uv-attr-[A-Za-z0-9_-]+\s*=\s*(?:\"[^\"]*\"|'[^']*'|[^\s|]+)", re.IGNORECASE
 )
 WIKITEXT_REFERENCE_TAG_RE = re.compile(
     r"<(?P<closing>/)?ref\b(?P<attributes>[^>]*)>", re.IGNORECASE

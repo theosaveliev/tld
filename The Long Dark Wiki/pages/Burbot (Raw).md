@@ -6,41 +6,65 @@ _For the cooked version, see [Burbot (Cooked)](./Burbot%20%28Cooked%29.md)._
 
 **Burbot (Raw)**
 
-![Raw](../assets/Burbot_%28Raw%29_icon.png)<br>![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png)
+\[\[File:
+
+![Raw](../assets/Burbot_%28Raw%29_icon.png)
+
+![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png)
 
 250px\]\]
 
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+Release
 
-**Wintermute:** No
+[21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
-**Renewable:** Yes
+Wintermute
+
+No
+
+Renewable
+
+Yes
 
 **Properties**
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)
+[Food And Drink](./Food%20And%20Drink.md)|-
 
 Equipable
 
-**Stackable:** No
+Stackable
 
-**Examine:** A bottom-dwelling freshwater fish. Can grow to impressive size.
+No
+
+Examine
+
+A bottom-dwelling freshwater fish. Can grow to impressive size.
 
 **Values**
 
-**Calories:** 1950 kcal
+Calories
 
-**Hydration:** 0.0%
+1950 kcal
 
-**Weight:** 6.0 kg (13.2 lbs)
+Hydration
 
-**Oil/Weight:** 0,030
+0.0%
+
+Weight
+
+6.0 kg (13.2 lbs)
+
+Oil/Weight
+
+0,030
 
 **Advanced data**
 
-**Item key:** GAMEPLAY\_RawBurbot
+Item key
+
+GAMEPLAY\_RawBurbot
 
 **Burbot (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_. Burbot have a minimum raw weight of 3.9 kg and a maximum raw weight of 6.0 kg, making them the largest fish in-game, aside from the [Big Bass](./Big%20Bass%20%28Raw%29.md) in [Wintermute](./Wintermute.md). They are also the most calorie-dense fish, at 325 kcal/kg.
 

@@ -4,21 +4,37 @@
 
 **Locker**
 
-![Single](../assets/LockerSingle.jpg)<br>![Double](../assets/LockerDouble.jpg)<br>![Triple](../assets/LockerTriple.jpg)<br>![Green](../assets/Five_Locker.jpg)
+\[\[File:
+
+![Single](../assets/LockerSingle.jpg)
+
+![Double](../assets/LockerDouble.jpg)
+
+![Triple](../assets/LockerTriple.jpg)
+
+![Green](../assets/Five_Locker.jpg)
 
 250px\]\]
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+Update
 
-**Story item:** Yes
+[0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+
+Story item
+
+Yes
 
 **Container**
 
-**Capacity:** 30.00 kg(66 lbs)
+Capacity
+
+30.00 kg(66 lbs)
 
 **Advanced data**
 
-**Object key:** GAMEPLAY\_Locker
+Object key
+
+GAMEPLAY\_Locker
 
 A **Locker** can be found in many places in the game, generally industrial-like places, and serves as a container for storing items. Some Lockers are locked and require a [Prybar](./Prybar.md) to open. Lockers are one of the most common containers found in the game, along with the metal and plastic containers.
 

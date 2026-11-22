@@ -13,21 +13,39 @@
 
 **Table**
 
-![Small](../assets/Small_Table.jpg)<br>![Recreation](../assets/Recreation_Table.jpg)<br>![Broken](../assets/Small_Broken_Table.jpg)<br>![Coffee](../assets/Coffee_Table.jpg)<br>![Nightstand](../assets/Nightstand_Table.jpg)<br>![Medium](../assets/Medium_Table.jpg)<br>![Dining](../assets/Dining_Table.jpg)
+\[\[File:
+
+![Small](../assets/Small_Table.jpg)
+
+![Recreation](../assets/Recreation_Table.jpg)
+
+![Broken](../assets/Small_Broken_Table.jpg)
+
+![Coffee](../assets/Coffee_Table.jpg)
+
+![Nightstand](../assets/Nightstand_Table.jpg)
+
+![Medium](../assets/Medium_Table.jpg)
+
+![Dining](../assets/Dining_Table.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
+
+Item
 
 Wintermute
 
-Yes
+Yes|-
 
 **Statistics**
 
-**Harvest:** [Reclaimed Wood](./Reclaimed%20Wood.md)
+Harvest
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
 
 **Tables** are wooden furniture that can be harvested with a [Hatchet](./Hatchet.md) to receive [Reclaimed Wood](./Reclaimed%20Wood.md).
 

@@ -12,9 +12,49 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Lily's Pancakes**<br>![Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png)<br>**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)<br>**Wintermute:** No<br>**Renewable:** No ([Acorn Grounds](./Acorn%20Grounds.md))<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Values**<br>**Calories:** 1000 (1250) kcal<br>**Hydration:** 0.0%<br>**[Vitamin C](./Scurvy.md):** Moderate (57%)<br>**Weight:** 0.15 kg (0.33 lbs)<br>**Decay Rate**<br>**Inside:** 20.000% per day<br>**Outside:** 5.000% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_PeachPancake<br>**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**<br>**Lily's Pancakes** is a food item in _The Long Dark._ It is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Lily's Pancakes**
+
+![Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png)
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** No ([Acorn Grounds](./Acorn%20Grounds.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Values**
+
+**Calories:** 1000 (1250) kcal
+
+**Hydration:** 0.0%
+
+**[Vitamin C](./Scurvy.md):** Moderate (57%)
+
+**Weight:** 0.15 kg (0.33 lbs)
+
+**Decay Rate**
+
+**Inside:** 20.000% per day
+
+**Outside:** 5.000% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_PeachPancake
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+**Lily's Pancakes** is a food item in _The Long Dark._ It is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
 ## Overview
 

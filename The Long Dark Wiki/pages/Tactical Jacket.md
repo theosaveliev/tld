@@ -32,9 +32,17 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**Durable jacket made from treated heavy canvas. Favoured by adventurous types who have to improvise.**”<br>><br>> — In-game description<br>The **Tactical Jacket** is a unique [Clothing](./Clothing.md) item, found only during the end of the [Last Horizon](./Last%20Horizon.md) Tale, in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). It originally belonged to [The Foreman](./The%20Foreman.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**Durable jacket made from treated heavy canvas. Favoured by adventurous types who have to improvise.**”
+>
+> — In-game description
+
+The **Tactical Jacket** is a unique [Clothing](./Clothing.md) item, found only during the end of the [Last Horizon](./Last%20Horizon.md) Tale, in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). It originally belonged to [The Foreman](./The%20Foreman.md).
 
 ## Overview
 

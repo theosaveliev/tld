@@ -4,6 +4,8 @@
 
 **Jackrabbit Island**
 
+\[\[File:
+
 ![Jackrabbit Island](../assets/Jackrabbit_Island.jpg)
 
 250px\]\]
@@ -14,11 +16,13 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)
+[Coastal Highway](./Coastal%20Highway.md)|-
 
 Location
 
-**Description:** An island with a rabbit grove
+Description
+
+An island with a rabbit grove
 
 **General**
 

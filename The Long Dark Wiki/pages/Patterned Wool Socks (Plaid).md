@@ -32,9 +32,17 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**Patterned Wool socks. Tough and warm.**”<br>><br>> — in-game description<br>**Patterned Wool Socks (Plaid)** is the name given to 3 unique variations of [Wool Socks](./Wool%20Socks.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**Patterned Wool socks. Tough and warm.**”
+>
+> — in-game description
+
+**Patterned Wool Socks (Plaid)** is the name given to 3 unique variations of [Wool Socks](./Wool%20Socks.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 

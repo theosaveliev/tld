@@ -11,15 +11,27 @@
 
 **Bench**
 
-![Bench Table](../assets/BenchAndChair.jpg)<br>![Couch](../assets/BenchCouch.jpg)<br>![Chair Bench](../assets/WoodenBenchChair.jpg)<br>![Small Table](../assets/WoodenBenchTable.jpg)
+\[\[File:
+
+![Bench Table](../assets/BenchAndChair.jpg)
+
+![Couch](../assets/BenchCouch.jpg)
+
+![Chair Bench](../assets/WoodenBenchChair.jpg)
+
+![Small Table](../assets/WoodenBenchTable.jpg)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
 **Benches** are wooden tables either used for chairs or tables, and can be harvested with a [Hatchet](./Hatchet.md) for [Reclaimed Wood](./Reclaimed%20Wood.md).
 

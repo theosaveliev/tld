@@ -11,15 +11,25 @@
 
 **Chair**
 
-![Chair](../assets/Chair.jpg)<br>![Sofa](../assets/Sofa_Chair.jpg)<br>![Stool](../assets/Stool.png)
+\[\[File:
+
+![Chair](../assets/Chair.jpg)
+
+![Sofa](../assets/Sofa_Chair.jpg)
+
+![Stool](../assets/Stool.png)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
 
-**Wintermute:** No
+Item
+
+Wintermute
+
+No
 
  **Template:images needed**A **Chair** is a wooden seat which is used primarily as a source of [Reclaimed Wood](./Reclaimed%20Wood.md). They require a [Hatchet](./Hatchet.md) to break down, and some can be broken down by hand.
 

@@ -4,9 +4,41 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Desecrated Church**<br>![Outside](../assets/Desecrated_Church.jpg)<br>![Inside](../assets/Desecrated_Church_Inside_2.jpg)<br>![Inside](../assets/Desecrated_Church_Inside.jpg)<br>250px\]\]<br>**Location**<br>![Desecrated Church Location](../assets/Desecrated_Church_Location.png)<br>Region<br>[Port Remnant](./Port%20Remnant.md)\\|-<br>Location<br>**Description:** A church ruined by strange whale based graffiti.<br>**General**<br>Has an interior\ **Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Desecrated Church**
+
+\[\[File:
+
+![Outside](../assets/Desecrated_Church.jpg)
+
+![Inside](../assets/Desecrated_Church_Inside_2.jpg)
+
+![Inside](../assets/Desecrated_Church_Inside.jpg)
+
+250px\]\]
+
+**Location**
+
+![Desecrated Church Location](../assets/Desecrated_Church_Location.png)
+
+Region
+
+[Port Remnant](./Port%20Remnant.md)|-
+
+Location
+
+Description
+
+A church ruined by strange whale based graffiti.
+
+**General**
+
+Has an interior **Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

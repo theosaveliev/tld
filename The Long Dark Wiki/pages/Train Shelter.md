@@ -4,9 +4,33 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Train Shelter**<br>![Train Shelter](../assets/Train_Shelter.jpg)<br>**Location**<br>![Train Shelter Location](../assets/Train_Shelter_Location.png)<br>**Region:** [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)\\|-<br>**Description:** A Train repair station hidden in the mountains.<br>**General**<br>**Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md)<br>![Bed icon](../assets/Bed_icon.png)<br>Has a bed<br>Has an interior\ **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Train Shelter**
+
+![Train Shelter](../assets/Train_Shelter.jpg)
+
+**Location**
+
+![Train Shelter Location](../assets/Train_Shelter_Location.png)
+
+**Region:** [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
+
+**Description:** A Train repair station hidden in the mountains.
+
+**General**
+
+**Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md)
+
+![Bed icon](../assets/Bed_icon.png)
+
+Has a bed
+
+Has an interior **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md).
 
 ## Overview
 

@@ -12,9 +12,35 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Animal Fat**<br>![Animal Fat icon](../assets/Animal_Fat_icon.png)<br>**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Pure animal fat. Useful in Cooking, but can also be eaten on its own if desperate for Calories...<br>**Values**<br>**Calories:** 900 kcal<br>**Weight:** 1.00 kg (2.2 lbs)<br>**Animal Fat** is a raw food item acquired from [Carcass Harvesting](./Carcass%20Harvesting.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Animal Fat**
+
+![Animal Fat icon](../assets/Animal_Fat_icon.png)
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Stackable:** No
+
+**Examine:** Pure animal fat. Useful in Cooking, but can also be eaten on its own if desperate for Calories...
+
+**Values**
+
+**Calories:** 900 kcal
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Animal Fat** is a raw food item acquired from [Carcass Harvesting](./Carcass%20Harvesting.md).
 
 ## Overview
 

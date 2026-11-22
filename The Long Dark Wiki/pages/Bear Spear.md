@@ -17,9 +17,43 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>**Bear Spear**<br>![Bear Spear icon](../assets/Bear_Spear_icon.png)<br>**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)<br>**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md)<br>**Properties**<br>**Item type:** [Tools](./Tools.md)\\|-<br>**Stackable:** No<br>**Examine:** A large defensive weapon, designed to pierce the thick hides of charging predators. For those with the heart to wield it.<br>**Values**<br>**Weight:** 4.00 kg (8.8 lbs)<br>**Actions**<br>**Backpack:** Examine<br>**On ground:** Take It, Leave It<br>> “**Ten inches of cold hard steel might do what a bullet can't. I'm convinced– a spear's the way to kill that bear.**”<br>><br>> — -Jeremiah<br>The **Bear Spear** is a weapon only available in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in [Wintermute](./Wintermute.md).
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+**Bear Spear**
+
+![Bear Spear icon](../assets/Bear_Spear_icon.png)
+
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)
+
+**Stackable:** No
+
+**Examine:** A large defensive weapon, designed to pierce the thick hides of charging predators. For those with the heart to wield it.
+
+**Values**
+
+**Weight:** 4.00 kg (8.8 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+> “**Ten inches of cold hard steel might do what a bullet can't. I'm convinced– a spear's the way to kill that bear.**”
+>
+> — -Jeremiah
+
+The **Bear Spear** is a weapon only available in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in [Wintermute](./Wintermute.md).
 
 ## Overview
 

@@ -22,9 +22,33 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>**Railway**<br>![Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)<br>**Location on [Great Bear Island](./Great%20Bear%20Island.md)**<br>![No picture](../assets/No_picture.png)<br>![Railway In Game Map](../assets/Railway_In-Game_Map.png)<br>**Details**<br>**Description:** A section of isolated railway running from a southern maintenance yard near Perseverance Mills all the way to a SAR station on the northern coast.<br>**Connecting Regions:** [Perseverance Mills](./Perseverance%20Mills.md) (unused)<br>**Characters:** [Heller](./Heller.md) [Astrid Greenwood](./Astrid%20Greenwood.md)<br>**Date Added:** 31 March 2026<br>The **Railway** (or **Railway Region**) is one of the regions added to [Wintermute](./Wintermute.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md). It does not have a connection to any other region directly, though it can be inferred it is accessed through the inaccessible Perseverance Mill located in [Perseverance Mills](./Perseverance%20Mills.md). It is said to be north of [Desperation Bay](./Desperation%20Bay.md), along the coastline, possibly making it the northern most region currently in Wintermute.
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+**Railway**
+
+![Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![No picture](../assets/No_picture.png)
+
+![Railway In Game Map](../assets/Railway_In-Game_Map.png)
+
+**Details**
+
+**Description:** A section of isolated railway running from a southern maintenance yard near Perseverance Mills all the way to a SAR station on the northern coast.
+
+**Connecting Regions:** [Perseverance Mills](./Perseverance%20Mills.md) (unused)
+
+**Characters:** [Heller](./Heller.md) [Astrid Greenwood](./Astrid%20Greenwood.md)
+
+**Date Added:** 31 March 2026
+
+The **Railway** (or **Railway Region**) is one of the regions added to [Wintermute](./Wintermute.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md). It does not have a connection to any other region directly, though it can be inferred it is accessed through the inaccessible Perseverance Mill located in [Perseverance Mills](./Perseverance%20Mills.md). It is said to be north of [Desperation Bay](./Desperation%20Bay.md), along the coastline, possibly making it the northern most region currently in Wintermute.
 
 ## Overview
 

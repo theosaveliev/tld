@@ -4,16 +4,28 @@
 
 **Trunk**
 
-![Regular](../assets/Trunk.jpg)<br>![Lily's Trunk](../assets/TrunkLily%27s.jpg)
+\[\[File:
+
+![Regular](../assets/Trunk.jpg)
+
+![Lily's Trunk](../assets/TrunkLily%27s.jpg)
 
 250px\]\]
 
-**Release:** TBD
+Release
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+TBD
 
-**Story item:** Yes
+Update
+
+[0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+
+Story item
+
+Yes
 
 **Container**
 
-**Capacity:** 30.00 kg(66 lbs)
+Capacity
+
+30.00 kg(66 lbs)

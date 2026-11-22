@@ -38,9 +38,21 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>> “**Especially rugged boots given to you by Grey Mother.**”<br>><br>> — In-game description<br>> “**Don't be so stubborn, Mainlander. Here... Take these old boots. [They belonged to my](./Lilith%20Barker.md)...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going.**”<br>><br>> — Grey Mother in Predux Episode 1 after earning her Trust<br>**Mountaineering Boots** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_ obtained exclusively in [Wintermute](./Wintermute.md).
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+> “**Especially rugged boots given to you by Grey Mother.**”
+>
+> — In-game description
+
+> “**Don't be so stubborn, Mainlander. Here... Take these old boots. [They belonged to my](./Lilith%20Barker.md)...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going.**”
+>
+> — Grey Mother in Predux Episode 1 after earning her Trust
+
+**Mountaineering Boots** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_ obtained exclusively in [Wintermute](./Wintermute.md).
 
 ## Overview
 

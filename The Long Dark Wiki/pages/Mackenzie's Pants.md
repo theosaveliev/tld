@@ -12,7 +12,11 @@
 
 **Mackenzie's Pants**
 
-![After Crash](../assets/Mackenzie%27s_Pants_icon.png)<br>![Before Crash](../assets/Mackenzie%27s_Pants_Before_Crash_icon.png)
+\[\[File:
+
+![After Crash](../assets/Mackenzie%27s_Pants_icon.png)
+
+![Before Crash](../assets/Mackenzie%27s_Pants_Before_Crash_icon.png)
 
 250px\]\]
 
@@ -20,33 +24,64 @@
 
 Item Type
 
-Clothing
+Clothing|-
 
 Wintermute
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+Weight
 
-**Warmth bonus:** ![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+![Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
-**Windproof bonus:** ![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+Warmth bonus
 
-**Waterproof bonus:** ![Waterproofness icon](../assets/Waterproofness_icon.png)0%
+![Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Protection:** ![Protection icon](../assets/Protection_icon.png)2%
+Windproof bonus
 
-**Mobility:** ![Mobility icon](../assets/Mobility_icon.png)-1%
+![Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+Waterproof bonus
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+![Waterproofness icon](../assets/Waterproofness_icon.png)0%
+
+Protection
+
+![Protection icon](../assets/Protection_icon.png)2%
+
+Mobility
+
+![Mobility icon](../assets/Mobility_icon.png)-1%
+
+Harvest
+
+1 × [Cloth](./Cloth.md)  
+ 30 minutes
+
+Repair
+
+1 × [Cloth](./Cloth.md)  
+ 30 minutes  
+ 30% condition
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>> “**The pants you were wearing when you crashed in your plane.**”<br>><br>> — Post Crash In-game description<br>> “**Comfortable pants, for a bush pilot.**”<br>><br>> — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar<br>**Mackenzie's Pants** are a [Clothing](./Clothing.md) item worn on the player's inner legs obtained exclusively in [Wintermute](./Wintermute.md).
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+> “**The pants you were wearing when you crashed in your plane.**”
+>
+> — Post Crash In-game description
+
+> “**Comfortable pants, for a bush pilot.**”
+>
+> — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar
+
+**Mackenzie's Pants** are a [Clothing](./Clothing.md) item worn on the player's inner legs obtained exclusively in [Wintermute](./Wintermute.md).
 
 ## Overview
 

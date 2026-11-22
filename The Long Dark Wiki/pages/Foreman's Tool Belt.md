@@ -32,9 +32,17 @@ Wintermute
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**A high-quality belt to lighten the load. Perfectly balanced to ensure all-day comfort and stability.**”<br>><br>> — In-game description<br>The **Foreman's Tool Belt** is an accessory [Clothing](./Clothing.md) found in _The Long Dark_, and once belonged to [The Foreman](./The%20Foreman.md) of the [Langston Mine](./Langston%20Mine.md). It is the ultimate prize that can be found from completing the [Tale](./Tales.md) [Buried Echoes](./Buried%20Echoes.md) and is found deep inside the Mine in the [Zone of Contamination](./Zone%20of%20Contamination.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**A high-quality belt to lighten the load. Perfectly balanced to ensure all-day comfort and stability.**”
+>
+> — In-game description
+
+The **Foreman's Tool Belt** is an accessory [Clothing](./Clothing.md) found in _The Long Dark_, and once belonged to [The Foreman](./The%20Foreman.md) of the [Langston Mine](./Langston%20Mine.md). It is the ultimate prize that can be found from completing the [Tale](./Tales.md) [Buried Echoes](./Buried%20Echoes.md) and is found deep inside the Mine in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
 ## Overview
 

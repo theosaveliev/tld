@@ -12,9 +12,31 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>**Military Stim**<br>![Military Stim icon](../assets/Military_Stim_icon.png)<br>**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)<br>**Properties**<br>**Item type:** [First Aid](./First%20Aid.md)\\|-<br>**Stackable:** No<br>**Examine:** Experimental Military Stim - Test # 2.003 Caution: Use only in extreme circumstances to restore Condition.<br>**Values**<br>**Weight:** 0.10 kg (0.22 lbs)<br>A **Military Stim** is a [First Aid](./First%20Aid.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+**Military Stim**
+
+![Military Stim icon](../assets/Military_Stim_icon.png)
+
+**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Properties**
+
+**Item type:** [First Aid](./First%20Aid.md)
+
+**Stackable:** No
+
+**Examine:** Experimental Military Stim - Test # 2.003 Caution: Use only in extreme circumstances to restore Condition.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+A **Military Stim** is a [First Aid](./First%20Aid.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

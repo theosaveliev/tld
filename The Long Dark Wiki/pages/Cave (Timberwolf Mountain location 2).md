@@ -6,6 +6,8 @@
 
 **Cave (Timberwolf Mountain location 2)**
 
+\[\[File:
+
 ![Cave (Timberwolf Mountain location 2)](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg)
 
 250px\]\]
@@ -14,11 +16,13 @@
 
 Region
 
-[Timberwolf Mountain](./Timberwolf%20Mountain.md)
+[Timberwolf Mountain](./Timberwolf%20Mountain.md)|-
 
 **General**
 
-**Type:** Cave
+Type
+
+Cave|-
 
 ## Overview
 

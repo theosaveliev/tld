@@ -4,9 +4,51 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Cougar Meat (Cooked)**<br>![Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png)<br>**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)<br>**Wintermute:** No<br>**Properties**<br>**Item type:** [Food And Drink](./Food%20And%20Drink.md)\\|-<br>**Stackable:** No<br>**Examine:** Cooked flesh from a Cougar.<br>**Values**<br>**Calories:** 800 kcal<br>**Hydration:** -5%<br>**[Vitamin C](./Scurvy.md):** 0<br>**Weight:** 1.00 kg (2.2 lbs)<br>**Decay Rate**<br>**Inside:** 1.00% per day<br>**Outside:** 0.10% per day<br>**Advanced data**<br>**Item key:** GAMEPLAY\_CookedMeatCougar<br>_For the raw version, see [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)._<br>**Cougar Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. It is obtained after cooking [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) at a fire.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Cougar Meat (Cooked)**
+
+![Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png)
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
+
+**Stackable:** No
+
+**Examine:** Cooked flesh from a Cougar.
+
+**Values**
+
+**Calories:** 800 kcal
+
+**Hydration:** -5%
+
+**[Vitamin C](./Scurvy.md):** 0
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Decay Rate**
+
+**Inside:** 1.00% per day
+
+**Outside:** 0.10% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_CookedMeatCougar
+
+_For the raw version, see [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)._
+
+**Cougar Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. It is obtained after cooking [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) at a fire.
 
 ## Recipe
 

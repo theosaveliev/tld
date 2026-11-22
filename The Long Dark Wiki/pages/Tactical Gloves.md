@@ -30,9 +30,17 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>> “**Reinforced gloves in the tactical style. Highly-protective, at the cost of warmth.**”<br>><br>> — In-game description<br>**Tactical Gloves** are unique [Clothing](./Clothing.md) found only during the [Last Horizon](./Last%20Horizon.md) Tale in [Sundered Pass](./Sundered%20Pass.md). It is found in the [Last Lonely House](./Last%20Lonely%20House.md), under the bed in the locked bedroom (unlocked with [An Old House Key](./An%20Old%20House%20Key.md)). They originally belonged to [The Foreman](./The%20Foreman.md).
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+> “**Reinforced gloves in the tactical style. Highly-protective, at the cost of warmth.**”
+>
+> — In-game description
+
+**Tactical Gloves** are unique [Clothing](./Clothing.md) found only during the [Last Horizon](./Last%20Horizon.md) Tale in [Sundered Pass](./Sundered%20Pass.md). It is found in the [Last Lonely House](./Last%20Lonely%20House.md), under the bed in the locked bedroom (unlocked with [An Old House Key](./An%20Old%20House%20Key.md)). They originally belonged to [The Foreman](./The%20Foreman.md).
 
 ## Overview
 

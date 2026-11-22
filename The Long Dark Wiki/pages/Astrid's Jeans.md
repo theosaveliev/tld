@@ -30,9 +30,17 @@
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**
 
-<br>> “**Simple jeans. Not fit for winter survival, but better than nothing.**”<br>><br>> — In-game description<br>**Astrid's Jeans** are a [Clothing](./Clothing.md) item worn on the player's legs obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
+This content only appears in [Wintermute](./Wintermute.md).
+
+
+
+> “**Simple jeans. Not fit for winter survival, but better than nothing.**”
+>
+> — In-game description
+
+**Astrid's Jeans** are a [Clothing](./Clothing.md) item worn on the player's legs obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Overview
 

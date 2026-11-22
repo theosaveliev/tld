@@ -4,23 +4,37 @@
 
 **Backpack**
 
-![Green](../assets/Backpack_Green.jpg)<br>![Forest Talker](../assets/Forest_Talker_Supplies_icon.png)
+\[\[File:
+
+![Green](../assets/Backpack_Green.jpg)
+
+![Forest Talker](../assets/Forest_Talker_Supplies_icon.png)
 
 250px\]\]
 
-**Release:** TBD
+Release
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+TBD
 
-**Story item:** No
+Update
+
+[0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+
+Story item
+
+No
 
 **Container**
 
-**Capacity:** 15.00 kg(33 lbs)
+Capacity
+
+15.00 kg(33 lbs)
 
 **Advanced data**
 
-**Object key:** GAMEPLAY\_BackPack
+Object key
+
+GAMEPLAY\_BackPack
 
 A **Backpack** is a stationary interactable object in [The Long Dark](./The%20Long%20Dark.md). It is most often found indoors or outdoors near a [Frozen Corpse](./Frozen%20Corpse.md) and comes in the colors green or [Forest Talkers](./Forest%20Talkers.md) brown. They are not to be confused with the [Technical Backpack](./Technical%20Backpack.md).
 

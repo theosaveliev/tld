@@ -1,6 +1,6 @@
 # Computer
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
 
 ![A computer during the aurora](../assets/Maxresdefault.png)_A computer during the aurora_ **Computers** are stationary objects in The Long Dark. Un-interactable under normal circumstances, but during an [Aurora](./Aurora.md) their display will sometimes illuminate to show the contents of a recently closed log/diary, as a nod to the civilization on Great Bear before the lights.
 

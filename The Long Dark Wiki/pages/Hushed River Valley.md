@@ -27,6 +27,8 @@
 
 **Hushed River Valley**
 
+\[\[File:
+
 ![Hushed River Valley title card](../assets/Hushed_River_Valley_title_card.png)
 
 250px\]\]
@@ -39,21 +41,37 @@
 
 **Details**
 
-**Description:** A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls.
+Description
 
-**Connecting Regions:** [Mountain Town](./Mountain%20Town.md)
+A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls.
 
-**Characters:** None
+Connecting Regions
 
-**Difficulty:** Advanced
+[Mountain Town](./Mountain%20Town.md)
 
-**Interloper Region Spawn:** Yes
+Characters
 
-**Locations:** 25
+None
 
-**Hazards and Survivability:** Lots of wind with limited shelter from weather and wildlife.
+Difficulty
 
-**Date Added:** 14 June 2018
+Advanced
+
+Interloper Region Spawn
+
+Yes
+
+Locations
+
+25
+
+Hazards and Survivability
+
+Lots of wind with limited shelter from weather and wildlife.
+
+Date Added
+
+14 June 2018
 
 > “**For advanced players. A remote, wind-blown valley known for its sheer cliffs, dense forests, and steep, winding paths. Although devoid of human settlements, it has long been a destination for the area's toughest mountaineers, and may still have a few secrets to reveal.**”
 >

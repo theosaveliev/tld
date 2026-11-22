@@ -4,9 +4,21 @@
 
 ![Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**Fulmar Autopilot Boat**<br>![Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png)<br>**Location**<br>**Region:** [Desolation Point](./Desolation%20Point.md)\\|-<br>Has no shelter\ The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
+This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**Fulmar Autopilot Boat**
+
+![Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png)
+
+**Location**
+
+**Region:** [Desolation Point](./Desolation%20Point.md)
+
+Has no shelter The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

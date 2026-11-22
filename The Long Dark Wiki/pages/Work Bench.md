@@ -12,23 +12,39 @@
 
 **Work Bench**
 
-![Metal](../assets/Work_bench.png)<br>![Craftable](../assets/Workbench_icon.png)<br>![Wood](../assets/Workbench_icon_Old.png)
+\[\[File:
+
+![Metal](../assets/Work_bench.png)
+
+![Craftable](../assets/Workbench_icon.png)
+
+![Wood](../assets/Workbench_icon_Old.png)
 
 250px\]\]
 
 **General**
 
-**Item Type:** Item
+Item Type
+
+Item
 
 Wintermute
 
-Yes
+Yes|-
 
 **Statistics**
 
-**Weight:** ![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
+Weight
 
-**Harvest:** Metal 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) 10 x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 4 hours<br>Wood 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) 8 x ![Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) 3 hours<br>Craftable 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) 10 x ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 1.45 hours
+![Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
+
+Harvest
+
+Metal 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) 10 x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 4 hours
+
+Wood 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) 8 x ![Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) 3 hours
+
+Craftable 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) 10 x ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 1.45 hours
 
 A **Work Bench** is an Interactable Object used for [Crafting](./Crafting.md) new items, and is found across many locations in [_The Long Dark_](./The%20Long%20Dark.md).
 

@@ -4,7 +4,11 @@
 
 **Community Hall**
 
-![Exterior](../assets/Community_hall_exterior_square.jpg)<br>![Interior](../assets/Community_hall_interior.jpg)
+\[\[File:
+
+![Exterior](../assets/Community_hall_exterior_square.jpg)
+
+![Interior](../assets/Community_hall_interior.jpg)
 
 250px\]\]
 
@@ -14,17 +18,19 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)
+[Pleasant Valley](./Pleasant%20Valley.md)|-
 
 **General**
 
 Type
 
-Residential
+Residential|-
 
 Firebox
 
-Has an interior<br>**Community Hall** is a building at [Thomson's Crossing](./Thomson%27s%20Crossing.md) within [Pleasant Valley](./Pleasant%20Valley.md). It is a major location within [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md).
+Has an interior
+
+**Community Hall** is a building at [Thomson's Crossing](./Thomson%27s%20Crossing.md) within [Pleasant Valley](./Pleasant%20Valley.md). It is a major location within [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md).
 
 ## Overview
 

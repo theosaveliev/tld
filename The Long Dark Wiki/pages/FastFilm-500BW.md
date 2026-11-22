@@ -4,9 +4,37 @@
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**
 
-<br>**FastFilm-500BW**<br>![FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png)<br>**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)<br>**Renewable:** Yes ([Trader](./Trader.md) only)<br>**Properties**<br>**Examine:** A box of Black and White Instant Film<br>**Values**<br>**Weight:** 0.10 kg (0.22 lbs)<br>**Actions**<br>**Backpack:** Examine, Drop, Pick up<br>**Advanced data**<br>**Item key:** GEAR\_FilmBoxBw<br>**FastFilm-500BW** is a tool used with the [Camera](./Camera.md) to take photos.
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+
+
+**FastFilm-500BW**
+
+![FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png)
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Renewable:** Yes ([Trader](./Trader.md) only)
+
+**Properties**
+
+**Examine:** A box of Black and White Instant Film
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Actions**
+
+**Backpack:** Examine, Drop, Pick up
+
+**Advanced data**
+
+**Item key:** GEAR\_FilmBoxBw
+
+**FastFilm-500BW** is a tool used with the [Camera](./Camera.md) to take photos.
 
 ## Overview
 

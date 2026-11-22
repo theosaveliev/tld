@@ -4,11 +4,19 @@
 
 **Keypad**
 
-![Locked](../assets/Keypad_Powered_Locked.jpg)<br>![Unlocked](../assets/Keypad_Powered_Unlocked.jpg)<br>![Unpowered](../assets/Keypad_Unpowered.jpg)
+\[\[File:
+
+![Locked](../assets/Keypad_Powered_Locked.jpg)
+
+![Unlocked](../assets/Keypad_Powered_Unlocked.jpg)
+
+![Unpowered](../assets/Keypad_Unpowered.jpg)
 
 250px\]\]
 
-**Story item:** Yes
+Story item
+
+Yes
 
 A **Keypad** is a small electronic panel with numbers on it used to open certain electronically locked doors, but are unpowered during the day.
 

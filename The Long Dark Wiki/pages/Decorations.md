@@ -57,15 +57,109 @@ These Decorations can be [Crafted](./Crafting.md) with the aid of [Woodworking T
 
 Once crafted, the following Decorations crafted at a Furniture Workbench will be placed in a container in that Workbench (they can be placed your Safehouse by opening the Furniture Workbench and selecting them). They cannot be placed in the player's inventory despite having a weight class, and furniture with containers cannot be broken down to regain some of their resources once placed in the Safehouse.
 
+Recipe
+
+Materials
+
+Time
+
+Weight
+
+Crafted
+
+![Bear Hide Bed icon](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md)
+
+18x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured Gut icon](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+1x ![Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
+
+16x ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+24 Hours
+
+10.00 kg  
+ _(22 lb)_
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Coffee Table icon](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md)
+
+6x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+4 Hours
+
+5.00 kg  
+ _(11 lb)_
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic End Table icon](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md)
+
+6x ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+6 Hours
+
+20.00 kg  
+ _(44 lb)_
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Round Table icon](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md)
+
+12x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+9 Hours
+
+5.00 kg  
+ _(11 lb)_
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic Table icon](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md)
+
+10x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+8 Hours
+
+8.00 kg  
+ _(17.6 lb)_
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Square Table icon](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md)
+
+8x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+7 Hours
+
+5.00 kg  
+ _(11 lb)_
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+\[Missing image: \[\[File:Rustic\_Chair\_icon.png\] [Rustic Chair](./Rustic%20Chair.md)
+
+`icon.png|link=`![Rustic Chair icon](../assets/Rustic_Chair_icon.png)[`Rustic Chair`](./Rustic%20Chair.md)
+
+29x29px\]\] link=Rustic Chair|29x29px [Rustic Chair](./Rustic%20Chair.md)
+
+![Rustic Chair icon](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) \]\]
+
+The following Decorations are automatically placed into the player's inventory once crafted.
+
 | Recipe | Materials | Time | Weight | Crafted |
 | --- | --- | --- | --- | --- |
-| ![Bear Hide Bed icon](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | 18x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured Gut icon](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)<br>1x ![Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>16x ![Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 24 Hours | 10.00 kg<br>_(22 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Coffee Table icon](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md) | 6x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | 5.00 kg<br>_(11 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic End Table icon](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md) | 6x ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 6 Hours | 20.00 kg<br>_(44 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Round Table icon](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md) | 12x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 9 Hours | 5.00 kg<br>_(11 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic Table icon](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md) | 10x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 8 Hours | 8.00 kg<br>_(17.6 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Square Table icon](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md) | 8x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 7 Hours | 5.00 kg<br>_(11 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
-| \[Missing image: Rustic\_Chair\_icon.png\] [Rustic Chair](./Rustic%20Chair.md)<br>`icon.png\|link=`![Rustic Chair icon](../assets/Rustic_Chair_icon.png)[`Rustic Chair`](./Rustic%20Chair.md) | 29x29px\]\] link=Rustic Chair\|29x29px [Rustic Chair](./Rustic%20Chair.md) | ![Rustic Chair icon](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) \]\]<br>The following Decorations are automatically placed into the player's inventory once crafted.<br>\| Recipe \| Materials \| Time \| Weight \| Crafted \|<br>\| --- \| --- \| --- \| --- \| --- \|<br>\| ![Framed Hockey Jersey icon](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) \| 2x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Hockey Jersey icon](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md) \| 4 Hours \| 2.00 kg<br>_(4.4 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Framed Photo icon](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera icon](../assets/Camera_icon.png) [Camera](./Camera.md) Photo \| 2 Hours \| 0.25 kg<br>_(0.55 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Burbot icon](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot (Raw) icon](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Coho Salmon icon](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho Salmon (Raw) icon](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) \| 4 Hours \| 1.00 kg<br>_(2.2 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Goldeye icon](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye (Raw) icon](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Lake Whitefish icon](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake Whitefish (Raw) icon](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Rainbow Trout icon](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow Trout (Raw) icon](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Red Irish Lord icon](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red Irish Lord (Raw) icon](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Rockfish icon](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Mounted Smallmouth Bass icon](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) \| 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) \| 4 Hours \| 0.50 kg<br>_(1.1 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \|<br>\| ![Rustic Stool icon](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) \| 4x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) \| 2 Hours \| 2.00 kg<br>_(4.4 lb)_ \| [Furniture Workbench](./Furniture%20Workbench.md) \| |  |  |
+| ![Framed Hockey Jersey icon](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | 2x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)<br>1x ![Hockey Jersey icon](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md) | 4 Hours | 2.00 kg<br>_(4.4 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Framed Photo icon](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera icon](../assets/Camera_icon.png) [Camera](./Camera.md) Photo | 2 Hours | 0.25 kg<br>_(0.55 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Burbot icon](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot (Raw) icon](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Coho Salmon icon](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho Salmon (Raw) icon](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 4 Hours | 1.00 kg<br>_(2.2 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Goldeye icon](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye (Raw) icon](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Lake Whitefish icon](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake Whitefish (Raw) icon](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Rainbow Trout icon](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow Trout (Raw) icon](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Red Irish Lord icon](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red Irish Lord (Raw) icon](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Rockfish icon](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted Smallmouth Bass icon](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic Stool icon](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | 2.00 kg<br>_(4.4 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 
 ## Lootable Decorations
 

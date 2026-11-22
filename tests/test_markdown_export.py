@@ -1595,6 +1595,10 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
 def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
     assert not markdown_export_module.HTML_TAG_RE.search("<https://example.com>")
     assert markdown_export_module.HTML_TAG_RE.search("<mw:widget>visible</mw:widget>")
+    assert not markdown_export_module._contains_html_markup(
+        '<span id="version-1-00"></span>'
+    )
+    assert markdown_export_module._contains_html_markup("<span>visible</span>")
 
 
 def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
@@ -1621,7 +1625,7 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
 
     markdown_export_module._add_mediawiki_heading_ids(root)
     markdown = _html_fragment_to_markdown(
-        etree.tostring(root, encoding="unicode", method="html")
+        markdown_export_module.etree.tostring(root, encoding="unicode", method="html")
     )
 
     assert '<span id="0.233"></span>' in markdown

@@ -920,6 +920,12 @@ def test_multi_column_list_table_omits_redundant_image_filename_caption() -> Non
 <td>Canned Corn</td>
 <td><ul><li>Food item</li><li>Trader inventory</li></ul></td>
 </tr>
+<tr>
+<td><img src="../assets/Water_%28Potable%29_icon.png" alt="Water_(Potable)_icon.png" /> /
+<em>Water_(Potable)_icon.png</em></td>
+<td>Water (Potable)</td>
+<td>Ingredient</td>
+</tr>
 </tbody></table>"""
 
     markdown = _html_fragment_to_markdown(fragment)
@@ -928,6 +934,8 @@ def test_multi_column_list_table_omits_redundant_image_filename_caption() -> Non
     assert " / _Canned\\_Corn\\_icon.png_" not in markdown
     assert "![Canned\\_Corn\\_icon.png]" not in markdown
     assert "| Canned Corn |" in markdown
+    assert "![](../assets/Water_%28Potable%29_icon.png)" in markdown
+    assert "![Water\\_(Potable)\\_icon.png]" not in markdown
 
 
 def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None:

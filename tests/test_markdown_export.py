@@ -34,6 +34,7 @@ from pipeline.markdown_export import (
     _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
+    _write_workspace_index,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
     normalize_title,
@@ -2072,6 +2073,32 @@ def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() 
 
     assert repaired == source
     assert count == 0
+
+
+def test_write_workspace_index_preserves_taxonomy_and_writes_separate_page_list(
+    tmp_path: Path,
+) -> None:
+    taxonomy = "# The Long Dark Taxonomy\n\n## Locations\n\n- Great Bear Island\n"
+    index_path = tmp_path / "index.md"
+    index_path.write_text(taxonomy, encoding="utf-8")
+    page_result = {
+        "title": "Bear",
+        "filename": "Bear.md",
+        "status": "ok",
+        "categories": 0,
+        "infoboxes": 0,
+        "infoboxes_unconverted": 0,
+        "missing_templates": [],
+        "error": "",
+    }
+
+    _write_workspace_index([page_result], tmp_path)
+
+    assert index_path.read_text(encoding="utf-8") == taxonomy
+    page_list = (tmp_path / "Pages.md").read_text(encoding="utf-8")
+    assert "# All Pages" in page_list
+    assert "[Bear](pages/Bear.md)" in page_list
+    assert not (tmp_path / "Index.md").exists()
 
 
 def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(

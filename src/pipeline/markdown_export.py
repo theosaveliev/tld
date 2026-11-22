@@ -4072,14 +4072,14 @@ def _export_one_page(
 def _write_workspace_index(
     page_results: list[PageExportResult], output_dir: Path
 ) -> None:
-    """Write the Zettlr workspace root index."""
-    index_lines = ["# The Long Dark Wiki", "", f"Articles: {len(page_results)}", ""]
+    """Write an alphabetical page list without overwriting the taxonomy index."""
+    index_lines = ["# All Pages", "", f"Articles: {len(page_results)}", ""]
     for result in sorted(page_results, key=lambda item: item["title"].casefold()):
         title = result["title"]
         filename = result["filename"]
         link = "pages/" + _safe_destination(filename)
         index_lines.append(f"- [{_markdown_label(title)}]({link})")
-    (output_dir / "Index.md").write_text(
+    (output_dir / "Pages.md").write_text(
         "\n".join(index_lines) + "\n", encoding="utf-8"
     )
 

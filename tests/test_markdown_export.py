@@ -2144,11 +2144,14 @@ def test_headerless_table_gets_stable_column_labels() -> None:
 
 def test_grouped_table_headers_merge_plain_text_subheaders() -> None:
     fragment = """<table><tbody>
-<tr><th>Weapon</th><th>Weapon</th><th>Critical Hit Chance</th><th>Critical Hit Chance</th></tr>
+<tr><th>Weapon</th><th>Weapon</th>
+<th>Critical Hit Chance</th><th>Critical Hit Chance</th></tr>
 <tr><td>Head</td><td>Neck</td><td>Torso</td><td>Hips</td></tr>
 <tr><td>Rifle</td><td>15%</td><td>5%</td><td>3%</td></tr>
 </tbody></table>"""
     markdown = _html_fragment_to_markdown(fragment)
     assert "| Weapon — Head | Weapon — Neck |" in markdown
-    assert "| Critical Hit Chance — Torso | Critical Hit Chance — Hips |" in markdown
+    assert (
+        "| Critical Hit Chance — Torso | Critical Hit Chance — Hips |" in markdown
+    )
     assert "| Rifle | 15% | 5% | 3% |" in markdown

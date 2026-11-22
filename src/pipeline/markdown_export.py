@@ -1936,9 +1936,8 @@ def _remove_redundant_image_filename_captions(value: str) -> str:
     """Drop captions that repeat an image's alt label or source filename."""
 
     def replace(match: re.Match[str]) -> str:
-        unescape = lambda text: re.sub(r"\\(.)", r"\1", text)
-        caption = unescape(match.group("caption")).strip()
-        label = unescape(match.group("label")).strip()
+        caption = re.sub(r"\\(.)", r"\1", match.group("caption")).strip()
+        label = re.sub(r"\\(.)", r"\1", match.group("label")).strip()
         destination = urllib.parse.unquote(
             urllib.parse.urlsplit(match.group("destination")).path
         )

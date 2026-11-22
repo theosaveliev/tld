@@ -25,6 +25,7 @@ from pipeline.markdown_export import (
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
+    _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
@@ -1158,6 +1159,33 @@ def test_html_wrapper_table_renders_nested_table_without_flattening() -> None:
     assert "Before the nested table. /" not in markdown
 
 
+def test_multi_column_layout_wrapper_renders_nested_tables_separately() -> None:
+    fragment = """<table><tbody><tr>
+<td><img src="../assets/Seal_icon.png" alt="Seal icon" /></td>
+<td><p><strong>DLC-Exclusive content.</strong></p>
+<p>This content requires the Iron Road addon.</p></td>
+<td>
+<p><strong>Anna Island -- Track Section 1</strong></p>
+<table><tbody>
+<tr><th>Location</th><th>Connection</th></tr>
+<tr><td>Huts</td><td>Port Remnant</td></tr>
+</tbody></table>
+<h2>Overview</h2><p>The region follows the coastline.</p>
+</td>
+</tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "DLC-Exclusive content." in markdown
+    assert "Anna Island -- Track Section 1" in markdown
+    assert "| Location | Connection |" in markdown
+    assert "| Huts | Port Remnant |" in markdown
+    assert "## Overview" in markdown
+    assert "The region follows the coastline." in markdown
+    assert r"\| Location" not in markdown
+    assert "| Column 1 | Column 2 | Column 3 |" not in markdown
+
+
 def test_page_markdown_removes_repeated_image_captions_outside_tables() -> None:
     fence = chr(96) * 3
     body = (
@@ -1384,6 +1412,27 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     assert "[Section One](#section-one)" in markdown
     assert r"[\[1\]](#cite_note-1)" in markdown
     assert "## Section One" in markdown
+
+
+def test_sanitize_expanded_wikitext_removes_internal_attributes_and_orphan_refs() -> None:
+    source = """{| class="wikitable" style="text-align:center" __uv-attr-style="text-align:center"
+|-
+| A value
+|-
+| <ref name="supported">A supported reference</ref>
+|-
+| A dangling close</ref>
+|}"""
+
+    sanitized = _sanitize_expanded_wikitext(source)
+
+    assert "__uv-attr-" not in sanitized
+    assert 'style="text-align:center"' in sanitized
+    assert '<ref name="supported">A supported reference</ref>' in sanitized
+    assert "A dangling close" in sanitized
+    assert "A dangling close</ref>" not in sanitized
+    assert "{|" in sanitized
+    assert "|}" in sanitized
 
 
 def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:

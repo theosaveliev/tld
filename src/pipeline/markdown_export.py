@@ -1135,7 +1135,7 @@ def _normalize_markdown_emphasis(value: str) -> str:
             if index % 2:
                 output.append(part)
             else:
-                separated_strong = re.sub(r"(?<!\\)\\*{4}(?!\\*)", "** **", part)
+                separated_strong = re.sub(r"(?<!\\)\*{4}(?!\*)", "** **", part)
                 strong = STRONG_UNDERSCORE_RE.sub(
                     lambda item: f"**{item.group('content')}**", separated_strong
                 )

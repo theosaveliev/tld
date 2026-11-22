@@ -146,12 +146,22 @@ def test_image_lookup_uses_exact_icon_variant_only(tmp_path: Path) -> None:
     image_dir.mkdir()
     icon = image_dir / "Sure_Footing_icon.png"
     icon.write_bytes(b"icon")
-    image_index = {normalize_image_name(icon.name): icon}
+    trailer = image_dir / "Wintermute_trailer.jpg"
+    trailer.write_bytes(b"trailer")
+    image_index = {
+        normalize_image_name(icon.name): icon,
+        normalize_image_name(trailer.name): trailer,
+    }
 
     assert _find_image_source("Sure_Footing.png", image_index) == icon
+    assert _find_image_source("Wintermute_trailer", image_index) == trailer
     assert _find_image_source("Sure_Footing_old.png", image_index) is None
 
-
+    ambiguous_trailers = {
+        normalize_image_name(trailer.name): trailer,
+        "wintermute_trailer.png": image_dir / "Wintermute_trailer.png",
+    }
+    assert _find_image_source("Wintermute_trailer", ambiguous_trailers) is None
 def test_image_index_uses_mismatch_directory_as_fallback(tmp_path: Path) -> None:
     image_dir = tmp_path / "images"
     mismatch_dir = tmp_path / "images_mismatch"

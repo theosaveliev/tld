@@ -16,6 +16,7 @@ from pipeline.markdown_export import (
     WikiContext,
     _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
+    audit_markdown_workspace,
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
     _contains_html_markup,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
@@ -1377,10 +1378,10 @@ def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
     assert "| Image | Item | Details |" in markdown
     expected = (
         "| [Badge icon](../assets/Badge_icon.png) | Badge | "
-        "- First detail<br>- Second detail |"
+        "- First detail; - Second detail |"
     )
     assert expected in markdown
-    assert " / - First detail / - Second detail" not in markdown
+    assert "<br>" not in markdown
 
 
 def test_multi_column_table_with_long_lists_keeps_list_line_breaks() -> None:
@@ -1396,9 +1397,9 @@ def test_multi_column_table_with_long_lists_keeps_list_line_breaks() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "| Region | Locations |" in markdown
-    assert "| Sample Region | - Location 1<br>- Location 2" in markdown
+    assert "| Sample Region | - Location 1; - Location 2" in markdown
     assert "- Location 9 |" in markdown
-    assert " / - Location 1" not in markdown
+    assert "<br>" not in markdown
 
 
 def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None:
@@ -1412,7 +1413,8 @@ def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None
     assert not failed
     assert not note
     assert "| Weather | Effects |" in markdown
-    assert "| Clear | - Warm.<br>- High visibility. |" in markdown
+    assert "| Clear | - Warm.; - High visibility. |" in markdown
+    assert "<br>" not in markdown
 
 
 def test_page_markdown_removes_additional_leaked_template_labels() -> None:
@@ -1556,6 +1558,30 @@ def test_page_markdown_removes_leaked_template_and_wikitext_artifacts() -> None:
     assert "## Gallery" not in markdown
     assert "- [Gallery](#gallery)" not in markdown
     assert "![Box](../assets/Box.png)" in markdown
+
+
+def test_page_markdown_removes_empty_multiline_file_markup() -> None:
+    body = (
+        "The trail continues below.\n\n"
+        "[[File:\n250px\\]\\]\n\n"
+        "Keep reading after the image placeholder."
+    )
+
+    markdown = _page_markdown("Hushed River Valley", [], body, None)
+
+    assert "The trail continues below." in markdown
+    assert "Keep reading after the image placeholder." in markdown
+    assert "File:" not in markdown
+    assert "250px" not in markdown
+
+
+def test_page_markdown_preserves_file_markup_inside_fenced_code() -> None:
+    body = "\`\`\`text\n[[File:\n250px\\]\\]\n\`\`\`"
+
+    markdown = _page_markdown("Markup Example", [], body, None)
+
+    assert "[[File:" in markdown
+    assert "250px\\]\\]" in markdown
 
 
 def test_adjacent_strong_elements_keep_a_word_boundary() -> None:
@@ -1833,6 +1859,39 @@ def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
     assert markdown_export_module.HTML_TAG_RE.search("<mw:widget>visible</mw:widget>")
     assert not _contains_html_markup('<span id="version-1-00"></span>')
     assert _contains_html_markup("<span>visible</span>")
+
+
+def test_audit_markdown_workspace_scans_all_pages_and_ignores_code() -> None:
+    workspace = tmp_path / "workspace"
+    pages = workspace / "pages"
+    pages.mkdir(parents=True)
+    (pages / "Clean.md").write_text("# Clean page\n", encoding="utf-8")
+    (pages / "Hushed River Valley.md").write_text(
+        "# Hushed River Valley\n\n[[File:\n250px\\]\\]\n",
+        encoding="utf-8",
+    )
+    (pages / "Tagged.md").write_text(
+        "# Tagged\n<span>leftover</span>\n",
+        encoding="utf-8",
+    )
+    (pages / "Literal code.md").write_text(
+        "\`\`\`html\n<span>literal example</span>\n[[File: example]]\n\`\`\`\n",
+        encoding="utf-8",
+    )
+
+    audit = audit_markdown_workspace(workspace)
+
+    assert audit["files_scanned"] == 4
+    assert audit["files_with_issues"] == 2
+    assert {issue["file"] for issue in audit["issues"]} == {
+        "pages/Hushed River Valley.md",
+        "pages/Tagged.md",
+    }
+    assert {issue["kind"] for issue in audit["issues"]} == {
+        "HTML tag",
+        "MediaWiki file markup",
+    }
+    assert (workspace / "markup-audit.json").is_file()
 
 
 def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
@@ -2571,7 +2630,8 @@ def test_headerless_table_gets_stable_column_labels() -> None:
 </tbody></table>"""
     markdown = _html_fragment_to_markdown(fragment)
     assert markdown.startswith("| Column 1 | Column 2 |")
-    assert "| - East<br>- West | North |" in markdown
+    assert "| - East; - West | North |" in markdown
+    assert "<br>" not in markdown
 
 
 def test_grouped_table_headers_merge_plain_text_subheaders() -> None:

@@ -939,6 +939,23 @@ Water_(Potable)_icon.png</em></td>
     assert "![Water\\_(Potable)\\_icon.png]" not in markdown
 
 
+def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
+    fragment = """<table><tbody>
+<tr><th>Image</th><th>Item</th><th>Details</th></tr>
+<tr>
+<td><img src="../assets/Badge_icon.png" alt="Badge_icon.png" /></td>
+<td>Badge</td>
+<td><ul><li>First detail</li><li>Second detail</li></ul></td>
+</tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "| Image | Item | Details |" in markdown
+    assert "| ![](../assets/Badge_icon.png) | Badge | - First detail<br>- Second detail |" in markdown
+    assert " / - First detail / - Second detail" not in markdown
+
+
 def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None:
     fragment = """<table><tbody>
 <tr><th>Weather</th><th>Effects</th></tr>

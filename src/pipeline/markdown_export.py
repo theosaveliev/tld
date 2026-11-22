@@ -1104,63 +1104,89 @@ def _append_wikitext_quote(
         output.append(trailing_text.strip())
 
 
+def _advance_quote_code_fence(
+    line: str, fence: tuple[str, int] | None
+) -> tuple[bool, tuple[str, int] | None]:
+    """Track code fences while quote-table normalization scans Markdown."""
+    match = FENCED_CODE_RE.match(line)
+    if match is None:
+        return fence is not None, fence
+
+    marker = match.group(1)
+    if fence is None:
+        return True, (marker[0], len(marker))
+    if marker[0] == fence[0] and len(marker) >= fence[1]:
+        return True, None
+    return True, fence
+
+
+def _begin_wikitext_quote(
+    line: str, output: list[str]
+) -> list[str] | None:
+    """Start converting a quote2 wrapper, returning pending quote lines."""
+    opening = _quote_table_opening(line)
+    if opening is None:
+        return None
+
+    prefix = re.sub(
+        r"\*{1,2}\s*Template:quote2\s*\*{1,2}",
+        "",
+        line[: opening.start()],
+        flags=re.IGNORECASE,
+    )
+    if prefix.strip():
+        output.append(prefix.strip())
+
+    closing = _quote_table_closing(opening.group(1))
+    if closing is None:
+        return [opening.group(1)]
+
+    _append_wikitext_quote(
+        output,
+        [opening.group(1)[: closing.start()]],
+        closing.group(1),
+    )
+    return []
+
+
+def _continue_wikitext_quote(
+    line: str, quote_lines: list[str], output: list[str]
+) -> bool:
+    """Append a quote line or finish the wrapper when its closing row appears."""
+    closing = _quote_table_closing(line)
+    if closing is None:
+        quote_lines.append(line)
+        return False
+
+    before_closing = line[: closing.start()].strip()
+    if before_closing:
+        quote_lines.append(before_closing)
+    _append_wikitext_quote(output, quote_lines, closing.group(1))
+    return True
+
+
 def _normalize_leaked_wikitext_quotes(value: str) -> str:
     """Convert leaked quote2 table wrappers to ordinary Markdown blockquotes."""
-    lines = value.splitlines()
     output: list[str] = []
     quote_lines: list[str] = []
     fence: tuple[str, int] | None = None
 
-    for line in lines:
-        if not quote_lines:
-            fence_match = FENCED_CODE_RE.match(line)
-            if fence_match is not None:
-                marker = fence_match.group(1)
-                if fence is None:
-                    fence = (marker[0], len(marker))
-                elif marker[0] == fence[0] and len(marker) >= fence[1]:
-                    fence = None
-                output.append(line)
-                continue
-            if fence is not None:
-                output.append(line)
-                continue
-
-            opening = _quote_table_opening(line)
-            if opening is None:
-                output.append(line)
-                continue
-
-            prefix = re.sub(
-                r"\*{1,2}\s*Template:quote2\s*\*{1,2}",
-                "",
-                line[: opening.start()],
-                flags=re.IGNORECASE,
-            )
-            if prefix.strip():
-                output.append(prefix.strip())
-
-            closing = _quote_table_closing(opening.group(1))
-            if closing is None:
-                quote_lines = [opening.group(1)]
-            else:
-                _append_wikitext_quote(
-                    output,
-                    [opening.group(1)[: closing.start()]],
-                    closing.group(1),
-                )
+    for line in value.splitlines():
+        in_fence, fence = _advance_quote_code_fence(line, fence)
+        if in_fence:
+            output.append(line)
             continue
 
-        closing = _quote_table_closing(line)
-        if closing is None:
-            quote_lines.append(line)
+        if quote_lines:
+            if _continue_wikitext_quote(line, quote_lines, output):
+                quote_lines = []
             continue
 
-        before_closing = line[: closing.start()].strip()
-        if before_closing:
-            quote_lines.append(before_closing)
-        _append_wikitext_quote(output, quote_lines, closing.group(1))
-        quote_lines = []
+        started_quote = _begin_wikitext_quote(line, output)
+        if started_quote is None:
+            output.append(line)
+        else:
+            quote_lines = started_quote
 
     if quote_lines:
         return value
@@ -2291,6 +2317,24 @@ def _render_single_cell_wrapper_table(
     return content
 
 
+def _render_other_html_table(
+    rows: list[list[lhtml.HtmlElement]],
+    table_classes: list[str],
+    has_images: bool,
+    caption: str,
+) -> str:
+    """Render image, quote, infobox, and generic tables."""
+    if has_images:
+        return _render_image_layout_table(rows)
+    if len(rows) == 1:
+        quote = _render_quote_table(rows[0])
+        if quote is not None:
+            return f"**{caption}**\n\n{quote}" if caption else quote
+    if "infobox" in table_classes:
+        return _render_infobox_table(rows)
+    return _render_generic_table(rows)
+
+
 def _render_html_table(node: lhtml.HtmlElement) -> str:
     """Convert infoboxes, galleries, and data tables to Markdown."""
     rows = _table_rows(node)
@@ -2298,6 +2342,7 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
     if not rows:
         return f"**{caption}**" if caption else ""
+
     wrapper_content = _render_single_cell_wrapper_table(rows, caption)
     if wrapper_content is not None:
         return wrapper_content
@@ -2317,17 +2362,8 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_recipe_infobox_table(rows)
     elif _table_has_list_content(rows):
         table = _render_list_content_table(rows)
-    elif has_images:
-        table = _render_image_layout_table(rows)
     else:
-        if len(rows) == 1:
-            quote = _render_quote_table(rows[0])
-            if quote is not None:
-                return f"**{caption}**\n\n{quote}" if caption else quote
-        if "infobox" in table_classes:
-            table = _render_infobox_table(rows)
-        else:
-            table = _render_generic_table(rows)
+        table = _render_other_html_table(rows, table_classes, has_images, caption)
     return f"**{caption}**\n\n{table}" if caption else table
 
 

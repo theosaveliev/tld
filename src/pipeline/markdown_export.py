@@ -56,6 +56,13 @@ REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
     r"_(?P<caption>(?:\\+_|[^_])*)_",
     re.IGNORECASE,
 )
+WIKITEXTPROCESSOR_ATTRIBUTE_RE = re.compile(
+    r"\s+__uv-attr-[A-Za-z0-9_-]+\s*=\s*(?:\"[^\"]*\"|'[^']*'|[^\s|]+)",
+    re.IGNORECASE,
+)
+WIKITEXT_REFERENCE_TAG_RE = re.compile(
+    r"<(?P<closing>/)?ref\b(?P<attributes>[^>]*)>", re.IGNORECASE
+)
 LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
     r"(?:\\)?\[(?:\\)?\[File:\s*(?:/\s*)?", re.IGNORECASE
 )
@@ -599,6 +606,30 @@ def _strip_wikitext_literal_content(
 
     closing_end = opening.end() + closing.end()
     return visible[: opening.start()] + visible[closing_end:], None
+
+
+def _strip_orphan_wikitext_ref_closers(value: str) -> str:
+    """Remove reference closing tags that have no matching opening tag."""
+    depth = 0
+    output: list[str] = []
+    cursor = 0
+    for match in WIKITEXT_REFERENCE_TAG_RE.finditer(value):
+        if match.group("closing"):
+            if depth:
+                depth -= 1
+            else:
+                output.append(value[cursor : match.start()])
+                cursor = match.end()
+        elif not match.group("attributes").rstrip().endswith("/"):
+            depth += 1
+    output.append(value[cursor:])
+    return "".join(output)
+
+
+def _sanitize_expanded_wikitext(value: str) -> str:
+    """Remove parser-internal metadata and unmatched tags before Pandoc."""
+    cleaned = WIKITEXTPROCESSOR_ATTRIBUTE_RE.sub("", value)
+    return _strip_orphan_wikitext_ref_closers(cleaned)
 
 
 def _is_wikitext_section_heading(value: str) -> bool:
@@ -1548,6 +1579,7 @@ def _render_mediawiki_html(
 ) -> tuple[str, str, str]:
     """Render expanded wikitext and restore generated tables after Pandoc."""
     conversion_stage = "Pandoc MediaWiki-to-HTML"
+    expanded = _sanitize_expanded_wikitext(expanded)
     try:
         html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
     except Exception as initial_error:
@@ -2543,6 +2575,31 @@ def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     return "\n\n".join(items)
 
 
+def _render_nested_table_wrapper(
+    rows: list[list[lhtml.HtmlElement]], caption: str
+) -> str | None:
+    """Render a layout wrapper as blocks when cells contain nested tables."""
+    has_nested_table = any(
+        _html_tag(child) == "table"
+        for row in rows
+        for cell in row
+        for child in cell.iterdescendants()
+    )
+    if not has_nested_table:
+        return None
+
+    blocks = [
+        rendered
+        for row in rows
+        for cell in row
+        if (rendered := _render_html_children(cell).strip())
+    ]
+    content = "\n\n".join(blocks)
+    if caption and content:
+        return f"**{caption}**\n\n{content}"
+    return content
+
+
 def _render_single_cell_wrapper_table(
     rows: list[list[lhtml.HtmlElement]], caption: str
 ) -> str | None:
@@ -2645,7 +2702,9 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     if not rows:
         return f"**{caption}**" if caption else ""
 
-    wrapper_content = _render_single_cell_wrapper_table(rows, caption)
+    wrapper_content = _render_nested_table_wrapper(rows, caption)
+    if wrapper_content is None:
+        wrapper_content = _render_single_cell_wrapper_table(rows, caption)
     if wrapper_content is not None:
         return wrapper_content
 

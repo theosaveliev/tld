@@ -818,7 +818,7 @@ def _strip_orphan_wikitext_ref_closers(value: str) -> str:
 
 
 def _repair_malformed_wikitext_table_attributes(value: str) -> str:
-    """Repair split style attributes and preserve a space before NBSP cells."""
+    """Repair split style attributes and normalize visually empty table cells."""
     cleaned = WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE.sub(r'\g<prefix>" \g<style>"', value)
 
     def join_style(match: re.Match[str]) -> str:

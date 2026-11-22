@@ -1576,7 +1576,7 @@ def test_page_markdown_removes_empty_multiline_file_markup() -> None:
 
 
 def test_page_markdown_preserves_file_markup_inside_fenced_code() -> None:
-    body = "\`\`\`text\n[[File:\n250px\\]\\]\n\`\`\`"
+    body = "```text\n[[File:\n250px\\]\\]\n```"
 
     markdown = _page_markdown("Markup Example", [], body, None)
 
@@ -1875,7 +1875,7 @@ def test_audit_markdown_workspace_scans_all_pages_and_ignores_code() -> None:
         encoding="utf-8",
     )
     (pages / "Literal code.md").write_text(
-        "\`\`\`html\n<span>literal example</span>\n[[File: example]]\n\`\`\`\n",
+        "```html\n<span>literal example</span>\n[[File: example]]\n```\n",
         encoding="utf-8",
     )
 

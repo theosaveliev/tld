@@ -741,7 +741,7 @@ def test_recovered_html_tables_use_custom_renderer_after_table_repair(
 
     assert not failed
     assert note == recovery_note
-    assert "![](../assets/Ptarmigan_icon.png)" in markdown
+    assert "![Ptarmigan icon](../assets/Ptarmigan_icon.png)" in markdown
     assert "**DLC-Exclusive content.**" in markdown
     assert "Ptarmigan\\_icon.png" not in markdown
 
@@ -790,7 +790,7 @@ def test_image_bearing_infobox_preserves_breaks_and_removes_filename_captions() 
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "**Acorn Bannock**<br>" in markdown
-    assert "![](../assets/Acorn_Bannock_icon.png)" in markdown
+    assert "![Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
     assert "_Acorn\\\\_Bannock\\\\_icon.png_" not in markdown
     assert "**Release:** 21 June 2023<br>" in markdown
     assert " / " not in markdown
@@ -817,7 +817,7 @@ alt="Concussion_icon.png" /><br /><em>Concussion_icon.png</em></td>
 
     assert "| Image | Affliction | Cause | Effect | Duration | Treatment |" in markdown
     assert (
-        "| ![](../assets/Concussion_icon.png) | "
+        "| ![Concussion icon](../assets/Concussion_icon.png) | "
         "[Concussion](./Concussion.md) | Plane crash | None | Scripted | None |"
     ) in markdown
     assert "_Concussion\\\\_icon.png_" not in markdown
@@ -890,12 +890,12 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
 
     assert not failed
     assert not note
-    assert "![](../assets/Balaclava_icon.png)" in markdown
+    assert "![Balaclava icon](../assets/Balaclava_icon.png)" in markdown
     assert "_Balaclava\\_icon.png_" not in markdown
     assert "**General**" in markdown
     assert "**Item Type:** Clothing" in markdown
     assert "**Statistics**" in markdown
-    expected_weight = "**Weight:** ![](../assets/Weight_icon.png)0.25 kg"
+    expected_weight = "**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg"
     assert expected_weight in markdown
     assert "| Property | Details |" not in markdown
     assert r"\|-" not in markdown
@@ -1056,11 +1056,11 @@ Water_(Potable)_icon.png</em></td>
 
     markdown = _html_fragment_to_markdown(fragment)
 
-    assert "![](../assets/Canned_Corn_icon.png)" in markdown
+    assert "![Canned Corn icon](../assets/Canned_Corn_icon.png)" in markdown
     assert " / _Canned\\_Corn\\_icon.png_" not in markdown
     assert "![Canned\\_Corn\\_icon.png]" not in markdown
     assert "| Canned Corn |" in markdown
-    assert "![](../assets/Water_%28Potable%29_icon.png)" in markdown
+    assert "![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)" in markdown
     assert "![Water\\_(Potable)\\_icon.png]" not in markdown
 
 
@@ -1078,7 +1078,7 @@ def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
 
     assert "| Image | Item | Details |" in markdown
     expected = (
-        "| ![](../assets/Badge_icon.png) | Badge | - First detail<br>- Second detail |"
+        "| ![Badge icon](../assets/Badge_icon.png) | Badge | - First detail<br>- Second detail |"
     )
     assert expected in markdown
     assert " / - First detail / - Second detail" not in markdown

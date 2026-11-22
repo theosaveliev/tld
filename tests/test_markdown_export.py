@@ -270,6 +270,39 @@ def test_resolve_internal_href_matches_punctuation_variants_uniquely() -> None:
     )
 
 
+def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() -> None:
+    mapping = {
+        "The Long Dark/Changelog": "The Long Dark — Changelog.md",
+        "The Long Dark/Changelog/Archive 1": "The Long Dark — Changelog — Archive 1.md",
+        "The Long Dark/Changelog/Archive 2": "The Long Dark — Changelog — Archive 2.md",
+        "The Long Dark/Early Access Changelog": (
+            "The Long Dark — Early Access Changelog.md"
+        ),
+    }
+
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#1.41", "Backpack", mapping, {}
+    ) == (
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md"
+        "#1.41"
+    )
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#1.60", "Backpack", mapping, {}
+    ) == (
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md"
+        "#1.60"
+    )
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#0.233", "Backpack", mapping, {}
+    ) == (
+        "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
+        "#0.233"
+    )
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#2.17", "Backpack", mapping, {}
+    ) == "./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17"
+
+
 def test_resolve_internal_href_preserves_named_interwiki_and_app_links() -> None:
     assert (
         resolve_internal_href("wikt:scumming", "Main Page", {}, {}) == "wikt:scumming"

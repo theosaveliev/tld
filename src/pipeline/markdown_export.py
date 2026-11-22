@@ -261,9 +261,7 @@ def normalize_image_name(name: str) -> str:
     )
     value = re.sub(r"(?:\\?\]\])+$", "", value).strip()
     value = "".join(
-        character
-        for character in value
-        if unicodedata.category(character) != "Cf"
+        character for character in value if unicodedata.category(character) != "Cf"
     )
     return value.replace(" ", "_").casefold().rstrip("_")
 
@@ -333,9 +331,7 @@ def _follow_redirects(
     return title, fragment
 
 
-def _lookup_title_filename(
-    title: str, title_to_filename: dict[str, str]
-) -> str | None:
+def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str | None:
     """Resolve exact, case-only, or punctuation-only title differences safely."""
     filename = title_to_filename.get(title)
     if filename is not None:
@@ -343,9 +339,7 @@ def _lookup_title_filename(
 
     folded = title.casefold()
     candidates = {
-        value
-        for key, value in title_to_filename.items()
-        if key.casefold() == folded
+        value for key, value in title_to_filename.items() if key.casefold() == folded
     }
     if len(candidates) == 1:
         return candidates.pop()
@@ -356,9 +350,7 @@ def _lookup_title_filename(
     candidates = {
         value
         for key, value in title_to_filename.items()
-        if "".join(
-            character for character in key.casefold() if character.isalnum()
-        )
+        if "".join(character for character in key.casefold() if character.isalnum())
         == compact
     }
     return candidates.pop() if len(candidates) == 1 else None
@@ -711,9 +703,7 @@ def _strip_orphan_wikitext_ref_closers(value: str) -> str:
 
 def _repair_malformed_wikitext_table_attributes(value: str) -> str:
     """Repair common split style attributes emitted by Fandom table markup."""
-    cleaned = WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE.sub(
-        r'\g<prefix>" \g<style>"', value
-    )
+    cleaned = WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE.sub(r'\g<prefix>" \g<style>"', value)
 
     def join_style(match: re.Match[str]) -> str:
         first = match.group("first").strip().rstrip(";")
@@ -725,7 +715,7 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
     cleaned = WIKITEXT_SCOPE_WIDTH_RE.sub(
         lambda match: (
             f'{match.group("scope")} style="{match.group("width").strip()};'
-            f'{match.group("tail")}'
+            f"{match.group('tail')}"
         ),
         cleaned,
     )
@@ -843,9 +833,7 @@ def _detect_image_suffix(source: Path) -> str:
     return suffix
 
 
-def _find_image_source(
-    name: str, image_index: dict[str, Path]
-) -> Path | None:
+def _find_image_source(name: str, image_index: dict[str, Path]) -> Path | None:
     """Find an exact asset or one unambiguous icon/extension variant."""
     key = normalize_image_name(name)
     source = image_index.get(key)
@@ -1124,15 +1112,16 @@ def _rewrite_anchor_nodes(
 
         raw = urllib.parse.unquote(href).lstrip(":")
         raw = re.sub(
-            r"^(?:\\?\[){2}(?=(?:file|image|media)\s*:)",
-            "",
-            raw,
-            flags=re.IGNORECASE,
+            r"^(?:\\?\[){2}(?=(?:file|image|media)\s*:)", "", raw, flags=re.IGNORECASE
         )
         prefix, separator, _ = raw.partition(":")
         namespace = prefix.strip().casefold()
         if separator and namespace in {
-            "category", "special", "template", "user", "user_blog"
+            "category",
+            "special",
+            "template",
+            "user",
+            "user_blog",
         }:
             link.drop_tag()
             continue
@@ -2724,11 +2713,7 @@ def _render_generic_table(
         return _markdown_images_as_links(rendered) if images_as_links else rendered
 
     grid = _expanded_table_grid(rows)
-    rendered_cells = {
-        cell: render_cell(cell)
-        for row in rows
-        for cell in row
-    }
+    rendered_cells = {cell: render_cell(cell) for row in rows for cell in row}
     header_rows = 0
     for row in grid:
         cells = [cell for cell in row if cell is not None]
@@ -2770,14 +2755,10 @@ def _render_generic_table(
     retained_columns = [
         index
         for index in range(len(headers))
-        if headers[index]
-        or any(row[index] for row in rendered_rows)
+        if headers[index] or any(row[index] for row in rendered_rows)
     ]
     compact_headers = [headers[index] for index in retained_columns]
-    compact_rows = [
-        [row[index] for index in retained_columns]
-        for row in rendered_rows
-    ]
+    compact_rows = [[row[index] for index in retained_columns] for row in rendered_rows]
     return _pipe_table(compact_headers, compact_rows)
 
 

@@ -16,9 +16,9 @@ from pipeline.markdown_export import (
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _copy_image,  # pyright: ignore[reportPrivateUsage]
-    _find_image_source,  # pyright: ignore[reportPrivateUsage]
     _expand_page,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
+    _find_image_source,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_image,  # pyright: ignore[reportPrivateUsage]
@@ -126,17 +126,14 @@ def test_normalize_image_name_strips_mediawiki_namespace() -> None:
 
 def test_normalize_image_name_removes_markup_entities_and_format_characters() -> None:
     assert (
-        normalize_image_name("[[File:Rustic_Chair_icon.png")
-        == "rustic_chair_icon.png"
+        normalize_image_name("[[File:Rustic_Chair_icon.png") == "rustic_chair_icon.png"
     )
     assert (
         normalize_image_name("bank_deposit_box_key_20_icon.png_\u200e")
         == "bank_deposit_box_key_20_icon.png"
     )
     assert (
-        normalize_image_name(
-            "the_long_dark_--_&quot;make_it_right&quot;_trailer.jpg"
-        )
+        normalize_image_name("the_long_dark_--_&quot;make_it_right&quot;_trailer.jpg")
         == 'the_long_dark_--_"make_it_right"_trailer.jpg'
     )
 
@@ -162,6 +159,8 @@ def test_image_lookup_uses_exact_icon_variant_only(tmp_path: Path) -> None:
         "wintermute_trailer.png": image_dir / "Wintermute_trailer.png",
     }
     assert _find_image_source("Wintermute_trailer", ambiguous_trailers) is None
+
+
 def test_image_index_uses_mismatch_directory_as_fallback(tmp_path: Path) -> None:
     image_dir = tmp_path / "images"
     mismatch_dir = tmp_path / "images_mismatch"
@@ -258,10 +257,15 @@ def test_resolve_internal_href_matches_punctuation_variants_uniquely() -> None:
         == "./Railyard%20%28Track%20Section%201%29.md"
     )
     assert (
-        resolve_internal_href("Railyard Track Section 1", "Current", {
-            "Railyard (Track Section 1)": "first.md",
-            "Railyard Track Section 1": "second.md",
-        }, {})
+        resolve_internal_href(
+            "Railyard Track Section 1",
+            "Current",
+            {
+                "Railyard (Track Section 1)": "first.md",
+                "Railyard Track Section 1": "second.md",
+            },
+            {},
+        )
         == "./Railyard%20Track%20Section%201.md"
     )
 
@@ -1605,16 +1609,15 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     sanitized = _sanitize_expanded_wikitext(source)
 
     assert (
-        '{| class="wikitable sticky-header sortable" '
-        'style="text-align: left;"'
+        '{| class="wikitable sticky-header sortable" style="text-align: left;"'
     ) in sanitized
     assert '! scope="col" style="width: 11em;" |Name' in sanitized
     assert (
         '|style="background-color: #3C3A53; width:15%; vertical-align:top;"'
         "|Start location"
     ) in sanitized
-    assert "sortable\"\" " not in sanitized
-    assert "11em;\"\"" not in sanitized
+    assert 'sortable"" ' not in sanitized
+    assert '11em;""' not in sanitized
     assert sanitized.endswith("| &nbsp;\n|}")
 
 

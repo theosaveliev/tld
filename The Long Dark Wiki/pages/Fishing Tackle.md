@@ -13,7 +13,7 @@
 
 [Fishing Tackle icon](../assets/Fishing_Tackle_icon.png)
 
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
 
 **Wintermute:** No
 
@@ -37,11 +37,15 @@
 
 A **Fishing Tackle** is a [Tool](./Tools.md) that is required to catch fish while [Ice Fishing](./Ice%20Fishing.md). It can also be used to repair clothing as part of the [Mending](./Mending.md) survival skill or craft items at the [Work Bench](./Work%20Bench.md), in the same manner as a [Sewing Kit](./Sewing%20Kit.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Time penalty is added when using Fishing Tackle to craft or repair items, due to its less than efficient design as a sewing needle. While Ice Fishing, a [Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md) or [Fishing Bait](./Fishing%20Bait.md) can be added to the tackle to increase the odds of landing a fish. It has a chance to snap while fishing, breaking the item and losing Bait or Lures attached to it.
 
 A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredient in the creation of a [Fishing Tip-Up](./Fishing%20Tip-Up.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -63,10 +67,14 @@ A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredien
 
 **Quantity:** 1
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

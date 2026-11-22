@@ -32,4 +32,6 @@ Wax Cylinders are the most unique Collectibles because their audio can be played
 | [Wax Cylinder 15](./Wax%20Cylinder%2015.md) | [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) | [Repair Depot](./Repair%20Depot.md) | Chief Engineer Best |
 | [Wax Cylinder 16](./Wax%20Cylinder%2016.md) | [Port Remnant](./Port%20Remnant.md) | [Obstructed Transit](./Obstructed%20Transit.md) | Chief Engineer Best |
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History

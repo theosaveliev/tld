@@ -17,17 +17,25 @@
 
 **Night Walker** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is obtained after surviving for an entire night outside in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim, although it will often be obtained eventually through normal gameplay on harder difficulties as well, especially once players start venturing into regions with little man-made shelter. These include [Ash Canyon](./Ash%20Canyon.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Forsaken Airfield](./Forsaken%20Airfield.md), [Hushed River Valley](./Hushed%20River%20Valley.md), [Sundered Pass](./Sundered%20Pass.md), and [Timberwolf Mountain](./Timberwolf%20Mountain.md) (among others), where finding an indoor location to spend the night may not be an option.
+
+<span id="suitable_locations"></span><span id="Suitable_locations"></span><span id="suitable-locations"></span>
 
 ### Suitable locations
 
 Outside refers to being anywhere but inside a building or other structure that contributes to [Cabin Fever](./Cabin%20Fever.md). Therefore this achievement is obtainable whilst being inside of a train carriage (such as at the [Poacher's Camp](./Poacher%27s%20Camp.md)), a [Vehicle](./Vehicle.md), a shallow cave, or an [Ice Fishing Hut](./Fishing%20Hut.md).
 
+<span id="preparation"></span><span id="Preparation"></span>
+
 ### Preparation
 
 It is highly recommended to pack sufficient warm clothing and materials for starting a fire. Some type of Bedroll is recommended, but not essential.
+
+<span id="obtaining"></span><span id="Obtaining"></span>
 
 ### Obtaining
 

@@ -16,6 +16,8 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Alan's Cave is not a true cave but it provides some protection against wind chill. It can be found just west of a hunting stand on the eastern side of the region. A frozen river can be found nearby which leads north to [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), and south to [Mystery Lake](./Mystery%20Lake%20%28location%29.md). There is also a rabbit area there.

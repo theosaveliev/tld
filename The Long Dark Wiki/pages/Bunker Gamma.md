@@ -31,9 +31,13 @@ Has a bed
 
 Has a workbench
 
+<span id="unlocking"></span><span id="Unlocking"></span>
+
 ## Unlocking
 
 This bunker can only be found after having fixed the [Transmitter](./Transmitters.md) at the [Radio Tower](./Radio%20Tower.md) near [Milton](./Milton.md), then traveling to the Valley with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) when the [Aurora](./Aurora.md) is active. Prior to this, the entrance is completely covered by snow and cannot be uncovered.
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -43,9 +47,13 @@ There is lots of food present in the kitchen, such 2 [Canned Corn](./Canned%20Co
 
 2 Collectibles for the Tale are found here; [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md) is found in the kitchen, while [Interview Transcript 14](./Interview%20Transcript%2014.md) is found in the lab.
 
+<span id="use_as_a_safehouse"></span><span id="Use_as_a_safehouse"></span><span id="use-as-a-safehouse"></span>
+
 ### Use as a [safehouse](./Safehouse.md)
 
 Of all the bunkers in Signal Void, this one is the most useful as a safehouse. In addition to offering excellent shelter during blizzards, the bunker has good hunting nearby, and is the only place in Hushed River Valley with a workbench. Its relatively central location and larger size makes it superior to the [Prepper Cache](./Prepper%20Cache.md) overall. Its major downsides are that it is dark inside and a lack of other facilities: the closest [Forge](./Forge.md) is [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md) and to replenish ammunition it's a long trek to the [Workshop](./Workshop.md) in [Bleak Inlet](./Bleak%20Inlet.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

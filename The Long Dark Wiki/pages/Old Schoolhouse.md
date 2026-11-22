@@ -18,8 +18,12 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The schoolhouse itself is destroyed, and a sign at the front door reads _Milton School_. On one side of the schoolhouse, there is a small shed containing [coal](./Coal.md) or other fuel. On the other, there are swings and other broken playground equipment. Shoes, glasses, and other personal belongings are scattered around the building's charred remains, as well as a frozen corpse nearby.
+
+<span id="wintermute"></span><span id="Wintermute"></span>
 
 ## Wintermute

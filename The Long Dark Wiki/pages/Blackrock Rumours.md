@@ -33,9 +33,13 @@
 
 **Blackrock Rumors** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 To start the mission, the player must find any of three security memos, scattered around the [Blackrock Mountain](./Blackrock%20Mountain.md) region. Each memo adds a sub-objective to the mission, completing all 3 sub objectives completes the mission.
+
+<span id="tasks"></span><span id="Tasks"></span>
 
 ## Tasks
 
@@ -51,6 +55,8 @@ To start the mission, the player must find any of three security memos, scattere
   - Search for Clues at the old Cabin.
   - Search for the hermit's hidden bunker.
 
+<span id="starting_note_locations"></span><span id="Starting_Note_Locations"></span><span id="starting-note-locations"></span>
+
 ## Starting Note Locations
 
 - Blackrock Memo - Late Employee
@@ -62,17 +68,25 @@ To start the mission, the player must find any of three security memos, scattere
 - Blackrock Memo - Suspicious person
   - Located in the Blue truck on the access road right next to [Old Substation](./Old%20Substation.md).
 
+<span id="walkthrough"></span><span id="Walkthrough"></span>
+
 ## Walkthrough
+
+<span id="late_employee"></span><span id="Late_Employee"></span><span id="late-employee"></span>
 
 ### Late Employee
 
 - Best way to reach the bottom of the ravine is by going up the steep mountain path behind the barn at [Jailer's Residence](./Jailer%27s%20Residence.md), then keeping to the right where a fallen tree leads to the bottom of the ravine, beware of a wolf walking the ice. It is also possible to climb down a rope when following the creek upstream from the bridge (on the other bank) and then use the previous route to get out of the ravine.
 - Don't forget to visit the Barn, as the truck inside contains a key to [locker #3](./Blackrock%20Lockers.md).
 
+<span id="aggressive_wolf"></span><span id="Aggressive_wolf"></span><span id="aggressive-wolf"></span>
+
 ### Aggressive wolf
 
 - Follow the mountain face from the Suspicious person bunker, beware a bear and then a pack of timberwolves is in the area.
 - It is unnecessary, in fact quite difficult, to kill the wolf inside his cave as its head is turned sideways and constantly moving when feeding. However, 1-2 shots from a revolver will put it into a fleeing state for long enough to search and exit the cave.
+
+<span id="suspicious_person"></span><span id="Suspicious_person"></span><span id="suspicious-person"></span>
 
 ### Suspicious person
 
@@ -80,7 +94,11 @@ To start the mission, the player must find any of three security memos, scattere
 - After you recovered the cache, you will be looking for a prepper cache like hatch.
 - Return in the direction of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md), and slightly towards the road bend between [Foreman's Clearcut](./Foreman%27s%20Clearcut.md) and [Cook's Farm](./Cook%27s%20Farm.md) , best way is by crossing the top/right part of the little lake, then crossing the road and going through a stone arch. Follow the road towards the bend and the cache will be between the canyon walls just after it, near the left wall.
 
+<span id="rewards"></span><span id="Rewards"></span>
+
 ## Rewards
+
+<span id="late_employee_1"></span><span id="late-employee-1"></span>
 
 ### Late Employee
 
@@ -95,10 +113,14 @@ To start the mission, the player must find any of three security memos, scattere
 - New [Rabbitskin Hat](./Rabbitskin%20Hat.md)
 - [Gold Nugget](./Gold%20Nugget.md)
 
+<span id="an_aggressive_wolf"></span><span id="An_aggressive_wolf"></span><span id="an-aggressive-wolf"></span>
+
 ### An aggressive wolf
 
 - [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md)
 - deer carcass with ~1,5kg of [Venison](./Venison%20%28Cooked%29.md)
+
+<span id="suspicious_person_1"></span><span id="suspicious-person-1"></span>
 
 ### Suspicious person
 

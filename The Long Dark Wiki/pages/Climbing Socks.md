@@ -38,6 +38,8 @@
 
 **Climbing Socks** are a type of Clothing in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Climbing Socks are the warmest socks, and also have the slowest decay rate of all socks (requiring them to be repaired less often).
@@ -45,6 +47,8 @@ Climbing Socks are the warmest socks, and also have the slowest decay rate of al
 ![Clothing model icon](../assets/Climbing_Socks_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Climbing_Socks_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

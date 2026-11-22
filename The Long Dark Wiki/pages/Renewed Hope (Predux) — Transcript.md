@@ -27,6 +27,8 @@
 
 This is the transcript for Chapter 5 [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), and is the last mission for the Predux timeline.
 
+<span id="get_into_the_dam_at_night_when_the_aurora_is_in_the_sky."></span><span id="Get_into_the_Dam_at_night,_when_the_Aurora_is_in_the_sky."></span><span id="get_into_the_dam_at_night,_when_the_aurora_is_in_the_sky."></span><span id="get-into-the-dam-at-night-when-the-aurora-is-in-the-sky"></span>
+
 ## Get into the Dam at night, when the Aurora is in the sky.
 
 CHAPTER FIVE
@@ -73,9 +75,13 @@ Methuselah: "Then I hope you find who you're looking for. Stay and warm yourself
 
 _The cutscene ends. Mackenzie eventually leaves the strange man and enters the Dam_
 
+<span id="find_your_way_through_the_carter_dam."></span><span id="Find_your_way_through_the_Carter_Dam."></span><span id="find-your-way-through-the-carter-dam"></span>
+
 ## Find your way through the Carter Dam.
 
 _Mackenzie enters the Dam as the lights flicker around him. He approaches the control Room door and uses the code Jeremiah gave him_
+
+<span id="use_jeremiahs_code_to_access_the_control_room."></span><span id="Use_Jeremiah&#x27;s_code_to_access_the_control_room."></span><span id="use_jeremiah&#x27;s_code_to_access_the_control_room."></span><span id="use-jeremiahs-code-to-access-the-control-room"></span>
 
 ### Use Jeremiah's code to access the control room.
 
@@ -92,6 +98,8 @@ _The elevator descends, but breaks as it reaches the bottom, with the doors part
 Mackenzie: "Holy shit, what was that?"
 
 _Mackenzie uses a Prybar to force the doors open, and enters the turbine room._
+
+<span id="explore_the_guts_of_the_dam._get_through_before_daylight."></span><span id="Explore_the_guts_of_the_Dam._Get_through_before_daylight."></span><span id="explore-the-guts-of-the-dam-get-through-before-daylight"></span>
 
 ## Explore the guts of the Dam. Get through before daylight.
 

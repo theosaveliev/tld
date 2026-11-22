@@ -17,9 +17,13 @@
 
 **Tough Enough** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is easiest to unlock in [Survival Mode](./Survival%20Mode.md) when playing on [Voyageur](./Voyageur.md), as [Cougars](./Cougar.md) are disabled on [Pilgrim](./Pilgrim.md) and higher Experiences cause more Condition damage to the player from [Struggles](./Struggle.md). The player must enable the Cougar in their survival run and survive long enough for them to start spawning in the game world, then survive 25 Struggles with a Cougar.
+
+<span id="requirements"></span><span id="Requirements"></span>
 
 ### Requirements
 
@@ -31,10 +35,14 @@ The requirements to unlock this achievement necessitates the player being fully 
   - Dying from the Struggle will not count towards progress.
 - Progress is tracked across multiple Survival Mode save files, and it does not need to be done in a single game.
 
+<span id="tips"></span><span id="Tips"></span>
+
 ### Tips
 
 - This achievement is one of the hardest to unlock in the game, and thus requires great patience and planning. A guide to hunting and surviving Cougar encounters (including using proper [First Aid](./First%20Aid.md) to heal from [Severe Lacerations](./Severe%20Lacerations.md)) can be found [Here](./Cougar.md#Hunting).
 - Deliberately being attacked by the same Cougar over and over within a short time span will more than likely result in your death, so plan ahead when recovering from injuries.
 - Wearing a [Ballistic Vest](./Ballistic%20Vest.md) significantly lowers Condition damage to the player. Consider also wearing [Clothing](./Clothing.md) with high Protection stats.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

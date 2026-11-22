@@ -40,6 +40,8 @@ Cards usually spawn at the same location/building, but the exact locations withi
 
 &lt;/table-progress-tracking&gt;
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![The location of the Stalker's Pie Card](../assets/StalkerPieMap.png)
@@ -51,6 +53,8 @@ Cards usually spawn at the same location/building, but the exact locations withi
 ![Prepper's Pie recipe card (on Interloper and Misery)](../assets/Interloperprepperpie.png)
 
 ![Orca Bar Recipe Card (Formerly used for Pemmican Bar)](../assets/Recipe_Card_Orca_Bar.png)
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History
 

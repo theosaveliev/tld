@@ -36,4 +36,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Train Key** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) at the [Train Shelter](./Train%20Shelter.md). The key is used to permanently unlock the doors to the nearby [Prototype Train](./Prototype%20Train.md).
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ## Game history

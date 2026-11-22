@@ -35,6 +35,8 @@ Repair
 
 The **crow feather** is a material item in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Feathers are used to create [arrows](./Simple%20Arrow.md) and [fire hardened arrows](./Fire%20Hardened%20Arrow.md).
@@ -42,6 +44,8 @@ Feathers are used to create [arrows](./Simple%20Arrow.md) and [fire hardened arr
 They are dropped by [crows](./Crow.md), and are usually found near animal carcasses (except for small game like [ptarmigans](./Ptarmigan.md) and [rabbits](./Rabbit.md)) and human [corpses](./Frozen%20Corpse.md). Feathers usually respawn after a few days. They also tend to respawn after a blizzard, which causes crows to disappear and subsequently reappear afterwards. Additionally, as long as large game animal carcasses have something left to harvest, they will continue attract crows until they decay. Thus they can be used as an easy, if temporary source of feathers. Freshly hunted game will generate roughly 2 feathers per hour, even while being harvested/quartered.
 
 As a feather touches the ground, it makes a small sound that can be heard if nearby.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -53,10 +57,14 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 | [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Wires](./Wires.md) |
 | [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md)<br>- 1 × [Arrow Shaft](./Arrow%20Shaft.md)<br>- 3 × [Crow Feather](./Crow%20Feather.md) |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Crow_feather.png)
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ## Game history
 
-- Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233).
+- Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233).

@@ -34,6 +34,8 @@
 
 **Cereal** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md). The price to acquire a single box is quite steep, costing 20 firewood, but the amount of calories is quite high for a single food and drink item.
@@ -43,9 +45,13 @@ Cereal costs the following to acquire from the Trader:
 - 20 ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
 - 2.00 L ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The box is branded as "Golden Flakes"
 - The side of the box lists "Ingredients: Whole Grain Wheat, Wheat Bran, Sugar, salt."
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

@@ -20,6 +20,8 @@
 
 Provides some shelter<br>The **Vacant Depot** is a location in [Transfer Pass](./Transfer%20Pass.md), located near the center of the region.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The location can be spotted at a distance by its old water tower, which used to draw water from nearby [Feedwater Cave](./Feedwater%20Cave.md). There are also two sidings, one of which has a coal tipple and two coal hoppers, plus an abandoned train station named Vale station.
@@ -32,9 +34,13 @@ Alternatively the nearby coal tower can be entered (and exited) through roundabo
 
 While the station or tower could be used as a [Safe House](./Safehouse.md), Transfer Pass is a very small region to live in for any length of time, so resources may be depleted quickly.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 Several of the picture frames inside the Vacant Depot were changed with the release of the [Zone of Contamination](./Zone%20of%20Contamination.md), and now feature photographs of various coal miners and landmarks located within the Zone.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

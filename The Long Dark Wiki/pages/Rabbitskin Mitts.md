@@ -42,6 +42,8 @@
 
 **Rabbitskin Mitts** are a type of craftable gloves in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Rabbitskin Mitts are very warm and windproof crafted gloves. They can be manufactured by killing rabbits, by using thrown [stones](./Stone.md) to stun them, or [snares](./Snare.md) to capture them the next day.
@@ -50,9 +52,13 @@ They are significantly warmer and more durable than most other gloves, only comp
 
 In [Wintermute](./Wintermute.md), their blueprint is unlocked by snaring a rabbit in [The Basics of Survival](./The%20Basics%20of%20Survival.md) quest.
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
 
 As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pair of Rabbitskin mittens may spawn in the control room in the [Concentrator](./Concentrator.md), near the [Miner's Flashlight](./Miner%27s%20Flashlight.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -72,6 +78,8 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 
 **Quantity:** 4
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Pre alpha model.](../assets/Rabbitskin_mitts_%28historical%29.png)
@@ -79,6 +87,8 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 ![Clothing model](../assets/Rabbitskin_Mitts_Model_icon.png)
 
 ![Clothing model damaged](../assets/Rabbitskin_Mitts_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

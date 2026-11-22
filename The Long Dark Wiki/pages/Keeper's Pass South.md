@@ -33,6 +33,8 @@
 
 **Keeper's Pass South** is the 4th Transition Zone [Region](./Region.md) added to _[The Long Dark](./The%20Long%20Dark.md)_. A [Cave](./Cave%20%28Transition%20Zone%29.md) connects to [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (and later [Blackrock](./Blackrock.md)) with a road leading to [Pleasant Valley](./Pleasant%20Valley.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is a continuation of the road at [Long Curve](./Long%20Curve.md), and contains a scenic stop with a trailer, cars, and little loot. A crossroads connects to the tunnel leading to [Milton](./Milton.md), but the tunnel has collapsed. Further down the road past a bridge is the road to Blackrock, but an avalanche has blocked all progress, forcing the player to go around via a Cave system to reach Keeper's Pass North.
@@ -40,6 +42,8 @@ It is a continuation of the road at [Long Curve](./Long%20Curve.md), and contain
 A [Fishing Hut](./Fishing%20Hut.md) can be found on the frozen river and the ice can be fished with Free Form Holes. Many wolves usually wander the river area, and many [Rose Hip](./Rose%20Hip.md) bushes and [Reishi Mushrooms](./Reishi%20Mushroom.md) can be found in the hills.
 
 The frozen river has patches of open ice in it. Stepping on them results in a [Weak Ice](./Weak%20Ice.md) warning. Walking straight into the open water will immediately cause the player to plunge into the water as though they fell through weak ice (this is similar to walking into the ocean edge in coastal regions).
+
+<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
 
 ## Wildlife Availability
 
@@ -49,6 +53,8 @@ Only 2 animals are found in this region.
 - [Wolves](./Wolf.md) can be found on the road to Blackrock and near Mirthless Fork.
 - Some [Deer Carcasses](./Deer%20Carcass.md) can occasionally be found in the region.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 - [Mirthless Fork](./Mirthless%20Fork.md)
@@ -56,9 +62,13 @@ Only 2 animals are found in this region.
 - To Cave System (Region Transition to [Keeper's Pass North](./Keeper%27s%20Pass%20North.md))
 - To Pleasant Valley (Region Transition to [Pleasant Valley](./Pleasant%20Valley.md))
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The beginning of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) takes place near the tunnel to Milton as [Molly](./Molly.md) finds [Astrid Greenwood](./Astrid%20Greenwood.md). This cutscene introduced Keeper's Pass South 2 years before the region was added to the game.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -84,7 +94,9 @@ The beginning of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20
 
 ![The blocked road to Keeper's Pass North](../assets/Keeper%27s_Pass_South_blocked_road.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)):**
+- UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)):**
   - Added to game.

@@ -6,7 +6,7 @@
 
 [Firearm Cleaning Kit icon](../assets/Firearm_Cleaning_Kit_icon.png)
 
-**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
 
 **Wintermute:** No
 
@@ -26,17 +26,23 @@
 
 The **Firearm Cleaning Kit** is a Tool for cleaning the [Hunting Rifle](./Hunting%20Rifle.md) and the [Revolver](./Revolver.md) (or their variants).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Firearm Cleaning Kit, in conjunction with the [Cleaning](./Cleaning.md) Skill, is used for cleaning guns to keep them in optimal condition. Worn-out firearms can be also be fixed at a [Milling Machine](./Milling%20Machine.md) using [Scrap Metal](./Scrap%20Metal.md) during the Aurora.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
 - [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) was previously named **Rifle Cleaning Kit** prior to the introduction of the [Revolver](./Revolver.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
   - Renamed to "Firearm Cleaning Kit".
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.

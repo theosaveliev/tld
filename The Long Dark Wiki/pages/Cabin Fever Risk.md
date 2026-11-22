@@ -13,7 +13,7 @@
 
 [Cabin Fever Risk icon](../assets/Cabin_Fever_Risk_icon.png)
 
-**Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338)
+**Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338)
 
 **Update:** 0.338
 
@@ -49,6 +49,8 @@
 
 Starting a Survival Mode game with the Settled Mind [Feat](./Feats.md) selected will automatically prevent Cabin Fever Risk, and [Cabin Fever](./Cabin%20Fever.md), from ever developing.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Affliction Risk for Cabin Fever is calculated by the amount of time a survivor spends indoors in the last 150 hours:
@@ -57,6 +59,8 @@ The Affliction Risk for Cabin Fever is calculated by the amount of time a surviv
 - This affliction is removed when this number drops below 110 out of the past 150 hours, or is replaced by the affliction [Cabin Fever](./Cabin%20Fever.md) if it goes above 125 hours out of the past 150 hours.
 
 When suffering from Cabin Fever Risk, working on an item at a [Work Bench](./Work%20Bench.md)/[Ammunition Work Bench](./Ammunition%20Work%20Bench.md)/reading a [Research Book](./Research%20Book.md)/[Cooking](./Cooking.md)/Repairing WILL increase the Affliction Risk meter, despite the fact that the survivor is keeping their mind occupied at the time.
+
+<span id="special_locations"></span><span id="Special_Locations"></span><span id="special-locations"></span>
 
 ### Special Locations
 
@@ -74,6 +78,8 @@ The following areas do progress Cabin Fever.
 - The front porch of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
 - The maintenance hallway in the south tunnel in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
+<span id="treatment"></span><span id="Treatment"></span>
+
 ## Treatment
 
 Spending more time outdoors will gradually cause the Risk to subside. Sleeping in [Warm Caves](./Warm%20Cave.md) or [Snow Shelters](./Snow%20Shelter.md) is generally the safest way to remove Cabin Fever Risk. Great care should be taken to not return to the indoors too quickly once the Risk has subsided, or the Risk will return. Failure to manage Cabin Fever Risk will result in the player contracting [Cabin Fever](./Cabin%20Fever.md).
@@ -87,6 +93,8 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 | [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -27,23 +27,35 @@
 
 Has an interior<br>**Bunker Alpha** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Bleak Inlet](./Bleak%20Inlet.md).
 
+<span id="unlocking"></span><span id="Unlocking"></span>
+
 ## Unlocking
 
 This bunker can only be found after having fixed the [Transmitter](./Transmitters.md) at the [Shortwave Tower East](./Shortwave%20Tower%20East.md) near [Muskeg Overlook](./Muskeg%20Overlook.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md), then traveling to Bleak Inlet when the [Aurora](./Aurora.md) is active with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) in hand. Prior to this, the entrance is completely covered by snow, and cannot be uncovered.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
+
+<span id="entrance"></span><span id="Entrance"></span>
 
 ### Entrance
 
 The bunker is somewhat U shaped, with the front door closed upon entering (some [Crates](./Crate.md) are also at the entrance).
 
+<span id="kitchen"></span><span id="Kitchen"></span>
+
 ### Kitchen
 
 The front door gives way to a kitchen with 2 [Beds](./Bed.md), a sink with [Stored Water](./Stored%20Water.md), 2 [Canned Corn](./Canned%20Corn.md), and 2 [Canned Ham](./Canned%20Ham.md), with several hatches next to the beds.
 
+<span id="back_hallway"></span><span id="Back_Hallway"></span><span id="back-hallway"></span>
+
 ### Back Hallway
 
 The back kitchen has a door to a hallway intersection. The left path leads to a bathroom with a [Towel](./Towel.md) and [Industrial Toilet](./Industrial%20Toilet.md). The path to the right leads to a storage closet at the end of the hall with [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md), with another door leading to a research lab with [Interview Transcript 4](./Interview%20Transcript%204.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

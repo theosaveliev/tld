@@ -44,9 +44,13 @@
 
 The **Moose-Hide Cloak** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Moose-Hide Cloaks are crafted torso wear with extremely high waterproof and the second highest protection of any item, right behind the [Ballistic Vest](./Ballistic%20Vest.md), but offer less warmth than the [Expedition Parka](./Expedition%20Parka.md), [Wolfskin Coat](./Wolfskin%20Coat.md) and [Bearskin Coat](./Bearskin%20Coat.md). Moose Hide Cloaks require [Cured Moose Hide](./Cured%20Moose%20Hide.md) to craft and repair, making them difficult to produce and maintain.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -66,6 +70,8 @@ Moose-Hide Cloaks are crafted torso wear with extremely high waterproof and the 
 
 **Quantity:** 1
 
+<span id="repair"></span><span id="Repair"></span>
+
 ## Repair
 
 Moose Hides can be difficult to acquire due to the rarity and danger of moose, as well as requiring 10 days to [cure](./Curing.md); this makes repairing Moose-Hide Cloaks challenging. Instead, existing cloaks may be [harvested](./Harvesting.md) (yielding 1 cured moose hide) and then re-crafted into a new cloak. This process takes 16.67 hours longer than repairing and is more expensive with [Cured Guts](./Cured%20Gut.md): but allows repeated use of the same hide.
@@ -73,13 +79,17 @@ Moose Hides can be difficult to acquire due to the rarity and danger of moose, a
 
 Note: Crafting Moose-Hide Cloaks costs durability of the used tool (e.g. [hunting knife](./Hunting%20Knife.md)), though this is usually less resource-intensive than to kill another [moose](./Moose.md).
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Moose-Hide_Cloak_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Moose-Hide_Cloak_Model_Damaged_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
   - Added to game.

@@ -40,7 +40,11 @@
 - Part Two is found in a cabin near the [Point of Disagreement](./Point%20of%20Disagreement.md)
 - Part Three is found in the basement of [Skeeter's Ridge](./Skeeter%27s%20Ridge.md)
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
+
+<span id="pleasant_valley_history_part_one"></span><span id="Pleasant_Valley_History_Part_One"></span><span id="pleasant-valley-history-part-one"></span>
 
 ### **Pleasant Valley History Part One**
 
@@ -50,6 +54,8 @@ Pleasant Valley’s harsh and remote location, even for Great Bear Island, has s
 
 But these conditions didn’t keep Great Bear Islanders from settling there. In fact, some saw the Valley’s wild and desolate hills as an ideal place to homestead.
 
+<span id="pleasant_valley_history_part_two"></span><span id="Pleasant_Valley_History_Part_Two"></span><span id="pleasant-valley-history-part-two"></span>
+
 ### **Pleasant Valley History Part Two**
 
 _The following text is transcribed from **Pleasant Valley History Part Two**_
@@ -57,6 +63,8 @@ _The following text is transcribed from **Pleasant Valley History Part Two**_
 Founded in 1919, Thomson’s Crossing remains the only significant community in Pleasant Valley. With a history tied to the farming and mining concerns of its residents, the isolated town followed its own path along the boom and bust cycle of Great Bear Island industry.
 
 With greater and greater instability due to seismic activity, the workings in the nearby mines proved too dangerous for later generations to exploit. And with the arrival of local activists, determined to keep new industry from taking root in Pleasant Valley, Thomson’s Crossing began its steady decline.
+
+<span id="pleasant_valley_history_part_three"></span><span id="Pleasant_Valley_History_Part_Three"></span><span id="pleasant-valley-history-part-three"></span>
 
 ### **Pleasant Valley History Part Three**
 
@@ -66,7 +74,9 @@ With the onset of The Collapse, Pleasant Valley locals didn’t notice the brunt
 
 Residents did begin to notice the growing scarcity of the few creature comforts imported to the Island. But connected as they were through regular reports from the regional weather service radio station, their post-Collapse isolation took some years to set in.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

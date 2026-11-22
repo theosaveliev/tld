@@ -31,9 +31,13 @@
 
 **Energy Boost** is a positive [Affliction](./Afflictions.md) gained by drinking [Go! Energy Drink](./Go!%20Energy%20Drink.md) or injecting yourself with an [Emergency Stim](./Emergency%20Stim.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Using either item will give the Energy boost benefit for several minutes. The two items have different effects.
+
+<span id="emergency_stim"></span><span id="Emergency_Stim"></span><span id="emergency-stim"></span>
 
 ### Emergency Stim
 
@@ -41,12 +45,16 @@ Using either item will give the Energy boost benefit for several minutes. The tw
 - If the energy boost effect is applied, the character will not lose [Stamina](./Stamina.md) and will lose very little [Fatigue](./Fatigue.md), allowing him to run away from predators, for example, or [Rope Climbing](./Rope%20Climbing.md) easily.
 - Benefit lasts for 60 minutes or 75 minutes with the [Feat](./Feats.md) Straight to the Heart (time increased by 25%).
 
+<span id="go_energy_drink"></span><span id="Go!_Energy_Drink"></span><span id="go!_energy_drink"></span><span id="go-energy-drink"></span>
+
 ### Go! Energy Drink
 
 - [Stamina](./Stamina.md) is replenished (60%).
 - [Fatigue](./Fatigue.md) is replenished (50%). At the same time, the "[Fatigue Reduced](./Fatigue%20Reduced.md)" effect restores 10% fatigue.
 - [Stamina](./Stamina.md) recovers faster due to replenished [Fatigue](./Fatigue.md).
 - Benefit lasts for 30 minutes or 37.5 minutes with the [Feat](./Feats.md) Straight to the Heart (time increased by 25%).
+
+<span id="negative_effects"></span><span id="Negative_effects"></span><span id="negative-effects"></span>
 
 ## Negative effects
 

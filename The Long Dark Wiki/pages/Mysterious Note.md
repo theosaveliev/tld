@@ -6,7 +6,7 @@
 
 [Mysterious Note icon](../assets/Mysterious_Note_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Convict Caches](./Convict%20Caches.md)
 
@@ -30,6 +30,8 @@
 
 **Mysterious Note** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in a [Metal Container](./Metal%20Container.md) at [Cook's Farm](./Cook%27s%20Farm.md). It is part of the side mission [Convict Caches](./Convict%20Caches.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Mysterious Note**_
@@ -38,9 +40,11 @@ If you all made it this far, you've still got a ways to go. But there's help.
 
 Look for these supplies on the way. This is all you're gonna get from me. I'd wish you luck but there's none left to go around.
 
-\[hand-sketched map with supply locations\]
+[hand-sketched map with supply locations]
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

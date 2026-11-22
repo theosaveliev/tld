@@ -16,6 +16,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Destroyed Lookout sits on a hill to the north-east of the [Unnamed Pond](./Unnamed%20Pond.md), and south of [Clearcut](./Clearcut.md) (a trail leads to the lookout from the bottom of the hill. The entrance to the path sits beside a small billboard sign).
@@ -24,9 +26,13 @@ The tower sits in two pieces next to a radio mast woth no interior at this locat
 
 A [Rope Climbing](./Rope%20Climbing.md) for deploying a [Mountaineering Rope](./Mountaineering%20Rope.md) is next to the cliff. The [Forestry Lookout](./Forestry%20Lookout.md) can be seen on an adjacent hill.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
 The [Forestry Lookout](./Forestry%20Lookout.md) once stood in the space the Destroyed Lookout and radio mast now occupies, before it was moved to an adjacent hill, between Destroyed Lookout and the [Derailment](./Derailment.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

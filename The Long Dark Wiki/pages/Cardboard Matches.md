@@ -35,6 +35,8 @@
 
 **Cardboard Matches** are [Fire Starting](./Fire%20Starting.md) Tools and a small light source in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Each match weighs a mere 5 grams (0.005kg), but there are always 20 found together in one box. Using a Cardboard Match does not increase the base chance of successfully lighting a fire. Irrespective of real-life cardboard matches which are attached to a striker, these matches can be split into smaller stacks and are still usable.
@@ -45,15 +47,21 @@ Lighting a match will cause the survivor to hold it closely in their hand, where
 
 Pressing H with a lit match will cause the survivor to flick the match into the distance, where it disappears and the light is extinguished.
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - [Firestrikers](./Firestriker.md) and [Wood Matches](./Wood%20Matches.md) are preferable to Cardboard Matches at low firestarting skill. This will likely save matches from failed fires, thanks to the firestrikers higher Bonus Chance.
 - When selecting Cardboard Matches as a light source, the handheld model is always that of Wood Matches.
 - Using a lit [Torch](./Torch.md) to start campfires is an effective way to save matches/firestriker durability.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![old model](../assets/Cardboard_Matches.png)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

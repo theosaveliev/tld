@@ -11,13 +11,17 @@
 - [Skill levels](#skill-levels)
 - [Trivia](#trivia)
 
-**Sharpening** is a secondary Survival [Skill](./Skills.md) that is used to repair [Bladed Tools](#bladed-tools). Higher levels in the sharpening skill reduce the amount of time required to sharpen, and additionally increase the amount of condition restored to a tool by sharpening.
+**Sharpening** is a secondary Survival [Skill](./Skills.md) that is used to repair [Bladed Tools](#Bladed_tools). Higher levels in the sharpening skill reduce the amount of time required to sharpen, and additionally increase the amount of condition restored to a tool by sharpening.
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
 Sharpening is the action by which a player may restore the condition of a bladed tool, such as a [Hunting Knife](./Hunting%20Knife.md) or [Hatchet](./Hatchet.md), using a [Whetstone](./Whetstone.md).
 
 Sharpening is only available when viewing a bladed tool in the inventory and is not a core survival skill like those listed in the player's journal (e.g., [Cooking](./Cooking.md)). Players start with 30 skill points, and gain 1 additional skill point each time a blade is sharpened, with the amount of condition restored per sharpening session increasing at different skill point intervals. How long each session takes will decrease at higher skill level intervals, as well.
+
+<span id="how_to_sharpen_tools"></span><span id="How_to_sharpen_tools"></span><span id="how-to-sharpen-tools"></span>
 
 ## How to sharpen tools
 
@@ -29,11 +33,15 @@ To actually sharpen something, players have to select the Sharpen option while v
 
 Players will always have a 100% chance of success while sharpening and cannot fail. Activating the start button on the bottom right will launch an attempt. A progress bar/wheel will appear on the screen during sharpening.
 
-Sharpening a tool consumes 5% condition from the whetstone and restores some condition to the sharpened tool, based on the player's [skill level](#skill-levels). Each whetstone can be used up to 20 times for sharpening tools.
+Sharpening a tool consumes 5% condition from the whetstone and restores some condition to the sharpened tool, based on the player's [skill level](#Skill_levels). Each whetstone can be used up to 20 times for sharpening tools.
+
+<span id="equipment"></span><span id="Equipment"></span>
 
 ## Equipment
 
 Players need a whetstone before they can start sharpening tools. Whetstones can be found while scavenging in containers and buildings that are likely to contain tools. Whetstones are always found in 100% condition.
+
+<span id="bladed_tools"></span><span id="Bladed_tools"></span><span id="bladed-tools"></span>
 
 ## Bladed tools
 
@@ -49,6 +57,8 @@ The player is able to sharpen the following tools to improve their condition:
 | [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) |
 | [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) |
 | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) |
+
+<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
 
 ## Skill levels
 
@@ -73,6 +83,8 @@ The sharpening skill does not unlock any perks, but gives a gradual reduction to
 
 Note: the table shown above, contains information related to the hatchet. Sharpening time for the hunting knife does not go below 10 minutes.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
-- The sharpening mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298), also known as the Timberwolf Mountain update.
+- The sharpening mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298), also known as the Timberwolf Mountain update.

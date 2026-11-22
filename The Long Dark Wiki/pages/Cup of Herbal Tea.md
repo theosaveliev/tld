@@ -14,7 +14,7 @@
 
 [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png)
 
-**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
+**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)
 
 **Wintermute:** No
 
@@ -44,6 +44,8 @@
 
 **Cup of Herbal Tea**is a [drink](./Food%20And%20Drink.md) item in _The Long Dark._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cup of Herbal Tea is cooked at a [Fire](./Fire.md) from one Herbal Tea package and 0.25 liters of [Water (Potable)](./Water%20%28Potable%29.md). Drinking Herbal Tea restores hydration and a small amount of calories, as well as the benefit "[Improved Rest](./Improved%20Rest.md)" which increases the [Condition](./Condition.md) restored by [Sleep](./Sleep.md) by an additional 2% (1% for Interloper) per hour, if all four [needs](./Needs.md) are met. This benefit lasts for 12 hours once drunk or 6 hours of sleep.
@@ -51,6 +53,8 @@ Cup of Herbal Tea is cooked at a [Fire](./Fire.md) from one Herbal Tea package a
 Herbal Tea may be heated at a fire to apply the [Warming Up](./Warming%20Up.md) benefit. Cooking Herbal Tea grants skill in [Cooking Skill](./Skills.md). Herbal Tea is sometimes found inside of [Microwaves](./Microwave.md).
 
 The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%20Tea.md), being slightly more powerful but non-renewable and requires rest for the benefit to apply.
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -69,6 +73,8 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 
 **Quantity:** 1
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Most Herbal Tea on [Great Bear Island](./Great%20Bear%20Island.md) can be found inside of [Cargo Containers](./Cargo%20Container.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md), and also rarely in all regions: usually inside cupboards (tins) or inside of microwaves (cups).
@@ -76,15 +82,19 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 - Teas and Coffee never spoil once cooked.
 - Teas and Coffee may be heated to grant Warming Up by playing them on a fire's cooking spot, or simply nearby a lit fire.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![old model](../assets/Herbal_tea_cup.png)
 
 ![Old icon](../assets/Cup_of_herbal_tea_icon_old.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.27)):**
-  - \[Wintermute\] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+  - [Wintermute] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game.

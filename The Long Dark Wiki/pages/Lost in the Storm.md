@@ -6,7 +6,7 @@
 
 [Lost in the Storm icon](../assets/Lost_in_the_Storm_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -30,6 +30,8 @@
 
 To access the note, you will have to go east from the Bridge, then head south before the end of the road to find the cave at the end of the path. Continuing through the cave will lead you mid-way on a path from the plane to [Mountain Town](./Mountain%20Town.md). The note is on a corpse of a woman.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Lost in the Storm**_
@@ -38,7 +40,9 @@ I left with the others but the storm turned bad and I couldn't keep up. Some tur
 
 The letter is signed: "Alice"
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

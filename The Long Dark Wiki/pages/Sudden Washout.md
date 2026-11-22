@@ -20,6 +20,8 @@
 
 Provides some shelter<br>**Sudden Washout** is a cave in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The cave is located to the western most section of the map, south of [Mindful Cabin](./Mindful%20Cabin.md), and directly west of [Final Approach](./Final%20Approach.md) in the mountains (past another [Warm Cave](./Warm%20Cave.md)).

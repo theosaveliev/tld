@@ -30,6 +30,8 @@ Has a bed
 
 Has a forge
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A few vehicles may be found immediately outside, and a small, exterior staircase at the back connects to a door to the indoor second-floor catwalk. The staircase's landings may serve as a somewhat protected area for storing and cooking food, although predators can climb at least partway up.
@@ -41,6 +43,8 @@ The hangar also has a [basement](./Hangar%20Basement.md) with a [forge](./Forge.
 Inside the open hangar area are two light airplanes and one helicopter, as well as a few tool boxes--all of which can serve as storage. Also scattered throughout the hangar are plenty of furniture, tarps, and crates to break down for material.
 
 Miscellaneous food, tools, and clothing items may be found inside and around the building on the main or upper floors. This location may also spawn up to two [heavy hammers](./Heavy%20Hammer.md), and a [noisemaker](./Noisemaker.md) may occasionally be found here as well.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

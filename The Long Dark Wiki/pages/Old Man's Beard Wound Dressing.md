@@ -15,7 +15,7 @@
 
 [Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png)
 
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
 
 **Wintermute:** No
 
@@ -39,11 +39,15 @@
 
 **Old Man's Beard Wound Dressing** is a type of natural [First Aid](./First%20Aid.md) item used to eliminate infection risk.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Old Man's Beard Wound Dressing is created with [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), which functions as an [Antiseptic](./Antiseptic.md) that will disinfect a single wound, thus removing any chance of [Infection](./Infection.md). They weigh the same as a normal Bandage.
 
 Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wound Dressing functioned as a regular [Bandage](./Bandage.md) combined with an Old Man's Beard Lichen.
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -52,6 +56,8 @@ Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wo
 - They can be acquired renewably via [Beachcombing](./Beachcombing.md).
 - Old Man's Beard Lichen weighs 0.01kg (0.02lbs), but its crafted version "Old Man's Beard Wound Dressing" weighs 0.1kg (0.22lbs). This makes the raw (uncrafted) version far more weight efficient, at the expense of requiring to craft the dressing as needed.
 - Antiseptic/Old Man's Beard Wound Dressings do not need to be applied immediately after sustaining an injury to eliminate infection risk; though they should be applied as early as possible, since waiting long periods of time (e.g. 6+ hours) increases the chances of an Infection despite antiseptic being used.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -69,6 +75,8 @@ Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wo
 
 **Quantity:** 3
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 Before release of "Faithful Cartographer" the recipe was:
@@ -77,9 +85,13 @@ Before release of "Faithful Cartographer" the recipe was:
 - 1 × [Bandage](./Bandage.md)
 - No other tools required
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Old_mans_beard_wound_dressing.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

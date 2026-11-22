@@ -26,6 +26,8 @@ Has an interior
 
 The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Lone Lake Cabin is located along the eastern shore of [Mystery Lake](./Mystery%20Lake%20%28location%29.md).
@@ -33,6 +35,8 @@ Lone Lake Cabin is located along the eastern shore of [Mystery Lake](./Mystery%2
 Some supplies can be found inside the cabin, which also provides good protection from the elements. The cabin has a bunk bed. Occasionally, a hunting rifle and a Frozen Corpse can be found behind the cabin.
 
 A possible [bear](./Bear.md) and a cave may spawn north of the cabin. For players wishing to hunt the bear, the cabin can make a good place to cure the bear's guts and hide.
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 

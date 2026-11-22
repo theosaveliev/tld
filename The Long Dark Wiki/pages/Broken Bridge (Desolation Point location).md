@@ -14,6 +14,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Broken Bridge, as its name implies, is destroyed and impassable. It serves as one of the ends of the region.
@@ -23,6 +25,8 @@ A [frozen corpse](./Frozen%20Corpse.md) may be found under the bridge, and a [ca
 From [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md) past this bridge might be [Perseverence Mills](./Perseverance%20Mills.md).
 
 For players who have installed [The Long Development](./The%20Long%20Development.md), this bridge currently serves as accessing point to 1st modded region [Precarious Causeway](./Precarious%20Causeway.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

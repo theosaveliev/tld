@@ -26,6 +26,8 @@ Episode
 
 **The Power Plant** is the third mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) is ordered by [Mathis](./Mathis.md) to travel to the Power Plant and find a way to restore power to solitary.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Head to the Power Plant.
@@ -36,6 +38,8 @@ Episode
   - Find a hammer to smash the machine.
   - Return to Blackrock.
 - Check on the Warden.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -51,6 +55,8 @@ To get to the power plant, follow the powerlines from the jail. If freezing beco
 If following the road, about halfway from Narrow Bridge to the power plant is a trailer, which can be used to warm up if needed.
 
 In a clearing just before the power plant there will be a pack of [timberwolves](./Timberwolf.md). These can be shot or dispersed with [noisemakers](./Noisemaker.md). Once inside the power plant, [Jace](./Jace.md) will call, instructing Will to enter the steam tunnels to access the control room below solitary to sabotage the locks keeping [Donner](./Donner.md) in, so that [Mathis](./Mathis.md) doesn't learn how the locks work.
+
+<span id="steam_puzzle"></span><span id="Steam_Puzzle"></span><span id="steam-puzzle"></span>
 
 ## Steam Puzzle
 

@@ -20,7 +20,7 @@
 
 **Release:** 9 December 2019
 
-**Update:** [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
+**Update:** [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)
 
 **Story item:** No
 
@@ -30,11 +30,15 @@ _For the Work Bench, see [Ammunition Work Bench](./Ammunition%20Work%20Bench.md)
 
 The **Ammunition Forge** is a firebox in _The Long Dark,_ introduced in the Errant Pilgrim update alongside [Bleak Inlet](./Bleak%20Inlet.md). The Forge is used to craft [Bullets](./Bullet.md) for [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition. Use of the Ammunition Forge, Ammunition Work Bench, and [Research Books](./Research%20Book.md) are the only means to increase the [Gunsmithing](./Gunsmithing.md) skill.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Ammunition Forge is the small forge next to the main workstation used for Gunsmithing; it can be found in the [Bleak Inlet](./Bleak%20Inlet.md) and [Blackrock](./Blackrock.md) regions. Use of the Workbench requires light, but the forge itself automatically produces light when a fire is active inside.
 
 In the Bleak Inlet workshop, electrified wires present around the room will be active during an Aurora, and will cause [Burns](./Burns.md) on contact and rapid condition loss.
+
+<span id="craftable_items"></span><span id="Craftable_items"></span><span id="craftable-items"></span>
 
 ## Craftable items
 
@@ -51,6 +55,8 @@ An Ammunition Forge is present to the bottom left of the Work Bench, which must 
 
 Unlike a regular [Forge](./Forge.md), the temperature does not need to be raised above +150 C in order to cast bullets.
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
 
 The Ammunition Workbench is unique across all of [Great Bear Island](./Great%20Bear%20Island.md) to two locations:
@@ -62,7 +68,11 @@ Both workbenches are also accompanied by a [Milling Machine](./Milling%20Machine
 
 The Ammunition Workbenches in both locations are initially sealed away behind electronically-locked doors which can only be opened during an active [Aurora](./Aurora.md), and require an Access Code found on a collectible note left in isolated corners of their respective region. The code for the Workshop in the [Cannery Pier](./Cannery%20Pier.md) in [Bleak Inlet](./Bleak%20Inlet.md) can be found in [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) on the high plateau. The code for the workshop at [Blackrock Penitentiary](./Blackrock%20Prison.md) can be found in the mine at [Last Prospect](./Last%20Prospect.md), in a locker near where the detonators are found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). Once the codes are retrieved and the doors are unlocked during an Aurora, they will remain unlocked and can be opened at any time.
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
+
+<span id="general"></span><span id="General"></span>
 
 ### General
 
@@ -74,6 +84,8 @@ The Ammunition Workbenches in both locations are initially sealed away behind el
 - The Ammunition Furnace attached to the Ammunition Workbench is the only firebox which cannot be used for cooking (possibly due to the danger of ingesting lead). A nearby [Fire Barrel](./Fire%20Barrel.md) inside the Workshop, or one just outside its door may be used instead.
 - The Ammunition Workbench is accessible in Interloper and Custom (with Firearms disabled), but has little use other than crafting [gunpowder](./Can%20of%20Gunpowder.md), which can only be used as an accelerant for campfires due to the lack of firearms. As of Perilous Constraint, the Ammunition Workbench can be used to craft [Noisemakers](./Noisemaker.md), giving it a use in worlds that do not have firearms.
 
+<span id="last_resort_cannery"></span><span id="Last_Resort_Cannery"></span><span id="last-resort-cannery"></span>
+
 ### Last Resort Cannery
 
 - No [Bed](./Bed.md) is present inside in the workshop. It is recommended to bring a [Bedroll](./Bedroll.md) to spend extended periods of time crafting ammunition.
@@ -81,6 +93,8 @@ The Ammunition Workbenches in both locations are initially sealed away behind el
 - Bleak Inlet is very cold and windy with few shelters, natural or artificial. It also has an above-average number of Auroras at night. While its weather is less severe weather than [Pleasant Valley](./Pleasant%20Valley.md), it is comparably cold to [Timberwolf Mountain](./Timberwolf%20Mountain.md) and [Ash Canyon](./Ash%20Canyon.md).
 - Accessing Bleak Inlet can be difficult: requiring either traversing [Forlorn Muskeg](./Forlorn%20Muskeg.md) and a cave, or two [rope climbs](./Mountaineering%20Rope.md) from [The Ravine](./The%20Ravine.md).
 - Accessing the workshop itself requires a short rope climb inside of the complex, which prevents the player from bringing large amounts of crafting materials in one trip.
+
+<span id="blackrock_prison_workshop"></span><span id="Blackrock_Prison_Workshop"></span><span id="blackrock-prison-workshop"></span>
 
 ### Blackrock Prison Workshop
 
@@ -90,9 +104,13 @@ The Ammunition Workbenches in both locations are initially sealed away behind el
 - There are no live wires or wolf inside of the [Blackrock](./Blackrock.md) workshop.
 - There are no mandatory rope climbs to reach the workshop in Blackrock, which means a much larger amount of materials can be brought on a crafting trip.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Both Access Code notes to unlock either workshop door need only to have been read to unlock their respective doors, and do not need to be added to the player's collection (though it has no weight).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -38,6 +38,8 @@
 
 This is the transcript for Chapter 3 [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="theres_a_firewood_bin_outside_grey_mothers_house._stock_it_with_fuel_you_find_around_town____sticks_firewood_broken_down_furniture_or_coal_if_you_can_find_any."></span><span id="There&#x27;s_a_Firewood_Bin_outside_Grey_Mother&#x27;s_house._Stock_it_with_fuel_you_find_around_town_--_Sticks,_Firewood,_broken_down_furniture,_or_Coal_if_you_can_find_any."></span><span id="there&#x27;s_a_firewood_bin_outside_grey_mother&#x27;s_house._stock_it_with_fuel_you_find_around_town_--_sticks,_firewood,_broken_down_furniture,_or_coal_if_you_can_find_any."></span><span id="theres-a-firewood-bin-outside-grey-mothers-house-stock-it-with-fuel-you-find-around-town----sticks-firewood-broken-down-furniture-or-coal-if-you-can-find-any"></span>
+
 ## There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.
 
 CHAPTER THREE
@@ -54,6 +56,8 @@ Containers
 > — What I Know description
 
 _Mackenzie walks inside and triggers a cutscene_
+
+<span id="rd_person_cutscene"></span><span id="3rd_Person_Cutscene"></span><span id="3rd_person_cutscene"></span><span id="3rd-person-cutscene"></span>
 
 ### 3Rd Person Cutscene
 
@@ -191,11 +195,15 @@ Mackenzie **(Text)**: "I don't understand..."
 
 Grey Mother **(Text)**: "You'll understand when you find it."
 
+<span id="grey_mother_will_starve_unless_you_stock_her_pantry_with_food._scavenge_what_you_can_from_the_environment_around_you._some_food_sources_are_easier_to_find_than_others."></span><span id="Grey_Mother_will_starve_unless_you_stock_her_pantry_with_food._Scavenge_what_you_can_from_the_environment_around_you._Some_food_sources_are_easier_to_find_than_others."></span><span id="grey-mother-will-starve-unless-you-stock-her-pantry-with-food-scavenge-what-you-can-from-the-environment-around-you-some-food-sources-are-easier-to-find-than-others"></span>
+
 ## Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.
 
 _This objective is a very quiet one like the firewood objective. Once the player gathers enough food, they must speak to Grey Mother. There are 4 different responses depending on whether or not the player breaks into the [Orca Gas Station](./Orca%20Gas%20Station.md) (even if they do not steal anything). Grey Mother will somehow know the weight of your honesty depending on how you get her food_
 
 Grey Mother **(Text)**: "So, tell me Mainlander. Did you do what I asked? Did you ransack the gas station? Did you clean them out?"
+
+<span id="stole_from_the_gas_station"></span><span id="Stole_from_the_Gas_Station"></span><span id="stole-from-the-gas-station"></span>
 
 ### Stole from the Gas Station
 
@@ -211,6 +219,8 @@ Mackenzie **(Text)**: "I did. I feel bad about taking other people's stuff but r
 
 Grey Mother **(Text)**: "Might makes right, huh, Mainlander? You might just have what it takes to survive this long Winter after all."
 
+<span id="did_not_steal_from_the_gas_station"></span><span id="Did_not_steal_from_the_Gas_Station"></span><span id="did-not-steal-from-the-gas-station"></span>
+
 ### Did not steal from the Gas Station
 
 - NO, I DIDN'T (TRUTH)
@@ -224,6 +234,8 @@ Grey Mother **(Text)**: "Well...I...guess I misjudged you, Mainlander. Over the 
 Mackenzie **(Text)**: "I did like you asked me. I took whatever I could find. If the situation is as bad as you said, it's everyone for themselves."
 
 Grey Mother **(Text)**: "Your words are harsh but there's no heart behind them. You're a kinder soul than I would have believed, Mainlander."
+
+<span id="rd_person_cutscene_1"></span><span id="3rd-person-cutscene-1"></span>
 
 ### 3Rd Person Cutscene
 
@@ -245,6 +257,8 @@ Mackenzie: "Why didn't anyone help [her](./Astrid%20Greenwood.md)?
 
 Grey Mother: "Yes, why didn't they? They should have! They should have found [her](./Lilith%20Barker.md) before it was too late."
 
+<span id="grey_mother_seems_tired._try_talking_to_her_after_shes_had_some_time_to_rest."></span><span id="Grey_Mother_seems_tired._Try_Talking_to_her_after_she&#x27;s_had_some_time_to_rest."></span><span id="grey_mother_seems_tired._try_talking_to_her_after_she&#x27;s_had_some_time_to_rest."></span><span id="grey-mother-seems-tired-try-talking-to-her-after-shes-had-some-time-to-rest"></span>
+
 ## Grey Mother seems tired. Try Talking to her after she's had some time to rest.
 
 _The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears. Talking to her gives more dialogue_
@@ -254,6 +268,8 @@ _The cutscene ends as the player stands over Grey Mother. The message "GREY MOTH
 Grey Mother **(Text)**: "Not now, Mainlander. Leave me to my thoughts for awhile."
 
 _After sleeping or exploring for several hours, Mackenzie returns to Grey Mother_
+
+<span id="rd_person_cutscene_2"></span><span id="3rd-person-cutscene-2"></span>
 
 ### 3Rd Person Cutscene
 
@@ -303,6 +319,8 @@ Mackenzie **(Text)**: "Uhh...thanks."
 
 _A [Metal Pot](./Metal%20Pot.md) with some [Home-made Soup](./Home-made%20Soup.md) is near the fireplace. A single green cup is available for the taking_
 
+<span id="investigate_the_tunnels_leading_out_of_milton._grey_mother_wants_to_know_what_happened_there."></span><span id="Investigate_the_tunnels_leading_out_of_Milton._Grey_Mother_wants_to_know_what_happened_there."></span><span id="investigate-the-tunnels-leading-out-of-milton-grey-mother-wants-to-know-what-happened-there"></span>
+
 ## Investigate the tunnels leading out of Milton. Grey Mother wants to know what happened there.
 
 _Mackenzie travels to the tunnel, and a cutscene plays as Mackenzie finds a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) with a dead convict on the ground. He spots a piece of Astrid's scarf and rips it out of the back right window. He then uses his parka to rub the frost off the back door window and peers inside. The camera changes to show the inside, with a message written in blood on the floor: PERSERVERANCE_
@@ -332,6 +350,8 @@ _The scene changes to show the Fireplace_
 Grey Mother: "Grey Mother is tired now. Let her rest for a while..."
 
 _The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears._
+
+<span id="grey_mother_seems_deep_in_thought._return_to_her_once_shes_rested_a_while."></span><span id="Grey_Mother_seems_deep_in_thought._Return_to_her_once_she&#x27;s_rested_a_while."></span><span id="grey_mother_seems_deep_in_thought._return_to_her_once_she&#x27;s_rested_a_while."></span><span id="grey-mother-seems-deep-in-thought-return-to-her-once-shes-rested-a-while"></span>
 
 ## Grey Mother seems deep in thought. Return to her once she's rested a while.
 
@@ -431,7 +451,11 @@ Grey Mother **(Text)**: "You ask questions when you should be finding answers. N
 
 Mackenzie **(Text)**: "I'll see what I can find."
 
+<span id="something_precious_was_stolen_from_grey_mother._find_it_and_return_it_to_her."></span><span id="Something_precious_was_stolen_from_Grey_Mother._Find_it,_and_return_it_to_her."></span><span id="something_precious_was_stolen_from_grey_mother._find_it,_and_return_it_to_her."></span><span id="something-precious-was-stolen-from-grey-mother-find-it-and-return-it-to-her"></span>
+
 ## Something precious was stolen from Grey Mother. Find it, and return it to her.
+
+<span id="search_the_milton_farmhouse_for_a_safety_deposit_box_key."></span><span id="Search_the_Milton_Farmhouse_for_a_Safety_Deposit_Box_Key."></span><span id="search-the-milton-farmhouse-for-a-safety-deposit-box-key"></span>
 
 ### Search the Milton Farmhouse for a Safety Deposit Box Key.
 
@@ -461,6 +485,8 @@ _The [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) is found 
 Mackenzie: "The old lady said the key was here somewhere."
 
 _After some snooping, Mackenzie finds the key hidden in an [Urn](./Urn.md)_
+
+<span id="retrieve_the_contents_of_the_safety_deposit_box_and_return_it_to_grey_mother."></span><span id="Retrieve_the_contents_of_the_Safety_Deposit_Box_and_return_it_to_Grey_Mother."></span><span id="retrieve-the-contents-of-the-safety-deposit-box-and-return-it-to-grey-mother"></span>
 
 ### Retrieve the contents of the Safety Deposit Box and return it to Grey Mother.
 
@@ -552,6 +578,8 @@ Grey Mother **(Text)**: "And so it ends."
 
 Mackenzie **(Text)**: "Ok...this better help me find my friend..."
 
+<span id="find_lilys_grave_marker_and_pay_service_to_her_memory."></span><span id="Find_Lily&#x27;s_grave_marker_and_pay_service_to_her_memory."></span><span id="find_lily&#x27;s_grave_marker_and_pay_service_to_her_memory."></span><span id="find-lilys-grave-marker-and-pay-service-to-her-memory"></span>
+
 ## Find Lily's grave marker and pay service to her memory.
 
 _Mackenzie travels to the [Graveyard](./Graveyard.md) near the church and a cutscene plays. Mackenzie stands before a tombstone with Grey Mother's Pearls, then kneels down on one knee and rubs the face iff to clean it. He then places the pearls on top of the tombstone. The camera pans around to show the name on the tombstone, Lilith Barker._
@@ -609,6 +637,8 @@ Grey Mother **(Text)**: "Leave me, Outsider. Your fate in this world is no longe
 _Mackenzie then goes upstairs and unlocks Lily's Trunk with the key, and takes the contents. The mission ends afterwards_
 
 The story continues in [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md).
+
+<span id="grey_mothers_trust"></span><span id="Grey_Mother&#x27;s_Trust"></span><span id="grey_mother&#x27;s_trust"></span><span id="grey-mothers-trust"></span>
 
 ## Grey Mother's Trust
 

@@ -36,11 +36,15 @@
 
 **Thermal Underwear** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Light and a relatively common starting item, they offer a small warmth bonus and are inferior to the [Wool Longjohns](./Wool%20Longjohns.md) (the only other Inner Legs clothing).
 
 Thermal Underwear are the only available Inner Legs clothing in Interloper mode.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -49,6 +53,8 @@ Thermal Underwear are the only available Inner Legs clothing in Interloper mode.
 ![Clothing model icon](../assets/Thermal_Underwear_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Thermal_Underwear_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

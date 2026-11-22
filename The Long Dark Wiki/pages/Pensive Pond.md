@@ -18,6 +18,8 @@
 
 Provides some shelter **Pensive Pond** is a small recreational pond in the hills of [Pleasant Valley](./Pleasant%20Valley.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Picnickers can enjoy canoeing and, when sunny, sit under the gazebo. A [hut](./Fishing%20Hut.md) with a [fishing hole](./Ice%20Fishing.md) and [pot-belly stove](./Pot%20Belly%20Stove.md) sits at the center of the pond. Importantly, the fishing hut also has a door, making it a decent temporary shelter. For players with sufficiently-warm [clothing](./Clothing.md) and a [bedroll](./Bedroll.md), the hut's relatively easy access to animals and firewood means it could serve as a base for multi-day [hunting](./Hunting.md) &amp; fishing "retreats" to fight [cabin fever](./Cabin%20Fever.md).
@@ -25,6 +27,8 @@ Picnickers can enjoy canoeing and, when sunny, sit under the gazebo. A [hut](./F
 Be careful of the surrounding cliffs and prowling predators in low-visibility conditions. There's a chance of the [revolver](./Revolver.md) spawning inside the fishing hut.
 
 A [Cougar](./Cougar.md) spawns just east of here, which can pose a danger to players carrying large amounts of freshly-caught fish back to their main base. However, brave players may choose to try hunting the Cougar, using the fishing hut for protection.
+
+<span id="location"></span><span id="Location"></span>
 
 ## Location
 

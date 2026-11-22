@@ -1,14 +1,18 @@
 # Computer
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
 
 ![A computer during the aurora](../assets/Maxresdefault.png)_A computer during the aurora_ **Computers** are stationary objects in The Long Dark. Un-interactable under normal circumstances, but during an [Aurora](./Aurora.md) their display will sometimes illuminate to show the contents of a recently closed log/diary, as a nod to the civilization on Great Bear before the lights.
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
 While traveling in your game, you might stumble upon a laptop or desktop computer. Although sometimes the position that they've been placed in is rather annoying, and they cannot be moved, picked up, or used in any way unless an aurora is active,
 
 Laptops and computers are still a valid piece of backstory to the Long Dark, and can be used to collect [Buffer Memories](./Buffer%20Memories.md) during an aurora. They also play a large role in the [Archivist](./Archivist.md) challenge.
+
+<span id="aurora"></span><span id="Aurora"></span>
 
 ## Aurora
 
@@ -19,6 +23,8 @@ During an Aurora, some of these computers will flash on to display a message, ca
 ![Cave laptop](../assets/Cave_laptop.jpg)
 
 ![Buffer memories](../assets/Buffer-memories.gif)
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

@@ -45,11 +45,15 @@
 
 The **Expedition Parka** is a type of clothing in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Expedition Parkas are rare, warm and very lightweight clothing. It offers a warmth bonus of 4.0 °C and windproof bonus of 6.0 °C, with a small mobility penalty, protection bonus, and 50% waterproofing, all while weighing only 1.5 kg. The [Wolfskin Coat](./Wolfskin%20Coat.md) offers the same warmth bonus, a much bigger protection bonus, and slightly better waterproofing, however it is twice the weight of the Parka, offers less wind proofing, and has a much higher mobility penalty. The [Bearskin Coat](./Bearskin%20Coat.md) offers more warmth, waterproofing, and protection, but weighs 5 kg, and has a high mobility penalty. This makes the Expedition Parka not only the best man-made coat in the game, but arguably the best coat in the game as well, due to its well-rounded stats.
 
 The Expedition Parka is unavailable in [Interloper](./Interloper.md) mode.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ### Locations
 
@@ -61,6 +65,8 @@ The Expedition Parka is also known to spawn in the cabin of the first blue picku
 
 It can also spawn in the train car in the abandoned passenger rail car in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Expedition_parka_%28historical%29.png)
@@ -68,6 +74,8 @@ It can also spawn in the train car in the abandoned passenger rail car in the [F
 ![Clothing model icon](../assets/Expedition_Parka_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Expedition_Parka_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

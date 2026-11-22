@@ -118,13 +118,17 @@ _For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archi
 
 _For the early access changelog (pre-v1.00), see [The Long Dark/Early Access Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
+<span id="current_versions"></span><span id="Current_Versions"></span><span id="current-versions"></span>
+
 ## Current Versions
+
+<span id="version_2.59"></span><span id="Version_2.59"></span><span id="version-259"></span><span id="2.59"></span>
 
 ### Version 2.59
 
 Emergency Hotfix
 
-THE LONG DARK - IRON ROAD UPDATED TO VERSION 2.59 - PRIORITY FIXES[¹](#fn1)
+THE LONG DARK - IRON ROAD UPDATED TO VERSION 2.59 - PRIORITY FIXES<span id="fnref1"></span>[¹](#fn1)
 
 Steam
 
@@ -164,21 +168,27 @@ This Update includes fixes for the following issues:
 
 - Fixed an issue that resulted in snow footstep sound effects while walking inside Train Repair Depots.
 
+<span id="past_versions"></span><span id="Past_Versions"></span><span id="past-versions"></span>
+
 ## Past Versions
+
+<span id="version_2.58_iron_road_part_one"></span><span id="Version_2.58_(Iron_Road_Part_One)"></span><span id="version_2.58_(iron_road_part_one)"></span><span id="version-258-iron-road-part-one"></span><span id="2.58"></span>
 
 ### Version 2.58 (Iron Road Part One)
 
 October 27, 2026: Update to support launch of [Iron Road](./Iron%20Road.md) Early Access (Steam only). Features Anna Island release.
 
+<span id="version_2.55"></span><span id="Version_2.55"></span><span id="version-255"></span><span id="2.55"></span>
+
 ### Version 2.55
 
-Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54)[²](#fn2)
+Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54)<span id="fnref2"></span>[²](#fn2)
 
 Steam
 
-\[UPDATED: Now available on Steam, Epic Games Store, GoG, and WeGame\]
+[UPDATED: Now available on Steam, Epic Games Store, GoG, and WeGame]
 
-\[UPDATED: Now available on Xbox, and PlayStation\]
+[UPDATED: Now available on Xbox, and PlayStation]
 
 Hello players,
 
@@ -205,44 +215,44 @@ This Update includes fixes for the following issues:
 CRASHES
 
 - Fixed an issue that could result in a crash when a timer was invoked by a Mission objective.
-- \[Perseverance Mills\] Fixed an issue that could cause a crash if a manual save was created just prior to receiving the "To Those Who Are Missing" Mission.
-- \[SAR Mission\] Fixed an issue that could result in a crash when entering the Train with HUD settings turned "Off".
-- \[Blackrock Foothills\] Fixed an issue that could result in a crash during the Cable Car hand-over-hand section.
+- [Perseverance Mills] Fixed an issue that could cause a crash if a manual save was created just prior to receiving the "To Those Who Are Missing" Mission.
+- [SAR Mission] Fixed an issue that could result in a crash when entering the Train with HUD settings turned "Off".
+- [Blackrock Foothills] Fixed an issue that could result in a crash during the Cable Car hand-over-hand section.
 - Fixed a rare issue that could cause a crash if players opened their Journal in specific circumstances.
 - Fixed a hang when loading an Episode One to Four save file from a death screen in Episode Five.
 
 GAMEPLAY, UI, CONTROLS
 
 - Survival - Fixed an issue where bloody hands from Harvesting persisted between save games and could only be cleared by exiting the application entirely. The Survivor's hands will now be cleaned off after Harvesting is complete.
-- \[Blackrock Foothills\] Fixed an issue where Cable Car closed captions were running in conjunction with the cinematics during that section, when the cinematic dialogue should take priority.
-- \[Conflagration\] Fixed an issue that allowed players to interact with and enter burning Vehicles.
-- \[Conflagration\] Fixed an issue where loading a save file made after conducting a takedown on a convict during "Conflagration", would result in that convict returning to a standing position.
-- \[Cargo Ship\] Fixed an issue where the Medical Log would remain floating mid-air after interacting with it on the Cargo Ship.
-- \[Cargo Ship\] Improved performance during the Cargo Ship sections
-- \[Cargo Ship\] Fixed an issue where reloading any save while in the Cargo Ship would result in the Locker Key disappearing.
-- \[Geothermal Mission\] Fixed an issue that resulted in a soft-locked state if a player loaded the checkpoint created near the end of the Geothermal section.
-- \[Geothermal Mission\] Fixed an issue where the Aurora was not active as intended after returning from the Geothermal section.
-- \[Geothermal Mission\] Reduced the amount of Shotgun Ammo during the Geothermal section to make it appear less frequently.
-- \[Geothermal Mission\] Updated the Shotgun muzzle flash and shell ejection smoke.
-- \[High Energy\] Fixed an issue that could result in the gate to Perseverance Mills being locked after loading an autosave made once "Atwood's Story" cinematic has completed.
-- \[High Energy\] Fixed an issue that resulted in a soft-locked state if a player loaded the checkpoint created after delivering the "Wintermute" message to Dr. Atwood.
-- \[High Energy\] Fixed an issue where a closed caption was missing from Mackenzie’s pained screaming during the Tuner section.
-- \[High Energy\] Fixed an issue that could prevent the player from progressing in the game if they loaded the checkpoint after their first conversation with Dr. Atwood.
-- \[High Energy\] Fixed an issue that could cause Dr. Atwood to close the Suzuki Radio Telescope Facility door on Mackenzie if he took too long to enter. The door could still be opened, but could be confusing.
-- \[High Energy\] Fixed an issue that caused the Suzuki Radio Telescope icon to have no name when not the current objective location.
-- \[High Energy\] Fixed an issue where the map marker for "Get Ready for the Geothermal Substations Mission" referenced the incorrect objective.
-- \[High Energy\] Fixed an issue where the "Get Ready for the Geothermal Substations Mission" objective would not progress after entering the Supply Room.
-- \[Mine Mission\] Fixed a very rare issue that could prevent Jace from acting if an autosave occurred during one of her voice lines.
-- \[Mine Mission\] Fixed an issue where Jace could fall into a pit if the player purposefully blocked her movement in certain sections of the Mine.
-- \[Mine Mission\] Fixed an issue where the Bolt Cutters would not appear in the Collections Journal after picking them up in the Mine section.
-- \[Perseverance Mills\] Updated the "second broken bridge" for visual clarity showing that it can be crossed in one direction.
-- \[Perseverance Mills\] Fixed an issue where players could interact and enter broken Vehicles in Perseverance Mills.
-- \[Perseverance Mills\] Fixed an issue that could result in players never receiving the "Those Who Are Missing" mission if they manually saved the game just after completing the "Perseverance" Mission.
-- \[Perseverance Mills\] Fixed an issue that caused two of Jane's closed captions to be swapped.
-- \[Perseverance Mills\] Updated map markers to accommodate for cases where players complete "Perseverance" Mission objectives in a specific order.
-- \[Perseverance Mills\] Fixed an issue that caused an incorrect map marker on the Constable's Office when reloading a save made after completing that section of "Perseverance".
-- \[Perseverance Mills\] Improved performance during Perseverance Wilds sections.
-- \[SAR Mission\] Increased the amount of Matches spawned in the "To SAR and Back" Mission.
+- [Blackrock Foothills] Fixed an issue where Cable Car closed captions were running in conjunction with the cinematics during that section, when the cinematic dialogue should take priority.
+- [Conflagration] Fixed an issue that allowed players to interact with and enter burning Vehicles.
+- [Conflagration] Fixed an issue where loading a save file made after conducting a takedown on a convict during "Conflagration", would result in that convict returning to a standing position.
+- [Cargo Ship] Fixed an issue where the Medical Log would remain floating mid-air after interacting with it on the Cargo Ship.
+- [Cargo Ship] Improved performance during the Cargo Ship sections
+- [Cargo Ship] Fixed an issue where reloading any save while in the Cargo Ship would result in the Locker Key disappearing.
+- [Geothermal Mission] Fixed an issue that resulted in a soft-locked state if a player loaded the checkpoint created near the end of the Geothermal section.
+- [Geothermal Mission] Fixed an issue where the Aurora was not active as intended after returning from the Geothermal section.
+- [Geothermal Mission] Reduced the amount of Shotgun Ammo during the Geothermal section to make it appear less frequently.
+- [Geothermal Mission] Updated the Shotgun muzzle flash and shell ejection smoke.
+- [High Energy] Fixed an issue that could result in the gate to Perseverance Mills being locked after loading an autosave made once "Atwood's Story" cinematic has completed.
+- [High Energy] Fixed an issue that resulted in a soft-locked state if a player loaded the checkpoint created after delivering the "Wintermute" message to Dr. Atwood.
+- [High Energy] Fixed an issue where a closed caption was missing from Mackenzie’s pained screaming during the Tuner section.
+- [High Energy] Fixed an issue that could prevent the player from progressing in the game if they loaded the checkpoint after their first conversation with Dr. Atwood.
+- [High Energy] Fixed an issue that could cause Dr. Atwood to close the Suzuki Radio Telescope Facility door on Mackenzie if he took too long to enter. The door could still be opened, but could be confusing.
+- [High Energy] Fixed an issue that caused the Suzuki Radio Telescope icon to have no name when not the current objective location.
+- [High Energy] Fixed an issue where the map marker for "Get Ready for the Geothermal Substations Mission" referenced the incorrect objective.
+- [High Energy] Fixed an issue where the "Get Ready for the Geothermal Substations Mission" objective would not progress after entering the Supply Room.
+- [Mine Mission] Fixed a very rare issue that could prevent Jace from acting if an autosave occurred during one of her voice lines.
+- [Mine Mission] Fixed an issue where Jace could fall into a pit if the player purposefully blocked her movement in certain sections of the Mine.
+- [Mine Mission] Fixed an issue where the Bolt Cutters would not appear in the Collections Journal after picking them up in the Mine section.
+- [Perseverance Mills] Updated the "second broken bridge" for visual clarity showing that it can be crossed in one direction.
+- [Perseverance Mills] Fixed an issue where players could interact and enter broken Vehicles in Perseverance Mills.
+- [Perseverance Mills] Fixed an issue that could result in players never receiving the "Those Who Are Missing" mission if they manually saved the game just after completing the "Perseverance" Mission.
+- [Perseverance Mills] Fixed an issue that caused two of Jane's closed captions to be swapped.
+- [Perseverance Mills] Updated map markers to accommodate for cases where players complete "Perseverance" Mission objectives in a specific order.
+- [Perseverance Mills] Fixed an issue that caused an incorrect map marker on the Constable's Office when reloading a save made after completing that section of "Perseverance".
+- [Perseverance Mills] Improved performance during Perseverance Wilds sections.
+- [SAR Mission] Increased the amount of Matches spawned in the "To SAR and Back" Mission.
 - Fixed an issue where the Side Mission menu tab could be opened, though no Side Missions exist.
 - Fixed multiple issues where map markers would not update appropriately at certain points during the story.
 - Added entries to the "People and Places" section of the player Journal specific to Episode Five.
@@ -306,11 +316,13 @@ PLATFORM-SPECIFIC
 - Steam Deck - Fixed an issue that caused the Mission Panel Log to close, rather than return to the previous menu, when pressing the back button on a controller or handheld device such as the Steam Deck.
 - PlayStation - Fixed an issue that caused the Main Menu background music play mid-song, rather from the start, when transitioning to the WINTERMUTE main menu.
 
+<span id="version_2.54"></span><span id="Version_2.54"></span><span id="version-254"></span><span id="2.54"></span>
+
 ### Version 2.54
 
-Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.23)[³](#fn3)
+Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.23)<span id="fnref3"></span>[³](#fn3)
 
-Steam \[UPDATED: Now available on Steam, Xbox One &amp; Series X/S, PlayStation 4 &amp; 5, EGS, GoG\]
+Steam [UPDATED: Now available on Steam, Xbox One &amp; Series X/S, PlayStation 4 &amp; 5, EGS, GoG]
 
 Hello players,
 
@@ -339,50 +351,50 @@ This Update includes fixes for the following issues:
 CRASHES
 
 - Fixed an issue that could cause a crash when saving the game just after finding the missing bodies in the "To Those Who Are Missing" Mission.
-- \[Perseverance Mills\] Fixed an issue that could result in a potential hang when exiting the Constable's Office.
+- [Perseverance Mills] Fixed an issue that could result in a potential hang when exiting the Constable's Office.
 - Fixed an issue that could cause a crash if the player opened their Journal after loading the autosave created after Dr. Atwood explains the origins of "Wintermute".
 - Fixed an issue that could cause a crash when shooting a "near miss" on a charging Cougar.
 
 GAMEPLAY, UI, CONTROLS
 
-- \[Blackrock Foothills\] Fixed an issue that allowed players to skip to the Cable Car section earlier than intended.
-- \[Blackrock Foothills\] Fixed an issue that could cause the player to die suddenly during the Cable Car section if they held "forward" during the cinematic where Mackenzie is shot.
-- \[Blackrock Foothills\] Fixed an issue where captions were missing from the convicts during the Cable Car section.
-- \[Blackrock Foothills\] Fixed an issue where the Cable Cars Map icon was still set as the current Mission objective after having completed that section.
-- \[Blackrock Foothills\] Fixed an issue where captions were missing from the convicts in both encounters leading up to the Cable Car section.
-- \[Cargo Ship Mission\] Improved the ice maze by adding visual breadcrumbs to better indicate where the player is intended to go.
-- \[Cargo Ship Mission\] Fixed an issue where the Locker Key found inside the Cargo Ship showed an incorrect description.
-- \[Cargo Ship Mission\] Fixed an issue in Desperation Bay where a visually safe path results in the player falling into frigid waters.
-- \[Cargo Ship\] Fixed an issue that allowed players to navigate off the Cargo Ship and enter the subsequent cinematic before they are intended to.
-- \[Cargo Ship\] Fixed an issue that allowed players to pass time during the Cargo Ship sequence.
-- \[Cargo Ship\] Fixed an issue in the Cargo Ship that could cause all terrain to disappear if the player moved to a specific spot, located slightly out of bounds.
-- \[Geothermal Mission\] Fixed an issue that caused the mission timer to refresh upon loading a save during the High Energy Mission.
-- \[Geothermal Mission\] Fixed an issue that caused the Shotgun to be inaccurate.
-- \[Mine Mission\] Fixed an issue in the Abandoned Mine where multiple Crank Lamps, Flares, and Torches could spawn in the same location where only one was intended to be.
-- \[Mine Mission\] Fixed an issue where the Crank Lamp could not be equipped via the Light Source hotkey.
-- \[Mine Mission\] Fixed an issue where loading a save after pushing planks over to create a makeshift bridge in the Abandoned Mine would revert the planks and allow players to push them over once again.
-- \[Mine Mission\] Fixed an issue where captions were missing from two lines spoken by Mackenzie during the Abandoned Mine section.
-- \[Mine Mission\] Fixed an issue where Jace could fall underground and be lost forever during a tremor event in the Abandoned Mine.
-- \[Mine Mission\] Fixed an issue that caused Mission objectives to fail to update after exiting the Abandoned Mine and approaching the Suzuki Radio Telescope.
-- \[Mine Mission\] Fixed an issue that allowed the player to interact with the Crane in the Abandoned Mine once again after Saving/Loading.
-- \[Mine Mission\] Fixed an issue that could cause the player to die suddenly in the Abandoned Mine when opening the blast door if they held "forward" while doing so.
-- \[Perseverance Mills\] Adjusted the "Morgue Key" and associated note to be picked up simultaneously in order to reduce confusion about the failure to progress mission objectives when only one of these items were collected.
-- \[Perseverance Mills\] Fixed an issue where bar patrons would repeat the same conversation about character disappearances each time the player entered Cooper's Blind during the "A Cry For Help" Mission.
-- \[Perseverance Wilds\] Fixed an issue where passing time or sleeping while trying to unlock the "Search Party" achievement could result in it not being granted correctly.
-- \[Perseverance Wilds Mission\] Fixed an issue in Perseverance Wilds where a player could stand under a running waterfall without becoming wet.
-- \[SAR Mission\] Fixed an issue where the player could exit the Train on a bridge, ending up in the river below and causing a soft-lock.
-- \[SAR Mission\] Fixed an issue where the camera could slip outside the cab of the Train when slowing and reversing, even if the player remained embarked.
-- \[SAR Mission\] Fixed an issue that allowed the player to access and utilize the Radial Menu while speaking to Heller.
-- \[SAR Mission\] Fixed an issue where the Train UI would appear when entering or exiting a Trailer in the SAR region.
-- \[SAR Mission\] Fixed an issue where the inventory image for the Train Lever and Trauma Kit were not accurate to their in-world look.
-- \[Suzuki Station\] Fixed an issue where the Checkpoint save created after Atwood's Wintermute cinematic incorrectly loaded the player into the locked Control Room, soft-locking their progress.
-- \[Suzuki Station\] Fixed an issue that resulted in an incorrect previous map objective leading players back into the Geothermal region after the Tuner section, rather than towards Perseverance Mills.
-- \[Suzuki Station\] Fixed an issue where some walls and floor went missing in the Suzuki Radio Telescope interior after completing the "High Energy" mission, allowing players to fall through the ground and potentially become soft-locked.
-- \[Suzuki Station\] Fixed an issue where Jace appears at the Suzuki Radio Telescope entry upon exiting the Abandoned Mine rather than walking there with the player.
-- \[Suzuki Station\] Fixed an issue where setting a Tuner Wheel, letting go, and then grabbing it again would result in the player becoming soft-locked, unable to let the wheel go again.
-- \[Suzuki Station\] Fixed an issue where the sleep sequence in the Suzuki Radio Telescope Facility would not restore Mackenzie to full Condition, resulting in some cases where a player could become soft-locked if they were badly injured after exiting the Abandoned Mine.
-- \[Conflagration\] Fixed an issue during the Conflagration Mission that allowed the player to return to town and replay the previous Mission, resulting in a soft-lock.
-- \[Conflagration\] Fixed an issue that incorrectly allowed players to enter the Clinic during the Conflagration Mission.
+- [Blackrock Foothills] Fixed an issue that allowed players to skip to the Cable Car section earlier than intended.
+- [Blackrock Foothills] Fixed an issue that could cause the player to die suddenly during the Cable Car section if they held "forward" during the cinematic where Mackenzie is shot.
+- [Blackrock Foothills] Fixed an issue where captions were missing from the convicts during the Cable Car section.
+- [Blackrock Foothills] Fixed an issue where the Cable Cars Map icon was still set as the current Mission objective after having completed that section.
+- [Blackrock Foothills] Fixed an issue where captions were missing from the convicts in both encounters leading up to the Cable Car section.
+- [Cargo Ship Mission] Improved the ice maze by adding visual breadcrumbs to better indicate where the player is intended to go.
+- [Cargo Ship Mission] Fixed an issue where the Locker Key found inside the Cargo Ship showed an incorrect description.
+- [Cargo Ship Mission] Fixed an issue in Desperation Bay where a visually safe path results in the player falling into frigid waters.
+- [Cargo Ship] Fixed an issue that allowed players to navigate off the Cargo Ship and enter the subsequent cinematic before they are intended to.
+- [Cargo Ship] Fixed an issue that allowed players to pass time during the Cargo Ship sequence.
+- [Cargo Ship] Fixed an issue in the Cargo Ship that could cause all terrain to disappear if the player moved to a specific spot, located slightly out of bounds.
+- [Geothermal Mission] Fixed an issue that caused the mission timer to refresh upon loading a save during the High Energy Mission.
+- [Geothermal Mission] Fixed an issue that caused the Shotgun to be inaccurate.
+- [Mine Mission] Fixed an issue in the Abandoned Mine where multiple Crank Lamps, Flares, and Torches could spawn in the same location where only one was intended to be.
+- [Mine Mission] Fixed an issue where the Crank Lamp could not be equipped via the Light Source hotkey.
+- [Mine Mission] Fixed an issue where loading a save after pushing planks over to create a makeshift bridge in the Abandoned Mine would revert the planks and allow players to push them over once again.
+- [Mine Mission] Fixed an issue where captions were missing from two lines spoken by Mackenzie during the Abandoned Mine section.
+- [Mine Mission] Fixed an issue where Jace could fall underground and be lost forever during a tremor event in the Abandoned Mine.
+- [Mine Mission] Fixed an issue that caused Mission objectives to fail to update after exiting the Abandoned Mine and approaching the Suzuki Radio Telescope.
+- [Mine Mission] Fixed an issue that allowed the player to interact with the Crane in the Abandoned Mine once again after Saving/Loading.
+- [Mine Mission] Fixed an issue that could cause the player to die suddenly in the Abandoned Mine when opening the blast door if they held "forward" while doing so.
+- [Perseverance Mills] Adjusted the "Morgue Key" and associated note to be picked up simultaneously in order to reduce confusion about the failure to progress mission objectives when only one of these items were collected.
+- [Perseverance Mills] Fixed an issue where bar patrons would repeat the same conversation about character disappearances each time the player entered Cooper's Blind during the "A Cry For Help" Mission.
+- [Perseverance Wilds] Fixed an issue where passing time or sleeping while trying to unlock the "Search Party" achievement could result in it not being granted correctly.
+- [Perseverance Wilds Mission] Fixed an issue in Perseverance Wilds where a player could stand under a running waterfall without becoming wet.
+- [SAR Mission] Fixed an issue where the player could exit the Train on a bridge, ending up in the river below and causing a soft-lock.
+- [SAR Mission] Fixed an issue where the camera could slip outside the cab of the Train when slowing and reversing, even if the player remained embarked.
+- [SAR Mission] Fixed an issue that allowed the player to access and utilize the Radial Menu while speaking to Heller.
+- [SAR Mission] Fixed an issue where the Train UI would appear when entering or exiting a Trailer in the SAR region.
+- [SAR Mission] Fixed an issue where the inventory image for the Train Lever and Trauma Kit were not accurate to their in-world look.
+- [Suzuki Station] Fixed an issue where the Checkpoint save created after Atwood's Wintermute cinematic incorrectly loaded the player into the locked Control Room, soft-locking their progress.
+- [Suzuki Station] Fixed an issue that resulted in an incorrect previous map objective leading players back into the Geothermal region after the Tuner section, rather than towards Perseverance Mills.
+- [Suzuki Station] Fixed an issue where some walls and floor went missing in the Suzuki Radio Telescope interior after completing the "High Energy" mission, allowing players to fall through the ground and potentially become soft-locked.
+- [Suzuki Station] Fixed an issue where Jace appears at the Suzuki Radio Telescope entry upon exiting the Abandoned Mine rather than walking there with the player.
+- [Suzuki Station] Fixed an issue where setting a Tuner Wheel, letting go, and then grabbing it again would result in the player becoming soft-locked, unable to let the wheel go again.
+- [Suzuki Station] Fixed an issue where the sleep sequence in the Suzuki Radio Telescope Facility would not restore Mackenzie to full Condition, resulting in some cases where a player could become soft-locked if they were badly injured after exiting the Abandoned Mine.
+- [Conflagration] Fixed an issue during the Conflagration Mission that allowed the player to return to town and replay the previous Mission, resulting in a soft-lock.
+- [Conflagration] Fixed an issue that incorrectly allowed players to enter the Clinic during the Conflagration Mission.
 - Fixed an issue that resulted in random, unintended items from spawning in some Containers.
 - Fixed multiple issues that resulted in Episode key art being visually incorrect in the Load Game menu.
 - Fixed an issue where the description of Episode Five was partially hidden in the Episode Select menu.
@@ -502,9 +514,11 @@ PLATFORM-SPECIFIC
 
 - Xbox Series - Fixed an issue that caused shadows along roads to appear square.
 
+<span id="version_2.52"></span><span id="Version_2.52"></span><span id="version-252"></span><span id="2.52"></span>
+
 ### Version 2.52
 
-THE LONG DARK - EPISODE FIVE UPDATE (SURVIVAL/TALES v 2.52, WINTERMUTE v 2.22)[⁴](#fn4)
+THE LONG DARK - EPISODE FIVE UPDATE (SURVIVAL/TALES v 2.52, WINTERMUTE v 2.22)<span id="fnref4"></span>[⁴](#fn4)
 
 Steam, Epic Games Store, GOG, WeGame, Xbox, and PlayStation
 
@@ -540,11 +554,13 @@ CRASHES
 - PS4 - Fixed an issue that could cause a crash when dropping a gear item to the ground near open water.
 - PC/Xbox App - Fixed an issue that could result in an indefinite loading screen when launching the application.
 
+<span id="version_2.51"></span><span id="Version_2.51"></span><span id="version-251"></span><span id="2.51"></span>
+
 ### Version 2.51
 
 Hotfix
 
-THE LONG DARK - UPDATE (SURVIVAL/TALES v 2.51, WINTERMUTE v 2.20)[⁵](#fn5)
+THE LONG DARK - UPDATE (SURVIVAL/TALES v 2.51, WINTERMUTE v 2.20)<span id="fnref5"></span>[⁵](#fn5)
 
 Steam, Epic Games Store, Xbox, and PlayStation
 
@@ -576,6 +592,8 @@ PLATFORM-SPECIFIC
 
 - PlayStation 5 - Fixed an issue that resulted in Framed Photos appearing far too dark to see.
 - PlayStation 5 - Fixed an issue that caused the Survivor to immediately eat the contents of Canned Food items when interacting with them.
+
+<span id="version_2.50"></span><span id="Version_2.50"></span><span id="version-250"></span><span id="2.50"></span>
 
 ### Version 2.50
 
@@ -650,11 +668,13 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [1](https://hinterlandforums.com/forums/topic/47725-the-long-dark-updated-to-v-250/)
 
+<span id="version_2.44"></span><span id="Version_2.44"></span><span id="version-244"></span><span id="2.44"></span>
+
 ### Version 2.44
 
 Hello Community,
 
-We have released a Hotfix for Steam and Epic Games Store platforms \*\*Edit: Xbox and PlayStation platforms are now updated as well\*\*. Survival v2.44 (157357) and WINTERMUTE v2.14 (157355) for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY.
+We have released a Hotfix for Steam and Epic Games Store platforms \**Edit: Xbox and PlayStation platforms are now updated as well\*\*. Survival v2.44 (157357) and WINTERMUTE v2.14 (157355) for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY.
 
 DISAPPEARING TRAVOIS
 
@@ -700,6 +720,8 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [1](https://hinterlandforums.com/forums/topic/47274-the-long-dark-updated-to-v-244/)
 
+<span id="version_2.40"></span><span id="Version_2.40"></span><span id="version-240"></span><span id="2.40"></span>
+
 ### **Version 2.40**
 
 Hello players,
@@ -726,7 +748,7 @@ _PERFORMANCE &amp; OPTIMIZATION_
 
 _GAMEPLAY, UI, CONTROLS_
 
-\[Safehouse Customization\]
+[Safehouse Customization]
 
 - Fixed an issue that resulted in Crafted Work Benches disappearing when exiting and re-entering an interior.
 - Fixed an issue where some folding chairs could not be broken down for materials.
@@ -759,7 +781,7 @@ _GAMEPLAY, UI, CONTROLS_
 - Fixed an issue in Zone of Contamination Concentrator where a metal sheet could not interactable via Safehouse Customization.
 - Fixed an issue that resulted in Plank Piles displaying debug text when selecting them in Safehouse Customization.
 
-\[General\]
+[General]
 
 - Adjusted the Cooking Menu UI for consistency, to allow for keyboard input when choosing an item to place on a cooking surface.
 - Fixed an issue that resulted in Ravaged Wolf Carcasses disappearing from view when interacted with.
@@ -845,6 +867,8 @@ _PLATFORM-SPECIFIC_
 
 - [1](https://hinterlandforums.com/forums/topic/46927-the-long-dark-updated-to-v-240/)
 
+<span id="version_2.38"></span><span id="Version_2.38"></span><span id="version-238"></span><span id="2.38"></span>
+
 ### Version 2.38
 
 Hello Community,
@@ -853,11 +877,13 @@ We have just released our v2.38 (149187) Hotfix for THE LONG DARK (including Sur
 
 GENERAL
 
-\*Fixed an issue that caused an "Attempt to Save game FAILED..." error (as shown below) and returned players to the main menu.
+*Fixed an issue that caused an "Attempt to Save game FAILED..." error (as shown below) and returned players to the main menu.
 
 Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game.
 
 - [1](https://hinterlandforums.com/forums/topic/46225-the-long-dark-updated-to-v-238/)
+
+<span id="version_2.36"></span><span id="Version_2.36"></span><span id="version-236"></span><span id="2.36"></span>
 
 ### Version 2.36
 
@@ -879,231 +905,233 @@ GAMEPLAY, UI, CONTROLS
 
 Additions and Changes
 
-\*\[Holiday Cheer\] Added a Festive Sweater.
+\*[Holiday Cheer] Added a Festive Sweater.
 
-\*\[Holiday Cheer\] Added two new Festive Light Decorations that can be found in various locations across Great Bear Island and can be used in Safehouse Customization.
+\*[Holiday Cheer] Added two new Festive Light Decorations that can be found in various locations across Great Bear Island and can be used in Safehouse Customization.
 
-\*\[Holiday Cheer\] Added festive touches to multiple locations around Great Bear Island.
+\*[Holiday Cheer] Added festive touches to multiple locations around Great Bear Island.
 
-\*Added stacks of additional Batteries to the following locations, to account for long-running games that had harvested Batteries before the Trader was added to the game: Prison Interior (Blackrock Region), Main Hangar (Forsaken Airfield Region), and Hibernia Processing (Desolation Point).
+*Added stacks of additional Batteries to the following locations, to account for long-running games that had harvested Batteries before the Trader was added to the game: Prison Interior (Blackrock Region), Main Hangar (Forsaken Airfield Region), and Hibernia Processing (Desolation Point).
 
-\*Added an additional description to the interface of the Furniture Workbench to indicate that in progress and finished Furniture can be found in the "container" portion of the Workbench.
+*Added an additional description to the interface of the Furniture Workbench to indicate that in progress and finished Furniture can be found in the "container" portion of the Workbench.
 
-\*Temporarily removed Cougars from Coastal Highway until we can ensure the spawn regions do not conflict with common player routes required for Trading.
+*Temporarily removed Cougars from Coastal Highway until we can ensure the spawn regions do not conflict with common player routes required for Trading.
 
-\*Tuned values for Vagabond Soup, Porter Soup, Last Resort Soup, and Pemmican Bars.
+*Tuned values for Vagabond Soup, Porter Soup, Last Resort Soup, and Pemmican Bars.
 
-\*Tuned the Camera so that it no longer inherits the weight of Film loaded into it.
+*Tuned the Camera so that it no longer inherits the weight of Film loaded into it.
 
-\*Tuned multiple Trade exchange requirements with an emphasis on reducing the cost of trades involving Batteries.
+*Tuned multiple Trade exchange requirements with an emphasis on reducing the cost of trades involving Batteries.
 
-\*Tuned Timberwolf spawn values to reduce the chances of their appearance in Regions where they are able to spawn.
+*Tuned Timberwolf spawn values to reduce the chances of their appearance in Regions where they are able to spawn.
 
-\*Tuned multiple Decorations, Tools, and objects which had excessive Destroy time and weight.
+*Tuned multiple Decorations, Tools, and objects which had excessive Destroy time and weight.
 
-\*Tuned multiple items to allow for their use as Decoration items in Safehouse Customization.
+*Tuned multiple items to allow for their use as Decoration items in Safehouse Customization.
 
-\*Adjusted Broken Soda Machines to allow them to be destroyed.
+*Adjusted Broken Soda Machines to allow them to be destroyed.
 
-\*Adjusted Stanchions to allow them to be destroyed.
+*Adjusted Stanchions to allow them to be destroyed.
 
-\*Adjusted the "Big Cat Killer" Feat description to clarify it can no longer be unlocked and is a legacy Feat.
+*Adjusted the "Big Cat Killer" Feat description to clarify it can no longer be unlocked and is a legacy Feat.
 
 Cougar
 
-\*Fixed an issue where the Cougar would sometimes incorrectly engage the Survivor in a Struggle after being shot.
+*Fixed an issue where the Cougar would sometimes incorrectly engage the Survivor in a Struggle after being shot.
 
-\*Fixed an issue where dead Cougars could replay their death animation and sound effect after a player transitioned to and from an interior.
+*Fixed an issue where dead Cougars could replay their death animation and sound effect after a player transitioned to and from an interior.
 
-\*Fixed an issue when choosing a "Close Risky Respawn" that could result in the Survivor spawning into active Cougar Territory.
+*Fixed an issue when choosing a "Close Risky Respawn" that could result in the Survivor spawning into active Cougar Territory.
 
-\*Fixed an issue where Aurora Cougars incorrectly continue to glow after being harvested.
+*Fixed an issue where Aurora Cougars incorrectly continue to glow after being harvested.
 
-\*Fixed an issue where the Cougar could be toggled on in Challenge saves created prior to first installing Tales From the Far Territory.
+*Fixed an issue where the Cougar could be toggled on in Challenge saves created prior to first installing Tales From the Far Territory.
 
-\*Fixed an issue where the Cougar could be toggled on in Pilgrim and Misery Experience saves created prior to first installing Tales \*From the Far Territory.
+*Fixed an issue where the Cougar could be toggled on in Pilgrim and Misery Experience saves created prior to first installing Tales *From the Far Territory.
 
-\*Fixed an issue that could result in the Cougar being present even when toggled off.
+*Fixed an issue that could result in the Cougar being present even when toggled off.
 
 Safehouse Customization
 
-\*Fixed an issue that prevented multiple wall-mounted Decorations from being placeable on walls.
+*Fixed an issue that prevented multiple wall-mounted Decorations from being placeable on walls.
 
-\*Fixed an issue with overlapping interface elements when attempting to Repair certain Safehouse objects.
+*Fixed an issue with overlapping interface elements when attempting to Repair certain Safehouse objects.
 
-\*Fixed an issue where Junk could be seen overlapping objects during placement.
+*Fixed an issue where Junk could be seen overlapping objects during placement.
 
-\*Fixed an issue with Campfires which allowed Decorations to be placed intersecting and within them.
+*Fixed an issue with Campfires which allowed Decorations to be placed intersecting and within them.
 
-\*Fixed an issue where destroying certain objects or Decorations could result in parts of the object remaining floating in that space.
+*Fixed an issue where destroying certain objects or Decorations could result in parts of the object remaining floating in that space.
 
-\*Fixed an issue where Ruined Fish could incorrectly be used to craft Mounted Fish Decorations.
+*Fixed an issue where Ruined Fish could incorrectly be used to craft Mounted Fish Decorations.
 
-\*Fixed multiple issues that allowed some objects and Decorations to be placed through walls.
+*Fixed multiple issues that allowed some objects and Decorations to be placed through walls.
 
-\*Fixed an issue that caused some shelving to be oriented incorrectly against walls in placement mode.
+*Fixed an issue that caused some shelving to be oriented incorrectly against walls in placement mode.
 
-\*Fixed multiple issues with objects and Decorations which intersected improperly with the surface upon which they were placed.
+*Fixed multiple issues with objects and Decorations which intersected improperly with the surface upon which they were placed.
 
-\*Fixed an issue that resulted in wall-hung Decorations shifting slightly after exiting and re-entering an interior.
+*Fixed an issue that resulted in wall-hung Decorations shifting slightly after exiting and re-entering an interior.
 
-\*Fixed an issue where certain wall-hung lamps could be incorrectly collected and moved.
+*Fixed an issue where certain wall-hung lamps could be incorrectly collected and moved.
 
-\*Fixed an issue where certain Workbenches would yield two Vices when broken down, instead of the intended one.
+*Fixed an issue where certain Workbenches would yield two Vices when broken down, instead of the intended one.
 
-\*Fixed an issue where some fallen Ceiling Panels could not be destroyed.
+*Fixed an issue where some fallen Ceiling Panels could not be destroyed.
 
-\*Fixed an issue with flag Decorations which made them difficult to place and prevented rotation in placement mode.
+*Fixed an issue with flag Decorations which made them difficult to place and prevented rotation in placement mode.
 
-\*Fixed multiple placement issues with Plates that allowed them to be attached to walls, and positioned under floors.
+*Fixed multiple placement issues with Plates that allowed them to be attached to walls, and positioned under floors.
 
-\*Fixed an issue with the orientation of Horseshoe Decorations when mounted to walls.
+*Fixed an issue with the orientation of Horseshoe Decorations when mounted to walls.
 
-\*Fixed an issue that resulted in objects and Decorations becoming invisible when stacked or placed too closely together.
+*Fixed an issue that resulted in objects and Decorations becoming invisible when stacked or placed too closely together.
 
-\*Fixed an issue with Stage Curtains that resulted in them being difficult to orient and place.
+*Fixed an issue with Stage Curtains that resulted in them being difficult to orient and place.
 
-\*Fixed an issue with Stage Curtains that incorrectly allowed players to put them in their Backpack.
+*Fixed an issue with Stage Curtains that incorrectly allowed players to put them in their Backpack.
 
-\*Fixed an issue with Steamer Trunks that prevented them from being placed.
+*Fixed an issue with Steamer Trunks that prevented them from being placed.
 
-\*Fixed an issue where some Soda Display Refrigerators could not be placed.
+*Fixed an issue where some Soda Display Refrigerators could not be placed.
 
-\*Fixed an issue where Safehouse Customization could become unavailable to a player if they attempted to carry an item outside of the customization zone.
+*Fixed an issue where Safehouse Customization could become unavailable to a player if they attempted to carry an item outside of the customization zone.
 
-\*Fixed an issue where Safehouse Customization could be toggled while using the Trader Radio.
+*Fixed an issue where Safehouse Customization could be toggled while using the Trader Radio.
 
-\*Fixed an issue where an incorrect axe icon was present in the "Break Down" and "Destroy" options for Workbenches in Safehouse Customization.
+*Fixed an issue where an incorrect axe icon was present in the "Break Down" and "Destroy" options for Workbenches in Safehouse Customization.
 
-\*Fixed an issue in one of Mystery Lake's Cabins where a shelf was incorrectly oriented and could not be interacted with via Safehouse Customization.
+*Fixed an issue in one of Mystery Lake's Cabins where a shelf was incorrectly oriented and could not be interacted with via Safehouse Customization.
 
-\*Fixed an issue where choosing to "Break Down" specific Drawers had no effect.
+*Fixed an issue where choosing to "Break Down" specific Drawers had no effect.
 
-\*Fixed an issue where plastic Milk Crates could unintentionally only be placed on walls instead of surfaces.
+*Fixed an issue where plastic Milk Crates could unintentionally only be placed on walls instead of surfaces.
 
-\*Fixed an issue with multiple Signs and Picture Frames where debug text could be seen when looking at the Decoration.
+*Fixed an issue with multiple Signs and Picture Frames where debug text could be seen when looking at the Decoration.
 
-\*Fixed an issue where certain shelves would drop to the floor after exiting and re-entering an interior.
+*Fixed an issue where certain shelves would drop to the floor after exiting and re-entering an interior.
 
-\*Fixed an issue that resulted in bloody bandages remaining after choosing to Clear Junk.
+*Fixed an issue that resulted in bloody bandages remaining after choosing to Clear Junk.
 
-\*Fixed an issue that resulted in multiple objects highlighted in Safehouse Customization mode not being interactable.
+*Fixed an issue that resulted in multiple objects highlighted in Safehouse Customization mode not being interactable.
 
-\*Fixed an issue that resulted in certain doors incorrectly allowing players to place, move and destroy them.
+*Fixed an issue that resulted in certain doors incorrectly allowing players to place, move and destroy them.
 
-\*Fixed multiple issues in Blackrock Prison's Barracks with objects and Decorations that could not be placed after being picked up.
+*Fixed multiple issues in Blackrock Prison's Barracks with objects and Decorations that could not be placed after being picked up.
 
-\*Fixed an issue in Blackrock Prison Interior where objects and Decorations could not be placed on the floor of the workshop.
+*Fixed an issue in Blackrock Prison Interior where objects and Decorations could not be placed on the floor of the workshop.
 
-\*Fixed an issue with the Moosehead Trophy in Pleasant Valley Community Hall which prevented it from being moved along with its mount.
+*Fixed an issue with the Moosehead Trophy in Pleasant Valley Community Hall which prevented it from being moved along with its mount.
 
-\*Fixed multiple issues in Forsaken Airfield's Hangar with containers which could not be searched or used as storage.
+*Fixed multiple issues in Forsaken Airfield's Hangar with containers which could not be searched or used as storage.
 
-\*Fixed multiple issues in Forsaken Airfield's Hangar with objects and Decorations that could not be placed after being picked up.
+*Fixed multiple issues in Forsaken Airfield's Hangar with objects and Decorations that could not be placed after being picked up.
 
-\*Fixed multiple issues in Forsaken Airfield's Hangar with objects and Decorations that could be incorrectly mounted on walls.
+*Fixed multiple issues in Forsaken Airfield's Hangar with objects and Decorations that could be incorrectly mounted on walls.
 
-\*Fixed an issue in Forsaken Airfield's Terminal building where wall-hung objects would be difficult to place, and oriented incorrectly when placed.
+*Fixed an issue in Forsaken Airfield's Terminal building where wall-hung objects would be difficult to place, and oriented incorrectly when placed.
 
-\*Fixed multiple issues in Zone of Contamination's Idle Camp where items could not be moved or placed in Safehouse Customization mode.
+*Fixed multiple issues in Zone of Contamination's Idle Camp where items could not be moved or placed in Safehouse Customization mode.
 
-\*Fixed an issue in Zone of Contamination's Concentrator which prevented many objects and Decorations from being placed on the walls and floor.
+*Fixed an issue in Zone of Contamination's Concentrator which prevented many objects and Decorations from being placed on the walls and floor.
 
-\*Fixed multiple issues in Mountain Town's St. Christopher's Church with objects and Decorations that could be incorrectly mounted on walls.
+*Fixed multiple issues in Mountain Town's St. Christopher's Church with objects and Decorations that could be incorrectly mounted on walls.
 
-\*Fixed multiple issues in Mountain Town's St. Christopher's Church with objects and Decorations that could not be placed after being picked up.
+*Fixed multiple issues in Mountain Town's St. Christopher's Church with objects and Decorations that could not be placed after being picked up.
 
-\*Fixed an issue in Mountain Town's Park Hut where objects and Decorations could not be placed on a certain section of the floor.
+*Fixed an issue in Mountain Town's Park Hut where objects and Decorations could not be placed on a certain section of the floor.
 
 Trader
 
-\*Fixed an issue where the Survivor could fall through the ground immediately after exiting the Bunker during the Trader's fifth Special Request.
+*Fixed an issue where the Survivor could fall through the ground immediately after exiting the Bunker during the Trader's fifth Special Request.
 
-\*Fixed an issue where the Hatch Wheel could disappear from the Survivor's backpack during the Trader's fifth Special Request, making it incompletable.
+*Fixed an issue where the Hatch Wheel could disappear from the Survivor's backpack during the Trader's fifth Special Request, making it incompletable.
 
-\*Fixed an issue where the Trader's first line of dialogue can be heard twice when first contacting them.
+*Fixed an issue where the Trader's first line of dialogue can be heard twice when first contacting them.
 
-\*Fixed an issue that resulted in the Trader's fourth Special Request being incompletable. The request can now be completed on new and pre-existing save files.
+*Fixed an issue that resulted in the Trader's fourth Special Request being incompletable. The request can now be completed on new and pre-existing save files.
 
 General
 
-\*Fixed an issue in Coastal Highway near the Southwestern bridge where players could get stuck.
+*Fixed an issue in Coastal Highway near the Southwestern bridge where players could get stuck.
 
-\*Fixed an issue in Pleasant Valley's Farmhouse Barn where a player could get stuck trying to drop down past the ladder.
+*Fixed an issue in Pleasant Valley's Farmhouse Barn where a player could get stuck trying to drop down past the ladder.
 
-\*Fixed an issue where Notes found in the Blackrock Prison Interior were missing icons in the Survivor's Journal.
+*Fixed an issue where Notes found in the Blackrock Prison Interior were missing icons in the Survivor's Journal.
 
-\*Fixed an issue where “Fluffy” could incorrectly spawn in the Bleak Inlet Workshop when the player revisits this location.
+*Fixed an issue where “Fluffy” could incorrectly spawn in the Bleak Inlet Workshop when the player revisits this location.
 
-\*Fixed an issue where the number of Ptarmigan killed was not displayed in Journal Statistics.
+*Fixed an issue where the number of Ptarmigan killed was not displayed in Journal Statistics.
 
-\*Fixed an issue where the Heatpad warmth bonus could be lost when swapping between multiple activated Heatpads.
+*Fixed an issue where the Heatpad warmth bonus could be lost when swapping between multiple activated Heatpads.
 
-\*Fixed an issue where Heatpads were too large when displayed in the Inspect interface.
+*Fixed an issue where Heatpads were too large when displayed in the Inspect interface.
 
-\*Fixed an issue where Inspecting a Film Pack resulted in the item being scaled and positioned in a poor initial state.
+*Fixed an issue where Inspecting a Film Pack resulted in the item being scaled and positioned in a poor initial state.
 
-\*Fixed an issue where a "Deploy" option was present when viewing the contents of containers.
+*Fixed an issue where a "Deploy" option was present when viewing the contents of containers.
 
-\*Fixed an issue where interacting with a repairable object while holding a Lantern resulted in being unable to extinguish or stow it.
+*Fixed an issue where interacting with a repairable object while holding a Lantern resulted in being unable to extinguish or stow it.
 
-\*Fixed an issue that resulted in a missing "Required Material" icon when attempting to repair an item that required more than one Material.
+*Fixed an issue that resulted in a missing "Required Material" icon when attempting to repair an item that required more than one Material.
 
-\*Fixed an issue that resulted in unlocking the "Something Warm to Drink" achievement after finding only one Insulated Flask.
+*Fixed an issue that resulted in unlocking the "Something Warm to Drink" achievement after finding only one Insulated Flask.
 
-\*Fixed an issue that resulted in unlocking the "To the Teeth" achievement after finding only one firearm variant.
+*Fixed an issue that resulted in unlocking the "To the Teeth" achievement after finding only one firearm variant.
 
-\*Fixed an issue with the Nomad Challenge where time spent in the Stone Church was not registering, rendering the Challenge incompletable.
+*Fixed an issue with the Nomad Challenge where time spent in the Stone Church was not registering, rendering the Challenge incompletable.
 
-\*Fixed an issue that resulted in an "Attempt to SAVE game failed." error message when moving Decorations stored in the Travois.
+*Fixed an issue that resulted in an "Attempt to SAVE game failed." error message when moving Decorations stored in the Travois.
 
-\*Fixed an issue that resulted in items stored in the Travois disappearing after transitioning.
+*Fixed an issue that resulted in items stored in the Travois disappearing after transitioning.
 
-\*Fixed an issue that resulted in Vagabond and Last Resort Soup sharing the same icon and model in the Recipe Book interface.
+*Fixed an issue that resulted in Vagabond and Last Resort Soup sharing the same icon and model in the Recipe Book interface.
 
-\*Fixed an issue that resulted in Cooking Oil and Broth sharing the same icon in the Recipe Book interface.
+*Fixed an issue that resulted in Cooking Oil and Broth sharing the same icon in the Recipe Book interface.
 
-\*Fixed an issue where the Vitamin-C benefit of Recipes viewed in the Recipe Book was overlapped by the Recipe name.
+*Fixed an issue where the Vitamin-C benefit of Recipes viewed in the Recipe Book was overlapped by the Recipe name.
 
-\*Fixed an issue that resulted in Cured Meat and Fish causing Food Poisoning at much too high a rate.
+*Fixed an issue that resulted in Cured Meat and Fish causing Food Poisoning at much too high a rate.
 
-\*Fixed an issue that allowed players to pass through walls using object placement and collision.
+*Fixed an issue that allowed players to pass through walls using object placement and collision.
 
-\*Fixed an issue that resulted in stuttering when exiting to Pleasant Valley from any interior.
+*Fixed an issue that resulted in stuttering when exiting to Pleasant Valley from any interior.
 
-\*Fixed an issue that prevented Fish from being caught in Custom Survival games.
+*Fixed an issue that prevented Fish from being caught in Custom Survival games.
 
-\*Fixed an issue with a rug in the Pleasant Valley Community Hall which caused it to flicker during and after being placed.
+*Fixed an issue with a rug in the Pleasant Valley Community Hall which caused it to flicker during and after being placed.
 
 ART &amp; ENVIRONMENTS
 
 \* Fixed an issue that caused incorrect and inconsistent exterior lighting when moving in and out of caves.
 
-\*Fixed multiple locations where Cougar claw marks on trees were stretched or warped.
+*Fixed multiple locations where Cougar claw marks on trees were stretched or warped.
 
-\*Fixed an issue in Sundered Pass where a Deer Carcass was incorrectly placed beneath terrain.
+*Fixed an issue in Sundered Pass where a Deer Carcass was incorrectly placed beneath terrain.
 
-\*Fixed multiple locations in Zone of Contamination where Pallets, Metal Sheets, and debris would appear and disappear when approached.
+*Fixed multiple locations in Zone of Contamination where Pallets, Metal Sheets, and debris would appear and disappear when approached.
 
-\*Fixed multiple issues in Pleasant Valley, Forsaken Airfield, Broken Railroad, and Zone of Contamination where objects could be collided with, but were not visible.
+*Fixed multiple issues in Pleasant Valley, Forsaken Airfield, Broken Railroad, and Zone of Contamination where objects could be collided with, but were not visible.
 
-\*Fixed an issue in Sundered Pass which resulted in Aurora Wildlife glowing too brightly.
+*Fixed an issue in Sundered Pass which resulted in Aurora Wildlife glowing too brightly.
 
-\*Fixed an issue where Aurora effects took precedence over placement and Safehouse Customization effects.
+*Fixed an issue where Aurora effects took precedence over placement and Safehouse Customization effects.
 
-\*Fixed an issue where equipping a Bow and Tactical Gloves resulted in the Survivor's right hand appearing much larger than normal.
+*Fixed an issue where equipping a Bow and Tactical Gloves resulted in the Survivor's right hand appearing much larger than normal.
 
-\*Fixed an issue in Forsaken Airfield where an Oil Tank would become invisible when approached.
+*Fixed an issue in Forsaken Airfield where an Oil Tank would become invisible when approached.
 
-\*Fixed an issue where the Pemmican Bar Recipe Card incorrectly referenced "Orca Bar".
+*Fixed an issue where the Pemmican Bar Recipe Card incorrectly referenced "Orca Bar".
 
-\*Fixed an issue in the Ash Canyon transitional Cave that caused a visible seam in terrain.
+*Fixed an issue in the Ash Canyon transitional Cave that caused a visible seam in terrain.
 
 AUDIO
 
 \* Fixed an audio issue with multiple Signs and Picture Frames where the wrong sound played when Destroyed.
 
 - [1](https://hinterlandforums.com/forums/topic/46198-the-long-dark-updated-to-v-236/)
+
+<span id="version_2.35_steam"></span><span id="Version_2.35_(Steam)"></span><span id="version_2.35_(steam)"></span><span id="version-235-steam"></span><span id="2.35"></span>
 
 ### Version 2.35 (Steam)
 
@@ -1205,6 +1233,8 @@ PLATFORM-SPECIFIC
 
 - [1](https://hinterlandforums.com/forums/topic/45894-the-long-dark-updated-to-v-235/)
 
+<span id="version_2.33_tales_from_the_far_territory_part_6_broken_silence"></span><span id="Version_2.33_(Tales_from_the_Far_Territory_Part_6:_Broken_Silence)"></span><span id="version_2.33_(tales_from_the_far_territory_part_6:_broken_silence)"></span><span id="version-233-tales-from-the-far-territory-part-6-broken-silence"></span><span id="2.33"></span>
+
 ### Version 2.33 (Tales from the Far Territory Part 6: Broken Silence)
 
 Released December 2, 2024
@@ -1213,12 +1243,16 @@ _Bug Fixes_
 
 This Major Update includes fixes for the following issues:
 
+<span id="crashes"></span><span id="CRASHES"></span>
+
 #### CRASHES
 
 - Fixed an issue that caused a hang, after lighting too many Campfires at once.
 - Fixed an issue which caused some Xbox players to receive error code '-996' after the disclaimer screen, and subsequently returning them to the home screen.
 - Fixed a rare issue that caused a crash when entering or leaving interiors.
 - Fixed a rare issue where the player's game crashes and their save is deleted when choosing to Cheat Death.
+
+<span id="gameplay_ui_controls"></span><span id="GAMEPLAY,_UI,_CONTROLS"></span><span id="gameplay,_ui,_controls"></span><span id="gameplay-ui-controls"></span>
 
 #### GAMEPLAY, UI, CONTROLS
 
@@ -1242,6 +1276,8 @@ This Major Update includes fixes for the following issues:
 - Fixed an issue in Ash Canyon where some items could spawn in unreachable areas.
 - Fixed an issue in Sundered Pass where a backpack could not be searched.
 - Fixed an issue where Beachcombing containers and items could duplicate when exiting and re-entering the Region.
+
+<span id="art_environments"></span><span id="ART_&amp;_ENVIRONMENTS"></span><span id="art_&amp;_environments"></span><span id="art-environments"></span>
 
 #### ART &amp; ENVIRONMENTS
 
@@ -1280,19 +1316,25 @@ This Major Update includes fixes for the following issues:
 - Fixed an issue where players could get stuck behind stalagmites in the transition cave between Hushed River Valley and Mountain Town.
 - Fixed an issue in Mountain Town where players could get stuck near the waterfall outside of town.
 
+<span id="animation"></span><span id="ANIMATION"></span>
+
 #### ANIMATION
 
 - Fixed an issue that resulted in the wrong animation playing when harvesting a wolf carcass with the Improvised Knife.
 
+<span id="platform_specific"></span><span id="PLATFORM-SPECIFIC"></span><span id="platform-specific"></span>
+
 #### PLATFORM-SPECIFIC
 
 - Fixed an issue that caused a black screen on launch for players on the Epic Games Store.
-- \[EGS\] Fixed an issue that caused a black screen on launch for players on the Epic Games Store.
-- \[PS4/Switch\] Fixed memory leak when loading into a new level.
-- \[PS4/Switch\] Reduced memory usage for falling snow effect.
-- \[PS4/Switch\] Reduced memory usage for post fx by reusing render textures between passes.
+- [EGS] Fixed an issue that caused a black screen on launch for players on the Epic Games Store.
+- [PS4/Switch] Fixed memory leak when loading into a new level.
+- [PS4/Switch] Reduced memory usage for falling snow effect.
+- [PS4/Switch] Reduced memory usage for post fx by reusing render textures between passes.
 
 - [1](https://hinterlandforums.com/forums/topic/45808-tales-from-the-far-territory-part-six-broken-silence-now-live/)
+
+<span id="steam_epic_games"></span><span id="2.32_(Steam,_Epic_Games)"></span><span id="2.32_(steam,_epic_games)"></span><span id="232-steam-epic-games"></span><span id="2.32"></span>
 
 ### 2.32 (Steam, Epic Games)
 
@@ -1302,9 +1344,13 @@ We have just released our v2.32 (138698) Hotfix for THE LONG DARK (including Sur
 
 This Hotfix addresses multiple issues introduced in the v.2.28 update for TALES FROM THE FAR TERRITORY.
 
+<span id="bug_fixes"></span><span id="Bug_Fixes"></span><span id="bug-fixes"></span>
+
 #### Bug Fixes
 
 This Hotfix includes fixes for the following issues:
+
+<span id="gameplay_ui_controls_1"></span><span id="gameplay-ui-controls-1"></span>
 
 ##### GAMEPLAY, UI, CONTROLS
 
@@ -1340,6 +1386,8 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue where the Survivor could spawn into a cabin awning when Cheating Death.
 - Fixed an issue that could result in a save error in Sundered Pass.
 
+<span id="art_environments_1"></span><span id="art-environments-1"></span>
+
 ##### ART &amp; ENVIRONMENTS
 
 - Fixed an issue where players could incorrectly get on top of a broken trailer in Sundered Pass.
@@ -1372,19 +1420,25 @@ This Hotfix includes fixes for the following issues:
 
 - [2](https://hinterlandforums.com/forums/topic/45462-the-long-dark-updated-to-v-232/)
 
+<span id="steam_epic_games_1"></span><span id="2.31_(Steam,_Epic_Games)"></span><span id="2.31_(steam,_epic_games)"></span><span id="231-steam-epic-games"></span><span id="2.31"></span>
+
 ### 2.31 (Steam, Epic Games)
 
 Hello Community,
 
 We have just released our v2.31 (137484) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Steam and Epic Games Store. Please note that WINTERMUTE’s version number has not changed. This Hotfix addresses multiple issues introduced in the v.2.28 update for TALES FROM THE FAR TERRITORY.
 
+<span id="bug_fixes_1"></span><span id="bug-fixes-1"></span>
+
 #### Bug Fixes
 
 This Hotfix includes fixes for the following issues:
 
+<span id="gameplay_ui_controls_2"></span><span id="gameplay-ui-controls-2"></span>
+
 ##### GAMEPLAY, UI, CONTROLS
 
-- Fixed an issue that resulted in players becoming stuck in the Omega Bunker at the end of Tale 3. \*Players should now simply be able to exit upon loading their affected save file.
+- Fixed an issue that resulted in players becoming stuck in the Omega Bunker at the end of Tale 3. *Players should now simply be able to exit upon loading their affected save file.
 - Fixed an issue where the Settled Mind Feat would not provide the associated research bonus.
 - Fixed an issue where the Teardrop Vista location was not revealed on the player's map when the associated Polaroid was picked up.
 - Fixed an issue that caused the player to lose control of the Survivor when choosing to Cheat Death after dying during a Carcass Harvesting animation.
@@ -1396,13 +1450,19 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue in Sundered Pass that prevented the Survivor from returning up a Rope Climb.
 - Fixed an issue that caused reduced performance in the Carter Hydro Dam.
 
+<span id="art_environments_2"></span><span id="art-environments-2"></span>
+
 ##### ART &amp; ENVIRONMENTS
 
 - Updated the "Last Horizon" text on the main menu to be more visible.
 
+<span id="audio"></span><span id="AUDIO"></span>
+
 ##### AUDIO
 
 - Fixed an issue that resulted in intermittent audio stuttering during voice-overs triggered by collectibles in the Last Horizon Tale.
+
+<span id="platform_specific_1"></span><span id="platform-specific-1"></span>
 
 ##### PLATFORM-SPECIFIC
 
@@ -1411,6 +1471,8 @@ This Hotfix includes fixes for the following issues:
 **_External links:_**
 
 - [3](https://hinterlandforums.com/forums/topic/45309-the-long-dark-updated-to-v-231/)
+
+<span id="steam"></span><span id="2.30_(Steam)"></span><span id="2.30_(steam)"></span><span id="230-steam"></span><span id="2.30"></span>
 
 ### 2.30 (Steam)
 
@@ -1431,6 +1493,8 @@ Details from the Dev Team:
 
 - [4](https://hinterlandforums.com/forums/topic/45242-temporarily-removing-the-cougar/)
 
+<span id="steam_epic_games_xbox_playstation"></span><span id="2.29_(Steam,_Epic_Games,_Xbox,_PlayStation)"></span><span id="2.29_(steam,_epic_games,_xbox,_playstation)"></span><span id="229-steam-epic-games-xbox-playstation"></span><span id="2.29"></span>
+
 ### 2.29 (Steam, Epic Games, Xbox, PlayStation)
 
 We have just released our v2.29 (136986) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Steam and Epic Games Store. Please note that WINTERMUTE’s version number has not changed. This Hotfix addresses multiple issues introduced in the v.2.28 update for TALES FROM THE FAR TERRITORY.
@@ -1447,6 +1511,8 @@ We have just released our v2.29 (136986) Hotfix for THE LONG DARK (including Sur
 
 - [5](https://hinterlandforums.com/forums/topic/45221-the-long-dark-updated-to-v-229/)
 
+<span id="steam_epic_games_xbox_playstation_tftft_part_five_last_horizon_update"></span><span id="2.28_(Steam,_Epic_Games,_Xbox,_PlayStation)_(TFTFT_PART_FIVE:_Last_Horizon_Update)"></span><span id="2.28_(steam,_epic_games,_xbox,_playstation)_(tftft_part_five:_last_horizon_update)"></span><span id="228-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update"></span><span id="2.28"></span>
+
 ### 2.28 (Steam, Epic Games, Xbox, PlayStation) (TFTFT PART FIVE: Last Horizon Update)
 
 Released June 24, 2024
@@ -1457,6 +1523,8 @@ This update includes Part Five of TALES FROM THE FAR TERRITORY, “Last Horizon�
  **_External links:_**
 
 - [6](https://hinterlandforums.com/forums/topic/45180-tales-from-the-far-territory-part-five-is-here/)
+
+<span id="steam_epic_games_2"></span><span id="2.27_(Steam,_Epic_Games)"></span><span id="2.27_(steam,_epic_games)"></span><span id="227-steam-epic-games"></span><span id="2.27"></span>
 
 ### 2.27 (Steam, Epic Games)
 
@@ -1469,6 +1537,8 @@ This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contai
 
 - [7](https://hinterlandforums.com/forums/topic/44689-the-long-dark-updated-to-v-227/)
 
+<span id="steam_1"></span><span id="2.26_(Steam)"></span><span id="2.26_(steam)"></span><span id="226-steam"></span><span id="2.26"></span>
+
 ### 2.26 (Steam)
 
 We have just updated THE LONG DARK to version 2.26, build 126828.
@@ -1477,6 +1547,8 @@ This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contai
  **_External links:_**
 
 - [8](https://hinterlandforums.com/forums/topic/44488-the-long-dark-updated-to-v-226/)
+
+<span id="steam_tftft_part_four_buried_echoes_update"></span><span id="2.25_(Steam)_(TFTFT_PART_FOUR:_Buried_Echoes_Update)"></span><span id="2.25_(steam)_(tftft_part_four:_buried_echoes_update)"></span><span id="225-steam-tftft-part-four-buried-echoes-update"></span><span id="2.25"></span>
 
 ### 2.25 (Steam) (TFTFT PART FOUR: Buried Echoes Update)
 
@@ -1489,9 +1561,13 @@ This is the latest Expansion Pass update TALES FROM THE FAR TERRITORY, Part Four
 
 - [9](https://hinterlandforums.com/forums/topic/44363-tales-from-the-far-territory-part-four-is-here/#comment-271030)
 
+<span id="xbox_playstation_epic_games_store"></span><span id="2.24_(Xbox,_PlayStation,_Epic_Games_Store)"></span><span id="2.24_(xbox,_playstation,_epic_games_store)"></span><span id="224-xbox-playstation-epic-games-store"></span><span id="2.24"></span>
+
 ### 2.24 (Xbox, PlayStation, Epic Games Store)
 
 We have just released our v2.24 (121035) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox, PlayStation, Steam and Epic Game Store.
+
+<span id="general"></span><span id="GENERAL"></span>
 
 #### GENERAL
 
@@ -1500,12 +1576,16 @@ Fixed an issue that caused a crash to occur if a Bow broke while being shot.
 
 - [10](https://hinterlandforums.com/forums/topic/44075-the-long-dark-updated-to-v224/)
 
+<span id="steam_2"></span><span id="2.23_(Steam)"></span><span id="2.23_(steam)"></span><span id="223-steam"></span><span id="2.23"></span>
+
 ### 2.23 (Steam)
 
 We have just released our v2.23 (120705) Quality of Life Update for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on all platforms.  
  **_External links:_**
 
 - [11](https://hinterlandforums.com/forums/topic/44051-the-long-dark-quality-of-life-update-v223/)
+
+<span id="xbox_playstation_epic_games_store_1"></span><span id="2.22_(Xbox,_PlayStation,_Epic_Games_Store)"></span><span id="2.22_(xbox,_playstation,_epic_games_store)"></span><span id="222-xbox-playstation-epic-games-store"></span><span id="2.22"></span>
 
 ### 2.22 (Xbox, PlayStation, Epic Games Store)
 
@@ -1514,12 +1594,16 @@ We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Sur
 
 - [12](https://hinterlandforums.com/forums/topic/43784-the-long-dark-updated-to-v-222-on-xbox-playstation-and-epic-games-store/)
 
+<span id="steam_3"></span><span id="2.22_(Steam)"></span><span id="2.22_(steam)"></span><span id="222-steam"></span>
+
 ### 2.22 (Steam)
 
 We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.21.  
  **_External links:_**
 
 - [13](https://hinterlandforums.com/forums/topic/43756-the-long-dark-updated-to-v-222-steam/)
+
+<span id="steam_4"></span><span id="2.21_(Steam)"></span><span id="2.21_(steam)"></span><span id="221-steam"></span><span id="2.21"></span>
 
 ### 2.21 (Steam)
 
@@ -1528,12 +1612,16 @@ We have just released our v2.21 (118182) Hotfix for THE LONG DARK (including Sur
 
 - [14](https://hinterlandforums.com/forums/topic/43722-the-long-dark-updated-to-v-221-steam/)
 
+<span id="steam_5"></span><span id="2.20_(Steam)"></span><span id="2.20_(steam)"></span><span id="220-steam"></span><span id="2.20"></span>
+
 ### 2.20 (Steam)
 
 We have just released our v2.20 (118045) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. (Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)  
  **_External links:_**
 
 - [15](https://hinterlandforums.com/forums/topic/43713-the-long-dark-updated-to-v220-steam/)
+
+<span id="xbox_playstation_epic_games_store_2"></span><span id="2.19_(Xbox,_PlayStation,_Epic_Games_Store)"></span><span id="2.19_(xbox,_playstation,_epic_games_store)"></span><span id="219-xbox-playstation-epic-games-store"></span><span id="2.19"></span>
 
 ### 2.19 (Xbox, PlayStation, Epic Games Store)
 
@@ -1542,6 +1630,8 @@ We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Sur
 
 - [16](https://hinterlandforums.com/forums/topic/43627-the-long-dark-updated-to-v219-xbox-playstation-and-epic-games-store/)
 
+<span id="steam_6"></span><span id="2.19_(Steam)"></span><span id="2.19_(steam)"></span><span id="219-steam"></span>
+
 ### 2.19 (Steam)
 
 We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. _(Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)_  
@@ -1549,11 +1639,15 @@ We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Sur
 
 - [17](https://hinterlandforums.com/forums/topic/43620-the-long-dark-updated-to-v219-steam/)
 
+<span id="linux"></span><span id="2.18_(Linux)"></span><span id="2.18_(linux)"></span><span id="218-linux"></span><span id="2.18"></span>
+
 ### 2.18 (Linux)
 
 Hello Community,
 
 We have just released our v2.18 (117282) Hotfix for THE LONG DARK (including Survival Edition), TALES FROM THE FAR TERRITORY, on Steam. This addresses one Linux specific issue.
+
+<span id="platform_specific_issue"></span><span id="PLATFORM-SPECIFIC_ISSUE"></span><span id="platform-specific_issue"></span><span id="platform-specific-issue"></span>
 
 #### PLATFORM-SPECIFIC ISSUE
 
@@ -1562,6 +1656,8 @@ We have just released our v2.18 (117282) Hotfix for THE LONG DARK (including Sur
 **_External links:_**
 
 - [18](https://hinterlandforums.com/forums/topic/43570-the-long-dark-updated-to-v218-linux/)
+
+<span id="tftft_part_three_frontier_comforts_update"></span><span id="2.17_(TFTFT_Part_Three:_Frontier_Comforts_Update)"></span><span id="2.17_(tftft_part_three:_frontier_comforts_update)"></span><span id="217-tftft-part-three-frontier-comforts-update"></span><span id="2.17"></span>
 
 ### 2.17 (TFTFT Part Three: Frontier Comforts Update)
 
@@ -1578,17 +1674,21 @@ TALES FROM THE FAR TERRITORY, Part Three: FRONTIER COMFORTS
 
 - [19](https://hinterlandforums.com/forums/topic/43517-tales-from-the-far-territory-part-three-released-the-long-dark-updated-to-version-217-xbox-playstation-pc-mac/)
 
+<span id="xboxplaystation"></span><span id="2.16_(Xbox/PlayStation)"></span><span id="2.16_(xbox/playstation)"></span><span id="216-xboxplaystation"></span><span id="2.16"></span>
+
 ### 2.16 (Xbox/PlayStation)
 
 Hello Community,
 
 We have just released our v2.16 (113628) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Xbox and PlayStation. Please note that WINTERMUTE’s version number has not changed. This update enables the Tale from TALES FROM THE FAR TERRITORY to be played on Interloper. Details on these changes can be found in our latest Dev Diary found here.
 
+<span id="general_1"></span><span id="general-1"></span>
+
 #### GENERAL
 
-- \[SURVIVAL\] Enables TALES content in Interloper.
-- \[SURVIVAL\] Using the Handheld Shortwave Interloper players are now able to locate Trackable Hidden Caches, which will provide loot that is also balanced for Interloper.
-- \[SURVIVAL\] Players are now able to find the Handheld Shortwave at the Airfield’s Control Tower and start the Signal Void Tale, while playing in Interloper.
+- [SURVIVAL] Enables TALES content in Interloper.
+- [SURVIVAL] Using the Handheld Shortwave Interloper players are now able to locate Trackable Hidden Caches, which will provide loot that is also balanced for Interloper.
+- [SURVIVAL] Players are now able to find the Handheld Shortwave at the Airfield’s Control Tower and start the Signal Void Tale, while playing in Interloper.
 - TALES will be accessible via your existing save and do not need to start a new Survival save in order to get these changes
 - The bunkers discovered in Signal Void have been adjusted to provide less loot on Interloper.
 - A few extra Transmitter repair supplies will be newly available in Interloper to ensure the initial repairs are possible (applies to both existing saves or new).
@@ -1599,15 +1699,19 @@ To check current releases on each platform, please visit our new Build Status Pa
 
 - [20](https://hinterlandforums.com/forums/topic/43328-the-long-dark-updated-to-v216-xboxplaystation/)
 
+<span id="pcmac"></span><span id="2.16_(PC/Mac)"></span><span id="2.16_(pc/mac)"></span><span id="216-pcmac"></span>
+
 ### 2.16 (PC/Mac)
 
 Hello Community,
 
 We have just released our v2.16 (113628) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Steam and Epic Games Store. Please note that WINTERMUTE’s version number has not changed. This Hotfix addresses a bug introduced in the v.2.15 update for TALES FROM THE FAR TERRITORY.
 
+<span id="general_2"></span><span id="general-2"></span>
+
 #### GENERAL
 
-\[TALES\] Fixed an issue where Transmitters in Forlorn Muskeg and Pleasant Valley reverted to being unrepaired, even when players had previously repaired them during the Tale. Players who previously lost progress will once again find their Transmitters in the appropriate repaired state.  
+[TALES] Fixed an issue where Transmitters in Forlorn Muskeg and Pleasant Valley reverted to being unrepaired, even when players had previously repaired them during the Tale. Players who previously lost progress will once again find their Transmitters in the appropriate repaired state.  
  To check current releases on each platform, please visit our new Build Status Page.
 
 Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
@@ -1615,17 +1719,21 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [21](https://hinterlandforums.com/forums/topic/43322-the-long-dark-updated-to-v216-pcmac/)
 
+<span id="section"></span><span id="2.15"></span><span id="215"></span>
+
 ### 2.15
 
 Hello Community
 
 We have just released our v2.16 (113628) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Xbox and PlayStation. Please note that WINTERMUTE’s version number has not changed. This update enables the Tale from TALES FROM THE FAR TERRITORY to be played on Interloper. Details on these changes can be found in our latest Dev Diary found here.
 
+<span id="general_3"></span><span id="general-3"></span>
+
 #### GENERAL
 
-- \[SURVIVAL\] Enables TALES content in Interloper.
-- \[SURVIVAL\] Using the Handheld Shortwave Interloper players are now able to locate Trackable Hidden Caches, which will provide loot that is also balanced for Interloper.
-- \[SURVIVAL\] Players are now able to find the Handheld Shortwave at the Airfield’s Control Tower and start the Signal Void Tale, while playing in Interloper.
+- [SURVIVAL] Enables TALES content in Interloper.
+- [SURVIVAL] Using the Handheld Shortwave Interloper players are now able to locate Trackable Hidden Caches, which will provide loot that is also balanced for Interloper.
+- [SURVIVAL] Players are now able to find the Handheld Shortwave at the Airfield’s Control Tower and start the Signal Void Tale, while playing in Interloper.
 - TALES will be accessible via your existing save and do not need to start a new Survival save in order to get these changes
 - The bunkers discovered in Signal Void have been adjusted to provide less loot on Interloper.
 - A few extra Transmitter repair supplies will be newly available in Interloper to ensure the initial repairs are possible (applies to both existing saves or new)
@@ -1637,6 +1745,8 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [22](https://hinterlandforums.com/forums/topic/43286-the-long-dark-updated-to-v215-pcmac/)
 
+<span id="section_1"></span><span id="2.14"></span><span id="214"></span>
+
 ### 2.14
 
 Released April 14th 2023
@@ -1644,6 +1754,8 @@ Released April 14th 2023
 Hello Community,
 
 We just released our v2.14 (112927) Hotfix on Xbox for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY. Please note that WINTERMUTE’s version number has not changed. This hotfix addresses two critical issues following our most recent v2.10 release.
+
+<span id="general_4"></span><span id="general-4"></span>
 
 #### GENERAL
 
@@ -1656,16 +1768,20 @@ To check current releases on each platform, please visit our new Build Status Pa
 
 - [23](https://hinterlandforums.com/forums/topic/43243-the-long-dark-updated-to-v-214-xbox/)
 
+<span id="xboxplaystation_1"></span><span id="2.12_(Xbox/PlayStation)"></span><span id="2.12_(xbox/playstation)"></span><span id="212-xboxplaystation"></span><span id="2.12"></span>
+
 ### 2.12 (Xbox/PlayStation)
 
 Hello Community,
 
 We just released our v2.12 (112469) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Xbox and PS4. Please note that WINTERMUTE’s version number has not changed. This hotfix addresses two critical issues following our most recent v2.10 release.
 
+<span id="general_5"></span><span id="general-5"></span>
+
 #### GENERAL
 
-- \[TALES\] Fixed an issue where, if a player selected a save file containing TALES content while the DLC was not installed, the game would crash. An error message is now displayed when selecting the save file, informing the player of the missing content.
-- \[TALES\] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
+- [TALES] Fixed an issue where, if a player selected a save file containing TALES content while the DLC was not installed, the game would crash. An error message is now displayed when selecting the save file, informing the player of the missing content.
+- [TALES] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
 
 For a list of release numbers and Known Issues for each platform, please visit our new Build Status Page.  
  Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
@@ -1673,21 +1789,27 @@ For a list of release numbers and Known Issues for each platform, please visit o
 
 - [24](https://hinterlandforums.com/forums/topic/43192-the-long-dark-updated-to-v212-xboxplaystation/)
 
+<span id="pcmac_1"></span><span id="2.12_(PC/Mac)"></span><span id="2.12_(pc/mac)"></span><span id="212-pcmac"></span>
+
 ### 2.12 (PC/Mac)
 
 Hello Community,
 
 We just released our v2.12 (112469) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Steam and Epic Games Store. Please note that WINTERMUTE’s version number has not changed. This hotfix addresses a critical issue following our most recent v2.10 release.
 
+<span id="pcmac_2"></span><span id="PC/Mac"></span><span id="pc/mac"></span>
+
 #### PC/Mac
 
-- \[TALES\] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
+- [TALES] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
 
 For a list of release numbers and Known Issues for each platform, please visit our new Build Status Page.  
  Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
  **External links:**
 
 - [25](https://hinterlandforums.com/forums/topic/43186-the-long-dark-updated-to-v212-pcmac/)
+
+<span id="section_2"></span><span id="2.11"></span><span id="211"></span>
 
 ### 2.11
 
@@ -1697,15 +1819,19 @@ Hello Community,
 
 We just released our v2.11 Hotfix for THE LONG DARK on Xbox (112312) and WINTERMUTE on Xbox (111906). This update includes a fix for a bug introduced during the 2.09 Update.
 
+<span id="xbox"></span><span id="Xbox"></span>
+
 #### Xbox
 
-\[WINTERMUTE\] Fixed an issue where WINTERMUTE saves were not recognized by the game for some players following the TALES FROM THE FAR TERRITORY update, resulting in an inability to play Story Mode from saved files. Players who lost WINTERMUTE saves following the update are encouraged to reach out to us via the Support Portal for assistance. Please note that WINTERMUTE saves will work as intended for anyone accessing the Expansion Pass update for the first time following this update.  
+[WINTERMUTE] Fixed an issue where WINTERMUTE saves were not recognized by the game for some players following the TALES FROM THE FAR TERRITORY update, resulting in an inability to play Story Mode from saved files. Players who lost WINTERMUTE saves following the update are encouraged to reach out to us via the Support Portal for assistance. Please note that WINTERMUTE saves will work as intended for anyone accessing the Expansion Pass update for the first time following this update.  
  Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
 ### END OF RELEASE NOTES ###  
  **External links:**
 
 - [26](https://hinterlandforums.com/forums/topic/43109-the-long-dark-updated-to-v211-on-xbox/)
+
+<span id="tftft_part_two_signal_void"></span><span id="2.09_&amp;_2.10_(TFTFT_Part_Two:_Signal_Void)"></span><span id="2.09_&amp;_2.10_(tftft_part_two:_signal_void)"></span><span id="209-210-tftft-part-two-signal-void"></span><span id="2.09"></span>
 
 ### 2.09 &Amp; 2.10 (TFTFT Part Two: Signal Void)
 
@@ -1718,6 +1844,8 @@ Today, we launched TALES FROM THE FAR TERRITORY Part One: Forsaken Airfield on P
 TALES FROM THE FAR TERRITORY features the first paid content for THE LONG DARK, significantly adding to the world of Great Bear Island and the game's core Survival foundation. New Parts will be added regularly over the course of the 12-month Expansion Pass campaign, featuring new Regions, new Gameplay, and new objective-based Tales.
 
 Each Part of TALES FROM THE FAR TERRITORY includes content that is exclusive to the Paid stream, plus free updates to Survival Mode.
+
+<span id="part_one_forsaken_airfield"></span><span id="PART_ONE:_FORSAKEN_AIRFIELD"></span><span id="part_one:_forsaken_airfield"></span><span id="part-one-forsaken-airfield"></span>
 
 #### PART ONE: FORSAKEN AIRFIELD
 
@@ -1733,6 +1861,8 @@ The following paid features and content were included in TALES FROM THE FAR TERR
 
 Please note that when you first start your adventures in the Far Territory, you cannot access the new regions or transitions from the World Map until you have first found them in the world. No shortcuts! They will become visible after they have been initially discovered.
 
+<span id="part_one_free_stream"></span><span id="PART_ONE:_FREE_STREAM"></span><span id="part_one:_free_stream"></span><span id="part-one-free-stream"></span>
+
 #### PART ONE: FREE STREAM
 
 Along with the contents of Part One for the paid Expansion Pass, the following free updates were applied to the base Survival game.
@@ -1747,6 +1877,8 @@ Starting Spawn Points refresh: When you start a new Survival game, the locations
 
 For more details of each of these included features, please refer to the updated Roadmap page.
 
+<span id="part_two_signal_void"></span><span id="PART_TWO:_SIGNAL_VOID"></span><span id="part_two:_signal_void"></span><span id="part-two-signal-void"></span>
+
 #### PART TWO: SIGNAL VOID
 
 The first Tale, SIGNAL VOID: Requires an estimated 5+ hours to complete
@@ -1758,6 +1890,8 @@ The first Tale, SIGNAL VOID: Requires an estimated 5+ hours to complete
 - New “Surprise” Accessory item: Only found as part of the Tale – check out the update video to find out more!
 - A note for players on Interloper: Prepper Caches are have returned to the game, however, there will be no fully-stocked versions. The new Tale also isn’t available on Interloper.
 
+<span id="part_two_free_stream"></span><span id="PART_TWO:_FREE_STREAM"></span><span id="part_two:_free_stream"></span><span id="part-two-free-stream"></span>
+
 #### PART TWO: FREE STREAM
 
 Along with the contents of Part Two for the paid Expansion Pass, the following free updates were applied to the base Survival game.
@@ -1767,7 +1901,11 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - Enhanced Beachcombing: Watch for new loot and larger items after Blizzards
 - Acorns &amp; more Oak Trees: Prepare and eat Acorns, or use them to make delicious Acorn Coffee
 
+<span id="detailed_release_notes"></span><span id="DETAILED_RELEASE_NOTES"></span><span id="detailed-release-notes"></span>
+
 ##### DETAILED RELEASE NOTES
+
+<span id="user_interface"></span><span id="USER_INTERFACE"></span><span id="user-interface"></span>
 
 ###### USER INTERFACE
 
@@ -1780,6 +1918,8 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - UI - Fixed an issue that caused the wrong audio to play when pressing the 'X' button on a Controller in the Crafting Menu.
 - UI - Fixed an issue that caused the "Back to Home" button to disappear when using a controller.
 - UI - Reviewed and adjusted translated text for TALES FROM THE FAR TERRITORY as needed.
+
+<span id="environment_and_audio"></span><span id="ENVIRONMENT_and_AUDIO"></span><span id="environment-and-audio"></span>
 
 ###### ENVIRONMENT and AUDIO
 
@@ -1799,6 +1939,8 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - Environment - Removed numerous locations where the player could become trapped in the environment throughout Forsaken Airfield.
 - Environment - Fixed low resolution textures found on the Safe in the Hydro Dam.
 
+<span id="survival"></span><span id="SURVIVAL"></span>
+
 ###### SURVIVAL
 
 - Gameplay - Updated Memento Cache Interloper Spawn Table, and fixed an issue with some Keys spawning for disabled Memento Caches. Please note that players might not see the fix in an existing save if they have already visited that location.
@@ -1810,6 +1952,8 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - Gameplay - Fixed an issue that caused cured Pelts to float above the ground.
 - Gameplay - Updated the Deer Pelt icon to better match the in-game item.
 
+<span id="challenge_modes"></span><span id="CHALLENGE_MODES"></span><span id="challenge-modes"></span>
+
 ###### CHALLENGE MODES
 
 - The Hunted Part Two - Fixed an issue that caused the Old Bear to leave inconsistent blood trails.
@@ -1817,18 +1961,24 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - The Hunted Part Two - Fixed missing Rifle Ammo in the Camp Office.
 - Darkwalker - Fixed an issue that caused erroneous text to appear when completing the Darkwalker Challenge.
 
+<span id="wintermute"></span><span id="WINTERMUTE"></span>
+
 ###### WINTERMUTE
 
-\*\* Please note that this section contains spoilers for WINTERMUTE. \*\*
+\*\* Please note that this section contains spoilers for WINTERMUTE. \**
 
 - Episode 3 - Fixed an issue that allowed Players to inadvertently skip a cinematic during their first time watching it.
 - Episode 4 - Fixed issue that caused sound effects to be cut off after the end of a cinematic.
 - WINTERMUTE - Added missing Crafting icons.
 
+<span id="mac"></span><span id="MAC"></span>
+
 ###### MAC
 
 - Mac - Fixed an issue that prevented players from taking a screenshot using the “F8” hotkey.
 - Mac - Fixed an issue that caused the “Press any button” and “Loading…” text on load screens to appear very small on retina displays or other high-resolution monitors.
+
+<span id="consoles"></span><span id="CONSOLES"></span>
 
 ###### CONSOLES
 
@@ -1853,6 +2003,8 @@ In addition to the above changes, we have also provided the following general fi
 - WINTERMUTE - Fixed several issues in Wintermute missions that could cause a Player’s mission progress to become stuck.
 - WINTERMUTE - Fixed an issue that would cause the Episode Progression stat for a save to display incorrectly when viewing a Load Menu.
 
+<span id="further_information"></span><span id="FURTHER_INFORMATION"></span><span id="further-information"></span>
+
 ###### FURTHER INFORMATION
 
 For a list of Known Issues, please click here.  
@@ -1862,6 +2014,8 @@ For a list of Known Issues, please click here.
  **_External links:_**
 
 - [27](https://hinterlandforums.com/forums/topic/43078-tales-from-the-far-territory-part-two-released-the-long-dark-updated-to-version-209-xbox-windows-store-and-210-steam-epic-games-store-playstation/)
+
+<span id="section_3"></span><span id="2.08"></span><span id="208"></span>
 
 ### 2.08
 
@@ -1888,36 +2042,46 @@ CL Versions Displayed In-Game:
 
 Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
+<span id="user_interface_1"></span><span id="user-interface-1"></span>
+
 #### USER INTERFACE
 
-- \[UI\] Added missing stats to the Journal screen for TALES FROM THE FAR TERRITORY content.
-- \[UI\] Fixed the action text that appears when opening a container with the Hack Saw. “Sawing” will now appear instead of “Searching”.
-- \[UI\] Completed a general polish pass on UI items.
+- [UI] Added missing stats to the Journal screen for TALES FROM THE FAR TERRITORY content.
+- [UI] Fixed the action text that appears when opening a container with the Hack Saw. “Sawing” will now appear instead of “Searching”.
+- [UI] Completed a general polish pass on UI items.
+
+<span id="survival_mode"></span><span id="SURVIVAL_MODE"></span><span id="survival-mode"></span>
 
 #### SURVIVAL MODE
 
-- \[Gameplay\] Fixed an issue where unexpected items were spawning in Interloper games.
-- \[Gameplay\] Fixed an issue that caused players to wake up from Insomnia less often than intended.
-- \[Gameplay\] Fixed an issue that caused Distress Pistol Containers to lose their contents if the player transitioned through a load screen.
-- \[Gameplay\] Fixed an issue where some randomly spawned corpses were invisible.
-- \[Gameplay\] Fixed an issue where players using a Controller could not add fuel to a Fire.
+- [Gameplay] Fixed an issue where unexpected items were spawning in Interloper games.
+- [Gameplay] Fixed an issue that caused players to wake up from Insomnia less often than intended.
+- [Gameplay] Fixed an issue that caused Distress Pistol Containers to lose their contents if the player transitioned through a load screen.
+- [Gameplay] Fixed an issue where some randomly spawned corpses were invisible.
+- [Gameplay] Fixed an issue where players using a Controller could not add fuel to a Fire.
+
+<span id="tales_from_the_far_territory"></span><span id="TALES_FROM_THE_FAR_TERRITORY"></span><span id="tales-from-the-far-territory"></span>
 
 ##### TALES FROM THE FAR TERRITORY
 
-\*\*Please note that this section contains spoilers for TALES FROM THE FAR TERRITORY.\*\*
+\**Please note that this section contains spoilers for TALES FROM THE FAR TERRITORY.\**
 
-- \[Airfield\] Updated the route travelled by Bears in the Forsaken Airfield Region to help avoid areas where they could become stuck, including rocks in the middle of the river.
-- \[Airfield\] Fixed an issue where Glimmer Fog would not activate if the player was inside an interior while in the Forsaken Airfield.
+- [Airfield] Updated the route travelled by Bears in the Forsaken Airfield Region to help avoid areas where they could become stuck, including rocks in the middle of the river.
+- [Airfield] Fixed an issue where Glimmer Fog would not activate if the player was inside an interior while in the Forsaken Airfield.
+
+<span id="general_6"></span><span id="general-6"></span>
 
 ###### GENERAL
 
-- \[General\] Fixed an issue that caused WINTERMUTE to ignore Launch Options set in the Steam client, such as video mode and resolution overrides.
-- \[Audio\] Fixed an issue that caused waterfall sounds to play at unintended locations.
+- [General] Fixed an issue that caused WINTERMUTE to ignore Launch Options set in the Steam client, such as video mode and resolution overrides.
+- [Audio] Fixed an issue that caused waterfall sounds to play at unintended locations.
 
 ### END OF RELEASE NOTES ###  
  **_External links:_**
 
 - [28](https://hinterlandforums.com/forums/topic/43023-the-long-dark-updated-to-v208/)
+
+<span id="section_4"></span><span id="2.07"></span><span id="207"></span>
 
 ### 2.07
 
@@ -1948,29 +2112,39 @@ CL Versions Displayed In-Game:
 
 Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
+<span id="user_interface_2"></span><span id="user-interface-2"></span>
+
 #### USER INTERFACE
 
-- \[UI\] Fixed an issue that caused the game to crash with the error message “failure to apply graphics settings” when a previously available display was no longer valid.
+- [UI] Fixed an issue that caused the game to crash with the error message “failure to apply graphics settings” when a previously available display was no longer valid.
+
+<span id="wintermute_1"></span><span id="wintermute-1"></span>
 
 #### WINTERMUTE
 
-\*\* Please note that this section contains spoilers for WINTERMUTE. \*\*
+\*\* Please note that this section contains spoilers for WINTERMUTE. \**
 
-- \[EP 4\] Lost Power Workers: Fixed an issue that caused the game to hang if the player entered the Trailer in Blackrock when looking for the second Lost Power Worker.
+- [EP 4] Lost Power Workers: Fixed an issue that caused the game to hang if the player entered the Trailer in Blackrock when looking for the second Lost Power Worker.
+
+<span id="windows_10"></span><span id="WINDOWS_10"></span><span id="windows-10"></span>
 
 ##### WINDOWS 10
 
-- \[General\] Fixed a hang when launching the game on Windows 10. Please note that some players will still experience a hang when launching the game using Windows 7, however we continue to work toward a resolution.
+- [General] Fixed a hang when launching the game on Windows 10. Please note that some players will still experience a hang when launching the game using Windows 7, however we continue to work toward a resolution.
+
+<span id="mac_1"></span><span id="mac-1"></span>
 
 ##### MAC
 
-- \[General\] Fixed an issue on OS 10.14 that would prevent players from being able to launch the game.
-- \[General\] Fixed an issue preventing players from accessing WINTERMUTE and TALES FROM THE FAR TERRITORY DLC on OS 10.14 and older.
+- [General] Fixed an issue on OS 10.14 that would prevent players from being able to launch the game.
+- [General] Fixed an issue preventing players from accessing WINTERMUTE and TALES FROM THE FAR TERRITORY DLC on OS 10.14 and older.
 
 ### END OF RELEASE NOTES ###  
  **_External links:_**
 
 - [29](https://hinterlandforums.com/forums/topic/43001-the-long-dark-updated-to-v207/)
+
+<span id="section_5"></span><span id="2.06"></span><span id="206"></span>
 
 ### 2.06
 
@@ -1978,11 +2152,13 @@ Released December 20 2022
 
 The fix listed below is for Steam PC/Linux and Epic Games Store PC.
 
-- \[Survival\] Implemented a potential fix for a rare issue where when entering or exiting a Cave, the Player's game could restart and place them in a new location while resetting their progress. With the additional fixes, if the issue is encountered, player progress should now be maintained.
+- [Survival] Implemented a potential fix for a rare issue where when entering or exiting a Cave, the Player's game could restart and place them in a new location while resetting their progress. With the additional fixes, if the issue is encountered, player progress should now be maintained.
 
 **_External links:_**
 
 - [30](https://hinterlandforums.com/forums/topic/42423-known-issues-and-updates-tales-from-the-far-territory-updated-dec-20/)
+
+<span id="section_6"></span><span id="2.05"></span><span id="205"></span>
 
 ### 2.05
 
@@ -2001,6 +2177,8 @@ _The fixes listed below are for Steam PC/Linux and Epic Games Store PC._
 **_External links:_**
 
 - [31](https://hinterlandforums.com/forums/topic/42423-known-issues-and-updates-tales-from-the-far-territory-updated-dec-20/)
+
+<span id="section_7"></span><span id="2.04"></span><span id="204"></span>
 
 ### 2.04
 
@@ -2021,6 +2199,8 @@ _Today's fixes listed below are for Steam PC/Linux and Epic Games Store PC._
 
 - [32](https://hinterlandforums.com/forums/topic/42423-known-issues-and-updates-tales-from-the-far-territory-updated-dec-20/)
 
+<span id="tftft_part_1_forsaken_airfield_update"></span><span id="2.03_(TFTFT_Part_1:_Forsaken_Airfield_Update)"></span><span id="2.03_(tftft_part_1:_forsaken_airfield_update)"></span><span id="203-tftft-part-1-forsaken-airfield-update"></span><span id="2.03"></span>
+
 ### 2.03 (TFTFT Part 1: Forsaken Airfield Update)
 
 Released 5 December 2022
@@ -2029,9 +2209,13 @@ Survivors, thank you for your patience as we navigate the release of our first E
 
 We can confirm that a more comprehensive change list is coming, however, we have released the v2.03 (105581) Hotfix to address a couple of key issues in the new Expansion.
 
+<span id="general_fixes"></span><span id="GENERAL_FIXES"></span><span id="general-fixes"></span>
+
 #### GENERAL FIXES
 
 - Fixed an issue where new rifle variants appeared lined up inside a trailer by Carter Hydro Dam in the new Updated Survival Mode.
+
+<span id="more_information"></span><span id="MORE_INFORMATION"></span><span id="more-information"></span>
 
 ##### MORE INFORMATION
 
@@ -2045,6 +2229,8 @@ Thank you for your ongoing patience and support. Please remember to visit our Su
  **_External Links:_**
 
 - [The Long Dark Updated to v2.03 \[105581](https://hinterlandforums.com/forums/topic/42404-the-long-dark-updated-to-v203-105581/)\]
+
+<span id="section_8"></span><span id="2.02"></span><span id="202"></span>
 
 ### 2.02
 
@@ -2066,36 +2252,46 @@ Thank you for your patience and support. We look forward to sharing more informa
 
 Please remember to visit our Support Portal if you encounter any issues while playing the game. For additional news and information, please sign up for our newsletter and follow us on Twitter (Game | Studio).
 
+<span id="user_interface_3"></span><span id="user-interface-3"></span>
+
 #### USER INTERFACE
 
-- \[UI\] Fixed an issue that prevented the Surveyed Locations from displaying the correct number of locations when viewed in the Journal.
-- \[UI\] Fixed an issue that prevented the Voice Audio slider from responding correctly when adjusted in Audio Options.
-- \[UI\] Fixed an issue that caused the subtitles to appear underneath the Radial Menu, preventing players from being able to read the subtitles.
-- \[UI\] Fixed an issue that caused the Manage Data button (found under Privacy -&gt; Options) to link incorrectly to Unity’s Cloud Analytics.
-- \[UI\] Added a check to the Fire Starting Menu to prevent players from being able to open the menu if they do not have all of the items required.
+- [UI] Fixed an issue that prevented the Surveyed Locations from displaying the correct number of locations when viewed in the Journal.
+- [UI] Fixed an issue that prevented the Voice Audio slider from responding correctly when adjusted in Audio Options.
+- [UI] Fixed an issue that caused the subtitles to appear underneath the Radial Menu, preventing players from being able to read the subtitles.
+- [UI] Fixed an issue that caused the Manage Data button (found under Privacy -&gt; Options) to link incorrectly to Unity’s Cloud Analytics.
+- [UI] Added a check to the Fire Starting Menu to prevent players from being able to open the menu if they do not have all of the items required.
+
+<span id="survival_1"></span><span id="survival-1"></span>
 
 #### SURVIVAL
 
-- \[Gameplay\] Fixed an issue that caused Carcasses to decay at an accelerated rate.
-- \[Gameplay\] Fixed an issue that prevented players from lighting torches from a lit Stove or Rim Grill.
-- \[Gameplay\] Fixed an issue that allowed players to duplicate Matches by adding a stack to a container, while a Match is lit.
+- [Gameplay] Fixed an issue that caused Carcasses to decay at an accelerated rate.
+- [Gameplay] Fixed an issue that prevented players from lighting torches from a lit Stove or Rim Grill.
+- [Gameplay] Fixed an issue that allowed players to duplicate Matches by adding a stack to a container, while a Match is lit.
+
+<span id="wintermute_2"></span><span id="wintermute-2"></span>
 
 #### WINTERMUTE
 
-\*\* Please note that this section contains spoilers for WINTERMUTE. \*\*
+\*\* Please note that this section contains spoilers for WINTERMUTE. \**
 
-- \[EP 3\] Trauma: Fixed an issue that caused a corrupted save game if the game was saved immediately after the first conversation with Father Thomas.
-- \[EP 4\] Donner: Fixed an issue that prevented players from progressing past the planks after the rooftop escape sequence after receiving the call from Jace and retrieving the Hard Case. This should also retroactively fix the issue for players who are currently stuck.
-- \[EP 4\] Donner: Fixed the interaction tag on the Prison Gate to prevent it from sometimes appearing below the gate.
-- \[EP 4\] The Detonators: Fixed an issue that would cause an item being held by the Player to be duplicated after triggering the Mine Collapse cinematic.
+- [EP 3] Trauma: Fixed an issue that caused a corrupted save game if the game was saved immediately after the first conversation with Father Thomas.
+- [EP 4] Donner: Fixed an issue that prevented players from progressing past the planks after the rooftop escape sequence after receiving the call from Jace and retrieving the Hard Case. This should also retroactively fix the issue for players who are currently stuck.
+- [EP 4] Donner: Fixed the interaction tag on the Prison Gate to prevent it from sometimes appearing below the gate.
+- [EP 4] The Detonators: Fixed an issue that would cause an item being held by the Player to be duplicated after triggering the Mine Collapse cinematic.
+
+<span id="playstation_4"></span><span id="PLAYSTATION_4"></span><span id="playstation-4"></span>
 
 ##### PLAYSTATION 4
 
-- \[HDR\] Fixed an issue that prevented the game from enabling HDR mode on HDR-enabled devices.
+- [HDR] Fixed an issue that prevented the game from enabling HDR mode on HDR-enabled devices.
 
 ### END OF RELEASE NOTES ### **_External Links:_**
 
 - [33](https://hinterlandforums.com/forums/topic/42084-updated-090722-the-long-dark-quality-of-life-update-v202-99904/)
+
+<span id="section_9"></span><span id="2.00"></span><span id="200"></span>
 
 ### 2.00
 
@@ -2117,98 +2313,114 @@ This Quality of Life update includes a major update of the Unity Engine, to vers
 
 Please note that this update will likely impact any mods you may have installed or have created. While we don’t provide any official support for mods, please feel free to visit our Mod Forum with any questions and we will monitor questions to help where we can.
 
+<span id="general_fixes_1"></span><span id="general-fixes-1"></span>
+
 #### GENERAL FIXES
 
-- \[Update\] Updated Unity to 2019.4.19f1
-- \[Rendering\] Fixed an issue that caused excessive Z-Fighting (flickering) to appear on numerous objects and the environment when playing the game on Linux.
-- \[Rendering\] Updated Linux builds to use Vulcan by default.
-- \[General\] Optimized save data to help reduce the overall size of save files.
-- \[General\] Fixed an issue that could cause stuttering or freezes when Lighting a Campfire or Torch.
-- \[General\] Fixed an issue that caused containers that the Player had already searched, to re-randomize their contents.
-- \[General\] Fixed the issue where explosion decals from Noisemakers disappeared between game sessions.
-- \[Gameplay\] Added measures to prevent Players from falling through objects when they wake after sleeping.
+- [Update] Updated Unity to 2019.4.19f1
+- [Rendering] Fixed an issue that caused excessive Z-Fighting (flickering) to appear on numerous objects and the environment when playing the game on Linux.
+- [Rendering] Updated Linux builds to use Vulcan by default.
+- [General] Optimized save data to help reduce the overall size of save files.
+- [General] Fixed an issue that could cause stuttering or freezes when Lighting a Campfire or Torch.
+- [General] Fixed an issue that caused containers that the Player had already searched, to re-randomize their contents.
+- [General] Fixed the issue where explosion decals from Noisemakers disappeared between game sessions.
+- [Gameplay] Added measures to prevent Players from falling through objects when they wake after sleeping.
+
+<span id="user_interface_4"></span><span id="user-interface-4"></span>
 
 #### USER INTERFACE
 
-- \[Map\] Fixed an issue that caused the Prepper Caches to appear on the Map, even when the Player hasn’t Surveyed that area.
-- \[UI\] Blackrock Region: Fixed an incorrect button icon for the “Go Down” prompt when using the Elevator found in the Blackrock Mine.
-- \[UI\] Fixed an issue that caused some text on the Main Menu to render at a lower resolution than expected.
-- \[UI\] Fixed an issue that prevented Players from properly opening the Radial Menu when Steam Input was enabled.
-- \[UI\] Fixed an issue that caused the Crafting Filter to default to the Ammunition Crafting Filter for all benches, after interacting with the Ammunition Crafting Bench.
-- \[UI\] Fixed an issue that caused Subtitles and Closed Captions to no longer appear when the Voiceover audio level was set to 0.
-- \[UI\] Fixed an issue that would cause fuel to automatically be added to a fire when accessing the “Add Fuel” menu with an Xbox Controller.
-- \[UI\] Fixed an issue that caused item-related warning messages to appear underneath menus when attempting to use them.
-- \[UI\] Fixed an issue that caused some locations to report as newly discovered when they had already been discovered.
-- \[UI\] Fixed an issue where the Journal displayed the incorrect number of collectable Buffer Memories.
-- \[UI\] Fixed an issue where the Blackrock Region map was missing some roads.
-- \[UI\] Fixed an issue that would cause an empty UI box to appear if the Player pressed “Escape” when viewing the Cooking Slot menu.
+- [Map] Fixed an issue that caused the Prepper Caches to appear on the Map, even when the Player hasn’t Surveyed that area.
+- [UI] Blackrock Region: Fixed an incorrect button icon for the “Go Down” prompt when using the Elevator found in the Blackrock Mine.
+- [UI] Fixed an issue that caused some text on the Main Menu to render at a lower resolution than expected.
+- [UI] Fixed an issue that prevented Players from properly opening the Radial Menu when Steam Input was enabled.
+- [UI] Fixed an issue that caused the Crafting Filter to default to the Ammunition Crafting Filter for all benches, after interacting with the Ammunition Crafting Bench.
+- [UI] Fixed an issue that caused Subtitles and Closed Captions to no longer appear when the Voiceover audio level was set to 0.
+- [UI] Fixed an issue that would cause fuel to automatically be added to a fire when accessing the “Add Fuel” menu with an Xbox Controller.
+- [UI] Fixed an issue that caused item-related warning messages to appear underneath menus when attempting to use them.
+- [UI] Fixed an issue that caused some locations to report as newly discovered when they had already been discovered.
+- [UI] Fixed an issue where the Journal displayed the incorrect number of collectable Buffer Memories.
+- [UI] Fixed an issue where the Blackrock Region map was missing some roads.
+- [UI] Fixed an issue that would cause an empty UI box to appear if the Player pressed “Escape” when viewing the Cooking Slot menu.
+
+<span id="art_fixes"></span><span id="ART_FIXES"></span><span id="art-fixes"></span>
 
 #### ART FIXES
 
-- \[Enviro\] General art and environment polish pass on all Regions.
-- \[Enviro\] Fixed numerous locations where bushes and grass would clip through the environment or other objects.
-- \[Enviro\] Fixed a number of floating objects found throughout the world.
-- \[Enviro\] Fixed a small hole found on the interior geometry of cars.
-- \[Enviro\] Blackrock Region: Fixed a misaligned water trigger so that Players will no longer drown before reaching the water below the Power Plant entrance.
-- \[Enviro\] Blackrock Region: Fixed an issue that caused light effects to appear in the Steam Tunnels during the Aurora, even if there are no electrical items in the area.
-- \[Enviro\] Blackrock Region: Fixed numerous locations that provided Players with access to invalid areas of the Region.
-- \[Enviro\] Blackrock Region: Fixed many floating or misplaced objects.
-- \[Enviro\] Blackrock Region: Fixed many issues where items could fall through the world if dropped at certain locations.
-- \[Enviro\] Blackrock Region: Fixed many issues where players could become stuck or fall through the world.
-- \[Enviro\] Blackrock Region: Fixed many issues where snow wasn't being lit correctly.
-- \[Enviro\] Blackrock Region: Fixed an issue that caused some door frames to disappear, allowing Players to unintentionally see through them.
-- \[Enviro\] Blackrock Region: Adjusted the Level of Detail settings in a number of locations to prevent geometry from unsightly popping-in.
-- \[Enviro\] Blackrock Region: Fixed scaling issues with some of the rock facades found throughout the region.
-- \[Enviro\] Blackrock Region: Fixed an issue that prevented the Player from breaking down the Hand Truck found in the Prison Interior.
-- \[Enviro\] Blackrock Region: Fixed an issue that would cause some materials to float after breaking down an object when in the Old Substation.
-- \[Enviro\] Blackrock Region: Fixed a small hole found in the Steam Tunnel geo.
-- \[Enviro\] Blackrock Region: Replaced a static version of the Car Battery found in some vehicles with the correct (interactable) version.
-- \[Enviro\] Blackrock Region: Fixed an issue that would cause Players to sink through the planks found in the Mines if they saved the game and then reloaded while standing on the planks.
-- \[Enviro\] Hushed River Valley: Fixed various Birch Saplings that were placed too deeply in the snow.
+- [Enviro] General art and environment polish pass on all Regions.
+- [Enviro] Fixed numerous locations where bushes and grass would clip through the environment or other objects.
+- [Enviro] Fixed a number of floating objects found throughout the world.
+- [Enviro] Fixed a small hole found on the interior geometry of cars.
+- [Enviro] Blackrock Region: Fixed a misaligned water trigger so that Players will no longer drown before reaching the water below the Power Plant entrance.
+- [Enviro] Blackrock Region: Fixed an issue that caused light effects to appear in the Steam Tunnels during the Aurora, even if there are no electrical items in the area.
+- [Enviro] Blackrock Region: Fixed numerous locations that provided Players with access to invalid areas of the Region.
+- [Enviro] Blackrock Region: Fixed many floating or misplaced objects.
+- [Enviro] Blackrock Region: Fixed many issues where items could fall through the world if dropped at certain locations.
+- [Enviro] Blackrock Region: Fixed many issues where players could become stuck or fall through the world.
+- [Enviro] Blackrock Region: Fixed many issues where snow wasn't being lit correctly.
+- [Enviro] Blackrock Region: Fixed an issue that caused some door frames to disappear, allowing Players to unintentionally see through them.
+- [Enviro] Blackrock Region: Adjusted the Level of Detail settings in a number of locations to prevent geometry from unsightly popping-in.
+- [Enviro] Blackrock Region: Fixed scaling issues with some of the rock facades found throughout the region.
+- [Enviro] Blackrock Region: Fixed an issue that prevented the Player from breaking down the Hand Truck found in the Prison Interior.
+- [Enviro] Blackrock Region: Fixed an issue that would cause some materials to float after breaking down an object when in the Old Substation.
+- [Enviro] Blackrock Region: Fixed a small hole found in the Steam Tunnel geo.
+- [Enviro] Blackrock Region: Replaced a static version of the Car Battery found in some vehicles with the correct (interactable) version.
+- [Enviro] Blackrock Region: Fixed an issue that would cause Players to sink through the planks found in the Mines if they saved the game and then reloaded while standing on the planks.
+- [Enviro] Hushed River Valley: Fixed various Birch Saplings that were placed too deeply in the snow.
+
+<span id="survival_2"></span><span id="survival-2"></span>
 
 #### SURVIVAL
 
-- \[Gameplay\] Mountain Town: Fixed an issue that would cause the Key for Paradise Meadows Farm to de-spawn, preventing Players from being able to retrieve it.
-- \[Gameplay\] Fixed an issue that caused Carcasses to decay faster than intended.
-- \[Gameplay\] Fixed an issue that caused the Ballistic Vest’s buff to remain active even after the vest was taken off.
-- \[Gameplay\] Fixed an issue that prevented the Noisemaker from exploding if thrown at exactly the same time a struggle starts.
-- \[Gameplay\] Fixed an issue that would cause some items found in the Blackrock Mines to create new stacks when added to inventory, instead of stacking with existing items.
-- \[Gameplay\] Fixed an issue that caused Noisemakers to become unlit if lit before transitioning through a load screen, resulting in inconsistent fuse burn times.
-- \[Gameplay\] Fixed an issue where players could interact with containers while holding a lit Noisemaker.
-- \[Crafting\] Fixed an issue where Crampon Repair mistakenly required a Sewing Kit.
-- \[Crafting\] Crafting the Noisemaker will no longer increase your Repair Skill.
-- \[Crafting\] Fixed an issue that allowed Players to craft more Bullets then their current supply of Gunpowder would allow.
+- [Gameplay] Mountain Town: Fixed an issue that would cause the Key for Paradise Meadows Farm to de-spawn, preventing Players from being able to retrieve it.
+- [Gameplay] Fixed an issue that caused Carcasses to decay faster than intended.
+- [Gameplay] Fixed an issue that caused the Ballistic Vest’s buff to remain active even after the vest was taken off.
+- [Gameplay] Fixed an issue that prevented the Noisemaker from exploding if thrown at exactly the same time a struggle starts.
+- [Gameplay] Fixed an issue that would cause some items found in the Blackrock Mines to create new stacks when added to inventory, instead of stacking with existing items.
+- [Gameplay] Fixed an issue that caused Noisemakers to become unlit if lit before transitioning through a load screen, resulting in inconsistent fuse burn times.
+- [Gameplay] Fixed an issue where players could interact with containers while holding a lit Noisemaker.
+- [Crafting] Fixed an issue where Crampon Repair mistakenly required a Sewing Kit.
+- [Crafting] Crafting the Noisemaker will no longer increase your Repair Skill.
+- [Crafting] Fixed an issue that allowed Players to craft more Bullets then their current supply of Gunpowder would allow.
+
+<span id="wintermute_3"></span><span id="wintermute-3"></span>
 
 #### WINTERMUTE
 
-\*\* Please note that this section contains spoilers for WINTERMUTE. \*\*
+\*\* Please note that this section contains spoilers for WINTERMUTE. \**
 
-- \[EP 2\] Fixed an issue that could prevent the Player from being able to open the gate to the Carter Dam.
-- \[EP 2\] Fixed missing dialogue audio when asking Methuselah about Wildlife.
-- \[EP 4\] Fixed a bug that could cause the game to hang or enter other incorrect states if an autosave occurred while a cinematic was playing. This addresses numerous issues including NPCs becoming stuck or the game loading to a black screen.
-- \[EP 4\] Fixed an issue that would cause Players to become stuck in the Suffocating state if they saved and reloaded while suffocating.
-- \[EP 4\] Blackrock Blues: Fixed an issue that prevented Players from being able to climb through the window leading to the Infirmary.
+- [EP 2] Fixed an issue that could prevent the Player from being able to open the gate to the Carter Dam.
+- [EP 2] Fixed missing dialogue audio when asking Methuselah about Wildlife.
+- [EP 4] Fixed a bug that could cause the game to hang or enter other incorrect states if an autosave occurred while a cinematic was playing. This addresses numerous issues including NPCs becoming stuck or the game loading to a black screen.
+- [EP 4] Fixed an issue that would cause Players to become stuck in the Suffocating state if they saved and reloaded while suffocating.
+- [EP 4] Blackrock Blues: Fixed an issue that prevented Players from being able to climb through the window leading to the Infirmary.
+
+<span id="custom_mode"></span><span id="CUSTOM_MODE"></span><span id="custom-mode"></span>
 
 #### CUSTOM MODE
 
-- \[Custom\] Fixed an issue so that Voyager and Stalker default difficulty are now correctly set to “Random.”
+- [Custom] Fixed an issue so that Voyager and Stalker default difficulty are now correctly set to “Random.”
+
+<span id="challenge_modes_1"></span><span id="challenge-modes-1"></span>
 
 #### CHALLENGE MODES
 
-- \[Darkwalker\] Fixed an issue that prevented Players from resting when suffering from the Anxious/Afraid Affliction.
-- \[Archivist\\As the Dead Sleep\] Fixed an issue that would cause locations to incorrectly appear as “Surveyed” at the start of the Challenge.
-- \[As the Dead Sleep\] Fixed an issue that would cause the Journal to appear corrupted if the challenge ended while the Journal was open.
+- [Darkwalker] Fixed an issue that prevented Players from resting when suffering from the Anxious/Afraid Affliction.
+- [Archivist\\As the Dead Sleep] Fixed an issue that would cause locations to incorrectly appear as “Surveyed” at the start of the Challenge.
+- [As the Dead Sleep] Fixed an issue that would cause the Journal to appear corrupted if the challenge ended while the Journal was open.
 
 **_External Link:_**
 
 - [34](https://hinterlandforums.com/forums/topic/41705-the-long-dark-updated-to-v200-91441/#comment-236292)
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. [THE LONG DARK - IRON ROAD Updated to Version 2.59 - Priority Fixes](https://hinterlandforums.com/forums/topic/48698-the-long-dark-iron-road-updated-to-version-259-priority-fixes/)[↩︎](#fnref1)
-2. [THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54) (sic)](https://hinterlandforums.com/forums/topic/48191-ep5-hotfix-2-the-long-dark-wintermute-updated-to-version-224/), April 23, 2026[↩︎](#fnref2)
-3. [\[EP5 HOTFIX #1\] The Long Dark WINTERMUTE Updated to version 2.23](https://hinterlandforums.com/forums/topic/48130-ep5-hotfix-1-the-long-dark-wintermute-updated-to-version-223/), April 8, 2026[↩︎](#fnref3)
-4. [THE LONG DARK Updated to 2.52 - EPISODE FIVE RELEASED](https://hinterlandforums.com/forums/topic/48060-the-long-dark-updated-to-252-episode-five-released/), March 31, 2026[↩︎](#fnref4)
-5. [THE LONG DARK Updated to v 2.51](https://hinterlandforums.com/forums/topic/47749-the-long-dark-updated-to-v-251/), December 11, 2025[↩︎](#fnref5)
+1. <span id="fn1"></span>[THE LONG DARK - IRON ROAD Updated to Version 2.59 - Priority Fixes](https://hinterlandforums.com/forums/topic/48698-the-long-dark-iron-road-updated-to-version-259-priority-fixes/)[↩︎](#fnref1)
+2. <span id="fn2"></span>[THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54) (sic)](https://hinterlandforums.com/forums/topic/48191-ep5-hotfix-2-the-long-dark-wintermute-updated-to-version-224/), April 23, 2026[↩︎](#fnref2)
+3. <span id="fn3"></span>[[EP5 HOTFIX #1] The Long Dark WINTERMUTE Updated to version 2.23](https://hinterlandforums.com/forums/topic/48130-ep5-hotfix-1-the-long-dark-wintermute-updated-to-version-223/), April 8, 2026[↩︎](#fnref3)
+4. <span id="fn4"></span>[THE LONG DARK Updated to 2.52 - EPISODE FIVE RELEASED](https://hinterlandforums.com/forums/topic/48060-the-long-dark-updated-to-252-episode-five-released/), March 31, 2026[↩︎](#fnref4)
+5. <span id="fn5"></span>[THE LONG DARK Updated to v 2.51](https://hinterlandforums.com/forums/topic/47749-the-long-dark-updated-to-v-251/), December 11, 2025[↩︎](#fnref5)

@@ -53,15 +53,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Hunter's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Hunter's Revolver is an artfully engraved and blued firearm with a distinct ivory grip featuring a diamond shaped insert. It has an extra long barrel enabling it to land hits from twice as far away, but the extra material makes it weigh 0.25 Kg more than the standard revolver.
 
 Instead of rear iron sights, the hunters revolver has a front sight post on the back which can make aiming a challenge.
 
+<span id="revolver_range"></span><span id="Revolver_Range"></span><span id="revolver-range"></span>
+
 ## Revolver Range
 
 The range increase is applied to a ray-trace fired from the center of the screen when a shot is fired, normally the standard Revolver's ray-trace range is about 30 meters long, but the Hunter's Revolver's is 60 meters long. Past this range the weapon will be unable to damage any [Wildlife](./Wildlife.md).
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -74,11 +80,15 @@ It can be found:
 - In a bucket next to a [Work Bench](./Work%20Bench.md)
 - Under the Work Bench
 
+<span id="differences_from_revolver"></span><span id="Differences_from_Revolver"></span><span id="differences-from-revolver"></span>
+
 ## Differences from Revolver
 
 - Base weight is 0.25kg more than the Revolver
 - Range is 100% more than the Revolver
 - Has two front posts as its iron sights
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -87,6 +97,8 @@ It can be found:
 ![Hunter's Revolver iron sights](../assets/Hunters_Revolver_Iron_Sights.png)
 
 ![Hunter's Revolver Ground Model](../assets/Hunters_Revolver_Ground_Model_High_res.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

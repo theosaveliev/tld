@@ -30,6 +30,8 @@
 
 **Frigid Bones** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “__You are chilled to the core.  
@@ -39,6 +41,8 @@
 > — In-game Description
 
 Frigid Bones is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stages 2-4 of Misery. It reduces the survivor's Feels Like temperature and increases the time required to fill the Warmth meter.
+
+<span id="effects"></span><span id="Effects"></span>
 
 ## Effects
 

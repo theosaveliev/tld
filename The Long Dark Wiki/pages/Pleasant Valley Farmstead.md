@@ -24,6 +24,8 @@ Has a bed
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Farmstead is found at the back of a dead orchard, near the side of the river and at the end of a long driveway off the main road (a car and a wooden arch mark the entrance to down the path, which is lined with telephone poles). The location consists of a derelict barn, a grain silo, and a large farmhouse with a basement. The silo cannot be entered. There is also an abandoned [Car](./Car.md) on the property. Some distance behind the farmstead is another broken stable with a chance to spawn a [Hunting Rifle](./Hunting%20Rifle.md), as well as usually having a [Frozen Corpse](./Frozen%20Corpse.md) and a small amount of supplies.
@@ -38,15 +40,19 @@ It is a tactical choice for a base because of the size, the large amount of loot
 
 Be wary of bears near this location, as there is a den not very far away and the bear tends to wander. Sometimes, there can be **two** bears patrolling around the area.
 
+<span id="story_mode"></span><span id="Story_Mode"></span><span id="story-mode"></span>
+
 ## Story Mode
 
-**\*Spoilers\***
+***Spoilers\***
 
 The farmstead is home to [Molly](./Molly.md) who once ran the farm with a man (likely her husband). She states the farm often ran on generators, since the power went out frequently. In the office, there is a photograph of a younger, glum-looking Molly with the man--his arm flung around her shoulder.
 
 The man is dead as of Episode 3, and his corpse may be found in the farmstead basement. The man was killed by wolves, according to Molly. She states she did not kill him, but she did not try to save him, either.
 
 In the story, most of the house is locked and inaccessible for much of the game. The basement may be accessed after the initial opening cutscenes, however.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

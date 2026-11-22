@@ -15,7 +15,7 @@
 
 [The Crash](../assets/The_Crash.png)
 
-**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)
 
 **Episode:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -30,6 +30,8 @@
 **Next:** [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md)
 
 This is the mission transcript for mission 2 [The Crash](./The%20Crash.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
+
+<span id="transcript"></span><span id="Transcript"></span>
 
 ## Transcript
 
@@ -53,6 +55,8 @@ THE CRASH
 
 _Mackenzie uses a [Bandage](./Bandage.md) to stop the bleeding from his hand, then begins to hobble with a [Sprained Ankle](./Sprained%20Ankle.md). Fire and debris scour a ravine that the pilot finds himself in, with various crates from the plane able to be broken down for supplies._
 
+<span id="try_to_climb_out_of_the_ravine"></span><span id="Try_to_climb_out_of_the_ravine"></span><span id="try-to-climb-out-of-the-ravine"></span>
+
 ## Try to climb out of the ravine
 
 _If the player attempts to walk up the fallen tree bridge to use the [Rock Climb](./Rock%20Climb.md) out of the gorge, the camera will stop to show the climb and Mackenzie will say:_
@@ -62,6 +66,8 @@ Mackenzie: "I could probably climb that."
 _A special cutscene plays of Mackenzie failing to climb out and falling down._
 
 Mackenzie: "Damn... arm's too weak. I need to find some shelter from this wind."
+
+<span id="find_shelter_from_the_cold"></span><span id="Find_shelter_from_the_cold"></span><span id="find-shelter-from-the-cold"></span>
 
 ## Find shelter from the cold
 
@@ -85,6 +91,8 @@ _Mackenzie then walks around a bend and up to the wreckage of his floatplane._
 
 Mackenzie: "My plane...not sure which of us looks worse. Poor girl, this isn't how things were supposed to end."
 
+<span id="search_for_astrid"></span><span id="Search_for_Astrid"></span><span id="search-for-astrid"></span>
+
 ## Search for Astrid
 
 _If the player tries to leave the crash site via the wing serving as a ramp, Mackenzie will hit an invisible wall and say:_
@@ -102,6 +110,8 @@ Mackenzie: "Astrid's pack."
 _The man then picks up the hardcase, eyeing the lock before taking it._
 
 Mackenzie: "Hmm...locked. Whatever's in this case, Astrid was willing to die for it. I hope she hasn't already died for it."
+
+<span id="look_for_clues"></span><span id="Look_for_clues"></span><span id="look-for-clues"></span>
 
 ## Look for clues
 
@@ -136,6 +146,8 @@ Mackenzie: "Great. A town. Maybe I can find help there."
 _Mackenzie makes his way down a path leading to the town before spotting a house with smoke rising from it's chimney._
 
 Mackenzie: "Look. Smoke from that chimney. That means someone's home."
+
+<span id="investigate_the_house"></span><span id="Investigate_the_house"></span><span id="investigate-the-house"></span>
 
 ## Investigate the house
 

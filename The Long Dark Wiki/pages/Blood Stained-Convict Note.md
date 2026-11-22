@@ -6,7 +6,7 @@
 
 [Blood Stained Convict Note icon](../assets/Blood_Stained-Convict_Note_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md)
 
@@ -36,13 +36,17 @@
 
 During the course of the mission, the Astrid finds the note _Blood Stained-Convict Note_ on the body of a dead prisoner in one of the outbuildings off of [Heartbreak Bridge](./Heartbreak%20Bridge.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Blood Stained-Convict Note**_
 
 I'm soakin right through this paper. All that's left of me those cowards. Like somethin jump up and bit me. Was wrong to follow [Mathis](./Mathis.md). No leader. Don't trust him. Won't lead you home.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

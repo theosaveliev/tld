@@ -26,6 +26,8 @@
 
 **"What I Know"** is a part of the [Journal](./Journal.md) that appears while playing [Wintermute](./Wintermute.md) and provides useful information about [Great Bear Island](./Great%20Bear%20Island.md), its denizens, and how to survive.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 What I Know contains 4 submenus related to all information gathered about the game world's settings, characters, and items, and is divided into:
@@ -37,11 +39,15 @@ What I Know contains 4 submenus related to all information gathered about the ga
 
 Different People, Places, Things, and Actions are different between Episodes. Unlocked information carries over between [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) if they are played in order (until [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) begins)
 
+<span id="people"></span><span id="People"></span>
+
 ## People
 
 ![Knowledge What I Know large people](../assets/Knowledge_What_I_Know_large_people.png)
 
 This tab contains all information related to major characters encountered on the Island.
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 ### Episode 1
 
@@ -59,13 +65,19 @@ In-game description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |”  [Hobbs](./Hobbs.md)
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ### Episode 2
+
+<span id="jeremiah"></span><span id="Jeremiah"></span>
 
 ### [Jeremiah](./Jeremiah.md)
 
 > “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
 >
 > — In-game description
+
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
 
 ### Episode 3
 
@@ -84,6 +96,8 @@ In-game description
 In-game description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” 
+
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
 
 ### Episode 4
 
@@ -109,9 +123,13 @@ In-game description
 >
 > — In-game description
 
+<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+
 ### Episode 5
 
 None
+
+<span id="places"></span><span id="Places"></span>
 
 ## Places
 
@@ -119,10 +137,14 @@ None
 
 Information here was previously found through the cut Trust system (Predux Ep 1 and 2). Redux and onward, all information here is only unlocked when the below notes are found, and is just the entire transcript of these items:
 
+<span id="episode_1_1"></span><span id="episode-1-1"></span>
+
 ### Episode 1
 
 - [History of The Collapse](./History%20of%20The%20Collapse.md) (Part 1 and 2)
 - [Town of Milton](./Town%20of%20Milton.md)
+
+<span id="episode_2_1"></span><span id="episode-2-1"></span>
 
 ### Episode 2
 
@@ -130,19 +152,27 @@ Information here was previously found through the cut Trust system (Predux Ep 1 
 - [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)
 - [Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md)
 
+<span id="episode_3_1"></span><span id="episode-3-1"></span>
+
 ### Episode 3
 
 - [Pleasant Valley History](./Pleasant%20Valley%20History.md)
 
+<span id="episode_4_1"></span><span id="episode-4-1"></span>
+
 ### Episode 4
 
 - [Building Blackrock](./Building%20Blackrock.md)
+
+<span id="things"></span><span id="Things"></span>
 
 ## Things
 
 ![Knowledge What I Know large things](../assets/Knowledge_What_I_Know_large_things.png)
 
 Things give tutorials on subjects such as Tools, world objects, wildlife, and journal/mission mechanics.
+
+<span id="episode_1_2_and_3"></span><span id="Episode_1,_2,_and_3"></span><span id="episode_1,_2,_and_3"></span><span id="episode-1-2-and-3"></span>
 
 ### Episode 1, 2, and 3
 
@@ -267,6 +297,8 @@ What I Know description
 >
 > — What I Know description
 
+<span id="episode_4_2"></span><span id="episode-4-2"></span>
+
 ### Episode 4
 
 Item Confiscation
@@ -295,6 +327,8 @@ Point Of No Return
 >
 > — What I Know description
 
+<span id="episode_5_1"></span><span id="episode-5-1"></span>
+
 ### Episode 5
 
 Respirator
@@ -318,6 +352,8 @@ What I Know description
 >
 >
 > — What I Know description
+
+<span id="cut_what_i_know"></span><span id="Cut_What_I_Know"></span><span id="cut-what-i-know"></span>
 
 ### Cut What I Know
 
@@ -347,6 +383,8 @@ What I Know description
 >
 > — What I Know description
 
+<span id="actions"></span><span id="Actions"></span>
+
 ## Actions
 
 ![Knowledge What I Know large actions](../assets/Knowledge_What_I_Know_large_actions.png)
@@ -356,19 +394,19 @@ Actions gives information on basic gameplay mechanics.
 Journal Objectives
 
 > “__View your Journal and current Mission objectives through the Radial Menu.  
- To show the Radial Menu, press and hold \[SPACE\].__”
+ To show the Radial Menu, press and hold [SPACE].__”
 >
 > — What I Know description
 
 Food
 
-> “__Use the Radial Menu to quickly eat Food items by pressing \[SPACE\]. Or use use (sic) the Backpack screen to see all your Food items and eat from there.  
+> “__Use the Radial Menu to quickly eat Food items by pressing [SPACE]. Or use use (sic) the Backpack screen to see all your Food items and eat from there.  
  Tip: From your Backpack, you can assign your favourite Food to the radial menu (sic) for quick access.__”
 >
 > — What I Know description
 
 Fire
-> __Use the Radial Menu to quickly eat Food items by pressing \[SPACE\]. Or use use (sic) the Backpack screen to see all your Food items and eat from there.
+> __Use the Radial Menu to quickly eat Food items by pressing [SPACE]. Or use use (sic) the Backpack screen to see all your Food items and eat from there.
 > Tip: From your Backpack, you can assign your favourite Food to the radial menu (sic) for quick access.__
 >
 >
@@ -397,13 +435,13 @@ What I Know description
 >
 > — What I Know description
 
-Setting the Spear | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Select the Bear Spear from the Radial Menu, then press and hold \[LMB\] to Set the Spear against a charging Bear, as long as you have enough Stamina.**
+Setting the Spear | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Select the Bear Spear from the Radial Menu, then press and hold [LMB] to Set the Spear against a charging Bear, as long as you have enough Stamina.**
 
 What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |”  Crouching
 > __Get Under Stuff
-> Occasionally you'll encounter an obstacle in your path. Crouching (using \[L Ctrl\]) might help to get under it. Crouching also makes you less obvious to wildlife, from a distance. You move more slowly, but also more silently, so you might get closer.__
+> Occasionally you'll encounter an obstacle in your path. Crouching (using [L Ctrl]) might help to get under it. Crouching also makes you less obvious to wildlife, from a distance. You move more slowly, but also more silently, so you might get closer.__
 >
 >
 > — What I Know description

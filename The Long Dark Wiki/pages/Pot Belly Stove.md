@@ -18,9 +18,13 @@ The **Pot Belly Stove** is an immovable [contained fire](./Fire.md#Contained_fir
 
 The pot belly stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 Pot belly stoves have fixed locations that do not change between games. A pot belly stove is located in every [Fishing Hut](./Fishing%20Hut.md) as well as in some other structures.
+
+<span id="known_locations_incomplete"></span><span id="Known_locations_(incomplete):"></span><span id="known_locations_(incomplete):"></span><span id="known-locations-incomplete"></span>
 
 ### Known locations (incomplete):
 

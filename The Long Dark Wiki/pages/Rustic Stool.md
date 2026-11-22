@@ -18,11 +18,15 @@
 
 The **Rustic Stool** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A makeshift wooden stool, a Rustic Stool can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 Once crafted, the item is automatically placed into the player's inventory. It can only be placed on floors when in Customization Mode. It can later be picked up and placed back into the player's inventory or destroyed (yielding no resources).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -37,5 +41,7 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 4
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History

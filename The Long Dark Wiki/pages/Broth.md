@@ -53,9 +53,13 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Item key:** GAMEPLAY\_Broth
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Broth is a [Food](./Food%20And%20Drink.md) item in **_[The Long Dark](./The%20Long%20Dark.md)_**. It is made using a [Cooking Pot](./Cooking%20Pot.md) and a fire, and can rarely be found as loot. It is capable of providing the [Warming Up](./Warming%20Up.md) benefit when cooked or reheated by a fire. Broth can be rarely found as loot inside of containers or as a loose item in domestic environments: such as inside the houses of [Milton](./Milton.md), [Thomson's Crossing](./Thomson%27s%20Crossing.md), or [Coastal Townsite](./Coastal%20Townsite.md).
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -82,6 +86,8 @@ Broth is a [Food](./Food%20And%20Drink.md) item in **_[The Long Dark](./The%20Lo
 
 Once made broth will have 20-85% condition based on the condition of the ingredients used, resulting in "Gourmet" if above 90% condition, "_Elegant"_ till 70%, "_Acceptable"_ till 40%, and "_Crude"_ if below 40% and "Ruined" at 5-0% condition.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
@@ -95,6 +101,8 @@ Once made broth will have 20-85% condition based on the condition of the ingredi
 | [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

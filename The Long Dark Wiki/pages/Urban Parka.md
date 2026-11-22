@@ -36,6 +36,8 @@
 
 The **Urban Parka** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Mid to low tier coat. Has the second best warmth to weight ratio but has terrible waterproofness and protection. Its also very expensive to repair - ideally, wear in on the inside coat slot. Pairs well with a [Flight Jacket](./Flight%20Jacket.md), [Ski Jacket](./Ski%20Jacket.md), or [Light Shell](./Light%20Shell.md).
@@ -43,6 +45,8 @@ Mid to low tier coat. Has the second best warmth to weight ratio but has terribl
 ![Clothing Model](../assets/Urban_Parka_Model_icon.png)
 
 ![Clothing model damaged](../assets/Urban_Parka_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -20,9 +20,13 @@
 
 **Milton Safety Deposit Box Keys** is a side mission in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 To start the mission, the player must find any one of three bank deposit box keys scattered around the [Mountain Town](./Mountain%20Town.md) region. Each key unlocks a safety deposit box in the [Milton Credit Union](./Milton%20Credit%20Union.md) vault. Finding all three keys and opening all three safety deposit boxes will complete the mission.
+
+<span id="tasks"></span><span id="Tasks"></span>
 
 ## Tasks
 
@@ -30,6 +34,8 @@ To start the mission, the player must find any one of three bank deposit box key
 - Open bank deposit box #13
 - Open bank deposit box #20
 - Open Bank deposit box #15
+
+<span id="key_locations"></span><span id="Key_locations"></span><span id="key-locations"></span>
 
 ## Key locations
 

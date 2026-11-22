@@ -31,6 +31,8 @@ Has a bed
 
 Has a forge
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Old Spence Family Homestead is surrounded by a thicket on one side and fields of snowbanks and weak ice on the other. It consists mostly of buildings in various degrees of disrepair, but one of the main buildings generally contains useful items such as [Fir Firewood](./Fir%20Firewood.md), [Coal](./Coal.md), a [Heavy Hammer](./Heavy%20Hammer.md), [Food And Drink](./Food%20And%20Drink.md), and [Scrap Metal](./Scrap%20Metal.md), as well as the second [forge](./Forge.md) to appear in the game. The main building also contains a work bench, a [safe](./Safe.md) (hidden behind several crates) and a [bed](./Bed.md).
@@ -43,9 +45,13 @@ A wolf pack tends to patrol near the fence on the side closest to the ice, so ta
 
 With the Redux update (December 2018), another forge has been added to the [Maintenance Yard](./Maintenance%20Yard.md) in the [Broken Railroad](./Broken%20Railroad.md) region. Consider traveling a little farther to reach the Maintenance Yard if you don't have enough equipment to protect against the harsh weather conditions in Forlorn Muskeg.
 
+<span id="signal_void"></span><span id="Signal_Void"></span><span id="signal-void"></span>
+
 ## Signal Void
 
 Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle](./Wires.md), may be found here, which can prove helpful to players who wish to repair the transmitter tower near [Muskeg Overlook](./Muskeg%20Overlook.md).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -53,6 +59,8 @@ Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle]
 - The Safe may contain high rarity items based on [survival mode](./Survival%20Mode.md) such as: Gauntlets, Mukluks, Gunpowder, Rabbitskin Mitts, Cash, etc.
 - The docks contains several pieces of loot.
 - Old Spence Family Homestead in [Wintermute (Story Mode) Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) is a references the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories involve characters driven driven mad for revenge to kill 'evil spirits' with [similar weapons](./Bear%20Spear.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -36,9 +36,13 @@
 
 The **Thick Wool Sweater** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 One of the warmest shirts in the game, the **Thick Wool Sweater** is also relatively light and offers some wind protection and water resistance if worn as an outer layer. The thickness of the sweater offers a small amount of defense against physical damage but also restricts mobility somewhat.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -47,6 +51,8 @@ One of the warmest shirts in the game, the **Thick Wool Sweater** is also relati
 ![Clothing model icon damaged](../assets/Thick_Wool_Sweater_Model_Damaged_icon.png)
 
 ![Old model.](../assets/Heavy_wool_sweater_%28historical%29.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

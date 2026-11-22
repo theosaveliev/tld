@@ -6,7 +6,7 @@
 
 [Pleasant Valley Collectible, Part Two icon](../assets/Pleasant_Valley_Collectible%2C_Part_Two_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)
 
@@ -36,13 +36,17 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Pleasant Valley Collectible, Part Two_ from in the office on a desk in the [Community Hall](./Community%20Hall.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part Two**_
 
 Parnell was out checking road conditions for his next delivery, and saw some of those tree speaker maniacs lurking near the highway passes in and out of the Valley. He wasn't sure what they were doing, but we need to stay vigilant!
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

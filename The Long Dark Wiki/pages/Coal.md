@@ -14,7 +14,7 @@
 
 [Coal icon](../assets/Coal_icon.png)
 
-**Release:** [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264)
+**Release:** [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)
 
 **Wintermute:** No
 
@@ -34,9 +34,13 @@
 
 **Coal** is a fuel item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Coal is a fuel source for fires, and the only fuel which can heat Forges hot enough for Forging (150°C) to craft items. Each piece of coal added to a fire grants 1 hour of fuel and 20°C to its temperature. This makes it the most efficient fuel both for temperature and weight efficiency. Coal cannot be used to start a fire. It may be added once a fire has been started with another fuel (e.g. a [Stick](./Stick.md)).
+
+<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
 
 ## Fire Starting info
 
@@ -52,6 +56,8 @@ Coal is a fuel source for fires, and the only fuel which can heat Forges hot eno
 
 **Burn Density:** 3.33 hr/kg (1.51 hr/lb)
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 Coal is found on the floor abundantly inside mines, some caves, and rarely along streambeds. Finite amounts of Coal are present at [Forges](./Forge.md) on [Great Bear Island](./Great%20Bear%20Island.md). The most abundant sources of coal are [Langston Mine](./Langston%20Mine.md) and [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md).
@@ -60,6 +66,8 @@ Coal is found on the floor abundantly inside mines, some caves, and rarely along
 - Coal respawns after 10 days (in-game) in caves, mines and streambeds.
 - Coal is crucial for staying warm in Stalker and Interloper modes, where fires do not overcome ambient temperature, or prevent [freezing](./Needs.md).
 - Due of the proximity of [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md) to [The Riken](./The%20Riken.md) (and its forge), [Desolation Point](./Desolation%20Point.md) is usually easier to forge at and sustainable for re-stocking than forges located in the [Maintenance Yard](./Maintenance%20Yard.md), [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md), or [Hangar Basement](./Hangar%20Basement.md).
+
+<span id="respawn_statistics"></span><span id="Respawn_statistics"></span><span id="respawn-statistics"></span>
 
 ## Respawn statistics
 
@@ -95,11 +103,13 @@ Some caves and mines have more coal the first time that one visits the location.
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Welkin's Window](./Welkin%27s%20Window.md) | 7 |  |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | Far Territory Cave System | 25 | 4 spawn on the top level that has the entrance to [Sundered Pass](./Sundered%20Pass.md). 7 spawn in between the rope climb and the bridge into the room where the junction is. 1 in the room with the junction. 6 coal between the junction and the entrance to [Forsaken Airfield](./Forsaken%20Airfield.md). 7 coal between the junction and the entrance to [Zone of Contamination](./Zone%20of%20Contamination.md). |
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.364)):**
+- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)):**
   - Fixed issue where players could add Coal to a fire at an invalid (too low) temperature
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Fixed issue with Coal sometimes spawning in air.
-- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.264)):**
+- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
   - Added to game.

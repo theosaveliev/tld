@@ -39,6 +39,8 @@
 
 The **Respirator** is a [First Aid](./First%20Aid.md) item that was added as part of the Part 4 Buried Echoes update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.<br>It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) and [Camera](./Camera.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.**”
@@ -51,7 +53,11 @@ Despite appearing to be a Clothing/Tool item, the Respirator is classified as a 
 
 Keep in mind that wearing a Respirator prevents a player from eating or drinking until it is removed. It also partially obscures the player's vision below the nose line, and any dialogue made by the player character is distorted and amplified while still wearing the mask.
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -62,6 +68,8 @@ Keep in mind that wearing a Respirator prevents a player from eating or drinking
 ![Buried Echoes Icon](../assets/Buried_Echoes_Icon.png)
 
 ![The Buried Echoes Badge](../assets/Buried_Echoes_Icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

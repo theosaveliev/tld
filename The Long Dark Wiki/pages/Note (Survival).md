@@ -6,7 +6,7 @@
 
 [Note (Survival) icon](../assets/Note_%28Survival%29_icon.png)
 
-**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)
 
 **Properties**
 
@@ -28,6 +28,8 @@
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Blackrock](./Blackrock.md). It is inside the [Blackrock Prison](./Blackrock%20Prison.md) yard, in the guard tower with the climbing rope.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Note**_
@@ -35,6 +37,8 @@ _The following text is transcribed from **Note**_
 Can't tell who's coming and going, even from up here. It looks empty but I'm going to wait it out for a couple days and see if whoever followed me over the river was headed up here too.  
    
  This place must be cursed at this point. Even a fire couldn't change that.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

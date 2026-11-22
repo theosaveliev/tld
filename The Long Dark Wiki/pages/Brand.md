@@ -17,7 +17,7 @@
 
 [Brand icon](../assets/Brand_icon.png)
 
-**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
+**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)
 
 **Wintermute:** No
 
@@ -37,19 +37,25 @@ A **Brand** was a [Tool](./Tools.md) introduced in the [Tireless Menace](./The%2
 
 The mechanic of taking [Torches](./Torch.md) from active fireboxes was used before the introduction of Brands, but due to the similarities between the Brand and the Torch, the Brand was cut and its role in the game was entirely replaced by the Torch.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
-Brands are hand held fire and light source despite being just a [Stick](./Stick.md) on fire, behaving similarly to an improvised active [Torch](./Torch.md) (often being dubbed "Mini Torches") by dimly lighting up your surroundings and providing a small bit of Warmth. Unlike Torches however, they cannot be manually extinguished, and behave similarly to an active [Flare](./Flare.md), and can only be dropped and picked back up. Brands cannot be thrown, but instead can be [Brandished](./Cut%20%E2%80%94%20Discontinued%20Content.md#brandishing) (swung sideways) to scare away [Wolves](./Wolf.md). Brandishing a Brand will use up 5% of the [Stamina](./Stamina.md) and around 10 minutes of its fire duration per swing.
+Brands are hand held fire and light source despite being just a [Stick](./Stick.md) on fire, behaving similarly to an improvised active [Torch](./Torch.md) (often being dubbed "Mini Torches") by dimly lighting up your surroundings and providing a small bit of Warmth. Unlike Torches however, they cannot be manually extinguished, and behave similarly to an active [Flare](./Flare.md), and can only be dropped and picked back up. Brands cannot be thrown, but instead can be [Brandished](./Cut%20%E2%80%94%20Discontinued%20Content.md#Brandishing) (swung sideways) to scare away [Wolves](./Wolf.md). Brandishing a Brand will use up 5% of the [Stamina](./Stamina.md) and around 10 minutes of its fire duration per swing.
 
 Brands are the only Tool in the game that cannot be added to the Backpack, and will disappear from the game world after they burn out and are picked up.
 
 Wolves have a chance to be scared away when detecting the character if a Brand is carried and lit.
+
+<span id="creation"></span><span id="Creation"></span>
 
 ## Creation
 
 Brands are taken from any active [Fire](./Fire.md) via a special button "Remove Brand," so long as the Fire has a lifespan greater than 10 minutes. Removing a Brand diminishes a Fire by 10 minutes and 1°C.
 
 - Taking a Brand while holding a Torch, Flare or another Brand will cause the held item to be dropped.
+
+<span id="brandishing"></span><span id="Brandishing"></span>
 
 ## Brandishing
 
@@ -58,17 +64,23 @@ With the Brand in hand, you can Brandish the item with RMB. This gives an additi
 - Brandishing does not seem to work against already charging Wolves.
 - Brandishing has no effect of [Bears](./Bear.md).
 
+<span id="burn_time"></span><span id="Burn_Time"></span><span id="burn-time"></span>
+
 ## Burn Time
 
 The lit Brand burns for 30 game minutes and cannot be extinguished, except when blown out by overly windy [weather](./Weather.md) or by mishandling. Once they burn out, they are mostly useless as they cannot be re-lit or harvested for the stick. They cannot be added as fuel for Fires.
 
 - Brands lose Condition as they burn or being brandished with. When they burn fully, they reach 0% Condition and become ruined. However, if they are extinguished through other means, they fail to become ruined but cannot be re-lit at all.
 
+<span id="animation"></span><span id="Animation"></span>
+
 ### Animation
 
 ![Brand light](../assets/Brand_light.png) The Brand displays flickering orange flames when it is first created that gradually diminish as condition is lost. Area lighting also diminishes as the flame dies.
 
 - If a Brand is already burning in the game when another one is pulled from a fire, the new brand animation will echo the previous brand, causing it to seemingly burn out early. The animation can be reset to mirror the actual brand by dropping it.
+
+<span id="heat"></span><span id="Heat"></span>
 
 ## Heat
 
@@ -77,6 +89,8 @@ A fire held in the hand is much warmer to the character than fire burning nearby
 - A dropped Brand in proximity also raises the “feels like” temperature 5°C. To get proximity, crouch over a brand on the ground or relocate it to on a shelf or table or such.
 - **EXPLOIT:** Light a 1 hour fire. Take out 6 Brands and crouch over them. Feels like temperature will be increased +30°C for 30 minutes vs. original fire’s +7°C for an hour. **Warm up faster and in colder weather with less fuel!**
 - Note: Lit Brand can be used to start fire. With use of this, it is possible to start fire indoors even if you haven't any [firestrikers](./Firestriker.md)/matches (start fire outdoors with a Magnifying Lens and then take a Brand and use it to start fire indoors. You can start fire indoors with use of only renewable materials).
+
+<span id="special_handling"></span><span id="Special_Handling"></span><span id="special-handling"></span>
 
 ## Special Handling
 
@@ -91,9 +105,11 @@ The brand has been specifically targeted by the developers to be very hard to ke
 
 ![Item when picked up](../assets/Brand_description.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)):**
+- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Removed from the game and replaced entirely by the [Torch](./Torch.md).
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
   - Added to game.

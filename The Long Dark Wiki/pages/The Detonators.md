@@ -22,6 +22,8 @@ Episode
 
 **The Detonators** is the fourth mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) offers to help [Mathis](./Mathis.md) find [Detonators](./Detonators.md) in the old mine, in order to hopefully appease Mathis sufficiently that he avoids killing [Franklin](./Franklin.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Reach the mine entrance.
@@ -30,6 +32,8 @@ Episode
   - Answer the phone.
   - Leave the mine.
 - Return to Blackrock.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 

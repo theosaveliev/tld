@@ -16,4 +16,6 @@
 
 Provides some shelter **Prayerful Window** is a location in [Sundered Pass](./Sundered%20Pass.md). It is located on the cliffside southwest of the [Old Settlement](./Old%20Settlement.md), and can be reached by traveling through the cave system through [Cascading Gap](./Cascading%20Gap.md) or [Idle Hideout](./Idle%20Hideout.md), or a large cavern east of the mountain road near [Lotte's Rest](./Lotte%27s%20Rest.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview

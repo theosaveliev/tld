@@ -26,6 +26,8 @@ Has a bed
 
 Provides some shelter<br>**Final Approach** is a crashed helicopter in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A dead body lay outside the helicopter's side door, which has been jammed wide open. Despite that, the location may be a precious small shelter against the weather and give a small warmth +5° C bonus.
@@ -36,10 +38,14 @@ There is a small cave among the rocks south the helicopter close to the shorelin
 
 A [Moose](./Moose.md) may spawn on the lake nearby.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Concept art of the Final Approach helicopter was used to market the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 - The [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) appears near the crashed chopper in the original teaser trailer for the Far Territory Expansion, but it's final location is found in the [Control Tower](./Control%20Tower.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

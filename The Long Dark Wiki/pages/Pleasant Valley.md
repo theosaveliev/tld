@@ -50,6 +50,8 @@ The region is a massive rural agriculture comprised of farmland and orchards, su
 
 Pleasant Valley connects to [Timberwolf Mountain](./Timberwolf%20Mountain.md) via a rope climb near [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) in the northeast, to [Coastal Highway](./Coastal%20Highway.md) in the southeast through [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), to [Blackrock](./Blackrock.md) by following the road from [Long Curve](./Long%20Curve.md), which leads through [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) and [Keeper's Pass North](./Keeper%27s%20Pass%20North.md), and to [Mystery Lake](./Mystery%20Lake%20%28region%29.md) through a cave to the southwest, just west of [Cascading Falls](./Cascading%20Falls.md) which leads through [Winding River](./Winding%20River.md) and [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Pleasant Valley is a very large region in [Great Bear Island](./Great%20Bear%20Island.md), the largest of Lower Great Bear. It features few shelters outside of Thompson's Crossing to the southeast, so gameplay focuses on surviving the elements and living off the land while navigating between cabins, caves and landmarks.
@@ -57,6 +59,8 @@ Pleasant Valley is a very large region in [Great Bear Island](./Great%20Bear%20I
 Frequent high winds and [low temperatures](./Hypothermia.md), [snow, fog and blizzards](./Weather.md) plague the region, the second coldest in Lower Great Bear after [Bleak Inlet](./Bleak%20Inlet.md). Blizzards can be as cold as -48°C with windchill at -33°C in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) (Hardened Survivor). The mix of rolling hills and almost featureless farmland can be disorienting and can make it easy to lose one's way. The landscape also increases the risk of unexpected, close-range wildlife [encounters](./Wildlife.md).
 
 Players must time expeditions carefully and make preparations for sudden changes in the [weather](./Weather.md), as the rather ironic name of "Pleasant" is misleading considering that Blizzards are more frequent in this region than any other. Noting landmarks and even marking a path can help navigate through the hills and trees, but beware: [bear](./Bear.md), [moose](./Moose.md), and [wolves](./Wolf.md) (and in [Wintermute](./Wintermute.md): [timberwolves](./Timberwolf.md)) may wait just around the corner.
+
+<span id="safehouses"></span><span id="Safehouses"></span>
 
 ## Safehouses
 
@@ -76,6 +80,8 @@ Two central indoor shelters serve as good primary bases:
 
 The Farmstead is relatively close to the Outbuildings and [Signal Hill](./Signal%20Hill.md), another useful indoor shelter.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 There are many accessible locations within Pleasant Valley, including:
@@ -86,7 +92,11 @@ There are many accessible locations within Pleasant Valley, including:
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) located northwest of the Crash Site.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
+
+<span id="maps"></span><span id="Maps"></span>
 
 ### Maps
 
@@ -103,6 +113,8 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) located northwest of the C
 ![Pleasant valley map](../assets/Pleasant_valley_map.png)
 
 ![MAP ingame PV v160 Eng](../assets/MAP-ingame-PV-v160-Eng.jpg)
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 

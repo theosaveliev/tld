@@ -32,6 +32,8 @@
 
 **Hypothermia Risk** is an [Affliction](./Afflictions.md) in _The Long Dark_, caused by exposure to the cold.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**Your body temperature is very low. If it remains low, you'll get Hypothermia.**”
@@ -39,6 +41,8 @@
 > — In-game description
 
 If the player stays out in the freezing cold for too long, and their [Clothing](./Clothing.md) is not sufficiently warm enough to keep their [Feels Like](./Feels%20Like.md) temperature above 0°, their [Warmth](./Warmth.md) [Need](./Needs.md) will drop. Once Warmth hits zero and reaches "Freezing", the Hypothermia Risk will appear. Should a player continue to freeze in this state, they will gain the [Hypothermia](./Hypothermia.md) affliction after 2 hours.
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 

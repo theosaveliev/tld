@@ -13,7 +13,7 @@
 
 [Antiseptic icon](../assets/Antiseptic_icon.png)
 
-**Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094)
+**Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094)
 
 **Wintermute:** yes
 
@@ -49,11 +49,15 @@
 
 **Antiseptic** is a [First Aid](./First%20Aid.md) item used to remove [Infection Risk](./Infection%20Risk.md) gained from hostile [Wildlife](./Wildlife.md) attacks.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Antiseptic bottles are most commonly found in [First Aid Kits](./First%20Aid%20Kit.md) and [Medicine Shelves](./Medicine%20Shelf.md), although there is a slight chance for them to be collected from most containers. They may also be found out in the open (e.g., on shelves).
 
 A full bottle contains around 0.50 L of fluid, which is enough for 5 treatments of Infection Risk associated with [Blood Loss](./Blood%20Loss.md) from Predator [Struggles](./Struggle.md).
+
+<span id="use"></span><span id="Use"></span>
 
 ## Use
 
@@ -62,6 +66,8 @@ Antiseptic is usable through either the [Radial Menu](./Radial%20Menu.md) First 
 - [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) is an alternative to antiseptic.
 - Infection risk takes a few hours to progress to actual [Infection](./Infection.md).
 
+<span id="treatment"></span><span id="Treatment"></span>
+
 ## Treatment
 
 Antiseptic can be used to treat the following afflictions:
@@ -69,6 +75,8 @@ Antiseptic can be used to treat the following afflictions:
 |  | Affliction |
 | --- | --- |
 |  | [Infection Risk](./Infection%20Risk.md) |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

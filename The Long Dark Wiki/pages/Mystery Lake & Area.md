@@ -30,6 +30,8 @@
 
 It is found on top of a [Cupboard](./Cupboard.md) in the [Camp Office](./Camp%20Office.md) on the upper floor.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Mystery Lake &amp; Area**_
@@ -46,8 +48,10 @@ In the 1960s, ambitious industrialist Richard Carter selected the Mystery Lake a
 
 To this day, apart from the railway line that passes through, the only connection between the Mystery Lake region and the adjoining valleys are the hiking trails that pass through the mountains. These trails often become impassable during the Winter months, due to cold temperatures and heavy snowfall. Also, due to the region’s generally uninhabited nature, wildlife have not become habituated to the presence of humans, which can make them threatening. Hikers and campers are warned to avoid the area during the Winter months, as well as to store all food and waste in “bear safe” containers.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
   - Added to game.

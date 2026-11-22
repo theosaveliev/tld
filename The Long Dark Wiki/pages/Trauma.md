@@ -24,10 +24,12 @@
 
 **Trauma** is the first mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Molly](./Molly.md) and learns about her predicament.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Molly's Farmhouse
-  - Look for clues that might tell you more about Molly. \[0/3\]
+  - Look for clues that might tell you more about Molly. [0/3]
   - Answer the phone.
 - Molly has phoned from her barn, and she needs your help.
   - Find the key under the vase.
@@ -40,6 +42,8 @@
   - Find [Thomson's Crossing](./Thomson%27s%20Crossing.md).
   - Investigate the Community Hall.
 
+<span id="walkthrough"></span><span id="Walkthrough"></span>
+
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -50,6 +54,8 @@
 The episode starts in Pleasant Valley Farmstead with a cutscene. When Molly leaves the house, Astrid is free to explore. There are three clues the player must find: a broken rifle in the den, a photograph on a desk in the office, and a piece of torn orange cloth in the upstairs bathroom. Once all three are found, the phone on the first floor will ring. When Astrid picks it up, Molly informs her that she is at the barn and needs her help. The key to open the basement is located under the vase in the den. Inside the basement, the player must open the gun cabinet and take out the [revolver](./Revolver.md), [revolver ammunition](./Revolver%20Ammunition.md), and [rifle ammunition](./Rifle%20Ammunition.md). There is a second exit in the basement that leads directly outside through a bulkhead door. Outside and to the right, there is a line of blizzard stake lines leading to the [Barn (Molly's)](./Barn%20%28Molly%27s%29.md), fallow them. A group of [wolves](./Wolf.md) will be circling the barn and need to be shot at to make them flee (or just run to the door). Enter the barn and receive the telephone call from Molly.
 
 Leave the barn and head up the road past [Heartbreak Bridge](./Heartbreak%20Bridge.md). Keep going past [Contemplation Bridge](./Contemplation%20Bridge.md) to [Thomson's Crossing](./Thomson%27s%20Crossing.md). Enter the [Community Hall](./Community%20Hall.md) and talk to [Father Thomas](./Father%20Thomas.md) to advance to Chapter 2: [Fallen Star](./Fallen%20Star.md).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

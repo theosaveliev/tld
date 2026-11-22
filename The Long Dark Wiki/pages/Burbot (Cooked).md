@@ -34,6 +34,8 @@ _For the raw version, see [Burbot (Raw)](./Burbot%20%28Raw%29.md)._
 
 **Burbot (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked Burbot have a minimum raw weight of 2.5 kg and a maximum raw weight of 4.0 kg.
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Burbot (Cooked)**
@@ -47,6 +49,8 @@ _For the raw version, see [Burbot (Raw)](./Burbot%20%28Raw%29.md)._
 
 **Quantity:** 1.00 kg
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Fresh](../assets/Burbot_%28Cooked%29_icon.png)
@@ -58,6 +62,8 @@ _For the raw version, see [Burbot (Raw)](./Burbot%20%28Raw%29.md)._
 ![Rancid](../assets/Burbot_%28Cooked%29_Rancid_icon.png)
 
 ![Ruined](../assets/Burbot_%28Cooked%29_Ruined_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

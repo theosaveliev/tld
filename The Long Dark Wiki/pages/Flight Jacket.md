@@ -44,11 +44,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Flight Jacket** is a type of [Clothing](./Clothing.md) in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Flight Jackets are rare, mostly located in places related to airplanes like the multiple planes around [Field 31](./Field%2031.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) or the occasional [crashed planes](./Plane%20Crashes.md) in Lower Great Bear. This clothing piece offers an excellent windproof bonus and a good amount of warmth, plus balanced stats overall, making a great choice if you don't have an [Expedition Parka](./Expedition%20Parka.md) or a better clothing piece.
 
 Note: While it used to spawn, it is no longer available on [Interloper](./Interloper.md) difficulty.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -61,6 +65,8 @@ Note: While it used to spawn, it is no longer available on [Interloper](./Interl
 ![Clothing model icon](../assets/Flight_Jacket_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Flight_Jacket_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

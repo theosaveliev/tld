@@ -26,10 +26,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Has no shelter **Railyard** is a set of 2 locations in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
+
+<span id="eastern_railyard"></span><span id="Eastern_Railyard"></span><span id="eastern-railyard"></span>
 
 ### Eastern Railyard
 
 Transitions to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)
+
+<span id="western_railyard"></span><span id="Western_Railyard"></span><span id="western-railyard"></span>
 
 ### Western Railyard

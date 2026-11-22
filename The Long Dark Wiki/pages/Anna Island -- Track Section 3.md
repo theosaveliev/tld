@@ -42,11 +42,15 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 3** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Another coastal Track Section that runs around Anna Island, this region has only a handful of notable locations.
 
 Certain parts of the ocean support [Ice Fishing](./Ice%20Fishing.md) via Free Form Ice Fishing Holes.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -65,15 +69,25 @@ There is also 1 indoor location that is tracked in the [Journal](./Journal.md).
 There is one [Whale Oil Tank](./Oil%20Tank.md) and one [Water Tower](./Water%20Tower.md) at the Railyard.
 
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
 A [Bear](./Bear.md) patrols the cave leading up to the Cove cabin.
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
+<span id="maps"></span><span id="Maps"></span>
+
 ### Maps
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 

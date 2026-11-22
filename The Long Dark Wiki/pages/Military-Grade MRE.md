@@ -6,7 +6,7 @@
 
 [Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** Yes
 
@@ -44,14 +44,20 @@ A single MRE can restore a whopping 1750 calories, making it the most efficient 
 
 MRE have a very low chance of causing [Food Poisoning](./Food%20Poisoning.md) and [Decay](./Decay.md) much slower than many foods.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - In real life, MREs are used by militaries to feed troops during combat, and in real-world northern climates these packaged meals can last three to five years, depending on storage temperature.
 - The Canadian Military does supply its deployed members with MREs (Meal Ready to Eat), which are typically [American-made](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat). More often it uses IMP (Individual Meal Pack)--the exclusive field ration of the [Canadian Forces](https://en.wikipedia.org/wiki/Individual_Meal_Pack).
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![old model](../assets/Military_grade_mre.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

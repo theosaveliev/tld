@@ -13,7 +13,7 @@
 
 [Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png)
 
-**Release:** [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.196)
+**Release:** [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196)
 
 **Wintermute:** No
 
@@ -43,6 +43,8 @@
 
 **Cat Tail Stalks** are a [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
 
+<span id="general_information"></span><span id="General_Information"></span><span id="general-information"></span>
+
 ## General Information
 
 The edible stalk of a Cat Tail plant. They can be found growing on the shores of swamps, lakes, rivers or ponds. Cat Tail Stalks are the only food item which can stack in the inventory or containers; they are also efficient in calories-to-weight, making them useful when traveling or exploring.
@@ -53,26 +55,32 @@ Cat tail stalks do not [Decay](./Decay.md) or become ruined, and eating them can
 
 Like all other plants, Cat Tails do not regrow once harvested.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md)<br>- 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)<br>- 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Cat_tail_stalk.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
 - HOTFIX **5 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.35)):**
-  - \[Stats\] Cat Tail Stalk returned back to Minor Vitamin-C.
+  - [Stats] Cat Tail Stalk returned back to Minor Vitamin-C.
 - HOTFIX **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
-  - \[Stats\] Cat Tail Stalk buffed from Minor Vitamin-C to Moderate.
-- HOTFIX **19 January 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.93)):**
-  - \[Enviro\] Adjusted Cat Tail placement to avoid unintentional clipping.
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
-  - \[Enviro\] Fixed issue causing Cat Tails to appear out of alignment during their animation.
+  - [Stats] Cat Tail Stalk buffed from Minor Vitamin-C to Moderate.
+- HOTFIX **19 January 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.93)):**
+  - [Enviro] Adjusted Cat Tail placement to avoid unintentional clipping.
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+  - [Enviro] Fixed issue causing Cat Tails to appear out of alignment during their animation.
 - UPDATE **24 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.226)):**
   - Cat Tails can be harvested once to produce both the Stalks and the Heads.
   - Fixed issue that could cause Cat Tails to have zero weight and zero calories.

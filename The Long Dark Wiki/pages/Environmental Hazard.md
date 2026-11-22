@@ -16,6 +16,8 @@
 
 **Environmental Hazards** are dangerous obstacles occasionally encountered while playing _The Long Dark._ While many are minor, some can be life threatening and will cause [Afflictions](./Afflictions.md) if not approached and handled with caution and respect.
 
+<span id="cold_water_puddlesstreams"></span><span id="Cold_Water_Puddles/Streams"></span><span id="cold_water_puddles/streams"></span><span id="cold-water-puddlesstreams"></span>
+
 ## Cold Water Puddles/Streams
 
 ![An example of ankle deep, cold standing water](../assets/Cold_Water_Puddle.jpg)_An example of ankle deep, cold standing water_Occasionally, puddles of cold, ankle deep standing water or flowing water can be found inside caves and serve as a floor hazard for the player. Walking through or standing in a puddle/flowing stream will drench the player's footwear, slowly making the Socks and Shoes Clothing slots wet and partially lowering the player's [Warmth](./Warmth.md). Wet clothing can be avoided by simply unequipping the player's footwear clothing and passing through the puddle, but this will not stop the player from taking Warmth damage.
@@ -33,6 +35,8 @@ These puddles/streams can be found in:
 
 ![An example of flowing ankle deep water](../assets/Flowing_Water_Hazard.jpg)
 
+<span id="survivor_quotes"></span><span id="Survivor_Quotes"></span><span id="survivor-quotes"></span>
+
 ### Survivor Quotes
 
 Walking through a puddle will also generate a unique audio response from the survivor not found anywhere else in the game.
@@ -48,6 +52,8 @@ Walking through a puddle will also generate a unique audio response from the sur
 - "So cold!"
 - "Agh, soaked!"
 
+<span id="waterfalls"></span><span id="Waterfalls"></span>
+
 ## Waterfalls
 
 ![An example of an unavoidable waterfall in an Ice Cave](../assets/Waterfall_Ice_Cave.jpg)_An example of an unavoidable waterfall in an Ice Cave_ Waterfalls can occasionally be found inside [Ice Caves](./Ice%20Cave.md), and serve as an unavoidable hazard. Simply standing near one will slowly wet the player's clothing. Passing through one will full drench all of the player's outermost Clothing layers to 100% wetness and will automatically lower the player's Warmth to 0. Warming up afterwards becomes a priority if choosing to pass through such a hazard fully clothed, as your wet Clothing will immediately begin freezing over. If one must pass through a waterfall, simply remove all Clothing and walk through, then re-equip all clothing to start warming up again.
@@ -61,11 +67,15 @@ Keep in mind that most waterfalls also have streams of cold water flowing on the
 - [Reclusive Falls](./Reclusive%20Falls.md) and [Hushed River Valley](./Hushed%20River%20Valley.md) is a waterfall covering an Ice Cave
 - [Misty Falls Cave](./Misty%20Falls%20Cave.md) in [Pleasant Valley](./Pleasant%20Valley.md)
 
+<span id="energized_wires"></span><span id="Energized_Wires"></span><span id="energized-wires"></span>
+
 ## Energized Wires
 
 Live, energized wires are a serious environmental hazard located inside or near many industrial buildings across the Island. They are identified by their exposed insulation and rapid sparking during an [Aurora](./Aurora.md). They are normally safe to walk across during the day, and are not affected by [Glimmer Fog](./Glimmer%20Fog.md) despite its tendency to power up electronic equipment.
 
 Touching a live wire will give the [Burns](./Burns.md) Affliction and cause rapid [Condition](./Condition.md) loss. Great care should be given when walking or even sleeping on downed wires during dusk or the night, as an Aurora can activate and kill a survivor exposed to live wires rather quickly.
+
+<span id="electrified_water"></span><span id="Electrified_Water"></span><span id="electrified-water"></span>
 
 ## Electrified Water
 
@@ -75,6 +85,8 @@ Such bodies of water can be found in:
 
 - [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) (middle level)
 
+<span id="weak_ice"></span><span id="Weak_Ice"></span><span id="weak-ice"></span>
+
 ## Weak Ice
 
 ![An example of cracked Weak Ice and a warning symbol](../assets/WeakIce.jpg)_An example of cracked Weak Ice and a warning symbol_ [Weak Ice](./Weak%20Ice.md) is the most commonly encountered water hazard found in _The Long Dark_ and can be found in all coastal regions and certain fresh bodies of water. Stepping on thin ice will be accompanied by the audible sound of ice cracking and the ice at the player's feet visibly cracking, as well as a red Exclamation Point Symbol appearing in the middle of the screen. It is advised to immediately turn around until the Exclamation Point Symbol disappears, informing the player that they are on stable ice again.
@@ -82,6 +94,8 @@ Such bodies of water can be found in:
 Being exposed exposed the extreme cold water causes: 10% [Condition](./Condition.md) damage on any mode other than Pilgrim, makes all Clothing 100% wet, and induces [Hypothermia](./Hypothermia.md). Wet clothes are a serious hazard not only from continued Condition loss due to [Freezing](./Needs.md), but also from the risk of the clothing freezing over and inducing [Frostbite](./Frostbite.md).
 
 [Crampons](./Crampons.md) and [Improvised Crampons](./Improvised%20Crampons.md) can provide the player with a little extra time on Thin Ice with the [Sure Footing](./Sure%20Footing.md) feat (6 seconds instead of 5 seconds).
+
+<span id="toxic_airborne_gases"></span><span id="Toxic_Airborne_Gases"></span><span id="toxic-airborne-gases"></span>
 
 ## Toxic Airborne Gases
 
@@ -94,6 +108,8 @@ So far, only 2 locations on Great Bear Island feature toxic gas clouds:
 
 Toxic gases can be quickly sprinted through in most cases, even with the speed penalty that indoor spaces give to the player. Some toxic gas corridors inside the Langston Mine cannot be sprinted through easily without wearing a [Respirator](./Respirator.md) with fresh [Canisters](./Canister.md) however. One other factor to consider with the Langston is that many gaseous corridors have loot that is too dangerous to gather without wearing a Respirator.
 
+<span id="instant_kill_barriers"></span><span id="Instant_Kill_Barriers"></span><span id="instant-kill-barriers"></span>
+
 ## Instant Kill Barriers
 
 While impossible to see with the naked eye until it is too late, some very rare locations in the game will instantly kill the player if they pass through them when attempting [Mountain Goating](./Mountain%20Goating.md). Most instant kill barrier locations are located outside the map boundaries of regions, but a few notable locations where death barriers are present include:
@@ -103,5 +119,7 @@ While impossible to see with the naked eye until it is too late, some very rare 
 - The nearby cliff near [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md) leading down to the ravine has a death barrier.
 
 Other minor locations with instant kill barriers can be found in [this video by Bashrobe](https://www.youtube.com/watch?v=NIYBONWH24s).[1](https://www.youtube.com/watch?v=NIYBONWH24s)
+
+<span id="chemical_hazards"></span><span id="Chemical_Hazards"></span><span id="chemical-hazards"></span>
 
 ## Chemical Hazards

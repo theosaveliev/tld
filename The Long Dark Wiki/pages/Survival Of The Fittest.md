@@ -47,7 +47,11 @@
 
 This episode has since been replaced by [Memories](./Memories.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
+
+<span id="day_1"></span><span id="Day_1"></span><span id="day-1"></span>
 
 ### Day 1
 
@@ -55,16 +59,22 @@ This episode has since been replaced by [Memories](./Memories.md).
 - Start a fire so you don't freeze to death.
 - You have a bleeding wound. Find or make a bandage and use it to stop the blood loss.
 
+<span id="day_2"></span><span id="Day_2"></span><span id="day-2"></span>
+
 ### Day 2
 
 - Produce some water and drink it to stay hydrated.
 - Find and eat some food to keep your strength.
 - Treat the Risk of Infection before it develops into something more serious.
 
+<span id="day_3"></span><span id="Day_3"></span><span id="day-3"></span>
+
 ### Day 3
 
 - Build a fire in the cave that will last the night (9 HRS).
 - Get your body temperature up. Warm yourself by the fire for awhile.
+
+<span id="day_4"></span><span id="Day_4"></span><span id="day-4"></span>
 
 ### Day 4
 
@@ -72,13 +82,19 @@ This episode has since been replaced by [Memories](./Memories.md).
 - Explore the ravine.
 - You need food to survive. Scavenge what you can and eat until you're full.
 
+<span id="day_5"></span><span id="Day_5"></span><span id="day-5"></span>
+
 ### Day 5
 
 - Your hand feels stronger now. It's time to climb out of the ravine.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 This mission serves as a tutorial for the player, so do not worry too much about losing [Condition](./Condition.md), dying, or looting, as the real survival experience will begin in the next mission once you leave the ravine. This mission is heavily scripted, so just follow the mission objectives. Many items change in the ravine from day to day, so gather as much firewood as you can for day 3 until then.
+
+<span id="day_1_1"></span><span id="day-1-1"></span>
 
 ### Day 1
 
@@ -88,29 +104,43 @@ YOU MUST MANUALLY MOVE THE CAMERA OVER THE SHARD IN YOUR HAND AND REMOVE IT TO C
 
 Walk to the nearby cave and open the [First Aid Kit](./First%20Aid%20Kit.md) near the entrance to grab a [Bandage](./Bandage.md), then patch your hand up. You will need to start a fire, so gather some [Newsprint](./Newsprint.md) or use the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) to break down some [Cardboard Boxes](./Cardboard%20Box.md), grab some sticks, and then go into the cave. Start a [Campfire](./Campfire.md) and then the player will pass out.
 
+<span id="day_2_1"></span><span id="day-2-1"></span>
+
 ### Day 2
 
 The Maceknzie will awake and complain of being thirsty and hungry. Walk back to the base of the mountain side and loot the nearby [Plastic Container](./Plastic%20Container.md)/[Metal Container](./Metal%20Container.md) for an [Military-Grade MRE](./Military-Grade%20MRE.md) and [Antiseptic](./Antiseptic.md). Eat the MRE and then gather as much firewood as you can. Start a fire in the cave and then boil and drink some water. An [Infection Risk](./Infection%20Risk.md) will appear as a result of your cut hand so use the Antiseptic to treat it. Then the player character will fall asleep.
+
+<span id="day_3_1"></span><span id="day-3-1"></span>
 
 ### Day 3
 
 Start by gathering all the firewood you can, as you will need a fire that lasts you for 9 hours. If you gathered and saved firewood from the previous days, this will help immensely. Many [Sticks](./Stick.md) and [Cedar Firewood](./Cedar%20Firewood.md) will be on the ground so gather them and any other firewood you can. Only start a fire after breaking down several branches and [Crates](./Crate.md) (some crates hide items, such as 4 [Books](./Book.md) or [Water Purification Tablets](./Water%20Purification%20Tablets.md)), as time wasted after the fire has started will cause you to have to break down more items for fuel. After the fire is going, pass time warming up by boiling water. Then the player character will fall asleep.
 
+<span id="day_4_1"></span><span id="day-4-1"></span>
+
 ### Day 4
 
 Make your way over the new tree bridge and take [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) (where a cutscene will player revealing the player character's name is [Will Mackenzie](./Will%20Mackenzie.md)). Grab [Mackenzie's Parka](./Mackenzie%27s%20Parka.md) (called Will's Park) and then harvest the [Deer Carcass](./Deer%20Carcass.md). Attempt to (unsuccessfully) climb the [Rock Climb](./Rock%20Climb.md) and then return to the cave with your newly acquired [Sprained Ankle](./Sprained%20Ankle.md). Make a fire, cook at least 2 [Venison (Raw)](./Venison%20%28Raw%29.md), and eat the 2 [Venison (Cooked)](./Venison%20%28Cooked%29.md). Then Mackenzie will automatically sleep.
+
+<span id="day_5_1"></span><span id="day-5-1"></span>
 
 ### Day 5
 
 Mackenzie will finally recover from his Plane Crash Injuries and can climb out of the ravine. The mission will end when you reach the crashed plane above, with a cutscene explaining how his plane crashed.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 [Survival Of The Fittest/Transcript](./Survival%20Of%20The%20Fittest%20%E2%80%94%20Transcript.md)
 
+<span id="differences_from_redux_episode_1"></span><span id="Differences_from_Redux_Episode_1"></span><span id="differences-from-redux-episode-1"></span>
+
 ## Differences from Redux Episode 1
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 1:
+
+<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
 
 ### Plot Points and Gameplay Changes
 
@@ -132,9 +162,11 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 - The game does not automatically stop the player and turn the camera to show context sensitive situations, such as redirecting the camera towards Mackenzie's Crashed Plane when approached.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

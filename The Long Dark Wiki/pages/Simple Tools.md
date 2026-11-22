@@ -24,6 +24,8 @@
 
 **Simple Tools** are a Tool item used for crafting simple items and repairing equipment.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Simple tools weigh 1.0 kilogram. Simple tools can repair an item 25% faster than without any tools. They also increase the chance of a successful repair by 10%.

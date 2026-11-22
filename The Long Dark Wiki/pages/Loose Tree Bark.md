@@ -8,13 +8,15 @@
 
 **Release:** Part 1 TFTFT
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Container**
 
 **Capacity:** 30.00 kg(66 lbs)
 
 **Loose Tree Bark** is an interactable storage object that contain hidden loot when found by a [Mementos](./Mementos.md) note. A prompt will not appear until the associated note is found. They often mimic the appearance of regular stumps, and the prompt's location can be found somewhere on top of the stump or around the base of the stump.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

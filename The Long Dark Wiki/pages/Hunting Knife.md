@@ -31,6 +31,8 @@
 
 The **Hunting Knife** is a tool in _The Long Dark_ for butchering, crafting and self defense.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Hunting Knife has a number of uses: self-defense, harvesting gut, hide and meat from [animal](./Wildlife.md) carcasses, as well as [cloth](./Cloth.md) and [Tinder Plugs](./Tinder%20Plug.md). It's used as a tool for [Crafting](./Crafting.md) varied equipment. It may also serve as a makeshift [Can Opener](./Can%20Opener.md) to avoid spillage, or to break through iced-over fishing holes for [Ice Fishing](./Ice%20Fishing.md).
@@ -50,11 +52,15 @@ Uses of Hunting Knife:
 
 When carried and selected for self-defense at the start of a Wolf Struggle, Hunting Knives deal medium damage with a low chance per-hit to cause the wolf to flee, and a high chance to inflict puncture wounds, a fast form of [Blood Loss](./Blood%20Loss.md) (which is lethal to the Wolf over time). Hunting Knives are as effective at filling the Struggle Meter as [Prybar](./Prybar.md), and slightly more effective than [Improvised Knife](./Improvised%20Knife.md) at ending struggles in this way, especially on difficulty modes other than [Interloper](./Survival%20Mode.md). Hunting Knives take low damage from being used in a struggle. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 Hunting Knives may be found in all regions, usually near frozen corpses or structures. They may also be found inside structures atop/beneath furniture or in drawers.
 
 In Interloper mode hunting knives will never spawn; requiring forging to create an [Improvised Knife](./Improvised%20Knife.md).
+
+<span id="repair"></span><span id="Repair"></span>
 
 ## Repair
 
@@ -62,6 +68,8 @@ The hunting knife can be repaired using a [whetstone](./Whetstone.md) and the [S
 
 The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined hunting knife to 100% condition for one [Scrap Metal](./Scrap%20Metal.md), during an active [Aurora](./Aurora.md). N.B. The knife has a breaking threshold at 15% condition, usage below this number risks ruining it for good.
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ### Game history
 
-- [Version 0.136](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.136) on 2 October 2014 introduced the ability to harvest using the hunting knife and [Hatchet](./Hatchet.md), among other changes.
+- [Version 0.136](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.136) on 2 October 2014 introduced the ability to harvest using the hunting knife and [Hatchet](./Hatchet.md), among other changes.

@@ -41,6 +41,8 @@
 
 **Astrid's Jacket** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Astrid's jacket can be found on a table in the basement of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) during [Trauma](./Trauma.md), the first chapter of [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It can not be acquired in Survival Mode, nor at any later stage in the [Story](./Wintermute.md).
@@ -53,7 +55,9 @@ There is a small piece of Astrid's scarf tied to her left arm after her encounte
 
 ![Clothing model icon](../assets/Astrid%27s_Jacket_Model_Damaged_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game

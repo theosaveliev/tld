@@ -13,7 +13,7 @@
 
 [Line icon](../assets/Line_icon.png)
 
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
 
 **Wintermute:** No
 
@@ -37,6 +37,8 @@
 
 A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%20Tackle.md). Line can either constructed at a [Work Bench](./Work%20Bench.md) from [Cured Gut](./Cured%20Gut.md), or can occasionally be found when searching containers.
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Line**
@@ -51,14 +53,20 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 
 **Quantity:** 1
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Fishing Tackle](./Fishing%20Tackle.md) | None | - 1 × [Hook](./Hook.md)<br>- 1 × [Line](./Line.md) |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Line.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

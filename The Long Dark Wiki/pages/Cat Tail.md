@@ -9,17 +9,21 @@
 - [Location](#location)
 - [The Far Territory](#the-far-territory)
 
-\[Missing image: Cat\_Tail\_plant.png\]
+[Missing image: Cat\_Tail\_plant.png]
 
 _XTHUMB_
 
 **Cat Tail** is a type of harvestable wetland plant.
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
 Cat tails are harvestable plants found in the world of [_The Long Dark_](./The%20Long%20Dark.md) near sources of fresh water, such as frozen ponds, marshes, creeks, and rivers. Like other plants, they do not grow back once harvested. After harvesting, they leave no trace behind, unlike [Rose Hips](./Rose%20Hip.md) and saplings, which leave behind an empty bush, and a stump respectively.
 
 They are one of the most plentiful sources of [Forage](./Foraging.md) in the game. There are over 1000 individuals Cat Tail plants found through the game world, making it one of the most common types of plants that can be foraged (even more with [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed, upping that number to over 2000).
+
+<span id="harvesting"></span><span id="Harvesting"></span>
 
 ## Harvesting
 
@@ -28,6 +32,8 @@ Cat tails can be harvested without a tool. Upon harvesting, they provide both a 
 The Cat Tail Head acts as a form of Tinder, and can be used as such, providing a +0% chance to starting a fire (like all other tinder). The Cat Tail Head cannot be added to an active [Fire](./Fire.md) as fuel.
 
 The Cat Tail Stalk is a [Food](./Food%20And%20Drink.md) item that can be consumed for 150 calories. Doing so does not drain your [Thirst](./Thirst.md), unlike most other foods. Cat Tail Stalks are a staple food source that all survivors should carry. It is especially helpful in the early game when food is scarce, or on harder difficulties like Interloper.
+
+<span id="location"></span><span id="Location"></span>
 
 ## Location
 
@@ -57,6 +63,8 @@ Some other locations you can find them in each region include:
   - Just about everywhere
 - [Broken Railroad](./Broken%20Railroad.md)
   - At the lake overlooked by the [Hunters Blind](./Hunter%27s%20Blind%20%28disambiguation%29.md)
+
+<span id="the_far_territory"></span><span id="The_Far_Territory"></span><span id="the-far-territory"></span>
 
 ### The Far Territory
 

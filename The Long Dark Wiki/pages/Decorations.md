@@ -20,6 +20,8 @@ _A [Safehouse](./Safehouse.md) before decorating_
 
 **Decorations** is a section of the Backpack in the [Survival Menu](./Survival%20Menu.md) that contains all items that can be carried around and placed inside an interior as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature. It was added as part of a free update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Part 6: Broken Silence.
 
+<span id="limitations"></span><span id="Limitations"></span>
+
 ## Limitations
 
 Some Decorations have limitations on where they can be placed.
@@ -31,9 +33,13 @@ Some Decorations have limitations on where they can be placed.
   - If these items are dropped on the ground, a [Safehouse Decoration Box](./Safehouse%20Decoration%20Box.md) is produced to contain them, with each box having 100.00 kg of space.
   - Very large furniture decorations created at a [Furniture Workbench](./Furniture%20Workbench.md) cannot be carried around (despite having weight) and can only be harvested to partially regain materials once they are created (or they can be outright destroyed as usual).
 
+<span id="craftable_decorations"></span><span id="Craftable_Decorations"></span><span id="craftable-decorations"></span>
+
 ## Craftable Decorations
 
 These Decorations can be [Crafted](./Crafting.md) with the aid of [Woodworking Tools](./Woodworking%20Tools.md) (except for [Bear Hide Rug](./Bear%20Hide%20Rug.md)).
+
+<span id="anywhere"></span><span id="Anywhere"></span>
 
 ### Anywhere
 
@@ -47,11 +53,15 @@ These Decorations can be [Crafted](./Crafting.md) with the aid of [Woodworking T
 | [Decorative Art (2) icon](../assets/Decorative_Art_%282%29_icon.png) [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | 2x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)<br>1x [Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 5 Hours | 1.00 kg<br>_(2.2 lb)_ | Anywhere |
 | [Furniture Workbench icon](../assets/Furniture_Workbench_icon.png) [Furniture Workbench](./Furniture%20Workbench.md) | 10x [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | 15.00 kg<br>_(33 lb)_ | Anywhere |
 
+<span id="work_bench"></span><span id="Work_Bench"></span><span id="work-bench"></span>
+
 ### Work Bench
 
 | Recipe | Materials | Time | Weight | Crafted |
 | --- | --- | --- | --- | --- |
 | [Bear Hide Rug icon](../assets/Bear_Hide_Rug_icon.png) [Bear Hide Rug](./Bear%20Hide%20Rug.md) | 1x[Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) 1x[Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>2x[Cured Gut icon](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 8 Hours | 12.00 kg<br>_(26.4 lb)_ | [Work Bench](./Work%20Bench.md) |
+
+<span id="furniture_workbench"></span><span id="Furniture_Workbench"></span><span id="furniture-workbench"></span>
 
 ### Furniture Workbench
 
@@ -160,6 +170,8 @@ The following Decorations are automatically placed into the player's inventory o
 | [Mounted Rockfish icon](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 | [Mounted Smallmouth Bass icon](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 | [Rustic Stool icon](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | 2.00 kg<br>_(4.4 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+
+<span id="lootable_decorations"></span><span id="Lootable_Decorations"></span><span id="lootable-decorations"></span>
 
 ## Lootable Decorations
 
@@ -292,6 +304,8 @@ The following Decorations cannot be crafted, but are already present within many
 | [ShowerCurtainC](../assets/ShowerCurtainC.png)[CurtainB2](../assets/CurtainB2.png)[JackOLantern](../assets/JackOLantern.png)[LightCandle D](../assets/LightCandle_D.png)[LightCandle E](../assets/LightCandle_E.png)[BarrelWood B Snow](../assets/BarrelWood_B_Snow.png)[BedFrame A](../assets/BedFrame_A.png)[Workbench icon Old](../assets/Workbench_icon_Old.png)[Trolley A02](../assets/Trolley_A02.png) | Unknown |  | These items are in the game files but many either do not exist or cannot be pick up inside Customization zones. |
 | [CashRegisterBank](../assets/CashRegisterBank.png) | Cash Machine | 5.00 kg<br>_(11 lb)_ | Cash Machine has been removed from [Milton Credit Union](./Milton%20Credit%20Union.md) |
 | [BoneHumanSkullA](../assets/BoneHumanSkullA.png) | Skull | 0.25 kg<br>_(0.55 lb)_ | Skull has been removed from [Bunker Omega](./Bunker%20Omega.md) ([Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md)'s skull is now a skeleton that can be destroyed) |
+
+<span id="destroyable_decorations"></span><span id="Destroyable_Decorations"></span><span id="destroyable-decorations"></span>
 
 ## Destroyable Decorations
 

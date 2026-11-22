@@ -44,6 +44,8 @@
 
 <br>**Travois** (pronounced Trav-wah) are a crafted vehicle for item transportation and storage in _The Long Dark_. They can be loaded with large amounts of items, then manually dragged to move them. It was introduced in Part 4 "Buried Echoes" update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).<br>**Warning**: As of [patch 2.50](https://store.steampowered.com/news/app/305620?updates=true&emclan=103582791436288468&emgid=526487474953781659) (December, 2025) on PC, the Travois can still fall under the terrain if left outside in a loaded state before transitioning through a loading screen, forcing the player to retrieve **ALL** its contents (with the exception of [Decorations](./Decorations.md), which will all be **LOST**) from a [Lost and Found](./Lost%20and%20Found.md) box appropriate to the [region](./Region.md) it was lost in. (Note: the Lost and Found box will always be found outdoors, in a predetermined place within the region.) As an added inconvenience, the Travois may be in a Ruined state when it is found. The Travois can even fly up in the air, instead of disappearing and being placed in a Lost and Found box, if left on the ground near certain locations (such as [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)), which will make the recovery of its contents impossible. To be completely safe, **NEVER** leave a loaded Travois on the ground before going through a loading screen.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Travois are a crafted [tool](./Tools.md) for storing and transporting up to 75.00kg of cargo; functionally a travois is a deerskin backpack attached to a sled, which is dragged by the survivor to new locations. When used, a travois will lose condition over time from wear and tear; they may be repaired with [Cured Gut](./Cured%20Gut.md) and a [Cured Deer Hide](./Cured%20Deer%20Hide.md) for 70% condition. Harvesting a Travois produces 3 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md).
@@ -57,6 +59,8 @@ Travois are a crafted [tool](./Tools.md) for storing and transporting up to 75.0
 When the survivor transitions between Regions while using a Travois, they will start on the new map still hauling it. Travois cannot be brought inside structures (through doors) or into mines. They can be brought inside interior [caves](./Cave%20%28Transition%20Zone%29.md) though not redeployed when inside. They cannot be carried up a [Rope Climbing](./Rope%20Climbing.md) section unless they are emptied and placed back into the player's inventory.
 
 A Travois will leave 2 large lines in the snow as the player travels, similar to a player's footsteps.
+
+<span id="uses"></span><span id="Uses"></span>
 
 ## Uses
 
@@ -75,6 +79,8 @@ Some uses of Travois include:
 - Moving many [Decorations](./Decorations.md).
 - Moving Salt harvested from a [Salt Deposit](./Salt%20Deposit.md).
 - Moving items to [Coastal Highway](./Coastal%20Highway.md) to trade with the [Trader](./Trader.md).
+
+<span id="limitations"></span><span id="Limitations"></span>
 
 ## Limitations
 
@@ -111,6 +117,8 @@ Regions difficult to use a Travois in often have narrow/winding paths, rope clim
 
 Travois are not practical tools to use in most [Challenges](./Challenge.md) due to various time/hostile wildlife stipulations.
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Travois**
@@ -133,9 +141,13 @@ Travois are not practical tools to use in most [Challenges](./Challenge.md) due 
 
 **Quantity:** 1
 
+<span id="repair"></span><span id="Repair"></span>
+
 ## Repair
 
 Travois lose condition over time when stored or moved and also when deployed in a blizzard. They can be repaired in 2 hours (Using no tool) from the survivor's inventory with 1 [Cured Deer Hide](./Cured%20Deer%20Hide.md) and 1 [Cured Gut](./Cured%20Gut.md) and also provide a skill point increase. Time taken will depend on [Repair](./Repair.md) skill level and the tool selected. Repairing with a [Hunting Knife](./Hunting%20Knife.md), [Hatchet](./Hatchet.md) or their improvised versions reduces repair time.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -148,6 +160,8 @@ Travois lose condition over time when stored or moved and also when deployed in 
 ![Travois in-game screenshot](../assets/Travois.png)
 
 ![UI for loading and unloading the Travois](../assets/Travois_ui.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

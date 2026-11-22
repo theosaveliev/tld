@@ -38,6 +38,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Alice McLeod.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 9**_
@@ -85,5 +87,7 @@ She spent her whole life trying to uncover the truth, and died without ever comp
 I'm here to finish the job she started.
 
 But I won't be able to do it without you.
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

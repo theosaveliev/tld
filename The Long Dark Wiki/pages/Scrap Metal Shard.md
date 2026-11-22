@@ -40,9 +40,13 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Scrap Metal Shard** is Tool exclusive to [Wintermute](./Wintermute.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Scrap Metal Shard is identical in functionality to a [Hunting Knife](./Hunting%20Knife.md), but weighs less (0.30kg vs 0.50kg of a knife). It can be used as a self-defense tool, harvesting [animal](./Wildlife.md) carcasses, [Cloth](./Cloth.md) from curtains/pillows, tinder from cardboard, breaking ice for [Ice Fishing](./Ice%20Fishing.md), and crafting at a [Work Bench](./Work%20Bench.md).
+
+<span id="location"></span><span id="Location"></span>
 
 ## Location
 
@@ -50,21 +54,31 @@ It is obtained automatically in [Episode 1: Do Not Go Gentle](./Episode%201%20-%
 
 If the Scrap Metal Shard is kept in the player's inventory, it may be taken into [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md). It is ultimately lost after starting [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) (likely tossed with the rest of Mackenzie's gear by [Mathis](./Mathis.md)).
 
+<span id="repair"></span><span id="Repair"></span>
+
 ## Repair
 
 Scrap Metal Shard can be repaired with a [Whetstone](./Whetstone.md) and the [Sharpening](./Sharpening.md) skill, restoring 3% condition to the Shard.
+
+<span id="harvesting"></span><span id="Harvesting"></span>
 
 ## Harvesting
 
 The Scrap Metal Shard cannot be harvested.
 
+<span id="combat"></span><span id="Combat"></span>
+
 ## Combat
 
 Scrap Metal Shard can be used in a [Struggle](./Struggle.md), causing a Wolf some condition damage.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Mackenzie pulling the metal shard out of his left hand](../assets/Scrap_Metal_Knife_Injury.jpg)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -20,6 +20,8 @@
 
 This is the transcript for Chapter 4 [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="use_your_map_to_track_the_bear_to_his_favourite_haunts_in_mystery_lake."></span><span id="Use_your_map_to_track_the_bear_to_his_favourite_haunts_in_Mystery_Lake."></span><span id="use-your-map-to-track-the-bear-to-his-favourite-haunts-in-mystery-lake"></span>
+
 ## Use your map to track the bear to his favourite haunts in Mystery Lake.
 
 CHAPTER FOUR
@@ -29,6 +31,8 @@ JEREMIAH'S FOLLY
 _The mission starts at the door to [Trapper's Homestead](./Trapper%27s%20Homestead.md). The moment Mackenzie steps out, the [Old Bear](./Old%20Bear.md) is waiting for him. He stands on both legs, either being driven off by Mackenzie's [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) or attacking the pilot. If Mackenzie is attacked, he is mercilessly mauled in the struggle, eventually passing out. After passing out, the Old Bear can be heard walking off, and Mackenzie wakes up some time later_
 
 _After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts [The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) off._
+
+<span id="bring_the_old_bears_ear_back_to_jeremiah_as_proof_of_your_hunting_prowess."></span><span id="Bring_The_Old_Bear&#x27;s_Ear_back_to_Jeremiah,_as_proof_of_your_hunting_prowess."></span><span id="bring_the_old_bear&#x27;s_ear_back_to_jeremiah,_as_proof_of_your_hunting_prowess."></span><span id="bring-the-old-bears-ear-back-to-jeremiah-as-proof-of-your-hunting-prowess"></span>
 
 ## Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 

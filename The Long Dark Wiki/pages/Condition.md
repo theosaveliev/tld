@@ -22,6 +22,8 @@
 
 When the player falls below 10% condition, the display becomes blurred and begins to sway, with visibility decreased and sound muffled except for the sound of a heartbeat. As condition drops lower and lower, these effects are made more and more pronounced. Movement is still possible at a normal rate, but can be more challenging as the survivor will stagger around uncontrollably even when crouched.
 
+<span id="mechanics"></span><span id="Mechanics"></span>
+
 ## Mechanics
 
 ![Condition](../assets/Condition.png) Injuries instantly subtract a percentage of the player's condition. Incidents such as a short fall or a [Laceration](./Laceration.md) from a struggle with a [Wolf](./Wolf.md) can cause minor to moderate injuries. The associated condition loss is immediate and usually does not have any long-lasting effects beyond the condition loss itself.
@@ -37,7 +39,11 @@ When a [Need](./Needs.md) reaches 0, the player begins to lose condition. Failin
 | Thirst | -50.0% | -2.08% |
 | Hunger | -25.0% | -1.04% |
 
+<span id="afflictions_that_damage_condition"></span><span id="Afflictions_that_damage_Condition"></span><span id="afflictions-that-damage-condition"></span>
+
 ## Afflictions that damage Condition
+
+<span id="instant_damage"></span><span id="Instant_Damage"></span><span id="instant-damage"></span>
 
 ### Instant Damage
 
@@ -56,6 +62,8 @@ Some Afflictions cause Condition damage. Falling through [Weak Ice](./Weak%20Ice
 | --- | --- | --- |
 | [Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png) | [Rheumatic Joints](./Rheumatic%20Joints.md) | -2% from Sprains |
 | [Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | +100% more Condition loss from any damage source |
+
+<span id="damage_over_time"></span><span id="Damage_over_time"></span><span id="damage-over-time"></span>
 
 ### Damage over time
 
@@ -76,9 +84,13 @@ Other Afflictions cause damage over a period of time, and often take longer peri
 - **Note 3:** Food Poisoning and Dysentery do not allow Condition to be recovered while the Affliction persists, even during [Sleep](./Sleep.md).
 - **Note 4**: Burns (from Electrified Wires or Water during an [Aurora](./Aurora.md) or from contact with a lit [Campfire](./Campfire.md)/large open fires found in Wintermute) causes 33% Condition damage per second.
 
+<span id="afflictions_that_change_condition_bar"></span><span id="Afflictions_that_change_Condition_Bar"></span><span id="afflictions-that-change-condition-bar"></span>
+
 ## Afflictions that change Condition Bar
 
 While most Afflictions damage Condition, which can be recovered with enough rest, some Afflictions reduce or increase the overall size of the Condition bar, increasing or simply preventing Condition recovery up to a certain point.
+
+<span id="positive"></span><span id="Positive"></span>
 
 ### Positive
 
@@ -90,6 +102,8 @@ A "+" Plus symbol and the color blue is used to denote any condition gained when
 | --- | --- | --- |
 | [Well Fed icon](../assets/Well_Fed_icon.png) | [Well Fed](./Well%20Fed.md) | Temporarily increases Condition bar by 5% |
 | [Nourished icon](../assets/Nourished_icon.png) | [Nourished](./Nourished.md) | Temporarily increases Condition bar by 10% |
+
+<span id="negative"></span><span id="Negative"></span>
 
 ### Negative
 
@@ -109,6 +123,8 @@ A "-" Minus symbol and the color red is used to denote any Condition on the bar 
 | [Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png) | [Chemical Poisoning](./Chemical%20Poisoning.md) | Reduces max Condition bar by 20% (per Affliction) |
 | [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | Permanently reduces max Condition bar by 2% daily until cured |
 
+<span id="recovering_condition"></span><span id="Recovering_Condition"></span><span id="recovering-condition"></span>
+
 ## Recovering Condition
 
 Condition normally restores to 100% but can be limited to less by certain [Afflictions](./Afflictions.md). Players can restore lost condition using four different methods.
@@ -116,6 +132,8 @@ Condition normally restores to 100% but can be limited to less by certain [Affli
 [Sleep](./Sleep.md) is the most common method of restoring condition. All four needs must be met for the player to restore condition during sleep. The rate of return is dependent on the bed used and the number of hours slept, with longer periods granting higher returns. [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) can also help the player achieve a more restful sleep. For more detailed info on this vital mechanic, have a look at the [sleep](https://thelongdark.fandom.com/wiki/Sleep?so=search#Restoring_condition) page.
 
 Condition is restored at a rate of 25% each day, or just over 1% every hour as long as all four [Needs](./Needs.md) are above 0 and the player has no Afflictions which negatively affects condition (such as [Food Poisoning](./Food%20Poisoning.md)). This passive regeneration improves the player's condition while awake, but is slower than the condition recovery from sleeping.
+
+<span id="positive_recovery"></span><span id="Positive_Recovery"></span><span id="positive-recovery"></span>
 
 ### Positive Recovery
 
@@ -151,6 +169,8 @@ During the [Challenge](./Challenge.md) "[As the Dead Sleep](./As%20the%20Dead%20
 - Burns temporarily reduce maximum Condition by 15%.
 - Food Poisoning and Dysentery temporarily lowers maximum Condition recovery **to 0%**.
 
+<span id="negative_recovery"></span><span id="Negative_Recovery"></span><span id="negative-recovery"></span>
+
 ### Negative Recovery
 
 The following Afflictions negatively affect Condition recovery.
@@ -161,6 +181,8 @@ The following Afflictions negatively affect Condition recovery.
 | [Weakened State icon](../assets/Weakened_State_icon.png) | [Weakened State](./Weakened%20State.md) | Halves Condition Recovery |
 | [Haunted Mind icon](../assets/Haunted_Mind_icon.png) | [Haunted Mind](./Haunted%20Mind.md) | -50% Condition healing from Rest |
 | [Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | Disables all forms of Condition Recovery |
+
+<span id="death"></span><span id="Death"></span>
 
 ## Death
 
@@ -183,6 +205,8 @@ Death occurs when the survivor's Condition reaches zero, providing a brief expla
 - "YOU DIED FROM MASSIVE INTERNAL INJURIES AFTER FALLING" - falling from an extreme height or passing through an [instant kill barrier](./Environmental%20Hazard.md#Instant_Kill_Barriers) will trigger this. Can also occur when stamina is too low and falling from a [Rope Climbing](./Rope%20Climbing.md) section.
 - "THE DARKWALKER HAS DEVOURED YOU" - if the Darkwalker in [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) catches you, a cutscene will play before the player is killed and generate this message.
 
+<span id="wintermute"></span><span id="Wintermute"></span>
+
 ### Wintermute
 
 In addition to normal death screens, Wintermute has unique game over screens.
@@ -198,6 +222,8 @@ Death is different per game mode:
 - In [Wintermute](./Wintermute.md) (Story Mode) the player has the option to restart from a prior save/autosave checkpoint upon death.
 
 Progress towards [Feats](./Feats.md), [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md), and certain [Badges](./Badges.md) persists even after death.
+
+<span id="see_also"></span><span id="See_also"></span><span id="see-also"></span>
 
 ## See also
 

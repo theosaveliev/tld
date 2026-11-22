@@ -14,6 +14,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Just a mountain with the form of a pillar. Underneath it can be found the cave leading to [Deer Clearing](./Deer%20Clearing.md), located in the region of [Timberwolf Mountain](./Timberwolf%20Mountain.md). It can be used as a landmark for navigation since it's at the southern part of Ash Canyon and is almost always visible.
@@ -23,6 +25,8 @@ Up along a path that leads to a higher plateau, two burnt-out campfires can be f
 The area is rich in natural resources, and a [Rabbit](./Rabbit.md) grove and several potential ravaged [Deer Clearing](./Deer%20Clearing.md) spawns exist in the area, making this a potential hunting/resupply area while transitioning between Timberwolf Mountain and Ash Canyon. A corpse can be found along the west wall of the area.
 
 There is also a tree stump with a [Spray Paint](./Spray%20Paint.md) and 0.50L of [Water (Potable)](./Water%20%28Potable%29.md) when going from the pass towards the "to Timberwolf Mountain" cave. Its on a small rise, near the pass right beneath the pathway leading up the (right) rockface which leads nowhere.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

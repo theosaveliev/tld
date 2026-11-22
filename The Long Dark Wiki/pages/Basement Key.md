@@ -6,7 +6,7 @@
 
 [Basement Key icon](../assets/Basement_Key_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Trauma](./Trauma.md)
 
@@ -36,7 +36,9 @@
 
 During the course of the mission, Astrid finds the key within the Flower [Vase](./Vase.md) within the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md). The key unlocks the basement that contains medical supplies, a [Revolver](./Revolver.md), [Rifle Ammunition](./Rifle%20Ammunition.md), and an unlocked exit to the house.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

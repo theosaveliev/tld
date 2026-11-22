@@ -6,7 +6,7 @@
 
 [Forest Talker Bunker Memo icon](../assets/Forest_Talker_Bunker_Memo_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)
 
@@ -36,13 +36,17 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Bunker Memo_ from in the [Rural Store](./Rural%20Store.md) of [Thomson's Crossing](./Thomson%27s%20Crossing.md) on Green and Capable Survivor difficulty. On Hardened Survivor, the note is found in a backpack next to a corpse at the [Derelict Cabins](./Derelict%20Cabins.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Bunker Memo**_
 
 This old guy has struck off who knows where. But there's bound to be some gear left behind. Anyway we're out of options. -- M.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

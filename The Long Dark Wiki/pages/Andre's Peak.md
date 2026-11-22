@@ -18,15 +18,21 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 On the peak is [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), [rose hips](./Rose%20Hip.md) and sometimes a [corpse](./Frozen%20Corpse.md). There is also a small cave nearby that may have some supplies such as [coal](./Coal.md) and firewood.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![The small cave on Andre's Peak](../assets/Andres_peak_cave.jpg)
 
 ![A panoramic view from the peak](../assets/Andres_peak_panorama.jpg)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

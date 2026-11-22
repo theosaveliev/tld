@@ -31,13 +31,19 @@
 
 **Car Batteries** are a crafting item in **_The Long Dark_**.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Car Batteries are the heaviest object in the game, weighing 15kg (33lbs), found under the hoods of a [Car](./Car.md) or [Truck](./Truck.md) in any region that has them. Regions such as [Mountain Town](./Mountain%20Town.md), [Bleak Inlet](./Bleak%20Inlet.md), and [Coastal Highway](./Coastal%20Highway.md) have the most cars, thus have the most Car Batteries to loot.
 
+<span id="harvesting"></span><span id="Harvesting"></span>
+
 ### Harvesting
 
 They can be harvested with a [Hacksaw](./Hacksaw.md) for [Scrap Lead](./Scrap%20Lead.md), required for crafting ammunition with the [Gunsmithing](./Gunsmithing.md) skill at the [Ammunition Workbench](./Ammunition%20Work%20Bench.md). It takes 30 minutes to harvest a Car Battery. One Car Battery will always yield six Scrap Lead; each piece of Scrap Lead may be crafted into six [Bullets](./Bullet.md) at an [Ammunition Forge](./Ammunition%20Forge.md), so one Car Battery always allows the crafting of 36 Bullets.
+
+<span id="transmitters"></span><span id="Transmitters"></span>
 
 ### Transmitters
 
@@ -50,9 +56,13 @@ For players that have the [Tales from the Far Territory](./Tales%20from%20the%20
 - [Old Substation](./Old%20Substation.md) has a battery inside the substation for the Transmitter in [Blackrock](./Blackrock.md).
 - [Hibernia Processing](./Hibernia%20Processing.md) has multiple inside for the Transmitter in [Desolation Point](./Desolation%20Point.md).
 
+<span id="trading"></span><span id="Trading"></span>
+
 ### Trading
 
 The [Trader](./Trader.md) also requests 1 battery in his trades for [Recipe Cards](./Recipe%20Cards.md) or Blueprints.
+
+<span id="special_locations"></span><span id="Special_Locations"></span><span id="special-locations"></span>
 
 ### Special Locations
 
@@ -62,11 +72,15 @@ A select number of special areas contains around 5 Batteries in an indoor space.
 - [Hibernia Processing](./Hibernia%20Processing.md) in [Desolation Point](./Desolation%20Point.md)
 - [Blackrock Prison](./Blackrock%20Prison.md) (inside the prison) in [Blackrock](./Blackrock.md)
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Scrap Lead](./Scrap%20Lead.md) | None | - 1 × [Car Battery](./Car%20Battery.md) |
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -78,6 +92,8 @@ Eventually all [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.m
   - They are still useless in [Wintermute](./Wintermute.md) episodes 1, 2, 3, and 4 because there is no [Ammunition Workbench](./Ammunition%20Work%20Bench.md).
 - Car Batteries and Scrap Lead are finite and non-renewable.
 - A [Travois](./Travois.md) is extremely useful for hauling car batteries over longer distances.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

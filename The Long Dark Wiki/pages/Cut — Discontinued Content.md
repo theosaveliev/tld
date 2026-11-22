@@ -71,9 +71,13 @@ The following list contains discontinued features that existed in _[The Long Dar
 
 Many items that have been cut here can be re-experienced by using the [Time Capsule](./Time%20Capsule.md).
 
+<span id="cut_toolsmechanics"></span><span id="Cut_Tools/Mechanics"></span><span id="cut_tools/mechanics"></span><span id="cut-toolsmechanics"></span>
+
 ## Cut Tools/Mechanics
 
 Several items/mechanics have been cut from the game over the years. Many items found below are still in the game files, but cannot be accessed normally.
+
+<span id="brand"></span><span id="Brand"></span>
 
 ### Brand
 
@@ -89,9 +93,13 @@ It was eventually cut in the Faithful Cartographer update and replaced by taking
 
 ![Brand light](../assets/Brand_light.png)
 
+<span id="brandishing"></span><span id="Brandishing"></span>
+
 ### Brandishing
 
 There was a cut Mechanic where a player could brandish (swinging sideways) their [Flares](./Flare.md), [Torches](./Torch.md), and Brands to scare away wolves. Before the introduction of Brands it was only possible to brandish Torches at the expense of around 12% [Fatigue](./Fatigue.md) and 15% of the torch condition per swing, after the introduction of Brands it became possible to swing all three types of light sources at the expense of 5% of [Stamina](./Stamina.md) and around 10 minutes of fire duration of Torches and Brands. This feature was removed and reverted back to throwing torches and flares at wildlife instead.
+
+<span id="shovel"></span><span id="Shovel"></span>
 
 ### Shovel
 
@@ -113,6 +121,8 @@ _The shovel in [Memories](./Memories.md)_
 
 ![In the 4DON main menu](../assets/The_Long_Dark_Halloween_main_menu_theme.jpg)
 
+<span id="fire_axe"></span><span id="Fire_Axe"></span><span id="fire-axe"></span>
+
 ### Fire Axe
 
 > “**A large axe of the kind used to break down doors during fires.**”
@@ -127,6 +137,8 @@ Raphael von Lierop, creative lead of the game, responded that the item was used 
 
 ![Fire Axe Episode 5](../assets/Fire_Axe_Episode_5.jpg)
 
+<span id="compression_bandage"></span><span id="Compression_Bandage"></span><span id="compression-bandage"></span>
+
 ### Compression Bandage
 
 > “**A compression bandage, used to constrict movement on an injury.**”
@@ -136,6 +148,8 @@ Raphael von Lierop, creative lead of the game, responded that the item was used 
 There is an item in the Wintermute game files called the Compression Bandage. It has no Backpack model, and can only be dropped. It was likely replaced by the regular [Bandage](./Bandage.md), and may have been used to heal Sprains.
 
 ![Compression Bandage](../assets/Compression_Bandage.png)
+
+<span id="charcoal_accelerant"></span><span id="Charcoal_Accelerant"></span><span id="charcoal-accelerant"></span>
 
 ### Charcoal Accelerant
 
@@ -151,6 +165,8 @@ There is an item in the Wintermute game files called the Accelerant, but it is d
 
 ![A regular Accelerant compared to the unused one.](../assets/Accelerant_Charcoal_Ref.png)
 
+<span id="flint_and_steel"></span><span id="Flint_and_Steel"></span><span id="flint-and-steel"></span>
+
 ### Flint and Steel
 
 > “**Flint and steel striker to create hot sparks and ignite tinder.**”
@@ -163,19 +179,25 @@ There is an item in the Wintermute game files called the Flint and Steel. It is 
 
 ![Possible scrapped icon](../assets/Flint_icon.png)
 
+<span id="heated_car_seats"></span><span id="Heated_Car_Seats"></span><span id="heated-car-seats"></span>
+
 ### Heated Car Seats
 
 An option for Heated Seats would appear during an Aurora inside several trucks in [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) following the Perilous Constraint update. Hovering over the dashboard would make the option appear, but ultimately did not raise the player's [Warmth](./Warmth.md) since the feature was not complete (given the obvious string of gameplay code presented). The option was ultimately removed in a patch, and Heated Seats as a potential mechanic have yet to return.
 
 ![The Heated Seats option](../assets/Heated_Seats.png)
 
+<span id="dark_room"></span><span id="Dark_Room"></span><span id="dark-room"></span>
+
 ### Dark Room
 
 The [Camera](./Camera.md) was originally teased as "A Photo Mode for THE LONG DARK, but contextualized with an in-game camera and Dark Room chemicals so that you can process your own film." This meant that the original Camera used a model that required its pictures to be processed first before they could be displayed, which was also shown in the teaser image showing polaroids hanging out to develop.
 
-- An interview by Hinterland later revealed that the Dark Room was cut "because it would have required electrical equipment that we'd only be able to let player use during an active aurora. We came up with a good solution that is true to our lore and also gives players a lot of freedom for self-expression."[¹](#fn1)
+- An interview by Hinterland later revealed that the Dark Room was cut "because it would have required electrical equipment that we'd only be able to let player use during an active aurora. We came up with a good solution that is true to our lore and also gives players a lot of freedom for self-expression."<span id="fnref1"></span>[¹](#fn1)
 
 ![The teaser image for the Camera and Dark Room](../assets/Icon-camera-and-dark-room.svg)
+
+<span id="carriable_wolf_carcass"></span><span id="Carriable_Wolf_Carcass"></span><span id="carriable-wolf-carcass"></span>
 
 ### Carriable Wolf Carcass
 
@@ -183,11 +205,15 @@ A unique [Ravaged Wolf Carcass](./Wolf%20Carcass.md) item exists in the game fil
 
 ![Wolf carcass icon](../assets/Wolf_carcass_icon.png)
 
+<span id="fresh_leather"></span><span id="Fresh_Leather"></span><span id="fresh-leather"></span>
+
 ### Fresh Leather
 
 An [uncured](./Curing.md) variant of [Cured Leather](./Cured%20Leather.md) was originally present in the earlier builds of the game and was present past the 1.00 launch of the game. [Fresh Leather](./Fresh%20Leather.md) was originally harvested from animals instead of animal hides, and would cure indoors for 5 days before becoming Cured Leather. Eventually animal hides would replace Fresh Leather, but the item could occasionally be found in the game world, with indoor spawns of the items eventually turning into Cured Leather over time. This item has ultimately been removed from the game's loot tables in Survival Mode, and is impossible to find anywhere without console commands, and only appears in Survival Mode.
 
 ![Fresh Leather](../assets/Fresh_Leather.jpg)
+
+<span id="pumpkin_pie_and_2500_calorie_chocolate_bar"></span><span id="Pumpkin_Pie_and_2500_Calorie_Chocolate_Bar"></span><span id="pumpkin-pie-and-2500-calorie-chocolate-bar"></span>
 
 ### Pumpkin Pie and 2500 Calorie Chocolate Bar
 
@@ -206,6 +232,8 @@ A second version of the Pumpkin Pie would appear in the 2020 [Escape the Darkwal
 ![The 2500 Candy Bars](../assets/CandyBowl.jpg)
 
 ![Nutsnstuff](../assets/Nutsnstuff.jpg)
+
+<span id="past_events"></span><span id="Past_Events"></span><span id="past-events"></span>
 
 ## Past Events
 
@@ -241,7 +269,11 @@ _The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)_
 
 ![Escape the Darkwalker](../assets/Darkwalker-Blog-Featured-Img.png)
 
+<span id="early_survival_mode"></span><span id="Early_Survival_Mode"></span><span id="early-survival-mode"></span>
+
 ## Early Survival Mode
+
+<span id="struggle"></span><span id="Struggle"></span>
 
 ### Struggle
 
@@ -255,29 +287,43 @@ In Early Access update 0.163 (Released November 2014), the struggle system under
 
 Finally, in Early Access update 0.423 (June 2017), it introduced weapon choice to select right before the struggle (the game would be slowed down for few seconds to give you enough time to react).
 
+<span id="running_instead_of_sprinting"></span><span id="Running_instead_of_Sprinting"></span><span id="running-instead-of-sprinting"></span>
+
 ### Running instead of Sprinting
 
 Early Survival Mode gave the player the option to toggle or hold the ability to run, and the player could always run without a cooldown (infinite running) or effecting [Fatigue](./Fatigue.md). Becoming Exhausted however would prevent the player from running. Eventually, this system was replaced in the Deep Forest update, giving the player a [Stamina](./Stamina.md) meter, and endlessly running was instead replaced by occasional Sprinting that lowers Fatigue quickly.
+
+<span id="abstract_foraging_for_fuel"></span><span id="Abstract_Foraging_for_Fuel"></span><span id="abstract-foraging-for-fuel"></span>
 
 ### Abstract Foraging for Fuel
 
 Early Survival Mode gave players the menu option to spend time and calories searching the area for fuel. This system was eventually replaced in the Deep Forest update, providing a Direct Harvesting and Foraging system that is still in place today, adding Sticks and Harvestable Objects throughout the game world.
 
+<span id="searching_containers"></span><span id="Searching_Containers"></span><span id="searching-containers"></span>
+
 ### Searching Containers
 
 Originally, searching a container would yield items as the search bar filled up. Multiple items inside a container would appear halfway through the search until the bar was fully filled and could be claimed or left inside. It was eventually changed so that items are only yielded once the search bar reaches 100%.
+
+<span id="calorie_store"></span><span id="Calorie_Store"></span><span id="calorie-store"></span>
 
 ### Calorie Store
 
 Maximum Calories for the earliest time was capped at 3000 stored calories. It was eventually changed to the current 2500 Calorie Store.
 
+<span id="drop_decoy"></span><span id="Drop_Decoy"></span><span id="drop-decoy"></span>
+
 ### Drop Decoy
 
 Drop Decoy originally allowed you to drop any food in your inventory as [Baiting](./Scent.md#Baiting%2FDecoys) for predators. It was eventually changed so that only meat and guts could be dropped.
 
+<span id="item_modelname_changes"></span><span id="Item_Model/Name_Changes"></span><span id="item_model/name_changes"></span><span id="item-modelname-changes"></span>
+
 ### Item Model/Name Changes
 
 Several items and their in-game models have been changed throughout the years, mostly from the early Alpha days to the present. Below is a list of name/model changes (items with changed names will have the current name in a hyperlink):
+
+<span id="fire_staring"></span><span id="Fire_Staring"></span><span id="fire-staring"></span>
 
 #### Fire Staring
 
@@ -320,6 +366,8 @@ _[Newsprint Roll](./Newsprint%20Roll.md)_
 ![Firelog](../assets/Firelog.png)
 
 _[Firelog](./Firelog.md)_
+
+<span id="clothing"></span><span id="Clothing"></span>
 
 #### Clothing
 
@@ -428,6 +476,8 @@ _[Expedition Parka](./Expedition%20Parka.md)_
 ![Thin Wool Sweater](../assets/Thin_wool_sweater_%28historical%29.png)
 
 _[Thin Wool Sweater](./Thin%20Wool%20Sweater.md)_
+
+<span id="food_and_drink"></span><span id="Food_and_Drink"></span><span id="food-and-drink"></span>
 
 #### Food and Drink
 
@@ -565,6 +615,8 @@ _[Venison (Cooked)](./Venison%20%28Cooked%29.md)_
 
 _[Cat Tail Stalk](./Cat%20Tail%20Stalk.md)_
 
+<span id="first_aid"></span><span id="First_Aid"></span><span id="first-aid"></span>
+
 #### First Aid
 
 ![Painkillers](../assets/Painkillers.png)
@@ -606,6 +658,8 @@ _[Reishi Tea](./Reishi%20Tea.md)_
 ![Sewing Kit](../assets/Sewing_kit_old_model.png)
 
 _[Sewing Kit](./Sewing%20Kit.md)_
+
+<span id="tools"></span><span id="Tools"></span>
 
 #### Tools
 
@@ -680,6 +734,8 @@ _Wilderness Kitchen [Research Book](./Research%20Book.md)_
 ![Field Dressing Your Kill, Vol 1 Research Book](../assets/Field_Dressing_Your_Kill_Old.png)
 
 _Field Dressing Your Kill, Vol 1 [Research Book](./Research%20Book.md)_
+
+<span id="materials"></span><span id="Materials"></span>
 
 #### Materials
 
@@ -765,6 +821,8 @@ _[Cured Cougar Hide](./Cured%20Cougar%20Hide.md)_
 
 _[Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md)_
 
+<span id="old_survival_menuui_backgrounds"></span><span id="Old_Survival_Menu/UI_backgrounds"></span><span id="old_survival_menu/ui_backgrounds"></span><span id="old-survival-menuui-backgrounds"></span>
+
 ### Old Survival Menu/UI backgrounds
 
 Most of the [Survival Menu](./Survival%20Menu.md) backgrounds have changed from an actual book to stylized floating text. A physical book can still be heard closing when closing the Survival Menu despite the modernized changes.
@@ -823,11 +881,15 @@ _Old [Survival Overlay](./Survival%20Overlay.md)_
 
 _Old [Needs](./Needs.md) HUD_
 
+<span id="survival_skills"></span><span id="Survival_Skills"></span><span id="survival-skills"></span>
+
 ### Survival Skills
 
 The survival skills originally did not have a dedicated menu, but instead appeared when they were leveled up similarly to [Secondary Skills](./Skills.md#Secondary_skills). Eventually players could see their survival skills in the "basic skills" tab in a book, before it was changed to a modern-style book.
 
 ![Skills journal3](../assets/Skills_journal3.png)
+
+<span id="clock_and_time_of_day"></span><span id="Clock_and_Time_of_day"></span><span id="clock-and-time-of-day"></span>
 
 ### Clock and Time of day
 
@@ -835,9 +897,13 @@ In the pre-alpha version, players would have a digital clock shown on HUD UI sta
 
 Time of day would later undergo a few changes until it was replaced with the current rotating sun and moon icons.
 
+<span id="discontinued_wintermute_content"></span><span id="Discontinued_Wintermute_Content"></span><span id="discontinued-wintermute-content"></span>
+
 ## Discontinued Wintermute Content
 
 Many of these features were in the original Predux releases of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) and were removed following the Redux re-release.
+
+<span id="the_original_wintermute_storyline"></span><span id="The_original_Wintermute_storyline"></span><span id="the-original-wintermute-storyline"></span>
 
 ### The original Wintermute storyline
 
@@ -858,6 +924,8 @@ Episode 2
 - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
 - [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md)
 
+<span id="hatch_in_trappers_homestead_floorboards"></span><span id="Hatch_in_Trapper&#x27;s_Homestead_Floorboards"></span><span id="hatch_in_trapper&#x27;s_homestead_floorboards"></span><span id="hatch-in-trappers-homestead-floorboards"></span>
+
 ### Hatch in Trapper's Homestead Floorboards
 
 In the pre Redux version of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), Jeremiah would walk over to the middle of the floor and open a hatch with a ham radio inside after Mackenzie left in order to send a message out to an unknown party. This hatch is still present in the floorboards of the cabin to this day, but cannot be opened. The same radio was reworked into the mission [Signal to Noise](./Signal%20to%20Noise.md), as Mackenzie must now repair it with Jeremiah.
@@ -870,6 +938,8 @@ In the pre Redux version of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md
 
 ![The hidden ham radio is now on the work bench in the Redux version](../assets/Episode_2_radio.jpg)
 
+<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+
 ### Side Missions
 
 Several side missions were cut or reworked into the Redux version of Episode 1 and 2:
@@ -877,6 +947,8 @@ Several side missions were cut or reworked into the Redux version of Episode 1 a
 - [Light Up The Night](./Light%20Up%20The%20Night.md) was cut from Episode 1 and was replaced by [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md), and was unlocked by raising Grey Mother's Trust.
 - [Forge Blueprints (mission)](./Forge%20Blueprints%20%28mission%29.md) was cut from Episode 2 entirely, and was given by Jeremiah as a reward for raising his Trust. The player would go to the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) and unlock the ability to Forge improvised tools.
 - [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) was a location replaced by the [Aurora Hatch](./Aurora%20Hatch.md) in Episode 2 following the Redux re-release. Jeremiah would give the player the side mission once their Trust level was at max and would ask Mackenzie to burn some of his old letters.
+
+<span id="trust"></span><span id="Trust"></span>
 
 ### Trust
 
@@ -890,9 +962,13 @@ In the original Wintermute releases of Episodes 1 and 2, [Grey Mother](./Grey%20
 
 It is possible to steal food items from Grey Mother and Jeremiah by opening canned goods and canceling halfway through, thus claiming the item and not lowering Trust. Jeremiah will know the player has taken his things even when he is passed out at the start of Episode 2.
 
+<span id="grey_mothers_trust"></span><span id="Grey_Mother&#x27;s_Trust"></span><span id="grey_mother&#x27;s_trust"></span><span id="grey-mothers-trust"></span>
+
 #### Grey Mother's Trust
 
 The following would have unlocked as Trust continued to increase:
+
+<span id="items_that_increase_trust"></span><span id="Items_That_Increase_Trust"></span><span id="items-that-increase-trust"></span>
 
 #### Items That Increase Trust
 
@@ -903,11 +979,15 @@ The following would have unlocked as Trust continued to increase:
 - +25 [Can Opener](./Can%20Opener.md)
 - +30 [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) or [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
 
+<span id="things_that_lose_trust"></span><span id="Things_that_lose_Trust"></span><span id="things-that-lose-trust"></span>
+
 ### Things that lose Trust
 
 - -5 Searching containers (even if you don't take anything)
 - -15 Taking items
 - -25 Breaking down furniture
+
+<span id="trust_levels_and_unlocks"></span><span id="Trust_Levels_And_Unlocks"></span><span id="trust-levels-and-unlocks"></span>
 
 #### Trust Levels And Unlocks
 
@@ -920,7 +1000,11 @@ The following would have unlocked as Trust continued to increase:
 - 300 Trust: Knowledge: [Perseverance Mills](./Perseverance%20Mills.md) - Worldbuilding information about Perseverance Mills. (Gives [History of The Collapse](./History%20of%20The%20Collapse.md) Part Two [What I Know](./What%20I%20Know.md) Knowledge)
 - 375 Trust: Item: [Mountaineering Boots](./Mountaineering%20Boots.md) - Grey Mother gives you with Mountaineering Boots. (sic) (Gives [Mountaineering Boots](./Mountaineering%20Boots.md))
 
+<span id="jeremiahs_trust"></span><span id="Jeremiah&#x27;s_Trust"></span><span id="jeremiah&#x27;s_trust"></span><span id="jeremiahs-trust"></span>
+
 #### Jeremiah's Trust
+
+<span id="items_that_increase_trust_1"></span><span id="items-that-increase-trust-1"></span>
 
 #### Items That Increase Trust
 
@@ -931,11 +1015,15 @@ The following would have unlocked as Trust continued to increase:
 - +25 [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) or [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
 - +30 [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) or [Cured Deer Hide](./Cured%20Deer%20Hide.md)
 
+<span id="things_that_lose_trust_1"></span><span id="things-that-lose-trust-1"></span>
+
 ### Things that lose Trust
 
 - -5 Searching containers (even if you don't take anything)
 - -15 Taking items
 - -25 Breaking down furniture
+
+<span id="trust_levels_and_unlocks_1"></span><span id="trust-levels-and-unlocks-1"></span>
 
 #### Trust Levels And Unlocks
 
@@ -954,6 +1042,8 @@ The following would have unlocked as Trust continued to increase:
 
 ![Ditto](../assets/Jeremiah_Trust_Menu_bed.jpg)
 
+<span id="rd_person_cutscenes"></span><span id="3rd_Person_Cutscenes"></span><span id="3rd_person_cutscenes"></span><span id="3rd-person-cutscenes"></span>
+
 ### 3Rd Person Cutscenes
 
 With the original Predux release of Episode 1 and 2, Mackenzie would appear in 3rd person in each cutscene. He would always wear his default clothing, regardless of what was chosen to be worn by the player, and was far more expressive and interactive when meeting with other characters.
@@ -962,11 +1052,17 @@ Following the Redux updates, all cutscenes were replaced with a first person per
 
 ![Mackenzie finding the Crashed Prison Bus and activating a 3rd person cutscene](../assets/PrisonBus2.jpg)
 
+<span id="jeremiahs_bearskin_coat"></span><span id="Jeremiah&#x27;s_Bearskin_Coat"></span><span id="jeremiah&#x27;s_bearskin_coat"></span><span id="jeremiahs-bearskin-coat"></span>
+
 ### Jeremiah's Bearskin Coat
 
 As part of the [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) mission, Mackenzie needed to repair [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) in order to learn about [Mending](./Mending.md). This was the same coat that Jeremiah was wearing when the [Old Bear](./Old%20Bear.md) attacked him at the end of Episode 1. The coat was not a Collectible, but rather a [Clothing](./Clothing.md) item, and had no clothing stats, could not be worn, and weighed 5.00 kg. It would be repaired with 1 [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), and later be returned to Jeremiah.
 
+<span id="cut_tools"></span><span id="Cut_Tools"></span><span id="cut-tools"></span>
+
 ### Cut Tools
+
+<span id="bolt_cutters"></span><span id="Bolt_Cutters"></span><span id="bolt-cutters"></span>
 
 #### Bolt Cutters
 
@@ -978,6 +1074,8 @@ The bolt cutters were removed from the game entirely after the Redux update, how
 
 ![Current icon](../assets/Bolt_Cutters_icon.png)
 
+<span id="jeremiahs_knife"></span><span id="Jeremiah&#x27;s_Knife"></span><span id="jeremiah&#x27;s_knife"></span><span id="jeremiahs-knife"></span>
+
 #### Jeremiah's Knife
 
 [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) was a tool found exclusively in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). It was removed from Episode and the game entirely after the Redux update, however the icon can still be seen occasionally in Survival Mode when crafting at a Work Bench. The knife is still present as a spawnable object in the Wintermute game files. It has been seen in an official trailer as late as December 5th 2023, as well as an icon for Misery Mode during the May 13th 2024 News update.
@@ -985,6 +1083,8 @@ The bolt cutters were removed from the game entirely after the Redux update, how
 ![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
 
 ![The knife in the Misery Mode icon](../assets/Misery_Mode.jpg)
+
+<span id="jeremiahs_broken_rifle_and_hunting_lodge_rifle"></span><span id="Jeremiah&#x27;s_Broken_Rifle_and_Hunting_Lodge_Rifle"></span><span id="jeremiah&#x27;s_broken_rifle_and_hunting_lodge_rifle"></span><span id="jeremiahs-broken-rifle-and-hunting-lodge-rifle"></span>
 
 #### Jeremiah's Broken Rifle and Hunting Lodge Rifle
 
@@ -997,6 +1097,8 @@ Jeremiah's rifle originally breaks after Mackenzie fires it at the end of Episod
 ![Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png)
 
 ![Jeremiah's Broken/Repaired Rifle icon](../assets/Jeremiah%27s_Broken_Rifle_icon.png)
+
+<span id="cut_collectibles"></span><span id="Cut_Collectibles"></span><span id="cut-collectibles"></span>
 
 ### Cut Collectibles
 
@@ -1019,6 +1121,8 @@ Episode 2
 
 ![Jeremiah's Papers](../assets/Jeremiah%27s_Papers_icon.png)
 
+<span id="early_item_designs"></span><span id="Early_Item_Designs"></span><span id="early-item-designs"></span>
+
 ## Early Item Designs
 
 - An early version of the [Revolver](./Revolver.md) was planned but ultimately never introduced into the game until the Steadfast Ranger update, including [Revolver Ammunition](./Revolver%20Ammunition.md) and [Revolver Shell Casings](./Revolver%20Shell%20Casing.md). Textures for Revolver Ammunition can be found as early as the Early Access Launch Update.
@@ -1030,6 +1134,8 @@ Episode 2
 ![Early Bear Spear teaser image](../assets/Early_Bear_Spear.png)
 
 ![Early Spray Paint](../assets/Spray-can-comp.jpg)
+
+<span id="unused_iconstextures"></span><span id="Unused_Icons/Textures"></span><span id="unused_icons/textures"></span><span id="unused-iconstextures"></span>
 
 ## Unused Icons/Textures
 
@@ -1104,7 +1210,7 @@ _[Salty Crackers](./Salty%20Crackers.md) cut texture_
 
 ![Journal Texture](../assets/Journal_Texture_icon.png)
 
-\[Missing image: Cat\_Tail\_plant.png\]
+[Missing image: Cat\_Tail\_plant.png]
 
 _Cat Tail Plant_
 
@@ -1155,6 +1261,8 @@ _Possible alternate [Revolver](./Revolver.md)_
 ![Episode 5 Alternative Supply Room Key](../assets/Ico_GearItem_OBJ_SuzukiSupplyRoomKey.png)
 
 _Episode 5 Alternative [Supply Room Key](./Supply%20Room%20Key.md)_
+
+<span id="cut_achievementsbadges"></span><span id="Cut_Achievements/Badges"></span><span id="cut_achievements/badges"></span><span id="cut-achievementsbadges"></span>
 
 ## Cut Achievements/Badges
 
@@ -1314,7 +1422,11 @@ Harvest 25 of each kind of plant (single game)
 
 ![Old Nomad Badge](../assets/Nomad_badge.png)
 
+<span id="discontinued_icons"></span><span id="Discontinued_Icons"></span><span id="discontinued-icons"></span>
+
 ## Discontinued Icons
+
+<span id="afflictions"></span><span id="Afflictions"></span>
 
 ### Afflictions
 
@@ -1352,6 +1464,8 @@ Harvest 25 of each kind of plant (single game)
 
 ![Improved Sleep](../assets/Improved_rest.png)
 
+<span id="skills"></span><span id="Skills"></span>
+
 ### Skills
 
 ![Ice Fishing](../assets/Ice_fishing_skill_icon.png)
@@ -1366,9 +1480,13 @@ Harvest 25 of each kind of plant (single game)
 
 ![Rifle Firearm Skill (Formerly named Firearms Skill)](../assets/Firearms_skill_icon.png)
 
+<span id="other"></span><span id="Other"></span>
+
 ### Other
 
 ![Windshield](../assets/Windshield2.png)
+
+<span id="challenge_portraits"></span><span id="Challenge_Portraits"></span><span id="challenge-portraits"></span>
 
 ### Challenge Portraits
 
@@ -1387,6 +1505,8 @@ _[Hopeless Rescue](./Hopeless%20Rescue.md)_
 ![The Hunted, Part One](../assets/The_Hunted%2C_Part_One.png)
 
 _[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)_
+
+<span id="region_portraits"></span><span id="Region_Portraits"></span><span id="region-portraits"></span>
 
 ### Region Portraits
 
@@ -1458,6 +1578,8 @@ _[Bleak Inlet](./Bleak%20Inlet.md)_
 
 ![Broken Railroad Selection](../assets/Broken_railway_titlecard.jpg)
 
+<span id="old_region_maps"></span><span id="Old_Region_Maps"></span><span id="old-region-maps"></span>
+
 ### Old Region Maps
 
 ![0.298 (Timberwolf Mountain Update) World Map released by Hinterland. Never officially in game](../assets/Global_map_Published_by_development_team.jpg)
@@ -1493,6 +1615,8 @@ _[Bleak Inlet](./Bleak%20Inlet.md)_
 ![Ditto, selection screen](../assets/Far_Territory_Selection_Part_5.jpg)
 
 ![Cauldron Island (Part One V2.58)](../assets/Cauldron_Island_V2.58.jpg)
+
+<span id="title_screens"></span><span id="Title_Screens"></span><span id="title-screens"></span>
 
 ### Title Screens
 
@@ -1532,8 +1656,10 @@ _[4DON](./4%20Days%20of%20Night%20Event.md) Version (Pre Alpha)_
 
 ![Iron Road part 1](../assets/Iron_Road_Screen.jpg)
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. [https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024](https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024)[↩︎](#fnref1)
+1. <span id="fn1"></span>[https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024](https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024)[↩︎](#fnref1)

@@ -13,7 +13,7 @@
 
 [Broken Ribs icon](../assets/Broken_Ribs_icon.png)
 
-**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
+**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)
 
 **Update:** 1.16
 
@@ -41,6 +41,8 @@
 
 **Broken Ribs** is an [Affliction](./Afflictions.md) only acquired from a [Moose](./Moose.md) [Struggle](./Struggle.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.**”
@@ -55,6 +57,8 @@ Broken Ribs does not alter movement speed, as the survivor can still sprint (des
 
 Should the player use a Stim in order to climb a rope, the lost carrying capacity is not temporarily restored by the stim: only the ability to climb is granted, hence the player should drop sufficient weight to be unencumbered even with Broken Ribs before using the Stim.
 
+<span id="treatment"></span><span id="Treatment"></span>
+
 ## Treatment
 
 Healing Broken Ribs requires a treatment of 2 [Bandages](./Bandage.md) and 4 [Painkillers](./Painkillers.md) (or 2 cups of [Rose Hip Tea](./Rose%20Hip%20Tea.md)), followed by a Recovery Time of 120 hours (5 days). Recovery Time **WILL** count down for the Affliction even if medical treatment is not performed, but will never fully heal.
@@ -65,8 +69,12 @@ Healing Broken Ribs requires a treatment of 2 [Bandages](./Bandage.md) and 4 [Pa
   - The second Instance requires a Recovery Time of 168 hours (7 days), the third takes 216 hours (9 days), etc., with the maximum Recovery Time being 991 hours (41 days).
 - It is possible to have a maximum of 28 Broken Ribs Afflictions at once.
 
+<span id="recovery_strategies"></span><span id="Recovery_Strategies"></span><span id="recovery-strategies"></span>
+
 ## Recovery Strategies
 
 One method to quickly pass time is to purposely contract [Hypothermia](./Hypothermia.md) to quickly lose [Fatigue](./Fatigue.md), allowing the player to Sleep for longer periods of time. Any Condition lost from the affliction will be quickly healed while sleeping.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

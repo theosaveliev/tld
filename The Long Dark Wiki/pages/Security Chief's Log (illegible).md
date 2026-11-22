@@ -2,7 +2,7 @@
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_%28illegible%29)
 
-**Security Chief's Log \[illegible...\]**
+**Security Chief's Log [illegible...]**
 
 [Security Chief's Log (illegible) icon](../assets/Security_Chief%27s_Log_%28illegible%29_icon.png)
 
@@ -28,9 +28,11 @@
 
 **Security Chief's Log (illegible)** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found the control room next to The Machine.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
-_The following text is transcribed from **Security Chief's Log \[illegible\]**_
+_The following text is transcribed from **Security Chief's Log [illegible]**_
 
 I wanted to see you again. I wanted to feel your hand on my hip, your smile in my eyes.
 
@@ -39,6 +41,8 @@ I can’t picture what this thing is without that. Or you.
 Everything is fading away here. I can’t remember.
 
 The only thing I know is if I write it down it might get to you. Some way.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

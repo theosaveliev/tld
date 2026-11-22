@@ -70,12 +70,16 @@ GAMEPLAY\_RawGoldeye
 
 Goldeye can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 3 units per kilogram harvested.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) | None | - 1 × [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
 | [Mounted Goldeye](./Mounted%20Goldeye.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

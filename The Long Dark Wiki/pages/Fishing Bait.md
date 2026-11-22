@@ -36,6 +36,8 @@
 
 **Fishing Bait** is a Tool used for [Ice Fishing](./Ice%20Fishing.md) in _The Long Dark_. It released in the free update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Bait is not necessary to catch fish, but can be used when fishing to increase the weight of fish caught by Ice Fishing by 50%. Bait is harvested from any raw fish, and yields a number of units per kg of fish which was harvested. When fishing manually with [Fishing Tackle](./Fishing%20Tackle.md) or with [Fishing Tip-Ups](./Fishing%20Tip-Up.md), Bait may be selected (as can [Fishing Lures](./Fishing%20Lure%20%28Acorns%29.md)).

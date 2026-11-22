@@ -6,7 +6,7 @@
 
 [Hymnal icon](../assets/Hymnal_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -29,6 +29,8 @@
 **On ground:** Take It, Leave It
 
 **Hymnal** is a [Collectible](./Collectibles.md) item found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode in [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). It is found on the floor next to the burned out [Campfire](./Campfire.md).
+
+<span id="transcript"></span><span id="Transcript"></span>
 
 ## Transcript
 
@@ -86,11 +88,15 @@ All creation is awaking,
 
 To its Judge an answer making.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The hymn is based off of [Dies Irae](https://en.wikipedia.org/wiki/Dies_irae).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

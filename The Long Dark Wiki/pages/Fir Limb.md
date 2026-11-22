@@ -30,6 +30,8 @@ Yields 3-4 [Fir Firewood](./Fir%20Firewood.md)
 
 The **Fir Limb** is one of the many stationary interactable objects found in _[The Long Dark](./The%20Long%20Dark.md)_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 There are two variants of this object: the small and the large. Both can be turned into [Fir Firewood](./Fir%20Firewood.md).
@@ -37,6 +39,8 @@ There are two variants of this object: the small and the large. Both can be turn
 Compared to the [Cedar Limb](./Cedar%20Limb.md), the Fir Limb provides more minutes of fire per minute of harvesting time. Both limbs take 15 minutes to harvest per unit of firewood obtained from them, and Fir Firewood burns for 90 minutes per piece compared to Cedar's 60. The lower burn density of Fir, however, makes it less desirable for carrying around when travelling.
 
 It's commonly believed that limbs respawn after strong winds or blizzards, but this is untrue. Radial spawns (sticks, branches, coal, stones ect.) simply spawn on a randomized timer, independent of any weather conditions.
+
+<span id="small_limb"></span><span id="Small_Limb"></span><span id="small-limb"></span>
 
 ### Small Limb
 
@@ -47,6 +51,8 @@ Small limbs will provide 3 firewood and can be cut up using a [Hatchet](./Hatche
 | 3 | 45 minutes | 135 | -2% Hatchet |
 | 3 | 58 minutes | 176 | -2% Improvised Hatchet |
 | 3 | 1 hour 30 minutes | 270 | -5% Hacksaw |
+
+<span id="large_limb"></span><span id="Large_Limb"></span><span id="large-limb"></span>
 
 #### Large Limb
 

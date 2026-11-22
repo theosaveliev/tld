@@ -15,11 +15,15 @@
 
 **Cleaning** or **Firearm Cleaning** is a secondary Survival [Skill](./Skills.md) that is used to repair [Hunting Rifles](./Hunting%20Rifle.md) and [Revolvers](./Revolver.md). Higher levels in the cleaning skill reduce the amount of time required to clean and increase the amount of condition restored to a firearm by cleaning.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cleaning involves using the [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) to keep a firearm in optimal condition.
 
 The Cleaning skill is only visible when maintaining a hunting rifle or revolver and is not an official survival skill in the player's journal. Players start with 30 skill points, and gain 1 additional skill point each time a gun is cleaned.
+
+<span id="how_to_clean_firearms"></span><span id="How_to_clean_firearms"></span><span id="how-to-clean-firearms"></span>
 
 ## How to clean firearms
 
@@ -29,11 +33,15 @@ To clean a weapon, players have to select the "Clean" menu option while viewing 
 
 Currently, players will always have a 100% chance of success while cleaning and cannot fail. Activating the start button on the bottom right will launch an attempt.
 
-Cleaning a firearm consumes 5% condition from the firearm cleaning kit and restores some condition to the weapon based on the player's [skill level](#skill-levels). Each rifle cleaning kit can be used up to 20 times for repairing a firearm.
+Cleaning a firearm consumes 5% condition from the firearm cleaning kit and restores some condition to the weapon based on the player's [skill level](#Skill_levels). Each rifle cleaning kit can be used up to 20 times for repairing a firearm.
+
+<span id="equipment"></span><span id="Equipment"></span>
 
 ## Equipment
 
 Players need a Firearm Cleaning Kit before they can start cleaning rifles and revolvers. Cleaning kits can be found while scavenging in containers and buildings that are likely to contain tools or guns (e.g., [Signal Hill](./Signal%20Hill.md)). Cleaning Kits are always found in 100% condition.
+
+<span id="available_firearms"></span><span id="Available_firearms"></span><span id="available-firearms"></span>
 
 ## Available firearms
 
@@ -53,6 +61,8 @@ The player is able to clean the following firearms to improve their condition:
 | [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md) |
 
 The player is not currently able to clean the [Distress Pistol](./Distress%20Pistol.md) to improve its condition.
+
+<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
 
 ## Skill levels
 
@@ -75,6 +85,8 @@ The cleaning skill does not unlock any perks, but gives a gradual reduction to t
 | 90 | 5% | 6 minutes | 100% |
 | 100 | 5% | 5 minutes | 100% |
 
+<span id="rifle_firearms"></span><span id="Rifle_Firearms"></span><span id="rifle-firearms"></span>
+
 ### Rifle Firearms
 
 _Main article: [Rifle Firearm](./Rifle%20Firearm.md)_
@@ -87,6 +99,8 @@ Proficiency in the primary survival skill Rifle Firearm can affect the amount of
 | 3 | 25 | - An additional 3 condition per repair action |
 | 4 | 50 | - An additional 4 condition per repair action |
 | 5 | 100 | - An additional 5 condition per repair action |
+
+<span id="revolver_firearms"></span><span id="Revolver_Firearms"></span><span id="revolver-firearms"></span>
 
 ### Revolver Firearms
 
@@ -101,6 +115,8 @@ Proficiency in the primary survival skill Revolver Firearm can affect the amount
 | 4 | 50 | - An additional 4 condition per repair action |
 | 5 | 100 | - An additional 5 condition per repair action |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
-- The rifle cleaning mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298), also known as the Timberwolf Mountain update.
+- The rifle cleaning mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298), also known as the Timberwolf Mountain update.

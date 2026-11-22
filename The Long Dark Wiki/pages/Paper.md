@@ -28,6 +28,8 @@
 
 **Paper** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) inside [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md) below the [Lockers](./Locker.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Paper**_
@@ -35,6 +37,8 @@ _The following text is transcribed from **Paper**_
 Mission status unclear. Pilot activity appears routine and as predicted in my Initial briefing.  
    
  Business here at the field hardly registers as cover for any activity grander than mail delivery or solidarity in this godforsaken place.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

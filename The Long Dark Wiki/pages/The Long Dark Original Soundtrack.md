@@ -21,7 +21,11 @@ Volume One was released on Steam as DLC on August 28, 2017 and later on Bandcamp
 
 The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode](./Survival%20Mode.md), and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
+<span id="tracklist"></span><span id="Tracklist"></span>
+
 ## Tracklist
+
+<span id="volume_one"></span><span id="Volume_One"></span><span id="volume-one"></span>
 
 ### Volume One
 
@@ -114,6 +118,8 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 25 | Trepidation | 0:39 | — |
 | 26 | Void | 0:18 | — |
 
+<span id="volume_two"></span><span id="Volume_Two"></span><span id="volume-two"></span>
+
 ### Volume Two
 
 ![Original 2020 cover](../assets/Cover.png)_Original 2020 cover_ ![Updated 2026 cover](../assets/Coverv2.png)_Updated 2026 cover_
@@ -149,10 +155,10 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 26 | A Dark Place | 1:41 | — |
 | 27 | Night My Quiet Companion | 1:34 | — |
 | Disc 2 — SURVIVAL Mode |  |  |  |
-| 1 | Heavy \[m\] | 2:29 | — |
-| 2 | Stellar \[n\] | 2:45 | — |
-| 3 | Patience \[o\] | 2:38 | — |
-| 4 | Terminal \[p\] | 2:44 | — |
+| 1 | Heavy [m] | 2:29 | — |
+| 2 | Stellar [n] | 2:45 | — |
+| 3 | Patience [o] | 2:38 | — |
+| 4 | Terminal [p] | 2:44 | — |
 | 5 | Discordance | 2:23 | — |
 | 6 | Wind | 2:38 | — |
 | 7 | Unknown | 2:32 | — |
@@ -160,7 +166,9 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 9 | Stride | 1:19 | — |
 | 10 | Nocturnal | 1:07 | — |
 | 11 | Ash Canyon | 2:45 | — |
-| 12 | Blackrock \[a\] | 3:08 | — |
+| 12 | Blackrock [a] | 3:08 | — |
+
+<span id="volume_three"></span><span id="Volume_Three"></span><span id="volume-three"></span>
 
 ### Volume Three
 
@@ -178,13 +186,13 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 7 | Bad People | 0:53 | — |
 | 8 | The Most Uncomfortable of Times | 1:53 | — |
 | 9 | Volatile | 1:16 | — |
-| 10 | Fury, Then Silence \[b\] | 4:04 | — |
-| 11 | To Fight Another Day \[c\] | 1:26 | — |
+| 10 | Fury, Then Silence [b] | 4:04 | — |
+| 11 | To Fight Another Day [c] | 1:26 | — |
 | 12 | Music for When You Have Nothing Left to Lose | 2:50 | — |
-| 13 | I Tell You You Must Never Give Up \[d\] | 2:56 | — |
+| 13 | I Tell You You Must Never Give Up [d] | 2:56 | — |
 | 14 | Bad Things Happen in Mines | 2:10 | — |
 | 15 | Steam's Alright I Guess | 2:33 | — |
-| 16 | A Sad Story Ends \[e\] | 2:33 | — |
+| 16 | A Sad Story Ends [e] | 2:33 | — |
 | Disc 2 — WINTERMUTE, Episode Five: "The Light at the End of All Things" |  |  |  |
 | 1 | A Town, A Quarantine, and a Missing Doctor | 4:51 | — |
 | 2 | The Cold Truth | 1:18 | — |
@@ -195,7 +203,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 7 | Disagreement Over a River | 0:40 | — |
 | 8 | Unless We Find Another Way | 0:43 | — |
 | 9 | Rumbling | 0:39 | — |
-| 10 | Atwood \[q\] | 1:11 | — |
+| 10 | Atwood [q] | 1:11 | — |
 | 11 | But What Does It All Mean? | 3:06 | — |
 | 12 | It Has To Be Perfect | 1:35 | — |
 | 13 | Tuning Space | 0:43 | — |
@@ -209,19 +217,19 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 21 | A Friend Returns a Favour | 0:32 | — |
 | 22 | Back to Where You Belong | 0:40 | — |
 | 23 | Is That Really You? | 2:04 | — |
-| 24 | There's One More Thing I Gotta Do \[r\] | 4:33 | — |
+| 24 | There's One More Thing I Gotta Do [r] | 4:33 | — |
 | 25 | I Never Stopped Loving You | 6:05 | — |
 | Disc 3 — SURVIVAL EXPANSION, Tales from the Far Territory |  |  |  |
-| 1 | Theme for the Far Territory \[f\] | 3:55 | — |
-| 2 | The Call to Survive \[g\] | 2:10 | — |
+| 1 | Theme for the Far Territory [f] | 3:55 | — |
+| 2 | The Call to Survive [g] | 2:10 | — |
 | 3 | The Transfer Hub | 1:01 | — |
-| 4 | The Forsaken Airfield \[h\] | 3:36 | — |
-| 5 | The Zone of Contamination \[i\] | 3:26 | — |
-| 6 | The Sundered Pass \[j\] | 3:33 | — |
+| 4 | The Forsaken Airfield [h] | 3:36 | — |
+| 5 | The Zone of Contamination [i] | 3:26 | — |
+| 6 | The Sundered Pass [j] | 3:33 | — |
 | 7 | Are You Truly Ready? | 0:44 | — |
-| 8 | Dust and Memory \[k\] | 2:35 | — |
+| 8 | Dust and Memory [k] | 2:35 | — |
 | 9 | Echo | 0:22 | — |
-| 10 | Into the Dark Earth \[l\] | 3:00 | — |
+| 10 | Into the Dark Earth [l] | 3:00 | — |
 | 11 | Rudiger's Dream | 1:05 | — |
 | 12 | Resolve | 0:39 | — |
 | 13 | The Silent Hunter | 0:18 | — |
@@ -229,13 +237,19 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 15 | You Should Not Be Here | 2:21 | — |
 | 16 | Life After Death | 1:15 | — |
 
+<span id="other"></span><span id="Other"></span>
+
 ## Other
+
+<span id="licensed_tracks"></span><span id="Licensed_Tracks"></span><span id="licensed-tracks"></span>
 
 ### Licensed Tracks
 
 | No. | Title | Artist | Length | Appearance |
 | --- | --- | --- | --- | --- |
 | 1 | The Lion's Roar | [First Aid Kit](./First%20Aid%20Kit.md) | 2:00 | Intro cinematic for Story Mode. |
+
+<span id="removedunreleased_tracks"></span><span id="Removed/Unreleased_Tracks"></span><span id="removed/unreleased_tracks"></span><span id="removedunreleased-tracks"></span>
 
 ### Removed/Unreleased Tracks
 
@@ -250,28 +264,32 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | — | Darkwalker theme | ? | Not found in any official release |
 | — | Cougar theme | ? | Not found in any official release |
 
+<span id="footnotes"></span><span id="Footnotes"></span>
+
 ## Footnotes
 
-Working titles sourced from the composers' websites and SoundCloud: \[b\]–\[e\], \[q\]–\[r\] from [Cris Velasco's website](http://crisvelasco.com/); \[a\], \[f\]–\[p\] from [Sascha Dikiciyan's website](https://www.sonicmayhem.com/) and SoundCloud playlist.
+Working titles sourced from the composers' websites and SoundCloud: [b]–[e], [q]–[r] from [Cris Velasco's website](http://crisvelasco.com/); [a], [f]–[p] from [Sascha Dikiciyan's website](https://www.sonicmayhem.com/) and SoundCloud playlist.
 
-- \[a\] Renamed from "Heart of the Mountain" to "Blackrock".
-- \[b\] Renamed from "Confrontation with Mathis" to "Fury, Then Silence".
-- \[c\] Renamed from "Riverside" to "To Fight Another Day".
-- \[d\] Renamed from "Fury, Then Silence" (3:01 web version) to "I Tell You You Must Never Give Up".
-- \[e\] Renamed from "Epilogue" to "A Sad Story Ends".
-- \[f\] Renamed from "Forsaken Airfield" to "Theme for the Far Territory".
-- \[g\] Renamed from "Deadly Nebula" to "The Call to Survive".
-- \[h\] Renamed from "The Glimmer Effect" to "The Forsaken Airfield".
-- \[i\] Renamed from "Buried Echoes" to "The Zone of Contamination".
-- \[j\] Renamed from "Last Horizon" to "The Sundered Pass".
-- \[k\] Renamed from "Signal Void" to "Dust and Memory".
-- \[l\] Renamed from "Zone of Contamination" to "Into the Dark Earth".
-- \[m\] Renamed from "Into Darkness" to "Heavy".
-- \[n\] Renamed from "Solace" to "Stellar".
-- \[o\] Renamed from "The Calm Storm" to "Patience".
-- \[p\] Renamed from "The Traveler" to "Terminal".
-- \[q\] Renamed from "The Facility" to "Atwood".
-- \[r\] Renamed from "Mackenzie's Radio Message" to "There's One More Thing I Gotta Do".
+- [a] Renamed from "Heart of the Mountain" to "Blackrock".
+- [b] Renamed from "Confrontation with Mathis" to "Fury, Then Silence".
+- [c] Renamed from "Riverside" to "To Fight Another Day".
+- [d] Renamed from "Fury, Then Silence" (3:01 web version) to "I Tell You You Must Never Give Up".
+- [e] Renamed from "Epilogue" to "A Sad Story Ends".
+- [f] Renamed from "Forsaken Airfield" to "Theme for the Far Territory".
+- [g] Renamed from "Deadly Nebula" to "The Call to Survive".
+- [h] Renamed from "The Glimmer Effect" to "The Forsaken Airfield".
+- [i] Renamed from "Buried Echoes" to "The Zone of Contamination".
+- [j] Renamed from "Last Horizon" to "The Sundered Pass".
+- [k] Renamed from "Signal Void" to "Dust and Memory".
+- [l] Renamed from "Zone of Contamination" to "Into the Dark Earth".
+- [m] Renamed from "Into Darkness" to "Heavy".
+- [n] Renamed from "Solace" to "Stellar".
+- [o] Renamed from "The Calm Storm" to "Patience".
+- [p] Renamed from "The Traveler" to "Terminal".
+- [q] Renamed from "The Facility" to "Atwood".
+- [r] Renamed from "Mackenzie's Radio Message" to "There's One More Thing I Gotta Do".
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 
@@ -283,6 +301,8 @@ Working titles sourced from the composers' websites and SoundCloud: \[b\]–\[e\
 - **Volume Three, Disc 1:** "Music for When You Have Nothing Left to Lose" is a piano-only reprise, not a standalone original track.
 - **Minor title variations:** The promotional artwork for Volume Three lists the track as "Rüdiger's Dream" (with umlaut), while the Steam release uses "Rudiger's Dream".
 - **The Silent Hunter** (V3D3 #13) shares its name with the May 2015 update "Silent Hunter" which introduced bow hunting and other mechanics.
+
+<span id="external_links"></span><span id="External_Links"></span><span id="external-links"></span>
 
 ## External Links
 

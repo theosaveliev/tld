@@ -38,6 +38,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 A **Military Stim** is a [First Aid](./First%20Aid.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is equipped and injected similarly to an [Emergency Stim](./Emergency%20Stim.md), but has no downsides once injected. Using a Military Stim instantly:
@@ -47,7 +49,11 @@ It is equipped and injected similarly to an [Emergency Stim](./Emergency%20Stim.
 
 Due to the sheer unrelenting hostility of the [Wolves](./Wolf.md) in the certain areas of Episode 5 (as well as the strict time limit imposed High Energy, or the inability to Sleep in the SAR mission), these Military Stims are used to quickly restore the player's Condition to allow them to keep moving without stopping to [Sleep](./Sleep.md) to recover Condition.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
+
+<span id="high_energy"></span><span id="High_Energy"></span><span id="high-energy"></span>
 
 ### [High Energy](./High%20Energy.md)
 
@@ -55,9 +61,13 @@ Due to the sheer unrelenting hostility of the [Wolves](./Wolf.md) in the certain
 
 They are found throughout the 3 Geothermal Stations in the [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md), and are primarily used to restore the player's Condition and keep the player going. Around 2 Military Stims can be found at each Geothermal Station.
 
+<span id="to_sar_and_back"></span><span id="To_SAR_And_Back"></span><span id="to-sar-and-back"></span>
+
 ### [To SAR And Back](./To%20SAR%20And%20Back.md)
 
 There are also some found near the SAR Station, useful for the return trip back to [Heller](./Heller.md) since the player will be tired and incentivized to hurry back to him as quickly as possible.
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History
 

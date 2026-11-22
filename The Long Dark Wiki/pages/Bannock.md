@@ -46,6 +46,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 To cook the Bannock without a Cooking Skillet, select the No Tool option over an active Cooking Slot.![No Tool option for cooking Bannock or Acorn Bannock without a Cooking Skillet](../assets/Anywhere_icon.png)_No Tool option for cooking Bannock or Acorn Bannock without a Cooking Skillet_
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 This recipe makes 2 Bannocks.
@@ -71,9 +73,13 @@ This recipe makes 2 Bannocks.
 
 **Quantity:** 0.15 L
 
+<span id="use"></span><span id="Use"></span>
+
 ## Use
 
 Bannocks, at 200 calories and weighing 0.05 kg, are one of the most calorie-dense foods in the game, beating out [cat tail stalks](./Cat%20Tail%20Stalk.md) and, at cooking level 5, are equal to [energy bars](./Energy%20Bar.md). While the in-game description suggests that bannocks are good travel food, it should be noted that they decay at a rate of 20% per day in the player's inventory.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

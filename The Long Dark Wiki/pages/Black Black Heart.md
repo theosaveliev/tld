@@ -10,9 +10,13 @@
 
 **Black Black Heart** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This is a side mission achievement achieved after completing the side mission [Dark Star](./Dark%20Star.md). Find all 4 [Archival Report](./Archival%20Report.md) notes and the achievement will unlock.
+
+<span id="tasks"></span><span id="Tasks"></span>
 
 ## Tasks
 
@@ -21,7 +25,9 @@ This is a side mission achievement achieved after completing the side mission [D
 - [Volume C](./Archival%20Report.md#Volume_C) is on a desk inside the [Old Substation](./Old%20Substation.md).
 - [Volume D](./Archival%20Report.md#Volume_D) is on the [work bench](./Work%20Bench.md) inside the trailer at [Foreman's Clearcut](./Foreman%27s%20Clearcut.md).
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

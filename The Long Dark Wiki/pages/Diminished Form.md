@@ -30,6 +30,8 @@
 
 **Diminished Form** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “__A morbid decay has set in.  
@@ -41,6 +43,8 @@
 Diminished Form is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stage 1 Misery (Day 2). It permanently reduces the maximum carry weight of the survivor and grants a [Mobility Penalty](./Stamina.md) to sprinting. Additionally it reduces the chance per-attack during a [Struggle](./Struggle.md) that the hostile wildlife will flee.
 
 Note: Diminished Form does 'not' affect Climbing Stamina, if starting a climb at 100% of **_current_** Stamina, similar to other Stamina penalties like wearing [Bearskin Coat](./Bearskin%20Coat.md).
+
+<span id="effects"></span><span id="Effects"></span>
 
 ## Effects
 

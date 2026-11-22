@@ -28,6 +28,8 @@
 
 **Tearful Letter** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) inside the abandoned Milton house next to the [Bank Manager's House](./Bank%20Manager%27s%20House.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Tearful Letter**_

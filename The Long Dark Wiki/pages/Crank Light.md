@@ -34,6 +34,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 The **Crank Light** is a [Tools](./Tools.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is found inside the first area of the mine in [Blackrock Foothills](./Blackrock%20Foothills.md) in Part 2 of the Episode. It is a portable [Flashlight](./Flashlight.md), albeit it does not require the need of an [Aurora](./Aurora.md) to power it thanks to the hand crank on the side that can be used to charge the internal battery.
@@ -46,11 +48,15 @@ It is found inside the first area of the mine in [Blackrock Foothills](./Blackro
 
 The item can be carried through Part 2, but is lost when playing as Mackenzie again in Part 4 of the Episode.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - A second light can be found later in the mine.
 - [Jace](./Jace.md) shows no reaction to the Crank Light when it is used around her, despite her fear of the dark. The player must light Gas Lamps to proceed ahead through the mine as a result.
 - The Crank Light is not recharged by the Aurora or [Glimmer Fog](./Glimmer%20Fog.md), if one is out, and must still be manually cranked to recharge the battery.
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History
 

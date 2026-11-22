@@ -1,6 +1,6 @@
 # Rock Cache
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
 
 **Contents**
 
@@ -24,6 +24,8 @@ A **Rock Cache** is a craftable form of storage that appears as a landmark on th
 
 Not to be confused with [Memento Rock Caches](./Mementos.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Rock caches are the only form of outdoors craftable storage.
@@ -35,6 +37,8 @@ This makes them useful particularly in Regions such as [Timberwolf Mountain](./T
 Rock caches can be viewed in the Journal, where the player can leave notes of what items are stored inside of it, making it a useful way to keep inventory.
 
 Rock caches do not lose condition over time, but food and clothing items inside them decay as in other containers.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -56,9 +60,13 @@ Rock Caches can be constructed outdoors for 50 [stones](./Stone.md) with the [Ra
 
 Up to 5 Rock Caches can be built per region, including 'transition zones', though they cannot be placed directly next to each other.
 
+<span id="harvesting"></span><span id="Harvesting"></span>
+
 ## Harvesting
 
 They can be dismantled over 15 in-game minutes for a full refund of 50 stones, however they must be empty.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -67,6 +75,8 @@ They can be dismantled over 15 in-game minutes for a full refund of 50 stones, h
 ![Rockcache](../assets/Rockcache.png)
 
 ![How a rock cache appears on the map, shown in orange](../assets/Rockcachemap.png)
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 

@@ -38,6 +38,8 @@ A long natural tunnel by the sea that leads to a cliff overlook.
 
 Has no shelter **Sheltered Access** is a location in [Port Remnant](./Port%20Remnant.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The location can be found by heading west of the Lighthouse, north of [Broken Shoreline](./Broken%20Shoreline.md), and then up a [Rope Climbing](./Rope%20Climbing.md) section. Continuing back down the mountain path to the sea gives way to an almost grotto like opening, with the cave nearby.

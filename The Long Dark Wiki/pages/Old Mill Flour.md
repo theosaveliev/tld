@@ -44,6 +44,8 @@
 
 <br>**Old Mill Flour** is an [ingredient](./Food%20And%20Drink.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Old Mill Flour can often be found alongside other cooking materials such as [Cooking Oil](./Cooking%20Oil.md) and [Salt](./Salt.md).
@@ -51,6 +53,8 @@ Old Mill Flour can often be found alongside other cooking materials such as [Coo
 It can be considered a renewable resource if obtained via the [Trader](./Trader.md).
 
 It is currently impossible to divide a bag of flour into smaller portions, or to consolidate multiple smaller bags.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -79,9 +83,13 @@ Known spawn locations include:
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
   - 2 in the mess hall kitchen of [Idle Camp](./Idle%20Camp.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The side of the bag lists "Ingredients: Bleached Wheat Flour, Malted Barley Flour, Niacim, Reduced Iron, Riboflavin, Folic Acid."
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -101,6 +109,8 @@ The side of the bag lists "Ingredients: Bleached Wheat Flour, Malted Barley Flou
 | [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

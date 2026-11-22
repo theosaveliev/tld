@@ -28,11 +28,15 @@
 
 **Page** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) at [Justy's Hovel](./Justy%27s%20Hovel.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Page**_
 
 Seeing the helicopters come over the mountains again this year. I counted three last month, and two already this month. Always as the weather turns colder. I know they can't all be tourists. Not anymore and not for a long while anyway.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

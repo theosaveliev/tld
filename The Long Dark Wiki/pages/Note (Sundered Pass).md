@@ -24,6 +24,8 @@
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Sundered Pass](./Sundered%20Pass.md). It is found on a shelf in [Final Refuge](./Final%20Refuge.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Note**_
@@ -41,6 +43,8 @@ But you've been out here on these trips. You know.
 I'm writing this to send ahead so you can expect us back early. Just waiting for the courier to arrive before this storm rolls in.
 
 See you soon, - D
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

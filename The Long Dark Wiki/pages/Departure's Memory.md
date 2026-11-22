@@ -10,7 +10,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Departure%27s+Memory&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Departure%27s+Memory&amp;action=edit expanding it].**
 
 **Departure's Memory**
 
@@ -36,17 +36,23 @@ Has a bed
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A series of ruined buildings near the bay, the area is located almost dead center of the map. It is likely the first point of interest the player will see on the horizon when they leave the [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md). The area is an old series of whaling warehouses and docks.
 
 To the west are 3 cabins that the workers likely used, but only one of them can be entered.
 
+<span id="red_warehouse"></span><span id="Red_Warehouse"></span><span id="red-warehouse"></span>
+
 ### Red Warehouse
 
 The most striking of the standing buildings, it is similar to the main building in the [Last Resort Cannery](./Last%20Resort%20Cannery.md). A whale skeleton can be found inside. A series of planks leads to the upper room overlooking the floor, with a [Fire Barrel](./Fire%20Barrel.md), hay [Bed](./Bed.md), and [Work Bench](./Work%20Bench.md) (the only one on Anna Island) inside.
 
 A [Wolf Carcass](./Wolf%20Carcass.md) can be found nearby just outside of the building.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -28,11 +28,13 @@
 
 **Sutherland's Note** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Sutherland's Note**_
 
-\[shaky, delicate handwriting\]
+[shaky, delicate handwriting]
 
 It made sense to leave you here. In your first build, the one for Joplin. He was the only one who didn't turn on you, so it seemed right. You were always bugging me to write more, so I followed your lead and scratched down a few words to see you off I guess.
 
@@ -47,5 +49,7 @@ There's a big storm comin', they say. All the wildlife is spooked. No one's stan
 Maybe you got out just in time.
 
 - Sutherland
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

@@ -26,11 +26,13 @@
 
 The voice acting of this Collectible doesn't match the on-screen text and is missing the last section of the transcript about the [Cougar](./Cougar.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Foreman's Technical Log 4**_
 
-\[barely legible handwriting...\]
+[barely legible handwriting...]
 
 Writing this, while I still can. So there's no question. So someone knows. So it all wasn't for nothing.
 
@@ -44,7 +46,7 @@ He wasn't exactly happy to see me, the bastard. Just laying there in a heap. But
 
 -- RÜDIGER: The stalker shows himself. You must be pleased. To see me as this Pathetic creature.
 
-To witness \*this\*.
+To witness _this\_.
 
 FOREMAN: Did you think the board was going to sit by and let you just walk away? After everything you promised?
 
@@ -66,7 +68,7 @@ RÜDIGER: Control yourself. Emotional volatility, lack of inhibition...these are
 
 Just as I have.
 
-I didn't predict this. It is \*my\* failure.
+I didn't predict this. It is _my\_ failure.
 
 I regret that, just as I regret what I have to do now.
 
@@ -85,6 +87,8 @@ Can't even keep these pages straight. Going to rest a bit and then see how far I
 With whatever's left of me.
 
 But...maybe I shouldn't make it?
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

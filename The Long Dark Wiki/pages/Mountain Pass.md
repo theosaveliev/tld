@@ -29,6 +29,8 @@ _Not to be confused with [Sundered Pass](./Sundered%20Pass.md)._
 
 **Mountain Pass** is the 5th [Modded Region](./The%20Long%20Development.md) added to the game, as part of The Long Development's unofficial region mods.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 Although this location is still under construction, there are a number of accessible locations:

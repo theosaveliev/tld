@@ -22,6 +22,8 @@
 
 **Rifle Shell Casings** are a crafting material in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Rifle Shell Casings are an ingredient in the crafting of [Rifle Ammunition](./Rifle%20Ammunition.md) with the [Gunsmithing](./Gunsmithing.md) Skill. They cannot be crafted but may be acquired by:
@@ -29,6 +31,8 @@ Rifle Shell Casings are an ingredient in the crafting of [Rifle Ammunition](./Ri
 - When a loaded [Hunting Rifle](./Hunting%20Rifle.md) is fired, a spent Rifle Shell Casing is ejected to the ground nearby.
 - Inside containers, indoors, or near Hunting Blinds outdoors.
 - Harvesting Rifle Ammunition (higher chance to receive at higher Gunsmithing skill).
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 

@@ -16,9 +16,13 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Hushed River is noted for its many waterfalls that include [Reclusive Falls](./Reclusive%20Falls.md), [Offset Falls](./Offset%20Falls.md), and [Twin Sisters Falls](./Twin%20Sisters%20Falls.md). It also has access points to some ice caves and many waterfall locations. The river contains an abundance of cattails and [Coal](./Coal.md), but [wolves](./Wolf.md) are also common on the western half of the river, so it's a good idea to be careful when exploring. To get into the eastern portion of the valley, it is necessary to [descend using a rope](./Rope%20Climbing.md), either from [Pensive Vista](./Pensive%20Vista.md) or from [Many Falls Vista](./Many%20Falls%20Vista.md).
+
+<span id="shelters"></span><span id="Shelters"></span>
 
 ## Shelters
 

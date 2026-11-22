@@ -28,6 +28,8 @@
 
 **Security Chief's Log 29** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside [Bunker Omega](./Bunker%20Omega.md) at the end of the Tale.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 29**_
@@ -47,6 +49,8 @@ I've changed, somehow. The men, the medical officer, all of us. But not him. Not
 He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.
 
 He can keep it.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

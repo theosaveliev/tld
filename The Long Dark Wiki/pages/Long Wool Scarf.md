@@ -36,6 +36,8 @@
 
 The **Long Wool Scarf** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The long wool scarf has similar stats as the [Fleece Cowl](./Fleece%20Cowl.md). But is 10% more waterproof and offers less protection. It is outclassed by the [Wool Toque](./Wool%20Toque.md), which shares most stats with long wool scarf, but is 0.5°C warmer and offers 1% more protection.
@@ -43,6 +45,8 @@ The long wool scarf has similar stats as the [Fleece Cowl](./Fleece%20Cowl.md). 
 ![Model icon](../assets/Long_Wool_Scarf_Model_icon.png)
 
 ![Model icon damaged](../assets/Long_Wool_Scarf_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -32,9 +32,13 @@
 
 **Lake Gunshots** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) investigates the [Forest Talkers](./Forest%20Talkers.md).
 
+<span id="unlocking"></span><span id="Unlocking"></span>
+
 ## Unlocking
 
 The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) in the [Maintenance Yard](./Maintenance%20Yard.md) in the [Broken Railroad](./Broken%20Railroad.md) region.
+
+<span id="objectives"></span><span id="Objectives"></span>
 
 ## Objectives
 
@@ -44,6 +48,8 @@ The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20
 - Go to the dam and retrieve the documents. Search under a [Loose Tile](./Loose%20Tile.md) at the bottom of the stairs leading to the admin area.
 - Return to the Forest Talker in the lake cabin.
 - Check on the lake cabin tomorrow.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -58,6 +64,8 @@ The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20
 - If you choose to take ammo out, the Forest Talker will die and will have [Blood Soaked Forest Talker Documents](./Blood%20Soaked%20Forest%20Talker%20Documents.md) on him. Otherwise, you will get new [Deerskin Pants](./Deerskin%20Pants.md). Both outcomes always leave a [Forest Talker Note](./Forest%20Talker%20Note.md) for Mackenzie inside the cabin, but with a different message depending on what choice you made.
 
 ![The Forest Talker's fate if you take his ammunition](../assets/Lake_Gunshots_Forest_Talker.jpg)
+
+<span id="redux_transcript"></span><span id="Redux_Transcript"></span><span id="redux-transcript"></span>
 
 ## Redux Transcript
 
@@ -125,6 +133,8 @@ Mackenzie: "Let's see if he left anything useful."
 _The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md)._
 
 _If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is presumed that whomever wrote the Crumpled Note, a [Breyerhouse](./Breyerhouse.md) worker, came to finish the Forest Talker off like his friend. The note inside will be angrier, with no Deerskin pants._
+
+<span id="predux_transcript"></span><span id="Predux_Transcript"></span><span id="predux-transcript"></span>
 
 ## Predux Transcript
 
@@ -225,15 +235,19 @@ _The Forest Talker left a note on the table, thanking Mackenzie for his help, al
 
 _If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is unknown who killed him and his friend on the ice. The note inside will be angrier, with no Deerskin pants._
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The Forest Talker is voiced by Brian Drummond in the Redux.
 
 It is presumed that if the player takes the Forest Talker's ammo, the assailant that kills him takes the activist's hunting rifle, hence why one is never found. If the player leaves the ammo, the Forest Talker safely drives the assailant off, though no casings are found in the snow.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - The note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) must be found to activate the side mission as part of the Redux edition. Previously, it was given after talking to [Jeremiah](./Jeremiah.md) during the mission [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)

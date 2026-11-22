@@ -4,6 +4,8 @@
 
 **Repairing** is a secondary Survival [Skill](./Skills.md) that is used to repair or crafts tools. Higher levels in the repairing skill reduce the amount of time required to repair, and additionally increase the amount of condition restored to an item by repairing. [Mending](./Mending.md) is the corresponding skill used to repair or craft Clothing, and [Sharpening](./Sharpening.md) is the skill used to improve the condition of Hatchets and Knives.
 
+<span id="repairing_tools"></span><span id="Repairing_Tools"></span><span id="repairing-tools"></span>
+
 ## Repairing Tools
 
 Most tools consume 1 [Scrap Metal](./Scrap%20Metal.md) per repair action, and may still consume metal upon a failed repair attempt. Players need [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) to repair other tools.
@@ -31,6 +33,8 @@ The player is able to repair the following items to improve their Condition:
 | [Simple Tools icon](../assets/Simple_Tools_icon.png) | [Simple Tools](./Simple%20Tools.md) | 1 x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 x [Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) 1 x [Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png) | [Quality Tools](./Quality%20Tools.md) | 1 x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 x [Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) 1 x [Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
 
+<span id="milling_machine"></span><span id="Milling_Machine"></span><span id="milling-machine"></span>
+
 ## Milling Machine
 
 A second method to repair tools (including firearms) is to use a [Milling Machine](./Milling%20Machine.md) and 1 Scrap Metal. This amount of condition restored is affected by the user's Repair skill; base skill has a 50% chance of success, for a 40% item condition repair and taking 20 minutes (in-game). It can be used to repair more tool condition than even Quality Tools, but at the cost of only being found in 2 regions and being available only during an [Aurora](./Aurora.md).
@@ -55,6 +59,8 @@ A second method to repair tools (including firearms) is to use a [Milling Machin
 | [Bunker Rifle icon](../assets/Bunker_Rifle_icon.png) [Bunker Rifle](./Bunker%20Rifle.md) | 30.0 minutes | 90.0 minutes |
 | [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) [Curator's Rifle](./Curator%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
 | [Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
+
+<span id="skill_levels"></span><span id="Skill_Levels"></span><span id="skill-levels"></span>
 
 ## Skill Levels
 

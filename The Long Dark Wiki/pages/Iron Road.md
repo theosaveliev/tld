@@ -33,6 +33,8 @@
 
 Early Access launched October 27th, 2026 on Steam only. Updates are planned to be a balance of small and large updates. News regarding other platforms is to be announced.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 ![Cauldron Island](../assets/Cauldron_Island_Logo.png)
@@ -40,6 +42,8 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 > “**A century ago, a rich industrialist named Hamish McLeod harnessed the unique properties of Cauldron Island with a plan for economic domination through whale-oil powered technology. But this history was erased, and the dark truth about how things went wrong has been hidden in the past. Until now.**”
 >
 > — Get to Cauldron Island and uncover the truth. Follow the path laid by Alice McLeod, his great-granddaughter, who came here to crack the mystery of her family legacy. Because uncovering the mystery of Cauldron Island is core to your survival in this new Aurora-blasted world. And the journey Alice started is yours to complete. Official Marketing
+
+<span id="world_and_setting"></span><span id="World_and_Setting:"></span><span id="world_and_setting:"></span><span id="world-and-setting"></span>
 
 ### World and Setting:
 
@@ -52,7 +56,11 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 - The game world now reflects the post [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) [Aurora](./Aurora.md) world: as the player travels deeper into Cauldron Island, new dangers beset the player's health.
 - Iron Road features a series of audio collectibles and light narrative missions that provide objectives and motivate your journey across the entirety of Cauldron Island (similar to [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)). Find Wax Cylinders that reveal the history of the caldera and discover more about McLeod's failed operations from a century ago.
 
+<span id="part_one_anna_island"></span><span id="Part_One:_Anna_Island"></span><span id="part_one:_anna_island"></span><span id="part-one-anna-island"></span>
+
 ## Part One: Anna Island
+
+<span id="new_regions"></span><span id="New_Regions"></span><span id="new-regions"></span>
 
 ### New Regions
 
@@ -65,6 +73,8 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
   - [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
   - [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
 
+<span id="new_vehicles_and_track_systems"></span><span id="New_Vehicles_and_Track_Systems"></span><span id="new-vehicles-and-track-systems"></span>
+
 ### New Vehicles and Track Systems
 
 - [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md)
@@ -74,6 +84,8 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
   - Deep Drifts (large snow piles)
   - Fallen Trees
 
+<span id="new_items"></span><span id="New_Items"></span><span id="new-items"></span>
+
 ### New Items
 
 - [Brake Shoe](./Brake%20Shoe.md)
@@ -81,23 +93,35 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 - [McLeod Ultra-Efficiency Whale Oil Heater](./McLeod%20Ultra-Efficiency%20Whale%20Oil%20Heater.md)
 - [Wax Cylinder Player](./Wax%20Cylinder%20Player.md), 16 Wax Cylinders, and 4 other Collectibles
 
+<span id="part_two"></span><span id="Part_Two:"></span><span id="part_two:"></span><span id="part-two"></span>
+
 ## Part Two:
 
 TBA
+
+<span id="part_three"></span><span id="Part_Three:"></span><span id="part_three:"></span><span id="part-three"></span>
 
 ## Part Three:
 
 TBA
 
+<span id="part_four"></span><span id="Part_Four:"></span><span id="part_four:"></span><span id="part-four"></span>
+
 ## Part Four:
 
 TBA
+
+<span id="part_five"></span><span id="Part_Five:"></span><span id="part_five:"></span><span id="part-five"></span>
 
 ## Part Five:
 
 TBA
 
+<span id="upcoming_content"></span><span id="Upcoming_Content"></span><span id="upcoming-content"></span>
+
 ## Upcoming Content
+
+<span id="new_train_and_track_systems"></span><span id="New_Train_and_Track_Systems:"></span><span id="new_train_and_track_systems:"></span><span id="new-train-and-track-systems"></span>
 
 ### New Train and Track Systems:
 
@@ -111,6 +135,8 @@ TBA
 - Rockfalls
 - Puzzle Gates
 - Aurora Gates
+
+<span id="new_gameplay_tools_and_wildlife"></span><span id="New_Gameplay_Tools_and_Wildlife:"></span><span id="new_gameplay_tools_and_wildlife:"></span><span id="new-gameplay-tools-and-wildlife"></span>
 
 ### New Gameplay Tools and Wildlife:
 
@@ -128,6 +154,8 @@ TBA
 - Seabirds
 - New Aurora Hazards
 
+<span id="new_clothing"></span><span id="New_Clothing:"></span><span id="new_clothing:"></span><span id="new-clothing"></span>
+
 ### New Clothing:
 
 - Whaler’s Coat
@@ -137,11 +165,15 @@ TBA
 - Islander Sweater
 - Sealskin Boots
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Players currently cannot start on Cauldron Island when selecting a starting Region on a fresh save file, as Survival Mode's narrative stipulates that the Survivor character had their plane crash in the remote wilderness of Great Bear Island.
   - This means that the player must start in Desolation Point and load up the required materials into the Fulmar in order to access Cauldron Island on every new playthrough.
 - There are no [Frozen Corpses](./Frozen%20Corpse.md) on the caldera due to a lack of human activity in over 100 years.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -171,8 +203,12 @@ TBA
 
 ![Iron Road Clothing Logo](../assets/Iron_Road_Clothing_Logo.png)
 
+<span id="references"></span><span id="References"></span>
+
 ## References
 
 &lt;div class="references-small" ;"&gt;
+
+<span id="links"></span><span id="Links"></span>
 
 ## Links

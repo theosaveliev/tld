@@ -44,6 +44,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **Foreman's Tool Belt** is an accessory [Clothing](./Clothing.md) found in _The Long Dark_, and once belonged to [The Foreman](./The%20Foreman.md) of the [Langston Mine](./Langston%20Mine.md). It is the ultimate prize that can be found from completing the [Tale](./Tales.md) [Buried Echoes](./Buried%20Echoes.md) and is found deep inside the Mine in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Wearing it lowers the weight of the following tools if they are in the player's inventory by 50%. This bonus only applies for a maximum of 3 held tools at a given time. If more than 3 qualifying tools are held, the bonus only applies for the heaviest tools held:
@@ -65,6 +67,8 @@ Wearing it lowers the weight of the following tools if they are in the player's 
 ![Clothing model icon damaged](../assets/Foreman%27s_Tool_Belt_Model_Damaged_icon.png)
 
 ![The toolbelt location in game](../assets/Foreman%27s_Tool_Belt_Location.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

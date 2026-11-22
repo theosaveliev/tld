@@ -34,9 +34,13 @@ Both can be interacted with, but will do nothing unless an [Aurora](./Aurora.md)
 
 A special yellow radio with an antenna and microphone will appear if the [Trader](./Trader.md) is enabled, and is used to communicate with him.![Tabletop Radio](../assets/Tabletop_Radio.png)
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 Aside from vehicles, the following locations contain a radio:
+
+<span id="lower_great_bear"></span><span id="Lower_Great_Bear"></span><span id="lower-great-bear"></span>
 
 ### Lower Great Bear
 
@@ -57,6 +61,10 @@ Aside from vehicles, the following locations contain a radio:
 - [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md)
 - [Coastal House](./Coastal%20House.md) (Currently unconfirmed, which if any of the unnamed coastal houses has one)
 
+<span id="far_territory"></span><span id="Far_Territory"></span><span id="far-territory"></span>
+
 ### Far Territory
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

@@ -6,7 +6,7 @@
 
 [Martin Barker](../assets/Martin_Barker.png)
 
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Date:** 1 August 2017
 
@@ -42,10 +42,14 @@ After Lily's death, Grey Mother wanted [Lilith's Pearls](./Grey%20Mother%27s%20P
 
 His corpse can appear in [Survival Mode](./Survival%20Mode.md), serving as 1 of 3 places the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) to the locked farmhouse can spawn.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Martin is wearing an [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), [Trail Boots](./Trail%20Boots.md), [Cotton Toque](./Cotton%20Toque.md), [Work Pants](./Work%20Pants.md) and [Work Gloves](./Work%20Gloves.md) that cannot be removed from the corpse.
 - Martin Barker shares the same corpse model as [Hank](./Characters.md#Hank).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

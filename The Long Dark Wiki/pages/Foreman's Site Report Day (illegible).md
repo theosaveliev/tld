@@ -2,7 +2,7 @@
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Site_Report_Day_%28illegible%29)
 
-**Foreman's Site Report, Day \[illegible\]**
+**Foreman's Site Report, Day [illegible]**
 
 [Foreman's Site Report Day (illegible) icon](../assets/Foreman%27s_Site_Report_Day_%28illegible%29_icon.png)
 
@@ -28,6 +28,8 @@
 
 **Foreman's Site Report Day (illegible)** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found in the control room near The Machine.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Foreman's Site Report Day (illegible)**_
@@ -39,6 +41,8 @@ Just scribblin’ these reports. Not sure why, though. Not anymore.
 It’s like they turned the lights off in my head. All dark.
 
 Where’d it all go?
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

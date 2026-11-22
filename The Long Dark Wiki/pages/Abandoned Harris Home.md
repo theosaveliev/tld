@@ -16,6 +16,8 @@
 
 **Type:** Residential
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Abandoned Harris Home can be found by following the road that splits through the Old Island Connector region.

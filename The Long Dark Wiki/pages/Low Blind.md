@@ -14,9 +14,13 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Low blind is located north of the railway on the end opposite the rail tunnel leading [Broken Railroad](./Broken%20Railroad.md). It contains a small amount of loot and is poorly sheltered - if you spend the night there, make sure that you have proper clothing or a campfire. However, it makes for a good hunting spot, as [deer](./Deer.md) and [wolves](./Wolf.md) are nearby and predators cannot get into the blind. The [Abandoned Camp](./Abandoned%20Camp.md) can spawn north west from it.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

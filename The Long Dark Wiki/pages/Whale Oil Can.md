@@ -30,6 +30,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 A **Whale Oil Can** is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Very old fuel cans carrying refined whale oil. These cans are the primary fuel source for the [Prototype Train](./Prototype%20Train.md) and several unique tools. The cans themselves always weight 0.10 kg, with a maximum of 5.00 L of fuel capable of being stored inside (5.10 kg max weight).
@@ -42,6 +44,8 @@ Whale Oil Cans are used for:
 
 Whale Oil Cans cannot be used as Accelerant in [Fire Starting](./Fire%20Starting.md).
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 Whale Oil Cans can always be produced at a train [Oil Tank](./Oil%20Tank.md) refueling depot. These containers take the form of a green tank and can generate up to 5.00 L of cans in 1 minute. These refueling tanks refill after leaving the region for a day.
@@ -52,5 +56,7 @@ Some locations where Whale Oil Cans can individually be found in groups are:
 - [Obstructed Transit](./Obstructed%20Transit.md)
 - [Departure's Memory](./Departure%27s%20Memory.md) red warehouse
 - [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md) near the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md)
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History

@@ -22,7 +22,7 @@
 
 [Methuselah](../assets/Methuselah.png)
 
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Date:** 1 August 2017
 
@@ -54,6 +54,8 @@
 
 **Methuselah** is a mysterious character that appears in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="background"></span><span id="Background"></span>
+
 ## Background
 
 An elderly man that [Will Mackenzie](./Will%20Mackenzie.md) encounters traveling from area to area several times over the course of his journey, Methuselah is a [Great Bear Island](./Great%20Bear%20Island.md) native that offers Mackenzie cryptic advice about the current state of the world. He seems to know more about the "Quiet Apocalypse" silently unfolding around him that no one else seems to recognize yet, stating that "this has all happened before," as well as offering explanations to the erratic behavior of the local wildlife.
@@ -64,7 +66,11 @@ Despite his strange demeanor, Methuselah is a friendly man. He recognizes that M
 
 Despite initially appearing in the [Town of Milton](./Town%20of%20Milton.md), [Grey Mother](./Grey%20Mother.md) does not recognize Mackenzie's description of him and claims that Methuselah is not a native of the town.
 
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+
 ## Episode 1
+
+<span id="the_grey_mother"></span><span id="The_Grey_Mother"></span><span id="the-grey-mother"></span>
 
 ### [The Grey Mother](./The%20Grey%20Mother.md)
 
@@ -72,17 +78,25 @@ While trying to gather supplies for Grey Mother, Methuselah is first encountered
 
 Mackenzie is skeptical of these claims, stating that power failures have occurred before and that everything will go back to normal soon enough, but Methuselah is unsure of this response. The old man answers a few more questions Mackenzie has and the pilot then leaves him alone as he begins looting the store in order to bring food and water to Grey Mother. If the player comes back after helping Grey Mother, Methuselah is gone.
 
+<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
+
 ### [Paradise Lost](./Paradise%20Lost.md)
 
 He is encountered again at a campfire along the pathway leading to [Mystery Lake](./Mystery%20Lake%20%28region%29.md) after Will escapes the Town of Milton. He gives a neutral comment on how Will dealt with [Hobbs](./Hobbs.md), giving a different reaction depending on whether Mackenzie kills or spares the convict. This exchange baffles Mackenzie, as Methuselah was nowhere to be found when he encountered the Convict, and yet the old man somehow knows what transpired between the two.
 
 Regardless of the choice made to kill or spare Hobbs, Methuselah does not pass judgment, merely stating that this new world will test Mackenzie to see if he has what it takes to survive. Mackenzie then leaves the old man, wishing him good luck with his "apocalypse", but the old man tells the pilot to keep his luck as [he will be needing it soon](./Old%20Bear.md).
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
+
+<span id="the_best_defense"></span><span id="The_Best_Defense"></span><span id="the-best-defense"></span>
 
 ### [The Best Defense](./The%20Best%20Defense.md)
 
 In Episode 2 after the second [Old Bear](./Old%20Bear.md) attack in [Broken Railroad](./Broken%20Railroad.md), Will finds Methuselah under the night sky of an [Aurora](./Aurora.md) (the first time the aurora has appeared in the sky since the First Flare) and asks who Mackenzie's "war with nature" is going. Methuselah explains that there was no bear here when he arrived, and that perhaps the pilot and beast's final fight has not yet come. Methuselah reveals more about the Aurora's effect on the animals and electrical equipment changing the world before Mackenzie leaves. Methuselah is gone when Mackenzie returns to the same campfire spot with the [Bear Spear](./Bear%20Spear.md) in tow.
+
+<span id="renewed_hope"></span><span id="Renewed_Hope"></span><span id="renewed-hope"></span>
 
 ### [Renewed Hope](./Renewed%20Hope.md)
 
@@ -90,9 +104,13 @@ He is last seen outside the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) near t
 
 Methuselah will remain outside the Carter Staging Area for the rest of the episode, and is not seen again for the rest of Wintermute's story (unconfirmed if he will appear in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)).
 
+<span id="voice_acting"></span><span id="Voice_acting"></span><span id="voice-acting"></span>
+
 ## Voice acting
 
 In the original version of Wintermute, Methuselah was voiced by Gord Marriott (who also provided the voice for [Mathis](./Mathis.md)) As of the _Redux_ version of Episode 1 and 2, he is voiced by Richard Newman.
+
+<span id="notable_quotes"></span><span id="Notable_Quotes"></span><span id="notable-quotes"></span>
 
 ## Notable Quotes
 
@@ -101,6 +119,8 @@ In the original version of Wintermute, Methuselah was voiced by Gord Marriott (w
 - "How goes the war, my friend?"
 - "It doesn't make sense. And yet, it has happened."
 - "I have wandered these paths a long time, friend. I was a walker, now I'm a watcher. I'm here to observe these times, and help where I may."
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -111,7 +131,11 @@ In the original version of Wintermute, Methuselah was voiced by Gord Marriott (w
 - Methuselah's hat appears brown with a red band in the Predux, but it is red with a brown band post Redux.
 - Partially obscured by his winter coat, Methuselah's shirt has an "Omega" symbol on it. This is an Abrahamic reference to God, and also means "the end" as Omega is the last character in the Greek alphabet, implying he might be the last man alive when the world ends.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
+
+<span id="redux"></span><span id="Redux"></span>
 
 ### Redux
 
@@ -128,6 +152,8 @@ _Methuselah at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)_
 ![Methuselah's revised apperance in the Blackrock Foothills](../assets/Methuselah_ep5.png)
 
 _Methuselah's revised apperance in the [Blackrock Foothills](./Blackrock%20Foothills.md)_
+
+<span id="predux"></span><span id="Predux"></span>
 
 ### Predux
 

@@ -6,7 +6,7 @@
 
 [Dehydrated icon](../assets/Dehydrated_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Update:** 1.60
 
@@ -32,17 +32,23 @@
 
 **Dehydrated** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the missions [Fallen Star](./Fallen%20Star.md) and [Coming Storm](./Coming%20Storm.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Dehydrated can affect the [Crash Survivors](./Crash%20Survivor.md) Gwen, Ada, Logan, and Wade.
 
 - If their hydration levels hit 0, they will take [Condition](./Condition.md) damage until they die, thus failing the game and sending the player back to a previous checkpoint.
 
+<span id="treatment"></span><span id="Treatment"></span>
+
 ## Treatment
 
 Simply giving the necessary amount of potable water to a carried survivor will cure the Affliction.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

@@ -6,7 +6,7 @@
 
 [Cave Hidden Cache Note icon](../assets/Cave_Hidden_Cache_Note_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md)
 
@@ -36,13 +36,17 @@
 
 During the course of the mission, the survivor finds the note _Cave Hidden Cache Note_ from inside a residential home outside of [Milton](./Milton.md), located at the top of the hill southwest of the [Old Schoolhouse](./Old%20Schoolhouse.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Cave Hidden Cache Note**_
 
 I don't trust anyone anymore. People are getting desperate, and it's only been a few days since the power went out. I'm going to stash some supplies in our special place above town. You know, near where we look at the stars together? We may need them before help gets here.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

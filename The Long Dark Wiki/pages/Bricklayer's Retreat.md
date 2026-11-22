@@ -30,11 +30,15 @@ Has a workbench
 
 **Bricklayer's Retreat** is a cabin located to the east of a pond, near the southeastern limit of [Blackrock](./Blackrock.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Quite similar to the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md), this cabin provides basic weather and cold protection, along with a fireplace. However, this cabin does not have a closable door. A [Work Bench](./Work%20Bench.md) can be found just outside the hut; it will receive the fireplace's warmth, but you will not have any wind protection.Its roof can be repaired using woodworking tools to increase the temperature bonus it grants by +3 C. In Story Mode, a [Survival Bow](./Survival%20Bow.md) and some [Simple Arrows](./Simple%20Arrow.md) can be found inside, along with one of the few [Bedrolls](./Bedroll.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 A [Moose](./Moose.md) wanders around the small frozen pond in front of the cabin, usually to the northern side.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

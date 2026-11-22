@@ -30,6 +30,8 @@
 
 **Simple Fishing Lure** is a basic Fishing Lure introduced in the free update portion of the Part 3: Frontier Comforts update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Fishing Lures are accessories added to a [Fishing Tackle](./Fishing%20Tackle.md) to increase the user's chances to catch fish while [Ice Fishing](./Ice%20Fishing.md) (including some of the more rare fish).
@@ -44,6 +46,8 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 | --- | --- | --- | --- | --- | --- |
 | [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Simple Fishing Lure**
@@ -57,6 +61,8 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 **Item:** [Scrap Metal](./Scrap%20Metal.md)
 
 **Quantity:** 1
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

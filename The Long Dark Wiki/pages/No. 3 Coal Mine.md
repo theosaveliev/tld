@@ -26,15 +26,21 @@ Cave|-
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 No. 3 Coal Mine contains a substantial amount of [Coal](./Coal.md)--a type of fuel that is used in conjunction with the [Furnace](./Furnace.md) and a [Heavy Hammer](./Heavy%20Hammer.md) to craft certain metal items.
 
 A [Work Bench](./Work%20Bench.md) can be found near the center of the mine.
 
+<span id="navigating"></span><span id="Navigating"></span>
+
 ### Navigating
 
 The mine is a dark place with several tunnels splitting off in different directions. Anyone venturing into the mine should bring a light source such as a [Flare](./Flare.md) or fueled [Storm Lantern](./Storm%20Lantern.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

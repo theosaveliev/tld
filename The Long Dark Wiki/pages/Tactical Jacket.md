@@ -44,6 +44,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **Tactical Jacket** is a unique [Clothing](./Clothing.md) item, found only during the end of the [Last Horizon](./Last%20Horizon.md) Tale, in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). It originally belonged to [The Foreman](./The%20Foreman.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Its warmth and windproofing are mediocre for a item of its weight and rarity. The real strength of this item is the protection it provides, which is the highest of nearly any other torso item, and by far the highest among cloth torso items. The only other torso clothing which that offers more protection is the [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
@@ -57,6 +59,8 @@ Tactical Jacket does not spawn on [Interloper](./Interloper.md) or [Misery modes
 ![Clothing model damaged](../assets/Tactical_Jacket_Model_Damaged.png)
 
 ![The Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

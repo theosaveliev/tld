@@ -8,7 +8,7 @@
 
 **Release:** Part 1 TFTFT
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Story item:** [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md)
 
@@ -18,9 +18,13 @@
 
 **Loose Boards** is an interactable storage object that contain hidden loot when found by a [Mementos](./Mementos.md) note. A prompt will not appear until the associated note is found.
 
+<span id="mementos"></span><span id="Mementos"></span>
+
 ## Mementos
 
 A Loose Boards is found in an organ in [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) in [Mountain Town](./Mountain%20Town.md) once its Mementos Note is found.
+
+<span id="non_mementos"></span><span id="Non-Mementos"></span><span id="non-mementos"></span>
 
 ## Non-Mementos
 

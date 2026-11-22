@@ -45,17 +45,23 @@
 
 **Moose-Hide Satchel** is a type of accessory [Clothing](./Clothing.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Moose-hide Satchel is a clothing item that when worn in either accessory slot, grants a bonus 5kg of [carry capacity](./Encumbrance.md) (11lbs). Only one satchel can be worn at a time. The satchel provides no other bonuses, such as [Warmth](./Warmth.md) or [windproofing](./Clothing.md#Windproof).
 
 Like other clothing, the satchel is vulnerable to damage from [Struggle](./Struggle.md) and [blizzards](./Weather.md), though it is sturdy and relatively easy to repair.
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - The Satchel's carry capacity bonus stacks with the [Technical Backpack](./Technical%20Backpack.md) and [Well Fed](./Well%20Fed.md) benefit.
 - The Satchel is repaired with [Cured Leather](./Cured%20Leather.md), not a [Cured Moose Hide](./Cured%20Moose%20Hide.md).
 - Wearing a Moose-hide Satchel as an outer accessory (right) and any inner accessory like [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) or [Improvised Insulation](./Improvised%20Insulation.md) in the inner (left) will protect the accessory - until the satchel is destroyed - from both wildlife and adverse weather like snow. Moose-Hide Satchels are far more durable than other accessories, and often survive wildlife attacks if initially above 50% condition.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -75,6 +81,8 @@ Like other clothing, the satchel is vulnerable to damage from [Struggle](./Strug
 
 **Quantity:** 1
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 **[Survival Mode](./Survival%20Mode.md)**
@@ -88,16 +96,20 @@ Like other clothing, the satchel is vulnerable to damage from [Struggle](./Strug
 - Episode 4: Found in the bunker revealed by the [Blackrock Rumours](./Blackrock%20Rumours.md) mission suspicious person side quest.
 - Cannot be crafted in Episodes 1-4, despite possible [Moose](./Moose.md) spawn.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Moose-Hide_Satchel_Model_icon.png)
 
 ![a texture for the damaged Moose-Hide Satchel](../assets/Moose_hide_bag_damage_texture_for_model.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.27)):**
-  - \[Survival Mode\] Fixed issue where the Moose Hide Satchel was not showing the correct bonus when the game was set to display Imperial Units.
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+  - [Survival Mode] Fixed issue where the Moose Hide Satchel was not showing the correct bonus when the game was set to display Imperial Units.
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
   - Added the Moose-Hide Satchel gear item.

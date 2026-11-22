@@ -67,6 +67,8 @@ GAMEPLAY\_AcornCooked
 
 **Acorns (Cooked - Large Portion)** are a natural [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Acorns (Cooked - Large Portion) are worth 4 times the calories than that of [Acorns (Cooked)](./Acorns%20%28Cooked%29.md), but also weigh 4 times more than regular Acorns (Cooked).
@@ -74,6 +76,8 @@ Acorns (Cooked - Large Portion) are worth 4 times the calories than that of [Aco
 It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) and then cook the large portion, as it costs 0.25 liters of [water](./Water%20%28Potable%29.md) to cook one Prepared Acorns into Acorns (Cooked - Large Portion) versus 1.0 liters to cook 4 Prepared Acorns into 4 separate [Acorns (Cooked)](./Acorns%20%28Cooked%29.md).
 
 1 Acorns (Cooked - Large Portion) can be processed into [Acorn Grounds](./Acorn%20Grounds.md) using a [Heavy Hammer](./Heavy%20Hammer.md). The action is performable everywhere and takes 10 minutes of in-game time.
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -92,11 +96,15 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 **Quantity:** 1
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Acorn Grounds](./Acorn%20Grounds.md) | None | - 1 × [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

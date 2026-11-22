@@ -41,6 +41,8 @@
 
 The **Wolfskin Coat** is a type of craftable clothing in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Wolfskin Coats have high warmth, windproof, protection, waterproof and durability along with a chance to frighten nearby wolves when worn; however they also have relatively high weight and mobility penalty. They are comparable in stats to the rare [Expedition Parka](./Expedition%20Parka.md), but can be crafted making them more accessible (such as on Interloper, where parkas cannot spawn). It is produced from cured wolf pelts.
@@ -52,6 +54,8 @@ The coat is the third-warmest torso clothing (after [Bearskin Coat](./Bearskin%2
 Since [wolves](./Wolf.md) are less dangerous than [bears](./Bear.md) or [moose](./Moose.md), and are more common, the wolfskin coat can be acquired with arguably less risk, and possibly earlier in the game. Crafting the coat will likely require hunting wolves or killing them in a struggle since there are few naturally spawning [wolf carcasses](./Wolf%20Carcass.md). In fact, the only [regions](./Region.md) in which a naturally spawned wolf carcass may be found are the [Hushed River Valley](./Hushed%20River%20Valley.md) (up to four), [Mountain Town](./Mountain%20Town.md) (up to one), [Broken Railroad](./Broken%20Railroad.md) (one), [Bleak Inlet](./Bleak%20Inlet.md) (one), [Ash Canyon](./Ash%20Canyon.md) (up to one), [Pleasant Valley](./Pleasant%20Valley.md) (up to two), and [Zone of Contamination](./Zone%20of%20Contamination.md) (three). 2 cured wolf pelts may spawn in a cargo container in the tail section of the crashed plane on the Timberwolf Mountain summit.
 
 In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature's balance in the [Survival School](./Survival%20School.md) quest.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -71,6 +75,8 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 **Quantity:** 4
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Wolfskin_Coat_Model_icon.png)
@@ -78,6 +84,8 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 ![Clothing model icon damaged](../assets/Wolfskin_Coat_Model_Damaged_icon.png)
 
 ![Old model.](../assets/Wolfskin_Coat_-_back.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

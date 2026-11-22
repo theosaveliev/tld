@@ -28,11 +28,15 @@
 
 **Journal Page** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) at [Junker's Paddock](./Junker%27s%20Paddock.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Journal Page**_
 
 I'll keep writing as long as my hands hold up. The old road can't all be broken. I didn't fly in here and there's no way they can make me fly out. No matter what the hell they say is going on.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

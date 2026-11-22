@@ -34,6 +34,8 @@
 
 Despite the Affliction description stating that the Heat Pack is tucked into the player's Clothing while operating, Clothing is not needed to gain the benefits of an active Heat Pack.
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 Once activated, a Heat Pack produces no Warmth to the player at first, but will gradually raise [Warmth](./Warmth.md) and overall [Feels Like](./Feels%20Like.md) over time.
@@ -45,9 +47,13 @@ Once activated, a Heat Pack produces no Warmth to the player at first, but will 
 - Once 50 minutes remain after activation, the Heat Pack will slowly lose Warmth by -0.1C (-0.2F) every 30 seconds until time runs out to 0 minutes left.
 - After time expires, the Condition of a Heat Pack will instantly turn to 0% and the item will be Ruined, providing no heat.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The Affliction icon is the same as [Warming Up](./Warming%20Up.md).
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

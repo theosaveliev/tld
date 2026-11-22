@@ -51,21 +51,29 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Hockey Jersey** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Light and warm mid-tier sweater, which spawns rarely on all game modes. The Hockey Jersey has similar stats to the [Thin Wool Sweater](./Thin%20Wool%20Sweater.md). The Hockey Jersey is 0.05 kg heavier, but 2.5 °C more Windproof, 1% more Protective and 5% less Waterproof. The Hockey Jersey [decays](./Decay.md) condition half as fast as Thin Wool Sweater.
 
 It is one of the best Inner Torso clothing which can spawn on [Interloper](./Interloper.md) mode, along with the Thin Wool Sweater.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 - Rare but can spawn in most regions on all game modes.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

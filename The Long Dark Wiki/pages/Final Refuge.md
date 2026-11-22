@@ -22,6 +22,8 @@ Has a bed
 
 Has an interior<br>**Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The cabin can provide life-saving shelter if the weather conditions turn poor. It offers a small amount of loot and limited storage:
@@ -40,6 +42,8 @@ The cabin can provide life-saving shelter if the weather conditions turn poor. I
 This location can also spawn a [Prybar](./Prybar.md) and [Simple Tools](./Simple%20Tools.md). [Ptarmigans](./Ptarmigan.md) can spawn nearby (to the left side of the cabin looking from the direction of [Cabin B](./Placid%20Notch.md)) as well as a possible traveling [Bear](./Bear.md).
 
 The road ahead is blocked off by an avalanche, [Unyielding Inundation](./Unyielding%20Inundation.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

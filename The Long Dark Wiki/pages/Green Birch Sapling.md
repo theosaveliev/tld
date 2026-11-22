@@ -13,7 +13,7 @@
 
 [Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** Yes
 
@@ -47,6 +47,8 @@ A Green Birch Sapling can be cured by leaving it to dry indoors or inside a deep
 
 Once dried, the green birch sapling will become a cured birch sapling and will appear to be a more dull brown colour. The cured sapling can then be used for crafting [Arrow Shafts](./Arrow%20Shaft.md). Both Green and Cured Birch Saplings do not [Decay](./Decay.md), and will always be at 100% condition.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 2 Green Birch Saplings are required to craft the [Trader](./Trader.md) blueprint item the [Bushcraft Bow](./Bushcraft%20Bow.md), being the only tool in the game requiring the uncured saplings.
@@ -55,9 +57,13 @@ Once dried, the green birch sapling will become a cured birch sapling and will a
 | --- | --- | --- |
 | [Bushcraft Bow](./Bushcraft%20Bow.md) | None | - 2 × [Green Birch Sapling](./Green%20Birch%20Sapling.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 [Methuselah](./Methuselah.md) uses a Green Birch Sapling to poke at his various Campfires in [Wintermute](./Wintermute.md) in Episode 1.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -74,6 +80,8 @@ _A birch sapling as it appears on the [map](./Map.md)_
 ![Old model.](../assets/Green_Birch_Sapling.png)
 
 ![Methuselah holding a birch sapling](../assets/Methuselah_paradise_lost.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -13,7 +13,7 @@
 
 [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png)
 
-**Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
+**Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)
 
 **Wintermute:** No
 
@@ -33,11 +33,15 @@
 
 **Fresh Rabbit Pelt** is the raw hide of a [Rabbit](./Rabbit.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Rabbitskin Hats](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) once they have [Cured](./Curing.md) into a [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Fresh Rabbit Pelts are acquired by harvesting a [Rabbit Carcass](./Rabbit%20Carcass.md). They can then be cured by leaving them indoors for 3 days (in-game). Fresh Rabbit Pelts [Decay](./Decay.md) at a rate of 6.667 Condition a day (Stalker difficulty) and will decay into Ruined status if not left to cure indoors. The current curing status can be checked by hovering your reticle over the item, where it will display a "X% Cured" progress. This increases until the item is 100% cured, where the item will automatically become fully cured, will change to a darker texture, and is ready for crafting use. Completely cured items never decay.
 
 Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning Rabbits with a [Stone](./Stone.md), or shooting a Rabbit. Each Rabbit Carcass will have one pelt, along with [meat](./Rabbit%20%28Raw%29.md) and [Fresh Guts](./Fresh%20Gut.md).
+
+<span id="drop_sources"></span><span id="Drop_sources"></span><span id="drop-sources"></span>
 
 ## Drop sources
 
@@ -45,9 +49,13 @@ Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning Rabbits with a 
 | --- | --- | --- |
 | [Rabbit](./Rabbit.md) | 1 | Always |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Rabbit_pelt.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -24,6 +24,8 @@
 
 **Bloody note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Sundered Pass](./Sundered%20Pass.md). It is found in the radar station building in [Weather Station](./Weather%20Station.md), in the northwest corner of the room.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Bloody note**_
@@ -37,6 +39,8 @@ But now they tell me the supply deliveries are being halved, too. Something abou
 I can't eat my ammo supply, so it's jut me and my old Rifle for now.
 
 It should be enough.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

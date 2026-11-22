@@ -49,6 +49,8 @@ The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in var
 
 ![Old gear icon](../assets/Miner%27s_Jacket_icon_old.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
 \* UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

@@ -32,6 +32,8 @@
 
 The note is narrated by the Captain.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Worn Logbook**_
@@ -45,6 +47,8 @@ Guys tied to their bunks, men throwing themselves into the sea, never seen or he
 They keep jabbering about the "call of the lights" and a "burning fire." It's for sure a damn strong aurora some nights but I don't see what's so mystical about it all.
 
 But we have enough food for now, calm seas, and a good course for landfall soon.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

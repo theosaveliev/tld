@@ -25,6 +25,8 @@
 
 It was discontinued in 2020 after being replaced by _[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)_, a 2 week event that was shortly turned into a standalone challenge.
 
+<span id="dates"></span><span id="Dates"></span>
+
 ## Dates
 
 | Year | Start date | End date |
@@ -33,6 +35,8 @@ It was discontinued in 2020 after being replaced by _[Escape the Darkwalker](./E
 | 2017 | 27 October 11PM PST | 31 October 11PM PST |
 | 2018 | 27 October 11PM PDT | 1 November 10AM PDT |
 | 2019 | 27 October 10PM PST | 1 November 10AM PDT |
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -57,11 +61,15 @@ Since the event is essentially a new game, all stats and settings are reset for 
 
 4 Days of Night for 2019 is the same event as the previous year with updated badges.
 
+<span id="day_1_the_quiet_dark"></span><span id="Day_1:_The_Quiet_Dark"></span><span id="day_1:_the_quiet_dark"></span><span id="day-1-the-quiet-dark"></span>
+
 ### Day 1: The Quiet Dark
 
 "_Wildlife have vanished. Use this time to explore and gather supplies for the long nights ahead. Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
+
+<span id="day_2_howl"></span><span id="Day_2:_Howl"></span><span id="day_2:_howl"></span><span id="day-2-howl"></span>
 
 ### Day 2: Howl
 
@@ -69,17 +77,23 @@ Since the event is essentially a new game, all stats and settings are reset for 
 
 — In-game description
 
+<span id="day_3_a_green_fire"></span><span id="Day_3:_A_Green_Fire"></span><span id="day_3:_a_green_fire"></span><span id="day-3-a-green-fire"></span>
+
 ### Day 3: A Green Fire
 
 "_With the Aurora in the sky, wolves are even more dangerous. Beware! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
+<span id="day_4_a_cold_embrace"></span><span id="Day_4:_A_Cold_Embrace"></span><span id="day_4:_a_cold_embrace"></span><span id="day-4-a-cold-embrace"></span>
+
 ### Day 4: A Cold Embrace
 
 "_A monster blizzard has arrived. Don't stray too far from your fire, or else! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
+
+<span id="changes_from_the_regular_mode"></span><span id="Changes_from_the_regular_mode"></span><span id="changes-from-the-regular-mode"></span>
 
 ## Changes from the regular mode
 
@@ -93,10 +107,14 @@ Outside some houses, small bowls containing a mix of 3-4 [candy bars](./Chocolat
 
 The in game clock in the top right on the HUD does not move from midnight during the event, but rather switches between early night (the moon is placed in the left side) and late night (the moon is placed in the right side).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Since the sun never rises, items such as [magnifying lens](./Magnifying%20Lens.md), among others, are essentially useless.
 - A discrepancy was created with the 2018 version, with the Pumpkin Pie being made available on Day 4 with a description that it will ward off wildlife, despite Day 4 featuring a blizzard and therefore containing no wildlife whatsoever.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -133,6 +151,8 @@ _The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)_
 ![4DON titlecard](../assets/4DON_titlecard.jpg)
 
 ![Four Days Of Night 2018](../assets/Four_Days_Of_Night_2018.png)
+
+<span id="external_links"></span><span id="External_links"></span><span id="external-links"></span>
 
 ## External links
 

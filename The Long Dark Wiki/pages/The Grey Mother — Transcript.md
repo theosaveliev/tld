@@ -29,6 +29,8 @@
 
 This is the mission transcript for mission 3 [The Grey Mother](./The%20Grey%20Mother.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The chapter name appears on the screen shortly after speaking with [Grey Mother](./Grey%20Mother.md)._
@@ -90,6 +92,8 @@ Grey Mother: "The memories are grey...misty. I'm trying to remember. It was...wi
 Will Mackenzie: "Was it a woman's voice?"
 
 Grey Mother: "I'm not sure. The voices were...thin. Far. The blizzard was waking up. Soon there was only wind and...darkness. I don't know. I don't remember. It's all cloudy now."
+
+<span id="find_supplies_to_help_keep_grey_mother_alive."></span><span id="Find_supplies_to_help_keep_Grey_Mother_alive."></span><span id="find-supplies-to-help-keep-grey-mother-alive"></span>
 
 ### Find supplies to help keep Grey Mother alive.
 
@@ -165,6 +169,8 @@ Methuselah: "Go safely, and good luck to you. I hope you find what you are looki
 
 _The Convenience Store is in shambles, but Mackenzie manages to find more than enough food inside to return to Grey Mother. Methuselah sits quietly by his fire, never once objecting to the looting occurring around him. Mackenzie then finds fuel to keep Grey Mother's fire going and places it inside her Firewood Bin._
 
+<span id="return_to_grey_mother"></span><span id="Return_to_Grey_Mother"></span><span id="return-to-grey-mother"></span>
+
 ### Return to Grey Mother
 
 _Mackenzie then speaks with Grey Mother._
@@ -206,6 +212,8 @@ Grey Mother: "Other outsiders? It's possible."
 Will Mackenzie: "Where would they be? Maybe my friend was with them."
 
 Grey Mother: "If they were outsiders, they might have stayed in the old schoolhouse. In the months after the quakes...people used to huddle there for the warmth of the school's old coal burner. Rare outsider coming through Milton might stay there the night. If your friend came through Milton, chances are she ended up there."
+
+<span id="grey_mother_thinks_something_happened_at_the_tunnel_leading_out_from_milton._investigate."></span><span id="Grey_Mother_thinks_something_happened_at_the_tunnel_leading_out_from_Milton._Investigate."></span><span id="grey-mother-thinks-something-happened-at-the-tunnel-leading-out-from-milton-investigate"></span>
 
 ### Grey Mother thinks something happened at the tunnel leading out from Milton. Investigate.
 
@@ -291,6 +299,8 @@ Will Mackenzie: "I don't understand..."
 
 Grey Mother: "In the bank. You'll find the answers. Now go."
 
+<span id="something_precious_was_stolen_from_grey_mother._find_it_and_return_it_to_her."></span><span id="Something_precious_was_stolen_from_Grey_Mother._Find_it,_and_return_it_to_her."></span><span id="something_precious_was_stolen_from_grey_mother._find_it,_and_return_it_to_her."></span><span id="something-precious-was-stolen-from-grey-mother-find-it-and-return-it-to-her"></span>
+
 ### Something precious was stolen from Grey Mother. Find it, and return it to her.
 
 _Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Along the way, a piece of orange fabric can be seen swaying in the wind, stuck to the barb wire fence. Walking past the Mailbox, fresh blood can be seen in the snow leading to the Farmhouse. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf._
@@ -366,6 +376,8 @@ Will Mackenzie: "Black rock?"
 Hobbs: "Yeah, you know. Blackrock Federal Pen. Where they put the worst of the bad people...the bad people, bad people. People too bad for the Mainland. Its like an old penal colony or some damn thing." _Hobbs winces in pain for a moment_ "You know there's no easy way for us to get back."
 
 Will Mackenzie: "Imagine...how lucky you are. All those people in Milton...scared, and dying, and you get to live.
+
+<span id="dealing_with_hobbs"></span><span id="Dealing_with_Hobbs"></span><span id="dealing-with-hobbs"></span>
 
 ### Dealing with Hobbs
 

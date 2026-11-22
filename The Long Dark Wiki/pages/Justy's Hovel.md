@@ -28,6 +28,8 @@ Has a bed
 
 Has an interior<br>**Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Justy's Hovel is a small cabin located on a plateau on the south-east corner of the map.

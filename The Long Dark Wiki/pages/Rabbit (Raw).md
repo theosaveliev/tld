@@ -13,7 +13,7 @@
 
 [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png)
 
-**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
+**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)
 
 **Wintermute:** No
 
@@ -43,6 +43,8 @@ _For the cooked version, see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md)._
 
 **Rabbit Meat (Raw)** is a raw food item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Rabbit Meat is harvested from [Rabbit](./Rabbit.md) carcasses, which contain between 0.8 and 1.5 kg of raw meat. Consuming raw meat carries a high chance of contracting [Food Poisoning](./Food%20Poisoning.md).
@@ -51,6 +53,8 @@ Rabbit Meat is harvested from [Rabbit](./Rabbit.md) carcasses, which contain bet
 - Meat decays slower outdoors than indoors.
 
 Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (including meat) proportional to the time the wolf has been feeding, until "ravaged" where the carcass is un-harvestable.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -62,6 +66,8 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 | [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 1 × [Potato](./Potato.md)<br>- 0.20 kg × [Carrot](./Carrot.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -76,6 +82,8 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 ![Ruined](../assets/Rabbit_%28Raw%29_Ruined_icon.png)
 
 ![Old model](../assets/Rabbit_raw.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

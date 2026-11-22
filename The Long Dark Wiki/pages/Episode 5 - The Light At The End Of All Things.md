@@ -38,13 +38,21 @@ Hinterland released Episode 5 of _The Long Dark_ for free to all current owners 
 
 Both Mackenzie and Astrid are playable characters in the Episode, switching perspectives between multiple parts of the story between missions.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
+<span id="missions"></span><span id="Missions"></span>
+
 ## Missions
+
+<span id="part_one_perseverance"></span><span id="Part_One:_Perseverance"></span><span id="part_one:_perseverance"></span><span id="part-one-perseverance"></span>
 
 ### Part One: Perseverance
 
 Perseverance is the first chapter of Episode 5. [Astrid Greenwood](./Astrid%20Greenwood.md) is the only playable character in this chapter. The chapter takes place at [Perseverance Mills](./Perseverance%20Mills.md) and in the surrounding Perseverance Countryside. It contains 3 different missions. ![Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
+
+<span id="perseverance"></span><span id="Perseverance"></span>
 
 #### Perseverance
 
@@ -56,6 +64,8 @@ _Main article: [Perseverance](./Perseverance.md)_
 
 It is the first mission of the game. This mission starts with a conversation between [Astrid](./Astrid%20Greenwood.md) and [Jane Yang](./Jane%20Yang.md). Jane states there are some missing people of the town. Hence, in order to find out what happened to these missing people, Astrid goes to the Cooper's Blind and Dr. Larson's clinic. ![Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
 
+<span id="to_those_who_are_missing"></span><span id="To_Those_Who_Are_Missing"></span><span id="to-those-who-are-missing"></span>
+
 #### To Those Who Are Missing
 
 _Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)_
@@ -66,6 +76,8 @@ _Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)
 
 ![Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
 
+<span id="a_cry_for_help"></span><span id="A_Cry_For_Help"></span><span id="a-cry-for-help"></span>
+
 #### A Cry For Help
 
 _Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)_
@@ -74,9 +86,13 @@ _Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)_
 
 — In-game description
 
+<span id="part_two_strange_history"></span><span id="Part_Two:_Strange_History"></span><span id="part_two:_strange_history"></span><span id="part-two-strange-history"></span>
+
 ### Part Two: Strange History
 
 The player plays as [Will Mackenzie](./Will%20Mackenzie.md) while accompanying [Jace](./Jace.md) to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), containing 2 missions. ![Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
+
+<span id="the_cold_broken_road"></span><span id="The_Cold,_Broken_Road"></span><span id="the_cold,_broken_road"></span><span id="the-cold-broken-road"></span>
 
 #### The Cold, Broken Road
 
@@ -88,6 +104,8 @@ _Main article: [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)_
 
 ![Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
 
+<span id="high_energy"></span><span id="High_Energy"></span><span id="high-energy"></span>
+
 #### High Energy
 
 _Main article: [High Energy](./High%20Energy.md)_
@@ -96,9 +114,13 @@ _Main article: [High Energy](./High%20Energy.md)_
 
 — In-game description
 
+<span id="part_three_do_no_harm"></span><span id="Part_Three:_Do_No_Harm"></span><span id="part_three:_do_no_harm"></span><span id="part-three-do-no-harm"></span>
+
 ### Part Three: Do No Harm
 
 ![Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png) The player takes control of Astrid again for a single mission.
+
+<span id="to_sar_and_back"></span><span id="To_SAR_And_Back"></span><span id="to-sar-and-back"></span>
 
 #### To SAR And Back
 
@@ -108,9 +130,13 @@ _Main article: [To SAR And Back](./To%20SAR%20And%20Back.md)_
 
 — In-game description
 
+<span id="part_four_terminus"></span><span id="Part_Four:_Terminus"></span><span id="part_four:_terminus"></span><span id="part-four-terminus"></span>
+
 ### Part Four: Terminus
 
 The player takes control of Mackenzie again for the last mission. ![Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png)
+
+<span id="conflagration"></span><span id="Conflagration"></span>
 
 #### Conflagration
 
@@ -120,11 +146,17 @@ _Main article: [Conflagration](./Conflagration.md)_
 
 — In-game description
 
+<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+
 ## Side Missions
 
 This is the only Episode to not contain any Side Missions.
 
+<span id="cast"></span><span id="Cast"></span>
+
 ## Cast
+
+<span id="major_characters"></span><span id="Major_Characters"></span><span id="major-characters"></span>
 
 ### Major Characters
 
@@ -134,6 +166,8 @@ This is the only Episode to not contain any Side Missions.
 - [Jane Yang](./Jane%20Yang.md) - Jessica Wong
 - [Atwood](./Atwood.md) - Mayumi Yoshida
 - [Jace](./Jace.md) - Tina Grant
+
+<span id="minor_characters"></span><span id="Minor_Characters"></span><span id="minor-characters"></span>
 
 ### Minor Characters
 
@@ -153,7 +187,11 @@ This is the only Episode to not contain any Side Missions.
 - Medical Officer - Vincent Tong
 - [Convicts](./Convicts.md)/Sentries - Michael Daingerfield, Victor Hunter / Joe Allard, Victor Hunter
 
+<span id="affliction_availability"></span><span id="Affliction_Availability"></span><span id="affliction-availability"></span>
+
 ## Affliction Availability
+
+<span id="achievements"></span><span id="Achievements"></span>
 
 ## Achievements
 
@@ -170,6 +208,8 @@ This is the only Episode to not contain any Side Missions.
 - ![The Last Light icon](../assets/The_Last_Light_icon.png) [The Last Light](./The%20Last%20Light.md)
 - ![The New World icon](../assets/The_New_World_icon.png) [The New World](./The%20New%20World.md)
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Announcement poster for Episode 5](../assets/Episode_Five_Poster.jpg)
@@ -179,6 +219,8 @@ This is the only Episode to not contain any Side Missions.
 ![Tld april dev diary bar counter view](../assets/Tld-april-dev-diary-bar-counter-view.jpg)
 
 ![Tld april dev diary balcony view res resized](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

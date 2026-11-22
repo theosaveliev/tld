@@ -35,9 +35,13 @@
 
 The **Bear Skin Bedroll** is a tool for sleeping without a bed in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Bear Skin Bedroll is a variant of the [Bedroll](./Bedroll.md), and is crafted from 2 [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) at a [Work Bench](./Work%20Bench.md). It fulfils the same role as bedrolls: allowing [sleep](./Sleep.md) at any location indoors or outside. Bear Skin Bedrolls are much warmer than normal bedrolls, have a chance of scaring nearby [wolves](./Wolf.md) when carried, reduces the chances of [Wildlife](./Wildlife.md) attacks when sleeping, and heals condition faster than a bedroll.
+
+<span id="features"></span><span id="Features"></span>
 
 ## Features
 
@@ -46,6 +50,8 @@ Bear Skin Bedrolls like the bedroll must be deployed to use ("use" in the invent
 When carried the Bear Skin Bedroll provides a chance to scare [wolves](./Wolf.md) when they detect the player, causing the wolf to flee. It also provides a reduced chance of wildlife attacks when sleeping (on Stalker and Interloper).
 
 However it is heavier (3 kg vs 1 kg) than a bedroll, and requires cured black bear hides to repair. Bear Skin Bedrolls decay slowly over time, and quickly while being used. When used Bedrolls provide warmth based on the bedroll's current condition (similar to [Clothes](./Clothing.md)).
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -57,11 +63,15 @@ However it is heavier (3 kg vs 1 kg) than a bedroll, and requires cured black be
 - Thanks to the high warmth bonus it gives, one can carry less firewood when travelling. They can also sleep outdoors with a lowly-heated campfire on higher difficulty without the fear of freezing to death.
 - Bear Skin Bedroll is best used when huddled inside a vehicle. Any vehicle will offer windproof protection as well as +5 degree of ambient temperature. With the bedroll equipped, one can effectively get a bonus of +17 degree inside a vehicle. This is extremely useful to get through a sudden [blizzard](./Weather.md) when there is no immediate shelter nearby.
 
+<span id="possible_locations"></span><span id="Possible_Locations"></span><span id="possible-locations"></span>
+
 ## Possible Locations
 
 A possible spawn location can be found on [Bleak Inlet](./Bleak%20Inlet.md) inside the [Pensive Lookout](./Pensive%20Lookout.md) below a corkboard on Pilgrim, Voyageur and Stalker difficulties.
 
 Additionally, in the Tales from the Far Territory DLC, a crafted bear skin bedroll can spawn inside the Coal Tower of the [Transfer Pass](./Transfer%20Pass.md) region on all difficulties.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -84,6 +94,8 @@ Additionally, in the Tales from the Far Territory DLC, a crafted bear skin bedro
 **Item:** [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
 
 **Quantity:** 2
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -30,6 +30,8 @@
 
 <br>**Unburdened** is a unique Benefit [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Survival Mode](./Survival%20Mode.md) when consuming certain [Cooking](./Cooking.md) Recipes. It was added in the Part 3 update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**Your pack feels lighter because of something you ate.**”
@@ -45,6 +47,8 @@ The following foods when consumed grant the Unburdened Affliction as a side effe
 - ![Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
 
 The effect of this Affliction does not stack, and each application will not override the previous Affliction. Partially eating the previously mentioned foods only adds a partial amount of Unburdened benefit duration.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

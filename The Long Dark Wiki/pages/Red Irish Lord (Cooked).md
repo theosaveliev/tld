@@ -34,6 +34,8 @@ _For the raw version, see [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%2
 
 **Red Irish Lord (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked Red Irish Lord have a minimum weight of 0.9 kg and a maximum weight of 2.0 kg.
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Red Irish Lord (Cooked)**
@@ -46,6 +48,8 @@ _For the raw version, see [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%2
 
 **Quantity:** 1
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Fresh](../assets/Red_Irish_Lord_%28Cooked%29_icon.png)
@@ -57,6 +61,8 @@ _For the raw version, see [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%2
 ![Rancid](../assets/Red_Irish_Lord_%28Cooked%29_Rancid_icon.png)
 
 ![Ruined](../assets/Red_Irish_Lord_%28Cooked%29_Ruined_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

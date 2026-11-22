@@ -43,6 +43,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 2** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A continuation of the coastline from the previously numbered region.
@@ -54,6 +56,8 @@ A continuation of the coastline from the previously numbered region.
 - Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.
 
 A small set of tracks goes into a mountain tunnel in this region, but the tunnel there is collapsed. Turning the train around and attempting to ram the tunnel will result in possibly getting the train stuck.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -82,12 +86,18 @@ Some other notable locations in this region include:
     - There is an unmarked [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) just south of the previous Campfire tunnel, though there is no loot nearby.
 
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
 - Some [wolves](./Wolf.md) can be found in several places in the region. Notably, at the Railyards and Criss Cross.
 - Rabbits can also be found at the eastern Railyard.
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -111,7 +121,11 @@ _**Repair Depot**_
 
 ![The inaccessible collapsed tunnel](../assets/Anna_Island_Track_2_Collapsed_Tunnel.jpg)
 
+<span id="maps"></span><span id="Maps"></span>
+
 ### Maps
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 
@@ -124,6 +138,8 @@ _**Repair Depot**_
 ![Tunnel East](../assets/Tunnel_East.jpg)
 
 ![Railyard East](../assets/Railyard_%28Track_Section_2_East%29.jpg)
+
+<span id="miscellaneous"></span><span id="Miscellaneous"></span>
 
 ### Miscellaneous
 

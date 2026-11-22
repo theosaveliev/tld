@@ -15,7 +15,7 @@
 
 [Reishi Tea icon](../assets/Reishi_Tea_icon.png)
 
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
 
 **Renewable:** No
 
@@ -35,6 +35,8 @@
 
 **Reishi Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Reishi Tea functions similar to [Antibiotics](./Antibiotics.md) for treating Afflictions, and is cooked from one [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) (two [Reishi Mushrooms](./Reishi%20Mushroom.md)) and 0.25 liters of [Potable Water](./Water%20%28Potable%29.md) at a lit [Fire](./Fire.md). Consuming prepared Reishi Tea (even without treating an Affliction) grants 100 Calories, restores 30% Hydration, and potentially grants the benefit [Warming Up](./Warming%20Up.md). Cooking Reishi Tea increases [Cooking Skill](./Skills.md).
@@ -51,6 +53,8 @@ The effect of Reishi Tea is not generalized throughout the body, and each dose w
 Reishi Mushrooms can be found in the wilderness growing on the trunks or stumps of dead trees, typically in clusters of 1-3 units. They cannot be directly consumed and must first be crafted into [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) and then cooked into [Reishi Tea](./Reishi%20Tea.md).
 
 Prepared Reishi Mushrooms have half the weight of their raw form, and no form of Reishi Mushroom [Decay](./Decay.md).
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -69,6 +73,8 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 **Quantity:** 1
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - Reishi Mushrooms are found sporadically in all regions on the trunks of dead pine tree stumps.
@@ -80,6 +86,8 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 - Infections, Dysentery, and Intestinal Parasites are permanent and lethal if left untreated. Food Poisoning alone is not lethal and will dissipate naturally with time (12-24 hours), but will reduce maximum [Condition](./Condition.md) to 15%, making it potentially dangerous.
 - Reishi Tea is functionally similar to Antibiotics, and is made from natural materials found abundantly in the wilds. In spite of this, Interloper and above require 20 daily doses to treat Parasites, and during a long game the player is liable to accidentally get Intestinal Parasites so it is generally wiser to save Reishi for treatment rather than using it on the Warmth bonus. Antibiotics are also renewable through [Beachcombing](./Beachcombing.md) and [Trading](./Trader.md), but Reishi are not.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Reishi Mushrooms are a real-world bracket fungus (Species: [_G. lingzhi_](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
@@ -89,29 +97,33 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 - Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics and Reishi Tea must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distributed through the body.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Reishi_Tea.png)
 
 ![Old icon](../assets/Reishi_tea_icon_old.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.71)):**
-  - \[Gameplay\] Tea will no longer remain hot forever.
-- HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.69)):**
-  - \[Gameplay\] Rosehip Tea and Reishi Tea now replenishes the correct amount of thirst, when drank.
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
-  - \[Survival Mode\] Updated medicinal Tea so it now acts like a First Aid item if a treatable Affliction is present. Otherwise it will still work as a Food item.
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)):**
-  - \[All\] Fixed Living Off the Land achievement progress being reset when drinking tea crafted from Reishi Mushrooms or Rosehips.
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.27)):**
-  - \[Wintermute\] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
-- HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.326)):**
+- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+  - [Gameplay] Tea will no longer remain hot forever.
+- HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**
+  - [Gameplay] Rosehip Tea and Reishi Tea now replenishes the correct amount of thirst, when drank.
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+  - [Survival Mode] Updated medicinal Tea so it now acts like a First Aid item if a treatable Affliction is present. Otherwise it will still work as a Food item.
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+  - [All] Fixed Living Off the Land achievement progress being reset when drinking tea crafted from Reishi Mushrooms or Rosehips.
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+  - [Wintermute] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
+- HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326)):**
   - Reishi Tea requirement reduced from 3 Reishi Mushrooms to 2
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Fixed issue where creating Reishi and Rosehip tea invalidated the Living Off The Land achievement.
-- HOTFIX **26 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.270)):**
+- HOTFIX **26 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.270)):**
   - Fixed issue that could sometimes cause Reishi Tea to not provide medicinal benefits.
-- UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)):**
+- UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.

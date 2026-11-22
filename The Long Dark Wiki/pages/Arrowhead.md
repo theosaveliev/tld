@@ -15,7 +15,7 @@
 
 [Arrowhead icon](../assets/Arrowhead_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** No
 
@@ -45,6 +45,8 @@
 
 An **Arrowhead** is a crafting Material in _The Long Dark._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Arrowheads are created at a [Forge](./Forge.md) and are used to craft [Simple Arrows](./Simple%20Arrow.md). They can also be acquired by harvesting simple arrows and broken arrows (arrows which reach 0% condition), and rarely found inside containers, such as tool chests at industrial locations (e.g. [Quonset Gas Station](./Quonset%20Garage.md)).
@@ -53,10 +55,14 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 2 Arrowheads always spawn in the Work Bench in [Angler's Den](./Angler%27s%20Den.md).
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - It is best to craft multiple batches of arrowheads at one time to require fewer trips to a [forge](./Forge.md).
 - Harvesting broken arrows yields one arrowhead and two [crow feathers](./Crow%20Feather.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -74,15 +80,21 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 **Quantity:** 1
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md)<br>- 1 × [Arrow Shaft](./Arrow%20Shaft.md)<br>- 3 × [Crow Feather](./Crow%20Feather.md) |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Arrowhead.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 
@@ -90,7 +102,7 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
   - Added a small chance that Arrowheads may spawn in Cash Registers or Tool Chests.
 
 - HOTFIX **26 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.270)):**
-  - Added a \*small number\* of random spawn arrows and arrowheads, spread across the game world.
+  - Added a _small number\_ of random spawn arrows and arrowheads, spread across the game world.
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
   - Added to game

@@ -28,6 +28,8 @@
 
 **A Page From A Journal** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found at the [Boss's Settlement](./Boss%27s%20Settlement.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **A Page From A Journal**_
@@ -43,6 +45,8 @@ I couldn't access the lowest levels without suffocating, but there seems to be a
 And there’s that downed helicopter in the hills above the old water extraction ponds I need to check out. Might be some tools to scavenge there, or in the concentrator and headframe building.
 
 For now, a moment to rest.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

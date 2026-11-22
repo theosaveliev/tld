@@ -32,6 +32,8 @@ Yields 3-4 [Cedar Firewood](./Cedar%20Firewood.md), 1 [Tinder Plug](./Tinder%20P
 
 A **Cedar Limb** is one of the many stationary interactable objects found in _The Long Dark_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 There are two variants of this object: small and large. Both can be turned into [Cedar Firewood](./Cedar%20Firewood.md) and [Tinder Plugs](./Tinder%20Plug.md).
@@ -39,6 +41,8 @@ There are two variants of this object: small and large. Both can be turned into 
 In addition to Cedar Firewood, these limbs will always yield one [Tinder Plug](./Tinder%20Plug.md) when harvested. This, along with cedar being easier to start than [Fir Fireword](./Fir%20Firewood.md), means that breaking down a Cedar Limb will provide all the resources needed to start a fire.
 
 It's commonly believed that limbs respawn after strong winds or blizzards, but this is untrue. Radial spawns (sticks, branches, coal, stones ect.) simply spawn on a randomized timer, independent of any weather conditions.
+
+<span id="small_limb"></span><span id="Small_Limb"></span><span id="small-limb"></span>
 
 ### Small Limb
 
@@ -49,6 +53,8 @@ Small limbs will provide 3 firewood and 1 and can be cut up using a [Hatchet](./
 | 3 / 1 | 45 minutes | 135 | -2% Hatchet |
 | 3 / 1 | 58 minutes | 176 | -2% Improvised Hatchet |
 | 3 / 1 | 90 minutes | 270 | -5% Hacksaw |
+
+<span id="large_limb"></span><span id="Large_Limb"></span><span id="large-limb"></span>
 
 ### Large Limb
 

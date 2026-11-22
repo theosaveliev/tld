@@ -38,6 +38,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Chief Engineer Best.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 12**_
@@ -91,5 +93,7 @@ I will say I miss the long talks McLeod and I once had when we were closer. Ther
 Not everyone here is equal to our ambitions, or the ones we once had at any rate, and I do miss sparring with another great mind.
 
 I should scratch that part out. It's too personal.
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

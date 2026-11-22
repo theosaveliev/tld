@@ -14,6 +14,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 [Cat tails](./Cat%20Tail.md) are common on the ice in front of the falls. [Rose Hip](./Rose%20Hip.md), mushrooms, [Green Birch Saplings](./Green%20Birch%20Sapling.md) and [Green Maple Saplings](./Green%20Maple%20Sapling.md) may all be found in the nearby area.

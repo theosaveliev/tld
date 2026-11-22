@@ -14,6 +14,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Lookout is the second highest location in the region, and offers a wide view of Mystery Lake that is partially obscured by trees.
@@ -21,6 +23,8 @@ The Lookout is the second highest location in the region, and offers a wide view
 A lone [Green Maple Sapling](./Green%20Maple%20Sapling.md) can be harvested here. A [Frozen Corpse](./Frozen%20Corpse.md) can be found with a [Revolver](./Revolver.md) on the path up to the Lookout area.
 
 This location does not need to be surveyed as part of the [Faithful Cartographer](./Faithful%20Cartographer.md) achievement.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

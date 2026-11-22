@@ -43,9 +43,13 @@
 
 **Forlorn Muskeg** is the 6th [Region](./Region.md) to be added to [_The Long Dark_](./The%20Long%20Dark.md). As an advanced region, it is a possible spawn location in Interloper difficulty.
 
+<span id="description"></span><span id="Description"></span>
+
 ## Description
 
 The region is mostly flat, composed of craggy hills surrounding a large, mostly-frozen bog. Bisecting the ice is a broken [railway line](./Trans-Island%20Railway%20Line.md) connected in the east to [Mystery Lake](./Mystery%20Lake%20%28region%29.md) through the [Rail Tunnel](./Rail%20Tunnel.md) (formerly the 'Tunnel Collapse') and in the west to the [Broken Railroad](./Broken%20Railroad.md) region. To the north, there is a path that links to the [Mountain Town](./Mountain%20Town.md) region from [Marsh Ridge](./Marsh%20Ridge.md). To the south, the region is linked with [Bleak Inlet](./Bleak%20Inlet.md) through a cave.
+
+<span id="potential_bases"></span><span id="Potential_Bases"></span><span id="potential-bases"></span>
 
 ### Potential Bases
 
@@ -55,11 +59,15 @@ The deep cave near the waterfall and radio tower on the other side of the region
 
 Another useful though unconventional temporary base is the transition cave to Bleak Inlet, as well as being useful when visiting Bleak Inlet, this cave is midway between the Mystery Lake exit and Spence's. The cave contains a bed, in fact by far the closest indoor bed to Spence's, the entrance to the cave is wind-protected and wolves don't enter it, making it a good place to a light a campfire and cook.
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
 
 Comparable in size to the open center of [Pleasant Valley](./Pleasant%20Valley.md), there are less than a half dozen suitable shelters in the region, all of which except for the [Poacher's Camp](./Poacher%27s%20Camp.md) are scattered around the perimeter of the region. Temperatures tend to be average for the island, to the point where one could potentially sleep through blizzards if they are sheltered from wind. There are also plentiful natural resources, and there are several good hunting locations in the region: bears and deer patrol past features that can be used as safe perches to hunt from. The moose will also appear near the train tunnel to Mystery Lake. However, if an animal you are hunting runs onto weak ice, you will not be able to harvest it or retrieve any arrows.
 
 The main challenges to long-term survival in this region is the weather, as the frequent fog and blizzards forces travel to be carefully planned. There are limited safe paths through the center of the region, none of which are marked except for the railroad. Travelling through the Forlorn Muskeg with clear weather is simple; the open terrain makes predators easy to spot from far off, along with being able to plan a path and determine which ice is safe to cross. However, a pleasant excursion can quickly become dangerous; the high density of predators, weak ice, and lack of landmarks will pose a much greater threat when the visibility is poor. Even a short blizzard will likely be lethal if it descends as players cross through the center of the region.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -71,6 +79,8 @@ There are several accessible locations within Forlorn Muskeg including:
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) located near Old Spence Family Homestead.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![A south-facing panorama of Forlorn Muskeg, taken from beside the Shortwave Tower.](../assets/Forlorn-muskeg-view-from-shortwave-tower.jpg)
@@ -78,6 +88,8 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) located near Old Spence Fa
 _A south-facing panorama of Forlorn Muskeg, taken from beside the [Shortwave Tower](./Shortwave%20Tower.md)._
 
 ![The Archivist episode trigger.](../assets/20190113203759_1.jpg)
+
+<span id="maps"></span><span id="Maps"></span>
 
 ## Maps
 

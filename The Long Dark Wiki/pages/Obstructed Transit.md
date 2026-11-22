@@ -22,7 +22,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Location**
 
-\[Missing image: Obstructed\_Transit\_Location.png\]
+[Missing image: Obstructed\_Transit\_Location.png]
 
 _Obstructed\_Transit\_Location.png_
 
@@ -43,6 +43,8 @@ Firebox
 [Fire Barrel](./Fire%20Barrel.md)
 
 Has no shelter **Obstructed Transit** is a location in [Port Remnant](./Port%20Remnant.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 

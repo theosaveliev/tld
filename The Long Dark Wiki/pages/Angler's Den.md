@@ -24,15 +24,21 @@ Has a bed
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Angler's Den is centrally located by one of the region's low-lying rivers. Despite its compact size the cabin hosts several useful features inside, including: bed, [Pot Belly Stove](./Pot%20Belly%20Stove.md) and [Work Bench](./Work%20Bench.md) as well as a storage trunk.
 
 The cabin itself contains ample loot, including food and clothing, including potentially [mukluks](./Mukluks.md), [Hunting Rifle](./Hunting%20Rifle.md), [arrowheads](./Arrowhead.md), [snare](./Snare.md), and a [Research Book](./Research%20Book.md) atop of the bunkbed. A [note](./A%20Note%20Left%20Behind.md) can be found near the Workbench. Outside on the deck several [flares](./Flare.md) or [marine flares](./Marine%20Flare.md) may be found.
 
+<span id="use_as_a_base"></span><span id="Use_as_a_base"></span><span id="use-as-a-base"></span>
+
 ### Use as a base
 
 With its central location, ample storage, and workbench the Angler's Den makes for a suitable [Safe House](./Safehouse.md). [Deer](./Deer.md) and a rabbit grove may be found nearby, providing plentiful food as well as a [Fire Barrel](./Fire%20Barrel.md) near [Broad Falls](./Broad%20Falls.md), enabling longer-duration fires to be lit outdoors. If lamp oil is needed, that can be obtained by fishing in [Bitter Marsh](./Bitter%20Marsh.md). The one major disadvantage of this base are the [Wolves](./Wolf.md). While they generally don't spawn immediately surrounding the cabin, they spawn on every trail leading to and from the cabin, which can make visiting other parts of the region more challenging.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

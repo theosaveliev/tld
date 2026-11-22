@@ -18,7 +18,7 @@
 
 [Will Episode 5](../assets/Will_Episode_5.jpg)
 
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Date:** 1 August 2017
 
@@ -60,19 +60,27 @@ After a tense conversation between Will and Astrid about a shared, traumatizing 
 
 Stranded far from the closest human civilization while being lost, wounded and alone, Mackenzie must quickly master basic wilderness survival skills if he's to last long enough to find Astrid and understand how his world has just changed forever.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Will Mackenzie was a bush pilot prior to the "First Flare" event, a geomagnetic disaster that brought modern civilization to its knees.
 
 Players experience [Story mode](./Wintermute.md) through both [Astrid Greenwood](./Astrid%20Greenwood.md)'s and Will's point of view.
 
+<span id="description"></span><span id="Description"></span>
+
 ## Description
 
 Will has short, brown hair and blue eyes. He also sports a relatively unkept beard and a faded red toque. He wears a light green sweater underneath an orange and blue parka, he has greyish black pants and brown leather boots.
 
+<span id="background"></span><span id="Background"></span>
+
 ## Background
 
 Through the course of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), we learn that Mackenzie was married to [Astrid Greenwood](./Astrid%20Greenwood.md). The two separated some time ago, but both still wear their wedding rings. It is implied that they had a child together who passed away. His drinking is a source of disagreement; Astrid implies that it is excessive while Mackenzie himself states that it is under control.
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 ## Episode 1
 
@@ -93,6 +101,8 @@ She tells him to bring the pearls to "Lily" at the graveyard. At first, Mackenzi
 Upon returning, she tells him the story of how her daughter died. Grey Mother gives Mackenzie the key to her daughter's trunk, where he finds climbing equipment. She tells him how to leave the area and to leave her behind, as she cannot escape the town, even if she wanted to.
 
 Mackenzie bids farewell to Grey Mother and leaves Milton through the back mountains. His rope snaps on the way down, but he recovers and continues on to a cave. Upon entering and going through the cave he finds his way to [Mystery Lake](./Mystery%20Lake%20%28region%29.md), where he encounters [Jeremiah](./Jeremiah.md), the old Trapper, being attacked by the Old Bear. He grabs the Trapper's rifle and fires at the Old Bear, ending the episode.
+
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
 
 ## Episode 2
 
@@ -118,6 +128,8 @@ When Mackenzie reaches the Dam when the Aurora in the sky he encounters [Methuse
 
 He leaves Methuselah behind and enters the Dam. He makes his way through the Dam into the back room where he is hit on the head and knocked out. He awakens to find [Mathis](./Mathis.md) standing there, he begins to interrogate and punch Mackenzie, questioning him about Astrid's locked case. Mackenzie responds with some snarky comments just before Mathis reveals he may have encountered Astrid. After responding with desperation, Mathis picks up a hatchet and knocks him out. Ending Episode 2.
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 ## Episode 4
 
 At the start of [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), Will awakens on a stretcher being carried by two convicts, [Heller](./Heller.md) and [Vachon](./Vachon.md). Led by [Mathis](./Mathis.md), the gang makes their way to [Blackrock Prison](./Blackrock%20Prison.md) before being ambushed by [timber wolves.](./Timberwolf.md) During the scuffle, Will falls down a cliff, and manages to escape the convicts temporarily, before being caught by Mathis to end the [prologue](./Prologue.md).
@@ -130,6 +142,8 @@ The [third chapter](./The%20Detonators.md) begins yet again in Will's cell, with
 
 The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Franklin.md) corpse being wheeled past Will's cell, as [Mathis](./Mathis.md) reveals that Franklin told him everything that Will had done and how [Jace](./Jace.md) had guided him the entire way. Before Mathis can execute Will, however, the detonators set the dynamite off prematurely, engulfing much of the prison in flames. Will escapes his cell, and Jace blocks Mathis from getting to Will via manipulating the prison doors, as an [Aurora](./Aurora.md) has provided temporary electricity to the prison again. Will then runs through the prison, retrieves the [hardcase](./Astrid%27s%20Hardcase.md) from the warden's office, and escapes into [the steam tunnels](./The%20Power%20Plant.md) from earlier. He then meets with Jace at the power plant, before they are cornered by Mathis and his gang. After a struggle with Mathis, Will and Jace dive into the river running through the plant, and wash ashore downstream. Will offers to start a fire to warm the half-frozen Jace before the episode ends.
 
+<span id="belongings"></span><span id="Belongings"></span>
+
 ## Belongings
 
 - ![Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png) [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)
@@ -138,6 +152,8 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 - ![Mackenzie's Parka icon](../assets/Mackenzie%27s_Parka_icon.png) [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)
 - ![Mackenzie's Pants icon](../assets/Mackenzie%27s_Pants_icon.png) [Mackenzie's Pants](./Mackenzie%27s%20Pants.md)
 - ![Mackenzie's Boots icon](../assets/Mackenzie%27s_Boots_icon.png) [Mackenzie's Boots](./Mackenzie%27s%20Boots.md)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -160,6 +176,8 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 ![Will Mackenzie concept art.](../assets/Will_Mackenzie_-_concept_art.jpg)
 
 ![Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)](../assets/Will_Mackenzie_haha.png)
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 

@@ -50,9 +50,13 @@ Possible to acquire from the [Trader](./Trader.md) for 2.00 L [Lantern Fuel](./L
 
 ![Model icon damaged](../assets/Hardhat_Model_Damaged_icon.png)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The Hardhat bears the logo of the Langston Mining Corporation.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

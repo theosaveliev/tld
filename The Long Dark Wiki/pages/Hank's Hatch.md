@@ -30,11 +30,15 @@
 
 **Hank's Hatch** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md). Completing the mission allows access to Hank's prepper hatch, which contains ammunition, food, and drink supplies.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Search the [Forestry Lookout](./Forestry%20Lookout.md) for Hank's Lock Box.
 - Locate Hank's secret prepper hatch, and gain entry.
 - Search Hank's prepper hatch for supplies.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -45,6 +49,8 @@ The bunker is located north of the [Train Loading Area](./Train%20Loading%20Area
 Upon arriving at the bunker, the player will need to open the hatch, which has a combination dial lock on the top. The code found on the piece of paper in Hank's lockbox can be used to open the hatch. A corpse is on the ground near the hatch.
 
 Inside the bunker, there is plenty of [canned food](./Food%20And%20Drink.md), [water](./Water%20%28Potable%29.md), [granola bars](./Granola%20Bar.md), [flares](./Flare.md), and [Rifle Ammunition](./Rifle%20Ammunition.md). Hank's corpse is lying on the floor inside the bunker.
+
+<span id="loot"></span><span id="Loot"></span>
 
 ## Loot
 
@@ -63,10 +69,14 @@ Inside the bunker, there is plenty of [canned food](./Food%20And%20Drink.md), [w
 - other basic clothing
 - a functioning bed
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - "Hank" is a nod to the protagonist ["Henry"](w:c:firewatch:Henry) from the videogame _Firewatch_. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower in a nature park to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to [Delilah](w:c:firewatch:Delilah), Henry's supervisor in _Firewatch_ who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of _Firewatch._
 - In his second journal entry, found in the bunker, Hank mentions hearing someone trying to get in. He does not open the door for them, and then dies from an infected leg wound from a Wolf attack. The body found outside, presumably his niece trying to enter, has antibiotics and antiseptic on them. Had he let her in, they both may have survived.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -8,7 +8,7 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The 
 
 [The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md)
 
@@ -38,7 +38,9 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The 
 
 During the course of the mission, Mackenzie finds the book in a chair in [Camp Office](./Camp%20Office.md) and is required to craft a fishing tackle and then fish in the nearby Mystery Lake.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Added to game.

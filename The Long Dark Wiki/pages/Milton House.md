@@ -56,6 +56,8 @@ _For the large house owned by Grey Mother, see [Milton House (Grey Mother's)](./
 
 A **Milton House**is a type of house or shed found throughout the Town of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Crossroads House](./Crossroads%20House.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Most of the dwellings throughout the Town of Milton are in ruins after decades of neglect, with many either being fully collapsed or boarded up after the once booming coal town went bust. The few that remain accessible are in differing states of disrepair, as many homes show signs of either abandonment from the former residents or were violently ransacked when the [Convicts](./Convicts.md) took over the Town, showing signs of looting after the [First Flare](./First%20Flare.md).
@@ -63,6 +65,8 @@ Most of the dwellings throughout the Town of Milton are in ruins after decades o
 Many of the houses and sheds change location between Survival Mode runs, with some being boarded up on one playthrough but the same house can be accessible on another.
 
 Milton Houses appear as 6 types of buildings:
+
+<span id="story_house"></span><span id="1_Story_House"></span><span id="1_story_house"></span><span id="1-story-house"></span>
 
 ### 1 Story House
 
@@ -83,6 +87,8 @@ This type of building has only 1 floor, with 2 doors leading to the kitchen or l
 
 The layout for this building has 2 different layouts, but tends to be filled with large amounts of food and [Cooking Pots](./Cooking%20Pot.md).
 
+<span id="bank_managers_house"></span><span id="Bank_Manager&#x27;s_House"></span><span id="bank_manager&#x27;s_house"></span><span id="bank-managers-house"></span>
+
 ### Bank Manager's House
 
 ![Milton Bank Managers House](../assets/Milton_Bank_Managers_House.jpg)
@@ -90,6 +96,8 @@ The layout for this building has 2 different layouts, but tends to be filled wit
 ![Bank managers house interior](../assets/Bank_managers_house_interior.jpg)
 
 This [Bank Manager's House](./Bank%20Manager%27s%20House.md) is different from every other house, containing just 3 rooms and a front door. It is locked in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and needs the [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md) to unlock.
+
+<span id="house_type_2"></span><span id="House_Type_2"></span><span id="house-type-2"></span>
 
 ### House Type 2
 
@@ -108,6 +116,8 @@ This building type only appears near the main road and is highly vandalized. It 
 - A bedroom
 - A bathroom next to the bedroom
 
+<span id="story_house_1"></span><span id="2_Story_House"></span><span id="2_story_house"></span><span id="2-story-house"></span>
+
 ### 2 Story House
 
 ![Milton House 1](../assets/Milton_House_1.jpg)
@@ -120,6 +130,8 @@ This building type only appears near the main road and is highly vandalized. It 
 
 These homes are much smaller buildings with a single door leading to the front hallway. They have a stairwell that leads the bedroom, with the ground floor containing a kitchen and nearby bathroom. Some of these types of houses in the town are entirely abandoned, with the upper floors sometimes either containing a baby crib or no bed.
 
+<span id="shed"></span><span id="Shed"></span>
+
 ### Shed
 
 ![Crossroads House Shed](../assets/Crossroads_House_Shed.jpg)
@@ -127,6 +139,8 @@ These homes are much smaller buildings with a single door leading to the front h
 ![Crossroads House Shed Inside](../assets/Crossroads_House_Shed_Inside.jpg)
 
 A few buildings are small tool sheds, with 2 doors for entering. They tend to contain a [Metal Shelf](./Metal%20Shelf.md) often holding a [Metal Container](./Metal%20Container.md) or other tools, [Crates](./Crate.md), [Planks](./Planks.md), and [Reclaimed Wood](./Reclaimed%20Wood.md). One shed is on a hill behind the pond with the ruined house, and has a Bed. 4 can be found in the town, but 2 will always be boarded up.
+
+<span id="grey_mothers_house"></span><span id="Grey_Mother&#x27;s_House"></span><span id="grey_mother&#x27;s_house"></span><span id="grey-mothers-house"></span>
 
 ### Grey Mother's House
 

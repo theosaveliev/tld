@@ -43,6 +43,8 @@
 
 **Improvised Crampons** are a [clothing](./Clothing.md) accessory in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 When worn in the either accessory slot, Improvised Crampons grant the Benefit [Sure Footing](./Sure%20Footing.md) which has three effects:
@@ -59,13 +61,19 @@ If the player's footwear (shoes and 2 socks slots) are removed (whether by the p
 
 - Despite being designed to attach to shoes, the player can wear Improvised Crampons on their socks, which should not be possible.
 
+<span id="repairing"></span><span id="Repairing"></span>
+
 ## Repairing
 
 Can be repaired with 2 pieces of [Scrap Metal](./Scrap%20Metal.md) using [Simple](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) as of Signal Void. Need to be unequipped to repair.
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), are craftable as seen below. They cannot be found naturally in the world. (except on Interloper)
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -85,9 +93,13 @@ Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), a
 
 **Quantity:** 4
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Improvised_Crampons_Model_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

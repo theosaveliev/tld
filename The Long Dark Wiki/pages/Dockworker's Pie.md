@@ -53,6 +53,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Dockworker's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Dockworker's Pie is a relatively simple recipe requiring mostly common ingredients and featuring a powerful Condition restoring effect, similar to [Prepper's Pie](./Prepper%27s%20Pie.md). Compared with Prepper's Pie, Dockworker's Pie requires more artificial ingredients, with the most limited being [Potatoes](./Potato.md). [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) and [Rockfish](./Rockfish%20%28Raw%29.md) are both saltwater fish that can be acquired by [Ice Fishing](./Ice%20Fishing.md) in any Coastal Region (e.g., Bleak Inlet), with Coho being 'uncommon' and Rockfish being 'rare' (note: rare fish can be increased in frequency with [Lures](./Fishing%20Lure%20%28disambiguation%29.md), at the cost of taking longer before a bite).
@@ -61,12 +63,16 @@ The Recipe Card for Dockworker's Pie is found inside of the [Last Resort Cannery
 
 Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf.md). It may be dropped as a [decoy](./Scent.md#Baiting%2FDecoys).
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 - +35% [Condition](./Condition.md) (instant)
 - [Nourished](./Nourished.md) +10% Maximum Condition (for 3 hours)
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - -10% Maximum [Stamina](./Stamina.md) (3 hours)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -102,6 +108,8 @@ Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf
 **Item:** [Potato](./Potato.md)
 
 **Quantity:** 2
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

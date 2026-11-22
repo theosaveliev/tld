@@ -32,11 +32,13 @@
 
 The note is narrated by Dr. Larsen.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Dr Larsen's Clipboard**_
 
-Tuesday, \[writing scratched out\]
+Tuesday, [writing scratched out]
 
 I have no rational explanation for my patients' altered presentation.
 
@@ -49,6 +51,8 @@ Doing my duty, I will pursue the leads that I can, as I can. I have enlisted the
 He is here lately on his usual rotation, if also eager to leave once he saw the basic quarantine I pushed for. But he is hardy and seems dependable enough.
 
 We will see.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -34,6 +34,8 @@ The key opens a door (labeled supply room above it) right before exiting the fac
 
 Inside are high grade, warm clothing, plenty of food and drink, several [Heat Packs](./Heat%20Pack.md), [Crampons](./Crampons.md), a [Technical Backpack](./Technical%20Backpack.md), a [Medical Locker](./Medical%20Locker.md), several regular [Lockers](./Locker.md) filled with supplies, 3 [Noisemakers](./Noisemaker.md), and a [Shotgun](./Shotgun.md) with 23 rounds of ammunition.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

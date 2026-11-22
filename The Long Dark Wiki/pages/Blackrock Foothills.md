@@ -37,27 +37,41 @@
 
 **Blackrock Foothills** are a [Wintermute](./Wintermute.md)-exclusive region, which consists of the wilderness near the region of [Blackrock](./Blackrock.md). It eventually leads to the [Suzuki Environs](./Suzuki%20Environs.md) and the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), accessed through an abandoned and unstable mineshaft.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Foothills are a small, barren region just downstream from the [Power Plant](./Power%20Plant.md) in [Blackrock](./Blackrock.md). Given it's nature in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)'s plot, it is a rather linear region, with few locations within. Much of the region consists of rough, winding chasms and gullies, with some flatter basins here and there. Wolves can be found intermittently, though typically in the more open areas during the first portion of the map.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
+
+<span id="ruined_cabin"></span><span id="Ruined_Cabin"></span><span id="ruined-cabin"></span>
 
 #### **Ruined Cabin**
 
 A burnt out cabin, situated on a small, reinforced overlook near a frozen pond. A prybar can be found near the front door, with a Cooking Pot and Firelogs behind it.
 
+<span id="bisecting_ravine"></span><span id="Bisecting_Ravine"></span><span id="bisecting-ravine"></span>
+
 #### **Bisecting Ravine**
 
 A huge, seemingly bottomless ravine with an inaccessible frozen river at the bottom. Given the many fallen trees, it is probably geologically unstabe. The player is forced to walk across a fallen tree to cross it.
+
+<span id="logging_camp"></span><span id="Logging_Camp"></span><span id="logging-camp"></span>
 
 #### **Logging Camp**
 
 A pair of abandoned logging trailers, aswell as a small covered shed in a flat clearing. Both trailers are accessible by the player, with the trailer marked "Foreman's Office" containing the [Blackrock Foothills Map](./Blackrock%20Foothills%20Map.md), a [Distress Pistol](./Distress%20Pistol.md), and two [Flare Shells](./Flare%20Shell.md), among other loot. There is a fire barrel in the small area in front of the trailers, with two pieces of [Cedar Firewood](./Cedar%20Firewood.md) inside of the nearby shed.
 
+<span id="cable_cars"></span><span id="Cable_Cars"></span><span id="cable-cars"></span>
+
 #### **Cable Cars**
 
 A set of two industrial cable cars used to cross the region's rapids to access the Unstable Mine. The cars are manually crank-operated, with the movement of one being able to move the other. Mackenzie is forced to cross various fallen trees to reach a rocky island in the middle of the river, which is high enough to reach one of the cars, as they were left in the middle of the river. It is the only way to access the Abandoned Mine in the Blackrock Foothills. The system itself is poorly maintained; given that they sport large gaps in their floors, and because Mackenzie is able to easily destroy the Pulley Mechanism with a [Hatchet](./Hatchet.md).
+
+<span id="unstable_mine"></span><span id="Unstable_Mine"></span><span id="unstable-mine"></span>
 
 #### **Unstable Mine**
 
@@ -65,16 +79,20 @@ The Unstable Mine is, technically, a transition zone between the Foothills and t
 
 Almost every floor of the mine has at least one area full of posionous chemical gas, which the player is forced to remove by opening Clean Air Valves so Jace can follow them. The player is also forced to light the Gas Lamps on each level, as Jace is claustrophobic and deeply afraid of the dark. There are a number of puzzles within. The only area with no gas or puzzles comes is the Fifth Floor, which contains a large, sealed exit leading to the Suzuki Environs and the Radio Telescope itself. After exiting the mine, this exit point collapses rather violently.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - According to a line from Jace, a couple of hikers disappeared within the Unstable Mine the year prior, and although Search and Rescue were able to get inside, the search was called off due to the mine's instability. There is a high chance that the corpse Mackenzie aquires the Respirator from may have been one of these hikers, having died in a sudden collapse caused by the mine's unstable nature.
-- Jace does the "Uhm, Actually" pose during a cutscene. I'm serious.[¹](#fn1)
+- Jace does the "Uhm, Actually" pose during a cutscene. I'm serious.<span id="fnref1"></span>[¹](#fn1)
 - There is a paved segment of road in the clearing where the Logging Camp is situated, and according to the [Blackrock Foothills Map](./Blackrock%20Foothills%20Map.md), it seems the road leading to it most likely led out of the region. It is unknown when the road became inaccessible, though it may be implied this alternative path is the one that the Convicts take to find Jace and Mackenzie.
-- While the Player doesn't physically walk to the Unstable Mine's entrance, it may have been planned for them to walk to it based on the out-of-bounds space in the region, among other things.[²](#fn2)
+- While the Player doesn't physically walk to the Unstable Mine's entrance, it may have been planned for them to walk to it based on the out-of-bounds space in the region, among other things.<span id="fnref2"></span>[²](#fn2)
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. [https://youtu.be/Mv1kQlPK7xE?t=2184](https://youtu.be/Mv1kQlPK7xE?t=2184)[↩︎](#fnref1)
-2. [https://youtu.be/K2iTYy7wHCc?t=48](https://youtu.be/K2iTYy7wHCc?t=48)[↩︎](#fnref2)
+1. <span id="fn1"></span>[https://youtu.be/Mv1kQlPK7xE?t=2184](https://youtu.be/Mv1kQlPK7xE?t=2184)[↩︎](#fnref1)
+2. <span id="fn2"></span>[https://youtu.be/K2iTYy7wHCc?t=48](https://youtu.be/K2iTYy7wHCc?t=48)[↩︎](#fnref2)

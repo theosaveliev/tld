@@ -6,7 +6,7 @@
 
 [Great Bear Wolf Behaviour Study icon](../assets/Great_Bear_Wolf_Behaviour_Study_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md)
 
@@ -30,11 +30,13 @@
 
 **Great Bear Wolf Behaviour Study** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Blackrock Rumours](./Blackrock%20Rumours.md) side mission. It is found in a cave of a [Wolf](./Wolf.md) on a dead researcher corpse.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Great Bear Wolf Behaviour Study**_
 
-\[a journal page, partially torn and soaked with blood\]
+[a journal page, partially torn and soaked with blood]
 
 ...mistake to come here. The Staging Report from Blackrock Admin, was incomplete. Clearly this animal has survived some deep trauma or starvation period to develop aberrant predatory behaviours to this degree.
 
@@ -44,7 +46,9 @@ It's a magnificent creature and worthy of study.
 
 There's an unusual...
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

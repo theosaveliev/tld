@@ -25,9 +25,13 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 There can be decent amounts of gear inside, in addition to an abundance of [Coal](./Coal.md). It is strongly advised to bring a light source as there is a spiraling ramp at the start of the cave which can cause major injury to the player, even resulting in death. In addition, there can be various wood items in the area to gather, and up to two [wolves](./Wolf.md) may spawn in the area. In rare instances, a [Bear](./Bear.md) can wander from their den to the east. Don't worry, there are no wolves inside the cave.
+
+<span id="item_spawns"></span><span id="Item_spawns"></span><span id="item-spawns"></span>
 
 ## Item spawns
 
@@ -43,10 +47,14 @@ There can be decent amounts of gear inside, in addition to an abundance of [Coal
 - Outside the cave, at the picnic area, a frozen corpse may have their rifle lying next to them.
 - A chance of [Spelunker's Lantern](./Spelunker%27s%20Lantern.md) spawning after the waterfall in the crouching area
 
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+
 ## Episode 3
 
 - The three frozen corpses inside, one of whose head was crushed by a fallen rock, could have been the friends of the mountain climber who left a page of [his journal](./Climber%27s%20Journal%20Page.md) in the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 - However, this incident could have instead occurred at the [Point of Disagreement](./Point%20of%20Disagreement.md), not far from the cave.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

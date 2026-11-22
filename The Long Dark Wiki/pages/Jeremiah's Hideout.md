@@ -37,6 +37,8 @@
 
 Jeremiah's Hideout was later replaced by the mission [Aurora Hatch](./Aurora%20Hatch.md).
 
+<span id="tasks"></span><span id="Tasks"></span>
+
 ## Tasks
 
 - Locate the hidden bunker
@@ -44,9 +46,13 @@ Jeremiah's Hideout was later replaced by the mission [Aurora Hatch](./Aurora%20H
 - Find Jeremiah's Letters.
 - Burn Jeremiah's Letters.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 To start the side mission, Mackenzie has to raise the Trust of [Jeremiah](./Jeremiah.md) to the maximum of 375 points and speak to him about Old Letters. He will ask Mackenzie for a favor, to find a hidden bunker of his and burn some old letters between himself and an old correspondent. Mackenzie will ask why an old misanthropic trapper is out here with his own bunker writing letters to someone, but Jeremiah deflects the question. Jeremiah then gives Mackenzie a code, the location of the bunker, and asks him to burn the letters found inside (but no peaking at the letters as they "won't do you any good") and to keep anything else he finds inside the bunker as payment for this favor.
+
+<span id="locate_the_hidden_bunker"></span><span id="Locate_the_hidden_bunker"></span><span id="locate-the-hidden-bunker"></span>
 
 ### Locate the hidden bunker
 
@@ -54,17 +60,25 @@ The hideout is located in Forlorn Muskeg in the northern part of the map, slight
 
 This mission can be unlocked as early as [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) by making your way to [Broken Railroad](./Broken%20Railroad.md) and fixing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md) to unlock the Aurora. Return to the hatch at a later date and wait for an Aurora to occur (This can take several nights). One good way to trigger the Aurora is to either head to the hatch after repairing the broken rifle and looting the [Flashlight](./Flashlight.md) and [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md), then making your way to the hatch, or to wait until the mission [Renewed Hope](./Renewed%20Hope%20%28Predux%29.md) while waiting for the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) to be powered up, then running to the hatch.
 
+<span id="enter_the_bunker_when_the_aurora_is_active"></span><span id="Enter_the_Bunker_when_the_Aurora_is_active"></span><span id="enter-the-bunker-when-the-aurora-is-active"></span>
+
 ### Enter the Bunker when the Aurora is active
 
 When an Aurora is in the sky, go inside and you will see the hallway to the back of the hideout is filled with live wires. Wait for the Aurora to pass if you want to safely pass over them, though this will lock the hatch door behind you (though you have plenty of supplies on your side of the bunker to last until the next Aurora). You can choose to run across the hot wires with with 100% [Condition](./Condition.md) but you will get at least 3 [Burns](./Burns.md) if you do, make sure to turn the Switch Box off to disable the live wires.
+
+<span id="find_jeremiahs_letters"></span><span id="Find_Jeremiah&#x27;s_Letters"></span><span id="find_jeremiah&#x27;s_letters"></span><span id="find-jeremiahs-letters"></span>
 
 ### Find Jeremiah's Letters
 
 Find [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) sitting on the desk before you and leave the hatch.
 
+<span id="burn_jeremiahs_papers"></span><span id="Burn_Jeremiah&#x27;s_Papers"></span><span id="burn_jeremiah&#x27;s_papers"></span><span id="burn-jeremiahs-papers"></span>
+
 ### Burn Jeremiah's Papers
 
 Now start a fire anywhere and select Jeremiah's Papers as the fuel. Use an [Accelerant](./Accelerant.md) if you need to. Successfully start the fire and the mission will be completed. Mackenzie will then remark "I'd better stay focused on finding Astrid. It's time I got going."
+
+<span id="rewards"></span><span id="Rewards"></span>
 
 ## Rewards
 
@@ -79,10 +93,14 @@ Rewards found inside the Hideout include:
 - [Snow Pants](./Snow%20Pants.md)
 - Plenty of [Water (Potable)](./Water%20%28Potable%29.md)
 
+<span id="differences_from_aurora_hatch"></span><span id="Differences_from_Aurora_Hatch"></span><span id="differences-from-aurora-hatch"></span>
+
 ## Differences from Aurora Hatch
 
 - The side mission is now activated after finding the [Aurora Hatch Door Entry Code](./Aurora%20Hatch%20Door%20Entry%20Code.md) note
 - A door separates the corridor to the back room, and requires a code to be input first
+
+<span id="transcript"></span><span id="Transcript"></span>
 
 ## Transcript
 
@@ -118,19 +136,25 @@ Mackenzie: "What do you need a bunker for out here?"
 
 Jeremiah: "I have my reasons. Burn those letters. And take whatever else you need from there."
 
+<span id="locate_the_hidden_bunker_1"></span><span id="locate-the-hidden-bunker-1"></span>
+
 ### Locate the hidden bunker
 
 _Mackenzie travels to Forlorn Muskeg, and finds the bunker. He enters it while the Aurora is active, but his path is blocked by live wires. Waiting for the aurora to pass, he picks up [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) but finds himself locked inside the bunker. Once a new aurora arrives, he leaves and starts a fire, burning the papers_
 
 Mackenzie: "I'd better stay focused on finding Astrid."
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![The Aurora Hatch.](../assets/Aurora_hatch.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition and replaced with [Aurora Hatch](./Aurora%20Hatch.md).

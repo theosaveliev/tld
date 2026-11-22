@@ -16,6 +16,8 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Forest Cave, like all caves, provides some protection from the cold and from the wind. Some supplies and a backpack can be found inside the cave.

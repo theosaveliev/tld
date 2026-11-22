@@ -28,6 +28,8 @@
 
 ![Ice Fishing](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 ![A fishing hut is one of the safest and simplest locations to ice fish.](../assets/Fishing_hut_outside.jpg)_A fishing hut is one of the safest and simplest locations to ice fish._ Ice Fishing is the skill to catch fish for [food](./Food%20And%20Drink.md), [lantern oil](./Lantern%20Fuel.md) and source renewable Vitamin-C to avoid [Scurvy](./Scurvy.md). It is performed at any fish-bearing body of water, at hole(s) cut in its ice. These holes are found inside all Fishing Huts, and can also be made manually with any Tool (via the [Radial Menu](./Radial%20Menu.md)). The Survivor can fish manually with a [Fishing Tackle](./Fishing%20Tackle.md), or semi-automatically with [Fishing Tip-Ups](./Fishing%20Tip-Up.md) (crafted fish traps). When choosing to fish the survivor can select to use bait, lures and how long to fish for. While fishing time is accelerated, and the task may be canceled early (ESC or "Cancel").
@@ -69,17 +71,23 @@ There are two types of fish: saltwater and freshwater, and four rarity: common, 
 | [Red Irish Lord icon](../assets/Red_Irish_Lord_icon.png) | [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) | Rare | Salt water | 1.50 kg<br>_(3.3 lb)_ | 3.10 kg<br>_(6.82 lb)_ | 300 cal/kg | 0.020 L/kg | 2 |
 | [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | _[Big Bass\*](./Big%20Bass%20%28Raw%29.md)_ | Unique | Fresh water | 15.00 kg<br>_(33 lb)_ | 15.00 kg<br>_(33 lb)_ | 300 cal/kg | 0.37L | Scripted |
 
-_\*Big Bass is found only in Wintermute_
+_*Big Bass is found only in Wintermute_
 
 ¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, [https://www.youtube.com/watch?v=l8BIygi4K\_k&amp;t=174s](https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s)
+
+<span id="equipment"></span><span id="Equipment"></span>
 
 ## Equipment
 
 Fishing Tackle and a tool to cut hole(s) in the ice are required for fishing. Optionally Bait and/or Lures can be used to increase bite-rate, or the odds of catching rare fish. Fishing on the ice for hours is very cold, so a lit fire with fuel and/or [Snow Shelter](./Snow%20Shelter.md) is often required. Before fishing, it's advisable to travel light or bring along a [Travois](./Travois.md), since the weight of multiple freshly-caught fish can [add up quickly](./Encumbrance.md).
 
+<span id="fishing_tackle"></span><span id="Fishing_Tackle"></span><span id="fishing-tackle"></span>
+
 ### Fishing Tackle
 
 ![Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) are the primary tool for fishing. They are crafted from a [Hook](./Hook.md) and [Line](./Line.md). Tackle lasts until they break during fishing, and only degrade condition when used to Repair clothing (Tackle durability has no effect on break rate).
+
+<span id="ice_breaker"></span><span id="Ice_Breaker"></span><span id="ice-breaker"></span>
 
 ### Ice Breaker
 
@@ -98,6 +106,8 @@ Tip: On PC, pressing Enter also acts as clicking the Break Ice button.
 | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 40.0 min | 5.0% |
 | [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | 40.0 min | 2.5% |
 
+<span id="fishing_tip_ups"></span><span id="Fishing_Tip-Ups"></span><span id="fishing_tip-ups"></span><span id="fishing-tip-ups"></span>
+
 ### Fishing Tip-Ups
 
 ![Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Ups](./Fishing%20Tip-Up.md) are tools to trap fish at Fishing Holes (including those inside of Fishing Huts). They can be fitted with Lures or Bait, and function similar to [Snares](./Snare.md), but unlike Snares are not effective when used passively: as they require regular ice-clearing to function, and will lose condition while deployed.
@@ -106,9 +116,13 @@ After clearing an ice hole and placing the Tip-Up in the water the tool will aut
 
 Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per separate body of water will result in 'overfishing penalties', yielding diminishing return catch rates (4 max in [Zone of Contamination](./Zone%20of%20Contamination.md)).
 
+<span id="fishing_bait"></span><span id="Fishing_Bait"></span><span id="fishing-bait"></span>
+
 ### Fishing Bait
 
 ![Fishing Bait icon](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md) are an optional tool to catch larger fish. Using Bait increases average fish size by +30%, but one piece of Bait will be consumed for each fish caught. Bait is crafted by harvesting any raw fish and takes 30 minutes regardless of fish weight. Heavier fish yield more Bait when harvested (3 Bait per 1kg of Raw Fish weight).
+
+<span id="fishing_lures"></span><span id="Fishing_Lures"></span><span id="fishing-lures"></span>
 
 ### Fishing Lures
 
@@ -121,6 +135,8 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 | [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 | [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
+<span id="fishing_holes"></span><span id="Fishing_Holes"></span><span id="fishing-holes"></span>
+
 ## Fishing Holes
 
 Ice Fishing by the survivor or their Tip-Ups requires holes cut in the ice of fishable bodies of water. These holes may be found inside of all Fishing Huts (small green structures found on the ice in many Regions), or cut manually by the water with any Tool. Holes will gradually re-freeze over, and must be manually cleared periodically to continue use. Completely clearing ice holes will pause freezing progress for 10 in-game minutes.
@@ -131,17 +147,21 @@ Fishing inside of Fishing Huts is more efficient than survivor-cut holes. The Fi
 
 |  | Free Form Holes | Fishing Huts | Fishing Hut (Ash Canyon) |
 | --- | --- | --- | --- |
-| Time to Catch\* | 30-120 minutes | 10-90 minutes | 10-70 minutes |
+| Time to Catch* | 30-120 minutes | 10-90 minutes | 10-70 minutes |
 | Tip-Up Decay | 1%/hour | 0.5/hour | 0.5/hour |
 | Ice Hole Freeze | 12.5/hour | 4.16%/hour | 4.16%/hour |
 
-\*Time to Catch on Interloper mode progressively increases up to a maximum of twice as long at Day 50, while beginning at the same value as Pilgrim/Voyageur/Stalker.
+*Time to Catch on Interloper mode progressively increases up to a maximum of twice as long at Day 50, while beginning at the same value as Pilgrim/Voyageur/Stalker.
+
+<span id="fishing_huts"></span><span id="Fishing_Huts"></span><span id="fishing-huts"></span>
 
 ### Fishing Huts
 
 [Fishing Huts](./Fishing%20Hut.md) are small structures on the ice which provide protection from the elements and wildlife. All fishing huts contain a pre-cut hole in the ice for fishing. Huts also contain a [Pot Belly Stove](./Pot%20Belly%20Stove.md) to keep warm, cook or boil water, and some have door and provide a warmth bonus in their interior. Wildlife cannot enter a fishing hut even when the door is open.
 
 All fishing holes inside Fishing Huts are more efficient than survivor-made ones outside, with all Fishing Huts being identical except for Ash Canyon's which has a higher bite-rate
+
+<span id="free_form_ice_fishing_holes"></span><span id="Free-Form_Ice_Fishing_Holes"></span><span id="free-form_ice_fishing_holes"></span><span id="free-form-ice-fishing-holes"></span>
 
 ### Free-Form Ice Fishing Holes
 
@@ -152,6 +172,8 @@ The survivor can cut holes in the ice to fish from with any tool on fishable ice
 Fishing at cut Ice Fishing Holes catches fewer fish per hour, cause double Tip-Up condition decay, and freeze over faster than the holes inside of Fishing Huts, but may be created anywhere on valid ice surfaces. It is possible to use fishing holes from the safety of snow shelters, and up to 4 holes may be accessed at once with close placement.
 
 Free-Formed ice fishing holes will disappear if left to freeze back to 100% unless the player exits and re-enters the area via loading screen while a cut ice hole is open, which will result in that hole becoming permanent and impossible to remove.
+
+<span id="valid_areas_for_free_form_ice_fishing"></span><span id="Valid_Areas_for_Free-Form_Ice_Fishing:"></span><span id="valid_areas_for_free-form_ice_fishing:"></span><span id="valid-areas-for-free-form-ice-fishing"></span>
 
 ### Valid Areas for Free-Form Ice Fishing:
 
@@ -188,6 +210,8 @@ Free-Formed ice fishing holes will disappear if left to freeze back to 100% unle
 
 ![The Free Form Ice Fishing spots on the river in Pleasant Valley](../assets/Pleasant_Valley_Ice_Fishing_Spots.jpg)
 
+<span id="skill_levels"></span><span id="Skill_Levels"></span><span id="skill-levels"></span>
+
 ## Skill Levels
 
 Players can increase their Ice Fishing skill by catching any fish.
@@ -205,6 +229,8 @@ A limited increase can be obtained from the [Research Book](./Research%20Book.md
 | 5 | 250 | Max level | - 25% to average fish weight<br>- Fishing time reduced by 30%<br>- 1% chance of line break on catch | You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time. |
 
 &lt;/table-progress-tracking&gt;
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

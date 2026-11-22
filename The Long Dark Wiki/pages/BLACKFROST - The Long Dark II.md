@@ -44,9 +44,13 @@
 
 A teaser was announced in 2025 and the game was set to release in Early Access in 2026, after the completion of [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) for _The Long Dark_. However, at the beginning of 2026, the Early Access was delayed to 2027 as developers were taken off the _BLACKFROST_ team to aid in planned updates and DLC for _The Long Dark._
 
+<span id="blurb"></span><span id="Blurb"></span>
+
 ## Blurb
 
 "A year after the Aurora’s appearance &amp; the world went dark, the people of Harmont &amp; its vast wild environs struggle to survive the Quiet Apocalypse. Survive alone or with others against a host of new hazards &amp; a fresh new survival sandbox from a pioneer of the genre. Live together. Die alone."
+
+<span id="hinterland_description"></span><span id="Hinterland_Description"></span><span id="hinterland-description"></span>
 
 ## Hinterland Description
 
@@ -56,7 +60,7 @@ After 10 years of developing the first game, this is a big moment for the team. 
 
 We call it BLACKFROST, and it’s the sequel to THE LONG DARK.
 
-Years ago, I asked myself what the future of THE LONG DARK could look like. Despite pouring everything we have into that game, I still felt there were things I wanted to do with the setting, the mechanics, but also things that just aren’t possible within the current game. I knew we would have to build something new, with foundations that could support our grand vision. When we started THE LONG DARK, we had no idea we’d be building it and supporting the community for 10 years. With BLACKFROST, we asked ourselves -- what if we \*started\* a project as though we knew it would last for 10 years, or even longer? What different decisions might we make?
+Years ago, I asked myself what the future of THE LONG DARK could look like. Despite pouring everything we have into that game, I still felt there were things I wanted to do with the setting, the mechanics, but also things that just aren’t possible within the current game. I knew we would have to build something new, with foundations that could support our grand vision. When we started THE LONG DARK, we had no idea we’d be building it and supporting the community for 10 years. With BLACKFROST, we asked ourselves -- what if we _started\_ a project as though we knew it would last for 10 years, or even longer? What different decisions might we make?
 
 BLACKFROST builds on a decade of construction, experimentation, and community-informed development of an experience we love dearly. It expands beyond the ego-centrism of THE LONG DARK and asks you, not how far you will go to survive, but how far will you go to survive for others?
 
@@ -70,45 +74,67 @@ But with BLACKFROST, we are pushing our philosophy and vision for survival forwa
 
 For now, please take a moment in your busy day to enjoy this view into the new world we are creating for you. I think it is as beautiful as it is dangerous, full of adventure, mystery, and opportunity. A place you want to survive in.
 
+<span id="features"></span><span id="Features"></span>
+
 ## Features
 
 BLACKFROST: The Long Dark 2 is the sequel to the hit survival game, THE LONG DARK, launched on Early Access and honed over 10 years of open development. It is the evolution of the survival sandbox, refining every aspect of the original, and introducing co-op to the formula. Conceived of and developed by Hinterland, the same creative team that brought you the original.
 
 The game will feature the return of various [Wildlife](./Wildlife.md) and Tools already familiar to those who have visited [Great Bear Island](./Great%20Bear%20Island.md).
 
+<span id="brave_new_world"></span><span id="Brave_New_World"></span><span id="brave-new-world"></span>
+
 ### Brave New World
 
 Experience the Quiet Apocalypse as survivors in the northern industrial city of Harmont and its vast environs. A year has passed since the Aurora first appeared in the sky, rendering all technology inert, with survivors just starting to emerge to face their new reality in its aftermath. Surrounded by a majestic, rugged wilderness, encounter the remnants of an isolated society still coming to terms with how the world has just been forever changed. How will you choose to survive?
+
+<span id="live_together._die_alone"></span><span id="Live_Together._Die_Alone"></span><span id="live-together-die-alone"></span>
 
 ### Live Together. Die Alone
 
 Survive as a lone wanderer in this frozen wasteland of city, town, forest, and farm, or huddle together as a group of survivors in whatever shelter you can make for yourselves. As solo players, decide how much you’ll learn to live with NPC survivor communities struggling to find their way in this harsh world. As co-op players, lean on each other and combine your skills and efforts to eke out another day of existence in the hostile environment. Alone or together, choose your own path to survival.
 
+<span id="the_next_generation_survival_rpg"></span><span id="The_Next-generation_Survival_RPG"></span><span id="the_next-generation_survival_rpg"></span><span id="the-next-generation-survival-rpg"></span>
+
 ### The Next-generation Survival RPG
 
 Built on the foundation of survival gameplay pioneered and perfected by THE LONG DARK over 10+ years of development, BLACKFROST evolves every aspect of the survival formula to its 2.0 iteration, setting the table for the next generation of survival games. Build your own survivor, customize traits and skills, collect scars and stories, and experience a life as a survivor in this beautiful yet dangerous world. Many games have tried to bring survival mechanics to their open-world RPGs, but BLACKFROST is the first survival game built ground-up as a survival RPG.
+
+<span id="urban_survival"></span><span id="Urban_Survival"></span><span id="urban-survival"></span>
 
 ### Urban Survival
 
 Experience the fantasy of wilderness survival at a 19th-century level of technology due to the aurora’s effects on the world and its inhabitants, and enjoy the same deep simulation of survival in nature from THE LONG DARK but with a new twist. Cities and towns offer new opportunities, and new hazards to your survival, introducing a fresh take on the established survival formula. The wilds are dangerous, but sometimes the city is where the real threats lie.
 
+<span id="the_will_to_live"></span><span id="The_Will_to_Live"></span><span id="the-will-to-live"></span>
+
 ### The Will to Live
 
 Survival is as much about what’s in your head as what’s in your pack. With BLACKFROST, your success is no longer just about your physical Condition. BLACKFROST’s new Will to Live system adds elements of psychological survival to the mix, introducing Resilience and its sub-stats to the well-established mechanics. Manage your doubts and fears, and find comfort in the small things if you want to survive.
+
+<span id="new_hazards"></span><span id="New_Hazards"></span><span id="new-hazards"></span>
 
 ### New Hazards
 
 Urban risks. The deep freeze of an intense northern winter. Extreme weather events. Aurora Storms. And the dreaded radioactive Blackfrost, emitted by the reactor complex looming on the horizon. Layered on the dangers from wildlife and other survivors you encounter along the way, BLACKFROST introduces a whole host of new hazards to the survival sandbox.
 
+<span id="permalife"></span><span id="Permalife"></span>
+
 ### Permalife
 
 The innovative Permalife system turns every death into a new adventure. Accumulate new risks and fears for your survivor as you move through the world and succumb to various hazards. Face your fears, overcome their downsides, and strengthen your Survivor’s story in the world. Make your mark. (Classic Permadeath still an option!)
+
+<span id="early_access"></span><span id="Early_Access"></span><span id="early-access"></span>
 
 ### Early Access
 
 BLACKFROST is being built using Early Access to maximize the player feedback loop and the team’s ability to iterate in a cycle of constant improvement. This builds on Hinterland’s longstanding reputation as a pioneer of the Early Access model with THE LONG DARK, being the first game to exist simultaneously on multiple early access platforms and on PC and console at the same time (Xbox Game Preview launch title in 2015). Similarly, BLACKFROST will be built a piece at a time, and will launch without the game’s complete planned world or feature set. We believe this is the ideal approach to work towards strength in community-informed iteration and development, but it’s not for everyone, so please make sure you are comfortable with this approach before you jump in! More details of how the team plans to handle roadmaps, timelines, and player feedback will be released closer to the 2026 launch.
 
+<span id="gameplay"></span><span id="Gameplay"></span>
+
 ## Gameplay
+
+<span id="videos"></span><span id="Videos"></span>
 
 ## Videos
 
@@ -116,7 +142,11 @@ BLACKFROST is being built using Early Access to maximize the player feedback loo
 
 _BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer_
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
+
+<span id="concept"></span><span id="Concept"></span>
 
 ### Concept
 
@@ -156,6 +186,8 @@ _BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer_
 
 ![Concept shared on Bluesky](../assets/BF_bsky_mar_16_2025.jpg)
 
+<span id="announcement_trailer"></span><span id="Announcement_Trailer"></span><span id="announcement-trailer"></span>
+
 ### Announcement Trailer
 
 ![BF announcement trailer forest scenery](../assets/BF_announcement_trailer_-_forest_scenery.png)
@@ -191,6 +223,8 @@ _BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer_
 ![BF announcement trailer powerplant](../assets/BF_announcement_trailer_-_powerplant.png)
 
 ![BF announcement trailer aurora](../assets/BF_announcement_trailer_-_aurora.gif)
+
+<span id="external_links"></span><span id="External_links"></span><span id="external-links"></span>
 
 ## External links
 

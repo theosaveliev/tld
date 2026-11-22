@@ -21,6 +21,8 @@
 - The only legitimate way to obtain Big Cat Killer is to clear out your survival profiles, play version 2.28 or 2.29 (versions with the old Cougar) and kill three Cougars in the same save file. This process is equivalent to having obtained the Feat in the old version during the short time it was available.
 - Big Cat Killer has been deemed a legacy Feat due to it "no longer seeming appropriate" for the reworked Cougar. It's planned to be replaced with a different "Cougar-related" Feat.
 
+<span id="instructions"></span><span id="Instructions"></span>
+
 ## Instructions
 
 The following instructions work for Steam only and require manual manipulation of saved game files, settings, and profile files. Great care should be taken to maintain full backups in case of a problem.

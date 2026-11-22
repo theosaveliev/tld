@@ -16,7 +16,7 @@ _For the raw version, see [Venison (Raw)](./Venison%20%28Raw%29.md)._
 
 [Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** No
 
@@ -42,11 +42,15 @@ _For the raw version, see [Venison (Raw)](./Venison%20%28Raw%29.md)._
 
 **Venison (Cooked)** is a cooked food item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Venison (Cooked) is obtained by using a lit [Fire](./Fire.md) and improves the [Cooking](./Cooking.md) skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of [Food Poisoning](./Food%20Poisoning.md) over raw meat.
 
 Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -60,6 +64,8 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 **Item:** [Venison (Raw)](./Venison%20%28Raw%29.md)
 
 **Quantity:** 1.00 kg
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -75,10 +81,14 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ![Old model](../assets/Venison_cooked.png)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - At 0% condition food disappears if inside of a container, but not outside of containers or in the player's inventory.
 - Meat decays slower outdoors than indoors.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

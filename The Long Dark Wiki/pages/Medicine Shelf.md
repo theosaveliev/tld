@@ -8,7 +8,7 @@
 
 **Release:** TBD
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Story item:** No
 
@@ -21,6 +21,8 @@
 **Object key:** GAMEPLAY\_MedicineShelf
 
 The **Medicine Shelf** is a type common type of container which can be found in most residential homes and only contains [First Aid](./First%20Aid.md) items such as [Antiseptic](./Antiseptic.md), [Bandages](./Bandage.md), [Antibiotics](./Antibiotics.md), and [Water Purification Tablets](./Water%20Purification%20Tablets.md). Medicine Shelves may also contain [Energy Bars](./Energy%20Bar.md).
+
+<span id="loot"></span><span id="Loot"></span>
 
 ## Loot
 

@@ -14,6 +14,8 @@
 
 Provides some shelter<br>**Smoker's Cave** is an unmarked cave in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The cave provides a warmth bonus, and is a good source of [Coal](./Coal.md). There is no other loot present. The cave is home to a [Bear](./Bear.md), caution is advised when exploring the cave. [Poisoned Wolves](./Poisoned%20Wolf.md) often patrol the area.

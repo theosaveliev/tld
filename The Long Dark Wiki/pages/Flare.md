@@ -34,6 +34,8 @@
 
 **Flares** are a multi-purpose tool in _The Long Dark_. They can be used as a light source, [firestarter](./Fire%20Starting.md), or frightening [wildlife](./Wildlife.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Once lit, flares burn for 1 hour (5 real minutes), providing light and warmth to the surrounding area. However, unlike the [Storm Lantern](./Storm%20Lantern.md) or [Torch](./Torch.md), they cannot be manually extinguished nor re-lit once ignited. Flares can be lit in [strong winds and blizzards](./Weather.md) and will not be extinguished by them, however walking under a waterfall with a lit flare will instantly extinguish it and "ruin" it with no ability to relight it.
@@ -42,6 +44,8 @@ Flares are effective at deterring [wolves](./Wolf.md), [timberwolves](./Timberwo
 
 Once a lit flare has consumed all its fuel it will become "Ruined" and have no further use, but will continue to weigh 0.25kg.
 
+<span id="usage"></span><span id="Usage"></span>
+
 ## Usage
 
 - Flares may be selected from from the Radial Menu (Radial&gt;Light Sources&gt;Flare), the Light Sources hotkey ("1"), or from the inventory.
@@ -49,6 +53,8 @@ Once a lit flare has consumed all its fuel it will become "Ruined" and have no f
 - Flares may be thrown while held ("RMB").
 
 Thrown Flares can be picked up even while burning, this makes them an effective tool against multiple wolves (as long as the flare can be retrieved). Flares can even be picked up after they are burned out, though they serve no purpose (marked in the inventory as "RUINED" and red 'X' icon) and will still contribute weight to one's inventory.
+
+<span id="animal_deterrence"></span><span id="Animal_Deterrence"></span><span id="animal-deterrence"></span>
 
 ## Animal Deterrence
 
@@ -62,6 +68,8 @@ Flares are effective at frightening wolves, deer and rabbits, and have limited u
 - Flares are more effective at deterring and scaring wolves than torches.
 - Bears are deterred by flares, stopping mid-charge just outside a 15 meter radius around the player, however they will continue to chase them until they reach safety (such as enter a vehicle, walk off a ledge etc) or the flare runs out and the bear attacks. Throwing the flare at a charging bear has no effect. Standing still for too long or not moving away quickly enough will provoke the bear to charge, ignoring the flare completely.
 
+<span id="frightening_wolves"></span><span id="Frightening_Wolves"></span><span id="frightening-wolves"></span>
+
 #### Frightening Wolves
 
 Below is an effective tactic for scaring wolves with lit torches or flares (either variety). This tactic will always work at frightening wolf (unlike thrown torches) and is easier to perform, especially against multiple wolves.
@@ -72,14 +80,20 @@ Below is an effective tactic for scaring wolves with lit torches or flares (eith
 - The wolf will flee.
 - Timberwolves will also flee temporarily, but because their pack's morale is not reduced they will quickly return, it can nevertheless be useful if you have to walk through the pack to get to a safe place, fleeing timberwolves temporarily can't attack you, unlike ones which are standing and growling.
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 Flares cannot be harvested, crafted, or repaired and are found uncommonly in all regions on or beside Frozen Corpses, in the trunks and glove compartments of Vehicles, or inside Structures (usually hidden beneath or between furniture).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
 - Flares are "Emergency Roadside Flares", a type of pyrotechnic used to designate roadside construction, traffic hazards, vehicular accidents, or vehicular distress.
 - Ignited Flares most are likely red from burning strontium salts.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

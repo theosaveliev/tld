@@ -6,7 +6,7 @@
 
 [Cannery Memo icon](../assets/Cannery_Memo_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Properties**
 
@@ -28,11 +28,13 @@
 
 **Cannery Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the locked door near the [Keypad](./Keypad.md) at the [Workshop](./Workshop.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Cannery Memo**_
 
-\[names scratched out\]
+[names scratched out]
 
 That old radio tower is supposed to relay the weather, but half the time the damn thing is offline. And since the landslide last summer we can't even get up the road anymore to check out what's going on.
 
@@ -46,7 +48,9 @@ And don't forget to get a copy of the workshop's door code while you're up there
 
 (illegible name\]
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

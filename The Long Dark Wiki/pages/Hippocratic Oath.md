@@ -10,9 +10,13 @@
 
 **Hippocratic Oath** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is an unmissable story achievement obtained after rescuing all [Crash Survivors](./Crash%20Survivor.md) Logan, Ava, and Wade and returning them to the [Community Hall](./Community%20Hall.md) and also stocking the cabinet with the required supplies during the mission [Coming Storm](./Coming%20Storm.md).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -20,7 +24,9 @@ This achievement is an unmissable story achievement obtained after rescuing all 
   - Healing Dimitri with [Insulin](./Insulin.md) by piercing his skin with a needle may satisfy this criteria.
   - Killing Timberwolves to save the Crash Survivors may also be considered a "Hippocratic Oath" to "not bring harm".
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

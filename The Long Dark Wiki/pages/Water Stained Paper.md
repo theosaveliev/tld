@@ -32,6 +32,8 @@
 
 in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Water Stained Paper**_
@@ -42,9 +44,11 @@ These damn, dark places every night. A bitter, cold. But I can't warm up.
 
 I have to wash it away. -THEY- knew it too, and they left. They all left.
 
-\[writing smudged out\]
+[writing smudged out]
 
 I can go deeper.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -40,6 +40,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Dried Apples** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Dried Apples can be consumed for up to 500 calories and weigh only 0.15 kg. It is only acquired when trading with the [Trader](./Trader.md).
@@ -49,11 +51,15 @@ Dried Apples cost the following when trading:
 - 12 ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
 - 2.00 L ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The back of the bag lists "Ingredients\_Apples No Additives No Preservatives."
 - The world model is different from the backpack icon, with the front of the package listing it originating from "[Pleasant Valley](./Pleasant%20Valley.md) Farms."
 
 ![3d model with "Pleasant Valley Farms" on it](../assets/Dried_Apples_3d_model.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

@@ -6,7 +6,7 @@
 
 [Airline Food Chicken icon](../assets/Airline_Food_-_Chicken_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** Yes
 
@@ -36,11 +36,15 @@
 
 **Airline Food - Chicken** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Airline Food - Chicken provides up to 620 calories of [energy](./Hunger.md) and 5% [hydration](./Thirst.md). When they were first released in the Crossroads Elegy update, they were exclusive to the area surrounding the [plane crash](./Crash%20Site%20%28Pleasant%20Valley%29.md) in [Pleasant Valley](./Pleasant%20Valley.md). As of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) update, this food can be found in the [Cargo Containers](./Cargo%20Container.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md), with their abundance affected by [Survival Mode](./Survival%20Mode.md).
 
 Airline Food - Chicken can cause [Food Poisoning](./Food%20Poisoning.md), and [decays](./Decay.md) more slowly when outdoors.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -48,7 +52,9 @@ Airline Food - Chicken can cause [Food Poisoning](./Food%20Poisoning.md), and [d
 - Airline Food - Chicken provides more calories than the [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md).
 - There is no option to heat this over a fire spot, and the item will not become "Hot" by dropping them on the ground near an active fire.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

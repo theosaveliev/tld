@@ -18,9 +18,13 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A small cave hidden by some bushes, a backpack can be found inside along with some wood. Some [cat tail](./Cat%20Tail.md) can be gathered along the frozen river that lead to [Little Bear and Cub Falls](./Little%20Bear%20and%20Cub%20Falls.md). [Research books](./Research%20Book.md) can be found inside the cave, and a [Bedroll](./Bedroll.md) can always be found here in all difficulties other than Interloper, which may prove useful to adventurers who forgot theirs and are too tired to make the climb out of the Lower Valley towards [Pensive Vista](./Pensive%20Vista.md) or [Many Falls Vista](./Many%20Falls%20Vista.md).
+
+<span id="use_as_a_base"></span><span id="Use_as_a_base"></span><span id="use-as-a-base"></span>
 
 ## Use as a [base](./Safehouse.md)
 

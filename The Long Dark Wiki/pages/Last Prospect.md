@@ -37,9 +37,13 @@ Firebox
 
 **Last Prospect** is a key location in [The Detonators](./The%20Detonators.md), the fourth mission in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) in [Wintermute](./Wintermute.md). In [Survival Mode](./Survival%20Mode.md), it contains the keypad code for the [Blackrock Prison](./Blackrock%20Prison.md) workshop door, along with [noisemakers](./Noisemaker.md) that, once picked up, grant the player the blueprint to craft them at the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Last Prospect gold mine is an abandoned gold mine located in the mountains in the northeast corner of [Blackrock](./Blackrock.md) region. To get there in the story mode, players can travel north along the eastern side of the map on the road, and then cross a ravine at the [Mule Bridge](./Mule%20Bridge.md) to reach one of two entrances. The second entrance to the area requires the player to make two rope climbs from the bottom of the ravine that runs through the center of the region, and is the only entrance that can be accessed in [Survival Mode](./Survival%20Mode.md). The mine contains noisemakers/the blueprint to craft them as well as the key code to the workshop in the prison, the mine is a must-visit for any players staying in Blackrock long term. The lower level can be explored with the aid of the [Elevator Crank](./Elevator%20Crank.md).
+
+<span id="navigation"></span><span id="Navigation"></span>
 
 ## Navigation
 
@@ -47,17 +51,23 @@ Once at the location, the player can enter the mine, which requires a light sour
 
 In Story mode, there are multiple sections with fog and short timers, and the player will need to clear sections of fog by opening air valves in order to progress. In Survival, there is only one long section with fog: the timer is generous for this part to compensate for the permadeath aspect. However, players will need to sprint and be unburdened in order to make it through this section safely. Once the player reaches the center floor of the mine, they can return through a different elevator and avoid making a return trip through the fog.
 
+<span id="suffocation"></span><span id="Suffocation"></span>
+
 ### [Suffocation](./Suffocation.md)
 
 Suffocation risk is a new status introduced in [The Detonators](./The%20Detonators.md) in Wintermute. It then appears again in [Donner](./Donner.md), and makes an appearance in Survival mode in the deepest area of the Last Prospect mine. When entering an area with poisonous fog or smoke, a timer will above the status bars in the bottom left corner of the screen, and the player's vision will begin to blur. If the timer reaches zero while the player is still in an area with fog or smoke, then the player will die _immediately, regardless of [condition](./Condition.md)_. By reaching clean air, the status will be cleared and the timer will disappear. In the mine, this risk appears when the player enters an area with poisonous fog.
 
 In Survival mode, there is ample time to get through the toxic fog as long as the player is not encumbered and can sprint most of, if not all the way. The use of an [Emergency Stim](./Emergency%20Stim.md) or [Go! Energy Drink](./Go!%20Energy%20Drink.md) can help if speed is a concern.
 
+<span id="resources"></span><span id="Resources"></span>
+
 ## Resources
 
 On the top floor, where both entrances into the mine meet, there is a supply closet that contains valuable resources. In Story mode, the closet is locked and requires the player to find clues left by the Forest Talkers throughout the mine. In Survival, this is where the noisemakers can be found. Picking up a noisemaker will unlock the crafting blueprint, allowing the player to make their own.
 
 If the player travels deep into the mine and braves the toxic gases to reach the second floor, they will be rewarded with a note that contains the key code for the workshop door back at the prison. Much like [Bleak Inlet](./Bleak%20Inlet.md), the player needs to retrieve this note and wait for an [Aurora](./Aurora.md) before they can open the door. Once this door has been opened once, it can be opened and closed freely. The workshop, much like the one in Bleak Inlet, contains both an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) and a [Milling Machine](./Milling%20Machine.md). While the milling machine requires an aurora to use, the ammunition work bench may be used at any time. Unlike Bleak Inlet, a rope climb is not required to reach the workshop, which allows players to lug materials there with greater ease. These advantages mean that, in easier difficulties, when combined with readily available [car batteries](./Car%20Battery.md) to harvest for [Scrap Lead](./Scrap%20Lead.md) and the high spawn rate of [gunpowder](./Can%20of%20Gunpowder.md)/its respective crafting materials throughout the region, it is easy to reach [Gunsmithing](./Gunsmithing.md) 5 and craft a supply of ammunition.
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -66,6 +76,8 @@ If the player travels deep into the mine and braves the toxic gases to reach the
 - Craft [Improvised Crampons](./Improvised%20Crampons.md) before attempting the journey, with 3 ropes (one down, two up) and then 2 ropes (down) + 1 (up) if you want to climb above [Blackrock Prison](./Blackrock%20Prison.md) to avoid [Timberwolves](./Timberwolf.md) on the way back, they are a sound investment. The [Blackrock Prison](./Blackrock%20Prison.md) and tunnels provide ample [Scrap Metal](./Scrap%20Metal.md) and [Leather](./Cured%20Leather.md)/harvestable footwear.
 - There are two routes to reach the bottom of the rope climbs: following the frozen creek upstream from the bridge leading to [Cook's Farm](./Cook%27s%20Farm.md) or by climbing down from [Fool's Corner](./Fool%27s%20Corner.md). The former route is shorter and safer, but you will miss some loot on the eastern side of the region, as a one-way descent prevents access to the uppermost part of the river where the [Fool's Corner](./Fool%27s%20Corner.md) rope is located. Potential loot in this area includes a [Military-Grade MRE](./Military-Grade%20MRE.md) and [Go! Energy Drink](./Go!%20Energy%20Drink.md) inside of a crate underneath the fallen bridge. A [Hunting Rifle](./Hunting%20Rifle.md)/[Rifle Ammunition](./Rifle%20Ammunition.md) can spawn in the collapsed railway tunnel near the bridge connection above the river, and there is also a corpse and backpack at the top of this rope.
 - Multiple wolves spawn underneath the rope climbs: try to time your descent to avoid being detected and have a window to react. It might even be easier to kill the wolves before climbing up, as there is a cave nearby for regaining Condition than to risk a surprise confrontation when tired from descending as you will have to travel through here when going back.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -38,6 +38,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Alice McLeod.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 7**_
@@ -85,5 +87,7 @@ When you see them, you'll understand.
 For now...take the train. Handle it carefully. It's a century old and fragile, and it's your only hope of getting to me.
 
 Good luck.
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

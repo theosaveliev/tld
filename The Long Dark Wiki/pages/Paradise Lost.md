@@ -33,11 +33,15 @@
 
 **Paradise Lost** is the fourth and final mission in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) leaves [Milton](./Milton.md) and finds a way through the mountains to bypass the [tunnel collapse](./Crashed%20Prison%20Transport%20Bus.md) in his continuous search for [Astrid](./Astrid%20Greenwood.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Retrieve the climbing gear from Lily's trunk.
 - Find the climbing area on the outskirts of Milton.
 - Find your way through the mountains.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -47,9 +51,13 @@ At the bottom, the player will encounter [Methuselah](./Methuselah.md). His dial
 
 Continue exploring and find a rope going back up another rock wall on the other side of the valley. Further exploration will lead to a cave that tunnels through the mountains. The cave is dark, but fairly linear. Upon exiting the cave, a short cutscene will start. Will immediately sees a [man](./Jeremiah.md) being attacked by a [bear](./Old%20Bear.md), and a hunting rifle that has dropped to the ground. He picks it up, aims and fires, ending Episode 1.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

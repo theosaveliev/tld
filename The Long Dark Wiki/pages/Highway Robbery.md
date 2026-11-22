@@ -8,7 +8,7 @@ _For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%2
 
 [Highway Robbery icon](../assets/Highway_Robbery_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Highway Robbery](./Highway%20Robbery%20%28mission%29.md)
 
@@ -38,6 +38,8 @@ _For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%2
 
 During the course of the mission, the surivor finds the note _Highway Robbery_ from the [Orca Gas Station](./Orca%20Gas%20Station.md) outside [Milton](./Milton.md), and investigates an abandonded truck on [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Highway Robbery**_
@@ -50,8 +52,10 @@ Thanks,
 
 Peter
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
   - Added to game.

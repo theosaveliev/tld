@@ -6,7 +6,7 @@
 
 [Grey Mother's Safety Deposit Box icon](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md)
 
@@ -36,7 +36,9 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) retrieves Grey Mother's Safety Deposit Box from the [Milton Credit Union](./Milton%20Credit%20Union.md) in [Milton](./Milton.md), and returns it to [Grey Mother](./Grey%20Mother.md) at [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

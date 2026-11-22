@@ -38,6 +38,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Chief Engineer Best.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 16**_
@@ -67,5 +69,7 @@ I can't imagine the contrast myself.
 In any case, there may be some promise to the notion of a portable wax cylinder recorder. I'll have to investigate more closely, and see if we can improve on Murphy's design.
 
 Might be a superior medium for recording technical logs, as this climate is not friendly to paper.
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

@@ -43,11 +43,15 @@
 
 Not available in Interloper mode.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model](../assets/Gauntlets_Model_icon.png)
 
 ![Clothing model damaged](../assets/Gauntlets_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

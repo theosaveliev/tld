@@ -30,6 +30,8 @@
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found inside the [Fukkatsu Maru](./Fukkatsu%20Maru.md) during the main mission [A Cry For Help](./A%20Cry%20For%20Help.md). It is found in lowest deck's engine room, under the corpse of the hanged man.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Note**_
@@ -39,6 +41,8 @@ I hear them.
  Black tides, black water. Endless wailing.  
  I can't go in the water.  
  Not me, not me...send me deep but not there. Not again.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

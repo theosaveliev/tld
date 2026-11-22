@@ -37,11 +37,17 @@
 
 **Clothing** is the term for items that can be equipped to provide bonuses to the player throughout their playthrough. Clothing does not have any requirements to wear. A player's total clothing bonus can be seen on the status screen.
 
+<span id="obtaining_clothing"></span><span id="Obtaining_clothing"></span><span id="obtaining-clothing"></span>
+
 ## Obtaining clothing
 
 In all difficulty levels, the player will start out with a few items of low-grade clothing. In the early game, one of the highest priorities is finding good quality clothing. It's possible to find clothing nearly everywhere, but some of the most common locations where clothing may be found include houses (bedrooms in particular), cabins, lockers, car trunks, suitcases, and [Frozen Corpses](./Frozen%20Corpse.md). If the player is struggling to find clothing, specific locations to search include [Coastal Townsite](./Coastal%20Townsite.md) in [Coastal Highway](./Coastal%20Highway.md), the [plane crash](./Crash%20Site%20%28Pleasant%20Valley%29.md) in [Pleasant Valley](./Pleasant%20Valley.md), the town of [Milton](./Milton.md), or the [Cargo Containers](./Cargo%20Container.md) found at the [Summit](./Summit.md) (bring a [Hacksaw](./Hacksaw.md) for here).
 
+<span id="clothing_attributes"></span><span id="Clothing_attributes"></span><span id="clothing-attributes"></span>
+
 ## Clothing attributes
+
+<span id="warmth"></span><span id="Warmth"></span>
 
 ### Warmth
 
@@ -199,6 +205,8 @@ Shoes
 
 3.0 °C<br>_(5.4 °F)_
 
+<span id="windproof"></span><span id="Windproof"></span>
+
 ### Windproof
 
 ![Windproofness icon](../assets/Windproofness_icon.png) The **Windproof** bonus provided by clothing protects against the additional heat loss experienced by the player due to windchill. Even when your gear's warmth rating is higher than the environmental temperature, when its windproof rating is lower than the windchill, you will lose heat. The windproof effect only increases the "Feels Like" temperature by the absolute number of degrees of windchill affecting the player.
@@ -288,6 +296,8 @@ Shoes
 [Ski Boots](./Ski%20Boots.md)
 
 4.0 °C<br>_(7.2 °F)_
+
+<span id="waterproof"></span><span id="Waterproof"></span>
 
 ### Waterproof
 
@@ -462,6 +472,8 @@ Shoes
 
 60%
 
+<span id="protection"></span><span id="Protection"></span>
+
 ### Protection
 
 ![Protection icon](../assets/Protection_icon.png) The **Protection** bonus provided by clothing provides a reduction in physical damage that the player may experience through falls, burns, or attacks from wildlife.
@@ -549,6 +561,8 @@ Shoes
 [Ski Boots](./Ski%20Boots.md)/[Combat Boots](./Combat%20Boots.md)
 
 10%
+
+<span id="mobility"></span><span id="Mobility"></span>
 
 ### Mobility
 
@@ -644,9 +658,13 @@ Shoes
 
 -20%
 
+<span id="condition"></span><span id="Condition"></span>
+
 ### Condition
 
 ![Item condition icon](../assets/Item_condition_icon.png) The **Condition** of clothing affects how well it does the job it's designed to do. As clothing deteriorates, it will contribute less to the players warmth and windchill protection. A piece of clothing at 50% condition rated for +2.0 degrees of warmth will only contribute +1.0 degrees. If clothing reaches 0% condition, it will become Ruined and can't be repaired, though it can still be harvested for raw materials.
+
+<span id="weight"></span><span id="Weight"></span>
 
 ### Weight
 
@@ -804,9 +822,13 @@ Shoes
 
 2.00 kg<br>_(4.4 lb)_
 
+<span id="layering"></span><span id="Layering"></span>
+
 ## Layering
 
 ![Outer and inner layers](../assets/Outer_and_inner_layers.jpg)_Outer and inner layers_ Effects in which the game elements affect the clothing are represented by the order of numbers (the lowest numbers are affected first and the highest numbers are affected last).
+
+<span id="clothing_by_slot"></span><span id="Clothing_by_slot"></span><span id="clothing-by-slot"></span>
 
 ## Clothing by slot
 
@@ -814,29 +836,35 @@ Shoes
 
 Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 
+<span id="head"></span><span id="Head"></span>
+
 ### Head
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Aviator Cap icon](../assets/Aviator_Cap_icon.png) | [Aviator Cap](./Aviator%20Cap.md) | 2.0 °C<br>_(3.6 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 4% | 0% | 0.30 kg<br>_(0.66 lb)_ | 6.67 °C/kg<br>_(5.44 °F/lb)_ |
 | [Astrid's Toque icon](../assets/Astrid%27s_Toque_icon.png) | _[Astrid's Toque](./Astrid%27s%20Toque.md)_ | 1.5 °C<br>_(2.7 °F)_ | 0.75 °C<br>_(1.4 °F)_ | 30% | 2% | 0% | 0.15 kg<br>_(0.33 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
-| [Balaclava icon](../assets/Balaclava_icon.png) | [Balaclava](./Balaclava.md) [¹](#fn1) | 2.0 °C<br>_(3.6 °F)_ | 1.5 °C<br>_(2.7 °F)_ | 30% | 3% | 0% | 0.25 kg<br>_(0.55 lb)_ | 8 °C/kg<br>_(6.53 °F/lb)_ |
+| [Balaclava icon](../assets/Balaclava_icon.png) | [Balaclava](./Balaclava.md) <span id="fnref1"></span>[¹](#fn1) | 2.0 °C<br>_(3.6 °F)_ | 1.5 °C<br>_(2.7 °F)_ | 30% | 3% | 0% | 0.25 kg<br>_(0.55 lb)_ | 8 °C/kg<br>_(6.53 °F/lb)_ |
 | [Baseball Cap icon](../assets/Baseball_Cap_icon.png) | [Baseball Cap](./Baseball%20Cap.md) | 0.5 °C<br>_(0.9 °F)_ | 0.0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.10 kg<br>_(0.22 lb)_ | 5 °C/kg<br>_(4.08 °F/lb)_ |
 | [Cotton Scarf icon](../assets/Cotton_Scarf_icon.png) | [Cotton Scarf](./Cotton%20Scarf.md) | 0.5 °C<br>_(0.9 °F)_ | 0.0 °C<br>_(0 °F)_ | 5% | 0% | 0% | 0.10 kg<br>_(0.22 lb)_ | 5 °C/kg<br>_(4.08 °F/lb)_ |
 | [Cotton Toque icon](../assets/Cotton_Toque_icon.png) | [Cotton Toque](./Cotton%20Toque.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 10% | 1% | 0% | 0.10 kg<br>_(0.22 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
-| [Cougar Hide Wrap icon](../assets/Cougar_Hide_Wrap_icon.png) | [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) [²](#fn2) | 4.0 °C<br>_(7.2 °F)_ | 4.0 °C<br>_(7.2 °F)_ | 40% | 6% | 0% | 1.00 kg<br>_(2.2 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
+| [Cougar Hide Wrap icon](../assets/Cougar_Hide_Wrap_icon.png) | [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) <span id="fnref2"></span>[²](#fn2) | 4.0 °C<br>_(7.2 °F)_ | 4.0 °C<br>_(7.2 °F)_ | 40% | 6% | 0% | 1.00 kg<br>_(2.2 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 | [Fleece Cowl icon](../assets/Fleece_Cowl_icon.png) | [Fleece Cowl](./Fleece%20Cowl.md) | 1.5 °C<br>_(2.7 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 20% | 2% | 0% | 0.25 kg<br>_(0.55 lb)_ | 6 °C/kg<br>_(4.9 °F/lb)_ |
 | [Hardhat icon](../assets/Hardhat_icon.png) | [Hardhat](./Hardhat.md) | 0 °C<br>_(0 °F)_ | 0 °C<br>_(0 °F)_ | 30% | 4% | 0% | 0.40 kg<br>_(0.88 lb)_ | 0 °C/kg<br>_(0 °F/lb)_ |
 | [Improvised Head Wrap icon](../assets/Improvised_Head_Wrap_icon.png) | [Improvised Head Wrap](./Improvised%20Head%20Wrap.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 0% | 0.5% | 0% | 0.10 kg<br>_(0.22 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
 | [Long Wool Scarf icon](../assets/Long_Wool_Scarf_icon.png) | [Long Wool Scarf](./Long%20Wool%20Scarf.md) | 1.5 °C<br>_(2.7 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 30% | 1% | 0% | 0.25 kg<br>_(0.55 lb)_ | 6 °C/kg<br>_(4.9 °F/lb)_ |
 | [Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png) | _[Mackenzie's Toque](./Mackenzie%27s%20Toque.md)_ | 1.5 °C<br>_(2.7 °F)_ | 0.75 °C<br>_(1.4 °F)_ | 30% | 2% | 0% | 0.15 kg<br>_(0.33 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
-| [Rabbitskin Hat icon](../assets/Rabbitskin_Hat_icon.png) | [Rabbitskin Hat](./Rabbitskin%20Hat.md) [³](#fn3) | 2.0 °C<br>_(3.6 °F)_ | 1.5 °C<br>_(2.7 °F)_ | 30% | 4% | 0% | 0.35 kg<br>_(0.77 lb)_ | 5.71 °C/kg<br>_(4.67 °F/lb)_ |
-| [Technical Balaclava icon](../assets/Technical_Balaclava_icon.png) | [Technical Balaclava](./Technical%20Balaclava.md) [⁴](#fn4) | 2.0 °C<br>_(3.6 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 50% | 5% | 0% | 0.20 kg<br>_(0.44 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
+| [Rabbitskin Hat icon](../assets/Rabbitskin_Hat_icon.png) | [Rabbitskin Hat](./Rabbitskin%20Hat.md) <span id="fnref3"></span>[³](#fn3) | 2.0 °C<br>_(3.6 °F)_ | 1.5 °C<br>_(2.7 °F)_ | 30% | 4% | 0% | 0.35 kg<br>_(0.77 lb)_ | 5.71 °C/kg<br>_(4.67 °F/lb)_ |
+| [Technical Balaclava icon](../assets/Technical_Balaclava_icon.png) | [Technical Balaclava](./Technical%20Balaclava.md) <span id="fnref4"></span>[⁴](#fn4) | 2.0 °C<br>_(3.6 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 50% | 5% | 0% | 0.20 kg<br>_(0.44 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
 | [Wool Scarf icon](../assets/Wool_Scarf_icon.png) | [Wool Scarf](./Wool%20Scarf.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 20% | 1% | 0% | 0.10 kg<br>_(0.22 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
-| [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) | [Wolfskin Hat](./Wolfskin%20Hat.md) [⁵](#fn5) | 3.0 °C<br>_(5.4 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 4% | 0% | 1.00 kg<br>_(2.2 lb)_ | 3 °C/kg<br>_(2.45 °F/lb)_ |
+| [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) | [Wolfskin Hat](./Wolfskin%20Hat.md) <span id="fnref5"></span>[⁵](#fn5) | 3.0 °C<br>_(5.4 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 4% | 0% | 1.00 kg<br>_(2.2 lb)_ | 3 °C/kg<br>_(2.45 °F/lb)_ |
 | [Wool Toque icon](../assets/Wool_Toque_icon.png) | [Wool Toque](./Wool%20Toque.md) | 2.0 °C<br>_(3.6 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 30% | 2% | 0% | 0.25 kg<br>_(0.55 lb)_ | 8 °C/kg<br>_(6.53 °F/lb)_ |
 
+<span id="torso"></span><span id="Torso"></span>
+
 ### Torso
+
+<span id="outer"></span><span id="Outer"></span>
 
 #### Outer
 
@@ -844,7 +872,7 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png) | _[Astrid's Jacket](./Astrid%27s%20Jacket.md)_ | 2.0 °C<br>_(3.6 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 3% | -4% | 1.25 kg<br>_(2.75 lb)_ | 1.6 °C/kg<br>_(1.31 °F/lb)_ |
 | [Bearskin Coat icon](../assets/Bearskin_Coat_icon.png) | [Bearskin Coat](./Bearskin%20Coat.md) | 6.0 °C<br>_(10.8 °F)_ | 5.0 °C<br>_(9 °F)_ | 80% | 15% | -20% | 5.00 kg<br>_(11 lb)_ | 1.2 °C/kg<br>_(0.98 °F/lb)_ |
-| [Down Vest icon](../assets/Down_Vest_icon.png) | [Down Vest](./Down%20Vest.md) [⁶](#fn6) | 1.0 °C<br>_(1.8 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 10% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
+| [Down Vest icon](../assets/Down_Vest_icon.png) | [Down Vest](./Down%20Vest.md) <span id="fnref6"></span>[⁶](#fn6) | 1.0 °C<br>_(1.8 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 10% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
 | [Expedition Parka icon](../assets/Expedition_Parka_icon.png) | [Expedition Parka](./Expedition%20Parka.md) | 4.0 °C<br>_(7.2 °F)_ | 6.0 °C<br>_(10.8 °F)_ | 50% | 6% | -5% | 1.50 kg<br>_(3.3 lb)_ | 2.67 °C/kg<br>_(2.18 °F/lb)_ |
 | [Flight Jacket icon](../assets/Flight_Jacket_icon.png) | [Flight Jacket](./Flight%20Jacket.md) | 3.0 °C<br>_(5.4 °F)_ | 5.0 °C<br>_(9 °F)_ | 50% | 10% | -5% | 2.50 kg<br>_(5.5 lb)_ | 1.2 °C/kg<br>_(0.98 °F/lb)_ |
 | [Light Shell icon](../assets/Light_Shell_icon.png) | [Light Shell](./Light%20Shell.md) | 1.0 °C<br>_(1.8 °F)_ | 3.0 °C<br>_(5.4 °F)_ | 30% | 3% | -2% | 1.00 kg<br>_(2.2 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
@@ -857,11 +885,13 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Old Fashioned Parka icon](../assets/Old_Fashioned_Parka_icon.png) | [Old Fashioned Parka](./Old%20Fashioned%20Parka.md) | 3.0 °C<br>_(5.4 °F)_ | 3.0 °C<br>_(5.4 °F)_ | 20% | 5% | -7% | 2.00 kg<br>_(4.4 lb)_ | 1.5 °C/kg<br>_(1.22 °F/lb)_ |
 | [Simple Parka icon](../assets/Simple_Parka_icon.png) | [Simple Parka](./Simple%20Parka.md) | 2.0 °C<br>_(3.6 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 3% | -4% | 1.25 kg<br>_(2.75 lb)_ | 1.6 °C/kg<br>_(1.31 °F/lb)_ |
 | [Ski Jacket icon](../assets/Ski_Jacket_icon.png) | [Ski Jacket](./Ski%20Jacket.md) | 2.0 °C<br>_(3.6 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 30% | 3% | -2% | 1.00 kg<br>_(2.2 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
-| [Sport Vest icon](../assets/Sport_Vest_icon.png) | [Sport Vest](./Sport%20Vest.md) [⁷](#fn7) | 0.5 °C<br>_(0.9 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 5% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
+| [Sport Vest icon](../assets/Sport_Vest_icon.png) | [Sport Vest](./Sport%20Vest.md) <span id="fnref7"></span>[⁷](#fn7) | 0.5 °C<br>_(0.9 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 5% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 | [Tactical Jacket icon](../assets/Tactical_Jacket_icon.png) | [Tactical Jacket](./Tactical%20Jacket.md) | 2.0 °C<br>_(3.6 °F)_ | 4.0 °C<br>_(7.2 °F)_ | 50% | 15% | -4% | 2.00 kg<br>_(4.4 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 | [Urban Parka icon](../assets/Urban_Parka_icon.png) | [Urban Parka](./Urban%20Parka.md) | 2.5 °C<br>_(4.5 °F)_ | 2.0 °C<br>_(3.6 °F)_ | 10% | 2% | -2% | 1.00 kg<br>_(2.2 lb)_ | 2.5 °C/kg<br>_(2.04 °F/lb)_ |
 | [Windbreaker icon](../assets/Windbreaker_icon.png) | [Windbreaker](./Windbreaker.md) | 0.5 °C<br>_(0.9 °F)_ | 3.0 °C<br>_(5.4 °F)_ | 50% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) | [Wolfskin Coat](./Wolfskin%20Coat.md) | 4.0 °C<br>_(7.2 °F)_ | 4.0 °C<br>_(7.2 °F)_ | 60% | 12% | -15% | 3.00 kg<br>_(6.6 lb)_ | 1.33 °C/kg<br>_(1.09 °F/lb)_ |
+
+<span id="inner"></span><span id="Inner"></span>
 
 #### Inner
 
@@ -886,6 +916,8 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [T Shirt (Snappy) icon](../assets/T-Shirt_%28Snappy%29_icon.png) | [T-Shirt (Snappy)](./T-Shirt%20%28Snappy%29.md) | 0.5 °C<br>_(0.9 °F)_ | 0.0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
 | [Wool Shirt icon](../assets/Wool_Shirt_icon.png) | [Wool Shirt](./Wool%20Shirt.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 40% | 2% | 0% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
+<span id="hands"></span><span id="Hands"></span>
+
 ### Hands
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -904,7 +936,11 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Wool Mittens icon](../assets/Wool_Mittens_icon.png) | [Wool Mittens](./Wool%20Mittens.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 20% | 1% | 0% | 0.10 kg<br>_(0.22 lb)_ | 10 °C/kg<br>_(8.16 °F/lb)_ |
 | [Work Gloves icon](../assets/Work_Gloves_icon.png) | [Work Gloves](./Work%20Gloves.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 0% | 4% | -2% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
+<span id="legs"></span><span id="Legs"></span>
+
 ### Legs
+
+<span id="outer_1"></span><span id="outer-1"></span>
 
 #### Outer
 
@@ -921,6 +957,8 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) | [Wolfskin Pants](./Wolfskin%20Pants.md) | 3.0 °C<br>_(5.4 °F)_ | 1.5 °C<br>_(2.7 °F)_ | 50% | 10% | -5% | 2.50 kg<br>_(5.5 lb)_ | 1.2 °C/kg<br>_(0.98 °F/lb)_ |
 | [Work Pants icon](../assets/Work_Pants_icon.png) | [Work Pants](./Work%20Pants.md) | 1.5 °C<br>_(2.7 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 10% | 8% | -3% | 1.50 kg<br>_(3.3 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 
+<span id="inner_1"></span><span id="inner-1"></span>
+
 #### Inner
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -928,7 +966,11 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Thermal Underwear icon](../assets/Thermal_Underwear_icon.png) | [Thermal Underwear](./Thermal%20Underwear.md) | 1.0 °C<br>_(1.8 °F)_ | 0.0 °C<br>_(0 °F)_ | 20% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) | [Wool Longjohns](./Wool%20Longjohns.md) | 2.0 °C<br>_(3.6 °F)_ | 0.0 °C<br>_(0 °F)_ | 35% | 1% | 0% | 0.50 kg<br>_(1.1 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
+<span id="feet"></span><span id="Feet"></span>
+
 ### Feet
+
+<span id="inner_2"></span><span id="inner-2"></span>
 
 #### Inner
 
@@ -940,6 +982,8 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Patterned Wool Socks (Plaid) icon](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png) | [Patterned Wool Socks (Plaid)](./Patterned%20Wool%20Socks%20%28Plaid%29.md) | 0.5 °C<br>_(0.9 °F)_ | 0 °C<br>_(0 °F)_ | 20% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
 | [Sports Socks icon](../assets/Sports_Socks_icon.png) | [Sports Socks](./Sports%20Socks.md) | 0.25 °C<br>_(0.5 °F)_ | 0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.10 kg<br>_(0.22 lb)_ | 2.5 °C/kg<br>_(2.04 °F/lb)_ |
 | [Wool Socks icon](../assets/Wool_Socks_icon.png) | [Wool Socks](./Wool%20Socks.md) | 0.5 °C<br>_(0.9 °F)_ | 0 °C<br>_(0 °F)_ | 20% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 2 °C/kg<br>_(1.63 °F/lb)_ |
+
+<span id="outer_2"></span><span id="outer-2"></span>
 
 #### Outer
 
@@ -959,6 +1003,8 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Trail Boots icon](../assets/Trail_Boots_icon.png) | [Trail Boots](./Trail%20Boots.md) | 1.0 °C<br>_(1.8 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 30% | 5% | -3% | 1.00 kg<br>_(2.2 lb)_ | 1 °C/kg<br>_(0.82 °F/lb)_ |
 | [Work Boots icon](../assets/Work_Boots_icon.png) | [Work Boots](./Work%20Boots.md) | 2.0 °C<br>_(3.6 °F)_ | 1.0 °C<br>_(1.8 °F)_ | 5% | 7% | -10% | 1.50 kg<br>_(3.3 lb)_ | 1.33 °C/kg<br>_(1.09 °F/lb)_ |
 
+<span id="accessories"></span><span id="Accessories"></span>
+
 ### Accessories
 
 | [Clothing](../assets/Clothing.png) | Item | [Temp icon](../assets/Temp_icon.png) | [Windproofness icon](../assets/Windproofness_icon.png) | [Waterproofness icon](../assets/Waterproofness_icon.png) | [Protection icon](../assets/Protection_icon.png) | [Mobility icon](../assets/Mobility_icon.png) | [Weight icon](../assets/Weight_icon.png) | Weight Ratio |
@@ -972,15 +1018,24 @@ Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
 | [Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) | 0 °C<br>_(0 °F)_ | 0 °C<br>_(0 °F)_ | 0% | 0% | 0% | 0.25 kg<br>_(0.55 lb)_ | 0 °C/kg<br>_(0 °F/lb)_ |
 | [Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 1.0 °C<br>_(1.8 °F)_ | 0.5 °C<br>_(0.9 °F)_ | 20% | 1% | 0% | 0.25 kg<br>_(0.55 lb)_ | 4 °C/kg<br>_(3.27 °F/lb)_ |
 
+<span id="cut_clothing"></span><span id="Cut_Clothing"></span><span id="cut-clothing"></span>
+
 ### Cut Clothing
 
 | [Clothing](../assets/Clothing.png) | Item | [Weight icon](../assets/Weight_icon.png) |
 | --- | --- | --- |
 | [Jeremiah's Bearskin Coat icon](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) | [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) | 5.00 kg<br>_(11 lb)_ |
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Can only be worn in the inner of the two slots. It is therefore impossible to wear two at once.[↩︎](#fnref1)
-3. Can only be worn in the outer of the two slots. It is therefore impossible to wear two at once.[↩︎](#fnref3)
+1. <span id="fn1"></span>Can only be worn in the inner of the two slots. It is therefore impossible to wear two at once.[↩︎](#fnref1)
+2. <span id="fn2"></span>
+3. <span id="fn3"></span>Can only be worn in the outer of the two slots. It is therefore impossible to wear two at once.[↩︎](#fnref3)
+4. <span id="fn4"></span>
+5. <span id="fn5"></span>
+6. <span id="fn6"></span>
+7. <span id="fn7"></span>

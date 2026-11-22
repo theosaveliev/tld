@@ -53,6 +53,8 @@ Using Stalker difficulty as a base, items decay at 80% on Voyageur and 25% as fa
 
 The decay values in the tables below are based on Stalker difficulty and are extracted from the game files.
 
+<span id="food_and_drink"></span><span id="Food_and_Drink"></span><span id="food-and-drink"></span>
+
 ## Food and Drink
 
 [Food](./Food%20And%20Drink.md) decays at different rates, depending on whether it is stored outside or inside. Currently, the game also considers sheltered locations without a loading screen, such as the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), the [Forestry Lookout](./Forestry%20Lookout.md) or caves, to be **outside**.
@@ -66,6 +68,8 @@ Food items feature a unique status title next to the item names that is determin
 - _Banged Up_ - \*39-20%
 - _Rusty_ - \*19-5%
 - _Ruined_ - \*4-0%
+
+<span id="packaged_food"></span><span id="Packaged_Food"></span><span id="packaged-food"></span>
 
 ### Packaged Food
 
@@ -173,6 +177,8 @@ Eating food with yellow or red decay ranges can inflict [Food Poisoning](./Food%
 | [Water (Unsafe)](./Water%20%28Unsafe%29.md) | 0.000 | 0.000 | Any |
 | [Water (Potable)](./Water%20%28Potable%29.md) | 0.000 | 0.000 | Any |
 
+<span id="recipes"></span><span id="Recipes"></span>
+
 ### Recipes
 
 | Name | Decay inside (%/day) | Decay outside (%/day) | Best stored |
@@ -203,6 +209,8 @@ Eating food with yellow or red decay ranges can inflict [Food Poisoning](./Food%
 | [Venison Pie](./Venison%20Pie.md) | 20.000 | 5.000 | Outside |
 | [Venison Stew](./Venison%20Stew.md) | 20.000 | 5.000 | Outside |
 
+<span id="ingredients"></span><span id="Ingredients"></span>
+
 ### Ingredients
 
 | Name | Decay inside (%/day) | Decay outside (%/day) | Best stored |
@@ -215,6 +223,8 @@ Eating food with yellow or red decay ranges can inflict [Food Poisoning](./Food%
 | [Salt](./Salt.md) | 0.000 | 0.000 | Any |
 | [Potato](./Potato.md) | 0.500 | 0.500 | Any |
 
+<span id="quartering"></span><span id="Quartering"></span>
+
 ### Quartering
 
 | Name | Decay inside (%/day) | Decay outside (%/day) | Best stored |
@@ -226,6 +236,8 @@ Eating food with yellow or red decay ranges can inflict [Food Poisoning](./Food%
 | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 10.000 | 10.000 | Any |
 | [Rabbit Carcass](./Rabbit%20Carcass.md) | 10.000 | 10.000 | Any |
 | [Wolf Quarter](./Wolf.md) | 10.000 | 10.000 | Any |
+
+<span id="clothing"></span><span id="Clothing"></span>
 
 ## Clothing
 
@@ -241,6 +253,8 @@ The overall item condition will affect the status next to the clothing name, whi
 - _Ruined_ - \*9-0%
 
 Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Torn%20Clothing.md).
+
+<span id="wintermute_clothing"></span><span id="Wintermute_Clothing"></span><span id="wintermute-clothing"></span>
 
 ### Wintermute Clothing
 
@@ -259,6 +273,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Mackenzie's Pants](./Mackenzie%27s%20Pants.md) | 0.100 | 0.250 | 0.500 |
 | [Mackenzie's Shirt](./Mackenzie%27s%20Shirt.md) | 0.250 | 0.250 | 0.500 |
 | [Mackenzie's Sweater](./Mackenzie%27s%20Sweater.md) | 0.250 | 0.250 | 0.500 |
+
+<span id="hats_and_scarves"></span><span id="Hats_and_Scarves"></span><span id="hats-and-scarves"></span>
 
 ### Hats and Scarves
 
@@ -280,6 +296,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Wool Scarf](./Wool%20Scarf.md) | 0.100 | 0.250 | 1.000 |
 | [Wool Toque](./Wool%20Toque.md) | 0.133 | 0.333 | 1.333 |
 
+<span id="gloves"></span><span id="Gloves"></span>
+
 ### Gloves
 
 | Name | Decay when stored (%/day) | Worn inside (%/day) | Worn outside (%/day) |
@@ -293,6 +311,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Tactical Gloves](./Tactical%20Gloves.md) | 0.020 | 0.200 | 0.400 |
 | [Wool Mittens](./Wool%20Mittens.md) | 0.250 | 0.750 | 1.000 |
 | [Work Gloves](./Work%20Gloves.md) | 0.167 | 0.333 | 0.667 |
+
+<span id="shirts_and_sweaters"></span><span id="Shirts_and_Sweaters"></span><span id="shirts-and-sweaters"></span>
 
 ### Shirts and Sweaters
 
@@ -310,6 +330,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 0.067 | 0.167 | 0.667 |
 | [T-Shirt](./T-Shirt.md) | 0.500 | 1.500 | 2.000 |
 | [Wool Shirt](./Wool%20Shirt.md) | 0.167 | 0.500 | 0.667 |
+
+<span id="coats_vests_and_jackets"></span><span id="Coats,_Vests,_and_Jackets"></span><span id="coats,_vests,_and_jackets"></span><span id="coats-vests-and-jackets"></span>
 
 ### Coats, Vests, and Jackets
 
@@ -334,12 +356,16 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Windbreaker](./Windbreaker.md) | 0.333 | 1.000 | 1.333 |
 | [Wolfskin Coat](./Wolfskin%20Coat.md) | 0.020 | 0.050 | 0.200 |
 
+<span id="underwear"></span><span id="Underwear"></span>
+
 ### Underwear
 
 | Name | Decay when stored (%/day) | Worn inside (%/day) | Worn outside (%/day) |
 | --- | --- | --- | --- |
 | [Thermal Underwear](./Thermal%20Underwear.md) | 0.200 | 0.500 | 2.000 |
 | [Wool Longjohns](./Wool%20Longjohns.md) | 0.100 | 0.250 | 1.000 |
+
+<span id="pants"></span><span id="Pants"></span>
 
 ### Pants
 
@@ -354,6 +380,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Wolfskin Pants](./Wolfskin%20Pants.md) | 0.020 | 0.050 | 0.200 |
 | [Work Pants](./Work%20Pants.md) | 0.050 | 0.250 | 0.500 |
 
+<span id="socks"></span><span id="Socks"></span>
+
 ### Socks
 
 | Name | Decay when stored (%/day) | Worn inside (%/day) | Worn outside (%/day) |
@@ -361,6 +389,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Climbing Socks](./Climbing%20Socks.md) | 0.100 | 0.250 | 1.000 |
 | [Sports Socks](./Sports%20Socks.md) | 0.625 | 1.875 | 2.500 |
 | [Wool Socks](./Wool%20Socks.md) | 0.133 | 0.333 | 1.333 |
+
+<span id="shoes_and_boots"></span><span id="Shoes_and_boots"></span><span id="shoes-and-boots"></span>
 
 ### Shoes and boots
 
@@ -377,6 +407,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Trail Boots](./Trail%20Boots.md) | 0.067 | 0.067 | 0.667 |
 | [Work Boots](./Work%20Boots.md) | 0.050 | 0.125 | 0.500 |
 
+<span id="accessories"></span><span id="Accessories"></span>
+
 ### Accessories
 
 | Name | Decay when stored (%/day) | Worn inside (%/day) | Worn outside (%/day) |
@@ -389,6 +421,8 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 | [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | 0.010 | 0.010 | 0.010 |
 | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) | 0.010 | 0.010 | 0.010 |
 | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 0.133 | 0.333 | 1.333 |
+
+<span id="medical_supplies"></span><span id="Medical_supplies"></span><span id="medical-supplies"></span>
 
 ## Medical supplies
 
@@ -403,11 +437,15 @@ Storing these supplies inside does not alter the rate of decay. Ruined meds may 
 | [Prepared Burdock](./Prepared%20Burdock.md) | 0.067 |
 | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 0.200 |
 
+<span id="tools"></span><span id="Tools"></span>
+
 ## Tools
 
 Tools will only decay condition when they're used. Once their condition goes below a set threshold, they gain a chance to break on use that increases linearly as the condition falls below the threshold.
 
 Note that these decay values are not affected by the difficulty multiplier.
+
+<span id="tool_decay_per_action"></span><span id="Tool_Decay_Per_Action"></span><span id="tool-decay-per-action"></span>
 
 ### Tool Decay Per Action
 
@@ -432,6 +470,8 @@ Note that these decay values are not affected by the difficulty multiplier.
 | [Firestriker](./Firestriker.md) | 2.000 | 10 |
 | [Torch](./Torch.md) (Lit) | 33% per 30 minutes | 0 |
 
+<span id="tool_decay_from_use_over_time"></span><span id="Tool_decay_from_use_over_time"></span><span id="tool-decay-from-use-over-time"></span>
+
 ## Tool decay from use over time
 
 Tools used to craft recipes, harvest carcasses, and clear ice holes will decay condition over time.
@@ -452,9 +492,13 @@ Tools used to craft recipes, harvest carcasses, and clear ice holes will decay c
 | [Survival Knife](./Survival%20Knife.md) | 0.500 | 0.500 | 2.500 |
 | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | 1.000 | 1.000 | 5.000 |
 
+<span id="weapons"></span><span id="Weapons"></span>
+
 ## Weapons
 
 Weapons decay, but only when fired. Once their condition goes below a set threshold, they gain a chance to break on use that increases linearly as the condition falls below the threshold.
+
+<span id="rifles"></span><span id="Rifles"></span>
 
 ### Rifles
 
@@ -466,6 +510,8 @@ Weapons decay, but only when fired. Once their condition goes below a set thresh
 | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | 2.000 | 10 |
 | [Bunker Rifle](./Bunker%20Rifle.md) | 4.000 | 10 |
 
+<span id="pistols"></span><span id="Pistols"></span>
+
 ### Pistols
 
 | Name | Decay per action (%) | Breaking threshold (%) |
@@ -476,6 +522,8 @@ Weapons decay, but only when fired. Once their condition goes below a set thresh
 | [Forester's Revolver](./Forester%27s%20Revolver.md) | 0.750 | 10 |
 | [Distress Pistol](./Distress%20Pistol.md) | 4.000 | 10 |
 
+<span id="bows"></span><span id="Bows"></span>
+
 ### Bows
 
 | Name | Decay per action (%) | Breaking threshold (%) |
@@ -485,19 +533,25 @@ Weapons decay, but only when fired. Once their condition goes below a set thresh
 | [Sport Bow](./Sport%20Bow.md) | 1.250 | 15 |
 | [Woodwright's Bow](./Woodwright%27s%20Bow.md) | 1.000 | 15 |
 
+<span id="arrows"></span><span id="Arrows"></span>
+
 ## Arrows
 
 [Simple Arrows](./Simple%20Arrow.md), [Manufactured Arrows](./Manufactured%20Arrow.md), and [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) decay, but only when they're used. Total arrow durability is variable and depends on a material table to determine it's condition loss; with the hardness of the material and the angle at which the arrow impacts the target determining the amount of degradation received. After a hit takes an arrow's condition below 0% it will turn into it's broken variant then fall to the ground where it may be retrieved.
+
+<span id="arrow_condition_decay_on_impact"></span><span id="Arrow_Condition_Decay_on_Impact"></span><span id="arrow-condition-decay-on-impact"></span>
 
 ### Arrow Condition Decay on Impact
 
 | Arrow Type | Snow | Flesh | Wood | Stone/Metal |
 | --- | --- | --- | --- | --- |
 | [Simple Arrow](./Simple%20Arrow.md) | 4% | 24% | 30% | 55% |
-| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 7.5% | 47.5%\* | 59.5% | 100%\* |
+| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 7.5% | 47.5%* | 59.5% | 100%* |
 | [Manufactured Arrow](./Manufactured%20Arrow.md) | 2% | 12% | 15% | 27.5% |
 
-\*Full condition fire hardened arrows break instantly upon hitting medium and larger wildlife, but may still survive hard impacts with stone/metal at glancing angles.
+*Full condition fire hardened arrows break instantly upon hitting medium and larger wildlife, but may still survive hard impacts with stone/metal at glancing angles.
+
+<span id="bedrolls"></span><span id="Bedrolls"></span>
 
 ## Bedrolls
 
@@ -509,6 +563,8 @@ Bedrolls both decay over time and when used.
 | [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | 0.274% | 2.400% |
 | [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | 0.300% | 2.600% |
 
+<span id="tales_from_the_far_territory"></span><span id="Tales_from_the_Far_Territory"></span><span id="tales-from-the-far-territory"></span>
+
 ## Tales from the Far Territory
 
 Tales from the Far Territory tools.
@@ -518,6 +574,8 @@ Tales from the Far Territory tools.
 | [Travois](./Travois.md) | 0.125 |
 | [Insulated Flask](./Insulated%20Flask.md) | 0.010 |
 | [Respirator](./Respirator.md) | 0.000 |
+
+<span id="materials"></span><span id="Materials"></span>
 
 ## Materials
 
@@ -535,6 +593,8 @@ Fresh Hides, Pelts, and Guts stop decaying once they've cured completely. All ot
 | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 5.000 |
 
 ![Food decay (obsolete)](../assets/Food_poisoning_and_Decay_-2b.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

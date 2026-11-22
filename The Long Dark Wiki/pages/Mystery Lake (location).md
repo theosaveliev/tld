@@ -16,6 +16,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Mystery Lake is a good location for collecting supplies due to the abundance of cabin and huts around the lake.

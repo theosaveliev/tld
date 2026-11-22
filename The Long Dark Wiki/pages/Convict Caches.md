@@ -26,9 +26,13 @@
 
 **Convict Caches** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20Farm.md) in [Blackrock Mountain](./Blackrock%20Mountain.md) region. This will add 4 points of interest on the survivors map.
+
+<span id="tasks"></span><span id="Tasks"></span>
 
 ## Tasks
 
@@ -37,6 +41,8 @@ To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20
   - Convict cache 2
   - Convict cache 3
   - Convict cache 4
+
+<span id="cache_locationsroutes"></span><span id="Cache_locations/routes"></span><span id="cache_locations/routes"></span><span id="cache-locationsroutes"></span>
 
 ## Cache locations/routes
 
@@ -47,6 +53,8 @@ To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20
 - Cache 3 is located at the very top of the mountain above [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). To reach it by follow the road, beware of a pack of timberwolves patrols here, and then take the first left steep path up the mountain. Keep more to the right of this path and at the very top on a big flat rock outcropping (more in the middle of the mountain than the edge), the cache is hidden behind one of the trees.
 
 - Cache 4 is located at the foot of the second electrical power pole that is on the right side of the road (when going from [Blackrock Prison](./Blackrock%20Prison.md)), it´s the one visible but unreachable from the road. One way of reaching it is by going through the "tunnel/pass" and then backtracking a long way around it´s outside face, beware of a pack of timberwolves near the farm. The other way is to climb up to the previous Power pole, then climbing down a mountaineering rope (survivor must not be over-encumbered) and taking the first left up a steep path. After reaching the pole the cache should be easily visible on the right.
+
+<span id="rewards"></span><span id="Rewards"></span>
 
 ## Rewards
 

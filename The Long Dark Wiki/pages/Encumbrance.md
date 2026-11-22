@@ -18,7 +18,11 @@
 
 Players can see the total weight of the items they are carrying on the Backpack screen from the Status [Survival Menu](./Survival%20Menu.md). This will include items they have equipped as well as those carried in the inventory. The Backpack screen truncates the amount of weight to two decimal places.
 
+<span id="mechanics"></span><span id="Mechanics"></span>
+
 ## Mechanics
+
+<span id="baseline_capacity_and_increasing_carry_capacity"></span><span id="Baseline_Capacity_and_Increasing_Carry_Capacity"></span><span id="baseline-capacity-and-increasing-carry-capacity"></span>
 
 ### Baseline Capacity and Increasing Carry Capacity
 
@@ -38,6 +42,8 @@ If [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) has
 
 Using a [Travois](./Travois.md) does not directly increase a player's carry weight, but it's capacity to carry up to 75 kg while also being dragged behind the player is a notable addition to the carry weight formula. Keep in mind that more weight on a Travois will slow the player down.
 
+<span id="decreasing_carrying_capacity"></span><span id="Decreasing_Carrying_Capacity"></span><span id="decreasing-carrying-capacity"></span>
+
 ### Decreasing Carrying Capacity
 
 The amount of weight the character is carrying increases the rate of [Fatigue](./Fatigue.md). When Fatigue reaches 50%, the max carrying capacity will begin to decrease, slowly at first but the rate will rapidly increase as your Fatigue gets closer to 0%. Encumbrance penalties apply as normal as a survivor becomes more drained. Once the 'Exhausted' Fatigue state is reached, the max carry limit will be half the normal value (30 kg becomes 15 kg). The fatigue meter is primarily restored with [Sleep](./Sleep.md), and, once the player has regained at least 50% of their fatigue, (equivalent to 6 hours of sleep) the maximum carrying capacity is restored. [Coffee](./Cup%20of%20Coffee.md) may also offer minor relief from a low fatigue meter.
@@ -52,7 +58,11 @@ The amount of weight the character is carrying increases the rate of [Fatigue](.
 | [Scurvy icon](../assets/Scurvy_icon.png) | [Scurvy](./Scurvy.md) | -5 kg (-11 lb) |
 | [Diminished Form icon](../assets/Diminished_Form_icon.png) | [Diminished Form](./Diminished%20Form.md) | permanent -5 kg (-11 lb) |
 
+<span id="movement_thresholds"></span><span id="Movement_Thresholds"></span><span id="movement-thresholds"></span>
+
 ## Movement Thresholds
+
+<span id="carry_weight_over_encumbrance"></span><span id="Carry_Weight_Over-Encumbrance"></span><span id="carry_weight_over-encumbrance"></span><span id="carry-weight-over-encumbrance"></span>
 
 ### Carry Weight Over-Encumbrance
 
@@ -68,6 +78,8 @@ The baseline Carrying Weight for this example starts at 30/30kg. For every 1kg o
 | 50/30 kg | -66.6% | The player's walking speed is significantly decreased to a crawl. |
 | 60/30 kg | -100% | The player is completely immobile, and can no longer walk. |
 
+<span id="wind_and_terrain"></span><span id="Wind_and_Terrain"></span><span id="wind-and-terrain"></span>
+
 ### Wind and Terrain
 
 Harsh winds and the terrain directly effect a player's movement as they traverse the world, slowing or speeding the player when encountered. Note that the Celestial Navigator [Feat](./Feats.md) adds a 10% bonus walking speed during a clear night or aurora.
@@ -76,13 +88,15 @@ Do note that light winds currently slow down the player more than heavy winds do
 
 | Terrain | Max Bonus | Max Penalty |
 | --- | --- | --- |
-| Roads[¹](#fn1) | 15% | 0% |
+| Roads<span id="fnref1"></span>[¹](#fn1) | 15% | 0% |
 | Slopes | -100% | -20% |
-| Heavy Wind[²](#fn2) | 20% | 50% |
-| Indoors[³](#fn3) | 0% (Outside) | 33% (Inside) |
-| Blizzard[⁴](#fn4) | 0% | 0% |
-| Crab Walk[⁵](#fn5) | 3-21% | 0 |
+| Heavy Wind<span id="fnref2"></span>[²](#fn2) | 20% | 50% |
+| Indoors<span id="fnref3"></span>[³](#fn3) | 0% (Outside) | 33% (Inside) |
+| Blizzard<span id="fnref4"></span>[⁴](#fn4) | 0% | 0% |
+| Crab Walk<span id="fnref5"></span>[⁵](#fn5) | 3-21% | 0 |
 | Sprinting | 45% | 0 |
+
+<span id="travois"></span><span id="Travois"></span>
 
 ### Travois
 
@@ -94,6 +108,8 @@ The [Travois](./Travois.md) will apply a penalty to the player's movement speed 
 | 25/75 kilograms | -4.9% |
 | 50/75 kilograms | -19.2% |
 | 75/75 kilograms | -50.3% |
+
+<span id="strategy"></span><span id="Strategy"></span>
 
 ## Strategy
 
@@ -107,6 +123,8 @@ However, aware of this limitation, a player should carefully consider what equip
 - 10 kg (22 lbs) to 15 kg (33 lbs) above capacity: still within reason for hauling loot over relatively safe and open terrain, but the inability to sprint must be kept in mind to properly alter behavior towards predators.
 - 15 kg (33 lbs) to 20 kg (44 lbs) above capacity: generally inadvisable as the slow down is very pronounced, and even [bears](./Bear.md) can no longer be escaped. At this point it is probably faster and definitively safer to take a route twice with considerably less weight.
 - More than 20 kg (44 lbs) above capacity: the player is so slow that dropping excess loot becomes inevitable. Highly dangerous, and in any case inefficient.
+
+<span id="character_quotes"></span><span id="Character_quotes"></span><span id="character-quotes"></span>
 
 ## Character quotes
 
@@ -123,12 +141,14 @@ Totally encumbered
 - "Too heavy, can't move."
 - "TOO, MUCH, TO CARRY!!!"
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Roads provide 50% walking speed boost compared to snow, concrete, or metal terrain.[↩︎](#fnref1)
-2. Max Bonus &amp; Penalty for Heavy Wind are applied when walking with or against oncoming winds respectively.[↩︎](#fnref2)
-3. Stepping indoors (Back of a [Warm Cave](./Warm%20Cave.md) or building interiors) slows the player down instantly[↩︎](#fnref3)
-4. Blizzards do not slow the player down despite the raging windstorm, likely for balancing reasons.[↩︎](#fnref4)
-5. Moving diagonally at a 45° angle increases movement by 3%, 50° angle by 21% (controller only), and using a controller emulator to hit both angles increases speeds by 42%.[↩︎](#fnref5)
+1. <span id="fn1"></span>Roads provide 50% walking speed boost compared to snow, concrete, or metal terrain.[↩︎](#fnref1)
+2. <span id="fn2"></span>Max Bonus &amp; Penalty for Heavy Wind are applied when walking with or against oncoming winds respectively.[↩︎](#fnref2)
+3. <span id="fn3"></span>Stepping indoors (Back of a [Warm Cave](./Warm%20Cave.md) or building interiors) slows the player down instantly[↩︎](#fnref3)
+4. <span id="fn4"></span>Blizzards do not slow the player down despite the raging windstorm, likely for balancing reasons.[↩︎](#fnref4)
+5. <span id="fn5"></span>Moving diagonally at a 45° angle increases movement by 3%, 50° angle by 21% (controller only), and using a controller emulator to hit both angles increases speeds by 42%.[↩︎](#fnref5)

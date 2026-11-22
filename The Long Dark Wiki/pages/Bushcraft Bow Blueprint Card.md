@@ -32,6 +32,8 @@
 
 <br>**Bushcraft Bow Blueprint Card** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is acquired from a trade from the [Trader](./Trader.md) and unlocks the ability to craft a [Bushcraft Bow](./Bushcraft%20Bow.md) at a [Work Bench](./Work%20Bench.md). This item only appears in the Trader's inventory after fully completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="trade"></span><span id="Trade"></span>
+
 ## Trade
 
 This items sometimes appears as a potential trade, and costs:
@@ -45,5 +47,7 @@ At Trust level 6 the costs are reduced to:
 - 5.00 kg of any raw animal or raw fish meat
 - 2 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
 - 2 any cured hides
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

@@ -28,6 +28,8 @@ _For a singular pallet, see [Pallet](./Pallet.md)._
 
 They require a [Hatchet](./Hatchet.md) to harvest and come in 2 variants, Stacked and Piled Pallets.
 
+<span id="stacked_pallets"></span><span id="Stacked_Pallets"></span><span id="stacked-pallets"></span>
+
 ## Stacked Pallets
 
 Stacked Pallets are 7 Pallets stacked on top of one another.
@@ -37,6 +39,8 @@ Stacked Pallets are 7 Pallets stacked on top of one another.
 | 16 | 2 hours | 360 | -2% Hatchet |
 | 16 | 2 hours 36 minutes | 468 | -3% Improvised Hatchet |
 | 16 | 3 hours | 540 | -0.5% Heavy Hammer |
+
+<span id="piled_pallets"></span><span id="Piled_Pallets"></span><span id="piled-pallets"></span>
 
 ## Piled Pallets
 

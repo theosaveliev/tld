@@ -28,6 +28,8 @@
 
 This is the mission transcript for mission 1 [The Wounded Trapper](./The%20Wounded%20Trapper.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _A cutscene begins with [Will Mackenzie](./Will%20Mackenzie.md) in front of the Wood Stove of the [Trapper's Homestead](./Trapper%27s%20Homestead.md), warming his hands and body repeatedly for a good moment. His attention regarding the stove is broken when he hears a grunt come from the [man he rescued](./Jeremiah.md)._
@@ -128,6 +130,8 @@ CHAPTER ONE
 
 THE WOUNDED TRAPPER.
 
+<span id="enter_the_abandoned_dam"></span><span id="Enter_the_abandoned_Dam"></span><span id="enter-the-abandoned-dam"></span>
+
 ## Enter the abandoned Dam
 
 _Mackenzie takes the Trapper's Hunting Rifle, which is in less than ideal condition, and any other supplies in the cabin. As he reaches the door, a map showing the layout of the region catches his eye. Mackenzie makes note of the route to the Dam and leaves the cabin._
@@ -160,6 +164,8 @@ Mackenzie: "Unfinished business with the bear, he said."
 
 _Mackenzie then walks up to the front doors of the Carter Hydro Dam and steps inside._
 
+<span id="find_medical_supplies_for_the_old_trapper._find_the_radio_parts_the_trapper_needs."></span><span id="Find_medical_supplies_for_the_old_trapper._Find_the_radio_parts_the_trapper_needs."></span><span id="find-medical-supplies-for-the-old-trapper-find-the-radio-parts-the-trapper-needs"></span>
+
 ## Find medical supplies for the old trapper. Find the radio parts the trapper needs.
 
 Mackenzie: "Hello? Anyone here? This place looks like it's been empty for awhile."
@@ -188,7 +194,9 @@ Mackenzie: "Must be something we can use to fix the shortwave."
 
 _He picks up some radio parts, then returns to unlock the Medical Locker, finding [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) inside._
 
-Mackenzie: "Industrial-strength antibiotics and... \*very\* strong painkillers. Dangerous...you could get hooked on this stuff. Let's hope we don't need it."
+Mackenzie: "Industrial-strength antibiotics and... _very\_ strong painkillers. Dangerous...you could get hooked on this stuff. Let's hope we don't need it."
+
+<span id="get_the_medical_supplies_back_to_the_old_trapper_before_he_dies."></span><span id="Get_the_medical_supplies_back_to_the_old_trapper_before_he_dies."></span><span id="get-the-medical-supplies-back-to-the-old-trapper-before-he-dies"></span>
 
 ## Get the medical supplies back to the old trapper before he dies.
 
@@ -355,6 +363,8 @@ Jeremiah: "I have my reasons."
 Mackenzie: "What do you mean - - the wildlife's acting strange?"
 
 Jeremiah: "You live out here long enough, you get a sense for the patterns in nature. Right now, the patterns are broken. Critters aren't behaving the way they should. It's like they're spooked, or something. No...Not spooked. But...changed, somehow. Best way I can say it is - - things don't feel right.
+
+<span id="the_legend_of_the_spence_family"></span><span id="The_Legend_of_the_Spence_family"></span><span id="the-legend-of-the-spence-family"></span>
 
 ## The Legend of the Spence family
 

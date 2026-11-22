@@ -6,7 +6,7 @@
 
 [Notebook Page (Survival) icon](../assets/Notebook_Page_%28Survival%29_icon.png)
 
-**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
+**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
 
 **Properties**
 
@@ -28,6 +28,8 @@
 
 **Notebook Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Ash Canyon](./Ash%20Canyon.md) at the [Gold Mine](./Gold%20Mine.md), along with the [Technical Backpack](./Technical%20Backpack.md) and [Crampons](./Crampons.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Notebook Page**_
@@ -35,6 +37,8 @@ _The following text is transcribed from **Notebook Page**_
 Glad I had my good pack with me on this trip. Some chest pain on the trek past the high falls, but I expected that after the last surgery.
 
 Just going to hunker down in here until the storm passes. Tomorrow — high point at Wolf’s Jaw and head for home!
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

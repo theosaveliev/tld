@@ -49,13 +49,19 @@ The **Camera** is a [Tool](./Tools.md) found in [Survival Mode](./Survival%20Mod
 
 It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) and [Respirator](./Respirator.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Camera is an Instant Camera model that can print photos right after they are taken. Photos taken can not be turned into [Polaroids](./Polaroids.md) to unlock Vistas. Only 1 Camera exists in the entire game.
 
+<span id="location"></span><span id="Location"></span>
+
 ### Location
 
 It can be found sitting on one of the control panels at the [Station Bunkhouse](./Station%20Bunkhouse.md) in [Sundered Pass](./Sundered%20Pass.md), with a starting box of [FastFilm-500](./FastFilm-500.md) next to it.
+
+<span id="photos"></span><span id="Photos"></span>
 
 ### Photos
 
@@ -64,6 +70,8 @@ Photos can be taken by equipping the Camera and aiming it with "Right Mouse," wh
 Photographs taken with the Camera appear in a special section of the [Journal](./Journal.md) called the Photo Album, which lists the Region and location of where the photo was taken. Photos can be Discarded, Annotated (the player can write a story on it), or Examined in this menu. While it is unknown if there is a limit to how many photos can be taken, it is more than than the 20 blank slots one starts with.
 
 Photos taken can be placed inside a constructed [Framed Photo](./Framed%20Photo.md) and placed inside a player's [Safehouse](./Safehouse.md) as a [Decoration](./Decorations.md).
+
+<span id="film_and_colouring"></span><span id="Film_and_Colouring"></span><span id="film-and-colouring"></span>
 
 ## Film and Colouring
 
@@ -77,21 +85,29 @@ Swapping to different film types into the Camera simply requires the player to p
 
 There is currently not an option to unload all film from inside the Camera in the Backpack options.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Despite not being a weapon, aiming the Camera at a [Wolf](./Wolf.md) that cannot reach you will scare it off like any other weapon (or cause it to agro and charge).
 - The Camera was originally teased as "A Photo Mode for THE LONG DARK, but contextualized with an in-game camera and Dark Room chemicals so that you can process your own film." This meant that the original Camera used a model that required its pictures to be processed first before they could be displayed, which was also shown in the teaser image showing polaroids hanging out to develop.
-  - An interview by Hinterland later revealed that the Dark Room was cut "because it would have required electrical equipment that we'd only be able to let players use during an active aurora. We came up with a good solution that is true to our lore and also gives players a lot of freedom for self-expression."[¹](#fn1)
+  - An interview by Hinterland later revealed that the Dark Room was cut "because it would have required electrical equipment that we'd only be able to let players use during an active aurora. We came up with a good solution that is true to our lore and also gives players a lot of freedom for self-expression."<span id="fnref1"></span>[¹](#fn1)
 - The Camera has the brand "Kontakt" etched into the front and back, which may be a reference to Kodak cameras.
+
+<span id="bugs"></span><span id="Bugs"></span>
 
 ## Bugs
 
 - The quality of an image taken with the camera is directly affected by Motion Blur (Settings &gt; Visuals &gt; Quality). High levels of Motion Blur result in extremely blurry photographs, whereas "none" results in crystal clear images.
 
+<span id="achievements"></span><span id="Achievements"></span>
+
 ## Achievements
 
 - ![Exposure icon](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
 - ![Shutterbug icon](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -103,10 +119,14 @@ _The Camera's location in the [Station Bunkhouse](./Station%20Bunkhouse.md)._
 
 ![The teased marketing photo for the Camera and former Dark Room.](../assets/Icon-camera-and-dark-room.svg)
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. [https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024](https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024)[↩︎](#fnref1)
+1. <span id="fn1"></span>[https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024](https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024)[↩︎](#fnref1)

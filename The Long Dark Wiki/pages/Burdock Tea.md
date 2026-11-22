@@ -40,6 +40,8 @@
 
 It was added in the free update portion of the Part 3: Frontier Cooking for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is a natural antibiotic drink, and like [Reishi Tea](./Reishi%20Tea.md), helps a player suffering from the following [Afflictions](./Afflictions.md):
@@ -50,6 +52,8 @@ It is a natural antibiotic drink, and like [Reishi Tea](./Reishi%20Tea.md), help
 - [Intestinal Parasites](./Intestinal%20Parasites.md) (1 dose and 10 days Sleep on Stalker (20 days on Interloper))
 
 Compared to Reishi Tea, Burdock Tea takes more effort to find materials for and then cook into tea, with [Burdock](./Burdock.md) saplings being less plentiful to find compared to [Reishi Mushrooms](./Reishi%20Mushroom.md).
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -67,6 +71,8 @@ Compared to Reishi Tea, Burdock Tea takes more effort to find materials for and 
 **Item:** [Prepared Burdock](./Prepared%20Burdock.md)
 
 **Quantity:** 1
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -15,11 +15,15 @@
 
 **Custom** is the 6th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Custom is different from the other 5 difficulty Experiences in that it allows the player to instead create their own difficulty. This mode presents over 50 different variables which can be adjusted to the player's liking. Creating a Custom Experience Mode generates a code, which may be shared with other users for the same experience, including across game platforms.
 
 **NOTE:** [Feats](./Feats.md) progression will not occur when playing on a Custom Experience save file, but [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) can still be earned.
+
+<span id="custom_settings"></span><span id="Custom_Settings"></span><span id="custom-settings"></span>
 
 ## Custom Settings
 
@@ -37,6 +41,8 @@ The following settings can be customized when starting a Custom save file:
 - Endless Night (The sun will never rise): Completing the [Challenge](./Challenge.md): [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) is required to unlock this.
 - ...as well as many others.
 
+<span id="length_of_day_multiplier"></span><span id="Length_of_day_multiplier"></span><span id="length-of-day-multiplier"></span>
+
 ### Length of day multiplier
 
 Concretely, this setting affects the timespace aspect of the Experience, slowing various aspects of the game world down. In x4 you can walk 4x more before a day ends unlike in 1x. This essentially makes the world feel "slower".
@@ -45,6 +51,8 @@ Concretely, this setting affects the timespace aspect of the Experience, slowing
 2. Management activities are directly linked to the multiplier. Time passage related to activities like minutes passing during travel don't initially feel slower, but it becomes evident eventually that time passes slower.
 3. [Needs](./Needs.md) drain/[Afflictions](./Afflictions.md) accumulation/item Decay is significantly slowed the higher the length of day multiplier is. Example: you can travel 4x farther in 3 miles with poor clothing on before [Frostbite Risk](./Frostbite%20Risk.md) develops into [Frostbite](./Frostbite.md), as the Frostbite Risk meter fills slower. This can essentially make the game far easier than normal, as the player doesn't have to worry about carrying as much food/worrying about Affliction Risks. The downside to this setting is that it can result in the game feeling too unchallenging/Afflictions taking MUCH longer to heal.
 4. Time speeds up normally when your character starts an "action" (ex: passing time for sleep, crafting, harvesting, researching a book for 1 hour will still count as 1 hour as if it was 1x length).
+
+<span id="common_custom_options"></span><span id="Common_Custom_Options"></span><span id="common-custom-options"></span>
 
 ## Common Custom Options
 
@@ -58,6 +66,8 @@ The player community has given unofficial names to two of the most commonly used
 - Outerloper: Interloper, but where the player can't enter any building (self-enforced rule)
 
 More custom challenges can be found [Here](https://steamcommunity.com/app/305620/discussions/9/4515505814159739321/).
+
+<span id="custom_difficulty_customization_options"></span><span id="Custom_Difficulty_Customization_Options"></span><span id="custom-difficulty-customization-options"></span>
 
 ## Custom Difficulty Customization Options
 

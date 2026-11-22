@@ -36,15 +36,21 @@
 
 A **Cougar Claw** is a [Material](./Materials.md) that can be crafted into a [Cougar Claw Knife](./Cougar%20Claw%20Knife.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cougar Claws are only acquired after killing a very rare but dangerous [Cougar](./Cougar.md). Each [Cougar Carcass](./Cougar%20Carcass.md) contains a single Claw (note that it does not appear as a harvesting option, it is automatically obtained after harvesting the [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md)). The Claw currently has one use; being used as a material to be crafted into a Cougar Claw Knife.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md)<br>- 3 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Cured Leather](./Cured%20Leather.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

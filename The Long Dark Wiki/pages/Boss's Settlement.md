@@ -14,6 +14,8 @@
 
 Has no shelter<br>**Boss's Encampment** is a ruined series of buildings high in the mountains near [Idle Camp](./Idle%20Camp.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The settlement consists of 3 ruined building and an intact shed. There is no real shelter to be found, but a [Warm Cave](./Warm%20Cave.md), [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md), is a short walk away across a wooden bridge.
@@ -21,6 +23,8 @@ The settlement consists of 3 ruined building and an intact shed. There is no rea
 [Ptarmigans](./Ptarmigan.md) and [Rabbits](./Rabbit.md) spawn nearby in the settlement, with a few containers containing loot to be found in the ruined buildings.
 
 A [vista location](./Polaroids.md) is located at the cliff side overlooking the railroad with a destroyed picnic table. A human skull is found near one of the buildings, which contains a hidden lockbox [Supply Cache](./Supply%20Cache.md) as part of the [Buried Echoes](./Buried%20Echoes.md) Tale.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

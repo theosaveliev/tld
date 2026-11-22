@@ -28,6 +28,8 @@
 
 **Security Chief's Log 31** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found at the crashed Helicopter near [Old Corral](./Old%20Corral.md) along with the [Foreman's Key](./Foreman%27s%20Key.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 31**_
@@ -43,6 +45,8 @@ It's gone bad over here, and strange beyond everything. But it's on me now. And 
 Take care, and keep an eye on the horizon. You never know.
 
 -- Vertasky
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

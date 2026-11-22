@@ -26,6 +26,8 @@
 
 **Cougar Warning Flyer** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). it is found inside the [Camp Office](./Camp%20Office.md) near the front door.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Cougar Warning Flyer**_
@@ -39,5 +41,7 @@ WILDERNESS SAFTEY GUIDE
 - Leave its territory to reduce risk of attack
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

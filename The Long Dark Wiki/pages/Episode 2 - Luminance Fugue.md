@@ -36,11 +36,17 @@
 
 > “**Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?**”
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 **_Luminance Fugue_** is the second episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is followed by [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
+<span id="main_missions"></span><span id="Main_missions"></span><span id="main-missions"></span>
+
 ## Main missions
+
+<span id="the_wounded_trapper"></span><span id="The_Wounded_Trapper"></span><span id="the-wounded-trapper"></span>
 
 ### The Wounded Trapper
 
@@ -52,6 +58,8 @@ _Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)_
 
 — In-game description
 
+<span id="the_best_defense"></span><span id="The_Best_Defense"></span><span id="the-best-defense"></span>
+
 ### The Best Defense
 
 ![Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
@@ -61,6 +69,8 @@ _Main article: [The Best Defense](./The%20Best%20Defense.md)_
 "_A man-killing bear is on the prowl, risking Mackenzie's mission to find Astrid. But an old Voyageur legend might hold the answer to overcoming the massive predator._"
 
 — In-game description
+
+<span id="signal_to_noise"></span><span id="Signal_to_Noise"></span><span id="signal-to-noise"></span>
 
 ### Signal to Noise
 
@@ -72,6 +82,8 @@ _Main article: [Signal to Noise](./Signal%20to%20Noise.md)_
 
 — In-game description
 
+<span id="what_one_man_can_do"></span><span id="What_One_Man_Can_Do"></span><span id="what-one-man-can-do"></span>
+
 ### What One Man Can Do
 
 ![Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
@@ -81,6 +93,8 @@ _Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)_
 "_The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?_"
 
 — In-game description
+
+<span id="renewed_hope"></span><span id="Renewed_Hope"></span><span id="renewed-hope"></span>
 
 ### **Renewed Hope**
 
@@ -92,7 +106,11 @@ _Main article: [Renewed Hope](./Renewed%20Hope.md)_
 
 — In-game description
 
+<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+
 ## Side Missions
+
+<span id="forest_talker_supply_caches"></span><span id="Forest_Talker_Supply_Caches"></span><span id="forest-talker-supply-caches"></span>
 
 ### Forest Talker Supply Caches
 
@@ -104,6 +122,8 @@ _Main article: [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches
 
 — In-game description
 
+<span id="mystery_lake_supply_caches"></span><span id="Mystery_Lake_Supply_Caches"></span><span id="mystery-lake-supply-caches"></span>
+
 ### Mystery Lake Supply Caches
 
 _Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)_
@@ -111,6 +131,8 @@ _Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.m
 "_There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense._"
 
 — In-game description
+
+<span id="aurora_hatch"></span><span id="Aurora_Hatch"></span><span id="aurora-hatch"></span>
 
 ### Aurora Hatch
 
@@ -120,6 +142,8 @@ _Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
 
 — In-game description
 
+<span id="hanks_hatch"></span><span id="Hank&#x27;s_Hatch"></span><span id="hank&#x27;s_hatch"></span><span id="hanks-hatch"></span>
+
 ### Hank's Hatch
 
 _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
@@ -127,6 +151,8 @@ _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
 "_Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need._"
 
 — In-game description
+
+<span id="lake_gunshots"></span><span id="Lake_Gunshots"></span><span id="lake-gunshots"></span>
 
 ### Lake Gunshots
 
@@ -136,6 +162,8 @@ _Main article: [Lake Gunshots](./Lake%20Gunshots.md)_
 
 — In-game description
 
+<span id="survival_school"></span><span id="Survival_School"></span><span id="survival-school"></span>
+
 ### Survival School
 
 _Main article: [Survival School](./Survival%20School.md)_
@@ -143,6 +171,8 @@ _Main article: [Survival School](./Survival%20School.md)_
 "_Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that teach you important survival lessons._"
 
 — In-game description
+
+<span id="non_mission_objective"></span><span id="Non-mission_objective"></span><span id="non-mission_objective"></span><span id="non-mission-objective"></span>
 
 ## Non-mission objective
 
@@ -152,13 +182,19 @@ In addition to the side missions, the player can also find three keys to the loc
 - Key to cabin #2 is found in the hunter's blind near [Alan's cave](./Alan%27s%20Cave.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md).
 - Key to cabin #3 is found within the [Camp Office](./Camp%20Office.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md).
 
+<span id="cast"></span><span id="Cast"></span>
+
 ## Cast
+
+<span id="major_characters"></span><span id="Major_Characters"></span><span id="major-characters"></span>
 
 ### Major Characters
 
 - [Will Mackenzie](./Will%20Mackenzie.md) - (playable character) Mark Meer
 - [Jeremiah](./Jeremiah.md) - David Hayter
 - [Methuselah](./Methuselah.md) - Richard Newman
+
+<span id="minor_characters"></span><span id="Minor_Characters"></span><span id="minor-characters"></span>
 
 ### Minor Characters
 
@@ -167,11 +203,17 @@ In addition to the side missions, the player can also find three keys to the loc
 - Radio Voice - (man on the radio calling from Perseverance Mills) - Noel Johansen
 - Forest Talker ([Lake Gunshots](./Lake%20Gunshots.md)) - Brian Drummond
 
+<span id="affliction_availability"></span><span id="Affliction_Availability"></span><span id="affliction-availability"></span>
+
 ## Affliction Availability
+
+<span id="positive_benefit"></span><span id="Positive_Benefit"></span><span id="positive-benefit"></span>
 
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
+
+<span id="negative_affliction"></span><span id="Negative_Affliction"></span><span id="negative-affliction"></span>
 
 ### Negative Affliction
 
@@ -182,7 +224,11 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
+<span id="craft_able_unlocks"></span><span id="Craft-able_Unlocks"></span><span id="craft-able_unlocks"></span><span id="craft-able-unlocks"></span>
+
 ## Craft-able Unlocks
+
+<span id="player_and_workbench_unlocks"></span><span id="Player_and_Workbench_Unlocks"></span><span id="player-and-workbench-unlocks"></span>
 
 ### Player and Workbench Unlocks
 
@@ -219,6 +265,8 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Torch](./Torch.md)
   - Unlocks during Episode 1.
 
+<span id="forge_unlocks"></span><span id="Forge_Unlocks"></span><span id="forge-unlocks"></span>
+
 ### Forge Unlocks
 
 - [Spear Head](./Spear%20Head.md)
@@ -226,6 +274,8 @@ In addition to the side missions, the player can also find three keys to the loc
   - After successfully crafting a Spear Head, then it will unlock this ability.
 - [Improvised Hatchet](./Improvised%20Hatchet.md)
   - After successfully crafting a Spear Head, then it will unlock this ability.
+
+<span id="achievements"></span><span id="Achievements"></span>
 
 ## Achievements
 
@@ -237,9 +287,13 @@ In addition to the side missions, the player can also find three keys to the loc
 - ![Sounds Like Some Kind of Indie Band icon](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) [Sounds Like Some Kind of Indie Band](./Sounds%20Like%20Some%20Kind%20of%20Indie%20Band.md)
 - ![Cache Mastery icon](../assets/Cache_Mastery_icon.png) [Cache Mastery](./Cache%20Mastery.md)
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![The Episode 2 Menu Background](../assets/Episode_2_Menu_Background.png)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

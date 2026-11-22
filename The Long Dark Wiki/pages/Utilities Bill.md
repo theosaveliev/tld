@@ -30,6 +30,8 @@
 
 It is found on a table inside the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) house.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Utilities Bill**_
@@ -42,7 +44,7 @@ You (sic) account with Mainland Power Corp. is now severely past due. Your accou
 
 Despite our attempts to contact you to remedy this situation, on this third and final warning we regretfully report that we are left with no choice but to interrupt service immediately. We have dispatched a recovery crew to repossess your leased SOLAR BLOCK MODEL BK1. Once your account has been brought up to date, we will be more than happy to restore your service.
 
-Please note that all meter readings are carried out by impartial drones deployed by our Remote Monitoring station on Great Bear. If you would like to dispute the reading, please contact your local Ombudsman, which according to our records is located at \[\*\*\*MISSING DATA\*\*\*\].
+Please note that all meter readings are carried out by impartial drones deployed by our Remote Monitoring station on Great Bear. If you would like to dispute the reading, please contact your local Ombudsman, which according to our records is located at [\*\**MISSING DATA\*\*\*].
 
 Mainland Power Corp. is the primary service provider of grid 0 based power for the Southern Great Bear region. We pride ourselves in our dedication to customer service, and have been awarded the MUSK GREEN SERVICE MEDALLION for the past three years running.
 
@@ -52,7 +54,9 @@ Thank you, and have a nice day.
 
 MAINLAND POWER CORP.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

@@ -32,6 +32,8 @@ Has a bed
 
 Provides some shelter **Forestry Lookout** is a tall, wooden structure found in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Forestry Lookout sits on a hill between the [Destroyed Lookout](./Destroyed%20Lookout.md) to the west and [Derailment](./Derailment.md) to the east.
@@ -46,13 +48,19 @@ In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), there
 
 A [Crashed Plane](./Plane%20Crashes.md) can be found below the Lookout, on the path up to the Lookout itself.
 
+<span id="reaching_the_tower"></span><span id="Reaching_the_Tower"></span><span id="reaching-the-tower"></span>
+
 ## Reaching the Tower
 
 The Forestry Lookout is notoriously elusive and the average traveler could easily find themselves caught in the cold of the [Destroyed Lookout](./Destroyed%20Lookout.md), the intact lookout taunting from the adjacent hill. But simply turning left before the [Derailment](./Derailment.md) and walking up the hill will find you at the foot of the path that takes you up the mountain. It will be hard to miss if you look for the wooden fence.
 
+<span id="safehouse"></span><span id="Safehouse"></span>
+
 ## Safehouse
 
 While offering an overview of the landscape in good weather, the Forestry Lookout does not make an ideal long-term [base](./Safehouse.md) because of its elevation, with the trip up and down the hill costing time, warmth, and fatigue. There is a wood stove and a bit of wood inside to provide warmth and cook food, but, after a few fires, fuel will need to be collected at the base of the mountain and carried up. If the player has high scent, wolves may also ascend the path and can attack the player on the way up or down from the lookout, with the hill obstructing clear lines of sight. As such, both the [Camp Office](./Camp%20Office.md) and the [Trapper's Homestead](./Trapper%27s%20Homestead.md) make more adequate bases.
+
+<span id="possible_loot"></span><span id="Possible_loot"></span><span id="possible-loot"></span>
 
 ## Possible loot
 
@@ -66,15 +74,21 @@ While offering an overview of the landscape in good weather, the Forestry Lookou
 - [Hunting Knife](./Hunting%20Knife.md)
 - [Mountaineering Rope](./Mountaineering%20Rope.md)
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
 The Forestry Lookout once stood in the space the [Destroyed Lookout](./Destroyed%20Lookout.md) now occupies.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
 - Forestry Lookout is now visible from many parts of the map along the railway.
 - Forestry Lookout is a [Fire Lookout Tower](https://en.wikipedia.org/wiki/Fire_lookout_tower), structures built all over America and parts of [Canada](./The%20Collapse.md) beginning in the early 20th century.
 - In Story mode, a note in the tower and the name on a lockbox under the bed seem to be a nod to the game _Firewatch_, much of which takes place in a watchtower. _Firewatch_ also features a theme of isolation in a vast wilderness, similar to _The Long Dark_. "Hank," the name on the lockbox, is a nickname for Henry, the protagonist of _Firewatch_, and the note in the tower mentions a woman frequently talking on the radio, a major component of the referenced game's plot.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

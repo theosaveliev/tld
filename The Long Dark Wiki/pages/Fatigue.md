@@ -30,6 +30,8 @@
 
 ![Fatigue icon](../assets/Fatigue_icon.png) **Fatigue** is one of the four essential [Needs](./Needs.md). Fatigue is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and [struggles](./Struggle.md). When completely depleted, fatigue will begin to lower the player's [Condition](./Condition.md).
 
+<span id="gaininglosing_fatigue"></span><span id="Gaining/Losing_Fatigue"></span><span id="gaining/losing_fatigue"></span><span id="gaininglosing-fatigue"></span>
+
 ## Gaining/Losing Fatigue
 
 As long as the character is awake, fatigue will constantly be emptying. The rate of drop is directly dependent on activity level and encumbrance but may also be influenced by other factors like [temperature](./Feels%20Like.md) and [illness](./Afflictions.md). Example: The fatigue bar can be emptied as quickly as in 2.6 game hours by sprinting as often as possible, while a long [Rope Climbing](./Rope%20Climbing.md) session can easily consume half the player's fatigue in minutes. However, remaining inactive by passing time at a [bedroll](./Bedroll.md) will see the same bar last almost 22 game hours.
@@ -46,9 +48,13 @@ Properly balancing one's activity level somewhere between "always resting" and "
 
 In custom games, non-standard game timescales will multiply normal sources of fatigue (standing/walking/sprinting/climbing) relative to real-time. For example, in a custom game with 4x day length, you will only expend 0.5% stamina per real-time minute while walking.
 
+<span id="sleep"></span><span id="Sleep"></span>
+
 ### Sleep
 
 [Sleep](./Sleep.md) is the most common method of satisfying fatigue. It takes 12 full hours of sleep to fully replenish an empty fatigue bar. Or 1/12th of the bar will fill for each hour slept. The player will wake automatically when the bar has been completely refilled.
+
+<span id="food_items"></span><span id="Food_items"></span><span id="food-items"></span>
 
 ### Food items
 
@@ -65,9 +71,13 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) will immediately refill
 | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes |
 | [Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) | 10% | 50% | 60 minutes |
 
+<span id="food"></span><span id="Food"></span>
+
 ### Food
 
 Eating certain foods can also affect the fatigue meter.
+
+<span id="fatigue_increase"></span><span id="Fatigue_Increase:"></span><span id="fatigue_increase:"></span><span id="fatigue-increase"></span>
 
 #### Fatigue Increase:
 
@@ -76,6 +86,8 @@ Eating certain foods can also affect the fatigue meter.
 | [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
 | [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
 | [Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 15% |
+
+<span id="fatigue_decrease"></span><span id="Fatigue_Decrease:"></span><span id="fatigue_decrease:"></span><span id="fatigue-decrease"></span>
 
 #### Fatigue Decrease:
 
@@ -88,39 +100,59 @@ Eating certain foods can also affect the fatigue meter.
 | [Ranger Stew icon](../assets/Ranger_Stew_icon.png) | [Ranger Stew](./Ranger%20Stew.md) | -15% |
 | [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
 
+<span id="affecting_condition"></span><span id="Affecting_Condition"></span><span id="affecting-condition"></span>
+
 ## Affecting Condition
 
 When the fatigue bar is empty, condition begins to drain. The rate of drain is fixed at 1% per hour (See: [Needs](./Needs.md)). The slowness of this drain has lead some players to take advantage, accepting minor condition losses during strenuous activities in a practice known as [Hibernation](./Hibernation.md).
 
+<span id="other_effects"></span><span id="Other_Effects"></span><span id="other-effects"></span>
+
 ## Other Effects
+
+<span id="sprinting"></span><span id="Sprinting"></span>
 
 ### Sprinting
 
 Sprinting contributes significantly to rate of fatigue. In turn, fatigue affects the replenishment of [stamina](./Stamina.md) which enables sprinting. When the character reaches Exhausted (empty fatigue bar), sprinting becomes impossible. It will remain disabled for as long as the fatigue bar remains empty.
 
+<span id="rope_climbing"></span><span id="Rope_climbing"></span><span id="rope-climbing"></span>
+
 ### Rope climbing
 
 Rope climbing is much faster when the player is well-rested. Climbing up a rope is the most strenuous activity in-game, emptying both fatigue and stamina very quickly. When the player becomes exhausted, it is not possible to start a new climb, and climbing will become very slow. The rate of stamina decrease, however, remains constant, increasing the risk of slipping and falling.
+
+<span id="carry_weight"></span><span id="Carry_Weight"></span><span id="carry-weight"></span>
 
 ### Carry Weight
 
 The amount of weight the character is carrying increases the rate of fatigue. Also, as the fatigue bar reaches below 50%, the 'recommended encumbrance' will begin to decrease. Encumbrance penalties apply as normal (i.e if your total carried weight is greater than your 'recommended encumbrance', too much more and you cannot sprint, etc). Once the 'Exhausted' fatigue state is reached, 'recommended encumbrance' will become half the normal value (or 15kg). This can be fixed with adequate rest.
 
+<span id="weapons"></span><span id="Weapons"></span>
+
 ### Weapons
 
 The ability to hold a weapon steady while aiming is affected by fatigue. This can be significant for using the [Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), or [Bear Spear](./Bear%20Spear.md). Aim will waiver more and the Bear Spear cannot be set for very long when the fatigue bar is low. (See:[Hunting](./Hunting.md)).
+
+<span id="struggles"></span><span id="Struggles"></span>
 
 ### Struggles
 
 When the character is fully rested, struggles seem to take less time and the [struggle](./Struggle.md) bar seems more easily filled. As exhaustion sets in, the opposite becomes apparent. Great difficulty is imparted and the struggle bar may become impossible to move. Being attacked by Animals during exhaustion is extremely hazardous. It's worth noting fatigue has no direct disadvantage in a [Moose](./Moose.md), or [Bear](./Bear.md) mauling, due to the inability to fight while being mauled.
 
+<span id="starvation"></span><span id="Starvation"></span>
+
 ### Starvation
 
 If a player remains starving for a long enough time, the maximal amount of rest that they can acquire will start to gradually decrease. It is noticed by the yellow exclamation mark that appears beside the eye icon and by the red color that starts filling up the inside of the fatigue bar. This issue is easily solved by consuming food, the red color inside the fatigue bar will then gradually start to decrease, but that doesn't prevent the player from entirely filling up their fatigue bar with sleep right away.
 
+<span id="fatigue_bar"></span><span id="Fatigue_Bar"></span><span id="fatigue-bar"></span>
+
 ## Fatigue Bar
 
 Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded ↔︎ Rested. Arrows in the bar indicate which direction it is filling with more arrows meaning faster progress. Fatigue is the inverse of the fatigue bar, meaning that when the bar is full, fatigue is at a minimum, and when it is depleted, fatigue is at a maximum.
+
+<span id="exhausted"></span><span id="Exhausted"></span>
 
 ### Exhausted
 
@@ -131,17 +163,25 @@ Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded 
 - Severe penalties during struggles
 - Rope climbing is slow and falls become extremely likely
 
+<span id="drained"></span><span id="Drained"></span>
+
 ### Drained
 
 - Noticeable difficulty aiming bow/rifle
 - Significant penalties during struggles
+
+<span id="tired"></span><span id="Tired"></span>
 
 ### Tired
 
 - Recommended encumbrance begins to drop when the fatigue bar reaches below 50% in all difficulties
 - Rope climbing at average rate of speed
 
+<span id="winded"></span><span id="Winded"></span>
+
 ### Winded
+
+<span id="rested"></span><span id="Rested"></span>
 
 ### Rested
 
@@ -150,11 +190,15 @@ Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded 
 - Struggles seem easier (except against bears)
 - Rope climbing is easy and fast
 
+<span id="hunger_and_parasites_affects_fatigue"></span><span id="Hunger_and_Parasites_affects_fatigue"></span><span id="hunger-and-parasites-affects-fatigue"></span>
+
 ## Hunger and Parasites affects fatigue
 
 ![UI Long Hunger](../assets/UI_Long-Hunger.jpg) A player that remains starving for a long enough time will start to have their [fatigue](./Fatigue.md) affected; the maximal amount of energy that the player will be able to acquire through sleep will start to decrease, which is represented by the red color that starts filling up the inside of the fatigue bar, as well as by the yellow exclamation mark that appears next to the eye icon, symbolizing the fatigue bar. This issue is easily solved by consuming food, the red color won't vanish immediately, but the player will be allowed to gain full energy from sleep right away.
 
 [Intestinal Parasites](./Intestinal%20Parasites.md) also slowly drain the player's maximum available Fatigue bar to the same effect, but have a far harsher treating period.
+
+<span id="character_quotes"></span><span id="Character_quotes"></span><span id="character-quotes"></span>
 
 ## Character quotes
 
@@ -172,5 +216,7 @@ Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded 
 - (Tired exhausted sighing sounds)
 - (Deep and heavy inhaling and exhaling)
 - (Yawning sounds)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

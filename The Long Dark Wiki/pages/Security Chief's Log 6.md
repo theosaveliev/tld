@@ -28,6 +28,8 @@
 
 **Security Chief's Log 6** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the tale progresses.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 6**_
@@ -39,6 +41,8 @@ But the character of the locals, both here and far inland, seems in our favour.
 There aren’t any helping hands. Outsiders get ignored and then forgotten.
 
 And we play the part.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

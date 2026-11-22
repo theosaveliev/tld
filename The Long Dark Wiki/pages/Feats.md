@@ -13,6 +13,8 @@
 
 ![A player achieving the Free Running feat](../assets/Feat.jpg)_A player achieving the Free Running feat_ **Feats** are passive perk bonuses that can be unlocked in _[The Long Dark](./The%20Long%20Dark.md)_ and enabled in [Survival Mode](./Survival%20Mode.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Feats are a form of persistent progression, offering passive bonuses to Survival Mode characters. They cannot be used while playing [Wintermute](./Wintermute.md), [Challenges](./Challenge.md) or [Misery Mode](./Misery.md). As of Tales from the Far Territory Part 5 (June 2024) there are 13 different Feats, each with unique effects. Feat progression is acquired while playing Survival Mode or Challenges.
@@ -39,9 +41,13 @@ The number of active Feats allowed in a game depends on the selected difficulty:
 
 Feat slots may be left empty for added challenge.
 
+<span id="list_of_feats"></span><span id="List_of_Feats"></span><span id="list-of-feats"></span>
+
 ## List of Feats
 
 Each obtainable Feat is listed below, along with their requirements for unlocking and unique effects.
+
+<span id="base_game"></span><span id="Base_Game"></span><span id="base-game"></span>
 
 ### Base Game
 
@@ -62,6 +68,8 @@ Each obtainable Feat is listed below, along with their requirements for unlockin
 
 &lt;/table-progress-tracking&gt;
 
+<span id="dlc_content"></span><span id="DLC_Content"></span><span id="dlc-content"></span>
+
 ### DLC Content
 
 The following feats require the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion to be installed to be unlocked and used.
@@ -75,6 +83,8 @@ The following feats require the [Tales from the Far Territory](./Tales%20from%20
 
 &lt;/table-progress-tracking&gt;
 
+<span id="legacy"></span><span id="Legacy"></span>
+
 ### Legacy
 
 The following feat is a legacy Feat that can no longer be unlocked on the current game version. &lt;table-progress-tracking table-id="3" unique-column-index="2"&gt;
@@ -84,6 +94,8 @@ The following feat is a legacy Feat that can no longer be unlocked on the curren
 | [Master Hunter icon](../assets/Master_Hunter_icon.png) | [Big Cat Killer](./Big%20Cat%20Killer.md) | You've successfully killed 3 [Cougars](./Cougar.md) in a single game. | Wildlife are less aware of your presence. | Halves all animal detection ranges (sight, smell, sound). | 2024-06-24 |
 
 &lt;/table-progress-tracking&gt;
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -30,6 +30,8 @@
 
 **Handwritten Note** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found pinned to the front door of the Dr Larsen's Clinic during the main mission [Perseverance](./Perseverance.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Handwritten Note**_
@@ -47,6 +49,8 @@ For serious injuries and emergencies, Jane and Gary are your first responder's p
 Thanks.
 
 Dr Larsen
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

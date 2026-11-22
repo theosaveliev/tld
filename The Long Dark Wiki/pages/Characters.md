@@ -59,18 +59,24 @@
 - [Mentioned Organizations](#mentioned-organizations)
 - [Buffer Memory Characters](#buffer-memory-characters)
 
-**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and \[//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article\].**
+**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article].**
 
-_SPOILER WARNING_  
+<span id="stub"></span> _SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 [Great Bear Island](./Great%20Bear%20Island.md) contains many residents that once thrived in the various regions and towns across the Island before and after the [First Flare](./First%20Flare.md). Many are found and interacted with in [Wintermute](./Wintermute.md). [Survival Mode](./Survival%20Mode.md) also contains its own references to many of the Island's inhabitants, but many characters and locations found within Wintermute have been changed, suggesting an alternate timeline of events takes place in Survival Mode.
+
+<span id="wintermute"></span><span id="Wintermute"></span>
 
 ## Wintermute
 
 Wintermute places a large focus on interacting with several inhabitants of Great Bear Island. Several story points only progress when speaking with or accepting quests for many central characters.
 
+<span id="episode_1_do_not_go_gentle"></span><span id="Episode_1:_Do_Not_Go_Gentle"></span><span id="episode_1:_do_not_go_gentle"></span><span id="episode-1-do-not-go-gentle"></span>
+
 ### [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+<span id="will_mackenzie"></span><span id="Will_Mackenzie"></span><span id="will-mackenzie"></span>
 
 ### [Will Mackenzie](./Will%20Mackenzie.md)
 
@@ -80,6 +86,8 @@ William Mackenzie is the central protagonist of the story of _The Long Dark_. Th
 
 He is voiced by [Mark Meer](wikipedia:Mark_Meer).
 
+<span id="astrid_greenwood"></span><span id="Astrid_Greenwood"></span><span id="astrid-greenwood"></span>
+
 ### [Astrid Greenwood](./Astrid%20Greenwood.md)
 
 ![Astrid](../assets/Astrid.png)
@@ -87,6 +95,8 @@ He is voiced by [Mark Meer](wikipedia:Mark_Meer).
 Astrid Greenwood is the deuteragonist of the story of _The Long Dark_. A researcher wishing to travel to Great Bear Island with a mysterious Hardcase, Astrid is separated from Mackenzie after their small plane crashes to the ground in the northern Canadian wilderness. The two are separated and forced to survive in the unforgiving reality of the Quiet Apocalypse, as Astrid is forced to continue her journey to [Perseverance Mills](./Perseverance%20Mills.md) alone and without the Hardcase.
 
 She is voiced by [Jennifer Hale](wikipedia:Jennifer_Hale).
+
+<span id="grey_mother"></span><span id="Grey_Mother"></span><span id="grey-mother"></span>
 
 ### [Grey Mother](./Grey%20Mother.md)
 
@@ -98,6 +108,8 @@ In Survival Mode, Grey Mother's home is ransacked, with knocked over furniture a
 
 She is voiced by [Gwynyth Walsh](wikipedia:Gwynyth_Walsh).
 
+<span id="methuselah"></span><span id="Methuselah"></span>
+
 ### [Methuselah](./Methuselah.md)
 
 ![Methuselah](../assets/Methuselah.png)
@@ -107,6 +119,8 @@ A mysterious old man that seems to be able to travel around the Island with no d
 Methuselah appears in Episodes 1 and 2.
 
 He is voiced by [Richard Newman](wikipedia:Richard_Newman_%28actor%29).
+
+<span id="hobbs"></span><span id="Hobbs"></span>
 
 ### [Hobbs](./Hobbs.md)
 
@@ -118,7 +132,11 @@ In Survival Mode, the Paradise Meadows Farmhouse contains signs of a struggle, w
 
 He is voiced by Ben Cotton.
 
+<span id="episode_2_luminance_fugue"></span><span id="Episode_2:_Luminance_Fugue"></span><span id="episode_2:_luminance_fugue"></span><span id="episode-2-luminance-fugue"></span>
+
 ### [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)
+
+<span id="jeremiah"></span><span id="Jeremiah"></span>
 
 ### [Jeremiah](./Jeremiah.md)
 
@@ -130,6 +148,8 @@ Jeremiah's homestead is vacant in Survival Mode, suggesting that he may have bee
 
 He is voiced by [David Hayter](wikipedia:David_Hayter).
 
+<span id="mathis"></span><span id="Mathis"></span>
+
 ### [Mathis](./Mathis.md)
 
 ![Mathis snow](../assets/Mathis_snow.jpg)
@@ -140,7 +160,11 @@ Mathis may return in Episode 5
 
 He is voiced by [Elias Toufexis](Wikipedia:Elias_Toufexis) (previously Gord Marriott in Episode 2).
 
+<span id="episode_3_crossroads_elegy"></span><span id="Episode_3:_Crossroads_Elegy"></span><span id="episode_3:_crossroads_elegy"></span><span id="episode-3-crossroads-elegy"></span>
+
 ### [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+<span id="molly"></span><span id="Molly"></span>
 
 ### [Molly](./Molly.md)
 
@@ -152,6 +176,8 @@ Her fate in Survival Mode is unknown, with her nearby [Barn](./Barn%20%28Molly%2
 
 She is voiced by Jennifer Kitchen.
 
+<span id="father_thomas"></span><span id="Father_Thomas"></span><span id="father-thomas"></span>
+
 ### [Father Thomas](./Father%20Thomas.md)
 
 ![Father thomas](../assets/Father_thomas.jpg)
@@ -162,7 +188,11 @@ Thomson's Crossing Community Hall is vacant in Survival Mode, and Father Thomas 
 
 He is voiced by Alec Willows.
 
+<span id="episode_4_fury_then_silence"></span><span id="Episode_4:_Fury,_then_Silence"></span><span id="episode_4:_fury,_then_silence"></span><span id="episode-4-fury-then-silence"></span>
+
 ### [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+
+<span id="vachon_and_heller"></span><span id="Vachon_and_Heller"></span><span id="vachon-and-heller"></span>
 
 ### [Vachon](./Vachon.md) and [Heller](./Heller.md)
 
@@ -174,6 +204,8 @@ Heller is voiced by Jordan Waunch.
 
 Vachon is voiced by Jacques Lalonde.
 
+<span id="franklin"></span><span id="Franklin"></span>
+
 ### [Franklin](./Franklin.md)
 
 ![Franklin Torture](../assets/Franklin_Torture.jpg)
@@ -184,6 +216,8 @@ Franklin's bloodied chair can be found in its cell in Survival Mode.
 
 He is voiced by Laurie Mcginnis.
 
+<span id="jace"></span><span id="Jace"></span>
+
 ### [Jace](./Jace.md)
 
 ![Jace](../assets/Jace.png)
@@ -192,11 +226,17 @@ A young graduate student in astrophysics, Jace has become trapped in a guerilla 
 
 She is voiced by Tina Grant.
 
+<span id="episode_5_the_light_at_the_end_of_all_things"></span><span id="Episode_5:_The_Light_At_The_End_Of_All_Things"></span><span id="episode_5:_the_light_at_the_end_of_all_things"></span><span id="episode-5-the-light-at-the-end-of-all-things"></span>
+
 ### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+<span id="atwood"></span><span id="Atwood"></span>
 
 ### [Atwood](./Atwood.md)
 
 Jace's thesis professor and a resident of Perseverance Mills as well as the friend of Jeremiah, Atwood is currently a woman that Mackenzie is in search of in order to pass the message "Wintermute" along to.
+
+<span id="jane_yang"></span><span id="Jane_Yang"></span><span id="jane-yang"></span>
 
 ### [Jane Yang](./Jane%20Yang.md)
 
@@ -206,13 +246,19 @@ Originally appearing in 2 cameos in Episodes 3 and 4, Jane Yang is a resident of
 
 She is voiced by Rita Yee.
 
+<span id="minor_wintermute_characters"></span><span id="Minor_Wintermute_Characters"></span><span id="minor-wintermute-characters"></span>
+
 ## Minor Wintermute Characters
+
+<span id="maureen"></span><span id="Maureen"></span>
 
 ### Maureen
 
 A woman that is heard briefly in a cutscene in the beginning flashback of Episode 1, while Mackenzie is still in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md). She is possibly a secretary or someone that works for the company, as she phones Mackenzie to deliver a message that someone is arriving. Her voice can barely be heard over the call, but subtitles reveal what she is saying. Her phone call with Mackenzie is interrupted when Astrid Greenwood arrives. Her name appears in the credits for Episode 1 and 2.
 
 She is voiced by Jackie Blackmore.
+
+<span id="astrid_and_wills_son"></span><span id="Astrid_and_Will&#x27;s_Son"></span><span id="astrid_and_will&#x27;s_son"></span><span id="astrid-and-wills-son"></span>
 
 ### Astrid and Will's Son
 
@@ -222,17 +268,23 @@ The son's name is never mentioned, but is brought up the start of Episode 1 duri
 
 Despite the divorce, both Will and Astrid kept their wedding rings, possibly to remember the good times they had with their son and former spouse. Will later sympathizes with Grey Mother's predicament regarding her own daughter after having lost his own, saying that "Losing a child is like..." with Grey Mother finishing him, "Like losing your life".
 
+<span id="martin_barker"></span><span id="Martin_Barker"></span><span id="martin-barker"></span>
+
 ### [Martin Barker](./Martin%20Barker.md)
 
 ![Martin Barker](../assets/Martin_Barker.png)
 
 The owner of [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) and former husband of Grey Mother, Martin Barker is found dead during the course of Episode 1, being eaten by a Wolf. He can also be found dead in Survival Mode as a possible spawn for the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md).
 
+<span id="lilith_barker"></span><span id="Lilith_Barker"></span><span id="lilith-barker"></span>
+
 ### [Lilith Barker](./Lilith%20Barker.md)
 
 ![Lilith Barker](../assets/Lilith_Barker.png)
 
 The deceased daughter of Grey Mother and Martin Barker, she is a woman that Grey Mother occasionally confuses for Astrid when helping Mackenzie. She is currently buried at the cemetery at [St. Christopher's Church](./St.%20Christopher%27s%20Church.md).
+
+<span id="lake_forest_talker"></span><span id="Lake_Forest_Talker"></span><span id="lake-forest-talker"></span>
 
 ### Lake Forest Talker
 
@@ -241,6 +293,8 @@ The deceased daughter of Grey Mother and Martin Barker, she is a woman that Grey
 A Forest Talker can be found at [Mystery Lake](./Mystery%20Lake%20%28location%29.md) in Episode 2 and gives the [Lake Gunshots](./Lake%20Gunshots.md) side mission. He is fully voiced, but cannot be seen when initially met. Depending on choices made during his questline, he will live and reward Mackenzie with [Deerskin Pants](./Deerskin%20Pants.md) or will be found dead outside his cabin with an arrow stuck in him.
 
 The Forest Talker is voiced by Brian Drummond.
+
+<span id="hank"></span><span id="Hank"></span>
 
 ### Hank
 
@@ -259,11 +313,15 @@ He shares the same model as Martin Barker, but with different facial features. C
 
 _"Hank" at the start of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md), but with facial hair_
 
+<span id="radio_voice_man"></span><span id="Radio_Voice_Man"></span><span id="radio-voice-man"></span>
+
 ### Radio Voice Man
 
 In Episode 2, while attempting to get a radio message out on a repaired radio, Will Mackenzie and Jeremiah hear a man on another frequency calling from Perseverance Mills desperately calling anyone for aid from another party that is currently heading to the Island. The broadcast is interrupted when the radio the 2 men are using dies. This same broadcast can be heard again by Astrid Greenwood in Episode 3, from another perspective.
 
 The man is voiced by Noel Johansen.
+
+<span id="convicts"></span><span id="Convicts"></span>
 
 ### [Convicts](./Convicts.md)
 
@@ -273,11 +331,15 @@ Various Convicts of Blackrock Prison roam the Island in many of Wintermute's Epi
 
 Some of the Convicts in Episode 4 are voiced by Jordan Waunch and Jacques Lalonde.
 
+<span id="mollys_husband"></span><span id="Molly&#x27;s_Husband"></span><span id="molly&#x27;s_husband"></span><span id="mollys-husband"></span>
+
 ### [Molly's Husband](./Molly%27s%20Husband.md)
 
 ![Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png)
 
 The deceased husband of Molly, his body is found in the basement of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) in Episode 3. While a backstory is never fully given, Molly alludes to a possible abusive relationship stemming between the two of them that ultimately resulted in his recent death at the hands of wolves.
+
+<span id="gwen"></span><span id="Gwen"></span>
 
 ### Gwen
 
@@ -289,6 +351,8 @@ In Survival Mode, a blood stain appears at the tail section where she is found i
 
 She is voiced by Paula Hoffman.
 
+<span id="logan_ava_wade"></span><span id="Logan,_Ava,_Wade"></span><span id="logan,_ava,_wade"></span><span id="logan-ava-wade"></span>
+
 ### Logan, Ava, Wade
 
 3 Crash Survivors found scattered across Pleasant Valley in Episode 3 in the [Coming Storm](./Coming%20Storm.md) mission. Much like Gwen, they must be rescued by Astrid and returned to the Community Hall.
@@ -297,9 +361,13 @@ She is voiced by Paula Hoffman.
 - Ava is voiced by Aimee Ayotte.
 - Wade is voiced by Adam Trask.
 
+<span id="dimitri"></span><span id="Dimitri"></span>
+
 ### Dimitri
 
 A plane Crash Survivor found in the Community Hall in Episode 3, he is only notable because he forces Astrid to head to the plane crash site in order to retrieve his [Insulin](./Insulin.md), as he suffers from the [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) affliction. The [Suitcase](./Suitcase.md) holding his Insulin at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) is labeled "[Suitcase belonging to Dimitri S.](./Suitcase%20belonging%20to%20Dimitri%20S..md)"
+
+<span id="crash_survivor"></span><span id="Crash_Survivor"></span><span id="crash-survivor"></span>
 
 ### [Crash Survivor](./Crash%20Survivor.md)
 
@@ -319,9 +387,13 @@ The passengers of the crashed plane found inside the Community Hall in Episode 3
 - Bennett
 - Franklin
 
+<span id="donner"></span><span id="Donner"></span>
+
 ### [Donner](./Donner.md)
 
 Donner is an unseen character that is the center focus of the Convict's motivations in Episode 4. The son of Mathis, his father desperately tries to free him from the solitary cell of Blackrock Prison. He is described as a once in a generation criminal, too psychopathic to ever return to normal society.
+
+<span id="townsperson_one_and_two"></span><span id="Townsperson_One_and_Two"></span><span id="townsperson-one-and-two"></span>
 
 ### Townsperson One and Two
 
@@ -333,15 +405,23 @@ They appear in [Cooper's Blind](./Cooper%27s%20Blind.md) in Episode 5, but have 
 
 Townsperson One is voiced by Jeff Cooper. Townsperson Two is voiced by Jason McKinnon.
 
+<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+
 ## Survival Mode
 
 Survival Mode is unique in that it has no real plot found outside of the [Tales](./Tales.md) found within the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). [Buffer Memories](./Buffer%20Memories.md) reveal the existence of various Great Bear Island inhabitants of various locations encountered in Wintermute, but the player character does encounter any other humans aside from the occasional [Frozen Corpse](./Frozen%20Corpse.md). Below is a list of characters mentioned only in Survival Mode:
 
+<span id="tales_from_the_far_territory_characters"></span><span id="Tales_From_the_Far_Territory_Characters"></span><span id="tales-from-the-far-territory-characters"></span>
+
 ### Tales From the Far Territory Characters
+
+<span id="dr._rüdiger"></span><span id="Dr._Rüdiger"></span><span id="dr-rüdiger"></span>
 
 ### Dr. Rüdiger
 
 [Rüdiger](./Dr.%20R%C3%BCdiger.md) is the central focus of the Tales of From the Far Territory storyline. Very little is known about him, other than that he is responsible for the creation of a large machine inside the [Langston Mine](./Langston%20Mine.md), as well as ordering an unknown experimentation on several people.
+
+<span id="security_chief_lena_vertasky"></span><span id="Security_Chief_Lena_Vertasky"></span><span id="security-chief-lena-vertasky"></span>
 
 ### Security Chief Lena Vertasky
 
@@ -349,27 +429,41 @@ Former [Security Chief](./The%20Security%20Chief.md) under the employ of Rüdige
 
 She is voiced by Devon Busswood
 
+<span id="the_foreman"></span><span id="The_Foreman"></span><span id="the-foreman"></span>
+
 ### The Foreman
 
 The former head [Foreman](./The%20Foreman.md) of the Langston Mine, The Foreman was responsible for ensuring that the mine operated safely as well as helping oversee the construction of Rüdiger's machine inside the mine. His fate is unknown, but his [Tool Belt](./Foreman%27s%20Tool%20Belt.md) is found inside the control room of the Glimmer Fog machine deep inside the Mine.
+
+<span id="project_medical_officer"></span><span id="Project_Medical_Officer"></span><span id="project-medical-officer"></span>
 
 ### Project Medical Officer
 
 The [Project Medical Officer](./Project%20Medical%20Officer.md) was employed by Rüdiger to study the mental effects of the Langston Mine workers after they were exposed to The Machine. He receives the most attention in [Signal Void](./Signal%20Void.md), but is mentioned a few times in the two remaining Tales.
 
+<span id="patient_7"></span><span id="Patient_7"></span><span id="patient-7"></span>
+
 ### Patient 7
 
 An unknown man affected by an unknown mentally degrading condition, Patient 7 only appears in the Interview Transcripts left by the Project Medical Officer in Signal Void.
+
+<span id="trader"></span><span id="Trader"></span>
 
 ### [Trader](./Trader.md)
 
 A currently unknown figure that appears in Survival Mode.
 
+<span id="mentioned_characters"></span><span id="Mentioned_Characters"></span><span id="mentioned-characters"></span>
+
 ## Mentioned Characters
 
 Below is a list of names involving any characters mentioned or found in Wintermute/Survival Mode in notes. Sometimes they appear as corpses.
 
+<span id="wintermute_1"></span><span id="wintermute-1"></span>
+
 ### Wintermute
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 #### Episode 1
 
@@ -412,6 +506,8 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - [Orca Gas Station](./Orca%20Gas%20Station.md) Owner - Mentioned in Milton Hidden Cache Note
 - Great Bear Water Authority - Posted [Public Notice](./Public%20Notice.md) note to the Milton Water Tower
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 #### Episode 2
 
 - Unknown person - Wrote [Aurora Observations](./Aurora%20Observations.md)
@@ -440,7 +536,9 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Deb - Mentioned in [Aurora Hatch Door Entry Code](./Aurora%20Hatch%20Door%20Entry%20Code.md)
 - Hank - Center focus of the [Hank's Hatch](./Hank%27s%20Hatch.md) side mission, found dead on the floor inside his prepper bunker. Wrote [Letter for Hank's Niece](./Letter%20for%20Hank%27s%20Niece.md), [Hank's Journal - Part One](./Hank%27s%20Journal%20-%20Part%20One.md), [Hank's Journal - Part Two](./Hank%27s%20Journal%20-%20Part%20Two.md)
 - Angela - Hank's niece. Possibly found dead just outside Hank's hatch after being mistake for a Wolf by Hank or found dead near [Unnamed Pond](./Unnamed%20Pond.md)
-- Angela's mom - Mentioned in [Letter for Hank's Niece](./Letter%20for%20Hank%27s%20Niece.md), possibly found dead just outside Hank's hatch after being mistake for a Wolf by Hank or found dead near [Unnamed Pond](./Unnamed%20Pond.md)\*
+- Angela's mom - Mentioned in [Letter for Hank's Niece](./Letter%20for%20Hank%27s%20Niece.md), possibly found dead just outside Hank's hatch after being mistake for a Wolf by Hank or found dead near [Unnamed Pond](./Unnamed%20Pond.md)*
+
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
 
 #### Episode 3
 
@@ -475,6 +573,8 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Sam - Wrote [Undelivered Letter](./Undelivered%20Letter.md). Possibly stole [Church Artifact](./Church%20Artifact.md)
 - Cindi - Mentioned in [Undelivered Letter](./Undelivered%20Letter.md). Possibly stole [Church Artifact](./Church%20Artifact.md)
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 #### Episode 4
 
 - Unknown woman - Mathis mentions this woman at the end of Episode 2, and he elaborates that she was a woman that wandered into the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), saw Mathis, wouldn't stop screaming, and Mathis then chose to "shut her up." She is presumed killed and Will Mackenzie believed her to be Astrid Greenwood
@@ -499,9 +599,13 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Unknown Animal Researcher - Dead regional ecologist found in [Blackrock Rumours](./Blackrock%20Rumours.md). Hired by Blackrock Admin to research a highly aggressive wolf. Holding [Great Bear Wolf Behaviour Study](./Great%20Bear%20Wolf%20Behaviour%20Study.md)
 
 
+<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+
 #### Episode 5
 
 - TBA
+
+<span id="survival_mode_1"></span><span id="survival-mode-1"></span>
 
 ### Survival Mode
 
@@ -526,6 +630,8 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Patient 7 - Unknown patient interviewed by Project Medical Officer in several [Interview Transcripts](./Interview%20Transcript%204.md)
 - Unknown friend of Security Chief Vertasky - Mentioned in [Security Chief's Log 31](./Security%20Chief%27s%20Log%2031.md). Helicopter carrying message was sabotaged so message could not get out to them
 
+<span id="mentioned_organizations"></span><span id="Mentioned_Organizations"></span><span id="mentioned-organizations"></span>
+
 ## Mentioned Organizations
 
 - Nation of Canada - Several Canadian flags, foods, and clothing are present throughout the Island and make reference to the nation state.
@@ -543,6 +649,8 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Blackrock Admin Team - Mentioned in [Blackrock Memo - Late Employee](./Blackrock%20Memo%20-%20Late%20Employee.md), [Great Bear Wolf Behaviour Study](./Great%20Bear%20Wolf%20Behaviour%20Study.md)
 - Blackrock Mountain Power - Power company that created [Power Plant](./Power%20Plant.md) in the Blackrock region
 - Jahnn Industries - Mentioned on the back of [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md). Funded [Dr. Rüdiger"s](./Dr.%20R%C3%BCdiger.md) machine experemient in the [Langston Mine](./Langston%20Mine.md)
+
+<span id="buffer_memory_characters"></span><span id="Buffer_Memory_Characters"></span><span id="buffer-memory-characters"></span>
 
 ## Buffer Memory Characters
 

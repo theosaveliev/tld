@@ -15,7 +15,7 @@
 
 [Fir Firewood icon](../assets/Fir_Firewood_icon.png)
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Wintermute:** No
 
@@ -39,9 +39,13 @@
 
 **Fir Firewood** is a fuel for fires in _[The Long Dark](./The%20Long%20Dark.md)_, it also is a material for repairing the [Heavy Hammer](./Heavy%20Hammer.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool](./Tools.md). It can also be found inside of structures, firewood bins, rotten tree trunks, or near campfires and corpses. It can also be found by [Beachcombing](./Beachcombing.md). Fir has no bonus [fire-starting](./Fire%20Starting.md) chance, and is thus unfavorable for starting [Fire](./Fire.md) with.
+
+<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
 
 ## Fire Starting info
 
@@ -59,6 +63,8 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 
 **Burn Density:** 1.5 hr/kg (0.68 hr/lb)
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 - Fir Limbs respawn continually, making them a renewable resource and the [Heavy Hammer](./Heavy%20Hammer.md) a renewable tool.
@@ -66,9 +72,13 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 - Large Fir Limbs yield 4 Fir Firewood with a [Hatchet](./Hatchet.md) (60 minutes), but cannot be harvested with a Hacksaw.
 - Large and Small Fir Limbs cost tools the same condition per use (4%), making Large limbs more tool-friendly to harvest, except with the Hacksaw which cannot harvest Large Cedar or Large Fir Limbs.
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minutes, so it's 90 min/kg is less efficient per weight than [Cedar Firewood](./Cedar%20Firewood.md) at 120 min/kg. However, Fir Firewood is more time-efficient to harvest compared to [Cedar Firewood](./Cedar%20Firewood.md), since each piece of Fir burns for 30 minutes longer. A small Fir Limb will burn for 4.5 hours(3 pieces of Fir) whereas a small [Cedar](./Cedar%20Firewood.md) Limb provides 3 hours of burn-time. This is specifically useful when the player decides to chop wood outside but has limited time to do so because of cold weather, maintaining [Fire](./Fire.md), etc.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -105,10 +115,12 @@ Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minute
 | [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 | [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md)<br>- 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.073)):**
+- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**
   - Fuel Sources: Increased the heating radius of Hardwood, Softwood, and Reclaimed Wood fuel types.
   - Tuned all Fuel sources. Hardwood, Softwood, and Reclaimed wood all now have reduced burn times, but are also lighter to carry. Wood Foraging has been tuned to be more generous. Net result is Fuel is easier to find and carry, but you need more of it.
-- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
+- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

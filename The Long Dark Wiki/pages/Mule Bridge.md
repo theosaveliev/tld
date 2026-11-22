@@ -18,9 +18,13 @@ Region
 
 **Type:** Landmark
 
+<span id="wintermute"></span><span id="Wintermute"></span>
+
 ## Wintermute
 
 In [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), [Will Mackenzie](./Will%20Mackenzie.md) is required to cross this bridge during the mission [The Detonators](./The%20Detonators.md) in order to retrieve [Detonators](./Detonators.md) within the mine. Upon completing it, an earthquake destroys an entrance to the mine and the bridge is permanently destroyed for the rest of the episode, forcing Will to find another way back to [Blackrock Prison](./Blackrock%20Prison.md).
+
+<span id="survival_mode_changes"></span><span id="Survival_Mode_changes"></span><span id="survival-mode-changes"></span>
 
 ## Survival Mode changes
 

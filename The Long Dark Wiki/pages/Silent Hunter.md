@@ -10,6 +10,8 @@
 
 **Silent Hunter** is an [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is obtained after surviving the first fifty days without firing the [Hunting Rifle](./Hunting%20Rifle.md), [Revolver](./Revolver.md) or the [Distress Pistol](./Distress%20Pistol.md) in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim. It is highly recommended to utilize the [snare](./Snare.md), [Survival Bow](./Survival%20Bow.md) and other craftables to their fullest extent as well as fishing in order to maximize chances of reaching fifty days survived.
@@ -17,6 +19,8 @@ This achievement is obtained after surviving the first fifty days without firing
 This achievement must be attempted on the first fifty days of the play through. If the player fires the rifle, revolver or distress pistol within the first fifty days of surviving it will nullify the achievement for that entire play through.
 
 This achievement can be earned on Interloper since the rifle is not required for this [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md).
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History
 

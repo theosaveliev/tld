@@ -4,6 +4,8 @@
 
 **Curing** is a mechanic in [_The Long Dark_](./The%20Long%20Dark.md), which converts raw resources into crafting items.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Some raw resources from [plants](./Wildlife.md#Plant_and_Fungal_Species) and [animals](./Wildlife.md) cannot be used for crafting in their initial state, and must first be cured: these include [Birch Sapling](./Green%20Birch%20Sapling.md) and [Maple Sapling](./Green%20Maple%20Sapling.md), all types of [Animal Pelts/Hides](https://thelongdark.fandom.com/wiki/Materials#Fresh_Hides), and [Fresh Gut](./Fresh%20Gut.md) from animals.
@@ -15,6 +17,8 @@ These items may be cured by dropping them on the floor or otherwise placing them
 - Fresh items which are partially cured may be picked up, resuming their decay but retaining their "X% Cured", which is can progress as soon as they are dropped/placed indoor again.
 
 - Curing items placed inside a container indoors will also cure, but at a slower rate. Many small caves can also be used for curing, but items should be placed as far as possible from the entrance; if they are curing, the "Cure%" will appear on the item.
+
+<span id="curing_time"></span><span id="Curing_Time"></span><span id="curing-time"></span>
 
 ## Curing Time
 
@@ -30,6 +34,8 @@ These items may be cured by dropping them on the floor or otherwise placing them
 | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 10 |
 | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 10 |
 | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 12 |
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

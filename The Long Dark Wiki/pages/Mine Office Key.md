@@ -35,7 +35,11 @@
 
 The **Mine Office Key** is a unique key found only in [Survival Mode](./Survival%20Mode.md), specifically in the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
+
+<span id="location"></span><span id="Location"></span>
 
 ### Location
 
@@ -44,6 +48,8 @@ It can be found on a corpse in the mine. Starting from the bottom floor of the [
 ![The corpse with the key](../assets/Mine_Office_Key_location.jpg)
 
 ![The other end of the chute for reference](../assets/Mine_Office_Key_location_2.jpg)
+
+<span id="trailer"></span><span id="Trailer"></span>
 
 ### Trailer
 
@@ -64,6 +70,8 @@ Loot:
 ![The trailer](../assets/Mine_Office_Key_trailer.jpg)
 
 ![The inside of the trailer](../assets/Mine_Office_Key_trailer_3.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

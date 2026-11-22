@@ -17,6 +17,10 @@ In [Survival Mode](./Survival%20Mode.md), collectibles come in Eight types:
 - [Mementos](./Mementos.md) - Mementos are useful hints for survivors which might lead to loot or new locations in regions.
 - [Recipe Cards](./Recipe%20Cards.md) - Unlock powerful Unique Recipes for the player to craft with a [Cooking Skillet](./Cooking%20Skillet.md) or [Cooking Pot](./Cooking%20Pot.md).
 
+<span id="survival_modechallenges_collectibles"></span><span id="Survival_Mode/Challenges_Collectibles"></span><span id="survival_mode/challenges_collectibles"></span><span id="survival-modechallenges-collectibles"></span>
+
 ## Survival Mode/Challenges Collectibles
+
+<span id="wintermute_collectibles"></span><span id="Wintermute_Collectibles"></span><span id="wintermute-collectibles"></span>
 
 ## Wintermute Collectibles

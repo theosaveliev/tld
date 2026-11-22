@@ -38,11 +38,15 @@
 
 **Sports Socks** are a type of Clothing in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Sports Socks are a common starting item and are the worst type of socks; they also have the highest rate of decay of all socks (requiring them to be repaired more often). They should be replaced at the first opportunity. Their warmth bonus is so low that it makes little difference even wearing them, and they do not offer any other protection (e.g., from wind) since they are an inner layer clothing item (unless the player has no shoes).
 
 Despite this, they may still be worth picking up, especially in higher difficulty levels, as they can be harvested for one piece of [Cloth](./Cloth.md), which can be used for fixing warmer clothing.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -51,6 +55,8 @@ Despite this, they may still be worth picking up, especially in higher difficult
 ![Clothing model icon.](../assets/Sports_Socks_Model_icon.png)
 
 ![Clothing model icon damaged.](../assets/Sports_Socks_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

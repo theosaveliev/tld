@@ -24,11 +24,15 @@ _For the character of the same name, see [Donner](./Donner.md)._
 
 **Donner** is the fifth and final mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [story](./Wintermute.md). In this mission, Mackenzie fetches the [hardcase](./Astrid%27s%20Hardcase.md) from the warden's office and escapes Blackrock with [Jace](./Jace.md) after [Mathis'](./Mathis.md) attempts to free his son [Donner](./Donner.md) with dynamite fails.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Escape the cell block.
 - Reach the Warden's office.
 - Meet Jace at the Power Plant.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -51,10 +55,14 @@ Once in the Power Plant, a cutscene will play where the player finally meets [Ja
 
 The final scene of the episode shows [Astrid](./Astrid%20Greenwood.md) reaching [Perseverance Mills](./Perseverance%20Mills.md) by canoe, where two unknown survivors note that she is alive, and mention she's not an escapé from a quarantine. [Jane Yang](./Jane%20Yang.md) then appears to attend to her, and realizes that she doesn't have the [hardcase](./Astrid%27s%20Hardcase.md). This inadvertently reveals that the case contains a cure for the disease afflicting the inhabitants of the town.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Given that Jace called all phones in the region via the party line whenever she spoke to Will, it's likely that Mathis was listening in to Mackenzie's last conversation with Jace from the phone in the warden's office.
 - You can stash items in the lockers in the steam tunnels and you can retrieve them when escaping however even if you have a firearm such as the revolver with you, you can't use it to fight Mathis.
+
+<span id="bugs"></span><span id="Bugs"></span>
 
 ## Bugs
 

@@ -20,23 +20,29 @@ Episode
 
 **Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Jane Yang](./Jane%20Yang.md)
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Perseverance&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Perseverance&amp;action=edit expanding it].**
 
 > “**A strange illness has taken hold in Perseverance Mils. People are missing. Investigate the town and see what you can find out.**”
 
 **Perseverance** is the first mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Investigate Dr Larsen's whereabouts.
 - Check out the town's key locations.
-  - Find clues at the Clinic \[0/3\].
-  - Find clues at the Constable's Office \[0/3\].
-  - Find clues at the Clinic's Morgue \[0/1\].
-  - Find clues at the Co-op \[0/1\].
+  - Find clues at the Clinic [0/3].
+  - Find clues at the Constable's Office [0/3].
+  - Find clues at the Clinic's Morgue [0/1].
+  - Find clues at the Co-op [0/1].
   - Check out the Mill.
 
+<span id="walkthrough"></span><span id="Walkthrough"></span>
+
 ## Walkthrough
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

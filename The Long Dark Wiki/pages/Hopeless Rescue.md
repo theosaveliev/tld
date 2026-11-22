@@ -41,6 +41,8 @@
 
 **Hopeless Rescue** is one of eight [Challenges](./Challenge.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “__1. Find the Distress Pistol at the summit of Timberwolf Mountain.  
@@ -52,6 +54,8 @@ The Hopeless Rescue challenge requires the player to recover a [Distress Pistol]
 
 The player has a time limit of seven days to complete the challenge, or else they will fail and be forced start over again.
 
+<span id="challenge_information"></span><span id="Challenge_Information"></span><span id="challenge-information"></span>
+
 ## Challenge Information
 
 Hopeless Rescue is set on Voyager difficulty, however hostile [Wildlife](./Wildlife.md) will spawn immediately with no grace period. Prior knowledge of the regions the player must pass through is very beneficial.
@@ -61,6 +65,8 @@ The player starts in [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Mys
 The player will pass through several [regions](./Region.md) and transition zones, including Mystery Lake, [Pleasant Valley](./Pleasant%20Valley.md), Timberwolf Mountain, [Coastal Highway](./Coastal%20Highway.md), and Desolation Point.
 
 The time remaining is displayed in the upper right corner of the screen under the time of day.
+
+<span id="strategy"></span><span id="Strategy"></span>
 
 ## Strategy
 
@@ -74,27 +80,39 @@ There are several ways to maximize the distance traveled and minimize the amount
 - Drink [Cup of Coffee](./Cup%20of%20Coffee.md). Coffee refills the fatigue bar slightly and reduces fatigue drain for a short period of time. Coffee can be used to the best effect prior to [Rope Climbing](./Rope%20Climbing.md). Coffee can be found in [Tin of Coffee](./Tin%20of%20Coffee.md), or inside microwaves.
   - Finding [Go! Energy Drink](./Go!%20Energy%20Drink.md) is a must, as it can help the player save time when faced with the multiple [Rope Climbing](./Rope%20Climbing.md) sections of Timberwolf Mountain.
 
+<span id="wildlife"></span><span id="Wildlife"></span>
+
 ### Wildlife
 
 Because weight is a critical factor, the [Hunting Rifle](./Hunting%20Rifle.md) may not be the best choice if the player is aiming to complete the challenge in the shortest time possible. Avoiding hostile wildlife, effectively using [decoys](./Scent.md#Baiting%2FDecoys), and scaring animals away with [flares](./Flare.md) or [torches](./Torch.md) is the best way to stay safe, if a [Revolver](./Revolver.md)isn't accessible. New players, however, may find the hunting rifle to be necessary to complete the challenge, and be willing to sacrifice the weight.
 
 Once the player has retrieved the distress pistol, which is found with a number of [flare shells](./Flare%20Shell.md) inside the [Tail Section](./Tail%20Section.md), the distress pistol can be used as a weapon to shoot hostile wildlife.
 
+<span id="tools"></span><span id="Tools"></span>
+
 ### Tools
 
 Tools have little usefulness in a short challenge like this one. A hatchet for [wolf](./Wolf.md) [struggles](./Struggle.md), and a [Can Opener](./Can%20Opener.md) or a hunting knife are about the only useful tools. Firewood can almost always be found near indoor locations or caves, eliminating the need to carry it in the inventory.
+
+<span id="clothing"></span><span id="Clothing"></span>
 
 ### Clothing
 
 In general, during the challenge, the player needs to move quickly through the regions, which also means the player can quickly move between indoor locations to warm up. Good [Clothing](./Clothing.md) will result in the player needing to seek refuge from the cold less, but will also contribute significant weight.
 
+<span id="food"></span><span id="Food"></span>
+
 ### Food
 
 The challenge is set to Voyager difficulty, which means that there is more than enough [food](./Food%20And%20Drink.md) to survive the seven days of the challenge. If the player loots as they travel, they may not need to carry more than one day's worth of food at any time, saving on weight. Once you get to the top of Timberwolf Mountain, with the amount of MRE's and potable water there (located in [Cargo Containers](./Cargo%20Container.md), which require a [Hacksaw](./Hacksaw.md)), you shouldn't have to search for food ever again.
 
+<span id="condition"></span><span id="Condition"></span>
+
 ### Condition
 
 It may be beneficial to intentionally let [Condition](./Condition.md) drain when the player is [freezing](./Warmth.md), [dehydrated](./Thirst.md), or [starved](./Hunger.md) if it enables the player to travel further before requiring a stop. For instance, it is not necessary to start a [Fire](./Fire.md) as soon as the player becomes freezing, and the player may be better off losing some condition and [Warming](./Warmth.md) up when they reach the next indoor location or cave.
+
+<span id="possible_route"></span><span id="Possible_Route"></span><span id="possible-route"></span>
 
 ## Possible Route
 
@@ -112,10 +130,14 @@ It may be beneficial to intentionally let [Condition](./Condition.md) drain when
 | [Old Island Connector](./Crumbling%20Highway.md) | Commuter's Lament → [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md) |  |
 | [Desolation Point](./Desolation%20Point.md) | Abandoned Mine No.3 → [Lonely Lighthouse](./Lonely%20Lighthouse.md) | Fire the distress pistol. |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The Distress Pistol normally at the [Ravine Basin](./Ravine%20Basin.md) does not spawn during the challenge.
 - Completing the event will unlock the Hopeless Rescue [Badge](./Badges.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -125,6 +147,8 @@ It may be beneficial to intentionally let [Condition](./Condition.md) drain when
 
 ![Old selection screen banner](../assets/Hopeless_Rescue.png)
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- Hopeless Rescue and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321), also known as the Tireless Menace update.
+- Hopeless Rescue and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321), also known as the Tireless Menace update.

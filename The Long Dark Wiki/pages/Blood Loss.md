@@ -28,6 +28,8 @@
 
 **Blood Loss** is caused by a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Cougar](./Cougar.md), or a [Bear](./Bear.md) [Struggle](./Struggle.md), a Timberwolf "bite-and-run" attack, or by falling off of a [Mountaineering Rope](./Mountaineering%20Rope.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**You are bleeding from a wound. If left untreated, you will continue to weaken until you die.**”
@@ -44,6 +46,8 @@ Blood Loss from predator [Struggles](./Struggle.md) is always paired with an [In
 - It is possible to suffer from multiple instances of Blood Loss as a result of multiple attacks or even a single wolf attack. The effects are cumulative and each instance has to be treated separately.
 - Blood Loss will draw predators to the player through the [Scent](./Scent.md) of fresh blood, and gives maximum Scent value. Treating the Blood Loss will remove this odor.
 - [Infection Risk](./Infection%20Risk.md) is always paired with Blood Loss, so use Old Man's Beard Wound Dressing or [Antiseptic](./Antiseptic.md) to heal it before it develops into an [Infection](./Infection.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -48,6 +48,8 @@
 
 **Scurvy** is an [Affliction](./Afflictions.md) in _The Long Dark_. It is caused by consuming a diet with low/no Vitamin-C, and is lethal if untreated.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Scurvy is a long-term affliction caused by Vitamin-C deficiency: failing to consume as much Vitamin-C as is drained daily. Each day the survivor's Vitamin-C level decreases by a small amount from a hidden Vitamin-C meter; this loss can be mitigated or recovered by consuming foods with Vitamin-C.
@@ -57,6 +59,8 @@ Scurvy is a long-term affliction caused by Vitamin-C deficiency: failing to cons
 [Scurvy Risk](./Scurvy%20Risk.md) appears when below 20% of the Vitamin-C maximum, and will progress into the Scurvy affliction unless more Vitamin-C is consumed.
 
 Most Vitamin-C food sources are finite (artificial foods and cattails), which can make Scurvy an increasing challenge in the late-game. However fish, and to a lesser extent [Birch Bark Tea](./Birch%20Bark%20Tea.md), are renewable sources.
+
+<span id="enable_option"></span><span id="Enable_Option"></span><span id="enable-option"></span>
 
 ## Enable Option
 
@@ -72,6 +76,8 @@ Starting a Survival Mode save file presents the option to enable Scurvy to that 
 Scurvy is present on [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), and [Misery](./Misery.md) modes, and is disabled in [Wintermute](./Wintermute.md) and [Pilgrim](./Pilgrim.md).
 
 This option to disable Scurvy is not available when playing on Misery.
+
+<span id="risk_and_prevention"></span><span id="Risk_and_Prevention"></span><span id="risk-and-prevention"></span>
 
 ## Risk and Prevention
 
@@ -89,6 +95,8 @@ Because Vitamin-C drains at a consistent rate, it is possible to estimate the su
 - Voyageur: 50 days from game start/treatment (10 days after Scurvy Risk)
 - Stalker/Interloper/Misery: 25 days from game start/treatment (5 days after Scurvy Risk)
 
+<span id="affliction"></span><span id="Affliction"></span>
+
 ## Affliction
 
 > “**You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die.**”
@@ -100,12 +108,14 @@ When the survivor is afflicted with Scurvy, the recovery time bar will not incre
 Effects of Scurvy:
 
 - -0.5% [Condition](./Condition.md) per hour (-12% per day)
-- Disables Condition recovery while awake (when all four [Needs](./Needs.md) are met)\*
+- Disables Condition recovery while awake (when all four [Needs](./Needs.md) are met)*
 - -5.00kg of carry weight
 - +50% [Fatigue](./Fatigue.md) drain
 - +50% [Stamina](./Stamina.md) drain
 
-\*Note: While afflicted with Scurvy, Condition can still be recovered from [Sleep](./Sleep.md) (if all four [Needs](./Needs.md) are met), but Condition recovery will be reduced as the -0.5% Condition loss will occur each hour even while asleep. The Condition restoring effects of [Birch Bark Tea](./Birch%20Bark%20Tea.md), [Emergency Stims](./Emergency%20Stim.md) and some [Cooked Foods](./Cooking.md) retain their full effect.
+*Note: While afflicted with Scurvy, Condition can still be recovered from [Sleep](./Sleep.md) (if all four [Needs](./Needs.md) are met), but Condition recovery will be reduced as the -0.5% Condition loss will occur each hour even while asleep. The Condition restoring effects of [Birch Bark Tea](./Birch%20Bark%20Tea.md), [Emergency Stims](./Emergency%20Stim.md) and some [Cooked Foods](./Cooking.md) retain their full effect.
+
+<span id="treatment"></span><span id="Treatment"></span>
 
 ## Treatment
 
@@ -119,22 +129,26 @@ If the player has the Tales from the Far Territory addon installed, reaching max
 
 Curing Scurvy will resume the daily Vitamin-C drain, with the survivor starting at 500 units of Vitamin-C.
 
+<span id="cooked_meals_vs_ingredients"></span><span id="Cooked_Meals_vs_Ingredients"></span><span id="cooked-meals-vs-ingredients"></span>
+
 ## Cooked Meals vs Ingredients
 
 Cooking usually destroys some of the Vitamin-C (in real life, this process is called denaturing). Apart from two of the fish-based meals, all other items contain about the same or less Vitamin-C when compared to their ingredients consumed separately. When aiming for maximizing Vitamin-C intake, it is often better to consume the ingredients separately.
 
 Examples (in order of added/lost Vitamin-C)
 
-- Dockworker's Pie: +17 \[68 in final dish vs 51 (48 in 2 cooked potatoes, 3 in 0.5 kg coho salmon)\]
-- Rose Hip Pie: +13,67 \[6x3=18 in final dish vs 4,33 (13/3=4,33 in 8 rose hips (in the form of 1/3 of a rose hip tea)\]
-- Trout Stew: +12 \[17 in final dish vs 5 in 0.5 kg Rainbow trout\]
-- Coastal Fishcakes: +3 \[56 in final dish (14 per cake) vs 53 (48 in 2 cooked potatoes, 5 in 0.5 kg rainbow trout)\]
-- Camber Flight Porridge: +1 \[59 in final dish vs 58 (56 in Pinnacle peaches, 2 in 4 rose hips (in the form of 1/6 of a rose hip tea))\]
-- Lily's Pancakes: +1 \[57 in final dish vs 56 in Pinnacle Peaches\]
-- Peach Pie: +1 \[57 in final dish (17 per pie) vs 56 in Pinnacle Peaches\]
-- Ranger Stew: 0 \[42 in final dish vs 42 (24 in 1 cooked potato, 18 in 2 carrots)\]
-- Prepper's Pie: -4 \[22 in final dish vs 26 (10 in 4 reishi mushrooms (in the form of 2 reishi teas), 16 in 2 prepared burdock roots)\]
-- Thomson Family Stew: -61 \[80 in final dish vs 141 (52 in canned corn, 36 in 4 carrots, 48 in 2 cooked potatoes, 5 in 2 reishi mushrooms (as 1 reishi tea))\]
+- Dockworker's Pie: +17 [68 in final dish vs 51 (48 in 2 cooked potatoes, 3 in 0.5 kg coho salmon)]
+- Rose Hip Pie: +13,67 [6x3=18 in final dish vs 4,33 (13/3=4,33 in 8 rose hips (in the form of 1/3 of a rose hip tea)]
+- Trout Stew: +12 [17 in final dish vs 5 in 0.5 kg Rainbow trout]
+- Coastal Fishcakes: +3 [56 in final dish (14 per cake) vs 53 (48 in 2 cooked potatoes, 5 in 0.5 kg rainbow trout)]
+- Camber Flight Porridge: +1 [59 in final dish vs 58 (56 in Pinnacle peaches, 2 in 4 rose hips (in the form of 1/6 of a rose hip tea))]
+- Lily's Pancakes: +1 [57 in final dish vs 56 in Pinnacle Peaches]
+- Peach Pie: +1 [57 in final dish (17 per pie) vs 56 in Pinnacle Peaches]
+- Ranger Stew: 0 [42 in final dish vs 42 (24 in 1 cooked potato, 18 in 2 carrots)]
+- Prepper's Pie: -4 [22 in final dish vs 26 (10 in 4 reishi mushrooms (in the form of 2 reishi teas), 16 in 2 prepared burdock roots)]
+- Thomson Family Stew: -61 [80 in final dish vs 141 (52 in canned corn, 36 in 4 carrots, 48 in 2 cooked potatoes, 5 in 2 reishi mushrooms (as 1 reishi tea))]
+
+<span id="vitamin_c_foods"></span><span id="Vitamin-C_Foods"></span><span id="vitamin-c_foods"></span><span id="vitamin-c-foods"></span>
 
 ## Vitamin-C Foods
 
@@ -189,12 +203,16 @@ Note that fish are the only food where the higher their weight, the higher their
 | [Pork and Beans icon](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md) | Minor | 2 | 8 | 3.33 |
 | [Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png) [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | Minor | 1 | 20 | 6.67 |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Scurvy was originally not retroactively enabled on save files created before Part Four: Buried Echoes (December 5th 2023), regardless of difficulty, "to avoid the risk that players have already harvested most of the Vitamin-C rich foods in their game world." The ability to enable it on older saves was eventually added in the Part Five update however.
 - Scurvy is a real-world affliction caused by a severe Vitamin-C deficiency, usually caused by a diet lacking fruits or vegetables. It is most commonly associated with 17th- and 18th-century sailors who could be at sea for months without access to fruits or vegetables.
 - The icon for Scurvy depicts a human tooth and blood droplet, both symptoms of real-world scurvy which causes tooth loosening and loss, as well as bruising (bleeding under the skin) and poor healing. Despite this, in-game Scurvy does not cause permanent damage to the survivor like [Frostbite](./Frostbite.md), or cause/increase the likelihood of [Blood Loss](./Blood%20Loss.md).
 - Real-world people who inhabit arctic regions, such as the indigenous peoples of Alaska, Canada and northern Russia, primarily receive their Vitamin-C from eating fish, as depicted in-game.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

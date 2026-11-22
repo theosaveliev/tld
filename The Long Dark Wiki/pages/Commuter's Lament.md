@@ -2,7 +2,7 @@
 
 **Categories:** Article stubs, Landmarks, Locations, Locations in Coastal Highway, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Commuter's_Lament)
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Commuter%27s+Lament&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Commuter%27s+Lament&amp;action=edit expanding it].**
 
 **Commuter's Lament**
 
@@ -27,6 +27,8 @@ Connects Coastal Highway to [Old Island Connector](./Crumbling%20Highway.md)
 Type
 
 Landmark|-
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 

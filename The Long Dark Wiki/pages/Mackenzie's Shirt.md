@@ -53,9 +53,13 @@
 
 **Mackenzie's Shirt** is a [Clothing](./Clothing.md) item worn on the player's inner torso obtained exclusively in [Wintermute](./Wintermute.md)
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The statistics of Mackenzie's Shirt are identical to those of a [Plaid Shirt](./Plaid%20Shirt.md).
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 ## Episode 1
 
@@ -65,9 +69,13 @@ The description of the Shirt changes during the mission [The Crash](./The%20Cras
 
 They can be carried into Episode 2 if the player holds onto it by the end of Episode 1.
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
 
 If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) out of order, Mackenzie starts the Episode wearing his Shirt.
+
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
 
 ## Episode 4
 
@@ -77,9 +85,11 @@ Mackenzie's Shirt is still worn when playing [Episode 4: Fury, Then Silence](./E
 
 ![Model icon damaged](../assets/Mackenzie%27s_Shirt_Model_Damage_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Renamed from _Will's Shirt_ to _Mackenzie's Shirt_
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game

@@ -6,7 +6,7 @@
 
 [Cured Gut icon](../assets/Cured_Gut_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** No
 
@@ -24,9 +24,13 @@
 
 **Cured Gut** is an animal-based [Material](./Materials.md) that is acquired after air-drying [Fresh Gut](./Fresh%20Gut.md) indoors for 5 days. They can be used to craft or repair hide/pelt based [Clothing](./Clothing.md) and several [Tools](./Tools.md).
 
+<span id="cured_gut"></span><span id="Cured_Gut"></span><span id="cured-gut"></span>
+
 ## Cured Gut
 
 Cured Gut is an item required for crafting or repairing many items, such as [line](./Line.md), [snares](./Snare.md), and animal skin based Clothing. Unlike Fresh Gut, Cured Gut do not contribute to a player's overall [Scent](./Scent.md). Cured Gut can occasionally be found inside containers.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -53,6 +57,8 @@ Cured Gut is an item required for crafting or repairing many items, such as [lin
 | [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
 | [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md)<br>- 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 | [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -30,6 +30,8 @@
 
 **Handwritten Prescription** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found under one of the registers in the [Co-Op](./Co-op.md) during the main mission [Perseverance](./Perseverance.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Handwritten Prescription**_
@@ -42,6 +44,8 @@ Recommendation for sleep-walking:
  - ask Martha to wake you up before the time the episode usually happens.  
  - wear ear plugs if you feel the the ocean is "too loud" at night.  
  Dr Larsen
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

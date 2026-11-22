@@ -15,7 +15,7 @@
 
 [Old Man's Beard Lichen icon](../assets/Old_Man%27s_Beard_Lichen_icon.png)
 
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
 
 **Wintermute:** Yes
 
@@ -41,9 +41,13 @@
 
 **Old Man's Beard Lichen** is an antimicrobial material that can be found dangling on the branches of trees.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Old Man's Beard Lichen can be found hanging from low tree branches in all regions. One tree can hold up to 3 units, and trees that hold the lichen are often found growing together in an area. On rare occasions, they can also be found when looting trash cans. Three units of the material can be used to make [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md), which can be applied to wounds to prevent [Infection](./Infection.md).
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -51,15 +55,23 @@ Old Man's Beard Lichen can be found hanging from low tree branches in all region
 - They can be acquired renewably via [Beachcombing](./Beachcombing.md).
 - Old Man's Beard Lichen weighs 0.01kg (0.02lbs), but its crafted version "Old Man's Beard Wound Dressing" weighs 0.1kg (0.22lbs). This makes the raw (uncrafted) version far more weight efficient, at the expense of requiring to craft the dressing as needed.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
 - Old Man's Beard Lichen (Usnea) is a genus of fungi that grows in beard like clumps anchored to tree limbs and branches and can be found all over the world. Old Man Beard Lichen is said to have medical properties such as treating skin infections and sore throats however this has not been medically proven. This is likely where the inspiration for the anti-infectious property of Old Man's Beard Lichen came from.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Old_man%27s_beard_lichen.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

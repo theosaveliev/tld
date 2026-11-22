@@ -28,6 +28,8 @@
 
 **Field 31 Operation Memo** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is found at the top of the [Control Tower](./Control%20Tower.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) and begins the Tale [Signal Void](./Signal%20Void.md) (or all [Tales](./Tales.md) if they were completed before).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Field 31 Operation Memo**_
@@ -53,6 +55,8 @@ Without these Transmitters working, we’ll have a hell of a time locating any t
 Signed,
 
 Captain Redrick, 14th Wing, SAR
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

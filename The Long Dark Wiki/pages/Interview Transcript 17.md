@@ -28,6 +28,8 @@
 
 **Interview Transcript 17** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside [Bunker Omega](./Bunker%20Omega.md) at the end of the Tale.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Interview Transcript 17**_
@@ -57,6 +59,8 @@ Wha...what did we do? What did they make us do? They can’t get away with this.
 –
 
 End recording.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

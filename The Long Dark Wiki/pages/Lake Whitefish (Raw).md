@@ -14,7 +14,7 @@
 
 Release
 
-[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
 
 Wintermute
 
@@ -72,6 +72,8 @@ _For the cooked version, see [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28C
 
 **Lake Whitefish (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Lake Whitefish are small freshwater fish found commonly in lakes and ponds. They can be caught by [Ice Fishing](./Ice%20Fishing.md) using [Fishing Tackle](./Fishing%20Tackle.md). Lake Whitefish can be between 1.5 and 2.3 kg raw.
@@ -79,6 +81,8 @@ Lake Whitefish are small freshwater fish found commonly in lakes and ponds. They
 Cooking Whitefish takes 20+ minutes and is be obtained by using a lit [fire](./Fire.md). Cooking increases its condition by 50%, decays 4 times slower than raw meat, and has a reduces chance of [Food Poisoning](./Food%20Poisoning.md) over raw meat, but decreasing it's weight by 35%. Cooked whitefish's energy density is 385 calories-per-kilogram. Cooking fish also yields a small amount of [Lantern Fuel](./Lantern%20Fuel.md), although they provide the lowest yield (tied with the [Goldeye](./Goldeye%20%28Raw%29.md)) of 0.015L/kg.
 
 Cooking whitefish improves the [cooking skill](./Skills.md#Cooking).
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -88,6 +92,8 @@ Cooking whitefish improves the [cooking skill](./Skills.md#Cooking).
 | [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) |
 
 ![Old model](../assets/Lake_whitefish_%28raw%29.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

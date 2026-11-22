@@ -22,6 +22,8 @@ Yes
 
 A **Weapon Locker** is a stationary object found rarely in the game world, and often contain weapons as their name implies.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 They compose a of a single set of doors around a heavy locker. Unlike ordinary [Lockers](./Locker.md), weapon locks are never locked, and never require a [Prybar](./Prybar.md) to open. They occasionally contain firearms or munitions that would need to be safely stored in special location.
@@ -34,6 +36,8 @@ A list of potential items that spawn inside Weapon Lockers includes:
 - [Rifle Ammunition](./Rifle%20Ammunition.md)
 - [Noisemaker](./Noisemaker.md)
 - [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

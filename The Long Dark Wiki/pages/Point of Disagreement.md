@@ -14,11 +14,15 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The location is east of [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and south of [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md).
 
 The area is composed of 3 vehicles, a possibility of finding small food and clothing items, and giving a chance to warm up. A possible spawn for a [Frozen Corpse](./Frozen%20Corpse.md) is nearby.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

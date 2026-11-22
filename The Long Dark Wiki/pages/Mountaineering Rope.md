@@ -14,7 +14,7 @@
 
 [Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png)
 
-**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
 
 **Wintermute:** No
 
@@ -36,9 +36,13 @@
 
 **Mountaineering Rope** is a tool used for [climbing](./Rope%20Climbing.md) cliff faces.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The mountaineering rope is used in conjunction with the [rope climbing](./Rope%20Climbing.md) gameplay mechanic to allow the player to ascend and descend vertical cliffs. The rope must be attached to a certain type of rock feature at the top of a climbable cliff before the climb can be made. While important for traversing mountainous terrain in some regions and caves, using mountaineering ropes can quickly exhaust the player, possibly leading to injury or death from a fall or trapping the player on an inhospitable cliff side.
+
+<span id="locating"></span><span id="Locating"></span>
 
 ## Locating
 
@@ -83,14 +87,20 @@ Many ropes are already deployed from rocks over climbable cliffs, but these can 
 - [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
   - Inside the [Train Shuttle](./Train%20Shuttle.md) on [Surfeit Trestle](./Surfeit%20Trestle.md)
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ### Game history
 
-- The mountaineering rope was added on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298).
-- [Version 0.321](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) extends the use of ropes to maps other than [Timberwolf Mountain](./Timberwolf%20Mountain.md) and makes the spawn locations Added.
+- The mountaineering rope was added on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298).
+- [Version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) extends the use of ropes to maps other than [Timberwolf Mountain](./Timberwolf%20Mountain.md) and makes the spawn locations Added.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![Mountaineering rope secured to a rock near a cliff face. old version](../assets/Mountaineering_rope_secured_on_rock.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

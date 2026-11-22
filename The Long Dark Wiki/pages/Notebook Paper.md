@@ -30,6 +30,8 @@
 
 **Notebook Paper** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found inside of the middle Lake Cabin in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Notebook Paper**_
@@ -39,6 +41,8 @@ I gotta get out of here. Nothing here is helping. I keep hearing voices. Things 
 I have this IDEA -- if I can get BEHIND the water, maybe the voices will stop. Where I used to go when I was little. That one place that always calmed me down.
 
 Gustavo P.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

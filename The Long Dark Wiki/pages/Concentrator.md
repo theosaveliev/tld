@@ -22,6 +22,8 @@ Type
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 This 7 story tall building is enormous from both the inside and outside. From the top, the player can observe the entire surrounding area.
@@ -44,9 +46,13 @@ There are no beds in the building, but it is possible to sleep in the car on the
 
 There are also no indoor fireplaces. The best option is to cook outside at the delivery area entrances or at the exit to the mountain on the sixth floor.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The Concentrator is based off of the [Britannia Mine Museum](https://en.m.wikipedia.org/wiki/Britannia_Mine_Museum) in Vancouver, British Columbia, Canada.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -28,6 +28,8 @@
 
 **Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) on a table in the [Hangar Basement](./Hangar%20Basement.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Memo**_
@@ -43,6 +45,8 @@ Welcome Associate!
  We hope you find your work at our little outpost rewarding!  
    
  --Dayshift supervisor
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -20,6 +20,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Has no shelter The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Fulmar Autopilot Boat is the only way to travel to [Cauldron Island](./Cauldron%20Island.md) and back. It is located in [Desolation Point](./Desolation%20Point.md) in front of the [Hibernia Processing](./Hibernia%20Processing.md) location, near the docks.
@@ -42,9 +44,13 @@ Upon arrival at [Cauldron Island](./Cauldron%20Island.md), a warm shelter is ava
 
 The boat must be resupplied each time you wish to travel between the 2 major islands.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 Fulmar are two gull like birds that live in the Arctic or Antarctic regions of the world, having bluish-gray and white plumage.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

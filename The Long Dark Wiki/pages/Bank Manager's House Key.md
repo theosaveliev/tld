@@ -30,7 +30,9 @@
 
 It is found inside the bank manager's desk drawer in the [Milton Credit Union](./Milton%20Credit%20Union.md). It unlocks the door to the [Bank Manager's House](./Bank%20Manager%27s%20House.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

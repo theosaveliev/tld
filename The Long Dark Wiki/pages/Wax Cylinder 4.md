@@ -38,6 +38,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Reverend Angus Hornswallow.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 4**_
@@ -71,5 +73,7 @@ I am not strong enough to find the charity required to overlook their sins.
 Damn them. Damn McLeod and his insatiable ego.
 
 Damn them all to hell for what they have done.
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

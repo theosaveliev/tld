@@ -4,7 +4,7 @@
 
 **Landslide (Bleak Inlet)**
 
-\[Missing image: Landslide\_Bleak\_Inlet.jpg\]<br>_Landslide\_Bleak\_Inlet.jpg_
+[Missing image: Landslide\_Bleak\_Inlet.jpg]<br>_Landslide\_Bleak\_Inlet.jpg_
 
 **Location**
 
@@ -15,6 +15,8 @@
 **General**
 
 **Type:** Landmark
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 

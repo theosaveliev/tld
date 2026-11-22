@@ -16,6 +16,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The bridge is an unremarkable, completely destroyed railroad bridge in the region, with a [Truck](./Truck.md), [Train Shuttle](./Train%20Shuttle.md), [Rabbit Grove](./Rabbit%20Grove.md), and dead bodies with some loot can be found near the starting area of the bridge.
@@ -24,10 +26,14 @@ If players purchase the [Tales from the Far Territory](./Tales%20from%20the%20Fa
 
 A ravine lies below the bridge with a [Mementos](./Mementos.md) pointing to it. Climbing down below reveals a [Supply Bin](./Supply%20Bin.md) with various supplies, with the [Rope Climbing](./Rope%20Climbing.md) section to access the ravine found west of the frozen pond behind the [Maintenance Yard](./Maintenance%20Yard.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The bridge was originally nothing but a broken in half railroad bridge since the debut of the Broken Railroad [Region](./Region.md). The addition of the Tales from the Far Territory Expansion patched the game to include an unstable railroad footpath, finally making the bridge crossable.
   - The bridge is still broken in various [Challenges](./Challenge.md) however, even with the Expansion installed.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

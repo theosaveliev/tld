@@ -21,13 +21,19 @@
 
 **Easter Eggs** are hidden messages, images, or features typically placed in software to reference other forms of media. They may also be well placed hidden secrets found in the game. Below is a list of secrets, obscure knowledge, and Easter Eggs in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="general_secrets"></span><span id="General_Secrets"></span><span id="general-secrets"></span>
+
 ## General Secrets
+
+<span id="hidden_items"></span><span id="Hidden_Items"></span><span id="hidden-items"></span>
 
 ### Hidden Items
 
 - _The Long Dark_ features a large number of hidden loot items both indoors and outside. Such items are usually small (e.g. [firestrikers](./Firestriker.md), [matches](./Wood%20Matches.md), [ammunition](./Revolver%20Ammunition.md)) and atop shelves, desks, between/underneath furniture, or otherwise in difficult to find locations. CROUCHING ("Control" by default) can be helpful or required in finding such hidden items. Most notably a [Magnifying Lens](./Magnifying%20Lens.md) hidden inside the [Camp Office](./Camp%20Office.md) (Mystery Lake), and a hidden stash of supplies inside [Hibernia Processing](./Hibernia%20Processing.md) (Desolation Point) which requires crouching up and inside a pipe.
 - [Safes](./Safe.md): Safes are heavy metal storage containers which are initially locked. They contain some of the highest loot tables in _The Long Dark_, being able to contain rare items such as [Can of Gunpowder](./Can%20of%20Gunpowder.md), [Mukluks](./Mukluks.md) and [Gauntlets](./Gauntlets.md). Safes have static locations ([Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) (Forlorn Muskeg), [Trapper's Homestead](./Trapper%27s%20Homestead.md) (Mystery Lake), [Carter Hydro Dam &amp; Environs](./Carter%20Hydro%20Dam.md) (upper) (Mystery Lake) and are opened by rotating their dial left until a "click" is heard, then right until a second click, and then left again until the third click.
 - [Hidden Caches](./Hidden%20Cache.md): these small, orange-lidded containers are filled with high level loot on all difficulties and are concealed in remote and inhospitable regions, particularly in [Hushed River Valley](./Hushed%20River%20Valley.md).
+
+<span id="hidden_locations"></span><span id="Hidden_Locations"></span><span id="hidden-locations"></span>
 
 ### Hidden Locations
 
@@ -36,11 +42,17 @@
 - [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Coastal Highway](./Coastal%20Highway.md) - the middle level of the mine is a series of interconnected tunnels with rich loot on all Game Modes, but also [electrified hazards](./Burns.md). It can only be accessed via entering the Lower Level (Coastal Highway) and using the elevator while it is powered during an active [Aurora](./Aurora.md).
 - [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md), [Pleasant Valley](./Pleasant%20Valley.md) - an unnamed cave filled with glowing flora may be found along the mountain beside the picnic area, which features a unique interior layout, as well as potentially frozen corpses and loot.
 
+<span id="beachcombing"></span><span id="Beachcombing"></span>
+
 ### Beachcombing
 
 - [Beachcombing](./Beachcombing.md) is an obscure game mechanic which causes select items to randomly spawn in coastal regions ([Coastal Highway](./Coastal%20Highway.md), [Desolation Point](./Desolation%20Point.md), [Crumbling Highway](./Crumbling%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md)). These items may be found near where the ocean meets the ice, typically in or near areas of dangerous Weak Ice. This allows many otherwise non-renewable resources to theoretically become sustainable (e.g. [Cloth](./Cloth.md), [Cured Leather](./Cured%20Leather.md), Saplings). Note: not all items may be found via Beachcombing, and item(s) present at a Beachcombing location prevent future spawns, requiring their removal before a item may spawn.
 
+<span id="easter_eggs"></span><span id="Easter_Eggs"></span><span id="easter-eggs"></span>
+
 ## Easter Eggs
+
+<span id="real_world_people"></span><span id="Real_World_People"></span><span id="real-world-people"></span>
 
 ### Real World People
 
@@ -48,13 +60,19 @@
 - In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), after [Will Mackenzie's](./Will%20Mackenzie.md) 3rd encounter with the [Old Bear](./Old%20Bear.md) after acquiring the [Bear Spear](./Bear%20Spear.md), the bear will back off, with Will remarking "not so tough now that I'm all Grizzly Adams?" referencing [John Adams](https://en.wikipedia.org/wiki/John_%22Grizzly%22_Adams).
 - The director's name of _The Long Dark_, Raphael Von Lierop, can be seen briefly on a computer monitor in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) during the flashback with Astrid.
 
+<span id="films"></span><span id="Films"></span>
+
 ### Films
 
 The entire mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) with the [Old Bear](./Old%20Bear.md) hunting Mackenzie (a crashed bush pilot) is a reference to the film [The Edge](https://en.wikipedia.org/wiki/The_Edge_%281997_film%29).
 
+<span id="radio"></span><span id="Radio"></span>
+
 ### Radio
 
 - During an [Aurora](./Aurora.md), if you click on a [Radio](./Radio.md), either in a [Car](./Car.md), [Truck](./Truck.md), or on a table, classical music will play. The music that plays has been identified to be Glenn Gould playing Bach on piano.
+
+<span id="named_locations"></span><span id="Named_Locations"></span><span id="named-locations"></span>
 
 ### Named Locations
 
@@ -68,12 +86,16 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
 - [Timberwolf Mountain](./Timberwolf%20Mountain.md) - [Eric's Falls](./Eric%27s%20Falls.md)
 - Most of the names on the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md) are named after Hinterland developers
 
+<span id="great_bear_island"></span><span id="Great_Bear_Island"></span><span id="great-bear-island"></span>
+
 ### Great Bear Island
 
 - Great Bear Island itself is directly inspired by [Vancouver Island](https://en.wikipedia.org/wiki/Vancouver_Island).
 - Mystery Lake is a reference to the mystery lake school division in North Manitoba Canada where the developers did a career day video call with local middle school students in 2013 to promote video game development in Canada.
 - The [Concentrator](./Concentrator.md) is based off of the [Britannia Mine Museum](https://en.m.wikipedia.org/wiki/Britannia_Mine_Museum) in Vancouver, British Columbia, Canada.
   - The [Haul Truck](./Haul%20Truck.md) is most likely based off the one in front of the museum.
+
+<span id="items"></span><span id="Items"></span>
 
 ### Items
 
@@ -100,15 +122,21 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
 
 ![Old design with old logo](../assets/Cup_of_coffee.png)
 
+<span id="rock_art"></span><span id="Rock_Art"></span><span id="rock-art"></span>
+
 ### Rock Art
 
 A number of rocks contain faint images of cavemen, monsters or graffiti, typically in an abstract art form or extremely low resolution. These rocks are found in all regions, but are most common in [Pleasant Valley](./Pleasant%20Valley.md) near the entrance to [Winding River](./Winding%20River.md), as well as [Bleak Inlet](./Bleak%20Inlet.md).
 
 ![Cave Art (Desolation Point), a monster or animal](../assets/Cave_art.png)
 
+<span id="hanks_hatch"></span><span id="Hank&#x27;s_Hatch"></span><span id="hank&#x27;s_hatch"></span><span id="hanks-hatch"></span>
+
 ### Hank's Hatch
 
 The side mission [Hank's Hatch](./Hank%27s%20Hatch.md) contains many references to [Firewatch](https://en.wikipedia.org/wiki/Firewatch). "Hank" is a nod to the protagonist "Henry" from the game. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower in a nature park to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to Delilah, Henry's supervisor in Firewatch who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of Firewatch.
+
+<span id="references_to_previous_game_builds"></span><span id="References_to_Previous_Game_Builds"></span><span id="references-to-previous-game-builds"></span>
 
 ### References to Previous Game Builds
 

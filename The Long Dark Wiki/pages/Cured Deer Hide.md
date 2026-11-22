@@ -13,7 +13,7 @@
 
 [Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** No
 
@@ -33,9 +33,13 @@
 
 **Cured Deer Hide** is the dried hide of a [Fresh Deer Hide](./Fresh%20Deer%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Deerskin Pants](./Deerskin%20Pants.md) and [Deerskin Boots](./Deerskin%20Boots.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cured Deer Hide is acquired by leaving [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) indoors for 5 days (in-game). Once cured, the hide will take on a darker complexion, and can then be used for crafting.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -48,16 +52,20 @@ Cured Deer Hide is acquired by leaving [Fresh Deer Hide](./Fresh%20Deer%20Hide.m
 | [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 5 × [Cured Gut](./Cured%20Gut.md) |
 | [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md)<br>- 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model](../assets/Cured_deer_hide.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Gameplay - Updated the Deer Pelt icon to better match the in-game item.
-- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.46)):**
-  - \[WINTERMUTE\] Fixed issue causing Grey Mother to float if a Deer Hide was placed under her chair.
+- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.46)):**
+  - [WINTERMUTE] Fixed issue causing Grey Mother to float if a Deer Hide was placed under her chair.
 - HOTFIX **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.325)):**
   - Fixed issue where some containers could be inactive when containing hides.
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**

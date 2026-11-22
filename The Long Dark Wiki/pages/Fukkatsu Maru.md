@@ -20,11 +20,15 @@ Has no shelter
 
 The **Fukkatsu Maru** is an abandoned Japanese cargo ship that became trapped in ice after drifting into [Desperation Bay](./Desperation%20Bay.md). It is explored during the mission [A Cry For Help](./A%20Cry%20For%20Help.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It has an exterior deck that can be accessed by using on of the dropped anchors as [Rope Climbing](./Rope%20Climbing.md) spot.
 
 The interior consists of the Fukkatsu Maru Cargo Hold, whilst the upper decks include the Crew Quarters, Mess Hall, Bathrooms, an Infirmary, the Bridge, and the Captain's Quarters.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -37,11 +37,15 @@
 
 **Cheated Death Penalty** is an [Affliction](./Afflictions.md) acquired after choosing to [Cheat Death](./Cheat%20Death.md) in [Survival Mode](./Survival%20Mode.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**You have Cheated Death. Your maximum Condition is reduced each time you respawn.**”
 
 ![Cheat Death Penalty](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
+
+<span id="short_term_penalty"></span><span id="Short_Term_Penalty"></span><span id="short-term-penalty"></span>
 
 ## Short Term Penalty
 
@@ -55,9 +59,11 @@ The Recovery Time is always the same for each death:
 | [Voyageur](./Voyageur.md) | -50% Condition | -60% Condition | -75% Condition | 480 hours (20 days) |
 | [Stalker](./Stalker.md) | -50% Condition | -60% Condition | -75% Condition | 480 hours (20 days) |
 | [Interloper](./Interloper.md) | -50% Condition | -60% Condition | -75% Condition | 720 hours (30 days) |
-| [Misery](./Misery.md)[¹](#fn1) | N/A | N/A | N/A | N/A |
+| [Misery](./Misery.md)<span id="fnref1"></span>[¹](#fn1) | N/A | N/A | N/A | N/A |
 
 Dying multiple times and choosing the "Short Term Penalty" Cheat Death option does not cause the Recovery Times to stack if the previous penalty time had not yet elapsed.
+
+<span id="permanent_penalty"></span><span id="Permanent_Penalty"></span><span id="permanent-penalty"></span>
 
 ## Permanent Penalty
 
@@ -69,13 +75,17 @@ Choosing "Permanent Penalty" removes the lengthy Recovery Time, but will add a p
 | --- | --- | --- |
 | -25% | -35% | -50% |
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Cheat Death is disabled on Misery[↩︎](#fnref1)
+1. <span id="fn1"></span>Cheat Death is disabled on Misery[↩︎](#fnref1)

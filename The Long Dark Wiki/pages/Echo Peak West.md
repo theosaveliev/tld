@@ -14,11 +14,15 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Echo Peak West is located several hundred meters above [Echo Ravine](./Echo%20Ravine.md) and near the [Wing](./Wing.md).
 
 Several [Rose Hip](./Rose%20Hip.md) bushes can be found and sometimes a [frozen Corpse](./Frozen%20Corpse.md). There is a small alcove which provides adequate wind protection, but no bonus warmth. On occasion, a [Revolver](./Revolver.md) may spawn next to the corpse.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -28,7 +32,7 @@ Several [Rose Hip](./Rose%20Hip.md) bushes can be found and sometimes a [frozen 
 
 ![Shallow cave at the top.](../assets/Echo_Peak_West_02.jpg)
 
-![Whole of EchoPeakWest (A view from the \[Wing\].)](../assets/Echo_Peak_West_03.jpg)
+![Whole of EchoPeakWest (A view from the [Wing].)](../assets/Echo_Peak_West_03.jpg)
 
 ![View of Echo Peak East from Echo Peak West](../assets/Echo_Peak_West_04.jpg)
 

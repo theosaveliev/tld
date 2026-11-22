@@ -51,6 +51,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 The statistics of Mackenzie's Parka are identical to those of a [Simple Parka](./Simple%20Parka.md).
 
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+
 ## Episode 1
 
 Mackenzie's Parka can be found on a table in the [Jackrabbit Hangar](./Jackrabbit%20Hangar.md) during [Memories](./Memories.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), but cannot be worn. Picking it up near the end of the mission ends the playable section of the Hangar.
@@ -59,9 +61,13 @@ After resting in the cave for the night during the mission [The Crash](./The%20C
 
 It can be carried into Episode 2 if the player holds onto it by the end of Episode 1.
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
 
 If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) out of order, Mackenzie starts the Episode wearing his Parka.
+
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
 
 ## Episode 4
 
@@ -71,9 +77,11 @@ Mackenzie's Parka is missing when playing [Episode 4: Fury, Then Silence](./Epis
 
 ![Model icon damaged](../assets/Mackenzie%27s_Parka_Model_Damaged_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Renamed from _Will's Parka_ to _Mackenzie's Parka_
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game

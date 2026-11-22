@@ -44,9 +44,13 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Rabbit Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 - [Unburdened](./Unburdened.md) +3kg of Maximum Carry Weight (for 3 hours)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -74,6 +78,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 **Item:** [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

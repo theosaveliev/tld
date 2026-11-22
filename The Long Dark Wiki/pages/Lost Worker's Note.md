@@ -6,7 +6,7 @@
 
 [Lost Worker's Note icon](../assets/Lost_Worker%27s_Note_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Lost Power Workers](./Lost%20Power%20Workers.md)
 
@@ -30,11 +30,13 @@
 
 **Lost Worker's Note** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Lost Power Workers](./Lost%20Power%20Workers.md) side mission. It is found on the corpse of worker 2 in the ravine.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Lost Worker's Note**_
 
-\[a page of a journal, torn out\]
+[a page of a journal, torn out]
 
 Keep writing. Writing helps give me focus, and focus keeps me still.
 
@@ -44,7 +46,9 @@ I keep seeing a river in my head, rushing water to the edge of something. Into a
 
 I just can't remember anymore...
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

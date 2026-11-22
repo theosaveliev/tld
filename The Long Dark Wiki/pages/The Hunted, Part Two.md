@@ -36,6 +36,8 @@
 
 **The Hunted, Part Two** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md), and is the sequel to [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) and can only be played when finishing the first challenge. Completing Part Two unlocks [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**Track the Old Bear and kill it.**”
@@ -43,6 +45,8 @@
 > — Journal Objective
 
 The Hunted, Part One must be completed to unlock this challenge. During the challenge, the player chases the [Old Bear](./Old%20Bear.md) throughout [Mystery Lake](./Mystery%20Lake%20%28region%29.md). The bear will stop at numerous locations and wait until the player is close enough to attack, where they must shoot the bear with the rifle so it will continue driving it of to its den. The Challenge ends when the player confronts the bear at the den.
+
+<span id="challenge_start"></span><span id="Challenge_start"></span><span id="challenge-start"></span>
 
 ## Challenge start
 
@@ -52,11 +56,15 @@ The Challenge begins with the player already having a [Hunting Rifle](./Hunting%
 
 - The [Trapper's Homestead](./Trapper%27s%20Homestead.md) will always contain one [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) inside, along with several supplies to loot.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 The Old Bear will be directly outside the homestead and must be shot with the rifle immediately or else it will attack the player. The bear cannot be killed so it is best to only shoot the bear when it has stopped at the designated locations. The bear will follow a path and must be shot to force it to continue retreating to the bear den.
 
 The easiest way to track the bear is to follow the bear prints in the snow and the drops of fresh blood. If the player stops for an extended period, or if it snows heavily, the tracks will disappear. Ammunition can be found all over the region, and is best looted along the way as the player tracks the Old Bear.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ### Locations
 
@@ -74,13 +82,17 @@ The following list is the locations that the bear will stop at in order from the
 10. Ice Fishing Huts
 11. Bear Den
 
+<span id="ending"></span><span id="Ending"></span>
+
 ## Ending
 
-**Warning: \***Do not read if you do not want to be spoiled on the ending of the challenge.\*
+**Warning: \***Do not read if you do not want to be spoiled on the ending of the challenge.*
 
 Once the player has finally reached the cave where the bear is hiding and gets close enough to the entrance to finish it off, the Old Bear will charge out and pounce on the player. Shooting the bear will not stop it from attacking. The bear will slowly drag the character back into the cave. As the screen fades to black while the sounds of growling and chewing can be heard, the words "To Be Continued..." appear again.
 
 The story is concluded in [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md).
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -92,9 +104,13 @@ The story is concluded in [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Th
 - There's no time limit to the challenge.
 - curiously, you can visit any region outside Mystery Lake. The Old Bear won't follow and will remain in its last scripted location.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 This Challenge is quite similar to the mission [Jeremiah's Folly](./Jeremiah%27s%20Folly.md), which was eventually cut from [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) (removed in the Redux version). Both the Challenge and mission involve the Old Bear being right outside the Trapper's Homestead at the start, following the bear from location to location, wounding it with the Hunting Rifle, and chasing it to a new location to hopefully kill it.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

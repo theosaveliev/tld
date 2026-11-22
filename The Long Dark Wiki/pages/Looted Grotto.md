@@ -10,7 +10,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Looted+Grotto&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Looted+Grotto&amp;action=edit expanding it].**
 
 **Looted Grotto**
 
@@ -31,5 +31,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 Has a bed
 
 Has an interior **Looted Grotto** is a location in [Port Remnant](./Port%20Remnant.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview

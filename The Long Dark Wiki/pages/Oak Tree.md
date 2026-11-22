@@ -29,40 +29,58 @@
 
 **Oak Trees** are stationary environmental objects in [_The Long Dark_](./The%20Long%20Dark.md). They serve as the primary source of [Acorns](./Acorns.md) for the player, which can be identified as brownish speckled patches near the base of each tree. Each oak tree will always contain at least 1 or 3 acorn patches for the player to harvest, with some having been already uncovered before the player arrives. Once uncovered, acorns do not respawn.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 Oak Trees can be found in the Following locations.
+
+<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
 
 ### Coastal Highway
 
 - Near the trailer near [Coastal Townsite](./Coastal%20Townsite.md) and [Silent Clearing](./Silent%20Clearing.md)
 - Near the trailer south of [Train Unloading](./Train%20Unloading.md)
 
+<span id="forsaken_airfield"></span><span id="Forsaken_Airfield"></span><span id="forsaken-airfield"></span>
+
 ### Forsaken Airfield
 
 - Near [Junker's Paddock](./Junker%27s%20Paddock.md)
 - Along the road between Junker's Paddock and [Field 31](./Field%2031.md)
 
+<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
+
 ### Hushed River Valley
 
 - Near the entrance to the south eastern most Ice Cave entrance, in the mountains
+
+<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
 
 ### Mountain Town
 
 - Many are found near [Picnic Area](./Picnic%20Area.md)
 - At the bottom of the rope climb leading to [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+
 ### Mystery Lake
 
 - Along various points of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md)
+
+<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
 
 ### Timberwolf Mountain
 
 - In the hills above [Crystal Lake](./Crystal%20Lake.md) and below [Tail Section](./Tail%20Section.md)
 
+<span id="transfer_pass"></span><span id="Transfer_Pass"></span><span id="transfer-pass"></span>
+
 ### Transfer Pass
 
 - All over the railroad and mountains of the Region
+
+<span id="zone_of_contamination"></span><span id="Zone_of_Contamination"></span><span id="zone-of-contamination"></span>
 
 ### Zone of Contamination
 
@@ -73,6 +91,8 @@ Oak Trees can be found in the Following locations.
 _[Acorns](./Acorns.md) can be found in the interactable areas at the base of oak trees._
 
 ![A line of oak trees in Transfer Pass](../assets/Oak_trees_Transfer_Pass.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

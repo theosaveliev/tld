@@ -6,7 +6,7 @@
 
 [Blackrock Infirmary Medication icon](../assets/Blackrock_Infirmary_Medication_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Blues](./Blackrock%20Blues.md)
 
@@ -36,13 +36,17 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journeys outside [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) towards [Cutty's Cave](./Cutty%27s%20Cave.md), and retrieves the medication off a [Dead Prison Guard](./Dead%20Prison%20Guard.md) for [Franklin](./Franklin.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from the label on **Blackrock Infirmary Medication**_
 
 High-quality, injectable medication. The label reads, “FOR EMERGENCIES ONLY”.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

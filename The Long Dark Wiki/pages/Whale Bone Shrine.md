@@ -43,9 +43,13 @@ Description
 
 Has no shelter **Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 All 3 locations play a music cue when first approached. Most locations have no notable loot, save for the 3rd shrine's story items. There is currently no explanation as to why these shrines were built, but [Wax Cylinder 3](./Wax%20Cylinder%203.md), [5](./Wax%20Cylinder%205.md), and [6](./Wax%20Cylinder%206.md) comment on the shrines and the events at the [Desecrated Church](./Desecrated%20Church.md).
+
+<span id="shrine_1"></span><span id="Shrine_1"></span><span id="shrine-1"></span>
 
 ### Shrine 1
 
@@ -53,11 +57,15 @@ All 3 locations play a music cue when first approached. Most locations have no n
 
 The most eastern shrine, there is a large circular shrine of whale bones tied together, almost looking like a small round building. A path to a waterfall lies to the north that leads to a hidden section of the map and a [Deer Carcass](./Deer%20Carcass.md), but not much is located near the shrine itself.
 
+<span id="shrine_2"></span><span id="Shrine_2"></span><span id="shrine-2"></span>
+
 ### Shrine 2
 
 ![Whale Bone Shrine 2](../assets/Whale_Bone_Shrine_2.jpg)
 
 Located slightly south west of the previous shrine, this shrine much smaller, with a few whale bone arches and not much more. There are not much else of note around the area, except for 2 cabins to the north.
+
+<span id="shrine_3"></span><span id="Shrine_3"></span><span id="shrine-3"></span>
 
 ### Shrine 3
 

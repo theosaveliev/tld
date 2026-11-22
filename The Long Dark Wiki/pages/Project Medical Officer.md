@@ -43,18 +43,22 @@
 
 Known only as the **Project Medical Officer**, he is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 After the incident with Team 3 in the [Langston Mine](./Langston%20Mine.md) after the Machine was powered on, [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md) had a doctor flown in to evaluate the miners' symptoms.
 
 Several medical and psychological tests were performed on the men, with the doctor concluding that the dementia like mental deterioration of the patients was not viral/pathogenic in nature, but instead physiological. Many exercises were given to the Doctor's patients, including forcing the patient to make a habit of frequently writing down their thoughts, with many of these writings involving memories related to water or the sea. These writing practices helped manage and slow many of the patient's metal deterioration, though they only acted as a way to gradually halt the onset of the patient's dementia. This can be shown in the case of the handwriting of [The Foreman's](./The%20Foreman.md) Technical Logs becoming increasingly worse with each note the player finds:
 
--  - \[clear, deliberate handwriting...\]
--  - \[lazy handwriting, with some passages scratched out...\]
--  - \[paper fragment with shaky handwriting...\]
--  - \[barely legible handwriting...\]
+-  - [clear, deliberate handwriting...]
+-  - [lazy handwriting, with some passages scratched out...]
+-  - [paper fragment with shaky handwriting...]
+-  - [barely legible handwriting...]
 
 It is unknown what became of the Medical Officer after his experiments were concluded. Aside from a note from the Security Chief Officer mentioning that he was affected by The Machine, no information on whether he successful evacuated the Island being present.
+
+<span id="signal_void"></span><span id="Signal_Void"></span><span id="signal-void"></span>
 
 ## Signal Void
 
@@ -65,6 +69,8 @@ It is unknown what became of the Medical Officer after his experiments were conc
 
 The Project Medical Officer is the Deuteragonist of the Tale [Signal Void](./Signal%20Void.md).
 
+<span id="buried_echoes"></span><span id="Buried_Echoes"></span><span id="buried-echoes"></span>
+
 ## Buried Echoes
 
 > “__Their latest big idea is to bring some kind of doctor in. Just to talk, they said.  
@@ -73,6 +79,8 @@ The Project Medical Officer is the Deuteragonist of the Tale [Signal Void](./Sig
 > — [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
 
 A single note written by [The Foreman](./The%20Foreman.md) ([Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)) mentions Rüdiger flying in the Medical Officer to perform evaluations on the miners. No other mention is made of him.
+
+<span id="last_horizon"></span><span id="Last_Horizon"></span><span id="last-horizon"></span>
 
 ## Last Horizon
 
@@ -84,7 +92,11 @@ A single note written by [The Foreman](./The%20Foreman.md) ([Foreman's Site Repo
 
 The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but is mentioned in [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md), as The Foreman mentions continuing the writing and breathing exercises to keep his mind from wandering/deteriorating.
 
+<span id="belongings"></span><span id="Belongings"></span>
+
 ## Belongings
+
+<span id="collectibles"></span><span id="Collectibles"></span>
 
 ### Collectibles
 
@@ -93,11 +105,15 @@ The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but 
 - ![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
 - ![Interview Transcript 17 icon](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
+<span id="mentioned"></span><span id="Mentioned"></span>
+
 ### Mentioned
 
 - ![Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
 - ![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 - ![Foreman's Site Report Day 64 icon](../assets/Foreman%27s_Site_Report_Day_64_icon.png) [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
 - ![Foreman's Technical Log 4 icon](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

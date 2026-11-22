@@ -1659,9 +1659,7 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
 def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
     assert not markdown_export_module.HTML_TAG_RE.search("<https://example.com>")
     assert markdown_export_module.HTML_TAG_RE.search("<mw:widget>visible</mw:widget>")
-    assert not _contains_html_markup(
-        '<span id="version-1-00"></span>'
-    )
+    assert not _contains_html_markup('<span id="version-1-00"></span>')
     assert _contains_html_markup("<span>visible</span>")
 
 
@@ -1737,19 +1735,10 @@ def test_missing_title_aliases_resolve_to_existing_page_filenames() -> None:
         "Salt Deposit": "Salt Deposit.md",
     }
 
-    assert (
-        _lookup_title_filename("Fukattsu Maru", mapping)
-        == "Fukkatsu Maru.md"
-    )
+    assert _lookup_title_filename("Fukattsu Maru", mapping) == "Fukkatsu Maru.md"
     assert _lookup_title_filename("Maps", mapping) == "Map.md"
-    assert (
-        _lookup_title_filename("Port Renmant", mapping)
-        == "Port Remnant.md"
-    )
-    assert (
-        _lookup_title_filename("Salt Depost", mapping)
-        == "Salt Deposit.md"
-    )
+    assert _lookup_title_filename("Port Renmant", mapping) == "Port Remnant.md"
+    assert _lookup_title_filename("Salt Depost", mapping) == "Salt Deposit.md"
 
 
 def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:

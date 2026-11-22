@@ -16,6 +16,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 There is not much loot available around the bridge, and it offers no shelter. A [Truck](./Truck.md) is down the road that can contain a [Research Book](./Research%20Book.md), and later down the road are the [Trailers west of the Cannery](./Trailers%20west%20of%20the%20Cannery.md). [Frozen Delta](./Frozen%20Delta.md) is found by following the river to the north east.

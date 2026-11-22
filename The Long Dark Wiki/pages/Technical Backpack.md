@@ -6,7 +6,7 @@
 
 [Technical Backpack icon](../assets/Technical_Backpack_icon.png)
 
-**Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
+**Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
 
 **Wintermute:** No
 
@@ -34,9 +34,13 @@
 
 The **Technical Backpack** is a collectible item available in [Survival Mode](./Survival%20Mode.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 When collected it provides a permanent +5kg (11lbs) increase to [Carry Capacity](./Encumbrance.md). This benefit stacks the effects of a worn [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) and [Well Fed](./Well%20Fed.md) benefit, allowing the player to carry up to 45kg (99lbs) without becoming encumbered, a total increase of 50%. The Technical Backpack is classified as a [Collectible](./Collectibles.md), not clothing; this means it has no weight, no durability and cannot be un-equipped once picked up.
+
+<span id="location"></span><span id="Location"></span>
 
 ## Location
 
@@ -44,12 +48,14 @@ The Technical Backpack is unique to the [Gold Mine](./Gold%20Mine.md) of the [As
 
 The Technical Backpack can be found alongside their sister item, the [Crampons](./Crampons.md) and a nearby [Note](./Notebook%20Page%20%28Survival%202%29.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.94)):**
-  - \[UI\] Fixed an issue that caused the Technical Pack’s item description to disappear after a transition to a new area.
+- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**
+  - [UI] Fixed an issue that caused the Technical Pack’s item description to disappear after a transition to a new area.
 
-- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)):**
+- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
   - New Gear Items: Crampons and the Technical Backpack
 
 ## Trivia

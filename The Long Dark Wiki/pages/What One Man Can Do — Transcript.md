@@ -20,6 +20,8 @@
 
 This is the mission transcript for mission 4 [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _Mackenzie pushes himself off of a cave floor._
@@ -82,7 +84,7 @@ _Mackenzie gets out of bed and sits on the stool, then flips the shortwave's CAL
 
 Mackenzie: "Here goes nothing."
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...\[static\]... This is...Mills...come in..."
+[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...[static]... This is...Mills...come in..."
 
 Mackenzie: "Hello? Is this the radio station at Perseverance Mills?"
 

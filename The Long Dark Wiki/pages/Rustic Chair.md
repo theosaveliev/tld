@@ -25,6 +25,8 @@
 
 The **Rustic Chair** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A makeshift wooden chair, a Rustic Chair can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -33,9 +35,13 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the chair cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the chair will yield no resources, so consider the material cost/time investment before creating this item).
 
+<span id="harvesting"></span><span id="Harvesting"></span>
+
 ## Harvesting
 
 The Rustic Chair can be harvested with a [Hatchet](./Hatchet.md) in 1 hour for 4 [Cedar Firewood](./Cedar%20Firewood.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -54,5 +60,7 @@ The Rustic Chair can be harvested with a [Hatchet](./Hatchet.md) in 1 hour for 4
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 4
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History

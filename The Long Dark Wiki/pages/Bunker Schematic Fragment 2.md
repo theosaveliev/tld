@@ -28,16 +28,20 @@
 
 **Bunker Schematic Fragment 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Bunker Schematic Fragment 2**_
 
-\[faded handwriting in the margins of a technical drawing\]
+[faded handwriting in the margins of a technical drawing]
 
 ...once triggered, it can't be stopped. You're either out or you're in. But it'll be the safest place on Great Bear.
 
 SOLVE THE MISFIRE PROBLEM!!!
 
 Wyatt is distracted, getting sloppy. Without these bunkers, what good is he. Or his brother. If he can't fix this one of us could be having a real bad day. There's even a chance the countermeasure could be triggered on purpose, and in that case hold on to your...
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

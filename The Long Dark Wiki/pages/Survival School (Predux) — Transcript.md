@@ -29,6 +29,8 @@
 
 This is the transcript for Chapter 3 [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="opening_conversation"></span><span id="Opening_conversation"></span><span id="opening-conversation"></span>
+
 ## Opening conversation
 
 CHAPTER THREE
@@ -213,6 +215,8 @@ Mackenzie **(Text)**: "Let's talk about some survival skills."
 
 Jeremiah **(Text)**: "Survival takes focus. We'll continue when you're done with your current lesson."
 
+<span id="learn_to_craft_fishing_tackle_then_catch_fish_from_mystery_lake."></span><span id="Learn_to_craft_Fishing_Tackle,_then_catch_fish_from_Mystery_Lake."></span><span id="learn_to_craft_fishing_tackle,_then_catch_fish_from_mystery_lake."></span><span id="learn-to-craft-fishing-tackle-then-catch-fish-from-mystery-lake"></span>
+
 ## Learn to craft Fishing Tackle, then catch fish from Mystery Lake.
 
 - SURVIVAL SCHOOL: FISHING
@@ -244,6 +248,8 @@ Jeremiah **(Text)**: "I can smell it already."
 _Mackenzie heads to the [Camp Office](./Camp%20Office.md) and crafts a Fishing Tackle, the Ice Fishes at Mystery Lake. He returns to the Homestead, and then places the raw fish in the nearby Supply Bin. If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "You know what you need to know about Ice Fishing now. Not much more that I can tell you."
+
+<span id="learn_to_find_track_shoot_and_butcher_a_deer."></span><span id="Learn_to_find,_track,_shoot,_and_butcher_a_Deer."></span><span id="learn_to_find,_track,_shoot,_and_butcher_a_deer."></span><span id="learn-to-find-track-shoot-and-butcher-a-deer"></span>
 
 ## Learn to find, track, shoot, and butcher a Deer.
 
@@ -281,6 +287,8 @@ Jeremiah **(Text)**: "Then good luck. Come back to me when you've bagged one."
 _Mackenzie heads to the [Unnamed Pond](./Unnamed%20Pond.md), kills a [Deer](./Deer.md) or two, then places the raw meat in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "I think you've shot enough deer for one day. You're done with that."
+
+<span id="learn_to_mend_and_maintain_clothing._itll_save_your_life_some_day."></span><span id="Learn_to_mend_and_maintain_clothing._It&#x27;ll_save_your_life_some_day."></span><span id="learn_to_mend_and_maintain_clothing._it&#x27;ll_save_your_life_some_day."></span><span id="learn-to-mend-and-maintain-clothing-itll-save-your-life-some-day"></span>
 
 ## Learn to mend and maintain clothing. It'll save your life some day.
 
@@ -336,6 +344,8 @@ _If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "Thanks for fixing my coat. That'll do, as far as mending lessons."
 
+<span id="learn_to_identify_and_harvest_some_of_the_edible_medicinal_flora_native_to_great_bear_island._place_in_the_container_at_jeremiahs_cabin"></span><span id="Learn_to_identify_and_harvest_some_of_the_edible,_medicinal_flora_native_to_Great_Bear_Island._(Place_in_the_container_at_Jeremiah&#x27;s_Cabin)"></span><span id="learn_to_identify_and_harvest_some_of_the_edible,_medicinal_flora_native_to_great_bear_island._(place_in_the_container_at_jeremiah&#x27;s_cabin)"></span><span id="learn-to-identify-and-harvest-some-of-the-edible-medicinal-flora-native-to-great-bear-island-place-in-the-container-at-jeremiahs-cabin"></span>
+
 ## Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)
 
 - SURVIVAL SCHOOL: HARVESTABLE PLANTS
@@ -367,6 +377,8 @@ Jeremiah **(Text)**: "Then go to it, oh mighty killer of fuzzy animals."
 _Mackenzie leaves the Trapper's Homestead, finding the necessary amount of plants and fungi, and deposits them in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "I suspect you know how to find the plants you need now. Next subject."
+
+<span id="return_to_jeremiah."></span><span id="Return_to_Jeremiah."></span><span id="return-to-jeremiah"></span>
 
 ## Return to Jeremiah.
 

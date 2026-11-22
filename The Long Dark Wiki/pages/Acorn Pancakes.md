@@ -44,6 +44,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Acorn Pancakes** are a food item made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Acorn Pancakes**
@@ -70,6 +72,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 **Item:** [Acorn Grounds](./Acorn%20Grounds.md)
 
 **Quantity:** 1
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

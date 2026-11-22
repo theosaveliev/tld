@@ -32,6 +32,8 @@
 
 **Rose Hip Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Rose Hip Tea functions similar to [Painkillers](./Painkillers.md) for treating Afflictions, and is cooked from one [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) (24 [Rose Hips](./Rose%20Hip.md)) and 0.25 liters of [Water (Potable)](./Water%20%28Potable%29.md) at a lit [Fire](./Fire.md). Consuming prepared Rose Hip Tea (even without treating an Affliction) restores 100 Calories, 30% Hydration and potentially grants the benefit "[Warming Up](./Warming%20Up.md)." Cooking Rose Hip Tea increases [Cooking Skill](./Cooking.md).
@@ -50,6 +52,8 @@ As a source of Vitamin C, Rose Hip Tea can also be used to treat [Scurvy](./Scur
 
 Prepared Rose Hips have half the weight of their raw form, and no form of Rose Hips [Decay](./Decay.md).
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Rose Hip Tea**
@@ -67,6 +71,8 @@ Prepared Rose Hips have half the weight of their raw form, and no form of Rose H
 
 **Quantity:** 1
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - Teas may be heated/reheated to grant the Warming Up Benefit by placing them on a fire's cooking spot, or nearby a lit fire.
@@ -74,13 +80,17 @@ Prepared Rose Hips have half the weight of their raw form, and no form of Rose H
 - Teas never decay once cooked.
 - The condition of Painkillers decays slowly over time (based on [Survival Mode](./Survival%20Mode.md)). Upon reaching 0% Condition, they become unusable and will disappear if inside of a container, but all forms of Rose Hips do not decay.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Rose_hip_tea.png)
 
 ![Old icon](../assets/Rose_hip_tea_icon_old.png)
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
-- Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192).
+- Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192).
 - As of the 1.0 [Wintermute](./Wintermute.md) update (August 1, 2017) Rose Hips must be prepared before cooking them.

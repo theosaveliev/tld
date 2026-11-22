@@ -14,6 +14,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 With the exception of Waterfall Cave immediately to the right, Eric's Falls is the sole named location in the area. [Cat tails](./Cat%20Tail.md), [Green Maple Saplings](./Green%20Maple%20Sapling.md) and [Green Birch Saplings](./Green%20Birch%20Sapling.md) as well as some [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) are in the area. [Wolves](./Wolf.md) and a [bear](./Bear.md) may patrol nearby.
@@ -25,11 +27,15 @@ There is a [Cargo Container](./Cargo%20Container.md) along the river. (Does not 
 - Upper door: [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md), [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md) and [pinnacle peaches](./Pinnacle%20Peaches.md)
 - Lower door: [antibiotics](./Antibiotics.md), [antiseptics](./Antiseptic.md), [bandages](./Bandage.md) and [painkillers](./Painkillers.md)
 
+<span id="access"></span><span id="Access"></span>
+
 ## Access
 
 Eric's Falls can be reached by walking through the cave at [Secluded Shelf](./Secluded%20Shelf.md) and climbing down the [rope](./Rope%20Climbing.md) to the left, or by following the path from [Deer Clearing](./Deer%20Clearing.md).
 
 If the player places a [climbing rope](./Mountaineering%20Rope.md) at the spot on the level of Eric's Falls, the player can descend to the [Engine](./Engine%20%28East%29.md) area. Placing a rope here will significantly decrease the time needed to get from the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) to the [Summit](./Summit.md), since the player will no longer have to walk all the way around through Deer Clearing.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

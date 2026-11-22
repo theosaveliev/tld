@@ -30,6 +30,8 @@
 
 **A Handwritten Letter** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found inside the [Constable's Office](./Constable%27s%20Office.md) during the main mission [Perseverance](./Perseverance.md). It is on the floor to the front door, likely slipped under the door.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **A Handwritten Letter**_
@@ -42,6 +44,8 @@ It happened last Friday. I woke up and he was gone. The front door was wide open
 I hope you find this note very soon. Please contact me when you're back.
 
 Jen
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

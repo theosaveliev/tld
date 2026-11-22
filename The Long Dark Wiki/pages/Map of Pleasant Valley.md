@@ -6,7 +6,7 @@
 
 [Map of Pleasant Valley icon](../assets/Map_of_Pleasant_Valley_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Coming Storm](./Coming%20Storm.md)
 
@@ -30,7 +30,9 @@
 
 **Map of Pleasant Valley** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode. It is given to [Astrid Greenwood](./Astrid%20Greenwood.md) by [Father Thomas](./Father%20Thomas.md) showing her how to get to the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) from the [Community Hall](./Community%20Hall.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

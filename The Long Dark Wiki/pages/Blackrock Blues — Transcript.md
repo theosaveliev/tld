@@ -29,6 +29,8 @@ Episode
 
 This is the transcript for Chapter 1 [Blackrock Blues](./Blackrock%20Blues.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
+<span id="prison_opening_sequence"></span><span id="Prison_Opening_Sequence"></span><span id="prison-opening-sequence"></span>
+
 ## Prison Opening Sequence
 
 _Mackenzie awakes in a bed within a prison cell, his head aching from the blow Mathis gave it. A voice rings out from the nearby cell._
@@ -151,7 +153,7 @@ _Mathis savagely strikes Franklin. Franklin begins spitting and coughing_
 
 Mathis: "Don't you ever say his name."
 
-Franklin: "\[Warden spitting blood\] I...I don't know anything about it."
+Franklin: "[Warden spitting blood] I...I don't know anything about it."
 
 Mathis: "My guys say someone's been tampering with the system. They say...it's gotten worse. Every time they take a step closer to breaking into solitary something new gets in their way. Didn't you use to run this place?"
 
@@ -209,7 +211,7 @@ Heller: "Right. You clean up the warden and I'll tell you all about it. So there
 
 Vachon: "No shit."
 
-Heller: "No shit. So the driver pulls up, like...two minutes late. Alarms are going off everywhere, it's like...the prison guards are coming after us. we're going to get grabbed at any second. We're yelling at Mathis, "Come on man let's go. Let's get outta here!" And Mathis just stands there. Looking at the fucking driver. Looking like...he wants to eat the guy. The driver's terrified. Mathis walks over to the van, slowly. We're all jumping in and yelling to get out, and we...and we can \*see\* the fucking guards coming. Like, we are done. We need to GET OUT. Mathis...he pulls the driver out of the van, looks back at us, and...with this totally wild look in his eyes...just says..."Go". Like totally calmly, but with this wild edge. And he just starts beating the living shit out of the driver."
+Heller: "No shit. So the driver pulls up, like...two minutes late. Alarms are going off everywhere, it's like...the prison guards are coming after us. we're going to get grabbed at any second. We're yelling at Mathis, "Come on man let's go. Let's get outta here!" And Mathis just stands there. Looking at the fucking driver. Looking like...he wants to eat the guy. The driver's terrified. Mathis walks over to the van, slowly. We're all jumping in and yelling to get out, and we...and we can _see\_ the fucking guards coming. Like, we are done. We need to GET OUT. Mathis...he pulls the driver out of the van, looks back at us, and...with this totally wild look in his eyes...just says..."Go". Like totally calmly, but with this wild edge. And he just starts beating the living shit out of the driver."
 
 Vachon: "Wow. I knew it went bad in Montreal but I didn't know that story."
 
@@ -221,7 +223,7 @@ Heller: "Mathis is not a patient man. He does not like it when a plan does not c
 
 _Mackenzie gets off the bunk bed and stands on the toilet, peering through the window bars_
 
-Heller: "And it's just a matter of time before he...\[snaps fingers\]...snaps, like he did in Montreal."
+Heller: "And it's just a matter of time before he...[snaps fingers]...snaps, like he did in Montreal."
 
 Vachon: "He looks bad, eh? What are we going to do?"
 
@@ -276,6 +278,8 @@ Vachon: "Get going, pilot. The Warden doesn't have much time left. And in case y
 _Vachon closes the door and locks it, with Mackenzie shivering and turning around_
 
 Mackenzie: "Ah, brutal, deadly cold. How I've missed you."
+
+<span id="find_medical_supplies_for_the_warden."></span><span id="Find_Medical_Supplies_for_the_Warden."></span><span id="find-medical-supplies-for-the-warden"></span>
 
 ## Find Medical Supplies for the Warden.
 
@@ -363,6 +367,8 @@ _Mackenzie hangs up the phone._
 
 Mackenzie: "Well. That was weird."
 
+<span id="track_down_the_prison_truck_and_medicine."></span><span id="Track_down_the_prison_truck_and_medicine."></span><span id="track-down-the-prison-truck-and-medicine"></span>
+
 ## Track down the prison truck and medicine.
 
 _Mackenzie goes to the front gate and unlocks it with the key he found. Inside he finds a [Weapon Locker](./Weapon%20Locker.md) containing supplies, and [Noisemakers](./Noisemaker.md)_
@@ -378,6 +384,8 @@ _Mackenzie begins is search, leaving the prison, passing a wooden bridge, going 
 Mackenzie: "Looks like someone's been here recently."
 
 _He follows the trail of blood in the snow, and finds a [Dead Prison Guard](./Dead%20Prison%20Guard.md) being eaten by a Wolf near a cave. Dispatching it, Mackenzie finds the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) in a nearby [First Aid Kit](./First%20Aid%20Kit.md) and returns to the Prison._
+
+<span id="return_to_blackrock."></span><span id="Return_to_Blackrock."></span><span id="return-to-blackrock"></span>
 
 ## Return to Blackrock.
 

@@ -70,12 +70,16 @@ _For the cooked version, see [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%2
 
 Red Irish Lord can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 3 units per kilogram harvested.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
 | [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) | None | - 1 × [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

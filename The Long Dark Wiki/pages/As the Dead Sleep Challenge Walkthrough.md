@@ -31,6 +31,8 @@
 - [Step #22](#step-22)
 - [Step #23](#step-23)
 
+<span id="gameplay"></span><span id="Gameplay"></span>
+
 ## Gameplay
 
 In the [As The Dead Sleep](./As%20the%20Dead%20Sleep.md) challenge, will always spawn in the [Fallen Lighthouse](./Fallen%20Lighthouse.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the start of the Challenge, with the weather set to windy.
@@ -44,6 +46,8 @@ The 5 graves are in the following locations:
 - [Crystal Lake](./Crystal%20Lake.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 - [Ravine Basin](./Ravine%20Basin.md) in [The Ravine](./The%20Ravine.md)
 - [The Riken](./The%20Riken.md) in [Desolation Point](./Desolation%20Point.md)
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -66,11 +70,15 @@ Interloper difficulty means that you will not be able to loot warm manufactured 
 - Because [condition](./Condition.md) can only be regenerated with [emergency stims](./Emergency%20Stim.md), it is almost always worth eating food if you have it and if you are hungry. Eating food will reduce your weight and there is no benefit to delaying eating.
 - When possible, try to travel close to structures / walls / cliff or mountain faces to benefit from wind protection they may provide.
 
+<span id="walkthrough"></span><span id="Walkthrough"></span>
+
 ## Walkthrough
 
 IT IS ADVISED TO READ THE ENTIRE WALKTHROUGH BEFORE STARTING. AT THE VERY LEAST, READ A FEW STEPS AHEAD TO BE AWARE OF WHAT CHALLENGES AWAIT YOU AND WHICH RESOURCES ARE WORTH PRESERVING FOR SPECIFIC POINTS IN YOUR TRAVELS.
 
 The route in this walkthrough is tailored for players less familiar with this challenge. There are more time-efficient routes and routes with less backtracking. However, this route is safer at the expense of time. Thus, it is a good route to gain experience with this challenge in preparation for more challenging routes in future runs.
+
+<span id="step_1"></span><span id="Step_#1"></span><span id="step_#1"></span><span id="step-1"></span>
 
 ### Step #1
 
@@ -104,6 +112,8 @@ Inverted color maps are nice to have up on your secondary monitor as you play wi
   1. Harvest the [cat tails](./Cat%20Tail.md) at point N. Harvest the [rose hips](./Rose%20Hip.md) at point O. Harvest the [reishi mushrooms](./Reishi%20Mushroom.md) at point P. Harvest the [rose hips](./Rose%20Hip.md) at point R.
   2. If conditions permit, you may thaw and harvest the wolf carcass at point Q, but this is not advised. Eating predator meat increases your chances of contracting [intestinal parasites](./Intestinal%20Parasites.md), which could be a death sentence at this point in the challenge.
 
+<span id="step_2"></span><span id="Step_#2"></span><span id="step_#2"></span><span id="step-2"></span>
+
 ### Step #2
 
 To my knowledge, there is no proper map of this cave on this wiki. Refer to [this map by Steam user Melanee](https://steamcommunity.com/profiles/76561198087794193/images/) if you are unfamiliar with the cave. The cave is simple and carries little risk of getting lost or confused inside.
@@ -113,6 +123,8 @@ To my knowledge, there is no proper map of this cave on this wiki. Refer to [thi
 3. Boil more water if you need to replenish your stores.
 4. Don't forget to drop any excess cat tail heads. They tend to accumulate and consume excess weight in your pack. Get in the habit of dropping these frequently.
 5. If the time is right, sleep in this cave. There is a naturally spawning bed in the cave if you don't have a [bedroll](./Bedroll.md).
+
+<span id="step_3"></span><span id="Step_#3"></span><span id="step_#3"></span><span id="step-3"></span>
 
 ### Step #3
 
@@ -130,6 +142,8 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 3. Navigate to point 3.
   1. You may want to warm up at point D, but be aware that the abandoned camp may not spawn. Once you pass into [Broken Radilroad](./Broken%20Railroad.md), you will still have a decent walk to get to the [Maintenance Yard](./Maintenance%20Yard.md), so going in cold can be fatal especially in bad weather. There may be a snow shelter that you can use at this location which will provide a warmth bonus and complete wind protection. There may also a campfire that you can light if weather permits. [BEAR](./Bear.md) in mind that aggressive wildlife can still attack you inside a snow shelter. If you have a bedroll, passing time or sleeping will provide the additional warmth bonus of the bedroll.
 
+<span id="step_4"></span><span id="Step_#4"></span><span id="step_#4"></span><span id="step-4"></span>
+
 ### Step #4
 
 [Atds step 4](../assets/Atds_step_4.png)
@@ -142,6 +156,8 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 2. Navigate to point 3.
   1. Loot the maintenance yard, but remain aware of your carry weight.
   2. Some players, if they have the resources, like to craft a knife or hatchet at the forge. If you don't have a can opener, this can be useful to avoid losing food from smashing cans open.
+
+<span id="step_5"></span><span id="Step_#5"></span><span id="step_#5"></span><span id="step-5"></span>
 
 ### Step #5
 
@@ -156,6 +172,8 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 2. Navigate to point 2.
   1. It is advised to equip a flare when exiting the maintenance yard so you can quickly light it if a wolf accosts you immediately upon exit.
 
+<span id="step_6"></span><span id="Step_#6"></span><span id="step_#6"></span><span id="step-6"></span>
+
 ### Step #6
 
 [Atds step 6](../assets/Atds_step_6.png)
@@ -167,6 +185,8 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
   1. If you can't figure out how to [Mountain Goat](./Mountain%20Goating.md) up the cliff, don't waste too much time trying to figure it out. Just go around the cliff, and up the stream to the waterfall. You can use the cave system from the waterfall to marsh ridge to warm up and collect a few items.
 3. Navigate to point 3.
   1. When you enter mountain town, keep in mind that you will need enough energy to climb up two climbing ropes. There is a cave between the two ropes to sleep in to regain energy if you have a bedroll.
+
+<span id="step_7"></span><span id="Step_#7"></span><span id="step_#7"></span><span id="step-7"></span>
 
 ### Step #7
 
@@ -192,6 +212,8 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
   2. If you don't have a bedroll, sleep here and head into [Hushed River Valley](./Hushed%20River%20Valley.md) when you wake up. This same location will be your next opportunity to sleep.
 9. Navigate to point 8.
 
+<span id="step_8"></span><span id="Step_#8"></span><span id="step_#8"></span><span id="step-8"></span>
+
 ### Step #8
 
 [Atds step 8](../assets/Atds_step_8.png)
@@ -204,6 +226,8 @@ THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROU
   1. From here, you will [Mountain Goat](./Mountain%20Goating.md) down the side of the cliff. [Mountain Goating](./Mountain%20Goating.md) down tends to be much easier than [Mountain Goating](./Mountain%20Goating.md) up, so don't be worried. Just go slow and be careful not to fall too far and break your legs.
 2. Navigate to grave #2 at point 3.
 
+<span id="step_9"></span><span id="Step_#9"></span><span id="step_#9"></span><span id="step-9"></span>
+
 ### Step #9
 
 [Atds step 9](../assets/Atds_step_9.png)
@@ -213,6 +237,8 @@ THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROU
 1. Navigate to point 2.
   1. Do not be tempted to climb the rope at point A unless you have a hatchet. This path requires clearing scrub brush patches, which cannot be done without a hatchet.
   2. If the bear is in your path and/or you have the energy, you may climb the rope at point B. This will require that you [Mountain Goat](./Mountain%20Goating.md) around the scrub brush patch and [Mountain Goat](./Mountain%20Goating.md) down the cliff to get to point 2. This can be tricky especially if you are in a rush due to cold and it can be easy to accidentally hurt yourself while climbing down. The path show in the map is the simplest and safest unless the bear is nearby.
+
+<span id="step_10"></span><span id="Step_#10"></span><span id="step_#10"></span><span id="step-10"></span>
 
 ### Step #10
 
@@ -234,6 +260,8 @@ YOU MAY BE TEMPTED TO NAVIGATE INSTEAD TO SPRUCE FALLS BRIDGE AND THROUGH THE CA
 6. Navigate to point 7.
   1. Collecting the natural resources in the area between the climbing ropes is especially advised as there is no hostile wildlife in this area. However, keep in mind that you still have to climb a rope out, so keep an eye on your carry weight and your energy. There is a cave that at least sometimes has a naturally spawning bed. I'm not sure if this is guaranteed.
 
+<span id="step_11"></span><span id="Step_#11"></span><span id="step_#11"></span><span id="step-11"></span>
+
 ### Step #11
 
 From this point, the walkthrough will not give such thorough instructions as to what to do at each location. If you've made it this far, you know what to loot and when to loot.
@@ -251,6 +279,8 @@ From this point, the walkthrough will not give such thorough instructions as to 
   1. You may want to investigate the trailers, but if there is a wolf nearby, it may be safer to skip them.
 6. Navigate to point 7.
 
+<span id="step_12"></span><span id="Step_#12"></span><span id="step_#12"></span><span id="step-12"></span>
+
 ### Step #12
 
 If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you could use some better gear, maybe you could use some more resources. Honestly at this point, you're doing very well at the challenge and if you keep it up, it's in the bag. If you're aiming for a shorter completion time, maybe it isn't worth looting. If you're aiming to maximize your safety, maybe it is worth looting.
@@ -264,6 +294,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 2. Navigate to point 3.
 3. Navigate to point 4.
 4. Navigate to point 5.
+
+<span id="step_13"></span><span id="Step_#13"></span><span id="step_#13"></span><span id="step-13"></span>
 
 ### Step #13
 
@@ -283,6 +315,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 8. Navigate to point 9.
   1. There is rope climbing at this step.
 
+<span id="step_14"></span><span id="Step_#14"></span><span id="step_#14"></span><span id="step-14"></span>
+
 ### Step #14
 
 [Atds step 14](../assets/Atds_step_14.png)
@@ -293,6 +327,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
   1. This region can be very cold, so warm up at point 2 or on the way to it if you need.
 2. Navigate to grave #3 at point 3.
 
+<span id="step_15"></span><span id="Step_#15"></span><span id="step_#15"></span><span id="step-15"></span>
+
 ### Step #15
 
 [Atds step 15](../assets/Atds_step_15.png)
@@ -301,6 +337,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 1. Navigate to point 2.
 2. Navigate to point 3.
+
+<span id="step_16"></span><span id="Step_#16"></span><span id="step_#16"></span><span id="step-16"></span>
 
 ### Step #16
 
@@ -316,6 +354,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
   1. If you don't need to warm up, consider skipping 6 and going straight to 7.
 6. Navigate to point 7.
 
+<span id="step_17"></span><span id="Step_#17"></span><span id="step_#17"></span><span id="step-17"></span>
+
 ### Step #17
 
 [Atds step 17](../assets/Atds_step_17.png)
@@ -329,6 +369,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 3. Navigate to point 4.
 4. Navigate to point 5.
 
+<span id="step_18"></span><span id="Step_#18"></span><span id="step_#18"></span><span id="step-18"></span>
+
 ### Step #18
 
 [Atds step 18](../assets/Atds_step_18.png)
@@ -336,6 +378,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 [Atds step 18 inverted](../assets/Atds_step_18_inverted.png)
 
 1. Navigate to point 2.
+
+<span id="step_19"></span><span id="Step_#19"></span><span id="step_#19"></span><span id="step-19"></span>
 
 ### Step #19
 
@@ -350,6 +394,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
   4. BE AWARE THAT THIS IS A VERY LONG CLIMB! You will climb down to reach the next grave and then you must climb back up. Because carry weight affects climbing speed, it is advised to leave as much gear as possible at the top of the ravine before climbing down. You can retrieve it all after you climb back up shortly. Because climbing speed is directly tied to your current fatigue, you may want to plan to sleep in the cave near the grave to top your fatigue off before climbing back up.
 2. Navigate to grave #4 at point 3.
 
+<span id="step_20"></span><span id="Step_#20"></span><span id="step_#20"></span><span id="step-20"></span>
+
 ### Step #20
 
 [Atds step 20](../assets/Atds_step_20.png)
@@ -361,6 +407,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 2. Navigate to point 3.
   1. Don't fall!
 3. Navigate to point 4.
+
+<span id="step_21"></span><span id="Step_#21"></span><span id="step_#21"></span><span id="step-21"></span>
 
 ### Step #21
 
@@ -378,6 +426,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 7. Navigate to point 8.
   1. The stretch between point 7 and the next interior to warm up in is a bit long. You will probably want to warm up with a fire at some point. Commuter's Lament is a good spot for this because there is good wind cover.
 
+<span id="step_22"></span><span id="Step_#22"></span><span id="step_#22"></span><span id="step-22"></span>
+
 ### Step #22
 
 [Atds step 22](../assets/Atds_step_22.png)
@@ -388,6 +438,8 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
   1. This region is very tight and you will be in close quarters with wolves. If you have any flares available, keep one equipped and at the ready. Otherwise keep a torch at the ready, but flares are preferable since wind cannot extinguish them unexpectedly, leaving you defenseless. You are so close to finishing this challenge, and that is not how you want your run to end.
 2. Navigate to point 3.
 3. Navigate to point 4.
+
+<span id="step_23"></span><span id="Step_#23"></span><span id="step_#23"></span><span id="step-23"></span>
 
 ### Step #23
 

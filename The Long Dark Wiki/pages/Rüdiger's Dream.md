@@ -10,6 +10,8 @@
 
 **Rüdiger's Dream** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). The player must complete all 3 [Tales](./Tales.md) in a single [Survival Mode](./Survival%20Mode.md) game:

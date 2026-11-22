@@ -2,7 +2,7 @@
 
 **Categories:** Article stubs, Caves, Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Timberwolf_Mountain_location_2%29)
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Cave+%28Timberwolf+Mountain+location+2%29&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cave+%28Timberwolf+Mountain+location+2%29&amp;action=edit expanding it].**
 
 **Cave (Timberwolf Mountain location 2)**
 
@@ -23,6 +23,8 @@ Region
 Type
 
 Cave|-
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 

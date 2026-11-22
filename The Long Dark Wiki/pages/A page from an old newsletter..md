@@ -28,6 +28,8 @@
 
 **A page from an old newsletter.** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found on a table next to the [Trader](./Trader.md) [Radio](./Radio.md) in [Camp Office](./Camp%20Office.md) in [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **A page from an old newsletter.**_
@@ -43,5 +45,7 @@ With tremors increasing, building a durable radio network could make all the dif
 With gratitude,
 
 Jen Whitney, Executive Officer
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

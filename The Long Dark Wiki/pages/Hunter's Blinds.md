@@ -4,6 +4,8 @@
 
 **Hunter's blinds** are a type of small structure used for hunting. ![A Hunter's Blind near Hilltop Cave, Pleasant Valley.](../assets/Hunter%27s_Blind_Hilltop.jpg)_A Hunter's Blind near Hilltop Cave, Pleasant Valley._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Hunter's blinds are enclosed wooden platforms used as stations from which to hunt deer and other game.
@@ -13,6 +15,8 @@ They provide some shelter from wind while hunting, are elevated for easier sight
 Blinds may also contain a small amount of useful loot, such as [food](./Food%20And%20Drink.md), firewood, or even a [survival bow](./Survival%20Bow.md). Note that the player cannot make a fire inside a blind, so, in very cold weather when making a fire may be necessary, predators will be able to attack a player who exits the blind to build a fire. Additionally, the blind's wind protection will not apply to fires built outside the structure. Therefore, it is wise to ensure one is well-stocked with potable water and food and clothed in warm layers when planning on hunting from a blind. The blind also doesn't count as shelter if you are afflicted with the [cabin fever](./Cabin%20Fever.md) debuff.
 
 ![Another Hunter's Blind in Pleasant Valley.](../assets/Screen_Shot_2017-03-06_at_9.26.08_am.png)
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

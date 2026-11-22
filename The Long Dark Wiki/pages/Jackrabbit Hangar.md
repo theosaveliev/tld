@@ -10,6 +10,8 @@
 
 Before the Quiet Apocalypse, [Will Mackenzie](./Will%20Mackenzie.md), Jack's son, serves as the pilot for the company. He speaks briefly on the phone with a woman named Maureen (who seems to work for or with the company, possibly in administration). It is unknown if the company employs anyone else apart from these two. It is implied by Maureen and Will in combination that the company is financially underperforming due to lack of clients. This might be a result of decreased demand caused by [The Collapse](./The%20Collapse.md).
 
+<span id="wintermute"></span><span id="Wintermute"></span>
+
 ## Wintermute
 
 [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
@@ -20,12 +22,16 @@ The company itself plays little role in the game's plot after the mission Memori
 
 The only remaining reference to the company after the crash is the logo found on the back of [Mackenzie's Parka](./Mackenzie%27s%20Parka.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Despite a common misconception, the word "Air" is not included in the company name. It is seen in the subtitles as "Jackrabbit Remote Air Transport" the first time the name is mentioned by Will in the cinematic at the very beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). The audio however, excludes the word "Air," and so does the poster found inside the hangar. When Will comments on the poster he also uses this wording.
 - A unique [Insulated Flask](./Insulated%20Flask.md) themed off the company can be found in [Survival Mode](./Survival%20Mode.md).
 - Hinterland released a purchasable real world coffee mug based off the Jackrabbit Remote Transport Company.
 - The office board contains a photo of [Astrid Greenwood](./Astrid%20Greenwood.md), the old [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) logo found on the old [Cup of Coffee](./Cup%20of%20Coffee.md) model, and an old map of Great Bear Island before V1.15 of _The Long Dark_ was released.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

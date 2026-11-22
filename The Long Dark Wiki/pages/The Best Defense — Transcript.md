@@ -27,11 +27,15 @@
 
 This is the mission transcript for mission 2 [The Best Defense](./The%20Best%20Defense.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 CHAPTER TWO
 
 THE BEST DEFENSE
+
+<span id="retrieve_the_legendary_spear_from_the_hunting_lodge."></span><span id="Retrieve_the_legendary_spear_from_the_Hunting_Lodge."></span><span id="retrieve-the-legendary-spear-from-the-hunting-lodge"></span>
 
 ## Retrieve the [legendary spear](./Broken%20Bear%20Spear.md) from the [Hunting Lodge](./Hunting%20Lodge.md).
 
@@ -133,6 +137,8 @@ _By this point, dawn breaks and the lights in the sky begin to fade. Cars and li
 
 Mackenzie: "Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed."
 
+<span id="repair_the_broken_spear_at_the_forge."></span><span id="Repair_the_broken_spear_at_the_forge."></span><span id="repair-the-broken-spear-at-the-forge"></span>
+
 ## Repair the broken spear at the [forge](./Forge.md).
 
 _Mackenzie then travels back to the Maintenance Shed, [Broken Bear Spear](./Broken%20Bear%20Spear.md) in tow, and manages finds several pieces of [Scrap Metal](./Scrap%20Metal.md), a [Heavy Hammer](./Heavy%20Hammer.md), and enough wood to forge a new [Spear Head](./Spear%20Head.md). Mackenzie then lights the [Furnace](./Furnace.md)._
@@ -150,6 +156,8 @@ Mackenzie: "Guess I can add "blacksmith" to my growing list of skills."
 _Mackenzie holds up the [Bear Spear](./Bear%20Spear.md), showing off its restored glory, then puts it away._
 
 Mackenzie: "Let's hope I don't have to put this spear to the test."
+
+<span id="get_back_to_jeremiah"></span><span id="Get_back_to_Jeremiah"></span><span id="get-back-to-jeremiah"></span>
 
 ## Get back to Jeremiah
 
@@ -211,7 +219,7 @@ Jeremiah: "Ridiculous idea. But, there's definitely a bear out there. And he's d
 
 Mackenzie: "Says the guy safely inside the wooden cabin."
 
-Jeremiah: "Damn it. You think I \*want\* to be in here? I need to get a message out and this might be the only way."
+Jeremiah: "Damn it. You think I _want\_ to be in here? I need to get a message out and this might be the only way."
 
 Mackenzie: "What message? What does this have to do with me contacting my friend?"
 

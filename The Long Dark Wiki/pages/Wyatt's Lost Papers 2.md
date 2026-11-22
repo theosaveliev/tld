@@ -28,6 +28,8 @@
 
 **Wyatt's Lost Papers 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wyatt's Lost Papers 2**_
@@ -39,5 +41,7 @@ We've kept things pretty quiet, but I know there is someone, or some people, try
 Our little group should be fine though. As long as we stick to the plan. Stick together.
 
 - Wyatt
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

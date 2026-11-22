@@ -24,23 +24,27 @@
 
 **Rüdiger's Diary 1** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) in [Sundered Pass](./Sundered%20Pass.md) while following the Tale.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Rüdiger's Diary 1**_
 
 Someone is stalking me.
 
-Even now, huddled here with the rats and the filth, he is searching. The mole I had feared, or \[scratched out\]?
+Even now, huddled here with the rats and the filth, he is searching. The mole I had feared, or [scratched out]?
 
 The mountain pass is closed. Great Bear Island's instability, its many earthquakes and shifting mountains, were thought to be key attributes in our scientific game.
 
 And that proved partially true. Its gnashing rocks, the clash of old and new forces in opposition, did grant us a look in the right direction.
 
-But it's also trapped me here, with no retreat from these frozen peaks. I \*need\* to examine the data more closely.
+But it's also trapped me here, with no retreat from these frozen peaks. I _need\_ to examine the data more closely.
 
 All I hold in my hands is a closed book.
 
 I must. Get. Higher.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

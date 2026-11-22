@@ -24,6 +24,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Summit contains two other locations of [Timberwolf Mountain](./Timberwolf%20Mountain.md). They are:
@@ -33,6 +35,8 @@ The Summit contains two other locations of [Timberwolf Mountain](./Timberwolf%20
 
 Additionally, there is a small [cave](./Warm%20Cave.md) located near the end of the rope climb leading up to the summit.
 
+<span id="access_from_crystal_lake"></span><span id="Access_from_Crystal_Lake"></span><span id="access-from-crystal-lake"></span>
+
 ## Access from Crystal Lake
 
 One way to reach the summit is:
@@ -40,6 +44,8 @@ One way to reach the summit is:
 1. From [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), travel to [Deer Clearing](./Deer%20Clearing.md): requires at least 1 rope climb (via the cave system or [Echo Ravine](./Echo%20Ravine.md))
 2. At [Deer Clearing](./Deer%20Clearing.md) climb to [Secluded Shelf](./Secluded%20Shelf.md) and enter to the cave system ("Cave B" to "Cave A" on the map linked above), a section of tunnel requires crouching to pass through: this is the exit.
 3. Exit the cave, turn right and continue to the longest rope climb before the summit. There are two ledges to rest at along the way.
+
+<span id="tips_while_climbing"></span><span id="Tips_while_climbing"></span><span id="tips-while-climbing"></span>
 
 ### Tips while climbing
 
@@ -51,6 +57,8 @@ It is possible to reach the Summit on day one of a playthrough, depending on the
 
 [Mountaineering Ropes](./Mountaineering%20Rope.md) are not necessary on the return trip to the [mountaineer's hut](./Mountaineer%27s%20Hut.md), but make the trip easier and grant fast access to [Eric's falls](./Eric%27s%20Falls.md) and another [Cargo Container](./Cargo%20Container.md) full of tin cans of [food](./Food%20And%20Drink.md) (normally, there are three ropes that always spawned: two at the summit or [Tail Section](./Tail%20Section.md), and one in the mountaineer's hut). An alternative and risky but very fast way to descend is to [carefully walk down](./Mountain%20Goating.md) the side of the mountain slope facing [Crystal Lake](./Crystal%20Lake.md).
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![TailSection&amp;Wing Summit](../assets/TailSection%26Wing_Summit.jpg)
@@ -58,6 +66,8 @@ It is possible to reach the Summit on day one of a playthrough, depending on the
 ![Summit sunset panorama](../assets/Summit_sunset_panorama.jpg)
 
 ![Panoramic View from the Summit](../assets/TW_Pano-1.jpg)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

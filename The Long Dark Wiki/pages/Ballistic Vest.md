@@ -46,6 +46,8 @@ Wintermute
 
 The **Ballistic Vest** is a type of clothing in The Long Dark.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Ballistic Vest provides the highest [Protection](./Clothing.md#Protection) rating in the game at 50%. However, it is very heavy, weighing in at 6kg (13.2lbs). It is the heaviest clothing item in the game, and is comparable to heavier items such as animal quarters or the [Car Battery](./Car%20Battery.md) in terms of item weight. In addition, it reduces the player's [Stamina](./Stamina.md) bar by 40%, the highest mobility penalty any worn clothing offers.
@@ -58,15 +60,21 @@ The vest also gives its own unique buff called [Armoured](./Armoured.md). Armour
 
 The Protection stat is meant to reduce wildlife damage by 1% per 1 protection, meaning equipping the vest cuts wildlife damage in half at minimum. This also means that acquiring 100% or more protection will make the player **_invulnerable_** to wildlife damage.
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
 
 The Ballistic Vest can only be found inside of the main building of [Blackrock Prison](./Blackrock%20Prison.md), located in [Blackrock.](./Blackrock.md) It spawns at the end of the hallway in Cell Block C, next to a corpse. Getting there requires the player to travel around the rear of the prison past multiple wolves and a bear, and then make a very short rope climb, following by walking inside the darkness and collapsed corridors of the ruined prison.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![Clothing model icon](../assets/Ballistic_Vest_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Ballistic_Vest_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History
 
@@ -90,6 +98,8 @@ Direct notations taken from inside raw game code:
 - Broken ribs recovery time reduced by 30% (helps set your bones).
 - Reduces damage from bears and moose struggle, but apparently not from wolf struggle... Does not reduce damage from falling or anything else.
 - Ballistic vest's condition does not change the amount of protection you get from it. It will protect at full efficiency whether at 99% condition or 1% condition, but cannot of course be used when fully ruined.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

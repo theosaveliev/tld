@@ -8,7 +8,7 @@
 
 **Release:** TBD
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Story item:** No
 
@@ -21,6 +21,8 @@
 **Object key:** GAMEPLAY\_MetalContainer
 
 The **Metal Container**is a common stationary interactable object that can be found at many locations in [The Long Dark](./The%20Long%20Dark.md). Upon first encountering one, the player has the option to 'search' the container, a function shared with other item containers in the game. To search a container, the player must hold left-click while hovering over the object. It will then prompt the player with one of the items that spawned in the container, giving them the option to take it, leave it, or press space to interact with the object in some other way if possible. Once an action has been taken, it will cycle on to the next item, and continue until no items are left in the container. By hold-clicking again on an already searched container, the player can place items from their inventory into the container. It can hold up to 15kg (33lbs) of items.
+
+<span id="loot"></span><span id="Loot"></span>
 
 ## Loot
 
@@ -73,6 +75,8 @@ The **Metal Container**is a common stationary interactable object that can be fo
 | [Firestriker icon](../assets/Firestriker_icon.png) | [Firestriker](./Firestriker.md) | 0.56% |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | 0.56% |
 | [Flashlight icon](../assets/Flashlight_icon.png) | [Flashlight](./Flashlight.md) | 0.56% |
+
+<span id="wintermute"></span><span id="Wintermute"></span>
 
 ## Wintermute
 

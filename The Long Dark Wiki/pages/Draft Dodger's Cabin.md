@@ -20,6 +20,8 @@ Has a bed
 
 Has an interior **Draft Dodger's Cabin** is a lonely cabin in [Pleasant Valley](./Pleasant%20Valley.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Draft Dodger's Cabin is located west of a river and east of [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) and [Burned Ridge Cave](./Burned%20Ridge%20Cave.md).

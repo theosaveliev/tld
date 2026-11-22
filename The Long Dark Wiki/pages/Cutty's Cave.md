@@ -28,6 +28,8 @@ Region
 
 **Cutty's Cave** is one of the many small caves located in [Blackrock](./Blackrock.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 This cave is best accessed by going down the road from the prison, then taking a left, followed by a right near two pickup trucks. As with most caves, this one provides a warmth bonus and can be used to cure hides. Its most notable feature is the dead prison guard outside, which can be looted to yield the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) needed to treat [Franklin](./Franklin.md) in the first mission of Episode 4. The cave also has a leaf bed, which provides a small warmth bonus. Be careful when visiting, for a pack of [wolves](./Wolf.md) prowls the area.

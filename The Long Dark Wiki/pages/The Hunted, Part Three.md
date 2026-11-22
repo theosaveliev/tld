@@ -18,8 +18,14 @@
 
 Completing the challenge will award the player with a unique [Badge](./Badges.md) of the same name.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Hunted, Part 3 continues the story of a survivor escaping the wrath of the [Old Bear](./Old%20Bear.md). This time, the survivor is tasked with ultimately ending the life of the bear, lest they themselves meet their end.
 
+<span id="notes"></span><span id="Notes"></span>
+
 ## Notes
+
+<span id="gallery"></span><span id="Gallery"></span>

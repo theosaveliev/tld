@@ -12,4 +12,6 @@
 
 It was replaced by the [The First of Many](./The%20First%20of%20Many.md) achievement.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide

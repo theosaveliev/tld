@@ -41,6 +41,8 @@
 
 **Signal Void** is the first of four [Tales](./Tales.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. Tales are narrative-based objectives for Survival mode. It is not a selectable [Challenge](./Challenge.md) but instead must be activated by first starting a Survival game.
 
+<span id="initiating_the_tale"></span><span id="Initiating_the_Tale"></span><span id="initiating-the-tale"></span>
+
 ## Initiating the Tale
 
 ![Signal Void Banner](../assets/Signal_Void_Banner.jpg)
@@ -49,8 +51,10 @@ Signal Void begins when the player finds a note located on the top floor of the 
 
 After reading and pocketing the note, the player will automatically receive a [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), and a new section in the Journal menu (a flag submenu icon labeled Tales) will appear to keep track of the memo's objectives.
 
-_SPOILER WARNING_  
+<span id="stub"></span> _SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
+
+<span id="objectives"></span><span id="Objectives"></span>
 
 ## Objectives
 
@@ -69,6 +73,8 @@ _SPOILER WARNING_
 
 - Use the repaired Transmitter network to search Forsaken Airfield for signs of additional bunkers.
   - Search Bunker Omega for clues about the fate of Rüdiger's Project.
+
+<span id="repairing_the_transmitters"></span><span id="Repairing_the_Transmitters"></span><span id="repairing-the-transmitters"></span>
 
 ## Repairing the Transmitters
 
@@ -95,6 +101,8 @@ When you repair one of the Transmitters in Lower Great Bear, you will be prompte
 
 If the player activates the Transmitters for the first time at night, an aurora will automatically trigger. For the most effective gameplay the player should be ready to investigate the signal when activating the Transmitter.
 
+<span id="locating_the_anomalous_signals"></span><span id="Locating_the_Anomalous_Signals"></span><span id="locating-the-anomalous-signals"></span>
+
 ## Locating the Anomalous Signals
 
 After all transmitters are repaired, your next objective is to investigate the strange signals mentioned in the memo:
@@ -105,9 +113,11 @@ After all transmitters are repaired, your next objective is to investigate the s
 
 When an [Aurora](./Aurora.md) becomes active in the night sky, use your Handheld Shortwave Radio to home in on the signal (switch to Blue setting). Follow the radio transmissions and you will be eventually find yourself uncovering the entrance of an underground bunker.
 
-_**\*Important\***_
+_***Important\***_
 
 Even if you use [Charcoal](./Charcoal.md) to uncover the location of a bunker (either near the bunker or via a [Polaroid](./Polaroids.md) Vista) or if you already know the location of the bunkers, the game will not allow you to uncover a bunker hatch unless your radio is currently powered. (The same is true for any hidden supply caches. See [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) for more details.)
+
+<span id="investigate_the_bunkers"></span><span id="Investigate_the_Bunkers"></span><span id="investigate-the-bunkers"></span>
 
 ## Investigate the Bunkers
 
@@ -116,6 +126,8 @@ Once you discover a bunker, you are told to investigate it. Each bunker has 1 se
 - Search [Bunker Alpha](./Bunker%20Alpha.md) (corresponds to Bleak Inlet)
 - Search [Bunker Beta](./Bunker%20Beta.md) (corresponds to Pleasant Valley)
 - Search [Bunker Gamma](./Bunker%20Gamma.md) (corresponds to Hushed River Valley)
+
+<span id="locate_the_last_bunker"></span><span id="Locate_the_last_Bunker"></span><span id="locate-the-last-bunker"></span>
 
 ## Locate the last Bunker
 
@@ -127,17 +139,25 @@ The ultimate prize of this island wide scavenger hunt is the exclusive [Security
 
 The Tales from the Far Territory continues in [Buried Echoes](./Buried%20Echoes.md)...
 
+<span id="the_rüdigers_project"></span><span id="The_Rüdiger&#x27;s_Project"></span><span id="the_rüdiger&#x27;s_project"></span><span id="the-rüdigers-project"></span>
+
 ## The Rüdiger's Project
 
-**\*SPOILERS FOR THE TALE\***
+***SPOILERS FOR THE TALE\***
 
 As you progress with the objectives of Signal Void, the purpose of each of the bunkers begins to become clearer. A device was built in a [large mine](./Zone%20of%20Contamination.md) and was used to experiment upon patients that were kept inside each bunker, though the test results of this experiment are currently unclear.
 
+<span id="collectibles"></span><span id="Collectibles"></span>
+
 ## Collectibles
+
+<span id="clothing"></span><span id="Clothing"></span>
 
 ### Clothing
 
 - [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
+
+<span id="notes"></span><span id="Notes"></span>
 
 ### Notes
 
@@ -149,6 +169,8 @@ As you progress with the objectives of Signal Void, the purpose of each of the b
 - [Interview Transcript 12](./Interview%20Transcript%2012.md)
 - [Interview Transcript 14](./Interview%20Transcript%2014.md)
 - [Interview Transcript 17](./Interview%20Transcript%2017.md)
+
+<span id="notes_1"></span><span id="notes-1"></span>
 
 ## Notes
 

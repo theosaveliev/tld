@@ -20,6 +20,8 @@
 
 This is the mission transcript for mission 5 [Renewed Hope](./Renewed%20Hope.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _Mackenzie is standing outside the [Trapper's Homestead](./Trapper%27s%20Homestead.md) as the chapter begins_

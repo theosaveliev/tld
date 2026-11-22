@@ -18,6 +18,8 @@
 
 **Church Artifact** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must search for clues about the whereabouts of an artifact that was stolen from the church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) and return it to the church.
 
+<span id="tasks"></span><span id="Tasks"></span>
+
 ## Tasks
 
 - Search the church for more information about the theft
@@ -27,6 +29,8 @@
 - Search behind the loose boards in the basement
 - Return the artifact to the church
 - Return to the church tomorrow
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -44,6 +48,8 @@ There is no direct path to Skeeter's Ridge from Draft Dodger's Cabin because a c
 Once near the crash site, instead of entering the plane, continue to the left around the rock outcropping. A small group of burned-down houses constitute Skeeter's Ridge. One of the houses will have a bulkhead door leading down into the basement where the artifact can be found behind some loose boards beneath the clothes dryer.
 
 Once the artifact is retrieved, it must be brought back to the church and placed on the altar. The player must then wait a full day and return to the church. Inside the church to the right of the altar, there is a blue table that will have a [Rabbitskin Hat](./Rabbitskin%20Hat.md) and a [Thankyou Letter](./Thankyou%20Letter.md) from [Father Thomas](./Father%20Thomas.md).
+
+<span id="transcript"></span><span id="Transcript"></span>
 
 ## Transcript
 

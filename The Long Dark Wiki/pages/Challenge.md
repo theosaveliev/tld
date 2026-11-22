@@ -25,14 +25,18 @@ The following 2 challenges were timed Events that are currently unavailable to b
 | [Badge challenge FourDaysOfNightFull](../assets/Badge_challenge_FourDaysOfNightFull.png) | [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) | An endless night has arrived on Great Bear Island. Survive across 4 real world days as the island changes each day. Survive for 2 hours each day to accumulate progress. |
 | [Badge WinterInJuly](../assets/Badge_WinterInJuly.png) | [Winter's Embrace](./Winter%27s%20Embrace.md) | Survive an ever increasingly cold world as you hunt for 2 brand new food items. Average world temperatures are -10° C indoors and outdoors. |
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 - [Hopeless Rescue](./Hopeless%20Rescue.md) and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were added in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)
 - [Whiteout](./Whiteout.md) and [Nomad](./Nomad.md) were added in [version 0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
 - [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) was added in [version 0.364](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
-- [Archivist](./Archivist.md) was added in [version 1.41](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
-- [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) was added in [version 1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
-- [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) was added in [version 1.86](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) as a Halloween event, then permanently added as a challenge in [version 1.89](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
+- [Archivist](./Archivist.md) was added in [version 1.41](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)
+- [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) was added in [version 1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)
+- [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) was added in [version 1.86](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) as a Halloween event, then permanently added as a challenge in [version 1.89](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
+
+<span id="pause_menu_icons"></span><span id="Pause_Menu_icons"></span><span id="pause-menu-icons"></span>
 
 ## Pause Menu icons
 

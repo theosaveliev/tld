@@ -34,9 +34,13 @@
 
 A sequel, [Survival School](./Survival%20School.md), is a side mission available starting in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the story.
 
+<span id="official_description"></span><span id="Official_description"></span><span id="official-description"></span>
+
 ## Official description
 
 > “**Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons.**”
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -48,13 +52,19 @@ To start the mission, the survivor has to find one of the corresponding research
 
 Each found book adds a new task to the mission tracker.
 
+<span id="survival_lessons"></span><span id="Survival_lessons"></span><span id="survival-lessons"></span>
+
 ## Survival lessons
+
+<span id="mending_clothing"></span><span id="Mending_clothing"></span><span id="mending-clothing"></span>
 
 ### Mending clothing
 
 ![A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) This mission objective can be started after finding the [Collectible](./Collectibles.md) [A Sewing Primer](./A%20Sewing%20Primer.md), which is located on the second floor of [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) where [Grey Mother](./Grey%20Mother.md) is located.
 
 A [Sewing Kit](./Sewing%20Kit.md) and [Cloth](./Cloth.md) are required to complete this objective, as well as a piece of damaged [clothing](./Clothing.md). All three can be found by scavenging houses within the town of [Milton](./Milton.md).
+
+<span id="preparing_natural_medicine"></span><span id="Preparing_natural_medicine"></span><span id="preparing-natural-medicine"></span>
 
 ### Preparing natural medicine
 
@@ -64,7 +74,9 @@ A [Sewing Kit](./Sewing%20Kit.md) and [Cloth](./Cloth.md) are required to comple
 - (3) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
 - (3) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
-To complete this objective, all natural medicine must be contained within the survivor's inventory at the same time; if the survivor consumes or drops any of the natural medicine that they have prepared, they will have to reacquire it before the objective is completed.[¹](#fn1)
+To complete this objective, all natural medicine must be contained within the survivor's inventory at the same time; if the survivor consumes or drops any of the natural medicine that they have prepared, they will have to reacquire it before the objective is completed.<span id="fnref1"></span>[¹](#fn1)
+
+<span id="reishi_mushrooms"></span><span id="Reishi_Mushrooms"></span><span id="reishi-mushrooms"></span>
 
 #### Reishi Mushrooms
 
@@ -72,11 +84,15 @@ To complete this objective, all natural medicine must be contained within the su
 
 A total of 6 [Reishi Mushrooms](./Reishi%20Mushroom.md) are required to craft 3 [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md). The prepared mushrooms can be brewed into [Reishi Tea](./Reishi%20Tea.md) along with 0.75 liters of [Water (Potable)](./Water%20%28Potable%29.md) at a [fire](./Fire.md).
 
+<span id="old_mans_beard_lichen"></span><span id="Old_Man&#x27;s_Beard_Lichen"></span><span id="old_man&#x27;s_beard_lichen"></span><span id="old-mans-beard-lichen"></span>
+
 #### Old Man's Beard Lichen
 
 [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) can be found located near the pond at the [Radio Tower](./Radio%20Tower.md) behind Grey Mother's House.
 
 A total of 9 [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) are required to craft 3 [Old Man's Beard Wound Dressings](./Old%20Man%27s%20Beard%20Wound%20Dressing.md). The dressings can be directly crafted by the survivor without the use of a fire.
+
+<span id="rose_hips"></span><span id="Rose_Hips"></span><span id="rose-hips"></span>
 
 #### Rose Hips
 
@@ -84,13 +100,17 @@ A total of 9 [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) are r
 
 A total of 72 [Rose Hips](./Rose%20Hip.md) are required to craft 3 [Prepared Rose hips](./Prepared%20Rose%20Hips.md). The prepared rose hips can be brewed into [Rose Hip Tea](./Rose%20Hip%20Tea.md) along with 0.75 liters of [Water (Potable)](./Water%20%28Potable%29.md) at a [fire](./Fire.md).
 
+<span id="snaring_a_rabbit"></span><span id="Snaring_a_rabbit"></span><span id="snaring-a-rabbit"></span>
+
 ### Snaring a rabbit
 
 ![Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) This mission objective can be started after finding the [collectible](./Collectibles.md) [Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md), which is located at the [Work Bench](./Work%20Bench.md) in the shed outside [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). A [snare](./Snare.md) is also on the work bench near the book, and can be used by the survivor to complete the mission objective. Alternatively, it can be found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) on the first floor of the [Hunting Lodge](./Hunting%20Lodge.md) in the [Broken Railroad](./Broken%20Railroad.md) region.
 
 There are [rabbits](./Rabbit.md) located around the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) area for the survivor to snare; alternatively, there are rabbits located near the pond at the [Radio Tower](./Radio%20Tower.md) behind Grey Mother's House.
 
-It is not necessary to go and harvest the Snare, as the mission will complete[²](#fn2) the moment a Snare checks for a rabbit catch and succeeds (more on [Snare Mechanics](./Snare.md#Snare_Mechanics) here).
+It is not necessary to go and harvest the Snare, as the mission will complete<span id="fnref2"></span>[²](#fn2) the moment a Snare checks for a rabbit catch and succeeds (more on [Snare Mechanics](./Snare.md#Snare_Mechanics) here).
+
+<span id="rewards"></span><span id="Rewards"></span>
 
 ## Rewards
 
@@ -98,17 +118,21 @@ It is not necessary to go and harvest the Snare, as the mission will complete[²
 - Blueprints to create [Rabbitskin Hat](./Rabbitskin%20Hat.md)
 - Blueprints to create [Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
 
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
+
 ## Update History
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
 - Added to game.
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
-  - \[WINTERMUTE\] Updated description for the side mission “Basics of Survival: Find and harvest some medicinal flora native to Great Bear Island."
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+  - [WINTERMUTE] Updated description for the side mission “Basics of Survival: Find and harvest some medicinal flora native to Great Bear Island."
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. [https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487](https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487) Raphael van Lierop, 18 December 2018[↩︎](#fnref1)
-2. At least on my playthrough, the trap was placed in the rabbit grove near Alans cave in Mystery lake.[↩︎](#fnref2)
+1. <span id="fn1"></span>[https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487](https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487) Raphael van Lierop, 18 December 2018[↩︎](#fnref1)
+2. <span id="fn2"></span>At least on my playthrough, the trap was placed in the rabbit grove near Alans cave in Mystery lake.[↩︎](#fnref2)

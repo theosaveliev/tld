@@ -54,11 +54,15 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Mountaineering Boots** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_ obtained exclusively in [Wintermute](./Wintermute.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Mountaineering Boots stats are identical to [Mukluks](./Mukluks.md), except they are 0.50kg lighter.
 
 Their appearance is similar to [Trail Boots](./Trail%20Boots.md), but with yellow laces instead of red ones.
+
+<span id="redux_episode_1"></span><span id="Redux_Episode_1"></span><span id="redux-episode-1"></span>
 
 ## Redux Episode 1
 
@@ -68,11 +72,15 @@ They can be carried into [Episode 2: Luminance Fugue](./Episode%202%20-%20Lumina
 
 The Boots are lost in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) if they were in the player's inventory at the end of Episode 2, likely discarded by [Mathis](./Mathis.md) in order to make transporting Mackenzie easier.
 
+<span id="predux_episode_1"></span><span id="Predux_Episode_1"></span><span id="predux-episode-1"></span>
+
 ## Predux Episode 1
 
 They are given by Grey Mother once the player fully raises her Trust and selects the "BETTER BOOTS" dialogue option.
 
 They can be carried into Episode 2: Luminance Fugue if they are still in the player's inventory, but are otherwise unique to Episode 1.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -82,10 +90,12 @@ It's implied by Grey Mother that these boots once belonged to [Lilith Barker](./
 
 ![Clothing model icon damaged](../assets/Mountaineering_Boots_Model_Damaged_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - As part of the Redux edition update, Grey Mother now awards the boots when completing [One Last Thing](./One%20Last%20Thing.md) instead of as the last Trust reward.
   - Also changed the description from "Especially rugged boots given to you by Grey Mother, for earning her Trust."

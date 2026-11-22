@@ -1,6 +1,6 @@
 # Cargo Container
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
 
 **Cargo Container**
 
@@ -8,13 +8,15 @@
 
 **Release:** Dec 2015
 
-**Update:** [0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+**Update:** [0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
 
 **Container**
 
 **Capacity:** 30.00 kg(66 lbs)
 
 **Cargo Containers** are locked containers found in [Timberwolf Mountain](./Timberwolf%20Mountain.md) that can only be opened with a [Hacksaw](./Hacksaw.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -29,6 +31,8 @@ Cargo Containers are loot-filled blue-green shipping devices scattered across Ti
 - 2-3 green Wooden Crates which may be broken down for Reclaimed Wood may be found near Cargo Container sites (these crate are always present, even on Interloper when Cargo Containers themselves may not spawn).
 
 ![The containers were gray Until the 1.00 update](../assets/Cargo_container.jpg)
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

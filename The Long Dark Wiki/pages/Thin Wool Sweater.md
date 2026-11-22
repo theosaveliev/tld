@@ -34,11 +34,15 @@
 
 **Thin Wool Sweater** is a type of [clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Light and warm mid-tier sweater, which spawns uncommonly in most regions. The Thin Wool Sweater has similar stats to the [Hockey Jersey](./Hockey%20Jersey.md): being 0.05 kg lighter, but 2.5 °C less Windproof, 5% more Waterproof, and 1% less Protective (which are all irrelevant if any item is worn the 'Outer Torso' slot), but the Thin Wool Sweater [decays](./Decay.md) condition twice as fast as Hockey Jersey.
 
 It is one of the best Inner Torso clothing which can spawn on [Interloper](./Interloper.md) mode, along with the Hockey Jersey.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

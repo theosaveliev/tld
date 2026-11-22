@@ -6,7 +6,7 @@
 
 [Beef Jerky icon](../assets/Beef_Jerky_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** No
 
@@ -36,14 +36,20 @@
 
 Beef Jerky features a high energy density, making it a valuable food item. Additionally, Beef Jerky can never cause [Food Poisoning](./Food%20Poisoning.md), and [decay](./Decay.md) extremely slowly especially outdoors (100 days per 1% Condition).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Beef Jerky's logo, coloration and font is likely based on the real-life "Jack Link's" brand, which is also rich in preservatives like description.
 - The back of the bag lists "Ingredients: Beef, Sugar, Soy Sauce, Salt, Cayenne Pepper, Natural Flavours" and that it was "Made in Canada"
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model](../assets/Beef_Jerky.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -6,7 +6,7 @@
 
 [Contraband Storage](../assets/Contraband_Storage.jpg)
 
-**Update:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Update:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Story item:** Yes
 
@@ -19,6 +19,8 @@
 > — [What I Know](./What%20I%20Know.md) description
 
 The **Contraband Storage** Locker is a unique [Locker](./Locker.md) found at the gate entrance to [Blackrock Prison](./Blackrock%20Prison.md) during [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 

@@ -26,9 +26,13 @@
 
 The **Forest Talkers**are a group of activists mentioned in the Story Mode of _The Long Dark_. They are also described as 'eco-terrorists'.
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 The Forest Talkers were formed by several natives of [Great Bear Island](./Great%20Bear%20Island.md) to fight against the mass industrialization and the reaping of their island's natural resources by "outsiders." They claimed to be environmentalists, and some residents did not have a problem with them. Others, such as [Breyerhouse](./Breyerhouse.md) and the owners of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) regarded them as terrorists. Notes from disgruntled members reveal that the group was largely ragtag and disorganized. The full extent of their actions and crimes is unknown, but it is implied that they regularly engaged in violence and destruction of property toward industrial sites and workers on the island. Their headquarters was in the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md).
+
+<span id="missions"></span><span id="Missions"></span>
 
 ## Missions
 
@@ -39,7 +43,11 @@ The following missions involve the Forest Talkers or at least one of its members
 - [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)
 - [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)
 
+<span id="recent_activities"></span><span id="Recent_Activities"></span><span id="recent-activities"></span>
+
 ## Recent Activities
+
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
 
 ### Mystery Lake
 
@@ -47,13 +55,19 @@ As a part of the [Lake Gunshots](./Lake%20Gunshots.md) side mission, Mackenzie h
 
 As a part of the [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md) side mission, Mackenzie finds a supply cache near the [Logging Camp](./Logging%20Camp.md).
 
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+
 ### Pleasant Valley
+
+<span id="blackrock_region"></span><span id="Blackrock_Region"></span><span id="blackrock-region"></span>
 
 ### Blackrock Region
 
 The Forest Talkers have built a supply cache within the Abandoned Mine inside [Last Prospect](./Last%20Prospect.md). The cache was intended as a waystation for storing valuable gear and high explosives.
 
 During the course of the mission [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md), [Mackenzie](./Will%20Mackenzie.md) finds the corpses of three Forest Talker members that were attempting to access the supply cache prior to their demise.
+
+<span id="other_regions"></span><span id="Other_Regions"></span><span id="other-regions"></span>
 
 ### Other Regions
 

@@ -42,6 +42,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 5** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 This is the first of the 6 Track Section regions of Anna Island, and will unfortunately have to be traversed by foot on your first trek through the region. The region is very long, so patience and preparedness are required to traverse it on foot.
@@ -55,6 +57,8 @@ Two unmarked ponds filled with [Cat Tails](./Cat%20Tail.md) and [Rabbits](./Rabb
 When revisiting the region with the [Prototype Train](./Prototype%20Train.md), there is one [Water Tower](./Water%20Tower.md) by the East Railyard near Transition to [Port Remnant](./Port%20Remnant.md) and one [Whale Oil Tank](./Oil%20Tank.md) by the West Railyard near Transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) that can be used.
 
 [Ice Fishing](./Ice%20Fishing.md) is possible in this region by taking the [Path (Track Section 5)](./Path%20%28Track%20Section%205%29.md) down to the sea.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -73,15 +77,21 @@ There are 7 named locations within Track Section 5, including:
 
 
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
 - [Deer](./Deer.md) and [Rabbit](./Rabbit.md) can be found throughout the region.
+
+<span id="survivability"></span><span id="Survivability"></span>
 
 ## Survivability
 
 Your first walkthrough through this area will be an annoying one, as you will not have the train to quickly travel the region. Traveling here at night or during a blizzard can be detrimental because of the lack of shelter, so make sure you are prepared before entering the region. Several animals can be hunted and the Railyard ponds can be foraged if you are lacking in calories.
 
 Returning with the train will make travelling through the region much easier on your second return however, trivializing survivability concerns.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -101,7 +111,11 @@ _**Transition to Port Remnant**_
 
 _**Transition to Track Section 4**_
 
+<span id="maps"></span><span id="Maps"></span>
+
 ### Maps
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 

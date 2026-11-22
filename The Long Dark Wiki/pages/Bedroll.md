@@ -37,9 +37,13 @@ _This is about the normal cloth bedroll. For a list of other bedrolls see here._
 
 The **Bedroll** is a tool for sleeping without a bed in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Bedroll is a tool which allows [sleep](./Sleep.md) at almost any location indoors or outside. It cannot be crafted but can be found at multiple locations in most [regions](./Region.md). The Bedroll requires 2 [cloth](./Cloth.md) and a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md) to be repaired.
+
+<span id="features"></span><span id="Features"></span>
 
 ## Features
 
@@ -49,6 +53,8 @@ The Bedroll is lighter than the [Bearskin Bedroll](./Bear%20Skin%20Bedroll.md) (
 
 As of Part 3: Frontier Comforts update for those who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, the bedroll can be [improved](./Improvised%20Down%20Bedroll.md).
 
+<span id="spawn_locations"></span><span id="Spawn_Locations"></span><span id="spawn-locations"></span>
+
 ## Spawn Locations
 
 - Inside the Train Car in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
@@ -57,11 +63,15 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 - Next to the front door in [Quonset Garage](./Quonset%20Garage.md).
 - Next to the front entrance of the [Stone Church](./Stone%20Church.md).
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | None | - 1 × [Bedroll](./Bedroll.md)<br>- 3 × [Cloth](./Cloth.md)<br>- 10 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -70,6 +80,8 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 - Sleeping near [Wildlife](./Wildlife.md) can be dangerous, and lead to a [Struggle](./Struggle.md).
 - Bedrolls are useful for overcoming [Cabin Fever](./Cabin%20Fever.md).
 - Sleeping without a bedroll is possible inside [cars and trucks](./Car.md) by entering the vehicle and selecting "sleep" from the Radial Menu (campcraft).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

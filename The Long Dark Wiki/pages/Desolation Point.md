@@ -54,6 +54,8 @@
 
 **Desolation Point** is 4th [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Desolation Point is described as a stretch of coastal highway pockmarked with the abandoned remnants of a formerly thriving whaling industry. It can be found by going to the end of the [Coastal Highway](./Coastal%20Highway.md), passing through the Commuter's Lament, and continuing onward through [Crumbling Highway](./Crumbling%20Highway.md) and No. 3 Coal Mine.
@@ -61,6 +63,8 @@ Desolation Point is described as a stretch of coastal highway pockmarked with th
 Desolation Point is one of the smallest regions in the game: walking from the end of the [Abandoned Mine](./No.%203%20Coal%20Mine.md) to [Broken Bridge](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md) takes roughly 7-8 minutes in real time. Despite this, it has 16 locations to discover including the connector mine (named "No. 3 Coal Mine") with Crumbling Highway. The region's small size can be useful in poor weather, as it is much harder to get lost here than in a more open region such as [Pleasant Valley](./Pleasant%20Valley.md) or [Forsaken Airfield](./Forsaken%20Airfield.md), and shelter is rarely far away.
 
 Desolation Point has a [explorable cave](./Cave%20%28Desolation%20Point%20location%29.md) that might be inhabited by a wolf.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -76,15 +80,21 @@ There are also a 3 indoor locations that are tracked in the [Journal](./Journal.
 - The inside of the Hibernia Processing is known as Whale Processing.
 - A single Trailer at Hibernia Processing.
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
 There is an abundance of hostile wildlife in this region; 1 bear and 5-8 wolves patrol within this small and snaking stretch of coastal land. While firearm resources, bow resources, and non-predator fauna spawns may be limited, there are often many crafting resources and sometimes a fair number of medical supplies, depending on the difficulty level. This, in turn, can allow the player to win more wolf struggles and reserve rifle ammunition for bears.
 
 For players who own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC, this is one of the few regions that doesn't have a [cougar](./Cougar.md) spawn.
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
 
 Although Desolation Point is listed as a moderate difficulty region to survive in, largely due to its predator density, with good planning, surviving here long-term is very much possible.
+
+<span id="food_sources"></span><span id="Food_sources"></span><span id="food-sources"></span>
 
 ### Food sources
 
@@ -94,17 +104,25 @@ A good long-term strategy for food is to set out as many [Snares](./Snare.md) as
 
 With the release of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md), Desolation Point has become home to several [salt deposits](./Salt%20Deposit.md), which can be useful to help [preserve the fish](./Cured%20Fish.md) and [predator meat](./Cured%20Meat.md), providing for ideal travel food and eliminating any risk of [Intestinal Parasites](./Intestinal%20Parasites.md). The one challenge is that the [Woodworking Tools](./Woodworking%20Tools.md) required to build the [Furniture Workbench](./Furniture%20Workbench.md) and [Meat Curing Box](./Meat%20Curing%20Box.md) can't be found anywhere close to the region.
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ### Crafting
 
 With [Hibernia Processing](./Hibernia%20Processing.md) offering enormous amounts of harvestable materials, the mines offering lots of [Coal](./Coal.md), and the [Forge](./Forge.md) in [The Riken](./The%20Riken.md). maintaining and replacing tools should not be too difficult in Desolation Point. Hibernia also offers a [Work Bench](./Work%20Bench.md), and extra supplies for crafting and repair (such as saplings and harvestable clothes) can wash ashore and be found via [Beachcombing](./Beachcombing.md). Overall, the region is good for players who intend to do a lot of crafting.
+
+<span id="location"></span><span id="Location"></span>
 
 ### Location
 
 One of Desolation Point's most notable features is its isolated location on the far east of [Great Bear Island](./Great%20Bear%20Island.md). While this may not be a concern for players who like to stay put in one area, it can be more problematic for players who prefer to travel around the island and lead a more nomadic lifestyle. As a point of reference, travelling from the [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) or [Quonset Garage](./Quonset%20Garage.md) in neighbouring [Coastal Highway](./Coastal%20Highway.md) takes about 15 minutes in real-time, or about three in-game hours.
 
+<span id="safe_houses"></span><span id="Safe_houses"></span><span id="safe-houses"></span>
+
 ## Safe houses
 
 Key shelters in Desolation Point include:
+
+<span id="lonely_lighthouse"></span><span id="Lonely_Lighthouse"></span><span id="lonely-lighthouse"></span>
 
 ### [Lonely Lighthouse](./Lonely%20Lighthouse.md)
 
@@ -112,9 +130,13 @@ The lighthouse has a bed, a potbelly stove, plenty of storage and an amazing vie
 
 Two walking bridges connect the lighthouse to the main access road. There is also a rear path through a broken fence behind the lighthouse (use caution), that provides a shortcut to the Riken and the Hibernia processing plant. A number of wolves may patrol the entry road or along the ice below.
 
+<span id="hibernia_processing"></span><span id="Hibernia_Processing"></span><span id="hibernia-processing"></span>
+
 ### [Hibernia Processing](./Hibernia%20Processing.md)
 
 Hibernia Processing features large amounts of reclaimed wood, metal, and numerous trailers with beds. Plenty of storage is available, and a workbench and fire barrel are located downstairs. Many key tools can be found there: including the [Hunting Rifle](./Hunting%20Rifle.md), [Heavy Hammer](./Heavy%20Hammer.md), and [Hacksaw](./Hacksaw.md). Multiple wolves and a bear can be close by, often just outside the the compound's perimeter fence.
+
+<span id="the_riken"></span><span id="The_Riken"></span><span id="the-riken"></span>
 
 ### [The Riken](./The%20Riken.md)
 
@@ -124,7 +146,11 @@ A key function of The Riken is that once industrially produced tools are deplete
 
 The ship's uppermost deck can serve as a vantage point to look for and/or hunt [Wolves](./Wolf.md), [Deer](./Deer.md), or a [Bear](./Bear.md) that wander nearby. Also, [Hibernia Processing](./Hibernia%20Processing.md) for scavenging and [Little Island](./Little%20Island.md) to hunt rabbits and collect firewood are close by.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
+
+<span id="maps"></span><span id="Maps"></span>
 
 ### Maps
 
@@ -137,6 +163,8 @@ The ship's uppermost deck can serve as a vantage point to look for and/or hunt [
 ![Desolation Point map (old)](../assets/Desolation_Point_map_by_whiteberry-toarda.png)
 
 ![In-game charcoal map](../assets/Desolation_point_map.png)
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 
@@ -175,6 +203,8 @@ The ship's uppermost deck can serve as a vantage point to look for and/or hunt [
 ![An alternative view of Little Island.](../assets/Little_Island_02.jpg)
 
 ![Desolation Point poster](../assets/Poster_in_the_Long_Dark_game.jpg)
+
+<span id="miscellaneous"></span><span id="Miscellaneous"></span>
 
 ### Miscellaneous
 

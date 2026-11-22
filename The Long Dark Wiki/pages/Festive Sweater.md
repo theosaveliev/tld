@@ -36,11 +36,15 @@
 
 A **Festive Sweater** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Light and warm mid-tier sweater, which spawns rarely on all game modes. Functionally, the Festive Sweater has identical stats to the [Hockey Jersey](./Hockey%20Jersey.md).
 
 It is one of the best Inner Torso clothing which can spawn on [Interloper](./Interloper.md) mode, along with the Hockey Jersey and [Thin Wool Sweater](./Thin%20Wool%20Sweater.md).
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -54,6 +58,8 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
   - With 5 strings of Festive Lights
 
 0-1 Festive Sweater will be present, with multiple possible spawn points per location. Festive Lights [Decorations](./Decorations.md) are guaranteed and can be found near the sweater spawn area.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

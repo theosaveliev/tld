@@ -16,6 +16,8 @@
 
 Has no shelter<br>**Three Strikes Farmstead** is a collection of several farm buildings in [Pleasant Valley](./Pleasant%20Valley.md), located about 5 minutes walk northwest of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Three Strikes Farmstead is a location in Pleasant Valley. It is in the northwest of the region.
@@ -25,6 +27,8 @@ It is also known as Three Strikes Homestead. The name may refer to three strikes
 [Reishi mushrooms](./Reishi%20Mushroom.md) and two frozen deer carcasses can be found near the broken-down buildings. Several rabbits, along with a wolf carcass, can also be found in the field nearby.
 
 A [fire barrel](./Fire%20Barrel.md) and possibly a [hunting rifle](./Hunting%20Rifle.md) can be found in the main barn. Other loot may include a first aid kit and a human corpse.
+
+<span id="wintermute"></span><span id="Wintermute"></span>
 
 ## Wintermute
 

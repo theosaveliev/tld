@@ -17,9 +17,13 @@
 
 **Sounds Like Some Kind of Indie Band** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This is a side mission achievement achieved after finding all [Forest Talker](./Forest%20Talkers.md) caches as part of the mission [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md). You must first find the note [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md) in the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md).
+
+<span id="tasks"></span><span id="Tasks"></span>
 
 ## Tasks
 
@@ -34,11 +38,15 @@ This is a side mission achievement achieved after finding all [Forest Talker](./
   - The cache is located in the western part of the maintenance yard area.
   - The content is: 12 [Wood Matches](./Wood%20Matches.md), a [Can Opener](./Can%20Opener.md), 2 [Firelogs](./Firelog.md) and 1 [Accelerant](./Accelerant.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The achievement's name is a reference to the quote from [Will Mackenzie](./Will%20Mackenzie.md) in [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md): "Forest Talkers? Sounds like some kind of indie band. Maybe this guy was one of them. I guess I should check out this Lodge."
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

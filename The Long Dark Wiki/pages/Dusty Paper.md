@@ -30,13 +30,15 @@
 
 **Dusty Paper** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found during the main mission [High Energy](./High%20Energy.md), found on a table in the first Geothermal Station in the [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Dusty Paper**_
 
 Plant Engineer's Log
 
-\[page ripped from a notebook\]
+[page ripped from a notebook]
 
 The reduced team size means we can't reactivate the system safely without going outside the station to station.
 
@@ -48,7 +50,9 @@ A power plant I'm holing together wit spit and duct tape attached to a facility 
 
 None of it makes sense.
 
-\[name scratched out\]
+[name scratched out]
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

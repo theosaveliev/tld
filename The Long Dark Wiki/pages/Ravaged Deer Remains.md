@@ -12,6 +12,8 @@
 
 **Wintermute:** Yes A **Ravaged Deer Remains** is an "object" found within [Cougar](./Cougar.md) Territory.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 These carcassses serve as a warning that the player is close to a Cougar's territory. They cannot be harvested for any usable meat/hide/gut, but [Crows](./Crow.md) will fly around a Ravaged Deer Carcass.

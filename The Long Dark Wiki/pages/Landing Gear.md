@@ -16,9 +16,13 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 [Rose Hips](./Rose%20Hip.md) can be found growing by the landing gear. Debris from the crashed plane can be found scattered nearby, semi-buried in the snow on the way to [Mountaineer's Hut](./Mountaineer%27s%20Hut.md).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

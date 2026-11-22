@@ -53,6 +53,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Barb's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _[The Long Dark](./The%20Long%20Dark.md)_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The unique perk of Barb's Rifle's is that it degrades 18% slower than the standard hunting rifle, this means a full condition Barb's Rifle can fire up to 89 shots at base [Rifle Skill](./Rifle%20Firearm.md) before breaking. This durability comes at the cost of weight as it's custom stock increases the gun's base weight to 4.50 kg, which is 0.50 kg heavier than the Hunting Rifle.
@@ -60,6 +62,8 @@ The unique perk of Barb's Rifle's is that it degrades 18% slower than the standa
 Barb's rifle also features a unique set of iron sights with a pointed front sight post, letting you better see where your shot will land.
 
 Successful hits on live animals provide experience to the [Rifle Firearm](./Rifle%20Firearm.md) skill.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -70,10 +74,14 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 - In a train log car near the trailer at [Train Unloading](./Train%20Unloading.md).
 - Under the concrete bridge near [Rockfall](./Rockfall.md).
 
+<span id="differences_from_hunting_rifle"></span><span id="Differences_from_Hunting_Rifle"></span><span id="differences-from-hunting-rifle"></span>
+
 ## Differences from Hunting Rifle
 
 - Base weight is 0.50 kg more than the Hunting Rifle
 - Total durability is 18% more than Hunting Rifle (Uses 1.125%-0.5625% condition per shot based on [Rifle Skill](./Rifle%20Firearm.md))
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -84,6 +92,8 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 - Despite the description mentioning the rifle being more reliable, it has the exact same jamming rate and threshold as all other rifles.
 - Barb's rifle belongs to Barbara Quincy, owner of the [Quonset Garage](./Quonset%20Garage.md), according to a [Buffer Memory.](./Buffer%20Memories.md#Coastal_Highway)
 - Barb's rifle is based on the No. 4 Rifle, a later version of the Lee-Enfield rifle, albeit with a different magazine. On the actual rifles, the magazine did not change much.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -102,6 +112,8 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 ![The Rifle's location under the concrete bridge](../assets/Barbs_rifle_location.jpg)
 
 ![Ditto](../assets/Barb%27s_Rifle_Bridge.jpg)
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History
 

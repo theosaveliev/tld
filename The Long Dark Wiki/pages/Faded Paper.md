@@ -28,6 +28,8 @@
 
 **Faded Paper** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) behind some [Loose Boards](./Loose%20Boards.md) at [Mindful Cabin](./Mindful%20Cabin.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Faded Paper**_
@@ -41,6 +43,8 @@ _The following text is transcribed from **Faded Paper**_
    
    
  But he got sick and all I've found out here are the bones and whispers of a dead company. Even the name seems forgotten. No sense to it yet.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

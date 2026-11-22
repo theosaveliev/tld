@@ -31,6 +31,8 @@ This is the mission transcript for mission 4 [Aftermath](./Aftermath.md) of [Epi
 
 The story continues in [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md)
 
+<span id="leave_the_community_hall."></span><span id="Leave_the_Community_Hall."></span><span id="leave-the-community-hall"></span>
+
 ## Leave the Community Hall.
 
 CHAPTER FOUR
@@ -81,6 +83,8 @@ Molly: "Well, I didn't know if I'd work. And...also. Girl gets lonely out here, 
 
 _Molly hangs up, and Astrid does in suit. The blizzard that Father Thomas mentioned would arrive has finally come, and Astrid risks her life to make her way to [Signal Hill](./Signal%20Hill.md) in the whiteout._
 
+<span id="go_to_signal_hill."></span><span id="Go_to_Signal_Hill."></span><span id="go-to-signal-hill"></span>
+
 ## Go to Signal Hill.
 
 _Astrid arrives outside the door of the radio shack, and sees another dead Convict in the snow with an arrow in his back_
@@ -90,6 +94,8 @@ Astrid: "More bodies, Molly?"
 _She steps inside and warms herself up_
 
 Astrid: "Can only hope the radio in here is in better shape than everything else in the valley."
+
+<span id="use_the_radio."></span><span id="Use_the_Radio."></span><span id="use-the-radio"></span>
 
 ## Use the Radio.
 
@@ -105,13 +111,13 @@ _She rushes to the radio_
 
 Astrid: "Damn! Why can't I get anything..."
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...\[static\]...Come in this is...Perseverance Mills."
+[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...[static]...Come in this is...Perseverance Mills."
 
 _Astrid grabs the microphone and attempts to contact the Mills, but to no avail_
 
 Astrid: "Hello? Can anyone hear me?"
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...\[static\]... Come in..."
+[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...[static]... Come in..."
 
 [Will Mackenzie](./Will%20Mackenzie.md): "Hello? Is this the radio station at Perseverance Mills?"
 
@@ -140,6 +146,8 @@ Radio Voice Man: "We're cut off."
 _Astrid gives up attempting to use the radio, realizing she can't get a message out_
 
 Astrid: "You're alive. Dammit Mackenzie...you're alive. And on your way to Perseverance Mills. I've got to get there."
+
+<span id="enter_the_mine_and_leave_pleasant_valley"></span><span id="Enter_the_mine_and_leave_Pleasant_Valley"></span><span id="enter-the-mine-and-leave-pleasant-valley"></span>
 
 ## Enter the mine and leave Pleasant Valley
 
@@ -201,6 +209,8 @@ Astrid: "Thank you, Molly. I hope you can find some peace too."
 
 _Molly hangs up, and Astrid hangs up the phone. Astrid then journeys through the still raging blizzard and then walks into the abandoned mine. The aurora fading in the sky and replaced with nothing but the wind and snow as the journey continues_
 
+<span id="find_a_way_through_the_mine_tunnels."></span><span id="Find_a_way_through_the_mine_tunnels."></span><span id="find-a-way-through-the-mine-tunnels"></span>
+
 ## Find a way through the mine tunnels.
 
 Astrid: "Uh, looks iffy..."
@@ -234,6 +244,8 @@ _She continues on her path as another earthquake rocks the mine, large stones fa
 Astrid: "This elevator looks like the only way out of here."
 
 _The elevator will not move, even when the floor buttons are pressed_
+
+<span id="find_a_way_to_fix_the_elevator"></span><span id="Find_a_way_to_fix_the_elevator"></span><span id="find-a-way-to-fix-the-elevator"></span>
 
 ## Find a way to fix the elevator
 

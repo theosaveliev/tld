@@ -42,6 +42,8 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 ![Model icon damaged](../assets/Improvised_Head_Wrap_Model_Damaged_icon.png)
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Improvised Head Wrap**
@@ -58,10 +60,12 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 **Quantity:** 2
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.52)):**
-  - \[UI\] Fixed issue causing the Improvised Head Wrap to appear incorrectly on the Clothing screen when combined with a second Hat layer.
+- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.52)):**
+  - [UI] Fixed issue causing the Improvised Head Wrap to appear incorrectly on the Clothing screen when combined with a second Hat layer.
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
   - Added to game.

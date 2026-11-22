@@ -6,7 +6,7 @@
 
 [Logging Camp Trailer Key icon](../assets/Logging_Camp_Trailer_Key_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md)
 
@@ -30,7 +30,9 @@
 
 **Logging Camp Trailer Key** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is given to [Will Mackenzie](./Will%20Mackenzie.md) by a [Forest Talker](./Forest%20Talkers.md) at the [Lake Cabins](./Lake%20Cabins.md) after Will speaks to him as part of the [Lake Gunshots](./Lake%20Gunshots.md) side mission. It unlocks a door at the [Logging Camp](./Logging%20Camp.md) containing some [Forest Talker Supplies](./Forest%20Talker%20Supplies.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

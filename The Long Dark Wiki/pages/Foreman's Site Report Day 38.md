@@ -28,6 +28,8 @@
 
 **Foreman's Site Report Day 38** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found next to the bolt cutters.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Foreman's Site Report Day 38**_
@@ -41,6 +43,8 @@ Then he gave a speech, as he likes to do. Only this time in front of the gadget.
 He talked for a long time, but in the end we were able to restart our work on the machine’s electrical system. We also stabilized the track connecting the top of the Concentrator to the ridge above. Makes access easier if we need to move in more generators. This thing needs all the juice we can find.
 
 Did I mention I need to get the hell out of here?
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -46,10 +46,14 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Peach Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 - +15% Fatigue (instantly)
 - [Headache](./Headache.md) (for 1 hour)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -79,6 +83,8 @@ This recipe makes 3 servings.
 **Item:** [Pinnacle Peaches](./Pinnacle%20Peaches.md)
 
 **Quantity:** 0.50 kg
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

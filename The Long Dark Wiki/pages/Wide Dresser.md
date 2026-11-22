@@ -18,6 +18,8 @@
 
 The **Wide** **Dresser** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A makeshift wooden dresser, a Wide Dresser can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -31,6 +33,8 @@ The dresser has many compartments for storage:
 Progress for Crafting this item will be stored in the Furniture Workbench's container inventory, rather than the player's inventory. Once crafted, the item can be automatically placed in the Safehouse. Canceling this prompt will force the item back into the Furniture Workbench's container inventory. The dresser can only be placed on a wide, clear space on the floor or a flat surface when in Customization Mode.
 
 Despite having a Backpack carry weight value, the dresser cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the dresser will yield no resources, so consider the material cost/time investment before creating this item).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -49,5 +53,7 @@ Despite having a Backpack carry weight value, the dresser cannot be picked up an
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 16
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History

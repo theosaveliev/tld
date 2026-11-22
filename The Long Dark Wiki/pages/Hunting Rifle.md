@@ -64,11 +64,17 @@ _This article is about the normal hunting rifle. For variants, see [Vaughn's Rif
 
 The **Hunting Rifle** is a bolt-action weapon with an internal magazine capacity of 10 rounds that can be used to scare away or kill [Wildlife](./Wildlife.md). When hitting a target, it provides experience in the [Rifle Firearm](./Rifle%20Firearm.md) skill.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The hunting rifle is the first firearm to be added to the game and one of three a player may find throughout the regions of Great Bear Island. It is the heaviest ranged weapon a player can have in their inventory. The rifle can inflict a critical hit to targets, and cartridges are lighter than [Simple Arrows](./Simple%20Arrow.md). The rifle's condition will degrade after a shot, requiring regular Cleaning.
 
+<span id="mechanics"></span><span id="Mechanics"></span>
+
 ## Mechanics
+
+<span id="loading"></span><span id="Loading"></span>
 
 ### Loading
 
@@ -76,11 +82,15 @@ A rifle can be loaded with 10 rounds of [Rifle Ammunition](./Rifle%20Ammunition.
 
 Firing a rifle will automatically expend a [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) out of the ejection port and onto the ground as a new round is cycled into the chamber, and can be picked up.
 
+<span id="aiming"></span><span id="Aiming"></span>
+
 ### Aiming
 
 Depending on the player's rifle skill and condition, when aimed, the rifle will sway or shudder slightly, affecting the player's ability to aim. The sway increases if the player's [Fatigue](./Fatigue.md) is low. The player will also begin to shiver when freezing, making aiming even more difficult.
 
 Although the rifle does not have a scope, aiming at a point will cause the player's view to zoom in towards said point, effectively allowing the rifle to be used as a weak optic. The same can be done with the [Survival Bow](./Survival%20Bow.md) and the [Woodright's Bow](./Woodwright%27s%20Bow.md).
+
+<span id="jamming"></span><span id="Jamming"></span>
 
 ### Jamming
 
@@ -88,11 +98,15 @@ The rifle will begin jamming under the 50% condition threshold, then it has the 
 
 Low quality Ammunition created from [Gunsmithing](./Gunsmithing.md) can also cause a misfire, even if the gun is in relatively good condition.
 
+<span id="jamming_chances"></span><span id="Jamming_Chances"></span><span id="jamming-chances"></span>
+
 ### Jamming Chances
 
 | Condition | 50% | 45% | 40% | 30% | 20% | 10% | 5% | 0% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jamming Chance | 0% | 14% | 18% | 26% | 34% | 42% | 46% | 50% |
+
+<span id="cleaning"></span><span id="Cleaning"></span>
 
 ### Cleaning
 
@@ -104,6 +118,8 @@ Cleaning a rifle consumes 5% condition from the rifle cleaning kit and restores 
 
 The player may use a [Milling Machine](./Milling%20Machine.md) with one [Scrap Metal](./Scrap%20Metal.md) during an active [Aurora](./Aurora.md) to repair the rifle by 40% condition (Increased by [Gunsmithing Skill](./Gunsmithing.md)). The milling machine can also repair completely ruined rifles for the cost of 5 scrap metal, 1 fir firewood, and 4 hours of time.
 
+<span id="degrading"></span><span id="Degrading"></span>
+
 ### Degrading
 
 In **[Survival Mode](./Survival%20Mode.md)**, the Hunting Rifle degrades **1.325%** for each shot taken. When the rifle is at full condition, 75 shots can be taken before it degrades to broken. The Hunting Rifle can be cleaned to restore condition and increase the number of total shots that can be taken.
@@ -113,6 +129,8 @@ If the player obtains a level 5 Rifle Firearm skill, the Hunting Rifle degrades 
 In [Wintermute](./Wintermute.md), the Hunting Rifle degrades **0.6625%**for each shot taken. When the rifle is at full condition, 150 shots can be taken before it degrades to broken. The Hunting Rifle can be cleaned to restore condition and increase the number of total shots that can be taken.
 
 The player cannot increase or decrease the degradation rate of the Hunting Rifle in Story mode, as there are no skills in Wintermute.
+
+<span id="variants"></span><span id="Variants"></span>
 
 ## Variants
 
@@ -124,6 +142,8 @@ The Hunting Rifle has 3 variants, each having distinct differences from the base
 - [Curator's Rifle](./Curator%27s%20Rifle.md) - Longer effective firing range
 - [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) - A cut reskin of the Hunting Rifle
 
+<span id="hunting"></span><span id="Hunting"></span>
+
 ## Hunting
 
 _Main article: [Hunting](./Hunting.md)_
@@ -131,6 +151,8 @@ _Main article: [Hunting](./Hunting.md)_
 The rounds fired from the Hunting Rifle move at a high velocity, and travel in a straight line. Upon hitting a target, they can cause massive internal injuries, potentially killing animals instantly. If the round fails to cause internal injuries sufficient enough to kill instantly, the round will still result a bleeding wound that will kill the animal eventually.
 
 The rifle has a maximum range of approximately 50 paces. Targets beyond the maximum range cannot be hit. Hitting a fleshy target will produce a blood spray effect.
+
+<span id="bleed_out_time"></span><span id="Bleed_Out_Time"></span><span id="bleed-out-time"></span>
 
 ### Bleed Out Time
 
@@ -144,11 +166,15 @@ Bears, Deer and Wolves have hit spots with a bleed out time. Moose and Cougar do
 | Hip | 360 minutes | 60 minutes | 90 minutes |
 | Limb | 480 minutes | 240 minutes | 120 minutes |
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 As with other loot items, the hunting rifle will randomly spawn in different locations on different play-throughs and difficulties, although a few maps have a guaranteed rifle spawn separate from the random spawn. Each major map used to be guaranteed to have at least one rifle spawn in it (until the Tales from the Far Territory update), except on Interloper where none will spawn.
 
 Possible hunting rifle spawn locations include:
+
+<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
 
 ### **[Ash Canyon](./Ash%20Canyon.md)**
 
@@ -160,9 +186,13 @@ No Hunting Rifle spawns here, but if [Tales from the Far Territory](./Tales%20fr
 - Next to a corpse by the tree at [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) near the rose hip climb.
 - In the cave with the bed at the top of the [Runaway Bridge](./Runaway%20Bridge.md) plateau across the fallen tree.
 
+<span id="blackrock"></span><span id="Blackrock"></span>
+
 ### **[Blackrock](./Blackrock.md)**
 
 - Inside a [Supply Cache](./Supply%20Cache.md) near [Cook's Farm](./Cook%27s%20Farm.md) (dlc-only).
+
+<span id="bleak_inlet"></span><span id="Bleak_Inlet"></span><span id="bleak-inlet"></span>
 
 ### **[Bleak Inlet](./Bleak%20Inlet.md)**
 
@@ -170,10 +200,14 @@ No Hunting Rifle spawns here, but if [Tales from the Far Territory](./Tales%20fr
 - inside a cabin at [Cannery Worker Residences](./Cannery%20Worker%20Residences.md).
 - Inside a [Supply Cache](./Supply%20Cache.md) south of the [Lower Raven Falls](./Lower%20Raven%20Falls.md) cabin (dlc-only).
 
+<span id="broken_railroad"></span><span id="Broken_Railroad"></span><span id="broken-railroad"></span>
+
 ### **[Broken Railroad](./Broken%20Railroad.md)**
 
 - [Hunting Lodge](./Hunting%20Lodge.md): upstairs in one of the bedrooms, on the gun rack above the fireplace, in an old washing tub in the basement. This rifle is guaranteed.
 - In the ravine near the southmost waterfall.
+
+<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
 
 ### **[Coastal Highway](./Coastal%20Highway.md)**
 
@@ -189,17 +223,25 @@ If [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) is 
 - In a train log car near the trailer at [Train Unloading](./Train%20Unloading.md).
 - Under the concrete bridge near [Rockfall](./Rockfall.md).
 
+<span id="desolation_point"></span><span id="Desolation_Point"></span><span id="desolation-point"></span>
+
 ### **[Desolation Point](./Desolation%20Point.md)**
 
 - Inside a [Supply Cache](./Supply%20Cache.md) west of the [Lonely Lighthouse](./Lonely%20Lighthouse.md) (dlc-only).
+
+<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
 
 ### **[Forlorn Muskeg](./Forlorn%20Muskeg.md)**
 
 - Inside a [Supply Cache](./Supply%20Cache.md) at [Marsh Ridge](./Marsh%20Ridge.md) (dlc-only).
 
+<span id="forsaken_airfield"></span><span id="Forsaken_Airfield"></span><span id="forsaken-airfield"></span>
+
 ### [**Forsaken Airfield**](./Forsaken%20Airfield.md)
 
 - Inside a [Supply Cache](./Supply%20Cache.md) on [Drift Island](./Drift%20Island.md) (dlc-only).
+
+<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
 
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -211,9 +253,13 @@ Guaranteed in one of the five locations:
 - On the path leading from the [Hushed River Valley](./Hushed%20River%20Valley.md) entrance to the nearest bear den, next to a corpse.
 - Between rope climbs at [Pensive Vista](./Pensive%20Vista.md), near the [Memento](./Mementos.md) note.
 
+<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+
 ### [**Mountain Town**](./Mountain%20Town.md)
 
 - Before [Rocky Refuge](./Rocky%20Refuge.md) in the secluded area next to a corpse.
+
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
 
 ### **[Mystery Lake](./Mystery%20Lake%20%28region%29.md)**
 
@@ -228,6 +274,8 @@ If [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) is 
   - In the main turbine room upper dam on a catwalk south east corner of the room
   - In the broken window room coming in from Winding River in the lower dam, (in a corner to the left when entering near a metal table)
 
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+
 ### **[Pleasant Valley](./Pleasant%20Valley.md)**
 
 - Guaranteed in one of the five locations:
@@ -238,13 +286,19 @@ If [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) is 
   - Rock formation northwest from the [Farmstead](./Pleasant%20Valley%20Farmstead.md).
 - [Supply Cache](./Supply%20Cache.md) near [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) entrance (dlc-only).
 
+<span id="sundered_pass"></span><span id="Sundered_Pass"></span><span id="sundered-pass"></span>
+
 ### [Sundered Pass](./Sundered%20Pass.md)
 
 - At the [Weather Station](./Weather%20Station.md): in the radar building, in the garage, in the truck. This rifle is guaranteed to spawn (dlc-only).
 
+<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
+
 ### **[Timberwolf Mountain](./Timberwolf%20Mountain.md)**
 
 - Inside one of the [Tail Section](./Tail%20Section.md) [Cargo Containers](./Cargo%20Container.md). Hacksaw required. This rifle is guaranteed to spawn.
+
+<span id="winding_river"></span><span id="Winding_River"></span><span id="winding-river"></span>
 
 ### **[Winding River](./Winding%20River.md)**
 
@@ -253,17 +307,25 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 - Inside the pipes at on the dam platform near the exit door to the dam in. It may be behind pallets that need to be broken down.
 - In the small cave to the west at the base of the dam.
 
+<span id="zone_of_contamination"></span><span id="Zone_of_contamination"></span><span id="zone-of-contamination"></span>
+
 ### [Zone of contamination](./Zone%20of%20Contamination.md)
 
 - Locked inside the mine office in the [Langston Mine](./Langston%20Mine.md), unlocked with the [Mine Office Key](./Mine%20Office%20Key.md). This rifle is guaranteed to spawn (dlc-only).
+
+<span id="prepper_cache"></span><span id="Prepper_Cache"></span><span id="prepper-cache"></span>
 
 ### [Prepper Cache](./Prepper%20Cache.md)
 
 - Guaranteed in one of the nine [prepper caches](./Prepper%20Cache.md).
 
+<span id="port_remnant"></span><span id="Port_Remnant"></span><span id="port-remnant"></span>
+
 ### [Port Remnant](./Port%20Remnant.md)
 
 - Guaranteed spawn in the left branch of the cave linking the plateau on which the [Desecrated Church](./Desecrated%20Church.md) is located to the main part of the region.
+
+<span id="wintermute"></span><span id="Wintermute"></span>
 
 ### **[Wintermute](./Wintermute.md)**
 
@@ -276,6 +338,8 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 - [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
   - Rifles can be found to fight off Timberwolves, but care should be taken when returning to the prison, as the Convicts will confiscate it if it is not stored when meeting with them.
 
+<span id="notes"></span><span id="Notes"></span>
+
 ## Notes
 
 - The rifle cannot be used with a [Sprained Wrist](./Sprained%20Wrist.md).
@@ -284,13 +348,19 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 - Firearms discharged indoors will cause temporary ear-ringing and deafness.
 - Rifles and other weapons are dropped during a [Struggle](./Struggle.md) with big game ([Bear](./Bear.md), [Moose](./Moose.md) and [Cougar](./Cougar.md)).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
-- The rifle is inspired by the Lee-Enfield bolt action rifle which was Britain's standard issue rifle until the 1960s [¹](#fn1) and used by the Canadian Rangers until 2015.
+- The rifle is inspired by the Lee-Enfield bolt action rifle which was Britain's standard issue rifle until the 1960s <span id="fnref1"></span>[¹](#fn1) and used by the Canadian Rangers until 2015.
 - Rifle jamming in-game depicts a "rim-lock", which is when the rim on two cartridges snag and cause loading problems.
 - Shooting a [Recycled Can](./Recycled%20Can.md) or [Spray Paint](./Spray%20Paint.md) will cause the cans to fly through the air a moderate distance.
 
+<span id="references"></span><span id="References"></span>
+
 ## References
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -302,7 +372,7 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 
 ![A 5-round stripper clip being loaded.](../assets/Riflereloadingmagazine.jpg)
 
-\[Missing image: Hunting\_Rifle\_icon\_(story).png\]
+[Missing image: Hunting\_Rifle\_icon\_(story).png]
 
 _Old Epiosde 2 Predux story model icon for a second Hunting Rifle_
 
@@ -324,8 +394,10 @@ _A hunting rifle on the rack in the [Trapper's Homestead](./Trapper%27s%20Homest
 
 ![New Hunting Rifle model in hands (v2.25-Present)](../assets/NewHuntingRifle2.jpg)
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. [https://x.com/RaphLife/status/1126240186050834432](https://x.com/RaphLife/status/1126240186050834432)[↩︎](#fnref1)
+1. <span id="fn1"></span>[https://x.com/RaphLife/status/1126240186050834432](https://x.com/RaphLife/status/1126240186050834432)[↩︎](#fnref1)

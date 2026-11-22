@@ -38,12 +38,16 @@
 
 This mission was poorly received due to its unfair and confusing method of tracking the [Old Bear](./Old%20Bear.md), and has since been replaced by the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md). Chasing the Old Bear with a Rifle was kept in the Challenge [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) however.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Use your map to track the bear to his favourite haunts in Mystery Lake.
-  - \[0/6 Bear Encounters\]
+  - [0/6 Bear Encounters]
 - Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -53,6 +57,8 @@ This mission was poorly received due to its unfair and confusing method of track
 | Enemies to kill | The [Old Bear](./Old%20Bear.md) |
 
 After finishing Jeremiah's Survival School, Mackenzie is now eager to finally leave Mystery Lake in search of Astrid. Jeremiah reels him back in for one more task however, to kill the Old Bear. Mackenzie finally states he has enough of this, as he has Astrid to find, but Jeremiah says that there's something bigger at stake, bigger than Mackenzie finding Astrid, bigger than Jeremiah, and it all begins with killing the Old Bear. Jeremiah then commands Mackenzie to use himself as bait, as bears can smell fresh blood over 20 miles away, and then Mackenzie will be able to take the Old Bear once and for all. Mackenzie agrees to help the crazy trapper one last time, grabs his rifle, makes his way to the door, and then turns around, cutting his left hand with [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) and showing his hand to Jeremiah.
+
+<span id="find_and_kill_the_old_bear"></span><span id="Find_and_kill_the_Old_Bear"></span><span id="find-and-kill-the-old-bear"></span>
 
 ### Find and kill the Old Bear
 
@@ -87,13 +93,19 @@ Jeremiah finally tells Mackenzie how to escape the region, go through the guts o
 
 Mackenzie is bewildered as to why Jeremiah didn't just tell him this before, considering how easy this task sounds. This is when Jeremiah reveals that the whole plot to kill the Old Bear was only to prove that Mackenzie was strong enough to reach Perseverance Mills, with a message in tow; "Wintermute." The Trapper begs Mackenzie to find someone living in a cabin in the hills near the town named [Atwood](./Atwood.md), as this message is of utmost importance that it gets out, to the point where Jeremiah prepares to leave the cabin in his injured state to deliver it himself before collapsing. Mackenzie agrees to take the message with him and Jeremiah gives Mackenzie the code to unlocking the powered door inside the Carter Dam, 7611. Mackenzie asks if the trapper needs any more help before he leaves, but Jeremiah declines, wishing Mackenzie that he hopes "She has more sense than you." Mackenzie doesn't remember revealing that his friend he is searching for was a she, but the coy trapper deduced that due to Mackenzie's wedding ring and the look in his eye when talking about her, his friend must have been a woman. Mackenzie tells the hermit to take care of himself, before leaving with the door closing behind him. Jeremiah then states that he has his own path to tread, before getting out of bed and opening a panel in the floorboards containing a ham radio, and flipping the power switch on it.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md)
 
+<span id="differences_from_redux_episode_2"></span><span id="Differences_from_Redux_Episode_2"></span><span id="differences-from-redux-episode-2"></span>
+
 ## Differences from Redux Episode 2
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 2:
+
+<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
 
 ### Plot Points and Gameplay Changes
 
@@ -101,10 +113,12 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - [Astrid Greenwood](./Astrid%20Greenwood.md) would be the one to use the [Signal Hill](./Signal%20Hill.md) to get a message out to [Perseverance Mills](./Perseverance%20Mills.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
 - After Mackenzie leaves, Jeremiah opens a panel in the floorboards containing a ham radio. This plot point was reworked into the open, with the radio being present from the start of the Redux Episode 2 and serving as the way that Jeremiah originally tries to get the message Wintermute out.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-\* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+\* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
 
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

@@ -30,11 +30,13 @@
 
 **Paper Fragment** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found at the SAR Station in the mission [To SAR And Back](./To%20SAR%20And%20Back.md). It is found inside the helicopter at the SAR Station, next to the [Trauma Kit](./Trauma%20Kit.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Paper Fragment**_
 
-\[damp paper, partially legible\]
+[damp paper, partially legible]
 
 ...batteries all seem drained. Even the "good" ones I had shipped in last summer.
 
@@ -42,7 +44,9 @@ All this damn equipment, just sittin' here. Dead.
 
 We know people are hurting since the lights in the sky showed up, so we're closing up here. Zoe made the long trek into Perseverance and back and things seemed quiet there, she said.
 
-The plan's to go inland, and then head south to one of the other hamlets along the coast. Probably \[illegible\]. We figure they might have some equipment that's still working. Maybe get the word out to the Mainland about what the hell's going on out here.
+The plan's to go inland, and then head south to one of the other hamlets along the coast. Probably [illegible]. We figure they might have some equipment that's still working. Maybe get the word out to the Mainland about what the hell's going on out here.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

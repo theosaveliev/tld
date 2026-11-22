@@ -25,11 +25,15 @@
 
 The **Furniture Workbench** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Furniture Workbench is the primary crafting facility used to build large decorative furniture items within any interior Safehouse. It can be crafted and carried anywhere (though it weighs as much as a [Car Battery](./Car%20Battery.md)), but requires the very rare [Woodworking Tools](./Woodworking%20Tools.md) before it can be built. The Furniture Workbench can only be placed on a wide, clear space on the floor when in Customization Mode.
 
 Once placed in a Safehouse, the Furniture Workbench cannot be picked up and placed back into the player's inventory, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the Furniture Workbench will yield no resources, so consider the material cost/time investment before placing this item).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -52,6 +56,8 @@ Any large in-progress/created Decorations made at a Furniture Workbench are depo
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 10
+
+<span id="craftable_items"></span><span id="Craftable_Items"></span><span id="craftable-items"></span>
 
 ## Craftable Items
 
@@ -101,5 +107,7 @@ The following Decorations are automatically placed into the player's inventory o
 | [Mounted Rockfish icon](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 | [Mounted Smallmouth Bass icon](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | 0.50 kg<br>_(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 | [Rustic Stool icon](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | 2.00 kg<br>_(4.4 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History

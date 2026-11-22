@@ -44,11 +44,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Aviator Cap** is a type of clothing in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
-Aviator Caps are a rare hat with superior stats to the crafted [Rabbitskin Hat](./Rabbitskin%20Hat.md) (0.05kg lighter, and 0.5\*C more windproof), making it the third best outer-layer hat after the [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) and the [Wolfskin Hat](./Wolfskin%20Hat.md). Like other clothing made of [Cured Leather](./Cured%20Leather.md), Aviator Caps are considerably more durable than cloth or animal hide clothing (losing less condition over time, from blizzards, or animals struggles) but requires Cured Leather for repair.
+Aviator Caps are a rare hat with superior stats to the crafted [Rabbitskin Hat](./Rabbitskin%20Hat.md) (0.05kg lighter, and 0.5*C more windproof), making it the third best outer-layer hat after the [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) and the [Wolfskin Hat](./Wolfskin%20Hat.md). Like other clothing made of [Cured Leather](./Cured%20Leather.md), Aviator Caps are considerably more durable than cloth or animal hide clothing (losing less condition over time, from blizzards, or animals struggles) but requires Cured Leather for repair.
 
 Aviator Caps spawn rarely on all game modes.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -66,6 +70,8 @@ Aviator Caps spawn rarely on all game modes.
 ![Model icon](../assets/Aviator_Cap_Model_icon.png)
 
 ![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -21,7 +21,7 @@
 
 Release
 
-[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 Wintermute
 
@@ -79,6 +79,8 @@ GAMEPLAY\_DogFood
 
 **Dog Food** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Dog Food restores a moderate amount of calories and small amount of hydration. _It cannot be warmed by a [fire](./Fire.md)._
@@ -89,6 +91,8 @@ Dog Food is relatively common inside homes: usually in cupboards or on shelfs.
 
 It has relatively high chance of causing [Food Poisoning](./Food%20Poisoning.md) at low condition, compared to other canned foods.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - A possible explanation for Dog Food having such a high food poisoning chance, is the variance between animal grade and human grade foods.
@@ -96,9 +100,13 @@ It has relatively high chance of causing [Food Poisoning](./Food%20Poisoning.md)
 - The side of the can lists "Ingredients: Turkey, Beef, Chicken, Water, Calcium, Vitamin A, Vitamin D, Vitamin K."
 - Dog houses are occasionally found on the Island (like in [Coastal Townsite](./Coastal%20Townsite.md)), but dogs are never found.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![old model](../assets/Dog_food.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -28,6 +28,8 @@
 
 **Interview Transcript 4** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the Tale progresses.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Interview Transcript 4**_
@@ -57,6 +59,8 @@ A: Ah...my hand reaching for a flat, grey stone at the water’s edge. I...I gra
 Was the sun out…? I thought...ah, the rain…no, no, no. That wasn’t it.
 
 Q: Keep hold of that image. It’s OK if it fades a little. Breathe. Try going again. Second instance.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

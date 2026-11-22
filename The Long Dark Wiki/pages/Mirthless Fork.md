@@ -22,6 +22,8 @@ Has a bed
 
 Has a workbench
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Trailerkeeper 1](../assets/Trailerkeeper_1.jpg)

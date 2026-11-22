@@ -26,6 +26,8 @@
 
 **Water Purification Tablets** are a consumable to convert [Unsafe Water](./Water%20%28Unsafe%29.md) into [Potable Water](./Water%20%28Potable%29.md) in [The Long Dark](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Water Purification Tablets are a consumable item which can be used to convert up to 1 litre of Unsafe Water into 1 litre of Potable Water per tablet. Boxes always initially contain 4 tablets. Purifying water takes one in-game minute.
@@ -38,9 +40,13 @@ Water Purification Tablets are a consumable item which can be used to convert up
 - Note: it is more time effective to use these directly from your inventory rather than at a fire - it will take approximately one in-game minute per tablet compared to ten.
 - These tablets can be useful when time is of the essence, such as in the [Whiteout](./Whiteout.md) and especially [Hopeless Rescue](./Hopeless%20Rescue.md) [challenges](./Challenge.md) to complete said challenge in the best possible time, but are less useful in Survival and [Wintermute](./Wintermute.md) due to the abundance and accessibility of fuel.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![old model](../assets/Water_purification_tablets.png)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

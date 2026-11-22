@@ -28,6 +28,8 @@
 
 **Security Chief's Log 32** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found in the storeroom on the right upon entering the entering the locked mountain section of the [Langston Mine](./Langston%20Mine.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 32**_
@@ -37,6 +39,8 @@ I can probably make it back to the surface before the weather turns again. Movin
 Recording as much as I can, the writing helps keep me here. Otherwise my mind wanders.
 
 To the sea. To small ships and deep water. My mother’s voice.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

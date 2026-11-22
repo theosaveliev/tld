@@ -20,6 +20,8 @@
 
 This is the transcript for Chapter 4 [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="find_the_climbing_area_on_the_outskirts_of_milton."></span><span id="Find_the_climbing_area_on_the_outskirts_of_Milton."></span><span id="find-the-climbing-area-on-the-outskirts-of-milton"></span>
+
 ## Find the climbing area on the outskirts of Milton.
 
 _After retrieving [Lilith Barker's](./Lilith%20Barker.md) climbing equipment, Mackenzie then heads to [Milton Park](./Milton%20Park.md) by following [Lily's Map](./Lily%27s%20Map.md). He ties the [Mountaineering Rope](./Mountaineering%20Rope.md) to a rock, but before he leaves Milton behind, Mackenzie says:_
@@ -29,6 +31,8 @@ Mackenzie: "I have a bad feeling that I'm never going to see this place again."
 _Mackenzie eventually uses the rope climb and begins climbing down, but the rope begins to fail two-thirds of the way down the climb and then snaps._
 
 Mackenzie: "What the hell...I guess that rope was older than it looked."
+
+<span id="find_the_route_that_leads_through_the_mountains."></span><span id="Find_the_route_that_leads_through_the_mountains."></span><span id="find-the-route-that-leads-through-the-mountains"></span>
 
 ## Find the route that leads through the mountains.
 

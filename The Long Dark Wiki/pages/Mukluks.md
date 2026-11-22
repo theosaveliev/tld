@@ -34,6 +34,8 @@
 
 **Mukluks** are a type of [footwear](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Mukluks are high tier boots and one of the rarest items in _The Long Dark_. Few containers have Mukluks in their loot table, most notable being Safes and similar high-loot tier locations. Mukluks cannot spawn on Interloper.
@@ -62,6 +64,8 @@ Mukluks are similar to the [Deerskin Boots](./Deerskin%20Boots.md) in stats, off
 ![Clothing model icon](../assets/Mukluks_Model_icon.png)
 
 ![Clothing model icon](../assets/Mukluks_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

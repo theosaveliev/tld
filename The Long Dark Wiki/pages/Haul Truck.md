@@ -8,4 +8,6 @@ A **Haul Truck** or **Dump Truck** is a [Vehicle](./Vehicle.md) found exclusivel
 
 ![Earth Mover Driver Side](../assets/Earth_Mover_Driver_Side.jpg)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia

@@ -22,6 +22,8 @@ Has a bed
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The barn is an important source of supplies and makes for a decent [base](./Safehouse.md). It provides a [Fire Barrel](./Fire%20Barrel.md), a [Work Bench](./Work%20Bench.md), and a [Truck](./Truck.md) that is warm enough to sleep in without a bedroll. However, the overall temperature in the barn is not very warm, so it may be too cold to stay in for players who are wearing poor quality [Clothing](./Clothing.md), unless they light a fire or stay in the truck.
@@ -29,6 +31,8 @@ The barn is an important source of supplies and makes for a decent [base](./Safe
 Behind the barn there is also a target with multiple [Simple Arrows](./Simple%20Arrow.md) stuck in it and [Broken Arrows](./Broken%20Arrow.md) lying below it (not there on Interloper).
 
 Two [Tractors](./Tractor.md) can be found around the barn. These tractors may contain low-grade supplies similar to those found in most vehicles, and can serve as a place to sleep if the player catches [Cabin Fever](./Cabin%20Fever.md).
+
+<span id="forest_talkers_side_mission"></span><span id="&quot;Forest_Talkers&quot;_Side_Mission"></span><span id="&quot;forest_talkers&quot;_side_mission"></span><span id="forest-talkers-side-mission"></span>
 
 ## "Forest Talkers" Side Mission
 

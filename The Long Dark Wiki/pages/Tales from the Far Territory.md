@@ -41,6 +41,8 @@
 
 **_Tales from the Far Territory_** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the first expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, being released in 6 parts starting from December 5, 2022 and fully concluding on December 2, 2024.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**Deep along the spine of Great Bear tracks a steep mountain range that bisects the island. This is the Far Range, an imposing wall of rock that stands vigilant over Great Bear's priceless resource riches. Over the decades, many have tried, few have succeeded to crack open the wealth within these rocks. And mysteries abound. Dark stories told around campfires, about abandoned mines and remote airfields that hold many secrets. Now, with the aurora blazing across the sky, is the Far Territory ready to surrender its stories? Will you survive long enough to wrest any truths from the rocky grasp of this old, dark territory?**”
@@ -55,9 +57,13 @@ Any content exclusive to the paid expansion is labeled as such below, and a full
 
 Purchasing the DLC also enables players to install [The Long Development](./The%20Long%20Development.md), an unofficial, fan-made pc mod which adds several regions to the eastern part of Great Bear Island.
 
+<span id="part_one_forsaken_airfield"></span><span id="Part_One:_Forsaken_Airfield"></span><span id="part_one:_forsaken_airfield"></span><span id="part-one-forsaken-airfield"></span>
+
 ## Part One: Forsaken Airfield
 
 Released December 5, 2022
+
+<span id="paid_update"></span><span id="Paid_Update"></span><span id="paid-update"></span>
 
 ### Paid Update
 
@@ -75,6 +81,8 @@ Released December 5, 2022
 - 1 new Affliction: [Insomnia](./Insomnia.md)
 - New soundtracks
 
+<span id="free_update"></span><span id="Free_Update"></span><span id="free-update"></span>
+
 ### Free Update
 
 - Global resource overhaul for all Gear, Harvestables and Clothing
@@ -84,15 +92,21 @@ Released December 5, 2022
 - [Improvised Crampons](./Improvised%20Crampons.md)
 - [Doe](./Deer.md) - a female deer
 
+<span id="miscellaneous_update"></span><span id="Miscellaneous_Update"></span><span id="miscellaneous-update"></span>
+
 ### Miscellaneous Update
 
 - Survival and WINTERMUTE split into separate gaming editions
 - Save system overhaul, resulting in a save wipe for survival mode
 - Temporarily removed prepper cache bunkers
 
+<span id="part_two_signal_void"></span><span id="Part_Two:_Signal_Void"></span><span id="part_two:_signal_void"></span><span id="part-two-signal-void"></span>
+
 ## Part Two: Signal Void
 
 Released March 30th, 2023
+
+<span id="paid_update_1"></span><span id="paid-update-1"></span>
 
 ### Paid Update
 
@@ -107,6 +121,8 @@ Released March 30th, 2023
   - [Technical Balaclava](./Technical%20Balaclava.md)
   - [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
+<span id="free_update_1"></span><span id="free-update-1"></span>
+
 ### Free Update
 
 - [Fire-Hardened Arrows](./Fire%20Hardened%20Arrow.md)
@@ -115,14 +131,20 @@ Released March 30th, 2023
 - [Plane Crashes](./Plane%20Crashes.md)
 - [Acorns](./Acorns.md) and [Oak Trees](./Oak%20Tree.md), as well as introducing [Acorn Grounds](./Acorn%20Grounds.md) to make [Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
 
+<span id="miscellaneous_update_1"></span><span id="miscellaneous-update-1"></span>
+
 ### Miscellaneous Update
 
 - Returned Prepper Caches from previous update's removal
 - [Weak Ice](./Weak%20Ice.md) now displays cracks when walked over as part of the updated Beachcombing mechanic
 
+<span id="part_three_frontier_comforts"></span><span id="Part_Three:_Frontier_Comforts"></span><span id="part_three:_frontier_comforts"></span><span id="part-three-frontier-comforts"></span>
+
 ## Part Three: Frontier Comforts
 
 Released June 21, 2023
+
+<span id="paid_update_2"></span><span id="paid-update-2"></span>
 
 ### Paid Update
 
@@ -155,6 +177,8 @@ Released June 21, 2023
   - [Nourished](./Nourished.md)
   - [Gorged](./Gorged.md)
 
+<span id="free_update_2"></span><span id="free-update-2"></span>
+
 ### Free Update
 
 - [Burdock](./Burdock.md) plants. Can be dug up for their [Roots](./Burdock%20Root.md), then can be [prepared and eaten raw](./Prepared%20Burdock.md) or be made into [Burdock Tea](./Burdock%20Tea.md)
@@ -173,9 +197,13 @@ Released June 21, 2023
     - [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md)
     - [Rockfish](./Rockfish%20%28Raw%29.md)
 
+<span id="part_four_buried_echoes"></span><span id="Part_Four:_Buried_Echoes"></span><span id="part_four:_buried_echoes"></span><span id="part-four-buried-echoes"></span>
+
 ## Part Four: Buried Echoes
 
 Released December 5th, 2023
+
+<span id="paid_update_3"></span><span id="paid-update-3"></span>
 
 ### Paid Update
 
@@ -197,6 +225,8 @@ Released December 5th, 2023
   - [Canister](./Canister.md)
 - New soundtracks
 
+<span id="free_update_3"></span><span id="free-update-3"></span>
+
 ### Free Update
 
 - 1 new Affliction: [Scurvy](./Scurvy.md)
@@ -206,13 +236,19 @@ Released December 5th, 2023
   - Carcass Harvesting Overhaul: harvesting carcasses and meat quarters now shows the survivor harvesting the body by hand and visually involves the tool selected.
   - Brand new Hunting Rifle, Revolver, and Distress Pistol animations
 
+<span id="miscellaneous_update_2"></span><span id="miscellaneous-update-2"></span>
+
 ### Miscellaneous Update
 
 - Carcasses now become weathered over time and possess 3 states of being (fresh, ravaged, frozen)
 
+<span id="part_five_last_horizon"></span><span id="Part_Five:_Last_Horizon"></span><span id="part_five:_last_horizon"></span><span id="part-five-last-horizon"></span>
+
 ## Part Five: Last Horizon
 
 Released June 24th 2024
+
+<span id="paid_update_4"></span><span id="paid-update-4"></span>
 
 ### Paid Update
 
@@ -243,6 +279,8 @@ Released June 24th 2024
   - Celestial Navigator
   - Big Cat Killer
 
+<span id="free_update_4"></span><span id="free-update-4"></span>
+
 ### Free Update
 
 - [Misery](./Misery.md) - a new Experience mode even harder than [Interloper](./Interloper.md), complete with 6 new Afflictions that gradually appear over time and make the survivor's experience permanently harder
@@ -258,15 +296,21 @@ Released June 24th 2024
     - [Cheated Death Penalty](./Cheated%20Death%20Penalty.md)
     - [Weakened State](./Weakened%20State.md)
 
+<span id="miscellaneous_update_3"></span><span id="miscellaneous-update-3"></span>
+
 ### Miscellaneous Update
 
 - _Tales from the Far Territory_ officially released for Nintendo Switch (Parts 1-5) (August 1st, 2024)
 - Added an option to make Cougars and [Scurvy](./Scurvy.md) optional content when starting a Survival Mode Experience (except Misery)
 - Removed Cougar shortly after launch due to negative player feedback so that it could be reworked
 
+<span id="part_six_broken_silence"></span><span id="Part_Six:_Broken_Silence"></span><span id="part_six:_broken_silence"></span><span id="part-six-broken-silence"></span>
+
 ## Part Six: Broken Silence
 
 Released December 2, 2024
+
+<span id="paid_update_5"></span><span id="paid-update-5"></span>
 
 ### Paid Update
 
@@ -318,6 +362,8 @@ Released December 2, 2024
   - [Cured Fish](./Cured%20Meat.md)
   - [Animal Fat](./Animal%20Fat.md)
 
+<span id="free_update_5"></span><span id="free-update-5"></span>
+
 ### Free Update
 
 - [Safehouse Customization](./Safehouse%20Customization.md) - customize almost any interior with the ability to move, rearrange, destroy, or craft furniture and containers to let survivors create their perfect safe house
@@ -328,6 +374,8 @@ Released December 2, 2024
 - Global Wildlife Refresh: an overhaul of wildlife spawn points and patrol paths to remove some of the predictability from their behavior
   - Establish new patterns for hunting and travel through the world to avoid, or seek out, wildlife. Every wildlife spawn region in the game has been refreshed. Expect to encounter predators like Bears, Wolves, and now Cougars, in new and dangerous places. Find prey animals like Deer, Rabbits, and Ptarmigan have made homes in new locations. Wildlife populations have been rebalanced across the entire game world. Even Timberwolf spawns have been refreshed, so that they don’t always appear where they used to.
 
+<span id="miscellaneous_update_4"></span><span id="miscellaneous-update-4"></span>
+
 ### Miscellaneous Update
 
 - Added 19 new [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) related to the _Tales from the Far Territory_, being a mix of free and paid achievements.
@@ -335,23 +383,27 @@ Released December 2, 2024
 - Train box cars and Car/Truck engines received new models. [Camp Office](./Camp%20Office.md) now has paint on the walls upstairs.
 - The Big Cat Killer Feat was discontinued with the new Cougar version, and is now a legacy Feat.
 
+<span id="development"></span><span id="Development"></span>
+
 ## Development
 
-With the progress of Episode 4 and writing for episode 5 coming to a close, Raphael van Lierop posted the Dev Diary on March 18, 2021 talking about the future of _The Long Dark_ and linking to a survey asking a series of questions, including if players would be willing to pay for DLC.[¹](#fn1) The results of the survey showed a favourable view towards paid content and development began with a dedicated team. [²](#fn2) To streamline the process of adding updates, the game was planned to be split into two editions, _Survival Edition_ and _Wintermute_.[³](#fn3)
+With the progress of Episode 4 and writing for episode 5 coming to a close, Raphael van Lierop posted the Dev Diary on March 18, 2021 talking about the future of _The Long Dark_ and linking to a survey asking a series of questions, including if players would be willing to pay for DLC.<span id="fnref1"></span>[¹](#fn1) The results of the survey showed a favourable view towards paid content and development began with a dedicated team. <span id="fnref2"></span>[²](#fn2) To streamline the process of adding updates, the game was planned to be split into two editions, _Survival Edition_ and _Wintermute_.<span id="fnref3"></span>[³](#fn3)
 
-The name for the expansion pass was revealed as _Tales from the Far Territory_ on October 20, 2022 in the Dev Diary, also announcing free and paid contents, save compatibility issues and the subsequent save wipes, with a general release date for December 2022 and Xbox, PlayStation and Switch planned for early 2023.[⁴](#fn4)
+The name for the expansion pass was revealed as _Tales from the Far Territory_ on October 20, 2022 in the Dev Diary, also announcing free and paid contents, save compatibility issues and the subsequent save wipes, with a general release date for December 2022 and Xbox, PlayStation and Switch planned for early 2023.<span id="fnref4"></span>[⁴](#fn4)
 
-Raphael von Lierop also announced stepping down as lead developer of _The Long Dark_, handing the reigns to Katie Sorrell as Project Lead, who would continue the work on _Wintermute_ and _Tales from the Far Territory_, officially taking over as the voice for _The Long Dark_ on Hinterland's official YouTube channel on March 30, 2023 in the "Tales from the Far Territory Part Two Update Video".[⁵](#fn5)[⁶](#fn6)
+Raphael von Lierop also announced stepping down as lead developer of _The Long Dark_, handing the reigns to Katie Sorrell as Project Lead, who would continue the work on _Wintermute_ and _Tales from the Far Territory_, officially taking over as the voice for _The Long Dark_ on Hinterland's official YouTube channel on March 30, 2023 in the "Tales from the Far Territory Part Two Update Video".<span id="fnref5"></span>[⁵](#fn5)<span id="fnref6"></span>[⁶](#fn6)
 
 _Tales_ was officially released on December 5, 2022 on Steam and Epic store for Windows. Technical issues arose for Mac and its release date was delayed from December 5, 2022 to February 15, 2023.
 
-PlayStation and Xbox was announced for March 15, 2023[⁷](#fn7) but was delayed and officially released on March 30, 2023 with Updates One and Two simultaneously. Update Two for PC was also released on March 30, 2023.
+PlayStation and Xbox was announced for March 15, 2023<span id="fnref7"></span>[⁷](#fn7) but was delayed and officially released on March 30, 2023 with Updates One and Two simultaneously. Update Two for PC was also released on March 30, 2023.
 
-The Switch was initially announced for March 2023 but was delayed, with Parts One to Four later being released together on August 1, 2024[⁸](#fn8). Parts Five to Six was later released on March 10, 2025[⁹](#fn9)
+The Switch was initially announced for March 2023 but was delayed, with Parts One to Four later being released together on August 1, 2024<span id="fnref8"></span>[⁸](#fn8). Parts Five to Six was later released on March 10, 2025<span id="fnref9"></span>[⁹](#fn9)
 
-_Tales_ was initially disabled for Interloper in order to maintain gameplay balance and the belief it would be too difficult and offer little reward for players, but after receiving heavy criticism, Raphael announced its future inclusion in the Dev Diary on April 14, 2023[¹⁰](#fn10) with it being officially enabled on April 20, 2023.[¹¹](#fn11) _Signal Void_ for Interloper mode was in turn modified to include less loot for bunkers and appropriate loot for the Trackable Hidden Caches.
+_Tales_ was initially disabled for Interloper in order to maintain gameplay balance and the belief it would be too difficult and offer little reward for players, but after receiving heavy criticism, Raphael announced its future inclusion in the Dev Diary on April 14, 2023<span id="fnref10"></span>[¹⁰](#fn10) with it being officially enabled on April 20, 2023.<span id="fnref11"></span>[¹¹](#fn11) _Signal Void_ for Interloper mode was in turn modified to include less loot for bunkers and appropriate loot for the Trackable Hidden Caches.
 
 The Cougar was met with heavy criticism at Part Four's launch, with many players expressing their disappointment with how it was implemented. This included how it did not act as a typical wildlife in the game and rather than roam and interact with the world and player, its appearance was limited to the moment it attacked the player after a timer countdown. The Cougar was promptly removed from the game to be reworked and then rereleased later for Part Six on December 2, 2024 to a relatively more favourable reception.
+
+<span id="achievements"></span><span id="Achievements"></span>
 
 ## Achievements
 
@@ -368,6 +420,8 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 - ![Goods and Services icon](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md)
 - ![Tough Enough icon](../assets/Tough_Enough_icon.png) [Tough Enough](./Tough%20Enough.md)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The promotional image used for the _Tales From the Far Territory_ is actually concept art for the [Final Approach](./Final%20Approach.md) helicopter crash site.
@@ -375,7 +429,11 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 - [Sundered Pass](./Sundered%20Pass.md) was formerly teased as _Mountain Pass_, but was renamed during its debut.
 - Base Customization was originally exclusive to this DLC before it was made available for all players as part of free update.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
+
+<span id="official_art"></span><span id="Official_Art"></span><span id="official-art"></span>
 
 ### Official Art
 
@@ -405,20 +463,24 @@ _Concept art of a [Poisoned Wolf](./Poisoned%20Wolf.md)_
 
 ![Safe House Customization Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
 
+<span id="references"></span><span id="References"></span>
+
 ### References
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. [March 2021 Dev Diary](https://www.thelongdark.com/news/dev-diary-march-2021/)[↩︎](#fnref1)
-2. [Survey Results](https://twitter.com/RaphLife/status/1379128297670418432?s=20)[↩︎](#fnref2)
-3. [April 2022 Dev Diary](https://www.thelongdark.com/promoted/dev-diary-april-2022/)[↩︎](#fnref3)
-4. [October 2022 Dev Diary](https://www.thelongdark.com/news/dev-diary-october-2022/)[↩︎](#fnref4)
-5. [YouTube - Tales Update One](https://www.youtube.com/watch?v=GHM3vOcqvT8)[↩︎](#fnref5)
-6. [YouTube - Tales Update Two](https://www.youtube.com/watch?v=AV0rCaNjyQs&t)[↩︎](#fnref6)
-7. [February 2023 Dev Diary](https://www.thelongdark.com/news/dev-update-february-2023/)[↩︎](#fnref7)
-8. [Switch Launch Trailer](https://www.youtube.com/watch?v=cR7f0UAEQw4)[↩︎](#fnref8)
-9. [Switch Updates Five to Six](https://hinterlandforums.com/forums/topic/46883-switch-tales-from-the-far-territory-part-five-six-now-live/)[↩︎](#fnref9)
-10. [April 2023 Dev Diary](https://www.thelongdark.com/news/dev-diary-april-2023/)[↩︎](#fnref10)
-11. [Hotfix - Tales Enabled for Interloper](https://hinterlandforums.com/forums/topic/43286-the-long-dark-updated-to-v215/)[↩︎](#fnref11)
+1. <span id="fn1"></span>[March 2021 Dev Diary](https://www.thelongdark.com/news/dev-diary-march-2021/)[↩︎](#fnref1)
+2. <span id="fn2"></span>[Survey Results](https://twitter.com/RaphLife/status/1379128297670418432?s=20)[↩︎](#fnref2)
+3. <span id="fn3"></span>[April 2022 Dev Diary](https://www.thelongdark.com/promoted/dev-diary-april-2022/)[↩︎](#fnref3)
+4. <span id="fn4"></span>[October 2022 Dev Diary](https://www.thelongdark.com/news/dev-diary-october-2022/)[↩︎](#fnref4)
+5. <span id="fn5"></span>[YouTube - Tales Update One](https://www.youtube.com/watch?v=GHM3vOcqvT8)[↩︎](#fnref5)
+6. <span id="fn6"></span>[YouTube - Tales Update Two](https://www.youtube.com/watch?v=AV0rCaNjyQs&t)[↩︎](#fnref6)
+7. <span id="fn7"></span>[February 2023 Dev Diary](https://www.thelongdark.com/news/dev-update-february-2023/)[↩︎](#fnref7)
+8. <span id="fn8"></span>[Switch Launch Trailer](https://www.youtube.com/watch?v=cR7f0UAEQw4)[↩︎](#fnref8)
+9. <span id="fn9"></span>[Switch Updates Five to Six](https://hinterlandforums.com/forums/topic/46883-switch-tales-from-the-far-territory-part-five-six-now-live/)[↩︎](#fnref9)
+10. <span id="fn10"></span>[April 2023 Dev Diary](https://www.thelongdark.com/news/dev-diary-april-2023/)[↩︎](#fnref10)
+11. <span id="fn11"></span>[Hotfix - Tales Enabled for Interloper](https://hinterlandforums.com/forums/topic/43286-the-long-dark-updated-to-v215/)[↩︎](#fnref11)

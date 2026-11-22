@@ -41,6 +41,8 @@
 
 **Improvised Insulation** is an insulated base layer [Clothing](./Clothing.md) accessory added to the paid update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is made from [Cloth](./Cloth.md) and [Ptarmigan Down](./Ptarmigan%20Down.md) feathers harvested from hunted [Ptarmigans](./Ptarmigan.md).
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Improvised Insulation**
@@ -61,11 +63,15 @@
 
 **Quantity:** 4
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Improvised_Insulation_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Improvised_Insulation_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

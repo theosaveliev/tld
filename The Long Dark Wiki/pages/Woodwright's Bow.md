@@ -51,17 +51,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Woodwright's bow is a hand-carved hardwood bow with a red cloth wrapped handle, red stripes painted on the tips, and a metal arrow rest. It functions like the normal Survival Bow, but has double durability, less sway, and the downside of weighing an additional 0.25 kg more than its Survival counterpart.
 
 Like other bows, the Woodwright's Bow cannot be repaired.
 
+<span id="differences_from_survival_bow"></span><span id="Differences_from_Survival_Bow"></span><span id="differences-from-survival-bow"></span>
+
 ## Differences from Survival Bow
 
 - Base weight is 0.25kg more than the Survival Bow
 - Sway is 30% less than Survival Bow
 - Total durability is 100% more than Survival Bow (uses 1%-0.5% condition per shot based on [archery skill](./Archery.md))
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -72,11 +78,15 @@ The bow will spawn a single time per world at 100% condition in one of several r
 - Next to a frozen corpse to the west of [Valley View Point](./Valley%20View%20Point.md) on the small pond south of [Hushed River](./Hushed%20River.md).
 - Just outside the ice cave under a rock overhang, at the top of [Long Shot Falls](./Long%20Shot%20Falls.md).
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - The Woodright's bow will not spawn on [Interloper](./Interloper.md) or [Misery](./Misery.md) difficulty.
 - At base archery skill the bow can fire a total of 85 times before the risk of breaking starts at the 15% condition threshold.
 - At Archery skill level 4 and above, the survivor can fire the Woodright's bow a total of 170 times before reaching the 15% condition breaking threshold at which the bow will have the chance to break with each shot; starting at a 4% break chance at 12% condition, and increasing to 16% break chance at 9% condition, then to 64% break chance at 3% condition. Because only one spawns per world, it may be wise to attain archery skill level 4 or above before using it to get the most potential shots out of the bow.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -91,6 +101,8 @@ The bow will spawn a single time per world at 100% condition in one of several r
 ![Woodwright's Bow corpse](../assets/Woodwright%27s_Bow_corpse.jpg)
 
 ![Woodwrights bow in-game ground model](../assets/Woodwrights_Bow_Dropped.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

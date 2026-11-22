@@ -36,6 +36,8 @@
 
 The **Light Shell** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Mid-tier outer torso with similar stats to the [Windbreaker](./Windbreaker.md), but with double the warmth and weight. Good as an outer layer, although not as waterproof as a Windbreaker.
@@ -43,6 +45,8 @@ Mid-tier outer torso with similar stats to the [Windbreaker](./Windbreaker.md), 
 ![Clothing model](../assets/Light_Shell_Model_icon.png)
 
 ![Clothing model damaged](../assets/Light_Shell_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -21,7 +21,7 @@
 
 [Practical Gunsmithing icon](../assets/Practical_Gunsmithing_icon.png)
 
-**Release:** [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
+**Release:** [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)
 
 **Wintermute:** No
 
@@ -43,6 +43,8 @@
 
 **Practical Gunsmithing** is a [Research Book](./Research%20Book.md) used to improve the [Gunsmithing](./Gunsmithing.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
+<span id="research"></span><span id="Research"></span>
+
 ## Research
 
 _Practical Gunsmithing_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Gunsmithing skill points](./Gunsmithing.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
@@ -54,6 +56,8 @@ Research can only be performed under the following conditions:
 - No negative [Afflictions](./Afflictions.md)
 
 If the player's fatigue, thirst or hunger meters go down to zero or if the environment becomes dark during a research session, the session will be terminated instantly. The hour of research that was in progress will not be completed and any time that had already been spent will be wasted. For a multiple-hour research session, only the incomplete hour will be lost, all the previous hours will still count towards completion of the book.
+
+<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
 
 ## Fire Starting
 
@@ -71,43 +75,63 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
+
+<span id="blackrock_mountain"></span><span id="Blackrock_Mountain"></span><span id="blackrock-mountain"></span>
 
 #### Blackrock Mountain
 
 - Inside the [Power Plant](./Power%20Plant.md) on the lower deck overlooking the water
 
+<span id="broken_railroad"></span><span id="Broken_Railroad"></span><span id="broken-railroad"></span>
+
 #### Broken Railroad
 
 - Inside the truck on the path leading to the [Maintenance Yard](./Maintenance%20Yard.md)
+
+<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
 
 #### Coastal Highway
 
 - [Quonset Garage](./Quonset%20Garage.md)
 
+<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+
 #### Forlorn Muskeg
 
 - [Forge](./Forge.md) at [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md)
+
+<span id="forsaken_airfield"></span><span id="Forsaken_Airfield"></span><span id="forsaken-airfield"></span>
 
 #### Forsaken Airfield
 
 - Inside a container in the [Main Hangar](./Main%20Hangar.md)
 
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+
 #### Mystery Lake
 
 - [Fishing Hut](./Fishing%20Hut.md) closest to the tiny island in the middle of the lake
+
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
 
 #### Pleasant Valley
 
 - In the car at [End of the Road](./End%20of%20the%20Road.md)
 - Near a corpse at the small barn to the side right of the road, between [Heartbreak Bridge](./Heartbreak%20Bridge.md) and [Lower Falls](./Lower%20Falls.md). It's the barn with three rosehip bushes around, where you can find the prisoner's corpse in [Wintermute](./Wintermute.md) [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Attempting to burn a copy of _Practical Gunsmithing_ when it has not been fully read will give a confirmation warning before it can be burned.
 - Once a copy of _Practical Gunsmithing_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)):**
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
   - Added to game.

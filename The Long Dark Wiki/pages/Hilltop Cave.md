@@ -30,6 +30,8 @@ Cave|-
 
 Provides some shelter **Hilltop Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md), located not far from [Signal Hill](./Signal%20Hill.md) and the [Winding River](./Winding%20River.md) transition cave (and subesquently [Cascading Falls](./Cascading%20Falls.md)).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Hilltop Cave lies next to a [Hunter's Blind](./Hunter%27s%20Blinds.md), both of which are south-west of the [Cave](./Cave%20%28Transition%20Zone%29.md) connecting to [Winding River](./Winding%20River.md).

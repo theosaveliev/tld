@@ -22,6 +22,8 @@
 
 **Forest Talker Supply Caches** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md). It is unlocked by reading a note in the Hunting Lodge in the Broken Railroad region. Reading the note unlocks all three caches.
 
+<span id="tasks"></span><span id="Tasks"></span>
+
 ## Tasks
 
 - Forest Talker Cache: Mystery Lake

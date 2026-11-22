@@ -18,7 +18,7 @@ Release
 
 Update
 
-[1.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+[1.00](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 Story item
 
@@ -45,6 +45,8 @@ Harvesting either form with a [Hatchet](./Hatchet.md) yields 3 [Reclaimed Wood](
 | 6 | 38 minutes | 112 | -2% Hatchet |
 | 6 | 49 minutes | 146 | -3% Improvised Hatchet |
 | 6 | 56 minutes | 169 | -0.5% Heavy Hammer |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

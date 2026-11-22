@@ -14,7 +14,7 @@
 
 [Cooking Pot icon](../assets/Cooking_Pot_icon.png)
 
-**Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)
+**Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)
 
 **Wintermute:** No
 
@@ -40,6 +40,8 @@
 
 A **Cooking Pot** is a tool primarily used for melting snow, boiling water, and [Cooking](./Cooking.md) food. A cooking pot will reduce the amount of time required for food inside it to cook by **20%** and will allow for the creation of broths, stews, and porridges that cannot be cooked directly by the fire.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A cooking pot can melt or boil up to 2.00 liters of snow or water at a time. The amount of time required to melt snow per liter does decrease a bit when using a Cooking Pot, compared to a [Recycled Can](./Recycled%20Can.md).
@@ -49,6 +51,8 @@ A Cooking Pot will degrade by **5%** if its contents are burned or boiled dry. T
 A Cooking Pot can be harvested for 1 unit of [Scrap Metal](./Scrap%20Metal.md).
 
 It can also be repaired with [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) for 1 unit of Scrap Metal.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -85,6 +89,8 @@ Examples of places that Cooking Pots are known to spawn on Interloper:
 
 It is not guaranteed that every region will spawn a Cooking Pot. Some regions, like [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md), may have no Cooking Pots in a given game.
 
+<span id="recipes"></span><span id="Recipes"></span>
+
 ## Recipes
 
 The following recipes can only be created within a Cooking Pot, and are available to cook from the start:
@@ -111,21 +117,25 @@ These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Ca
 | [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 0.35 kg | 2 hr | 4 |
 | [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 0.10 kg | 40 min | 1 |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The Cooking Pot was originally a harvestable environmental object called the [Metal Pot](./Metal%20Pot.md), which was cut in the Vigilant Flame update and added as an item using the same model as the Metal Pot.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.94)):**
-  - \[Audio\] Cans and Pots now play sound effects when placed onto a cooking slot, as intended.
-- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.76)):**
-  - \[Gameplay\] The Cooking Pot now provides the correct bonus when cooking meat.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
-  - \[All\] Fixed Cooking Pots sinking into cooking surfaces
-- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.36)):**
-  - \[ALL\] Player’s last Cooking Pot will no longer drop during a Struggle.
-- HOTFIX **20 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.34)):**
-  - \[All\] Fixed players being able to use a Recycled Can/Cooking Pot to cook when the item was at 0% Condition.
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)):**
+- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**
+  - [Audio] Cans and Pots now play sound effects when placed onto a cooking slot, as intended.
+- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76)):**
+  - [Gameplay] The Cooking Pot now provides the correct bonus when cooking meat.
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+  - [All] Fixed Cooking Pots sinking into cooking surfaces
+- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.36)):**
+  - [ALL] Player’s last Cooking Pot will no longer drop during a Struggle.
+- HOTFIX **20 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.34)):**
+  - [All] Fixed players being able to use a Recycled Can/Cooking Pot to cook when the item was at 0% Condition.
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
   - Added to game.

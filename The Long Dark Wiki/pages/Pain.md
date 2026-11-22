@@ -6,7 +6,7 @@
 
 [Pain icon](../assets/Pain_icon.png)
 
-**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)
 
 **Update:** 1.48
 
@@ -35,6 +35,8 @@
 > “**You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.**”
 >
 > — In-game description
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 

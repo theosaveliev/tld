@@ -51,13 +51,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Spelunker's Lantern** is a unique variant of the [Storm Lantern](./Storm%20Lantern.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Spelunker's Lantern is a mobile source of light and [Warmth](./Warmth.md) which does not require Matches or other firestarters to ignite. The lantern's flame is also windproof, but unlike [Flares](./Flare.md) it will not deter [wolves](./Wolf.md). The lantern requires no external ignition source due to the internal auto-igniter, unlike [Torches](./Torch.md). This allows the Spelunker's Lantern to be quickly extinguished and ignited at any point, so long as there is a sufficient internal fuel store. Lanterns can be placed ("RMB") on any flat surface, even when lit, such as to provide light while crafting or reading at night. Lanterns can be refueled with [Lantern Fuel](./Lantern%20Fuel.md) or a [Jerry Can](./Jerry%20Can.md).
 
 The Spelunker's Lantern does not degrade condition when used or over time, but may suffer damage during a [Bear Struggle](./Struggle.md). It can be repaired with [Scrap Metal](./Scrap%20Metal.md) and [Tools](./Simple%20Tools.md). If harvested, any fuel left inside will be added to the survivor's inventory.
 
-- A lit lantern adds 3\*C to the survivor's "Warmth" when ignited and equipped.
+- A lit lantern adds 3*C to the survivor's "Warmth" when ignited and equipped.
 - Weighs 1.00kg when empty
 - Can hold up to 1 liter (0.26 gallons) of Lantern Fuel which is enough to use continuously for 5 in-game hours and 36 minutes (weighing 1.8 kg when fully fueled)
 - The higher the amount of fuel stored inside a lantern, the brighter the light it produces
@@ -67,10 +69,14 @@ The Spelunker's Lantern can be quickly extinguished without needing to stop the 
 
 Since version 2.17 the Spelunker's Lantern will spawn in [Interloper](./Interloper.md). It will also spawn on [Misery](./Misery.md).
 
+<span id="differences"></span><span id="Differences"></span>
+
 ## Differences
 
 - 40% more fuel efficient than Storm Lanterns (5 hour 36 minutes of fuel from a full tank VS 4 hours from Storm Lantern)
 - 40% less light radius and brightness than Storm Lanterns due to lower fuel consumption (even at full capacity)
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -86,11 +92,15 @@ Only one Spelunker's Lantern will appear per game world, and its location is ran
   - [Echo Peak East](./Echo%20Peak%20East.md) at the top of the peak behind rocks at the cave ([Loot Table](./Loot%20Table.md) 4 on Interloper)
   - [Cave](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md) between [Secluded Shelf](./Secluded%20Shelf.md) and the area below [Summit](./Summit.md) (Not on Interloper/Misery)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 You can skip the Extinguish animation (which forces you to stop) by simply holstering the Lantern outright.
 
 The lantern's description is an [Easter Egg](./Easter%20Eggs.md), being a reference to The Lord of the Rings.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -103,6 +113,8 @@ The lantern's description is an [Easter Egg](./Easter%20Eggs.md), being a refere
 ![Ditto](../assets/Spelunker%27s_Lantern_Cave.jpg)
 
 ![Ditto](../assets/Timberwolf_Cave2_230727.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

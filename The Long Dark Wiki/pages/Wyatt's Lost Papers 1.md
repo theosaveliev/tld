@@ -28,14 +28,18 @@
 
 **Wyatt's Lost Papers 1** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wyatt's Lost Papers 1**_
 
 I designed these things to save us from threats far away. The other side of the damn world.
 
-But that was the easy part. The real threat was a lot closer. The people we see every day. \[scratched out\].
+But that was the easy part. The real threat was a lot closer. The people we see every day. [scratched out].
 
 - Wyatt
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

@@ -14,7 +14,7 @@
 
 [Building Blackrock icon](../assets/Building_Blackrock_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
@@ -42,7 +42,11 @@
 - Part Two is found on a corkboard near the bed in the [Old Substation](./Old%20Substation.md)
 - Part Three is found in a [Backpack](./Backpack.md) inside [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md)
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
+
+<span id="part_one"></span><span id="Part_One:"></span><span id="part_one:"></span><span id="part-one"></span>
 
 ### Part One:
 
@@ -54,6 +58,8 @@ Local communities, almost as a rule, steer clear of the Penitentiary. Whether th
 
 There are still others who claim that nothing can match the harshness of winter living on Great Bear, and that Islanders should feel secure in their own hardy resilience. They are tougher than any prison inmate.
 
+<span id="part_two"></span><span id="Part_Two:"></span><span id="part_two:"></span><span id="part-two"></span>
+
 ### Part Two:
 
 _The following text is transcribed from **Building Blackrock, Part Two**_
@@ -63,6 +69,8 @@ Little is known about Blackrock Penitentiary's original architect, G.W. Jahnn. A
 In terms of his design influences, the official records only note his intense interest in Egyptian monuments, British social theorist Jeremy Bentham, and a somewhat peculiar fascination with the music and astronomy of ancient Greece.
 
 All in all, his work, and the prison itself, make for a remarkable and unusual contribution to the rugged landscape of Great Bear Island.
+
+<span id="part_three"></span><span id="Part_Three:"></span><span id="part_three:"></span><span id="part-three"></span>
 
 ### Part Three:
 
@@ -74,7 +82,9 @@ Before the first stone was laid for the Penitentiary, gold miners and prospector
 
 Still, it's said the many streams and rivers that surround the prison grounds still carry gold, even in winter.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

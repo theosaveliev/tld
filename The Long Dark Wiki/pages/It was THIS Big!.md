@@ -10,6 +10,8 @@
 
 **It was THIS Big!** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is obtained after catching a fish weighing greater than five kilograms. Typically, the only fish that can weigh greater than five kilograms is the [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) and the [Burbot](./Burbot%20%28Raw%29.md). Coho Salmon can only be caught at [Fishing Huts](./Fishing%20Hut.md) (or Free Form Fishing) in saltwater, namely in:
@@ -38,6 +40,8 @@ As Burbot is a rare fish, using a [Fishing Lure](./Fishing%20Lure%20%28disambigu
 
 The achievement can also be unlocked by quite easily by catching the [Big Bass](./Big%20Bass%20%28Raw%29.md) (15.00kg\] for the [Tall Tales](./Tall%20Tales.md) side mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md), by following the [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md) side mission.
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ## Game history
 
-This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
+This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).

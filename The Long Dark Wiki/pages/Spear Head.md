@@ -6,7 +6,7 @@
 
 [Spear Head icon](../assets/Spear_Head_icon.png)
 
-**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md)
 
@@ -32,6 +32,8 @@
 
 More Spear Heads can be crafted in the forge after the first one. They can be carried around, have a world model, and inventory model, but serve no other purpose.
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Spear Head**
@@ -48,14 +50,18 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 **Quantity:** 2
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![The Forge menu for building the Spear Head](../assets/Spear_Head.jpg)
 
 ![3d model from a second forged Spear Head](../assets/Spear_Head_3d_Model.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
   - Added to game.

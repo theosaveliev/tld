@@ -8,6 +8,6 @@
 
 **Release:** Part 1 TFTFT
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 _For the storage unit the player can make, see [Rock Cache](./Rock%20Cache.md)._

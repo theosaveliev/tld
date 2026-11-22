@@ -43,7 +43,7 @@
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Dr.+R%C3%BCdiger&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Dr.+R%C3%BCdiger&amp;action=edit expanding it].**
 
 > “**A different world is coming. I am certain of it. And I will be prepared.**”
 >
@@ -51,18 +51,30 @@
 
 **Dr. Rüdiger** (Initials **AR**) is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 [Tales](./Tales.md) in [Survival Mode](./Survival%20Mode.md).
 
+<span id="signal_void"></span><span id="Signal_Void"></span><span id="signal-void"></span>
+
 ## Signal Void
+
+<span id="buried_echoes"></span><span id="Buried_Echoes"></span><span id="buried-echoes"></span>
 
 ## Buried Echoes
 
+<span id="last_horizon"></span><span id="Last_Horizon"></span><span id="last-horizon"></span>
+
 ## Last Horizon
+
+<span id="belongings"></span><span id="Belongings"></span>
 
 ## Belongings
 
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

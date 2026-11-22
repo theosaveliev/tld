@@ -93,6 +93,8 @@ The **Cougar** is a [Wildlife](./Wildlife.md) predator in _[The Long Dark](./The
 
 They only appear in [Survival Mode](./Survival%20Mode.md), as well as [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of Wintermute during the [High Energy](./High%20Energy.md) mission, and do not appear in [Challenges](./Challenge.md). They can be toggled on or off in pre-existing saves or tweaked in [Custom](./Custom.md) Mode.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cougars are territorial "alpha-predators" and pose a serious threat on all Survival Mode difficulties (except [Pilgrim](./Pilgrim.md), where they are disabled). They predominantly inhabit the outer rims of [Regions](./Region.md) and possess a large detection range (particularly on [Stalker](./Stalker.md)). Co-existence with Cougars is possible by avoiding areas they inhabit and refraining from hunting them. The Cougar reacts to player behavior and will increase its territory size, the number of territories and the number of Cougars in a single region based on how the player interacts with it.
@@ -104,6 +106,8 @@ Cougar Territory is indicated to the player by a variety of markings, sounds and
 Like the Moose, the Cougar does not bleed out and typically requires multiple rounds of ammunition or arrows being shot to go down. It is however possible, albeit rare, to down a Cougar with a single, lucky critical shot to the head, neck or torso. The Cougar is very sturdy and has the highest detection range of any animal, with its line of sight being as high as 300 meters away from the player's position (line of sight detection radius increases with difficulty). Cougars do not typically leave their Territory unless the player's [Scent](./Scent.md) is high. This commonly occurs if multiple Cougar Territories are active and the player is carrying meat from hunted animals around.
 
 Increasing aggression on behalf of the player will be the only factor in how often a player encounters Cougars and how easy it will be to avoid them. Cougars are a particularly tough predator, requiring multiple [Hunting Rifle](./Hunting%20Rifle.md) shots or [Arrows](./Simple%20Arrow.md) even at the highest [Rifle Firearm](./Rifle%20Firearm.md) or [Archery](./Archery.md) skill levels and they do not bleed out. Like other predators, they become exponentially more dangerous during the [Aurora](./Aurora.md).
+
+<span id="enable_option"></span><span id="Enable_Option"></span><span id="enable-option"></span>
 
 ## Enable Option
 
@@ -119,20 +123,22 @@ The toggle to disable Cougars is not present on [Misery](./Misery.md), where Cou
 
 Cougars are disabled on [Pilgrim](./Pilgrim.md), so the toggle is not present (unless enabled in [Custom](./Custom.md)).
 
+<span id="drops"></span><span id="Drops"></span>
+
 ## Drops
 
 Killing a Cougar will produce a [Cougar Carcass](./Cougar%20Carcass.md) which can be harvested for the following items:
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)\* | 4-5 kg | Always[¹](#fn1) |
-| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always[²](#fn2) |
+| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)* | 4-5 kg | Always<span id="fnref1"></span>[¹](#fn1) |
+| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always<span id="fnref2"></span>[²](#fn2) |
 | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 Cougar drops can be used to craft two unique items. The [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) is a [clothing item](./Clothing.md) worn on the outer head slot that is both made and repaired using a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). The [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) is a [Hunting Knife](./Hunting%20Knife.md) variant with slightly altered characteristics (mainly its superiority in struggles and faster harvesting times) that can be crafted with the [Cougar Claw](./Cougar%20Claw.md) (see below) and is sharpened like any other [Tool](./Tools.md).
 
-\*Note: Cougar Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
+*Note: Cougar Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
 
 Animal Fat is produced automatically when harvesting raw meat. A Cougar Claw is harvested automatically when Harvesting a Cougar Hide or Quartering the Carcass. Neither appear when Harvesting a Carcass and cannot be harvested separately.
 
@@ -140,6 +146,8 @@ Animal Fat is produced automatically when harvesting raw meat. A Cougar Claw is 
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) | [Cougar Claw](./Cougar%20Claw.md) | 1 | Always |
+
+<span id="behaviour"></span><span id="Behaviour"></span>
 
 ## Behaviour
 
@@ -150,6 +158,8 @@ True to their title as a "super predator," a Cougar's behaviour is a combination
 - They are considerably sturdier than other wildlife and their senses (particularly sight and smell) are heightened, much like [Bears](./Bear.md).
 - They leave markings in their territory and do not bleed out when shot, like [Moose](./Moose.md).
 - They are often heard from their vocalizations long before they are encountered and have their own unique warning music when they are close, similar to the [Darkwalker](./Escape%20the%20Darkwalker.md).
+
+<span id="basic_behaviors"></span><span id="Basic_Behaviors"></span><span id="basic-behaviors"></span>
 
 ### Basic Behaviors
 
@@ -163,6 +173,8 @@ True to their title as a "super predator," a Cougar's behaviour is a combination
 - **Fleeing**: Cougars that flee from players have a chance to lose sight of them, returning back to Territory Patrol behaviour.
 - **Leaving Territory**: Cougars can leave their Territory if the player's [Scent](./Scent.md) is high. This commonly occurs if multiple Cougar Territories are active and the player is carrying meat from hunted animals around. Cougars typically return to their Territory if they lose sight of the player.
 
+<span id="miscellaneous_behaviors"></span><span id="Miscellaneous_Behaviors"></span><span id="miscellaneous-behaviors"></span>
+
 ### Miscellaneous Behaviors
 
 - Its walking speed is on par with Wolves while its charging speed is on par with a Bear or Moose charge. This means a player cannot outrun a charging Cougar.
@@ -171,9 +183,13 @@ True to their title as a "super predator," a Cougar's behaviour is a combination
 - If the player enters an interior while being stalked, the Cougar will despawn and respawn somewhere in its Territory, like most wildlife.
 - Cougars do not typically leave their Territory unless the player's [Scent](./Scent.md) is high. This commonly occurs if multiple Cougar Territories are active and the player is carrying meat from hunted animals around.
 
+<span id="fear_of_fire"></span><span id="Fear_of_Fire"></span><span id="fear-of-fire"></span>
+
 ### Fear of Fire
 
 Cougars do not fear a lit [Flare](./Flare.md), [Marine Flare](./Marine%20Flare.md), [Torch](./Torch.md), or contained fire. They do however avoid a lit [Campfire](./Campfire.md) as well as the player if they stand close to one. Cougars that chase the player will circle around a lit Campfire to avoid getting close to it while attacking.
+
+<span id="sounds"></span><span id="Sounds"></span>
 
 ### Sounds
 
@@ -184,6 +200,8 @@ Cougars display a variety of different vocalizations as they prowl their territo
 - **Stalking**: If a Cougar is stalking the player, they will occasionally growl/hiss at them. The sound of branches snapping is very audible in this phase.
 - **Charging**: When close enough, a Cougar gives out a series of quick high pitched snarls and growls as they aggressively charge the player.
 - **Death**: They will let out a final moderate roar as they perish and fall over.
+
+<span id="aurora"></span><span id="Aurora"></span>
 
 ### Aurora
 
@@ -196,6 +214,8 @@ Cougars display a variety of different vocalizations as they prowl their territo
 - Aurora Cougars are the only Aurora Predator that _do not fear [Flashlight](./Flashlight.md) high beams_.
 - They will stay away from lit [Campfires](./Campfire.md), but will still keep close by and stalk the player.
 
+<span id="wildlife_interactions"></span><span id="Wildlife_Interactions"></span><span id="wildlife-interactions"></span>
+
 ## Wildlife Interactions
 
 Cougars interact with other Wildlife in the following ways:
@@ -206,6 +226,8 @@ Cougars interact with other Wildlife in the following ways:
 - [Bear](./Bear.md): Bears and Cougars ignore each other.
 - Other Cougars: If 2 Cougar Territories are active in a region and both Cougars come across one another, they ignore each other. If both detect the player, the closest one will attack the player while the one farthest runs away (they do not take turns attacking the player like Wolves).
 - Despite not appearing in the Challenge [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), Cougars run away when the [Darkwalker](./Escape%20the%20Darkwalker.md) is close to them and will die once [Toxic Fog](./Toxic%20Fog.md) reaches 100% (if spawned with console commands).
+
+<span id="cougar_spawning"></span><span id="Cougar_Spawning"></span><span id="cougar-spawning"></span>
 
 ## Cougar Spawning
 
@@ -228,6 +250,8 @@ Using Custom settings, the Cougar arrival time seems to be connected to the Coug
 - Medium = 20-23 days
 - High = 10-12 days
 
+<span id="cougar_cutscene"></span><span id="Cougar_Cutscene"></span><span id="cougar-cutscene"></span>
+
 ### Cougar Cutscene
 
 After the Cougar grace period is complete and provided the player is in a [region](./Region.md) where Cougars can spawn, a cutscene will play to alert the player. This will typically happen whenever the survivor next exits a building with a loading screen, transitions between regions or sleeps.
@@ -247,6 +271,8 @@ Cougars will not begin spawning until the cutscene has played.
 ![Cougar Arrival (Coastal Highway 2/3)](../assets/CougararrivalCH2.jpg)
 
 ![Cougar Arrival (Coastal Highway 3/3)](../assets/CougararrivalCH3.jpg)
+
+<span id="cougar_territories_and_threat_levels"></span><span id="Cougar_Territories_and_Threat_Levels"></span><span id="cougar-territories-and-threat-levels"></span>
 
 ### Cougar Territories and Threat Levels
 
@@ -279,17 +305,23 @@ _[Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md)_
 
 ![Ditto (Cougar Tree Slashes)](../assets/Cougar_Tree_Slashes.jpg)
 
+<span id="cougar_locations"></span><span id="Cougar_locations"></span><span id="cougar-locations"></span>
+
 ## Cougar locations
 
 After the difficulty-appropriate grace period and the short cutscene, Cougars may then spawn in any eligible region. Initially, the Cougar will spawn in only one location (territory) in each region. Interaction with the Cougar will cause the Threat Level to go up and spawn additional Cougar Territories within the same region, up to a total of three territories each containing a Cougar. If left alone for 5 days, an expansion territory and its Cougar will de-spawn. Only the initial territory remains when a player doesn't interact with the Cougars. Killing a Cougar does not prevent new Cougars from spawning, so killing a cougar can cause a new one to appear on the way back from the kill.
 
 Cougars can spawn in the following locations:
 
+<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
+
 #### [Ash Canyon](./Ash%20Canyon.md)
 
 - In the forest between [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) and rope climb to [Gold Mine](./Gold%20Mine.md) (Threat Level 1)
 - In the forest between [Angler's Den](./Angler%27s%20Den.md), [Foreman's Retreat](./Foreman%27s%20Retreat.md) and [Broad Falls](./Broad%20Falls.md) (Threat Level 2)
 - In the forest between [Shattered Cove](./Shattered%20Cove.md) and [Bitter Marsh](./Bitter%20Marsh.md) (Threat Level 3)
+
+<span id="blackrock"></span><span id="Blackrock"></span>
 
 #### [Blackrock](./Blackrock.md)
 
@@ -298,11 +330,15 @@ Cougars can spawn in the following locations:
 - North West of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md), in front of unnamed cave (Threat Level 3)
 
 
+<span id="bleak_inlet"></span><span id="Bleak_Inlet"></span><span id="bleak-inlet"></span>
+
 #### [Bleak Inlet](./Bleak%20Inlet.md)
 
 - Around [Bunker Alpha](./Bunker%20Alpha.md) (Threat Level 1)
 - On the large hill at the [Washed Out Trailers](./Washed%20Out%20Trailers.md) (Threat Level 2)
 - On the crossroads nearby [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) (Threat Level 3)
+
+<span id="coastal_highway_removed_after_an_update"></span><span id="Coastal_Highway_(REMOVED_AFTER_AN_UPDATE)"></span><span id="coastal_highway_(removed_after_an_update)"></span><span id="coastal-highway-removed-after-an-update"></span>
 
 #### [Coastal Highway](./Coastal%20Highway.md) (REMOVED AFTER AN UPDATE)
 
@@ -310,11 +346,15 @@ Cougars can spawn in the following locations:
 - Northwest of the [Fishing Camp](./Fishing%20Camp.md) and south of [Bear Creek Campground](./Bear%20Creek%20Campground.md) (Threat Level 2)
 - Around the [Quonset Garage](./Quonset%20Garage.md) (Threat Level 3)
 
+<span id="forsaken_airfield"></span><span id="Forsaken_Airfield"></span><span id="forsaken-airfield"></span>
+
 #### [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 - In the forest south of [Brittle Cave](./Brittle%20Cave.md) double waterfall and north of [Fallow Dugout](./Fallow%20Dugout.md) (Threat Level 1)
 - In the forest west of [Mindful Cabin](./Mindful%20Cabin.md) (Threat Level 2)
 - In the forest between [Fallow Dugout](./Fallow%20Dugout.md) and [Bunker Omega](./Bunker%20Omega.md) (Threat Level 3)
+
+<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
 
 #### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -322,11 +362,15 @@ Cougars can spawn in the following locations:
 - Between [Mammoth Falls](./Mammoth%20Falls.md) and [Quarrelling Falls](./Quarrelling%20Falls.md) (Threat Level 2)
 - In the forest between [Reclusive Falls](./Reclusive%20Falls.md) and [Valley View Point](./Valley%20View%20Point.md) (Threat Level 3)
 
+<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+
 #### [Mountain Town](./Mountain%20Town.md)
 
 - On the slopes between the [Farm Hay Storage](./Paradise%20Meadows%20Farm.md) and the [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) (Threat Level 1)
 - Between [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) and [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) (Threat Level 2)
 - In the [Wood Lot](./Wood%20Lot.md) near [Orca Gas Station](./Orca%20Gas%20Station.md) (Threat Level 3)
+
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
 
 #### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -334,11 +378,15 @@ Cougars can spawn in the following locations:
 - In the forest between [Logging Camp](./Logging%20Camp.md) and [Train Loading Area](./Train%20Loading%20Area.md) (Threat Level 2)
 - Between [Camp Office](./Camp%20Office.md) and [Deadfall Area](./Deadfall%20Area.md) (Threat Level 3)
 
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+
 #### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - Between [Pensive Pond](./Pensive%20Pond.md) and [Picnic Spot](./Picnic%20Spot.md) (Threat Level 1)
 - Between [Bunker Beta](./Bunker%20Beta.md) and the bridge to [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md) (Threat Level 2)
 - [Thomson's Crossing](./Thomson%27s%20Crossing.md), near the road to [Contemplation Bridge](./Contemplation%20Bridge.md) (Threat Level 3)
+
+<span id="sundered_pass"></span><span id="Sundered_Pass"></span><span id="sundered-pass"></span>
 
 #### [Sundered Pass](./Sundered%20Pass.md)
 
@@ -346,11 +394,15 @@ Cougars can spawn in the following locations:
 - In the forest south of [Seedling Spring](./Seedling%20Spring.md) (Threat Level 2)
 - In the forest near [Route One Waterfall](./Route%20One%20Waterfall.md) (Threat Level 3)
 
+<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
+
 #### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 - In the forest near [Forest Cave](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) (Threat Level 1)
 - Between [Engine (West)](./Engine%20%28West%29.md) and Blackrock Transition Cave (Threat Level 2)
 - In the forest between [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) and [Landing Gear](./Landing%20Gear.md) (Threat Level 3)
+
+<span id="cougar_free_regions"></span><span id="Cougar-free_regions"></span><span id="cougar-free_regions"></span><span id="cougar-free-regions"></span>
 
 ### Cougar-free regions
 
@@ -368,9 +420,13 @@ Cougars are not known to be found in the following regions:
 - [Winding River](./Winding%20River.md)
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
 
+<span id="hunting"></span><span id="Hunting"></span>
+
 ## Hunting
 
 Hunting a Cougar is one of the most dangerous activities in _The Long Dark_, and requires immense preparation beforehand in order to avoid a quick and easy death.
+
+<span id="damage_values"></span><span id="Damage_Values"></span><span id="damage-values"></span>
 
 ### Damage Values
 
@@ -383,6 +439,8 @@ The chart below shows how damage is calculate when injuring a Cougar.
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 0.6x | 0.35x | 0.35x | 0.2x | 0.2x |
 
+<span id="critical_hits"></span><span id="Critical_Hits"></span><span id="critical-hits"></span>
+
 ### Critical Hits
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chances based on the body part that was shot on the animal.
@@ -393,6 +451,8 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 10% | 5% | 5% | 0% | 0% |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 5% | 2% | 2% | 0% | 0% |
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
+
+<span id="base_weapon_damage"></span><span id="Base_Weapon_Damage"></span><span id="base-weapon-damage"></span>
 
 ### Base Weapon Damage
 
@@ -408,6 +468,8 @@ Cougars take large amounts of damage to kill. Higher [Rifle Firearm](./Rifle%20F
 | [Archery](./Archery.md) 2 - 4 | 88 |
 | [Archery](./Archery.md) 5 | 100 |
 
+<span id="general_preparation"></span><span id="General_Preparation"></span><span id="general-preparation"></span>
+
 ### General Preparation
 
 Avoid carrying any unnecessary items that will slow the player down. Always ensure that your [Encumbrance](./Encumbrance.md) is at least 5.00-10.00kg below the max carry capacity to be safe. Always ensure that the survivor is well rested to avoid low [Fatigue](./Fatigue.md) and thus low [Stamina](./Stamina.md) for sprinting when a Cougar charges. Familiarize yourself with the area in and around a Cougar's Territory and learn what buildings, shelters, and other hostile wildlife are in the general area.
@@ -418,9 +480,13 @@ Avoid hunting a Cougar at night or during foggy weather, as this make the player
 
 Aurora Cougars are even more deadly than usual, so great care must be taken if hunting an Aurora Cougar. It is otherwise generally advised to simply avoid an Aurora Cougar if possible.
 
+<span id="safehouse_supplies"></span><span id="Safehouse_Supplies"></span><span id="safehouse-supplies"></span>
+
 ### Safehouse Supplies
 
 It is generally a good idea to build up multiple [Safehouses](./Safehouse.md) filled with useful supplies in the region in case the Cougar successfully gives the player Severe Lacerations, as the player will need to recover for the next 72 hours and cannot sprint to escape danger very easily. Having the necessary supplies to hunker down while on the mend is vastly preferable than scrounging for what you need while in an emergency. Always ensure a steady supply of food, potable water, medicine, and firewood is on hand that the player can use.
+
+<span id="first_aid"></span><span id="First_Aid"></span><span id="first-aid"></span>
 
 ### First Aid
 
@@ -433,6 +499,8 @@ Make sure to carry plenty of First Aid supplies should a Struggle occur, as a St
 - An ![Emergency Stim icon](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) if the player is attacked and needs to run away fast (though you cannot outrun the Cougar forever).
 - A ![Bedroll icon](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) of some kind in case the player ends up in a building without a bed and ![Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) to help recover Condition while sleeping.
 
+<span id="attacks_and_struggles"></span><span id="Attacks_and_Struggles"></span><span id="attacks-and-struggles"></span>
+
 ### Attacks and Struggles
 
 Cougars possess two types of attacks, a 'glancing blow' and a Cougar Struggle. Both occur when a Cougar makes physical contact with the survivor. The number of shots you've taken at the Cougar will determine, which type of attack the Cougar will use on its next charge:
@@ -444,6 +512,8 @@ The shots do not have to hit, it's enough to shoot in the direction of the Couga
 
 After a Cougar Struggle the shot counter is reset to zero. This means you need to get one shot in again to prevent a second Struggle. This shot counter seems to even persist if you leave the region or pass time. So if you shoot at a Cougar, then leave the region, it can be good to note down how many shots you've taken.
 
+<span id="glancing_attacks"></span><span id="Glancing_Attacks"></span><span id="glancing-attacks"></span>
+
 #### **Glancing Attacks**
 
 Glancing Attacks only occur when the player has taken 1-3 shots at the charging Cougar with a ranged weapon (e.g. [Hunting Rifle](./Hunting%20Rifle.md)). Glancing Attacks are somewhat similar to [Timberwolf](./Timberwolf.md) "bite-and-run" attacks, where The Cougar deals damage to the player as it attacks and swipes the weapon out of the survivor's hand.
@@ -453,6 +523,8 @@ Glancing Attacks only occur when the player has taken 1-3 shots at the charging 
 - Equipped weapon drops after the attack.
 
 After a Glancing Attack the Cougar will run away.
+
+<span id="cougar_struggle"></span><span id="Cougar_Struggle"></span><span id="cougar-struggle"></span>
 
 #### Cougar Struggle
 
@@ -471,9 +543,13 @@ The Cougar only uses its Struggle Attack in two cases: if it reaches the survivo
 
 After a Struggle the Cougar will be running away to a safe distance before engaging the player again some time later.
 
+<span id="dont_be_afraid_to_retreat"></span><span id="Don&#x27;t_be_afraid_to_retreat"></span><span id="don&#x27;t_be_afraid_to_retreat"></span><span id="dont-be-afraid-to-retreat"></span>
+
 ### Don't be afraid to retreat
 
 A Cougar's health remains the same once damaged, and sometimes retreating is the best option when the player is severely wounded. Having a fall back plan beforehand and retreating to your Safehouse full of supplies to heal up if things don't go well is generally the best way to ensure your survival.
+
+<span id="strategies"></span><span id="Strategies"></span>
 
 ### Strategies
 
@@ -486,11 +562,15 @@ A Cougar's health remains the same once damaged, and sometimes retreating is the
 - When faced with a charging Cougar, it is better to shoot and miss than to risk not being able to shoot in time and getting caught up in a struggle.
 - Attacking a Cougar will cause additional Cougars to spawn in different locations in the same region. These will de-spawn after a number of days, but caution is advised, when travelling back to base after a Cougar encounter.
 
+<span id="legacy_information_cougar_1.0"></span><span id="Legacy_Information:_Cougar_1.0"></span><span id="legacy_information:_cougar_1.0"></span><span id="legacy-information-cougar-10"></span><span id="1.0"></span>
+
 ## Legacy Information: Cougar 1.0
 
 The Cougar was initially implemented in patch Tales From The Far Territory DLC part 5 (June 2024), but was reworked in the Part 6 (December 2024) DLC patch. The following section contains deprecated information about this legacy (Cougar 1.0) version, of which only some mechanics are still reflected in-game.
 
 The Cougar used to occupy a region once the survivor had spent enough consecutive days there. Cougar Threat could be mitigated by regularly traveling between different regions. Once a Cougar occupied a region it would remain there until killed or the survivor remained outside that region for a period of days.
+
+<span id="cougar_encroaching"></span><span id="Cougar_Encroaching"></span><span id="cougar-encroaching"></span>
 
 ### Cougar Encroaching
 
@@ -501,9 +581,13 @@ The Cougar used to occupy a region once the survivor had spent enough consecutiv
 
 **Note**: all Indoor areas and transition mines/caves are children to a region, and were counted for cougar presence.
 
+<span id="cougar_threat_arrived"></span><span id="Cougar_Threat_Arrived"></span><span id="cougar-threat-arrived"></span>
+
 ### Cougar Threat Arrived
 
 If the survivor remained within the same region when the Cougar arrived, that region would become infested and the Cougar would begin hunting them until they or it are killed, or the survivor fled the region for a number of days. Once arrived the Cougar could attack at **any time while outdoors.** It beared multiple similarities to The Darkwalker.
+
+<span id="destroying_the_den"></span><span id="Destroying_the_Den"></span><span id="destroying-the-den"></span>
 
 ### Destroying the Den
 
@@ -512,6 +596,8 @@ If the survivor remained within the same region when the Cougar arrived, that re
 This den could be temporarily destroyed by throwing **THREE** [Noisemakers](./Noisemaker.md) at it, collapsing the cave and suppressing Cougar activity across the Island for a long time.
 
 Once the survivor begun attacking the den with Noisemakers, The Cougar would begin hunting them immediately until the den was destroyed. Contrary to developer's statements, the Cougars were a scripted event by, essentially, teleporting onto the player on a random occasion and trigger a struggle before fleeing and vanishing should it not be killed.
+
+<span id="struggles"></span><span id="Struggles"></span>
 
 ### Struggles
 
@@ -525,6 +611,8 @@ If "Strike" is chosen the selected weapon will draw, and the survivor will have 
 - If the shot hits: The Cougar it will be found dead nearby when the survivor awakes. The Cougar infestation in the region will also end for a time.
 - If the shot misses: The Cougar will escape and continue hunting the survivor. Can result in a new cougar struggle as early as 2 hours later.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The Cougar is based off of the Cougar (**_Puma concolor_**), a species of Felidae found in North American and known by over 40 different English names. The most common names for this species include Puma, Cougar, Mountain Lion, Panther, and Catamount (the later meaning cat of the mountain).
@@ -537,6 +625,8 @@ If "Strike" is chosen the selected weapon will draw, and the survivor will have 
   - [Naturalist Notebook 2](./Naturalist%20Notebook%202.md)
 - It is implied by [The Foreman](./The%20Foreman.md) and the description of [Rüdiger's Watch](./R%C3%BCdiger%27s%20Watch.md) that [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md) was once attacked by a Cougar.
 - The Cougar was reworked due to the majority of players disliking the old Cougar system.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -568,6 +658,8 @@ _Art of [Last Horizon](./Last%20Horizon.md) with the Cougar stalking someone_
 
 ![Red Cougar Head icon when outdoors in a Cougar-infested Region (Pre-rework)](../assets/CougarRedWarningIcon.jpeg)
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
@@ -577,9 +669,11 @@ _Art of [Last Horizon](./Last%20Horizon.md) with the Cougar stalking someone_
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
   - Returned the Cougar to Survival Mode as "Cougar 2.0 Redux."
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. If carcass is harvested[↩︎](#fnref1)
-2. If carcass is quartered.[↩︎](#fnref2)
+1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
+2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)

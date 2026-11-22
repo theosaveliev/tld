@@ -6,7 +6,7 @@
 
 [Forest Talker Collectible, Part Two icon](../assets/Forest_Talker_Collectible%2C_Part_Two_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)
 
@@ -36,13 +36,17 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Collectible, Part Two_ from near a metal container just past the workbench on the upper floor of the barn at [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Collectible, Part Two**_
 
 ...people aren't ready for this kind of change. They live among nature, but not with it. Inviting the machines in, well, they'll see how that goes for them down the road. It's on the road where we'll make our stand.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

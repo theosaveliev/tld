@@ -30,6 +30,8 @@ Has a forge
 
 **Maintenance Yard** is a location in [Broken Railroad](./Broken%20Railroad.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The maintenance yard consists of a building, a large outdoor area, and a few partially open outbuildings, all mostly enclosed by a chainlink fence. Surrounding the main warehouse-like building are various industrial materials and [vehicles](./Car.md). There are plenty of crates and pallets in the yard. The main building houses a partially dismantled truck on a lift, numerous containers, and a bed, as well as a [workbench](./Work%20Bench.md). A small gatehouse sits near the main entrance to the yard. UNLIKE other inside spaces you can build a campfire inside on most of the snowy areas inside the maintenance yard building.
@@ -44,9 +46,13 @@ The Yard is also relatively close to the [Hunting Lodge](./Hunting%20Lodge.md), 
 
 However, even with these benefits, the location can be dangerous; [wolves](./Wolf.md) patrol the front and back of the yard, so coming and going can be troublesome in early game. You should crouch when you come out of the doors. There are also a few "live" wires inside the warehouse; they can be a minor hazard during an aurora, so tread with caution.
 
+<span id="story_mode"></span><span id="Story_mode"></span><span id="story-mode"></span>
+
 ## Story mode
 
 In Episode 2 of [Wintermute](./Wintermute.md), Will has to go to the Maintenance Yard to find and later repair the [Bear Spear](./Bear%20Spear.md) in the Forge.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

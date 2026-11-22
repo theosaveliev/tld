@@ -50,6 +50,8 @@ Clothing Slot
 
 The **Wolfskin Pants** is an article of [Clothing](./Clothing.md) that can be [Crafted](./Crafting.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Blueprint for crafting these pants must first be obtained by trading for the [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md) from the [Trader](./Trader.md).
@@ -59,6 +61,8 @@ They are the warmest pants in the game, tied for total warmth with [Snow Pants](
 They are also more effective than other pants when wet, due to having higher warmth rather than windproofing.
 
 They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), and are most useful on [Interloper](./Interloper.md) or [Misery](./Misery.md) given that they outperform [Deerskin pants](./Deerskin%20Pants.md) for warmth, and [Snow Pants](./Snow%20Pants.md) do not spawn.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -78,10 +82,14 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 
 **Quantity:** 4
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![3d model](../assets/Wolfskin_Pants_model.png)
 
 ![3d model damaged](../assets/Wolfskin_Pants_damaged.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

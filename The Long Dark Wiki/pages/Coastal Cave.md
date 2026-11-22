@@ -16,6 +16,8 @@ Region
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
-The cave is noteworthy for having a Salt Depost partway through.
+The cave is noteworthy for having a [Salt Depost](./Salt%20Deposit.md) partway through.

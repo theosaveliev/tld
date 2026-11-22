@@ -14,6 +14,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Two caves are present at Deer Clearing: the [Ash Canyon](./Ash%20Canyon.md) transition cave is in the south, which is a winding cavern with many dead ends. This cave can provide shelter from the elements. The other cave is shallow and may yield containers with loot, including a [Hatchet](./Hatchet.md), [Dog Food](./Dog%20Food.md), and [Cedar Firewood](./Cedar%20Firewood.md).
@@ -36,6 +38,8 @@ _Container 2:_ atop a rocky hill. This container does not spawn on Interloper mo
 - Lower door: [Combat Boots](./Combat%20Boots.md), [work boots](./Work%20Boots.md), [running shoes](./Running%20Shoes.md), [Trail Boots](./Trail%20Boots.md), [wool socks](./Wool%20Socks.md) and [sports socks](./Sports%20Socks.md)
 
 If the player places a [climbing rope](./Mountaineering%20Rope.md) at the spot on the level of Eric's Falls, the player can descend to the [Engine](./Engine%20%28East%29.md) area. Placing a rope here will significantly decrease the time needed to get from the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) to the [Summit](./Summit.md), since the player will no longer have to walk all the way around through Deer Clearing.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

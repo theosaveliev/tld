@@ -6,7 +6,7 @@
 
 [Revolver Firearm background](../assets/Revolver_Firearm_background.png)
 
-**Release:** [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+**Release:** [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)
 
 **Date:** 6 May 2019
 
@@ -16,11 +16,15 @@
 
 A firearm's ability to attack from range allows can frighten or killing wildlife from relative safety.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The [Revolver](./Revolver.md) is a self defense tool used to fire [Revolver Ammunition](./Revolver%20Ammunition.md) at targets. The high-velocity rounds travel in a straight line and can cause significant injury to smaller animals, including [wolves](./Wolf.md) and [timberwolves](./Timberwolf.md). However the weapon lacks of stopping power, making it ineffective against [bear](./Bear.md) and [moose](./Moose.md). Revolvers may also be selected to defend oneself during a Wolf [Struggle](./Struggle.md), and if loaded, the option to "Take Shot" may appear, which if selected will end the struggle immediately: scaring off or killing the wolf.
 
 Shots from the Revolver which hit an animal's head or torso (indicated by a bloodsplatter, or blood drops), are always lethal but due to the weapon's low stopping power, this may take several hours (in-game) for it to bleed to death.
+
+<span id="revolver_firearm_skill"></span><span id="Revolver_Firearm_Skill"></span><span id="revolver-firearm-skill"></span>
 
 ## Revolver Firearm Skill
 

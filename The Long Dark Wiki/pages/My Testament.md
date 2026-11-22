@@ -28,6 +28,8 @@
 
 **My Testament** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found the control room next to [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md). This is the same transcript that comes over the intercom after the player awakes from touching the Machine.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **My Testament**_
@@ -51,6 +53,8 @@ It is only a matter of WHEN, and it is in uncovering the WHEN that I will define
 Once again.
 
 I have seen the new horizon.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -26,12 +26,16 @@
 
 **The Wounded Trapper** is the first mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) must help find medical supplies and radio parts for [Jeremiah](./Jeremiah.md) following his encounter with the [Old Bear](./Old%20Bear.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Enter the [abandoned dam](./Carter%20Hydro%20Dam.md).
 - Find medical supplies for the old trapper.
 - Find the radio parts the trapper needs.
 - Get the medical supplies back to the old trapper before he dies.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -51,6 +55,8 @@ Go up the stairs to the second floor. On a desk near the elevator are some radio
 On a desk in the office space is a note to find a supply cache in [Alan's Cave](./Alan%27s%20Cave.md).
 
 Return to Jeremiah. The mission ends with a cutscene in which Jeremiah attempts to fix the shortwave radio in his cabin using the radio parts Mackenzie brought back from the dam, while telling the story of the [Bear Spear](./Bear%20Spear.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

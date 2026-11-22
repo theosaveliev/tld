@@ -28,6 +28,8 @@
 
 **Interview Transcript 12** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the Tale progresses.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Interview Transcript 12**_
@@ -61,6 +63,8 @@ It moves to the edge of the hole. No face, just a moving shape. Uh...a shadow.
 Is it me? My face? Goddammit.
 
 And that’s when I wake up. Every damn time.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

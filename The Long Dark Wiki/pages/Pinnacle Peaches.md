@@ -22,7 +22,7 @@
 
 Release
 
-[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 Wintermute
 
@@ -84,6 +84,8 @@ GAMEPLAY\_PinnaclePeaches
 
 **Pinnacle Peaches** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Pinnacle Peaches restores a moderate amount of calories and hydration. It may also be warmed by a [fire](./Fire.md), to make progress in [Cooking](./Cooking.md) [Survival Skill](./Skills.md), and consumed while hot to grant the benefit [Warming Up](./Warming%20Up.md). Pinnacle Peaches have relatively low energy density (on par with that of cooked meats), making them relatively inefficient as a travelling food.
@@ -91,6 +93,8 @@ Consuming Pinnacle Peaches restores a moderate amount of calories and hydration.
 Like other canned foods, Pinnacle Peaches may be opened with a [Can Opener](./Can%20Opener.md) or [bladed tool](./Tools.md), or smashed open (with no tool) but spilling some of its contents. If opened with a tool a [Recycled Can](./Recycled%20Can.md) is received after consuming the contents.
 
 Pinnacle Peaches are relatively common inside homes, usually in cupboards or on shelves. They can also be found in stores.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -100,14 +104,20 @@ Pinnacle Peaches are relatively common inside homes, usually in cupboards or on 
 | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
 | [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Pinnacle Beaches is packaged as the namesake product "_Pinnacle Peaches"_.
 - The side of the can lists "Ingredients: Water, Peaches, Sugar."
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model](../assets/Pinnacle_peaches.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

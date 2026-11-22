@@ -20,6 +20,8 @@
 
 This is the mission transcript for mission 4 [Paradise Lost](./Paradise%20Lost.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 CHAPTER FOUR
@@ -59,6 +61,8 @@ Grey Mother: "It's like losing your own life. You have a kind heart, Mackenzie. 
 Will Mackenzie: "Thank you. I'll come back for you..."
 
 Grey Mother: "You've done a lot for me Mackenzie. I won't forget you."
+
+<span id="leave_milton"></span><span id="Leave_Milton"></span><span id="leave-milton"></span>
 
 ### Leave Milton
 

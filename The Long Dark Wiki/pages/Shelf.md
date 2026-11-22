@@ -42,6 +42,8 @@ The player can find and store many different usable items such as [Food And Drin
 
 As with most wooden furniture, shelves can be broken down without any tools or using a hatchet for a yield of [Reclaimed Wood](./Reclaimed%20Wood.md).
 
+<span id="wide_shelf"></span><span id="Wide_Shelf"></span><span id="wide-shelf"></span>
+
 ## Wide Shelf
 
 A wide Shelf can be harvested for 6 Reclaimed Wood after 1 hour 30 minutes.
@@ -51,6 +53,8 @@ A wide Shelf can be harvested for 6 Reclaimed Wood after 1 hour 30 minutes.
 | 6 | 1 hour 30 minutes |  | -2% Hatchet |
 | 6 |  |  | -3% Improvised Hatchet |
 | 6 |  |  | -0.5% Heavy Hammer |
+
+<span id="large_shelfbookshelf"></span><span id="Large_Shelf/Bookshelf"></span><span id="large_shelf/bookshelf"></span><span id="large-shelfbookshelf"></span>
 
 ## Large Shelf/Bookshelf
 
@@ -62,9 +66,13 @@ Bookshelves are thick shelves that usually hold books and supplies. Large Shelve
 | 8/1 Tinder Plug |  |  | -3% Improvised Hatchet |
 | 8/1 Tinder Plug |  |  | -0.5% Heavy Hammer |
 
+<span id="gun_rack_shelf"></span><span id="Gun_Rack_Shelf"></span><span id="gun-rack-shelf"></span>
+
 ## Gun Rack Shelf
 
 Gun racks allow [Hunting Rifles](./Hunting%20Rifle.md) to be placed on them, but can also be broken down. They either have 1 or 2 racks for placing rifles.
+
+<span id="double_rack"></span><span id="Double_Rack"></span><span id="double-rack"></span>
 
 ### Double Rack
 
@@ -73,6 +81,8 @@ Gun racks allow [Hunting Rifles](./Hunting%20Rifle.md) to be placed on them, but
 | 2 | 15 minutes | 45 | -2% Hatchet |
 | 2 | 20 minutes | 58 | -3% Improvised Hatchet |
 | 2 | 22 minutes | 68 | -0.5% Heavy Hammer |
+
+<span id="single_rack"></span><span id="Single_Rack"></span><span id="single-rack"></span>
 
 #### Single Rack
 

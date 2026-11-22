@@ -24,9 +24,13 @@ Has a bed
 
 Has an interior The **Cannery Worker Residences** is a collection of houses that once probably housed some of the employees of the [Last Resort Cannery](./Last%20Resort%20Cannery.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 There are four houses at the location, two of which are burned, and one of which is boarded-up. The last is enterable and contains a fireplace for cooking. Outside on the frozen water is an ice fishing hut; just a little further is a good place for [beachcombing](./Beachcombing.md). South of the site is the [Fallen Lighthouse](./Fallen%20Lighthouse.md), which provides a 6-burner [stove](./Stove.md) (the only one not indoors) for efficient cooking and a [Distress Pistol](./Distress%20Pistol.md) found in an [Emergency Kit](./Emergency%20Kit.md) at the top of the Lighthouse.
+
+<span id="safehouse"></span><span id="Safehouse"></span>
 
 ## Safehouse
 

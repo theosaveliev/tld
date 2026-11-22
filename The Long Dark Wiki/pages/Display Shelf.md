@@ -18,11 +18,15 @@
 
 The **Display Shelf** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 While the preview image shows nine cubbies, the final product actually has only six. The two drawers can hold up to 10 kg each.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -41,5 +45,7 @@ While the preview image shows nine cubbies, the final product actually has only 
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 12
+
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
 
 ## Update History

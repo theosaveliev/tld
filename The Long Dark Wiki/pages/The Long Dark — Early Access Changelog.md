@@ -108,6 +108,8 @@ _For the changelog for versions 1.50 to 1.99, see [The Long Dark/Changelog/Archi
 
 _For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archive 1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md)._
 
+<span id="section"></span><span id="0.426"></span><span id="0426"></span>
+
 ### 0.426
 
 Released: 15 June 2017
@@ -145,6 +147,8 @@ Size: 229.0 MB
 - Fixed issue with Lantern sometimes not equipping after leaving a UI screen
 - Use LT/RT instead of LB/RB for top level navigation in Fire UI
 
+<span id="faithful_cartographer_update"></span><span id="0.423_(Faithful_Cartographer_Update)"></span><span id="0.423_(faithful_cartographer_update)"></span><span id="0423-faithful-cartographer-update"></span><span id="0.423"></span>
+
 ### 0.423 (Faithful Cartographer Update)
 
 Released: 8 June 2017
@@ -174,6 +178,8 @@ Size: 1.2 GB
 - [Steam - The Long Dark -- Sandbox Alpha Updated to v.423 -- "Faithful Cartographer"](http://steamcommunity.com/games/305620/announcements/detail/1315462370961876654)
 - [Hinterland Forums - The Long Dark Sandbox Updated to v.423 -- “Faithful Cartographer” -- Release Notes](http://www.hinterlandforums.com/index.php?/topic/15498-the-long-dark-sandbox-updated-to-v423-faithful-cartographer/)
 
+<span id="section_1"></span><span id="0.393"></span><span id="0393"></span>
+
 ### 0.393
 
 Released: 13 January 2017
@@ -186,6 +192,8 @@ Size: 187.9 MB
 
 - [Steam - The Long Dark -- Hotfixed to v.393](http://steamcommunity.com/games/305620/announcements/detail/248095943889774000)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v.393](http://www.hinterlandforums.com/index.php?/topic/14083-the-long-dark-hotfixed-to-v393/)
+
+<span id="section_2"></span><span id="0.392"></span><span id="0392"></span>
 
 ### 0.392
 
@@ -221,6 +229,8 @@ Size: 308.6 MB
 - Fixed issue with Snares not being visible at moderate distance
 - Updated copyright notice on main menu
 
+<span id="section_3"></span><span id="0.388"></span><span id="0388"></span>
+
 ### 0.388
 
 Released: 21 December 2016
@@ -234,36 +244,40 @@ Size: 313.6 MB
 - Fixed bear getting stuck inside rail car in Forlorn Muskeg region
 - Fixed broken stats for old save games
 
+<span id="resolute_outfitter_update"></span><span id="0.386_(Resolute_Outfitter_Update)"></span><span id="0.386_(resolute_outfitter_update)"></span><span id="0386-resolute-outfitter-update"></span><span id="0.386"></span>
+
 ### 0.386 (Resolute Outfitter Update)
 
 Released: 19 December 2016
 
 Size: 308.4 MB
 
-- \[NEW!\] Addition of new region: Forlorn Muskeg
-- \[NEW!\] Addition of new enhanced Clothing system and assets; refer to the detailed design notes on this new system as it changes core gameplay significantly!
-- \[NEW!\] Affliction: Frostbite
-- \[Crash\] Fixed intro video crash on Windows XP
-- \[Crash\] Fix for rare crash when placing footprints
-- \[Gameplay\] Retuned Sprint Stamina recovery and Fatigue cost
-- \[Gameplay\] Retuned cool downs on Heated drinks; they will now stay warm much longer
-- \[Gameplay\] Retuned Hypothermia recovery times
-- \[Gameplay\] Retuned Hypothermia Risk times; it now takes longer to develop Hypothermia
-- \[Gameplay\] Hypothermia recovery times now modified by Experience Mode
-- \[Gameplay\] Added ability to relight a burned out Campfire
-- \[Gameplay\] Made Scrub Brush harvestable for fuel
-- \[UI\] Added new Clothing “Paper Doll” interface
-- \[UI\] Decoy moved to the Camp Craft submenu on the radial
-- \[UI\] Fix for buttons overlapping when progress bar is active on inventory UI
-- \[UI\] Accelerant now stacks (no longer degrades)
-- \[Bug\] Fixed bug that caused Fluffy to fall through the floor of the Dam
-- \[Bug\] Fixed bug that prevented Challenge retries from working properly
-- \[Bug\] Fixed bug that caused audio to be muffled after started a game after a drowning death
-- \[Bug\] Fixed bug that caused wind audio to cut out in interiors
-- \[Bug\] Fixed issue where it was possible to equip partially crafted clothing items
-- \[Bug\] Fixed bug with showing "Repair" instead of "Read" for books when using gamepad
-- \[Bug\] Fix issues with Distress Pistol not animating and playing audio
-- \[Bug\] Fixed snow shelter rendering glitches
+- [NEW!] Addition of new region: Forlorn Muskeg
+- [NEW!] Addition of new enhanced Clothing system and assets; refer to the detailed design notes on this new system as it changes core gameplay significantly!
+- [NEW!] Affliction: Frostbite
+- [Crash] Fixed intro video crash on Windows XP
+- [Crash] Fix for rare crash when placing footprints
+- [Gameplay] Retuned Sprint Stamina recovery and Fatigue cost
+- [Gameplay] Retuned cool downs on Heated drinks; they will now stay warm much longer
+- [Gameplay] Retuned Hypothermia recovery times
+- [Gameplay] Retuned Hypothermia Risk times; it now takes longer to develop Hypothermia
+- [Gameplay] Hypothermia recovery times now modified by Experience Mode
+- [Gameplay] Added ability to relight a burned out Campfire
+- [Gameplay] Made Scrub Brush harvestable for fuel
+- [UI] Added new Clothing “Paper Doll” interface
+- [UI] Decoy moved to the Camp Craft submenu on the radial
+- [UI] Fix for buttons overlapping when progress bar is active on inventory UI
+- [UI] Accelerant now stacks (no longer degrades)
+- [Bug] Fixed bug that caused Fluffy to fall through the floor of the Dam
+- [Bug] Fixed bug that prevented Challenge retries from working properly
+- [Bug] Fixed bug that caused audio to be muffled after started a game after a drowning death
+- [Bug] Fixed bug that caused wind audio to cut out in interiors
+- [Bug] Fixed issue where it was possible to equip partially crafted clothing items
+- [Bug] Fixed bug with showing "Repair" instead of "Read" for books when using gamepad
+- [Bug] Fix issues with Distress Pistol not animating and playing audio
+- [Bug] Fixed snow shelter rendering glitches
+
+<span id="t"></span><span id="0.377T"></span><span id="0.377t"></span><span id="0377t"></span>
 
 ### 0.377T
 
@@ -272,6 +286,8 @@ Released: 2 December 2016
 Size: ? MB
 
 - Enhanced clothing system testing
+
+<span id="section_4"></span><span id="0.375"></span><span id="0375"></span>
 
 ### 0.375
 
@@ -283,6 +299,8 @@ Size: 166.8 MB
 - Fixed issue where Glowing Red Eyes persisted in wolves past the end of the 4 Days of Night Event.
 - [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) disabled
 
+<span id="section_5"></span><span id="0.373"></span><span id="0373"></span>
+
 ### 0.373
 
 Released: 30 October 2016
@@ -290,6 +308,8 @@ Released: 30 October 2016
 Size: ? MB
 
 - Removed Parasites and Cabin Fever afflictions for the duration of the "4 Days of Night" event
+
+<span id="section_6"></span><span id="0.365"></span><span id="0365"></span>
 
 ### 0.365
 
@@ -309,6 +329,8 @@ Size: 284.7 MB
 - Fixed issue with movement speed if Struggle is triggered when player is crouching
 - Optimized audio in Desolation Point to prevent potential sound hitches
 - General fixes to Environment art and collision
+
+<span id="vigilant_trespass_update"></span><span id="0.364_(Vigilant_Trespass_Update)"></span><span id="0.364_(vigilant_trespass_update)"></span><span id="0364-vigilant-trespass-update"></span><span id="0.364"></span>
 
 ### 0.364 (Vigilant Trespass Update)
 
@@ -395,6 +417,8 @@ Size: 989.1 MB
 - [Steam - The Long Dark - THE LONG DARK SANDBOX UPDATED to v.364: "VIGILANT TRESPASS"](http://steamcommunity.com/games/305620/announcements/detail/580226264172519097)
 - [Hinterland Forums - THE LONG DARK SANDBOX UPDATED to v.364, “VIGILANT TRESPASS”](http://hinterlandforums.com/index.php?/topic/12714-the-long-dark-sandbox-updated-to-v364-%E2%80%9Cvigilant-trespass%E2%80%9D/#comment-81620)
 
+<span id="penitent_scholar_update"></span><span id="0.349_(Penitent_Scholar_Update)"></span><span id="0.349_(penitent_scholar_update)"></span><span id="0349-penitent-scholar-update"></span><span id="0.349"></span>
+
 ### 0.349 (Penitent Scholar Update)
 
 Released: 1 July 2016
@@ -414,6 +438,8 @@ Size: 197.9 MB
 - [Steam - The Long Dark - The Long Dark Hotfixed to v.349](http://steamcommunity.com/games/305620/announcements/detail/577966826615311512)
 - [Hinterland Forums - HOTFIX to v.349 for "Penitent Scholar"](http://hinterlandforums.com/index.php?/topic/11851-hotfix-to-v349-for-penitent-scholar/&do=findComment&comment=72856)
 
+<span id="section_7"></span><span id="0.348"></span><span id="0348"></span>
+
 ### 0.348
 
 Released: 25 June 2016
@@ -427,6 +453,8 @@ Size: 187.3 MB
 
 - [Steam - The Long Dark - THE LONG DARK SANDBOX HOTFIXED to v.348](http://steamcommunity.com/games/305620/announcements/detail/577966219961825778)
 - [Hinterland Forums - THE LONG DARK SANDBOX HOTFIXED to v.348](http://hinterlandforums.com/index.php?/topic/11714-the-long-dark-sandbox-hotfixed-to-v348/&do=findComment&comment=71838)
+
+<span id="section_8"></span><span id="0.347"></span><span id="0347"></span>
 
 ### 0.347
 
@@ -444,6 +472,8 @@ Size: 64.7 MB
 
 - [Steam - The Long Dark - THE LONG DARK SANDBOX HOTFIXED to v.347](http://steamcommunity.com/games/305620/announcements/detail/577966219958462842)
 - [Hinterland Forums - THE LONG DARK SANDBOX HOTFIXED to v.347](http://hinterlandforums.com/index.php?/topic/11693-the-long-dark-sandbox-hotfixed-to-v347/&do=findComment&comment=71745)
+
+<span id="section_9"></span><span id="0.346"></span><span id="0346"></span>
 
 ### 0.346
 
@@ -484,10 +514,12 @@ Size: 329.2 MB
 - Player is warped to a safe location if we detect player has fallen through world
 - Screenshot keys no longer force UI to chance from Gamepad to Mouse/Keyboard
 - Significantly reduced color banding in low light conditions
-- \[For Streamers\] We've added support for being able to access a second monitor without Alt-Tabbing. (Note that this will become a toggle in a future hotfix.)
+- [For Streamers] We've added support for being able to access a second monitor without Alt-Tabbing. (Note that this will become a toggle in a future hotfix.)
 
 - [Steam - The Long Dark - The Long Dark -- Sandbox Alpha Updated to v.346 -- "Penitent Scholar"](http://steamcommunity.com/games/305620/announcements/detail/577966219955222312)
 - [Hinterland Forums - The Long Dark Sandbox Alpha Updated to v.346 -- "PENITENT SCHOLAR"](http://hinterlandforums.com/index.php?/topic/11661-the-long-dark-sandbox-alpha-updated-to-v346-penitent-scholar/&do=findComment&comment=71596)
+
+<span id="section_10"></span><span id="0.338"></span><span id="0338"></span>
 
 ### 0.338
 
@@ -495,25 +527,27 @@ Released: 25 May 2016
 
 Size: 105.4 MB
 
-- \[CRASH\] Fixed Mac-specific crash when exiting interiors in Coastal Highway.
-- \[CRASH\] Fixed rare crash on Windows at startup.
-- \[SAVING\] Fixed issue with game not saving on some Unicode Windows systems.
-- \[SAVING\] Fixed problem with starting the game in an interior in Pleasant Valley and not saving the state of that interior.
-- \[GAMEPLAY\] Improved the Warmth benefit gained by Sprinting.
-- \[GAMEPLAY\] Added Cabin Fever Risk.
-- \[GAMEPLAY\] Intestinal Parasites now only occur in Stalker.
-- \[GAMEPLAY\] Reduced chance of fishing line breaking upon successfully catching a Fish.
-- \[GAMEPLAY\] Tuned Fatigue so players are likely to be able to Rest through an entire night after a full day of activity.
-- \[ART\] Improved lighting for all interiors, including a new system for Time of Day lighting.
-- \[MISC.\] Added a Brightness slider to Display Options.
-- \[BUG\] Fixed issue with AI sometimes teleporting while pathfinding.
-- \[BUG\] Fixed issue with bears not respawning.
-- \[BUG\] Fixed issue where antibiotics button could reappear when already taken dose for parasites that day.
-- \[BUG\] Fixed issue with screen inverting when inspecting the Magnifying Glass.
-- \[BUG\] Fixed issue with JackRabbit Island not being discoverable.
+- [CRASH] Fixed Mac-specific crash when exiting interiors in Coastal Highway.
+- [CRASH] Fixed rare crash on Windows at startup.
+- [SAVING] Fixed issue with game not saving on some Unicode Windows systems.
+- [SAVING] Fixed problem with starting the game in an interior in Pleasant Valley and not saving the state of that interior.
+- [GAMEPLAY] Improved the Warmth benefit gained by Sprinting.
+- [GAMEPLAY] Added Cabin Fever Risk.
+- [GAMEPLAY] Intestinal Parasites now only occur in Stalker.
+- [GAMEPLAY] Reduced chance of fishing line breaking upon successfully catching a Fish.
+- [GAMEPLAY] Tuned Fatigue so players are likely to be able to Rest through an entire night after a full day of activity.
+- [ART] Improved lighting for all interiors, including a new system for Time of Day lighting.
+- [MISC.] Added a Brightness slider to Display Options.
+- [BUG] Fixed issue with AI sometimes teleporting while pathfinding.
+- [BUG] Fixed issue with bears not respawning.
+- [BUG] Fixed issue where antibiotics button could reappear when already taken dose for parasites that day.
+- [BUG] Fixed issue with screen inverting when inspecting the Magnifying Glass.
+- [BUG] Fixed issue with JackRabbit Island not being discoverable.
 
 - [Steam - The Long Dark - The Long Dark Hotfixed to v.338 -- Crash, Lighting, Gameplay Fixes](http://steamcommunity.com/games/305620/announcements/detail/5835931856)
 - [Hinterland Forums - HOTFIX: The Long Dark Sandbox Hotfixed to v.338 -- Crash, Lighting, and Gameplay Fixes](http://hinterlandforums.com/index.php?/topic/11138-hotfix-the-long-dark-sandbox-hotfixed-to-v338-crash-lighting-and-gameplay-fixes/&do=findComment&comment=68191)
+
+<span id="section_11"></span><span id="0.332"></span><span id="0332"></span>
 
 ### 0.332
 
@@ -541,6 +575,8 @@ Size: 90.3 MB
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.332](http://steamcommunity.com/games/305620/announcements/detail/590346047949108349)
 - [Hinterland Forums - HOTFIX to v.332](http://hinterlandforums.com/index.php?/topic/10860-hotfix-to-v332/&do=findComment&comment=65360)
 
+<span id="section_12"></span><span id="0.327"></span><span id="0327"></span>
+
 ### 0.327
 
 Released: 24 April 2016
@@ -553,6 +589,8 @@ Size: 59.7 MB
 
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.327](http://steamcommunity.com/games/305620/announcements/detail/590345732302820300)
 - [Hinterland Forums - HOTFIX! The Long Dark Sandbox v.327](http://hinterlandforums.com/index.php?/topic/10701-hotfix-the-long-dark-sandbox-v327/&do=findComment&comment=64106)
+
+<span id="section_13"></span><span id="0.326"></span><span id="0326"></span>
 
 ### 0.326
 
@@ -572,6 +610,8 @@ Size: 80.5 MB
 
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.326](http://steamcommunity.com/games/305620/announcements/detail/590345412507052974)
 
+<span id="section_14"></span><span id="0.325"></span><span id="0325"></span>
+
 ### 0.325
 
 Released: 21 April 2016
@@ -590,6 +630,8 @@ Size: 77.8 MB
 - Fixed issue with reticule dot visible when holding the Distress Pistol.
 
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.325](http://steamcommunity.com/games/305620/announcements/detail/590345412500735735)
+
+<span id="tireless_menace_update"></span><span id="0.321_(Tireless_Menace_Update)"></span><span id="0.321_(tireless_menace_update)"></span><span id="0321-tireless-menace-update"></span><span id="0.321"></span>
 
 ### 0.321 (Tireless Menace Update)
 
@@ -679,6 +721,8 @@ Size: 730.2 MB
 
 - [Steam - The Long Dark -- New Update! The Long Dark Sandbox Updated to v.321: "Tireless Menace"](http://steamcommunity.com/games/305620/announcements/detail/590345412499151795)
 
+<span id="xbox_one"></span><span id="0.304_(Xbox_One)"></span><span id="0.304_(xbox_one)"></span><span id="0304-xbox-one"></span><span id="0.304"></span>
+
 ### 0.304 (Xbox One)
 
 Released: 19 February 2016
@@ -686,6 +730,8 @@ Released: 19 February 2016
 - Various fixes to address remaining known savegame corruption issues.
 
 - [Hinterland - The Long Dark Sandbox — The Long Dark Sandbox — Hotfix to v.304 (Xbox One)](http://hinterlandgames.com/the-long-dark-sandbox-hotfix-to-v-304-xbox-one/)
+
+<span id="other_platforms"></span><span id="0.302_(other_platforms)"></span><span id="0302-other-platforms"></span><span id="0.302"></span>
 
 ### 0.302 (Other platforms)
 
@@ -703,6 +749,8 @@ Size: 73.5 MB
 - [Steam - The Long Dark -- Hotfixed to v.302](http://steamcommunity.com/games/305620/announcements/detail/58911146464959586)
 - [Hinterland - The Long Dark Sandbox — Hotfix to v.302](http://hinterlandgames.com/hotfix-to-v302/)
 
+<span id="xbox_one_1"></span><span id="0.303_(Xbox_One)"></span><span id="0.303_(xbox_one)"></span><span id="0303-xbox-one"></span><span id="0.303"></span>
+
 ### 0.303 (Xbox One)
 
 Released: 3 February 2016
@@ -711,6 +759,8 @@ Released: 3 February 2016
 - Fixed issue where the game would crash if the player tried to cook too many items, too rapidly (button mashing).
 
 - [Hinterland - The Long Dark Sandbox — Hotfix to v.303 to fix XBox One Savegame Issues](http://hinterlandgames.com/hotfix-v303/)
+
+<span id="section_15"></span><span id="0.301"></span><span id="0301"></span>
 
 ### 0.301
 
@@ -723,20 +773,22 @@ Released: 18 December 2015
 - Fixed issue with the game saving when player at 0% Condition (death).
 - Fixed issue with maximum fire duration stat being tracked when fires left burning in unloaded scenes, resulting in very long burn time stats.
 - Fixed issue with world explored stat sometimes being incorrect when starting a new game.
-- Fixed issue with initial fade from black on main menu being stuck, if the player mashes buttons before main menu load. \[Controller\]
+- Fixed issue with initial fade from black on main menu being stuck, if the player mashes buttons before main menu load. [Controller]
 - Fixed issue where damage events were displayed when menu screens were open.
 - Fixed issue with pain effects potentially turning blue when stacked together.
 - Fixed animation glitches with the Distress Pistol, if trying to fire before aimed.
 - Fixed issue with being able to switch food items while cooking.
 - Fixed issues with stacked items not transferring from a container correctly.
 - Added check to give a non-duplicate default name for new saves (ex. multiple "SANDBOX 1" names).
-- Gamepad B button now always cancels text input in Log. \[Controller\]
+- Gamepad B button now always cancels text input in Log. [Controller]
 - We now display item Condition in the harvest section of the Examine screen.
 - Fixed colour of text on the Crafting screen.
 - You can now use WASD and arrow keys to scroll through the Log.
 
 - [Steam - The Long Dark Sandbox Hotfixed to v.301](http://steamcommunity.com/games/305620/announcements/detail/82553140672342660)
 - [Hinterland - The Long Dark Sandbox Hotfixed to v.301](http://hinterlandgames.com/the-long-dark-alpha-hotfix-to-v-301/)
+
+<span id="timberwolf_mountain_update"></span><span id="0.298_(Timberwolf_Mountain_Update)"></span><span id="0.298_(timberwolf_mountain_update)"></span><span id="0298-timberwolf-mountain-update"></span><span id="0.298"></span>
 
 ### 0.298 (Timberwolf Mountain Update)
 
@@ -772,7 +824,7 @@ Blog post: User blog:LegendFPS/The Long Dark — December Update (v.298), “Tim
 
 - Fixed issue with mountains being rendered in front of chain-link fence in Pleasant Valley.
 - Fixed issue where barrel smoke would be visible after re-equipping a holstered Rifle.
-- \[PC/Xbox\] Fixed potential clipping of sun/moon above the line of the horizon.
+- [PC/Xbox] Fixed potential clipping of sun/moon above the line of the horizon.
 
 - Fixed issue where mouse could occasionally exit the active game window.
 - Fixed issue where gamepad input was being received when game not in focus.
@@ -798,7 +850,7 @@ Blog post: User blog:LegendFPS/The Long Dark — December Update (v.298), “Tim
 
 - Fixed rare crash in old games when saved during certain Moon phases.
 - Fixed issue where if the survivor had a sprained wrist, a weapon would be re-equipped after loading the game.
-- \[Xbox Only\] Fixed issue where players could play without being signed in to an Xbox profile, which would result in losing game progress when the console was turned off.
+- [Xbox Only] Fixed issue where players could play without being signed in to an Xbox profile, which would result in losing game progress when the console was turned off.
 
 - Fixed issue where players required an extra night to get the Night Walker achievement.
 - Fixed issue where creating Reishi and Rosehip tea invalidated the Living Off The Land achievement.
@@ -816,10 +868,12 @@ Blog post: User blog:LegendFPS/The Long Dark — December Update (v.298), “Tim
 - Removed error noises when triggering boil water/melt snow.
 - Fixed issue with torch audio continuing to loop after harvesting a lit torch.
 - Fixed issue where Mouse adjustment sliders in the Options Menu would not trigger a sound.
-- \[Xbox Only\] Fixed issue where audio could occasionally stutter for streaming sounds.
+- [Xbox Only] Fixed issue where audio could occasionally stutter for streaming sounds.
 
 - [Steam - The Long Dark December Update: "Timberwolf Mountain"](http://steamcommunity.com/games/305620/announcements/detail/82553040176884572)
 - [Hinterland - The Long Dark — December Update (v.298), “Timberwolf Mountain”](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)
+
+<span id="mac_only"></span><span id="0.284_(Mac_only)"></span><span id="0.284_(mac_only)"></span><span id="0284-mac-only"></span><span id="0.284"></span>
 
 ### 0.284 (Mac only)
 
@@ -853,6 +907,8 @@ For more info, or to follow up with additional issues, please check the Technica
 - [Steam - The Long Dark - Mac "El Capitan" Save Loss Fix -- Hotfix to v.284 (Mac only)](http://steamcommunity.com/games/305620/announcements/detail/82549337353087323)
 - [Hinterland - Mac “El Capitan” Save Loss Fix — Hotfix to v.284 (Mac only)](http://hinterlandgames.com/mac-el-capitan-save-loss-fix-hotfix-to-v-284-mac-only/)
 
+<span id="linux_and_steam_os"></span><span id="0.283_(Linux_and_Steam_OS)"></span><span id="0.283_(linux_and_steam_os)"></span><span id="0283-linux-and-steam-os"></span><span id="0.283"></span>
+
 ### 0.283 (Linux and Steam OS)
 
 Released: 16 November 2015
@@ -875,6 +931,8 @@ Thank you!
 - [Steam - The Long Dark -- SteamOS/Linux Branch Hotfixed](http://steamcommunity.com/games/305620/announcements/detail/82550414453361091)
 - [Hinterland Forums - The Long Dark -- SteamOS/Linux Hotfix](http://www.hinterlandforums.com/viewtopic.php?f=55&t=9121)
 
+<span id="pc_and_xbox_one"></span><span id="0.282_(PC_and_Xbox_One)"></span><span id="0.282_(pc_and_xbox_one)"></span><span id="0282-pc-and-xbox-one"></span><span id="0.282"></span>
+
 ### 0.282 (PC and Xbox One)
 
 Released: 30 October 2015
@@ -886,6 +944,8 @@ Released: 30 October 2015
 - [Steam - The Long Dark -- Steam Halloween Sale!](http://steamcommunity.com/games/305620/announcements/detail/82548700180916783)
 - [Hinterland Forums - The Long Dark Sandbox Alpha — Hotfix to v.282](http://www.hinterlandforums.com/viewtopic.php?f=55&t=8873)
 
+<span id="section_16"></span><span id="0.281"></span><span id="0281"></span>
+
 ### 0.281
 
 Released: 30 October 2015
@@ -893,6 +953,8 @@ Released: 30 October 2015
 - Updated the game's Main Menu with a Halloween theme
 
 - [Steam - The Long Dark -- Steam Halloween Sale!](http://steamcommunity.com/games/305620/announcements/detail/82548700180916783)
+
+<span id="section_17"></span><span id="0.280"></span><span id="0280"></span>
 
 ### 0.280
 
@@ -906,7 +968,7 @@ Released: 16 October 2015
 - General clean-up of Gear item positions in Inspect mode.
 - Lighthouse - fixed floating clipboard after shelf breakdown
 - Fixed placed arrows sometimes falling through the world.
-- Fixed intermittent audio pauses/gaps \[Xbox One\]
+- Fixed intermittent audio pauses/gaps [Xbox One]
 
 - Fixed issue where Rifle would occasionally be lost during a Struggle.
 - Fixed issue with being able to instantly catch Rabbits in a Snare.
@@ -922,7 +984,7 @@ Released: 16 October 2015
 - When Breaking Down an item, the spawned Raw Materials are now placed based on the interaction point and not the original object's centre point.
 
 - Fixed issue where vehicle colours would reset between loads.
-- Fixed issues with game failing to save, or failing to load old saves \[Xbox One\]
+- Fixed issues with game failing to save, or failing to load old saves [Xbox One]
 
 - Updated Can Opening UI to use the cover-flow style, to make it more consistent with other selection UIs.
 - Fixed missing icon on popup when harvesting Old Man's Beard and Cattails.
@@ -934,7 +996,7 @@ Released: 16 October 2015
 - Made some improvements to how we handle auto-repeat actions (ex. holding down a key or controller stick), which should help avoid accidental repetitions.
 - Added the Time of Day information to the Rest and Ice-Fishing UI, to make it easier to plan out how long you want to Rest or Fish for.
 - Added fire duration widget while time is accelerated when using fire.
-- Fixed sort/filter icons not appearing on container screen \[Xbox One\].
+- Fixed sort/filter icons not appearing on container screen [Xbox One].
 - Added lantern and torch icons to equip popup.
 - Fixed issue where "Rest Remaining" on first aid could round down to zero.
 - Fixed issue where HUD condition icons were partially covered during time accelerated actions.
@@ -950,6 +1012,8 @@ Released: 16 October 2015
 
 - [Steam - The Long Dark Sandbox -- Updated to v.280 &amp; SteamOS/Linux News](http://steamcommunity.com/games/305620/announcements/detail/82547431661367900)
 
+<span id="section_18"></span><span id="0.271"></span><span id="0271"></span>
+
 ### 0.271
 
 Released: 30 September 2015
@@ -958,6 +1022,8 @@ Released: 30 September 2015
 - Fix for intermittent crash in Camp Office and Rural Store.
 
 - [Steam - The Long Dark Sandbox Alpha Hotfixed to v.271](http://steamcommunity.com/games/305620/announcements/detail/96056782367536634)
+
+<span id="section_19"></span><span id="0.270"></span><span id="0270"></span>
 
 ### 0.270
 
@@ -971,7 +1037,7 @@ Released: 26 September 2015
 - Fixed issue that could sometimes cause gear to be duplicated when restoring an old save.
 - Fixed issue with vehicles losing loot in trunks/gloveboxes when restoring an old save.
 - Fixed bug that could rarely cause containers to disappear when doing a save/load.
-- Added a \*small number\* of random spawn arrows and arrowheads, spread across the game world.
+- Added a _small number\_ of random spawn arrows and arrowheads, spread across the game world.
 - Fixed issue where Improvised Hatchet was unable to harvest Birch and Maple Saplings.
 - Fixed issue with getting stuck around The Riken in Desolation Point.
 - Fixed issue with getting stuck in ice near Matt's Truck in Desolation Point.
@@ -990,6 +1056,8 @@ Released: 26 September 2015
 
 - [Steam - The Long Dark Sandbox -- Hotfixed to v.270](http://steamcommunity.com/games/305620/announcements/detail/96056326898136984)
 
+<span id="section_20"></span><span id="0.265"></span><span id="0265"></span>
+
 ### 0.265
 
 Released: 19 September 2015
@@ -999,6 +1067,8 @@ Released: 19 September 2015
 - Fixed issue with UI elements not being clickable at certain resolutions
 
 - [Steam - The Long Dark Sandbox -- Hotfixed to v.265](http://steamcommunity.com/games/305620/announcements/detail/96055688703565671)
+
+<span id="desolation_point_update"></span><span id="0.264_(Desolation_Point_Update)"></span><span id="0.264_(desolation_point_update)"></span><span id="0264-desolation-point-update"></span><span id="0.264"></span>
 
 ### 0.264 (Desolation Point Update)
 
@@ -1037,7 +1107,7 @@ Released: 18 September 2015
 - Fixed AI issues with wolves after attacking player holding a flare
 - Fix crafting exploit (switching items while crafting in progress)
 - Fixed crafting issue that could sometimes require longer crafting time than necessary.
-- Fix for graphical glitch related to light shafts \[Xbox One\]
+- Fix for graphical glitch related to light shafts [Xbox One]
 - Modified struggle damage modifiers for various tools, and added modifiers for the new Improvised Knife, Improvised Hatchet, and Hammer
 - Reduced the Condition-cost to tools when using them to clear ice-fishing holes
 - You can now clear ice-fishing holes with Hammers and Prybars
@@ -1048,6 +1118,8 @@ Released: 18 September 2015
 - General performance optimization on PC, Mac, and Xbox One.
 
 - [Steam - The Long Dark Sandbox Update to v264 -- "Desolation Point"](http://steamcommunity.com/games/305620/announcements/detail/96055688700158317)
+
+<span id="section_21"></span><span id="0.258"></span><span id="0258"></span>
 
 ### 0.258
 
@@ -1067,6 +1139,8 @@ Released: 14 August 2015
 
 - [Steam - The Long Dark Sandbox Alpha — Hotfix to v.258](http://steamcommunity.com/games/305620/announcements/detail/97178423059977959)
 
+<span id="section_22"></span><span id="0.257"></span><span id="0257"></span>
+
 ### 0.257
 
 Released: 8 August 2015
@@ -1081,7 +1155,7 @@ Released: 8 August 2015
 - Fixed exploit for making fires last forever with a single torch.
 - Fixed issue with option sliders not resetting after backing out of menus.
 - Fixed typo in Pilgrim description.
-- Fixed compatibility issues with OBS and Xsplit. \[Issue only reported for PC users\]
+- Fixed compatibility issues with OBS and Xsplit. [Issue only reported for PC users]
 
 The following changes apply to **PC/Mac players only**, and will be included in the next hotfix for XBox One:
 
@@ -1090,6 +1164,8 @@ The following changes apply to **PC/Mac players only**, and will be included in 
 - Fixed problem with wolves being able to attack player inside the derailed train in Mystery Lake.
 
 - [Steam - The Long Dark Sandbox Alpha — Hotfix to v.257](http://steamcommunity.com/games/305620/announcements/detail/97177909039539268)
+
+<span id="deep_forest_update"></span><span id="0.256_(Deep_Forest_Update)"></span><span id="0.256_(deep_forest_update)"></span><span id="0256-deep-forest-update"></span><span id="0.256"></span>
 
 ### 0.256 (Deep Forest Update)
 
@@ -1104,8 +1180,8 @@ Released: 1 August 2015
 - Updated the player movement model to remove Running. We now have Walk (base speed has been increased), and a discrete Sprint action that has a stamina component. Stamina regenerates slowly, and Sprinting increases Fatigue.
 - Physical objects now properly occlude snow and wind FX. If you see something blocking snow, it means it will provide shelter from the wind.
 - Replaced the Warmer/Colder HUD text with a sheltered icon (wind with shield). When this icon is present, you are protected from windchill and fires will not be affected by wind. (Keep in mind that wind direction changes more frequently now).
-- \[Controllers only\] Rebound Crouch to Left Shoulder to avoid accidental use.
-- \[Controllers only\] Remapped Inventory navigation to D-pad, LS-click for sorting.
+- [Controllers only] Rebound Crouch to Left Shoulder to avoid accidental use.
+- [Controllers only] Remapped Inventory navigation to D-pad, LS-click for sorting.
 
 - Added ambient bird-song which communicates things like wildlife presence, temperature, location, and time of day. Sudden ducking of song from small birds may indicate the presence of predators.
 - Added 1,500 additional ambient sound effects for high-winds and blizzards. Players should now be able to identify man-made shelters from afar, by listening to how the wind behaves (ex. metal rattling in the wind).
@@ -1127,11 +1203,13 @@ Released: 1 August 2015
 - Gear weight shown to two decimal places in inventory UI
 - Allow extra fuel from harvested lamps to fill other lamps in inventory
 - Cancelling lantern refuel will now give you fuel based on the percentage of refuelling
-- \[XBOX Only\] Auto select of profile if only one exists
-- \[XBOX Only\] Fix issue with unresponsive controls when using a second wired controller
-- \[XBOX Only\] Detect and handle controller disconnects
+- [XBOX Only] Auto select of profile if only one exists
+- [XBOX Only] Fix issue with unresponsive controls when using a second wired controller
+- [XBOX Only] Detect and handle controller disconnects
 
 - [Steam - The Long Dark Sandbox Alpha - Update to v.256 "Deep Forest"](http://steamcommunity.com/games/305620/announcements/detail/97177212554769290)
+
+<span id="section_23"></span><span id="0.244"></span><span id="0244"></span>
 
 ### 0.244
 
@@ -1141,6 +1219,8 @@ Released: 19 June 2015
 - Issue with loot spawns and respawns in the Pleasant Valley Farmhouse. This is a pretty obscure issue where loot will appear and disappear depending on which doorway you enter.
 
 - [Steam - The Long Dark Sandbox Alpha -- HOTFIX to v.244](http://steamcommunity.com/games/305620/announcements/detail/233407377996717555)
+
+<span id="section_24"></span><span id="0.243"></span><span id="0243"></span>
 
 ### 0.243
 
@@ -1162,6 +1242,8 @@ Released: 16 June 2015
 
 - [Steam - The Long Dark - The Long Dark Sandbox Update: We've Added Full Controller Support!](http://steamcommunity.com/games/305620/announcements/detail/233406786358759990)
 
+<span id="section_25"></span><span id="0.236"></span><span id="0236"></span>
+
 ### 0.236
 
 Released: 27 May 2015
@@ -1177,6 +1259,8 @@ Released: 27 May 2015
 
 - [Steam - The Long Dark - HOTFIX to v.236 -- Audio, Repair, Saplings, Crash Fixes!](http://steamcommunity.com/games/305620/announcements/detail/235657109041114422)
 
+<span id="section_26"></span><span id="0.235"></span><span id="0235"></span>
+
 ### 0.235
 
 Released: 23 May 2015
@@ -1187,6 +1271,8 @@ Released: 23 May 2015
 - Fixed an audio crash triggered in the Pleasant Valley to Mystery Lake transition zone.
 
 - [Steam - The Long Dark - HOTFIX to v.235 - Fix for Repair Bug, Missing Containers, Audio Crash](http://steamcommunity.com/games/305620/announcements/detail/235656499658908087)
+
+<span id="section_27"></span><span id="0.234"></span><span id="0234"></span>
 
 ### 0.234
 
@@ -1200,6 +1286,8 @@ Released: 22 May 2015
 - Fixed issue with calorie burn being set too high when player is freezing
 
 - [Steam - The Long Dark - HOTFIX to v.234: Fix for crash](http://steamcommunity.com/games/305620/announcements/detail/235656499655331481)
+
+<span id="silent_hunter_update"></span><span id="0.233_(Silent_Hunter_Update)"></span><span id="0.233_(silent_hunter_update)"></span><span id="0233-silent-hunter-update"></span><span id="0.233"></span>
 
 ### 0.233 (Silent Hunter Update)
 
@@ -1244,6 +1332,8 @@ Released: 22 May 2015
 
 - [Steam - The Long Dark - The "Silent Hunter" Update (v.233) -- We've Added Bows &amp; Improved Hunting!](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)
 
+<span id="section_28"></span><span id="0.228"></span><span id="0228"></span>
+
 ### 0.228
 
 Released: 29 April 2015
@@ -1259,6 +1349,8 @@ We've just hotfixed The Long Dark Sandbox to v.228, to address a few bugs.
 - Fixed scale issues in Dam and Radio Hut due to rescaled world assets
 
 - [Steam - The Long Dark - HOTFIX to v.228 -- Additional Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/234528665970283642)
+
+<span id="section_29"></span><span id="0.227"></span><span id="0227"></span>
 
 ### 0.227
 
@@ -1276,6 +1368,8 @@ We've just hotfixed The Long Dark Sandbox to v.227 to address some bugs introduc
 - Fixed issue where torch light source and audio sometimes persisted after the torch was extinguished
 
 - [Steam - The Long Dark - HOTFIX v.227 -- General Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/234528063093662356)
+
+<span id="section_30"></span><span id="0.226"></span><span id="0226"></span>
 
 ### 0.226
 
@@ -1306,6 +1400,8 @@ We have just updated The Long Dark Sandbox to v.226. This update introduces majo
 
 - [Steam - The Long Dark - New: The Long Dark Now Runs on Unity 5! (Updated to v.226)](http://steamcommunity.com/games/305620/announcements/detail/234528063089314274)
 
+<span id="section_31"></span><span id="0.218"></span><span id="0218"></span>
+
 ### 0.218
 
 Released: 9 April 2015
@@ -1317,6 +1413,8 @@ Hello! We've just updated The Long Dark's Sandbox to v.218, to address a few bug
 - Fixed issue where crafting times were longer than necessary for some tools.
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.218](http://steamcommunity.com/games/305620/announcements/detail/234526842606341106)
+
+<span id="section_32"></span><span id="0.217"></span><span id="0217"></span>
 
 ### 0.217
 
@@ -1333,6 +1431,8 @@ Hello! We have just updated The Long Dark's Sandbox to v.217, to address some bu
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.217](http://steamcommunity.com/games/305620/announcements/detail/234526162478674523)
 
+<span id="section_33"></span><span id="0.215"></span><span id="0215"></span>
+
 ### 0.215
 
 Released: 3 April 2015
@@ -1345,6 +1445,8 @@ Hello! We've just updated The Long Dark Sandbox to v.215, fixing the following b
 - Fixed issue with "Tools" filter not working properly for containers
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.215](http://steamcommunity.com/games/305620/announcements/detail/234526162463641678)
+
+<span id="section_34"></span><span id="0.214"></span><span id="0214"></span>
 
 ### 0.214
 
@@ -1359,6 +1461,8 @@ We've just released another quick update to address a couple of bugs. Thanks for
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.214](http://steamcommunity.com/games/305620/announcements/detail/234526162460011080)
 
+<span id="section_35"></span><span id="0.213"></span><span id="0213"></span>
+
 ### 0.213
 
 Released: 1 April 2015
@@ -1371,6 +1475,8 @@ We fixed a few bugs introduced in today's v.212 update. Thanks for helping us fi
 - Fixed issue with some containers having their doors or lids shifted from previous save games
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.213](http://steamcommunity.com/games/305620/announcements/detail/234526162457234393)
+
+<span id="section_36"></span><span id="0.212"></span><span id="0212"></span>
 
 ### 0.212
 
@@ -1422,6 +1528,8 @@ Released: 1 April 2015
 
 - [Steam - The Long Dark - NEW! The Long Dark Sandbox Update #35 to v.212 Now Live!](http://steamcommunity.com/games/305620/announcements/detail/234526123004900919)
 
+<span id="section_37"></span><span id="0.200"></span><span id="0200"></span>
+
 ### 0.200
 
 Released: 17 February 2015
@@ -1435,6 +1543,8 @@ We've just hotfixed The Long Dark Sandbox to v.200.
 
 - [Steam - The Long Dark - Hotfix v.200 -- Fix for Crash Due to Low Memory (PC), UI Crash](http://steamcommunity.com/games/305620/announcements/detail/218759127674326203)
 
+<span id="section_38"></span><span id="0.199"></span><span id="0199"></span>
+
 ### 0.199
 
 Released: 13 February 2015
@@ -1443,6 +1553,8 @@ Released: 13 February 2015
 
 - [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
+
+<span id="section_39"></span><span id="0.198"></span><span id="0198"></span>
 
 ### 0.198
 
@@ -1459,6 +1571,8 @@ Released: 13 February 2015
 - [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
+<span id="section_40"></span><span id="0.197"></span><span id="0197"></span>
+
 ### 0.197
 
 Released: 13 February 2015
@@ -1468,13 +1582,15 @@ Released: 13 February 2015
 - [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
+<span id="section_41"></span><span id="0.196"></span><span id="0196"></span>
+
 ### 0.196
 
 Released: 12 February 2015
 
 Note: This update will not interfere with current Game Saves.
 
-- EXPERIMENTAL: Reduced rate of Wolf respawns in Coastal Highway, without reducing the actual current Wolf population. This means that it will take longer for the population to replenish after individual Wolves have been killed. \*THIS DOES NOT AFFECT POPULATION DENSITY OUTSIDE OF PLAYER ACTIONS. (I.e. if the player does not interact with the Wolf population, it will remain static.)\* If we find this population balance feels better, we may roll it out to the other regions and other types of wildlife.
+- EXPERIMENTAL: Reduced rate of Wolf respawns in Coastal Highway, without reducing the actual current Wolf population. This means that it will take longer for the population to replenish after individual Wolves have been killed. _THIS DOES NOT AFFECT POPULATION DENSITY OUTSIDE OF PLAYER ACTIONS. (I.e. if the player does not interact with the Wolf population, it will remain static.)\_ If we find this population balance feels better, we may roll it out to the other regions and other types of wildlife.
 - Memory optimizations around UI and specific textures which should improve general performance without compromising visual quality.
 - Fixed crash that could occur when throwing a burning torch at wildlife
 - Updated the Cat Tails to now be Harvestable.
@@ -1489,6 +1605,8 @@ Note: This update will not interfere with current Game Saves.
 - Misc art fixes.
 
 - [Steam - The Long Dark - HOTFIX to v.196 -- Crash Fix, More Optimization, Harvestable Cat Tails, Coastal Wolf Population](http://steamcommunity.com/games/305620/announcements/detail/218759127657305553)
+
+<span id="section_42"></span><span id="0.193"></span><span id="0193"></span>
 
 ### 0.193
 
@@ -1511,13 +1629,15 @@ We've just hotfixed The Long Dark Sandbox to v.193. Changes below.
 
 - [Steam - The Long Dark - HOTFIX v.193 -- Optimization, AI fixes, Tuning](http://steamcommunity.com/games/305620/announcements/detail/217632592970403967)
 
+<span id="section_43"></span><span id="0.192"></span><span id="0192"></span>
+
 ### 0.192
 
 Released: 7 February 2015
 
 ---
 
-\*\*\*NOTE: Save games from previous versions have been confirmed to work with the v.192 update.\*\*\*
+\*\**NOTE: Save games from previous versions have been confirmed to work with the v.192 update.\*\**
 
 ---
 
@@ -1582,6 +1702,8 @@ The Long Dark -- Sandbox Alpha -- v.192 Changelist
 
 - [Steam - The Long Dark - NEW! The Long Dark Sandbox Update Now Live! (v.192): New Region, New Wildlife, Harvestable Plants, and More!](http://steamcommunity.com/games/305620/announcements/detail/217632592959182000)
 
+<span id="section_44"></span><span id="0.183"></span><span id="0183"></span>
+
 ### 0.183
 
 Released: 18 December 2014
@@ -1605,6 +1727,8 @@ v.183 Changelist
 
 - [Steam - The Long Dark - HOTFIX: v.183 -- General Bug Fixing](http://steamcommunity.com/games/305620/announcements/detail/228887153614504833)
 
+<span id="section_45"></span><span id="0.182"></span><span id="0182"></span>
+
 ### 0.182
 
 Released: 17 December 2014
@@ -1622,6 +1746,8 @@ Changelist for v.182 Hotfix
 - Performance improvement for outdoor scenes when ground foliage present
 
 - [Steam - The Long Dark - HOTFIX: v.182 -- General Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/228886520391745688)
+
+<span id="section_46"></span><span id="0.181"></span><span id="0181"></span>
 
 ### 0.181
 
@@ -1681,6 +1807,8 @@ _NOTE: All gameplay tuning is WIP. Balance issues and bugs will be addressed in 
 
 - [Steam - The Long Dark - NEW! Sandbox Alpha Update v.181 - Experience Modes, German &amp; Russian, Craftable Clothing, Hot Drinks!](http://steamcommunity.com/games/305620/announcements/detail/228886520353695750)
 
+<span id="section_47"></span><span id="0.170"></span><span id="0170"></span>
+
 ### 0.170
 
 Released: 3 December 2014
@@ -1712,6 +1840,8 @@ Released: 3 December 2014
 
 - [Steam - The Long Dark - Hotfix v170 -- Fixes to Struggle UI, Food Poisoning, Weak Ice, and General Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/226633361587723251)
 
+<span id="section_48"></span><span id="0.166"></span><span id="0166"></span>
+
 ### 0.166
 
 Released: 29 November 2014
@@ -1737,6 +1867,8 @@ Released: 29 November 2014
 
 - [Steam - The Long Dark - HOTFIX v.166 -- Gameplay Tuning &amp; Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/226633361112863152)
 
+<span id="section_49"></span><span id="0.164"></span><span id="0164"></span>
+
 ### 0.164
 
 Released: 27 November 2014
@@ -1746,11 +1878,13 @@ Released: 27 November 2014
 
 - [Steam - The Long Dark - HOTFIX! Sandbox Alpha Update v.164 -- Fix to Wolf Over-Spawning Issue](http://steamcommunity.com/games/305620/announcements/detail/226633360888150919)
 
+<span id="section_50"></span><span id="0.163"></span><span id="0163"></span>
+
 ### 0.163
 
 Released: 27 November 2014
 
-**\*\*\*IMPORTANT\*\*\* This update invalidates save files from previous versions. If you do not wish to lose your in-progress game, please do not update.\*\*\*IMPORTANT\*\*\***
+**\*\**IMPORTANT\*\*\* This update invalidates save files from previous versions. If you do not wish to lose your in-progress game, please do not update.\*\**IMPORTANT\*\*\***
 
 Gameplay tuning and game balance is always a Work in Progress. That's part of why the game is in Early Access. If you experience tuning or balance that you feel is incorrect, please share your feedback in the community forums. Keep in mind that there are vastly differing opinions on what the "correct" game balance is. We take all feedback into account, and consider it against our vision for how we want the game to play. Bugs can create unexpected and intentional issues that affect balance. We appreciate your patience as we address these, whenever they come up. On average we update 3-4 times between major updates to address any bugs or issues that arise. Whatever bugs or issues arise tend to not exist in the game for very long.
 
@@ -1796,7 +1930,7 @@ Gameplay tuning and game balance is always a Work in Progress. That's part of wh
 - Fixed issue where some telephone poles in Coastal Highway did not have collision.
 - Fixed issue where the wrong label was applied to melted snow/boiled water.
 - Fixed issue where distance travelled was mislabeled in the Log
-- Fixed issue where Inventory would sometimes incorrectly show \[Wearing\] for non-worn items.
+- Fixed issue where Inventory would sometimes incorrectly show [Wearing] for non-worn items.
 - Fixed issue where Wolf audio would sometimes play on an endless loop.
 - Fixed issue where some Food items could have a Condition of over 100%
 - Fixed issue where individual Rifle rounds had the incorrect weight.
@@ -1813,6 +1947,8 @@ Gameplay tuning and game balance is always a Work in Progress. That's part of wh
 - We are experiencing some issues with some new lighting effects rendering incorrectly on the Mac. As a result, we have temporarily removed the "god rays" lighting effect from all interiors (only on the Mac build). We are working on a fix for this and will update ASAP.
 
 - [Steam - The Long Dark - NEW! Sandbox Alpha v.163 -- Major Gameplay Update!](http://steamcommunity.com/games/305620/announcements/detail/226633360860235633)
+
+<span id="section_51"></span><span id="0.154"></span><span id="0154"></span>
 
 ### 0.154
 
@@ -1839,6 +1975,8 @@ Released: 31 October 2014
 
 - [Steam - The Long Dark - HOTFIX! Alpha Sandbox v.154 -- Balance Update!](http://steamcommunity.com/games/305620/announcements/detail/225505017368162289)
 
+<span id="section_52"></span><span id="0.153"></span><span id="0153"></span>
+
 ### 0.153
 
 Released: 30 October 2014
@@ -1851,6 +1989,8 @@ Released: 30 October 2014
 Note that saves from v.152 should still work after the v.153 update.
 
 - [Steam - The Long Dark - HOTFIX! Alpha Sandbox v.153](http://steamcommunity.com/games/305620/announcements/detail/225505017267197565)
+
+<span id="section_53"></span><span id="0.152"></span><span id="0152"></span>
 
 ### 0.152
 
@@ -1916,6 +2056,8 @@ Game tuning around the new region is WIP and will be constantly modified based o
 
 - [Steam - The Long Dark - NEW! "Coastal Highway" Region More Than Doubles The Long Dark's Sandbox!](http://steamcommunity.com/games/305620/announcements/detail/225505017232410012)
 
+<span id="section_54"></span><span id="0.138"></span><span id="0138"></span>
+
 ### 0.138
 
 Released: 4 October 2014
@@ -1925,6 +2067,8 @@ Released: 4 October 2014
 - Bottle of painkillers now contain 6 pills (3 full doses) instead of 5.
 
 - [Steam - The Long Dark - Sandbox Alpha HOTFIX: v.138](http://steamcommunity.com/games/305620/announcements/detail/225502475229095884)
+
+<span id="section_55"></span><span id="0.137"></span><span id="0137"></span>
 
 ### 0.137
 
@@ -1937,6 +2081,8 @@ Released: 3 October 2014
 - Fix framerate drop during Harvest and Repair
 
 - [Steam - The Long Dark - Sandbox Alpha HOTFIX: v.137](http://steamcommunity.com/games/305620/announcements/detail/225502475145891592)
+
+<span id="section_56"></span><span id="0.136"></span><span id="0136"></span>
 
 ### 0.136
 
@@ -1967,6 +2113,8 @@ Released: 2 October 2014
 
 - [Steam - The Long Dark - Sandbox Alpha Update -- v.136: Performance Improvements, Exploits Fixed, Gameplay Tuning](http://steamcommunity.com/games/305620/announcements/detail/225502475058722270)
 
+<span id="section_57"></span><span id="0.127"></span><span id="0127"></span>
+
 ### 0.127
 
 Released: 27 September 2014
@@ -1994,6 +2142,8 @@ Released: 27 September 2014
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.127 - Major Gameplay Update](http://steamcommunity.com/games/305620/announcements/detail/225501838968982052)
 
+<span id="section_58"></span><span id="0.125"></span><span id="0125"></span>
+
 ### 0.125
 
 Released: 26 September 2014
@@ -2010,6 +2160,8 @@ Apologies for any inconvenience, and thanks for your support.
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.125](http://steamcommunity.com/games/305620/announcements/detail/225501838875606585)
 
+<span id="section_59"></span><span id="0.124"></span><span id="0124"></span>
+
 ### 0.124
 
 Released: 26 September 2014
@@ -2019,7 +2171,7 @@ This update should address general game performance, particularly on high-end sy
 - Fix key bindings crash when user did not have a profile
 - Framerate improvements, especially for high end PCs
 - Display correct bindings during wolf struggle
-- Fix problem with binding Inventory to \[Enter\]
+- Fix problem with binding Inventory to [Enter]
 - Removed Help from pause menu
 
 IMPORTANT: Please make sure you update your graphics drivers, or you may experience crashing.
@@ -2029,6 +2181,8 @@ If you experience a crash and have updated drivers, temporary solution is to run
 tld.exe -force-d3d9
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.124](http://steamcommunity.com/games/305620/announcements/detail/225501838844828672)
+
+<span id="section_60"></span><span id="0.122"></span><span id="0122"></span>
 
 ### 0.122
 
@@ -2056,6 +2210,8 @@ Released: 25 September 2014
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.122](http://steamcommunity.com/games/305620/announcements/detail/225501838789453090)
 
+<span id="early_access_launch_update"></span><span id="0.119_(Early_Access_Launch_Update)"></span><span id="0.119_(early_access_launch_update)"></span><span id="0119-early-access-launch-update"></span><span id="0.119"></span>
+
 ### 0.119 (Early Access Launch Update)
 
 Released: 23 September 2014
@@ -2067,6 +2223,8 @@ Released: 23 September 2014
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
+<span id="section_61"></span><span id="0.118"></span><span id="0118"></span>
+
 ### 0.118
 
 Released: 23 September 2014
@@ -2077,6 +2235,8 @@ Released: 23 September 2014
 
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
+
+<span id="section_62"></span><span id="0.117"></span><span id="0117"></span>
 
 ### 0.117
 
@@ -2119,6 +2279,8 @@ Released: 22 September 2014
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
+<span id="section_63"></span><span id="0.107"></span><span id="0107"></span>
+
 ### 0.107
 
 Released: 5 September 2014
@@ -2135,9 +2297,9 @@ For information on what was added/changed in v.10x, please refer to the Changeli
 
 - Updated to the latest version of Wwise (audio engine). This removes the requirement to install the DirectX Runtime. Many audio bugs introduced by the update have been fixed, but we might have missed some.
 
-- Lighting a Flare or Lantern now requires you \*hold\* LMB (vs. clicking). This should hopefully address issues with people accidently starting flares or turning lanterns off.
+- Lighting a Flare or Lantern now requires you _hold\_ LMB (vs. clicking). This should hopefully address issues with people accidently starting flares or turning lanterns off.
 - The Rifle can now only be fired when in Aim mode (RMB).
-- Dehydration, Freezing, Starvation, and Fatigue have all been tuned to be \*slightly\* more forgiving.
+- Dehydration, Freezing, Starvation, and Fatigue have all been tuned to be _slightly\_ more forgiving.
 - Calories can now go into the negative, up to a threshold.
 - A Wolf Attack now results in Blood Loss and Infection Risk (vs. immediate Infection, as before). Infection Risk is reduced by applying Antiseptic. Wounds can become Infected up to 24 hours after they have been inflicted.
 - Increased frequency of Antiseptic spawning in containers.
@@ -2159,6 +2321,8 @@ For information on what was added/changed in v.10x, please refer to the Changeli
 
 - [Steam - The Long Dark -- Sandbox Alpha Updated to v.107](http://steamcommunity.com/games/305620/announcements/detail/225499936421435352)
 
+<span id="section_64"></span><span id="0.106"></span><span id="0106"></span>
+
 ### 0.106
 
 Released: 5 September 2014
@@ -2172,6 +2336,8 @@ Released: 5 September 2014
 
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
+<span id="section_65"></span><span id="0.105"></span><span id="0105"></span>
+
 ### 0.105
 
 Released: 5 September 2014
@@ -2183,6 +2349,8 @@ Released: 5 September 2014
 
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
+<span id="section_66"></span><span id="0.104"></span><span id="0104"></span>
+
 ### 0.104
 
 Released: 5 September 2014
@@ -2190,6 +2358,8 @@ Released: 5 September 2014
 - This update was to fix a crash bug related to inventory items wearing out.
 
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
+
+<span id="section_67"></span><span id="0.103"></span><span id="0103"></span>
 
 ### 0.103
 
@@ -2201,6 +2371,8 @@ Released: 5 September 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/890-sandbox-alpha-updated-to-v103-changelist/)
 
+<span id="section_68"></span><span id="0.097"></span><span id="0097"></span>
+
 ### 0.097
 
 Released: 29 August 2014
@@ -2210,6 +2382,8 @@ Released: 29 August 2014
 - Fixed bug/exploit where unsafe water changed to potable after a save/restore.
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/844-alpha-sandbox-updated-to-v097/)
+
+<span id="section_69"></span><span id="0.096"></span><span id="0096"></span>
 
 ### 0.096
 
@@ -2221,6 +2395,8 @@ Released: 27 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/826-alpha-sandbox-updated-to-v096/)
 
+<span id="section_70"></span><span id="0.095"></span><span id="0095"></span>
+
 ### 0.095
 
 Released: 25 August 2014
@@ -2229,6 +2405,8 @@ Released: 25 August 2014
 - Fixed save/restore issues for fires Pot Belly Stove.
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/810-alpha-sandbox-updated-to-v095/)
+
+<span id="section_71"></span><span id="0.094"></span><span id="0094"></span>
 
 ### 0.094
 
@@ -2240,6 +2418,8 @@ Released: 22 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/752-new-update-alpha-sandbox-v094-released-for-pc-and-mac/)
 
+<span id="section_72"></span><span id="0.083"></span><span id="0083"></span>
+
 ### 0.083
 
 Released: 13 August 2014
@@ -2248,6 +2428,8 @@ Released: 13 August 2014
   - General bug fixing and optimization.
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/695-new-update-alpha-sandbox-v083-released-for-pc-and-mac/)
+
+<span id="section_73"></span><span id="0.077"></span><span id="0077"></span>
 
 ### 0.077
 
@@ -2258,6 +2440,8 @@ Released: 9 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/665-alpha-sandbox-updated-to-v077/)
 
+<span id="section_74"></span><span id="0.076"></span><span id="0076"></span>
+
 ### 0.076
 
 Released: 5 August 2014
@@ -2265,6 +2449,8 @@ Released: 5 August 2014
 - Alpha Sandbox Updated to v.076 to fix issue with stags not animating.
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/636-alpha-sandbox-updated-to-v076/)
+
+<span id="section_75"></span><span id="0.075"></span><span id="0075"></span>
 
 ### 0.075
 
@@ -2277,6 +2463,8 @@ Released: 4 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/627-alpha-sandbox-updated-to-v075/)
 
+<span id="section_76"></span><span id="0.074"></span><span id="0074"></span>
+
 ### 0.074
 
 Released: 1 August 2014
@@ -2284,6 +2472,8 @@ Released: 1 August 2014
 - New build that fixes a critical issue that was crashing the game when used with certain recording software. This is the only change made from v.073.
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/611-alpha-sandbox-updated-to-v074/)
+
+<span id="section_77"></span><span id="0.073"></span><span id="0073"></span>
 
 ### 0.073
 

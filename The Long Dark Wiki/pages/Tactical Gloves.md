@@ -42,6 +42,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Tactical Gloves** are unique [Clothing](./Clothing.md) found only during the [Last Horizon](./Last%20Horizon.md) Tale in [Sundered Pass](./Sundered%20Pass.md). It is found in the [Last Lonely House](./Last%20Lonely%20House.md), under the bed in the locked bedroom (unlocked with [An Old House Key](./An%20Old%20House%20Key.md)). They originally belonged to [The Foreman](./The%20Foreman.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Tactical Gloves are warm and best-in-slot windproofing, waterproofing and protection but are slightly (0.5°C) colder than similar late-game gloves: [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) or [Gauntlets](./Gauntlets.md). Tactical Gloves also provide more total "[Feels Like](./Feels%20Like.md)" temperature increase (warmth + windproof) for a total of 4.5°C, where as Rabbitskin Mitts and Gauntlets provide only 4°C.
@@ -52,11 +54,15 @@ A small but not negligeable benefit is the lessened mobility restriction the Tac
 
 However Tactical Gloves decay their condition slightly faster and repair less condition per action than Gauntlets and Rabbitskin Mitts.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![3d model](../assets/Tactical_Gloves_3d_Model.png)
 
 ![3d model damaged](../assets/Tactical_Gloves_3d_Model_damaged.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

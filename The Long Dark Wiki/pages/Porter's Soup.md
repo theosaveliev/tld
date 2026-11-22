@@ -46,6 +46,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Porter's Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md).
@@ -53,6 +55,8 @@ It is only acquired when trading with the [Trader](./Trader.md).
 - +10% Maximum [Condition](./Condition.md) ([Nourished](./Nourished.md)) for 3 hours
 - Max Carry Weight ([Unburdened](./Unburdened.md))
 - Negative [Fatigue](./Fatigue.md) increase (-15%)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -84,5 +88,7 @@ It is only acquired when trading with the [Trader](./Trader.md).
 **Item:** [Carrot](./Carrot.md)
 
 **Quantity:** 2
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History

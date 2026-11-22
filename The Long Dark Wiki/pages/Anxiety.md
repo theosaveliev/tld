@@ -13,7 +13,7 @@
 
 [Anxiety icon](../assets/Anxiety_icon.png)
 
-**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
+**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)
 
 **Update:** 1.86
 
@@ -39,9 +39,13 @@
 
 **Anxiety** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of two unique Afflictions found only within the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflicted with Anxiety, accompanied by a unique audio cue and dialogue. A message box will appear in the middle of the screen, detailing the distance between the survivor and the Darkwalker. While afflicted with Anxiety actions which accelerate time (Sleep, Pass Time, Craft, Sharpen, Clean, Harvest, Research, etc.) are impossible. If the survivor was asleep when the Darkwalker approached, it will automatically wake them. The closer the the survivor moves toward the Darkwalker, the more bloody the visual effect will appear.
+
+<span id="darkwalker_distance"></span><span id="Darkwalker_Distance:"></span><span id="darkwalker_distance:"></span><span id="darkwalker-distance"></span>
 
 ###### Darkwalker Distance:
 
@@ -49,6 +53,8 @@ If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflic
 - Less than 200m: survivor is afflicted with Anxiety (unable to sleep/pass time/craft/use [Research Books](./Research%20Book.md)).
 - 50m (~164 feet): Anxiety is replaced with [Fear](./Fear.md) (rapid Condition drain).
 - 5m: the Darkwalker catches the survivor (instant death).
+
+<span id="player_quotes"></span><span id="Player_Quotes"></span><span id="player-quotes"></span>
 
 ## Player Quotes
 
@@ -58,6 +64,8 @@ If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflic
 - "No...No...!"
 - "This is like something out of a horror movie"
 - "(Panicked) I gotta get outta here!"
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -39,7 +39,7 @@
 
 **Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md)<br>[Tactical Jacket](./Tactical%20Jacket.md)
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it].**
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -50,15 +50,21 @@
 
 **The Foreman** is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it].**
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
 Appearing only as a voice through notes left behind as part of the [Tales](./Tales.md) in [Survival Mode](./Survival%20Mode.md), The Foreman is one of 4 major characters that participated in a clandestine experiment in The Far Territory. The results were grand, but fatal to many individuals that partook in the project.
 
+<span id="signal_void"></span><span id="Signal_Void"></span><span id="signal-void"></span>
+
 ## Signal Void
 
 The Foreman is not mentioned in any notes in [Signal Void](./Signal%20Void.md).
+
+<span id="buried_echoes"></span><span id="Buried_Echoes"></span><span id="buried-echoes"></span>
 
 ## Buried Echoes
 
@@ -70,18 +76,28 @@ The last note found written by him reveals that something happened when the mach
 
 His [Tool Belt](./Foreman%27s%20Tool%20Belt.md) is found at the end of the Tale, inside the control room to The Machine.
 
+<span id="last_horizon"></span><span id="Last_Horizon"></span><span id="last-horizon"></span>
+
 ## Last Horizon
 
 The Foreman is the protagonist of [Last Horizon](./Last%20Horizon.md), being one of two characters whose notes are found throughout the tale (the other being Dr. Rüdiger). Throughout the Tale, The Foreman reveals that he was secretly a special agent inserted as a site foreman to keep tabs on Rüdiger, and is now making it his personal mission to track him down to avenge the many miners killed by his hand.
 
 Throughout the Tale, it is revealed the machine had a grievous effect on his mind, as each of his Foreman's Technical notes continue to get worse handwriting each time one is found. The Foreman also begins noticing that he is losing/leaving things behind, and cannot control his actions.
 
+<span id="belongings"></span><span id="Belongings"></span>
+
 ## Belongings
+
+<span id="clothing"></span><span id="Clothing"></span>
 
 ### Clothing
 
 
+<span id="collectibles"></span><span id="Collectibles"></span>
+
 ### Collectibles
 
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

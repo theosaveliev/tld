@@ -69,19 +69,25 @@ _Not to be confused with **[Prepper's Abandoned Cache](./Prepper%27s%20Abandoned
 
 A **Prepper Cache,** also known by their nickname of **"Bunker"**, is a reinforced underground shelter with a stockpile of supplies. The contents of these 9 Caches is randomly selected during world generation across 9 regions in Lower Great Bear. They are the centerpiece of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The entrance to a Prepper Cache is a man-sized hatch above-ground which leads into the bunker below; they are typically found in high altitude or difficult-to-reach areas, and may be partially concealed.
 
 There are 9 Cache locations in select regions. Each Prepper Cache's location is a fixed spawn location, but the contents inside the Cache are always randomized. In terms of loot, there are 4 types of Prepper's Cache, three of which will be stocked with materials, while the remaining 6 will be abandoned and empty. The three types of loot stock are the Stockpile (kitchen) Cache, the Hunting Cache, and the Conspiracy Cache.
 
-_**NOTE**_: Prepper Caches spawn in Interloper and Misery, but the Stockpile, Hunting, and Conspiracy Caches will have loot quantities on par with the Abandoned Prepper Cache Type[¹](#fn1). Interloper and Misery players will need to identify these caches to undertake [Sutherland's Tale](./Sutherland%27s%20Tale.md). They can be identified based on the layout of the interior[²](#fn2).
+_**NOTE**_: Prepper Caches spawn in Interloper and Misery, but the Stockpile, Hunting, and Conspiracy Caches will have loot quantities on par with the Abandoned Prepper Cache Type<span id="fnref1"></span>[¹](#fn1). Interloper and Misery players will need to identify these caches to undertake [Sutherland's Tale](./Sutherland%27s%20Tale.md). They can be identified based on the layout of the interior<span id="fnref2"></span>[²](#fn2).
 
 The interiors of these caches are small, indoors, and contain 1-2 rooms with metal shelves, crates, and a bed. There are seven distinct layouts of these caches.
 
 Prepper Caches do not spawn in some [Challenge](./Challenge.md) game modes and only appear in Lower Great Bear.
 
+<span id="bunker_types"></span><span id="Bunker_Types"></span><span id="bunker-types"></span>
+
 ## Bunker Types
+
+<span id="stockpile"></span><span id="Stockpile"></span>
 
 ### Stockpile
 
@@ -115,15 +121,19 @@ Type 1 bunker (Kitchen) loot:
 - 10 hours worth of fuel in [Firelogs](./Firelog.md)
 - 5500 kcal of various food
 
+<span id="abandoned_version_interlopermisery"></span><span id="Abandoned_version_(Interloper/Misery)"></span><span id="abandoned_version_(interloper/misery)"></span><span id="abandoned-version-interlopermisery"></span>
+
 #### Abandoned version (Interloper/Misery)
 
 On Interloper and Misery levels, this cache has sparse loot and almost no furniture. Players undertaking [Sutherland's Tale](./Sutherland%27s%20Tale.md) will need to identify this bunker for Special Request 1.
 
-This cache can be identified by the presence of the Prepper's Pie Recipe Card. It is also the only bunker which contains a corpse[³](#fn3). Its layout has a small vestibule which opens into a rectangular room containing the corpse and a bed.
+This cache can be identified by the presence of the Prepper's Pie Recipe Card. It is also the only bunker which contains a corpse<span id="fnref3"></span>[³](#fn3). Its layout has a small vestibule which opens into a rectangular room containing the corpse and a bed.
 
 ![Abandoned Mission Cache 1](../assets/Abandoned_Mission_Cache_1.png)
 
-Only _after_ accepting Special Request 1 will a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) appear for the player. It will spawn on the wall beside the corpse[⁴](#fn4).
+Only _after_ accepting Special Request 1 will a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) appear for the player. It will spawn on the wall beside the corpse<span id="fnref4"></span>[⁴](#fn4).
+
+<span id="hunting"></span><span id="Hunting"></span>
 
 ### Hunting
 
@@ -155,15 +165,21 @@ Type 2 bunker (Hunter) loot:
 - [Quality Tools](./Quality%20Tools.md)
 - [FastFilms](./Camera.md)
 
+<span id="abandoned_version_interlopermisery_1"></span><span id="abandoned-version-interlopermisery-1"></span>
+
 #### Abandoned version (Interloper/Misery)
 
-For Interloper and Misery players, this cache can be identified by its L-shaped layout[⁵](#fn5) and the green crate that is unique to this cache. Identifying this cache is needed to complete Special Request 2.
+For Interloper and Misery players, this cache can be identified by its L-shaped layout<span id="fnref5"></span>[⁵](#fn5) and the green crate that is unique to this cache. Identifying this cache is needed to complete Special Request 2.
 
 ![Abandoned Mission Cache 2](../assets/Abandoned_Mission_Cache_2.png)
 
-As with the other special requests, it is only _after_ accepting Special Request 2 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn on the far wall[⁶](#fn6).
+As with the other special requests, it is only _after_ accepting Special Request 2 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn on the far wall<span id="fnref6"></span>[⁶](#fn6).
+
+<span id="conspiracy"></span><span id="Conspiracy"></span>
 
 ### Conspiracy
+
+<span id="conspiracy_type_1"></span><span id="Conspiracy_(Type_1)"></span><span id="conspiracy_(type_1)"></span><span id="conspiracy-type-1"></span>
 
 #### Conspiracy (Type 1)
 
@@ -193,6 +209,8 @@ Type 3 bunker (Conspiracy Type 1) loot:
 - [Gold Nugget](./Gold%20Nugget.md) and 2 [Cash](./Cash.md) in a [Grate](./Grate.md)
 - [First Aid Kit](./First%20Aid%20Kit.md) with [Antibiotics](./Antibiotics.md), [Painkillers](./Painkillers.md), [Emergency Stim](./Emergency%20Stim.md)
 
+<span id="conspiracy_type_2"></span><span id="Conspiracy_(Type_2)"></span><span id="conspiracy_(type_2)"></span><span id="conspiracy-type-2"></span>
+
 #### Conspiracy (Type 2)
 
 This cache is 1 room only and has a different layout and slightly different loot than the previous version.
@@ -218,21 +236,25 @@ Type 3 bunker (Conspiracy Type 2) loot:
 - Several environmental items that can be broken down such as: [Metal Shelf](./Metal%20Shelf.md), [Crate](./Crate.md), [Table](./Table.md), [Cloth (Object)](./Cloth%20%28Object%29.md), [Cardboard Box](./Cardboard%20Box.md), [Metal Lamp](./Metal%20Lamp.md), [Chair](./Chair.md)
 - A [Safe](./Safe.md) hidden behind a Crate and Metal Shelf left of the entrance ladder, with possible contents of a [Flare Shell](./Flare%20Shell.md), [Cash](./Cash.md), [Expedition Parka](./Expedition%20Parka.md), [Mukluks](./Mukluks.md), or [Rifle Ammunition](./Rifle%20Ammunition.md). [Cash](./Cash.md) and a [Gold Nugget](./Gold%20Nugget.md) also has a chance to spawn inside (though this is not guaranteed unlike the previous Conspiracy Bunker type).
 
+<span id="abandoned_version_interlopermisery_2"></span><span id="abandoned-version-interlopermisery-2"></span>
+
 #### Abandoned version (Interloper/Misery)
 
-For Interloper and Misery players, the Conspiracy Cache can be identified for having a red-painted corridor[⁷](#fn7) and a radiation sign on the wall. Identifying this cache is necessary to complete Special Request 3 as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+For Interloper and Misery players, the Conspiracy Cache can be identified for having a red-painted corridor<span id="fnref7"></span>[⁷](#fn7) and a radiation sign on the wall. Identifying this cache is necessary to complete Special Request 3 as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ![Abandoned Mission Cache 3 (red corridor)](../assets/Abandoned_Mission_Cache_3_%28red_corridor%29.png)
 
 ![Abandoned Mission Cache 3](../assets/Abandoned_Mission_Cache_3.png)
 
-As with the other special requests, it is only _after_ accepting Special Request 3 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn at the far wall, to the left[⁸](#fn8).
+As with the other special requests, it is only _after_ accepting Special Request 3 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn at the far wall, to the left<span id="fnref8"></span>[⁸](#fn8).
+
+<span id="abandoned_caches"></span><span id="Abandoned_Caches"></span><span id="abandoned-caches"></span>
 
 ### Abandoned Caches
 
 On [Pilgrim](./Pilgrim.md), [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), or all custom difficulties, 6 of the 9 bunkers will be basically empty. These are entirely abandoned, having very little if anything inside of them aside from bare concrete flooring, but always contain a Bed and provide solid shelter, despite being vacant, however.
 
-On [Interloper](./Interloper.md) or [Misery](./Misery.md), **ALL 9** Prepper Caches will have loot quantities that are Abandoned. The Stockpile (kitchen), Hunting, and Conspiracy bunkers will still spawn, and can be recognized by their layouts, but will have loot similar to Abandoned caches[⁹](#fn9).
+On [Interloper](./Interloper.md) or [Misery](./Misery.md), **ALL 9** Prepper Caches will have loot quantities that are Abandoned. The Stockpile (kitchen), Hunting, and Conspiracy bunkers will still spawn, and can be recognized by their layouts, but will have loot similar to Abandoned caches<span id="fnref9"></span>[⁹](#fn9).
 
 Type 5 bunker (abandoned) loot:
 
@@ -245,6 +267,8 @@ Type 5 bunker (abandoned) loot:
 - [Corpse](./Corpse.md)
 - All Caches spawn with Abandoned quantities of loot on Interloper and Misery. The Stockpile (kitchen) bunker will contain the [Prepper's Pie](./Prepper%27s%20Pie.md) Recipe Card.
 
+<span id="tom_joplins_cache"></span><span id="Tom_Joplin&#x27;s_Cache"></span><span id="tom_joplin&#x27;s_cache"></span><span id="tom-joplins-cache"></span>
+
 ### Tom Joplin's Cache
 
 > “**There's one more bunker you can check. One of old man Joplin's in Pleasant Valley. On the way to Timberwolf. He wasn't in their crew, but Wyatt set up his prepper caches.**”
@@ -255,44 +279,66 @@ A special 10th Prepper's Cache called [Prepper's Abandoned Cache](./Prepper%27s%
 
 It is however related to every Cache when following [Sutherland's Tale](./Sutherland%27s%20Tale.md). This same bunker is also the starting point of the [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md) side mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
+<span id="cache_locations"></span><span id="Cache_Locations"></span><span id="cache-locations"></span>
+
 ## Cache Locations
+
+<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
 
 #### [Ash Canyon](./Ash%20Canyon.md)
 
 - Starting from the Region Connection cave, head east until passing through a narrow valley near a pond, a fallen tree above leads to the Prepper Cache. Head north and walk over the nearby ravine and through a rock tunnel until reaching the rope climb (alternatively, continue south and crouch through a narrow rock cave to the rope bridge), then walk up a hill and back over the ravine to the fallen tree.
 
+<span id="blackrock"></span><span id="Blackrock"></span>
+
 #### [Blackrock](./Blackrock.md)
 
 - Just a bit East of [Mule Bridge](./Mule%20Bridge.md) on an outcrop behind some [Scrub Brush](./Scrub%20Brush.md). Sometimes need a [Hatchet](./Hatchet.md) to clear the brush.
+
+<span id="bleak_inlet"></span><span id="Bleak_Inlet"></span><span id="bleak-inlet"></span>
 
 #### [Bleak Inlet](./Bleak%20Inlet.md)
 
 - On a hill between the ravine transition point entering the region and the cave to the east. [Pensive Lookout](./Pensive%20Lookout.md) is close by as a landmark.
 
+<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+
 #### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 - On the ridge behind/above [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md).
+
+<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
 
 #### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 - On the plateau west of [Lonely Cave](./Lonely%20Cave.md), near the [Plane Crash](./Plane%20Crashes.md). _For players who do not own [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md), this is the only location where a [work bench](./Work%20Bench.md) may be found/built in the region._
 
+<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+
 #### [Mountain Town](./Mountain%20Town.md)
 
 - Walk on [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) and take the path to the right after the very last car on the road. Follow the path to the [Cave](./Cave%20%28Mountain%20Town%20location%29.md) and go through it. The prepper cache is on the other side of the cave, on the one-way shortcut to the [Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md).
 
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
+
 #### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 - On the higher ground south-east of [Dave's Quiet Clearing](./Dave%27s%20Quiet%20Clearing.md). Mainly accessible via rope-climb near [Mystery Lake (Western Access)](./Mystery%20Lake%20%28Western%20Access%29.md), although it is possible to instead walk east along the ridge line by the climbing rope, and switch back west when the incline is walkable. You can also walk up the ridge line next to Dave's Quiet Clearing near the fallen tree on the hill.
+
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
 
 #### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - On a hill behind the rocks Northwest (behind the tail) of the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md), across from the local bear cave.
 - A second Cache is found near the log at the rope climbing section to Timberwolf Mountain. This is the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md). Its contents are always static, and is not one of the 9 randomly generated caches.
 
+<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
+
 #### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 - On a hill across the ravine from [Echo Peak West](./Echo%20Peak%20West.md), right of the Rope Climbing section from the eastern [Engine](./Engine%20%28East%29.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -301,6 +347,8 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 ![Mystery Lake's prepper cache location](../assets/Camp_Office_to_Prepper_Cach.png)
 
 ![Ash Canyon's prepper cache location](../assets/AshCanyonPrepperCache.jpg)
+
+<span id="outdated_gallery"></span><span id="Outdated_Gallery"></span><span id="outdated-gallery"></span>
 
 ## Outdated Gallery
 
@@ -344,17 +392,25 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 
 ![Cache\_Clothes3](../assets/Cache_Clothes3.jpg)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Most caches in _The Long Dark_ are marked with [fallout shelter](https://en.wikipedia.org/wiki/Fallout_shelter) signs, signifying their original purpose was to protect the local population in the event of a nuclear attack.
 - The [Grate](./Grate.md) inside some bunkers may be opened, potentially yielding hidden loot.
 - Wyatt, [Sutherland's](./Trader.md) brother, was responsible for creating these caches with 3 other people in his crew, along with [Joplin's Bunkers](./Joplin%27s%20Bunker%20Raid.md). He may have also been responsible for creating [Hank's Hatch](./Hank%27s%20Hatch.md) and the [Aurora Hatch](./Aurora%20Hatch.md).
 
+<span id="achievements"></span><span id="Achievements"></span>
+
 ## Achievements
 
 ![Down Below icon](../assets/Down_Below_icon.png) [Down Below](./Down%20Below.md)
 
+<span id="references"></span><span id="References"></span>
+
 ## References
+
+<span id="external_links"></span><span id="External_links"></span><span id="external-links"></span>
 
 ## External links
 
@@ -362,9 +418,18 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 - [Steam - The Long Dark Topo Maps w/Bunker locations](http://steamcommunity.com/sharedfiles/filedetails/?id=329661571)
 - [Wikipedia - Fallout Shelter](https://en.wikipedia.org/wiki/Fallout_shelter)
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. [Hinterland Forums - Bunkers (Preppers Caches) on Interloper?](http://steamcommunity.com/app/305620/discussions/0/343788552537593627/#c217691032448284194)[↩︎](#fnref1)
-2. Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&amp;t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)[↩︎](#fnref2)
+1. <span id="fn1"></span>[Hinterland Forums - Bunkers (Preppers Caches) on Interloper?](http://steamcommunity.com/app/305620/discussions/0/343788552537593627/#c217691032448284194)[↩︎](#fnref1)
+2. <span id="fn2"></span>Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&amp;t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)[↩︎](#fnref2)
+3. <span id="fn3"></span>
+4. <span id="fn4"></span>
+5. <span id="fn5"></span>
+6. <span id="fn6"></span>
+7. <span id="fn7"></span>
+8. <span id="fn8"></span>
+9. <span id="fn9"></span>

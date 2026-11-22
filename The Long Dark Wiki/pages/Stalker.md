@@ -7,11 +7,15 @@
 
 **Stalker** is the 3rd [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "hard" difficulty setting.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Stalker features a more unforgiving Experience compared to [Pilgrim](./Pilgrim.md) or [Voyageur](./Voyageur.md), featuring a harder world, [Needs](./Needs.md) that drain very quickly, and harsher [Struggle](./Struggle.md) mechanics. Stalker is the hardest standard game mode in the game, with [Interloper](./Interloper.md) and [Misery](./Misery.md) being their own special level of difficulty.
 
 Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to survive in the game world: [Intestinal Parasites](./Intestinal%20Parasites.md).
+
+<span id="stalker_settings"></span><span id="Stalker_Settings"></span><span id="stalker-settings"></span>
 
 ## Stalker Settings
 

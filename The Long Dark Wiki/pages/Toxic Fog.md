@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | \[Missing image: Toxic\_Fog\_icon.png\] / _Toxic\_Fog\_icon.png_ |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
+|  | [Missing image: Toxic\_Fog\_icon.png] / _Toxic\_Fog\_icon.png_ |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
 | Update | 1.86 |
 | **Properties** |  |
 | Caused By | Being within a Region where Toxic Fog reaches 100% saturation |
@@ -17,11 +17,15 @@
 
 The **Toxic Fog** is a feature included in the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) mode of [The Long Dark](./The%20Long%20Dark.md).
 
+<span id="description"></span><span id="Description"></span>
+
 ## Description
 
 During Escape the Darkwalker, every [Region](./Region.md) in the game is given a timer of a certain amount of minutes dependent on the size of the region, counted in real-time. Once the timer reaches zero, the entire region will fill with fog. As more time is spent in the region, visibility gradually decreases. While there are no blizzards, this can be a navigational hazard as the mode is set to night for the entire duration of the playthrough. There is no way to remove this fog once it appears. Before it descends, there is a timer on the map that is visible at all times. This can be seen in the 'map' section of the menus.
 
 While there is no way to remove the fog, it is possible to delay its onset with a glyph from a can of [Spray Paint - Glyph](./Spray%20Paint%20-%20Glyph.md). However, this glyph may only be drawn once per playthrough.
+
+<span id="features"></span><span id="Features"></span>
 
 ## Features
 
@@ -30,6 +34,8 @@ While there is no way to remove the fog, it is possible to delay its onset with 
 - When the fog descends, [Condition](./Condition.md) will deteriorate rapidly.
 - If killed by the fog, the ending screen will state you have been killed by the Darkwalker.
 - When the fog warning in the HUD reaches 2 minutes, it will show up as a red symbol and the effects of the fog immediately start causing harm to condition, wildlife and food.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

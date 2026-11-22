@@ -26,6 +26,8 @@ The eastern end of the area sits [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md), 
 
 There is also a relatively large amount of fuel and medicinal resources scattered about, as well as two vehicles and two shallow caves.
 
+<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
+
 ## Wildlife Availability
 
 2 types of animals can be found in the region, [Rabbit](./Rabbit.md) and [Wolves](./Wolf.md).
@@ -33,6 +35,8 @@ There is also a relatively large amount of fuel and medicinal resources scattere
 A couple of wolves patrol this zone in 3 different areas. Because the region is so compact, it can be difficult to bypass predators without taking extra precautions.
 
 One or two [Deer Carcasses](./Deer%20Carcass.md) can sometimes spawn in the region.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -48,6 +52,8 @@ There are also 2 unmarked locations in the region.
 
 - [Basement (Crumbling Highway)](./Basement%20%28Crumbling%20Highway%29.md) (unmarked indoor location tracked in the [Journal](./Journal.md))
 - 2 [Warm Caves](./Warm%20Cave.md) that can be found near Road Collapse and The Arch.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

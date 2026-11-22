@@ -70,6 +70,8 @@ _For the cooked version, see [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md)._
 
 Rockfish can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 3 units per kilogram harvested.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
@@ -77,6 +79,8 @@ Rockfish can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yieldin
 | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)<br>- 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Mounted Rockfish](./Mounted%20Rockfish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
 | [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) | None | - 1.00 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

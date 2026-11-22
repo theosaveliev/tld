@@ -27,6 +27,8 @@
 >
 > — In-game description
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A **Jerry Can** is a large container that can hold up to 4 liters (1.05 Gallons) of [Lantern Fuel](./Lantern%20Fuel.md).
@@ -37,11 +39,15 @@ Jerry Cans are noticeably more weight to fuel efficient per kilogram than Lanter
 
 It is not possible to repair the condition of a Jerry Can.
 
+<span id="refilling"></span><span id="Refilling"></span>
+
 ## Refilling
 
 A Jerry Can in the player's inventory will collect any Lantern Fuel created from cooking fish (if the can is not full), preventing the spontaneous generation of a bottle of Lantern Fuel. It will also collect kerosene from harvesting a [Storm Lantern](./Storm%20Lantern.md). When multiple Jerry Cans are in the player's inventory, the can with the smallest used volume is filled first.
 
 Refueling a lantern with both a Jerry Can and Lantern Fuel in the player's inventory will use the Jerry Can first. Therefore it is best to drop the Jerry Can before refueling so the Lantern Fuel is used first.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -64,6 +70,8 @@ Examples of places that Jerry Cans are known to spawn on Interloper:
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
   - [Concentrator](./Concentrator.md) ground level
   - [Langston Mine](./Lantern%20Fuel.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

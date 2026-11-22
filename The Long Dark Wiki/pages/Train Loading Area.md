@@ -14,6 +14,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Train Loading Area is where lumber was once loaded onto trains to be transported elsewhere. It is located just west of [Train Bridge](./Train%20Bridge.md) and north-east of [Derailment](./Derailment.md).
@@ -21,6 +23,8 @@ The Train Loading Area is where lumber was once loaded onto trains to be transpo
 The only loot is a corpse, and a deer carcass that can be found sometimes lying in the snow by the side of the railroad, other than that it only serves as a landmark.
 
 A [Train Shuttle](./Train%20Shuttle.md) can be entered to escape wolves, and often contains loot.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

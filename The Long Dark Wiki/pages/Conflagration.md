@@ -22,6 +22,8 @@ Episode
 
 **Conflagration** is the only mission of Part Four: Terminus in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md). It is the last mission in the Episode, and the last mission of the Wintermute story.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Infiltrate the town. Sneak by or take down the marauding Convicts.
@@ -29,6 +31,10 @@ Episode
 - Record a radio message for the apocalypse survivors.
   - Reach the radio hut.
 
+<span id="walkthrough"></span><span id="Walkthrough"></span>
+
 ## Walkthrough
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

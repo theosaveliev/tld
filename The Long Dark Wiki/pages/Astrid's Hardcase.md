@@ -26,7 +26,11 @@
 
 **Astrid's Hardcase** is a [Tool](./Tools.md) and [Collectible](./Collectibles.md) found throughout most episodes of [Wintermute](./Wintermute.md). It belongs to [Astrid Greenwood](./Astrid%20Greenwood.md) and is one of the main plot points of the Wintermute story.
 
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+
 ## Episode 1
+
+<span id="memories"></span><span id="Memories"></span>
 
 ### Memories
 
@@ -41,19 +45,27 @@
 
 In the mission [Memories](./Memories.md), Astrid arrives with it at the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar and after a short cutscene is treated as a tool. It is treated as a tool and weighs 5.00 kg, and is a required object to be placed inside the floatplane in order to progress the mission.
 
+<span id="the_crash"></span><span id="The_Crash"></span><span id="the-crash"></span>
+
 ### The Crash
 
 > “**Hardcase found with Astrid's backpack at the crash site.**”
 
 It is found near the wreckage of the [crash site](./Mackenzie%27s%20Crashed%20Plane.md) in the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is picked up by [Will Mackenzie](./Will%20Mackenzie.md) and carried for the rest of the episode. It weighs 0.00 kg after at this point and acts as a Collectible for the rest of the game.
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
 
 The Hardcase is carried over into [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) as a key item but does not play much role in the story until the ending cutscene, where [Mathis](./Mathis.md) finds Mackenzie and tortures him for information on how to open it. The episode ends with Mathis knocking out Mackenzie.
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 ## Episode 4
 
 [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) requires the player to retrieve it once more after it is stolen by [Convicts](./Convicts.md). It is re-acquired near the end of the Episode, in the Warden's office.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -74,6 +86,8 @@ Gallery
 ![The Hardcase and Astrid's Backpack](../assets/Astrid%27s_Hardcase_and_Backpack.jpg)
 
 _The Hardcase and [Astrid's Backpack](./Astrid%27s%20Backpack.md)_
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

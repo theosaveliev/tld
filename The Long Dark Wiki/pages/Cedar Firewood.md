@@ -14,7 +14,7 @@
 
 [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png)
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Wintermute:** No
 
@@ -38,6 +38,8 @@
 
 **Cedar Firewood** is a fuel item in _The Long Dark_.
 
+<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+
 ## Fire Starting info
 
 **Cedar Firewood**
@@ -54,9 +56,13 @@
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 
+<span id="obtaining"></span><span id="Obtaining"></span>
+
 ## Obtaining
 
 Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [tool](./Tools.md). It can also be found inside of structures, firewood bins, rotten tree trunks, or near campfires and corpses. It can also be found by [Beachcombing](./Beachcombing.md).
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -68,6 +74,8 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 - A single piece of Cedar firewood has a fire duration of 60 minutes, so its 120 min/kg is more weight efficient than the 90 min/kg of [Fir Firewood](./Fir%20Firewood.md). However, Fir Firewood is more tool-efficient, since harvesting any limb costs 4% durability and Small Fir Limbs yield 4.5 hours of fuel (4.0 for Cedar) and Large Fir Limb yields 6.0 hours of fuel (5 for Cedar).
 - Cedar Firewood has the same weight efficiency as [Reclaimed Wood](./Reclaimed%20Wood.md), with two pieces of Reclaimed Wood being identical to one piece of Cedar Firewood.
 - Cedar Firewood, [Fir Firewood](./Fir%20Firewood.md), and [Reclaimed Wood](./Reclaimed%20Wood.md) can be used to craft various [Decorations](./Decorations.md) that can be used in [Safehouse Customization](./Safehouse%20Customization.md).
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -90,10 +98,12 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 | [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) |
 | [Workbench](./Work%20Bench.md) | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Workbench Vice](./Workbench%20Vice.md) |
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.073)):**
+- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**
   - Fuel Sources: Increased the heating radius of Hardwood, Softwood, and Reclaimed Wood fuel types.
   - Tuned all Fuel sources. Hardwood, Softwood, and Reclaimed wood all now have reduced burn times, but are also lighter to carry. Wood Foraging has been tuned to be more generous. Net result is Fuel is easier to find and carry, but you need more of it.
-- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
+- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

@@ -58,7 +58,11 @@ With the release of [Tales from the Far Territory](./Tales%20from%20the%20Far%20
 
 There are over 800 items that can be moved, broken down, and in some cases, built using this system. There are 150 areas that can be turned into Safehouses, along with several specific "exterior interiors" like the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in Timberwolf Mountain, and the Lookout Towers.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
+
+<span id="customization_mode"></span><span id="Customization_Mode"></span><span id="customization-mode"></span>
 
 ### Customization Mode
 
@@ -71,6 +75,8 @@ When entering an interior that can be customized, an icon of a house will appear
 - You can craft a [Framed Photo](./Framed%20Photo.md) from photos you take using the [Camera](./Camera.md) and even craft/loot [Decorations](./Decorations.md) to display inside any Safehouse.
 - Pressing Y (L1+ R1 on controller) again will leave Customization Mode, and cause the game to start saving (this is also a useful way to force an autosave).
 
+<span id="repairing_objects"></span><span id="Repairing_Objects"></span><span id="repairing-objects"></span>
+
 ### Repairing Objects
 
 You can currently repair a LIMITED number of items inside Safehouses.
@@ -80,13 +86,19 @@ You can currently repair a LIMITED number of items inside Safehouses.
   - Destroying/Harvesting the Cabinet Door will make it impossible to repair that cabinet.
 - The roofs of the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) and [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md) can be repaired (costs 20 [Cedar Firewood](./Cedar%20Firewood.md)). Repairing these roofs will increase the temperature bonus inside the buildings by +3 C.
 
+<span id="destroying_objects"></span><span id="Destroying_Objects"></span><span id="destroying-objects"></span>
+
 ### Destroying Objects
 
 Some items in Customization Mode cannot be placed into the player's inventory, they can only moved around or destroyed (typically large items).
 
 Harvestable items can be destroyed quickly, but the player will not receive any materials for doing so (ex, destroying a [Pillow](./Pillow.md) takes 2 minutes and gives nothing, but harvesting it with a [Hunting Knife](./Hunting%20Knife.md) takes 9 minutes and generates [Cloth](./Cloth.md)). Keep in mind that destroying/moving some objects, like sheet metal or [Planks](./Planks.md) covering holes in the [Hibernia Processing](./Hibernia%20Processing.md) floors, can create fall hazards.
 
+<span id="limitations"></span><span id="Limitations"></span>
+
 ## Limitations
+
+<span id="general_limitations"></span><span id="General_Limitations"></span><span id="general-limitations"></span>
 
 ### General Limitations
 
@@ -96,6 +108,8 @@ Harvestable items can be destroyed quickly, but the player will not receive any 
 - You can't destroy containers that have items in them. For example, if you want to destroy a cabinet but there are items in one of the drawers, you will have to remove the items first. Keep in mind that if you destroy an item in a Safehouse, you can't rebuild it, so please be careful what you destroy because you may not be able to get it back.
 - [Frozen Corpses](./Frozen%20Corpse.md) and [Corpses](./Corpse.md) cannot be destroyed or moved, only "respectfully removed" as part of general Safehouse clean-up.
 
+<span id="console_limitations"></span><span id="Console_Limitations"></span><span id="console-limitations"></span>
+
 ### Console Limitations
 
 This feature is very memory intensive, so it's very likely there will be a hard limit on consoles for how many items you can have inside an interior:
@@ -103,6 +117,8 @@ This feature is very memory intensive, so it's very likely there will be a hard 
 - Most PC players should be fine, but it partly depends on your computer specs.
 - Building limits for console (Xbox, PlayStation) is likely be in the 100s of items per scene.
 - The Nintendo Switch **will be the most restricted** due to hardware limitations.
+
+<span id="safehouse_decorations"></span><span id="Safehouse_Decorations"></span><span id="safehouse-decorations"></span>
 
 ## Safehouse Decorations
 
@@ -115,13 +131,19 @@ A [Furniture Workbench](./Furniture%20Workbench.md) and [Woodworking Tools](./Wo
 
 For a full list of Decorative items, see [Decorations](./Decorations.md).
 
+<span id="safehouse_locations"></span><span id="Safehouse_Locations"></span><span id="safehouse-locations"></span>
+
 ## Safehouse Locations
 
 The following locations support Safehouse Customization. Keep in mind that inside and outside customization zones are counted separately due to loading zones/outdoor customization boundaries.
 
 Note: [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) can be destroyed at the end of [Sutherland's Tale](./Sutherland%27s%20Tale.md), rendering it inaccessible as a Safehouse.
 
+<span id="lower_great_bear"></span><span id="Lower_Great_Bear"></span><span id="lower-great-bear"></span>
+
 ### Lower Great Bear
+
+<span id="ash_canyon_5"></span><span id="Ash_Canyon_(5)"></span><span id="ash_canyon_(5)"></span><span id="ash-canyon-5"></span>
 
 #### [Ash Canyon](./Ash%20Canyon.md) (5)
 
@@ -130,6 +152,8 @@ Note: [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) can be d
 - [Foreman's Retreat](./Foreman%27s%20Retreat.md)
 - [Homesteader's Respite](./Homesteader%27s%20Respite.md)
 - [Prepper Cache](./Prepper%20Cache.md) in the region
+
+<span id="blackrock_12"></span><span id="Blackrock_(12)"></span><span id="blackrock_(12)"></span><span id="blackrock-12"></span>
 
 #### [Blackrock](./Blackrock.md) (12)
 
@@ -146,6 +170,8 @@ Note: [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) can be d
 - [Trailer (Blackrock Region)](./Trailer%20%28Blackrock%20Region%29.md) on the road to the Power Plant
 - [Old Substation](./Old%20Substation.md)
 - [Prepper Cache](./Prepper%20Cache.md) in the region
+
+<span id="bleak_inlet_14"></span><span id="Bleak_Inlet_(14)"></span><span id="bleak_inlet_(14)"></span><span id="bleak-inlet-14"></span>
 
 #### [Bleak Inlet](./Bleak%20Inlet.md) (14)
 
@@ -164,12 +190,16 @@ Note: [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) can be d
 - [Bunker Alpha](./Bunker%20Alpha.md) (must be unlocked)
 - [Prepper Cache](./Prepper%20Cache.md) in the mountains
 
+<span id="broken_railroad_3"></span><span id="Broken_Railroad_(3)"></span><span id="broken_railroad_(3)"></span><span id="broken-railroad-3"></span>
+
 #### [Broken Railroad](./Broken%20Railroad.md) (3)
 
 - [Hunting Lodge](./Hunting%20Lodge.md)
 - [Maintenance Yard](./Maintenance%20Yard.md) (2)
   - The office in the yard
   - Maintenance Shed
+
+<span id="coastal_highway_28_17_on_im"></span><span id="Coastal_Highway_(28)_(17_on_I/M)"></span><span id="coastal_highway_(28)_(17_on_i/m)"></span><span id="coastal-highway-28-17-on-im"></span>
 
 #### [Coastal Highway](./Coastal%20Highway.md) (28) (17 on I/M)
 
@@ -197,6 +227,8 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
   - Trailer north of Coastal Townsite
   - Cabin north of [Fishing Camp](./Fishing%20Camp.md)/south of [Bear Creek Campground](./Bear%20Creek%20Campground.md) (ruined on I/M)
 
+<span id="desolation_point_4"></span><span id="Desolation_Point_(4)"></span><span id="desolation_point_(4)"></span><span id="desolation-point-4"></span>
+
 #### [Desolation Point](./Desolation%20Point.md) (4)
 
 - [Lonely Lighthouse](./Lonely%20Lighthouse.md)
@@ -205,14 +237,20 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
   - 3 connected trailers counting as 1 space
   - Trailer north of the warehouse
 
+<span id="forlorn_muskeg_1"></span><span id="Forlorn_Muskeg_(1)"></span><span id="forlorn_muskeg_(1)"></span><span id="forlorn-muskeg-1"></span>
+
 #### [Forlorn Muskeg](./Forlorn%20Muskeg.md) (1)
 
 - [Prepper Cache](./Prepper%20Cache.md) in the region
+
+<span id="hushed_river_valley_2"></span><span id="Hushed_River_Valley_(2)"></span><span id="hushed_river_valley_(2)"></span><span id="hushed-river-valley-2"></span>
 
 #### [Hushed River Valley](./Hushed%20River%20Valley.md) (2)
 
 - [Bunker Gamma](./Bunker%20Gamma.md) (must be unlocked)
 - [Prepper Cache](./Prepper%20Cache.md) in the region
+
+<span id="mountain_town_16"></span><span id="Mountain_Town_(16)"></span><span id="mountain_town_(16)"></span><span id="mountain-town-16"></span>
 
 #### [Mountain Town](./Mountain%20Town.md) (16)
 
@@ -223,6 +261,8 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 - [Convenience Store](./Convenience%20Store.md)
 - [Milton Park](./Milton%20Park.md) building
 - [Prepper Cache](./Prepper%20Cache.md) in the region
+
+<span id="mystery_lake_16"></span><span id="Mystery_Lake_(16)"></span><span id="mystery_lake_(16)"></span><span id="mystery-lake-16"></span>
 
 #### [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (16)
 
@@ -236,6 +276,8 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 - [Logging Camp](./Logging%20Camp.md) (3 trailers)
 - [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md) (5 cabins)
 - [Prepper Cache](./Prepper%20Cache.md) in the region
+
+<span id="pleasant_valley_18_17_on_misery"></span><span id="Pleasant_Valley_(18)_(17_on_Misery)"></span><span id="pleasant_valley_(18)_(17_on_misery)"></span><span id="pleasant-valley-18-17-on-misery"></span>
 
 #### [Pleasant Valley](./Pleasant%20Valley.md) (18) (17 on Misery)
 
@@ -258,34 +300,52 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
   - [Rural Store](./Rural%20Store.md)
 - [Prepper Cache](./Prepper%20Cache.md) in the region
 
+<span id="timberwolf_mountain_2"></span><span id="Timberwolf_Mountain_(2)"></span><span id="timberwolf_mountain_(2)"></span><span id="timberwolf-mountain-2"></span>
+
 #### [Timberwolf Mountain](./Timberwolf%20Mountain.md) (2)
 
 - [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)
 - [Prepper Cache](./Prepper%20Cache.md) in the region
 
+<span id="transitions"></span><span id="Transitions"></span>
+
 ### Transitions
+
+<span id="crumbling_highway_1"></span><span id="Crumbling_Highway_(1)"></span><span id="crumbling_highway_(1)"></span><span id="crumbling-highway-1"></span>
 
 #### [Crumbling Highway](./Crumbling%20Highway.md) (1)
 
 - [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) Basement
 
+<span id="keepers_pass_north_0"></span><span id="Keeper&#x27;s_Pass_North_(0)"></span><span id="keeper&#x27;s_pass_north_(0)"></span><span id="keepers-pass-north-0"></span>
+
 #### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (0)
 
 - None
+
+<span id="keepers_pass_south_1"></span><span id="Keeper&#x27;s_Pass_South_(1)"></span><span id="keeper&#x27;s_pass_south_(1)"></span><span id="keepers-pass-south-1"></span>
 
 #### [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) (1)
 
 - [Mirthless Fork](./Mirthless%20Fork.md) Trailer
 
+<span id="the_ravine_0"></span><span id="The_Ravine_(0)"></span><span id="the_ravine_(0)"></span><span id="the-ravine-0"></span>
+
 ### [The Ravine](./The%20Ravine.md) (0)
 
 - None
+
+<span id="winding_river_0"></span><span id="Winding_River_(0)"></span><span id="winding_river_(0)"></span><span id="winding-river-0"></span>
 
 ### [Winding River](./Winding%20River.md) (0)
 
 - None
 
+<span id="the_far_territory"></span><span id="The_Far_Territory"></span><span id="the-far-territory"></span>
+
 ### The Far Territory
+
+<span id="forsaken_airfield_10"></span><span id="Forsaken_Airfield_(10)"></span><span id="forsaken_airfield_(10)"></span><span id="forsaken-airfield-10"></span>
 
 #### [Forsaken Airfield](./Forsaken%20Airfield.md) (10)
 
@@ -301,6 +361,8 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 - [Mindful Cabin](./Mindful%20Cabin.md)
 - [Island Cottage](./Island%20Cottage.md)
 
+<span id="sundered_pass_8"></span><span id="Sundered_Pass_(8)"></span><span id="sundered_pass_(8)"></span><span id="sundered-pass-8"></span>
+
 #### [Sundered Pass](./Sundered%20Pass.md) (8)
 
 - [Weather Station](./Weather%20Station.md) (2)
@@ -314,9 +376,13 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 - [Final Refuge](./Final%20Refuge.md)
 - [Placid Notch](./Placid%20Notch.md)
 
+<span id="transfer_pass_1"></span><span id="Transfer_Pass_(1)"></span><span id="transfer_pass_(1)"></span><span id="transfer-pass-1"></span>
+
 #### [Transfer Pass](./Transfer%20Pass.md) (1)
 
 - [Vacant Depot](./Vacant%20Depot.md)
+
+<span id="zone_of_contamination_10"></span><span id="Zone_of_Contamination_(10)"></span><span id="zone_of_contamination_(10)"></span><span id="zone-of-contamination-10"></span>
 
 #### [Zone of Contamination](./Zone%20of%20Contamination.md) (10)
 
@@ -329,13 +395,21 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 - Trailer south-west of the open mine pit
 - [Pump House](./Pump%20House.md)
 
+<span id="transitions_1"></span><span id="transitions-1"></span>
+
 ### Transitions
+
+<span id="far_range_branch_line_0"></span><span id="Far_Range_Branch_Line_(0)"></span><span id="far_range_branch_line_(0)"></span><span id="far-range-branch-line-0"></span>
 
 #### [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (0)
 
 - None
 
+<span id="cauldron_island"></span><span id="Cauldron_Island"></span><span id="cauldron-island"></span>
+
 ### Cauldron Island
+
+<span id="port_remnant_5"></span><span id="Port_Remnant_(5)"></span><span id="port_remnant_(5)"></span><span id="port-remnant-5"></span>
 
 #### [Port Remnant](./Port%20Remnant.md) (5)
 
@@ -344,29 +418,43 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 - [Looted Grotto](./Looted%20Grotto.md) (1)
 - 2 Cabins west of the second [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) (2)
 
+<span id="anna_island____track_section_1_1"></span><span id="Anna_Island_--_Track_Section_1_(1)"></span><span id="anna_island_--_track_section_1_(1)"></span><span id="anna-island----track-section-1-1"></span>
+
 #### [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) (1)
 
 - [Huts](./Huts.md) (1 cabin)
+
+<span id="anna_island____track_section_2_1"></span><span id="Anna_Island_--_Track_Section_2_(1)"></span><span id="anna_island_--_track_section_2_(1)"></span><span id="anna-island----track-section-2-1"></span>
 
 #### [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) (1)
 
 - [Repair Depot](./Repair%20Depot.md) at Western [Railyard (Track Section 2)](./Railyard%20%28Track%20Section%202%29.md) (1)
 
+<span id="anna_island____track_section_3_1"></span><span id="Anna_Island_--_Track_Section_3_(1)"></span><span id="anna_island_--_track_section_3_(1)"></span><span id="anna-island----track-section-3-1"></span>
+
 #### [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) (1)
 
 - [Cove (Track Section 3)](./Cove%20%28Track%20Section%203%29.md) (1 cabin)
+
+<span id="anna_island____track_section_4_1"></span><span id="Anna_Island_--_Track_Section_4_(1)"></span><span id="anna_island_--_track_section_4_(1)"></span><span id="anna-island----track-section-4-1"></span>
 
 #### [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) (1)
 
 - [Repair Depot](./Repair%20Depot.md)
 
+<span id="anna_island____track_section_5_0"></span><span id="Anna_Island_--_Track_Section_5_(0)"></span><span id="anna_island_--_track_section_5_(0)"></span><span id="anna-island----track-section-5-0"></span>
+
 #### [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) (0)
 
 - None
 
+<span id="anna_island____track_section_6_0"></span><span id="Anna_Island_--_Track_Section_6_(0)"></span><span id="anna_island_--_track_section_6_(0)"></span><span id="anna-island----track-section-6-0"></span>
+
 #### [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) (0)
 
 - None
+
+<span id="places_that_do_not_support_customization"></span><span id="Places_that_do_not_support_customization"></span><span id="places-that-do-not-support-customization"></span>
 
 ## Places that do not support customization
 
@@ -378,6 +466,8 @@ There are about two dozen places in the game that players cannot build Safehouse
 - The Coal Tipple tower next to [Vacant Depot](./Vacant%20Depot.md).
 - [Warm Caves](./Warm%20Cave.md) and indoor Transition Zone Caves ([Cave (Transition Zone)](./Cave%20%28Transition%20Zone%29.md), [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md), [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md), [Steam Tunnels](./Steam%20Tunnels.md)).
 - Mines ([Gold Mine](./Gold%20Mine.md), [Last Prospect](./Last%20Prospect.md), [Langston Mine](./Langston%20Mine.md), [Abandoned Mine](./Abandoned%20Mine.md)).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

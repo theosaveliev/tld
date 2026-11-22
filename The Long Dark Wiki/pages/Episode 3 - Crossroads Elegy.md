@@ -31,13 +31,19 @@
 
 _"In the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood from near-death. Facing the blizzards of Pleasant Valley, Astrid must bring all of her skills as a doctor to bear on the survivors she encounters. Will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?"_
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 **_Crossroads Elegy_** is the third episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and is followed by [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valley.md) region.
 
+<span id="main_missions"></span><span id="Main_Missions"></span><span id="main-missions"></span>
+
 ## Main Missions
+
+<span id="trauma"></span><span id="Trauma"></span>
 
 ### Trauma
 
@@ -49,6 +55,8 @@ _Main article: [Trauma](./Trauma.md)_
 
 — In-game description
 
+<span id="fallen_star"></span><span id="Fallen_Star"></span><span id="fallen-star"></span>
+
 ### Fallen Star
 
 ![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
@@ -58,6 +66,8 @@ _Main article: [Fallen Star](./Fallen%20Star.md)_
 "_Survivors of an airline crash in the mountains have found their way to the Community Hall in Thomson's Crossing. There might be others out there in need of help. Can you save them?_"
 
 — In-game description
+
+<span id="coming_storm"></span><span id="Coming_Storm"></span><span id="coming-storm"></span>
 
 ### Coming Storm
 
@@ -69,6 +79,8 @@ _Main article: [Coming Storm](./Coming%20Storm.md)_
 
 — In-game description
 
+<span id="aftermath"></span><span id="Aftermath"></span>
+
 ### Aftermath
 
 ![Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png)
@@ -79,7 +91,11 @@ _Main article: [Aftermath](./Aftermath.md)_
 
 — In-game description
 
+<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+
 ## Side Missions
+
+<span id="blackrock"></span><span id="Blackrock"></span>
 
 ### Blackrock
 
@@ -91,6 +107,8 @@ _Main article: [Blackrock (mission)](./Blackrock%20%28mission%29.md)_
 
 — In-game description
 
+<span id="forest_talkers"></span><span id="Forest_Talkers"></span><span id="forest-talkers"></span>
+
 ### Forest Talkers
 
 ![Missions story ep3 Fallen Star](../assets/Missions_story_ep3_Fallen_Star.png)
@@ -101,6 +119,8 @@ _Main article: [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mi
 
 — In-game description
 
+<span id="tall_tales"></span><span id="Tall_Tales"></span><span id="tall-tales"></span>
+
 ### Tall Tales
 
 _Main article: [Tall Tales](./Tall%20Tales.md)_
@@ -108,6 +128,8 @@ _Main article: [Tall Tales](./Tall%20Tales.md)_
 "_Books describing odd or mysterious events in Pleasant Valley. Investigate to find out more about the life and character of people in the Region._"
 
 — In-game description
+
+<span id="mollys_gift"></span><span id="Molly&#x27;s_Gift"></span><span id="molly&#x27;s_gift"></span><span id="mollys-gift"></span>
 
 ### Molly's Gift
 
@@ -117,6 +139,8 @@ _Main article: [Molly's Gift](./Molly%27s%20Gift.md)_
 
 — In-game description
 
+<span id="joplins_bunker_raid"></span><span id="Joplin&#x27;s_Bunker_Raid"></span><span id="joplin&#x27;s_bunker_raid"></span><span id="joplins-bunker-raid"></span>
+
 ### Joplin's Bunker Raid
 
 _Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)_
@@ -124,6 +148,8 @@ _Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)_
 "_The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left._"
 
 — In-game description
+
+<span id="church_artifact"></span><span id="Church_Artifact"></span><span id="church-artifact"></span>
 
 ### Church Artifact
 
@@ -133,13 +159,19 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 
 — In-game description
 
+<span id="cast"></span><span id="Cast"></span>
+
 ## Cast
+
+<span id="major_characters"></span><span id="Major_Characters"></span><span id="major-characters"></span>
 
 ### Major Characters
 
 - [Astrid Greenwood](./Astrid%20Greenwood.md)- (playable character) Jennifer Hale
 - [Molly](./Molly.md) - Jennifer Kitchen
 - [Father Thomas](./Father%20Thomas.md) - Alec Willows
+
+<span id="minor_characters"></span><span id="Minor_Characters"></span><span id="minor-characters"></span>
 
 ### Minor Characters
 
@@ -151,11 +183,17 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 - Lost Crash Survivor, Ava - Aimee Ayottee
 - Radio Voice - (man on the radio calling from Perseverance Mills) - Noel Johansen
 
+<span id="affliction_availability"></span><span id="Affliction_Availability"></span><span id="affliction-availability"></span>
+
 ## Affliction Availability
+
+<span id="positive_benefit"></span><span id="Positive_Benefit"></span><span id="positive-benefit"></span>
 
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
+
+<span id="negative_affliction"></span><span id="Negative_Affliction"></span><span id="negative-affliction"></span>
 
 ### Negative Affliction
 
@@ -166,9 +204,13 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
+<span id="craft_able_unlocks"></span><span id="Craft-able_Unlocks"></span><span id="craft-able_unlocks"></span><span id="craft-able-unlocks"></span>
+
 ## Craft-able Unlocks
 
 - [Wolfskin Coat](./Wolfskin%20Coat.md)
+
+<span id="achievements"></span><span id="Achievements"></span>
 
 ## Achievements
 
@@ -180,6 +222,8 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 - ![Tall Tales (Achievement) icon](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
 - ![Every Last One icon](../assets/Every_Last_One_icon.png) [Every Last One](./Every%20Last%20One.md)
 - ![There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png) [There Will Be Blood](./There%20Will%20Be%20Blood.md)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

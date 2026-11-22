@@ -42,6 +42,8 @@ Has a bed
 
 Has a workbench|-
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Camp Office's location makes it arguably the best [safehouse](./Safehouse.md) in most [gameplay modes](./Survival%20Mode.md#Experience), as it is centrally located both midway other [Regions](./Region.md) on [Great Bear](./Great%20Bear%20Island.md), as well as within Mystery Lake itself.
@@ -56,11 +58,15 @@ All the containers combined: Dresser (2 x 10 kg), Cupboard (15 kg), and [File Ca
 
 There is also a [metal container](./Metal%20Container.md) outside behind the building, ideal for storing both perishables such as meat, and items intended to be left uncured, like [Green Birch Saplings](./Green%20Birch%20Sapling.md). Keep in mind that Ruined items disappear when they reach 0% condition inside a container, so consider storing food on the ground instead.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 It is implied in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) that [Jeremiah](./Jeremiah.md) would regularly shelter in the Camp Office, judging by the amount of discarded [Pork and Beans](./Pork%20and%20Beans.md) cans left around.
 
 This location is one of the most iconic places in the game as an important central location in the first region to be released.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

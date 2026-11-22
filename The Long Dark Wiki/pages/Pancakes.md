@@ -44,6 +44,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Pancakes** are a food item made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Pancakes**
@@ -71,9 +73,13 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Quantity:** 0.05 kg
 
+<span id="analysis"></span><span id="Analysis"></span>
+
 ## Analysis
 
 Prepared pancakes are generally not a very useful food to bring along when travelling, as they tend to decay rather quickly. However, their dry ingredients only weigh around 0.225 kg; including the water brings the total weight of ingredients up to 0.375 kg. This brings their total energy density up to 2,222 kcal/kg, or 1,300 kcal/kg if the water required is included. If the survivor has level 5 [Cooking](./Cooking.md), this energy density can be improved to 2,777 kcal/kg, or 1,625 kcal/kg including water. Overall, they make an adequate food source when travelling.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

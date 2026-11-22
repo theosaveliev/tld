@@ -6,7 +6,7 @@
 
 [Prison Transport Manifest icon](../assets/Prison_Transport_Manifest_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -34,6 +34,8 @@
 
 **Prison Transport Manifest** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Prison Transport Manifest**_
@@ -60,16 +62,20 @@ Total roster: 15 inmates
 
 Known medical conditions: None.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Originally, only 12 inmates were on the list. After Episode 1's Redux launch however, Hobbs was added to the list resulting in 13 prisoners. After Episode 4 was released, the list was further amended to have Vachon and Heller stealthily added to the list, making the bus list consist of 15 prisoners.
 - LECLERC, Y. is mentioned by [Vachon](./Vachon.md) at the start of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), killed with an [arrow through the chest](./Molly.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Hobbs was added to the list with the Redux release of Episode 1.
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Vachon and Heller were added to the Prison Transport Manifest with the release of Episode 4.

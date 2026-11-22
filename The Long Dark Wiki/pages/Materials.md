@@ -20,7 +20,11 @@
 
 **Materials** are items that the player uses primarily for the use of [Crafting](./Crafting.md) better items, such as Tools, Clothing, First Aid, Fire Starting supplies, and sometimes even Food and Drink.
 
+<span id="animal_products"></span><span id="Animal_Products"></span><span id="animal-products"></span>
+
 ## Animal Products
+
+<span id="fresh_hides"></span><span id="Fresh_Hides"></span><span id="fresh-hides"></span>
 
 ### Fresh Hides
 
@@ -34,6 +38,8 @@
 | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 0.10 kg<br>_(0.22 lb)_ | - 3 days |
 | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 0.75 kg<br>_(1.65 lb)_ | - 7 days |
 
+<span id="cured_hides"></span><span id="Cured_Hides"></span><span id="cured-hides"></span>
+
 ### Cured Hides
 
 | [Materials2](../assets/Materials2.png) | Item | Weight | Craft into |
@@ -46,13 +52,19 @@
 | [Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png) | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | 0.10 kg<br>_(0.22 lb)_ | - [Rabbitskin Hat icon](../assets/Rabbitskin_Hat_icon.png) [Rabbitskin Hat](./Rabbitskin%20Hat.md)<br>- [Rabbitskin Mitts icon](../assets/Rabbitskin_Mitts_icon.png) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) |
 | [Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 0.75 kg<br>_(1.65 lb)_ | - [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) [Wolfskin Coat](./Wolfskin%20Coat.md)<br>- [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) [Wolfskin Hat](./Wolfskin%20Hat.md)<br>- [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) [Wolfskin Pants](./Wolfskin%20Pants.md) |
 
+<span id="other"></span><span id="Other"></span>
+
 ### Other
 
 | [Materials2](../assets/Materials2.png) | Item | Weight | Craft into |
 | --- | --- | --- | --- |
 | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) | [Cougar Claw](./Cougar%20Claw.md) | 0.07 kg<br>_(0.154 lb)_ | - Used to Forge [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) |
 
+<span id="plant"></span><span id="Plant"></span>
+
 ## Plant
+
+<span id="produce"></span><span id="Produce"></span>
 
 ### Produce
 
@@ -65,6 +77,8 @@
 | [Rose Hip icon](../assets/Rose_Hip_icon.png) | [Rose Hip](./Rose%20Hip.md) | 0.01 kg<br>_(0.022 lb)_ | - 8 can be found when scavenging Rose Hip Bushes<br>- 24 are used to create [Prepared Rose Hips icon](../assets/Prepared_Rose_Hips_icon.png) [Prepared Rose Hips](./Prepared%20Rose%20Hips.md)<br>- 4 are used as Recipe Ingredients to create [Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)<br>- 8 are used as Recipe Ingredients to create [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md)<br>- Counts as Harvesteable Plant for Trades (when unprepared) |
 | [Birch Bark icon](../assets/Birch_Bark_icon.png) | [Birch Bark](./Birch%20Bark.md) | 0.05 kg _(0.11 lbs)_ | - Found randomly in Birch Forests<br>- 2 are used to create[Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png) [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)<br>- Counts as Harvestable Plant for Trades (when unprepared)<br>- Can be used as a firestarter (when unprepared) |
 
+<span id="prepared"></span><span id="Prepared"></span>
+
 ### Prepared
 
 | [Materials2](../assets/Materials2.png) | Item | Weight | Comment |
@@ -72,6 +86,8 @@
 | [Acorn Grounds icon](../assets/Acorn_Grounds_icon.png) | [Acorn Grounds](./Acorn%20Grounds.md) | 0.20 kg<br>_(0.44 lb)_ | - Produced after using a [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) to crush either 4[Acorns (Cooked) icon](../assets/Acorns_%28Cooked%29_icon.png) [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) or 1[Acorns (Cooked Large Portion) icon](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md)<br>- 1 can be used to create[Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)<br>- 1 can be used as a Recipe Ingredient to create:<br>- [Acorn Bannock icon](../assets/Acorn_Bannock_icon.png) [Acorn Bannock](./Acorn%20Bannock.md)<br>- [Acorn Pancakes icon](../assets/Acorn_Pancakes_icon.png) [Acorn Pancakes](./Acorn%20Pancakes.md)<br>- [Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) [Lily's Pancakes](./Lily%27s%20Pancakes.md)<br>- [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md)<br>- [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) |
 | [Prepared Acorns icon](../assets/Prepared_Acorns_icon.png) | [Prepared Acorns](./Prepared%20Acorns.md) | 0.05 kg<br>_(0.11 lb)_ | - Cook to produce [Acorns (Cooked) icon](../assets/Acorns_%28Cooked%29_icon.png) [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) |
 | [Prepared Acorns (Large Portion) icon](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) | [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | 0.25 kg<br>_(0.55 lb)_ | - Produced after grouping 4 Prepared Acorns together<br>- Cook to produce [Acorns (Cooked Large Portion) icon](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
+
+<span id="sapling"></span><span id="Sapling"></span>
 
 ### Sapling
 
@@ -82,12 +98,16 @@
 | [Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png) | [Green Birch Sapling](./Green%20Birch%20Sapling.md) | 0.30 kg<br>_(0.66 lb)_ | - Cure indoors for 4 days<br>- 2 are used to craft [Bushcraft Bow icon](../assets/Bushcraft_Bow_icon.png) [Bushcraft Bow](./Bushcraft%20Bow.md) |
 | [Green Maple Sapling icon](../assets/Green_Maple_Sapling_icon.png) | [Green Maple Sapling](./Green%20Maple%20Sapling.md) | 0.20 kg<br>_(0.44 lb)_ | - Cure indoors for 6 days |
 
+<span id="wood"></span><span id="Wood"></span>
+
 ### Wood
 
 | [Materials2](../assets/Materials2.png) | Item | Weight | Comment |
 | --- | --- | --- | --- |
 | [Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) | [Reclaimed Wood](./Reclaimed%20Wood.md) | 0.10 kg<br>_(0.22 lb)_ | - Used to craft[Snare icon](../assets/Snare_icon.png) [Snare](./Snare.md)<br>- Can be used as Fuel for Fires |
 | [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) |  | - Used to create a [Snow Shelter icon](../assets/Snow_Shelter_icon.png) [Snow Shelter](./Snow%20Shelter.md) or[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md)<br>- Can be used a Fuel for Fires |
+
+<span id="gunsmithing"></span><span id="Gunsmithing"></span>
 
 ## Gunsmithing
 
@@ -100,12 +120,16 @@
 | [Scrap Lead icon](../assets/Scrap_Lead_icon.png) | [Scrap Lead](./Scrap%20Lead.md) | 0.25 kg<br>_(0.55 lb)_ | - Can be melted down at an Ammunition Work Bench to create 6 Bullets |
 | [Stump Remover icon](../assets/Stump_Remover_icon.png) | [Stump Remover](./Stump%20Remover.md) | 0.75 kg<br>_(1.65 lb)_ | - Can be mixed with Charcoal and Dusting Sulfur at an Ammunition Work Bench to produce [[Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) Can of Gunpowder](./Revolver%20Ammunition.md) |
 
+<span id="archery"></span><span id="Archery"></span>
+
 ## Archery
 
 | [Materials2](../assets/Materials2.png) | Item | Weight | Comment |
 | --- | --- | --- | --- |
 | [Arrow Shaft icon](../assets/Arrow_Shaft_icon.png) | [Arrow Shaft](./Arrow%20Shaft.md) | 0.05 kg<br>_(0.11 lb)_ | - Used to create [Simple Arrow icon](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md) |
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Crow Feather](./Crow%20Feather.md) | 0.01 kg<br>_(0.022 lb)_ | - Used to create [Simple Arrow icon](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md)<br>- Used to create[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md)<br>- Used to create[Fishing Lure (Acorns) icon](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)<br>- Used to create[Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)<br>- Used to create[Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) |
+
+<span id="repair"></span><span id="Repair"></span>
 
 ## Repair
 
@@ -115,6 +139,8 @@
 | [Cured Leather icon](../assets/Cured_Leather_icon.png) | [Cured Leather](./Cured%20Leather.md) | 0.10 kg<br>_(0.22 lb)_ | - Used to repair Leather Clothing, most importantly the [Moose-Hide Satchel](./Moose-Hide%20Satchel.md), [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) and [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) |
 | [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 0.01 kg<br>_(0.022 lb)_ | - Used to craft and repair[Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) and[Improvised Insulation icon](../assets/Improvised_Insulation_icon.png) [Improvised Insulation](./Improvised%20Insulation.md)<br>- Used as trading currency for the [Trader](./Trader.md)<br>- Used to craft various [Decorations](./Decorations.md) |
 | [Scrap Metal icon](../assets/Scrap_Metal_icon.png) | [Scrap Metal](./Scrap%20Metal.md) | 0.20 kg<br>_(0.44 lb)_ | - Used to craft:<br>- [Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Up](./Fishing%20Tip-Up.md)<br>- [Hook icon](../assets/Hook_icon.png) [Hook](./Hook.md)<br>- [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md)<br>- [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) [Simple Fishing Lure](./Simple%20Fishing%20Lure.md)<br>- [Fishing Lure (Acorns) icon](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)<br>- [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)<br>- [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)<br>- Used to repair Metal Tools:<br>- [Can Opener icon](../assets/Can_Opener_icon.png) [Can Opener](./Can%20Opener.md)<br>- [Flashlight icon](../assets/Flashlight_icon.png) [Flashlight](./Flashlight.md)<br>- [Miner's Flashlight icon](../assets/Miner%27s_Flashlight_icon.png) [Miner's Flashlight](./Miner%27s%20Flashlight.md)<br>- [Hacksaw icon](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md)<br>- [Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)<br>- [Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)<br>- [Storm Lantern icon](../assets/Storm_Lantern_icon.png) [Storm Lantern](./Storm%20Lantern.md)<br>- [Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png) [Spelunker's Lantern](./Spelunker%27s%20Lantern.md)<br>- Used to reapir Metal Clothing<br>- [Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md)<br>- [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md)<br>- Used to craft these Tools at a[Forge icon](../assets/Forge_icon.png) [Forge](./Forge.md):<br>- [Arrowhead icon](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md)<br>- [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)<br>- [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)<br>- [Spear Head icon](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md)<br>- [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) |
+
+<span id="other_1"></span><span id="other-1"></span>
 
 ### Other
 

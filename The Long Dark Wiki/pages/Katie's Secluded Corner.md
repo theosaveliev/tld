@@ -16,17 +16,23 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Katie's Secluded Corner is located south of the [Blocked Highway](./Blocked%20Highway.md). It can be located by leaving the road before the Blocked Highway--roughly across the road from the entrance to [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md)--and walking around the boulders on the ice until you see the path leading between the large rocks ahead of you.
 
 While the area is relatively safe, high winds can blow out [campfires](./Campfire.md) and leave the player exposed to the cold, and a prowling wolf may sometimes wander into the sheltered corner. Due to its secluded nature and the path leading there being somewhat hard to find, it can be easy for new players to overlook. A [Memento Hint](./Mementos.md) pointing out this location can be found behind the visor of a truck near the entrance of [Hibernia Processing](./Hibernia%20Processing.md).
 
+<span id="possible_items"></span><span id="Possible_Items"></span><span id="possible-items"></span>
+
 ## Possible Items
 
 Most of the items will be located next to a burnt-out campfire, these include a [Survival Bow](./Survival%20Bow.md), [Research Book](./Research%20Book.md) and a [Deer Carcass](./Deer%20Carcass.md). However, near the cliff face, is where a [Frozen Corpse](./Frozen%20Corpse.md) may reside (possibly the eponymous Katie) along with a possible [Hatchet](./Hatchet.md).
 
 Nearby is a grove of [Rabbits](./Rabbit.md), which can wander down the hill, and attract [wolves](./Wolf.md), so be cautious when traversing.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

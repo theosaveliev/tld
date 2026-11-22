@@ -13,7 +13,7 @@
 
 [Smallmouth Bass (Cooked) icon](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)
 
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
 
 **Wintermute:** No
 
@@ -45,6 +45,8 @@ _For the unique bass found in the [Episode 3](./Episode%203%20-%20Crossroads%20E
 
 **Smallmouth Bass (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Smallmouth Bass (Cooked)**
@@ -58,11 +60,15 @@ _For the unique bass found in the [Episode 3](./Episode%203%20-%20Crossroads%20E
 
 **Quantity:** 1.00 kg
 
+<span id="recipe_1"></span><span id="recipe-1"></span>
+
 ## Recipe
 
 Cooking bass takes 30 minutes and is be obtained by using a lit [fire](./Fire.md). Cooking increases it's condition by 50%, decays 4 times slower than raw meat, and has a reduces chance of [food poisoning](./Afflictions.md) over raw meat, but decreasing it's weigh by 35%. Cooked bass' energy density is 455 calories-per-kilogram. Cooking fish also yields a small amount of [Lantern Fuel](./Lantern%20Fuel.md).
 
 Cooking bass improves the [cooking skill](./Skills.md#Cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn (twice it's 'Ready' cooking time), destroying the item and damaging a Cooking Pot if used.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -77,6 +83,8 @@ Cooking bass improves the [cooking skill](./Skills.md#Cooking). Using a [Cooking
 ![Ruined](../assets/Smallmouth_Bass_%28Cooked%29_Ruined_icon.png)
 
 ![Old model.](../assets/Smallmouth_bass_cooked.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

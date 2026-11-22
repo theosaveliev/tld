@@ -24,9 +24,13 @@
 
 Unlike [Survival Mode](./Survival%20Mode.md), Wintermute is primarily targeted towards players who want to experience a more campaign-like experience; focusing on the worldbuilding and lore of [Great Bear Island](./Great%20Bear%20Island.md) and _The Long Dark's_ universe outside of the Island.
 
+<span id="premise"></span><span id="Premise"></span>
+
 ## Premise
 
 Wintermute centers around the relationship between [Dr. Astrid Greenwood](./Astrid%20Greenwood.md) and a bush pilot named [Will Mackenzie](./Will%20Mackenzie.md), whom she hires to fly herself and her [mysterious hardcase](./Astrid%27s%20Hardcase.md) to a remote location in the Canadian wilderness of [Great Bear Island](./Great%20Bear%20Island.md). After a [mysterious geomagnetic disaster](./First%20Flare.md) causes their plane to crash land, Astrid and Will become separated. Now the two must survive this cold and unforgiving landscape they find themselves stranded in while doing whatever it takes to reunite safely. Experience the story from their perspectives, and survive while interacting with the other surviving denizens of Great Bear Island.
+
+<span id="episodic_structure"></span><span id="Episodic_structure"></span><span id="episodic-structure"></span>
 
 ## Episodic structure
 
@@ -34,11 +38,15 @@ _The Long Dark's_ episodic structure borrows from TV to deliver a well-paced nar
 
 Gameplay tends to be more structured than [Survival Mode](./Survival%20Mode.md), with scripted narrative events being more present, new dialogue and music, and the inability to explore certain areas of the local region until certain chapters are completed. The game will also deny entry certain transition zones to other regions, making it impossible to fully explore Great Bear Island. (Ex. Can't leave [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to go to [The Ravine](./The%20Ravine.md) in Episode 2). Items also cannot be taken between Episodes (save for Episode 1 and 2) due to story reasons.
 
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+
 ### Episode 1
 
 [Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) launched August 1, 2017.
 
 Will Mackenzie's plane has crashed due to a mysterious geomagnetic event. He and his fellow passenger [Astrid Greenwood](./Astrid%20Greenwood.md) are now separated after Will becomes stranded at the bottom of a nearby ravine over the course of one night. Finding nothing but Astrid's hardcase the next morning, Will must now do his best to survive in the wilderness while trying to find any trace of the doctor, assuming that she is even still alive. His journey takes him to the small forgotten Town of [Milton](./Milton.md), where he starts to understand the extent of the Quiet Apocalypse that sent his plane crashing down into this new world.
+
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
 
 ### Episode 2
 
@@ -46,11 +54,15 @@ Will Mackenzie's plane has crashed due to a mysterious geomagnetic event. He and
 
 Mackenzie continues his search for Astrid after traveling to the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) region, but only now does he fully realize the depth of the situation he has found himself in after saving a [local trapper](./Jeremiah.md) from being nearly mauled to death by a [bear](./Old%20Bear.md). During his journey that takes him across multiple nearby regions, he must make difficult, yet critical life altering decisions-- which will ultimately determine just how far he is willing to go to survive in this harsh new world. After proving that he is tough enough to survive in this harsh new reality, Mackenzie now finds himself with two objectives: reunite with Astrid with the hardcase in tow, and survive long enough to deliver the message "Wintermute" to someone on the other side of the Island.
 
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+
 ### Episode 3
 
 [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) launched on October 22, 2019.
 
 After surviving the plane crash and escaping the Town of Milton, Astrid finds herself facing the rather ironic harsh blizzards of [Pleasant Valley](./Pleasant%20Valley.md). Searching for Mackenzie, her skills as a doctor come to bear as she encounters other survivors that have also found their plane grounded by the dancing lights in the sky. As the central mystery of the hardcase draws the plot closer to [Perseverance Mills](./Perseverance%20Mills.md), how far is Astrid willing to go to find Mackenzie?
+
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
 
 ### Episode 4
 
@@ -58,15 +70,21 @@ After surviving the plane crash and escaping the Town of Milton, Astrid finds he
 
 Mackenzie’s story continues after his ill-fated meeting with the convict [Mathis](./Mathis.md) inside the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md). His abduction lands him in the far reaches of [Blackrock](./Blackrock.md), as he tangles to appease the very [Convicts](./Convicts.md) of the [local prison complex](./Blackrock%20Prison.md) that kidnapped him while also following the instructions of a [mysterious new benefactor](./Jace.md) aiming to free them both.
 
+<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+
 ### Episode 5
 
 [The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) launched on March 31, 2026.
 
 The episode starts out with Astrid arriving in [Perseverance Mills](./Perseverance%20Mills.md) and continues into 4 parts where you play as Will and Astrid. Both trying to save the people of Perseverance Mills. With the apperance of both old and new faces. Can they manage to find eachother trough alot of struggle and hardship?
 
+<span id="difficulty"></span><span id="Difficulty"></span>
+
 ## Difficulty
 
 There are three gameplay difficulty options for Wintermute.
+
+<span id="green_survivor"></span><span id="Green_Survivor"></span><span id="green-survivor"></span>
 
 ### Green Survivor
 
@@ -77,12 +95,16 @@ There are three gameplay difficulty options for Wintermute.
 - Wildlife may attack, but are less aggressive.
   - [Wolves](./Wolf.md) are scared by the player, like in Pilgrim.
 
+<span id="capable_survivor"></span><span id="Capable_Survivor"></span><span id="capable-survivor"></span>
+
 ### Capable Survivor
 
 - For players with some experience, and those looking for a balance between exploration and survival.
   - Equivalent to the [Voyageur](./Voyageur.md) difficulty in Survival Mode.
 - Wildlife is sparse, but can seek you out.
 - Survival elements are challenging but resources are plentiful.
+
+<span id="hardened_survivor"></span><span id="Hardened_Survivor"></span><span id="hardened-survivor"></span>
 
 ### Hardened Survivor
 
@@ -99,7 +121,11 @@ There are three gameplay difficulty options for Wintermute.
 
 ![Hardened Survivor](../assets/XpMode_Hardened.png)
 
+<span id="media"></span><span id="Media"></span>
+
 ## Media
+
+<span id="images"></span><span id="Images"></span>
 
 ### Images
 
@@ -137,6 +163,8 @@ There are three gameplay difficulty options for Wintermute.
 
 ![December update 2018 notext](../assets/December_update_2018_notext.jpg)
 
+<span id="videos"></span><span id="Videos"></span>
+
 ### Videos
 
 ![The Long Dark Episode 2 (Luminance Fugue) Opening Credits](../assets/The_Long_Dark_-_Episode_2_%28Luminance_Fugue%29_Opening_Credits.jpg)
@@ -158,6 +186,8 @@ _The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer_
 ![The Long Dark Episode Four FURY, THEN SILENCE Teaser](../assets/The_Long_Dark_--_Episode_Four_--_FURY%2C_THEN_SILENCE_--_Teaser.jpg)
 
 _The\_Long\_Dark\_--\_Episode\_Four\_--\_FURY,\_THEN\_SILENCE\_--\_Teaser_
+
+<span id="references"></span><span id="References"></span>
 
 ## References
 

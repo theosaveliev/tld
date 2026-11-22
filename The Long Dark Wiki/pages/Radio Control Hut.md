@@ -22,6 +22,8 @@
 
 Has an interior **Radio Control Hut** is a location found in [Bleak Inlet](./Bleak%20Inlet.md) on the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) plateau. It can easily be found by looking for the large red-and-white transmitter standing next to it and makes it one of the easiest landmarks to identify in the region.
 
+<span id="location_features"></span><span id="Location_features"></span><span id="location-features"></span>
+
 ## Location features
 
 The Radio Control Hut can only be accessed at first by going through the [Ravine](./The%20Ravine.md). Once the location has been reached once, a rope can be deployed at the [Pensive Lookout](./Pensive%20Lookout.md) standing on the same plateau. This makes the location accessible from the Bleak Inlet region itself. The mountaineering rope that the player deploys is the only way to go from Bleak Inlet to the plateau in general, and Radio Control Hut in general, making it a risky destination if the Survivor isn't in the best condition.
@@ -37,6 +39,8 @@ While the Radio Control Hut can technically be considered a safehouse, it is by 
 - [Medical Locker](./Medical%20Locker.md)
 - Desk (x2)
 - [Filing cabinets](./File%20Cabinet.md)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -6,7 +6,7 @@
 
 [Memories](../assets/Memories.png)
 
-**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)
 
 **Episode:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
@@ -22,9 +22,13 @@
 
 This is the mission transcript for mission 1 [Memories](./Memories.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 The intro cutscene "By the Lion's Roar" plays.
+
+<span id="intro"></span><span id="Intro"></span>
 
 ### Intro
 
@@ -37,6 +41,8 @@ _The man gets up, and notices a piece of metal lodged in his left hand, hesitati
 **Mackenzie:** "Astrid!"
 
 _The man looks at the gaping wound in his hand before the camera shifts and slowly zooms out as if to give control to the player, but instead the scene slowly goes dark._
+
+<span id="flashback"></span><span id="Flashback"></span>
 
 ### Flashback
 

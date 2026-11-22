@@ -24,11 +24,13 @@
 
 **Fatigue Reduced** is a positive [Affliction](./Afflictions.md) gained by consuming certain [Food And Drink](./Food%20And%20Drink.md) or [First Aid](./First%20Aid.md) items.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is immediately restored by a set percentage and the player gains the _Fatigue Reduced_ affliction. This buff lasts for a set period of time (dependant on the item consumed), lowering the overall rate of Fatigue loss and reducing the amount of Fatigue used while sprinting. _Fatigue Reduced_ does not affect the rate of Fatigue loss when [Rope Climbing](./Rope%20Climbing.md).
 
-| Item | Initial Fatigue Reduction | Fatigue Loss Rate | Duration | Duration w/ Feat[¹](#fn1) |
+| Item | Initial Fatigue Reduction | Fatigue Loss Rate | Duration | Duration w/ Feat<span id="fnref1"></span>[¹](#fn1) |
 | --- | --- | --- | --- | --- |
 | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | 10% | 50% | 60 minutes | 75 minutes |
 | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 5% | 75% | 30 minutes | 37.50 minutes |
@@ -36,12 +38,16 @@ Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is imme
 | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes | 56.25 minutes |
 | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) [Caffeine Pills](./Caffeine%20Pills.md) | 25% | N/A | 4 hours | No bonus |
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old icon.](../assets/Fatigue_reduced.png)
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. The [Feat](./Feats.md) "Straight To the Heart" increases the duration of _Fatigue Reduced_ given by these items by 25%.[↩︎](#fnref1)
+1. <span id="fn1"></span>The [Feat](./Feats.md) "Straight To the Heart" increases the duration of _Fatigue Reduced_ given by these items by 25%.[↩︎](#fnref1)

@@ -18,4 +18,6 @@
 
 **Type:** OutdoorsMilitary/Sporting
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview

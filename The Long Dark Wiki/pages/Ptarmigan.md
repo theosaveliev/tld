@@ -57,11 +57,15 @@
 
 **Ptarmigan** are an avian species of prey wildlife found on [Great Bear Island](./Great%20Bear%20Island.md). They were introduced in the Part 3: Frontier Comforts update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md), and can only be encountered by players who have bought the expansion pass.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Ptarmigans are small white birds that typically gather in flocks of up to 4-6 members depending on game difficulty, and are a source of both food and down feathers. They are half the size of a Rabbit, and with their snowy white plumage, they are harder to see from a distance. This requires the player to be extra perceptive when attempting to locate a flock as they can usually be found from listening for the loud cooing/clucking sounds they make, rather than line of sight.
 
 Each region contains only a handful of specific areas populated with Ptarmigans, making them an uncommon hunting target. They prefer high altitude locations, and don't appear in the lower altitude coastal regions.
+
+<span id="drops"></span><span id="Drops"></span>
 
 ## Drops
 
@@ -76,6 +80,8 @@ Ptarmigan meat is a necessary ingredient in making all stews, as it is the only 
 
 Down Feathers are used as a crafting ingredient in improving a [Bedroll](./Bedroll.md) into an [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) or the creation of the [Improvised Insulation](./Improvised%20Insulation.md) accessory.
 
+<span id="behaviour"></span><span id="Behaviour"></span>
+
 ## Behaviour
 
 Ptarmigans behave similar to [Rabbits](./Rabbit.md); slowly wandering around their nests (instead of Rabbit Groves) in small flocks, and they are able to be stunned with a thrown [Stone](./Stone.md). Unlike Rabbits which appear across Great Bear Island, Ptarmigans are only present in non-coastal regions and usually nest at high ground areas. If disturbed they will fly away and not return to the nest area for a time (1-4 days).
@@ -87,11 +93,15 @@ Ptarmigans behave similar to [Rabbits](./Rabbit.md); slowly wandering around the
 - Throwing (RMB) a lit Torch or Flare near Ptarmigans causes the flock to flee. Placing the lit item on the ground will not startle the birds.
 - Ptarmigans will ignore a lit [Campfire](./Campfire.md). However they will keep a distance of roughly 2 meters form it.
 
+<span id="ptarmigan_nests"></span><span id="Ptarmigan_Nests"></span><span id="ptarmigan-nests"></span>
+
 ### Ptarmigan Nests
 
 Ptarmigan Nests are locations that Ptarmigans will always loiter around. They are similar to Rabbit Groves, appearing on the [Map](./Map.md) with a special nest icon after the area is surveyed with [Charcoal](./Charcoal.md). Ptarmigan Nests always spawn 4-6 Ptarmigan at a time, and are found at high altitudes within regions.
 
 **Ptarmigan and their Nests do not spawn in coastal regions** (I.E. [Desolation Point](./Desolation%20Point.md), [Crumbling Highway](./Crumbling%20Highway.md), [Coastal Highway](./Coastal%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md)).
+
+<span id="hunting"></span><span id="Hunting"></span>
 
 ### Hunting
 
@@ -100,6 +110,8 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - Similar to [Rabbits](./Rabbit.md), a thrown [Stones](./Stone.md) will temporarily stun a Ptarmigan if it hits, allowing one from a flock to be caught and "Killed" or "Released". This will alert the remaining flock to flee, as will missed stones.
 - Ptarmigan are instantly killed from any type of arrow, notably crafted [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md). Killing ptarmigans with arrows will not disturb the flock, allowing multiple birds to be hunted quickly.
 - Firearms kill Ptarmigans, but their report will startle the flock.
+
+<span id="wildlife_interactions"></span><span id="Wildlife_Interactions"></span><span id="wildlife-interactions"></span>
 
 ## Wildlife Interactions
 
@@ -112,7 +124,11 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - The Survivor: Ptarmigan will be startled if they detect the survivor (~30m standing, ~10m crouched). They also flee from firearms reports, firearms impacts, thrown items (stones, torches, flares).
 - If a Ptarmigan is stunned by a thrown [Stone](./Stone.md), it can be quickly picked up and killed or released. If released, The Survivor will pat the confused Ptarmigan and placing them ground, causing them to flee a moment later.
 
+<span id="spawn_locations"></span><span id="Spawn_Locations"></span><span id="spawn-locations"></span>
+
 ## Spawn Locations
+
+<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
 
 ### [Ash Canyon](./Ash%20Canyon.md)
 
@@ -123,6 +139,8 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A flock between [Foreman's Retreat](./Foreman%27s%20Retreat.md) and the open cave with the bed.
 - A flock in front of [Climber's Cave](./Climber%27s%20Cave.md).
 
+<span id="blackrock"></span><span id="Blackrock"></span>
+
 ### [Blackrock](./Blackrock.md)
 
 - Between the rope climb at [Cutty's Cave](./Cutty%27s%20Cave.md) and the [Foreman's Clearcut](./Foreman%27s%20Clearcut.md) trailer, there are two rock formations shown on the charcoal map. The first one can have a backpack and has [Reishi Mushroom](./Reishi%20Mushroom.md). Exactly in between those two rock formations is where the flock spawns.
@@ -131,11 +149,15 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - At the second transmitting tower facing the [Prison](./Blackrock%20Prison.md), on the ledge overlooking the road leading out of the prison
 - Just east of [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md), on the hill near the [Timberwolf](./Timberwolf.md) spawn and the [Birch sapling](./Green%20Birch%20Sapling.md) spawn.
 
+<span id="broken_railroad"></span><span id="Broken_Railroad"></span><span id="broken-railroad"></span>
+
 ### [Broken Railroad](./Broken%20Railroad.md)
 
 - Flock right in front of [Rickety Foot Bridge](./Rickety%20Foot%20Bridge.md) (Birch Sapling side).
 - Plateau above the [Maintenance Yard](./Maintenance%20Yard.md) (next to Maple Saplings).
 - A flock right of the top of the rope climb next to the [Hunting Lodge](./Hunting%20Lodge.md).
+
+<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
 
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
@@ -143,11 +165,15 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A flock can be seen at the plateau south of the tunnel to [Broken Railroad](./Broken%20Railroad.md).
 - A flock can be seen at the top of Marsh Ridge, in the path to the right of the cave that leads to the waterfall.
 
+<span id="forsaken_airfield"></span><span id="Forsaken_Airfield"></span><span id="forsaken-airfield"></span>
+
 ### [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 - A flock nests at a small pond within the rocky one way paths leading from beneath the rope climb near [Justy's Hovel](./Justy%27s%20Hovel.md) to the regions exit.
 - They are sometimes found in a clearing north of the [Island Cottage](./Island%20Cottage.md), on [Drift Island](./Drift%20Island.md).
 - A flock can be seen at the frozen pond near [Mindful Cabin.](./Mindful%20Cabin.md)
+
+<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
 
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
@@ -159,12 +185,16 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A Flock may spawn south-east of the cave near the [Rock Cache Memento,](https://thelongdark.fandom.com/wiki/Mementos#Hushed_River_Valley) south of Many Falls Vista.
 - A Flock may spawn just outside the ice cave which runs along the river south of [Mammoth Falls.](./Mammoth%20Falls.md)
 
+<span id="mountain_town"></span><span id="Mountain_Town"></span><span id="mountain-town"></span>
+
 ### [Mountain Town](./Mountain%20Town.md)
 
 - A flock typically scavenges around the [Picnic Area](./Picnic%20Area.md).
 - A flock can be found down the slope next to the bear cave past [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).
 - A flock can be found near the blue Trailer near the cave to [Hushed River Valley](./Hushed%20River%20Valley.md).
 - A flock can be found uphill of [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
+
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
 
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -174,6 +204,8 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A flock can be sighted at the top of the path leading to the Abandoned Lookout &amp; the [Forestry Lookout](./Forestry%20Lookout.md).
 - A flock can also be located at the [Destroyed Lookout](./Destroyed%20Lookout.md).
 
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
+
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - A flock can be found in the area of [Signal Hill](./Signal%20Hill.md) near Maple Sapling on the right side.
@@ -181,6 +213,8 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A flock near the bridge between the [Point of Disagreement](./Point%20of%20Disagreement.md) and [Derelict Cabins](./Derelict%20Cabins.md), on the left side if going uphill.
 - A flock near the hunter's blind near the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md) of the jet airliner.
 - A flock can spawn on a hill a short distance northeast of [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md)
+
+<span id="timberwolf_mountain"></span><span id="Timberwolf_Mountain"></span><span id="timberwolf-mountain"></span>
 
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
@@ -190,22 +224,30 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A flock near the [Tail Section](./Tail%20Section.md) in the [Summit](./Summit.md).
 - A flock iin front of the cave on the [Summit](./Summit.md).
 
+<span id="transfer_pass"></span><span id="Transfer_Pass"></span><span id="transfer-pass"></span>
+
 ### [Transfer Pass](./Transfer%20Pass.md)
 
 - East of [Vacant Depot](./Vacant%20Depot.md), on the edge of the frozen water, before the path going towards [Conductor's Dropoff](./Conductor%27s%20Dropoff.md).
 - On a ridge south west of [Loitering Marsh](./Loitering%20Marsh.md), right on the edge of the marsh.
 - Due west of [Vacant Depot](./Vacant%20Depot.md), near the far western edge of the map.
 
+<span id="zone_of_contamination"></span><span id="Zone_of_Contamination"></span><span id="zone-of-contamination"></span>
+
 ### [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 - At [Boss's Settlement](./Boss%27s%20Settlement.md), between the two main destroyed cabins
 - Along a one-way passage leading from the [Miner's Footpath](./Miner%27s%20Footpath.md) through the northwestern mountains to the [Indolent Hoppers](./Indolent%20Hoppers.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
 - Ptarmigan appears to be based on the winter plumage of the [Willow Ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) (**_Lagopus lagopus_**), a species of Galliformes identifiable by its red crest above the eye and changing feather colors that match the seasons.
 - The correct plural pronounciation of Ptarmigan is either Ptarmigan or Ptarmigans (similar to Fish or Fishes).
 - Ptarmigan are also the Nunavut’s official bird, one of symbol for the territorial heritage of north-east Canada. ([official source here](https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/nunavut.html))
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

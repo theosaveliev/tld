@@ -29,6 +29,8 @@
 
 Rocky Thoroughfare the 2nd [Modded Region](./The%20Long%20Development.md) added to the game, as part of The Long Development's unofficial region mods. The region connects from [Precarious Causeway](./Precarious%20Causeway.md) and leads to [Forsaken Shore](./Forsaken%20Shore.md).
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 - Rocky Shore

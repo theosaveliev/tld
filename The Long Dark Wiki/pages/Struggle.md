@@ -21,6 +21,8 @@
 
 ![A struggle with a wolf|center](../assets/Wolf_attack.jpg)A **Struggle** is a scripted event involving the player attempting to defend themselves from an attacking hostile animal. Such interactions typically occur most often when facing [Wolves](./Wolf.md), but other predator animals can attack the player.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “__Jeremiah: "Wolves - - they hate fire, like most wildlife. Campfire'll keep them away from you at night, most of the time. Improvise a torch if you have to. Flare will work too, you know one of those emergency ones for road accidents. Sometimes, if you get lucky, a stone to the head will scare them off."  
@@ -56,11 +58,13 @@ Wolf Struggles are partially scripted and can be defended against with certain [
 
 Only 4 Tool options appear once a Struggle begins regardless of how many tools the player is carrying, with higher quality tools appearing as options instead of the Improvised versions.
 
+<span id="weapons"></span><span id="Weapons"></span>
+
 ### Weapons
 
 Different tools are more or less effective at ending the struggle (scaring the Wolf), injuring, or killing the wolf (e.g., a [Prybar](./Prybar.md) may only scare the animal away, while a [Hatchet](./Hatchet.md) can inflict fatal Blood Loss). If the player chooses a loaded [Revolver](./Revolver.md) for the Wolf struggle, the option to 'Take Shot' will be presented once half of the struggle bar is filled, this fires a round and ends the struggle immediately, scaring the Wolf and potentially killing it or wounding the Wolf.
 
-| Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
+| Image | Weapon | Damage Type | Damage<span id="fnref1"></span>[¹](#fn1) | Flee Chance<span id="fnref2"></span>[²](#fn2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
 | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
@@ -73,14 +77,18 @@ Different tools are more or less effective at ending the struggle (scaring the W
 | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
 | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
-| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
-| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
-| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
-| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)<span id="fnref3"></span>[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
+| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)<span id="fnref4"></span>[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
+| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)<span id="fnref5"></span>[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
+| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)<span id="fnref6"></span>[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
 
 Note some [Tools](./Tools.md) cannot be selected as defense options during a Wolf Struggle, this includes the [Hacksaw](./Hacksaw.md), [Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), [Bear Spear](./Bear%20Spear.md), [Distress Pistol](./Distress%20Pistol.md), [Storm Lantern](./Storm%20Lantern.md), [Flashlight](./Flashlight.md), and [Stone](./Stone.md).
 
+<span id="struggle_animals"></span><span id="Struggle_Animals"></span><span id="struggle-animals"></span>
+
 ## Struggle Animals
+
+<span id="wolf"></span><span id="Wolf"></span>
 
 ### Wolf
 
@@ -96,23 +104,33 @@ Higher Survival Mode difficulties increases the damage Wolves deal per attack du
 
 Injured Wolves are much easier to scare during Struggles than full health Wolves, and often can be killed during a Struggle.
 
+<span id="poisoned_wolf"></span><span id="Poisoned_Wolf"></span><span id="poisoned-wolf"></span>
+
 ### Poisoned Wolf
 
 ![A Poisoned Wolf afflicting a Sprain during a Struggle.](../assets/Poisoned_Wolf_Struggle.jpg)_A Poisoned Wolf afflicting a Sprain during a Struggle._ Struggles with [Poisoned Wolves](./Poisoned%20Wolf.md) are virtually identical to regular Wolves, but will always result in [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) buildup when a player is attacked. Due to the desperate and malnourished state that regular Poisoned Wolves suffer from, encounters with them are generally more likely to result in Struggles.
+
+<span id="timberwolf"></span><span id="Timberwolf"></span>
 
 ### Timberwolf
 
 ![A Timberwolf initiating a Struggle](../assets/Timberwolf.jpg)_A Timberwolf initiating a Struggle_ Timberwolves typically perform "bite and run" tactics by performing a single bite attack and then quickly keeping their distance during a pack attack in order to wear the player's health down. Occasionally, a single [Timberwolf](./Timberwolf.md) will grapple the player and initiate a Struggle to finish a survivor off after enough time has passed in an encounter, or if a player remains still for too long. The same principles of regular Wolf Struggles apply to these situations, presenting the player with a choice to pick a weapon to defend one's self.
 
+<span id="mauling"></span><span id="Mauling"></span>
+
 ## Mauling
 
 Maulings are a more aggressive version of Struggles, wherein the player is unable to defend one's self once a Struggle begins. This is typically an in-game cutscene where the player is helplessly overwhelmed and attacked by hostile wildlife.
+
+<span id="bears"></span><span id="Bears"></span>
 
 ### Bears
 
 ![Screen 94b5eb73 fd2a 4e19 8f1c 8391b2ad7bd8 hi](../assets/Screen_94b5eb73-fd2a-4e19-8f1c-8391b2ad7bd8_hi.png) A Struggle with a [Bear](./Bear.md) will always result in a loss for the player, because they are unable to take any action during this time. This will result in a loss of -60-90% of pre-struggle condition remaining and two Afflictions: Blood Loss and Infection Risk. Any tools the player is currently holding will be dropped to the ground (along with a random item in the player's inventory) and must be picked up once the player regains consciousness. This can result in wasted [Torch](./Torch.md), [Storm Lantern](./Storm%20Lantern.md), [Flare](./Flare.md) fuel if the player is not careful.
 
 During Wintermute's Chapter 2, the [Bear Spear](./Bear%20Spear.md) may be used against a charging Bear for a "Bear Spear Struggle", which can be won or lost by the player. Hinterland has stated that the spear may become available in Survival Mode in the future.
+
+<span id="mechanics"></span><span id="Mechanics"></span>
 
 #### Mechanics
 
@@ -124,9 +142,13 @@ The in-game mechanics of bear mauling can be deduced from [this YouTube video](h
   - This is similar to a lost [Wolf](./Wolf.md) struggle.
   - If the bear dies during the struggle (i.e. from blood loss), then the player has "won", their clothing remains intact, and everything remains in their backpack.
 
+<span id="moose"></span><span id="Moose"></span>
+
 ### Moose
 
 ![Moose Struggle](../assets/Moose_Struggle.jpg) Similar to Bears, a Struggle with a [Moose](./Moose.md) will always result in a loss. The Moose tramples the player and knocks them to their feet, then stomps several times before the player passes out. Upon waking up, the player will be temporarily disoriented and lose about 50% Condition, as well as obtaining a [Broken Ribs](./Broken%20Ribs.md) Affliction. Any tools the player is holding when a Moose attacks will be lying on the ground nearby when the player regains consciousness, similar to a Bear mauling.
+
+<span id="cougars"></span><span id="Cougars"></span>
 
 ### Cougars
 
@@ -136,6 +158,8 @@ Cougar [Struggles](./Struggle.md) are an event (similar to [Bear](./Bear.md) or 
 
 - **Glancing Attack**: (similar to [Timberwolves](./Timberwolf.md)) where The Cougar deals small amounts of [Condition](./Condition.md) damage, with a chance for [Blood Loss](./Blood%20Loss.md) and [Infection Risk](./Infection%20Risk.md), or [Torn Clothing](./Torn%20Clothing.md). Glancing Attacks are more likely if the survivor manages to hit a charging Cougar with a ranged weapon (e.g. [Hunting Rifle](./Hunting%20Rifle.md)).
 - **Cougar Struggle**: which causes 50% Condition damage and the unique affliction [Severe Lacerations](./Severe%20Lacerations.md), which periodically inflicts Blood Loss and Infection Risk repeatedly over time.
+
+<span id="pre_cougar_redux"></span><span id="Pre_Cougar_Redux"></span><span id="pre-cougar-redux"></span>
 
 ## Pre Cougar Redux
 
@@ -162,11 +186,15 @@ If a "Strike" is chosen, the survivor will get to their feet and draw that weapo
 
 Note: [Stones](./Stone.md), [Distress Pistol](./Distress%20Pistol.md) and all other [tools](./Hatchet.md) may not be selected during a Cougar struggle.
 
+<span id="aurora_predator_struggles"></span><span id="Aurora_Predator_Struggles"></span><span id="aurora-predator-struggles"></span>
+
 ## Aurora Predator Struggles
 
 Struggles with Wolves during an [Aurora](./Aurora.md) will result in a far more aggressive attack. Wolves will typically deal more damage, have a higher willpower that prevents them from fleeing when using tools that Scare them during a Struggle, and require more force with tools to end a Struggle. Extreme caution should be taken when traveling during the Aurora when encountering Wolves.
 
 Aurora Bears will also be just as aggressive, but their damage values remain consistent; resulting in -60-90% Condition lost in the attack.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -182,10 +210,15 @@ Aurora Bears will also be just as aggressive, but their damage values remain con
 
 _A "Demon Wolf" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) attacking the player_
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Per hit[↩︎](#fnref1)
-2. Per hit[↩︎](#fnref2)
-3. Struggle is guaranteed to end after "Take Shot" is chosen (70% to flee, 30% to kill)[↩︎](#fnref3)
+1. <span id="fn1"></span>Per hit[↩︎](#fnref1)
+2. <span id="fn2"></span>Per hit[↩︎](#fnref2)
+3. <span id="fn3"></span>Struggle is guaranteed to end after "Take Shot" is chosen (70% to flee, 30% to kill)[↩︎](#fnref3)
+4. <span id="fn4"></span>
+5. <span id="fn5"></span>
+6. <span id="fn6"></span>

@@ -1,6 +1,6 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
@@ -39,6 +39,8 @@
 
 **Harvesting** is a mechanic in _[The Long Dark](./The%20Long%20Dark.md)_ that involves the breaking down of objects into usable [Materials](./Materials.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Harvesting often involves destroying interactable environmental objects, but can also involve breaking down excess [Tools](./Tools.md) or [Clothing](./Clothing.md). [First Aid](./First%20Aid.md), [Fire Starting](./Fire%20Starting.md), and [Food And Drink](./Food%20And%20Drink.md) items cannot be Harvested.
@@ -47,7 +49,11 @@ The most common Materials gained from Harvesting are [Cloth](./Cloth.md), [Cured
 
 Very rarely, some objects can be broken down to yield paths to hidden locations/items. [Crates](./Crate.md) often have a chance to contain usable items inside, while [Scrub Brush](./Scrub%20Brush.md) in some regions block certain pathways.
 
+<span id="harvestable_environmental_objects"></span><span id="Harvestable_Environmental_Objects:"></span><span id="harvestable_environmental_objects:"></span><span id="harvestable-environmental-objects"></span>
+
 ## **Harvestable Environmental Objects:**
+
+<span id="objects_that_yield_cloth_icon.png_cloth"></span><span id="Objects_that_yield_ Cloth"></span><span id="objects_that_yield_ cloth"></span><span id="objects-that-yield-cloth"></span>
 
 ### Objects that yield ![Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
 
@@ -69,6 +75,8 @@ These items can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, 
 | [Old Bedroll](./Old%20Bedroll.md) |  | 6 x Cloth | 27 min | Scrap Metal Shard, Hunting Knife, Improvised Knife |
 | [Pillow](./Pillow.md) |  | 2 x Cloth | 9-11 min | Scrap Metal Shard, Hunting Knife, Improvised Knife |
 | [Towel](./Towel.md) |  | 2 x Cloth | 6-10 min | Hand, Scrap Metal Shard, Hunting Knife, Improvised Knife |
+
+<span id="objects_that_yield_scrap_metal_icon.png_scrap_metal"></span><span id="Objects_that_yield_ Scrap_Metal"></span><span id="objects_that_yield_ scrap_metal"></span><span id="objects-that-yield-scrap-metal"></span>
 
 ### Objects that yield ![Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
 
@@ -95,6 +103,8 @@ These items can ONLY be broken down with a ![Hacksaw icon](../assets/Hacksaw_ico
 | [Metal Table](./Metal%20Table.md) |  | 8 x Scrap Metal | 180 min | Hacksaw |
 | [Switch Box](./Switch%20Box.md) |  | 2 x Scrap Metal | 30 min | Hacksaw |
 | [Toaster](./Toaster.md) |  | 1 Scrap Metal | 15 min | Hacksaw |
+
+<span id="objects_that_yield_reclaimed_wood_icon.png_reclaimed_wood"></span><span id="Objects_that_yield_ Reclaimed_Wood"></span><span id="objects_that_yield_ reclaimed_wood"></span><span id="objects-that-yield-reclaimed-wood"></span>
 
 ### Objects that yield ![Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
 
@@ -141,6 +151,8 @@ Some objects require a Tool to break down:
 | Table | Large | 6 x Reclaimed Wood | 90-N/A min | Hatchet, Improvised Hatchet, Heavy Hammer |
 | [Wheel](./Wheel.md) |  | 6 x Reclaimed Wood | 38-56 min | Hatchet, Improvised Hatchet, Heavy Hammer |
 
+<span id="objects_that_yield_stick_icon.png_stick"></span><span id="Objects_that_yield_ Stick"></span><span id="objects_that_yield_ stick"></span><span id="objects-that-yield-stick"></span>
+
 ### Objects that yield ![Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md)
 
 Branches can be broken by![Anywhere icon](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
@@ -154,6 +166,8 @@ Branches can be broken by![Anywhere icon](../assets/Anywhere_icon.png)Hand, but 
 | [Scrub Brush](./Scrub%20Brush.md) | Single | 7 x Stick | 10-20 min | Hand, Hatchet, Improvised Hatchet |
 | Scrub Brush | Patch | 12 x Stick | 18 min | Hatchet, Improvised Hatchet |
 
+<span id="objects_that_yield_cedar_firewood_icon.png_cedar_firewood"></span><span id="Objects_that_yield_ Cedar_Firewood"></span><span id="objects_that_yield_ cedar_firewood"></span><span id="objects-that-yield-cedar-firewood"></span>
+
 ### Objects that yield ![Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
 
 | Object | Variant | Yield | Time | Tool Required |
@@ -161,11 +175,15 @@ Branches can be broken by![Anywhere icon](../assets/Anywhere_icon.png)Hand, but 
 | [Cedar Limb](./Cedar%20Limb.md) | Small | 3 x Cedar Firewood 1 x Tinder Plug | 45-90 min | Hatchet, Improvised Hatchet, Hacksaw |
 | [Cedar Limb](./Cedar%20Limb.md) | Large | 5 x Cedar Firewood 1 x Tinder Plug |  | Hatchet, Improvised Hatchet |
 
+<span id="objects_that_yield_fir_firewood_icon.png_fir_firewood"></span><span id="Objects_that_yield_ Fir_Firewood"></span><span id="objects_that_yield_ fir_firewood"></span><span id="objects-that-yield-fir-firewood"></span>
+
 ### Objects that yield ![Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
 
 | Object | Yield | Time | Tool Required |
 | --- | --- | --- | --- |
 | [Fir Limb](./Fir%20Limb.md) | 3 x Fir Firewood | 45-90 min | Hatchet, Improvised Hatchet, Hacksaw |
+
+<span id="objects_that_yield_tinder_plug_icon.png_tinder_plug"></span><span id="Objects_that_yield_ Tinder_Plug"></span><span id="objects_that_yield_ tinder_plug"></span><span id="objects-that-yield-tinder-plug"></span>
 
 ### Objects that yield ![Tinder Plug icon](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
 
@@ -179,6 +197,8 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | --- | --- | --- | --- |
 | [Cardboard Box](./Cardboard%20Box.md) | 1-3 x Tinder Plug | 27 min | Hand, Scrap Metal Shard, Hunting Knife, Improvised Knife |
 
+<span id="other"></span><span id="Other"></span>
+
 ### Other
 
 | Object | Yield | Time | Tool Required |
@@ -189,9 +209,13 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Stored Water](./Stored%20Water.md) |  | Instant | Hand |
 | [Toilet](./Toilet.md) |  | Instant | Hand |
 
+<span id="harvestable_clothing"></span><span id="Harvestable_Clothing"></span><span id="harvestable-clothing"></span>
+
 ## Harvestable Clothing
 
 [Clothing](./Clothing.md) can often yield a either ![Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md), ![Cured Leather icon](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md), or Cured Animal Hides when harvested. All Clothing can be harvested by ![Anywhere icon](../assets/Anywhere_icon.png)Hand and require no tools.
+
+<span id="head"></span><span id="Head"></span>
 
 ### Head
 
@@ -213,6 +237,8 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Wool Scarf icon](../assets/Wool_Scarf_icon.png) | [Wool Scarf](./Wool%20Scarf.md) | 1 x Cloth | 10 min |
 | [Wool Toque icon](../assets/Wool_Toque_icon.png) | [Wool Toque](./Wool%20Toque.md) | 1 x Cloth | 10 min |
 
+<span id="hands"></span><span id="Hands"></span>
+
 ### Hands
 
 | [Clothing](../assets/Clothing.png) | Clothing | Yield | Time |
@@ -227,7 +253,11 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Wool Mittens icon](../assets/Wool_Mittens_icon.png) | [Wool Mittens](./Wool%20Mittens.md) | 1 x Cloth | 10 min |
 | [Work Gloves icon](../assets/Work_Gloves_icon.png) | [Work Gloves](./Work%20Gloves.md) | 1 x Cured Leather | 10 min |
 
+<span id="torso"></span><span id="Torso"></span>
+
 ### Torso
+
+<span id="inner"></span><span id="Inner"></span>
 
 #### Inner
 
@@ -247,6 +277,8 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png) | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 1 x Cloth | 30 min |
 | [T Shirt icon](../assets/T-Shirt_icon.png) | [T-Shirt](./T-Shirt.md) | 1 x Cloth | 10 min |
 | [Wool Shirt icon](../assets/Wool_Shirt_icon.png) | [Wool Shirt](./Wool%20Shirt.md) | 1 x Cloth | 10 min |
+
+<span id="outer"></span><span id="Outer"></span>
 
 #### Outer
 
@@ -272,7 +304,11 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Windbreaker icon](../assets/Windbreaker_icon.png) | [Windbreaker](./Windbreaker.md) | 2 x Cloth | 20 min |
 | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) | [Wolfskin Coat](./Wolfskin%20Coat.md) | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 90 minutes |
 
+<span id="legs"></span><span id="Legs"></span>
+
 ### Legs
+
+<span id="inner_1"></span><span id="inner-1"></span>
 
 #### Inner
 
@@ -280,6 +316,8 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | --- | --- | --- | --- |
 | [Thermal Underwear icon](../assets/Thermal_Underwear_icon.png) | [Thermal Underwear](./Thermal%20Underwear.md) | 1 x Cloth | 20 min |
 | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) | [Wool Longjohns](./Wool%20Longjohns.md) | 1 x Cloth | 20 min |
+
+<span id="outer_1"></span><span id="outer-1"></span>
 
 #### Outer
 
@@ -295,7 +333,11 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Snow Pants icon](../assets/Snow_Pants_icon.png) | [Snow Pants](./Snow%20Pants.md) | 1 x Cloth | 30 min |
 | [Work Pants icon](../assets/Work_Pants_icon.png) | [Work Pants](./Work%20Pants.md) | 1 x Cloth | 30 min |
 
+<span id="feet"></span><span id="Feet"></span>
+
 ### Feet
+
+<span id="inner_2"></span><span id="inner-2"></span>
 
 #### Inner
 
@@ -304,6 +346,8 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Climbing Socks icon](../assets/Climbing_Socks_icon.png) | [Climbing Socks](./Climbing%20Socks.md) | 1 x Cloth | 20 min |
 | [Sports Socks icon](../assets/Sports_Socks_icon.png) | [Sports Socks](./Sports%20Socks.md) | 1 x Cloth | 10 min |
 | [Wool Socks icon](../assets/Wool_Socks_icon.png) | [Wool Socks](./Wool%20Socks.md) | 1 x Cloth | 20 min |
+
+<span id="outer_2"></span><span id="outer-2"></span>
 
 #### Outer
 
@@ -323,6 +367,8 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Trail Boots icon](../assets/Trail_Boots_icon.png) | [Trail Boots](./Trail%20Boots.md) | 1 x Cured Leather | 90 min |
 | [Work Boots icon](../assets/Work_Boots_icon.png) | [Work Boots](./Work%20Boots.md) | 2 × Cured Leather | 90 min |
 
+<span id="accessories"></span><span id="Accessories"></span>
+
 ### Accessories
 
 | [Clothing](../assets/Clothing.png) | Clothing | Yield | Time |
@@ -336,9 +382,13 @@ This item can be broken by ![Anywhere icon](../assets/Anywhere_icon.png)Hand, bu
 | [Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) | 4 x Cured Leather | 30 min |
 | [Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 1 x Cloth | 10 min |
 
+<span id="harvestable_tools"></span><span id="Harvestable_Tools"></span><span id="harvestable-tools"></span>
+
 ## Harvestable Tools
 
 There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_, however only the tools below can be harvested.
+
+<span id="hand_tools"></span><span id="Hand_Tools"></span><span id="hand-tools"></span>
 
 ### Hand Tools
 
@@ -354,6 +404,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Simple Tools icon](../assets/Simple_Tools_icon.png) | [Simple Tools](./Simple%20Tools.md) | 3 x Scrap Metal | 1 hour |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png) | [Quality Tools](./Quality%20Tools.md) | 3 x Scrap Metal | 1 hour |
 
+<span id="firearms"></span><span id="Firearms"></span>
+
 ### Firearms
 
 | Tool | Tool | Yield | Time |
@@ -362,6 +414,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) | [Barb's Rifle](./Barb%27s%20Rifle.md) | 2 x Scrap Metal | 1 hour |
 | [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) | [Curator's Rifle](./Curator%27s%20Rifle.md) | 2 x Scrap Metal | 1 hour |
 | [Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | 2 x Scrap Metal | 1 hour |
+
+<span id="campcraftcooking"></span><span id="Campcraft/Cooking"></span><span id="campcraft/cooking"></span>
 
 ### Campcraft/Cooking
 
@@ -374,6 +428,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) | [Cooking Pot](./Cooking%20Pot.md) | 1 x Scrap Metal | 90 min |
 | [Cooking Skillet icon](../assets/Cooking_Skillet_icon.png) | [Cooking Skillet](./Cooking%20Skillet.md) | 1 x Scrap Metal | 90 min |
 
+<span id="lighting_tools"></span><span id="Lighting_Tools"></span><span id="lighting-tools"></span>
+
 ### Lighting Tools
 
 | Tool | Tool | Yield | Time |
@@ -383,6 +439,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Miner's Flashlight icon](../assets/Miner%27s_Flashlight_icon.png) | [Miner's Flashlight](./Miner%27s%20Flashlight.md) | 1 x Scrap Metal | 1 hour |
 | [Storm Lantern icon](../assets/Storm_Lantern_icon.png) | [Storm Lantern](./Storm%20Lantern.md) | 1 x Scrap Metal 0.01-1.00kg Lantern Fuel | 1 hour |
 | [Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png) | [Spelunker's Lantern](./Spelunker%27s%20Lantern.md) | 1 x Scrap Metal 0.01-1.00kg Lantern Fuel | 1 hour |
+
+<span id="other_1"></span><span id="other-1"></span>
 
 ### Other
 
@@ -395,8 +453,10 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Broken Arrow icon](../assets/Broken_Arrow_icon.png) | [Broken Arrow](./Broken%20Arrow.md) | 2 x Crow Feather 1 x Arrowhead | 5 min |
 | [Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) | [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 1 x Crow Feather | 5 min |
 | [Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png) | [Broken Fire Hardened Arrow](./Broken%20Fire%20Hardened%20Arrow.md) | 1 x Crow Feather | 5 min |
-| [Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) | [Rifle Ammunition](./Rifle%20Ammunition.md)[¹](#fn1) | 1 [Bullet](./Bullet.md) 1 [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
-| [Revolver Ammunition icon](../assets/Revolver_Ammunition_icon.png) | [Revolver Ammunition](./Revolver%20Ammunition.md)[²](#fn2) | 1 [Bullet](./Bullet.md) 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
+| [Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) | [Rifle Ammunition](./Rifle%20Ammunition.md)<span id="fnref1"></span>[¹](#fn1) | 1 [Bullet](./Bullet.md) 1 [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
+| [Revolver Ammunition icon](../assets/Revolver_Ammunition_icon.png) | [Revolver Ammunition](./Revolver%20Ammunition.md)<span id="fnref2"></span>[²](#fn2) | 1 [Bullet](./Bullet.md) 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
+
+<span id="carcass_harvesting"></span><span id="Carcass_Harvesting"></span><span id="carcass-harvesting"></span>
 
 ## Carcass Harvesting
 
@@ -414,6 +474,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | 8.0 | 10.0 | 30.0 | 10.0 | 0.5% |
 | [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | 8.0 | 20.0 | 30.0 | 10.0 | 1.0% |
 
+<span id="carcass_types"></span><span id="Carcass_Types"></span><span id="carcass-types"></span>
+
 ### Carcass Types
 
 | Animal Carcass | Minimum Weight | Maximum Weight | Hide/Pelt/Other | Fresh Guts |
@@ -428,12 +490,17 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 4.00 kg<br>_(8.8 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 7.00 kg<br>_(15.4 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
 | [Wolf Carcass](./Wolf%20Carcass.md) | 3.00 kg<br>_(6.6 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 6.00 kg<br>_(13.2 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-Harvesting of stationary objects in larger scale has been introduced on August 1, 2015 in [version 0.256](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256).
+Harvesting of stationary objects in larger scale has been introduced on August 1, 2015 in [version 0.256](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256).
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. There is a chance to recover components, but it depends on [Gunsmithing](./Gunsmithing.md) level[↩︎](#fnref1)
+1. <span id="fn1"></span>There is a chance to recover components, but it depends on [Gunsmithing](./Gunsmithing.md) level[↩︎](#fnref1)
+2. <span id="fn2"></span>

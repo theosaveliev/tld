@@ -27,7 +27,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 [Bear Spear icon](../assets/Bear_Spear_icon.png)
 
-**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md)
 
@@ -55,6 +55,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 The **Bear Spear** is a weapon only available in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in [Wintermute](./Wintermute.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Bear Spear weighs 4.00kg, cannot be harvested, and disappears after completing [What One Man Can Do](./What%20One%20Man%20Can%20Do.md). It is treated as a Collectibles, but this is to prevent it from being dropped and lost. The red ribbon on the Spear is one of the few items in the game to have dynamic ragdoll physics, moving in the wind as the player turns.
@@ -69,23 +71,35 @@ Wolves fear the bear spear. And it can be used as an effective deterrent against
 
 The spear cannot damage wolves; only scare them.
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
+
+<span id="the_wounded_trapper"></span><span id="The_Wounded_Trapper"></span><span id="the-wounded-trapper"></span>
 
 ### [The Wounded Trapper](./The%20Wounded%20Trapper.md)
 
 The Bear Spear is rumored by [Jeremiah](./Jeremiah.md) to be the only weapon that can kill the [Old Bear](./Old%20Bear.md). Jeremiah tells [Will Mackenzie](./Will%20Mackenzie.md) the story of the Old Demon Bear and a magical spear forged to kill it long ago, and the trapper tasks the pilot to find it in the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md).
 
+<span id="the_best_defense"></span><span id="The_Best_Defense"></span><span id="the-best-defense"></span>
+
 ### [The Best Defense](./The%20Best%20Defense.md)
 
 Mackenzie makes his way to the Hunting Lodge but finds a [Broken Bear Spear](./Broken%20Bear%20Spear.md) instead, and is forced to repair the Broken Bear Spear in the [Forge](./Forge.md) in the [Maintenance Yard](./Maintenance%20Yard.md) by crafting a [Spear Head](./Spear%20Head.md). By the end of the mission, Mackenzie fully repairs the Spear to its original glory and returns to Jeremiah.
+
+<span id="signal_to_noise"></span><span id="Signal_to_Noise"></span><span id="signal-to-noise"></span>
 
 ### [Signal to Noise](./Signal%20to%20Noise.md)
 
 Mackenzie is tasked with finding [Transponder Parts](./Transponder%20Parts.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md) and encounters the Old Bear, using the Bear Spear several times to defend himself from the beast. After acquiring 3 Transponder Parts, Mackenzie is ambushed by the Old Bear and unconsciously dragged away.
 
+<span id="what_one_man_can_do"></span><span id="What_One_Man_Can_Do"></span><span id="what-one-man-can-do"></span>
+
 ### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
 Mackenzie awakens inside the [Old Bear's Den](./Old%20Bear%27s%20Den.md) unarmed, and is forced to sneak and crawl his way through the caves until he finds the Bear Spear. After successfully completing a Bear Struggle 3 times with the Spear, Mackenzie kills the Old Bear by impaling it in the neck. Mackenzie leaves the Spear impaled into the Old Bear and leaves the cave, and the Spear is never used again afterwards.
+
+<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
 
 ## Survival Mode
 
@@ -93,9 +107,13 @@ This weapon cannot be crafted in [Survival Mode](./Survival%20Mode.md), but has 
 
 It can currently be found and spawned in Survival Mode via console commands, but cannot be used properly against Bears. Despite being unable to be broken down in Wintermute, a harvest option is present. Harvesting the Bear Spear generates 1 [Spear Head](./Spear%20Head.md) and 1 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The Bear Spear and the story of the "[Demon Bear](./Old%20Bear.md)" told by [Jeremiah](./Jeremiah.md) are references to "The Beast Spear" from the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural weapon forged by a character driven mad for revenge to kill 'evil spirits', including a red cloth tied around the spear's neck.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -107,8 +125,10 @@ _The [Old Bear](./Old%20Bear.md) defending a shortwave tower, with the Bear Spea
 
 ![Teaser concept art of the Bear Spear](../assets/Early_Bear_Spear.png)
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
   - Added to game.

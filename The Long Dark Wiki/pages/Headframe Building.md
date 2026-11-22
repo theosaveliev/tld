@@ -20,6 +20,8 @@ Type
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The [Headframe Building](./Headframe%20Building.md) is an entrance to the mine in the form of an elevator shaft that leads to Levels 1, 2, and 3.
@@ -33,3 +35,5 @@ A locked room (part of the [Buried Echoes](./Buried%20Echoes.md) Tale) can be fo
 The second level has little loot. The [Conveyor Room](./Conveyor%20Room.md) can be accessed from the conveyor belt on this floor.
 
 The top level can be reached by climbing up the elevator cable. A revolver may be found hidden behind a ladder in the corner alongside a backpack.
+
+<span id="gallery"></span><span id="Gallery"></span>

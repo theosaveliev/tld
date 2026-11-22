@@ -15,7 +15,7 @@
 
 [Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png)
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Wintermute:** No
 
@@ -32,6 +32,8 @@
 **Weight:** 1.00 kg (2.2 lbs)
 
 **Water (Unsafe)** is impure water from melted snow in [_The Long Dark_](./The%20Long%20Dark.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -50,6 +52,8 @@ Unsafe Water can be created by melting snow at in a container at an active [fire
 
 For the effects of drinking water on thirst reduction, see [Thirst](./Thirst.md).
 
+<span id="purification"></span><span id="Purification"></span>
+
 ## Purification
 
 Unsafe water can be turned into [Potable Water](./Water%20%28Potable%29.md) through [boiling](./Fire.md#Processing_water) or purifying:
@@ -58,6 +62,8 @@ Unsafe water can be turned into [Potable Water](./Water%20%28Potable%29.md) thro
 - [Water Purification Tablets](./Water%20Purification%20Tablets.md) can be consumed to convert up to 1L of Unsafe Water into an equivalent amount of Potable Water. They can be found in the "Medical" tab of the Inventory, and then selecting "Use" while carrying them and the Unsafe Water. This sterilization process takes 1 minute (in-game). Alternatively, select "Purify Water" while in the fire menu. Note that a fire/Cooking Spot is not actually required to use purification tablets.
 
 ![Bottles of unsafe and potable water of varied sizes old](../assets/Water_bottles.jpg)
+
+<span id="appearance"></span><span id="Appearance"></span>
 
 ## Appearance
 
@@ -71,15 +77,21 @@ Water requires no container to carry, and despite displaying as a jug in the inv
 
 Note: Unsafe and Potable water bottles are identical in appearance, and similar in one's inventory. Take care when dropping bottles of Unsafe Water that they are not close to bottles of Potable Water, to prevent accidental consumption. When picked up, the icon for Potable water will be a water symbol, while Unsafe Water will have a circular cross through the water symbol.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 Water drawn from Toilets always yields Potable Water and never Unsafe Water, regardless of where on a Toilet one selects; this suggests water is only drawn from the toilet's reservoir tank which is used to flush waste and not the bowl where waste arrives. The only exception to this rule is the Signal Void bunkers.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![Old model.](../assets/Water_%28unsafe%29.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
+- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

@@ -40,6 +40,8 @@ When worn along with an outer hat, the Balaclava loses its windproof resistance 
 
 Despite this, the balaclava is just as good as the [Wool Toque](./Wool%20Toque.md), and should always be used as an inner hat slot, as the decay rate is slower than the wool toque.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model](../assets/Balaclava_Model_icon.png)
@@ -51,6 +53,8 @@ Despite this, the balaclava is just as good as the [Wool Toque](./Wool%20Toque.m
 ![Balaclava in the clothing interface. (click to enlarge)](../assets/Clothing_interface_old.png)
 
 _Balaclava in the clothing interface. _(click to enlarge)__
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

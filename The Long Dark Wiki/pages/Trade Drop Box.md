@@ -26,6 +26,8 @@ Update
 
  A **Trade Drop Box** is a container used to make trades with the [Trader](./Trader.md) in [Survival Mode](./Survival%20Mode.md). It does not appear if the Trader is not enabled on a Survival save file.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Trade Drop Box is normally locked when first found, but becomes unlocked when making a deal to trade with the Trader. The trade box is only located in the [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) in [Coastal Highway](./Coastal%20Highway.md), by a pier near the ocean edge.

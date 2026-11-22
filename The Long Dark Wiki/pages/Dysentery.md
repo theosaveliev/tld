@@ -40,4 +40,6 @@ While in effect, [Condition](./Condition.md) will not be restored during [Sleep]
 - The treatment process cannot be done out of order: medicine and water must first be fully consumed before the 10 hours of rest will begin to count towards the healing process. (Make sure medicine and water have 2 check marks next to them before sleeping).
 - After consuming the required medicine, the player will stop losing Condition, but thirst will still deplete rapidly until the sleeping recovery time is completed.
 
+<span id="survivor_monologue"></span><span id="Survivor_Monologue"></span><span id="survivor-monologue"></span>
+
 ## Survivor Monologue

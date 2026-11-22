@@ -8,11 +8,15 @@
 
 **Pilgrim** is the 1st [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "easy" difficulty setting.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Pilgrim's difficulty is comparable to a pleasant walk through a park on a crisp winter day. Hostile [Wildlife](./Wildlife.md) always flees in terror from the player, even if provoked or directly attacked. [Needs](./Needs.md) are very manageable. Food and resources are highly abundant and can be easily procured. Overall, the player's survival is almost guaranteed on this Experience, with most dangers coming in the form of the elements, environmental hazards, and generally just poor judgement.
 
 This game mode is best picked if the player is trying to explore and learn the game world and its mechanics, or if they wish to unlock [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md), [Feats](./Feats.md), or [Badges](./Badges.md) without much difficulty.
+
+<span id="pilgrim_settings"></span><span id="Pilgrim_Settings"></span><span id="pilgrim-settings"></span>
 
 ## Pilgrim Settings
 

@@ -41,6 +41,8 @@ Has a bed
 
 Has an interior A **Crossroads House**is a type of house or shed found throughout the [Thomson's Crossing](./Thomson%27s%20Crossing.md) town in the [Pleasant Valley](./Pleasant%20Valley.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Milton House](./Milton%20House.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Some of the buildings in the town are boarded up or destroyed. The homes closest to the [Community Hall](./Community%20Hall.md) are in relatively good shape, but the ones across the bridge on the road to the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) tend to be boarded up and seized by the bank or ruined, but occasionally the house across the bridge is intact. The name "Crossroads House" comes from the former name of [Thomson's Crossing](./Thomson%27s%20Crossing.md), Rural Crossroads.
@@ -51,6 +53,8 @@ Some of the buildings in the town are boarded up or destroyed. The homes closest
 - 1 across the bridge near the hills
 
 Crossroads Houses appear as 3 types of buildings:
+
+<span id="story_house"></span><span id="1_Story_House"></span><span id="1_story_house"></span><span id="1-story-house"></span>
 
 ### 1 Story House
 
@@ -68,6 +72,8 @@ This type of building has only 1 floor, with 1 door leading to the kitchen. They
 
 The layout for this building has 2 different layouts, but tends to be filled with large amounts of food and [Cooking Pots](./Cooking%20Pot.md).
 
+<span id="story_house_1"></span><span id="2_Story_House"></span><span id="2_story_house"></span><span id="2-story-house"></span>
+
 ### 2 Story House
 
 ![Front hallway](../assets/Crossroads_House_2_Hallway.jpg)
@@ -77,6 +83,8 @@ The layout for this building has 2 different layouts, but tends to be filled wit
 ![Upstairs bedroom](../assets/Crossroads_House_2_Bedroom.jpg)
 
 These homes are much smaller buildings with a single door leading to the front hallway. They have a stairwell that leads the bedroom, with the ground floor containing a kitchen and nearby bathroom.
+
+<span id="shed"></span><span id="Shed"></span>
 
 ### Shed
 

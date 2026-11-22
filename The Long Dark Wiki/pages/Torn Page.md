@@ -30,11 +30,13 @@
 
 **Torn Page** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found during the main mission [The Cold Broken Road](./The%20Cold%2C%20Broken%20Road.md), halfway through the mine in the [Blackrock Foothills](./Blackrock%20Foothills.md) region.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Torn Page**_
 
-\[paper fragment\]
+[paper fragment]
 
 ...went as deep into the mine as we could.
 
@@ -47,6 +49,8 @@ If the missing are in there, they're on their own.
 Jesse Edgar
 
 SAR Lead District 4
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

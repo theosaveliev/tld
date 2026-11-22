@@ -21,7 +21,7 @@
 
 Release
 
-[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 Wintermute
 
@@ -79,6 +79,8 @@ GAMEPLAY\_CondensedMilk
 
 **Condensed Milk** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Condensed Milk replenishes a moderate amount of thirst and large amount of calories. It may also be warmed by a [fire](./Fire.md) to grant the benefit [Warming Up](./Warming%20Up.md).
@@ -89,15 +91,21 @@ Condensed Milk is relatively rare, but may be found inside homes, usually in cup
 
 Contrary to its in-game description, Condensed Milk [spoils](./Decay.md) quickly compared to other processed food.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Condensed milk is packaged as a product called _Little Cow: Condensed Milk_ with a picture of a cow, fittingly.
 - The side of the can lists "Ingredients: Evaporated Cows Milk, Vitamin D."
 - Condensed Milk will not spawn on Interloper mode.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model](../assets/Condensed_milk.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

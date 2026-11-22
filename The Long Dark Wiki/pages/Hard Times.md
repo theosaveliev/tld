@@ -17,9 +17,13 @@
 
 **Hard Times** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This is a side mission achievement achieved after completing the side mission [Blackrock Rumours](./Blackrock%20Rumours.md).
+
+<span id="starting_note_locations"></span><span id="Starting_Note_Locations"></span><span id="starting-note-locations"></span>
 
 ## Starting Note Locations
 
@@ -31,6 +35,8 @@ This is a side mission achievement achieved after completing the side mission [B
 
 - Blackrock Memo - Suspicious person
   - Located in the Blue truck on the access road right next to [Old Substation](./Old%20Substation.md).
+
+<span id="tasks"></span><span id="Tasks"></span>
 
 ## Tasks
 
@@ -46,7 +52,9 @@ This is a side mission achievement achieved after completing the side mission [B
   - Search for Clues at the old Cabin.
   - Search for the hermits hidden bunker.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

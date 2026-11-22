@@ -6,7 +6,7 @@
 
 [Blackrock Prisoner Release Record icon](../assets/Blackrock_Prisoner_Release_Record_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md)
 
@@ -30,6 +30,8 @@
 
 **Blackrock Prisoner Release Record** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found inside the prepper cache during the Suspicious Person portion of the [Blackrock Rumours](./Blackrock%20Rumours.md) side mission. It is not required to be collected to finish the objective, unlike the [Conspiracy Theories](./Conspiracy%20Theories.md) note.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Blackrock Prisoner Release Record**_
@@ -51,7 +53,9 @@ Regards,
 
 Blackrock Penitentiary Medical Committee
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

@@ -8,7 +8,7 @@
 
 **Release:** 12 June 2014
 
-**Update:** [0.01](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Update:** [0.01](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Story item:** No
 

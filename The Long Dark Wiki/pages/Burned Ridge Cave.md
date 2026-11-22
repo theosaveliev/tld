@@ -18,6 +18,8 @@
 
 Provides some shelter **Burned Ridge Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Burned Ridge Cave lies just south-west of [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) on the western most side of the region. It is not far from the plane [crash site](./Crash%20Site%20%28Pleasant%20Valley%29.md), and lies just off a path down the mountain. This is a prime location to rest at when rescuing a survivor of a crash. The cave is deep enough for cover from the wind, but also allows you to build a fire. There is also a makeshift bed inside the cave, which is useful if the player is not carrying a [bedroll](./Bedroll.md).

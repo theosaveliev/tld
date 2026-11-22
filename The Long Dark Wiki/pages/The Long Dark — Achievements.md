@@ -18,6 +18,8 @@ This is a list of the 88 obtainable achievements for _[The Long Dark](./The%20Lo
 - Some achievements in Survival Mode can have their progress reset if the player [Cheats Death](./Cheat%20Death.md), (these achievements are listed as "single game").
 - The achievement [Survive the Quiet Apocalypse](./Survive%20the%20Quiet%20Apocalypse.md) is a PlayStation 4/5 exclusive achievement.
 
+<span id="general_achievements"></span><span id="General_Achievements"></span><span id="general-achievements"></span>
+
 ## General Achievements
 
 Most of these Achievements can be unlocked in [Survival Mode](./Survival%20Mode.md), [Wintermute](./Wintermute.md), or in [Challenges](./Challenge.md). Most general Achievements, however, can only be unlocked in Survival Mode.
@@ -32,7 +34,7 @@ Most of these Achievements can be unlocked in [Survival Mode](./Survival%20Mode.
 
 [**Survive the Quiet Apocalypse**](./Survive%20the%20Quiet%20Apocalypse.md)
 
-Whatever the future brings, you will be ready. [¹](#fn1)
+Whatever the future brings, you will be ready. <span id="fnref1"></span>[¹](#fn1)
 
 [The First of Many icon](../assets/The_First_of_Many_icon.png)
 
@@ -194,7 +196,7 @@ Keep a [campfire](./Fire.md) burning for 3 days.
 
 **[Challenge Mastery](./Challenge%20Mastery.md)**
 
-Complete every [Challenge](./Challenge.md). [²](#fn2)
+Complete every [Challenge](./Challenge.md). <span id="fnref2"></span>[²](#fn2)
 
 [Something Wicked icon](../assets/Something_Wicked_icon.png)
 
@@ -237,6 +239,8 @@ Kill 25 Rabbits with [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) (singl
 **[Down Below](./Down%20Below.md)**
 
 Enter all 9 [Prepper Cache](./Prepper%20Cache.md) locations (single game).
+
+<span id="tales_from_the_far_territory_achievements"></span><span id="Tales_from_the_Far_Territory_Achievements"></span><span id="tales-from-the-far-territory-achievements"></span>
 
 ## Tales from the Far Territory Achievements
 
@@ -319,6 +323,8 @@ Achieve the highest Trust level with the [Trader](./Trader.md).
 [**Tough Enough**](./Tough%20Enough.md)
 
 Survive 25 [Cougar](./Cougar.md) Struggles.
+
+<span id="hidden_achievements"></span><span id="Hidden_Achievements"></span><span id="hidden-achievements"></span>
 
 ## Hidden Achievements
 
@@ -500,9 +506,9 @@ Defeat your first Timberwolf pack.
 
 [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
-[Welcome to the S\*\*t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png)
+[Welcome to the S\**t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png)
 
-**[Welcome to the S\*\*t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)**
+**[Welcome to the S\**t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)**
 
 Find Medicine for the Warden.
 
@@ -660,6 +666,8 @@ Complete Episode Five.
 
 [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
 At the release of Wintermute (v1.00), the following Achievements were removed from the game and no longer display on Steam:
@@ -812,9 +820,11 @@ Harvest 25 of each kind of plant (single game)
 
 ![All 22 achievement icons, pre V1.15.](../assets/Achievements_collage_22.png)
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. PlayStation 4 only Platinum Trophy[↩︎](#fnref1)
-2. Completion of [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) and [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) is not required to unlock this Achievement.[↩︎](#fnref2)
+1. <span id="fn1"></span>PlayStation 4 only Platinum Trophy[↩︎](#fnref1)
+2. <span id="fn2"></span>Completion of [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) and [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) is not required to unlock this Achievement.[↩︎](#fnref2)

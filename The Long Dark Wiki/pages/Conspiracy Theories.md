@@ -6,7 +6,7 @@
 
 [Conspiracy Theories icon](../assets/Conspiracy_Theories_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md)
 
@@ -30,6 +30,8 @@
 
 **Conspiracy Theories** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Blackrock Rumours](./Blackrock%20Rumours.md) side mission. It is found in the bunker as part of the Suspicious man quest.
 
+<span id="transcrip"></span><span id="Transcrip"></span>
+
 ## Transcrip
 
 _The following text is transcribed from **Conspiracy Theories**_
@@ -42,13 +44,17 @@ Never shoulda stayed round here after I got out. Was like a big hole and now I'm
 
 Like the doc said back then, keep writin...if you're writin you're breathin.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - An unconfirmed theory is that this letter was written by [The Foreman](./The%20Foreman.md) after he escaped [Forsaken Airfield](./Forsaken%20Airfield.md).
   - The symptoms the writer documents are consistent with those experienced by [Patient 7](./Project%20Medical%20Officer.md), likely due to exposure to Rudiger's Machine.
 - Another theory is that this individual may have been a former convict released from Blackrock Prison, as the note [Blackrock Prisoner Release Record](./Blackrock%20Prisoner%20Release%20Record.md) is found inside the same bunker. The [Prepper Hatch Location](./Prepper%20Hatch%20Location.md) note is also found during the quest, with the writing being of far sounder mind.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

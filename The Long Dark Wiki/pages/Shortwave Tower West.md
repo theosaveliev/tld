@@ -16,13 +16,19 @@
 
 **Type:** OutdoorsMilitary/Sporting
 
+<span id="surroundings"></span><span id="Surroundings"></span>
+
 ## Surroundings
 
 There are no supplies near the tower, however there is a [Warm Cave](./Warm%20Cave.md) not far away where some supplies can be found. A [Mementos](./Mementos.md) is stuck to the tower leg facing the marsh cliff side.
 
+<span id="story"></span><span id="Story"></span>
+
 ## Story
 
 In Episode 2 this is one of the radio towers that has to be reached to gather radio components in the mission [Signal to Noise](./Signal%20to%20Noise.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

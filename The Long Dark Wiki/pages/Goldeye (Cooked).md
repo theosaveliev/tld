@@ -34,6 +34,8 @@ _For the raw version, see [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)._
 
 **Goldeye (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked goldeye have a minimum raw weight of 0.21 kg and a maximum raw weight of 1.6 kg.
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Goldeye (Cooked)**
@@ -46,6 +48,8 @@ _For the raw version, see [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)._
 
 **Quantity:** 1
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Fresh](../assets/Goldeye_%28Cooked%29_icon.png)
@@ -57,6 +61,8 @@ _For the raw version, see [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)._
 ![Rancid](../assets/Goldeye_%28Cooked%29_Rancid_icon.png)
 
 ![Ruined](../assets/Goldeye_%28Cooked%29_Ruined_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

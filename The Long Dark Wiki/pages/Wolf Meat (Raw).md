@@ -13,7 +13,7 @@
 
 [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** Yes
 
@@ -43,6 +43,8 @@ _For the cooked version, see [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.m
 
 **Wolf Meat (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) carcasses, which contain between 3.0 and 6.0 kg of raw meat. Consuming raw meat carries a high chance of contracting [Food Poisoning](./Food%20Poisoning.md). Wolf Meat **cannot** be harvested from [Poisoned Wolf](./Poisoned%20Wolf.md) carcasses.
@@ -52,12 +54,16 @@ Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) 
 - At 0% condition food disappears if inside of a container, but not outside of containers or in the player's inventory.
 - Meat decays slower outdoors than indoors.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -72,6 +78,8 @@ Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) 
 ![Ruined](../assets/Wolf_Meat_%28Raw%29_Ruined_icon.png)
 
 ![Old model](../assets/Wolf_meat_raw.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

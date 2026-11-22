@@ -17,11 +17,15 @@
 
 **Exposure** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). The player must take 1 photo in each main [Region](./Region.md) of the game in The Far Territory and Lower Great Bear. Taking a photo in [Transition Zones](./Region.md#Transition_Zones) or indoors does not count towards unlocking this achievement.
 
 Since these are 16 regions to cover, targeting this could be combined with achieving the [Shutterbug](./Shutterbug.md), which is to shoot 30 photos, 10 with each of the 3 film types. By changing the film type for every photo and shooting 2 photo per region, the player achieves both achievements combined.
+
+<span id="lower_great_bear"></span><span id="Lower_Great_Bear"></span><span id="lower-great-bear"></span>
 
 ### Lower Great Bear
 
@@ -38,11 +42,15 @@ Since these are 16 regions to cover, targeting this could be combined with achie
 - [Ash Canyon](./Ash%20Canyon.md)
 - [Blackrock](./Blackrock.md)
 
+<span id="the_far_territory"></span><span id="The_Far_Territory"></span><span id="the-far-territory"></span>
+
 ### The Far Territory
 
 - [Transfer Pass](./Transfer%20Pass.md)
 - [Forsaken Airfield](./Forsaken%20Airfield.md)
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
 - [Sundered Pass](./Sundered%20Pass.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

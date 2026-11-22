@@ -49,13 +49,19 @@ Missions
 
 The **Crashed Prison Transport Bus** is a location in the [Mountain Town](./Mountain%20Town.md) region, located to the south of [Milton](./Milton.md), past the [Orca Gas Station](./Orca%20Gas%20Station.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) prior to the [First Flare](./First%20Flare.md), is half-buried in snow and rubble from the collapsed tunnel and cannot be entered. The [Frozen Corpse](./Frozen%20Corpse.md) of an inmate can be found nearby and looted. A briefcase can also be found nearby, containing the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md).
 
+<span id="story_mode"></span><span id="Story_Mode"></span><span id="story-mode"></span>
+
 ## Story Mode
 
 ![Perseverance](../assets/Perseverance.jpg)![Perseverence logo](../assets/Perseverence_logo.png) Although the locale can be encountered at any point while exploring Milton, it must be visited as part of the main [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) questline. [Grey Mother](./Grey%20Mother.md) sends [Will Mackenzie](./Will%20Mackenzie.md) to investigate the tunnel, where he finds the bus crash and the collapsed tunnel. A cutscene shows Mackenzie noticing the scrap of clothing in the bus door, and then revealing the word _PERSEVERANCE_ written in blood on the floor inside the bus, presumably by [Astrid Greenwood](./Astrid%20Greenwood.md), leading Will to believe that Astrid made her way to the town of [Perseverance Mills](./Perseverance%20Mills.md).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

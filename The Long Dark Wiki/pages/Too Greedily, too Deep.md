@@ -10,6 +10,8 @@
 
 **Too Greedily, too Deep** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md).
@@ -19,6 +21,8 @@ The player must survive within the [Langston Mine](./Langston%20Mine.md) for 25 
 Using the elevator shaft to visit a lower section of the mine or going topside will reset achievement progress, so consider going to the lowest level and staying put.
 
 This achievement is much harder (though not impossible) to unlock on [Stalker](./Stalker.md), [Interloper](./Interloper.md), and [Misery](./Misery.md), as these difficulties increase the survivor's [Needs](./Needs.md) drain and also gives the survivor [Cabin Fever](./Cabin%20Fever.md) after 5 days, making it impossible to pass time or sleep once afflicted. You can choose to do any action to forward time (e.g. tear clothes and cancel), however since you are unable to sleep, you will slowly lose health. To counter this, consider bringing caffeine or health buff consumables. Alternatively, you can choose the Settled Mind [feat](./Feats.md) when starting your run to avoid Cabin Fever altogether.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

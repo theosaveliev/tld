@@ -18,6 +18,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) lies next to Crystal Lake.
@@ -27,6 +29,8 @@ The lake has a dock and a single [Fishing Hut](./Fishing%20Hut.md) with some sup
 A large number of [cat tail](./Cat%20Tail.md) plants can be found growing on the banks of the lake. [Rose hips](./Rose%20Hip.md) and [old man's beard lichen](./Old%20Man%27s%20Beard%20Lichen.md) can also be found in the area.
 
 [Deer](./Deer.md) and other [wildlife](./Wildlife.md), including [wolves](./Wolf.md) and a possible [bear](./Bear.md) can frequently be found wandering by the lake if the player's [Scent](./Scent.md) is high from Ice Fishing. ![Crystal Lake from above. Mountaineer's Hut is visible on the right side of the picture, along with the dock and the fishing hut is at the center of the lake.](../assets/CrystalLake.jpg)_Crystal Lake from above. Mountaineer's Hut is visible on the right side of the picture, along with the dock and the fishing hut is at the center of the lake._
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

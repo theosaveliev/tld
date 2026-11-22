@@ -6,7 +6,7 @@
 
 [Detonators icon](../assets/Detonators_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Detonators](./The%20Detonators.md)
 
@@ -34,7 +34,9 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journeys to the [Last Prospect](./Last%20Prospect.md) mines above [Blackrock Federal Penitentiary](./Blackrock%20Prison.md), and retrieves the detonators for [Mathis](./Mathis.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

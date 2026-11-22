@@ -28,11 +28,15 @@
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) at the [Control Tower](./Control%20Tower.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Note**_
 
 WE'RE LEAVING! Can't stand the lights any longer. No sleep. Just no sleep. We're walking out of here.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

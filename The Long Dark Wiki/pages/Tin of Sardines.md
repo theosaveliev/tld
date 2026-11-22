@@ -13,7 +13,7 @@
 
 [Tin of Sardines icon](../assets/Tin_of_Sardines_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** No
 
@@ -49,6 +49,8 @@
 
 **Tin of Sardines** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming a Tin of Sardines provides up to 300 calories of [energy](./Hunger.md) and 5% [hydration](./Thirst.md), and weighs a mere 0.10kg. They can be found commonly in all regions, usually inside cabinets, houses, stores and [Vehicles](./Vehicle.md) and especially in [Bleak Inlet](./Bleak%20Inlet.md) inside the [Last Resort Cannery](./Last%20Resort%20Cannery.md). Tin of Sardines are a modestly energy-dense food item. However, they have a high chance of [Food Poisoning](./Food%20Poisoning.md) if consumed below 50% of the item's Condition, increased further below 30% condition, though not as high a chance as low condition cooked meat.
@@ -59,15 +61,21 @@ The Last Resort Cannery in Bleak Inlet has a substantial stock of Tins of Sardin
 
 Tin of Sardines can cause Food Poisoning, elevated at low item condition, and [decays](./Decay.md) more slowly when indoors.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Tin of Sardines are packaged as a product called "_Last Resort"_, a product of the titular "Last Resort Cannery" in Bleak Inlet.
 - The bottom of the tin list "Ingredients: Sardines, Water, Salt." and "Made in Canada"
 - The Examine text is likely a reference to the Stan Rogers song 'Tiny Fish for Japan'
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model](../assets/Tin_of_Sardines.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

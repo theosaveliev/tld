@@ -23,7 +23,7 @@
 
 [Noisemaker icon](../assets/Noisemaker_icon.png)
 
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
@@ -57,11 +57,15 @@
 
 **Noisemakers** (also nicknamed **Pipebombs**), are a tool in _[The Long Dark](./The%20Long%20Dark.md)_. They are primarily used for frightening [Wildlife](./Wildlife.md), but can be used to offensively kill animals.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Noisemakers are handheld improvised explosive devices composed of wire sealed [Tin Cans](./Recycled%20Can.md) packed with [Gunpowder](./Can%20of%20Gunpowder.md) and a cloth wick to ignite the powder. They are very effective at frightening nearby wildlife, and can stop a charging [Bear](./Bear.md) or [Moose](./Moose.md) if directly hit. They are moderately effective at lowering [Timberwolf](./Timberwolf.md) morale.
 
 Despite a very low damage output of 50, Noisemakers are capable of hurting all types of wildlife, and will easily one-shot kill [rabbits](./Rabbit.md) and [ptarmigan](./Ptarmigan.md) within a medium-sized area of effect. They will chip away at wildlife health if detonated nearby, and eventually kill once enough damage is inflicted.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -74,6 +78,8 @@ The locations of Noisemakers are only found:
   - Or going down to the ravine via [Cliff Cave](./Cliff%20Cave.md) or near the bridge to [Cook's Farm](./Cook%27s%20Farm.md) and traveling up the river until the northern end of the ravine and the ropes can be accessed. Once the Noisemakers have been picked up, the player can craft them at either [Ammunition Workbench](./Ammunition%20Work%20Bench.md).
 - With the [Tales From The Far Territory](./Tales%20from%20the%20Far%20Territory.md) update, Noisemakers can rarely spawn in the [Main Hangar](./Main%20Hangar.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) region.
 - They can also be found inside two specific [Memento Caches](./Mementos.md) (one in [Blackrock](./Blackrock.md), on the exterior of the Prison wall and another in Bleak Inlet near the [Coastal Highway Terminus](./Coastal%20Highway%20Terminus.md) Hunter's Blind).
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ### Recipe
 
@@ -99,9 +105,13 @@ The locations of Noisemakers are only found:
 
 Crafting Noisemakers does not level up the [Gunsmithing](./Gunsmithing.md) skill (but crafting [Can of Gunpowder](./Can%20of%20Gunpowder.md) to produce them does).
 
+<span id="usage"></span><span id="Usage"></span>
+
 ## Usage
 
 Most Wildlife will flee from the sound of an exploding Noisemaker, similar to the report of [gunshots](./Hunting%20Rifle.md). Below are the interactions each type of wildlife has with noisemakers.
+
+<span id="direct_noisemaker_hits_required_to_kill"></span><span id="Direct_Noisemaker_Hits_Required_to_Kill"></span><span id="direct-noisemaker-hits-required-to-kill"></span>
 
 ### Direct Noisemaker Hits Required to Kill
 
@@ -109,15 +119,21 @@ Most Wildlife will flee from the sound of an exploding Noisemaker, similar to th
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Hits | 1 | 1 | 2 | 2 | 3 | 3 | 5 | 8 | 10 | 15 | 6 |
 
+<span id="wolves"></span><span id="Wolves"></span>
+
 ### Wolves
 
 - Both normal and [Posioned Wolves](./Poisoned%20Wolf.md) will flee upon hearing or being damaged by a nearby Noisemaker detonation even if the player has already been detected, this even applies to their aurora variants.
 - Timberwolves and aurora Timberwolves will flee if a undetected player detonates a Noisemaker nearby. Timberwolves morale meter will decrease moderately if one detonates near, and significantly if it lands a hit directly.
 
+<span id="bears"></span><span id="Bears"></span>
+
 ### Bears
 
 - Noisemaker detonations will attract bears instead of scare them, unless they inflict damage, then normal bears will flee and aurora bears will charge.
 - Bears will flee mid-charge if a Noisemaker hits them directly, this will not work on aurora bears.
+
+<span id="cougars"></span><span id="Cougars"></span>
 
 ### Cougars
 
@@ -126,15 +142,21 @@ Most Wildlife will flee from the sound of an exploding Noisemaker, similar to th
 - Noisemaker damage will not prevent cougars from engaging in a [Struggle](./Struggle.md), they must first be shot at by a firearm or bow before Noisemaker use to receive a glancing blow instead.
 - Noisemakers completely ignore the aurora cougars innate 25% damage resistance, and will still take 6 hits to kill.
 
+<span id="moose"></span><span id="Moose"></span>
+
 ### Moose
 
 - Moose are scared of nearby Noisemaker detonations and will flee, unless the moose has detected the player or is actively charging, then only direct hits will cause them to flee.
+
+<span id="prey_animals"></span><span id="Prey_Animals"></span><span id="prey-animals"></span>
 
 ### Prey Animals
 
 - [Deer](./Deer.md) will flee upon hearing Noisemaker detonations.
 - Rabbits will die instantly to nearby Noisemaker detonations, nearby unharmed rabbits will flee.
 - Ptarmigan will die instantly to nearby Noisemaker detonations, nearby unharmed ptarmigan will flee.
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -145,13 +167,19 @@ Most Wildlife will flee from the sound of an exploding Noisemaker, similar to th
 - Since they instantly kill [Rabbits](./Rabbit.md) or [Ptarmigan](./Ptarmigan.md) in a wide area- about the radius of three dropped rifles lined tip to stock, they can wipe out an entire group at once as long as they are close together, which makes it a decent small game hunting alternative for those inaccurate with stones, firearms, or the bow.
 - Using Noisemakers for [Hunting](./Hunting.md) medium and large game is generally not recommended due to their high crafting cost, as well as difficulty of use. Most wildlife will flee when hit and will need to be chased down repeatedly to secure a kill.
 
+<span id="wintermute_mode"></span><span id="Wintermute_Mode"></span><span id="wintermute-mode"></span>
+
 ## Wintermute Mode
 
 In [Wintermute](./Wintermute.md), [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), a Noisemaker may be obtained inside the [Weapon Locker](./Weapon%20Locker.md) just before leaving [Blackrock Penitentiary](./Blackrock%20Mountain.md). They can be crafted at [Work Benches](./Work%20Bench.md) (instead of an ammo work bench) with the same recipe, and materials are quite plentiful to create them. They are mostly used as a defense tool to frighten Timberwolves away.
 
+<span id="known_issues"></span><span id="Known_Issues"></span><span id="known-issues"></span>
+
 ## Known Issues
 
 - Killing moose with a Noisemaker will cause it's death animation to bug out, and the moose will appear to be standing upright and continue to let out stunned noises. Despite this, the carcass may be harvested as normal.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 
@@ -159,6 +187,6 @@ UPDATE **7 Dec 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):*
 
 - Added to Survival Mode.
 
-UPDATE **6 Oct 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+UPDATE **6 Oct 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
 
 - Added to game.

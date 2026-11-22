@@ -23,6 +23,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It can spawn in one of two different locations:
@@ -32,16 +34,22 @@ It can spawn in one of two different locations:
 
 The exact location of the fire may differ in each game, but it can usually be reached via one of the [Ice Cave](./Ice%20Cave.md) systems or by [Mountaineering Rope](./Mountaineering%20Rope.md), though walls of [Scrub Brush](./Scrub%20Brush.md) may block the way. One can tell which location it spawned in by looking for the smoke signal's location in the valley.
 
+<span id="overview_1"></span><span id="overview-1"></span>
+
 ## Overview
 
 The Signal Fire generally sits beside a camp containing a [Snow Shelter](./Snow%20Shelter.md), a burnt out [Campfire](./Campfire.md), possibly a corpse, and some useful food or clothing items. A [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) can be found hanging from a branch in the area, except in Interloper experiences. The signal fire is one of the few places where man-made objects are likely to be found in the region.
 
 The Signal Fire provides no warmth since it is almost burned out. Try to go to this location towards the end of your time in region, as the smoke can help serve as a useful landmark for orientating your position.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Originally the signal fire was just a giant [Campfire](./Campfire.md) when Hushed River Valley was first released. The model was eventually replaced with a pyre when [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) was released (similar to the one in front of the [Community Hall](./Community%20Hall.md)).
 - Aside from seemingly recent [Frozen Corpses](./Frozen%20Corpse.md), this signal fire is the only evidence that another human could still be alive on the Island in [Survival Mode](./Survival%20Mode.md), though the producer of the signal fire is never found.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

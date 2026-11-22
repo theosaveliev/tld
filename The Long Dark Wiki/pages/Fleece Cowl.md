@@ -36,6 +36,8 @@
 
 **Fleece Cowl** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Despite its description, the fleece cowl is best used as an outer layer for wind protection, as its warmth value isn't as good as items like the [Wool Toque](./Wool%20Toque.md) or the [Balaclava](./Balaclava.md). As a scarf, the [Long Wool Scarf](./Long%20Wool%20Scarf.md) would be better suited to the environment, or any of the aforementioned options.
@@ -43,6 +45,8 @@ Despite its description, the fleece cowl is best used as an outer layer for wind
 ![Model icon](../assets/Fleece_Cowl_Model_icon.png)
 
 ![Model icon damaged](../assets/Fleece_Cowl_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

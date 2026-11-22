@@ -46,6 +46,8 @@
 
   **Hobbs** is a minor character appearing in the [REDUX](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog#1.41) version of [Wintermute](./Wintermute.md) Episode 1. He can be found in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), near the town of [Milton](./Milton.md).
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 Hobbs is one of the [Convicts](./Convicts.md), a felon on his way to [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) to serve a twenty-year sentence. The [First Flare](./First%20Flare.md) struck during transit, and he and at least two other inmates fled the [prison bus](./Crashed%20Prison%20Transport%20Bus.md) into the nearby town when it crashed outside [Milton](./Milton.md) (with the many other inmates going through the tunnel to [Pleasant Valley](./Pleasant%20Valley.md)) , causing the tunnel to collapse. With his fellow inmates, Hobbs took the remaining citizens of Milton hostage in the [Old Schoolhouse](./Old%20Schoolhouse.md) before it caught fire due to the adverse electrical effects of the [Aurora](./Aurora.md), inadvertently killing those inside.
@@ -54,13 +56,21 @@ Hobbs is one of the [Convicts](./Convicts.md), a felon on his way to [Blackrock 
 
 Badly wounded, he fled town and took refuge at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), taking the time to pilfer and break open a Lock Box belonging to [Martin Barker](./Martin%20Barker.md) full of cash from inside the house, despite his dying state.
 
+<span id="episode_1_do_not_go_gentle"></span><span id="Episode_1:_Do_Not_Go_Gentle"></span><span id="episode_1:_do_not_go_gentle"></span><span id="episode-1-do-not-go-gentle"></span>
+
 ## Episode 1: Do Not Go Gentle
 
+<span id="the_grey_mother"></span><span id="The_Grey_Mother"></span><span id="the-grey-mother"></span>
+
 ### [The Grey Mother](./The%20Grey%20Mother.md)
+
+<span id="grey_mother_thinks_something_happened_at_the_tunnel_leading_out_from_milton._investigate."></span><span id="Grey_Mother_thinks_something_happened_at_the_tunnel_leading_out_from_Milton._Investigate."></span><span id="grey-mother-thinks-something-happened-at-the-tunnel-leading-out-from-milton-investigate"></span>
 
 #### Grey Mother thinks something happened at the tunnel leading out from Milton. Investigate.
 
 His name (HOBBS, T.) first appears on the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md) near the Crashed Prison Bus, foreshadowing him as a character.
+
+<span id="something_precious_was_stolen_from_grey_mother._find_it_and_return_it_to_her."></span><span id="Something_precious_was_stolen_from_Grey_Mother._Find_it,_and_return_it_to_her."></span><span id="something_precious_was_stolen_from_grey_mother._find_it,_and_return_it_to_her."></span><span id="something-precious-was-stolen-from-grey-mother-find-it-and-return-it-to-her"></span>
 
 #### Something precious was stolen from Grey Mother. Find it, and return it to her.
 
@@ -70,17 +80,25 @@ WARNING: No matter what option is chosen you will not get to keep the knife, so 
 
 After you make your choice, Mackenzie takes the [Bank Deposit Box Key 15](./Bank%20Deposit%20Box%20Key%2015.md) from the Lock Box and leaves the dwelling, and Hobbs is never seen again.
 
+<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
+
 ### [Paradise Lost](./Paradise%20Lost.md)
 
 Based on the decision spare or kill Hobbs, [Methuselah](./Methuselah.md) will have unique dialogue options later in Paradise Lost, giving a neutral warning to Mackenzie about "living by the sword" if he killed Hobbs or sounding relived but concerned that "this new world will grind his good nature to dust" if he spared the convict.
+
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
 
 ## Episode 3
 
 Hobbs appears in a voice over recap during the beginning of Episode 3, mentioning the Old Schoolhouse.
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 ## Episode 4
 
 Hobbs once again appears in a voice over recap during the beginning of Episode 4, mentioning Blackrock Prison. ![Hobbs on the sofa](../assets/20181218201232_1.jpg)_Hobbs on the sofa_
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

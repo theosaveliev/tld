@@ -24,6 +24,8 @@ Firebox
 
 Has a workbench
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The railyard is located behind the [Headframe Building](./Headframe%20Building.md), and consist of a group of buildings and several railroads with abandoned coal/fuel cars. 3 sheds can be entered with varying degrees of loot:
@@ -37,3 +39,5 @@ Several smaller fields of toxic industrial waste are located near the sheds and 
 A train station can be found directly across the derelict rail cars, and can be entered to reveal an upstairs office. A [Polaroid](./Polaroids.md) can spawn on the board upstairs.
 
 A [Rim Grill](./Rim%20Grill.md) is placed in one of the buildings, of which only 4 exist in the game.
+
+<span id="gallery"></span><span id="Gallery"></span>

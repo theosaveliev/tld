@@ -8,6 +8,8 @@
 
 **Voyageur** is the 2nd [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "normal" difficulty setting.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Voyageur takes [Pilgrim](./Pilgrim.md) and increases the difficulty, removing the Wildlife pacifying effect from predators to make them a threat. The game world is only slightly more harsh, with [Needs](./Needs.md) and [Clothing](./Clothing.md) needing a bit more maintenance. Overall, the game is still quite easy to survive on, with food, clothing, tools, and resources being quite plentiful.
@@ -16,6 +18,8 @@ This Experience also introduces Two new Afflictions;
 
 - [Cabin Fever](./Cabin%20Fever.md): the player cannot sleep or pass time indoors once contracted after spending too much time inside, and must spend time outside. This removes the ability for the player to endlessly spend most of their time indoors.
 - [Scurvy](./Scurvy.md): A debilitating disease that slowly destroys the player's health, though it is quite forgiving.
+
+<span id="voyageur_settings"></span><span id="Voyageur_Settings"></span><span id="voyageur-settings"></span>
 
 ## Voyageur Settings
 

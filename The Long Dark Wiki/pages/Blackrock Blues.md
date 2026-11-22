@@ -28,6 +28,8 @@ Episode
 
 **Blackrock Blues** is the first mission in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). In this episode, Will has to get medical supplies to help heal [Franklin](./Franklin.md) after [Mathis](./Mathis.md) beat him up.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Check on the voice next door.
@@ -37,6 +39,8 @@ Episode
   - Search the nurse's office.
   - Track down the prison truck and medicine.
   - Return to Blackrock.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -56,6 +60,8 @@ Re-enter through another gate (left open) in the fence, and pass through the gua
 Shortly before exiting, the player will come to a weapons locker. This can provide up to two [noisemakers](./Noisemaker.md), a [Distress Pistol](./Distress%20Pistol.md), and a few [Flare Shells](./Flare%20Shell.md), depending on the difficulty. Once outside the prison, head along the main road in a generally southward direction, then turn east and cross an old log bridge. Across this bridge, a large patch of blood-stained snow will be visible near two pickup trucks. Follow this track to the south for a bit, then turn east towards [a cave](./Cutty%27s%20Cave.md). The required medicine will be on the body of the dead prison guard.
 
 With the medicine in hand, follow the main road back to the prison. Before dropping off the medicine, place any items found along the way in a safe location (the locker in the guardhouse is recommended), else they'll be confiscated. The mission ends when the drugs are delivered at the jail's door.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -28,6 +28,8 @@
 
 **Security Chief's Log 33** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found in the large room just before encountering The Machine.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 33**_
@@ -39,6 +41,8 @@ So I came back down. To try and smash this thing. Or do something.
 Anything.
 
 I think I’ll just close my eyes for a little while.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

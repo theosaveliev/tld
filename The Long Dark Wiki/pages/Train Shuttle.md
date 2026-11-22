@@ -16,6 +16,8 @@ Shuttles often contain [Clothing](./Clothing.md), [Research Books](./Research%20
 - At the end of [Surfeit Trestle](./Surfeit%20Trestle.md) ([Far Range Branch Line](./Far%20Range%20Branch%20Line.md))
 - Near [Idle Camp](./Idle%20Camp.md) ([Zone of Contamination](./Zone%20of%20Contamination.md))
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 [Will Mackenzie](./Will%20Mackenzie.md) hides inside one in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) to escape the [Old Bear](./Old%20Bear.md) while in [Broken Railroad](./Broken%20Railroad.md).

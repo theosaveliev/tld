@@ -1,6 +1,6 @@
 # Car
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car)
 
 ![Car red](../assets/Car_red.jpg)
 
@@ -8,15 +8,21 @@
 
 Car [Visors](./Visor.md) can sometimes hold [Mementos](./Mementos.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cars are remnants of former human society before the apocalypse. They have been rendered useless hunks of metal due to the [aurora](./Aurora.md). Cars are suitable as temporary sanctuaries from predators and the cold, and may even hold some basic supplies like food and water. All cars have searchable glove compartments in the passenger side and visors on both sides. A [prybar](./Prybar.md) will allow the player to force open the trunk, if it is locked. It is not possible to drop items inside a car. Under the hood, many cars contain a [battery](./Car%20Battery.md), which can be harvested into [scrap lead](./Scrap%20Lead.md) using a [hacksaw](./Hacksaw.md); since lead is needed for [making ammunition](./Ammunition%20Work%20Bench.md), car batteries can be a critical, limited resource.
 
 Entering a car will add a windproof protection as well as a bonus ambient temperature of +5o C. If there is no bedroll, the car will offer a bed warmth bonus of 3o C, but if there is a bedroll, the bedroll value will be used instead. Therefore, it is recommended to use a [bedroll](./Bedroll.md) of higher condition than 60%.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![A car with its hood open. old version](../assets/Car_hood_open.jpg)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

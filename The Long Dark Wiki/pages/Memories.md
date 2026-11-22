@@ -38,11 +38,15 @@ _For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md)._
 
 **Memories** is the first mission in [Episode One](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), where [Will Mackenzie](./Will%20Mackenzie.md) sits around the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hanger until he receives a visitor that requests a flight to [Great Bear Island](./Great%20Bear%20Island.md).
 
+<span id="official_description"></span><span id="Official_Description"></span><span id="official-description"></span>
+
 ## Official Description
 
 > “**Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.**”
 >
 > — In-game description
+
+<span id="objectives"></span><span id="Objectives"></span>
 
 ## Objectives
 
@@ -59,9 +63,13 @@ This section contains a list of the journal entries for the mission:
   - Select extra cargo (optional).
   - Grab your [Parka](./Mackenzie%27s%20Parka.md).
 
+<span id="waiting_in_jackrabbit_hangar"></span><span id="Waiting_in_Jackrabbit_Hangar"></span><span id="waiting-in-jackrabbit-hangar"></span>
+
 ## Waiting in Jackrabbit Hangar
 
 **Any extra items found in the hanger will not be taken with you to the next level, so do not worry about finding loot. Just focus on objectives.**
+
+<span id="start_a_fire"></span><span id="Start_a_Fire"></span><span id="start-a-fire"></span>
 
 ### Start a Fire
 
@@ -79,6 +87,8 @@ This section contains a list of the journal entries for the mission:
   - located next to a metal bench across the plane if you leave the office
 
 Go to the [Wood Stove](./Wood%20Stove.md) located in the corner of the office and start a [Fire](./Fire.md) with the acquired materials.
+
+<span id="explore_the_hanger"></span><span id="Explore_the_Hanger"></span><span id="explore-the-hanger"></span>
 
 ### Explore the Hanger
 
@@ -100,11 +110,17 @@ Open the Door to the office and exit into the hanger. Explore the Hanger, and ex
 
 After examining several of the objects listed above, you announce that you are ready for a nap. Go to the sleeping quarters and select the bed to go to sleep. You'll eventually be woken up by the sound of a ringing phone. Go back to the office.
 
+<span id="astrid_arrives"></span><span id="Astrid_Arrives"></span><span id="astrid-arrives"></span>
+
 ### Astrid Arrives
 
 Mackenzie will answer the ringing phone, with another Jackrabbit Remote Transport employee, Maureen, telling him over the phone that "she" arrived and was convinced you would fly her north. The door opens to reveal Astrid Greenwood. Astrid needs you to fly her to a settlement on the north coast of Great Bear Island to treat an ill person. You reluctantly agree, despite the "no questions asked" policy about this flight.
 
+<span id="flight_preparation"></span><span id="Flight_Preparation"></span><span id="flight-preparation"></span>
+
 ## Flight Preparation
+
+<span id="load_the_plane"></span><span id="Load_the_Plane"></span><span id="load-the-plane"></span>
 
 ### Load the Plane
 
@@ -116,13 +132,19 @@ Optionally, load one the three following items also located on the table by the 
 
 Select [Mackenzie's Parka](./Mackenzie%27s%20Parka.md) after loading the plane to complete the mission and start the next cutscene.
 
+<span id="flight_to_great_bear"></span><span id="Flight_to_Great_Bear"></span><span id="flight-to-great-bear"></span>
+
 ### Flight to Great Bear
 
 A cutscene triggers, where you fly through bad weather and experience an [Aurora](./First%20Flare.md). The electrical systems within the plane short circuit, and you crash into the wilderness of Great Bear.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 [Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -133,6 +155,8 @@ A cutscene triggers, where you fly through bad weather and experience an [Aurora
 - Several items can be picked up, such as a [Cooking Pot](./Cooking%20Pot.md), [Herbal Tea](./Herbal%20Tea.md), [Chocolate Bar](./Chocolate%20Bar.md), [Fir Firewood](./Fir%20Firewood.md), [Cedar Firewood](./Cedar%20Firewood.md), [Newsprint Roll](./Newsprint%20Roll.md), [Newsprint](./Newsprint.md), [Wood Matches](./Wood%20Matches.md), and [Reclaimed Wood](./Reclaimed%20Wood.md), but none of these items will be in the player's inventory in the next mission.
   - The Cooking Pot can be used to melt snow and boiled to create [Water (Potable)](./Water%20%28Potable%29.md), which can then be used with the Herbal Tea to prepare a [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md). Both the water and tea are removed when progressing like the rest of the items. However, the tea can be consumed before leaving the hangar, providing the [Warming Up](./Warming%20Up.md) and [Improved Rest](./Improved%20Rest.md) benefits, which will carry over to [The Crash](./The%20Crash.md).
 - Several normally interactable items can be found in the hangar but cannot be selected, such as a [Heavy Hammer](./Heavy%20Hammer.md), [Books](./Book.md), a [Metal Container](./Metal%20Container.md), [Plastic Container](./Plastic%20Container.md), [File Cabinet](./File%20Cabinet.md), [Cupboard](./Cupboard.md), a small mini [Fridge](./Fridge.md), a tool [Drawer](./Drawer.md), and a [Trash Can](./Trash%20Can.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -154,7 +178,9 @@ A cutscene triggers, where you fly through bad weather and experience an [Aurora
 
 ![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Added to the game.

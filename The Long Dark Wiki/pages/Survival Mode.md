@@ -31,9 +31,13 @@ During Survival Mode, the player may travel freely between all [Regions](./Regio
 
 Players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Expansion will have access to unique content in Survival Mode, such as more tools, more Wildlife, and new Regions.
 
+<span id="experience"></span><span id="Experience"></span>
+
 ## Experience
 
 The choice of Experience dictates how harshly the world will treat the player throughout their journey in _The Long Dark_.![Pilgrim icon](../assets/Pilgrim_icon.png)
+
+<span id="pilgrim"></span><span id="Pilgrim"></span>
 
 ### Pilgrim
 
@@ -48,6 +52,8 @@ The choice of Experience dictates how harshly the world will treat the player th
 
 ![Voyageur icon](../assets/Voyageur_icon.png)
 
+<span id="voyageur"></span><span id="Voyageur"></span>
+
 ### Voyageur
 
 > “**Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.**”
@@ -60,6 +66,8 @@ An experience that balances exploration with a challenge, [Voyageur](./Voyageur.
 - Allows for 4 active [Feats](./Feats.md).
 
 ![Stalker icon](../assets/Stalker_icon.png)
+
+<span id="stalker"></span><span id="Stalker"></span>
 
 ### Stalker
 
@@ -74,6 +82,8 @@ A punishing survival challenge. [Stalker](./Stalker.md) features numerous aggres
 
 ![Interloper icon](../assets/Interloper_icon.png)
 
+<span id="interloper"></span><span id="Interloper"></span>
+
 ### Interloper
 
 > “**You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.**”
@@ -86,6 +96,8 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 - Allows for 2 active [Feats](./Feats.md).
 
 ![Misery icon](../assets/Misery_icon.png)
+
+<span id="misery"></span><span id="Misery"></span>
 
 ### Misery
 
@@ -100,6 +112,8 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 
 ![Custom icon](../assets/Custom_icon.png)
 
+<span id="custom"></span><span id="Custom"></span>
+
 ### Custom
 
 > “**Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.**”
@@ -112,6 +126,8 @@ For players lookingfor create their own Experience, separate from the standard S
 - Allows up to 5 active [Feats](./Feats.md).
 - NOTE: No Feats progression will occur in Custom Experience Mode.
 
+<span id="choose_region"></span><span id="Choose_Region"></span><span id="choose-region"></span>
+
 ## Choose Region
 
 **Template:main** The player may select any region they want as their starting point. The player also has the option to randomize their starting region. Each region is unique, has different advantages and drawbacks, and are all interconnected.
@@ -119,6 +135,8 @@ For players lookingfor create their own Experience, separate from the standard S
 If the Interloper Experience is selected, then the starting region will be randomly chosen. On Interloper, you will not spawn in Mystery Lake or Coastal Highway, and the number of possible spawn locations is limited.
 
 Note that some regions are locked and cannot be selected to start a game in when first playing _The Long Dark_. They will always unlock in the menu selection screen for a future playthrough when the player travels there in-game for the first time.
+
+<span id="character_sex"></span><span id="Character_Sex"></span><span id="character-sex"></span>
 
 ## Character Sex
 
@@ -128,6 +146,8 @@ May choose between a male or female survivor. The only differences are the chara
 
 ![The male survivor silhouette](../assets/CharacterSelect_Male_Silhouette.png)
 
+<span id="start"></span><span id="Start"></span>
+
 ## Start
 
 Every Survival Mode session begins with the same opening text: you are a survivor of a plane crash after a [mysterious geomagnetic storm](./First%20Flare.md) has grounded your vessel. A randomly generated real world quote regarding survival will be displayed on the screen and then the player is able to start playing shortly after.
@@ -135,6 +155,8 @@ Every Survival Mode session begins with the same opening text: you are a survivo
 The survivor is alone, not dressed for the cold, and carries only a meager amount of supplies. The player must find food and shelter before nightfall, when the temperatures drop. The amount of supplies one starts with is dependent on the experience mode selected.
 
 Depending on the sandbox difficulty, the players may either find themselves inside a house or outside in the cold. On harder difficulties, it may already be dusk or night time, and in some cases bad weather may move in quickly.
+
+<span id="opening_quotes"></span><span id="Opening_Quotes"></span><span id="opening-quotes"></span>
 
 ## Opening Quotes
 
@@ -156,6 +178,8 @@ Below is a list of survival quotes when first beginning Survival Mode.
 - "The foraging for food and water, the struggle for life in a world without masters, housed in a body that man had made dependent on himself." - Richard Matheson, I Am Legend
 - "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms." - Henry David Thoreau, Walden
 
+<span id="differences_from_wintermute"></span><span id="Differences_from_Wintermute"></span><span id="differences-from-wintermute"></span>
+
 ## Differences from [Wintermute](./Wintermute.md)
 
 Some items, locations, and even events found within the Wintermute Story mode are different within Survival Mode, suggesting an alternate timeline of events has unfolded. A list of notable changes include:
@@ -173,6 +197,8 @@ Some items, locations, and even events found within the Wintermute Story mode ar
 11. The [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) is unoccupied, with neither [Molly](./Molly.md) nor her [husband's](./Molly%27s%20Husband.md) remains anywhere to be found. The nearby [barn](./Barn%20%28Molly%27s%29.md) has a [Timberwolf](./Timberwolf.md) sized hole in the doors, but no dead wolf.
 12. The [Community Hall](./Community%20Hall.md) at [Thomson's Crossing](./Thomson%27s%20Crossing.md) is empty and [Father Thomas](./Father%20Thomas.md) is missing. Subsequently, this resulted in the makeshift triage center never being made, as there is no lite bonfire in front of the hall to guide the plane [Crash Survivors](./Crash%20Survivor.md) to the town.
 13. The [Blackrock Prison](./Blackrock%20Prison.md) lies in ruins after a catastrophic explosion, with [all](./Mathis.md) [known](./Heller.md) [prisoners](./Vachon.md) and [on-site workers](./Franklin.md) having presumably perished inside. [Jace](./Jace.md) is also missing.
+
+<span id="achievements"></span><span id="Achievements"></span>
 
 ## Achievements
 
@@ -211,9 +237,13 @@ Some items, locations, and even events found within the Wintermute Story mode ar
 - ![Hot Shot icon](../assets/Hot_Shot_icon.png) [Hot Shot](./Hot%20Shot.md)
 - ![Down Below icon](../assets/Down_Below_icon.png) [Down Below](./Down%20Below.md)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Although Survival Mode is intended to be a permadeath experience, some players back up game saves periodically so that if they die, they can load the backed-up save and continue, even with Cheat Death enabled. This practice is called "[save scumming](wikt:scumming)."
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

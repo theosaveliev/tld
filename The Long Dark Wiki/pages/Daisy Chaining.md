@@ -4,11 +4,15 @@
 
 **Daisy Chaining** is a fan made gameplay term (similar to [Mountain Goating](./Mountain%20Goating.md), and [Hibernation](./Hibernation.md)) that refers to the practice of using [Torches](./Torch.md) to move a fire from one location to another, and to keep warm along the way, whilst using the least [Fire Starting](./Fire%20Starting.md) resources as possible. This practice helps conserve [Wood Matches](./Wood%20Matches.md), [Cardboard Matches](./Cardboard%20Matches.md), and [Firestrikers](./Firestriker.md) that may already be in short supply, deters wolves from attacking you, as well as to preserve resources for late game runs.
 
+<span id="practicality"></span><span id="Practicality"></span>
+
 ## Practicality
 
 Daisy Chaining is primarily more useful on higher difficulties [Survival Mode](./Survival%20Mode.md) games (Interloper, [As the Dead Sleep](./As%20the%20Dead%20Sleep.md)) in order to keep a starting player with low [Warmth](./Warmth.md) Clothing from freezing, as they move from location to location in order to scavenge materials to improve their odds of survival. Lower difficulty options tend to be more forgiving in terms of starting clothing, available clothing and resources, and overall lower [Needs](./Needs.md) restrictions, and is thus less useful of a gameplay tactic.
 
 Even on easier gameplay settings, Daisy Chaining is a useful gameplay strategy for late game Fire Starting resource preservation.
+
+<span id="chaining_the_flame"></span><span id="Chaining_the_Flame"></span><span id="chaining-the-flame"></span>
 
 ## Chaining the Flame
 

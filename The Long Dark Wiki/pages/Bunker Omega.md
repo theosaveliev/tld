@@ -31,9 +31,13 @@ Has a bed
 
 Has a workbench
 
+<span id="unlocking"></span><span id="Unlocking"></span>
+
 ## Unlocking
 
 This bunker can only be found after having fixed all the [Transmitters](./Transmitters.md) in Lower Great Bear AND visiting all three other bunkers, as required by the mission objectives. Then return to Forsaken Airfield when the [Aurora](./Aurora.md) or a [Glimmer Fog](./Glimmer%20Fog.md) event is active to locate it. Prior to this, the entrance is completely covered by snow, and cannot be uncovered without the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -43,9 +47,13 @@ Despite the bunker's large size and plentiful loot, it is not a particularly pra
 
 The player is required to return here as part of [Last Horizon](./Last%20Horizon.md), to find one final secret hidden within the bunker; a hidden room in a closet storage area.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Given the size of the bunker, it is highly likely that it, along with the [other](./Bunker%20Alpha.md) [three](./Bunker%20Beta.md) [bunkers](./Bunker%20Gamma.md) and the [prepper caches](./Prepper%20Cache.md), were built as fallout shelters in case of nuclear war.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

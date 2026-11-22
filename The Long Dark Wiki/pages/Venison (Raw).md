@@ -13,7 +13,7 @@
 
 [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** No
 
@@ -43,6 +43,8 @@ _For the cooked version, see [Venison (Cooked)](./Venison%20%28Cooked%29.md)._
 
 **Venison (Raw)** is a raw food item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Venison is harvested from [Deer](./Deer.md) carcasses, which contain between 8.0 and 10.0 kg of raw meat. Consuming raw meat carries a high chance of contracting [Food Poisoning](./Food%20Poisoning.md).
@@ -54,6 +56,8 @@ Carcasses of deer slain by [wolves](./Wolf.md) will have reduced yields (includi
 
 Frozen deer carcasses created during world generation always contain 1 [deer hide](./Fresh%20Deer%20Hide.md), 2 [guts](./Fresh%20Gut.md) and 0.5-2.0 kg of meat.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
@@ -63,6 +67,8 @@ Frozen deer carcasses created during world generation always contain 1 [deer hid
 | [Venison (Cooked)](./Venison%20%28Cooked%29.md) | None | - 1.00 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) |
 | [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -77,6 +83,8 @@ Frozen deer carcasses created during world generation always contain 1 [deer hid
 ![Ruined](../assets/Venison_%28Raw%29_Ruined_icon.png)
 
 ![Old model.](../assets/Venison_raw.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

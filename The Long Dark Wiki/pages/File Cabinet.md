@@ -1,6 +1,6 @@
 # File Cabinet
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/File_Cabinet)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/File_Cabinet)
 
 **File Cabinet**
 
@@ -18,7 +18,7 @@ TBD
 
 Update
 
-[0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+[0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 Story item
 
@@ -39,6 +39,8 @@ GAMEPLAY\_FileCabinet
 A **File Cabinet** is a stationary interactable object in [The Long Dark](./The%20Long%20Dark.md). It is most often found indoors, in workplaces and offices and sometime houses. They can contain many things, but they most commonly contain different variants of newspaper, candy bars, sodas and books. Being a container, they cannot be broken down. All filing cabinets have four different drawers, each being able to hold 10 kilograms apiece (22lbs).
 
 In some cases, filing cabinets can have draws be open or missing, and thus are not searchable (but they still can have items inside). This is most common in larger locations, or in locations that are run-down, like [Carter Hydro Dam.](./Carter%20Hydro%20Dam.md)
+
+<span id="loot"></span><span id="Loot"></span>
 
 ## Loot
 

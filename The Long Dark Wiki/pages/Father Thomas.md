@@ -19,7 +19,7 @@
 
 [Father thomas](../assets/Father_thomas.jpg)
 
-**Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Date:** 22 October 2019
 
@@ -53,17 +53,25 @@
 
 **Father Thomas** is the primary non-player character in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). He is the priest of the [church](./Pleasant%20Valley%20Church.md) in [Thomson's Crossing](./Thomson%27s%20Crossing.md), and can be found inside the [Community Hall](./Community%20Hall.md) for the entirety of the episode.
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 Soft-spoken and kind, Father Thomas is the main quest-giver for the storyline of Episode 3. He cares for the [Crash Survivors](./Crash%20Survivor.md) in the Community Hall, while directly or indirectly requesting Astrid's assistance to help the sick and injured.
 
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+
 ## Episode 3
+
+<span id="trauma"></span><span id="Trauma"></span>
 
 ### [Trauma](./Trauma.md)
 
 After leaving the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) behind and finding a [Community Hall Flyer](./Community%20Hall%20Flyer.md), [Astrid Greenwood](./Astrid%20Greenwood.md) follows the road to [Thomson's Crossing](./Thomson%27s%20Crossing.md). Seeing an active burning signal fire outside of the Community Hall, Astrid walks inside and is greeted by several wounded individuals, and a priest who welcomes her in. Believing that a confused Astrid is the victim of a recent plane crash in the mountains, Father Thomas introduces himself and offers the doctor shelter and the warmth of the nearby fireplace.
 
 Father Thomas tells Astrid about how the survivors of the recent plane crash started showing up recently, with many dying and being stored in the basement of the Community Hall. He also informs Astrid that all the paths out of Pleasant Valley have been blocked for weeks now, and that with no way out, there is no chance that anyone will come to rescue the plane crash survivors (and that Astrid cannot leave the Valley to make her way to [Perseverance Mills](./Perseverance%20Mills.md)). Finally, Father Thomas mentions that a monster of a blizzard is due to approach any day now. Because of the grim state of the survivors, Father Thomas is relived when Astrid offers to diagnose the injuries of each Crash Survivor.
+
+<span id="fallen_star"></span><span id="Fallen_Star"></span><span id="fallen-star"></span>
 
 ### [Fallen Star](./Fallen%20Star.md)
 
@@ -75,15 +83,23 @@ Astrid eventually finds 3 more survivors and secures enough food, water, and med
 
 Father Thomas then comforts Astrid with the burdens she carries, and asks that Astrid keeps the Rosary he initially gave her when the doctor tries to give it back. The priest wishes her luck, and does not have any new dialogue for the rest of the Episode as he tends to the Crash Survivors.
 
+<span id="aftermath"></span><span id="Aftermath"></span>
+
 ### [Aftermath](./Aftermath.md)
 
 Father Thomas is last seen in the ending cutscene to the Episode, with Astrid noting that the world is changing while reminiscing about how the people she has just met in Pleasant Valley will be living through a new, very harsh world soon.
 
+<span id="side_missions"></span><span id="Side_Missions"></span><span id="side-missions"></span>
+
 ## Side Missions
+
+<span id="church_artifact_mission"></span><span id="Church_Artifact_(mission)"></span><span id="church_artifact_(mission)"></span><span id="church-artifact-mission"></span>
 
 ### [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md)
 
 Astrid can return a stolen [Church Artifact](./Church%20Artifact.md) to the nearby church, with a [Thank You Letter](./Thankyou%20Letter.md) from the Father being left behind thanking whomever returned this precious item to the church.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -93,13 +109,17 @@ Astrid can return a stolen [Church Artifact](./Church%20Artifact.md) to the near
 - Despite neither Father Thomas nor Astrid ever bringing up the existence of [Molly](./Molly.md) in any of their conversations throughout the Episode, it can be inferred that Father Thomas most likely knows who she is, seeing that she is a residence of the valley.
 - It is suggested Thompson's Crossing was the largest remaining settlement on Great Bear Island prior to [The First Flare](./First%20Flare.md), because Milton's church was closed due to the towns declining population (as detailed in [Buffer Memories](./Buffer%20Memories.md) and Notes), and the Desolation Point's church seems derelict for years if not decades.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Community hall interior 2](../assets/Community_hall_interior_2.jpg)
 
 ![Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
 
+<span id="update_history"></span><span id="Update_History"></span><span id="update-history"></span>
+
 ## Update History
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

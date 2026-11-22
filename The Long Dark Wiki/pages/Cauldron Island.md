@@ -11,13 +11,16 @@
 - [Freya Island](#freya-island)
 - [Morag Island](#morag-island)
 - [Skye Island](#skye-island)
+- [Gallery](#gallery)
 - [Trivia](#trivia)
 
 [Seal icon](../assets/Seal_icon.png)
 
 **DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<br>**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it\].**<br>[Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
+<br>**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it].**<br>[Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -27,9 +30,13 @@ Not much is known about the history of the island at this time, but it has a his
 
 Hamish McLeod, industrialist tycoon, named each island after his 5 daughters.
 
+<span id="anna_island"></span><span id="Anna_Island"></span><span id="anna-island"></span>
+
 ## Anna Island
 
 An island focused primarily on a port for new arrivals and a few railways that connect to other islands.
+
+<span id="regions"></span><span id="Regions"></span>
 
 ### Regions
 
@@ -41,12 +48,26 @@ An island focused primarily on a port for new arrivals and a few railways that c
 - [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
 - [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
 
+<span id="stella_island"></span><span id="Stella_Island"></span><span id="stella-island"></span>
+
 ## Stella Island
+
+<span id="freya_island"></span><span id="Freya_Island"></span><span id="freya-island"></span>
 
 ## Freya Island
 
+<span id="morag_island"></span><span id="Morag_Island"></span><span id="morag-island"></span>
+
 ## Morag Island
 
+<span id="skye_island"></span><span id="Skye_Island"></span><span id="skye-island"></span>
+
 ## Skye Island
+
+<span id="gallery"></span><span id="Gallery"></span>
+
+## Gallery
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

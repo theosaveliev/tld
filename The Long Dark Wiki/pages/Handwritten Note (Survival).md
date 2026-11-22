@@ -6,7 +6,7 @@
 
 [Handwritten Note (Survival) icon](../assets/Handwritten_Note_%28Survival%29_icon.png)
 
-**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)
 
 **Properties**
 
@@ -28,6 +28,8 @@
 
 **Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Blackrock](./Blackrock.md). It is found on the 2nd level of [Last Prospect](./Last%20Prospect.md), and unlocks the workshop at [Blackrock Prison](./Blackrock%20Prison.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Handwritten Note**_
@@ -37,6 +39,8 @@ Found the backpack I was looking for. I expect you'll be along soon to read this
  I just gotta check something out on the lower level.  
    
  -- M
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

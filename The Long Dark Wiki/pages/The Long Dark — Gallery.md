@@ -15,6 +15,8 @@
 - [Artwork](#artwork)
 - [Miscellaneous](#miscellaneous)
 
+<span id="main_menu"></span><span id="Main_menu"></span><span id="main-menu"></span>
+
 ## Main menu
 
 ![Standard day theme](../assets/The_Long_Dark_main_menu_theme.jpg)
@@ -25,7 +27,11 @@
 
 ![Holiday Theme](../assets/The_Long_Dark-_Christma.jpg)
 
+<span id="official_screenshots"></span><span id="Official_Screenshots"></span><span id="official-screenshots"></span>
+
 ## Official Screenshots
+
+<span id="full_release"></span><span id="Full_Release"></span><span id="full-release"></span>
 
 ### Full Release
 
@@ -48,6 +54,8 @@
 ![Release Image Slide 09 large](../assets/Release_Image_Slide-09-large.jpg)
 
 ![Release Image Slide 10 large](../assets/Release_Image_Slide-10-large.jpg)
+
+<span id="alpha"></span><span id="Alpha"></span>
 
 ### Alpha
 
@@ -125,6 +133,8 @@
 
 ![The Long Dark Vista](../assets/The_Long_Dark_-_Vista.jpg)
 
+<span id="early_alpha"></span><span id="Early_alpha"></span><span id="early-alpha"></span>
+
 ### Early alpha
 
 ![Forest](../assets/In_game_forest.jpg)
@@ -134,6 +144,8 @@
 ![Cabin](../assets/In_game_cabin.jpg)
 
 _[Cabin](./Trapper%27s%20Homestead.md)_
+
+<span id="landscapes"></span><span id="Landscapes"></span>
 
 #### Landscapes
 
@@ -151,9 +163,11 @@ _Sunset at [Desolation Point](./Desolation%20Point.md)_
 
 ![Sunset at Desolation Point](../assets/Sunset_in_Desolation_Point_02.jpg)
 
+<span id="locations"></span><span id="Locations"></span>
+
 #### Locations
 
-\[Missing image: The\_Long\_Dark\_Frozen\_Creek.png\]
+[Missing image: The\_Long\_Dark\_Frozen\_Creek.png]
 
 _[Frozen Creek](./Frozen%20Creek.md)_
 
@@ -179,6 +193,8 @@ _[Bear Creek Campground](./Bear%20Creek%20Campground.md)_
 
 _Tunnel at [The Ravine](./The%20Ravine.md)_
 
+<span id="wildlife"></span><span id="Wildlife"></span>
+
 #### Wildlife
 
 ![Old model of the wolf](../assets/Wolf_-_old_model.jpg)
@@ -200,6 +216,8 @@ _[Crows](./Crow.md) circle above a corpse_
 ![A rabbit](../assets/Rabbit.jpg)
 
 _A [rabbit](./Rabbit.md)_
+
+<span id="artwork"></span><span id="Artwork"></span>
 
 ## Artwork
 
@@ -230,6 +248,8 @@ _[Safe House](./Safehouse.md)_
 ![Poster](../assets/Poster.jpg)
 
 ![Fence](../assets/Forsaken_Airfield.jpg)
+
+<span id="miscellaneous"></span><span id="Miscellaneous"></span>
 
 ## Miscellaneous
 

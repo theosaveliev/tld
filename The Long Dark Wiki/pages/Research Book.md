@@ -12,6 +12,8 @@
 
 ![Research1](../assets/Research1.jpg) A **Research Book** or **Skill Book** is both a Fuel and Tool item in [Survival Mode](./Survival%20Mode.md) that can be researched to increase [Skills](./Skills.md), and can be found as 10 separate in game items.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Research Books are items that may be used as fuel for [Fire Starting](./Fire%20Starting.md) and have the same weight (0.50kg) as normal books. However, they may also be read, which grants skill points to their respective Survival Skills when completed. Because of this, Research Books can be found in both the Fuel and Tools categories. Attempting to burn a Research Book that has not been fully read will give a confirmation warning before it can be burned. Once a Research Book is fully researched, it will no longer appear in the Tools section of the Backpack.
@@ -27,6 +29,8 @@ Multiple copies of the same book may be researched for additional benefit.
 - _Frontier Shooting Guide_ cannot be read once Rifle Firearm reaches Level 4, displaying the message "Your Skills are too advanced to research this." This is the only Research Book that has a Skill Level restriction.
 - Since Skills cap at Level 5, any category of Research Books related to that Skill cannot be read, and can only be used as fuel at that point.
 - On [Interloper](./Interloper.md), researching Skill Books burns calories at the rate of "Standing" (125 cal/h).
+
+<span id="list_of_research_books"></span><span id="List_of_Research_Books"></span><span id="list-of-research-books"></span>
 
 ## List of Research Books
 
@@ -51,6 +55,8 @@ The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.m
 
 &lt;/table-progress-tracking&gt;
 
+<span id="wintermute"></span><span id="Wintermute"></span>
+
 ## Wintermute
 
 **Template:spoiler**In [Wintermute](./Wintermute.md), items that resemble Research Books may be found, but these items are instantly turned into [Collectibles](./Collectibles.md) when picked up and instead unlock side missions. &lt;table-progress-tracking table-id="2" header-label="Collected?" unique-column-index="2"&gt;
@@ -70,12 +76,16 @@ The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.m
 
 &lt;/table-progress-tracking&gt;
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Survival Skills levels are dependent to each save file.
 - All varieties of books and research books may spawn regardless of Survival Mode (or loot settings, in Custom); this includes firearm-related books on Interloper difficulty.
 - The [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) "Penitent Scholar" requires reading all varieties of Research Books in a single save file.
 - Research Books originally featured more varied sizes and cover art; however, currently their art and size are more uniform.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

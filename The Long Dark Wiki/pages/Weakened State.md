@@ -37,6 +37,8 @@
 
 **Weakened State** is an [Affliction](./Afflictions.md) acquired after choosing to [Cheat Death](./Cheat%20Death.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “**You are weakened. For a time, your Condition will recover more slowly and your Stamina will drain more quickly.**”
@@ -45,6 +47,8 @@
 
 Choosing to Cheat Death will give the player Weakened State, and is always paired with the temporary or permanent [Cheated Death Penalty](./Cheated%20Death%20Penalty.md) Affliction.
 
+<span id="effects"></span><span id="Effects"></span>
+
 ### Effects
 
 - [Condition](./Condition.md) and [Stamina](./Stamina.md) recovery are halved
@@ -52,6 +56,8 @@ Choosing to Cheat Death will give the player Weakened State, and is always paire
 - The world will have a Black and White filter placed over it, making it harder to distinguish items and threats, especially in low lighting conditions. This is similar to turning on "Noir" in the "Image Filter" options setting.
 
 Waiting the allotted Recovery Time will clear the Affliction. In this time, it is advised to avoid exploring until the Affliction has passed and your Condition has recovered. Once the Affliction heals, the Black and White filter will instantly disappear.
+
+<span id="recovery_time"></span><span id="Recovery_Time"></span><span id="recovery-time"></span>
 
 ## Recovery Time
 
@@ -63,15 +69,19 @@ The Recovery Time for this Affliction is different for each Experience (Cheat De
 | Voyageur | 48 hours | 60 hours | 72 hours |
 | Stalker | 60 hours | 72 hours | 84 hours |
 | Interloper | 60 hours | 72 hours | 84 hours |
-| Misery[¹](#fn1) | N/A | N/A | N/A |
+| Misery<span id="fnref1"></span>[¹](#fn1) | N/A | N/A | N/A |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Cheat Death is disabled on Misery[↩︎](#fnref1)
+1. <span id="fn1"></span>Cheat Death is disabled on Misery[↩︎](#fnref1)

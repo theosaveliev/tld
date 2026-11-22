@@ -40,11 +40,15 @@
 
 This mission has since been replaced by [The Wounded Trapper](./The%20Wounded%20Trapper.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Find, and enter the abandoned dam.
 - Search for medical supplies that can help the old trapper.
 - Get the meds back to the trapper before he dies.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -52,6 +56,8 @@ This mission has since been replaced by [The Wounded Trapper](./The%20Wounded%20
 | --- | --- |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 | Required items | 1 x medical supplies |
+
+<span id="carter_hydro_dam"></span><span id="Carter_Hydro_Dam"></span><span id="carter-hydro-dam"></span>
 
 ### Carter Hydro Dam
 
@@ -61,6 +67,8 @@ This mission has since been replaced by [The Wounded Trapper](./The%20Wounded%20
 
 To the west of the tracks farther north is a tower that contains miscellaneous items (food,[sewing kit](./Sewing%20Kit.md) , [bear hide](./Cured%20Black%20Bear%20Hide.md), etc) and a lock box that requires 'Hank's Key'.
 
+<span id="finding_medical_supplies"></span><span id="Finding_medical_supplies"></span><span id="finding-medical-supplies"></span>
+
 ### Finding medical supplies
 
 - Search for medical supplies that can help the old trapper.
@@ -68,6 +76,8 @@ To the west of the tracks farther north is a tower that contains miscellaneous i
 There are multiple buildings at the dam. The first trailer to the right doesn't have too much in it. The second trailer has a key in a locker that called the [Carter Hydro Staging Area Gate Key](./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md) that unlocks the gate to the dam. Players will need this to get past the fence. The main entrance to the Hydro Dam building is past the fence. Entering the building starts a cut scene. A [Distress Pistol](./Distress%20Pistol.md) kit is available on a shelf. The key for the office is on a body in the bathroom. The aid station key is in a desk drawer in the office. There is also a safe here that can be unlocked by deciphering the code (random). Watch for a distress pistol case on a shelf as well.
 
 Near the dam is a run-down logging camp that has a few supplies. If players have found and read the required notes, there may also be caches located on the map to find. These seem to only contain a few supply items.
+
+<span id="return_to_jeremiah"></span><span id="Return_to_Jeremiah"></span><span id="return-to-jeremiah"></span>
 
 ### Return to Jeremiah
 
@@ -77,13 +87,19 @@ After arriving back to the cabin, another cut scene will begin. The trapper '[Je
 
 The cut scene continues and the trapper, convinced that the Old Bear is still on the prowl, offers Mackenzie a deal. Jeremiah is convinced that Mackenzie will never make it out alive without his guidance but the trapper can't kill the bear in his current condition. When Mackenzie asks what the trapper wants in return, the old man just says "We'll talk about that". The trapper offers Mackenzie his rifle, but unfortunately it was damaged when Mackenzie used it to 'scare off' the bear earlier and needs to be repaired. He gives Mackenzie directions to a machine shop at a railway yard, a day's travel south.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md)
 
+<span id="differences_from_redux_episode_2"></span><span id="Differences_from_Redux_Episode_2"></span><span id="differences-from-redux-episode-2"></span>
+
 ## Differences from Redux Episode 2
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 2:
+
+<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
 
 ### Plot Points and Gameplay Changes
 
@@ -96,9 +112,11 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - The [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) received a new 3D model in the Redux.
 - A [Wolf](./Wolf.md) feasting on a dead [Deer Carcass](./Deer%20Carcass.md) is scripted to appear near the [Train Bridge](./Train%20Bridge.md) after leaving the dam with the [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md).
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

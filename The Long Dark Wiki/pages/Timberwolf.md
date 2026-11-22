@@ -24,7 +24,7 @@
 
 **Basic Information**
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Role:** Predator
 
@@ -40,9 +40,13 @@
 
 **Timberwolves** are hostile wildlife in _[The Long Dark](./The%20Long%20Dark.md)_. They are the tougher and more intelligent counterpart to the common [Wolf](./Wolf.md); unlike regular wolves, Timberwolves always hunt in packs and are more persistent and aggressive.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Timberwolves have silver-gray coats and are larger than their black Wolf cousins, and roam in packs of 2-8. Being highly territorial, most regions that Timberwolves inhabit will be free of normal black wolves in open areas, with many containing [ravaged wolf carcasses](./Wolf%20Carcass.md) near the region entrances as early warnings for the player. ![A slightly smaller Wolf compared to a Timberwolf](../assets/Wolf_and_Timberwolf.jpg)_A slightly smaller Wolf compared to a Timberwolf_ Each pack has a varying degree of morale at the start of every confrontation, with the total amount dependent on the initial size of the pack. Timberwolves will not give up attacking the player until enough of the pack is killed, the player escapes to a safety, 1 pack member is left alive, or morale is fully depleted. Escaping indoors will cause unique audio cues to play, with the Timberwolves growling and clawing at the door in an attempt to get inside, at least until enough time passes for the pack to lose interest in the player.
+
+<span id="drops"></span><span id="Drops"></span>
 
 ## Drops
 
@@ -52,18 +56,20 @@ Despite having a different colored coat, ordinary black Wolf Hides are produced 
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)\* | 4 - 7 | Always[¹](#fn1) |
-| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always[²](#fn2) |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)* | 4 - 7 | Always<span id="fnref1"></span>[¹](#fn1) |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always<span id="fnref2"></span>[²](#fn2) |
 | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
-\*Note: Wolf Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
+*Note: Wolf Meat has a [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) on higher difficulties.
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
+
+<span id="behavior"></span><span id="Behavior"></span>
 
 ## Behavior
 
@@ -81,6 +87,8 @@ Unlike common Wolves, Timberwolves do not 'stalk' the player, instead howling up
 - Like other [Wildlife](./Wildlife.md), Timberwolves flee from nearby gunshots and bullet/arrows/stone impacts if they have not detected the player.
 - Timberwolves will not give up a hunt if the player enters a [Vehicle](./Vehicle.md) or building interior until half a day of not reaching the player passes or the player saves and loads the game. Fleeing into buildings may create a unique audio file to play of Timberwolves growling and attempting to scratch the door down.
 - Like Wolves, Timberwolves may be frightened by a worn [Wolfskin Coat](./Wolfskin%20Coat.md), [Bearskin Coat](./Bearskin%20Coat.md), or [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md), but only before the pack howls/engages a hunt. A single wolf may flee, but if other Timberwolves are nearby and detect the player, they may not be frightened and a hunt may begin.
+
+<span id="morale"></span><span id="Morale"></span>
 
 ### Morale
 
@@ -106,6 +114,8 @@ Timberwolves will continue to attack the player until the following conditions a
 
 Injured Timberwolves do not participate in attacks (though it takes a few seconds for them to realize they are injured), and they flee from the player even if the pack has high morale. If every Timberwolf in the pack is injured, then the player is safe from attack, though the morale bar will only disappear once enough of the Timberwolves have bled to death.
 
+<span id="lowering_morale"></span><span id="Lowering_Morale"></span><span id="lowering-morale"></span>
+
 ### Lowering Morale
 
 Morale can be lowered by shooting or throwing objects at the Timberwolves.
@@ -120,11 +130,15 @@ Morale can be lowered by shooting or throwing objects at the Timberwolves.
 
 ![An example of a single Timberwolf defending a Rabbit kill after its pack was culled.](../assets/Timberwolf_Defend_Kill.jpg)
 
+<span id="lone_wolves_after_pack_dissolvement"></span><span id="Lone_Wolves_after_Pack_dissolvement"></span><span id="lone-wolves-after-pack-dissolvement"></span>
+
 ### Lone Wolves after Pack dissolvement
 
 If a Timberwolf pack is thoroughly culled, individual surviving Timberwolves from that pack will flee to a safe distance any time they detect the player. In this state, they will continue to individually hunt [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), and [Deer](./Deer.md) as normal. If they successfully hunt a prey animal and the player approaches them, rather than running away they instead will defend kills like normal Wolves. In this state, they can be scared off by aimed weapons. Unlike regular Wolves defending kills, a lone Timberwolf will always run away when defending a kill if the player gets too close, rather than initiate a Struggle.
 
 Lone Timberwolves will not join another Timberwolf pack should they come across one, and remain treated as individuals.
+
+<span id="aurora_timberwolf"></span><span id="Aurora_Timberwolf"></span><span id="aurora-timberwolf"></span>
 
 ### Aurora Timberwolf
 
@@ -135,6 +149,8 @@ Lone Timberwolves will not join another Timberwolf pack should they come across 
 - They fear active street lights, and will stand and growl at the player if they pass near the boundary of one. After enough time, they will run away in fear if they cannot reach the player, but will eventually return to attack the player if their Morale is not broken.
 - They fear [Flashlight](./Flashlight.md) high beams and will temporarily stop a charge as long as they are on. Flashlight's high beams are also effective at reducing pack morale, as per patch notes from June 2020.
 - They will stay away from lit [Campfires](./Campfire.md), but will still stay close by and stalk to the player.
+
+<span id="evasion_strategies"></span><span id="Evasion_Strategies"></span><span id="evasion-strategies"></span>
 
 ## Evasion Strategies
 
@@ -152,6 +168,8 @@ Timberwolves are competent in fights which makes detecting, avoiding, or escapin
 - When entering an indoors area which is outside of the packs territory (example: being chased to the [Foreman's Clearcut](./Foreman%27s%20Clearcut.md) trailer from [Cook's Farm](./Cook%27s%20Farm.md)) listen carefully and if the sound of barking is not heard, you can exit the door immediately after entering, the pack having returned to their territory.
 - During an Aurora the flashlight, streetlights, and vehicle headlights are effective against aurora Timberwolves.
 
+<span id="fight_strategies"></span><span id="Fight_Strategies"></span><span id="fight-strategies"></span>
+
 ## Fight Strategies
 
 Timberwolves can be fought with the right tools or tactics.
@@ -163,6 +181,8 @@ Timberwolves can be fought with the right tools or tactics.
 - [Snow shelters](./Snow%20Shelter.md) can provide protection from attack, but may require leaving the shelter to continue a fight. Field of view is also limited, so the direction of a shelter is crucial since timberwolves can gather behind the snow shelter (in blind spots).
 - The [Distress Pistol](./Distress%20Pistol.md) is effective at depleting morale, but its cumbersome reload and relative quietness, opens the survivor up to the other wolves. A well placed shot can deplete up to 1/4 of a pack's morale.
 - As with other predators, it is possible to sneak up close to Timberwolves while crouched and redirect them with thrown stones or by picking up/dropping smelly items. This allows them to be hunted more effectively without starting an attack. A mastered [Survival Bow](./Survival%20Bow.md) (level 5 skill) is well suited for this method.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -196,14 +216,18 @@ Following the Wildlife Refresh ([December 2024](./Tales%20from%20the%20Far%20Ter
   - On the ice at [Crystal Lake](./Crystal%20Lake.md), next to the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md).
   - Eric's Falls.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Timberwolves are based on [Eastern Wolves](https://en.wikipedia.org/wiki/Eastern_wolf), or the Algonquin Timber Wolf (**_Canis lycaon**''), and are a Canine subspecies of the regular [Wolf](./Wolf.md) (**_Canis lupus**'').
 - Timberwolves will spawn during blizzards in both story and survival mode.
-- Timberwolves would ironically be absent from the titular [Timberwolf Mountain](./Timberwolf%20Mountain.md) when it was released in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
+- Timberwolves would ironically be absent from the titular [Timberwolf Mountain](./Timberwolf%20Mountain.md) when it was released in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).
   - Timberwolves were added in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) (V1.60) in Wintermute, then to Survival Mode with the Errant Pilgrim update (V1.64).
   - Timberwolves would finally have a chance to appear in the Timberwolf Mountain region with the Global Wildlife Refresh in the Part 6 Tales from the Far Territory update (V2.33).
-- "The Timberwolf" is a track that originally played during timberwolf encounters in Wintermute Episode 3, later removed in an update. The track is still available to listen to on composer Cris Velasco's website.[³](#fn3)
+- "The Timberwolf" is a track that originally played during timberwolf encounters in Wintermute Episode 3, later removed in an update. The track is still available to listen to on composer Cris Velasco's website.<span id="fnref3"></span>[³](#fn3)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -229,53 +253,57 @@ _Concept art of Timberwolves at the [Fallen Lighthouse](./Fallen%20Lighthouse.md
 
 ![Timberwolves in the Episode 3 menu](../assets/Episode_3_Menu_Background.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)):**
-  - \[Gameplay\] Fixed an issue that prevented Timberwolves Pack Morale from being drained when using the Flashlight’s high beam.
-  - \[WINTERMUTE\] Timberwolves will now react to the Flashlight when appearing in WINTERMUTE.
+- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
+  - [Gameplay] Fixed an issue that prevented Timberwolves Pack Morale from being drained when using the Flashlight’s high beam.
+  - [WINTERMUTE] Timberwolves will now react to the Flashlight when appearing in WINTERMUTE.
 
-- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.71)):**
-  - \[EP3\] Players can no longer skip the Timberwolf Tutorial, by placing a survivor at the same time the tutorial triggers.
-  - \[AI\] Fixed an issue that allowed Timberwolves to become hostile, regardless of game mode settings.
-  - \[AI\] Fixed issue that prevented Timberwolves from attacking the Player, if they have entered and exited a vehicle.
-  - \[AI\] Timberwolves will now only pick valid locations to wander to, preventing them from becoming stuck.
+- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+  - [EP3] Players can no longer skip the Timberwolf Tutorial, by placing a survivor at the same time the tutorial triggers.
+  - [AI] Fixed an issue that allowed Timberwolves to become hostile, regardless of game mode settings.
+  - [AI] Fixed issue that prevented Timberwolves from attacking the Player, if they have entered and exited a vehicle.
+  - [AI] Timberwolves will now only pick valid locations to wander to, preventing them from becoming stuck.
 
-- HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.69)):**
-  - \[AI\] Timberwolves will no longer freeze in place if they try to attack a target they can’t pathfind to.
-  - \[Animation\] Pass on Timberwolves to fix numerous animation pops and hitches.
-  - \[Audio\] When joining a pack, Timberwolf howls are no longer cut off or repeated.
+- HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**
+  - [AI] Timberwolves will no longer freeze in place if they try to attack a target they can’t pathfind to.
+  - [Animation] Pass on Timberwolves to fix numerous animation pops and hitches.
+  - [Audio] When joining a pack, Timberwolf howls are no longer cut off or repeated.
 
-- HOTFIX **14 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.66)):**
-  - \[WINTERMUTE\] Timberwolf carcasses no longer disappear if the Player saves, then reloads.
-  - \[Survival\] Timberwolves will now hunt prey, as intended.
-  - \[AI\] Added additional line of sight check to Timberwolves, to prevent attacks through walls and out of reach locations.
-  - \[AI\] Timberwolves will now break-off their attack if a Marine Flare is lit, before the struggle occurs.
-  - \[AI\] Timberwolves can no longer flee to excessive distances.
+- HOTFIX **14 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.66)):**
+  - [WINTERMUTE] Timberwolf carcasses no longer disappear if the Player saves, then reloads.
+  - [Survival] Timberwolves will now hunt prey, as intended.
+  - [AI] Added additional line of sight check to Timberwolves, to prevent attacks through walls and out of reach locations.
+  - [AI] Timberwolves will now break-off their attack if a Marine Flare is lit, before the struggle occurs.
+  - [AI] Timberwolves can no longer flee to excessive distances.
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)):**
-  - \[WINTERMUTE\] Male survivor vocalization no longer plays when Astrid is attacked by Timberwolves.
-  - \[WINTERMUTE\] Timberwolves now react properly to Marine Flares.
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
+  - [WINTERMUTE] Male survivor vocalization no longer plays when Astrid is attacked by Timberwolves.
+  - [WINTERMUTE] Timberwolves now react properly to Marine Flares.
 
-- HOTFIX **1 November 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.62)):**
+- HOTFIX **1 November 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.62)):**
   - Fixed issue that caused players to be forced out of aim when attacked by a Timberwolf.
   - Adjusted the distance which Timberwolves will hold ground when the player is holding a lit Marine Flare.
   - Fixed Timberwolves howling more than intended.
   - Fixed Timberwolf corpses resetting after transitioning indoors.
 
-- HOTFIX **29 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.61)):**
+- HOTFIX **29 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.61)):**
   - Fixed Timber Wolves Morale bar resetting if they fled during the Tutorial.
   - Fixed issue preventing Timber Wolves from transitioning to and from Aurora state.
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game
 
 == References ==  **Template:wildlife**
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. If carcass is harvested[↩︎](#fnref1)
-2. If carcass is quartered.[↩︎](#fnref2)
-3. [Cris Velasco official website](https://crisvelasco.com)[↩︎](#fnref3)
+1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
+2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)
+3. <span id="fn3"></span>[Cris Velasco official website](https://crisvelasco.com)[↩︎](#fnref3)

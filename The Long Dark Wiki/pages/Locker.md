@@ -18,7 +18,7 @@
 
 Update
 
-[0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+[0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 Story item
 
@@ -38,6 +38,8 @@ GAMEPLAY\_Locker
 
 A **Locker** can be found in many places in the game, generally industrial-like places, and serves as a container for storing items. Some Lockers are locked and require a [Prybar](./Prybar.md) to open. Lockers are one of the most common containers found in the game, along with the metal and plastic containers.
 
+<span id="variants"></span><span id="Variants"></span>
+
 ## Variants
 
 There are 4 variants of lockers; Single, Double, and Triple Lockers, and a single Green Locker.
@@ -50,6 +52,8 @@ There are 4 variants of lockers; Single, Double, and Triple Lockers, and a singl
 Occasionally 5th type of locker, a [Medical Locker](./Medical%20Locker.md), can be found, and only contains [First Aid](./First%20Aid.md) supplies.
 
 ![Pre Alpha Lockers](../assets/Pre_Alpha_Lockers.jpg)
+
+<span id="loot"></span><span id="Loot"></span>
 
 ## Loot
 

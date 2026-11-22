@@ -10,7 +10,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Forgotten+Trestle&amp;action=edit expanding it\].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Forgotten+Trestle&amp;action=edit expanding it].**
 
 **Forgotten Trestle**
 
@@ -27,5 +27,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 **General**
 
 Has no shelter **Forgotten Trestle** is a location in [Port Remnant](./Port%20Remnant.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview

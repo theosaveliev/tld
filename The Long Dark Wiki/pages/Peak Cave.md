@@ -14,6 +14,8 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Peak Cave is a small cave hidden amongst brush, potentially with a corpse and a plastic container inside. A few [Rose Hip](./Rose%20Hip.md) bushes grow just outside the cave, and there are four oak trees nearby. There is a chance for a [deer](./Deer.md) to spawn on the plateau just outside the cave, and the region is frequented by [Ptarmigan](./Ptarmigan.md).
@@ -21,6 +23,8 @@ Peak Cave is a small cave hidden amongst brush, potentially with a corpse and a 
 A quick walk to the north to a ledge overlooking [Monolith Lake](./Monolith%20Lake.md) will lead to a possible [Hidden Cache](./Hidden%20Cache.md) spawn point, which may also contain useful items. The cave is also a spawn point for a [Memento Cache](./Mementos.md), which will contain one [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md).
 
 Because this location is entirely safe from hostile wildlife and located not too far from decent hunting areas near [Monolith Lake](./Monolith%20Lake.md), it can make for a good [Safe House](./Safehouse.md), although the long climb up a hill at the end of a day increases the risk of getting a sprain, especially if the player is exhausted/encumbered. This risk can be mitigated by using [Crampons](./Crampons.md).
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

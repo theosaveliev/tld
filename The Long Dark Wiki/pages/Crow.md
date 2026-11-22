@@ -17,7 +17,7 @@
 
 **Basic Information**
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Role:** Scavenger
 
@@ -35,9 +35,13 @@
 
 **Crows** are non-interactable, animated [wildlife](./Wildlife.md) objects in [The Long Dark](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Crows are flying black birds with conspicuously loud cries. They never land and their primary purpose is to draw the player to certain areas of interest. Crows cannot be harmed with projectiles from [revolvers](./Revolver.md), [hunting rifles](./Hunting%20Rifle.md), [bows](./Survival%20Bow.md), and [flare guns](./Distress%20Pistol.md), and they cannot be harmed with thrown objects such as [flares](./Flare.md), [torches](./Torch.md), and [stones](./Stone.md) (if they are low enough to the ground that is) as they do not technically have collision models/death animations.
+
+<span id="drops"></span><span id="Drops"></span>
 
 ## Drops
 
@@ -57,6 +61,8 @@ Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground under
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
 
+<span id="behavior"></span><span id="Behavior"></span>
+
 ## Behavior
 
 Crows will appear circling over frozen corpses and animal carcasses during calm weather. Their loud cries are intended to call the player's attention to the area so it will not likely be missed, however, they may be difficult to spot due to trees or terrain obscuring them.
@@ -67,10 +73,14 @@ Crows will disappear when high winds or snow strike and reappear when weather cl
 
 Occasionally a group of crows will be seen flying in "V" formation in a straight path across the map. The timing of their flight has no significance and is purely cosmetic.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Crows appear to be based off the [American Crow](https://en.wikipedia.org/wiki/American_crow) (**_Corvus brachyrhynchos_**), a species of Passeriformes found all across North America.
 - In various points throughout [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md), a single crow can be spotted perched upon an object (such as a log or stump) in area the player is required to pass through. The crow remain in place but will fly off when approached, and like all crows cannot be harmed. This is the only time a single crow appears by itself, as they typically fly around the map/ fly over dead bodies in groups only.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -84,20 +94,22 @@ Occasionally a group of crows will be seen flying in "V" formation in a straight
 
 ![Crows in the sky against the sun, circle above a corpse.](../assets/Crows_against_the_sun.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)):**
-  - \[All\] Fixed Crows spawning below ground.
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+  - [All] Fixed Crows spawning below ground.
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.27)):**
-  - \[Wintermute\] Fixed issue where crows would circle locations with no corpses present.
-  - \[Both\] Crows will no longer sometimes fly too low and into the ground as the weather changes.
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+  - [Wintermute] Fixed issue where crows would circle locations with no corpses present.
+  - [Both] Crows will no longer sometimes fly too low and into the ground as the weather changes.
 
 - HOTFIX **30 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.332)):**
   - Fixed issue that could cause large numbers of crows and crow feathers to spawn in specific locations.
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
-  - \[Minor\] Crows can now drop Crow Feathers.
+  - [Minor] Crows can now drop Crow Feathers.
 
 - HOTFIX **3 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.170)):**
   - Added new Crow model and animations.

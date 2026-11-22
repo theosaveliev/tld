@@ -6,7 +6,7 @@
 
 [Dehydration Risk icon](../assets/Dehydration_Risk_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Update:** 1.60
 
@@ -32,6 +32,8 @@
 
 **Dehydration Risk** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the missions [Fallen Star](./Fallen%20Star.md) and [Coming Storm](./Coming%20Storm.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Dehydration Risk can affect the [Crash Survivors](./Crash%20Survivor.md) Eric, Gwen, Ada, Logan, and Wade.
@@ -39,11 +41,15 @@ Dehydration Risk can affect the [Crash Survivors](./Crash%20Survivor.md) Eric, G
 - Eric is found originally in the [Community Hall](./Community%20Hall.md) and has Dehydration Risk when diagnosed. He needs 0.50 L of [Water (Potable)](./Water%20%28Potable%29.md) to cure it as part of the Fallen Star mission.
 - Gwen, Ada, Logan, and Wade can be carried to the Community and will eventually develop Dehydration Risk during your travels.
 
+<span id="treatment"></span><span id="Treatment"></span>
+
 ## Treatment
 
 Aside from Eric needing 0.50 L of water, Simply giving the necessary amount of potable water to a carried survivor will prevent the Risk from developing into an Affliction.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

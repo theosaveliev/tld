@@ -16,6 +16,8 @@ Region
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 There are 4 [Fishing Huts](./Fishing%20Hut.md) on the lake, with 2 east of the little middle island being the location that triggers the **Ice Fishing Huts** location. The remaining 2 huts are closer to [Lone Lake Cabin](./Lone%20Lake%20Cabin.md).

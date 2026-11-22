@@ -39,6 +39,8 @@
 
 The **Trader** is an NPC that "appears" in [Survival Mode](./Survival%20Mode.md). He may be contacted via Radio to propose bartering for items, and functions as a source of renewable items if the player has the resources to trade with him. The Trader was released in the Part 6 Broken Silence update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A man known as Sutherland, the Trader communicates with the survivor over Radios during an active [Aurora](./Aurora.md). He will offer the survivor rare or unique items for a price, and requires his requested trade items to be placed inside the [Trade Drop Box](./Trade%20Drop%20Box.md) on [Misanthrope's Island](./Misanthrope%27s%20Homestead.md) in [Coastal Highway](./Coastal%20Highway.md). The Trader becomes accessible after a fixed number of days have passed (determined by chosen Experience).
@@ -46,6 +48,8 @@ A man known as Sutherland, the Trader communicates with the survivor over Radios
 Despite being the only living NPC in Survival Mode, The Trader is never physically seen and will always keep his distance, remaining at sea in a sailboat and refusing to set foot on Great Bear Island except to complete trades.
 
 He is the center of his own unique [Tale](./Tales.md): [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+
+<span id="enable_option"></span><span id="Enable_Option"></span><span id="enable-option"></span>
 
 ## Enable Option
 
@@ -56,7 +60,11 @@ He is the center of his own unique [Tale](./Tales.md): [Sutherland's Tale](./Sut
 
 The player has the option to enable/disable the Trader before starting their survival game. The option to disable the Trader appears on all Experiences. If disabled, the Trader's radios do not appear on the Island.
 
+<span id="arrival_time_and_radio"></span><span id="Arrival_Time_and_Radio"></span><span id="arrival-time-and-radio"></span>
+
 ## Arrival Time and Radio
+
+<span id="arrival_time"></span><span id="Arrival_Time"></span><span id="arrival-time"></span>
 
 ### Arrival Time
 
@@ -70,6 +78,8 @@ Below is the survival time required before Sutherland can be contacted. In dialo
 | [Voyageur](./Voyageur.md) | 20 |
 | [Stalker](./Stalker.md) | 30 |
 | [Interloper](./Interloper.md)/[Misery](./Misery.md) | 40 |
+
+<span id="radio_locations"></span><span id="Radio_Locations"></span><span id="radio-locations"></span>
 
 ### Radio Locations
 
@@ -95,7 +105,11 @@ The Trader can only be contacted by special yellow [Radios](./Radio.md) with a m
 | [Transfer Pass](./Transfer%20Pass.md) | [Vacant Depot](./Vacant%20Depot.md) |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Idle Camp](./Idle%20Camp.md) (Mess Hall) |
 
+<span id="trading"></span><span id="Trading"></span>
+
 ## Trading
+
+<span id="trader_mechanics"></span><span id="Trader_Mechanics"></span><span id="trader-mechanics"></span>
 
 ### Trader Mechanics
 
@@ -116,6 +130,8 @@ The Trader can only be contacted by special yellow [Radios](./Radio.md) with a m
   - After confirming the trade, Sutherland will pick up **all items in the Trade Drop Box** and reward completed trades.
   - After signaling to Sutherland a completed trade, he will not respond for one hour as he drops off the items.
   - Items must be claimed from the Trade Drop Box before starting a new trade.
+
+<span id="trading_tips"></span><span id="Trading_Tips"></span><span id="trading-tips"></span>
 
 ### Trading Tips
 
@@ -155,6 +171,8 @@ The Trader can only be contacted by special yellow [Radios](./Radio.md) with a m
 - Gaining a certain level of Trust gives a slight permanent discount on trading requirements.
 
 
+<span id="trust"></span><span id="Trust"></span>
+
 ## Trust
 
 The Trader requires building up Trust in order to unlock most of his stock. The player starts with 0 Trust and each successful trade adds a certain amount of Trust, depending on the experience mode (this stat is hidden, so consider keeping track of completed trades in the General Notes section of the [Journal](./Journal.md)).
@@ -163,6 +181,8 @@ The Trader requires building up Trust in order to unlock most of his stock. The 
 - Reaching a set amount of Trust (350) with Sutherland gives a discount to most items when trading.
 - Trust can be lost by cancelling trades or by contacting Sutherland repeatedly. If Trust is lost, fully completing trades will slowly build up good will to restore lost Trust.
 - Reaching 500 Trust will unlock the [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) [Goods and Services](./Goods%20and%20Services.md).
+
+<span id="trust_gained_and_lost"></span><span id="Trust_Gained_and_Lost"></span><span id="trust-gained-and-lost"></span>
 
 ### Trust Gained and Lost
 
@@ -178,6 +198,8 @@ Trust can also be lost by repeatedly cancelling an active trade, or by repeatedl
 | [Interloper](./Interloper.md)/[Misery](./Misery.md) | 20 | 10 | -20, after 2 cancelled trades | 25 | -10 |
 
 It is advisable to finish all available conversation options with the Trader as this will also raise Trust by a small amount (2 Trust per conversation).
+
+<span id="trust_thresholds"></span><span id="Trust_Thresholds"></span><span id="trust-thresholds"></span>
 
 ### Trust Thresholds
 
@@ -195,6 +217,8 @@ Only a certain amount of items is available for purchase at start. Additional it
 | 400 Trust | 1 additional medicine item |
 | 500 Trust | 1 additional weapon |
 
+<span id="special_requests"></span><span id="Special_Requests"></span><span id="special-requests"></span>
+
 ## Special Requests
 
 After 100 Trust is reached, Sutherland will ask for a special request which starts the special requests section of his Tale and unlocks new conversation options that are shown in blue color. Completing a special request raises his Trust in the player and unlocks special items for trade.
@@ -211,6 +235,8 @@ After 100 Trust is reached, Sutherland will ask for a special request which star
   - Guaranteed [Bunker Rifle](./Bunker%20Rifle.md) (not on Interloper/Misery)
 - Completing Sutherland's fifth and final special request
   - Guaranteed [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md)
+
+<span id="traders_inventory"></span><span id="Trader&#x27;s_Inventory"></span><span id="trader&#x27;s_inventory"></span><span id="traders-inventory"></span>
 
 ## Trader's Inventory
 
@@ -263,6 +289,8 @@ At 400 Trust the following items will be available:
 At 500 Trust the following item will be available:
 
 - For non-interloper players, one weapon from this list: [Revolver](./Revolver.md), [Hunting Rifle](./Hunting%20Rifle.md).
+
+<span id="normal_trades"></span><span id="Normal_Trades"></span><span id="normal-trades"></span>
 
 ### Normal Trades
 
@@ -338,6 +366,8 @@ At 500 Trust the following item will be available:
 | [A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) | [A Sewing Primer](./A%20Sewing%20Primer.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat<br>- 2.00 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)<br>- 6 [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat<br>- 1.50 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)<br>- 4 [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
 | [Stay on Target icon](../assets/Stay_on_Target_icon.png) | [Stay On Target](./Stay%20on%20Target.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat<br>- 2.00 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)<br>- 6 [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat<br>- 1.50 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)<br>- 4 [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
 
+<span id="special_trade_items"></span><span id="Special_Trade_Items"></span><span id="special-trade-items"></span>
+
 ### Special Trade Items
 
 These special items are only found by trading with Sutherland, and are quite costly. The first 5 are requests needed to progress [Sutherland's Tale](./Sutherland%27s%20Tale.md), and unlock rarer items. Blueprint/Recipe Cards can only be purchased once.
@@ -377,6 +407,8 @@ These special items are only found by trading with Sutherland, and are quite cos
 | [Recipe Card Soup Ptarmigan](../assets/Recipe_Card_Soup_Ptarmigan.png) | [Porter's Soup](./Porter%27s%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 3.00L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)<br>- 1 [Car Battery icon](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md)<br>- 8 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 2.25L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)<br>- 6 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
 | [Recipe Card Rabbit Soup](../assets/Recipe_Card_Rabbit_Soup.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 2.00L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)<br>- 1 [Car Battery icon](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md)<br>- 6 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)<br>- 5 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
 
+<span id="sutherlands_past"></span><span id="Sutherland&#x27;s_Past"></span><span id="sutherland&#x27;s_past"></span><span id="sutherlands-past"></span>
+
 ## Sutherland's Past
 
 - Speaking to the Trader reveals more about him, with more [Conversations](./Sutherland%27s%20Tale.md#Conversations) being unlocked as you raise his Trust:
@@ -396,6 +428,8 @@ These special items are only found by trading with Sutherland, and are quite cos
   - The Trader has a crippled leg that locks up on him in winter. He received it while at sea after heavy cables came loose on a ship and almost took his leg clean off. This information is conflicted moments later, with Sutherland mentioning that it might have instead have had something to do with his brother Wyatt.
     - Sutherland's leg is the one of the reasons why Wyatt's crew turned on him and lead to his death.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Through trading with the Trader, many previously non-renewable items become renewable; most notably [Research Books](./Research%20Book.md) and [Cooking](./Cooking.md) ingredients.
@@ -405,14 +439,20 @@ These special items are only found by trading with Sutherland, and are quite cos
   - Another question that has been raised is how his radio is powered during Glimmer Fog, as this fog only appears and effects electronics in the Far Territory. As it is currently impossible for the fog to reach the sea and power his radio, this may be an oversight from the developers.
 - The trader is voiced by Angus Macleod.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![The Trader's sailboat just off the coast after completing a trade.](../assets/Trader_off_the_coast.jpg)
 
 ![The Trader's sailboat seen up close.](../assets/Sutherland%27s_Sailboat.png)
 
+<span id="achievements"></span><span id="Achievements"></span>
+
 ## Achievements
 
 - ![Goods and Services icon](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md) - Reach maximum Trust with the Trader
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History

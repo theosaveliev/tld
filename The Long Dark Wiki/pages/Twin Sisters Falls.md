@@ -18,13 +18,19 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Twin Sister falls features two rather tall waterfalls side-by-side. [Cat tails](./Cat%20Tail.md) can be found in the area. A [Moose](./Moose.md) may occasionally be found nearby. The nearest suitable shelter is the Valley Cave.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 On clear days, these falls show a rainbow; this is the only location on Great Bear Island where a rainbow can be found.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

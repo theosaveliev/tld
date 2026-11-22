@@ -6,7 +6,7 @@
 
 [Notebook Page (Survival 2) icon](../assets/Notebook_Page_%28Survival_2%29_icon.png)
 
-**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
+**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
 
 **Properties**
 
@@ -26,6 +26,8 @@
 
 **Notebook Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Ash Canyon](./Ash%20Canyon.md) at [Climber's Cave](./Climber%27s%20Cave.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Notebook Page**_
@@ -33,6 +35,8 @@ _The following text is transcribed from **Notebook Page**_
 Guiding these Mainland tourist climbers isn’t worth all their moaning.
 
 After we hit the High Meadow I’m going to bow out and head for that old gold mine my dad showed me. I’m already a week overdue on this trip…
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

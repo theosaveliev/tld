@@ -29,6 +29,8 @@
 
 This is the transcript for Chapter 1 [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="intro"></span><span id="Intro"></span>
+
 ## Intro
 
 _The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane as he closes his eyes._
@@ -52,6 +54,8 @@ The player must manually remove the shard at this point as part of a quick time 
 _The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out._
 
 THE LONG DARK
+
+<span id="day_1"></span><span id="Day_1"></span><span id="day-1"></span>
 
 ## Day 1
 
@@ -94,6 +98,8 @@ Mackenzie: "That's all I have in me. Need to lay down before I fall down."
 
 _The man passes out for the night_
 
+<span id="day_2"></span><span id="Day_2"></span><span id="day-2"></span>
+
 ## Day 2
 
 The man wakes up the next morning. _The various fires from the night before have all but died down, with only vapors of smoke rising from the wreckage._
@@ -125,6 +131,8 @@ Mackenzie: "I don't feel so good. I need to rest up."
 
 _The man sleeps for the day_
 
+<span id="day_3"></span><span id="Day_3"></span><span id="day-3"></span>
+
 ## Day 3
 
 _When the pilot next wakes up the following day, a massive blizzard is developing outside_
@@ -142,6 +150,8 @@ Mackenzie: "Fire looks good. Now to warm up before I freeze to death..."
 _The pilot warms himself up fully by the fire_
 
 Mackenzie: "That should last me through the night. So...tired..."
+
+<span id="day_4"></span><span id="Day_4"></span><span id="day-4"></span>
 
 ## Day 4
 
@@ -304,6 +314,8 @@ _Then a tutorial message appears when finished_
 _Slowly limping his way back over the fallen tree to the still active cave, he prepares some [Rose Hip Tea](./Rose%20Hip%20Tea.md), cooks the Venison, and eats it all._
 
 Mackenzie: "May as well rest up. No telling what tomorrow will bring."
+
+<span id="day_5"></span><span id="Day_5"></span><span id="day-5"></span>
 
 ## Day 5
 

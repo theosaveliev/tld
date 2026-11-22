@@ -21,19 +21,27 @@
 
 **First Aid** is both a term and category used for items that can be consumed to prevent or treat injuries and diseases to the player throughout their playthrough. They have their own dedicated section within the [Radial Menu](./Radial%20Menu.md).
 
+<span id="afflictions"></span><span id="Afflictions"></span>
+
 ## Afflictions
 
 _Main article: [Afflictions](./Afflictions.md)_
 
 Negative afflictions cause [Condition](./Condition.md) loss and/or otherwise impede the player. There are currently 39 types of negative afflictions, which can be classified into two types: injuries and diseases.
 
+<span id="injuries"></span><span id="Injuries"></span>
+
 ### Injuries
 
 Injuries are caused by falling, [animal attacks](./Struggle.md), or exposure to the elements. The names of injuries that can affect a player will be briefly displayed on screen when they occur. Additionally, the player character will usually cry out in pain.
 
+<span id="diseases"></span><span id="Diseases"></span>
+
 ### Diseases
 
 Prior to contracting diseases, players are able to view their risk for the disease in the status menu. Certain actions taken by the player, such as consuming raw carnivore meat or drinking unsafe water, dramatically increase the risk that the player will contract the related disease. Once the disease has been contracted, treatment is required to remove the negative effects.
+
+<span id="administering_first_aid"></span><span id="Administering_First_Aid"></span><span id="administering-first-aid"></span>
 
 ## Administering First Aid
 
@@ -45,7 +53,11 @@ It is possible to have multiple instances of similar afflictions. Each must be t
 
 Afflictions disappear when they are cured. Some afflictions will disappear without treatment once sufficient time has passed, while others slowly drain condition and can kill they player if not cured quickly enough.
 
+<span id="first_aid_types"></span><span id="First_Aid_types"></span><span id="first-aid-types"></span>
+
 ## First Aid types
+
+<span id="preventative"></span><span id="Preventative"></span>
 
 ### Preventative
 
@@ -58,6 +70,8 @@ Afflictions disappear when they are cured. Some afflictions will disappear witho
 | [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png) | [Vitamin-C Pills](./Vitamin-C%20Pills.md) | Reduces [Scurvy icon](../assets/Scurvy_icon.png) | Reduces [Scurvy Risk](./Scurvy%20Risk.md)/[Scurvy](./Scurvy.md) by 125 units per pill | 1 pill (5 pills/bottle) | 0.10 kg<br>_(0.22 lb)_ | Artificial |
 | [Water Purification Tablets icon](../assets/Water_Purification_Tablets_icon.png) | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | [Dysentery icon](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) | Purifies 1.00 liter of [unsafe water](./Water%20%28Unsafe%29.md), allowing the player to drink without risk of Dysentery | 1 tablet | 0.06 kg<br>_(0.132 lb)_ | Artificial |
 
+<span id="prepared_plants"></span><span id="Prepared_Plants"></span><span id="prepared-plants"></span>
+
 ### Prepared Plants
 
 | [First Aid](../assets/First_Aid.png) | Item | Cooked into | Weight per dose |
@@ -66,6 +80,8 @@ Afflictions disappear when they are cured. Some afflictions will disappear witho
 | [Prepared Burdock icon](../assets/Prepared_Burdock_icon.png) | [Prepared Burdock](./Prepared%20Burdock.md) | Can be consumed as food or boiled into [Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) | 0.15 kg<br>_(0.33 lb)_ |
 | [Prepared Reishi Mushrooms icon](../assets/Prepared_Reishi_Mushrooms_icon.png) | [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) | [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md) | 0.05 kg<br>_(0.11 lb)_ |
 | [Prepared Rose Hips icon](../assets/Prepared_Rose_Hips_icon.png) | [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) | 0.05 kg<br>_(0.11 lb)_ |
+
+<span id="treatment"></span><span id="Treatment"></span>
 
 ### Treatment
 
@@ -81,6 +97,8 @@ Afflictions disappear when they are cured. Some afflictions will disappear witho
 | [Painkillers icon](../assets/Painkillers_icon.png) | [Painkillers](./Painkillers.md) | [Broken Ribs icon](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) [Burns icon](../assets/Burns_icon.png) [Burns](./Burns.md)<br>[Pain icon](../assets/Pain_icon.png) [Pain](./Pain.md) | 2 pills | 0.03 kg<br>_(0.066 lb)_ | Artificial |
 | [Reishi Tea icon](../assets/Reishi_Tea_icon.png) | [Reishi Tea](./Reishi%20Tea.md) | [Dysentery icon](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) [Food Poisoning icon](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)<br>[Infection icon](../assets/Infection_icon.png) [Infection](./Infection.md)<br>[Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md) | 1 | 0.10 kg<br>_(0.22 lb)_ | Natural |
 | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) | [Rose Hip Tea](./Rose%20Hip%20Tea.md) | [Broken Ribs icon](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) [Burns icon](../assets/Burns_icon.png) [Burns](./Burns.md)<br>[Pain icon](../assets/Pain_icon.png) [Pain](./Pain.md) | 1 | 0.10 kg<br>_(0.22 lb)_ | Natural |
+
+<span id="equipment"></span><span id="Equipment"></span>
 
 ### Equipment
 

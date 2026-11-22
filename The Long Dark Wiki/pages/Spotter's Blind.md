@@ -18,6 +18,8 @@
 
 Provides some shelter<br>**Spotter's Blind** is a small blind just east of the airfield. Medium-level loot can be found here such as [revolver ammunition](./Revolver%20Ammunition.md), [research books](./Research%20Book.md), or [maple syrup](./Maple%20Syrup.md). A [hacksaw](./Hacksaw.md) may also be found with the blade part way into one of the blind's supports, as though someone had been attempting to sabotage the structure.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![A view another hazy idea of the landscape and of spotter's blind](../assets/Screen_98092acc-d824-4c82-b6a3-80fe521c3827_hi.png)

@@ -18,6 +18,8 @@
 
 It does not appear in [Survival Mode](./Survival%20Mode.md).
 
+<span id="loot"></span><span id="Loot"></span>
+
 ## Loot
 
 The Vase only contains the [Basement Key](./Basement%20Key.md) as part of the opening mission.

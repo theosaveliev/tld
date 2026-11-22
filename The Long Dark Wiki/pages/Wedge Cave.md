@@ -18,6 +18,8 @@ Region
 
 **Type:** Cave
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Path up to Wedge Cave from the road](../assets/Wedge_Cave.jpg)

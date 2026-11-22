@@ -48,6 +48,8 @@ Craftable 1 x ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) [Workben
 
 A **Work Bench** is an Interactable Object used for [Crafting](./Crafting.md) new items, and is found across many locations in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Work Bench is a dedicated workspace that makes use of a [Workbench Vice](./Workbench%20Vice.md) to create more useful items that cannot normally be created by hand. 2 versions can be found across [Great Bear Island](./Great%20Bear%20Island.md), a metal or wood version. The metal one has a [Drawer](./Drawer.md), while the wood version does not.
@@ -61,6 +63,8 @@ Different tools can be used to create different items. Higher quality tools (suc
 Since some of these items require a considerable amount of time to complete, the work can be done in intervals without losing any progress. The minimum amount of time to spent is half an hour. According to the overall progress the required materials will be consumed and the semi-finished product will appear in the player's inventory.
 
 Note - [Fishing Tackles](./Fishing%20Tackle.md), [Bandages](./Bandage.md), [Old Man's Beard Wound Dressings](./Old%20Man%27s%20Beard%20Wound%20Dressing.md), [Tinder Plugs](./Tinder%20Plug.md), and [Torches](./Torch.md) do not need a Work Bench. They can normally be crafted anywhere, but the option to create them will still appear while using a Work Bench.
+
+<span id="craftable_items"></span><span id="Craftable_Items"></span><span id="craftable-items"></span>
 
 ## Craftable Items
 
@@ -97,6 +101,8 @@ Only one item of each type can be worked on at any given time. Optional tools th
 | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) [Wolfskin Pants](./Wolfskin%20Pants.md) (requires [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md)) | - 4x[Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>- 3x[Cured Gut icon](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 29 hours | - [Hunting Knife icon](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)<br>- [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)<br>- [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)<br>- [Survival Knife icon](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md)<br>- [Hatchet icon](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)<br>- [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
 | [Noisemaker icon](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) (Wintermute [EP4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) only) | - 1x[Recycled Can icon](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md)<br>- 1x[Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md)<br>- 0.10kg x[Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 30 Min | None |
 
+<span id="craftable_decorations_work_bench"></span><span id="Craftable_Decorations_Work_Bench"></span><span id="craftable-decorations-work-bench"></span>
+
 ## Craftable Decorations Work Bench
 
 ![Workbench icon](../assets/Workbench_icon.png) A craftable [Decorations](./Decorations.md) Work Bench is a wooden variant of the common wooden Work Bench, albeit without the Drawer. This allows the player to craft a Work Bench at [Safehouse](./Safehouse.md) locations that do not normally contain one, providing better Crafting opportunities and requiring less traveling to dangerous locations.
@@ -123,6 +129,8 @@ Despite having a Backpack carry weight value of 5.00 kg, a player made Work Benc
 
 **Quantity:** 15
 
+<span id="harvesting"></span><span id="Harvesting"></span>
+
 ## Harvesting
 
 Destroying a Work Bench allows the player to craft a new wooden Work Bench elsewhere as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
@@ -134,6 +142,8 @@ Destroying a Work Bench allows the player to craft a new wooden Work Bench elsew
 There are currently 50 Work Benches found in the game, producing a limited amount of Vices to prevent the player from easily crafting infinite Work Benches.
 
 _For a full list of locations with a Work Bench, see :Category:Locations with a workbench._
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

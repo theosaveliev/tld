@@ -24,6 +24,8 @@
 
 **Quality Tools** are a Tool item used for crafting items and repairing equipment.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Quality tools weigh 0.75 kilograms. Quality tools can repair an item 100% faster (halving the repair time) than without any tools. They also increase the chance of a successful repair by 20%. In addition to repairing more quickly and more reliably, quality tools also weigh less than simple tools. However, quality tools are more rare.
@@ -60,11 +62,15 @@ Quality Tools are needed to craft the following item
 
 - [Bear Hide Rug](./Bear%20Hide%20Rug.md)
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Quality_tools.png)
 
 ![Model as of v2.33](../assets/Quality_tools_TFTFTpart6.jpg)
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History
 

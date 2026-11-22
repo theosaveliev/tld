@@ -73,7 +73,11 @@ The farmstead buildings include a decently sized, very cluttered house; a couple
 
 The farmstead was featured as an important story location in [Wintermute](./Wintermute.md), and, since [the Rugged Sentinel Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) it can also be accessed in [Survival Mode](./Survival%20Mode.md), along with the rest of the Mountain Town map.
 
+<span id="description_of_location"></span><span id="Description_of_location"></span><span id="description-of-location"></span>
+
 ## Description of location
+
+<span id="farmhouse"></span><span id="Farmhouse"></span>
 
 ### **Farmhouse**
 
@@ -81,13 +85,19 @@ A single-story farmhouse may require a key to get into and is the only building 
 
 The house offers a good amount of storage space, as well as a lot of open areas to cure hides. The front porch may be used to store meat to prevent it from spoiling, however the player must remember that the porch itself isn't safe from wildlife.
 
+<span id="barn"></span><span id="Barn"></span>
+
 ### **Barn**
 
 The barn is a wooden shell of a building without an actual interior. It offers poor protection from the elements (i.e., some wind protection, depending on wind direction), and it isn't entirely safe from the wildlife. The barn also has a [workbench](./Work%20Bench.md) and a [fire barrel](./Fire%20Barrel.md) located conveniently close, making prolonged crafting sessions easier. There are some planks and cardboard to break down for resources, and dead body may occasionally spawn inside the barn. A [tractor](./Tractor.md) is situated near the barn.
 
+<span id="additional_outbuildings"></span><span id="Additional_outbuildings"></span><span id="additional-outbuildings"></span>
+
 ### **Additional outbuildings**
 
 There are the remnants of a couple sheds on the opposite sides of the farm. They contain little and offer almost no protection from weather or from wolves that may patrol around the farm, however, a [truck](./Truck.md) can be found sitting underneath one of the dilapidated structures.
+
+<span id="story_mode"></span><span id="Story_Mode"></span><span id="story-mode"></span>
 
 ## Story Mode
 
@@ -99,7 +109,11 @@ Afterwards, an encounter with Astrid left one of the criminals dead and Hobbs wi
 
 This interaction culminates with a choice. Pull the knife out of Hobbs's gut in order to try and save him; or push the weapon in deeper and end his life. The _[Bank Deposit Box Key #15](./Milton%20Safety%20Deposit%20Box%20Keys.md)_is found in a container next to where Hobbs is sitting, and can be obtained after his dialogue finishes.
 
+<span id="survival_mode"></span><span id="Survival_Mode"></span><span id="survival-mode"></span>
+
 ## Survival Mode
+
+<span id="wildlife"></span><span id="Wildlife"></span>
 
 ### **Wildlife**
 
@@ -111,13 +125,19 @@ In the field to the north of the farm itself, near the silo, there is usually he
 
 Be aware that neither the porch of the house nor the open barn are safe from [wildlife](./Wildlife.md).
 
+<span id="key_to_the_farm"></span><span id="Key_to_the_farm"></span><span id="key-to-the-farm"></span>
+
 ### **Key to the farm**
 
 In Survival mode, the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) to the farmhouse may be found at various locations around the property, including (but not limited to) the dashboard of the pickup truck, tractor's floor, or a [Frozen Corpse](./Frozen%20Corpse.md), either behind the farmhouse or inside the barn.
 
+<span id="loot"></span><span id="Loot"></span>
+
 ### **Loot**
 
 On all experience levels, the farmhouse offers decent loot (by the standards of the difficulty level). There is plenty of furniture inside to break down for reclaimed wood, and multiple containers can hold mid- to high level items. It is an excellent source of [books](./Book.md), containing up to 25 on voyageur. Most notably, a rifle and/or a [revolver](./Revolver.md) and possibly some ammunition may be found inside. Birch saplings may be found behind the farmhouse. This farm is the last interior location in Mountain Town region before reaching [Forlorn Muskeg](./Forlorn%20Muskeg.md) and its forge (through [Milton Basin](./Milton%20Basin.md)). These facts can make the farm possible location to go forging arrowheads from.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -32,11 +32,17 @@ Location
 
 Has an interior **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
+
+<span id="railyard_east"></span><span id="Railyard_East"></span><span id="railyard-east"></span>
 
 ### Railyard East
 
 A mostly empty set of land with some tracks that lead into a smashed in tunnel leading to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). Further east leads to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
+
+<span id="railyard_west"></span><span id="Railyard_West"></span><span id="railyard-west"></span>
 
 ### Railyard West
 

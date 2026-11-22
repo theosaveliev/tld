@@ -14,6 +14,8 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Cave is one of two in the region, but is the only one that has a loading screen.
@@ -21,6 +23,8 @@ The Cave is one of two in the region, but is the only one that has a loading scr
 Within the Cave, especially on harder difficulties, a [Wolf](./Wolf.md) may be found lurking around. The wolf is usually accompanied by one or two [Deer Carcasses](./Deer%20Carcass.md), and sometimes a [Hunting Rifle](./Hunting%20Rifle.md) may be found either with its dead owner or lodged in a crevice. Varying [food stuffs](./Food%20And%20Drink.md) may be found here, and inside the corpse's backpack as well.
 
 The wolf tends to lurk near the large center portion of Cave, but can wander about through the tunnels. So it is recommended to enter with a weapon readied.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

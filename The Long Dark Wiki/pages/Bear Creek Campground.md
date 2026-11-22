@@ -24,11 +24,15 @@ Type
 
 Outdoors|-
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Bear Creek Campground is a campsite by a small creek that runs from the north, down to the ocean at the south.
 
 There is a small cabin on a hill nearby, but otherwise, there is no real shelter at the campground. [Cat tails](./Cat%20Tail.md) and [Reishi Mushroom](./Reishi%20Mushroom.md) can be found in the area, as can a [Bear](./Bear.md). A corpse or [Deer](./Deer.md) carcass may also spawn in the campground.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

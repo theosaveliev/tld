@@ -6,7 +6,7 @@
 
 [Can Opener icon](../assets/Can_Opener_icon.png)
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Wintermute:** No
 
@@ -32,6 +32,8 @@
 
 A **Can Opener** is a tool primarily used for opening food cans.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Can openers allows players to open [canned foods](./Cooking.md#Canned) without losing between 10% and 30% of the food as spillage via smashing open. While either a [Knife](./Hunting%20Knife.md) or [Hatchet](./Hatchet.md) will also allow the player to open a can without spillage, a Can Opener is only used to open cans. Using a Can Opener allows the player to preserve those tools' condition for other uses. Using a Can Opener also allows the canned food to be eaten and yield a [Recycled Can](./Recycled%20Can.md) after consumption, whereas smashing the can open will not.
@@ -42,17 +44,21 @@ A Can Opener can be harvested for 1 unit of [Scrap Metal](./Scrap%20Metal.md).
 
 It can also be repaired 1 unit of Scrap Metal. Repairing restores 25% condition and takes 45 minutes.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Can_opener.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.103)):**
+- HOTFIX **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.103)):**
   - Can Opener can now be harvested.
-- HOTFIX **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.073)):**
+- HOTFIX **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**
   - Can Opener: Increased durability so it won’t break so easily.
-- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.04)):**
+- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.04)):**
   - Can opener now only degrades on use. Cans only need to be opened once (eating from the same can a second time does not affect the can opener).
-- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)):**
+- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

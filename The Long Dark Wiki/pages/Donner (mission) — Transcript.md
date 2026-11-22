@@ -15,6 +15,8 @@
 
 This is the transcript for Chapter 4 [Donner (mission)](./Donner%20%28mission%29.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
+<span id="opening"></span><span id="Opening"></span>
+
 ## Opening
 
 CHAPTER FOUR

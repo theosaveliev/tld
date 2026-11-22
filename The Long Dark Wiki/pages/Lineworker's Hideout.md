@@ -18,6 +18,8 @@ Region
 
 **Type:** Cave
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Lineworker's Hideout, seen from Old Substation](../assets/Lineworker%27s_Hideout.jpg)

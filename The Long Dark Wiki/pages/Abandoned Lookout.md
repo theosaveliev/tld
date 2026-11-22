@@ -33,11 +33,15 @@ Has a bed
 
 Provides some shelter **Abandoned Lookout** is small, abandoned lookout tower located to the north in [Coastal Highway](./Coastal%20Highway.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Abandoned Lookout is a tower that sits on a hill to the far north-west of the [Coastal Townsite](./Coastal%20Townsite.md) and north-east of [Log Sort](./Log%20Sort.md). The Abandoned Lookout is situated very close to the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) transition area for [Pleasant Valley](./Pleasant%20Valley.md). This makes it a stop for almost anyone heading to Pleasant Valley. The lookout is much more sparsely decorated compared to the [Forestry Lookout](./Forestry%20Lookout.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 It's possible to deploy a [Mountaineering Rope](./Mountaineering%20Rope.md) from the embankment on the south side of the lookout.
+
+<span id="furnishings"></span><span id="Furnishings"></span>
 
 ## Furnishings
 
@@ -47,6 +51,8 @@ Abandoned Lookout contains the following:
 - Bed
 - Cabinet
 - Shelf
+
+<span id="possible_loot"></span><span id="Possible_Loot"></span><span id="possible-loot"></span>
 
 ## Possible Loot
 
@@ -61,11 +67,15 @@ Abandoned Lookout has less loot than many of the other buildings.
 - [Magnifying Lens](./Magnifying%20Lens.md)
 - [Whetstone](./Whetstone.md)
 
+<span id="safehouse"></span><span id="Safehouse"></span>
+
 ## Safehouse
 
 While it can be a useful camp, Abandoned Lookout generally makes a poor base. It lacks the luxury of having many storage containers, which is a problem for anyone looking to survive for a long period of time. It also lacks a [Work Bench](./Work%20Bench.md), and is very far from any buildings to scavenge from. It also does not have many renewable sources of food (i.e., game or fish), fuel, or medicinal flora close by.
 
 The [Quonset Garage](./Quonset%20Garage.md) and [Jackrabbit Island](./Jackrabbit%20Island.md) make for much more suitable safehouses.
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 
@@ -74,6 +84,8 @@ The [Quonset Garage](./Quonset%20Garage.md) and [Jackrabbit Island](./Jackrabbit
 - The height of the lookout does provide protection for the player from attackers below.
 - The height of the lookout also allows the player to get a view of their surroundings without having to do much exploration.
 - The top of the Lookout serves as a [Vista](./Polaroids.md) location.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

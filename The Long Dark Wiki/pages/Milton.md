@@ -44,17 +44,23 @@ _For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Tow
 
 **The Town of Milton**is a major location in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _The Long Dark's_Story Mode. It is a small, largely abandoned town nestled in the mountains of [Great Bear Island](./Great%20Bear%20Island.md). The location name of the game map is "Town of Milton."
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
-Milton was founded in 1911 to support the initially booming coal industry in the surrounding mountains. The town was originally built along a supply route from the coast to the interior of [Great Bear Island](./Great%20Bear%20Island.md), with the road replaced by a paved highway in 1960. The location of the town, halfway between Port Mary and the mountains in the interior of Great Bear, made it a convenient stopping-off point for fuel and supplies for workers in the mining, logging, and milling industries, as well as campers from Mainland [Canada](./The%20Collapse.md).[¹](#fn1)
+Milton was founded in 1911 to support the initially booming coal industry in the surrounding mountains. The town was originally built along a supply route from the coast to the interior of [Great Bear Island](./Great%20Bear%20Island.md), with the road replaced by a paved highway in 1960. The location of the town, halfway between Port Mary and the mountains in the interior of Great Bear, made it a convenient stopping-off point for fuel and supplies for workers in the mining, logging, and milling industries, as well as campers from Mainland [Canada](./The%20Collapse.md).<span id="fnref1"></span>[¹](#fn1)
 
-The town's economy boomed in the 1980s, with the population reaching around 1000 people, but the construction of the [Great Bear Highway](./Great%20Bear%20Highway.md) (Highway 15) meant fewer people travelling through Milton, and ultimately led to the decline of the importance of Milton. In the 2000s the population was little more than 100 or so.[²](#fn2)
+The town's economy boomed in the 1980s, with the population reaching around 1000 people, but the construction of the [Great Bear Highway](./Great%20Bear%20Highway.md) (Highway 15) meant fewer people travelling through Milton, and ultimately led to the decline of the importance of Milton. In the 2000s the population was little more than 100 or so.<span id="fnref2"></span>[²](#fn2)
 
-Following [The Collapse](./The%20Collapse.md), even fewer travelers or industrial workers visited Great Bear, and eventually the population fell to only a dozen or so - stalwarts and old-timers, with deep roots in Milton. Soon, Milton became a ghost town.[³](#fn3)
+Following [The Collapse](./The%20Collapse.md), even fewer travelers or industrial workers visited Great Bear, and eventually the population fell to only a dozen or so - stalwarts and old-timers, with deep roots in Milton. Soon, Milton became a ghost town.<span id="fnref3"></span>[³](#fn3)
+
+<span id="notable_locations"></span><span id="Notable_Locations"></span><span id="notable-locations"></span>
 
 ## Notable Locations
 
 In addition to several houses within the town, the Mountain Town region contains multiple named locations.
+
+<span id="town_of_milton"></span><span id="Town_of_Milton"></span><span id="town-of-milton"></span>
 
 #### Town of Milton
 
@@ -66,6 +72,8 @@ In addition to several houses within the town, the Mountain Town region contains
 - [Milton Water Tower](./Milton%20Water%20Tower.md)
 - [Old Schoolhouse](./Old%20Schoolhouse.md)
 - [The Arch (Mountain Town location)](./The%20Arch%20%28Mountain%20Town%20location%29.md)
+
+<span id="milton_outskirts"></span><span id="Milton_Outskirts"></span><span id="milton-outskirts"></span>
 
 #### Milton Outskirts
 
@@ -80,21 +88,25 @@ In addition to several houses within the town, the Mountain Town region contains
 - [Trailer (Mountain Town Region)](./Trailer%20%28Mountain%20Town%20Region%29.md)
 - 3 x [Wood Lot](./Wood%20Lot.md)
 
+<span id="current_and_former_residents"></span><span id="Current_and_Former_Residents"></span><span id="current-and-former-residents"></span>
+
 ## Current and Former Residents
 
 - [Grey Mother](./Grey%20Mother.md)
 - [Martin Barker](./Martin%20Barker.md)
 - [Lilith Barker](./Lilith%20Barker.md)
-- Father Francis McGill[⁴](#fn4)
-- M. Antonides[⁵](#fn5)
-- The Millers[⁶](#fn6)
-- Margaret[⁷](#fn7)
-- Jack[⁸](#fn8)
-- Alice[⁹](#fn9)[¹⁰](#fn10)
-- John[¹¹](#fn11)
-- Molly (dog)[¹²](#fn12)
-- N.[¹³](#fn13)
-- Henry McDermott[¹⁴](#fn14)
+- Father Francis McGill<span id="fnref4"></span>[⁴](#fn4)
+- M. Antonides<span id="fnref5"></span>[⁵](#fn5)
+- The Millers<span id="fnref6"></span>[⁶](#fn6)
+- Margaret<span id="fnref7"></span>[⁷](#fn7)
+- Jack<span id="fnref8"></span>[⁸](#fn8)
+- Alice<span id="fnref9"></span>[⁹](#fn9)<span id="fnref10"></span>[¹⁰](#fn10)
+- John<span id="fnref11"></span>[¹¹](#fn11)
+- Molly (dog)<span id="fnref12"></span>[¹²](#fn12)
+- N.<span id="fnref13"></span>[¹³](#fn13)
+- Henry McDermott<span id="fnref14"></span>[¹⁴](#fn14)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -110,18 +122,27 @@ In addition to several houses within the town, the Mountain Town region contains
 
 ![The welcoming sign near the bridge entrance to town](../assets/Milton_sign.jpg)
 
+<span id="references"></span><span id="References"></span>
+
 ## References
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. [Story mode](./Wintermute.md) journal entry: What I know: Places: _Town of Milton_[↩︎](#fnref1)
-4. _Pastor's Note_ collectible[↩︎](#fnref4)
-5. _Park Warning Notice_ collectible[↩︎](#fnref5)
-6. [Grey Mother](./Grey%20Mother.md) _Cache location_ side-mission[↩︎](#fnref6)
-7. _Milton Post Office Collectible_[↩︎](#fnref7)
-9. _Lost in the Storm_ collectible[↩︎](#fnref9)
-10. _Neighbour's Note_ collectible[↩︎](#fnref10)
-13. _Tearful Letter_ collectible[↩︎](#fnref13)
-14. Owned a [Distress Pistol](./Distress%20Pistol.md) as part of the cut [Light Up The Night](./Light%20Up%20The%20Night.md) side mission and in the Orca Gas Station Buffer Memory[↩︎](#fnref14)
+1. <span id="fn1"></span>[Story mode](./Wintermute.md) journal entry: What I know: Places: _Town of Milton_[↩︎](#fnref1)
+2. <span id="fn2"></span>
+3. <span id="fn3"></span>
+4. <span id="fn4"></span>_Pastor's Note_ collectible[↩︎](#fnref4)
+5. <span id="fn5"></span>_Park Warning Notice_ collectible[↩︎](#fnref5)
+6. <span id="fn6"></span>[Grey Mother](./Grey%20Mother.md) _Cache location_ side-mission[↩︎](#fnref6)
+7. <span id="fn7"></span>_Milton Post Office Collectible_[↩︎](#fnref7)
+8. <span id="fn8"></span>
+9. <span id="fn9"></span>_Lost in the Storm_ collectible[↩︎](#fnref9)
+10. <span id="fn10"></span>_Neighbour's Note_ collectible[↩︎](#fnref10)
+11. <span id="fn11"></span>
+12. <span id="fn12"></span>
+13. <span id="fn13"></span>_Tearful Letter_ collectible[↩︎](#fnref13)
+14. <span id="fn14"></span>Owned a [Distress Pistol](./Distress%20Pistol.md) as part of the cut [Light Up The Night](./Light%20Up%20The%20Night.md) side mission and in the Orca Gas Station Buffer Memory[↩︎](#fnref14)

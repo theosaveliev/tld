@@ -30,6 +30,8 @@
 
 **Broken Body** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 > “__Your body carries the weight of a dying world.  
@@ -40,10 +42,14 @@
 
 Broken Body is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stage 5 of Misery (Day 47). It completely disables Condition recovery and doubles all sources of Condition drain.
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 - All forms of [Condition](./Condition.md) recovery are disabled (Passive from met [Needs](./Needs.md), [Sleep](./Sleep.md) and all [Items](./Emergency%20Stim.md))
 - +100% Condition damage taken
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

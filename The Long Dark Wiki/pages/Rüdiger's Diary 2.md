@@ -24,13 +24,15 @@
 
 **Rüdiger's Diary 2** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found on the [High Peak Plateau](./High%20Peak%20Plateau.md) while following the Tale.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Rüdiger's Diary 2**_
 
 This island was meant to give up its secrets to me. Knowledge wired into its very bones. The rocks, the mountains, the deep places under the earth.
 
-A \*new\* geology.
+A _new\_ geology.
 
 It promised much - a vexing, teasing, crack in the window to the future. I knew we could not accomplish our goals and be certain of success or safety in doing so.
 
@@ -42,7 +44,7 @@ But I chose to move forward.
 
 In the coming decades, these equivocations, these doubts, will be meaningless.
 
-I still believe EW was right. I just cannot prove it. \*Yet.\*
+I still believe EW was right. I just cannot prove it. _Yet._
 
 The cost has been high. And now, I suspect, it is time for me to pay as well. Even now, my enemies laugh. As their agent tracks my movements, this stalker in the hills.
 
@@ -51,6 +53,8 @@ And I am only getting weaker.
 There is a terrible shadow across my mind. Gnawing on its edges.
 
 I cannot...focus my thoughts. My dreams are strange. A deep, wide ocean, unending.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

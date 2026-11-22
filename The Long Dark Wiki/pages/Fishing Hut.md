@@ -6,6 +6,8 @@
 
 **Fishing huts**are a type of small structure found on frozen lakes and coasts. While they can be found in many regions, they are especially abundant in [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 ![Fishing hut inside](../assets/Fishing_hut_inside.jpg)
@@ -23,6 +25,8 @@ Common items to find inside the hut are: [fishing tackle](./Fishing%20Tackle.md)
 As the interior of fishing huts technically counts as outside, they make excellent shelters when trying for the [Night Walker](./Night%20Walker.md) and [Beneath a Starry Sky](./Beneath%20a%20Starry%20Sky.md) achievements, as well as warding off [Cabin Fever](./Cabin%20Fever.md). Magnifying lens can also be used to start fire in oven, in case if weather conditions are suitable.
 
 Sleeping in a bedroll without a fire might lead to hypothermia and death.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

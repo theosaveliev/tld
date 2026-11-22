@@ -37,10 +37,14 @@
 
 This episode has since been replaced by the current version of [Paradise Lost](./Paradise%20Lost.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Find the climbing area on the outskirts of Milton.
 - Find the route that leads through the mountains.
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -52,13 +56,19 @@ Continue traveling until you find another Rope Climb. If you are too tired to cl
 
 Note that any items kept in this episode pass over to Episode 2.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md)
 
+<span id="differences_from_redux_episode_1"></span><span id="Differences_from_Redux_Episode_1"></span><span id="differences-from-redux-episode-1"></span>
+
 ## Differences from Redux Episode 1
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 1:
+
+<span id="plot_points_and_gameplay_changes"></span><span id="Plot_Points_and_Gameplay_Changes"></span><span id="plot-points-and-gameplay-changes"></span>
 
 ### Plot Points and Gameplay Changes
 
@@ -67,9 +77,11 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - Jeremiah is not wearing his [Bearskin Coat](./Bearskin%20Coat.md), but the redux changes this to include him wearing his coat in the ending cutscene.
   - Despite this, [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) is damaged and needs to be repaired in Episode 2 after the bear attack.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

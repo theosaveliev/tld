@@ -33,7 +33,7 @@
 
 Release
 
-[12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+[12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 Role
 
@@ -53,6 +53,8 @@ _For the unique stag found in the [Episode 3](./Episode%203%20-%20Crossroads%20E
 
  **Deer** are medium sized grazers in _[The Long Dark](./The%20Long%20Dark.md)_. They are a valuable resource, offering the potential for substantial amounts of meat and materials for relatively little risk.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Deer are timid wanderers that can be found in all main regions, as well as in some transition zones. They spend much of their time meandering through the snow but will bound away whenever they detect the slightest hint of danger.
@@ -65,6 +67,8 @@ Oddly, the player's sprint ability is actually sufficient to almost keep pace wi
 
 Most Interloper players will want to harvest five deer carcasses soon after they get a [Hacksaw](./Hacksaw.md), in order to make the deerskin pants and boots, as these are the easiest pieces of animal clothing to make. The guts are also useful for making a [Survival Bow](./Survival%20Bow.md), which is the only sustainable ranged weapon in Interloper, along with [Snares](./Snare.md), which make catching rabbits much easier.
 
+<span id="drops"></span><span id="Drops"></span>
+
 ## Drops
 
 ![Deer carcass](../assets/Dead_deer.png)_Deer carcass_ A fresh [Deer Carcass](./Deer%20Carcass.md) contains between 8.00 and 10.00 kg of raw meat, as well as two guts and one Deer Hide. Carcasses will slowly freeze, increasing the time needed for the player to harvest its contents. Meat left on the carcass decays quickly, regardless of the carcass freezing. Starting a fire near a frozen carcass will thaw it.
@@ -75,10 +79,10 @@ Stag and Doe carcasses contain slightly differing amounts of meat upon their cor
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always[¹](#fn1) |
-| [Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always[²](#fn2) |
+| [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always<span id="fnref1"></span>[¹](#fn1) |
+| [Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always<span id="fnref2"></span>[²](#fn2) |
 | [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
-| \[Missing image: Gut\_icon.png\]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| [Missing image: Gut\_icon.png]<br>_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
@@ -86,17 +90,23 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.20 kg per meat | Always |
 
+<span id="behaviour"></span><span id="Behaviour"></span>
+
 ## Behaviour
 
 Deer have two paces: walking and fleeing. Typically they stick to a defined area, wandering about randomly within its invisible borders. Occasionally, a wandering deer will pause and bow its head as if to graze. They will sprint away a short distance if they detect a nearby predator or person but will still try to return to their designated area. If they are spooked a second time, they tend to run much farther. Occasionally deer will double back while running and may actually run right at the player without turning away.
 
 Instinctively herd animals, deer are usually seen in groups of up to five, and gravitate back to their fellows after being chased.
 
+<span id="food_for_wolves"></span><span id="Food_for_wolves"></span><span id="food-for-wolves"></span>
+
 ### Food for wolves
 
 If a wolf detects a deer, it will start stalking it in a manner similar to when it detects the player. If the deer manages to outrun the wolf or break line of sight for some time, the wolf will give up and return to it's original hunting grounds. However, if the wolf gets close enough to the deer, it will start relentlessly chasing it down until the deer dies. If a wolf gives chase in this way, other wolves are encouraged to also chase the same deer. This can result in the deer actually being killed by a wolf different from the one that started chasing it. Only the killing wolf will feed, all others will resume patrols.
 
 Carefully driving deer towards wolves can act as a distraction to briefly clear an area of the predators. Alternatively, the player may attempt to drive away or kill a wolf feeding on a recently downed deer, thereby allowing the player to harvest most of the carcass(es) while conserving ammunition.
+
+<span id="wildlife_interaction"></span><span id="Wildlife_Interaction"></span><span id="wildlife-interaction"></span>
 
 ## Wildlife Interaction
 
@@ -110,13 +120,19 @@ Carefully driving deer towards wolves can act as a distraction to briefly clear 
 
 The only possible interaction with deer is to scare them. They run away from most everything. Once the player is close enough to be detected by the deer, it will run. Hearing gunshots and shooting an arrow into the snow near them is also sufficient to get them to bolt. Crouching and remaining still will lower the range at which the player is detected. Remaining still and crouched when within a nearby deer's field of vision also reduce the chance of being detected.
 
+<span id="herding"></span><span id="Herding"></span>
+
 ### Herding
 
 Deer may be driven along by repeatedly scaring them. They tend to run directly away, so positioning yourself opposite them from where you would like them to go is often sufficient to steer them properly.
 
+<span id="hunting"></span><span id="Hunting"></span>
+
 ## [Hunting](./Hunting.md)
 
 It is possible to kill a deer with one shot, though this is a function of scoring a "critical hit". Deer not critically shot will typically run, dripping blood, until they die. It may be noted that while the [Hunting Rifle](./Hunting%20Rifle.md) may cause more critical hits and is therefore more likely to drop a deer immediately, the Survival Bow does cause significantly faster bleedouts, which reduce the length of chasing and tracking.
+
+<span id="critical_hits"></span><span id="Critical_hits"></span><span id="critical-hits"></span>
 
 ### Critical hits
 
@@ -129,9 +145,13 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | 50% | 40% | 25% | 10% |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | Guaranteed | 25% | 20% | 13% | 5% |
 
+<span id="bleeding_wounds"></span><span id="Bleeding_wounds"></span><span id="bleeding-wounds"></span>
+
 ### Bleeding wounds
 
 ![Wounded deer running away](../assets/Deer_running_away.png)_Wounded deer running away_ All shots cause bleeding wounds. Deer will bleed out according to which area they were shot in. Bleeding wounds do not stack. That is, multiple shots to the same area will not make it bleed out any faster. Shooting a deer in an area that bleeds faster than a previous wound will cause it to bleed out as if the faster wound were caused first.
+
+<span id="bleed_out"></span><span id="Bleed_Out"></span><span id="bleed-out"></span>
 
 ### Bleed Out
 
@@ -141,6 +161,8 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | [Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Instant | 10 min | 22 min | 40 min | 120 min |
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | Instant | 20 min | 60 min | 80 min | 320 min |
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Instant | 8 min | 15 min | 30 min | 80 min |
+
+<span id="strategies"></span><span id="Strategies"></span>
 
 ### Strategies
 
@@ -152,9 +174,13 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
 - Longer range shooting is also quite possible once one learns how properly to aim. Deer movement is rather simple while walking and therefore predictable before they bolt.
 - Flushing deer to run can also be used counter-intuitively to get them to run towards the player, allowing for close range shots. Fleeing deer occasionally double back, especially if their paths are blocked by terrain. A dynamic shot may then be taken on the deer as it charges toward or immediately after as it is moving away. Broadside attempts may be difficult to time correctly, but are also possible.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The Deer appears to be based off the [White-Tailed Deer](https://en.wikipedia.org/wiki/White-tailed_deer) (**_Odocoileus virginianus_**), a common North American Cervidae. They are not to be confused with Elk or Caribou, a much larger but different species of Cervidae.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -166,32 +192,34 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
 
 ![Steam Badge](../assets/Steam_Deer_Badge.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
 - UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
   - Added Does to the game.
 
-- HOTFIX **22 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.72)):**
-  - \[General\] Fixed a crash that could occur if a Stag or Rabbit was removed from the world, while being chased by a Predator.
+- HOTFIX **22 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.72)):**
+  - [General] Fixed a crash that could occur if a Stag or Rabbit was removed from the world, while being chased by a Predator.
 
-- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.71)):**
-  - \[Hunted\] Updated Deer carcass placement.
-  - \[AI\] Stags now animate correctly after being felled by a Wolf.
-  - \[AI\] Polished Stag and Wolf animations and transitions.
-  - \[Gameplay\] Stags now check for collision when falling after death, to avoid falling into objects.
+- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+  - [Hunted] Updated Deer carcass placement.
+  - [AI] Stags now animate correctly after being felled by a Wolf.
+  - [AI] Polished Stag and Wolf animations and transitions.
+  - [Gameplay] Stags now check for collision when falling after death, to avoid falling into objects.
 
-- UPDATE **19 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.42)):**
-  - \[WINTERMUTE\] Removed deer carcass from the Survival Bowl sequence in Episode One that could cause a crash.
+- UPDATE **19 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.42)):**
+  - [WINTERMUTE] Removed deer carcass from the Survival Bowl sequence in Episode One that could cause a crash.
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
-  - \[WINTERMUTE\] Fixed deer carcass disappearing when loading an autosave
-  - \[Survival Mode\] Prevented deer from fleeing to inaccessible areas in the Ravine transition
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+  - [WINTERMUTE] Fixed deer carcass disappearing when loading an autosave
+  - [Survival Mode] Prevented deer from fleeing to inaccessible areas in the Ravine transition
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)):**
-  - \[Wintermute\] Fixed deer carcass disappearing at the opening of Episode One if Player interacts with, saves, then reloads game.
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+  - [Wintermute] Fixed deer carcass disappearing at the opening of Episode One if Player interacts with, saves, then reloads game.
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
-  - \[Both\] Reduced Deer carcass quartering time to 60 minutes, to improve balance against Bear and Moose quartering times.
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+  - [Both] Reduced Deer carcass quartering time to 60 minutes, to improve balance against Bear and Moose quartering times.
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Updated Stag model and animations, including carcasses.
@@ -220,12 +248,14 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
   - Randomized all Corpses (Deer and Human) in Lake Region, apart from a few that remain for environmental storytelling purposes.
   - Added a new Raw Material type: Leather. Leather is required to repair boots. It can be harvested from existing boots, or from Deer.
 
-- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.01)):**
+- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. If carcass is harvested[↩︎](#fnref1)
-2. If carcass is quartered.[↩︎](#fnref2)
+1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
+2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)

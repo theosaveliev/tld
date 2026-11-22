@@ -4,7 +4,7 @@
 
 **Medical Clinic**
 
-\[Missing image: Medical\_Clinic.jpg\]<br>_Medical\_Clinic.jpg_
+[Missing image: Medical\_Clinic.jpg]<br>_Medical\_Clinic.jpg_
 
 **Location**
 
@@ -18,4 +18,8 @@ Type
 
 Has an interior The **Medical Clinic** or **Dr. Larsen's Medical Clinic** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
+
+<span id="gallery"></span><span id="Gallery"></span>

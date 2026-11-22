@@ -18,6 +18,8 @@
 
 **Crash Survivors**are a group of passengers who survived an airline crash in the [Pleasant Valley](./Pleasant%20Valley.md) region. They are only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md).
 
+<span id="basic_details"></span><span id="Basic_Details"></span><span id="basic-details"></span>
+
 ## Basic Details
 
 Many survivors managed to find their way toe the [Community Hall](./Community%20Hall.md) on their own, but are not doing very well. [Astrid Greenwood](./Astrid%20Greenwood.md) is tasked with diagnosing and caring for them when she first arrives, with [Father Thomas](./Father%20Thomas.md) watching over them to make sure they recover.
@@ -29,6 +31,8 @@ Four other Crash Survivors are found outside of the Community Hall during the ep
 - Wade is found near [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), close to the bridge on the end of the property furthest from the main road.
 - Ava is found near [Lonely Homestead](./Lonely%20Homestead.md).
 
+<span id="gameplay_features"></span><span id="Gameplay_Features"></span><span id="gameplay-features"></span>
+
 ## Gameplay Features
 
 When Astrid Greenwood finds these survivors, she needs to carry them back to the Community hall and place them on an empty bed. Once they are there, she cannot interact with them further.
@@ -38,6 +42,8 @@ When Astrid is carrying a survivor, Astrid cannot sprint, her walking speed is r
 Survivors have their own [Warmth](./Warmth.md) and [Thirst](./Thirst.md) bar that steadily depletes, as well as a [Condition](./Condition.md) bar. Astrid may treat these survivors by interacting with them and choosing the "Diagnose" option. Survivors may only drink [Potable Water](./Water%20%28Potable%29.md), and like Astrid or [Will Mackenzie](./Will%20Mackenzie.md), will drink until their thirst is quenched or the water runs out. Warmth is addressed by bringing them indoors or placing them by a fire. One can place them on beds and bedrolls providing the warmth bonus accompanying the bed/bedroll. It is not possible to give any clothing to a survivor. A Survivor's Condition bar will steadily recover just as a player's will so long as their Needs are satisfied.
 
 Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approach the survivor, stop, and then bite them on the ground. This will cause them to lose 25% Condition, and Astrid will need to treat their bleeding with a [Bandage](./Bandage.md). A [Bear](./Bear.md) will ignore a crash survivor, and if Astrid is attacked by one while holding a survivor, the survivor will simply fall to the ground and not be injured.
+
+<span id="diagnosing"></span><span id="Diagnosing"></span>
 
 ## Diagnosing
 
@@ -50,6 +56,8 @@ Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approa
 - ![Dehydration Risk icon](../assets/Dehydration_Risk_icon.png) [Dehydration Risk](./Dehydration%20Risk.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
 - ![Dehydrated icon](../assets/Dehydrated_icon.png) [Dehydrated](./Dehydrated.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
 - ![Hyperglycemic Risk icon](../assets/Hyperglycemic_Risk_icon.png) [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) - Administer [Insulin](./Insulin.md)
+
+<span id="list_of_passengers"></span><span id="List_of_Passengers"></span><span id="list-of-passengers"></span>
 
 ## List of Passengers
 
@@ -81,6 +89,8 @@ The North Star Charters Flight 7030 was carrying the following passengers when i
 - [V. Singh](./ID%20-%20V.%20Singh.md) -Deceased
 - [R. Tan](./ID%20-%20R.%20Tan.md) -Deceased
 - The pilots and any others who made it to the Community hall and perished. Their remains were stored in the basement.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

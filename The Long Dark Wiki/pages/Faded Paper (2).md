@@ -30,6 +30,8 @@
 
 **Faded Paper** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found during the main mission [High Energy](./High%20Energy.md), pinned to a chalkboard inside the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), in a large room with 3 terminals before reaching [Atwood's](./Atwood.md) office.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Faded Paper**_
@@ -53,6 +55,8 @@ We will see.
 
 K.Rice  
  Project Manager
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -46,6 +46,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 For Interloper players, Porridge can be one of the most useful foods, as it has a decently high caloric value and provides the [Warming Up](./Warming%20Up.md) bonus. Furthermore, [Running River Oats](./Running%20River%20Oats.md) are relatively easy to obtain from kitchens.
 
+<span id="recipe"></span><span id="Recipe"></span>
+
 ## Recipe
 
 **Porridge**
@@ -64,6 +66,8 @@ For Interloper players, Porridge can be one of the most useful foods, as it has 
 **Item:** [Water (Potable)](./Water%20%28Potable%29.md)
 
 **Quantity:** 0.25 L
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

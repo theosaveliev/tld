@@ -30,6 +30,8 @@
 
 Currently, the collectible serves no additional purpose during [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Town of Milton**_
@@ -38,8 +40,10 @@ Founded in 1911 during the early rush to mine coal in the surrounding mountains,
 
 This decline was exaggerated even more in the Post-Collapse economic environment, where very few travelers or resource workers had reason to visit Great Bear. Eventually, apart from a few stalwarts and old-timers with deep roots in the area, Milton became, for all intents and purposes, a ghost town.
 
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
+
 ## Game History
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
   - Added to game.

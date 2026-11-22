@@ -38,9 +38,13 @@
 
 The **Baseball Cap** is a type of hat that can be found in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Baseball Cap is a simple black and white hat that can commonly be found in many locations.
+
+<span id="usefulness"></span><span id="Usefulness"></span>
 
 ### Usefulness
 
@@ -55,6 +59,8 @@ Wearing it is better than nothing though, as it at least prevents [Frostbite](./
 ![the old 3d model was curled up](../assets/Baseball_Cap_Model_old.jpg)
 
 ![Current 3d model is not squished](../assets/Baseball_Cap_3d_model_current.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

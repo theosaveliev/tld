@@ -13,7 +13,7 @@
 
 [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png)
 
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
 
 **Wintermute:** No
 
@@ -43,21 +43,29 @@ _For the version encountered during the event [4 Days of Night](./4%20Days%20of%
 
 **Chocolate Bar**, sometimes labeled in game as **Candy Bar**, is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming a chocolate bar provides up to 250 calories of [energy](./Hunger.md), and [dehydrates](./Thirst.md) by a small amount. Like other packaged food and drink, it is most commonly found inside houses, shops, [vehicles](./Vehicle.md) and on [frozen corpses](./Frozen%20Corpse.md). The chocolate bar weights a mere 0.10 kg making its energy density high at 2,500 calories per kilogram.
 
 Chocolate Bars can cause [Food Poisoning](./Food%20Poisoning.md) even when in relatively decent condition, but [decay](./Decay.md) very slowly, especially when outdoors.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 The back of a Candy Bar lists "Ingredients: Chocolate, Almonds, Sugar, Salt, Natural Flavours."
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![Old model called "Candy Bar"](../assets/Candy_bar.png)
 
 ![Chocolate bar labeled as "Candy Bar" in game](../assets/Candy_Bar.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

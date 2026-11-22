@@ -20,6 +20,8 @@ Region
 
 **Type:** Industrial
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Foreman's Clearcut with Blackrock Mountain looming in the background](../assets/Foreman%27s_Clearcut.jpg)

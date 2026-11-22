@@ -36,6 +36,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The Down Bedroll weighs 0.10 kg more than a regular [Bedroll](./Bedroll.md) and is harder to repair, requiring [Ptarmigan Down](./Ptarmigan%20Down.md) in addition to [Cloth](./Cloth.md), but is also significantly warmer, making it a good alternative to the regular Bedroll.
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 The Improvised Down Bedroll takes an ordinary [Bedroll](./Bedroll.md) and stuffs it full of Ptarmigan Down feathers, resulting in a base warmth increase of the Bedroll by 3°C at 100% (for a total of 8°C). The weight of the Bedroll also increases, from 1 kg to 1.1 kg.
@@ -65,6 +67,8 @@ Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted 
 **Item:** [Bedroll](./Bedroll.md)
 
 **Quantity:** 1
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 

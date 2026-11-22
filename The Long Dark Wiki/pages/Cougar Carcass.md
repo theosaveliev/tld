@@ -18,14 +18,16 @@
 
  A **Cougar Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Cougar](./Cougar.md). A Cougar Carcass always produces 3 [Crow Feathers](./Crow%20Feather.md) from passing [Crows](./Crow.md).
 
+<span id="drops"></span><span id="Drops"></span>
+
 ## Drops
 
 A Cougar is a fierce and dangerous foe to hunt, but killing one will produce a Cougar Carcass, which can be harvested to obtain the following items:
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) | 4 | Always[¹](#fn1) |
-| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always[²](#fn2) |
+| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) | 4 | Always<span id="fnref1"></span>[¹](#fn1) |
+| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always<span id="fnref2"></span>[²](#fn2) |
 | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
@@ -37,13 +39,21 @@ The Cougar Claw is harvested automatically when Harvesting Cougar Hide/Quarterin
 
 Killing Cougars grants unique rewards: Cougar Hide (for crafting [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md)) and Cougar Claw (for crafting [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)), as well as Cougar Meat.
 
+<span id="preplaced_locations"></span><span id="Preplaced_Locations"></span><span id="preplaced-locations"></span>
+
 ## Preplaced Locations
 
 Cougar Carcasses are never found preplaced in the world, and are only produced after killing a Cougar.
+
+<span id="gallery"></span><span id="Gallery"></span>
+
+## Gallery
+
+<span id="footnotes"></span>
 
 ## Notes
 
 ---
 
-1. If carcass is harvested[↩︎](#fnref1)
-2. If carcass is quartered.[↩︎](#fnref2)
+1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
+2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)

@@ -36,6 +36,8 @@
 
 The **Sweatshirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A common starting item, the **sweatshirt** has similar, but slightly better stats than the [Hoodie](./Hoodie.md) due to its slightly better wind-proof bonus. However, it is still not very warm, and its wind-proofing is useless if anything is worn over it. As a result, it should be replaced as soon as possible with something warmer.

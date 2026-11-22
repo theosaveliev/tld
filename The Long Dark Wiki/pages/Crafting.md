@@ -19,6 +19,8 @@
 
 _For cooking recipes crafted at cooking stations, see [Cooking#Frontier Cooking Recipes](./Cooking.md#Frontier_Cooking_Recipes)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 **Crafting** is a menu in _[The Long Dark](./The%20Long%20Dark.md)_ found within the [Survival Menu](./Survival%20Menu.md). It can be accessed by the default hotkey "K" or from the hammer and anvil icon at the top of the game menu.
@@ -40,11 +42,15 @@ Below the blueprints are 6 submenus allowing you to filter for specific creation
 - [Active Fire](./Fire.md)
 - [Furniture Workbench](./Furniture%20Workbench.md)
 
+<span id="blueprint_availability"></span><span id="Blueprint_Availability"></span><span id="blueprint-availability"></span>
+
 ## Blueprint Availability
 
 Some items in [Wintermute](./Wintermute.md) Episodes require finding their blueprints in order to craft, and are usually unlocked when progressing through the story and completing side missions. Other Blueprints are not available in Wintermute at all.
 
 Survival Mode has all blueprints unlocked from the start except for the [Noisemaker](./Noisemaker.md) blueprint, which is unlocked when one is found in game.
+
+<span id="list_of_blueprints"></span><span id="List_of_Blueprints"></span><span id="list-of-blueprints"></span>
 
 ## List of Blueprints
 
@@ -52,6 +58,8 @@ Crafting duration times varies widely depending some factors:
 
 - Some items can be crafted faster at a Work Bench by using [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md).
 - Using a more refined version of a tool i.e. [Hunting Knife](./Hunting%20Knife.md)/[Sewing Kit](./Sewing%20Kit.md) vs [Improvised Knife](./Improvised%20Knife.md)/[Fishing Tackle](./Fishing%20Tackle.md) will get crafting done much faster - providing up to a 50% time discount.
+
+<span id="anywhere"></span><span id="Anywhere"></span>
 
 ### Anywhere
 
@@ -85,11 +93,15 @@ Crafting duration times varies widely depending some factors:
 | 2x[Tinder Plug icon](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | 1x[Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md) | 5 Min | None |
 | [Torch icon](../assets/Torch_icon.png) [Torch](./Torch.md) | - 3x[Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md)<br>- 1x[Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md)<br>- 0.10Lx[Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) | 15 Min | None |
 
+<span id="active_fire"></span><span id="Active_Fire"></span><span id="active-fire"></span>
+
 ### [Active Fire](./Fire.md)
 
 | Recipe | Ingredients | Time | Tools Needed |
 | --- | --- | --- | --- |
 | 3x[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | - 5x[Stick icon](../assets/Stick_icon.png) [Stick](./Stick.md)<br>- 5x[Crow Feather icon](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) | 22 to 45 Min | - [Hunting Knife icon](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)<br>- [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)<br>- [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)<br>- [Hatchet icon](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)<br>- [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
+
+<span id="work_bench"></span><span id="Work_Bench"></span><span id="work-bench"></span>
 
 ### [Work Bench](./Work%20Bench.md)
 
@@ -124,6 +136,8 @@ Crafting duration times varies widely depending some factors:
 | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) [Wolfskin Pants](./Wolfskin%20Pants.md) (requires [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md)) | - 4x[Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>- 3x[Cured Gut icon](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 29 hours | - [Hunting Knife icon](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)<br>- [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)<br>- [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)<br>- [Survival Knife icon](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md)<br>- [Hatchet icon](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)<br>- [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
 | [Noisemaker icon](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) (Wintermute [EP4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) only) | - 1x[Recycled Can icon](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md)<br>- 1x[Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md)<br>- 0.10kg x[Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 30 Min | None |
 
+<span id="forge"></span><span id="Forge"></span>
+
 ### [Forge](./Forge.md)
 
 | Recipe | Materials | Time | Tools Needed |
@@ -134,6 +148,8 @@ Crafting duration times varies widely depending some factors:
 | [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 3x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 1x [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 3 Hours | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
 | [Spear Head icon](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute [EP2](./Episode%202%20-%20Luminance%20Fugue.md) Only) | 2x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour 30 Min | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
 
+<span id="ammunition_work_bench"></span><span id="Ammunition_Work_Bench"></span><span id="ammunition-work-bench"></span>
+
 ### [Ammunition Work Bench](./Ammunition%20Work%20Bench.md)
 
 | Recipe | Materials | Time |
@@ -143,11 +159,15 @@ Crafting duration times varies widely depending some factors:
 | [Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md) | - 1x[Bullet icon](../assets/Bullet_icon.png) [Bullet](./Bullet.md)<br>- 1x[Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) [Rifle Shell Casing](./Rifle%20Shell%20Casing.md)<br>- 0.01kg x[Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 Min |
 | [Noisemaker icon](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) ([Survival Mode](./Survival%20Mode.md) only) | - 1x[Recycled Can icon](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md)<br>- 1x[Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md)<br>- 0.10kg x[Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 30 Min |
 
+<span id="ammunition_forge"></span><span id="Ammunition_Forge"></span><span id="ammunition-forge"></span>
+
 ### [Ammunition Forge](./Ammunition%20Forge.md)
 
 | Recipe | Materials | Time |
 | --- | --- | --- |
 | 6x[Bullet icon](../assets/Bullet_icon.png) [Bullet](./Bullet.md) | 1x [Scrap Lead icon](../assets/Scrap_Lead_icon.png) [Scrap Lead](./Scrap%20Lead.md) | 1 Hour |
+
+<span id="furniture_workbench"></span><span id="Furniture_Workbench"></span><span id="furniture-workbench"></span>
 
 ### [Furniture Workbench](./Furniture%20Workbench.md)
 

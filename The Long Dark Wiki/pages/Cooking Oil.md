@@ -52,6 +52,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cooking Oil** is an inedible [ingredient](./Food%20And%20Drink.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="usage"></span><span id="Usage"></span>
+
 ## Usage
 
 The basic use for Cooking Oil is creation of various recipes. They are often found inside kitchens and pantries out in the open. Also it can be crafted via the Cooking menu (Skill Level 1) from Animal Fat that drops while harvesting carcasses.
@@ -60,9 +62,13 @@ Cooking Oil is composed of 0.75 L of Oil, and each recipe that requires it needs
 
 As with other ingredients stored in a container (such as [Lantern Fuel](./Lantern%20Fuel.md) and [Water](./Water%20%28Potable%29.md)) the glass jar the oil is contained in generates automatically when Cooking Oil is produced, and disappears when the oil is used up. It is not possible to divide Cooking Oil into smaller portions.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 Cooking Oil was originally measured in Spoonfuls, with one Cooking Oil having 15 Spoonfuls. This measurement changed to just weight in a subsequent update.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -90,6 +96,8 @@ Cooking Oil can be produced in a [Cooking Pot](./Cooking%20Pot.md) or [Cooking S
 
 **Quantity:** 1.00 kg
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
@@ -109,6 +117,8 @@ Cooking Oil can be produced in a [Cooking Pot](./Cooking%20Pot.md) or [Cooking S
 | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

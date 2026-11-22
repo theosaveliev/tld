@@ -16,11 +16,15 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The peak lies near its western counterpart. At the top of the peak is some [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), and a nice view of the [Echo Ravine](./Echo%20Ravine.md). At the bottom of the peak is a [bear](./Bear.md) cave.
 
 The plastic container in the shallow cave at the top may contain a polaroid.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -28,6 +28,8 @@
 
 **Interview Transcript 14** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the Tale progresses.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Interview Transcript 14**_
@@ -47,6 +49,8 @@ Wha...what do you think when you’re that little? Always wondered why it was th
 Q: Focus on the ending, the final frame.
 
 A: They lost me...just a little kid.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

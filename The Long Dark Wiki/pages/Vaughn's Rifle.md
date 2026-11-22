@@ -49,11 +49,15 @@
 
 **Vaughn's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Vaughn's Rifle trades durability for a lighter weight and responsiveness. Weighing 1.0kg less than the standard Hunting Rifle and featuring shortened firing delays on reload and aim, this rifle variant has much snappier handling and a slightly faster fire rate overall. The downside is that each shot uses 2% condition, compared to the normal rifle consuming 1.325% condition per use. This means the gun can only fire up to 50 shots from full condition before breaking.
 
 Successful hits on live animals provide experience to the [Rifle Firearm](./Rifle%20Firearm.md) skill.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -66,12 +70,16 @@ Vaughn's Rifle will spawn a single time per world in various states of repair ne
   - Inside the pipes at on the dam platform near the exit door to the dam in. It may be behind pallets that need to be broken down.
   - In the small cave to the west at the base of the dam in [Winding River](./Winding%20River.md).
 
+<span id="differences_from_hunting_rifle"></span><span id="Differences_from_Hunting_Rifle"></span><span id="differences-from-hunting-rifle"></span>
+
 ## Differences from Hunting Rifle
 
 - Base weight is 1.0 kg less than Hunting Rifle
 - Firing rate is 1.0 second quicker per shot than Hunting Rifle
 - Reload cool-down is 0.5 seconds quicker than Hunting Rifle
 - Total durability is 33% less than Hunting Rifle (Uses 2%-1% condition per shot based on [Rifle Skill](./Rifle%20Firearm.md))
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -81,6 +89,8 @@ Vaughn's Rifle will spawn a single time per world in various states of repair ne
 - Vaughn, the rifle's owner, is mentioned in the [Buffer Memories](./Buffer%20Memories.md) located inside the hydro electric dam. He was one of the 6 skeleton crew workers at the Dam and likely left his rifle behind after the Dam was abandoned (along with all the other technology inside) due to the hostilities with the [Forest Talkers](./Forest%20Talkers.md) in the 1990s ([Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md)).
   - The reason the rifle is sometimes found outside the Dam in Winding River is also explained in the Buffer Memories, as Vaughn often wandered outside the Dam without permission.
 - Vaughn's Rifle most likely bases its appearance off the early Pre-Alpha hunting rifle model. The tape stock seems to be borrowed off the [second hunting rifle](./Hunting%20Lodge%20Rifle.md) found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), pre [Wintermute](./Wintermute.md) redux update.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -101,6 +111,8 @@ Vaughn's Rifle will spawn a single time per world in various states of repair ne
 ![Vaughn's Rifle seems to borrow the tape from the original Wintermute hunting rifle](../assets/Hunting_Lodge_Rifle_icon.png)
 
 ![In game descripiton](../assets/Vaughn%27s_rifle.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

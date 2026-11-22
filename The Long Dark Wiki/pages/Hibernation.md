@@ -4,6 +4,8 @@
 
 **Hibernation** is a community term (similar to [Mountain Goating](./Mountain%20Goating.md) and [Daisy Chaining](./Daisy%20Chaining.md)) used to describe any course of actions that combine benefits taken from [condition](./Condition.md) drain when [needs](./Needs.md) are not met with restoring condition by satisfying needs briefly while [sleeping](./Sleep.md). Primarily, it is a method to conserve limited resources.
 
+<span id="rationale"></span><span id="Rationale"></span>
+
 ## Rationale
 
 - Needs cannot be drained below zero. Once a need reaches zero fulfillment, it stays at zero until some satisfaction is again available.
@@ -14,9 +16,13 @@
 - Activity is difficult at night with no natural light, so most nights include sleeping.
 - Sleep often requires no resources. Satisfying needs usually does.
 
+<span id="example"></span><span id="Example"></span>
+
 ## Example
 
 2800 calories would be consumed during 14 hours harvesting carcasses. But if no calories are available (Hunger is empty), about 15% of condition would be drained instead. Only 750 calories are required during 10 hours of fully replenishing sleep (interloper difficulty). So eating only 750 calories prior to sleeping can maintain a character with only briefly lowered condition taken as a trade-off. This is a great reduction from the 3,550 calories that would have been required to keep hunger satisfied the whole day.
+
+<span id="origins"></span><span id="Origins"></span>
 
 ## Origins
 

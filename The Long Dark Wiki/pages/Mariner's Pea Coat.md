@@ -36,9 +36,13 @@
 
 The **Mariner's Pea Coat** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The mariner's pea coat is a high tier clothing item with good [warmth](./Warmth.md) and protection values but its drawback is its heavy weight and high expense to maintain.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -47,6 +51,8 @@ The mariner's pea coat is a high tier clothing item with good [warmth](./Warmth.
 ![Clothing model icon](../assets/Mariner%27s_Pea_Coat_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Mariner%27s_Pea_Coat_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

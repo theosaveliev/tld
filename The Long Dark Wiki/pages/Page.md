@@ -6,7 +6,7 @@
 
 [Page icon](../assets/Page_icon.png)
 
-**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)
 
 **Properties**
 
@@ -28,6 +28,8 @@
 
 **Page** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Blackrock](./Blackrock.md). It is inside [Blackrock Prison](./Blackrock%20Prison.md) inside the 2nd floor, under a desk in room no. 200.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Page**_
@@ -35,6 +37,8 @@ _The following text is transcribed from **Page**_
 Hard to believe we're getting more inmates this week. And in winter, besides. The talk is that the warden's going to open on C Block again. And guess who's going to have to requisition all we need to stock those cells? Yours truly. Should have never come out here. Debts or no debts this isn't living. It's just counting days.  
    
  Thank god I've got Timberwolf coming up. Even with the big storm coming, I can't wait to try the summit route again.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

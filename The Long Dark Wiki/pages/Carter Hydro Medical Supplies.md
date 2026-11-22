@@ -6,7 +6,7 @@
 
 [Carter Hydro Medical Supplies icon](../assets/Carter_Hydro_Medical_Supplies_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Wounded Trapper](./The%20Wounded%20Trapper.md)
 
@@ -30,5 +30,5 @@
 
 **Carter Hydro Medical Supplies** is a [Collectible](./Collectibles.md) in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). It is found within the [Medical Locker](./Medical%20Locker.md) on the admin floor of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), and requires the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) to unlock the locker.
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

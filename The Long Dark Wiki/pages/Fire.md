@@ -26,7 +26,7 @@
 - [Break Down](#break-down)
 - [Predators](#predators)
 
-\[Missing image: Fire\_icon.png\]
+[Missing image: Fire\_icon.png]
 
 _XTHUMB_
 
@@ -36,11 +36,15 @@ _XTHUMB_
 
 A **Fire** is a pile of burning fuel that has been lit using the [Fire Starting](./Fire%20Starting.md) [Survival Skill](./Skills.md). To make a fire, players need a starter, tinder (optional with Fire Starting skill 3), and fuel. Though optional, an [Accelerant](./Accelerant.md) or [Lantern Fuel](./Lantern%20Fuel.md) can also be used in an emergency to bypass the slow waiting time when first igniting fires in order to get a fire up and running quickly. Fires provide and restore [Warmth](./Warmth.md) to the player. Uncooked foods can be [cooked](./Cooking.md) directly on cooking slots near fires or on the ground nearby (in the case of canned foods), and snow can be melted and boiled into [potable water](./Water%20%28Potable%29.md).
 
+<span id="fire_starting"></span><span id="Fire_Starting"></span><span id="fire-starting"></span>
+
 ## Fire Starting
 
 _Main article: [Fire Starting](./Fire%20Starting.md)_
 
-To start a fire, players have to "use" an existing [firebox](#contained-fires) or [campfire](#campfires) and press the "Start Fire" hotkey. Players can also build a campfire using [Radial Menu](./Radial%20Menu.md) &gt; Campcraft &gt; Fire. The fire-starting interface presents four slots: an ignition source (starter), tinder, fuel, and accelerant (optional). At the top of the screen, the player's current fire starting skill, duration of fire, and the chance of success with the currently selected materials are displayed. Coal cannot be used to start a fire.
+To start a fire, players have to "use" an existing [firebox](#Contained_fires) or [campfire](#Campfires) and press the "Start Fire" hotkey. Players can also build a campfire using [Radial Menu](./Radial%20Menu.md) &gt; Campcraft &gt; Fire. The fire-starting interface presents four slots: an ignition source (starter), tinder, fuel, and accelerant (optional). At the top of the screen, the player's current fire starting skill, duration of fire, and the chance of success with the currently selected materials are displayed. Coal cannot be used to start a fire.
+
+<span id="types_of_fuel"></span><span id="Types_of_Fuel"></span><span id="types-of-fuel"></span>
 
 ## Types of Fuel
 
@@ -67,7 +71,11 @@ Burn times are increased with higher levels of the [Fire Starting](./Fire%20Star
 | [Reclaimed Wood](./Reclaimed%20Wood.md) | 30 mins | 33 mins | 37.5 mins | 45 mins |
 | [Stick](./Stick.md) | 7.5 mins | 8 mins | 9 mins | 11 mins |
 
+<span id="types_of_fires"></span><span id="Types_of_Fires"></span><span id="types-of-fires"></span>
+
 ## Types of Fires
+
+<span id="campfires"></span><span id="Campfires"></span>
 
 ### Campfires
 
@@ -76,6 +84,8 @@ Burn times are increased with higher levels of the [Fire Starting](./Fire%20Star
 _Main article: [Campfire](./Campfire.md)_
 
 A campfire is an open fire that can be placed into the world at the player's discretion. Players are limited in where fires can be placed, and campfires are subject to becoming [windblown](./Campfire.md#Windblown), depending on the weather. If the player has sufficient resources to start another fire, [burnt out](./Campfire.md#Burnt_out) campfires can be relit.
+
+<span id="contained_fires"></span><span id="Contained_fires"></span><span id="contained-fires"></span>
 
 ### Contained fires
 
@@ -94,7 +104,11 @@ A campfire is an open fire that can be placed into the world at the player's dis
 | [Rim Grill](./Rim%20Grill.md) | 2 | [Bleak Inlet](./Bleak%20Inlet.md) (inside a [Cabin](./Cabin.md)), [Indolent Hoppers](./Indolent%20Hoppers.md), [Pump House](./Pump%20House.md) |
 | [Stove](./Stove.md) | 6 | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), [Community Hall](./Community%20Hall.md), [Hunting Lodge](./Hunting%20Lodge.md), [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Fallen Lighthouse](./Fallen%20Lighthouse.md), [Idle Camp](./Idle%20Camp.md) |
 
+<span id="fire_mechanics"></span><span id="Fire_Mechanics"></span><span id="fire-mechanics"></span>
+
 ## Fire Mechanics
+
+<span id="fire_duration"></span><span id="Fire_duration"></span><span id="fire-duration"></span>
 
 ### Fire duration
 
@@ -104,9 +118,13 @@ Fire duration is calculated from the moment the fire was first lit, so a fire st
 
 Wind can seriously dampen campfire duration, reducing it to only 9 minutes, regardless of how much duration it had left See campfires (above).
 
+<span id="embers"></span><span id="Embers"></span>
+
 ### Embers
 
 When a fire's duration reaches zero, it does not immediately go out. Rather, it lingers on in a state called embers. How long the embers last will not be visible. Typically embers burn out within 5 minutes, but they may last up to 10 minutes. Embers remain as hot as the original fire. They can be even be used to complete cooking or processing water.
+
+<span id="fire_temperature"></span><span id="Fire_temperature"></span><span id="fire-temperature"></span>
 
 ### Fire temperature
 
@@ -114,35 +132,51 @@ In Pilgrim and Voyageur difficulties, being next to any fire prevents the charac
 
 The [Forge](./Forge.md) has a unique temperature cap of 200°C that only pertains to coal.
 
+<span id="outdoor_fire_bonus"></span><span id="Outdoor_fire_bonus"></span><span id="outdoor-fire-bonus"></span>
+
 ### Outdoor fire bonus
 
 Fires that are started in outdoor locations offer an outdoor fire bonus. This means that the Duration listed on the fire is inaccurate, and the fire will actually last up to 100% longer depending on the temperature. Colder temperatures will yield a longer-lasting fire, up until the bonus caps at -30°C, starting at -10°C. The bonus is determined based on air temperature (before factoring in the fire) at the survivor's position, meaning that if you go inside your outdoor fire will no longer receive the outdoor fire bonus. Even fires in pseudo-indoor areas like Mountaineer's Hut receive the burn duration bonus.
 
 In regards to fire bonus, outdoor caves have a line separating the warm and cold sections. Standing at the back of the cave, a fire will receive a reduced bonus, down to 0% if the air temperature in the back of the cave reaches positive values. Utilizing this bonus, you can use significantly less wood to keep an overnight fire burning in a cave by standing in the cold section of the cave when interacting with your bedroll. Note that you will be subjected to the colder outdoor cave temperatures during your sleep, so consider your fire temperature accordingly.
 
+<span id="adding_coal"></span><span id="Adding_Coal"></span><span id="adding-coal"></span>
+
 ### Adding Coal
 
 ![Coal icon](../assets/Coal_icon.png) [Coal](./Coal.md) cannot be used to start a fire. It can only be burnt in an already active fire. Coal is an important component for forging as it is the only fuel that can raise the fire temperature above 80°C (only at a forge). When coal is added to the [furnace](./Furnace.md), it is not restricted by the 12-hour fuel cap and can be added repeatedly. The temperature will rise for each coal added, up to the furnace temperature cap of 200°C, though the time cap stands, and any burn duration in excess of 12 hours is lost.
+
+<span id="fire_menu"></span><span id="Fire_Menu"></span><span id="fire-menu"></span>
 
 ## Fire Menu
 
 ![The 5 options that appear during an active fire.](../assets/Fire_menu.jpg)_The 5 options that appear during an active fire._ A successful [Fire Starting](./Fire%20Starting.md) attempt will result in an active fire. Interacting with the active fire will result in 5 options appearing in regards to the active fire.
 
+<span id="start_fire"></span><span id="Start_Fire"></span><span id="start-fire"></span>
+
 ### Start Fire
 
 The fire starting portion if a fire. The option to take charcoal is also present in this menu.
+
+<span id="add_fuel"></span><span id="Add_Fuel"></span><span id="add-fuel"></span>
 
 ### Add Fuel
 
 Adding more fuel will both keep a fire alive for longer and raise the active temperature around it.
 
+<span id="taking_torches"></span><span id="Taking_Torches"></span><span id="taking-torches"></span>
+
 ### Taking Torches
 
 ![Torch icon](../assets/Torch_icon.png) A [Torch](./Torch.md) can be taken out of any active fire, regardless of what material was used to create it, by activating the button on the bottom right, which reduces the fire by 10 minutes duration and 1°C and exits the fire page with the torch in hand. The "Take Torch" button only appears when a fire has at least 10 minutes of duration remaining. Torches taken from fire will have 25-50% condition and can be extinguished right away for later use. Torches can also be used as fuel for the fire, but taken torches will not fully refund the amount of fuel time lost.
 
+<span id="place"></span><span id="Place"></span>
+
 ### Place
 
 The Place menu option allows any cooking container/canned goods/teas in the player's inventory to be directly placed onto any cooking slot of the fire without having to manually go into the inventory and manually place cooking containers into the game world. The player can then select which item they want placed onto the firebox. If all cooking slots are already occupied, this option will not do anything.
+
+<span id="water"></span><span id="Water"></span>
 
 ### Water
 
@@ -163,17 +197,25 @@ Higher levels of [Cooking](./Cooking.md) Skill reduce both melting and boiling t
 - Level 4 Cooking times reduced by 20%
 - Level 5 Cooking times reduced by 30%
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ### Crafting
 
 A unique crafting menu, Fire Crafting, is only accessible at an active fire. At present, only one recipe is available to craft at an active fire, [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md).
+
+<span id="take_charcoal"></span><span id="Take_Charcoal"></span><span id="take-charcoal"></span>
 
 ### Take Charcoal
 
 This option appears only at inactive fireboxes, and is used to take Charcoal from the fire for personal use.
 
+<span id="break_down"></span><span id="Break_Down"></span><span id="break-down"></span>
+
 ### Break Down
 
 This option only appears at an inactive Campfire, and is used to remove the object from the game world. Any items not taken from the Campfire will be returned to the player's inventory, such as cooking containers and Charcoal.
+
+<span id="predators"></span><span id="Predators"></span>
 
 ## Predators
 

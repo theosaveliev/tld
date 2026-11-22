@@ -47,9 +47,13 @@ Harvest
 
 10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Metal shelves can be harvested for their [Scrap Metal](./Scrap%20Metal.md) with a [Hacksaw](./Hacksaw.md). Metal shelves are very common and can have a large variety of loot on them and may hold containers on each shelf. They are most common in industrial locations but can be found in other locations such as mines and [Prepper Caches](./Prepper%20Cache.md), as well.
+
+<span id="sizes"></span><span id="Sizes"></span>
 
 ## Sizes
 
@@ -60,6 +64,8 @@ There are 5 different sizes of metal shelves.
 - Small-sized metal shelves have 3 or 4 shelf levels while being half as wide as medium shelves.
 - Large shelves have 4 levels of shelves.
 - Extra Large shelves also have 4 rows but are wider than medium shelves.
+
+<span id="harvesting"></span><span id="Harvesting"></span>
 
 ## Harvesting
 
@@ -74,6 +80,8 @@ Most metal shelves may be harvested for scrap metal; however, it is most efficie
 | Small | 6 | 135 minutes | 562 | -5% |
 | Large | 8 | 180 minutes | 750 | -5% |
 | Extra Large | 10 | 210 minutes | 875 | -5% |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

@@ -16,9 +16,13 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The cave provides a 10°C warmth bonus. Inside there may be a [Frozen Corpse](./Frozen%20Corpse.md) with loot. It can be a possible [Safe House](./Safehouse.md) location as it acts like an indoor area, and allows [Curing](./Curing.md) of hides and guts inside.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

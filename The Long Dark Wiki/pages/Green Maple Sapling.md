@@ -6,7 +6,7 @@
 
 [Green Maple Sapling icon](../assets/Green_Maple_Sapling_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** Yes (Bug?)
 
@@ -44,6 +44,8 @@ Both Green and Cured Maple Saplings do not [Decay](./Decay.md), and will always 
 
 Green Maple Saplings can be found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in the [Forlorn Muskeg](./Forlorn%20Muskeg.md) on the way to the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md), as well as in [Broken Railroad](./Broken%20Railroad.md). It is not currently known if this is intended.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Maple sapling as it appears on the map](../assets/Maple_sapling.jpg)
@@ -53,6 +55,8 @@ _Maple sapling as it appears on the [map](./Map.md)_
 ![A growing maple sapling.](../assets/Maple_sapling_growing.png)
 
 ![Old model.](../assets/Green_Maple_Sapling.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

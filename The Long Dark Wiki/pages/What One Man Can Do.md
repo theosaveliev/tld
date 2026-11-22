@@ -30,10 +30,14 @@ A body with the [Torn Paper](./Torn%20Paper.md) note can be found halfway throug
 
 Mackenzie ultimately succeeds in finding the spear and killing the beast, lamenting that he had to put down "such a majestic creature" but that "this new world makes murderers of us all".
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Search the cave for your Bear Spear.
 - Kill the Old Bear.
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 
@@ -41,6 +45,8 @@ Mackenzie ultimately succeeds in finding the spear and killing the beast, lament
 - At the end of the mission, the player will spawn outside of the trapper's cabin with no way to re-enter. All items that were stored or dropped inside the cabin will be subsequently returned to the player's inventory. Players may want to consider moving stored items to another location prior to beginning this mission, in order to avoid being encumbered.
 - Unlike the pre-redux version of Wintermute, the Old Bear cannot be harvested upon death. Killing the bear, triggers an immediate cutscene, removing the player from the area.
 - You will lose everything in your backpack from being dragged and thrown about by the bear. Your belongings will be returned after the bear is killed.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

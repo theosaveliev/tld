@@ -41,6 +41,8 @@
 
 **Astrid's Boots** are a [Clothing](./Clothing.md) item worn on the player's outer feet obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Astrid's boots are equipped as default clothing when the player regains consciousness after being saved by [Molly](./Molly.md) from dying of exposure during [Trauma](./Trauma.md), the first chapter of [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). They can not be acquired in Survival Mode, nor at any later stage in the [Story](./Wintermute.md).
@@ -51,7 +53,9 @@ The statistics of Astrid's boots are identical to those of [Trail Boots](./Trail
 
 ![Clothing model icon](../assets/Astrid%27s_Boots_Model_Damaged_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game

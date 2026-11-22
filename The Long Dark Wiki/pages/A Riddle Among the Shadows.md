@@ -27,10 +27,14 @@ Episode
 
 This quest corresponds to a cache locked behind a combination lock found on Floor 1 of the [Last Prospect](./Last%20Prospect.md) mine near the entrance and near a [Receiver](./Receiver.md). The quest begins after picking up all 3 Forest Talker notes in the mine. You will get a document called "[Forest Talker Letter](./Forest%20Talker%20Letter.md)."
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
-- Look for clues to open the locked cache. \[0/3\]
+- Look for clues to open the locked cache. [0/3]
 - Solve the riddles and unlock the cache padlock.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -39,6 +43,8 @@ It has 3 clues:
 - Last number is 18
 - One of the numbers involves a light system on the second floor. Find the Marker to see the light
 - One of the numbers is connected to the yellow markings found on some of the signs
+
+<span id="clue_2"></span><span id="Clue_2"></span><span id="clue-2"></span>
 
 ### Clue 2
 
@@ -49,6 +55,8 @@ Clue two is found on floor 2, in the area where there's a bed and 3 lockers. It'
 ![riddle among shadows - clue 2 flash](../assets/2nd_floor_light_system_clue_-_flashes_7_times.jpg)
 
 ![mines floor 2 - main room](../assets/2nd_floor_room.jpg)
+
+<span id="clue_3"></span><span id="Clue_3"></span><span id="clue-3"></span>
 
 #### Clue 3
 
@@ -68,15 +76,23 @@ Clue three is found on 5-6 signs on the 2nd and 1st floors. Presumably you've gr
 
 ![supply cache](../assets/Riddle_Among_the_shadows_-_Supply_cache.jpg)
 
+<span id="combination"></span><span id="Combination"></span>
+
 #### Combination
 
 Eventually you will reach the area with the phone and it will ring. Walking past it you will see a wooden structure with a square marked on its face. This is the door with the combination lock. Put in the combination to unlock the cache.
 
+<span id="section"></span><span id="12-07-18"></span>
+
 ##### 12-07-18
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 
 Once you find all of the notes, you can pick the lock without knowing the combination, similar to opening a [safe](./Safe.md).
+
+<span id="transcript"></span><span id="Transcript"></span>
 
 ## Transcript
 

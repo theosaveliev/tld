@@ -36,4 +36,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Map** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Port Remnant](./Port%20Remnant.md) at the [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) near the [Desecrated Church](./Desecrated%20Church.md). The map leads to the nearby [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md), and shows 2 waterfalls and a pathway into the mountains. Traveling close to the end of Track Section 5 and taking the path near the 2 waterfalls will eventually take the player to a hidden mountain path.
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ## Game history

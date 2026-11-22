@@ -44,11 +44,15 @@
 
 The **Bearskin Coat** is a type of craftable clothing in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Bearskin Coat is an extremely warm, but also heavy crafted torso clothing produced from 2 [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md). When worn it has a chance to frighten nearby [wolves](./Wolf.md) which detect the player.
 
 Bearskin Coats provides two more degrees of warmth than the rare [Expedition Parka](./Expedition%20Parka.md), but one less windproof; however the bearskin coat is more than three times heavier. In [Interloper](./Interloper.md) where the Expedition Parka cannot spawn, the Bearskin Coat is the warmest torso clothing available.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -68,15 +72,21 @@ Bearskin Coats provides two more degrees of warmth than the rare [Expedition Par
 
 **Quantity:** 2
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
 
 As of the [Hesitant Prospect Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md), a Bearskin Coat may spawn in [Ash Canyon](./Ash%20Canyon.md), along the path from [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) to the [Mining Camp](./Mining%20Camp.md). Does not spawn on Interloper.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![Clothing model](../assets/Bearskin_Coat_Model_icon.png)
 
 ![Clothing model damaged](../assets/Bearskin_Coat_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

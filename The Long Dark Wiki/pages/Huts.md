@@ -30,4 +30,6 @@ Has a bed
 
 Has an interior<br>**Huts** is a location in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview

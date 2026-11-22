@@ -51,11 +51,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Cooking Skillet** is a tool primarily used for melting snow, boiling water, and cooking food. They were introduced in the Part 3: Frontier Comforts update for players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, and are used for cooking advanced food Recipes.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A cooking skillet can hold up to 1.00 liters of liquid for melting snow or boiling water. This makes it inferior in this respect to the [Cooking Pot](./Cooking%20Pot.md) given it weighs the same. However, it does allow more recipes to be cooked compared to the pot.
 
 A cooking skillet will degrade by 5% if its contents are burned or boiled dry. The cooking skillet will not degrade in any other circumstances. If damaged, it can be repaired in 60 minutes with 1 unit of [Scrap Metal](./Scrap%20Metal.md) with [Simple Tools](./Simple%20Tools.md), increasing the item's condition by 30%. Alternatively, a cooking skillet can be harvested in 90 minutes for 1 unit of Scrap Metal with a [Hacksaw](./Hacksaw.md).
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -90,6 +94,8 @@ Examples of places that skillets are known to spawn on Interloper:
   - [Idle Camp](./Idle%20Camp.md)
 
 It is not guaranteed that every region will contain a skillet. Some regions, like [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md), may have no skillets in a given game.
+
+<span id="recipes"></span><span id="Recipes"></span>
 
 ## Recipes
 
@@ -129,6 +135,8 @@ These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Ca
 | [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) | [Pemmican Bar](./Pemmican%20Bar.md) (4) | 0.25 kg | 40 min | 5 |
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 0.20 kg | 80 min | 5 |
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

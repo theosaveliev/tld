@@ -22,6 +22,8 @@ Type
 
 Outdoors|-
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A [Frozen corpse](./Frozen%20Corpse.md) and a backpack can spawn in the area. This location is also a possible spawn point for the [Woodwright's Bow](./Woodwright%27s%20Bow.md) in all difficulties other than Interloper.

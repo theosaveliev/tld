@@ -6,7 +6,7 @@
 
 \[\[File:
 
-\[Missing image: SignalHill2.png\]
+[Missing image: SignalHill2.png]
 
 _Exterior_
 
@@ -40,6 +40,8 @@ Has a bed
 
 Has a workbench|-
 
+<span id="location_features"></span><span id="Location_features"></span><span id="location-features"></span>
+
 ## Location features
 
 Signal Hill can be accessed by trail either from the east or the west up the southern mountain.
@@ -59,9 +61,13 @@ Overall, Signal Hill is one of the best places to find high-tier loot in Pleasan
 - [Filing cabinets](./File%20Cabinet.md)
 - [Fire barrel](./Fire%20Barrel.md) (located outside next to shack)
 
+<span id="story"></span><span id="Story"></span>
+
 ## Story
 
 In the final chapter of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [Will Mackenzie](./Will%20Mackenzie.md) is following [Jeremiah](./Jeremiah.md)'s directions to Signal Hill, where he hopes to try to send a radio message to [Perseverance Mills](./Perseverance%20Mills.md) before continuing there on foot. Near the end of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md), Astrid must brave a blizzard to reach Signal Hill in the hope of finding a functional radio to contact [Perseverance Mills](./Perseverance%20Mills.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

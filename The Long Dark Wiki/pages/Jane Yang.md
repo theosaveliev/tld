@@ -17,7 +17,7 @@
 
 [Jane Yang](../assets/Jane_Yang.png)
 
-**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Date:** 6 October 2021
 
@@ -47,13 +47,21 @@
 
 **Jane Yang** a major character in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 An old friend of [Astrid Greenwood](./Astrid%20Greenwood.md), Jane is a resident of [Perseverance Mills](./Perseverance%20Mills.md) and a native of [Great Bear Island](./Great%20Bear%20Island.md). Astrid and Jane appear to have a deep friendship before the events of the game, with the freelance doctor willing to steal a guarded cure and chart a flight to Great Bear Island in order to save the few people of the mysterious plague stricken Mills.
 
+<span id="history_1"></span><span id="history-1"></span>
+
 ## History
 
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
+
 ### Episode 3
+
+<span id="fallen_star"></span><span id="Fallen_Star"></span><span id="fallen-star"></span>
 
 ### [Fallen Star](./Fallen%20Star.md)
 
@@ -67,7 +75,11 @@ During a flashback sequence showing Astrid working at Seraphim Sleep Research Ce
 
 Jane asks if Astrid is willing to speak to [Will Mackenzie](./Will%20Mackenzie.md) to chart a flight to the Island, but Astrid hesitantly states she hasn't asked him for help yet. Jane ends the phone call pleading with Astrid to hurry and help soon, stating that "I'm afraid we'll lose her this time". Astrid promises that that won't happen before the flashback ends.
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 ### Episode 4
+
+<span id="donner_mission"></span><span id="Donner_(mission)"></span><span id="donner_(mission)"></span><span id="donner-mission"></span>
 
 #### [Donner (mission)](./Donner%20%28mission%29.md)
 
@@ -75,9 +87,13 @@ Jane asks if Astrid is willing to speak to [Will Mackenzie](./Will%20Mackenzie.m
 
 She is seen briefly at the end of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) in her home town of Perseverance Mills. A quarantine is effecting the town, with Jane running to the docks when she notices two other residents of the town finding what she presumes is another victim of the illnesses afflicting the town. Jane is surprised and relieved to see Astrid has finally come to the town like she promised, but after searching her canoe and asking one of the residents to get the doctor some water, Jane is confused as to why Astrid doesn't have the [Hardcase](./Astrid%27s%20Hardcase.md) with her.
 
+<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+
 ### Episode 5
 
 Jane Yang will mostly likely make a major appearance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
+
+<span id="notes"></span><span id="Notes"></span>
 
 ## Notes
 

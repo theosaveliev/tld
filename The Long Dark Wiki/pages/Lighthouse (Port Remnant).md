@@ -36,6 +36,8 @@ Has a bed
 
 Has an interior **Lighthouse** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md), and is the first location visited when entering [Cauldron Island](./Cauldron%20Island.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A cave system is located below it, and is the location where the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) parks itself after leaving [Great Bear Island](./Great%20Bear%20Island.md). A makeshift shelter is located near the docks, with a [Bed](./Bed.md), [Trunk](./Trunk.md), and some tools are found inside (including 2 [Whale Oil Cans](./Whale%20Oil%20Can.md)), but the area is quite cold. A small cave past the docks gives way to a set of naturally cut stairs, leadi, revealing the inside of a ruined Lighthouse above.

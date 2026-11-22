@@ -28,6 +28,8 @@
 
 **Langston Mine Memo** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the [Pump House](./Pump%20House.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Langston Mine Memo**_
@@ -39,6 +41,8 @@ There’s a limit to what we can keep pumping into the ground here, even the way
 I’m not talking right and wrong here, just basic physics.
 
 It’s a dirty business.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

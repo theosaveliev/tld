@@ -19,7 +19,7 @@
 
 [Grey Mother](../assets/Grey_Mother.png)
 
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Date:** 1 August 2017
 
@@ -59,21 +59,31 @@
 
 **Grey Mother** is a major character that appears in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). She is the first NPC that [Will Mackenzie](./Will%20Mackenzie.md) encounters after his plane crashes, and the only remaining resident in the town of [Milton](./Milton.md).
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 Years before the events of _The Long Dark_, Grey Mother was married to a farmer named [Martin Barker](./Martin%20Barker.md). Together they had a daughter named [Lilith](./Lilith%20Barker.md). Tragedy struck when Lilith died in a climbing accident, and Grey Mother blamed her death on Martin, driving a wedge between them and causing them to live in separate homes. Things only got worse when the quakes devastated the island, and Grey Mother eventually became a recluse, abandoning the name of Barker and developing a reputation as a senile old blind lady.
 
 When the [First Flare](./First%20Flare.md) struck, she remained in her Milton home after the surviving residents were killed by [Convicts](./Convicts.md).
 
+<span id="episode_1_do_not_go_gentle"></span><span id="Episode_1:_Do_Not_Go_Gentle"></span><span id="episode_1:_do_not_go_gentle"></span><span id="episode-1-do-not-go-gentle"></span>
+
 ## Episode 1: Do Not Go Gentle
+
+<span id="the_crash"></span><span id="The_Crash"></span><span id="the-crash"></span>
 
 ### [The Crash](./The%20Crash.md)
 
 Grey Mother is first seen sleeping in a chair in front of her fireplace with a rifle. When Will Mackenzie tries to wake her up, she fires a warning shot. After a brief but tense standoff, the two have a conversation. Grey Mother makes it clear that she does not trust Will due to him being a "mainlander", but he begins to gain her trust after he gathers enough food and firewood for her to last the winter.
 
+<span id="the_grey_mother"></span><span id="The_Grey_Mother"></span><span id="the-grey-mother"></span>
+
 ### [The Grey Mother](./The%20Grey%20Mother.md)
 
 The two of them make a deal after Mackenzie gets enough food and fuel for the old woman: Grey Mother will tell him all she knows about the whereabouts of [Dr. Astrid Greenwood](./Astrid%20Greenwood.md) in exchange for a few favors. One of these favors includes scouting the main tunnel through the mountains outside Milton, the only way out of town besides climbing. When Will informs Grey Mother that the tunnel has collapsed, she is distraught, knowing that she is effectively trapped in Milton with no hope of rescue. As a result, she asks Will for one more favor: retrieve Lilith Barker's necklace from a safety deposit box at the bank and place it on her grave outside of town. After Will does this, Grey Mother tells him all she knows about Astrid. She also reveals that Lilith was her daughter and that she was once married to Martin Barker, the deceased farmer whose safety deposit box contained Lilith's necklace. She gives Will some old climbing gear that once belonged to Lilith, in order for him to make his way out of Milton.
+
+<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
 
 ### [Paradise Lost](./Paradise%20Lost.md)
 
@@ -83,18 +93,26 @@ Before Mackeznie leaves Milton, he has a chance to right a wrong from the past i
 
 After Will leaves Milton, she is not seen again.
 
+<span id="episode_3_crossroads_elegy"></span><span id="Episode_3:_Crossroads_Elegy"></span><span id="episode_3:_crossroads_elegy"></span><span id="episode-3-crossroads-elegy"></span>
+
 ## Episode 3: Crossroads Elegy
 
 Grey Mother does not appear in this episode, but appears during the intro story recap talking about [Perseverance Mills](./Perseverance%20Mills.md).
+
+<span id="episode_5_the_light_at_the_end_of_all_things"></span><span id="Episode_5:_The_Light_At_The_End_Of_All_Things"></span><span id="episode_5:_the_light_at_the_end_of_all_things"></span><span id="episode-5-the-light-at-the-end-of-all-things"></span>
 
 ## Episode 5: The Light At The End Of All Things
 
 Grey Mother seemingly passed away in her home in the time since MacKenzie left Milton. At the end of the episode, MacKenzie is seen carrying her corpse, wrapped in a blanket, from her house to the [Graveyard](./Graveyard.md), where she is cremated on a pyre. He erects a wooden cross with the name "Grey Mother" written on it next to [Lily's](./Lilith%20Barker.md) grave.
 
+<span id="achievements"></span><span id="Achievements"></span>
+
 ## Achievements
 
 - ![The Long Winter icon](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
 - ![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -114,25 +132,27 @@ _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%2
 
 ![Grey Mother's Cut Trust menu](../assets/GreyMotherTrustOutdated.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.46)):**
-  - \[WINTERMUTE\] Fixed issue causing Grey Mother to float if a Deer Hide was placed under her chair.
+- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.46)):**
+  - [WINTERMUTE] Fixed issue causing Grey Mother to float if a Deer Hide was placed under her chair.
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.27)):**
-  - \[Wintermute\] Players can now transfer stacked items to Grey Mother during a Trust interaction.
-  - \[Wintermute\] Improved Fire audio during Grey Mother cinematics in Episode One.
-  - \[Wintermute\] Fixed issue where a chair would appear incorrectly during a Grey Mother cinematic.
-  - \[Wintermute\] Fixed collision issue that allowed Will to partially walk through Grey Mother's rocking chair.
-  - \[Wintermute\] Players can no longer place a Storm Lantern on Grey Mother's head.
-  - \[Wintermute\] Fixed issue where inventory items could be lost after cancelling out of a Trust interaction with Grey Mother.
-  - \[Wintermute\] Fixed issue where player would sometimes be standing on a chair after finishing dialogue with Grey Mother.
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+  - [Wintermute] Players can now transfer stacked items to Grey Mother during a Trust interaction.
+  - [Wintermute] Improved Fire audio during Grey Mother cinematics in Episode One.
+  - [Wintermute] Fixed issue where a chair would appear incorrectly during a Grey Mother cinematic.
+  - [Wintermute] Fixed collision issue that allowed Will to partially walk through Grey Mother's rocking chair.
+  - [Wintermute] Players can no longer place a Storm Lantern on Grey Mother's head.
+  - [Wintermute] Fixed issue where inventory items could be lost after cancelling out of a Trust interaction with Grey Mother.
+  - [Wintermute] Fixed issue where player would sometimes be standing on a chair after finishing dialogue with Grey Mother.
 
-- HOTFIX **23 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.12)):**
+- HOTFIX **23 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.12)):**
   - Fixed issue where duplicate Trust option appeared for Grey Mother.
 
-- HOTFIX **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.01)):**
+- HOTFIX **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.01)):**
   - Fixed floating necklace when speaking with Grey Mother
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

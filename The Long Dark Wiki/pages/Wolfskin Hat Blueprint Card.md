@@ -32,6 +32,8 @@
 
 **Wolfskin Hat Blueprint Card** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is acquired from a trade from the [Trader](./Trader.md) and unlocks the ability to craft a [Wolfskin Hat](./Wolfskin%20Hat.md) at a [Work Bench](./Work%20Bench.md).
 
+<span id="trade"></span><span id="Trade"></span>
+
 ## Trade
 
 This item sometimes appears as a potential trade, and costs:
@@ -39,5 +41,7 @@ This item sometimes appears as a potential trade, and costs:
 - 3.00 L [Lantern Fuel](./Lantern%20Fuel.md)
 - 1 [Car Battery](./Car%20Battery.md)
 - 8 [Cloth](./Cloth.md)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

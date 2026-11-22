@@ -26,11 +26,15 @@
 
 > “**A broken Fire Hardened Arrow. Harvesting these crude weapons may yield some feathers, but nothing more.**”
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A **Broken Fire Hardened Arrow** a broken version of a [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) that has become too badly damaged to function. Unlike [Broken Arrows](./Broken%20Arrow.md), Broken Fire Hardened Arrows are not found in the game world. They can be harvested for 1 [Crow Feather](./Crow%20Feather.md) in 5 minutes. Curiously, they weigh 0.05 Kg more than their unbroken counterparts.
 
 ![All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

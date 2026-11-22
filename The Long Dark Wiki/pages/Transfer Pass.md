@@ -56,6 +56,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 Transfer Pass is set-up as a ''hub'' region, connecting to all other regions in the Far Territory. It connects to [Broken Railroad](./Broken%20Railroad.md) via the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), to [Forsaken Airfield](./Forsaken%20Airfield.md) via a mountain road, to the [Zone of Contamination](./Zone%20of%20Contamination.md) further along the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md), and to [Sundered Pass](./Sundered%20Pass.md) up north on the road after bypassing a collapsed tunnel.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Getting its name for originally being a hub for miners flown in from [Field 31](./Field%2031.md) waiting to be shipped to the [Zone of Contamination](./Zone%20of%20Contamination.md), Transfer Pass is a relatively small yet linear region located within the Far Territory of [Great Bear](./Great%20Bear%20Island.md). It serves as the "starting hub" for the deeper regions of the Far Territory. The region features a variety of terrains and is centered around the heavily damaged and decaying [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), with an abandoned train station, coal tipple, and water tower near the center.
@@ -66,6 +68,8 @@ The [Weather](./Weather.md) is comparable to other Far Territory areas, with pot
 
 Given the region's small size and lack of resources, most players will likely use it as a temporary stopover before heading to or from the larger regions of the Far Territory.
 
+<span id="wildlife_availability"></span><span id="Wildlife_Availability"></span><span id="wildlife-availability"></span>
+
 ## Wildlife Availability
 
 Transfer Pass is one of 2 unique regions that contains no [predators](./Wolf.md) of any type (the second being [The Ravine](./The%20Ravine.md)). Only 3 animals are found in this region.
@@ -73,6 +77,8 @@ Transfer Pass is one of 2 unique regions that contains no [predators](./Wolf.md)
 - [Rabbit](./Rabbit.md) can occasionally be found in the section of the map containing the Ravine's Basin, above and below it.
 - [Deer](./Deer.md) can be found to the west section of the map, along with the occasional [Deer Carcass](./Deer%20Carcass.md).
 - [Ptarmigan](./Ptarmigan.md) can be found in the field throughout the region.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -90,9 +96,13 @@ There are a number of locations in Transfer Pass, including:
 - To Zone of Contamination (Region Transition to [Zone of Contamination](./Zone%20of%20Contamination.md))
 - To Sundered Pass (Region Transition to [Sundered Pass](./Sundered%20Pass.md))
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Despite its small size classifying it as a Transition Region, the player can choose Transfer Pass as a starting Region.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

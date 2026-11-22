@@ -14,7 +14,7 @@
 
 [Maple Syrup icon](../assets/Maple_Syrup_icon.png)
 
-**Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)
+**Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)
 
 **Wintermute:** No
 
@@ -42,6 +42,8 @@
 
 **Maple Syrup** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Maple Syrup provides up to 850 calories of [energy](./Hunger.md), and does not cause [dehydration](./Thirst.md). They are rarely found in pantries and other containers, but more commonly in fixed spawns at named locations.
@@ -49,6 +51,8 @@ Consuming Maple Syrup provides up to 850 calories of [energy](./Hunger.md), and 
 Maple Syrup are the rarest food item, with only 5-7 found in an entire world, roughly half the spawn chance of the next rarest food item: [Military-Grade MRE](./Military-Grade%20MRE.md). Maple Syrup decays relatively rapidly for an artificial item, resulting in potentially even fewer than 5-7 present if some become Ruined (0% Condition) inside of a container and are destroyed.
 
 Maple Syrup can never cause [Food Poisoning](./Food%20Poisoning.md) above 20% condition, and [decays](./Decay.md) more slowly when outdoors.
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -58,6 +62,8 @@ Maple Syrup can never cause [Food Poisoning](./Food%20Poisoning.md) above 20% co
 | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 4 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
 | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
 | [Pancakes](./Pancakes.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+
+<span id="fixed_spawns"></span><span id="Fixed_Spawns"></span><span id="fixed-spawns"></span>
 
 ## Fixed Spawns
 
@@ -117,13 +123,17 @@ These are places where the syrup may be placed directly in the world, not a cont
 
 - [Tail Section](./Tail%20Section.md): Close or on the body.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Maple Syrup was first introduced for the limited time "[Winter's Embrace](./Winter%27s%20Embrace.md)" event (June 29th - July 31st, 2020), along with [Ketchup Chips](./Ketchup%20Chips.md).
 - During the event, eating 25 Ketchup Chips and 25 Maple Syrup, awarded the "Canadian Feast [Badge](./Badges.md)".
 - Maple Syrup is labeled as "Grade A" and has "Product of/Produit du Canada" on the back.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)):**
+- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
   - Added to game.

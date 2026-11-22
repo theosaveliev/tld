@@ -46,12 +46,16 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Last Resort Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It is only acquired when trading with the [Trader](./Trader.md). Can be cooked at Cooking skill Level 1.
 
 - +5% increased Maximum [Condition](./Condition.md) ([Nourished](./Nourished.md)) for 3 hours
 - Negative [Fatigue](./Fatigue.md) gain (lose 15%)
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -75,5 +79,7 @@ It is only acquired when trading with the [Trader](./Trader.md). Can be cooked a
 **Item:** [Potato](./Potato.md)
 
 **Quantity:** 2
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

@@ -51,15 +51,21 @@ The **Handheld Shortwave Radio** is a radio used in conjunction with a [Transmit
 
 It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Camera](./Camera.md) and [Respirator](./Respirator.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 As with most electronics scattered across [Great Bear Island](./Great%20Bear%20Island.md), the battery of the Handheld Shortwave Radio is dead during normal gameplay, similar to the [Flashlight](./Flashlight.md). When an [Aurora](./Aurora.md) or [Glimmer Fog](./Glimmer%20Fog.md) event is active however, the Handheld Shortwave Radio will spark back to life, and can be used to track down nearby radio signals within a region. Radio signals indicate the locations of either hidden bunkers or [Supply Cache](./Supply%20Cache.md) depending on which operating channel the device is set to. Before the radio can even be used properly, a Transmitter must be repaired in a region in order to get radio coverage.
 
 Being a quest item, the handheld radio has a unique property of weighing 0.00 kilograms.
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
 
 The location for the radio is at the top of the [Control Tower](./Control%20Tower.md), besides the note [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md).
+
+<span id="operation"></span><span id="Operation"></span>
 
 ## Operation
 
@@ -77,6 +83,8 @@ The third phase begins when the radio begins to audibly click/beep, showing that
 
 Once a player is right on top of the signal, the radio will flash and beep rapidly until the player uncovers the signal source. At this point a prompt will appear to dig up either the supply cache or hidden bunker entrance somewhere in the ground.
 
+<span id="limitations"></span><span id="Limitations"></span>
+
 ## Limitations
 
 It is currently impossible to uncover a bunker or supply cache without an Aurora/Glimmer Fog event being active _AND_ having the Shortwave Radio equipped. Even if the player already possesses knowledge of the bunker/cache locations, or uses [Charcoal](./Charcoal.md) to map the location of a bunker (either by mapping the immediate vicinity or uncovering it via a [Polaroid](./Polaroids.md) Vista location), the player will be unable to dig up the bunker/supply cache due to the game not giving an interactive prompt to uncover anything.
@@ -87,11 +95,15 @@ If a player has investigated all radio signals in a region on either channels, t
 
 As per the Part 4 update, the radio cannot be dropped or placed in containers. This is to keep it from being misplaced and accidentally lost.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![The Handheld Shortwave in use.](../assets/Using_Handheld_Shortwave.png)
 
 ![Icon used in the marketing of TFTFT](../assets/Icon-handheld-shortwave.svg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

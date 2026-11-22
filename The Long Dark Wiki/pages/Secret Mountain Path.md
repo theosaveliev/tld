@@ -22,6 +22,8 @@ Has a bed
 
 Has no shelter<br>**Secret Mountain Path** is a landmark located in [Bleak Inlet](./Bleak%20Inlet.md). The starting path to the area is close to [Coast Mountain Road](./Coast%20Mountain%20Road.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The path is initially blocked off by several patches of [Scrub Brush](./Scrub%20Brush.md), so the player needs to harvest the scrubs with a [hatchet](./Hatchet.md) to penetrate this path. A log bridge then later connects the way to a bath in the mountains near [Ravine's End Waterfall](./Ravine%27s%20End%20Waterfall.md). At the end of this path, a [Frozen Corpse](./Frozen%20Corpse.md) may be found, along with a [Hunting Rifle](./Hunting%20Rifle.md), makeshift bed, food, flares and a [Heavy Hammer](./Heavy%20Hammer.md).

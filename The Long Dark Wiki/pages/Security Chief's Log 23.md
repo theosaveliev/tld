@@ -28,6 +28,8 @@
 
 **Security Chief's Log 23** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the tale progresses.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 23**_
@@ -39,6 +41,8 @@ I still have no idea what the endgame for all of this will be. The whole project
 We worked hard to make it this far after what happened to Team 3.
 
 But afterwards? Impossible to say.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

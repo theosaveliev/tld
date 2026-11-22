@@ -59,9 +59,13 @@ Chance to produce:
 
 **Revolver Ammunition** and **Revolver Cartridge** is ammunition for the [Revolver](./Revolver.md). It can be found alone, as a single round, or as 10 rounds in a box. It can also be crafted at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md). The box is branded as a product called _Bullseye_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 When fired, an empty [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) will reside inside the Revolver until it is reloaded, in which it is immediately drop to the ground and can then be picked up for creating new cartridges. If the Revolver is manually unloaded in the Backpack menu, all casings and unspent ammunition is placed in the player's inventory.
+
+<span id="harvesting"></span><span id="Harvesting"></span>
 
 ### Harvesting
 
@@ -70,6 +74,8 @@ When harvested, a single Revolver Cartridge has a chance to produce the followin
 - 1 [Bullet](./Bullet.md)
 - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)
 - 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ### Crafting
 
@@ -105,6 +111,8 @@ Crafting quality Condition Revolver Ammunition is based on the [Gunsmithing](./G
 
 Ammunition that is found in the game world will always be in "Perfect" condition.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Since the Revolver is lacking a speed loader mechanism, the character will load cartridges one by one.
@@ -113,11 +121,15 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 - 10 or more dropped rounds appear as a box of rounds.
 - Ammunition for the revolver is much more abundant than ammo for the rifle, and can be found randomly in most locations.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![an unreleased Pre Alpha revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
   - Added to game.

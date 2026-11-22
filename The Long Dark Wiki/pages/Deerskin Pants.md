@@ -44,11 +44,15 @@
 
 **Deerskin Pants** are a type of craftable [Clothing](./Clothing.md) made from [Cured Deer Hide](./Cured%20Deer%20Hide.md) and [Cured Gut](./Cured%20Gut.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Deerskin Pants are less warm compared to [Deerskin Boots](./Deerskin%20Boots.md), yet require more materials to craft. However, in an early [Interloper](./Interloper.md) game when the player has only a single pair of [Jeans](./Jeans.md), crafting the deerskin pants may be slightly preferable because they can be _added_ onto the player's existing outfit (two slots for outer legs), whereas using the Deerskin Boots would require swapping out whatever boots the player is already wearing.
 
 They offer the highest protection, water- and windproofing bonuses of all available outer legwear and are only surpassed by the rare [Snow Pants](./Snow%20Pants.md) and the hard to obtain [Wolfskin Pants](./Wolfskin%20Pants.md) in terms of warmth. They are, however, also second only to Wolfskin Pants in terms of weight, and are tied for both the worst warmth-to-weight ratio and mobility penalty.
+
+<span id="strategy"></span><span id="Strategy"></span>
 
 ## Strategy
 
@@ -57,6 +61,8 @@ Deerskin pants are an excellent outer layer if combined with lighter pants that 
 Since they can be repaired with deer hides instead of cloth they are arguably one of the best choice for late game leg clothing, alongside Wolfskin Pants.
 
 They are possible to obtain reliably and relatively early in the game by harvesting [Deer Carcasses](./Deer%20Carcass.md) that can be found at several locations in all [regions](./Region.md) or obtained by actively [hunting](./Hunting.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -76,6 +82,8 @@ They are possible to obtain reliably and relatively early in the game by harvest
 
 **Quantity:** 3
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Deerskin_Pants_Model_icon.png)
@@ -84,7 +92,9 @@ They are possible to obtain reliably and relatively early in the game by harvest
 
 ![Old model.](../assets/Deerskin_pants_%28historical%29.png)
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ## Game history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.

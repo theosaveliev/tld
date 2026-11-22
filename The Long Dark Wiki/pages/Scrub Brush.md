@@ -31,23 +31,35 @@
 
 A **Scrub Brush** is a type of plant that can be harvested for useful materials.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Scrub brushes are used for harvesting [Sticks](./Stick.md). Two harvestable types of brush exist in the game. The first (pictured above), yields seven sticks per bush, and the second can yield a dozen. The first type be harvested by hand or with a [Hatchet](./Hatchet.md), while the latter requires a Hatchet and may act as a barrier until broken down.
 
+<span id="harvesting"></span><span id="Harvesting"></span>
+
 ## Harvesting
+
+<span id="hand"></span><span id="Hand"></span>
 
 ### Hand
 
 - 20 minutes; 41 calories
 
+<span id="hatchet"></span><span id="Hatchet"></span>
+
 ### Hatchet
 
 - 10 minutes; 21 calories
 
+<span id="characteristics"></span><span id="Characteristics"></span>
+
 ## Characteristics
 
 The following information should generally help with identifying and distinguishing between the useful and the useless:
+
+<span id="scrub_brush"></span><span id="Scrub_Brush"></span><span id="scrub-brush"></span>
 
 #### Scrub Brush
 
@@ -56,6 +68,8 @@ The following information should generally help with identifying and distinguish
 - Small number of thick branches
 - Can be somewhat uncommon
 - Has a 3D model, which is easy to identify
+
+<span id="false_scrub_brush"></span><span id="False_Scrub_Brush"></span><span id="false-scrub-brush"></span>
 
 ### False Scrub Brush
 
@@ -66,17 +80,23 @@ The following information should generally help with identifying and distinguish
 - Cannot be harvested; currently serve no purpose other than filling out scenery
 - Made of 2D planar shapes, arranged in a star
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 - One can be found near the back door to the [Camp Office](./Camp%20Office.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 - One can be found near the front door to the [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 - Found in abundance throughout the [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Bleak Inlet](./Bleak%20Inlet.md), [Hushed River Valley](./Hushed%20River%20Valley.md), and [Ash Canyon](./Ash%20Canyon.md) regions
 
+<span id="scrub_brush_patches"></span><span id="Scrub_Brush_Patches"></span><span id="scrub-brush-patches"></span>
+
 ## Scrub Brush Patches
 
 Another type of harvestable Scrub Brush acts as a physical obstacle and requires a [Hatchet](./Hatchet.md) to break down. Beware that some direct paths will be impassable without a hatchet to remove obstructing brush. Harvesting one patch of this type of Scrub Brush will generate 12 sticks after spending 18 minutes using a Hatchet.
 
 Hushed River Valley, Bleak Inlet, Blackrock, and Ash Canyon contain these types of Brush patches.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

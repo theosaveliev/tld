@@ -49,11 +49,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Cougar Claw Knife** is a [Tool](./Tools.md) that can be crafted at a [Forge](./Forge.md) after finding and killing the elusive and lethal [Cougar](./Cougar.md) for its [Cougar Claw](./Cougar%20Claw.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Cougar Claw Knife is functionally similar to the [Hunting Knife](./Hunting%20Knife.md), but must be [Forged](./Forge.md) with a [Cougar Claw](./Cougar%20Claw.md); It weighs 0.10kg more and harvests meat from animal carcasses around 10% faster; and harvests Hides around 33% faster if compared to the Improvised Knife. It is noticeably faster at filling up the struggle bar compared to the hunting knife and causes wolves to bleed out slightly sooner afterwards, although its chances to cause an early-flee remain tied with the other knives (see: [Wildlife Struggles](./Struggle.md)).
 
 Cougar Claw Knives are particularly useful on [Interloper](./Interloper.md) and [Misery](./Misery.md), where Hunting Knives never spawn, or in [Custom](./Custom.md) sandboxes with Loot Frequency set to "Low".
+
+<span id="differences_from_the_hunting_knife"></span><span id="Differences_from_the_Hunting_Knife"></span><span id="differences-from-the-hunting-knife"></span>
 
 ## Differences from the Hunting Knife
 
@@ -63,13 +67,19 @@ Cougar Claw Knives are particularly useful on [Interloper](./Interloper.md) and 
 - The durability of the Cougar Claw Knife is identical to that of the Hunting Knife.
 - 0.10 Kg heavier.
 
+<span id="harvesting"></span><span id="Harvesting"></span>
+
 ## Harvesting
 
 Harvesting the knife gives 1 [Scrap Metal](./Scrap%20Metal.md) and 1 Cougar Claw after 50 minutes. This can allow it to be reforged if the player does not wish to hunt more Cougars for claws, provided that they have a Forge and materials on hand to make a new one.
 
+<span id="repair"></span><span id="Repair"></span>
+
 ## Repair
 
 The knife can be repaired using a [Whetstone](./Whetstone.md) and the [Sharpening](./Sharpening.md) skill, restoring 3% condition to the tool (5% if Sharpening level is high enough) and using 5% condition on the Whetstone. The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined knife to 100% condition for one scrap metal, during an active [Aurora](./Aurora.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -92,6 +102,8 @@ The knife can be repaired using a [Whetstone](./Whetstone.md) and the [Sharpenin
 **Item:** [Cougar Claw](./Cougar%20Claw.md)
 
 **Quantity:** 1
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

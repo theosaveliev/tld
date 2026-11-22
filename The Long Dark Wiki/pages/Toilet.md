@@ -1,12 +1,14 @@
 # Toilet
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toilet)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toilet)
 
 ![Toilet bowl without toilet cistern.](../assets/Toilet_without_tank.jpg)
 
 ![Toilet bowl with toilet cistern.](../assets/Toilet_with_tank.jpg)
 
 **Toilet** belongs to stationary interactable objects in _[The Long Dark](./The%20Long%20Dark.md)_.
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -15,6 +17,8 @@ There are two types of toilets: those with and without a toilet cistern (reservo
 Toilets can be found in houses and other indoors structures such as the [Quonset Gas Station](./Quonset%20Garage.md). Other buildings such as small cabins, trailers, or remote structures (e.g., [Hibernia Processing](./Hibernia%20Processing.md), [Lonely Lighthouse](./Lonely%20Lighthouse.md)) do not have them.
 
 On Interloper game mode where matches are scarce, water from toilets can be lifesaving.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

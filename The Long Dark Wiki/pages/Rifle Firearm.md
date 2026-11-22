@@ -26,6 +26,8 @@
 
 The rifle's range allows it to wound or kill animals from relatively safe distances.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 ![Riflesights](../assets/Riflesights.jpg) The hunting rifle is a tool used to fire [Rifle rounds](./Rifle%20Ammunition.md) at targets. The rifle operates as a hit-scan weapon; unlike the bow, its bullets are not affected by projectile drop. The high velocity rounds it fires will travel in a straight line and cause massive internal injuries to any animal struck by it, with the potential to kill instantly. If a shot hits the targeted animal (indicated by a spurt of blood) but fails to immediately kill it, the round will inflict a bleeding wound that leaves a blood trail on the ground. Over the course of several game hours (depending on where the animal was hit), the wound will eventually kill the animal. After a round is fired, a shell casing will be ejected from the gun where the player stands and can be picked up.
@@ -36,9 +38,13 @@ The rifle's range allows it to wound or kill animals from relatively safe distan
 - Hitting most environmental targets will produce a snow scatter effect.
 - Firing indoors will temporarily hinder hearing.
 
+<span id="equipment"></span><span id="Equipment"></span>
+
 ## Equipment
 
 Players need both a rifle and ammunition before they can start practicing the firearms skill.
+
+<span id="condition_loss"></span><span id="Condition_Loss"></span><span id="condition-loss"></span>
 
 ### Condition Loss
 
@@ -50,11 +56,15 @@ The hunting rifle (and its variants) are tools used to fire rifle rounds at targ
 | 1 | 1.333% 75 shots from full | 2% 50 shots from full | 1% 100 shots from full | 4% 25 shots from full |
 | 5 | 0.666% 150 shots from full | 1% 100 shots from full | .5% 200 shots from full | 2% 50 shots from full |
 
+<span id="rifle_ammunition"></span><span id="Rifle_ammunition"></span><span id="rifle-ammunition"></span>
+
 ### Rifle ammunition
 
 Rifle ammunition for hunting rifles can be found as single cartridges, or in 5-round boxes. It can be crafted at the [Ammunition Workbench](./Ammunition%20Work%20Bench.md), a crafting station found in both [Bleak Inlet](./Bleak%20Inlet.md) and [Blackrock](./Blackrock.md).
 
 The rifle holds a maximum of 10 rounds at a time and can be loaded with 5 round stripper clips; rounds will be loaded individually if there are 6 or more rounds in the magazine or if the player has fewer than 5 rounds. Loading will continue until interrupted, either by clicking or canceling, or until the magazine is fully loaded. Unlike the [Revolver](./Revolver.md), shell casings will be ejected onto the ground automatically after firing due to how a bolt action system works.
+
+<span id="hunting"></span><span id="Hunting"></span>
 
 ## Hunting
 
@@ -62,9 +72,13 @@ _Main article: [Hunting](./Hunting.md)_
 
 **Hunting** animals allows players to kill and then harvest their flesh, pelts, and guts to acquire [food](./Food%20And%20Drink.md) and materials in _[The Long Dark](./The%20Long%20Dark.md)_. Hitting animals with projectiles, such as rifle ammunition, is the most effective way to kill game while completely bypassing the animals' natural defenses. Rifle shots move too quickly to be blocked or dodged and can be fired from outside the animal's zone of perception, allowing a (potentially) safe source of food.
 
+<span id="critical_hits"></span><span id="Critical_hits"></span><span id="critical-hits"></span>
+
 ### Critical hits
 
 Critical hits are random occurrences but are more likely in designated critical areas. Shots to the head and neck have the best chance to cause a critical hit, followed by shots to the shoulders and chest. Shots to the hind are immune to critical hits.
+
+<span id="bleeding"></span><span id="Bleeding"></span>
 
 ### Bleeding
 
@@ -76,7 +90,9 @@ Direct hits to an animal with a rifle round that are not critical will cause ble
 | [Deer](./Deer.md) | Instant | 45 minutes | 60 minutes | 240 minutes |
 | [Wolf](./Wolf.md) | Instant | Instant | 60 minutes | 120 minutes |
 | [Bear](./Bear.md) | 60 minutes | 240 minutes | 360 minutes | 480 minutes |
-| [Moose](./Moose.md) | N/A[¹](#fn1) | N/A[²](#fn2) | N/A[³](#fn3) | N/A[⁴](#fn4) |
+| [Moose](./Moose.md) | N/A<span id="fnref1"></span>[¹](#fn1) | N/A<span id="fnref2"></span>[²](#fn2) | N/A<span id="fnref3"></span>[³](#fn3) | N/A<span id="fnref4"></span>[⁴](#fn4) |
+
+<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
 
 ## Skill levels
 
@@ -98,6 +114,8 @@ Once players have reached a new skill level, they unlock the effects described i
 
 &lt;/table-progress-tracking&gt;
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The rifle can't be used with a [Sprained Wrist](./Sprained%20Wrist.md).
@@ -106,8 +124,13 @@ Once players have reached a new skill level, they unlock the effects described i
 - Firing the rifle indoors will cause temporary deafness.
 - The rifle will be dropped in any [Struggle](./Struggle.md) if the player loses.
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Moose do not bleed out.[↩︎](#fnref1)
+1. <span id="fn1"></span>Moose do not bleed out.[↩︎](#fnref1)
+2. <span id="fn2"></span>
+3. <span id="fn3"></span>
+4. <span id="fn4"></span>

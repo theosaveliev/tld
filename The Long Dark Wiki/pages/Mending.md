@@ -20,6 +20,8 @@
 
 ![Mending](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.
 
+<span id="repairable_items"></span><span id="Repairable_Items"></span><span id="repairable-items"></span>
+
 ## Repairable Items
 
 The following items can be repaired with the Mending skill:
@@ -30,6 +32,8 @@ The following items can be repaired with the Mending skill:
 
 Ruined Clothing cannot be repaired, only harvested for materials. The Mending skill does not lower clothing crafting times or increase when crafting clothing.
 
+<span id="how_to_repair_clothing"></span><span id="How_to_repair_clothing"></span><span id="how-to-repair-clothing"></span>
+
 ## How to repair clothing
 
 Mending is the skill used to repair Clothing and Bedrolls in _[The Long Dark](./The%20Long%20Dark.md); a_s the player successfully repairs items, their skill in mending increases. Clothing requires a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md), resources the item is made out of (e.g. [Cloth](./Cloth.md) or [Cured Leather](./Cured%20Leather.md)), and sufficient light in order to begin repairs (daylight, full moonlight, [artificial lighting](./Aurora.md) or an active [Fire](./Fire.md)/[Storm Lantern](./Storm%20Lantern.md)).
@@ -37,6 +41,8 @@ Mending is the skill used to repair Clothing and Bedrolls in _[The Long Dark](./
 To repair a piece of clothing select the item the backpack or the worn clothing menu. Then select "Actions" and "Repair"; the required resources, time required and amount repaired if successful will be displayed. Higher Mending skill decreases the time required to mend and increases the condition restored as well as the successful repair rate.
 
 Failing to repair results in the materials used in the repair to be wasted, but causes no additional condition loss to the item. Repairing clothing successfully or failing causing condition loss to the Sewing Kit/Fishing Tackle used.
+
+<span id="equipment"></span><span id="Equipment"></span>
 
 ## Equipment
 
@@ -48,6 +54,8 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 | [Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
 | [Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
+
+<span id="repair_materials"></span><span id="Repair_Materials"></span><span id="repair-materials"></span>
 
 ## Repair Materials
 
@@ -66,6 +74,8 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 | [Cured Cougar Hide icon](../assets/Cured_Cougar_Hide_icon.png) | [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) | Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses. |
 
 _Note_: Fresh Animal hides must be [cured](./Curing.md) before they can be used in crafting/repair. Hides are cured by dropping/placing them indoors (e.g. inside of a house) or sufficiently deep [Warm Cave](./Warm%20Cave.md). If a hide is curing, it will display "X% cured", which will increase over time. Hides do not cure inside of containers or in the player's inventory.
+
+<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
 
 ## Skill levels
 

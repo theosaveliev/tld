@@ -42,6 +42,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Animal Fat** is a raw food item acquired from [Carcass Harvesting](./Carcass%20Harvesting.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Animal Fat is produced when Harvesting [Wildlife](./Wildlife.md) Carcasses and can be eaten for calories, though at the high cost of acquiring [Food Poisoning](./Food%20Poisoning.md), regardless of [Cooking Skill](./Cooking.md). The option to harvest Animal Fat does not appear when in the Carcass Harvesting menu, as it is automatically produced when Harvesting raw meat (either directly from the Carcass or from a Quarter bag). Producing Animal Fat is somewhat similar to how cooking fish produces [Lantern Fuel](./Lantern%20Fuel.md).
@@ -49,6 +51,8 @@ Animal Fat is produced when Harvesting [Wildlife](./Wildlife.md) Carcasses and c
 There is 50% chance of acquiring [Food Poisoning](./Food%20Poisoning.md) even at 100% condition, which rises to 90% chance when condition drops below 75%.
 
 Animal Fat naturally gives off [Scent](./Scent.md), and can be dropped for [Baiting](./Scent.md#Baiting%2FDecoys).
+
+<span id="wildlife"></span><span id="Wildlife"></span>
 
 ## Wildlife
 
@@ -61,6 +65,8 @@ The weight of raw meat harvested is proportional to the amount of Animal Fat har
 - [Ptarmigans](./Ptarmigan.md) and [Rabbits](./Rabbit.md) do not produce any Animal Fat despite having harvestable raw meat.
 - Fish do not produce Animal Fat.
 
+<span id="cooking"></span><span id="Cooking"></span>
+
 ## Cooking
 
 Animal Fat cannot be Cooked on a fire to be eaten safely, but it can be used in the following recipes:
@@ -71,6 +77,8 @@ Animal Fat cannot be Cooked on a fire to be eaten safely, but it can be used in 
 | [Cooking Oil](./Cooking%20Oil.md) | None | - 1.00 kg × [Animal Fat](./Animal%20Fat.md) |
 | [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
 | [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -83,5 +91,7 @@ Animal Fat cannot be Cooked on a fire to be eaten safely, but it can be used in 
 ![Rancid](../assets/Animal_Fat_Rancid.png)
 
 ![Ruined](../assets/Animal_Fat_Ruined.png)
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

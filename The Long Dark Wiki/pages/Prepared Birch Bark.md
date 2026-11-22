@@ -15,7 +15,7 @@
 
 [Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png)
 
-**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)
 
 **Wintermute:** No
 
@@ -39,6 +39,8 @@
 
 **Prepared Birch Bark** is a natural medical and food item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Prepared Birch Bark is an ingredient for cooking [Birch Bark Tea](./Birch%20Bark%20Tea.md), a food and medical item and is crafted from 2 [Birch Bark](./Birch%20Bark.md). Crafting takes 5 minutes and doesn't require a tool or light.
@@ -50,6 +52,8 @@ Birch Bark can can be found in the wilderness near lone birch trees or abundantl
 The Benefit "Restore Condition" heals 5% Condition (2.5% per hour, for 2 hours), regardless if the player is awake/asleep, or if [Needs](./Needs.md) are not met. The Benefit does not stack however, and drinking multiple cups of Birch Bark Tea within 5 hours of one another is a waste of resources.
 
 Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark, 0.10kg), Neither Birch Bark or Birch Bark Tea [decays](./Decay.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -67,11 +71,15 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Quantity:** 2
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -80,13 +88,17 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 - Birch Bark may be found via [Beachcombing](./Beachcombing.md).
 - Birch Bark, Prepared Birch Bark and Birch Bark Tea never [decay](./Decay.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - It is possible to survive exclusively on Birch Bark Tea, especially on easier difficulties or by using the starvation strategy (only eating just before sleep).
 - Birch Bark Tea is disabled during the [Challenge](./Challenge.md): [As the Dead Sleep](./As%20the%20Dead%20Sleep.md), but Birch Bark may still be collected and used as Tinder.
 - [Cup of Coffee](./Cup%20of%20Coffee.md) is the only item which can restore all 4 [Needs](./Needs.md) (if consumed while hot), but Birch Bark Tea functions similarly with its Benefit "Restore Condition", since this heals Condition (2.5% hourly) faster than Fatigue damages it (1% hourly), so it is possible to survive indefinitely without Sleep by drinking 1 cup of Birch Bark Tea every 5 hours (albeit at 0% Fatigue, moving slowly and unable to climb/sprint).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
   - Added to game

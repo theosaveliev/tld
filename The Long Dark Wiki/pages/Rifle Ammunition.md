@@ -49,9 +49,13 @@ Weight
 
 **Rifle Ammunition** and **Rifle Cartridge** is .303 ammunition for the [Hunting Rifle](./Hunting%20Rifle.md). It can be found as a single round, or in boxes of 5. It can also be crafted at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md). The box is branded as a product called _Bullseye_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 When fired, an empty [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) will immediately drop to the ground, which can then be picked up for creating new cartridges. If the Hunting Rifle is manually unloaded in the Backpack menu, all unspent ammunition is placed in the player's inventory.
+
+<span id="harvesting"></span><span id="Harvesting"></span>
 
 ### Harvesting
 
@@ -60,6 +64,8 @@ When harvested, a single Rifle Cartridge has a chance to produce the following a
 - 1 [Bullet](./Bullet.md)
 - 1 [Rifle Shell Casing](./Rifle%20Shell%20Casing.md)
 - 0.01 [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ### Crafting
 
@@ -95,6 +101,8 @@ Crafting quality Condition Rifle Ammunition is based on the [Gunsmithing](./Guns
 
 Ammunition that is found in the game world will always be in "Perfect" condition.
 
+<span id="notes"></span><span id="Notes"></span>
+
 ## Notes
 
 - The character will load five rounds into the magazine at a time using stripper clips. Any number of rounds less than five are loaded one-by-one.
@@ -103,6 +111,8 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 - Empty shell casings always drop directly beneath the player regardless of firing angle, even though it is ejected to the side from the action.
 - The ammo's real life counterpart is the .303 British Rifle cartridge, which was produced from the late 1890s until the early 1950s for use by the British Army. However, unlike the real .303, the cartridge depicted in-game is rimless rather than rimmed.
 
+<span id="tips"></span><span id="Tips"></span>
+
 ## Tips
 
 - Rifle rounds in The Long Dark are rare. They are best saved for hunting big game.
@@ -110,6 +120,8 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 - Use your ammunition wisely even if it is renewable, since trips to ammunition workbenches are dangerous, resource-intensive, and time-consuming.
 - Rifle rounds are found in a small, red and grey colored cardboard box, or, if the player has a keen eye, can be spotted singly in fishing huts and other buildings.
 - Hunting [Rabbits](./Rabbit.md) with the hunting rifle is not very efficient, as rabbits can be hunted effectively with [Stones](./Stone.md), [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md), or the [Revolver](./Revolver.md) if desperate.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

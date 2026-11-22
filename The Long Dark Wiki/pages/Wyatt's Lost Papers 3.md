@@ -28,16 +28,20 @@
 
 **Wyatt's Lost Papers 3** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wyatt's Lost Papers 3**_
 
-\[top portion of the page is torn off\]
+[top portion of the page is torn off]
 
 ...about my brother though. I thought the others would come around, warm up to him. But after our last run-in, there's no chance. They're convinced he's the reason I can't fix the problems with the hatch design. Stubborn assholes, all of them. But fellow travelers. Just what my brother will never be. Can never be.
 
 But loyalty matters. And has to keep mattering when everything else falls apart. When the laws fall away and every man stands eye to eye.
 
 - Wyatt
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

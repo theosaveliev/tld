@@ -14,7 +14,7 @@
 
 [Arrow Shaft icon](../assets/Arrow_Shaft_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** No
 
@@ -46,6 +46,8 @@ An **Arrow Shaft** is a material used in crafting [Simple Arrows](./Simple%20Arr
 
 Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut from a [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) at a [Work Bench](./Work%20Bench.md) with the use of a knife. Three [Crow Feathers](./Crow%20Feather.md) along with one [Arrowhead](./Arrowhead.md) can be used with an Arrow Shaft to create one Simple Arrow.
 
+<span id="crafting"></span><span id="Crafting"></span>
+
 ## Crafting
 
 **Arrow Shaft**
@@ -62,19 +64,27 @@ Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut
 
 **Quantity:** 1
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md)<br>- 1 × [Arrow Shaft](./Arrow%20Shaft.md)<br>- 3 × [Crow Feather](./Crow%20Feather.md) |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - This material is classified as a [Tool](./Tools.md) within the player's [Backpack](./Backpack.md), despite being classified as a Material when view from the ground.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Old model.](../assets/Arrow_Shaft.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

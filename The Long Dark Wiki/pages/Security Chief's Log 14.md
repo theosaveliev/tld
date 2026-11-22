@@ -28,6 +28,8 @@
 
 **Security Chief's Log 14** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the tale progresses.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Security Chief's Log 14**_
@@ -39,6 +41,8 @@ Teams 1 and 2 are with the program, but on shaky ground. Team 3 is getting volat
 I’m still considering the implications, both for the men as well as project viability. My hope is the crew can keep their shit together long enough to finish phase one, and we can get out of this godforsaken place.
 
 It's starting to get to me.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

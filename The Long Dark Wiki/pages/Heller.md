@@ -21,7 +21,7 @@
 
 [Heller](../assets/Heller.png)
 
-**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
 
 **Date:** 6 October 2021
 
@@ -54,6 +54,8 @@
 
 **Heller** is a member of the [Convicts](./Convicts.md) appearing in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). He serves as a secondary antagonist for the episode.
 
+<span id="history"></span><span id="History"></span>
+
 ## History
 
 Heller was one of the prisoners being transported to [Blackrock Prison](./Blackrock%20Prison.md), but his [Prison Bus crashed](./Crashed%20Prison%20Transport%20Bus.md) outside of [Milton](./Milton.md) during the [First Flare](./First%20Flare.md). He escaped the bus with several other Convicts and made his way to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) and later [Pleasant Valley](./Pleasant%20Valley.md), eventually leaving the region after many of the other Convicts began turning up dead, leading him to realize that [someone](./Molly.md) was hunting them. He is eventually tasked with carrying an unconscious [Will Mackenzie](./Will%20Mackenzie.md) to the Prison via [Mathis'](./Mathis.md) orders, having to hear [Vachon](./Vachon.md) bellyache the whole way there.
@@ -62,19 +64,29 @@ He is Mathis' most faithful sidekick, and has few qualms when it comes to sendin
 
 Heller is almost always seen paired with Vachon, being the more aggressive, selfish, and uncaring of the two. He often refers to Mackenzie as a "dog" after he is tasked with constantly performing dangerous work for the gang, with this term eventually spreading to other Convicts in the prison.
 
+<span id="appearance"></span><span id="Appearance"></span>
+
 ## Appearance
 
 Like the other inmates, he partially wears his old prisoner clothes, namely the typical orange jumpsuit of Blackrock inmates, as well as a [Mackinaw Jacket](./Mackinaw%20Jacket.md) and some [Trail Boots](./Trail%20Boots.md). He seems much younger than Mathis and Vachon, and yet is already quite dark and evil, much like [Donner](./Donner.md).
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 ## Episode 1
 
 Heller does not appear in Episode 1, but his name (HELLER, S.) appears on the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md) near the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md), foreshadowing him.
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 ## Episode 4
+
+<span id="prologue"></span><span id="Prologue"></span>
 
 ### [Prologue](./Prologue.md)
 
 Heller appears with Vachon carrying Mackenzie on a stretcher. He later comes under attack with the rest of the group and is forced to search for Mackenzie after he escapes.
+
+<span id="blackrock_blues"></span><span id="Blackrock_Blues"></span><span id="blackrock-blues"></span>
 
 ### [Blackrock Blues](./Blackrock%20Blues.md)
 
@@ -82,9 +94,13 @@ Heller appears with Vachon and Mathis once Mackenzie wakes up. After Mathis sava
 
 Heller is later convinced by Mackenzie to secretly let him out of [Blackrock Prison](./Blackrock%20Prison.md) behind Mathis' back in order to find [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) for [Franklin](./Franklin.md). After Heller and Vachon realize that the medication is outside the Prison, and do not wish to risk being killed by hostile wildlife, they reluctantly let the pilot loose.
 
+<span id="the_power_plant"></span><span id="The_Power_Plant"></span><span id="the-power-plant"></span>
+
 ### [The Power Plant](./The%20Power%20Plant.md)
 
 Heller appears at the start of the mission by tossing a map of the Power Plant to Mackenzie, telling him to get moving and fix the power to the Prison. When Mackenzie asks if he can have a coat, Heller shows his lack of empathy by yelling at him to hurry up or freeze, as Mathis only issued the Power Plant map to the pilot.
+
+<span id="the_detonators"></span><span id="The_Detonators"></span><span id="the-detonators"></span>
 
 ### [The Detonators](./The%20Detonators.md)
 
@@ -92,15 +108,21 @@ Heller appears with Vachon to pester Mackenzie as Mathis interrogates him and Fr
 
 He later appears at the end of the mission along with Vachon, seizing Mackenzie after he delivers the Detonators.
 
+<span id="donner_mission"></span><span id="Donner_(mission)"></span><span id="donner_(mission)"></span><span id="donner-mission"></span>
+
 ### [Donner (mission)](./Donner%20%28mission%29.md)
 
 Heller appears before Mathis after the Prison explodes informing him that the other Convicts blew the Detonators the wrong way in Solitary. He later appears in the Prison Yard yelling at other Convicts to find and shoot Mackenzie, even spotting him from a prison tower spotlight if the player is not careful.
 
 Heller later appears at the Power Plant in the final cutscene, informing Mathis that [Donner](./Donner.md) was pulled from Solitary but is in critical condition.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 Despite being a major character in Episode 4, Heller does not get his own [What I Know](./What%20I%20Know.md) character section.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -118,7 +140,9 @@ Despite being a major character in Episode 4, Heller does not get his own [What 
 
 ![Heller Sneer](../assets/Heller_Sneer.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.

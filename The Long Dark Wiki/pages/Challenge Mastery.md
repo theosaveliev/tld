@@ -10,9 +10,13 @@
 
 **Challenge Mastery** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="guide"></span><span id="Guide"></span>
+
 ## Guide
 
 This achievement is obtained after successfully completing every [Challenge](./Challenge.md), with the exception of [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) and [Escape the Darkwalker](./Escape%20the%20Darkwalker.md). This achievement is one of the more challenging ones to get, as some challenges are easier to complete than others, especially for players who don't know Great Bear Island very well and are newer to the game.
+
+<span id="challenges"></span><span id="Challenges"></span>
 
 ### Challenges
 

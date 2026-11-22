@@ -6,7 +6,7 @@
 
 [On the Nature of Darkwalkers icon](../assets/On_the_Nature_of_Darkwalkers_icon.png)
 
-**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
+**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)
 
 **Properties**
 
@@ -24,7 +24,11 @@
 
 This note is separate from the 10 notes, [Diary Page (Darkwalker)](./Diary%20Page%20%28Darkwalker%29.md), found across the Challenge in different locations, and does not need to be collected to complete the Challenge.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
+
+<span id="starting_location"></span><span id="Starting_Location"></span><span id="starting-location"></span>
 
 ### Starting Location
 
@@ -40,8 +44,10 @@ Lure -- Attract the Darkwalker
 
 Darkwalkers spread fear and feed on oblivion - knowledge will help you defeat the entity for good.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-\* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)):**
+\* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)):**
 
   - Added to game.

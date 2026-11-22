@@ -38,6 +38,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Chief Engineer Best.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 10**_
@@ -59,5 +61,7 @@ For security purposes and to protect our research from prying eyes, we've exiled
 Fine.
 
 But I'll be damned if we don't benefit from this warmth to create some comfort for ourselves along the way.
+
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
 
 ## Game history

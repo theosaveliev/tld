@@ -45,6 +45,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Port Remnant** is a [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_ and is the starting point of [Cauldron Island](./Cauldron%20Island.md) and the [_Iron Road_](./Iron%20Road.md) expansion.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Port Remnant is first accessed by taking the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) from [Desolation Point](./Desolation%20Point.md). From there, the player will arrive at Cauldron Island inside a cave underneath the Lighthouse. Climbing the stone stairs reveals a ruined Lighthouse and [Wax Cylinder 2](./Wax%20Cylinder%202.md) and [Map (Church)](./Map%20%28Church%29.md). The Cylinder has a key to the door, and the Map points to the path to take to the Church in the region.
@@ -56,6 +58,8 @@ Several of the jagged mountainous areas can be explored near the bay, leading to
 Taking the tracks to the east will take the player to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md), while the tracks to the west lead to [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) (though the path is blocked by a metal gate).
 
 The area can be returned later to with the [Prototype Train](./Prototype%20Train.md), which can be used to open the inaccessible [Obstructed Transit](./Obstructed%20Transit.md) and destroy the gate to Track Section 1. This is the only region on Anna Island not to feature an [Oil Tank](./Oil%20Tank.md) or [Water Tower](./Water%20Tower.md) (aside from [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)).
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -85,19 +89,27 @@ There are also a several indoor locations that are tracked in the [Journal](./Jo
 - A Cave system that takes you to the upper southern cliff to the Desecrated Church.
 
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
 - [Wolves](./Wolf.md) can be found throughout the region, mainly to the south near the tracks. Some can be found east of the lighthouse.
 - [Rabbit](./Rabbit.md) can be found to the south
 - [Deer](./Deer.md) can be found on the south cliffs near the church
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
+
+<span id="safe_houses"></span><span id="Safe_houses"></span><span id="safe-houses"></span>
 
 ## Safe houses
 
 Key shelters in Port Remnant include:
 
 - [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -106,9 +118,15 @@ Key shelters in Port Remnant include:
 - There were formerly 2 cabins south of Departure's memory, but 1 was removed after an update.
 - The Whale Bone Shrines were originally quite large, but were scaled down in size after an update.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
+<span id="maps"></span><span id="Maps"></span>
+
 ### Maps
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 
@@ -129,6 +147,8 @@ Key shelters in Port Remnant include:
 ![Last Quarrel](../assets/Last_Quarrel.jpg)
 
 ![Fallow Field](../assets/Fallow_Field.jpg)
+
+<span id="miscellaneous"></span><span id="Miscellaneous"></span>
 
 ### Miscellaneous
 

@@ -6,7 +6,7 @@
 
 [Headache icon](../assets/Headache_icon.png)
 
-**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)
 
 **Update:** 1.48
 
@@ -30,11 +30,15 @@
 
 **Headache** is an Affliction that is inflicted on the survivor after consuming certain [First Aid](./First%20Aid.md) or [Food And Drink](./Food%20And%20Drink.md) items.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 While the Affliction is active, the entire screen will occasionally distort similar to the [Pain](./Pain.md) Affliction, but with a more intense distortion. The screen will zoom in and out slightly to simulate an intense headache until the affliction wears off. The player also cannot use [Research Books](./Research%20Book.md) until the Affliction passes. Unlike the Pain Affliction, this visual effect can't be treated with [Painkillers](./Painkillers.md) or [Rose Hip Tea](./Rose%20Hip%20Tea.md).
 
 Headaches have no long-term effects on the player, only serving as a simple visual distraction and a slight annoyance. If in a safe spot, the player can simply use the "Pass Time" option or [Sleep](./Sleep.md) to make the Affliction pass quickly.
+
+<span id="first_aid_headaches"></span><span id="First_Aid_Headaches"></span><span id="first-aid-headaches"></span>
 
 ## First Aid Headaches
 
@@ -57,6 +61,8 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pil
 | --- | --- | --- |
 | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
 | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
+
+<span id="food_and_drink_headaches"></span><span id="Food_and_Drink_Headaches"></span><span id="food-and-drink-headaches"></span>
 
 ## Food and Drink Headaches
 

@@ -26,6 +26,8 @@
 
 **Cougar Warning Flyer** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). it is found inside the office building at [Milton Park](./Milton%20Park.md) near the front door in [Mountain Town](./Mountain%20Town.md). It speaks about the dangers of [Cougars](./Cougar.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Cougar Warning Flyer**_
@@ -41,5 +43,7 @@ COUGAR COUNTRY
 - Hike in groups whenever possible
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer_2.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

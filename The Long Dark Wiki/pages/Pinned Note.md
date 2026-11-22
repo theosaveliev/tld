@@ -30,6 +30,8 @@
 
 **Pinned Note** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found pinned next to the front door of the [Co-Op](./Co-op.md) during the main mission [Perseverance](./Perseverance.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Pinned Note**_
@@ -47,6 +49,8 @@ If you have any surplus of homemade canned fruits and veggies, dry fish and meat
 The Co-Op team will put together food packages for members of our community most in need, and in particular families who have recently lost a loved one.
 
 Thank you for your help, patience, and resilience.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

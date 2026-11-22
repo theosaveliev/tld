@@ -51,14 +51,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Ptarmigan Stew** is a food item in _The Long Dark_ and is made with a [Cooking Pot](./Cooking%20Pot.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Like other stews, it increases [Fatigue,](./Fatigue.md) however also bestows [Improved Rest](./Improved%20Rest.md) for 3 hours. This makes it quite useful for restoring condition by allowing for a longer period of sleep. It is also calorie-efficient for the ingredients required, effectively doubling their calorie value. Regardless, this bonus is offset by a fairly long cooking time.
+
+<span id="effects"></span><span id="Effects"></span>
 
 ## Effects
 
 - 3 hours of Improved Rest (+1% [Condition](./Condition.md) restored per hour of sleep, or after 18 hours)
 - -15% [Fatigue](./Fatigue.md) (instantly)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -82,6 +88,8 @@ Like other stews, it increases [Fatigue,](./Fatigue.md) however also bestows [Im
 **Item:** [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

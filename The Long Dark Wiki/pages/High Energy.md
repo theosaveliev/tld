@@ -24,6 +24,8 @@ Episode
 
 **High Energy** is the second mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
 - Go to the Geothermal Region
@@ -37,6 +39,10 @@ Episode
   - Adjust the telescope so Jace can download the data.
   - Find Astrid in Perserverance Mills.
 
+<span id="walkthrough"></span><span id="Walkthrough"></span>
+
 ## Walkthrough
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

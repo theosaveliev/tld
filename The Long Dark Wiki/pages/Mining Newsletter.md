@@ -28,6 +28,8 @@
 
 **Mining Newsletter** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the left most worker's cabin in the [Idle Camp](./Idle%20Camp.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Mining Newsletter**_
@@ -37,6 +39,8 @@ NEW OPPORTUNITIES IN URANIUM MARKETS
 Increasing numbers of Canadian mine operators are turning to uranium production. While licensing and weak capital support continue to slow growth in the sector, several ambitious projects are already off the ground. And others wait in the wings.
 
 Regulators are also keen to stamp out unlicensed operations as they surface. But with each new energy crisis, many existing mines are turning to uranium as a way to shore up their core businesses.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

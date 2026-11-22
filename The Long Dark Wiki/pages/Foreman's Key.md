@@ -33,6 +33,8 @@ It is needed to open 2 doors:
 - One in the [Headframe Building](./Headframe%20Building.md) leading to the small office container to get to the [Bolt Cutters](./Bolt%20Cutters.md).
 - The other inside the Langston Mine in one of the buildings at the bottom of the elevator shaft on Level 3.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

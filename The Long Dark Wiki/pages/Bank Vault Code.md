@@ -30,13 +30,17 @@
 
 It is found in the [Bank Manager's House](./Bank%20Manager%27s%20House.md) and is needed to open the vault located inside the [Milton Credit Union](./Milton%20Credit%20Union.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Bank Vault Code**_
 
 19-30-08
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

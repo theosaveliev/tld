@@ -30,6 +30,8 @@
 
 **Severe Lacerations** is a physical Injury acquired from a [Cougar](./Cougar.md) [Struggle](./Struggle.md).
 
+<span id="affliction"></span><span id="Affliction"></span>
+
 ## Affliction
 
 > “**You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.**”
@@ -43,6 +45,8 @@ Severe Lacerations is always applied to the survivor after a Cougar Struggle and
 - Generates 2-3 [Blood Loss](./Blood%20Loss.md) and [Infection Risk](./Infection%20Risk.md) along with the Affliction.
 - The survivor's claw wounds periodically open up again over time, generating new instances of [Blood Loss](./Blood%20Loss.md) and [Infection Risk](./Infection%20Risk.md) (which require fresh [Bandages](./Bandage.md) and [Antiseptic](./Antiseptic.md)). Both Afflictions are generated every 12 hours after first receiving Severe Lacerations, with up to 5 sets occurring until the Affliction fully heals.
   - A notification that Blood Loss has been applied will not appear, but the screen will briefly turn red (as if suffering from a Sprain) and the survivor's Condition will begin to rapidly drop. Keep an eye on your Condition bar when passing time and be prepared to cancel your activity.
+
+<span id="time_acceleration_warning"></span><span id="Time_Acceleration_Warning"></span><span id="time-acceleration-warning"></span>
 
 ## Time Acceleration Warning
 

@@ -14,8 +14,12 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A [Moose](./Moose.md) can be found in the area, as can a [Hidden Cache](./Hidden%20Cache.md). [Cat tails](./Cat%20Tail.md) spawn along the frozen river. Nearby is [Valley Cave](./Valley%20Cave.md), which offers the only shelter in the area.
 
 ![Long Shot Falls (1)](../assets/Long_Shot_Falls_%281%29.jpg)
+
+<span id="gallery"></span><span id="Gallery"></span>

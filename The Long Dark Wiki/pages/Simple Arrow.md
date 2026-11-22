@@ -34,15 +34,21 @@
 
 **Simple Arrows** are craftable ammunition items for Survival Bows.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Arrows are reusable ammunition for the [Survival Bow](./Survival%20Bow.md). Arrows embed themselves in most soft targets when fired from a bow. Simple Arrows may occasionally be found in hunting blinds or near carcasses.
 
 Simple arrows are one of three arrow types currently in the game, they have an easily accessible recipe and are very effective against all types of [Wildlife](./Wildlife.md). [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) are even easier to craft, but are only capable of killing small game animals such as [Rabbits](./Rabbit.md) and [Ptarmigans](./Ptarmigan.md) and are very brittle. [Manufactured Arrows](./Manufactured%20Arrow.md) are the most difficult arrow type to obtain; requiring the completion of Sutherland's first special request before they can be [traded](./Trader.md) for, then up to 10 arrows can be bought each time. They are a pure upgrade from the simple arrow and inflict 12.5% more damage and are twice as durable, but are not available on [Interloper](./Interloper.md) or [Misery](./Misery.md).
 
+<span id="wear"></span><span id="Wear"></span>
+
 ## Wear
 
 The total durability of arrows is variable and depends on a material table to determine it's condition loss; with the hardness of the material and the angle at which the arrow impacts the target determining the amount of degradation received. After a hit takes the arrow's condition below 0% it will break and turn into a [Broken Arrow](./Broken%20Arrow.md) then fall to the ground where it may be retrieved and harvested for 1 [Arrowhead](./Arrowhead.md) and 2 [Crow Feathers](./Crow%20Feather.md).
+
+<span id="arrow_condition_loss_on_impact_increased_by_perpendicular_hits"></span><span id="Arrow_condition_loss_on_Impact_(Increased_by_perpendicular_hits)"></span><span id="arrow_condition_loss_on_impact_(increased_by_perpendicular_hits)"></span><span id="arrow-condition-loss-on-impact-increased-by-perpendicular-hits"></span>
 
 ### Arrow condition loss on Impact (Increased by perpendicular hits)
 
@@ -50,9 +56,13 @@ The total durability of arrows is variable and depends on a material table to de
 | --- | --- | --- | --- | --- |
 | Condition Loss | 4% | 24% | 30% | 55% |
 
+<span id="ricochet"></span><span id="Ricochet"></span>
+
 ## Ricochet
 
 Arrows hitting hard surfaces will bounce off. Bounces off hard vertical surfaces can be hard to predict and may even return back toward the player. Glancing bounces are a common occurrence when arrows hit horizontal surfaces, especially ice. These glancing arrows carry a lot of their original momentum through the bounce and can travel 15 or more meters further along their original trajectory, far out of sight of the player. In this case, arrows can be very difficult to locate for players that do not know how far they actually can bounce.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -86,6 +96,8 @@ There are no tools required to craft an arrow, however, using tools reduces the 
 | [Simple Tools](./Simple%20Tools.md) | 67 minutes | 25% | 2% |
 | [Quality Tools](./Quality%20Tools.md) | 45 minutes | 50% | 0.5% |
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
 
 Simple arrows can be found in a few places, some locations of note include:
@@ -103,6 +115,8 @@ Simple arrows can be found in a few places, some locations of note include:
 
 ![Old model](../assets/Simple_Arrow.png)
 
+<span id="game_history"></span><span id="Game_history"></span><span id="game-history"></span>
+
 ## Game history
 
-- Simple arrow and materials were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233).
+- Simple arrow and materials were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233).

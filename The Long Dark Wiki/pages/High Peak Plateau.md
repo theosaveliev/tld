@@ -18,6 +18,8 @@
 
 Provides some shelter **High Peak Plateau** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md). It is located to the far east of the map in the mountains and can only be accessed via progressing through the [Last Horizon](./Last%20Horizon.md) Tale.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The peak is reached after the long climb up to [Roamer's Cave](./Roamer%27s%20Cave.md) and an even longer hike through the mountains. The peak has a single transmitter and storage shed nearby containing a windproof [Fire Barrel](./Fire%20Barrel.md). It also has a ptarmigan nest nearby. The location is very cold due to the extremely high altitude, being the highest location in [Sundered Pass](./Sundered%20Pass.md).

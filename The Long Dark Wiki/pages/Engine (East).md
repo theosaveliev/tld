@@ -18,6 +18,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Two [Cargo Containers](./Cargo%20Container.md), as well as crates and cardboard boxes, can be found scattered about the area.
@@ -39,6 +41,8 @@ The containers contain the following:
 - Lower door contains [wood matches](./Wood%20Matches.md) and [accelerant](./Accelerant.md)
 
 The crates and the cardboard boxes don't contain anything but can be broken down for materials.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ### Gallery
 

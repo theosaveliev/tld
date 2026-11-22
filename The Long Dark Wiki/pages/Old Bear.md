@@ -27,7 +27,7 @@
 
 **Basic Information**
 
-**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
+**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)
 
 **Role:** Predator
 
@@ -48,13 +48,21 @@
 
 The **Old Bear** is a unique [Bear](./Bear.md) and the primary antagonist of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in [Wintermute](./Wintermute.md). He also appears as the antagonist of [The Hunted Part One](./The%20Hunted%2C%20Part%20One.md), [Part Two](./The%20Hunted%2C%20Part%20Two.md), and [Part Three](./The%20Hunted%2C%20Part%20Three.md) [Challenges](./Challenge.md).
 
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
+
 ## Episode 1
+
+<span id="paradise_lost"></span><span id="Paradise_Lost"></span><span id="paradise-lost"></span>
 
 ### [Paradise Lost](./Paradise%20Lost.md)
 
 The Old Bear is first seen in the closing seconds of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), where [Will Mackenzie](./Will%20Mackenzie.md) sees him attacking [Jeremiah](./Jeremiah.md), who takes the trapper's rifle to shoot it as the episode ends.
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
+
+<span id="the_wounded_trapper"></span><span id="The_Wounded_Trapper"></span><span id="the-wounded-trapper"></span>
 
 ### [The Wounded Trapper](./The%20Wounded%20Trapper.md)
 
@@ -62,11 +70,15 @@ In [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), the Old Bear makes his
 
 After finding meds for the old trapper, Jeremiah tells Mackenzie that the bear will hunt them both across the island unless they kill him since the Old Bear has a taste for the blood of men. He recounts a story where a similar Old Bear from 150 years ago was nicknamed the "Demon Bear" after a Hunting party of three members failed to kill him despite allegedly unloading their rifles into him. Jeremiah concludes that the only possible way to kill the bear is with the legendary [Bear Spear](./Bear%20Spear.md), and directs a reluctant Mackenzie to the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md) to retrieve it.
 
+<span id="the_best_defense"></span><span id="The_Best_Defense"></span><span id="the-best-defense"></span>
+
 ### [The Best Defense](./The%20Best%20Defense.md)
 
 The Old Bear is encountered again in Broken Railroad, where he pushes over a [Train Shuttle](./Train%20Shuttle.md) that Mackenzie is inside of, knocking him unconscious. When he awakes, Mackenzie finds the bear missing, replaced instead by [Methuselah](./Methuselah.md) sitting by a fire under an [Aurora](./Aurora.md).
 
 After Mackenzie find and repairs the Bear Spear, the Old Bear is seen keeping his distance from the pilot on a nearby ledge as he makes his way through Forlorn Muskeg back to Mystery Lake. Mackenzie wonders that perhaps the Bear Spear does have some magical protection to it, at least for now, before taunting the retreating Old Bear.
+
+<span id="signal_to_noise"></span><span id="Signal_to_Noise"></span><span id="signal-to-noise"></span>
 
 ### [Signal to Noise](./Signal%20to%20Noise.md)
 
@@ -74,27 +86,41 @@ In the third mission, the Bear guards one/two of the Shortwave Towers required t
 
 When attempting to return to Mystery Lake after getting all the parts, the Old Bear ambushes Mackenzie and then drags him to his den.
 
+<span id="what_one_man_can_do"></span><span id="What_One_Man_Can_Do"></span><span id="what-one-man-can-do"></span>
+
 ### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
 The player must navigate through the [Old Bear's Den](./Old%20Bear%27s%20Den.md) while avoiding the bear in order to retrieve the Bear Spear. Mackenzie successfully kills the Old Bear for good with the spear, apologizing to the creature's remains that he did not intend to kill him, but unfortunately "this world will make murders of us all." Mackenzie later returns to the Trapper's Homestead with the Transponder Parts and informs Jeremiah that the bear is dead, before passing out.
+
+<span id="challenges"></span><span id="Challenges"></span>
 
 ## Challenges
 
 As well as his role in the story, the Old Bear appears in [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md), [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md), and [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md) [Challenges](./Challenge.md). In the first two challenges, the bear is invincible and cannot be killed.
 
+<span id="part_one"></span><span id="Part_One"></span><span id="part-one"></span>
+
 ### Part One
 
 The challenge revolves around the bear stalking the player through Pleasant Valley to the Trapper's Homestead so they can get the Hunting Rifle. The Old Bear will hunt the player throughout Pleasant Valley and Mystery Lake until the player reaches the Trapper's Cabin.
+
+<span id="part_two"></span><span id="Part_Two"></span><span id="part-two"></span>
 
 ### Part Two
 
 After completing part one, part two is unlocked and begins where the first part ended. The roles are switched, with the player hunting the bear as it runs through Mystery Lake back to its den.
 
+<span id="part_three"></span><span id="Part_Three"></span><span id="part-three"></span>
+
 ### Part Three
 
 The Old Bear is slated to appear in a third challenge.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
+
+<span id="redux_episode_2"></span><span id="Redux_Episode_2"></span><span id="redux-episode-2"></span>
 
 ### Redux Episode 2
 
@@ -116,6 +142,8 @@ Old Bear](../assets/Demonbear.jpg)
 
 ![The 2 scars on his right side](../assets/Old_Bear_Scars.jpg)
 
+<span id="predux_episode_2"></span><span id="Predux_Episode_2"></span><span id="predux-episode-2"></span>
+
 ### Predux Episode 2
 
 ![The Old Bear attacking Mackenzie (Predux)](../assets/Jeremiah%27s_Folly.jpg)
@@ -129,6 +157,8 @@ _The Old Bear slain in [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) (Predux)_
 ![The Old Bear's Ear (Predux)](../assets/The_Old_Bear%27s_Ear_icon.png)
 
 _[The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) (Predux)_
+
+<span id="the_hunted_challenges"></span><span id="The_Hunted_Challenges"></span><span id="the-hunted-challenges"></span>
 
 ### The Hunted Challenges
 
@@ -149,6 +179,8 @@ _[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)_
 ![The Badge awarded from The Hunted, Part Two](../assets/The_Hunted_Part_One_icon.png)
 
 ![The Hunted, Part Two fanart](../assets/Hunted_2.jpg)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

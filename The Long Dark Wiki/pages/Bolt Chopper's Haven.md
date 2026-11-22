@@ -18,6 +18,8 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The cave doesn't have a bed, but may spawn a frozen corpse alongside a campfire with minor food items scattered about.
@@ -27,6 +29,8 @@ The cave is a source of [Coal](./Coal.md).
 ![The slope that leads to the cave as seen from Prayerful Window (the slope is in the middle mountain)](../assets/Prayerful_Window.jpg)
 
 _The slope that leads to the cave as seen from [Prayerful Window](./Prayerful%20Window.md) (the slope is in the middle mountain)_
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -44,6 +44,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Vagabond Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Recipe Card is found by trading with the [Trader](./Trader.md).
@@ -54,6 +56,8 @@ Recipe Card is found by trading with the [Trader](./Trader.md).
 Compared to [Rabbit Stew](./Rabbit%20Stew.md), Vagabond Soup improves the caloric value of 0.5kg of rabbit meat by 200 calories less, but does not require flour and has half the cook time.
 
 At Cooking 5, the calorie value of Vagabond Soup is the same as its components. Its healing properties are slightly worse (by 1%) than that of Rabbit Stew, except on Interloper, in which case it heals 2% more Condition due to Improved Rest's bonus being reduced.
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -77,5 +81,7 @@ At Cooking 5, the calorie value of Vagabond Soup is the same as its components. 
 **Item:** [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

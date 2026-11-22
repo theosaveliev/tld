@@ -28,6 +28,8 @@
 
 Archery's ability to deal ranged damage means that a player can attack animals (and especially predators) from positions of relative safety.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Archery requires some practice to use effectively and several factors should be taken into consideration with its use:
@@ -39,7 +41,11 @@ Archery requires some practice to use effectively and several factors should be 
 - _Usability:_the bow, unlike the rifle, cannot be fired while crouched until the player reaches Archery skill Level 5.
 - _Variants:_ bows and arrows both have variants that will affect damage type, available targets, resources used for crafting or trading and much more.
 
+<span id="equipment"></span><span id="Equipment"></span>
+
 ## Equipment
+
+<span id="survival_bow"></span><span id="Survival_Bow"></span><span id="survival-bow"></span>
 
 ### Survival Bow
 
@@ -50,6 +56,8 @@ The Survival Bow is a crafted weapon used to fire Arrows ([Simple Arrows](./Simp
 - Arrows may be collected all at once by left-clicking on animal carcasses or collected one-by-one my left-clicking directly on the arrow model itself (this can be done while the animal is alive, at great risk to the player).
 - The arrow type can be changed by pressing "R" while the Survival Bow is used.
 
+<span id="survival_bow_variants"></span><span id="Survival_Bow_Variants"></span><span id="survival-bow-variants"></span>
+
 ### Survival Bow Variants
 
 There are three Bow variants:
@@ -57,6 +65,8 @@ There are three Bow variants:
 - [Bushcraft Bow](./Bushcraft%20Bow.md) (crafted item once its recipe has been obtained from the Trader)
 - [Sport Bow](./Sport%20Bow.md) (does not appear in [Interloper](./Interloper.md)/[Misery](./Misery.md))
 - [Woodwright's Bow](./Woodwright%27s%20Bow.md) (does not appear in Interloper/Misery)
+
+<span id="simple_arrow"></span><span id="Simple_Arrow"></span><span id="simple-arrow"></span>
 
 ### Simple Arrow
 
@@ -68,6 +78,8 @@ Simple Arrows take 4% condition damage when striking snow, 24% when striking an 
 
 Simple Arrows persist in the world and may be retrieved later, even if stuck in an animal carcass which decays completely.
 
+<span id="fire_hardened_arrow"></span><span id="Fire_Hardened_Arrow"></span><span id="fire-hardened-arrow"></span>
+
 ### Fire Hardened Arrow
 
 Fire Hardened Arrows function similarly to Simple Arrows, are much easier to craft (only requiring five [Sticks](./Stick.md) and five Crow Feather and any fire source, rather than [birch saplings](./Green%20Birch%20Sapling.md) and [forging](./Forge.md)), but will only kill [Rabbits](./Rabbit.md) and [Ptarmigans](./Ptarmigan.md). They do not injure larger animals, but can cause them to flee if striking/landing near an animal undetected, or have a chance of scaring a charging [Wolf](./Wolf.md). Simple Arrows cause Morale damage to [Timberwolf Packs](./Timberwolf.md) engaged with the player.
@@ -75,6 +87,8 @@ Fire Hardened Arrows function similarly to Simple Arrows, are much easier to cra
 Fire Hardened Arrows take 7% condition damage when striking snow, 47% when striking an animal, 59% when striking wood, and 100% when striking metal or ice (they may still survive hard impacts if at full condition). Fire Hardened Arrows become [Broken Fire Hardened Arrows](./Broken%20Fire%20Hardened%20Arrow.md) at 0% condition, which may be harvested for one Crow Feather.
 
 Fire Hardened Arrows stick into terrain and Rabbit/Ptarmigan, but fall to the ground (broken or not) when striking other animals.
+
+<span id="manufactured_arrow"></span><span id="Manufactured_Arrow"></span><span id="manufactured-arrow"></span>
 
 ### Manufactured Arrow
 
@@ -89,11 +103,13 @@ Manufactured Arrows take 2% condition damage when striking snow, 12% when striki
 
 |  | Kill Rabbit and Ptarmigan | Kill Big Game | Blood Loss | Startle Animals | Interrupt Wolf Charge | Crafting |
 | --- | --- | --- | --- | --- | --- | --- |
-| Simple Arrow | Instant | Yes | Yes\* | Yes | No | 1 Arrowhead ([Forging](./Forge.md)), 1 Arrow Shaft, 3 Crow Feather |
+| Simple Arrow | Instant | Yes | Yes* | Yes | No | 1 Arrowhead ([Forging](./Forge.md)), 1 Arrow Shaft, 3 Crow Feather |
 | Fire Hardened Arrow | Instant | No | No | Yes | Yes | 5 Stick, 5 Crow Feather and any [Fire Source](./Campfire.md) (Makes 3) |
-| Manufactured Arrow | Instant | Yes | Yes\* | Yes | Yes | Traded from the [Trader](./Trader.md) |
+| Manufactured Arrow | Instant | Yes | Yes* | Yes | Yes | Traded from the [Trader](./Trader.md) |
 
-\*No weapon inflicts Blood Loss against [Moose](./Moose.md) or [Cougar](./Cougar.md).
+*No weapon inflicts Blood Loss against [Moose](./Moose.md) or [Cougar](./Cougar.md).
+
+<span id="hunting"></span><span id="Hunting"></span>
 
 ## Hunting
 
@@ -101,9 +117,13 @@ _Main article: [Hunting](./Hunting.md)_
 
 **Hunting** animals to kill and then harvest their flesh is an efficient means to acquire [Food](./Food%20And%20Drink.md) and materials. Shooting animals with projectiles, such as arrows, is the most effective way to kill game while completely bypassing the animals' natural defenses. Arrows move too quickly to be blocked or dodged and can be fired from outside the animal's zone of perception.
 
+<span id="critical_hits"></span><span id="Critical_Hits"></span><span id="critical-hits"></span>
+
 ### Critical Hits
 
 Critical hits are random occurrences, but are more likely in an animal's designated critical areas. Shots to the head and neck seem to have the best chance to cause a critical hit, with shots to the front shoulder and chest being second. Shots to the feet are immune to critical hits.
+
+<span id="bleeding"></span><span id="Bleeding"></span>
 
 ### Bleeding
 
@@ -119,7 +139,9 @@ Direct hits to an animal with an arrow that are not a critical hit will cause a 
 | [Moose](./Moose.md) | N/A | N/A | N/A | N/A |
 | [Cougar](./Cougar.md) | N/A | N/A | N/A | N/A |
 
-\*Moose and Cougar do not Bleed.
+*Moose and Cougar do not Bleed.
+
+<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
 
 ## Skill levels
 

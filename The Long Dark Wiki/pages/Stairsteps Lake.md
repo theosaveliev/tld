@@ -18,6 +18,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A [Deer Carcass](./Deer%20Carcass.md) may be found in a small cove to the north-east. Many waterfalls can be found on the southern end of the lake. Both [wolves](./Wolf.md) and deer may be found wandering around on the ice of the frozen lake.
@@ -25,6 +27,8 @@ A [Deer Carcass](./Deer%20Carcass.md) may be found in a small cove to the north-
 [Rose hips](./Rose%20Hip.md) may spawn near the southwest and northeast corners of the lake, along with a [Hidden Cache](./Hidden%20Cache.md) near the southwest corner. Another cache may appear a short walk northwest of the lake. [Cattails](./Cat%20Tail.md) and [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) can also be found in the northeast corner.
 
 The lake is NOT suitable for [Ice Fishing](./Ice%20Fishing.md) holes.
+
+<span id="nearby_cave"></span><span id="Nearby_Cave"></span><span id="nearby-cave"></span>
 
 ## Nearby Cave
 

@@ -32,6 +32,8 @@ Type
 
 Landmark|-
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Landslide blocks the train tracks, forcing the player to go into the nearby frozen pond and over a tree bridge to get around it entering Broken Railroad. The nearby lower pond often contains a [Wolf](./Wolf.md) hunting [Rabbits](./Rabbit.md). However, when exiting Broken Railroad, the player can climb over the landslide, saving time and [Fatigue](./Fatigue.md).

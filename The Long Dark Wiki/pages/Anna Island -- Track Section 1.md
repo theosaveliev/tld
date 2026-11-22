@@ -41,12 +41,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A continuation of the coastline from the previously numbered region.
 
 - The west of the map leads to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md), while the east leads to [Port Remnant](./Port%20Remnant.md).
 - Parts of the ocean can be used for [Ice Fishing](./Ice%20Fishing.md) by creating Free Form Ice Fishing Holes.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -65,9 +69,15 @@ There is also a single cabin at the Huts location.
 There is one [Whale Oil Tank](./Oil%20Tank.md) in this region and it is located at the Eastern Railyard before the transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
+
+<span id="safe_houses"></span><span id="Safe_houses"></span><span id="safe-houses"></span>
 
 ## Safe houses
 
@@ -76,6 +86,8 @@ There is one [Whale Oil Tank](./Oil%20Tank.md) in this region and it is located 
 - [Cave](./Warm%20Cave.md) located in the middle of the region with minor loot and a bed
 
 - Cabin with a bed at Huts.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -95,7 +107,11 @@ _**Cave in the middle of Track Section 1**_
 
 _**Cave before Transition to Track Section 2**_
 
+<span id="maps"></span><span id="Maps"></span>
+
 ### Maps
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 

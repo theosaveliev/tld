@@ -22,7 +22,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 [Home Made Soup icon](../assets/Home-Made_Soup_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** Yes
 
@@ -51,18 +51,26 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Home-made Soup** (sic) is a [food](./Food%20And%20Drink.md) item found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Home-made Soup is a soup created by [Grey Mother](./Grey%20Mother.md) as she shows her hospitality to [Will Mackenzie](./Will%20Mackenzie.md). Consuming Home-made Soup restores a moderate number of calories. It may also be warmed by a [Fire](./Fire.md) to grant the benefit [Warming Up](./Warming%20Up.md). It starts hot and does not begin cooling until first interacted with. This includes simply inspecting the item and leaving it by the fireplace without collecting it. Despite the contents of this food being a soup containing liquid, Home-made Soup does not provide any hydration to quench [Thirst](./Thirst.md).
 
 The soup cannot be crafted, and is not available in [Survival Mode](./Survival%20Mode.md). The soup can be carried into [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), but will be lost if it is not consumed by the end of the episode.
 
+<span id="redux_episode_1"></span><span id="Redux_Episode_1"></span><span id="redux-episode-1"></span>
+
 ## Redux Episode 1
+
+<span id="the_grey_mother"></span><span id="The_Grey_Mother"></span><span id="the-grey-mother"></span>
 
 ### [The Grey Mother](./The%20Grey%20Mother.md)
 
 - It is received as a reward from Grey Mother after the player investigates and returns from the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md).
 - A second cup can taken after returning from the [Milton Credit Union](./Milton%20Credit%20Union.md) with [Grey Mother's Safety Deposit Box](./Grey%20Mother%27s%20Safety%20Deposit%20Box.md) (if the first one was taken).
+
+<span id="predux_episode_1"></span><span id="Predux_Episode_1"></span><span id="predux-episode-1"></span>
 
 ## Predux Episode 1
 
@@ -75,9 +83,11 @@ The soup cannot be crafted, and is not available in [Survival Mode](./Survival%2
 
 ![Old icon](../assets/Home-made_Soup_old_icon.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Updated the icon as part of the Redux edition.

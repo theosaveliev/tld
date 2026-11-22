@@ -38,11 +38,15 @@
 
 The **Cotton Toque** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Very high warmth to weight ratio. The lesser version of the [Wool Toque](./Wool%20Toque.md), is not very waterproof.
 
 It is slightly inferior to the [Wool Scarf](./Wool%20Scarf.md) in terms of waterproofing, with otherwise identical stats, although it decays more than twice as fast.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -51,6 +55,8 @@ It is slightly inferior to the [Wool Scarf](./Wool%20Scarf.md) in terms of water
 ![Clothing model](../assets/Cotton_Toque_Model_icon.png)
 
 ![Clothing model damaged](../assets/Cotton_Toque_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

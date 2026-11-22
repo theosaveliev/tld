@@ -17,7 +17,7 @@
 
 **Release:** 14 June 2018
 
-**Update:** [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)
+**Update:** [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)
 
 **Story item:** No
 
@@ -35,7 +35,11 @@ They can also be found in [Survival Mode](./Survival%20Mode.md). Currently, they
 
 They contain medium-high level food and clothes and, sometimes, even books. A Hidden Cache has a total capacity of 15.00 kg.
 
+<span id="locations"></span><span id="Locations"></span>
+
 ## Locations
+
+<span id="hushed_river_valley"></span><span id="Hushed_River_Valley"></span><span id="hushed-river-valley"></span>
 
 ### Hushed River Valley
 
@@ -82,11 +86,15 @@ Southern [Ice Caves](./Ice%20Cave.md) Exterior Caches 19-24 (1-3 spawns, 1 possi
 - Next to a low rock, on a hill right above an entrance for the southern [Ice Cave](./Ice%20Cave.md) System. Reach this level through the [Ice Cave](./Ice%20Cave.md) system or by a [rope climb](./Rope%20Climbing.md) (see above)
 - Next to a low stone wall, on a ledge southeast of a [rope climb](./Rope%20Climbing.md) and an entrance for the South [Ice Cave](./Ice%20Cave.md) System. Accessible by a log bridge
 
+<span id="ash_canyon"></span><span id="Ash_Canyon"></span><span id="ash-canyon"></span>
+
 ### Ash Canyon
 
 - Near one end of the tree bridge connecting the [Climber's Cave](./Climber%27s%20Cave.md) and [Pillar's Footrest](./Pillar%27s%20Footrest.md) regions.
 - North of [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)
 - At the top of the lowest rope climb between [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) and the [Gold Mine](./Gold%20Mine.md).
+
+<span id="blackrock"></span><span id="Blackrock"></span>
 
 ### Blackrock
 
@@ -96,10 +104,14 @@ Southern [Ice Caves](./Ice%20Cave.md) Exterior Caches 19-24 (1-3 spawns, 1 possi
 - Ravine southwest of [Fool's Corner](./Fool%27s%20Corner.md)
 - Ravine underneath [Mule Bridge](./Mule%20Bridge.md)
 
+<span id="bleak_inlet"></span><span id="Bleak_Inlet"></span><span id="bleak-inlet"></span>
+
 ### Bleak Inlet
 
 - South of [Pensive Lookout](./Pensive%20Lookout.md).
 - On top of the Trailer in [Last Resort Cannery](./Last%20Resort%20Cannery.md) (reached via the obstacle course).
+
+<span id="sundered_pass"></span><span id="Sundered_Pass"></span><span id="sundered-pass"></span>
 
 ### Sundered Pass
 

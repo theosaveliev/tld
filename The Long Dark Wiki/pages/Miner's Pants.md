@@ -36,6 +36,8 @@
 
 The **Miner's Pants** is a unique [Clothing](./Clothing.md) pants found in various locations across the [Zone of Contamination](./Zone%20of%20Contamination.md). They most often spawns somewhere inside the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md).
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Clothing model icon](../assets/Miner%27s_Pants_Model_icon.png)
@@ -45,6 +47,8 @@ The **Miner's Pants** is a unique [Clothing](./Clothing.md) pants found in vario
 ![Old gear icon](../assets/Miner%27s_Pants_icon_old.png)
 
 ![One of the locations of a pair of Miner's Pants](../assets/Miner%27s_Pants_location.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

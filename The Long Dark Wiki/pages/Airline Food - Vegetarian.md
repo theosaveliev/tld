@@ -6,7 +6,7 @@
 
 [Airline Food Vegetarian icon](../assets/Airline_Food_-_Vegetarian_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** Yes
 
@@ -36,11 +36,15 @@
 
 **Airline Food - Vegetarian** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Airline Food - Vegetarian provides up to 560 calories of [energy](./Hunger.md) and 5% [hydration](./Thirst.md). They are exclusive to the area surrounding the [plane crash](./Crash%20Site%20%28Pleasant%20Valley%29.md) in [Pleasant Valley](./Pleasant%20Valley.md) and [Cargo Containers](./Cargo%20Container.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md), with their abundance affected by [Survival Mode](./Survival%20Mode.md).
 
 Airline Food - Vegetarian can cause [Food Poisoning](./Food%20Poisoning.md), and [decays](./Decay.md) more slowly when outdoors.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -48,7 +52,9 @@ Airline Food - Vegetarian can cause [Food Poisoning](./Food%20Poisoning.md), and
 - Airline Food - Vegetarian provides fewer calories than the [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md).
 - There is no option to heat them over a fire spot, and the item will not become "Hot" by dropping them on the ground near an active fire.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

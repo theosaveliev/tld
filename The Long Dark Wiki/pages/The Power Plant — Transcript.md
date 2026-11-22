@@ -29,6 +29,8 @@ Episode
 
 This is the transcript for Chapter 2 [The Power Plant](./The%20Power%20Plant.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 CHAPTER TWO
@@ -157,6 +159,8 @@ Heller: "Do I look like a guy who gives a shit? You don't want to freeze out her
 _Heller slams the door shut and Mackenzie picks up the map fragment_
 
 Mackenzie: "Bastards. At least this map looks real enough."
+
+<span id="head_to_the_power_plant."></span><span id="Head_to_the_Power_Plant."></span><span id="head-to-the-power-plant"></span>
 
 ## Head to the Power Plant.
 
@@ -348,6 +352,8 @@ _Mackenzie hangs up the phone_
 
 Mackenzie: "Well, ok. Let's find those steam tunnels."
 
+<span id="sabotage_the_locking_mechanisms."></span><span id="Sabotage_the_locking_mechanisms."></span><span id="sabotage-the-locking-mechanisms"></span>
+
 ## Sabotage the locking mechanisms.
 
 _Mackenzie leaves the Power Plant and finds the doorway in the mountain leading to the Steam Tunnels, and steps inside_
@@ -403,6 +409,8 @@ Mackenzie: "I made it to the power plant. The whole place is dead. Nothing obvio
 Vachon: "Too bad. Mathis will be disappointed. Oh well...back in your cage, dog."
 
 _Vachon searches Mackenzie as the screen goes black._
+
+<span id="check_on_the_warden."></span><span id="Check_on_the_Warden."></span><span id="check-on-the-warden"></span>
 
 ## Check on the Warden.
 

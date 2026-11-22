@@ -33,6 +33,8 @@
 
 The **Improvised Hatchet** is a tool in _The Long Dark_, primarily for woodcutting and self defense.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Functioning similarly to the hatchet, improvised hatchets may be used to harvest [sticks](./Stick.md) from branches, [Cedar Firewood](./Cedar%20Firewood.md) and [Fir Firewood](./Fir%20Firewood.md) from tree limbs, [Reclaimed Wood](./Reclaimed%20Wood.md) from furniture or to break ice for [Ice Fishing](./Ice%20Fishing.md).
@@ -53,6 +55,8 @@ Uses of Improvised Hatchet:
 - For the [Whiteout](./Whiteout.md) [challenge's](./Challenge.md) objective, an improvised hatchet may substitute the requirement of a hatchet.
 
 When carried and selected for self-defense at the start of a Wolf Struggle, Improvised Hatchets deal high damage with a low chance per-hit to cause the wolf to flee, as well as a moderate chance to inflict [Blood Loss](./Blood%20Loss.md) on the Wolf (which is lethal over time). Improvised Hatchets take low damage from being used in a struggle, and are inferior to Hatchets when used in this way. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
+
+<span id="crafting"></span><span id="Crafting"></span>
 
 ## Crafting
 
@@ -78,11 +82,15 @@ Forging improvised hatchets is only possible at a [furnace](./Furnace.md) with a
 
 In Interloper mode hatchets and improvised hatchets will never spawn; requiring forging to create.
 
+<span id="repair"></span><span id="Repair"></span>
+
 ## Repair
 
 Improvised Hatchets may be repaired using a [Whetstone](./Whetstone.md) and the [Sharpening](./Sharpening.md) skill, restoring 3% condition to the hatchet and causing 5% condition damage to the whetstone.
 
 The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined improvised hatchet to 100% condition for one scrap metal, during an active [Aurora](./Aurora.md). Repairing Improvised Hatchet or Improvised Knife with the Milling Machine is more efficient with Scrap Metal than [forging](./Forge.md) new ones.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

@@ -18,6 +18,8 @@
 
 **Type:** Landmark
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 An old boat can be found here, and there is a staircase leading upwards which will take the player to [Island Cottage](./Island%20Cottage.md). Moose can spawn in this location. [Archie's Crawlspace](./Archie%27s%20Crawlspace.md) can be found by heading east of the cove on the lake itself.

@@ -24,6 +24,8 @@
 
 **Rüdiger's Diary 3** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md) near the end of the Tale.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Rüdiger's Diary 3**_
@@ -32,15 +34,17 @@ Just waiting now. Trapped in squalor, brought low by my ambition.
 
 Still, I believed I was right.
 
-I \*am\* right.
+I _am\_ right.
 
-If we are to move forward as a species, we will need better models for understanding our planet and its potential for \*creative destruction.\*
+If we are to move forward as a species, we will need better models for understanding our planet and its potential for _creative destruction._
 
 Eras when it wipes the slate clean and starts again.
 
 I wanted to profit from this knowledge. Probabilistically my chances were good. A dice roll, yes. But the numbers suggest a favorable one.
 
 Based on my current condition, I overestimated my chances.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

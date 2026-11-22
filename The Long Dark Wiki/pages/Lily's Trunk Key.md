@@ -6,7 +6,7 @@
 
 [Lily's Trunk Key icon](../assets/Lily%27s_Trunk_Key_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md)
 
@@ -34,7 +34,9 @@
 
 The key unlocks a blue [Trunk](./Trunk.md) upstairs in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) that contains [Mountaineering Rope](./Mountaineering%20Rope.md) and [Lily's Map](./Lily%27s%20Map.md), which are needed to start the mission [Paradise Lost](./Paradise%20Lost.md).
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

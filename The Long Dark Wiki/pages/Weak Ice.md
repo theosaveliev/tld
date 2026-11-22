@@ -17,6 +17,8 @@
 
 **Weak Ice** (also known as **Thin Ice**) is an uncommon but dangerous [Environmental Hazard](./Environmental%20Hazard.md) found within some [Regions](./Region.md) of [_The Long Dark_.](./The%20Long%20Dark.md)
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 ![The Weak Ice icon](../assets/Weak_Ice_icon.png)_The Weak Ice icon_ Most of the icy ground of [Great Bear Island](./Great%20Bear%20Island.md) is traversable but some ice sheets are weak and pose a hazard when the survivor moves on them. When standing on thin ice the "Weak Ice" indicator will appear in the center of the screen, a unique sound will play and cracks will form at survivor's feet. If the survivor does not move off the weak ice in time they will fall into the water below.
@@ -27,12 +29,16 @@ While standing on Weak ice the "Weak Ice" indicator is present and a hidden time
 
 Below is a list of locations where Weak Ice is present:
 
+<span id="ocean_edge"></span><span id="Ocean_Edge"></span><span id="ocean-edge"></span>
+
 ### Ocean Edge
 
 - [Coastal Highway](./Coastal%20Highway.md)
 - [Old Island Connector](./Crumbling%20Highway.md)
 - [Desolation Point](./Desolation%20Point.md)
 - [Bleak Inlet](./Bleak%20Inlet.md)
+
+<span id="pondsrivers"></span><span id="Ponds/Rivers"></span><span id="ponds/rivers"></span>
 
 ### Ponds/Rivers
 
@@ -41,6 +47,8 @@ Below is a list of locations where Weak Ice is present:
 - [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 
 [Beachcombing](./Beachcombing.md) is a mechanic which causes items and points-of-interest to appear along the beaches of coastal regions. These items may be looted freely, but may put the survivor at risk of Weak Ice.
+
+<span id="falling_through_weak_ice"></span><span id="Falling_through_Weak_Ice"></span><span id="falling-through-weak-ice"></span>
 
 ## Falling through Weak Ice
 
@@ -55,10 +63,14 @@ Wet clothes are a serious Condition hazard by [Freezing](./Needs.md), this damag
 
 If the survivor falls through Weak Ice, it is recommend to quickly find shelter and build a fire to warm up. Wet Clothing may be dried by being worn or when dropped/placed indoors or near a lit [Campfire](./Campfire.md) or other fire source.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Part 2 Update added a graphical update to Thin Ice when active as well as the updating the Beachcombing mechanic.
 - In the real world some Weak ice may be traversed by dispersing one's bodyweight such as crawling while prone. This mechanic is not present within _The Long Dark_, and crouching does not affect Weak Ice.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

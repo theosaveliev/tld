@@ -6,7 +6,7 @@
 
 [Ketchup Chips icon](../assets/Ketchup_Chips_icon.png)
 
-**Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)
+**Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)
 
 **Wintermute:** No
 
@@ -36,11 +36,15 @@
 
 **Ketchup Chip** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Consuming Ketchup Chips provides up to 300 calories of [energy](./Hunger.md), at the cost of minor [dehydration](./Thirst.md). They are relatively common and weigh a mere 0.10 kg, making its energy density a high 3,000 calories-per-kilogram.
 
 Ketchup Chips do not cause [Food Poisoning](./Food%20Poisoning.md) above 20% condition and [decay](./Decay.md) more slowly when stored outdoors, like other non-canned foods.
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -50,7 +54,9 @@ Ketchup Chips do not cause [Food Poisoning](./Food%20Poisoning.md) above 20% con
   - The ketchup bottle looks superficially like the glass bottles used by Heinz brand of ketchup, which for years was made in Leamington, Ontario.
 - Ketchup Chips are readily available in Canada, but almost unheard of in most other countries.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)):**
+- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
   - Added to game.

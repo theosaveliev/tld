@@ -8,7 +8,7 @@
 
 **Release:** TBD
 
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Story item:** No
 
@@ -21,6 +21,8 @@
 **Object key:** GAMEPLAY\_Washer
 
 A **Washer** is a stationary interactable object in [The Long Dark](./The%20Long%20Dark.md). They are found in the basements of abandoned homes, and are always accompanied by a [Dryer](./Dryer.md). They are both located in the basements of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), [Skeeter's Ridge](./Skeeter%27s%20Ridge.md), and [Abandoned Harris Home](./Basement%20%28Crumbling%20Highway%29.md). They sometimes have clothes on top of them, but will always contain [Clothing](./Clothing.md) as loot.
+
+<span id="loot"></span><span id="Loot"></span>
 
 ## Loot
 

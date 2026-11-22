@@ -53,17 +53,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Camber Flight Porridge** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Camber Flight Porridge is a relatively simple and efficient unique recipe with good calorie density and a positive (if small) [Condition](./Condition.md) restoring effect, comparable to [Lily's Pancakes](./Lily%27s%20Pancakes.md), but uses [Running River Oats](./Running%20River%20Oats.md) instead of [Old Mill Flour](./Old%20Mill%20Flour.md). [Rose Hips](./Rose%20Hip.md) can be found abundantly on [Great Bear Island](./Great%20Bear%20Island.md), [Maple Syrup](./Maple%20Syrup.md) rarer but used in small amounts, making [Pinnacle Peaches](./Pinnacle%20Peaches.md) the main limiting ingredient. Acquiring the Recipe Card for Camber Flight Porridge requires traversing the long and cold Far Range Branch Line, Transfer Pass, and the cold, windy and exposed plains of Forsaken Airfield.
 
 It's Recipe Card can be found inside the kitchen of the [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 - +10% [Condition](./Condition.md) (instant)
 - [Nourished](./Nourished.md) +10% Maximum Condition (for 3 hours)
 - [Headache](./Headache.md) (1 hour)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -95,6 +101,8 @@ It's Recipe Card can be found inside the kitchen of the [Main Hangar](./Main%20H
 **Item:** [Maple Syrup](./Maple%20Syrup.md)
 
 **Quantity:** 0.05 kg
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

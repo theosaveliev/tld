@@ -14,6 +14,8 @@ The company performed logging in [Mystery Lake](./Mystery%20Lake%20%28region%29.
 
 It is unclear if Breyerhouse constructed the Trans-Island Railway Line, or merely acquired it after [coal mining](./Cinder%20Hills%20Coal%20Mine.md) or the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) ceased operations.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - The name Breyerhouse is possibly inspired by [Weyerhaeuser](wikipedia:Weyerhaeuser), a timberland real-estate trust and wood product company headquartered in Seattle, Washington.

@@ -52,6 +52,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Stalker's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Stalker's Pie is a relatively complex recipe, requiring meat from multiple [predatory wildlife](./Bear.md), and with a recipe card found in the wilderness region of [Hushed River Valley](./Hushed%20River%20Valley.md). It boasts a number of small positive effects and extremely high calorie density at ~6,667 kcal/kg (beating the MRE at 3,500 kcal/kg although losing to Breyerhouse pie with 7,083 kcal/kg) and it has several positive effects. It requires a maximized [Cooking skill](./Cooking.md) and reduces carry weight when consumed, and its ingredients are either limited or difficult to obtain.
@@ -62,6 +64,8 @@ The recipe for Stalker's Pie is found on a [Frozen Corpse](./Frozen%20Corpse.md)
 
 Stalker's Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#Baiting%2FDecoys).
 
+<span id="effects"></span><span id="Effects"></span>
+
 ## Effects
 
 - +15% [Stamina](./Stamina.md) (instantly)
@@ -69,6 +73,8 @@ Stalker's Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.m
 - 6 hours of [Improved Rest](./Improved%20Rest.md) (+1% [Condition](./Condition.md) restored per hour of sleep, or 18 hours)
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - -3.00kg Decreased Carry Weight ([Burdened](./Burdened.md) for 1 hour)
+
+<span id="recipe"></span><span id="Recipe"></span>
 
 ## Recipe
 
@@ -107,11 +113,15 @@ The ingredients of this pie are the similar to [Breyerhouse Pie](./Breyerhouse%2
 
 **Quantity:** 0.50 kg
 
+<span id="location"></span><span id="Location"></span>
+
 ### Location
 
 ![The locations of the Recipe Card for Stalker's Pie.](../assets/StalkerPieMap.png)
 
 The recipe can be found on a corpse in [Hushed River Valley](./Hushed%20River%20Valley.md). All three locations are located southeast of [Stairsteps Lake](./Stairsteps%20Lake.md). Refer to the map below for details.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

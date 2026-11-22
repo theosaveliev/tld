@@ -83,11 +83,15 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Mackenzie's Pants** are a [Clothing](./Clothing.md) item worn on the player's inner legs obtained exclusively in [Wintermute](./Wintermute.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Mackenzie's Pants are equipped as default clothing when the player awakens from the plane crash during the first chapter of [Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 The statistics of Mackenzie's Pants are identical to those of [Jeans](./Jeans.md).
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 ## Episode 1
 
@@ -97,9 +101,13 @@ The description and appearance of the Pants changes during the mission [The Cras
 
 They can be carried into Episode 2 if the player holds onto it by the end of Episode 1.
 
+<span id="episode_2"></span><span id="Episode_2"></span><span id="episode-2"></span>
+
 ## Episode 2
 
 If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) out of order, Mackenzie starts the Episode wearing his Pants.
+
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
 
 ## Episode 4
 
@@ -113,9 +121,11 @@ Mackenzie's Pants are still worn when playing [Episode 4: Fury, Then Silence](./
 
 ![Post Crash model damaged](../assets/Mackenzie%27s_Pants_Post_Crash_Model_Damaged_icon.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Renamed from _Will's Pants_ to _Mackenzie's Pants_
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game

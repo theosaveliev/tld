@@ -6,7 +6,7 @@
 
 [Fresh Gut icon](../assets/Fresh_Gut_icon.png)
 
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
 
 **Wintermute:** No
 
@@ -25,6 +25,8 @@
 **Weight:** 0.10 kg (0.22 lbs)
 
 **Fresh Gut** is an animal-based [Material](./Materials.md) that can be harvested from [Wildlife](./Wildlife.md) carcasses. Fresh Guts can also be used as a [Baiting](./Scent.md#Baiting%2FDecoys) to distract predators, but are primarily used to craft or repair various animal based [Clothing](./Clothing.md) once they have [Cured](./Curing.md) into [Cured Gut](./Cured%20Gut.md).
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
@@ -45,9 +47,13 @@ Fresh Gut can be harvested from [Hunting](./Hunting.md) or [Trapping](./Trapping
 
 Once harvested, Fresh Gut can be cured by letting them air-dry indoors for 5 days into [Cured Gut](./Cured%20Gut.md). Fresh Gut [Decay](./Decay.md) at a rate of 5 Condition a day (Stalker difficulty) and will decay into Ruined status if not left to cure indoors. The current curing status can be checked by hovering your reticle over the item, where it will display a "X% Cured" progress. This increases until the item is 100% cured, where the item will automatically become fully cured, will change to a darker texture, and is ready for crafting use. Completely cured items never decay.
 
+<span id="drop_decoy"></span><span id="Drop_decoy"></span><span id="drop-decoy"></span>
+
 ## Drop decoy
 
 Fresh Gut contributes to a survivor's overall [Scent](./Scent.md). This can either be a detriment or a useful advantage when Baiting predator animals. Higher scent will also upset prey [wildlife](./Wildlife.md), such as alerting [Deer](./Deer.md) to a survivor's presence when upstream of wind. Pressing the Drop Decay button will automatically drop any Fresh Gut in the player's inventory onto the ground.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 
@@ -57,5 +63,5 @@ Fresh Gut contributes to a survivor's overall [Scent](./Scent.md). This can eith
   - Re-balanced gut yield for Bear.
 - UPDATE **11 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Gut can now be Harvested from Wolf carcasses.
-- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.01)):**
+- UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to the game.

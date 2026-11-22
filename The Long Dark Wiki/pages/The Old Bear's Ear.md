@@ -6,7 +6,7 @@
 
 [The Old Bear's Ear icon](../assets/The_Old_Bear%27s_Ear_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
 
@@ -34,6 +34,8 @@
 
 **The Old Bear's Ear** was a [Collectible](./Collectibles.md) item found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode as part of the mission [Jeremiah's Folly](./Jeremiah%27s%20Folly.md). It is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), as it did not survive the transition from Predux Episode 2 to Redux Episode 2, as Jeremiah's Folly was instead replaced with the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 It was obtained after successfully tracking and shooting the [Old Bear](./Old%20Bear.md) multiple times in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), and finally killing the bear. After interacting with the carcass of The Old Bear, the bear's ear would instantly appear and could be taken. It would later be taken to [Jeremiah](./Jeremiah.md) as proof that [Will Mackenzie](./Will%20Mackenzie.md) managed to kill the Old Bear.
@@ -42,9 +44,11 @@ It was obtained after successfully tracking and shooting the [Old Bear](./Old%20
 
 ![Jeremiah with the Old Bear's Ear after Mackenzie returns with it.](../assets/Jeremiah_Old_Bear_Ear.jpg)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

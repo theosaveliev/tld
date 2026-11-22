@@ -8,7 +8,7 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [A Se
 
 [A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md)
 
@@ -38,7 +38,9 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [A Se
 
 During the course of the mission, the surivor finds the book _A Sewing Primer_ from the second floor of [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) in [Milton](./Milton.md), and are tasked to repair clothing items.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Added to game.

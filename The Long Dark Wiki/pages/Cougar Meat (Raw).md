@@ -50,6 +50,8 @@ _For the cooked version, see [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%
 
 **Cougar Meat (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_. It can be obtained by killing the [Cougar](./Cougar.md), though this requires the player to be well prepared, as the Cougar is a fierce and dangerous animal to hunt.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
@@ -65,6 +67,8 @@ _For the cooked version, see [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%
 ![Rancid](../assets/Cougar_Meat_%28Raw%29_Rancid.png)
 
 ![Ruined](../assets/Cougar_Meat_%28Raw%29_Ruined.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

@@ -43,6 +43,8 @@
 
 **Patterned Wool Mittens (Blue)** is the name given to 3 unique variations of [Wool Mittens](./Wool%20Mittens.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are easy to maintain, however they offer little protection against animal attacks.
@@ -50,5 +52,7 @@ Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are 
 ![Clothing model](../assets/Patterned_Wool_Mittens_%28Blue%29_model.png)
 
 ![Clothing model damaged](../assets/Patterned_Wool_Mittens_%28Blue%29_model_damaged.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

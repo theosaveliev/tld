@@ -6,7 +6,7 @@
 
 [Passenger Manifest icon](../assets/Passenger_Manifest_icon.png)
 
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
 
 **Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md)
 
@@ -36,11 +36,13 @@
 
 During the course of the mission, Astrid finds the _Passenger Manifest_ on the [Frozen Corpse](./Frozen%20Corpse.md) of [ID - V. Singh](./ID%20-%20V.%20Singh.md) at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Passenger Manifest**_
 
-\[piece of torn paper, barely legible\]
+[piece of torn paper, barely legible]
 
 North Star Charters Flight 7030 Passenger Manifest
 
@@ -63,7 +65,9 @@ D. Belanger
  A. Roy  
  R. Tan
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.

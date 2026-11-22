@@ -29,11 +29,15 @@
 
 **Stump Remover** is a crafting material for [Gunsmithing](./Gunsmithing.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Stump Remover is used to craft [Can of Gunpowder](./Can%20of%20Gunpowder.md), a resource for [Gunsmithing](./Gunsmithing.md). This may only be done at the [Ammunition Workbench](./Ammunition%20Work%20Bench.md) in [Bleak Inlet](./Bleak%20Inlet.md) or at [Blackrock Prison](./Blackrock%20Prison.md). Bottles of Stump Remover can be found in residential or agricultural sites on [Great Bear Island](./Great%20Bear%20Island.md).
 
 0.10 kg of gunpowder may also be used as an accelerant for [starting fires](./Fire%20Starting.md), or used for crafting [Noisemakers](./Noisemaker.md). This gives stump remover a use on Interloper difficulty, despite firearms not being present.
+
+<span id="spawn_points"></span><span id="Spawn_points"></span><span id="spawn-points"></span>
 
 ## Spawn points
 
@@ -80,11 +84,15 @@ Some observed spawn points include:
   - Inside Guard Barracks
   - In a open top crate on a shelf inside the workbench shed
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | None | - 1 × [Stump Remover](./Stump%20Remover.md)<br>- 1 × [Dusting Sulfur](./Dusting%20Sulfur.md)<br>- 2 × [Charcoal](./Charcoal.md) |
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 

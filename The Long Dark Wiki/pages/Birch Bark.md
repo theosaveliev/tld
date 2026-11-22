@@ -15,7 +15,7 @@
 
 [Birch Bark icon](../assets/Birch_Bark_icon.png)
 
-**Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
+**Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)
 
 **Wintermute:** Yes (bug?)
 
@@ -41,6 +41,8 @@
 
 **Birch Bark** is a natural medical, food and firestarting item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Birch Bark is a multi-purpose item which may be used raw as Tinder for [Firestarting](./Fire%20Starting.md), or crafted into [Birch Bark Tea](./Birch%20Bark%20Tea.md), a food and medical item.
@@ -55,6 +57,8 @@ The Benefit "Restore Condition" heals 5% Condition (2.5% per hour, for 2 hours),
 
 Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark, 0.10kg), and no form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 
+<span id="fire_starting_info"></span><span id="Fire_Starting_info"></span><span id="fire-starting-info"></span>
+
 ## Fire Starting info
 
 **Birch Bark**
@@ -65,11 +69,15 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) | None | - 2 × [Birch Bark](./Birch%20Bark.md) |
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -82,6 +90,8 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 - Teas are more weight efficient than Water for the Hydration they grant (0.1kg of a tea grants 30% Hydration, equivalent to 0.22kg of water).
 - Birch Bark, [Prepared Birch Bark](./Prepared%20Birch%20Bark.md), and [Birch Bark Tea](./Birch%20Bark%20Tea.md) never [decay](./Decay.md).
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - It is possible to survive exclusively on Birch Bark Tea, especially on easier difficulties or by using the starvation strategy (only eating just before sleep).
@@ -91,9 +101,11 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 - Consumption of Birch Bark or Birch Tea has no significant documental medical benefits, though it is commonly drunk ("[Birch Beer](https://en.wikipedia.org/wiki/Birch_beer)") in North-Eastern United States and Newfoundland (Canada).
 - Real-World Birch Bark is typically harvested directly from the trunks of dead trees (removing bark from live trees is hazardous to their health), which is partially supported in-game where only loose pieces from the ground are acquired. However in survival situations (rather than in luxury industries), removal of birch bark from live trees (injuring/killing them in the process) is more common.
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
   - Description updated from: Birch tree bark. Lightweight and flamable, this bark can be used as tinder
-- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)):**
+- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**
   - Added to game.

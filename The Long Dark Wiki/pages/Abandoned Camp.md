@@ -14,9 +14,13 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The camp consists of a [Snow Shelter](./Snow%20Shelter.md) and some loot. This location has more 4 potential spawn locations and will only spawn once in the region.
+
+<span id="spawn"></span><span id="Spawn"></span>
 
 ### Spawn
 

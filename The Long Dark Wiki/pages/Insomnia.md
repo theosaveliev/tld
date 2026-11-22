@@ -48,9 +48,13 @@
 
 ”
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 **Insomnia** is an [Affliction](./Afflictions.md) added to the Part 1 Update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, and is contracted from spending too much time in [Glimmer Fog](./Glimmer%20Fog.md) found within certain [Regions](./Region.md) within the Far Territory Frontier. At present, it can only be contracted in the [Forsaken Airfield](./Forsaken%20Airfield.md), [Zone of Contamination](./Zone%20of%20Contamination.md), and [Sundered Pass](./Sundered%20Pass.md) Regions.
+
+<span id="affliction"></span><span id="Affliction"></span>
 
 ## Affliction
 
@@ -64,6 +68,8 @@ Eating certain Recipes created from Frontier Cooking has a chance to lower the e
 
 Escaping regions that Glimmer Fog frequents will not remove the affliction at this stage. Curing the affliction only requires the player to wait the allotted hours for the disease to pass. Further Glimmer Fog events will not increase the affliction time until it returns to Risk status.
 
+<span id="hazards"></span><span id="Hazards"></span>
+
 ### Hazards
 
 To a healthy survivor with high [condition](./Condition.md), Insomnia is generally quite inconsequential, as interrupted sleep restores [fatigue](./Fatigue.md) just as effectively as uninterrupted sleep. In this situation, its only adverse affect is that sleeping may require a bit more clicking than normal, which is mildly annoying at most.
@@ -74,12 +80,16 @@ In rare cases, Insomnia could save the survivor's life: if they're sleeping in a
 
 In late-game [Misery](./Misery.md) where healing is impossible, Insomnia has little impact on gameplay, aside from the interrupted sleep.
 
+<span id="survivor_quotes"></span><span id="Survivor_Quotes"></span><span id="survivor-quotes"></span>
+
 ## Survivor Quotes
 
 - "I'm tired...can't sleep"
 - "I can close my eyes, I just can't sleep."
 - "I can close my eyes but I just can't sleep."
 - "Just...can't sleep!"
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia
 
@@ -90,6 +100,8 @@ Much like Cabin Fever, Insomnia is a psychological condition; specifically one t
 Like other afflictions, contracting Insomnia results in the player character providing unique audible cues related to their condition. The survivor will complain about being unable to sleep despite being tired.
 
 A [Note](./Note%20%28Forsaken%20Airfield%29.md) can be found from a survivor detailing their desire to leave the area that Glimmer Fog regularly envelopes, due to them being unable to get any sleep.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

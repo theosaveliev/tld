@@ -16,6 +16,8 @@ The **fire place** is an immovable [contained fire](./Fire.md#Contained_fires). 
 
 The fire place can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
+<span id="location"></span><span id="Location"></span>
+
 ## Location
 
 Fire places have fixed locations that do not change between games. They are found in many indoor locations in _The Long Dark_, including houses, trailers, and huts.

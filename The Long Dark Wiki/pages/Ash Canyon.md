@@ -47,11 +47,15 @@
 
 Ash Canyon can be accessed from two locations in eastern [Timberwolf Mountain](./Timberwolf%20Mountain.md): the eastern end of the [Echo Ravine](./Echo%20Ravine.md) basin which leads to [Bitter Marsh](./Bitter%20Marsh.md), and a transition cave east of [Deer Clearing](./Deer%20Clearing.md) to [Pillar's Footrest](./Pillar%27s%20Footrest.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The region is relatively cold (-25°C / -13°F) and consists almost entirely of wilderness: charred forests, frozen wetlands and high plateaus separated by deep canyons. A variety of bridges (artificial and natural) connect the higher elevation areas.
 
 Traveling to higher elevations requires either lengthy detours or multiple rope climbs from the lower areas of the region. While traveling at higher elevations, there is little risk of hostile wildlife, but traversing rope bridges can pose serious risks since falling from them is fatal. In addition, the limited availability of food, especially on Stalker and Interloper with the presence of [Intestinal Parasites](./Intestinal%20Parasites.md) in wolf and bear meat, will likely prevent lengthy stays in the upper areas without utilization of starvation tactics.
+
+<span id="exclusive_gear"></span><span id="Exclusive_gear"></span><span id="exclusive-gear"></span>
 
 ## Exclusive gear
 
@@ -60,6 +64,8 @@ Three pieces of gear are exclusive to Ash Canyon: the [Curator's Rifle](./Curato
 The crampons and technical backpack are located inside of the [Gold Mine](./Gold%20Mine.md) by a [Frozen Corpse](./Frozen%20Corpse.md) to the region's northwest. Similar to other mines on [Great Bear Island](./Great%20Bear%20Island.md), the Gold Mine's interior is dark and warm; its interior also contains shallow pools of [cold water](./Environmental%20Hazard.md) and an underground waterfall which must be passed through. The [Curator's Rifle](./Curator%27s%20Rifle.md), a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md), will always spawn in the region, though its exact location will vary in each playthrough.
 
 Despite the challenging environment, these items make exploring Ash Canyon and other regions easier. The backpack increases carry weight, and crampons help during rope climbs and navigating steep hills. The Curator's Rifle has 33% longer range than a normal rifle, which makes hunting [Bears](./Bear.md) and [Moose](./Moose.md) somewhat safer.
+
+<span id="survivability"></span><span id="Survivability"></span>
 
 ## Survivability
 
@@ -75,6 +81,8 @@ Similar to [Hushed River Valley](./Hushed%20River%20Valley.md), Ash Canyon conta
 
 Work Benches are also present, including one inside Angler's Den and an outdoor bench at Miner's Folly. Arrowheads may be found at some locations (e.g., Angler's Den), enabling limited access to hunting without the need to cross several regions to the closest [Forge](./Forge.md).
 
+<span id="base_locations"></span><span id="Base_locations"></span><span id="base-locations"></span>
+
 ### Base locations
 
 [Homesteader's Respite](./Homesteader%27s%20Respite.md) provides an attractive base option. Once reached for the first time (from above), a climbing rope may be deployed for easier future access from below. It is also not necessary to climb down, as the landslide near the homestead provides a safe path to scramble down. With the nearby broken fishing hut and a lack of nearby predators, this is possibly the most sustainable base in the region, although fuel will have to be carried up as none spawns on the ledge the cabin is on.
@@ -82,6 +90,8 @@ Work Benches are also present, including one inside Angler's Den and an outdoor 
 [Angler's Den](./Angler%27s%20Den.md) is also a popular base option, given that it is very central and has everything a player might need, including a [Work Bench](./Work%20Bench.md), [Pot Belly Stove](./Pot%20Belly%20Stove.md), [bunk bed](./Bed.md), and a chest. There's also three [arrowheads](./Arrowhead.md) that always spawn there, allowing Interloper players to start hunting without a long trip to [The Riken](./The%20Riken.md) for forging. Both [Deer](./Deer.md) and Rabbits can be found nearby, and the fishing hut at [Bitter Marsh](./Bitter%20Marsh.md) is not too far away. The major disadvantage of this location is that leaving the immediate area can be difficult, due to wolves in the narrow passages.
 
 A final option for a base is [Miner's Folly](./Miner%27s%20Folly.md). Most players will prefer to live in the [Foreman's Retreat](./Foreman%27s%20Retreat.md) nearby, as it offers a stove, fireplace, and plenty of storage. The nearby Bear can be hunted, providing a large amount of food, and a few Deer can spawn nearby. A [Fire Barrel](./Fire%20Barrel.md) near a Work Bench allows crafting without catching [Cabin Fever](./Cabin%20Fever.md). Fuel is somewhat limited, however [Coal](./Coal.md) can be found in a large [Cave](./Cave%20%28Ash%20Canyon%20location%29.md) nearby.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -93,6 +103,8 @@ There are a number of discoverable locations in this region.
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region Transition.
 
+<span id="map"></span><span id="Map"></span>
+
 ## Map
 
 ![A detailed map of Ash Canyon v2.35 (spoilers)](../assets/AC_map_default.png)
@@ -101,10 +113,14 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region T
 
 ![Older map variant v1.94](../assets/Ash_Canyon_map.png)
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere](../assets/Ash_Canyon_Rope_Bridge_Fog.jpg)
 
 ![Concept art for the region. Do note that such bridges do not appear in the final product](../assets/Ash_Canyon_Concept_Art.png)
+
+<span id="trivia"></span><span id="Trivia"></span>
 
 ## Trivia

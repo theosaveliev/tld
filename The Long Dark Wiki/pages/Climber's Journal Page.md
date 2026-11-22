@@ -6,7 +6,7 @@
 
 [Climber's Journal Page icon](../assets/Climber%27s_Journal_Page_icon.png)
 
-**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
 
 **Wintermute:** No
 
@@ -34,6 +34,8 @@
 
 **Climber's Journal Page** is a [Collectible](./Collectibles.md) item found near the base of [Timberwolf Mountain](./Timberwolf%20Mountain.md) in the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in [Survival Mode](./Survival%20Mode.md). It describes the days before and after the crash of the plane at the [Summit](./Summit.md) of Timberwolf Mountain.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Climber's Journal Page**_
@@ -50,9 +52,13 @@ Sept 7th
 
 Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.
 
+<span id="gallery"></span><span id="Gallery"></span>
+
 ## Gallery
 
 ![Map on the back of the journal page.](../assets/Climber%27s_journal_page_-_map.jpg)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

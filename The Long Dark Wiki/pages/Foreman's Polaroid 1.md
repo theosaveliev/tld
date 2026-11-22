@@ -24,11 +24,15 @@
 
 **Foreman's Polaroid 1** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found after reading [Foreman's Technical Log 1](./Foreman%27s%20Technical%20Log%201.md) in [Sundered Pass](./Sundered%20Pass.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Foreman's Polaroid 1**_
 
 My low camp while I track his movements through the pass. Below the treeline with good access to water.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

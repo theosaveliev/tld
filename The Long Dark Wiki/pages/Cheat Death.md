@@ -23,13 +23,17 @@
 ![Cheat Death](../assets/Cheat_Death.jpg)
 > **You can cheat death, but you can’t cheat death for free.**
 
-**Cheat Death** is a mechanic in [Survival Mode](./Survival%20Mode.md) of _[The Long Dark](./The%20Long%20Dark.md)_, allowing the player to escape a previously lethal situation at the cost of increased difficulty. Cheat Death was added for free in the Part 5 update of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).[¹](#fn1)
+**Cheat Death** is a mechanic in [Survival Mode](./Survival%20Mode.md) of _[The Long Dark](./The%20Long%20Dark.md)_, allowing the player to escape a previously lethal situation at the cost of increased difficulty. Cheat Death was added for free in the Part 5 update of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).<span id="fnref1"></span>[¹](#fn1)
 
-This option is available for every difficulty Experience except [Misery](./Misery.md), and is not present in [Challenges](./Challenge.md).[²](#fn2)
+This option is available for every difficulty Experience except [Misery](./Misery.md), and is not present in [Challenges](./Challenge.md).<span id="fnref2"></span>[²](#fn2)
+
+<span id="overview"></span><span id="Overview"></span>
 
 ## Overview
 
 Cheat Death is an optional change to The Long Dark's permadeath system which adds new gameplay to players who aren’t ready to lose their favorite survivor after dying. Cheat Death may be performed up to 3 times (for 4 total lives), with progressively harsher penalties each time. Each extra life is symbolized by a Campfire that can be seen upon quickly checking your status in the pause screen. If the player chooses to persist upon death, an extra life is used up, and the Campfires will become extinguished starting with the left, middle, right Campfire. Once a player dies a 4th time, the player will fade away into The Long Dark.
+
+<span id="choice"></span><span id="Choice"></span>
 
 ## Choice
 
@@ -47,9 +51,13 @@ Upon reaching 0% [Condition](./Condition.md) while playing Survival Mode, the pl
 
 ![Cheat Death Choice](../assets/Cheat_Death_Choice.jpg) If the player closes the game at this point, the save file will be wiped by default. Choosing "Cheat Death" allows the player to continue playing in the same Survival Sandbox, but at a cost...
 
+<span id="cheat_death_consequences"></span><span id="Cheat_Death_Consequences"></span><span id="cheat-death-consequences"></span>
+
 ## Cheat Death Consequences
 
 ![Cheat Death Consequences](../assets/Cheat_Death_Consequences.jpg)If the player chooses to Cheat Death, they will be presented with a list of consequences for this option.
+
+<span id="achievements"></span><span id="Achievements"></span>
 
 ### Achievements
 
@@ -201,11 +209,15 @@ Reach all 6 [Vista](./Polaroids.md) locations in the Far Territory (single game)
 
 Travel from [Desolation Point](./Desolation%20Point.md) to [Sundered Pass](./Sundered%20Pass.md) (single game).
 
+<span id="affliction"></span><span id="Affliction"></span>
+
 ### Affliction
 
 > “**Cheating Death will weaken you, temporarily diminishing your condition and stamina recovery.**”
 
 The player's [Condition](./Condition.md) and [Stamina](./Stamina.md) recovery will be halved when they awaken ([Weakened State](./Weakened%20State.md)).
+
+<span id="backpack"></span><span id="Backpack"></span>
 
 ### Backpack
 
@@ -213,17 +225,23 @@ The player's [Condition](./Condition.md) and [Stamina](./Stamina.md) recovery wi
 
 Many items in the player's inventory will be missing when they wake up. Some items will be carried over to their new life, but many will be lost until they are recovered by finding the [Recovery Backpack](./Recovery%20Backpack.md).
 
+<span id="penalty"></span><span id="Penalty"></span>
+
 ### Penalty
 
 > “**You will choose between a painful short-term penalty, or a more forgiving but permanent one.**”
 
 The player will be given the choice of the severity of a penalty for choosing to Cheat Death (see next section).
 
+<span id="respawn"></span><span id="Respawn"></span>
+
 ### Respawn
 
 > “**You will have to choose between the risk of a spawn close to where you died, or a safe but distant one.**”
 
 The player cannot choose where to respawn, but how they will respawn (see later section).
+
+<span id="cheat_death_penalty"></span><span id="Cheat_Death_Penalty"></span><span id="cheat-death-penalty"></span>
 
 ## Cheat Death Penalty
 
@@ -238,6 +256,8 @@ The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.
   - No Recovery Time penalty, but...
   - Max Condition PERMANENTLY reduced by 25% for the first death, 35% for the second, 50% for the third.
 
+<span id="respawn_1"></span><span id="respawn-1"></span>
+
 ## Respawn
 
 ![Cheat Death Respawn](../assets/Cheat_Death_Respawn.jpg) When you Cheat Death, you'll be given the option to respawn somewhere inside the region you just died, or in a safe but far away location:
@@ -246,6 +266,8 @@ The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.
 - **Far, Safe Respawn** will always send the player in or near an indoor location that they may or may not have already discovered in another region. "Safe" is relative, since based on the condition of clothing and remaining inventory, survival may still be a challenge. It is possible to be sent to a region the player has not explored yet, may be a neighboring region or one quite distant (ex, from [Sundered Pass](./Sundered%20Pass.md) all the way to [Coastal Highway](./Coastal%20Highway.md)).
 
 Once the respawn conditions are chosen, the player will be asked to confirm, allowing them to cancel Cheat Death or amend their previous choices.
+
+<span id="risky_respawn_locations"></span><span id="Risky_respawn_locations"></span><span id="risky-respawn-locations"></span>
 
 ### Risky respawn locations
 
@@ -257,11 +279,13 @@ _This section could use expansion._
 | --- | --- | --- |
 | [Coastal Highway](./Coastal%20Highway.md) | Near [coastal townsite](./Coastal%20Townsite.md) | Three way, T shaped intersection right above coastal townsite |
 
+<span id="safe_respawn_locations"></span><span id="Safe_respawn_locations"></span><span id="safe-respawn-locations"></span>
+
 ### Safe respawn locations
 
 _This section is a work in progress. You can help by adding eligible locations found in the current version of the game._
 
-It is unknown if there are any eligible Safe respawn locations in [Forlorn Muskeg](./Forlorn%20Muskeg.md).[³](#fn3)
+It is unknown if there are any eligible Safe respawn locations in [Forlorn Muskeg](./Forlorn%20Muskeg.md).<span id="fnref3"></span>[³](#fn3)
 
 **Far, Safe Respawn locations**
 
@@ -273,7 +297,7 @@ It is unknown if there are any eligible Safe respawn locations in [Forlorn Muske
 | [Bleak Inlet](./Bleak%20Inlet.md) | [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) | outdoors |
 | Bleak Inlet | [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) |  |
 | Bleak Inlet | [Last Resort Cannery](./Last%20Resort%20Cannery.md) | outdoors, near the rope, [Timberwolves](./Timberwolf.md) may be active |
-| Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.31_%28Steam%2C_Epic_Games%29)_[⁴](#fn4) |
+| Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.31_%28Steam%2C_Epic_Games%29)_<span id="fnref4"></span>[⁴](#fn4) |
 | [Blackrock](./Blackrock.md) | [Old Substation](./Old%20Substation.md) |  |
 | Blackrock | [Power Plant](./Power%20Plant.md) |  |
 | Blackrock | [Trailer](./Trailer%20%28Blackrock%20Region%29.md) | west, near the river |
@@ -302,6 +326,8 @@ It is unknown if there are any eligible Safe respawn locations in [Forlorn Muske
 | (TFTFT) [Sundered Pass](./Sundered%20Pass.md) | [Placid Notch](./Placid%20Notch.md) | outdoors, near Refuge Cabin B |
 | (TFTFT) [Zone of Contamination](./Zone%20of%20Contamination.md) | _TBD_ |  |
 
+<span id="cheating_death"></span><span id="Cheating_Death"></span><span id="cheating-death"></span>
+
 ## Cheating Death
 
 If the player accepts the terms of Cheating Death, the survivor will wake up looking at their hands and commenting in their confusion if they really just died. Upon awakening, the following occurs:
@@ -318,9 +344,13 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 - Dying before reclaiming your Recovery Backpack and Cheating Death a second time will remove the first Backpack from the game world and generates a second one. The previous campsite will be removed from the Map and a second campsite will appear at a new location. This will result in the loss of all lost items tied to the Recovery Backpack from your first life if you did not recover them, **_including unique, one-of-a-kind items_** that can be found only once in the game world. The only exception to this is that any items around the first campsite rather than inside the Recovery Backpack will remain in the game world, but finding this camp can be troublesome without the icon on the Map.
   - Example: dying with [Barb's Rifle](./Barb%27s%20Rifle.md) and not having it in your inventory when you awake, then dying and cheating death a second time before it was recovered will result in the permanent loss of the rifle on that playthrough.
 
+<span id="achievements_1"></span><span id="achievements-1"></span>
+
 ## Achievements
 
 - ![Something Wicked icon](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
+
+<span id="game_history"></span><span id="Game_History"></span><span id="game-history"></span>
 
 ## Game History
 
@@ -329,11 +359,13 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 
 ## References
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. [TALES FROM THE FAR TERRITORY, PART FIVE, NOW LIVE!](https://www.thelongdark.com/news/tales-from-the-far-territory-part-five-now-live/), Hinterlands Studio, June 24, 2024[↩︎](#fnref1)
-2. [Dev Diary – May 2024](https://www.thelongdark.com/news/dev-diary-may-2024/), Hinterlands Studio, May 13, 2024[↩︎](#fnref2)
-3. TyrForged (November 22, 2025). "[Cheat death "safe" respawn scouting](https://www.youtube.com/watch?v=-XzPYavfHHA)" (video). YouTube.[↩︎](#fnref3)
-4. Hinterland Studios (July 4, 2024). "[THE LONG DARK Updated to v 2.31](https://hinterlandforums.com/forums/topic/45309-the-long-dark-updated-to-v-231/)"[↩︎](#fnref4)
+1. <span id="fn1"></span>[TALES FROM THE FAR TERRITORY, PART FIVE, NOW LIVE!](https://www.thelongdark.com/news/tales-from-the-far-territory-part-five-now-live/), Hinterlands Studio, June 24, 2024[↩︎](#fnref1)
+2. <span id="fn2"></span>[Dev Diary – May 2024](https://www.thelongdark.com/news/dev-diary-may-2024/), Hinterlands Studio, May 13, 2024[↩︎](#fnref2)
+3. <span id="fn3"></span>TyrForged (November 22, 2025). "[Cheat death "safe" respawn scouting](https://www.youtube.com/watch?v=-XzPYavfHHA)" (video). YouTube.[↩︎](#fnref3)
+4. <span id="fn4"></span>Hinterland Studios (July 4, 2024). "[THE LONG DARK Updated to v 2.31](https://hinterlandforums.com/forums/topic/45309-the-long-dark-updated-to-v-231/)"[↩︎](#fnref4)

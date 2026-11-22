@@ -34,6 +34,8 @@ _For the unique version of the Flashlight, see [Miner's Flashlight](./Miner%27s%
 
 The **Flashlight**is a light emitting, self-defense tool in _[The Long Dark](./The%20Long%20Dark.md)_. It is available in both Wintermute and Survival mode, and was added in the launch of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)_._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The Flashlight is battery-powered portable light source used as a modern industrial age era replacement of the [Torch](./Torch.md) and [Storm Lantern](./Storm%20Lantern.md), but is unfortunately no longer functional due to the effects of the [First Flare](./First%20Flare.md) (much like all modern electronics currently).
@@ -42,11 +44,15 @@ When equipped and used by the player, they will receive a message informing them
 
 Flashlight is not available on Interloper.
 
+<span id="powered"></span><span id="Powered"></span>
+
 ### Powered
 
 Turning the Flashlight on creates a cone of light, but will slowly drain its battery. While a Flashlight is on and wielded, its "high beam" mode (RMB) can be used, rapidly draining its battery but greatly lighting the surrounding area.
 
 A 100% charged flashlight will last 1 hour of continuous use, or around 25 seconds when using the high beam mode. When used and turned off, Flashlights will slowly recharge back to their maximum storage capacity, as long as an Aurora/Glimmer Fog event remains active. Once these events end, the battery will immediately die, and the Flashlight will become unusable until the next event.
+
+<span id="high_beam"></span><span id="High_Beam"></span><span id="high-beam"></span>
 
 ### High Beam
 
@@ -54,9 +60,13 @@ The high beam setting of the Flashlight can be used as a temporary defense again
 
 Flashlight do not effect wildlife when powered by [Glimmer Fog](./Glimmer%20Fog.md) (since they are currently not aurora predators).
 
+<span id="decay"></span><span id="Decay"></span>
+
 ### Decay
 
 Storm Lanterns and Flashlights are the only tools that do not [Decay](./Decay.md), even when equipped during a [Struggle](./Struggle.md). However they spawn with various levels of Condition and can be repaired with [Scrap Metal](./Scrap%20Metal.md).
+
+<span id="tips"></span><span id="Tips"></span>
 
 ## Tips
 
@@ -68,6 +78,8 @@ Storm Lanterns and Flashlights are the only tools that do not [Decay](./Decay.md
 - The Flashlight requires [tools](./Simple%20Tools.md) and Scrap Metal to repair.
 - Scrapping a Flashlight will give 1 Scrap Metal.
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 During an Aurora or Glimmer Fog event, using the Flashlight on High will cause the tip of the Flashlight to emit sparks, visually explaining why the battery power dies so quickly. Despite the obviously high power consumption, the battery will never short circuit/suffer critical operational damage from being overcharged.
@@ -75,6 +87,8 @@ During an Aurora or Glimmer Fog event, using the Flashlight on High will cause t
 The light the Flashlight emits in High Beam Mode flashes between the colors Purple, Green, and Blue.
 
 The Flashlight appears to be loosely based on a 1920s vintage Ever-Ready flashlight, however uses a LED bulb as opposed to the Ever-Ready's fluorescent bulb.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

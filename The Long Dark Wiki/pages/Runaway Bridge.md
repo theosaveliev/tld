@@ -14,6 +14,8 @@
 
 **Type:** Outdoors
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A path leading to a rock that you can deploy a [Mountaineering Rope](./Mountaineering%20Rope.md) on for easy access to the [Climber's Cave](./Climber%27s%20Cave.md). There are some [wolves](./Wolf.md) on the plateau to the right after crossing the bridge, but there is no apparent way to climb up to them, nor can they seem to find a way to reach you.

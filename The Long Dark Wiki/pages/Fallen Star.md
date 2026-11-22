@@ -24,19 +24,23 @@
 
 **Fallen Star** is the second mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Father Thomas](./Father%20Thomas.md) and learns about her predicament.
 
+<span id="objectives"></span><span id="Objectives"></span>
+
 ## Objectives
 
-- Check on the plane crash survivors in the hall. \[0/6\]
+- Check on the plane crash survivors in the hall. [0/6]
 - Talk to Father Thomas.
 - Locate the downed airliner.
 - Find Insulin for Dimitri.
-- Find the passenger IDs. \[0/10\]
+- Find the passenger IDs. [0/10]
 - Help any passengers found near the plane.
 - Bring Gwen to the Community Hall.
 - Place Gwen in an unoccupied bed.
 - Administer Insulin to Dimitri.
-- Return IDs \[0/10\].
+- Return IDs [0/10].
 - Talk to Father Thomas.
+
+<span id="walkthrough"></span><span id="Walkthrough"></span>
 
 ## Walkthrough
 
@@ -63,6 +67,8 @@ At the top of the hill, a survivor named Gwen is pinned beneath a seat. Remove t
 Head back down the hill, but turn towards the right. The path the player entered the area through—the plane—will be blocked. At the bottom of the hill on the right is a small cave which makes for a good place to sleep or build a [Campfire](./Campfire.md). Continuing to the right is the only way to exit the area. The player will cross a fallen-tree bridge and continue down a hill to a burned house. [Molly](./Molly.md) will call the phone at the house.
 
 Be wary of Timberwolves along the way back to the Community Hall. Gwen must be placed on the ground to draw a weapon or interact with objects. Bring Gwen back to Community Hall and place her on the newly preplaced unoccupied bed. Give Dimitri his Insulin and then talk to the 12 survivors already in the hall to break the news of the missing/dead plane passengers, then talk to Father Thomas, and the mission will end.
+
+<span id="id_quantity_clarifications"></span><span id="ID_quantity_clarifications"></span><span id="id-quantity-clarifications"></span>
 
 ### ID quantity clarifications
 

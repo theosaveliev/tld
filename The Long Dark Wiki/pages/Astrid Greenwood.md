@@ -20,7 +20,7 @@
 
 [Astrid](../assets/Astrid.png)
 
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Date:** 1 August 2017
 
@@ -52,11 +52,15 @@
 
 **Doctor Astrid Greenwood** is one of two playable protagonists in _[The Long Dark](./The%20Long%20Dark.md)_. She is playable in Episode 3 and Episode 5.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Dr. Astrid Greenwood is a freelance medical doctor and the ex-wife of Will Mackenzie. After an unexpected confrontation between the two sometime before the [First Flare](./First%20Flare.md), Astrid seeks Will out after years of being apart. Will's skill and determination as a bush pilot make him Astrid's best hope to reach an isolated town in the north of Great Bear Island, where a patient of hers awaits treatment. After hesitating at first, Mackenzie agrees to fly her out in bad weather. During a tense conversation alluding to a shared, devastating loss, a bright flash of light blazes across the sky. The First Flare event sends their small plane crashing to the ground in the northern wilderness. The two are separated and forced to survive in the unforgiving reality of the Quiet Apocalypse.
 
 Players experience [Story mode](./Wintermute.md) through both [Will Mackenzie's](./Will%20Mackenzie.md) and Astrid's point of view.
+
+<span id="description"></span><span id="Description"></span>
 
 ## Description
 
@@ -64,15 +68,21 @@ Astrid is indigenous with short, brown hair and green eyes. She wears a tan jack
 
 Astrid is a doctor--a researcher more than a medical provider, she says--who goes above and beyond to try to help those in need. She generally has a serious, no-nonsense demeanor, in comparison to [Will Mackenzie's](./Will%20Mackenzie.md) much more sarcastic tendencies.
 
+<span id="background"></span><span id="Background"></span>
+
 ## Background
 
 Through Episode 1, we learn that Astrid was married to Will Mackenzie, but they were separated due to an unknown incident, likely the death of their child. She is a doctor who used to work at The Center, which is implied to be a health research department. It was brought to her attention that someone was sick in [Perseverance Mills](./Perseverance%20Mills.md), likely by someone she knows. She had left The Center, and implied to have stolen something from it.
+
+<span id="episode_1"></span><span id="Episode_1"></span><span id="episode-1"></span>
 
 ## Episode 1
 
 She meets Will an unknown amount of time after asking to be sent to Great Bear Island in poor weather conditions, and he reluctantly agrees. After having a shared conversation about their loss, Astrid witnesses the First Flare along with Mackenzie and crashes into Great Bear.
 
 Shortly after the crash, Astrid makes her way to [Milton](./Milton.md), leaving the case and her pack behind, possibly due to injuries. Upon arrival, she finds the [schoolhouse](./Old%20Schoolhouse.md) burning down, along with the people inside it. She tries to save them, but is attacked by a group of convicts, including [Hobbs](./Hobbs.md), and is forced to defend herself, which includes stabbing Hobbs. She is pursued to the Tunnel and crawls under the prison bus, writing 'PERSEVERANCE' in blood before escaping to the other side.
+
+<span id="episode_3"></span><span id="Episode_3"></span><span id="episode-3"></span>
 
 ## Episode 3
 
@@ -104,18 +114,26 @@ With the knowledge that her ex-husband is alive and newfound hope, Astrid leaves
 
 She rides the elevator up and exits the mine into Desolation Point, and witnesses several beached whales and a shipwreck. The episode ends while she delivers a monologue.
 
+<span id="episode_4"></span><span id="Episode_4"></span><span id="episode-4"></span>
+
 ## Episode 4
 
 Astrid is seen very briefly at the end of Episode 4. Having commandeered a boat and some blankets from the Coastal Highway region, Astrid has sailed her way to Perseverance Mills, where she is encountered by the locals. A guard initially mistakes her for a runaway who has broken quarantine, but recognizes her as an outsider. A [woman](./Jane%20Yang.md) that had been on the phone call in the Episode 3 flashback appears, but realizes that Astrid does not have the hardcase with her.
 
+<span id="episode_5"></span><span id="Episode_5"></span><span id="episode-5"></span>
+
 ## Episode 5
+
+<span id="ingame_stats"></span><span id="Ingame_stats"></span><span id="ingame-stats"></span>
 
 ## Ingame stats
 
 In [Story](./Wintermute.md) mode each survivor has slightly different skills, these skills are not shown in game directly, but some can be extrapolated from gameplay. Astrid has:
 
-- lvl 2 [Rifle Firearm](./Rifle%20Firearm.md) skill [¹](#fn1)
-- lvl 3 [Cooking](./Cooking.md) skill [²](#fn2)
+- lvl 2 [Rifle Firearm](./Rifle%20Firearm.md) skill <span id="fnref1"></span>[¹](#fn1)
+- lvl 3 [Cooking](./Cooking.md) skill <span id="fnref2"></span>[²](#fn2)
+
+<span id="belongings"></span><span id="Belongings"></span>
 
 ## Belongings
 
@@ -127,6 +145,8 @@ In [Story](./Wintermute.md) mode each survivor has slightly different skills, th
 - ![Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png) [Astrid's Boots](./Astrid%27s%20Boots.md)
 - ![Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png) [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 - Astrid wears a blue scarf with birds on it at the start of Episode 1, but it is mostly destroyed and its remains are used by Hobbs to make a makeshift arm sling.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -160,14 +180,18 @@ _A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20
 
 ![Astrid's magnetic stripe card](../assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%283%29.png)
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - Astrid Greenwood is voiced by [Jennifer Hale](Wikipedia:Jennifer_Hale). Hale's other notable works include [Commander Shepard](W:c:masseffect:Commander_Shepard) (female) in the _[Mass Effect](W:c:masseffect:Category:Games)_ series, [Jennifer Mui](W:c:mercenaries:Jennifer_Mui) in the _[Mercenaries](W:c:mercenaries:Category:Games)_ series, and [Naomi Hunter](W:c:metalgear:Naomi_Hunter) in the _[Metal Gear Solid](W:c:metalgear:Category:Games)_ series, among many others.
 - Astrid evidently enjoys driving [steam locomotives](./Steam%20Train.md), as this is the only time she laughs in the entire game.
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Visible as +2% condition gain when cleaning rifle instead of the revolver[↩︎](#fnref1)
-2. Visible as +15% calories from cooked food, for example a [Cup of Coffee](./Cup%20of%20Coffee.md) having 115 kcal instead of 100.[↩︎](#fnref2)
+1. <span id="fn1"></span>Visible as +2% condition gain when cleaning rifle instead of the revolver[↩︎](#fnref1)
+2. <span id="fn2"></span>Visible as +15% calories from cooked food, for example a [Cup of Coffee](./Cup%20of%20Coffee.md) having 115 kcal instead of 100.[↩︎](#fnref2)

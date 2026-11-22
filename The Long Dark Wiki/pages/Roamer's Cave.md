@@ -16,6 +16,8 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Aside from the Cave itself, there is a burnt out trailer along with a shed and some wooden scaffolding leading up into the mountain. [Rabbits](./Rabbit.md) and [Ptarmigan](./Ptarmigan.md) can be found in the field of the plateau in front of the cave.

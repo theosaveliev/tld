@@ -24,25 +24,37 @@
 
 **Type:** Cave
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Providing a decent warmth bonus, this cave is perfect to overnight in while wandering in the highlands. The lake in front of the cave is often frequented by [rabbits](./Rabbit.md) and a possible [Moose](./Moose.md) spawn, making this place a good spot to rest in the central area in the region.
+
+<span id="use_as_a_base"></span><span id="Use_as_a_base"></span><span id="use-as-a-base"></span>
 
 ### Use as a base
 
 Although Climber's Cave is safe from hostile fauna and will not cause [cabin fever](./Cabin%20Fever.md), its usefulness as a long-term base is severely limited by the lack of any food source other than rabbits and [cattails](./Cat%20Tail.md) in the nearby area. Additionally, the cave can become very cold during early-morning blizzards, which may necessitate a fire to stay warm. Overall, Climber's Cave is more suited for short-term stays than long-term living.
 
+<span id="loot"></span><span id="Loot"></span>
+
 ## Loot
 
 Climbers cave usually contains a high grade piece of clothing, for example [Snow Pants](./Snow%20Pants.md), and some food in form of cooked [Venison](./Venison%20%28Cooked%29.md) and a cup of [Herbal Tea](./Herbal%20Tea.md). It also contains randomized loot from a backpack, firewood and charcoal inside the burnt out campfire.
 
+<span id="nearby_unnamed_locations"></span><span id="Nearby_unnamed_locations"></span><span id="nearby-unnamed-locations"></span>
+
 ## Nearby unnamed locations
+
+<span id="rope_and_bridge_above_the_shattered_cove"></span><span id="Rope_and_bridge_above_the_Shattered_Cove"></span><span id="rope-and-bridge-above-the-shattered-cove"></span>
 
 ### Rope and bridge above the [Shattered Cove](./Shattered%20Cove.md)
 
 Going towards the right edge of the mountain, atop witch the cave is located (east, direction of Bitter Marsh), the survivor can find a medium size climbing rope going down, underneath which there is a small cave (left when looking at the bottom of the rope), inside which is possibly 10 [Revolver Ammunition](./Revolver%20Ammunition.md) and on a short ledge behind a pair of [Cargo Pants](./Cargo%20Pants.md) and a hunting knife hidden in a nook of the cliff, not far from the rope bridge over Shattered Cove.
 
 This location is however best reached by dropping a one way slope from the same side of the mountain, but slightly above the [Climber's Cave](./Climber%27s%20Cave.md), the route is visible on the wiki map of [Ash Canyon](./Ash%20Canyon.md), as this will save you one trip of the rope, as well as allowing you to reach a shallow cave at the far bottom of the map, possibly containing another 10 rounds of [Revolver Ammunition](./Revolver%20Ammunition.md). The beginning of this route is beneath a large overhang rock pass, visible on the right when standing above the [Climber's Cave](./Climber%27s%20Cave.md). There is a [Cooking Pot](./Cooking%20Pot.md) and a pair of [Ski Boots](./Ski%20Boots.md) buried in the snow under the overhang.
+
+<span id="hidden_cache_and_minor_loot"></span><span id="Hidden_cache_and_Minor_Loot"></span><span id="hidden-cache-and-minor-loot"></span>
 
 ### Hidden cache and Minor Loot
 
@@ -53,6 +65,8 @@ Continuing across the fallen tree bridge (going East in the direction of Pillar 
 (In the past, a broken rifle could be discovered in the place of the minor loot, it was not harvestable, but around it partially buried in the snow were ~8 [Revolver Shell Casings](./Revolver%20Shell%20Casing.md) a [Can of Gunpowder](./Can%20of%20Gunpowder.md), [Stump Remover](./Stump%20Remover.md) and an [Improvised Knife](./Improvised%20Knife.md).)
 
 From there the cave transition to Timberwolf Mountain, the West access, is not far.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 

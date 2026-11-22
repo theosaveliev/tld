@@ -34,6 +34,8 @@
 
 **Ski Boots** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Ski boots are extremely rare and high tier footwear. They offer the best warmth, windchill and protection bonuses of all footwear, but are extremely heavy and have a large mobility penalty. This makes them ideal for short hunting trips against [wolves](./Wolf.md) and [bears](./Bear.md), or for camping outside. They are poorly suited for long-distance travel and exploration.
@@ -43,6 +45,8 @@ Not available on Interloper.
 ![Clothing model icon](../assets/Ski_Boots_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Ski_Boots_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

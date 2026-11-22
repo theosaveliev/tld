@@ -29,9 +29,13 @@
 
 **Forsaken Shore** is the 3rd [Modded Region](./The%20Long%20Development.md) added to the game, as part of The Long Development's unofficial region mods. The region connects from [Rocky Thoroughfare](./Rocky%20Thoroughfare.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The region features two areas: an area near the coast, and an inland half with significant elevation differences. There is a [Chemical Hazard](./Chemical%20Hazard.md) present around one of islands just off the shore.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 

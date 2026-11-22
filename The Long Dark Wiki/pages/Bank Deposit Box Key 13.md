@@ -6,7 +6,7 @@
 
 [Bank Deposit Box Key 13 icon](../assets/Bank_Deposit_Box_Key_13_icon.png)
 
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
 
 **Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md)
 
@@ -32,7 +32,9 @@ It is located on a corpse near the frozen river between [Orca Gas Station](./Orc
 
 ![Key is located here.](../assets/Location.Key.13.png)
 
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
+
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
   - Added to game.

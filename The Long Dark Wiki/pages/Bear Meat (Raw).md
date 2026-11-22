@@ -13,7 +13,7 @@
 
 [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png)
 
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
 
 **Wintermute:** No
 
@@ -43,6 +43,8 @@ _For the cooked version, see [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.m
 
 **Bear Meat** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 25.0 and 40.0 kg of raw meat. Consuming raw meat carries a high chance of contracting [Food Poisoning](./Food%20Poisoning.md).
@@ -53,12 +55,16 @@ Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 2
 - Meat decays slower outdoors than indoors.
 - Bear Meat is very energy dense for its weight.
 
+<span id="products"></span><span id="Products"></span>
+
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) |
 | [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -73,6 +79,8 @@ Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 2
 ![Ruined](../assets/Bear_Meat_%28Raw%29_Ruined_icon.png)
 
 ![Old model.](../assets/Black_bear_meat.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

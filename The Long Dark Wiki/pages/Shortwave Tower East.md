@@ -16,8 +16,12 @@
 
 **Type:** OutdoorsMilitary/Sporting
 
+<span id="surroundings"></span><span id="Surroundings"></span>
+
 ## Surroundings
 
 A [Transmitter](./Transmitters.md) is found nearby, along with a [Supply Bin](./Supply%20Bin.md) with a [Car Battery](./Car%20Battery.md) inside. A [Polaroid](./Polaroids.md) Vista location can be found here.
+
+<span id="story"></span><span id="Story"></span>
 
 ## Story

@@ -43,6 +43,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 4** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 One of the many coastal rail regions on Anna Island, this Track Region is unique in that it transitions to 4 other regions. This will be the first proper region where the player can use the [Prototype Train](./Prototype%20Train.md), having just recently acquiring it from Track Section 6.
@@ -55,6 +57,8 @@ One of the many coastal rail regions on Anna Island, this Track Region is unique
 There is one [Water Tower](./Water%20Tower.md) next to the [Repair Depot](./Repair%20Depot.md), and an [Oil Tank](./Oil%20Tank.md) just outside the Depot walls. The Repair Depot also contains enough supplies to repair the Train, as well as a place to safely rest.
 
 Despite the map showing a set of tracks at the eastern Railyard that the player can use to turn around and head east, these tracks do not exist, and only form a Y out of the Section 6 tunnel. The tracks leading out of the previous region will always take the player west as a result, so the player will have to circle around Anna Island fully to return to [Port Remnant](./Port%20Remnant.md).
+
+<span id="locations"></span><span id="Locations"></span>
 
 ## Locations
 
@@ -76,6 +80,8 @@ There are 7 named locations within Track Section 4, including:
 - There is a [Repair Depot](./Repair%20Depot.md) at the western Railyard, just before the Aurora Gate bridge.
 
 
+<span id="wildlife_management"></span><span id="Wildlife_management"></span><span id="wildlife-management"></span>
+
 ## Wildlife management
 
 Much like the other Track Section regions, wildlife is quite sparse and only appears in a handful of locations.
@@ -84,11 +90,17 @@ Much like the other Track Section regions, wildlife is quite sparse and only app
 - [Deer](./Deer.md) can be found by the Repair Depot
 - [Wolf](./Wolf.md) can be found by the Repair Depot
 
+<span id="survivability"></span><span id="Survivability"></span>
+
 ## Survivability
+
+<span id="safe_houses"></span><span id="Safe_houses"></span><span id="safe-houses"></span>
 
 ## Safe houses
 
 Key shelters in Port Remnant include: Repair Depot.
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
@@ -114,7 +126,11 @@ _**Repair Depot**_
 
 ![The tunnel leading to Track Section 6 that Alice McLeod rammed through to hide the train.](../assets/Track_Section_6_Tunnel.jpg)
 
+<span id="maps"></span><span id="Maps"></span>
+
 ### Maps
+
+<span id="locations_1"></span><span id="locations-1"></span>
 
 ### Locations
 

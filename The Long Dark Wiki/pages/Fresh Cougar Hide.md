@@ -32,6 +32,8 @@
 
 A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Curing.md) into a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). A fresh hide takes 10 days to cure.
 
+<span id="drop_sources"></span><span id="Drop_sources"></span><span id="drop-sources"></span>
+
 ## Drop sources
 
 | Source | Quantity | Rarity |
@@ -41,6 +43,8 @@ A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Cu
 ![3d model](../assets/Cougar_Hide_3d_model.jpg)
 
 ![Old icon](../assets/Cougar_Hide_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

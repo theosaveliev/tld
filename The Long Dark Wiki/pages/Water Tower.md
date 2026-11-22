@@ -20,6 +20,8 @@
 
 <br>A **Water Tower** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in railyards on [Cauldron Island](./Cauldron%20Island.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 A **Water Tower** initially contains 6,000 liters of [Unsafe Water](./Water%20%28Unsafe%29.md), and is accompanied by two yellow signs labelled "WATER". When the Survivor pulls the train up close to the tower, a small sign under the signpost will flip a black panel to green a green one, letting them know that the [train](./Prototype%20Train.md) is in position to be filled (fuel and water caps must be in the middle of the signs to trigger this).
@@ -39,6 +41,8 @@ Water can also be transferred into the Survivor's backpack, 5.00 liters at a tim
   - Passing time and canceling the refueling process part way will only deposit a partial amount of water into the train up until the moment it is canceled. (needs verification).
 - Water Towers refuel over time, so that the player will never run out of water for the train.
   - If the water level in the tower falls below 4,900 liters, it will immediately refill, allowing the tower to serve as an infinite source of Unsafe Water.
+
+<span id="locations"></span><span id="Locations"></span>
 
 ### Locations
 

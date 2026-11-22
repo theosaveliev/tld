@@ -34,6 +34,8 @@
 
 The **Military Coat** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 High-tier coat giving good warmth, waterproofness and protection compared to other clothing of its rank. The Military Coat is, for the most part, a direct upgrade to the [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), giving better waterproofing, more protection, and a lower mobility penalty. The coat does take longer to repair than the parka, though, and doesn't gain much condition restoration per repair.
@@ -41,6 +43,8 @@ High-tier coat giving good warmth, waterproofness and protection compared to oth
 ![Clothing model icon](../assets/Military_Coat_Model_icon.png)
 
 ![Clothing model icon damaged](../assets/Military_Coat_Model_Damaged_icon.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

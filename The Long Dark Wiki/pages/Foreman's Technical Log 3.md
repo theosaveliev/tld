@@ -24,11 +24,13 @@
 
 **Foreman's Technical Log 3** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found at the [High Peak Plateau](./High%20Peak%20Plateau.md) in [Sundered Pass](./Sundered%20Pass.md) while following the Tale.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Foreman's Technical Log 3**_
 
-\[paper fragment with shaky handwriting...\]
+[paper fragment with shaky handwriting...]
 
 Tracked the slippery creep up here, but he's moving fast. Stronger than he looks, and just as I'm starting to fade.
 
@@ -38,13 +40,15 @@ Some bright idea, huh?
 
 I miss my brother. He would have loved this op. Can't...really see his face anymore.
 
-Feel bad for the guys that didn't get out. That \*goddamn\* mine. Part of the gig to keep them in the dark, but this one hurt.
+Feel bad for the guys that didn't get out. That _goddamn\_ mine. Part of the gig to keep them in the dark, but this one hurt.
 
 Well then.
 
 It's almost kinda nice when the sun's up. And the wind stops howling.
 
 Onward. Gotta fix this. Finish it.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

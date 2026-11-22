@@ -26,6 +26,8 @@
 
 **Faded Notebook Paper** is a [Collectible](./Collectibles.md) item found in the [Wintermute](./Wintermute.md) game files. It currently unknown if this is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), or if it is in one of the episodes.
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Faded Notebook Paper**_
@@ -35,5 +37,7 @@ All I see are wolves. Not sure what happened.
 I don't like it, but if this keeps up I'll do what I gotta do, like always.
 
 Wolves do the same, anyways. Got to keep movin'. Can't get backed into a corner again.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history

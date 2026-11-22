@@ -32,27 +32,39 @@
 
 [Fires](./Fire.md) generate heat to restore and conserve [Warmth](./Warmth.md). Players can cook food, melt snow, and purify water on any fire started through the fire starting skill.
 
+<span id="how_to_start_a_fire"></span><span id="How_to_start_a_fire"></span><span id="how-to-start-a-fire"></span>
+
 ## How to start a fire
 
 Fire Starting is one of the easiest skills to train in _[The Long Dark](./The%20Long%20Dark.md)_, as players can increase their skill by lighting a new fire at any time during their playthrough.
 
 To start a fire, players have to "use" an existing [Firebox](./Fire.md#Types_of_fires) or fire or place a new campfire in an acceptable location. The player must then select an ignition source, tinder (optional at level 3 and higher), fuel, and an optional accelerant. At the top of the screen, the player's current fire starting skill and the chance of success with the currently selected materials are displayed.
 
+<span id="chance_of_starting"></span><span id="Chance_of_starting"></span><span id="chance-of-starting"></span>
+
 ### Chance of starting
 
 The chance of a fire-starting attempt succeeding is calculated directly by adding the benefits of the character's skill and all materials being used in the attempt. Changing the materials can improve the chance of a successful start. Chances greater than 100% are rounded down to 100% and cannot fail.
+
+<span id="attempting_to_start"></span><span id="Attempting_to_start"></span><span id="attempting-to-start"></span>
 
 ### Attempting to start
 
 Activating the start button on the bottom right will launch an attempt. A progress wheel will fill as the player character attempts to get the fire started. Normal attempts take 6 in-game minutes to achieve success. Attempts that include an accelerant take only 1 in-game minute. It is also possible to be interrupted in an attempt by aggressive [Wildlife](./Wildlife.md). Interrupted attempts count as a failure.
 
+<span id="failing_to_start"></span><span id="Failing_to_start"></span><span id="failing-to-start"></span>
+
 ### Failing to start
 
 Failure, if it does occur by chance, will consume a random amount of time before canceling the progress bar and removing the campfire (unless the player is relighting an existing fireplace). Failing a starting chance consumes the tinder and any liquid used, but does not consume the fuel. Matches are consumed as ignition sources but torches and flares are not. Firestrikers suffer condition loss on every attempt, while a magnifying lens does not.
 
+<span id="equipment"></span><span id="Equipment"></span>
+
 ## Equipment
 
 Players need one starter, one tinder, and one fuel before they can start fire starting. Player can start fires without a tinder after achieving level 3 in their fire starting skill.
+
+<span id="starter"></span><span id="Starter"></span>
 
 ### Starter
 
@@ -63,10 +75,12 @@ Players can select any starter currently carried in their inventory. They are se
 | [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) | [Cardboard Matches](./Cardboard%20Matches.md) | +0% chance | 0.005 kg<br>_(0.011 lb)_ | Consumed in attempt |
 | [Firestriker icon](../assets/Firestriker_icon.png) | [Firestriker](./Firestriker.md) | +15% chance | 0.10 kg<br>_(0.22 lb)_ | 2% condition loss each attempt |
 | [Flare icon](../assets/Flare_icon.png) | [Flare](./Flare.md) (lit) | +5% chance | 0.25 kg<br>_(0.55 lb)_ | Attempt may succeed even if item burns out |
-| [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg<br>_(0.22 lb)_ | Only effective outdoors with sunny weather [¹](#fn1) |
+| [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg<br>_(0.22 lb)_ | Only effective outdoors with sunny weather <span id="fnref1"></span>[¹](#fn1) |
 | [Marine Flare icon](../assets/Marine_Flare_icon.png) | [Marine Flare](./Marine%20Flare.md) (lit) | +5% chance | 0.25 kg<br>_(0.55 lb)_ | Attempt may succeed even if item burns out Beware of very short lifespan |
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg<br>_(0.66 lb)_ | Attempt may succeed even if item burns out |
 | [Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg<br>_(0.018 lb)_ | Consumed in attempt |
+
+<span id="tinder"></span><span id="Tinder"></span>
 
 ### Tinder
 
@@ -83,6 +97,8 @@ Player can start fires without a tinder after achieving Fire Starting Level 3 in
 | [Newsprint Roll icon](../assets/Newsprint_Roll_icon.png) | [Newsprint Roll](./Newsprint%20Roll.md) | +0% chance | 0.10 kg<br>_(0.22 lb)_ |
 | [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) | [Stack of Papers](./Stack%20of%20Papers.md) | +0% chance | 0.10 kg<br>_(0.22 lb)_ |
 | [Tinder Plug icon](../assets/Tinder_Plug_icon.png) | [Tinder Plug](./Tinder%20Plug.md) | +0% chance | 0.05 kg<br>_(0.11 lb)_ |
+
+<span id="fuel"></span><span id="Fuel"></span>
 
 ### Fuel
 
@@ -111,6 +127,8 @@ For example:
 | [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) | +15% chance | +7.5 minutes | +1 °C<br>_(1.8 °F)_ | 0.15 kg<br>_(0.33 lb)_ |
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (unlit) | +5% chance | +0-10 minutes | +1 °C<br>_(1.8 °F)_ | 0.30 kg<br>_(0.66 lb)_ |
 
+<span id="cut_fuel"></span><span id="Cut_Fuel"></span><span id="cut-fuel"></span>
+
 ### Cut Fuel
 
 Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update.
@@ -118,6 +136,8 @@ Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update
 | Image | Fuel | Benefit | Burn Time | Heat Bonus | Weight |
 | --- | --- | --- | --- | --- | --- |
 | [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) | [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) | +35% chance | +6 minutes | +2 °C<br>_(3.6 °F)_ | 0 kg<br>_(0 lb)_ |
+
+<span id="accelerant"></span><span id="Accelerant"></span>
 
 ### Accelerant
 
@@ -129,6 +149,8 @@ Players can optionally add any accelerant carried in their inventory. Accelerant
 | [Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | +40% chance | 0.50 kg<br>_(1.1 lb)_ |
 | [Jerry Can icon](../assets/Jerry_Can_icon.png) | [Jerry Can](./Jerry%20Can.md) | +40% chance | 3.30 kg<br>_(7.26 lb)_ |
 | [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) | [Lantern Fuel](./Lantern%20Fuel.md) | +40% chance | 0.50 kg<br>_(1.1 lb)_ |
+
+<span id="types_of_fireboxes"></span><span id="Types_of_Fireboxes"></span><span id="types-of-fireboxes"></span>
 
 ## Types of Fireboxes
 
@@ -146,6 +168,8 @@ When lit, a firebox will increase nearby Warmth, dry [Clothing](./Clothing.md), 
 | [Stove](../assets/Stove.png) | [Stove](./Stove.md) | Wind proof | 6 | Has 6 cooking slots. |
 | [Wood stove](../assets/Wood_stove.png) | [Wood Stove](./Wood%20Stove.md) | Wind proof | 2 | None. |
 
+<span id="feats"></span><span id="Feats"></span>
+
 ## Feats
 
 Players who have unlocked the Fire Master [Feat](./Feats.md) are able to activate it to start a new game with a Level 3 Fire-Starting skill.
@@ -153,6 +177,8 @@ Players who have unlocked the Fire Master [Feat](./Feats.md) are able to activat
 | Image | Feat | Requirement | Effect |
 | --- | --- | --- | --- |
 | [Badge feat firemaster](../assets/Badge_feat_firemaster.png) | Fire Master | Start 1000 fires | Survivors start with a Level 3 Fire Starting skill |
+
+<span id="skill_levels"></span><span id="Skill_levels"></span><span id="skill-levels"></span>
 
 ## Skill levels
 
@@ -174,8 +200,10 @@ Once players have reached a new skill level, they unlock a new bonus/bonuses get
 
 &lt;/table-progress-tracking&gt;
 
+<span id="footnotes"></span>
+
 ## Notes
 
 ---
 
-1. Magnifying lens does not require direct exposure to sun. For instance, can be used to start fires in the stove inside fishing huts or underneath thick tree cover as long as the day is at least partly sunny.[↩︎](#fnref1)
+1. <span id="fn1"></span>Magnifying lens does not require direct exposure to sun. For instance, can be used to start fires in the stove inside fishing huts or underneath thick tree cover as long as the day is at least partly sunny.[↩︎](#fnref1)

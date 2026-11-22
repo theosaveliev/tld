@@ -46,6 +46,8 @@ Harvest
 
 The crate is a wooden container which is used to store items. When a crate is broken down, it yields Reclaimed Wood and whatever contents may be inside. Crates are an excellent starter item, if any are found. Crates can be harvested with bare hands, with a hatchet, or with a heavy hammer.
 
+<span id="crates_containing_loot"></span><span id="Crates_containing_loot"></span><span id="crates-containing-loot"></span>
+
 ## Crates containing loot
 
 Crates near can sometimes hide items inside that can be obtained from harvesting the crate, such as [Accelerant](./Accelerant.md) and [MRE](./Military-Grade%20MRE.md).
@@ -61,6 +63,8 @@ Examples of locations where crates are known to contain loot:
 - [Timberwolf Mountain](./Timberwolf%20Mountain.md)
   - [Tail Section](./Tail%20Section.md)
 
+<span id="large_green_crate"></span><span id="Large_Green_Crate"></span><span id="large-green-crate"></span>
+
 ## Large Green Crate
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
@@ -69,6 +73,8 @@ Examples of locations where crates are known to contain loot:
 | 6 | 45 minutes | 135 | -2% Hatchet |
 | 6 | 58 minutes | 176 | -3% Improvised Hatchet |
 | 6 | 1 hour 8 minutes | 202 | -0.5% Heavy Hammer |
+
+<span id="medium_and_small_green_crate"></span><span id="Medium_and_Small_Green_Crate"></span><span id="medium-and-small-green-crate"></span>
 
 ## Medium and Small Green Crate
 
@@ -79,6 +85,8 @@ Examples of locations where crates are known to contain loot:
 | 4 | 39 mintues | 117 | -3% Improvised Hatchet |
 | 4 | 45 minutes | 135 | -0.5% Heavy Hammer |
 
+<span id="small_wooden_crate"></span><span id="Small_Wooden_Crate"></span><span id="small-wooden-crate"></span>
+
 ## Small Wooden Crate
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
@@ -87,6 +95,8 @@ Examples of locations where crates are known to contain loot:
 | 1 | 8 minutes | 22 | -2% Hatchet |
 | 1 | 10 minutes | 29 | -3% Improvised Hatchet |
 | 1 | 11 minutes | 34 | -0.5% Heavy Hammer |
+
+<span id="wooden_coal_crate"></span><span id="Wooden_Coal_Crate"></span><span id="wooden-coal-crate"></span>
 
 ## Wooden Coal Crate
 

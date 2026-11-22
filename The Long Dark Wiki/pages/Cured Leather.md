@@ -17,7 +17,7 @@
 
 [Cured Leather icon](../assets/Cured_Leather_icon.png)
 
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
 
 **Wintermute:** No
 
@@ -37,11 +37,15 @@
 
 **Cured Leather** is a material in _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 Cured Leather is a resource for repairing leather footwear, gloves, and accessories. It can be found uncommonly in containers or on the ground, and can be harvested from leather items. It is unrelated to the hides obtained from harvesting animals.
 
 Cured Leather is harvested from and used to repair:
+
+<span id="footwear"></span><span id="Footwear"></span>
 
 #### Footwear
 
@@ -54,6 +58,8 @@ Cured Leather is harvested from and used to repair:
 - [Ski Boots](./Ski%20Boots.md)
 - [Mukluks](./Mukluks.md)
 
+<span id="gloves"></span><span id="Gloves"></span>
+
 #### Gloves
 
 - [Driving Gloves](./Driving%20Gloves.md)
@@ -61,11 +67,15 @@ Cured Leather is harvested from and used to repair:
 - [Gauntlets](./Gauntlets.md)
 - [Tactical Gloves](./Tactical%20Gloves.md)
 
+<span id="accessory"></span><span id="Accessory"></span>
+
 #### Accessory
 
 - [Moose-Hide Satchel](./Moose-Hide%20Satchel.md)
 - [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 - [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md)
+
+<span id="products"></span><span id="Products"></span>
 
 ## Products
 
@@ -74,15 +84,21 @@ Cured Leather is harvested from and used to repair:
 | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md)<br>- 3 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Cured Leather](./Cured%20Leather.md) |
 | [Improvised Crampons](./Improvised%20Crampons.md) | None | - 4 × [Scrap Metal](./Scrap%20Metal.md)<br>- 2 × [Cured Leather](./Cured%20Leather.md) |
 
+<span id="trivia"></span><span id="Trivia"></span>
+
 ## Trivia
 
 - In early builds of _The Long Dark_ (alpha), Deer Hides provided "[Fresh Leather](./Fresh%20Leather.md)" when harvested; this item could be converted into "Cured Leather" by curing it, and then used for repairing clothing. Cured Leather is still present in _The Long Dark_, but is only obtainable by Harvesting leather footwear, gloves, the Moose-Hide Satchel, and [Beachcombing](./Beachcombing.md).
+
+<span id="gallery"></span><span id="Gallery"></span>
 
 ## Gallery
 
 ![Old model.](../assets/Cured_leather.png)
 
 ![ditto, with old Scrap Metal model](../assets/Materials.png)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

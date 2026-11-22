@@ -22,6 +22,8 @@ Region
 
 Provides some shelter **Fallow Dugout** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md), east of [Shoulder Lake](./Shoulder%20Lake.md).
 
+<span id="overview"></span><span id="Overview"></span>
+
 ## Overview
 
 The cave doesn't have a bed but does spawn a campfire alongside some meager loot including an axe.

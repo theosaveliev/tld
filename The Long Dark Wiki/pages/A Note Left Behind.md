@@ -17,7 +17,7 @@
 
 [A Note Left Behind icon](../assets/A_Note_Left_Behind_icon.png)
 
-**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
 
 **Wintermute:** No
 
@@ -45,7 +45,11 @@
 
 **A Note Left Behind** is a set of 12 [Collectibles](./Collectibles.md) found across several regions within [Survival Mode](./Survival%20Mode.md). They were authored by several backers of _[The Long Dark](./The%20Long%20Dark.md)_.
 
+<span id="locations_and_transcripts"></span><span id="Locations_and_Transcripts"></span><span id="locations-and-transcripts"></span>
+
 ## Locations and Transcripts
+
+<span id="pleasant_valley"></span><span id="Pleasant_Valley"></span><span id="pleasant-valley"></span>
 
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
@@ -64,6 +68,8 @@ _The following text is transcribed from **A Note Left Behind**_
 As a plant goes to seed in the fall, a period of hibernation sets in until spring. As the weather warms, plant seeds into loose soil with plenty of sun. Keep moist but not wet. If the final frost has not passed, keep seedlings indoors at night, as a single shock of cold can stun if not kill young plants outright. Spread plantings out over several months to keep producing into the fall. Green leafy vegetables will survive the following winter indoors.
 
 (Contributed by Backer #3781)
+
+<span id="mystery_lake"></span><span id="Mystery_Lake"></span><span id="mystery-lake"></span>
 
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
@@ -97,6 +103,8 @@ A dull knife. A rock. A length of rope. It's like one of those jokes you hear ab
 
 (Contributed by Backer #4675)
 
+<span id="forlorn_muskeg"></span><span id="Forlorn_Muskeg"></span><span id="forlorn-muskeg"></span>
+
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) - on bed on the loft above the [Forge](./Forge.md).
@@ -106,6 +114,8 @@ _The following text is transcribed from **A Note Left Behind**_
 Do you see the stars? Do you see that you are there? It's a fault of the mind to perceive separation. The same fault creates time. Look around, observe. Your father was trying to preserve what we have. The boxes hold the seeds of the universe. Breathe deep and persist. Fix that goal in your mind. Concentrate on a single flower. You'll feel that warmth on your cheeks again. This is just a signal from beyond. It's just a passing cloud from another world. The songs of birds will fill pink skies. Remember, the weakest light breaks the deepest darkness.
 
 (Contributed by Backer #4783)
+
+<span id="coastal_highway"></span><span id="Coastal_Highway"></span><span id="coastal-highway"></span>
 
 ### [Coastal Highway](./Coastal%20Highway.md)
 
@@ -141,6 +151,8 @@ Heather
 
 (Contributed by Backer #4675)
 
+<span id="old_island_connector"></span><span id="Old_Island_Connector"></span><span id="old-island-connector"></span>
+
 ### [Old Island Connector](./Crumbling%20Highway.md)
 
 - [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) - Outside in the car.
@@ -154,6 +166,8 @@ I hate this place so much. I should have listened to mama. Doing the exchange st
 I wonder if she's still alive?
 
 (Contributed by Backer #644)
+
+<span id="desolation_point"></span><span id="Desolation_Point"></span><span id="desolation-point"></span>
 
 ### [Desolation Point](./Desolation%20Point.md)
 
@@ -176,6 +190,8 @@ Sean's been my saviour, especially after Sue &amp; Tori's suicide. He told me ab
 Sean wouldn't wake up.
 
 (Contributed by Backer #644)
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

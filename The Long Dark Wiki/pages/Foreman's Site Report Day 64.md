@@ -28,6 +28,8 @@
 
 **Foreman's Site Report Day 64** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found when descending down the mineshaft on a [Supply Bin](./Supply%20Bin.md) inside the locked mountainside section of the [Langston Mine](./Langston%20Mine.md).
 
+<span id="transcript"></span><span id="Transcript"></span>
+
 ## Transcript
 
 _The following text is transcribed from **Foreman's Site Report, Day 64**_
@@ -39,6 +41,8 @@ None of the guys on my team believe a word of it.
 Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.
 
 I’ve gotta put a stop to this.
+
+<span id="update_history"></span><span id="Update_history"></span><span id="update-history"></span>
 
 ## Update history
 

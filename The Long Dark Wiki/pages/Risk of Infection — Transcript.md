@@ -27,6 +27,8 @@
 
 This is the transcript for Chapter 1 [Risk of Infection](./Risk%20of%20Infection.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
+<span id="opening_cutscene"></span><span id="Opening_cutscene"></span><span id="opening-cutscene"></span>
+
 ## Opening cutscene
 
 _The intro "By the Lion's Roar" plays_
@@ -77,7 +79,7 @@ Jeremiah: "No."
 
 _The trapper coughs and spits, pointing to the door_
 
-Jeremiah: "Old...dam. Map. Back of the door... \[gurgles and passes out\]"
+Jeremiah: "Old...dam. Map. Back of the door... [gurgles and passes out]"
 
 _Mackenzie gets up to check on him_
 
@@ -90,6 +92,8 @@ Mackenzie: "Hmm...looks like an old hydroelectric dam not too far from here. Mig
 _Mackenzie turns around to look at the old man on the bed_
 
 Mackenzie: "Hang in there...whatever your name is."
+
+<span id="find_and_enter_the_abandoned_dam."></span><span id="Find,_and_enter_the_abandoned_dam."></span><span id="find,_and_enter_the_abandoned_dam."></span><span id="find-and-enter-the-abandoned-dam"></span>
 
 ## Find, and enter the abandoned dam.
 
@@ -106,6 +110,8 @@ _Otherwise, Mackenzie wastes no time making his way to the Dam, walking over the
 Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
 _Mackenzie passes through the Staging Area and walks inside_
+
+<span id="search_for_medical_supplies_that_can_help_the_old_trapper."></span><span id="Search_for_medical_supplies_that_can_help_the_old_trapper."></span><span id="search-for-medical-supplies-that-can-help-the-old-trapper"></span>
 
 ## Search for medical supplies that can help the old trapper.
 
@@ -130,6 +136,8 @@ _Mackenzie: "A ha....here it is."_
 _He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) and [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md), and takes both. He returns to unlock the Medical Locker, finding [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) inside._
 
 _Mackenzie: "This is what I'm looking for. There - - that should help. And...morphine? Looks expired but...you never know."_
+
+<span id="get_the_meds_back_to_the_trapper_before_he_dies."></span><span id="Get_the_meds_back_to_the_trapper_before_he_dies."></span><span id="get-the-meds-back-to-the-trapper-before-he-dies"></span>
 
 ## Get the meds back to the trapper before he dies.
 

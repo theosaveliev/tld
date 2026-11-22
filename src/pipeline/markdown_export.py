@@ -95,11 +95,11 @@ INLINE_CODE_SPAN_RE = re.compile(
     + r"+)"
 )
 FENCED_CODE_RE = re.compile(r"^[ \t]{0,3}(" + re.escape(BACKTICK) + r"{3,}|~{3,})")
-EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
+EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "steam", "tel"})
 LOCAL_WIKI_SCHEMES = frozenset(
     {"category", "file", "image", "media", "module", "special", "template"}
 )
-NAMED_INTERWIKI_SCHEMES = frozenset({"c", "w", "wikia", "wikipedia"})
+NAMED_INTERWIKI_SCHEMES = frozenset({"c", "w", "wikia", "wikt", "wikipedia"})
 
 
 class ExportSummary(TypedDict):
@@ -1110,8 +1110,16 @@ def _rewrite_anchor_nodes(
         ) and label.casefold().startswith(f"{scheme}:"):
             link.drop_tree()
             continue
+        if _is_external_scheme(scheme):
+            continue
 
         raw = urllib.parse.unquote(href).lstrip(":")
+        raw = re.sub(
+            r"^(?:\\?\[){2}(?=(?:file|image|media)\s*:)",
+            "",
+            raw,
+            flags=re.IGNORECASE,
+        )
         prefix, separator, _ = raw.partition(":")
         namespace = prefix.strip().casefold()
         if separator and namespace in {

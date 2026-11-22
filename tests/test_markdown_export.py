@@ -806,6 +806,59 @@ def test_html_strong_formatting_handles_blank_lines_from_breaks() -> None:
     assert "**First statement.  \n  \nSecond statement.**" not in markdown
 
 
+def test_page_markdown_converts_leaked_quote2_tables_to_blockquotes() -> None:
+    body = """**Template:quote2**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **A quotation spanning multiple lines.
+
+The second sentence.**
+
+Speaker Name
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Following paragraph.**
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "> **A quotation spanning multiple lines." in markdown
+    assert "> The second sentence.**" in markdown
+    assert "> — Speaker Name" in markdown
+    assert "**Following paragraph.**" in markdown
+    assert "Template:quote2" not in markdown
+    assert "{|" not in markdown
+    assert "|}" not in markdown
+
+
+def test_page_markdown_removes_inline_wikitext_table_wrappers() -> None:
+    body = (
+        r'Details \|} after text {\| class="" '
+        r'style="background-color:transparent; color:inherit; width:100%;"'
+    )
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "|}" not in markdown
+    assert "{|" not in markdown
+    assert "background-color:transparent" not in markdown
+    assert "Details  after text" in markdown
+
+
+def test_html_wrapper_table_renders_nested_table_without_flattening() -> None:
+    fragment = """<table><tbody><tr><td>
+<p>Before the nested table.</p>
+<table class="wikitable"><tbody>
+<tr><th>Name</th><th>Details</th></tr>
+<tr><td>Revolver</td><td>Cartridge</td></tr>
+</tbody></table>
+<p>After the nested table.</p>
+</td></tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "Before the nested table." in markdown
+    assert "| Name | Details |" in markdown
+    assert "| Revolver | Cartridge |" in markdown
+    assert "After the nested table." in markdown
+    assert "Before the nested table. /" not in markdown
+
+
 def test_page_markdown_strips_wikitext_table_row_artifacts() -> None:
     body = r"**Item type:** [Collectibles](./Collectibles.md)\|-"
 

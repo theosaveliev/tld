@@ -998,6 +998,7 @@ def _page_markdown(
         lines.extend([" · ".join(metadata), ""])
     cleaned_body = _strip_navbox_lua_errors(body)
     cleaned_body = _strip_wikitext_table_row_artifacts(cleaned_body)
+    cleaned_body = _strip_empty_gallery_sections(cleaned_body)
     if cleaned_body:
         lines.extend([cleaned_body, ""])
     document = "\n".join(lines).rstrip() + "\n"
@@ -1022,7 +1023,7 @@ def _strip_navbox_lua_errors(value: str) -> str:
 
 
 def _strip_wikitext_table_row_artifacts(value: str) -> str:
-    """Remove leaked end-of-row markers without changing fenced code."""
+    """Remove leaked MediaWiki table, file, template, and empty-list artifacts."""
     output: list[str] = []
     fence: tuple[str, int] | None = None
     for line in value.splitlines(keepends=True):
@@ -1035,12 +1036,77 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
                 fence = None
             output.append(line)
             continue
+
         cleaned_line = line
         if fence is None:
-            cleaned_line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
+            stripped = cleaned_line.strip()
+            if re.fullmatch(
+                r"""\\?\|}\s*\\?\{\|\s*style\s*=\s*["']margin:auto["']""",
+                stripped,
+                re.IGNORECASE,
+            ):
+                continue
+            if re.fullmatch(
+                r"\s*(?:\\?\[){2}\s*file\s*:.*?(?:\\?\]){2}\s*",
+                cleaned_line,
+                re.IGNORECASE,
+            ):
+                continue
+            if re.fullmatch(r"\s*\|\s*\|\s*[-–—]\s*\|\s*", stripped):
+                continue
+            if re.fullmatch(r"\s*(?:[-*+ ]|[0-9]+[.)])\s*", stripped):
+                continue
+
+            cleaned_line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", cleaned_line)
+            template_link = (
+                r"\*\*Template:(?:pic link plain|iconlink(?: plain)?)\*\*"
+                r"(\[[^\]\n]+\]\([^)]+\))\*\*"
+            )
+            cleaned_line = re.sub(
+                template_link, r"\1", cleaned_line, flags=re.IGNORECASE
+            )
+            cleaned_line = re.sub(
+                r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?)\*{0,2}",
+                "",
+                cleaned_line,
+                flags=re.IGNORECASE,
+            )
+            cleaned_line = re.sub(
+                r"(?m)^(\s*[-*+]\s*),[ \t]*",
+                r"\1",
+                cleaned_line,
+            )
         output.append(cleaned_line)
     return "".join(output)
 
+
+def _strip_empty_gallery_sections(value: str) -> str:
+    """Remove Gallery headings that have no content and their matching TOC entries."""
+    lines = value.splitlines()
+    empty_gallery_lines: set[int] = set()
+    for index, line in enumerate(lines):
+        heading = re.match(r"^(#{1,6})\s+Gallery\s*#*\s*$", line, re.IGNORECASE)
+        if heading is None:
+            continue
+        following = index + 1
+        while following < len(lines) and not lines[following].strip():
+            following += 1
+        if following == len(lines) or re.match(r"^#{1,6}\s+", lines[following]):
+            empty_gallery_lines.add(index)
+
+    if not empty_gallery_lines:
+        return value
+    cleaned = [
+        line
+        for index, line in enumerate(lines)
+        if index not in empty_gallery_lines
+        and not re.match(
+            r"^\s*[-*+]\s+\[Gallery\]\(#gallery\)\s*$",
+            line,
+            re.IGNORECASE,
+        )
+    ]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(cleaned)).strip()
 
 def _normalize_markdown_emphasis(value: str) -> str:
     """Use underscore-delimited italics without changing code spans or fences."""
@@ -1425,9 +1491,22 @@ def _markdown_image(node: lhtml.HtmlElement) -> str:
 def _inline_markdown(node: lhtml.HtmlElement) -> str:
     """Render an element's mixed inline content without retaining HTML tags."""
     pieces = [_markdown_text(node.text or "")]
+    previous_child: lhtml.HtmlElement | None = None
     for child in node:
         if isinstance(child.tag, str):
+            current_tag = _html_tag(child)
+            previous_tag = _html_tag(previous_child) if previous_child is not None else ""
+            if (
+                previous_tag in {"strong", "b"}
+                and current_tag in {"strong", "b"}
+                and previous_child is not None
+                and not (previous_child.tail or "").endswith((" ", "\t", "\n"))
+                and not (child.text or "").startswith((" ", "\t", "\n"))
+                and _inline_markdown(child)
+            ):
+                pieces.append(" ")
             pieces.append(_inline_markdown_element(child))
+            previous_child = child
         pieces.append(_markdown_text(child.tail or ""))
     return "".join(pieces)
 

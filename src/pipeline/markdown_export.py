@@ -2712,7 +2712,7 @@ def _table_cell_has_block_layout(cell: lhtml.HtmlElement) -> bool:
 
 
 def _markdown_images_as_links(value: str) -> str:
-    """Render images inside pipe-table cells as links to their asset files."""
+    """Convert embedded table-image Markdown into links to the image assets."""
 
     def replace(match: re.Match[str]) -> str:
         label = match.group("label") or "Image"
@@ -2720,18 +2720,6 @@ def _markdown_images_as_links(value: str) -> str:
         return f"[{label}]({destination})"
 
     return MARKDOWN_IMAGE_RE.sub(replace, value)
-
-
-def _table_has_affliction_header(rows: list[list[lhtml.HtmlElement]]) -> bool:
-    """Identify data tables whose first row includes an Affliction column."""
-    return bool(
-        rows
-        and any(
-            _html_tag(cell) == "th"
-            and cell.text_content().strip().casefold() == "affliction"
-            for cell in rows[0]
-        )
-    )
 
 
 def _table_cell_span(cell: lhtml.HtmlElement, attribute: str) -> int:

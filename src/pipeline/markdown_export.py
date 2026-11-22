@@ -1945,8 +1945,8 @@ def _remove_redundant_image_filename_captions(value: str) -> str:
     """Drop captions that repeat an image's alt label or source filename."""
 
     def replace(match: re.Match[str]) -> str:
-        caption = re.sub(r"\\+([^\\w\\s])", r"\1", match.group("caption")).strip()
-        label = re.sub(r"\\+([^\\w\\s])", r"\1", match.group("label")).strip()
+        caption = match.group("caption").replace("\\", "").strip()
+        label = match.group("label").replace("\\", "").strip()
         destination = urllib.parse.unquote(
             urllib.parse.urlsplit(match.group("destination")).path
         )
@@ -2541,13 +2541,13 @@ def _render_other_html_table(
     return _render_generic_table(rows)
 
 
-def _render_html_table_content(
+def _render_special_html_table(
     rows: list[list[lhtml.HtmlElement]],
     table_classes: list[str],
     has_images: bool,
     use_html_line_breaks: bool,
-) -> str:
-    """Choose the Markdown representation for an HTML table."""
+) -> str | None:
+    """Render a table with a recognized gallery, recipe, or infobox layout."""
     if "gallery" in table_classes:
         return _render_gallery_table(rows)
     if "uses-material-list" in table_classes:
@@ -2566,6 +2566,21 @@ def _render_html_table_content(
             if _table_is_single_column(rows)
             else _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
         )
+    return None
+
+
+def _render_html_table_content(
+    rows: list[list[lhtml.HtmlElement]],
+    table_classes: list[str],
+    has_images: bool,
+    use_html_line_breaks: bool,
+) -> str:
+    """Choose the Markdown representation for an HTML table."""
+    special_table = _render_special_html_table(
+        rows, table_classes, has_images, use_html_line_breaks
+    )
+    if special_table is not None:
+        return special_table
     if has_images and any(_html_tag(cell) == "th" for cell in rows[0]):
         return _render_generic_table(rows, use_html_line_breaks=True)
     if has_images:

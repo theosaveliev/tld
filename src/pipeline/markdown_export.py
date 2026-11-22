@@ -590,6 +590,26 @@ def _is_wikitext_section_heading(value: str) -> bool:
     return re.fullmatch(r"={2,6}\s*.+?\s*={2,6}", value.strip()) is not None
 
 
+def _append_mediawiki_table_closers(output: list[str], depth: int) -> int:
+    """Append the requested number of table closers and return their count."""
+    if not depth:
+        return 0
+    if output and not output[-1].endswith(("\n", "\r")):
+        output.append("\n")
+    output.extend("|}\n" for _ in range(depth))
+    return depth
+
+
+def _wikitext_table_depth_delta(value: str) -> int:
+    """Return the nesting-depth change indicated by one visible table line."""
+    marker = value.lstrip()
+    if marker.startswith("{|"):
+        return 1
+    if marker.startswith("|}"):
+        return -1
+    return 0
+
+
 def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     """Close unterminated tables before the next section, or at end of page.
 
@@ -608,36 +628,19 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
         visible, in_comment = _strip_wikitext_comments(line, in_comment)
         visible, literal_tag = _strip_wikitext_literal_content(visible, literal_tag)
 
-        if (
-            depth
-            and literal_tag is None
-            and _is_wikitext_section_heading(visible)
-        ):
-            if output and not output[-1].endswith(("\n", "\r")):
-                output.append("\n")
-            output.extend("|}\n" for _ in range(depth))
-            repaired_count += depth
+        if depth and literal_tag is None and _is_wikitext_section_heading(visible):
+            repaired_count += _append_mediawiki_table_closers(output, depth)
             depth = 0
 
         if not in_comment and literal_tag is None:
-            marker = visible.lstrip()
-            if marker.startswith("{|"):
-                depth += 1
-            elif marker.startswith("|}") and depth:
-                depth -= 1
+            depth = max(0, depth + _wikitext_table_depth_delta(visible))
 
         output.append(line)
 
-    if depth:
-        if output and not output[-1].endswith(("\n", "\r")):
-            output.append("\n")
-        output.extend("|}\n" for _ in range(depth))
-        repaired_count += depth
-
+    repaired_count += _append_mediawiki_table_closers(output, depth)
     if not repaired_count:
         return text, 0
     return "".join(output), repaired_count
-
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     """Index primary images and their mismatch-folder fallbacks by basename."""
     if image_dir is None:

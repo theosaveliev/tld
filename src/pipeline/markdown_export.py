@@ -3608,7 +3608,9 @@ def _render_generic_table(
 ) -> str:
     """Convert HTML tables to Markdown, retaining spans and list line breaks."""
     grid = _expanded_table_grid(rows)
-    rendered_cells = _rendered_table_cells(rows, use_semicolon_separators, images_as_links)
+    rendered_cells = _rendered_table_cells(
+        rows, use_semicolon_separators, images_as_links
+    )
     header_rows = _table_header_row_count(grid, rendered_cells)
     headers = (
         _render_table_headers(grid, header_rows, rendered_cells)

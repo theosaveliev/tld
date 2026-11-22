@@ -46,6 +46,7 @@ USES_MATERIAL_LIST_RE = re.compile(
     r"\{\{\s*Uses material list(?:\s*\|\s*([^{}]*?))?\s*\}\}", re.IGNORECASE
 )
 BACKTICK = chr(96)
+TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
     r"(?P<image>!\[(?:\\.|[^\]])*\]\((?P<destination>[^)]+)\))"
     r"\s*/\s*_(?P<caption>(?:\\.|[^_])*)_"
@@ -2326,6 +2327,16 @@ def _table_has_list_content(rows: list[list[lhtml.HtmlElement]]) -> bool:
     )
 
 
+def _table_has_long_list_cell(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether a table cell contains enough list items to need line breaks."""
+    return any(
+        sum(1 for child in cell.iter() if _html_tag(child) == "li")
+        > TABLE_CELL_LIST_BREAK_THRESHOLD
+        for row in rows
+        for cell in row
+    )
+
+
 def _table_is_single_column(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Return whether every row in a table contains at most one cell."""
     return all(len(row) == 1 for row in rows)
@@ -2447,17 +2458,18 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         for cell in row
         for child in cell.iter()
     )
+    use_html_line_breaks = has_images or _table_has_long_list_cell(rows)
     if "gallery" in table_classes:
         table = _render_gallery_table(rows)
     elif "uses-material-list" in table_classes:
-        table = _render_generic_table(rows, use_html_line_breaks=has_images)
+        table = _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
     elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
     elif _table_has_list_content(rows):
         table = (
             _render_list_content_table(rows)
             if _table_is_single_column(rows)
-            else _render_generic_table(rows, use_html_line_breaks=has_images)
+            else _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
         )
     elif has_images:
         table = _render_image_layout_table(rows)

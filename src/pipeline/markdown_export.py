@@ -1551,7 +1551,7 @@ FOOTNOTE_REFERENCE_ID_RE = re.compile(
 
 
 def _strip_trailing_empty_markdown_sections(value: str) -> str:
-    """Remove empty trailing headings, their aliases, and language footer links."""
+    """Remove headings left empty by trailing anchor or language-footer artifacts."""
     lines = value.splitlines()
     removed_footer = False
     while lines and INTERWIKI_FOOTER_LINE_RE.fullmatch(lines[-1].strip()) is not None:
@@ -3316,11 +3316,6 @@ def _table_has_long_list_cell(rows: list[list[lhtml.HtmlElement]]) -> bool:
 def _table_is_single_column(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Return whether every row in a table contains at most one cell."""
     return all(len(row) == 1 for row in rows)
-
-
-def _table_has_header_row(rows: list[list[lhtml.HtmlElement]]) -> bool:
-    """Return whether a table begins with a real HTML header row."""
-    return bool(rows) and all(_html_tag(cell) == "th" for cell in rows[0])
 
 
 def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:

@@ -1087,8 +1087,7 @@ def _add_heading_anchor_alias(
 ) -> None:
     """Insert an explicit anchor for a heading alias unless it already exists."""
     if any(
-        node is not heading and node.get("id") == identifier
-        for node in root.iter()
+        node is not heading and node.get("id") == identifier for node in root.iter()
     ):
         return
     anchor = cast("lhtml.HtmlElement", etree.Element("span"))
@@ -1432,11 +1431,7 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
 
         cleaned = re.sub(r"(?i)&#(?:x0*20|0*32);", " ", line)
         cleaned = re.sub(r"\\+\[([^\]\n]+)\\+\](?!\()", r"[\1]", cleaned)
-        cleaned = re.sub(
-            r"\\+\*(?=[A-Za-z]|\s*(?:\||$))",
-            "*",
-            cleaned,
-        )
+        cleaned = re.sub(r"\\+\*(?=[A-Za-z]|\s*(?:\||$))", "*", cleaned)
         output.append(cleaned)
     return "".join(output)
 
@@ -2055,8 +2050,7 @@ HTML_HIDDEN_TAGS = frozenset(
 
 
 EMPTY_MARKDOWN_ANCHOR_SPAN_RE = re.compile(
-    r'<span\s+id="[^"]+"\s*></span>',
-    re.IGNORECASE,
+    r'<span\s+id="[^"]+"\s*></span>', re.IGNORECASE
 )
 
 
@@ -3354,8 +3348,7 @@ def _markdown_anchor_for_node(node: lhtml.HtmlElement) -> str:
     if not identifier:
         return ""
     if any(
-        sibling.get("id") == identifier
-        for sibling in node.itersiblings(preceding=True)
+        sibling.get("id") == identifier for sibling in node.itersiblings(preceding=True)
     ):
         return ""
     return f'<span id="{html.escape(identifier, quote=True)}"></span>'

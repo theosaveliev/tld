@@ -283,33 +283,32 @@ def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() ->
     assert resolve_internal_href(
         "The Long Dark/Changelog#1.41", "Backpack", mapping, {}
     ) == (
-        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md"
-        "#1.41"
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41"
     )
     assert resolve_internal_href(
         "The Long Dark/Changelog#1.60", "Backpack", mapping, {}
     ) == (
-        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md"
-        "#1.60"
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60"
     )
     assert resolve_internal_href(
         "The Long Dark/Changelog#0.233", "Backpack", mapping, {}
-    ) == (
-        "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
-        "#0.233"
+    ) == ("./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233")
+    assert (
+        resolve_internal_href("The Long Dark/Changelog#2.17", "Backpack", mapping, {})
+        == "./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17"
     )
-    assert resolve_internal_href(
-        "The Long Dark/Changelog#2.17", "Backpack", mapping, {}
-    ) == "./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17"
-    assert resolve_internal_href(
-        "The Long Dark/Changelog#0.00", "Backpack", mapping, {}
-    ) == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
-    assert resolve_internal_href(
-        "The Long Dark/Changelog#0.01", "Backpack", mapping, {}
-    ) == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
-    assert resolve_internal_href(
-        "The Long Dark/Changelog#.346", "Backpack", mapping, {}
-    ) == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346"
+    assert (
+        resolve_internal_href("The Long Dark/Changelog#0.00", "Backpack", mapping, {})
+        == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
+    )
+    assert (
+        resolve_internal_href("The Long Dark/Changelog#0.01", "Backpack", mapping, {})
+        == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
+    )
+    assert (
+        resolve_internal_href("The Long Dark/Changelog#.346", "Backpack", mapping, {})
+        == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346"
+    )
     assert resolve_internal_href(
         "The Long Dark/Changelog#0.321_(Tireless_Menace_Update)",
         "Backpack",
@@ -322,14 +321,12 @@ def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() ->
     assert resolve_internal_href(
         "The Long Dark/Early Access Changelog#1.00", "Backpack", mapping, {}
     ) == (
-        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md"
-        "#1.00"
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00"
     )
     assert resolve_internal_href(
         "The Long Dark/Changelog/Archive 1#1.60", "Backpack", mapping, {}
     ) == (
-        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md"
-        "#1.60"
+        "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60"
     )
 
 
@@ -1678,8 +1675,6 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     assert "## Section One" in markdown
 
 
-
-
 def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> None:
     root = lhtml.fragment_fromstring(
         '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>'
@@ -1736,16 +1731,19 @@ def test_missing_title_aliases_resolve_to_existing_page_filenames() -> None:
         "Salt Deposit": "Salt Deposit.md",
     }
 
-    assert markdown_export_module._lookup_title_filename(
-        "Fukattsu Maru", mapping
-    ) == "Fukkatsu Maru.md"
+    assert (
+        markdown_export_module._lookup_title_filename("Fukattsu Maru", mapping)
+        == "Fukkatsu Maru.md"
+    )
     assert markdown_export_module._lookup_title_filename("Maps", mapping) == "Map.md"
-    assert markdown_export_module._lookup_title_filename(
-        "Port Renmant", mapping
-    ) == "Port Remnant.md"
-    assert markdown_export_module._lookup_title_filename(
-        "Salt Depost", mapping
-    ) == "Salt Deposit.md"
+    assert (
+        markdown_export_module._lookup_title_filename("Port Renmant", mapping)
+        == "Port Remnant.md"
+    )
+    assert (
+        markdown_export_module._lookup_title_filename("Salt Depost", mapping)
+        == "Salt Deposit.md"
+    )
 
 
 def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:

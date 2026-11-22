@@ -840,64 +840,78 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
     return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker> &nbsp;\g<line_ending>", cleaned)
 
 
+def _imagemap_file_markup(header: str) -> str:
+    """Convert an imagemap's file header to ordinary MediaWiki image syntax."""
+    parts = header.split("|", 4)
+    file_target = parts[0].strip()
+    if not re.match(r"^(?:File|Image):", file_target, re.IGNORECASE):
+        return ""
+
+    display_options = [part.strip() for part in parts[1:4] if part.strip()]
+    caption = parts[4].strip() if len(parts) == 5 else ""
+    caption = re.sub(
+        r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]",
+        lambda item: item.group(2) or item.group(1),
+        caption,
+    )
+    caption = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", caption)
+    caption = re.sub(r"\[([^\]]+)\]", r"\1", caption)
+    options = [*display_options, caption] if caption else display_options
+    markup = f"[[{file_target}"
+    if options:
+        markup += "|" + "|".join(options)
+    return markup + "]]"
+
+
+def _imagemap_rectangle_link(target: str) -> str | None:
+    """Convert one single- or double-bracket imagemap target to a wiki link."""
+    target = target.strip()
+    if target.startswith("[[") and target.endswith("]]"):
+        target = target[2:-2]
+    elif target.startswith("[") and target.endswith("]"):
+        target = target[1:-1]
+    page, separator, label = target.partition("|")
+    page = page.strip()
+    label = label.strip()
+    if not page:
+        return None
+    if separator and label:
+        return f"[[{page}|{label}]]"
+    return f"[[{page}]]"
+
+
+def _render_one_wikitext_imagemap(match: re.Match[str]) -> str:
+    """Render one imagemap as an image followed by links to its marked regions."""
+    body = match.group("body").strip()
+    lines = body.splitlines()
+    if not lines:
+        return ""
+
+    header = lines[0].strip()
+    rect_start = re.search(
+        r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[", header
+    )
+    if rect_start is not None:
+        header = header[: rect_start.start()].strip()
+
+    file_markup = _imagemap_file_markup(header)
+    regions: list[str] = []
+    for rectangle in WIKITEXT_IMAGEMAP_RECT_RE.finditer(body):
+        link = _imagemap_rectangle_link(rectangle.group("target"))
+        if link is not None and link not in regions:
+            regions.append(link)
+
+    output = [file_markup] if file_markup else []
+    if regions:
+        if output:
+            output.append("")
+        output.extend(f"* {region}" for region in regions)
+    return "\n\n" + "\n".join(output) + "\n\n"
+
+
 def _replace_wikitext_imagemaps(value: str) -> str:
-    """Render MediaWiki imagemaps as an image followed by their linked regions."""
-    def replace(match: re.Match[str]) -> str:
-        body = match.group("body").strip()
-        lines = body.splitlines()
-        if not lines:
-            return ""
-
-        header = lines[0].strip()
-        rect_start = re.search(r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[", header)
-        if rect_start is not None:
-            header = header[: rect_start.start()].strip()
-
-        file_parts = header.split("|", 4)
-        file_target = file_parts[0].strip()
-        if not re.match(r"^(?:File|Image):", file_target, re.IGNORECASE):
-            file_markup = ""
-        else:
-            display_options = [part.strip() for part in file_parts[1:4] if part.strip()]
-            caption = file_parts[4].strip() if len(file_parts) == 5 else ""
-            caption = re.sub(
-                r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]",
-                lambda item: item.group(2) or item.group(1),
-                caption,
-            )
-            caption = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", caption)
-            caption = re.sub(r"\[([^\]]+)\]", r"\1", caption)
-            options = [*display_options, caption] if caption else display_options
-            file_markup = f"[[{file_target}"
-            if options:
-                file_markup += "|" + "|".join(options)
-            file_markup += "]]"
-
-        regions: list[str] = []
-        for rectangle in WIKITEXT_IMAGEMAP_RECT_RE.finditer(body):
-            target = rectangle.group("target").strip()
-            if target.startswith("[[") and target.endswith("]]"):
-                target = target[2:-2]
-            elif target.startswith("[") and target.endswith("]"):
-                target = target[1:-1]
-            page, separator, label = target.partition("|")
-            page = page.strip()
-            label = label.strip()
-            if not page:
-                continue
-            link = f"[[{page}|{label}]]" if separator and label else f"[[{page}]]"
-            if link not in regions:
-                regions.append(link)
-
-        output = [file_markup] if file_markup else []
-        if regions:
-            if output:
-                output.append("")
-            output.extend(f"* {region}" for region in regions)
-        return "\n\n" + "\n".join(output) + "\n\n"
-
-    return WIKITEXT_IMAGEMAP_RE.sub(replace, value)
-
+    """Render MediaWiki imagemaps as an image followed by linked regions."""
+    return WIKITEXT_IMAGEMAP_RE.sub(_render_one_wikitext_imagemap, value)
 
 def _sanitize_expanded_wikitext(value: str) -> str:
     """Normalize parser metadata, image maps, and malformed table/reference markup."""

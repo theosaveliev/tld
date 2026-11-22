@@ -1553,19 +1553,28 @@ FOOTNOTE_REFERENCE_ID_RE = re.compile(
 def _strip_trailing_empty_markdown_sections(value: str) -> str:
     """Remove empty trailing headings, their aliases, and language footer links."""
     lines = value.splitlines()
+    removed_footer = False
     while lines and INTERWIKI_FOOTER_LINE_RE.fullmatch(lines[-1].strip()) is not None:
+        removed_footer = True
         lines.pop()
         while lines and not lines[-1].strip():
             lines.pop()
     while lines:
         last = len(lines) - 1
+        removed_anchor = False
         while last >= 0 and _is_markdown_anchor_artifact_line(lines[last]):
+            removed_anchor = removed_anchor or bool(lines[last].strip())
             last -= 1
-        if last < 0 or MARKDOWN_HEADING_RE.fullmatch(lines[last]) is None:
+        if (
+            last < 0
+            or MARKDOWN_HEADING_RE.fullmatch(lines[last]) is None
+            or not (removed_footer or removed_anchor)
+        ):
             break
         del lines[last:]
         while lines and _is_markdown_anchor_artifact_line(lines[-1]):
             lines.pop()
+        removed_footer = False
     return "\n".join(lines).rstrip() + ("\n" if lines else "")
 
 
@@ -1614,11 +1623,13 @@ def _strip_empty_markdown_sections(value: str) -> str:
     empty_headings: set[int] = set()
     for position, (index, level) in enumerate(headings):
         end = len(lines)
+        has_following_peer = False
         for following_index, following_level in headings[position + 1 :]:
             if following_level <= level:
                 end = following_index
+                has_following_peer = True
                 break
-        if not any(
+        if has_following_peer and not any(
             not _is_markdown_anchor_artifact_line(lines[line_index])
             for line_index in range(index + 1, end)
         ):
@@ -1811,9 +1822,14 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
 
 
 def _strip_navbox_lua_errors(value: str) -> str:
-    """Remove the visible Lua failure line and its dangling interwiki link."""
-    cleaned = NAVBOX_ERROR_LINE_RE.sub("", value)
-    return re.sub(r"\n{3,}", "\n\n", cleaned).strip()
+    """Remove the visible Lua failure line without stripping code indentation."""
+    cleaned = re.sub(r"\n{3,}", "\n\n", NAVBOX_ERROR_LINE_RE.sub("", value))
+    lines = cleaned.splitlines()
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    while lines and not lines[-1].strip():
+        lines.pop()
+    return "\n".join(lines)
 
 
 def _is_leaked_wikitext_table_artifact(line: str) -> bool:
@@ -3631,7 +3647,7 @@ def _render_special_html_table(
     elif "infobox" in table_classes:
         rendered = _render_infobox_table(rows)
     elif _table_has_list_content(rows):
-        if _table_is_single_column(rows) or not _table_has_header_row(rows):
+        if _table_is_single_column(rows):
             rendered = _render_list_content_table(rows)
         else:
             rendered = _render_generic_table(

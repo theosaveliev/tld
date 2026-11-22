@@ -208,6 +208,7 @@ class PageConversion:
     note: str = ""
     conversion_errors: int = 0
 
+
 @dataclass(slots=True)
 class MarkdownListState:
     """Mutable state used while normalizing Markdown list indentation."""

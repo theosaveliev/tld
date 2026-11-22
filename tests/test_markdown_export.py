@@ -728,6 +728,60 @@ def test_page_markdown_strips_wikitext_table_row_artifacts() -> None:
     assert "**Item type:** [Collectibles](./Collectibles.md)" in markdown
 
 
+def test_page_markdown_removes_leaked_template_and_wikitext_artifacts() -> None:
+    body = r"""## Contents
+
+- [Gallery](#gallery)
+
+## Recipe
+
+| Item | Details |
+| --- | --- |
+| **Template:pic link plain**[Cooking](./Cooking.md)** | |
+|  | - |
+|  | - |
+
+- **Template:iconlink**, wooden matches used as a temporary light source
+- **Template:iconlink plain**
+
+\|}{\| style="margin:auto"
+
+\[\[File: / ![Box](../assets/Box.png) / _Box_ / Box icon.png\|250px\]\]
+![Box](../assets/Box.png)
+
+- 
+-
+
+## Gallery
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "[Cooking](./Cooking.md)" in markdown
+    assert "wooden matches used as a temporary light source" in markdown
+    assert "Template:" not in markdown
+    assert "margin:auto" not in markdown
+    assert "File:" not in markdown
+    assert "|  | - |" not in markdown
+    assert "\n- \n" not in markdown
+    assert "## Gallery" not in markdown
+    assert "- [Gallery](#gallery)" not in markdown
+    assert "![Box](../assets/Box.png)" in markdown
+
+
+def test_adjacent_strong_elements_keep_a_word_boundary() -> None:
+    fragment = (
+        "<p><strong>Spoiler Warning:</strong>"
+        "<strong>This page may contain spoilers from the "
+        '<a href="./Wintermute.md">story</a> of The Long Dark.</strong></p>'
+    )
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "**Spoiler Warning:** **This page may contain spoilers from the" in markdown
+    assert "**Spoiler Warning:****This page" not in markdown
+
+
 def test_page_markdown_normalizes_strong_underscores() -> None:
     markdown = _page_markdown("Sample", [], "__Bold text__", None)
 

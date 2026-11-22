@@ -103,6 +103,13 @@ LOCAL_WIKI_SCHEMES = frozenset(
 )
 NAMED_INTERWIKI_SCHEMES = frozenset({"c", "w", "wikia", "wikt", "wikipedia"})
 
+PAGE_TITLE_ALIASES = {
+    "fukattsu maru": "Fukkatsu Maru",
+    "maps": "Map",
+    "port renmant": "Port Remnant",
+    "salt depost": "Salt Deposit",
+}
+
 
 class ExportSummary(TypedDict):
     article_pages: int
@@ -340,6 +347,12 @@ def _compact_title_key(title: str) -> str:
 
 def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str | None:
     """Resolve a title only when its normalized mapping is unambiguous."""
+    alias = PAGE_TITLE_ALIASES.get(title.casefold())
+    if alias is not None:
+        alias_filename = title_to_filename.get(normalize_title(alias))
+        if alias_filename is not None:
+            return alias_filename
+
     compact = _compact_title_key(title)
     if compact:
         compact_candidates = {
@@ -1008,20 +1021,55 @@ def _restore_thumbnail_captions(root: lhtml.HtmlElement) -> None:
         wrapper.tail = old_tail
 
 
+def _add_heading_anchor_alias(
+    root: lhtml.HtmlElement, heading: lhtml.HtmlElement, identifier: str
+) -> None:
+    """Insert an explicit anchor for a heading alias unless it already exists."""
+    if any(
+        node is not heading and node.get("id") == identifier
+        for node in root.iter()
+    ):
+        return
+    anchor = cast("lhtml.HtmlElement", etree.Element("span"))
+    anchor.set("id", identifier)
+    heading.addprevious(anchor)
+
+
+def _heading_version_alias(label: str) -> str | None:
+    """Return a release-version prefix that Fandom commonly uses as an anchor."""
+    match = re.match(r"^\s*(?P<version>v?\d+\.\d+[a-z]?)\b", label, re.IGNORECASE)
+    return match.group("version") if match is not None else None
+
+
 def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
-    """Assign stable MediaWiki-style heading IDs and insert a compact TOC."""
+    """Preserve source heading IDs and emit aliases that survive Markdown conversion."""
+    existing_ids = {node.get("id") for node in root.iter() if node.get("id")}
     used: set[str] = set()
+    used_slugs: dict[str, int] = {}
     headings: list[tuple[int, str, str]] = []
     for heading in root.iter("h1", "h2", "h3", "h4", "h5", "h6"):
         label = heading.text_content().strip()
         base = label.replace(" ", "_") or "section"
-        identifier = base
-        suffix = 1
-        while identifier in used:
-            suffix += 1
-            identifier = f"{base}_{suffix}"
+        identifier = heading.get("id") or base
+        if not heading.get("id"):
+            suffix = 1
+            candidate = identifier
+            while candidate in used or candidate in existing_ids:
+                candidate = f"{base}_{suffix}"
+                suffix += 1
+            identifier = candidate
+            heading.set("id", identifier)
         used.add(identifier)
-        heading.set("id", identifier)
+
+        slug = _markdown_heading_slug(label)
+        slug_count = used_slugs.get(slug, 0)
+        used_slugs[slug] = slug_count + 1
+        slug_alias = f"{slug}-{slug_count}" if slug_count else slug
+        aliases = [identifier, base, slug_alias, _heading_version_alias(label)]
+        for alias in aliases:
+            if alias:
+                _add_heading_anchor_alias(root, heading, alias)
+
         tag = heading.tag
         if not isinstance(tag, str):
             continue
@@ -1272,6 +1320,7 @@ def _page_markdown(
     if metadata:
         lines.extend([" · ".join(metadata), ""])
     cleaned_body = _strip_navbox_lua_errors(body)
+    cleaned_body = _clean_visible_markdown_artifacts(cleaned_body)
     cleaned_body = _strip_wikitext_table_row_artifacts(cleaned_body)
     cleaned_body = _strip_empty_gallery_sections(cleaned_body)
     if cleaned_body:
@@ -1291,6 +1340,35 @@ def _markdown_label(title: str) -> str:
         "\\" + character if character in MARKDOWN_SPECIAL_CHARS else character
         for character in title
     )
+
+
+def _clean_visible_markdown_artifacts(value: str) -> str:
+    """Decode leaked spacing entities and unnecessary punctuation escapes."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+
+        cleaned = re.sub(r"(?i)&#(?:x0*20|0*32);", " ", line)
+        cleaned = re.sub(r"\\+\[([^\]\n]+)\\+\](?!\()", r"[\1]", cleaned)
+        cleaned = re.sub(
+            r"\\+\*(?=[A-Za-z]|\s*(?:\||$))",
+            "*",
+            cleaned,
+        )
+        output.append(cleaned)
+    return "".join(output)
 
 
 def _strip_navbox_lua_errors(value: str) -> str:
@@ -2165,16 +2243,18 @@ def _unicode_subscript(value: str) -> str:
 
 
 def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
-    """Convert one inline HTML element to its Markdown equivalent."""
+    """Convert one inline HTML element to Markdown, preserving anchor IDs."""
     tag = _html_tag(node)
     if tag in HTML_HIDDEN_TAGS:
         return ""
     content = _inline_markdown(node)
     formatted = _inline_markdown_formatting(node, tag, content)
     if formatted is not None:
-        return formatted
-    media = _inline_markdown_media(node, tag, content)
-    return media if media is not None else content
+        rendered = formatted
+    else:
+        media = _inline_markdown_media(node, tag, content)
+        rendered = media if media is not None else content
+    return _markdown_anchor_for_node(node) + rendered
 
 
 def _remove_redundant_image_filename_captions(value: str) -> str:
@@ -2240,7 +2320,7 @@ def _markdown_table_cell(
     cell: lhtml.HtmlElement, *, use_html_line_breaks: bool = False
 ) -> str:
     """Render a table cell as a single Markdown table row value."""
-    content = _render_html_children(cell).rstrip()
+    content = (_markdown_anchor_for_node(cell) + _render_html_children(cell)).rstrip()
     content = _remove_leaked_file_wrapper(content)
     content = _remove_redundant_image_filename_captions(content)
     content = re.sub(r"\\+\|-[ \t]*$", "", content).rstrip()
@@ -3105,7 +3185,7 @@ def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
     for item_number, item in enumerate(node, start):
         if _html_tag(item) != "li":
             continue
-        content = [_markdown_text(item.text or "")]
+        content = [_markdown_anchor_for_node(item), _markdown_text(item.text or "")]
         nested: list[str] = []
         for child in item:
             if not isinstance(child.tag, str):
@@ -3183,8 +3263,21 @@ def _render_html_special_block(node: lhtml.HtmlElement) -> str | None:
     return rendered
 
 
+def _markdown_anchor_for_node(node: lhtml.HtmlElement) -> str:
+    """Preserve an HTML id that would otherwise be discarded during rendering."""
+    identifier = node.get("id")
+    if not identifier:
+        return ""
+    if any(
+        sibling.get("id") == identifier
+        for sibling in node.itersiblings(preceding=True)
+    ):
+        return ""
+    return f'<span id="{html.escape(identifier, quote=True)}"></span>'
+
+
 def _render_html_block(node: lhtml.HtmlElement) -> str:
-    """Convert one HTML block element into Markdown."""
+    """Convert one HTML block element into Markdown, retaining its anchor ID."""
     tag = _html_tag(node)
     special = _render_html_special_block(node)
     rendered = special if special is not None else ""
@@ -3215,6 +3308,9 @@ def _render_html_block(node: lhtml.HtmlElement) -> str:
                 )
             else:
                 rendered = content
+    anchor = _markdown_anchor_for_node(node)
+    if anchor:
+        return f"{anchor}\n\n{rendered}" if rendered else anchor
     return rendered
 
 

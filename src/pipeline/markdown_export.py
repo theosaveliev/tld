@@ -105,6 +105,11 @@ LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
 LEAKED_FILE_WRAPPER_SUFFIX_RE = re.compile(
     r"\s*(?:/\s*)?(?:\d+\s*px)?(?:\\)?\](?:\\)?\]\s*$", re.IGNORECASE
 )
+EMPTY_LEAKED_FILE_WRAPPER_RE = re.compile(
+    r"(?:\\*\[){2}\s*(?:File|Image)\s*:\s*(?:/\s*)?"
+    r"(?:\d+\s*px)?\s*(?:\\*\]){2}",
+    re.IGNORECASE,
+)
 INLINE_CODE_SPAN_RE = re.compile(
     "("
     + re.escape(BACKTICK)
@@ -162,6 +167,23 @@ class ExportReport(TypedDict):
     pages: list[PageExportResult]
     unresolved_links: list[str]
     missing_images: list[str]
+
+
+class MarkdownMarkupIssue(TypedDict):
+    file: str
+    line: int
+    kind: str
+    snippet: str
+
+
+class MarkdownMarkupAudit(TypedDict):
+    files_scanned: int
+    files_with_issues: int
+    issues: list[MarkdownMarkupIssue]
+
+
+class MarkdownMarkupAuditError(RuntimeError):
+    """Raised when the generated workspace still contains unrendered markup."""
 
 
 @dataclass(frozen=True, slots=True)
@@ -1529,6 +1551,7 @@ def _page_markdown(
     document = _strip_trailing_empty_markdown_sections(document)
     document = _rewrite_heading_anchor_spans(document)
     document = _strip_leaked_html_markup(document)
+    document = _remove_empty_leaked_file_wrappers(document)
     document = _normalize_markdown_list_indentation(document)
     return _normalize_markdown_blank_lines(document)
 
@@ -2472,6 +2495,14 @@ HTML_TAG_RE = re.compile(
 )
 HTML_COMMENT_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
+ESCAPED_HTML_TAG_RE = re.compile(
+    r"&lt;\s*/?\s*[A-Za-z][A-Za-z0-9:-]*(?:(?!&gt;)[\s\S])*?&gt;",
+    re.IGNORECASE,
+)
+WIKITEXT_FILE_MARKUP_RE = re.compile(
+    r"(?:\\*\[){2}\s*(?:File|Image)\s*:", re.IGNORECASE
+)
+WIKITEXT_TABLE_MARKER_RE = re.compile(r"(?m)^[ \t]*\{\\?\|")
 HTML_HIDDEN_TAGS = frozenset(
     {"base", "head", "link", "meta", "script", "style", "template"}
 )
@@ -2854,15 +2885,40 @@ def _remove_leaked_file_wrapper(value: str) -> str:
     return cleaned
 
 
+def _remove_empty_leaked_file_wrappers(value: str) -> str:
+    """Remove empty MediaWiki image wrappers outside literal fenced code."""
+    output: list[str] = []
+    pending: list[str] = []
+    fence: tuple[str, int] | None = None
+
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is None:
+            (output if fence is not None else pending).append(line)
+            continue
+
+        marker = match.group(1)
+        if fence is None:
+            output.append(EMPTY_LEAKED_FILE_WRAPPER_RE.sub("", "".join(pending)))
+            pending = []
+            fence = (marker[0], len(marker))
+        elif marker[0] == fence[0] and len(marker) >= fence[1]:
+            fence = None
+        output.append(line)
+
+    output.append(EMPTY_LEAKED_FILE_WRAPPER_RE.sub("", "".join(pending)))
+    return "".join(output)
+
+
 def _markdown_table_cell(
-    cell: lhtml.HtmlElement, *, use_html_line_breaks: bool = False
+    cell: lhtml.HtmlElement, *, use_semicolon_separators: bool = False
 ) -> str:
     """Render a table cell as a single Markdown table row value."""
     content = (_markdown_anchor_for_node(cell) + _render_html_children(cell)).rstrip()
     content = _remove_leaked_file_wrapper(content)
     content = _remove_redundant_image_filename_captions(content)
     content = re.sub(r"\\+\|-[ \t]*$", "", content).rstrip()
-    separator = "<br>" if use_html_line_breaks else " / "
+    separator = "; " if use_semicolon_separators else " / "
     content = re.sub(r"\s*\n\s*", separator, content).strip()
     return content.replace("|", r"\|")
 
@@ -2957,7 +3013,7 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
             for cell in cells
             if (
                 value := _markdown_images_as_links(
-                    _markdown_table_cell(cell, use_html_line_breaks=True)
+                    _markdown_table_cell(cell, use_semicolon_separators=True)
                 ).strip()
             )
         ]
@@ -3412,7 +3468,7 @@ def _expanded_table_grid(
 
 def _rendered_table_cells(
     rows: list[list[lhtml.HtmlElement]],
-    use_html_line_breaks: bool,
+    use_semicolon_separators: bool,
     images_as_links: bool,
 ) -> dict[lhtml.HtmlElement, str]:
     """Render each distinct source cell once for a Markdown table."""
@@ -3420,7 +3476,7 @@ def _rendered_table_cells(
     for row in rows:
         for cell in row:
             value = _markdown_table_cell(
-                cell, use_html_line_breaks=use_html_line_breaks
+                cell, use_semicolon_separators=use_semicolon_separators
             )
             rendered[cell] = (
                 _markdown_images_as_links(value) if images_as_links else value
@@ -3547,12 +3603,12 @@ def _compact_table_columns(
 def _render_generic_table(
     rows: list[list[lhtml.HtmlElement]],
     *,
-    use_html_line_breaks: bool = False,
+    use_semicolon_separators: bool = False,
     images_as_links: bool = False,
 ) -> str:
     """Convert HTML tables to Markdown, retaining spans and list line breaks."""
     grid = _expanded_table_grid(rows)
-    rendered_cells = _rendered_table_cells(rows, use_html_line_breaks, images_as_links)
+    rendered_cells = _rendered_table_cells(rows, use_semicolon_separators, images_as_links)
     header_rows = _table_header_row_count(grid, rendered_cells)
     headers = (
         _render_table_headers(grid, header_rows, rendered_cells)
@@ -3647,7 +3703,7 @@ def _render_other_html_table(
 def _render_special_html_table(
     rows: list[list[lhtml.HtmlElement]],
     table_classes: list[str],
-    use_html_line_breaks: bool,
+    use_semicolon_separators: bool,
     images_as_links: bool,
 ) -> str | None:
     """Render a table with a recognized gallery, recipe, or infobox layout."""
@@ -3657,7 +3713,7 @@ def _render_special_html_table(
     elif "uses-material-list" in table_classes:
         rendered = _render_generic_table(
             rows,
-            use_html_line_breaks=use_html_line_breaks,
+            use_semicolon_separators=use_semicolon_separators,
             images_as_links=images_as_links,
         )
     elif _is_recipe_infobox(rows):
@@ -3670,7 +3726,7 @@ def _render_special_html_table(
         else:
             rendered = _render_generic_table(
                 rows,
-                use_html_line_breaks=use_html_line_breaks,
+                use_semicolon_separators=use_semicolon_separators,
                 images_as_links=images_as_links,
             )
     return rendered
@@ -3680,18 +3736,18 @@ def _render_html_table_content(
     rows: list[list[lhtml.HtmlElement]],
     table_classes: list[str],
     has_images: bool,
-    use_html_line_breaks: bool,
+    use_semicolon_separators: bool,
 ) -> str:
     """Choose the Markdown representation for an HTML table."""
     images_as_links = has_images
     special_table = _render_special_html_table(
-        rows, table_classes, use_html_line_breaks, images_as_links
+        rows, table_classes, use_semicolon_separators, images_as_links
     )
     if special_table is not None:
         return special_table
     if has_images and any(_html_tag(cell) == "th" for cell in rows[0]):
         return _render_generic_table(
-            rows, use_html_line_breaks=True, images_as_links=images_as_links
+            rows, use_semicolon_separators=True, images_as_links=images_as_links
         )
     if has_images:
         return _render_image_layout_table(rows)
@@ -3721,11 +3777,11 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         for cell in row
         for child in cell.iter()
     )
-    use_html_line_breaks = (
+    use_semicolon_separators = (
         has_images or _table_has_long_list_cell(rows) or _table_has_list_content(rows)
     )
     table = _render_html_table_content(
-        rows, table_classes, has_images, use_html_line_breaks
+        rows, table_classes, has_images, use_semicolon_separators
     )
     return f"**{caption}**\n\n{table}" if caption else table
 
@@ -4246,6 +4302,108 @@ def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
     )
 
 
+def _markdown_visible_source(value: str) -> str:
+    """Mask fenced and inline code while retaining source positions for auditing."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(re.sub(r"[^\r\n]", " ", line))
+            continue
+        if fence is not None:
+            output.append(re.sub(r"[^\r\n]", " ", line))
+            continue
+
+        code_pieces = INLINE_CODE_SPAN_RE.split(line)
+        output.append(
+            "".join(
+                re.sub(r"[^\r\n]", " ", piece) if index % 2 else piece
+                for index, piece in enumerate(code_pieces)
+            )
+        )
+    return "".join(output)
+
+
+def _markdown_markup_matches(value: str) -> list[tuple[int, str, str]]:
+    """Find unrendered HTML and MediaWiki markup outside literal code."""
+    visible = _markdown_visible_source(value)
+    patterns = (
+        (HTML_TAG_RE, "HTML tag"),
+        (HTML_COMMENT_RE, "HTML comment"),
+        (HTML_DECLARATION_RE, "HTML declaration"),
+        (ESCAPED_HTML_TAG_RE, "escaped HTML tag"),
+        (WIKITEXT_FILE_MARKUP_RE, "MediaWiki file markup"),
+        (WIKITEXT_TABLE_MARKER_RE, "MediaWiki table markup"),
+    )
+    matches: list[tuple[int, str, str]] = []
+    seen: set[tuple[int, str]] = set()
+    source_lines = value.splitlines()
+    for pattern, kind in patterns:
+        for match in pattern.finditer(visible):
+            line_number = visible.count("\n", 0, match.start()) + 1
+            key = (line_number, kind)
+            if key in seen:
+                continue
+            seen.add(key)
+            snippet = source_lines[line_number - 1].strip()[:120]
+            matches.append((line_number, kind, snippet))
+    return sorted(matches)
+
+
+def audit_markdown_workspace(output_dir: Path) -> MarkdownMarkupAudit:
+    """Audit every Markdown article under pages/ and write a JSON result."""
+    pages_dir = output_dir / "pages"
+    if not pages_dir.is_dir():
+        raise FileNotFoundError(f"Markdown pages directory not found: {pages_dir}")
+
+    markdown_files = sorted(pages_dir.rglob("*.md"))
+    issues: list[MarkdownMarkupIssue] = []
+    affected_files: set[str] = set()
+    for markdown_file in markdown_files:
+        try:
+            content = markdown_file.read_text(encoding="utf-8")
+        except (OSError, UnicodeError) as error:
+            relative_path = markdown_file.relative_to(output_dir).as_posix()
+            issues.append(
+                {
+                    "file": relative_path,
+                    "line": 0,
+                    "kind": f"Unreadable Markdown file: {error}",
+                    "snippet": "",
+                }
+            )
+            affected_files.add(relative_path)
+            continue
+
+        relative_path = markdown_file.relative_to(output_dir).as_posix()
+        for line_number, kind, snippet in _markdown_markup_matches(content):
+            issues.append(
+                {
+                    "file": relative_path,
+                    "line": line_number,
+                    "kind": kind,
+                    "snippet": snippet,
+                }
+            )
+            affected_files.add(relative_path)
+
+    audit: MarkdownMarkupAudit = {
+        "files_scanned": len(markdown_files),
+        "files_with_issues": len(affected_files),
+        "issues": issues,
+    }
+    (output_dir / "markup-audit.json").write_text(
+        json.dumps(audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    return audit
+
+
 def _load_renderer_pipeline(
     dump_path: Path,
 ) -> tuple[
@@ -4409,4 +4567,13 @@ def export_dump_to_markdown(
         "missing_images": sorted(state["missing_images"]),
     }
     _write_conversion_report(report, output_dir)
+    markup_audit = audit_markdown_workspace(output_dir)
+    if markup_audit["issues"]:
+        affected = sorted({issue["file"] for issue in markup_audit["issues"]})
+        details = "\n".join(f"- {filename}" for filename in affected[:20])
+        raise MarkdownMarkupAuditError(
+            f"Unrendered markup found in {markup_audit['files_with_issues']} of "
+            f"{markup_audit['files_scanned']} Markdown page(s). "
+            f"See {output_dir / 'markup-audit.json'}.\n{details}"
+        )
     return report

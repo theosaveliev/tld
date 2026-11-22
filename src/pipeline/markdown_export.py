@@ -2317,9 +2317,9 @@ def _is_table_section(cell: lhtml.HtmlElement) -> bool:
 
 
 def _render_image_layout_cell(value: str) -> str:
-    """Separate an image and caption so both render outside a Markdown table."""
+    """Separate a linked image and caption so both render outside a Markdown table."""
     image, separator, caption = value.partition(" / ")
-    if separator and image.lstrip().startswith("!["):
+    if separator and image.lstrip().startswith(("[", "![")):
         return image.strip() + ("\n\n" + caption.strip() if caption.strip() else "")
     return value.strip()
 
@@ -2337,7 +2337,11 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         values = [
             (cell, value)
             for cell in cells
-            if (value := _markdown_table_cell(cell, use_html_line_breaks=True).strip())
+            if (
+                value := _markdown_images_as_links(
+                    _markdown_table_cell(cell, use_html_line_breaks=True)
+                ).strip()
+            )
         ]
         if not values:
             continue
@@ -2692,7 +2696,11 @@ def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         rendered
         for row in rows
         for cell in row
-        if (rendered := _render_html_children(cell).strip())
+        if (
+            rendered := _markdown_images_as_links(
+                _render_html_children(cell)
+            ).strip()
+        )
     ]
     return "\n\n".join(blocks)
 
@@ -3037,7 +3045,7 @@ def _render_html_table_content(
     use_html_line_breaks: bool,
 ) -> str:
     """Choose the Markdown representation for an HTML table."""
-    images_as_links = _table_has_affliction_header(rows)
+    images_as_links = has_images
     special_table = _render_special_html_table(
         rows, table_classes, has_images, use_html_line_breaks, images_as_links
     )

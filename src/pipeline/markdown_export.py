@@ -1999,8 +1999,7 @@ def _markdown_table_cell(
     content = _render_html_children(cell).rstrip()
     content = _remove_leaked_file_wrapper(content)
     content = _remove_redundant_image_filename_captions(content)
-    if content.endswith(r"\|-"):
-        content = content[:-3].rstrip()
+    content = re.sub(r"\\+\|-[ \t]*$", "", content).rstrip()
     separator = "<br>" if use_html_line_breaks else " / "
     content = re.sub(r"\s*\n\s*", separator, content).strip()
     return content.replace("|", r"\|")
@@ -2538,12 +2537,20 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
     elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
+    elif "infobox" in table_classes:
+        table = (
+            _render_image_layout_table(rows)
+            if has_images
+            else _render_infobox_table(rows)
+        )
     elif _table_has_list_content(rows):
         table = (
             _render_list_content_table(rows)
             if _table_is_single_column(rows)
             else _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
         )
+    elif has_images and any(_html_tag(cell) == "th" for cell in rows[0]):
+        table = _render_generic_table(rows, use_html_line_breaks=True)
     elif has_images:
         table = _render_image_layout_table(rows)
     elif _table_has_wide_row(rows):

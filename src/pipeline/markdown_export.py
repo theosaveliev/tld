@@ -50,6 +50,7 @@ BACKTICK = chr(96)
 TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 MINIMUM_SUBHEADER_CELL_COUNT = 2
 MAXIMUM_SUBHEADER_TEXT_LENGTH = 40
+MAX_ROOT_MARKDOWN_LIST_INDENT = 3
 WIKITEXT_IMAGEMAP_CAPTION_PART_COUNT = 5
 CHANGELOG_ARCHIVE_TWO_START_MINOR = 50
 MISSING_EARLY_ACCESS_VERSION_FRAGMENTS = frozenset({"0.00", "0.01"})
@@ -206,6 +207,15 @@ class PageConversion:
     status: str
     note: str = ""
     conversion_errors: int = 0
+
+@dataclass(slots=True)
+class MarkdownListState:
+    """Mutable state used while normalizing Markdown list indentation."""
+
+    output: list[str]
+    list_stack: list[int]
+    base_indent: int = 0
+    fence: tuple[str, int] | None = None
 
 
 class WikiContext(Protocol):
@@ -1637,73 +1647,106 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
     return MARKDOWN_ANCHOR_SPAN_RE.sub(" ", value)
 
 
+def _append_fenced_markdown_line(
+    line: str, fence_match: re.Match[str] | None, state: MarkdownListState
+) -> bool:
+    """Append a line inside a fenced block and detect its closing marker."""
+    if state.fence is None:
+        return False
+    state.output.append(line)
+    if (
+        fence_match is not None
+        and fence_match.group(1)[0] == state.fence[0]
+        and len(fence_match.group(1)) >= state.fence[1]
+    ):
+        state.fence = None
+    return True
+
+
+def _append_markdown_list_item(
+    line: str, fence_match: re.Match[str] | None, state: MarkdownListState
+) -> bool:
+    """Normalize one list marker while tracking its nesting indentation."""
+    list_match = re.match(
+        r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \t]+", line
+    )
+    if list_match is None:
+        return False
+
+    indent = len(list_match.group("indent"))
+    if not state.list_stack and indent > MAX_ROOT_MARKDOWN_LIST_INDENT:
+        state.output.append(line)
+        return True
+
+    is_unordered = list_match.group("marker") in {"-", "+", "*"}
+    while state.list_stack and indent <= state.list_stack[-1]:
+        state.list_stack.pop()
+    if not state.list_stack:
+        state.base_indent = indent if is_unordered else 0
+    state.list_stack.append(indent)
+    state.output.append(line[state.base_indent:])
+    if fence_match is not None:
+        state.fence = (fence_match.group(1)[0], len(fence_match.group(1)))
+    else:
+        state.fence = None
+    return True
+
+
+def _append_markdown_list_continuation(
+    line: str, leading_indent: int, state: MarkdownListState
+) -> bool:
+    """Append a blank line or a continuation line belonging to the active list."""
+    if not line.strip():
+        state.output.append(line.rstrip(" \t"))
+        return True
+
+    if (
+        state.list_stack
+        and state.base_indent
+        and leading_indent >= state.base_indent
+    ):
+        normalized = line[state.base_indent:]
+        state.output.append(normalized)
+        normalized_fence = FENCED_CODE_RE.match(normalized)
+        if normalized_fence is not None:
+            state.fence = (
+                normalized_fence.group(1)[0],
+                len(normalized_fence.group(1)),
+            )
+        return True
+    return False
+
+
 def _normalize_markdown_list_indentation(value: str) -> str:
     """Dedent indented root unordered lists without changing ordered sublists."""
-    output: list[str] = []
-    list_stack: list[int] = []
-    base_indent = 0
-    fence: tuple[str, int] | None = None
+    state = MarkdownListState(output=[], list_stack=[])
 
     for line in value.splitlines(keepends=True):
         leading_indent = len(line) - len(line.lstrip(" "))
         fence_line = (
-            line[base_indent:]
-            if list_stack and base_indent and leading_indent >= base_indent
+            line[state.base_indent:]
+            if (
+                state.list_stack
+                and state.base_indent
+                and leading_indent >= state.base_indent
+            )
             else line
         )
         fence_match = FENCED_CODE_RE.match(fence_line)
-        if fence is not None:
-            output.append(fence_line)
-            if (
-                fence_match is not None
-                and fence_match.group(1)[0] == fence[0]
-                and len(fence_match.group(1)) >= fence[1]
-            ):
-                fence = None
+        if _append_fenced_markdown_line(fence_line, fence_match, state):
+            continue
+        if _append_markdown_list_item(line, fence_match, state):
+            continue
+        if _append_markdown_list_continuation(line, leading_indent, state):
             continue
 
-        list_match = re.match(
-            r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \t]+", line
-        )
-        if list_match is not None:
-            indent = len(list_match.group("indent"))
-            if not list_stack and indent > 3:
-                output.append(line)
-                continue
-            is_unordered = list_match.group("marker") in {"-", "+", "*"}
-            while list_stack and indent <= list_stack[-1]:
-                list_stack.pop()
-            if not list_stack:
-                base_indent = indent if is_unordered else 0
-            list_stack.append(indent)
-            output.append(line[base_indent:])
-            fence = (
-                (fence_match.group(1)[0], len(fence_match.group(1)))
-                if fence_match is not None
-                else None
-            )
-            continue
-
-        if not line.strip():
-            output.append(line.rstrip(" \t"))
-            continue
-
-        if list_stack and base_indent and leading_indent >= base_indent:
-            normalized = line[base_indent:]
-            output.append(normalized)
-            normalized_fence = FENCED_CODE_RE.match(normalized)
-            if normalized_fence is not None:
-                fence = (normalized_fence.group(1)[0], len(normalized_fence.group(1)))
-            continue
-
-        list_stack.clear()
-        base_indent = 0
-        output.append(line)
+        state.list_stack.clear()
+        state.base_indent = 0
+        state.output.append(line)
         if fence_match is not None:
-            fence = (fence_match.group(1)[0], len(fence_match.group(1)))
+            state.fence = (fence_match.group(1)[0], len(fence_match.group(1)))
 
-    return "".join(output)
-
+    return "".join(state.output)
 
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""
@@ -3569,33 +3612,33 @@ def _render_other_html_table(
 def _render_special_html_table(
     rows: list[list[lhtml.HtmlElement]],
     table_classes: list[str],
-    has_images: bool,
     use_html_line_breaks: bool,
     images_as_links: bool,
 ) -> str | None:
     """Render a table with a recognized gallery, recipe, or infobox layout."""
+    rendered: str | None = None
     if "gallery" in table_classes:
-        return _render_gallery_table(rows)
-    if "uses-material-list" in table_classes:
-        return _render_generic_table(
+        rendered = _render_gallery_table(rows)
+    elif "uses-material-list" in table_classes:
+        rendered = _render_generic_table(
             rows,
             use_html_line_breaks=use_html_line_breaks,
             images_as_links=images_as_links,
         )
-    if _is_recipe_infobox(rows):
-        return _render_recipe_infobox_table(rows)
-    if "infobox" in table_classes:
-        return _render_infobox_table(rows)
-    if _table_has_list_content(rows):
+    elif _is_recipe_infobox(rows):
+        rendered = _render_recipe_infobox_table(rows)
+    elif "infobox" in table_classes:
+        rendered = _render_infobox_table(rows)
+    elif _table_has_list_content(rows):
         if _table_is_single_column(rows) or not _table_has_header_row(rows):
-            return _render_list_content_table(rows)
-        return _render_generic_table(
-            rows,
-            use_html_line_breaks=use_html_line_breaks,
-            images_as_links=images_as_links,
-        )
-    return None
-
+            rendered = _render_list_content_table(rows)
+        else:
+            rendered = _render_generic_table(
+                rows,
+                use_html_line_breaks=use_html_line_breaks,
+                images_as_links=images_as_links,
+            )
+    return rendered
 
 def _render_html_table_content(
     rows: list[list[lhtml.HtmlElement]],
@@ -3606,7 +3649,7 @@ def _render_html_table_content(
     """Choose the Markdown representation for an HTML table."""
     images_as_links = has_images
     special_table = _render_special_html_table(
-        rows, table_classes, has_images, use_html_line_breaks, images_as_links
+        rows, table_classes, use_html_line_breaks, images_as_links
     )
     if special_table is not None:
         return special_table

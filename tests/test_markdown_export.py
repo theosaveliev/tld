@@ -883,11 +883,13 @@ def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
 
 
 def test_page_markdown_removes_additional_leaked_template_labels() -> None:
-    body = """## References
+    body = """==References==
 
 **Template:update history**
 
 **Template:reflist**
+
+**Template:quote2**A **Torch** is a craftable tool.
 
 25.00 kg / _(55 lb)_**Template:pic link**
 """
@@ -895,7 +897,9 @@ def test_page_markdown_removes_additional_leaked_template_labels() -> None:
     markdown = _page_markdown("Sample", [], body, None)
 
     assert "Template:" not in markdown
-    assert "References" in markdown
+    assert "## References" in markdown
+    assert "==References==" not in markdown
+    assert "A **Torch** is a craftable tool." in markdown
     assert "25.00 kg / _(55 lb)_" in markdown
 
 

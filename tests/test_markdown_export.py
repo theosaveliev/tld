@@ -1017,7 +1017,8 @@ def test_image_bearing_infobox_preserves_images_in_pipe_table() -> None:
 
     assert "| Property | Details |" in markdown
     assert "**Acorn Bannock**" in markdown
-    assert "![Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
+    assert "[Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
+    assert "![Acorn Bannock icon]" not in markdown
     assert "_Acorn\\_Bannock\\_icon.png_" not in markdown
     assert "**Release:** 21 June 2023" in markdown
     assert "**Wintermute:** No" in markdown
@@ -1123,12 +1124,14 @@ def test_image_bearing_infobox_renders_images_in_pipe_tables(
     assert not failed
     assert not note
     assert "| Property | Details |" in markdown
-    assert "![Balaclava icon](../assets/Balaclava_icon.png)" in markdown
+    assert "[Balaclava icon](../assets/Balaclava_icon.png)" in markdown
+    assert "![Balaclava icon]" not in markdown
     assert "_Balaclava\\_icon.png_" not in markdown
     assert "**General**" in markdown
     assert "Item Type" in markdown and "Clothing" in markdown
     assert "**Statistics**" in markdown
-    assert "![Weight icon](../assets/Weight_icon.png)" in markdown
+    assert "[Weight icon](../assets/Weight_icon.png)" in markdown
+    assert "![Weight icon]" not in markdown
     assert "0.25 kg" in markdown
     assert "<br>" not in markdown
     assert r"\|-" not in markdown

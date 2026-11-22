@@ -1046,7 +1046,7 @@ def _strip_missing_template_labels(line: str) -> str:
     )
     cleaned = re.sub(template_link, r"\1", line, flags=re.IGNORECASE)
     return re.sub(
-        r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?|quote2)\*{0,2}",
+        r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?|quote2|stub)\*{0,2}",
         "",
         cleaned,
         flags=re.IGNORECASE,

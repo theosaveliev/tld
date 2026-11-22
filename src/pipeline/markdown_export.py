@@ -1397,7 +1397,8 @@ def _page_markdown(
     document = "\n".join(lines).rstrip() + "\n"
     document = _remove_redundant_image_filename_captions_from_document(document)
     document = _normalize_markdown_emphasis(document)
-    return _normalize_markdown_headings(document)
+    document = _normalize_markdown_headings(document)
+    return _clean_visible_markdown_artifacts(document)
 
 
 MARKDOWN_SPECIAL_CHARS = frozenset("\\`*_{}[]()#+-.!|>")
@@ -1429,7 +1430,9 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
             output.append(line)
             continue
 
-        cleaned = re.sub(r"(?i)&#(?:x0*20|0*32);", " ", line)
+        cleaned = re.sub(
+            r"[ \t]*&#(?:x0*20|0*32);[ \t]*", " ", line, flags=re.IGNORECASE
+        )
         cleaned = re.sub(r"\\+\[([^\]\n]+)\\+\](?!\()", r"[\1]", cleaned)
         cleaned = re.sub(r"\\+\*(?=[A-Za-z]|\s*(?:\||$))", "*", cleaned)
         output.append(cleaned)

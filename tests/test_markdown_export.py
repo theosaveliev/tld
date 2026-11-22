@@ -952,7 +952,11 @@ def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "| Image | Item | Details |" in markdown
-    assert "| ![](../assets/Badge_icon.png) | Badge | - First detail<br>- Second detail |" in markdown
+    expected = (
+        "| ![](../assets/Badge_icon.png) | Badge | "
+        "- First detail<br>- Second detail |"
+    )
+    assert expected in markdown
     assert " / - First detail / - Second detail" not in markdown
 
 

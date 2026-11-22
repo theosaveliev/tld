@@ -11,7 +11,11 @@ from pipeline.categories import build_category_report, write_category_report
 from pipeline.click_types import IN_PATH, OUT_PATH
 from pipeline.filename_audit import audit_dump
 from pipeline.links import LinkExtractor
-from pipeline.markdown_export import export_dump_to_markdown
+from pipeline.markdown_export import (
+    MarkdownMarkupAuditError,
+    audit_markdown_workspace,
+    export_dump_to_markdown,
+)
 from pipeline.templates import (
     build_template_category_report,
     write_template_category_report,
@@ -256,14 +260,44 @@ def export_markdown(
     wiki_dump: Path, mapping: Path, output_dir: Path, image_dir: Path, source_url: str
 ) -> None:
     """Export main-namespace wiki articles into a linked Markdown workspace."""
-    report = export_dump_to_markdown(
-        wiki_dump,
-        mapping,
-        output_dir,
-        image_dir=image_dir,
-        source_url=source_url or None,
-    )
+    try:
+        report = export_dump_to_markdown(
+            wiki_dump,
+            mapping,
+            output_dir,
+            image_dir=image_dir,
+            source_url=source_url or None,
+        )
+    except MarkdownMarkupAuditError as error:
+        raise click.ClickException(str(error)) from error
     for name, value in report["summary"].items():
         click.echo(f"{name}: {value}")
     click.echo(f"Workspace written to {output_dir}")
     click.echo(f"Start here: {output_dir / 'Index.md'}")
+
+@cli.command("audit-markdown")
+@click.argument(
+    "workspace_dir",
+    type=click.Path(exists=True, file_okay=False, path_type=Path),
+)
+def audit_markdown(workspace_dir: Path) -> None:
+    """Scan every exported article for leftover HTML or MediaWiki markup."""
+    try:
+        audit = audit_markdown_workspace(workspace_dir)
+    except FileNotFoundError as error:
+        raise click.ClickException(str(error)) from error
+
+    click.echo(f"Markdown pages scanned: {audit['files_scanned']}")
+    click.echo(f"Pages with unrendered markup: {audit['files_with_issues']}")
+    for issue in audit["issues"]:
+        click.echo(
+            f"{issue['file']}:{issue['line']}: {issue['kind']}: {issue['snippet']}"
+        )
+    if audit["issues"]:
+        raise click.ClickException(
+            f"Markup audit failed. See {workspace_dir / 'markup-audit.json'}."
+        )
+    click.echo("No unrendered markup found in pages/.")
+
+
+

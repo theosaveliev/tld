@@ -1186,11 +1186,10 @@ def test_short_lists_in_multi_column_tables_keep_line_breaks() -> None:
 
     markdown = _html_fragment_to_markdown(fragment)
 
-    assert "|  |  |" in markdown
+    assert markdown.startswith("| Column 1 | Column 2 |")
     assert "- East Railyard<br>- West Railyard<br>- Bridge<br>- Huts" in markdown
     assert "- To Port Remnant<br>- To Track Section 2" in markdown
     assert " / - West Railyard" not in markdown
-    assert "| Column 1 | Column 2 |" not in markdown
 
 
 def test_multirow_table_headers_expand_rowspan_and_colspan() -> None:

@@ -458,6 +458,9 @@ def _resolve_page_destination(
     )
     if archive_filename is not None:
         filename = archive_filename
+        if urllib.parse.unquote(fragment) in {"0.00", "0.01"}:
+            # These two historical versions have no entry in the archived dump.
+            fragment = ""
 
     destination = "./" + _safe_destination(filename)
     if key == normalize_title(current_title) and fragment:
@@ -1113,7 +1116,13 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
         slug_count = used_slugs.get(slug, 0)
         used_slugs[slug] = slug_count + 1
         slug_alias = f"{slug}-{slug_count}" if slug_count else slug
-        aliases = [identifier, base, slug_alias, _heading_version_alias(label)]
+        aliases = [
+            identifier,
+            base,
+            base.casefold(),
+            slug_alias,
+            _heading_version_alias(label),
+        ]
         for alias in aliases:
             if alias:
                 _add_heading_anchor_alias(root, heading, alias)

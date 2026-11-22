@@ -72,7 +72,8 @@ WIKITEXT_IMAGEMAP_RE = re.compile(
     re.IGNORECASE | re.DOTALL,
 )
 WIKITEXT_IMAGEMAP_RECT_RE = re.compile(
-    r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[(?P<target>[^\]\r\n]+)\]",
+    r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+"
+    r"(?P<target>\[\[[^\]\r\n]+\]\]|\[[^\]\r\n]+\])",
     re.IGNORECASE,
 )
 WIKITEXT_COMMENT_BLOCK_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
@@ -875,8 +876,12 @@ def _replace_wikitext_imagemaps(value: str) -> str:
         regions: list[str] = []
         for rectangle in WIKITEXT_IMAGEMAP_RECT_RE.finditer(body):
             target = rectangle.group("target").strip()
+            if target.startswith("[[") and target.endswith("]]"):
+                target = target[2:-2]
+            elif target.startswith("[") and target.endswith("]"):
+                target = target[1:-1]
             page, separator, label = target.partition("|")
-            page = page.removeprefix("[[").removesuffix("]]").strip()
+            page = page.strip()
             label = label.strip()
             if not page:
                 continue

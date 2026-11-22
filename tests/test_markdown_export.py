@@ -1875,8 +1875,8 @@ def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links
     source = (
         "<imagemap>\n"
         "File:Region Map.png|thumb|center|488px|Map of [[Great Bear Island]]\n"
-        "rect 0 0 10 10 [Broken Railroad]\n"
-        "rect 10 10 20 20 [Forlorn Muskeg]\n"
+        "rect 0 0 10 10 [[Broken Railroad]]\n"
+        "rect 10 10 20 20 [[Forlorn Muskeg|Forlorn Muskeg]]\n"
         "desc none\n"
         "</imagemap>"
     )

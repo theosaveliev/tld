@@ -1671,7 +1671,8 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
 def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> None:
     root = lhtml.fragment_fromstring(
         '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>'
-        "<h2>Aurora Wolves</h2>",
+        "<h2>Aurora Wolves</h2>"
+        "<h2>Version 1.00 (Wintermute launch)</h2>",
         create_parent="div",
     )
 
@@ -1683,6 +1684,7 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
     assert '<span id="0.233"></span>' in markdown
     assert '<span id="0233-silent-hunter-update"></span>' in markdown
     assert '<span id="aurora_wolves"></span>' in markdown
+    assert '<span id="1.00"></span>' in markdown
     assert "## 0.233 (Silent Hunter Update)" in markdown
 
 

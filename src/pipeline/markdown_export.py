@@ -1663,7 +1663,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
             continue
 
         list_match = re.match(
-            r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \\t]+", line
+            r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \t]+", line
         )
         if list_match is not None:
             indent = len(list_match.group("indent"))
@@ -1682,7 +1682,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
             continue
 
         if not line.strip():
-            output.append(line.rstrip(" \\t"))
+            output.append(line.rstrip(" \t"))
             continue
 
         if list_stack and base_indent and leading_indent >= base_indent:
@@ -1700,6 +1700,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
             fence = (fence_match.group(1)[0], len(fence_match.group(1)))
 
     return "".join(output)
+
 
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""

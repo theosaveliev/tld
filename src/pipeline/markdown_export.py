@@ -1002,7 +1002,8 @@ def _page_markdown(
     if cleaned_body:
         lines.extend([cleaned_body, ""])
     document = "\n".join(lines).rstrip() + "\n"
-    return _normalize_markdown_emphasis(document)
+    document = _normalize_markdown_emphasis(document)
+    return _normalize_markdown_headings(document)
 
 
 MARKDOWN_SPECIAL_CHARS = frozenset("\\`*_{}[]()#+-.!|>")
@@ -1270,6 +1271,53 @@ def _strip_empty_gallery_sections(value: str) -> str:
         )
     ]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(cleaned)).strip()
+
+
+def _uppercase_heading_initial(line: str) -> str:
+    """Uppercase the first visible letter of one Markdown ATX heading."""
+    match = re.match(
+        r"^(?P<prefix> {0,3}#{1,6}[ \t]+)(?P<content>.*?)(?P<ending>\r?\n?)$",
+        line,
+    )
+    if match is None:
+        return line
+
+    content = match.group("content")
+    index = 0
+    while index < len(content):
+        if content[index] == "<":
+            tag_end = content.find(">", index + 1)
+            if tag_end >= 0:
+                index = tag_end + 1
+                continue
+        if content[index].isalpha():
+            content = (
+                content[:index]
+                + content[index].upper()
+                + content[index + 1 :]
+            )
+            break
+        index += 1
+
+    return match.group("prefix") + content + match.group("ending")
+
+
+def _normalize_markdown_headings(value: str) -> str:
+    """Ensure every Markdown heading starts with an uppercase letter."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        output.append(line if fence is not None else _uppercase_heading_initial(line))
+    return "".join(output)
 
 
 def _normalize_markdown_emphasis(value: str) -> str:

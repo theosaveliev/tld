@@ -1645,7 +1645,13 @@ def _normalize_markdown_list_indentation(value: str) -> str:
     fence: tuple[str, int] | None = None
 
     for line in value.splitlines(keepends=True):
-        fence_match = FENCED_CODE_RE.match(line)
+        leading_indent = len(line) - len(line.lstrip(" "))
+        fence_line = (
+            line[base_indent:]
+            if list_indents and base_indent and leading_indent >= base_indent
+            else line
+        )
+        fence_match = FENCED_CODE_RE.match(fence_line)
         if fence is not None:
             output.append(line)
             if (

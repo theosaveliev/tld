@@ -585,36 +585,58 @@ def _strip_wikitext_literal_content(
     return visible[: opening.start()] + visible[closing_end:], None
 
 
+def _is_wikitext_section_heading(value: str) -> bool:
+    """Return whether a visible line is a MediaWiki section heading."""
+    return re.fullmatch(r"={2,6}\s*.+?\s*={2,6}", value.strip()) is not None
+
+
 def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
-    """Close unterminated top-level MediaWiki table blocks before retrying Pandoc.
+    """Close unterminated tables before the next section, or at end of page.
 
     Pandoc reports an unexpected end of input when an expanded template leaves
     a table open. Count only table markers at the beginning of a line, and
-    ignore markers inside comments and literal wikitext tags.
+    ignore markers inside comments and literal wikitext tags. A missing table
+    closer must not swallow later page sections.
     """
     depth = 0
+    repaired_count = 0
     in_comment = False
     literal_tag: str | None = None
+    output: list[str] = []
 
-    for line in text.splitlines():
+    for line in text.splitlines(keepends=True):
         visible, in_comment = _strip_wikitext_comments(line, in_comment)
-        if in_comment:
-            continue
-
         visible, literal_tag = _strip_wikitext_literal_content(visible, literal_tag)
-        marker = visible.lstrip()
-        if marker.startswith("{|"):
-            depth += 1
-        elif marker.startswith("|}") and depth:
-            depth -= 1
 
-    if depth == 0:
+        if (
+            depth
+            and literal_tag is None
+            and _is_wikitext_section_heading(visible)
+        ):
+            if output and not output[-1].endswith(("\n", "\r")):
+                output.append("\n")
+            output.extend("|}\n" for _ in range(depth))
+            repaired_count += depth
+            depth = 0
+
+        if not in_comment and literal_tag is None:
+            marker = visible.lstrip()
+            if marker.startswith("{|"):
+                depth += 1
+            elif marker.startswith("|}") and depth:
+                depth -= 1
+
+        output.append(line)
+
+    if depth:
+        if output and not output[-1].endswith(("\n", "\r")):
+            output.append("\n")
+        output.extend("|}\n" for _ in range(depth))
+        repaired_count += depth
+
+    if not repaired_count:
         return text, 0
-
-    suffix = "\n".join("|}" for _ in range(depth))
-    repaired = text.rstrip() + "\n" + suffix + "\n"
-    return repaired, depth
-
+    return "".join(output), repaired_count
 
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     """Index primary images and their mismatch-folder fallbacks by basename."""
@@ -1687,10 +1709,11 @@ def _markdown_image(node: lhtml.HtmlElement) -> str:
     """Convert an HTML image to a Markdown image reference."""
     source = node.get("src", "")
     label = node.get("alt") or node.get("title") or ""
+    if label and source and normalize_image_name(label) == normalize_image_name(source):
+        label = ""
     if not source:
         return _markdown_text(label)
     return f"![{_markdown_text(label)}]({_markdown_destination(source)})"
-
 
 def _inline_markdown(node: lhtml.HtmlElement) -> str:
     """Render an element's mixed inline content without retaining HTML tags."""
@@ -1884,14 +1907,33 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
     return media if media is not None else content
 
 
+def _remove_redundant_image_filename_captions(value: str) -> str:
+    """Drop italic captions that only repeat the adjacent image filename."""
+    pattern = re.compile(
+        r"(?P<image>!\[(?:\\.|[^\]])*\]\((?P<destination>[^)]+)\))"
+        r"\s*/\s*_(?P<caption>(?:\\.|[^_])*)_"
+    )
+
+    def replace(match: re.Match[str]) -> str:
+        caption = re.sub(r"\\(.)", r"\1", match.group("caption"))
+        destination = urllib.parse.unquote(
+            urllib.parse.urlsplit(match.group("destination")).path
+        )
+        if normalize_image_name(caption) == normalize_image_name(destination):
+            return match.group("image")
+        return match.group(0)
+
+    return pattern.sub(replace, value)
+
+
 def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
     """Render a table cell as a single Markdown table row value."""
     content = _render_html_children(cell).rstrip()
+    content = _remove_redundant_image_filename_captions(content)
     if content.endswith(r"\|-"):
         content = content[:-3].rstrip()
     content = re.sub(r"\s*\n\s*", " / ", content).strip()
     return content.replace("|", r"\|")
-
 
 def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
     """Extract only rows owned by this table, not rows in nested tables."""
@@ -2637,8 +2679,7 @@ def _convert_html_to_markdown(
     pandoc: str, rewritten_html: str, note: str
 ) -> tuple[str, str, bool]:
     """Convert rewritten HTML to Markdown, normalizing any HTML Pandoc preserves."""
-    recovered_unclosed_table = "Recovered from Pandoc's unexpected end of input" in note
-    if _contains_custom_render_table(rewritten_html) and not recovered_unclosed_table:
+    if _contains_custom_render_table(rewritten_html):
         return _html_fragment_to_markdown(rewritten_html), note, False
 
     try:
@@ -2658,7 +2699,6 @@ def _convert_html_to_markdown(
         ).strip()
         return markdown_body, note, True
     return markdown_body, note, False
-
 
 def _source_html_markdown_fallback(
     page: DumpPage, pandoc: str, resources: PageExportResources

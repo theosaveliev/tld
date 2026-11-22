@@ -1621,26 +1621,43 @@ def test_rewrite_html_links_externalizes_language_interwiki_targets(
     assert 'href="https://ru.wikipedia.org/wiki/Russian_article"' in rewritten
 
 
-def test_page_markdown_hides_heading_anchor_aliases_and_removes_empty_tail() -> None:
+def test_page_markdown_removes_anchor_tags_comments_and_empty_sections() -> None:
     body = (
-        "**Wyatt's Skeleton**\n\n\n"
-        '<span id="update_history"></span><span id="Update_History"></span>'
-        '<span id="update-history"></span>\n\n'
-        "## Update History\n\n\n"
-        '<span id="overview"></span><span id="Overview"></span>\n\n'
-        "## Overview\n\nA visible section."
+        "**Wyatt's Skeleton**\n\n"
+        '<span id="update_history"></span><span id="Update_History"></span>\n'
+        "## Update History\n"
+        '<span id="overview"></span><span id="Overview"></span>\n'
+        "## Overview\n\u200b\nA visible section.\n"
+        "<!-- #overview -->"
     )
 
     markdown = _page_markdown("Wyatt's Skeleton", [], body, None)
 
     assert "## Update History" not in markdown
+    assert "## Overview" in markdown
     assert "update_history" not in markdown
-    assert "<span id=" not in markdown
-    assert "<!-- #overview -->" in markdown
-    assert "<!-- #Overview -->" in markdown
-    assert "<!-- #overview -->\n## Overview" in markdown
+    assert "<span" not in markdown
+    assert "<!--" not in markdown
+    assert "\u200b" not in markdown
     assert "A visible section." in markdown
     assert re.search(r"\n{3,}", markdown) is None
+
+
+def test_page_markdown_strips_raw_and_escaped_html_tags_without_dropping_text() -> None:
+    body = (
+        'Before<span id="fnref1"></span>after '
+        "&lt;ref&gt;quoted reference&lt;/ref&gt; "
+        "<!-- legacy anchor --> <https://example.org>"
+    )
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "Before after" in markdown
+    assert "quoted reference" in markdown
+    assert "<span" not in markdown
+    assert "&lt;ref" not in markdown
+    assert "<!--" not in markdown
+    assert "<https://example.org>" in markdown
 
 
 def test_rewrite_html_links_externalizes_named_interwiki_targets(
@@ -1749,13 +1766,14 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     assert "## Section One" in markdown
 
 
-def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> None:
+def test_mediawiki_heading_ids_map_to_markdown_slugs_without_html_anchors() -> None:
     root = lhtml.fragment_fromstring(
         '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>'
         "<h2>Aurora Wolves</h2>"
         "<h2>Version 1.00 (Wintermute launch)</h2>"
         "<h2>Skill Levels</h2><h2>Lower levels</h2>"
-        "<h2>2.09 &amp; 2.10 (Signal Void Update)</h2>",
+        "<h2>2.09 &amp; 2.10 (Signal Void Update)</h2>"
+        '<p><a href="#0.233">Jump to version</a></p>',
         create_parent="div",
     )
 
@@ -1764,14 +1782,11 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
         etree.tostring(root, encoding="unicode", method="html")
     )
 
-    assert '<span id="0.233"></span>' in markdown
-    assert '<span id="0233-silent-hunter-update"></span>' in markdown
-    assert '<span id="aurora_wolves"></span>' in markdown
-    assert '<span id="1.00"></span>' in markdown
-    assert '<span id="Skill_levels"></span>' in markdown
-    assert '<span id="Lower_Levels"></span>' in markdown
-    assert '<span id="2.10"></span>' in markdown
+    assert "<span" not in markdown
+    assert "<a " not in markdown
+    assert "<!--" not in markdown
     assert "## 0.233 (Silent Hunter Update)" in markdown
+    assert "[Jump to version](#0233-silent-hunter-update)" in markdown
 
 
 def test_custom_html_renderer_preserves_footnote_and_reference_ids() -> None:

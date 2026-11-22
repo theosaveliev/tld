@@ -1136,23 +1136,6 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
         slug_count = used_slugs.get(slug, 0)
         used_slugs[slug] = slug_count + 1
         slug_alias = f"{slug}-{slug_count}" if slug_count else slug
-        sentence_case = base[:1].upper() + base[1:].lower()
-        word_title_case = "_".join(
-            word[:1].upper() + word[1:].lower() for word in base.split("_")
-        )
-        aliases = [
-            identifier,
-            base,
-            base.casefold(),
-            sentence_case,
-            word_title_case,
-            slug_alias,
-            *_heading_version_aliases(label),
-        ]
-        for alias in aliases:
-            if alias:
-                _add_heading_anchor_alias(root, heading, alias)
-                used.add(alias)
 
         tag = heading.tag
         if not isinstance(tag, str):
@@ -1464,8 +1447,10 @@ def _page_markdown(
     document = _normalize_markdown_emphasis(document)
     document = _normalize_markdown_headings(document)
     document = _clean_visible_markdown_artifacts(document)
+    document = _strip_empty_markdown_sections(document)
     document = _strip_trailing_empty_markdown_sections(document)
     document = _rewrite_heading_anchor_spans(document)
+    document = _strip_leaked_html_markup(document)
     return _normalize_markdown_blank_lines(document)
 
 
@@ -1474,6 +1459,10 @@ MARKDOWN_HEADING_RE = re.compile(
 )
 MARKDOWN_ANCHOR_SPAN_RE = re.compile(
     r'<span\s+id="(?P<identifier>[^"]+)"\s*></span>', re.IGNORECASE
+)
+INTERWIKI_FOOTER_LINE_RE = re.compile(
+    r"^\s*\[[a-z]{2,3}:[^\]]+\]\(https?://[^)]+\)\s*$",
+    re.IGNORECASE,
 )
 
 
@@ -1486,23 +1475,18 @@ def _markdown_anchor_span_ids(line: str) -> list[str]:
 
 
 def _strip_trailing_empty_markdown_sections(value: str) -> str:
-    """Remove empty headings at the end of an article and their anchor spans."""
+    """Remove empty trailing headings, their aliases, and language footer links."""
     lines = value.splitlines()
     while lines:
         last = len(lines) - 1
-        while last >= 0 and not lines[last].strip():
+        while last >= 0 and _is_markdown_anchor_artifact_line(lines[last]):
             last -= 1
         if last < 0 or MARKDOWN_HEADING_RE.fullmatch(lines[last]) is None:
             break
         del lines[last:]
-        while lines and not lines[-1].strip():
+        while lines and _is_markdown_anchor_artifact_line(lines[-1]):
             lines.pop()
-        while lines and _markdown_anchor_span_ids(lines[-1]):
-            lines.pop()
-            while lines and not lines[-1].strip():
-                lines.pop()
     return "\n".join(lines).rstrip() + ("\n" if lines else "")
-
 
 def _advance_markdown_fence(
     line: str, fence: tuple[str, int] | None
@@ -1567,60 +1551,66 @@ def _append_heading_anchor_aliases(
             output.extend((f"<!-- #{alias} -->", "\u200b", ""))
 
 
-def _rewrite_heading_anchor_spans(value: str) -> str:
-    """Replace visible empty heading spans with hidden Cambium-compatible anchors."""
+def _is_markdown_anchor_artifact_line(line: str) -> bool:
+    """Return whether a line contains only empty anchor or interwiki footer markup."""
+    cleaned = MARKDOWN_ANCHOR_SPAN_RE.sub("", line)
+    cleaned = re.sub(r"\\?\s*<!--.*?-->", "", cleaned)
+    cleaned = re.sub(r"[\u200b\u200e\ufeff]", "", cleaned)
+    return not cleaned.strip() or INTERWIKI_FOOTER_LINE_RE.fullmatch(cleaned.strip()) is not None
+
+
+def _strip_empty_markdown_sections(value: str) -> str:
+    """Remove section headings with no content before the next peer section."""
     lines = value.splitlines()
-    output: list[str] = []
-    index = 0
+    headings: list[tuple[int, int]] = []
     fence: tuple[str, int] | None = None
-    while index < len(lines):
-        line = lines[index]
+    for index, line in enumerate(lines):
         fence, is_fence_line = _advance_markdown_fence(line, fence)
-        if is_fence_line:
-            output.append(line)
-            index += 1
+        if is_fence_line or fence is not None:
             continue
-        if fence is not None:
-            output.append(line)
-            index += 1
-            continue
+        match = MARKDOWN_HEADING_RE.fullmatch(line)
+        if match is not None:
+            headings.append((index, len(match.group("marks"))))
 
-        identifiers = _markdown_anchor_span_ids(line)
-        if not identifiers:
-            output.append(line)
-            index += 1
-            continue
+    empty_headings: set[int] = set()
+    for position, (index, level) in enumerate(headings):
+        end = len(lines)
+        for following_index, following_level in headings[position + 1 :]:
+            if following_level <= level:
+                end = following_index
+                break
+        if not any(
+            not _is_markdown_anchor_artifact_line(lines[line_index])
+            for line_index in range(index + 1, end)
+        ):
+            empty_headings.add(index)
 
-        next_index = index + 1
-        while next_index < len(lines) and not lines[next_index].strip():
-            next_index += 1
-        if next_index >= len(lines):
-            output.append(line)
-            index += 1
-            continue
+    return "\n".join(
+        line for index, line in enumerate(lines) if index not in empty_headings
+    )
 
-        heading = lines[next_index]
-        heading_match = MARKDOWN_HEADING_RE.fullmatch(heading)
-        if heading_match is None:
-            output.append(line)
-            index += 1
-            continue
 
-        if _heading_precedes_another_anchored_heading(lines, next_index):
-            index = next_index + 1
-            continue
+def _strip_leaked_html_markup(value: str) -> str:
+    """Remove raw and escaped HTML tags/comments from user-facing Markdown."""
+    cleaned = re.sub(r"\\?\s*&lt;!--[\s\S]*?--&gt;", "", value, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\\?\s*<!--[\\s\\S]*?-->", "", cleaned)
+    cleaned = re.sub(
+        r"&lt;\s*/?\s*[A-Za-z][A-Za-z0-9:-]*(?:(?!&gt;)[\s\S])*?&gt;",
+        " ",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
+    cleaned = re.sub(
+        r"</?[A-Za-z][A-Za-z0-9:-]*(?:\s+[^<>]*?)?\s*/?>",
+        " ",
+        cleaned,
+    )
+    return re.sub(r"[\u200b\u200e\ufeff]", "", cleaned)
 
-        preferred = _preferred_heading_anchor_identifier(
-            identifiers, heading_match.group("label")
-        )
-        _append_heading_anchor_aliases(output, identifiers, preferred)
-        output.append(f"<!-- #{preferred} -->")
-        output.append(heading)
-        index = next_index + 1
 
-    result = "\n".join(output)
-    return result + ("\n" if value.endswith("\n") else "")
-
+def _rewrite_heading_anchor_spans(value: str) -> str:
+    """Remove legacy empty span anchors instead of replacing them with HTML comments."""
+    return MARKDOWN_ANCHOR_SPAN_RE.sub("", value)
 
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""
@@ -3633,16 +3623,9 @@ def _render_html_special_block(node: lhtml.HtmlElement) -> str | None:
 
 
 def _markdown_anchor_for_node(node: lhtml.HtmlElement) -> str:
-    """Preserve an HTML id that would otherwise be discarded during rendering."""
-    identifier = node.get("id")
-    if not identifier:
-        return ""
-    if any(
-        sibling.get("id") == identifier for sibling in node.itersiblings(preceding=True)
-    ):
-        return ""
-    return f'<span id="{html.escape(identifier, quote=True)}"></span>'
-
+    """Do not emit HTML anchor tags in Markdown output."""
+    _ = node
+    return ""
 
 def _render_html_block(node: lhtml.HtmlElement) -> str:
     """Convert one HTML block element into Markdown, retaining its anchor ID."""
@@ -3715,18 +3698,35 @@ def _markdown_heading_slug(label: str) -> str:
 
 
 def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
-    """Rewrite MediaWiki heading IDs to Markdown-generated heading anchors."""
-    headings = root.iter("h1", "h2", "h3", "h4", "h5", "h6")
+    """Rewrite MediaWiki heading aliases to Markdown-generated heading anchors."""
     heading_slugs: dict[str, str] = {}
     used: dict[str, int] = {}
-    for heading in headings:
+    for heading in root.iter("h1", "h2", "h3", "h4", "h5", "h6"):
         identifier = heading.get("id")
         if not identifier:
             continue
-        base = _markdown_heading_slug(heading.text_content())
-        count = used.get(base, 0)
-        used[base] = count + 1
-        heading_slugs[identifier] = f"{base}-{count}" if count else base
+        label = heading.text_content().strip()
+        base = label.replace(" ", "_") or "section"
+        slug = _markdown_heading_slug(label)
+        count = used.get(slug, 0)
+        used[slug] = count + 1
+        slug_alias = f"{slug}-{count}" if count else slug
+        sentence_case = base[:1].upper() + base[1:].lower()
+        word_title_case = "_".join(
+            word[:1].upper() + word[1:].lower() for word in base.split("_")
+        )
+        aliases = [
+            identifier,
+            base,
+            base.casefold(),
+            sentence_case,
+            word_title_case,
+            slug_alias,
+            *_heading_version_aliases(label),
+        ]
+        for alias in aliases:
+            if alias:
+                heading_slugs[alias] = slug_alias
 
     for link in root.iter("a"):
         href = link.get("href", "")
@@ -3737,7 +3737,6 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
         slug = heading_slugs.get(decoded)
         if slug is not None:
             link.set("href", path + "#" + slug)
-
 
 def _table_has_spanned_cells(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Return whether an HTML table uses merged rows or columns."""

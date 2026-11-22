@@ -256,9 +256,7 @@ def test_resolve_internal_href_rewrites_local_page_links() -> None:
         == "./Scent.md#Baiting/Decoys"
     )
     assert (
-        resolve_internal_href(
-            "Page#R%C3%BCdiger", "Main Page", {"Page": "Page.md"}, {}
-        )
+        resolve_internal_href("Page#R%C3%BCdiger", "Main Page", {"Page": "Page.md"}, {})
         == "./Page.md#Rüdiger"
     )
 
@@ -418,9 +416,7 @@ def test_exact_filename_mapping_wins_over_case_collisions() -> None:
         "Piece of Paper": "Piece of Paper (2).md",
     }
 
-    assert (
-        _lookup_title_filename("Piece of Paper", mapping) == "Piece of Paper (2).md"
-    )
+    assert _lookup_title_filename("Piece of Paper", mapping) == "Piece of Paper (2).md"
     assert (
         resolve_internal_href("Piece of Paper", "Main Page", mapping, {})
         == "./Piece%20of%20Paper%20%282%29.md"
@@ -1622,9 +1618,7 @@ def test_rewrite_html_links_externalizes_language_interwiki_targets(
         set(),
     )
 
-    assert (
-        'href="https://ru.wikipedia.org/wiki/Russian_article"' in rewritten
-    )
+    assert 'href="https://ru.wikipedia.org/wiki/Russian_article"' in rewritten
 
 
 def test_page_markdown_hides_heading_anchor_aliases_and_removes_empty_tail() -> None:
@@ -1890,21 +1884,16 @@ def test_render_mediawiki_html_recovers_reported_unexpected_ref_closers(
     received: list[str] = []
 
     monkeypatch.setattr(
-        markdown_export_module,
-        "_sanitize_expanded_wikitext",
-        lambda value: value,
+        markdown_export_module, "_sanitize_expanded_wikitext", lambda value: value
     )
 
-    def fake_pandoc(
-        _pandoc: str, value: str, from_format: str, to_format: str
-    ) -> str:
+    def fake_pandoc(_pandoc: str, value: str, from_format: str, to_format: str) -> str:
         assert from_format == "mediawiki"
         assert to_format == "html"
         received.append(value)
         if len(received) == 1:
             raise RuntimeError(
-                'Error at (line 2, column 11):\n'
-                'unexpected (TagClose "ref","</ref>")'
+                'Error at (line 2, column 11):\nunexpected (TagClose "ref","</ref>")'
             )
         return "<p>Recovered content</p>"
 

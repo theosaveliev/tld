@@ -14,14 +14,6 @@
 **Revolver ammunition**
 
 
-![Box](../assets/Revolver_Ammunition_icon.png)
-
-_Box_
-
-![Cartridge](../assets/Revolver_Cartridge_icon.png)
-
-_Cartridge_
-
 **General**
 
 Item Type

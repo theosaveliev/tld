@@ -45,7 +45,7 @@ A common starting item, the **sweatshirt** has similar, but slightly better stat
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
 
-== Gallery ==
+## Gallery
 
 ![Clothing model](../assets/Sweatshirt_Model_icon.png)
 

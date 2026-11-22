@@ -36,7 +36,7 @@ _Landing+logo+wide2.png_
 
 **Hinterland Studio Inc.** is an independent game studio headquartered in downtown Vancouver.
 
-**Template:quote2**
+
 
 ## History
 

@@ -19,11 +19,3 @@ _High\_Peak\_Plateau\_Location.png_
 **General**
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
-
-![The Transmitter](../assets/High_Peak_Plateau.jpg)
-
-_The Transmitter_
-
-![The shed up close](../assets/High_Peak_Plateau_Shed.jpg)
-
-_The shed up close_

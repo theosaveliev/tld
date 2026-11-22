@@ -25,7 +25,3 @@ _No\_picture.png_
 _The\_Long\_Development\_White\_Logo.png_
 
 **Modded Content.** / This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
-
-> “**A transition region that bridges the gap between 'Lower Great Bear' and 'Eastern Great Bear'. This causeway saw plenty of use before the collapse and the vehicles left behind make that apparent.**”
->
-> — TLDEV Region Description

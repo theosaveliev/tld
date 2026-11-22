@@ -1,20 +1,12 @@
 # File Cabinet
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/File_Cabinet)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/File_Cabinet)
 
 **File Cabinet**
 
 \[\[File: / ![Regular](../assets/File_Cabinet.png) / _Regular_ / ![Rusty](../assets/File_Cabinet_Rusty.jpg) / _Rusty_
 
 250px\]\]
-
-![Regular](../assets/File_Cabinet.png)
-
-_Regular_
-
-![Rusty](../assets/File_Cabinet_Rusty.jpg)
-
-_Rusty_
 
 **Release:** TBD
 

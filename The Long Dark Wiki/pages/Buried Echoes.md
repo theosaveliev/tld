@@ -36,9 +36,3 @@ _Tales\_objectives\_02\_BuriedEchoes.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Search the Langston mine for remnants of Rüdiger and his project.**”
-
-![The Foreman's Tool Belt at the end of the episode](../assets/Foreman%27s_Tool_Belt_Location.jpg)
-
-_The Foreman's Tool Belt at the end of the episode_

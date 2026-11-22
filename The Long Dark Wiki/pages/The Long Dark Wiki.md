@@ -22,7 +22,7 @@ _Part 6: Broken Silence\|link=The\_Long\_Dark/Changelog#Version\_2.33\_(Tales\_f
 
 _Fury, then Silence\|link=Episode\_4:\_Fury,\_then\_Silence\|linktext=Fury, then Silence was released 6 October 2021._
 
-{| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Content Portals |}
+{| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Content Portals 
 
 ![](../assets/Regions.png)
 
@@ -84,7 +84,7 @@ _Materials2.png_
 
 [Materials](./Materials.md)
 
-{| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Featured Videos |}
+{| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Featured Videos 
 
 ![700 px|Part Four Update Video](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Six_Update_Video.jpg)
 
@@ -110,8 +110,7 @@ _A Visual Poem_
 
 &lt;mainpage-rightcolumn-start /&gt;
 
-| Gallery |
-| --- |
+Gallery
 
 ![](../assets/Release_Image_Slide-01-large.jpg)
 

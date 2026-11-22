@@ -48,14 +48,16 @@ THE GREY MOTHER
 
 _Mackenzie sets out to find fuel for Grey Mother's fire. Eventually he finds 24 hours worth of fuel and puts it in Grey Mother's firewood bin, prompting another tutorial message_
 
-Containers{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Search Everything!  
- Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.__
+Containers
+> __Search Everything!
+> Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.__
+>
+>
+> — What I Know description
 
-What I Know description
+_Mackenzie walks inside and triggers a cutscene_
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Mackenzie walks inside and triggers a cutscene_
-
-### 3rd Person Cutscene
+### 3Rd Person Cutscene
 
 _Grey Mother claps slowly as Mackenzie walks in and stands in front of a chair that was not there before. Grey Mother laughs in amusement_
 
@@ -225,7 +227,7 @@ Mackenzie **(Text)**: "I did like you asked me. I took whatever I could find. If
 
 Grey Mother **(Text)**: "Your words are harsh but there's no heart behind them. You're a kinder soul than I would have believed, Mainlander."
 
-### 3rd Person Cutscene
+### 3Rd Person Cutscene
 
 Mackenzie: "So...you're all set for food and fuel. I'd like to hear what you know about my friend now."
 
@@ -255,7 +257,7 @@ Grey Mother **(Text)**: "Not now, Mainlander. Leave me to my thoughts for awhile
 
 _After sleeping or exploring for several hours, Mackenzie returns to Grey Mother_
 
-### 3rd Person Cutscene
+### 3Rd Person Cutscene
 
 Grey Mother: "You've come back..."
 
@@ -441,12 +443,14 @@ Will Mackenzie: "Holy shit!!"
 
 _Scaring the wolf off, Mackenzie either loots the corpse for a [Lock Box Key (Predux)](./Lock%20Box%20Key%20%28Predux%29.md) or ignores the corpse. Picking up the [Snare](./Snare.md) on the Work Bench generates a tutorial message_
 
-Snares{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Setting Up A Trapline  
- You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!__
+Snares
+> __Setting Up A Trapline
+> You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!__
+>
+>
+> — What I Know description
 
-What I Know description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered._
+_Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered._
 
 - Tractor entered first: "Hmm...maybe a dead battery?"
 - Truck entered second: "Just like the Tractor."

@@ -25,23 +25,3 @@ _Fallen\_Lighthouse\_Location.png_
 ![](../assets/Bed_icon.png)
 
 _bed\_icon.png_
-
-![](../assets/SS-BI-FallenLighthouse02.jpg)
-
-_SS-BI-FallenLighthouse02.jpg_
-
-![](../assets/SS-BI-FallenLighthouse01.jpg)
-
-_SS-BI-FallenLighthouse01.jpg_
-
-![](../assets/SS-BI-FallenLighthouse03.jpg)
-
-_SS-BI-FallenLighthouse03.jpg_
-
-![](../assets/Behind_the_Fallen_Lighthouse.png)
-
-_Behind\_the\_Fallen\_Lighthouse.png_
-
-![Concept of the Lighthouse](../assets/Errant_Pilgrim.png)
-
-_Concept of the Lighthouse_

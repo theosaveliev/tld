@@ -30,7 +30,7 @@ _Marine\_Flare\_icon.png_
 
 **Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5%
 
-**Template:quote2**
+
 
 **Marine Flares** are a multi-purpose tool in _The Long Dark_. They can be used as a light source, [firestarter](./Fire%20Starting.md), or frightening [Wildlife](./Wildlife.md).
 

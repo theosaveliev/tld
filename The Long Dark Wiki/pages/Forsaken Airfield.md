@@ -56,17 +56,13 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|} / > “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**” / > / > — Official Marketing Description / {\| style="margin:auto"
+ / > “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**” / > / > — Official Marketing Description / 
 
 “
 
 **For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes. / Connects to Transfer Pass, The Zone of Contamination, and Sundered Pass.** / In-game description
 
 ”
-
-> “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**”
->
-> — Official Marketing Description
 
 **Forsaken Airfield** is the 14th [Region](./Region.md) found in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.
 
@@ -116,9 +112,33 @@ Near the edges of the large central plain, the region features more uneven terra
 
 ## Locations
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Archie's Crawlspace](./Archie%27s%20Crawlspace.md) / - [Brittle Cave](./Brittle%20Cave.md) / - [Bunker Omega](./Bunker%20Omega.md) / - [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md) / - [Control Tower](./Control%20Tower.md) / - [Cove](./Cove.md) / - [Drift Island](./Drift%20Island.md) / - [Fallow Dugout](./Fallow%20Dugout.md) / - [Final Approach](./Final%20Approach.md) / - [Frost Cave](./Frost%20Cave.md) / - [Hangar Basement](./Hangar%20Basement.md) / - [Island Cottage](./Island%20Cottage.md) / - [Junker's Paddock](./Junker%27s%20Paddock.md) | - [Justy's Hovel](./Justy%27s%20Hovel.md) / - [Grip's Cave](./Grip%27s%20Cave.md) / - [Main Hangar](./Main%20Hangar.md) / - [Mindful Cabin](./Mindful%20Cabin.md) / - [Shoulder Lake](./Shoulder%20Lake.md) / - [Spotter's Blind](./Spotter%27s%20Blind.md) / - [Sudden Washout](./Sudden%20Washout.md) / - [Surveyor's Memory](./Surveyor%27s%20Memory.md) / - [Stony Passage](./Stony%20Passage.md) / - [Terminal](./Terminal.md) / - [Whealy's Turn](./Whealy%27s%20Turn.md) / - To Cave System (Region Transition to [Sundered Pass](./Sundered%20Pass.md)/[Zone of Contamination](./Zone%20of%20Contamination.md)) / - To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md)) |
+- [Archie's Crawlspace](./Archie%27s%20Crawlspace.md)
+- [Brittle Cave](./Brittle%20Cave.md)
+- [Bunker Omega](./Bunker%20Omega.md)
+- [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md)
+- [Control Tower](./Control%20Tower.md)
+- [Cove](./Cove.md)
+- [Drift Island](./Drift%20Island.md)
+- [Fallow Dugout](./Fallow%20Dugout.md)
+- [Final Approach](./Final%20Approach.md)
+- [Frost Cave](./Frost%20Cave.md)
+- [Hangar Basement](./Hangar%20Basement.md)
+- [Island Cottage](./Island%20Cottage.md)
+- [Junker's Paddock](./Junker%27s%20Paddock.md)
+
+- [Justy's Hovel](./Justy%27s%20Hovel.md)
+- [Grip's Cave](./Grip%27s%20Cave.md)
+- [Main Hangar](./Main%20Hangar.md)
+- [Mindful Cabin](./Mindful%20Cabin.md)
+- [Shoulder Lake](./Shoulder%20Lake.md)
+- [Spotter's Blind](./Spotter%27s%20Blind.md)
+- [Sudden Washout](./Sudden%20Washout.md)
+- [Surveyor's Memory](./Surveyor%27s%20Memory.md)
+- [Stony Passage](./Stony%20Passage.md)
+- [Terminal](./Terminal.md)
+- [Whealy's Turn](./Whealy%27s%20Turn.md)
+- To Cave System (Region Transition to [Sundered Pass](./Sundered%20Pass.md)/[Zone of Contamination](./Zone%20of%20Contamination.md))
+- To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md))
 
 1 [Hunter's Blind](./Hunter%27s%20Blinds.md) is found between [Shoulder Lake](./Shoulder%20Lake.md) and [Final Approach](./Final%20Approach.md), though it is unnamed.
 

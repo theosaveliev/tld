@@ -5,9 +5,9 @@
     "redirects": 443,
     "expansion_errors": 0,
     "conversion_errors": 0,
-    "repaired_pages": 580,
+    "repaired_pages": 581,
     "raw_fallback_pages": 9,
-    "html_fallback_pages": 79,
+    "html_fallback_pages": 61,
     "unresolved_links": 115,
     "missing_images": 32,
     "categories": 104,
@@ -419,12 +419,12 @@
     {
       "title": "An Old House Key",
       "filename": "An Old House Key.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "An Old Logbook",
@@ -889,12 +889,12 @@
     {
       "title": "Bank Deposit Box Key 20",
       "filename": "Bank Deposit Box Key 20.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Bank Deposit Box Key 7",
@@ -1529,12 +1529,12 @@
     {
       "title": "Blackrock Rumours",
       "filename": "Blackrock Rumours.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Bleak Inlet",
@@ -3489,12 +3489,12 @@
     {
       "title": "Constable's Office",
       "filename": "Constable's Office.md",
-      "status": "html_fallback",
+      "status": "repaired",
       "categories": 4,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Recovered from Pandoc's unexpected end of input by closing 1 unterminated MediaWiki table(s). Converted HTML elements retained by Pandoc into Markdown."
+      "error": "Recovered from Pandoc's unexpected end of input by closing 1 unterminated MediaWiki table(s)."
     },
     {
       "title": "Contemplation Bridge",
@@ -3559,12 +3559,12 @@
     {
       "title": "Convict Caches",
       "filename": "Convict Caches.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Convict Journal Entry",
@@ -4229,12 +4229,12 @@
     {
       "title": "Custom",
       "filename": "Custom.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Cut/Discontinued Content",
@@ -4289,12 +4289,12 @@
     {
       "title": "Dark Star",
       "filename": "Dark Star.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Dave's Quiet Clearing",
@@ -4769,12 +4769,12 @@
     {
       "title": "Donner (mission)/Transcript",
       "filename": "Donner (mission) — Transcript.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Door",
@@ -8179,12 +8179,12 @@
     {
       "title": "Interloper",
       "filename": "Interloper.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Interview Transcript 12",
@@ -9119,12 +9119,12 @@
     {
       "title": "Locations",
       "filename": "Locations.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Lock Box",
@@ -9429,12 +9429,12 @@
     {
       "title": "Lost Power Workers",
       "filename": "Lost Power Workers.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Lost Worker's Note",
@@ -10069,12 +10069,12 @@
     {
       "title": "Metal Table",
       "filename": "Metal Table.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Methuselah",
@@ -11943,12 +11943,12 @@
     {
       "title": "Pilgrim",
       "filename": "Pilgrim.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Pillar's Footrest",
@@ -14797,12 +14797,12 @@
     {
       "title": "Stalker",
       "filename": "Stalker.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Stalker's Pie",
@@ -15139,12 +15139,12 @@
     {
       "title": "Surveyed Locations",
       "filename": "Surveyed Locations.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Surveyor's Memory",
@@ -15837,12 +15837,12 @@
     {
       "title": "The Hunted, Part Three",
       "filename": "The Hunted, Part Three.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Hunted, Part Two",
@@ -15877,12 +15877,12 @@
     {
       "title": "The Long Dark Original Soundtrack",
       "filename": "The Long Dark Original Soundtrack.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Long Dark Wiki",
@@ -17087,12 +17087,12 @@
     {
       "title": "Voyageur",
       "filename": "Voyageur.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Warden's Revolver",

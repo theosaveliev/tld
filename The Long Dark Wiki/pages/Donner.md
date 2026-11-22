@@ -47,11 +47,10 @@ _For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **If Mathis is bad, Donner is...Biblical bad.**
-
-[Franklin](./Franklin.md)
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
+> **If Mathis is bad, Donner is...Biblical bad.**
+>
+>
+> — [Franklin](./Franklin.md)
 
 ## Overview
 

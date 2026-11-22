@@ -25,7 +25,3 @@ _forge\_icon\_green.png_
 ![](../assets/Workbench_icon_green.png)
 
 _workbench\_icon\_green.png_
-
-![An alternative view of the logging camp.](../assets/Logging_Camp.png)
-
-_An alternative view of the logging camp._

@@ -6,7 +6,7 @@
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-||} A **Transmitter** is a radio tower that is used in conjunction with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) to find items in the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. They are added to the [Collectibles](./Collectibles.md) menu in the [Journal](./Journal.md) once the door is opened, and the Journal can be used to keep track of inactive or active Transmitters, as well as their broadcast range.
+| A **Transmitter** is a radio tower that is used in conjunction with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) to find items in the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. They are added to the [Collectibles](./Collectibles.md) menu in the [Journal](./Journal.md) once the door is opened, and the Journal can be used to keep track of inactive or active Transmitters, as well as their broadcast range.
 
 ## Overview
 

@@ -21,11 +21,3 @@ Region
 **General**
 
 **Type:** Cave
-
-![Creek Bed Cave entrance](../assets/Creek_Bed_Cave.jpg)
-
-_Creek Bed Cave entrance_
-
-![View from Creek Bed Cave at sunrise](../assets/Creek_Bed_Cave_view.jpg)
-
-_View from Creek Bed Cave at sunrise_

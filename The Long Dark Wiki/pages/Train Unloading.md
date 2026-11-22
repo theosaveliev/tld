@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Train_Unloading.jpg)
-
-_Train\_Unloading.jpg_
-
 **Location**
 
 ![](../assets/Train_Unloading_map.png)

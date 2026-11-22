@@ -19,7 +19,3 @@ _Poacher's\_Camp\_Location.png_
 **General**
 
 **Type:** Outdoors
-
-![Aerial view of Poacher's Camp](../assets/Forlorn_Muskeg_Poacher%27s_Camp.jpg)
-
-_Aerial view of Poacher's Camp_

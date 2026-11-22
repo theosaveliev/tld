@@ -35,15 +35,3 @@ _Tactical\_Gloves\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Reinforced gloves in the tactical style. Highly-protective, at the cost of warmth.**”
->
-> — In-game description
-
-![3d model](../assets/Tactical_Gloves_3d_Model.png)
-
-_3d model_
-
-![3d model damaged](../assets/Tactical_Gloves_3d_Model_damaged.png)
-
-_3d model damaged_

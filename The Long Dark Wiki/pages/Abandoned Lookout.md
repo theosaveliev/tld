@@ -36,19 +36,3 @@ _Abandoned\_Lookout\_map.png_
 _bed\_icon.png_
 
 Has a bed
-
-![A close up view of the lookout](../assets/Abandoned_Lookout.jpg)
-
-_A close up view of the lookout_
-
-![A panoramic view from the top of the lookout](../assets/Abandoned_lookout_panorama.jpg)
-
-_A panoramic view from the top of the lookout_
-
-![](../assets/New_forestry_lookout2.jpg)
-
-_new\_forestry\_lookout2.jpg_
-
-![Overview at dawn](../assets/Abandonned_lookout_overview_at_dawn.jpg)
-
-_Overview at dawn_

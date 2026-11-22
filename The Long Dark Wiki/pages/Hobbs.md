@@ -46,7 +46,7 @@ _Hobbs.jpg_
 
 **Voiced by:** Ben Cotton
 
-**Template:quote2** **Template:quote2** **Hobbs** is a minor character appearing in the [REDUX](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog#1.41) version of [Wintermute](./Wintermute.md) Episode 1. He can be found in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), near the town of [Milton](./Milton.md).
+  **Hobbs** is a minor character appearing in the [REDUX](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog#1.41) version of [Wintermute](./Wintermute.md) Episode 1. He can be found in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), near the town of [Milton](./Milton.md).
 
 ## History
 

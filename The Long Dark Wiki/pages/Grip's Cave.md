@@ -21,7 +21,3 @@ _Grip's\_Cave\_Location.png_
 **General**
 
 **Type:** Cave
-
-![A Wolf Carcass and a corpse of a hunter inside the cave](../assets/Grip%27s_Cave_inside.jpg)
-
-_A [Wolf Carcass](./Wolf%20Carcass.md) and a corpse of a hunter inside the cave_

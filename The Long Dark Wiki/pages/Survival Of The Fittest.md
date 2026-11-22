@@ -39,11 +39,13 @@ _Survival\_Of\_The\_Fittest.jpg_
 
 **Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.**
+**Template:spoiler**
+> **You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.**
+>
+>
+> — In-game description
 
-In-game description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Survival Of The Fittest** was the first mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
+**Survival Of The Fittest** was the first mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by [Memories](./Memories.md).
 

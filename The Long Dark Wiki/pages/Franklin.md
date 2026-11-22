@@ -49,11 +49,12 @@ _Franklin.png_
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.**
+> **Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.**
+>
+>
+> — Franklin introducing himself inside his cell to Mackenzie
 
-Franklin introducing himself inside his cell to Mackenzie
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Franklin**is a character that appears in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
+**Franklin**is a character that appears in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Background
 

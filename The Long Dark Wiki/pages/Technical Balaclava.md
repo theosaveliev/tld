@@ -37,13 +37,3 @@ Clothing Slot
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Tougher, with better resistance against wind and water than a standard Balaclava.**”
-
-![Model icon](../assets/Technical_Balaclava_Model_icon.png)
-
-_Model icon_
-
-![Model icon damaged](../assets/Technical_Balaclava_Model_Damaged_icon.png)
-
-_Model icon damaged_

@@ -29,11 +29,13 @@ _Echoes\_Of\_Astrid.jpg_
 
 **Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.**
+**Template:spoiler**
+> **Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.**
+>
+>
+> — In-game description
 
-In-game description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Echoes of Astrid** was the second mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
+**Echoes of Astrid** was the second mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by [The Crash](./The%20Crash.md).
 

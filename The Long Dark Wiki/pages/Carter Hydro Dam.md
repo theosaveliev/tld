@@ -24,14 +24,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Carter_Hydro_Dam_Exterior.png)
-
-_Exterior_
-
-![Interior](../assets/Carter_Hydro_Dam_Interior.png)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Carter_Hydro_Dam_Location.png)

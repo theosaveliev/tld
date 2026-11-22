@@ -241,43 +241,43 @@ Fresh Guts
 
 [Black Bear Carcass](./Black%20Bear%20Carcass.md)
 
-25.00 kg / _(55 lb)_**Template:pic link**
+25.00 kg / _(55 lb)_
 
-40.00 kg / _(88 lb)_**Template:pic link**
+40.00 kg / _(88 lb)_
 
 1 x ![Fresh\_Black\_Bear\_Hide\_icon.png](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
 
-10 x **Template:pic link**
+10 x 
 
 [Cougar Carcass](./Cougar%20Carcass.md)
 
 N/A
 
-4.00 kg / _(8.8 lb)_**Template:pic link**
+4.00 kg / _(8.8 lb)_
 
 1 x ![Fresh\_Cougar\_Hide\_icon.png](../assets/Fresh_Cougar_Hide_icon.png) [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) / 1 x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Deer Carcass](./Deer%20Carcass.md)
 
-6.00 kg / _(13.2 lb)_**Template:pic link**
+6.00 kg / _(13.2 lb)_
 
-11.00 kg / _(24.2 lb)_**Template:pic link**
+11.00 kg / _(24.2 lb)_
 
 1 x ![Fresh\_Deer\_Hide\_icon.png](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Moose Carcass](./Moose%20Carcass.md)
 
-32.00 kg / _(70.4 lb)_**Template:pic link**
+32.00 kg / _(70.4 lb)_
 
-45.00 kg / _(99 lb)_**Template:pic link**
+45.00 kg / _(99 lb)_
 
 1 x ![Fresh\_Moose\_Hide\_icon.png](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
 
-12 x **Template:pic link**
+12 x 
 
 [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
 
@@ -287,15 +287,15 @@ N/A
 
 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Ptarmigan Carcass](./Ptarmigan%20Carcass.md)
 
-0.60 kg / _(1.32 lb)_**Template:pic link**
+0.60 kg / _(1.32 lb)_
 
-1.20 kg / _(2.64 lb)_**Template:pic link**
+1.20 kg / _(2.64 lb)_
 
-4 x**Template:pic link**
+4 x
 
 None
 
@@ -307,7 +307,7 @@ None
 
 1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
 
-1 x **Template:pic link**
+1 x 
 
 [Timberwolf Carcass](./Timberwolf%20Carcass.md)
 
@@ -317,7 +317,7 @@ None
 
 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Wolf Carcass](./Wolf%20Carcass.md)
 
@@ -327,7 +327,7 @@ None
 
 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
-2 x **Template:pic link**
+2 x 
 
 ## Quartering
 
@@ -335,11 +335,11 @@ Harvesting a whole freshly killed animal often takes several hours to complete. 
 
 | Animal | Minimum Weight | Maximum Weight | Quarter Bags Produced |
 | --- | --- | --- | --- |
-| [Bear](./Bear.md) | 50.00 kg / _(110 lb)_**Template:pic link** | 80.00 kg / _(176 lb)_**Template:pic link** | 5-8 (10kg per bag) |
-| [Cougar](./Cougar.md) | N/A | 4.00 kg / _(8.8 lb)_**Template:pic link** | 1-2 (2.00kg per bag) |
-| [Deer](./Deer.md) (Stag) | 25.00 kg / _(55 lb)_**Template:pic link** | 25.00 kg / _(55 lb)_**Template:pic link** | 5 (5kg per bag) |
-| [Deer](./Deer.md) (Doe) | 15.00 kg / _(33 lb)_**Template:pic link** | 15.00 kg / _(33 lb)_**Template:pic link** | 3 (5kg per bag) |
-| [Moose](./Moose.md) | 60.00 kg / _(132 lb)_**Template:pic link** | 90.00 kg / _(198 lb)_**Template:pic link** | 6-9 (10kg per bag) |
+| [Bear](./Bear.md) | 50.00 kg / _(110 lb)_ | 80.00 kg / _(176 lb)_ | 5-8 (10kg per bag) |
+| [Cougar](./Cougar.md) | N/A | 4.00 kg / _(8.8 lb)_ | 1-2 (2.00kg per bag) |
+| [Deer](./Deer.md) (Stag) | 25.00 kg / _(55 lb)_ | 25.00 kg / _(55 lb)_ | 5 (5kg per bag) |
+| [Deer](./Deer.md) (Doe) | 15.00 kg / _(33 lb)_ | 15.00 kg / _(33 lb)_ | 3 (5kg per bag) |
+| [Moose](./Moose.md) | 60.00 kg / _(132 lb)_ | 90.00 kg / _(198 lb)_ | 6-9 (10kg per bag) |
 | [Poisoned Wolf](./Poisoned%20Wolf.md) | 0.00 kg / _(0 lb)_ | 0.00 kg / _(0 lb)_ | 0 |
 | [Timberwolf](./Timberwolf.md) | 5.00 kg / _(11 lb)_ | 10.00 kg / _(22 lb)_ | 1-2 (5kg per bag) |
 | [Wolf](./Wolf.md) | 5.00 kg / _(11 lb)_ | 10.00 kg / _(22 lb)_ | 1-2 (5kg per bag) |
@@ -364,12 +364,72 @@ A limited increase can be obtained from the [Research Book](./Research%20Book.md
 
 &lt;table-progress-tracking table-id="2" unique-column-index="1"&gt;
 
-| Level | Skill points needed | Points to next level | Effects | Flavor text |
-| --- | --- | --- | --- | --- |
-| 1 | 0 | 15 | - Basic carcass harvesting skill | You have a lay-person's understanding of harvesting a dead animal. Meaning, you are clumsy and unskilled. Don't cut yourself! |
-| 2 | 15 | 15 | - 10% reduction in meat harvesting times | You're a bit more comfortable with how to handle a carcass. You can tell which parts provide the best meat, but you still destroy a lot of it while harvesting. |
-| 3 | 30 | 20 | - 25% reduction in meat harvesting times / - Can harvest 50% frozen carcasses by hand / - 10% reduction in hide or gut harvesting times | You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat. |
-| 4 | 50 | 50 | - 30% reduction in meat harvesting times / - Can harvest 75% frozen carcasses by hand / - 20% reduction in hide or gut harvesting times / - (Hidden bonus) Carcasses below or equal to 75% freeze level use the unfrozen meat harvesting speed | You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little. |
-| 5 | 100 | Max level | - 50% reduction in meat harvesting times / - Can harvest 100% frozen carcasses by hand / - 30% reduction in hide or gut harvesting times / - (Hidden bonus) Carcasses below or equal to 100% freeze level use the unfrozen meat harvesting speed | Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed. |
+Level
+
+Skill points needed
+
+Points to next level
+
+Effects
+
+Flavor text
+
+1
+
+0
+
+15
+
+- Basic carcass harvesting skill
+
+You have a lay-person's understanding of harvesting a dead animal. Meaning, you are clumsy and unskilled. Don't cut yourself!
+
+2
+
+15
+
+15
+
+- 10% reduction in meat harvesting times
+
+You're a bit more comfortable with how to handle a carcass. You can tell which parts provide the best meat, but you still destroy a lot of it while harvesting.
+
+3
+
+30
+
+20
+
+- 25% reduction in meat harvesting times
+- Can harvest 50% frozen carcasses by hand
+- 10% reduction in hide or gut harvesting times
+
+You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat.
+
+4
+
+50
+
+50
+
+- 30% reduction in meat harvesting times
+- Can harvest 75% frozen carcasses by hand
+- 20% reduction in hide or gut harvesting times
+- (Hidden bonus) Carcasses below or equal to 75% freeze level use the unfrozen meat harvesting speed
+
+You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little.
+
+5
+
+100
+
+Max level
+
+- 50% reduction in meat harvesting times
+- Can harvest 100% frozen carcasses by hand
+- 30% reduction in hide or gut harvesting times
+- (Hidden bonus) Carcasses below or equal to 100% freeze level use the unfrozen meat harvesting speed
+
+Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed.
 
 &lt;/table-progress-tracking&gt;

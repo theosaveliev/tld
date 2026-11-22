@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Camp_Office_Exterior.png)
-
-_Exterior_
-
-![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Camp_Office_Location.png)

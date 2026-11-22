@@ -35,15 +35,3 @@ _Astrid's\_Jeans\_icon.png_
 _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
-> “**Simple jeans. Not fit for winter survival, but better than nothing.**”
->
-> — In-game description
-
-![Clothing model icon](../assets/Astrid%27s_Jeans_Model_icon.png)
-
-_Clothing model icon_
-
-![Clothing model icon damaged](../assets/Astrid%27s_Jeans_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_

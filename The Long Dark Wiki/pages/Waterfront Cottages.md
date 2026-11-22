@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Waterfront_Cottages.jpg)
-
-_Waterfront\_Cottages.jpg_
-
 **Location**
 
 ![](../assets/Waterfront_Cottages_map.png)

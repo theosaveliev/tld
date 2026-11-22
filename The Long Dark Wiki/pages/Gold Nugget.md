@@ -38,14 +38,10 @@ _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
 
-\|}{\| class="messagebox"
+{\| class="messagebox"
 
 ![](../assets/Ptarmigan_icon.png)
 
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-![The Gold Nugget in the Conspiracy Cache](../assets/Prepper_Cache_Conspiracy_4.jpg)
-
-_The Gold Nugget in the Conspiracy Cache_

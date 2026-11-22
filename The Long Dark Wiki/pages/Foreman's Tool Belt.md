@@ -37,19 +37,3 @@ Wintermute
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**A high-quality belt to lighten the load. Perfectly balanced to ensure all-day comfort and stability.**”
->
-> — In-game description
-
-![Clothing model icon](../assets/Foreman%27s_Tool_Belt_Model_icon.png)
-
-_Clothing model icon_
-
-![Clothing model icon damaged](../assets/Foreman%27s_Tool_Belt_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
-
-![The toolbelt location in game](../assets/Foreman%27s_Tool_Belt_Location.jpg)
-
-_The toolbelt location in game_

@@ -15,14 +15,6 @@
 
 250px\]\]
 
-![Sealed](../assets/Tomato_Soup_icon.png)
-
-_Sealed_
-
-![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png)
-
-_Opened_
-
 **Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
 
 **Wintermute:** No

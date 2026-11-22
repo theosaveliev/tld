@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Mobile_Home_1.png)
-
-_Exterior_
-
-![Interior](../assets/It%27s_really_a_trailer.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Trailer_MT_Location.png)

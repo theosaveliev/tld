@@ -19,11 +19,3 @@ _Dubious\_Overlook\_Location.png_
 **Description:** A cliff overlooking the southern section of the map
 
 **General**
-
-![The trigger for the location is in the patch of snow (where the footprints currently are)](../assets/Dubious_Overlook_area.jpg)
-
-_The trigger for the location is in the patch of snow (where the footprints currently are)_
-
-![The cliff as seen from below](../assets/Dubious_Overlook_Below.jpg)
-
-_The cliff as seen from below_

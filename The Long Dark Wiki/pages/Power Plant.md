@@ -33,7 +33,7 @@ Region
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-**Template:stub** **Power Plant** is a small hydro-electric facility located in [Blackrock](./Blackrock.md) on a river to the northwest of [Blackrock Prison](./Blackrock%20Prison.md). The prison can be reached through the [Steam Tunnels](./Steam%20Tunnels.md). There is a road that leads past the nearby [Grand Meadow](./Grand%20Meadow.md) to [Narrow Bridge](./Narrow%20Bridge.md), but it is blocked by a landslide at [Bear's Bend](./Bear%27s%20Bend.md).
+ **Power Plant** is a small hydro-electric facility located in [Blackrock](./Blackrock.md) on a river to the northwest of [Blackrock Prison](./Blackrock%20Prison.md). The prison can be reached through the [Steam Tunnels](./Steam%20Tunnels.md). There is a road that leads past the nearby [Grand Meadow](./Grand%20Meadow.md) to [Narrow Bridge](./Narrow%20Bridge.md), but it is blocked by a landslide at [Bear's Bend](./Bear%27s%20Bend.md).
 
 ## History
 

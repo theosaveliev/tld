@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Hibernia_Processing_Area_View_01.jpg)
-
-_Exterior_
-
-![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Hibernia_Processing_Location.png)

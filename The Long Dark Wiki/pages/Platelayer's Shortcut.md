@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Lower Entrance](../assets/Platelayer%27s_Shortcut.jpg)
-
-_Lower Entrance_
-
-![Upper Entrance](../assets/Platelayer%27s_Shortcut_Upper.jpg)
-
-_Upper Entrance_
-
 **Location**
 
 ![](../assets/Platelayer%27s_Shortcut_Location.png)

@@ -1,6 +1,6 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
@@ -1779,13 +1779,13 @@ Fresh Guts
 
 [Black Bear Carcass](./Black%20Bear%20Carcass.md)
 
-25.00 kg / _(55 lb)_**Template:pic link**
+25.00 kg / _(55 lb)_
 
-40.00 kg / _(88 lb)_**Template:pic link**
+40.00 kg / _(88 lb)_
 
 1 x ![Fresh\_Black\_Bear\_Hide\_icon.png](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
 
-10 x **Template:pic link**
+10 x 
 
 [Cougar Carcass](./Cougar%20Carcass.md)
 
@@ -1799,23 +1799,23 @@ N/A
 
 [Deer Carcass](./Deer%20Carcass.md)
 
-6.00 kg / _(13.2 lb)_**Template:pic link**
+6.00 kg / _(13.2 lb)_
 
-11.00 kg / _(24.2 lb)_**Template:pic link**
+11.00 kg / _(24.2 lb)_
 
 1 x ![Fresh\_Deer\_Hide\_icon.png](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Moose Carcass](./Moose%20Carcass.md)
 
-32.00 kg / _(70.4 lb)_**Template:pic link**
+32.00 kg / _(70.4 lb)_
 
-45.00 kg / _(99 lb)_**Template:pic link**
+45.00 kg / _(99 lb)_
 
 1 x ![Fresh\_Moose\_Hide\_icon.png](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
 
-12 x **Template:pic link**
+12 x 
 
 [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
 
@@ -1825,15 +1825,15 @@ N/A
 
 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Ptarmigan Carcass](./Ptarmigan%20Carcass.md)
 
-0.60 kg / _(1.32 lb)_**Template:pic link**
+0.60 kg / _(1.32 lb)_
 
-1.20 kg / _(2.64 lb)_**Template:pic link**
+1.20 kg / _(2.64 lb)_
 
-4 x**Template:pic link**
+4 x
 
 None
 
@@ -1845,7 +1845,7 @@ None
 
 1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
 
-1 x **Template:pic link**
+1 x 
 
 [Timberwolf Carcass](./Timberwolf%20Carcass.md)
 
@@ -1855,7 +1855,7 @@ None
 
 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
-2 x **Template:pic link**
+2 x 
 
 [Wolf Carcass](./Wolf%20Carcass.md)
 
@@ -1865,7 +1865,7 @@ None
 
 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
-2 x **Template:pic link**
+2 x 
 
 ## Game History
 

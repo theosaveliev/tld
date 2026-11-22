@@ -22,7 +22,10 @@
 - [Starting spawn location](#starting-spawn-location)
 - [Game Settings](#game-settings)
 
-![Interloper\_icon.png](../assets/Interloper_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.** | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Interloper** is the 4th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "expert" difficulty setting, being a major departure from the previous 3 Experiences by introducing multiple handicaps to make the game even harder than normal.
+![Interloper\_icon.png](../assets/Interloper_icon.png)
+> **You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.**
+
+**Interloper** is the 4th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "expert" difficulty setting, being a major departure from the previous 3 Experiences by introducing multiple handicaps to make the game even harder than normal.
 
 ## Overview
 

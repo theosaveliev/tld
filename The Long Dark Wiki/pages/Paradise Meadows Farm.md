@@ -23,22 +23,6 @@
 
 250px\]\]
 
-![Overview](../assets/Paradise_meadows_farm.jpg)
-
-_Overview_
-
-![Barn](../assets/Paradise_meadows_farm_barn.jpg)
-
-_Barn_
-
-![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg)
-
-_Farmhouse_
-
-![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Paradise_Meadows_Farm_Location.png)

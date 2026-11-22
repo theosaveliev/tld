@@ -38,16 +38,154 @@ Weather affects the temperature inside of [Vehicles](./Vehicle.md), but not indo
 
 ## Types of weather
 
-| Weather | Effects | Wind | Crows over bodies? | [Surveying](./Charcoal.md) | [Magnifying Lens](./Magnifying%20Lens.md) |
-| --- | --- | --- | --- | --- | --- |
-| Clear | Common and warm for relative time of day. May occur day or night. / - Warm. / - High visibility. / - [Crows](./Crow.md) will circle above frozen corpses and animal carcasses. | Calm-High | Yes | Yes | Yes |
-| Aurora | May only occur at night during clear weather. / - Bright aurora of red, orange, yellow or green appear in the night sky. / - [Predatory Wildlife](./Wildlife.md) is more aggressive and ignores common determent methods (e.g. [campfires](./Campfire.md)). / - Electrical devices become powered, such as: [Flashlight](./Flashlight.md), [Miner's Flashlight](./Miner%27s%20Flashlight.md), [Computers](./Buffer%20Memories.md), [Milling Machine](./Milling%20Machine.md), [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), radios, lights, and deadly [live wires](./Burns.md). / - [Crows](./Crow.md) will circle above frozen corpses and animal carcasses, despite being nightime. / For more information, see [Auroras](./Aurora.md). | Calm-moderate | No | Yes | No |
-| Cloudy | Two variants: partly cloudy and cloudy (overcast). / - Slightly darker dimmer with abundant clouds; Overcast may evolve from Partly Cloudy. / - Slightly cold. | Calm-High | Yes | Yes | No |
-| Fog | Two variants: light or dense. Fog may evolve from light to moderate to heavy over time. / - Slightly cold. / - Can cause disorientation and make avoiding predators difficult. / - Light: long distance visibility loss. / - Moderate: medium visibility loss. / - Heavy: blinding visibility loss. | Calm-Light | Yes | No | No |
-| Glimmer Fog | A heavy variant of fog, but charged with electrostatic particles. Only occurs during the day during clear weather. / - Blinding visibility loss / - Snow and Ice visibly and audibly crackles with electricity / - Generates the [Insomnia](./Insomnia.md) [Affliction](./Afflictions.md) / - Electrical devices become powered, such as: [flashlight](./Flashlight.md), [Miner's Flashlight](./Miner%27s%20Flashlight.md), [computers](./Buffer%20Memories.md), [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), radios, lights. / - [Live wires](./Burns.md) do not activate. For more information, see [Glimmer Fog](./Glimmer%20Fog.md). | Calm-Light | Yes | No | No |
-| Toxic Fog | A dangerous variant of fog only found in the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) Challenge. Weather begins clear and slowly transitions from light fog to heavy fog. / - [Toxic Fog](./Toxic%20Fog.md) fills an entire region after ~30 real-world minutes within in; larger/smaller regions have their Toxic Fog timers adjusted accordingly. / - Current Toxic Fog progress is shown for each region by viewing it on the map. A UI element will appear if less than half of the region's timer remains, turning red below 2 minutes remaining. / - Toxic Fog in a region also RUINs all food in the backpack, indoors, outdoors, and animal carcasses. Instantly kills all wildlife when timer close to up. | Calm-Light | Yes | No | No |
-| Snowfall | Two variants: light or heavy snow. Falling snow/flurries which may evolve into a Blizzard. / - Moderately cold. / - Light-moderate snowfall (reduces duration of tracks, wets/freezes clothing) | Calm-moderate | No | Yes | No |
-| Blizzard | Enduring and dangerous storm. / - Extremely cold. / - Damages worn clothing. / - Heavy snowfall (reduces duration of tracks, wets/freezes clothing) / - Medium visibility loss. / - Constant high winds: sounds like a 'train' even when indoors. / - Beachcombing items spawn on the coastal regions. Despawns previous containers or special items washed up on the last blizzard. / - If you are outside after a blizzard begins, wildlife may not spawn, making some meats and guts trips "safer" | High | No | No | No |
+Weather
+
+Effects
+
+Wind
+
+Crows over bodies?
+
+[Surveying](./Charcoal.md)
+
+[Magnifying Lens](./Magnifying%20Lens.md)
+
+Clear
+
+Common and warm for relative time of day. May occur day or night.
+
+- Warm.
+- High visibility.
+- [Crows](./Crow.md) will circle above frozen corpses and animal carcasses.
+
+Calm-High
+
+Yes
+
+Yes
+
+Yes
+
+Aurora
+
+May only occur at night during clear weather.
+
+- Bright aurora of red, orange, yellow or green appear in the night sky.
+- [Predatory Wildlife](./Wildlife.md) is more aggressive and ignores common determent methods (e.g. [campfires](./Campfire.md)).
+- Electrical devices become powered, such as: [Flashlight](./Flashlight.md), [Miner's Flashlight](./Miner%27s%20Flashlight.md), [Computers](./Buffer%20Memories.md), [Milling Machine](./Milling%20Machine.md), [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), radios, lights, and deadly [live wires](./Burns.md).
+- [Crows](./Crow.md) will circle above frozen corpses and animal carcasses, despite being nightime.
+
+For more information, see [Auroras](./Aurora.md).
+
+Calm-moderate
+
+No
+
+Yes
+
+No
+
+Cloudy
+
+Two variants: partly cloudy and cloudy (overcast).
+
+- Slightly darker dimmer with abundant clouds; Overcast may evolve from Partly Cloudy.
+- Slightly cold.
+
+Calm-High
+
+Yes
+
+Yes
+
+No
+
+Fog
+
+Two variants: light or dense. Fog may evolve from light to moderate to heavy over time.
+
+- Slightly cold.
+- Can cause disorientation and make avoiding predators difficult.
+- Light: long distance visibility loss.
+- Moderate: medium visibility loss.
+- Heavy: blinding visibility loss.
+
+Calm-Light
+
+Yes
+
+No
+
+No
+
+Glimmer Fog
+
+A heavy variant of fog, but charged with electrostatic particles. Only occurs during the day during clear weather.
+
+- Blinding visibility loss
+- Snow and Ice visibly and audibly crackles with electricity
+- Generates the [Insomnia](./Insomnia.md) [Affliction](./Afflictions.md)
+- Electrical devices become powered, such as: [flashlight](./Flashlight.md), [Miner's Flashlight](./Miner%27s%20Flashlight.md), [computers](./Buffer%20Memories.md), [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), radios, lights.
+- [Live wires](./Burns.md) do not activate. For more information, see [Glimmer Fog](./Glimmer%20Fog.md).
+
+Calm-Light
+
+Yes
+
+No
+
+No
+
+Toxic Fog
+
+A dangerous variant of fog only found in the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) Challenge. Weather begins clear and slowly transitions from light fog to heavy fog.
+
+- [Toxic Fog](./Toxic%20Fog.md) fills an entire region after ~30 real-world minutes within in; larger/smaller regions have their Toxic Fog timers adjusted accordingly.
+- Current Toxic Fog progress is shown for each region by viewing it on the map. A UI element will appear if less than half of the region's timer remains, turning red below 2 minutes remaining.
+- Toxic Fog in a region also RUINs all food in the backpack, indoors, outdoors, and animal carcasses. Instantly kills all wildlife when timer close to up.
+
+Calm-Light
+
+Yes
+
+No
+
+No
+
+Snowfall
+
+Two variants: light or heavy snow. Falling snow/flurries which may evolve into a Blizzard.
+
+- Moderately cold.
+- Light-moderate snowfall (reduces duration of tracks, wets/freezes clothing)
+
+Calm-moderate
+
+No
+
+Yes
+
+No
+
+Blizzard
+
+Enduring and dangerous storm.
+
+- Extremely cold.
+- Damages worn clothing.
+- Heavy snowfall (reduces duration of tracks, wets/freezes clothing)
+- Medium visibility loss.
+- Constant high winds: sounds like a 'train' even when indoors.
+- Beachcombing items spawn on the coastal regions. Despawns previous containers or special items washed up on the last blizzard.
+- If you are outside after a blizzard begins, wildlife may not spawn, making some meats and guts trips "safer"
+
+High
+
+No
+
+No
+
+No
 
 ## Wind
 

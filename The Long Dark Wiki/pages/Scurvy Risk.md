@@ -62,12 +62,14 @@ Most Vitamin-C food sources are finite (artificial foods and cattails), which ca
 
 ## Enable Option
 
-![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)_Scurvy Enable option warning_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.  
- Disable if you do not want to be pressured to find Vitamin-C rich foods.__
+![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)_Scurvy Enable option warning_
+> __Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.
+> Disable if you do not want to be pressured to find Vitamin-C rich foods.__
+>
+>
+> — In-game description
 
-In-game description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}Starting a Survival Mode save file presents the option to enable Scurvy to that save. If enabled, foods with Vitamin-C will be labeled as a Minor, Moderate, or Major source of Vitamin-C when examined.
+Starting a Survival Mode save file presents the option to enable Scurvy to that save. If enabled, foods with Vitamin-C will be labeled as a Minor, Moderate, or Major source of Vitamin-C when examined.
 
 Scurvy is present on [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), and [Misery](./Misery.md) modes, and is disabled in [Wintermute](./Wintermute.md) and [Pilgrim](./Pilgrim.md).
 

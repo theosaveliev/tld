@@ -82,7 +82,7 @@ Another possible safehouse is a small cabin located in a secluded corner of the 
 
 ## Locations
 
-Bleak Inlet is a moderately large map with a cold, windy climate and few indoor locations, making it challenging for even skilled survivors.{| class="" style="background-color:transparent; color:inherit; width:100%;" |- |
+Bleak Inlet is a moderately large map with a cold, windy climate and few indoor locations, making it challenging for even skilled survivors. |- |
 
 - [Bunker Alpha](./Bunker%20Alpha.md)
 - [Cannery Pier](./Cannery%20Pier.md)
@@ -109,7 +109,7 @@ Bleak Inlet is a moderately large map with a cold, windy climate and few indoor 
 - [Washed Out Trailers](./Washed%20Out%20Trailers.md)
 - [Workshop](./Workshop.md)
 
-|}
+
 
 Additionally, 1 [Prepper Cache](./Prepper%20Cache.md) spawns in the hills between Summit at Ravine's End and Pensive Lookout. There are also a number of small, unnamed caves scattered throughout the region. A single [Cabin](./Cabin.md) is found to the northeastern most portion of the map and several [Trailers west of the Cannery](./Trailers%20west%20of%20the%20Cannery.md) can be found.
 

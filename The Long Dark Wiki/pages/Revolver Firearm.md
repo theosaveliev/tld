@@ -38,12 +38,74 @@ Note: _Revolver skill is not increased by selecting to use a carried Revolver du
 
 Once players have reached a new skill level, they unlock a new bonus/bonuses get better. &lt;table-progress-tracking table-id="1" unique-column-index="1"&gt;
 
-| Level | Skill points needed | Points to next level | Effects | Flavor Text |
-| --- | --- | --- | --- | --- |
-| 1 | 0 | 10 | - Basic Revolver skill | You're very new to handguns, and the Revolver remains an awkward tool. You know how to load it, find a target, and fire, but no much else. |
-| 2 | 10 | 15 | - Recoil compensation increased by 25% / - +2 condition per repair action | You have a little more shooting experience under your belt. You can pick your targets and you know how to keep your Revolver clean enough to fire. |
-| 3 | 25 | 25 | - Struggle effectiveness increased by 10% / - Recoil compensation increased by 35% / - +3 condition per repair action | You've become skilled with the Revolver. your steady hand finds targets reliably and you know how to keep your Revolver in good condition. |
-| 4 | 50 | 50 | - Aim Assist: Minor / - Struggle effectiveness increased by 20% / - Recoil compensation increased by 50% / - +4 condition per repair action | You're efficient and deadly with the Revolver. Your shots are clean and effective, especially in defensive situations. |
-| 5 | 100 | Max level | - Per-use degradation reduced by 50% / - Aim assist: Moderate / - Recoil compensation increased by 70% / - Struggle effectiveness increased by 30% / - +5 condition per repair action | There's little stopping you with a Revolver in your hands. Your stance is strong, your eyes sharp, and your targets always in sight. More than a tool, it's become an extension of your will to survive. |
+Level
+
+Skill points needed
+
+Points to next level
+
+Effects
+
+Flavor Text
+
+1
+
+0
+
+10
+
+- Basic Revolver skill
+
+You're very new to handguns, and the Revolver remains an awkward tool. You know how to load it, find a target, and fire, but no much else.
+
+2
+
+10
+
+15
+
+- Recoil compensation increased by 25%
+- +2 condition per repair action
+
+You have a little more shooting experience under your belt. You can pick your targets and you know how to keep your Revolver clean enough to fire.
+
+3
+
+25
+
+25
+
+- Struggle effectiveness increased by 10%
+- Recoil compensation increased by 35%
+- +3 condition per repair action
+
+You've become skilled with the Revolver. your steady hand finds targets reliably and you know how to keep your Revolver in good condition.
+
+4
+
+50
+
+50
+
+- Aim Assist: Minor
+- Struggle effectiveness increased by 20%
+- Recoil compensation increased by 50%
+- +4 condition per repair action
+
+You're efficient and deadly with the Revolver. Your shots are clean and effective, especially in defensive situations.
+
+5
+
+100
+
+Max level
+
+- Per-use degradation reduced by 50%
+- Aim assist: Moderate
+- Recoil compensation increased by 70%
+- Struggle effectiveness increased by 30%
+- +5 condition per repair action
+
+There's little stopping you with a Revolver in your hands. Your stance is strong, your eyes sharp, and your targets always in sight. More than a tool, it's become an extension of your will to survive.
 
 &lt;/table-progress-tracking&gt;

@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Full](../assets/Wheel.png)
-
-_Full_
-
-![Broken](../assets/Wheel_%28broken%29.png)
-
-_Broken_
-
 **Release:** 1 August 2017
 
 **Update:** [1.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)

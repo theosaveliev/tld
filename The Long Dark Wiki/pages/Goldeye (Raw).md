@@ -10,14 +10,6 @@ _For the cooked version, see [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md)._
 
 250px\]\]
 
-![Raw](../assets/Goldeye_%28Raw%29_icon.png)
-
-_Raw_
-
-![Opened](../assets/Goldeye_%28Raw%29_Opened_icon.png)
-
-_Opened_
-
 **Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
 
 **Wintermute:** No

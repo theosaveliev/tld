@@ -25,15 +25,3 @@ Type
 _bed\_icon.png_
 
 Has a bed
-
-![Entrance pointed by a fallen tree, Under the radio tower's suspension bridge](../assets/SS-BI-secret_mountaion_path001.jpg)
-
-_Entrance pointed by a fallen tree, Under the radio tower's suspension bridge_
-
-![Climbing spot without rope.](../assets/SS-BI-secret_mountaion_path002.jpg)
-
-_Climbing spot without rope._
-
-![End of the path](../assets/SS-BI-secret_mountaion_path003.jpg)
-
-_End of the path_

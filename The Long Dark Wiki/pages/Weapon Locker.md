@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Closed](../assets/Weapon_Locker.jpg)
-
-_Closed_
-
-![Open](../assets/Weapon_Locker_Open.jpg)
-
-_Open_
-
 **Release:** 1.60
 
 **Story item:** Yes

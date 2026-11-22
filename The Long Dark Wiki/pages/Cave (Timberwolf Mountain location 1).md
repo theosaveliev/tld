@@ -10,10 +10,6 @@
 
 250px\]\]
 
-![](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg)
-
-_Cave\_(Timberwolf\_Mountain\_location\_1)\_exterior.jpg_
-
 **Location**
 
 Region

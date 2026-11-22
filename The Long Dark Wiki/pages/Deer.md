@@ -25,14 +25,6 @@
 
 250px\]\]
 
-![Stag](../assets/Deer.png)
-
-_Stag_
-
-![Doe](../assets/Doe.png)
-
-_Doe_
-
 **Basic Information**
 
 **Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
@@ -47,7 +39,7 @@ _Doe_
 
 _For the unique stag found in the [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) mission [Tall Tales](./Tall%20Tales.md), see [Ghost Stag](./Ghost%20Stag.md)._
 
-**Template:quote2** **Deer** are medium sized grazers in _[The Long Dark](./The%20Long%20Dark.md)_. They are a valuable resource, offering the potential for substantial amounts of meat and materials for relatively little risk.
+ **Deer** are medium sized grazers in _[The Long Dark](./The%20Long%20Dark.md)_. They are a valuable resource, offering the potential for substantial amounts of meat and materials for relatively little risk.
 
 ## Overview
 

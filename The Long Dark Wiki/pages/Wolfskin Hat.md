@@ -49,35 +49,3 @@ _Wolfskin\_Hat\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-
-
-1000 minutes (16 hour 40 minutes)
-
-**Requirements**
-
-**Facility:** 
-
-**Tool:** 
-
-**Materials**
-
-
-
-**Item:** [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)
-
-**Quantity:** 1
-
-
-
-[Cured Gut](./Cured%20Gut.md)
-
-2
-
-![3d model](../assets/Wolfskin_Hat_Model.png)
-
-_3d model_
-
-![3d model damaged](../assets/Wolfskin_Hat_damaged.png)
-
-_3d model damaged_

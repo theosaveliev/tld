@@ -36,11 +36,12 @@ _Astrid's\_Hardcase\_icon.png_
 >
 > — In-game Description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.**
+> **The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.**
+>
+>
+> — Mackenzie's Description
 
-Mackenzie's Description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} In the mission [Memories](./Memories.md), Astrid arrives with it at the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar and after a short cutscene is treated as a tool. It is treated as a tool and weighs 5.00 kg, and is a required object to be placed inside the floatplane in order to progress the mission.
+In the mission [Memories](./Memories.md), Astrid arrives with it at the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar and after a short cutscene is treated as a tool. It is treated as a tool and weighs 5.00 kg, and is a required object to be placed inside the floatplane in order to progress the mission.
 
 ### The Crash
 

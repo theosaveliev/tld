@@ -15,10 +15,6 @@
 
 250px\]\]
 
-![](../assets/Misanthrope%27s_Homestead.jpg)
-
-_Misanthrope's\_Homestead.jpg_
-
 **Location**
 
 ![](../assets/Misanthrope%27s_Homestead_map.png)
@@ -42,7 +38,3 @@ Residential
 ![](../assets/Bed_icon.png)
 
 _bed\_icon.png_
-
-![A view of the island.](../assets/Misanthrope%27s_Homestead_distant.jpg)
-
-_A view of the island._

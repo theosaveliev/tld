@@ -2,7 +2,10 @@
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stalker)
 
-![Stalker\_icon.png](../assets/Stalker_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Your demise awaits behind every hilltop, shelter, and tree. Only the strong survive.** | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Stalker** is the 3rd [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "hard" difficulty setting.
+![Stalker\_icon.png](../assets/Stalker_icon.png)
+> **Your demise awaits behind every hilltop, shelter, and tree. Only the strong survive.**
+
+**Stalker** is the 3rd [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "hard" difficulty setting.
 
 ## Overview
 

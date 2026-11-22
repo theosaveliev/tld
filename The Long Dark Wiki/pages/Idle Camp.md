@@ -25,11 +25,3 @@ _Idle\_Camp\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![](../assets/Idle_Camp_closeup.png)
-
-_Idle\_Camp\_closeup.png_
-
-![Bunkhouses](../assets/Idle_camp_bunkhouses.png)
-
-_Bunkhouses_

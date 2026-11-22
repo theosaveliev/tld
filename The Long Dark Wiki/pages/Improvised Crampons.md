@@ -98,6 +98,6 @@ _Clothing model icon_
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_%26_2.10)):**
   - Added to game.
 
-== Trivia==
+## Trivia
 
 - Improvised crampons are the only accessory that cannot be found naturally in the world. The [Moose-Hide Satchel](./Moose-Hide%20Satchel.md), while also craftable, can be found naturally in [Hushed River Valley](./Hushed%20River%20Valley.md) near [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md).

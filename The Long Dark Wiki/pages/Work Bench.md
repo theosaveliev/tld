@@ -16,18 +16,6 @@
 
 250px\]\]
 
-![Metal](../assets/Work_bench.png)
-
-_Metal_
-
-![Craftable](../assets/Workbench_icon.png)
-
-_Craftable_
-
-![Wood](../assets/Workbench_icon_Old.png)
-
-_Wood_
-
 **General**
 
 **Item Type:** Item

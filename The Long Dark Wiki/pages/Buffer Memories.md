@@ -31,11 +31,12 @@
 - [Reloading Memories](#reloading-memories)
 - [Gallery](#gallery)
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.**
+> **The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.**
+>
+>
+> — [Load Screen](./Load%20Screen.md) Description
 
-[Load Screen](./Load%20Screen.md) Description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Buffer Memories** are narrative [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) on [Computers](./Computer.md) powered by the [Aurora](./Aurora.md) that provide insight into the lives of the residents of [Great Bear Island](./Great%20Bear%20Island.md) before the [First Flare](./First%20Flare.md). They are also the main objective of the [Archivist Challenge](./Archivist.md).
+**Buffer Memories** are narrative [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) on [Computers](./Computer.md) powered by the [Aurora](./Aurora.md) that provide insight into the lives of the residents of [Great Bear Island](./Great%20Bear%20Island.md) before the [First Flare](./First%20Flare.md). They are also the main objective of the [Archivist Challenge](./Archivist.md).
 
 They take the form of either a Laptop or Computer Monitor.
 
@@ -283,7 +284,7 @@ Found on the desktop computer inside the Rural Store at [Thompson's Crossing](./
 
 ## Reloading Memories
 
-**Template:stub**  
+  
  It is possible to reload these memories, obtaining two memories from the same computer in one night. If a particularly long Aurora occurs that lasts most of the night, leaving and re-entering the building on occasion causes a new memory to load. The chance of getting a new Memory is not guaranteed as previously viewed Memories have the same chance to reappear (i.e. in a location that has four Memories, each one has a 25% chance to appear on each attempt).
 
 Computers that are outside, such as the Timberwolf Mountain Chasm Cave laptop, do not benefit from this method, although the computer in the exterior of the Maintenance Yard in the Broken Railroad region is an exception to this caveat (you can alternate between this computer and the one inside).

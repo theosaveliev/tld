@@ -32,5 +32,3 @@ _Chemical\_Poisoning\_Risk\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**You risk Poisoning by spending time inside a Chemical Hazard.**”

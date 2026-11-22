@@ -19,7 +19,3 @@ _The Bunkhouse next to the Radar dome_
 _bed\_icon.png_
 
 Has a bed
-
-![The inside of the Bunkhouse during an Aurora](../assets/Station_Bunkhouse_Interior.jpg)
-
-_The inside of the Bunkhouse during an [Aurora](./Aurora.md)_

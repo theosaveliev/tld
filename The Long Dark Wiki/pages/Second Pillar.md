@@ -17,7 +17,3 @@ _Second\_Pillar\_Location.png_
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
-
-![The pillar as seen from below (right side) with the Weather Station pillar on the left](../assets/Second_Pillar_below.jpg)
-
-_The pillar as seen from below (right side) with the Weather Station pillar on the left_

@@ -19,7 +19,3 @@ _Basement\_(Sundered\_Pass).jpg_
 _bed\_icon.png_
 
 Has a bed
-
-![The interior](../assets/Basement_%28Sundered_Pass%29_Interior.jpg)
-
-_The interior_

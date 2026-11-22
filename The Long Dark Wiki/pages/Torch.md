@@ -41,7 +41,7 @@ _Torch\_icon.png_
 
 **Item key:** GAMEPLAY\_Torch
 
-**Template:quote2**A **Torch** is a craftable tool that creates light and a small amount of heat, adding +3°C to your "Feels Like" temperature. If more than one is dropped on the ground (at your feet) while burning, the warmth bonus they provide stacks, unless a fire is nearby, in which case it overrides the warmth from torches.
+A **Torch** is a craftable tool that creates light and a small amount of heat, adding +3°C to your "Feels Like" temperature. If more than one is dropped on the ground (at your feet) while burning, the warmth bonus they provide stacks, unless a fire is nearby, in which case it overrides the warmth from torches.
 
 ## Overview
 

@@ -8,35 +8,13 @@ _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
 
-\|} / **First Aid Kit** / ![](../assets/First_Aid_Kit_%28tool%29_icon.png) / _First\_Aid\_Kit\_(tool)\_icon.png_ / **Wintermute:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** Contains essential First Aid supplies. / **Values** / **Weight:** 5.00 kg (11 lbs) / **Template:for** / > “**Contains essential First Aid supplies.**” / > / > — In-Game Description / {\| style="margin:auto"
+ / **First Aid Kit** / ![](../assets/First_Aid_Kit_%28tool%29_icon.png) / _First\_Aid\_Kit\_(tool)\_icon.png_ / **Wintermute:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **Properties** / **Item type:** [Tools](./Tools.md)\\|- / **Stackable:** No / **Examine:** Contains essential First Aid supplies. / **Values** / **Weight:** 5.00 kg (11 lbs) / **Template:for** / > “**Contains essential First Aid supplies.**” / > / > — In-Game Description / 
 
 “
 
 **Astrid's a doctor so we're covered there, but...probably best to have some extra meds just in case.** / Mackenzie's Description
 
 ”
-
-![](../assets/First_Aid_Kit_%28tool%29_icon.png)
-
-_First\_Aid\_Kit\_(tool)\_icon.png_
-
-**Wintermute:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Contains essential First Aid supplies.
-
-**Values**
-
-**Weight:** 5.00 kg (11 lbs)
-
-> “**Contains essential First Aid supplies.**”
->
-> — In-Game Description
 
 The **First Aid Kit** is an item found at the beginning of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in the mission [Memories](./Memories.md). It is found inside the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md), and is one of 3 extra items that can be placed inside Mackenzie's Floatplane (along with [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) and [Astrid's Backpack](./Astrid%27s%20Backpack.md)) before takeoff.
 

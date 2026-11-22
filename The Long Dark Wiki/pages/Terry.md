@@ -87,11 +87,13 @@ The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signa
 >
 > — Terry
 
-Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Hey look! Somone finally heard my distress call!**
+Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).
+> **Hey look! Somone finally heard my distress call!**
+>
+>
+> — Terry leading Mathis to Cooper's Blind
 
-Terry leading Mathis to Cooper's Blind
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}Terry appears at the end of the mission, excitedly leading in [Mathis](./Mathis.md) into the bar (mistakenly believing him to be a rescuer that has answered his distress call). Terry is then shoved out of the way, as Mathis smiles and begins taking over the town.
+Terry appears at the end of the mission, excitedly leading in [Mathis](./Mathis.md) into the bar (mistakenly believing him to be a rescuer that has answered his distress call). Terry is then shoved out of the way, as Mathis smiles and begins taking over the town.
 
 Terry is then taken prisoner inside Cooper's Blind along with the other residents of the town after this point.
 

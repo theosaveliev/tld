@@ -27,7 +27,3 @@ Region
 _bed\_icon.png_
 
 Has a bed
-
-![](../assets/Feahsrjtkjrew.png)
-
-_Feahsrjtkjrew.png_

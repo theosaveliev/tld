@@ -43,19 +43,3 @@ _Mountaineering\_Boots\_icon.png_
 _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
-> “**Especially rugged boots given to you by Grey Mother.**”
->
-> — In-game description
-
-> “**Don't be so stubborn, Mainlander. Here... Take these old boots. [They belonged to my](./Lilith%20Barker.md)...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going.**”
->
-> — Grey Mother in Predux Episode 1 after earning her Trust
-
-![Clothing model icon](../assets/Mountaineering_Boots_Model_icon.png)
-
-_Clothing model icon_
-
-![Clothing model icon damaged](../assets/Mountaineering_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_

@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Misty_Falls_Picnic_Area.jpg)
-
-_Exterior_
-
-![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Misty_Falls_Picnic_Area_Location.png)

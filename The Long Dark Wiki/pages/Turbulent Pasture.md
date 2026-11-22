@@ -23,7 +23,3 @@ _bed\_icon.png_
 ![](../assets/Workbench_icon_green.png)
 
 _workbench\_icon\_green.png_
-
-![5 Maple Saplings on the nearby hill](../assets/Turbulent_Pasture_Maple_Saplings.jpg)
-
-_5 Maple Saplings on the nearby hill_

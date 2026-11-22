@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Rural_Store.png)
-
-_Exterior_
-
-![Interior](../assets/Rural_store.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Rural_Store_Location.png)

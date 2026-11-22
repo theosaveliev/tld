@@ -16,14 +16,6 @@
 
 250px\]\]
 
-![Sealed](../assets/Pinnacle_Peaches_icon.png)
-
-_Sealed_
-
-![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png)
-
-_Opened_
-
 **Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
 
 **Wintermute:** No

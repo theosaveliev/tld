@@ -10,10 +10,6 @@
 
 250px\]\]
 
-![](../assets/Commuter%27s_Lament.jpg)
-
-_Commuter's\_Lament.jpg_
-
 **Location**
 
 ![](../assets/Commuter%27s_Lament_map.png)

@@ -1,6 +1,6 @@
 # Frozen Corpse
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
 
 **Frozen Corpse**
 
@@ -19,11 +19,12 @@ _Frozen\_Corpse.jpg_
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Woah. Someone's just...sitting here. Frozen. What the hell?**
+> **Woah. Someone's just...sitting here. Frozen. What the hell?**
+>
+>
+> — [Will Mackenzie](./Will%20Mackenzie.md)
 
-[Will Mackenzie](./Will%20Mackenzie.md)
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Frozen Corpses** (sometimes labeled as just **Corpse**) are the remains of seemingly recently deceased people. They are usually found outdoors, although some can be found indoors, in caves, or crushed under structures or other landmarks.
+**Frozen Corpses** (sometimes labeled as just **Corpse**) are the remains of seemingly recently deceased people. They are usually found outdoors, although some can be found indoors, in caves, or crushed under structures or other landmarks.
 
 ## Overview
 

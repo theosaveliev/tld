@@ -42,15 +42,3 @@ _Mackenzie's\_Parka\_icon.png_
 _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
-> “**The coat you were wearing when you crashed in your plane.**”
->
-> — Post Crash In-game description
-
-![Model icon](../assets/Mackenzie%27s_Parka_Model_icon.png)
-
-_Model icon_
-
-![Model icon damaged](../assets/Mackenzie%27s_Parka_Model_Damaged_icon.png)
-
-_Model icon damaged_

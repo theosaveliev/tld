@@ -63,13 +63,14 @@ _Mathis.png_
 
 **Voiced by:** [Elias Toufexis](Wikipedia:Elias_Toufexis) (Redux EP 2, 4) Gord Marriott (Predux EP 2)
 
-**Template:quote2**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __A locked case? Well that is interesting. A locked metal case is a thing of the old world stranger. It's a world of closed doors and things being off limits. You see, I was part of that world, but that world is over.  
-   
- This is my world, and in my world, I make the rules.__
+> __A locked case? Well that is interesting. A locked metal case is a thing of the old world stranger. It's a world of closed doors and things being off limits. You see, I was part of that world, but that world is over.
+>
+> This is my world, and in my world, I make the rules.__
+>
+>
+> — Mathis examining [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 
-Mathis examining [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Mathis** is a major character in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md). Adding to the already unforgiving world of [Great Bear Island's](./Great%20Bear%20Island.md) weather and wildlife, Mathis is the central human antagonist that opposes [Will Mackenzie](./Will%20Mackenzie.md), [Astrid Greenwood](./Astrid%20Greenwood.md), and the other denizens of the Island.
+**Mathis** is a major character in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md). Adding to the already unforgiving world of [Great Bear Island's](./Great%20Bear%20Island.md) weather and wildlife, Mathis is the central human antagonist that opposes [Will Mackenzie](./Will%20Mackenzie.md), [Astrid Greenwood](./Astrid%20Greenwood.md), and the other denizens of the Island.
 
 ## Background
 

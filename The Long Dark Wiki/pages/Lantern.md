@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Lit](../assets/Lantern.jpg)
-
-_Lit_
-
-![Unlit](../assets/LanternUnlit.jpg)
-
-_Unlit_
-
 **General**
 
 **Item Type:** Item

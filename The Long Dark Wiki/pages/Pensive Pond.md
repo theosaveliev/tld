@@ -19,11 +19,3 @@ _Pensive\_Pond\_Location.png_
 **General**
 
 **Type:** Outdoors
-
-![](../assets/SS-PV-PensivePond_%281%29.jpg)
-
-_SS-PV-PensivePond\_(1).jpg_
-
-![](../assets/SS-PV-PensivePond_%282%29.jpg)
-
-_SS-PV-PensivePond\_(2).jpg_

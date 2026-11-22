@@ -60,6 +60,6 @@ _3d model_
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
 
-==Trivia==
+## Trivia
 
 - Since 2011-2013, Canadian banknotes are no longer printed on paper, but on polypropylene plastic instead. These banknotes would tend to melt before starting to burn, making them considerably less useful than their paper counterparts for fire starting.

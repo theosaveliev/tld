@@ -45,7 +45,7 @@ A **Suitcase** is a storage item found in various locations across the Island. T
 
 **FastFilm:** [FastFilm-500](./FastFilm-500.md), [FastFilm-500BW](./FastFilm-500BW.md), [FastFilm-500SPA](./FastFilm-500SPA.md)
 
-## exploit
+## Exploit
 
 from: [https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)[¹](#fn1)
 
@@ -63,7 +63,7 @@ note: In practice, this exploit works for 3 things.
 2. getting mid-tire clothing (which could work for misery or interloper since there is one in homesteader's respite in Ash Canyon and being in an interior, even though the loot is reduced, following the rules of those modes), or to equip yourself quickly if you appear near a place with suitcases
 3. getting cured leather and cloth to mend clothes and trade with the trader
 
-## trivia
+## Trivia
 
 You can use the "keep construction mode out of customizable areas" bug/exploit to get air crash suitcases, or places like the terminal at Forsaken Airfield, to get more if you want to do the exploit or simply want to use them as a container.
 

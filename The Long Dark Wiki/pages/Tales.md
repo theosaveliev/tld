@@ -16,13 +16,3 @@
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Track down the mysterious radio transmissions across Great Bear Island.**”
-
-> “**Search the Langston mine for remnants of Rüdiger and his project.**”
-
-> “**Enter Sundered Pass to look for evidence of Rüdiger's escape.**”
-
-> “**We all get to to tell our own stories, right? This is mine.**”
->
-> — Sutherland the Trader

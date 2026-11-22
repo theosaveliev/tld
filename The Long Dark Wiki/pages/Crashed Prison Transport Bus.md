@@ -8,14 +8,6 @@
 
 250px\|Will approaches the bus\]\]
 
-![Approach](../assets/PrisonBus.jpg)
-
-_Approach_
-
-![Tunnel Collapse](../assets/Tunnel_Collapse.png)
-
-_Tunnel Collapse_
-
 **Location**
 
 ![](../assets/Crashed_Prison_Transport_Bus_Location.png)
@@ -42,11 +34,12 @@ Location
 >
 > — [Hobbs](./Hobbs.md)
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.**
+> **Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.**
+>
+>
+> — [Load Screen](./Load%20Screen.md) Description
 
-[Load Screen](./Load%20Screen.md) Description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The **Crashed Prison Transport Bus** is a location in the [Mountain Town](./Mountain%20Town.md) region, located to the south of [Milton](./Milton.md), past the [Orca Gas Station](./Orca%20Gas%20Station.md).
+The **Crashed Prison Transport Bus** is a location in the [Mountain Town](./Mountain%20Town.md) region, located to the south of [Milton](./Milton.md), past the [Orca Gas Station](./Orca%20Gas%20Station.md).
 
 ## Overview
 

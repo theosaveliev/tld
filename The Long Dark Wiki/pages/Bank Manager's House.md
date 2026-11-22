@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/Milton_Bank_Managers_House.jpg)
-
-_Exterior_
-
-![Interior](../assets/Bank_managers_house_interior.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Bank_Manager%27s_House_Location.png)

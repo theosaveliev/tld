@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Coastal_townsite_2.jpg)
-
-_Coastal\_townsite\_2.jpg_
-
 **Location**
 
 ![](../assets/Coastal_Townsite.png)

@@ -16,14 +16,6 @@
 
 250px\]\]
 
-![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png)
-
-_Raw_
-
-![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png)
-
-_Opened_
-
 **Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
 
 **Wintermute:** No

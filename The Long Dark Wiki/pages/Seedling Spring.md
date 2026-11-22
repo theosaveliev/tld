@@ -19,11 +19,3 @@ _Seedling\_Spring\_Location.png_
 **Description:** a small pond in the forest.
 
 **General**
-
-![The spring up close](../assets/Seedling_Spring_resized.png)
-
-_The spring up close_
-
-![The nearby Miserable Haunt cave](../assets/Miserable_Haunt.jpg)
-
-_The nearby [Miserable Haunt](./Miserable%20Haunt.md) cave_

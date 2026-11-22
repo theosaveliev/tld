@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Green](../assets/Backpack_Green.jpg)
-
-_Green_
-
-![Forest Talker](../assets/Forest_Talker_Supplies_icon.png)
-
-_Forest Talker_
-
 **Release:** TBD
 
 **Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)

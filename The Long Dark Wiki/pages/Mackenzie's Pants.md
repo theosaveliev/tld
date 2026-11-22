@@ -16,14 +16,6 @@
 
 250px\]\]
 
-![After Crash](../assets/Mackenzie%27s_Pants_icon.png)
-
-_After Crash_
-
-![Before Crash](../assets/Mackenzie%27s_Pants_Before_Crash_icon.png)
-
-_Before Crash_
-
 **General**
 
 Item Type
@@ -55,27 +47,3 @@ Wintermute
 _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
-> “**The pants you were wearing when you crashed in your plane.**”
->
-> — Post Crash In-game description
-
-> “**Comfortable pants, for a bush pilot.**”
->
-> — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar
-
-![Old icon](../assets/Mackenzie%27s_Pants_Old_icon.png)
-
-_Old icon_
-
-![Pre crash model](../assets/Mackenzie%27s_Pants_Pre_Crash_Model_icon.png)
-
-_Pre crash model_
-
-![Post Crash model](../assets/Mackenzie%27s_Pants_Model_icon.png)
-
-_Post Crash model_
-
-![Post Crash model damaged](../assets/Mackenzie%27s_Pants_Post_Crash_Model_Damaged_icon.png)
-
-_Post Crash model damaged_

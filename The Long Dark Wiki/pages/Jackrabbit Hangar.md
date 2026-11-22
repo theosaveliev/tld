@@ -6,7 +6,7 @@
 
 _Will Mackenzie inside the hangar_
 
-**Template:quote2**
+
 
 **Jackrabbit Remote Transport** is the family business of the Mackenzie family, originally operated solely by Jack Mackenzie. The transport business runs supplies and people to and from hard-to-reach places isolated in the Canadian wilderness, hence the latter part of the name.
 

@@ -482,7 +482,7 @@ def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
         '<tr><td colspan="2"><strong>Requirements</strong></td></tr>\n'
         "<tr><td>Facility</td><td>Template:iconlink</td></tr>\n"
         '<tr><td colspan="2"><img src="../assets/Materials.png" alt="" />'
-        '<strong></strong></td></tr>\n'
+        "<strong></strong></td></tr>\n"
         '<tr><td>Item</td><td><a href="./Bullet.md">'
         '<img src="../assets/Bullet.png" alt="B" />'
         "Bullet</a></td></tr>\n"
@@ -811,8 +811,8 @@ def test_page_markdown_converts_leaked_quote2_tables_to_blockquotes() -> None:
         '**Template:quote2**{| style="margin:auto" '
         '| style="vertical-align:top; font-size:3em; color:#5d5980; '
         'padding-right:10px" |“ | **A quotation spanning multiple lines.\n\n'
-        'The second sentence.**\n\n'
-        'Speaker Name\n'
+        "The second sentence.**\n\n"
+        "Speaker Name\n"
         '| style="vertical-align:bottom; font-size:3em; color:#5d5980; '
         'padding-left:10px" |” |} **Following paragraph.**\n'
     )

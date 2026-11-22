@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Moose_Overlook.png)
-
-_Moose\_Overlook.png_
-
 **Location**
 
 Region

@@ -47,11 +47,10 @@ _Pumpkin\_Pie\_icon.png_
 >
 > — 4DON description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.**
-
-Escape the Darkwalker description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
+> **A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.**
+>
+>
+> — Escape the Darkwalker description
 
 **Pumpkin Pie** is a seasonal [food](./Food%20And%20Drink.md) item available only during the Halloween events [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) and the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) (2020 event version). It is currently unable to be accessed (even in the current version of Escape the Darkwalker Challenge) and is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).
 

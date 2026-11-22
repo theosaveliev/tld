@@ -27,26 +27,6 @@
 
 250px\]\]
 
-![Note 1](../assets/Mementos_Note_icon.png)
-
-_Note 1_
-
-![Note 2](../assets/Mementos_Note_3_icon.png)
-
-_Note 2_
-
-![Note 3](../assets/Mementos_Note_2_icon.png)
-
-_Note 3_
-
-![Key 1](../assets/Mementos_Key_icon.png)
-
-_Key 1_
-
-![Key 2](../assets/Mementos_Key_2_icon.png)
-
-_Key 2_
-
 **Properties**
 
 Item type

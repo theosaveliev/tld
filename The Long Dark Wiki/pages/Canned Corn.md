@@ -15,14 +15,6 @@
 
 250px\]\]
 
-![Sealed](../assets/Canned_Corn_icon.png)
-
-_Sealed_
-
-![Opened](../assets/Canned_Corn_%28Opened%29_icon.png)
-
-_Opened_
-
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
 **Wintermute:** No
@@ -66,15 +58,3 @@ Equipable
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-Item
-
-Skills
-
-Materials
-
-[Thomson Family Stew](./Thomson%20Family%20Stew.md)
-
-None
-
-- 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)

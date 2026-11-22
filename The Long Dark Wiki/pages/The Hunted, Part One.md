@@ -31,11 +31,10 @@ _Challenge\_Hunted.png_
 >
 > — Main Menu description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.**
-
-Opening description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
+> **The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.**
+>
+>
+> — Opening description
 
 **The Hunted, Part One** is one of eight [challenges](./Challenge.md) in _[The Long Dark](./The%20Long%20Dark.md)_. Completing this Challenge unlocks [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md).
 

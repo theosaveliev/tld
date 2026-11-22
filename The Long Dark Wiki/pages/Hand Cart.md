@@ -11,23 +11,3 @@ _HandCart.jpg_
 **General**
 
 **Item Type:** Item
-
-Object
-
-Scrap Metal
-
-Time
-
-Calories
-
-Condition (of Hacksaw)
-
-Hand Cart
-
-4
-
-1 hour 30 minutes
-
-270
-
--5%

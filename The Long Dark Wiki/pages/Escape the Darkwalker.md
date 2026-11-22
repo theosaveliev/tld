@@ -277,7 +277,7 @@ _The completion screen_
 
 ## References
 
-**Template:reflist**
+
 
 ## Notes
 

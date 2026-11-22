@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Slope](../assets/Conductor%27s_Dropoff.jpg)
-
-_Slope_
-
-![Cliff](../assets/Conductor%27s_Dropoff2.jpg)
-
-_Cliff_
-
 **Location**
 
 ![](../assets/Conductor%27s_Dropoff_Location.png)

@@ -21,15 +21,3 @@ _Miserable\_Haunt\_Location.png_
 **General**
 
 **Type:** Cave
-
-![The rock climb leading to the cave](../assets/Miserable_Haunt_Climb.jpg)
-
-_The rock climb leading to the cave_
-
-![Miserable Haunt interior with two beds and a rim grill](../assets/Miserable_Haunt_Interior_Rim_Grill.png)
-
-_Miserable Haunt interior with two beds and a rim grill_
-
-![The other possible interior of Miserable Haunt](../assets/20241115011918_1.jpg)
-
-_The other possible interior of Miserable Haunt_

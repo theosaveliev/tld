@@ -37,39 +37,3 @@ _Cougar\_Hide\_Wrap\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**A superior Wrap crafted from the warm, protective hide of a Cougar.**”
->
-> — In-game description
-
-![Clothing model](../assets/Cougar_Hide_Wrap_Model.png)
-
-_Clothing model_
-
-![Clothing model damaged](../assets/Cougar_Hide_Wrap_Model_Damaged.png)
-
-_Clothing model damaged_
-
-
-
-1400 minutes (23 hour 20 minutes)
-
-**Requirements**
-
-**Facility:** 
-
-**Tool:** 
-
-**Materials**
-
-
-
-**Item:** [Cured Cougar Hide](./Cured%20Cougar%20Hide.md)
-
-**Quantity:** 1
-
-
-
-[Cured Gut](./Cured%20Gut.md)
-
-2

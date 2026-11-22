@@ -19,7 +19,3 @@ _Terminal\_Location.png_
 **Description:** An air baggage claims building next to the [Control Tower](./Control%20Tower.md)
 
 **General**
-
-![The inside of the Terminal](../assets/Terminal_Inside.jpg)
-
-_The inside of the Terminal_

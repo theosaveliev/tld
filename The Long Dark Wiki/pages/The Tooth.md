@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/CH_Tooth_2.jpg)
-
-_CH\_Tooth\_2.jpg_
-
 **Location**
 
 ![](../assets/The_Tooth_map.png)

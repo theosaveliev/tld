@@ -27,15 +27,3 @@ _Lotte's\_Rest\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![An avalanche warning inside the cabin](../assets/Avalanche_Warning_Sign.png)
-
-_An avalanche warning inside the cabin_
-
-![](../assets/Refuge_Cabin_A_resized.png)
-
-_Refuge\_Cabin\_A\_resized.png_
-
-![The cliffside view during an aurora](../assets/Lotte%27s_rest_aurora.png)
-
-_The cliffside view during an aurora_

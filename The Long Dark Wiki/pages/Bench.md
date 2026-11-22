@@ -15,22 +15,6 @@
 
 250px\]\]
 
-![Bench Table](../assets/BenchAndChair.jpg)
-
-_Bench Table_
-
-![Couch](../assets/BenchCouch.jpg)
-
-_Couch_
-
-![Chair Bench](../assets/WoodenBenchChair.jpg)
-
-_Chair Bench_
-
-![Small Table](../assets/WoodenBenchTable.jpg)
-
-_Small Table_
-
 **General**
 
 **Item Type:** Item

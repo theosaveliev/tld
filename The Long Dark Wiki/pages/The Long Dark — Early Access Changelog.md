@@ -687,7 +687,7 @@ Released: 19 February 2016
 
 - [Hinterland - The Long Dark Sandbox — The Long Dark Sandbox — Hotfix to v.304 (Xbox One)](http://hinterlandgames.com/the-long-dark-sandbox-hotfix-to-v-304-xbox-one/)
 
-### 0.302 (other platforms)
+### 0.302 (Other platforms)
 
 Released: 8 January 2016
 

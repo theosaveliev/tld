@@ -11,23 +11,3 @@ _Broken\_Metal\_Bed\_Frame.jpg_
 **General**
 
 Item Type
-
-Object
-
-Scrap Metal
-
-Time
-
-Calories
-
-Condition (of Hacksaw)
-
-Broken Metal Bed Frame
-
-8
-
-3 hours
-
-375
-
--5%

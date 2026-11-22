@@ -33,23 +33,3 @@ _Fresh\_Cougar\_Hide\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-Source
-
-Quantity
-
-Rarity
-
-[Cougar](./Cougar.md)
-
-1
-
-Always
-
-![3d model](../assets/Cougar_Hide_3d_model.jpg)
-
-_3d model_
-
-![Old icon](../assets/Cougar_Hide_icon.png)
-
-_Old icon_

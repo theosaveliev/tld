@@ -54,7 +54,7 @@ The Technical Backpack can be found alongside their sister item, the [Crampons](
 - UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)):**
   - New Gear Items: Crampons and the Technical Backpack
 
-== Trivia ==
+## Trivia
 
 - "Technical backpack" is a broad term for any type of carry pack with pockets and/or harnesses specialized for sizes of equipment.
 - It is implied prior to acquiring the technical backpack that the player is wearing a conventional backpack or rucksack like those found scattered about Great Bear Island near frozen corpses. This is shown explicitly in official artwork of [Will Mackenzie](./Will%20Mackenzie.md) for [Wintermute: Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). However, these containers cannot be picked up, and acquiring the technical backpack does not produce the player's old backpack.

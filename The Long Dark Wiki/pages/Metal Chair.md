@@ -8,18 +8,6 @@
 
 250px\]\]
 
-![Chair](../assets/MetalChair.jpg)
-
-_Chair_
-
-![Armrest](../assets/MetalChairArmrest.jpg)
-
-_Armrest_
-
-![Bench](../assets/MetalChairBench.jpg)
-
-_Bench_
-
 **General**
 
 **Item Type:** Item

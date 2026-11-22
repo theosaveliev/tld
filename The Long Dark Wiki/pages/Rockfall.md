@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Rockfall.jpg)
-
-_Rockfall.jpg_
-
 **Location**
 
 ![](../assets/Rockfall_map.png)

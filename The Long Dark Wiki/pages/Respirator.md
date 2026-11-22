@@ -40,23 +40,3 @@ _Respirator\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.**”
->
-> — [What I Know](./What%20I%20Know.md) description
-
-![Respirator in game](../assets/Respirator_in_game.png)
-
-_Respirator in game_
-
-![Respirator location](../assets/Respirator_Location.jpg)
-
-_Respirator location_
-
-![](../assets/Buried_Echoes_Icon.png)
-
-_Buried\_Echoes\_Icon.png_
-
-![The Buried Echoes Badge](../assets/Buried_Echoes_Icon.png)
-
-_The Buried Echoes Badge_

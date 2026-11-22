@@ -19,7 +19,3 @@ _Conveyor\_Room\_Location.png_
 **General**
 
 Type
-
-![The inside of the Conveyor Room](../assets/Inside_of_Conveyor_Room.png)
-
-_The inside of the Conveyor Room_

@@ -35,12 +35,11 @@ _Challenge\_HopelessRescue.png_
 >
 > — Main Menu description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Are you the last person alive? You have to know. If only you could get a signal out to someone...  
- Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse.__
-
-Opening description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
+> __Are you the last person alive? You have to know. If only you could get a signal out to someone...
+> Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse.__
+>
+>
+> — Opening description
 
 **Hopeless Rescue** is one of eight [Challenges](./Challenge.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

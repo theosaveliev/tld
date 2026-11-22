@@ -1707,7 +1707,7 @@ We just released our v2.11 Hotfix for THE LONG DARK on Xbox (112312) and WINTERM
 
 - [26](https://hinterlandforums.com/forums/topic/43109-the-long-dark-updated-to-v211-on-xbox/)
 
-### 2.09 &amp; 2.10 (TFTFT Part Two: Signal Void)
+### 2.09 &Amp; 2.10 (TFTFT Part Two: Signal Void)
 
 Released March 30, 2023
 

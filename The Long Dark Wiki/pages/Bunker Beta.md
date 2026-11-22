@@ -36,23 +36,3 @@ _Bunker\_Beta\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![Bunker Beta room](../assets/Bunker_Beta_Storage.png)
-
-_Bunker Beta room_
-
-![Bunker Beta Beds and Kitchen](../assets/Kitchen_Bunker_Beta.png)
-
-_Bunker Beta Beds and Kitchen_
-
-![The entrance](../assets/Bunker_Beta_Entrance.jpg)
-
-_The entrance_
-
-![Machine Room](../assets/Bunker_Beta_Machine_Room.jpg)
-
-_Machine Room_
-
-![Bunker Beta before it is uncovered](../assets/Bunker_Beta_Snow.jpg)
-
-_Bunker Beta before it is uncovered_

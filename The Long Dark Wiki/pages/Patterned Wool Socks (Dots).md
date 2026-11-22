@@ -37,15 +37,3 @@ _Patterned\_Wool\_Socks\_(Dots)\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Patterned Wool socks. Tough and warm.**”
->
-> — in-game description
-
-![Clothing model](../assets/Patterned_Wool_Socks_%28Dots%29_model.png)
-
-_Clothing model_
-
-![Clothing model damaged](../assets/Patterned_Wool_Socks_%28Dots%29_model_damaged.png)
-
-_Clothing model damaged_

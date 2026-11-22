@@ -15,14 +15,6 @@
 
 250px\]\]
 
-![Floor](../assets/SS-MT-Orca-02.jpg)
-
-_Floor_
-
-![Back](../assets/SS-MT-Orca-01.jpg)
-
-_Back_
-
 **Location**
 
 ![](../assets/Orca_Gas_Station_Location.png)

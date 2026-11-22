@@ -19,11 +19,3 @@ _Burned\_Ridge\_Cave\_Location.png_
 **General**
 
 **Type:** Cave
-
-![v.1.6](../assets/SS-PV-BurnedRidgeCave-02.jpg)
-
-_v.1.6_
-
-![v.1.69](../assets/SS-PV-BurnedRidgeCave-01.jpg)
-
-_v.1.69_

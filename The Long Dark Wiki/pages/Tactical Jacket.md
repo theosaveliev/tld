@@ -37,19 +37,3 @@ _Tactical\_Jacket\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**Durable jacket made from treated heavy canvas. Favoured by adventurous types who have to improvise.**”
->
-> — In-game description
-
-![Clothing model](../assets/Tactical_Jacket_Model.png)
-
-_Clothing model_
-
-![Clothing model damaged](../assets/Tactical_Jacket_Model_Damaged.png)
-
-_Clothing model damaged_
-
-![The Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg)
-
-_The Tactical Jacket_

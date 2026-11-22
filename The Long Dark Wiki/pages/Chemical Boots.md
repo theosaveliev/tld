@@ -39,15 +39,3 @@ Clothing Slot
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-![Clothing model icon](../assets/Chemical_Boots_Model_icon.png)
-
-_Clothing model icon_
-
-![Clothing model icon damaged](../assets/Chemical_Boots_Model_Damaged_icon.png)
-
-_Clothing model icon damaged_
-
-![Old gear icon](../assets/Chemical_Boots_icon_old.png)
-
-_Old gear icon_

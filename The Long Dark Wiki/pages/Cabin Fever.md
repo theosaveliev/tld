@@ -160,7 +160,7 @@ The main problem of Cabin Fever when trapped indoors can lie purely in gameplay:
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam%2C_Epic_Games%2C_Xbox%2C_PlayStation%29_%28TFTFT_PART_FIVE%3A_Last_Horizon_Update%29)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever.
 
-==References==
+## References
 
 ## Notes
 

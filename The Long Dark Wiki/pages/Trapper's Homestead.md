@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg)
-
-_Exterior_
-
-![Interior](../assets/Trapper%27s_Homestead_interior.jpg)
-
-_Interior_
-
 **Location**
 
 ![](../assets/Trapper%27s_Homestead_Location.png)

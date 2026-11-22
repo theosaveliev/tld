@@ -277,7 +277,7 @@ _A Revolver found hidden behind a [Grate](./Grate.md)_
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game.
 
-==References== **Template:reflist**
+## References
 
 ## Notes
 

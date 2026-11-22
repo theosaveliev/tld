@@ -19,22 +19,6 @@
 
 250px\]\]
 
-![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png)
-
-_Sasquatch_
-
-![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png)
-
-_The Big One_
-
-![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png)
-
-_Ghost Stag_
-
-![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
-
-_Lost Cave_
-
 Episode
 
 [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)

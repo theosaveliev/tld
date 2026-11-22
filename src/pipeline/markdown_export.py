@@ -1121,9 +1121,7 @@ def _advance_quote_code_fence(
     return True, fence
 
 
-def _begin_wikitext_quote(
-    line: str, output: list[str]
-) -> list[str] | None:
+def _begin_wikitext_quote(line: str, output: list[str]) -> list[str] | None:
     """Start converting a quote2 wrapper, returning pending quote lines."""
     opening = _quote_table_opening(line)
     if opening is None:
@@ -1143,9 +1141,7 @@ def _begin_wikitext_quote(
         return [opening.group(1)]
 
     _append_wikitext_quote(
-        output,
-        [opening.group(1)[: closing.start()]],
-        closing.group(1),
+        output, [opening.group(1)[: closing.start()]], closing.group(1)
     )
     return []
 
@@ -1276,8 +1272,7 @@ def _strip_empty_gallery_sections(value: str) -> str:
 def _uppercase_heading_initial(line: str) -> str:
     """Uppercase the first visible letter of one Markdown ATX heading."""
     match = re.match(
-        r"^(?P<prefix> {0,3}#{1,6}[ \t]+)(?P<content>.*?)(?P<ending>\r?\n?)$",
-        line,
+        r"^(?P<prefix> {0,3}#{1,6}[ \t]+)(?P<content>.*?)(?P<ending>\r?\n?)$", line
     )
     if match is None:
         return line
@@ -1291,11 +1286,7 @@ def _uppercase_heading_initial(line: str) -> str:
                 index = tag_end + 1
                 continue
         if content[index].isalpha():
-            content = (
-                content[:index]
-                + content[index].upper()
-                + content[index + 1 :]
-            )
+            content = content[:index] + content[index].upper() + content[index + 1 :]
             break
         index += 1
 
@@ -2061,25 +2052,17 @@ def _recipe_section_heading(
 
 def _is_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Recognize recipe tables by their requirement fields and crafting metadata."""
-    labels = {
-        cell.text_content().strip().casefold()
-        for row in rows
-        for cell in row
-    }
+    labels = {cell.text_content().strip().casefold() for row in rows for cell in row}
     required_fields = {"requirements", "item", "quantity"}
     has_crafting_time = any(
         re.search(
-            r"\b(?:seconds?|minutes?|hours?)\b",
-            cell.text_content(),
-            re.IGNORECASE,
+            r"\b(?:seconds?|minutes?|hours?)\b", cell.text_content(), re.IGNORECASE
         )
         for row in rows
         for cell in row
     )
     has_material_section = any(
-        _recipe_section_heading(
-            [cell], [cell.text_content().strip()]
-        ) == "materials"
+        _recipe_section_heading([cell], [cell.text_content().strip()]) == "materials"
         for row in rows
         for cell in row
     )
@@ -2306,19 +2289,7 @@ def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 def _table_cell_has_block_layout(cell: lhtml.HtmlElement) -> bool:
     """Identify one-cell wrappers whose descendants need block-level rendering."""
-    block_tags = {
-        "div",
-        "h1",
-        "h2",
-        "h3",
-        "h4",
-        "h5",
-        "h6",
-        "ol",
-        "p",
-        "table",
-        "ul",
-    }
+    block_tags = {"div", "h1", "h2", "h3", "h4", "h5", "h6", "ol", "p", "table", "ul"}
     return any(_html_tag(child) in block_tags for child in cell.iterdescendants())
 
 

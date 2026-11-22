@@ -66,5 +66,3 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 _Old model._
 
 ## Update history
-
-**Template:update history**

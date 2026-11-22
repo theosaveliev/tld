@@ -26,11 +26,3 @@ _Hermit's\_Cabin\_Location.png_
 **General**
 
 **Firebox:** [Wood Stove](./Wood%20Stove.md)
-
-![](../assets/Hermits_cabin_2.jpg)
-
-_hermits\_cabin\_2.jpg_
-
-![](../assets/Milton_Basin_Cabin.jpg)
-
-_Milton\_Basin\_Cabin.jpg_

@@ -23,7 +23,3 @@ _Remnant\_Cave\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![Boxcars outside the cave](../assets/Remnant_Cave_Flatcars.jpg)
-
-_Boxcars outside the cave_

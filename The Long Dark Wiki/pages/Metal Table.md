@@ -2,7 +2,7 @@
 
 **Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Table)
 
-**Template:stub** **Template:images needed**
+ **Template:images needed**
 
 **Metal Table**
 

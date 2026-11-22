@@ -106,14 +106,6 @@ Typically, only one flask will spawn per region in one of the below locations. A
 
 **Mountain Town** [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md): / - Under the plane behind the cliff / - Inside the floatplane leg at the bottom of the ravine / - Under the plane wing in the ravine / - Inside one of the green [Crates](./Crate.md) in the ravine / - Behind a large [Cedar Limb](./Cedar%20Limb.md) at the bottom of the ravine, near the cave / - Inside the cave at the bottom of the ravine, propped against some rocks in the open / ![Near cave](../assets/Jackrabbit_Flask.webp) / _Near cave_ / ![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp) / _Under plane near cliff_
 
-![Near cave](../assets/Jackrabbit_Flask.webp)
-
-_Near cave_
-
-![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp)
-
-_Under plane near cliff_
-
 ![Insulated\_Flask\_(orange)\_icon.png](../assets/Insulated_Flask_%28orange%29_icon.png) Orange Flask
 
 **Pleasant Valley** / - On a table at the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md) / - Hunting Blind south of Signal Hill, opposite cave transition into Winding River / - Hunter's blind west of the access to Timberwolf Mountain / - In the shelter next to the overturned boat in [Thomson's Crossing](./Thomson%27s%20Crossing.md) / - In the ice fishing hut at [Pensive Pond](./Pensive%20Pond.md) / Note: Orange Flask has a chance to spawn in any [Locker](./Locker.md).

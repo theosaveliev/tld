@@ -74,14 +74,14 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Warmth](./Warmth.md)
 
-### 1/3rd depleted
+### 1/3Rd depleted
 
 - Shivering noises (W,A)
 - This cold is making my head feel thick! (W,A)
 - Need to find some place to escape this cold. (W,A)
 - Gotta warm up somehow. (A)
 
-### 2/3rd depleted
+### 2/3Rd depleted
 
 - Shivering noises (W,A)
 - Too cold to think. (W,A)
@@ -107,11 +107,11 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Fatigue](./Fatigue.md)
 
-### 1/3rd depleted
+### 1/3Rd depleted
 
 - (Yawning noises) (W,A)
 
-### 2/3rd depleted
+### 2/3Rd depleted
 
 - I think I need to lay down. (W)
 - Not sure why I feel so tired. (W)
@@ -135,11 +135,11 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Hunger](./Hunger.md)
 
-### 1/2 depleted
+### 1/2 Depleted
 
 - (Various stomach growling noises)
 
-### 3/4 depleted
+### 3/4 Depleted
 
 - I need to find food. (W,A)
 - Gonna need to eat soon (W,A)
@@ -168,11 +168,11 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Thirst](./Thirst.md)
 
-### 1/2 depleted
+### 1/2 Depleted
 
 - Dry lip smacking sounds (W,A)
 
-### 3/4 depleted
+### 3/4 Depleted
 
 - I could use a drink. (W)
 - Getting kind of thirsty. (W,A)
@@ -241,7 +241,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Encumbrance](./Encumbrance.md)
 
-### 3-5kg over carry weight
+### 3-5Kg over carry weight
 
 - I might have to drop some gear. (W,A)
 - This pack is gettin' kinda heavy! (W,A)
@@ -252,7 +252,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Feels like a lot of gear. (W,A)
 - I'm not going to be able to carry this load for much longer. (W,A)
 
-### 10-15kg over carry weight
+### 10-15Kg over carry weight
 
 - Too heavy, can't move. (W)
 - TOO, MUCH, TO CARRY!!! (W)

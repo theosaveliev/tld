@@ -11,11 +11,13 @@
 - [Achievements](#achievements)
 - [Game History](#game-history)
 
-![Misery\_Mode.jpg](../assets/Misery_Mode.jpg){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Cited text**
+![Misery\_Mode.jpg](../assets/Misery_Mode.jpg)
+> **Cited text**
+>
+>
+> — In-game Description
 
-In-game Description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Misery** is 5th and most challenging [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. Misery was added on June 24th, 2024 as part of the Part 5 update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is the standard "impossible" difficulty, being almost on the same level of difficulty as [Interloper](./Interloper.md), but with more handicaps to make survival even harder.
+**Misery** is 5th and most challenging [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. Misery was added on June 24th, 2024 as part of the Part 5 update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is the standard "impossible" difficulty, being almost on the same level of difficulty as [Interloper](./Interloper.md), but with more handicaps to make survival even harder.
 
 ## Overview
 

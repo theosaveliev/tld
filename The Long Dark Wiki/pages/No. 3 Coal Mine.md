@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Abandoned_Mine_No.3_%28West%29_interior.jpg)
-
-_Abandoned\_Mine\_No.3\_(West)\_interior.jpg_
-
 **Location**
 
 Region

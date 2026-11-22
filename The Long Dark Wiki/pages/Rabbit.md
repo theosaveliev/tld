@@ -36,7 +36,7 @@ _Rabbit.png_
 
 **Eyes:** Black
 
-**Template:quote2** **Rabbits** are small animals found scattered throughout the wilderness, either alone or in groups of two to four. They can be found in all main regions as well as in some transition zones.
+ **Rabbits** are small animals found scattered throughout the wilderness, either alone or in groups of two to four. They can be found in all main regions as well as in some transition zones.
 
 ## Overview
 

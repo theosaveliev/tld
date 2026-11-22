@@ -1,6 +1,6 @@
 # Safe
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
 
 **Contents**
 

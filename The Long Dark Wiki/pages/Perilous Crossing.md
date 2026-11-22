@@ -17,7 +17,3 @@ _Perilous\_Crossing\_Location.png_
 **Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
-
-![The bridge as seen from Juniper Runoff](../assets/Juniper_Runoff.jpg)
-
-_The bridge as seen from Juniper Runoff_

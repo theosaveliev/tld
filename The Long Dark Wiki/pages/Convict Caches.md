@@ -18,11 +18,13 @@
 | Current | Convict Caches |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **An escaping convict left some hidden caches to help the other convicts following him.**
+**Template:spoiler**
+> **An escaping convict left some hidden caches to help the other convicts following him.**
+>
+>
+> — In-game description
 
-In-game description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Convict Caches** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
+**Convict Caches** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Overview
 

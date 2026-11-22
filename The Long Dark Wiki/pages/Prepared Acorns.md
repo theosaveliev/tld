@@ -17,10 +17,6 @@
 
 250px\]\]
 
-![Portion](../assets/Prepared_Acorns_icon.png)
-
-_Portion_
-
 **Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
 
 **Wintermute:** No

@@ -24,11 +24,3 @@ _Lake\_cabin4.jpg_
 **General**
 
 **Type:** Residential
-
-![The interior of a cabin](../assets/Lake_cabin.jpg)
-
-_The interior of a cabin_
-
-![The old cabin exteriors](../assets/Lake_cabins.jpg)
-
-_The old cabin exteriors_

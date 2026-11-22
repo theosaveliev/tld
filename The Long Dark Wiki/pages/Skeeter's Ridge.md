@@ -19,7 +19,3 @@ _Skeeter's\_Ridge\_Location.png_
 **General**
 
 **Type:** Outdoors
-
-![](../assets/Skeeters_ridge_basement_door.jpg)
-
-_skeeters\_ridge\_basement\_door.jpg_

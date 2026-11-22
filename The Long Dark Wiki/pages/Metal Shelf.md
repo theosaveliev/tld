@@ -15,26 +15,6 @@
 
 250px\]\]
 
-![Locker](../assets/MetalShelfLocker.jpg)
-
-_Locker_
-
-![Extra Small](../assets/MetalShelfExtraSmall.jpg)
-
-_Extra Small_
-
-![Small](../assets/MetalShelfSmall.jpg)
-
-_Small_
-
-![Large](../assets/MetalShelfLarge.jpg)
-
-_Large_
-
-![Extra Large](../assets/MetalShelfExtraLarge.jpg)
-
-_Extra Large_
-
 **General**
 
 **Item Type:** Item

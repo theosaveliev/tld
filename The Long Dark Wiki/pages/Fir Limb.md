@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Small](../assets/Fir_Limb.jpg)
-
-_Small_
-
-![Large](../assets/Fir_Limb_Large.jpg)
-
-_Large_
-
 **General**
 
 Item Type

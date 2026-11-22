@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Garage_2019.jpg)
-
-_Garage\_2019.jpg_
-
 **Location**
 
 ![](../assets/Quonset_Garage_map.png)

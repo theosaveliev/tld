@@ -91,13 +91,75 @@ Rifle Skill is increased by scoring hits on live wildlife with the [Hunting Rifl
 
 Once players have reached a new skill level, they unlock the effects described in the table below: &lt;table-progress-tracking table-id="1" unique-column-index="1"&gt;
 
-| Level | Skill points needed | Points to next level | Effects | Flavor Text |
-| --- | --- | --- | --- | --- |
-| 1 | 0 | 10 | - Basic rifle skill | You're very new to firearms, and aren't yet comfortable with using the Rifle. You know how to load it and how to fire it, and you know what end to point at the target, and that's about it. |
-| 2 | 10 | 15 | - Critical hit chance increased by 10% / - 2 additional percent of condition per repair action | You have a little more shooting experience under your belt. You're more accurate and you know how to keep your Rifle in working order. |
-| 3 | 25 | 25 | - Accuracy range increased by 20% / - Critical Hit chance increased by 15% / - 3 additional percent of condition per repair action | You've become skilled with the Rifle. You're able to hit things further away, and you've developed a better feel for how your shots can be most effective. You know how to keep your Rifle in good condition. |
-| 4 | 50 | 50 | - Damage increased by 10% / - Accuracy range increased by 30% / - Critical Hit chance increased by 20% / - 4 additional percent of condition per repair action | You've developed a strong feeling for the Rifle. Your shots hit more often and you take down your targets more reliably. It is your constant companion. |
-| 5 | 100 | Max level | - Damage increased by 20% / - Accuracy range increased by 40% / - Critical hit chance increased by 30% / - 5 additional percent of condition per repair action / - Per-use condition [degradation](./Decay.md) reduced by 50% | When you aim down those sights the world melts away and there's only you, the Rifle, the bullet, and your target. The trigger is death. The trigger is life. |
+Level
+
+Skill points needed
+
+Points to next level
+
+Effects
+
+Flavor Text
+
+1
+
+0
+
+10
+
+- Basic rifle skill
+
+You're very new to firearms, and aren't yet comfortable with using the Rifle. You know how to load it and how to fire it, and you know what end to point at the target, and that's about it.
+
+2
+
+10
+
+15
+
+- Critical hit chance increased by 10%
+- 2 additional percent of condition per repair action
+
+You have a little more shooting experience under your belt. You're more accurate and you know how to keep your Rifle in working order.
+
+3
+
+25
+
+25
+
+- Accuracy range increased by 20%
+- Critical Hit chance increased by 15%
+- 3 additional percent of condition per repair action
+
+You've become skilled with the Rifle. You're able to hit things further away, and you've developed a better feel for how your shots can be most effective. You know how to keep your Rifle in good condition.
+
+4
+
+50
+
+50
+
+- Damage increased by 10%
+- Accuracy range increased by 30%
+- Critical Hit chance increased by 20%
+- 4 additional percent of condition per repair action
+
+You've developed a strong feeling for the Rifle. Your shots hit more often and you take down your targets more reliably. It is your constant companion.
+
+5
+
+100
+
+Max level
+
+- Damage increased by 20%
+- Accuracy range increased by 40%
+- Critical hit chance increased by 30%
+- 5 additional percent of condition per repair action
+- Per-use condition [degradation](./Decay.md) reduced by 50%
+
+When you aim down those sights the world melts away and there's only you, the Rifle, the bullet, and your target. The trigger is death. The trigger is life.
 
 &lt;/table-progress-tracking&gt;
 

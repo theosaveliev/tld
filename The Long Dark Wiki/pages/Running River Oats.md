@@ -45,21 +45,3 @@ _Running\_River\_Oats\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-Item
-
-Skills
-
-Materials
-
-[Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
-
-None
-
-- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 4 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md)
-
-[Porridge](./Porridge.md)
-
-None
-
-- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md)

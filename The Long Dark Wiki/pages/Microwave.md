@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Microwave](../assets/Microwave.jpg)
-
-_Microwave_
-
-![Toaster](../assets/Microwave_Toaster.jpg)
-
-_Toaster_
-
 **General**
 
 **Item Type:** Item

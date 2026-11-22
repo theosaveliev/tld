@@ -23,15 +23,3 @@ _Washed\_Out\_Trailers\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![Washed Out Trailers](../assets/SS-BI-WashedOut01.jpg)
-
-_Washed Out Trailers_
-
-![Washed Out Trailers](../assets/SS-BI-WashedOut02.jpg)
-
-_Washed Out Trailers_
-
-![Washed Out Trailers](../assets/SS-BI-WashedOut03.jpg)
-
-_Washed Out Trailers_

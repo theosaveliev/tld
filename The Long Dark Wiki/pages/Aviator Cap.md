@@ -39,13 +39,3 @@ _Aviator\_Cap\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-> “**A warm, durable hat favoured by pilots operating in the frozen North. Stylish, to a point.**”
-
-![Model icon](../assets/Aviator_Cap_Model_icon.png)
-
-_Model icon_
-
-![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png)
-
-_Model icon damaged_

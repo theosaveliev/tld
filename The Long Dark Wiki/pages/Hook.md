@@ -66,5 +66,3 @@ A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](.
 _Old model._
 
 ## Update history
-
-**Template:update history**

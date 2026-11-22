@@ -17,14 +17,6 @@
 
 250px\]\]
 
-![Box](../assets/Rifle_Ammunition_icon.png)
-
-_Box_
-
-![Cartridge](../assets/Rifle_Cartridge_icon.png)
-
-_Cartridge_
-
 **General**
 
 Item Type

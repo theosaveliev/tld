@@ -8,22 +8,6 @@
 
 250px\]\]
 
-![Single](../assets/LockerSingle.jpg)
-
-_Single_
-
-![Double](../assets/LockerDouble.jpg)
-
-_Double_
-
-![Triple](../assets/LockerTriple.jpg)
-
-_Triple_
-
-![Green](../assets/Five_Locker.jpg)
-
-_Green_
-
 **Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
 
 **Story item:** Yes

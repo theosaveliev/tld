@@ -21,19 +21,3 @@ _Vacant\_Depot\_Location.png_
 **General**
 
 **Type:** Industrial
-
-![The timetable outside](../assets/Vacant_Depot_Timetable.jpg)
-
-_The timetable outside_
-
-![](../assets/Vacant_Depot_Miner_Photos.jpg)
-
-_Vacant\_Depot\_Miner\_Photos.jpg_
-
-![](../assets/Vacant_Depot_Langston_Mine_Photo.jpg)
-
-_Vacant\_Depot\_Langston\_Mine\_Photo.jpg_
-
-![](../assets/Vacant_Depot_Aurora.jpg)
-
-_Vacant\_Depot\_Aurora.jpg_

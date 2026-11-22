@@ -59,11 +59,12 @@ _Molly.png_
 >
 > — In-game description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **"There's different ways to hurt someone. Some ways heals. Other ways never do."**
+> **"There's different ways to hurt someone. Some ways heals. Other ways never do."**
+>
+>
+> — Molly speaking to [Astrid](./Astrid%20Greenwood.md) about her past
 
-Molly speaking to [Astrid](./Astrid%20Greenwood.md) about her past
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Molly** is the first non-player character encountered in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). She lives in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
+**Molly** is the first non-player character encountered in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). She lives in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
 
 ## Overview
 

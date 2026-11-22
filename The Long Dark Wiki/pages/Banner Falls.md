@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg)
-
-_Banner falls (Left) Watchfull Falls (right)_
-
 **Location**
 
 ![](../assets/Banner_Falls_Location.png)

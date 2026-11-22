@@ -44,11 +44,10 @@ Headaches have no long-term effects on the player, only serving as a simple visu
 >
 > — Go! Energy Drink description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Head-ache from taking Caffeine Pills.**
-
-Caffeine Pills description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
+> **Head-ache from taking Caffeine Pills.**
+>
+>
+> — Caffeine Pills description
 
 Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pills](./Caffeine%20Pills.md) will produce a Headache. When either are consumed, the edges of the player's screen will distort and blur, producing a chromatic aberration effect.
 

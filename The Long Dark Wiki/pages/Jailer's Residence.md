@@ -19,11 +19,3 @@ Region
 **General**
 
 **Type:** Outdoors
-
-> “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**”
->
-> — [Load Screen](./Load%20Screen.md) Description
-
-![](../assets/Jailer%27s_Residence_-_back.jpg)
-
-_Jailer's\_Residence\_-\_back.jpg_

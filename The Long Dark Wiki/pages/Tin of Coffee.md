@@ -80,7 +80,7 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game.
 
-==Trivia==
+## Trivia
 
 - The tin is branded as _Big Moose Kicks Coffee_.
 - The back of the tin lists "Ingredients: Coffee Beans" and "Product of Canada."

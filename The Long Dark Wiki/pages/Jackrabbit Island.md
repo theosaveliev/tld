@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Jackrabbit_Island.jpg)
-
-_Jackrabbit\_Island.jpg_
-
 **Location**
 
 ![](../assets/Jackrabbit_Island_map.png)
@@ -29,15 +25,3 @@ Location
 **General**
 
 Type
-
-![The house on Jackrabbit Island.](../assets/Jackrabbit_Island_-_house.jpg)
-
-_The house on Jackrabbit Island._
-
-![Second body behind the island](../assets/20190103142340_1.jpg)
-
-_Second body behind the island_
-
-![A view of the Jackrabbit Island house at night](../assets/Screen_ea2fc988-8b21-4ed1-860a-019d854bfdec_hi.jpg)
-
-_A view of the Jackrabbit Island house at night_

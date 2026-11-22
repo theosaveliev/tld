@@ -17,7 +17,3 @@ _Freighthopper's\_Rockfall\_Location.png_
 **Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
 **General**
-
-![Closeup of the inside area](../assets/Freighthopper%27s_Rockfall.jpg)
-
-_Closeup of the inside area_

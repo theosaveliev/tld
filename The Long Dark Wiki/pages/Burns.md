@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Fire](../assets/Burns_icon.png)
-
-_Fire_
-
-![Electrical](../assets/Burns_%28electric%29_icon.png)
-
-_Electrical_
-
 **Properties**
 
 **Caused By:** Fires Electrical Wires
@@ -28,7 +20,7 @@ _Electrical_
 
 **Treatment**
 
-**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x **Template:pic link**
+**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
 
 **Alternate Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 

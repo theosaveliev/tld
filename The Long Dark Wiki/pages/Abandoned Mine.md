@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Entrance](../assets/Abandoned_Mine.jpg)
-
-_Entrance_
-
-![Exit](../assets/Abandoned_Mine_2.jpg)
-
-_Exit_
-
 **Location**
 
 ![](../assets/Abandoned_Mine_Location.png)
@@ -35,11 +27,3 @@ Type
 Cave
 
 Firebox
-
-![The hidden cache](../assets/Abandoned_Mine_Hidden_Cache.jpg)
-
-_The hidden cache_
-
-![The inside of the entrance](../assets/Abandoned_Mine_Inside.jpg)
-
-_The inside of the entrance_

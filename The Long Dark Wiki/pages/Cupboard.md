@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Kitchen](../assets/Kitchen_Cupboard.jpg)
-
-_Kitchen_
-
-![Fishing Hut](../assets/Fishing_Hut_Cupboard.jpg)
-
-_Fishing Hut_
-
 **General**
 
 **Item Type:** Item

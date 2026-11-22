@@ -17,7 +17,7 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|}![](../assets/Glimmer_Fog_Icon.png){\| style="margin:auto"
+![](../assets/Glimmer_Fog_Icon.png)
 
 “
 

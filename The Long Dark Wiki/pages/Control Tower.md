@@ -27,11 +27,3 @@ Firebox
 ![](../assets/Bed_icon.png)
 
 _bed\_icon.png_
-
-![The control tower enlighted by aurora](../assets/Control_tower_panel_1_%281%29.png)
-
-_The control tower enlighted by aurora_
-
-![The panel enlighted by aurora](../assets/Control_tower_panel_1_%282%29.png)
-
-_The panel enlighted by aurora_

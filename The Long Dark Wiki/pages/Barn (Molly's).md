@@ -27,15 +27,3 @@ _Barn\_(Molly's)\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![The farmhouse and the Heartbreak bridge behind the Barn](../assets/Molly%27s_Barn.jpg)
-
-_The farmhouse and the Heartbreak bridge behind the Barn_
-
-![The Signal hill radio tower behind the Barn](../assets/Molly%27s_Barn_2.jpg)
-
-_The Signal hill radio tower behind the Barn_
-
-![interior](../assets/SS-PV-BarnMolly.jpg)
-
-_interior_

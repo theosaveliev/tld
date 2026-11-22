@@ -23,11 +23,13 @@ Episode
 
 **Region:** [Blackrock Mountain](./Blackrock%20Mountain.md)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.**
+**Template:spoiler**
+> **Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.**
+>
+>
+> — In-game description
 
-In-game description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Blackrock Locker Keys** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md).
+**Blackrock Locker Keys** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md).
 
 ## Overview
 

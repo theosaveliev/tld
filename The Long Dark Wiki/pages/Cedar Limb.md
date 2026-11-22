@@ -8,14 +8,6 @@
 
 250px\]\]
 
-![Small](../assets/CedarLimb.jpg)
-
-_Small_
-
-![Large](../assets/CedarLimbLarge.jpg)
-
-_Large_
-
 **General**
 
 **Item Type:** Item

@@ -1068,7 +1068,7 @@ _Jeremiah's Trust info_
 
 _Ditto_
 
-### 3rd Person Cutscenes
+### 3Rd Person Cutscenes
 
 With the original Predux release of Episode 1 and 2, Mackenzie would appear in 3rd person in each cutscene. He would always wear his default clothing, regardless of what was chosen to be worn by the player, and was far more expressive and interactive when meeting with other characters.
 

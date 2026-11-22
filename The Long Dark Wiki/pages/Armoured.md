@@ -38,12 +38,35 @@ Armoured is received when wearing the following item:
 
 ## Effects
 
-|  | Effect | Magnitude |
-| --- | --- | --- |
-|  | Reduces [Condition](./Condition.md) lost from [Wildlife](./Wildlife.md) | 50% |
-|  | Reduces [damage caused to clothing](./Torn%20Clothing.md) during a [Struggle](./Struggle.md) | 85% |
-|  | Reduces recovery time from [Broken Ribs](./Broken%20Ribs.md) | 30% |
-|  | Prevents [Blood Loss](./Blood%20Loss.md) to certain body areas | - Chest / - Stomach / - Neck |
+Effect
+
+Magnitude
+
+
+
+Reduces [Condition](./Condition.md) lost from [Wildlife](./Wildlife.md)
+
+50%
+
+
+
+Reduces [damage caused to clothing](./Torn%20Clothing.md) during a [Struggle](./Struggle.md)
+
+85%
+
+
+
+Reduces recovery time from [Broken Ribs](./Broken%20Ribs.md)
+
+30%
+
+
+
+Prevents [Blood Loss](./Blood%20Loss.md) to certain body areas
+
+- Chest
+- Stomach
+- Neck
 
 ## Update history
 

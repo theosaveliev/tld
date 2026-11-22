@@ -23,11 +23,3 @@ Region
 **General**
 
 **Type:** Residential
-
-![Graveyard in front of St. Christopher's Church](../assets/Graveyard.png)
-
-_Graveyard in front of St. Christopher's Church_
-
-![From Milton to the Church through the Wood Lot](../assets/St._Christopher%27s_Church_2.png)
-
-_From Milton to the Church through the Wood Lot_

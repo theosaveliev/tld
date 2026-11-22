@@ -26,18 +26,6 @@ _bed\_icon.png_
 
 _workbench\_icon\_green.png_
 
-![The machine room when unpowered](../assets/The_Machine_unpowered.jpg)
-
-_The machine room when unpowered_
-
-![The survivor almost touching the device](../assets/The_Machine_survivor.jpg)
-
-_The survivor almost touching the device_
-
-![The Security Chief's Remains in the control room.](../assets/The_Security_Chief.jpg)
-
-_The Security Chief's Remains in the control room._
-
 ## Notes
 
 ---

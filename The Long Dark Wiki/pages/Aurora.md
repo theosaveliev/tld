@@ -18,21 +18,23 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![Story mode concept art of aurora affecting the electronics in street lights and vehicles.](../assets/Aurora_-_art.jpg)_Story mode concept art of aurora affecting the electronics in street lights and vehicles._{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Mackenzie: "So...this is some kind of reoccurring aurora borealis?"**
+![Story mode concept art of aurora affecting the electronics in street lights and vehicles.](../assets/Aurora_-_art.jpg)_Story mode concept art of aurora affecting the electronics in street lights and vehicles._
+> **Mackenzie: "So...this is some kind of reoccurring aurora borealis?"**
+>
+> Methuselah: "Possibly."
+>
+> Mackenzie: "And it's...affecting the electricity? The power?"
+>
+> Methuselah: "And everything dependent on it. Animating it. Or destroying it. Perhaps both."
+>
+> Mackenzie: "And, you...knew this was coming?"
+>
+> Methuselah: "No. But it was only a mater of time. This has all happened before."
+>
+>
+> — [Methuselah](./Methuselah.md) explaining the Aurora to [Mackenzie](./Will%20Mackenzie.md)
 
-Methuselah: "Possibly."
-
-Mackenzie: "And it's...affecting the electricity? The power?"
-
-Methuselah: "And everything dependent on it. Animating it. Or destroying it. Perhaps both."
-
-Mackenzie: "And, you...knew this was coming?"
-
-Methuselah: "No. But it was only a mater of time. This has all happened before."
-
-[Methuselah](./Methuselah.md) explaining the Aurora to [Mackenzie](./Will%20Mackenzie.md)
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The **Aurora** is a type of weather in _[The Long Dark](./The%20Long%20Dark.md)_. They are a reoccurring phenomenon that is the result of a [geo-magnetic storm](./First%20Flare.md) which ended civilization on Earth. Auroras create bright, colorful lights in the night sky, make predators more dangerous, and temporarily power electronics like the [Flashlight](./Flashlight.md).
+The **Aurora** is a type of weather in _[The Long Dark](./The%20Long%20Dark.md)_. They are a reoccurring phenomenon that is the result of a [geo-magnetic storm](./First%20Flare.md) which ended civilization on Earth. Auroras create bright, colorful lights in the night sky, make predators more dangerous, and temporarily power electronics like the [Flashlight](./Flashlight.md).
 
 ## Overview
 

@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Fishing_Camp_-_fishing_cabins.jpg)
-
-_Fishing\_Camp\_-\_fishing\_cabins.jpg_
-
 **Location**
 
 ![](../assets/Fishing_Camp_map.png)

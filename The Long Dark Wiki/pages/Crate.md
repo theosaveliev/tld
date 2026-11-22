@@ -16,26 +16,6 @@
 
 250px\]\]
 
-![Large](../assets/Crate_%28large%29.jpg)
-
-_Large_
-
-![Medium](../assets/Crate_%28medium%29.jpg)
-
-_Medium_
-
-![Small](../assets/CrateSmall.jpg)
-
-_Small_
-
-![Wooden](../assets/Wooden_crate_%28small%29.jpg)
-
-_Wooden_
-
-![Coal](../assets/Wood_crate_%28small%29.jpg)
-
-_Coal_
-
 **General**
 
 **Item Type:** Item

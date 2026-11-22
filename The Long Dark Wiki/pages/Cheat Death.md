@@ -20,7 +20,8 @@
 - [Achievements](#achievements-1)
 - [Game History](#game-history)
 
-![](../assets/Cheat_Death.jpg){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You can cheat death, but you can’t cheat death for free.** | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
+![](../assets/Cheat_Death.jpg)
+> **You can cheat death, but you can’t cheat death for free.**
 
 **Cheat Death** is a mechanic in [Survival Mode](./Survival%20Mode.md) of _[The Long Dark](./The%20Long%20Dark.md)_, allowing the player to escape a previously lethal situation at the cost of increased difficulty. Cheat Death was added for free in the Part 5 update of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).[¹](#fn1)
 
@@ -374,7 +375,7 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
 
-==References==
+## References
 
 ## Notes
 

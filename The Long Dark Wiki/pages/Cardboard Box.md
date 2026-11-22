@@ -15,18 +15,6 @@
 
 250px\]\]
 
-![Intact](../assets/Cardboard_boxes.jpg)
-
-_Intact_
-
-![Unfolded](../assets/CardboardBoxUnfolded.jpg)
-
-_Unfolded_
-
-![Torn](../assets/CardboardBoxTorn.jpg)
-
-_Torn_
-
 **General**
 
 **Item Type:** Item

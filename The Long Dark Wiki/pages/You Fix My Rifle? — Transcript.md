@@ -108,12 +108,14 @@ Mackenzie: "Battery's probably dead. Still...might come in handy at night."
 
 _He puts it in his back pocket and the cutscene ends. A tutorial message pops up_
 
-Flashlight{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __They Hate the Light  
- As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.__
+Flashlight
+> __They Hate the Light
+> As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.__
+>
+>
+> — What I Know description
 
-What I Know description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_A phone begins ringing upstairs. If the player heads back downstairs and check the table at the end of the basement, Mackenzie will find the [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md)_
+_A phone begins ringing upstairs. If the player heads back downstairs and check the table at the end of the basement, Mackenzie will find the [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md)_
 
 Mackenzie: "Well well...what do we have here?"
 
@@ -125,12 +127,14 @@ Mackenzie: "Not much for guns, but...after what I've been through lately - - bet
 
 _The cutscene ends and a tutorial message pops up once the player leaves the Lodge_
 
-Rifle{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Use Guns Wisely  
- Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.__
+Rifle
+> __Use Guns Wisely
+> Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.__
+>
+>
+> — What I Know description
 
-What I Know description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge._
+_Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge._
 
 ## Get back to Jeremiah.
 

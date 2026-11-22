@@ -11,7 +11,3 @@ _Grate.jpg_
 **General**
 
 **Item Type:** Item
-
-![A revolver with ammunition hidden behind a grate](../assets/Grate_Revolver.jpg)
-
-_A revolver with ammunition hidden behind a grate_

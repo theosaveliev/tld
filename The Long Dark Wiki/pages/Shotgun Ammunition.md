@@ -14,33 +14,3 @@
 _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
 
 **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
-
-\[\[File: / ![Ammunition](../assets/Shotgun_Ammunition_icon.png) / _Ammunition_ / ![Slug](../assets/Shotgun_Slug_icon.png) / _Slug_
-
-250px\]\]
-
-![Ammunition](../assets/Shotgun_Ammunition_icon.png)
-
-_Ammunition_
-
-![Slug](../assets/Shotgun_Slug_icon.png)
-
-_Slug_
-
-**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Properties**
-
-Item type
-
-[Tools](./Tools.md)
-
-Equipable
-
-**Stackable:** Yes
-
-**Examine:** A box of Shotgun slugs. / A single shotgun slug shell.
-
-**Values**
-
-**Weight:** 0.02 kg (0.04 lbs)

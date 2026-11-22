@@ -30,39 +30,3 @@ _Bear\_Hide\_Bed\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-
-
-1440 minutes (24 hour 0 minutes)
-
-**Requirements**
-
-**Facility:** 
-
-**Tool:** 
-
-**Materials**
-
-
-
-**Item:** [Fir Firewood](./Fir%20Firewood.md)
-
-**Quantity:** 18
-
-
-
-[Cured Gut](./Cured%20Gut.md)
-
-4
-
-
-
-[Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
-
-1
-
-
-
-[Ptarmigan Down](./Ptarmigan%20Down.md)
-
-16

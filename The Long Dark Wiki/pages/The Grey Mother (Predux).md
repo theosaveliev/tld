@@ -32,11 +32,13 @@ _The\_Grey\_Mother\_(Predux).jpg_
 
 **Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.**
+**Template:spoiler**
+> **The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.**
+>
+>
+> — In-game description
 
-In-game description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**The Grey Mother (Predux)** was the third mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
+**The Grey Mother (Predux)** was the third mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by current the version of [The Grey Mother](./The%20Grey%20Mother.md).
 

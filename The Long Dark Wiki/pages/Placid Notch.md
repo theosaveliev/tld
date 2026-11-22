@@ -27,11 +27,3 @@ _Placid\_Notch\_Location.png_
 _bed\_icon.png_
 
 Has a bed
-
-![An avalanche warning sign in the cabin](../assets/Avalanche_Warning_Sign.png)
-
-_An avalanche warning sign in the cabin_
-
-![Inside the cabin](../assets/Cabin_B_interior.jpg)
-
-_Inside the cabin_

@@ -15,18 +15,6 @@
 
 250px\]\]
 
-![Radio](../assets/Radio.jpg)
-
-_Radio_
-
-![Vehicle](../assets/Radio_Vehicle.jpg)
-
-_Vehicle_
-
-![Trader](../assets/Trader%27s_Radio.jpg)
-
-_Trader_
-
 **Story item:** Yes
 
 A **Radio** is an interactable electronic device that can be found in many locations across the Island.

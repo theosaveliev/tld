@@ -8,10 +8,6 @@
 
 250px\]\]
 
-![](../assets/Bear_Creek_Campground_01.jpg)
-
-_Bear\_Creek\_Campground\_01.jpg_
-
 **Location**
 
 ![](../assets/Bear_Creek_Campground_map.png)

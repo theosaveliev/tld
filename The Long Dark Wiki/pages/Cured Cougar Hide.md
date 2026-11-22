@@ -33,19 +33,3 @@ _Cured\_Cougar\_Hide\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-Item
-
-Skills
-
-Materials
-
-[Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md)
-
-None
-
-- 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md)
-
-![Old Icon](../assets/Old_Cured_Cougar_Hide_icon.png)
-
-_Old Icon_

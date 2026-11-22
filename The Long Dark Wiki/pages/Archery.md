@@ -134,12 +134,76 @@ Archery Skill is increased by scoring hits on live wildlife with the Survival Bo
 
 Once players have reached a new skill level, they unlock the effects described in the table below. &lt;table-progress-tracking table-id="1" unique-column-index="1"&gt;
 
-| Level | Skill points needed | Points to next level | Effects | Flavor text |
-| --- | --- | --- | --- | --- |
-| 1 | 0 | 15 | - Basic archery skill | You are new to archery and have no special skills or knowledge. Although you can successfully fire an arrow from the bow, it feels awkward in your untrained hands. |
-| 2 | 15 | 25 | - Bow sway reduced by 25% / - Arrow damage increased by 10% | As your use of the bow increases it feels less awkward in your hands. Your aim is a little more steady and your shots deal more damage. |
-| 3 | 40 | 35 | - Bow sway reduced by 50% / - Arrow damage increased by 10% / - Critical Hit chance increased by 15% | You're turning into a decent archer. Your aim is increasingly more precise and with this you have a greater chance of inflicting critical damage. |
-| 4 | 75 | 50 | - Bow sway reduced by 75% / - Arrow damage increased by 10% / - Critical Hit chance increased by 25% / - Bleed Out time reduced by 25% / - Per-use condition loss reduced by 50% | You have become a skilled archer. You have a steady, accurate aim and a powerful shot. Your improved efficiency helps keep your bow in good condition for longer. |
-| 5 | 125 | Max level | - Can fire Survival Bow when crouched / - Bow sway reduced by 75% / - Arrow damage increased by 25% / - Critical Hit chance increased by 50% / - Bleed Out time reduced by 50% / - Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
+Level
+
+Skill points needed
+
+Points to next level
+
+Effects
+
+Flavor text
+
+1
+
+0
+
+15
+
+- Basic archery skill
+
+You are new to archery and have no special skills or knowledge. Although you can successfully fire an arrow from the bow, it feels awkward in your untrained hands.
+
+2
+
+15
+
+25
+
+- Bow sway reduced by 25%
+- Arrow damage increased by 10%
+
+As your use of the bow increases it feels less awkward in your hands. Your aim is a little more steady and your shots deal more damage.
+
+3
+
+40
+
+35
+
+- Bow sway reduced by 50%
+- Arrow damage increased by 10%
+- Critical Hit chance increased by 15%
+
+You're turning into a decent archer. Your aim is increasingly more precise and with this you have a greater chance of inflicting critical damage.
+
+4
+
+75
+
+50
+
+- Bow sway reduced by 75%
+- Arrow damage increased by 10%
+- Critical Hit chance increased by 25%
+- Bleed Out time reduced by 25%
+- Per-use condition loss reduced by 50%
+
+You have become a skilled archer. You have a steady, accurate aim and a powerful shot. Your improved efficiency helps keep your bow in good condition for longer.
+
+5
+
+125
+
+Max level
+
+- Can fire Survival Bow when crouched
+- Bow sway reduced by 75%
+- Arrow damage increased by 25%
+- Critical Hit chance increased by 50%
+- Bleed Out time reduced by 50%
+- Per-use condition loss reduced by 50%
+
+You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter.
 
 &lt;/table-progress-tracking&gt;

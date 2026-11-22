@@ -3319,6 +3319,30 @@ def _table_is_single_column(rows: list[list[lhtml.HtmlElement]]) -> bool:
     return all(len(row) == 1 for row in rows)
 
 
+def _table_has_parallel_list_columns(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether multiple headerless columns consist entirely of lists."""
+    nonempty_cells = [
+        cell for row in rows for cell in row if cell.text_content().strip()
+    ]
+    has_parallel_lists = any(
+        sum(_cell_contains_only_lists(cell) for cell in row) > 1 for row in rows
+    )
+    return has_parallel_lists and all(
+        _cell_contains_only_lists(cell) for cell in nonempty_cells
+    )
+
+
+def _cell_contains_only_lists(cell: lhtml.HtmlElement) -> bool:
+    """Return whether a non-empty table cell contains only list blocks."""
+    children = [child for child in cell if isinstance(child.tag, str)]
+    return (
+        bool(children)
+        and not (cell.text or "").strip()
+        and all(_html_tag(child) in {"ul", "ol"} for child in children)
+        and all(not (child.tail or "").strip() for child in cell)
+    )
+
+
 def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Render list-bearing table cells as standalone Markdown blocks."""
     blocks = [
@@ -3643,7 +3667,7 @@ def _render_special_html_table(
     elif "infobox" in table_classes:
         rendered = _render_infobox_table(rows)
     elif _table_has_list_content(rows):
-        if _table_is_single_column(rows):
+        if _table_is_single_column(rows) or _table_has_parallel_list_columns(rows):
             rendered = _render_list_content_table(rows)
         else:
             rendered = _render_generic_table(

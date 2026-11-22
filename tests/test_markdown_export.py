@@ -20,8 +20,8 @@ from pipeline.markdown_export import (
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
-    _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _markdown_image,  # pyright: ignore[reportPrivateUsage]
+    _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
@@ -843,8 +843,7 @@ def test_image_table_removes_raw_file_wrapper_and_repeated_alt_captions() -> Non
 
 def test_markdown_images_get_readable_alt_text_from_filename() -> None:
     image = lhtml.fragment_fromstring(
-        '<img src="../assets/Energy_Boost_icon.png" '
-        'alt="Energy_Boost_icon.png" />'
+        '<img src="../assets/Energy_Boost_icon.png" alt="Energy_Boost_icon.png" />'
     )
     empty_alt_image = lhtml.fragment_fromstring(
         '<img src="../assets/Blood_Loss_icon.png" alt="" />'

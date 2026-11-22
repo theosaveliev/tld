@@ -2101,11 +2101,7 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         values = [
             (cell, value)
             for cell in cells
-            if (
-                value := _markdown_table_cell(
-                    cell, use_html_line_breaks=True
-                ).strip()
-            )
+            if (value := _markdown_table_cell(cell, use_html_line_breaks=True).strip())
         ]
         if not values:
             continue
@@ -2296,9 +2292,7 @@ def _consume_recipe_skill_row(
 
 
 def _update_recipe_infobox_heading(
-    data: RecipeInfoboxData,
-    cells: list[lhtml.HtmlElement],
-    plain_values: list[str],
+    data: RecipeInfoboxData, cells: list[lhtml.HtmlElement], plain_values: list[str]
 ) -> bool:
     """Update the active section when a row contains a section heading."""
     recipe_heading = _recipe_section_heading(cells, plain_values)
@@ -2319,9 +2313,7 @@ def _update_recipe_infobox_heading(
 
 
 def _update_recipe_infobox_material_section(
-    data: RecipeInfoboxData,
-    cells: list[lhtml.HtmlElement],
-    plain_values: list[str],
+    data: RecipeInfoboxData, cells: list[lhtml.HtmlElement], plain_values: list[str]
 ) -> bool:
     """Recognize Item and Quantity labels that begin or continue Materials."""
     row_label = plain_values[0].rstrip(":").casefold() if plain_values else ""
@@ -2337,9 +2329,7 @@ def _update_recipe_infobox_material_section(
 
 
 def _update_recipe_infobox_section(
-    data: RecipeInfoboxData,
-    cells: list[lhtml.HtmlElement],
-    plain_values: list[str],
+    data: RecipeInfoboxData, cells: list[lhtml.HtmlElement], plain_values: list[str]
 ) -> bool:
     """Update recipe section state and report whether the row was a heading."""
     if _update_recipe_infobox_heading(data, cells, plain_values):

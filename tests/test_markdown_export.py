@@ -5,6 +5,7 @@ import re
 from typing import TYPE_CHECKING
 
 import pytest
+from lxml import etree
 from lxml import html as lhtml
 
 from pipeline import markdown_export as markdown_export_module
@@ -15,6 +16,9 @@ from pipeline.markdown_export import (
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
+    _contains_html_markup,  # pyright: ignore[reportPrivateUsage]
+    _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
+    _lookup_title_filename,  # pyright: ignore[reportPrivateUsage]
     _copy_image,  # pyright: ignore[reportPrivateUsage]
     _expand_page,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
@@ -1655,10 +1659,10 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
 def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
     assert not markdown_export_module.HTML_TAG_RE.search("<https://example.com>")
     assert markdown_export_module.HTML_TAG_RE.search("<mw:widget>visible</mw:widget>")
-    assert not markdown_export_module._contains_html_markup(
+    assert not _contains_html_markup(
         '<span id="version-1-00"></span>'
     )
-    assert markdown_export_module._contains_html_markup("<span>visible</span>")
+    assert _contains_html_markup("<span>visible</span>")
 
 
 def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
@@ -1683,9 +1687,9 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
         create_parent="div",
     )
 
-    markdown_export_module._add_mediawiki_heading_ids(root)
+    _add_mediawiki_heading_ids(root)
     markdown = _html_fragment_to_markdown(
-        markdown_export_module.etree.tostring(root, encoding="unicode", method="html")
+        etree.tostring(root, encoding="unicode", method="html")
     )
 
     assert '<span id="0.233"></span>' in markdown
@@ -1721,6 +1725,8 @@ def test_page_markdown_cleans_escaped_bear_update_tags() -> None:
     assert "&#x20;" not in markdown
     assert r"\[General\]" not in markdown
     assert r"\*" not in markdown
+    assert "  [General]" not in markdown
+    assert "[General]  Bear" not in markdown
 
 
 def test_missing_title_aliases_resolve_to_existing_page_filenames() -> None:
@@ -1732,16 +1738,16 @@ def test_missing_title_aliases_resolve_to_existing_page_filenames() -> None:
     }
 
     assert (
-        markdown_export_module._lookup_title_filename("Fukattsu Maru", mapping)
+        _lookup_title_filename("Fukattsu Maru", mapping)
         == "Fukkatsu Maru.md"
     )
-    assert markdown_export_module._lookup_title_filename("Maps", mapping) == "Map.md"
+    assert _lookup_title_filename("Maps", mapping) == "Map.md"
     assert (
-        markdown_export_module._lookup_title_filename("Port Renmant", mapping)
+        _lookup_title_filename("Port Renmant", mapping)
         == "Port Remnant.md"
     )
     assert (
-        markdown_export_module._lookup_title_filename("Salt Depost", mapping)
+        _lookup_title_filename("Salt Depost", mapping)
         == "Salt Deposit.md"
     )
 

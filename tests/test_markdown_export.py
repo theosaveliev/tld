@@ -994,6 +994,29 @@ def test_page_markdown_separates_adjacent_bold_spans() -> None:
     assert "**Spoiler Warning:****This page" not in markdown
 
 
+def test_page_markdown_uppercases_first_letter_of_all_headings() -> None:
+    body = """## trivia
+### gameplay
+#### **notes and tips**
+## [survival guide](./survival.md)
+### _wildlife_ and plants
+## überleben
+```markdown
+## leave this code example unchanged
+```
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "## Trivia" in markdown
+    assert "### Gameplay" in markdown
+    assert "#### **Notes and tips**" in markdown
+    assert "## [Survival guide](./survival.md)" in markdown
+    assert "### _Wildlife_ and plants" in markdown
+    assert "## Überleben" in markdown
+    assert "## leave this code example unchanged" in markdown
+
+
 def test_page_markdown_normalizes_strong_underscores() -> None:
     markdown = _page_markdown("Sample", [], "__Bold text__", None)
 

@@ -1548,13 +1548,6 @@ FOOTNOTE_REFERENCE_ID_RE = re.compile(
 )
 
 
-def _markdown_anchor_span_ids(line: str) -> list[str]:
-    """Return IDs when a line contains only generated empty anchor spans."""
-    matches = list(MARKDOWN_ANCHOR_SPAN_RE.finditer(line))
-    if not matches or MARKDOWN_ANCHOR_SPAN_RE.sub("", line).strip():
-        return []
-    return [html.unescape(match.group("identifier")) for match in matches]
-
 
 def _strip_trailing_empty_markdown_sections(value: str) -> str:
     """Remove empty trailing headings, their aliases, and language footer links."""

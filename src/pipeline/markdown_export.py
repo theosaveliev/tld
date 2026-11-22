@@ -1648,8 +1648,8 @@ def _strip_leaked_html_markup(value: str) -> str:
 
 
 def _rewrite_heading_anchor_spans(value: str) -> str:
-    """Remove legacy empty span anchors instead of replacing them with HTML comments."""
-    return MARKDOWN_ANCHOR_SPAN_RE.sub("", value)
+    """Remove legacy empty span anchors while separating adjacent words."""
+    return MARKDOWN_ANCHOR_SPAN_RE.sub(" ", value)
 
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""

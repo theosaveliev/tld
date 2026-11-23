@@ -1647,10 +1647,12 @@ def test_expand_page_preserves_generated_infobox_html_table() -> None:
     ) -> str:
         _ = (text, context, infobox_defs, page_title, stats)
         return (
-            '\n<table class="infobox">\n'
+            "Intro text\n"
+            '<table class="infobox">\n'
             "<tr><th>Region</th><td>Forlorn Muskeg</td></tr>\n"
             "<tr><th>Type</th><td>Outdoors</td></tr>\n"
             "</table>\n"
+            "Body text after."
         )
 
     stats: RenderStats = {
@@ -1672,7 +1674,9 @@ def test_expand_page_preserves_generated_infobox_html_table() -> None:
     assert error == ""
     assert expansion_errors == 0
     assert deferred == {}
+    assert "Intro text" in expanded
     assert '<table class="infobox">' in expanded
+    assert "Body text after." in expanded
     assert "<th>Region</th>" in expanded
     assert "<td>Forlorn Muskeg</td>" in expanded
     assert "<th>Type</th>" in expanded

@@ -100,7 +100,7 @@ WIKITEXT_NBSP_CELL_RE = re.compile(
     r"(?im)^(?P<marker>[|!])[ \t]+&nbsp;[ \t]*(?P<line_ending>\r?)$"
 )
 LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
-    r"(?:\\)?\[(?:\\)?\[File:\s*(?:/\s*)?", re.IGNORECASE
+    r"(?:\\)?\[(?:\\)?\[(?:File|Image):\s*(?:/\s*)?", re.IGNORECASE
 )
 LEAKED_FILE_WRAPPER_SUFFIX_RE = re.compile(
     r"\s*(?:/\s*)?(?:\d+\s*px)?(?:\\)?\](?:\\)?\]\s*$", re.IGNORECASE
@@ -120,7 +120,7 @@ LEAKED_FILE_WRAPPER_WIDTH_SUFFIX_RE = re.compile(
     r"\s*\d+\s*px(?:\\?\]){2}", re.IGNORECASE
 )
 GENERATED_INFOBOX_TABLE_RE = re.compile(
-    r"(?ms)^\{\|\r?\n\|\+\s*XSENT:infobox:[^\r\n]*\r?\n.*?^\|\}\s*$"
+    r"(?ms)(?:^|\r?\n)\{\|\r?\n\|\+\s*XSENT:infobox:[^\r\n]*\r?\n.*?^\|\}\s*$"
 )
 GENERATED_INFOBOX_LINE_BREAK_TOKEN = "TLDGENERATEDINFOBOXLINBREAK"
 

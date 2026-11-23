@@ -5218,6 +5218,14 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
     output: list[str] = []
     cambium_occurrences: dict[str, int] = {}
     github_occurrences: dict[str, int] = {}
+    existing_ids = {
+        match.group("identifier").casefold()
+        for match in re.finditer(
+            r'<a\\s+id=["\\'](?P<identifier>[^"\\']+)["\\']\\s*>\\s*</a>',
+            markdown,
+            re.IGNORECASE,
+        )
+    }
     fence: tuple[str, int] | None = None
 
     for line in markdown.splitlines(keepends=True):
@@ -5243,7 +5251,8 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
                         if github_occurrence
                         else github_base
                     )
-                    if cambium_id != github_id:
+                    if cambium_id != github_id and cambium_id.casefold() not in existing_ids:
+                        existing_ids.add(cambium_id.casefold())
                         output.append(
                             f'<a id="{html.escape(cambium_id, quote=True)}"></a>\n'
                         )

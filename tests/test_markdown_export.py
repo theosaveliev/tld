@@ -1647,10 +1647,10 @@ def test_expand_page_preserves_generated_infobox_html_table() -> None:
     ) -> str:
         _ = (text, context, infobox_defs, page_title, stats)
         return (
-            '\\n<table class="infobox">\\n'
-            "<tr><th>Region</th><td>Forlorn Muskeg</td></tr>\\n"
-            "<tr><th>Type</th><td>Outdoors</td></tr>\\n"
-            "</table>\\n"
+            '\n<table class="infobox">\n'
+            "<tr><th>Region</th><td>Forlorn Muskeg</td></tr>\n"
+            "<tr><th>Type</th><td>Outdoors</td></tr>\n"
+            "</table>\n"
         )
 
     stats: RenderStats = {
@@ -1701,7 +1701,7 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
         "Sample",
     )
 
-    assert rendered.startswith('\\n<table class="infobox">')
+    assert rendered.startswith('\n<table class="infobox">')
     assert "<caption>Sample</caption>" in rendered
     assert "[[File:Sample.png|250px]]" in rendered
     assert '<th colspan="2" class="section">' in rendered

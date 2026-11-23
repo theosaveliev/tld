@@ -57,7 +57,11 @@ to templates missing from the dump remain visible with their parameter values.
 
 The export checks that the mapping and XML dump contain the same set of
 main-namespace article titles. The conversion report records expansion or
-conversion errors, unresolved links, and missing local images. Every Markdown
+conversion errors, unresolved links, and missing local images. Its category counts
+come from runtime category extraction during export. The separate category and
+template-category reports are static analyses: template-derived memberships are
+potential categories, and their uncategorized lists are not the final runtime
+category assignment. Every Markdown
 file under `pages/` is also scanned for unrendered HTML tags, comments,
 declarations, and leaked MediaWiki file or table markup. The export writes
 `markup-audit.json` and fails when any unrendered markup remains. Literal code

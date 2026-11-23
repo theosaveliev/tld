@@ -5223,7 +5223,7 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
     for line in markdown.splitlines(keepends=True):
         fence, is_fence_line = _advance_markdown_fence(line, fence)
         if not is_fence_line and fence is None:
-            heading = CAMBIUM_HEADING_RE.fullmatch(line.rstrip("\\r\\n"))
+            heading = CAMBIUM_HEADING_RE.fullmatch(line.rstrip("\r\n"))
             if heading is not None:
                 label = _plain_markdown_heading_text(heading.group("label"))
                 cambium_base = slugify(label, regex_pattern=r"[^-_a-z0-9]+")
@@ -5245,7 +5245,7 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
                     )
                     if cambium_id != github_id:
                         output.append(
-                            f'<a id="{html.escape(cambium_id, quote=True)}"></a>\\n'
+                            f'<a id="{html.escape(cambium_id, quote=True)}"></a>\n'
                         )
         output.append(line)
     return "".join(output)

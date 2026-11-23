@@ -2248,7 +2248,7 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
         cleaned = re.sub(
             r"[ \t]*&#(?:x0*20|0*32);[ \t]*", " ", line, flags=re.IGNORECASE
         )
-        cleaned = re.sub(r"\\+\[([^\]\n]+)\\+\](?!\()", r"[\1]", cleaned)
+        cleaned = re.sub(r"\\+\[([^\]\n]+)\\+\](?!\]?\()", r"[\1]", cleaned)
         cleaned = re.sub(r"\\+\*(?=[A-Za-z]|\s*(?:\||$))", "*", cleaned)
         code_pieces = INLINE_CODE_SPAN_RE.split(cleaned)
         for piece_index in range(0, len(code_pieces), 2):

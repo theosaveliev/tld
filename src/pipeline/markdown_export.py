@@ -119,10 +119,6 @@ BROKEN_FILE_IMAGE_LINK_RE = re.compile(
 LEAKED_FILE_WRAPPER_WIDTH_SUFFIX_RE = re.compile(
     r"\s*\d+\s*px(?:\\?\]){2}", re.IGNORECASE
 )
-GENERATED_INFOBOX_TABLE_RE = re.compile(
-    r"(?ms)(?:^|\r?\n)\{\|\r?\n\|\+\s*XSENT:infobox:[^\r\n]*\r?\n.*?^\|\}\s*$"
-)
-GENERATED_INFOBOX_LINE_BREAK_SENTINEL = "TLDGENERATEDINFOBOXLINBREAK"
 
 
 INLINE_CODE_SPAN_RE = re.compile(
@@ -2346,7 +2342,6 @@ def _expand_page(
     try:
         context.start_page(page.title)
         expanded = preprocess(page.text, context, infobox_defs, page.title, stats)
-        expanded = _protect_generated_infobox_table_line_breaks(expanded)
         if material_usage_index is not None:
             expanded, deferred_material_tables = _defer_uses_material_list_templates(
                 expanded, page.title, material_usage_index
@@ -2358,30 +2353,9 @@ def _expand_page(
         with contextlib.redirect_stdout(io.StringIO()):
             expanded = context.expand(expanded, timeout=30)
     except Exception as exc:
-        return (
-            _restore_generated_infobox_table_line_breaks(expanded),
-            str(exc)[:300],
-            1,
-            deferred_material_tables,
-        )
+        return expanded, str(exc)[:300], 1, deferred_material_tables
 
-    expanded = _restore_generated_infobox_table_line_breaks(expanded)
     return expanded, "", 0, deferred_material_tables
-
-
-def _protect_generated_infobox_table_line_breaks(value: str) -> str:
-    """Keep generated infobox row boundaries intact during template expansion."""
-    return GENERATED_INFOBOX_TABLE_RE.sub(
-        lambda match: re.sub(
-            r"\r?\n", GENERATED_INFOBOX_LINE_BREAK_SENTINEL, match.group(0)
-        ),
-        value,
-    )
-
-
-def _restore_generated_infobox_table_line_breaks(value: str) -> str:
-    """Restore infobox row boundaries after wikitextprocessor expansion."""
-    return value.replace(GENERATED_INFOBOX_LINE_BREAK_SENTINEL, "\n")
 
 
 PANDOC_UNEXPECTED_REF_CLOSE_RE = re.compile(

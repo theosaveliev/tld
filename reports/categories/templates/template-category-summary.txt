@@ -1,5 +1,9 @@
 Template category analysis
 
+Scope: conservative static analysis of source links and discoverable template calls.
+It does not execute parser functions or resolve dynamic category titles; runtime
+category assignments are recorded in the Markdown conversion report.
+
 article_pages_scanned: 1819
 explicitly_categorized_articles: 547
 template_pages_found_in_dump: 308
@@ -11,7 +15,7 @@ redirect_templates_not_expanded: 9
 templates_with_category_links: 18
 articles_with_potential_template_categories: 1371
 potential_template_category_memberships: 2111
-articles_without_categories_after_scan: 280
+articles_without_categories_after_static_scan: 280
 articles_using_missing_templates: 1
 
 Potential categories introduced by templates:

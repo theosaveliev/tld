@@ -1561,6 +1561,7 @@ def _page_markdown(
     document = _clean_visible_markdown_artifacts(document)
     document = _strip_empty_markdown_sections(document)
     document = _strip_missing_contents_links(document)
+    document = _strip_missing_inpage_links(document)
     document = _strip_trailing_empty_markdown_sections(document)
     document = _rewrite_heading_anchor_spans(document)
     document = _strip_leaked_html_markup(document)
@@ -1695,6 +1696,9 @@ FOOTNOTE_DEFINITION_RE = re.compile(
     r"^[ \t]*\[\^(?P<label>[^\]\s]+)\]:[ \t]*(?P<body>.*)$"
 )
 FOOTNOTE_REFERENCE_RE = re.compile(r"\[\^(?P<label>[^\]\s]+)\]")
+INPAGE_FRAGMENT_LINK_RE = re.compile(
+    r"(?<!!)\\[(?P<label>(?:\\\\.|[^\\]\\n])*)\\]\\(#(?P<fragment>[^)\\s]+)\\)"
+)
 
 
 def _markdown_heading_slug(label: str) -> str:
@@ -1811,6 +1815,41 @@ def _strip_missing_contents_links(value: str) -> str:
     return "\n".join(
         line for index, line in enumerate(lines) if index not in removed
     )
+
+
+def _strip_missing_inpage_links(value: str) -> str:
+    """Preserve labels for same-page links whose fragment target no longer exists."""
+    anchors = _markdown_heading_anchors(value)
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+        parts = INLINE_CODE_SPAN_RE.split(line)
+        for index in range(0, len(parts), 2):
+            def replace_missing_fragment(match: re.Match[str]) -> str:
+                fragment = urllib.parse.unquote(match.group("fragment")).casefold()
+                return (
+                    match.group("label")
+                    if fragment not in anchors
+                    else match.group(0)
+                )
+
+            parts[index] = INPAGE_FRAGMENT_LINK_RE.sub(
+                replace_missing_fragment, parts[index]
+            )
+        output.append("".join(parts))
+    return "".join(output)
 
 
 def _normalize_markdown_footnotes(value: str) -> str:

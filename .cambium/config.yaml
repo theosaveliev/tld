@@ -8,7 +8,10 @@ paths_to_ignore: []
 protected_build_paths: []
 root_directory: '/Users/nett/fandom/The Long Dark Wiki'
 site_name: The Long Dark - Fandom Mirror
-stage_config: {}
+stage_config:
+  CheckLinks:
+    links_to_ignore:
+      - steam://nav/console
 stages:
 - PreviewCSV
 - IdentifyMetadata
@@ -18,7 +21,7 @@ stages:
 - EnsureIndexPages
 - PagefindSearch
 - CheckLinks
-subpath: null
+subpath: ""
 theme: maple
 theme_config:
   default_colour_mode: dark

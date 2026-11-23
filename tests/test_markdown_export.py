@@ -1698,11 +1698,12 @@ def test_category_hierarchy_ignores_self_parent_but_keeps_real_parent() -> None:
 
 def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
     class TemplateContext:
-        templates = {
-            "Template:Infobox/Region": (
-                "<infobox><title source='title' /></infobox>"
-            )
-        }
+        def __init__(self) -> None:
+            self.templates = {
+                "Template:Infobox/Region": (
+                    "<infobox><title source='title' /></infobox>"
+                )
+            }
 
     load_infobox_defs = cast(
         "Callable[[object], Mapping[str, object]]",
@@ -1801,14 +1802,12 @@ Paragraph
 
 
 def test_page_markdown_preserves_label_for_missing_inpage_fragment() -> None:
-    body = """See [Notes](#Notes), [Details](#details), [top](#top), and [Obsolete](#obsolete).
-
-## Details
-
-More information.
-
-<span id="obsolete"></span>
-"""
+    body = (
+        "See [Notes](#Notes), [Details](#details), [top](#top), "
+        "and [Obsolete](#obsolete).\\n\\n"
+        "## Details\\n\\nMore information.\\n\\n"
+        '<span id="obsolete"></span>\\n'
+    )
 
     markdown = _page_markdown("Sample", [], body, None)
 

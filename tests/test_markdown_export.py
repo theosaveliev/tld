@@ -19,6 +19,7 @@ from pipeline.markdown_export import (
     _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
+    _cambium_heading_anchor_map,  # pyright: ignore[reportPrivateUsage]
     _contains_html_markup,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _copy_image,  # pyright: ignore[reportPrivateUsage]
@@ -36,9 +37,8 @@ from pipeline.markdown_export import (
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
-    _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
-    _cambium_heading_anchor_map,  # pyright: ignore[reportPrivateUsage]
     _rewrite_workspace_fragment_links,  # pyright: ignore[reportPrivateUsage]
+    _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
     _write_workspace_index,  # pyright: ignore[reportPrivateUsage]
     audit_markdown_workspace,
     load_filename_mapping,

@@ -1710,6 +1710,31 @@ def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
     assert "infobox/region" in definitions
 
 
+def test_postexpand_converts_tabber_titles_to_headings() -> None:
+    stats: RenderStats = {
+        "infoboxes": 0,
+        "missing_templates": [],
+        "infobox_left": 0,
+        "missing_images": [],
+        "redlinks": 0,
+        "unrendered": 0,
+    }
+    postexpand = cast(
+        "Callable[[str, list[str], RenderStats], str]",
+        wiki_to_html_module.postexpand,
+    )
+
+    rendered = postexpand(
+        "<tabber>Wildlife management=Wildlife text\\n|-|Maps=Map text</tabber>",
+        [],
+        stats,
+    )
+
+    assert "=== Wildlife management ===" in rendered
+    assert "=== Maps ===" in rendered
+    assert "'''Wildlife management'''" not in rendered
+
+
 def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
     stats: RenderStats = {
         "infoboxes": 0,

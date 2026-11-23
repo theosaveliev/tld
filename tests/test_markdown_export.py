@@ -1797,7 +1797,7 @@ Paragraph
 
 
 def test_page_markdown_preserves_label_for_missing_inpage_fragment() -> None:
-    body = """See [Notes](#Notes) and [Details](#details).
+    body = """See [Notes](#Notes), [Details](#details), and [top](#top).
 
 ## Details
 
@@ -1806,7 +1806,7 @@ More information.
 
     markdown = _page_markdown("Sample", [], body, None)
 
-    assert "See Notes and [Details](#details)." in markdown
+    assert "See Notes, [Details](#details), and [top](#top)." in markdown
     assert "[Notes](#Notes)" not in markdown
 
 

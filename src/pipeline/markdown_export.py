@@ -1414,6 +1414,18 @@ def _rewrite_article_anchor(
         link.set("href", destination)
 
 
+def _is_cross_language_interwiki_target(target: str) -> bool:
+    """Identify two- or three-letter language interwiki targets."""
+    prefix, separator, _ = target.partition(":")
+    if not separator:
+        return False
+    language = prefix.casefold()
+    return (
+        re.fullmatch(r"[a-z]{2,3}", language) is not None
+        and language not in {"w", "wk", "map"}
+    )
+
+
 def _external_interwiki_href(href: str) -> str | None:
     """Convert MediaWiki interwiki targets to ordinary external URLs for sites."""
     target, separator, fragment = href.partition("#")
@@ -1475,6 +1487,9 @@ def _rewrite_anchor_nodes(
     for link in list(root.iter("a")):
         href = link.get("href")
         if not href:
+            continue
+        if _is_cross_language_interwiki_target(href.partition("#")[0]):
+            link.drop_tree()
             continue
         external_href = _external_interwiki_href(href)
         if external_href is not None:
@@ -1966,6 +1981,16 @@ def _describe_generic_here_link(match: re.Match[str]) -> str:
 
 def _normalize_markdown_link_segment(value: str) -> str:
     """Normalize visible Markdown links and contact addresses outside code."""
+    def remove_language_link(match: re.Match[str]) -> str:
+        label = match.group("label")
+        return "" if _is_cross_language_interwiki_target(label) else match.group(0)
+
+    value = re.sub(
+        r"\[(?P<label>[a-z]{2,3}:[^\]\n]+)\]\(https?://[^)\n]+\)",
+        remove_language_link,
+        value,
+        flags=re.IGNORECASE,
+    )
     value = re.sub(r"(?<!!)\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(", r"[\1](", value)
     value = re.sub(
         r"\[(?P<label>here)\]\((?P<destination>[^)\n]+)\)",
@@ -2237,6 +2262,12 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
                     f"[{_markdown_label(label.strip())}]({match.group('destination')})"
                 )
 
+            visible = BRACKETED_REFERENCE_LINK_RE.sub(
+                lambda match: (
+                    f"[\\[{match.group('label')}\\]]({match.group('destination')})"
+                ),
+                visible,
+            )
             visible = BROKEN_FILE_IMAGE_LINK_RE.sub(replace_broken_file_link, visible)
             visible = LEAKED_FILE_WRAPPER_PREFIX_RE.sub("", visible)
             visible = LEAKED_FILE_WRAPPER_WIDTH_SUFFIX_RE.sub("", visible)
@@ -2293,6 +2324,8 @@ def _strip_missing_template_labels(line: str) -> str:
 def _strip_empty_markup_rows(line: str) -> str:
     """Remove empty Markdown table rows and list items after cleanup."""
     stripped = line.strip()
+    if re.fullmatch(r"\\?\|", stripped):
+        return ""
     if re.fullmatch(r"\s*\|\s*(?:\|\s*)+\s*", stripped):
         return ""
     if re.fullmatch(r"\s*(?:[-*+]|[0-9]+[.)])\s*", stripped):
@@ -3432,12 +3465,16 @@ def _table_has_wide_row(rows: list[list[lhtml.HtmlElement]]) -> bool:
 def _pipe_table(headers: list[str], rows: list[list[str]]) -> str:
     """Serialize a rectangular collection of cells as a GFM pipe table."""
     width = max(len(headers), max((len(row) for row in rows), default=0), 1)
+
+    def serialize_row(cells: list[str]) -> str:
+        return "|" + "|".join(f" {cell} " if cell else " " for cell in cells) + "|"
+
     padded_headers = headers + [""] * (width - len(headers))
-    lines = ["| " + " | ".join(padded_headers) + " |"]
+    lines = [serialize_row(padded_headers)]
     lines.append("| " + " | ".join("---" for _ in range(width)) + " |")
     for row in rows:
         padded = row + [""] * (width - len(row))
-        lines.append("| " + " | ".join(padded) + " |")
+        lines.append(serialize_row(padded))
     return "\n".join(lines)
 
 
@@ -3482,12 +3519,26 @@ def _render_image_layout_cell(value: str) -> str:
     return value.strip()
 
 
+def _flush_image_layout_details(
+    blocks: list[str], details: list[list[str]]
+) -> None:
+    """Append accumulated infobox details as a two-column Markdown table."""
+    if details:
+        blocks.append(_pipe_table(["Property", "Details"], details))
+        details.clear()
+
+
 def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
-    """Render image-bearing data tables as ordinary Markdown blocks."""
+    """Render images as blocks and preserve a Details section as a pipe table."""
     blocks: list[str] = []
+    details: list[list[str]] = []
+    collecting_details = False
+
     for cells in rows:
         quote = _render_quote_table(cells)
         if quote is not None:
+            _flush_image_layout_details(blocks, details)
+            collecting_details = False
             if quote:
                 blocks.append(quote)
             continue
@@ -3506,28 +3557,37 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         if len(values) == 1:
             cell, value = values[0]
             if _is_table_section(cell):
-                blocks.append(f"**{value.strip('* ')}**")
+                _flush_image_layout_details(blocks, details)
+                heading = value.strip("* ").strip()
+                blocks.append(f"**{heading}**")
+                collecting_details = heading.casefold() == "details"
+            elif collecting_details:
+                details.append(["", _render_image_layout_cell(value)])
             else:
                 blocks.append(_render_image_layout_cell(value))
             continue
 
         first_cell, first_value = values[0]
         first_has_image = any(_html_tag(child) == "img" for child in first_cell.iter())
-        if not first_has_image and len(values) == INFOBOX_VALUE_CELL_COUNT:
+        if collecting_details and not first_has_image and len(values) == INFOBOX_VALUE_CELL_COUNT:
             detail = _render_image_layout_cell(values[1][1])
             label = first_value.strip()
             if label.startswith("**") and label.endswith("**"):
                 label = label[2:-2]
             label = label.rstrip(":").strip()
             if label and detail:
-                blocks.append(f"**{label}:** {detail}")
+                details.append([label, detail])
                 continue
 
+        _flush_image_layout_details(blocks, details)
+        collecting_details = False
         blocks.extend(
             rendered
             for _, value in values
             if (rendered := _render_image_layout_cell(value))
         )
+
+    _flush_image_layout_details(blocks, details)
     return "\n\n".join(blocks)
 
 
@@ -4992,6 +5052,9 @@ MARKDOWN_INTERNAL_LINK_RE = re.compile(
 BARE_URL_MARKDOWN_LINK_RE = re.compile(
     r"\[(?P<label>https?://[^\]\s]+)\]\((?P<destination>https?://[^)\s]+)\)"
 )
+BRACKETED_REFERENCE_LINK_RE = re.compile(
+    r"\[\\\[(?P<label>[^\]\n]+)\]\((?P<destination>[^)\n]+)\)\\\]"
+)
 
 
 def _plain_markdown_heading_text(label: str) -> str:
@@ -5150,15 +5213,54 @@ def _rewrite_markdown_file_fragment_links(
         markdown_file.write_text(rewritten, encoding="utf-8")
 
 
+def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
+    """Add explicit IDs where Cambium and GitHub heading slugs differ."""
+    output: list[str] = []
+    cambium_occurrences: dict[str, int] = {}
+    github_occurrences: dict[str, int] = {}
+    fence: tuple[str, int] | None = None
+
+    for line in markdown.splitlines(keepends=True):
+        fence, is_fence_line = _advance_markdown_fence(line, fence)
+        if not is_fence_line and fence is None:
+            heading = CAMBIUM_HEADING_RE.fullmatch(line.rstrip("\\r\\n"))
+            if heading is not None:
+                label = _plain_markdown_heading_text(heading.group("label"))
+                cambium_base = slugify(label, regex_pattern=r"[^-_a-z0-9]+")
+                github_base = _markdown_heading_slug(label)
+                if cambium_base and github_base:
+                    cambium_occurrence = cambium_occurrences.get(cambium_base, 0)
+                    github_occurrence = github_occurrences.get(github_base, 0)
+                    cambium_occurrences[cambium_base] = cambium_occurrence + 1
+                    github_occurrences[github_base] = github_occurrence + 1
+                    cambium_id = (
+                        f"{cambium_base}-{cambium_occurrence}"
+                        if cambium_occurrence
+                        else cambium_base
+                    )
+                    github_id = (
+                        f"{github_base}-{github_occurrence}"
+                        if github_occurrence
+                        else github_base
+                    )
+                    if cambium_id != github_id:
+                        output.append(
+                            f'<a id="{html.escape(cambium_id, quote=True)}"></a>\\n'
+                        )
+        output.append(line)
+    return "".join(output)
+
+
 def _rewrite_workspace_fragment_links(pages_dir: Path) -> None:
     """Rewrite Fandom fragment aliases to the actual IDs Cambium will render."""
     markdown_files = sorted(pages_dir.rglob("*.md"))
-    anchors_by_path = {
-        markdown_file.resolve(): _cambium_heading_anchor_map(
-            markdown_file.read_text(encoding="utf-8")
-        )
-        for markdown_file in markdown_files
-    }
+    anchors_by_path: dict[Path, dict[str, str]] = {}
+    for markdown_file in markdown_files:
+        markdown = markdown_file.read_text(encoding="utf-8")
+        markdown = _add_cambium_anchor_aliases_for_markdownlint(markdown)
+        if markdown != markdown_file.read_text(encoding="utf-8"):
+            markdown_file.write_text(markdown, encoding="utf-8")
+        anchors_by_path[markdown_file.resolve()] = _cambium_heading_anchor_map(markdown)
     pages_root = pages_dir.resolve()
     for markdown_file in markdown_files:
         _rewrite_markdown_file_fragment_links(

@@ -1712,14 +1712,31 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
     )
 
     assert rendered.startswith('\n<table class="infobox">')
-    assert "<caption>Sample</caption>" in rendered
-    assert "[[File:Sample.png|250px]]" in rendered
-    assert '<th colspan="2" class="section">' in rendered
-    assert "<th>Region</th>" in rendered
-    assert "<td>[[Forlorn Muskeg]]</td>" in rendered
-    assert "<th>Type</th>" in rendered
-    assert "<td>Outdoors</td>" in rendered
-    assert '<td colspan="2">A quiet camp</td>' in rendered
+    table = lhtml.fromstring(rendered)
+    assert table.tag == "table"
+    assert table.get("class") == "infobox"
+    assert table.xpath("normalize-space(string(./caption))") == "Sample"
+    assert table.xpath(
+        ".//th[@colspan='2' and contains(concat(' ', normalize-space(@class), ' '), ' section ')]"
+    )
+
+    full_width_values = [
+        " ".join("".join(cell.itertext()).split())
+        for cell in table.xpath(".//td[@colspan='2']")
+    ]
+    assert "[[File:Sample.png|250px]]" in full_width_values
+    assert "A quiet camp" in full_width_values
+
+    region_rows = table.xpath(".//tr[th[normalize-space(.)='Region']]")
+    assert len(region_rows) == 1
+    assert region_rows[0].xpath("normalize-space(string(./td))") == (
+        "[[Forlorn Muskeg]]"
+    )
+
+    type_rows = table.xpath(".//tr[th[normalize-space(.)='Type']]")
+    assert len(type_rows) == 1
+    assert type_rows[0].xpath("normalize-space(string(./td))") == "Outdoors"
+
     assert "{|" not in rendered
     assert "|}" not in rendered
     assert "|+" not in rendered

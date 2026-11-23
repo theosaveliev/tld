@@ -56,7 +56,7 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cup of Coffee](./Cup%20of%20Coffee.md) | None | - 1 × [Tin of Coffee](./Tin%20of%20Coffee.md) - 0.25 × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Cup of Coffee](./Cup%20of%20Coffee.md) | None | - 1 × [Tin of Coffee](./Tin%20of%20Coffee.md); - 0.25 × [Water (Potable)](./Water%20%28Potable%29.md) |
 
 ## Update history
 

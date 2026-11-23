@@ -41,11 +41,11 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.** Official Hinterland Description
+**A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.**; Official Hinterland Description
 
 ”
 

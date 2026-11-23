@@ -15,11 +15,11 @@
 
 [The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
-**Modded Content.** This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
+**Modded Content.**; This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
 “
 
-**An expanse of treacherous marshland that has been ravaged by wildfire. The mountains that line this location feature many transition areas to surrounding regions, as well harbor a secret to uncover.** TLDEV Region Description
+**An expanse of treacherous marshland that has been ravaged by wildfire. The mountains that line this location feature many transition areas to surrounding regions, as well harbor a secret to uncover.**; TLDEV Region Description
 
 ”
 

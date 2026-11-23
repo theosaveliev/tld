@@ -30,11 +30,11 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**Discover an old manual instant camera. Take photos anywhere in the world and add them to your Album. Craft photos into wall-hangings for your personal Safehouse. Find Colour, Black & White, or Sepia-toned film stock. Be a photographer at the end of the world.** Official Description
+**Discover an old manual instant camera. Take photos anywhere in the world and add them to your Album. Craft photos into wall-hangings for your personal Safehouse. Find Colour, Black & White, or Sepia-toned film stock. Be a photographer at the end of the world.**; Official Description
 
 ”
 

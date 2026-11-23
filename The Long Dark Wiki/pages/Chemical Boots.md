@@ -23,7 +23,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
  **Chemical Boots** are a footwear [Clothing](./Clothing.md) in _The Long Dark_. They are a tool for more safely crossing [Chemical Hazards](./Chemical%20Hazard.md) on the surface of [Zone of Contamination](./Zone%20of%20Contamination.md).
 

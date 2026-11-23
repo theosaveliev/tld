@@ -80,7 +80,7 @@ Some observed spawn points include:
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Can of Gunpowder](./Can%20of%20Gunpowder.md) | None | - 1 × [Stump Remover](./Stump%20Remover.md) - 1 × [Dusting Sulfur](./Dusting%20Sulfur.md) - 2 × [Charcoal](./Charcoal.md) |
+| [Can of Gunpowder](./Can%20of%20Gunpowder.md) | None | - 1 × [Stump Remover](./Stump%20Remover.md); - 1 × [Dusting Sulfur](./Dusting%20Sulfur.md); - 2 × [Charcoal](./Charcoal.md) |
 
 ## Trivia
 

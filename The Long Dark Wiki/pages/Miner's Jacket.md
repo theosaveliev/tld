@@ -22,11 +22,11 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.** In-game description
+**A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.**; In-game description
 
 ”
 

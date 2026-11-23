@@ -22,7 +22,7 @@ Has an interior
 
 | Column 1 | Column 2 |
 | --- | --- |
-| [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.** Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
+| [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
 
 The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

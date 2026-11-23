@@ -21,11 +21,11 @@
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**; This content only appears in [Wintermute](./Wintermute.md).
 
 “
 
-**A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.** In-game description
+**A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.**; In-game description
 
 ”
 

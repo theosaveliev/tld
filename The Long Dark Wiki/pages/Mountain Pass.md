@@ -14,11 +14,11 @@
 
 [The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
-**Modded Content.** This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
+**Modded Content.**; This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
 “
 
-**A large sprawling rocky region featuring winding fissures, a large basin, ample hunting space, and a railway track that bisects it all.** TLDEV Region Description
+**A large sprawling rocky region featuring winding fissures, a large basin, ample hunting space, and a railway track that bisects it all.**; TLDEV Region Description
 
 ”
 

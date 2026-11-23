@@ -1,0 +1,954 @@
+{
+  "files_scanned": 1819,
+  "files_with_issues": 151,
+  "issues": [
+    {
+      "file": "pages/Abandoned Mine No. 5.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Abandoned Mine.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Acorn Grounds.md",
+      "line": 45,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Acorn Grounds.md",
+      "line": 57,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Acorns (Cooked - Large Portion).md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Acorns (Cooked).md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Backpack.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Bandage.md",
+      "line": 52,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Bank Manager's House.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Banner Falls.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Bear Creek Campground.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Bed.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Bench.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Big Bass (Raw).md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Bridge.md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Broken Metal Control Box.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Broken Metal Door.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Burbot (Raw).md",
+      "line": 9,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Burns.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cabinet.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Camp Office.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Canned Corn.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cardboard Box.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Carter Hydro Dam.md",
+      "line": 23,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Carved Bear Figurine.md",
+      "line": 32,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Carved Cougar Figurine.md",
+      "line": 32,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Carved Wolf Figurine.md",
+      "line": 32,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Cave (Ash Canyon location).md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cave (Timberwolf Mountain location 1).md",
+      "line": 9,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cave (Timberwolf Mountain location 2).md",
+      "line": 9,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cedar Limb.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Chair.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cloth (Object).md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Coastal House.md",
+      "line": 18,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Coastal Townsite.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Coho Salmon (Raw).md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Community Hall.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Commuter's Lament.md",
+      "line": 9,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Condensed Milk.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Conductor's Dropoff.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Convenience Store.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cove (Track Section 3).md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cowichan Sweater.md",
+      "line": 5,
+      "kind": "MediaWiki table markup",
+      "snippet": "{| |+ XSENT:infobox:Cowichan Sweater |- | colspan=\"2\" | ![Cowichan Sweater icon](../assets/Cowichan_Sweater_icon.png) |-"
+    },
+    {
+      "file": "pages/Crashed Prison Transport Bus.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Crate.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Crossroads House.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Cupboard.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Curtain.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Decorative Art (2).md",
+      "line": 40,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Decorative Art.md",
+      "line": 40,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Decorative End Table.md",
+      "line": 32,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Deer.md",
+      "line": 24,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Desecrated Church.md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Dog Food.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Drawer.md",
+      "line": 22,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Emergency Kit.md",
+      "line": 27,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/File Cabinet.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Fir Limb.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Fishing Camp.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Fishing Tackle.md",
+      "line": 49,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Forgotten Exploration.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Fridge.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Fuel Cover.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Furniture Workbench.md",
+      "line": 45,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Gold Nugget.md",
+      "line": 32,
+      "kind": "MediaWiki table markup",
+      "snippet": "{\\| class=\"messagebox\""
+    },
+    {
+      "file": "pages/Goldeye (Raw).md",
+      "line": 9,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Hatch.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Hibernia Processing.md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Hilltop Cave.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Hushed River Valley.md",
+      "line": 30,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Improvised Down Bedroll.md",
+      "line": 54,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Improvised Hand Wraps.md",
+      "line": 43,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Improvised Head Wrap.md",
+      "line": 43,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Improvised Insulation.md",
+      "line": 46,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Jackrabbit Island.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Keypad.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Lake Whitefish (Raw).md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Landslide.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Lantern.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Locker.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Log Sort.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Lonely Lighthouse.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Mackenzie's Pants.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Mementos.md",
+      "line": 26,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Metal Chair.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Metal Lamp.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Metal Shelf.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Microwave.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Milton House.md",
+      "line": 17,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Misanthrope's Homestead.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Misty Falls Picnic Area.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Moose Overlook.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/No. 3 Coal Mine.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Obstructed Transit.md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Old Man's Beard Wound Dressing.md",
+      "line": 55,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Pallets.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Paradise Meadows Farm.md",
+      "line": 22,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Phone Box.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Pillow.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Pinnacle Peaches.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Platelayer's Shortcut.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Pork and Beans.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Prepared Acorns (Large Portion).md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Prepared Acorns (Large Portion).md",
+      "line": 79,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Prepared Acorns.md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Prepared Acorns.md",
+      "line": 76,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Prepared Birch Bark.md",
+      "line": 53,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Prepared Burdock.md",
+      "line": 33,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Prepared Reishi Mushrooms.md",
+      "line": 52,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Prepared Rose Hips.md",
+      "line": 48,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Prepper Cache.md",
+      "line": 38,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Quonset Garage.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rabbit Grove.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Radio.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Railyard (Track Section 2).md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Railyard (Track Section 4).md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Railyard (Track Section 5).md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rainbow Trout (Raw).md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Red Irish Lord (Raw).md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Revolver Ammunition.md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rifle Ammunition.md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rock Cache.md",
+      "line": 46,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Rockfall.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rockfish (Raw).md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rocky Refuge.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Rural Store.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Salt Deposit.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Scrap Lead.md",
+      "line": 44,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Shelf.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Sheltered Access.md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Shotgun Ammunition.md",
+      "line": 20,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Signal Hill.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Smallmouth Bass (Raw).md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Snow Shelter.md",
+      "line": 49,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Stone Church.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Table.md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Tall Tales.md",
+      "line": 18,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/The Long Dark Wiki.md",
+      "line": 15,
+      "kind": "MediaWiki table markup",
+      "snippet": "{| style=\"border: 2px solid #0A0B11;\" align=\"center\" width=\"100%\" ! colspan=\"3\" align=\"center\" style=\"background-color: "
+    },
+    {
+      "file": "pages/The Long Dark Wiki.md",
+      "line": 57,
+      "kind": "MediaWiki table markup",
+      "snippet": "{| style=\"border: 2px solid #0A0B11;\" align=\"center\" width=\"100%\" ! colspan=\"3\" align=\"center\" style=\"background-color: "
+    },
+    {
+      "file": "pages/The Tooth.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Tinder Plug.md",
+      "line": 63,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Tinder Plug.md",
+      "line": 77,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Tinder Plug.md",
+      "line": 91,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Tinder Plug.md",
+      "line": 105,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Tomato Soup.md",
+      "line": 14,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Torch.md",
+      "line": 102,
+      "kind": "MediaWiki file markup",
+      "snippet": "**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    },
+    {
+      "file": "pages/Trade Drop Box.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Trailer (Mountain Town Region).md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Train Unloading.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Trapper's Homestead.md",
+      "line": 16,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Trash Can.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Trunk.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Tunnel.md",
+      "line": 13,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Waterfront Cottages.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Weapon Locker.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Whale Bone Shrine.md",
+      "line": 20,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Wheel.md",
+      "line": 7,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    },
+    {
+      "file": "pages/Work Bench.md",
+      "line": 15,
+      "kind": "MediaWiki file markup",
+      "snippet": "\\[\\[File:"
+    }
+  ]
+}

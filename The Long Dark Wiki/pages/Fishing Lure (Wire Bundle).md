@@ -30,7 +30,7 @@ This lure has the highest chance of all the craftable lures to catch rare fish a
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | Fishing Lure (Wire Bundle) | +1000% | +75% | - 1 [Wires](./Wires.md) - 1 [Crow Feather](./Crow%20Feather.md) - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | Fishing Lure (Wire Bundle) | +1000% | +75% | - 1 [Wires](./Wires.md); - 1 [Crow Feather](./Crow%20Feather.md); - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 

@@ -69,15 +69,15 @@ Once made broth will have 20-85% condition based on the condition of the ingredi
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Last Resort Soup](./Last%20Resort%20Soup.md) | None | - 2 × [Potato](./Potato.md) - 0.40 L × [Broth](./Broth.md) - 0.01 kg × [Salt](./Salt.md) |
-| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md) - 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.40 L × [Broth](./Broth.md) - 0.01 kg × [Salt](./Salt.md) |
-| [Ptarmigan Stew](./Ptarmigan%20Stew.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 1 × [Potato](./Potato.md) - 0.20 kg × [Carrot](./Carrot.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) - 0.40 kg × [Carrot](./Carrot.md) - 2 × [Potato](./Potato.md) - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.40 L × [Broth](./Broth.md) - 0.01 kg × [Salt](./Salt.md) |
-| [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Last Resort Soup](./Last%20Resort%20Soup.md) | None | - 2 × [Potato](./Potato.md); - 0.40 L × [Broth](./Broth.md); - 0.01 kg × [Salt](./Salt.md) |
+| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md); - 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md); - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md); - 0.40 L × [Broth](./Broth.md); - 0.01 kg × [Salt](./Salt.md) |
+| [Ptarmigan Stew](./Ptarmigan%20Stew.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md); - 0.20 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 0.20 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md); - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 1 × [Potato](./Potato.md); - 0.20 kg × [Carrot](./Carrot.md); - 0.40 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md); - 0.40 kg × [Carrot](./Carrot.md); - 2 × [Potato](./Potato.md); - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md); - 0.40 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md); - 0.20 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 0.40 L × [Broth](./Broth.md); - 0.01 kg × [Salt](./Salt.md) |
+| [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md); - 0.20 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Update history
 

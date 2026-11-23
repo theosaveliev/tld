@@ -29,9 +29,9 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
- _For the raw version, see [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)._ **Ptarmigan (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
+; _For the raw version, see [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)._; **Ptarmigan (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 

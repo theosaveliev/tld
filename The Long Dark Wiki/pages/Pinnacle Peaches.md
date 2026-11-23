@@ -96,9 +96,9 @@ Pinnacle Peaches are relatively common inside homes, usually in cupboards or on 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 4 × [Rose Hip](./Rose%20Hip.md) - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
-| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md); - 4 × [Rose Hip](./Rose%20Hip.md); - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md); - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md); - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md); - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md); - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md); - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md); - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md); - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md); - 0.05 L × [Cooking Oil](./Cooking%20Oil.md); - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Trivia
 

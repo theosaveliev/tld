@@ -83,7 +83,7 @@ GAMEPLAY\_CannedCorn
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Canned Corn** is a packaged [food](./Food%20And%20Drink.md) which recovers hydration by 5% and provides 295 calories.
 
@@ -109,7 +109,7 @@ Like other canned foods, Canned Corn may be opened with a [Can Opener](./Can%20O
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) - 0.40 kg × [Carrot](./Carrot.md) - 2 × [Potato](./Potato.md) - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md); - 0.40 kg × [Carrot](./Carrot.md); - 2 × [Potato](./Potato.md); - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md); - 0.40 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Trivia
 

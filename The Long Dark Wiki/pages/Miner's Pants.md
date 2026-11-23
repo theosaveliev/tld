@@ -22,7 +22,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 The **Miner's Pants** is a unique [Clothing](./Clothing.md) pants found in various locations across the [Zone of Contamination](./Zone%20of%20Contamination.md). They most often spawns somewhere inside the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md).
 

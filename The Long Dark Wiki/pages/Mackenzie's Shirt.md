@@ -29,11 +29,11 @@
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**; This content only appears in [Wintermute](./Wintermute.md).
 
 “
 
-**The shirt you were wearing when you crashed in your plane.** Post Crash In-game description
+**The shirt you were wearing when you crashed in your plane.**; Post Crash In-game description
 
 ”
 

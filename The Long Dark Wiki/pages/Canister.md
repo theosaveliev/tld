@@ -21,7 +21,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Canister** is a [First Aid](./First%20Aid.md) item found in _The Long Dark_ that was added in the Part 4 Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 

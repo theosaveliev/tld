@@ -1,6 +1,6 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
@@ -418,15 +418,15 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 | Animal Carcass | Minimum Weight | Maximum Weight | Hide/Pelt/Other | Fresh Guts |
 | --- | --- | --- | --- | --- |
-| [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 25.00 kg _(55 lb)_ | 40.00 kg _(88 lb)_ | 1 x [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 10 x  |
+| [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 25.00 kg; _(55 lb)_ | 40.00 kg; _(88 lb)_ | 1 x [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 10 x  |
 | [Cougar Carcass](./Cougar%20Carcass.md) | N/A | N/A | N/A | N/A |
-| [Deer Carcass](./Deer%20Carcass.md) | 6.00 kg _(13.2 lb)_ | 11.00 kg _(24.2 lb)_ | 1 x [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 2 x  |
-| [Moose Carcass](./Moose%20Carcass.md) | 32.00 kg _(70.4 lb)_ | 45.00 kg _(99 lb)_ | 1 x [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 12 x  |
-| [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 0 kg _(0 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0 kg _(0 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
-| [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0.60 kg _(1.32 lb)_ | 1.20 kg _(2.64 lb)_ | 4 x | None |
-| [Rabbit Carcass](./Rabbit%20Carcass.md) | 0.80 kg _(1.76 lb)_ | 1.50 kg _(3.3 lb)_ | 1 x [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 x  |
-| [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 4.00 kg _(8.8 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 7.00 kg _(15.4 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
-| [Wolf Carcass](./Wolf%20Carcass.md) | 3.00 kg _(6.6 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 6.00 kg _(13.2 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
+| [Deer Carcass](./Deer%20Carcass.md) | 6.00 kg; _(13.2 lb)_ | 11.00 kg; _(24.2 lb)_ | 1 x [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 2 x  |
+| [Moose Carcass](./Moose%20Carcass.md) | 32.00 kg; _(70.4 lb)_ | 45.00 kg; _(99 lb)_ | 1 x [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 12 x  |
+| [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 0 kg; _(0 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0 kg; _(0 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
+| [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0.60 kg; _(1.32 lb)_ | 1.20 kg; _(2.64 lb)_ | 4 x | None |
+| [Rabbit Carcass](./Rabbit%20Carcass.md) | 0.80 kg; _(1.76 lb)_ | 1.50 kg; _(3.3 lb)_ | 1 x [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 x  |
+| [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 4.00 kg; _(8.8 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 7.00 kg; _(15.4 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
+| [Wolf Carcass](./Wolf%20Carcass.md) | 3.00 kg; _(6.6 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 6.00 kg; _(13.2 lb)_[Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x  |
 
 ## Game History
 

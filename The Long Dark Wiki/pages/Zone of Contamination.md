@@ -31,11 +31,11 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.** Official Hinterland Description
+**An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.**; Official Hinterland Description
 
 ”
 

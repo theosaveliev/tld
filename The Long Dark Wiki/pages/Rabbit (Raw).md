@@ -45,12 +45,12 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md); - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md); - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md); - 0.05 L × [Cooking Oil](./Cooking%20Oil.md); - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) | None | - 1.00 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) |
-| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 1 × [Potato](./Potato.md) - 0.20 kg × [Carrot](./Carrot.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.40 L × [Broth](./Broth.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md); - 0.05 L × [Cooking Oil](./Cooking%20Oil.md); - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 0.20 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md); - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 1 × [Potato](./Potato.md); - 0.20 kg × [Carrot](./Carrot.md); - 0.40 L × [Broth](./Broth.md); - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md); - 0.40 L × [Broth](./Broth.md); - 0.01 kg × [Salt](./Salt.md) |
 
 ## Gallery
 

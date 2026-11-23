@@ -1,6 +1,6 @@
 # Frozen Corpse
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
 
 **Frozen Corpse**
 

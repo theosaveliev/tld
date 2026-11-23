@@ -20,9 +20,9 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
- **Bushcraft Bow Blueprint Card** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is acquired from a trade from the [Trader](./Trader.md) and unlocks the ability to craft a [Bushcraft Bow](./Bushcraft%20Bow.md) at a [Work Bench](./Work%20Bench.md). This item only appears in the Trader's inventory after fully completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+; **Bushcraft Bow Blueprint Card** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is acquired from a trade from the [Trader](./Trader.md) and unlocks the ability to craft a [Bushcraft Bow](./Bushcraft%20Bow.md) at a [Work Bench](./Work%20Bench.md). This item only appears in the Trader's inventory after fully completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Trade
 

@@ -17,7 +17,7 @@
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**; This content only appears in [Wintermute](./Wintermute.md).
 
  **Perseverance Wilds** is a [Wintermute](./Wintermute.md)-exclusive region, which consists of the wilderness near the town of [Perseverance Mills](./Perseverance%20Mills.md), to which it connects.
 

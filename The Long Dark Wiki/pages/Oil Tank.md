@@ -14,9 +14,9 @@
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
- An **Oil Tank** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in Railyards on [Cauldron Island](./Cauldron%20Island.md).
+; An **Oil Tank** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in Railyards on [Cauldron Island](./Cauldron%20Island.md).
 
 ## Overview
 

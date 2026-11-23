@@ -27,9 +27,9 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-The **Respirator** is a [First Aid](./First%20Aid.md) item that was added as part of the Part 4 Buried Echoes update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) and [Camera](./Camera.md).
+The **Respirator** is a [First Aid](./First%20Aid.md) item that was added as part of the Part 4 Buried Echoes update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.; It is one of the few items that cannot be dropped or placed in containers so it cannot be lost, similar to the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) and [Camera](./Camera.md).
 
 ## Overview
 

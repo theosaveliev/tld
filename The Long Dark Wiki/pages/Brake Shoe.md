@@ -14,11 +14,11 @@
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**A spare Brake Shoe used to repair a Train's braking mechanism. Old, but fit for purpose.** In-game description
+**A spare Brake Shoe used to repair a Train's braking mechanism. Old, but fit for purpose.**; In-game description
 
 ”
 

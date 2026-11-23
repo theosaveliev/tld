@@ -34,7 +34,7 @@ The [Feat](./Feats.md) "Book Smarts" increases the skill points gained from comp
 
 The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.md), but also causes Research actions to happen 20% faster.
 
-| Image | Title | Skill | Points gained | W/ Book Smarts | Hours to research | W/ Settled Mind |
+| Image | Title | Skill | Points; gained | W/ Book Smarts | Hours to; research | W/ Settled Mind |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Stay on Target icon](../assets/Stay_on_Target_icon.png) | _[Stay on Target](./Stay%20on%20Target.md)_ | [Archery](./Archery.md) | 10 | 11 | 5 | 4 |
 | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) | _[Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md)_ | [Carcass Harvesting](./Carcass%20Harvesting.md) | 10 | 11 | 10 | 8 |

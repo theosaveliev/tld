@@ -62,8 +62,8 @@ Bandages can be used to treat the following afflictions:
 |  | Affliction | Treatments required |
 | --- | --- | --- |
 |  | [Blood Loss](./Blood%20Loss.md) | - 1 [Bandage](./Bandage.md) |
-|  | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md) - 4 [Painkillers](./Painkillers.md) |
-|  | [Burns](./Burns.md) | - 1 [Bandage](./Bandage.md) - 2 [Painkillers](./Painkillers.md) |
+|  | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md); - 4 [Painkillers](./Painkillers.md) |
+|  | [Burns](./Burns.md) | - 1 [Bandage](./Bandage.md); - 2 [Painkillers](./Painkillers.md) |
 |  | [Sprained Ankle](./Sprained%20Ankle.md) | - 1 [Bandage](./Bandage.md) |
 |  | [Sprained Wrist](./Sprained%20Wrist.md) | - 1 [Bandage](./Bandage.md) |
 

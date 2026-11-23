@@ -44,11 +44,11 @@
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md) - 5 × [Crow Feather](./Crow%20Feather.md) |
-| [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md) - 1 × [Cloth](./Cloth.md) - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
-| [Snow Shelter](./Snow%20Shelter.md) | None | - 15 × [Stick](./Stick.md) - 5 × [Cloth](./Cloth.md) |
+| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md); - 5 × [Crow Feather](./Crow%20Feather.md) |
+| [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md); - 1 × [Cloth](./Cloth.md); - 1 × [Scrap Metal](./Scrap%20Metal.md); - 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
+| [Snow Shelter](./Snow%20Shelter.md) | None | - 15 × [Stick](./Stick.md); - 5 × [Cloth](./Cloth.md) |
 | [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Stick](./Stick.md) |
-| [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md) - 1 × [Cloth](./Cloth.md) - 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
+| [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md); - 1 × [Cloth](./Cloth.md); - 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
 
 ## Tips
 

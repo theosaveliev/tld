@@ -60,13 +60,13 @@ Players can select any starter currently carried in their inventory. They are se
 
 | Image | Ignition Source | Benefit | Weight | Additional Info |
 | --- | --- | --- | --- | --- |
-| [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) | [Cardboard Matches](./Cardboard%20Matches.md) | +0% chance | 0.005 kg _(0.011 lb)_ | Consumed in attempt |
-| [Firestriker icon](../assets/Firestriker_icon.png) | [Firestriker](./Firestriker.md) | +15% chance | 0.10 kg _(0.22 lb)_ | 2% condition loss each attempt |
-| [Flare icon](../assets/Flare_icon.png) | [Flare](./Flare.md) (lit) | +5% chance | 0.25 kg _(0.55 lb)_ | Attempt may succeed even if item burns out |
-| [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg _(0.22 lb)_ | Only effective outdoors with sunny weather [^1] |
-| [Marine Flare icon](../assets/Marine_Flare_icon.png) | [Marine Flare](./Marine%20Flare.md) (lit) | +5% chance | 0.25 kg _(0.55 lb)_ | Attempt may succeed even if item burns out Beware of very short lifespan |
-| [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg _(0.66 lb)_ | Attempt may succeed even if item burns out |
-| [Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg _(0.018 lb)_ | Consumed in attempt |
+| [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) | [Cardboard Matches](./Cardboard%20Matches.md) | +0% chance | 0.005 kg; _(0.011 lb)_ | Consumed in attempt |
+| [Firestriker icon](../assets/Firestriker_icon.png) | [Firestriker](./Firestriker.md) | +15% chance | 0.10 kg; _(0.22 lb)_ | 2% condition loss each attempt |
+| [Flare icon](../assets/Flare_icon.png) | [Flare](./Flare.md) (lit) | +5% chance | 0.25 kg; _(0.55 lb)_ | Attempt may succeed even if item burns out |
+| [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg; _(0.22 lb)_ | Only effective outdoors with sunny weather [^1] |
+| [Marine Flare icon](../assets/Marine_Flare_icon.png) | [Marine Flare](./Marine%20Flare.md) (lit) | +5% chance | 0.25 kg; _(0.55 lb)_ | Attempt may succeed even if item burns out Beware of very short lifespan |
+| [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg; _(0.66 lb)_ | Attempt may succeed even if item burns out |
+| [Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg; _(0.018 lb)_ | Consumed in attempt |
 
 ### Tinder
 
@@ -76,13 +76,13 @@ Player can start fires without a tinder after achieving Fire Starting Level 3 in
 
 | Image | Tinder | Benefit | Weight |
 | --- | --- | --- | --- |
-| [Birch Bark icon](../assets/Birch_Bark_icon.png) | [Birch Bark](./Birch%20Bark.md) | +0% chance | 0.05 kg _(0.11 lb)_ |
-| [Cash icon](../assets/Cash_icon.png) | [Cash](./Cash.md) | +0% chance | 0.05 kg _(0.11 lb)_ |
-| [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) | [Cat Tail Head](./Cat%20Tail%20Head.md) | +0% chance | 0.05 kg _(0.11 lb)_ |
-| [Newsprint icon](../assets/Newsprint_icon.png) | [Newsprint](./Newsprint.md) | +0% chance | 0.10 kg _(0.22 lb)_ |
-| [Newsprint Roll icon](../assets/Newsprint_Roll_icon.png) | [Newsprint Roll](./Newsprint%20Roll.md) | +0% chance | 0.10 kg _(0.22 lb)_ |
-| [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) | [Stack of Papers](./Stack%20of%20Papers.md) | +0% chance | 0.10 kg _(0.22 lb)_ |
-| [Tinder Plug icon](../assets/Tinder_Plug_icon.png) | [Tinder Plug](./Tinder%20Plug.md) | +0% chance | 0.05 kg _(0.11 lb)_ |
+| [Birch Bark icon](../assets/Birch_Bark_icon.png) | [Birch Bark](./Birch%20Bark.md) | +0% chance | 0.05 kg; _(0.11 lb)_ |
+| [Cash icon](../assets/Cash_icon.png) | [Cash](./Cash.md) | +0% chance | 0.05 kg; _(0.11 lb)_ |
+| [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) | [Cat Tail Head](./Cat%20Tail%20Head.md) | +0% chance | 0.05 kg; _(0.11 lb)_ |
+| [Newsprint icon](../assets/Newsprint_icon.png) | [Newsprint](./Newsprint.md) | +0% chance | 0.10 kg; _(0.22 lb)_ |
+| [Newsprint Roll icon](../assets/Newsprint_Roll_icon.png) | [Newsprint Roll](./Newsprint%20Roll.md) | +0% chance | 0.10 kg; _(0.22 lb)_ |
+| [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) | [Stack of Papers](./Stack%20of%20Papers.md) | +0% chance | 0.10 kg; _(0.22 lb)_ |
+| [Tinder Plug icon](../assets/Tinder_Plug_icon.png) | [Tinder Plug](./Tinder%20Plug.md) | +0% chance | 0.05 kg; _(0.11 lb)_ |
 
 ### Fuel
 
@@ -101,15 +101,15 @@ For example:
 
 | Image | Fuel | Benefit | Burn Time | Heat Bonus | Weight |
 | --- | --- | --- | --- | --- | --- |
-| [Book icon](../assets/Book_icon.png) | [Book](./Book.md) | +35% chance | +18 minutes | +2 °C _(3.6 °F)_ | 0.50 kg _(1.1 lb)_ |
-| [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) | [Cedar Firewood](./Cedar%20Firewood.md) | +15% chance | +60 minutes | +6 °C _(10.8 °F)_ | 0.50 kg _(1.1 lb)_ |
-| [Coal icon](../assets/Coal_icon.png) | [Coal](./Coal.md) | +0% chance | +60 minutes | +20 °C _(36 °F)_ | 0.30 kg _(0.66 lb)_ |
-| [Fir Firewood icon](../assets/Fir_Firewood_icon.png) | [Fir Firewood](./Fir%20Firewood.md) | +0% chance | +90 minutes | +8 °C _(14.4 °F)_ | 1.00 kg _(2.2 lb)_ |
-| [Firelog icon](../assets/Firelog_icon.png) | [Firelog](./Firelog.md) | +7% chance | +120 minutes | +3 °C _(5.4 °F)_ | 2.00 kg _(4.4 lb)_ |
-| [Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) | [Reclaimed Wood](./Reclaimed%20Wood.md) | -5% chance | +30 minutes | +3 °C _(5.4 °F)_ | 0.25 kg _(0.55 lb)_ |
-| [Research Book icon](../assets/Research_Book_icon.png) | [Research Book](./Research%20Book.md) | +35% chance | +18 minutes | +2 °C _(3.6 °F)_ | 0.50 kg _(1.1 lb)_ |
-| [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) | +15% chance | +7.5 minutes | +1 °C _(1.8 °F)_ | 0.15 kg _(0.33 lb)_ |
-| [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (unlit) | +5% chance | +0-10 minutes | +1 °C _(1.8 °F)_ | 0.30 kg _(0.66 lb)_ |
+| [Book icon](../assets/Book_icon.png) | [Book](./Book.md) | +35% chance | +18 minutes | +2 °C; _(3.6 °F)_ | 0.50 kg; _(1.1 lb)_ |
+| [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) | [Cedar Firewood](./Cedar%20Firewood.md) | +15% chance | +60 minutes | +6 °C; _(10.8 °F)_ | 0.50 kg; _(1.1 lb)_ |
+| [Coal icon](../assets/Coal_icon.png) | [Coal](./Coal.md) | +0% chance | +60 minutes | +20 °C; _(36 °F)_ | 0.30 kg; _(0.66 lb)_ |
+| [Fir Firewood icon](../assets/Fir_Firewood_icon.png) | [Fir Firewood](./Fir%20Firewood.md) | +0% chance | +90 minutes | +8 °C; _(14.4 °F)_ | 1.00 kg; _(2.2 lb)_ |
+| [Firelog icon](../assets/Firelog_icon.png) | [Firelog](./Firelog.md) | +7% chance | +120 minutes | +3 °C; _(5.4 °F)_ | 2.00 kg; _(4.4 lb)_ |
+| [Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) | [Reclaimed Wood](./Reclaimed%20Wood.md) | -5% chance | +30 minutes | +3 °C; _(5.4 °F)_ | 0.25 kg; _(0.55 lb)_ |
+| [Research Book icon](../assets/Research_Book_icon.png) | [Research Book](./Research%20Book.md) | +35% chance | +18 minutes | +2 °C; _(3.6 °F)_ | 0.50 kg; _(1.1 lb)_ |
+| [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) | +15% chance | +7.5 minutes | +1 °C; _(1.8 °F)_ | 0.15 kg; _(0.33 lb)_ |
+| [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (unlit) | +5% chance | +0-10 minutes | +1 °C; _(1.8 °F)_ | 0.30 kg; _(0.66 lb)_ |
 
 ### Cut Fuel
 
@@ -117,7 +117,7 @@ Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update
 
 | Image | Fuel | Benefit | Burn Time | Heat Bonus | Weight |
 | --- | --- | --- | --- | --- | --- |
-| [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) | [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) | +35% chance | +6 minutes | +2 °C _(3.6 °F)_ | 0 kg _(0 lb)_ |
+| [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) | [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) | +35% chance | +6 minutes | +2 °C; _(3.6 °F)_ | 0 kg; _(0 lb)_ |
 
 ### Accelerant
 
@@ -125,10 +125,10 @@ Players can optionally add any accelerant carried in their inventory. Accelerant
 
 | Image | Accelerant | Benefit |  |
 | --- | --- | --- | --- |
-| [Accelerant icon](../assets/Accelerant_icon.png) | [Accelerant](./Accelerant.md) | +40% chance | 0.10 kg _(0.22 lb)_ |
-| [Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | +40% chance | 0.50 kg _(1.1 lb)_ |
-| [Jerry Can icon](../assets/Jerry_Can_icon.png) | [Jerry Can](./Jerry%20Can.md) | +40% chance | 3.30 kg _(7.26 lb)_ |
-| [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) | [Lantern Fuel](./Lantern%20Fuel.md) | +40% chance | 0.50 kg _(1.1 lb)_ |
+| [Accelerant icon](../assets/Accelerant_icon.png) | [Accelerant](./Accelerant.md) | +40% chance | 0.10 kg; _(0.22 lb)_ |
+| [Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | +40% chance | 0.50 kg; _(1.1 lb)_ |
+| [Jerry Can icon](../assets/Jerry_Can_icon.png) | [Jerry Can](./Jerry%20Can.md) | +40% chance | 3.30 kg; _(7.26 lb)_ |
+| [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) | [Lantern Fuel](./Lantern%20Fuel.md) | +40% chance | 0.50 kg; _(1.1 lb)_ |
 
 ## Types of Fireboxes
 
@@ -137,7 +137,7 @@ When lit, a firebox will increase nearby Warmth, dry [Clothing](./Clothing.md), 
 | Image | Firebox | Benefit | Cooking Slots | Additional Use(s) |
 | --- | --- | --- | --- | --- |
 | [Ammunition Forge](../assets/Ammunition_Forge.png) | [Ammunition Forge](./Ammunition%20Forge.md) | Wind proof | 0 | Can craft [Bullets](./Bullet.md) from [Scrap Lead](./Scrap%20Lead.md). |
-| [Fire radial icon](../assets/Fire_radial_icon.png) | [Campfire](./Campfire.md) | Can be placed at the player's discretion Deters predators Can be blown out by strong winds | 2 | Has 2 cooking slots. |
+| [Fire radial icon](../assets/Fire_radial_icon.png) | [Campfire](./Campfire.md) | Can be placed at the player's discretion Deters predators; Can be blown out by strong winds | 2 | Has 2 cooking slots. |
 | [Fire barrel](../assets/Fire_barrel.png) | [Fire Barrel](./Fire%20Barrel.md) | Wind proof | 2 | None. |
 | [Fire place](../assets/Fire_place.png) | [Fireplace](./Fireplace.md) | Wind proof | 2 | None. |
 | [Forge](../assets/Forge.png) | [Furnace](./Furnace.md) | Wind proof | 1 | Heats the [Forge](./Forge.md). |
@@ -165,10 +165,10 @@ Once players have reached a new skill level, they unlock a new bonus/bonuses get
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 20 | - 40% chance to start fires | You have no special knowledge or skill at starting fires, yet. |
-| 2 | 20 | 30 | - 55% chance to start fires - Fires last 10% longer | You're quite good at starting fires now. Your fires start better and last longer. |
-| 3 | 50 | 50 | - 65% chance to start fires - Fires last 10% longer - Can start fires without tinder. | You have well above-average experience in starting fires now. You're becoming very capable. |
-| 4 | 100 | 100 | - 75% chance to start fires - Fires last 25% longer - Can start fires without tinder. | Very few can match your skill. Your fires burn faster and for longer. You have woodsmoke in your veins. |
-| 5 | 200 | Max level | - 90% chance to start fires - Fires start 50% faster - Fires last 50% longer - Can start fires without tinder. | You have a spark at your fingertips. Your skills are legendary. You're the fire whisperer. |
+| 2 | 20 | 30 | - 55% chance to start fires; - Fires last 10% longer | You're quite good at starting fires now. Your fires start better and last longer. |
+| 3 | 50 | 50 | - 65% chance to start fires; - Fires last 10% longer; - Can start fires without tinder. | You have well above-average experience in starting fires now. You're becoming very capable. |
+| 4 | 100 | 100 | - 75% chance to start fires; - Fires last 25% longer; - Can start fires without tinder. | Very few can match your skill. Your fires burn faster and for longer. You have woodsmoke in your veins. |
+| 5 | 200 | Max level | - 90% chance to start fires; - Fires start 50% faster; - Fires last 50% longer; - Can start fires without tinder. | You have a spark at your fingertips. Your skills are legendary. You're the fire whisperer. |
 
 ## Notes
 

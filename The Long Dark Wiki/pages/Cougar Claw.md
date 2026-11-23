@@ -22,7 +22,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Cougar Claw** is a [Material](./Materials.md) that can be crafted into a [Cougar Claw Knife](./Cougar%20Claw%20Knife.md).
 
@@ -34,7 +34,7 @@ Cougar Claws are only acquired after killing a very rare but dangerous [Cougar](
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md) - 3 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Cured Leather](./Cured%20Leather.md) |
+| [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md); - 3 × [Scrap Metal](./Scrap%20Metal.md); - 1 × [Cured Leather](./Cured%20Leather.md) |
 
 ## Update history
 

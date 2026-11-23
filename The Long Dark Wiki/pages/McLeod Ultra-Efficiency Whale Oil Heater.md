@@ -27,11 +27,11 @@
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.** In-game description
+**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.**; In-game description
 
 ”
 

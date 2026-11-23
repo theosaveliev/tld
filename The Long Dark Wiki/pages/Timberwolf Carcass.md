@@ -20,7 +20,7 @@ A Wolf Carcass may be harvested for 4.00-7.00 kg of [raw meat](./Wolf%20Meat%20%
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 4 - 7 | Always[^1] |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always[^2] |
 | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
-| [Missing image: Gut\_icon.png] _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| [Missing image: Gut\_icon.png]; _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Preplaced Locations
 

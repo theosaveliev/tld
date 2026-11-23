@@ -42,7 +42,7 @@ Once dried, the green birch sapling will become a cured birch sapling and will a
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bushcraft Bow](./Bushcraft%20Bow.md) | None | - 2 × [Green Birch Sapling](./Green%20Birch%20Sapling.md) - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Bushcraft Bow](./Bushcraft%20Bow.md) | None | - 2 × [Green Birch Sapling](./Green%20Birch%20Sapling.md); - 2 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Trivia
 

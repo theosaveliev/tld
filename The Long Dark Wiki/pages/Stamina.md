@@ -30,12 +30,12 @@ The following items positively impact the player's stamina.
 
 | Image | Item | Effect | Duration |
 | --- | --- | --- | --- |
-| [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) | [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | - Fatigue is immediately reduced by approximately 5% - Fatigue decay being slowed - Sprinting will also use approximately 25% of the energy it typically does | 30 minutes |
-| [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) | [Cup of Coffee](./Cup%20of%20Coffee.md) | - Fatigue is immediately reduced by approximately 10% - Fatigue decay being slowed - Sprinting will also use approximately 25% of the energy it typically does | 1 hour |
-| [Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | - Allows the player to ignore sprained ankles and sprint. - Gives temporary unlimited Stamina ([Energy Boost](./Energy%20Boost.md)) - After 1 minute the player's fatigue and stamina bars drain completely | 15 minutes |
-| [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | - Provides a bonus to fatigue and Stamina despite afflictions for 30 min - [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 minutes - Grants [Energy Boost](./Energy%20Boost.md) - Instantly recovers 60% of Stamina - Can give [Headache](./Headache.md) | 45 minutes |
-| [Crampons icon](../assets/Crampons_icon.png) | [Crampons](./Crampons.md) | - 60% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second - [Sprain Risk](./Sprain%20Risk.md) reduction of 50% on uneven slopes | Until unequipped |
-| [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) | [Improvised Crampons](./Improvised%20Crampons.md) | - 40% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second - [Sprain Risk](./Sprain%20Risk.md) reduction of 30% on uneven slopes | Until unequipped |
+| [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) | [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | - Fatigue is immediately reduced by approximately 5%; - Fatigue decay being slowed; - Sprinting will also use approximately 25% of the energy it typically does | 30 minutes |
+| [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) | [Cup of Coffee](./Cup%20of%20Coffee.md) | - Fatigue is immediately reduced by approximately 10%; - Fatigue decay being slowed; - Sprinting will also use approximately 25% of the energy it typically does | 1 hour |
+| [Emergency Stim icon](../assets/Emergency_Stim_icon.png) | [Emergency Stim](./Emergency%20Stim.md) | - Allows the player to ignore sprained ankles and sprint.; - Gives temporary unlimited Stamina ([Energy Boost](./Energy%20Boost.md)); - After 1 minute the player's fatigue and stamina bars drain completely | 15 minutes |
+| [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | - Provides a bonus to fatigue and Stamina despite afflictions for 30 min; - [Fatigue Reduced](./Fatigue%20Reduced.md) for 45 minutes; - Grants [Energy Boost](./Energy%20Boost.md); - Instantly recovers 60% of Stamina; - Can give [Headache](./Headache.md) | 45 minutes |
+| [Crampons icon](../assets/Crampons_icon.png) | [Crampons](./Crampons.md) | - 60% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second; - [Sprain Risk](./Sprain%20Risk.md) reduction of 50% on uneven slopes | Until unequipped |
+| [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) | [Improvised Crampons](./Improvised%20Crampons.md) | - 40% [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) per second; - [Sprain Risk](./Sprain%20Risk.md) reduction of 30% on uneven slopes | Until unequipped |
 | [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | - Max 15% Stamina | 3 hours |
 | [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | - Max 15% Stamina | 3 hours |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | - Max 15% Stamina | 3 hours |
@@ -47,7 +47,7 @@ Suffering from the following afflictions affects the player's stamina.
 
 | Image | Affliction | Effect | Duration |
 | --- | --- | --- | --- |
-| [Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | - Stamina reduced by 50% - Carrying capacity reduced by 25% | Until treatment |
+| [Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | - Stamina reduced by 50%; - Carrying capacity reduced by 25% | Until treatment |
 | [Gorged icon](../assets/Gorged_icon.png) | [Gorged](./Gorged.md) | - Temporarily decreases maximum Stamina by 15% | 1 Hour |
 | [Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | - Sprinting is not possible | 4 Hours of rest or until treatment |
 | [Hypothermia icon](../assets/Hypothermia_icon.png) | [Hypothermia](./Hypothermia.md) | - Fatigue is lost at twice the normal rate | Until treated |

@@ -15,11 +15,11 @@
 
 [The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 
-**Modded Content.** This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
+**Modded Content.**; This page is about content that was not officially created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) It is not canon to the world of [The Long Dark](./The%20Long%20Dark.md).
 
 “
 
-**A region that feels eerily familiar to some. This portion of the coast is primarily known for being a small construction supplies depot -- as well as providing an impressive view of the neighboring oil rig.** TLDEV Region Description
+**A region that feels eerily familiar to some. This portion of the coast is primarily known for being a small construction supplies depot -- as well as providing an impressive view of the neighboring oil rig.**; TLDEV Region Description
 
 ”
 

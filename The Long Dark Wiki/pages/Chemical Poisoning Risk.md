@@ -23,9 +23,9 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
- A **Chemical Poisoning Risk** is an [affliction](./Afflictions.md) that can develop into [Chemical Poisoning](./Chemical%20Poisoning.md) if left untreated. Proximity to [Chemical Hazards](./Chemical%20Hazard.md) will add toxicity at a rate of 3% per minute for up to a maximum of 100% toxicity. The player will receive the [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) affliction once they reach 20% toxicity and the [Chemical Poisoning](./Chemical%20Poisoning.md) affliction at 100% toxicity. By remaining away from Chemical Hazards, 10% toxicity will be removed per hour after a half hour delay. If a treatment is applied, the Chemical Poisoning Risk is removed without developing further into [Chemical Poisoning](./Chemical%20Poisoning.md).
+ A **Chemical Poisoning Risk** is an [affliction](./Afflictions.md) that can develop into [Chemical Poisoning](./Chemical%20Poisoning.md) if left untreated.; Proximity to [Chemical Hazards](./Chemical%20Hazard.md) will add toxicity at a rate of 3% per minute for up to a maximum of 100% toxicity. The player will receive the [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) affliction once they reach 20% toxicity and the [Chemical Poisoning](./Chemical%20Poisoning.md) affliction at 100% toxicity. By remaining away from Chemical Hazards, 10% toxicity will be removed per hour after a half hour delay. If a treatment is applied, the Chemical Poisoning Risk is removed without developing further into [Chemical Poisoning](./Chemical%20Poisoning.md).
 
 ## Risk
 

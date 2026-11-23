@@ -22,11 +22,11 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**Patterned Wool Mittens with a reinforced palm. Warm and durable.** In-game description
+**Patterned Wool Mittens with a reinforced palm. Warm and durable.**; In-game description
 
 ”
 

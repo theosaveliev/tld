@@ -44,7 +44,7 @@ A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fishing Tackle](./Fishing%20Tackle.md) | None | - 1 × [Hook](./Hook.md) - 1 × [Line](./Line.md) |
+| [Fishing Tackle](./Fishing%20Tackle.md) | None | - 1 × [Hook](./Hook.md); - 1 × [Line](./Line.md) |
 
 ## Gallery
 

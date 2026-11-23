@@ -60,7 +60,7 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md); - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
 ## Tips
 

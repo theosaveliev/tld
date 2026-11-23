@@ -15,9 +15,9 @@
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.**; This content only appears in [Wintermute](./Wintermute.md).
 
- **Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Steam+Train&action=edit adding it to the article].** [Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)The **Steam Train** is a player driven and controlled [Vehicle](./Vehicle.md) found exclusively in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md). It is the main method of transportation in the [Railway](./Railway.md) region, during the mission [To SAR And Back](./To%20SAR%20And%20Back.md). A successor to the Steam Train appears in [Survival Mode](./Survival%20Mode.md) in the [Iron Road](./Iron%20Road.md) Expansion as the Prototype Steam Train.
+; **Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Steam+Train&action=edit adding it to the article].**; [Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)The **Steam Train** is a player driven and controlled [Vehicle](./Vehicle.md) found exclusively in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md). It is the main method of transportation in the [Railway](./Railway.md) region, during the mission [To SAR And Back](./To%20SAR%20And%20Back.md). A successor to the Steam Train appears in [Survival Mode](./Survival%20Mode.md) in the [Iron Road](./Iron%20Road.md) Expansion as the Prototype Steam Train.
 
 ## Appearance
 

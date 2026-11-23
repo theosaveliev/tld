@@ -41,7 +41,7 @@ Each Wolf Carcass will have one pelt, along with [meat](./Wolf%20Meat%20%28Raw%2
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md); - 4 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Gallery
 

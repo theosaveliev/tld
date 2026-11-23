@@ -30,7 +30,7 @@ It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery]
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) - 1 [Crow Feather](./Crow%20Feather.md) - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md); - 1 [Crow Feather](./Crow%20Feather.md); - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 

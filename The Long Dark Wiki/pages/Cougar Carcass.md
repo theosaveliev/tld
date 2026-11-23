@@ -13,7 +13,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
  A **Cougar Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Cougar](./Cougar.md). A Cougar Carcass always produces 3 [Crow Feathers](./Crow%20Feather.md) from passing [Crows](./Crow.md).
 

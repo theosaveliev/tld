@@ -20,7 +20,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Curing.md) into a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). A fresh hide takes 10 days to cure.
 

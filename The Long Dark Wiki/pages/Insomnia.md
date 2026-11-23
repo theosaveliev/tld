@@ -30,11 +30,11 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.** [Official Hinterland description](https://www.thelongdark.com/expansion/)
+**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.**; [Official Hinterland description](https://www.thelongdark.com/expansion/)
 
 ”
 

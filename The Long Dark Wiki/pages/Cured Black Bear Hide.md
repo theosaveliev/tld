@@ -43,10 +43,10 @@ One Cured Black Bear Hide can be found in a [Memento Cache](./Mementos.md) insid
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Cured Gut](./Cured%20Gut.md) - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 5 × [Cloth](./Cloth.md) - 6 × [Cured Gut](./Cured%20Gut.md) |
-| [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md); - 4 × [Cured Gut](./Cured%20Gut.md); - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md); - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md); - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md); - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md); - 5 × [Cloth](./Cloth.md); - 6 × [Cured Gut](./Cured%20Gut.md) |
+| [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md); - 4 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Update history
 

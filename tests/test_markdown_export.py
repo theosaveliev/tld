@@ -1609,7 +1609,7 @@ def test_page_markdown_repairs_broken_file_icon_links() -> None:
 
     assert "**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)" in markdown
     assert "File:" not in markdown
-    assert "icon.png" not in markdown
+    assert ") icon.png" not in markdown
 
 
 def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:

@@ -70,13 +70,13 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - Because of the longer walk, the [Milton Water Tower](./Milton%20Water%20Tower.md) is located next to the entrance to town, rather than the middle of town in the Redux version.
   - The [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) [Mailbox](./Mailbox.md) is on the left side of the walk up to the house, but the Redux version changed it to be on the right side.
 - A 3rd person cutscene plays when entering the Milton House between [Grey Mother](./Grey%20Mother.md) and Mackenzie. This scene was completely remade in the Redux version, and all future cutscenes would be first person.
-- The dialogue options are static text on the screen that alternates between Mackenzie and Grey Mother, and are not voiced. In Redux, all lines are voiced. One Dialogue option has been removed from Redux. The "House?" option has been removed, and hints that taking Grey Mother's things will displease her ([Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#Trust) System).
+- The dialogue options are static text on the screen that alternates between Mackenzie and Grey Mother, and are not voiced. In Redux, all lines are voiced. One Dialogue option has been removed from Redux. The "House?" option has been removed, and hints that taking Grey Mother's things will displease her ([Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#trust) System).
 - Grey Mother mentions that Milton has been through 5 days of hell, referencing Mackenzie being stranded in the ravine for the last 5 days. This line is absent in the Redux version, since only 2 days have passed.
   - It is implied however that Astrid was passed out for 5 days between the events of Episode 1 and the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in the Redux timeline.
 
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - Removed from the game as part of the Redux edition.

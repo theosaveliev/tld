@@ -13,7 +13,7 @@
 | Current | Prologue/Transcript |
 | Next | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
 | Region | [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#radio-voice-man) (Opening cutscene) |
 
 This is the mission transcript for the opening [Prologue](./Prologue.md) of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
@@ -49,7 +49,7 @@ Mackenzie: "Hello? Is this the radio station at [Perseverance Mills](./Persevera
 
 _Scene shifts to the broken [Shortwave Tower West](./Shortwave%20Tower%20West.md) at night during a full moon_
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "We need a doctor...or...medical assistance. Anything"
+[Radio Voice Man](./Characters.md#radio-voice-man): "We need a doctor...or...medical assistance. Anything"
 
 [Jeremiah](./Jeremiah.md): "You need to take my message. You need to deliver it for me. It's important. Ask for "[Atwood](./Atwood.md)."
 

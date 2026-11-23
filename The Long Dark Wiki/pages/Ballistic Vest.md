@@ -37,7 +37,7 @@ The **Ballistic Vest** is a type of clothing in The Long Dark.
 
 ## Overview
 
-The Ballistic Vest provides the highest [Protection](./Clothing.md#Protection) rating in the game at 50%. However, it is very heavy, weighing in at 6kg (13.2lbs). It is the heaviest clothing item in the game, and is comparable to heavier items such as animal quarters or the [Car Battery](./Car%20Battery.md) in terms of item weight. In addition, it reduces the player's [Stamina](./Stamina.md) bar by 40%, the highest mobility penalty any worn clothing offers.
+The Ballistic Vest provides the highest [Protection](./Clothing.md#protection) rating in the game at 50%. However, it is very heavy, weighing in at 6kg (13.2lbs). It is the heaviest clothing item in the game, and is comparable to heavier items such as animal quarters or the [Car Battery](./Car%20Battery.md) in terms of item weight. In addition, it reduces the player's [Stamina](./Stamina.md) bar by 40%, the highest mobility penalty any worn clothing offers.
 
 The lack of windproof or warmth bonuses forces the player to choose between equipping it for the protection bonus, or leaving it behind, preserving mobility and carrying capacity. However, the trade-off for extreme protection may be worth it if players find themselves ending up in lots of struggles, or plan to journey through dangerous territory such as regions that are inhabited by [Timberwolf](./Timberwolf.md) packs. It is most useful early-game when the player may not have sufficient resources to fend off attacks, especially on Interloper, or when playing a custom game in which condition loss is difficult to replace (i.e. Deadman).
 

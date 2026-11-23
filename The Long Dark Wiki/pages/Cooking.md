@@ -28,7 +28,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cooking background](../assets/Cooking_background.png) |
-| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
 ![Cooking](../assets/Cooking.png)
@@ -39,7 +39,7 @@
 
 ![old menu](../assets/Cooking_menu.png)_old menu_ Cooking is one of the easiest skills to train in _The Long Dark_, as players can increase their skill by cooking any food or drink item. There are dozens of options for fish, meat, harvestable plants, tradeable cooking ingredients and a vast number of dishes and drinks that the player can craft; each of these options grants cooking experience, making Cooking as a skill the easiest to level up in the game. For players who own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC especially, the update "Frontier Comforts" added an entire cooking system with new dishes, recipe cards that can be collected throughout Great Bear and new ingredients all around the island..
 
-Players can cook food and drinks on any [Fire](./Fire.md) using the one-to-six possible cooking slots depending on the type of fire. There is no difference between cooking over a [Campfire](./Fire.md#Campfire) and [contained fire](./Fire.md#Contained_fires) (Campfire, Rim Grill, Pot Belly, Fire Barrel, etc.).
+Players can cook food and drinks on any [Fire](./Fire.md) using the one-to-six possible cooking slots depending on the type of fire. There is no difference between cooking over a [Campfire](./Fire.md) and [contained fire](./Fire.md#contained-fires) (Campfire, Rim Grill, Pot Belly, Fire Barrel, etc.).
 
 Players can then select the food item, drink or cooking container from the radial menu or inventory and place it next to the fire in a designated cooking slot. When using a cooking tool, the player can "use" the placed [can](./Can.md), [cooking pot](./Cooking%20Pot.md) or [skillet](./Cooking%20Skillet.md) to select which food or drink to cook.
 
@@ -49,7 +49,7 @@ Players need a Fire before they can start cooking, and certain pieces of equipme
 
 | Image | Equipment | Benefit |
 | --- | --- | --- |
-| Missing image: Fire\_icon.png; _Fire\_icon.png_ | [Fire](./Fire.md#Types_of_fires) | - Used to cook any [canned food](#canned) and meat.; - The Can, Cooking Pot and Cooking Skillet can be used on it to prepare dishes.; - Includes player-made campfires and contained fires made in existing fireboxes. |
+| Missing image: Fire\_icon.png; _Fire\_icon.png_ | [Fire](./Fire.md#types-of-fires) | - Used to cook any [canned food](#canned) and meat.; - The Can, Cooking Pot and Cooking Skillet can be used on it to prepare dishes.; - Includes player-made campfires and contained fires made in existing fireboxes. |
 | [Anywhere icon](../assets/Anywhere_icon.png) | No Tool | - Used exclusively to cook [Bannock](./Bannock.md) and [Acorn Bannock](./Acorn%20Bannock.md) without a [Cooking Skillet](./Cooking%20Skillet.md); - Alternative method of heating food/drink in inventory on an active Cooking Slot |
 | [Recycled Can icon](../assets/Recycled_Can_icon.png) | [Recycled Can](./Recycled%20Can.md) | - Used to cook canned foods.; - Can melt and boil up to 0.5 liters of [water](./Water%20%28Unsafe%29.md) at a time.; - Used to craft or heat up any drink in the game.; - Used to boil [Prepared Acorns](./Prepared%20Acorns.md). |
 | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) | [Cooking Pot](./Cooking%20Pot.md) | - Used to cook Cooking Pot Recipes.; - Used to cook canned foods.; - Used to cook any meat or fish in the game.; - Can melt and boil up to 2.0 litres of water at a time.; - Cooking times reduced by 20%.; - Food takes 50% longer to burn. |
@@ -274,7 +274,7 @@ Once players have reached a new skill level, they unlock the effects described i
 | 2 | 25 | 50 | - +10% calories from any cooked food item | You're getting better at cooking with camp tools. You don't burn things so much, including yourself. |
 | 3 | 75 | 75 | - +15% calories from any cooked food item; - No calorie loss when smashing open cans; - Cooking times reduced by 10% | You're a pretty good cook. You've figured out some good ways to improvise around the lack of modern utensils and appliances. |
 | 4 | 150 | 200 | - +20% calories from any cooked food item; - No calorie loss when smashing open cans; - Cooking times reduced by 20%; - Ready times increased by 20% | You can make anything feel like a meal. You have perfect timing and you don't waste anything. |
-| 5 | 350 | Max level | - +25% calories from any cooked food item; - No calorie loss when smashing open cans; - Cooking times reduced by 30%; - Ready times increased by 20%; - Never get [Parasites](./Afflictions.md#Intestinal_Parasites) or [Food Poisoning](./Afflictions.md#Food_poisoning) (Note: Cooked and packaged food only. Raw meat/fish still carries risk. This is retroactive, so meat/fish cooked before level 5 is safe.) | You're an amazing cook. If people still had dinner parties, you'd be the talk of them. You know how to prepare anything, and your food never makes you sick. |
+| 5 | 350 | Max level | - +25% calories from any cooked food item; - No calorie loss when smashing open cans; - Cooking times reduced by 30%; - Ready times increased by 20%; - Never get [Parasites](./Afflictions.md) or [Food Poisoning](./Afflictions.md) (Note: Cooked and packaged food only. Raw meat/fish still carries risk. This is retroactive, so meat/fish cooked before level 5 is safe.) | You're an amazing cook. If people still had dinner parties, you'd be the talk of them. You know how to prepare anything, and your food never makes you sick. |
 
 ## Gallery
 

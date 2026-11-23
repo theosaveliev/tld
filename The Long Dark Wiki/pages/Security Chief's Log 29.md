@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -43,5 +43,5 @@ He can keep it.
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)):**
   - Added to game.

@@ -13,7 +13,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
@@ -35,7 +35,7 @@ Unlike directly harvesting a fresh carcass' meat, you will still need to harvest
 
 ## Update history
 
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added to game.
-- UPDATE **24 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
+- UPDATE **24 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - Added a proper description.

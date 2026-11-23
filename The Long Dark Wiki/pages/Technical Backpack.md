@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Technical Backpack icon](../assets/Technical_Backpack_icon.png) |
-| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -36,10 +36,10 @@ The Technical Backpack can be found alongside their sister item, the [Crampons](
 
 ## Update history
 
-- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**
+- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-94)):**
   - [UI] Fixed an issue that caused the Technical Pack’s item description to disappear after a transition to a new area.
 
-- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
+- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update)):**
   - New Gear Items: Crampons and the Technical Backpack
 
 ## Trivia

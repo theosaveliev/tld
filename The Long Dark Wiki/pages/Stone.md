@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Stone icon](../assets/Stone_icon.png) |
-| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423) |
+| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -79,5 +79,5 @@ _A [Rock Cache](./Rock%20Cache.md) made of several Stones_
 
 ## Update history
 
-- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
+- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update)):**
   - Added to game.

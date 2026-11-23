@@ -57,5 +57,5 @@ The [Wool Scarf](./Wool%20Scarf.md) may have a higher warmth-to-weight ratio but
 
 ## Update history
 
-- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
+- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update)):**
   - Renamed from _Toque_ to _Wool Toque_

@@ -52,4 +52,4 @@ The interior layout is very similar to the Radio Control Hut at [Signal Hill](./
 
 ---
 
-[^1]: [https://steamcommunity.com/app/305620/discussions/0/3280321473010347352/](https://steamcommunity.com/app/305620/discussions/0/3280321473010347352/) (as of game version 2.00)
+[^1]: <https://steamcommunity.com/app/305620/discussions/0/3280321473010347352/> (as of game version 2.00)

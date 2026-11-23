@@ -22,7 +22,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -82,5 +82,5 @@ The bow will spawn a single time per world at 100% condition in one of several r
 
 ## Update history
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Added to game.

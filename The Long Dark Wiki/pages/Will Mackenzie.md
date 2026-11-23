@@ -19,7 +19,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Will Episode 5](../assets/Will_Episode_5.jpg) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5 |
 | Mission | **•** [Memories](./Memories.md) / **•** [The Crash](./The%20Crash.md) / **•** [The Grey Mother](./The%20Grey%20Mother.md) / **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) / **•** [Renewed Hope](./Renewed%20Hope.md) / **•** [Prologue](./Prologue.md) / **•** [Blackrock Blues](./Blackrock%20Blues.md) / **•** [The Power Plant](./The%20Power%20Plant.md) / **•** [The Detonators](./The%20Detonators.md) / **•** [Donner (mission)](./Donner%20%28mission%29.md) |

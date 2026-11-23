@@ -13,7 +13,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 | Property | Details |
 | --- | --- |
 |  | [Wax Cylinder Player icon](../assets/Wax_Cylinder_Player_icon.png) |
-| Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) |
+| Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |

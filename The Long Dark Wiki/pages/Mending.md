@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Mending background](../assets/Mending_background.png) |
-| Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
+| Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) |
 | Date | 23 September 2016 |
 
 ![Mending](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.

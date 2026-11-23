@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cured Rabbit Pelt icon](../assets/Cured_Rabbit_Pelt_icon.png) |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | Yes |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md) |
@@ -36,5 +36,5 @@ Cured Rabbit Pelts are widely used for [trading](./Trader.md), as they are the f
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Added to game.

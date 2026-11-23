@@ -7,9 +7,9 @@
 - [Appearance](#appearance)
 - [History](#history)
 - [Operation and Mechanics](#operation-and-mechanics)
-- [Steam Train's Firebox](#steam-trains-firebox)
+- [Steam Train's Firebox](#steam-train-s-firebox)
 - [Steam Train Throttle](#steam-train-throttle)
-- [Steam Train's Speed](#steam-trains-speed)
+- [Steam Train's Speed](#steam-train-s-speed)
 - [Notes](#notes)
 - [Gallery](#gallery)
 

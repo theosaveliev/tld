@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Insomnia Risk icon](../assets/Insomnia_Risk_icon.png) |
-| Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Update | 2.03 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -39,7 +39,7 @@ The Affliction Risk for Insomnia can be mitigated by escaping Glimmer Fog when i
 
 There are 6 known underground locations that allow a survivor to escape the effects of Glimmer Fog:
 
-- [Transition Cave](./Cave%20%28Transition%20Zone%29.md#Forsaken_Airfield_to_Zone_of_Contamination) between Forsaken Airfield, Zone of Contamination, and Sundered Pass
+- [Transition Cave](./Cave%20%28Transition%20Zone%29.md) between Forsaken Airfield, Zone of Contamination, and Sundered Pass
 
 [Forsaken Airfield](./Forsaken%20Airfield.md)
 

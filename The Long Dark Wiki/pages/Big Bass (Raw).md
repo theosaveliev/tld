@@ -16,7 +16,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 Release
 
-[22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
+[22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)
 
 **Properties**
 
@@ -70,5 +70,5 @@ _The size of the Big Bass compared to a regular [Smallmouth Bass (Raw)](./Smallm
 
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.

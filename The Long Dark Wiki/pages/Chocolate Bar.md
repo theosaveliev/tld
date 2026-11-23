@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -51,8 +51,8 @@ The back of a Candy Bar lists "Ingredients: Chocolate, Almonds, Sugar, Salt, Nat
 
 ## Update history
 
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Updated the gear naming system to reflect item condition (applies to Food and Clothing items, currently).
   - Item name changed from 'Candy Bar' to 'Chocolate Bar'.
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

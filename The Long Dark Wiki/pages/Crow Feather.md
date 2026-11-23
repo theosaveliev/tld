@@ -54,4 +54,4 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 
 ## Game history
 
-- Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233).
+- Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update).

@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Jane Yang](../assets/Jane_Yang.png) |
-| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) (Flashback) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Location(s) | [Perseverance Mills](./Perseverance%20Mills.md) |

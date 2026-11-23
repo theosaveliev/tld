@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Book icon](../assets/Book_icon.png) |
-| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212) |
+| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md) |
@@ -78,5 +78,5 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 ## Update history
 
-- UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - Added to game.

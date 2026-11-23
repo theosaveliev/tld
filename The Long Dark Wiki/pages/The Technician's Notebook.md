@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Technician's Notebook icon](../assets/The_Technician%27s_Notebook_icon.png) |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -33,5 +33,5 @@ Just leave this here in case it gets worse.
 
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.

@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -66,5 +66,5 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ## Update history
 
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

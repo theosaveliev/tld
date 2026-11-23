@@ -16,7 +16,7 @@ _For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md)._
 | Property | Details |
 | --- | --- |
 |  | [Tin of Coffee icon](../assets/Tin_of_Coffee_icon.png) |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181) |
+| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
@@ -61,7 +61,7 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 
 ## Update history
 
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Added to game.
 
 ## Trivia

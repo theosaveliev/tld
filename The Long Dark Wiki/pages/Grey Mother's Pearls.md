@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Grey Mother's Pearls icon](../assets/Grey_Mother%27s_Pearls_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [One Last Thing](./One%20Last%20Thing.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -31,5 +31,5 @@ During the course of the mission, Mackenzie delivers the pearls to the [gravesit
 
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.

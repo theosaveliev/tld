@@ -40,9 +40,9 @@
 - [Attacks and Struggles](#attacks-and-struggles)
 - [Glancing Attacks](#glancing-attacks)
 - [Cougar Struggle](#cougar-struggle)
-- [Don't be afraid to retreat](#dont-be-afraid-to-retreat)
+- [Don't be afraid to retreat](#don-t-be-afraid-to-retreat)
 - [Strategies](#strategies)
-- [Legacy Information: Cougar 1.0](#legacy-information-cougar-10)
+- [Legacy Information: Cougar 1.0](#legacy-information-cougar-1-0)
 - [Cougar Encroaching](#cougar-encroaching)
 - [Cougar Threat Arrived](#cougar-threat-arrived)
 - [Destroying the Den](#destroying-the-den)
@@ -57,7 +57,7 @@
 | --- | --- |
 |  | [Cougar](../assets/Cougar.png) |
 | **Basic Information** |  |
-| Release | [24 June 2024 / 2 December 2024 (Redux)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Release | [24 June 2024 / 2 December 2024 (Redux)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Role | Predator |
 | **Physical Information** |  |
 | Color | Sandy Tan |
@@ -560,11 +560,11 @@ _Art of [Last Horizon](./Last%20Horizon.md) with the Cougar stalking someone_
 
 ## Game History
 
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added to game.
-- UPDATE **28 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.30)):**
+- UPDATE **28 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-30-steam)):**
   - Temporarily removed from the game by Hinterland due to poor reception and heavy player criticism of the Cougar's initial overall gameplay functionality and mechanics. Will be returned in a future update.
-- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
+- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - Returned the Cougar to Survival Mode as "Cougar 2.0 Redux."
 
 [ru:Пума](https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%BC%D0%B0)

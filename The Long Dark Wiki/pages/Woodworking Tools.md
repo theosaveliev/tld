@@ -10,14 +10,14 @@
 - [Ash Canyon](#ash-canyon)
 - [Zone of Contamination](#zone-of-contamination)
 - [Gallery](#gallery)
-- [Game History](#game-history)
+- Game History
 
 **Woodworking Tools**
 
 | Property | Details |
 | --- | --- |
 |  | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
 | Examine | Tools for Crafting furniture and decorative items. |

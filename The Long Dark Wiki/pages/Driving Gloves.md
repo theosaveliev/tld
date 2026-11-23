@@ -43,5 +43,5 @@ More notably, driving gloves weigh relatively little and can be harvested for [C
 
 ## Update history
 
-- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
+- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update)):**
   - Added to game

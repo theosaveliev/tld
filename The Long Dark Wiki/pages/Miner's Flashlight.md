@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | Missing image: Flashlight\_Long\_Lasting\_icon.png / _Flashlight\_Long\_Lasting\_icon.png_ |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
@@ -67,5 +67,5 @@ It is possible to have 2 versions of this item spawn on one playthrough.
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

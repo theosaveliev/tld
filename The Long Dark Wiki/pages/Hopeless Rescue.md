@@ -74,7 +74,7 @@ There are several ways to maximize the distance traveled and minimize the amount
 
 ### Wildlife
 
-Because weight is a critical factor, the [Hunting Rifle](./Hunting%20Rifle.md) may not be the best choice if the player is aiming to complete the challenge in the shortest time possible. Avoiding hostile wildlife, effectively using [decoys](./Scent.md#Baiting/Decoys), and scaring animals away with [flares](./Flare.md) or [torches](./Torch.md) is the best way to stay safe, if a [Revolver](./Revolver.md)isn't accessible. New players, however, may find the hunting rifle to be necessary to complete the challenge, and be willing to sacrifice the weight.
+Because weight is a critical factor, the [Hunting Rifle](./Hunting%20Rifle.md) may not be the best choice if the player is aiming to complete the challenge in the shortest time possible. Avoiding hostile wildlife, effectively using [decoys](./Scent.md#baiting-decoys), and scaring animals away with [flares](./Flare.md) or [torches](./Torch.md) is the best way to stay safe, if a [Revolver](./Revolver.md)isn't accessible. New players, however, may find the hunting rifle to be necessary to complete the challenge, and be willing to sacrifice the weight.
 
 Once the player has retrieved the distress pistol, which is found with a number of [flare shells](./Flare%20Shell.md) inside the [Tail Section](./Tail%20Section.md), the distress pistol can be used as a weapon to shoot hostile wildlife.
 
@@ -125,4 +125,4 @@ It may be beneficial to intentionally let [Condition](./Condition.md) drain when
 
 ## Game History
 
-- Hopeless Rescue and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321), also known as the Tireless Menace update.
+- Hopeless Rescue and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update), also known as the Tireless Menace update.

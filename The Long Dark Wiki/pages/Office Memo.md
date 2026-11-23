@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Office Memo icon](../assets/Office_Memo_icon.png) |
-| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -34,5 +34,5 @@ And with all the wolves moving into the region, maybe we can put them to good us
 
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update)):**
   - Added to game.

@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Burdock Root icon](../assets/Burdock_Root_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
@@ -37,5 +37,5 @@ After harvesting a Burdock plant, you'll obtain a single Burdock Root. The root 
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game

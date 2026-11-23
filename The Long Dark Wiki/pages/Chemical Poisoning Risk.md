@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png) |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | **Treatment** |  |
 | Treatment | Avoid Chemical Hazards |
 | Alternate Treatment | Equip [Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) w/ [Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md) and [Chemical Boots icon](../assets/Chemical_Boots_icon.png) [Chemical Boots](./Chemical%20Boots.md) to reduce vulnerability. |
@@ -51,5 +51,5 @@ If enough Chemical Poisoning Risk builds up, the player will be afflicted with [
 
 ## Update history
 
-- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#2.25)):**
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

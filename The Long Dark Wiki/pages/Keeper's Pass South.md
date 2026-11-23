@@ -80,5 +80,5 @@ The beginning of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20
 
 ## Update history
 
-- UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)):**
+- UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-98-perilous-constraint-update)):**
   - Added to game.

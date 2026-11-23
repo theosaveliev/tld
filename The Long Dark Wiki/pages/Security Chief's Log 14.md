@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -35,5 +35,5 @@ It's starting to get to me.
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)):**
   - Added to game.

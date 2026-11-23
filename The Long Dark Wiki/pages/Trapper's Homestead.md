@@ -77,7 +77,7 @@ In [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Winte
 
 In story mode, the items and containers in the cabin are owned by Jeremiah and cannot be searched or looted.
 
-A [cave to the southeast of the cabin](./Cave%20%28Transition%20Zone%29.md#Mountain_town_to_Mystery_Lake) connects Mystery Lake to the [Mountain Town](./Mountain%20Town.md) region. Players are initially blocked from entering the cave, but are later able to travel through to the lower area of the Mountain Town region. However, they cannot return to [Milton](./Milton.md) due to the absence of a climbing rope up to [Milton Park](./Milton%20Park.md).
+A [cave to the southeast of the cabin](./Cave%20%28Transition%20Zone%29.md#mountain-town-to-mystery-lake) connects Mystery Lake to the [Mountain Town](./Mountain%20Town.md) region. Players are initially blocked from entering the cave, but are later able to travel through to the lower area of the Mountain Town region. However, they cannot return to [Milton](./Milton.md) due to the absence of a climbing rope up to [Milton Park](./Milton%20Park.md).
 
 ## Containers
 

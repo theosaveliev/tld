@@ -6,7 +6,7 @@
 
 - [Overview](#overview)
 - [Ocean Edge](#ocean-edge)
-- [Ponds/Rivers](#pondsrivers)
+- [Ponds/Rivers](#ponds-rivers)
 - [Falling through Weak Ice](#falling-through-weak-ice)
 - [Trivia](#trivia)
 - [Gallery](#gallery)

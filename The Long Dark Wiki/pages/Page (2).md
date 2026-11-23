@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Page (2) icon](../assets/Page_%282%29_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -29,6 +29,6 @@ Seeing the helicopters come over the mountains again this year. I counted three 
 
 ## Update history
 
-\* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+\* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
 
 - Added to game.

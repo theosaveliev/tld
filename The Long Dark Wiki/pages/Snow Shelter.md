@@ -85,5 +85,5 @@ Dismantling a snow shelters above 0% condition yields:
 
 ## Game history
 
-- The snow shelter was introduced in [version 0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346), "Penitent Scholar", on 23 June 2016.
-- The option to breakdown ruined snow shelter was introduced in [version 1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) , "ERRANT PILGRIM", on 10 December 2019.
+- The snow shelter was introduced in [version 0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346), "Penitent Scholar", on 23 June 2016.
+- The option to breakdown ruined snow shelter was introduced in [version 1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) , "ERRANT PILGRIM", on 10 December 2019.

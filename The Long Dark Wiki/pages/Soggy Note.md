@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Soggy Note icon](../assets/Soggy_Note_icon.png) |
-| Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
+| Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -40,6 +40,6 @@ Two sets of tracks -- the lake and towards the shore. Old fishing cove?
 
 ## Update history
 
-\* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
+\* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-52)):**
 
 - Added to game.

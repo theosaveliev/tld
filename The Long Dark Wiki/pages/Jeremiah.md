@@ -24,7 +24,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Jeremiah](../assets/Jeremiah.png) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | Mission | **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [Renewed Hope](./Renewed%20Hope.md) |
@@ -108,7 +108,7 @@ It is eventually revealed in Episode 5 that Jeremiah served in the Canadian Mili
   - [Deerskin Boots](./Deerskin%20Boots.md)
   - A shortwave radio
   - A geological cartography survey map of Great Bear Island
-- Jeremiah seems to enjoy [Pork and Beans](./Pork%20and%20Beans.md), with his cabin being filled with them and the fact that his [Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#Trust) can be raised by donating some to him in the Predux version of Episode 2. Several other places across the region, the [Camp Office](./Camp%20Office.md) and [Lookout (Mystery Lake location)](./Lookout%20%28Mystery%20Lake%20location%29.md) specifically, have been frequented by him and are littered with empty Pork and Beans cans.
+- Jeremiah seems to enjoy [Pork and Beans](./Pork%20and%20Beans.md), with his cabin being filled with them and the fact that his [Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#trust) can be raised by donating some to him in the Predux version of Episode 2. Several other places across the region, the [Camp Office](./Camp%20Office.md) and [Lookout (Mystery Lake location)](./Lookout%20%28Mystery%20Lake%20location%29.md) specifically, have been frequented by him and are littered with empty Pork and Beans cans.
 - Jeremiah is seen wearing a Wolfskin Coat in his artwork, but never wear one in Predux Episode 1 or 2. The Redux version would change this, as he wears the outfit briefly at the end of Redux Episode 1.
   - Jeremiah's outfit also includes a [Wolfskin Hat](./Wolfskin%20Hat.md) and [Deerskin Boots](./Deerskin%20Boots.md). The Wolfskin Hat would, interesting enough, not be introduced as a clothing item until the Part 6 [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) update 7 years after Jeremiah was introduced.
 - Jeremiah would occasionally be seen by other people on the Island in 2 [Buffer Memories](./Buffer%20Memories.md) (2 files mention him in the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), 1 file by [Breyerhouse](./Breyerhouse.md) in the [Maintenance Yard](./Maintenance%20Yard.md)).

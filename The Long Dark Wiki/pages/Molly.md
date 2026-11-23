@@ -20,7 +20,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Molly](../assets/Molly.png) |
-| Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Date | 22 October 2019 |
 | Wintermute | [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | Mission | **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Aftermath](./Aftermath.md) |
@@ -101,7 +101,7 @@ Molly and Astrid's phone calls may have briefly connected to the [Hunting Lodge'
 
 ## Update History
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.
 
 [fr:Molly](https://fr.wikipedia.org/wiki/Molly) [ru:Молли](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BB%D0%B8)

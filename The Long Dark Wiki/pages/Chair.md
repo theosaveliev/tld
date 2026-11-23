@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [Chair/Rocking Chair](#chairrocking-chair)
+- [Chair/Rocking Chair](#chair-rocking-chair)
 - [Cushioned chair](#cushioned-chair)
 - [Sofa chair](#sofa-chair)
 - [Stool](#stool)

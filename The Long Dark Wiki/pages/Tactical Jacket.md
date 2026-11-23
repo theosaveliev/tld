@@ -49,5 +49,5 @@ Tactical Jacket does not spawn on [Interloper](./Interloper.md) or [Misery modes
 
 ## Update history
 
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added to game.

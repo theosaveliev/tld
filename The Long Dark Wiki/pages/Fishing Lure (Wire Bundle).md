@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -55,5 +55,5 @@ This lure has the highest chance of all the craftable lures to catch rare fish a
 
 ## Update History
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

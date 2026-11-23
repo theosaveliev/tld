@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Old Mill Flour icon](../assets/Old_Mill_Flour_icon.png) |
-| Release | [19 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [19 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
@@ -95,5 +95,5 @@ The side of the bag lists "Ingredients: Bleached Wheat Flour, Malted Barley Flou
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

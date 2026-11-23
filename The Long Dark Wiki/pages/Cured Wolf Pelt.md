@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md) |
@@ -50,5 +50,5 @@ Each Wolf Carcass will have one pelt, along with [meat](./Wolf%20Meat%20%28Raw%2
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Added to game.

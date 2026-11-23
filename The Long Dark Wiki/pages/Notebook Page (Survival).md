@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Notebook Page (Survival 2) icon](../assets/Notebook_Page_%28Survival_2%29_icon.png) |
-| Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -30,5 +30,5 @@ After we hit the High Meadow I’m going to bow out and head for that old gold m
 
 ## Update history
 
-- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
+- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update)):**
   - Added to game.

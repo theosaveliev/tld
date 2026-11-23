@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md) |
@@ -33,5 +33,5 @@ Fresh Moose Hides are a very rare resource to obtain, since they require first f
 
 ## Update history
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - Added to the game.

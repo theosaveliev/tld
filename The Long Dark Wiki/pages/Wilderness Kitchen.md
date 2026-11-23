@@ -22,7 +22,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Wilderness Kitchen icon](../assets/Wilderness_Kitchen_icon.png) |
-| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -38,7 +38,7 @@
 
 ## Research
 
-_Wilderness Kitchen_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Cooking skill points](./Cooking.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_Wilderness Kitchen_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Cooking skill points](./Cooking.md#skill-levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -103,5 +103,5 @@ _Wilderness Kitchen_ can also spawn inside the Kitchen variant of the [Prepper C
 
 ## Update history
 
-- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**
+- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346)):**
   - Added to game.

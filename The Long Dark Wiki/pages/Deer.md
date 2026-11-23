@@ -166,54 +166,54 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
 
 ## Update history
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Added Does to the game.
 
-- HOTFIX **22 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.72)):**
+- HOTFIX **22 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-72)):**
   - [General] Fixed a crash that could occur if a Stag or Rabbit was removed from the world, while being chased by a Predator.
 
-- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-71)):**
   - [Hunted] Updated Deer carcass placement.
   - [AI] Stags now animate correctly after being felled by a Wolf.
   - [AI] Polished Stag and Wolf animations and transitions.
   - [Gameplay] Stags now check for collision when falling after death, to avoid falling into objects.
 
-- UPDATE **19 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.42)):**
+- UPDATE **19 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-42)):**
   - [WINTERMUTE] Removed deer carcass from the Survival Bowl sequence in Episode One that could cause a crash.
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - [WINTERMUTE] Fixed deer carcass disappearing when loading an autosave
   - [Survival Mode] Prevented deer from fleeing to inaccessible areas in the Ravine transition
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - [Wintermute] Fixed deer carcass disappearing at the opening of Episode One if Player interacts with, saves, then reloads game.
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - [Both] Reduced Deer carcass quartering time to 60 minutes, to improve balance against Bear and Moose quartering times.
 
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Updated Stag model and animations, including carcasses.
 
-- HOTFIX **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.280)):**
+- HOTFIX **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-280)):**
   - Made deer corpses in Desolation Point cave start unfrozen, and made corpses thaw when inside caves.
 
-- HOTFIX **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
+- HOTFIX **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152)):**
   - The Stag is more sensitive to the player's presence.
   - All wildlife spawns are now more dynamic, and will change over the course of a game. Wolves, Deer, and Rabbits all refresh on different intervals, reflecting their relative mobility and travel/migration patterns.
 
-- HOTFIX **2 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.137)):**
+- HOTFIX **2 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-137)):**
   - Fix issue with deer sometimes "following" the player
 
-- HOTFIX **2 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.136)):**
+- HOTFIX **2 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-136)):**
   - Wolves no longer run from deer.
 
-- HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094)):**
+- HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-094)):**
   - Wolves will now stop to feed on fresh Deer kill. The amount of meat that can be retrieved from a carcass is affected by how long a Wolf feeds on it.
 
-- HOTFIX **5 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.076)):**
+- HOTFIX **5 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-076)):**
   - Alpha Sandbox Updated to v.076 to fix issue with stags not animating.
 
-- HOTFIX **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)):**
+- HOTFIX **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Updated all Wolf spawn regions, and added new Wolf and Deer spawn regions to the world.
   - Randomized all Corpses (Deer and Human) in Lake Region, apart from a few that remain for environmental storytelling purposes.
   - Added a new Raw Material type: Leather. Leather is required to repair boots. It can be harvested from existing boots, or from Deer.

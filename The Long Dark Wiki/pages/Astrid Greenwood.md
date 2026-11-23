@@ -20,7 +20,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Astrid](../assets/Astrid.png) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | Mission | **•** [Memories](./Memories.md) / **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) / **•** [Donner](./Donner.md) |

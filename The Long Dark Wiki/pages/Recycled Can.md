@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Recycled Can icon](../assets/Recycled_Can_icon.png) |
-| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33) |
+| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -29,11 +29,11 @@
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Leave It |
 
-A **Recycled Can** is a tool that players used primarily for melting snow, boiling water, and cooking [canned goods](./Cooking.md#Canned) and [drinks](./Cooking.md#Drinks).
+A **Recycled Can** is a tool that players used primarily for melting snow, boiling water, and cooking [canned goods](./Cooking.md#canned) and [drinks](./Cooking.md#drinks).
 
 ## Overview
 
-The player will always start the game with one recycled can in the inventory, even on Interloper. Additional Recycled Cans are obtained by the player after consuming a [canned good](./Cooking.md#Canned). However, if the player smashes open a can, they will not receive a Recycled Can once the food is consumed. Additionally, Recycled Cans occasionally spawn in houses with kitchens or in various other locations.
+The player will always start the game with one recycled can in the inventory, even on Interloper. Additional Recycled Cans are obtained by the player after consuming a [canned good](./Cooking.md#canned). However, if the player smashes open a can, they will not receive a Recycled Can once the food is consumed. Additionally, Recycled Cans occasionally spawn in houses with kitchens or in various other locations.
 
 A Recycled Can will decrease the amount of time required for canned food to cook by **50%**, compared to the time needed to cook indirectly near the [Fire](./Fire.md). This time can be decreased by an additional **20%** if the player uses a [Cooking Pot](./Cooking%20Pot.md) instead of a Recycled Can. A [Cooking Skillet](./Cooking%20Skillet.md) can decrease cooking times even more than a Recycled can as well.
 
@@ -71,9 +71,9 @@ A [Can](./Can.md) can also be harvested for a Recycled Can.
 
 ## Update history
 
-- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**
+- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-94)):**
   - [Audio] Cans and Pots now play sound effects when placed onto a cooking slot, as intended.
-- HOTFIX **20 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.34)):**
+- HOTFIX **20 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-34)):**
   - [All] Fixed players being able to use a Recycled Can/Cooking Pot to cook when the item was at 0% Condition.
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - Added to game.

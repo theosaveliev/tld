@@ -6,7 +6,7 @@
 
 - [History](#history)
 - [Appearance](#appearance)
-- [The Lion's Roar Intro](#the-lions-roar-intro)
+- [The Lion's Roar Intro](#the-lion-s-roar-intro)
 - [Episode 4: Fury, Then Silence](#episode-4-fury-then-silence)
 - [Blackrock Blues](#blackrock-blues)
 - [The Power Plant](#the-power-plant)
@@ -21,7 +21,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Jace](../assets/Jace.png) |
-| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Mission | **•** [Blackrock Blues](./Blackrock%20Blues.md) / **•** [The Power Plant](./The%20Power%20Plant.md) / **•** [The Detonators](./The%20Detonators.md) / **•** [Donner](./Donner.md) |
@@ -96,5 +96,5 @@ TBA
 
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update)):**
   - Added to game.

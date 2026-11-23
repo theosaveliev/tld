@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [IngrediantDrawer](../assets/IngrediantDrawer.jpg) |
 | Release | TBD |
-| Update | [2.17](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Update | [2.17](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Story item | Yes |
 | **Container** |  |
 | Capacity | 10.00 kg(22 lbs) |

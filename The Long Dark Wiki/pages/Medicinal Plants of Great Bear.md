@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Medicinal Plants of Great Bear icon](../assets/Medicinal_Plants_of_Great_Bear_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -28,5 +28,5 @@ During the course of the mission, the survivor finds the book _Medicinal Plants 
 
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - Added to game.

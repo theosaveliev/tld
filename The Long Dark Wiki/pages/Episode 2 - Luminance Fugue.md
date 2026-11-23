@@ -15,7 +15,7 @@
 - [Forest Talker Supply Caches](#forest-talker-supply-caches)
 - [Mystery Lake Supply Caches](#mystery-lake-supply-caches)
 - [Aurora Hatch](#aurora-hatch)
-- [Hank's Hatch](#hanks-hatch)
+- [Hank's Hatch](#hank-s-hatch)
 - [Lake Gunshots](#lake-gunshots)
 - [Survival School](#survival-school)
 - [Non-mission objective](#non-mission-objective)

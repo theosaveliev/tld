@@ -13,7 +13,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Wires icon](../assets/Wires_icon.png) |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -42,7 +42,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)):**
   - Added to game.
-- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
+- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - Renamed from "Wire Bundle" to "Wires".

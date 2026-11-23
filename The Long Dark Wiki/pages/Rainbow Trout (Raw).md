@@ -20,7 +20,7 @@
 
 Release
 
-[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
+[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)
 
 Wintermute
 
@@ -74,7 +74,7 @@ At 0% condition food disappears if inside of a container, but not outside of con
 
 Cooking trout takes 10 minutes by using a lit [fire](./Fire.md). Cooking increases its condition by 50%, decays 4 times slower than raw fish, and has a reduced chance of [Food Poisoning](./Food%20Poisoning.md) over raw fish and decreases its weight by 35%. Cooked trout's energy density is 385 calories per kilogram. Cooking fish also yields a small amount of [Lantern Fuel](./Lantern%20Fuel.md).
 
-Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn (twice its 'Ready' cooking time), destroying the item and damaging a Cooking Pot if used.
+Cooking trout improves the [cooking skill](./Skills.md#cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn (twice its 'Ready' cooking time), destroying the item and damaging a Cooking Pot if used.
 
 ## Products
 
@@ -91,5 +91,5 @@ Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cookin
 
 ## Update history
 
-- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - Added to game.

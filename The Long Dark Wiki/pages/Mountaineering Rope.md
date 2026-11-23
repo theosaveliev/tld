@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png) |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) |
+| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -78,8 +78,8 @@ Many ropes are already deployed from rocks over climbable cliffs, but these can 
 
 ### Game history
 
-- The mountaineering rope was added on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298).
-- [Version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) extends the use of ropes to maps other than [Timberwolf Mountain](./Timberwolf%20Mountain.md) and makes the spawn locations Added.
+- The mountaineering rope was added on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update).
+- [Version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) extends the use of ropes to maps other than [Timberwolf Mountain](./Timberwolf%20Mountain.md) and makes the spawn locations Added.
 
 ## Gallery
 
@@ -87,5 +87,5 @@ Many ropes are already deployed from rocks over climbable cliffs, but these can 
 
 ## Update history
 
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Added to game.

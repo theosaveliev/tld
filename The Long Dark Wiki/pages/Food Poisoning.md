@@ -190,26 +190,26 @@ The food poisoning chance depends on both the type of food and the condition of 
 
 ## Update history
 
-- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
+- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update)):**
   - Fixed issue with only rolling for food poisoning when partially eating an item
-- HOTFIX **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- HOTFIX **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - Rebalanced Food Poisoning to re-introduce it as a credible risk.
-- HOTFIX **3 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.170)):**
+- HOTFIX **3 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-170)):**
   - Food with Condition over 75% will never cause Food Poisoning (excludes Raw Meat and Fish).
-- HOTFIX **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- HOTFIX **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - If left untreated, Food Poisoning will now degrade Condition to just before the point of death.
-- HOTFIX **31 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.154)):**
+- HOTFIX **31 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-154)):**
   - Reduced chance of Food Poisoning from all cooked meats.
-- HOTFIX **27 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.127)):**
+- HOTFIX **27 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-127)):**
   - Reduced chance of contracting Food Poisoning for all Food Items.
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - All Food items have been tuned for Calorie values, Condition Decay, and % chance of Food Poisoning.
-- HOTFIX **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)):**
+- HOTFIX **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Made food poisoning more dangerous. Increased the hourly Condition drain to 10/hr (from 5/hr). Increased the hourly Fatigue increase to 20/hr (from 10/hr).
   - Reduced the chance of getting Food Poisoning from canned goods (Peaches, Beans), and MREs.
-- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.04)):**
+- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Improved player death description by including all critical sub-conditions that contribute to player's demise. Also, properly capture cause of death by afflictions (e.g., food poisoning) if there are no critical sub-conditions.
-- HOTFIX **20 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.03)):**
+- HOTFIX **20 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Fixed issue with food poisoning continuing to degrade stats when resting (after antibiotics taken).
 - UPDATE **14 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

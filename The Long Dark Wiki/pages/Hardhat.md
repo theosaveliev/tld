@@ -46,5 +46,5 @@ The Hardhat bears the logo of the Langston Mining Corporation.
 
 ## Update history
 
-- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update)):**
   - Added to game.

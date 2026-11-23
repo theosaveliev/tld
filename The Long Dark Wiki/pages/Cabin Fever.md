@@ -7,7 +7,7 @@
 - [Overview](#overview)
 - [Special Locations](#special-locations)
 - [Treatment](#treatment)
-- [Interloper/Misery](#interlopermisery)
+- [Interloper/Misery](#interloper-misery)
 - [Cabin Fever Emergencies](#cabin-fever-emergencies)
 - [Trivia](#trivia)
 - [Game History](#game-history)
@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cabin Fever icon](../assets/Cabin_Fever_icon.png) |
-| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338) |
+| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-338) |
 | Update | 0.338 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -46,7 +46,7 @@ Cabin Fever prevents survivors from [Sleeping](./Sleep.md), Passing Time or [Res
 
 Cabin Fever Risk can be reduced by spending time outside, whereas full-blown Cabin Fever will expire after 24 hours spent outside.
 
-A grace period for Cabin Fever was introduced in [version 0.326](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326) during the first 50 days in Voyageur and 25 days in Stalker; there is no risk of cabin fever in Pilgrim, and no grace period in Interloper.[^2]
+A grace period for Cabin Fever was introduced in [version 0.326](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-326) during the first 50 days in Voyageur and 25 days in Stalker; there is no risk of cabin fever in Pilgrim, and no grace period in Interloper.[^2]
 
 - **Note**: "indoors" includes some locations without a loading transitions to enter them, including the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), [Pleasant Valley Farmstead's](./Pleasant%20Valley%20Farmstead.md) porch, and the [Lookouts](./Abandoned%20Lookout.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md) and [Bleak Inlet](./Bleak%20Inlet.md), and the side passage of the train tunnel in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md).
 
@@ -115,17 +115,17 @@ The main problem of Cabin Fever when trapped indoors can lie purely in gameplay:
 
 ## Game History
 
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Added to game.
-- HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326)):**
+- HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-326)):**
   - Added a grace period for Voyageur and Stalker and removed the affliction entirely on Pilgrim.
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam,_Epic_Games,_Xbox,_PlayStation%29_%28TFTFT_PART_FIVE:_Last_Horizon_Update%29)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever.
 
 ## Notes
 
 ---
 
-[^1]: Forum post mentioning tests performed to find exact hour count to trigger CF [https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/](https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/)
+[^1]: Forum post mentioning tests performed to find exact hour count to trigger CF <https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/>
 [^2]: _Hinterland Forums_. [HOTFIX! The Long Dark Sandbox v.326](http://hinterlandforums.com/index.php?/topic/10658-hotfix-the-long-dark-sandbox-v326/&do=findComment&comment=63876). Retrieved April 23, 2016.
 [^3]: _The Atlantic_. [1](https://www.theatlantic.com/health/archive/2019/01/polar-vortex-stuck-indoors-let-me-out-please/581749/). Retrieved February 2, 2019.

@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Antiseptic icon](../assets/Antiseptic_icon.png) |
-| Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094) |
+| Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-094) |
 | Wintermute | yes |
 | **Properties** |  |
 | Item type | [First Aid](./First%20Aid.md) |

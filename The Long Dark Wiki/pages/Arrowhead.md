@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Arrowhead icon](../assets/Arrowhead_icon.png) |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -75,11 +75,11 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 ## Update history
 
-- HOTFIX **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.280)):**
+- HOTFIX **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-280)):**
   - Added a small chance that Arrowheads may spawn in Cash Registers or Tool Chests.
 
-- HOTFIX **26 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.270)):**
+- HOTFIX **26 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-270)):**
   - Added a _small number\_ of random spawn arrows and arrowheads, spread across the game world.
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game

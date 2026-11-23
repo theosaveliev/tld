@@ -23,7 +23,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
@@ -90,5 +90,5 @@ _The [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) shares the same engravi
 
 ## Update history
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Added to game.

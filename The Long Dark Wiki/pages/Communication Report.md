@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Communication Report icon](../assets/Communication_Report_icon.png) |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -37,5 +37,5 @@ Partner Specialist 81926
 
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.

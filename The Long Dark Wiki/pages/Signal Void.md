@@ -10,7 +10,7 @@
 - [Locating the Anomalous Signals](#locating-the-anomalous-signals)
 - [Investigate the Bunkers](#investigate-the-bunkers)
 - [Locate the last Bunker](#locate-the-last-bunker)
-- [The Rüdiger's Project](#the-rüdigers-project)
+- [The Rüdiger's Project](#the-rudiger-s-project)
 - [Collectibles](#collectibles)
 - [Clothing](#clothing)
 - [Notes](#notes-1)

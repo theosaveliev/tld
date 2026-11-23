@@ -1,6 +1,6 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
@@ -23,7 +23,7 @@
 - [Harvestable Tools](#harvestable-tools)
 - [Hand Tools](#hand-tools)
 - [Firearms](#firearms)
-- [Campcraft/Cooking](#campcraftcooking)
+- [Campcraft/Cooking](#campcraft-cooking)
 - [Lighting Tools](#lighting-tools)
 - [Other](#other-1)
 - [Carcass Harvesting](#carcass-harvesting)
@@ -423,7 +423,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 ## Game History
 
-Harvesting of stationary objects in larger scale has been introduced on August 1, 2015 in [version 0.256](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256).
+Harvesting of stationary objects in larger scale has been introduced on August 1, 2015 in [version 0.256](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update).
 
 ## Notes
 

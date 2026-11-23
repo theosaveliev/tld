@@ -17,7 +17,7 @@
 | --- | --- |
 |  | [Hidden Cache](../assets/Hidden_Cache.png) |
 | Release | 14 June 2018 |
-| Update | [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33) |
+| Update | [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update) |
 | Story item | No |
 | **Container** |  |
 | Capacity | 15 kg(33 lbs) |

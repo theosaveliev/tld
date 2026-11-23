@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | Yes |
 | Renewable | Yes |
 | **Properties** |  |
@@ -65,5 +65,5 @@ Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) 
 
 ## Update history
 
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

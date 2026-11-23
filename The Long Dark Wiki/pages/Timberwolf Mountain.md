@@ -143,7 +143,7 @@ _Mountaineer's Hut_
 
 ## Game history
 
-Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298).
+Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update).
 
 ## Trivia
 
@@ -158,4 +158,4 @@ Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%
 
 ---
 
-[^1]: Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 <[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)>
+[^1]: Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 <<http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/>>

@@ -27,7 +27,7 @@
 | --- | --- |
 |  | [Old Bear](../assets/Old_Bear.png) |
 | **Basic Information** |  |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) |
+| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Role | Predator |
 | **Physical Information** |  |
 | Color | Black |

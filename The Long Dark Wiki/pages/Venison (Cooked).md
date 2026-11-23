@@ -17,7 +17,7 @@ _For the raw version, see [Venison (Raw)](./Venison%20%28Raw%29.md)._
 | Property | Details |
 | --- | --- |
 |  | [Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png) |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -72,5 +72,5 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ## Update history
 
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

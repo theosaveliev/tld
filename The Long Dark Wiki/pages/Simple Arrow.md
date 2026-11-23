@@ -102,4 +102,4 @@ Simple arrows can be found in a few places, some locations of note include:
 
 ## Game history
 
-- Simple arrow and materials were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233).
+- Simple arrow and materials were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update).

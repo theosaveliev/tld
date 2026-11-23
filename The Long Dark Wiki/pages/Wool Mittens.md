@@ -36,5 +36,5 @@ Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are 
 
 ## Update history
 
-- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
+- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update)):**
   - Added to game

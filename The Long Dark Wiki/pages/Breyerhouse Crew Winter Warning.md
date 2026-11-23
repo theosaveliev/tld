@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Breyerhouse Crew Winter Warning icon](../assets/Breyerhouse_Crew_Winter_Warning_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -38,6 +38,6 @@ If you need another reason, our insurance won't kick in if you hurt yourself in 
 
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.

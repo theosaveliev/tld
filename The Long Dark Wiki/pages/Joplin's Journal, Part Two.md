@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Joplin's Journal, Part Two icon](../assets/Joplin%27s_Journal%2C_Part_Two_icon.png) |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -36,5 +36,5 @@ Got to get away, got to get up higher. Someplace in the open sky. Past the timbe
 
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.

@@ -66,7 +66,7 @@ Prepared Rose Hips weigh 0.05 kg, or around 1/5 of what 24 Rose Hips (their craf
 
 ## History
 
-- Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192).
+- Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192).
 - As of the 1.0 [Wintermute](./Wintermute.md) update (August 1, 2017) Rose Hips must be prepared before cooking them.
 
 ## Trivia

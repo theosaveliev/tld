@@ -12,7 +12,7 @@ In [Survival Mode](./Survival%20Mode.md), collectibles come in Eight types:
 - [Buffer Memories](./Buffer%20Memories.md) - cached emails or similar electronic messages that can be found on some intact computers in the world during [Aurora](./Aurora.md) events.
 - [Cairns](./Cairns.md) - Cairns are small stacks of stones with red cloths; when clicked on at close range, they will display text in tribute to some of the original supporters of _The Long Dark_.
 - [Polaroids](./Polaroids.md) - Allows the player to survey a large portion of the regional map.
-- [Surveyed Locations](./Map.md#Surveying) - Keeps track of locations required to unlock the [Faithful Cartographer](./Faithful%20Cartographer.md) achievement.
+- [Surveyed Locations](./Map.md#surveying) - Keeps track of locations required to unlock the [Faithful Cartographer](./Faithful%20Cartographer.md) achievement.
 - [Transmitters](./Transmitters.md) - Transmitters can be repaired to help the player find [Supply Caches](./Supply%20Cache.md).
 - [Mementos](./Mementos.md) - Mementos are useful hints for survivors which might lead to loot or new locations in regions.
 - [Recipe Cards](./Recipe%20Cards.md) - Unlock powerful Unique Recipes for the player to craft with a [Cooking Skillet](./Cooking%20Skillet.md) or [Cooking Pot](./Cooking%20Pot.md).

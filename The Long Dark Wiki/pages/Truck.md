@@ -1,6 +1,6 @@
 # Truck
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Truck)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Truck)
 
 ![A standard blue truck](../assets/Truck.png)_A standard blue truck_ **Trucks** are compact, 2-door single cab utility [vehicles](./Vehicle.md) found in the game _[The Long Dark](./The%20Long%20Dark.md)_
 

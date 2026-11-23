@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Insomnia icon](../assets/Insomnia_icon.png) |
-| Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Update | 2.03 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |

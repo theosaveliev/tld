@@ -16,10 +16,10 @@
 - [Trust Gained and Lost](#trust-gained-and-lost)
 - [Trust Thresholds](#trust-thresholds)
 - [Special Requests](#special-requests)
-- [Trader's Inventory](#traders-inventory)
+- [Trader's Inventory](#trader-s-inventory)
 - [Normal Trades](#normal-trades)
 - [Special Trade Items](#special-trade-items)
-- [Sutherland's Past](#sutherlands-past)
+- [Sutherland's Past](#sutherland-s-past)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [Achievements](#achievements)
@@ -378,7 +378,7 @@ These special items are only found by trading with Sutherland, and are quite cos
 
 ## Sutherland's Past
 
-- Speaking to the Trader reveals more about him, with more [Conversations](./Sutherland%27s%20Tale.md#Conversations) being unlocked as you raise his Trust:
+- Speaking to the Trader reveals more about him, with more [Conversations](./Sutherland%27s%20Tale.md#conversations) being unlocked as you raise his Trust:
   - The Trader's real name is Sutherland, and he is a sailor by trade.
   - He seems to be afflicted with whatever disease is affecting the residents of [Perseverance Mills](./Perseverance%20Mills.md), as well as [Patient 7](./Patient%207.md), [The Foreman](./The%20Foreman.md), [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md), and [The Security Chief](./The%20Security%20Chief.md), which causes them to forget things and become fixated on open water.
     - One major example of a memory recall problem is that he hasn't heard from his brother Wyatt since the [First Flare](./First%20Flare.md), despite the fact that he should know that his brother died long ago. His brother's death is also one of the major reasons why Sutherland has a deep seeded resentment to strangers and is so slow to trust others.

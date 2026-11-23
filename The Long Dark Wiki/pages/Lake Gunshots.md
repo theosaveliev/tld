@@ -232,7 +232,7 @@ It is presumed that if the player takes the Forest Talker's ammo, the assailant 
 
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - The note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) must be found to activate the side mission as part of the Redux edition. Previously, it was given after talking to [Jeremiah](./Jeremiah.md) during the mission [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)

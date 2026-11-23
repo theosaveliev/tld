@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Rustic Table icon](../assets/Rustic_Table_icon.png) |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | **Values** |  |
 | Weight | 8.00 kg (17.6 lbs) |
 | **Actions** |  |

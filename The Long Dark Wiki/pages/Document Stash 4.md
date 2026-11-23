@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Document Stash 1 icon](../assets/Document_Stash_1_icon.png) |
-| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |

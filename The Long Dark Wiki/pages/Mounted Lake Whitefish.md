@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Mounted Lake Whitefish icon](../assets/Mounted_Lake_Whitefish_icon.png) |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | **Values** |  |
 | Weight | 0.50 kg (1.1 lbs) |
 | **Actions** |  |

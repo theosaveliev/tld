@@ -19,7 +19,7 @@
 
 Release
 
-[30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+[30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)
 
 Wintermute
 
@@ -88,5 +88,5 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)):**
   - Added to game.

@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Infection Risk icon](../assets/Infection_Risk_icon.png) |
-| Release | [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.107) |
+| Release | [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-107) |
 | Update | 0.107 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -65,11 +65,11 @@ If a treatment is applied, the Infection Risk is removed without developing furt
 
 ## Update history
 
-- HOTFIX **4 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.03)):**
+- HOTFIX **4 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-03)):**
   - Tuned Antiseptic so that one dose is sufficient to treat Infection Risk.
-- HOTFIX **8 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.257)):**
+- HOTFIX **8 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-257)):**
   - Fixed bug that could cause multiple infections from a single infection risk.
   - Fixed issue that caused multiple infection risks in the same location to not heal properly.
-- UPDATE **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.107)):**
+- UPDATE **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-107)):**
   - A Wolf Attack now results in Blood Loss and Infection Risk (vs. immediate Infection, as before). Infection Risk is reduced by applying Antiseptic. Wounds can become Infected up to 24 hours after they have been inflicted.
   - Added to game.

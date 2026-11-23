@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Martin Barker](../assets/Martin_Barker.png) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
@@ -35,7 +35,7 @@ His corpse can appear in [Survival Mode](./Survival%20Mode.md), serving as 1 of 
 ## Trivia
 
 - Martin is wearing an [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), [Trail Boots](./Trail%20Boots.md), [Cotton Toque](./Cotton%20Toque.md), [Work Pants](./Work%20Pants.md) and [Work Gloves](./Work%20Gloves.md) that cannot be removed from the corpse.
-- Martin Barker shares the same corpse model as [Hank](./Characters.md#Hank).
+- Martin Barker shares the same corpse model as [Hank](./Characters.md#hank).
 
 ## Gallery
 

@@ -55,5 +55,5 @@ The Fishing Tackle can also be used to repair clothing with the same effectivene
 
 ## Update history
 
-- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.04)):**
+- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game

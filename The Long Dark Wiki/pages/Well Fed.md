@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Well Fed icon](../assets/Well_Fed_icon.png) |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) |
 | Update | 1.41 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -36,4 +36,4 @@ If Well Fed is not already active, then achieving 0 calorie store/Chemical Poiso
 
 ## Trivia
 
-This affliction was added in the [2018 December Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) and is the fourth positive affliction added to the game at the time (the other three being [Warming Up](./Warming%20Up.md), [Improved Rest](./Improved%20Rest.md), and [Fatigue Reduced](./Fatigue%20Reduced.md)) being the only one not requiring the consumption of specific food items to activate as well as the only one not having a set effect duration.
+This affliction was added in the [2018 December Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) and is the fourth positive affliction added to the game at the time (the other three being [Warming Up](./Warming%20Up.md), [Improved Rest](./Improved%20Rest.md), and [Fatigue Reduced](./Fatigue%20Reduced.md)) being the only one not requiring the consumption of specific food items to activate as well as the only one not having a set effect duration.

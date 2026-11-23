@@ -20,7 +20,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Franklin](../assets/Franklin.png) |
-| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
@@ -90,5 +90,5 @@ Despite being unarmed in Wintermute, his [pistol](./Warden%27s%20Revolver.md) ca
 
 ## Update history
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update)):**
   - Added to game.

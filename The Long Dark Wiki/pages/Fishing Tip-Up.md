@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -131,5 +131,5 @@ _Max 4 holes reachable from snow shelter entrance with the following setup. Exam
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

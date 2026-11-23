@@ -19,7 +19,7 @@
 | --- | --- |
 |  | [Forge](../assets/Forge.png) |
 | Release | 18 September 2015 |
-| Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264) |
+| Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update) |
 
 A **Forge** is the rectangular space located in the middle of a [Furnace](./Furnace.md) and is used for crafting new items made from [Scrap Metal](./Scrap%20Metal.md). Forging is the only method to [Craft](./Crafting.md) new Arrowheads, Improvised Knives, and Improvised Hatchets.
 
@@ -89,20 +89,20 @@ _The forging icon found in the [Survival Menu](./Survival%20Menu.md)_
 
 ## Update history
 
-- HOTFIX **28 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.19_%28Steam%29)):**
+- HOTFIX **28 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-19-steam)):**
   - Environment - Airfield - Fixed an issue where the Forge was missing from the Airfield Hangar Basement.
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - [Survival Mode] Fixed issue where Forging actions were not being interrupted when the Forge ran out of fuel.
 
-- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.46)):**
+- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-46)):**
   - [SURVIVAL MODE] Fixed issue causing items to float and overlap in the Maintenance Shed due to the new Forge location.
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - [All] Updated cooking surfaces around the world for new Cooking System.
 
-- HOTFIX **12 January 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.392)):**
+- HOTFIX **12 January 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-392)):**
   - Fixed issue with being able to use Forge before it's hot enough
 
-- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
+- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update)):**
   - Added Forging gameplay.

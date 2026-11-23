@@ -25,13 +25,13 @@ In addition, consuming [Antibiotics](./Antibiotics.md) or [Painkillers](./Painki
 
 ## Game History
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - [All] Fixed Living Off the Land achievement progress being reset when drinking tea crafted from Reishi Mushrooms or Rosehips.
 
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Fixed issue where creating Reishi and Rosehip tea invalidated the Living Off The Land achievement.
 
-- UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - Added to game.
 
 ## Notes

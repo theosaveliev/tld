@@ -31,7 +31,7 @@ Keep in mind that some foods are only available for those that purchase the [Tal
 
 ### Strategies
 
-Especially when moving from place to place, it is usually wise to first consume the food that [spoils](./Decay.md#Food_and_drink) the fastest and has lower energy density, while saving energy-dense products for traveling or for an emergency.
+Especially when moving from place to place, it is usually wise to first consume the food that [spoils](./Decay.md#food-and-drink) the fastest and has lower energy density, while saving energy-dense products for traveling or for an emergency.
 
 For long-term food options, keep in mind the following:
 

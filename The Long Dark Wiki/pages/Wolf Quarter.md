@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) |
-| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423) |
+| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
@@ -35,5 +35,5 @@ Timberwolf Quarter bags are slightly larger than regular Wolf Quarters.
 
 ## Update history
 
-- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
+- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update)):**
   - Added to game.

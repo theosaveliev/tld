@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Foreman's Technical Log 2 icon](../assets/Foreman%27s_Technical_Log_2_icon.png) |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -35,6 +35,6 @@ But I keep losing things, leaving them behind…can’t hold it together.
 
 ## Update history
 
-\* UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+\* UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
 
 - Added to game.

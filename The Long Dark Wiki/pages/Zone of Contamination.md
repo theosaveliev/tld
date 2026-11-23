@@ -119,7 +119,7 @@ There are a number of locations in the Zone of Contamination, including:
 
 ## Game History
 
-- Zone of Contamination was added to the game on 5 December 2023 in the [TFTFT Chapter 4 Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29).
+- Zone of Contamination was added to the game on 5 December 2023 in the [TFTFT Chapter 4 Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md).
 
 ## Gallery
 

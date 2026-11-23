@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png) |
-| Release | [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.373) |
+| Release | [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-373) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -92,5 +92,5 @@ _A pumpkin pie on the stove in the [Pleasant Valley Farmstead](./Pleasant%20Vall
 
 ## Update history
 
-- UPDATE **30 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.373)):**
+- UPDATE **30 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-373)):**
   - Added to game.

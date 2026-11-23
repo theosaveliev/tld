@@ -20,7 +20,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Father thomas](../assets/Father_thomas.jpg) |
-| Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Date | 22 October 2019 |
 | Wintermute | [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | Mission | **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) |
@@ -92,7 +92,7 @@ Astrid can return a stolen [Church Artifact](./Church%20Artifact.md) to the near
 
 ## Update History
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.
 
 [fr:Père\_Thomas](https://fr.wikipedia.org/wiki/P%C3%A8re_Thomas) [ru:Отец\_Томас](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%86_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81)

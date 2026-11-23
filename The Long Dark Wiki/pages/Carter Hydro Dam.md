@@ -62,8 +62,8 @@ Has an interior
 
 Missions
 
-[The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper)  
- [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
+[The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#the-wounded-trapper)  
+ [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#renewed-hope)
 
 Characters
 
@@ -168,5 +168,5 @@ _The dam during an [aurora](./Aurora.md)_
 
 [^1]: _Place: Carter Hydro Dam_, in-game [Journal](./Journal.md) knowledge
 [^2]: _Carter Hydro Dam -- Safety and Shutdown Notice_ [collectible](./Collectibles.md)
-[^4]: Steam, _The "Silent Hunter" Update (v.233) -- We've Added Bows & Improved Hunting!_, viewed 22 May 2015, <[http://steamcommunity.com/games/305620/announcements/detail/235656499654813808](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)>.
+[^4]: Steam, _The "Silent Hunter" Update (v.233) -- We've Added Bows & Improved Hunting!_, viewed 22 May 2015, <<http://steamcommunity.com/games/305620/announcements/detail/235656499654813808>>.
 [^5]: Raphael van Lierop, 4 August 2017, [Tweet](https://twitter.com/RaphLife/status/893315911880290305)

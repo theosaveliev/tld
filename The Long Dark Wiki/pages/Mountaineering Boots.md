@@ -75,8 +75,8 @@ It's implied by Grey Mother that these boots once belonged to [Lilith Barker](./
 
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - As part of the Redux edition update, Grey Mother now awards the boots when completing [One Last Thing](./One%20Last%20Thing.md) instead of as the last Trust reward.
   - Also changed the description from "Especially rugged boots given to you by Grey Mother, for earning her Trust."

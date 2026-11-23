@@ -41,4 +41,4 @@ The achievement can also be unlocked by quite easily by catching the [Big Bass](
 
 ## Game history
 
-This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).
+This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212).

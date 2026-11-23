@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Pain icon](../assets/Pain_icon.png) |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
+| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Update | 1.48 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |

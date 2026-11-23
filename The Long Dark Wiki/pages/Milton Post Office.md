@@ -37,7 +37,7 @@ This post office is the only one on all of Great Bear. It is a small building wi
 
 The post office can contain a pair of [Driving Gloves](./Driving%20Gloves.md), a [backpack](./Backpack.md), a [collectible](./Collectibles.md) note entitled _Milton Post Office Collectible_, and several [newsprint](./Newsprint.md) and [stacks of paper](./Stack%20of%20Papers.md). There is also a small chance of a [Research Book](./Research%20Book.md).
 
-Despite there being a back-end of the post office, this part of the building is inaccessible, resulting in the building being very small. It's one of a few locations with a radio that enables players to contact the [Trader](./Trader.md#Radio_Locations).
+Despite there being a back-end of the post office, this part of the building is inaccessible, resulting in the building being very small. It's one of a few locations with a radio that enables players to contact the [Trader](./Trader.md#radio-locations).
 
 ## Trivia
 

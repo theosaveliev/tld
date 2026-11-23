@@ -133,7 +133,7 @@
 - The [ice cave network](./Ice%20Cave.md) connecting key parts of the region.
 - The unnamed **cave** along the [Hushed River](./Hushed%20River.md).
 - The small **cave** northeast of [Stairsteps Lake](./Stairsteps%20Lake.md).
-- A small **cave** located on the east side of the [High Plateau](./Hushed%20River%20Valley.md#High_Plateau).
+- A small **cave** located on the east side of the [High Plateau](./Hushed%20River%20Valley.md#high-plateau).
 - [Lonely Cave](./Lonely%20Cave.md), a small, isolated cave found just north of the transition zone cave.
 - Two unnamed **caves** in the northwestern area of the region.
 - [Valley Cave](./Valley%20Cave.md), a small cave located a short walk southeast of [Little Bear and Cub Falls](./Little%20Bear%20and%20Cub%20Falls.md).

@@ -20,7 +20,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Camber Flight Porridge icon](../assets/Camber_Flight_Porridge_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
 | **Properties** |  |
@@ -83,5 +83,5 @@ It's Recipe Card can be found inside the kitchen of the [Main Hangar](./Main%20H
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

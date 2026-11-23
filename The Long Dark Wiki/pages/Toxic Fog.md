@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | Missing image: Toxic\_Fog\_icon.png / _Toxic\_Fog\_icon.png_ |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
 | Update | 1.86 |
 | **Properties** |  |
 | Caused By | Being within a Region where Toxic Fog reaches 100% saturation |

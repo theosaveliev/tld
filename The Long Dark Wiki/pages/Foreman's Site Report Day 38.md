@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Foreman's Site Report Day 38 icon](../assets/Foreman%27s_Site_Report_Day_38_icon.png) |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -37,5 +37,5 @@ Did I mention I need to get the hell out of here?
 
 ## Update history
 
-- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update)):**
   - Added to game.

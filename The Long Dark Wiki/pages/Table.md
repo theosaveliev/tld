@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [Small/Broken/Recreation Table](#smallbrokenrecreation-table)
+- [Small/Broken/Recreation Table](#small-broken-recreation-table)
 - [Coffee Table](#coffee-table)
 - [Nightstand Table](#nightstand-table)
 - [Medium Table](#medium-table)

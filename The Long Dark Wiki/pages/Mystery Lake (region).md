@@ -8,7 +8,7 @@
 - [Description](#description)
 - [Base locations](#base-locations)
 - [Camp Office](#camp-office)
-- [Trapper's Homestead](#trappers-homestead)
+- [Trapper's Homestead](#trapper-s-homestead)
 - [Carter Hydro Dam](#carter-hydro-dam)
 - [Locations](#locations)
 - [Unmarked Locations](#unmarked-locations)

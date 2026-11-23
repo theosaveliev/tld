@@ -72,7 +72,7 @@ The map will display most important buildings with unique icons and also include
 
 - _Carcasses_
   - [Frozen Corpses](./Frozen%20Corpse.md)
-  - [Deer](./Deer.md#Carcass), [Cougar](./Cougar.md), [Ptarmigan](./Ptarmigan.md), [Rabbit](./Rabbit.md), [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Moose](./Moose.md), and [Bear](./Bear.md) Carcasses
+  - [Deer](./Deer.md), [Cougar](./Cougar.md), [Ptarmigan](./Ptarmigan.md), [Rabbit](./Rabbit.md), [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Moose](./Moose.md), and [Bear](./Bear.md) Carcasses
 
 - [_Rock Caches_](./Rock%20Cache.md)
 
@@ -95,5 +95,5 @@ In episode 5, Charcoal is obtainable and usable, but not very helpful since the 
 ## Trivia
 
 - Surveying all of the named locations in survival mode will yield the "[Faithful Cartographer](./Faithful%20Cartographer.md)" [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md).
-- The ability to survey was added on 8 June 2017 as part of the [Faithful Cartographer update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423).
-- Polaroids, vistas, altitude sensitivity, spray paint, and rock caches were added with the [Fearless Navigator update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76).
+- The ability to survey was added on 8 June 2017 as part of the [Faithful Cartographer update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update).
+- Polaroids, vistas, altitude sensitivity, spray paint, and rock caches were added with the [Fearless Navigator update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-76-fearless-navigator-update).

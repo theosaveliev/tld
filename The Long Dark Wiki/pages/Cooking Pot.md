@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) |
-| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33) |
+| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update) |
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
@@ -108,15 +108,15 @@ The Cooking Pot was originally a harvestable environmental object called the [Me
 
 ## Update history
 
-- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**
+- HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-94)):**
   - [Audio] Cans and Pots now play sound effects when placed onto a cooking slot, as intended.
-- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76)):**
+- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-76-fearless-navigator-update)):**
   - [Gameplay] The Cooking Pot now provides the correct bonus when cooking meat.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - [All] Fixed Cooking Pots sinking into cooking surfaces
-- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.36)):**
+- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-36)):**
   - [ALL] Player’s last Cooking Pot will no longer drop during a Struggle.
-- HOTFIX **20 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.34)):**
+- HOTFIX **20 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-34)):**
   - [All] Fixed players being able to use a Recycled Can/Cooking Pot to cook when the item was at 0% Condition.
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - Added to game.

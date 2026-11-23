@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | Missing image: Hunting\_Rifle\_icon\_(story).png / _Hunting\_Rifle\_icon\_(story).png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -58,7 +58,7 @@ _[Vaughn's Rifle](./Vaughn%27s%20Rifle.md)_
 
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - Removed from the game as part of the Redux edition.

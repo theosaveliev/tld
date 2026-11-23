@@ -50,9 +50,9 @@ Players also have access to three secondary survival skills, which are not track
 
 | Skill | Skill | Description |
 | --- | --- | --- |
-| [Firearm Cleaning Kit icon](../assets/Firearm_Cleaning_Kit_icon.png) | [Cleaning](./Cleaning.md) | Cleaning is used to repair hunting rifles and revolvers. Keeping firearms in optimal condition reduces the likelihood of weapon [jamming](./Hunting%20Rifle.md#Jamming). |
+| [Firearm Cleaning Kit icon](../assets/Firearm_Cleaning_Kit_icon.png) | [Cleaning](./Cleaning.md) | Cleaning is used to repair hunting rifles and revolvers. Keeping firearms in optimal condition reduces the likelihood of weapon [jamming](./Hunting%20Rifle.md#jamming). |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png)[Simple Tools icon](../assets/Simple_Tools_icon.png) | [Repair](./Repair.md) | Repair is used to repair a variety of metal tools, such as [hacksaws](./Hacksaw.md) and [heavy hammers](./Heavy%20Hammer.md). |
-| [Whetstone icon](../assets/Whetstone_icon.png) | [Sharpening](./Sharpening.md) | Sharpening is used to repair [bladed tools](./Sharpening.md#Bladed_tools). Higher levels in the sharpening skill reduce the amount of time required to sharpen, and additionally increase the amount of condition restored to a tool by sharpening. |
+| [Whetstone icon](../assets/Whetstone_icon.png) | [Sharpening](./Sharpening.md) | Sharpening is used to repair [bladed tools](./Sharpening.md#bladed-tools). Higher levels in the sharpening skill reduce the amount of time required to sharpen, and additionally increase the amount of condition restored to a tool by sharpening. |
 
 ## Increasing Skill
 
@@ -135,15 +135,15 @@ As you level up, the skills displaying your level will have an accompanying and 
 
 | Skill | Skill | Release | Release date |
 | --- | --- | --- | --- |
-| [Gunsmithing](../assets/Gunsmithing.png) | [Gunsmithing](./Gunsmithing.md) | [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) | 10 December 2019 |
-| [Revolver Firearm](../assets/Revolver_Firearm.png) | [Revolver Firearm](./Revolver%20Firearm.md) | [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) | 6 May 2019 |
-| [Archery](../assets/Archery.png) | [Archery](./Archery.md) | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) | 23 September 2016 |
-| [Mending](../assets/Mending.png) | [Mending](./Mending.md) | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) | 23 September 2016 |
-| [Carcass Harvesting](../assets/Carcass_Harvesting.png) | [Carcass Harvesting](./Carcass%20Harvesting.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) | 23 June 2016 |
-| [Cooking](../assets/Cooking.png) | [Cooking](./Cooking.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) | 23 June 2016 |
-| [Fire Starting](../assets/Fire_Starting.png) | [Fire Starting](./Fire%20Starting.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) | 23 June 2016 |
-| [Ice Fishing](../assets/Ice_Fishing.png) | [Ice Fishing](./Ice%20Fishing.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) | 23 June 2016 |
-| [Rifle Firearm](../assets/Rifle_Firearm.png) | [Rifle Firearm](./Rifle%20Firearm.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) | 23 June 2016 |
+| [Gunsmithing](../assets/Gunsmithing.png) | [Gunsmithing](./Gunsmithing.md) | [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) | 10 December 2019 |
+| [Revolver Firearm](../assets/Revolver_Firearm.png) | [Revolver Firearm](./Revolver%20Firearm.md) | [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) | 6 May 2019 |
+| [Archery](../assets/Archery.png) | [Archery](./Archery.md) | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) | 23 September 2016 |
+| [Mending](../assets/Mending.png) | [Mending](./Mending.md) | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) | 23 September 2016 |
+| [Carcass Harvesting](../assets/Carcass_Harvesting.png) | [Carcass Harvesting](./Carcass%20Harvesting.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) | 23 June 2016 |
+| [Cooking](../assets/Cooking.png) | [Cooking](./Cooking.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) | 23 June 2016 |
+| [Fire Starting](../assets/Fire_Starting.png) | [Fire Starting](./Fire%20Starting.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) | 23 June 2016 |
+| [Ice Fishing](../assets/Ice_Fishing.png) | [Ice Fishing](./Ice%20Fishing.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) | 23 June 2016 |
+| [Rifle Firearm](../assets/Rifle_Firearm.png) | [Rifle Firearm](./Rifle%20Firearm.md) | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) | 23 June 2016 |
 
 ## Achievements
 

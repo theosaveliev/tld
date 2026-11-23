@@ -67,7 +67,7 @@ Rarely spawns on shelves or tables in place of more common [Lantern Fuel](./Lant
 
 ## Tips
 
-- Firestrikers are preferable to [Matches](./Wood%20Matches.md) at low [Firestarting Skill](./Skills.md#Fire_Starting). This will likely save matches from failed fires, thanks to the firestriker's higher Bonus Chance.
+- Firestrikers are preferable to [Matches](./Wood%20Matches.md) at low [Firestarting Skill](./Skills.md#fire-starting). This will likely save matches from failed fires, thanks to the firestriker's higher Bonus Chance.
 - Using a lit [Torch](./Torch.md) to start [Campfires](./Campfire.md) is an effective way to save Matches/Firestriker durability.
 - Firestrikers are more weight-efficient than wood matches at 20% durability and higher (10 matches weighs 0.10kg), and less weight efficient below 20% durability.
 
@@ -76,12 +76,12 @@ Rarely spawns on shelves or tables in place of more common [Lantern Fuel](./Lant
 - Modeled after ferrocerium-and-steel type fire starters that provide oxidizing cerium sparks as a temporary ignition source. Popular amongst outdoorsmen and survivalists due to their compact size, durability, and resistance to water.
 - The Firestriker is based off the Aurora Fire Starter 440C.
 - In real life, modern ferrocerium firestrikers can typically be used several thousands of times, as each strike only scrapes off a very small amount of material.
-- An item that was unreleased for the Pre Alpha versions of the game, [Flint and Steel](./Cut%20%E2%80%94%20Discontinued%20Content.md#Flint_and_Steel), was eventually cut and replaced with the Firestriker.
+- An item that was unreleased for the Pre Alpha versions of the game, [Flint and Steel](./Cut%20%E2%80%94%20Discontinued%20Content.md#flint-and-steel), was eventually cut and replaced with the Firestriker.
 
 ## Game History
 
-- UPDATE **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.280)):**
+- UPDATE **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-280)):**
   - Non-stackable Firestarting tools (ex. Firestriker) now show their Condition value, vs. simply saying "None", in the Firestarting UI.
 
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Reduce per-use decay on the Firestriker Tool.

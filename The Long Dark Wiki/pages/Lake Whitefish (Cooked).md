@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png) |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163) |
+| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -41,7 +41,7 @@ At 0% condition food disappears if inside of a container, but not outside of con
 
 Cooking Whitefish takes 20+ minutes and is be obtained by using a lit [fire](./Fire.md). Cooking increases it's condition by 50%, decays 4 times slower than raw meat, and has a reduces chance of [Food Poisoning](./Afflictions.md) over raw meat, but decreasing it's weight by 35%. Cooked whitefish's energy density is 385 calories-per-kilogram. Cooking fish also yields a small amount of [Lantern Fuel](./Lantern%20Fuel.md).
 
-Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooking food for too long will burn it. Destroying the item and damaging a Cooking Pot if used.
+Cooking whitefish improves the [Cooking Skill](./Skills.md#cooking). Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooking food for too long will burn it. Destroying the item and damaging a Cooking Pot if used.
 
 ## Recipe
 
@@ -71,5 +71,5 @@ Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Co
 
 ## Update history
 
-- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - Added to game.

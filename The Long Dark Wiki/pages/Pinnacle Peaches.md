@@ -20,7 +20,7 @@
 
 Release
 
-[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
+[22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)
 
 Wintermute
 
@@ -111,8 +111,8 @@ Pinnacle Peaches are relatively common inside homes, usually in cupboards or on 
 
 ## Update history
 
-- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**
+- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update)):**
   - Peaches now lose heat over time once cooked
 
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

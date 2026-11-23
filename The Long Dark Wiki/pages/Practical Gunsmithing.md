@@ -22,7 +22,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Practical Gunsmithing icon](../assets/Practical_Gunsmithing_icon.png) |
-| Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) |
+| Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -38,7 +38,7 @@
 
 ## Research
 
-_Practical Gunsmithing_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Gunsmithing skill points](./Gunsmithing.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_Practical Gunsmithing_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Gunsmithing skill points](./Gunsmithing.md#skill-levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -99,5 +99,5 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Update history
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update)):**
   - Added to game.

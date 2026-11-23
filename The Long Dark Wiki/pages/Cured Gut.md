@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cured Gut icon](../assets/Cured_Gut_icon.png) |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md) |
@@ -51,7 +51,7 @@ Cured Gut is an item required for crafting or repairing many items, such as [lin
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_&_2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
   - UI - Added a unique Icon for Cured/Dried Guts.
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Added to game.

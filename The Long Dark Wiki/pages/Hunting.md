@@ -269,7 +269,7 @@ Be aware that [bears](./Bear.md) may withstand more than one bullet/arrow that h
 
 ### Baiting and Scent
 
-As mentioned before, [Baiting](./Scent.md#Baiting/Decoys) can be used to escape predators before they charge, but it can also be used to draw predators to your location. Raw meat and fish is always the best item to use for Baiting, as Cooked meat gives off less odor. Bears in particular will travel the entire lengths of the map to your location (even leaving their normal dedicated stomping grounds to investigate the smell) if a sufficient quantity of "Decoys" are dropped onto the ground or the player's [Scent](./Scent.md) is at maximum. This can be a very time consuming venture to wait for a bear to come for you however, given the very slow walking speed of a bear.
+As mentioned before, [Baiting](./Scent.md#baiting-decoys) can be used to escape predators before they charge, but it can also be used to draw predators to your location. Raw meat and fish is always the best item to use for Baiting, as Cooked meat gives off less odor. Bears in particular will travel the entire lengths of the map to your location (even leaving their normal dedicated stomping grounds to investigate the smell) if a sufficient quantity of "Decoys" are dropped onto the ground or the player's [Scent](./Scent.md) is at maximum. This can be a very time consuming venture to wait for a bear to come for you however, given the very slow walking speed of a bear.
 
 Wolves on the other hand will very quickly detect the player with high enough Scent or if Decoys are placed nearby, picking up speed and switching into their "investigating" behavior, luring them straight towards you. Prey Wildlife is always uninterested in Baiting tactics however.
 
@@ -296,9 +296,9 @@ Shots that only catch the very outside of an animals silhouette may only graze i
 
 ### Bleeding
 
-_Main article: [Hunting rifle#Bleed out time](./Hunting%20Rifle.md#Bleed_out_time)_
+_Main article: [Hunting rifle#Bleed out time](./Hunting%20Rifle.md#bleed-out-time)_
 
-_Main article: [Survival bow#Bleed out time](./Survival%20Bow.md#Bleed_out_time)_
+_Main article: [Survival bow#Bleed out time](./Survival%20Bow.md#bleed-out-time)_
 
 ![Blood trail](../assets/There_will_be_blood.png)_Blood trail_ Other than grazing shots, all hits will cause bleeding wounds that will eventually kill the animal ([moose](./Moose.md) and [cougar](./Cougar.md) excluded). Animals will bleed out according to which area they were shot in last. Bleeding wounds do not stack, meaning that multiple shots to the same area will not reduce bleed-out time. However, shooting an animal in an area of higher blood loss will override a previous shot in a lower blood loss area. The reverse is also true, making it unnecessary to fire at a fleeing animal that has a head wound since it has the fastest bleed out time. [Moose](./Moose.md) and [Cougar](./Cougar.md) do not bleed out and may require multiple shots to kill them.
 

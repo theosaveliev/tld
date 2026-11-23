@@ -8,7 +8,7 @@
 - [Walkthrough](#walkthrough)
 - [Utilizing scripted aurora event](#utilizing-scripted-aurora-event)
 - [Guaranteed Aurora Spawn](#guaranteed-aurora-spawn)
-- [Contents/Loot](#contentsloot)
+- [Contents/Loot](#contents-loot)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [Game History](#game-history)
@@ -97,7 +97,7 @@ Tested on Hardened survivor.
 
 ## Trivia
 
-Before the REDUX Update in December 2018, this bunker was a side quest given by Jeremiah as a [Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#Trust) reward. The bunker was called Jeremiah's Hideout.
+Before the REDUX Update in December 2018, this bunker was a side quest given by Jeremiah as a [Trust](./Cut%20%E2%80%94%20Discontinued%20Content.md#trust) reward. The bunker was called Jeremiah's Hideout.
 
 ## Gallery
 
@@ -107,6 +107,6 @@ Before the REDUX Update in December 2018, this bunker was a side quest given by 
 
 ## Game History
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.

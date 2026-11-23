@@ -69,5 +69,5 @@ Almost every floor of the mine has at least one area full of posionous chemical 
 
 ---
 
-[^1]: [https://youtu.be/Mv1kQlPK7xE?t=2184](https://youtu.be/Mv1kQlPK7xE?t=2184)
-[^2]: [https://youtu.be/K2iTYy7wHCc?t=48](https://youtu.be/K2iTYy7wHCc?t=48)
+[^1]: <https://youtu.be/Mv1kQlPK7xE?t=2184>
+[^2]: <https://youtu.be/K2iTYy7wHCc?t=48>

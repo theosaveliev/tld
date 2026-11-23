@@ -35,7 +35,7 @@
 | --- | --- |
 |  | [Bear](../assets/Bear.png) |
 | **Basic Information** |  |
-| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
+| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Role | Predator |
 | **Physical Information** |  |
 | Color | Black |
@@ -113,7 +113,7 @@ Bears will follow any player they detect and attack the player at close distance
 
 ### Baiting
 
-Bears are attracted by [Scent](./Scent.md). Baiting with dropped scent items while being pursued by a bear will distract them (unless charging). See: [Baiting](./Scent.md#Baiting/Decoys). ![A bear held at bay by a campfire.](../assets/Bear_Campfire_Close.png)_A bear held at bay by a campfire._
+Bears are attracted by [Scent](./Scent.md). Baiting with dropped scent items while being pursued by a bear will distract them (unless charging). See: [Baiting](./Scent.md#baiting-decoys). ![A bear held at bay by a campfire.](../assets/Bear_Campfire_Close.png)_A bear held at bay by a campfire._
 
 ### Limited Fear of Fire
 
@@ -333,58 +333,58 @@ _A bear during an [aurora](./Aurora.md)_
 
 ## Update history
 
-- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76)):**
+- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-76-fearless-navigator-update)):**
   - [General] Bear sound effects no longer play when a carcass is removed from the world.
 
-- HOTFIX **1 November 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.62)):**
+- HOTFIX **1 November 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-62)):**
   - Fixed Bears resetting to their dens after loading a save.
 
-- HOTFIX **28 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.61)):**
+- HOTFIX **28 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-61)):**
   - Fixed issue that caused Bears to sometimes spawn under the map.
 
-- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.52)):**
+- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-52)):**
   - [Survival Mode] Tuned damage dealt to Bears and Moose when using the Revolver.
 
-- HOTFIX **8 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.49)):**
+- HOTFIX **8 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-49)):**
   - Tuned Revolver effectiveness when used against Moose (reduced) and reduced critical chance against Bears.
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - [Survival Mode] Fixed Bear spawning in terrain in Mystery Lake
   - [All] Bear breath effect optimization
   - [PS4] Fixed missing Bear breath
 
-- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.36)):**
+- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-36)):**
   - [ALL] Fixed issue where injured Bears reset their status when players enter an interior or Pass Time.
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - [All] Fixed Bear becoming stuck in animation when not in player’s view.
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-27)):**
   - [Survival Mode] Fixed issue where Bears could be stuck on broken ice in Desolation Point.
   - [Both] Crouching close to Bears no longer lets players move inside the carcass.
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - [Both] Fixed issue where player camera would be inside the Bear mesh during carcass harvesting.
 
-- HOTFIX **16 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.10)):**
+- HOTFIX **16 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-10)):**
   - Fixed issue with a series of multiple exertion sounds being played after a Bear struggle.
 
-- HOTFIX **3 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.02)):**
+- HOTFIX **3 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-02)):**
   - Fixed the Bear struggle.
 
-- HOTFIX **12 January 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.392)):**
+- HOTFIX **12 January 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-392)):**
   - Fixed issue with drawn Survival Bow movement speed retained after Wolf or Bear struggle
 
-- HOTFIX **21 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.388)):**
+- HOTFIX **21 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-388)):**
   - Fixed bear getting stuck inside rail car in Forlorn Muskeg region
 
-- HOTFIX **25 May 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338)):**
+- HOTFIX **25 May 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-338)):**
   - Fixed issue with Bears running too slowly.
 
-- HOTFIX **30 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.332)):**
+- HOTFIX **30 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-332)):**
   - [BUG] Fixed issue with bears not respawning.
 
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Delay condition-loss from Bear struggle until the struggle animation is complete. (This does not apply to Wolf struggles.)
   - Improved the Bear model and texture.
   - Improved the Bear animations.
@@ -392,19 +392,19 @@ _A bear during an [aurora](./Aurora.md)_
   - Bears are now spawned facing outwards from Dens. This helps fix some pathing issues when the bear attempts to leave the Den.
   - Fixed issue with Bear playing sleep animations after leaving the sleep AI state.
 
-- UPDATE **14 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.226)):**
+- UPDATE **14 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-226)):**
   - Bears have now migrated to all regions of the game world.
 
-- UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - Added new Bear "smelling" and "standing" animations.
   - Wolves and Bears will stop attacking when the player falls through the ice.
   - Fixed issue with player health being reset to 100% if loading a save after a Bear attack.
 
-- HOTFIX **10 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.193)):**
+- HOTFIX **10 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-193)):**
   - Fixed some bear AI detection and reaction issues.
   - Re-balanced harvestable meat and gut yield for Bear, as well as Caloric value of Bear meat.
 
-- UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
+- UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192)):**
   - Added to game.
 
 ## Notes
@@ -413,4 +413,4 @@ _A bear during an [aurora](./Aurora.md)_
 
 [^1]: If carcass is harvested
 [^2]: If carcass is quartered.
-[^3]: BladesTLD, 2023. EVERYTHING you need to know about BEARS (spawning, stats, hunting strategies) [The Long Dark]. YouTube. [https://www.youtube.com/watch?v=3fuvFGDRtiE](https://www.youtube.com/watch?v=3fuvFGDRtiE)
+[^3]: BladesTLD, 2023. EVERYTHING you need to know about BEARS (spawning, stats, hunting strategies) [The Long Dark]. YouTube. <https://www.youtube.com/watch?v=3fuvFGDRtiE>

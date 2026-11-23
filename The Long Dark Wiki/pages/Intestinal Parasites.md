@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) |
+| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Update | 0.321 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -77,5 +77,5 @@ With a stockpile of Antibiotics/Reishi Tea/Burdock Tea, a strategy is to run the
 
 ## Game History
 
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
 - Added to game in Tireless Menace Update.

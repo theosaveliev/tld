@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png) |
-| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -33,7 +33,7 @@ _For the version encountered in [Wintermute](./Wintermute.md), see [Advanced Gun
 
 ## Research info
 
-_Advanced Guns Guns Guns!_ can be researched for 25 hours, which can be broken into multiple research sessions. 10 [Rifle Firearm skill points](./Rifle%20Firearm.md#Skill_levels) are awarded on completing the research.
+_Advanced Guns Guns Guns!_ can be researched for 25 hours, which can be broken into multiple research sessions. 10 [Rifle Firearm skill points](./Rifle%20Firearm.md#skill-levels) are awarded on completing the research.
 
 Research can only be performed under the following conditions:
 
@@ -68,5 +68,5 @@ Research can only be performed under the following conditions:
 
 ## Update history
 
-- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**
+- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346)):**
   - Added to game.

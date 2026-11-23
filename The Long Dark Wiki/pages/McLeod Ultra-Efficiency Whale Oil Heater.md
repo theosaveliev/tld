@@ -10,7 +10,7 @@
 - [Disadvantages](#disadvantages)
 - [Harvesting](#harvesting)
 - [Repair](#repair)
-- [Game History](#game-history)
+- Game History
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
 

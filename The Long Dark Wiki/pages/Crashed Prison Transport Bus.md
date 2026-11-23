@@ -38,7 +38,7 @@ Has no shelter
 
 Missions
 
-[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

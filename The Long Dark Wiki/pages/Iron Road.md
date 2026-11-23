@@ -21,7 +21,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [References](#references)
-- [Links](#links)
+- Links
 
 ![Iron Road logo](../assets/Iron_Road_logo.png)
 
@@ -29,7 +29,7 @@
 >
 > — Restore and activate a century-old train to travel deep along this forgotten caldera to uncover a dark secret. What you discover in the end will change how you survive in this Aurora-bathed world, forever. Official Marketing
 
-**_Iron Road_** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the Second expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, and will be released in 5 major parts over the course of several years.
+**_Iron Road_** is [downloadable content](./The%20Long%20Dark.md#downloadable-addon-content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the Second expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, and will be released in 5 major parts over the course of several years.
 
 Early Access launched October 27th, 2026 on Steam only. Updates are planned to be a balance of small and large updates. News regarding other platforms is to be announced.
 
@@ -56,7 +56,7 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 
 ### New Regions
 
-- Access to [Anna Island](./Cauldron%20Island.md#Anna_Island) with multiple new Regions:
+- Access to [Anna Island](./Cauldron%20Island.md#anna-island) with multiple new Regions:
   - [Port Remnant](./Port%20Remnant.md)
   - [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)
   - [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)

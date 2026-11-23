@@ -8,7 +8,7 @@
 - [Signal Void](#signal-void)
 - [Buried Echoes](#buried-echoes)
 - [Last Horizon](#last-horizon)
-- [Sutherland's Tale](#sutherlands-tale)
+- [Sutherland's Tale](#sutherland-s-tale)
 - [Notes](#notes)
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

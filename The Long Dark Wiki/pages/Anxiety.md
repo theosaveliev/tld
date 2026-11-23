@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Anxiety icon](../assets/Anxiety_icon.png) |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
 | Update | 1.86 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |

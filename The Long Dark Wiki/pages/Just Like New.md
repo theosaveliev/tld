@@ -19,5 +19,5 @@ Navigate the [Steam Tunnels](./Steam%20Tunnels.md) and "fix" the locking mechani
 
 ## Game History
 
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update)):**
   - Added to game.

@@ -56,5 +56,5 @@ Deerskin boots are comparable to the rare [Mukluks](./Mukluks.md), which are 0.5
 
 ## Update history
 
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Added to game

@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181) |
+| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -72,7 +72,7 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 
 ## Update history
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-27)):**
   - [Wintermute] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Added to game.

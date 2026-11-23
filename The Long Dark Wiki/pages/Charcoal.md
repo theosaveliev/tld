@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Charcoal icon](../assets/Charcoal_icon.png) |
-| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423) |
+| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -33,7 +33,7 @@
 
 ## Overview
 
-It can be acquired easily after [lighting a fire](./Fire%20Starting.md) and allowing it to burn out or by looting containers, either outdoors or in a [firebox](./Fire.md#Contained_fires). Once a fire has burned out, the charcoal can be looted from the remnants. Stoves and naturally-generated campfires normally already contain some charcoal.
+It can be acquired easily after [lighting a fire](./Fire%20Starting.md) and allowing it to burn out or by looting containers, either outdoors or in a [firebox](./Fire.md#contained-fires). Once a fire has burned out, the charcoal can be looted from the remnants. Stoves and naturally-generated campfires normally already contain some charcoal.
 
 A fire must burn for at least one hour before charcoal will generate after the fire burns out. Charcoal will continue to "pile up" as wood is burned in a firebox/campfire, and will not be destroyed even when new fires are started (Charcoal generated will always stay in that firebox until it is removed).
 
@@ -71,7 +71,7 @@ If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot 
 
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Inventory icon updated.
-- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
+- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update)):**
   - Added to game.

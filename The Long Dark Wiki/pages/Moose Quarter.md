@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Moose Quarter icon](../assets/Moose_Quarter_icon.png) |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | Section of a Moose carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat. |
@@ -29,5 +29,5 @@ Each moose quarter will always have useable meat equal to 50% of the total weigh
 
 ## Update history
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - Added to game.

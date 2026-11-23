@@ -24,7 +24,7 @@
 | --- | --- |
 |  | [Timberwolf](../assets/Timberwolf.png) |
 | **Basic Information** |  |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Role | Predator |
 | **Physical Information** |  |
 | Color | Grey/White |
@@ -66,7 +66,7 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 
 Unlike common Wolves, Timberwolves do not 'stalk' the player, instead howling upon detection and attacking as a pack. Timberwolves will attempt to encircle the player and take turns diving in for attacks, either as a Struggle or as a "drive-by" hit and run attacks whereby they damage the player and briefly retreat. In [Wintermute](./Episode%203%20-%20Crossroads%20Elegy.md), Timberwolves will also attack rescued [survivors](./Crash%20Survivor.md) lying on the ground.
 
-- Timberwolves are drawn to [Scent](./Scent.md) of meat, [Baiting](./Scent.md#Baiting/Decoys) decoys, or [Blood Loss](./Blood%20Loss.md).
+- Timberwolves are drawn to [Scent](./Scent.md) of meat, [Baiting](./Scent.md#baiting-decoys) decoys, or [Blood Loss](./Blood%20Loss.md).
 - Timberwolves will individually hunt [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), and [Deer](./Deer.md), but flee from [Bears](./Bear.md) and [Moose](./Moose.md). A pack will initiate a hunt if they detect the player even when feeding on slain prey.
 - Lone Timberwolves (when the rest of its pack has been killed) always flee from the player.
 - Only one Timberwolf will attack the player a time. Aiming a weapon at a hostile Timberwolf which is not currently attacking may cause it to briefly pause.
@@ -193,7 +193,7 @@ Following the Wildlife Refresh ([December 2024](./Tales%20from%20the%20Far%20Ter
 
 - Timberwolves are based on [Eastern Wolves](https://en.wikipedia.org/wiki/Eastern_wolf), or the Algonquin Timber Wolf (**_Canis lycaon**''), and are a Canine subspecies of the regular [Wolf](./Wolf.md) (**_Canis lupus**'').
 - Timberwolves will spawn during blizzards in both story and survival mode.
-- Timberwolves would ironically be absent from the titular [Timberwolf Mountain](./Timberwolf%20Mountain.md) when it was released in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).
+- Timberwolves would ironically be absent from the titular [Timberwolf Mountain](./Timberwolf%20Mountain.md) when it was released in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212).
   - Timberwolves were added in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) (V1.60) in Wintermute, then to Survival Mode with the Errant Pilgrim update (V1.64).
   - Timberwolves would finally have a chance to appear in the Timberwolf Mountain region with the Global Wildlife Refresh in the Part 6 Tales from the Far Territory update (V2.33).
 - "The Timberwolf" is a track that originally played during timberwolf encounters in Wintermute Episode 3, later removed in an update. The track is still available to listen to on composer Cris Velasco's website.[^3]
@@ -224,43 +224,43 @@ _Concept art of Timberwolves at the [Fallen Lighthouse](./Fallen%20Lighthouse.md
 
 ## Update history
 
-- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
+- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-79)):**
   - [Gameplay] Fixed an issue that prevented Timberwolves Pack Morale from being drained when using the Flashlight’s high beam.
   - [WINTERMUTE] Timberwolves will now react to the Flashlight when appearing in WINTERMUTE.
 
-- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-71)):**
   - [EP3] Players can no longer skip the Timberwolf Tutorial, by placing a survivor at the same time the tutorial triggers.
   - [AI] Fixed an issue that allowed Timberwolves to become hostile, regardless of game mode settings.
   - [AI] Fixed issue that prevented Timberwolves from attacking the Player, if they have entered and exited a vehicle.
   - [AI] Timberwolves will now only pick valid locations to wander to, preventing them from becoming stuck.
 
-- HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**
+- HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-69)):**
   - [AI] Timberwolves will no longer freeze in place if they try to attack a target they can’t pathfind to.
   - [Animation] Pass on Timberwolves to fix numerous animation pops and hitches.
   - [Audio] When joining a pack, Timberwolf howls are no longer cut off or repeated.
 
-- HOTFIX **14 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.66)):**
+- HOTFIX **14 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-66)):**
   - [WINTERMUTE] Timberwolf carcasses no longer disappear if the Player saves, then reloads.
   - [Survival] Timberwolves will now hunt prey, as intended.
   - [AI] Added additional line of sight check to Timberwolves, to prevent attacks through walls and out of reach locations.
   - [AI] Timberwolves will now break-off their attack if a Marine Flare is lit, before the struggle occurs.
   - [AI] Timberwolves can no longer flee to excessive distances.
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update)):**
   - [WINTERMUTE] Male survivor vocalization no longer plays when Astrid is attacked by Timberwolves.
   - [WINTERMUTE] Timberwolves now react properly to Marine Flares.
 
-- HOTFIX **1 November 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.62)):**
+- HOTFIX **1 November 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-62)):**
   - Fixed issue that caused players to be forced out of aim when attacked by a Timberwolf.
   - Adjusted the distance which Timberwolves will hold ground when the player is holding a lit Marine Flare.
   - Fixed Timberwolves howling more than intended.
   - Fixed Timberwolf corpses resetting after transitioning indoors.
 
-- HOTFIX **29 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.61)):**
+- HOTFIX **29 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-61)):**
   - Fixed Timber Wolves Morale bar resetting if they fled during the Tutorial.
   - Fixed issue preventing Timber Wolves from transitioning to and from Aurora state.
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game
 
 == References ==  **Template:wildlife** [ru:Лесной волк](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA)

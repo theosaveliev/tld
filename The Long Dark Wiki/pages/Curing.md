@@ -6,7 +6,7 @@
 
 ## Overview
 
-Some raw resources from [plants](./Wildlife.md#Plant_and_Fungal_Species) and [animals](./Wildlife.md) cannot be used for crafting in their initial state, and must first be cured: these include [Birch Sapling](./Green%20Birch%20Sapling.md) and [Maple Sapling](./Green%20Maple%20Sapling.md), all types of [Animal Pelts/Hides](https://thelongdark.fandom.com/wiki/Materials#Fresh_Hides), and [Fresh Gut](./Fresh%20Gut.md) from animals.
+Some raw resources from [plants](./Wildlife.md#plant-and-fungal-species) and [animals](./Wildlife.md) cannot be used for crafting in their initial state, and must first be cured: these include [Birch Sapling](./Green%20Birch%20Sapling.md) and [Maple Sapling](./Green%20Maple%20Sapling.md), all types of [Animal Pelts/Hides](https://thelongdark.fandom.com/wiki/Materials#Fresh_Hides), and [Fresh Gut](./Fresh%20Gut.md) from animals.
 
 These items may be cured by dropping them on the floor or otherwise placing them inside an 'indoors' location (most caves and artificial structures, including many without a Loading Transition, such as the [Stone Church](./Stone%20Church.md) and [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)). As these raw items continue to lay on the floor indoors, they will display a "X% Cured" progress by looking at the item, showing their current status until they become fully cured. This increases until the item is 100% cured, where the item will automatically become fully cured will change to a darker texture, and is ready for crafting use.
 

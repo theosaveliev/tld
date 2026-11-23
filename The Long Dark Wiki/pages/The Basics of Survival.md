@@ -10,7 +10,7 @@
 - [Mending clothing](#mending-clothing)
 - [Preparing natural medicine](#preparing-natural-medicine)
 - [Reishi Mushrooms](#reishi-mushrooms)
-- [Old Man's Beard Lichen](#old-mans-beard-lichen)
+- [Old Man's Beard Lichen](#old-man-s-beard-lichen)
 - [Rose Hips](#rose-hips)
 - [Snaring a rabbit](#snaring-a-rabbit)
 - [Rewards](#rewards)
@@ -89,7 +89,7 @@ A total of 72 [Rose Hips](./Rose%20Hip.md) are required to craft 3 [Prepared Ros
 
 There are [rabbits](./Rabbit.md) located around the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) area for the survivor to snare; alternatively, there are rabbits located near the pond at the [Radio Tower](./Radio%20Tower.md) behind Grey Mother's House.
 
-It is not necessary to go and harvest the Snare, as the mission will complete[^2] the moment a Snare checks for a rabbit catch and succeeds (more on [Snare Mechanics](./Snare.md#Snare_Mechanics) here).
+It is not necessary to go and harvest the Snare, as the mission will complete[^2] the moment a Snare checks for a rabbit catch and succeeds (more on [Snare Mechanics](./Snare.md#snare-mechanics) here).
 
 ## Rewards
 
@@ -99,15 +99,15 @@ It is not necessary to go and harvest the Snare, as the mission will complete[^2
 
 ## Update History
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - [WINTERMUTE] Updated description for the side mission “Basics of Survival: Find and harvest some medicinal flora native to Great Bear Island."
 
 ## Notes
 
 ---
 
-[^1]: [https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487](https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487) Raphael van Lierop, 18 December 2018
+[^1]: <https://hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/page/5/?tab=comments#comment-149487> Raphael van Lierop, 18 December 2018
 [^2]: At least on my playthrough, the trap was placed in the rabbit grove near Alans cave in Mystery lake.

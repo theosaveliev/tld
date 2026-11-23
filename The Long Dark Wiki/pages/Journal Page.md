@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Journal Page icon](../assets/Journal_Page_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -29,5 +29,5 @@ I'll keep writing as long as my hands hold up. The old road can't all be broken.
 
 ## Update history
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Added to game.

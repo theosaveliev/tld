@@ -15,7 +15,7 @@
 | --- | --- |
 |  | [Lost and Found](../assets/Lost_and_Found.png) |
 | Release | 22 October 2019 |
-| Update | [1.60](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Update | [1.60](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Story item | No |
 | **Advanced data** |  |
 | Object key | GAMEPLAY\_InaccessibleGearContainer |
@@ -170,4 +170,4 @@ Lost and Found containers were first introduced in the [Crossroads Elegy](./Epis
 
 ---
 
-[^1]: Hinterland Support - "Lost & Found Boxes", [https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes](https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes)
+[^1]: Hinterland Support - "Lost & Found Boxes", <https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes>

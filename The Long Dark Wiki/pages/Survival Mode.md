@@ -27,7 +27,7 @@
 
 **Survival Mode** is the sandbox survival portion of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-During Survival Mode, the player may travel freely between all [Regions](./Region.md) of [Great Bear Island](./Great%20Bear%20Island.md), with the narrative created by their own actions and ability to survive. Survival Mode is a semi-permadeath experience; once the player [dies](./Condition.md#Death), the player can [Cheat Death](./Cheat%20Death.md) or choose to not continue (the later resulting in the save being wiped and it cannot be reloaded).
+During Survival Mode, the player may travel freely between all [Regions](./Region.md) of [Great Bear Island](./Great%20Bear%20Island.md), with the narrative created by their own actions and ability to survive. Survival Mode is a semi-permadeath experience; once the player [dies](./Condition.md#death), the player can [Cheat Death](./Cheat%20Death.md) or choose to not continue (the later resulting in the save being wiped and it cannot be reloaded).
 
 Players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Expansion will have access to unique content in Survival Mode, such as more tools, more Wildlife, and new Regions.
 

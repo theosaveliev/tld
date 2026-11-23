@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Coal icon](../assets/Coal_icon.png) |
-| Release | [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264) |
+| Release | [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -89,9 +89,9 @@ Some caves and mines have more coal the first time that one visits the location.
 
 ## Update history
 
-- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)):**
+- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update)):**
   - Fixed issue where players could add Coal to a fire at an invalid (too low) temperature
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Fixed issue with Coal sometimes spawning in air.
-- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
+- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update)):**
   - Added to game.

@@ -17,7 +17,7 @@
 
 ![Crafting Menu](../assets/Crafting_Menu.png)
 
-_For cooking recipes crafted at cooking stations, see [Cooking#Frontier Cooking Recipes](./Cooking.md#Frontier_Cooking_Recipes)._
+_For cooking recipes crafted at cooking stations, see [Cooking#Frontier Cooking Recipes](./Cooking.md#frontier-cooking-recipes)._
 
 ## Overview
 

@@ -72,5 +72,5 @@ The section from the transitional cave system to Forester's Hermitage is the sec
 
 ## Update history
 
-- UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98)):**
+- UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-98-perilous-constraint-update)):**
   - Added to game.

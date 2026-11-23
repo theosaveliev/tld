@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
@@ -64,13 +64,13 @@ Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at
 
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
 - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - Removed from the game as part of the Redux edition, however it is still in the game files and can sometimes be seen as a crafting icon in Survival Mode.
 
 ## Notes
 
 ---
 
-[^1]: [https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941](https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941)
+[^1]: <https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941>

@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Stick icon](../assets/Stick_icon.png) |
-| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256) |
+| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -71,5 +71,5 @@ It's commonly believed that sticks respawn after strong winds or blizzards, but 
 
 ## Update history
 
-- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**
+- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update)):**
   - Added to game.

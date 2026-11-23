@@ -16,7 +16,7 @@
 - [Transmitter Parts](#transmitter-parts)
 - [Camera](#camera)
 - [Other](#other)
-- [Sutherland's Tale](#sutherlands-tale)
+- [Sutherland's Tale](#sutherland-s-tale)
 - [Wintermute Exclusive](#wintermute-exclusive)
 - [Cut Tools](#cut-tools)
 
@@ -125,7 +125,7 @@
 | [Sewing Kit icon](../assets/Sewing_Kit_icon.png) | [Sewing Kit](./Sewing%20Kit.md) | [Mending](./Mending.md) | 0.10 kg; _(0.22 lb)_ | - Allows players to repair damaged clothing or craft new [clothing](./Clothing.md) with the appropriate materials. |
 | [Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) | [Fishing Tackle](./Fishing%20Tackle.md) | [Mending](./Mending.md) | 0.02 kg; _(0.044 lb)_ | - Allows players to repair damaged clothing or craft new [clothing](./Clothing.md) with the appropriate materials. |
 | [Firearm Cleaning Kit icon](../assets/Firearm_Cleaning_Kit_icon.png) | [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) | [Cleaning](./Cleaning.md) | 0.10 kg; _(0.22 lb)_ | - Allows players to repair damaged [hunting rifle](./Hunting%20Rifle.md) and [revolver](./Revolver.md). |
-| [Whetstone icon](../assets/Whetstone_icon.png) | [Whetstone](./Whetstone.md) | [Sharpening](./Sharpening.md) | 0.10 kg; _(0.22 lb)_ | - Allows players to repair damaged [bladed tools](./Sharpening.md#Bladed_tools). |
+| [Whetstone icon](../assets/Whetstone_icon.png) | [Whetstone](./Whetstone.md) | [Sharpening](./Sharpening.md) | 0.10 kg; _(0.22 lb)_ | - Allows players to repair damaged [bladed tools](./Sharpening.md#bladed-tools). |
 | [Simple Tools icon](../assets/Simple_Tools_icon.png) | [Simple Tools](./Simple%20Tools.md) | [Repair](./Repair.md) | 1.00 kg; _(2.2 lb)_ | - Allows players to repair a variety of damaged tools. |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png) | [Quality Tools](./Quality%20Tools.md) | [Repair](./Repair.md) | 0.75 kg; _(1.65 lb)_ | - Allows players to repair a variety of damaged tools at a better rate. |
 

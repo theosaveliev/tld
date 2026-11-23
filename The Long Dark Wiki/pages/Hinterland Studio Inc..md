@@ -43,7 +43,7 @@ Hinterland utilizes a distributed model, in which employees may work from locati
 
 ## Trivia
 
-- The names of studio employees are hidden throughout the game, such as in the [Crashed Prison Transport Bus manifest](./Crashed%20Prison%20Transport%20Bus.md#Prison_Transport_Manifest), as well as in the names of several locations, such as:
+- The names of studio employees are hidden throughout the game, such as in the [Crashed Prison Transport Bus manifest](./Crashed%20Prison%20Transport%20Bus.md), as well as in the names of several locations, such as:
   - [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md)
   - [Andre's Peak](./Andre%27s%20Peak.md)
   - [Max's Last Stand](./Max%27s%20Last%20Stand.md)

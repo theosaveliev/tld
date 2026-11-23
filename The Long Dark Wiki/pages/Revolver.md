@@ -259,7 +259,7 @@ _A Revolver found hidden behind a [Grate](./Grate.md)_
 
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game.
 
 ## References
@@ -270,4 +270,4 @@ _A Revolver found hidden behind a [Grate](./Grate.md)_
 
 ---
 
-[^1]: [https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/](https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/)
+[^1]: <https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/>

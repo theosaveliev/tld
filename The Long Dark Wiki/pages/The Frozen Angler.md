@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png) |
-| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -34,7 +34,7 @@ _For the version encountered in [Wintermute](./Wintermute.md), see [The Frozen A
 
 ## Research info
 
-_The Frozen Angler_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Ice Fishing skill points](./Ice%20Fishing.md#Skill_levels) are awarded on completing the research.
+_The Frozen Angler_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Ice Fishing skill points](./Ice%20Fishing.md#skill-levels) are awarded on completing the research.
 
 Research can only be performed under the following conditions:
 
@@ -69,5 +69,5 @@ Research can only be performed under the following conditions:
 
 ## Update history
 
-- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**
+- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346)):**
   - Added to game.

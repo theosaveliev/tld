@@ -8,7 +8,7 @@
 - [Climbing](#climbing)
 - [Action](#action)
 - [Ledges](#ledges)
-- [Slipping/Falls](#slippingfalls)
+- [Slipping/Falls](#slipping-falls)
 - [Descending](#descending)
 - [Deploying ropes](#deploying-ropes)
 - [Tips](#tips)
@@ -78,6 +78,6 @@ Note: Stamina for climbing is not affected by the Sprint Penalty statistic of wo
 
 ## Game history
 
-Rope Climbing was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) also known as the Timberwolf Mountain update.
+Rope Climbing was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) also known as the Timberwolf Mountain update.
 
 ## References

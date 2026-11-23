@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Carcass Harvesting background](../assets/Carcass_Harvesting_background.png) |
-| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
 ![|left|alt=Carcass harvesting|80px](../assets/Carcass_Harvesting.png)

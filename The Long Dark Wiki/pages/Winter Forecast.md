@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Winter Forecast icon](../assets/Winter_Forecast_icon.png) |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Extra Supplies](./Extra%20Supplies.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -46,6 +46,6 @@ HEAVY SNOW AND RECORD LOW TEMPERATURES EXPECTED
 
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.

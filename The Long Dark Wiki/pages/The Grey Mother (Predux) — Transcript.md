@@ -9,15 +9,15 @@
 - [Stole from the Gas Station](#stole-from-the-gas-station)
 - [Did not steal from the Gas Station](#did-not-steal-from-the-gas-station)
 - [3rd Person Cutscene](#3rd-person-cutscene-1)
-- [Grey Mother seems tired. Try Talking to her after she's had some time to rest.](#grey-mother-seems-tired-try-talking-to-her-after-shes-had-some-time-to-rest)
+- [Grey Mother seems tired. Try Talking to her after she's had some time to rest.](#grey-mother-seems-tired-try-talking-to-her-after-she-s-had-some-time-to-rest)
 - [3rd Person Cutscene](#3rd-person-cutscene-2)
 - [Investigate the tunnels leading out of Milton. Grey Mother wants to know what happened there.](#investigate-the-tunnels-leading-out-of-milton-grey-mother-wants-to-know-what-happened-there)
-- [Grey Mother seems deep in thought. Return to her once she's rested a while.](#grey-mother-seems-deep-in-thought-return-to-her-once-shes-rested-a-while)
+- [Grey Mother seems deep in thought. Return to her once she's rested a while.](#grey-mother-seems-deep-in-thought-return-to-her-once-she-s-rested-a-while)
 - [Something precious was stolen from Grey Mother. Find it, and return it to her.](#something-precious-was-stolen-from-grey-mother-find-it-and-return-it-to-her)
 - [Search the Milton Farmhouse for a Safety Deposit Box Key.](#search-the-milton-farmhouse-for-a-safety-deposit-box-key)
 - [Retrieve the contents of the Safety Deposit Box and return it to Grey Mother.](#retrieve-the-contents-of-the-safety-deposit-box-and-return-it-to-grey-mother)
-- [Find Lily's grave marker and pay service to her memory.](#find-lilys-grave-marker-and-pay-service-to-her-memory)
-- [Grey Mother's Trust](#grey-mothers-trust)
+- [Find Lily's grave marker and pay service to her memory.](#find-lily-s-grave-marker-and-pay-service-to-her-memory)
+- [Grey Mother's Trust](#grey-mother-s-trust)
 
 **The Grey Mother (Predux)/Transcript**
 

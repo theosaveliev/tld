@@ -22,7 +22,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Handheld Shortwave Radio icon](../assets/Handheld_Shortwave_Radio_icon.png) |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | Signal Void |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -86,5 +86,5 @@ As per the Part 4 update, the radio cannot be dropped or placed in containers. T
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)):**
   - Added to game.

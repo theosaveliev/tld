@@ -13,7 +13,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Respirator icon](../assets/Respirator_icon.png) |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | yes |
 | **Properties** |  |
 | Item type | [First Aid](./First%20Aid.md) |
@@ -55,5 +55,5 @@ Keep in mind that wearing a Respirator prevents a player from eating or drinking
 
 ## Update history
 
-- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update)):**
   - Added to game.

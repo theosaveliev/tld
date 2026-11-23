@@ -6,7 +6,7 @@
 
 - [Transcript](#transcript)
 - [Molly](#molly)
-- [Molly's Farmhouse.](#mollys-farmhouse)
+- [Molly's Farmhouse.](#molly-s-farmhouse)
 - [Molly has phoned from her barn, and she needs your help.](#molly-has-phoned-from-her-barn-and-she-needs-your-help)
 - [Find someone who can help guide you out of Pleasant Valley.](#find-someone-who-can-help-guide-you-out-of-pleasant-valley)
 
@@ -21,7 +21,7 @@
 | Current | Trauma/Transcript |
 | Next | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene) |
-| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#radio-voice-man) (opening cutscene) |
 
 This is the mission transcript for mission 1 [Trauma](./Trauma.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
@@ -61,7 +61,7 @@ _Scene shifts to show the Aurora humming in the night sky_
 
 _Scene shifts to show Jeremiah, then to Mackenzie turning on the shortwave radio_
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...[static]... This is...Mills...come in..."
+[Radio Voice Man](./Characters.md#radio-voice-man): "...[static]... This is...Mills...come in..."
 
 Mackenzie: "Hello? Is this the radio station at Perseverance Mills? Is there a doctor with you?"
 

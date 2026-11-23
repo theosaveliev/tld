@@ -23,7 +23,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Stay on Target icon](../assets/Stay_on_Target_icon.png) |
-| Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
+| Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -39,7 +39,7 @@
 
 ## Research
 
-_Stay on Target_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Archery skill points](./Archery.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_Stay on Target_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Archery skill points](./Archery.md#skill-levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -106,5 +106,5 @@ _Stay on Target_ will also spawn inside the Hunting variant of the [Prepper Cach
 
 ## Update history
 
-- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)):**
+- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update)):**
   - Added to game.

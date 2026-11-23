@@ -16,7 +16,7 @@
 - [Coastal Highway](#coastal-highway)
 - [Desolation Point](#desolation-point)
 - [Forsaken Airfield (TFTFT Only)](#forsaken-airfield-tftft-only)
-- [Keeper's Pass North](#keepers-pass-north)
+- [Keeper's Pass North](#keeper-s-pass-north)
 - [Mystery Lake](#mystery-lake)
 - [Mountain Town](#mountain-town)
 - [Pleasant Valley](#pleasant-valley)
@@ -33,7 +33,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) |
+| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) |
 | Wintermute | yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -237,5 +237,5 @@ Note: guaranteed spawn, other difficulties have rifle spawn instead of distress 
 
 ## Update history
 
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Added to game.

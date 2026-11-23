@@ -5,20 +5,20 @@
 **Contents**
 
 - [Warmth](#warmth)
-- [1/3rd depleted](#13rd-depleted)
-- [2/3rd depleted](#23rd-depleted)
+- [1/3rd depleted](#1-3rd-depleted)
+- [2/3rd depleted](#2-3rd-depleted)
 - [Freezing](#freezing)
 - [Fatigue](#fatigue)
-- [1/3rd depleted](#13rd-depleted-1)
-- [2/3rd depleted](#23rd-depleted-1)
+- 1/3rd depleted
+- 2/3rd depleted
 - [Fully depleted](#fully-depleted-2)
 - [Hunger](#hunger)
-- [1/2 depleted](#12-depleted)
-- [3/4 depleted](#34-depleted)
+- [1/2 depleted](#1-2-depleted)
+- [3/4 depleted](#3-4-depleted)
 - [Fully depleted](#fully-depleted-1)
 - [Thirst](#thirst)
-- [1/2 depleted](#12-depleted-1)
-- [3/4 depleted](#34-depleted-1)
+- 1/2 depleted
+- 3/4 depleted
 - [Fully depleted](#fully-depleted-2)
 - [Find item](#find-item)
 - [Find food](#find-food)

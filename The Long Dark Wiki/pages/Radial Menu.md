@@ -38,7 +38,7 @@ By default, the PC keys 1, 2, 3, and 4 can be used to bypass having to manually 
 
 - 1 cycles through held Light Sources
 - 2 cycles through held Weapons
-- 3 drops 1 piece of cooked or raw meat/1 [Fresh Gut](./Fresh%20Gut.md) in the player's inventory onto the ground ([Drop Decoys](./Scent.md#Baiting/Decoys))
+- 3 drops 1 piece of cooked or raw meat/1 [Fresh Gut](./Fresh%20Gut.md) in the player's inventory onto the ground ([Drop Decoys](./Scent.md#baiting-decoys))
 - 4 creates a Campfire
 - F accesses the Status menu
 - M accesses the Map
@@ -75,7 +75,7 @@ Generally, weapons in the player's inventory selected with the 2 key will cycle 
 
 ## Drop Decoys
 
-Drop Decoys will access any raw or cooked meat in the player's inventory and allows them to instantly drop these items on the ground for the purposes of [Baiting](./Scent.md#Baiting/Decoys).
+Drop Decoys will access any raw or cooked meat in the player's inventory and allows them to instantly drop these items on the ground for the purposes of [Baiting](./Scent.md#baiting-decoys).
 
 ## Navigation
 

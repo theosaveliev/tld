@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [On the Nature of Darkwalkers icon](../assets/On_the_Nature_of_Darkwalkers_icon.png) |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -38,6 +38,6 @@ Darkwalkers spread fear and feed on oblivion - knowledge will help you defeat th
 
 ## Update history
 
-\* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)):**
+\* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86)):**
 
 - Added to game.

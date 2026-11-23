@@ -103,4 +103,4 @@ Proficiency in the primary survival skill Revolver Firearm can affect the amount
 
 ## Trivia
 
-- The rifle cleaning mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298), also known as the Timberwolf Mountain update.
+- The rifle cleaning mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update), also known as the Timberwolf Mountain update.

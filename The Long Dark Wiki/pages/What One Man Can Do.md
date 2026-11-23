@@ -13,7 +13,7 @@
 | Current | What One Man Can Do |
 | Next | [Renewed Hope](./Renewed%20Hope.md) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| Characters | [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) |
+| Characters | [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#radio-voice-man) |
 
 **Template:spoiler**
 

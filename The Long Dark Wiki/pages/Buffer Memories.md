@@ -15,7 +15,7 @@
 - [Timberwolf Mountain](#timberwolf-mountain)
 - [Chasm Cave (4)](#chasm-cave-4)
 - [Coastal Highway](#coastal-highway)
-- [Fishing Camp/Rabbit Grove (5)](#fishing-camprabbit-grove-5)
+- [Fishing Camp/Rabbit Grove (5)](#fishing-camp-rabbit-grove-5)
 - [Quonset Garage (3)](#quonset-garage-3)
 - [Desolation Point](#desolation-point)
 - [Lonely Lighthouse (4)](#lonely-lighthouse-4)
@@ -46,8 +46,8 @@ Buffer Memories are only active and obtainable during an [Aurora](./Aurora.md); 
 | Location | Region | Number of memories |
 | --- | --- | --- |
 | [Camp Office](./Camp%20Office.md) | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | 5 |
-| [Carter Hydro Dam - Lower](./Carter%20Hydro%20Dam.md#Lower_Levels) | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | 5 |
-| [Carter Hydro Dam - Upper](./Carter%20Hydro%20Dam.md#Upper_Levels) | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | 5 |
+| [Carter Hydro Dam - Lower](./Carter%20Hydro%20Dam.md#lower-levels) | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | 5 |
+| [Carter Hydro Dam - Upper](./Carter%20Hydro%20Dam.md#upper-levels) | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | 5 |
 | [Chasm Cave](./Chasm%20Cave.md) | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | 4 |
 | [Fishing Camp](./Fishing%20Camp.md)/[Rabbit Grove](./Rabbit%20Grove.md) | [Coastal Highway](./Coastal%20Highway.md) | 5 |
 | [Hibernia Processing](./Hibernia%20Processing.md) | [Desolation Point](./Desolation%20Point.md) | 5 |

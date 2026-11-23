@@ -75,6 +75,6 @@ There is currently not enough ammunition to lower a Shotgun's Condition enough t
 
 ## Game History
 
-\* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
+\* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-52)):**
 
 - Added to game.

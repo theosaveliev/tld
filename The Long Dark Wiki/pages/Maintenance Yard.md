@@ -20,7 +20,7 @@
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
 |  | Has an interior |
 | **Wintermute** |  |
-| Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle?) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense) |
+| Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#the-best-defense) |
 
 **Maintenance Yard** is a location in [Broken Railroad](./Broken%20Railroad.md).
 
@@ -28,7 +28,7 @@
 
 The maintenance yard consists of a building, a large outdoor area, and a few partially open outbuildings, all mostly enclosed by a chainlink fence. Surrounding the main warehouse-like building are various industrial materials and [vehicles](./Car.md). There are plenty of crates and pallets in the yard. The main building houses a partially dismantled truck on a lift, numerous containers, and a bed, as well as a [workbench](./Work%20Bench.md). A small gatehouse sits near the main entrance to the yard. UNLIKE other inside spaces you can build a campfire inside on most of the snowy areas inside the maintenance yard building.
 
-The Maintenance Yard is a suitable safe house, as it has a fire barrel, workbench, and bed inside, plus lots of storage and materials to break down. There is also a relatively sheltered office area attached to the side of the main warehouse. It contains a bed and keeps out predators, but it is partially open to the elements and does not have a loading screen when entering. If the player is dressed warmly, it may be a suitable sleeping location, particularly if trying to prevent or treat [Cabin Fever](./Cabin%20Fever.md). Next to the outside [bed](./Bed.md) is one of the [Radios](./Trader.md#Radio_Locations) necessary to contact the Trader (if enabled).
+The Maintenance Yard is a suitable safe house, as it has a fire barrel, workbench, and bed inside, plus lots of storage and materials to break down. There is also a relatively sheltered office area attached to the side of the main warehouse. It contains a bed and keeps out predators, but it is partially open to the elements and does not have a loading screen when entering. If the player is dressed warmly, it may be a suitable sleeping location, particularly if trying to prevent or treat [Cabin Fever](./Cabin%20Fever.md). Next to the outside [bed](./Bed.md) is one of the [Radios](./Trader.md#radio-locations) necessary to contact the Trader (if enabled).
 
 A large hanging flag on the ceiling can be reached by entering [Safe House Customization](./Safehouse%20Customization.md) mode and moving one of the planks onto the raised platform containing [crates](./Crate.md), which must be moved out of the way first.
 

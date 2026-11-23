@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png) |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -42,4 +42,4 @@ Rheumatic Joints is a permanent Affliction unique to [Misery](./Misery.md) which
 
 ---
 
-[^1]: Bashrobe, 2024. Misery 101 - The Long Dark. [https://www.youtube.com/watch?v=YMcRsfXeva4](https://www.youtube.com/watch?v=YMcRsfXeva4)
+[^1]: Bashrobe, 2024. Misery 101 - The Long Dark. <https://www.youtube.com/watch?v=YMcRsfXeva4>

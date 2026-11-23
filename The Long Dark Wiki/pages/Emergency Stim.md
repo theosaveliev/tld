@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Emergency Stim icon](../assets/Emergency_Stim_icon.png) |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) |
+| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Wintermute | No |
 | Renewable | Yes ( [Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) No ([Interloper](./Interloper.md)) |
 | **Properties** |  |
@@ -54,7 +54,7 @@ Note: Afflictions such as [Broken Ribs](./Broken%20Ribs.md) (which prevents clim
 
 ## Spawn Locations
 
-Emergency Stims may be found rarely in most regions (8-10 across an entire world on [Interloper](./Survival%20Mode.md)) in high-tier loot areas, [First Aid Kits](./First%20Aid%20Kit.md), beside [Frozen Corpses](./Frozen%20Corpse.md), or hidden beneath/around furniture. They can also be acquired by trading with the [Trader](./Trader.md), but are only unlocked after reaching 400 [Trust](./Trader.md#Trust), and not on [Interloper](./Interloper.md) or [Misery](./Misery.md).
+Emergency Stims may be found rarely in most regions (8-10 across an entire world on [Interloper](./Survival%20Mode.md)) in high-tier loot areas, [First Aid Kits](./First%20Aid%20Kit.md), beside [Frozen Corpses](./Frozen%20Corpse.md), or hidden beneath/around furniture. They can also be acquired by trading with the [Trader](./Trader.md), but are only unlocked after reaching 400 [Trust](./Trader.md#trust), and not on [Interloper](./Interloper.md) or [Misery](./Misery.md).
 
 ### Guaranteed
 
@@ -95,5 +95,5 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 
 ## Update history
 
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Added to game.

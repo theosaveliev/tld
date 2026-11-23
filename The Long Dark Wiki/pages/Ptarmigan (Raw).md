@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -67,5 +67,5 @@ Ptarmigan (Raw) is harvested from a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

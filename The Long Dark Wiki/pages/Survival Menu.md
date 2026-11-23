@@ -32,7 +32,7 @@ With standard key bindings on PC, there are several ways to open the game menu. 
 - **J** will open the [Journal](./Journal.md)
 - **M** will open the [Map](./Map.md)
 - **K** will open [Crafting](./Crafting.md)
-- **G** will open [Cooking](./Cooking.md#Frontier_Comforts_Recipes)
+- **G** will open [Cooking](./Cooking.md)
 
 ## Status
 
@@ -98,7 +98,7 @@ The **K** key will access this menu.
 
 Shown as a cooking pot icon in the menu, the Recipe Book menu is used show the various [Cooking](./Cooking.md) Recipes that the player can use as part of the Frontier Cooking update. Because Recipes require multiple ingredients and are not simply 1 item cooking items, this menu is used to track all ingredients used to make each Recipe. Some Recipes contain a white star next to them, and will be unlocked when the player finds their specific Recipe when searching the island. Recipes cannot be created by hand from this menu like Crafting, and instead require an active [Fire](./Fire.md) source.
 
-_For more detailed information, see [Cooking](./Cooking.md#Frontier_Cooking_Recipes)_
+_For more detailed information, see [Cooking](./Cooking.md#frontier-cooking-recipes)_
 
 There are currently 3 submenus to choose from on the left side of the screen:
 

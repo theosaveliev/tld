@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [Cut Tools/Mechanics](#cut-toolsmechanics)
+- [Cut Tools/Mechanics](#cut-tools-mechanics)
 - [Brand](#brand)
 - [Brandishing](#brandishing)
 - [Shovel](#shovel)
@@ -25,22 +25,22 @@
 - [Searching Containers](#searching-containers)
 - [Calorie Store](#calorie-store)
 - [Drop Decoy](#drop-decoy)
-- [Item Model/Name Changes](#item-modelname-changes)
+- [Item Model/Name Changes](#item-model-name-changes)
 - [Fire Staring](#fire-staring)
 - [Clothing](#clothing)
 - [Food and Drink](#food-and-drink)
 - [First Aid](#first-aid)
 - [Tools](#tools)
 - [Materials](#materials)
-- [Old Survival Menu/UI backgrounds](#old-survival-menuui-backgrounds)
+- [Old Survival Menu/UI backgrounds](#old-survival-menu-ui-backgrounds)
 - [Survival Skills](#survival-skills)
 - [Clock and Time of day](#clock-and-time-of-day)
 - [Discontinued Wintermute Content](#discontinued-wintermute-content)
 - [The original Wintermute storyline](#the-original-wintermute-storyline)
-- [Hatch in Trapper's Homestead Floorboards](#hatch-in-trappers-homestead-floorboards)
+- [Hatch in Trapper's Homestead Floorboards](#hatch-in-trapper-s-homestead-floorboards)
 - [Side Missions](#side-missions)
 - [Trust](#trust)
-- [Grey Mother's Trust](#grey-mothers-trust)
+- [Grey Mother's Trust](#grey-mother-s-trust)
 - [Items That Increase Trust](#items-that-increase-trust-1)
 - [Things that lose Trust](#things-that-lose-trust-1)
 - [Trust Levels And Unlocks](#trust-levels-and-unlocks-1)
@@ -48,15 +48,15 @@
 - [Things that lose Trust](#things-that-lose-trust-1)
 - [Trust Levels And Unlocks](#trust-levels-and-unlocks-1)
 - [3rd Person Cutscenes](#3rd-person-cutscenes)
-- [Jeremiah's Bearskin Coat](#jeremiahs-bearskin-coat)
+- [Jeremiah's Bearskin Coat](#jeremiah-s-bearskin-coat)
 - [Cut Tools](#cut-tools)
 - [Bolt Cutters](#bolt-cutters)
-- [Jeremiah's Knife](#jeremiahs-knife)
-- [Jeremiah's Broken Rifle and Hunting Lodge Rifle](#jeremiahs-broken-rifle-and-hunting-lodge-rifle)
+- [Jeremiah's Knife](#jeremiah-s-knife)
+- [Jeremiah's Broken Rifle and Hunting Lodge Rifle](#jeremiah-s-broken-rifle-and-hunting-lodge-rifle)
 - [Cut Collectibles](#cut-collectibles)
 - [Early Item Designs](#early-item-designs)
-- [Unused Icons/Textures](#unused-iconstextures)
-- [Cut Achievements/Badges](#cut-achievementsbadges)
+- [Unused Icons/Textures](#unused-icons-textures)
+- [Cut Achievements/Badges](#cut-achievements-badges)
 - [Discontinued Icons](#discontinued-icons)
 - [Afflictions](#afflictions)
 - [Skills](#skills)
@@ -272,7 +272,7 @@ Maximum Calories for the earliest time was capped at 3000 stored calories. It wa
 
 ### Drop Decoy
 
-Drop Decoy originally allowed you to drop any food in your inventory as [Baiting](./Scent.md#Baiting/Decoys) for predators. It was eventually changed so that only meat and guts could be dropped.
+Drop Decoy originally allowed you to drop any food in your inventory as [Baiting](./Scent.md#baiting-decoys) for predators. It was eventually changed so that only meat and guts could be dropped.
 
 ### Item Model/Name Changes
 
@@ -824,7 +824,7 @@ _Old [Needs](./Needs.md) HUD_
 
 ### Survival Skills
 
-The survival skills originally did not have a dedicated menu, but instead appeared when they were leveled up similarly to [Secondary Skills](./Skills.md#Secondary_skills). Eventually players could see their survival skills in the "basic skills" tab in a book, before it was changed to a modern-style book.
+The survival skills originally did not have a dedicated menu, but instead appeared when they were leveled up similarly to [Secondary Skills](./Skills.md#secondary-skills). Eventually players could see their survival skills in the "basic skills" tab in a book, before it was changed to a modern-style book.
 
 ![Skills journal3](../assets/Skills_journal3.png)
 
@@ -1533,4 +1533,4 @@ _[4DON](./4%20Days%20of%20Night%20Event.md) Version (Pre Alpha)_
 
 ---
 
-[^1]: [https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024](https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024)
+[^1]: <https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024>

@@ -51,5 +51,5 @@
 
 ---
 
-[^1]: [https://hinterlandforums.com/forums/topic/41415-known-issues-updated-march-7-2022/](https://hinterlandforums.com/forums/topic/41415-known-issues-updated-march-7-2022/)
-[^2]: [https://twitter.com/RaphLife/status/1505355247815823365](https://twitter.com/RaphLife/status/1505355247815823365)
+[^1]: <https://hinterlandforums.com/forums/topic/41415-known-issues-updated-march-7-2022/>
+[^2]: <https://twitter.com/RaphLife/status/1505355247815823365>

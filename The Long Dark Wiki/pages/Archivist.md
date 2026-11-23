@@ -70,7 +70,7 @@ The Buffer Memory in the Lower Dam should be given special consideration — dur
 
 Sparking wires are also of concern when accessing the Maintenance Shed buffer memory and the Hibernia Processing buffer memory.
 
-The North Tower and Chasm Cave buffer memories are outdoors. You should be prepared to face [aurora wolves](./Wolf.md#Aurora_wolves) when attempting to access these.
+The North Tower and Chasm Cave buffer memories are outdoors. You should be prepared to face [aurora wolves](./Wolf.md#aurora-wolves) when attempting to access these.
 
 ## Gallery
 

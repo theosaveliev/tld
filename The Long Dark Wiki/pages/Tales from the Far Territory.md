@@ -38,7 +38,7 @@
 
 > “__ Experience three unique regions, each with their own narrative objectives, and find your way through deep, twisting valleys littered with landmarks, landmarks that offer clues to unlocking the secrets of the land. Explore new items and gameplay mechanics that will challenge you to adapt to survive, and encounter new wildlife that inhabits these harsh and unforgiving territories. __”
 
-**_Tales from the Far Territory_** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the first expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, being released in 6 parts starting from December 5, 2022 and fully concluding on December 2, 2024.
+**_Tales from the Far Territory_** is [downloadable content](./The%20Long%20Dark.md#downloadable-addon-content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the first expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, being released in 6 parts starting from December 5, 2022 and fully concluding on December 2, 2024.
 
 ## Overview
 
@@ -136,7 +136,7 @@ Released June 21, 2023
   - [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md)
   - [Gold Nugget](./Gold%20Nugget.md): an item already introduced in Wintermute Episode 4 but now added to Survival Mode.
 
-- [Frontier Cooking Recipes](./Cooking.md#Frontier_Cooking_Recipes): A new cooking mechanic that combines ingredients and foods to create homecooked meals with helpful Affliction boosting/removing effects
+- [Frontier Cooking Recipes](./Cooking.md#frontier-cooking-recipes): A new cooking mechanic that combines ingredients and foods to create homecooked meals with helpful Affliction boosting/removing effects
   - [Skillet](./Cooking%20Skillet.md) pan for cooking new recipes
   - 24 cooking recipes (15 starting recipes and an additional 9 found on [Recipe Cards](./Recipe%20Cards.md) while exploring)
   - 7 new ingredients used for cooking recipes:
@@ -158,7 +158,7 @@ Released June 21, 2023
 
 - [Burdock](./Burdock.md) plants. Can be dug up for their [Roots](./Burdock%20Root.md), then can be [prepared and eaten raw](./Prepared%20Burdock.md) or be made into [Burdock Tea](./Burdock%20Tea.md)
 - Enhanced [Ice Fishing](./Ice%20Fishing.md) mechanic overhaul
-  - [Free-Form Ice Fishing Holes](./Ice%20Fishing.md#Free-Form_Ice_Fishing_Holes): Allows you to create your own fishing locations in regions that have sufficiently deep bodies of water via the Survival Menu
+  - [Free-Form Ice Fishing Holes](./Ice%20Fishing.md#free-form-ice-fishing-holes): Allows you to create your own fishing locations in regions that have sufficiently deep bodies of water via the Survival Menu
   - [Fishing Tip-Up](./Fishing%20Tip-Up.md) - a tool for trapping fish passively like a [Snare](./Snare.md)
   - [Fishing Bait](./Fishing%20Bait.md)
   - 4 [Fishing Lures](./Fishing%20Lure%20%28disambiguation%29.md):

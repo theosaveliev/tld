@@ -20,7 +20,7 @@
 
 ## Guide
 
-This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). The player must take 1 photo in each main [Region](./Region.md) of the game in The Far Territory and Lower Great Bear. Taking a photo in [Transition Zones](./Region.md#Transition_Zones) or indoors does not count towards unlocking this achievement.
+This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). The player must take 1 photo in each main [Region](./Region.md) of the game in The Far Territory and Lower Great Bear. Taking a photo in [Transition Zones](./Region.md#transition-zones) or indoors does not count towards unlocking this achievement.
 
 Since these are 16 regions to cover, targeting this could be combined with achieving the [Shutterbug](./Shutterbug.md), which is to shoot 30 photos, 10 with each of the 3 film types. By changing the film type for every photo and shooting 2 photo per region, the player achieves both achievements combined.
 

@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png) |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) no (Interloper) |
 | **Properties** |  |
@@ -44,5 +44,5 @@ MRE have a very low chance of causing [Food Poisoning](./Food%20Poisoning.md) an
 
 ## Update history
 
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

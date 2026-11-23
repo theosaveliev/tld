@@ -9,7 +9,7 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The 
 | Property | Details |
 | --- | --- |
 |  | [The Frozen Angler icon](../assets/The_Frozen_Angler_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -30,5 +30,5 @@ During the course of the mission, Mackenzie finds the book in a chair in [Camp O
 
 ## Update history
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - Added to game.

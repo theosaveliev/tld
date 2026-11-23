@@ -19,7 +19,7 @@
 
 Release
 
-[17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)
+[17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)
 
 Wintermute
 
@@ -98,9 +98,9 @@ Tomato Soup is relatively common inside homes: usually in cupboards or on shelfs
 
 ## Update history
 
-- HOTFIX **18 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.183)):**
+- HOTFIX **18 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-183)):**
   - Fixed typo in Tomato Soup description
   - Updated Tomato Soup drinking sounds
 
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Added to game.

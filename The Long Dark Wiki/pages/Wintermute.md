@@ -20,7 +20,7 @@
 - [Videos](#videos)
 - [References](#references)
 
-![Official release poster for Season 1: Wintermute](../assets/The_long_dark_poster2.jpg)_Official release poster for Season 1: Wintermute_ **_Wintermute_** is the story mode edition of _[The Long Dark](./The%20Long%20Dark.md)_ and is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content)_._ Originally launching on August 1, 2017 with 2 episodes, the story contains 5 episodes that concluded on March 31, 2026. The game mode was originally a part of the core game, but has since become Downloadable Content (but is free to players that owned _The Long Dark_ before 2022).
+![Official release poster for Season 1: Wintermute](../assets/The_long_dark_poster2.jpg)_Official release poster for Season 1: Wintermute_ **_Wintermute_** is the story mode edition of _[The Long Dark](./The%20Long%20Dark.md)_ and is [downloadable content](./The%20Long%20Dark.md#downloadable-addon-content)_._ Originally launching on August 1, 2017 with 2 episodes, the story contains 5 episodes that concluded on March 31, 2026. The game mode was originally a part of the core game, but has since become Downloadable Content (but is free to players that owned _The Long Dark_ before 2022).
 
 Unlike [Survival Mode](./Survival%20Mode.md), Wintermute is primarily targeted towards players who want to experience a more campaign-like experience; focusing on the worldbuilding and lore of [Great Bear Island](./Great%20Bear%20Island.md) and _The Long Dark's_ universe outside of the Island.
 

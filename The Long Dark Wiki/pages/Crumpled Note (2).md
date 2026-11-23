@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Crumpled Note (2) icon](../assets/Crumpled_Note_%282%29_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -30,6 +30,6 @@ _The following text is transcribed from **Crumpled Note**_
 
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.

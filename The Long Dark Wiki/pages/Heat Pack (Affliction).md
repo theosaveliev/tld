@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Heat Pack (Affliction) icon](../assets/Heat_Pack_%28Affliction%29_icon.png) |
-| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Update | 2.33 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -43,5 +43,5 @@ The Affliction icon is the same as [Warming Up](./Warming%20Up.md).
 
 ## Update history
 
-- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
+- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - Added to game

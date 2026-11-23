@@ -80,7 +80,7 @@ Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), a
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_&_2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
   - Added to game.
 
 ## Trivia

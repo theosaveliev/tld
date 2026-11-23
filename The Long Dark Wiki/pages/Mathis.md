@@ -30,7 +30,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Mathis](../assets/Mathis.png) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) / [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Mission | [Renewed Hope](./Renewed%20Hope.md) / [Prologue](./Prologue.md) / [Blackrock Blues](./Blackrock%20Blues.md) / [The Power Plant](./The%20Power%20Plant.md) / [The Detonators](./The%20Detonators.md) / [Donner](./Donner.md) |
@@ -77,7 +77,7 @@ Mathis does not appear in this Episode, however his name (Mathis, D.) is listed 
 
 Mathis is one of the [Convicts](./Convicts.md) which appears in the final cutscene of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-As [Will Mackenzie](./Will%20Mackenzie.md) is traveling through the ruined [Carter Hydro Dam](./Carter%20Hydro%20Dam.md#Lower_levels), he is rendered unconscious by Mathis from a blow to the head just as a he reaches the exit to the dam.
+As [Will Mackenzie](./Will%20Mackenzie.md) is traveling through the ruined [Carter Hydro Dam](./Carter%20Hydro%20Dam.md#lower-levels), he is rendered unconscious by Mathis from a blow to the head just as a he reaches the exit to the dam.
 
 When Will wakes, he is bound to a chair with Mathis punching and interrogating him over the contents of [Astrid's locked case](./Astrid%27s%20Hardcase.md) and asking where the pilot's airplane is. Will tells Mathis he doesn't know what the case's contents are, or how to open it, and that his plane "wouldn't do him any good," Mathis threatens Will and strikes him across the face with the back end of a [Hatchet](./Hatchet.md), ending the episode.
 

@@ -117,5 +117,5 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game.

@@ -20,13 +20,13 @@ The types of natural medicines and the afflictions they treat are:
 | Column 1 | Column 2 |
 | --- | --- |
 | **First aid** | **Treatment for** |
-| [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | • [Infection Risk](./Afflictions.md#Infection_Risk) |
-| [Reishi Tea](./Reishi%20Tea.md) | • [Food Poisoning](./Afflictions.md#Food_Poisoning) |
-| [Burdock Tea](./Burdock%20Tea.md) | • [Food Poisoning](./Afflictions.md#Food_Poisoning) |
-| [Rose Hip Tea](./Rose%20Hip%20Tea.md) | • [Sprained Ankle](./Afflictions.md#Sprained_Ankle) / • [Sprained Wrist](./Afflictions.md#Sprained_Wrist) |
+| [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | • [Infection Risk](./Afflictions.md) |
+| [Reishi Tea](./Reishi%20Tea.md) | • [Food Poisoning](./Afflictions.md) |
+| [Burdock Tea](./Burdock%20Tea.md) | • [Food Poisoning](./Afflictions.md) |
+| [Rose Hip Tea](./Rose%20Hip%20Tea.md) | • [Sprained Ankle](./Afflictions.md) / • [Sprained Wrist](./Afflictions.md) |
 
 See the individual pages for details on how to craft the medicines.
 
 ## Game history
 
-This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).
+This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212).

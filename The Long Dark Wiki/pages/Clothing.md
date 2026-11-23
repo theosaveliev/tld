@@ -294,9 +294,9 @@ Shoes
 ![Waterproofness icon](../assets/Waterproofness_icon.png) The **Waterproof** bonus provided by clothing measures how resistant clothing becomes wet during outdoor activities and how fast they dry off.
 
 - Clothes become wet by simply being left outside or inside [Vehicles](./Vehicle.md), if it's snowing, if a Blizzard is present, or being near certain wet locations.
-  - Clothing will become completely wet if the player falls through [Weak Ice](./Weak%20Ice.md), or when passing through a [waterfall](./Environmental%20Hazard.md#Waterfalls).
+  - Clothing will become completely wet if the player falls through [Weak Ice](./Weak%20Ice.md), or when passing through a [waterfall](./Environmental%20Hazard.md#waterfalls).
     - One can also remove all clothing when going through a waterfall to avoid them getting wet, then simply put them back on.
-  - Walking through [shallow water puddles](./Environmental%20Hazard.md#Cold_Water_Puddles/Streams) will only soak your feet; remove boots and socks before walking through water to prevent them from becoming wet.
+  - Walking through [shallow water puddles](./Environmental%20Hazard.md#cold-water-puddles-streams) will only soak your feet; remove boots and socks before walking through water to prevent them from becoming wet.
     - Certain waterfalls with splashing water, such as the ones in [Hushed River Valley](./Hushed%20River%20Valley.md), also make the player's clothing wet by standing near them for long periods of time.
 - Clothing will gradually dry when worn or dropped in a dry interior location. They rapidly dry when beside a [Fire](./Fire.md).
   - Clothes cannot become wet if they are placed indoors or in the player's Backpack, even when passing through waterfalls/falling through Weak Ice.
@@ -812,7 +812,7 @@ Shoes
 
 **Note**: Clothing items denoted with _italics_ are only available in [Wintermute](./Wintermute.md).
 
-Harvest info can be found in [Harvesting](./Harvesting.md#Harvestable_Clothing).
+Harvest info can be found in [Harvesting](./Harvesting.md#harvestable-clothing).
 
 ### Head
 

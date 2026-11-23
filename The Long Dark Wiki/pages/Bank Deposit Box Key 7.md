@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Bank Deposit Box Key 7 icon](../assets/Bank_Deposit_Box_Key_7_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -25,5 +25,5 @@ It is located inside a house on the main road between the [Post Office](./Milton
 
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.

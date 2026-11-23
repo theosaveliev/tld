@@ -8,7 +8,7 @@
 - [Wildlife](#wildlife)
 - [Cooking](#cooking)
 - [Gallery](#gallery)
-- [Game history](#game-history)
+- Game history
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Animal Fat icon](../assets/Animal_Fat_icon.png) |
-| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -40,7 +40,7 @@ Animal Fat is produced when Harvesting [Wildlife](./Wildlife.md) Carcasses and c
 
 There is 50% chance of acquiring [Food Poisoning](./Food%20Poisoning.md) even at 100% condition, which rises to 90% chance when condition drops below 75%.
 
-Animal Fat naturally gives off [Scent](./Scent.md), and can be dropped for [Baiting](./Scent.md#Baiting/Decoys).
+Animal Fat naturally gives off [Scent](./Scent.md), and can be dropped for [Baiting](./Scent.md#baiting-decoys).
 
 ## Wildlife
 

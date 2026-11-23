@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Carter Hydro Dam Safety & Shutdown Notice icon](../assets/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -30,5 +30,5 @@ _The following text is transcribed from **Carter Hydro Dam -- Safety & Shutdown 
 
 ## Update history
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.

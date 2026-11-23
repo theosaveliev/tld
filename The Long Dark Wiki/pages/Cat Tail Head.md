@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) |
-| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212) |
+| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -51,5 +51,5 @@ Like all other plants, Cat Tails do not regrow.
 
 ## Update history
 
-- UPDATE **11 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196)):**
+- UPDATE **11 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-196)):**
   - Added to game.

@@ -19,7 +19,7 @@
 
 Release
 
-[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
+[27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)
 
 Wintermute
 
@@ -100,5 +100,5 @@ At 0% condition food disappears if inside of a container, but not outside of con
 
 ## Update history
 
-- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - Added to game.

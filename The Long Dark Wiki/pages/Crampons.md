@@ -86,5 +86,5 @@ Crampons can be repaired with 2 [Scrap Metal](./Scrap%20Metal.md) using [Quality
 
 ## Update history
 
-- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
+- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update)):**
   - Added to game.

@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Ghost Stag](../assets/Ghost_Stag.png) |
 | **Basic Information** |  |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Role | Prey |
 | **Physical Information** |  |
 | Color | White |

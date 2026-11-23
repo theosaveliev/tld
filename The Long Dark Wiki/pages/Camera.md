@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Camera icon](../assets/Camera_icon.png) |
-| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -102,4 +102,4 @@ _The Camera's location in the [Station Bunkhouse](./Station%20Bunkhouse.md)._
 
 ---
 
-[^1]: [https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024](https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024)
+[^1]: <https://www.shacknews.com/article/142391/the-long-dark-raphael-van-lierop-interview-2024>

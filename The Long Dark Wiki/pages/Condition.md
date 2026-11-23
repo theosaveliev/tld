@@ -180,7 +180,7 @@ Death occurs when the survivor's Condition reaches zero, providing a brief expla
 - "YOU DIED FROM (AFFLICTION) WHILE SLEEPING" - Die from Blood Loss, Dysentery, Infection, Scurvy, Suffocation, or Food Poisoning while sleeping.
 - "YOU DROWNED AFTER FALLING THROUGH CRACKED ICE" - occurs if the player dies while falling through [Weak Ice](./Weak%20Ice.md).
 - "YOU DIED FROM DROWNING" - occurs after falling into the large moving rivers in [Blackrock](./Blackrock.md) or [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
-- "YOU DIED FROM MASSIVE INTERNAL INJURIES AFTER FALLING" - falling from an extreme height or passing through an [instant kill barrier](./Environmental%20Hazard.md#Instant_Kill_Barriers) will trigger this. Can also occur when stamina is too low and falling from a [Rope Climbing](./Rope%20Climbing.md) section.
+- "YOU DIED FROM MASSIVE INTERNAL INJURIES AFTER FALLING" - falling from an extreme height or passing through an [instant kill barrier](./Environmental%20Hazard.md#instant-kill-barriers) will trigger this. Can also occur when stamina is too low and falling from a [Rope Climbing](./Rope%20Climbing.md) section.
 - "THE DARKWALKER HAS DEVOURED YOU" - if the Darkwalker in [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) catches you, a cutscene will play before the player is killed and generate this message.
 
 ### Wintermute

@@ -20,7 +20,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
@@ -45,7 +45,7 @@ Dockworker's Pie is a relatively simple recipe requiring mostly common ingredien
 
 The Recipe Card for Dockworker's Pie is found inside of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) [Workshop](./Workshop.md) in [Bleak Inlet](./Bleak%20Inlet.md), which is sealed by an electronically locked door (requiring the key code found on a note in [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md), and an active [Aurora](./Aurora.md) at night to power the door). The Last Resort Cannery can be difficult to access: being very cold, windy and infested with a pack of [Timberwolves](./Timberwolf.md).
 
-Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf.md). It may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
+Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf.md). It may be dropped as a [decoy](./Scent.md#baiting-decoys).
 
 ## Effects
 
@@ -90,5 +90,5 @@ Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

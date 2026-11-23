@@ -20,7 +20,7 @@
 - [Beached Boats](#beached-boats)
 - [Rowboats](#rowboats)
 - [Canoe](#canoe)
-- [Sutherland's sailboat](#sutherlands-sailboat)
+- [Sutherland's sailboat](#sutherland-s-sailboat)
 - [Air Vehicles](#air-vehicles)
 - [Planes](#planes)
 - [Helicopters](#helicopters)

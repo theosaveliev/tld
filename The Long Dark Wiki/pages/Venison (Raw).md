@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -70,5 +70,5 @@ Frozen deer carcasses created during world generation always contain 1 [deer hid
 
 ## Update history
 
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Added to game.

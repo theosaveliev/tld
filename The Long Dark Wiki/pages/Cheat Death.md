@@ -273,7 +273,7 @@ It is unknown if there are any eligible Safe respawn locations in [Forlorn Muske
 | [Bleak Inlet](./Bleak%20Inlet.md) | [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) | outdoors |
 | Bleak Inlet | [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) |  |
 | Bleak Inlet | [Last Resort Cannery](./Last%20Resort%20Cannery.md) | outdoors, near the rope, [Timberwolves](./Timberwolf.md) may be active |
-| Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.31_%28Steam,_Epic_Games%29)_ (4) |
+| Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-31-steam-epic-games)_ (4) |
 | [Blackrock](./Blackrock.md) | [Old Substation](./Old%20Substation.md) |  |
 | Blackrock | [Power Plant](./Power%20Plant.md) |  |
 | Blackrock | [Trailer](./Trailer%20%28Blackrock%20Region%29.md) | west, near the river |
@@ -324,7 +324,7 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 
 ## Game History
 
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added to game.
 
 ## Notes

@@ -69,5 +69,5 @@ Note: Crafting Moose-Hide Cloaks costs durability of the used tool (e.g. [huntin
 
 ## Update history
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - Added to game.

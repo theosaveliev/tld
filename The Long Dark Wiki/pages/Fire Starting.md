@@ -23,7 +23,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fire Starting background](../assets/Fire_Starting_background.png) |
-| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
 ![Fire Starting](../assets/Fire_Starting.png)
@@ -36,7 +36,7 @@
 
 Fire Starting is one of the easiest skills to train in _[The Long Dark](./The%20Long%20Dark.md)_, as players can increase their skill by lighting a new fire at any time during their playthrough.
 
-To start a fire, players have to "use" an existing [Firebox](./Fire.md#Types_of_fires) or fire or place a new campfire in an acceptable location. The player must then select an ignition source, tinder (optional at level 3 and higher), fuel, and an optional accelerant. At the top of the screen, the player's current fire starting skill and the chance of success with the currently selected materials are displayed.
+To start a fire, players have to "use" an existing [Firebox](./Fire.md#types-of-fires) or fire or place a new campfire in an acceptable location. The player must then select an ignition source, tinder (optional at level 3 and higher), fuel, and an optional accelerant. At the top of the screen, the player's current fire starting skill and the chance of success with the currently selected materials are displayed.
 
 ### Chance of starting
 

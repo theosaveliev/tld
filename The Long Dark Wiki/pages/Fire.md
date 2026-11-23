@@ -75,7 +75,7 @@ Burn times are increased with higher levels of the [Fire Starting](./Fire%20Star
 
 _Main article: [Campfire](./Campfire.md)_
 
-A campfire is an open fire that can be placed into the world at the player's discretion. Players are limited in where fires can be placed, and campfires are subject to becoming [windblown](./Campfire.md#Windblown), depending on the weather. If the player has sufficient resources to start another fire, [burnt out](./Campfire.md#Burnt_out) campfires can be relit.
+A campfire is an open fire that can be placed into the world at the player's discretion. Players are limited in where fires can be placed, and campfires are subject to becoming [windblown](./Campfire.md#windblown), depending on the weather. If the player has sufficient resources to start another fire, [burnt out](./Campfire.md#burnt-out) campfires can be relit.
 
 ### Contained fires
 

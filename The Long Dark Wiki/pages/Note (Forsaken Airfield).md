@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Note (Forsaken Airfield) icon](../assets/Note_%28Forsaken_Airfield%29_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -29,6 +29,6 @@ WE'RE LEAVING! Can't stand the lights any longer. No sleep. Just no sleep. We're
 
 ## Update history
 
-\* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+\* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
 
 - Added to game.

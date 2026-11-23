@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Burdened icon](../assets/Burdened_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Update | 2.17 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -43,5 +43,5 @@ A symbol similar for the Burdened Affliction icon appears in [Episode 3: Crossro
 
 ## Update history
 
-- UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
 - Added to game.

@@ -9,7 +9,7 @@
 - [Walkthrough](#walkthrough)
 - [Arrival Time](#arrival-time)
 - [Radio Locations](#radio-locations)
-- [Starting Sutherland's Tale](#starting-sutherlands-tale)
+- [Starting Sutherland's Tale](#starting-sutherland-s-tale)
 - [Complete Trades](#complete-trades)
 - [Finding the Prepper Caches](#finding-the-prepper-caches)
 - [Special Request 1](#special-request-1)

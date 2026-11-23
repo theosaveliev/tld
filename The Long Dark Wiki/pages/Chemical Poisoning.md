@@ -13,7 +13,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png) |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Description | You are poisoned from an environmental hazard. The toxins have temporarily reduced your Condition. |
 | **Properties** |  |
 | Type | Affliction |

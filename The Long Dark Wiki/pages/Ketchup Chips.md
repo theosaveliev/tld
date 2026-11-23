@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Ketchup Chips icon](../assets/Ketchup_Chips_icon.png) |
-| Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79) |
+| Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-79) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -41,5 +41,5 @@ Ketchup Chips do not cause [Food Poisoning](./Food%20Poisoning.md) above 20% con
 
 ## Update history
 
-- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
+- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-79)):**
   - Added to game.

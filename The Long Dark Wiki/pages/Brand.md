@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Brand icon](../assets/Brand_icon.png) |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) |
+| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |
@@ -28,7 +28,7 @@
 | **Values** |  |
 | Weight | 0.30 kg (0.66 lbs) |
 
-A **Brand** was a [Tool](./Tools.md) introduced in the [Tireless Menace](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29) update in [Survival Mode](./Survival%20Mode.md) during the Alpha builds of _[The Long Dark](./The%20Long%20Dark.md)_ and was eventually cut in the Faithful Cartographer update. It is currently considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), but can still be experienced by using the [Time Capsule](./Time%20Capsule.md).
+A **Brand** was a [Tool](./Tools.md) introduced in the [Tireless Menace](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) update in [Survival Mode](./Survival%20Mode.md) during the Alpha builds of _[The Long Dark](./The%20Long%20Dark.md)_ and was eventually cut in the Faithful Cartographer update. It is currently considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), but can still be experienced by using the [Time Capsule](./Time%20Capsule.md).
 
 The mechanic of taking [Torches](./Torch.md) from active fireboxes was used before the introduction of Brands, but due to the similarities between the Brand and the Torch, the Brand was cut and its role in the game was entirely replaced by the Torch.
 
@@ -88,7 +88,7 @@ The brand has been specifically targeted by the developers to be very hard to ke
 
 ## Update history
 
-- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
+- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update)):**
   - Removed from the game and replaced entirely by the [Torch](./Torch.md).
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Added to game.

@@ -31,7 +31,7 @@
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
 |  | Has an interior |
 | **Wintermute** |  |
-| Missions | [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense?) |
+| Missions | [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md) |
 
 The **Hunting Lodge** is a location in [Broken Railroad](./Broken%20Railroad.md).
 

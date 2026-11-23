@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [Gaining/Losing Fatigue](#gaininglosing-fatigue)
+- [Gaining/Losing Fatigue](#gaining-losing-fatigue)
 - [Sleep](#sleep)
 - [Food items](#food-items)
 - [Food](#food)

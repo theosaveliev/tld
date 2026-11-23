@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
+| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) no (Interloper) |
 | **Properties** |  |
 | Item type | [First Aid](./First%20Aid.md) |
@@ -35,5 +35,5 @@ Go! Energy Drink does not spawn on Interloper difficulty.
 
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game.

@@ -38,5 +38,5 @@ Mid-tier boots. They are heavier than the [Work Boots](./Work%20Boots.md) and of
 
 ## Update history
 
-- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
+- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update)):**
   - Added to game

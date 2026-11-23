@@ -21,7 +21,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) |
-| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -39,7 +39,7 @@ _For the version encountered in [Wintermute](./Wintermute.md), see [Field Dressi
 
 ## Research
 
-_Field Dressing Your Kill, Vol. I_ can be researched for 10 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Carcass Harvesting skill points](./Carcass%20Harvesting.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 8 hours.
+_Field Dressing Your Kill, Vol. I_ can be researched for 10 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Carcass Harvesting skill points](./Carcass%20Harvesting.md#skill-levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 8 hours.
 
 Research can only be performed under the following conditions:
 
@@ -97,5 +97,5 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Update history
 
-- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)):**
+- UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346)):**
   - Added to game.

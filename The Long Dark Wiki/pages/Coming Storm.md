@@ -47,7 +47,7 @@
 - Search Joplin's caches for extra supplies. (optional)
 - Talk to Father Thomas.
 
-Note The quantities above match that of the Capable Survivor [difficulty](./Wintermute.md#Difficulty). In the Hardened Survivor difficulty, the supplies required are approximately 20-25% more.
+Note The quantities above match that of the Capable Survivor [difficulty](./Wintermute.md#difficulty). In the Hardened Survivor difficulty, the supplies required are approximately 20-25% more.
 
 ## Walkthrough
 
@@ -90,7 +90,7 @@ Details can be found on the [Community Hall](./Community%20Hall.md) page.
   - Meat can be acquired by killing [deer](./Deer.md) or [timberwolves](./Timberwolf.md)
   - Nearly 7000 calories can be accounted for by using [Airline Food](./Airline%20Food%20-%20Chicken.md), recovered during [Fallen Star](./Fallen%20Star.md)
 - (x48) Hours of firewood or other fuel
-  - For burn times for various fuel types see [Fire#Types\_of\_fuel](./Fire.md#Types_of_fuel)
+  - For burn times for various fuel types see [Fire#Types\_of\_fuel](./Fire.md#types-of-fuel)
   - On Capable Survivor, there is a hatchet present in the building with the Church Artifact and on Hardened there is one nest to a crate just outside the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md) outdoors barn second correction: in hardened survivor difficulty (untested in other difficulties) a hatchet can be found in the run down building near the prisoners corpse. There is also a hatchet to be found on Three Strikes farmstead, in the open barn building, opposite side to Forest Talkers cache.
   - Coal boxes are adjacent to most of the residential houses in Pleasant Valley and contain [coal](./Coal.md) and [tinder plugs](./Tinder%20Plug.md). Each piece of coal contributes one hour of burntime.
   - Several residential houses and the community garden in [Thomson's Crossing](./Thomson%27s%20Crossing.md) contain crates which can be broken down by hand for [reclaimed wood](./Reclaimed%20Wood.md).

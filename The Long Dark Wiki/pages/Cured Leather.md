@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cured Leather icon](../assets/Cured_Leather_icon.png) |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -80,5 +80,5 @@ Cured Leather is harvested from and used to repair:
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Added to game.

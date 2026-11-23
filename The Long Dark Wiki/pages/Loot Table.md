@@ -8,7 +8,7 @@
 - [Items by loot table (Interloper)](#items-by-loot-table-interloper)
 - [Magnifying Lens](#magnifying-lens)
 - [Firestriker](#firestriker)
-- [Spelunker's Lantern](#spelunkers-lantern)
+- [Spelunker's Lantern](#spelunker-s-lantern)
 - [Heavy Hammer](#heavy-hammer)
 - [Vista Polaroids](#vista-polaroids)
 - [Supply Caches](#supply-caches)

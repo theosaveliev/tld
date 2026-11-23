@@ -9,7 +9,7 @@ _For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%2
 | Property | Details |
 | --- | --- |
 |  | [Highway Robbery icon](../assets/Highway_Robbery_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -42,6 +42,6 @@ Peter
 
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.

@@ -146,7 +146,7 @@ Foraging for [Fire Starting](./Fire%20Starting.md) fuel is an important part of 
 
 ## Game History
 
-- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**
+- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-073)):**
 - Added Abstract Foraging option to game.
-- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**
+- UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update)):**
   - Replaced Abstract Foraging with Direct Harvesting.

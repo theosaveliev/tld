@@ -34,6 +34,6 @@ Another way is to use neutral and second gear mainly, and use first gear only to
 
 ## Game History
 
-\* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
+\* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-52)):**
 
 - Added to game.

@@ -22,7 +22,7 @@
 | --- | --- |
 |  | [Rabbit](../assets/Rabbit.png) |
 | **Basic Information** |  |
-| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152) |
+| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152) |
 | Role | Prey |
 | **Physical Information** |  |
 | Color | Brown |
@@ -106,44 +106,44 @@ Rabbits have minimal interaction with other animals, besides being eaten by wolv
 
 ## Update history
 
-- HOTFIX **10 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.90)):**
+- HOTFIX **10 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md)):**
   - [Enviro] Rabbits will no longer climb on the broken fishing hut, in the Main Menu.
 
-- HOTFIX **22 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.72)):**
+- HOTFIX **22 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-72)):**
   - [General] Fixed a crash that could occur if a Stag or Rabbit was removed from the world, while being chased by a Predator.
 
-- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.52)):**
+- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-52)):**
   - [All] Fixed rare issue that would cause players to become stuck if grabbing a Rabbit while holding a gear item from their Backpack.
 
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - [All] Improved aiming mechanics for thrown Stones, to make Rabbit Hunting a bit easier.
   - [All] Fixed condition that could result in the the player becoming stuck when picking up a stunned Rabbit
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - [All] Disabled Radial Menu while holding a stunned Rabbit.
 
-- HOTFIX **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.01)):**
+- HOTFIX **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-01)):**
   - Fixed locked controls when throwing a stone and picking up a rabbit at the same time
 
-- UPDATE **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
+- UPDATE **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Fixed issue with being able to place snares too close to geometry, causing the snared rabbit to be inaccessible
 
-- HOTFIX **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.280)):**
+- HOTFIX **16 October 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-280)):**
   - Fixed issue with being able to instantly catch Rabbits in a Snare.
 
-- HOTFIX **27 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.236)):**
+- HOTFIX **27 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-236)):**
   - Fixed a bug with tripped rabbit snares refreshing to empty each day.
 
-- HOTFIX **7 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.217)):**
+- HOTFIX **7 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-217)):**
   - Fixed problem with snares not catching rabbits as expected.
 
-- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - Snares that catch Rabbits can now be re-used.
 
-- HOTFIX **31 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.154)):**
+- HOTFIX **31 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-154)):**
   - Fixed issue where Rabbits would follow the player. (Bug or feature?)
 
-- UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
+- UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152)):**
   - All wildlife spawns are now more dynamic, and will change over the course of a game. Wolves, Deer, and Rabbits all refresh on different intervals, reflecting their relative mobility and travel/migration patterns.
   - You can now craft Snares at the Workbench. If placed in the world wherever you see Rabbits, there is a chance you will capture a Rabbit every 12 hours.
   - There are now Rabbits in the game.

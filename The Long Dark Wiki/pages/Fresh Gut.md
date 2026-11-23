@@ -18,7 +18,7 @@
 | **Values** |  |
 | Weight | 0.10 kg (0.22 lbs) |
 
-**Fresh Gut** is an animal-based [Material](./Materials.md) that can be harvested from [Wildlife](./Wildlife.md) carcasses. Fresh Guts can also be used as a [Baiting](./Scent.md#Baiting/Decoys) to distract predators, but are primarily used to craft or repair various animal based [Clothing](./Clothing.md) once they have [Cured](./Curing.md) into [Cured Gut](./Cured%20Gut.md).
+**Fresh Gut** is an animal-based [Material](./Materials.md) that can be harvested from [Wildlife](./Wildlife.md) carcasses. Fresh Guts can also be used as a [Baiting](./Scent.md#baiting-decoys) to distract predators, but are primarily used to craft or repair various animal based [Clothing](./Clothing.md) once they have [Cured](./Curing.md) into [Cured Gut](./Cured%20Gut.md).
 
 ## Overview
 
@@ -45,11 +45,11 @@ Fresh Gut contributes to a survivor's overall [Scent](./Scent.md). This can eith
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_&_2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
   - UI - Added a unique Icon for Cured/Dried Guts.
-- HOTFIX **10 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.193)):**
+- HOTFIX **10 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-193)):**
   - Re-balanced gut yield for Bear.
-- UPDATE **11 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- UPDATE **11 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - Gut can now be Harvested from Wolf carcasses.
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to the game.

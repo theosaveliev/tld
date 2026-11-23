@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Gunsmithing background](../assets/Gunsmithing_background.png) |
-| Release | [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) |
+| Release | [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) |
 | Date | 10 December 2019 |
 
 ![Gunsmithing](../assets/Gunsmithing.png)
@@ -96,12 +96,12 @@ Players can increase their Gunsmithing skill by:
 
 ## Update History
 
-\* HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**
+\* HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-69)):**
 
 - [Gameplay] The Gunpowder Can will no longer refill, when loading to a new area.
 - [Gameplay] Increased amount of Gunpowder used, when using it as an accelerant, from 0.01 to 0.1.
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update)):**
   - Added new gameplay system: Ammunition Workbench
   - Added new gameplay system: Gunsmithing
   - Added new gameplay system: Milling Machine

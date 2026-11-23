@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Airline Food Vegetarian icon](../assets/Airline_Food_-_Vegetarian_icon.png) |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Wintermute | Yes |
 | Renewable | No |
 | **Properties** |  |
@@ -39,5 +39,5 @@ Airline Food - Vegetarian can cause [Food Poisoning](./Food%20Poisoning.md), and
 
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.

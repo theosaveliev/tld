@@ -90,8 +90,8 @@ Atwood goes on to explain what the Aurora exactly is, before letting Mackenzie h
 
 ---
 
-[^2]: [https://youtu.be/cewVQSRhfxY?t=1841](https://youtu.be/cewVQSRhfxY?t=1841)
-[^3]: [https://youtu.be/Mv1kQlPK7xE?t=15908](https://youtu.be/Mv1kQlPK7xE?t=15908)
-[^4]: The last time Atwood saw Jeremiah was 20+ years ago, and she was working at the Telescope, not the base. [https://youtu.be/Mv1kQlPK7xE?t=15611](https://youtu.be/Mv1kQlPK7xE?t=15611)
-[^5]: [https://youtu.be/Mv1kQlPK7xE?t=7616](https://youtu.be/Mv1kQlPK7xE?t=7616)
-[^6]: [https://youtu.be/mgcdR12Xnds?t=14174](https://youtu.be/mgcdR12Xnds?t=14174)
+[^2]: <https://youtu.be/cewVQSRhfxY?t=1841>
+[^3]: <https://youtu.be/Mv1kQlPK7xE?t=15908>
+[^4]: The last time Atwood saw Jeremiah was 20+ years ago, and she was working at the Telescope, not the base. <https://youtu.be/Mv1kQlPK7xE?t=15611>
+[^5]: <https://youtu.be/Mv1kQlPK7xE?t=7616>
+[^6]: <https://youtu.be/mgcdR12Xnds?t=14174>

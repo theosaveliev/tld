@@ -35,7 +35,7 @@
 - [Travois](#travois)
 - [Later game](#later-game)
 
-This page is a brief guide for players new to [Interloper](./Survival%20Mode.md#nterloper), the second most difficult experience mode in [_The Long Dark_](./The%20Long%20Dark.md) after the [Misery](./Misery.md) mode.
+This page is a brief guide for players new to [Interloper](./Survival%20Mode.md), the second most difficult experience mode in [_The Long Dark_](./The%20Long%20Dark.md) after the [Misery](./Misery.md) mode.
 
 Interloper is a mode where Great Bear Island has already been picked clean of anything useful by the time you arrive. The developers of The Long Dark have stated that the experience of Interloper is akin to "Survival on a knife's edge." You will ALWAYS have this metaphorical knife pressed against you as you play. Some days the knife will push deep inside you, while others it will just hang over you like the Sword of Damocles.
 

@@ -13,7 +13,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png) |
-| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only, by trading [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) or [Birch Bark](./Birch%20Bark.md)) |
 | **Properties** |  |

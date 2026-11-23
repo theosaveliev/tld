@@ -76,4 +76,4 @@ The Challenge is completed when the player enters the door to [Trapper's Homeste
 
 ## Game history
 
-The Hunted, Part One and [Hopeless Rescue](./Hopeless%20Rescue.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321), also known as the Tireless Menace update.
+The Hunted, Part One and [Hopeless Rescue](./Hopeless%20Rescue.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update), also known as the Tireless Menace update.

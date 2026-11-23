@@ -13,7 +13,7 @@
 
 A **Black Bear Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Bear](./Bear.md). [Crows](./Crow.md) will fly around a Bear Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 
-Bears are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#Windshield_and_Scent) when harvesting them, a distinction also shared with a [Moose Carcass](./Moose%20Carcass.md).
+Bears are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#windshield-and-scent) when harvesting them, a distinction also shared with a [Moose Carcass](./Moose%20Carcass.md).
 
 ## Drops
 

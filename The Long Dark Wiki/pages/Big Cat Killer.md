@@ -12,10 +12,10 @@
 | Effect | Halves detection range from all animals (sight, hearing, and smell) |
 | DLC required | [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) |
 
-**Big Cat Killer** is a [feat](./Feats.md) in The Long Dark. It was first made available in version 2.28 when the Cougar (now commonly called "[Cougar 1.0](./Cougar.md#Legacy_Information:_Cougar_1.0)") was released. The feat is considered "legacy" because it can no longer be acquired in the current versions of the game, but can still be earned using an older version.
+**Big Cat Killer** is a [feat](./Feats.md) in The Long Dark. It was first made available in version 2.28 when the Cougar (now commonly called "[Cougar 1.0](./Cougar.md#legacy-information-cougar-1-0)") was released. The feat is considered "legacy" because it can no longer be acquired in the current versions of the game, but can still be earned using an older version.
 
 - Big Cat Killer halves detection range, sight, hearing, and smell from all animals, allowing the player to get **much** closer to all [Wildlife](./Wildlife.md) before detection.
-- Unlike all other Feats, progression for Big Cat Killer required killing all three [Cougars](./Cougar.md#Legacy_Information:_Cougar_1.0) in the same save file. It also didn't show the percentage progress in the menu.
+- Unlike all other Feats, progression for Big Cat Killer required killing all three [Cougars](./Cougar.md#legacy-information-cougar-1-0) in the same save file. It also didn't show the percentage progress in the menu.
 - The only legitimate way to obtain Big Cat Killer is to clear out your survival profiles, play version 2.28 or 2.29 (versions with the old Cougar) and kill three Cougars in the same save file. This process is equivalent to having obtained the Feat in the old version during the short time it was available.
 - Big Cat Killer has been deemed a legacy Feat due to it "no longer seeming appropriate" for the reworked Cougar. It's planned to be replaced with a different "Cougar-related" Feat.
 

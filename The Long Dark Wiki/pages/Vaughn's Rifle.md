@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
@@ -93,5 +93,5 @@ Vaughn's Rifle will spawn a single time per world in various states of repair ne
 
 ## Update history
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Added to game.

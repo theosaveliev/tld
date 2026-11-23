@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Arrow Shaft icon](../assets/Arrow_Shaft_icon.png) |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -67,5 +67,5 @@ Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game

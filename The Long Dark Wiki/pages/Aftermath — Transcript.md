@@ -22,7 +22,7 @@
 | Current | Aftermath/Transcript |
 | Next | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| Characters | [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo) |
+| Characters | [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#radio-voice-man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo) |
 
 This is the mission transcript for mission 4 [Aftermath](./Aftermath.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
@@ -102,13 +102,13 @@ _She rushes to the radio_
 
 Astrid: "Damn! Why can't I get anything..."
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...[static]...Come in this is...Perseverance Mills."
+[Radio Voice Man](./Characters.md#radio-voice-man): "...[static]...Come in this is...Perseverance Mills."
 
 _Astrid grabs the microphone and attempts to contact the Mills, but to no avail_
 
 Astrid: "Hello? Can anyone hear me?"
 
-[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...[static]... Come in..."
+[Radio Voice Man](./Characters.md#radio-voice-man): "...[static]... Come in..."
 
 [Will Mackenzie](./Will%20Mackenzie.md): "Hello? Is this the radio station at Perseverance Mills?"
 

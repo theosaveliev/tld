@@ -72,7 +72,7 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 ## History
 
-- Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192).
+- Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192).
 - As of the 1.0 [Wintermute](./Wintermute.md) update (August 1, 2017) Rose Hips must be prepared before cooking them.
 
 ## Trivia

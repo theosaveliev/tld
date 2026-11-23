@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Decorative End Table icon](../assets/Decorative_End_Table_icon.png) |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | **Values** |  |
 | Weight | 2.00 kg (4.4 lbs) |
 | **Actions** |  |

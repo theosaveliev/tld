@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Crash](../assets/The_Crash.png) |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) |
 | Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission Type | Primary |
 | **Missions** |  |

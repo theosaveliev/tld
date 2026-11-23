@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png) |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
+| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -30,7 +30,7 @@
 
 ## Research info
 
-_Small Arms Handbook_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Revolver Firearm skill points](./Revolver%20Firearm.md#Skill_levels) are awarded on completing the research.
+_Small Arms Handbook_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Revolver Firearm skill points](./Revolver%20Firearm.md) are awarded on completing the research.
 
 Research can only be performed under the following conditions:
 
@@ -59,5 +59,5 @@ Research can only be performed under the following conditions:
 
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game.

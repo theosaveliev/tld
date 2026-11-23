@@ -9,7 +9,7 @@ _For the raw version, see [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)._
 | Property | Details |
 | --- | --- |
 |  | [Goldeye (Cooked) icon](../assets/Goldeye_%28Cooked%29_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -49,5 +49,5 @@ _For the raw version, see [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)._
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

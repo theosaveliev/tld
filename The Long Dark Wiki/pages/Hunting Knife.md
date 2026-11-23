@@ -44,7 +44,7 @@ Uses of Hunting Knife:
 - Open or maintain holes in the ice for [Ice Fishing](./Ice%20Fishing.md) (Bladed tools break ice faster, but take more condition loss when doing so).
 - Harvesting textiles ([Curtains](./Curtain.md), [Old Bedrolls](./Old%20Bedroll.md), [Pillows](./Pillow.md) or [Towels](./Towel.md)) for [Cloth](./Cloth.md).
 - Breaking down [Cardboard Boxes](./Cardboard%20Box.md) for [Tinder](./Tinder%20Plug.md)
-- Open [canned foods](./Cooking.md#Canned) without spillage
+- Open [canned foods](./Cooking.md#canned) without spillage
 
 When carried and selected for self-defense at the start of a Wolf Struggle, Hunting Knives deal medium damage with a low chance per-hit to cause the wolf to flee, and a high chance to inflict puncture wounds, a fast form of [Blood Loss](./Blood%20Loss.md) (which is lethal to the Wolf over time). Hunting Knives are as effective at filling the Struggle Meter as [Prybar](./Prybar.md), and slightly more effective than [Improvised Knife](./Improvised%20Knife.md) at ending struggles in this way, especially on difficulty modes other than [Interloper](./Survival%20Mode.md). Hunting Knives take low damage from being used in a struggle. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
@@ -62,6 +62,6 @@ The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.m
 
 ### Game history
 
-- [Version 0.136](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.136) on 2 October 2014 introduced the ability to harvest using the hunting knife and [Hatchet](./Hatchet.md), among other changes.
+- [Version 0.136](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-136) on 2 October 2014 introduced the ability to harvest using the hunting knife and [Hatchet](./Hatchet.md), among other changes.
 
 [ru:Охотничий\_нож](https://ru.wikipedia.org/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D0%BD%D0%BE%D0%B6) [es:Cuchillo de caza](https://es.wikipedia.org/wiki/Cuchillo_de_caza)

@@ -5,7 +5,7 @@
 **Contents**
 
 - [Overview](#overview)
-- [Maximum Condition benefit (+5%/+10%)](#maximum-condition-benefit-510)
+- [Maximum Condition benefit (+5%/+10%)](#maximum-condition-benefit-5-10)
 - [Maximum Stamina benefit (+15%)](#maximum-stamina-benefit-15)
 - [Update history](#update-history)
 
@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Nourished icon](../assets/Nourished_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Update | 2.17 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -67,5 +67,5 @@ The effect of this Affliction does not stack, and each new application will not 
 
 ## Update history
 
-- UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
 - Added to game.

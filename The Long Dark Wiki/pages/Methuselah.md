@@ -23,7 +23,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Methuselah](../assets/Methuselah.png) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | Mission | **•** [The Grey Mother](./The%20Grey%20Mother.md) / **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Renewed Hope](./Renewed%20Hope.md) |

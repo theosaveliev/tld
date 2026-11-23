@@ -16,7 +16,7 @@
 - [Great Bear Island](#great-bear-island)
 - [Items](#items)
 - [Rock Art](#rock-art)
-- [Hank's Hatch](#hanks-hatch)
+- [Hank's Hatch](#hank-s-hatch)
 - [References to Previous Game Builds](#references-to-previous-game-builds)
 
 **Easter Eggs** are hidden messages, images, or features typically placed in software to reference other forms of media. They may also be well placed hidden secrets found in the game. Below is a list of secrets, obscure knowledge, and Easter Eggs in _[The Long Dark](./The%20Long%20Dark.md)_.

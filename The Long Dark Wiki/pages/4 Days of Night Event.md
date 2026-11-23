@@ -40,7 +40,7 @@ The event includes the following features:
 
 - Perpetual darkness — the sun will not rise
 - Light sources (ex. [Storm Lantern](./Storm%20Lantern.md), [flares](./Flare.md), and [fires](./Campfire.md)) last twice as long as usual
-- ["Demon" wolves](./Wolf.md#"Demon"_Wolves)
+- ["Demon" wolves](./Wolf.md#demon-wolves)
 - Strategically located [Pumpkin Pie](./Pumpkin%20Pie.md) with [warming](./Warming%20Up.md) and [wildlife](./Wildlife.md) deterrent capabilities
 - High-calorie value snacks in candy bowls, including 2500 calorie [Candy Bars](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md)
 - [Jack-o-Lanterns](./Jack-o-Lantern.md) that mark the location of rare loot and valuable loot caches

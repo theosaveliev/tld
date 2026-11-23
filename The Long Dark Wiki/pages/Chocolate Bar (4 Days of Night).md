@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) |
-| Release | [28 October 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.372) |
+| Release | [28 October 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
@@ -44,5 +44,5 @@ These bars in the Halloween Event "[4 Days of Night](./4%20Days%20of%20Night%20E
 
 ## Update history
 
-- UPDATE **28 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.372)):**
+- UPDATE **28 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

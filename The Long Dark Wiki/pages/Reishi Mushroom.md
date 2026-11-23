@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Reishi Mushroom icon](../assets/Reishi_Mushroom_icon.png) |
-| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
+| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Wintermute | Yes |
 | Renewable | No |
 | **Properties** |  |
@@ -80,5 +80,5 @@ _A pair of reishi mushrooms growing on a tree stump in [Pleasant Valley](./Pleas
 
 ## Update history
 
-- UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
+- UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192)):**
   - Added to game

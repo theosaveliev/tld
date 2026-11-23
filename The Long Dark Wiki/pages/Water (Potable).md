@@ -48,7 +48,7 @@ For the effects of drinking water on thirst reduction, see [Thirst](./Thirst.md)
 
 ## Purification
 
-Unsafe water can be turned into Potable Water through [boiling](./Fire.md#Processing_water) or [purifying](./Water%20Purification%20Tablets.md):
+Unsafe water can be turned into Potable Water through [boiling](./Fire.md) or [purifying](./Water%20Purification%20Tablets.md):
 
 - Boiling 1L of Unsafe Water requires 20 minutes at an active fire's Cooking Spot.
 - [Water Purification Tablets](./Water%20Purification%20Tablets.md) can be consumed to convert up to 1L of Unsafe Water into an equivalent amount of Potable Water. They can be found in the "Medical" tab of the Inventory, and then selecting "Use" while carrying them and the Unsafe Water. This sterilization process takes 1 minute (in-game). Alternatively, select "Purify Water" while in the fire menu. Note that a fire/Cooking Spot is not actually required to use purification tablets.

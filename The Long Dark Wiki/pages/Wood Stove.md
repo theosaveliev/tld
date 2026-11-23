@@ -13,7 +13,7 @@
 | Max temperature | 80 °C / _(144 °F)_ |
 | Cooking slots | 2 |
 
-A **Wood Stove** is an immovable [contained fire](./Fire.md#Contained_fires). The wood stove functions identically to other contained fires and player-made [campfire](./Campfire.md). The wood stove provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has two [cooking](./Cooking.md) slots.
+A **Wood Stove** is an immovable [contained fire](./Fire.md#contained-fires). The wood stove functions identically to other contained fires and player-made [campfire](./Campfire.md). The wood stove provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has two [cooking](./Cooking.md) slots.
 
 The wood stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 

@@ -48,7 +48,7 @@
 - [Forest Talker Supply Caches](#forest-talker-supply-caches)
 - [Mystery Lake Supply Caches](#mystery-lake-supply-caches)
 - [Aurora Hatch](#aurora-hatch)
-- [Hank's Hatch](#hanks-hatch)
+- [Hank's Hatch](#hank-s-hatch)
 - [Lake Gunshots](#lake-gunshots)
 - [Survival School](#survival-school)
 - [Episode 3: Crossroads Elegy](#episode-3-crossroads-elegy-1)
@@ -58,7 +58,7 @@
 - [Survival Mode](#survival-mode-1)
 - [Buffer Memories](#buffer-memories)
 
-The following is the official **Timeline** of events that take place in _[The Long Dark](./The%20Long%20Dark.md)_. Due to a lack of concrete dates provided in the world of _The Long Dark_, this list is compiled in order of known chronological events followed by what occurs in game. Information provided during the Missions and Side Missions Episode 1 and Episode 2 is based on the current Redux timeline, not the [Predux timeline](./Cut%20%E2%80%94%20Discontinued%20Content.md#The_original_Wintermute_storyline). Some Predux timeline details are presumed to still be true, unless explicitly stated in the Redux (any references from the Predux timeline will be labeled as such).
+The following is the official **Timeline** of events that take place in _[The Long Dark](./The%20Long%20Dark.md)_. Due to a lack of concrete dates provided in the world of _The Long Dark_, this list is compiled in order of known chronological events followed by what occurs in game. Information provided during the Missions and Side Missions Episode 1 and Episode 2 is based on the current Redux timeline, not the [Predux timeline](./Cut%20%E2%80%94%20Discontinued%20Content.md#the-original-wintermute-storyline). Some Predux timeline details are presumed to still be true, unless explicitly stated in the Redux (any references from the Predux timeline will be labeled as such).
 
 Information recorded here is based off of:
 
@@ -585,7 +585,7 @@ If it had gone another way down in that mine, you'd have never even known I was 
   - Astrid tends to every survivor, but finds one man, Dimitri, with a diabetes wristband. She decides to journey to the plane crash to find his [Insulin](./Insulin.md). Father Thomas asks Astrid to find evidence of any missing passengers, as the Crash Survivors will need closure to begin healing after the devastating events that have taken place.
   - Molly calls the Community Hall and Astrid picks up, revealing more information about her past regarding her husband, and leaving a [gift](./Molly%27s%20Gift.md) near the playground.
   - [Timberwolves](./Timberwolf.md) attack Astrid for the first time, but she fends them off.
-- Astrid arrives at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and is astounded by the devastation before her, questioning how anyone could have survived the impact. She finds several I.D. cards of many of the dead passengers in the snow, before finding [Gwen](./Characters.md#Gwen) at the tail section next to Dimitri's suitcase containing her insulin.
+- Astrid arrives at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and is astounded by the devastation before her, questioning how anyone could have survived the impact. She finds several I.D. cards of many of the dead passengers in the snow, before finding [Gwen](./Characters.md#gwen) at the tail section next to Dimitri's suitcase containing her insulin.
   - A flashback occurs here, with Astrid appearing the past as Seraphim Sleep Research Centre, with [a friend](./Jane%20Yang.md) calling and pleading her to find a cure for an illness affecting her home in [Perseverance Mills](./Perseverance%20Mills.md).
   - Astrid begins taking Gwen back to the Community hall after finding IDs of from the corpses she can find at the crash site, as well as a [Passenger Manifest](./Passenger%20Manifest.md). Some passenger names are missing.
   - Astrid receives a phone call from Molly at a burned down building, with Molly revealing more about her past.
@@ -836,7 +836,7 @@ These events are found on various computers, and occur before the First Flare, b
 [^8]: [Building Blackrock](./Building%20Blackrock.md)
 [^9]: [Blackrock Blues/TranscriptFranklin](./Blackrock%20Blues%20%E2%80%94%20Transcript.md): "Yeah. Maximum security prison. Built a hundred years ago and updated a few times. It's basically a fortress."
 [^10]: [Load Screen](./Load%20Screen.md)
-[^11]: [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md#The_Legend_of_the_Spence_family)
+[^11]: [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md#the-legend-of-the-spence-family)
 [^12]: [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md) Jeremiah: "Don't be silly. Spence bear would be long gone by now. That was...150 years ago."
 [^13]: [The Detonators/TranscriptJace](./The%20Detonators%20%E2%80%94%20Transcript.md): "So, it just so happens that this part of Great Bear offers one of the best unconcluded zones...ideal for setting up sensitive instruments for my research so that..."
 [^14]: [The Detonators/TranscriptJace](./The%20Detonators%20%E2%80%94%20Transcript.md): "The [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md). It's...about 15-20 clicks from here. That's where I was headed when my car stopped working. I've been living there, doing research, for months. Alongside Dr. Atwood. Mackenzie, if the convicts find out about the radio telescope...it'll be bad. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios.
@@ -915,5 +915,5 @@ These events are found on various computers, and occur before the First Flare, b
 
 - They\* will want to know."
 [^143]: [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md) "I could see he'd already had a bad time of it out there. It must have been a cougar."
-[^145]: [Characters](./Characters.md#Townsperson_One_and_Two)
+[^145]: [Characters](./Characters.md#townsperson-one-and-two)
 [^146]: [Newspaper Clipping](./Newspaper%20Clipping.md)

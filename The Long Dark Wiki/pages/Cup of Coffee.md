@@ -20,7 +20,7 @@ _For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Cof
 | Property | Details |
 | --- | --- |
 |  | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181) |
+| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
@@ -127,11 +127,11 @@ Other items which restore fatigue, such as the [Emergency Stim](./Emergency%20St
 
 ## Update history
 
-- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76)):**
+- UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-76-fearless-navigator-update)):**
   - [Survival] Cancelling while drinking Coffee will now award the appropriate amount of progress to the “Straight to the Heart” Feat.
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-27)):**
   - [Wintermute] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
-- HOTFIX **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- HOTFIX **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - [Bugs fixed] Fixed exploit of getting full fatigue benefit from a partial cup of coffee.
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Added to game.

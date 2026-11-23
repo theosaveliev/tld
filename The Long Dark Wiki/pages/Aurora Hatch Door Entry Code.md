@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Aurora Hatch Door Entry Code icon](../assets/Aurora_Hatch_Door_Entry_Code_icon.png) |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Aurora Hatch](./Aurora%20Hatch.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
@@ -38,6 +38,6 @@ Remember that, and this number -- 0794. That will let you in.
 
 ## Update history
 
-\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
 
 - Added to game.

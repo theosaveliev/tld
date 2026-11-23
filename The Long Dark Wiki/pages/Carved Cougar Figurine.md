@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Carved Cougar Figurine icon](../assets/Carved_Cougar_Figurine_icon.png) |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | **Values** |  |
 | Weight | 0.25 kg (0.55 lbs) |
 | **Actions** |  |

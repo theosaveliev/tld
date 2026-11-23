@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) |
-| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212) |
+| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -45,8 +45,8 @@ Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning Rabbits with a 
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Animal skins and certain types of Wood now need to be Cured (Dried) before they can be used as raw materials for Crafting.
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - Rabbit Pelt is now used to repair Rabbitskin Mitts.
   - Added to game.

@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png) |
-| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152) |
+| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -69,5 +69,5 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 
 ## Update history
 
-- UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
+- UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152)):**
   - Added to game.

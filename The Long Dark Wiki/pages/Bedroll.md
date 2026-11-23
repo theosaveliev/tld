@@ -48,7 +48,7 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 ## Spawn Locations
 
 - Inside the Train Car in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
-- Inside a Pipe at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) where the [Exit](./Carter%20Hydro%20Dam.md#Exit) to the Lower Dam leads.
+- Inside a Pipe at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) where the [Exit](./Carter%20Hydro%20Dam.md#exit) to the Lower Dam leads.
 - Inside a Cave in [Hushed River Valley](./Hushed%20River%20Valley.md).
 - Next to the front door in [Quonset Garage](./Quonset%20Garage.md).
 - Next to the front entrance of the [Stone Church](./Stone%20Church.md).

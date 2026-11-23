@@ -69,5 +69,5 @@ As of the [Hesitant Prospect Update](./The%20Long%20Dark%20%E2%80%94%20Changelog
 
 ## Update history
 
-- UPDATE **26 September 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.23)):**
+- UPDATE **26 September 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-23-steam)):**
   - Fixed an issue where Bearskin Coats only required 1 hide to craft instead of the intended 2.

@@ -84,8 +84,8 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 ## Update history
 
-- HOTFIX **20 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+- HOTFIX **20 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-71)):**
   - [Custom Mode] Bullets now spawn correctly, when Low Availability Resources is enabled, in Custom Mode.
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update)):**
   - Added new craftable item: Bullet(s)

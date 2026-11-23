@@ -69,7 +69,7 @@ Has an interior
 
 Missions
 
-[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+[Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -77,7 +77,7 @@ Missions
 
 The farmstead buildings include a decently sized, very cluttered house; a couple of open carpark/shed structures; as well as an open barn building that has both a workbench and a fire barrel.
 
-The farmstead was featured as an important story location in [Wintermute](./Wintermute.md), and, since [the Rugged Sentinel Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) it can also be accessed in [Survival Mode](./Survival%20Mode.md), along with the rest of the Mountain Town map.
+The farmstead was featured as an important story location in [Wintermute](./Wintermute.md), and, since [the Rugged Sentinel Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) it can also be accessed in [Survival Mode](./Survival%20Mode.md), along with the rest of the Mountain Town map.
 
 ## Description of location
 
@@ -97,7 +97,7 @@ There are the remnants of a couple sheds on the opposite sides of the farm. They
 
 ## Story Mode
 
-As of the [REDUX](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) update, the farmhouse in _Wintermute_ is no longer accessible prior to receiving the objective "**Something precious was stolen from**[GREY MOTHER](./Grey%20Mother.md)**. Find it, and return it to her.**" If the player visits this location beforehand, the door is locked, with no key spawning in the vicinity. After the start of the objective, however, bloodstains can be seen leading across the yard up to the door, which is now marked with a bloody red handprint. The door is now unlocked, and the home can be accessed without the use of a key.
+As of the [REDUX](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) update, the farmhouse in _Wintermute_ is no longer accessible prior to receiving the objective "**Something precious was stolen from**[GREY MOTHER](./Grey%20Mother.md)**. Find it, and return it to her.**" If the player visits this location beforehand, the door is locked, with no key spawning in the vicinity. After the start of the objective, however, bloodstains can be seen leading across the yard up to the door, which is now marked with a bloody red handprint. The door is now unlocked, and the home can be accessed without the use of a key.
 
 Upon entering the homestead for the first time, a cutscene begins wherein Mackenzie meets a severely wounded [Hobbs](./Hobbs.md), an escapee of the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) and recognizes the scarf the other man is using to bandage his arm as [Astrid](./Astrid%20Greenwood.md)'s. Hobbs reveals that he, along with fellow prisoners who escaped the transport van, took several residents of [Milton](./Milton.md) hostage and locked them within the [Old Schoolhouse](./Old%20Schoolhouse.md). Tragically, the electrical phenomena accompanying the [aurora](./Aurora.md) started a fire in the building and it burned down with everyone still trapped inside. Hobbs initially makes it sound like he burned it on purpose, but further dialogue opens the possibility that the fire was accidental and the criminals were just unable or unwilling to free their captives in time, although Astrid apparently tried to help but was too late.
 

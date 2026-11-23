@@ -6,11 +6,11 @@
 
 - [Overview](#overview)
 - [1 Story House](#1-story-house)
-- [Bank Manager's House](#bank-managers-house)
+- [Bank Manager's House](#bank-manager-s-house)
 - [House Type 2](#house-type-2)
 - [2 Story House](#2-story-house)
 - [Shed](#shed)
-- [Grey Mother's House](#grey-mothers-house)
+- [Grey Mother's House](#grey-mother-s-house)
 
 **Milton House**
 

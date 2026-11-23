@@ -42,5 +42,5 @@ The running shoes are a common starting item. They're lightweight, but they don'
 
 ## Update history
 
-- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
+- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update)):**
   - Renamed from _Sneakers_ to _Running Shoes_

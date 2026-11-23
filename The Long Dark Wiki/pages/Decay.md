@@ -78,7 +78,7 @@ This only shows up next to [Chocolate Bar](./Chocolate%20Bar.md) and [Granola Ba
 
 **Raw/Cooked Meat**
 
-Meat slowly grows more spoiled in color over time to reflect age (ex see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md#Gallery))
+Meat slowly grows more spoiled in color over time to reflect age (ex see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md#gallery))
 
 - _Fresh_ - \*100-90%
 - _Gamey_ - \*89-70%
@@ -538,7 +538,7 @@ Fresh Hides, Pelts, and Guts stop decaying once they've cured completely. All ot
 
 ## Update history
 
-\* UPDATE **27 May 2025 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.42)):**
+\* UPDATE **27 May 2025 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Re-tuned food decay values for canned goods and meat. Canned goods decay reduced by 1/2, all meat decay is now 1/4 its previous value.
 

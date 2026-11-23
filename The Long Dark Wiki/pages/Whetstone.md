@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Whetstone icon](../assets/Whetstone_icon.png) |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) |
+| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -84,5 +84,5 @@ The Whetstone can only be used to sharpen the following tools:
 
 ## Update history
 
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Added to game.

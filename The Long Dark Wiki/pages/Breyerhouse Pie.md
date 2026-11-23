@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
@@ -47,7 +47,7 @@ The Breyerhouse Pie does have some notable downsides. Its moderate decay rate me
 
 While the game interface shows it is intended to have a positive impact on [Cabin Fever](./Cabin%20Fever.md), it presently does not reduce [Cabin Fever Risk](./Cabin%20Fever%20Risk.md), cause Cabin Fever Risk to fall more quickly while outdoors, nor lower the time to heal Cabin Fever while outdoors.
 
-Breyerhouse Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
+Breyerhouse Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#baiting-decoys).
 
 ## Additional effects
 
@@ -101,5 +101,5 @@ While the cooking menu and uncooked version of the Breyerhouse Pie list its weig
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

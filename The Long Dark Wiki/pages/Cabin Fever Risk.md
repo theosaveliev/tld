@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cabin Fever Risk icon](../assets/Cabin_Fever_Risk_icon.png) |
-| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338) |
+| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-338) |
 | Update | 0.338 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -78,9 +78,9 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 
 ## Update history
 
-- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29)):**
+- UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)):**
   - Added to game.
-- HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326)):**
+- HOTFIX **23 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-326)):**
   - Added a grace period for Voyageur and Stalker and removed the affliction entirely on Pilgrim.
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam,_Epic_Games,_Xbox,_PlayStation%29_%28TFTFT_PART_FIVE:_Last_Horizon_Update%29)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever Risk.

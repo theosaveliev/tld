@@ -30,7 +30,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Potato icon](../assets/Potato_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
@@ -53,7 +53,7 @@ Potatoes spoil at the same rate no matter whether stored inside, outside, contai
 
 ## Usage
 
-Raw potatoes are inedible and must be placed upon a cooking slot of a lit [Fire](./Fire.md) for 60 minutes to create a [Cooked Potato](./Cooked%20Potato.md). Collecting a finished one improves your [Cooking Skill](./Skills.md#Cooking) and increases its condition by 50%.
+Raw potatoes are inedible and must be placed upon a cooking slot of a lit [Fire](./Fire.md) for 60 minutes to create a [Cooked Potato](./Cooked%20Potato.md). Collecting a finished one improves your [Cooking Skill](./Skills.md#cooking) and increases its condition by 50%.
 
 **Raw** potatoes are necessary for the creation of various stew Recipes.
 
@@ -116,5 +116,5 @@ Potatoes are found in many locations across almost all regions.
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

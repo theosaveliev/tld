@@ -23,7 +23,7 @@ The almanac is accessible through the journal. Each day will be marked with a re
 
 ## Game history
 
-The almanac was first introduced in version [0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) - also known as the Penitent Scholar update - to support gameplay for the [Whiteout](./Whiteout.md) [challenge](./Challenge.md).
+The almanac was first introduced in version [0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) - also known as the Penitent Scholar update - to support gameplay for the [Whiteout](./Whiteout.md) [challenge](./Challenge.md).
 
 ## Gallery
 
@@ -35,4 +35,4 @@ The almanac was first introduced in version [0.346](./The%20Long%20Dark%20%E2%80
 
 ---
 
-[^1]: Wikipedia, 2016, _Almanac_, viewed 3 October 2016 <[https://en.wikipedia.org/wiki/Almanac](https://en.wikipedia.org/wiki/Almanac)>
+[^1]: Wikipedia, 2016, _Almanac_, viewed 3 October 2016 <<https://en.wikipedia.org/wiki/Almanac>>

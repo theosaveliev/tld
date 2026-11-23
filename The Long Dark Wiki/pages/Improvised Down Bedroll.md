@@ -62,5 +62,5 @@ Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted 
 
 - The Improvised Down Bedroll provides the same Condition gain when sleeping as the Bedroll, providing for example, +27 Condition from a 10 hour sleep on Interloper difficulty. Compared to +32 Condition from beds (may vary) or the [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) over the same sleep period.
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

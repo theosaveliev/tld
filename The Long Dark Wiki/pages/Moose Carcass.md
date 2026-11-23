@@ -13,7 +13,7 @@
 
 A **Moose Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Moose](./Moose.md). [Crows](./Crow.md) will fly around a Moose Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 
-Moose are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#Windshield_and_Scent) when harvesting them, a distinction also shared with a [Black Bear Carcass](./Black%20Bear%20Carcass.md).
+Moose are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#windshield-and-scent) when harvesting them, a distinction also shared with a [Black Bear Carcass](./Black%20Bear%20Carcass.md).
 
 ## Drops
 

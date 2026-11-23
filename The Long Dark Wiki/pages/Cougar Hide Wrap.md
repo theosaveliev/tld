@@ -65,7 +65,7 @@ Acquiring a [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) to cure and craft th
 
 ## Update history
 
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added to game.
-- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
+- UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - Buffed the stats of the Wrap with the release of the new Cougar. (Warmth and Windproofness changed from 3.0 to 4.0, protection from 5% to 6%)

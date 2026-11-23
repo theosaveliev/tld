@@ -5,11 +5,11 @@
 **Contents**
 
 - [Find the Railway Maintenance Yard and get into the repair shed.](#find-the-railway-maintenance-yard-and-get-into-the-repair-shed)
-- [Use the hand-driven milling machine to repair Jeremiah's rifle.](#use-the-hand-driven-milling-machine-to-repair-jeremiahs-rifle)
+- [Use the hand-driven milling machine to repair Jeremiah's rifle.](#use-the-hand-driven-milling-machine-to-repair-jeremiah-s-rifle)
 - [Look for more info about the Forest Talkers at the old Hunting Lodge.](#look-for-more-info-about-the-forest-talkers-at-the-old-hunting-lodge)
 - [Search the Lodge for supplies. Something here could save your life.](#search-the-lodge-for-supplies-something-here-could-save-your-life)
 - [Get back to Jeremiah.](#get-back-to-jeremiah)
-- [Jeremiah's Trust](#jeremiahs-trust)
+- [Jeremiah's Trust](#jeremiah-s-trust)
 - [Items That Increase Trust](#items-that-increase-trust)
 - [Things that lose Trust](#things-that-lose-trust)
 - [Trust Levels And Unlocks](#trust-levels-and-unlocks)

@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fishing Bait icon](../assets/Fishing_Bait_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
@@ -39,5 +39,5 @@ Bait is not necessary to catch fish, but can be used when fishing to increase th
 
 Whitefish/Trout weigh significantly less than Coho Salmon/Smallmouth Bass, but give double the [Vitamin-C](./Scurvy.md) per kg. This makes it more efficient for Vitamin-C and time to harvest larger 'uncommon' fish (Coho Salmon/Smallmouth Bass). Rare Fish (goldeye, burbot, etc.) do not yield any Vitamin-C, but can be difficult to acquire. If fishing for calories, then whitefish, trout, or goldeye should be harvested.
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

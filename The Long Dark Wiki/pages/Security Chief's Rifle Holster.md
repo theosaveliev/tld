@@ -51,7 +51,7 @@ The Security Chief's Rifle Holster is a [Clothing](./Clothing.md) item that when
   - Unloaded 3.00 kg = (1.50kg)
   - Fully Loaded 3.20 kg = (1.60kg)
 
-The holster provides no other bonuses, such as [Warmth](./Warmth.md) or [Windproofing](./Clothing.md#Windproof). Like other clothing, the holster is vulnerable to damage from [Struggle](./Struggle.md) and [blizzards](./Weather.md), though it is sturdy and relatively easy to repair.
+The holster provides no other bonuses, such as [Warmth](./Warmth.md) or [Windproofing](./Clothing.md#windproof). Like other clothing, the holster is vulnerable to damage from [Struggle](./Struggle.md) and [blizzards](./Weather.md), though it is sturdy and relatively easy to repair.
 
 ## Location
 
@@ -65,5 +65,5 @@ Security Chief's Rifle Holster is not available on [Interloper](./Interloper.md)
 
 ## Update history
 
-- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)):**
   - Added to game.

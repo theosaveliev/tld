@@ -21,7 +21,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No ([Acorn Grounds](./Acorn%20Grounds.md)) |
 | **Properties** |  |
@@ -47,7 +47,7 @@ While the ingredients of Stalker's Pie are relatively easy to source (though [Ac
 
 The recipe for Stalker's Pie is found on a [Frozen Corpse](./Frozen%20Corpse.md), which may appear in three different outdoors locations near along the black bear's patrol route near [Stairsteps Lake](./Stairsteps%20Lake.md) in [Hushed River Valley](./Hushed%20River%20Valley.md).
 
-Stalker's Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
+Stalker's Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#baiting-decoys).
 
 ## Effects
 
@@ -101,5 +101,5 @@ The recipe can be found on a corpse in [Hushed River Valley](./Hushed%20River%20
 
 ## Update history
 
-- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)):**
   - Added to game.

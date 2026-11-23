@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Restore Condition icon](../assets/Restore_Condition_icon.png) |
-| Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98) |
+| Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-98-perilous-constraint-update) |
 | Update | 1.98 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -40,7 +40,7 @@ This affliction causes the following effects:
 
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game
 
 ## Notes

@@ -10,7 +10,7 @@
 - [Volume Three](#volume-three)
 - [Other](#other)
 - [Licensed Tracks](#licensed-tracks)
-- [Removed/Unreleased Tracks](#removedunreleased-tracks)
+- [Removed/Unreleased Tracks](#removed-unreleased-tracks)
 - [Footnotes](#footnotes)
 - [Notes](#notes)
 - [External Links](#external-links)

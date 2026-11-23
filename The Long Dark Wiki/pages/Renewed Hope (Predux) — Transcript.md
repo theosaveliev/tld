@@ -6,7 +6,7 @@
 
 - [Get into the Dam at night, when the Aurora is in the sky.](#get-into-the-dam-at-night-when-the-aurora-is-in-the-sky)
 - [Find your way through the Carter Dam.](#find-your-way-through-the-carter-dam)
-- [Use Jeremiah's code to access the control room.](#use-jeremiahs-code-to-access-the-control-room)
+- [Use Jeremiah's code to access the control room.](#use-jeremiah-s-code-to-access-the-control-room)
 - [Explore the guts of the Dam. Get through before daylight.](#explore-the-guts-of-the-dam-get-through-before-daylight)
 
 **Renewed Hope (Predux)/Transcript**

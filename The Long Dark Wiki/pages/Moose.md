@@ -41,7 +41,7 @@
 | --- | --- |
 |  | [Moose](../assets/Moose.png) |
 | **Basic Information** |  |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Role | Prey |
 | **Physical Information** |  |
 | Color | Brown |
@@ -268,31 +268,31 @@ _Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)_
 
 ## Update history
 
-- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
+- UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update)):**
   - [Survival] Black screen no longer appears after being trampled by a Moose.
 
-- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.52)):**
+- HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-52)):**
   - [Survival Mode] Tuned damage dealt to Bears and Moose when using the Revolver.
 
-- HOTFIX **8 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.49)):**
+- HOTFIX **8 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-49)):**
   - Tuned Revolver effectiveness when used against Moose (reduced) and reduced critical chance against Bears.
 
-- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.36)):**
+- HOTFIX **27 August 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-36)):**
   - [ALL] Fixed improperly focused camera when Harvesting a Moose.
   - [ALL] Fixed issue where shooting certain trees with Arrows would cause Moose sound effects to play.
 
-- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)):**
+- UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update)):**
   - [All] Realigned Wolf positioning when it feeds off a Moose carcass.
   - [Survival Mode] Fixed Moose getting stuck in running animation when it dies while running.
   - [Survival Mode] Fixed Moose entering hold position when player is holding a light source.
   - [Survival Mode] Improved Moose pathfinding when under trees.
   - [Survival Mode] Fixed Moose scratch texture on trees appearing stretched.
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-27)):**
   - [Both] Moose sign scratches now appear with the correct color and texture across all Regions.
   - [Survival Mode] Improved camera position and framing of Moose carcass during Harvesting
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - Added the Moose to all Survival Mode regions.
 
 [ru:Лось](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D1%8C) [es:Alce](https://es.wikipedia.org/wiki/Alce)

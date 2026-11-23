@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Safehouse Decoration Box](../assets/Safehouse_Decoration_Box.jpg) |
 | Release | TFTFT Part 6 Broken Silence |
-| Update | [2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Update | [2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Story item | No |
 | **Container** |  |
 | Capacity | 100.00 kg(220 lbs) |

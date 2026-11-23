@@ -163,13 +163,13 @@ Some particular observed locations in which a heavy hammer may be found include:
 
 ## Game History
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Interloper has had its loot positions refreshed and more position randomness added to its important items (like hammers) to add less predictability.
 
-- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update)):**
   - Fixed issue where the Hammer could not be used to clear Ice Fishing holes.
 
-- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
+- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update)):**
   - Added Heavy Hammer (previously known as 'Hammer').
   - Modified struggle damage modifiers for various tools, and added modifiers for the new Hammer.
   - You can now clear ice-fishing holes with Hammers.

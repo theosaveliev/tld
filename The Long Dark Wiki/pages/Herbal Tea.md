@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Herbal Tea icon](../assets/Herbal_Tea_icon.png) |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181) |
+| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -50,7 +50,7 @@ Herbal Tea is packaged as a product called _Sweet Dreams Herbal Tea_.
 
 ## Medical Applications
 
-Herbal Tea, when drunk hot or cold, will give you the "[Improved Rest](./Improved%20Rest.md)" [Affliction](./Afflictions.md#Improved_rest_affliction), which will increase condition gained while sleeping by 2% an hour one's next 6 hours of sleep (whether this be all at once or across multiple sleep sessions), meaning one glass of Herbal Tea can restore up to an additional 12% condition.
+Herbal Tea, when drunk hot or cold, will give you the "[Improved Rest](./Improved%20Rest.md)" [Affliction](./Afflictions.md), which will increase condition gained while sleeping by 2% an hour one's next 6 hours of sleep (whether this be all at once or across multiple sleep sessions), meaning one glass of Herbal Tea can restore up to an additional 12% condition.
 
 ## Trivia
 
@@ -62,5 +62,5 @@ The ingredients on the back list: "Chamomile Flower, Mint Leaf, Natural Flavors.
 
 ## Update history
 
-- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
+- UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181)):**
   - Added to game.

@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Suffocation Risk icon](../assets/Suffocation_Risk_icon.png) |
-| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Update | 1.95 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -55,9 +55,9 @@ Once the timer reaches 0, _**the player will die instantly**_, regardless of how
 
 ## Update history
 
-- HOTFIX **14 April 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.14)):**
+- HOTFIX **14 April 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-14)):**
   - Fixed an issue that caused graphical corruption when entering areas that contain a risk of Suffocation (such as the Steam Tunnels in Episode Four), or when enabling the Heritage Filter in the Display Options.
-- UPDATE **6 April 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.00)):**
+- UPDATE **6 April 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-00)):**
   - [EP 4] Fixed an issue that would cause Players to become stuck in the Suffocating state if they saved and reloaded while suffocating.
-- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update)):**
   - Added to game.

@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Sure Footing icon](../assets/Sure_Footing_icon.png) |
-| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
 | Update | 1.89 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -23,7 +23,7 @@
 >
 > — In-game Description
 
-**Sure Footing** is a positive [Affliction](./Afflictions.md) obtained when wearing [Crampons](./Crampons.md) or [Improvised Crampons](./Improvised%20Crampons.md) in the [accessories](./Clothing.md#Accessories) slot. The effect remains in effect as long as the accessory remains equipped. If the player's footwear (shoes and 2 socks slots) are removed (whether by the player or their footwear is ruined) then their Crampons will automatically be removed, removing the affliction.
+**Sure Footing** is a positive [Affliction](./Afflictions.md) obtained when wearing [Crampons](./Crampons.md) or [Improvised Crampons](./Improvised%20Crampons.md) in the [accessories](./Clothing.md#accessories) slot. The effect remains in effect as long as the accessory remains equipped. If the player's footwear (shoes and 2 socks slots) are removed (whether by the player or their footwear is ruined) then their Crampons will automatically be removed, removing the affliction.
 
 ## Causes
 
@@ -47,9 +47,9 @@ This affliction causes the following effects:
 
 ## Update history
 
-- HOTFIX **6 April 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.93)):**
+- HOTFIX **6 April 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-93)):**
   - [General] Equipping an item in the left accessory slot, while the Crampons are equipped will no longer remove the Sure Footing buff.
-- HOTFIX **10 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.90)):**
+- HOTFIX **10 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md)):**
   - [General] Equipping an item in the left accessory slot, while the Crampons are equipped will no longer remove the Sure Footing buff.
-- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
+- UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update)):**
   - Added to game

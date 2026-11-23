@@ -38,7 +38,7 @@
 
 ## Overview
 
-The Moose-hide Satchel is a clothing item that when worn in either accessory slot, grants a bonus 5kg of [carry capacity](./Encumbrance.md) (11lbs). Only one satchel can be worn at a time. The satchel provides no other bonuses, such as [Warmth](./Warmth.md) or [windproofing](./Clothing.md#Windproof).
+The Moose-hide Satchel is a clothing item that when worn in either accessory slot, grants a bonus 5kg of [carry capacity](./Encumbrance.md) (11lbs). Only one satchel can be worn at a time. The satchel provides no other bonuses, such as [Warmth](./Warmth.md) or [windproofing](./Clothing.md#windproof).
 
 Like other clothing, the satchel is vulnerable to damage from [Struggle](./Struggle.md) and [blizzards](./Weather.md), though it is sturdy and relatively easy to repair.
 
@@ -85,8 +85,8 @@ Like other clothing, the satchel is vulnerable to damage from [Struggle](./Strug
 
 ## Update history
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-27)):**
   - [Survival Mode] Fixed issue where the Moose Hide Satchel was not showing the correct bonus when the game was set to display Imperial Units.
 
-- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - Added the Moose-Hide Satchel gear item.

@@ -7,8 +7,8 @@
 - [Opening conversation](#opening-conversation)
 - [Learn to craft Fishing Tackle, then catch fish from Mystery Lake.](#learn-to-craft-fishing-tackle-then-catch-fish-from-mystery-lake)
 - [Learn to find, track, shoot, and butcher a Deer.](#learn-to-find-track-shoot-and-butcher-a-deer)
-- [Learn to mend and maintain clothing. It'll save your life some day.](#learn-to-mend-and-maintain-clothing-itll-save-your-life-some-day)
-- [Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)](#learn-to-identify-and-harvest-some-of-the-edible-medicinal-flora-native-to-great-bear-island-place-in-the-container-at-jeremiahs-cabin)
+- [Learn to mend and maintain clothing. It'll save your life some day.](#learn-to-mend-and-maintain-clothing-it-ll-save-your-life-some-day)
+- [Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)](#learn-to-identify-and-harvest-some-of-the-edible-medicinal-flora-native-to-great-bear-island-place-in-the-container-at-jeremiah-s-cabin)
 - [Return to Jeremiah.](#return-to-jeremiah)
 
 **Survival School (Predux)/Transcript**

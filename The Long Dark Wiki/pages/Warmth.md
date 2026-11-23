@@ -10,7 +10,7 @@
 - [Affecting condition](#affecting-condition)
 - [Fire](#fire)
 - [Clothing optional](#clothing-optional)
-- [Wet/frozen clothing](#wetfrozen-clothing)
+- [Wet/frozen clothing](#wet-frozen-clothing)
 - [Hypothermia](#hypothermia)
 - [Trivia](#trivia)
 - [Character quotes](#character-quotes)
@@ -67,7 +67,7 @@ Standing next to an active [fire](./Fire.md) will prevent condition loss due to 
 
 If one is freezing and has no hope of getting out of a freezing status due to the weather conditions, it may be wise to temporarily remove all clothing items. Since the loss to condition from freezing is constant and not dependent on how cold the character feels, taking off all one's clothes has no detrimental effect to warmth if one is already freezing. Storing clothing may help avoid some unnecessary item [decay](./Decay.md) and prevent clothing items from getting wet, especially in blizzards or when passing through waterfalls.
 
-Note that exposed skin is prone to [frostbite](./Afflictions.md#Frostbite), which causes irreversible condition loss, so removing clothing, particularly while outdoors in cold, windy conditions can have more severe side effects.
+Note that exposed skin is prone to [frostbite](./Afflictions.md), which causes irreversible condition loss, so removing clothing, particularly while outdoors in cold, windy conditions can have more severe side effects.
 
 ## Wet/frozen clothing
 

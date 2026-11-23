@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [Cold Water Puddles/Streams](#cold-water-puddlesstreams)
+- [Cold Water Puddles/Streams](#cold-water-puddles-streams)
 - [Survivor Quotes](#survivor-quotes)
 - [Waterfalls](#waterfalls)
 - [Energized Wires](#energized-wires)

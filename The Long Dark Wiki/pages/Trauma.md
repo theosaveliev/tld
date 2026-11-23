@@ -13,7 +13,7 @@
 | Current | Trauma |
 | Next | [Fallen Star](./Fallen%20Star.md) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene) |
-| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#radio-voice-man) (opening cutscene) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

@@ -20,7 +20,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Grey Mother](../assets/Grey_Mother.png) |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
@@ -80,8 +80,8 @@ Grey Mother seemingly passed away in her home in the time since MacKenzie left M
 
 ## Achievements
 
-- ![The Long Winter icon](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
-- ![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
+- ![The Long Winter icon](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#hidden-achievements)
+- ![Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#hidden-achievements)
 
 ## Gallery
 
@@ -103,10 +103,10 @@ _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%2
 
 ## Update history
 
-- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.46)):**
+- HOTFIX **17 January 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-46)):**
   - [WINTERMUTE] Fixed issue causing Grey Mother to float if a Deer Hide was placed under her chair.
 
-- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**
+- HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-27)):**
   - [Wintermute] Players can now transfer stacked items to Grey Mother during a Trust interaction.
   - [Wintermute] Improved Fire audio during Grey Mother cinematics in Episode One.
   - [Wintermute] Fixed issue where a chair would appear incorrectly during a Grey Mother cinematic.
@@ -115,11 +115,11 @@ _A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%2
   - [Wintermute] Fixed issue where inventory items could be lost after cancelling out of a Trust interaction with Grey Mother.
   - [Wintermute] Fixed issue where player would sometimes be standing on a chair after finishing dialogue with Grey Mother.
 
-- HOTFIX **23 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.12)):**
+- HOTFIX **23 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-12)):**
   - Fixed issue where duplicate Trust option appeared for Grey Mother.
 
-- HOTFIX **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.01)):**
+- HOTFIX **2 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-01)):**
   - Fixed floating necklace when speaking with Grey Mother
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.

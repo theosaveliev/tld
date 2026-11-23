@@ -63,7 +63,7 @@ No form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 
 ## History
 
-- Introduced. [1.48](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) (6 May, 2019)
+- Introduced. [1.48](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) (6 May, 2019)
 
 ## Trivia
 

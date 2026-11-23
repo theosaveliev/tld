@@ -14,7 +14,7 @@
 
 Polaroids are purely used for surveying. After collecting a Polaroid, an icon will appear on the player's map to show where the Vista the Polaroid corresponds to is located. If the player stands at the Vista location shown in the Polaroid and surveys the location with [Charcoal](./Charcoal.md) (provided that the weather is clear), a large area of the [Map](./Map.md) will be revealed.
 
-- Note that the only regions without Polaroids are [Broken Railroad](./Broken%20Railroad.md), [Desolation Point](./Desolation%20Point.md), [Transfer Pass](./Transfer%20Pass.md), and [Transition Regions](./Region.md#Transition_Zones), likely due to their small sizes. There are a total of 27 Polaroids:
+- Note that the only regions without Polaroids are [Broken Railroad](./Broken%20Railroad.md), [Desolation Point](./Desolation%20Point.md), [Transfer Pass](./Transfer%20Pass.md), and [Transition Regions](./Region.md#transition-zones), likely due to their small sizes. There are a total of 27 Polaroids:
 
 - Vista Polaroid: Some regions (Some have 2 Polaroids, instead of 1).
 - Tales Polaroids: Some are part of [Tales](./Tales.md) progression Collectibles.

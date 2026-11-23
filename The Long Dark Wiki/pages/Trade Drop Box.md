@@ -16,7 +16,7 @@ TFTFT Part 6 Broken Silence
 
 Update
 
-[2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+[2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

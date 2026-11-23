@@ -120,8 +120,8 @@ _The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is 
 
 ## Game History
 
-- Mountain Town was added to the game on 1 August 2017 in the [Wintermute update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00).
-- Mountain Town became available in Survival Mode on 7 December 2017 in the [Rugged Sentinel](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) update.
+- Mountain Town was added to the game on 1 August 2017 in the [Wintermute update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release).
+- Mountain Town became available in Survival Mode on 7 December 2017 in the [Rugged Sentinel](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) update.
 - Mountain Town map has changed with Wintermute Redux update.
 
 ## References
@@ -134,4 +134,4 @@ _The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is 
 
 ---
 
-[^1]: Raphael van Lierop‏, _Twitter_, 5 August 2017 [https://twitter.com/RaphLife/status/893702535973752832](https://twitter.com/RaphLife/status/893702535973752832)
+[^1]: Raphael van Lierop‏, _Twitter_, 5 August 2017 <https://twitter.com/RaphLife/status/893702535973752832>

@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png) |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
+| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [First Aid](./First%20Aid.md) |
@@ -78,5 +78,5 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 ## Update history
 
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game

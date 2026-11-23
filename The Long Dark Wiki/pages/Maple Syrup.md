@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Maple Syrup icon](../assets/Maple_Syrup_icon.png) |
-| Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79) |
+| Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-79) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
@@ -115,5 +115,5 @@ These are places where the syrup may be placed directly in the world, not a cont
 
 ## Update history
 
-- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
+- UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-79)):**
   - Added to game.

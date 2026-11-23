@@ -61,7 +61,7 @@ There are 5 different sizes of metal shelves.
 
 ## Harvesting
 
-Most metal shelves may be harvested for scrap metal; however, it is most efficient to harvest Large metal shelves. The amount of Scrap Metal received per unit time, per calorie, and per condition of the Hacksaw are higher. One location with a large number of these shelves is in the first-floor employee area of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md#Upper_levels).
+Most metal shelves may be harvested for scrap metal; however, it is most efficient to harvest Large metal shelves. The amount of Scrap Metal received per unit time, per calorie, and per condition of the Hacksaw are higher. One location with a large number of these shelves is in the first-floor employee area of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md#upper-levels).
 
 **Time, calories, and hacksaw wear to break down metal shelves of each size**
 

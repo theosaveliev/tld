@@ -22,7 +22,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png) |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
@@ -99,6 +99,6 @@ I discarded the farsighted mask, and only bone remains. The gate is closed. Will
 
 ## Update history
 
-\* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)):**
+\* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86)):**
 
 - Added to game.

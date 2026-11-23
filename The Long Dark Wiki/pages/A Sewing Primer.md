@@ -23,7 +23,7 @@
 | Property | Details |
 | --- | --- |
 |  | [A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) |
-| Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
+| Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
@@ -41,7 +41,7 @@ _For the version encountered in [Wintermute](./Wintermute.md), see [A Sewing Pri
 
 ## Research
 
-_A Sewing Primer_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Mending skill points](./Mending.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_A Sewing Primer_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Mending skill points](./Mending.md#skill-levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -111,5 +111,5 @@ _A Sewing Primer_ is also a possible loot item of the [Cargo Containers](./Cargo
 
 ## Update history
 
-- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)):**
+- UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update)):**
   - Added to game.

@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Major Bruising icon](../assets/Major_Bruising_icon.png) |
-| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256) |
+| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update) |
 | Update | 0.256 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |

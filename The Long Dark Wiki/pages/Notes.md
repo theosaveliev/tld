@@ -6,7 +6,7 @@
 
 - [A Note Left Behind](#a-note-left-behind)
 - [Desolation Point](#desolation-point)
-- [Climber's Journal Page](#climbers-journal-page)
+- [Climber's Journal Page](#climber-s-journal-page)
 - [Timberwolf Mountain](#timberwolf-mountain)
 - [Other Notes](#other-notes)
 - [Ash Canyon](#ash-canyon)

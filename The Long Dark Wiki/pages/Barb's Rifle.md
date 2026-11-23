@@ -22,7 +22,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Property | Details |
 | --- | --- |
 |  | [Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
@@ -69,7 +69,7 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 - Barb's Rifle has a unique stripper clip painted in green camo that can be seen when reloading.
 - Barb's rifle is the most cost-effective rifle to repair, this makes it the best variant for long term use.
 - Despite the description mentioning the rifle being more reliable, it has the exact same jamming rate and threshold as all other rifles.
-- Barb's rifle belongs to Barbara Quincy, owner of the [Quonset Garage](./Quonset%20Garage.md), according to a [Buffer Memory.](./Buffer%20Memories.md#Coastal_Highway)
+- Barb's rifle belongs to Barbara Quincy, owner of the [Quonset Garage](./Quonset%20Garage.md), according to a [Buffer Memory.](./Buffer%20Memories.md#coastal-highway)
 - Barb's rifle is based on the No. 4 Rifle, a later version of the Lee-Enfield rifle, albeit with a different magazine. On the actual rifles, the magazine did not change much.
 
 ## Gallery
@@ -92,5 +92,5 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 
 ## Update History
 
-- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update)):**
   - Added to game.

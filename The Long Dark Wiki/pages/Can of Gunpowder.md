@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) |
-| Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) |
+| Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) the crafting ingredients or ammuition that can be harvested, [Trader](./Trader.md) for ammunition that can be harvested) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md) |

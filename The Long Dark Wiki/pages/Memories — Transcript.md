@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Memories](../assets/Memories.png) |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) |
 | Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission Type | Primary |
 | **Missions** |  |
@@ -79,7 +79,7 @@ _Interacting with the phone then plays a cutscene, with the man sitting down and
 
 **Mackenzie:** "Jackrabbit Remote Transport. Mackenzie Speaking."
 
-**[Maureen](./Characters.md#Maureen): (Phone)** "I told her not to come up. I told her you couldn't fly in this weather. For once, would you not be so damn stubborn and listen to me..."
+**[Maureen](./Characters.md#maureen): (Phone)** "I told her not to come up. I told her you couldn't fly in this weather. For once, would you not be so damn stubborn and listen to me..."
 
 **Mackenzie:** "Woah woah...slow down, Maureen. What are you talking about?"
 

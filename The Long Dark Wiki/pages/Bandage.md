@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Bandage icon](../assets/Bandage_icon.png) |
-| Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094) |
+| Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-094) |
 | Wintermute | yes |
 | Renewable | Yes |
 | **Properties** |  |
@@ -74,14 +74,14 @@ Bandages can be used to treat the following afflictions:
 
 ## Update history
 
-- UPDATE **15 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.426)):**
+- UPDATE **15 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-426)):**
   - Add Bandage to starting player items in Hunted
-- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
+- UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)):**
   - Bandages are now stackable.
-- UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
+- UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152)):**
   - Bandages can now be harvested from Cloth.
-- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117)):**
   - Removed the Bandage requirement for healing Sprains. Sprains can now be healed with Painkillers or Rest.
-- HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094)):**
+- HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-094)):**
   - Compression and Heavy Bandage types have been consolidated into one Bandage. This Bandage will treat both Blood Loss and Sprains.
   - Added to game.

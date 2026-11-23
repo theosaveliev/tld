@@ -23,7 +23,7 @@ The **Vacant Depot** is a location in [Transfer Pass](./Transfer%20Pass.md), loc
 
 The location can be spotted at a distance by its old water tower, which used to draw water from nearby [Feedwater Cave](./Feedwater%20Cave.md). There are also two sidings, one of which has a coal tipple and two coal hoppers, plus an abandoned train station named Vale station.
 
-Inside the station can be found low to mid-grade clothing, some food and drink in lower difficulties, and 3 [suitcases](./Suitcase.md) for storage. Inside the ticket booth is one of the [Radios](./Trader.md#Radio_Locations) necessary to contact the Trader (if enabled).
+Inside the station can be found low to mid-grade clothing, some food and drink in lower difficulties, and 3 [suitcases](./Suitcase.md) for storage. Inside the ticket booth is one of the [Radios](./Trader.md#radio-locations) necessary to contact the Trader (if enabled).
 
 The abandoned train station can make for a good shelter for weary players. However, there is no [bed](./Bed.md), so players who wish to sleep there will want to bring a [Bedroll](./Bedroll.md), or a permanent bed may be constructed with the help of [Woodworking Tools](./Woodworking%20Tools.md) as part of [Safehouse customization](./Safehouse%20Customization.md). The interior has a fixed ambient temperature of -10C (similar to Lookouts). Players may have to light the [Fireplace](./Fireplace.md) in order to keep themselves warm, at least until sufficient Warmth bonus from clothing is available.
 

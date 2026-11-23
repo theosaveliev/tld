@@ -50,7 +50,7 @@ Occasionally snares will be found "broken", their condition reduced to 0%. This 
 
 ### Placement
 
-The player can place them in cleared Ice Fishing ice holes or produce a hole via Free From ice holes (See [Ice Fishing](./Ice%20Fishing.md#Fishing_Holes) for a list of suitable locations). Tip-Ups can be fitted with [Fishing Bait](./Fishing%20Bait.md) or a [Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md) to increase the odds that the catch fish.
+The player can place them in cleared Ice Fishing ice holes or produce a hole via Free From ice holes (See [Ice Fishing](./Ice%20Fishing.md#fishing-holes) for a list of suitable locations). Tip-Ups can be fitted with [Fishing Bait](./Fishing%20Bait.md) or a [Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md) to increase the odds that the catch fish.
 
 ### Setting Runs
 

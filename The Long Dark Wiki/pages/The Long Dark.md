@@ -143,7 +143,7 @@ Mitigate the needs of survival.
 
 Navigate a threatening region.
 
-- [Time of Day](./Survival%20Overlay.md#Time_of_Day)
+- [Time of Day](./Survival%20Overlay.md#time-of-day)
 - [Weather](./Weather.md)
 - [Wildlife](./Wildlife.md)
 - [Maps](./Region.md)
@@ -206,11 +206,11 @@ _The\_Long\_Dark\_-\_One\_Year\_Anniversary\_on\_Steam\_2015\_(Official\_Trailer
 
 ![Desolation Point update](../assets/The_Long_Dark_--_%22Desolation_Point%22_Update_--_Sept_2015_--_PC_Xbox_One_Mac.jpg)
 
-_[Desolation Point update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)_
+_[Desolation Point update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update)_
 
 ![Deep Forest update](../assets/The_Long_Dark_-_Deep_Forest_%28Game_Update%29.jpg)
 
-_[Deep Forest update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)_
+_[Deep Forest update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update)_
 
 ![Xbox One reveal trailer](../assets/The_Long_Dark_--_E3_2015_Trailer_--_Xbox_One_Reveal.jpg)
 

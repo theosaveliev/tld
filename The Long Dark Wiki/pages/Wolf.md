@@ -289,7 +289,7 @@ Wolves will actively pursue or flee from targets they detect or situations, orde
 6. _Charge:_ detected survivor or hunted prey (<10m, <21m if survivor is Weak), **or if the survivor any weapon wh**A wolf will stalk the survivor if they detect them (>10m) at **walking speed if within 10-20m**, and will **sprint if beyond 20m until they are 20m away**.**g them.**
 7. _Stalk:_ detect survivor (>10m). **Only one** If**f**multiple wolves **k the survivor at on**,**e**the wolf with the closest spawn point to the survivor's current coordinates will Stalk while all other wolf(s) will Hold Ground.**20m until they are 20m from the survivor**.
 8. _Hunt:_ see live prey wildlife not being hunted by any wolf.
-9. _Investigate Smell:_ dropped [Decoy](./Scent.md#Baiting/Decoys) or [Survivor Scent](./Scent.md). Note: wolves detect dropped Decoy based on distance regardless terrain or line-of-sight blockers, and investigate the **initial coordinates** of a smelly survivor **not the survivor's current coordinates.**
+9. _Investigate Smell:_ dropped [Decoy](./Scent.md#baiting-decoys) or [Survivor Scent](./Scent.md). Note: wolves detect dropped Decoy based on distance regardless terrain or line-of-sight blockers, and investigate the **initial coordinates** of a smelly survivor **not the survivor's current coordinates.**
 10. _Wander:_ return to spawn point and wande
 11. Smell: Wolves smell regardless of terrain in a 45m radius from the player or dropped smelly item. The "[Scent](./Scent.md) Indicator" UI element shows an estimate of current player scent, increased by carrying more smelly items (raw or cooked [meat](./Food%20And%20Drink.md), fresh hides, [fresh guts](./Fresh%20Gut.md), rabbit carcasses). The player has a minimum smell radius of 5m which increases up to 75m; strong winds can increase or decrease this radius +/-15m.
 12. Sound: Wolves can hear nearby [rifle](./Hunting%20Rifle.md)/[revolver](./Revolver.md)/[distress pistol](./Distress%20Pistol.md) reports (75m) and projectile weapon impacts (20m), which cause them to flee (except stones), unless charging.
@@ -366,42 +366,42 @@ _A Wolf compared to a [Timberwolf](./Timberwolf.md)_
 
 ## Update history
 
-- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**
+- HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-71)):**
   - [AI] Stags now animate correctly after being felled by a Wolf.
   - [AI] Polished Stag and Wolf animations and transitions.
 
-- HOTFIX **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
+- HOTFIX **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152)):**
   - All wildlife spawns are now more dynamic, and will change over the course of a game. Wolves, Deer, and Rabbits all refresh on different intervals, reflecting their relative mobility and travel/migration patterns.
 
-- HOTFIX **2 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.136)):**
+- HOTFIX **2 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-136)):**
   - Wolves no longer run from deer.
 
-- HOTFIX **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.103)):**
+- HOTFIX **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-103)):**
   - Wolf feeding animation alignment improved.
   - A Wolf Attack now results in Blood Loss and Infection Risk (vs. immediate Infection, as before). Infection Risk is reduced by applying Antiseptic. Wounds can become Infected up to 24 hours after they have been inflicted.
 
-- HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094)):**
+- HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-094)):**
   - Wolves will now stop to feed on fresh Deer kill. The amount of meat that can be retrieved from a carcass is affected by how long a Wolf feeds on it.
 
-- HOTFIX **13 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.083)):**
+- HOTFIX **13 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-083)):**
   - Added new Wolf turning animations.
   - Complete overhaul of Wildlife Spawning system. Wildlife will now spawn only if there is valid population remaining per a 24-hour period. Fresh carcasses (ex. Wolf kill) will decay (due to predation and the elements). It is now possible for a spawn region to become depopulated.
 
-- HOTFIX **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**
+- HOTFIX **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-073)):**
   - Fixed problem with wolf sliding while playing its howl animation.
   - Wolf Struggle: Non-critical VO will not play during the struggle.
   - Wolves: Fixed some unreported issues related to wolf attacks interrupting gear inspection, eating, drinking, and fire starting.
 
-- HOTFIX **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)):**
+- HOTFIX **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Tuned the Wolf struggle to make it a bit more challenging.
   - Updated all Wolf spawn regions, and added new Wolf and Deer spawn regions to the world.
   - Added NoSpawn trigger zones around in-world locations that should be safe from Wolves. You will no longer wake up to a wolf attack in the Hunter’s Blind.
 
-- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.04)):**
+- HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Updated the Wolf model (for real this time).
   - Significant overhaul of Wolf attack interactions. Added Struggle gameplay.
 
-- HOTFIX **20 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.03)):**
+- HOTFIX **20 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Updated the Wolf model.
 
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**

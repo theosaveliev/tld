@@ -323,4 +323,4 @@ _A hunting rifle on the rack in the [Trapper's Homestead](./Trapper%27s%20Homest
 
 ---
 
-[^1]: [https://x.com/RaphLife/status/1126240186050834432](https://x.com/RaphLife/status/1126240186050834432)
+[^1]: <https://x.com/RaphLife/status/1126240186050834432>

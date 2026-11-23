@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Broken Ribs icon](../assets/Broken_Ribs_icon.png) |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Update | 1.16 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |

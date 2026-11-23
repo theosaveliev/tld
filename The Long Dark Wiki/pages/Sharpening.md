@@ -75,4 +75,4 @@ Note: the table shown above, contains information related to the hatchet. Sharpe
 
 ## Trivia
 
-- The sharpening mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298), also known as the Timberwolf Mountain update.
+- The sharpening mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update), also known as the Timberwolf Mountain update.

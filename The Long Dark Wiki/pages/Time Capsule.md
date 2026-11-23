@@ -5,27 +5,27 @@
 **Contents**
 
 - [Install Instructions](#install-instructions)
-- [V2.01 Perilous Constraint](#v201-perilous-constraint)
-- [V.194 Fury, Then Silence](#v194-fury-then-silence)
-- [V1.89 Hesitant Prospect](#v189-hesitant-prospect)
-- [V1.79 Fearless Navigator](#v179-fearless-navigator)
-- [V1.64 Errant Pilgrim](#v164-errant-pilgrim)
-- [V1.60 Crossroads Elegy](#v160-crossroads-elegy)
-- [V1.56 Steadfast Ranger](#v156-steadfast-ranger)
-- [V1.47 Wintermute Redux](#v147-wintermute-redux)
-- [V1.37 Vigilant Flame](#v137-vigilant-flame)
-- [V1.30 Rugged Sentinel](#v130-rugged-sentinel)
-- [V1.15 Wintermute 1.0 Launch](#v115-wintermute-10-launch)
-- [V.426 Faithful Cartographer](#v426-faithful-cartographer)
-- [V.393 Resolute Outfitter](#v393-resolute-outfitter)
-- [V.365 Vigilant Trespass](#v365-vigilant-trespass)
-- [V.349 Penitent Scholar](#v349-penitent-scholar)
-- [V.339 Tireless Menace](#v339-tireless-menace)
-- [V.302 Timberwolf Mountain](#v302-timberwolf-mountain)
-- [V.271 Desolation Point](#v271-desolation-point)
-- [V.258 Deep Forest](#v258-deep-forest)
-- [V.236 Silent Hunter](#v236-silent-hunter)
-- [V.119 Early Access Launch](#v119-early-access-launch)
+- [V2.01 Perilous Constraint](#v2-01-perilous-constraint)
+- [V.194 Fury, Then Silence](#v-194-fury-then-silence)
+- [V1.89 Hesitant Prospect](#v1-89-hesitant-prospect)
+- [V1.79 Fearless Navigator](#v1-79-fearless-navigator)
+- [V1.64 Errant Pilgrim](#v1-64-errant-pilgrim)
+- [V1.60 Crossroads Elegy](#v1-60-crossroads-elegy)
+- [V1.56 Steadfast Ranger](#v1-56-steadfast-ranger)
+- [V1.47 Wintermute Redux](#v1-47-wintermute-redux)
+- [V1.37 Vigilant Flame](#v1-37-vigilant-flame)
+- [V1.30 Rugged Sentinel](#v1-30-rugged-sentinel)
+- [V1.15 Wintermute 1.0 Launch](#v1-15-wintermute-1-0-launch)
+- [V.426 Faithful Cartographer](#v-426-faithful-cartographer)
+- [V.393 Resolute Outfitter](#v-393-resolute-outfitter)
+- [V.365 Vigilant Trespass](#v-365-vigilant-trespass)
+- [V.349 Penitent Scholar](#v-349-penitent-scholar)
+- [V.339 Tireless Menace](#v-339-tireless-menace)
+- [V.302 Timberwolf Mountain](#v-302-timberwolf-mountain)
+- [V.271 Desolation Point](#v-271-desolation-point)
+- [V.258 Deep Forest](#v-258-deep-forest)
+- [V.236 Silent Hunter](#v-236-silent-hunter)
+- [V.119 Early Access Launch](#v-119-early-access-launch)
 
 ![Time capsule icon](../assets/Time_capsule_icon.png) ![5 Years Time Capsule](../assets/5_Years_Time_Capsule.png)
 
@@ -38,7 +38,7 @@ The **Time Capsule** is a playable archive released on September 20th 2019 to co
 
 Keep in mind that all previous versions of the game are Unsupported, meaning that these are old builds that will not be receiving any new updates. Many forms of [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md) that have long since been removed exist within previous builds of the game, and have their own pages on this Wiki should you encounter them (example cut tools and mechanics/early Wintermute Predux missions).
 
-It is still possible to earn [Steam Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) when using older builds of the game, though some Wintermute achievements cannot be unlocked when playing a build that existed before certain Episodes were released. It is not possible to earn any cut [achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Game_History) from the alpha version of the game.
+It is still possible to earn [Steam Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) when using older builds of the game, though some Wintermute achievements cannot be unlocked when playing a build that existed before certain Episodes were released. It is not possible to earn any cut [achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#game-history) from the alpha version of the game.
 
 The page for Hinterland's Time Capsule can be found here: [https://www.thelongdark.com/time-capsule/](https://www.thelongdark.com/time-capsule/)
 

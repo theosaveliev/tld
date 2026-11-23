@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fresh Leather icon](../assets/Fresh_Leather_icon.png) |
-| Release | [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05) |
+| Release | [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md) |
@@ -42,7 +42,7 @@ In early builds of _The Long Dark_ (alpha/beta), Fresh Leather was a very common
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Animal skins and certain types of Wood now need to be Cured (Dried) before they can be used as raw materials for Crafting.
-- UPDATE **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)):**
+- UPDATE **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**
   - Added to game.

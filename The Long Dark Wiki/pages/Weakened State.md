@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Weakened State icon](../assets/Weakened_State_icon.png) |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
@@ -58,7 +58,7 @@ The Recovery Time for this Affliction is different for each Experience (Cheat De
 
 ## Update history
 
-- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)):**
   - Added to game.
 
 ## Notes

@@ -227,4 +227,4 @@ Open Regions (Multiple region entrances/exits)
 
 ---
 
-[^1]: [https://www.thelongdark.com/news/escape-the-darkwalker-event-update-for-switch-and-december-release/](https://www.thelongdark.com/news/escape-the-darkwalker-event-update-for-switch-and-december-release/)
+[^1]: <https://www.thelongdark.com/news/escape-the-darkwalker-event-update-for-switch-and-december-release/>

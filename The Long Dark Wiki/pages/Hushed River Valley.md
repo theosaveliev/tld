@@ -18,7 +18,7 @@
 - [Moose-hide satchel](#moose-hide-satchel)
 - [Heavy Hammer](#heavy-hammer)
 - [Mackinaw Jacket](#mackinaw-jacket)
-- [Woodwright's Bow](#woodwrights-bow)
+- [Woodwright's Bow](#woodwright-s-bow)
 - [Locations](#locations)
 - [Trivia](#trivia)
 - [Maps](#maps)
@@ -75,7 +75,7 @@ Date Added
 >
 > — - In game description
 
-**Hushed River Valley**is the 9th [Region](./Region.md) added to the game, as a part of the [Vigilant Flame](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33_%28Vigilant_Flame_Update%29) update. The region connects to [Mountain Town](./Mountain%20Town.md) via a cave that runs from an area between the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) to a ridge top in the valley.
+**Hushed River Valley**is the 9th [Region](./Region.md) added to the game, as a part of the [Vigilant Flame](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update) update. The region connects to [Mountain Town](./Mountain%20Town.md) via a cave that runs from an area between the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) to a ridge top in the valley.
 
 Geographically, the river valley is defined by steep cliffs and canyons; the lowest point lies in the middle of the region, with higher altitudes toward the edges of the map. The central valley features several waterfalls, and there are a few snow shelters that may spawn at higher elevation points (e.g., near the cave that connects to [Mountain Town](./Mountain%20Town.md)).
 

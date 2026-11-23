@@ -26,7 +26,7 @@
 
 | [Materials2](../assets/Materials2.png) | Item | Weight | Cure Time |
 | --- | --- | --- | --- |
-| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 0.10 kg; _(0.22 lb)_ | - 5 days; - Can be dropped for [Baiting](./Scent.md#Baiting/Decoys) |
+| [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 0.10 kg; _(0.22 lb)_ | - 5 days; - Can be dropped for [Baiting](./Scent.md#baiting-decoys) |
 | [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1.00 kg; _(2.2 lb)_ | - 12 days |
 | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 0.75 kg; _(1.65 lb)_ | - 10 days |
 | [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 0.50 kg; _(1.1 lb)_ | - 5 days |

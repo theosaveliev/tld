@@ -6,7 +6,7 @@
 
 - [Overview](#overview)
 - [Tasks](#tasks)
-- [Cache locations/routes](#cache-locationsroutes)
+- [Cache locations/routes](#cache-locations-routes)
 - [Rewards](#rewards)
 
 **Convict Caches**

@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png) |
-| Release | [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196) |
+| Release | [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-196) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
@@ -54,16 +54,16 @@ Like all other plants, Cat Tails do not regrow once harvested.
 
 ## Update history
 
-- HOTFIX **5 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.35)):**
+- HOTFIX **5 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-35-steam)):**
   - [Stats] Cat Tail Stalk returned back to Minor Vitamin-C.
-- HOTFIX **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
+- HOTFIX **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - [Stats] Cat Tail Stalk buffed from Minor Vitamin-C to Moderate.
-- HOTFIX **19 January 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.93)):**
+- HOTFIX **19 January 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-93)):**
   - [Enviro] Adjusted Cat Tail placement to avoid unintentional clipping.
-- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
+- UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - [Enviro] Fixed issue causing Cat Tails to appear out of alignment during their animation.
-- UPDATE **24 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.226)):**
+- UPDATE **24 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-226)):**
   - Cat Tails can be harvested once to produce both the Stalks and the Heads.
   - Fixed issue that could cause Cat Tails to have zero weight and zero calories.
-- HOTFIX **12 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196)):**
+- HOTFIX **12 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-196)):**
   - Added to game.

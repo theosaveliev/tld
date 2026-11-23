@@ -27,12 +27,12 @@ The following 2 challenges were timed Events that are currently unavailable to b
 
 ## History
 
-- [Hopeless Rescue](./Hopeless%20Rescue.md) and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were added in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)
-- [Whiteout](./Whiteout.md) and [Nomad](./Nomad.md) were added in [version 0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
-- [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) was added in [version 0.364](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
-- [Archivist](./Archivist.md) was added in [version 1.41](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)
-- [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) was added in [version 1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)
-- [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) was added in [version 1.86](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) as a Halloween event, then permanently added as a challenge in [version 1.89](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
+- [Hopeless Rescue](./Hopeless%20Rescue.md) and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were added in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update)
+- [Whiteout](./Whiteout.md) and [Nomad](./Nomad.md) were added in [version 0.346](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346)
+- [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) was added in [version 0.364](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update)
+- [Archivist](./Archivist.md) was added in [version 1.41](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)
+- [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) was added in [version 1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update)
+- [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) was added in [version 1.86](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) as a Halloween event, then permanently added as a challenge in [version 1.89](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update)
 
 ## Pause Menu icons
 

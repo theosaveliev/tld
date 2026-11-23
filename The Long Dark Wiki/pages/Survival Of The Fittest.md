@@ -123,14 +123,14 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - [Mackenzie's Parka](./Mackenzie%27s%20Parka.md), [Astrid's Hardcase](./Astrid%27s%20Hardcase.md), and [Astrid's Backpack](./Astrid%27s%20Backpack.md) are found next to the [Rock Climb](./Rock%20Climb.md) in the ravine rather than beneath the Plane on the ridge above.
   - The with flashback with Will and Astrid plays after finding Astrid's Hardcase and is slightly longer than the Redux version (The cutscene is different from the Redux version, as a portion of it shows Mackenzie playing Solitaire, whereas in the Redux version this happens in-engine).
     - The flashback cutscene itself is split into two parts as before, one part in the [Jackrabbit Island](./Jackrabbit%20Island.md) and the second part (playing when the player reaches [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md)) showing the crash portion of the cutscene (in Redux, the second cutscene takes place after loading up the plane).
-    - [Maureen's](./Characters.md#Maureen) voice is not heard on the phone call with Will in the Predux version. She also does not have a voice actor listed in the credits. In the Redux, she is fully voiced albeit briefly.
+    - [Maureen's](./Characters.md#maureen) voice is not heard on the phone call with Will in the Predux version. She also does not have a voice actor listed in the credits. In the Redux, she is fully voiced albeit briefly.
   - A unique [Carcass Harvesting](./Carcass%20Harvesting.md) animation plays with the Scrap Metal Knife when examining the [Deer Carcass](./Deer%20Carcass.md). Carcass Harvesting animations would not be introduced until Part 4 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
 - The game does not automatically stop the player and turn the camera to show context sensitive situations, such as redirecting the camera towards Mackenzie's Crashed Plane when approached.
 
 ## Game History
 
-- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release)):**
   - Added to game.
-- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update)):**
   - Removed from the game as part of the Redux edition.

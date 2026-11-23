@@ -14,7 +14,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) |
-| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212) |
+| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212) |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md) |
@@ -50,8 +50,8 @@ Each Wolf Carcass (or variant) will always contain one pelt, along with [meat](.
 
 ## Update history
 
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update)):**
   - Animal skins and certain types of Wood now need to be Cured (Dried) before they can be used as raw materials for Crafting.
-- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
+- UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212)):**
   - Wolfskin Pelt is now used to repair the Wolfskin Coat (instead of Leather).
   - Added to game.

@@ -8,7 +8,7 @@
 - [Objectives](#objectives)
 - [Search for signs of life](#search-for-signs-of-life)
 - [Search the Mine](#search-the-mine)
-- [Search the Mountain Mine for any signs of Rüdiger](#search-the-mountain-mine-for-any-signs-of-rüdiger)
+- [Search the Mountain Mine for any signs of Rüdiger](#search-the-mountain-mine-for-any-signs-of-rudiger)
 - [Collectibles](#collectibles)
 - [Clothing](#clothing)
 - [Notes](#notes-1)

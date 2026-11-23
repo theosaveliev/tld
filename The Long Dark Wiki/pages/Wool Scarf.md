@@ -33,7 +33,7 @@ The Wool Scarf has identical stats to the [Cotton Toque](./Cotton%20Toque.md), w
 
 It shares the the highest warmth-to-weight ratio of any headgear with the Cotton Toque, [Improvised Hand Wraps](./Improvised%20Hand%20Wraps.md), and [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)/[Astrid's Toque](./Astrid%27s%20Toque.md).
 
-As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386) update, the Wool Scarf was moved to the headgear slot (it was formerly an accessory).
+As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update) update, the Wool Scarf was moved to the headgear slot (it was formerly an accessory).
 
 ## Gallery
 
@@ -45,5 +45,5 @@ As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%
 
 ## Update history
 
-- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
+- UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-386-resolute-outfitter-update)):**
   - Renamed from _Basic Wool Scarf_ to _Wool Scarf_

@@ -23,7 +23,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Ice Fishing background](../assets/Ice_Fishing_background.png) |
-| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
 ![Ice Fishing](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.

@@ -81,7 +81,7 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 
 ## Update history
 
-- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.073)):**
+- UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-073)):**
   - Fuel Sources: Increased the heating radius of Hardwood, Softwood, and Reclaimed Wood fuel types.
   - Tuned all Fuel sources. Hardwood, Softwood, and Reclaimed wood all now have reduced burn times, but are also lighter to carry. Wood Foraging has been tuned to be more generous. Net result is Fuel is easier to find and carry, but you need more of it.
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**

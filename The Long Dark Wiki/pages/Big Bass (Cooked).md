@@ -13,7 +13,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 | Property | Details |
 | --- | --- |
 |  | [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A big meal from a big fish. |
@@ -48,5 +48,5 @@ After reading this book, the player can fish at the [Pensive Pond](./Pensive%20P
 
 ## Update history
 
-- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game.

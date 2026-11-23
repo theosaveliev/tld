@@ -1638,7 +1638,7 @@ def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:
     assert "messagebox" not in markdown
 
 
-@pytest.mark.parametrize("invisible_prefix", ("\u200b", "\u200e", "\ufeff"))
+@pytest.mark.parametrize("invisible_prefix", ["\u200b", "\u200e", "\ufeff"])
 def test_page_markdown_cleans_invisible_prefix_before_table_markup(
     invisible_prefix: str,
 ) -> None:

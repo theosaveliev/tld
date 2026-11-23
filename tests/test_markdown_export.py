@@ -1861,7 +1861,7 @@ def test_postexpand_converts_tabber_titles_to_headings() -> None:
     )
 
     rendered = postexpand(
-        "<tabber>Wildlife management=Wildlife text\\n|-|Maps=Map text</tabber>",
+        "<tabber>Wildlife management=Wildlife text\n|-|Maps=Map text</tabber>",
         [],
         stats,
     )

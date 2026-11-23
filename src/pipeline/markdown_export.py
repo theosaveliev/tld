@@ -122,7 +122,7 @@ LEAKED_FILE_WRAPPER_WIDTH_SUFFIX_RE = re.compile(
 GENERATED_INFOBOX_TABLE_RE = re.compile(
     r"(?ms)(?:^|\r?\n)\{\|\r?\n\|\+\s*XSENT:infobox:[^\r\n]*\r?\n.*?^\|\}\s*$"
 )
-GENERATED_INFOBOX_LINE_BREAK_TOKEN = "TLDGENERATEDINFOBOXLINBREAK"
+GENERATED_INFOBOX_LINE_BREAK_SENTINEL = "TLDGENERATEDINFOBOXLINBREAK"
 
 
 INLINE_CODE_SPAN_RE = re.compile(
@@ -2373,7 +2373,7 @@ def _protect_generated_infobox_table_line_breaks(value: str) -> str:
     """Keep generated infobox row boundaries intact during template expansion."""
     return GENERATED_INFOBOX_TABLE_RE.sub(
         lambda match: re.sub(
-            r"\r?\n", GENERATED_INFOBOX_LINE_BREAK_TOKEN, match.group(0)
+            r"\r?\n", GENERATED_INFOBOX_LINE_BREAK_SENTINEL, match.group(0)
         ),
         value,
     )
@@ -2381,7 +2381,7 @@ def _protect_generated_infobox_table_line_breaks(value: str) -> str:
 
 def _restore_generated_infobox_table_line_breaks(value: str) -> str:
     """Restore infobox row boundaries after wikitextprocessor expansion."""
-    return value.replace(GENERATED_INFOBOX_LINE_BREAK_TOKEN, "\n")
+    return value.replace(GENERATED_INFOBOX_LINE_BREAK_SENTINEL, "\n")
 
 
 PANDOC_UNEXPECTED_REF_CLOSE_RE = re.compile(

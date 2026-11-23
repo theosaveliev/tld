@@ -1734,6 +1734,28 @@ More content.
     assert "## Empty section" not in markdown
 
 
+def test_page_markdown_collapses_redundant_blockquote_blank_lines() -> None:
+    body = """ > First paragraph
+>
+>
+> Attribution
+"""
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "> First paragraph" in markdown
+    assert "> Attribution" in markdown
+    assert "\n>\n>\n" not in markdown
+
+
+def test_page_markdown_trims_link_and_emphasis_whitespace() -> None:
+    body = "A [ link ](./Other.md) and __bold text __."
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "[link](./Other.md)" in markdown
+    assert "**bold text**" in markdown
+    assert "text __" not in markdown
+
+
 def test_page_markdown_normalizes_closed_heading_and_list_spacing() -> None:
     body = """## Section ##
 

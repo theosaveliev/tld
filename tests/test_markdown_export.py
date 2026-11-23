@@ -1696,7 +1696,7 @@ def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
     class TemplateContext:
         templates = {
             "Template:Infobox/Region": (
-                "<infobox><header>Details</header></infobox>"
+                "<infobox><title source='title' /></infobox>"
             )
         }
 
@@ -1708,6 +1708,30 @@ def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
 
     assert "Infobox/Region" in definitions
     assert "infobox/region" in definitions
+
+    prepass = cast(
+        "Callable[[str, object, Mapping[str, object], str, RenderStats], str]",
+        wiki_to_html_module.prepass,
+    )
+    stats: RenderStats = {
+        "infoboxes": 0,
+        "missing_templates": [],
+        "infobox_left": 0,
+        "missing_images": [],
+        "redlinks": 0,
+        "unrendered": 0,
+    }
+    rendered = prepass(
+        "{{infobox/region|title=Sample}}",
+        TemplateContext(),
+        definitions,
+        "Sample",
+        stats,
+    )
+
+    assert '<table class="infobox">' in rendered
+    assert "<caption>Sample</caption>" in rendered
+    assert stats["infoboxes"] == 1
 
 
 def test_page_markdown_removes_contents_links_for_removed_headings() -> None:
@@ -1885,15 +1909,23 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
         wiki_to_html_module.postexpand,
     )
     expanded = (
-        '<infobox><header>Condition</header>'
+        "<infobox><group>"
+        "<header>Condition</header>"
         '<data source="warmth"><label>Warmth</label>'
-        "<format>+20%</format></data></infobox>"
+        "<default>[[Warmth]]</default></data>"
+        '<data source="strength"><label>Strength</label>'
+        "<format>+20%</format></data>"
+        "</group></infobox>"
     )
 
     rendered = postexpand(expanded, [], stats)
 
     assert '<table class="infobox">' in rendered
+    assert '<th colspan="2" class="section">' in rendered
+    assert "Condition" in rendered
     assert "<th>Warmth</th>" in rendered
+    assert "[[Warmth]]" in rendered
+    assert "<th>Strength</th>" in rendered
     assert "+20%" in rendered
     assert "<infobox" not in rendered
     assert stats["infoboxes"] == 1

@@ -681,6 +681,7 @@ dependencies = [
     { name = "lxml" },
     { name = "mwparserfromhell" },
     { name = "pypandoc-binary" },
+    { name = "python-slugify" },
     { name = "wikitextprocessor" },
 ]
 

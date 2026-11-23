@@ -21,7 +21,6 @@
 **Template:spoiler**
 > **An escaping convict left some hidden caches to help the other convicts following him.**
 >
->
 > — In-game description
 
 **Convict Caches** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).

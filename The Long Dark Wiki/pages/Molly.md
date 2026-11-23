@@ -38,13 +38,12 @@
 | Voiced by | Jennifer Kitchen |
 
 > “__Years on a working farm in a remote corner of Great Bear Island have left their mark on Molly. She’s plain-spoken, often blunt -- she sees the world for what it is. There are no illusions inhabiting Molly’s life and she likes it that way.  
-   
+
  Other than the farm and regular subsistence hunting, simple pleasures -- tea and the wanderings of her own imagination -- keep Molly occupied.__”
 >
 > — In-game description
-
-> **"There's different ways to hurt someone. Some ways heals. Other ways never do."**
 >
+> **"There's different ways to hurt someone. Some ways heals. Other ways never do."**
 >
 > — Molly speaking to [Astrid](./Astrid%20Greenwood.md) about her past
 

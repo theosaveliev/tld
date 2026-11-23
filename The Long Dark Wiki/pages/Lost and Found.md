@@ -8,7 +8,6 @@
 - [Locations](#locations)
 - [History](#history)
 - [Trivia](#trivia)
-- [References](#references)
 
 **Lost and Found**
 

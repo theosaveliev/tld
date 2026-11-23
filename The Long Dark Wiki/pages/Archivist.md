@@ -20,8 +20,8 @@
 | Difficulty | 3 |
 | Date Added | December 2018 |
 
-> “__In the Quiet Apocalypse, fragments of the old world are few and far between. Collect all the Buffer Memories you find, to preserve their echoes.  
- During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your Journal.__”
+> “**In the Quiet Apocalypse, fragments of the old world are few and far between. Collect all the Buffer Memories you find, to preserve their echoes.  
+ During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your Journal.**”
 >
 > — Main Menu description
 

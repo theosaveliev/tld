@@ -33,13 +33,12 @@
 | Voiced by | Laurie Mcginnis |
 
 > “__The Warden at Blackrock Penitentiary, Franklin has found himself caught up in Mathis’ deadly schemes.  
-   
+
  More an administrator than a disciplinarian, no one is more aware of the notorious prison’s dark history than its Warden. But Franklin is clear-eyed about his purpose on Great Bear Island -- the worst of the worst end up with him at Blackrock. And if someone has to be in charge, it might as well be him.__”
 >
 > — [What I Know](./What%20I%20Know.md) description
-
-> **Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.**
 >
+> **Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.**
 >
 > — Franklin introducing himself inside his cell to Mackenzie
 

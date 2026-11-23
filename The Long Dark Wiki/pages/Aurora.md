@@ -31,7 +31,6 @@
 >
 > Methuselah: "No. But it was only a mater of time. This has all happened before."
 >
->
 > — [Methuselah](./Methuselah.md) explaining the Aurora to [Mackenzie](./Will%20Mackenzie.md)
 
 The **Aurora** is a type of weather in _[The Long Dark](./The%20Long%20Dark.md)_. They are a reoccurring phenomenon that is the result of a [geo-magnetic storm](./First%20Flare.md) which ended civilization on Earth. Auroras create bright, colorful lights in the night sky, make predators more dangerous, and temporarily power electronics like the [Flashlight](./Flashlight.md).

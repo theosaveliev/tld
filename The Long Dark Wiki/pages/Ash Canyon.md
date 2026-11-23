@@ -30,7 +30,7 @@
 | Hazards and Survivability | Lots of high rope bridges. Weather can often be poor. Some shelters scattered throughout. |
 | Date Added | December 7 2020 |
 
-> “__For advanced players. A climber's paradise dotted with narrow ravines, towering cliffs, and multiple high plateaus. Its burnt forests and mining settlements also hint at a darker history. __”
+> “**For advanced players. A climber's paradise dotted with narrow ravines, towering cliffs, and multiple high plateaus. Its burnt forests and mining settlements also hint at a darker history.**”
 >
 > — - In-game description
 

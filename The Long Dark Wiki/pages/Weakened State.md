@@ -54,7 +54,7 @@ The Recovery Time for this Affliction is different for each Experience (Cheat De
 | Voyageur | 48 hours | 60 hours | 72 hours |
 | Stalker | 60 hours | 72 hours | 84 hours |
 | Interloper | 60 hours | 72 hours | 84 hours |
-| Misery[^1] | N/A | N/A | N/A |
+| Misery (1) | N/A | N/A | N/A |
 
 ## Update history
 

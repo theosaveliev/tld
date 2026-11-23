@@ -36,8 +36,8 @@
 | **Game Information** |  |
 | Voiced by | Jordan Waunch |
 
-> “__Heller: Mathis said to give you this.  
- Mackenzie: That doesn't look like a coat...It's...cold out here. I won't find the dam if I freeze before I get there.__”
+> “**Heller: Mathis said to give you this.  
+ Mackenzie: That doesn't look like a coat...It's...cold out here. I won't find the dam if I freeze before I get there.**”
 >
 > — Heller: Do I look like a guy who gives a shit? You don't want to freeze out here? Then get moving! Heller slams the door shut on Mackenzie Heller at the start of [The Power Plant](./The%20Power%20Plant.md)
 

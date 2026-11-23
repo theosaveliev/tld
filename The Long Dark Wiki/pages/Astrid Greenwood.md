@@ -10,7 +10,6 @@
 - [Episode 1](#episode-1)
 - [Episode 3](#episode-3)
 - [Episode 4](#episode-4)
-- [Episode 5](#episode-5)
 - [Ingame stats](#ingame-stats)
 - [Belongings](#belongings)
 - [Gallery](#gallery)
@@ -36,7 +35,7 @@
 | **Game Information** |  |
 | Voiced by | [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) |
 
-> “__I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight. __”
+> “**I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight.**”
 
 **Doctor Astrid Greenwood** is one of two playable protagonists in _[The Long Dark](./The%20Long%20Dark.md)_. She is playable in Episode 3 and Episode 5.
 

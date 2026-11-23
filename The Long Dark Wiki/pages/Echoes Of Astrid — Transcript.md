@@ -43,8 +43,8 @@ Mackenzie: "She definitely passed through here, and in a hurry."
 
 _He continues to follow the trail, and finds another piece of scarf. Eventually he comes to a pond full of rabbits and a tutorial message appears._
 
-> “__Aim True and You Won't Go Hungry  
- You can pick up small Stones and use them to Stun Rabbits. Equip them, and throw them to hit a Rabbit, then grab it while it's stunned. If you can kill it, you can eat it.__”
+> “**Aim True and You Won't Go Hungry  
+ You can pick up small Stones and use them to Stun Rabbits. Equip them, and throw them to hit a Rabbit, then grab it while it's stunned. If you can kill it, you can eat it.**”
 >
 > — What I Know description
 
@@ -54,31 +54,31 @@ Mackenzie: "There must be a way to get up there."
 
 _Mackenzie finds some [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) hanging on a tree with Astrid's scarf fragment and harvests it, prompting another tutorial message_
 
-[Old Man's Beard](./Old%20Man%27s%20Beard%20Lichen.md) | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Moss to Prevent Infection  
- Old Man's Beard Lichen has long been appreciated for its anti-bacterial properties. First, prepare it to be used for treatment. Then, apply it to injuries to reduce Infection Risk.__
+[Old Man's Beard](./Old%20Man%27s%20Beard%20Lichen.md) | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Moss to Prevent Infection  
+ Old Man's Beard Lichen has long been appreciated for its anti-bacterial properties. First, prepare it to be used for treatment. Then, apply it to injuries to reduce Infection Risk.**
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” 
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |”
 
 _Mackenzie climbs the Rock Climb and finds a fallen tree has blocked the path, prompting another tutorial message_
 
-Crouching | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Get Under Stuff  
- Occasionally you'll encounter an obstacle in your path. Crouching (using [L Ctrl]) might help to get under it. Crouching also makes you less obvious to wildlife, from a distance. You move more slowly, but also more silently, so you might get closer.__
+Crouching | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Get Under Stuff  
+ Occasionally you'll encounter an obstacle in your path. Crouching (using [L Ctrl]) might help to get under it. Crouching also makes you less obvious to wildlife, from a distance. You move more slowly, but also more silently, so you might get closer.**
 
 What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” _He crouches under it and finds a cave and enters it, prompting another tutorial messages_
 
-Light | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Each Light Source has Pros and Cons  
- You may need to improvise Light Sources to see in the dark. you can Craft Torches out of available materials. Flares provide a one-off light source. Lanterns last longer, but use up Oil. Darkness hides dangers, and also prevents you from Crafting, Repairing your gear, and other actions.__
+Light | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Each Light Source has Pros and Cons  
+ You may need to improvise Light Sources to see in the dark. you can Craft Torches out of available materials. Flares provide a one-off light source. Lanterns last longer, but use up Oil. Darkness hides dangers, and also prevents you from Crafting, Repairing your gear, and other actions.**
 
 What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” _Mackenzie finds a [Frozen Corpse](./Frozen%20Corpse.md) next to some supplies, a [Torch](./Torch.md), and a [Bedroll](./Bedroll.md)_
 
-Bedrolls | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Resting Heals You and Saves Your Progress  
- Resting restores lost Condition and helps you recover from Afflictions. You can Rest in beds you find as you explore the world. A Bedroll allows you to Rest whenever you like. Remember that Resting uses up Calories and the hours that pass make you Hungry and Thirsty.__
+Bedrolls | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Resting Heals You and Saves Your Progress  
+ Resting restores lost Condition and helps you recover from Afflictions. You can Rest in beds you find as you explore the world. A Bedroll allows you to Rest whenever you like. Remember that Resting uses up Calories and the hours that pass make you Hungry and Thirsty.**
 
 What I Know description
 
@@ -88,9 +88,9 @@ Mackenzie: "Astrid...where did you go?"
 
 _A Wolf is feeding on a Deer Carcass ahead, prompting another tutorial message_
 
-Wolves | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Avoid if You Can!  
+Wolves | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Avoid if You Can!  
  Wolves are not dogs and out here they are very dangerous. They normally avoid humans, but do you want to take a chance? Like most things in nature, Wolves are afraid of Fire. Campfires, Torches, or Flares can keep them at bay. Thrown Torches or Flares might scare them away. But there are no guarantees. In the end, the best way to avoid tangling with Wolves is to give them a wide berth.  
- Remember, they are attracted to Blood, Raw Meat, and Raw Fish. These items can also be used as Decoys to put Wolves off your trail.__
+ Remember, they are attracted to Blood, Raw Meat, and Raw Fish. These items can also be used as Decoys to put Wolves off your trail.**
 
 What I Know description
 
@@ -102,8 +102,8 @@ Mackenzie: "A road! Great. I'm not as lost as I thought."
 
 _Mackenzie finds several cars across a bridge and steps into one, prompting another tutorial message_
 
-Vehicles | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Take Shelter  
- Cars can serve as shelters, protecting you from deadly wind and wildlife. You might even find supplies left inside the glove compartments or trunks.__
+Vehicles | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Take Shelter  
+ Cars can serve as shelters, protecting you from deadly wind and wildlife. You might even find supplies left inside the glove compartments or trunks.**
 
 What I Know description
 
@@ -241,7 +241,7 @@ Grey Mother **(Text)**: "Come back when you've sorted out my firewood situation,
 
 _Another tutorial message pops up_
 
-Trust | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Trust. A hard thing to come by these days  
- Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.__
+Trust | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Trust. A hard thing to come by these days  
+ Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.**
 
 What I Know description

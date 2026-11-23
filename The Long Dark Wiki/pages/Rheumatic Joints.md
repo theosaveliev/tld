@@ -24,7 +24,7 @@
 ## Overview
 
 > “__A painful inflammation has taken hold.  
-   
+
  You cannot Sprint as quickly, nor Aim a weapon for long before having to lower it. Sprains are more likely.__”
 >
 > — In-game Description

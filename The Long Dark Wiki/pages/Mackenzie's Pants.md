@@ -78,7 +78,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 > “**The pants you were wearing when you crashed in your plane.**”
 >
 > — Post Crash In-game description
-
+>
 > “**Comfortable pants, for a bush pilot.**”
 >
 > — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar

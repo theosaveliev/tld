@@ -24,7 +24,6 @@
 - [Affliction Availability](#affliction-availability)
 - [Positive Benefit](#positive-benefit)
 - [Negative Affliction](#negative-affliction)
-- [Craft-able Unlocks](#craft-able-unlocks)
 - [Achievements](#achievements)
 - [Gallery](#gallery)
 

@@ -37,7 +37,6 @@
 - [Wintermute](#wintermute)
 - [Notes](#notes)
 - [Trivia](#trivia)
-- [References](#references)
 - [Gallery](#gallery)
 
 **Hunting Rifle**
@@ -298,7 +297,7 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 
 ![A 5-round stripper clip being loaded.](../assets/Riflereloadingmagazine.jpg)
 
-[Missing image: Hunting\_Rifle\_icon\_(story).png]
+Missing image: Hunting\_Rifle\_icon\_(story).png
 
 _Old Epiosde 2 Predux story model icon for a second Hunting Rifle_
 

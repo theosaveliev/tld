@@ -7,7 +7,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Happy Harvester icon](../assets/Happy_Harvester_icon.png) |
-| Description | Harvested 25 of each kind of plant (single game)[^1] |
+| Description | Harvested 25 of each kind of plant (single game) (1) |
 
 **Happy Harvester** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -17,11 +17,10 @@ This achievement is obtained after harvesting twenty-five [cat tail plants](./Ca
 
 Note: That is twenty-five harvest actions of each type. Rose hip bushes currently yield exactly eight rose hips per plant, so a total of twenty-five harvests would yield 200 rose hips total. Mushrooms and lichens count individually since they are individual actions, even though they may grow on the same stump or tree. The game has no counter anywhere of how far along this achievement the player is.
 
-See the individual pages for where to look for these plants.[^2]
+See the individual pages for where to look for these plants.
 
 ## Notes
 
 ---
 
 [^1]: Mushrooms and lichens are not technically plants but fungi and cyanobacterium respectively.
-[^2]:

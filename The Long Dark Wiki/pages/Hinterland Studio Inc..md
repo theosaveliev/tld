@@ -10,7 +10,6 @@
 - [Trivia](#trivia)
 - [External links](#external-links)
 - [Gallery](#gallery)
-- [References](#references)
 
 **Hinterland Studio Inc.**
 

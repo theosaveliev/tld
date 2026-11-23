@@ -37,7 +37,6 @@
 **Template:spoiler**
 > **You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.**
 >
->
 > — In-game description
 
 **Survival Of The Fittest** was the first mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).

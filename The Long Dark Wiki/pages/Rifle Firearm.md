@@ -76,7 +76,7 @@ Direct hits to an animal with a rifle round that are not critical will cause ble
 | [Deer](./Deer.md) | Instant | 45 minutes | 60 minutes | 240 minutes |
 | [Wolf](./Wolf.md) | Instant | Instant | 60 minutes | 120 minutes |
 | [Bear](./Bear.md) | 60 minutes | 240 minutes | 360 minutes | 480 minutes |
-| [Moose](./Moose.md) | N/A[^1] | N/A[^2] | N/A[^3] | N/A[^4] |
+| [Moose](./Moose.md) | N/A (1) | N/A (2) | N/A (3) | N/A (4) |
 
 ## Skill levels
 
@@ -109,6 +109,3 @@ Once players have reached a new skill level, they unlock the effects described i
 ---
 
 [^1]: Moose do not bleed out.
-[^2]: 
-[^3]: 
-[^4]:

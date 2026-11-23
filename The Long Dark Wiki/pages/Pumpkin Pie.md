@@ -35,9 +35,8 @@
 > “**A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.**”
 >
 > — 4DON description
-
-> **A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.**
 >
+> **A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.**
 >
 > — Escape the Darkwalker description
 

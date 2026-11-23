@@ -7,7 +7,6 @@
 - [Overview](#overview)
 - [Wildlife](#wildlife)
 - [Gallery](#gallery)
-- [References](#references)
 
 **Old Substation**
 

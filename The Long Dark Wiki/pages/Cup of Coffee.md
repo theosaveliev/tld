@@ -6,6 +6,8 @@
 
 - [Creation](#creation)
 - [Effects](#effects)
+- [Cold](#cold)
+- [Hot](#hot)
 - [Uses](#uses)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
@@ -61,9 +63,45 @@ Survivors can brew a Cup of Coffee at a [fire](./Fire.md) with a [Tin of Coffee]
 
 A Cup of Coffee can be consumed while either cold or hot. The following effects are applied to the survivor on consumption:
 
-**Cold**
+### Cold
 
-**Hot**
+| Property | Details |
+| --- | --- |
+| **Condition** |  |
+|  | [Warmth icon](../assets/Warmth_icon.png) |
+|  | [Warmth](./Warmth.md) |
+|  | [Fatigue icon](../assets/Fatigue_icon.png) |
+|  | [Fatigue](./Fatigue.md) |
+|  | [Thirst icon](../assets/Thirst_icon.png) |
+|  | [Thirst](./Thirst.md) |
+|  | [Hunger icon](../assets/Hunger_icon.png) |
+|  | [Hunger](./Hunger.md) |
+| **Afflictions** |  |
+|  | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
+|  | [Fatigue Reduced](./Fatigue%20Reduced.md) |
+|  | 1 hour |
+|  | Missing image: icon.png / _icon.png_ |
+
+### Hot
+
+| Property | Details |
+| --- | --- |
+| **Condition** |  |
+|  | [Warmth icon](../assets/Warmth_icon.png) |
+|  | [Warmth](./Warmth.md) |
+|  | [Fatigue icon](../assets/Fatigue_icon.png) |
+|  | [Fatigue](./Fatigue.md) |
+|  | [Thirst icon](../assets/Thirst_icon.png) |
+|  | [Thirst](./Thirst.md) |
+|  | [Hunger icon](../assets/Hunger_icon.png) |
+|  | [Hunger](./Hunger.md) |
+| **Afflictions** |  |
+|  | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
+|  | [Fatigue Reduced](./Fatigue%20Reduced.md) |
+|  | 1 hour |
+|  | [Warming Up icon](../assets/Warming_Up_icon.png) |
+|  | [Warming Up](./Warming%20Up.md) |
+|  | 1 hour |
 
 ## Uses
 

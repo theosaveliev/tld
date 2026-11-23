@@ -76,12 +76,12 @@ Do note that light winds currently slow down the player more than heavy winds do
 
 | Terrain | Max Bonus | Max Penalty |
 | --- | --- | --- |
-| Roads[^1] | 15% | 0% |
+| Roads (1) | 15% | 0% |
 | Slopes | -100% | -20% |
-| Heavy Wind[^2] | 20% | 50% |
-| Indoors[^3] | 0% (Outside) | 33% (Inside) |
-| Blizzard[^4] | 0% | 0% |
-| Crab Walk[^5] | 3-21% | 0 |
+| Heavy Wind (2) | 20% | 50% |
+| Indoors (3) | 0% (Outside) | 33% (Inside) |
+| Blizzard (4) | 0% | 0% |
+| Crab Walk (5) | 3-21% | 0 |
 | Sprinting | 45% | 0 |
 
 ### Travois

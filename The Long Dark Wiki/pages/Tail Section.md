@@ -49,7 +49,7 @@ Be aware that opening a container with a hacksaw that has very low durability ma
 - Door 1: [balaclavas](./Balaclava.md), [wool toques](./Wool%20Toque.md), [wool longjohns](./Wool%20Longjohns.md), and [wool scarfs](./Wool%20Scarf.md)
 - Door 2: [Wood Matches](./Wood%20Matches.md) and [Accelerant](./Accelerant.md)
 
-Box behind this container contains a [Rope ](./Mountaineering%20Rope.md) and [Scrap Metal](./Scrap%20Metal.md) in Interloper.
+Box behind this container contains a [Rope](./Mountaineering%20Rope.md) and [Scrap Metal](./Scrap%20Metal.md) in Interloper.
 
 Cargo container B
 

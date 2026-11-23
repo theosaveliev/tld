@@ -1,6 +1,6 @@
 # Frozen Corpse
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
 
 **Frozen Corpse**
 
@@ -11,13 +11,12 @@
 | **Container** |  |
 | Capacity | 10.00 kg(22 lbs) |
 
-> “__A frozen corpse brings Great Bear Island's harsh reality front and centre.  
- Leave them in peace, or search the body for supplies to help you avoid their fate.__”
+> “**A frozen corpse brings Great Bear Island's harsh reality front and centre.  
+ Leave them in peace, or search the body for supplies to help you avoid their fate.**”
 >
 > — [What I Know](./What%20I%20Know.md) description
-
-> **Woah. Someone's just...sitting here. Frozen. What the hell?**
 >
+> **Woah. Someone's just...sitting here. Frozen. What the hell?**
 >
 > — [Will Mackenzie](./Will%20Mackenzie.md)
 

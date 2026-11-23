@@ -33,7 +33,7 @@ Interloper doesn't just raise the difficulty of [Stalker](./Stalker.md) to the n
 
 Interloper's learning curve is a sharp one, forcing players to relearn how to survive by using more advanced game mechanics, such as [Daisy Chaining](./Daisy%20Chaining.md), [Hibernation](./Hibernation.md), [Mountain Goating](./Mountain%20Goating.md), and [Beachcombing](./Beachcombing.md).
 
-_A guide for players new to Interloper can be found [here](./Survival%20Mode%20%E2%80%94%20Interloper%20Tips.md)._
+_A guide for players new to Interloper can be found [Survival Mode — Interloper Tips](./Survival%20Mode%20%E2%80%94%20Interloper%20Tips.md)._
 
 ## Interloper Settings
 

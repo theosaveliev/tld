@@ -23,8 +23,8 @@
 
 ## Overview
 
-> “__Jeremiah: "Wolves - - they hate fire, like most wildlife. Campfire'll keep them away from you at night, most of the time. Improvise a torch if you have to. Flare will work too, you know one of those emergency ones for road accidents. Sometimes, if you get lucky, a stone to the head will scare them off."  
- Mackenzie: "And if I don't have any of those things?"__”
+> “**Jeremiah: "Wolves - - they hate fire, like most wildlife. Campfire'll keep them away from you at night, most of the time. Improvise a torch if you have to. Flare will work too, you know one of those emergency ones for road accidents. Sometimes, if you get lucky, a stone to the head will scare them off."  
+ Mackenzie: "And if I don't have any of those things?"**”
 >
 > — Jeremiah: "Then wait until they're close, and hit them with anything you can. Knife. Hammer. Hatchet. Or your own damn hands. And you don't stop hitting until one of you is dead." Mackenzie: "There's a theme here, isn't there?" Jeremiah: "Yeah. That is it: fight if you want to live. It's more Hobbes than Darwin. [Jeremiah](./Jeremiah.md) and [Mackenzie](./Will%20Mackenzie.md) discussing wolves (Predux)
 
@@ -60,7 +60,7 @@ Only 4 Tool options appear once a Struggle begins regardless of how many tools t
 
 Different tools are more or less effective at ending the struggle (scaring the Wolf), injuring, or killing the wolf (e.g., a [Prybar](./Prybar.md) may only scare the animal away, while a [Hatchet](./Hatchet.md) can inflict fatal Blood Loss). If the player chooses a loaded [Revolver](./Revolver.md) for the Wolf struggle, the option to 'Take Shot' will be presented once half of the struggle bar is filled, this fires a round and ends the struggle immediately, scaring the Wolf and potentially killing it or wounding the Wolf.
 
-| Image | Weapon | Damage Type | Damage[^1] | Flee Chance[^2] | Puncture Bleedout | Tool Decay |
+| Image | Weapon | Damage Type | Damage (1) | Flee Chance (2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
 | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
@@ -73,10 +73,10 @@ Different tools are more or less effective at ending the struggle (scaring the W
 | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
 | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
-| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[^3] | Strike | 1.00% | 1.00% | None | 1 |
-| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[^4] | Strike | 1.00% | 1.00% | None | 1 |
-| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[^5] | Strike | 1.00% | 1.00% | None | 1 |
-| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[^6] | Strike | 1.00% | 1.00% | None | 1 |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) (3) | Strike | 1.00% | 1.00% | None | 1 |
+| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md) (4) | Strike | 1.00% | 1.00% | None | 1 |
+| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md) (5) | Strike | 1.00% | 1.00% | None | 1 |
+| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md) (6) | Strike | 1.00% | 1.00% | None | 1 |
 
 Note some [Tools](./Tools.md) cannot be selected as defense options during a Wolf Struggle, this includes the [Hacksaw](./Hacksaw.md), [Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), [Bear Spear](./Bear%20Spear.md), [Distress Pistol](./Distress%20Pistol.md), [Storm Lantern](./Storm%20Lantern.md), [Flashlight](./Flashlight.md), and [Stone](./Stone.md).
 
@@ -189,6 +189,3 @@ _A "Demon Wolf" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.m
 [^1]: Per hit
 [^2]: Per hit
 [^3]: Struggle is guaranteed to end after "Take Shot" is chosen (70% to flee, 30% to kill)
-[^4]: 
-[^5]: 
-[^6]:

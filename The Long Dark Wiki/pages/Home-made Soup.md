@@ -35,8 +35,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_HomeMadeSoup |
 
-> “__Grey Mother: "It's been awhile since Grey Mother had anyone to make meals for. Please...take some soup before you go..."  
- Mackenzie: "Uhh...thanks."__”
+> “**Grey Mother: "It's been awhile since Grey Mother had anyone to make meals for. Please...take some soup before you go..."  
+ Mackenzie: "Uhh...thanks."**”
 
 **Home-made Soup** (sic) is a [food](./Food%20And%20Drink.md) item found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md).
 

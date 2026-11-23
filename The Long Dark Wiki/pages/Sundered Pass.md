@@ -12,7 +12,6 @@
 - [Eastern Mountain Trail](#eastern-mountain-trail)
 - [Locations](#locations)
 - [Maps](#maps)
-- [Notes](#notes)
 - [Gallery](#gallery)
 
 **Sundered Pass**
@@ -41,10 +40,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 > “**Steep climbs and some of the rockiest terrain to be found on Great Bear Island hide a remote installation that holds secrets to the Island's dark history. Beware.**”
 >
 > — Official Hinterland Description
-
-> “__For advanced players. Once a favoured destination for far Territory climbers, it's become an isolated Region devastated by extreme avalanche activity.  
+>
+> “**For advanced players. Once a favoured destination for far Territory climbers, it's become an isolated Region devastated by extreme avalanche activity.  
  Beyond the lower elevations and treeline, minimal shelters are available. Only the most-prepared survivors can expect a successful journey through its snowy fields and up its high ridgelines.  
- Connects to Forsaken Airfield, Zone of Contamination, and Transfer Pass.__”
+ Connects to Forsaken Airfield, Zone of Contamination, and Transfer Pass.**”
 >
 > — In-game Description
 

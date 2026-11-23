@@ -29,8 +29,8 @@
 | Locations | 25 |
 | Date Added | October 6th 2021 |
 
-> “__For intermediate players. Home to Blackrock Penitentiary, this Region’s icy rivers, deep ravines, and challenging weather act as a natural extension of the notorious prison. Its many caves and winding roads offer additional security if a storm moves in.  
- Connects to Pleasant Valley and Timberwolf Mountain.__”
+> “**For intermediate players. Home to Blackrock Penitentiary, this Region’s icy rivers, deep ravines, and challenging weather act as a natural extension of the notorious prison. Its many caves and winding roads offer additional security if a storm moves in.  
+ Connects to Pleasant Valley and Timberwolf Mountain.**”
 >
 > — - In game description
 

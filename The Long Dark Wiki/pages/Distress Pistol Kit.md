@@ -22,7 +22,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 > “**Useful for getting someone's attention in an emergency. Fires Distress Pistol Shells.**”
 >
 > — In-game Description
-
+>
 > “**The distress pistol kit is heavy, but I'd hate to end up in an emergency situation without it.**”
 >
 > — Mackenzie's Description
@@ -33,7 +33,7 @@ The **Distress Pistol Kit** is an item found at the beginning of [Episode 1: Do 
 
 If the player chooses to put the Distress Pistol Kit in the plane's hatch, it will break open once the plane crashes and following items can be recovered for use:
 
-- 1 
-- 4 
+- 1
+- 4
 
 The Distress Pistol is the only weapon available in Episode 1, yet another one (along with the same amount of Flare Shells) can be obtained from the [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) stash. It's only useful to scare off or kill the [Wolves](./Wolf.md) in the area, though the torch-and-rock method is a far cheaper way of scaring them and the extra meat is unnecessary given the abundance of food in Episode 1. It's also less useful on Green Survivor, as Wolves always flee from the player on sight.

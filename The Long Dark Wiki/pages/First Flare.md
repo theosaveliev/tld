@@ -5,7 +5,6 @@
 ![Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes](../assets/FirstFlare.jpg)_Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes_
 > **The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare. Her warnings went unheeded... The signs were there, for those willing to see them. This has all happened before. Soon we'll all be tested. We'll all have to choose how far we'll go to survive.**
 >
->
 > — [Methuselah](./Methuselah.md) explaining the First Flare
 
 The **First Flare**refers to the first appearance of an intense [Aurora](./Aurora.md) in _The Long Dark_'s Story Mode [Wintermute](./Wintermute.md). It is the primary cause of the so-called "quiet apocalypse" seen in both Wintermute and [Survival Mode](./Survival%20Mode.md).

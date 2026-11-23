@@ -20,8 +20,8 @@
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-> “__Jeremiah: "Ah shit... What I was afraid of. That shot you took hurt the rifle more than the [bear](./Old%20Bear.md). My rifle's done."  
- Mackenzie: "Shit...sorry. You have a...backup?"__”
+> “**Jeremiah: "Ah shit... What I was afraid of. That shot you took hurt the rifle more than the [bear](./Old%20Bear.md). My rifle's done."  
+ Mackenzie: "Shit...sorry. You have a...backup?"**”
 >
 > — Jeremiah: "No. No backup. But I know where you might be able to fix it." [Jeremiah](./Jeremiah.md) and [Mackenzie](./Will%20Mackenzie.md)
 

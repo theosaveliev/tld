@@ -71,7 +71,7 @@ Upon meeting [Grey Mother](./Grey%20Mother.md) she will suggest to [Will Mackenz
 
 The gas station also serves as a prime example of the already dire situation of the people of Great Bear prior to the [First Flare](./First%20Flare.md). Gas prices appear to have been extremely high, and, ultimately, gasoline seems to have run out entirely based on the red X's on the gas station sign. Comments from characters and notes/signs throughout the store and other buildings in town (mostly in Story mode) also suggest cash had been depleted and that even staples such as milk were hard to come by. The island seem to have suffered some of the worst effects of the wider economic crisis in _The Long Dark_ universe.
 
-#### _Previous Versions_
+### _Previous Versions_
 
 Prior to the Redux Update to Wintermute, Grey Mother and Will Mackenzie had additional dialogue over a moral dilemma around raiding the gas station in order to provide food for her. This included Grey Mother saying she misjudged Will if he does not steal from the store and instead procures food for her via other means, remarking that he "might just have what it takes to survive this winter."
 

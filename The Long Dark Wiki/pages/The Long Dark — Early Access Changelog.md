@@ -108,7 +108,7 @@ _For the changelog for versions 1.50 to 1.99, see [The Long Dark/Changelog/Archi
 
 _For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archive 1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md)._
 
-### 0.426
+## 0.426
 
 Released: 15 June 2017
 
@@ -387,7 +387,7 @@ Size: 989.1 MB
 - Fixed issue that allowed low detail trees to appear on the Main Menu when running Low or Medium quality
 
 **Misc**
-: 
+:
 
 - Memory optimizations
 - Fixed various environment art and world collision issues
@@ -842,7 +842,7 @@ v.284 will automatically restore old saves from:
 Note that v.284 will not overwrite or delete any data. If El Capitan users have created new saves, manually check the above two paths and copy the contents to the new save location: (/users/username/.local/share/Hinterland/TheLongDark).
 
 **NOTE FOR PLAYERS TRYING TO RECLAIM LOST SAVES**
-: 
+:
 
 Please note there is a chance that this v.284 update will restore saves that were previously lost due to the El Capitan update, but unfortunately we cannot guarantee this will work for everyone, as all these changes are being made on the OS-level and have nothing to do with The Long Dark itself.
 

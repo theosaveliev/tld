@@ -47,7 +47,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 “
 
 __For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes.  
-   
+
  Connects to Transfer Pass, The Zone of Contamination, and Sundered Pass.__
 
 In-game description
@@ -148,7 +148,7 @@ Near the edges of the large central plain, the region features more uneven terra
 
 ![Airfield during aurora](../assets/Airfield_during_aurora.png)
 
-[Missing image: 20230520075647\_1.jpg]
+Missing image: 20230520075647\_1.jpg
 
 _A sign in Transfer Pass directing motorists to Field 31_
 

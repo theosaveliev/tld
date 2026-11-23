@@ -4,7 +4,7 @@
 
 **Signal Hill**
 
-[Missing image: SignalHill2.png]
+Missing image: SignalHill2.png
 
 _Exterior_
 

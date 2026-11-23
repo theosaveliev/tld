@@ -5,11 +5,7 @@
 **Contents**
 
 - [Overview](#overview)
-- [Anna Island -- Track Section 4](#anna-island----track-section-4)
-- [Anna Island -- Track Section 2](#anna-island----track-section-2)
 - [Gallery](#gallery)
-- [Anna Island -- Track Section 2](#anna-island----track-section-2-1)
-- [Anna Island -- Track Section 4](#anna-island----track-section-4-1)
 
 ![Seal icon](../assets/Seal_icon.png)
 

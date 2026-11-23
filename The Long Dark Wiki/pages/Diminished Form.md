@@ -24,7 +24,7 @@
 ## Overview
 
 > “__A morbid decay has set in.  
-   
+
  You have less Stamina, and your carrying capacity is reduced. Sensing your vulnerability, Wolves are less likely to Flee during a Struggle.__”
 >
 > — In-game Description

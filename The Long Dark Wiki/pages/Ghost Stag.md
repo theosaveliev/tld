@@ -17,8 +17,8 @@
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-> “__Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.  
- That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.__”
+> “**Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.  
+ That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.**”
 >
 > — [Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md)
 

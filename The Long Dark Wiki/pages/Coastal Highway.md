@@ -178,7 +178,7 @@ There are several locations for [Safehouses](./Safehouse.md) in the Coastal High
 
 ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
 
-[Missing image: Quonset\_Gas\_Station\_exterior.jpg]
+Missing image: Quonset\_Gas\_Station\_exterior.jpg
 
 _Quonset Gas Station_
 

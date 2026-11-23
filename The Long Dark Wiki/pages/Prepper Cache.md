@@ -30,7 +30,6 @@
 - [Outdated Gallery](#outdated-gallery)
 - [Trivia](#trivia)
 - [Achievements](#achievements)
-- [References](#references)
 - [External links](#external-links)
 
 **Prepper Cache**
@@ -117,11 +116,11 @@ Type 1 bunker (Kitchen) loot:
 
 On Interloper and Misery levels, this cache has sparse loot and almost no furniture. Players undertaking [Sutherland's Tale](./Sutherland%27s%20Tale.md) will need to identify this bunker for Special Request 1.
 
-This cache can be identified by the presence of the Prepper's Pie Recipe Card. It is also the only bunker which contains a corpse[^3]. Its layout has a small vestibule which opens into a rectangular room containing the corpse and a bed.
+This cache can be identified by the presence of the Prepper's Pie Recipe Card. It is also the only bunker which contains a corpse. Its layout has a small vestibule which opens into a rectangular room containing the corpse and a bed.
 
 ![Abandoned Mission Cache 1](../assets/Abandoned_Mission_Cache_1.png)
 
-Only _after_ accepting Special Request 1 will a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) appear for the player. It will spawn on the wall beside the corpse[^4].
+Only _after_ accepting Special Request 1 will a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) appear for the player. It will spawn on the wall beside the corpse.
 
 ### Hunting
 
@@ -155,11 +154,11 @@ Type 2 bunker (Hunter) loot:
 
 #### Abandoned version (Interloper/Misery)
 
-For Interloper and Misery players, this cache can be identified by its L-shaped layout[^5] and the green crate that is unique to this cache. Identifying this cache is needed to complete Special Request 2.
+For Interloper and Misery players, this cache can be identified by its L-shaped layout and the green crate that is unique to this cache. Identifying this cache is needed to complete Special Request 2.
 
 ![Abandoned Mission Cache 2](../assets/Abandoned_Mission_Cache_2.png)
 
-As with the other special requests, it is only _after_ accepting Special Request 2 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn on the far wall[^6].
+As with the other special requests, it is only _after_ accepting Special Request 2 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn on the far wall.
 
 ### Conspiracy
 
@@ -218,19 +217,19 @@ Type 3 bunker (Conspiracy Type 2) loot:
 
 #### Abandoned version (Interloper/Misery)
 
-For Interloper and Misery players, the Conspiracy Cache can be identified for having a red-painted corridor[^7] and a radiation sign on the wall. Identifying this cache is necessary to complete Special Request 3 as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+For Interloper and Misery players, the Conspiracy Cache can be identified for having a red-painted corridor and a radiation sign on the wall. Identifying this cache is necessary to complete Special Request 3 as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ![Abandoned Mission Cache 3 (red corridor)](../assets/Abandoned_Mission_Cache_3_%28red_corridor%29.png)
 
 ![Abandoned Mission Cache 3](../assets/Abandoned_Mission_Cache_3.png)
 
-As with the other special requests, it is only _after_ accepting Special Request 3 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn at the far wall, to the left[^8].
+As with the other special requests, it is only _after_ accepting Special Request 3 that a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) will become available in this cache. It will spawn at the far wall, to the left.
 
 ### Abandoned Caches
 
 On [Pilgrim](./Pilgrim.md), [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), or all custom difficulties, 6 of the 9 bunkers will be basically empty. These are entirely abandoned, having very little if anything inside of them aside from bare concrete flooring, but always contain a Bed and provide solid shelter, despite being vacant, however.
 
-On [Interloper](./Interloper.md) or [Misery](./Misery.md), **ALL 9** Prepper Caches will have loot quantities that are Abandoned. The Stockpile (kitchen), Hunting, and Conspiracy bunkers will still spawn, and can be recognized by their layouts, but will have loot similar to Abandoned caches[^9].
+On [Interloper](./Interloper.md) or [Misery](./Misery.md), **ALL 9** Prepper Caches will have loot quantities that are Abandoned. The Stockpile (kitchen), Hunting, and Conspiracy bunkers will still spawn, and can be recognized by their layouts, but will have loot similar to Abandoned caches.
 
 Type 5 bunker (abandoned) loot:
 
@@ -255,7 +254,7 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 
 ## Cache Locations
 
-#### [Ash Canyon](./Ash%20Canyon.md)
+### [Ash Canyon](./Ash%20Canyon.md)
 
 - Starting from the Region Connection cave, head east until passing through a narrow valley near a pond, a fallen tree above leads to the Prepper Cache. Head north and walk over the nearby ravine and through a rock tunnel until reaching the rope climb (alternatively, continue south and crouch through a narrow rock cave to the rope bridge), then walk up a hill and back over the ravine to the fallen tree.
 
@@ -366,10 +365,3 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 
 [^1]: [Hinterland Forums - Bunkers (Preppers Caches) on Interloper?](http://steamcommunity.com/app/305620/discussions/0/343788552537593627/#c217691032448284194)
 [^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
-[^3]: 
-[^4]: 
-[^5]: 
-[^6]: 
-[^7]: 
-[^8]: 
-[^9]:

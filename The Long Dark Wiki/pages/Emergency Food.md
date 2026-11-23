@@ -22,7 +22,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 > “**Hardy stuff in an emergency, but not a fancy meal.**”
 >
 > — In-game Description
-
+>
 > “**Water, energy bars, purification tablets. Breakfast of champions.**”
 >
 > — Mackenzie's Description
@@ -32,7 +32,7 @@ The **Emergency Food** is an item found at the beginning of [Episode 1: Do Not G
 If the player chooses to put the Emergency Food lockbox in the plane's hatch, it will break open once the plane crashes and the following items can be recovered for use:
 
 - 4 s
-- 1.50 L of 
-- 4 
+- 1.50 L of
+- 4
 
 Arguably the most useful choice of supplies overall, especially on Hardened Survivor. Less useful on Green Survivor due to the slowed depletion rate of [Hunger](./Hunger.md) and [Thirst](./Thirst.md) and abundance of available food.

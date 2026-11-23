@@ -16,7 +16,7 @@
 | Type | Outdoors |
 |  | Has no shelter |
 
-**Lake Trail** is a location in the [Mystery Lake ](./Mystery%20Lake%20%28region%29.md)region.
+**Lake Trail** is a location in the [Mystery Lake](./Mystery%20Lake%20%28region%29.md)region.
 
 ## Overview
 

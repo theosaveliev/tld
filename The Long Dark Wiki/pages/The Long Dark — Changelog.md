@@ -1702,7 +1702,8 @@ We just released our v2.11 Hotfix for THE LONG DARK on Xbox (112312) and WINTERM
 [WINTERMUTE] Fixed an issue where WINTERMUTE saves were not recognized by the game for some players following the TALES FROM THE FAR TERRITORY update, resulting in an inability to play Story Mode from saved files. Players who lost WINTERMUTE saves following the update are encouraged to reach out to us via the Support Portal for assistance. Please note that WINTERMUTE saves will work as intended for anyone accessing the Expansion Pass update for the first time following this update.  
  Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
-### END OF RELEASE NOTES ###  
+### END OF RELEASE NOTES
+
  **External links:**
 
 - [26](https://hinterlandforums.com/forums/topic/43109-the-long-dark-updated-to-v211-on-xbox/)
@@ -1858,7 +1859,8 @@ In addition to the above changes, we have also provided the following general fi
 For a list of Known Issues, please click here.  
  Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
-### END OF RELEASE NOTES ###  
+### END OF RELEASE NOTES
+
  **_External links:_**
 
 - [27](https://hinterlandforums.com/forums/topic/43078-tales-from-the-far-territory-part-two-released-the-long-dark-updated-to-version-209-xbox-windows-store-and-210-steam-epic-games-store-playstation/)
@@ -1914,7 +1916,8 @@ Please visit our Support Portal if you encounter any issues while playing the ga
 - [General] Fixed an issue that caused WINTERMUTE to ignore Launch Options set in the Steam client, such as video mode and resolution overrides.
 - [Audio] Fixed an issue that caused waterfall sounds to play at unintended locations.
 
-### END OF RELEASE NOTES ###  
+### END OF RELEASE NOTES
+
  **_External links:_**
 
 - [28](https://hinterlandforums.com/forums/topic/43023-the-long-dark-updated-to-v208/)
@@ -1967,7 +1970,8 @@ Please visit our Support Portal if you encounter any issues while playing the ga
 - [General] Fixed an issue on OS 10.14 that would prevent players from being able to launch the game.
 - [General] Fixed an issue preventing players from accessing WINTERMUTE and TALES FROM THE FAR TERRITORY DLC on OS 10.14 and older.
 
-### END OF RELEASE NOTES ###  
+### END OF RELEASE NOTES
+
  **_External links:_**
 
 - [29](https://hinterlandforums.com/forums/topic/43001-the-long-dark-updated-to-v207/)

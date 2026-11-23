@@ -36,8 +36,8 @@
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-> “__M - What's the story with this bear?  
- J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.__”
+> “**M - What's the story with this bear?  
+ J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.**”
 >
 > — [Mackenzie](./Will%20Mackenzie.md) and [Jeremiah](./Jeremiah.md) discussing the Old Bear.
 

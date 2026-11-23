@@ -34,7 +34,7 @@
 
 If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflicted with Anxiety, accompanied by a unique audio cue and dialogue. A message box will appear in the middle of the screen, detailing the distance between the survivor and the Darkwalker. While afflicted with Anxiety actions which accelerate time (Sleep, Pass Time, Craft, Sharpen, Clean, Harvest, Research, etc.) are impossible. If the survivor was asleep when the Darkwalker approached, it will automatically wake them. The closer the the survivor moves toward the Darkwalker, the more bloody the visual effect will appear.
 
-###### Darkwalker Distance:
+### Darkwalker Distance:
 
 - 200m or greater: Anxiety is removed.
 - Less than 200m: survivor is afflicted with Anxiety (unable to sleep/pass time/craft/use [Research Books](./Research%20Book.md)).

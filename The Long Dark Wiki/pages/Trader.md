@@ -51,8 +51,8 @@ He is the center of his own unique [Tale](./Tales.md): [Sutherland's Tale](./Sut
 
 ![Trader Enablement](../assets/Trader_Enablement.jpg)
 
-> “__A mysterious voice on the radio. Set up trade exchanges, gain his trust, and receive access to new, unique items.  
- Disable if you do not want the Trader to be present in your game.__”
+> “**A mysterious voice on the radio. Set up trade exchanges, gain his trust, and receive access to new, unique items.  
+ Disable if you do not want the Trader to be present in your game.**”
 
 The player has the option to enable/disable the Trader before starting their survival game. The option to disable the Trader appears on all Experiences. If disabled, the Trader's radios do not appear on the Island.
 

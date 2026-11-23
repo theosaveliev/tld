@@ -39,7 +39,7 @@
 > “**An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.**”
 >
 > — In-game description
-
+>
 > “**Over the years...I have learned that most people disappoint you, given the chance.**”
 >
 > — Grey Mother

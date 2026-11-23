@@ -55,7 +55,7 @@ The following foods and drinks can be placed inside an Insulated Flask:
 | \|Drinks | \|Foods |
 | --- | --- |
 | [Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md) | [Broth icon](../assets/Broth_icon.png) [Broth](./Broth.md) |
-| [Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) | [Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)[^1] |
+| [Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) | [Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md) (1) |
 | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) |
 | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) |
 | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) |

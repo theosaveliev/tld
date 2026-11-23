@@ -48,7 +48,7 @@ _For Archive 1 changelog with versions 1.00 to 1.49, see [The\_Long\_Dark/Change
 
 _For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
-### 1.99
+## 1.99
 
 Released December 14th 2021
 
@@ -89,7 +89,7 @@ Mod Support in 2022
 
 We’re setting up a small internal team dedicated solely to supporting Modding and User Generated Content at Hinterland. Our initial focus will be on supporting The Long Dark, but we plan for this to be a long-standing investment in time and resources, and the things we learn and the modding community we build with you, will hopefully become a strong foundation of more things to come in future Hinterland games.
 
-As first steps, we’re setting up a Modding & UGC section of the official Hinterland forums. We’ll have dedicated focus from our Community team on this area, so please focus your mod discussions here so we can best support you. We’ve also set up a new email alias, “mods@hinterlandgames.com”, which you can use to contact us with any requests or information you’d like to share.
+As first steps, we’re setting up a Modding & UGC section of the official Hinterland forums. We’ll have dedicated focus from our Community team on this area, so please focus your mod discussions here so we can best support you. We’ve also set up a new email alias, “[mods@hinterlandgames.com](mailto:mods@hinterlandgames.com)”, which you can use to contact us with any requests or information you’d like to share.
 
 In the Spring, we’ll be sharing more info about our Creator Hub, which will have documentation, some tools, and other resources for modders, and other types of fan creations for The Long Dark. Until then, we’ll be active in the new Modding & UGC section of the official forums, and we’ll also be proactively reaching out to many of you who have been busy modding the game over the past years. We want to know more about what you need in terms of tool support, documentation, and also to provide you a clear path to communicating with us as we grow this area of The Long Dark’s community.
 

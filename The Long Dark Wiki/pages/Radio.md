@@ -6,7 +6,6 @@
 
 - [Locations](#locations)
 - [Lower Great Bear](#lower-great-bear)
-- [Far Territory](#far-territory)
 - [Trivia](#trivia)
 
 **Radio**

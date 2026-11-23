@@ -64,7 +64,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Location
 
-#### Broken Railroad
+### Broken Railroad
 
 - [Maintenance Yard](./Maintenance%20Yard.md) on a red toolbox
 

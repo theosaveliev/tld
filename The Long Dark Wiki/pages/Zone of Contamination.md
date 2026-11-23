@@ -123,7 +123,7 @@ There are a number of locations in the Zone of Contamination, including:
 
 ## Gallery
 
-[Missing image: 20230520075647\_1.jpg]
+Missing image: 20230520075647\_1.jpg
 
 _A sign in Transfer Pass directing motorists to the mine_
 

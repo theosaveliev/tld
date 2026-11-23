@@ -201,6 +201,7 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 - "[Do not go gentle into that good night](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night) " is the most famous poem of Welsh poet Dylan Thomas, referenced alongside The Long Dark in multiple works of popular culture. The phrase and the refrain occur throughout the poem and perfectly characterize the beginning of Episode 1:  
  _"Do not go gentle into that good night._  
  _Rage, rage against the dying of the light."_
+
 - The town of Milton and the mission “Paradise Lost” are allusions to 17th century English poet John Milton’s _[Paradise Lost](https://en.m.wikipedia.org/wiki/Paradise_Lost)_, an epic poem about the fall of man and the subsequent expulsion from paradise.
 
 ## Gallery

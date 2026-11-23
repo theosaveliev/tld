@@ -35,7 +35,7 @@ The **Suzuki Radio Telescope** is a location within the [Suzuki Environs](./Suzu
 
 ## Layout
 
-#### **Lower Suzuki**
+### **Lower Suzuki**
 
 Home to the facility's Control Room, Dr. Atwood's Study, the Barracks, a Kitchen & attached Cafeteria, a Washroom, Showers, and a supply room. Lower Suzuki is also home to numerous utility corridors, offices, winding hallways, and multiple rooms full of vintage Data Storage systems from the 1980s, including a winding hallway leading to Upper Suzuki, and a possible internal entrance to the Bunker.
 
@@ -45,7 +45,7 @@ Upper Suzuki is where the Tuner Control station is located, aswell as housing th
 
 #### The Bunker
 
-A series of Cold-War era storage rooms, dormitories, and related services deep below the Radio Telescope. Jace describes it as being full of medical supplies, food, vehicles, and radios.[^1] It only appears during the final cutscenes of shown in Part 4 of Episode 5, with it's interior being rather cramped, full of ventilation shafts, pipework, and a mostly steel and concrete construction.[^2]
+A series of Cold-War era storage rooms, dormitories, and related services deep below the Radio Telescope. Jace describes it as being full of medical supplies, food, vehicles, and radios. It only appears during the final cutscenes of shown in Part 4 of Episode 5, with it's interior being rather cramped, full of ventilation shafts, pipework, and a mostly steel and concrete construction.[^2]
 
 ## History
 
@@ -90,7 +90,6 @@ Atwood goes on to explain what the Aurora exactly is, before letting Mackenzie h
 
 ---
 
-[^1]: 
 [^2]: [https://youtu.be/cewVQSRhfxY?t=1841](https://youtu.be/cewVQSRhfxY?t=1841)
 [^3]: [https://youtu.be/Mv1kQlPK7xE?t=15908](https://youtu.be/Mv1kQlPK7xE?t=15908)
 [^4]: The last time Atwood saw Jeremiah was 20+ years ago, and she was working at the Telescope, not the base. [https://youtu.be/Mv1kQlPK7xE?t=15611](https://youtu.be/Mv1kQlPK7xE?t=15611)

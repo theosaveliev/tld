@@ -127,7 +127,7 @@ _For more information, see [Characters](./Characters.md)._
 
 _For more information, see [Wildlife](./Wildlife.md)._
 
-#### Fauna
+### Fauna
 
 - [Wolf](./Wolf.md)
 - [Timberwolf](./Timberwolf.md)

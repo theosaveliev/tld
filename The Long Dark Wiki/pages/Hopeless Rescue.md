@@ -30,10 +30,9 @@
 > “**Are you the last person alive? You have to know. If only you could get a signal out to someone...**”
 >
 > — Main Menu description
-
-> __Are you the last person alive? You have to know. If only you could get a signal out to someone...
-> Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse.__
 >
+> **Are you the last person alive? You have to know. If only you could get a signal out to someone...
+> Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse.**
 >
 > — Opening description
 
@@ -41,8 +40,9 @@
 
 ## Overview
 
-> “__1. Find the Distress Pistol at the summit of Timberwolf Mountain.  
- 2. Travel to the top of the Lighthouse in Desolation Point.__”
+> “**1. Find the Distress Pistol at the summit of Timberwolf Mountain.  
+
+ 2. Travel to the top of the Lighthouse in Desolation Point.**”
 >
 > — 3. Equip the Distress Pistol. 4. Fire the Distress Pistol. All Journal Objectives
 

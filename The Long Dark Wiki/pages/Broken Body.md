@@ -24,7 +24,7 @@
 ## Overview
 
 > “__Your body carries the weight of a dying world.  
-   
+
  You have lost the ability to recover Condition and are twice as vulnerable to physical damage.__”
 >
 > — In-game Description

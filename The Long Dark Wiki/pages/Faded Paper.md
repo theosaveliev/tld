@@ -26,11 +26,11 @@
 _The following text is transcribed from **Faded Paper**_
 
 12 June 1991  
-   
+
  Poppy always talked about the beauty out here. And after a few weeks on this survey I can see that. It cost him a lot, all this endless sky. Still haven't reached the mine yet. My own work keeps getting in the way.  
-   
+
  He always said that they were the one group you could never refuse, that company. You'd never work again.  
-   
+
  But he got sick and all I've found out here are the bones and whispers of a dead company. Even the name seems forgotten. No sense to it yet.
 
 ## Update history

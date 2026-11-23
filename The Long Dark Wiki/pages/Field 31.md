@@ -43,6 +43,6 @@ Despite all electronics being rendered destroyed by the [First Flare](./First%20
 
 ![The airfield during an aurora, as seen from a distance](../assets/Field_31_Aurora.jpg)
 
-[Missing image: 20230520075647\_1.jpg]
+Missing image: 20230520075647\_1.jpg
 
 _The sign in Transfer Pass pointing motorists to Field 31_

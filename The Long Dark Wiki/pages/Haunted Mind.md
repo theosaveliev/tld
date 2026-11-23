@@ -24,7 +24,7 @@
 ## Overview
 
 > “__You experience an endless inner turmoil.  
-   
+
  Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.__”
 >
 > — In-game Description

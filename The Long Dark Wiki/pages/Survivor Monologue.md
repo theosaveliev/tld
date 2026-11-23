@@ -34,7 +34,6 @@
 - [Food Poisoning](#food-poisoning)
 - [Dysentery](#dysentery)
 - [Infection](#infection)
-- [Sprains](#sprains)
 - [Acquire Sprained Ankle](#acquire-sprained-ankle-1)
 - [Acquire Sprained Ankle](#acquire-sprained-ankle-1)
 - [Walking with Sprained Ankle](#walking-with-sprained-ankle)

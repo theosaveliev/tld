@@ -7,10 +7,6 @@
 - [Overview](#overview)
 - [Anna Island](#anna-island)
 - [Regions](#regions)
-- [Stella Island](#stella-island)
-- [Freya Island](#freya-island)
-- [Morag Island](#morag-island)
-- [Skye Island](#skye-island)
 - [Trivia](#trivia)
 
 [Seal icon](../assets/Seal_icon.png)

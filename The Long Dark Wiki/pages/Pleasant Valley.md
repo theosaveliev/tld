@@ -30,9 +30,8 @@
 > “**For advanced players. A challenging, vast mountain wilderness region with a few key shelters, originally settled by hardy homesteaders.**”
 >
 > — - In game description
-
-> **You're not from around here, are you? Whoever named this area "Pleasant Valley" had a pretty good sense of humour. We get some of the harshest weather on all of Great Bear.**
 >
+> **You're not from around here, are you? Whoever named this area "Pleasant Valley" had a pretty good sense of humour. We get some of the harshest weather on all of Great Bear.**
 >
 > — Father Thomas
 

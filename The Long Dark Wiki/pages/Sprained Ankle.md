@@ -52,7 +52,7 @@ If a player fails to heed a sprain risk or is attacked by hostile wildlife, they
 
 ## Gallery
 
-[Missing image: Pente.jpg]
+Missing image: Pente.jpg
 
 _This symbol appears on the player interface when they move or stand on uneven slopes._
 

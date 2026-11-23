@@ -12,7 +12,6 @@
 - [Bugs](#bugs)
 - [Achievements](#achievements)
 - [Gallery](#gallery)
-- [Game History](#game-history)
 
 **Camera**
 

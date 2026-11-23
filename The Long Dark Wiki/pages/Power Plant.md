@@ -7,7 +7,6 @@
 - [History](#history)
 - [Gallery](#gallery)
 - [See also](#see-also)
-- [References](#references)
 
 **Power Plant**
 

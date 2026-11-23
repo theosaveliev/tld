@@ -21,8 +21,8 @@
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-> “__Mackenzie: "I've had a lot of trouble with wildlife lately. Is it always this dangerous around here?"  
- Methuselah: "I've seen many strange things, of course. But the birds and beasts? Their rhythms are their own."__”
+> “**Mackenzie: "I've had a lot of trouble with wildlife lately. Is it always this dangerous around here?"  
+ Methuselah: "I've seen many strange things, of course. But the birds and beasts? Their rhythms are their own."**”
 >
 > — Mackenzie: "Meaning?" Methuselah: "The patterns of nature have been interrupted. Broken. Even those who once knew how to read them are now confused." [Methuselah](./Methuselah.md) and [Mackenzie](./Will%20Mackenzie.md) discussing the local Island wildlife
 
@@ -232,7 +232,7 @@ While containing no AI, interactions with plants and fungi are an equally import
 
 ![Maple Sapling](../assets/Maple_sapling_growing.png)
 
-[Missing image: Cat\_Tail\_plant.png]
+Missing image: Cat\_Tail\_plant.png
 
 _Cat Tail_
 

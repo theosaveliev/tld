@@ -32,9 +32,8 @@
 > “**A protective case. It looks like it could survive just about anything.**”
 >
 > — In-game Description
-
-> **The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.**
 >
+> **The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.**
 >
 > — Mackenzie's Description
 

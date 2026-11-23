@@ -20,8 +20,8 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-> “__A mysterious geomagnetic storm has brought your plane crashing down into the Northern Canadian wilderness.  
- How long can you survive?__”
+> “**A mysterious geomagnetic storm has brought your plane crashing down into the Northern Canadian wilderness.  
+ How long can you survive?**”
 >
 > — Opening screen background
 

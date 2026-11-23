@@ -13,7 +13,6 @@
 ![Survivors](../assets/Survivors.png)
 > **Then yesterday, the crash survivors started showing up....Best thing we can do is keep these people warm and fed and....then we'll see what the Lord has in store.**
 >
->
 > — Father Thomas
 
 **Crash Survivors**are a group of passengers who survived an airline crash in the [Pleasant Valley](./Pleasant%20Valley.md) region. They are only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md).

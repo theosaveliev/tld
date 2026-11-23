@@ -37,7 +37,7 @@
 | Voiced by | Tina Grant |
 
 > “__A graduate student in astrophysics, Jace normally has her eyes on the stars. Chance, and the Aurora, have brought her to Blackrock.  
-   
+
  Whip-smart, Jace has the air of superiority that many academics inherit. But deep down she is starting to worry that her career choice has left her unprepared for the current situation, especially if the power never comes back.__”
 >
 > — [What I Know](./What%20I%20Know.md) description

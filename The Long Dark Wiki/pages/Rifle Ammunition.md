@@ -40,7 +40,7 @@ Weight
 > “**A box of rifle cartridges.**”
 >
 > — Boxed ammo In-game description
-
+>
 > “**A single .303 rifle cartridge.**”
 >
 > — Single cartridge In-game description

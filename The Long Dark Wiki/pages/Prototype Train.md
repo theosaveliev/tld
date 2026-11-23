@@ -16,7 +16,6 @@
 - [Traveling and Track Hazards](#traveling-and-track-hazards)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
-- [Game History](#game-history)
 - [References](#references)
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Prototype+Train&action=edit expanding it].**

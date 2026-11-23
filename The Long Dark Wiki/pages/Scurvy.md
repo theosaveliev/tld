@@ -50,8 +50,8 @@ Most Vitamin-C food sources are finite (artificial foods and cattails), which ca
 
 ![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)
 
-> “__Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.  
- Disable if you do not want to be pressured to find Vitamin-C rich foods.__”
+> “**Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.  
+ Disable if you do not want to be pressured to find Vitamin-C rich foods.**”
 >
 > — In-game description
 

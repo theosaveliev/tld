@@ -12,9 +12,8 @@
 - [Part 4](#part-4)
 - [Seismic activity](#seismic-activity)
 - [Trivia](#trivia)
-- [References](#references)
 
-> “__You gotta understand. The Collapse destroyed Great Bear. There's nothing here to stay for. __”
+> “**You gotta understand. The Collapse destroyed Great Bear. There's nothing here to stay for.**”
 >
 > — -Jeremiah
 

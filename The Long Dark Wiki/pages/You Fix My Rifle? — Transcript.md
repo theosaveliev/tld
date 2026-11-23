@@ -104,9 +104,8 @@ Mackenzie: "Battery's probably dead. Still...might come in handy at night."
 _He puts it in his back pocket and the cutscene ends. A tutorial message pops up_
 
 Flashlight
-> __They Hate the Light
-> As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.__
->
+> **They Hate the Light
+> As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.**
 >
 > — What I Know description
 
@@ -123,9 +122,8 @@ Mackenzie: "Not much for guns, but...after what I've been through lately - - bet
 _The cutscene ends and a tutorial message pops up once the player leaves the Lodge_
 
 Rifle
-> __Use Guns Wisely
-> Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.__
->
+> **Use Guns Wisely
+> Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.**
 >
 > — What I Know description
 
@@ -167,7 +165,7 @@ _The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW
 
 _At any point in the mission or the ones after this one, the player has the option to raise Jeremiah's Trust. The following dialogue options are unlocked once sufficient Trust is earned._
 
-#### Items That Increase Trust
+### Items That Increase Trust
 
 - +1 [Stick](./Stick.md)
 - +3 [Cloth](./Cloth.md)

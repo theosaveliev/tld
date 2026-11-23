@@ -41,7 +41,6 @@
 - [Donner](#donner)
 - [Townsperson One and Two](#townsperson-one-and-two)
 - [Survival Mode](#survival-mode-1)
-- [Tales From the Far Territory Characters](#tales-from-the-far-territory-characters)
 - [Dr. Rüdiger](#dr-rüdiger)
 - [Security Chief Lena Vertasky](#security-chief-lena-vertasky)
 - [The Foreman](#the-foreman)

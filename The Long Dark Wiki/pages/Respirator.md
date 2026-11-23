@@ -5,7 +5,6 @@
 **Contents**
 
 - [Overview](#overview)
-- [Location](#location)
 - [Gallery](#gallery)
 - [Update history](#update-history)
 

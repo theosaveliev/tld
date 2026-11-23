@@ -86,7 +86,7 @@ The dam is a vast multi-level complex with many lockers, boxes, drawers, and oth
 
 The dam was constructed on the Carter River in the 1960s. It was engineered and financed by the industrial magnate Richard Carter, who planned to use it to power a small town he was going to build for his mining workers. Due to seismic activity, and a drop in the price of coal and copper in the late 1960s, the project was nearly abandoned. There were attempts in the 1980s to modernize the dam and bring it back online, but hydrological changes in the [Mystery lake area](./Mystery%20Lake%20%28region%29.md) and public support for a newly created _Mystery Lake Provincial Park_ resulted in the dam being "shut down for good" in the late 1990s.[^1]
 
-Following [The Collapse](./The%20Collapse.md), there was an unsuccessful attempt to re-open the dam, led by the CEO of Carter Hydro Energy, Robert Clarke.[^2] A skeleton crew was working in the dam, but were trapped inside by the [Forest Talkers](./Forest%20Talkers.md), an eco-activist group. The workers were reportedly trapped inside the dam for days before mediators were able to extract them. While the incident was not violent, it resulted in the dam remaining closed and has been used as an example by the [Forest Talkers](./Forest%20Talkers.md) to validate their continued work.[^3]
+Following [The Collapse](./The%20Collapse.md), there was an unsuccessful attempt to re-open the dam, led by the CEO of Carter Hydro Energy, Robert Clarke.[^2] A skeleton crew was working in the dam, but were trapped inside by the [Forest Talkers](./Forest%20Talkers.md), an eco-activist group. The workers were reportedly trapped inside the dam for days before mediators were able to extract them. While the incident was not violent, it resulted in the dam remaining closed and has been used as an example by the [Forest Talkers](./Forest%20Talkers.md) to validate their continued work.
 
 ## Exclusive gear
 
@@ -168,6 +168,5 @@ _The dam during an [aurora](./Aurora.md)_
 
 [^1]: _Place: Carter Hydro Dam_, in-game [Journal](./Journal.md) knowledge
 [^2]: _Carter Hydro Dam -- Safety and Shutdown Notice_ [collectible](./Collectibles.md)
-[^3]: 
 [^4]: Steam, _The "Silent Hunter" Update (v.233) -- We've Added Bows & Improved Hunting!_, viewed 22 May 2015, <[http://steamcommunity.com/games/305620/announcements/detail/235656499654813808](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)>.
 [^5]: Raphael van Lierop, 4 August 2017, [Tweet](https://twitter.com/RaphLife/status/893315911880290305)

@@ -33,7 +33,6 @@
 
 > **The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.**
 >
->
 > — [Load Screen](./Load%20Screen.md) Description
 
 **Buffer Memories** are narrative [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) on [Computers](./Computer.md) powered by the [Aurora](./Aurora.md) that provide insight into the lives of the residents of [Great Bear Island](./Great%20Bear%20Island.md) before the [First Flare](./First%20Flare.md). They are also the main objective of the [Archivist Challenge](./Archivist.md).
@@ -42,7 +41,7 @@ They take the form of either a Laptop or Computer Monitor.
 
 Buffer Memories are only active and obtainable during an [Aurora](./Aurora.md); they may not be obtainable right away when the Aurora starts despite the computer screens lighting up. It can take up to 30 minutes of in-game time for the screens to become clickable. While only a single memory is displayed per night, it is possible to trigger the appearance of another one of the available memories by leaving and re-entering the scene where the computer is. This is not a systematic change and may take several reloading of the scene or interior for the change to take place or not work at all, forcing you to wait for the next Aurora. For screens like the laptop out in the open at the [Shortwave Tower](./Shortwave%20Tower.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md), leaving the region entirely is necessary but isn't guaranteed to change the memory.
 
-#### Alphabetical list of buffer memory locations
+## Alphabetical list of buffer memory locations
 
 | Location | Region | Number of memories |
 | --- | --- | --- |

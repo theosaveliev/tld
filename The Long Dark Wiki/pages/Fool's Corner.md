@@ -22,6 +22,6 @@ Due to its location near the broken [Mule Bridge](./Mule%20Bridge.md) (in [Survi
 
 ## Gallery
 
-[Missing image: 20220104180557\_1.jpg]
+Missing image: 20220104180557\_1.jpg
 
 _20220104180557\_1.jpg_

@@ -34,7 +34,7 @@ When harvesting, 50% of the weight of the Rabbit carcass is converted into raw r
 | --- | --- | --- | --- |
 | [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png) | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 1 - 2 | Always |
 | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 | Always |
-| [Missing image: Gut\_icon.png]; _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 1 | Always |
+| Missing image: Gut\_icon.png; _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 1 | Always |
 
 ## Update history
 

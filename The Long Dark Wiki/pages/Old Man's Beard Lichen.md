@@ -6,7 +6,6 @@
 
 - [Overview](#overview)
 - [Tips](#tips)
-- [Products](#products)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [Update history](#update-history)

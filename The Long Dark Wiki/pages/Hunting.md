@@ -31,11 +31,10 @@
 - [Carcasses](#carcasses)
 - [Drowning](#drowning)
 
-> “__M - What can you tell me about hunting?  
+> “**M - What can you tell me about hunting?  
  J - Trick is to spot your target, get as close as you can, take a shot, and don't miss.  
  M - That all?  
- J - Pretty much. A few years of practice and you might have a clue.  
- __”
+ J - Pretty much. A few years of practice and you might have a clue.**”
 >
 > — [Will Mackenzie](./Will%20Mackenzie.md) and [Jeremiah](./Jeremiah.md) discussing Hunting
 
@@ -193,7 +192,7 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 - Scare does less damage to the Wolf, but has a high chance of causing it to flee faster.
 - Strike is when the survivor uses the barrel of a Revolver to strike the Wolf. Eventually, they get their hand on the trigger and the "Take Shot" option appears to shoot the Wolf. This can result in two outcomes: it instantly kills the Wolf or just scares it off while causing it to bleed.
 
-| Image | Weapon | Damage Type | Damage[^1] | Flee Chance[^2] | Puncture Bleedout | Tool Decay |
+| Image | Weapon | Damage Type | Damage (1) | Flee Chance (2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Anywhere icon](../assets/Anywhere_icon.png) | Bare Hands | Desperation | 0.00% | 1.00% | None | None |
 | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | High |
@@ -206,10 +205,10 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |
 | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | Very Low |
-| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md)[^3] | Strike | 1.00% | 1.00% | None | Low |
-| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md)[^4] | Strike | 1.00% | 1.00% | None | Low |
-| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[^5] | Strike | 1.00% | 1.00% | None | Low |
-| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md)[^6] | Strike | 1.00% | 1.00% | None | Low |
+| [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) (3) | Strike | 1.00% | 1.00% | None | Low |
+| [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) | [Forester's Revolver](./Forester%27s%20Revolver.md) (4) | Strike | 1.00% | 1.00% | None | Low |
+| [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) | [Hunter's Revolver](./Hunter%27s%20Revolver.md) (5) | Strike | 1.00% | 1.00% | None | Low |
+| [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) | [Warden's Revolver](./Warden%27s%20Revolver.md) (6) | Strike | 1.00% | 1.00% | None | Low |
 
 Knives with the Puncture type will lead a Wolf to bleed after the Struggle, cause it to constantly flee and run around until its movements slows down, eventually causing it to die. The Heavy Hammer and the Cougar Claw Knife in particular are well known for causing high amounts of damage, usually killing the Wolf during the Struggle before the bar is full. Revolvers can either kill or scare the Wolf off of you, but are more unreliable methods of killing a Wolf during a Struggle. Other tools generally do not hurt Wolves as badly as Knives and the Heavy Hammer (affectionately nicknamed "Wolf Bonker" by players).
 
@@ -334,6 +333,3 @@ In some areas (e.g. [Coastal Highway](./Coastal%20Highway.md) or [Desolation Poi
 [^1]: Per hit
 [^2]: Per hit
 [^3]: Struggle is guaranteed to end after "Take Shot" is chosen (70% to flee, 30% to kill)
-[^4]: 
-[^5]: 
-[^6]:

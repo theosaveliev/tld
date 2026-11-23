@@ -26,15 +26,15 @@
 _The following text is transcribed from **Memo**_
 
 Welcome Associate!  
-   
+
  Here at Field 31 we take pride in being a pilot's best resource in the wilderness. From refueling to resupplying to a hot cup of coffee, our goal is to be a welcome waystation to all visitors.  
-   
+
  From time to time, sensitive and hazardous cargo will pass through our hands and we need to make sure all precautions are taken to safeguard it while it's in our care. Your supervisor will direct you in all work tasks that may or may not intersect with such cargo. Otherwise, it's nothing Field Associates need to concern themselves with. This is for your safety!  
-   
+
  Similarly, any off-field visitors you may see handling unlabeled cargo are not to be engaged or noted in any way. Their clearance is pre-checked before they arrive.  
-   
+
  We hope you find your work at our little outpost rewarding!  
-   
+
  --Dayshift supervisor
 
 ## Update history

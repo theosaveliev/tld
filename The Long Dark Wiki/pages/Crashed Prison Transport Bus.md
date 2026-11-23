@@ -42,12 +42,11 @@ Missions
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-> “__Hey...you think they put me on that bus for my good behaviour? That's the bus to Blackrock. __”
+> “**Hey...you think they put me on that bus for my good behaviour? That's the bus to Blackrock.**”
 >
 > — [Hobbs](./Hobbs.md)
-
-> **Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.**
 >
+> **Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.**
 >
 > — [Load Screen](./Load%20Screen.md) Description
 

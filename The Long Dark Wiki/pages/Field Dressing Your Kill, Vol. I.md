@@ -64,7 +64,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Location
 
-#### Crumbling Highway
+### Crumbling Highway
 
 - In a backpack, inside the cave found between the [Basement](./Abandoned%20Harris%20Home.md) and the entrance to [Abandoned Coal Mine](./No.%203%20Coal%20Mine.md).
 

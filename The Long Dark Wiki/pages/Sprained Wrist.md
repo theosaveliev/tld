@@ -48,7 +48,7 @@ With 2 Sprained Wrists, all Weapons can no longer be used, but lighting tools su
 
 ## Gallery
 
-[Missing image: Pente.jpg]
+Missing image: Pente.jpg
 
 _This symbol appears on the player interface when they move or stand on uneven slopes._
 

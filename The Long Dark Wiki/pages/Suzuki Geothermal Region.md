@@ -41,7 +41,7 @@ Each of the Substations have very similar floorplans, with the downside of havin
 
 ## Locations
 
-#### **First Broken Bridge**
+### **First Broken Bridge**
 
 #### **Geothermal Substation One**
 

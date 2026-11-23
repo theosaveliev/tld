@@ -112,7 +112,7 @@ The following items are found in the Drinks section of the Radial Menu.
 | [Stacy's Grape Soda icon](../assets/Stacy%27s_Grape_Soda_icon.png) | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 250 kcal | 30% | 0.25 kg; _(0.55 lb)_ | 1000 kcal / kg; _(455 kcal / lb)_ |  |
 | [Summit Soda icon](../assets/Summit_Soda_icon.png) | [Summit Soda](./Summit%20Soda.md) | 250 kcal | 30% | 0.25 kg; _(0.55 lb)_ | 1000 kcal / kg; _(455 kcal / lb)_ |  |
 | [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) | [Water (Potable)](./Water%20%28Potable%29.md) | 0 kcal | 150% | 1.00 kg; _(2.2 lb)_ | 0 kcal / kg; _(0 kcal / lb)_ |  |
-| [Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) | [Water (Unsafe)](./Water%20%28Unsafe%29.md)[^1] | 0 kcal | 150% | 1.00 kg; _(2.2 lb)_ | 0 kcal / kg; _(0 kcal / lb)_ |  |
+| [Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) | [Water (Unsafe)](./Water%20%28Unsafe%29.md) (1) | 0 kcal | 150% | 1.00 kg; _(2.2 lb)_ | 0 kcal / kg; _(0 kcal / lb)_ |  |
 
 ### Brew-able Materials
 

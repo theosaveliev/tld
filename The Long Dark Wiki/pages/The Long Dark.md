@@ -17,8 +17,6 @@
 - [The Long Dark: Tales from the Far Territory](#the-long-dark-tales-from-the-far-territory)
 - [The Long Dark: Iron Road](#the-long-dark-iron-road)
 - [The Long Dark: Wintermute](#the-long-dark-wintermute)
-- [Music for The Long Dark -- Volume One](#music-for-the-long-dark----volume-one)
-- [Music for The Long Dark -- Volume Two](#music-for-the-long-dark----volume-two)
 - [Visual Enhancements](#visual-enhancements)
 - [Gameplay](#gameplay)
 - [Realism](#realism)

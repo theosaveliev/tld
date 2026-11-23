@@ -57,7 +57,7 @@ The player community has given unofficial names to two of the most commonly used
 - NOGOA: No One Gets Out Alive challenge - a specific custom file that has all the settings on their most harsh and spawns you at midnight in a blizzard (Code: 8sHM-/z8P-Dz+3-QZym-XQIC)
 - Outerloper: Interloper, but where the player can't enter any building (self-enforced rule)
 
-More custom challenges can be found [Here](https://steamcommunity.com/app/305620/discussions/9/4515505814159739321/).
+More custom challenges can be found [Steam community discussion](https://steamcommunity.com/app/305620/discussions/9/4515505814159739321/).
 
 ## Custom Difficulty Customization Options
 

@@ -31,7 +31,6 @@
 **Template:spoiler**
 > **Jeremiah's guide to surviving the Quiet Apocalypse. Listen to him if you want to live.**
 >
->
 > — In-game description
 
 **Survival School** was the third mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
@@ -72,9 +71,9 @@ Any of the 4 mission tasks can be taken and completed in any order desired, but 
 
 ### Fishing
 
-> “__M - Fishing. Do we really have time for this?  
+> “**M - Fishing. Do we really have time for this?  
  J - You won't always have the means to hunt, so you need to know more than one way to feed yourself. Protein's scarce in the Winter. Fishing might help keep your dumb pilot ass from dying out there.  
- M - You sure have a way with words.__”
+ M - You sure have a way with words.**”
 >
 > — Mackenzie and Jeremiah
 
@@ -84,10 +83,10 @@ The Fishing Tackle blueprint will unlock, so head to the Camp Office and craft a
 
 ### Hunting
 
-> “__M - What can you tell me about hunting?  
+> “**M - What can you tell me about hunting?  
  J - Trick is to spot your target, get as close as you can, take a shot, and don't miss.  
  M - That all?  
- J - Pretty much. A few years of practice and you might have a clue.__”
+ J - Pretty much. A few years of practice and you might have a clue.**”
 >
 > — Mackenzie and Jeremiah
 
@@ -97,8 +96,8 @@ Clear as much from your inventory as you can, as you will need the extra storage
 
 ### Mending
 
-> “__M - What do I need to know about clothing?  
- J - Its damn cold out there, right? What you wear might make the difference between life and death.__”
+> “**M - What do I need to know about clothing?  
+ J - Its damn cold out there, right? What you wear might make the difference between life and death.**”
 >
 > — Mackenzie and Jeremiah
 
@@ -106,8 +105,8 @@ Jeremiah will explain to Mackenzie the importance of wearing good clothing in th
 
 ### Foraging
 
-> “__M - Seems if you have your way, I'll never be a vegetarian out here.  
- J - I'm sure it's no coincidence that most animals out here are made of meat, Mackenzie. You ready? Then go to it, oh mighty killer of fuzzy animals.__”
+> “**M - Seems if you have your way, I'll never be a vegetarian out here.  
+ J - I'm sure it's no coincidence that most animals out here are made of meat, Mackenzie. You ready? Then go to it, oh mighty killer of fuzzy animals.**”
 >
 > — Mackenzie and Jeremiah
 

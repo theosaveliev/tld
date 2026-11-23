@@ -22,7 +22,6 @@
 **Template:spoiler**
 > **Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.**
 >
->
 > — In-game description
 
 **Blackrock Locker Keys** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md).

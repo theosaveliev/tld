@@ -45,7 +45,7 @@ This affliction causes the following effects:
 
 |  | Effect | Magnitude |
 | --- | --- | --- |
-|  | [Condition](./Condition.md) restoration | 2% per hour[^1] |
+|  | [Condition](./Condition.md) restoration | 2% per hour (1) |
 
 ## Gallery
 

@@ -35,12 +35,12 @@
 | Voiced by | [Richard Newman](https://en.wikipedia.org/wiki/Richard_Newman_%28actor%29) (Redux EP 1,2) Gord Marriott (Predux EP 2) |
 
 > “__Ancient in appearance, Methuselah’s clear eyes suggest a deep wisdom and he radiates strength rather than frailty. He has the calm, knowing authority of someone who’s seen a few things in his time.  
-   
+
  Methuselah appears to know more than he’s letting on about the events on Great Bear Island. __”
 >
 > — In-game description
-
-> “__These are confusing times. Let me see if I can help you make sense of them. I'm an old man. I've seen many things. Some would say, too many. I've seen this happen before. We've sinned, now we're paying the price. __”
+>
+> “**These are confusing times. Let me see if I can help you make sense of them. I'm an old man. I've seen many things. Some would say, too many. I've seen this happen before. We've sinned, now we're paying the price.**”
 >
 > — Methuselah
 

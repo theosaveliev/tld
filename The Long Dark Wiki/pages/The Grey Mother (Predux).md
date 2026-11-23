@@ -30,7 +30,6 @@
 **Template:spoiler**
 > **The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.**
 >
->
 > — In-game description
 
 **The Grey Mother (Predux)** was the third mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
@@ -85,7 +84,7 @@ Go upstairs and find the blue [Trunk](./Trunk.md) containing Lily's gear. Take t
 
 Grey Mother offers unique items, knowledge, and side missions as rewards for better earning her Trust during this mission:
 
-#### Items That Increase Trust
+### Items That Increase Trust
 
 - +1 [Stick](./Stick.md)
 - +3 [Reishi Mushroom](./Reishi%20Mushroom.md)

@@ -8,7 +8,6 @@
 - [Missions](#missions)
 - [Recent Activities](#recent-activities)
 - [Mystery Lake](#mystery-lake)
-- [Pleasant Valley](#pleasant-valley)
 - [Blackrock Region](#blackrock-region)
 - [Other Regions](#other-regions)
 

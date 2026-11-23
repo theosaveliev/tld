@@ -4,10 +4,8 @@
 
 **Contents**
 
-- [Background Images](#background-images)
 - [Tips](#tips)
 - [Episode 4 messages](#episode-4-messages)
-- [Loading Animations](#loading-animations)
 - [Trivia](#trivia)
 - [Notes](#notes)
 

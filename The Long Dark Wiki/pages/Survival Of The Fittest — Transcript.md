@@ -60,20 +60,19 @@ SURVIVAL OF THE FITTEST
 
 _The player can take control of the man, as the names of the developers appear in the top left occasionally. The pilot moves slowly due to his [Plane Crash Injuries](./Plane%20Crash%20Injuries.md). Moving towards a cave, the man finds a [First Aid Kit](./First%20Aid%20Kit.md) and takes the contents out, prompting tutorial messages_
 
-> “__Study Your Treatments and Learn to Triage  
- There are many ways to die in the wilderness. Medical treatments -- man-made or harvested from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.__”
+> “**Study Your Treatments and Learn to Triage  
+ There are many ways to die in the wilderness. Medical treatments -- man-made or harvested from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.**”
 >
 > — What I Know description
-
-> “__The Key to Survival  
- Preparation and self-control are vital to your survival. Check your Controls menu if you're unsure of how to do something. This could save your life.__”
+>
+> “**The Key to Survival  
+ Preparation and self-control are vital to your survival. Check your Controls menu if you're unsure of how to do something. This could save your life.**”
 >
 > — What I Know description
 
 _After he patches his hand with a [Bandage](./Bandage.md). The bandage can be seen on his hand for the rest of the mission if he hold something up (like matches). He moves to the cave and another tutorial message play during this time._
-> __Fire Provides Heat, Water, Food, Protection
-> Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire, along with a Can or Pot, can be used to Cook or Boil Water, as well as keep you from freezing to death.__
->
+> **Fire Provides Heat, Water, Food, Protection
+> Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire, along with a Can or Pot, can be used to Cook or Boil Water, as well as keep you from freezing to death.**
 >
 > — What I Know description
 
@@ -98,9 +97,8 @@ The man wakes up the next morning. _The various fires from the night before have
 Mackenzie: "So thirsty. Gotta be a way to melt some snow."
 
 _Another tutorial message appears_
-> __Status is Your Early Warning System
-> When you bring up the Quick Stats or the Radial Menu, you'll get a preview of your Current Condition, as well as information about how Cold, Tired, Hungary, and Thirsty you are. Any time one of these status indicators is empty and red, this means you're losing Condition. Lose all your Condition, and you'll die.__
->
+> **Status is Your Early Warning System
+> When you bring up the Quick Stats or the Radial Menu, you'll get a preview of your Current Condition, as well as information about how Cold, Tired, Hungary, and Thirsty you are. Any time one of these status indicators is empty and red, this means you're losing Condition. Lose all your Condition, and you'll die.**
 >
 > — What I Know description
 
@@ -148,8 +146,8 @@ Mackenzie: "Thought that storm would never end. I need to find some food."
 
 _Another tutorial message appears on the screen_
 
-> “__Your Ears Are Your Best Survival Tool  
- Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!__”
+> “**Your Ears Are Your Best Survival Tool  
+ Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!**”
 >
 > — What I Know description
 
@@ -270,9 +268,8 @@ _The cutscene ends with an outside shot of the Jackrabbit Hangar, before fading 
 Mackenzie: "Whatever's in this case, Astrid was willing to die for it. I hope she hasn't already died for it."
 
 _The man turns to pick up his Parka out of the snow, and a tutorial message appears_
-> __Clothing Is Armour Against Cold
-> Out in the wilderness, clothing is like armour against the elements. Wear layers to stay warm. An remember, wind is your enemy! Clothing offers different protection from cold and windchill. Your clothes can get wet from blowing snow or if you fall into water, which makes them ineffective and increases your risk of hypothermia or even frostbite. Keep your clothes as dry as you can! finally, clothing can protect you from physical injuries as from falling or tangling with wildlife. Balance all these factors against the weight and mobility cost of your combined clothing.__
->
+> **Clothing Is Armour Against Cold
+> Out in the wilderness, clothing is like armour against the elements. Wear layers to stay warm. An remember, wind is your enemy! Clothing offers different protection from cold and windchill. Your clothes can get wet from blowing snow or if you fall into water, which makes them ineffective and increases your risk of hypothermia or even frostbite. Keep your clothes as dry as you can! finally, clothing can protect you from physical injuries as from falling or tangling with wildlife. Balance all these factors against the weight and mobility cost of your combined clothing.**
 >
 > — What I Know description
 
@@ -281,9 +278,8 @@ _The man notices a [Rock Climb](./Rock%20Climb.md)_
 Mackenzie: "I could probably climb that."
 
 _He tries to climb up it, but loses his grip and falls, getting a [Sprained Ankle](./Sprained%20Ankle.md) for his efforts._ _Another tutorial message appears_
-> __Mother Nature's Painkiller
-> Sometimes Mother Nature is your pharmacist. Craft Rose-hips into a preparation that can be boiled in water to produce a tea with pain-relieving properties. Keep your eyes open for other natural remedies.__
->
+> **Mother Nature's Painkiller
+> Sometimes Mother Nature is your pharmacist. Craft Rose-hips into a preparation that can be boiled in water to produce a tea with pain-relieving properties. Keep your eyes open for other natural remedies.**
 >
 > — What I Know description
 
@@ -293,8 +289,8 @@ Mackenzie: "This carcass could save my life. This doesn't look too good, but wha
 
 _Then a tutorial message appears when finished_
 
-> “__Everything You Eat, Can Kill You  
- When starving, you may feel desperate enough to take your chances, but in general eating raw meat is a bad idea. Cook it to avoid getting Food Poisoning, or Parasites. Cooked meat also lasts longer, and attracts fewer predators.__”
+> “**Everything You Eat, Can Kill You  
+ When starving, you may feel desperate enough to take your chances, but in general eating raw meat is a bad idea. Cook it to avoid getting Food Poisoning, or Parasites. Cooked meat also lasts longer, and attracts fewer predators.**”
 >
 > — What I Know description
 
@@ -309,9 +305,8 @@ Mackenzie: "I feel stronger today. I think I can climb out of here now."
 _Note, subtitles say "_I think I can make that climb now."
 
 _A tutorial message appears_
-> __What You Know Can Save You
-> As you learn things about the world -- either through your own actions, or through interacting with people -- you unlock Knowledge about People, Places, Things, and Actions. Deeper Knowledge can be revealed when you gain the Trust of other survivors you meet. This Knowledge is tracked in your Journal, for future reference.__
->
+> **What You Know Can Save You
+> As you learn things about the world -- either through your own actions, or through interacting with people -- you unlock Knowledge about People, Places, Things, and Actions. Deeper Knowledge can be revealed when you gain the Trust of other survivors you meet. This Knowledge is tracked in your Journal, for future reference.**
 >
 > — What I Know description
 

@@ -5,10 +5,6 @@
 **Contents**
 
 - [Overview](#overview)
-- [Signal Void](#signal-void)
-- [Buried Echoes](#buried-echoes)
-- [Last Horizon](#last-horizon)
-- [Belongings](#belongings)
 - [Gallery](#gallery)
 
 **Dr. Rüdiger**

@@ -64,8 +64,8 @@ A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of r
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[^1] |
-| [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[^2] |
+| [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always (1) |
+| [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always (2) |
 | [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
 

@@ -22,7 +22,6 @@
 - [Exhausted](#exhausted)
 - [Drained](#drained)
 - [Tired](#tired)
-- [Winded](#winded)
 - [Rested](#rested)
 - [Hunger and Parasites affects fatigue](#hunger-and-parasites-affects-fatigue)
 - [Character quotes](#character-quotes)

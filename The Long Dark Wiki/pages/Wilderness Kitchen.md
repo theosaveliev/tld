@@ -63,7 +63,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Location
 
-#### Coastal Highway
+### Coastal Highway
 
 - [Abandoned Lookout](./Abandoned%20Lookout.md)
 

@@ -73,7 +73,7 @@ The specific items that can be crafted, and their respective requirements, can b
 
 ## Gallery
 
-[Missing image: Screen\_(-1,\_4,\_-18)\_8b85d96a-957e-4c52-a687-c18d46e560f7.png]
+Missing image: Screen\_(-1,\_4,\_-18)\_8b85d96a-957e-4c52-a687-c18d46e560f7.png
 
 _The old forging interface_
 

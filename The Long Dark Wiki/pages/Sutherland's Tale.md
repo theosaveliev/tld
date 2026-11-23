@@ -86,10 +86,10 @@ The objectives for this Tale do not show up in the Journal menu, so it is consid
 
 - The option to enable the Trader on your survival save must be enabled, otherwise you cannot start this Tale.
 - Unlike the other 3 Tales, the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) does not need to be acquired and [Transmitters](./Transmitters.md) do not need to be repaired to complete this Tale.
-- Playing on [Interloper](./Interloper.md)/[Misery](./Misery.md) will make it difficult to distinguish between the 3 stocked [Prepper's Cache](./Prepper%20Cache.md) since they always spawn as Abandoned. Players will need to pay close attention to the layouts of the caches, and take detailed notes about them[^1].
+- Playing on [Interloper](./Interloper.md)/[Misery](./Misery.md) will make it difficult to distinguish between the 3 stocked [Prepper's Cache](./Prepper%20Cache.md) since they always spawn as Abandoned. Players will need to pay close attention to the layouts of the caches, and take detailed notes about them.
   - The Stockpile Cache, needed for Special Request 1, can be identified as it is the only one which contains a corpse[^2]. It also contains the recipe for [Prepper's Pie](./Prepper%27s%20Pie.md).
-  - The Hunting Cache, needed for Special Request 2, can be identified as it is the only one with an L-shaped layout[^3].
-  - The Conspiracy Cache, needed for Special Request 3, can be identified as it is the only one that has a corridor with red-painted walls[^4].
+  - The Hunting Cache, needed for Special Request 2, can be identified as it is the only one with an L-shaped layout.
+  - The Conspiracy Cache, needed for Special Request 3, can be identified as it is the only one that has a corridor with red-painted walls.
 - Because the location of the 3 special caches is random, you will have to check each cache one by one until you find all three stocked ones. The location of the Prepper's Abandoned Cache involved in Special Requests 4 and 5 is always fixed in Pleasant Valley near the rope climb to Timberwolf Mountain.
   - NOTE that _you must accept the Special Request trade_ in order for the Loose Bricks Stash to be accessible in its respective Prepper Cache as the Tale progresses. You cannot loot Brick Stashes ahead of time.
 - Just finishing Sutherland's last special request is not enough to unlock the [Goods and Services](./Goods%20and%20Services.md) achievement (Gain maximum trust with the trader).
@@ -623,7 +623,4 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 
 ---
 
-[^1]: 
 [^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
-[^3]: 
-[^4]:

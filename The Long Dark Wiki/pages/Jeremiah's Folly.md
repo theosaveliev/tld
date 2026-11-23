@@ -28,7 +28,6 @@
 **Template:spoiler**
 > **If you don't kill the Old Bear, you'll never make it out of Mystery Lake. Finish what Jeremiah started.**
 >
->
 > — In-game description
 
 **Jeremiah's Folly** was the fourth mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).

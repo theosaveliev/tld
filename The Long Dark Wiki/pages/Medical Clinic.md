@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missing image: Medical\_Clinic.jpg] / _Medical\_Clinic.jpg_ |
+|  | Missing image: Medical\_Clinic.jpg / _Medical\_Clinic.jpg_ |
 | **Location** |  |
 | Region | [Perseverance Mills](./Perseverance%20Mills.md) |
 | Description | The local first aid clinic of Perseverance Mills. |

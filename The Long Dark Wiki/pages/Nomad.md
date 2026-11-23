@@ -20,8 +20,8 @@
 | Difficulty | 3 |
 | Date Added | June 2016 |
 
-> “__The world has changed. The only way to survive is to keep moving.  
- Survive for 3 days each in 15 specific locations across the game world.__”
+> “**The world has changed. The only way to survive is to keep moving.  
+ Survive for 3 days each in 15 specific locations across the game world.**”
 >
 > — Main Menu description
 

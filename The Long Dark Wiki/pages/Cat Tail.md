@@ -9,7 +9,7 @@
 - [Location](#location)
 - [The Far Territory](#the-far-territory)
 
-[Missing image: Cat\_Tail\_plant.png]
+Missing image: Cat\_Tail\_plant.png
 
 _XTHUMB_
 

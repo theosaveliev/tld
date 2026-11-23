@@ -26,7 +26,7 @@
 _The following text is transcribed from **Page**_
 
 Hard to believe we're getting more inmates this week. And in winter, besides. The talk is that the warden's going to open on C Block again. And guess who's going to have to requisition all we need to stock those cells? Yours truly. Should have never come out here. Debts or no debts this isn't living. It's just counting days.  
-   
+
  Thank god I've got Timberwolf coming up. Even with the big storm coming, I can't wait to try the summit route again.
 
 ## Update history

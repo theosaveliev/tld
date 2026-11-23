@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missing image: An\_Old\_House\_Key\_icon.png] / _An\_Old\_House\_Key\_icon.png_ |
+|  | Missing image: An\_Old\_House\_Key\_icon.png / _An\_Old\_House\_Key\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |

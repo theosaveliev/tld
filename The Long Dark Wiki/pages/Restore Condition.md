@@ -36,7 +36,7 @@ This affliction causes the following effects:
 
 |  | Effect | Magnitude | Duration |
 | --- | --- | --- | --- |
-|  | [Condition](./Condition.md) restoration | 2.5% per hour | 2 hours[^1] |
+|  | [Condition](./Condition.md) restoration | 2.5% per hour | 2 hours (1) |
 
 ## Update history
 

@@ -131,7 +131,7 @@ Additionally, a second Landing Gear can be found at the Summit, but this is not 
 
 ![Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
 
-[Missing image: Mountaineer\_Cabin.png]
+Missing image: Mountaineer\_Cabin.png
 
 _Mountaineer's Hut_
 

@@ -60,7 +60,7 @@ This episode has since been replaced by [The Best Defense](./The%20Best%20Defens
 
 After finding the tracks again, head south through the railway tunnel. This will take players from Mystery Lake to [Forlorn Muskeg](./Forlorn%20Muskeg.md). Continue to follow the tracks through another tunnel into [Broken Railroad](./Broken%20Railroad.md). Along the tracks is a derailed train. One of the cars has a burn barrel that can be used to make a fire, along with a few other items including a bedroll and a backpack. A section of it will be covered with a landslide and players will need to find a way around. Just before the blocked section is a path that goes downhill to a frozen lake with a waterfall on one end. Once across the lake look for another path going up that leads to a tree laying down between two large rock formations. Cross the tree and keep going forward. This will put the player back at the tracks on the other side of the landslide.
 
-Another derailed train is on the track but is not explorable. Beyond that is a pickup truck. From here, players will need to head north from the track to locate the shop. Further down the tracks is another derailed train and a pickup. The pickup contains the [Charcoal Note](#Notes). This note will put the location of another stash on the map near the marsh.
+Another derailed train is on the track but is not explorable. Beyond that is a pickup truck. From here, players will need to head north from the track to locate the shop. Further down the tracks is another derailed train and a pickup. The pickup contains the Charcoal Note. This note will put the location of another stash on the map near the marsh.
 
 Following the power lines from the track, players will come into the [Maintenance Yard](./Maintenance%20Yard.md). There are several vehicles to look through. Inside the building is a room with a [bed](./Bed.md). The restricted area door leads to several more rooms . One room will have a corpse on the ground. Walking over it starts a cutscene. Mackenzie trips over the corpse, then finds a note on the floor that refers to "[Forest Talkers](./Forest%20Talkers.md)". The note mentions a [Lodge](./Hunting%20Lodge.md). Also in the same room on a counter is a pair of [Bolt Cutters](./Bolt%20Cutters.md) (these will be needed later), and the milling machine needed to fix the rifle. Clicking on it to update the mission. Mackenzie is still unable to use the rifle himself but will carry [Jeremiah's Repaired Rifle](./Jeremiah%27s%20Repaired%20Rifle.md) as part of the mission.
 
@@ -89,7 +89,7 @@ If asked about the lights in the sky, the trapper will admit they seem different
 
 From this point on, Jeremiah's Trust can be gained by giving the following items. (Note that completing missions will also gain Trust)
 
-#### Items That Increase Trust
+### Items That Increase Trust
 
 - +1 [Stick](./Stick.md)
 - +3 [Cloth](./Cloth.md)

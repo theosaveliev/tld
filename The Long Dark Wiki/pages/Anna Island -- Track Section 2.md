@@ -7,9 +7,7 @@
 - [Overview](#overview)
 - [Locations](#locations-1)
 - [Wildlife management](#wildlife-management)
-- [Survivability](#survivability)
 - [Gallery](#gallery)
-- [Maps](#maps)
 - [Locations](#locations-1)
 - [Miscellaneous](#miscellaneous)
 

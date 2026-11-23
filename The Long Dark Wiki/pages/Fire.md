@@ -26,7 +26,7 @@
 - [Break Down](#break-down)
 - [Predators](#predators)
 
-[Missing image: Fire\_icon.png]
+Missing image: Fire\_icon.png
 
 _XTHUMB_
 
@@ -49,7 +49,7 @@ To start a fire, players have to "use" an existing [firebox](#contained-fires) o
 | [Book](./Book.md) | 18 mins | +35% | 2.0 °C / _(3.6 °F)_ | 0.5 kg / _(1.1 lb)_ | 0.6 hr/kg (0.27 hr/lb) | 4 °C/kg / _(3.27 °F/lb)_ |
 | [Cedar Firewood](./Cedar%20Firewood.md) | 60 mins | +15% | 6.0 °C / _(10.8 °F)_ | 0.5 kg / _(1.1 lb)_ | 2 hr/kg (0.91 hr/lb) | 12 °C/kg / _(9.8 °F/lb)_ |
 | [Coal](./Coal.md) | 60 mins | N/A | 20.0 °C / _(36 °F)_ | 0.3 kg / _(0.66 lb)_ | 3.33 hr/kg (1.51 hr/lb) | 66.67 °C/kg / _(54.43 °F/lb)_ |
-| [Fir Firewood ](./Fir%20Firewood.md) | 90 mins | 0% | 9.0 °C / _(16.2 °F)_ | 1.0 kg / _(2.2 lb)_ | 1.5 hr/kg (0.68 hr/lb) | 9 °C/kg / _(7.35 °F/lb)_ |
+| [Fir Firewood](./Fir%20Firewood.md) | 90 mins | 0% | 9.0 °C / _(16.2 °F)_ | 1.0 kg / _(2.2 lb)_ | 1.5 hr/kg (0.68 hr/lb) | 9 °C/kg / _(7.35 °F/lb)_ |
 | [Firelog](./Firelog.md) | 120 mins | +7% | 12.0 °C / _(21.6 °F)_ | 2.0 kg / _(4.4 lb)_ | 1 hr/kg (0.45 hr/lb) | 10.5 °C/kg / _(8.57 °F/lb)_ |
 | [Reclaimed Wood](./Reclaimed%20Wood.md) | 30 mins | -5% | 3.0 °C / _(5.4 °F)_ | 0.25 kg / _(0.55 lb)_ | 2 hr/kg (0.91 hr/lb) | 12 °C/kg / _(9.8 °F/lb)_ |
 | [Stick](./Stick.md) | 7.5 mins | +15% | 1.0 °C / _(1.8 °F)_ | 0.15 kg / _(0.33 lb)_ | 0.83 hr/kg (0.38 hr/lb) | 6.67 °C/kg / _(5.44 °F/lb)_ |
@@ -62,7 +62,7 @@ Burn times are increased with higher levels of the [Fire Starting](./Fire%20Star
 | [Book](./Book.md) | 18 mins | 20 mins | 22.5 mins | 27 mins |
 | [Cedar Firewood](./Cedar%20Firewood.md) | 60 mins | 66 mins | 1 hr 15 mins | 1 hr 30 mins |
 | [Coal](./Coal.md) | 60 mins | 66 mins | 1 hr 15 mins | 1 hr 30 mins |
-| [Fir Firewood ](./Fir%20Firewood.md) | 1 hr 30 mins | 1 hr 39 mins | 1 hr 52.5 mins | 2 hr 15 mins |
+| [Fir Firewood](./Fir%20Firewood.md) | 1 hr 30 mins | 1 hr 39 mins | 1 hr 52.5 mins | 2 hr 15 mins |
 | [Firelog](./Firelog.md) | 2 hr | 2 hr 12 mins | 2 hr 30 mins | 3 hr |
 | [Reclaimed Wood](./Reclaimed%20Wood.md) | 30 mins | 33 mins | 37.5 mins | 45 mins |
 | [Stick](./Stick.md) | 7.5 mins | 8 mins | 9 mins | 11 mins |

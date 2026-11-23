@@ -27,7 +27,6 @@
 **Template:spoiler**
 > **Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.**
 >
->
 > — In-game description
 
 **Echoes of Astrid** was the second mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).

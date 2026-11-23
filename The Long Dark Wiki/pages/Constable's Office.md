@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missing image: Constable's\_Office.jpg] / _Constable's\_Office.jpg_ |
+|  | Missing image: Constable's\_Office.jpg / _Constable's\_Office.jpg_ |
 | **Location** |  |
 | Region | [Perseverance Mills](./Perseverance%20Mills.md) |
 | Description | The local Constable's Office of Perseverance Mills. |

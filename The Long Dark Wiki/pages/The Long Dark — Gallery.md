@@ -153,7 +153,7 @@ _Sunset at [Desolation Point](./Desolation%20Point.md)_
 
 #### Locations
 
-[Missing image: The\_Long\_Dark\_Frozen\_Creek.png]
+Missing image: The\_Long\_Dark\_Frozen\_Creek.png
 
 _[Frozen Creek](./Frozen%20Creek.md)_
 

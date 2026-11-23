@@ -23,7 +23,7 @@ This page is about content that was not officially created by [Hinterland Studio
 
 **The Long Development** is an unofficial mod created by a dedicated group of community members for _[The Long Dark](./The%20Long%20Dark.md)_. It was not created by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) and is thus not canon to the world or story of _The Long Dark_.
 
-The YouTube channel for this project can be found [here](https://www.youtube.com/@Kaiusername). This mod will be free to download for any player and is only compatible to users that own both [Survival Mode](./Survival%20Mode.md) and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
+The YouTube channel for this project can be found [YouTube channel](https://www.youtube.com/@Kaiusername). This mod will be free to download for any player and is only compatible to users that own both [Survival Mode](./Survival%20Mode.md) and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
 ## Overview
 

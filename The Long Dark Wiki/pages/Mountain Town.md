@@ -35,7 +35,7 @@
 
 **Mountain Town** is 8th [Region](./Region.md) released in _[The Long Dark](./The%20Long%20Dark.md)_ on [Great Bear Island](./Great%20Bear%20Island.md), and is centered around the small, recently abandoned town of [Milton](./Milton.md).
 
-It is the setting for [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), as well as the 8th region added to [Survival Mode](./Survival%20Mode.md). Milton is accessible via [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) (through a cave near the [Trapper's Homestead](./Trapper%27s%20Homestead.md)), [Forlorn Muskeg](./Forlorn%20Muskeg.md) (at [Marsh Ridge ](./Marsh%20Ridge.md)through a Rose Bush climb to [Milton Basin](./Milton%20Basin.md)), and to [Hushed River Valley](./Hushed%20River%20Valley.md) (through a cave between the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)).
+It is the setting for [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), as well as the 8th region added to [Survival Mode](./Survival%20Mode.md). Milton is accessible via [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) (through a cave near the [Trapper's Homestead](./Trapper%27s%20Homestead.md)), [Forlorn Muskeg](./Forlorn%20Muskeg.md) (at [Marsh Ridge](./Marsh%20Ridge.md)through a Rose Bush climb to [Milton Basin](./Milton%20Basin.md)), and to [Hushed River Valley](./Hushed%20River%20Valley.md) (through a cave between the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)).
 
 ## Description
 

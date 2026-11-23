@@ -24,7 +24,7 @@
 ## Overview
 
 > “__Your questionable diet has caught up with you.  
-   
+
  You cannot eat as much before you feel full. You also are more likely to experience Food Poisoning, no matter your Skill level.__”
 >
 > — In-game Description

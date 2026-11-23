@@ -44,7 +44,6 @@
 - [Items That Increase Trust](#items-that-increase-trust-1)
 - [Things that lose Trust](#things-that-lose-trust-1)
 - [Trust Levels And Unlocks](#trust-levels-and-unlocks-1)
-- [Jeremiah's Trust](#jeremiahs-trust)
 - [Items That Increase Trust](#items-that-increase-trust-1)
 - [Things that lose Trust](#things-that-lose-trust-1)
 - [Trust Levels And Unlocks](#trust-levels-and-unlocks-1)
@@ -1102,7 +1101,7 @@ _[Salty Crackers](./Salty%20Crackers.md) cut texture_
 
 ![Journal Texture](../assets/Journal_Texture_icon.png)
 
-[Missing image: Cat\_Tail\_plant.png]
+Missing image: Cat\_Tail\_plant.png
 
 _Cat Tail Plant_
 

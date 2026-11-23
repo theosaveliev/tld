@@ -7,10 +7,8 @@
 - [Overview](#overview)
 - [Locations](#locations-1)
 - [Wildlife management](#wildlife-management)
-- [Survivability](#survivability)
 - [Safe houses](#safe-houses)
 - [Gallery](#gallery)
-- [Maps](#maps)
 - [Locations](#locations-1)
 
 ![Seal icon](../assets/Seal_icon.png)

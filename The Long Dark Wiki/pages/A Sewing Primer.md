@@ -66,7 +66,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Location
 
-#### Coastal Highway
+### Coastal Highway
 
 - Car parked in front of the house north west of [Coastal Townsite](./Coastal%20Townsite.md)
 

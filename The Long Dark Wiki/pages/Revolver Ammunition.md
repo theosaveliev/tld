@@ -50,7 +50,7 @@ Chance to produce:
 > “**A box of Revolver cartridges.**”
 >
 > — Boxed ammo In-game description
-
+>
 > “**A single Revolver cartridge.**”
 >
 > — Single Cartridge In-game description

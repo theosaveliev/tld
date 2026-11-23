@@ -21,7 +21,6 @@
 - [List of Diary Page Contents and Loot Next to Each Green Campfire](#list-of-diary-page-contents-and-loot-next-to-each-green-campfire)
 - [Gallery](#gallery)
 - [Trivia](#trivia)
-- [References](#references)
 
 **Escape the Darkwalker**
 
@@ -33,8 +32,8 @@
 | Difficulty | 6 |
 | Date Added | 9 Dec 2020 |
 
-> “__The Darkwalker is hunting you. Paint Glyphs to survive as long as you can.  
- Search for the Green Fires. Learn all you can about the Darkwalker. Knowledge will help you find a way to defeat the entity.__”
+> “**The Darkwalker is hunting you. Paint Glyphs to survive as long as you can.  
+ Search for the Green Fires. Learn all you can about the Darkwalker. Knowledge will help you find a way to defeat the entity.**”
 >
 > — Main Menu description
 
@@ -44,10 +43,11 @@ _Escape the Darkwalker_ was initially launched as a Halloween-themed event for 2
 
 ## Overview
 
-> “__1. Use the time before the Darkwalker arrives to prepare yourself for the hunt.  
+> “**1. Use the time before the Darkwalker arrives to prepare yourself for the hunt.  
+
  2. The Darkwalker is hunting you. Survive until it devours you, or you are overwhelmed by Toxic Fog. Seek out the Diary Pages.  
  3. Go to Ash Canyon and use the Banish glyph at the Ritual Circle marked on the Map.  
- 4. Stay in the Ritual Circle to Lure and Banish the Darkwalker.__”
+ 4. Stay in the Ritual Circle to Lure and Banish the Darkwalker.**”
 >
 > — Journal Objectives
 

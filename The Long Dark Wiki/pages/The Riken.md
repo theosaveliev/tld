@@ -60,7 +60,7 @@ The weather deck features an inoperable harpoon gun, direct passage to/from the 
 
 ![The ship's hold](../assets/Riken_hold.jpg)
 
-[Missing image: 305620\_20160916194519\_1.png]
+Missing image: 305620\_20160916194519\_1.png
 
 _Harpoon gun_
 

@@ -16,6 +16,15 @@
 - [Maps](#maps)
 - [Gallery](#gallery)
 
+**Mystery Lake (region)**
+
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+| **Details** |  |
+
 _For the location, see [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md)._
 
 > “**Ideal for new players. A balance between wilderness and man-made shelters, resources, and wildlife.**”

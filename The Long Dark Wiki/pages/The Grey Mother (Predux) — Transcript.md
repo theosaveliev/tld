@@ -4,7 +4,6 @@
 
 **Contents**
 
-- [There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.](#theres-a-firewood-bin-outside-grey-mothers-house-stock-it-with-fuel-you-find-around-town----sticks-firewood-broken-down-furniture-or-coal-if-you-can-find-any)
 - [3rd Person Cutscene](#3rd-person-cutscene)
 - [Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.](#grey-mother-will-starve-unless-you-stock-her-pantry-with-food-scavenge-what-you-can-from-the-environment-around-you-some-food-sources-are-easier-to-find-than-others)
 - [Stole from the Gas Station](#stole-from-the-gas-station)
@@ -44,9 +43,8 @@ THE GREY MOTHER
 _Mackenzie sets out to find fuel for Grey Mother's fire. Eventually he finds 24 hours worth of fuel and puts it in Grey Mother's firewood bin, prompting another tutorial message_
 
 Containers
-> __Search Everything!
-> Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.__
->
+> **Search Everything!
+> Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.**
 >
 > — What I Know description
 
@@ -439,9 +437,8 @@ Will Mackenzie: "Holy shit!!"
 _Scaring the wolf off, Mackenzie either loots the corpse for a [Lock Box Key (Predux)](./Lock%20Box%20Key%20%28Predux%29.md) or ignores the corpse. Picking up the [Snare](./Snare.md) on the Work Bench generates a tutorial message_
 
 Snares
-> __Setting Up A Trapline
-> You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!__
->
+> **Setting Up A Trapline
+> You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!**
 >
 > — What I Know description
 

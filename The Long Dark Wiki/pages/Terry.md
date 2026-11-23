@@ -51,9 +51,9 @@ He is a man of a conspiratorial/distrusting of government types nature, with his
 
 ### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
-> “__...[static]... This is...Mills...come in...  
+> “**...[static]... This is...Mills...come in...  
  We need help...Some kind of...quarantine...  
- We need a...doctor...or medical assistance. Anything.__”
+ We need a...doctor...or medical assistance. Anything.**”
 >
 > — Radio Voice Man
 
@@ -63,9 +63,9 @@ Terry is first heard on a radio broadcast as [Will Mackenzie](./Will%20Mackenzie
 
 ### [Aftermath](./Aftermath.md)
 
-> “__...[static]... Come in... We need...help... There's some kind of...quarantine...situation.  
+> “**...[static]... Come in... We need...help... There's some kind of...quarantine...situation.  
  We need a...doctor... or medical assistance. Anything.  
- We're cut off.__”
+ We're cut off.**”
 
 The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signal%20Hill.md), this time from Astrid Greenwood's perspective. The broadcast is mostly the same, but with slightly more dialogue.
 
@@ -79,7 +79,6 @@ The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signa
 
 Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).
 > **Hey look! Somone finally heard my distress call!**
->
 >
 > — Terry leading Mathis to Cooper's Blind
 

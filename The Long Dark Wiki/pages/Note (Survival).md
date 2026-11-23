@@ -26,7 +26,7 @@
 _The following text is transcribed from **Note**_
 
 Can't tell who's coming and going, even from up here. It looks empty but I'm going to wait it out for a couple days and see if whoever followed me over the river was headed up here too.  
-   
+
  This place must be cursed at this point. Even a fire couldn't change that.
 
 ## Update history

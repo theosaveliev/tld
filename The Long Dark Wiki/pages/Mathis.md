@@ -47,10 +47,9 @@
 | Equipment | [Hatchet](./Hatchet.md) |
 | Voiced by | [Elias Toufexis](https://en.wikipedia.org/wiki/Elias_Toufexis) (Redux EP 2, 4) Gord Marriott (Predux EP 2) |
 
-> __A locked case? Well that is interesting. A locked metal case is a thing of the old world stranger. It's a world of closed doors and things being off limits. You see, I was part of that world, but that world is over.
+> **A locked case? Well that is interesting. A locked metal case is a thing of the old world stranger. It's a world of closed doors and things being off limits. You see, I was part of that world, but that world is over.
 >
-> This is my world, and in my world, I make the rules.__
->
+> This is my world, and in my world, I make the rules.**
 >
 > — Mathis examining [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 

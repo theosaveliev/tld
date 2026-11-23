@@ -22,7 +22,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Harvest | 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) / 90 minutes |
 | Repair | 2 × [Cloth](./Cloth.md) / 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) / 30% Condition / 45 mins |
 
-> “__An ordinary Bedroll, but stuffed to bursting with harvested down feathers. Toasty. __”
+> “**An ordinary Bedroll, but stuffed to bursting with harvested down feathers. Toasty.**”
 >
 > — In-game description
 

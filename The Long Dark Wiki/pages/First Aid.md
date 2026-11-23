@@ -14,8 +14,8 @@
 - [Treatment](#treatment)
 - [Equipment](#equipment)
 
-> “__Study Your Treatments and Learn to Triage  
- There are many ways to die in the wilderness. Medical treatments -- man-made or harvested from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.__”
+> “**Study Your Treatments and Learn to Triage  
+ There are many ways to die in the wilderness. Medical treatments -- man-made or harvested from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.**”
 >
 > — What I Know description
 

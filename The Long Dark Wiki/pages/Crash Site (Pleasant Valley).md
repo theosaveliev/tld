@@ -22,7 +22,6 @@
 
 > **Most of the people who arrived were too weak to talk about it. But judging by the thundering sound and the size of the fire on the hills...whatever crashed up there, it must have been something big.**
 >
->
 > — Father Thomas
 
 The **Crash Site** is a crashed airliner brought down by the [First Flare](./First%20Flare.md) in [Pleasant Valley](./Pleasant%20Valley.md), not far from [Burned Ridge Cave](./Burned%20Ridge%20Cave.md). This location, lacking an official name, was added to [Wintermute](./Wintermute.md) and [Survival Mode](./Survival%20Mode.md) in game version 1.6 with the release of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md).

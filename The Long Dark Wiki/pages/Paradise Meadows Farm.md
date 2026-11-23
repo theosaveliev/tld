@@ -109,9 +109,9 @@ This interaction culminates with a choice. Pull the knife out of Hobbs's gut in 
 
 ### **Wildlife**
 
-A few [wolves ](./Wolf.md)can roam the fields from time to time, though generally only two or three wolves come close to the house itself. It means that one should always take caution entering the yard in front of the farmhouse, since it is rarely safe.
+A few [wolves](./Wolf.md)can roam the fields from time to time, though generally only two or three wolves come close to the house itself. It means that one should always take caution entering the yard in front of the farmhouse, since it is rarely safe.
 
-A few [rabbits ](./Rabbit.md)can be found hopping around the side and the back of the farmhouse. Usually no more than 2 or 3.
+A few [rabbits](./Rabbit.md)can be found hopping around the side and the back of the farmhouse. Usually no more than 2 or 3.
 
 In the field to the north of the farm itself, near the silo, there is usually herd of a deer roaming around. Their presence in an open field with scattered snowdrifts (behind which a player can crouch) make for an excellent hunting location.
 

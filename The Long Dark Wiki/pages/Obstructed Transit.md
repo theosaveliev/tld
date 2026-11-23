@@ -16,7 +16,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Location**
 
-[Missing image: Obstructed\_Transit\_Location.png]
+Missing image: Obstructed\_Transit\_Location.png
 
 _Obstructed\_Transit\_Location.png_
 

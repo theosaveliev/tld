@@ -1,18 +1,11 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
 - [Overview](#overview)
 - [Harvestable Environmental Objects:](#harvestable-environmental-objects)
-- [Objects that yield Cloth](#objects-that-yield-cloth)
-- [Objects that yield Scrap Metal](#objects-that-yield-scrap-metal)
-- [Objects that yield Reclaimed Wood](#objects-that-yield-reclaimed-wood)
-- [Objects that yield Stick](#objects-that-yield-stick)
-- [Objects that yield Cedar Firewood](#objects-that-yield-cedar-firewood)
-- [Objects that yield Fir Firewood](#objects-that-yield-fir-firewood)
-- [Objects that yield Tinder Plug](#objects-that-yield-tinder-plug)
 - [Other](#other-1)
 - [Harvestable Clothing](#harvestable-clothing)
 - [Head](#head)
@@ -395,8 +388,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 | [Broken Arrow icon](../assets/Broken_Arrow_icon.png) | [Broken Arrow](./Broken%20Arrow.md) | 2 x Crow Feather 1 x Arrowhead | 5 min |
 | [Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) | [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 1 x Crow Feather | 5 min |
 | [Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png) | [Broken Fire Hardened Arrow](./Broken%20Fire%20Hardened%20Arrow.md) | 1 x Crow Feather | 5 min |
-| [Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) | [Rifle Ammunition](./Rifle%20Ammunition.md)[^1] | 1 [Bullet](./Bullet.md) 1 [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
-| [Revolver Ammunition icon](../assets/Revolver_Ammunition_icon.png) | [Revolver Ammunition](./Revolver%20Ammunition.md)[^2] | 1 [Bullet](./Bullet.md) 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
+| [Rifle Ammunition icon](../assets/Rifle_Ammunition_icon.png) | [Rifle Ammunition](./Rifle%20Ammunition.md) (1) | 1 [Bullet](./Bullet.md) 1 [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
+| [Revolver Ammunition icon](../assets/Revolver_Ammunition_icon.png) | [Revolver Ammunition](./Revolver%20Ammunition.md) (2) | 1 [Bullet](./Bullet.md) 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) 0.01kg [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 min |
 
 ## Carcass Harvesting
 
@@ -437,4 +430,3 @@ Harvesting of stationary objects in larger scale has been introduced on August 1
 ---
 
 [^1]: There is a chance to recover components, but it depends on [Gunsmithing](./Gunsmithing.md) level
-[^2]:

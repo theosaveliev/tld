@@ -165,7 +165,7 @@ A weight icon related to the player's current [Encumbrance](./Encumbrance.md) le
 
 ### Steep Slope Warning
 
-[Missing image: Pente.jpg]
+Missing image: Pente.jpg
 
 _Pente.jpg_
 

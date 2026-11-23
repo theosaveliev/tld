@@ -46,7 +46,7 @@ The Recovery Time is always the same for each death:
 | [Voyageur](./Voyageur.md) | -50% Condition | -60% Condition | -75% Condition | 480 hours (20 days) |
 | [Stalker](./Stalker.md) | -50% Condition | -60% Condition | -75% Condition | 480 hours (20 days) |
 | [Interloper](./Interloper.md) | -50% Condition | -60% Condition | -75% Condition | 720 hours (30 days) |
-| [Misery](./Misery.md)[^1] | N/A | N/A | N/A | N/A |
+| [Misery](./Misery.md) (1) | N/A | N/A | N/A | N/A |
 
 Dying multiple times and choosing the "Short Term Penalty" Cheat Death option does not cause the Recovery Times to stack if the previous penalty time had not yet elapsed.
 

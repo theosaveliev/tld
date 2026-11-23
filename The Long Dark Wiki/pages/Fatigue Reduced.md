@@ -24,7 +24,7 @@
 
 Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is immediately restored by a set percentage and the player gains the _Fatigue Reduced_ affliction. This buff lasts for a set period of time (dependant on the item consumed), lowering the overall rate of Fatigue loss and reducing the amount of Fatigue used while sprinting. _Fatigue Reduced_ does not affect the rate of Fatigue loss when [Rope Climbing](./Rope%20Climbing.md).
 
-| Item | Initial Fatigue Reduction | Fatigue Loss Rate | Duration | Duration w/ Feat[^1] |
+| Item | Initial Fatigue Reduction | Fatigue Loss Rate | Duration | Duration w/ Feat (1) |
 | --- | --- | --- | --- | --- |
 | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | 10% | 50% | 60 minutes | 75 minutes |
 | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 5% | 75% | 30 minutes | 37.50 minutes |

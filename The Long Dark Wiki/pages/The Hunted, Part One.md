@@ -26,9 +26,8 @@
 > “**The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.**”
 >
 > — Main Menu description
-
-> **The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.**
 >
+> **The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.**
 >
 > — Opening description
 

@@ -26,11 +26,11 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Fiel
 
 **Field Dressing Your Kill, Vol. I** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode, and starts the [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission. Completing the associated task rewards the blueprints for the [Rabbitskin Hat](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md).
 
-#### Episode 1:
+## Episode 1:
 
 During the course of the story, the survivor can find the book _Field Dressing Your Kill, Vol. I_ on a [work bench](./Work%20Bench.md) in the outside shed by [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) in [Milton](./Milton.md) and are tasked to place a [snare](./Snare.md) and catch at least one [rabbit](./Rabbit.md).
 
-#### Episode 2:
+### Episode 2:
 
 If not collected in Episode 1, the book _Field Dressing Your Kill, Vol. I_ can instead be found on a shelf on the first floor of the [Hunting Lodge](./Hunting%20Lodge.md) in the [Broken Railroad](./Broken%20Railroad.md) region. If the survivor has already achieved the goals of placing a [snare](./Snare.md) and catching a [rabbit](./Rabbit.md), the mission may auto-complete at this time.
 

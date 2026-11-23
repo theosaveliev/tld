@@ -23,8 +23,8 @@ A Cougar is a fierce and dangerous foe to hunt, but killing one will produce a C
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) | 4 | Always[^1] |
-| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always[^2] |
+| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) | 4 | Always (1) |
+| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always (2) |
 | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 

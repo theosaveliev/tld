@@ -9,7 +9,6 @@
 - [Clue 2](#clue-2)
 - [Clue 3](#clue-3)
 - [Combination](#combination)
-- [12-07-18](#12-07-18)
 - [Notes](#notes)
 - [Transcript](#transcript)
 

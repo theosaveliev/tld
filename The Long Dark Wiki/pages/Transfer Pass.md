@@ -35,7 +35,7 @@
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 > “__For intermediate players. A crossroads dug out of the looming mountains, Transfer Pass is quiet since the trains stopped. But it remains a critical junction for anyone wishing to access the Far Territory.  
-   
+
  Connects to Broken Railroad, Forsaken Airfield, Zone of Contamination, and Sundered Pass.__”
 >
 > — In-game description

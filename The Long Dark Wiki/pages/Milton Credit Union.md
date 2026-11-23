@@ -20,9 +20,10 @@
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-> “__Dear Members,  
+> “**Dear Members,  
  Due to global economic realities that are well known to you, we are unfortunately unable to remain in operation. All banking services are hereby suspended until further notice.  
-- Management (September, 2012)__”
+
+- Management (September, 2012)**”
 >
 > — - Milton Credit Union Letter
 

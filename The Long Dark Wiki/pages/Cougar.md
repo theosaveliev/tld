@@ -116,8 +116,8 @@ Killing a Cougar will produce a [Cougar Carcass](./Cougar%20Carcass.md) which ca
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)* | 4-5 kg | Always[^1] |
-| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always[^2] |
+| [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)* | 4-5 kg | Always (1) |
+| [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always (2) |
 | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) | [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
@@ -276,7 +276,7 @@ After the difficulty-appropriate grace period and the short cutscene, Cougars ma
 
 Cougars can spawn in the following locations:
 
-#### [Ash Canyon](./Ash%20Canyon.md)
+### [Ash Canyon](./Ash%20Canyon.md)
 
 - In the forest between [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) and rope climb to [Gold Mine](./Gold%20Mine.md) (Threat Level 1)
 - In the forest between [Angler's Den](./Angler%27s%20Den.md), [Foreman's Retreat](./Foreman%27s%20Retreat.md) and [Broad Falls](./Broad%20Falls.md) (Threat Level 2)

@@ -21,8 +21,8 @@
 | Difficulty | 6 |
 | Date Added | 10 December 2019 |
 
-> “__The world has changed. But there's a chance for one last journey before the cold sets in. Walk the path, visit the graves, and make things right before the end.  
- Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.__”
+> “**The world has changed. But there's a chance for one last journey before the cold sets in. Walk the path, visit the graves, and make things right before the end.  
+ Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.**”
 >
 > — Main Menu description
 

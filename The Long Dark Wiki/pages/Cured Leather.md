@@ -37,7 +37,7 @@ Cured Leather is a resource for repairing leather footwear, gloves, and accessor
 
 Cured Leather is harvested from and used to repair:
 
-#### Footwear
+### Footwear
 
 - [Running Shoes](./Running%20Shoes.md)
 - [Leather Shoes](./Leather%20Shoes.md)

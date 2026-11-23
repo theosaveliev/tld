@@ -33,7 +33,6 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [Official Art](#official-art)
-- [References](#references)
 
 ![Tales from the far territory title](../assets/Tales_from_the_far_territory_title.jpg)
 

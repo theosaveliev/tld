@@ -30,7 +30,7 @@ _The following text is transcribed from **Medicinal Plants of Great Bear**_
 
 ANNOUNCEMENT:  
  This came up the last time that Mainland doctor dropped in to see us, and now we're ready to kick it off. To add to our shrinking pharmacy here in town, we'll be keeping an inventory of local plants that might supplement some of our traditional meds. So if you're out in the woods, or even just around town, things to keep an eye out for are the following:  
-   
+
  (\*)Reishi Mushrooms, to brew into an antibiotic tea.  
  (\*)Old Man's Beard lichen, for its natural antiseptic properties. You can bind cuts, scrapes, and wounds with a dressing made from the stuff.  
  (\*)Rose hips, which we can process into an anti-inflammatory, pain-killing tea.

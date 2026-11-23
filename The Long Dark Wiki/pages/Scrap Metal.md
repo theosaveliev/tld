@@ -32,7 +32,7 @@
 
 Scrap Metal is a common and useful resource for crafting and [repair](./Repair.md). Pieces of Scrap Metal can be found across [Great Bear Island](./Great%20Bear%20Island.md), inside containers, and by [Beachcombing](./Beachcombing.md), but is primarily acquired by harvesting metal furniture with a [Hacksaw](./Hacksaw.md) (metal shelves, chairs, toasters, light fixtures, etc.).
 
-#### Uses for Scrap Metal
+### Uses for Scrap Metal
 
 - Crafting [Hooks](./Hook.md) (for [Ice Fishing](./Ice%20Fishing.md) and [Mending](./Mending.md)).
 - [Forging](./Forge.md): [Improvised Hatchet](./Improvised%20Hatchet.md), [Improvised Knife](./Improvised%20Knife.md), [Arrowheads](./Arrowhead.md)

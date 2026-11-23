@@ -26,9 +26,9 @@
 > “**Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.**”
 >
 > — Main Menu description
-
-> “__Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.  
- Take the rifle and go face the Old Bear.__”
+>
+> “**Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.  
+ Take the rifle and go face the Old Bear.**”
 >
 > — Opening description
 

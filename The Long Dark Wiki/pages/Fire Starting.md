@@ -63,7 +63,7 @@ Players can select any starter currently carried in their inventory. They are se
 | [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) | [Cardboard Matches](./Cardboard%20Matches.md) | +0% chance | 0.005 kg; _(0.011 lb)_ | Consumed in attempt |
 | [Firestriker icon](../assets/Firestriker_icon.png) | [Firestriker](./Firestriker.md) | +15% chance | 0.10 kg; _(0.22 lb)_ | 2% condition loss each attempt |
 | [Flare icon](../assets/Flare_icon.png) | [Flare](./Flare.md) (lit) | +5% chance | 0.25 kg; _(0.55 lb)_ | Attempt may succeed even if item burns out |
-| [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg; _(0.22 lb)_ | Only effective outdoors with sunny weather [^1] |
+| [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg; _(0.22 lb)_ | Only effective outdoors with sunny weather  (1) |
 | [Marine Flare icon](../assets/Marine_Flare_icon.png) | [Marine Flare](./Marine%20Flare.md) (lit) | +5% chance | 0.25 kg; _(0.55 lb)_ | Attempt may succeed even if item burns out Beware of very short lifespan |
 | [Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg; _(0.66 lb)_ | Attempt may succeed even if item burns out |
 | [Wood Matches icon](../assets/Wood_Matches_icon.png) | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg; _(0.018 lb)_ | Consumed in attempt |

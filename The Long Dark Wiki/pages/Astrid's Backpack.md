@@ -22,7 +22,7 @@ This content only appears in [Wintermute](./Wintermute.md).
 > “**A small pack, the kind you grab when you're in a hurry.**”
 >
 > — In-game Description
-
+>
 > “**Astrid's travelling pretty light. Wherever she's going, she must not be planning to stay long.**”
 >
 > — Mackenzie's Description

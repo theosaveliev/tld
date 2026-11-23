@@ -11,8 +11,8 @@
     "unresolved_links": 38,
     "missing_images": 25,
     "categories": 104,
-    "infoboxes": 1853,
-    "unconverted_infoboxes": 3,
+    "infoboxes": 1856,
+    "unconverted_infoboxes": 0,
     "missing_templates": 0
   },
   "pages": [
@@ -4051,8 +4051,8 @@
       "filename": "Cup of Coffee.md",
       "status": "ok",
       "categories": 2,
-      "infoboxes": 2,
-      "infoboxes_unconverted": 2,
+      "infoboxes": 4,
+      "infoboxes_unconverted": 0,
       "missing_templates": [],
       "error": ""
     },
@@ -10821,8 +10821,8 @@
       "filename": "Mystery Lake (region).md",
       "status": "ok",
       "categories": 1,
-      "infoboxes": 0,
-      "infoboxes_unconverted": 1,
+      "infoboxes": 1,
+      "infoboxes_unconverted": 0,
       "missing_templates": [],
       "error": ""
     },
@@ -18248,7 +18248,6 @@
     "Whaler’s_Hat"
   ],
   "missing_images": [
-    "",
     "20220104180557_1.jpg",
     "20230520075647_1.jpg",
     "305620_20160916194519_1.png",
@@ -18262,6 +18261,7 @@
     "flashlight_long_lasting_icon.png",
     "gut_icon.png",
     "hunting_rifle_icon_(story).png",
+    "icon.png",
     "landslide_bleak_inlet.jpg",
     "medical_clinic.jpg",
     "mountaineer_cabin.png",

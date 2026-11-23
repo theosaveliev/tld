@@ -36,7 +36,7 @@ The Foothills are a small, barren region just downstream from the [Power Plant](
 
 ## Locations
 
-#### **Ruined Cabin**
+### **Ruined Cabin**
 
 A burnt out cabin, situated on a small, reinforced overlook near a frozen pond. A prybar can be found near the front door, with a Cooking Pot and Firelogs behind it.
 

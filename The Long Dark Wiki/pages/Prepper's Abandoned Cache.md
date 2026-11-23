@@ -28,7 +28,6 @@
 _Not to be confused with **[Prepper Cache](./Prepper%20Cache.md)**._
 > **There's one more bunker you can check. One of old man Joplin's in Pleasant Valley. On the way to Timberwolf. He wasn't in their crew, but Wyatt set up his prepper caches.**
 >
->
 > — Sutherland the [Trader](./Trader.md)
 
 **Prepper's Abandoned Cache**is a location in [Pleasant Valley](./Pleasant%20Valley.md).

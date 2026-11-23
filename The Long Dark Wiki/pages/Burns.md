@@ -32,7 +32,7 @@ Until Treated or Recovery Time passes
 
 Treatment
 
-1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
+1 x ![Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x
 
 Alternate Treatment
 

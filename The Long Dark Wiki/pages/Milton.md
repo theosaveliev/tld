@@ -10,7 +10,6 @@
 - [Milton Outskirts](#milton-outskirts)
 - [Current and Former Residents](#current-and-former-residents)
 - [Gallery](#gallery)
-- [References](#references)
 
 **Milton**
 
@@ -42,15 +41,15 @@ _For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Tow
 
 Milton was founded in 1911 to support the initially booming coal industry in the surrounding mountains. The town was originally built along a supply route from the coast to the interior of [Great Bear Island](./Great%20Bear%20Island.md), with the road replaced by a paved highway in 1960. The location of the town, halfway between Port Mary and the mountains in the interior of Great Bear, made it a convenient stopping-off point for fuel and supplies for workers in the mining, logging, and milling industries, as well as campers from Mainland [Canada](./The%20Collapse.md).[^1]
 
-The town's economy boomed in the 1980s, with the population reaching around 1000 people, but the construction of the [Great Bear Highway](./Great%20Bear%20Highway.md) (Highway 15) meant fewer people travelling through Milton, and ultimately led to the decline of the importance of Milton. In the 2000s the population was little more than 100 or so.[^2]
+The town's economy boomed in the 1980s, with the population reaching around 1000 people, but the construction of the [Great Bear Highway](./Great%20Bear%20Highway.md) (Highway 15) meant fewer people travelling through Milton, and ultimately led to the decline of the importance of Milton. In the 2000s the population was little more than 100 or so.
 
-Following [The Collapse](./The%20Collapse.md), even fewer travelers or industrial workers visited Great Bear, and eventually the population fell to only a dozen or so - stalwarts and old-timers, with deep roots in Milton. Soon, Milton became a ghost town.[^3]
+Following [The Collapse](./The%20Collapse.md), even fewer travelers or industrial workers visited Great Bear, and eventually the population fell to only a dozen or so - stalwarts and old-timers, with deep roots in Milton. Soon, Milton became a ghost town.
 
 ## Notable Locations
 
 In addition to several houses within the town, the Mountain Town region contains multiple named locations.
 
-#### Town of Milton
+### Town of Milton
 
 - [Bank Manager's House](./Bank%20Manager%27s%20House.md)
 - [Milton House](./Milton%20House.md)
@@ -83,10 +82,10 @@ In addition to several houses within the town, the Mountain Town region contains
 - M. Antonides[^5]
 - The Millers[^6]
 - Margaret[^7]
-- Jack[^8]
+- Jack
 - Alice[^9][^10]
-- John[^11]
-- Molly (dog)[^12]
+- John
+- Molly (dog)
 - N.[^13]
 - Henry McDermott[^14]
 
@@ -109,16 +108,11 @@ In addition to several houses within the town, the Mountain Town region contains
 ---
 
 [^1]: [Story mode](./Wintermute.md) journal entry: What I know: Places: _Town of Milton_
-[^2]: 
-[^3]: 
 [^4]: _Pastor's Note_ collectible
 [^5]: _Park Warning Notice_ collectible
 [^6]: [Grey Mother](./Grey%20Mother.md) _Cache location_ side-mission
 [^7]: _Milton Post Office Collectible_
-[^8]: 
 [^9]: _Lost in the Storm_ collectible
 [^10]: _Neighbour's Note_ collectible
-[^11]: 
-[^12]: 
 [^13]: _Tearful Letter_ collectible
 [^14]: Owned a [Distress Pistol](./Distress%20Pistol.md) as part of the cut [Light Up The Night](./Light%20Up%20The%20Night.md) side mission and in the Orca Gas Station Buffer Memory

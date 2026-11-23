@@ -38,7 +38,7 @@ Coffee and all types of tea restore 30% (0.2L) of the thirst bar, and, weighing 
 
 Liquid from the thirst bar drains constantly, although at a lower rate when sleeping.
 
-#### Interloper difficulty
+### Interloper difficulty
 
 Sleeping will completely drain thirst in 10 hours. This means that although it is possible to sleep 12 hours, it will result in some condition loss due to dehydration.
 

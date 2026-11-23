@@ -46,7 +46,7 @@ Scrub brushes are used for harvesting [Sticks](./Stick.md). Two harvestable type
 
 The following information should generally help with identifying and distinguishing between the useful and the useless:
 
-#### Scrub Brush
+### Scrub Brush
 
 - Dark bark
 - Snow-covered tips

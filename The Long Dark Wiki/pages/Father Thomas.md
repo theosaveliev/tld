@@ -33,12 +33,12 @@
 | Voiced by | Alec Willows |
 
 > “__Affable and quick to laugh, even in crisis Father Thomas is lifted by his faith rather than weighed down by it. While erudite when he needs to be, he treasures the immediate, pragmatic spiritual needs of life on remote Great Bear Island -- births, baptisms, and funerals, mostly.  
-   
+
  Just how and why Father Thomas came to find himself in Pleasant Valley remains a mystery. But it’s clear his devotion to the tiny parish in Thomson’s Crossing has helped bind the community together.__”
 >
 > — In-game description
-
-> “__Yes, you're a doctor so you understand the fragility of human life. The fragility of the human spirit is more my domain. __”
+>
+> “**Yes, you're a doctor so you understand the fragility of human life. The fragility of the human spirit is more my domain.**”
 >
 > — Father Thomas to Astrid
 

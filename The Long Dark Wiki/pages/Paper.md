@@ -26,7 +26,7 @@
 _The following text is transcribed from **Paper**_
 
 Mission status unclear. Pilot activity appears routine and as predicted in my Initial briefing.  
-   
+
  Business here at the field hardly registers as cover for any activity grander than mail delivery or solidarity in this godforsaken place.
 
 ## Update history

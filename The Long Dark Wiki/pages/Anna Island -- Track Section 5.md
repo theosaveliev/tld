@@ -9,7 +9,6 @@
 - [Wildlife management](#wildlife-management)
 - [Survivability](#survivability)
 - [Gallery](#gallery)
-- [Maps](#maps)
 - [Locations](#locations-1)
 
 ![Seal icon](../assets/Seal_icon.png)

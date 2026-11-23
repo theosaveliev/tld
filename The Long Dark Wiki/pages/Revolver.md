@@ -30,7 +30,6 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [Photos](#photos)
-- [Videos](#videos)
 - [Update history](#update-history)
 
 **Revolver**

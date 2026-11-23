@@ -14,7 +14,7 @@
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs) |
 
-> “__A can of Spray Paint. Can be used to leave signs and markers in the environment. __”
+> “**A can of Spray Paint. Can be used to leave signs and markers in the environment.**”
 >
 > — In-game description
 

@@ -26,7 +26,7 @@
 _The following text is transcribed from **Blackrock Memo**_
 
 Find me at the mine. East and up the hill, looking up at the mountain. I got a lead on this door.  
-   
+
  -- M (Who is M?)
 
 ## Update history

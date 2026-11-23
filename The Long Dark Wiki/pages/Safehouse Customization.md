@@ -41,12 +41,6 @@
 - [Far Range Branch Line (0)](#far-range-branch-line-0)
 - [Cauldron Island](#cauldron-island)
 - [Port Remnant (5)](#port-remnant-5)
-- [Anna Island -- Track Section 1 (1)](#anna-island----track-section-1-1)
-- [Anna Island -- Track Section 2 (1)](#anna-island----track-section-2-1)
-- [Anna Island -- Track Section 3 (1)](#anna-island----track-section-3-1)
-- [Anna Island -- Track Section 4 (1)](#anna-island----track-section-4-1)
-- [Anna Island -- Track Section 5 (0)](#anna-island----track-section-5-0)
-- [Anna Island -- Track Section 6 (0)](#anna-island----track-section-6-0)
 - [Places that do not support customization](#places-that-do-not-support-customization)
 - [Gallery](#gallery)
 

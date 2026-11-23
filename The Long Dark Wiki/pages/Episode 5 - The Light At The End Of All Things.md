@@ -4,7 +4,6 @@
 
 **Contents**
 
-- [Overview](#overview)
 - [Missions](#missions)
 - [Part One: Perseverance](#part-one-perseverance)
 - [Perseverance](#perseverance)
@@ -21,7 +20,6 @@
 - [Cast](#cast)
 - [Major Characters](#major-characters)
 - [Minor Characters](#minor-characters)
-- [Affliction Availability](#affliction-availability)
 - [Achievements](#achievements)
 - [Gallery](#gallery)
 - [Trivia](#trivia)

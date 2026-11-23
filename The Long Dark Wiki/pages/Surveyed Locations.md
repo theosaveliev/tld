@@ -8,25 +8,10 @@
 - [Unmarked Locations](#unmarked-locations)
 - [Faithful Cartographer](#faithful-cartographer)
 - [Current List of Surveyed Locations](#current-list-of-surveyed-locations)
-- [Ash Canyon - 20 Locations](#ash-canyon---20-locations)
-- [Bleak Inlet - 17 Locations](#bleak-inlet---17-locations)
-- [Broken Railroad - 8 Locations](#broken-railroad---8-locations)
-- [Coastal Highway - 18 Locations](#coastal-highway---18-locations)
-- [Crumbling Highway - 5 Locations](#crumbling-highway---5-locations)
-- [Desolation Point - 11 Locations](#desolation-point---11-locations)
-- [Forlorn Muskeg - 14 Locations](#forlorn-muskeg---14-locations)
-- [Hushed River Valley - 24 Locations](#hushed-river-valley---24-locations)
-- [Mountain Town - 23 Locations](#mountain-town---23-locations)
-- [Mystery Lake - 22 Locations](#mystery-lake---22-locations)
-- [Pleasant Valley - 26 Locations](#pleasant-valley---26-locations)
-- [The Ravine - 5 Locations](#the-ravine---5-locations)
-- [Timberwolf Mountain - 20 Locations](#timberwolf-mountain---20-locations)
-- [Winding River - 2 Locations](#winding-river---2-locations)
 
 ![An example of all the named locations and major icons in Coastal Highway.](../assets/MAP-ingame-CH-v162-Eng.jpg)_An example of all the named locations and major icons in Coastal Highway._
-> __Surveyed locations in Survival Mode according to Regions discovered.
-> Locations required for the Faithful Cartographer Achievement.__
->
+> **Surveyed locations in Survival Mode according to Regions discovered.
+> Locations required for the Faithful Cartographer Achievement.**
 >
 > — In-game description
 

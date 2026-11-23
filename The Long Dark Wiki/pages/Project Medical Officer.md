@@ -42,17 +42,17 @@ After the incident with Team 3 in the [Langston Mine](./Langston%20Mine.md) afte
 
 Several medical and psychological tests were performed on the men, with the doctor concluding that the dementia like mental deterioration of the patients was not viral/pathogenic in nature, but instead physiological. Many exercises were given to the Doctor's patients, including forcing the patient to make a habit of frequently writing down their thoughts, with many of these writings involving memories related to water or the sea. These writing practices helped manage and slow many of the patient's metal deterioration, though they only acted as a way to gradually halt the onset of the patient's dementia. This can be shown in the case of the handwriting of [The Foreman's](./The%20Foreman.md) Technical Logs becoming increasingly worse with each note the player finds:
 
--  - [clear, deliberate handwriting...]
--  - [lazy handwriting, with some passages scratched out...]
--  - [paper fragment with shaky handwriting...]
--  - [barely legible handwriting...]
+- - [clear, deliberate handwriting...]
+- - [lazy handwriting, with some passages scratched out...]
+- - [paper fragment with shaky handwriting...]
+- - [barely legible handwriting...]
 
 It is unknown what became of the Medical Officer after his experiments were concluded. Aside from a note from the Security Chief Officer mentioning that he was affected by The Machine, no information on whether he successful evacuated the Island being present.
 
 ## Signal Void
 
-> “__Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.  
- I've changed, somehow. The men, the medical officer, all of us. But not him. Not Rüdiger.__”
+> “**Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.  
+ I've changed, somehow. The men, the medical officer, all of us. But not him. Not Rüdiger.**”
 >
 > — [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 
@@ -60,8 +60,8 @@ The Project Medical Officer is the Deuteragonist of the Tale [Signal Void](./Sig
 
 ## Buried Echoes
 
-> “__Their latest big idea is to bring some kind of doctor in. Just to talk, they said.  
- None of the guys on my team believe a word of it.__”
+> “**Their latest big idea is to bring some kind of doctor in. Just to talk, they said.  
+ None of the guys on my team believe a word of it.**”
 >
 > — [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
 
@@ -70,7 +70,7 @@ A single note written by [The Foreman](./The%20Foreman.md) ([Foreman's Site Repo
 ## Last Horizon
 
 > “__It's getting colder, and I'm starting to lose it.  
-   
+
  I've kept doing what the doctor said. The writing, the breathing, the mental games...we'll see.__”
 >
 > — [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)

@@ -31,13 +31,12 @@
 _For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%29.md)._
 
 > “__The man in solitary, the son of Mathis. The reason places like Blackrock exist.  
-   
+
  Even post-Collapse, Donner lives apart from anything resembling the regular order of society. And Mathis will stop at nothing in order to unleash his malevolent, unredeemable nature on the world. Starting with Great Bear Island.__”
 >
 > — [What I Know](./What%20I%20Know.md) description
-
-> **If Mathis is bad, Donner is...Biblical bad.**
 >
+> **If Mathis is bad, Donner is...Biblical bad.**
 >
 > — [Franklin](./Franklin.md)
 

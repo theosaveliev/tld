@@ -47,7 +47,7 @@ _For Archive 2 changelog with versions 1.50 to 1.99, see [The\_Long\_Dark/Change
 
 _For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
-### 1.49
+## 1.49
 
 Released 8 May 2019
 

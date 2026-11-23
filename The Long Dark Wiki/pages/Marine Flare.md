@@ -54,7 +54,7 @@ Marine Flares are effective at frightening wolves, deer and rabbits, and have li
 - Marine Flares are more effective at deterring and scaring wolves than torches (and as effective as Flares).
 - Bears are deterred by flares, stopping mid-charge just outside a 15 meter radius around the player, however they will continue to chase them until they reach safety (such as enter a vehicle, walk off a ledge, etc) or the flare runs out and the bear attacks. Throwing the flare at a charging bear has no effect. Standing still for too long will provoke the bear to charge, ignoring the flare completely.
 
-#### Frightening Wolves
+### Frightening Wolves
 
 Below is an effective tactic for scaring wolves (not timberwolves) with lit torches or flares (either variety). This tactic will always work at frightening wolf (unlike thrown torches) and is easier to perform, especially against multiple wolves.
 

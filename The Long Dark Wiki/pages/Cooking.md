@@ -49,7 +49,7 @@ Players need a Fire before they can start cooking, and certain pieces of equipme
 
 | Image | Equipment | Benefit |
 | --- | --- | --- |
-| [Missing image: Fire\_icon.png]; _Fire\_icon.png_ | [Fire](./Fire.md#Types_of_fires) | - Used to cook any [canned food](#canned) and meat.; - The Can, Cooking Pot and Cooking Skillet can be used on it to prepare dishes.; - Includes player-made campfires and contained fires made in existing fireboxes. |
+| Missing image: Fire\_icon.png; _Fire\_icon.png_ | [Fire](./Fire.md#Types_of_fires) | - Used to cook any [canned food](#canned) and meat.; - The Can, Cooking Pot and Cooking Skillet can be used on it to prepare dishes.; - Includes player-made campfires and contained fires made in existing fireboxes. |
 | [Anywhere icon](../assets/Anywhere_icon.png) | No Tool | - Used exclusively to cook [Bannock](./Bannock.md) and [Acorn Bannock](./Acorn%20Bannock.md) without a [Cooking Skillet](./Cooking%20Skillet.md); - Alternative method of heating food/drink in inventory on an active Cooking Slot |
 | [Recycled Can icon](../assets/Recycled_Can_icon.png) | [Recycled Can](./Recycled%20Can.md) | - Used to cook canned foods.; - Can melt and boil up to 0.5 liters of [water](./Water%20%28Unsafe%29.md) at a time.; - Used to craft or heat up any drink in the game.; - Used to boil [Prepared Acorns](./Prepared%20Acorns.md). |
 | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) | [Cooking Pot](./Cooking%20Pot.md) | - Used to cook Cooking Pot Recipes.; - Used to cook canned foods.; - Used to cook any meat or fish in the game.; - Can melt and boil up to 2.0 litres of water at a time.; - Cooking times reduced by 20%.; - Food takes 50% longer to burn. |
@@ -79,7 +79,7 @@ Players need a Fire before they can start cooking, and certain pieces of equipme
 
 Players can obtain raw meat from [Harvesting](./Harvesting.md) animal carcasses. See the Energy density column below to maximize use of your calorie meter.
 
-| Image | Name | Cooking time (min/kg)[^1] | Energy density (kcal/kg) | Notes |
+| Image | Name | Cooking time (min/kg) (1) | Energy density (kcal/kg) | Notes |
 | --- | --- | --- | --- | --- |
 | [Rabbit (Cooked) icon](../assets/Rabbit_%28Cooked%29_icon.png) | [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) | 38 | 450 kcal / kg; _(205 kcal / lb)_ | Obtained by cooking raw rabbit meat [harvested](./Harvesting.md) from a [Rabbit Carcass](./Rabbit%20Carcass.md) |
 | [Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png) | [Venison (Cooked)](./Venison%20%28Cooked%29.md) | 57 | 800 kcal / kg; _(364 kcal / lb)_ | Obtained by cooking raw venison harvested from a [Deer](./Deer.md) carcass |
@@ -93,7 +93,7 @@ Players can obtain raw meat from [Harvesting](./Harvesting.md) animal carcasses.
 
 Players can obtain raw fish from sufficiently deep bodies of Salt or Fresh water by [Ice Fishing](./Ice%20Fishing.md). Cooking fish also produces a small amount of [Lantern Fuel](./Lantern%20Fuel.md). See the Energy density column below to maximize use of your calorie meter.
 
-| Image | Name | Cooking time (min/kg) [^2] | Energy density | Notes |
+| Image | Name | Cooking time (min/kg)  (2) | Energy density | Notes |
 | --- | --- | --- | --- | --- |
 | [Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png) | [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md) | 21 | 383.33 kcal / kg; _(174 kcal / lb)_ | Obtained by cooking raw [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md) fished from a freshwater location. |
 | [Rainbow Trout (Cooked) icon](../assets/Rainbow_Trout_%28Cooked%29_icon.png) | [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md) | 19 | 383.33 kcal / kg; _(174 kcal / lb)_ | Obtained by cooking raw [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md) fished from a saltwater location. |

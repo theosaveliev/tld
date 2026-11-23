@@ -63,7 +63,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Location
 
-#### Blackrock Mountain
+### Blackrock Mountain
 
 - Inside the [Power Plant](./Power%20Plant.md) on the lower deck overlooking the water
 

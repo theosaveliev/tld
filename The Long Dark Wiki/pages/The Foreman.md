@@ -9,8 +9,6 @@
 - [Buried Echoes](#buried-echoes)
 - [Last Horizon](#last-horizon)
 - [Belongings](#belongings)
-- [Clothing](#clothing)
-- [Collectibles](#collectibles)
 - [Trivia](#trivia)
 
 **The Foreman**
@@ -34,8 +32,8 @@
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-> “__Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.  
- I’ve gotta put a stop to this.__”
+> “**Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.  
+ I’ve gotta put a stop to this.**”
 >
 > — The Foreman
 

@@ -29,6 +29,7 @@ _The following text is transcribed from **Handwritten Prescription**_
 Patient: Jacob D.
 
 Recommendation for sleep-walking:  
+
 - take 1 antidepressant pill before bed.  
 - lock all doors and windows in the house before going to bed, give Martha the keys.  
 - ask Martha to wake you up before the time the episode usually happens.  

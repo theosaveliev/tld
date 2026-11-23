@@ -5,8 +5,6 @@
 **Contents**
 
 - [Overview](#overview)
-- [Signal Void](#signal-void)
-- [Buried Echoes](#buried-echoes)
 - [Last Horizon](#last-horizon)
 - [Belongings](#belongings)
 - [Clothing](#clothing)
@@ -36,8 +34,8 @@
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-> “__He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.  
- He can keep it.__”
+> “**He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.  
+ He can keep it.**”
 >
 > — [The Security Chief](./The%20Security%20Chief.md)
 

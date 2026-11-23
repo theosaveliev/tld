@@ -7,11 +7,9 @@
 - [Overview](#overview)
 - [Locations](#locations-1)
 - [Wildlife management](#wildlife-management)
-- [Survivability](#survivability)
 - [Safe houses](#safe-houses)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
-- [Maps](#maps)
 - [Locations](#locations-1)
 - [Miscellaneous](#miscellaneous)
 

@@ -24,7 +24,7 @@
 ## Overview
 
 > “__You are chilled to the core.  
-   
+
  Your Feels Like temperature is permanently reduced, and it takes you longer to warm up.__”
 >
 > — In-game Description

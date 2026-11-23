@@ -15,7 +15,6 @@
 - [New Hazards](#new-hazards)
 - [Permalife](#permalife)
 - [Early Access](#early-access)
-- [Gameplay](#gameplay)
 - [Videos](#videos)
 - [Gallery](#gallery)
 - [Concept](#concept)

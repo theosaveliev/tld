@@ -32,9 +32,8 @@ Headaches have no long-term effects on the player, only serving as a simple visu
 > “**You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.**”
 >
 > — Go! Energy Drink description
-
-> **Head-ache from taking Caffeine Pills.**
 >
+> **Head-ache from taking Caffeine Pills.**
 >
 > — Caffeine Pills description
 

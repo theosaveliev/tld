@@ -1674,6 +1674,7 @@ def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
     assert error == ""
     assert expansion_errors == 0
     assert deferred == {}
+    assert expanded.startswith("\n{|")
     assert "{|\n|+ XSENT:infobox:Sample\n|-\n! Label\n| Value\n|}" in expanded
 
 

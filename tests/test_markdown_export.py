@@ -1687,6 +1687,7 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
         "<header>General</header>"
         '<data source="region"><label>Region</label></data>'
         '<data source="type"><label>Type</label></data>'
+        '<data source="description" />'
         "</infobox>"
     )
 
@@ -1697,6 +1698,7 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
             "image": "File:Sample.png",
             "region": "[[Forlorn Muskeg]]",
             "type": "Outdoors",
+            "description": "A quiet camp",
         },
         "Sample",
     )
@@ -1709,6 +1711,7 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
     assert "<td>[[Forlorn Muskeg]]</td>" in rendered
     assert "<th>Type</th>" in rendered
     assert "<td>Outdoors</td>" in rendered
+    assert '<td colspan="2">A quiet camp</td>' in rendered
     assert "{|" not in rendered
     assert "|}" not in rendered
     assert "|+" not in rendered

@@ -1324,7 +1324,7 @@ def _rewrite_image_nodes(
         label = image.get("alt") or ""
         caption = label[len("XTHUMB") :].strip() if label.startswith("XTHUMB") else ""
         placeholder = cast("lhtml.HtmlElement", etree.Element("span"))
-        placeholder.text = f"[Missing image: {source_name}]"
+        placeholder.text = f"Missing image: {source_name}"
         parent = image.getparent()
         if parent is not None:
             placeholder.tail = (" " + caption if caption else "") + (image.tail or "")

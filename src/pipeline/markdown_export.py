@@ -1682,6 +1682,9 @@ def _strip_empty_markdown_sections(value: str) -> str:
 ATX_HEADING_LINE_RE = re.compile(
     r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
 )
+MARKDOWN_LIST_ITEM_RE = re.compile(
+    r"^(?P<indent>[ 	]*)(?P<marker>[-+*]|[0-9]+[.)])[ 	]+(?P<content>.*)$"
+)
 CONTENTS_HEADING_RE = re.compile(
     r"^\s*(?:\*\*Contents\*\*|#{1,6}\s+Contents)\s*$", re.IGNORECASE
 )
@@ -1760,8 +1763,8 @@ def _normalize_markdown_heading_levels(value: str) -> str:
         level = len(heading.group("marks"))
         if previous_level and level > previous_level + 1:
             level = previous_level + 1
-            line = "#" * level + " " + heading.group("label").strip()
         previous_level = level
+        line = "#" * level + " " + heading.group("label").strip()
         output.append(line)
     return "\n".join(output)
 
@@ -2056,6 +2059,19 @@ def _normalize_markdown_blank_lines(value: str) -> str:
         trailing_spaces = len(line) - len(line.rstrip(" "))
         if trailing_spaces not in {0, 2}:
             line = line.rstrip(" \t")
+
+        list_item = MARKDOWN_LIST_ITEM_RE.match(line)
+        if list_item is not None:
+            line = (
+                list_item.group("indent")
+                + list_item.group("marker")
+                + " "
+                + list_item.group("content")
+            )
+            if output and output[-1].strip():
+                previous_is_list = MARKDOWN_LIST_ITEM_RE.match(output[-1]) is not None
+                if not previous_is_list:
+                    output.append("")
 
         if not line.strip() and output and output[-1].lstrip().startswith(">"):
             following = next(

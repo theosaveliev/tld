@@ -1,6 +1,6 @@
 # Stone Church
 
-**Categories:** Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stone_Church)
+**Categories:** Locations, Locations in Desolation Point, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stone_Church)
 
 **Stone Church**
 
@@ -8,11 +8,15 @@
 
 ![Interior](../assets/Stone_Church_interior.jpg)
 
+|
+
 **Location**
 
 ![Stone Church Location](../assets/Stone_Church_Location.png)
 
 Region
+
+[Desolation Point](./Desolation%20Point.md)
 
 Location
 
@@ -22,7 +26,13 @@ On a hill across from the [Lonely Lighthouse](./Lonely%20Lighthouse.md)
 
 Type
 
+Outdoors
+
 Firebox
+
+[Fire Barrel](./Fire%20Barrel.md)
+
+Provides some shelter
 
 **Stone Church** is a dilapidated chapel found in [Desolation Point](./Desolation%20Point.md).
 

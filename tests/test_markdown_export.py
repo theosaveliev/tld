@@ -1737,18 +1737,14 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
     assert "A quiet camp" in full_width_values
 
     region_rows = cast(
-        "list[_HtmlTestElement]",
-        table.xpath(".//tr[th[normalize-space(.)='Region']]"),
+        "list[_HtmlTestElement]", table.xpath(".//tr[th[normalize-space(.)='Region']]")
     )
     assert len(region_rows) == 1
-    region_value = cast(
-        "str", region_rows[0].xpath("normalize-space(string(./td))")
-    )
+    region_value = cast("str", region_rows[0].xpath("normalize-space(string(./td))"))
     assert region_value == "[[Forlorn Muskeg]]"
 
     type_rows = cast(
-        "list[_HtmlTestElement]",
-        table.xpath(".//tr[th[normalize-space(.)='Type']]"),
+        "list[_HtmlTestElement]", table.xpath(".//tr[th[normalize-space(.)='Type']]")
     )
     assert len(type_rows) == 1
     type_value = cast("str", type_rows[0].xpath("normalize-space(string(./td))"))

@@ -1,6 +1,6 @@
 # Echoes Of Astrid
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
 
 **Contents**
 
@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg) |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Previous | [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
 | Current | Echoes Of Astrid |

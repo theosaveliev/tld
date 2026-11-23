@@ -18,7 +18,8 @@
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Handbook with information on wilderness survival. Researching this will improve your Skill. |
 | **Values** |  |

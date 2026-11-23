@@ -1,6 +1,6 @@
 # Many Falls Vista
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Many_Falls_Vista)
+**Categories:** Landmarks, Locations, Locations in Hushed River Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Many_Falls_Vista)
 
 **Many Falls Vista**
 
@@ -8,11 +8,12 @@
 | --- | --- |
 |  | [ManyFallsVistaView](../assets/ManyFallsVistaView.png) |
 | **Location** |  |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Somewhat south of [Pensive Vista](./Pensive%20Vista.md). |
 | Description | A lookoff over the eastern Hushed River Valley. |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 **Many Falls Vista** is a location within the [Hushed River Valley](./Hushed%20River%20Valley.md).
 

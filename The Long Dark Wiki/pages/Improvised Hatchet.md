@@ -15,7 +15,7 @@
 | --- | --- |
 |  | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |

@@ -9,7 +9,8 @@
 |  | [Bank Manager's House Key icon](../assets/Bank_Manager%27s_House_Key_icon.png) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Bank Managers House Key. Will unlock one of the Houses in Milton. |
 | **Values** |  |

@@ -1,6 +1,6 @@
 # Boss's Settlement
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Boss's_Settlement)
+**Categories:** Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Boss's_Settlement)
 
 **Boss's Settlement**
 
@@ -9,9 +9,11 @@
 |  | [Boss's Settlement](../assets/Boss%27s_Settlement.jpg) |
 | **Location** |  |
 |  | [Boss's Settlement Location](../assets/Boss%27s_Settlement_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | **General** |  |
-|  | Has no shelter / **Boss's Encampment** is a ruined series of buildings high in the mountains near [Idle Camp](./Idle%20Camp.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). |
+|  | Has no shelter |
+
+**Boss's Encampment** is a ruined series of buildings high in the mountains near [Idle Camp](./Idle%20Camp.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
 ## Overview
 

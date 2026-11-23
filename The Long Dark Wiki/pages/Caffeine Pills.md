@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Pure Caffeine. The tablets help resist the accumulation and onset of Fatique. |
 | **Values** |  |

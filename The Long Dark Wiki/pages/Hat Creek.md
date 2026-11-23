@@ -1,6 +1,6 @@
 # Hat Creek
 
-**Categories:** Article stubs, Articles in need of images, Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hat_Creek)
+**Categories:** Article stubs, Articles in need of images, Landmarks, Locations, Locations in Forlorn Muskeg, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hat_Creek)
 
 **Hat Creek**
 
@@ -9,9 +9,10 @@
 |  | [20170304105847 1](../assets/20170304105847_1.jpg) |
 | **Location** |  |
 |  | [Hat Creek Location](../assets/Hat_Creek_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Hat+Creek&action=edit expanding it].**
 

@@ -1,12 +1,14 @@
 # Curtain
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Curtain)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Curtain)
 
 **Curtain**
 
 ![Window](../assets/Curtain.jpg)
 
 ![Bed](../assets/CurtainBed.jpg)
+
+|
 
 **General**
 
@@ -15,6 +17,8 @@ Item Type
 Item
 
 Wintermute
+
+Yes
 
 **Curtains** are interactable items that are found inside homes, cabins, or industrial buildings and can be harvested for [Cloth](./Cloth.md) either by hand or with a [Hunting Knife](./Hunting%20Knife.md).
 

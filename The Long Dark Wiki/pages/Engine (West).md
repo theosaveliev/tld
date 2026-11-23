@@ -1,6 +1,6 @@
 # Engine \(West\)
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Engine_%28West%29)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Engine_%28West%29)
 
 **Engine (West)**
 
@@ -9,10 +9,11 @@
 |  | [Engine](../assets/Engine.jpg) |
 | **Location** |  |
 |  | [Engine (West) Location](../assets/Engine_%28West%29_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Description | An engine from the crashed aircraft |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Engine (West)** is the name given to the western Plane Engine found below [Timberwolf Mountain](./Timberwolf%20Mountain.md). A second [Engine can be found to the East](./Engine%20%28East%29.md).
 

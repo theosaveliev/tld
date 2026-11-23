@@ -1,6 +1,6 @@
 # Improvised Insulation
 
-**Categories:** Craftable clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
+**Categories:** Clothing, Craftable clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
 
 **Improvised Insulation**
 
@@ -8,8 +8,8 @@
 | --- | --- |
 |  | [Improvised Insulation icon](../assets/Improvised_Insulation_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Clothing |
+| Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2 °C(3.6 °F) |
@@ -44,7 +44,7 @@
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Cloth](./Cloth.md)
 

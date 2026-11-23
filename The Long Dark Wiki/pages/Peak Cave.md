@@ -1,6 +1,6 @@
 # Peak Cave
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Peak_Cave)
+**Categories:** Caves, Locations, Locations in Hushed River Valley, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Peak_Cave)
 
 **Peak Cave**
 
@@ -9,9 +9,10 @@
 |  | [Peak Cave](../assets/Peak_Cave.jpg) |
 | **Location** |  |
 |  | [Peak Cave Location](../assets/Peak_Cave_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Peak Cave** is a location at the top of a cliff near [Monolith Lake](./Monolith%20Lake.md) in [Hushed River Valley](./Hushed%20River%20Valley.md). As its name suggests, getting to this cave requires a long climb up a steep hill on the eastern side of [Monolith Lake](./Monolith%20Lake.md).
 

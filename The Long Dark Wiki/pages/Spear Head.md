@@ -10,7 +10,8 @@
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | The business end of a Bear Spear. Rough-hammered, but effective. Crafted from Scrap Metal. |
 | **Values** |  |

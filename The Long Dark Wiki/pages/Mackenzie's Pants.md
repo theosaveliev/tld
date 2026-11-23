@@ -1,6 +1,6 @@
 # Mackenzie's Pants
 
-**Categories:** Pages with update history, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Pants)
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Pants)
 
 **Contents**
 
@@ -16,13 +16,21 @@
 
 ![Before Crash](../assets/Mackenzie%27s_Pants_Before_Crash_icon.png)
 
+|
+
 **General**
 
 Item Type
 
+Clothing
+
 Wintermute
 
+Yes
+
 Clothing Slot
+
+Outer legs
 
 **Statistics**
 

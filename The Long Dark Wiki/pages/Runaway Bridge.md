@@ -1,6 +1,6 @@
 # Runaway Bridge
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Runaway_Bridge)
+**Categories:** Locations, Locations in Ash Canyon, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Runaway_Bridge)
 
 **Runaway Bridge**
 
@@ -9,10 +9,12 @@
 |  | [Runaway Bridge](../assets/Runaway_Bridge.jpg) |
 | **Location** |  |
 |  | [Runaway Bridge Location](../assets/Runaway_Bridge_Location.png) |
-| Region |  |
+| Region | [Ash Canyon](./Ash%20Canyon.md) |
 | **General** |  |
-| Type |  |
-|  | Has no shelter **Runaway Bridge** is a fixed bridge in [Ash Canyon](./Ash%20Canyon.md), an anomaly compared to the various swinging bridges in the region. |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Runaway Bridge** is a fixed bridge in [Ash Canyon](./Ash%20Canyon.md), an anomaly compared to the various swinging bridges in the region.
 
 ## Overview
 

@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | Dry oats. A kitchen staple. |
 | **Values** |  |
 | Weight | 0.80 kg (1.76 lbs) |
 | **Decay Rate** |  |

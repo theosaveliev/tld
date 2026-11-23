@@ -1,6 +1,6 @@
 # Engine \(East\)
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Engine_%28East%29)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Engine_%28East%29)
 
 **Engine (East)**
 
@@ -9,11 +9,12 @@
 |  | [Engine Timberwolf Mountain location](../assets/Engine_-_Timberwolf_Mountain_location.jpg) |
 | **Location** |  |
 |  | [Engine (East) Location](../assets/Engine_%28East%29_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | [Tail Section](./Tail%20Section.md) and [Chasm Cave](./Chasm%20Cave.md) |
 | Description | An engine from the crashed aircraft with several [Cargo Containers](./Cargo%20Container.md) nearby |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Engine (East)** is a Plane Engine found between [Chasm Cave](./Chasm%20Cave.md) and [Cave (Timberwolf Mountain location 2)](./Cave%20%28Timberwolf%20Mountain%20location%202%29.md) that crashed below [Timberwolf Mountain](./Timberwolf%20Mountain.md). A second [Engine can be found to the West](./Engine%20%28West%29.md).
 

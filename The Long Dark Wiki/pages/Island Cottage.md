@@ -1,6 +1,6 @@
 # Island Cottage
 
-**Categories:** Locations, Locations in Forsaken Airfield, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Island_Cottage)
+**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Locations with a workbench, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Island_Cottage)
 
 **Island Cottage**
 
@@ -9,13 +9,14 @@
 |  | [Island Cottage](../assets/Island_Cottage.png) |
 | **Location** |  |
 |  | [Island Cottage Location](../assets/Island_Cottage_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Towards the north-east corner of the region, on [Drift Island](./Drift%20Island.md). |
 | Description | A cabin overlooking [Shoulder Lake](./Shoulder%20Lake.md). |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | Firebox |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 **Island Cottage** is located west side on [Drift Island](./Drift%20Island.md), which is located in the northern part of of [Shoulder Lake](./Shoulder%20Lake.md). The location is a moderate walk north and slightly east of the [Main Hangar](./Main%20Hangar.md) of the airfield.
 

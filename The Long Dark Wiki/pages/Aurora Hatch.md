@@ -1,6 +1,6 @@
 # Aurora Hatch
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aurora_Hatch)
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aurora_Hatch)
 
 **Contents**
 
@@ -18,7 +18,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Aurora Hatch.](../assets/Aurora_hatch.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
 | Current | Aurora Hatch |

@@ -1,6 +1,6 @@
 # Cave \(Desolation Point location\)
 
-**Categories:** Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Desolation_Point_location%29)
+**Categories:** Caves, Indoor locations, Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Desolation_Point_location%29)
 
 **Cave**
 
@@ -9,9 +9,10 @@
 |  | [Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg) |
 | **Location** |  |
 |  | [Cave (Desolation Point location) Location](../assets/Cave_%28Desolation_Point_location%29_Location.png) |
-| Region |  |
+| Region | [Desolation Point](./Desolation%20Point.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Has an interior |
 
 The large **cave** in the north of [Desolation Point](./Desolation%20Point.md) is the only cave with an interior in the region.
 

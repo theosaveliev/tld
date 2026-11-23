@@ -1,6 +1,6 @@
 # Hatchet
 
-**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hatchet)
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hatchet)
 
 **Contents**
 
@@ -18,8 +18,8 @@
 | --- | --- |
 |  | [Hatchet icon](../assets/Hatchet_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |

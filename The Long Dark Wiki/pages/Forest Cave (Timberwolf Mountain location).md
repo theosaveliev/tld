@@ -1,6 +1,6 @@
 # Forest Cave \(Timberwolf Mountain location\)
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Cave_%28Timberwolf_Mountain_location%29)
+**Categories:** Caves, Locations, Locations in Timberwolf Mountain, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Cave_%28Timberwolf_Mountain_location%29)
 
 **Forest Cave**
 
@@ -9,10 +9,11 @@
 |  | [Forest Cave entrance (Timberwolf Mountain location)](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg) |
 | **Location** |  |
 |  | [Forest Cave (Timberwolf Mountain location) Location](../assets/Forest_Cave_%28Timberwolf_Mountain_location%29_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Near [Wing](./Wing.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 ''See also: [Forest Cave in Pleasant Valley](./Forest%20Cave%20%28Pleasant%20Valley%20location%29.md)
 

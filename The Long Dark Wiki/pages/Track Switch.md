@@ -1,6 +1,6 @@
 # Track Switch
 
-**Categories:** DLC Content, Interactable Objects, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Track_Switch)
+**Categories:** DLC Content, Interactable Objects, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Track_Switch)
 
 **Track Switch**
 
@@ -9,7 +9,7 @@
 |  | [Track Switch Resized](../assets/Track_Switch_Resized.png) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 ![2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

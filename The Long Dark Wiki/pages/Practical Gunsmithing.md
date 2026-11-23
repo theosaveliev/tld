@@ -25,7 +25,8 @@
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A do-it-yourself guide to gunsmithing techniques, intended for hunters but loved by the security-minded. Researching this will improve your Gunsmithing Skill. |
 | **Values** |  |

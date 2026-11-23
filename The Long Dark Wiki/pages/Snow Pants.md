@@ -1,6 +1,6 @@
 # Snow Pants
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Snow_Pants)
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Snow_Pants)
 
 **Snow Pants**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Snow Pants icon](../assets/Snow_Pants_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| Clothing Slot |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
+| Clothing Slot | Outer legs |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |

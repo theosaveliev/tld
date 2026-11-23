@@ -1,6 +1,6 @@
 # Paradise Meadows Farm
 
-**Categories:** Locations, Locations in Mountain Town, Locations with a workbench, Safe Houses · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Locations with a workbench, Residential locations, Safe Houses · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm)
 
 **Contents**
 
@@ -27,11 +27,15 @@
 
 ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
 
+|
+
 **Location**
 
 ![Paradise Meadows Farm Location](../assets/Paradise_Meadows_Farm_Location.png)
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -45,7 +49,11 @@ A farmhouse and several outbuildings
 
 Type
 
+Residential
+
 Firebox
+
+[Stove](./Stove.md)
 
 ![Bed icon](../assets/Bed_icon.png)
 
@@ -53,7 +61,9 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench|-
+Has a workbench
+
+Has an interior
 
 **Wintermute**
 

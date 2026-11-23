@@ -1,6 +1,6 @@
 # Switch Box
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Switch_Box)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Switch_Box)
 
 **Switch Box**
 
@@ -9,7 +9,7 @@
 |  | [SwitchBox](../assets/SwitchBox.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Harvest | 30 minutes 2 x [Scrap Metal](./Scrap%20Metal.md) |
 

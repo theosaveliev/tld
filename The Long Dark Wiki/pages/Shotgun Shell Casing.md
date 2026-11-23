@@ -15,7 +15,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 |  | [Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Empty casing from firing a Shotgun Slug. Used for Crafting new Ammunition |
 | **Values** |  |

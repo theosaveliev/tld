@@ -1,26 +1,19 @@
 # Mule Bridge
 
-**Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mule_Bridge)
+**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mule_Bridge)
 
 **Mule Bridge**
 
-![MuleBridge](../assets/MuleBridge.jpg)
-
-**Location**
-
-![Mule Bridge Location](../assets/Mule_Bridge_Location.png)
-
-Region
-
-Description
-
-A bridge
-
-**General**
-
-Type
-
-Has no shelter
+| Property | Details |
+| --- | --- |
+|  | [MuleBridge](../assets/MuleBridge.jpg) |
+| **Location** |  |
+|  | [Mule Bridge Location](../assets/Mule_Bridge_Location.png) |
+| Region |  |
+| Description | A bridge |
+| **General** |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 > “**Mules were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.**”
 >

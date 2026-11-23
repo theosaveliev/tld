@@ -1,6 +1,6 @@
 # Coast Mountain Road
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coast_Mountain_Road)
+**Categories:** Locations, Locations in Bleak Inlet, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coast_Mountain_Road)
 
 **Coast Mountain Road**
 
@@ -9,11 +9,13 @@
 |  | [SS BI CoastMountainRoad01](../assets/SS-BI-CoastMountainRoad01.jpg) |
 | **Location** |  |
 |  | [Coast Mountain Road Location](../assets/Coast_Mountain_Road_Location.png) |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | a broken highway local road |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Coast Mountain Road** is an ruined road avalanche in [Bleak Inlet](./Bleak%20Inlet.md), located near the center of the map. |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Coast Mountain Road** is an ruined road avalanche in [Bleak Inlet](./Bleak%20Inlet.md), located near the center of the map.
 
 ## Overview
 

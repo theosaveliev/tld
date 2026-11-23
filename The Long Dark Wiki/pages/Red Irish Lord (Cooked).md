@@ -12,7 +12,8 @@ _For the raw version, see [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%2
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Cooked Red Irish Lord. An improved appearance, it must be said. |
 | **Values** |  |

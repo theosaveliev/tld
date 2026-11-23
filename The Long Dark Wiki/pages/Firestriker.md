@@ -1,6 +1,6 @@
 # Firestriker
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Firestriker)
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Firestriker)
 
 **Contents**
 
@@ -20,10 +20,10 @@
 | --- | --- |
 |  | [Firestriker icon](../assets/Firestriker_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Fire Starting |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| Firestarting Slot |  |
+| Firestarting Slot | Starter |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+15% |

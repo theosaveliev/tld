@@ -18,7 +18,8 @@
 |  | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A superior quality hunting knife. A gift from Jeremiah |
 | **Values** |  |

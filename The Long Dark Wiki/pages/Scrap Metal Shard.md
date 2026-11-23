@@ -1,6 +1,6 @@
 # Scrap Metal Shard
 
-**Categories:** Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scrap_Metal_Shard)
+**Categories:** Story items, Tools, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scrap_Metal_Shard)
 
 **Contents**
 
@@ -24,8 +24,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 | --- | --- |
 |  | [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
 | Harvest | Cannot Harvest |

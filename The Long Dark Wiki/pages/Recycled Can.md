@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A basic container for melting snow, boiling water, and cooking food. |
 | **Values** |  |

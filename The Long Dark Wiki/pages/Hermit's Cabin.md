@@ -1,6 +1,6 @@
 # Hermit's Cabin
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hermit's_Cabin)
+**Categories:** Locations, Locations in Mountain Town, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hermit's_Cabin)
 
 **Contents**
 
@@ -16,10 +16,11 @@
 |  | [Hermits cabin](../assets/Hermits_cabin.jpg) |
 | **Location** |  |
 |  | [Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | The west bank of the basin |
 | **General** |  |
-| Firebox |  |
+| Firebox | [Wood Stove](./Wood%20Stove.md) |
+|  | Provides some shelter |
 
 **Hermit's Cabin** is a dilapidated structure in [Mountain Town](./Mountain%20Town.md).
 

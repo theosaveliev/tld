@@ -1,6 +1,6 @@
 # The Arch \(Old Island Connector location\)
 
-**Categories:** Locations, Locations in Crumbling Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Arch_%28Old_Island_Connector_location%29)
+**Categories:** Landmarks, Locations, Locations in Crumbling Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Arch_%28Old_Island_Connector_location%29)
 
 **The Arch**
 
@@ -9,11 +9,15 @@
 |  | [Arch2](../assets/Arch2.jpg) |
 | **Location** |  |
 |  | [The Arch (Old Island Connector location) Location](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png) |
-| Region |  |
+| Region | [Old Island Connector](./Crumbling%20Highway.md) |
 | Description | A rock formation |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / _See also: [The Arch (Milton)](./The%20Arch%20%28Mountain%20Town%20location%29.md)._ / **The Arch** is a location in [Crumbling Highway](./Crumbling%20Highway.md). |
+| Type | Landmark |
+|  | Has no shelter |
+
+_See also: [The Arch (Milton)](./The%20Arch%20%28Mountain%20Town%20location%29.md)._
+
+**The Arch** is a location in [Crumbling Highway](./Crumbling%20Highway.md).
 
 ## Overview
 

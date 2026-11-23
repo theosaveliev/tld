@@ -1,6 +1,6 @@
 # Katie's Secluded Corner
 
-**Categories:** Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Katie's_Secluded_Corner)
+**Categories:** Locations, Locations in Desolation Point, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Katie's_Secluded_Corner)
 
 **Katie's Secluded Corner**
 
@@ -9,10 +9,11 @@
 |  | [Katie's secluded corner](../assets/Katie%27s_secluded_corner.jpg) |
 | **Location** |  |
 |  | [Katie's Secluded Corner Location](../assets/Katie%27s_Secluded_Corner_Location.png) |
-| Region |  |
+| Region | [Desolation Point](./Desolation%20Point.md) |
 | Location | Between [Blocked Highway](./Blocked%20Highway.md) and the ice |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Katie's Secluded Corner** is a location in [Desolation Point](./Desolation%20Point.md).
 

@@ -1,6 +1,6 @@
 # Conveyor Room
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Conveyor_Room)
+**Categories:** Indoor locations, Locations, Locations in Zone of Contamination · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Conveyor_Room)
 
 **Conveyor Room**
 
@@ -9,10 +9,11 @@
 |  | [Conveyor Room](../assets/Conveyor_Room.png) |
 | **Location** |  |
 |  | [Conveyor Room Location](../assets/Conveyor_Room_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Location | Langston mine |
 | **General** |  |
 | Type |  |
+|  | Has an interior |
 
 The **Conveyor Room** is a side building sandwiched between the [Concentrator](./Concentrator.md) and the [Headframe Building](./Headframe%20Building.md). Its role is to bring ore to the surface and deliver it to the Concentrator via 3 conveyor belts connected between all 3 structures.
 

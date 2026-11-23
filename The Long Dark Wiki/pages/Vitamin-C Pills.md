@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only, by trading [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) or [Birch Bark](./Birch%20Bark.md)) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Vitamin-C supplement. Delays the onset of Scurvy. |
 | **Values** |  |

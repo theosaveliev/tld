@@ -1,6 +1,6 @@
 # Stony Passage
 
-**Categories:** Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stony_Passage)
+**Categories:** Caves, Locations, Locations in Forsaken Airfield, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stony_Passage)
 
 **Stony Passage**
 
@@ -9,10 +9,11 @@
 |  | [Stony](../assets/Stony.png) |
 | **Location** |  |
 |  | [Stoney Passage Location](../assets/Stoney_Passage_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | South-west part of the region |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Stony Passage** is an unmarked location in [Forsaken Airfield](./Forsaken%20Airfield.md). It is a small passage behind a waterfall, in the south-west part of the region.
 

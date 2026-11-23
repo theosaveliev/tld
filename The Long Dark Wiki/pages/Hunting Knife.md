@@ -1,6 +1,6 @@
 # Hunting Knife
 
-**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Knife)
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Knife)
 
 **Contents**
 
@@ -15,8 +15,8 @@
 | --- | --- |
 |  | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |

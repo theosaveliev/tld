@@ -9,7 +9,8 @@
 |  | [Memento Mori 1 icon](../assets/Memento_Mori_1_icon.png) |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | I found the water. Like I promised. Where the rivers meet the sea. A bitter and empty place. You were right. |
 | **Values** |  |

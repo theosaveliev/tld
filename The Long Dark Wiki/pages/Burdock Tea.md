@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Stackable | No |
 | Examine | A tea brewed from prepared Burdock Root. A natural antibiotic. |
 | **Values** |  |
 | Calories | 100 kcal |

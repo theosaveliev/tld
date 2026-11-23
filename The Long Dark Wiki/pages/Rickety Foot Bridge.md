@@ -1,6 +1,6 @@
 # Rickety Foot Bridge
 
-**Categories:** Locations, Locations in Broken Railroad · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rickety_Foot_Bridge)
+**Categories:** Landmarks, Locations, Locations in Broken Railroad, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rickety_Foot_Bridge)
 
 **Rickety Foot Bridge**
 
@@ -9,9 +9,10 @@
 |  | [Broken railroad hidden bridge](../assets/Broken_railroad_hidden_bridge.jpg) |
 | **Location** |  |
 |  | [Rickety Foot Bridge Location](../assets/Rickety_Foot_Bridge_Location.png) |
-| Region |  |
+| Region | [Broken Railroad](./Broken%20Railroad.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 The **Rickety Foot Bridge** is a location in [Broken Railroad](./Broken%20Railroad.md).
 

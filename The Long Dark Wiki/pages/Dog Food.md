@@ -15,6 +15,8 @@
 
 ![Opened](../assets/Dog_Food_%28Opened%29_icon.png)
 
+|
+
 Release
 
 [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
@@ -31,9 +33,11 @@ Yes (rare [Beachcombing](./Beachcombing.md))
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)|-
+[Food And Drink](./Food%20And%20Drink.md)
 
 Equipable
+
+No
 
 Stackable
 

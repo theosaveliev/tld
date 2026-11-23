@@ -1,6 +1,6 @@
 # Revolver Shell Casing
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
 
 **Contents**
 
@@ -15,7 +15,7 @@
 | --- | --- |
 |  | [Revolver Shell Casing icon](../assets/Revolver_Shell_Casing_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |

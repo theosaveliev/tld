@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Small stick, will burn, but not for long. |
 | **Values** |  |

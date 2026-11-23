@@ -1,6 +1,6 @@
 # Miner's Jacket
 
-**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
+**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
 
 **Miner's Jacket**
 
@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Miner's Jacket icon](../assets/Miner%27s_Jacket_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute |  |
 | Clothing Slot |  |
 | **Statistics** |  |

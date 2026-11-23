@@ -1,6 +1,6 @@
 # Ski Gloves
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Gloves)
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Gloves)
 
 **Ski Gloves**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Ski Gloves icon](../assets/Ski_Gloves_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Hands |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

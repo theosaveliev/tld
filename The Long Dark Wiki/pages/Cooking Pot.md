@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A sturdy pot for melting snow, boiling water, and cooking food. |
 | **Values** |  |

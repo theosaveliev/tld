@@ -20,7 +20,8 @@
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | A weathered .303 Rifle covered in epoxy and duct tape. Its patchwork exterior hides an improved firing action. A handy tool when working the various industrial sites and power stations that dot Great Bear Island. / Fragile and deadly, just like its owner. |
 | **Values** |  |

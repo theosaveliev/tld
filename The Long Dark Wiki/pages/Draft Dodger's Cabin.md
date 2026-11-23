@@ -1,6 +1,6 @@
 # Draft Dodger's Cabin
 
-**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Draft_Dodger's_Cabin)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Draft_Dodger's_Cabin)
 
 **Draft Dodger's Cabin**
 
@@ -9,11 +9,12 @@
 |  | [Draft Dodger's Cabin](../assets/Draft_Dodger%27s_Cabin.jpg) |
 | **Location** |  |
 |  | [Draft Dodger's Cabin Location](../assets/Draft_Dodger%27s_Cabin_Location.png) |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Draft Dodger's Cabin** is a lonely cabin in [Pleasant Valley](./Pleasant%20Valley.md).
 

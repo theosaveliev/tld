@@ -10,7 +10,8 @@
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Examine | A very basic lure, might help you attract a few more fish. |
 | **Values** |  |
 | Weight | 0.01 kg (0.02 lbs) |
 | **Actions** |  |

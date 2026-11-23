@@ -1,6 +1,6 @@
 # Convenience Store
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convenience_Store)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convenience_Store)
 
 **Contents**
 
@@ -15,11 +15,15 @@
 
 ![Back](../assets/SS-MT-Orca-01.jpg)
 
+|
+
 **Location**
 
 ![Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png)
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -33,11 +37,17 @@ An abandoned gas station
 
 Type
 
+Store
+
 Firebox
+
+[Fire Barrel](./Fire%20Barrel.md)
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 **Wintermute**
 

@@ -19,7 +19,8 @@
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) the crafting ingredients or ammuition that can be harvested, [Trader](./Trader.md) for ammunition that can be harvested) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Examine | Explosive powder. A valuable ingredient when Crafting Ammunition. Also handy as a fire accelerant. |
 | **Values** |  |
 | Weight | 0.50 kg (1.1 lbs) |
 

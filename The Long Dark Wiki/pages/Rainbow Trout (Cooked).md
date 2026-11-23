@@ -17,7 +17,8 @@
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A bit scorched but wonderful tasting. |
 | **Values** |  |
 | Calories | 575 kcal |
 | Hydration | -5% |

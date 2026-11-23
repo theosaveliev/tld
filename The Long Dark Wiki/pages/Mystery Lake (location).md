@@ -1,6 +1,6 @@
 # Mystery Lake \(location\)
 
-**Categories:** Lakes, Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%28location%29)
+**Categories:** Lakes, Locations, Locations in Mystery Lake, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%28location%29)
 
 **Mystery Lake (location)**
 
@@ -9,10 +9,11 @@
 |  | [The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png) |
 | **Location** |  |
 |  | [Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png) |
-| Region |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Sublocations | [Fishing huts](./Fishing%20Hut.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 _For the region, see [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)._
 

@@ -1,6 +1,6 @@
 # Rabbitskin Hat
 
-**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbitskin_Hat)
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbitskin_Hat)
 
 **Contents**
 
@@ -16,9 +16,9 @@
 | --- | --- |
 |  | [Rabbitskin Hat icon](../assets/Rabbitskin_Hat_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| Clothing Slot |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
+| Clothing Slot | Head |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.35 kg(0.77 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

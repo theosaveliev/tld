@@ -20,7 +20,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Sharp metal tip for an Arrow, improvised from scrap. |
 | **Values** |  |

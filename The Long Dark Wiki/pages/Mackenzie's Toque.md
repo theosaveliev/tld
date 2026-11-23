@@ -1,6 +1,6 @@
 # Mackenzie's Toque
 
-**Categories:** Pages with update history, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Toque)
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Toque)
 
 **Contents**
 
@@ -16,9 +16,9 @@
 | --- | --- |
 |  | [Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| Clothing Slot |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
+| Clothing Slot | Head |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

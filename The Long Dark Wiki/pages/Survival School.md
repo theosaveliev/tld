@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | Current | Survival School |

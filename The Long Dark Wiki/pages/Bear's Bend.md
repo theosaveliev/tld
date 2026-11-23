@@ -1,6 +1,6 @@
 # Bear's Bend
 
-**Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear's_Bend)
+**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear's_Bend)
 
 **Bear's Bend**
 
@@ -12,8 +12,12 @@
 | Region |  |
 | Location | On the road between [Power Plant](./Power%20Plant.md) and [Narrow Bridge](./Narrow%20Bridge.md) |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Bear's Bend** is the name of one of the curves on the road leading to the [Power Plant](./Power%20Plant.md) from [Narrow Bridge](./Narrow%20Bridge.md). A [Bear](./Bear.md) likes to hang out in the area. / This location can only be reached coming from the north. |
+| Type | Landmark |
+|  | Has no shelter |
+
+**Bear's Bend** is the name of one of the curves on the road leading to the [Power Plant](./Power%20Plant.md) from [Narrow Bridge](./Narrow%20Bridge.md). A [Bear](./Bear.md) likes to hang out in the area.
+
+This location can only be reached coming from the north.
 
 ## Landslide and ledge path
 

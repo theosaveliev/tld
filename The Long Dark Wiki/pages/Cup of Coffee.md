@@ -22,7 +22,8 @@ _For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Cof
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A cup of coffee. |
 | **Values** |  |

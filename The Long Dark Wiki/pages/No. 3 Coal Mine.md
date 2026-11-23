@@ -1,14 +1,18 @@
 # No\. 3 Coal Mine
 
-**Categories:** Locations, Locations in Crumbling Highway, Locations in Desolation Point, Locations with a workbench, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine)
+**Categories:** Caves, Indoor locations, Locations, Locations in Coastal Highway, Locations in Crumbling Highway, Locations in Desolation Point, Locations with a workbench, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine)
 
 **No. 3 Coal Mine**
 
 ![Abandoned Mine No.3 (West) interior](../assets/Abandoned_Mine_No.3_%28West%29_interior.jpg)
 
+|
+
 **Location**
 
 Region
+
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -18,9 +22,13 @@ Connects [Desolation Point](./Desolation%20Point.md) and [Old Island Connector](
 
 Type
 
+Cave
+
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench|-
+Has a workbench
+
+Has an interior
 
 **No. 3 Coal Mine** is a large mine that connects [Desolation Point](./Desolation%20Point.md) and [Crumbling Highway](./Crumbling%20Highway.md).
 

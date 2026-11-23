@@ -1,6 +1,6 @@
 # Old Substation
 
-**Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Substation)
+**Categories:** Blackrock, Indoor locations, Industrial locations, Locations, Locations in Blackrock, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Substation)
 
 **Contents**
 
@@ -19,10 +19,11 @@
 | Region |  |
 | Location | Close to Narrow Bridge in the southwest of the region |
 | **General** |  |
-| Type |  |
-| Firebox |  |
+| Type | Industrial |
+| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 The **Old Substation** is an installation on the [Blackrock](./Blackrock.md) power grid. It is located approximately half-way along the power transmission line that goes from the [Power Plant](./Power%20Plant.md) to [Blackrock Prison](./Blackrock%20Prison.md).
 

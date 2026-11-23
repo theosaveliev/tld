@@ -1,6 +1,6 @@
 # Pond \(Track Section 4\)
 
-**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pond_%28Track_Section_4%29)
+**Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 4, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pond_%28Track_Section_4%29)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -14,10 +14,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 | --- | --- |
 |  | [Pond (Track Section 4)](../assets/Pond_%28Track_Section_4%29.jpg) |
 | **Location** |  |
-| Region |  |
+| Region | [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) |
 | Location | The middle of the region, closer to the western Railway |
 | **General** |  |
-|  | Has no shelter **Pond** is a location in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md). |
+|  | Has no shelter |
+
+**Pond** is a location in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
 ## Overview
 

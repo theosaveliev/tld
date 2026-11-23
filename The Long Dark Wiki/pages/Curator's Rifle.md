@@ -27,7 +27,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | This .303 extracts a terrible price at distance thanks to its meticulous construction. Missing from the collection of an enigmatic local collector of rare firearms, this weapon is oiled and engraved for purpose. / A legacy at work. |
 | **Values** |  |

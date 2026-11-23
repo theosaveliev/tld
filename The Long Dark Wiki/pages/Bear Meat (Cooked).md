@@ -19,7 +19,8 @@ _For the raw version, see [Bear Meat](./Bear%20Meat%20%28Raw%29.md)._
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Cooked Bear meat. Heavy duty food. |
 | **Values** |  |

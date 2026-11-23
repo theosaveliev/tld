@@ -22,6 +22,8 @@
 
 ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
 
+|
+
 **General**
 
 Item Type

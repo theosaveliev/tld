@@ -1,6 +1,6 @@
 # Landslide \(Hushed River Valley\)
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide_%28Hushed_River_Valley%29)
+**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide_%28Hushed_River_Valley%29)
 
 **Landslide**
 
@@ -9,11 +9,12 @@
 |  | [Landslide HRV](../assets/Landslide_HRV.png) |
 | **Location** |  |
 |  | [Landslide HRV Location](../assets/Landslide_HRV_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Easternmost end of the Hushed River |
 | Description | A landslide across the river. |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **Landslide** is a location in the east part of [Hushed River Valley](./Hushed%20River%20Valley.md).
 

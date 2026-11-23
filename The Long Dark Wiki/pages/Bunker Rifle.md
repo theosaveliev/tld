@@ -26,7 +26,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | A lightweight, agile firearm. Its maneuverable composite stock also makes it less durable. A style in favour among Great Bear Island preppers and other types who like to plan for the worst. |
 | **Values** |  |

@@ -1,6 +1,6 @@
 # Shortwave Tower West
 
-**Categories:** Locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower_West)
+**Categories:** Locations, Locations in Forlorn Muskeg, Military/Sporting locations, Outdoor locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower_West)
 
 **Shortwave Tower West**
 
@@ -9,10 +9,11 @@
 |  | [20190101173144 1](../assets/20190101173144_1.jpg) |
 | **Location** |  |
 |  | [Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | Location | no |
 | **General** |  |
-| Type |  |
+| Type | OutdoorsMilitary/Sporting |
+|  | Has no shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

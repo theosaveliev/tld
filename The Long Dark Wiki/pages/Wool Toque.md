@@ -1,6 +1,6 @@
 # Wool Toque
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Toque)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Toque)
 
 **Contents**
 
@@ -15,10 +15,10 @@
 | --- | --- |
 |  | [Wool Toque icon](../assets/Wool_Toque_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
 | Renewable | Yes |
-| Clothing Slot |  |
+| Clothing Slot | Head |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

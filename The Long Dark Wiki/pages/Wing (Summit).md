@@ -1,6 +1,6 @@
 # Wing \(Summit\)
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wing_%28Summit%29)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wing_%28Summit%29)
 
 **Wing (Summit)**
 
@@ -9,11 +9,12 @@
 |  | [Wing (Summit)](../assets/Wing_%28Summit%29.jpg) |
 | **Location** |  |
 |  | [Wing (Summit) Location](../assets/Wing_%28Summit%29_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | At the [Summit](./Summit.md) behind the [Tail Section](./Tail%20Section.md) |
 | Description | A wing from the crashed aircraft |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Wing (Summit)** is a part of a wrecked plane that crashed on the [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

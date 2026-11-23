@@ -1,6 +1,6 @@
 # Low Blind
 
-**Categories:** Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Low_Blind)
+**Categories:** Locations, Locations in Forlorn Muskeg, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Low_Blind)
 
 **Low Blind**
 
@@ -9,9 +9,10 @@
 |  | [20170304103515 1](../assets/20170304103515_1.jpg) |
 | **Location** |  |
 |  | [Low Blind Location](../assets/Low_Blind_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **Low Blind** is a small hunting blind in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

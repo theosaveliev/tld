@@ -13,9 +13,14 @@
 | Location | Next to [Grand Meadow](./Grand%20Meadow.md), near the [Power Plant](./Power%20Plant.md) |
 | Description | Ruins of a remote cabin with an outdoor workbench |
 | **General** |  |
-| Type |  |
-| Firebox |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| Type | Outdoors |
+| Firebox | [Wood Stove](./Wood%20Stove.md) |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has no shelter |
+
+**Forger's Remnant** is a location in [Blackrock](./Blackrock.md) up the road into the nearby woods near the [Power Plant](./Power%20Plant.md).
+
+The area consists of a burned down, ruined house, a [Work Bench](./Work%20Bench.md), and a stripped [Truck](./Truck.md). Some [Coal](./Coal.md), [Reclaimed Wood](./Reclaimed%20Wood.md), and a few other items can be found, as well as a [Wood Stove](./Wood%20Stove.md) in the ruined building. There is no shelter in this area, and [Timberwolf](./Timberwolf.md) packs tend to patrol the road and woods.
 
 ## Gallery
 

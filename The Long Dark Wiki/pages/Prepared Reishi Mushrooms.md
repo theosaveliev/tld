@@ -20,7 +20,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Reishi mushrooms that are ready to be boiled to make a natural drink with healing properties. |
 | **Values** |  |
@@ -49,7 +50,7 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Reishi Mushroom](./Reishi%20Mushroom.md)
 

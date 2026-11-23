@@ -24,7 +24,8 @@
 |  | [Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png) |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A page torn from a notebook. |
 | **Values** |  |

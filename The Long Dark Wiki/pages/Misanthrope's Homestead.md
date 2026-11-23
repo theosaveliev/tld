@@ -1,6 +1,6 @@
 # Misanthrope's Homestead
 
-**Categories:** Islands, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
+**Categories:** Indoor locations, Islands, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
 
 **Contents**
 
@@ -13,11 +13,15 @@
 
 ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
 
+|
+
 **Location**
 
 ![Misanthrope's Homestead map](../assets/Misanthrope%27s_Homestead_map.png)
 
 Region
+
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -31,9 +35,13 @@ A small island with a house
 
 Type
 
+Residential
+
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 **Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
 

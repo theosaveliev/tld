@@ -25,7 +25,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No (unique item) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | An industrial Flashlight. Equipped with a larger, more-efficient battery. |
 | **Values** |  |

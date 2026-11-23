@@ -1,6 +1,6 @@
 # Expedition Parka
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Expedition_Parka)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Expedition_Parka)
 
 **Contents**
 
@@ -15,10 +15,10 @@
 | --- | --- |
 |  | [Expedition Parka icon](../assets/Expedition_Parka_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute |  |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot |  |
+| Clothing Slot | Outer torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |

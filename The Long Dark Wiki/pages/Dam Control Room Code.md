@@ -10,7 +10,8 @@
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A note containing the Dam's Control Room entry code number |
 | **Values** |  |

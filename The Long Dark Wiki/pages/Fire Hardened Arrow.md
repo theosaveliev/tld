@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | Yes |
 | **Values** |  |
 | Weight | 0.10 kg (0.22 lbs) |

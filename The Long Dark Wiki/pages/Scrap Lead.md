@@ -1,6 +1,6 @@
 # Scrap Lead
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scrap_Lead)
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scrap_Lead)
 
 **Contents**
 
@@ -16,7 +16,7 @@
 | --- | --- |
 |  | [Scrap Lead icon](../assets/Scrap_Lead_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | No |
 | **Statistics** |  |
@@ -42,7 +42,7 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Car Battery](./Car%20Battery.md)
 

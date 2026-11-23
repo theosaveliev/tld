@@ -24,7 +24,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A porridge fortified with fruits and syrup. A pilot's favourite after a long flight. |
 | **Values** |  |
 | Calories | 1000 (1250) kcal |
 | Hydration | 0.0% |

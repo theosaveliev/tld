@@ -1,6 +1,6 @@
 # Reluctant Shortcut
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Reluctant_Shortcut)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Reluctant_Shortcut)
 
 **Reluctant Shortcut**
 
@@ -9,9 +9,10 @@
 |  | [Reluctant shortcut](../assets/Reluctant_shortcut.jpg) |
 | **Location** |  |
 |  | [Reluctant Shortcut Location](../assets/Reluctant_Shortcut_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | An entrance to the Abandoned Mine. |
 | **General** |  |
+|  | Has no shelter |
 
 [Reluctant Shortcut](./Reluctant%20Shortcut.md) is an entrance to the [Abandoned Mine](./Abandoned%20Mine.md) in the [Sundered Pass](./Sundered%20Pass.md) region.
 

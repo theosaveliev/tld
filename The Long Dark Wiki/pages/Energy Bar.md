@@ -18,7 +18,8 @@
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Energy in a bar. Chocolate, nuts, healthy stuff. |
 | **Values** |  |

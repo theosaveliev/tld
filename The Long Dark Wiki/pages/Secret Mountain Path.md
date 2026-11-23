@@ -1,6 +1,6 @@
 # Secret Mountain Path
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Secret_Mountain_Path)
+**Categories:** Locations, Locations in Bleak Inlet, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Secret_Mountain_Path)
 
 **Secret Mountain Path**
 
@@ -9,11 +9,12 @@
 |  | [SS BI secret mountaion path002](../assets/SS-BI-secret_mountaion_path002.jpg) |
 | **Location** |  |
 |  | [Secret Mountain Path Location](../assets/Secret_Mountain_Path_Location.png) |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | Under the cliff on the east side of the radio tower, under the suspension bridge |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has no shelter |
 
 **Secret Mountain Path** is a landmark located in [Bleak Inlet](./Bleak%20Inlet.md). The starting path to the area is close to [Coast Mountain Road](./Coast%20Mountain%20Road.md).
 

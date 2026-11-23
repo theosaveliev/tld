@@ -1,6 +1,6 @@
 # Vacant Depot
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Vacant_Depot)
+**Categories:** Industrial locations, Locations, Locations in Transfer Pass, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Vacant_Depot)
 
 **Vacant Depot**
 
@@ -9,12 +9,13 @@
 |  | [Vacant Depot](../assets/Vacant_Depot.png) |
 | **Location** |  |
 |  | [Vacant Depot Location](../assets/Vacant_Depot_Location.png) |
-| Region |  |
+| Region | [Transfer Pass](./Transfer%20Pass.md) |
 | Location | In the centre of the region along the railway tracks. |
 | Description | An abandoned train station next to a coal tipple and water tower. |
 | **General** |  |
-| Type |  |
+| Type | Industrial |
 | Firebox |  |
+|  | Provides some shelter |
 
 The **Vacant Depot** is a location in [Transfer Pass](./Transfer%20Pass.md), located near the center of the region.
 

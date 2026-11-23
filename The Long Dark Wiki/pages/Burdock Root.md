@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Prepare the root for a crunchy bite or as the base of an antibiotic tea. |
 | **Values** |  |

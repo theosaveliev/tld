@@ -1,6 +1,6 @@
 # Patterned Wool Socks \(Dots\)
 
-**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_%28Dots%29)
+**Categories:** Clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_%28Dots%29)
 
 **Patterned Wool Socks (Dots)**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Patterned Wool Socks (Dots) icon](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Inner feet |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |

@@ -1,6 +1,6 @@
 # Crossroads House
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crossroads_House)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crossroads_House)
 
 **Contents**
 
@@ -15,9 +15,13 @@
 
 ![Shed](../assets/Crossroads_House_Shed.jpg)
 
+|
+
 **Location**
 
 Region
+
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 Location
 
@@ -27,11 +31,17 @@ Location
 
 Type
 
+Residential
+
 Firebox
+
+[Pot Belly Stove](./Pot%20Belly%20Stove.md)
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 A **Crossroads House**is a type of house or shed found throughout the [Thomson's Crossing](./Thomson%27s%20Crossing.md) town in the [Pleasant Valley](./Pleasant%20Valley.md) region. Many of these buildings have the same layout as the [Coastal House](./Coastal%20House.md) and [Milton House](./Milton%20House.md).
 

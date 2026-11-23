@@ -9,7 +9,8 @@
 |  | [Rosary icon](../assets/Rosary_icon.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A string of prayer beads from Father Thomas |
 | **Values** |  |

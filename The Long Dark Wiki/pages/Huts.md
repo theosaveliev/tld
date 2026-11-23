@@ -1,6 +1,6 @@
 # Huts
 
-**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Huts)
+**Categories:** DLC Content, Indoor locations, Locations, Locations in Anna Island -- Track Section 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Huts)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -15,11 +15,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Huts](../assets/Huts.png) |
 | **Location** |  |
 |  | [Huts Location](../assets/Huts_Location.png) |
-| Region |  |
+| Region | [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) |
 | Location | Mid east of the map |
 | Description | A collection of 2 cabins, all boarded up save for 1. |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Huts** is a location in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
 

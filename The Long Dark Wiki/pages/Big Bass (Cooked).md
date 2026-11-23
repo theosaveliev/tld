@@ -15,7 +15,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 |  | [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A big meal from a big fish. |
 | **Values** |  |
 | Calories | 4313 kcal |
 | Hydration | -5% |

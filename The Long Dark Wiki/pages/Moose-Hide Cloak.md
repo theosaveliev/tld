@@ -1,6 +1,6 @@
 # Moose\-Hide Cloak
 
-**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak)
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak)
 
 **Contents**
 
@@ -16,9 +16,9 @@
 | --- | --- |
 |  | [Moose Hide Cloak icon](../assets/Moose-Hide_Cloak_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Outer torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.5 °C(6.3 °F) |

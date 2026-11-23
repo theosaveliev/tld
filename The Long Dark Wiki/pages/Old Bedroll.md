@@ -1,6 +1,6 @@
 # Old Bedroll
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Bedroll)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Bedroll)
 
 **Old Bedroll**
 
@@ -9,7 +9,7 @@
 |  | [OldBedroll](../assets/OldBedroll.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Harvest | 6 x [Cloth](./Cloth.md) |
 

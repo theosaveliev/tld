@@ -1,6 +1,6 @@
 # Jeremiah's Hideout
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
 
 **Contents**
 
@@ -22,7 +22,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Aurora hatch](../assets/Aurora_hatch.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Current | Jeremiah's Hideout |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |

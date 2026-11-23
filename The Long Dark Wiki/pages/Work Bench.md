@@ -1,6 +1,6 @@
 # Work Bench
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Bench)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Bench)
 
 **Contents**
 
@@ -18,6 +18,8 @@
 
 ![Wood](../assets/Workbench_icon_Old.png)
 
+|
+
 **General**
 
 Item Type
@@ -25,6 +27,8 @@ Item Type
 Item
 
 Wintermute
+
+Yes
 
 **Statistics**
 

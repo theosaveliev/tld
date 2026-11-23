@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) or [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | An emergency beacon fired from a Distress Pistol. |
 | **Values** |  |

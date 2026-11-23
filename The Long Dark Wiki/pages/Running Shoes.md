@@ -1,6 +1,6 @@
 # Running Shoes
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Running_Shoes)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Running_Shoes)
 
 **Running Shoes**
 
@@ -8,10 +8,10 @@
 | --- | --- |
 |  | [Running Shoes icon](../assets/Running_Shoes_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot |  |
+| Clothing Slot | Outer feet |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

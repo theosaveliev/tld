@@ -9,7 +9,8 @@
 |  | [A page from an old newsletter. icon](../assets/A_page_from_an_old_newsletter._icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Great Bear Emergency Civilian Corps |
 | **Values** |  |

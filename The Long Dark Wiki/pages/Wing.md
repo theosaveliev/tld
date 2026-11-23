@@ -1,6 +1,6 @@
 # Wing
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wing)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wing)
 
 **Wing**
 
@@ -9,11 +9,12 @@
 |  | [Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg) |
 | **Location** |  |
 |  | [Wing Location](../assets/Wing_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Between [Forest Cave (Timberwolf Mountain location)](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) and [Echo Peak West](./Echo%20Peak%20West.md) |
 | Description | A wing from the crashed aircraft |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Wing** is a part of a wrecked plane that crashed on the summit of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

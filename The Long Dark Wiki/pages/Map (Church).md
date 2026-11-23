@@ -15,7 +15,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Map (Church) icon](../assets/Map_%28Church%29_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A hand-drawn map. |
 | **Values** |  |

@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | yes |
 | Examine | Cedar burns with an aromatic glow, but doesn't burn for long. |
 | **Values** |  |

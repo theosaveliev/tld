@@ -1,6 +1,6 @@
 # Cargomaster's Trailer
 
-**Categories:** Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargomaster's_Trailer)
+**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargomaster's_Trailer)
 
 **Cargomaster's Trailer**
 
@@ -9,11 +9,12 @@
 |  | [Cargomaster's Trailer](../assets/Cargomaster%27s_Trailer.jpg) |
 | **Location** |  |
 |  | [Cargomaster's Trailer Location](../assets/Cargomaster%27s_Trailer_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Just north of the [Control Tower](./Control%20Tower.md) |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Cargomaster's Trailer** is a small trailer just near the "Y" section of the runway of the airfield, north of the [Control Tower](./Control%20Tower.md).
 

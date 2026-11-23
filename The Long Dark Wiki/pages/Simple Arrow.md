@@ -1,6 +1,6 @@
 # Simple Arrow
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Arrow)
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Arrow)
 
 **Contents**
 
@@ -18,7 +18,7 @@
 | --- | --- |
 |  | [Simple Arrow icon](../assets/Simple_Arrow_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |

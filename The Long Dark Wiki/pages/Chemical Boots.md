@@ -1,6 +1,6 @@
 # Chemical Boots
 
-**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chemical_Boots)
+**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chemical_Boots)
 
 **Chemical Boots**
 
@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Chemical Boots icon](../assets/Chemical_Boots_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute |  |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | Clothing Slot |  |

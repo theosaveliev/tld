@@ -1,6 +1,6 @@
 # Cabin
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin)
+**Categories:** Indoor locations, Locations, Locations in Bleak Inlet, Military/Sporting locations, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin)
 
 **Cabin**
 
@@ -9,14 +9,15 @@
 |  | [Screen 76a1ab96 202f 48fe b28f 7d60e07bc4ea hi](../assets/Screen_76a1ab96-202f-48fe-b28f-7d60e07bc4ea_hi.png) |
 | **Location** |  |
 |  | [Cabin Bleak Inlet Location](../assets/Cabin_Bleak_Inlet_Location.png) |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | east of [Pensive Lookout](./Pensive%20Lookout.md) (on the lower part of the region) |
 | Sublocations | Near the [Lower Raven Falls](./Lower%20Raven%20Falls.md) |
 | Description | a weathered cabin hidden in the forest |
 | **General** |  |
-| Type |  |
-| Firebox |  |
+| Type | ResidentialMilitary/Sporting |
+| Firebox | [Rim Grill](./Rim%20Grill.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 `The`**`Cabin`**`is a building in`[`Bleak Inlet`](./Bleak%20Inlet.md)`close to`[`Lower Raven Falls`](./Lower%20Raven%20Falls.md)`. The player can find it by going left after crossing`[`Raven Crossing`](./Raven%20Crossing.md)`(just down the road from long bridge), then hugging the wall of the map until they reach a log bridge. From there, it should be visible. Although it is its own location (with a loading screen), it has a hole in its roof and therefore suffers from slightly lower temperatures.`
 

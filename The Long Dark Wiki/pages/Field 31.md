@@ -1,6 +1,6 @@
 # Field 31
 
-**Categories:** Locations, Locations in Forsaken Airfield, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Field_31)
+**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Field_31)
 
 **Field 31**
 
@@ -8,12 +8,14 @@
 | --- | --- |
 |  | [Field 31 Sign](../assets/Field_31_Sign.jpg) |
 | **Location** |  |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Southeastern corner of the basin area in Forsaken Airfield |
 | Description | A small abandoned airfield in the Far Territory |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 > “**Here at Field 31 we take pride in being a pilot's best resource in the wilderness.**”
 >

@@ -1,6 +1,6 @@
 # Black Bear Carcass
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Black_Bear_Carcass)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Black_Bear_Carcass)
 
 **Black Bear Carcass**
 
@@ -9,7 +9,7 @@
 |  | [Bear Carcass](../assets/Bear_Carcass.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 A **Black Bear Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Bear](./Bear.md). [Crows](./Crow.md) will fly around a Bear Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 

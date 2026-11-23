@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A traditional soup based on savoury Ptarmigan meat and fibrous vegetables. Boosts Condition and Encumbrance at the price of Fatigue. Favoured by climbers attempting to scale the peaks around Sundered Pass. |
 | **Values** |  |

@@ -18,7 +18,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A basic hook suitable for fishing. |
 | **Values** |  |

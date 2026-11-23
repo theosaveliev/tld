@@ -1,6 +1,6 @@
 # Milton Post Office
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Post_Office)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Post_Office)
 
 **Contents**
 
@@ -16,11 +16,12 @@
 |  | [Milton Post Office Front](../assets/Milton_Post_Office_-_Front.jpg) |
 | **Location** |  |
 |  | [Milton Post Office Location](../assets/Milton_Post_Office_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | [Milton](./Milton.md) |
 | Description | A single-room building that was once a post office |
 | **General** |  |
-| Type |  |
+| Type | Residential |
+|  | Has an interior |
 
 The **Milton Post Office** is a location in [Milton](./Milton.md) in [Mountain Town](./Mountain%20Town.md).
 

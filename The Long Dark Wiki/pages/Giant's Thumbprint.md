@@ -1,6 +1,6 @@
 # Giant's Thumbprint
 
-**Categories:** Lakes, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Giant's_Thumbprint)
+**Categories:** Lakes, Landmarks, Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Giant's_Thumbprint)
 
 **Giant's Thumbprint**
 
@@ -9,12 +9,14 @@
 |  | [Giant's Thumbprint](../assets/Giant%27s_Thumbprint.jpg) |
 | **Location** |  |
 |  | [Giant's Thumbprint Location](../assets/Giant%27s_Thumbprint_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | North of [Last Lonely House](./Last%20Lonely%20House.md). |
 | Description | A small pond surrounded by a forest. |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / Giant's Thumbprint is a small pond located in lower valley of [Sundered Pass](./Sundered%20Pass.md), not too far from [Idle Hideout](./Idle%20Hideout.md) and [Juniper Runoff](./Juniper%20Runoff.md). |
+| Type | Landmark |
+|  | Has no shelter |
+
+Giant's Thumbprint is a small pond located in lower valley of [Sundered Pass](./Sundered%20Pass.md), not too far from [Idle Hideout](./Idle%20Hideout.md) and [Juniper Runoff](./Juniper%20Runoff.md).
 
 ## Overview
 

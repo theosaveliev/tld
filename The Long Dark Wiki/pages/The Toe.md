@@ -1,6 +1,6 @@
 # The Toe
 
-**Categories:** Locations, Locations in Keeper's Pass South · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Toe)
+**Categories:** Landmarks, Locations, Locations in Keeper's Pass South, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Toe)
 
 **The Toe**
 
@@ -9,9 +9,10 @@
 |  | [Thetoe](../assets/Thetoe.jpg) |
 | **Location** |  |
 |  | [The Toe Location](../assets/The_Toe_Location.png) |
-| Region |  |
+| Region | [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 **The Toe** is a tall, pillar-shaped rock located in the middle of the frozen river in the [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
 

@@ -1,6 +1,6 @@
 # Train Bridge
 
-**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Bridge)
+**Categories:** Landmarks, Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Bridge)
 
 **Train Bridge**
 
@@ -9,9 +9,10 @@
 |  | [Train Bridge](../assets/Train_Bridge.jpg) |
 | **Location** |  |
 |  | [Train Bridge Location](../assets/Train_Bridge_Location.png) |
-| Region |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 **Train Bridge** is a bridge in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), southeast of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) and north of [Alan's Cave](./Alan%27s%20Cave.md).
 

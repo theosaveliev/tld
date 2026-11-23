@@ -15,7 +15,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 |  | [First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png) |
 | Wintermute | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Contains essential First Aid supplies. |
 | **Values** |  |

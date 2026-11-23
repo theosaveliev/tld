@@ -19,7 +19,8 @@
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | A dressing utilizing Old Man's Beard lichen. Apply to wounds to help prevent infection. |
 | **Values** |  |
@@ -52,7 +53,7 @@ Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wo
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md)
 

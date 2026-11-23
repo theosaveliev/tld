@@ -25,7 +25,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No (Several Ingredients) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A dense pie made from foraged vegetables. Rough around the edges. |
 | **Values** |  |
 | Calories | 1125 kcal |
 | Hydration | -3% |

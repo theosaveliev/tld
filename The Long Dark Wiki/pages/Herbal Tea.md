@@ -20,7 +20,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A package of fragrant tea. The label promises restorative benefits and more peaceful rest. |
 | **Values** |  |

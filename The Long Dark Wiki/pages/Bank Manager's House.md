@@ -1,6 +1,6 @@
 # Bank Manager's House
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
 
 **Bank Manager's House**
 
@@ -8,11 +8,15 @@
 
 ![Interior](../assets/Bank_managers_house_interior.jpg)
 
+|
+
 **Location**
 
 ![Bank Manager's House Location](../assets/Bank_Manager%27s_House_Location.png)
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -26,11 +30,17 @@ A single-story house with a pot belly stove and bed
 
 Type
 
+Residential
+
 Firebox
+
+[Pot Belly Stove](./Pot%20Belly%20Stove.md)
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 **Wintermute**
 

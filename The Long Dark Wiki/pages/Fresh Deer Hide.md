@@ -17,7 +17,8 @@
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested hide from a Deer. / Can be used for crafting and repair after air-drying indoors for 5 days. |
 | **Values** |  |

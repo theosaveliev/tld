@@ -15,6 +15,8 @@
 
 ![Portion](../assets/Prepared_Acorns_icon.png)
 
+|
+
 Release
 
 [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
@@ -31,9 +33,11 @@ No
 
 Item type
 
-[Materials](./Materials.md)|-
+[Materials](./Materials.md)
 
 Equipable
+
+No
 
 Stackable
 
@@ -69,7 +73,7 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Acorns](./Acorns.md)
 

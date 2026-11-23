@@ -1,6 +1,6 @@
 # Abandoned Harris Home
 
-**Categories:** Locations, Locations in Crumbling Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Harris_Home)
+**Categories:** Indoor locations, Locations, Locations in Crumbling Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Harris_Home)
 
 **Abandoned Harris Home**
 
@@ -9,10 +9,11 @@
 |  | [Abandoned Harris Home](../assets/Abandoned_Harris_Home.jpg) |
 | **Location** |  |
 |  | [Abandoned Harris Home Location](../assets/Abandoned_Harris_Home_Location.png) |
-| Region |  |
+| Region | [Old Island Connector](./Crumbling%20Highway.md) |
 | Description | A house with an accessible basement |
 | **General** |  |
-| Type |  |
+| Type | Residential |
+|  | Has an interior |
 
 **Abandoned Harris Home** is a location in [Crumbling Highway](./Crumbling%20Highway.md).
 

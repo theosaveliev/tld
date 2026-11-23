@@ -1,6 +1,6 @@
 # Abandoned Camp
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Camp)
+**Categories:** Locations, Locations in Forlorn Muskeg, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Camp)
 
 **Abandoned Camp**
 
@@ -9,9 +9,10 @@
 |  | [Abandoned camp](../assets/Abandoned_camp.jpg) |
 | **Location** |  |
 |  | [Abandoned Camp Location](../assets/Abandoned_Camp_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **Abandoned Camp** is an unmarked location of a small camp in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

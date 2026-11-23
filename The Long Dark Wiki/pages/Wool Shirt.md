@@ -1,6 +1,6 @@
 # Wool Shirt
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Shirt)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Shirt)
 
 **Wool Shirt**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Wool Shirt icon](../assets/Wool_Shirt_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Inner torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

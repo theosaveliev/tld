@@ -1,6 +1,6 @@
 # Renewed Hope \(Predux\)
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope_%28Predux%29)
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope_%28Predux%29)
 
 **Contents**
 
@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) |
 | Current | Renewed Hope (Predux) |

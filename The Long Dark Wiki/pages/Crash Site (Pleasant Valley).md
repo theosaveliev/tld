@@ -1,34 +1,29 @@
 # Crash Site \(Pleasant Valley\)
 
-**Categories:** Locations, Outdoor locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crash_Site_%28Pleasant_Valley%29)
+**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crash_Site_%28Pleasant_Valley%29)
 
 **Crash Site (Pleasant Valley)**
 
-![SS PV crash 04](../assets/SS-PV-crash-04.jpg)
-
-**Location**
-
-![Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png)
-
-Region
-
-Location
-
-Near Skeeter's Ridge
-
-Description
-
-A crashed passenger airliner
-
-**General**
-
-Type
-
-Has no shelter
-
-| Column 1 | Column 2 |
+| Property | Details |
 | --- | --- |
-| [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
+|  | [SS PV crash 04](../assets/SS-PV-crash-04.jpg) |
+| **Location** |  |
+|  | [Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Location | Near Skeeter's Ridge |
+| Description | A crashed passenger airliner |
+| **General** |  |
+| Type | Landmark |
+|  | Has no shelter |
+
+[Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+
+**This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture
+
+> **Most of the people who arrived were too weak to talk about it. But judging by the thundering sound and the size of the fire on the hills...whatever crashed up there, it must have been something big.**
+>
+>
+> — Father Thomas
 
 The **Crash Site** is a crashed airliner brought down by the [First Flare](./First%20Flare.md) in [Pleasant Valley](./Pleasant%20Valley.md), not far from [Burned Ridge Cave](./Burned%20Ridge%20Cave.md). This location, lacking an official name, was added to [Wintermute](./Wintermute.md) and [Survival Mode](./Survival%20Mode.md) in game version 1.6 with the release of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md).
 

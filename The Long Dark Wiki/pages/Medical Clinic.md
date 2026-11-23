@@ -1,6 +1,6 @@
 # Medical Clinic
 
-**Categories:** Locations, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Medical_Clinic)
+**Categories:** Indoor locations, Locations, Locations in Perseverance Mills, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Medical_Clinic)
 
 **Medical Clinic**
 
@@ -8,11 +8,12 @@
 | --- | --- |
 |  | [Missing image: Medical\_Clinic.jpg] / _Medical\_Clinic.jpg_ |
 | **Location** |  |
-| Region |  |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) |
 | Description | The local first aid clinic of Perseverance Mills. |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
+|  | Has an interior |
 
 The **Medical Clinic** or **Dr. Larsen's Medical Clinic** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town.
 

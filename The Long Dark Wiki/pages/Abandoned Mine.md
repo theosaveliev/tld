@@ -1,6 +1,6 @@
 # Abandoned Mine
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Mine)
+**Categories:** Caves, Indoor locations, Locations, Locations in Sundered Pass · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Mine)
 
 **Abandoned Mine**
 
@@ -8,11 +8,15 @@
 
 ![Exit](../assets/Abandoned_Mine_2.jpg)
 
+|
+
 **Location**
 
 ![Abandoned Mine Location](../assets/Abandoned_Mine_Location.png)
 
 Region
+
+[Sundered Pass](./Sundered%20Pass.md)
 
 Description
 
@@ -22,7 +26,13 @@ A large cavern cutting through the northern mountain, with various abandoned min
 
 Type
 
+Cave
+
 Firebox
+
+[Fire Barrel](./Fire%20Barrel.md)
+
+Has an interior
 
 **Abandoned Mine** is a mine located in [Sundered Pass](./Sundered%20Pass.md), close to [Reluctant Shortcut](./Reluctant%20Shortcut.md).
 

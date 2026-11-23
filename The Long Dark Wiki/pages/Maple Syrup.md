@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Thick and sweet, this high-calorie condiment is an excellent source of energy. Pancakes not included. |
 | **Values** |  |

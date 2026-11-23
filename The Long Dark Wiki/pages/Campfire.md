@@ -16,7 +16,8 @@
 | --- | --- |
 |  | [Campfire icon](../assets/Campfire_icon.png) |
 | **General** |  |
-| Type | Fire Starting\|- |
+| Type | Fire Starting |
+| **Statistics** |  |
 | Max temperature | 80 °C / _(144 °F)_ |
 | Cooking slots | 2 |
 

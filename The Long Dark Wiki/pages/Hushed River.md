@@ -1,6 +1,6 @@
 # Hushed River
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hushed_River)
+**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hushed_River)
 
 **Hushed River**
 
@@ -9,11 +9,13 @@
 |  | [HushedRiverValleyFromPensiveVista](../assets/HushedRiverValleyFromPensiveVista.png) |
 | **Location** |  |
 |  | [Hushed River Location](../assets/Hushed_River_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | The centre of the region. |
 | **General** |  |
-| Type |  |
-|  | Has no shelter **Hushed River** is a long and winding frozen river that is the namesake of the [Hushed River Valley](./Hushed%20River%20Valley.md) region in _[The Long Dark](./The%20Long%20Dark.md)._ It flows through opposite ends of the map. |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Hushed River** is a long and winding frozen river that is the namesake of the [Hushed River Valley](./Hushed%20River%20Valley.md) region in _[The Long Dark](./The%20Long%20Dark.md)._ It flows through opposite ends of the map.
 
 ## Overview
 

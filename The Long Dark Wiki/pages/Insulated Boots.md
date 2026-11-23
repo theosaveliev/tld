@@ -1,6 +1,6 @@
 # Insulated Boots
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Insulated_Boots)
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Insulated_Boots)
 
 **Insulated Boots**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Insulated Boots icon](../assets/Insulated_Boots_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Outer feet |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |

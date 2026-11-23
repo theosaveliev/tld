@@ -1,6 +1,6 @@
 # Muskeg Overlook
 
-**Categories:** Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Muskeg_Overlook)
+**Categories:** Locations, Locations in Forlorn Muskeg, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Muskeg_Overlook)
 
 **Muskeg Overlook**
 
@@ -9,9 +9,10 @@
 |  | [Muskeg Overlook](../assets/Muskeg_Overlook.jpg) |
 | **Location** |  |
 |  | [Muskeg Overlook Location](../assets/Muskeg_Overlook_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Muskeg Overlook**is a location in [Forlorn Muskeg](./Forlorn%20Muskeg.md), with the [Shortwave Tower East](./Shortwave%20Tower%20East.md) and a [Transmitter](./Transmitters.md) located nearby.
 

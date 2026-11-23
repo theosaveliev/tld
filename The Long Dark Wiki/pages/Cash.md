@@ -16,7 +16,8 @@
 |  | [Cash icon](../assets/Cash_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | yes |
 | Examine | A bundle of cash. Pretty much worthless these days. Useful as tinder. |
 | **Values** |  |

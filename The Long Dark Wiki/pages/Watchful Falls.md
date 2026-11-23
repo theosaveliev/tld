@@ -1,6 +1,6 @@
 # Watchful Falls
 
-**Categories:** Locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Watchful_Falls)
+**Categories:** Indoor locations, Locations, Locations in Hushed River Valley, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Watchful_Falls)
 
 **Watchful Falls**
 
@@ -9,11 +9,12 @@
 |  | [Watchful Falls](../assets/Watchful_Falls.jpg) |
 | **Location** |  |
 |  | [Watchful Falls Location](../assets/Watchful_Falls_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Sublocations | Next to [Lake Cave](./Lake%20Cave.md). |
 | Description | A waterfall. |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has an interior |
 
 **Watchful Falls** is a landmark far side of [Monolith Lake](./Monolith%20Lake.md), with the [Lake Cave](./Lake%20Cave.md) just behind it, in [Hushed River Valley](./Hushed%20River%20Valley.md).
 

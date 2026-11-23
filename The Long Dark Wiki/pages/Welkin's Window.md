@@ -1,6 +1,6 @@
 # Welkin's Window
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Welkin's_Window)
+**Categories:** Caves, Locations, Locations in Zone of Contamination, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Welkin's_Window)
 
 **Welkin's Window**
 
@@ -9,9 +9,10 @@
 |  | [Welkin's Window](../assets/Welkin%27s_Window.png) |
 | **Location** |  |
 |  | [Welkin's Window Location](../assets/Welkin%27s_Window_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Welkin's Window** is a small cave in the [Zone of Contamination](./Zone%20of%20Contamination.md), located high up in a cliff wall near the transition cave from [Forsaken Airfield](./Forsaken%20Airfield.md). It is close to [Dubious Overlook](./Dubious%20Overlook.md).
 

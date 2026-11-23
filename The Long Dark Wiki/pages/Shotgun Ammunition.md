@@ -29,9 +29,11 @@ Wintermute
 
 Item type
 
-[Tools](./Tools.md)|-
+[Tools](./Tools.md)
 
 Equipable
+
+No
 
 Stackable
 

@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Small maple sapling that has been cured. Can be used for crafting and repair. |
 | **Values** |  |

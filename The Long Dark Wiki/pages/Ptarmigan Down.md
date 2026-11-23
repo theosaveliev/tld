@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Feathers harvested from a Ptarmigan. Can be used for crafting and gear improvements. |
 | **Values** |  |

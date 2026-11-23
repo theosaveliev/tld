@@ -1,6 +1,6 @@
 # Forgotten Trestle
 
-**Categories:** Article stubs, DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forgotten_Trestle)
+**Categories:** Article stubs, DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forgotten_Trestle)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -17,10 +17,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Forgotten Trestle](../assets/Forgotten_Trestle.jpg) |
 | **Location** |  |
 |  | [Forgotten Trestle Location](../assets/Forgotten_Trestle_Location.png) |
-| Region |  |
+| Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | Middle of the map |
 | Description | A small train bridge near [Obstructed Transit](./Obstructed%20Transit.md) |
 | **General** |  |
-|  | Has no shelter **Forgotten Trestle** is a location in [Port Remnant](./Port%20Remnant.md). |
+|  | Has no shelter |
+
+**Forgotten Trestle** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview

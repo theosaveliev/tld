@@ -1,16 +1,10 @@
 {
   "files_scanned": 1819,
-  "files_with_issues": 2,
+  "files_with_issues": 1,
   "issues": [
     {
-      "file": "pages/Cowichan Sweater.md",
-      "line": 5,
-      "kind": "MediaWiki table markup",
-      "snippet": "{| |+ XSENT:infobox:Cowichan Sweater |- | colspan=\"2\" | ![Cowichan Sweater icon](../assets/Cowichan_Sweater_icon.png) |-"
-    },
-    {
       "file": "pages/Gold Nugget.md",
-      "line": 32,
+      "line": 33,
       "kind": "MediaWiki table markup",
       "snippet": "{\\| class=\"messagebox\""
     }

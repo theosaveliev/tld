@@ -1,6 +1,6 @@
 # Island Cave
 
-**Categories:** Islands, Locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Island_Cave)
+**Categories:** Caves, Islands, Locations, Locations in Bleak Inlet, Sheltered locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Island_Cave)
 
 **Island Cave**
 
@@ -8,11 +8,12 @@
 | --- | --- |
 |  | [IslandCave](../assets/IslandCave.png) |
 | **Location** |  |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | West-southwest of [Cannery Pier](./Cannery%20Pier.md). |
 | Description | A small cave on an offshore island. |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

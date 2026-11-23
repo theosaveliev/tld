@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A heavy, salty soup made from Potatoes. Increases Condition as well as Fatigue. Popular among Great Bear Island Cannery workers because of its simple ingredients. |
 | **Values** |  |

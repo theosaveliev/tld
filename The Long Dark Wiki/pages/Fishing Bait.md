@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Basic fish bait. Useful for catching larger fish. |
 | **Values** |  |

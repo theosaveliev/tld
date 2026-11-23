@@ -16,7 +16,7 @@
 | --- | --- |
 |  | [Scrap Metal icon](../assets/Scrap_Metal_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |

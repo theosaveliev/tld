@@ -1,16 +1,20 @@
 # Fishing Camp
 
-**Categories:** Locations, Locations in Coastal Highway, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Camp)
+**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Locations with a workbench, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Camp)
 
 **Fishing Camp**
 
 ![Fishing Camp fishing cabins](../assets/Fishing_Camp_-_fishing_cabins.jpg)
+
+|
 
 **Location**
 
 ![Fishing Camp map](../assets/Fishing_Camp_map.png)
 
 Region
+
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -20,13 +24,17 @@ Between [Bear Creek Campground](./Bear%20Creek%20Campground.md) and [Jackrabbit 
 
 Type
 
+Residential
+
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench|-
+Has a workbench
+
+Has an interior
 
 **Fishing Camp** is a collection of fishing cabins and a dock in [Coastal Highway](./Coastal%20Highway.md).
 

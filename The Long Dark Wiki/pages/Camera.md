@@ -22,7 +22,8 @@
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | A mechanical instant film Camera. Compatible with Colour, Black and White, and Sepia instant film packs. |
 | **Values** |  |

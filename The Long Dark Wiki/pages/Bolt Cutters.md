@@ -19,7 +19,8 @@
 |  | [Bolt Cutters icon](../assets/Bolt_Cutters_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A heavy tool designed to cut through metal bolts and chains. |
 | **Values** |  |

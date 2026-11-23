@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested gut. / Can be used for crafting and repair after air-drying indoors for 5 days. |
 | **Values** |  |

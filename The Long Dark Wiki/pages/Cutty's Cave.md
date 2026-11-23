@@ -1,6 +1,6 @@
 # Cutty's Cave
 
-**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cutty's_Cave)
+**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cutty's_Cave)
 
 **Cutty's Cave**
 
@@ -13,7 +13,8 @@
 | Location | A short distance south of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). |
 | Description | A small cave hidden underneath a cliff |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 | **Wintermute** |  |
 | Missions | [Blackrock Blues](./Blackrock%20Blues.md) |
 

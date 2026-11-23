@@ -1,6 +1,6 @@
 # Deerskin Boots
 
-**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deerskin_Boots)
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deerskin_Boots)
 
 **Deerskin Boots**
 
@@ -8,10 +8,10 @@
 | --- | --- |
 |  | [Deerskin Boots icon](../assets/Deerskin_Boots_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
 | Renewable | Yes |
-| Clothing Slot |  |
+| Clothing Slot | Outer feet |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |

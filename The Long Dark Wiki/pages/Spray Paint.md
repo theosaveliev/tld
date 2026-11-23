@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Spray Paint icon](../assets/Spray_Paint_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |

@@ -19,7 +19,8 @@
 |  | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Examine | Tools for Crafting furniture and decorative items. |
 | **Values** |  |
 | Weight | 1.50 kg (3.3 lbs) |
 | **Actions** |  |

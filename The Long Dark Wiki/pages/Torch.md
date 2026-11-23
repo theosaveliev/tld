@@ -22,7 +22,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A simple torch -- the same kind that's dispelled the darkness for thousands of years. Might even keep the Wolves at bay. |
 | **Values** |  |
@@ -99,7 +100,7 @@ You can also pull a Torch from any fire, but their condition will always be rand
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Stick](./Stick.md)
 

@@ -1,6 +1,6 @@
 # The Crash
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Crash)
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Crash)
 
 **Contents**
 
@@ -20,7 +20,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Crash](../assets/The_Crash.png) |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Previous | [Memories](./Memories.md) |
 | Current | The Crash |

@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Examine | Cleaned and cut Burdock. Edible on its own, or suitable for brewing into a natural antibiotic tea. |
 | **Values** |  |
 | Calories | 275 kcal |
 | Hydration | 0% |
@@ -30,7 +31,7 @@
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Burdock Root](./Burdock%20Root.md)
 

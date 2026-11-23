@@ -1,6 +1,6 @@
 # Coming Storm
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coming_Storm)
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coming_Storm)
 
 **Contents**
 
@@ -17,7 +17,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png) |
-| Episode |  |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | **Missions** |  |
 | Previous | [Fallen Star](./Fallen%20Star.md) |
 | Current | Coming Storm |

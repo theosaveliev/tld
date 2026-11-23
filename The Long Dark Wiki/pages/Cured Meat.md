@@ -16,7 +16,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Meat that has been cured and preserved. |
 | **Values** |  |

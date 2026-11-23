@@ -1,16 +1,20 @@
 # Rabbit Grove
 
-**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
+**Categories:** Indoor locations, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
 
 **Rabbit Grove**
 
 ![Rabbit Grove](../assets/Rabbit_Grove.jpg)
+
+|
 
 **Location**
 
 ![Rabbit Grove map](../assets/Rabbit_Grove_map.png)
 
 Region
+
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -23,6 +27,8 @@ Type
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 **Rabbit Grove** is a location in [Coastal Highway](./Coastal%20Highway.md).
 

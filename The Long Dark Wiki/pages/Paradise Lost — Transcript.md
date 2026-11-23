@@ -1,13 +1,13 @@
 # Paradise Lost/Transcript
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost%2FTranscript)
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost%2FTranscript)
 
 **Paradise Lost/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Paradise Lost](../assets/Paradise_Lost.png) |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Previous | [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) |
 | Current | Paradise Lost/Transcript |

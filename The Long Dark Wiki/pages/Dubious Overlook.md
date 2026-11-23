@@ -1,6 +1,6 @@
 # Dubious Overlook
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dubious_Overlook)
+**Categories:** Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dubious_Overlook)
 
 **Dubious Overlook**
 
@@ -9,11 +9,13 @@
 |  | [Dubious Overlook](../assets/Dubious_Overlook.jpg) |
 | **Location** |  |
 |  | [Dubious Overlook Location](../assets/Dubious_Overlook_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Location | Near [Welkin's Window](./Welkin%27s%20Window.md) |
 | Description | A cliff overlooking the southern section of the map |
 | **General** |  |
-|  | Has no shelter **Dubious Overlook** is a location in the [Zone of Contamination](./Zone%20of%20Contamination.md). |
+|  | Has no shelter |
+
+**Dubious Overlook** is a location in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
 ## Overview
 

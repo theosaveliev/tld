@@ -1,6 +1,6 @@
 # Cabinet Door
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabinet_Door)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabinet_Door)
 
 **Cabinet Door**
 
@@ -9,6 +9,6 @@
 |  | [Cabinet Door](../assets/Cabinet_Door.jpg) |
 | **General** |  |
 | Item Type |  |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Harvest | 8 Minutes 1 x [Reclaimed Wood](./Reclaimed%20Wood.md) |

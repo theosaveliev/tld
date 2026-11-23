@@ -1,6 +1,6 @@
 # Bridge
 
-**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bridge)
+**Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 1, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bridge)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -20,6 +20,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
+[Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)
+
 Location
 
 Mid west of the map
@@ -30,7 +32,9 @@ A small trestle bridge.
 
 **General**
 
-Has no shelter **Bridge** is a location in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
+Has no shelter
+
+**Bridge** is a location in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
 
 ## Overview
 

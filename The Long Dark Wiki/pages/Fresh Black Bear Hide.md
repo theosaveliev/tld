@@ -17,7 +17,8 @@
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested fur and skin of a Black bear. / Can be used for crafting and repair after air-drying indoors for 12 days. |
 | **Values** |  |

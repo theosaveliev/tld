@@ -1,6 +1,6 @@
 # Bearskin Coat
 
-**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
 
 **Contents**
 
@@ -16,9 +16,9 @@
 | --- | --- |
 |  | [Bearskin Coat icon](../assets/Bearskin_Coat_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Outer torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)6.0 °C(10.8 °F) |

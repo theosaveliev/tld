@@ -1,6 +1,6 @@
 # Cascading Gap
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cascading_Gap)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cascading_Gap)
 
 **Cascading Gap**
 
@@ -9,8 +9,9 @@
 |  | [Cascading Gap](../assets/Cascading_Gap.jpg) |
 | **Location** |  |
 |  | [Cascading Gap Location](../assets/Cascading_Gap_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | **General** |  |
+|  | Has no shelter |
 
 **Cascading Gap** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

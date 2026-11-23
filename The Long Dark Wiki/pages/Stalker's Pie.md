@@ -25,7 +25,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No ([Acorn Grounds](./Acorn%20Grounds.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A rich Pie made with Bear and Wolf meat. Dangerous, mysterious filling. |
 | **Values** |  |
 | Calories | 1600 (2000) kcal |
 | Hydration | -3.0% |

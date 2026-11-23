@@ -16,7 +16,7 @@
 | --- | --- |
 |  | [Sewing Kit icon](../assets/Sewing_Kit_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |

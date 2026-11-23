@@ -9,7 +9,7 @@
 |  | [Water Tower Resized](../assets/Water_Tower_Resized.png) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | No |
 | Renewable | yes |
 
 [Seal icon](../assets/Seal_icon.png)

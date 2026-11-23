@@ -24,7 +24,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | Wintermute | Yes |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Home-made soup. Warm, and nutritious. |
 | **Values** |  |

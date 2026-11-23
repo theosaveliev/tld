@@ -1,6 +1,6 @@
 # Juniper Runoff
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Juniper_Runoff)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Juniper_Runoff)
 
 **Juniper Runoff**
 
@@ -9,10 +9,11 @@
 |  | [Juniper Runoff](../assets/Juniper_Runoff.jpg) |
 | **Location** |  |
 |  | [Juniper Runoff Location](../assets/Juniper_Runoff_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | Below [Perilous Crossing](./Perilous%20Crossing.md), north of [Last Lonely House](./Last%20Lonely%20House.md) |
 | Description | A large slope below Perilous Crossing |
 | **General** |  |
+|  | Has no shelter |
 
 **Juniper Runoff** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

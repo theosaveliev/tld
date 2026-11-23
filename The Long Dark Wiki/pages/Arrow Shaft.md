@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A straight wooden arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow. |
 | **Values** |  |

@@ -9,7 +9,8 @@
 |  | [Transponder Parts icon](../assets/Transponder_Parts_icon.png) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Signal to Noise](./Signal%20to%20Noise.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Parts scavenged from old radios. Might be used to boost a shortwave signal. |
 | **Values** |  |

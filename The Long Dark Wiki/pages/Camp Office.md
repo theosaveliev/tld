@@ -1,6 +1,6 @@
 # Camp Office
 
-**Categories:** Locations, Locations in Mystery Lake, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Camp_Office)
+**Categories:** Indoor locations, Locations, Locations in Mystery Lake, Locations with a workbench, Military/Sporting locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Camp_Office)
 
 **Camp Office**
 
@@ -8,11 +8,15 @@
 
 ![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg)
 
+|
+
 **Location**
 
 ![Camp Office Location](../assets/Camp_Office_Location.png)
 
 Region
+
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 Location
 
@@ -26,7 +30,11 @@ A two-story cabin.
 
 Type
 
+Military/Sporting
+
 Firebox
+
+[Pot Belly Stove](./Pot%20Belly%20Stove.md) [Wood Stove](./Wood%20Stove.md)
 
 ![Bed icon](../assets/Bed_icon.png)
 
@@ -34,7 +42,9 @@ Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench|-
+Has a workbench
+
+Has an interior
 
 **Camp Office** is a two-story cabin located on the western side of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

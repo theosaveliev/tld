@@ -1,6 +1,6 @@
 # Pleasant Valley Church
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Church)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Church)
 
 **Pleasant Valley Church**
 
@@ -8,12 +8,13 @@
 | --- | --- |
 |  | [Pleasant Valley Church](../assets/Pleasant_Valley_Church.jpg) |
 | **Location** |  |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | At [Thomson's Crossing](./Thomson%27s%20Crossing.md). |
 | Description | A local community church |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
+|  | Has an interior |
 
 The **Pleasant Valley Church** is a church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md).
 

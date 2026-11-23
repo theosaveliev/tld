@@ -1,6 +1,6 @@
 # Prepper's Abandoned Cache
 
-**Categories:** Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepper's_Abandoned_Cache)
+**Categories:** Indoor locations, Industrial locations, Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepper's_Abandoned_Cache)
 
 **Contents**
 
@@ -17,12 +17,13 @@
 |  | [Preppers abandoned cache3](../assets/Preppers_abandoned_cache3.jpg) |
 | **Location** |  |
 |  | [Prepper's Abandoned Cache Location](../assets/Prepper%27s_Abandoned_Cache_Location.png) |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | **General** |  |
-| Type |  |
+| Type | Industrial |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 _Not to be confused with **[Prepper Cache](./Prepper%20Cache.md)**._
 > **There's one more bunker you can check. One of old man Joplin's in Pleasant Valley. On the way to Timberwolf. He wasn't in their crew, but Wyatt set up his prepper caches.**

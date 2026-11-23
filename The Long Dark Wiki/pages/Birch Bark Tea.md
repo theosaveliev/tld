@@ -17,7 +17,8 @@
 |  | [Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Examine | A natural tea, brewed from prepared Birch Bark. Drink to gradually restore some lost Condition. |
 | **Values** |  |
 | Calories | 100 kcal |
 | Hydration | 30% |

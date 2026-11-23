@@ -1,6 +1,6 @@
 # Blocked Bridge
 
-**Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blocked_Bridge)
+**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blocked_Bridge)
 
 **Blocked Bridge**
 
@@ -11,8 +11,10 @@
 |  | [Blocked Bridge Location](../assets/Blocked_Bridge_Location.png) |
 | Region |  |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Blocked Bridge** is a location in [Blackrock](./Blackrock.md). |
+| Type | Landmark |
+|  | Has no shelter |
+
+**Blocked Bridge** is a location in [Blackrock](./Blackrock.md).
 
 ## Overview
 

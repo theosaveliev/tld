@@ -1,16 +1,20 @@
 # Jackrabbit Island
 
-**Categories:** Islands, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jackrabbit_Island)
+**Categories:** Indoor locations, Islands, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jackrabbit_Island)
 
 **Jackrabbit Island**
 
 ![Jackrabbit Island](../assets/Jackrabbit_Island.jpg)
+
+|
 
 **Location**
 
 ![Jackrabbit Island map](../assets/Jackrabbit_Island_map.png)
 
 Region
+
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -23,6 +27,8 @@ An island with a rabbit grove
 **General**
 
 Type
+
+Has an interior
 
 **Jackrabbit Island** is one of the two larger offshore islands in [Coastal Highway](./Coastal%20Highway.md), the other being the [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md).
 

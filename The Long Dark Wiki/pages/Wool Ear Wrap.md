@@ -1,6 +1,6 @@
 # Wool Ear Wrap
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
 
 **Wool Ear Wrap**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute |  |
-| Clothing Slot |  |
+| Clothing Slot | Accessory |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

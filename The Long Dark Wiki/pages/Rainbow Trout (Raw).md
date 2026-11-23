@@ -16,6 +16,8 @@
 
 ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
 
+|
+
 Release
 
 [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
@@ -32,9 +34,11 @@ Yes
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)|-
+[Food And Drink](./Food%20And%20Drink.md)
 
 Examine
+
+A small saltwater fish, named for its irridescence.
 
 **Values**
 

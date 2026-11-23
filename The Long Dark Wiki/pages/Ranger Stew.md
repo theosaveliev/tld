@@ -24,7 +24,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A thick and greasy stew filled to the brim with harvested meats. Fuel for a long day in the woods. |
 | **Values** |  |
 | Calories | 1600 (2000) kcal |
 | Hydration | -3.0% |

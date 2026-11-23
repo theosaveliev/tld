@@ -1,6 +1,6 @@
 # Summit
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Summit)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Summit)
 
 **Contents**
 
@@ -17,10 +17,11 @@
 |  | [Tail section and wing2](../assets/Tail_section_and_wing2.jpg) |
 | **Location** |  |
 |  | [Summit Location](../assets/Summit_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Sublocations | [Tail Section](./Tail%20Section.md) / [Wing](./Wing.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 The **Summit** is located in [Timberwolf Mountain](./Timberwolf%20Mountain.md) and is one of the highest accessible locations in the game.
 

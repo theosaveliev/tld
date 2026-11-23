@@ -1,6 +1,6 @@
 # Memories
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memories)
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memories)
 
 **Contents**
 
@@ -23,7 +23,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Memories](../assets/Memories.png) |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Previous | None |
 | Current | Memories |

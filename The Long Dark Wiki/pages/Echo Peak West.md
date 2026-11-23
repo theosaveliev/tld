@@ -1,6 +1,6 @@
 # Echo Peak West
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echo_Peak_West)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echo_Peak_West)
 
 **Echo Peak West**
 
@@ -9,9 +9,10 @@
 |  | [Echo Peak West](../assets/Echo_Peak_West.jpg) |
 | **Location** |  |
 |  | [Echo Peak West Location](../assets/Echo_Peak_West_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Echo Peak West** is a location in [Timberwolf Mountain](./Timberwolf%20Mountain.md), located (surprisingly) _east_ of [Echo Peak East](./Echo%20Peak%20East.md).
 

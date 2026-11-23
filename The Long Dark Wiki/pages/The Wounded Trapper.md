@@ -1,13 +1,13 @@
 # The Wounded Trapper
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
 
 **The Wounded Trapper**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [Paradise Lost](./Paradise%20Lost.md) |
 | Current | The Wounded Trapper |

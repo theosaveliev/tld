@@ -1,6 +1,6 @@
 # Departure's Memory
 
-**Categories:** Article stubs, DLC Content, Locations, Locations with a workbench, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Departure's_Memory)
+**Categories:** Article stubs, DLC Content, Locations, Locations in Port Remnant, Locations with a workbench, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Departure's_Memory)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -17,13 +17,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Departure's Memory](../assets/Departure%27s_Memory.jpg) |
 | **Location** |  |
 |  | [Departure's Memory Location](../assets/Departure%27s_Memory_Location.png) |
-| Region |  |
+| Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | Middle of the map |
 | Description | A series of ruined warehouses near the frozen bay |
 | **General** |  |
-| Firebox |  |
+| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has no shelter |
+
+**Departure's Memory** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

@@ -9,12 +9,14 @@
 |  | [Clearcut 01](../assets/Clearcut_01.jpg) |
 | **Location** |  |
 |  | [Clearcut Location](../assets/Clearcut_Location.png) |
-| Region |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Location | On the north-western corner of [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
 | Description | A clear cut logging area. |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Clearcut** is a location in the north-western corner of [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Clearcut** is a location in the north-western corner of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

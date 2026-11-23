@@ -1,6 +1,6 @@
 # Grip's Cave
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grip's_Cave)
+**Categories:** Caves, Locations, Locations in Forsaken Airfield, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grip's_Cave)
 
 **Grip's Cave**
 
@@ -9,12 +9,13 @@
 |  | [Grip's Cave](../assets/Grip%27s_Cave.jpg) |
 | **Location** |  |
 |  | [Grip's Cave Location](../assets/Grip%27s_Cave_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | On a ridge north of [Stony Passage](./Stony%20Passage.md). West side of the map |
 | Description | A cave on a ridge |
 | **General** |  |
-| Type |  |
+| Type | Cave |
 | [Bed icon](../assets/Bed_icon.png) |  |
+|  | Provides some shelter |
 
 **Grip's Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md).
 

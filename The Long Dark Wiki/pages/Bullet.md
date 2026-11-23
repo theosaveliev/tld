@@ -1,6 +1,6 @@
 # Bullet
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bullet)
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bullet)
 
 **Contents**
 
@@ -18,7 +18,7 @@
 | --- | --- |
 |  | [Bullet icon](../assets/Bullet_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | yes |
 | **Statistics** |  |

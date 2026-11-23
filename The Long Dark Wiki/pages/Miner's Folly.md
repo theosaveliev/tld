@@ -1,6 +1,6 @@
 # Miner's Folly
 
-**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Folly)
+**Categories:** Indoor locations, Industrial locations, Locations, Locations in Ash Canyon, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Folly)
 
 **Contents**
 
@@ -17,12 +17,13 @@
 |  | [20201210004606 1](../assets/20201210004606_1.jpg) |
 | **Location** |  |
 |  | [Miner's Folly Location](../assets/Miner%27s_Folly_Location.png) |
-| Region |  |
+| Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A ruined miner's camp. |
 | **General** |  |
-| Type |  |
+| Type | Industrial |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 **Miner's Folly** is a collection of ruined buildings, except for one, located in the northern part of [Ash Canyon](./Ash%20Canyon.md), to the east.
 

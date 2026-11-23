@@ -11,7 +11,8 @@
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) no (Interloper) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Contemporary MRE, good quality, and meets all technical requirements to be considered real food! Designed to keep a soldier on their feet. |
 | **Values** |  |

@@ -9,7 +9,7 @@
 |  | [Whale Oil Refueling](../assets/Whale_Oil_Refueling.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | No |
 | Renewable | Yes |
 
 [Seal icon](../assets/Seal_icon.png)

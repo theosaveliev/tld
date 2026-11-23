@@ -1,6 +1,6 @@
 # Fuel Cover
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fuel_Cover)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fuel_Cover)
 
 **Fuel Cover**
 
@@ -12,6 +12,8 @@
 
 ![Car](../assets/Car_Fuel_Cover_Open.jpg)
 
+|
+
 **General**
 
 Item Type
@@ -19,3 +21,5 @@ Item Type
 Item
 
 Wintermute
+
+Yes

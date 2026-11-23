@@ -18,7 +18,8 @@
 | Wintermute | Yes |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Flesh from a wolf. Cook to eat safely. |
 | **Values** |  |

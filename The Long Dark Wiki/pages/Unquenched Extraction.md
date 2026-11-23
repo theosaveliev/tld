@@ -1,6 +1,6 @@
 # Unquenched Extraction
 
-**Categories:** Lakes, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
+**Categories:** Lakes, Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
 
 **Unquenched Extraction**
 
@@ -9,11 +9,12 @@
 |  | [Unquenched Extraction](../assets/Unquenched_Extraction.jpg) |
 | **Location** |  |
 |  | [Unquenched Extraction Location](../assets/Unquenched_Extraction_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Location | Langston mine |
 | Description | The biggest lake in the region located in the northwest corner. |
 | **General** |  |
 | Type |  |
+|  | Has no shelter |
 
 **Unquenched Extraction** is the biggest lake in the region, with two large dormant metal water extraction pumps emerging from the lake and heading towards the [Concentrator](./Concentrator.md) building of the [Langston Mine](./Langston%20Mine.md) mining complex, presumably going deeper to the mines and later the [Pump House](./Pump%20House.md).
 

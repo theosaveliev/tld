@@ -1,6 +1,6 @@
 # Pillar's Footrest
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pillar's_Footrest)
+**Categories:** Landmarks, Locations, Locations in Ash Canyon, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pillar's_Footrest)
 
 **Pillar's Footrest**
 
@@ -9,10 +9,12 @@
 |  | [20201212011141 1](../assets/20201212011141_1.jpg) |
 | **Location** |  |
 |  | [Pillar's Footrest Location](../assets/Pillar%27s_Footrest_Location.png) |
-| Region |  |
+| Region | [Ash Canyon](./Ash%20Canyon.md) |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Pillar's Footrest** is a tall, pillar-shaped mountain located in the southern part of [Ash Canyon](./Ash%20Canyon.md). On a clear day, this mountain can be seen from almost everywhere in the region. |
+| Type | Landmark |
+|  | Has no shelter |
+
+**Pillar's Footrest** is a tall, pillar-shaped mountain located in the southern part of [Ash Canyon](./Ash%20Canyon.md). On a clear day, this mountain can be seen from almost everywhere in the region.
 
 ## Overview
 

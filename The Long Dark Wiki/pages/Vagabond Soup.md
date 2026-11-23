@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A humble soup made of Salt, Broth, and fresh Rabbit. Fortifies Condition, if salty. Originated in the community of people known to hop trains along the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), who would harvest the many Rabbits that lived alongside the tracks. |
 | **Values** |  |

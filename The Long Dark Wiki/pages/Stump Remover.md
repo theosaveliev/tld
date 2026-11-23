@@ -1,6 +1,6 @@
 # Stump Remover
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stump_Remover)
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stump_Remover)
 
 **Contents**
 
@@ -15,7 +15,7 @@
 | --- | --- |
 |  | [Stump Remover icon](../assets/Stump_Remover_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |

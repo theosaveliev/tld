@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No ([Acorn Grounds](./Acorn%20Grounds.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | Classic Pancakes, with Acorns. |
 | **Values** |  |
 | Calories | 750 (938) kcal |
 | Hydration | -3.0% |

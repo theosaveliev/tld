@@ -1,6 +1,6 @@
 # Contemplation Bridge
 
-**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Contemplation_Bridge)
+**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Contemplation_Bridge)
 
 **Contemplation Bridge**
 
@@ -9,10 +9,11 @@
 |  | [Contemplation Bridge](../assets/Contemplation_Bridge.jpg) |
 | **Location** |  |
 |  | [Contemplation Bridge Location](../assets/Contemplation_Bridge_Location.png) |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | On the road between [Rural Crossroads](./Thomson%27s%20Crossing.md) and [Heartbreak Bridge](./Heartbreak%20Bridge.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 **Contemplation Bridge** is type of beam bridge in [Pleasant Valley](./Pleasant%20Valley.md).
 

@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | An instructional manual on ice fishing. Researching this will improve your Skill. |
 | **Values** |  |

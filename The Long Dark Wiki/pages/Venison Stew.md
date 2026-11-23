@@ -24,7 +24,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A tangy and powerful stew made from harvested deer meat. |
 | **Values** |  |
 | Calories | 900 (1125) kcal |
 | Hydration | 3.0% |

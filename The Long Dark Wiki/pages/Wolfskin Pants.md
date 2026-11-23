@@ -1,6 +1,6 @@
 # Wolfskin Pants
 
-**Categories:** Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
+**Categories:** Clothing, Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
 
 **Contents**
 
@@ -15,7 +15,7 @@
 | --- | --- |
 |  | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot |  |
 | **Statistics** |  |

@@ -26,7 +26,8 @@
 | Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A detailed guide to hunting with bows. Researching it will improve your Archery Skill. |
 | **Values** |  |

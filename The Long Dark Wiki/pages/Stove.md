@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Stove](../assets/Stove.png) |
 | **General** |  |
-| Type | Fire Starting\|- |
+| Type | Fire Starting |
+| **Statistics** |  |
 | Cooking slots | 6 |
 
 The **Stove** (technically a kitchen stove) is an immovable fire barrel. The wood stove functions identically to other contained fires and player-made [Campfire](./Campfire.md), and, like all contained fires, isn't blown out by high winds.

@@ -1,6 +1,6 @@
 # Milton Park
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Park)
+**Categories:** Locations, Locations in Mountain Town, Residential locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Park)
 
 **Milton Park**
 
@@ -9,12 +9,13 @@
 |  | [Milton Park Office](../assets/Milton_Park_Office.jpg) |
 | **Location** |  |
 |  | [Milton Park Location](../assets/Milton_Park_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Description | Open Office without a door |
 | **General** |  |
-| Type |  |
-| Firebox |  |
+| Type | Residential |
+| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter |
 | **Wintermute** |  |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 

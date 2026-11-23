@@ -1,6 +1,6 @@
 # Shortwave Tower East
 
-**Categories:** Locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower_East)
+**Categories:** Locations, Locations in Forlorn Muskeg, Military/Sporting locations, Outdoor locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower_East)
 
 **Shortwave Tower East**
 
@@ -9,10 +9,11 @@
 |  | [Shortwave Tower East](../assets/Shortwave_Tower_East.jpg) |
 | **Location** |  |
 |  | [Shortwave Tower East Location](../assets/Shortwave_Tower_East_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | Location | At [Muskeg Overlook](./Muskeg%20Overlook.md) |
 | **General** |  |
-| Type |  |
+| Type | OutdoorsMilitary/Sporting |
+|  | Has no shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

@@ -1,6 +1,6 @@
 # Creek Bed Cave
 
-**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Creek_Bed_Cave)
+**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Creek_Bed_Cave)
 
 **Creek Bed Cave**
 
@@ -12,8 +12,9 @@
 | Region |  |
 | Location | West of Narrow Bridge, in the region's boundary rock wall |
 | **General** |  |
-| Type |  |
+| Type | Cave |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter |
 
 **Creek Bed Cave** is a small cave located in [Blackrock](./Blackrock.md), near the region's southwestern-most point.
 

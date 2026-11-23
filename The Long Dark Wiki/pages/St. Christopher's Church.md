@@ -1,6 +1,6 @@
 # St\. Christopher's Church
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/St._Christopher's_Church)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/St._Christopher's_Church)
 
 **St. Christopher's Church**
 
@@ -13,8 +13,9 @@
 | Location | A short walk up the road from [Milton](./Milton.md) |
 | Description | A church and graveyard |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **St Christopher's Church** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. The church is a possible spawn location for the region and the [Graveyard](./Graveyard.md) is located across the street.
 

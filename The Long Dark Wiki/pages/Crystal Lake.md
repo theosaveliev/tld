@@ -1,6 +1,6 @@
 # Crystal Lake
 
-**Categories:** Lakes, Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crystal_Lake)
+**Categories:** Lakes, Locations, Locations in Timberwolf Mountain, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crystal_Lake)
 
 **Crystal Lake**
 
@@ -9,11 +9,12 @@
 |  | [Crystal Lake](../assets/Crystal_Lake.png) |
 | **Location** |  |
 |  | [Crystal Lake Location](../assets/Crystal_Lake_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Sublocations | [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) |
 | Description | A small freshwater lake |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **Crystal Lake** is small frozen lake located in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

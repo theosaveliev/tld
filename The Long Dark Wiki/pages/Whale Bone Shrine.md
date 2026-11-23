@@ -1,6 +1,6 @@
 # Whale Bone Shrine
 
-**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whale_Bone_Shrine)
+**Categories:** DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whale_Bone_Shrine)
 
 **Contents**
 
@@ -29,13 +29,17 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
+[Port Remnant](./Port%20Remnant.md)
+
 Description
 
 3 bizarre shrines made of the bones of whales, tied together.
 
 **General**
 
-Has no shelter **Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md).
+Has no shelter
+
+**Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

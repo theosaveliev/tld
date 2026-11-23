@@ -19,7 +19,8 @@
 |  | [Gold Nugget icon](../assets/Gold_Nugget_icon.png) |
 | Wintermute | Yes |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Examine | A Gold Nugget of moderate size, now of little practical use. |
 | **Values** |  |
 | Weight | 0.25 kg (0.55 lbs) |
 | **Advanced data** |  |

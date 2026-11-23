@@ -15,7 +15,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 |  | [Burned Out Fuse icon](../assets/Burned_Out_Fuse_icon.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Aftermath](./Aftermath.md) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Examine | Burned out fuse. Needs replacing. |
 | **Values** |  |
 | Weight | 0.20 kg (0.44 lbs) |

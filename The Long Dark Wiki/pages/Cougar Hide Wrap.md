@@ -1,6 +1,6 @@
 # Cougar Hide Wrap
 
-**Categories:** Craftable clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cougar_Hide_Wrap)
+**Categories:** Clothing, Craftable clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cougar_Hide_Wrap)
 
 **Cougar Hide Wrap**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Cougar Hide Wrap icon](../assets/Cougar_Hide_Wrap_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Head |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |

@@ -1,6 +1,6 @@
 # Last Quarrel
 
-**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Quarrel)
+**Categories:** DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Quarrel)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -15,11 +15,13 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Last Quarrel](../assets/Last_Quarrel.jpg) |
 | **Location** |  |
 |  | [Last Quarrel Location](../assets/Last_Quarrel_Location.png) |
-| Region |  |
+| Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | Middle East of the region, behind 2 waterfalls along a cliff. |
 | Description | A large cave hidden behind 2 waterfalls. |
 | **General** |  |
-|  | Has no shelter **Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md). |
+|  | Has no shelter |
+
+**Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

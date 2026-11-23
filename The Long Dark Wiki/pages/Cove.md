@@ -1,6 +1,6 @@
 # Cove
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cove)
+**Categories:** Landmarks, Locations, Locations in Forsaken Airfield, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cove)
 
 **Cove**
 
@@ -9,12 +9,16 @@
 |  | [Cove](../assets/Cove.png) |
 | **Location** |  |
 |  | [Cove Location](../assets/Cove_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Along the coast of [Shoulder Lake](./Shoulder%20Lake.md). |
 | Description | A cove along the lakeshore, surrounded by cliffs, with stairs leading up. |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / _Not to be confused with [Shattered Cove](./Shattered%20Cove.md) of [Ash Canyon](./Ash%20Canyon.md)_. / The **Cove** is a small cove surrounded by rocky cliffs along the shoreline of [Drift Island](./Drift%20Island.md). |
+| Type | Landmark |
+|  | Has no shelter |
+
+_Not to be confused with [Shattered Cove](./Shattered%20Cove.md) of [Ash Canyon](./Ash%20Canyon.md)_.
+
+The **Cove** is a small cove surrounded by rocky cliffs along the shoreline of [Drift Island](./Drift%20Island.md).
 
 ## Overview
 

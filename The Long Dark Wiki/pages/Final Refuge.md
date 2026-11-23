@@ -1,6 +1,6 @@
 # Final Refuge
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Final_Refuge)
+**Categories:** Indoor locations, Locations, Locations in Sundered Pass, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Final_Refuge)
 
 **Final Refuge**
 
@@ -9,12 +9,13 @@
 |  | [Final Refuge](../assets/Final_Refuge.png) |
 | **Location** |  |
 |  | [Final Refuge Location](../assets/Final_Refuge_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A small cabin atop a ridge. |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md).
 

@@ -1,6 +1,6 @@
 # Ski Boots
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Boots)
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Boots)
 
 **Ski Boots**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Ski Boots icon](../assets/Ski_Boots_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| Clothing Slot |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
+| Clothing Slot | Outer feet |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |

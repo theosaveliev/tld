@@ -20,7 +20,8 @@
 | Wintermute | Yes (bug?) |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Birch tree bark. Lightweight and flammable, this bark can be used as Tinder or brewed into a restorative tea. |
 | **Values** |  |

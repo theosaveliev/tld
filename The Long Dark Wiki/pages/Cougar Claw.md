@@ -10,7 +10,8 @@
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A cruel-looking trophy harvested from the predatory cat. Can be crafted into a razor-sharp blade. |
 | **Values** |  |

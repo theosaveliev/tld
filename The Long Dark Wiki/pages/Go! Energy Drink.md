@@ -10,7 +10,8 @@
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) no (Interloper) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Provides a boost to Stamina and reduces Fatigue for a short while. Good for extra energy when in tough spots, but distracting headaches may follow. |
 | **Values** |  |

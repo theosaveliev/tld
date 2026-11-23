@@ -1,6 +1,6 @@
 # Trailer \(Mountain Town Region\)
 
-**Categories:** Locations, Locations in Mountain Town, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trailer_%28Mountain_Town_Region%29)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trailer_%28Mountain_Town_Region%29)
 
 **Trailer**
 
@@ -8,11 +8,15 @@
 
 ![Interior](../assets/It%27s_really_a_trailer.jpg)
 
+|
+
 **Location**
 
 ![Trailer MT Location](../assets/Trailer_MT_Location.png)
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -22,13 +26,17 @@ between St. Christopher's Church and Spruce Falls Bridge
 
 Firebox
 
+[Fire Barrel](./Fire%20Barrel.md)
+
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has a workbench|-
+Has a workbench
+
+Has an interior
 
 The **Trailer** is a work trailer to the north of the [Mountain Town](./Mountain%20Town.md) region, north of [St. Christopher's Church](./St.%20Christopher%27s%20Church.md).
 

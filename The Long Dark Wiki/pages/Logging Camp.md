@@ -1,6 +1,6 @@
 # Logging Camp
 
-**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Logging_Camp)
+**Categories:** Indoor locations, Locations, Locations in Mystery Lake, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Logging_Camp)
 
 **Logging Camp**
 
@@ -9,12 +9,13 @@
 |  | [Logging camp 01](../assets/Logging_camp_01.jpg) |
 | **Location** |  |
 |  | [Logging Camp Location](../assets/Logging_Camp_Location.png) |
-| Region |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
+|  | Has an interior |
 
 The**Logging Camp** is a collection of several small trailers, presumably to shelter the loggers who once worked in the nearby [Clearcut](./Clearcut.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

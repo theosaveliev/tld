@@ -1,6 +1,6 @@
 # Branch
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Branch)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Branch)
 
 ## Overview
 
@@ -11,7 +11,7 @@
 |  | [Branch](../assets/Branch.png) |
 | **General** |  |
 | Item Type |  |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.45 kg(0.99 lbs) |
 

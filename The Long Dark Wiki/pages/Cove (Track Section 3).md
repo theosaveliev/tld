@@ -1,6 +1,6 @@
 # Cove \(Track Section 3\)
 
-**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cove_%28Track_Section_3%29)
+**Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 3, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cove_%28Track_Section_3%29)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -20,6 +20,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
+[Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)
+
 Location
 
 Mid-eastern section of the map, past a tunnel.
@@ -29,6 +31,8 @@ Description
 A natural tunnel that leads to a Cabin.
 
 **General**
+
+Has no shelter
 
 **Cove** is a location in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
 

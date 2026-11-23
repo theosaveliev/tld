@@ -17,7 +17,8 @@
 |  | [Knowledge](../assets/Knowledge.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
 | **Values** |  |

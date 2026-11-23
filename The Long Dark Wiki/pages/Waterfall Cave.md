@@ -1,6 +1,6 @@
 # Waterfall Cave
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Waterfall_Cave)
+**Categories:** Caves, Locations, Locations in Timberwolf Mountain, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Waterfall_Cave)
 
 **Waterfall Cave**
 
@@ -9,10 +9,11 @@
 |  | [Waterfall cave](../assets/Waterfall_cave.jpg) |
 | **Location** |  |
 |  | [Waterfall Cave Location](../assets/Waterfall_Cave_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Adjacent to [Eric's Falls](./Eric%27s%20Falls.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Waterfall Cave** is a location adjacent to [Eric's Falls](./Eric%27s%20Falls.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

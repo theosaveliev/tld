@@ -10,6 +10,8 @@
 
 ![Unpowered](../assets/Keypad_Unpowered.jpg)
 
+|
+
 Story item
 
 Yes

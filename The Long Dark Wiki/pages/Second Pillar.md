@@ -1,6 +1,6 @@
 # Second Pillar
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Second_Pillar)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Second_Pillar)
 
 **Second Pillar**
 
@@ -9,10 +9,12 @@
 |  | [Second Pillar](../assets/Second_Pillar.jpg) |
 | **Location** |  |
 |  | [Second Pillar Location](../assets/Second_Pillar_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A rope climbing section near [Weather Station](./Weather%20Station.md) |
 | **General** |  |
-|  | Has no shelter **Second Pillar** is a location reached after crossing [Perilous Crossing](./Perilous%20Crossing.md) in [Sundered Pass](./Sundered%20Pass.md). |
+|  | Has no shelter |
+
+**Second Pillar** is a location reached after crossing [Perilous Crossing](./Perilous%20Crossing.md) in [Sundered Pass](./Sundered%20Pass.md).
 
 ## Overview
 

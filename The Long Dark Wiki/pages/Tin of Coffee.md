@@ -20,7 +20,8 @@ _For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md)._
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | A tin of ground coffee. Who knows how long it's been sitting here? A drink that can take the edge off fatigue, and warm your insides on a cold night. |
 | **Values** |  |

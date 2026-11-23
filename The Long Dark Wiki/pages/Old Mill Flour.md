@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | All purpose flour. A base ingredient in many recipes. |
 | **Values** |  |
 | Weight | 1.50 kg (3.3 lbs) |
 | **Decay Rate** |  |

@@ -1,6 +1,6 @@
 # Frozen Delta
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Delta)
+**Categories:** Locations, Locations in Bleak Inlet, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Delta)
 
 **Frozen Delta**
 
@@ -9,10 +9,12 @@
 |  | [SS BI FrozenDelta003](../assets/SS-BI-FrozenDelta003.jpg) |
 | **Location** |  |
 |  | [Frozen Delta Location](../assets/Frozen_Delta_Location.png) |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Frozen Delta** is an outdoor location in [Bleak Inlet](./Bleak%20Inlet.md). |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Frozen Delta** is an outdoor location in [Bleak Inlet](./Bleak%20Inlet.md).
 
 ## Overview
 

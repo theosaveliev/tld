@@ -1,6 +1,6 @@
 # Long Shot Falls
 
-**Categories:** Locations, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Long_Shot_Falls)
+**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Long_Shot_Falls)
 
 **Long Shot Falls**
 
@@ -9,10 +9,12 @@
 |  | [Long Shot Falls (2)](../assets/Long_Shot_Falls_%282%29.jpg) |
 | **Location** |  |
 |  | [Long Shot Falls Location](../assets/Long_Shot_Falls_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | **General** |  |
-| Type |  |
-|  | Has no shelter **Long Shot Falls** are twin waterfalls located in the lower part of the [Hushed River Valley](./Hushed%20River%20Valley.md). |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Long Shot Falls** are twin waterfalls located in the lower part of the [Hushed River Valley](./Hushed%20River%20Valley.md).
 
 ## Overview
 

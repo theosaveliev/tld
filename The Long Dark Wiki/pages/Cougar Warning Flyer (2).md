@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A flyer with details on Great Bear Island Cougar Activity. |
 | **Values** |  |

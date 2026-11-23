@@ -1,6 +1,6 @@
 # Rural Store
 
-**Categories:** Locations, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rural_Store)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rural_Store)
 
 **Rural Store**
 
@@ -8,11 +8,15 @@
 
 ![Interior](../assets/Rural_store.jpg)
 
+|
+
 **Location**
 
 ![Rural Store Location](../assets/Rural_Store_Location.png)
 
 Region
+
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 Location
 
@@ -27,6 +31,8 @@ A small 2-room convenience store
 Type
 
 ![Bed icon](../assets/Bed_icon.png)
+
+Has an interior
 
 The **Rural Store**, also known as the Rural Gas Station or Thomson's Market, is a small convenience store in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md), across the road from the [Community Hall](./Community%20Hall.md).
 

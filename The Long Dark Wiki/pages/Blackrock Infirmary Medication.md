@@ -10,7 +10,8 @@
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Blues](./Blackrock%20Blues.md) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Vials of morphine and injectable antibiotics. |
 | **Values** |  |

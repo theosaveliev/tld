@@ -9,7 +9,8 @@
 |  | [Bear Quarter icon](../assets/Bear_Quarter_icon.png) |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Section of a Bear carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat. |
 | **Values** |  |

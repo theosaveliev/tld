@@ -1,6 +1,6 @@
 # Obstructed Transit
 
-**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Obstructed_Transit)
+**Categories:** DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Obstructed_Transit)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -22,6 +22,8 @@ _Obstructed\_Transit\_Location.png_
 
 Region
 
+[Port Remnant](./Port%20Remnant.md)
+
 Location
 
 Middle of the region, slightly west, near the tracks
@@ -34,7 +36,11 @@ A train station pickup terminal long fallen into ruin and completely surrounded 
 
 Firebox
 
-Has no shelter **Obstructed Transit** is a location in [Port Remnant](./Port%20Remnant.md).
+[Fire Barrel](./Fire%20Barrel.md)
+
+Has no shelter
+
+**Obstructed Transit** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

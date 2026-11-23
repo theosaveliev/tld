@@ -25,7 +25,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | A traditional trail food based on dried meats. Fortifies physical Condition and resilience. |
 | **Values** |  |

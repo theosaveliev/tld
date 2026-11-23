@@ -4,21 +4,15 @@
 
 **Blackrock Mountain**
 
-![Blackrock Region](../assets/Blackrock_Region.jpg)
-
-**Location**
-
-![Blackrock Mountain Location](../assets/Blackrock_Mountain_Location.png)
-
-Region
-
-Description
-
-A large notable landmark looming over [Blackrock Prison](./Blackrock%20Prison.md)
-
-**General**
-
-Has no shelter
+| Property | Details |
+| --- | --- |
+|  | [Blackrock Region](../assets/Blackrock_Region.jpg) |
+| **Location** |  |
+|  | [Blackrock Mountain Location](../assets/Blackrock_Mountain_Location.png) |
+| Region |  |
+| Description | A large notable landmark looming over [Blackrock Prison](./Blackrock%20Prison.md) |
+| **General** |  |
+|  | Has no shelter |
 
 > “**The dramatic peak dominates the landscape around Blackrock Penitentiary and played a role in establishing the prison's fearsome reputation.**”
 >

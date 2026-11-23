@@ -22,7 +22,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 |  | [Replacement Fuse icon](../assets/Replacement_Fuse_icon.png) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Examine | Electrical fuse. Looks old, but appears to be in working order. |
 | **Values** |  |
 | Weight | 0.2 kg (0.44 lbs) |

@@ -1,6 +1,6 @@
 # Matt's Truck
 
-**Categories:** Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Matt's_Truck)
+**Categories:** Locations, Locations in Desolation Point, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Matt's_Truck)
 
 **Matt's Truck**
 
@@ -9,11 +9,12 @@
 |  | [Matt's Truck](../assets/Matt%27s_Truck.jpg) |
 | **Location** |  |
 |  | [Matt's Truck Location](../assets/Matt%27s_Truck_Location.png) |
-| Region |  |
+| Region | [Desolation Point](./Desolation%20Point.md) |
 | Location | Under a bridge |
 | Description | A truck that has fallen from the roadway |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Matt's Truck** is a named location under a bridge in [Desolation Point](./Desolation%20Point.md).
 

@@ -9,7 +9,8 @@
 |  | [Communication Report icon](../assets/Communication_Report_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A hand-written copy of a message that probably originated from an email. |
 | **Values** |  |

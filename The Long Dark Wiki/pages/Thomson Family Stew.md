@@ -24,7 +24,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No ([Reishi Mushroom](./Reishi%20Mushroom.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A light but satisfying stew made with vegetables. Fresh from the gardens of Pleasant Valley. |
 | **Values** |  |
 | Calories | 900 (1125) kcal |
 | Hydration | 3.0% |

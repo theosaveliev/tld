@@ -25,6 +25,8 @@
 
 ![Doe](../assets/Doe.png)
 
+|
+
 **Basic Information**
 
 Release

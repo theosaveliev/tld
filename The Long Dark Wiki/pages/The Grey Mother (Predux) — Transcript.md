@@ -1,6 +1,6 @@
 # The Grey Mother \(Predux\)/Transcript
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29%2FTranscript)
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29%2FTranscript)
 
 **Contents**
 
@@ -25,7 +25,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Previous | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |
 | Current | The Grey Mother (Predux)/Transcript |

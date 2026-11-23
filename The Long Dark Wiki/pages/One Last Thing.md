@@ -1,6 +1,6 @@
 # One Last Thing
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/One_Last_Thing)
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/One_Last_Thing)
 
 **Contents**
 
@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Grey Mother asks you to deliver Grey Mother's Pearls to the grave of Lilith Barker](../assets/Grey_Mother%27s_Pearls_icon.png) / _Grey Mother asks you to deliver [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to the grave of [Lilith Barker](./Lilith%20Barker.md)_ |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Current | One Last Thing |
 | Region | [Mountain Town](./Mountain%20Town.md) |

@@ -1,6 +1,6 @@
 # Tall Tales
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tall_Tales)
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tall_Tales)
 
 **Contents**
 
@@ -23,7 +23,11 @@
 
 ![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 
+|
+
 Episode
+
+[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Missions**
 

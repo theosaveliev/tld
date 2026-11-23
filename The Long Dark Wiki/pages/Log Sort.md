@@ -1,16 +1,20 @@
 # Log Sort
 
-**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Log_Sort)
+**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Log_Sort)
 
 **Log Sort**
 
 ![Log Sort double story house](../assets/Log_Sort_-_double-story_house.jpg)
+
+|
 
 **Location**
 
 ![Log Sort map](../assets/Log_Sort_map.png)
 
 Region
+
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -24,9 +28,13 @@ A few buildings
 
 Type
 
+Residential
+
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 **Log Sort** is a location by the coast in [Coastal Highway](./Coastal%20Highway.md).
 

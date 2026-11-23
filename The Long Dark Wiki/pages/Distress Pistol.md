@@ -37,7 +37,8 @@
 | Wintermute | yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | A device used to launch an emergency beacon into the air. Fires Flare Shells. |
 | **Values** |  |

@@ -1,6 +1,6 @@
 # Freighthopper's Rockfall
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Freighthopper's_Rockfall)
+**Categories:** Locations, Locations in Far Range Branch Line, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Freighthopper's_Rockfall)
 
 **Freighthopper's Rockfall**
 
@@ -9,7 +9,7 @@
 |  | [Freighthopper's Rockfall Title](../assets/Freighthopper%27s_Rockfall_Title.jpg) |
 | **Location** |  |
 |  | [Freighthopper's Rockfall Location](../assets/Freighthopper%27s_Rockfall_Location.png) |
-| Region |  |
+| Region | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) |
 | Description | Location near the end of Far Range Branch Line |
 | **General** |  |
 |  | Has no shelter |

@@ -1,6 +1,6 @@
 # Revolver
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver)
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver)
 
 **Contents**
 
@@ -39,7 +39,7 @@
 | --- | --- |
 |  | [Revolver icon](../assets/Revolver_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute |  |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Statistics** |  |

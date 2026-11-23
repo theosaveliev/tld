@@ -11,7 +11,8 @@
 | Wintermute | Yes |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Bits of frozen broccoli and something that resembles mashed potatoes is visible under the wrapper. The veggie option never looked so good. |
 | **Values** |  |

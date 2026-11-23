@@ -1,6 +1,6 @@
 # Lake Cave
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Cave)
+**Categories:** Caves, Locations, Locations in Hushed River Valley, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Cave)
 
 **Contents**
 
@@ -19,11 +19,12 @@
 |  | [Lake Cave](../assets/Lake_Cave.jpg) |
 | **Location** |  |
 |  | [Lake Cave Location](../assets/Lake_Cave_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Northeast of [Monolith Lake](./Monolith%20Lake.md) |
 | Description | A small cave on the shore of [Monolith Lake](./Monolith%20Lake.md). |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Lake Cave** is one of the many caves located on the shore of [Monolith Lake](./Monolith%20Lake.md) just behind [Watchful Falls](./Watchful%20Falls.md) and in the northeastern corner of the [Hushed River Valley](./Hushed%20River%20Valley.md).
 

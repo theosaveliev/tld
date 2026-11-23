@@ -12,7 +12,8 @@ _For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%2
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A note describing the location of emergency supplies |
 | **Values** |  |

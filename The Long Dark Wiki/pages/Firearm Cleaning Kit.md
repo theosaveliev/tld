@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | Yes (Rare [Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Compact tool kit used to keep a Rifle or Revolver in good working order. |
 | **Values** |  |

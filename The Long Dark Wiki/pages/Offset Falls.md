@@ -1,6 +1,6 @@
 # Offset Falls
 
-**Categories:** Locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Offset_Falls)
+**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Offset_Falls)
 
 **Offset Falls**
 
@@ -9,11 +9,12 @@
 |  | [20190302003955 1](../assets/20190302003955_1.jpg) |
 | **Location** |  |
 |  | [Offset Falls Location](../assets/Offset_Falls_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Western end of the [Hushed River](./Hushed%20River.md) |
 | Description | Two waterfalls. |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 The **Offset Falls** flow down between rocks into the frozen [Hushed River](./Hushed%20River.md). It's located in the very west of [Hushed River Valley](./Hushed%20River%20Valley.md).
 

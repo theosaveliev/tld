@@ -1,6 +1,6 @@
 # Broken Bridge \(Broken Railroad location\)
 
-**Categories:** Locations, Locations in Broken Railroad · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Bridge_%28Broken_Railroad_location%29)
+**Categories:** Landmarks, Locations, Locations in Broken Railroad, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Bridge_%28Broken_Railroad_location%29)
 
 **Broken Bridge**
 
@@ -9,10 +9,11 @@
 |  | [Broken bridge3](../assets/Broken_bridge3.jpg) |
 | **Location** |  |
 |  | [Broken Bridge Location (Railroad)](../assets/Broken_Bridge_Location_%28Railroad%29.png) |
-| Region |  |
+| Region | [Broken Railroad](./Broken%20Railroad.md) |
 | Location | At the far end of the [railway line](./Trans-Island%20Railway%20Line.md). |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Provides some shelter |
 
 _See also [Broken Bridge (disambiguation)](./Broken%20Bridge%20%28disambiguation%29.md)._
 

@@ -21,7 +21,8 @@
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | yes |
 | Stackable | No |
 | Examine | The Brand is a burning stick that serves as a small torch. Provides a bit of light, and might be useful against wildlife. |
 | **Values** |  |

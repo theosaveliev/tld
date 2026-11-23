@@ -17,7 +17,8 @@
 | Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094) |
 | Wintermute | yes |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | no |
 | Examine | A bottle of Hydrogen Peroxide. Useful for cleaning wounds. |
 | **Values** |  |

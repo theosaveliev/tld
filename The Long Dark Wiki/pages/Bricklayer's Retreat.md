@@ -1,6 +1,6 @@
 # Bricklayer's Retreat
 
-**Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bricklayer's_Retreat)
+**Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bricklayer's_Retreat)
 
 **Bricklayer's Retreat**
 
@@ -14,7 +14,8 @@
 | **General** |  |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Provides some shelter |
 | **Wintermute** |  |
 | Missions | [Blackrock Rumours](./Blackrock%20Rumours.md) |
 

@@ -1,6 +1,6 @@
 # Landslide
 
-**Categories:** Locations, Locations in Broken Railroad · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide)
+**Categories:** Landmarks, Locations, Locations in Broken Railroad, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide)
 
 **Landslide**
 
@@ -8,11 +8,15 @@
 
 ![Back Side](../assets/Landslide.jpg)
 
+|
+
 **Location**
 
 ![Landslide Location](../assets/Landslide_Location.png)
 
 Region
+
+[Broken Railroad](./Broken%20Railroad.md)
 
 Location
 
@@ -25,6 +29,10 @@ A landslide blocking the railroad
 **General**
 
 Type
+
+Landmark
+
+Has no shelter
 
 _This is about the Broken Railroad location. There are other, similarly named locations in the [Hushed River Valley](./Landslide%20%28Hushed%20River%20Valley%29.md) and [Bleak Inlet](./Landslide%20%28Bleak%20Inlet%29.md)._
 

@@ -1,6 +1,6 @@
 # Old Settlement
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Settlement)
+**Categories:** Locations, Locations in Sundered Pass, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Settlement)
 
 **Contents**
 
@@ -18,9 +18,10 @@
 |  | [Old Settlement Close](../assets/Old_Settlement_Close.jpg) |
 | **Location** |  |
 |  | [Old Settlement Location](../assets/Old_Settlement_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A cluster of destroyed and intact buildings along the road in Sundered Pass |
 | **General** |  |
+|  | Provides some shelter |
 
 The **Old Settlement** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
 

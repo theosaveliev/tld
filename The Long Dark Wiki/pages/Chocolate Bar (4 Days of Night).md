@@ -10,7 +10,8 @@
 | Release | [28 October 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.372) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Chocolate and nuts! |
 | **Values** |  |

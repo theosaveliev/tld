@@ -24,7 +24,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A thick-crusted pie overflowing with Rose Hips. |
 | **Values** |  |
 | Calories | 225 (281) kcal |
 | Hydration | 0.0% |

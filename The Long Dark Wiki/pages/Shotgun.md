@@ -25,7 +25,8 @@ This content only appears in [Wintermute](./Wintermute.md).
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | A long barreled, single shot, break action shotgun. Calibrated to fire Slug rounds. A deadly, if slow firing weapon. |
 | **Values** |  |

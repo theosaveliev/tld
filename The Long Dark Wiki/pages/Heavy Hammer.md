@@ -30,7 +30,7 @@
 | --- | --- |
 |  | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md)) |
 | **Statistics** |  |

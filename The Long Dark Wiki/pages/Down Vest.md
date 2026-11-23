@@ -1,6 +1,6 @@
 # Down Vest
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Down_Vest)
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Down_Vest)
 
 **Down Vest**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Down Vest icon](../assets/Down_Vest_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Outer torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

@@ -22,9 +22,11 @@ Release
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)|-
+[Food And Drink](./Food%20And%20Drink.md)
 
 Examine
+
+A giant Bass, larger than life.
 
 **Values**
 

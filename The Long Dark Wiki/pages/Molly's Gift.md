@@ -1,6 +1,6 @@
 # Molly's Gift
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Molly's_Gift)
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -9,7 +9,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Mollys gift](../assets/Mollys_gift.jpg) |
-| Episode |  |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | **Missions** |  |
 | Current | Molly's Gift |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |

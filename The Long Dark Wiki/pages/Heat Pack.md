@@ -26,7 +26,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A single-use, disposable Heat Pack. Provides a small amount of warmth when activated. |
 | **Values** |  |

@@ -1,6 +1,6 @@
 # Wolfskin Coat
 
-**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Coat)
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Coat)
 
 **Contents**
 
@@ -15,9 +15,9 @@
 | --- | --- |
 |  | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| Clothing Slot |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
+| Clothing Slot | Outer torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |

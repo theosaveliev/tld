@@ -9,12 +9,14 @@
 |  | [Dave's quiet clearing](../assets/Dave%27s_quiet_clearing.jpg) |
 | **Location** |  |
 |  | [Dave's Quiet Clearing Location](../assets/Dave%27s_Quiet_Clearing_Location.png) |
-| Region |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Location | South of the [camp office](./Camp%20Office.md). |
 | Description | A cave-like formation with a mostly open roof. |
 | **General** |  |
-| Type |  |
-|  | Has no shelter / **Dave's Quiet Clearing** is location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
+| Type | Outdoors |
+|  | Has no shelter |
+
+**Dave's Quiet Clearing** is location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

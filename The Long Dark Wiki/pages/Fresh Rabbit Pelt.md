@@ -18,7 +18,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested rabbit pelt. / Can be used for crafting and repairs after air-drying indoors for 3 days. |
 | **Values** |  |

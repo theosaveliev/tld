@@ -10,7 +10,8 @@
 | Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A sturdier Backpack with all the bells and whistles. You can carry more gear before becoming Encumbered. |
 | **Values** |  |

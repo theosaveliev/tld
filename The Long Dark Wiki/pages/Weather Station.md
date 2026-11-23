@@ -1,6 +1,6 @@
 # Weather Station
 
-**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Weather_Station)
+**Categories:** Indoor locations, Locations, Locations in Sundered Pass, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Weather_Station)
 
 **Contents**
 
@@ -16,9 +16,10 @@
 |  | [Main Menu Weather Station](../assets/Main_Menu_Weather_Station.jpg) |
 | **Location** |  |
 |  | [Weather Station Location](../assets/Weather_Station_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | **General** |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 **Weather Station** is a location in [Sundered Pass](./Sundered%20Pass.md), not far from [Second Pillar](./Second%20Pillar.md).
 

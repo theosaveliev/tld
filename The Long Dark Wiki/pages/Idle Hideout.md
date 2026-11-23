@@ -1,6 +1,6 @@
 # Idle Hideout
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Idle_Hideout)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Idle_Hideout)
 
 **Idle Hideout**
 
@@ -9,9 +9,10 @@
 |  | [Idle Hideout](../assets/Idle_Hideout.jpg) |
 | **Location** |  |
 |  | [Idle Hideout Location](../assets/Idle_Hideout_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A cave entrance located far below the destroyed bridge leading to the [Weather Station](./Weather%20Station.md) |
 | **General** |  |
+|  | Has no shelter |
 
 **Idle Hideout** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

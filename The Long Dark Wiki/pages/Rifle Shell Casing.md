@@ -1,6 +1,6 @@
 # Rifle Shell Casing
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 
 **Rifle Shell Casing**
 
@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) no (Interloper) |
 | **Statistics** |  |

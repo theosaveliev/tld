@@ -1,6 +1,6 @@
 # Mackenzie's Crashed Plane
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane)
+**Categories:** Landmarks, Locations, Locations in Mountain Town, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane)
 
 **Contents**
 
@@ -17,12 +17,13 @@
 |  | [The wreckage of the plane](../assets/Plane.jpg) |
 | **Location** |  |
 |  | [Mackenzie's Crashed Plane Location](../assets/Mackenzie%27s_Crashed_Plane_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | Mountains above [Milton](./Milton.md) |
 | Description | Mackenzie's Crashed Plane |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter |
 | **Wintermute** |  |
 | Missions | [Episode 1: Chapter 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_One) |
 

@@ -1,6 +1,6 @@
 # Doubter's Retreat
 
-**Categories:** Locations, Perseverance Wilds · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Doubter's_Retreat)
+**Categories:** Indoor locations, Locations, Locations in Perseverance Wilds, Perseverance Wilds, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Doubter's_Retreat)
 
 **Doubter's Retreat**
 
@@ -8,11 +8,12 @@
 | --- | --- |
 |  | [Doubter's Retreat](../assets/Doubter%27s_Retreat.jpg) |
 | **Location** |  |
-| Region |  |
+| Region | [Perseverance Wilds](./Perseverance%20Wilds.md) |
 | Description | A secluded cabin with a pier, boat shack, and fishing hut near the edge of the the sea |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Doubter's Retreat** is a location in [Perseverance Wilds](./Perseverance%20Wilds.md).
 

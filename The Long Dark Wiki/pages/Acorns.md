@@ -24,7 +24,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Nuts from an Oak Tree. Prepare the Acorns to remove their leathery shell prior to Cooking. |
 | **Values** |  |

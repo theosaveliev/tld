@@ -1,6 +1,6 @@
 # Toaster
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toaster)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toaster)
 
 **Toaster**
 
@@ -9,7 +9,7 @@
 |  | [Toaster](../assets/Toaster.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Harvest | 1 x [Scrap Metal](./Scrap%20Metal.md) |
 

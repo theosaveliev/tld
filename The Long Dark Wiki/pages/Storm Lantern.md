@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Storm Lantern icon](../assets/Storm_Lantern_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |

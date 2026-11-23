@@ -1,6 +1,6 @@
 # Route One Waterfall
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Route_One_Waterfall)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Route_One_Waterfall)
 
 **Route One Waterfall**
 
@@ -9,9 +9,10 @@
 |  | [Route One Waterfall](../assets/Route_One_Waterfall.jpg) |
 | **Location** |  |
 |  | [Route One Waterfall Location](../assets/Route_One_Waterfall_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A frozen waterfall below the [Cascading Gap](./Cascading%20Gap.md) bridge |
 | **General** |  |
+|  | Has no shelter |
 
 **Route One Waterfall** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

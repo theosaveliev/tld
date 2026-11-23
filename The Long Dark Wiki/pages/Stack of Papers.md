@@ -1,6 +1,6 @@
 # Stack of Papers
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
 
 **Stack of Papers**
 
@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Fire Starting |
 | Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |

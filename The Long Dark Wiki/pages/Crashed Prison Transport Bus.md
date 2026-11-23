@@ -1,6 +1,6 @@
 # Crashed Prison Transport Bus
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
+**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
 
 **Crashed Prison Transport Bus**
 
@@ -8,13 +8,15 @@
 
 ![Tunnel Collapse](../assets/Tunnel_Collapse.png)
 
-250px|Will approaches the bus\]\]
+|250px|Will approaches the bus\]\]
 
 **Location**
 
 ![Crashed Prison Transport Bus Location](../assets/Crashed_Prison_Transport_Bus_Location.png)
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -27,6 +29,10 @@ A collapsed tunnel and crashed bus
 **General**
 
 Type
+
+Outdoors
+
+Has no shelter
 
 **Wintermute**
 

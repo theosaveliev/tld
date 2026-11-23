@@ -19,7 +19,8 @@
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Examine | Reishi Mushroom tea boosts the immune system and demonstrates antibiotic-like behaviour. |
 | **Values** |  |
 | Calories | 100 kcal |
 | Hydration | 30% |

@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Improvised Hand Wraps icon](../assets/Improvised_Hand_Wraps_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Hands |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
@@ -41,7 +41,7 @@ Crafting the hand wraps takes about 37 minutes and requires 4 pieces of [Cloth](
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Cloth](./Cloth.md)
 

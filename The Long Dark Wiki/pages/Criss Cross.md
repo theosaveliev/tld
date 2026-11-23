@@ -1,6 +1,6 @@
 # Criss Cross
 
-**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Criss_Cross)
+**Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 2, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Criss_Cross)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -15,10 +15,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Criss Cross](../assets/Criss_Cross.jpg) |
 | **Location** |  |
 |  | [Criss Cross Location](../assets/Criss_Cross_Location.png) |
-| Region |  |
+| Region | [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) |
 | Location | Middle of the map |
 | Description | 2 sets of train tracks with track switchers |
 | **General** |  |
+|  | Has no shelter |
 
 **Criss Cross** is a location in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 

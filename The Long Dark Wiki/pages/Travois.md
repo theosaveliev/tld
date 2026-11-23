@@ -21,7 +21,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | No |
 | Examine | A timeless and efficient way to drag loads over long distances. Take care to remember there are some places a Travois can't travel. Can be collapsed for convenient carrying, when empty. |
 | **Values** |  |

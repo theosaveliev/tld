@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | yes |
 | Examine | Reclaimed wood (from broken furniture, wooden structures, etc.) |
 | **Values** |  |

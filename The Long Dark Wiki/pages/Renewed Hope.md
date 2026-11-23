@@ -1,13 +1,13 @@
 # Renewed Hope
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope)
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope)
 
 **Renewed Hope**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
 | Current | Renewed Hope |

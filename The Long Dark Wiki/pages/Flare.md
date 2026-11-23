@@ -1,6 +1,6 @@
 # Flare
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flare)
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flare)
 
 **Contents**
 
@@ -18,10 +18,10 @@
 | --- | --- |
 |  | [Flare icon](../assets/Flare_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
-| Firestarting Slot |  |
+| Firestarting Slot | Starter |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |

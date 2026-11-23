@@ -1,6 +1,6 @@
 # Cooper's Blind
 
-**Categories:** Locations, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cooper's_Blind)
+**Categories:** Indoor locations, Locations, Locations in Perseverance Mills, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cooper's_Blind)
 
 **Contents**
 
@@ -15,11 +15,12 @@
 | --- | --- |
 |  | [Cooper's Blind](../assets/Cooper%27s_Blind.jpg) |
 | **Location** |  |
-| Region |  |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) |
 | Description | The local bar of Perseverance Mills. |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Cooper's Blind** is a location found in [Perseverance Mills](./Perseverance%20Mills.md). The bar is owned and run by [Cooper](./Cooper.md), and serves as one of the few explorable locations of the town.
 

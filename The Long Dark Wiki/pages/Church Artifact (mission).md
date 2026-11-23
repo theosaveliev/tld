@@ -1,6 +1,6 @@
 # Church Artifact \(mission\)
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Church_Artifact_%28mission%29)
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Church_Artifact_%28mission%29)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -9,7 +9,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The artifact](../assets/Church_Artifact_icon.png) |
-| Episode |  |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | **Missions** |  |
 | Current | Church Artifact (mission) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |

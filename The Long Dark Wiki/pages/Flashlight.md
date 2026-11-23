@@ -1,6 +1,6 @@
 # Flashlight
 
-**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flashlight)
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flashlight)
 
 **Contents**
 
@@ -18,8 +18,8 @@
 | --- | --- |
 |  | [Flashlight icon](../assets/Flashlight_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) |

@@ -1,6 +1,6 @@
 # Metal Pan
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Pan)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Pan)
 
 **Metal Pan**
 
@@ -9,7 +9,7 @@
 |  | [Metal Pan](../assets/Metal_Pan.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Harvest | 15 minutes 1 x [Scrap Metal](./Scrap%20Metal.md) |
 

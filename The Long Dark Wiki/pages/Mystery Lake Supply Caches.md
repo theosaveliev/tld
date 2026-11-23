@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 |  | [One of the hidden supply caches.](../assets/Bloodied_note.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Current | Mystery Lake Supply Caches |
 | Next | [Aurora Hatch](./Aurora%20Hatch.md) |

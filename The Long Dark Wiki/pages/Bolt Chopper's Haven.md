@@ -1,6 +1,6 @@
 # Bolt Chopper's Haven
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bolt_Chopper's_Haven)
+**Categories:** Caves, Locations, Locations in Sundered Pass, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bolt_Chopper's_Haven)
 
 **Bolt Chopper's Haven**
 
@@ -9,11 +9,12 @@
 |  | [Bolt Choppers Haven](../assets/Bolt_Choppers_Haven.jpg) |
 | **Location** |  |
 |  | [Bolt Chopper's Haven Location](../assets/Bolt_Chopper%27s_Haven_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | A cave located down the slope across the tree bridge from Reluctant Shortcut |
 | Description | A cave in the mountain |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Bolt Chopper's Haven** is a small unmarked cave located in [Sundered Pass](./Sundered%20Pass.md). It is located west of [Final Refuge](./Final%20Refuge.md) on the rock plateau, or north of the Red Broken Bridge leading to the [Weather Station](./Weather%20Station.md). Heading north across the nearby tree bridge leads to [Reluctant Shortcut](./Reluctant%20Shortcut.md) and the [Abandoned Mine](./Abandoned%20Mine.md).
 

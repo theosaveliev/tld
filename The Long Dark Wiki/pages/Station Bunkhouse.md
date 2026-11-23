@@ -1,6 +1,6 @@
 # Station Bunkhouse
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Station_Bunkhouse)
+**Categories:** Indoor locations, Locations, Locations in Sundered Pass · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Station_Bunkhouse)
 
 **Station Bunkhouse**
 
@@ -8,10 +8,11 @@
 | --- | --- |
 |  | [The Bunkhouse next to the Radar dome](../assets/Weather_Station_radar_and_bunkhouse_small.png) |
 | **Location** |  |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | **General** |  |
-| Firebox |  |
+| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Station Bunkhouse** is an unmarked building in [Sundered Pass](./Sundered%20Pass.md) at the [Weather Station](./Weather%20Station.md). It is one of 3 buildings located there, along with a storage shed and the radar dome. It contains a Bunk [Bed](./Bed.md), a [Pot Belly Stove](./Pot%20Belly%20Stove.md), a [Medicine Shelf](./Medicine%20Shelf.md), and can spawn a [Prybar](./Prybar.md).
 

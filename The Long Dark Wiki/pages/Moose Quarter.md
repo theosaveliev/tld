@@ -9,7 +9,8 @@
 |  | [Moose Quarter icon](../assets/Moose_Quarter_icon.png) |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | Section of a Moose carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat. |
 | **Values** |  |
 | Weight | 10.00 kg (22 lbs) |
 | **Decay Rate** |  |

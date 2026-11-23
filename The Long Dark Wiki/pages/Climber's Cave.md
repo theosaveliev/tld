@@ -1,6 +1,6 @@
 # Climber's Cave
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Climber's_Cave)
+**Categories:** Caves, Locations, Locations in Ash Canyon, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Climber's_Cave)
 
 **Contents**
 
@@ -19,9 +19,10 @@
 |  | [20201212011633 1](../assets/20201212011633_1.jpg) |
 | **Location** |  |
 |  | [Climber's Cave Location](../assets/Climber%27s_Cave_Location.png) |
-| Region |  |
+| Region | [Ash Canyon](./Ash%20Canyon.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Climber's Cave** is a small cave between [Pillar's Footrest](./Pillar%27s%20Footrest.md) and [High Meadows](./High%20Meadow.md).
 

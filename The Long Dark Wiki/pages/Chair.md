@@ -17,6 +17,8 @@
 
 ![Stool](../assets/Stool.png)
 
+|
+
 **General**
 
 Item Type

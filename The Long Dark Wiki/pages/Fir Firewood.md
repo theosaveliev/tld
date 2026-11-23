@@ -20,7 +20,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | yes |
 | Examine | While not technically a hardwood, fir burns like one. |
 | **Values** |  |

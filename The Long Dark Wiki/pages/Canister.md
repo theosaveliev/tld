@@ -11,7 +11,8 @@
 | Wintermute | yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Disposable filters for the Respirator. |
 | **Values** |  |

@@ -21,6 +21,8 @@
 
 ![Extra Large](../assets/MetalShelfExtraLarge.jpg)
 
+|
+
 **General**
 
 Item Type

@@ -1,6 +1,6 @@
 # Baneful Bridge
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Baneful_Bridge)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Baneful_Bridge)
 
 **Baneful Bridge**
 
@@ -9,9 +9,10 @@
 |  | [Baneful Bridge](../assets/Baneful_Bridge.jpg) |
 | **Location** |  |
 |  | [Baneful Bridge Location](../assets/Baneful_Bridge_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | A small wooden bridge on the mountain road |
 | **General** |  |
+|  | Has no shelter |
 
 **Baneful Bridge** is a location in [Sundered Pass](./Sundered%20Pass.md) near Refuge Cabin A, [Lotte's Rest](./Lotte%27s%20Rest.md), while following the southern section of the main mountain road. [Ptarmigan](./Ptarmigan.md) can sometimes be found between the bridge and the cabin, along with a ravaged [Deer Carcass](./Deer%20Carcass.md).
 

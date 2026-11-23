@@ -1,6 +1,6 @@
 # Silent Clearing
 
-**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Silent_Clearing)
+**Categories:** Locations, Locations in Coastal Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Silent_Clearing)
 
 **Silent Clearing**
 
@@ -9,10 +9,11 @@
 |  | [Silent Clearing](../assets/Silent_Clearing.jpg) |
 | **Location** |  |
 |  | [Silent Clearing Location](../assets/Silent_Clearing_Location.png) |
-| Region |  |
+| Region | [Coastal Highway](./Coastal%20Highway.md) |
 | Location | Northeast of [Coastal Townsite](./Coastal%20Townsite.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Silent Clearing** is a location in [Coastal Highway](./Coastal%20Highway.md).
 

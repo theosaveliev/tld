@@ -1,6 +1,6 @@
 # The Grey Mother \(Predux\)
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29)
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29)
 
 **Contents**
 
@@ -19,7 +19,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
-| Episode |  |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Missions** |  |
 | Previous | [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) |
 | Current | The Grey Mother (Predux) |

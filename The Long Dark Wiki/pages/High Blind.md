@@ -1,6 +1,6 @@
 # High Blind
 
-**Categories:** Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Blind)
+**Categories:** Locations, Locations in Forlorn Muskeg, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Blind)
 
 **High Blind**
 
@@ -9,9 +9,10 @@
 |  | [Forlorn Muskleg High Blind](../assets/Forlorn_Muskleg_High_Blind.jpg) |
 | **Location** |  |
 |  | [High Blind Location](../assets/High_Blind_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **High Blind** is a location in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

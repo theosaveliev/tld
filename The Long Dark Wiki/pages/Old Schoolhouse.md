@@ -1,6 +1,6 @@
 # Old Schoolhouse
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Schoolhouse)
+**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Schoolhouse)
 
 **Old Schoolhouse**
 
@@ -9,11 +9,12 @@
 |  | [Milton's Old Schoolhouse.](../assets/TLD-SSb-MT-Oldschool.jpg) / _[Milton](./Milton.md)'s Old Schoolhouse._ |
 | **Location** |  |
 |  | [Old Schoolhouse Location](../assets/Old_Schoolhouse_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | Behind the [Milton Credit Union](./Milton%20Credit%20Union.md) |
 | Description | A destroyed schoolhouse |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 The **Old Schoolhouse** is a named location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region, found behind the [Milton Credit Union](./Milton%20Credit%20Union.md).
 

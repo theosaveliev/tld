@@ -29,6 +29,8 @@
 
 ![Hushed River Valley title card](../assets/Hushed_River_Valley_title_card.png)
 
+|
+
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
 ![Hushed River Valley Location](../assets/Hushed_River_Valley_Location.png)

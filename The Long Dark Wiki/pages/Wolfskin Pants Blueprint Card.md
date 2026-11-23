@@ -9,7 +9,8 @@
 |  | [Wolfskin Pants Blueprint Card icon](../assets/Wolfskin_Pants_Blueprint_Card_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Instructions for Crafting a pair of Wolfskin Pants. |
 | **Values** |  |

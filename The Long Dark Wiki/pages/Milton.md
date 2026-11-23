@@ -1,6 +1,6 @@
 # Milton
 
-**Categories:** Locations, Locations in Mountain Town, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton)
 
 **Contents**
 
@@ -19,13 +19,14 @@
 |  | [Milton](../assets/Milton.jpg) |
 | **Location** |  |
 |  | [Milton Location](../assets/Milton_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Sublocations | [Milton House](./Milton%20House.md) / [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) / [Milton Credit Union](./Milton%20Credit%20Union.md) / [Milton Post Office](./Milton%20Post%20Office.md) / [Old Schoolhouse](./Old%20Schoolhouse.md) / [Bank Manager's House](./Bank%20Manager%27s%20House.md) |
 | Description | A small town nestled in the mountains |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 | **Wintermute** |  |
 | Characters | [Grey Mother](./Grey%20Mother.md) |
 

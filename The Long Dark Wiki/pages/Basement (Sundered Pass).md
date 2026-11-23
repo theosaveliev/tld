@@ -1,6 +1,6 @@
 # Basement \(Sundered Pass\)
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Basement_%28Sundered_Pass%29)
+**Categories:** Indoor locations, Locations, Locations in Sundered Pass · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Basement_%28Sundered_Pass%29)
 
 **Basement (Sundered Pass)**
 
@@ -8,10 +8,11 @@
 | --- | --- |
 |  | [Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg) |
 | **Location** |  |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A basement located below [Old Settlement](./Old%20Settlement.md) |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Basement (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
 

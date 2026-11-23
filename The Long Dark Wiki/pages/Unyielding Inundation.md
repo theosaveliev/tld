@@ -1,6 +1,6 @@
 # Unyielding Inundation
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Unyielding_Inundation)
+**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Unyielding_Inundation)
 
 **Unyielding Inundation**
 
@@ -9,9 +9,11 @@
 |  | [Unyielding Inundation](../assets/Unyielding_Inundation.jpg) |
 | **Location** |  |
 |  | [Unyielding Inundation Location](../assets/Unyielding_Inundation_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | **General** |  |
-|  | Has no shelter / **Unyielding Inundation** is a location in [Sundered Pass](./Sundered%20Pass.md) just up the road from [Final Refuge](./Final%20Refuge.md). |
+|  | Has no shelter |
+
+**Unyielding Inundation** is a location in [Sundered Pass](./Sundered%20Pass.md) just up the road from [Final Refuge](./Final%20Refuge.md).
 
 ## Overview
 

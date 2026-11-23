@@ -1,6 +1,6 @@
 # Improvised Knife
 
-**Categories:** Craftable tools, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Knife)
+**Categories:** Craftable tools, Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Knife)
 
 **Contents**
 
@@ -15,8 +15,8 @@
 | --- | --- |
 |  | [Improvised Knife icon](../assets/Improvised_Knife_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |

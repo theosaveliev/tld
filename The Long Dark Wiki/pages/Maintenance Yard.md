@@ -1,6 +1,6 @@
 # Maintenance Yard
 
-**Categories:** Locations, Locations in Broken Railroad, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Maintenance_Yard)
+**Categories:** Indoor locations, Industrial locations, Locations, Locations in Broken Railroad, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Maintenance_Yard)
 
 **Maintenance Yard**
 
@@ -9,14 +9,16 @@
 |  | [Maintenance yard building](../assets/Maintenance_yard_building.jpg) |
 | **Location** |  |
 |  | [Maintenance Yard Location](../assets/Maintenance_Yard_Location.png) |
-| Region |  |
+| Region | [Broken Railroad](./Broken%20Railroad.md) |
 | Location | North-east of the [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md) |
 | Description | A large indoor maintenance yard and office |
 | **General** |  |
-| Type |  |
-| Firebox |  |
+| Type | Industrial |
+| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 | **Wintermute** |  |
 | Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle?) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense) |
 

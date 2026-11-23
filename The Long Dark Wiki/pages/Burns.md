@@ -8,6 +8,8 @@
 
 ![Electrical](../assets/Burns_%28electric%29_icon.png)
 
+|
+
 **Properties**
 
 Caused By

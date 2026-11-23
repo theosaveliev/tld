@@ -1,6 +1,6 @@
 # Whealy's Turn
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whealy's_Turn)
+**Categories:** Locations, Locations in Forsaken Airfield, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whealy's_Turn)
 
 **Whealy's Turn**
 
@@ -9,9 +9,11 @@
 |  | [Whealy's Turn](../assets/Whealy%27s_Turn.jpg) |
 | **Location** |  |
 |  | [Whealey's Turn Location](../assets/Whealey%27s_Turn_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | **General** |  |
-|  | Has no shelter / **Whealy's Turn** is an unmarked location in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md). |
+|  | Has no shelter |
+
+**Whealy's Turn** is an unmarked location in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md).
 
 ## Overview
 

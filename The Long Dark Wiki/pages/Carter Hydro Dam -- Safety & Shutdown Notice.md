@@ -10,7 +10,8 @@
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Official looking notice, written on Carter Hydro Dam letterhead. The letter is damaged and some of the words are hard to make out. It is dated from some time in the 1990s, although the exact date is illegible. |
 | **Values** |  |

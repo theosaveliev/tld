@@ -1,6 +1,6 @@
 # Metal Pail
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Pail)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Pail)
 
 **Metal Pail**
 
@@ -9,7 +9,7 @@
 |  | [MetalPail](../assets/MetalPail.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 A **Metal Pail** is an interactable object that can be harvested. A [Hacksaw](./Hacksaw.md) can be used to harvest 1 [Scrap Metal](./Scrap%20Metal.md) after 15 minutes of sawing. They are often found near homes and industrial areas.
 

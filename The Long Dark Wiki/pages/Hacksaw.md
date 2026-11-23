@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Hacksaw icon](../assets/Hacksaw_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |

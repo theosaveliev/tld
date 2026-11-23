@@ -19,6 +19,8 @@
 
 ![Small Table](../assets/WoodenBenchTable.jpg)
 
+|
+
 **General**
 
 Item Type

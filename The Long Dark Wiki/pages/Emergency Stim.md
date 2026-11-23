@@ -22,7 +22,8 @@
 | Wintermute | No |
 | Renewable | Yes ( [Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) No ([Interloper](./Interloper.md)) |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | yes |
 | Stackable | No |
 | Examine | Emergency steroid injection. Will provide a short-burst of energy. Then you'll collapse from exhaustion. Use as last resort! |
 | **Values** |  |

@@ -1,6 +1,6 @@
 # Cave \(Timberwolf Mountain location 2\)
 
-**Categories:** Article stubs, Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Timberwolf_Mountain_location_2%29)
+**Categories:** Article stubs, Caves, Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Timberwolf_Mountain_location_2%29)
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cave+%28Timberwolf+Mountain+location+2%29&action=edit expanding it].**
 
@@ -8,13 +8,21 @@
 
 ![Cave (Timberwolf Mountain location 2)](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg)
 
+|
+
 **Location**
 
 Region
 
+[Timberwolf Mountain](./Timberwolf%20Mountain.md)
+
 **General**
 
 Type
+
+Cave
+
+Has no shelter
 
 _This page is for one of the two generically named caves in Timberwolf Mountain. For a list of caves, see [Cave (disambiguation)](./Cave%20%28disambiguation%29.md)._
 

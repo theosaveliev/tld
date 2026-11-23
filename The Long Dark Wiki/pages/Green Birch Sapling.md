@@ -18,7 +18,8 @@
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested birch sapling. Needs to be cured before it can be used for crafting and repair. / Can be used for crafting and repair after air-drying indoors for 4 days. |
 | **Values** |  |

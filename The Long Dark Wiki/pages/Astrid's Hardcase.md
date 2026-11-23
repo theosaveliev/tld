@@ -1,6 +1,6 @@
 # Astrid's Hardcase
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
+**Categories:** Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
 
 **Contents**
 
@@ -19,7 +19,7 @@
 |  | [Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0 kg(0 lbs) |
 

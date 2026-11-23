@@ -1,6 +1,6 @@
 # Langston Mine
 
-**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Langston_Mine)
+**Categories:** Indoor locations, Locations, Locations in Zone of Contamination, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Langston_Mine)
 
 **Contents**
 
@@ -21,10 +21,11 @@
 |  | [Langston Mine Outside Buildings](../assets/Langston_Mine_Outside_Buildings.png) |
 | **Location** |  |
 |  | [Langston Mine Location](../assets/Langston_Mine_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 The **Langston Mine** is a massive mineshaft tunnel system built by the Langston Mining Corporation found within the [Zone of Contamination](./Zone%20of%20Contamination.md). Originally a coal mine, it is a hybrid of open pit and large sprawling horizontal underground tunnels that are spread over the center of the Zone, and the source of the Zone's chemical contamination after the mine was converted into a uranium mine. It is one of six locations where a survivor can escape contracting [Insomnia](./Insomnia.md) from [Glimmer Fog](./Glimmer%20Fog.md). It is also the centerpiece of the [Buried Echoes](./Buried%20Echoes.md) Tale.
 

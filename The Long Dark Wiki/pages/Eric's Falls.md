@@ -1,6 +1,6 @@
 # Eric's Falls
 
-**Categories:** Locations, Locations in Timberwolf Mountain, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Eric's_Falls)
+**Categories:** Landmarks, Locations, Locations in Timberwolf Mountain, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Eric's_Falls)
 
 **Eric's Falls**
 
@@ -9,9 +9,10 @@
 |  | [Erics falls](../assets/Erics_falls.jpg) |
 | **Location** |  |
 |  | [Eric's Falls Location](../assets/Eric%27s_Falls_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 **Eric's Falls** is located below the [Summit](./Summit.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md). The location consists of a large waterfall and is adjacent to the [Waterfall Cave](./Waterfall%20Cave.md).
 

@@ -22,6 +22,8 @@
 
 ![Coal](../assets/Wood_crate_%28small%29.jpg)
 
+|
+
 **General**
 
 Item Type

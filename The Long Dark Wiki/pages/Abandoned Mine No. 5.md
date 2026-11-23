@@ -1,6 +1,6 @@
 # Abandoned Mine No\. 5
 
-**Categories:** Articles in need of images, Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Mine_No._5)
+**Categories:** Articles in need of images, Caves, Indoor locations, Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Mine_No._5)
 
 **Abandoned Mine No. 5**
 
@@ -8,15 +8,23 @@
 
 ![East Access](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg)
 
+|
+
 **Location**
 
 ![Abandoned Mine No. 5 Location](../assets/Abandoned_Mine_No._5_Location.png)
 
 Region
 
+[Desolation Point](./Desolation%20Point.md)
+
 **General**
 
 Type
+
+Cave
+
+Has an interior
 
 **Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Abandoned+Mine+No.+5&action=edit adding it to the article].**
 

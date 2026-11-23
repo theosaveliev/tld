@@ -33,13 +33,20 @@
 
 ![Key 2](../assets/Mementos_Key_2_icon.png)
 
+|
+
 **Properties**
 
 Item type
 
-[Collectibles](./Collectibles.md)|-
+[Collectibles](./Collectibles.md)
 
 Examine
+
+"A note with a survival hint."  
+ "A Memento with a survival hint."
+
+"A key to a Lockbox."
 
 **Actions**
 

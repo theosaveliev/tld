@@ -22,7 +22,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [Risk of Infection](./Risk%20of%20Infection.md) |
 | Current | You Fix My Rifle? |

@@ -27,7 +27,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | No, [Trader](./Trader.md) requires unrenewable item |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A durable, heavy Knife with a finely-honed edge. Excels at Harvesting meat from frozen carcasses. |
 | **Values** |  |

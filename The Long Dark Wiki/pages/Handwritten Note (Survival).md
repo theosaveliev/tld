@@ -9,7 +9,8 @@
 |  | [Handwritten Note (Survival) icon](../assets/Handwritten_Note_%28Survival%29_icon.png) |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.98) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A loose leaf of paper with handwriting scrawled on it. |
 | **Values** |  |

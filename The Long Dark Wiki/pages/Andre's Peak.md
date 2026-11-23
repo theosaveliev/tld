@@ -1,6 +1,6 @@
 # Andre's Peak
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Andre's_Peak)
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Andre's_Peak)
 
 **Andre's Peak**
 
@@ -9,11 +9,12 @@
 |  | [Andres peak](../assets/Andres_peak.jpg) |
 | **Location** |  |
 |  | [Andre's Peak Location](../assets/Andre%27s_Peak_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Adjacent to [Engine](./Engine%20%28East%29.md) |
 | Description | A small area on the top of a hill |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **Andre's Peak** lies close to [Engine (West)](./Engine%20%28West%29.md).
 

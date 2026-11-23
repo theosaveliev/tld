@@ -17,7 +17,8 @@
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | yes |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | yes |
 | Stackable | No |
 | Examine | Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function. |
 | **Values** |  |

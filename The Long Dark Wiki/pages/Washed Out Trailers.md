@@ -1,6 +1,6 @@
 # Washed Out Trailers
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Washed_Out_Trailers)
+**Categories:** Indoor locations, Locations, Locations in Bleak Inlet · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Washed_Out_Trailers)
 
 **Washed Out Trailers**
 
@@ -9,10 +9,11 @@
 |  | [SS BI WashedOut01](../assets/SS-BI-WashedOut01.jpg) |
 | **Location** |  |
 |  | [Washed Out Trailers Location](../assets/Washed_Out_Trailers_Location.png) |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | north of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Washed Out Trailers** are a group of two trailers located a short distance northwest of the [Last Resort Cannery](./Last%20Resort%20Cannery.md). One of the trailers can be entered, while the other is wrecked.
 

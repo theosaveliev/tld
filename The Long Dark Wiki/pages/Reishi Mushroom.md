@@ -20,7 +20,8 @@
 | Wintermute | Yes |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | A large, edible shelf mushroom, found mainly on coniferous trees. |
 | **Values** |  |

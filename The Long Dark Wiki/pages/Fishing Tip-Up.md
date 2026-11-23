@@ -20,7 +20,8 @@
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Leave at an ice fishing hole to catch fish unattended. Can also be set with Bait or a Lure. |
 | **Values** |  |

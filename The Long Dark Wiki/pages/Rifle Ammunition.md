@@ -17,6 +17,8 @@
 
 ![Cartridge](../assets/Rifle_Cartridge_icon.png)
 
+|
+
 **General**
 
 Item Type

@@ -17,7 +17,8 @@
 | Release | [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested leather. / Can be used for crafting and repair after air-drying indoors for 5 days. |
 | **Values** |  |

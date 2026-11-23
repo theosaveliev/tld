@@ -6,15 +6,21 @@
 
 ![Bear Creek Campground 01](../assets/Bear_Creek_Campground_01.jpg)
 
+|
+
 **Location**
 
 ![Bear Creek Campground map](../assets/Bear_Creek_Campground_map.png)
 
 Region
 
+[Coastal Highway](./Coastal%20Highway.md)
+
 **General**
 
 Type
+
+Outdoors
 
 Has no shelter
 

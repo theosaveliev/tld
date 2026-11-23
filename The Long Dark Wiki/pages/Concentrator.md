@@ -1,6 +1,6 @@
 # Concentrator
 
-**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Concentrator)
+**Categories:** Indoor locations, Locations, Locations in Zone of Contamination, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Concentrator)
 
 **Concentrator**
 
@@ -9,12 +9,13 @@
 |  | [Concentrator](../assets/Concentrator.png) |
 | **Location** |  |
 |  | [Concentrator Location](../assets/Concentrator_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Description | A massive building on top of [Langston Mine](./Langston%20Mine.md) |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 The [Concentrator](./Concentrator.md) is the largest building in the [Zone of Contamination](./Zone%20of%20Contamination.md), and the largest artificial structure found on [Great Bear Island](./Great%20Bear%20Island.md), eclipsing even the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) in scale.
 

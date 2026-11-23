@@ -1,6 +1,6 @@
 # Pleasant Valley Outbuildings
 
-**Categories:** Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Outbuildings)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Outbuildings)
 
 **Pleasant Valley Outbuildings**
 
@@ -9,11 +9,12 @@
 |  | [305620 20160918104124 1](../assets/305620_20160918104124_1.png) |
 | **Location** |  |
 |  | [Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png) |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | **General** |  |
-| Firebox |  |
+| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 _Not to be confused with [Molly's Barn](./Barn%20%28Molly%27s%29.md)._
 

@@ -1,6 +1,6 @@
 # Milton House
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_House)
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_House)
 
 **Contents**
 
@@ -26,9 +26,13 @@
 
 ![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png)
 
+|
+
 **Location**
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -38,11 +42,15 @@ Location
 
 Type
 
+Residential
+
 Firebox
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
+
+Has an interior
 
 _For the large house owned by Grey Mother, see [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)._
 

@@ -1,6 +1,6 @@
 # Technical Balaclava
 
-**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
+**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
 
 **Technical Balaclava**
 
@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Technical Balaclava icon](../assets/Technical_Balaclava_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute |  |
 | Clothing Slot |  |
 | **Statistics** |  |

@@ -17,7 +17,8 @@
 | Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | yes |
 | Examine | Eventually, a source of knowledge. For now, something to burn when you are freezing. |
 | **Values** |  |

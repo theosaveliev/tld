@@ -1,6 +1,6 @@
 # Chasm Cave
 
-**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chasm_Cave)
+**Categories:** Caves, Locations, Locations in Timberwolf Mountain, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chasm_Cave)
 
 **Chasm Cave**
 
@@ -9,10 +9,11 @@
 |  | [Chasm Cave](../assets/Chasm_Cave.jpg) |
 | **Location** |  |
 |  | [Chasm Cave Location](../assets/Chasm_Cave_Location.png) |
-| Region |  |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Between [Engine](./Engine%20%28East%29.md) and [Echo Ravine](./Echo%20Ravine.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Chasm Cave** is a cave in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

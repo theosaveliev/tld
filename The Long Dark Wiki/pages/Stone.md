@@ -18,7 +18,8 @@
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | Yes |
 | Stackable | Yes |
 | Examine | A small stone. Big enough to stun a small animal. Might be enough to scare off a bigger one. |
 | **Values** |  |

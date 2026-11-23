@@ -1,6 +1,6 @@
 # Ravaged Deer Remains
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ravaged_Deer_Remains)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ravaged_Deer_Remains)
 
 **Ravaged Deer Remains**
 
@@ -9,7 +9,7 @@
 |  | [Ravaged Deer Remains](../assets/Ravaged_Deer_Remains.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 A **Ravaged Deer Remains** is an "object" found within [Cougar](./Cougar.md) Territory.
 

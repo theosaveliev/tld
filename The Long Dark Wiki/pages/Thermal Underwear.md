@@ -1,6 +1,6 @@
 # Thermal Underwear
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thermal_Underwear)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thermal_Underwear)
 
 **Thermal Underwear**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Thermal Underwear icon](../assets/Thermal_Underwear_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Inner legs |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

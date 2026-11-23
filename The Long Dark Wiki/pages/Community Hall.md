@@ -1,6 +1,6 @@
 # Community Hall
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Community_Hall)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Community_Hall)
 
 **Community Hall**
 
@@ -8,17 +8,27 @@
 
 ![Interior](../assets/Community_hall_interior.jpg)
 
+|
+
 **Location**
 
 ![Community Hall Location](../assets/Community_Hall_Location.png)
 
 Region
 
+[Pleasant Valley](./Pleasant%20Valley.md)
+
 **General**
 
 Type
 
+Residential
+
 Firebox
+
+[Stove](./Stove.md) [Fireplace](./Fireplace.md)
+
+Has an interior
 
 **Community Hall** is a building at [Thomson's Crossing](./Thomson%27s%20Crossing.md) within [Pleasant Valley](./Pleasant%20Valley.md). It is a major location within [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md).
 

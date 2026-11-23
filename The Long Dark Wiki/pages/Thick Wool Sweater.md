@@ -1,6 +1,6 @@
 # Thick Wool Sweater
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thick_Wool_Sweater)
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thick_Wool_Sweater)
 
 **Thick Wool Sweater**
 
@@ -8,9 +8,9 @@
 | --- | --- |
 |  | [Thick Wool Sweater icon](../assets/Thick_Wool_Sweater_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
+| Clothing Slot | Inner torso |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

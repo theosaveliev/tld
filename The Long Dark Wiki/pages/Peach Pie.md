@@ -17,7 +17,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Examine | A pie filled with sweet, canned peaches. Reminds of warmer seasons and brighter days. |
 | **Values** |  |
 | Calories | 250 (313) kcal |
 | Hydration | 0.0% |

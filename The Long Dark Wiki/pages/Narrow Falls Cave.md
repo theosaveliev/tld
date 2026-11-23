@@ -1,6 +1,6 @@
 # Narrow Falls Cave
 
-**Categories:** Locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Narrow_Falls_Cave)
+**Categories:** Caves, Locations, Locations in Ash Canyon, Sheltered locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Narrow_Falls_Cave)
 
 **Narrow Falls Cave**
 
@@ -9,9 +9,10 @@
 |  | [NarrowFallsCave 1080p](../assets/NarrowFallsCave_1080p.png) |
 | **Location** |  |
 |  | [Narrow Falls Cave Location](../assets/Narrow_Falls_Cave_Location.png) |
-| Region |  |
+| Region | [Ash Canyon](./Ash%20Canyon.md) |
 | **General** |  |
-| Type |  |
+| Type | Cave |
+|  | Provides some shelter |
 
 **Narrow Falls Cave** is a small cave in [Ash Canyon](./Ash%20Canyon.md) located next to a waterfall, presumably called Narrow Falls. It's located a short distance east (as the crow flies) of [Miner's Folly](./Miner%27s%20Folly.md).
 

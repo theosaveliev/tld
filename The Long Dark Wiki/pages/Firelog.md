@@ -19,7 +19,8 @@
 | Wintermute | No |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | yes |
 | Examine | Firelog made of chemicals and compressed shavings. Doesn't throw off much heat. |
 | **Values** |  |

@@ -1,10 +1,12 @@
 # The Tooth
 
-**Categories:** Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Tooth)
+**Categories:** Landmarks, Locations in Coastal Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Tooth)
 
 **The Tooth**
 
 ![CH Tooth 2](../assets/CH_Tooth_2.jpg)
+
+|
 
 **Location**
 
@@ -17,6 +19,10 @@ West of [Log Sort](./Log%20Sort.md)
 **General**
 
 Type
+
+Landmark
+
+Has no shelter
 
 **The Tooth** is a narrow but tall piece of large rock protruding from the ice in [Coastal Highway](./Coastal%20Highway.md).
 

@@ -1,13 +1,13 @@
 # Coming Storm/Transcript
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coming_Storm%2FTranscript)
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coming_Storm%2FTranscript)
 
 **Coming Storm/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png) |
-| Episode |  |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | **Missions** |  |
 | Previous | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
 | Current | Coming Storm/Transcript |

@@ -1,6 +1,6 @@
 # Placid Notch
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Placid_Notch)
+**Categories:** Indoor locations, Locations, Locations in Sundered Pass, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Placid_Notch)
 
 **Placid Notch**
 
@@ -9,13 +9,14 @@
 |  | [Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png) |
 | **Location** |  |
 |  | [Placid Notch Location](../assets/Placid_Notch_Location.png) |
-| Region |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | South of [Giant's Thumbprint](./Giant%27s%20Thumbprint.md) |
 | Description | A refuge cabin. |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
 

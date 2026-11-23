@@ -1,6 +1,6 @@
 # Final Approach
 
-**Categories:** Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Final_Approach)
+**Categories:** Locations, Locations in Forsaken Airfield, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Final_Approach)
 
 **Final Approach**
 
@@ -9,13 +9,14 @@
 |  | [Final Approach Close](../assets/Final_Approach_Close.jpg) |
 | **Location** |  |
 |  | [Final Approach Location](../assets/Final_Approach_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Northwest part of the Forsaken Airfield |
 | Description | A rescue helicopter crashed near a frozen pond |
 | **General** |  |
 | Type |  |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter |
 
 **Final Approach** is a crashed helicopter in [Forsaken Airfield](./Forsaken%20Airfield.md).
 

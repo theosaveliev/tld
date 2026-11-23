@@ -1,6 +1,6 @@
 # Forge Blueprints \(mission\)
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forge_Blueprints_%28mission%29)
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forge_Blueprints_%28mission%29)
 
 **Contents**
 
@@ -16,7 +16,7 @@
 | Property | Details |
 | --- | --- |
 |  | [Old Spence Family Homestead Forge](../assets/Old_Spence_Family_Homestead_Forge.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | none |
 | Current | Forge Blueprints (mission) |

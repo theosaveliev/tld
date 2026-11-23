@@ -43,7 +43,7 @@ Rock caches do not lose condition over time, but food and clothing items inside 
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Stone](./Stone.md)
 

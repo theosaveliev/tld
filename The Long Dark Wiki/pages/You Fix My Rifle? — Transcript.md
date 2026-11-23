@@ -1,6 +1,6 @@
 # You Fix My Rifle?/Transcript
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript)
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript)
 
 **Contents**
 
@@ -19,7 +19,7 @@
 | Property | Details |
 | --- | --- |
 |  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
-| Episode |  |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Missions** |  |
 | Previous | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
 | Current | You Fix My Rifle?/Transcript |

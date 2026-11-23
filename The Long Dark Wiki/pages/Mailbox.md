@@ -1,6 +1,6 @@
 # Mailbox
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mailbox)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mailbox)
 
 **Mailbox**
 
@@ -9,4 +9,4 @@
 |  | [Mailbox](../assets/Mailbox.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |

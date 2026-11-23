@@ -1,6 +1,6 @@
 # Junker's Paddock
 
-**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Junker's_Paddock)
+**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Junker's_Paddock)
 
 **Junker's Paddock**
 
@@ -9,12 +9,13 @@
 |  | [Junker](../assets/Junker.jpg) |
 | **Location** |  |
 |  | [Junker's Paddock Location](../assets/Junker%27s_Paddock_Location.png) |
-| Region |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | South west along the road to the airfield |
 | **General** |  |
 | Type |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 **Junker's Paddock** is a small trailer along the road connecting [Transfer Pass](./Transfer%20Pass.md) to the [Field 31](./Field%2031.md).
 

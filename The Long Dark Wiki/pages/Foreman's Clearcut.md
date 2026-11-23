@@ -1,6 +1,6 @@
 # Foreman's Clearcut
 
-**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Clearcut)
+**Categories:** Blackrock, Indoor locations, Industrial locations, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Clearcut)
 
 **Foreman's Clearcut**
 
@@ -13,7 +13,8 @@
 | Location | By the eastern road, close to [Cook's Farm](./Cook%27s%20Farm.md) and the path to [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Description | A smaller clearcut with a trailer. |
 | **General** |  |
-| Type |  |
+| Type | Industrial |
+|  | Has an interior |
 
 **Foreman's Clearcut** is an area situated between [Cook's Farm](./Cook%27s%20Farm.md), which is close to the west, and [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md) to the east. The primary feature is a trailer that provides shelter. In [Wintermute](./Wintermute.md), it also contains a [workbench](./Work%20Bench.md) and some bed sheets as a place to [sleep](./Sleep.md). Unlike Cook's Farm, there is no fire barrel here.
 

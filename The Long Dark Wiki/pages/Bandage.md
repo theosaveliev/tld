@@ -19,7 +19,8 @@
 | Wintermute | yes |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
+| Item type | [First Aid](./First%20Aid.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | Bandage suitable for stopping blood loss or binding to constrict movement on an injury. |
 | **Values** |  |
@@ -49,7 +50,7 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Cloth](./Cloth.md)
 

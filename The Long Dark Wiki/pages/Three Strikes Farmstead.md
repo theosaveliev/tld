@@ -9,11 +9,13 @@
 |  | [SS PV 3strike 001](../assets/SS-PV-3strike-001.jpg) |
 | **Location** |  |
 |  | [Three Strikes Farmstead Location](../assets/Three_Strikes_Farmstead_Location.png) |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | **General** |  |
-| Type |  |
-| Firebox |  |
-|  | Has no shelter / **Three Strikes Farmstead** is a collection of several farm buildings in [Pleasant Valley](./Pleasant%20Valley.md), located about 5 minutes walk northwest of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md). |
+| Type | Outdoors |
+| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
+|  | Has no shelter |
+
+**Three Strikes Farmstead** is a collection of several farm buildings in [Pleasant Valley](./Pleasant%20Valley.md), located about 5 minutes walk northwest of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
 
 ## Overview
 

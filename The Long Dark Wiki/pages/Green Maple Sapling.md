@@ -11,7 +11,8 @@
 | Wintermute | Yes (Bug?) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested maple sapling. Needs to be cured before it can be used for crafting and repair. / Can be used for crafting and repairs after air-drying indoors for 6 days. |
 | **Values** |  |

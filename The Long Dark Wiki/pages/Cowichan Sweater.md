@@ -1,17 +1,25 @@
 # Cowichan Sweater
 
-**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cowichan_Sweater)
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cowichan_Sweater)
 
-{| |+ XSENT:infobox:Cowichan Sweater |- | colspan="2" | ![Cowichan Sweater icon](../assets/Cowichan_Sweater_icon.png) |- | colspan="2" | **General** |- ! Item Type |
+**Cowichan Sweater**
 
-|- ! Wintermute |
-
-|- ! Clothing Slot |
-
-|- | colspan="2" | **Statistics** |- ! Weight | ![Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |- ! Warmth bonus | ![Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |- ! Windproof bonus | ![Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |- ! Waterproof bonus | ![Waterproofness icon](../assets/Waterproofness_icon.png)50% |- ! Protection | ![Protection icon](../assets/Protection_icon.png)5% |- ! Mobility | ![Mobility icon](../assets/Mobility_icon.png)-2% |- ! Harvest | 1 × [Cloth](./Cloth.md)  
- 45 minutes |- ! Repair | 1 × [Cloth](./Cloth.md)  
- 60 minutes  
- 30% condition 
+| Property | Details |
+| --- | --- |
+|  | [Cowichan Sweater icon](../assets/Cowichan_Sweater_icon.png) |
+| **General** |  |
+| Item Type | Clothing |
+| Wintermute | Yes |
+| Clothing Slot | Inner torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)5% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-2% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 45 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition |
 
 > “**The warmest sweater around. Inspired by the traditional sweater conceived by the Cowichan First Nation on Vancouver Island, [Canada](./The%20Collapse.md). Treat it like an old friend.**”
 >

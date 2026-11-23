@@ -1,6 +1,6 @@
 # Lake Overlook
 
-**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Overlook)
+**Categories:** Locations, Locations in Mystery Lake, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Overlook)
 
 **Lake Overlook**
 
@@ -9,9 +9,10 @@
 |  | [Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg) |
 | **Location** |  |
 |  | [Lake Overlook Location](../assets/Lake_Overlook_Location.png) |
-| Region |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Provides some shelter |
 
 **Lake Overlook** is a discoverable location in the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) region.
 

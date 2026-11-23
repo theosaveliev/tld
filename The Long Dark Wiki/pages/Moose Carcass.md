@@ -1,6 +1,6 @@
 # Moose Carcass
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose_Carcass)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose_Carcass)
 
 **Moose Carcass**
 
@@ -9,7 +9,7 @@
 |  | [Moose Carcass](../assets/Moose_Carcass.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 A **Moose Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Moose](./Moose.md). [Crows](./Crow.md) will fly around a Moose Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 

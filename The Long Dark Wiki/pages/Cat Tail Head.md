@@ -18,7 +18,8 @@
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Item type | [Fire Starting](./Fire%20Starting.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | The Cat Tail's seed head, can be used as tinder. |
 | **Values** |  |

@@ -1,6 +1,6 @@
 # Railyard \(Track Section 4\)
 
-**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Railyard_%28Track_Section_4%29)
+**Categories:** DLC Content, Indoor locations, Locations, Locations in Anna Island -- Track Section 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Railyard_%28Track_Section_4%29)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -18,11 +18,15 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
+[Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)
+
 Location
 
 2 railway depots to the east and west of the map
 
 **General**
+
+Has an interior
 
 **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 

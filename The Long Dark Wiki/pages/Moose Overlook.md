@@ -1,20 +1,28 @@
 # Moose Overlook
 
-**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose_Overlook)
+**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose_Overlook)
 
 **Moose Overlook**
 
 ![Moose Overlook](../assets/Moose_Overlook.png)
 
+|
+
 **Location**
 
 Region
+
+[Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **General**
 
 Type
 
-Has no shelter **Moose Overlook** is a view point in [Hushed River Valley](./Hushed%20River%20Valley.md) reached through a fallen tree. It is located in the basin close to [Landslide (Hushed River Valley)](./Landslide%20%28Hushed%20River%20Valley%29.md).
+Outdoors
+
+Has no shelter
+
+**Moose Overlook** is a view point in [Hushed River Valley](./Hushed%20River%20Valley.md) reached through a fallen tree. It is located in the basin close to [Landslide (Hushed River Valley)](./Landslide%20%28Hushed%20River%20Valley%29.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Car Battery
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car_Battery)
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car_Battery)
 
 **Contents**
 
@@ -19,8 +19,8 @@
 | --- | --- |
 |  | [Car Battery icon](../assets/Car_Battery_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | Renewable | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)15.00 kg(33 lbs) |

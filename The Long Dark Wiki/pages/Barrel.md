@@ -1,6 +1,6 @@
 # Barrel
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Barrel)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Barrel)
 
 **Barrel**
 
@@ -9,7 +9,7 @@
 |  | [Barrel](../assets/Barrel.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 A **Barrel** is an interactable object found near mines. Sometimes they are found intact or half broken. They can both be harvested with a [Hatchet](./Hatchet.md) for 2 [Reclaimed Wood](./Reclaimed%20Wood.md) and 1 [Scrap Metal](./Scrap%20Metal.md) after 15 minutes. They can be found near:
 

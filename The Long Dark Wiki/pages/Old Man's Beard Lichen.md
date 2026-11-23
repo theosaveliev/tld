@@ -20,7 +20,8 @@
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
+| Item type | [Materials](./Materials.md) |
+| Equipable | No |
 | Stackable | Yes |
 | Examine | A lichen found in the ancient forests of the Pacific Northwest. |
 | **Values** |  |

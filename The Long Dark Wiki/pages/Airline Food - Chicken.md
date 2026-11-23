@@ -11,7 +11,8 @@
 | Wintermute | Yes |
 | Renewable | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Still frozen solid, this food tray has all the tasty charm you could expect from reheated chicken, only without the heat. |
 | **Values** |  |

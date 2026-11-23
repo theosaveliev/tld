@@ -1,6 +1,6 @@
 # Quality Tools
 
-**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quality_Tools)
+**Categories:** Pages with update history, Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quality_Tools)
 
 **Quality Tools**
 
@@ -8,8 +8,8 @@
 | --- | --- |
 |  | [Quality Tools icon](../assets/Quality_Tools_icon.png) |
 | **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| Item Type | Tool |
+| Wintermute | Yes |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |

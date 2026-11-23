@@ -1,6 +1,6 @@
 # Wolf Carcass
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
 
 **Contents**
 
@@ -16,7 +16,7 @@
 |  | [Wolf carcass icon](../assets/Wolf_carcass_icon.png) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | Yes |
 
 A **Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Wolf](./Wolf.md). They can occasionally be found as ravaged carcasses preplaced across [Great Bear Island](./Great%20Bear%20Island.md). [Crows](./Crow.md) will fly around a Wolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 

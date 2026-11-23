@@ -1,6 +1,6 @@
 # Power Plant
 
-**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Power_Plant)
+**Categories:** Blackrock, Indoor locations, Industrial locations, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Power_Plant)
 
 **Contents**
 
@@ -19,7 +19,8 @@
 | Region |  |
 | Location | Northwest of Blackrock Prison, on a river |
 | **General** |  |
-| Type |  |
+| Type | Industrial |
+|  | Has an interior |
 | **Wintermute** |  |
 | Missions | [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md) |
 

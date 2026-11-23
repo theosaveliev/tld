@@ -1,6 +1,6 @@
 # Fulmar Autopilot Boat
 
-**Categories:** DLC Content, Interactable Objects, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fulmar_Autopilot_Boat)
+**Categories:** DLC Content, Interactable Objects, Locations, Locations in Desolation Point, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fulmar_Autopilot_Boat)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -14,9 +14,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 | --- | --- |
 |  | [Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png) |
 | **Location** |  |
-| Region |  |
+| Region | [Desolation Point](./Desolation%20Point.md) |
 | **General** |  |
-|  | Has no shelter The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). |
+|  | Has no shelter |
+
+The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Idle Camp
 
-**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Idle_Camp)
+**Categories:** Indoor locations, Locations, Locations in Zone of Contamination · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Idle_Camp)
 
 **Idle Camp**
 
@@ -9,11 +9,12 @@
 |  | [Idle Camp](../assets/Idle_Camp.jpg) |
 | **Location** |  |
 |  | [Idle Camp Location](../assets/Idle_Camp_Location.png) |
-| Region |  |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Description | An old miner's barracks not far from [Langston Mine](./Langston%20Mine.md) |
 | **General** |  |
-| Firebox |  |
+| Firebox | [Stove](./Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Idle Camp** is one of the two major human settlements in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 

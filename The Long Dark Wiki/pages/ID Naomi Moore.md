@@ -9,7 +9,8 @@
 |  | [ID Naomi Moore icon](../assets/ID_Naomi_Moore_icon.png) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | An identification card belonging to Naomi Moore. |
 | **Values** |  |

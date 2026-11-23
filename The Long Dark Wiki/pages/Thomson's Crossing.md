@@ -1,6 +1,6 @@
 # Thomson's Crossing
 
-**Categories:** Locations, Locations in Pleasant Valley, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thomson's_Crossing)
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Residential locations, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thomson's_Crossing)
 
 **Thomson's Crossing**
 
@@ -9,13 +9,14 @@
 |  | [The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg) |
 | **Location** |  |
 |  | [Thomson's Crossing Location](../assets/Thomson%27s_Crossing_Location.png) |
-| Region |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | On the road between [End of the Road](./End%20of%20the%20Road.md) and [Contemplation Bridge](./Contemplation%20Bridge.md) |
 | Description | A small town with several houses |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 **Thomson's Crossing**, formerly known as **Rural Crossroads**, is a small settlement in [Pleasant Valley](./Pleasant%20Valley.md).
 

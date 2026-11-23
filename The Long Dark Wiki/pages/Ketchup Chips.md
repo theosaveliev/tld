@@ -11,7 +11,8 @@
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | Crunchy, tangy, and ketchup flavored, with a salty punch that will make you thirsty. A Canadian classic. |
 | **Values** |  |

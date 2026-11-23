@@ -1,6 +1,6 @@
 # Cabinet
 
-**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabinet)
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabinet)
 
 **Cabinet**
 
@@ -10,6 +10,8 @@
 
 ![Clothing](../assets/Clothing_Cabinet.jpg)
 
+|
+
 **General**
 
 Item Type
@@ -17,6 +19,8 @@ Item Type
 Item
 
 Wintermute
+
+Yes
 
 A **Cabinet** is a storage container often found inside many homes across the Island.
 

@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Paradise Meadows Farm Key icon](../assets/Paradise_Meadows_Farm_Key_icon.png) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A key to the farm house on the outskirts of Milton. |
 | **Values** |  |

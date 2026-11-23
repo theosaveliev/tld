@@ -1,6 +1,6 @@
 # Rocky Refuge
 
-**Categories:** Islands, Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rocky_Refuge)
+**Categories:** Islands, Locations, Locations in Mountain Town, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rocky_Refuge)
 
 **Rocky Refuge**
 
@@ -8,11 +8,15 @@
 
 ![Interior](../assets/Rocky_refuge.jpg)
 
+|
+
 **Location**
 
 ![Rocky Refuge Location](../assets/Rocky_Refuge_Location.png)
 
 Region
+
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -25,6 +29,10 @@ A small area protected on two sides by rocks
 **General**
 
 Type
+
+Outdoors
+
+Provides some shelter
 
 **Rocky Refuge** is a small cave-like enclosure on the top of a hill in the [Milton Basin](./Milton%20Basin.md) in [Mountain Town](./Mountain%20Town.md).
 

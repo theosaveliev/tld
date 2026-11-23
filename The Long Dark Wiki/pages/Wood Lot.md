@@ -1,6 +1,6 @@
 # Wood Lot
 
-**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wood_Lot)
+**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wood_Lot)
 
 **Wood Lot**
 
@@ -9,10 +9,11 @@
 |  | [The Wood Lot beside the Orca Gas Station](../assets/Wood_Lot_and_Orca_Gas_Station.jpg) / _The Wood Lot beside the [Orca Gas Station](./Orca%20Gas%20Station.md)_ |
 | **Location** |  |
 |  | [Wood Lot Location](../assets/Wood_Lot_Location.png) |
-| Region |  |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | Adjacent to the [Orca Gas Station](./Orca%20Gas%20Station.md) and the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has no shelter |
 
 **Wood Lot** is the name of three locations either side of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region.
 

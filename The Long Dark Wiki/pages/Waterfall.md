@@ -1,6 +1,6 @@
 # Waterfall
 
-**Categories:** Article stubs, Locations, Locations in Desolation Point, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Waterfall)
+**Categories:** Article stubs, Landmarks, Locations, Locations in Desolation Point, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Waterfall)
 
 **Waterfall**
 
@@ -9,9 +9,10 @@
 |  | [Waterfall](../assets/Waterfall.jpg) |
 | **Location** |  |
 |  | [Waterfall Location](../assets/Waterfall_Location.png) |
-| Region |  |
+| Region | [Desolation Point](./Desolation%20Point.md) |
 | **General** |  |
-| Type |  |
+| Type | Landmark |
+|  | Has no shelter |
 
 _Not to be confused with [Waterfall (Forlorn Muskeg)](./Waterfall%20%28Forlorn%20Muskeg%29.md)_
 

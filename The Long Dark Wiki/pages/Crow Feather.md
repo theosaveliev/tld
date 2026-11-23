@@ -15,7 +15,7 @@
 | --- | --- |
 |  | [Crow Feather icon](../assets/Crow_Feather_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |

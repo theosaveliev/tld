@@ -21,7 +21,8 @@
 | Release | [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.373) |
 | Wintermute | No |
 | **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Item type | [Food And Drink](./Food%20And%20Drink.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin. |
 | **Values** |  |

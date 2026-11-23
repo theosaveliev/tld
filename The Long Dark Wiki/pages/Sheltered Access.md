@@ -1,6 +1,6 @@
 # Sheltered Access
 
-**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sheltered_Access)
+**Categories:** DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sheltered_Access)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -20,6 +20,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
+[Port Remnant](./Port%20Remnant.md)
+
 Location
 
 North West corner of the map
@@ -30,7 +32,9 @@ A long natural tunnel by the sea that leads to a cliff overlook.
 
 **General**
 
-Has no shelter **Sheltered Access** is a location in [Port Remnant](./Port%20Remnant.md).
+Has no shelter
+
+**Sheltered Access** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

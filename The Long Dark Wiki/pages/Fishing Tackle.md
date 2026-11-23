@@ -18,7 +18,8 @@
 | Wintermute | No |
 | Renewable | Yes |
 | **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
+| Item type | [Tools](./Tools.md) |
+| Equipable | No |
 | Stackable | No |
 | Examine | A hook and line used for catching fish. |
 | **Values** |  |
@@ -46,7 +47,7 @@ A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredien
 
 **Requirements**
 
-**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
+**Facility:** Anywhere
 
 **Item:** [Hook](./Hook.md)
 

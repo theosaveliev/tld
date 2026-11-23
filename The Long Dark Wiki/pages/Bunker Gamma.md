@@ -1,6 +1,6 @@
 # Bunker Gamma
 
-**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Gamma)
+**Categories:** Indoor locations, Locations, Locations in Hushed River Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Gamma)
 
 **Contents**
 
@@ -16,12 +16,13 @@
 |  | [Bunker Gamma](../assets/Bunker_Gamma.jpg) |
 | **Location** |  |
 |  | [Bunker Gamma Location](../assets/Bunker_Gamma_Location.png) |
-| Region |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | A short walk west of [Stairsteps Lake](./Stairsteps%20Lake.md). |
 | Description | A reinforced underground shelter. |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
+|  | Has an interior |
 
 **Bunker Gamma** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Hushed River Valley](./Hushed%20River%20Valley.md).
 

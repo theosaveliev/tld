@@ -1,6 +1,6 @@
 # Wood Matches
 
-**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wood_Matches)
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wood_Matches)
 
 **Contents**
 
@@ -15,10 +15,10 @@
 | --- | --- |
 |  | [Wood Matches icon](../assets/Wood_Matches_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Fire Starting |
 | Wintermute | No |
 | Renewable | Yes |
-| Firestarting Slot |  |
+| Firestarting Slot | Starter |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.008 kg(0.02 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |

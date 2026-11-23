@@ -1,6 +1,6 @@
 # Marsh Ridge
 
-**Categories:** Article stubs, Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marsh_Ridge)
+**Categories:** Article stubs, Indoor locations, Locations, Locations in Forlorn Muskeg, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marsh_Ridge)
 
 **Marsh Ridge**
 
@@ -9,9 +9,10 @@
 |  | [Marsh Ridge aerial view](../assets/Marsh_Ridge_aerial_view.jpg) |
 | **Location** |  |
 |  | [Marsh Ridge Location](../assets/Marsh_Ridge_Location.png) |
-| Region |  |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type |  |
+| Type | Outdoors |
+|  | Has an interior |
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Marsh+Ridge&action=edit expanding it].**
 

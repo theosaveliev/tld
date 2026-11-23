@@ -8,7 +8,7 @@
 | --- | --- |
 |  | [Cloth icon](../assets/Cloth_icon.png) |
 | **General** |  |
-| Item Type |  |
+| Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |

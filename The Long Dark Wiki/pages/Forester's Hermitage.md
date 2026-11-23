@@ -1,6 +1,6 @@
 # Forester's Hermitage
 
-**Categories:** Locations, Locations in Keeper's Pass North · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forester's_Hermitage)
+**Categories:** Locations, Locations in Keeper's Pass North, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forester's_Hermitage)
 
 **Forester's Hermitage**
 
@@ -12,8 +12,9 @@
 | Region |  |
 | Description | A partially ruined cabin |
 | **General** |  |
-| Firebox |  |
+| Firebox | [Wood Stove](./Wood%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter |
 
 **Forester's Hermitage** is a small ruined cabin and the only man-made refuge in the [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
 

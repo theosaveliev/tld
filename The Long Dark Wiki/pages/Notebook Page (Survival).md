@@ -9,7 +9,8 @@
 |  | [Notebook Page (Survival 2) icon](../assets/Notebook_Page_%28Survival_2%29_icon.png) |
 | Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
 | **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
+| Item type | [Collectibles](./Collectibles.md) |
+| Equipable | No |
 | Stackable | No |
 | **Values** |  |
 | Weight | 0.00 kg (0 lbs) |

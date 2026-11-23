@@ -1,6 +1,6 @@
 # Trailers west of the Cannery
 
-**Categories:** Locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trailers_west_of_the_Cannery)
+**Categories:** Indoor locations, Locations, Locations in Bleak Inlet, Residential locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trailers_west_of_the_Cannery)
 
 **Trailers west of the Cannery**
 
@@ -9,12 +9,13 @@
 |  | [SS BI Trailer02](../assets/SS-BI-Trailer02.jpg) |
 | **Location** |  |
 |  | [Trailers west of the Cannery Location](../assets/Trailers_west_of_the_Cannery_Location.png) |
-| Region |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | West of the Cannery |
 | Description | This place has no official name |
 | **General** |  |
-| Type |  |
+| Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

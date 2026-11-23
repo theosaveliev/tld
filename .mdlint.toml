@@ -1,12 +1,26 @@
-# Keep the full built-in rule set enabled.
-ignore = []
+# Preserve source-derived article wording, ordered-list numbering, and emphasis.
+# These rules either require rewriting source content or misread intentional wiki markup.
+ignore = ["MD005", "MD007", "MD013", "MD026", "MD029", "MD036", "MD052"]
 
 # Raw HTML elements must never leak into user-facing Markdown.
 [rules.MD033]
 allowed_elements = []
 table_allowed_elements = []
 
-# Top-level unordered lists start at column zero; nested levels use two spaces.
-[rules.MD007]
-indent = 2
-start_indented = false
+# Exported tables use aligned (padded) Markdown cells.
+[rules.MD060]
+style = "any"
+
+# Repeated headings in distinct sections (for example, Locations) are intentional.
+[rules.MD024]
+siblings_only = true
+
+# Match the exporter's ATX headings and emphasis conventions.
+[rules.MD003]
+style = "atx"
+
+[rules.MD049]
+style = "underscore"
+
+[rules.MD050]
+style = "asterisk"

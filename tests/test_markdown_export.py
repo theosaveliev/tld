@@ -1861,7 +1861,9 @@ def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
     assert _contains_html_markup("<span>visible</span>")
 
 
-def test_audit_markdown_workspace_scans_all_pages_and_ignores_code() -> None:
+def test_audit_markdown_workspace_scans_all_pages_and_ignores_code(
+    tmp_path: Path,
+) -> None:
     workspace = tmp_path / "workspace"
     pages = workspace / "pages"
     pages.mkdir(parents=True)

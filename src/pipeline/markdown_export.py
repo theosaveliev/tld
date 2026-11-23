@@ -3033,6 +3033,11 @@ EMPTY_MARKDOWN_ANCHOR_SPAN_RE = re.compile(
 )
 
 
+EMPTY_MARKDOWN_ANCHOR_RE = re.compile(
+    r'<a[ \t]+id="[^"\r\n]+"[ \t]*>[ \t]*</a>', re.IGNORECASE
+)
+
+
 def _contains_html_markup(value: str) -> bool:
     """Return whether text contains unhandled HTML, comments, or declarations."""
     value = EMPTY_MARKDOWN_ANCHOR_SPAN_RE.sub("", value)
@@ -4915,6 +4920,9 @@ def _markdown_visible_source(value: str) -> str:
 def _markdown_markup_matches(value: str) -> list[tuple[int, str, str]]:
     """Find unrendered HTML and MediaWiki markup outside literal code."""
     visible = _markdown_visible_source(value)
+    visible = EMPTY_MARKDOWN_ANCHOR_RE.sub(
+        lambda match: re.sub(r"[^\r\n]", " ", match.group(0)), visible
+    )
     patterns = (
         (HTML_TAG_RE, "HTML tag"),
         (HTML_COMMENT_RE, "HTML comment"),

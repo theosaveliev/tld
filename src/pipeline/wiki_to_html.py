@@ -407,7 +407,7 @@ def tabber_to_wikitext(text):
                 (mm.group(1).strip(), mm.group(2).strip()) if mm else ("", part.strip())
             )
             if name:
-                out.append("'''%s'''\n\n%s" % (name, body))
+                out.append("=== %s ===\n\n%s" % (name, body))
             elif body:
                 out.append(body)
         return "\n\n" + "\n\n".join(out) + "\n\n"

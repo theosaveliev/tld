@@ -110,6 +110,21 @@ EMPTY_LEAKED_FILE_WRAPPER_RE = re.compile(
     r"(?:\d+\s*px)?\s*(?:\\*\]){2}",
     re.IGNORECASE,
 )
+BROKEN_FILE_IMAGE_LINK_RE = re.compile(
+    r"(?:\\?\[){2}\[(?:File|Image):(?P<label>[^\]\r\n]+)\]"
+    r"\((?P<destination>[^)\r\n]+)\)"
+    r"(?P<suffix>\s+(?:icon|thumbnail)\.[A-Za-z0-9]{2,5})?",
+    re.IGNORECASE,
+)
+LEAKED_FILE_WRAPPER_WIDTH_SUFFIX_RE = re.compile(
+    r"\s*\d+\s*px(?:\\?\]){2}", re.IGNORECASE
+)
+GENERATED_INFOBOX_TABLE_RE = re.compile(
+    r"(?ms)^\{\|\r?\n\|\+\s*XSENT:infobox:[^\r\n]*\r?\n.*?^\|\}\s*$"
+)
+GENERATED_INFOBOX_LINE_BREAK_TOKEN = "TLDGENERATEDINFOBOXLINBREAK"
+
+
 INLINE_CODE_SPAN_RE = re.compile(
     "("
     + re.escape(BACKTICK)
@@ -1831,7 +1846,20 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
         cleaned = re.sub(r"\\+\*(?=[A-Za-z]|\s*(?:\||$))", "*", cleaned)
         code_pieces = INLINE_CODE_SPAN_RE.split(cleaned)
         for piece_index in range(0, len(code_pieces), 2):
-            code_pieces[piece_index] = html.unescape(code_pieces[piece_index])
+            visible = html.unescape(code_pieces[piece_index])
+
+            def replace_broken_file_link(match: re.Match[str]) -> str:
+                label = match.group("label").split(":", 1)[-1].replace("_", " ")
+                suffix = match.group("suffix")
+                if suffix:
+                    label += " " + Path(suffix.strip()).stem.replace("_", " ")
+                return f"[{_markdown_label(label.strip())}]({match.group('destination')})"
+
+            visible = BROKEN_FILE_IMAGE_LINK_RE.sub(replace_broken_file_link, visible)
+            visible = LEAKED_FILE_WRAPPER_PREFIX_RE.sub("", visible)
+            visible = LEAKED_FILE_WRAPPER_WIDTH_SUFFIX_RE.sub("", visible)
+            visible = EMPTY_LEAKED_FILE_WRAPPER_RE.sub("", visible)
+            code_pieces[piece_index] = visible
         output.append("".join(code_pieces))
     return "".join(output)
 
@@ -2018,6 +2046,21 @@ def _normalize_leaked_wikitext_quotes(value: str) -> str:
 def _clean_wikitext_artifact_line(line: str) -> str:
     """Remove unsupported MediaWiki syntax from one ordinary text line."""
     cleaned = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
+    table_opening = re.match(
+        r"^\s*\{\\?\|\s*(?:class|style|align|width)\s*=",
+        cleaned,
+        re.IGNORECASE,
+    )
+    if table_opening is not None:
+        caption = re.search(
+            r"!\s*colspan\s*=\s*['\"]?\d+['\"]?.*\|\s*(?P<label>[^|{}]+?)\s*$",
+            cleaned,
+            re.IGNORECASE,
+        )
+        line_ending = cleaned[len(cleaned.rstrip("\r\n")) :]
+        if caption is not None:
+            return f"**{_markdown_label(caption.group('label').strip())}**{line_ending}"
+        return line_ending
     cleaned = re.sub(r"\\?\|\}", "", cleaned)
     cleaned = re.sub(
         r"\{\\?\|\s*(?:class\s*=\s*['\"][^'\"]*['\"]\s*)?"
@@ -2303,20 +2346,36 @@ def _expand_page(
     try:
         context.start_page(page.title)
         expanded = preprocess(page.text, context, infobox_defs, page.title, stats)
+        expanded = _protect_generated_infobox_table_line_breaks(expanded)
         if material_usage_index is not None:
             expanded, deferred_material_tables = _defer_uses_material_list_templates(
                 expanded, page.title, material_usage_index
             )
     except Exception as exc:
-        return expanded, str(exc)[:300], 1, deferred_material_tables
+        return (
+            _restore_generated_infobox_table_line_breaks(expanded),
+            str(exc)[:300],
+            1,
+            deferred_material_tables,
+        )
 
-    try:
-        with contextlib.redirect_stdout(io.StringIO()):
-            expanded = context.expand(expanded, timeout=30)
-    except Exception as exc:
-        return expanded, str(exc)[:300], 1, deferred_material_tables
-
+    expanded = _restore_generated_infobox_table_line_breaks(expanded)
     return expanded, "", 0, deferred_material_tables
+
+
+def _protect_generated_infobox_table_line_breaks(value: str) -> str:
+    """Keep generated infobox row boundaries intact during template expansion."""
+    return GENERATED_INFOBOX_TABLE_RE.sub(
+        lambda match: re.sub(
+            r"\r?\n", GENERATED_INFOBOX_LINE_BREAK_TOKEN, match.group(0)
+        ),
+        value,
+    )
+
+
+def _restore_generated_infobox_table_line_breaks(value: str) -> str:
+    """Restore infobox row boundaries after wikitextprocessor expansion."""
+    return value.replace(GENERATED_INFOBOX_LINE_BREAK_TOKEN, "\n")
 
 
 PANDOC_UNEXPECTED_REF_CLOSE_RE = re.compile(

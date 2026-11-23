@@ -4986,10 +4986,10 @@ CAMBIUM_HEADING_RE = re.compile(
     r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
 )
 MARKDOWN_INTERNAL_LINK_RE = re.compile(
-    r"(?<!!)\\[(?P<label>(?:\\\\.|[^\\[\\]\\\\\\n]|\\[(?:\\\\.|[^\\[\\]\\\\\\n])*\\])*)\\]\\((?P<destination>[^)\\n]+)\\)"
+    r"(?<!!)\[(?P<label>(?:\\.|[^\[\]\\\n]|\[(?:\\.|[^\[\]\\\n])*\])*)\]\((?P<destination>[^)\n]+)\)"
 )
 BARE_URL_MARKDOWN_LINK_RE = re.compile(
-    r"\\[(?P<label>https?://[^\\]\\s]+)\\]\\((?P<destination>https?://[^)\\s]+)\\)"
+    r"\[(?P<label>https?://[^\]\s]+)\]\((?P<destination>https?://[^)\s]+)\)"
 )
 
 def _plain_markdown_heading_text(label: str) -> str:
@@ -5176,8 +5176,8 @@ def _normalize_bare_url_markdown_links(value: str) -> str:
 
         def as_autolink(match: re.Match[str]) -> str:
             label = re.sub(
-                r"\\\\([\\\\*_{}\\[\\]<>()#+\\-.!|~])",
-                r"\\1",
+                r"\\([\\*_{}\[\]<>()#+\-.!|~])",
+                r"\1",
                 match.group("label"),
             )
             destination = match.group("destination")

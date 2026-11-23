@@ -317,9 +317,23 @@ def render_infobox(root, params, page_title):
             )
         elif row[0] == "data":
             label, cell_value = row[1], row[2]
-            table.extend(
-                ["<tr>", "<th>", label, "</th>", "<td>", cell_value, "</td>", "</tr>"]
-            )
+            if label:
+                table.extend(
+                    [
+                        "<tr>",
+                        "<th>",
+                        label,
+                        "</th>",
+                        "<td>",
+                        cell_value,
+                        "</td>",
+                        "</tr>",
+                    ]
+                )
+            else:
+                table.extend(
+                    ["<tr>", '<td colspan="2">', cell_value, "</td>", "</tr>"]
+                )
 
     if title:
         table.insert(1, "<caption>%s</caption>" % esc(one_line(title)))

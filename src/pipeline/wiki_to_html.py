@@ -291,7 +291,7 @@ def render_infobox(root, params, page_title):
         if row[0] == "title":
             title = row[1]
         elif row[0] == "image":
-            fn = re.sub(r"(?i)^(file|image)\\s*:", "", row[1]).strip()
+            fn = re.sub(r"(?i)^(file|image)\s*:", "", row[1]).strip()
             value_markup = (
                 row[1]
                 if row[1].startswith("[[")
@@ -324,7 +324,7 @@ def render_infobox(root, params, page_title):
     if title:
         table.insert(1, "<caption>%s</caption>" % esc(one_line(title)))
     table.append("</table>")
-    return "\\n" + "\\n".join(table) + "\\n"
+    return "\n" + "\n".join(table) + "\n"
 
 
 def render_missing(name, tpl):

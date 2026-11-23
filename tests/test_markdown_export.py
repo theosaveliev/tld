@@ -2114,15 +2114,15 @@ def test_page_markdown_uppercases_first_letter_of_all_headings() -> None:
 
 def test_page_markdown_normalizes_multiline_strong_underscores() -> None:
     body = (
-        '> “__Bold text with `__literal__` starts here\n'
-        '> and continues on the next line.__”'
+        '> “__Bold text with `__literal__` starts here  \n'
+        ' and continues on the next line.__”'
     )
 
     markdown = _page_markdown("Sample", [], body, None)
 
     assert (
-        '> “**Bold text with `__literal__` starts here\n'
-        '> and continues on the next line.**”'
+        '> “**Bold text with `__literal__` starts here  \n'
+        ' and continues on the next line.**”'
     ) in markdown
 
 

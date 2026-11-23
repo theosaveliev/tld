@@ -15,6 +15,7 @@ import subprocess
 import unicodedata
 import urllib.parse
 from dataclasses import dataclass
+from functools import partial
 from pathlib import Path
 from typing import TYPE_CHECKING, Protocol, TypedDict, cast
 
@@ -5064,78 +5065,109 @@ def _cambium_heading_anchor_map(markdown: str) -> dict[str, str]:
     return aliases
 
 
+def _fragment_target_path(
+    path_text: str, source_file: Path, pages_root: Path
+) -> Path | None:
+    """Resolve a local Markdown link path contained within the pages workspace."""
+    if path_text:
+        parsed_path = urllib.parse.urlsplit(path_text)
+        if parsed_path.scheme or parsed_path.netloc:
+            return None
+        decoded_path = urllib.parse.unquote(parsed_path.path)
+        if not decoded_path.casefold().endswith(".md"):
+            return None
+        target_path = (source_file.parent / decoded_path).resolve()
+    else:
+        target_path = source_file.resolve()
+
+    try:
+        target_path.relative_to(pages_root)
+    except ValueError:
+        return None
+    return target_path
+
+
+def _rewrite_fragment_link(
+    match: re.Match[str],
+    *,
+    source_file: Path,
+    pages_root: Path,
+    anchors_by_path: dict[Path, dict[str, str]],
+) -> str:
+    """Rewrite one Markdown fragment to its generated Cambium heading ID."""
+    destination = match.group("destination")
+    path_text, separator, fragment = destination.partition("#")
+    if not separator or not fragment:
+        return match.group(0)
+
+    target_path = _fragment_target_path(path_text, source_file, pages_root)
+    if target_path is None:
+        return match.group(0)
+    target_anchors = anchors_by_path.get(target_path)
+    if target_anchors is None:
+        return match.group(0)
+
+    fragment_key = urllib.parse.unquote(fragment).casefold()
+    generated_id = target_anchors.get(fragment_key)
+    if generated_id is None:
+        generated_id = target_anchors.get(fragment_key.replace("_", "-"))
+
+    if generated_id is None:
+        if not path_text:
+            return match.group("label")
+        rewritten_destination = path_text
+    else:
+        rewritten_destination = path_text + "#" + urllib.parse.quote(
+            generated_id, safe="-._~"
+        )
+
+    return f"[{match.group('label')}]({rewritten_destination})"
+
+
+def _rewrite_markdown_file_fragment_links(
+    markdown_file: Path,
+    pages_root: Path,
+    anchors_by_path: dict[Path, dict[str, str]],
+) -> None:
+    """Rewrite fragment links in one Markdown file, leaving code untouched."""
+    original = markdown_file.read_text(encoding="utf-8")
+    rewrite_link = partial(
+        _rewrite_fragment_link,
+        source_file=markdown_file,
+        pages_root=pages_root,
+        anchors_by_path=anchors_by_path,
+    )
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in original.splitlines(keepends=True):
+        fence, is_fence_line = _advance_markdown_fence(line, fence)
+        if is_fence_line or fence is not None:
+            output.append(line)
+            continue
+        parts = INLINE_CODE_SPAN_RE.split(line)
+        for index in range(0, len(parts), 2):
+            parts[index] = MARKDOWN_INTERNAL_LINK_RE.sub(rewrite_link, parts[index])
+        output.append("".join(parts))
+
+    rewritten = "".join(output)
+    if rewritten != original:
+        markdown_file.write_text(rewritten, encoding="utf-8")
+
+
 def _rewrite_workspace_fragment_links(pages_dir: Path) -> None:
     """Rewrite Fandom fragment aliases to the actual IDs Cambium will render."""
     markdown_files = sorted(pages_dir.rglob("*.md"))
-    anchors_by_path: dict[Path, dict[str, str]] = {}
-    for markdown_file in markdown_files:
-        anchors_by_path[markdown_file.resolve()] = _cambium_heading_anchor_map(
+    anchors_by_path = {
+        markdown_file.resolve(): _cambium_heading_anchor_map(
             markdown_file.read_text(encoding="utf-8")
         )
-
+        for markdown_file in markdown_files
+    }
     pages_root = pages_dir.resolve()
-
-    def rewrite_link(match: re.Match[str], source_file: Path) -> str:
-        destination = match.group("destination")
-        path_text, separator, fragment = destination.partition("#")
-        if not separator or not fragment:
-            return match.group(0)
-
-        if path_text:
-            parsed_path = urllib.parse.urlsplit(path_text)
-            if parsed_path.scheme or parsed_path.netloc:
-                return match.group(0)
-            decoded_path = urllib.parse.unquote(parsed_path.path)
-            if not decoded_path.casefold().endswith(".md"):
-                return match.group(0)
-            target_path = (source_file.parent / decoded_path).resolve()
-        else:
-            target_path = source_file.resolve()
-
-        try:
-            target_path.relative_to(pages_root)
-        except ValueError:
-            return match.group(0)
-
-        target_anchors = anchors_by_path.get(target_path)
-        if target_anchors is None:
-            return match.group(0)
-
-        fragment_key = urllib.parse.unquote(fragment).casefold()
-        generated_id = target_anchors.get(fragment_key)
-        if generated_id is None:
-            generated_id = target_anchors.get(fragment_key.replace("_", "-"))
-
-        if generated_id is None:
-            if not path_text:
-                return match.group("label")
-            rewritten_destination = path_text
-        else:
-            rewritten_destination = path_text + "#" + urllib.parse.quote(
-                generated_id, safe="-._~"
-            )
-
-        return f"[{match.group('label')}]({rewritten_destination})"
-
     for markdown_file in markdown_files:
-        original = markdown_file.read_text(encoding="utf-8")
-        output: list[str] = []
-        fence: tuple[str, int] | None = None
-        for line in original.splitlines(keepends=True):
-            fence, is_fence_line = _advance_markdown_fence(line, fence)
-            if is_fence_line or fence is not None:
-                output.append(line)
-                continue
-            parts = INLINE_CODE_SPAN_RE.split(line)
-            for index in range(0, len(parts), 2):
-                parts[index] = MARKDOWN_INTERNAL_LINK_RE.sub(
-                    lambda match: rewrite_link(match, markdown_file),
-                    parts[index],
-                )
-            output.append("".join(parts))
-        rewritten = "".join(output)
-        if rewritten != original:
-            markdown_file.write_text(rewritten, encoding="utf-8")
+        _rewrite_markdown_file_fragment_links(
+            markdown_file, pages_root, anchors_by_path
+        )
 
 
 def _normalize_bare_url_footnote_links(value: str) -> str:

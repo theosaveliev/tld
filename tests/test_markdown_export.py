@@ -1638,6 +1638,24 @@ def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:
     assert "messagebox" not in markdown
 
 
+def test_page_markdown_cleans_table_artifacts_after_final_normalization(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    def append_leaked_table_marker(value: str) -> str:
+        return value + "\n" + r'{\| class="messagebox"'
+
+    monkeypatch.setattr(
+        markdown_export_module,
+        "_normalize_markdown_list_indentation",
+        append_leaked_table_marker,
+    )
+
+    markdown = _page_markdown("Gold Nugget", [], "Readable body", None)
+
+    assert r"{\|" not in markdown
+    assert "messagebox" not in markdown
+
+
 @pytest.mark.parametrize("invisible_prefix", ["\u200b", "\u200e", "\ufeff"])
 def test_page_markdown_cleans_invisible_prefix_before_table_markup(
     invisible_prefix: str,

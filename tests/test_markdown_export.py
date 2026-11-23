@@ -1923,7 +1923,7 @@ def test_page_markdown_autolinks_repeated_urls_and_preserves_link_labels() -> No
 
 def test_page_markdown_cleans_bracketed_references_language_links_and_pipes() -> None:
     body = (
-        "A source [\\\\[1](https://example.com/source)\\\\].\n\n"
+        "A source [\\[1](https://example.com/source)\\].\n\n"
         "[es:Valle del río](https://es.wikipedia.org/wiki/Valle) "
         "[ru:Тихая долина](https://ru.wikipedia.org/wiki/Valley) "
         "[fr:Vallée](https://fr.wikipedia.org/wiki/Valley)\n\n"

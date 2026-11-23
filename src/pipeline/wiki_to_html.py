@@ -307,7 +307,7 @@ def render_infobox(root, params, page_title, expanded=False):
                 [
                     "<tr>",
                     '<th colspan="2" class="section">',
-                    "'''%s'''" % one_line(row[1]),
+                    "<strong>%s</strong>" % one_line(row[1]),
                     "</th>",
                     "</tr>",
                 ]

@@ -1797,17 +1797,21 @@ Paragraph
 
 
 def test_page_markdown_preserves_label_for_missing_inpage_fragment() -> None:
-    body = """See [Notes](#Notes), [Details](#details), and [top](#top).
+    body = """See [Notes](#Notes), [Details](#details), [top](#top), and [Obsolete](#obsolete).
 
 ## Details
 
 More information.
+
+<span id="obsolete"></span>
 """
 
     markdown = _page_markdown("Sample", [], body, None)
 
-    assert "See Notes, [Details](#details), and [top](#top)." in markdown
+    assert "See Notes, [Details](#details), [top](#top), and Obsolete." in markdown
     assert "[Notes](#Notes)" not in markdown
+    assert "[Obsolete](#obsolete)" not in markdown
+    assert "<span" not in markdown
 
 
 def test_page_markdown_normalizes_skipped_heading_levels() -> None:

@@ -1557,14 +1557,18 @@ def _page_markdown(
     document = _remove_redundant_image_filename_captions_from_document(document)
     document = _normalize_markdown_emphasis(document)
     document = _normalize_markdown_headings(document)
+    document = _normalize_markdown_heading_levels(document)
     document = _clean_visible_markdown_artifacts(document)
     document = _strip_empty_markdown_sections(document)
+    document = _strip_missing_contents_links(document)
     document = _strip_trailing_empty_markdown_sections(document)
     document = _rewrite_heading_anchor_spans(document)
     document = _strip_leaked_html_markup(document)
     document = _remove_empty_leaked_file_wrappers(document)
     document = _normalize_markdown_list_indentation(document)
     document = _strip_wikitext_table_row_artifacts(document)
+    document = _normalize_markdown_footnotes(document)
+    document = _normalize_markdown_link_labels(document)
     return _normalize_markdown_blank_lines(document)
 
 
@@ -1673,6 +1677,248 @@ def _strip_empty_markdown_sections(value: str) -> str:
     return "\n".join(
         line for index, line in enumerate(lines) if index not in empty_headings
     )
+
+
+ATX_HEADING_LINE_RE = re.compile(
+    r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
+)
+CONTENTS_HEADING_RE = re.compile(
+    r"^\s*(?:\*\*Contents\*\*|#{1,6}\s+Contents)\s*$", re.IGNORECASE
+)
+CONTENTS_LINK_RE = re.compile(
+    r"^(?P<indent>\s*)[-*+]\s+\[[^\]]+\]\(#(?P<fragment>[^)]+)\)\s*$"
+)
+FOOTNOTE_DEFINITION_RE = re.compile(
+    r"^[ \t]*\[\^(?P<label>[^\]\s]+)\]:[ \t]*(?P<body>.*)$"
+)
+FOOTNOTE_REFERENCE_RE = re.compile(r"\[\^(?P<label>[^\]\s]+)\]")
+
+
+def _markdown_heading_slug(label: str) -> str:
+    """Build a GitHub-style anchor from one Markdown heading label."""
+    visible = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", label)
+    visible = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", visible)
+    visible = re.sub(r"<[^>]+>", "", visible)
+    visible = html.unescape(visible).casefold()
+    visible = re.sub(r"[*_`~]", "", visible)
+    visible = re.sub(r"[^\w -]", "", visible)
+    return re.sub(r"-+", "-", re.sub(r"\s+", "-", visible).strip("-"))
+
+
+def _markdown_heading_anchors(value: str) -> set[str]:
+    """Collect heading and explicit-span anchors outside fenced code."""
+    anchors: set[str] = set()
+    occurrences: dict[str, int] = {}
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines():
+        fence, is_fence_line = _advance_markdown_fence(line, fence)
+        if is_fence_line or fence is not None:
+            continue
+        anchors.update(
+            match.group("identifier").casefold()
+            for match in MARKDOWN_ANCHOR_SPAN_RE.finditer(line)
+        )
+        match = ATX_HEADING_LINE_RE.fullmatch(line)
+        if match is None:
+            continue
+        explicit = re.search(r"\s+\{#(?P<identifier>[^}]+)\}\s*$", match.group("label"))
+        if explicit is not None:
+            anchors.add(explicit.group("identifier").casefold())
+        slug = _markdown_heading_slug(
+            re.sub(r"\s+\{#[^}]+\}\s*$", "", match.group("label"))
+        )
+        if not slug:
+            continue
+        occurrence = occurrences.get(slug, 0)
+        occurrences[slug] = occurrence + 1
+        anchors.add(slug if occurrence == 0 else f"{slug}-{occurrence}")
+    return anchors
+
+
+def _normalize_markdown_heading_levels(value: str) -> str:
+    """Prevent skipped ATX heading levels while preserving their hierarchy."""
+    output: list[str] = []
+    previous_level = 0
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines():
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+        heading = ATX_HEADING_LINE_RE.fullmatch(line)
+        if heading is None:
+            output.append(line)
+            continue
+        level = len(heading.group("marks"))
+        if previous_level and level > previous_level + 1:
+            level = previous_level + 1
+            line = "#" * level + " " + heading.group("label").strip()
+        previous_level = level
+        output.append(line)
+    return "\n".join(output)
+
+
+def _strip_missing_contents_links(value: str) -> str:
+    """Drop Contents entries whose headings were removed during conversion."""
+    anchors = _markdown_heading_anchors(value)
+    lines = value.splitlines()
+    removed: set[int] = set()
+    for index, line in enumerate(lines):
+        if CONTENTS_HEADING_RE.fullmatch(line.strip()) is None:
+            continue
+        entries: list[int] = []
+        cursor = index + 1
+        while cursor < len(lines):
+            if not lines[cursor].strip():
+                cursor += 1
+                continue
+            if CONTENTS_LINK_RE.fullmatch(lines[cursor]) is None:
+                break
+            entries.append(cursor)
+            cursor += 1
+        if not entries:
+            continue
+        retained = 0
+        for entry_index in entries:
+            match = CONTENTS_LINK_RE.fullmatch(lines[entry_index])
+            if match is None:
+                continue
+            fragment = urllib.parse.unquote(match.group("fragment")).casefold()
+            if fragment not in anchors:
+                removed.add(entry_index)
+            else:
+                retained += 1
+        if retained == 0:
+            removed.add(index)
+            cursor = index + 1
+            while cursor < len(lines) and (
+                not lines[cursor].strip()
+                or cursor in entries
+            ):
+                removed.add(cursor)
+                cursor += 1
+    return "\n".join(
+        line for index, line in enumerate(lines) if index not in removed
+    )
+
+
+def _normalize_markdown_footnotes(value: str) -> str:
+    """Remove empty footnote definitions and render table-cell notes as plain markers."""
+    lines = value.splitlines()
+    empty_labels: set[str] = set()
+    definition_lines: set[int] = set()
+    for index, line in enumerate(lines):
+        match = FOOTNOTE_DEFINITION_RE.fullmatch(line)
+        if match is None:
+            continue
+        body = match.group("body").strip()
+        continuation = (
+            index + 1 < len(lines)
+            and bool(re.match(r"^(?: {2,}|\t)\S", lines[index + 1]))
+        )
+        if not body and not continuation:
+            empty_labels.add(match.group("label").casefold())
+            definition_lines.add(index)
+
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for index, line in enumerate(lines):
+        is_fence = FENCED_CODE_RE.match(line)
+        if is_fence is not None:
+            marker = is_fence.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+        if index in definition_lines:
+            continue
+        if line.lstrip().startswith("|"):
+            line = FOOTNOTE_REFERENCE_RE.sub(
+                lambda item: f" ({item.group('label')})", line
+            )
+        elif empty_labels:
+            line = FOOTNOTE_REFERENCE_RE.sub(
+                lambda item: (
+                    ""
+                    if item.group("label").casefold() in empty_labels
+                    else item.group(0)
+                ),
+                line,
+            )
+        output.append(re.sub(r"[ \t]{2,}", " ", line))
+    return "\n".join(output)
+
+
+def _normalize_markdown_link_labels(value: str) -> str:
+    """Trim link labels and replace generic 'here' labels with useful text."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+        pieces = INLINE_CODE_SPAN_RE.split(line)
+        for index in range(0, len(pieces), 2):
+            visible = pieces[index]
+            visible = re.sub(
+                r"(?<!!)\[([^\]\n]*?\S)[ \t]+\]\(",
+                r"[\1](",
+                visible,
+            )
+
+            def describe_here(match: re.Match[str]) -> str:
+                destination = match.group("destination")
+                parsed = urllib.parse.urlsplit(destination)
+                host = parsed.netloc.casefold()
+                if "steamcommunity.com" in host:
+                    label = "Steam community discussion"
+                elif "youtube.com" in host or "youtu.be" in host:
+                    label = "YouTube channel"
+                elif host:
+                    label = "external resource"
+                else:
+                    target = urllib.parse.unquote(parsed.path.rsplit("/", 1)[-1])
+                    label = Path(target).stem.replace("_", " ").replace("-", " ")
+                    label = re.sub(r"\s+", " ", label).strip() or "linked page"
+                return f"[{label}]({destination})"
+
+            visible = re.sub(
+                r"\[(?P<label>here)\]\((?P<destination>[^)\n]+)\)",
+                describe_here,
+                visible,
+                flags=re.IGNORECASE,
+            )
+            visible = re.sub(
+                r"(?<![A-Za-z0-9._%+-])mods@hinterlandgames\.com(?![A-Za-z0-9.-])",
+                "[mods@hinterlandgames.com](mailto:mods@hinterlandgames.com)",
+                visible,
+                flags=re.IGNORECASE,
+            )
+            pieces[index] = visible
+        output.append("".join(pieces))
+    return "".join(output)
 
 
 def _strip_leaked_html_markup(value: str) -> str:
@@ -1788,10 +2034,12 @@ def _normalize_markdown_list_indentation(value: str) -> str:
 
 
 def _normalize_markdown_blank_lines(value: str) -> str:
-    """Collapse repeated blank lines outside fenced code blocks."""
+    """Normalize blank lines, blockquotes, headings, and invalid trailing spaces."""
+    source_lines = value.splitlines()
     output: list[str] = []
     fence: tuple[str, int] | None = None
-    for line in value.splitlines():
+    for index, original in enumerate(source_lines):
+        line = original
         match = FENCED_CODE_RE.match(line)
         if match is not None:
             marker = match.group(1)
@@ -1801,9 +2049,35 @@ def _normalize_markdown_blank_lines(value: str) -> str:
                 fence = None
             output.append(line)
             continue
-        if fence is None and not line.strip() and output and not output[-1].strip():
+        if fence is not None:
+            output.append(line)
+            continue
+
+        trailing_spaces = len(line) - len(line.rstrip(" "))
+        if trailing_spaces not in {0, 2}:
+            line = line.rstrip(" \t")
+
+        if not line.strip() and output and output[-1].lstrip().startswith(">"):
+            following = next(
+                (candidate for candidate in source_lines[index + 1 :] if candidate.strip()),
+                "",
+            )
+            if following.lstrip().startswith(">"):
+                line = ">"
+
+        is_heading = re.match(r"^ {0,3}#{1,6}[ \t]+", line) is not None
+        if is_heading and output and output[-1].strip():
+            output.append("")
+        if not line.strip() and output and not output[-1].strip():
             continue
         output.append(line)
+        if (
+            is_heading
+            and index + 1 < len(source_lines)
+            and source_lines[index + 1].strip()
+        ):
+            output.append("")
+
     return "\n".join(output).rstrip() + "\n"
 
 

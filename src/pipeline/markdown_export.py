@@ -1906,7 +1906,7 @@ def _empty_markdown_footnote_definitions(
             continue
         has_continuation = (
             index + 1 < len(lines)
-            and bool(re.match(r"^(?: {2,}|\\t)\\S", lines[index + 1]))
+            and bool(re.match(r"^(?: {2,}|\t)\S", lines[index + 1]))
         )
         if not match.group("body").strip() and not has_continuation:
             empty_labels.add(match.group("label").casefold())
@@ -1931,7 +1931,7 @@ def _normalize_markdown_footnote_line(
             ),
             line,
         )
-    return re.sub(r"[ \\t]{2,}", " ", line)
+    return re.sub(r"[ \t]{2,}", " ", line)
 
 
 def _normalize_markdown_footnotes(value: str) -> str:
@@ -1969,25 +1969,25 @@ def _describe_generic_here_link(match: re.Match[str]) -> str:
     else:
         target = urllib.parse.unquote(parsed.path.rsplit("/", 1)[-1])
         label = Path(target).stem.replace("_", " ").replace("-", " ")
-        label = re.sub(r"\\s+", " ", label).strip() or "linked page"
+        label = re.sub(r"\s+", " ", label).strip() or "linked page"
     return f"[{label}]({destination})"
 
 
 def _normalize_markdown_link_segment(value: str) -> str:
     """Normalize visible Markdown links and contact addresses outside code."""
     value = re.sub(
-        r"(?<!!)\\[[ \\t]*([^\\]\\n]*?\\S)[ \\t]*\\]\\(",
-        r"[\\1](",
+        r"(?<!!)\\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(",
+        r"[\1](",
         value,
     )
     value = re.sub(
-        r"\\[(?P<label>here)\\]\\((?P<destination>[^)\\n]+)\\)",
+        r"\[(?P<label>here)\]\((?P<destination>[^)\n]+)\)",
         _describe_generic_here_link,
         value,
         flags=re.IGNORECASE,
     )
     return re.sub(
-        r"(?<![A-Za-z0-9._%+-])mods@hinterlandgames\\.com(?![A-Za-z0-9.-])",
+        r"(?<![A-Za-z0-9._%+-])mods@hinterlandgames\.com(?![A-Za-z0-9.-])",
         "[mods@hinterlandgames.com](mailto:mods@hinterlandgames.com)",
         value,
         flags=re.IGNORECASE,
@@ -2127,8 +2127,8 @@ def _normalize_markdown_list_spacing(
 ) -> str:
     """Trim invalid trailing whitespace and normalize Markdown list markers."""
     trailing_spaces = len(line) - len(line.rstrip(" "))
-    if trailing_spaces not in {0, 2} or line.endswith("\\t"):
-        line = line.rstrip(" \\t")
+    if trailing_spaces not in {0, 2} or line.endswith("\t"):
+        line = line.rstrip(" \t")
 
     list_item = MARKDOWN_LIST_ITEM_RE.match(line)
     if list_item is None:
@@ -2169,7 +2169,7 @@ def _append_markdown_heading_spacing(
     line: str, output: list[str], has_following_line: bool
 ) -> None:
     """Add blank lines around headings while collapsing repeated blank lines."""
-    is_heading = re.match(r"^ {0,3}#{1,6}[ \\t]+", line) is not None
+    is_heading = re.match(r"^ {0,3}#{1,6}[ \t]+", line) is not None
     if is_heading and output and output[-1].strip():
         output.append("")
     if not line.strip() and output and not output[-1].strip():
@@ -2585,7 +2585,7 @@ def _normalize_multiline_strong_paragraph(paragraph: str) -> str:
     protected_code: list[str] = []
 
     def protect_inline_code(match: re.Match[str]) -> str:
-        token = f"\\x00MDINLINE{len(protected_code)}\\x00"
+        token = f"\x00MDINLINE{len(protected_code)}\x00"
         protected_code.append(match.group(0))
         return token
 
@@ -2593,7 +2593,7 @@ def _normalize_multiline_strong_paragraph(paragraph: str) -> str:
 
     def replace_multiline_strong(match: re.Match[str]) -> str:
         content = match.group("content")
-        if "\\n" not in content:
+        if "\n" not in content:
             return match.group(0)
         return f"**{content}**"
 
@@ -2601,7 +2601,7 @@ def _normalize_multiline_strong_paragraph(paragraph: str) -> str:
         replace_multiline_strong, masked
     )
     for index, code in enumerate(protected_code):
-        normalized = normalized.replace(f"\\x00MDINLINE{index}\\x00", code)
+        normalized = normalized.replace(f"\x00MDINLINE{index}\x00", code)
     return normalized
 
 
@@ -2611,7 +2611,7 @@ def _flush_multiline_strong_paragraphs(
     """Normalize buffered paragraphs and append them to the output."""
     if not pending:
         return
-    paragraphs = re.split(r"(\\n[ \\t]*\\n)", "".join(pending))
+    paragraphs = re.split(r"(\n[ \t]*\n)", "".join(pending))
     pending.clear()
     output.extend(_normalize_multiline_strong_paragraph(item) for item in paragraphs)
 

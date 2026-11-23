@@ -1696,7 +1696,7 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
     )
 
     render_infobox = cast(
-        "Callable[[etree._Element, dict[str, str], str], str]",
+        "Callable[[object, dict[str, str], str], str]",
         wiki_to_html_module.render_infobox,
     )
     rendered = render_infobox(

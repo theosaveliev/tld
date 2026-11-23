@@ -2,9 +2,9 @@
 # These rules either require rewriting source content or misread intentional wiki markup.
 ignore = ["MD005", "MD007", "MD013", "MD026", "MD029", "MD036", "MD049", "MD052"]
 
-# Raw HTML elements must never leak into user-facing Markdown.
+# Allow explicit anchor IDs where Cambium's heading slugs differ from GitHub's.
 [rules.MD033]
-allowed_elements = []
+allowed_elements = ["a"]
 table_allowed_elements = []
 
 # Exported tables use aligned (padded) Markdown cells.

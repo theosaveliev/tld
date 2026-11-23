@@ -24,3 +24,7 @@ style = "underscore"
 
 [rules.MD050]
 style = "asterisk"
+
+# Contents links are compared case-insensitively; the exporter removes stale anchors.
+[rules.MD051]
+ignore_case = true

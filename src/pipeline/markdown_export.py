@@ -1721,10 +1721,6 @@ def _markdown_heading_anchors(value: str) -> set[str]:
         fence, is_fence_line = _advance_markdown_fence(line, fence)
         if is_fence_line or fence is not None:
             continue
-        anchors.update(
-            match.group("identifier").casefold()
-            for match in MARKDOWN_ANCHOR_SPAN_RE.finditer(line)
-        )
         match = ATX_HEADING_LINE_RE.fullmatch(line)
         if match is None:
             continue

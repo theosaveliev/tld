@@ -3569,7 +3569,11 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
         first_cell, first_value = values[0]
         first_has_image = any(_html_tag(child) == "img" for child in first_cell.iter())
-        if collecting_details and not first_has_image and len(values) == INFOBOX_VALUE_CELL_COUNT:
+        if (
+            collecting_details
+            and not first_has_image
+            and len(values) == INFOBOX_VALUE_CELL_COUNT
+        ):
             detail = _render_image_layout_cell(values[1][1])
             label = first_value.strip()
             if label.startswith("**") and label.endswith("**"):
@@ -5251,7 +5255,10 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
                         if github_occurrence
                         else github_base
                     )
-                    if cambium_id != github_id and cambium_id.casefold() not in existing_ids:
+                    if (
+                        cambium_id != github_id
+                        and cambium_id.casefold() not in existing_ids
+                    ):
                         existing_ids.add(cambium_id.casefold())
                         output.append(
                             f'<a id="{html.escape(cambium_id, quote=True)}"></a>\n'

@@ -67,6 +67,18 @@ declarations, and leaked MediaWiki file or table markup. The export writes
 `markup-audit.json` and fails when any unrendered markup remains. Literal code
 examples in fenced or inline code are excluded from this audit.
 
+
+## Check exported Markdown formatting
+
+After exporting the workspace, run the repository's configured Markdown linter:
+
+```bash
+poe markdown-lint
+```
+
+This task explicitly loads `.mdlint.toml`, which keeps source-derived wiki
+wording and intentional table formatting from being reported as style errors.
+
 To rescan an existing workspace without running the exporter again:
 
 ```bash

@@ -41,6 +41,9 @@ ITALIC_ASTERISK_RE = re.compile(
     r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
 )
 STRONG_UNDERSCORE_RE = re.compile(r"(?<!_)__(?P<content>\S(?:[^\n]*?\S)?)__(?!_)")
+MULTILINE_STRONG_UNDERSCORE_RE = re.compile(
+    r"(?<!_)__(?P<content>\S(?:[\s\S]*?\S)?)\s*__(?!_)"
+)
 LANGUAGE_INTERWIKI_SCHEME_RE = re.compile(r"^[a-z]{2,3}$")
 RECIPE_TEMPLATE_RE = re.compile(r"\{\{\s*Infobox recipe\b([\s\S]*?)\}\}", re.IGNORECASE)
 USES_MATERIAL_LIST_RE = re.compile(
@@ -2504,8 +2507,67 @@ def _normalize_markdown_headings(value: str) -> str:
     return "".join(output)
 
 
+def _normalize_multiline_strong_underscores(value: str) -> str:
+    """Convert Wikitext bold spans that continue across Markdown source lines."""
+    output: list[str] = []
+    pending: list[str] = []
+    fence: tuple[str, int] | None = None
+
+    def flush_paragraphs() -> None:
+        if not pending:
+            return
+        paragraphs = re.split(r"(\n[ \t]*\n)", "".join(pending))
+        pending.clear()
+        for paragraph in paragraphs:
+            if not paragraph.strip():
+                output.append(paragraph)
+                continue
+
+            protected_code: list[str] = []
+
+            def protect_inline_code(match: re.Match[str]) -> str:
+                token = f"\x00MDINLINE{len(protected_code)}\x00"
+                protected_code.append(match.group(0))
+                return token
+
+            masked = INLINE_CODE_SPAN_RE.sub(protect_inline_code, paragraph)
+
+            def replace_multiline_strong(match: re.Match[str]) -> str:
+                content = match.group("content")
+                if "\n" not in content:
+                    return match.group(0)
+                return f"**{content}**"
+
+            normalized = MULTILINE_STRONG_UNDERSCORE_RE.sub(
+                replace_multiline_strong, masked
+            )
+            for index, code in enumerate(protected_code):
+                normalized = normalized.replace(f"\x00MDINLINE{index}\x00", code)
+            output.append(normalized)
+
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            flush_paragraphs()
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+        pending.append(line)
+
+    flush_paragraphs()
+    return "".join(output)
+
+
 def _normalize_markdown_emphasis(value: str) -> str:
     """Use underscore-delimited italics without changing code spans or fences."""
+    value = _normalize_multiline_strong_underscores(value)
     output: list[str] = []
     fence: tuple[str, int] | None = None
     for line in value.splitlines(keepends=True):

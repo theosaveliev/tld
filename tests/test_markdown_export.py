@@ -10,6 +10,8 @@ from lxml import html as lhtml
 
 from pipeline import markdown_export as markdown_export_module
 from pipeline import wiki_to_html as wiki_to_html_module
+from pipeline.categories import collect_category_hierarchy
+from pipeline.wiki import Page, Wiki
 from pipeline.markdown_export import (
     DumpPage,
     PageExportResult,
@@ -1666,6 +1668,75 @@ def test_page_markdown_cleans_invisible_prefix_before_table_markup(
 
     assert r"{\|" not in markdown
     assert "messagebox" not in markdown
+
+
+def test_category_hierarchy_ignores_self_parent_but_keeps_real_parent() -> None:
+    wiki = Wiki(
+        pages={
+            "Category:Episodes": Page(
+                "Category:Episodes", 14, "[[Category:Episodes]]"
+            ),
+            "Category:Episode 1": Page(
+                "Category:Episode 1", 14, "[[Category:Episodes]]"
+            ),
+        },
+        ns_names={14: "Category"},
+        ns_lookup={"category": 14},
+    )
+
+    parents, category_titles, category_page_count = collect_category_hierarchy(wiki)
+
+    assert category_page_count == 2
+    assert category_titles == {"Category:Episodes", "Category:Episode 1"}
+    assert parents["Category:Episode 1"] == {"Category:Episodes"}
+    assert "Category:Episodes" not in parents["Category:Episodes"]
+
+
+def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
+    class TemplateContext:
+        templates = {
+            "Template:Infobox/Region": (
+                "<infobox><header>Details</header></infobox>"
+            )
+        }
+
+    load_infobox_defs = cast(
+        "Callable[[object], Mapping[str, object]]",
+        wiki_to_html_module.load_infobox_defs,
+    )
+    definitions = load_infobox_defs(TemplateContext())
+
+    assert "Infobox/Region" in definitions
+    assert "infobox/region" in definitions
+
+
+def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
+    stats: RenderStats = {
+        "infoboxes": 0,
+        "missing_templates": [],
+        "infobox_left": 0,
+        "missing_images": [],
+        "redlinks": 0,
+        "unrendered": 0,
+    }
+    postexpand = cast(
+        "Callable[[str, list[str], RenderStats], str]",
+        wiki_to_html_module.postexpand,
+    )
+    expanded = (
+        '<infobox><header>Condition</header>'
+        '<data source="warmth"><label>Warmth</label>'
+        "<format>+20%</format></data></infobox>"
+    )
+
+    rendered = postexpand(expanded, [], stats)
+
+    assert '<table class="infobox">' in rendered
+    assert "<th>Warmth</th>" in rendered
+    assert "+20%" in rendered
+    assert "<infobox" not in rendered
+    assert stats["infoboxes"] == 1
+    assert stats["infobox_left"] == 0
 
 
 def test_expand_page_preserves_generated_infobox_html_table() -> None:

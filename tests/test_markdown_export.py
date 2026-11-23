@@ -1019,6 +1019,20 @@ def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     assert markdown.startswith("| Item | Skills | Materials |")
 
 
+def test_infobox_pipe_table_uses_single_space_for_empty_cells() -> None:
+    fragment = """<table class="infobox"><tbody>
+<tr><th>Property</th><th>Details</th></tr>
+<tr><td></td><td>Image</td></tr>
+<tr><td><strong>Properties</strong></td><td></td></tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "| | Image |" in markdown
+    assert "| **Properties** | |" in markdown
+    assert "|  |" not in markdown
+
+
 def test_image_bearing_infobox_preserves_images_in_pipe_table() -> None:
     fragment = """<table class="infobox"><tbody><tr><td>
 <strong>Acorn Bannock</strong><br />
@@ -1039,6 +1053,22 @@ def test_image_bearing_infobox_preserves_images_in_pipe_table() -> None:
     assert "**Release:** 21 June 2023" in markdown
     assert "**Wintermute:** No" in markdown
     assert "<br>" not in markdown
+
+
+def test_image_bearing_infobox_preserves_details_as_a_pipe_table() -> None:
+    fragment = """<table><tbody>
+<tr><td><img src="../assets/Region.png" alt="Region map" /></td></tr>
+<tr><td colspan="2"><strong>Details</strong></td></tr>
+<tr><th>Description</th><td>A remote, wind-blown valley.</td></tr>
+<tr><th>Connecting Regions</th><td>Mountain Town</td></tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "**Details**" in markdown
+    assert "| Property | Details |" in markdown
+    assert "| Description | A remote, wind-blown valley. |" in markdown
+    assert "| Connecting Regions | Mountain Town |" in markdown
 
 
 def test_image_bearing_data_table_with_headers_keeps_pipe_table_layout() -> None:
@@ -1846,6 +1876,8 @@ def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
         "# Time Capsule\n\n"
         "## V2.01 Perilous Constraint\n\n"
         f"## {passenger_heading}\n\n"
+        "## Jeremiah's Trust\n\n"
+        "[Trust](#jeremiah-s-trust)\n"
         "[Contents](#v201-perilous-constraint)\n"
         f"- [{passenger_heading}](#{legacy_passenger_anchor})\n",
         encoding="utf-8",
@@ -1865,6 +1897,8 @@ def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
     passenger_anchor = _cambium_heading_anchor_map(f"## {passenger_heading}\n")[
         legacy_passenger_anchor
     ]
+    assert '<a id="jeremiah-s-trust"></a>' in capsule
+    assert "[Trust](#jeremiah-s-trust)" in capsule
     assert "[Contents](#v2-01-perilous-constraint)" in capsule
     assert f"- [{passenger_heading}](#{passenger_anchor})" in capsule
     assert legacy_passenger_anchor not in capsule
@@ -1885,6 +1919,26 @@ def test_page_markdown_autolinks_repeated_urls_and_preserves_link_labels() -> No
     assert "from: <https://example.com/the_magic_suitcase/>" in markdown
     assert "[^1]: <https://example.com/page>" in markdown
     assert "[^2]: [External article](https://example.com/article)" in markdown
+
+
+def test_page_markdown_cleans_bracketed_references_language_links_and_pipes() -> None:
+    body = (
+        "A source [\\\\[1](https://example.com/source)\\\\].\n\n"
+        "[es:Valle del río](https://es.wikipedia.org/wiki/Valle) "
+        "[ru:Тихая долина](https://ru.wikipedia.org/wiki/Valley) "
+        "[fr:Vallée](https://fr.wikipedia.org/wiki/Valley)\n\n"
+        "|\n\n"
+        "A surviving [English source](https://example.com/english)."
+    )
+
+    markdown = _page_markdown("Hushed River Valley", [], body, None)
+
+    assert r"[\[1\]](https://example.com/source)" in markdown
+    assert "es:Valle" not in markdown
+    assert "ru:Тихая" not in markdown
+    assert "fr:Vallée" not in markdown
+    assert "\n|\n" not in markdown
+    assert "[English source](https://example.com/english)" in markdown
 
 
 def test_page_markdown_normalizes_skipped_heading_levels() -> None:

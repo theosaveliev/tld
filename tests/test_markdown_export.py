@@ -9,6 +9,7 @@ from lxml import etree
 from lxml import html as lhtml
 
 from pipeline import markdown_export as markdown_export_module
+from pipeline import wiki_to_html as wiki_to_html_module
 from pipeline.markdown_export import (
     DumpPage,
     PageExportResult,
@@ -1631,7 +1632,7 @@ def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:
     assert "messagebox" not in markdown
 
 
-def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
+def test_expand_page_preserves_generated_infobox_html_table() -> None:
     class CollapsingContext(FakeContext):
         def expand(self, text: str, timeout: int) -> str:
             _ = timeout
@@ -1645,7 +1646,12 @@ def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
         stats: RenderStats,
     ) -> str:
         _ = (text, context, infobox_defs, page_title, stats)
-        return "\n{|\n|+ XSENT:infobox:Sample\n|-\n! Label\n| Value\n|}\n"
+        return (
+            '\\n<table class="infobox">\\n'
+            "<tr><th>Region</th><td>Forlorn Muskeg</td></tr>\\n"
+            "<tr><th>Type</th><td>Outdoors</td></tr>\\n"
+            "</table>\\n"
+        )
 
     stats: RenderStats = {
         "infoboxes": 1,
@@ -1666,8 +1672,46 @@ def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
     assert error == ""
     assert expansion_errors == 0
     assert deferred == {}
-    assert expanded.startswith("\n{|")
-    assert "{|\n|+ XSENT:infobox:Sample\n|-\n! Label\n| Value\n|}" in expanded
+    assert '<table class="infobox">' in expanded
+    assert "<th>Region</th>" in expanded
+    assert "<td>Forlorn Muskeg</td>" in expanded
+    assert "<th>Type</th>" in expanded
+    assert "<td>Outdoors</td>" in expanded
+
+
+def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
+    infobox = etree.fromstring(
+        "<infobox>"
+        '<title source="name" />'
+        '<image source="image" />'
+        "<header>General</header>"
+        '<data source="region"><label>Region</label></data>'
+        '<data source="type"><label>Type</label></data>'
+        "</infobox>"
+    )
+
+    rendered = wiki_to_html_module.render_infobox(
+        infobox,
+        {
+            "name": "Sample",
+            "image": "File:Sample.png",
+            "region": "[[Forlorn Muskeg]]",
+            "type": "Outdoors",
+        },
+        "Sample",
+    )
+
+    assert rendered.startswith('\\n<table class="infobox">')
+    assert "<caption>Sample</caption>" in rendered
+    assert "[[File:Sample.png|250px]]" in rendered
+    assert '<th colspan="2" class="section">' in rendered
+    assert "<th>Region</th>" in rendered
+    assert "<td>[[Forlorn Muskeg]]</td>" in rendered
+    assert "<th>Type</th>" in rendered
+    assert "<td>Outdoors</td>" in rendered
+    assert "{|" not in rendered
+    assert "|}" not in rendered
+    assert "|+" not in rendered
 
 
 def test_adjacent_strong_elements_keep_a_word_boundary() -> None:

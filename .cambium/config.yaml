@@ -12,6 +12,8 @@ stage_config:
   CheckLinks:
     links_to_ignore:
       - steam://nav/console
+      - mailto:mods@hinterlandgames.com
+      - ../assets/Landing+logo+wide2.png
 stages:
 - PreviewCSV
 - IdentifyMetadata

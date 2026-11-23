@@ -1734,6 +1734,22 @@ More content.
     assert "## Empty section" not in markdown
 
 
+def test_page_markdown_normalizes_closed_heading_and_list_spacing() -> None:
+    body = """## Section ##
+
+Paragraph
+1.  First item
+2.  Second item
+"""
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "## Section\n" in markdown
+    assert "## Section ##" not in markdown
+    assert "1. First item" in markdown
+    assert "2. Second item" in markdown
+    assert "Paragraph\n\n1. First item" in markdown
+
+
 def test_page_markdown_normalizes_skipped_heading_levels() -> None:
     body = """## Overview
 

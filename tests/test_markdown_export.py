@@ -1823,6 +1823,7 @@ def test_cambium_heading_anchor_map_preserves_legacy_aliases() -> None:
         "## V2.01 Perilous Constraint\n\n"
         "## 2.17 (Frontier Comforts Update)\n\n"
         "## Radio Voice Man\n"
+        "## Some_Identifier\n"
     )
 
     anchors = _cambium_heading_anchor_map(markdown)
@@ -1831,6 +1832,7 @@ def test_cambium_heading_anchor_map_preserves_legacy_aliases() -> None:
     assert anchors["2.01"] == "v2-01-perilous-constraint"
     assert anchors["2.17"] == "2-17-frontier-comforts-update"
     assert anchors["radio_voice_man"] == "radio-voice-man"
+    assert anchors["some_identifier"] == "some_identifier"
 
 
 def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(

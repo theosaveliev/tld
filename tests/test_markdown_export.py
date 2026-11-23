@@ -1940,9 +1940,9 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
         "</group></infobox>"
     )
 
-    rendered = postexpand(expanded, [], stats)
+    rendered = postexpand(expanded + "\n" + expanded, [], stats)
 
-    assert '<table class="infobox">' in rendered
+    assert rendered.count('<table class="infobox">') == 2
     assert '<th colspan="2" class="section">' in rendered
     assert "Condition" in rendered
     assert "<th>Warmth</th>" in rendered
@@ -1950,7 +1950,7 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
     assert "<th>Strength</th>" in rendered
     assert "+20%" in rendered
     assert "<infobox" not in rendered
-    assert stats["infoboxes"] == 1
+    assert stats["infoboxes"] == 2
     assert stats["infobox_left"] == 0
 
 

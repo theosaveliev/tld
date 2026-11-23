@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 import re
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, cast
 
 import pytest
 from lxml import etree
@@ -45,7 +45,7 @@ from pipeline.markdown_export import (
 )
 
 if TYPE_CHECKING:
-    from collections.abc import Mapping
+    from collections.abc import Callable, Mapping
     from pathlib import Path
 
 
@@ -1695,7 +1695,11 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
         "</infobox>"
     )
 
-    rendered = wiki_to_html_module.render_infobox(
+    render_infobox = cast(
+        "Callable[[etree._Element, dict[str, str], str], str]",
+        wiki_to_html_module.render_infobox,
+    )
+    rendered = render_infobox(
         infobox,
         {
             "name": "Sample",

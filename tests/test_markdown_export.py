@@ -1710,6 +1710,104 @@ def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
     assert "infobox/region" in definitions
 
 
+def test_page_markdown_removes_contents_links_for_removed_headings() -> None:
+    body = """**Contents**
+
+- [Existing](#existing)
+- [Empty section](#empty-section)
+
+## Existing
+
+Readable content.
+
+## Empty section
+
+## Next
+
+More content.
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "- [Existing](#existing)" in markdown
+    assert "- [Empty section](#empty-section)" not in markdown
+    assert "## Empty section" not in markdown
+
+
+def test_page_markdown_normalizes_skipped_heading_levels() -> None:
+    body = """## Overview
+
+#### Deep section
+
+##### Deeper section
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "## Overview" in markdown
+    assert "### Deep section" in markdown
+    assert "#### Deeper section" in markdown
+
+
+def test_page_markdown_removes_empty_footnotes_and_disables_table_footnotes() -> None:
+    body = """A valid reference[^1] and an empty one[^2].
+
+| Item | Details |
+| --- | --- |
+| Item A[^1] | Value |
+
+[^1]: A real source.
+[^2]:
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "valid reference[^1]" in markdown
+    assert "| Item A (1) | Value |" in markdown
+    assert "[^1]: A real source." in markdown
+    assert "[^2]" not in markdown
+
+
+def test_page_markdown_describes_here_links_and_linkifies_bare_email() -> None:
+    body = (
+        "Read [here](./Other%20Page.md), visit [Here]("
+        "https://steamcommunity.com/app/305620/discussions/9/), "
+        "or email mods@hinterlandgames.com."
+    )
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "[Other Page](./Other%20Page.md)" in markdown
+    assert "[Steam community discussion](" in markdown
+    assert "[mods@hinterlandgames.com](mailto:mods@hinterlandgames.com)" in markdown
+    assert "[here](" not in markdown.casefold()
+
+
+def test_rewrite_html_links_uses_plain_text_for_missing_image_placeholder(
+    tmp_path: Path,
+) -> None:
+    missing_images: set[str] = set()
+    rewritten = _rewrite_html_links(
+        '<p><img src="FA_Polaroid.png" alt="FA Polaroid" /></p>',
+        "Polaroids",
+        {},
+        {},
+        {},
+        None,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        missing_images,
+    )
+
+    markdown = _html_fragment_to_markdown(rewritten)
+
+    assert "Missing image: FA_Polaroid.png" in markdown
+    assert "[Missing image:" not in markdown
+    assert missing_images == {"fa_polaroid.png"}
+
+
 def test_postexpand_converts_tabber_titles_to_headings() -> None:
     stats: RenderStats = {
         "infoboxes": 0,

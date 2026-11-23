@@ -37,9 +37,9 @@ from pipeline.markdown_export import (
     _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
-    _write_workspace_index,  # pyright: ignore[reportPrivateUsage]
     _cambium_heading_anchor_map,  # pyright: ignore[reportPrivateUsage]
     _rewrite_workspace_fragment_links,  # pyright: ignore[reportPrivateUsage]
+    _write_workspace_index,  # pyright: ignore[reportPrivateUsage]
     audit_markdown_workspace,
     load_filename_mapping,
     normalize_image_name,

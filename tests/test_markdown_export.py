@@ -1804,9 +1804,9 @@ Paragraph
 def test_page_markdown_preserves_label_for_missing_inpage_fragment() -> None:
     body = (
         "See [Notes](#Notes), [Details](#details), [top](#top), "
-        "and [Obsolete](#obsolete).\\n\\n"
-        "## Details\\n\\nMore information.\\n\\n"
-        '<span id="obsolete"></span>\\n'
+        "and [Obsolete](#obsolete).\n\n"
+        "## Details\n\nMore information.\n\n"
+        '<span id="obsolete"></span>\n'
     )
 
     markdown = _page_markdown("Sample", [], body, None)

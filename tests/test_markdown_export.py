@@ -45,8 +45,14 @@ from pipeline.markdown_export import (
 )
 
 if TYPE_CHECKING:
-    from collections.abc import Callable, Mapping
+    from collections.abc import Callable, Iterator, Mapping
     from pathlib import Path
+    from typing import Protocol
+
+    class _HtmlTestElement(Protocol):
+        def itertext(self) -> Iterator[str]: ...
+
+        def xpath(self, expression: str) -> object: ...
 
 
 class FakeContext:
@@ -1721,22 +1727,32 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
         "contains(concat(' ', normalize-space(@class), ' '), ' section ')]"
     )
 
+    full_width_cells = cast(
+        "list[_HtmlTestElement]", table.xpath(".//td[@colspan='2']")
+    )
     full_width_values = [
-        " ".join("".join(cell.itertext()).split())
-        for cell in table.xpath(".//td[@colspan='2']")
+        " ".join("".join(cell.itertext()).split()) for cell in full_width_cells
     ]
     assert "[[File:Sample.png|250px]]" in full_width_values
     assert "A quiet camp" in full_width_values
 
-    region_rows = table.xpath(".//tr[th[normalize-space(.)='Region']]")
-    assert len(region_rows) == 1
-    assert region_rows[0].xpath("normalize-space(string(./td))") == (
-        "[[Forlorn Muskeg]]"
+    region_rows = cast(
+        "list[_HtmlTestElement]",
+        table.xpath(".//tr[th[normalize-space(.)='Region']]"),
     )
+    assert len(region_rows) == 1
+    region_value = cast(
+        "str", region_rows[0].xpath("normalize-space(string(./td))")
+    )
+    assert region_value == "[[Forlorn Muskeg]]"
 
-    type_rows = table.xpath(".//tr[th[normalize-space(.)='Type']]")
+    type_rows = cast(
+        "list[_HtmlTestElement]",
+        table.xpath(".//tr[th[normalize-space(.)='Type']]"),
+    )
     assert len(type_rows) == 1
-    assert type_rows[0].xpath("normalize-space(string(./td))") == "Outdoors"
+    type_value = cast("str", type_rows[0].xpath("normalize-space(string(./td))"))
+    assert type_value == "Outdoors"
 
     assert "{|" not in rendered
     assert "|}" not in rendered

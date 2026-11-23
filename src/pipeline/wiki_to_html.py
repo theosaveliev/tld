@@ -507,6 +507,7 @@ def postexpand(text, cats, stats):
     text = tabber_to_wikitext(text)
     text = gallery_to_wikitext(text)
     text = thumbs_to_marked(text)
+
     def render_leftover_infobox(match):
         try:
             root = etree.fromstring(

@@ -1717,7 +1717,8 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
     assert table.get("class") == "infobox"
     assert table.xpath("normalize-space(string(./caption))") == "Sample"
     assert table.xpath(
-        ".//th[@colspan='2' and contains(concat(' ', normalize-space(@class), ' '), ' section ')]"
+        ".//th[@colspan='2' and "
+        "contains(concat(' ', normalize-space(@class), ' '), ' section ')]"
     )
 
     full_width_values = [

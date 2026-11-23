@@ -1285,6 +1285,13 @@ def _add_footnote_heading(root: lhtml.HtmlElement) -> None:
             section.insert(0, heading)
 
 
+def _record_missing_image(missing_images: set[str], target: str) -> None:
+    """Record a missing image only when its reference includes a usable name."""
+    normalized = normalize_image_name(target)
+    if normalized:
+        missing_images.add(normalized)
+
+
 def _rewrite_image_nodes(
     root: lhtml.HtmlElement,
     image_index: dict[str, Path],
@@ -1323,7 +1330,7 @@ def _rewrite_image_nodes(
             image.set("src", "../assets/" + _safe_destination(output_name))
             continue
 
-        missing_images.add(normalize_image_name(source_name))
+        _record_missing_image(missing_images, source_name)
         label = image.get("alt") or ""
         caption = label[len("XTHUMB") :].strip() if label.startswith("XTHUMB") else ""
         placeholder = cast("lhtml.HtmlElement", etree.Element("span"))
@@ -1378,7 +1385,7 @@ def _rewrite_namespace_anchor(
         raw, image_index, image_dir, asset_dir, copied_images, used_asset_names
     )
     if output_name is None:
-        missing_images.add(normalize_image_name(raw))
+        _record_missing_image(missing_images, raw)
         link.drop_tag()
     else:
         link.set("href", "../assets/" + _safe_destination(output_name))

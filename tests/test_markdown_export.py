@@ -1886,7 +1886,7 @@ def test_rewrite_html_links_uses_plain_text_for_missing_image_placeholder(
 
     markdown = _html_fragment_to_markdown(rewritten)
 
-    assert "Missing image: FA_Polaroid.png" in markdown
+    assert r"Missing image: FA\_Polaroid.png" in markdown
     assert "[Missing image:" not in markdown
     assert missing_images == {"fa_polaroid.png"}
 
@@ -1944,7 +1944,7 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
     assert rendered.count('<table class="infobox">') == 2
     assert '<th colspan="2" class="section">' in rendered
     assert "Condition" in rendered
-    assert "<th>Warmth</th>" in rendered
+    assert "<th>Warmth</th>" in "".join(rendered.split())
     assert "[[Warmth]]" in rendered
     assert "<th>Strength</th>" in rendered
     assert "+20%" in rendered

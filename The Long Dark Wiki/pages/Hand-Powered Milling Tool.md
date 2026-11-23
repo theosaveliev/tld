@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
+| | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
 | Release | Wintermute Release |
 | Update | [1.00](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Story item | [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |

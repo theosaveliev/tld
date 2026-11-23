@@ -13,10 +13,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Nourished icon](../assets/Nourished_icon.png) |
+| | [Nourished icon](../assets/Nourished_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Update | 2.17 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume [Food And Drink](./Food%20And%20Drink.md) |
 | Effect | Positive |
@@ -35,6 +35,7 @@
 
 Nourished is acquired from consuming certain recipes that gives a so-called "Max Stat Buff", temporarily increasing either the survivor's maximum [Condition](./Condition.md) by 5%-10% for 3 hours, depending on the food consumed, or their maximum [Stamina](./Stamina.md) by 15% for 3 hours. Gaining either of these benefits will apply the Nourished affliction.
 
+<a id="maximum-condition-benefit-5-10"></a>
 ### Maximum Condition benefit (+5%/+10%)
 
 Consuming certain recipes increases the survivor's maximum Condition by 5% or 10% for 3 hours, depending on the food consumed. This effect can raise the maximum Condition to 110%, and the Affliction's bonus stacks with [Well Fed's](./Well%20Fed.md) extra 5% Condition, making the highest attainable Condition peak at 115%.

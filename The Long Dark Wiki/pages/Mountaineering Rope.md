@@ -14,17 +14,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png) |
+| | [Mountaineering Rope icon](../assets/Mountaineering_Rope_icon.png) |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Heavy-duty rope designed for climbing. |
-| **Values** |  |
+| **Values** | |
 | Weight | 5.00 kg (11 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 
 **Mountaineering Rope** is a tool used for [climbing](./Rope%20Climbing.md) cliff faces.

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Letter (Car) icon](../assets/Letter_%28Car%29_icon.png) |
+| | [Letter (Car) icon](../assets/Letter_%28Car%29_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An old office memo, missing pieces and water-stained. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

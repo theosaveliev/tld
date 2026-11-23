@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-| **Details** |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| **Details** | |
 | Difficulty | Intermediate |
 
 [The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)

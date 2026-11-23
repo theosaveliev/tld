@@ -1,3 +1,4 @@
+<a id="jailer-s-residence"></a>
 # Jailer's Residence
 
 **Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jailer's_Residence)
@@ -6,14 +7,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Jailer's Residence](../assets/Jailer%27s_Residence.jpg) |
-| **Location** |  |
-|  | [Jailer's Residence Location](../assets/Jailer%27s_Residence_Location.png) |
-| Region |  |
-| **General** |  |
+| | [Jailer's Residence](../assets/Jailer%27s_Residence.jpg) |
+| **Location** | |
+| | [Jailer's Residence Location](../assets/Jailer%27s_Residence_Location.png) |
+| Region | |
+| **General** | |
 | Type | Outdoors |
-| [Bed icon](../assets/Bed_icon.png) |  |
-|  | Provides some shelter |
+| [Bed icon](../assets/Bed_icon.png) | |
+| | Provides some shelter |
 
 > “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**”
 >

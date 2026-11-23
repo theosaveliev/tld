@@ -174,13 +174,13 @@ The player cannot select which region they will spawn in. Instead, the game will
 
 | DIFFICULTY | INTERLOPER |
 | --- | --- |
-| GAME START |  |
+| GAME START | |
 | Baseline resource availability | Low |
 | Starting time of day | Random |
 | Starting weather | Random |
 | Indoor spawns permitted | No |
 | Survivor monologue | Yes |
-| ENVIRONMENT |  |
+| ENVIRONMENT | |
 | Length of day multiplier | 1x |
 | Weather variability | Very High |
 | Blizzard frequency | Very High |
@@ -189,7 +189,7 @@ The player cannot select which region they will spawn in. Instead, the game will
 | Aurora frequency | Medium |
 | Fire overcomes ambient air temp | No |
 | Endless night (v1.83) | No |
-| HEALTH |  |
+| HEALTH | |
 | Calorie burn rate | Very High |
 | Thirst rate | High |
 | Fatigue rate | Medium |
@@ -209,7 +209,7 @@ The player cannot select which region they will spawn in. Instead, the game will
 | Fires prevent freezing | No |
 | Wake up player when freezing near a fire | No |
 | Birch bark tea crafting **(v.1.64)** | Yes |
-| GEAR |  |
+| GEAR | |
 | Item decay rate | Very High |
 | Loose item availability | Low |
 | Empty container chance modifier | High |
@@ -219,7 +219,7 @@ The player cannot select which region they will spawn in. Instead, the game will
 | Revolver availability **(v.1.64)** | No |
 | Harvestable plant availability | High |
 | Reduce container item density | High |
-| WILDLIFE SPAWNS |  |
+| WILDLIFE SPAWNS | |
 | Cougar spawn chance | High |
 | Wolf spawn chance | High |
 | Timberwolf spawn chance | High |
@@ -231,7 +231,7 @@ The player cannot select which region they will spawn in. Instead, the game will
 | Reduce wildlife population over time | High |
 | Wolf spawn distance | Close |
 | Predator grace period | No |
-| WILDLIFE BEHAVIOUR |  |
+| WILDLIFE BEHAVIOUR | |
 | Wildlife smell range | High |
 | Scent increase from Meat/Blood | Medium |
 | Passive wildlife | No |
@@ -239,7 +239,7 @@ The player cannot select which region they will spawn in. Instead, the game will
 | Wolf fear | Medium |
 | Timberwolf morale | Low |
 | Wildlife detection range | Medium |
-| WILDLIFE STRUGGLE |  |
+| WILDLIFE STRUGGLE | |
 | Struggle bonus | None |
 | Struggle condition damage modifier | High |
 | Struggle clothing damage modifier | High |

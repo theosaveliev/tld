@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Abandoned Harris Home](../assets/Abandoned_Harris_Home.jpg) |
-| **Location** |  |
-|  | [Abandoned Harris Home Location](../assets/Abandoned_Harris_Home_Location.png) |
+| | [Abandoned Harris Home](../assets/Abandoned_Harris_Home.jpg) |
+| **Location** | |
+| | [Abandoned Harris Home Location](../assets/Abandoned_Harris_Home_Location.png) |
 | Region | [Old Island Connector](./Crumbling%20Highway.md) |
 | Description | A house with an accessible basement |
-| **General** |  |
+| **General** | |
 | Type | Residential |
-|  | Has an interior |
+| | Has an interior |
 
 **Abandoned Harris Home** is a location in [Crumbling Highway](./Crumbling%20Highway.md).
 

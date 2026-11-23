@@ -14,15 +14,15 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Looted Grotto](../assets/Looted_Grotto.jpg) |
-| **Location** |  |
-|  | [Looted Grotto Location](../assets/Looted_Grotto_Location.png) |
+| | [Looted Grotto](../assets/Looted_Grotto.jpg) |
+| **Location** | |
+| | [Looted Grotto Location](../assets/Looted_Grotto_Location.png) |
 | Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | South eastern section of the map |
 | Description | A set of ruined buildings and trailers built under the cliffs |
-| **General** |  |
+| **General** | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Looted Grotto** is a location in [Port Remnant](./Port%20Remnant.md).
 

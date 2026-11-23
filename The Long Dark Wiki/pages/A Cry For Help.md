@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Perseverance](./Perseverance.md) |
 | Current | A Cry For Help |
 | Next | [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md) |

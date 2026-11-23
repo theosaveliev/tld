@@ -1,3 +1,4 @@
+<a id="bank-manager-s-house"></a>
 # Bank Manager's House
 
 **Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
@@ -7,8 +8,6 @@
 ![Exterior](../assets/Milton_Bank_Managers_House.jpg)
 
 ![Interior](../assets/Bank_managers_house_interior.jpg)
-
-|
 
 **Location**
 

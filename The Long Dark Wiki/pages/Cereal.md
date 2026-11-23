@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cereal icon](../assets/Cereal_icon.png) |
+| | [Cereal icon](../assets/Cereal_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Dry, boxed Cereal. A good source of calories. |
-| **Values** |  |
+| **Values** | |
 | Calories | 700 kcal |
 | Hydration | -10% |
 | Weight | 0.20 kg (0.44 lbs) |

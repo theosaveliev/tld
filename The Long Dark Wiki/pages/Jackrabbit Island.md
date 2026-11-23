@@ -6,8 +6,6 @@
 
 ![Jackrabbit Island](../assets/Jackrabbit_Island.jpg)
 
-|
-
 **Location**
 
 ![Jackrabbit Island map](../assets/Jackrabbit_Island_map.png)

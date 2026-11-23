@@ -17,16 +17,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cured Leather icon](../assets/Cured_Leather_icon.png) |
+| | [Cured Leather icon](../assets/Cured_Leather_icon.png) |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Leather that can be used for repairs. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
 
 **Cured Leather** is a material in _[The Long Dark](./The%20Long%20Dark.md)_.

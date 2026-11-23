@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Restore Condition icon](../assets/Restore_Condition_icon.png) |
+| | [Restore Condition icon](../assets/Restore_Condition_icon.png) |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-98-perilous-constraint-update) |
 | Update | 1.98 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume [Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md) |
 | Effect | Positive |
@@ -26,7 +26,7 @@
 
 Restore Condition is received when consuming any of the following items:
 
-|  | Food and Drink |
+| | Food and Drink |
 | --- | --- |
 |  | [Birch Bark Tea](./Birch%20Bark%20Tea.md) |
 
@@ -34,7 +34,7 @@ Restore Condition is received when consuming any of the following items:
 
 This affliction causes the following effects:
 
-|  | Effect | Magnitude | Duration |
+| | Effect | Magnitude | Duration |
 | --- | --- | --- | --- |
 |  | [Condition](./Condition.md) restoration | 2.5% per hour | 2 hours (1) |
 

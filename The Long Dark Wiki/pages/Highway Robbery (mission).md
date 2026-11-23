@@ -15,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png) / _One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_ |
+| | [One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png) / _One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Highway Robbery (mission) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 

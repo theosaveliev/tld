@@ -8,8 +8,6 @@
 
 ![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
 
-|
-
 **Location**
 
 ![Misty Falls Picnic Area Location](../assets/Misty_Falls_Picnic_Area_Location.png)

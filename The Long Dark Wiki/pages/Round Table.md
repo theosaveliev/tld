@@ -13,11 +13,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Round Table icon](../assets/Round_Table_icon.png) |
+| | [Round Table icon](../assets/Round_Table_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 5.00 kg (11 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 The **Round Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.

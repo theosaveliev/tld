@@ -1,3 +1,4 @@
+<a id="conductor-s-dropoff"></a>
 # Conductor's Dropoff
 
 **Categories:** Locations, Locations in Transfer Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Conductor's_Dropoff)
@@ -7,8 +8,6 @@
 ![Slope](../assets/Conductor%27s_Dropoff.jpg)
 
 ![Cliff](../assets/Conductor%27s_Dropoff2.jpg)
-
-|
 
 **Location**
 

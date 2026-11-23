@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location** |  |
-| Region |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location** | |
+| Region | |
 | Location | Connects [Forsaken Shore](./Forsaken%20Shore.md) and [Mountain Pass](./Mountain%20Pass.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Has an interior |
+| | Has an interior |
 
 **Coastal Cave** is a transition cave that connects [Forsaken Shore](./Forsaken%20Shore.md) (near Despondent Crag) to [Mountain Pass](./Mountain%20Pass.md).
 

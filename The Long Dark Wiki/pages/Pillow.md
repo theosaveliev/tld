@@ -8,8 +8,6 @@
 
 ![Red](../assets/PillowRed.jpg)
 
-|
-
 **General**
 
 Item Type

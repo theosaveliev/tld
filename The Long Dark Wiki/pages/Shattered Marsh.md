@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Shattered Marsh Photo](../assets/Shattered_Marsh_Photo.jpg) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-| **Details** |  |
+| | [Shattered Marsh Photo](../assets/Shattered_Marsh_Photo.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| **Details** | |
 | Description | A large marsh in the mountains |
 | Difficulty | Advanced |
 

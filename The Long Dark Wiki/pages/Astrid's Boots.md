@@ -1,3 +1,4 @@
+<a id="astrid-s-boots"></a>
 # Astrid's Boots
 
 **Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Boots)
@@ -6,12 +7,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png) |
-| **General** |  |
+| | [Astrid's Boots icon](../assets/Astrid%27s_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

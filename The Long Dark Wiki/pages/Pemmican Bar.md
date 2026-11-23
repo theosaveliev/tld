@@ -8,7 +8,7 @@
 - [Crafting](#crafting)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
-- Update history
+- [Update history](#update-history)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -20,21 +20,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) |
+| | [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A traditional trail food based on dried meats. Fortifies physical Condition and resilience. |
-| **Values** |  |
+| **Values** | |
 | Calories | 450 (562) kcal |
 | Hydration | -6% |
 | [Vitamin C](./Scurvy.md) | Minor (14%) |
 | Weight | 0.0625 kg (0.14 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 4.000% per day |
 | Outside | 0.800% per day |
 
@@ -112,3 +112,5 @@ Pemmican Bar is a recipe that can be created in 2 different containers.
 ## Gallery
 
 ![Old icon](../assets/Pemmican_Bar_icon_%28old%29.png)
+
+## Update history

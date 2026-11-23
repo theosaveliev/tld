@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg) |
-| **Location** |  |
-|  | [Wing Location](../assets/Wing_Location.png) |
+| | [Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg) |
+| **Location** | |
+| | [Wing Location](../assets/Wing_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Between [Forest Cave (Timberwolf Mountain location)](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) and [Echo Peak West](./Echo%20Peak%20West.md) |
 | Description | A wing from the crashed aircraft |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Wing** is a part of a wrecked plane that crashed on the summit of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

@@ -15,7 +15,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Landing+logo+wide2](../assets/Landing%2Blogo%2Bwide2.png) |
+| | [Landing+logo+wide2](../assets/Landing%2Blogo%2Bwide2.png) |
 | Industry | Video games |
 | Founded | 2012 |
 | Founder | Raphael van Lierop |

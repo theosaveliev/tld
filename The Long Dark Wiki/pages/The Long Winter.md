@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Winter icon](../assets/The_Long_Winter_icon.png) |
+| | [The Long Winter icon](../assets/The_Long_Winter_icon.png) |
 | Description | Prepare Grey Mother for Winter. |
 
 **The Long Winter** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

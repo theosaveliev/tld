@@ -6,18 +6,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cured Birch Sapling icon](../assets/Cured_Birch_Sapling_icon.png) |
+| | [Cured Birch Sapling icon](../assets/Cured_Birch_Sapling_icon.png) |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Small birch sapling that has been cured. Can be used for crafting and repair. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.20 kg (0.44 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Take It, Leave It |
 
 **Cured Birch Saplings** are the cured version of a [Green Birch Sapling](./Green%20Birch%20Sapling.md).

@@ -13,7 +13,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hard Times icon](../assets/Hard_Times_icon.png) |
+| | [Hard Times icon](../assets/Hard_Times_icon.png) |
 | Description | Learn the truth behind all three Blackrock rumours. |
 
 **Hard Times** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

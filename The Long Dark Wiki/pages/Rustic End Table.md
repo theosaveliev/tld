@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rustic End Table icon](../assets/Rustic_End_Table_icon.png) |
+| | [Rustic End Table icon](../assets/Rustic_End_Table_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 20.00 kg (44 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 The **Rustic End Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.

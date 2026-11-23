@@ -27,7 +27,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cooking background](../assets/Cooking_background.png) |
+| | [Cooking background](../assets/Cooking_background.png) |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
@@ -281,8 +281,6 @@ Once players have reached a new skill level, they unlock the effects described i
 ![All Cooking recipes prepared over a table](../assets/Cooking_All_Recipes.jpg)
 
 ![Ditto](../assets/Cooking_Unique_Recipes.jpg)
-
-[es:cocina](https://es.wikipedia.org/wiki/cocina) [fr:Cuisine](https://fr.wikipedia.org/wiki/Cuisine)
 
 ## Notes
 

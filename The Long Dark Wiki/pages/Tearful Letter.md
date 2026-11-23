@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tearful Letter icon](../assets/Tearful_Letter_icon.png) |
+| | [Tearful Letter icon](../assets/Tearful_Letter_icon.png) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Handwritten letter. Blotchy ink suggests whoever wrote it did so while crying. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

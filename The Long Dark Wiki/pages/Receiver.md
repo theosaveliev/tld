@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Receiver](../assets/Receiver.jpg) |
+| | [Receiver](../assets/Receiver.jpg) |
 | Release | 1.60 |
 | Story item | Yes |
 

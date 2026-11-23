@@ -1,3 +1,4 @@
+<a id="lineworker-s-hideout"></a>
 # Lineworker's Hideout
 
 **Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lineworker's_Hideout)
@@ -6,14 +7,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lineworker's Hideout](../assets/Lineworker%27s_Hideout.jpg) |
-| **Location** |  |
-|  | [Lineworker's Hideout Location](../assets/Lineworker%27s_Hideout_Location.png) |
-| Region |  |
+| | [Lineworker's Hideout](../assets/Lineworker%27s_Hideout.jpg) |
+| **Location** | |
+| | [Lineworker's Hideout Location](../assets/Lineworker%27s_Hideout_Location.png) |
+| Region | |
 | Location | Between the Old Substation and Narrow Bridge |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Lineworker's Hideout** is a small cave located in [Blackrock](./Blackrock.md), just across the road from [Old Substation](./Old%20Substation.md) on the east side of [Narrow Bridge](./Narrow%20Bridge.md).
 

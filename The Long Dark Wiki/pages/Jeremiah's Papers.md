@@ -1,3 +1,4 @@
+<a id="jeremiah-s-papers"></a>
 # Jeremiah's Papers
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Papers)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) |
+| | [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | The stack of letters Jeremiah wants you to burn. Who could a reclusive trapper be writing to out here? in any case, you shouldn't read other people's mail. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

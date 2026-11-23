@@ -19,20 +19,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Grey Mother](../assets/Grey_Mother.png) |
+| | [Grey Mother](../assets/Grey_Mother.png) |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
 | Location(s) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 70's - 80's |
 | Status | Deceased |
 | Hometown | [Milton](./Milton.md) |
 | Relatives | **•** [Martin Barker](./Martin%20Barker.md) (ex-Husband) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter) |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Hair | Grey |
-| **Game Information** |  |
+| **Game Information** | |
 | Equipment | [Hunting Rifle](./Hunting%20Rifle.md) |
 | Voiced by | [Gwynyth Walsh](https://en.wikipedia.org/wiki/Gwynyth_Walsh) |
 

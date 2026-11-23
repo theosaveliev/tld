@@ -24,8 +24,6 @@
 
 ![Interior](../assets/Carter_Hydro_Dam_Interior.png)
 
-|
-
 **Location**
 
 ![Carter Hydro Dam Location](../assets/Carter_Hydro_Dam_Location.png)

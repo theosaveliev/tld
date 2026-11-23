@@ -10,7 +10,7 @@
 - [Harvesting](#harvesting)
 - [Repairing](#repairing)
 - [Trivia](#trivia)
-- Update history
+- [Update history](#update-history)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -22,16 +22,16 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Survival Knife icon](../assets/Survival_Knife_icon.png) |
+| | [Survival Knife icon](../assets/Survival_Knife_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | No, [Trader](./Trader.md) requires unrenewable item |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A durable, heavy Knife with a finely-honed edge. Excels at Harvesting meat from frozen carcasses. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.75 kg (1.65 lbs) |
 
 **Survival Knife** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
@@ -72,3 +72,5 @@ The knife can be repaired using a [Whetstone](./Whetstone.md) and the [Sharpenin
 - The name of this knife is related to the various [Prepper Caches](./Prepper%20Cache.md) on the Island, and it may be possible that this knife originally belonged to Sutherland's brother Wyatt.
   - If so, Wyatt may have ordered several surplus Knives for survival reasons (possibly for his friends and family or as backups). This may also be the reason why Sutherland has so many to trade.
 - At the end of [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md), [Mathis](./Mathis.md) briefly wields a Survival Knife.
+
+## Update history

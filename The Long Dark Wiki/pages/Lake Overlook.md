@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg) |
-| **Location** |  |
-|  | [Lake Overlook Location](../assets/Lake_Overlook_Location.png) |
+| | [Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg) |
+| **Location** | |
+| | [Lake Overlook Location](../assets/Lake_Overlook_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Lake Overlook** is a discoverable location in the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) region.
 

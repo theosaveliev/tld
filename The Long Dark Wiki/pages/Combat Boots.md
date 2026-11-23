@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Combat Boots icon](../assets/Combat_Boots_icon.png) |
-| **General** |  |
+| | [Combat Boots icon](../assets/Combat_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Renewable | Yes (beachcombing) |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

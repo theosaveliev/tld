@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Headache icon](../assets/Headache_icon.png) |
+| | [Headache icon](../assets/Headache_icon.png) |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Update | 1.48 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | (from Go! Energy Drink) You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting. |
 | Caused By | Consuming [Food And Drink](./Food%20And%20Drink.md) or [Go! Energy Drink](./Go!%20Energy%20Drink.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Recovery Time Passes |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | 20 mins - 3 hours |
 
 **Headache** is an Affliction that is inflicted on the survivor after consuming certain [First Aid](./First%20Aid.md) or [Food And Drink](./Food%20And%20Drink.md) items.
@@ -43,7 +43,7 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pil
 - Caffeine Pills instantly give a 3 hour long Headache once consumed.
 - A slight blue filter appears over the screen when a Headache begins after consuming First Aid items.
 
-|  | First Aid | Duration |
+| | First Aid | Duration |
 | --- | --- | --- |
 | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
 | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
@@ -56,7 +56,7 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pil
 
 Certain Recipes will also produce a Headache. Partially consuming Recipes will not always produce a Headache however, but fully consuming the item will guarantee one. Unlike First Aid items, Recipes do not produce a blue tint on the screen when a Headache begins.
 
-|  | Food and Drink | Duration |
+| | Food and Drink | Duration |
 | --- | --- | --- |
 | [Peach Pie icon](../assets/Peach_Pie_icon.png) | [Peach Pie](./Peach%20Pie.md) | 1 hour |
 | [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 1 hour |

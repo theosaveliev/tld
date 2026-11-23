@@ -8,19 +8,19 @@ _For the raw version, see [Burbot (Raw)](./Burbot%20%28Raw%29.md)._
 
 | Property | Details |
 | --- | --- |
-|  | [Burbot (Cooked) icon](../assets/Burbot_%28Cooked%29_icon.png) |
+| | [Burbot (Cooked) icon](../assets/Burbot_%28Cooked%29_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Cooked Burbot. A firm and buttery white fish. |
-| **Values** |  |
+| **Values** | |
 | Calories | 1952.0 kcal |
 | Hydration | -5.0% |
 | Weight | 4.0 kg (8.8 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CookedBurbot |
 
 **Burbot (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked Burbot have a minimum raw weight of 2.5 kg and a maximum raw weight of 4.0 kg.

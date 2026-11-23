@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Route One Waterfall](../assets/Route_One_Waterfall.jpg) |
-| **Location** |  |
-|  | [Route One Waterfall Location](../assets/Route_One_Waterfall_Location.png) |
+| | [Route One Waterfall](../assets/Route_One_Waterfall.jpg) |
+| **Location** | |
+| | [Route One Waterfall Location](../assets/Route_One_Waterfall_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A frozen waterfall below the [Cascading Gap](./Cascading%20Gap.md) bridge |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Route One Waterfall** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

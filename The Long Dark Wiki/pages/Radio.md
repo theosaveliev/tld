@@ -16,8 +16,6 @@
 
 ![Trader](../assets/Trader%27s_Radio.jpg)
 
-|
-
 Story item
 
 Yes

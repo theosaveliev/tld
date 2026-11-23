@@ -22,8 +22,6 @@
 
 ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -46,19 +44,20 @@ A wide Shelf can be harvested for 6 Reclaimed Wood after 1 hour 30 minutes.
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
-| 6 | 1 hour 30 minutes |  | -2% Hatchet |
-| 6 |  |  | -3% Improvised Hatchet |
-| 6 |  |  | -0.5% Heavy Hammer |
+| 6 | 1 hour 30 minutes | | -2% Hatchet |
+| 6 | | | -3% Improvised Hatchet |
+| 6 | | | -0.5% Heavy Hammer |
 
+<a id="large-shelf-bookshelf"></a>
 ## Large Shelf/Bookshelf
 
 Bookshelves are thick shelves that usually hold books and supplies. Large Shelves are very tall, even taller than Bookshelves, but are very thin. Both give the same amount of wood and one tinder plug.
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
-| 8/1 Tinder Plug | 2 hours |  | -2% Hatchet |
-| 8/1 Tinder Plug |  |  | -3% Improvised Hatchet |
-| 8/1 Tinder Plug |  |  | -0.5% Heavy Hammer |
+| 8/1 Tinder Plug | 2 hours | | -2% Hatchet |
+| 8/1 Tinder Plug | | | -3% Improvised Hatchet |
+| 8/1 Tinder Plug | | | -0.5% Heavy Hammer |
 
 ## Gun Rack Shelf
 

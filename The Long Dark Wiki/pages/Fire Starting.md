@@ -22,7 +22,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fire Starting background](../assets/Fire_Starting_background.png) |
+| | [Fire Starting background](../assets/Fire_Starting_background.png) |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
@@ -123,7 +123,7 @@ Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update
 
 Players can optionally add any accelerant carried in their inventory. Accelerant increases the likelihood of success and shortens the start time for fire-starting to only one minute.
 
-| Image | Accelerant | Benefit |  |
+| Image | Accelerant | Benefit | |
 | --- | --- | --- | --- |
 | [Accelerant icon](../assets/Accelerant_icon.png) | [Accelerant](./Accelerant.md) | +40% chance | 0.10 kg; _(0.22 lb)_ |
 | [Can of Gunpowder icon](../assets/Can_of_Gunpowder_icon.png) | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | +40% chance | 0.50 kg; _(1.1 lb)_ |

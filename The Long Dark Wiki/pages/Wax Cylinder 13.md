@@ -12,16 +12,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
+| | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An audio recording made of wax. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
@@ -52,3 +52,5 @@ But, in service to mankind's ambition, and under the eyes of God, whom I represe
 Is this not the truest symbol of his love for us? That he would put this here for our benefit?
 
 To serve us, as we serve him?
+
+## Game history

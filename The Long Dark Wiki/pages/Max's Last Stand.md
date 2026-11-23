@@ -1,3 +1,4 @@
+<a id="max-s-last-stand"></a>
 # Max's Last Stand
 
 **Categories:** Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Max's_Last_Stand)
@@ -6,13 +7,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Max's last stand](../assets/Max%27s_last_stand.jpg) |
-| **Location** |  |
-|  | [Max's Last Stand Location](../assets/Max%27s_Last_Stand_Location.png) |
+| | [Max's last stand](../assets/Max%27s_last_stand.jpg) |
+| **Location** | |
+| | [Max's Last Stand Location](../assets/Max%27s_Last_Stand_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Max's Last Stand** is a location at the southwestern corner of [Mystery Lake](./Mystery%20Lake%20%28region%29.md), and south of [Trapper's Homestead](./Trapper%27s%20Homestead.md).
 

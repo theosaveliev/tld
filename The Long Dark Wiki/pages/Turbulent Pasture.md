@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Turbulent Pasture](../assets/Turbulent_Pasture.jpg) |
-| **Location** |  |
-|  | [Turbulent Pasture Location](../assets/Turbulent_Pasture_Location.png) |
+| | [Turbulent Pasture](../assets/Turbulent_Pasture.jpg) |
+| **Location** | |
+| | [Turbulent Pasture Location](../assets/Turbulent_Pasture_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
-| **General** |  |
-| [Bed icon](../assets/Bed_icon.png) |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has no shelter |
+| **General** | |
+| [Bed icon](../assets/Bed_icon.png) | |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | |
+| | Has no shelter |
 
 **Turbulent Pasture** is a set of small frozen ponds in the [Zone of Contamination](./Zone%20of%20Contamination.md) northeast of [Indolent Hoppers](./Indolent%20Hoppers.md).
 

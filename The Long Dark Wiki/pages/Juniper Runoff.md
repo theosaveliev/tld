@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Juniper Runoff](../assets/Juniper_Runoff.jpg) |
-| **Location** |  |
-|  | [Juniper Runoff Location](../assets/Juniper_Runoff_Location.png) |
+| | [Juniper Runoff](../assets/Juniper_Runoff.jpg) |
+| **Location** | |
+| | [Juniper Runoff Location](../assets/Juniper_Runoff_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | Below [Perilous Crossing](./Perilous%20Crossing.md), north of [Last Lonely House](./Last%20Lonely%20House.md) |
 | Description | A large slope below Perilous Crossing |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Juniper Runoff** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

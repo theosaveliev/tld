@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Poisoned Wolf](../assets/Poisoned_Wolf.png) |
-| **Basic Information** |  |
+| | [Poisoned Wolf](../assets/Poisoned_Wolf.png) |
+| **Basic Information** | |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Role | Predator |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Black |
 | Size | Medium |
 
@@ -45,7 +45,7 @@ They are easily identifiable from a distance due to how they carry their heads m
 
 A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt and 2 Fresh Guts, but due to the extreme malnourishment and contaminated meat of the animal, no harvestable Wolf Meat is present on a carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always (1) |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always (2) |

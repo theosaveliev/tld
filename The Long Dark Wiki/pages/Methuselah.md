@@ -22,16 +22,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Methuselah](../assets/Methuselah.png) |
+| | [Methuselah](../assets/Methuselah.png) |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | Mission | **•** [The Grey Mother](./The%20Grey%20Mother.md) / **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Renewed Hope](./Renewed%20Hope.md) |
 | Location(s) | **•** [Orca Gas Station](./Orca%20Gas%20Station.md) / **•** [Mountain Town](./Mountain%20Town.md) / **•** [Broken Railroad](./Broken%20Railroad.md) / **•** [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 60's - 70's |
 | Status | Alive |
-| **Game Information** |  |
+| **Game Information** | |
 | Voiced by | [Richard Newman](https://en.wikipedia.org/wiki/Richard_Newman_%28actor%29) (Redux EP 1,2) Gord Marriott (Predux EP 2) |
 
 > “__Ancient in appearance, Methuselah’s clear eyes suggest a deep wisdom and he radiates strength rather than frailty. He has the calm, knowing authority of someone who’s seen a few things in his time.  
@@ -132,5 +132,3 @@ _Methuselah's revised apperance in the [Blackrock Foothills](./Blackrock%20Footh
 ![ditto](../assets/The_Long_Dark_-_episode_two_-_Methuselah.png)
 
 ![Ditto](../assets/Methuselah_Predux.jpg)
-
-[fr:Mathusalem](https://fr.wikipedia.org/wiki/Mathusalem) [ru:Мафусаил](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%84%D1%83%D1%81%D0%B0%D0%B8%D0%BB)

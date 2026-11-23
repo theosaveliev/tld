@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI Trailer02](../assets/SS-BI-Trailer02.jpg) |
-| **Location** |  |
-|  | [Trailers west of the Cannery Location](../assets/Trailers_west_of_the_Cannery_Location.png) |
+| | [SS BI Trailer02](../assets/SS-BI-Trailer02.jpg) |
+| **Location** | |
+| | [Trailers west of the Cannery Location](../assets/Trailers_west_of_the_Cannery_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | West of the Cannery |
 | Description | This place has no official name |
-| **General** |  |
+| **General** | |
 | Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

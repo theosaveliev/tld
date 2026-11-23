@@ -8,8 +8,6 @@
 
 ![Unlit](../assets/LanternUnlit.jpg)
 
-|
-
 **General**
 
 Item Type

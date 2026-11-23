@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Perilous Crossing](../assets/Perilous_Crossing.jpg) |
-| **Location** |  |
-|  | [Perilous Crossing Location](../assets/Perilous_Crossing_Location.png) |
+| | [Perilous Crossing](../assets/Perilous_Crossing.jpg) |
+| **Location** | |
+| | [Perilous Crossing Location](../assets/Perilous_Crossing_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A large swinging bridge behind the [Weather Station](./Weather%20Station.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Perilous Crossing** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

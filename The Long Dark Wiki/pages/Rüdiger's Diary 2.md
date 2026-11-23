@@ -1,3 +1,4 @@
+<a id="rudiger-s-diary-2"></a>
 # Rüdiger's Diary 2
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_2)
@@ -6,15 +7,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rüdiger's Diary 2 icon](../assets/R%C3%BCdiger%27s_Diary_2_icon.png) |
+| | [Rüdiger's Diary 2 icon](../assets/R%C3%BCdiger%27s_Diary_2_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A weather-beaten page from a notebook. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
 
 **Rüdiger's Diary 2** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found on the [High Peak Plateau](./High%20Peak%20Plateau.md) while following the Tale.

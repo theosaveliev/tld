@@ -15,7 +15,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Forest talker logo](../assets/Forest_talker_logo.png) |
+| | [Forest talker logo](../assets/Forest_talker_logo.png) |
 | Type | Eco terrorism |
 | Headquarters | [Great Bear Island](./Great%20Bear%20Island.md) |
 

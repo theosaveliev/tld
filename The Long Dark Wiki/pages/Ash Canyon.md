@@ -17,11 +17,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ash Canyon](../assets/Ash_Canyon.jpg) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Ash Canyon Location](../assets/Ash_Canyon_Location.png) |
-|  | [Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png) |
-| **Details** |  |
+| | [Ash Canyon](../assets/Ash_Canyon.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Ash Canyon Location](../assets/Ash_Canyon_Location.png) |
+| | [Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png) |
+| **Details** | |
 | Description | Deep valleys and high plateaus connected by rope bridges overlooking burnt, decaying trees subject to an ancient forest fire. |
 | Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md) (through multiple different connection points) |
 | Difficulty | Advanced |

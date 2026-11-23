@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ballistic Vest icon](../assets/Ballistic_Vest_icon.png) |
-| **General** |  |
-| Item Type |  |
-| Wintermute |  |
+| | [Ballistic Vest icon](../assets/Ballistic_Vest_icon.png) |
+| **General** | |
+| Item Type | |
+| Wintermute | |
 | Clothing Slot | Accessory |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)6.00 kg(13.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |

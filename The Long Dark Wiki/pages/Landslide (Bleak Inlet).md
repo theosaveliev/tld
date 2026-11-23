@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | Missing image: Landslide\_Bleak\_Inlet.jpg / _Landslide\_Bleak\_Inlet.jpg_ |
-| **Location** |  |
-|  | [Landslide Bleak Inlet Location](../assets/Landslide_Bleak_Inlet_Location.png) |
+| | Missing image: Landslide\_Bleak\_Inlet.jpg / _Landslide\_Bleak\_Inlet.jpg_ |
+| **Location** | |
+| | [Landslide Bleak Inlet Location](../assets/Landslide_Bleak_Inlet_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | The easternmost end of the [Great Bear Highway](./Great%20Bear%20Highway.md) in Bleak Inlet |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 The **Landslide** is a location at the eastern end of the highway that runs through [Bleak Inlet](./Bleak%20Inlet.md).
 

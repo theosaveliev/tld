@@ -6,22 +6,22 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Burdock Tea icon](../assets/Burdock_Tea_icon.png) |
+| | [Burdock Tea icon](../assets/Burdock_Tea_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Stackable | No |
 | Examine | A tea brewed from prepared Burdock Root. A natural antibiotic. |
-| **Values** |  |
+| **Values** | |
 | Calories | 100 kcal |
 | Hydration | 30.0% |
 | [Vitamin C](./Scurvy.md) | Minor (7%) |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drink, Drop, Place |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BurdockTea |
 
 **Burdock Tea** is a medicinal [First Aid](./First%20Aid.md) drink brewed from [Prepared Burdock](./Prepared%20Burdock.md) Roots.

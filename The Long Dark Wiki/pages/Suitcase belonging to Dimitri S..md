@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Gwen Crash Survivor](../assets/Gwen_Crash_Survivor.jpg) |
+| | [Gwen Crash Survivor](../assets/Gwen_Crash_Survivor.jpg) |
 | Release | 1.60 |
 | Story item | Yes |
 

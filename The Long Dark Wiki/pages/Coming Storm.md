@@ -16,9 +16,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png) |
+| | [Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png) |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Fallen Star](./Fallen%20Star.md) |
 | Current | Coming Storm |
 | Next | [Aftermath](./Aftermath.md) |

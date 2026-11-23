@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Idle Hideout](../assets/Idle_Hideout.jpg) |
-| **Location** |  |
-|  | [Idle Hideout Location](../assets/Idle_Hideout_Location.png) |
+| | [Idle Hideout](../assets/Idle_Hideout.jpg) |
+| **Location** | |
+| | [Idle Hideout Location](../assets/Idle_Hideout_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A cave entrance located far below the destroyed bridge leading to the [Weather Station](./Weather%20Station.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Idle Hideout** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

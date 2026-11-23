@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Stony](../assets/Stony.png) |
-| **Location** |  |
-|  | [Stoney Passage Location](../assets/Stoney_Passage_Location.png) |
+| | [Stony](../assets/Stony.png) |
+| **Location** | |
+| | [Stoney Passage Location](../assets/Stoney_Passage_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | South-west part of the region |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Stony Passage** is an unmarked location in [Forsaken Airfield](./Forsaken%20Airfield.md). It is a small passage behind a waterfall, in the south-west part of the region.
 

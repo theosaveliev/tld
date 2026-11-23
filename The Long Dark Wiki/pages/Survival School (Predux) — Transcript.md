@@ -1,3 +1,4 @@
+<a id="survival-school-predux-transcript"></a>
 # Survival School \(Predux\)/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_School_%28Predux%29%2FTranscript)
@@ -15,9 +16,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) |
+| | [The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md) |
 | Current | Survival School (Predux)/Transcript |
 | Next | [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md) |
@@ -278,6 +279,7 @@ _Mackenzie heads to the [Unnamed Pond](./Unnamed%20Pond.md), kills a [Deer](./De
 
 Jeremiah **(Text)**: "I think you've shot enough deer for one day. You're done with that."
 
+<a id="learn-to-mend-and-maintain-clothing-it-ll-save-your-life-some-day"></a>
 ## Learn to mend and maintain clothing. It'll save your life some day.
 
 - SURVIVAL SCHOOL: CLOTHING
@@ -332,6 +334,7 @@ _If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "Thanks for fixing my coat. That'll do, as far as mending lessons."
 
+<a id="learn-to-identify-and-harvest-some-of-the-edible-medicinal-flora-native-to-great-bear-island-place-in-the-container-at-jeremiah-s-cabin"></a>
 ## Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)
 
 - SURVIVAL SCHOOL: HARVESTABLE PLANTS

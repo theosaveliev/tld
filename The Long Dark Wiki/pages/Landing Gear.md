@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Landing Gear](../assets/Landing_Gear.png) |
-| **Location** |  |
-|  | [Landing Gear Location](../assets/Landing_Gear_Location.png) |
+| | [Landing Gear](../assets/Landing_Gear.png) |
+| **Location** | |
+| | [Landing Gear Location](../assets/Landing_Gear_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Near the entrance to [Pleasant Valley](./Pleasant%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Landing Gear** is a part of a wrecked plane that crashed on the summit of [Timberwolf Mountain](./Timberwolf%20Mountain.md). It is found near a canyon leading to [Pleasant Valley](./Pleasant%20Valley.md).
 

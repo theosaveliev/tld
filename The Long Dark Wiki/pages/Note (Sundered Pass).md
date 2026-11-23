@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Note (Sundered Pass) icon](../assets/Note_%28Sundered_Pass%29_icon.png) |
+| | [Note (Sundered Pass) icon](../assets/Note_%28Sundered_Pass%29_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An old handwritten letter |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Sundered Pass](./Sundered%20Pass.md). It is found on a shelf in [Final Refuge](./Final%20Refuge.md).

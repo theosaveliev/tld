@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lonely Homestead](../assets/Lonely_Homestead.jpg) |
-| **Location** |  |
-|  | [Lonely Homestead Location](../assets/Lonely_Homestead_Location.png) |
+| | [Lonely Homestead](../assets/Lonely_Homestead.jpg) |
+| **Location** | |
+| | [Lonely Homestead Location](../assets/Lonely_Homestead_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | Northeast of [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Lonely Homestead** is a collection of two of cabins in [Pleasant Valley](./Pleasant%20Valley.md).
 

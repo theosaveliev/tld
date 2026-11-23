@@ -1,3 +1,4 @@
+<a id="wyatt-s-lost-papers-2"></a>
 # Wyatt's Lost Papers 2
 
 **Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2)
@@ -6,16 +7,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wyatt's Lost Papers 1 icon](../assets/Wyatt%27s_Lost_Papers_1_icon.png) |
+| | [Wyatt's Lost Papers 1 icon](../assets/Wyatt%27s_Lost_Papers_1_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A stained, torn page from a notebook. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

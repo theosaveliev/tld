@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ravaged Deer Remains](../assets/Ravaged_Deer_Remains.jpg) |
-| **General** |  |
+| | [Ravaged Deer Remains](../assets/Ravaged_Deer_Remains.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

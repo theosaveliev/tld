@@ -15,17 +15,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Insomnia icon](../assets/Insomnia_icon.png) |
+| | [Insomnia icon](../assets/Insomnia_icon.png) |
 | Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Update | 2.03 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Your sleep is troubled and Rest is frequently interrupted. |
 | Caused By | [Glimmer Fog](./Glimmer%20Fog.md) |
 | Effect | Negative |
 | Type | Disease |
 | Affliction Duration | Until Recovery Time passes |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | 18-36 hours |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

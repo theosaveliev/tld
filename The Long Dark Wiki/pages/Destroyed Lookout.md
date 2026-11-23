@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Destroyed lookout](../assets/Destroyed_lookout.jpg) |
-| **Location** |  |
-|  | [Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png) |
+| | [Destroyed lookout](../assets/Destroyed_lookout.jpg) |
+| **Location** | |
+| | [Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Description | A fallen fire lookout tower |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Destroyed Lookout** is the ruins of a fire tower located in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

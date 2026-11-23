@@ -1,3 +1,4 @@
+<a id="misanthrope-s-homestead"></a>
 # Misanthrope's Homestead
 
 **Categories:** Indoor locations, Islands, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
@@ -12,8 +13,6 @@
 **Misanthrope's Homestead**
 
 ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
-
-|
 
 **Location**
 

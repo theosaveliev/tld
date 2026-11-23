@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Pain icon](../assets/Pain_icon.png) |
+| | [Pain icon](../assets/Pain_icon.png) |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Update | 1.48 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time. |
 | Caused By | Falls Sprains |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Treated or Recovery Time Passes |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | 2 x  |
 | Alternate Treatment | 1 x [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
 | Recovery Time | 20 min - 1 hour (untreated) |

@@ -1,3 +1,4 @@
+<a id="angler-s-den"></a>
 # Angler's Den
 
 **Categories:** Indoor locations, Islands, Locations, Locations in Ash Canyon, Locations with a workbench, Military/Sporting locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Angler's_Den)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [AnglersDenOutside 1080p](../assets/AnglersDenOutside_1080p.png) |
-| **Location** |  |
-|  | [Angler's Den Location](../assets/Angler%27s_Den_Location.png) |
+| | [AnglersDenOutside 1080p](../assets/AnglersDenOutside_1080p.png) |
+| **Location** | |
+| | [Angler's Den Location](../assets/Angler%27s_Den_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A small cabin located on an island. |
-| **General** |  |
+| **General** | |
 | Type | Military/Sporting |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 **Angler's Den** is a small cabin on an island in the river that runs through [Ash Canyon](./Ash%20Canyon.md), overshadowed by [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md).
 

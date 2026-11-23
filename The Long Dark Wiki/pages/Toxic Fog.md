@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | Missing image: Toxic\_Fog\_icon.png / _Toxic\_Fog\_icon.png_ |
+| | Missing image: Toxic\_Fog\_icon.png / _Toxic\_Fog\_icon.png_ |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
 | Update | 1.86 |
-| **Properties** |  |
+| **Properties** | |
 | Caused By | Being within a Region where Toxic Fog reaches 100% saturation |
 | Effect | Negative |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Leave the Toxic Fog covered Region |
 
 The **Toxic Fog** is a feature included in the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) mode of [The Long Dark](./The%20Long%20Dark.md).

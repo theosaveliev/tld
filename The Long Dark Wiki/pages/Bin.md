@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bin Wintermute](../assets/Bin_Wintermute.png) |
+| | [Bin Wintermute](../assets/Bin_Wintermute.png) |
 | Story item | Yes |
-| **Container** |  |
+| **Container** | |
 | Capacity | 50.00 kg(110 lbs) |

@@ -8,8 +8,6 @@
 
 ![Cave (Timberwolf Mountain location 2)](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg)
 
-|
-
 **Location**
 
 Region

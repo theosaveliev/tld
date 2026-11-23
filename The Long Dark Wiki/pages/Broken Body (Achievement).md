@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Body (Achievement) icon](../assets/Broken_Body_%28Achievement%29_icon.png) |
+| | [Broken Body (Achievement) icon](../assets/Broken_Body_%28Achievement%29_icon.png) |
 | Description | Survive long enough to receive the final Affliction in Misery Mode. |
 
 **Broken Body** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

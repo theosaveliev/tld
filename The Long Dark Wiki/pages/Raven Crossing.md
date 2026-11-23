@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI RavenCrossing01](../assets/SS-BI-RavenCrossing01.jpg) |
-| **Location** |  |
-|  | [Raven Crossing Location](../assets/Raven_Crossing_Location.png) |
+| | [SS BI RavenCrossing01](../assets/SS-BI-RavenCrossing01.jpg) |
+| **Location** | |
+| | [Raven Crossing Location](../assets/Raven_Crossing_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | a short highway bridge |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Raven Crossing** is a short bridge, presumably crossing the Raven Creek, located a short walk west of the [Landslide](./Landslide%20%28Bleak%20Inlet%29.md), and roughly halfway between the [Cabin](./Cabin.md) and the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md).
 

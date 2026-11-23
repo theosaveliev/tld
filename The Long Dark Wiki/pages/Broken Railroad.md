@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Broken Railroad Location](../assets/Broken_Railroad_Location.png) |
-|  | [Broken Railroad region map](../assets/Broken_Railroad_region_map.png) |
-| **Details** |  |
+| | [Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Broken Railroad Location](../assets/Broken_Railroad_Location.png) |
+| | [Broken Railroad region map](../assets/Broken_Railroad_region_map.png) |
+| **Details** | |
 | Description | An old [Breyerhouse](./Breyerhouse.md) maintenance yard with the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) running through the mountain. |
 | Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Transfer Pass](./Transfer%20Pass.md) (through [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)) |
 | Difficulty | Intermediate |
@@ -86,5 +86,3 @@ Broken Railroad is a relatively small map, but does feature a number of key loca
 ![Broken Railroad map v2.35 (Interloper-Misery)](../assets/BRR_loper.jpg)
 
 ![Broken Railroad map v1.83](../assets/Broken_Railroad_map.png)
-
-[es:vía destrozada](https://es.wikipedia.org/wiki/v%C3%ADa_destrozada) [fr:Voie Ferrée Détruite](https://fr.wikipedia.org/wiki/Voie_Ferr%C3%A9e_D%C3%A9truite) [ru:Разбитая железная дорога](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%82%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)

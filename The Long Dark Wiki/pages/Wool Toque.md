@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wool Toque icon](../assets/Wool_Toque_icon.png) |
-| **General** |  |
+| | [Wool Toque icon](../assets/Wool_Toque_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Renewable | Yes |
 | Clothing Slot | Head |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

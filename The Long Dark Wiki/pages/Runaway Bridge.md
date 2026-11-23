@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Runaway Bridge](../assets/Runaway_Bridge.jpg) |
-| **Location** |  |
-|  | [Runaway Bridge Location](../assets/Runaway_Bridge_Location.png) |
+| | [Runaway Bridge](../assets/Runaway_Bridge.jpg) |
+| **Location** | |
+| | [Runaway Bridge Location](../assets/Runaway_Bridge_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Runaway Bridge** is a fixed bridge in [Ash Canyon](./Ash%20Canyon.md), an anomaly compared to the various swinging bridges in the region.
 

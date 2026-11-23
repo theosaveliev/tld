@@ -17,11 +17,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [The Ravine Location](../assets/The_Ravine_Location.png) |
-|  | [The Ravine map](../assets/The_Ravine_map.png) |
-| **Details** |  |
+| | [RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [The Ravine Location](../assets/The_Ravine_Location.png) |
+| | [The Ravine map](../assets/The_Ravine_map.png) |
+| **Details** | |
 | Description | A small valley containing a railway trestle passing through the mountains. |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md) |
 | Difficulty | Beginner |
@@ -98,4 +98,4 @@ At the Ravine Basin inside a rail-car is a [distress pistol case](./Distress%20P
 
 ![Train tunnel at The Ravine.](../assets/The_Ravine_-_tunnel.jpg)
 
-[es:Desfiladero](https://es.wikipedia.org/wiki/Desfiladero) [fr:Ravin](https://fr.wikipedia.org/wiki/Ravin) [ru:Железнодорожная ветка "Водопады ворона"](https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_%22%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%22) © Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts
+© Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts

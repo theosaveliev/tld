@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Derailment 2](../assets/Derailment_2.jpg) |
-| **Location** |  |
-|  | [Derailment Location](../assets/Derailment_Location.png) |
+| | [Derailment 2](../assets/Derailment_2.jpg) |
+| **Location** | |
+| | [Derailment Location](../assets/Derailment_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Location | South of [Logging Camp](./Logging%20Camp.md), and north of [Camp Office](./Camp%20Office.md). |
 | Description | A small train wreck |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Derailment** is a small train wreck in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), south of [Logging Camp](./Logging%20Camp.md), and north of [Camp Office](./Camp%20Office.md).
 

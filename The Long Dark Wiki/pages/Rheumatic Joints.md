@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png) |
+| | [Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | A painful inflammation has taken hold. / You cannot Sprint as quickly, nor Aim a weapon for long before having to lower it. Sprains are more likely. |
 | Caused By | [Misery Mode](./Misery.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | No Treatment |
 
 **Rheumatic Joints** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.

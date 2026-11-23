@@ -17,15 +17,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Camera icon](../assets/Camera_icon.png) |
+| | [Camera icon](../assets/Camera_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | A mechanical instant film Camera. Compatible with Colour, Black and White, and Sepia instant film packs. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
@@ -95,8 +95,6 @@ There is currently not an option to unload all film from inside the Camera in th
 _The Camera's location in the [Station Bunkhouse](./Station%20Bunkhouse.md)._
 
 ![The teased marketing photo for the Camera and former Dark Room.](../assets/Icon-camera-and-dark-room.svg)
-
-[ru:Фотоаппарат](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82)
 
 ## Notes
 

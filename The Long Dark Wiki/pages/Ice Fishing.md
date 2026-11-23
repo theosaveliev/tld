@@ -22,7 +22,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ice Fishing background](../assets/Ice_Fishing_background.png) |
+| | [Ice Fishing background](../assets/Ice_Fishing_background.png) |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
@@ -129,7 +129,7 @@ Fishing on Pilgrim, Voyageur and Stalker have the same fishing rates. Fishing on
 
 Fishing inside of Fishing Huts is more efficient than survivor-cut holes. The Fishing Hut in [Bitter Marsh](./Bitter%20Marsh.md) ([Ash Canyon](./Ash%20Canyon.md)) is unique and grants a further bonus to fishing rate.
 
-|  | Free Form Holes | Fishing Huts | Fishing Hut (Ash Canyon) |
+| | Free Form Holes | Fishing Huts | Fishing Hut (Ash Canyon) |
 | --- | --- | --- | --- |
 | Time to Catch* | 30-120 minutes | 10-90 minutes | 10-70 minutes |
 | Tip-Up Decay | 1%/hour | 0.5/hour | 0.5/hour |

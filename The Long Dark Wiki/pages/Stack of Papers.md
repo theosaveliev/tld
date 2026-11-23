@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) |
-| **General** |  |
+| | [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) |
+| **General** | |
 | Item Type | Fire Starting |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
 > “**Stack of now-useless papers. Makes for good Tinder, and that's about it.**”

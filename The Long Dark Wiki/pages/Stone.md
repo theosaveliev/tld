@@ -14,17 +14,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Stone icon](../assets/Stone_icon.png) |
+| | [Stone icon](../assets/Stone_icon.png) |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | Yes |
 | Examine | A small stone. Big enough to stun a small animal. Might be enough to scare off a bigger one. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.15 kg (0.33 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Toss from hip, Aim and Throw |
 
 A **Stone** is a throwable item found scattered around all maps. It can be picked up and used as a distraction or make-shift weapon against [Wolves](./Wolf.md).

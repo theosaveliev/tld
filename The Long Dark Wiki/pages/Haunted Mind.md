@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Haunted Mind icon](../assets/Haunted_Mind_icon.png) |
+| | [Haunted Mind icon](../assets/Haunted_Mind_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You experience an endless inner turmoil. / Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting. |
 | Caused By | [Misery Mode](./Misery.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | No Treatment |
 
 **Haunted Mind** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.

@@ -14,18 +14,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) |
+| | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) |
 | Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A sturdy pot for melting snow, boiling water, and cooking food. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Leave It |
 

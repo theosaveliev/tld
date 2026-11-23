@@ -1,3 +1,4 @@
+<a id="jeremiah-s-folly"></a>
 # Jeremiah's Folly
 
 **Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
@@ -16,9 +17,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg) |
+| | [Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) |
 | Current | Jeremiah's Folly |
 | Next | [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md) |

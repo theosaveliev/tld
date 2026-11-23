@@ -12,14 +12,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Path](../assets/Path.jpg) |
-| **Location** |  |
-|  | [Path Track Section 5 Location](../assets/Path_Track_Section_5_Location.png) |
+| | [Path](../assets/Path.jpg) |
+| **Location** | |
+| | [Path Track Section 5 Location](../assets/Path_Track_Section_5_Location.png) |
 | Region | [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) |
 | Location | Mid-east of the region |
 | Description | A pathway that leads to the surrounding ice flats |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Path** is a location in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
 

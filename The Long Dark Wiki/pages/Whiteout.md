@@ -19,8 +19,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Challenge Whiteout](../assets/Challenge_Whiteout.png) |
-| **Details** |  |
+| | [Challenge Whiteout](../assets/Challenge_Whiteout.png) |
+| **Details** | |
 | Regions | [Coastal Highway](./Coastal%20Highway.md) |
 | Difficulty | 4 |
 | Date Added | June 2016 |

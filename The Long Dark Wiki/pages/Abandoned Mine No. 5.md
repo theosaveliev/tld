@@ -8,8 +8,6 @@
 
 ![East Access](../assets/Abandoned_Mine_No.5_%28East_Access%29.jpg)
 
-|
-
 **Location**
 
 ![Abandoned Mine No. 5 Location](../assets/Abandoned_Mine_No._5_Location.png)

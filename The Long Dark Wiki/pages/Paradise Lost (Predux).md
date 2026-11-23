@@ -15,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg) |
+| | [Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) |
 | Current | Paradise Lost (Predux) |
 | Next | [Risk of Infection](./Risk%20of%20Infection.md) |

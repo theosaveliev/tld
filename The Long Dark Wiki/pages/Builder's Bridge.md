@@ -1,3 +1,4 @@
+<a id="builder-s-bridge"></a>
 # Builder's Bridge
 
 **Categories:** Landmarks, Locations, Locations in Keeper's Pass North, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Builder's_Bridge)
@@ -6,14 +7,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Buildersbridge](../assets/Buildersbridge.png) |
-| **Location** |  |
-|  | [Builder's Bridge Location](../assets/Builder%27s_Bridge_Location.png) |
+| | [Buildersbridge](../assets/Buildersbridge.png) |
+| **Location** | |
+| | [Builder's Bridge Location](../assets/Builder%27s_Bridge_Location.png) |
 | Region | [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) |
 | Description | A bridge |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Builder's Bridge** is a swinging bridge in [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
 

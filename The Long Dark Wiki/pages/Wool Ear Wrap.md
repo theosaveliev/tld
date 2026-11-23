@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) |
-| **General** |  |
+| | [Wool Ear Wrap icon](../assets/Wool_Ear_Wrap_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Clothing Slot | Accessory |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |

@@ -6,8 +6,6 @@
 
 ![Rockfall](../assets/Rockfall.jpg)
 
-|
-
 **Location**
 
 ![Rockfall map](../assets/Rockfall_map.png)

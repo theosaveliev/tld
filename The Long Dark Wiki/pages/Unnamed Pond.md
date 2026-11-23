@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Unnamed pond 01](../assets/Unnamed_pond_01.jpg) |
-| **Location** |  |
-|  | [Unnamed Pond Location](../assets/Unnamed_Pond_Location.png) |
+| | [Unnamed pond 01](../assets/Unnamed_pond_01.jpg) |
+| **Location** | |
+| | [Unnamed Pond Location](../assets/Unnamed_Pond_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 The **Unnamed Pond** is a location on the western side of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

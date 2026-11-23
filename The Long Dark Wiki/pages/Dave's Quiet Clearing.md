@@ -1,3 +1,4 @@
+<a id="dave-s-quiet-clearing"></a>
 # Dave's Quiet Clearing
 
 **Categories:** Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dave's_Quiet_Clearing)
@@ -6,15 +7,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Dave's quiet clearing](../assets/Dave%27s_quiet_clearing.jpg) |
-| **Location** |  |
-|  | [Dave's Quiet Clearing Location](../assets/Dave%27s_Quiet_Clearing_Location.png) |
+| | [Dave's quiet clearing](../assets/Dave%27s_quiet_clearing.jpg) |
+| **Location** | |
+| | [Dave's Quiet Clearing Location](../assets/Dave%27s_Quiet_Clearing_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Location | South of the [camp office](./Camp%20Office.md). |
 | Description | A cave-like formation with a mostly open roof. |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Dave's Quiet Clearing** is location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

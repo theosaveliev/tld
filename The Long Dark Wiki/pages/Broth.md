@@ -19,23 +19,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Broth icon](../assets/Broth_icon.png) |
+| | [Broth icon](../assets/Broth_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A wholesome broth. Savory. |
-| **Values** |  |
+| **Values** | |
 | Calories | 680 (850) kcal |
 | Hydration | 5.0% |
 | Weight | 0.80 kg (1.76 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0.667% per day |
 | Outside | 0.167% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Broth |
 
 ## Overview

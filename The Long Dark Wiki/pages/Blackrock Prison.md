@@ -15,14 +15,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Region](../assets/Blackrock_Region.jpg) |
-| **Location** |  |
-|  | [Blackrock Prison Location](../assets/Blackrock_Prison_Location.png) |
-| Region |  |
+| | [Blackrock Region](../assets/Blackrock_Region.jpg) |
+| **Location** | |
+| | [Blackrock Prison Location](../assets/Blackrock_Prison_Location.png) |
+| Region | |
 | Location | In the center of the map, following the main road |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 > “**Yeah, you know. Blackrock Federal Pen. Where they put the worst of the bad people...the bad people, bad people. People too bad for the Mainland. Its like an old penal colony or some damn thing.**”
 >

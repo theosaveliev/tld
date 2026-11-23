@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Enemy For Life icon](../assets/Enemy_For_Life_icon.png) |
+| | [Enemy For Life icon](../assets/Enemy_For_Life_icon.png) |
 | Description | Turn the tables on Mathis. |
 
 **Enemy For Life** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

@@ -12,16 +12,16 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [FastFilm 500 icon](../assets/FastFilm-500_icon.png) |
+| | [FastFilm 500 icon](../assets/FastFilm-500_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Examine | A box of Colour Instant Film |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine, Drop, Pick up |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_FilmBoxColour |
 
 **FastFilm-500** is a tool used with the [Camera](./Camera.md) to take photos.
@@ -29,3 +29,5 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 ## Overview
 
 1 box contains 6 film Shots, and takes pictures in Colour. They are commonly found in various locations around Great Bear Island, mostly hidden in houses and cabins.
+
+## Game History

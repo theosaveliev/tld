@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Landslide HRV](../assets/Landslide_HRV.png) |
-| **Location** |  |
-|  | [Landslide HRV Location](../assets/Landslide_HRV_Location.png) |
+| | [Landslide HRV](../assets/Landslide_HRV.png) |
+| **Location** | |
+| | [Landslide HRV Location](../assets/Landslide_HRV_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Easternmost end of the Hushed River |
 | Description | A landslide across the river. |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Landslide** is a location in the east part of [Hushed River Valley](./Hushed%20River%20Valley.md).
 

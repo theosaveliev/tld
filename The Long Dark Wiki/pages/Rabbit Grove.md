@@ -6,8 +6,6 @@
 
 ![Rabbit Grove](../assets/Rabbit_Grove.jpg)
 
-|
-
 **Location**
 
 ![Rabbit Grove map](../assets/Rabbit_Grove_map.png)

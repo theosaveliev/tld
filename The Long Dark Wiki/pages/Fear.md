@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fear icon](../assets/Fear_icon.png) |
+| | [Fear icon](../assets/Fear_icon.png) |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
 | Update | 1.86 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Being within 50m or less from the Darkwalker |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Treated |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Move 50m (~164 feet) away from the Darkwalker |
 | Recovery Time | Instant |
 

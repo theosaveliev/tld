@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Search Party icon](../assets/Search_Party_icon.png) |
+| | [Search Party icon](../assets/Search_Party_icon.png) |
 | Description | Find all three missing townspeople within 40 real time minutes. |
 
 **Search Party** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

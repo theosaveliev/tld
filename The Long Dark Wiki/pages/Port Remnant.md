@@ -23,11 +23,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Port Remnant](../assets/Port_Remnant.jpg) |
-| **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Port Remnant Map](../assets/Port_Remnant_Map.png) |
-| **Details** |  |
+| | [Port Remnant](../assets/Port_Remnant.jpg) |
+| **Location on [Cauldron Island](./Cauldron%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Port Remnant Map](../assets/Port_Remnant_Map.png) |
+| **Details** | |
 | Description | A century old abandoned shipping port that is the starting point of Cauldron Island. |
 | Connecting Regions | [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) |
 | Interloper Region Spawn | No |

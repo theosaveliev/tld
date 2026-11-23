@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png) |
+| | [Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png) |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A manual with details on effective handgun shooting and maintenance. Researching this will improve your Revolver Firearm Skill. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Research, Drop |
 
 **A Sewing Primer** is a [Research Book](./Research%20Book.md) used to improve the [Revolver Firearm](./Revolver%20Firearm.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
@@ -45,7 +45,7 @@ Research can only be performed under the following conditions:
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +35% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |

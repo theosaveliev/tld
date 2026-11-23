@@ -1,3 +1,4 @@
+<a id="survival-mode-interloper-tips"></a>
 # Survival Mode/Interloper Tips
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Mode%2FInterloper_Tips)

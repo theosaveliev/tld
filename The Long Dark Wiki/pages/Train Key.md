@@ -12,16 +12,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Train Key icon](../assets/Train_Key_icon.png) |
+| | [Train Key icon](../assets/Train_Key_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A mechanical key to unlock a Train. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

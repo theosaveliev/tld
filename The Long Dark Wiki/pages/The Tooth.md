@@ -6,8 +6,6 @@
 
 ![CH Tooth 2](../assets/CH_Tooth_2.jpg)
 
-|
-
 **Location**
 
 ![The Tooth map](../assets/The_Tooth_map.png)

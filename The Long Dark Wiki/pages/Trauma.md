@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png) |
+| | [Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png) |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Renewed Hope](./Renewed%20Hope.md) |
 | Current | Trauma |
 | Next | [Fallen Star](./Fallen%20Star.md) |

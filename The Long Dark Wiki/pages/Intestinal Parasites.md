@@ -15,17 +15,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) |
+| | [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Update | 0.321 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. [maximum 1 dose/day.] |
 | Caused By | Raw/Cooked predator meat |
 | Effect | Negative |
 | Type | Disease |
 | Affliction Duration | Until Treated or Death |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | 2 x [Antibiotics icon](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours |
 | Alternate Treatment | 1 x [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/[Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours |
 | Recovery Time | 10 Days (Stalker) 20 Days (Interloper/Misery) |

@@ -1,3 +1,4 @@
+<a id="dr-rudiger"></a>
 # Dr\. Rüdiger
 
 **Categories:** Article stubs · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger)
@@ -11,19 +12,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
+| | [No picture](../assets/No_picture.png) |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | Unknown |
 | Status | Deceased |
 | Place of death | [Bunker Omega](./Bunker%20Omega.md) |
 | Cause of death | Severely wounded by [Cougar](./Cougar.md), killed in self defense by [The Foreman](./The%20Foreman.md) |
 | Occupation | Doctor Researcher |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Sex | Male |
-| **Game Information** |  |
+| **Game Information** | |
 | Equipment | [Rüdiger's Watch](./R%C3%BCdiger%27s%20Watch.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

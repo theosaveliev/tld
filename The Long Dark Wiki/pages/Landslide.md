@@ -8,8 +8,6 @@
 
 ![Back Side](../assets/Landslide.jpg)
 
-|
-
 **Location**
 
 ![Landslide Location](../assets/Landslide_Location.png)

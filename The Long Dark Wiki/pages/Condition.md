@@ -134,7 +134,7 @@ The following items positively affect Condition recovery:
 
 The following foods grant the ![Improved Rest icon](../assets/Improved_Rest_icon.png) [Improved Rest](./Improved%20Rest.md) Affliction, restoring Condition gained while [sleeping](./Sleep.md) by an extra 2% (1% for Interloper) an hour while the benefit is still active. This benefit is used whenever sleeping, whether this be all at once or across multiple sleep sessions.
 
-|  | Food and Drink | Duration |
+| | Food and Drink | Duration |
 | --- | --- | --- |
 | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |

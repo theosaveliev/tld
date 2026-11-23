@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Screen fb3efe93 48fa 4cfb 9acc e75dadcb821b hi](../assets/Screen_fb3efe93-48fa-4cfb-9acc-e75dadcb821b_hi.jpg) |
-| **Location** |  |
-|  | [Echo One Radio Tower Location](../assets/Echo_One_Radio_Tower_Location.png) |
+| | [Screen fb3efe93 48fa 4cfb 9acc e75dadcb821b hi](../assets/Screen_fb3efe93-48fa-4cfb-9acc-e75dadcb821b_hi.jpg) |
+| **Location** | |
+| | [Echo One Radio Tower Location](../assets/Echo_One_Radio_Tower_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | The southmost point of the Bleak Inlet plateau, south of the [Pensive Lookout](./Pensive%20Lookout.md). |
 | Description | A radio hut and tower |
-| **General** |  |
+| **General** | |
 | Type | IndustrialMilitary/Sporting |
-| Firebox |  |
-| [Bed icon](../assets/Bed_icon.png) |  |
-|  | Has an interior |
+| Firebox | |
+| [Bed icon](../assets/Bed_icon.png) | |
+| | Has an interior |
 
 Echo One is a radio hut and tower positioned on the southmost point of the [Bleak Inlet](./Bleak%20Inlet.md) plateau. Inside the hut on a desk, the player can find a note that provides the code to the electronic lock on the pier warehouse door to the [Workshop](./Workshop.md) at the [Last Resort Cannery](./Last%20Resort%20Cannery.md).
 

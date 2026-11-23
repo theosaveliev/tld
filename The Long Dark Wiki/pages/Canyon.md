@@ -12,12 +12,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Canyon](../assets/Canyon.jpg) |
-| **Location** |  |
+| | [Canyon](../assets/Canyon.jpg) |
+| **Location** | |
 | Region | [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) |
 | Location | The middle of the region, closer to the eastern Railway |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Canyon** is a location in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 

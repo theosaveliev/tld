@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mounted Burbot icon](../assets/Mounted_Burbot_icon.png) |
+| | [Mounted Burbot icon](../assets/Mounted_Burbot_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 The **Mounted Burbot** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.

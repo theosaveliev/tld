@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Jack o Lantern](../assets/Jack-o-Lantern.png) |
+| | [Jack o Lantern](../assets/Jack-o-Lantern.png) |
 | Release | 28 October 2016 |
 | Update | [0.372](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Story item | No |

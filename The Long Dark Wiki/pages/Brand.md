@@ -17,15 +17,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Brand icon](../assets/Brand_icon.png) |
+| | [Brand icon](../assets/Brand_icon.png) |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | yes |
 | Stackable | No |
 | Examine | The Brand is a burning stick that serves as a small torch. Provides a bit of light, and might be useful against wildlife. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.30 kg (0.66 lbs) |
 
 A **Brand** was a [Tool](./Tools.md) introduced in the [Tireless Menace](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) update in [Survival Mode](./Survival%20Mode.md) during the Alpha builds of _[The Long Dark](./The%20Long%20Dark.md)_ and was eventually cut in the Faithful Cartographer update. It is currently considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), but can still be experienced by using the [Time Capsule](./Time%20Capsule.md).

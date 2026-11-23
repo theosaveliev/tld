@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Forlorn Muskleg High Blind](../assets/Forlorn_Muskleg_High_Blind.jpg) |
-| **Location** |  |
-|  | [High Blind Location](../assets/High_Blind_Location.png) |
+| | [Forlorn Muskleg High Blind](../assets/Forlorn_Muskleg_High_Blind.jpg) |
+| **Location** | |
+| | [High Blind Location](../assets/High_Blind_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **High Blind** is a location in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

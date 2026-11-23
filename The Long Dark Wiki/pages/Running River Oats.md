@@ -14,19 +14,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Running River Oats icon](../assets/Running_River_Oats_icon.png) |
+| | [Running River Oats icon](../assets/Running_River_Oats_icon.png) |
 | Release | [19 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | Dry oats. A kitchen staple. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.80 kg (1.76 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0.200% per day |
 | Outside | 0.200% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_OatsTin |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

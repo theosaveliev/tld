@@ -20,8 +20,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png) |
-| **Missions** |  |
+| | [Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png) |
+| **Missions** | |
 | Current | Signal Void |
 | Next | [Buried Echoes](./Buried%20Echoes.md) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Bleak Inlet](./Bleak%20Inlet.md) / [Pleasant Valley](./Pleasant%20Valley.md) / [Mountain Town](./Mountain%20Town.md) / [Hushed River Valley](./Hushed%20River%20Valley.md) |
@@ -124,6 +124,7 @@ The ultimate prize of this island wide scavenger hunt is the exclusive [Security
 
 The Tales from the Far Territory continues in [Buried Echoes](./Buried%20Echoes.md)...
 
+<a id="the-rudiger-s-project"></a>
 ## The Rüdiger's Project
 
 ***SPOILERS FOR THE TALE\***

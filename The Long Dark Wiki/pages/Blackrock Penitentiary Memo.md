@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Penitentiary Memo icon](../assets/Blackrock_Penitentiary_Memo_icon.png) |
+| | [Blackrock Penitentiary Memo icon](../assets/Blackrock_Penitentiary_Memo_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Official typewritten orders for Blackrock prison guards |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | STORY\_Collectible\_BlackrockMemo |
 
 **Blackrock Penitentiary Memo** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Blackrock (mission)](./Blackrock%20%28mission%29.md) side mission.

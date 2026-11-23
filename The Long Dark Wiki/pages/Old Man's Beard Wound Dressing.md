@@ -1,3 +1,4 @@
+<a id="old-man-s-beard-wound-dressing"></a>
 # Old Man's Beard Wound Dressing
 
 **Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
@@ -15,17 +16,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) |
+| | [Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A dressing utilizing Old Man's Beard lichen. Apply to wounds to help prevent infection. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

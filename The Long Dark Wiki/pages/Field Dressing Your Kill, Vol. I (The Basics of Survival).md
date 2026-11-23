@@ -8,20 +8,20 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Fiel
 
 | Property | Details |
 | --- | --- |
-|  | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) |
+| | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Detailed information about the best way to butcher animal carcasses. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BookCarcassHarvesting |
 
 **Field Dressing Your Kill, Vol. I** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode, and starts the [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission. Completing the associated task rewards the blueprints for the [Rabbitskin Hat](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md).

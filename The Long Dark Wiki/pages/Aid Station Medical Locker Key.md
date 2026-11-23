@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Aid Station Medical Locker Key icon](../assets/Aid_Station_Medical_Locker_Key_icon.png) |
+| | [Aid Station Medical Locker Key icon](../assets/Aid_Station_Medical_Locker_Key_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A key for the Medical Locker aid station in Carter Hydro Dam. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

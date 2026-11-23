@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Field 31 Operation Memo icon](../assets/Field_31_Operation_Memo_icon.png) |
+| | [Field 31 Operation Memo icon](../assets/Field_31_Operation_Memo_icon.png) |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An old piece of airfield paperwork. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Tale1ChiefNote1 |
 
 **Field 31 Operation Memo** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is found at the top of the [Control Tower](./Control%20Tower.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) and begins the Tale [Signal Void](./Signal%20Void.md) (or all [Tales](./Tales.md) if they were completed before).

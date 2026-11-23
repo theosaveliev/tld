@@ -1,3 +1,4 @@
+<a id="the-power-plant-transcript"></a>
 # The Power Plant/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Power_Plant%2FTranscript)
@@ -13,9 +14,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Power Plant](../assets/The_Power_Plant.png) |
-| Episode |  |
-| **Missions** |  |
+| | [The Power Plant](../assets/The_Power_Plant.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
 | Current | The Power Plant/Transcript |
 | Next | [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md) |

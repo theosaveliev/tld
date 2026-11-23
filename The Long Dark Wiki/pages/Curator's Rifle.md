@@ -1,3 +1,4 @@
+<a id="curator-s-rifle"></a>
 # Curator's Rifle
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Curator's_Rifle)
@@ -22,21 +23,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) |
+| | [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | This .303 extracts a terrible price at distance thanks to its meticulous construction. Missing from the collection of an enigmatic local collector of rare firearms, this weapon is oiled and engraved for purpose. / A legacy at work. |
-| **Values** |  |
+| **Values** | |
 | Weight | 4.00 kg (8.8 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_Rifle\_Curators |
 
 **Curator's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

@@ -8,8 +8,6 @@
 
 ![Bed](../assets/CurtainBed.jpg)
 
-|
-
 **General**
 
 Item Type

@@ -8,8 +8,6 @@
 
 ![Interior](../assets/SS-PV-HilltopCave_%282%29.jpg)
 
-|
-
 **Location**
 
 ![Hilltop Cave Location](../assets/Hilltop_Cave_Location.png)

@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) |
-| **General** |  |
+| | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Renewable | Yes |
 | Clothing Slot | Inner legs |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |

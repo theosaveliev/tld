@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Firearm Cleaning Kit icon](../assets/Firearm_Cleaning_Kit_icon.png) |
+| | [Firearm Cleaning Kit icon](../assets/Firearm_Cleaning_Kit_icon.png) |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) |
 | Wintermute | No |
 | Renewable | Yes (Rare [Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Compact tool kit used to keep a Rifle or Revolver in good working order. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
 
 The **Firearm Cleaning Kit** is a Tool for cleaning the [Hunting Rifle](./Hunting%20Rifle.md) and the [Revolver](./Revolver.md) (or their variants).

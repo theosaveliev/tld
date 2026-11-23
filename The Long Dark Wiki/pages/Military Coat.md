@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Military Coat icon](../assets/Military_Coat_icon.png) |
-| **General** |  |
+| | [Military Coat icon](../assets/Military_Coat_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |

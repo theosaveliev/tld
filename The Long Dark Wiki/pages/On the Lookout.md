@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [On the Lookout icon](../assets/On_the_Lookout_icon.png) |
+| | [On the Lookout icon](../assets/On_the_Lookout_icon.png) |
 | Description | Reach all 6 Vista locations in the Far Territory (single game). |
 
 **On the Lookout** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

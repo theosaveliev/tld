@@ -1,3 +1,4 @@
+<a id="hermit-s-cabin"></a>
 # Hermit's Cabin
 
 **Categories:** Locations, Locations in Mountain Town, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hermit's_Cabin)
@@ -13,14 +14,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hermits cabin](../assets/Hermits_cabin.jpg) |
-| **Location** |  |
-|  | [Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png) |
+| | [Hermits cabin](../assets/Hermits_cabin.jpg) |
+| **Location** | |
+| | [Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | The west bank of the basin |
-| **General** |  |
+| **General** | |
 | Firebox | [Wood Stove](./Wood%20Stove.md) |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Hermit's Cabin** is a dilapidated structure in [Mountain Town](./Mountain%20Town.md).
 
@@ -41,5 +42,3 @@ A wood stove, wooden crates and containers are inside the ruins, as well as a fi
 ![Hermits cabin 2](../assets/Hermits_cabin_2.jpg)
 
 ![Milton Basin Cabin](../assets/Milton_Basin_Cabin.jpg)
-
-[ru:Лачуга отшельника](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%87%D1%83%D0%B3%D0%B0_%D0%BE%D1%82%D1%88%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0) [es:Cabaña del ermitaño](https://es.wikipedia.org/wiki/Caba%C3%B1a_del_ermita%C3%B1o)

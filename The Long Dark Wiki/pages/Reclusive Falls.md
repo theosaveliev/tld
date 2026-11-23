@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hushed river valley reclusive falls 20201031](../assets/Hushed_river_valley_reclusive_falls_20201031.png) |
-| **Location** |  |
-|  | [Reclusive Falls Location](../assets/Reclusive_Falls_Location.png) |
+| | [Hushed river valley reclusive falls 20201031](../assets/Hushed_river_valley_reclusive_falls_20201031.png) |
+| **Location** | |
+| | [Reclusive Falls Location](../assets/Reclusive_Falls_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | On the [Hushed River](./Hushed%20River.md) |
 | Description | A waterfall with an entrance to the [ice cave](./Ice%20Cave.md) behind it. |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 The **Reclusive Falls** flow down into a valley of steep cliffs into the [Hushed River](./Hushed%20River.md).
 

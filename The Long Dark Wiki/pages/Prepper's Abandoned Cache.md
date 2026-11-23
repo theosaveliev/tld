@@ -1,3 +1,4 @@
+<a id="prepper-s-abandoned-cache"></a>
 # Prepper's Abandoned Cache
 
 **Categories:** Indoor locations, Industrial locations, Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepper's_Abandoned_Cache)
@@ -14,16 +15,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Preppers abandoned cache3](../assets/Preppers_abandoned_cache3.jpg) |
-| **Location** |  |
-|  | [Prepper's Abandoned Cache Location](../assets/Prepper%27s_Abandoned_Cache_Location.png) |
+| | [Preppers abandoned cache3](../assets/Preppers_abandoned_cache3.jpg) |
+| **Location** | |
+| | [Prepper's Abandoned Cache Location](../assets/Prepper%27s_Abandoned_Cache_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 _Not to be confused with **[Prepper Cache](./Prepper%20Cache.md)**._
 > **There's one more bunker you can check. One of old man Joplin's in Pleasant Valley. On the way to Timberwolf. He wasn't in their crew, but Wyatt set up his prepper caches.**
@@ -75,5 +76,3 @@ A hidden room containing [A Skeleton And Note](./A%20Skeleton%20And%20Note.md) c
 - Most caches in _The Long Dark_ are marked with [fallout shelter](https://en.wikipedia.org/wiki/Fallout_shelter) signs, signifying their original purpose was to protect the local population in the event of a nuclear attack.
   - This is confirmed in Sutherland's Tale, as Wyatt created these caches in case of a Nuclear conflict.
 - The vent [Grate](./Grate.md) inside bunkers may be opened, potentially yielding hidden loot.
-
-[es:Búnker abandonado](https://es.wikipedia.org/wiki/B%C3%BAnker_abandonado) [ru:Забытый запас для выживания](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B1%D1%8B%D1%82%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)

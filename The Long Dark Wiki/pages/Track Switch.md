@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Track Switch Resized](../assets/Track_Switch_Resized.png) |
-| **General** |  |
+| | [Track Switch Resized](../assets/Track_Switch_Resized.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

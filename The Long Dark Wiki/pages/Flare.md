@@ -16,13 +16,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Flare icon](../assets/Flare_icon.png) |
-| **General** |  |
+| | [Flare icon](../assets/Flare_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
 | Firestarting Slot | Starter |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |
 

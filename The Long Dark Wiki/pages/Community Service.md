@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Community Service icon](../assets/Community_Service_icon.png) |
+| | [Community Service icon](../assets/Community_Service_icon.png) |
 | Description | Get to Thomson's Crossing. |
 
 **Community Service** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

@@ -15,17 +15,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png) |
+| | [Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png) |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | Unknown |
 | Status | Most likely Deceased |
 | Occupation | Mine Foreman (cover occupation) Unknown Secret Agent |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Sex | Male |
-| **Game Information** |  |
+| **Game Information** | |
 | Equipment | [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) / [Tactical Jacket](./Tactical%20Jacket.md) |
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&action=edit expanding it].**

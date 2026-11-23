@@ -1,3 +1,4 @@
+<a id="warden-s-revolver"></a>
 # Warden's Revolver
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Warden's_Revolver)
@@ -22,21 +23,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) |
+| | [Warden's Revolver icon](../assets/Warden%27s_Revolver_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | Quick draw sidearm. Out of place in the wilderness, but its short barrel and light weight allow for a faster aiming action. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.25 kg (2.75 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_RevolverStubNosed |
 
 **Warden's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

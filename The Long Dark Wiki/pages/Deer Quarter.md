@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Deer Quarter icon](../assets/Deer_Quarter_icon.png) |
+| | [Deer Quarter icon](../assets/Deer_Quarter_icon.png) |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Section of a Deer carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat. |
-| **Values** |  |
+| **Values** | |
 | Weight | 5.00 kg (11 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 10.0% per day |
 | Outside | 10.0% per day |
 

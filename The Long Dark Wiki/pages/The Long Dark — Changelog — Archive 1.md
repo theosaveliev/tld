@@ -1,3 +1,4 @@
+<a id="the-long-dark-changelog-archive-1"></a>
 # The Long Dark/Changelog/Archive 1
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive_1)
@@ -47,6 +48,7 @@ _For Archive 2 changelog with versions 1.50 to 1.99, see [The\_Long\_Dark/Change
 
 _For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
+<a id="1-49"></a>
 ## 1.49
 
 Released 8 May 2019
@@ -63,6 +65,7 @@ Released 8 May 2019
 - [Steam - The Long Dark -- Hotfixed to v1.49](https://steamcommunity.com/games/305620/announcements/detail/1619518761230569183)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.49](http://www.hinterlandforums.com/forums/topic/22937-the-long-dark-hotfixed-to-v149-47860/)
 
+<a id="1-48-steadfast-ranger"></a>
 ### 1.48 (Steadfast Ranger)
 
 Released 6 May 2019
@@ -190,6 +193,7 @@ Steam-Specific Issues
 - [Steam - The Long Dark -- Updated to v1.48 Steadfast Ranger](https://steamcommunity.com/games/305620/announcements/detail/1618392223375658386)
 - [Hinterland Forums - The Long Dark -- Updated to v1.48 Steadfast Ranger](http://www.hinterlandforums.com/forums/topic/22877-the-long-dark-survival-mode-updated-to-v148-steadfast-ranger/)
 
+<a id="1-47"></a>
 ### 1.47
 
 Released 25 February 2019
@@ -210,6 +214,7 @@ Size: 406.8 MB
 - [Steam - The Long Dark -- Hotfixed to V1.47](https://steamcommunity.com/games/305620/announcements/detail/1765878775383105836)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.47](http://www.hinterlandforums.com/forums/topic/22466-the-long-dark-hotfixed-to-v147-45127/)
 
+<a id="1-46"></a>
 ### 1.46
 
 Released 17 January 2019
@@ -293,6 +298,7 @@ Xbox One
 - [Steam - The Long Dark -- Hotfixed to V1.46](https://steamcommunity.com/games/305620/announcements/detail/1711832408179782030)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.46](http://www.hinterlandforums.com/forums/topic/22243-the-long-dark-hotfixed-to-v146-44395/)
 
+<a id="1-44"></a>
 ### 1.44
 
 Released 21 December 2018
@@ -308,6 +314,7 @@ Size: 9.4 MB
 - [Steam - The Long Dark -- Hotfixed to V1.44](https://steamcommunity.com/games/305620/announcements/detail/1711829869701289743)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.44](http://www.hinterlandforums.com/forums/topic/21928-the-long-dark-hotfixed-to-v144-44110/)
 
+<a id="1-43"></a>
 ### 1.43
 
 Released 20 December 2018
@@ -321,6 +328,7 @@ Size: 285.8 MB
 - [Steam - The Long Dark -- Hotfixed to V1.43](https://steamcommunity.com/games/305620/announcements/detail/1711829869696815808)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.43](http://www.hinterlandforums.com/forums/topic/21905-the-long-dark-hotfixed-to-v143-44083/)
 
+<a id="1-42"></a>
 ### 1.42
 
 Released 19 December 2018
@@ -338,6 +346,7 @@ Released 19 December 2018
 - [WINTERMUTE] Fixed Bear becoming stuck in flee after stepping off a fallen tree adjacent to the Bear Spear in Episode Two.
 - [SURVIVAL MODE] Fixed missing truck in Pleasant Valley.
 
+<a id="1-41-wintermute-redux-update"></a>
 ### 1.41 (Wintermute Redux Update)
 
 Released 17 December 2018
@@ -532,6 +541,7 @@ STEAM-ONLY FIXES
 - [Steam - The Long Dark -- Updated to V1.41](https://steamcommunity.com/games/305620/announcements/detail/2793819141034651531)
 - [Hinterland Forums - The Long Dark -- Updated to V1.41](http://www.hinterlandforums.com/forums/topic/21818-the-long-dark-updated-to-v141-43925-%E2%80%93-redux/)
 
+<a id="1-40"></a>
 ### 1.40
 
 Released 21 November 2018
@@ -545,18 +555,21 @@ Size 5.1 MB
 - [Steam - The Long Dark -- Hotfixed to V1.40](https://steamcommunity.com/games/305620/announcements/detail/1711827332394728298)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.40](http://www.hinterlandforums.com/forums/topic/21670-the-long-dark-hotfixed-to-v140-42090/)
 
+<a id="1-39"></a>
 ### 1.39
 
 Released 1 November 2018
 
 This update disabled the 4 Days of Night event
 
+<a id="1-38"></a>
 ### 1.38
 
 Released 27 October 2018
 
 This update included the 4 Days of Night event
 
+<a id="1-37"></a>
 ### 1.37
 
 Released 29 August 2018
@@ -573,6 +586,7 @@ This update fixed two bugs caused by the previous hotfix, v1.36.
 - [Steam - The Long Dark -- Hotfixed to v1.37](https://steamcommunity.com/games/305620/announcements/detail/1706190222507117589)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.36](http://www.hinterlandforums.com/forums/topic/21133-the-long-dark-hotfixed-to-v137-39488/)
 
+<a id="1-36"></a>
 ### 1.36
 
 Released 27 August 2018
@@ -628,6 +642,7 @@ AUDIO
 - [Steam - The Long Dark -- Hotfixed to v1.36](https://steamcommunity.com/games/305620/announcements/detail/1703937155167868606)
 - [Hinterland Forums - The Long Dark -- Hotfixed to V1.36](http://www.hinterlandforums.com/forums/topic/21107-the-long-dark-hotfixed-to-v136-39433/)
 
+<a id="1-35"></a>
 ### 1.35
 
 Released 26 June 2018
@@ -644,6 +659,7 @@ Size: 148.5 MB
 - [Steam - The Long Dark -- Hotfixed to v1.35](https://steamcommunity.com/games/305620/announcements/detail/1697177224759558869)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.35](http://www.hinterlandforums.com/forums/topic/19901-the-long-dark-hotfixed-to-v135-38054-on-steam/)
 
+<a id="1-34"></a>
 ### 1.34
 
 Released 20 June 2018
@@ -678,6 +694,7 @@ Size: 419.5 MB
 - [Steam - The Long Dark -- Hotfixed to v1.34](https://steamcommunity.com/games/305620/announcements/detail/1697176680058829754)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.34](http://www.hinterlandforums.com/forums/topic/19813-the-long-dark-hotfixed-to-v134-37910-on-steam-ps4/)
 
+<a id="1-33-vigilant-flame-update"></a>
 ### 1.33 (Vigilant Flame Update)
 
 Released 14 June 2018
@@ -793,6 +810,7 @@ Art/Environment
 - [Steam - The Long Dark -- Updated to 1.33 Vigilant Flame](https://steamcommunity.com/games/305620/announcements/detail/2513453569787023915)
 - [Hinterland Forums - The Long Dark -- Updated to 1.33 Vigilant Flame](http://www.hinterlandforums.com/forums/topic/19720-the-long-dark-updated-to-v133-37608-%E2%80%94-vigilant-flame/)\]
 
+<a id="1-30"></a>
 ### 1.30
 
 Released 17 April 2018
@@ -805,6 +823,7 @@ Size: 363 MB
 
 - [Steam - The Long Dark -- Hotfixed to 1.30](https://steamcommunity.com/games/305620/announcements/detail/3397279379408201450)
 
+<a id="1-29"></a>
 ### 1.29
 
 Released 9 April 2018
@@ -829,6 +848,7 @@ General
 
 - [Steam - The Long Dark -- Hotfix 1.29](https://steamcommunity.com/games/305620/announcements/detail/1665644509107445756)
 
+<a id="1-27"></a>
 ### 1.27
 
 Released 20 March 2018
@@ -984,6 +1004,7 @@ General Fixes
 - [Steam - The Long Dark -- The Long Dark Hotfixed to v1.27](http://steamcommunity.com/games/305620/announcements/detail/1667895040279884180)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.27 on STEAM](http://www.hinterlandforums.com/forums/topic/18740-the-long-dark-hotfixed-to-v127-34908-on-steam/)
 
+<a id="1-21"></a>
 ### 1.21
 
 Released 21 December 2017
@@ -1000,6 +1021,7 @@ Released 21 December 2017
 - [Steam - The Long Dark -- Hotfix to version 1.21](http://steamcommunity.com/games/305620/announcements/detail/1591325606896670848)
 - [Hinterland Forums - The Long Dark -- Hotfix to version 1.21 on STEAM](http://www.hinterlandforums.com/forums/topic/17856-the-long-dark-hotfix-to-v121-33995-on-steam/)
 
+<a id="1-19"></a>
 ### 1.19
 
 Released 18 December 2017
@@ -1018,6 +1040,7 @@ Size 420.0 MB
 
 - [Hinterland Forums - The Long Dark -- Hotfix to version 1.19 on STEAM](http://www.hinterlandforums.com/forums/topic/17792-the-long-dark-hotfix-to-version-119-33943-on-steam/)
 
+<a id="1-17"></a>
 ### 1.17
 
 Released 18 December 2017
@@ -1035,6 +1058,7 @@ Released 18 December 2017
 - [Steam - The Long Dark -- Hotfix to version 1.17](http://steamcommunity.com/games/305620/announcements/detail/1460720127071304149)
 - [Hinterland Forums - The Long Dark -- Hotfix to version 1.17 on STEAM](http://www.hinterlandforums.com/forums/topic/17745-steam-hotfix-rugged-sentinel-updated-to-version-117-33486/)
 
+<a id="1-16-rugged-sentinel-update"></a>
 ### 1.16 (**Rugged Sentinel Update)**
 
 Released 7 December 2017
@@ -1114,6 +1138,7 @@ GENERAL FIXES
 - [Steam - The Long Dark -- The Long Dark Updated to version 1.16 (33814) "RUGGED SENTINEL"](https://steamcommunity.com/games/305620/announcements/detail/1460720127065506570)
 - [Hinterland Forums - The Long Dark -- version 1.16 (33814) "RUGGED SENTINEL"](http://www.hinterlandforums.com/forums/topic/17720-the-long-dark-updated-to-version-116-33814-rugged-sentinel/)
 
+<a id="1-15"></a>
 ### 1.15
 
 **Patch 10** - Released 16 September 2017
@@ -1131,6 +1156,7 @@ _May include spoilers_
 - [Steam - The Long Dark -- Hotfixed to v1.15 (32681)](https://steamcommunity.com/games/305620/announcements/detail/3192346485228450002)
 - [Hinterland Forums - The Long Dark -- Steam Hotfixed to v1.15](http://www.hinterlandforums.com/forums/topic/17256-steam-hotfixed-to-v115-32681/)
 
+<a id="1-14"></a>
 ### 1.14
 
 **Patch 9** - Released 14 September 2017
@@ -1161,6 +1187,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- Steam and PS4 now updated to v1.14](http://www.hinterlandforums.com/forums/topic/17232-steam-and-ps4-now-updated-to-v114-32663/)
 - [Steam - The Long Dark -- Steam Patch 9 Is Now Live!](http://steamcommunity.com/games/305620/announcements/detail/1446075635417958192)
 
+<a id="1-12"></a>
 ### 1.12
 
 **Patch 8** - Released 23 August 2017
@@ -1184,6 +1211,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- STEAM + PS4 Updated to v1.12 (32503)](http://www.hinterlandforums.com/forums/topic/16962-steam-ps4-updated-to-v112-32503/)
 - [Steam - The Long Dark -- Steam Patch 8 Is Now Live!](http://steamcommunity.com/games/305620/announcements/detail/1433688834754620659)
 
+<a id="1-10"></a>
 ### 1.10
 
 **Patch 7** - Released 16 August 2017
@@ -1215,6 +1243,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- STEAM Patch 7 Is Now Live!](http://www.hinterlandforums.com/forums/topic/16822-the-long-dark-steam-patch-7-is-now-live/)
 - [Steam - The Long Dark -- Patch 7 Is Now Live!](http://steamcommunity.com/games/305620/announcements/detail/1432562300721849383)
 
+<a id="1-08"></a>
 ### 1.08
 
 **Patch 6** - Released 11 August 2017
@@ -1243,6 +1272,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- STEAM PATCH 6 is now Live!](http://www.hinterlandforums.com/forums/topic/16697-steam-patch-6-is-now-live/)
 - [Steam - The Long Dark -- Patch 6 Is Now Live!](http://store.steampowered.com/news/externalpost/steam_community_announcements/2093464278187689391)
 
+<a id="1-07"></a>
 ### 1.07
 
 **Patch 5** - Released 9 August 2017
@@ -1268,6 +1298,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- STEAM PATCH 5 now live!](http://www.hinterlandforums.com/forums/topic/16619-steam-patch-5-now-live/)
 - [Steam - The Long Dark -- Patch 5 is now live!](http://store.steampowered.com/news/externalpost/steam_community_announcements/2093464278180514494)
 
+<a id="1-05"></a>
 ### 1.05
 
 **Patch 4** - Released 4 August 2017
@@ -1283,6 +1314,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- STEAM: Patch 4 is Now Live](http://www.hinterlandforums.com/forums/topic/16375-steam-patch-4-is-now-live/)
 - [Steam - The Long Dark -- The Long Dark -- Patch 4 Is Now Live!](http://store.steampowered.com/news/externalpost/steam_community_announcements/2093464278162631532)
 
+<a id="1-03"></a>
 ### 1.03
 
 '**Patch 3**' - Released 4 August 2017
@@ -1298,6 +1330,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- STEAM: Patch 3 for The Long Dark is Now Live!](http://www.hinterlandforums.com/forums/topic/16326-steam-patch-3-for-the-long-dark-is-now-live/)
 - [Steam - The Long Dark -- Patch 3 Is Now Live!](http://store.steampowered.com/news/externalpost/steam_community_announcements/2093464278159893975)
 
+<a id="1-02"></a>
 ### 1.02
 
 **Patch 2** - Released 3 August 2017
@@ -1329,6 +1362,7 @@ _May include spoilers_
 - [Hinterland Forums - The Long Dark -- Patch 2 for The Long Dark is Live!](http://www.hinterlandforums.com/forums/topic/16317-patch-2-for-the-long-dark-is-live/)
 - [Steam - The long Dark -- PATCH 2 Now Live!](http://store.steampowered.com/news/externalpost/steam_community_announcements/2093464278159261497)
 
+<a id="1-01"></a>
 ### 1.01
 
 **Patch 1** - Released 2 August 2017
@@ -1360,6 +1394,7 @@ _May include spoilers_
 - [Steam - The Long Dark -- PATCH 1 Now Live](http://steamcommunity.com/games/305620/announcements/detail/1432561119209638983)
 - [Hinterland Forums - The Long Dark -- PATCH 1 Now Live](http://www.hinterlandforums.com/forums/topic/16234-the-long-dark-patch-1-now-live/)
 
+<a id="1-00-wintermute-1-0-launch-update-predux-release"></a>
 ### 1.00 (Wintermute 1.0 Launch Update(Predux release))
 
 Released 1 August 2017

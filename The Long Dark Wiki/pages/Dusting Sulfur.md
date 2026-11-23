@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Dusting Sulfur icon](../assets/Dusting_Sulfur_icon.png) |
-| **General** |  |
+| | [Dusting Sulfur icon](../assets/Dusting_Sulfur_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
 > “**A chemical compound sometimes used as a pesticide. Could be useful when crafting Ammunition.**”

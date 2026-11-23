@@ -13,18 +13,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Last Lonely House resized](../assets/Last_Lonely_House_resized.png) |
-| **Location** |  |
-|  | [Last Lonely House Location](../assets/Last_Lonely_House_Location.png) |
+| | [Last Lonely House resized](../assets/Last_Lonely_House_resized.png) |
+| **Location** | |
+| | [Last Lonely House Location](../assets/Last_Lonely_House_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | South of [Route One Waterfall](./Route%20One%20Waterfall.md) |
 | Description | A small cabin atop a ridge. |
-| **General** |  |
+| **General** | |
 | Type | Residential |
 | Firebox | [Wood Stove](./Wood%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 **Last Lonely House** is a small cabin located in [Sundered Pass](./Sundered%20Pass.md), not far from [Route One Waterfall](./Route%20One%20Waterfall.md) and slightly north of [Seedling Spring](./Seedling%20Spring.md), below the valley.
 

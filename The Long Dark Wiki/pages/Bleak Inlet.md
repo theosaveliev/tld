@@ -16,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bleakinlet](../assets/Bleakinlet.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Bleak Inlet Location](../assets/Bleak_Inlet_Location.png) |
-|  | [Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png) |
-| **Details** |  |
+| | [Bleakinlet](../assets/Bleakinlet.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Bleak Inlet Location](../assets/Bleak_Inlet_Location.png) |
+| | [Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png) |
+| **Details** | |
 | Description | Industrial wasteland ravaged by strong winds and timberwolves |
 | Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md), [The Ravine](./The%20Ravine.md) |
 | Characters | None |

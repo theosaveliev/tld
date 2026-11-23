@@ -14,8 +14,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Challenge Archivist](../assets/Challenge_Archivist.png) |
-| **Details** |  |
+| | [Challenge Archivist](../assets/Challenge_Archivist.png) |
+| **Details** | |
 | Regions | [Mountain Town](./Mountain%20Town.md), [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Coastal Highway](./Coastal%20Highway.md), [Pleasant Valley](./Pleasant%20Valley.md), [Broken Railroad](./Broken%20Railroad.md), [Desolation Point](./Desolation%20Point.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Difficulty | 3 |
 | Date Added | December 2018 |

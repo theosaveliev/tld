@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Longcurveupdated](../assets/Longcurveupdated.png) |
-| **Location** |  |
-|  | [Long Curve Location](../assets/Long_Curve_Location.png) |
+| | [Longcurveupdated](../assets/Longcurveupdated.png) |
+| **Location** | |
+| | [Long Curve Location](../assets/Long_Curve_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | At one end of the road that bisects the region |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Long Curve** is a location in [Pleasant Valley](./Pleasant%20Valley.md), and is the transition to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
 

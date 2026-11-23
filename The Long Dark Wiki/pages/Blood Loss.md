@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blood Loss icon](../assets/Blood_Loss_icon.png) |
-| **Properties** |  |
+| | [Blood Loss icon](../assets/Blood_Loss_icon.png) |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You are bleeding from a wound. If left untreated, you will continue to weaken until you die. |
 | Caused By | Falls ([Rope Climbing](./Rope%20Climbing.md)) Predator [Struggle](./Struggle.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Treated or Death |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | 1 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) |
 | Recovery Time | Treated Instantly |
 

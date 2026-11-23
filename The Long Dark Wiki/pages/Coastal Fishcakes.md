@@ -19,22 +19,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) |
+| | [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | Crispy cakes of fish, traditional style. Salty. |
-| **Values** |  |
+| **Values** | |
 | Calories | 313 kcal |
 | Hydration | 0% |
 | [Vitamin C](./Scurvy.md) | Minor (14%) |
 | Weight | 0.053 kg (0.12 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Fishcakes |
 
 **Coastal Fishcakes** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).

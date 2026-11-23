@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Improvised Knife icon](../assets/Improvised_Knife_icon.png) |
-| **General** |  |
+| | [Improvised Knife icon](../assets/Improvised_Knife_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |

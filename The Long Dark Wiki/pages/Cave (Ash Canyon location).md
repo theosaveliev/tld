@@ -8,8 +8,6 @@
 
 ![Upper Entrance](../assets/Cave_Ash_Canyon_2.jpg)
 
-|
-
 **Location**
 
 ![Cave (Ash Canyon location) Location](../assets/Cave_%28Ash_Canyon_location%29_Location.png)

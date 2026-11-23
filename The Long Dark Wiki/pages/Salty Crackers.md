@@ -13,20 +13,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Salty Crackers icon](../assets/Salty_Crackers_icon.png) |
+| | [Salty Crackers icon](../assets/Salty_Crackers_icon.png) |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Dried, salty crackers. Will make you thirsty. |
-| **Values** |  |
+| **Values** | |
 | Calories | 600 kcal |
 | Hydration | -20% |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_SaltyCrackers |
 
 **Salty Crackers** are a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).

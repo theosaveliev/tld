@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Brittle Cave Outside](../assets/Brittle_Cave_Outside.png) |
-| **Location** |  |
-|  | [Brittle Cave Location](../assets/Brittle_Cave_Location.png) |
+| | [Brittle Cave Outside](../assets/Brittle_Cave_Outside.png) |
+| **Location** | |
+| | [Brittle Cave Location](../assets/Brittle_Cave_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | East of Drift island next to the waterfall |
 | Description | A cave |
-| **General** |  |
+| **General** | |
 | Type | Cave |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Brittle Cave** is a cave found in [Forsaken Airfield](./Forsaken%20Airfield.md) in the north eastern most section of the map.
 

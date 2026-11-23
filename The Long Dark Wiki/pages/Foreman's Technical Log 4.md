@@ -1,3 +1,4 @@
+<a id="foreman-s-technical-log-4"></a>
 # Foreman's Technical Log 4
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4)
@@ -6,15 +7,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Foreman's Technical Log 4 icon](../assets/Foreman%27s_Technical_Log_4_icon.png) |
+| | [Foreman's Technical Log 4 icon](../assets/Foreman%27s_Technical_Log_4_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An entry in a technical logbook. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
 
 **Foreman's Technical Log 4** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) near the end of the Tale.

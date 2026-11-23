@@ -136,6 +136,7 @@ A Canoe can occasionally wash up along the shorelines while [Beachcombing](./Bea
 
 ![Canoe](../assets/Canoe.png)
 
+<a id="sutherland-s-sailboat"></a>
 ### Sutherland's sailboat
 
 The only "operational" vehicle in Survival mode (though not useable by the Survivor), Sutherland's sailboat shows up off the coast of [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) the day after the Survivor completes a [trade](./Trader.md), and is where Sutherland lives. It takes the shape of a small sloop. The boat cannot be reached or otherwise interacted with.

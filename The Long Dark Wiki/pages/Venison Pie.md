@@ -12,21 +12,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Venison Pie icon](../assets/Venison_Pie_icon.png) |
+| | [Venison Pie icon](../assets/Venison_Pie_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A game pie made from harvested deer meat. |
-| **Values** |  |
+| **Values** | |
 | Calories | 325 (406) kcal |
 | Hydration | 0.0% |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_VenisonMeatPie |
 
 **Venison Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.

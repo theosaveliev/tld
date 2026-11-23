@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) |
-| **General** |  |
+| | [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Head |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |

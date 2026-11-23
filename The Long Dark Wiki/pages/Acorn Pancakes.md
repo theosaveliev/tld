@@ -12,21 +12,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Acorn Pancakes icon](../assets/Acorn_Pancakes_icon.png) |
+| | [Acorn Pancakes icon](../assets/Acorn_Pancakes_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No ([Acorn Grounds](./Acorn%20Grounds.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | Classic Pancakes, with Acorns. |
-| **Values** |  |
+| **Values** | |
 | Calories | 750 (938) kcal |
 | Hydration | -3.0% |
 | Weight | 0.15 kg (0.33 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_AcornPancake |
 
 **Acorn Pancakes** are a food item made with a [Cooking Skillet](./Cooking%20Skillet.md).

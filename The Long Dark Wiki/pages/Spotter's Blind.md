@@ -1,3 +1,4 @@
+<a id="spotter-s-blind"></a>
 # Spotter's Blind
 
 **Categories:** Locations, Locations in Forsaken Airfield, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spotter's_Blind)
@@ -6,15 +7,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Spotterblind](../assets/Spotterblind.png) |
-| **Location** |  |
-|  | [Spotter's Blind Location](../assets/Spotter%27s_Blind_Location.png) |
+| | [Spotterblind](../assets/Spotterblind.png) |
+| **Location** | |
+| | [Spotter's Blind Location](../assets/Spotter%27s_Blind_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | East part of the region. |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-| [Bed icon](../assets/Bed_icon.png) |  |
-|  | Provides some shelter |
+| [Bed icon](../assets/Bed_icon.png) | |
+| | Provides some shelter |
 
 **Spotter's Blind** is a small blind just east of the airfield. Medium-level loot can be found here such as [revolver ammunition](./Revolver%20Ammunition.md), [research books](./Research%20Book.md), or [maple syrup](./Maple%20Syrup.md). A [hacksaw](./Hacksaw.md) may also be found with the blade part way into one of the blind's supports, as though someone had been attempting to sabotage the structure.
 

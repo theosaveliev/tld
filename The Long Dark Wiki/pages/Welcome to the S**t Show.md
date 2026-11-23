@@ -1,3 +1,4 @@
+<a id="welcome-to-the-s-t-show"></a>
 # Welcome to the S\**t Show
 
 **Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Welcome_to_the_S%2A%2At_Show)
@@ -6,7 +7,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Welcome to the S\**t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) |
+| | [Welcome to the S\**t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) |
 | Description | Find Medicine for the Warden. |
 
 **Welcome to the S\**t Show** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

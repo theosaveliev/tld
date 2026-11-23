@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Watchful Falls](../assets/Watchful_Falls.jpg) |
-| **Location** |  |
-|  | [Watchful Falls Location](../assets/Watchful_Falls_Location.png) |
+| | [Watchful Falls](../assets/Watchful_Falls.jpg) |
+| **Location** | |
+| | [Watchful Falls Location](../assets/Watchful_Falls_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Sublocations | Next to [Lake Cave](./Lake%20Cave.md). |
 | Description | A waterfall. |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has an interior |
+| | Has an interior |
 
 **Watchful Falls** is a landmark far side of [Monolith Lake](./Monolith%20Lake.md), with the [Lake Cave](./Lake%20Cave.md) just behind it, in [Hushed River Valley](./Hushed%20River%20Valley.md).
 

@@ -12,23 +12,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) |
+| | [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Raw flesh from a Cougar. |
-| **Values** |  |
+| **Values** | |
 | Calories | 850 kcal |
 | Hydration | 0% |
 | [Vitamin C](./Scurvy.md) | 0 |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 1.0% per day |
 | Outside | 0.1% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_RawMeatCougar |
 
 _For the cooked version, see [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)._

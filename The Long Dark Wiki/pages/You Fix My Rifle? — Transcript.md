@@ -1,3 +1,4 @@
+<a id="you-fix-my-rifle-transcript"></a>
 # You Fix My Rifle?/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript)
@@ -18,9 +19,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
+| | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
 | Current | You Fix My Rifle?/Transcript |
 | Next | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
@@ -43,6 +44,7 @@ _After leaving the [Trapper's Homestead](./Trapper%27s%20Homestead.md), if the p
 
 _Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md). He walks past it, entering the [Maintenance Yard](./Maintenance%20Yard.md) and the Shed._
 
+<a id="use-the-hand-driven-milling-machine-to-repair-jeremiah-s-rifle"></a>
 ## Use the hand-driven milling machine to repair Jeremiah's rifle.
 
 _Inside, he spots the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md) and walks to it as a cutscene plays_
@@ -161,6 +163,7 @@ Mackenzie: "Hmph."
 
 _The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW TRUSTS YOU MORE NOW. (+10)" appears_
 
+<a id="jeremiah-s-trust"></a>
 ## Jeremiah's Trust
 
 _At any point in the mission or the ones after this one, the player has the option to raise Jeremiah's Trust. The following dialogue options are unlocked once sufficient Trust is earned._

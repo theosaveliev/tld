@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cougar Carcass](../assets/Cougar_Carcass.jpg) |
-| **General** |  |
+| | [Cougar Carcass](../assets/Cougar_Carcass.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 
@@ -21,7 +21,7 @@
 
 A Cougar is a fierce and dangerous foe to hunt, but killing one will produce a Cougar Carcass, which can be harvested to obtain the following items:
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) | 4 | Always (1) |
 | [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always (2) |
@@ -30,7 +30,7 @@ A Cougar is a fierce and dangerous foe to hunt, but killing one will produce a C
 
 The Cougar Claw is harvested automatically when Harvesting Cougar Hide/Quartering animal. There is no option to harvest one or the other separately while examining a Cougar Carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) | [Cougar Claw](./Cougar%20Claw.md) | 1 | Always |
 

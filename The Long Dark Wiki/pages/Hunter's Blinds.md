@@ -1,3 +1,4 @@
+<a id="hunter-s-blinds"></a>
 # Hunter's Blinds
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunter's_Blinds)

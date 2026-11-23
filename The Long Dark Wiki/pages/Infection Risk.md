@@ -13,21 +13,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Infection Risk icon](../assets/Infection_Risk_icon.png) |
+| | [Infection Risk icon](../assets/Infection_Risk_icon.png) |
 | Release | [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-107) |
 | Update | 0.107 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You sustained a wound that could result in infection if left untreated. |
 | Caused By | [Wildlife](./Wildlife.md) [Struggle](./Struggle.md) |
 | Effect | Negative |
 | Type | Risk |
 | Affliction Duration | Until Treated |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | 1 x [Antiseptic icon](../assets/Antiseptic_icon.png) [Antiseptic](./Antiseptic.md) |
 | Alternate Treatment | 1 x [Old Man's Beard Wound Dressing icon](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) |
 | Recovery Time | Immediate |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | GAMEPLAY\_CabinFeverRisk |
 
 An **Infection Risk** is an [Affliction](./Afflictions.md) that can develop into an [Infection](./Infection.md) between 8 and 24 hours after receiving the affliction. It is received from getting into a [Struggle](./Struggle.md) with hostile [Wildlife](./Wildlife.md).
@@ -56,7 +56,7 @@ The player can receive an Infection Risk after surviving a [Struggle](./Struggle
 
 Infection Risk can be treated by using one of the following items:
 
-|  | Treatment | Number required |
+| | Treatment | Number required |
 | --- | --- | --- |
 |  | [Antiseptic](./Antiseptic.md) | 1 |
 |  | [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | 1 |

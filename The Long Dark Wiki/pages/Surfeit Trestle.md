@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Surfeit Trestle](../assets/Surfeit_Trestle.jpg) |
-| **Location** |  |
-|  | [Surfeit Trestle Location](../assets/Surfeit_Trestle_Location.png) |
+| | [Surfeit Trestle](../assets/Surfeit_Trestle.jpg) |
+| **Location** | |
+| | [Surfeit Trestle Location](../assets/Surfeit_Trestle_Location.png) |
 | Region | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) |
 | Description | A locomotive trestle |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Surfeit Trestle** is a a location in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md).
 

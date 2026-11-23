@@ -8,8 +8,6 @@
 
 ![Interior](../assets/Rural_store.jpg)
 
-|
-
 **Location**
 
 ![Rural Store Location](../assets/Rural_Store_Location.png)

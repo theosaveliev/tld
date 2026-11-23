@@ -35,7 +35,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg) |
+| | [The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg) |
 | **Developer(s)** | [Hinterland Games](./Hinterland%20Studio%20Inc..md) |
 | **Director(s)** | Raphael Van Lierop / David Chan / Hokyo Lim / Alan Lawrance |
 | **Writer(s)** | Marianne Krawczyk |
@@ -239,5 +239,3 @@ _Survival - [Deer](./Deer.md)_
 ## External links
 
 - [Official game site](http://www.intothelongdark.com/)
-
-[ru:The Long Dark](https://ru.wikipedia.org/wiki/The_Long_Dark) [fr:Accueil](https://fr.wikipedia.org/wiki/Accueil) [de:The Long Dark](https://de.wikipedia.org/wiki/The_Long_Dark)

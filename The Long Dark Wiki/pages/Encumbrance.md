@@ -123,8 +123,6 @@ Totally encumbered
 - "Too heavy, can't move."
 - "TOO, MUCH, TO CARRY!!!"
 
-[ru:Перевес](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81) [es:capacidad de carga](https://es.wikipedia.org/wiki/capacidad_de_carga)
-
 ## Notes
 
 ---

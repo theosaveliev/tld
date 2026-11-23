@@ -21,11 +21,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Track Section 2 Turn Circle](../assets/Track_Section_2_Turn_Circle.jpg) |
-| **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Anna Island Track Section 2 Map](../assets/Anna_Island_Track_Section_2_Map.png) |
-| **Details** |  |
+| | [Track Section 2 Turn Circle](../assets/Track_Section_2_Turn_Circle.jpg) |
+| **Location on [Cauldron Island](./Cauldron%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Anna Island Track Section 2 Map](../assets/Anna_Island_Track_Section_2_Map.png) |
+| **Details** | |
 | Description | A long stretch of coastal railway. |
 | Connecting Regions | [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) |
 | Interloper Region Spawn | No |

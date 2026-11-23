@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Penitent Scholar icon](../assets/Penitent_Scholar_icon.png) |
+| | [Penitent Scholar icon](../assets/Penitent_Scholar_icon.png) |
 | Description | Complete all Research books. |
 
 **Penitent Scholar** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

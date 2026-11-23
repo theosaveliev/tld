@@ -21,7 +21,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 - [References](#references)
-- Links
+- [Links](#links)
 
 ![Iron Road logo](../assets/Iron_Road_logo.png)
 
@@ -172,3 +172,5 @@ TBA
 ![Iron Road Clothing Logo](../assets/Iron_Road_Clothing_Logo.png)
 
 ## References
+
+## Links

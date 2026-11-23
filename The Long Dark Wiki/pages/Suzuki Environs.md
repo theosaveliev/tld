@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Suzuki Region In Game Map](../assets/Suzuki_Region_In-Game_Map.png) |
-| **Details** |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Suzuki Region In Game Map](../assets/Suzuki_Region_In-Game_Map.png) |
+| **Details** | |
 | Description | A mountain region housing the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) and a small parking lot. |
 | Date Added | 31 March 2026 |
 

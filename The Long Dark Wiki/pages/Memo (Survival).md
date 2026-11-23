@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Memo (Survival) icon](../assets/Memo_%28Survival%29_icon.png) |
+| | [Memo (Survival) icon](../assets/Memo_%28Survival%29_icon.png) |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-02) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An old piece of paperwork. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

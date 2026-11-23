@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Marsh Ridge aerial view](../assets/Marsh_Ridge_aerial_view.jpg) |
-| **Location** |  |
-|  | [Marsh Ridge Location](../assets/Marsh_Ridge_Location.png) |
+| | [Marsh Ridge aerial view](../assets/Marsh_Ridge_aerial_view.jpg) |
+| **Location** | |
+| | [Marsh Ridge Location](../assets/Marsh_Ridge_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has an interior |
+| | Has an interior |
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Marsh+Ridge&action=edit expanding it].**
 

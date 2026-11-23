@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Miserable Haunt](../assets/Miserable_Haunt.jpg) |
-| **Location** |  |
-|  | [Miserable Haunt Location](../assets/Miserable_Haunt_Location.png) |
+| | [Miserable Haunt](../assets/Miserable_Haunt.jpg) |
+| **Location** | |
+| | [Miserable Haunt Location](../assets/Miserable_Haunt_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | Close to [Seedling Spring](./Seedling%20Spring.md) |
 | Description | A cave in the southwestern most section of the map |
-| **General** |  |
+| **General** | |
 | Type | Cave |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md).
 

@@ -1,3 +1,4 @@
+<a id="renewed-hope-predux-transcript"></a>
 # Renewed Hope \(Predux\)/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope_%28Predux%29%2FTranscript)
@@ -13,9 +14,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg) |
+| | [Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md) |
 | Current | Renewed Hope (Predux)/Transcript |
 | Next | none |
@@ -74,6 +75,7 @@ _The cutscene ends. Mackenzie eventually leaves the strange man and enters the D
 
 _Mackenzie enters the Dam as the lights flicker around him. He approaches the control Room door and uses the code Jeremiah gave him_
 
+<a id="use-jeremiah-s-code-to-access-the-control-room"></a>
 ### Use Jeremiah's code to access the control room.
 
 _He enters the room and finds a switch box, turning the elevators back on_

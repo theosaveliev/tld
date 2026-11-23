@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bloody note icon](../assets/Bloody_note_icon.png) |
+| | [Bloody note icon](../assets/Bloody_note_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A blood-soaked page from a journal |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
 
 **Bloody note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Sundered Pass](./Sundered%20Pass.md). It is found in the radar station building in [Weather Station](./Weather%20Station.md), in the northwest corner of the room.

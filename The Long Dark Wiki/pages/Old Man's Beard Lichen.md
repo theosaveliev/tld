@@ -1,3 +1,4 @@
+<a id="old-man-s-beard-lichen"></a>
 # Old Man's Beard Lichen
 
 **Categories:** Materials, Pages with update history, Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Lichen)
@@ -14,18 +15,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Man's Beard Lichen icon](../assets/Old_Man%27s_Beard_Lichen_icon.png) |
+| | [Old Man's Beard Lichen icon](../assets/Old_Man%27s_Beard_Lichen_icon.png) |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A lichen found in the ancient forests of the Pacific Northwest. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.01 kg (0.02 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

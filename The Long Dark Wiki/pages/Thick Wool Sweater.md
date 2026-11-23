@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Thick Wool Sweater icon](../assets/Thick_Wool_Sweater_icon.png) |
-| **General** |  |
+| | [Thick Wool Sweater icon](../assets/Thick_Wool_Sweater_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Inner torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

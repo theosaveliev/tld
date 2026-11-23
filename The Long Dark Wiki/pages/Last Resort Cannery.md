@@ -18,16 +18,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI Cannery03](../assets/SS-BI-Cannery03.jpg) |
-| **Location** |  |
-|  | [Last Resort Cannery Location](../assets/Last_Resort_Cannery_Location.png) |
+| | [SS BI Cannery03](../assets/SS-BI-Cannery03.jpg) |
+| **Location** | |
+| | [Last Resort Cannery Location](../assets/Last_Resort_Cannery_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | West of the [Long Bridge](./Long%20Bridge.md) |
 | Description | Fenced Industrial compound |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Last Resort Cannery** is a major location in [Bleak Inlet](./Bleak%20Inlet.md). The cannery complex features a renewable source of a few important materials, a special workshop with some unique tools, and a trailer that can be used for shelter.
 

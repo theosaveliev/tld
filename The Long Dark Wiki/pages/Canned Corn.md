@@ -15,8 +15,6 @@
 
 ![Opened](../assets/Canned_Corn_%28Opened%29_icon.png)
 
-|
-
 Release
 
 [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void)

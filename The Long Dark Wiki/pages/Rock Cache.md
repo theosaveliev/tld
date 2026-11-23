@@ -1,6 +1,6 @@
 # Rock Cache
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
 
 **Contents**
 
@@ -14,8 +14,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rock Cache icon](../assets/Rock_Cache_icon.png) |
-| **General** |  |
+| | [Rock Cache icon](../assets/Rock_Cache_icon.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 

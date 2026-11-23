@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rustic Bed icon](../assets/Rustic_Bed_icon.png) |
+| | [Rustic Bed icon](../assets/Rustic_Bed_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 5.00 kg (11 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 The **Rustic Bed** is a [Decorations](./Decorations.md) and [Bed](./Bed.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.

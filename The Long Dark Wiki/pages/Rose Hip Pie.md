@@ -19,22 +19,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) |
+| | [Rose Hip Pie icon](../assets/Rose_Hip_Pie_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A thick-crusted pie overflowing with Rose Hips. |
-| **Values** |  |
+| **Values** | |
 | Calories | 225 (281) kcal |
 | Hydration | 0.0% |
 | [Vitamin C](./Scurvy.md) | Minor (6%) |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_RoseHipFruitPie |
 
 **Rose Hip Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.

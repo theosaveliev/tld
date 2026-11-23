@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png) |
-| **Location** |  |
-|  | [Shoulder Lake Location](../assets/Shoulder_Lake_Location.png) |
+| | [Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png) |
+| **Location** | |
+| | [Shoulder Lake Location](../assets/Shoulder_Lake_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | The northeastern part of the region. |
 | Description | A large lake containing a few islands. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Shoulder Lake** is a large lake in [Forsaken Airfield](./Forsaken%20Airfield.md), occupying much of the northeastern part of the region.
 

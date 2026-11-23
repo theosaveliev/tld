@@ -36,13 +36,13 @@ Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to 
 
 | DIFFICULTY | STALKER |
 | --- | --- |
-| GAME START |  |
+| GAME START | |
 | Baseline resource availability | Medium |
 | Starting time of day | Random |
 | Starting weather | Heavy Fog |
 | Indoor spawns permitted | No |
 | Survivor monologue | Yes |
-| ENVIRONMENT |  |
+| ENVIRONMENT | |
 | Length of day multiplier | 1x |
 | Weather variability | High |
 | Blizzard frequency | High |
@@ -51,7 +51,7 @@ Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to 
 | Aurora frequency | Medium |
 | Fire overcomes ambient air temp | No |
 | Endless night (v1.83) | No |
-| HEALTH |  |
+| HEALTH | |
 | Calorie burn rate | High |
 | Thirst rate | Medium |
 | Fatigue rate | High |
@@ -71,7 +71,7 @@ Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to 
 | Fires prevent freezing | No |
 | Wake up player when freezing near a fire | No |
 | Birch bark tea crafting **(v.1.64)** | Yes |
-| GEAR |  |
+| GEAR | |
 | Item decay rate | High |
 | Loose item availability | Medium |
 | Empty container chance modifier | Medium |
@@ -81,7 +81,7 @@ Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to 
 | Revolver availability **(v.1.64)** | Yes |
 | Harvestable plant availability | High |
 | Reduce container item density | Low |
-| WILDLIFE SPAWNS |  |
+| WILDLIFE SPAWNS | |
 | Cougar spawn chance | Medium |
 | Wolf spawn chance | Very High |
 | Timberwolf spawn chance | Very High |
@@ -93,7 +93,7 @@ Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to 
 | Reduce wildlife population over time | Medium |
 | Wolf spawn distance | Close |
 | Predator grace period | No |
-| WILDLIFE BEHAVIOUR |  |
+| WILDLIFE BEHAVIOUR | |
 | Wildlife smell range | High |
 | Scent increase from Meat/Blood | Medium |
 | Passive wildlife | No |
@@ -101,7 +101,7 @@ Stalker introduces a new [Affliction](./Afflictions.md) that makes it harder to 
 | Wolf fear | Medium |
 | Timberwolf morale | Low |
 | Wildlife detection range | Medium |
-| WILDLIFE STRUGGLE |  |
+| WILDLIFE STRUGGLE | |
 | Struggle bonus | Low |
 | Struggle condition damage modifier | None |
 | Struggle clothing damage modifier | Low |

@@ -11,7 +11,7 @@ There are currently eight challenges in the _[The Long Dark](./The%20Long%20Dark
 | [Badge challenge hopelessRescue](../assets/Badge_challenge_hopelessRescue.png) | [Hopeless Rescue](./Hopeless%20Rescue.md) | Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse. | 4 |
 | [The Hunted Part One icon](../assets/The_Hunted_Part_One_icon.png) | [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) | Avoid the Bear. Get to Trapper's Cabin in Mystery Lake. | 5 |
 | [Badge challenge huntedPart2](../assets/Badge_challenge_huntedPart2.png) | [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) | Take the rifle and go face the Old Bear. | 5 |
-|  | [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md) | TBA | TBA |
+| | [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md) | TBA | TBA |
 | [Badge challenge whiteout](../assets/Badge_challenge_whiteout.png) | [Whiteout](./Whiteout.md) | The storm arrives in 30 days. Stockpile enough food, water, and supplies in the Coastal Highway Quonset Garage before it hits. | 4 |
 | [Badge challenge nomad](../assets/Badge_challenge_nomad.png) | [Nomad](./Nomad.md) | Survive for 3 days each in 15 specific locations across the game world. | 3 |
 | [Badge challenge archivist](../assets/Badge_challenge_archivist.png) | [Archivist](./Archivist.md) | During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your journal. | 3 |

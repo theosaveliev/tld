@@ -8,8 +8,6 @@
 
 ![Large](../assets/Fir_Limb_Large.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -56,4 +54,4 @@ Large limbs cannot be cut up with a hacksaw, and take 60 min to harvest with a n
 | Fir Firewood | Tinder Plug | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- | --- |
 | 4 | 1 | 1 Hour | 202 | -2% Hatchet |
-| 4 | 1 |  |  | -2% Improvised Hatchet |
+| 4 | 1 | | | -2% Improvised Hatchet |

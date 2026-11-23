@@ -8,20 +8,20 @@ _For the version encountered in [Survival Mode](./Survival%20Mode.md), see [A Se
 
 | Property | Details |
 | --- | --- |
-|  | [A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) |
+| | [A Sewing Primer icon](../assets/A_Sewing_Primer_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Everything you ever wanted to know about maintaining your clothing. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BookMending |
 
 **A Sewing Primer** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode to start the [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission.

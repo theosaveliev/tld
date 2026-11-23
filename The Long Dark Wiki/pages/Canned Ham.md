@@ -6,23 +6,23 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Canned Ham icon](../assets/Canned_Ham_icon.png) |
+| | [Canned Ham icon](../assets/Canned_Ham_icon.png) |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Fully-cooked and ready to eat. An acquired taste, but safe and portable. |
-| **Values** |  |
+| **Values** | |
 | Calories | 550 kcal |
 | Hydration | -5% |
 | Weight | 0.40 kg (0.88 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0.133% per day |
 | Outside | 0.667% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CannedHam |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

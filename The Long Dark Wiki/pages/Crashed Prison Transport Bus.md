@@ -83,5 +83,3 @@ The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock
 ![Crashed Prison Transport Bus](../assets/Crashed_Prison_Transport_Bus.png)
 
 ![Can't access inside in Survival](../assets/Crashed_Prison_Transport_Bus_2.png)
-
-[ru:Сломанный тюремный автобус](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81) [es:Autobús de la prisión accidentado](https://es.wikipedia.org/wiki/Autob%C3%BAs_de_la_prisi%C3%B3n_accidentado)

@@ -1,3 +1,4 @@
+<a id="the-grey-mother-transcript"></a>
 # The Grey Mother/Transcript
 
 **Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother%2FTranscript)
@@ -15,9 +16,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Grey Mother](../assets/The_Grey_Mother.png) |
+| | [The Grey Mother](../assets/The_Grey_Mother.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |
 | Current | The Grey Mother/Transcript |
 | Next | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |

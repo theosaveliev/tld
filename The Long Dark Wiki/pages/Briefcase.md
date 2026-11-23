@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Briefcase](../assets/Briefcase.jpg) |
+| | [Briefcase](../assets/Briefcase.jpg) |
 | Story item | Yes |
-| **Container** |  |
+| **Container** | |
 | Capacity | 10.00 kg(22 lbs) |

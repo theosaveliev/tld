@@ -1,3 +1,4 @@
+<a id="bank-manager-s-house-key"></a>
 # Bank Manager's House Key
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House_Key)
@@ -6,16 +7,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bank Manager's House Key icon](../assets/Bank_Manager%27s_House_Key_icon.png) |
+| | [Bank Manager's House Key icon](../assets/Bank_Manager%27s_House_Key_icon.png) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Bank Managers House Key. Will unlock one of the Houses in Milton. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

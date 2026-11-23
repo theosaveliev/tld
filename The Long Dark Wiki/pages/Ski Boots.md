@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ski Boots icon](../assets/Ski_Boots_icon.png) |
-| **General** |  |
+| | [Ski Boots icon](../assets/Ski_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |

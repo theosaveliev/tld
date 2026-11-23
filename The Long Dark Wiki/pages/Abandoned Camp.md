@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Abandoned camp](../assets/Abandoned_camp.jpg) |
-| **Location** |  |
-|  | [Abandoned Camp Location](../assets/Abandoned_Camp_Location.png) |
+| | [Abandoned camp](../assets/Abandoned_camp.jpg) |
+| **Location** | |
+| | [Abandoned Camp Location](../assets/Abandoned_Camp_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Abandoned Camp** is an unmarked location of a small camp in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

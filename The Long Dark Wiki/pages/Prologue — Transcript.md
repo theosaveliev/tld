@@ -1,3 +1,4 @@
+<a id="prologue-transcript"></a>
 # Prologue/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prologue%2FTranscript)
@@ -6,9 +7,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Prologue](../assets/Prologue.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Prologue](../assets/Prologue.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md) |
 | Current | Prologue/Transcript |
 | Next | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |

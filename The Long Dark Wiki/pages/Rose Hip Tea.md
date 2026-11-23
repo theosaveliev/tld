@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) |
+| | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Examine | Rose hips have long been used as an anti-inflammatory and this tea makes for an effective, natural pain-killer. |
-| **Values** |  |
+| **Values** | |
 | Calories | 100 kcal |
 | Hydration | 30% |
 | [Vitamin C](./Scurvy.md) | Minor (13%) |

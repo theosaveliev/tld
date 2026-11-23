@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [ID Naomi Moore icon](../assets/ID_Naomi_Moore_icon.png) |
+| | [ID Naomi Moore icon](../assets/ID_Naomi_Moore_icon.png) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An identification card belonging to Naomi Moore. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
 
 **ID: Naomi Moore** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is currently unknown if it is associated with one of the [Tales](./Tales.md), as it is in the game files but may be unused. It is currently considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).

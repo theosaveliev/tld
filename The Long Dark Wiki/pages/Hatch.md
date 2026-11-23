@@ -12,8 +12,6 @@
 
 ![Airplane](../assets/HatchAirplane.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -32,6 +30,7 @@ Some hatches have a different storage capacity.
 
 40.00 kg storage
 
+<a id="helicopter-airplane-hatch"></a>
 ## Helicopter/Airplane Hatch
 
 40.00 kg storage

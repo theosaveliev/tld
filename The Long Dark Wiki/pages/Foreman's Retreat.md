@@ -1,3 +1,4 @@
+<a id="foreman-s-retreat"></a>
 # Foreman's Retreat
 
 **Categories:** Indoor locations, Locations, Locations in Ash Canyon, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Retreat)
@@ -13,16 +14,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20201212120850 1](../assets/20201212120850_1.jpg) |
-| **Location** |  |
-|  | [Foreman's Retreat Location](../assets/Foreman%27s_Retreat_Location.png) |
+| | [20201212120850 1](../assets/20201212120850_1.jpg) |
+| **Location** | |
+| | [Foreman's Retreat Location](../assets/Foreman%27s_Retreat_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A one-storey house near [Miner's Folly](./Miner%27s%20Folly.md). |
-| **General** |  |
+| **General** | |
 | Type | Residential |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Foreman's Retreat** is a one-story, two-room house located in [Ash Canyon](./Ash%20Canyon.md) not far from [Miner's Folly](./Miner%27s%20Folly.md).
 

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Concussion icon](../assets/Concussion_icon.png) |
+| | [Concussion icon](../assets/Concussion_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Update | 1.60 |
 | Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Plane Crash Injuries |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Scripted |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | No treatment needed |
 
 **Concussion** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It shares the same icon as the [Headache](./Headache.md) Affliction.

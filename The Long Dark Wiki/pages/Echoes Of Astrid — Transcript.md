@@ -1,3 +1,4 @@
+<a id="echoes-of-astrid-transcript"></a>
 # Echoes Of Astrid/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid%2FTranscript)
@@ -14,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg) |
-| Episode |  |
-| **Missions** |  |
+| | [Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg) |
+| Episode | |
+| **Missions** | |
 | Previous | [Survival Of The Fittest/Transcript](./Survival%20Of%20The%20Fittest%20%E2%80%94%20Transcript.md) |
 | Current | Echoes Of Astrid/Transcript |
 | Next | [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) |

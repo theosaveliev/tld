@@ -211,6 +211,7 @@ After 100 Trust is reached, Sutherland will ask for a special request which star
 - Completing Sutherland's fifth and final special request
   - Guaranteed [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md)
 
+<a id="trader-s-inventory"></a>
 ## Trader's Inventory
 
 Below is a list of items that the Trader can offer to the player. His stock is always randomized, but certain items will be available for trade every time.
@@ -265,7 +266,7 @@ At 500 Trust the following item will be available:
 
 ### Normal Trades
 
-|  | Name | Trust | Item Type | Max Multiples | Cost | Cost with discount (After 350 Trust) |
+| | Name | Trust | Item Type | Max Multiples | Cost | Cost with discount (After 350 Trust) |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Canned Corn icon](../assets/Canned_Corn_icon.png) | [Canned Corn](./Canned%20Corn.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 12 [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md); - 2.00 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 8 [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md); - 1.50 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
 | [Carrot icon](../assets/Carrot_icon.png) | [Carrot](./Carrot.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 6 [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md); - 1.00L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 3 [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md); - 0.50 L [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
@@ -341,7 +342,7 @@ At 500 Trust the following item will be available:
 
 These special items are only found by trading with Sutherland, and are quite costly. The first 5 are requests needed to progress [Sutherland's Tale](./Sutherland%27s%20Tale.md), and unlock rarer items. Blueprint/Recipe Cards can only be purchased once.
 
-|  | Name | Trust | Item Type | Max Multiples | Cost | Cost with discount (After 350 Trust) |
+| | Name | Trust | Item Type | Max Multiples | Cost | Cost with discount (After 350 Trust) |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png) | Special Request (#1) | N/A | Search for Signs of Wyatt | 1 | Travel to the Stockpile [Prepper Cache](./Prepper%20Cache.md) and deliver[Document Stash 1 icon](../assets/Document_Stash_1_icon.png) [Document Stash 1](./Document%20Stash%201.md). Reward: [Mackinaw Jacket](./Mackinaw%20Jacket.md) | - No discount |
 | [Unique Recipe Star icon](../assets/Unique_Recipe_Star_icon.png) | Special Request (#2) | N/A | Search for Signs of Wyatt | 1 | Travel to the Hunting [Prepper Cache](./Prepper%20Cache.md) and deliver[Document Stash 2 icon](../assets/Document_Stash_2_icon.png) [Document Stash 2](./Document%20Stash%202.md). Reward: [3x Arrowhead](./Arrowhead.md) | - No discount |
@@ -376,6 +377,7 @@ These special items are only found by trading with Sutherland, and are quite cos
 | [Recipe Card Soup Ptarmigan](../assets/Recipe_Card_Soup_Ptarmigan.png) | [Porter's Soup](./Porter%27s%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 3.00L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md); - 1 [Car Battery icon](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md); - 8 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 2.25L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md); - 6 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
 | [Recipe Card Rabbit Soup](../assets/Recipe_Card_Rabbit_Soup.png) | [Vagabond Soup](./Vagabond%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 2.00L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md); - 1 [Car Battery icon](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md); - 6 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50L [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md); - 5 [Cloth icon](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
 
+<a id="sutherland-s-past"></a>
 ## Sutherland's Past
 
 - Speaking to the Trader reveals more about him, with more [Conversations](./Sutherland%27s%20Tale.md#conversations) being unlocked as you raise his Trust:

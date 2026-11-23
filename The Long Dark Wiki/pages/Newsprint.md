@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Newsprint icon](../assets/Newsprint_icon.png) |
-| **General** |  |
+| | [Newsprint icon](../assets/Newsprint_icon.png) |
+| **General** | |
 | Item Type | Fire Starting |
 | Wintermute | No |
 | Firestarting Slot | Tinder |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
 > “**Newsprint. Can be used as tinder.**”

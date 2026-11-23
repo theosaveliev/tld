@@ -21,7 +21,7 @@ These small, lootable items can be found in many locations along the water, usua
 
 ### Standard
 
-|  | Item | Rarity | [Misery icon](../assets/Misery_icon.png) |
+| | Item | Rarity | [Misery icon](../assets/Misery_icon.png) |
 | --- | --- | --- | --- |
 | [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) | 22.22% | Yes |
 | [Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) | [Reclaimed Wood](./Reclaimed%20Wood.md) | 7.41% | Yes |
@@ -58,7 +58,7 @@ These small, lootable items can be found in many locations along the water, usua
 
 ### Post-blizzard
 
-|  | Item | Rarity | [Misery icon](../assets/Misery_icon.png) |
+| | Item | Rarity | [Misery icon](../assets/Misery_icon.png) |
 | --- | --- | --- | --- |
 | [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) | [Cat Tail Head](./Cat%20Tail%20Head.md) | 5.38% | Yes |
 | [Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png) | [Green Birch Sapling](./Green%20Birch%20Sapling.md) | 5.38% | Yes |

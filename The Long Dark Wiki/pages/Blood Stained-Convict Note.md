@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blood Stained Convict Note icon](../assets/Blood_Stained-Convict_Note_icon.png) |
+| | [Blood Stained Convict Note icon](../assets/Blood_Stained-Convict_Note_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A bloodstained, handwritten note... |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | STORY\_Collectible\_ConvictNote1 |
 
 **Blood Stained-Convict Note** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Blackrock (mission)](./Blackrock%20%28mission%29.md) side mission.

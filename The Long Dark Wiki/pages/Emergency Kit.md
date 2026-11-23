@@ -28,8 +28,6 @@
 
 ![Open](../assets/Emergency_Kit_Open.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -73,6 +71,7 @@ Some of these locations do not spawn a kit on [Interloper](./Interloper.md) or [
 - [Abandoned Lookout](./Abandoned%20Lookout.md) (N/A on Interloper)
 - [Fishing Camp](./Fishing%20Camp.md), western most [Fishing Hut](./Fishing%20Hut.md) (N/A on Interloper)
 
+<a id="keeper-s-pass-north"></a>
 ### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 
 - Below [Builder's Bridge](./Builder%27s%20Bridge.md). Take the rope climb down to the river and it is in a small cave. (found on all difficulties)

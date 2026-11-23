@@ -1,3 +1,4 @@
+<a id="hunter-s-blind"></a>
 # Hunter's Blind
 
 **Categories:** Locations, Locations in Broken Railroad, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunter's_Blind)
@@ -6,15 +7,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hunters blind2](../assets/Hunters_blind2.jpg) |
-| **Location** |  |
-|  | [Hunter's Blind Location](../assets/Hunter%27s_Blind_Location.png) |
+| | [Hunters blind2](../assets/Hunters_blind2.jpg) |
+| **Location** | |
+| | [Hunter's Blind Location](../assets/Hunter%27s_Blind_Location.png) |
 | Region | [Broken Railroad](./Broken%20Railroad.md) |
 | Location | North of a small lake, north of the [Maintenance Yard](./Maintenance%20Yard.md) |
 | Description | A [Hunters Blind](./Hunter%27s%20Blinds.md) overlooking a lake |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Hunter's Blind** is a [blind](./Hunter%27s%20Blinds.md) in [Broken Railroad](./Broken%20Railroad.md). It's located roughly halfway between the [Maintenance Yard](./Maintenance%20Yard.md) and [Hunting Lodge](./Hunting%20Lodge.md).
 

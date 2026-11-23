@@ -8,8 +8,6 @@
 
 ![Open](../assets/Weapon_Locker_Open.jpg)
 
-|
-
 Release
 
 1.60

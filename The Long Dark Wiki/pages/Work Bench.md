@@ -18,8 +18,6 @@
 
 ![Wood](../assets/Workbench_icon_Old.png)
 
-|
-
 **General**
 
 Item Type

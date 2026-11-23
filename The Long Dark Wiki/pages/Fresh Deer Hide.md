@@ -13,15 +13,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) |
+| | [Fresh Deer Hide icon](../assets/Fresh_Deer_Hide_icon.png) |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested hide from a Deer. / Can be used for crafting and repair after air-drying indoors for 5 days. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
 
 **Fresh Deer Hide** is the raw hide of a [Deer](./Deer.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Deerskin Pants](./Deerskin%20Pants.md) or [Deerskin Boots](./Deerskin%20Boots.md) once they have [Cured](./Curing.md) into a [Cured Deer Hide](./Cured%20Deer%20Hide.md).

@@ -19,22 +19,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Trout Stew icon](../assets/Trout_Stew_icon.png) |
+| | [Trout Stew icon](../assets/Trout_Stew_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A flavorful stew made from the ubiquitous, colourful fish. |
-| **Values** |  |
+| **Values** | |
 | Calories | 750 (938) kcal |
 | Hydration | 3% |
 | [Vitamin C](./Scurvy.md) | Minor (17%) |
 | Weight | 0.35 kg (0.77 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_CookedStewTrout |
 
 **Trout Stew** is a food item in _The Long Dark_ and is made with a [Cooking Pot](./Cooking%20Pot.md).

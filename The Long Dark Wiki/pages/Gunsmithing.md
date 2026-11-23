@@ -16,7 +16,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Gunsmithing background](../assets/Gunsmithing_background.png) |
+| | [Gunsmithing background](../assets/Gunsmithing_background.png) |
 | Release | [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) |
 | Date | 10 December 2019 |
 
@@ -111,5 +111,3 @@ Players can increase their Gunsmithing skill by:
   - Added new craftable item: Gunpowder
   - Added new craftable item: Bullet(s)
   - Added new craftable item: Ammunition
-
-[es:fabricación de armas](https://es.wikipedia.org/wiki/fabricaci%C3%B3n_de_armas) [fr:Fabrication de munitions](https://fr.wikipedia.org/wiki/Fabrication_de_munitions)

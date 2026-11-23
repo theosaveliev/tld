@@ -13,11 +13,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Antibiotics icon](../assets/Antibiotics_icon.png) |
-| **General** |  |
+| | [Antibiotics icon](../assets/Antibiotics_icon.png) |
+| **General** | |
 | Item Type | [First Aid](./First%20Aid.md) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
-| **Statistics** |  |
+| **Statistics** | |
 | Unit weight | 0.02 kg/dose(0.04 lbs/dose) |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Unit count | [Unit count icon](../assets/Unit_count_icon.png)6 doses |
@@ -56,5 +56,3 @@ One dose of Antibiotics consists of 2 Antibiotics pills. A single pill cannot be
 
 - Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which generally distribute through the body.
-
-[ru:Антибиотики](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8) [fr:Antibiotiques](https://fr.wikipedia.org/wiki/Antibiotiques)

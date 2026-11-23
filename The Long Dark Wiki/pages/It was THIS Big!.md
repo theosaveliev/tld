@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [It was THIS Big! icon](../assets/It_was_THIS_Big!_icon.png) |
+| | [It was THIS Big! icon](../assets/It_was_THIS_Big!_icon.png) |
 | Description | Caught a fish weighing over 5kg (11 lbs). |
 
 **It was THIS Big!** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

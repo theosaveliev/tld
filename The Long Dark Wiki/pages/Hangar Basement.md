@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [HangarBasementLights](../assets/HangarBasementLights.jpg) |
-| **Location** |  |
+| | [HangarBasementLights](../assets/HangarBasementLights.jpg) |
+| **Location** | |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Description | Bottom floor of the Main Hangar |
-| **General** |  |
-| Firebox |  |
+| **General** | |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 **Hangar Basement** is an unmarked, indoor location located at the bottom of the [Main Hangar](./Main%20Hangar.md) at the [Field 31](./Field%2031.md) airfield complex within [Forsaken Airfield](./Forsaken%20Airfield.md). It is one of the few shelters in the region that provides sanctuary from the [Insomnia](./Insomnia.md) [Affliction](./Afflictions.md) caused by the occasional [Glimmer Fog](./Glimmer%20Fog.md) that plagues the region.
 

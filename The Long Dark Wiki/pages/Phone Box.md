@@ -8,8 +8,6 @@
 
 ![Opened](../assets/Phone_Box_Open.jpg)
 
-|
-
 **General**
 
 Item Type

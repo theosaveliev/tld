@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Bridge](../assets/Broken_Bridge.jpg) |
-| **Location** |  |
-|  | [Broken Bridge (Desolation Point location) Location](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png) |
+| | [Broken Bridge](../assets/Broken_Bridge.jpg) |
+| **Location** | |
+| | [Broken Bridge (Desolation Point location) Location](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png) |
 | Region | [Desolation Point](./Desolation%20Point.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 _See also [Broken Bridge (disambiguation)](./Broken%20Bridge%20%28disambiguation%29.md)._
 

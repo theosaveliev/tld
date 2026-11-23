@@ -13,8 +13,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Energy Boost icon](../assets/Energy_Boost_icon.png) |
-| **Properties** |  |
+| | [Energy Boost icon](../assets/Energy_Boost_icon.png) |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume [First Aid](./First%20Aid.md) items |
 | Effect | Positive |

@@ -73,6 +73,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Warmth](./Warmth.md)
 
+<a id="1-3rd-depleted"></a>
 ### 1/3Rd depleted
 
 - Shivering noises (W,A)
@@ -80,6 +81,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - Need to find some place to escape this cold. (W,A)
 - Gotta warm up somehow. (A)
 
+<a id="2-3rd-depleted"></a>
 ### 2/3Rd depleted
 
 - Shivering noises (W,A)
@@ -106,10 +108,12 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Fatigue](./Fatigue.md)
 
+<a id="1-3rd-depleted-1"></a>
 ### 1/3Rd depleted
 
 - (Yawning noises) (W,A)
 
+<a id="2-3rd-depleted-1"></a>
 ### 2/3Rd depleted
 
 - I think I need to lay down. (W)
@@ -134,10 +138,12 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Hunger](./Hunger.md)
 
+<a id="1-2-depleted"></a>
 ### 1/2 Depleted
 
 - (Various stomach growling noises)
 
+<a id="3-4-depleted"></a>
 ### 3/4 Depleted
 
 - I need to find food. (W,A)
@@ -167,10 +173,12 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 
 ## [Thirst](./Thirst.md)
 
+<a id="1-2-depleted-1"></a>
 ### 1/2 Depleted
 
 - Dry lip smacking sounds (W,A)
 
+<a id="3-4-depleted-1"></a>
 ### 3/4 Depleted
 
 - I could use a drink. (W)

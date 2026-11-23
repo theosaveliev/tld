@@ -12,16 +12,16 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png) |
+| | [FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Examine | A box of Black and White Instant Film |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine, Drop, Pick up |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_FilmBoxBw |
 
 **FastFilm-500BW** is a tool used with the [Camera](./Camera.md) to take photos.

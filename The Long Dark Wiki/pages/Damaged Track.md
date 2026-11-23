@@ -12,8 +12,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Damaged Tracks](../assets/Damaged_Tracks.jpg) |
-| **General** |  |
+| | [Damaged Tracks](../assets/Damaged_Tracks.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 

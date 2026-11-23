@@ -12,17 +12,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Substation](../assets/Old_Substation.jpg) |
-| **Location** |  |
-|  | [Old Substation Location](../assets/Old_Substation_Location.png) |
-| Region |  |
+| | [Old Substation](../assets/Old_Substation.jpg) |
+| **Location** | |
+| | [Old Substation Location](../assets/Old_Substation_Location.png) |
+| Region | |
 | Location | Close to Narrow Bridge in the southwest of the region |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
 | Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 The **Old Substation** is an installation on the [Blackrock](./Blackrock.md) power grid. It is located approximately half-way along the power transmission line that goes from the [Power Plant](./Power%20Plant.md) to [Blackrock Prison](./Blackrock%20Prison.md).
 

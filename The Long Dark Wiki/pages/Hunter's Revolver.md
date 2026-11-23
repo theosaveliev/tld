@@ -1,3 +1,4 @@
+<a id="hunter-s-revolver"></a>
 # Hunter's Revolver
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunter's_Revolver)
@@ -21,21 +22,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) |
+| | [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | Vintage, hand-cannon style. Its stout construction allows for deadlier shots at distance. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.75 kg (3.85 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_RevolverFancy |
 
 **Hunter's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

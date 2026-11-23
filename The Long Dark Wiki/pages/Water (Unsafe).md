@@ -15,15 +15,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) |
+| | [Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Water that may make you ill. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
 
 **Water (Unsafe)** is impure water from melted snow in [_The Long Dark_](./The%20Long%20Dark.md).

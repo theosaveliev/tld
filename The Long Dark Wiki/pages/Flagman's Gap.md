@@ -1,3 +1,4 @@
+<a id="flagman-s-gap"></a>
 # Flagman's Gap
 
 **Categories:** Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flagman's_Gap)
@@ -6,14 +7,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Flagman's Gap](../assets/Flagman%27s_Gap.jpg) |
-| **Location** |  |
-|  | [Flagman's Gap Location](../assets/Flagman%27s_Gap_Location.png) |
+| | [Flagman's Gap](../assets/Flagman%27s_Gap.jpg) |
+| **Location** | |
+| | [Flagman's Gap Location](../assets/Flagman%27s_Gap_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Location | West of [Boss's Settlement](./Boss%27s%20Settlement.md), south from [Idle Camp](./Idle%20Camp.md) |
 | Description | A small road passing through a gap between large boulders |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Flagman's Gap** is a location in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 

@@ -6,18 +6,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Can Opener icon](../assets/Can_Opener_icon.png) |
+| | [Can Opener icon](../assets/Can_Opener_icon.png) |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An implement for opening cans. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.25 kg (0.55 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Leave It |
 

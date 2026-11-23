@@ -20,11 +20,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rabbit](../assets/Rabbit.png) |
-| **Basic Information** |  |
+| | [Rabbit](../assets/Rabbit.png) |
+| **Basic Information** | |
 | Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152) |
 | Role | Prey |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Brown |
 | Size | Small |
 | Eyes | Black |
@@ -41,7 +41,7 @@ Their meat is the same weight as raw venison despite providing just over half th
 
 When killed, a [Rabbit Carcass](./Rabbit%20Carcass.md) can be butchered on the spot or carried whole, similar to a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png) | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 1 - 2 | Always (1) |
 | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 | Always |

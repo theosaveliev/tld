@@ -288,8 +288,8 @@ The following Decorations cannot be crafted, but are already present within many
 | [WagonWheelB](../assets/WagonWheelB.png) | Wheel | 2.00 kg; _(4.4 lb)_ | [Hunting Lodge](./Hunting%20Lodge.md), [Camp Office](./Camp%20Office.md) |
 | [Ico GearItem WagonWheelA](../assets/Ico_GearItem_WagonWheelA.png) | Wheel | 4.00 kg; _(8.8 lb)_ | [Hunting Lodge](./Hunting%20Lodge.md), [Camp Office](./Camp%20Office.md), [Headframe Building](./Headframe%20Building.md) |
 | [Ico GearItem WoodSpatula](../assets/Ico_GearItem_WoodSpatula.png)[Ico GearItem WoodSpatulaSpoon](../assets/Ico_GearItem_WoodSpatulaSpoon.png) | Wooden Spoon | 1.00 kg; _(2.2 lb)_ | Kitchens |
-| [Thomson Foreclosure A](../assets/Thomson_Foreclosure_A.png)[Thomson Foreclosure A Variant](../assets/Thomson_Foreclosure_A_Variant.png)[BonesBearSkullA](../assets/BonesBearSkullA.png)[BonesBearSkullB](../assets/BonesBearSkullB.png)[BoneHumanSkullB](../assets/BoneHumanSkullB.png) | Unobtainable |  | These are icons of items currently outside of customization areas but can technically be picked up |
-| [ShowerCurtainC](../assets/ShowerCurtainC.png)[CurtainB2](../assets/CurtainB2.png)[JackOLantern](../assets/JackOLantern.png)[LightCandle D](../assets/LightCandle_D.png)[LightCandle E](../assets/LightCandle_E.png)[BarrelWood B Snow](../assets/BarrelWood_B_Snow.png)[BedFrame A](../assets/BedFrame_A.png)[Workbench icon Old](../assets/Workbench_icon_Old.png)[Trolley A02](../assets/Trolley_A02.png) | Unknown |  | These items are in the game files but many either do not exist or cannot be pick up inside Customization zones. |
+| [Thomson Foreclosure A](../assets/Thomson_Foreclosure_A.png)[Thomson Foreclosure A Variant](../assets/Thomson_Foreclosure_A_Variant.png)[BonesBearSkullA](../assets/BonesBearSkullA.png)[BonesBearSkullB](../assets/BonesBearSkullB.png)[BoneHumanSkullB](../assets/BoneHumanSkullB.png) | Unobtainable | | These are icons of items currently outside of customization areas but can technically be picked up |
+| [ShowerCurtainC](../assets/ShowerCurtainC.png)[CurtainB2](../assets/CurtainB2.png)[JackOLantern](../assets/JackOLantern.png)[LightCandle D](../assets/LightCandle_D.png)[LightCandle E](../assets/LightCandle_E.png)[BarrelWood B Snow](../assets/BarrelWood_B_Snow.png)[BedFrame A](../assets/BedFrame_A.png)[Workbench icon Old](../assets/Workbench_icon_Old.png)[Trolley A02](../assets/Trolley_A02.png) | Unknown | | These items are in the game files but many either do not exist or cannot be pick up inside Customization zones. |
 | [CashRegisterBank](../assets/CashRegisterBank.png) | Cash Machine | 5.00 kg; _(11 lb)_ | Cash Machine has been removed from [Milton Credit Union](./Milton%20Credit%20Union.md) |
 | [BoneHumanSkullA](../assets/BoneHumanSkullA.png) | Skull | 0.25 kg; _(0.55 lb)_ | Skull has been removed from [Bunker Omega](./Bunker%20Omega.md) ([Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md)'s skull is now a skeleton that can be destroyed) |
 
@@ -306,7 +306,7 @@ The following items are found in some interiors and can be moved around in Custo
   - Unsearched containers or containers that have items stored inside cannot be destroyed, and produce an error message. They must be searched/cleared out before they can be destroyed.
     - [Frozen Corpses](./Frozen%20Corpse.md) and [Corpses](./Corpse.md) are the only container that cannot be destroyed, but rather "Respectfully Removed." A candle icon will display as the Corpse is removed over time.
 
-|  | Name | Location |
+| | Name | Location |
 | --- | --- | --- |
 | [Bandsaw](../assets/Bandsaw.jpg) | Bandsaw | [Bunker Omega](./Bunker%20Omega.md) |
 | [Metal Barrel](../assets/Metal_Barrel.jpg) | Barrel (Metal) | Industrial Areas |
@@ -321,9 +321,9 @@ The following items are found in some interiors and can be moved around in Custo
 | [Case](../assets/Case.jpg) | Case | [Convenience Store](./Convenience%20Store.md) |
 | [Cash Machine](../assets/Cash_Machine.jpg) | Cash Machine (ATM) | [Terminal](./Terminal.md), [Rural Store](./Rural%20Store.md), [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md), [Concentrator](./Concentrator.md) Offices |
 | [Clipboard](../assets/Clipboard.jpg) | Clipboard | Industrial Areas |
-|  | Clock (Grandfather) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Hunting Lodge](./Hunting%20Lodge.md) |
+| | Clock (Grandfather) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Hunting Lodge](./Hunting%20Lodge.md) |
 | [Coat Stand](../assets/Coat_Stand.jpg) | Coat Stand | [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md) |
-|  | Counter | [Hunting Lodge](./Hunting%20Lodge.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
+| | Counter | [Hunting Lodge](./Hunting%20Lodge.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
 | [CurtainBarA](../assets/CurtainBarA.png)[CurtainBarA2](../assets/CurtainBarA2.png)[CurtainBarB](../assets/CurtainBarB.png)[CurtainBarB2](../assets/CurtainBarB2.png)[CurtainBarC](../assets/CurtainBarC.png) | Curtain (Curtain/Towel rack) | Bathrooms |
 | [Cups](../assets/Cups.jpg) | Cups | [Convenience Store](./Convenience%20Store.md) |
 | [Debris](../assets/Debris.jpg) | Debris | Rubble - [Concentrator](./Concentrator.md), [Blackrock Prison](./Blackrock%20Prison.md) (inside prison) Ceiling Tiles - [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md) |
@@ -332,21 +332,21 @@ The following items are found in some interiors and can be moved around in Custo
 | [Fire Poker](../assets/Fire_Poker.jpg) | Fire Poker | [Mindful Cabin](./Mindful%20Cabin.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md), [Island Cottage](./Island%20Cottage.md) |
 | [Hand Truck](../assets/Hand_Truck.jpg) | Hand Truck | Industrial Areas |
 | [Hand Truck 2](../assets/Hand_Truck_2.jpg) | Hand Truck | Industrial Areas |
-| [Lamp broken](../assets/Lamp_broken.jpg) | Lamp (Broken) |  |
-| [LampJ](../assets/LampJ.png)[LampN](../assets/LampN.png) | Light |  |
+| [Lamp broken](../assets/Lamp_broken.jpg) | Lamp (Broken) | |
+| [LampJ](../assets/LampJ.png)[LampN](../assets/LampN.png) | Light | |
 | [Light Rack](../assets/Light_Rack.jpg) | Light | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |
-|  | Hangar | Homes |
+| | Hangar | Homes |
 | [Glasses](../assets/Glasses.jpg) | Glasses | [Concentrator](./Concentrator.md) Office, [Island Cottage](./Island%20Cottage.md) |
-|  | Map | [Pensive Lookout](./Pensive%20Lookout.md) (map of Coastal Highway on the Board) |
+| | Map | [Pensive Lookout](./Pensive%20Lookout.md) (map of Coastal Highway on the Board) |
 | [Metal Sheet](../assets/Metal_Sheet.jpg) | Metal (Sheet) | Industrial Areas |
 | [MirrorMetal A](../assets/MirrorMetal_A.png)[MirrorMetal B](../assets/MirrorMetal_B.png)[MirrorMetal C](../assets/MirrorMetal_C.png) | Mirror (Broken) | Bathrooms (most mirrors like this are shattered) |
 | [Mount](../assets/Mount.jpg) | Mount | [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), Places with animal trophies |
 | [Organ](../assets/Organ.jpg) | Organ | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md) |
 | [DishPlateB1](../assets/DishPlateB1.png)[DishPlateB2](../assets/DishPlateB2.png)[DishPlateB3](../assets/DishPlateB3.png)[DishServeB1](../assets/DishServeB1.png)[DishServeB2](../assets/DishServeB2.png)[DishServeB3](../assets/DishServeB3.png) | Plate | Kitchens |
-|  | Podium | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md), [Community Hall](./Community%20Hall.md) |
-|  | Piano | [Community Hall](./Community%20Hall.md) |
+| | Podium | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md), [Community Hall](./Community%20Hall.md) |
+| | Piano | [Community Hall](./Community%20Hall.md) |
 | [Pipes](../assets/Pipes.jpg) | Pipe (Bundle) | Industrial Areas |
-|  | Rack | Houses |
+| | Rack | Houses |
 | [Slush Machine](../assets/Slush_Machine.jpg) | Slush Machine | [Convenience Store](./Convenience%20Store.md) |
 | [Soda Machine](../assets/Soda_Machine.jpg) | Soda Machine | [Convenience Store](./Convenience%20Store.md) |
 | [Stereo](../assets/Stereo.jpg) | Stereo | Near Speakers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |

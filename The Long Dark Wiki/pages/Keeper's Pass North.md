@@ -1,3 +1,4 @@
+<a id="keeper-s-pass-north"></a>
 # Keeper's Pass North
 
 **Categories:** Pages with update history, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North)
@@ -15,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Buildersbridge1](../assets/Buildersbridge1.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Keeper's Pass North Location](../assets/Keeper%27s_Pass_North_Location.png) |
-|  | [Keeper's Pass North Region Map](../assets/Keeper%27s_Pass_North_Region_Map.png) |
-| **Details** |  |
+| | [Buildersbridge1](../assets/Buildersbridge1.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Keeper's Pass North Location](../assets/Keeper%27s_Pass_North_Location.png) |
+| | [Keeper's Pass North Region Map](../assets/Keeper%27s_Pass_North_Region_Map.png) |
+| **Details** | |
 | Description | A large crevice situated in the middle of nowhere, eventually giving way to the road to [Blackrock](./Blackrock.md) |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) ) [Blackrock](./Blackrock.md) |
 | Locations | 4 |

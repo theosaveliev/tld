@@ -19,22 +19,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Ranger Stew icon](../assets/Ranger_Stew_icon.png) |
+| | [Ranger Stew icon](../assets/Ranger_Stew_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A thick and greasy stew filled to the brim with harvested meats. Fuel for a long day in the woods. |
-| **Values** |  |
+| **Values** | |
 | Calories | 1600 (2000) kcal |
 | Hydration | -3.0% |
 | [Vitamin C](./Scurvy.md) | Moderate (42%) |
 | Weight | 0.40 kg (0.88 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_MeatStew |
 
 **Ranger Stew** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).

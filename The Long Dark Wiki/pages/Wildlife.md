@@ -301,5 +301,3 @@ _"Demon Wolves" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.m
 - Animals can't enter locations only accessible by crouching. Animals also cannot enter buildings with outside interiors, even when the doorways are open.
 - Animals will never jump down embankments, even from heights that would not damage the player.
 - During [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), the [Toxic Fog](./Toxic%20Fog.md) will immediately kill all prey and predator type animals when it descends. Crows and plants will not be affected.
-
-[es:Fauna local](https://es.wikipedia.org/wiki/Fauna_local) [fr:Animaux](https://fr.wikipedia.org/wiki/Animaux)

@@ -18,7 +18,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rifle Firearm background](../assets/Rifle_Firearm_background.png) |
+| | [Rifle Firearm background](../assets/Rifle_Firearm_background.png) |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Date | 23 June 2016 |
 
@@ -44,7 +44,7 @@ Players need both a rifle and ammunition before they can start practicing the fi
 
 The hunting rifle (and its variants) are tools used to fire rifle rounds at targets. The rifle's condition will degrade every shot (the amount degraded depends on the variant). Rifles can be repaired by using a [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) to keep the weapon in optimal condition. A [Milling Machine](./Milling%20Machine.md) can be used to greatly repair a rifle, even being able to restore a 0% Ruined Condition rifle, but this takes considerably more time then a repair. At level 5 Rifle Firearm skill, Per-use condition [degradation](./Decay.md) reduced by 50%.
 
-|  | Rifle Variant | Rifle Variant | Rifle Variant | Rifle Variant |
+| | Rifle Variant | Rifle Variant | Rifle Variant | Rifle Variant |
 | --- | --- | --- | --- | --- |
 | Skill Level | [Hunting Rifle](./Hunting%20Rifle.md) and [Curator's Rifle](./Curator%27s%20Rifle.md) | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | [Barb's Rifle](./Barb%27s%20Rifle.md) | [Bunker Rifle](./Bunker%20Rifle.md) |
 | 1 | 1.333% 75 shots from full | 2% 50 shots from full | 1% 100 shots from full | 4% 25 shots from full |

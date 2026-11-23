@@ -19,9 +19,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) |
+| | [The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
 | Current | Survival School (Predux) |
 | Next | [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) |

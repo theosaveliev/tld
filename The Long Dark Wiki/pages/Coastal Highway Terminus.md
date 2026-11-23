@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI Terminus01](../assets/SS-BI-Terminus01.jpg) |
-| **Location** |  |
-|  | [Coastal Highway Terminus Location](../assets/Coastal_Highway_Terminus_Location.png) |
+| | [SS BI Terminus01](../assets/SS-BI-Terminus01.jpg) |
+| **Location** | |
+| | [Coastal Highway Terminus Location](../assets/Coastal_Highway_Terminus_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | a broken highway truss bridge |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Coastal Highway Terminus** is one of the many outdoor locations in [Bleak Inlet](./Bleak%20Inlet.md), located near the westernmost edge.
 

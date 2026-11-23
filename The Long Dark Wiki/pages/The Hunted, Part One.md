@@ -17,8 +17,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Challenge Hunted](../assets/Challenge_Hunted.png) |
-| **Details** |  |
+| | [Challenge Hunted](../assets/Challenge_Hunted.png) |
+| **Details** | |
 | Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Difficulty | 5 |
 | Date Added | April 2016 |

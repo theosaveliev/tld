@@ -109,6 +109,7 @@ _Main article: [Tall Tales](./Tall%20Tales.md)_
 
 — In-game description
 
+<a id="molly-s-gift"></a>
 ### Molly's Gift
 
 _Main article: [Molly's Gift](./Molly%27s%20Gift.md)_
@@ -117,6 +118,7 @@ _Main article: [Molly's Gift](./Molly%27s%20Gift.md)_
 
 — In-game description
 
+<a id="joplin-s-bunker-raid"></a>
 ### Joplin's Bunker Raid
 
 _Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)_

@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Weakened State icon](../assets/Weakened_State_icon.png) |
+| | [Weakened State icon](../assets/Weakened_State_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You are weakened. For a time, your Condition will recover more slowly and your Stamina will drain more quickly. |
 | Caused By | [Cheat Death](./Cheat%20Death.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Recovery Time passes |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | Experience Dependent (see chart) |
 
 **Weakened State** is an [Affliction](./Afflictions.md) acquired after choosing to [Cheat Death](./Cheat%20Death.md).

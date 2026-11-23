@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Deerskin Boots icon](../assets/Deerskin_Boots_icon.png) |
-| **General** |  |
+| | [Deerskin Boots icon](../assets/Deerskin_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Renewable | Yes |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |

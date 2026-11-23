@@ -8,8 +8,6 @@
 
 ![Toaster](../assets/Microwave_Toaster.jpg)
 
-|
-
 **General**
 
 Item Type

@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) |
+| | [Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Fur and skin of a Black bear. Can be used for crafting and repair. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BearHideDried |
 
 **Cured Black Bear Hide** is the Cured fur and skin of a [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Bearskin Coat](./Bearskin%20Coat.md) and [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md).

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg) |
-| **Location** |  |
-|  | [Cave (Desolation Point location) Location](../assets/Cave_%28Desolation_Point_location%29_Location.png) |
+| | [Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg) |
+| **Location** | |
+| | [Cave (Desolation Point location) Location](../assets/Cave_%28Desolation_Point_location%29_Location.png) |
 | Region | [Desolation Point](./Desolation%20Point.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Has an interior |
+| | Has an interior |
 
 The large **cave** in the north of [Desolation Point](./Desolation%20Point.md) is the only cave with an interior in the region.
 

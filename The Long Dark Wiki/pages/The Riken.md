@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Riken](../assets/The_Riken.jpg) |
-| **Location** |  |
-|  | [The Riken Location](../assets/The_Riken_Location.png) |
+| | [The Riken](../assets/The_Riken.jpg) |
+| **Location** | |
+| | [The Riken Location](../assets/The_Riken_Location.png) |
 | Region | [Desolation Point](./Desolation%20Point.md) |
 | Location | In between the [Lonely Lighthouse](./Lonely%20Lighthouse.md) and [Hibernia Processing](./Hibernia%20Processing.md) |
 | Description | An old whaling ship |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
 | Firebox | [Furnace](./Furnace.md) |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
-|  | Has an interior |
+| | Has an interior |
 
 **The Riken** is a location in [Desolation Point](./Desolation%20Point.md).
 

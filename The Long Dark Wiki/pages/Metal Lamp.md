@@ -10,8 +10,6 @@
 
 ![Aurora](../assets/MetalLampAurora.jpg)
 
-|
-
 **General**
 
 Item Type

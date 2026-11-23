@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [MetalPail](../assets/MetalPail.jpg) |
-| **General** |  |
+| | [MetalPail](../assets/MetalPail.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

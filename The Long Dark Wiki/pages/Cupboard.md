@@ -8,8 +8,6 @@
 
 ![Fishing Hut](../assets/Fishing_Hut_Cupboard.jpg)
 
-|
-
 **General**
 
 Item Type

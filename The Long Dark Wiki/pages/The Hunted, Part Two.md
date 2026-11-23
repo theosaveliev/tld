@@ -17,8 +17,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Challenge Hunted2](../assets/Challenge_Hunted2.png) |
-| **Details** |  |
+| | [Challenge Hunted2](../assets/Challenge_Hunted2.png) |
+| **Details** | |
 | Regions | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
 | Difficulty | 5 |
 | Date Added | September 2016 |

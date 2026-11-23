@@ -8,19 +8,19 @@ _For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)._
 
 | Property | Details |
 | --- | --- |
-|  | [Rockfish (Cooked) icon](../assets/Rockfish_%28Cooked%29_icon.png) |
+| | [Rockfish (Cooked) icon](../assets/Rockfish_%28Cooked%29_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Cooked Rockfish. Lean flesh with a nutty, agreeable flavor. |
-| **Values** |  |
+| **Values** | |
 | Calories | 1462.5 kcal |
 | Hydration | 0% |
 | Weight | 3.25 kg (7.15 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CookedRockfish |
 
 **Rockfish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked rockfish have a minimum raw weight of 1.2 kg and a maximum raw weight of 3.25 kg.

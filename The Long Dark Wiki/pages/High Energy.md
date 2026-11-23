@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md) |
 | Current | High Energy |
 | Next | [To SAR And Back](./To%20SAR%20And%20Back.md) |

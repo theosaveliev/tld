@@ -8,8 +8,6 @@
 
 ![Piled](../assets/PalletsPiled.jpg)
 
-|
-
 **General**
 
 Item Type

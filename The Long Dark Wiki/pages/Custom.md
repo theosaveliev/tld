@@ -67,13 +67,13 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 
 | DIFFICULTY | PILGRIM | VOYAGEUR | STALKER | INTERLOPER |
 | --- | --- | --- | --- | --- |
-| GAME START |  |  |  |  |
+| GAME START | | | | |
 | Baseline resource availability | Very High | High | Medium | Low |
 | Starting time of day | Noon | Random | Random | Random |
 | Starting weather | Clear | Random | Random | Random |
 | Indoor spawns permitted | Yes | Yes | No | No |
 | Survivor monologue | Yes | Yes | Yes | Yes |
-| ENVIRONMENT |  |  |  |  |
+| ENVIRONMENT | | | | |
 | Length of day multiplier | 1x | 1x | 1x | 1x |
 | Weather variability | Low | Medium | High | Very High |
 | Blizzard frequency | Low | Medium | High | Very High |
@@ -82,7 +82,7 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 | Aurora frequency | Medium | Medium | Medium | Medium |
 | Fire overcomes ambient air temp | Yes | Yes | No | No |
 | Endless night (v1.83) | No | No | No | No |
-| HEALTH |  |  |  |  |
+| HEALTH | | | | |
 | Calorie burn rate | Low | Medium | High | Very High |
 | Thirst rate | Low | Medium | Medium | High |
 | Fatigue rate | High | High | High | Medium |
@@ -102,7 +102,7 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 | Fires prevent freezing | Yes | Yes | No | No |
 | Wake up player when freezing near a fire | Yes | Yes | No | No |
 | Birch bark tea crafting | Yes | Yes | Yes | Yes |
-| GEAR |  |  |  |  |
+| GEAR | | | | |
 | Item decay rate | Low | Medium | High | Very High |
 | Loose item availability | Very High | High | Medium | Low |
 | Empty container chance modifier | None | None | Medium | High |
@@ -112,7 +112,7 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 | Revolver availability | Yes | Yes | Yes | No |
 | Harvestable plant availability | High | High | High | High |
 | Reduce container item density | None | None | Low | High |
-| WILDLIFE SPAWNS |  |  |  |  |
+| WILDLIFE SPAWNS | | | | |
 | Cougar spawn chance | None | Low | Medium | High |
 | Wolf spawn chance | Low | Medium | Very High | High |
 | Timberwolf spawn chance | Low | Medium | Very High | High |
@@ -124,7 +124,7 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 | Reduce wildlife population over time | None | Low | Medium | High |
 | Wolf spawn distance | Medium | Close | Close | Close |
 | Predator grace period | No | Yes | No | No |
-| WILDLIFE BEHAVIOUR |  |  |  |  |
+| WILDLIFE BEHAVIOUR | | | | |
 | Wildlife smell range | Low | Medium | High | High |
 | Scent increase from Meat/Blood | Medium | Medium | Medium | Medium |
 | Passive wildlife | Yes | No | No | No |
@@ -132,7 +132,7 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 | Wolf fear | Medium | Medium | Medium | Medium |
 | Timberwolf morale | High | Medium | Low | Low |
 | Wildlife detection range | Medium | Medium | Medium | Medium |
-| WILDLIFE STRUGGLE |  |  |  |  |
+| WILDLIFE STRUGGLE | | | | |
 | Struggle bonus | High | Medium | Low | None |
 | Struggle condition damage modifier | None | None | None | High |
 | Struggle clothing damage modifier | Low | Low | Low | High |

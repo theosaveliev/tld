@@ -1,3 +1,4 @@
+<a id="barb-s-rifle"></a>
 # Barb's Rifle
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
@@ -21,21 +22,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) |
+| | [Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | A pale green .303 with a custom stock. A trucker's companion and a durable friend on the open road. / Reliable beyond all else. |
-| **Values** |  |
+| **Values** | |
 | Weight | 4.50 kg (9.9 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Rifle\_Barbs |
 
 **Barb's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _[The Long Dark](./The%20Long%20Dark.md)_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Shortwave Tower East](../assets/Shortwave_Tower_East.jpg) |
-| **Location** |  |
-|  | [Shortwave Tower East Location](../assets/Shortwave_Tower_East_Location.png) |
+| | [Shortwave Tower East](../assets/Shortwave_Tower_East.jpg) |
+| **Location** | |
+| | [Shortwave Tower East Location](../assets/Shortwave_Tower_East_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | Location | At [Muskeg Overlook](./Muskeg%20Overlook.md) |
-| **General** |  |
+| **General** | |
 | Type | OutdoorsMilitary/Sporting |
-|  | Has no shelter |
+| | Has no shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

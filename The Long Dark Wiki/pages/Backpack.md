@@ -8,8 +8,6 @@
 
 ![Forest Talker](../assets/Forest_Talker_Supplies_icon.png)
 
-|
-
 Release
 
 TBD
@@ -38,7 +36,7 @@ A **Backpack** is a stationary interactable object in [The Long Dark](./The%20Lo
 
 ## Loot
 
-|  | Item | Rarity |
+| | Item | Rarity |
 | --- | --- | --- |
 | [Beef Jerky icon](../assets/Beef_Jerky_icon.png) | [Beef Jerky](./Beef%20Jerky.md) | 7.46% |
 | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) | [Chocolate Bar](./Chocolate%20Bar.md) | 7.46% |

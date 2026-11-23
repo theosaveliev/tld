@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **General** |  |
+| | [No picture](../assets/No_picture.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 
@@ -17,7 +17,7 @@ A **Poisoned Wolf Carcass** is a harvestable "object" found after [Hunting](./Hu
 
 Killing a Poisoned Wolf will drop a Fresh Wolf Pelt and 2 Fresh Guts, but due to the extreme malnourishment and contaminated meat of the animal, no harvestable Wolf Meat is present on a carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0 | Always (1) |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 0 | Always (2) |

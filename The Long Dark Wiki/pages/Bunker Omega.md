@@ -13,16 +13,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bunker Omega outside](../assets/Bunker_Omega_outside.png) |
-| **Location** |  |
-|  | [Bunker Omega Location](../assets/Bunker_Omega_Location.png) |
+| | [Bunker Omega outside](../assets/Bunker_Omega_outside.png) |
+| **Location** | |
+| | [Bunker Omega Location](../assets/Bunker_Omega_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | A short walk northeast of [Justy's Hovel](./Justy%27s%20Hovel.md). |
 | Description | A large, reinforced underground shelter. |
-| **General** |  |
+| **General** | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 **Bunker Omega** is the last and largest of the bunkers added as part of the [Signal Void](./Signal%20Void.md) Tale in [Forsaken Airfield](./Forsaken%20Airfield.md).
 

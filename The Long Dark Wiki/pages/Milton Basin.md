@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg) |
-| **Location** |  |
-|  | [Milton Basin Location](../assets/Milton_Basin_Location.png) |
+| | [Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg) |
+| **Location** | |
+| | [Milton Basin Location](../assets/Milton_Basin_Location.png) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Sublocations | [Hermit's Cabin](./Hermit%27s%20Cabin.md) / [Rocky Refuge](./Rocky%20Refuge.md) |
 | Description | A large lake that connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Milton Basin** is a large lake in [Mountain Town](./Mountain%20Town.md), located at the south area of the region and leading to [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
@@ -44,5 +44,3 @@ There are two locations in the basin:
 _Overview of the lake with a nearby [moose](./Moose.md)_
 
 ![Up to 7 deer in Milton Basin (Interloper)](../assets/Milton_Basin_Deer_spawns.jpg)
-
-[ru:Милтонский пруд](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D1%83%D0%B4) [es:Cuenca de milton](https://es.wikipedia.org/wiki/Cuenca_de_milton)

@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Carrot icon](../assets/Carrot_icon.png) |
+| | [Carrot icon](../assets/Carrot_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A root vegetable useful in many recipes. |
-| **Values** |  |
+| **Values** | |
 | Calories | 175 kcal |
 | Hydration | 0% |
 | [Vitamin C](./Scurvy.md) | Minor (9%) |

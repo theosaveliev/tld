@@ -15,18 +15,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Prepared Reishi Mushrooms icon](../assets/Prepared_Reishi_Mushrooms_icon.png) |
+| | [Prepared Reishi Mushrooms icon](../assets/Prepared_Reishi_Mushrooms_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Reishi mushrooms that are ready to be boiled to make a natural drink with healing properties. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.05 kg (0.11 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

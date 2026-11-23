@@ -1,3 +1,4 @@
+<a id="porter-s-soup"></a>
 # Porter's Soup
 
 **Categories:** DLC Content, Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Porter's_Soup)
@@ -12,21 +13,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) |
+| | [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-36) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A traditional soup based on savoury Ptarmigan meat and fibrous vegetables. Boosts Condition and Encumbrance at the price of Fatigue. Favoured by climbers attempting to scale the peaks around Sundered Pass. |
-| **Values** |  |
+| **Values** | |
 | Calories | 1200 kcal |
 | Hydration | 6% |
 | [Vitamin C](./Scurvy.md) | Moderate (24%) |
 | Weight | 0.40 kg (0.88 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
 
@@ -69,3 +70,5 @@ It is only acquired when trading with the [Trader](./Trader.md).
 **Item:** [Carrot](./Carrot.md)
 
 **Quantity:** 2
+
+## Game History

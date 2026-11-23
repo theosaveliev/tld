@@ -8,8 +8,6 @@
 
 ![Unlocked](../assets/Trade_Drop_Box_Unlocked.png)
 
-|
-
 Release
 
 TFTFT Part 6 Broken Silence

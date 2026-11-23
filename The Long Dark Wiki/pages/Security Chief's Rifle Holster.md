@@ -1,3 +1,4 @@
+<a id="security-chief-s-rifle-holster"></a>
 # Security Chief's Rifle Holster
 
 **Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
@@ -6,12 +7,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) |
-| **General** |  |
+| | [Security Chief's Rifle Holster icon](../assets/Security_Chief%27s_Rifle_Holster_icon.png) |
+| **General** | |
 | Item Type | Item |
-| Wintermute |  |
+| Wintermute | |
 | Clothing Slot | Accessory |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |

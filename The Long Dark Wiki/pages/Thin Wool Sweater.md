@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png) |
-| **General** |  |
+| | [Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Inner torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |

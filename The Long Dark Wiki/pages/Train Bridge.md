@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Train Bridge](../assets/Train_Bridge.jpg) |
-| **Location** |  |
-|  | [Train Bridge Location](../assets/Train_Bridge_Location.png) |
+| | [Train Bridge](../assets/Train_Bridge.jpg) |
+| **Location** | |
+| | [Train Bridge Location](../assets/Train_Bridge_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Train Bridge** is a bridge in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), southeast of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) and north of [Alan's Cave](./Alan%27s%20Cave.md).
 

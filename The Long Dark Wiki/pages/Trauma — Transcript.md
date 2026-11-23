@@ -1,3 +1,4 @@
+<a id="trauma-transcript"></a>
 # Trauma/Transcript
 
 **Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trauma%2FTranscript)
@@ -14,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png) |
+| | [Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png) |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md) |
 | Current | Trauma/Transcript |
 | Next | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
@@ -361,6 +362,7 @@ _Molly leaves the house and padlocks the door_
 
 Astrid: "Looks like I'm not the only one with secrets."
 
+<a id="molly-s-farmhouse"></a>
 ## Molly's Farmhouse.
 
 CHAPTER ONE

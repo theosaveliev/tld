@@ -1,3 +1,4 @@
+<a id="cut-discontinued-content"></a>
 # Cut/Discontinued Content
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cut%2FDiscontinued_Content)
@@ -70,6 +71,7 @@ The following list contains discontinued features that existed in _[The Long Dar
 
 Many items that have been cut here can be re-experienced by using the [Time Capsule](./Time%20Capsule.md).
 
+<a id="cut-tools-mechanics"></a>
 ## Cut Tools/Mechanics
 
 Several items/mechanics have been cut from the game over the years. Many items found below are still in the game files, but cannot be accessed normally.
@@ -274,6 +276,7 @@ Maximum Calories for the earliest time was capped at 3000 stored calories. It wa
 
 Drop Decoy originally allowed you to drop any food in your inventory as [Baiting](./Scent.md#baiting-decoys) for predators. It was eventually changed so that only meat and guts could be dropped.
 
+<a id="item-model-name-changes"></a>
 ### Item Model/Name Changes
 
 Several items and their in-game models have been changed throughout the years, mostly from the early Alpha days to the present. Below is a list of name/model changes (items with changed names will have the current name in a hyperlink):
@@ -764,6 +767,7 @@ _[Cured Cougar Hide](./Cured%20Cougar%20Hide.md)_
 
 _[Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md)_
 
+<a id="old-survival-menu-ui-backgrounds"></a>
 ### Old Survival Menu/UI backgrounds
 
 Most of the [Survival Menu](./Survival%20Menu.md) backgrounds have changed from an actual book to stylized floating text. A physical book can still be heard closing when closing the Survival Menu despite the modernized changes.
@@ -857,6 +861,7 @@ Episode 2
 - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
 - [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md)
 
+<a id="hatch-in-trapper-s-homestead-floorboards"></a>
 ### Hatch in Trapper's Homestead Floorboards
 
 In the pre Redux version of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), Jeremiah would walk over to the middle of the floor and open a hatch with a ham radio inside after Mackenzie left in order to send a message out to an unknown party. This hatch is still present in the floorboards of the cabin to this day, but cannot be opened. The same radio was reworked into the mission [Signal to Noise](./Signal%20to%20Noise.md), as Mackenzie must now repair it with Jeremiah.
@@ -889,6 +894,7 @@ In the original Wintermute releases of Episodes 1 and 2, [Grey Mother](./Grey%20
 
 It is possible to steal food items from Grey Mother and Jeremiah by opening canned goods and canceling halfway through, thus claiming the item and not lowering Trust. Jeremiah will know the player has taken his things even when he is passed out at the start of Episode 2.
 
+<a id="grey-mother-s-trust"></a>
 #### Grey Mother's Trust
 
 The following would have unlocked as Trust continued to increase:
@@ -959,6 +965,7 @@ Following the Redux updates, all cutscenes were replaced with a first person per
 
 ![Mackenzie finding the Crashed Prison Bus and activating a 3rd person cutscene](../assets/PrisonBus2.jpg)
 
+<a id="jeremiah-s-bearskin-coat"></a>
 ### Jeremiah's Bearskin Coat
 
 As part of the [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) mission, Mackenzie needed to repair [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) in order to learn about [Mending](./Mending.md). This was the same coat that Jeremiah was wearing when the [Old Bear](./Old%20Bear.md) attacked him at the end of Episode 1. The coat was not a Collectible, but rather a [Clothing](./Clothing.md) item, and had no clothing stats, could not be worn, and weighed 5.00 kg. It would be repaired with 1 [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), and later be returned to Jeremiah.
@@ -975,6 +982,7 @@ The bolt cutters were removed from the game entirely after the Redux update, how
 
 ![Current icon](../assets/Bolt_Cutters_icon.png)
 
+<a id="jeremiah-s-knife"></a>
 #### Jeremiah's Knife
 
 [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) was a tool found exclusively in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). It was removed from Episode and the game entirely after the Redux update, however the icon can still be seen occasionally in Survival Mode when crafting at a Work Bench. The knife is still present as a spawnable object in the Wintermute game files. It has been seen in an official trailer as late as December 5th 2023, as well as an icon for Misery Mode during the May 13th 2024 News update.
@@ -983,6 +991,7 @@ The bolt cutters were removed from the game entirely after the Redux update, how
 
 ![The knife in the Misery Mode icon](../assets/Misery_Mode.jpg)
 
+<a id="jeremiah-s-broken-rifle-and-hunting-lodge-rifle"></a>
 #### Jeremiah's Broken Rifle and Hunting Lodge Rifle
 
 Jeremiah's rifle originally breaks after Mackenzie fires it at the end of Episode 2, with an entire mission dedicated to fixing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md) while looking for your own rifle. A unique Hunting Rifle would be found in the mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) and was used for the rest of the Story. The Hunting Lodge Rifle was eventually replaced by the [Broken Bear Spear](./Broken%20Bear%20Spear.md), with a Jeremiah's Rifle being available from the start of Episode 2 in the Redux [The Wounded Trapper](./The%20Wounded%20Trapper.md) mission. Features of the [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) would later be recycled into the [Curator's Rifle](./Curator%27s%20Rifle.md) and [Vaughn's Rifle](./Vaughn%27s%20Rifle.md).
@@ -1028,6 +1037,7 @@ Episode 2
 
 ![Early Spray Paint](../assets/Spray-can-comp.jpg)
 
+<a id="unused-icons-textures"></a>
 ## Unused Icons/Textures
 
 Several icons/textures for items can be found in the game files as far back as the alpha builds, yet these items have not been seen or used in game yet. They are considered cut content. Some gear icons can be spawned but do not have real gameplay functionality.
@@ -1153,6 +1163,7 @@ _Possible alternate [Revolver](./Revolver.md)_
 
 _Episode 5 Alternative [Supply Room Key](./Supply%20Room%20Key.md)_
 
+<a id="cut-achievements-badges"></a>
 ## Cut Achievements/Badges
 
 Several Achievements and icons were changed with the release of _The Long Dark_ V1.00 Wintermute release. The previous Achievements' stylized appearance would later be reworked into the [Badges](./Badges.md) and [Feats](./Feats.md) systems.

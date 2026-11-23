@@ -18,8 +18,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Warming Up icon](../assets/Warming_Up_icon.png) |
-| **Properties** |  |
+| | [Warming Up icon](../assets/Warming_Up_icon.png) |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume HOT [Food And Drink](./Food%20And%20Drink.md) |
 | Effect | Positive |

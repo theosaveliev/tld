@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) |
-| **General** |  |
+| | [Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)12.0 °C(21.6 °F) |
 | Harvest | 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |

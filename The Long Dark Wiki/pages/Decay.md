@@ -246,12 +246,12 @@ Clothes can also rapidly decay from blizzards, wolf attacks, and [falling](./Tor
 
 | Name | Decay when stored (%/day) | Worn inside (%/day) | Worn outside (%/day) |
 | --- | --- | --- | --- |
-| [Astrid's Boots](./Astrid%27s%20Boots.md) |  |  |  |
-| [Astrid's Gloves](./Astrid%27s%20Gloves.md) |  |  |  |
-| [Astrid's Jacket](./Astrid%27s%20Jacket.md) |  |  |  |
-| [Astrid's Jeans](./Astrid%27s%20Jeans.md) |  |  |  |
-| [Astrid's Sweater](./Astrid%27s%20Sweater.md) |  |  |  |
-| [Astrid's Toque](./Astrid%27s%20Toque.md) |  |  |  |
+| [Astrid's Boots](./Astrid%27s%20Boots.md) | | | |
+| [Astrid's Gloves](./Astrid%27s%20Gloves.md) | | | |
+| [Astrid's Jacket](./Astrid%27s%20Jacket.md) | | | |
+| [Astrid's Jeans](./Astrid%27s%20Jeans.md) | | | |
+| [Astrid's Sweater](./Astrid%27s%20Sweater.md) | | | |
+| [Astrid's Toque](./Astrid%27s%20Toque.md) | | | |
 | [Mountaineering Boots](./Mountaineering%20Boots.md) | 0.040 | 0.100 | 0.400 |
 | [Mackenzie's Boots](./Mackenzie%27s%20Boots.md) | 0.067 | 0.067 | 0.333 |
 | [Mackenzie's Parka](./Mackenzie%27s%20Parka.md) | 0.040 | 0.100 | 0.200 |
@@ -438,12 +438,12 @@ Tools used to craft recipes, harvest carcasses, and clear ice holes will decay c
 
 | Name | Crafting (%/hour) | Harvesting animals (%/hour) | Clearing ice fishing hole (%) |
 | --- | --- | --- | --- |
-| [Quality Tools](./Quality%20Tools.md) | 1.000 |  |  |
-| [Simple Tools](./Simple%20Tools.md) | 1.667 |  |  |
-| [Sewing Kit](./Sewing%20Kit.md) | 5.000 |  |  |
-| [Fishing Tackle](./Fishing%20Tackle.md) | 10.000 |  |  |
-| [Heavy Hammer](./Heavy%20Hammer.md) | 0.667 |  | 1.333 |
-| [Hacksaw](./Hacksaw.md) |  | 1.000 |  |
+| [Quality Tools](./Quality%20Tools.md) | 1.000 | | |
+| [Simple Tools](./Simple%20Tools.md) | 1.667 | | |
+| [Sewing Kit](./Sewing%20Kit.md) | 5.000 | | |
+| [Fishing Tackle](./Fishing%20Tackle.md) | 10.000 | | |
+| [Heavy Hammer](./Heavy%20Hammer.md) | 0.667 | | 1.333 |
+| [Hacksaw](./Hacksaw.md) | | 1.000 | |
 | [Hatchet](./Hatchet.md) | 1.000 | 1.000 | 5.000 |
 | [Hunting Knife](./Hunting%20Knife.md) | 1.000 | 1.000 | 5.000 |
 | [Improvised Hatchet](./Improvised%20Hatchet.md) | 1.500 | 1.500 | 10.000 |
@@ -541,5 +541,3 @@ Fresh Hides, Pelts, and Guts stop decaying once they've cured completely. All ot
 \* UPDATE **27 May 2025 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Re-tuned food decay values for canned goods and meat. Canned goods decay reduced by 1/2, all meat decay is now 1/4 its previous value.
-
-[ru:Порча](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%87%D0%B0) [es:Deterioro](https://es.wikipedia.org/wiki/Deterioro) [fr:Dégradation](https://fr.wikipedia.org/wiki/D%C3%A9gradation)

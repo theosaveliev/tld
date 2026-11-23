@@ -24,11 +24,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Coastal Highway title card](../assets/Coastal_Highway_title_card.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Coastal Highway Location](../assets/Coastal_Highway_Location.png) |
-|  | [Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png) |
-| **Details** |  |
+| | [Coastal Highway title card](../assets/Coastal_Highway_title_card.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Coastal Highway Location](../assets/Coastal_Highway_Location.png) |
+| | [Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png) |
+| **Details** | |
 | Description | A large frozen bay and coastline with a ruined highway crossing around it. |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md)) / [Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md)) / [Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) / [Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
 | Difficulty | Intermediate |
@@ -193,10 +193,6 @@ _Quonset Gas Station_
 ![Train Unloading](../assets/Train_Unloading.jpg)
 
 ![Waterfront Cottages](../assets/Waterfront_Cottages.jpg)
-
-[fr:Autoroute Côtière](https://fr.wikipedia.org/wiki/Autoroute_C%C3%B4ti%C3%A8re) [es:Autovía litoral](https://es.wikipedia.org/wiki/Autov%C3%ADa_litoral)
-
-[ru:Прибрежное шоссе](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5_%D1%88%D0%BE%D1%81%D1%81%D0%B5)
 
 ### Miscellaneous
 

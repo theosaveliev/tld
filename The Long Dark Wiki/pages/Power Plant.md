@@ -12,15 +12,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Power Plant](../assets/Power_Plant.jpg) |
-| **Location** |  |
-|  | [Power Plant Location](../assets/Power_Plant_Location.png) |
-| Region |  |
+| | [Power Plant](../assets/Power_Plant.jpg) |
+| **Location** | |
+| | [Power Plant Location](../assets/Power_Plant_Location.png) |
+| Region | |
 | Location | Northwest of Blackrock Prison, on a river |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
-|  | Has an interior |
-| **Wintermute** |  |
+| | Has an interior |
+| **Wintermute** | |
 | Missions | [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

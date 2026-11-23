@@ -84,7 +84,7 @@ The in-game air temperature is also affected by the "World Gets Colder Over Time
 
 | Experience Mode | Start Day | Final Day | Temperature Drop |
 | --- | --- | --- | --- |
-| Pilgrim | N/A |  |  |
+| Pilgrim | N/A | | |
 | Voyageur | 20 | 200 | -5°C |
 | Stalker | 20 | 200 | -10°C |
 | Interloper | 5 | 50 | -20°C |
@@ -98,21 +98,21 @@ Refer to the table below for lowest and highest possible temperature in each reg
 
 | Region | Lowest Morning Temperature | Highest Evening Temperature | Lowest Possible Temperature During a Blizzard | Lowest Possible Temperature, Misery | Warmest Possible Temperature, Misery | Elevation Temperature Triggers |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | -30°C | -5°C | -40°C | -60°C | -25°C |  |
-| [Coastal Highway](./Coastal%20Highway.md) | -30°C | -5°C | -45°C | -65°C | -25°C |  |
-| [Pleasant Valley](./Pleasant%20Valley.md) | -35°C | -12°C | -45°C | -65°C | -32°C |  |
-| [Desolation Point](./Desolation%20Point.md) | -30°C | -8°C | -40°C | -60°C | -28°C |  |
+| [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | -30°C | -5°C | -40°C | -60°C | -25°C | |
+| [Coastal Highway](./Coastal%20Highway.md) | -30°C | -5°C | -45°C | -65°C | -25°C | |
+| [Pleasant Valley](./Pleasant%20Valley.md) | -35°C | -12°C | -45°C | -65°C | -32°C | |
+| [Desolation Point](./Desolation%20Point.md) | -30°C | -8°C | -40°C | -60°C | -28°C | |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | -30°C | -10°C | -40°C | -60°C | -30°C | -5°C (Summit) |
-| [Forlorn Muskeg](./Forlorn%20Muskeg.md) | -30°C | -5°C | -40°C | -60°C | -25°C |  |
-| [Broken Railroad](./Broken%20Railroad.md) | -30°C | -5°C | -40°C | -60°C | -25°C |  |
-| [Mountain Town](./Mountain%20Town.md) | -30°C | -5°C | -40°C | -60°C | -25°C |  |
-| [Hushed River Valley](./Hushed%20River%20Valley.md) | -30°C | -9°C | -40°C | -60°C | -29°C |  |
-| [Bleak Inlet](./Bleak%20Inlet.md) | -35°C | -12°C | -50°C | -70°C | -32°C |  |
-| [Ash Canyon](./Ash%20Canyon.md) | -30°C | -10°C | -40°C | -60°C | -30°C |  |
-| [Blackrock](./Blackrock.md) | -30°C | -9°C | -40°C | -60°C | -29°C |  |
-| [Transfer Pass](./Transfer%20Pass.md) | -30°C | -10°C | -40°C | -60°C | -30°C |  |
-| [Forsaken Airfield](./Forsaken%20Airfield.md) | -35°C | -15°C | -45°C | -65°C | -35°C |  |
-| [Zone of Contamination](./Zone%20of%20Contamination.md) | -30°C | -10°C | -40°C | -60°C | -30°C |  |
+| [Forlorn Muskeg](./Forlorn%20Muskeg.md) | -30°C | -5°C | -40°C | -60°C | -25°C | |
+| [Broken Railroad](./Broken%20Railroad.md) | -30°C | -5°C | -40°C | -60°C | -25°C | |
+| [Mountain Town](./Mountain%20Town.md) | -30°C | -5°C | -40°C | -60°C | -25°C | |
+| [Hushed River Valley](./Hushed%20River%20Valley.md) | -30°C | -9°C | -40°C | -60°C | -29°C | |
+| [Bleak Inlet](./Bleak%20Inlet.md) | -35°C | -12°C | -50°C | -70°C | -32°C | |
+| [Ash Canyon](./Ash%20Canyon.md) | -30°C | -10°C | -40°C | -60°C | -30°C | |
+| [Blackrock](./Blackrock.md) | -30°C | -9°C | -40°C | -60°C | -29°C | |
+| [Transfer Pass](./Transfer%20Pass.md) | -30°C | -10°C | -40°C | -60°C | -30°C | |
+| [Forsaken Airfield](./Forsaken%20Airfield.md) | -35°C | -15°C | -45°C | -65°C | -35°C | |
+| [Zone of Contamination](./Zone%20of%20Contamination.md) | -30°C | -10°C | -40°C | -60°C | -30°C | |
 | [Sundered Pass](./Sundered%20Pass.md) | -38°C | -20°C | -48°C | -68°C | -40°C | +5°C (Valley)/-5°C (High Peak) |
 
 ## Gallery
@@ -130,5 +130,3 @@ Refer to the table below for lowest and highest possible temperature in each reg
 ![Glimmer Fog](../assets/Glimmer_Fog.jpg)
 
 ![A detailed air temperatures table](../assets/Temperature_table.png)
-
-[ru:Погода](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0) [fr:Météo](https://fr.wikipedia.org/wiki/M%C3%A9t%C3%A9o) [de:Wetter](https://de.wikipedia.org/wiki/Wetter)

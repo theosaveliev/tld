@@ -106,6 +106,7 @@ A number of rocks contain faint images of cavemen, monsters or graffiti, typical
 
 ![Cave Art (Desolation Point), a monster or animal](../assets/Cave_art.png)
 
+<a id="hank-s-hatch"></a>
 ### Hank's Hatch
 
 The side mission [Hank's Hatch](./Hank%27s%20Hatch.md) contains many references to [Firewatch](https://en.wikipedia.org/wiki/Firewatch). "Hank" is a nod to the protagonist "Henry" from the game. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower in a nature park to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to Delilah, Henry's supervisor in Firewatch who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of Firewatch.

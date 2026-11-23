@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Milton Park Office](../assets/Milton_Park_Office.jpg) |
-| **Location** |  |
-|  | [Milton Park Location](../assets/Milton_Park_Location.png) |
+| | [Milton Park Office](../assets/Milton_Park_Office.jpg) |
+| **Location** | |
+| | [Milton Park Location](../assets/Milton_Park_Location.png) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Description | Open Office without a door |
-| **General** |  |
+| **General** | |
 | Type | Residential |
 | Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter |
-| **Wintermute** |  |
+| | Provides some shelter |
+| **Wintermute** | |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 
 > “**Due to the unfortunate accident, the Milton & Area Parks Board can no longer condone the use of the climbing area within the park boundaries.**”
@@ -34,5 +34,3 @@ A noticeboard can be found at the entrance, and there is a park office further u
 ![Milton Park inside](../assets/Milton_Park_inside.jpg)
 
 ![Milton Park Notice Board](../assets/Milton_Park_Notice_Board.jpg)
-
-[ru:Парк Милтона](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD%D0%B0) [es:Parque de milton](https://es.wikipedia.org/wiki/Parque_de_milton)

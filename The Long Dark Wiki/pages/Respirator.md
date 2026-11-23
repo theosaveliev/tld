@@ -12,17 +12,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Respirator icon](../assets/Respirator_icon.png) |
+| | [Respirator icon](../assets/Respirator_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | yes |
 | Stackable | No |
 | Examine | Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Respirator |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

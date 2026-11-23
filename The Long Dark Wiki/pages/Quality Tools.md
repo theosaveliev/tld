@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Quality Tools icon](../assets/Quality_Tools_icon.png) |
-| **General** |  |
+| | [Quality Tools icon](../assets/Quality_Tools_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Harvest | 3 × [Scrap Metal](./Scrap%20Metal.md) 1 hour |
 | Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition / 2 hours |

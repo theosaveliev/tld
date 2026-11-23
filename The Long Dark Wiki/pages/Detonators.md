@@ -6,19 +6,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Detonators icon](../assets/Detonators_icon.png) |
+| | [Detonators icon](../assets/Detonators_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Detonators](./The%20Detonators.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A satchel full of old blasting caps. Miners use them to detonate dynamite in controlled explosions. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Detonator |
 
 **Detonators** are [Collectible](./Collectibles.md) items found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story mode during the mission [The Detonators](./The%20Detonators.md).

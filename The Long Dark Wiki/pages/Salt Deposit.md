@@ -8,8 +8,6 @@
 
 ![Depleted deposit](../assets/Salt_deposit_depleted.jpg)
 
-|
-
 **General**
 
 Item Type

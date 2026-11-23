@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Entrance to the lake trail](../assets/20180902182942_1.jpg) |
-| **Location** |  |
-|  | [Lake Trail Location](../assets/Lake_Trail_Location.png) |
-| Region |  |
+| | [Entrance to the lake trail](../assets/20180902182942_1.jpg) |
+| **Location** | |
+| | [Lake Trail Location](../assets/Lake_Trail_Location.png) |
+| Region | |
 | Location | Behind the Camp Office |
 | Description | A winding pathway between two cliffs |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Lake Trail** is a location in the [Mystery Lake](./Mystery%20Lake%20%28region%29.md)region.
 

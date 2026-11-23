@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20190302003955 1](../assets/20190302003955_1.jpg) |
-| **Location** |  |
-|  | [Offset Falls Location](../assets/Offset_Falls_Location.png) |
+| | [20190302003955 1](../assets/20190302003955_1.jpg) |
+| **Location** | |
+| | [Offset Falls Location](../assets/Offset_Falls_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Western end of the [Hushed River](./Hushed%20River.md) |
 | Description | Two waterfalls. |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 The **Offset Falls** flow down between rocks into the frozen [Hushed River](./Hushed%20River.md). It's located in the very west of [Hushed River Valley](./Hushed%20River%20Valley.md).
 

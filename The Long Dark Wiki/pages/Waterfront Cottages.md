@@ -6,8 +6,6 @@
 
 ![Waterfront Cottages](../assets/Waterfront_Cottages.jpg)
 
-|
-
 **Location**
 
 ![Waterfront Cottages map](../assets/Waterfront_Cottages_map.png)

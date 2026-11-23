@@ -8,9 +8,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The artifact](../assets/Church_Artifact_icon.png) |
+| | [The artifact](../assets/Church_Artifact_icon.png) |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Church Artifact (mission) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 

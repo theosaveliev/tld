@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Brake Shoe icon](../assets/Brake_Shoe_icon.png) |
-| **General** |  |
+| | [Brake Shoe icon](../assets/Brake_Shoe_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 
 [Seal icon](../assets/Seal_icon.png)
@@ -28,3 +28,5 @@ A **Brake Shoe** is a [Material](./Materials.md) in _[The Long Dark](./The%20Lon
 ## General Information
 
 The only usage of this item is to repair the Brake Shoes of the [Prototype Train](./Prototype%20Train.md) (repairs always restore 100% Condition of the Brake Shoes of the train). They are often found in the various buildings around [Cauldron Island](./Cauldron%20Island.md), mostly being located inside of Train [Repair Depots](./Repair%20Depot.md).
+
+## Game History

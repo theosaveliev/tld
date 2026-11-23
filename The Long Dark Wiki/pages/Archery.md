@@ -20,7 +20,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Archery background](../assets/Archery_background.png) |
+| | [Archery background](../assets/Archery_background.png) |
 | Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) |
 | Date | 23 September 2016 |
 
@@ -87,7 +87,7 @@ Manufactured Arrows take 2% condition damage when striking snow, 12% when striki
 
 **Arrow Types**
 
-|  | Kill Rabbit and Ptarmigan | Kill Big Game | Blood Loss | Startle Animals | Interrupt Wolf Charge | Crafting |
+| | Kill Rabbit and Ptarmigan | Kill Big Game | Blood Loss | Startle Animals | Interrupt Wolf Charge | Crafting |
 | --- | --- | --- | --- | --- | --- | --- |
 | Simple Arrow | Instant | Yes | Yes* | Yes | No | 1 Arrowhead ([Forging](./Forge.md)), 1 Arrow Shaft, 3 Crow Feather |
 | Fire Hardened Arrow | Instant | No | No | Yes | Yes | 5 Stick, 5 Crow Feather and any [Fire Source](./Campfire.md) (Makes 3) |
@@ -138,5 +138,3 @@ Once players have reached a new skill level, they unlock the effects described i
 | 3 | 40 | 35 | - Bow sway reduced by 50%; - Arrow damage increased by 10%; - Critical Hit chance increased by 15% | You're turning into a decent archer. Your aim is increasingly more precise and with this you have a greater chance of inflicting critical damage. |
 | 4 | 75 | 50 | - Bow sway reduced by 75%; - Arrow damage increased by 10%; - Critical Hit chance increased by 25%; - Bleed Out time reduced by 25%; - Per-use condition loss reduced by 50% | You have become a skilled archer. You have a steady, accurate aim and a powerful shot. Your improved efficiency helps keep your bow in good condition for longer. |
 | 5 | 125 | Max level | - Can fire Survival Bow when crouched; - Bow sway reduced by 75%; - Arrow damage increased by 25%; - Critical Hit chance increased by 50%; - Bleed Out time reduced by 50%; - Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
-
-[fr:Archerie](https://fr.wikipedia.org/wiki/Archerie) [es:Tiro con arco](https://es.wikipedia.org/wiki/Tiro_con_arco)

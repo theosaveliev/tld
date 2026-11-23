@@ -1,3 +1,4 @@
+<a id="foreman-s-refuge"></a>
 # Foreman's Refuge
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Refuge)

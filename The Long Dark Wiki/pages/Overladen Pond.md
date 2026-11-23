@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Overladen Pond](../assets/Overladen_Pond.jpg) |
-| **Location** |  |
-|  | [Overladen Pond Location](../assets/Overladen_Pond_Location.png) |
+| | [Overladen Pond](../assets/Overladen_Pond.jpg) |
+| **Location** | |
+| | [Overladen Pond Location](../assets/Overladen_Pond_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Description | A toxic pond located near a [Pump House](./Pump%20House.md) and [Bountiful Overlook](./Bountiful%20Overlook.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 The **Overladen Pond** is an incredibly toxic pond created as a result of the nearby [Pump House](./Pump%20House.md) dumping toxic underground gases and chemicals into the pond. The pond's ice is thick enough to prevent a [Weak Ice](./Weak%20Ice.md) hazard, but simply walking on or around the pond risks [Chemical Poisoning](./Chemical%20Poisoning.md). This [Affliction](./Afflictions.md) can be escaped by entering the [Pump House](./Pump%20House.md) building if quick enough.
 

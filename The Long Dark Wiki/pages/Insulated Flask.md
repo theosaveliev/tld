@@ -16,17 +16,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Insulated Flasks animation](../assets/Insulated_Flasks_animation.gif) |
+| | [Insulated Flasks animation](../assets/Insulated_Flasks_animation.gif) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A portable container for keeping beverages warm. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.20 kg (0.44 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_InsulatedFlask |
 
 The **Insulated Flask** (otherwise known as a **Thermos**) is a [Tool](./Tools.md) that was released as part of the free update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion Part Four.
@@ -59,8 +59,8 @@ The following foods and drinks can be placed inside an Insulated Flask:
 | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) |
 | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) |
 | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) |
-| [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md) |  |
-| [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |  |
+| [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md) | |
+| [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) | |
 
 ## Heat Capacity
 
@@ -219,8 +219,6 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
   - Added to game.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
   - Added a 7th variant from the [Trader](./Trader.md).
-
-[ru:Термос](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81)
 
 ## Notes
 

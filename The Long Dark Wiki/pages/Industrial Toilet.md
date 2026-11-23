@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Industrial Toilet](../assets/Industrial_Toilet.png) |
-| **General** |  |
+| | [Industrial Toilet](../assets/Industrial_Toilet.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 

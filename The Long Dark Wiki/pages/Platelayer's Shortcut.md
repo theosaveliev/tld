@@ -1,3 +1,4 @@
+<a id="platelayer-s-shortcut"></a>
 # Platelayer's Shortcut
 
 **Categories:** Indoor locations, Locations, Locations in Far Range Branch Line · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Platelayer's_Shortcut)
@@ -7,8 +8,6 @@
 ![Lower Entrance](../assets/Platelayer%27s_Shortcut.jpg)
 
 ![Upper Entrance](../assets/Platelayer%27s_Shortcut_Upper.jpg)
-
-|
 
 **Location**
 

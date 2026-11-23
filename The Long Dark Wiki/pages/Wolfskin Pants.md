@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) |
-| **General** |  |
+| | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
-| Clothing Slot |  |
-| **Statistics** |  |
+| Clothing Slot | |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F) |

@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) |
+| | [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested skin of a Moose. / Can be used for crafting and repairs after air-drying indoors for 10 days. |
-| **Values** |  |
+| **Values** | |
 | Weight | 5.00 kg (11 lbs) |
 
 **Fresh Moose Hide** is the raw hide of a [Moose](./Moose.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) once they have [Cured](./Curing.md) into a [Cured Moose Hide](./Cured%20Moose%20Hide.md).

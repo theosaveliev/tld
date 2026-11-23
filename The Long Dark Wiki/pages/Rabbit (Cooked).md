@@ -13,19 +13,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rabbit (Cooked) icon](../assets/Rabbit_%28Cooked%29_icon.png) |
+| | [Rabbit (Cooked) icon](../assets/Rabbit_%28Cooked%29_icon.png) |
 | Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-152) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Cooked flesh from a rabbit. |
-| **Values** |  |
+| **Values** | |
 | Calories | 450 kcal |
 | Hydration | -5% |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_RabbitCooked |
 
 _For the raw version, see [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)._

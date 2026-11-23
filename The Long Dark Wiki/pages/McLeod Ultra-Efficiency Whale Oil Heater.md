@@ -10,18 +10,18 @@
 - [Disadvantages](#disadvantages)
 - [Harvesting](#harvesting)
 - [Repair](#repair)
-- Game History
+- [Game History](#game-history)
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
 
 | Property | Details |
 | --- | --- |
-|  | [McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) |
-| **General** |  |
+| | [McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
 | Renewable | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
 | Harvest | Cannot Harvest |
 | Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition / 1 hour |
@@ -82,3 +82,5 @@ The item cannot be harvested.
 ## Repair
 
 The Oil Heater can be repaired with a pair of [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) in 1 hour with 1 [Scrap Metal](./Scrap%20Metal.md) while in the Backpack.
+
+## Game History

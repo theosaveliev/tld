@@ -103,6 +103,7 @@ There will always be a constant pull on the player to find a pre-existing shelte
 
 ### Benefits of a safe house
 
+<a id="shelter-from-the-elements-wildlife-attacks"></a>
 #### Shelter from the elements/wildlife attacks
 
 The primary purpose of Safe houses is to offer protection from the cold, bad weather, and hostile wildlife. A place to warm up is always in high demand when navigating the world, with even temporary safehouses providing opportunities to create [Fires](./Fire.md) to warm one's self.
@@ -261,6 +262,7 @@ Although it lacks both a workbench and a fireplace, it has a bed and possibly so
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | One storey house | 0 | yes | A short walk to [Fishing Camp](./Fishing%20Camp.md) (outdoors), or a couple hours' walk to [Quonset Garage](./Quonset%20Garage.md) (indoors). | good | medium | 2 | A day's walk to [The Riken](./The%20Riken.md). | very low | Excellent snaring, fishing, and [Beachcombing](./Beachcombing.md) nearby. |
 
+<a id="misanthrope-s-homestead"></a>
 #### [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md)
 
 This house has many of the same features as the one on [Jackrabbit Island](./Jackrabbit%20Island.md) to the west, but it is a two story house and features slightly more storage. It can be a good safe house to use if you ever run out of rabbits at Jackrabbit Island for some reason, and is the closest safe house to [Sutherland's](./Trader.md) dock if you're planning to trade.
@@ -295,7 +297,7 @@ This location offers nearby ice fishing opportunities, is located near the cente
 
 | Type | Cooking slots | Bed | Workbench | Storage | Harvestable | Doors | Forge | Danger wildlife | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cabin | 1 | Yes | A couple hours' walk to [Cannery Pier](./Cannery%20Pier.md). | Medium | Medium | 1 | Half a day's walk to [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). | medium |  |
+| Cabin | 1 | Yes | A couple hours' walk to [Cannery Pier](./Cannery%20Pier.md). | Medium | Medium | 1 | Half a day's walk to [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). | medium | |
 
 ## Northern Regions
 
@@ -329,6 +331,7 @@ This location has a lot, but not everything. It has plenty of storage, an interi
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Radio control hut | 2 | yes | present | very good | low | 1 | A day and a half's walk to either [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) or [The Riken](./The%20Riken.md). | moderate | Quite isolated from the rest of [Pleasant Valley](./Pleasant%20Valley.md). |
 
+<a id="keeper-s-pass"></a>
 ### Keeper's Pass
 
 **Keeper's Pass** is a transitional region that connects [Pleasant Valley](./Pleasant%20Valley.md) to the [Blackrock Region](./Blackrock.md). It is made up of [Keeper's Pass North](./Keeper%27s%20Pass%20North.md), a connecting [cave](./Cave%20%28Transition%20Zone%29.md), and [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
@@ -341,6 +344,7 @@ This is the only man-made structure with a interior in the [Keeper's Pass South]
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Trailer | 2 | Yes | Yes | Lots | Moderate | 1 | Several days walk to [The Riken](./The%20Riken.md). | High | Close to [Blackrock](./Blackrock.md) for ammunition crafting. |
 
+<a id="forester-s-hermitage"></a>
 #### [Forester's Hermitage](./Forester%27s%20Hermitage.md)
 
 This is the only man-made structure in the [Keeper's Pass North](./Keeper%27s%20Pass%20North.md). Because wolves can't spawn in this area, the cold is your only enemy here. Although it offers little shelter from the elements, it does have a [Wood Stove](./Wood%20Stove.md) to keep the player warm and a bed to rest with. Rabbits spawn in the area offering a potential food supply. Due to the linearity of Keeper's Pass North, this cabin acts as a necessary waypoint when traveling through.
@@ -369,6 +373,7 @@ If living in a prison isn't your thing, you might want to consider living in the
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Electrical control hut | 2 | Yes | Present | Lots | Little | 1 | Several days walk to [The Riken](./The%20Riken.md). | high | Similar in layout to [Signal Hill](./Signal%20Hill.md). |
 
+<a id="foreman-s-clearcut"></a>
 #### [Foreman's Clearcut](./Foreman%27s%20Clearcut.md)
 
 The Foreman's Clearcut is also a good location to call home, featuring an interior bed, workbench, and lots of nearby game. The greatest downside of living here are the packs of roaming timberwolves nearby, as well as the lack of a contained fire; the closest one is located at [Cook's Farm](./Cook%27s%20Farm.md), a walk which may be hazardous in higher difficulty levels or in poor weather.
@@ -391,6 +396,7 @@ Located immediately adjacent to [Eric's Falls](./Eric%27s%20Falls.md), this cave
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Natural cave | No | No* | Half a day's walk to the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md). | Container nearby | No | 1 | Two and a half days' travel to [The Riken](./The%20Riken.md). | moderate | Good place to rest while climbing up Timberwolf Mountain. |
 
+<a id="mountaineer-s-hut"></a>
 #### [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)
 
 This is probably the most popular safe house in Timberwolf Mountain. It is located near [Crystal Lake](./Crystal%20Lake.md), which has a [Fishing hut](./Fishing%20Hut.md) on it, a [Rabbit Grove](./Rabbit%20Grove.md), plentiful [deer](./Deer.md) hunting opportunities, and [cattail plants](./Cat%20Tail.md) for tinder and emergency food. The downside of this location is that a [bear](./Bear.md) sometimes visits the area, it's not a particularly warm location, and there is a decent chance of [wolves](./Wolf.md) being in the area. It's also quite a hike from the [Summit](./Summit.md), limiting its usefulness for looting expeditions.
@@ -403,6 +409,7 @@ This is probably the most popular safe house in Timberwolf Mountain. It is locat
 
 Survival here is slightly easier than in [Timberwolf Mountain](./Timberwolf%20Mountain.md) or [Hushed River Valley](./Hushed%20River%20Valley.md). This is largely because this region has lots of natural resources and high-tier loot, similar to the former, but it also has several shelters scattered throughout. The main challenge of living here is to not get lost, as there are many canyons and plateaus of differing elevations, all connected via climbing ropes. Oh, and try not to fall off the rope bridges when you're crossing them... it's a long way down. Overall, survival here is moderately difficult.
 
+<a id="angler-s-den"></a>
 #### [Angler's Den](./Angler%27s%20Den.md)
 
 This cabin might be small, but it proves that sometimes size doesn't matter. It's centrally located and has got a workbench, pot belly stove, and comfy bed. There's a huge trunk next to the workbench to put your stuff, along with a smaller metal container underneath the bed. The old furniture atop the bed can be broken down to give plenty of reclaimed wood, but there's no curtains to break down for cloth.
@@ -413,6 +420,7 @@ The main disadvantage of this location is that although the area immediately sur
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cabin | 1 | Yes | Present | Medium | Medium | 1 | Three days' walk to [The Riken](./The%20Riken.md). | very high | Very central location. |
 
+<a id="foreman-s-retreat"></a>
 #### [Foreman's Retreat](./Foreman%27s%20Retreat.md)
 
 This location just south of [Miner's Folly](./Miner%27s%20Folly.md) has a lot, but not everything. It features both a [wood stove](./Wood%20Stove.md) and a [Fireplace](./Fireplace.md), several storage containers, and a decent amount of harvestable wood and cloth. While there isn't a workbench located inside, one can be found very close by at Miner's Folly (outdoors), and it can be disassembled and moved inside if desired. [Deer](./Deer.md) can be found around Miner's Folly too, along with a [Bear](./Bear.md) for those brave enough to hunt it. The main disadvantage of this location is that going any substantial distance requires crossing multiple high rope bridges, and the fact that [Ash Canyon](./Ash%20Canyon.md) itself is a rather isolated region.
@@ -421,6 +429,7 @@ This location just south of [Miner's Folly](./Miner%27s%20Folly.md) has a lot, b
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Two room cabin | 2+2 | Yes | A short walk to [Miner's Folly](./Miner%27s%20Folly.md) (outside). | Medium | Medium | 1 | Three day's walk to [The Riken](./The%20Riken.md). | low | Excellent place to hunt the only [bear](./Bear.md) in Ash Canyon. |
 
+<a id="homesteader-s-respite"></a>
 #### [Homesteader's Respite](./Homesteader%27s%20Respite.md)
 
 The Homesteader's Respite is located towards the northeastern part of Ash Canyon, next to an old mining facility. One of this location's main advantages is that predators never spawn around the house, and that it is located close to good [deer](./Deer.md) hunting grounds around [Bitter Marsh](./Bitter%20Marsh.md) (wolves do spawn there too, so be careful). If the deer should run out, there's a broken-down ice fishing hut on Bitter Marsh, too, providing yet another source of food. So what's not to like? The largest disadvantage of living here is that getting supplies from Bitter Marsh requires climbing up a rope, which may be difficult if you're tired late in the day. Another disadvantage is that there's no workbench, and the closest one is located in [Angler's Den](./Angler%27s%20Den.md).
@@ -445,6 +454,7 @@ Big and centrally located, it offers lots of storage space, two fireplaces, mult
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Two floors lodge | 2+1 | Two sets of bunk beds upstairs. | present | medium | good | 2 | Half a day's walk away at [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). | low | Very central location. |
 
+<a id="trapper-s-homestead"></a>
 #### [Trapper's Homestead](./Trapper%27s%20Homestead.md)
 
 Cozy and remote with storage space, a bed, fireplace, workbench, and even a handy safe. The remote location means fewer wolves. However, as there is only one door, any predators stalking the player on entry may be waiting outside for some time. Also, the bear that often spawns near the homestead may sometimes wander into the valley in front of the cabin. A rabbit grove is near the cabin, deer can be seen often in the valley and also a moose may spawn close to the valley shelter.
@@ -477,6 +487,7 @@ Ample rabbits and deer are nearby. There's lots of [Birch Bark](./Birch%20Bark.m
 
 This region is possibly tied with [Bleak Inlet](./Bleak%20Inlet.md) for being one of the hardest to survive in. As if weak ice and roaming predators weren't troublesome enough, this region is very chilly and windy, with frequent fog and no interior locations (aside from a cave in the north of the region). It is extremely easy to get lost, and the region doesn't really offer anything that other regions don't have to warrant living here. Unless you want the ultimate survival challenge, just come here for the [forge](./Forge.md), do your forging, and go back to another region that's easier to live in.
 
+<a id="poacher-s-camp"></a>
 #### [Poacher's Camp](./Poacher%27s%20Camp.md)
 
 More suited as a location to spend the night than as a long-term safe house, this location offers a [fire barrel](./Fire%20Barrel.md) inside, along with often spawning a [bedroll](./Bedroll.md). It provides some warmth bonus, but if the weather gets chilly, you'll likely need to start a fire to keep yourself from freezing. If you need food, you can hunt the [bear](./Bear.md) that often wanders nearby, if intestinal parasites aren't a concern for you.
@@ -517,6 +528,7 @@ This base is far cozier than the [Maintenance Yard](./Maintenance%20Yard.md), an
 
 Although this region is supposedly "easy", it can be harder to survive here than you think, especially for somebody new to the game. Sure, there's tons of shelter in [town](./Milton.md) and lots of buildings to search through, along with a fair amount of hunting and foraging outside of town... but Mountain Town is known for having a lot of [wolves](./Wolf.md), even on lower difficulties, and has a couple tricks up its sleeve, like the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) needing a key and the [Orca Gas Station](./Orca%20Gas%20Station.md) needing a [prybar](./Prybar.md) to open. If you're a new player being chased by wolves, you could be in for a rude surprise.
 
+<a id="milton-house-grey-mother-s"></a>
 #### [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)
 
 This large house is an excellent base early on in the game, as it is located close to the Town of Milton and its many lootable structures. One disadavantage of this location is it doesn't have an indoor workbench located nearby (though one can be moved inside), and [wolves](./Wolf.md) tend to visit the town fairly often. On the other hand, [deer](./Deer.md) hunting is not difficult in the [Wood Lot](./Wood%20Lot.md) nearby, and there are plenty of structures to duck into if a wolf does attack.

@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png) |
-| **Properties** |  |
+| | [Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png) |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A flyer with details on Great Bear Island Cougar Activity. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
@@ -33,3 +33,5 @@ WILDERNESS SAFTEY GUIDE
 - Leave its territory to reduce risk of attack
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer.jpg)
+
+## Update history

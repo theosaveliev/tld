@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Will to Live icon](../assets/The_Will_to_Live_icon.png) |
+| | [The Will to Live icon](../assets/The_Will_to_Live_icon.png) |
 | Description | Survive 500 days in a single Survival Mode game. |
 
 **The Will to Live** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

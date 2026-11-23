@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Hard Sciences icon](../assets/The_Hard_Sciences_icon.png) |
+| | [The Hard Sciences icon](../assets/The_Hard_Sciences_icon.png) |
 | Description | Reach the Suzuki Radio Telescope and deliver Jeremiah's "Wintermute" message to Dr. Atwood. |
 
 **The Hard Sciences** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

@@ -13,18 +13,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20170304095533 1](../assets/20170304095533_1.jpg) |
-| **Location** |  |
-|  | [Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png) |
+| | [20170304095533 1](../assets/20170304095533_1.jpg) |
+| **Location** | |
+| | [Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | Description | A small structure offering little protection from the elements |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
 | Firebox | [Furnace](./Furnace.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Old Spence Family Homestead** is a derelict farming area found within [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

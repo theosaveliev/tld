@@ -6,8 +6,6 @@
 
 ![Moose Overlook](../assets/Moose_Overlook.png)
 
-|
-
 **Location**
 
 Region

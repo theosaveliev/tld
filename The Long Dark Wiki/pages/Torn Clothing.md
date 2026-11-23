@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Torn Clothing icon](../assets/Torn_Clothing_icon.png) |
+| | [Torn Clothing icon](../assets/Torn_Clothing_icon.png) |
 | Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-256-deep-forest-update) |
 | Update | 0.256 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Predator [Struggle](./Struggle.md) Falls |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Instant Treatment |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | Affliction instantly heals once acquired |
 
 **Torn Clothing** is a minor [Affliction](./Afflictions.md) that can be encountered in _[The Long Dark](./The%20Long%20Dark.md)_. Torn Clothing is the only Affliction that is indirectly linked to the player's overall wellbeing, affecting their Clothing rather than their body or mind.

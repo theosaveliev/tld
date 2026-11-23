@@ -1,3 +1,4 @@
+<a id="molly-s-husband"></a>
 # Molly's Husband
 
 **Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Molly's_Husband)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png) |
+| | [Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | Mission | [Trauma](./Trauma.md) |
 | Location(s) | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 40-50 |
 | Status | Dead |
 | Place of death | [Great Bear Island](./Great%20Bear%20Island.md) |
 | Relatives | [Molly](./Molly.md) (wife) |
 | Occupation | Farmer |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Hair | Black |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

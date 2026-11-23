@@ -22,8 +22,6 @@
 
 ![Coal](../assets/Wood_crate_%28small%29.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -90,7 +88,7 @@ Examples of locations where crates are known to contain loot:
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
-| 2 |  |  | 0% by Hand |
-| 2 |  |  | -2% Hatchet |
-| 2 |  |  | -3% Improvised Hatchet |
-| 2 |  |  | -0.5% Heavy Hammer |
+| 2 | | | 0% by Hand |
+| 2 | | | -2% Hatchet |
+| 2 | | | -3% Improvised Hatchet |
+| 2 | | | -0.5% Heavy Hammer |

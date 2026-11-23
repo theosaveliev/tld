@@ -8,8 +8,6 @@
 
 ![Small](../assets/Broken_Metal_Control_Box_Small.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -26,5 +24,5 @@ The large Control Boxes share the same model as a [Switch Box](./Switch%20Box.md
 
 | Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
 | --- | --- | --- | --- | --- |
-| Small Box | 1 | 15 minutes |  | -5% |
-| Large Box | 2 | 30 minutes |  | -5% |
+| Small Box | 1 | 15 minutes | | -5% |
+| Large Box | 2 | 30 minutes | | -5% |

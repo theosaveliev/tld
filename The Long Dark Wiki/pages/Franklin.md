@@ -19,17 +19,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Franklin](../assets/Franklin.png) |
+| | [Franklin](../assets/Franklin.png) |
 | Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 40's - 50's |
 | Status | Dead |
 | Place of death | Blackrock Prison |
 | Occupation | Warden |
-| **Game Information** |  |
+| **Game Information** | |
 | Voiced by | Laurie Mcginnis |
 
 > “__The Warden at Blackrock Penitentiary, Franklin has found himself caught up in Mathis’ deadly schemes.  

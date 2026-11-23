@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Burdock Root icon](../assets/Burdock_Root_icon.png) |
+| | [Burdock Root icon](../assets/Burdock_Root_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Prepare the root for a crunchy bite or as the base of an antibiotic tea. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.15 kg (0.33 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Prepare, Drop |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Burdock |
 
 **Burdock Roots** are the edible portion obtained from harvesting a [Burdock](./Burdock.md) plant.

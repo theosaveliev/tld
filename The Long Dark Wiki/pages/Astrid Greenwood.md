@@ -19,20 +19,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Astrid](../assets/Astrid.png) |
+| | [Astrid](../assets/Astrid.png) |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | Mission | **•** [Memories](./Memories.md) / **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) / **•** [Donner](./Donner.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 30's - 40's |
 | Status | Alive |
 | Relatives | **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) / **•** Jack (Son) |
 | Occupation | Doctor |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Hair | Brown |
 | Eyes | Green |
-| **Game Information** |  |
+| **Game Information** | |
 | Voiced by | [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) |
 
 > “**I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight.**”
@@ -149,8 +149,6 @@ _A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20
 
 - Astrid Greenwood is voiced by [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale). Hale's other notable works include [Commander Shepard](https://masseffect.fandom.com/wiki/Commander_Shepard) (female) in the _[Mass Effect](https://masseffect.fandom.com/wiki/Category:Games)_ series, [Jennifer Mui](https://mercenaries.fandom.com/wiki/Jennifer_Mui) in the _[Mercenaries](https://mercenaries.fandom.com/wiki/Category:Games)_ series, and [Naomi Hunter](https://metalgear.fandom.com/wiki/Naomi_Hunter) in the _[Metal Gear Solid](https://metalgear.fandom.com/wiki/Category:Games)_ series, among many others.
 - Astrid evidently enjoys driving [steam locomotives](./Steam%20Train.md), as this is the only time she laughs in the entire game.
-
-[fr:Astrid\_Greenwood](https://fr.wikipedia.org/wiki/Astrid_Greenwood) [ru:Астрид Гринвуд](https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4_%D0%93%D1%80%D0%B8%D0%BD%D0%B2%D1%83%D0%B4)
 
 ## Notes
 

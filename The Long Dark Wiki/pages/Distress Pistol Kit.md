@@ -12,11 +12,11 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Distress Pistol Kit icon](../assets/Distress_Pistol_Kit_icon.png) |
-| **General** |  |
+| | [Distress Pistol Kit icon](../assets/Distress_Pistol_Kit_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
 
 > “**Useful for getting someone's attention in an emergency. Fires Distress Pistol Shells.**”

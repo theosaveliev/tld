@@ -12,24 +12,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Canned Pineapple icon](../assets/Canned_Pineapple_icon.png) |
+| | [Canned Pineapple icon](../assets/Canned_Pineapple_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Sweet, juicy, Pineapple in a can. A tropical treat and excellent source of Vitamin-C. |
-| **Values** |  |
+| **Values** | |
 | Calories | 295 kcal |
 | Hydration | 5% |
 | [Vitamin C](./Scurvy.md) | Moderate (56%) |
 | Weight | 0.40 kg (0.88 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0.333% per day |
 | Outside | 1.667% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CannedPineapple |
 
 **Canned Pineapple** is a canned [food](./Food%20And%20Drink.md) item in _The Long Dark_ found only when trading with the [Trader](./Trader.md).

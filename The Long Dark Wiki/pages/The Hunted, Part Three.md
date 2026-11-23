@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-| **Details** |  |
+| **Details** | |
 | Difficulty | TBA |
 | Date Added | TBA |
 

@@ -18,9 +18,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
+| | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) |
 | Current | The Grey Mother (Predux) |
 | Next | [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md) |
@@ -80,6 +80,7 @@ Head out of town to [St. Christopher's Church](./St.%20Christopher%27s%20Church.
 
 Go upstairs and find the blue [Trunk](./Trunk.md) containing Lily's gear. Take the [Mountaineering Rope](./Mountaineering%20Rope.md) and [Lily's Map](./Lily%27s%20Map.md) and the mission will end.
 
+<a id="grey-mother-s-trust"></a>
 ## Grey Mother's Trust
 
 Grey Mother offers unique items, knowledge, and side missions as rewards for better earning her Trust during this mission:

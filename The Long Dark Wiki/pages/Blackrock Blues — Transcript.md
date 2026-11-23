@@ -1,3 +1,4 @@
+<a id="blackrock-blues-transcript"></a>
 # Blackrock Blues/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Blues%2FTranscript)
@@ -13,9 +14,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Blues](../assets/Blackrock_Blues.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Blackrock Blues](../assets/Blackrock_Blues.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |
 | Current | Blackrock Blues/Transcript |
 | Next | [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md) |

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Accelerant icon](../assets/Accelerant_icon.png) |
-| **General** |  |
+| | [Accelerant icon](../assets/Accelerant_icon.png) |
+| **General** | |
 | Item Type | Fire Starting |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
 | Firestarting Slot | Accelerant |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+40% |
 
@@ -31,5 +31,3 @@ As accelerant is non-renewable beside from the rare spawn chance from [Beachcomb
 ## Gallery
 
 ![old model](../assets/Accelerant.png)
-
-[ru:Горючее](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8E%D1%87%D0%B5%D0%B5) [es:Acelerante](https://es.wikipedia.org/wiki/Acelerante)

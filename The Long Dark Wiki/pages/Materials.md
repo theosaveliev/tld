@@ -87,7 +87,7 @@
 | [Materials2](../assets/Materials2.png) | Item | Weight | Comment |
 | --- | --- | --- | --- |
 | [Reclaimed Wood icon](../assets/Reclaimed_Wood_icon.png) | [Reclaimed Wood](./Reclaimed%20Wood.md) | 0.10 kg; _(0.22 lb)_ | - Used to craft[Snare icon](../assets/Snare_icon.png) [Snare](./Snare.md); - Can be used as Fuel for Fires |
-| [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) |  | - Used to create a [Snow Shelter icon](../assets/Snow_Shelter_icon.png) [Snow Shelter](./Snow%20Shelter.md) or[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md); - Can be used a Fuel for Fires |
+| [Stick icon](../assets/Stick_icon.png) | [Stick](./Stick.md) | | - Used to create a [Snow Shelter icon](../assets/Snow_Shelter_icon.png) [Snow Shelter](./Snow%20Shelter.md) or[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md); - Can be used a Fuel for Fires |
 
 ## Gunsmithing
 

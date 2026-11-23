@@ -1,3 +1,4 @@
+<a id="sutherland-s-tale"></a>
 # Sutherland's Tale
 
 **Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
@@ -44,8 +45,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Trader Journal Background](../assets/Trader_Journal_Background.png) |
-| **Missions** |  |
+| | [Trader Journal Background](../assets/Trader_Journal_Background.png) |
+| **Missions** | |
 | Previous | [Last Horizon](./Last%20Horizon.md) |
 | Current | Sutherland's Tale |
 
@@ -134,6 +135,7 @@ The player has no way of know this at first, but Sutherland eventually reveals t
 | [Transfer Pass](./Transfer%20Pass.md) | [Vacant Depot](./Vacant%20Depot.md) |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Idle Camp](./Idle%20Camp.md) (Mess Hall) |
 
+<a id="starting-sutherland-s-tale"></a>
 ### Starting Sutherland's Tale
 
 After the arrival time is met and the Aurora/Glimmer Fog powers the Radios, a voice will be heard on the radio. Talking to the man on the radio will allow you to begin trading with him where he offers to trade things with you. He requests that you drop everything off at the [Trade Drop Box](./Trade%20Drop%20Box.md) at the pier near [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) in [Coastal Highway](./Coastal%20Highway.md).

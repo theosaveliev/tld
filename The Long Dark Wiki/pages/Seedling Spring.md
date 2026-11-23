@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Seedling Spring](../assets/Seedling_Spring.jpg) |
-| **Location** |  |
-|  | [Seedling Spring Location](../assets/Seedling_Spring_Location.png) |
+| | [Seedling Spring](../assets/Seedling_Spring.jpg) |
+| **Location** | |
+| | [Seedling Spring Location](../assets/Seedling_Spring_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | south of [Last Lonely House](./Last%20Lonely%20House.md). |
 | Description | a small pond in the forest. |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Seedling Spring** is a location in [Sundered Pass](./Sundered%20Pass.md).
 

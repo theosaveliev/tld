@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Concentrator](../assets/Concentrator.png) |
-| **Location** |  |
-|  | [Concentrator Location](../assets/Concentrator_Location.png) |
+| | [Concentrator](../assets/Concentrator.png) |
+| **Location** | |
+| | [Concentrator Location](../assets/Concentrator_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Description | A massive building on top of [Langston Mine](./Langston%20Mine.md) |
-| **General** |  |
-| Type |  |
-| [Bed icon](../assets/Bed_icon.png) |  |
+| **General** | |
+| Type | |
+| [Bed icon](../assets/Bed_icon.png) | |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 The [Concentrator](./Concentrator.md) is the largest building in the [Zone of Contamination](./Zone%20of%20Contamination.md), and the largest artificial structure found on [Great Bear Island](./Great%20Bear%20Island.md), eclipsing even the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) in scale.
 

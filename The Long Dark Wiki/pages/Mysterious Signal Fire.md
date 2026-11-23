@@ -13,14 +13,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20180909115732 1](../assets/20180909115732_1.jpg) |
-| **Location** |  |
-|  | [Mysterious Signal Fire Location](../assets/Mysterious_Signal_Fire_Location.png) |
+| | [20180909115732 1](../assets/20180909115732_1.jpg) |
+| **Location** | |
+| | [Mysterious Signal Fire Location](../assets/Mysterious_Signal_Fire_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Edge of the valley on a clifftop |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 The **Mysterious Signal Fire** is a location found in [Hushed River Valley](./Hushed%20River%20Valley.md). Smoke from the fire can be seen from almost any point in the eastern section of the region.
 

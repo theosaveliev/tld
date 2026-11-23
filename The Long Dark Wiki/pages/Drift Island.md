@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Drift Island](../assets/Drift_Island.png) |
-| **Location** |  |
-|  | [Drift Island Location](../assets/Drift_Island_Location.png) |
+| | [Drift Island](../assets/Drift_Island.png) |
+| **Location** | |
+| | [Drift Island Location](../assets/Drift_Island_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | North of [Shoulder Lake](./Shoulder%20Lake.md). |
 | Description | A tall island in a lake. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Drift Island** is the largest island inside [Shoulder Lake](./Shoulder%20Lake.md), located in the north of [Forsaken Airfield](./Forsaken%20Airfield.md). It is home to [Island Cottage](./Island%20Cottage.md), [Cove](./Cove.md), and [Archie's Crawlspace](./Archie%27s%20Crawlspace.md).
 

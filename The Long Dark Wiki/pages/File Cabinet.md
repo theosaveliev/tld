@@ -1,14 +1,12 @@
 # File Cabinet
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/File_Cabinet)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/File_Cabinet)
 
 **File Cabinet**
 
 ![Regular](../assets/File_Cabinet.png)
 
 ![Rusty](../assets/File_Cabinet_Rusty.jpg)
-
-|
 
 Release
 
@@ -40,7 +38,7 @@ In some cases, filing cabinets can have draws be open or missing, and thus are n
 
 ## Loot
 
-|  | Item | Rarity |
+| | Item | Rarity |
 | --- | --- | --- |
 | [Stack of Papers icon](../assets/Stack_of_Papers_icon.png) | [Stack of Papers](./Stack%20of%20Papers.md) | 9.43% |
 | [Ketchup Chips icon](../assets/Ketchup_Chips_icon.png) | [Ketchup Chips](./Ketchup%20Chips.md) | 6.29% |

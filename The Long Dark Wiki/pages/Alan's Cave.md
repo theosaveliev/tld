@@ -1,3 +1,4 @@
+<a id="alan-s-cave"></a>
 # Alan's Cave
 
 **Categories:** Caves, Locations, Locations in Mystery Lake, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Alan's_Cave)
@@ -6,14 +7,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Alan's Cave](../assets/Alan%27s_Cave.jpg) |
-| **Location** |  |
-|  | [Alan's Cave Location](../assets/Alan%27s_Cave_Location.png) |
+| | [Alan's Cave](../assets/Alan%27s_Cave.jpg) |
+| **Location** | |
+| | [Alan's Cave Location](../assets/Alan%27s_Cave_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Description | A small cave. |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Alan's Cave** is a small cave in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

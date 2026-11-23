@@ -1,3 +1,4 @@
+<a id="jeremiah-s-hideout"></a>
 # Jeremiah's Hideout
 
 **Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
@@ -21,9 +22,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Aurora hatch](../assets/Aurora_hatch.png) |
+| | [Aurora hatch](../assets/Aurora_hatch.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Jeremiah's Hideout |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 
@@ -58,10 +59,12 @@ This mission can be unlocked as early as [You Fix My Rifle?](./You%20Fix%20My%20
 
 When an Aurora is in the sky, go inside and you will see the hallway to the back of the hideout is filled with live wires. Wait for the Aurora to pass if you want to safely pass over them, though this will lock the hatch door behind you (though you have plenty of supplies on your side of the bunker to last until the next Aurora). You can choose to run across the hot wires with with 100% [Condition](./Condition.md) but you will get at least 3 [Burns](./Burns.md) if you do, make sure to turn the Switch Box off to disable the live wires.
 
+<a id="find-jeremiah-s-letters"></a>
 ### Find Jeremiah's Letters
 
 Find [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) sitting on the desk before you and leave the hatch.
 
+<a id="burn-jeremiah-s-papers"></a>
 ### Burn Jeremiah's Papers
 
 Now start a fire anywhere and select Jeremiah's Papers as the fuel. Use an [Accelerant](./Accelerant.md) if you need to. Successfully start the fire and the mission will be completed. Mackenzie will then remark "I'd better stay focused on finding Astrid. It's time I got going."

@@ -16,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Zone of Contamination](../assets/Zone_of_Contamination.jpg) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png) |
-|  | [Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png) |
-| **Details** |  |
+| | [Zone of Contamination](../assets/Zone_of_Contamination.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png) |
+| | [Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png) |
+| **Details** | |
 | Description | A massive, open pit industrial mine abandoned due to highly hazardous toxic chemicals |
 | Connecting Regions | [Transfer Pass](./Transfer%20Pass.md),[Forsaken Airfield](./Forsaken%20Airfield.md) and [Sundered Pass](./Sundered%20Pass.md) (Via a transition cave) |
 | TFTFT paid content | Yes |

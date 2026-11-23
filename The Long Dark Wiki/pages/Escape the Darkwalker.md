@@ -26,8 +26,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Event NowhereToHide](../assets/Event_NowhereToHide.png) |
-| **Details** |  |
+| | [Event NowhereToHide](../assets/Event_NowhereToHide.png) |
+| **Details** | |
 | Regions | All |
 | Difficulty | 6 |
 | Date Added | 9 Dec 2020 |

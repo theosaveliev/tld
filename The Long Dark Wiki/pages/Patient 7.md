@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
+| | [No picture](../assets/No_picture.png) |
 | Date | March 30th, 2023 |
 | Mission | Signal Void |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | Unknown |
 | Status | Unknown (Possibly dead) |
 | Occupation | Presumed Langston Mine worker |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Sex | Male |
 
 **Spoiler Warning:** **This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

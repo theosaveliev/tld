@@ -13,8 +13,8 @@
 
 | Property | Details |
 | --- | --- |
-| Episode |  |
-| **Missions** |  |
+| Episode | |
+| **Missions** | |
 | Previous | [The Detonators](./The%20Detonators.md) |
 | Current | Donner (mission) |
 | Region | [Blackrock Region](./Blackrock.md) |

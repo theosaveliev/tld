@@ -6,19 +6,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) |
+| | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A cruel-looking trophy harvested from the predatory cat. Can be crafted into a razor-sharp blade. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.07 kg (0.15 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | On ground | Take It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CougarClaw |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

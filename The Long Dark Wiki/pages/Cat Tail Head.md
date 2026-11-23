@@ -13,16 +13,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) |
+| | [Cat Tail Head icon](../assets/Cat_Tail_Head_icon.png) |
 | Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | The Cat Tail's seed head, can be used as tinder. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.05 kg (0.11 lbs) |
 
 **Cat Tail Heads** are tinder item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
@@ -42,7 +42,7 @@ Like all other plants, Cat Tails do not regrow.
 | Property | Details |
 | --- | --- |
 | Type | Tinder |
-| **Statistics** |  |
+| **Statistics** | |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 0% |
 
 ## Gallery

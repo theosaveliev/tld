@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Peak Cave](../assets/Peak_Cave.jpg) |
-| **Location** |  |
-|  | [Peak Cave Location](../assets/Peak_Cave_Location.png) |
+| | [Peak Cave](../assets/Peak_Cave.jpg) |
+| **Location** | |
+| | [Peak Cave Location](../assets/Peak_Cave_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Peak Cave** is a location at the top of a cliff near [Monolith Lake](./Monolith%20Lake.md) in [Hushed River Valley](./Hushed%20River%20Valley.md). As its name suggests, getting to this cave requires a long climb up a steep hill on the eastern side of [Monolith Lake](./Monolith%20Lake.md).
 

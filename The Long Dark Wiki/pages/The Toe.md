@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Thetoe](../assets/Thetoe.jpg) |
-| **Location** |  |
-|  | [The Toe Location](../assets/The_Toe_Location.png) |
+| | [Thetoe](../assets/Thetoe.jpg) |
+| **Location** | |
+| | [The Toe Location](../assets/The_Toe_Location.png) |
 | Region | [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **The Toe** is a tall, pillar-shaped rock located in the middle of the frozen river in the [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
 

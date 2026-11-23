@@ -9,7 +9,7 @@
 - [Limitations](#limitations)
 - [Trade Values](#trade-values)
 - [Effects](#effects)
-- Update history
+- [Update history](#update-history)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -21,18 +21,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Heat Pack icon](../assets/Heat_Pack_icon.png) |
+| | [Heat Pack icon](../assets/Heat_Pack_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A single-use, disposable Heat Pack. Provides a small amount of warmth when activated. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_HeatPad |
 
 The **Heat Pack** is a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_ in [Survival Mode](./Survival%20Mode.md). They also appear in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
@@ -80,3 +80,5 @@ Once activated, a Heat Pack produces no Warmth to the player at first, but will 
 - Using multiple Heat Packs does not combine their effects. The Heat Pack (Affliction) only displays the time left on the Heat Pack with the most time remaining.
 - Once 50 minutes remain after activation, the Heat Pack will slowly lose Warmth by -0.1C (-0.2F) every 30 seconds until time runs out to 0 minutes left.
 - After time expires, the Condition of a Heat Pack will instantly turn to 0% and the item will be Ruined, providing no heat.
+
+## Update history

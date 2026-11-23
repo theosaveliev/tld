@@ -12,19 +12,19 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) |
+| | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Pure Caffeine. The tablets help resist the accumulation and onset of Fatique. |
-| **Values** |  |
+| **Values** | |
 | Calories | 5 kcal |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_BottleCaffeine |
 
 **Caffeine Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.

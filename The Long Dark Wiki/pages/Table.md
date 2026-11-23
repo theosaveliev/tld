@@ -27,8 +27,6 @@
 
 ![Dining](../assets/Dining_Table.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -47,6 +45,7 @@ Harvest
 
 **Tables** are wooden furniture that can be harvested with a [Hatchet](./Hatchet.md) to receive [Reclaimed Wood](./Reclaimed%20Wood.md).
 
+<a id="small-broken-recreation-table"></a>
 ## Small/Broken/Recreation Table
 
 Can be easily identified as a very small wooden table or a very thin table. Sometimes they are an upturned table with one shortened/missing table leg. All 3 versions give 3 Reclaimed Wood.
@@ -63,9 +62,9 @@ The coffee table is a wooden piece of furniture which is used primarily as a sou
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
-| 4 | 1 hour 30 minutes |  | -2% Hatchet |
-| 4 |  |  | -3% Improvised Hatchet |
-| 4 |  |  | -0.5% Heavy Hammer |
+| 4 | 1 hour 30 minutes | | -2% Hatchet |
+| 4 | | | -3% Improvised Hatchet |
+| 4 | | | -0.5% Heavy Hammer |
 
 ## Nightstand Table
 
@@ -104,5 +103,5 @@ Tables yield 6 reclaimed wood, require a Hatchet to harvest, and take 1.5 hour t
 | Reclaimed Wood | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
 | 6 | 1 hour 30 minutes | 270 | -2% Hatchet |
-| 6 |  |  | -3% Improvised Hatchet |
-| 6 |  |  | -0.5% Heavy Hammer |
+| 6 | | | -3% Improvised Hatchet |
+| 6 | | | -0.5% Heavy Hammer |

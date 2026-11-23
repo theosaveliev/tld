@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rosary icon](../assets/Rosary_icon.png) |
+| | [Rosary icon](../assets/Rosary_icon.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A string of prayer beads from Father Thomas |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

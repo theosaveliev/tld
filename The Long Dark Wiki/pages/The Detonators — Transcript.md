@@ -1,3 +1,4 @@
+<a id="the-detonators-transcript"></a>
 # The Detonators/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Detonators%2FTranscript)
@@ -6,9 +7,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Detonators](../assets/The_Detonators.png) |
-| Episode |  |
-| **Missions** |  |
+| | [The Detonators](../assets/The_Detonators.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md) |
 | Current | The Detonators/Transcript |
 | Next | [Donner (mission)/Transcript](./Donner%20%28mission%29%20%E2%80%94%20Transcript.md) |

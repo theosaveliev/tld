@@ -25,8 +25,6 @@
 
 ![Doe](../assets/Doe.png)
 
-|
-
 **Basic Information**
 
 Release
@@ -71,7 +69,7 @@ A carcass can also be quartered into bags of meat to be taken elsewhere for harv
 
 Stag and Doe carcasses contain slightly differing amounts of meat upon their corpses, with Stags generall having higher amounts of raw Venison.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always (1) |
 | [Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always (2) |
@@ -80,7 +78,7 @@ Stag and Doe carcasses contain slightly differing amounts of meat upon their cor
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.20 kg per meat | Always |
 

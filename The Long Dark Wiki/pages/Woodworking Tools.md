@@ -10,20 +10,20 @@
 - [Ash Canyon](#ash-canyon)
 - [Zone of Contamination](#zone-of-contamination)
 - [Gallery](#gallery)
-- Game History
+- [Game History](#game-history)
 
 **Woodworking Tools**
 
 | Property | Details |
 | --- | --- |
-|  | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) |
+| | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Examine | Tools for Crafting furniture and decorative items. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.50 kg (3.3 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine, Drop, Pick up |
 
 **Woodworking Tools** is a tool used to craft furniture for the [Safehouse Customization](./Safehouse%20Customization.md) feature.
@@ -64,3 +64,5 @@ These tools are a very rare find, with only 4 appearing on the whole island in t
 ![Bleak Inlet](../assets/Woodworking_Tools_Bleak_Inlet.jpg)
 
 ![Ash Canyon](../assets/Woodworking_Tools_Ash.jpg)
+
+## Game History

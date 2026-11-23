@@ -200,7 +200,7 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 | [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
 | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
 | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | Low |
-| [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture |  |  |  |  |
+| [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | Puncture | | | | |
 | [Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | High |
 | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |

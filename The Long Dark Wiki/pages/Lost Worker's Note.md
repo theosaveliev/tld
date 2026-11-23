@@ -1,3 +1,4 @@
+<a id="lost-worker-s-note"></a>
 # Lost Worker's Note
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lost_Worker's_Note)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lost Worker's Note icon](../assets/Lost_Worker%27s_Note_icon.png) |
+| | [Lost Worker's Note icon](../assets/Lost_Worker%27s_Note_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Lost Power Workers](./Lost%20Power%20Workers.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Note written by a lost and confused worker. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

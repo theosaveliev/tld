@@ -1,3 +1,4 @@
+<a id="security-chief-s-log-illegible"></a>
 # Security Chief's Log \(illegible\)
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_%28illegible%29)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Security Chief's Log (illegible) icon](../assets/Security_Chief%27s_Log_%28illegible%29_icon.png) |
+| | [Security Chief's Log (illegible) icon](../assets/Security_Chief%27s_Log_%28illegible%29_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An entry in an old logbook. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Tale2ChiefNote4 |
 
 **Security Chief's Log (illegible)** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found the control room next to The Machine.

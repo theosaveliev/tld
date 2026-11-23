@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mailbox](../assets/Mailbox.jpg) |
-| **General** |  |
+| | [Mailbox](../assets/Mailbox.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |

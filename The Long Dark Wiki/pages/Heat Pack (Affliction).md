@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Heat Pack (Affliction) icon](../assets/Heat_Pack_%28Affliction%29_icon.png) |
+| | [Heat Pack (Affliction) icon](../assets/Heat_Pack_%28Affliction%29_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Update | 2.33 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing. |
 | Caused By | Active [Heat Pack icon](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) in inventory |

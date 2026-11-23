@@ -1,6 +1,6 @@
 # Milling Machine
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
 
 **Contents**
 
@@ -15,12 +15,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Milling Machine](../assets/Milling_Machine.png) |
+| | [Milling Machine](../assets/Milling_Machine.png) |
 | Release | 9 December 2019 |
 | Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) |
 | Story item | No |
 | Location | [Workshop](./Workshop.md) [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Object key | GAMEPLAY\_MillingMachine |
 
 The **Milling Machine** is a workstation used for repairs in _[The Long Dark](./The%20Long%20Dark.md)._ It was introduced in the Errant Pilgrim update.
@@ -49,7 +49,7 @@ The Milling Machine may be used to repair the following items:
 
 | Item | Repair Time | Restoration Time |
 | --- | --- | --- |
-| Hand Tools |  |  |
+| Hand Tools | | |
 | [Hacksaw icon](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md) | 20.0 minutes | N/A |
 | [Hatchet icon](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) | 20.0 minutes | N/A |
 | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) | 20.0 minutes | N/A |
@@ -57,7 +57,7 @@ The Milling Machine may be used to repair the following items:
 | [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 20.0 minutes | N/A |
 | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 20.0 minutes | N/A |
 | [Survival Knife icon](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) | 20.0 minutes | N/A |
-| Firearms |  |  |
+| Firearms | | |
 | [Revolver icon](../assets/Revolver_icon.png) [Revolver](./Revolver.md) | 30.0 minutes | 90.0 minutes |
 | [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) [Forester's Revolver](./Forester%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |
 | [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) [Hunter's Revolver](./Hunter%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |

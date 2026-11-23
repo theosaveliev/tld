@@ -14,7 +14,7 @@
 
 ![Sprint icon](../assets/Sprint_icon.png)
 
-**Stamina** represents the player's ability to undertake several physically demanding tasks. Sprinting or Rope Climbing both reduce stamina. When the stamina bar is completely drained, rope climbing becomes slower and more dangerous, and the player is unable to sprint. The stamina bar will gradually refill itself when not in active use. [fr:Stamina](https://fr.wikipedia.org/wiki/Stamina)
+**Stamina** represents the player's ability to undertake several physically demanding tasks. Sprinting or Rope Climbing both reduce stamina. When the stamina bar is completely drained, rope climbing becomes slower and more dangerous, and the player is unable to sprint. The stamina bar will gradually refill itself when not in active use.
 
 ## Overview
 

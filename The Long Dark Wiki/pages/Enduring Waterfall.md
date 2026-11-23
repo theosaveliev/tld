@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Enduring Waterfall](../assets/Enduring_Waterfall.jpg) |
-| **Location** |  |
-|  | [Enduring Waterfall Location](../assets/Enduring_Waterfall_Location.png) |
+| | [Enduring Waterfall](../assets/Enduring_Waterfall.jpg) |
+| **Location** | |
+| | [Enduring Waterfall Location](../assets/Enduring_Waterfall_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Enduring Waterfall** is a location to the southern section of the [Zone of Contamination](./Zone%20of%20Contamination.md). [Deer](./Deer.md), [Rabbits](./Rabbit.md) and [Cat Tails](./Cat%20Tail.md) are found near the river. Following the river south will lead you to the transition to [Sundered Pass](./Sundered%20Pass.md) and [Forsaken Airfield](./Forsaken%20Airfield.md), which can be used for shelter when hunting in the area.
 

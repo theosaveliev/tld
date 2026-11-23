@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Grate](../assets/Grate.jpg) |
-| **General** |  |
+| | [Grate](../assets/Grate.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

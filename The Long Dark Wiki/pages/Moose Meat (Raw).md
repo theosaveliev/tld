@@ -13,19 +13,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) |
+| | [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Moose meat. Musty, gamey, and lean. |
-| **Values** |  |
+| **Values** | |
 | Calories | 900 kcal |
 | Hydration | 0% |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_RawMeatMoose |
 
 _For the cooked version, see [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md)._

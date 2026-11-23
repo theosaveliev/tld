@@ -6,8 +6,6 @@
 
 ![Train Unloading](../assets/Train_Unloading.jpg)
 
-|
-
 **Location**
 
 ![Train Unloading map](../assets/Train_Unloading_map.png)

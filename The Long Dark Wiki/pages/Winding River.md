@@ -13,11 +13,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Winding River Location](../assets/Winding_River_Location.png) |
-|  | [Winding River map](../assets/Winding_River_map.png) |
-| **Details** |  |
+| | [RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Winding River Location](../assets/Winding_River_Location.png) |
+| | [Winding River map](../assets/Winding_River_map.png) |
+| **Details** | |
 | Description | An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Pleasant Valley](./Pleasant%20Valley.md) |
 | Locations | 2 |
@@ -61,5 +61,3 @@ The exit door to the dam does not count as a Region Transition icon.
 ![An outdated map of Winding River v1.93](../assets/MAP-DAM_WR-Lv3-v193-110.png)
 
 ![The Carter Hydro Dam one way entrance](../assets/The_Carter_Hydro_Dam_one-way_entrance.jpg)
-
-[es:Río sinuoso](https://es.wikipedia.org/wiki/R%C3%ADo_sinuoso) [ru:Извилистая река](https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%B0)

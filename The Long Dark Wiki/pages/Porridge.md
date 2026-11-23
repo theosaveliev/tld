@@ -12,21 +12,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Porridge icon](../assets/Porridge_icon.png) |
+| | [Porridge icon](../assets/Porridge_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | Oats cooked in Water. Sustaining and timeless. |
-| **Values** |  |
+| **Values** | |
 | Calories | 350 (438) kcal |
 | Hydration | 0.0% |
 | Weight | 0.20 kg (0.44 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Porridge |
 
 **Porridge** is a food item made with a [Cooking Pot](./Cooking%20Pot.md). It can be made at Level 1 cooking and takes 20 minutes to prepare.

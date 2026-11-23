@@ -12,14 +12,14 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png) |
+| | [Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Empty casing from firing a Shotgun Slug. Used for Crafting new Ammunition |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.01 kg (0.02 lbs) |
 
 A **Shotgun** **Shell Casing** is a [Materials](./Materials.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.

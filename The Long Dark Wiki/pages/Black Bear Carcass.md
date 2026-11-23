@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bear Carcass](../assets/Bear_Carcass.jpg) |
-| **General** |  |
+| | [Bear Carcass](../assets/Bear_Carcass.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 
@@ -19,7 +19,7 @@ Bears are massive creatures, and their carcasses can be used as makeshift cover 
 
 A Bear Carcass may be harvested for 25.00-40.00 kg of [raw meat](./Bear%20Meat%20%28Raw%29.md), 1 [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) and 10 guts. Bear hides can be cured to craft [Bearskin Coat](./Bearskin%20Coat.md) or [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md). On Stalker and Interloper modes, Bear meat carries the risk of [Intestinal Parasites](./Intestinal%20Parasites.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) | 25 - 40 | Always (1) |
 | [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always (2) |

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI Workshop01](../assets/SS-BI-Workshop01.jpg) |
-| **Location** |  |
-|  | [Workshop Location](../assets/Workshop_Location.png) |
+| | [SS BI Workshop01](../assets/SS-BI-Workshop01.jpg) |
+| **Location** | |
+| | [Workshop Location](../assets/Workshop_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | At the [Cannery Pier](./Cannery%20Pier.md) |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
 | Firebox | [Fire Barrel](./Fire%20Barrel.md) |
-| [Bed icon](../assets/Bed_icon.png) |  |
+| [Bed icon](../assets/Bed_icon.png) | |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 The **Workshop** is located on the [Cannery Pier](./Cannery%20Pier.md) in [Bleak Inlet](./Bleak%20Inlet.md) at the [Last Resort Cannery](./Last%20Resort%20Cannery.md). The cannery workshop complex features rare and unique workstations, and requires a code to the [Keypad](./Keypad.md) to unlock the door to the building.
 

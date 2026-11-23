@@ -15,8 +15,8 @@
 
 | Property | Details |
 | --- | --- |
-| Episode |  |
-| **Missions** |  |
+| Episode | |
+| **Missions** | |
 | Current | Lost Power Workers |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 

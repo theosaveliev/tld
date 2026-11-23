@@ -13,16 +13,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Crow Feather icon](../assets/Crow_Feather_icon.png) |
-| **General** |  |
+| | [Crow Feather icon](../assets/Crow_Feather_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 | Calories | [Calorie icon](../assets/Calorie_icon.png) calories |
-| Harvest |  |
-| Repair |  |
+| Harvest | |
+| Repair | |
 
 > “**A feather from a Crow. Add it to an Arrow Shaft to make a useable, stabilized arrow.**”
 >

@@ -8,8 +8,6 @@
 
 ![Interior](../assets/Camp_Office_First_and_Second_Floor.jpg)
 
-|
-
 **Location**
 
 ![Camp Office Location](../assets/Camp_Office_Location.png)
@@ -87,5 +85,3 @@ This location is one of the most iconic places in the game as an important centr
 ![Old version](../assets/Camp_Office_Railroad_Side.jpg)
 
 ![Current version](../assets/Camp_Office.jpg)
-
-[ru:Администрация\_турбазы](https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D1%83%D1%80%D0%B1%D0%B0%D0%B7%D1%8B) [es:Base del campamento](https://es.wikipedia.org/wiki/Base_del_campamento)

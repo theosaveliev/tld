@@ -1,3 +1,4 @@
+<a id="the-security-chief-s-remains"></a>
 # The Security Chief's Remains
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Security_Chief's_Remains)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png) |
+| | [The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Human bones, weathered by time and memory. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Tale2\_SecurityChiefBones |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Master Hunter icon](../assets/Master_Hunter_icon.png) |
+| | [Master Hunter icon](../assets/Master_Hunter_icon.png) |
 | Description | You've successfully killed 3 Cougars in a single game. |
 | Benefit | Wildlife are less aware of your presence. |
 | Effect | Halves detection range from all animals (sight, hearing, and smell) |

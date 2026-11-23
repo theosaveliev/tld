@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Firewood Bin](../assets/Firewood_Bin.png) |
+| | [Firewood Bin](../assets/Firewood_Bin.png) |
 | Release | TBD |
 | Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Story item | No |
-| **Container** |  |
+| **Container** | |
 | Capacity | 30.00 kg(66 lbs) |
 
 A **Firewood Bin** is a fuel storage bin found next to many homes. Searching one can often yield high value fuel items such as [Coal](./Coal.md), [Fir Firewood](./Fir%20Firewood.md), and [Cedar Firewood](./Cedar%20Firewood.md). It is mostly found near remote cabins:

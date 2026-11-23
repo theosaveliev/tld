@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png) |
+| | [Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Avoid Chemical Hazards |
 | Alternate Treatment | Equip [Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) w/ [Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md) and [Chemical Boots icon](../assets/Chemical_Boots_icon.png) [Chemical Boots](./Chemical%20Boots.md) to reduce vulnerability. |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | GAMEPLAY\_ChemicalPoisoningRisk |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

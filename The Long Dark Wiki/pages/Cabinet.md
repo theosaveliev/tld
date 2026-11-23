@@ -10,8 +10,6 @@
 
 ![Clothing](../assets/Clothing_Cabinet.jpg)
 
-|
-
 **General**
 
 Item Type

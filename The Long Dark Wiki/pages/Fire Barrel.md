@@ -1,6 +1,6 @@
 # Fire Barrel
 
-**Categories:** Fire Starting, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Barrel)
+**Categories:** Fire Starting, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Barrel)
 
 **Contents**
 
@@ -20,10 +20,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fire barrel](../assets/Fire_barrel.png) |
-| **General** |  |
+| | [Fire barrel](../assets/Fire_barrel.png) |
+| **General** | |
 | Type | Fire Starting |
-| **Statistics** |  |
+| **Statistics** | |
 | Cooking slots | 2 |
 
 The **fire barrel** is an immovable [contained fire](./Fire.md#contained-fires) in an open barrel. The fire barrel functions identically to other contained fires and player-made [campfire](./Campfire.md). The fire barrel provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has two [cooking](./Cooking.md) slots.

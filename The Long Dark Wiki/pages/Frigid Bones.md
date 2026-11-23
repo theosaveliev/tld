@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Frigid Bones icon](../assets/Frigid_Bones_icon.png) |
+| | [Frigid Bones icon](../assets/Frigid_Bones_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You are chilled to the core. / Your Feels Like temperature is permanently reduced, and it takes you longer to warm up. |
 | Caused By | [Misery Mode](./Misery.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | No Treatment |
 
 **Frigid Bones** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.

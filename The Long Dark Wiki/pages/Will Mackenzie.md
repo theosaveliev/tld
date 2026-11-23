@@ -18,21 +18,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Will Episode 5](../assets/Will_Episode_5.jpg) |
+| | [Will Episode 5](../assets/Will_Episode_5.jpg) |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5 |
 | Mission | **•** [Memories](./Memories.md) / **•** [The Crash](./The%20Crash.md) / **•** [The Grey Mother](./The%20Grey%20Mother.md) / **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) / **•** [Renewed Hope](./Renewed%20Hope.md) / **•** [Prologue](./Prologue.md) / **•** [Blackrock Blues](./Blackrock%20Blues.md) / **•** [The Power Plant](./The%20Power%20Plant.md) / **•** [The Detonators](./The%20Detonators.md) / **•** [Donner (mission)](./Donner%20%28mission%29.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 44 |
 | Status | Alive |
 | Hometown | Black Creek, BC, Canada. |
 | Relatives | **•** [Astrid Greenwood](./Astrid%20Greenwood.md) (Ex-Wife) / **•** Jack (Son) - Deceased Unnamed Father - Deceased |
 | Occupation | Bush Pilot |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Hair | Brown |
 | Eyes | Blue |
-| **Game Information** |  |
+| **Game Information** | |
 | Voiced by | [Mark Meer](https://en.wikipedia.org/wiki/Mark_Meer) |
 
 > “**What do I have to worry about? I have a legendary 150 year old demon bear hungry for my blood. Bullets don't stop him, but I'm armed with basically a medieval weapon which I'm sure will do the trick. I'm stuck in this winter wasteland where lights in the sky make the power flicker and electronics explode, and the only people I seem to meet are all slightly crazy. And this is all after I crashed my plane deep in the wilderness and somehow lost my ex-wife along the way, and I'd really kind of like to find her back.**”

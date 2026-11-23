@@ -16,8 +16,6 @@
 
 ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
 
-|
-
 Release
 
 [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163)

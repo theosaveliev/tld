@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [MuleBridge](../assets/MuleBridge.jpg) |
-| **Location** |  |
-|  | [Mule Bridge Location](../assets/Mule_Bridge_Location.png) |
-| Region |  |
+| | [MuleBridge](../assets/MuleBridge.jpg) |
+| **Location** | |
+| | [Mule Bridge Location](../assets/Mule_Bridge_Location.png) |
+| Region | |
 | Description | A bridge |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 > “**Mules were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.**”
 >

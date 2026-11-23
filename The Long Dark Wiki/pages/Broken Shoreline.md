@@ -12,14 +12,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Shoreline](../assets/Broken_Shoreline.jpg) |
-| **Location** |  |
-|  | [Broken Shoreline Location](../assets/Broken_Shoreline_Location.png) |
+| | [Broken Shoreline](../assets/Broken_Shoreline.jpg) |
+| **Location** | |
+| | [Broken Shoreline Location](../assets/Broken_Shoreline_Location.png) |
 | Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | Slightly southwest of the Lighthouse |
 | Description | A partially sunken ship frozen in the water |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Broken Shoreline** is a location in [Port Remnant](./Port%20Remnant.md).
 

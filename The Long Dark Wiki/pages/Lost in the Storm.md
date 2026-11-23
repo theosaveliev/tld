@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lost in the Storm icon](../assets/Lost_in_the_Storm_icon.png) |
+| | [Lost in the Storm icon](../assets/Lost_in_the_Storm_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A letter found on a discarded backpack in a cave. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 
 **Lost in the Storm** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) inside the "indoor" cave leading to [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md) from [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).

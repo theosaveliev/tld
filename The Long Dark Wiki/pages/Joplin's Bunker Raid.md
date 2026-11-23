@@ -1,3 +1,4 @@
+<a id="joplin-s-bunker-raid"></a>
 # Joplin's Bunker Raid
 
 **Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
@@ -7,7 +8,7 @@
 | Property | Details |
 | --- | --- |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Joplin's Bunker Raid |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 

@@ -33,11 +33,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bear](../assets/Bear.png) |
-| **Basic Information** |  |
+| | [Bear](../assets/Bear.png) |
+| **Basic Information** | |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Role | Predator |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Black |
 | Size | Large |
 | Eyes | Brown |
@@ -60,7 +60,7 @@ They are among the toughest and most dangerous animals on [Great Bear Island](./
 
 A [Black Bear Carcass](./Black%20Bear%20Carcass.md) may be harvested for 25.00-40.00 kg of [raw meat](./Bear%20Meat%20%28Raw%29.md), 1 [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md), and 10 guts. Bear hides can be cured to craft [Bearskin Coat](./Bearskin%20Coat.md) or [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)* | 25 - 40 | Always (1) |
 | [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always (2) |
@@ -71,7 +71,7 @@ A [Black Bear Carcass](./Black%20Bear%20Carcass.md) may be harvested for 25.00-4
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 

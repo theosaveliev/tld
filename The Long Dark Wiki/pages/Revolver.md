@@ -36,12 +36,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Revolver icon](../assets/Revolver_icon.png) |
-| **General** |  |
+| | [Revolver icon](../assets/Revolver_icon.png) |
+| **General** | |
 | Item Type | Tool |
-| Wintermute |  |
+| Wintermute | |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Harvest | Unharvestable |
 | Repair | [Firearm cleaning kit](./Firearm%20Cleaning%20Kit.md) |
@@ -261,10 +261,6 @@ _A Revolver found hidden behind a [Grate](./Grate.md)_
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger)):**
   - Added to game.
-
-## References
-
-[ru:Револьвер](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80) [fr:Revolver](https://fr.wikipedia.org/wiki/Revolver)
 
 ## Notes
 

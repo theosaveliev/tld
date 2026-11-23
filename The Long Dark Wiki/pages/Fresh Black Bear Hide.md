@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) |
+| | [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested fur and skin of a Black bear. / Can be used for crafting and repair after air-drying indoors for 12 days. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BearHide |
 
 **Fresh Black Bear Hide** is the fur and skin harvested from a [Bear](./Bear.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Bearskin Coat](./Bearskin%20Coat.md) or [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) once they have [Cured](./Curing.md) into a [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md).

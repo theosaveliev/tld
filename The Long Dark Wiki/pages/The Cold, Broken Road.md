@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [A Cry For Help](./A%20Cry%20For%20Help.md) |
 | Current | The Cold, Broken Road |
 | Next | [High Energy](./High%20Energy.md) |

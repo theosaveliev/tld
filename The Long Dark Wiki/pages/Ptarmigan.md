@@ -30,11 +30,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ptarmigan](../assets/Ptarmigan.png) |
-| **Basic Information** |  |
+| | [Ptarmigan](../assets/Ptarmigan.png) |
+| **Basic Information** | |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Role | Prey |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | White |
 | Size | Small |
 | Eyes | Black |
@@ -61,7 +61,7 @@ Each region contains only a handful of specific areas populated with Ptarmigans,
 
 When killed, a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) can be butchered on the spot or carried whole, similar to a [Rabbit Carcass](./Rabbit%20Carcass.md). A whole bird weighs only slightly more than its meat and down feathers and harvesting is a time consuming process (30 minutes for each bundle). Unlike other animals, Ptarmigans are unique in that they do not drop Hides or Intestines.
 
-|  | Item | Quanity | Rarity |
+| | Item | Quanity | Rarity |
 | --- | --- | --- | --- |
 | [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
 | [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |

@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Grey Mother](../assets/The_Grey_Mother.png) |
+| | [The Grey Mother](../assets/The_Grey_Mother.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [The Crash](./The%20Crash.md) |
 | Current | The Grey Mother |
 | Next | [Paradise Lost](./Paradise%20Lost.md) |

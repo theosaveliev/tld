@@ -14,14 +14,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tail section and wing2](../assets/Tail_section_and_wing2.jpg) |
-| **Location** |  |
-|  | [Summit Location](../assets/Summit_Location.png) |
+| | [Tail section and wing2](../assets/Tail_section_and_wing2.jpg) |
+| **Location** | |
+| | [Summit Location](../assets/Summit_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Sublocations | [Tail Section](./Tail%20Section.md) / [Wing](./Wing.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 The **Summit** is located in [Timberwolf Mountain](./Timberwolf%20Mountain.md) and is one of the highest accessible locations in the game.
 

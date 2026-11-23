@@ -12,16 +12,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
+| | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An audio recording made of wax. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
@@ -58,3 +58,5 @@ I can't imagine the contrast myself.
 In any case, there may be some promise to the notion of a portable wax cylinder recorder. I'll have to investigate more closely, and see if we can improve on Murphy's design.
 
 Might be a superior medium for recording technical logs, as this climate is not friendly to paper.
+
+## Game history

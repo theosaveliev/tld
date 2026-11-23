@@ -16,12 +16,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hatchet icon](../assets/Hatchet_icon.png) |
-| **General** |  |
+| | [Hatchet icon](../assets/Hatchet_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |

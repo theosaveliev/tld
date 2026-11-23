@@ -19,11 +19,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Suzuki Geothermal Region In Game Map](../assets/Suzuki_Geothermal_Region_In-Game_Map.png) |
-| **Details** |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Suzuki Geothermal Region In Game Map](../assets/Suzuki_Geothermal_Region_In-Game_Map.png) |
+| **Details** | |
 | Description | A mountain region with several Geothermal Substations that deliver power to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) facility. |
 | Date Added | 31 March 2026 |
 

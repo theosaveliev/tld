@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png) |
-| **Location** |  |
-|  | [Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png) |
+| | [The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png) |
+| **Location** | |
+| | [Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Sublocations | [Fishing huts](./Fishing%20Hut.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 _For the region, see [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)._
 

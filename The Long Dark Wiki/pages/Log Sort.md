@@ -6,8 +6,6 @@
 
 ![Log Sort double story house](../assets/Log_Sort_-_double-story_house.jpg)
 
-|
-
 **Location**
 
 ![Log Sort map](../assets/Log_Sort_map.png)

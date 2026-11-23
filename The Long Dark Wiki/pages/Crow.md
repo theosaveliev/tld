@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Crow](../assets/Crow.png) |
-| **Basic Information** |  |
+| | [Crow](../assets/Crow.png) |
+| **Basic Information** | |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Role | Scavenger |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Black |
 | Size | Small |
 | Eyes | Black |
@@ -38,7 +38,7 @@ Crows are flying black birds with conspicuously loud cries. They never land and 
 
 Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground underneath circling Crows (1 Feather will fall per crow flying overhead). Once on the ground, the feathers remain until picked up, making these locations valuable as the only source of crow feathers for [Crafting](./Crafting.md).
 
-|  | Carcass | Quantity | Rarity |
+| | Carcass | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
 | [Crow Feather icon](../assets/Crow_Feather_icon.png) | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |

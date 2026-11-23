@@ -27,8 +27,6 @@
 
 ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
 
-|
-
 **Location**
 
 ![Paradise Meadows Farm Location](../assets/Paradise_Meadows_Farm_Location.png)

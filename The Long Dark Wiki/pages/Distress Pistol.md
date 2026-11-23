@@ -32,16 +32,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) |
+| | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-298-timberwolf-mountain-update) |
 | Wintermute | yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | A device used to launch an emergency beacon into the air. Fires Flare Shells. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.40 kg (0.88 lbs) |
 
 > “**Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.**”
@@ -152,6 +152,7 @@ Spawns in 1 of 2 locations listed below:
 
 Note: guaranteed spawn
 
+<a id="keeper-s-pass-north"></a>
 ### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 
 - In a case at an unnamed cave below [builder's bridge](./Builder%27s%20Bridge.md) at river level. A rope at one end of the road is used to get down

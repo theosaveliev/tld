@@ -22,17 +22,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Stay on Target icon](../assets/Stay_on_Target_icon.png) |
+| | [Stay on Target icon](../assets/Stay_on_Target_icon.png) |
 | Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A detailed guide to hunting with bows. Researching it will improve your Archery Skill. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Research, Drop |
 
 **Stay on Target** is a [Research Book](./Research%20Book.md) used to improve the [Archery](./Archery.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
@@ -56,7 +56,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +35% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |

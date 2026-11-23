@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Stored Water](../assets/Stored_Water.jpg) |
-| **General** |  |
+| | [Stored Water](../assets/Stored_Water.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 

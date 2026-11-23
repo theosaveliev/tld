@@ -17,8 +17,6 @@
 
 ![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg)
 
-|
-
 **Location**
 
 ![Hibernia Processing Location](../assets/Hibernia_Processing_Location.png)

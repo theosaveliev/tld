@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png) |
+| | [Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png) |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | Yes |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.15 kg (0.33 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BrokenArrowHardened |
 
 > “**A broken Fire Hardened Arrow. Harvesting these crude weapons may yield some feathers, but nothing more.**”

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Note (EP4) icon](../assets/Note_%28EP4%29_icon.png) |
+| | [Note (EP4) icon](../assets/Note_%28EP4%29_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A handwritten message with details on donated food rations. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

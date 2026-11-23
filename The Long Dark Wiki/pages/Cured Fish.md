@@ -12,15 +12,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Cured Fish icon](../assets/Cured_Fish_icon.png) |
+| | [Cured Fish icon](../assets/Cured_Fish_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Fish that has been cured and preserved. |
-| **Values** |  |
+| **Values** | |
 | Calories | 900 kcal |
 | Hydration | -5% |
 | Weight | 0.20 kg (0.44 lbs) |

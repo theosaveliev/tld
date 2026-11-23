@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png) |
+| | [Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Paradise Lost](./Paradise%20Lost.md) |
 | Current | The Wounded Trapper |
 | Next | [The Best Defense](./The%20Best%20Defense.md) |

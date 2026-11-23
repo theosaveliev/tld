@@ -12,11 +12,11 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Emergency Food icon](../assets/Emergency_Food_icon.png) |
-| **General** |  |
+| | [Emergency Food icon](../assets/Emergency_Food_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
 
 > “**Hardy stuff in an emergency, but not a fancy meal.**”

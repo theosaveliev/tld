@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wood stove](../assets/Wood_stove.png) |
-| **General** |  |
+| | [Wood stove](../assets/Wood_stove.png) |
+| **General** | |
 | Type | Fire Starting |
-| **Statistics** |  |
+| **Statistics** | |
 | Max temperature | 80 °C / _(144 °F)_ |
 | Cooking slots | 2 |
 

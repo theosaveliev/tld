@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Arch2](../assets/Arch2.jpg) |
-| **Location** |  |
-|  | [The Arch (Old Island Connector location) Location](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png) |
+| | [Arch2](../assets/Arch2.jpg) |
+| **Location** | |
+| | [The Arch (Old Island Connector location) Location](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png) |
 | Region | [Old Island Connector](./Crumbling%20Highway.md) |
 | Description | A rock formation |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 _See also: [The Arch (Milton)](./The%20Arch%20%28Mountain%20Town%20location%29.md)._
 

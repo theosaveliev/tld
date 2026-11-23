@@ -15,17 +15,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Risk of Intestinal Parasites icon](../assets/Risk_of_Intestinal_Parasites_icon.png) |
+| | [Risk of Intestinal Parasites icon](../assets/Risk_of_Intestinal_Parasites_icon.png) |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-321-tireless-menace-update) |
 | Update | 0.321 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Game meat from carnivorous animals may be infected with parasites. |
 | Caused By | Raw/Cooked predator meat |
 | Effect | Negative |
 | Type | Risk |
 | Affliction Duration | Until Treated |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Stop eating infected meat |
 | Alternate Treatment | Reach Level 5 [Cooking](./Cooking.md) to safely eat cooked meat |
 | Recovery Time | 24 Hours |

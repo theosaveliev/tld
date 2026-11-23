@@ -15,8 +15,6 @@
 
 ![Back](../assets/SS-MT-Orca-01.jpg)
 
-|
-
 **Location**
 
 ![Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png)

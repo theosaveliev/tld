@@ -14,21 +14,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bandage icon](../assets/Bandage_icon.png) |
+| | [Bandage icon](../assets/Bandage_icon.png) |
 | Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-094) |
 | Wintermute | yes |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Bandage suitable for stopping blood loss or binding to constrict movement on an injury. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0% per day |
 | Outside | 0% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Bandage |
 
 A **Bandage** is a [First Aid](./First%20Aid.md) cloth used for stopping bleeding or limb immobilization in _[The Long Dark](./The%20Long%20Dark.md)_.
@@ -60,7 +60,7 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 
 Bandages can be used to treat the following afflictions:
 
-|  | Affliction | Treatments required |
+| | Affliction | Treatments required |
 | --- | --- | --- |
 |  | [Blood Loss](./Blood%20Loss.md) | - 1 [Bandage](./Bandage.md) |
 |  | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md); - 4 [Painkillers](./Painkillers.md) |

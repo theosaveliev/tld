@@ -14,17 +14,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Frontier Shooting Guide icon](../assets/Frontier_Shooting_Guide_icon.png) |
+| | [Frontier Shooting Guide icon](../assets/Frontier_Shooting_Guide_icon.png) |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Reprint of a late 19th-century handbook about shooting, meant for green pioneers. Researching this will improve your Skill. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Research, Drop |
 
 _For the version encountered in [Wintermute](./Wintermute.md), see [Frontier Shooting Guide (Survival School)](./Frontier%20Shooting%20Guide%20%28Survival%20School%29.md)._
@@ -48,7 +48,7 @@ Research can only be performed under the following conditions:
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +35% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |

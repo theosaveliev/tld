@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Beneath a Starry Sky icon](../assets/Beneath_a_Starry_Sky_icon.png) |
+| | [Beneath a Starry Sky icon](../assets/Beneath_a_Starry_Sky_icon.png) |
 | Description | Survive 3 consecutive Nights outside (single game) |
 
 **Beneath a Starry Sky** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Unyielding Inundation](../assets/Unyielding_Inundation.jpg) |
-| **Location** |  |
-|  | [Unyielding Inundation Location](../assets/Unyielding_Inundation_Location.png) |
+| | [Unyielding Inundation](../assets/Unyielding_Inundation.jpg) |
+| **Location** | |
+| | [Unyielding Inundation Location](../assets/Unyielding_Inundation_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Unyielding Inundation** is a location in [Sundered Pass](./Sundered%20Pass.md) just up the road from [Final Refuge](./Final%20Refuge.md).
 

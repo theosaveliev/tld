@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Final Approach Close](../assets/Final_Approach_Close.jpg) |
-| **Location** |  |
-|  | [Final Approach Location](../assets/Final_Approach_Location.png) |
+| | [Final Approach Close](../assets/Final_Approach_Close.jpg) |
+| **Location** | |
+| | [Final Approach Location](../assets/Final_Approach_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Northwest part of the Forsaken Airfield |
 | Description | A rescue helicopter crashed near a frozen pond |
-| **General** |  |
-| Type |  |
-| Firebox |  |
+| **General** | |
+| Type | |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Final Approach** is a crashed helicopter in [Forsaken Airfield](./Forsaken%20Airfield.md).
 

@@ -14,18 +14,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) |
+| | [Cedar Firewood icon](../assets/Cedar_Firewood_icon.png) |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md) |
 | Equipable | No |
 | Stackable | yes |
 | Examine | Cedar burns with an aromatic glow, but doesn't burn for long. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | gear\_softwood |
 
 **Cedar Firewood** is a fuel item in _The Long Dark_.
@@ -37,7 +37,7 @@
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 60 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 15% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +6°C (+10.8°F) |

@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Suffocation Risk icon](../assets/Suffocation_Risk_icon.png) |
+| | [Suffocation Risk icon](../assets/Suffocation_Risk_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Update | 1.95 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die. |
 | Caused By | Polluted Air |
 | Effect | Negative |
 | Type | Risk |
 | Affliction Duration | Until Treated |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Find breathable air or equip a [Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with [Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md) |
 | Recovery Time | Immediate |
 

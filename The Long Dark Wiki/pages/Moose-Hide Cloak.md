@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Moose Hide Cloak icon](../assets/Moose-Hide_Cloak_icon.png) |
-| **General** |  |
+| | [Moose Hide Cloak icon](../assets/Moose-Hide_Cloak_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.5 °C(6.3 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |

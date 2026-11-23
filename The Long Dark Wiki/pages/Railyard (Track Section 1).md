@@ -12,14 +12,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location** |  |
-|  | [Railyard Track Section 1 Location](../assets/Railyard_Track_Section_1_Location.png) |
+| | [No picture](../assets/No_picture.png) |
+| **Location** | |
+| | [Railyard Track Section 1 Location](../assets/Railyard_Track_Section_1_Location.png) |
 | Region | [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) |
 | Location | West and East of the map |
 | Description | 2 railyards |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Railyard** is a set of 2 locations in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md).
 

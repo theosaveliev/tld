@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Ribs icon](../assets/Broken_Ribs_icon.png) |
+| | [Broken Ribs icon](../assets/Broken_Ribs_icon.png) |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Update | 1.16 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals. |
 | Caused By | [Moose](./Moose.md) [Struggle](./Struggle.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Treated + Recovery Time |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | 2 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x [Painkillers icon](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md) |
 | Alternate Treatment | 2 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
 | Recovery Time | 120 Hours |

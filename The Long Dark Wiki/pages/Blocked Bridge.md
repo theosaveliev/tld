@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blockedbridge](../assets/Blockedbridge.jpg) |
-| **Location** |  |
-|  | [Blocked Bridge Location](../assets/Blocked_Bridge_Location.png) |
-| Region |  |
-| **General** |  |
+| | [Blockedbridge](../assets/Blockedbridge.jpg) |
+| **Location** | |
+| | [Blocked Bridge Location](../assets/Blocked_Bridge_Location.png) |
+| Region | |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Blocked Bridge** is a location in [Blackrock](./Blackrock.md).
 

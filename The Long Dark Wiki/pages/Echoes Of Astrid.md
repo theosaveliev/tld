@@ -15,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg) |
+| | [Echoes Of Astrid](../assets/Echoes_Of_Astrid.jpg) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
 | Current | Echoes Of Astrid |
 | Next | [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) |

@@ -49,7 +49,7 @@ Glimmer Fog shares similarities to Auroras, but both weather types are distinct.
 
 **Aurora and Glimmer Fog Properties**
 
-|  | Aurora | Glimmer Fog |
+| | Aurora | Glimmer Fog |
 | --- | --- | --- |
 | Occurs | Night | Day |
 | Powers Electronics | Yes | Yes |

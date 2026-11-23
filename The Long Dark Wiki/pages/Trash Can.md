@@ -8,8 +8,6 @@
 
 ![Rusty](../assets/Trash_Can_Rusty.jpg)
 
-|
-
 Release
 
 TBD

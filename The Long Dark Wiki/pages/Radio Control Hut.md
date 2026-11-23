@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [RadioControlHutOutside](../assets/RadioControlHutOutside.jpg) |
-| **Location** |  |
-|  | [RadioControlHutMap](../assets/RadioControlHutMap.jpg) |
+| | [RadioControlHutOutside](../assets/RadioControlHutOutside.jpg) |
+| **Location** | |
+| | [RadioControlHutMap](../assets/RadioControlHutMap.jpg) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | An abandoned radio control hut, standing at the tip of the Echo One Radio Tower plateau. |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
-| Firebox |  |
-| [Bed icon](../assets/Bed_icon.png) |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior |
+| Firebox | |
+| [Bed icon](../assets/Bed_icon.png) | |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | |
+| | Has an interior |
 
 **Radio Control Hut** is a location found in [Bleak Inlet](./Bleak%20Inlet.md) on the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) plateau. It can easily be found by looking for the large red-and-white transmitter standing next to it and makes it one of the easiest landmarks to identify in the region.
 

@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Notebook Page (Survival 2) icon](../assets/Notebook_Page_%28Survival_2%29_icon.png) |
+| | [Notebook Page (Survival 2) icon](../assets/Notebook_Page_%28Survival_2%29_icon.png) |
 | Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

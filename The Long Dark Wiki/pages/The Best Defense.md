@@ -13,9 +13,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png) |
+| | [Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
 | Current | The Best Defense |
 | Next | [Signal to Noise](./Signal%20to%20Noise.md) |

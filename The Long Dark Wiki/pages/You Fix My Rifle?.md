@@ -21,9 +21,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
+| | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Risk of Infection](./Risk%20of%20Infection.md) |
 | Current | You Fix My Rifle? |
 | Next | [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) |
@@ -85,6 +85,7 @@ Continue to follow the tracks through the next tunnel into Mystery Lake, then on
 
 If asked about the lights in the sky, the trapper will admit they seem different than the usual aurora borealis. Mackenzie mentions how the lights seem to temporarily 'power things up' but the trapper hasn't seen anything like that. He doesn't have any electricity going to his cabin but won't tell Mackenzie why. After each survival skill, players will need to talk to Jeremiah about 'Survival Skills' again.
 
+<a id="jeremiah-s-trust"></a>
 ## Jeremiah's Trust
 
 From this point on, Jeremiah's Trust can be gained by giving the following items. (Note that completing missions will also gain Trust)

@@ -1,3 +1,4 @@
+<a id="don-t-starve"></a>
 # Don't Starve
 
 **Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Don't_Starve)
@@ -6,7 +7,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Don't Starve icon](../assets/Don%27t_Starve_icon.png) |
+| | [Don't Starve icon](../assets/Don%27t_Starve_icon.png) |
 | Description | Keep calorie store above zero for 10 days. |
 
 **Don't Starve** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

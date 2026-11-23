@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tactical Gloves icon](../assets/Tactical_Gloves_icon.png) |
-| **General** |  |
+| | [Tactical Gloves icon](../assets/Tactical_Gloves_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Hands |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg) |
-| **Location** |  |
+| | [Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg) |
+| **Location** | |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A basement located below [Old Settlement](./Old%20Settlement.md) |
-| **General** |  |
+| **General** | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Basement (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
 

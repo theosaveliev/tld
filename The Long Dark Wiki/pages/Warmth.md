@@ -69,6 +69,7 @@ If one is freezing and has no hope of getting out of a freezing status due to th
 
 Note that exposed skin is prone to [frostbite](./Afflictions.md), which causes irreversible condition loss, so removing clothing, particularly while outdoors in cold, windy conditions can have more severe side effects.
 
+<a id="wet-frozen-clothing"></a>
 ## Wet/frozen clothing
 
 If clothing becomes substantially wet then it will lower the total warmth factor of that article of clothing, thereby affecting the player's total "feel like" warmth rating. If wet clothing is not dried off from being indoors or near a fire, it has a chance to freeze over. Wearing frozen clothing will not only degrade the total warmth value of the clothing item, but can also result in [Frostbite](./Frostbite.md) in the area of the body it currently being worn on (ex: Frozen mittens will start causing Frostbite in the hands) if it is not removed. it is generally advised to remove or swap out wet/frozen clothing so that is can be unfrozen and dried in order to keep the player warm.

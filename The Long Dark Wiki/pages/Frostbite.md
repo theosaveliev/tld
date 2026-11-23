@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Frostbite icon](../assets/Frostbite_icon.png) |
-| **Properties** |  |
+| | [Frostbite icon](../assets/Frostbite_icon.png) |
+| **Properties** | |
 | Category | [Affliction](./Afflictions.md) |
 | Description | You have sustained frostbite. Your general condition is permanently reduced. |
 | Caused By | Exposed Bare Skin to the cold Wearing Frozen [Clothing](./Clothing.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | No Treatment |
 
 **Frostbite** is a physical Injury acquired from having bare skin exposed to the cold for too long and not managing [Frostbite Risk](./Frostbite%20Risk.md), and permanently reduces overall [Condition](./Condition.md) by 10%.

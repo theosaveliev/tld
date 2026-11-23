@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Frostbite Risk icon](../assets/Frostbite_Risk_icon.png) |
-| **Properties** |  |
+| | [Frostbite Risk icon](../assets/Frostbite_Risk_icon.png) |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite. |
 | Caused By | No [Clothing](./Clothing.md) on body parts / Bare Skin exposed to inner layer Frozen Clothing |
 | Effect | Negative |
 | Type | Risk |
 | Affliction Duration | Until Treated |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Warm and cover exposed body part |
 
 **Frostbite Risk** is incurred when a player's bare skin is exposed to freezing conditions, particularly with severe windchill.

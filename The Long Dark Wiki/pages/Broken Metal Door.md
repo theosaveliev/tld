@@ -6,8 +6,6 @@
 
 ![20190302005444 1](../assets/20190302005444_1.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -28,4 +26,4 @@ The **Broken Metal Door**is a detached locker door that can be found mainly in i
 
 | Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
 | --- | --- | --- | --- | --- |
-| Broken Metal Door | 2 | 45 minutes |  | -5% |
+| Broken Metal Door | 2 | 45 minutes | | -5% |

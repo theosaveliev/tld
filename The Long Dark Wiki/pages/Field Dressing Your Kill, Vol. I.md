@@ -20,17 +20,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) |
+| | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Detailed information about the best way to butcher animal carcasses. Researching this will improve your Skill. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Research, Drop |
 
 _For the version encountered in [Wintermute](./Wintermute.md), see [Field Dressing Your Kill, Vol. I (The Basics of Survival)](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I%20%28The%20Basics%20of%20Survival%29.md)._
@@ -56,7 +56,7 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +35% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |

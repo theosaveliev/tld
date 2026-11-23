@@ -44,13 +44,13 @@ This Experience also introduces Two new Afflictions;
 
 | DIFFICULTY | VOYAGEUR |
 | --- | --- |
-| GAME START |  |
+| GAME START | |
 | Baseline resource availability | High |
 | Starting time of day | Random |
 | Starting weather | Heavy Fog |
 | Indoor spawns permitted | Yes |
 | Survivor monologue | Yes |
-| ENVIRONMENT |  |
+| ENVIRONMENT | |
 | Length of day multiplier | 1x |
 | Weather variability | Medium |
 | Blizzard frequency | Medium |
@@ -59,7 +59,7 @@ This Experience also introduces Two new Afflictions;
 | Aurora frequency | Medium |
 | Fire overcomes ambient air temp | Yes |
 | Endless night (v1.83) | No |
-| HEALTH |  |
+| HEALTH | |
 | Calorie burn rate | Medium |
 | Thirst rate | Medium |
 | Fatigue rate | High |
@@ -79,7 +79,7 @@ This Experience also introduces Two new Afflictions;
 | Fires prevent freezing | Yes |
 | Wake up player when freezing near a fire | Yes |
 | Birch bark tea crafting **(v.1.64)** | Yes |
-| GEAR |  |
+| GEAR | |
 | Item decay rate | Medium |
 | Loose item availability | High |
 | Empty container chance modifier | None |
@@ -89,7 +89,7 @@ This Experience also introduces Two new Afflictions;
 | Revolver availability **(v.1.64)** | Yes |
 | Harvestable plant availability | High |
 | Reduce container item density | None |
-| WILDLIFE SPAWNS |  |
+| WILDLIFE SPAWNS | |
 | Cougar spawn chance | Medium |
 | Wolf spawn chance | Medium |
 | Timberwolf spawn chance | Medium |
@@ -101,7 +101,7 @@ This Experience also introduces Two new Afflictions;
 | Reduce wildlife population over time | Low |
 | Wolf spawn distance | Close |
 | Predator grace period | Yes |
-| WILDLIFE BEHAVIOUR |  |
+| WILDLIFE BEHAVIOUR | |
 | Wildlife smell range | Medium |
 | Scent increase from Meat/Blood | Medium |
 | Passive wildlife | No |
@@ -109,7 +109,7 @@ This Experience also introduces Two new Afflictions;
 | Wolf fear | Medium |
 | Timberwolf morale | Medium |
 | Wildlife detection range | Medium |
-| WILDLIFE STRUGGLE |  |
+| WILDLIFE STRUGGLE | |
 | Struggle bonus | Medium |
 | Struggle condition damage modifier | None |
 | Struggle clothing damage modifier | Low |

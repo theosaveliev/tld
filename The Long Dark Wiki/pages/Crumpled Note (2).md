@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Crumpled Note (2) icon](../assets/Crumpled_Note_%282%29_icon.png) |
+| | [Crumpled Note (2) icon](../assets/Crumpled_Note_%282%29_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A handwritten note on grease-stained paper. Most of the text is illegible. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

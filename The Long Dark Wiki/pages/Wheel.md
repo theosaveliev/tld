@@ -8,8 +8,6 @@
 
 ![Broken](../assets/Wheel_%28broken%29.png)
 
-|
-
 Release
 
 1 August 2017

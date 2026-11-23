@@ -1,3 +1,4 @@
+<a id="the-wounded-trapper-transcript"></a>
 # The Wounded Trapper/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper%2FTranscript)
@@ -14,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png) |
+| | [Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |
 | Current | The Wounded Trapper/Transcript |
 | Next | [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) |

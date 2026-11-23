@@ -1,3 +1,4 @@
+<a id="archie-s-crawlspace"></a>
 # Archie's Crawlspace
 
 **Categories:** Indoor locations, Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Archie's_Crawlspace)
@@ -6,15 +7,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Screen 07396e10 f97f 47ed 8f34 e3083be6fa00 hi](../assets/Screen_07396e10-f97f-47ed-8f34-e3083be6fa00_hi.png) |
-| **Location** |  |
-|  | [Archie's Crawlspace Location](../assets/Archie%27s_Crawlspace_Location.png) |
+| | [Screen 07396e10 f97f 47ed 8f34 e3083be6fa00 hi](../assets/Screen_07396e10-f97f-47ed-8f34-e3083be6fa00_hi.png) |
+| **Location** | |
+| | [Archie's Crawlspace Location](../assets/Archie%27s_Crawlspace_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | The northeastern part of the region. |
-| **General** |  |
-| Type |  |
-| [Bed icon](../assets/Bed_icon.png) |  |
-|  | Has an interior |
+| **General** | |
+| Type | |
+| [Bed icon](../assets/Bed_icon.png) | |
+| | Has an interior |
 
 **Archie's Crawlspace** is a small cave in the south part of the [Drift Island](./Drift%20Island.md) to the east of [Cove](./Cove.md).
 

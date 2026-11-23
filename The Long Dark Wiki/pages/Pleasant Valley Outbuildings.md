@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [305620 20160918104124 1](../assets/305620_20160918104124_1.png) |
-| **Location** |  |
-|  | [Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png) |
+| | [305620 20160918104124 1](../assets/305620_20160918104124_1.png) |
+| **Location** | |
+| | [Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 _Not to be confused with [Molly's Barn](./Barn%20%28Molly%27s%29.md)._
 
@@ -35,5 +35,3 @@ FOREST TALKERS 2 is past the workbench near a metal container on the upper floor
 ![Sunrise at the entrance](../assets/Screen_76d48679-c72a-44eb-bf02-8c4bac515038_hi.png)
 
 ![Blue Flare Long Dark](../assets/Blue_Flare_Long_Dark.png)
-
-[ru:Строения в отрадной долине](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BE%D1%82%D1%80%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9_%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5) [es:Establo](https://es.wikipedia.org/wiki/Establo)

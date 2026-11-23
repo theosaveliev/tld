@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Sure Footing icon](../assets/Sure_Footing_icon.png) |
+| | [Sure Footing icon](../assets/Sure_Footing_icon.png) |
 | Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
 | Update | 1.89 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving. |
 | Caused By | Worn [Clothing](./Clothing.md) |
 | Effect | Positive |
 | Type | Benefit |
 | Benefit Duration | Until / [Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | GAMEPLAY\_CramponsBenefit |
 
 > “**The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.**”
@@ -29,7 +29,7 @@
 
 Sure Footing is received when wearing any of the following items:
 
-|  | Clothing |
+| | Clothing |
 | --- | --- |
 |  | [Crampons](./Crampons.md) |
 |  | [Improvised Crampons](./Improvised%20Crampons.md) |
@@ -38,9 +38,9 @@ Sure Footing is received when wearing any of the following items:
 
 This affliction causes the following effects:
 
-|  | Effect | Accessory |
+| | Effect | Accessory |
 | --- | --- | --- |
-| [Crampons](./Crampons.md) | [Improvised Crampons](./Improvised%20Crampons.md) |  |
+| [Crampons](./Crampons.md) | [Improvised Crampons](./Improvised%20Crampons.md) | |
 |  | [Sprain Risk](./Sprain%20Risk.md) reduction | 50% |
 |  | [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) | 60 per second |
 |  | [Weak Ice](./Weak%20Ice.md) time increase | 1 second |

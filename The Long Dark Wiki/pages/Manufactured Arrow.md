@@ -11,7 +11,7 @@
 - [Arrow condition loss on Impact (Increased by perpendicular hits)](#arrow-condition-loss-on-impact-increased-by-perpendicular-hits)
 - [Trivia](#trivia)
 - [Gallery](#gallery)
-- Update history
+- [Update history](#update-history)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -23,16 +23,16 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png) |
+| | [Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Commercially crafted Arrows made of metal alloy. Heavier, but more deadly and durable. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.15 kg (0.33 lbs) |
 
 **Manufactured Arrows** are non-craftable ammunition items for the [Survival Bow](./Survival%20Bow.md) and its variants.
@@ -91,3 +91,5 @@ Manufactured arrows are unique in that they inflict more damage against [animals
 ![Inspecting](../assets/Manufactured_Arrow_Inspect.png)
 
 ![The unique arrows lodged in the Old Bears back, slightly resembling manufactured arrows.](../assets/Old_Bear_Arrows.png)
+
+## Update history

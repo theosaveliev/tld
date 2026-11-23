@@ -39,11 +39,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Moose](../assets/Moose.png) |
-| **Basic Information** |  |
+| | [Moose](../assets/Moose.png) |
+| **Basic Information** | |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) |
 | Role | Prey |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Brown |
 | Size | Large |
 | Eyes | Brown |
@@ -62,7 +62,7 @@ Moose are the largest and toughest of prey animals and can be dangerous if provo
 
 A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) and 12 guts. Moose hides can be cured to craft [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always (1) |
 | [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always (2) |
@@ -71,7 +71,7 @@ A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of r
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
 
@@ -294,8 +294,6 @@ _Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)_
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update)):**
   - Added the Moose to all Survival Mode regions.
-
-[ru:Лось](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D1%8C) [es:Alce](https://es.wikipedia.org/wiki/Alce)
 
 ## Notes
 

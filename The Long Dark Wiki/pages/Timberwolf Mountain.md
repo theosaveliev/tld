@@ -18,11 +18,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png) |
-|  | [Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png) |
-| **Details** |  |
+| | [Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png) |
+| | [Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png) |
+| **Details** | |
 | Description | A harsh mountainous region with scarce resources and many [Rope Climbing](./Rope%20Climbing.md) spots. |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md) |
 | Difficulty | Advanced |
@@ -151,8 +151,6 @@ Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%
   - Now, a pack may spawn near the [Wing](./Wing.md) and [Crystal Lake](./Crystal%20Lake.md).
 
 ## References
-
-[es:Montaña de lobos](https://es.wikipedia.org/wiki/Monta%C3%B1a_de_lobos) [ru:Волчья гора](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0) [fr:Mont Timberwolf](https://fr.wikipedia.org/wiki/Mont_Timberwolf) [de:Wolfsberg](https://de.wikipedia.org/wiki/Wolfsberg)
 
 ## Notes
 

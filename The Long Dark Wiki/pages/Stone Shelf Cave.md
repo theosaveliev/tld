@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20201212003001 1](../assets/20201212003001_1.jpg) |
-| **Location** |  |
-|  | [Stone Shelf Cave Location](../assets/Stone_Shelf_Cave_Location.png) |
+| | [20201212003001 1](../assets/20201212003001_1.jpg) |
+| **Location** | |
+| | [Stone Shelf Cave Location](../assets/Stone_Shelf_Cave_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Stone Shelf Cave** is a small cave in [Ash Canyon](./Ash%20Canyon.md) located in the west side of the region.
 

@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Donner (mission)](./Donner%20%28mission%29.md) |
 | Current | Perseverance |
 | Next | [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md) |

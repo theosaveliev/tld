@@ -14,7 +14,7 @@ Wax Cylinders are the most unique Collectibles because their audio can be played
 
 | Cylinder # | Region | Location | Narrator |
 | --- | --- | --- | --- |
-| [Wax Cylinder Player](./Wax%20Cylinder%20Player.md) | [Desolation Point](./Desolation%20Point.md) | [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) |  |
+| [Wax Cylinder Player](./Wax%20Cylinder%20Player.md) | [Desolation Point](./Desolation%20Point.md) | [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) | |
 | [Wax Cylinder 1](./Wax%20Cylinder%201.md) | [Desolation Point](./Desolation%20Point.md) | [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) | Alice McLeod |
 | [Wax Cylinder 2](./Wax%20Cylinder%202.md) | [Desolation Point](./Desolation%20Point.md) | [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md) | Alice McLeod |
 | [Wax Cylinder 3](./Wax%20Cylinder%203.md) | [Port Remnant](./Port%20Remnant.md) | [Desecrated Church](./Desecrated%20Church.md) | Alice McLeod |

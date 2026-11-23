@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Page (2) icon](../assets/Page_%282%29_icon.png) |
+| | [Page (2) icon](../assets/Page_%282%29_icon.png) |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-02) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A page from a diary. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

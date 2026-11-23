@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Main Menu Weather Station](../assets/Main_Menu_Weather_Station.jpg) |
-| **Location** |  |
-|  | [Weather Station Location](../assets/Weather_Station_Location.png) |
+| | [Main Menu Weather Station](../assets/Main_Menu_Weather_Station.jpg) |
+| **Location** | |
+| | [Weather Station Location](../assets/Weather_Station_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
-| **General** |  |
+| **General** | |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 **Weather Station** is a location in [Sundered Pass](./Sundered%20Pass.md), not far from [Second Pillar](./Second%20Pillar.md).
 

@@ -1,3 +1,4 @@
+<a id="smoker-s-cave"></a>
 # Smoker's Cave
 
 **Categories:** Locations, Locations in Zone of Contamination, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Smoker's_Cave)
@@ -6,12 +7,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Smoker's Cave](../assets/Smoker%27s_Cave.jpg) |
-| **Location** |  |
-|  | [Smoker's Cave Location](../assets/Smoker%27s_Cave_Location.png) |
+| | [Smoker's Cave](../assets/Smoker%27s_Cave.jpg) |
+| **Location** | |
+| | [Smoker's Cave Location](../assets/Smoker%27s_Cave_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
-| **General** |  |
-|  | Provides some shelter |
+| **General** | |
+| | Provides some shelter |
 
 **Smoker's Cave** is an unmarked cave in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 

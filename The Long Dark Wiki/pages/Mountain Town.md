@@ -10,17 +10,16 @@
 - [Notes](#notes)
 - [Maps](#maps)
 - [Game History](#game-history)
-- [References](#references)
 
 **Mountain Town**
 
 | Property | Details |
 | --- | --- |
-|  | [Mountain town titlecard](../assets/Mountain_town_titlecard.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Mountain Town Location](../assets/Mountain_Town_Location.png) |
-|  | [Mountain Town map](../assets/Mountain_Town_map.png) |
-| **Details** |  |
+| | [Mountain town titlecard](../assets/Mountain_town_titlecard.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Mountain Town Location](../assets/Mountain_Town_Location.png) |
+| | [Mountain Town map](../assets/Mountain_Town_map.png) |
+| **Details** | |
 | Description | A small abandoned town nestled in the mountains. |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Characters | [Grey Mother](./Grey%20Mother.md) [Methuselah](./Methuselah.md) |
@@ -123,12 +122,6 @@ _The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is 
 - Mountain Town was added to the game on 1 August 2017 in the [Wintermute update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release).
 - Mountain Town became available in Survival Mode on 7 December 2017 in the [Rugged Sentinel](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-16-rugged-sentinel-update) update.
 - Mountain Town map has changed with Wintermute Redux update.
-
-## References
-
-[ru:Милтон](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD)
-
-[es:Pueblo de montaña](https://es.wikipedia.org/wiki/Pueblo_de_monta%C3%B1a) [fr:Milton](https://fr.wikipedia.org/wiki/Milton)
 
 ## Notes
 

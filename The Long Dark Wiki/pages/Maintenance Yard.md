@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Maintenance yard building](../assets/Maintenance_yard_building.jpg) |
-| **Location** |  |
-|  | [Maintenance Yard Location](../assets/Maintenance_Yard_Location.png) |
+| | [Maintenance yard building](../assets/Maintenance_yard_building.jpg) |
+| **Location** | |
+| | [Maintenance Yard Location](../assets/Maintenance_Yard_Location.png) |
 | Region | [Broken Railroad](./Broken%20Railroad.md) |
 | Location | North-east of the [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md) |
 | Description | A large indoor maintenance yard and office |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
 | Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
-| **Wintermute** |  |
+| | Has an interior |
+| **Wintermute** | |
 | Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#the-best-defense) |
 
 **Maintenance Yard** is a location in [Broken Railroad](./Broken%20Railroad.md).

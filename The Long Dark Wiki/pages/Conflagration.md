@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [To SAR And Back](./To%20SAR%20And%20Back.md) |
 | Current | Conflagration |
 | Region | [Perseverance Mills](./Perseverance%20Mills.md) |

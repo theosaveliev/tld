@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Water Tower Resized](../assets/Water_Tower_Resized.png) |
-| **General** |  |
+| | [Water Tower Resized](../assets/Water_Tower_Resized.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 | Renewable | yes |

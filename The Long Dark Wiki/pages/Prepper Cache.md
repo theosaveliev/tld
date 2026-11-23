@@ -38,8 +38,6 @@
 
 ![Interior](../assets/Prepper_cache_interior.png)
 
-|
-
 **Location**
 
 Location
@@ -112,6 +110,7 @@ Type 1 bunker (Kitchen) loot:
 - 10 hours worth of fuel in [Firelogs](./Firelog.md)
 - 5500 kcal of various food
 
+<a id="abandoned-version-interloper-misery"></a>
 #### Abandoned version (Interloper/Misery)
 
 On Interloper and Misery levels, this cache has sparse loot and almost no furniture. Players undertaking [Sutherland's Tale](./Sutherland%27s%20Tale.md) will need to identify this bunker for Special Request 1.
@@ -152,6 +151,7 @@ Type 2 bunker (Hunter) loot:
 - [Quality Tools](./Quality%20Tools.md)
 - [FastFilms](./Camera.md)
 
+<a id="abandoned-version-interloper-misery-1"></a>
 #### Abandoned version (Interloper/Misery)
 
 For Interloper and Misery players, this cache can be identified by its L-shaped layout and the green crate that is unique to this cache. Identifying this cache is needed to complete Special Request 2.
@@ -215,6 +215,7 @@ Type 3 bunker (Conspiracy Type 2) loot:
 - Several environmental items that can be broken down such as: [Metal Shelf](./Metal%20Shelf.md), [Crate](./Crate.md), [Table](./Table.md), [Cloth (Object)](./Cloth%20%28Object%29.md), [Cardboard Box](./Cardboard%20Box.md), [Metal Lamp](./Metal%20Lamp.md), [Chair](./Chair.md)
 - A [Safe](./Safe.md) hidden behind a Crate and Metal Shelf left of the entrance ladder, with possible contents of a [Flare Shell](./Flare%20Shell.md), [Cash](./Cash.md), [Expedition Parka](./Expedition%20Parka.md), [Mukluks](./Mukluks.md), or [Rifle Ammunition](./Rifle%20Ammunition.md). [Cash](./Cash.md) and a [Gold Nugget](./Gold%20Nugget.md) also has a chance to spawn inside (though this is not guaranteed unlike the previous Conspiracy Bunker type).
 
+<a id="abandoned-version-interloper-misery-2"></a>
 #### Abandoned version (Interloper/Misery)
 
 For Interloper and Misery players, the Conspiracy Cache can be identified for having a red-painted corridor and a radiation sign on the wall. Identifying this cache is necessary to complete Special Request 3 as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
@@ -242,6 +243,7 @@ Type 5 bunker (abandoned) loot:
 - [Corpse](./Corpse.md)
 - All Caches spawn with Abandoned quantities of loot on Interloper and Misery. The Stockpile (kitchen) bunker will contain the [Prepper's Pie](./Prepper%27s%20Pie.md) Recipe Card.
 
+<a id="tom-joplin-s-cache"></a>
 ### Tom Joplin's Cache
 
 > “**There's one more bunker you can check. One of old man Joplin's in Pleasant Valley. On the way to Timberwolf. He wasn't in their crew, but Wyatt set up his prepper caches.**”
@@ -356,8 +358,6 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 - [Wikipedia - Survivalism](https://en.wikipedia.org/wiki/Survivalism)
 - [Steam - The Long Dark Topo Maps w/Bunker locations](http://steamcommunity.com/sharedfiles/filedetails/?id=329661571)
 - [Wikipedia - Fallout Shelter](https://en.wikipedia.org/wiki/Fallout_shelter)
-
-[ru:Запас для выживания](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%81_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) [es:Bunkers](https://es.wikipedia.org/wiki/Bunkers)
 
 ## Notes
 

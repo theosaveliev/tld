@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Screen cff25cc7 7169 49a4 81a8 b5e18afd70ae hi](../assets/Screen_cff25cc7-7169-49a4-81a8-b5e18afd70ae_hi.jpg) |
-| **Location** |  |
-|  | [Cannery Worker Residences Location](../assets/Cannery_Worker_Residences_Location.png) |
+| | [Screen cff25cc7 7169 49a4 81a8 b5e18afd70ae hi](../assets/Screen_cff25cc7-7169-49a4-81a8-b5e18afd70ae_hi.jpg) |
+| **Location** | |
+| | [Cannery Worker Residences Location](../assets/Cannery_Worker_Residences_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | north of the [Fallen Lighthouse](./Fallen%20Lighthouse.md) |
 | Description | small cabins in varying states of disrepair |
-| **General** |  |
+| **General** | |
 | Type | IndustrialMilitary/Sporting |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 The **Cannery Worker Residences** is a collection of houses that once probably housed some of the employees of the [Last Resort Cannery](./Last%20Resort%20Cannery.md).
 

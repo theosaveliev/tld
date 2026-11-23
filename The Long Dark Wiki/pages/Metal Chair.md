@@ -10,8 +10,6 @@
 
 ![Bench](../assets/MetalChairBench.jpg)
 
-|
-
 **General**
 
 Item Type

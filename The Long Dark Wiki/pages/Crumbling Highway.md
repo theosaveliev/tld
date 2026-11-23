@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Crumbling Highway Location](../assets/Crumbling_Highway_Location.png) |
-|  | [Old Island Connector map](../assets/Old_Island_Connector_map.png) |
-| **Details** |  |
+| | [RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Crumbling Highway Location](../assets/Crumbling_Highway_Location.png) |
+| | [Old Island Connector map](../assets/Old_Island_Connector_map.png) |
+| **Details** | |
 | Description | A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md). |
 | Connecting Regions | [Coastal Highway](./Coastal%20Highway.md), / [Desolation Point](./Desolation%20Point.md) |
 | Locations | 5 |
@@ -65,5 +65,3 @@ There are also 2 unmarked locations in the region.
 ![An alternative view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway_02.jpg)
 
 ![A view of the entrance to Abandoned Mine No.3 (West).](../assets/Abandoned_Mine_No.3_%28West%29.jpg)
-
-[es:Autovía derruida](https://es.wikipedia.org/wiki/Autov%C3%ADa_derruida) [ru:Старый остров между зонами](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%B7%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8)

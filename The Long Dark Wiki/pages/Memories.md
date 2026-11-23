@@ -22,9 +22,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Memories](../assets/Memories.png) |
+| | [Memories](../assets/Memories.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | None |
 | Current | Memories |
 | Next | [The Crash](./The%20Crash.md) |

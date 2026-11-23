@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Power Plant](../assets/The_Power_Plant.png) |
-| Episode |  |
-| **Missions** |  |
+| | [The Power Plant](../assets/The_Power_Plant.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Blackrock Blues](./Blackrock%20Blues.md) |
 | Current | The Power Plant |
 | Next | [The Detonators](./The%20Detonators.md) |

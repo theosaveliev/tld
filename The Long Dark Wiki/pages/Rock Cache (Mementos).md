@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rock Cache (Mementos)](../assets/Rock_Cache_%28Mementos%29.jpg) |
+| | [Rock Cache (Mementos)](../assets/Rock_Cache_%28Mementos%29.jpg) |
 | Release | Part 1 TFTFT |
 | Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 

@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bushcraft Bow Blueprint Card icon](../assets/Bushcraft_Bow_Blueprint_Card_icon.png) |
+| | [Bushcraft Bow Blueprint Card icon](../assets/Bushcraft_Bow_Blueprint_Card_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Instructions for Crafting a Bushcraft Bow. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

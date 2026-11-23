@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) |
-| **General** |  |
+| | [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) |
+| **General** | |
 | Item Type | Fire Starting |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
 | Firestarting Slot | Starter |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+0% |
 | Unit count | [Unit count icon](../assets/Unit_count_icon.png)20match |

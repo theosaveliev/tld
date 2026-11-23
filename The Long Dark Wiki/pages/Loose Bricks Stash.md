@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Loose Bricks](../assets/Loose_Bricks.png) |
+| | [Loose Bricks](../assets/Loose_Bricks.png) |
 
 **Loose Bricks Stash** are a unique type of container only found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 

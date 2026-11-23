@@ -20,11 +20,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Forsaken Airfield](../assets/Forsaken_Airfield.jpg) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Forsaken Airfield Location](../assets/Forsaken_Airfield_Location.png) |
-|  | [Forsaken Airfield In game Map](../assets/Forsaken_Airfield_In-game_Map.png) |
-| **Details** |  |
+| | [Forsaken Airfield](../assets/Forsaken_Airfield.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Forsaken Airfield Location](../assets/Forsaken_Airfield_Location.png) |
+| | [Forsaken Airfield In game Map](../assets/Forsaken_Airfield_In-game_Map.png) |
+| **Details** | |
 | Description | A small airstrip situated within an expansive wind blasted valley basin |
 | Connecting Regions | [Transfer Pass](./Transfer%20Pass.md) [Zone of Contamination](./Zone%20of%20Contamination.md) or [Sundered Pass](./Sundered%20Pass.md) (Through Transition Cave) |
 | TFTFT paid content | Yes |

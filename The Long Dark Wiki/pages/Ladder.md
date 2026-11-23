@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ladder](../assets/Ladder.jpg) |
-| **General** |  |
+| | [Ladder](../assets/Ladder.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

@@ -19,24 +19,24 @@ _For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Cof
 
 | Property | Details |
 | --- | --- |
-|  | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) |
+| | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A cup of coffee. |
-| **Values** |  |
+| **Values** | |
 | Calories | 100 kcal |
 | Hydration | 30% |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drink, Drop |
 | Radial | Drink, Place |
 | On ground | Take It, Drink It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CoffeeCup |
 
 A **Cup of Coffee** is a [Drink](./Food%20And%20Drink.md) which recovers 30% [Hydration](./Thirst.md) and provides 100 calories. Consuming a Cup of Coffee also gives the [Fatigue Reduced](./Fatigue%20Reduced.md) benefit. It is a much stronger version of a [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md). They can sometimes be found inside [Microwaves](./Microwave.md).
@@ -67,41 +67,41 @@ A Cup of Coffee can be consumed while either cold or hot. The following effects 
 
 | Property | Details |
 | --- | --- |
-| **Condition** |  |
-|  | [Warmth icon](../assets/Warmth_icon.png) |
-|  | [Warmth](./Warmth.md) |
-|  | [Fatigue icon](../assets/Fatigue_icon.png) |
-|  | [Fatigue](./Fatigue.md) |
-|  | [Thirst icon](../assets/Thirst_icon.png) |
-|  | [Thirst](./Thirst.md) |
-|  | [Hunger icon](../assets/Hunger_icon.png) |
-|  | [Hunger](./Hunger.md) |
-| **Afflictions** |  |
-|  | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
-|  | [Fatigue Reduced](./Fatigue%20Reduced.md) |
-|  | 1 hour |
-|  | Missing image: icon.png / _icon.png_ |
+| **Condition** | |
+| | [Warmth icon](../assets/Warmth_icon.png) |
+| | [Warmth](./Warmth.md) |
+| | [Fatigue icon](../assets/Fatigue_icon.png) |
+| | [Fatigue](./Fatigue.md) |
+| | [Thirst icon](../assets/Thirst_icon.png) |
+| | [Thirst](./Thirst.md) |
+| | [Hunger icon](../assets/Hunger_icon.png) |
+| | [Hunger](./Hunger.md) |
+| **Afflictions** | |
+| | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
+| | [Fatigue Reduced](./Fatigue%20Reduced.md) |
+| | 1 hour |
+| | Missing image: icon.png / _icon.png_ |
 
 ### Hot
 
 | Property | Details |
 | --- | --- |
-| **Condition** |  |
-|  | [Warmth icon](../assets/Warmth_icon.png) |
-|  | [Warmth](./Warmth.md) |
-|  | [Fatigue icon](../assets/Fatigue_icon.png) |
-|  | [Fatigue](./Fatigue.md) |
-|  | [Thirst icon](../assets/Thirst_icon.png) |
-|  | [Thirst](./Thirst.md) |
-|  | [Hunger icon](../assets/Hunger_icon.png) |
-|  | [Hunger](./Hunger.md) |
-| **Afflictions** |  |
-|  | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
-|  | [Fatigue Reduced](./Fatigue%20Reduced.md) |
-|  | 1 hour |
-|  | [Warming Up icon](../assets/Warming_Up_icon.png) |
-|  | [Warming Up](./Warming%20Up.md) |
-|  | 1 hour |
+| **Condition** | |
+| | [Warmth icon](../assets/Warmth_icon.png) |
+| | [Warmth](./Warmth.md) |
+| | [Fatigue icon](../assets/Fatigue_icon.png) |
+| | [Fatigue](./Fatigue.md) |
+| | [Thirst icon](../assets/Thirst_icon.png) |
+| | [Thirst](./Thirst.md) |
+| | [Hunger icon](../assets/Hunger_icon.png) |
+| | [Hunger](./Hunger.md) |
+| **Afflictions** | |
+| | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
+| | [Fatigue Reduced](./Fatigue%20Reduced.md) |
+| | 1 hour |
+| | [Warming Up icon](../assets/Warming_Up_icon.png) |
+| | [Warming Up](./Warming%20Up.md) |
+| | 1 hour |
 
 ## Uses
 

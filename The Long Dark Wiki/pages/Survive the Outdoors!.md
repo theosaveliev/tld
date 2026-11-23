@@ -14,17 +14,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Survive the Outdoors! icon](../assets/Survive_the_Outdoors!_icon.png) |
+| | [Survive the Outdoors! icon](../assets/Survive_the_Outdoors!_icon.png) |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-346) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Handbook with information on wilderness survival. Researching this will improve your Skill. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Research, Drop |
 
 **Survive the Outdoors!** is a [Research Book](./Research%20Book.md) used to improve the [Fire Starting](./Fire%20Starting.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
@@ -46,7 +46,7 @@ Research can only be performed under the following conditions:
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +35% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |

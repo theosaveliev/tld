@@ -15,15 +15,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bunker Alpha](../assets/Bunker_Alpha.jpg) |
-| **Location** |  |
-|  | [Bunker Alpha Location](../assets/Bunker_Alpha_Location.png) |
+| | [Bunker Alpha](../assets/Bunker_Alpha.jpg) |
+| **Location** | |
+| | [Bunker Alpha Location](../assets/Bunker_Alpha_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | On a hill near [Ravine's End Waterfall](./Ravine%27s%20End%20Waterfall.md) |
-| **General** |  |
+| **General** | |
 | Type | OutdoorsMilitary/Sporting |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Bunker Alpha** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Bleak Inlet](./Bleak%20Inlet.md).
 

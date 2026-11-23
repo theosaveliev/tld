@@ -17,11 +17,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Region](../assets/Blackrock_Region.jpg) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Blackrock Location](../assets/Blackrock_Location.png) |
-|  | [Map EP4 L0](../assets/Map-EP4-L0.jpg) |
-| **Details** |  |
+| | [Blackrock Region](../assets/Blackrock_Region.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Blackrock Location](../assets/Blackrock_Location.png) |
+| | [Map EP4 L0](../assets/Map-EP4-L0.jpg) |
+| **Details** | |
 | Description | An old prison complex built under the shadow of Blackrock Mountain. |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) and [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)) [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md), [Mathis](./Mathis.md), [Donner](./Donner.md), [Jace](./Jace.md), [Franklin](./Franklin.md), [Heller](./Heller.md), [Vachon](./Vachon.md) |

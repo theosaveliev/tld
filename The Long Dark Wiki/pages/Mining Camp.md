@@ -13,15 +13,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20201209233317 1](../assets/20201209233317_1.jpg) |
-| **Location** |  |
-|  | [Mining Camp Location](../assets/Mining_Camp_Location.png) |
+| | [20201209233317 1](../assets/20201209233317_1.jpg) |
+| **Location** | |
+| | [Mining Camp Location](../assets/Mining_Camp_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Location | The northwest corner of [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A derelict mining camp connecting to the [Gold Mine](./Gold%20Mine.md) |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 The **Mining Camp** is an abandoned mining camp that houses the entrance to the [Gold Mine](./Gold%20Mine.md).
 

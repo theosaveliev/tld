@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Light Shell icon](../assets/Light_Shell_icon.png) |
-| **General** |  |
+| | [Light Shell icon](../assets/Light_Shell_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |

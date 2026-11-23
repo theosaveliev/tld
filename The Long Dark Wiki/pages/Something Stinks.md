@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Something Stinks icon](../assets/Something_Stinks_icon.png) |
+| | [Something Stinks icon](../assets/Something_Stinks_icon.png) |
 | Description | Locate the Detonators. |
 
 **Something Stinks** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

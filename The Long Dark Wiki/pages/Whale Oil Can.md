@@ -12,12 +12,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) |
-| **General** |  |
+| | [Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.00-5.10 kg(-11.22 lbs) |
 
 > “**An old canister of preserved Whale Oil. Pungent stuff, but flammable and a highly efficient fuel source in the right machine.**”
@@ -48,3 +48,5 @@ Some locations where Whale Oil Cans can individually be found in groups are:
 - [Obstructed Transit](./Obstructed%20Transit.md)
 - [Departure's Memory](./Departure%27s%20Memory.md) red warehouse
 - [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md) near the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md)
+
+## Game History

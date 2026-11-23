@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Dubious Overlook](../assets/Dubious_Overlook.jpg) |
-| **Location** |  |
-|  | [Dubious Overlook Location](../assets/Dubious_Overlook_Location.png) |
+| | [Dubious Overlook](../assets/Dubious_Overlook.jpg) |
+| **Location** | |
+| | [Dubious Overlook Location](../assets/Dubious_Overlook_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Location | Near [Welkin's Window](./Welkin%27s%20Window.md) |
 | Description | A cliff overlooking the southern section of the map |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Dubious Overlook** is a location in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 

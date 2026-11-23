@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Patterned Wool Socks (Moose) icon](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png) |
-| **General** |  |
+| | [Patterned Wool Socks (Moose) icon](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Inner feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |

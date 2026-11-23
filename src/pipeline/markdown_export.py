@@ -1420,10 +1420,11 @@ def _is_cross_language_interwiki_target(target: str) -> bool:
     if not separator:
         return False
     language = prefix.casefold()
-    return (
-        re.fullmatch(r"[a-z]{2,3}", language) is not None
-        and language not in {"w", "wk", "map"}
-    )
+    return re.fullmatch(r"[a-z]{2,3}", language) is not None and language not in {
+        "w",
+        "wk",
+        "map",
+    }
 
 
 def _external_interwiki_href(href: str) -> str | None:
@@ -1981,6 +1982,7 @@ def _describe_generic_here_link(match: re.Match[str]) -> str:
 
 def _normalize_markdown_link_segment(value: str) -> str:
     """Normalize visible Markdown links and contact addresses outside code."""
+
     def remove_language_link(match: re.Match[str]) -> str:
         label = match.group("label")
         return "" if _is_cross_language_interwiki_target(label) else match.group(0)
@@ -3520,9 +3522,7 @@ def _render_image_layout_cell(value: str) -> str:
     return value.strip()
 
 
-def _flush_image_layout_details(
-    blocks: list[str], details: list[list[str]]
-) -> None:
+def _flush_image_layout_details(blocks: list[str], details: list[list[str]]) -> None:
     """Append accumulated infobox details as a two-column Markdown table."""
     if details:
         blocks.append(_pipe_table(["Property", "Details"], details))
@@ -3610,11 +3610,7 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
             continue
         if len(values) == 1:
             collecting_details = _render_image_layout_single_value(
-                values[0][0],
-                values[0][1],
-                blocks,
-                details,
-                collecting_details,
+                values[0][0], values[0][1], blocks, details, collecting_details
             )
             continue
         if _append_image_layout_detail_row(values, details, collecting_details):
@@ -5261,9 +5257,7 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
     existing_ids = {
         match.group("identifier").casefold()
         for match in re.finditer(
-            r'<a\s+id="(?P<identifier>[^"]+)"\s*>\s*</a>',
-            markdown,
-            re.IGNORECASE,
+            r'<a\s+id="(?P<identifier>[^"]+)"\s*>\s*</a>', markdown, re.IGNORECASE
         )
     }
     fence: tuple[str, int] | None = None

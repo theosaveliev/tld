@@ -12,14 +12,14 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png) |
+| | [First Aid Kit (tool) icon](../assets/First_Aid_Kit_%28tool%29_icon.png) |
 | Wintermute | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Contains essential First Aid supplies. |
-| **Values** |  |
+| **Values** | |
 | Weight | 5.00 kg (11 lbs) |
 
 **Template:for**

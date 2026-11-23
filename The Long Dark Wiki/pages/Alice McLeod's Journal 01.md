@@ -1,3 +1,4 @@
+<a id="alice-mcleod-s-journal-01"></a>
 # Alice McLeod's Journal 01
 
 **Categories:** Collectibles, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Alice_McLeod's_Journal_01)
@@ -12,16 +13,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Alice McLeod's Journal 01 icon](../assets/Alice_McLeod%27s_Journal_01_icon.png) |
+| | [Alice McLeod's Journal 01 icon](../assets/Alice_McLeod%27s_Journal_01_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Fragments torn from an old Journal. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

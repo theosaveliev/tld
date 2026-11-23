@@ -13,20 +13,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png) |
+| | [Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png) |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-163) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Cooked whitefish. A bit tasteless, but better than nothing. |
-| **Values** |  |
+| **Values** | |
 | Calories | 575 kcal |
 | Hydration | -5% |
 | [Vitamin C](./Scurvy.md) | Minor (16%) |
 | Weight | 1.5 kg (3.3 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_CookedLakeWhiteFish |
 
 _For the raw version, see [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md)._

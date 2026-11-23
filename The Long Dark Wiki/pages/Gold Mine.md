@@ -13,18 +13,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png) |
-| **Location** |  |
-|  | [Gold Mine Location](../assets/Gold_Mine_Location.png) |
+| | [Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png) |
+| **Location** | |
+| | [Gold Mine Location](../assets/Gold_Mine_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Location | The northwest corner of [Ash Canyon](./Ash%20Canyon.md) right next to the [Mining Camp](./Mining%20Camp.md) |
 | Description | An abandoned mine housing the [Technical Backpack](./Technical%20Backpack.md) and [Crampons](./Crampons.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
 | Firebox | [Fire Barrel](./Fire%20Barrel.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 The **Gold Mine** is a mine in the northwest corner of [Ash Canyon](./Ash%20Canyon.md) right next to the [Mining Camp](./Mining%20Camp.md). Most importantly the only spawn location for the [Technical Backpack](./Technical%20Backpack.md) and one of two spawns for the [Crampons](./Crampons.md).
 

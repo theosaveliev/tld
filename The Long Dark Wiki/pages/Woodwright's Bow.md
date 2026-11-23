@@ -1,3 +1,4 @@
+<a id="woodwright-s-bow"></a>
 # Woodwright's Bow
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
@@ -21,20 +22,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png) |
+| | [Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png) |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch. / A more durable and agile Survival Bow. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.75 kg (1.65 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Drop |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Bow\_Woodwrights |
 
 **Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

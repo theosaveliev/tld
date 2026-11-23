@@ -13,19 +13,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Peanut Butter icon](../assets/Peanut_Butter_icon.png) |
+| | [Peanut Butter icon](../assets/Peanut_Butter_icon.png) |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Jar of creamy peanut butter. Good source of energy. |
-| **Values** |  |
+| **Values** | |
 | Calories | 900 kcal |
 | Hydration | -5% |
 | Weight | 0.50 kg (1.1 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_PeanutButter |
 
 **Peanut Butter** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).

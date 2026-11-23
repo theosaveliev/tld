@@ -12,20 +12,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png) |
+| | [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only, by trading [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) or [Birch Bark](./Birch%20Bark.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Vitamin-C supplement. Delays the onset of Scurvy. |
-| **Values** |  |
+| **Values** | |
 | Calories | 5 kcal |
 | [Vitamin C](./Scurvy.md) | Major (125%) |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_BottleVitaminC |
 
 **Vitamin-C Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.

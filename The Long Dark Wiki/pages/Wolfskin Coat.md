@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) |
-| **General** |  |
+| | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |

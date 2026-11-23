@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Snow Shelter icon](../assets/Snow_Shelter_icon.png) |
-| **General** |  |
+| | [Snow Shelter icon](../assets/Snow_Shelter_icon.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)15 °C(27 °F) |
 | Harvest | 10 [Sticks](./Stick.md) / 2 [Cloth](./Cloth.md) |
 | Repair | up to 10 [Sticks](./Stick.md) / up to 3 [Cloth](./Cloth.md) |

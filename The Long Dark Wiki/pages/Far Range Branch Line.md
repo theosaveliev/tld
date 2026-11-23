@@ -20,11 +20,11 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Far range line first look](../assets/Far_range_line_first_look.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Far Range Branch Line Location](../assets/Far_Range_Branch_Line_Location.png) |
-|  | [FarRangeBranchLine](../assets/FarRangeBranchLine.png) |
-| **Details** |  |
+| | [Far range line first look](../assets/Far_range_line_first_look.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Far Range Branch Line Location](../assets/Far_Range_Branch_Line_Location.png) |
+| | [FarRangeBranchLine](../assets/FarRangeBranchLine.png) |
+| **Details** | |
 | Description | A railway line in the mountains separating Lower Great Bear and The Far Territory |
 | Connecting Regions | [Broken Railroad](./Broken%20Railroad.md) and [Transfer Pass](./Transfer%20Pass.md) |
 | TFTFT paid content | Yes |

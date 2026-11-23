@@ -70,6 +70,7 @@ There are currently 102 notes in total to find.
 
 - [Rockfall](./Rockfall.md) - in the backseat of the car on the bridge.
 
+<a id="climber-s-journal-page"></a>
 ## Climber's Journal Page
 
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md)

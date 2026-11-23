@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Blues](../assets/Blackrock_Blues.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Blackrock Blues](../assets/Blackrock_Blues.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Prologue](./Prologue.md) |
 | Current | Blackrock Blues |
 | Next | [The Power Plant](./The%20Power%20Plant.md) |

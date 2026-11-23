@@ -15,7 +15,7 @@
 | Property | Details |
 | --- | --- |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Forest Talkers (side mission) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 

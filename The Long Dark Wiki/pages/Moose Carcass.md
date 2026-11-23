@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Moose Carcass](../assets/Moose_Carcass.jpg) |
-| **General** |  |
+| | [Moose Carcass](../assets/Moose_Carcass.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 
@@ -19,7 +19,7 @@ Moose are massive creatures, and their carcasses can be used as makeshift cover 
 
 A Moose Carcass may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) and 12 guts. Moose hides can be cured to craft [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always (1) |
 | [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always (2) |

@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Desolation Point (Achievement) icon](../assets/Desolation_Point_%28Achievement%29_icon.png) |
+| | [Desolation Point (Achievement) icon](../assets/Desolation_Point_%28Achievement%29_icon.png) |
 | Description | Craft a full set of improvised Tools. |
 
 **Desolation Point** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

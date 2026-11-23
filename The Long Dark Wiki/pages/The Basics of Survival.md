@@ -20,9 +20,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) |
+| | [One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | The Basics of Survival |
 | Next | [Survival School](./Survival%20School.md) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
@@ -71,6 +71,7 @@ To complete this objective, all natural medicine must be contained within the su
 
 A total of 6 [Reishi Mushrooms](./Reishi%20Mushroom.md) are required to craft 3 [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md). The prepared mushrooms can be brewed into [Reishi Tea](./Reishi%20Tea.md) along with 0.75 liters of [Water (Potable)](./Water%20%28Potable%29.md) at a [fire](./Fire.md).
 
+<a id="old-man-s-beard-lichen"></a>
 #### Old Man's Beard Lichen
 
 [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) can be found located near the pond at the [Radio Tower](./Radio%20Tower.md) behind Grey Mother's House.

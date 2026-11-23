@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg) |
-| **Location** |  |
-|  | [Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png) |
+| | [SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg) |
+| **Location** | |
+| | [Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | South-west of [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Burned Ridge Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md).
 

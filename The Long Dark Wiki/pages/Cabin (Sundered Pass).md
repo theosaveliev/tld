@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Settlement Cabin](../assets/Old_Settlement_Cabin.jpg) |
-| **Location** |  |
+| | [Old Settlement Cabin](../assets/Old_Settlement_Cabin.jpg) |
+| **Location** | |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A cabin buried by an avalanche |
-| **General** |  |
+| **General** | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 The **Cabin (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md) at the [Old Settlement](./Old%20Settlement.md).
 

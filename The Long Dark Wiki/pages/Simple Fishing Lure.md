@@ -6,18 +6,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) |
+| | [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Examine | A very basic lure, might help you attract a few more fish. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.01 kg (0.02 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop |
 | On ground | Take It, Leave It, Place it |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_FishingLureA |
 
 **Simple Fishing Lure** is a basic Fishing Lure introduced in the free update portion of the Part 3: Frontier Comforts update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.

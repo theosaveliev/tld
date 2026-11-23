@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Vacant Depot](../assets/Vacant_Depot.png) |
-| **Location** |  |
-|  | [Vacant Depot Location](../assets/Vacant_Depot_Location.png) |
+| | [Vacant Depot](../assets/Vacant_Depot.png) |
+| **Location** | |
+| | [Vacant Depot Location](../assets/Vacant_Depot_Location.png) |
 | Region | [Transfer Pass](./Transfer%20Pass.md) |
 | Location | In the centre of the region along the railway tracks. |
 | Description | An abandoned train station next to a coal tipple and water tower. |
-| **General** |  |
+| **General** | |
 | Type | Industrial |
-| Firebox |  |
-|  | Provides some shelter |
+| Firebox | |
+| | Provides some shelter |
 
 The **Vacant Depot** is a location in [Transfer Pass](./Transfer%20Pass.md), located near the center of the region.
 

@@ -1,3 +1,4 @@
+<a id="justy-s-hovel"></a>
 # Justy's Hovel
 
 **Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Justy's_Hovel)
@@ -6,19 +7,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Justy's Hovel](../assets/Justy%27s_Hovel.png) |
-| **Location** |  |
-|  | [Justy's Hovel Location](../assets/Justy%27s_Hovel_Location.png) |
+| | [Justy's Hovel](../assets/Justy%27s_Hovel.png) |
+| **Location** | |
+| | [Justy's Hovel Location](../assets/Justy%27s_Hovel_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Southeast corner of the map |
 | Description | a small cabin |
-| **General** |  |
+| **General** | |
 | Type | Residential |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Forge icon green](../assets/Forge_icon_green.png) |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior |
+| [Forge icon green](../assets/Forge_icon_green.png) | |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | |
+| | Has an interior |
 
 **Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md).
 

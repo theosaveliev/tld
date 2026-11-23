@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mine Gate Key icon](../assets/Mine_Gate_Key_icon.png) |
+| | [Mine Gate Key icon](../assets/Mine_Gate_Key_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A key useful for accessing deeper areas of the mine. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Ep4MineGateKey |
 
 The **Mine Gate Key** is a [Collectibles](./Collectibles.md) found on level 3 of the [Last Prospect](./Last%20Prospect.md) mine in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) in [Wintermute](./Wintermute.md).

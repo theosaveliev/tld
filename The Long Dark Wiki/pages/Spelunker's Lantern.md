@@ -1,3 +1,4 @@
+<a id="spelunker-s-lantern"></a>
 # Spelunker's Lantern
 
 **Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
@@ -21,20 +22,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png) |
+| | [Spelunker's Lantern icon](../assets/Spelunker%27s_Lantern_icon.png) |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-03-tftft-part-1-forsaken-airfield-update) |
 | Wintermute | No |
 | Renewable | No (unique item) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | Rigged for fuel efficiency. A light for deep, dark places, when other lights go out. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_KeroseneLamp\_Spelunkers |
 
 **Spelunker's Lantern** is a unique variant of the [Storm Lantern](./Storm%20Lantern.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

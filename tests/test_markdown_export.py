@@ -2259,9 +2259,7 @@ def test_page_markdown_normalizes_strong_underscores() -> None:
     assert "__Bold text__" not in markdown
 
 
-def test_rewrite_html_links_removes_language_interwiki_targets(
-    tmp_path: Path,
-) -> None:
+def test_rewrite_html_links_removes_language_interwiki_targets(tmp_path: Path) -> None:
     rewritten = _rewrite_html_links(
         '<p><a href="ru:Russian_article">ru:Russian_article</a></p>',
         "Blackrock Memo",

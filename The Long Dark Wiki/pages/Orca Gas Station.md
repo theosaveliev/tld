@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS MT Orca 04](../assets/SS-MT-Orca-04.jpg) |
-| **Location** |  |
-|  | [Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png) |
+| | [SS MT Orca 04](../assets/SS-MT-Orca-04.jpg) |
+| **Location** | |
+| | [Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | South of [Milton](./Milton.md) |
 | Description | An abandoned gas station |
-| **General** |  |
+| **General** | |
 | Type | Store |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
-| **Wintermute** |  |
+| | Has an interior |
+| **Wintermute** | |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Characters | [Methuselah](./Methuselah.md) |
 

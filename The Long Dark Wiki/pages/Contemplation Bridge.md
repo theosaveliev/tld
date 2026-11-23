@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Contemplation Bridge](../assets/Contemplation_Bridge.jpg) |
-| **Location** |  |
-|  | [Contemplation Bridge Location](../assets/Contemplation_Bridge_Location.png) |
+| | [Contemplation Bridge](../assets/Contemplation_Bridge.jpg) |
+| **Location** | |
+| | [Contemplation Bridge Location](../assets/Contemplation_Bridge_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | On the road between [Rural Crossroads](./Thomson%27s%20Crossing.md) and [Heartbreak Bridge](./Heartbreak%20Bridge.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Contemplation Bridge** is type of beam bridge in [Pleasant Valley](./Pleasant%20Valley.md).
 

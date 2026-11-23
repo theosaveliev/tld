@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) |
-| **General** |  |
+| | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) no (Interloper) |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 
 > “**Empty casing from firing a Rifle. Used for Crafting new Ammunition.**”
@@ -34,4 +34,4 @@ Rifle Shell Casings are an ingredient in the crafting of [Rifle Ammunition](./Ri
 | --- | --- | --- |
 | [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md); - 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md); - 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
-**Template:materials** [ru:Ружейная гильза](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0)
+**Template:materials**

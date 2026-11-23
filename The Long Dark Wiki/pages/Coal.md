@@ -14,16 +14,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Coal icon](../assets/Coal_icon.png) |
+| | [Coal icon](../assets/Coal_icon.png) |
 | Release | [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-264-desolation-point-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Lump of Coal. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.3 kg (0.66 lbs) |
 
 **Coal** is a fuel item in _The Long Dark_.
@@ -39,7 +39,7 @@ Coal is a fuel source for fires, and the only fuel which can heat Forges hot eno
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 60 minutes |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +20°C (+36°F) |
 | Burn Density | 3.33 hr/kg (1.51 hr/lb) |
@@ -60,31 +60,31 @@ Some caves and mines have more coal the first time that one visits the location.
 | Region | Location | Number of coal which respawn long-term (Interloper) | Note |
 | --- | --- | --- | --- |
 | [Blackrock](./Blackrock.md) | [Last Prospect](./Last%20Prospect.md) mine | 23 | 6 outside mine, 7 on first floor, 5 on second floor, 5 on third floor |
-| [Blackrock](./Blackrock.md) | Cave below [Last Prospect](./Last%20Prospect.md) | 2 |  |
-| [Bleak Inlet](./Bleak%20Inlet.md) | Behind the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) | 6 |  |
-| [Bleak Inlet](./Bleak%20Inlet.md) | Connector cave to [Forlorn Muskeg](./Forlorn%20Muskeg.md) | 7 |  |
-| [Coastal Highway](./Coastal%20Highway.md) | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) upper level | 46 |  |
-| [Coastal Highway](./Coastal%20Highway.md) | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) aurora level | 8 |  |
-| [Coastal Highway](./Coastal%20Highway.md) | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) lower level | 5 |  |
-| [Desolation Point](./Desolation%20Point.md) | [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md) | 26 |  |
-| [Desolation Point](./Desolation%20Point.md) | [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md) | 15 |  |
-| [Desolation Point](./Desolation%20Point.md) | [Scruffy's Cave](./Cave%20%28Desolation%20Point%20location%29.md) | 8 |  |
-| [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) | [Platelayer's Shortcut](./Platelayer%27s%20Shortcut.md) | 8 |  |
-| [Mountain Town](./Mountain%20Town.md) | Connector cave to [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) | 9 |  |
-| [Mountain Town](./Mountain%20Town.md) | Connector cave to [Hushed River Valley](./Hushed%20River%20Valley.md) | 7 |  |
-| [Pleasant Valley](./Pleasant%20Valley.md) | Connector cave to [Winding River](./Winding%20River.md) | 15 |  |
-| [Pleasant Valley](./Pleasant%20Valley.md) | [Misty Falls Cave](./Misty%20Falls%20Cave.md) | 10 |  |
-| [Sundered Pass](./Sundered%20Pass.md) | [Bolt Chopper's Haven](./Bolt%20Chopper%27s%20Haven.md) | 2 |  |
+| [Blackrock](./Blackrock.md) | Cave below [Last Prospect](./Last%20Prospect.md) | 2 | |
+| [Bleak Inlet](./Bleak%20Inlet.md) | Behind the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) | 6 | |
+| [Bleak Inlet](./Bleak%20Inlet.md) | Connector cave to [Forlorn Muskeg](./Forlorn%20Muskeg.md) | 7 | |
+| [Coastal Highway](./Coastal%20Highway.md) | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) upper level | 46 | |
+| [Coastal Highway](./Coastal%20Highway.md) | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) aurora level | 8 | |
+| [Coastal Highway](./Coastal%20Highway.md) | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) lower level | 5 | |
+| [Desolation Point](./Desolation%20Point.md) | [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md) | 26 | |
+| [Desolation Point](./Desolation%20Point.md) | [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md) | 15 | |
+| [Desolation Point](./Desolation%20Point.md) | [Scruffy's Cave](./Cave%20%28Desolation%20Point%20location%29.md) | 8 | |
+| [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) | [Platelayer's Shortcut](./Platelayer%27s%20Shortcut.md) | 8 | |
+| [Mountain Town](./Mountain%20Town.md) | Connector cave to [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) | 9 | |
+| [Mountain Town](./Mountain%20Town.md) | Connector cave to [Hushed River Valley](./Hushed%20River%20Valley.md) | 7 | |
+| [Pleasant Valley](./Pleasant%20Valley.md) | Connector cave to [Winding River](./Winding%20River.md) | 15 | |
+| [Pleasant Valley](./Pleasant%20Valley.md) | [Misty Falls Cave](./Misty%20Falls%20Cave.md) | 10 | |
+| [Sundered Pass](./Sundered%20Pass.md) | [Bolt Chopper's Haven](./Bolt%20Chopper%27s%20Haven.md) | 2 | |
 | [Sundered Pass](./Sundered%20Pass.md) | Cave system connecting [Idle Hideout](./Idle%20Hideout.md), [Prayerful Window](./Prayerful%20Window.md), [Cascading Gap](./Cascading%20Gap.md) and [Route One Waterfall](./Route%20One%20Waterfall.md) | 7 | All spawn on the level connecting the three entrances (i.e. no rope climb is needed to access them all unless entering from Prayerful Window) |
-| [Sundered Pass](./Sundered%20Pass.md) | [Miserable Haunt](./Miserable%20Haunt.md) | 1 |  |
-| [Timberwolf Mountain](./Timberwolf%20Mountain.md) | Cave system from [Andre's Peak](./Andre%27s%20Peak.md) to [Chasm Cave](./Chasm%20Cave.md) | 8 |  |
+| [Sundered Pass](./Sundered%20Pass.md) | [Miserable Haunt](./Miserable%20Haunt.md) | 1 | |
+| [Timberwolf Mountain](./Timberwolf%20Mountain.md) | Cave system from [Andre's Peak](./Andre%27s%20Peak.md) to [Chasm Cave](./Chasm%20Cave.md) | 8 | |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | Cave system from [Secluded Shelf](./Secluded%20Shelf.md) toward [Summit](./Summit.md) | 0 | Coal appears first time and does not respawn |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) from Miner's Footpath entrance to blocked path area on Level 3 | 14 | 2 spawn in the Miner's Footpath entrance room. 4 spawn between the 400 ft sign and the swinging bridge. 8 spawn between the swinging bridge and the blocked entrance to the rest of Level 3. |
-| [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) Floor 3 not including area past blocked path to Miner's Footpath | 40 |  |
+| [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) Floor 3 not including area past blocked path to Miner's Footpath | 40 | |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) Floor 2 | 8 | All the coal respawns are in the area without rail tracks (i.e. first left after entering from the elevator shaft). The coal in the crushing machine does not respawn. |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) Floor 1 not including area unlocked by Tales | 17 | All the coal spawns are in the area with toxic gas and no rail tracks. A respirator is needed to access them all. |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) Mountainside Passage to Floor 1 | 29 | 6 coal in the large room with the flooded path to the rest of Level 1. 11 coal on the next "level" above that, 12 coal in the top level. |
-| [Zone of Contamination](./Zone%20of%20Contamination.md) | [Welkin's Window](./Welkin%27s%20Window.md) | 7 |  |
+| [Zone of Contamination](./Zone%20of%20Contamination.md) | [Welkin's Window](./Welkin%27s%20Window.md) | 7 | |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | Far Territory Cave System | 25 | 4 spawn on the top level that has the entrance to [Sundered Pass](./Sundered%20Pass.md). 7 spawn in between the rope climb and the bridge into the room where the junction is. 1 in the room with the junction. 6 coal between the junction and the entrance to [Forsaken Airfield](./Forsaken%20Airfield.md). 7 coal between the junction and the entrance to [Zone of Contamination](./Zone%20of%20Contamination.md). |
 
 ## Update history

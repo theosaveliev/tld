@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wing (Summit)](../assets/Wing_%28Summit%29.jpg) |
-| **Location** |  |
-|  | [Wing (Summit) Location](../assets/Wing_%28Summit%29_Location.png) |
+| | [Wing (Summit)](../assets/Wing_%28Summit%29.jpg) |
+| **Location** | |
+| | [Wing (Summit) Location](../assets/Wing_%28Summit%29_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | At the [Summit](./Summit.md) behind the [Tail Section](./Tail%20Section.md) |
 | Description | A wing from the crashed aircraft |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Wing (Summit)** is a part of a wrecked plane that crashed on the [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

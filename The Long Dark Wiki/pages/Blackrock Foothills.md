@@ -17,11 +17,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Blackrock Foothills In Game Map](../assets/Blackrock_Foothills_In-Game_Map.png) |
-| **Details** |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Blackrock Foothills In Game Map](../assets/Blackrock_Foothills_In-Game_Map.png) |
+| **Details** | |
 | Description | A mountainous region with a large mine bisecting it. |
 | Connecting Regions | [Suzuki Environs](./Suzuki%20Environs.md) |
 | Characters | [Jace](./Jace.md) [Will Mackenzie](./Will%20Mackenzie.md) / Unnamed Convict 1 / Unnamed Convict 2 |

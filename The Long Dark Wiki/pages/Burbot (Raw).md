@@ -10,8 +10,6 @@ _For the cooked version, see [Burbot (Cooked)](./Burbot%20%28Cooked%29.md)._
 
 ![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png)
 
-|
-
 Release
 
 [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)

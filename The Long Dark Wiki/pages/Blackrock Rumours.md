@@ -22,8 +22,8 @@
 
 | Property | Details |
 | --- | --- |
-| Episode |  |
-| **Missions** |  |
+| Episode | |
+| **Missions** | |
 | Current | Blackrock Rumours |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 

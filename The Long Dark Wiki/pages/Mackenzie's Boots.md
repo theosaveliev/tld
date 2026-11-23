@@ -1,3 +1,4 @@
+<a id="mackenzie-s-boots"></a>
 # Mackenzie's Boots
 
 **Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Boots)
@@ -14,12 +15,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mackenzie's Boots icon](../assets/Mackenzie%27s_Boots_icon.png) |
-| **General** |  |
+| | [Mackenzie's Boots icon](../assets/Mackenzie%27s_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

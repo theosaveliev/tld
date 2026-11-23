@@ -15,18 +15,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Reishi Mushroom icon](../assets/Reishi_Mushroom_icon.png) |
+| | [Reishi Mushroom icon](../assets/Reishi_Mushroom_icon.png) |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Wintermute | Yes |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A large, edible shelf mushroom, found mainly on coniferous trees. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.05 kg (0.11 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

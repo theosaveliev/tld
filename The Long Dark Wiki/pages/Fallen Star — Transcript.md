@@ -1,3 +1,4 @@
+<a id="fallen-star-transcript"></a>
 # Fallen Star/Transcript
 
 **Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript)
@@ -14,9 +15,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png) |
+| | [Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png) |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
 | Current | Fallen Star/Transcript |
 | Next | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |
@@ -165,6 +166,7 @@ _The quake subsides after a few moments, and Astrid carries on. She eventually s
 
 Astrid: "Hard to believe anyone survived this. Now to find that insulin."
 
+<a id="find-the-passenger-ids-0-10-find-insulin-for-dimitri"></a>
 ## Find the passenger IDs. [0/10] Find Insulin for Dimitri.
 
 _Astrid begins searching for IDs on the first of the bodies, the skin frozen purple by now._

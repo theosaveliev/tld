@@ -8,8 +8,6 @@
 
 ![Exit](../assets/Abandoned_Mine_2.jpg)
 
-|
-
 **Location**
 
 ![Abandoned Mine Location](../assets/Abandoned_Mine_Location.png)

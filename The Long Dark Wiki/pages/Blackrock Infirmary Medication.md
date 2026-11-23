@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Infirmary Medication icon](../assets/Blackrock_Infirmary_Medication_icon.png) |
+| | [Blackrock Infirmary Medication icon](../assets/Blackrock_Infirmary_Medication_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Blues](./Blackrock%20Blues.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Vials of morphine and injectable antibiotics. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | STORY\_InfirmaryMeds |
 
 **Blackrock Infirmary Medication** is a [First Aid](./First%20Aid.md) item found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story mode during the mission [Blackrock Blues](./Blackrock%20Blues.md).

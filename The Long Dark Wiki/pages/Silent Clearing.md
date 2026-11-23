@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Silent Clearing](../assets/Silent_Clearing.jpg) |
-| **Location** |  |
-|  | [Silent Clearing Location](../assets/Silent_Clearing_Location.png) |
+| | [Silent Clearing](../assets/Silent_Clearing.jpg) |
+| **Location** | |
+| | [Silent Clearing Location](../assets/Silent_Clearing_Location.png) |
 | Region | [Coastal Highway](./Coastal%20Highway.md) |
 | Location | Northeast of [Coastal Townsite](./Coastal%20Townsite.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Silent Clearing** is a location in [Coastal Highway](./Coastal%20Highway.md).
 

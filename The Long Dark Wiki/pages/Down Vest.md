@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Down Vest icon](../assets/Down_Vest_icon.png) |
-| **General** |  |
+| | [Down Vest icon](../assets/Down_Vest_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

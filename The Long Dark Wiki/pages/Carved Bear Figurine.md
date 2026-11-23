@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Carved Bear Figurine icon](../assets/Carved_Bear_Figurine_icon.png) |
+| | [Carved Bear Figurine icon](../assets/Carved_Bear_Figurine_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.25 kg (0.55 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 The **Carved Bear Figurine** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.

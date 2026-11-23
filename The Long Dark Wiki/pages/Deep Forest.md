@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Deep Forest icon](../assets/Deep_Forest_icon.png) |
+| | [Deep Forest icon](../assets/Deep_Forest_icon.png) |
 | Description | Keep a campfire burning for 3 days. |
 
 **Deep Forest** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

@@ -1,3 +1,4 @@
+<a id="fool-s-corner"></a>
 # Fool's Corner
 
 **Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fool's_Corner)
@@ -6,13 +7,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fool's Corner rope climb top](../assets/Fool%27s_Corner_rope_climb_top.jpg) |
-| **Location** |  |
-|  | [Fool's Corner Location](../assets/Fool%27s_Corner_Location.png) |
-| Region |  |
-| **General** |  |
+| | [Fool's Corner rope climb top](../assets/Fool%27s_Corner_rope_climb_top.jpg) |
+| **Location** | |
+| | [Fool's Corner Location](../assets/Fool%27s_Corner_Location.png) |
+| Region | |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 ## Overview
 

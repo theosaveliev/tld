@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Whistling Perch](../assets/Whistling_Perch.jpg) |
-| **Location** |  |
-|  | [Whistling Perch Location](../assets/Whistling_Perch_Location.png) |
-| Region |  |
+| | [Whistling Perch](../assets/Whistling_Perch.jpg) |
+| **Location** | |
+| | [Whistling Perch Location](../assets/Whistling_Perch_Location.png) |
+| Region | |
 | Location | In the hills surrounding the road in the region's east |
-| **General** |  |
+| **General** | |
 | Type | Military/Sporting |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Whistling Perch** is a hunting blind located in the east of [Blackrock](./Blackrock.md) region. [Wedge Cave](./Wedge%20Cave.md) is just to the northeast. A nearby road leads north to [Mule Bridge](./Mule%20Bridge.md) and south to [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). Packs of [timberwolves](./Timberwolf.md) often roam the hills between the blind and this road.
 

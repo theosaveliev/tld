@@ -19,18 +19,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Acorns icon](../assets/Acorns_icon.png) |
+| | [Acorns icon](../assets/Acorns_icon.png) |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Nuts from an Oak Tree. Prepare the Acorns to remove their leathery shell prior to Cooking. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.05 kg (0.11 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Acorn |
 
 **Acorns** are a material in **[The Long Dark](./The%20Long%20Dark.md)**.

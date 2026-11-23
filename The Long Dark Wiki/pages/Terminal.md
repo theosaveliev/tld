@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Terminal](../assets/Terminal.jpg) |
-| **Location** |  |
-|  | [Terminal Location](../assets/Terminal_Location.png) |
+| | [Terminal](../assets/Terminal.jpg) |
+| **Location** | |
+| | [Terminal Location](../assets/Terminal_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | In the middle of [Field 31](./Field%2031.md) |
 | Description | An air baggage claims building next to the [Control Tower](./Control%20Tower.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 The **Terminal** is an abandoned air baggage claims terminal building located within Airfield 31 in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md), between the outdoor vehicle garage and the Air [Control Tower](./Control%20Tower.md). A logo on the front desk displays the services of North Charters.
 

@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI CoastMountainRoad01](../assets/SS-BI-CoastMountainRoad01.jpg) |
-| **Location** |  |
-|  | [Coast Mountain Road Location](../assets/Coast_Mountain_Road_Location.png) |
+| | [SS BI CoastMountainRoad01](../assets/SS-BI-CoastMountainRoad01.jpg) |
+| **Location** | |
+| | [Coast Mountain Road Location](../assets/Coast_Mountain_Road_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | a broken highway local road |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Coast Mountain Road** is an ruined road avalanche in [Bleak Inlet](./Bleak%20Inlet.md), located near the center of the map.
 

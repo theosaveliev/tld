@@ -1,3 +1,4 @@
+<a id="the-technician-s-notebook"></a>
 # The Technician's Notebook
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Technician's_Notebook)
@@ -6,16 +7,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Technician's Notebook icon](../assets/The_Technician%27s_Notebook_icon.png) |
+| | [The Technician's Notebook icon](../assets/The_Technician%27s_Notebook_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A bloody piece of notebook paper. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

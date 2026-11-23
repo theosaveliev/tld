@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken railroad hidden bridge](../assets/Broken_railroad_hidden_bridge.jpg) |
-| **Location** |  |
-|  | [Rickety Foot Bridge Location](../assets/Rickety_Foot_Bridge_Location.png) |
+| | [Broken railroad hidden bridge](../assets/Broken_railroad_hidden_bridge.jpg) |
+| **Location** | |
+| | [Rickety Foot Bridge Location](../assets/Rickety_Foot_Bridge_Location.png) |
 | Region | [Broken Railroad](./Broken%20Railroad.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 The **Rickety Foot Bridge** is a location in [Broken Railroad](./Broken%20Railroad.md).
 

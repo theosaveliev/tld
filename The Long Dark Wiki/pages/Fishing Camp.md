@@ -6,8 +6,6 @@
 
 ![Fishing Camp fishing cabins](../assets/Fishing_Camp_-_fishing_cabins.jpg)
 
-|
-
 **Location**
 
 ![Fishing Camp map](../assets/Fishing_Camp_map.png)

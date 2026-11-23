@@ -15,8 +15,6 @@
 
 ![Interior](../assets/Lonely_Lighthouse_interior.jpg)
 
-|
-
 **Location**
 
 ![Lonely Lighthouse Location](../assets/Lonely_Lighthouse_Location.png)

@@ -37,8 +37,6 @@
 
 ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg)
 
-|
-
 Story item
 
 Yes

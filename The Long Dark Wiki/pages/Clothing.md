@@ -263,7 +263,9 @@ Legs (Outer)
 
 2.0 °C; _(3.6 °F)_
 
-**None:** None
+None
+
+None
 
 Gloves
 

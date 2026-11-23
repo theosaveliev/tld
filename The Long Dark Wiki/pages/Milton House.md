@@ -26,8 +26,6 @@
 
 ![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png)
 
-|
-
 **Location**
 
 Region
@@ -83,6 +81,7 @@ This type of building has only 1 floor, with 2 doors leading to the kitchen or l
 
 The layout for this building has 2 different layouts, but tends to be filled with large amounts of food and [Cooking Pots](./Cooking%20Pot.md).
 
+<a id="bank-manager-s-house"></a>
 ### Bank Manager's House
 
 ![Milton Bank Managers House](../assets/Milton_Bank_Managers_House.jpg)
@@ -128,6 +127,7 @@ These homes are much smaller buildings with a single door leading to the front h
 
 A few buildings are small tool sheds, with 2 doors for entering. They tend to contain a [Metal Shelf](./Metal%20Shelf.md) often holding a [Metal Container](./Metal%20Container.md) or other tools, [Crates](./Crate.md), [Planks](./Planks.md), and [Reclaimed Wood](./Reclaimed%20Wood.md). One shed is on a hill behind the pond with the ruined house, and has a Bed. 4 can be found in the town, but 2 will always be boarded up.
 
+<a id="grey-mother-s-house"></a>
 ### Grey Mother's House
 
 ![Milton House (Grey Mother's)](../assets/Milton_House_%28Grey_Mother%27s%29.png)

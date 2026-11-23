@@ -12,14 +12,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Fallow Field](../assets/Fallow_Field.jpg) |
-| **Location** |  |
-|  | [Fallow Field Location](../assets/Fallow_Field_Location.png) |
+| | [Fallow Field](../assets/Fallow_Field.jpg) |
+| **Location** | |
+| | [Fallow Field Location](../assets/Fallow_Field_Location.png) |
 | Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | South west of Obstructed Transit |
 | Description | A field and pond below Desecrated Church |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Fallow Field** is a location in [Port Remnant](./Port%20Remnant.md).
 

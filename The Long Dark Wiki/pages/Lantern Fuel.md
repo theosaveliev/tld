@@ -14,13 +14,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) |
-| **General** |  |
+| | [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) |
+| **General** | |
 | Item Type | Fire Starting |
 | Wintermute | No |
 | Renewable | Yes |
 | Firestarting Slot | Accelerant |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+40% |
 

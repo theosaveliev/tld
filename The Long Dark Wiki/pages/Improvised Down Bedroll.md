@@ -12,11 +12,11 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) |
-| **General** |  |
+| | [Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.10 kg(2.42 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)8.0 °C(14.4 °F) |
 | Harvest | 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) / 90 minutes |

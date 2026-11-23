@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cooked Potato icon](../assets/Cooked_Potato_icon.png) |
+| | [Cooked Potato icon](../assets/Cooked_Potato_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Cooked and ready to eat. A delicious staple. |
-| **Values** |  |
+| **Values** | |
 | Calories | 250 kcal |
 | Hydration | -3% |
 | [Vitamin C](./Scurvy.md) | Moderate (24%) |

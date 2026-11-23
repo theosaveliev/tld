@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Corral](../assets/Old_Corral.jpg) |
-| **Location** |  |
-|  | [Old Corral Location](../assets/Old_Corral_Location.png) |
+| | [Old Corral](../assets/Old_Corral.jpg) |
+| **Location** | |
+| | [Old Corral Location](../assets/Old_Corral_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Description | A destroyed house and shed near [Unquenched Extraction](./Unquenched%20Extraction.md) |
-| **General** |  |
+| **General** | |
 | Firebox | [Fire Barrel](./Fire%20Barrel.md) |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Old Corral** is a location near [Unquenched Extraction](./Unquenched%20Extraction.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). It is composed of a destroyed building and a small storage shed.
 

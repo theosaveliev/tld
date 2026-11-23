@@ -17,15 +17,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bunker Beta](../assets/Bunker_Beta.jpg) |
-| **Location** |  |
-|  | [Bunker Beta Location](../assets/Bunker_Beta_Location.png) |
+| | [Bunker Beta](../assets/Bunker_Beta.jpg) |
+| **Location** | |
+| | [Bunker Beta Location](../assets/Bunker_Beta_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | North of [Long Curve](./Long%20Curve.md), past a Bear Cave |
 | Description | A reinforced underground shelter. |
-| **General** |  |
+| **General** | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Bunker** **Beta** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Pleasant Valley](./Pleasant%20Valley.md).
 

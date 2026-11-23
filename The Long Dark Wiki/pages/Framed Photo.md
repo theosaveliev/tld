@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Framed Photo icon](../assets/Framed_Photo_icon.png) |
+| | [Framed Photo icon](../assets/Framed_Photo_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.25 kg (0.55 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 > “**A decorative picture frame. Suitable for hanging instant photographs on the wall.**”

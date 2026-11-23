@@ -6,19 +6,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mindful cabin](../assets/Mindful_cabin.jpg) |
-| **Location** |  |
-|  | [Mindful Cabin Location](../assets/Mindful_Cabin_Location.png) |
+| | [Mindful cabin](../assets/Mindful_cabin.jpg) |
+| **Location** | |
+| | [Mindful Cabin Location](../assets/Mindful_Cabin_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | Towards the north-west corner of the region, on a hill at the end of the road. |
 | Description | A cabin overlooking |
-| **General** |  |
+| **General** | |
 | Type | Residential |
 | Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-| [Forge icon green](../assets/Forge_icon_green.png) |  |
-| [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior |
+| [Forge icon green](../assets/Forge_icon_green.png) | |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | |
+| | Has an interior |
 
 **Mindful Cabin** is located in the north-west part of the [Forsaken Airfield](./Forsaken%20Airfield.md), at the end of the road.
 

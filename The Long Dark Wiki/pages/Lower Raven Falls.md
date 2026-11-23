@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI LowerRavenFall](../assets/SS-BI-LowerRavenFall.jpg) |
-| **Location** |  |
-|  | [Lower Raven Falls Location](../assets/Lower_Raven_Falls_Location.png) |
+| | [SS BI LowerRavenFall](../assets/SS-BI-LowerRavenFall.jpg) |
+| **Location** | |
+| | [Lower Raven Falls Location](../assets/Lower_Raven_Falls_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Description | A former picnic site |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Lower Raven Falls** is one of the many waterfalls found in [Bleak Inlet](./Bleak%20Inlet.md).
 

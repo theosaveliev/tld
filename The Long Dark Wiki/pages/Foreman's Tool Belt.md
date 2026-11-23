@@ -1,3 +1,4 @@
+<a id="foreman-s-tool-belt"></a>
 # Foreman's Tool Belt
 
 **Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt)
@@ -6,11 +7,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Foreman's Tool Belt icon](../assets/Foreman%27s_Tool_Belt_icon.png) |
-| **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| **Statistics** |  |
+| | [Foreman's Tool Belt icon](../assets/Foreman%27s_Tool_Belt_icon.png) |
+| **General** | |
+| Item Type | |
+| Wintermute | |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |

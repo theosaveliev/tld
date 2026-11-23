@@ -12,21 +12,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) |
+| | [Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A flaky, basic pie baked with meat from the ptarmigan. |
-| **Values** |  |
+| **Values** | |
 | Calories | 250 (313) kcal |
 | Hydration | 0.0% |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_PtarmiganMeatPie |
 
 **Ptarmigan Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.

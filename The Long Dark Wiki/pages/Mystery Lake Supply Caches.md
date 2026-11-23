@@ -14,9 +14,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [One of the hidden supply caches.](../assets/Bloodied_note.png) |
+| | [One of the hidden supply caches.](../assets/Bloodied_note.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Mystery Lake Supply Caches |
 | Next | [Aurora Hatch](./Aurora%20Hatch.md) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |

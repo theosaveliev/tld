@@ -267,40 +267,40 @@ It is unknown if there are any eligible Safe respawn locations in [Forlorn Muske
 
 | Region | Location | Note |
 | --- | --- | --- |
-| [Ash Canyon](./Ash%20Canyon.md) | [Angler's Den](./Angler%27s%20Den.md) |  |
+| [Ash Canyon](./Ash%20Canyon.md) | [Angler's Den](./Angler%27s%20Den.md) | |
 | Ash Canyon | [Foreman's Retreat](./Foreman%27s%20Retreat.md) | outdoors |
-| Ash Canyon | [Homesteader's Respite](./Homesteader%27s%20Respite.md) |  |
+| Ash Canyon | [Homesteader's Respite](./Homesteader%27s%20Respite.md) | |
 | [Bleak Inlet](./Bleak%20Inlet.md) | [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) | outdoors |
-| Bleak Inlet | [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) |  |
+| Bleak Inlet | [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) | |
 | Bleak Inlet | [Last Resort Cannery](./Last%20Resort%20Cannery.md) | outdoors, near the rope, [Timberwolves](./Timberwolf.md) may be active |
 | Bleak Inlet | _[Workshop](./Workshop.md)_ | _[removed in v2.31](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-31-steam-epic-games)_ (4) |
-| [Blackrock](./Blackrock.md) | [Old Substation](./Old%20Substation.md) |  |
-| Blackrock | [Power Plant](./Power%20Plant.md) |  |
+| [Blackrock](./Blackrock.md) | [Old Substation](./Old%20Substation.md) | |
+| Blackrock | [Power Plant](./Power%20Plant.md) | |
 | Blackrock | [Trailer](./Trailer%20%28Blackrock%20Region%29.md) | west, near the river |
-| [Broken Railroad](./Broken%20Railroad.md) | [Hunting Lodge](./Hunting%20Lodge.md) |  |
+| [Broken Railroad](./Broken%20Railroad.md) | [Hunting Lodge](./Hunting%20Lodge.md) | |
 | Broken Railroad | [Maintenance Yard](./Maintenance%20Yard.md) | just inside the front door |
 | Broken Railroad | [Maintenance Yard guard house](./Maintenance%20Yard.md) | outdoors |
 | [Coastal Highway](./Coastal%20Highway.md) | [Jackrabbit Island](./Jackrabbit%20Island.md) | outdoors |
 | Coastal Highway | [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) | outdoors |
-| Coastal Highway | [Quonset Garage](./Quonset%20Garage.md) |  |
-| [Desolation Point](./Desolation%20Point.md) | [Lonely Lighthouse](./Lonely%20Lighthouse.md) |  |
+| Coastal Highway | [Quonset Garage](./Quonset%20Garage.md) | |
+| [Desolation Point](./Desolation%20Point.md) | [Lonely Lighthouse](./Lonely%20Lighthouse.md) | |
 | Desolation Point | [The Riken](./The%20Riken.md) | kitchen, near the door |
 | Desolation Point | Trailer | near [Hibernia Processing](./Hibernia%20Processing.md) |
 | [Hushed River Valley](./Hushed%20River%20Valley.md) | [Cloudtop Falls](./Cloudtop%20Falls.md) | outdoors |
-| [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | [Camp Office](./Camp%20Office.md) |  |
+| [Mystery Lake](./Mystery%20Lake%20%28region%29.md) | [Camp Office](./Camp%20Office.md) | |
 | Mystery Lake | [Derailment](./Derailment.md) | outdoors |
-| Mystery Lake | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |  |
-| [Mountain Town](./Mountain%20Town.md) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) |  |
+| Mystery Lake | [Trapper's Homestead](./Trapper%27s%20Homestead.md) | |
+| [Mountain Town](./Mountain%20Town.md) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) | |
 | Mountain Town | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) | [key](./Paradise%20Meadows%20Farm%20Key.md) is required to re-enter the house |
-| Mountain Town | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) |  |
-| [Pleasant Valley](./Pleasant%20Valley.md) | [Community Hall](./Community%20Hall.md) |  |
-| Pleasant Valley | [Signal Hill](./Signal%20Hill.md) |  |
-| Pleasant Valley | [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) |  |
+| Mountain Town | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) | |
+| [Pleasant Valley](./Pleasant%20Valley.md) | [Community Hall](./Community%20Hall.md) | |
+| Pleasant Valley | [Signal Hill](./Signal%20Hill.md) | |
+| Pleasant Valley | [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) | |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Deer Clearing](./Deer%20Clearing.md) | inside the cave |
 | Timberwolf Mountain | [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) | outdoors |
 | ([TFTFT](./Tales%20from%20the%20Far%20Territory.md)) [Forsaken Airfield](./Forsaken%20Airfield.md) | repair bay | outdoors, between Terminal and Main Hangar |
 | (TFTFT) [Sundered Pass](./Sundered%20Pass.md) | [Placid Notch](./Placid%20Notch.md) | outdoors, near Refuge Cabin B |
-| (TFTFT) [Zone of Contamination](./Zone%20of%20Contamination.md) | _TBD_ |  |
+| (TFTFT) [Zone of Contamination](./Zone%20of%20Contamination.md) | _TBD_ | |
 
 ## Cheating Death
 

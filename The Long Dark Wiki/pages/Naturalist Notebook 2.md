@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Naturalist Notebook 2 icon](../assets/Naturalist_Notebook_2_icon.png) |
+| | [Naturalist Notebook 2 icon](../assets/Naturalist_Notebook_2_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A loose leaf from a technical notebook |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
@@ -32,3 +32,5 @@ I can already tell if I cross paths with one of these cats it's going to go bad 
 The eviscerated deer I stumbled on yesterday gave me an idea. I doubt I can outrun one if it tries to make a fight of it.
 
 My gear is durable, but will it be enough? They sent me here to study these animals, not cull them. That's my mission.
+
+## Game history

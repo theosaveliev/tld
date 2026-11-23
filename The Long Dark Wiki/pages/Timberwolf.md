@@ -22,11 +22,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Timberwolf](../assets/Timberwolf.png) |
-| **Basic Information** |  |
+| | [Timberwolf](../assets/Timberwolf.png) |
+| **Basic Information** | |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Role | Predator |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Grey/White |
 | Size | Medium |
 | Eyes | Orange |
@@ -43,7 +43,7 @@ A [Timberwolf Carcass](./Timberwolf%20Carcass.md) may be harvested for 4.00-7.00
 
 Despite having a different colored coat, ordinary black Wolf Hides are produced from the Carcass and can be cured to craft a [Wolfskin Coat](./Wolfskin%20Coat.md), [Wolfskin Pants](./Wolfskin%20Pants.md), or [Wolfskin Hat](./Wolfskin%20Hat.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)* | 4 - 7 | Always (1) |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always (2) |
@@ -54,7 +54,7 @@ Despite having a different colored coat, ordinary black Wolf Hides are produced 
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
@@ -263,7 +263,7 @@ _Concept art of Timberwolves at the [Fallen Lighthouse](./Fallen%20Lighthouse.md
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update)):**
   - Added to game
 
-== References ==  **Template:wildlife** [ru:Лесной волк](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA)
+== References ==  **Template:wildlife**
 
 ## Notes
 

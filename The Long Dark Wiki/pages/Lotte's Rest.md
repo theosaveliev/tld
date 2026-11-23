@@ -1,3 +1,4 @@
+<a id="lotte-s-rest"></a>
 # Lotte's Rest
 
 **Categories:** Indoor locations, Locations, Locations in Sundered Pass, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lotte's_Rest)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lotte's Rest](../assets/Lotte%27s_Rest_.jpg) |
-| **Location** |  |
-|  | [Lotte's Rest Location](../assets/Lotte%27s_Rest_Location.png) |
+| | [Lotte's Rest](../assets/Lotte%27s_Rest_.jpg) |
+| **Location** | |
+| | [Lotte's Rest Location](../assets/Lotte%27s_Rest_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | Up the road near [Baneful Bridge](./Baneful%20Bridge.md), South the road of [Cascading Gap](./Cascading%20Gap.md). |
 | Description | A small cabin atop a ridge. |
-| **General** |  |
+| **General** | |
 | Type | Residential |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Lotte's Rest**, also known as Refuge Cabin A, is a small cabin located in [Sundered Pass](./Sundered%20Pass.md) found on the main mountain road located closest to the region transition to [Transfer Pass](./Transfer%20Pass.md), just past [Baneful Bridge](./Baneful%20Bridge.md). Past the area on the road is [Cascading Gap](./Cascading%20Gap.md).
 

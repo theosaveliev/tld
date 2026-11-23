@@ -13,15 +13,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lake cabin4](../assets/Lake_cabin4.jpg) |
-| **Location** |  |
+| | [Lake cabin4](../assets/Lake_cabin4.jpg) |
+| **Location** | |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Location | The shore of [Mystery Lake](./Mystery%20Lake%20%28location%29.md) |
 | Description | A small group of cabins. |
-| **General** |  |
+| **General** | |
 | Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Lake Cabins** is an unmarked location [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

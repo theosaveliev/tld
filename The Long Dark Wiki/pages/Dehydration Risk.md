@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Dehydration Risk icon](../assets/Dehydration_Risk_icon.png) |
+| | [Dehydration Risk icon](../assets/Dehydration_Risk_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Update | 1.60 |
 | Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | [Crash Survivor](./Crash%20Survivor.md) has low [Thirst](./Thirst.md) |
 | Effect | Negative |
 | Type | Risk |
 | Affliction Duration | Until Treated |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
 | Recovery Time | Instant |
 

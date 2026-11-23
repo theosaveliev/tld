@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) |
-| **General** |  |
+| | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.75 kg(3.85 lbs) |
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 hour |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |

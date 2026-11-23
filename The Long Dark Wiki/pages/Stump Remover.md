@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Stump Remover icon](../assets/Stump_Remover_icon.png) |
-| **General** |  |
+| | [Stump Remover icon](../assets/Stump_Remover_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 
 > “**An herbicide, this chemical can also be used to Craft Gunpowder.**”

@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png) |
-| **General** |  |
+| | [Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |

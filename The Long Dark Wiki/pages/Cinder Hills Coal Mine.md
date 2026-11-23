@@ -14,16 +14,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png) |
-| **Location** |  |
-|  | [Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png) |
+| | [RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png) |
+| **Location** | |
+| | [Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png) |
 | Region | [Coastal Highway](./Coastal%20Highway.md) |
 | Description | explorable mine and transition connected to [Pleasant Valley](./Pleasant%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
-| **Wintermute** |  |
+| | Has an interior |
+| **Wintermute** | |
 | Missions | [Aftermath](./Aftermath.md) |
 
 **Cinder Hills Coal Mine,**also known as "Abandoned Mine", is a series of mine tunnels located in [Coastal Highway](./Coastal%20Highway.md), with one section that acts as a connection to [Pleasant Valley](./Pleasant%20Valley.md).
@@ -79,5 +79,3 @@ If you get trapped within the mine, there will always be another aurora scripted
 ![Elevator (middle layer)](../assets/SS-AM-Aurora-2F.jpg)
 
 ![Middle layer (During Aurora)](../assets/SS-AM-Aurora-01.jpg)
-
-[ru:Угольная шахта "Пыльные холмы"](https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0_%22%D0%9F%D1%8B%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B%22) [es:Mina de carbón del incendio](https://es.wikipedia.org/wiki/Mina_de_carb%C3%B3n_del_incendio)

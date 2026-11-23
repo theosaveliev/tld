@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Flight Jacket icon](../assets/Flight_Jacket_icon.png) |
-| **General** |  |
+| | [Flight Jacket icon](../assets/Flight_Jacket_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F) |

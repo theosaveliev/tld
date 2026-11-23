@@ -1,3 +1,4 @@
+<a id="the-long-dark-gallery"></a>
 # The Long Dark/Gallery
 
 **Categories:** The Long Dark · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FGallery)

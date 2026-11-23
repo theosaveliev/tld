@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS PV PensivePond (1)](../assets/SS-PV-PensivePond_%281%29.jpg) |
-| **Location** |  |
-|  | [Pensive Pond Location](../assets/Pensive_Pond_Location.png) |
+| | [SS PV PensivePond (1)](../assets/SS-PV-PensivePond_%281%29.jpg) |
+| **Location** | |
+| | [Pensive Pond Location](../assets/Pensive_Pond_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Description | A small pond with a fishing hut |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
 | Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Pensive Pond** is a small recreational pond in the hills of [Pleasant Valley](./Pleasant%20Valley.md).
 

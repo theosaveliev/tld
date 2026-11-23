@@ -88,5 +88,3 @@ Afflictions disappear when they are cured. Some afflictions will disappear witho
 | --- | --- | --- | --- |
 | [Respirator icon](../assets/Respirator_icon.png) | [Respirator](./Respirator.md) (only in [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion) | [Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png)[Chemical Poisoning](./Chemical%20Poisoning.md) at [Chemical Spills](./Chemical%20Hazard.md) [Suffocation icon](../assets/Suffocation_icon.png)[Suffocation](./Suffocation.md) | 0.00 kg; _(0 lb)_ |
 | [Canister icon](../assets/Canister_icon.png) | [Canister](./Canister.md) (only in [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion) | Used to make a Respirator functional | 0.20 kg; _(0.44 lb)_ |
-
-[es:Primeros auxilios](https://es.wikipedia.org/wiki/Primeros_auxilios) [fr:Premiers Secours](https://fr.wikipedia.org/wiki/Premiers_Secours)

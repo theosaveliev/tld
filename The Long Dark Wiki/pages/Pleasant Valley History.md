@@ -14,16 +14,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Knowledge](../assets/Knowledge.png) |
+| | [Knowledge](../assets/Knowledge.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

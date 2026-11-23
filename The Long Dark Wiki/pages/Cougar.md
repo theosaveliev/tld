@@ -55,11 +55,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cougar](../assets/Cougar.png) |
-| **Basic Information** |  |
+| | [Cougar](../assets/Cougar.png) |
+| **Basic Information** | |
 | Release | [24 June 2024 / 2 December 2024 (Redux)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Role | Predator |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Sandy Tan |
 | Size | Medium |
 | Eyes | Blue |
@@ -114,7 +114,7 @@ Cougars are disabled on [Pilgrim](./Pilgrim.md), so the toggle is not present (u
 
 Killing a Cougar will produce a [Cougar Carcass](./Cougar%20Carcass.md) which can be harvested for the following items:
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) | [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)* | 4-5 kg | Always (1) |
 | [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) | [Cougar Quarter](./Cougar%20Quarter.md) | 2 | Always (2) |
@@ -127,7 +127,7 @@ Cougar drops can be used to craft two unique items. The [Cougar Hide Wrap](./Cou
 
 Animal Fat is produced automatically when harvesting raw meat. A Cougar Claw is harvested automatically when Harvesting a Cougar Hide or Quartering the Carcass. Neither appear when Harvesting a Carcass and cannot be harvested separately.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) | [Cougar Claw](./Cougar%20Claw.md) | 1 | Always |
@@ -204,7 +204,7 @@ After Cougars are enabled in a save, there is a certain amount of days before Co
 
 | Survival Mode | Earliest Arrival Day (Days Survived) | Guaranteed Arrival Day (Days Survived) |
 | --- | --- | --- |
-| [Pilgrim](./Pilgrim.md) | Disabled |  |
+| [Pilgrim](./Pilgrim.md) | Disabled | |
 | [Voyageur](./Voyageur.md) | 30 | 33 |
 | [Stalker](./Stalker.md) | 20 | 23 |
 | [Interloper](./Interloper.md) | 10 | 12 |
@@ -461,6 +461,7 @@ The Cougar only uses its Struggle Attack in two cases: if it reaches the survivo
 
 After a Struggle the Cougar will be running away to a safe distance before engaging the player again some time later.
 
+<a id="don-t-be-afraid-to-retreat"></a>
 ### Don't be afraid to retreat
 
 A Cougar's health remains the same once damaged, and sometimes retreating is the best option when the player is severely wounded. Having a fall back plan beforehand and retreating to your Safehouse full of supplies to heal up if things don't go well is generally the best way to ensure your survival.
@@ -476,6 +477,7 @@ A Cougar's health remains the same once damaged, and sometimes retreating is the
 - When faced with a charging Cougar, it is better to shoot and miss than to risk not being able to shoot in time and getting caught up in a struggle.
 - Attacking a Cougar will cause additional Cougars to spawn in different locations in the same region. These will de-spawn after a number of days, but caution is advised, when travelling back to base after a Cougar encounter.
 
+<a id="legacy-information-cougar-1-0"></a>
 ## Legacy Information: Cougar 1.0
 
 The Cougar was initially implemented in patch Tales From The Far Territory DLC part 5 (June 2024), but was reworked in the Part 6 (December 2024) DLC patch. The following section contains deprecated information about this legacy (Cougar 1.0) version, of which only some mechanics are still reflected in-game.
@@ -566,8 +568,6 @@ _Art of [Last Horizon](./Last%20Horizon.md) with the Cougar stalking someone_
   - Temporarily removed from the game by Hinterland due to poor reception and heavy player criticism of the Cougar's initial overall gameplay functionality and mechanics. Will be returned in a future update.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence)):**
   - Returned the Cougar to Survival Mode as "Cougar 2.0 Redux."
-
-[ru:Пума](https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%BC%D0%B0)
 
 ## Notes
 

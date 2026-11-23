@@ -14,18 +14,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Recycled Can icon](../assets/Recycled_Can_icon.png) |
+| | [Recycled Can icon](../assets/Recycled_Can_icon.png) |
 | Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-33-vigilant-flame-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A basic container for melting snow, boiling water, and cooking food. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.15 kg (0.33 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Leave It |
 

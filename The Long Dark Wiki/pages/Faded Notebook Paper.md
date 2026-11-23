@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Faded Notebook Paper icon](../assets/Faded_Notebook_Paper_icon.png) |
-| **Properties** |  |
+| | [Faded Notebook Paper icon](../assets/Faded_Notebook_Paper_icon.png) |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A page from a notebook with a few handwritten lines. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

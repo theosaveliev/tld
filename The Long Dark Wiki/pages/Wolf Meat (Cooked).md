@@ -13,19 +13,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) |
+| | [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Cooked flesh from a wolf. |
-| **Values** |  |
+| **Values** | |
 | Calories | 700 kcal |
 | Hydration | -10% |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_WolfMeatCooked |
 
 _For the raw version, see [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)._

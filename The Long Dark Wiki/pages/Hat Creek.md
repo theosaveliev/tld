@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20170304105847 1](../assets/20170304105847_1.jpg) |
-| **Location** |  |
-|  | [Hat Creek Location](../assets/Hat_Creek_Location.png) |
+| | [20170304105847 1](../assets/20170304105847_1.jpg) |
+| **Location** | |
+| | [Hat Creek Location](../assets/Hat_Creek_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Hat+Creek&action=edit expanding it].**
 

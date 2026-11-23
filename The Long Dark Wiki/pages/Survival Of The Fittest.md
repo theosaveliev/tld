@@ -25,9 +25,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg) |
+| | [Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | None |
 | Current | Survival Of The Fittest |
 | Next | [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) |

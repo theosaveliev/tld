@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Combat Pants icon](../assets/Combat_Pants_icon.png) |
-| **General** |  |
+| | [Combat Pants icon](../assets/Combat_Pants_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Clothing Slot | Outer legs |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |

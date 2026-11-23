@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cured Gut icon](../assets/Cured_Gut_icon.png) |
+| | [Cured Gut icon](../assets/Cured_Gut_icon.png) |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-233-silent-hunter-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Gut that has been cured. Can be used for crafting and repair. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
 
 **Cured Gut** is an animal-based [Material](./Materials.md) that is acquired after air-drying [Fresh Gut](./Fresh%20Gut.md) indoors for 5 days. They can be used to craft or repair hide/pelt based [Clothing](./Clothing.md) and several [Tools](./Tools.md).

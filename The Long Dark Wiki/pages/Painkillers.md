@@ -13,11 +13,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Painkillers icon](../assets/Painkillers_icon.png) |
-| **General** |  |
+| | [Painkillers icon](../assets/Painkillers_icon.png) |
+| **General** | |
 | Item Type | [First Aid](./First%20Aid.md) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md), [Trader](./Trader.md)) |
-| **Statistics** |  |
+| **Statistics** | |
 | Unit weight | 0.02 kg/dose(0.04 lbs/dose) |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Unit count | [Unit count icon](../assets/Unit_count_icon.png)6 doses |

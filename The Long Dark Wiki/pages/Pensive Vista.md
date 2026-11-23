@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Pensive Vista](../assets/Pensive_Vista.jpg) |
-| **Location** |  |
-|  | [Pensive Vista Location](../assets/Pensive_Vista_Location.png) |
+| | [Pensive Vista](../assets/Pensive_Vista.jpg) |
+| **Location** | |
+| | [Pensive Vista Location](../assets/Pensive_Vista_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Pensive Vista**is a location in [Hushed River Valley](./Hushed%20River%20Valley.md), offering a commanding view of the [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md) and [Moose Overlook](./Moose%20Overlook.md), amongst other locations.
 

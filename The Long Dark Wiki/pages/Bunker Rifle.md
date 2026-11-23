@@ -21,18 +21,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Bunker Rifle icon](../assets/Bunker_Rifle_icon.png) |
+| | [Bunker Rifle icon](../assets/Bunker_Rifle_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | A lightweight, agile firearm. Its maneuverable composite stock also makes it less durable. A style in favour among Great Bear Island preppers and other types who like to plan for the worst. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.50 kg (3.3 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_Rifle\_Trader |
 
 **Bunker Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

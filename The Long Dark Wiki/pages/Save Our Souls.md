@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Save Our Souls icon](../assets/Save_Our_Souls_icon.png) |
+| | [Save Our Souls icon](../assets/Save_Our_Souls_icon.png) |
 | Description | Enter the Crash Site. |
 
 **Save Our Souls** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

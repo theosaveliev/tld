@@ -14,8 +14,6 @@
 
 ![Garage 2019](../assets/Garage_2019.jpg)
 
-|
-
 **Location**
 
 ![Quonset Garage map](../assets/Quonset_Garage_map.png)
@@ -118,5 +116,3 @@ The garage has many advantages as a safe house. Inside you will find ample stora
 ![The old exterior of the garage](../assets/Quonset_Garage_exterior.jpg)
 
 ![The older exterior of the garage.](../assets/The_Long_Dark_-_screenshot_14.jpg)
-
-[es:Taller quonset](https://es.wikipedia.org/wiki/Taller_quonset) [ru:Гараж](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B0%D0%B6)

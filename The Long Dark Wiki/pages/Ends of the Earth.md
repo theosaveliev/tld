@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ends of the Earth icon](../assets/Ends_of_the_Earth_icon.png) |
+| | [Ends of the Earth icon](../assets/Ends_of_the_Earth_icon.png) |
 | Description | Travel from Desolation Point to Sundered Pass (single game). |
 
 **Ends of the Earth** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

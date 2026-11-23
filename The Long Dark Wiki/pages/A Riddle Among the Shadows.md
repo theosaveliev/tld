@@ -16,9 +16,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Forest Talker Letter](../assets/Forest_Talker_Letter.jpg) |
-| Episode |  |
-| **Missions** |  |
+| | [Forest Talker Letter](../assets/Forest_Talker_Letter.jpg) |
+| Episode | |
+| **Missions** | |
 | Current | A Riddle Among the Shadows |
 | Region | [Blackrock](./Blackrock.md) |
 

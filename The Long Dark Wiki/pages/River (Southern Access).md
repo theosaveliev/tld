@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [River Southern Access](../assets/River_Southern_Access.png) |
-| **Location** |  |
-|  | [River (Southern Access) Location](../assets/River_%28Southern_Access%29_Location.png) |
+| | [River Southern Access](../assets/River_Southern_Access.png) |
+| **Location** | |
+| | [River (Southern Access) Location](../assets/River_%28Southern_Access%29_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Description | A small river between Carter Dam and Mystery Lake. |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 The **River (Southern Access)** is an unmarked location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), located not far from the titular [Mystery Lake](./Mystery%20Lake%20%28location%29.md).
 

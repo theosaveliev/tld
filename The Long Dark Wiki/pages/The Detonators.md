@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Detonators](../assets/The_Detonators.png) |
-| Episode |  |
-| **Missions** |  |
+| | [The Detonators](../assets/The_Detonators.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [The Power Plant](./The%20Power%20Plant.md) |
 | Current | The Detonators |
 | Next | [Donner\_(mission)](./Donner%20%28mission%29.md) |

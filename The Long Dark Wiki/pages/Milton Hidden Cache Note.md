@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Milton Hidden Cache Note icon](../assets/Milton_Hidden_Cache_Note_icon.png) |
+| | [Milton Hidden Cache Note icon](../assets/Milton_Hidden_Cache_Note_icon.png) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A note found in a discarded vehicle in Milton. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

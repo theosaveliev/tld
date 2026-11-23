@@ -29,6 +29,7 @@
 
 ![Fatigue icon](../assets/Fatigue_icon.png) **Fatigue** is one of the four essential [Needs](./Needs.md). Fatigue is the measure of how tired the character is. Fatigue constantly drains but can be replenished by sleeping. As the character tires, Fatigue begins to affect the ability to move, aim weapons, and [struggles](./Struggle.md). When completely depleted, fatigue will begin to lower the player's [Condition](./Condition.md).
 
+<a id="gaining-losing-fatigue"></a>
 ## Gaining/Losing Fatigue
 
 As long as the character is awake, fatigue will constantly be emptying. The rate of drop is directly dependent on activity level and encumbrance but may also be influenced by other factors like [temperature](./Feels%20Like.md) and [illness](./Afflictions.md). Example: The fatigue bar can be emptied as quickly as in 2.6 game hours by sprinting as often as possible, while a long [Rope Climbing](./Rope%20Climbing.md) session can easily consume half the player's fatigue in minutes. However, remaining inactive by passing time at a [bedroll](./Bedroll.md) will see the same bar last almost 22 game hours.
@@ -37,11 +38,11 @@ Properly balancing one's activity level somewhere between "always resting" and "
 
 | Activity | Fatigue Loss (per realtime minute) | Notes |
 | --- | --- | --- |
-| Standing | 1% |  |
-| Walking | 2% |  |
+| Standing | 1% | |
+| Walking | 2% | |
 | Sprinting | 15%-30% | Increases linearly based on how long you have been sprinting uninterrupted. |
-| Rope Climbing Up | 60% |  |
-| Rope Climbing Down/Holding | 30% |  |
+| Rope Climbing Up | 60% | |
+| Rope Climbing Down/Holding | 30% | |
 
 In custom games, non-standard game timescales will multiply normal sources of fatigue (standing/walking/sprinting/climbing) relative to real-time. For example, in a custom game with 4x day length, you will only expend 0.5% stamina per real-time minute while walking.
 

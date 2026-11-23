@@ -1,3 +1,4 @@
+<a id="bricklayer-s-retreat"></a>
 # Bricklayer's Retreat
 
 **Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bricklayer's_Retreat)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bricklayer's Retreat](../assets/Bricklayer%27s_Retreat.jpg) |
-| **Location** |  |
-|  | [Bricklayer's Retreat Location](../assets/Bricklayer%27s_Retreat_Location.png) |
-| Region |  |
+| | [Bricklayer's Retreat](../assets/Bricklayer%27s_Retreat.jpg) |
+| **Location** | |
+| | [Bricklayer's Retreat Location](../assets/Bricklayer%27s_Retreat_Location.png) |
+| Region | |
 | Location | Easternmost of the Blackrock Region, near a frozen lake. |
-| **General** |  |
-| Firebox |  |
+| **General** | |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Provides some shelter |
-| **Wintermute** |  |
+| | Provides some shelter |
+| **Wintermute** | |
 | Missions | [Blackrock Rumours](./Blackrock%20Rumours.md) |
 
 **Bricklayer's Retreat** is a cabin located to the east of a pond, near the southeastern limit of [Blackrock](./Blackrock.md).

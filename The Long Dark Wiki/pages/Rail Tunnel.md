@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rail Tunnel](../assets/Rail_Tunnel.jpg) |
-| **Location** |  |
-|  | [Rail Tunnel Location](../assets/Rail_Tunnel_Location.png) |
+| | [Rail Tunnel](../assets/Rail_Tunnel.jpg) |
+| **Location** | |
+| | [Rail Tunnel Location](../assets/Rail_Tunnel_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Location | Connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Rail Tunnel** is a location to the south in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
@@ -32,5 +32,3 @@ The Rail Tunnel was originally a collapsed tunnel called "Tunnel Collapse" in th
 ![An alternative view of Rail Tunnel.](../assets/Tunnel_collapse_02.jpg)
 
 ![The location was known as "Tunnel Collapse" before the Forlorn Muskeg update.](../assets/Rail_Tunnel_Collapse.jpg)
-
-[ru:Железнодорожный тоннель](https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C) [es:A la ciénaga desolada (desde Lago misterioso)](https://es.wikipedia.org/wiki/A_la_ci%C3%A9naga_desolada_%28desde_Lago_misterioso%29)

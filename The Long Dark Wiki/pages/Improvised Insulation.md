@@ -6,11 +6,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Improvised Insulation icon](../assets/Improvised_Insulation_icon.png) |
-| **General** |  |
+| | [Improvised Insulation icon](../assets/Improvised_Insulation_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

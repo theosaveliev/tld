@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mountaineering Boots icon](../assets/Mountaineering_Boots_icon.png) |
-| **General** |  |
+| | [Mountaineering Boots icon](../assets/Mountaineering_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |

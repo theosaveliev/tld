@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tail section2](../assets/Tail_section2.jpg) |
-| **Location** |  |
-|  | [Tail Section Location](../assets/Tail_Section_Location.png) |
+| | [Tail section2](../assets/Tail_section2.jpg) |
+| **Location** | |
+| | [Tail Section Location](../assets/Tail_Section_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 The **Tail Section** is a landmark at the [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md). The plane itself is marked as Grizzly Air.
 

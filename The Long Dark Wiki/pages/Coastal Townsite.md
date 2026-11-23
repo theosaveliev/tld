@@ -6,8 +6,6 @@
 
 ![Coastal townsite 2](../assets/Coastal_townsite_2.jpg)
 
-|
-
 **Location**
 
 ![Coastal Townsite](../assets/Coastal_Townsite.png)
@@ -57,5 +55,3 @@ In addition to a relatively large number of wolves often patrolling the area, a 
 ![Coastal townsite 3](../assets/Coastal_townsite_3.jpg)
 
 ![Coastal townsite 4](../assets/Coastal_townsite_4.jpg)
-
-[ru:Прибрежный посёлок](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA) [es:Pueblo litoral](https://es.wikipedia.org/wiki/Pueblo_litoral)

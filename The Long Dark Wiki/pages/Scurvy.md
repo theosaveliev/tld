@@ -18,20 +18,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Scurvy icon](../assets/Scurvy_icon.png) |
+| | [Scurvy icon](../assets/Scurvy_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Update | 2.25 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die. |
 | Caused By | Diet low in Vitamin-C |
 | Effect | Negative |
 | Type | Disease |
 | Affliction Duration | Until Treated or Death |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Consume foods high in Vitamin-C to cure Scurvy |
 | Recovery Time | Immediate |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | GAMEPLAY\_Scurvy |
 
 **Scurvy** is an [Affliction](./Afflictions.md) in _The Long Dark_. It is caused by consuming a diet with low/no Vitamin-C, and is lethal if untreated.

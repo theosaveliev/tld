@@ -13,16 +13,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) |
+| | [Fresh Rabbit Pelt icon](../assets/Fresh_Rabbit_Pelt_icon.png) |
 | Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-212) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested rabbit pelt. / Can be used for crafting and repairs after air-drying indoors for 3 days. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
 
 **Fresh Rabbit Pelt** is the raw hide of a [Rabbit](./Rabbit.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Rabbitskin Hats](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) once they have [Cured](./Curing.md) into a [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md).

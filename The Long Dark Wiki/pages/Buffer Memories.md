@@ -163,6 +163,7 @@ Found inside the cave on a laptop computer in front of a corpse.
 
 There are eight buffer memories in Coastal Highway, found at the Fishing Camp (at the Rabbit Grove on [Interloper](./Interloper.md), since the house at Fishing Camp is destroyed) and at the Quonset Garage.
 
+<a id="fishing-camp-rabbit-grove-5"></a>
 ### [Fishing Camp](./Fishing%20Camp.md)/[Rabbit Grove](./Rabbit%20Grove.md) (5)
 
 Found on a laptop computer inside the cabin at the furthermost edge of [Fishing Camp](./Fishing%20Camp.md). This cabin is broken when playing Interloper - on that difficulty, the laptop is instead found in the cabin at [Rabbit Grove](./Rabbit%20Grove.md).

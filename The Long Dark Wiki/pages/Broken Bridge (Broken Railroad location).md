@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Broken bridge3](../assets/Broken_bridge3.jpg) |
-| **Location** |  |
-|  | [Broken Bridge Location (Railroad)](../assets/Broken_Bridge_Location_%28Railroad%29.png) |
+| | [Broken bridge3](../assets/Broken_bridge3.jpg) |
+| **Location** | |
+| | [Broken Bridge Location (Railroad)](../assets/Broken_Bridge_Location_%28Railroad%29.png) |
 | Region | [Broken Railroad](./Broken%20Railroad.md) |
 | Location | At the far end of the [railway line](./Trans-Island%20Railway%20Line.md). |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 _See also [Broken Bridge (disambiguation)](./Broken%20Bridge%20%28disambiguation%29.md)._
 

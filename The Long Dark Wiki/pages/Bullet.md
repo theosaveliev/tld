@@ -16,12 +16,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bullet icon](../assets/Bullet_icon.png) |
-| **General** |  |
+| | [Bullet icon](../assets/Bullet_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
 | Renewable | yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
 
 > “**Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.**”

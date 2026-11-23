@@ -12,21 +12,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) |
+| | [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-36) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A heavy, salty soup made from Potatoes. Increases Condition as well as Fatigue. Popular among Great Bear Island Cannery workers because of its simple ingredients. |
-| **Values** |  |
+| **Values** | |
 | Calories | 800 kcal |
 | Hydration | 6% |
 | [Vitamin C](./Scurvy.md) | Moderate (40%) |
 | Weight | 0.35 kg (0.77 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
 
@@ -60,3 +60,5 @@ It is only acquired when trading with the [Trader](./Trader.md). Can be cooked a
 **Item:** [Potato](./Potato.md)
 
 **Quantity:** 2
+
+## Update history

@@ -16,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Spray Paint Glyph icon](../assets/Spray_Paint_-_Glyph_icon.png) |
-| **General** |  |
+| | [Spray Paint Glyph icon](../assets/Spray_Paint_-_Glyph_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs) |
 
 > “**A can of Spray Paint. Can be used to Create Glyphs to protect against the Darkwalker.**”

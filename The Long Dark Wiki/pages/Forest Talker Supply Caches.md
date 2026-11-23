@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Trailer supplies icon](../assets/Trailer_supplies_icon.png) |
+| | [Trailer supplies icon](../assets/Trailer_supplies_icon.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Forest Talker Supply Caches |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
 | Characters | [Forest Talkers](./Forest%20Talkers.md) |

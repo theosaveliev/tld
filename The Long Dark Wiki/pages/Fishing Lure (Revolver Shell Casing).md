@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) |
+| | [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A solid, enticing lure. Improves the odds when fishing. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.01 kg (0.02 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_FishingLure |
 
 **Fishing Lure (Revolver Shell Casing)** is the unofficial name given to one of 3 different fishing lures sharing the same name of **[Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md)**. It was introduced in the free update portion of the Part 3: Frontier Comforts portion of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.

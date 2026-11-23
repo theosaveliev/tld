@@ -45,6 +45,7 @@ Some cliffs feature ledges midway along their rope course, and are suggested whe
 - Almost all ledges are very cold and exposed, especially if strong winds or blizzards are present.
 - It is not possible to exit or enter a rope mid-climb except at designated ledges.
 
+<a id="slipping-falls"></a>
 ## Slipping/Falls
 
 When the character runs out of Stamina mid-climb, there is an increasing chance they will slip on the rope. The longer one continues to climb with no Stamina, the greater the chance of slipping.

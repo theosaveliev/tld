@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Echo peak east](../assets/Echo_peak_east.jpg) |
-| **Location** |  |
-|  | [Echo Peak East Location](../assets/Echo_Peak_East_Location.png) |
+| | [Echo peak east](../assets/Echo_peak_east.jpg) |
+| **Location** | |
+| | [Echo Peak East Location](../assets/Echo_Peak_East_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Above [Echo Ravine](./Echo%20Ravine.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Echo Peak East** is a location (for some reason West of) [Echo Peak West](./Echo%20Peak%20West.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

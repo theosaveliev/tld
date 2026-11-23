@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hardhat icon](../assets/Hardhat_icon.png) |
-| **General** |  |
+| | [Hardhat icon](../assets/Hardhat_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| Clothing Slot |  |
-| **Statistics** |  |
+| Clothing Slot | |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.40 kg(0.88 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |

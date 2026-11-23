@@ -12,16 +12,16 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Pickles icon](../assets/Pickles_icon.png) |
+| | [Pickles icon](../assets/Pickles_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Classic dill Pickles. Crunchy and satisfying. |
-| **Values** |  |
+| **Values** | |
 | Calories | 650 kcal |
 | Hydration | 5% |
 | [Vitamin C](./Scurvy.md) | Moderate (50%) |

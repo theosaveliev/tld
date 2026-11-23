@@ -24,7 +24,7 @@
 
 | Property | Details |
 | --- | --- |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Buried Echoes](./Buried%20Echoes.md) |
 | Current | Last Horizon |
 | Next | [Sutherland's Tale](./Sutherland%27s%20Tale.md) |
@@ -61,6 +61,7 @@ Continuing the events of the last Tale, the survivor buries the remains of the S
 - Return to the [Omega Bunker](./Bunker%20Omega.md) and investigate the area shown in the Polaroid.
   - Discover Rüdiger's true fate. [0/4]
 
+<a id="find-out-what-happened-to-rudiger"></a>
 ## Find out what happened to Rüdiger
 
 After burying the [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md) at [Enduring Waterfall](./Enduring%20Waterfall.md), the only thing left to do is find out where Rüdiger may have gone. [Security Chief's Log 33](./Security%20Chief%27s%20Log%2033.md) mentions that Rüdiger had an escape plan in the form of a transmission site over the mountains after the failure of The Machine in the [Langston Mine](./Langston%20Mine.md), in the region known as [Sundered Pass](./Sundered%20Pass.md).
@@ -102,6 +103,7 @@ Searching the 3 buildings at the outpost does not yield anything useful for the 
 
 When the Radio is powered, it will point in the direction next of a small ledge near the Radar building. Dig through the snow to uncover a [Lock Box](./Lock%20Box.md) and [Foreman's Technical Log 1](./Foreman%27s%20Technical%20Log%201.md). Inside the Lock Box is [An Old House Key](./An%20Old%20House%20Key.md) and some other loot. After listening to the Foreman's log, the survivor will open the clipboard box to find [Foreman's Polaroid 1](./Foreman%27s%20Polaroid%201.md) inside, with a photo of a small cabin.
 
+<a id="find-the-foreman-s-refuge"></a>
 ## Find the Foreman's Refuge
 
 The text on the back of the Polaroid mentions a forest below the treeline, which can be seen slightly southwest of your position if you walk back to the Second Pillar. Make your way there via the rope bridge and continue past the Transition Cave that leaves the region (rest here if you need to). Climb down the Rope Climbing section and near the bottom you will find the [Last Lonely House](./Last%20Lonely%20House.md). The front door is unlocked but the door to the bedroom is not, requiring An Old House Key.
@@ -110,6 +112,7 @@ The bedroom has the following loot: [Foreman's Technical Log 2](./Foreman%27s%20
 
 Grab the Technical Log and yet another Polaroid is inside, [Foreman's Polaroid 2](./Foreman%27s%20Polaroid%202.md), pointing to a ruined building that the Foreman believed to be Rüdiger's Hideout, a building out in the field near Refuge Cabin B [Placid Notch](./Placid%20Notch.md), in a place called [Old Settlement](./Old%20Settlement.md).
 
+<a id="find-rudiger-s-hideout"></a>
 ## Find Rüdiger's Hideout
 
 Travel south from the door of the Last Lonely House to return back to the collapsed tunnel leading to Transfer Pass, and then follow the road up the mountains out into the field (avoiding Timberwolf packs along the way). Wait inside Placid Notch until the Handheld Shortwave becomes active, and then follow the signal. Unlike the Weather Station signal, this location has a very short detection range.
@@ -128,6 +131,7 @@ The journey ahead will be extremely cold, becoming colder as The Survivor ascend
 
 On the other side will be [High Peak Plateau](./High%20Peak%20Plateau.md), with a shed next to a signal dish containing 2 items: [Rüdiger's Diary 2](./R%C3%BCdiger%27s%20Diary%202.md) and [Foreman's Technical Log 3](./Foreman%27s%20Technical%20Log%203.md) (with another Polaroid inside, [Foreman's Polaroid 3](./Foreman%27s%20Polaroid%203.md)). This photo shows an already familiar location you've explored long ago, [Bunker Omega](./Bunker%20Omega.md).
 
+<a id="return-to-bunker-omega-and-discover-rudiger-s-fate"></a>
 ## Return to Bunker Omega and discover Rüdiger's fate
 
 (Note: If you have finished Last Horizon before and are playing Tales out of order, Bunker Omega cannot be opened without first completing [Signal Void](./Signal%20Void.md))

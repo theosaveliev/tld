@@ -14,7 +14,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mending background](../assets/Mending_background.png) |
+| | [Mending background](../assets/Mending_background.png) |
 | Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-364-vigilant-trespass-update) |
 | Date | 23 September 2016 |
 

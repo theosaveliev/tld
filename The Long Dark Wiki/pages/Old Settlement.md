@@ -15,13 +15,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Settlement Close](../assets/Old_Settlement_Close.jpg) |
-| **Location** |  |
-|  | [Old Settlement Location](../assets/Old_Settlement_Location.png) |
+| | [Old Settlement Close](../assets/Old_Settlement_Close.jpg) |
+| **Location** | |
+| | [Old Settlement Location](../assets/Old_Settlement_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A cluster of destroyed and intact buildings along the road in Sundered Pass |
-| **General** |  |
-|  | Provides some shelter |
+| **General** | |
+| | Provides some shelter |
 
 The **Old Settlement** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
 

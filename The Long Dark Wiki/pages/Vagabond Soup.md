@@ -12,20 +12,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) |
+| | [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-36) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A humble soup made of Salt, Broth, and fresh Rabbit. Fortifies Condition, if salty. Originated in the community of people known to hop trains along the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), who would harvest the many Rabbits that lived alongside the tracks. |
-| **Values** |  |
+| **Values** | |
 | Calories | 550 kcal |
 | Hydration | 6% |
 | Weight | 0.35 kg (0.77 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
 
@@ -63,3 +63,5 @@ At Cooking 5, the calorie value of Vagabond Soup is the same as its components. 
 **Item:** [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
+
+## Update history

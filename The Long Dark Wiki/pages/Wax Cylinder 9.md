@@ -12,16 +12,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
+| | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An audio recording made of wax. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
@@ -76,3 +76,5 @@ She spent her whole life trying to uncover the truth, and died without ever comp
 I'm here to finish the job she started.
 
 But I won't be able to do it without you.
+
+## Game history

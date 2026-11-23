@@ -15,17 +15,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png) |
+| | [Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png) |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-48-steadfast-ranger) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [First Aid](./First%20Aid.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | Dried Birch Bark, suitable for brewing into a restorative tea. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.05 kg (0.11 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

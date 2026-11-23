@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Diary Page icon](../assets/Diary_Page_icon.png) |
+| | [Diary Page icon](../assets/Diary_Page_icon.png) |
 | Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A diary page, faded with age and heavily watermarked. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

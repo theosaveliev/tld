@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bunker Schematic Fragment 2 icon](../assets/Bunker_Schematic_Fragment_2_icon.png) |
+| | [Bunker Schematic Fragment 2 icon](../assets/Bunker_Schematic_Fragment_2_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A technical drawing. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

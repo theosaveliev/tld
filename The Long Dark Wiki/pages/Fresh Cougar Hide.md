@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) |
+| | [Fresh Cougar Hide icon](../assets/Fresh_Cougar_Hide_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Materials](./Materials.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Freshly harvested hide from a Cougar. A reminder of the predator's fearsome strength. / Can be used for crafting and repairs after air-drying indoors for 10 days. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.75 kg (1.65 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CougarHide |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

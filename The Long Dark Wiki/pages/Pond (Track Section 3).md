@@ -12,14 +12,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg) |
-| **Location** |  |
-|  | [Pond Track 3 Location](../assets/Pond_Track_3_Location.png) |
+| | [Pond (Track Section 3)](../assets/Pond_%28Track_Section_3%29.jpg) |
+| **Location** | |
+| | [Pond Track 3 Location](../assets/Pond_Track_3_Location.png) |
 | Region | [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) |
 | Location | Eastern most section of the map near the rails |
 | Description | A small pond close to the rail line |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Pond** is a location in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
 

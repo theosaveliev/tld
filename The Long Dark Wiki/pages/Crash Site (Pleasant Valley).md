@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS PV crash 04](../assets/SS-PV-crash-04.jpg) |
-| **Location** |  |
-|  | [Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png) |
+| | [SS PV crash 04](../assets/SS-PV-crash-04.jpg) |
+| **Location** | |
+| | [Crash Site Pleasant Valley Location](../assets/Crash_Site_Pleasant_Valley_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | Near Skeeter's Ridge |
 | Description | A crashed passenger airliner |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

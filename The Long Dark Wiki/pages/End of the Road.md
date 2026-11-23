@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [End of the Road](../assets/End_of_the_Road.jpg) |
-| **Location** |  |
-|  | [End of the Road Location](../assets/End_of_the_Road_Location.png) |
+| | [End of the Road](../assets/End_of_the_Road.jpg) |
+| **Location** | |
+| | [End of the Road Location](../assets/End_of_the_Road_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | At one end of the road that passes through the region |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **End of the Road** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 

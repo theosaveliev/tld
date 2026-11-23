@@ -13,8 +13,8 @@
 
 | Property | Details |
 | --- | --- |
-| Episode |  |
-| **Missions** |  |
+| Episode | |
+| **Missions** | |
 | Current | Convict Caches |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
@@ -37,6 +37,7 @@ To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20
   - Convict cache 3
   - Convict cache 4
 
+<a id="cache-locations-routes"></a>
 ## Cache locations/routes
 
 - Cache 1 is located behind a stone in the "roots" of a fallen tree where the cliff face and the mountain meet above the [Old Substation](./Old%20Substation.md). Getting there is very easy, start at the [Old Substation](./Old%20Substation.md) and go towards the Mountain then along the bottom of it to the left. In survival a [Prepper cache](./Prepper%20Cache.md) may spawn in this location instead.

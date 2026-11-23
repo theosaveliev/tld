@@ -8,8 +8,6 @@
 
 ![Large](../assets/CedarLimbLarge.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -57,5 +55,5 @@ Large limbs cannot be cut up with a Hacksaw, and take 60 min to harvest with a n
 
 | Cedar Firewood/Tinder Plug | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
-| 5/2 | 60 minutes |  | -2% Hatchet |
+| 5/2 | 60 minutes | | -2% Hatchet |
 | 5/2 | 78 minutes | 325 | -2% Improvised Hatchet |

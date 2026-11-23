@@ -8,11 +8,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | 250px |
-| **General** |  |
+| | 250px |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Harvest | 8 × [scrap metal](./Scrap%20Metal.md) |
 
 Metal tables yield 8 [scrap metal](./Scrap%20Metal.md) require a [hacksaw](./Hacksaw.md) to harvest, and take 180 minutes to harvest.

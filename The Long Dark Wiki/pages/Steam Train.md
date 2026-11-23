@@ -31,6 +31,7 @@ According to the [Piece of Paper](./Piece%20of%20Paper%20%282%29.md) found in th
 
 ![View from the cab of the locomotive](../assets/Steam_Loco_driving_1.png)_View from the cab of the locomotive_Before operation, the Throttle [Train Lever](./Train%20Lever.md) needs to be reinstalled in the locomotive. The lever can be found on the wall near a drill press in the nearby maintenance shed. This will progress the mission to the next stage.
 
+<a id="steam-train-s-firebox"></a>
 ### Steam Train's Firebox
 
 > “**Use Coal to get the Steam Train Firebox temperature up to 125 degrees to start building pressure (PSI). The firebox will slowly cool off over time if you don't keep feeding it coal but never below 125 degrees.**”
@@ -49,6 +50,7 @@ As the temperature rises to 125°C (225°F), PSI is built up on a dial that will
 
 Once the locomotive has built enough steam PSI, it can be driven by releasing the brakes and engaging the throttle. The locomotive can maintain boiler pressure at half-throttle indefinitely, but full throttle must be used to push away obstacles such as fallen trees, snowdrifts, or fence gates. It is also capable of pushing some road-rail trucks and some railroad cars out of the way. The steam whistle can be used to scare [wolves](./Wolf.md) away. The train can be reversed and can automatically apply the brakes if selected.
 
+<a id="steam-train-s-speed"></a>
 ### Steam Train's Speed
 
 > “**The Steam Train can move at two speeds "Slow" and "Fast". When the Steam Train is moving fast enough it can break through obstacles that would otherwise block its path. But increasing the Steam Train's speed will consume PSI.**”

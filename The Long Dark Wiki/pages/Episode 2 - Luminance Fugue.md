@@ -120,6 +120,7 @@ _Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
 
 — In-game description
 
+<a id="hank-s-hatch"></a>
 ### Hank's Hatch
 
 _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_

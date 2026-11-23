@@ -12,11 +12,11 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Desperation Bay In Game Map](../assets/Desperation_Bay_In-Game_Map.png) |
-| **Details** |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Desperation Bay In Game Map](../assets/Desperation_Bay_In-Game_Map.png) |
+| **Details** | |
 | Description | A remote coastline near the ends of the Earth. |
 | Connecting Regions | [Perseverance Mills](./Perseverance%20Mills.md) |
 | Date Added | 31 March 2026 |

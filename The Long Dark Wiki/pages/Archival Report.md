@@ -15,20 +15,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Archival Report icon](../assets/Archival_Report_icon.png) |
+| | [Archival Report icon](../assets/Archival_Report_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Dark Star](./Dark%20Star.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A bloody page torn from Blackrock Penitentiary records. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_PrisonLore |
 
 **Archival Report** are 4 [Collectible](./Collectibles.md) items found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story mode during the [Dark Star](./Dark%20Star.md) side mission.

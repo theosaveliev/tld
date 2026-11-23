@@ -14,21 +14,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) |
+| | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A cup of tea. |
-| **Values** |  |
+| **Values** | |
 | Calories | 100 kcal |
 | Hydration | 30% |
 | [Vitamin C](./Scurvy.md) | Minor (11%) |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_GreenTeaCup |
 
 **Cup of Herbal Tea**is a [drink](./Food%20And%20Drink.md) item in _The Long Dark._

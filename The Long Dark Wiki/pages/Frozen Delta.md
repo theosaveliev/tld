@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS BI FrozenDelta003](../assets/SS-BI-FrozenDelta003.jpg) |
-| **Location** |  |
-|  | [Frozen Delta Location](../assets/Frozen_Delta_Location.png) |
+| | [SS BI FrozenDelta003](../assets/SS-BI-FrozenDelta003.jpg) |
+| **Location** | |
+| | [Frozen Delta Location](../assets/Frozen_Delta_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Frozen Delta** is an outdoor location in [Bleak Inlet](./Bleak%20Inlet.md).
 

@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png) / _[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Pleasant Valley Location](../assets/Pleasant_Valley_Location.png) |
-|  | [Pleasant valley map](../assets/Pleasant_valley_map.png) |
-| **Details** |  |
+| | [Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png) / _[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_ |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Pleasant Valley Location](../assets/Pleasant_Valley_Location.png) |
+| | [Pleasant valley map](../assets/Pleasant_valley_map.png) |
+| **Details** | |
 | Description | A large open farmland basin surrounded by mountains on all sides, with a very ironic name. |
 | Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md), / [Coastal Highway](./Coastal%20Highway.md), / [Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_, / [Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_ |
 | Difficulty | Advanced |
@@ -161,5 +161,3 @@ _A view showing the expansive Pleasant Valley. [Pleasant Valley outbuildings](./
 ![Draft Dodger's Cabin](../assets/Draft_Dodger%27s_Cabin.jpg)
 
 ![Signal Hill](../assets/Signal_Hill.jpg)
-
-[es:Valle apacible](https://es.wikipedia.org/wiki/Valle_apacible) [fr:Vallée Charmante](https://fr.wikipedia.org/wiki/Vall%C3%A9e_Charmante)

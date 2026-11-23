@@ -21,11 +21,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Anna Island Track Section 5](../assets/Anna_Island_Track_Section_5.jpg) |
-| **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-|  | [Anna Island Track Section 5 Map](../assets/Anna_Island_Track_Section_5_Map.png) |
-| **Details** |  |
+| | [Anna Island Track Section 5](../assets/Anna_Island_Track_Section_5.jpg) |
+| **Location on [Cauldron Island](./Cauldron%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| | [Anna Island Track Section 5 Map](../assets/Anna_Island_Track_Section_5_Map.png) |
+| **Details** | |
 | Description | A mountainous, linear railway region near Port Remnant |
 | Connecting Regions | [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) |
 | Interloper Region Spawn | No |

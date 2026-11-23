@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [A Fresh Ravaged Deer](../assets/A_Fresh_Ravaged_Deer.jpg) |
-| **General** |  |
+| | [A Fresh Ravaged Deer](../assets/A_Fresh_Ravaged_Deer.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 
@@ -25,7 +25,7 @@ A carcass can also be quartered into bags of meat to be taken elsewhere for harv
 
 Buck and Doe carcasses contain slightly differing amounts of meat upon their corpses, with Bucks having slightly higher amounts of raw Venison.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always (1) |
 | [Deer Quarter icon](../assets/Deer_Quarter_icon.png) | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always (2) |

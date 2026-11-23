@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Improved Rest icon](../assets/Improved_Rest_icon.png) |
+| | [Improved Rest icon](../assets/Improved_Rest_icon.png) |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-181) |
 | Update | 0.181 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume [Food And Drink](./Food%20And%20Drink.md) |
 | Effect | Positive |
 | Type | Benefit |
 | Benefit Duration | 3-6 Hours |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | ConditionRestBuff |
 
 > “**This will help you Rest more deeply. You'll recover more Condition per hour of Rest.**”
@@ -28,7 +28,7 @@
 
 Improved Rest is received when consuming any of the following items:
 
-|  | Food and Drink | Duration |
+| | Food and Drink | Duration |
 | --- | --- | --- |
 | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
@@ -43,7 +43,7 @@ Improved Rest is received when consuming any of the following items:
 
 This affliction causes the following effects:
 
-|  | Effect | Magnitude |
+| | Effect | Magnitude |
 | --- | --- | --- |
 |  | [Condition](./Condition.md) restoration | 2% per hour (1) |
 

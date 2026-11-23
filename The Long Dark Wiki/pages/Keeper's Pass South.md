@@ -1,3 +1,4 @@
+<a id="keeper-s-pass-south"></a>
 # Keeper's Pass South
 
 **Categories:** Pages with update history, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South)
@@ -15,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Vistekeeperspass](../assets/Vistekeeperspass.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Keeper's Pass South Location](../assets/Keeper%27s_Pass_South_Location.png) |
-|  | [Keeper's Pass South Region Map](../assets/Keeper%27s_Pass_South_Region_Map.png) |
-| **Details** |  |
+| | [Vistekeeperspass](../assets/Vistekeeperspass.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Keeper's Pass South Location](../assets/Keeper%27s_Pass_South_Location.png) |
+| | [Keeper's Pass South Region Map](../assets/Keeper%27s_Pass_South_Region_Map.png) |
+| **Details** | |
 | Description | A small crossroads in the mountains connecting [Milton](./Milton.md), [Blackrock](./Blackrock.md) and [Pleasant Valley](./Pleasant%20Valley.md) |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) [Blackrock](./Blackrock.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) ) |
 | Locations | 4 |

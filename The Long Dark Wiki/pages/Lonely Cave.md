@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [LonelyCave](../assets/LonelyCave.png) |
-| **Location** |  |
-|  | [Lonely Cave Location](../assets/Lonely_Cave_Location.png) |
+| | [LonelyCave](../assets/LonelyCave.png) |
+| **Location** | |
+| | [Lonely Cave Location](../assets/Lonely_Cave_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Just north of the connection to [Mountain Town](./Mountain%20Town.md), on the high plateau |
 | Description | A small, isolated cave. |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Lonely Cave** is a small cave within the [Hushed River Valley](./Hushed%20River%20Valley.md).
 

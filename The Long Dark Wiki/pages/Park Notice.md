@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Park Notice icon](../assets/Park_Notice_icon.png) |
+| | [Park Notice icon](../assets/Park_Notice_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A note sent to the Warden of Mystery lake Provincial Park. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_BookMending |
 
 **Park Notice** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). It is found in the [Camp Office](./Camp%20Office.md) on the front counter.

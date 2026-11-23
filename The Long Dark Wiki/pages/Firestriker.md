@@ -18,13 +18,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Firestriker icon](../assets/Firestriker_icon.png) |
-| **General** |  |
+| | [Firestriker icon](../assets/Firestriker_icon.png) |
+| **General** | |
 | Item Type | Fire Starting |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
 | Firestarting Slot | Starter |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+15% |
 

@@ -692,6 +692,7 @@ If it had gone another way down in that mine, you'd have never even known I was 
 
 - Mackenzie finds a note in a supply cache about a special powered Prepper Cache, and loots it during the Aurora.
 
+<a id="hank-s-hatch"></a>
 ### [Hank's Hatch](./Hank%27s%20Hatch.md)
 
 - Mackenzie finds several notes about a Prepper Cache created by a man named Hank.

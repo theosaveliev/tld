@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [ShatteredCove](../assets/ShatteredCove.png) |
-| **Location** |  |
-|  | [Shattered Cove Location](../assets/Shattered_Cove_Location.png) |
+| | [ShatteredCove](../assets/ShatteredCove.png) |
+| **Location** | |
+| | [Shattered Cove Location](../assets/Shattered_Cove_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A depression surrounded by steep cliff walls. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Shattered Cove** is a low-lying, swampy area not far from the [Echo Ravine](./Echo%20Ravine.md) connector, surrounded by high plateau on three sides.
 

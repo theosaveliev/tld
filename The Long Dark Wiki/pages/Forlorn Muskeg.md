@@ -15,11 +15,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png) |
-|  | [Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png) |
-| **Details** |  |
+| | [Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png) |
+| | [Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png) |
+| **Details** | |
 | Description | A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Broken Railroad](./Broken%20Railroad.md), / [Bleak Inlet](./Bleak%20Inlet.md), / [Mountain Town](./Mountain%20Town.md) |
 | Difficulty | Advanced |

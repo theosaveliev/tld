@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Locker Key icon](../assets/Locker_Key_icon.png) |
+| | [Locker Key icon](../assets/Locker_Key_icon.png) |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | (#)8 Locker Key |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

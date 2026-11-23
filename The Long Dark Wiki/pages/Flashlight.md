@@ -16,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Flashlight icon](../assets/Flashlight_icon.png) |
-| **General** |  |
+| | [Flashlight icon](../assets/Flashlight_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) |
 | Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) |

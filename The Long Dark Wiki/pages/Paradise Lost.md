@@ -13,9 +13,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Paradise Lost](../assets/Paradise_Lost.png) |
+| | [Paradise Lost](../assets/Paradise_Lost.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [The Grey Mother](./The%20Grey%20Mother.md) |
 | Current | Paradise Lost |
 | Next | [The Wounded Trapper](./The%20Wounded%20Trapper.md) |

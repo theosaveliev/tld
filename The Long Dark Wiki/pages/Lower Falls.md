@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lower Falls](../assets/Lower_Falls.jpg) |
-| **Location** |  |
-|  | [Lower Falls Location](../assets/Lower_Falls_Location.png) |
+| | [Lower Falls](../assets/Lower_Falls.jpg) |
+| **Location** | |
+| | [Lower Falls Location](../assets/Lower_Falls_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | Near [Pensive Pond](./Pensive%20Pond.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Lower Falls** is one of several flowing waterfalls in [Pleasant Valley](./Pleasant%20Valley.md).
 

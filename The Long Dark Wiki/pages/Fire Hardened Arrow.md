@@ -14,17 +14,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) |
+| | [Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | Yes |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_ArrowHardened |
 
 > “**A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.**”

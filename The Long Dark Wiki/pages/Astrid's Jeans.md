@@ -1,3 +1,4 @@
+<a id="astrid-s-jeans"></a>
 # Astrid's Jeans
 
 **Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Jeans)
@@ -6,12 +7,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Astrid's Jeans icon](../assets/Astrid%27s_Jeans_icon.png) |
-| **General** |  |
+| | [Astrid's Jeans icon](../assets/Astrid%27s_Jeans_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer legs |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |

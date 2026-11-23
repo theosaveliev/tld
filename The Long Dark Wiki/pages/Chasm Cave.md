@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Chasm Cave](../assets/Chasm_Cave.jpg) |
-| **Location** |  |
-|  | [Chasm Cave Location](../assets/Chasm_Cave_Location.png) |
+| | [Chasm Cave](../assets/Chasm_Cave.jpg) |
+| **Location** | |
+| | [Chasm Cave Location](../assets/Chasm_Cave_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Location | Between [Engine](./Engine%20%28East%29.md) and [Echo Ravine](./Echo%20Ravine.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Chasm Cave** is a cave in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

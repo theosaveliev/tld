@@ -42,11 +42,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wolf](../assets/Wolf.png) |
-| **Basic Information** |  |
+| | [Wolf](../assets/Wolf.png) |
+| **Basic Information** | |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Role | Predator |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Color | Black |
 | Size | Medium |
 
@@ -70,7 +70,7 @@ At night, Wolves can easily be spotted if they are facing your direction by the 
 
 A [Wolf Carcass](./Wolf%20Carcass.md) may be harvested for 3.0-6.0 kg of [raw meat](./Wolf%20Meat%20%28Raw%29.md), 1 [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) and 2 guts. Wolf hides can be cured to craft [Wolfskin Coat](./Wolfskin%20Coat.md), [Wolfskin Pants](./Wolfskin%20Pants.md), or a [Wolfskin Hat](./Wolfskin%20Hat.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)* | 3 - 6 | Always (1) |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always (2) |
@@ -81,7 +81,7 @@ A [Wolf Carcass](./Wolf%20Carcass.md) may be harvested for 3.0-6.0 kg of [raw me
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 

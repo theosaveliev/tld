@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [High Energy](./High%20Energy.md) |
 | Current | To SAR And Back |
 | Next | [Conflagration](./Conflagration.md) |

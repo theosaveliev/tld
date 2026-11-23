@@ -17,18 +17,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Torch icon](../assets/Torch_icon.png) |
+| | [Torch icon](../assets/Torch_icon.png) |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-192) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A simple torch -- the same kind that's dispelled the darkness for thousands of years. Might even keep the Wolves at bay. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.30 kg (0.66 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Torch |
 
 A **Torch** is a craftable tool that creates light and a small amount of heat, adding +3°C to your "Feels Like" temperature. If more than one is dropped on the ground (at your feet) while burning, the warmth bonus they provide stacks, unless a fire is nearby, in which case it overrides the warmth from torches.
@@ -62,7 +62,7 @@ A [Torch](./Torch.md) can be used either as a Starter or as Fuel. The properties
 | Property | Details |
 | --- | --- |
 | Type | Starter |
-| **Statistics** |  |
+| **Statistics** | |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +5% |
 
 The properties of a Torch when used as Fuel are:
@@ -72,7 +72,7 @@ The properties of a Torch when used as Fuel are:
 | Property | Details |
 | --- | --- |
 | Type | Fuel |
-| **Statistics** |  |
+| **Statistics** | |
 | Duration | [Fire Starting](../assets/Fire_Starting.png) 10 minutes |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) -5% |
 | Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +1°C (+1.8°F) |

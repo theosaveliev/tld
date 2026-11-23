@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lookout closeup](../assets/Lookout_closeup.jpg) |
-| **Location** |  |
-|  | [Lookout Location](../assets/Lookout_Location.png) |
+| | [Lookout closeup](../assets/Lookout_closeup.jpg) |
+| **Location** | |
+| | [Lookout Location](../assets/Lookout_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 _For similarly named fire lookout towers, see [Lookout (disambiguation)](./Lookout%20%28disambiguation%29.md)._
 

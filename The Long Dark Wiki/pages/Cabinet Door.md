@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cabinet Door](../assets/Cabinet_Door.jpg) |
-| **General** |  |
-| Item Type |  |
+| | [Cabinet Door](../assets/Cabinet_Door.jpg) |
+| **General** | |
+| Item Type | |
 | Wintermute | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Harvest | 8 Minutes 1 x [Reclaimed Wood](./Reclaimed%20Wood.md) |

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Echo Peak West](../assets/Echo_Peak_West.jpg) |
-| **Location** |  |
-|  | [Echo Peak West Location](../assets/Echo_Peak_West_Location.png) |
+| | [Echo Peak West](../assets/Echo_Peak_West.jpg) |
+| **Location** | |
+| | [Echo Peak West Location](../assets/Echo_Peak_West_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Echo Peak West** is a location in [Timberwolf Mountain](./Timberwolf%20Mountain.md), located (surprisingly) _east_ of [Echo Peak East](./Echo%20Peak%20East.md).
 

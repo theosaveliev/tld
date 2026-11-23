@@ -16,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Meat Curing Box icon](../assets/Meat_Curing_Box_icon.png) |
+| | [Meat Curing Box icon](../assets/Meat_Curing_Box_icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Values** |  |
+| **Values** | |
 | Weight | 10.00 kg (22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Drop, Place |
 
 > “**A salt filled Curing Box for meat or fish.**”

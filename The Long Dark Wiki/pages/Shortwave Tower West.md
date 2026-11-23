@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20190101173144 1](../assets/20190101173144_1.jpg) |
-| **Location** |  |
-|  | [Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png) |
+| | [20190101173144 1](../assets/20190101173144_1.jpg) |
+| **Location** | |
+| | [Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png) |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | Location | no |
-| **General** |  |
+| **General** | |
 | Type | OutdoorsMilitary/Sporting |
-|  | Has no shelter |
+| | Has no shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

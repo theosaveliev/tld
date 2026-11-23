@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Aviator Cap icon](../assets/Aviator_Cap_icon.png) |
-| **General** |  |
+| | [Aviator Cap icon](../assets/Aviator_Cap_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
 | Clothing Slot | Head |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [NarrowFallsCave 1080p](../assets/NarrowFallsCave_1080p.png) |
-| **Location** |  |
-|  | [Narrow Falls Cave Location](../assets/Narrow_Falls_Cave_Location.png) |
+| | [NarrowFallsCave 1080p](../assets/NarrowFallsCave_1080p.png) |
+| **Location** | |
+| | [Narrow Falls Cave Location](../assets/Narrow_Falls_Cave_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Narrow Falls Cave** is a small cave in [Ash Canyon](./Ash%20Canyon.md) located next to a waterfall, presumably called Narrow Falls. It's located a short distance east (as the crow flies) of [Miner's Folly](./Miner%27s%20Folly.md).
 

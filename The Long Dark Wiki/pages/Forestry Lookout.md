@@ -16,16 +16,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [New forestry lookout5](../assets/New_forestry_lookout5.jpg) |
-| **Location** |  |
-|  | [Forestry Lookout Location](../assets/Forestry_Lookout_Location.png) |
+| | [New forestry lookout5](../assets/New_forestry_lookout5.jpg) |
+| **Location** | |
+| | [Forestry Lookout Location](../assets/Forestry_Lookout_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Description | A fire lookout tower that overlooks the region. |
-| **General** |  |
+| **General** | |
 | Type | Military/Sporting |
 | Firebox | [Wood Stove](./Wood%20Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Forestry Lookout** is a tall, wooden structure found in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

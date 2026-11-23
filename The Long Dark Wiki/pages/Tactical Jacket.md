@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tactical Jacket icon](../assets/Tactical_Jacket_icon.png) |
-| **General** |  |
+| | [Tactical Jacket icon](../assets/Tactical_Jacket_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |

@@ -21,20 +21,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Sport Bow icon](../assets/Sport_Bow_icon.png) |
+| | [Sport Bow icon](../assets/Sport_Bow_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | A light and durable manufactured Bow. A trusty companion on or off the archery range. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.35 kg (0.77 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Use, Actions, Drop |
 | On ground | Take It, Equip It, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GEAR\_Bow\_Manufactured |
 
 **Sport Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.

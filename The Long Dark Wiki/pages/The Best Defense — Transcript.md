@@ -1,3 +1,4 @@
+<a id="the-best-defense-transcript"></a>
 # The Best Defense/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Best_Defense%2FTranscript)
@@ -13,9 +14,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png) |
+| | [Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md) |
 | Current | The Best Defense/Transcript |
 | Next | [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md) |

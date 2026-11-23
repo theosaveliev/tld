@@ -8,8 +8,6 @@
 
 ![Interior](../assets/It%27s_really_a_trailer.jpg)
 
-|
-
 **Location**
 
 ![Trailer MT Location](../assets/Trailer_MT_Location.png)

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Park Warning Notice icon](../assets/Park_Warning_Notice_icon.png) |
+| | [Park Warning Notice icon](../assets/Park_Warning_Notice_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A weathered-looking Milton & Area Parks Board Notice, pinned to the board. Looks like it's been here a while. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 
 **Park Warning Notice** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md). It is located on an information board when following the path into [Milton Park](./Milton%20Park.md).

@@ -16,13 +16,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Marine Flare icon](../assets/Marine_Flare_icon.png) |
-| **General** |  |
+| | [Marine Flare icon](../assets/Marine_Flare_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
 | Renewable | Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md)) |
 | Firestarting Slot | Starter |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |
 

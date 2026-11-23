@@ -116,7 +116,7 @@
 | [Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png) | [Manufactured Arrow](./Manufactured%20Arrow.md) | 0.15 kg; _(0.33 lb)_ | - Must be traded from the [Trader](./Trader.md); - More durable than Simple Arrow; - Does more damage than Simple Arrow; - When broken, cannot be harvested for Materials |
 | [Snare icon](../assets/Snare_icon.png) | [Snare](./Snare.md) | 0.30 kg; _(0.66 lb)_ | - Crafted at a workbench with 1 [Cured Gut](./Cured%20Gut.md) and 1 [Reclaimed Wood](./Reclaimed%20Wood.md); - Used to catch [rabbits](./Rabbit.md) over time; - Breaks after multiple uses |
 | [Stone icon](../assets/Stone_icon.png) | [Stone](./Stone.md) | 0.15 kg; _(0.33 lb)_ | - Most common ranged weapon; - Used to stun [rabbits](./Rabbit.md) and [ptarmigans](./Ptarmigan.md); - Can be used to build [rock caches](./Rock%20Cache.md) |
-| [Noisemaker icon](../assets/Noisemaker_icon.png) | [Noisemaker](./Noisemaker.md) | 0.20 kg _(0.44 lb)_ |  |
+| [Noisemaker icon](../assets/Noisemaker_icon.png) | [Noisemaker](./Noisemaker.md) | 0.20 kg _(0.44 lb)_ | |
 
 ### Repair
 
@@ -186,6 +186,7 @@ Research Book
 | [Travois Icon](../assets/Travois_Icon.png) | [Travois](./Travois.md) | 1.00 kg; _(2.2 lb)_ | - Can be used to transport items anywhere on the Island |
 | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) | [Woodworking Tools](./Woodworking%20Tools.md) | 1.50 kg; _(3.3 lb)_ | - Used to create advanced [Decorations](./Decorations.md) Furniture; - Only 4 exist in Survival Mode |
 
+<a id="sutherland-s-tale"></a>
 ### Sutherland's Tale
 
 | [Tools](../assets/Tools.png) | Item | Weight | Comment |
@@ -222,5 +223,3 @@ Research Book
 | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | 0.50 kg; _(1.1 lb)_ | - Only found in Wintermute Predux Episode 2 after completing [Survival School (Predux)](./Survival%20School%20%28Predux%29.md); - Behaves as a reskinned Hunting Knife; - Currently inaccessible but still in the game files |
 | [Brand icon](../assets/Brand_icon.png) | [Brand](./Brand.md) | 0.30 kg; _(0.66 lb)_ | - Removed from the Alpha versions of _[The Long Dark](./The%20Long%20Dark.md)_ and replaced by the [Torch](./Torch.md); - Can be Brandished to scare predator Wildlife |
 | [Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png) | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) | 4.00 kg; _(8.8 lb)_ | - Found in the Predux Episode 2 Mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
-
-[es:Herramientas](https://es.wikipedia.org/wiki/Herramientas) [fr:Outils](https://fr.wikipedia.org/wiki/Outils) [ru:Снаряжение](https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5) [de:Werkzeuge](https://de.wikipedia.org/wiki/Werkzeuge)

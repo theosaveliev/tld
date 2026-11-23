@@ -22,10 +22,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [RegionAtlas resources.assets 562 (6)](../assets/RegionAtlas-resources.assets-562_%286%29.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-| **Details** |  |
+| | [RegionAtlas resources.assets 562 (6)](../assets/RegionAtlas-resources.assets-562_%286%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| **Details** | |
 | Description | Transition Zones, Dark tunnels winding through the slopes separating regions. |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) and [Winding River](./Winding%20River.md), [Mountain Town](./Mountain%20Town.md) and [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Mountain Town](./Mountain%20Town.md) and [Hushed River Valley](./Hushed%20River%20Valley.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [Bleak Inlet](./Bleak%20Inlet.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) and [Ash Canyon](./Ash%20Canyon.md) |
 
@@ -95,6 +95,7 @@ The entrance to the cave in [Timberwolf Mountain](./Timberwolf%20Mountain.md) ca
 
 This Cave System is part of Blackrock.
 
+<a id="keeper-s-pass-north-to-keeper-s-pass-south"></a>
 ## [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 
 The entrance to the cave system is easy to get to as both Keeper's Pass regions are rather linearly structured. The inside of the cave itself contain a torch on the North side, a possible deer carcass with some arrows sticking out of it on the south side, a dead end where a [Wool Toque](./Wool%20Toque.md) may spawn and a large shining moss covered room containing a backpack with randomized loot and a [Marine Flare](./Marine%20Flare.md) which may be hard to spot due to its color, but lies near the spiky rock in the middle of the room.

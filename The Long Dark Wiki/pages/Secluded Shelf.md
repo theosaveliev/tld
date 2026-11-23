@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Secluded Shelf](../assets/Secluded_Shelf.jpg) |
-| **Location** |  |
-|  | [Secluded Shelf Location](../assets/Secluded_Shelf_Location.png) |
+| | [Secluded Shelf](../assets/Secluded_Shelf.jpg) |
+| **Location** | |
+| | [Secluded Shelf Location](../assets/Secluded_Shelf_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Description | A small clearing atop a cliff |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Secluded Shelf** is a small landing on [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

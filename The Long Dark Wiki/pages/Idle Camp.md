@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Idle Camp](../assets/Idle_Camp.jpg) |
-| **Location** |  |
-|  | [Idle Camp Location](../assets/Idle_Camp_Location.png) |
+| | [Idle Camp](../assets/Idle_Camp.jpg) |
+| **Location** | |
+| | [Idle Camp Location](../assets/Idle_Camp_Location.png) |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 | Description | An old miner's barracks not far from [Langston Mine](./Langston%20Mine.md) |
-| **General** |  |
+| **General** | |
 | Firebox | [Stove](./Stove.md) |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Idle Camp** is one of the two major human settlements in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 

@@ -12,15 +12,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Cured Meat icon](../assets/Cured_Meat_icon.png) |
+| | [Cured Meat icon](../assets/Cured_Meat_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Meat that has been cured and preserved. |
-| **Values** |  |
+| **Values** | |
 | Calories | 900 kcal |
 | Hydration | -5% |
 | Weight | 0.25 kg (0.55 lbs) |
@@ -43,3 +43,5 @@ The calories of raw meat put in the curing box don't affect the calories of the 
 | --- | --- | --- |
 | [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md); - 15 × [Rose Hip](./Rose%20Hip.md); - 0.50 kg × [Animal Fat](./Animal%20Fat.md); - 0.05 kg × [Salt](./Salt.md) |
 | [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md); - 15 × [Rose Hip](./Rose%20Hip.md); - 0.50 kg × [Animal Fat](./Animal%20Fat.md); - 0.05 kg × [Salt](./Salt.md) |
+
+## Update history

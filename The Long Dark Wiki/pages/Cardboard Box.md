@@ -17,8 +17,6 @@
 
 ![Torn](../assets/CardboardBoxTorn.jpg)
 
-|
-
 **General**
 
 Item Type

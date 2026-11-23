@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Whale Oil Refueling](../assets/Whale_Oil_Refueling.jpg) |
-| **General** |  |
+| | [Whale Oil Refueling](../assets/Whale_Oil_Refueling.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | No |
 | Renewable | Yes |

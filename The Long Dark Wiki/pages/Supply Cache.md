@@ -1,6 +1,6 @@
 # Supply Cache
 
-**Categories:** DLC Content, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
+**Categories:** DLC Content, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
 **Contents**
 
@@ -34,9 +34,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Transponder Cache](../assets/Transponder_Cache.jpg) |
+| | [Transponder Cache](../assets/Transponder_Cache.jpg) |
 | Story item | No |
-| **Container** |  |
+| **Container** | |
 | Capacity | 30.00 kg(66 lbs) |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

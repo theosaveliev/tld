@@ -1,3 +1,4 @@
+<a id="the-crash-transcript"></a>
 # The Crash/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Crash%2FTranscript)
@@ -15,11 +16,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Crash](../assets/The_Crash.png) |
+| | [The Crash](../assets/The_Crash.png) |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) |
 | Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission Type | Primary |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md) |
 | Current | The Crash/Transcript |
 | Next | [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) |

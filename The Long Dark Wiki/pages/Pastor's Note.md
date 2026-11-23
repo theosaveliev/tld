@@ -1,3 +1,4 @@
+<a id="pastor-s-note"></a>
 # Pastor's Note
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pastor's_Note)
@@ -6,17 +7,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Pastor's Note icon](../assets/Pastor%27s_Note_icon.png) |
+| | [Pastor's Note icon](../assets/Pastor%27s_Note_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A note to the congregation of St. Christopher's parish. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 
 **Pastor's Note** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) inside [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). It lies on the congregation table.

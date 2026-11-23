@@ -19,15 +19,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Replacement Fuse icon](../assets/Replacement_Fuse_icon.png) |
+| | [Replacement Fuse icon](../assets/Replacement_Fuse_icon.png) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Examine | Electrical fuse. Looks old, but appears to be in working order. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.2 kg (0.44 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | STORY\_ElevatorParts |
 
 The **Replacement Fuse** is an item that was first added in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of Story Mode. It was later added to survival mode in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [High Meadows](../assets/High_Meadows.jpg) |
-| **Location** |  |
-|  | [High Meadow Location](../assets/High_Meadow_Location.png) |
+| | [High Meadows](../assets/High_Meadows.jpg) |
+| **Location** | |
+| | [High Meadow Location](../assets/High_Meadow_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **High Meadow** is a location in [Ash Canyon](./Ash%20Canyon.md).
 

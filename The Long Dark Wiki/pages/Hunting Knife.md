@@ -13,12 +13,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) |
-| **General** |  |
+| | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
@@ -63,5 +63,3 @@ The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.m
 ### Game history
 
 - [Version 0.136](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-136) on 2 October 2014 introduced the ability to harvest using the hunting knife and [Hatchet](./Hatchet.md), among other changes.
-
-[ru:Охотничий\_нож](https://ru.wikipedia.org/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D0%BD%D0%BE%D0%B6) [es:Cuchillo de caza](https://es.wikipedia.org/wiki/Cuchillo_de_caza)

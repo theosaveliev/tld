@@ -15,8 +15,6 @@
 
 ![Shed](../assets/Crossroads_House_Shed.jpg)
 
-|
-
 **Location**
 
 Region

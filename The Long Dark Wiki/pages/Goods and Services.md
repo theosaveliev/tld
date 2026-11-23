@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Goods and Services icon](../assets/Goods_and_Services_icon.png) |
+| | [Goods and Services icon](../assets/Goods_and_Services_icon.png) |
 | Description | Achieve the highest Trust level with the Trader. |
 
 **Goods and Services** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

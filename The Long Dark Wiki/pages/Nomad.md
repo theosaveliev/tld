@@ -14,8 +14,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Challenge Nomad](../assets/Challenge_Nomad.png) |
-| **Details** |  |
+| | [Challenge Nomad](../assets/Challenge_Nomad.png) |
+| **Details** | |
 | Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md) |
 | Difficulty | 3 |
 | Date Added | June 2016 |

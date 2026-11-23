@@ -25,8 +25,6 @@
 
 ![Type 5](../assets/Jackrabbit_Island_-_house.jpg)
 
-|
-
 **Location**
 
 Region

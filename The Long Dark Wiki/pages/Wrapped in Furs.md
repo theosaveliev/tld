@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wrapped in Furs icon](../assets/Wrapped_in_Furs_icon.png) |
+| | [Wrapped in Furs icon](../assets/Wrapped_in_Furs_icon.png) |
 | Description | Slept in a bearskin bedroll while wearing a wolfskin coat, deerskin boots, and rabbitskin mittens. |
 
 **Wrapped in Furs** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

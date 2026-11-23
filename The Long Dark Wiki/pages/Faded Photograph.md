@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Faded Photograph icon](../assets/Faded_Photograph_icon.png) |
+| | [Faded Photograph icon](../assets/Faded_Photograph_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A Polaroid tucked into the Security Chief's logbook. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Tale2\_ChiefPolaroid |
 
 **Faded Photograph** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found inside [Security Chief's Log (illegible)](./Security%20Chief%27s%20Log%20%28illegible%29.md) and provides a hint of where to bury the [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md). It points to [Enduring Waterfall](./Enduring%20Waterfall.md). Despite being a [Polaroid](./Polaroids.md), does not offer a Vista point at the falls, and is merely a story item.

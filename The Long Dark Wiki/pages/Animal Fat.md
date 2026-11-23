@@ -8,7 +8,7 @@
 - [Wildlife](#wildlife)
 - [Cooking](#cooking)
 - [Gallery](#gallery)
-- Game history
+- [Game history](#game-history)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -20,15 +20,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Animal Fat icon](../assets/Animal_Fat_icon.png) |
+| | [Animal Fat icon](../assets/Animal_Fat_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Pure animal fat. Useful in Cooking, but can also be eaten on its own if desperate for Calories... |
-| **Values** |  |
+| **Values** | |
 | Calories | 900 kcal |
 | Weight | 1.00 kg (2.2 lbs) |
 
@@ -75,3 +75,5 @@ Animal Fat cannot be Cooked on a fire to be eaten safely, but it can be used in 
 ![Rancid](../assets/Animal_Fat_Rancid.png)
 
 ![Ruined](../assets/Animal_Fat_Ruined.png)
+
+## Game history

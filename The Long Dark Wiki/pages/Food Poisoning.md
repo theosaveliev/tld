@@ -18,21 +18,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Food Poisoning icon](../assets/Food_Poisoning_icon.png) |
+| | [Food Poisoning icon](../assets/Food_Poisoning_icon.png) |
 | Release | [14 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Update | 0.01 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Something you ate has made you very sick. You will weaken until you treat it, it passes, or you die. |
 | Caused By | Low Condition [Food And Drink](./Food%20And%20Drink.md) Eating Raw Meat |
 | Effect | Negative |
 | Type | Disease |
 | Affliction Duration | Until Treated or it passes |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | 2 x [Antibiotics icon](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) |
 | Alternate Treatment | 1 x [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/[Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) |
 | Recovery Time | 10 hours (treated) / 12 - 24 hours (untreated) |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | GAMEPLAY\_FoodPoisoning |
 
 **Food Poisoning** is a negative affliction that is contracted by eating raw meat, or food with a low item [Condition](./Condition.md).
@@ -171,9 +171,9 @@ The food poisoning chance depends on both the type of food and the condition of 
 
 | [Cooking](../assets/Cooking.png) | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
 | --- | --- | --- | --- | --- | --- |
-| [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) | [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) |  |  |  |  |
-| [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |  |  |  |  |
-| [Home Made Soup icon](../assets/Home-Made_Soup_icon.png) | [Home-Made Soup](./Home-made%20Soup.md) |  |  |  |  |
+| [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) | [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) | | | | |
+| [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) | | | | |
+| [Home Made Soup icon](../assets/Home-Made_Soup_icon.png) | [Home-Made Soup](./Home-made%20Soup.md) | | | | |
 
 ### Seasonal Foods
 

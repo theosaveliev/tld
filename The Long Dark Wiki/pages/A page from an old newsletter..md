@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [A page from an old newsletter. icon](../assets/A_page_from_an_old_newsletter._icon.png) |
+| | [A page from an old newsletter. icon](../assets/A_page_from_an_old_newsletter._icon.png) |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Great Bear Emergency Civilian Corps |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
@@ -36,3 +36,5 @@ With tremors increasing, building a durable radio network could make all the dif
 With gratitude,
 
 Jen Whitney, Executive Officer
+
+## Game history

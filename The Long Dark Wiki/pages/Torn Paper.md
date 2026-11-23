@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Torn Paper icon](../assets/Torn_Paper_icon.png) |
+| | [Torn Paper icon](../assets/Torn_Paper_icon.png) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A piece of paper, wet from the snow. The handwriting is fading, but legible. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

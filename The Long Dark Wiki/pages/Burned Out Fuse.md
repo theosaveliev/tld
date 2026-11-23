@@ -12,15 +12,15 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Burned Out Fuse icon](../assets/Burned_Out_Fuse_icon.png) |
+| | [Burned Out Fuse icon](../assets/Burned_Out_Fuse_icon.png) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Aftermath](./Aftermath.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Examine | Burned out fuse. Needs replacing. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.20 kg (0.44 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | STORY\_ElevatorPartsDead |
 
 **Burned Out Fuse** is an item that's exclusive to [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md) in the final mission, [Aftermath](./Aftermath.md).

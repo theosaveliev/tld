@@ -13,8 +13,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Wolf carcass icon](../assets/Wolf_carcass_icon.png) |
-| **General** |  |
+| | [Wolf carcass icon](../assets/Wolf_carcass_icon.png) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 
@@ -24,7 +24,7 @@ A **Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md)
 
 A Wolf Carcass may be harvested for 3.00-6.00 kg of [raw meat](./Wolf%20Meat%20%28Raw%29.md), 1 [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) and 2 guts. Wolf hides can be cured to craft [Wolfskin Coat](./Wolfskin%20Coat.md). On Stalker and Interloper modes, wolf meat carries the risk of [Intestinal Parasites](./Intestinal%20Parasites.md).
 
-|  | Item | Quantity | Rarity |
+| | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 3 - 6 | Always (1) |
 | [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 2 - 3 | Always (2) |

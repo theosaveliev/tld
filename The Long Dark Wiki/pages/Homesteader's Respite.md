@@ -1,3 +1,4 @@
+<a id="homesteader-s-respite"></a>
 # Homesteader's Respite
 
 **Categories:** Indoor locations, Locations, Locations in Ash Canyon, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Homesteader's_Respite)
@@ -6,16 +7,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20201210010226 1](../assets/20201210010226_1.jpg) |
-| **Location** |  |
-|  | [Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png) |
+| | [20201210010226 1](../assets/20201210010226_1.jpg) |
+| **Location** | |
+| | [Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A small cabin near an old mine facility |
-| **General** |  |
+| **General** | |
 | Type | Residential |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Homesteader's Respite** is a small cabin located beside an old mining facility, near the eastern edge of [Ash Canyon](./Ash%20Canyon.md), a short distance north of [Bitter Marsh](./Bitter%20Marsh.md), and just below [Fire Overlook](./Fire%20Overlook.md). The cabin is sitting on a ledge between two rope climbs.
 

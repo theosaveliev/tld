@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Long Falls](../assets/Long_Falls.png) |
-| **Location** |  |
-|  | [Long Falls Location](../assets/Long_Falls_Location.png) |
+| | [Long Falls](../assets/Long_Falls.png) |
+| **Location** | |
+| | [Long Falls Location](../assets/Long_Falls_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 _Not to be confused with [Long Shot Falls](./Long%20Shot%20Falls.md)._
 

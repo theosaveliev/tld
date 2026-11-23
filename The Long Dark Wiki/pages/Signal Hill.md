@@ -10,8 +10,6 @@ _Exterior_
 
 ![Interior](../assets/Signal_Hill_-_radio_shack_bedroom.png)
 
-|
-
 **Location**
 
 ![Signal Hill Location](../assets/Signal_Hill_Location.png)

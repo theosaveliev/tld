@@ -12,16 +12,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
+| | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-58-iron-road-part-one) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An audio recording made of wax. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
@@ -56,3 +56,5 @@ And McLeod is going to throw it all away.
 I'll be damned if I'll let it happen.
 
 I'll find a way to save as much as I can.
+
+## Game history

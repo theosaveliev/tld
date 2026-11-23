@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Expert Angler icon](../assets/Expert_Angler_icon.png) |
+| | [Expert Angler icon](../assets/Expert_Angler_icon.png) |
 | Description | Catch 4 different Rare Fish – Burbot, Goldeye, Red Irish Lord, and Rockfish (single game). |
 
 **Expert Angler** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

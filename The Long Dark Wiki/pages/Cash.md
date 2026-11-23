@@ -13,16 +13,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cash icon](../assets/Cash_icon.png) |
+| | [Cash icon](../assets/Cash_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Fire Starting](./Fire%20Starting.md) |
 | Equipable | No |
 | Stackable | yes |
 | Examine | A bundle of cash. Pretty much worthless these days. Useful as tinder. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.05 kg (0.11 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Cash |
 
 **Cash** is a [Fire Starting](./Fire%20Starting.md) item that can be used as tinder to start [fires](./Fire.md). Its appearance is of a green [Canadian $20 note](https://en.wikipedia.org/wiki/Canadian_Journey_Series) - the former currency of [Great Bear Island](./Great%20Bear%20Island.md) and Canada before [The Collapse](./The%20Collapse.md).
@@ -38,7 +38,7 @@ Cash fills the role of tinder, which is used for Fire Starting. Cash is the ligh
 | Property | Details |
 | --- | --- |
 | Type | Tinder |
-| **Statistics** |  |
+| **Statistics** | |
 | Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 0% |
 
 ## Gallery

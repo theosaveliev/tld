@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Well Fed icon](../assets/Well_Fed_icon.png) |
+| | [Well Fed icon](../assets/Well_Fed_icon.png) |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) |
 | Update | 1.41 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Survive 72 hours with Calorie Store above 0 |
 | Effect | Positive |

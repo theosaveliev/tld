@@ -18,10 +18,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Suzuki Radio Telescope](../assets/Suzuki_Radio_Telescope.jpg) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-| **Details** |  |
+| | [Suzuki Radio Telescope](../assets/Suzuki_Radio_Telescope.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| **Details** | |
 | Description | A government research facility with a powered space radio dish |
 | Connecting Regions | [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) / [Blackrock Foothills](./Blackrock%20Foothills.md) |
 | Characters | [Jace](./Jace.md) / [Atwood](./Atwood.md) |

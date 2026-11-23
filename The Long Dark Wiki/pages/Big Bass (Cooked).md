@@ -12,16 +12,16 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) |
+| | [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A big meal from a big fish. |
-| **Values** |  |
+| **Values** | |
 | Calories | 4313 kcal |
 | Hydration | -5% |
 | Weight | 15.00 kg (33 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CookedBigMouthBass |
 
 _For for the raw version, see [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md)._

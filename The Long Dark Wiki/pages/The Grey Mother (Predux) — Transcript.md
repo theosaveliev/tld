@@ -1,3 +1,4 @@
+<a id="the-grey-mother-predux-transcript"></a>
 # The Grey Mother \(Predux\)/Transcript
 
 **Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29%2FTranscript)
@@ -23,9 +24,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
+| | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |
 | Current | The Grey Mother (Predux)/Transcript |
 | Next | [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md) |
@@ -34,6 +35,7 @@
 
 This is the transcript for Chapter 3 [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
+<a id="there-s-a-firewood-bin-outside-grey-mother-s-house-stock-it-with-fuel-you-find-around-town-sticks-firewood-broken-down-furniture-or-coal-if-you-can-find-any"></a>
 ## There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.
 
 CHAPTER THREE
@@ -240,6 +242,7 @@ Mackenzie: "Why didn't anyone help [her](./Astrid%20Greenwood.md)?
 
 Grey Mother: "Yes, why didn't they? They should have! They should have found [her](./Lilith%20Barker.md) before it was too late."
 
+<a id="grey-mother-seems-tired-try-talking-to-her-after-she-s-had-some-time-to-rest"></a>
 ## Grey Mother seems tired. Try Talking to her after she's had some time to rest.
 
 _The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears. Talking to her gives more dialogue_
@@ -328,6 +331,7 @@ Grey Mother: "Grey Mother is tired now. Let her rest for a while..."
 
 _The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears._
 
+<a id="grey-mother-seems-deep-in-thought-return-to-her-once-she-s-rested-a-while"></a>
 ## Grey Mother seems deep in thought. Return to her once she's rested a while.
 
 _Talking to Grey Mother and selecting STORY gives this response_
@@ -546,6 +550,7 @@ Grey Mother **(Text)**: "And so it ends."
 
 Mackenzie **(Text)**: "Ok...this better help me find my friend..."
 
+<a id="find-lily-s-grave-marker-and-pay-service-to-her-memory"></a>
 ## Find Lily's grave marker and pay service to her memory.
 
 _Mackenzie travels to the [Graveyard](./Graveyard.md) near the church and a cutscene plays. Mackenzie stands before a tombstone with Grey Mother's Pearls, then kneels down on one knee and rubs the face iff to clean it. He then places the pearls on top of the tombstone. The camera pans around to show the name on the tombstone, Lilith Barker._
@@ -604,6 +609,7 @@ _Mackenzie then goes upstairs and unlocks Lily's Trunk with the key, and takes t
 
 The story continues in [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md).
 
+<a id="grey-mother-s-trust"></a>
 ## Grey Mother's Trust
 
 _At any point in the mission, the player has the option to raise Grey Mother's Trust. The following dialogue options are unlocked once sufficient Trust is earned_

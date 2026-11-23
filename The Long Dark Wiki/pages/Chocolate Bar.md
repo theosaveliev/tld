@@ -13,20 +13,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) |
+| | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Chocolate and nuts! |
-| **Values** |  |
+| **Values** | |
 | Calories | 250 kcal |
 | Hydration | -3% |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_CandyBar |
 
 _For the version encountered during the event [4 Days of Night](./4%20Days%20of%20Night%20Event.md), see [Chocolate Bar (4 Days of Night)](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md)._

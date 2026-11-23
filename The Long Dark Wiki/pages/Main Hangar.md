@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [30995](../assets/30995.png) |
-| **Location** |  |
-|  | [Main Hangar Location](../assets/Main_Hangar_Location.png) |
+| | [30995](../assets/30995.png) |
+| **Location** | |
+| | [Main Hangar Location](../assets/Main_Hangar_Location.png) |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md) |
 | Location | In the middle of the [Field 31](./Field%2031.md) |
 | Sublocations | [Hangar Basement](./Hangar%20Basement.md) |
 | Description | A large, derelict airfield hangar |
-| **General** |  |
-| Type |  |
-| Firebox |  |
+| **General** | |
+| Type | |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench |
-|  | Has an interior |
+| | Has an interior |
 
 Located in the [Forsaken Airfield](./Forsaken%20Airfield.md) region, the **Main Hangar**, or the **Camber Aviation Hangar**, is the largest of several structures that makes up the [Field 31 airfield complex](./Field%2031.md).
 

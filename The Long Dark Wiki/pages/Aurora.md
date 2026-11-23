@@ -54,7 +54,7 @@ Auroras shares similarities with Glimmer Fog, but both weather types are distinc
 
 **Aurora and Glimmer Fog Properties**
 
-|  | Aurora | Glimmer Fog |
+| | Aurora | Glimmer Fog |
 | --- | --- | --- |
 | Occurs | Night | Day |
 | Powers Electronics | Yes | Yes |
@@ -77,7 +77,7 @@ Auroras have two distinct "power stages". Roughly one in-game hour after the sta
 
 **Aurora Stage**
 
-|  | Aurora Buildup | Full power |
+| | Aurora Buildup | Full power |
 | --- | --- | --- |
 | Powers Shortwave Radio & Flashlight | Yes | Yes |
 | Powers Artificial Light | No | Yes |
@@ -115,7 +115,7 @@ Light sources which wildlife fear (lit [torch](./Torch.md), [campfires](./Campfi
 
 **Animal Fear**
 
-|  | Non-Aurora | Aurora | Aurora Poisoned Wolf |
+| | Non-Aurora | Aurora | Aurora Poisoned Wolf |
 | --- | --- | --- | --- |
 | Torch | Yes | No | No |
 | Campfire | Yes | No | No |
@@ -191,5 +191,3 @@ _The [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) during an aurora_
 ![Lighthouse turned on due to Aurora](../assets/Aurora-lighthouse.jpg)
 
 ![Another shot of Mystery Lake's Camp Office during an Aurora.](../assets/Camp_Office_-_Aurora.jpg)
-
-[es:Aurora Boreal](https://es.wikipedia.org/wiki/Aurora_Boreal) [ru:Полярное сияние](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5) [fr:Aurore Boréale](https://fr.wikipedia.org/wiki/Aurore_Bor%C3%A9ale)

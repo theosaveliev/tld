@@ -1,6 +1,6 @@
 # Safe
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
 
 **Contents**
 
@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Safe](../assets/Safe.png) |
+| | [Safe](../assets/Safe.png) |
 | Release | TBD |
 | Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
 | Story item | No |
-| **Container** |  |
+| **Container** | |
 | Capacity | 10.0 kg(22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Object key | GAMEPLAY\_SafeContaine |
 
 A **Safe** is a stationary interactable object that can work as a storage container.
@@ -32,7 +32,7 @@ A safe can hold 10kg.
 
 ## Loot
 
-|  | Item | Rarity |
+| | Item | Rarity |
 | --- | --- | --- |
 | [Cash icon](../assets/Cash_icon.png) | [Cash](./Cash.md) | 13.04% |
 | [Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png) | [Military-Grade MRE](./Military-Grade%20MRE.md) | 10.87% |

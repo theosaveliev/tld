@@ -19,9 +19,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Crash](../assets/The_Crash.png) |
+| | [The Crash](../assets/The_Crash.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Memories](./Memories.md) |
 | Current | The Crash |
 | Next | [The Grey Mother](./The%20Grey%20Mother.md) |

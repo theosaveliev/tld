@@ -1,3 +1,4 @@
+<a id="lily-s-trunk-key"></a>
 # Lily's Trunk Key
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key)
@@ -6,19 +7,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Lily's Trunk Key icon](../assets/Lily%27s_Trunk_Key_icon.png) |
+| | [Lily's Trunk Key icon](../assets/Lily%27s_Trunk_Key_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Key to open the trunk in Lily's room at Grey Mother's house |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_GreyMotherTrunkKey |
 
 **Lily's Trunk Key** is a [Collectible](./Collectibles.md) item obtained as a reward in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode for the [The Grey Mother](./The%20Grey%20Mother.md) mission.

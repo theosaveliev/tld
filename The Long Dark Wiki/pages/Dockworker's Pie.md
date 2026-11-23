@@ -1,3 +1,4 @@
+<a id="dockworker-s-pie"></a>
 # Dockworker's Pie
 
 **Categories:** DLC Content, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dockworker's_Pie)
@@ -19,22 +20,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) |
+| | [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A satisfying pie made from the day's catch. The taste of the sea. |
-| **Values** |  |
+| **Values** | |
 | Calories | 1500 (1875) kcal |
 | Hydration | -3% |
 | [Vitamin C](./Scurvy.md) | Major (68%) |
 | Weight | 0.30 kg (0.66 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_FishermansPie |
 
 **Dockworker's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).

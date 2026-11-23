@@ -37,16 +37,37 @@
 
 **Details**
 
-| Property | Details |
-| --- | --- |
-| Description | A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls. |
-| Connecting Regions | [Mountain Town](./Mountain%20Town.md) |
-| Characters | None |
-| Difficulty | Advanced |
-| Interloper Region Spawn | Yes |
-| Locations | 25 |
-| Hazards and Survivability | Lots of wind with limited shelter from weather and wildlife. |
-| Date Added | 14 June 2018 |
+Description
+
+A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls.
+
+Connecting Regions
+
+[Mountain Town](./Mountain%20Town.md)
+
+Characters
+
+None
+
+Difficulty
+
+Advanced
+
+Interloper Region Spawn
+
+Yes
+
+Locations
+
+25
+
+Hazards and Survivability
+
+Lots of wind with limited shelter from weather and wildlife.
+
+Date Added
+
+14 June 2018
 
 > “**For advanced players. A remote, wind-blown valley known for its sheer cliffs, dense forests, and steep, winding paths. Although devoid of human settlements, it has long been a destination for the area's toughest mountaineers, and may still have a few secrets to reveal.**”
 >
@@ -148,6 +169,7 @@ On Interloper difficulty, one [Heavy Hammer](./Heavy%20Hammer.md) spawns at the 
 
 Another item that can be found near the Mysterious Signal Fire is the [Mackinaw Jacket](./Mackinaw%20Jacket.md), which will spawn in all difficulty levels. Although it's not the warmest coat in the game, it's the best coat obtainable in Interloper.
 
+<a id="woodwright-s-bow"></a>
 ### Woodwright's Bow
 
 The [Woodwright's Bow](./Woodwright%27s%20Bow.md), a variant on the [Survival Bow](./Survival%20Bow.md), will always spawn once in this region, except on Interloper difficulty. It is 50% heavier than the normal bow, but sways 30% less, and is twice as durable.
@@ -232,4 +254,3 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) and a crashed plane locate
 ## Reference
 
 [\[1\]](http://www.thelongdark.com/news/dev-diary-april-2018/)
-

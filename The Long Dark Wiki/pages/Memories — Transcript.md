@@ -1,3 +1,4 @@
+<a id="memories-transcript"></a>
 # Memories/Transcript
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memories%2FTranscript)
@@ -6,11 +7,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Memories](../assets/Memories.png) |
+| | [Memories](../assets/Memories.png) |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-41-wintermute-redux-update) |
 | Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission Type | Primary |
-| **Missions** |  |
+| **Missions** | |
 | Previous | None |
 | Current | Memories/Transcript |
 | Next | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |

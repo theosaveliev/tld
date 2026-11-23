@@ -12,16 +12,16 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Crank Light icon](../assets/Crank_Light_icon.png) |
+| | [Crank Light icon](../assets/Crank_Light_icon.png) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | An emergency light source. Repeatedly crank the the (sic) handle to charge the built-in battery. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Turn on. Turn off. Crank handle |
 
 The **Crank Light** is a [Tools](./Tools.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.

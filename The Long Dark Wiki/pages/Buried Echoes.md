@@ -19,8 +19,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Tales objectives 02 BuriedEchoes](../assets/Tales_objectives_02_BuriedEchoes.png) |
-| **Missions** |  |
+| | [Tales objectives 02 BuriedEchoes](../assets/Tales_objectives_02_BuriedEchoes.png) |
+| **Missions** | |
 | Previous | [Signal Void](./Signal%20Void.md) |
 | Current | Buried Echoes |
 | Next | [Last Horizon](./Last%20Horizon.md) |
@@ -82,6 +82,7 @@ Return to the surface and head to the [Concentrator](./Concentrator.md). From he
 
 Heading below to the lowest level of the elevator shaft and entering the door will put you in a room either a building to the right that can be unlocked with the Foreman's key for [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md). Collect it and head left from the mineshaft elevator door and continue onwards until you find a large airshaft cavern with a catwalk going around it. A nearby locked gate can be opened with the Bolt Cutters and a Corpse can be looted for the [Mine Gate Key](./Mine%20Gate%20Key.md).
 
+<a id="search-the-mountain-mine-for-any-signs-of-rudiger"></a>
 ## Search the Mountain Mine for any signs of Rüdiger
 
 Head back up to the mountain mine entrance and unlock the gate. [Security Chief's Log 32](./Security%20Chief%27s%20Log%2032.md) can be found in the gated area to the right upon entering. Head down the minecart railroad until you find a Supply Bin with [Foreman's Site Report Day 38](./Foreman%27s%20Site%20Report%20Day%2038.md) on it. Continue down even further until you find a room with a several crates and yet another [Security Chief's Log 33](./Security%20Chief%27s%20Log%2033.md). Head down the tunnel made of concrete to find the machine that was built inside the mine, and approach the console. The player will pass out from touching it and will reawaken to find that an Aurora/Glimmer Fog event has activated the machine. After this, head into the nearby control room to find [My Testament](./My%20Testament.md), [Security Chief's Log (illegible)](./Security%20Chief%27s%20Log%20%28illegible%29.md), [Foreman's Site Report Day (illegible)](./Foreman%27s%20Site%20Report%20Day%20%28illegible%29.md), and [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md).

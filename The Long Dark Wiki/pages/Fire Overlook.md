@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20201210005637 1](../assets/20201210005637_1.jpg) |
-| **Location** |  |
-|  | [Fire Overlook Location](../assets/Fire_Overlook_Location.png) |
+| | [20201210005637 1](../assets/20201210005637_1.jpg) |
+| **Location** | |
+| | [Fire Overlook Location](../assets/Fire_Overlook_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | An overlook over a canyon |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Fire Overlook** is a landmark just to the northwest of [Homesteader's Respite](./Homesteader%27s%20Respite.md).
 

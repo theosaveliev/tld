@@ -14,7 +14,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Too Big to Fail icon](../assets/Too_Big_to_Fail_icon.png) |
+| | [Too Big to Fail icon](../assets/Too_Big_to_Fail_icon.png) |
 | Description | Open all Safety Deposit boxes in Milton. |
 
 **Too Big to Fail** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

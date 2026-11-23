@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hyperglycemic Risk icon](../assets/Hyperglycemic_Risk_icon.png) |
+| | [Hyperglycemic Risk icon](../assets/Hyperglycemic_Risk_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Update | 1.60 |
 | Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Type-1 Diabetes |
 | Effect | Negative |
 | Type | Disease |
 | Affliction Duration | Scripted |
-| **Treatment** |  |
+| **Treatment** | |
 | Treatment | Administer [Insulin](./Insulin.md) to Dimitri |
 | Recovery Time | Instant |
 

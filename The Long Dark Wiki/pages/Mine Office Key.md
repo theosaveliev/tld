@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mine Office Key icon](../assets/Mine_Office_Key_icon.png) |
+| | [Mine Office Key icon](../assets/Mine_Office_Key_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An admin key from Langston Mine's bad old days. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_LangstonMineKey1 |
 
 The **Mine Office Key** is a unique key found only in [Survival Mode](./Survival%20Mode.md), specifically in the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).

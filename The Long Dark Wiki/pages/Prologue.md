@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Prologue](../assets/Prologue.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Prologue](../assets/Prologue.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Aftermath](./Aftermath.md) |
 | Current | Prologue |
 | Next | [Blackrock Blues](./Blackrock%20Blues.md) |

@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png) |
-| Episode |  |
-| **Missions** |  |
+| | [Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png) |
+| Episode | |
+| **Missions** | |
 | Previous | [Perseverance](./Perseverance.md) |
 | Current | To Those Who Are Missing |
 | Next | [A Cry For Help](./A%20Cry%20For%20Help.md) |

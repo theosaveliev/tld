@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Long Wool Scarf icon](../assets/Long_Wool_Scarf_icon.png) |
-| **General** |  |
+| | [Long Wool Scarf icon](../assets/Long_Wool_Scarf_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Clothing Slot | Head |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

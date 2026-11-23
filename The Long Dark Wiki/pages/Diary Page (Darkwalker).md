@@ -21,14 +21,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png) |
+| | [Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png) |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-86) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A page torn from a notebook. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
 
 **Diary Page** is a series of [Collectibles](./Collectibles.md) found only in the [Challenge](./Challenge.md) [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).

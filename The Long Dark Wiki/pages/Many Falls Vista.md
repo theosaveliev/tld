@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [ManyFallsVistaView](../assets/ManyFallsVistaView.png) |
-| **Location** |  |
+| | [ManyFallsVistaView](../assets/ManyFallsVistaView.png) |
+| **Location** | |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Somewhat south of [Pensive Vista](./Pensive%20Vista.md). |
 | Description | A lookoff over the eastern Hushed River Valley. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Many Falls Vista** is a location within the [Hushed River Valley](./Hushed%20River%20Valley.md).
 

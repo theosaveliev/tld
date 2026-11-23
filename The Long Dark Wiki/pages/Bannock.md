@@ -12,21 +12,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Bannock icon](../assets/Bannock_icon.png) |
+| | [Bannock icon](../assets/Bannock_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | A crusty flatbread. Food for the road. |
-| **Values** |  |
+| **Values** | |
 | Calories | 200 (250) kcal |
 | Hydration | -3.0% |
 | Weight | 0.05 kg (0.11 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 20.000% per day |
 | Outside | 5.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Bannock |
 
 **Bannock** is a food item made with a [Cooking Skillet](./Cooking%20Skillet.md) or no tool on an open slot at a [Fire](./Fire.md).

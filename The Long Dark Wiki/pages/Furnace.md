@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Furnace](../assets/Furnace.png) |
-| **General** |  |
+| | [Furnace](../assets/Furnace.png) |
+| **General** | |
 | Type | Fire Starting |
-| **Statistics** |  |
+| **Statistics** | |
 | Max temperature | 200 °C / _(360 °F)_ |
 | Cooking slots | 1 |
 

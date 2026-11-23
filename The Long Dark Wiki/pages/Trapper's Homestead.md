@@ -1,3 +1,4 @@
+<a id="trapper-s-homestead"></a>
 # Trapper's Homestead
 
 **Categories:** Indoor locations, Locations, Locations in Mystery Lake, Locations with a workbench, Military/Sporting locations, Safe Houses · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trapper's_Homestead)
@@ -16,8 +17,6 @@
 ![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg)
 
 ![Interior](../assets/Trapper%27s_Homestead_interior.jpg)
-
-|
 
 **Location**
 

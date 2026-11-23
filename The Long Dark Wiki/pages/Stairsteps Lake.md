@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hushed river valley stairsteps lake 20201031](../assets/Hushed_river_valley_stairsteps_lake_20201031.png) |
-| **Location** |  |
-|  | [Stairsteps Lake Location](../assets/Stairsteps_Lake_Location.png) |
+| | [Hushed river valley stairsteps lake 20201031](../assets/Hushed_river_valley_stairsteps_lake_20201031.png) |
+| **Location** | |
+| | [Stairsteps Lake Location](../assets/Stairsteps_Lake_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Southwestern side of the region. |
 | Description | A moderate sized lake. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Stairsteps Lake** is a medium sized lake with several stepped waterfalls found near the entrance to the [Hushed River Valley](./Hushed%20River%20Valley.md).
 

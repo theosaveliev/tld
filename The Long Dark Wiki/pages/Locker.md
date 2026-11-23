@@ -12,8 +12,6 @@
 
 ![Green](../assets/Five_Locker.jpg)
 
-|
-
 Update
 
 [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
@@ -51,7 +49,7 @@ Occasionally 5th type of locker, a [Medical Locker](./Medical%20Locker.md), can 
 
 ## Loot
 
-|  | Item | Rarity |
+| | Item | Rarity |
 | --- | --- | --- |
 | [Arrowhead icon](../assets/Arrowhead_icon.png) | [Arrowhead](./Arrowhead.md) | 0.413% |
 | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 0.413% |

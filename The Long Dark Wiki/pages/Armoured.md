@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Armoured icon](../assets/Armoured_icon.png) |
+| | [Armoured icon](../assets/Armoured_icon.png) |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-98-perilous-constraint-update) |
 | Description | You're armoured up. Wearing the Ballistic Vest gives you outstanding physical Protection. |
-| **Properties** |  |
+| **Properties** | |
 | Type | Benefit |
 | Caused By | [Ballistic Vest](./Ballistic%20Vest.md) |
 | Effect | Positive |
 | Duration | Until [Ballistic Vest](./Ballistic%20Vest.md) is removed or ruined. |
-| **Advanced Data** |  |
+| **Advanced Data** | |
 | Item Key | GAMEPLAY\_BallisticVestBuff |
 
 **Armoured** is a positive [Affliction](./Afflictions.md) obtained when wearing a [Ballistic Vest](./Ballistic%20Vest.md) in the [Accessories](./Clothing.md#accessories) slot. The Affliction remains in effect as long as the Ballistic Vest remains equipped.
@@ -23,13 +23,13 @@
 
 Armoured is received when wearing the following item:
 
-|  | Clothing |
+| | Clothing |
 | --- | --- |
 |  | [Ballistic Vest](./Ballistic%20Vest.md) |
 
 ## Effects
 
-|  | Effect | Magnitude |
+| | Effect | Magnitude |
 | --- | --- | --- |
 |  | Reduces [Condition](./Condition.md) lost from [Wildlife](./Wildlife.md) | 50% |
 |  | Reduces [damage caused to clothing](./Torn%20Clothing.md) during a [Struggle](./Struggle.md) | 85% |

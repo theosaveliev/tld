@@ -1,3 +1,4 @@
+<a id="the-long-dark-changelog-archive-2"></a>
 # The Long Dark/Changelog/Archive 2
 
 **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive_2)
@@ -48,6 +49,7 @@ _For Archive 1 changelog with versions 1.00 to 1.49, see [The\_Long\_Dark/Change
 
 _For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
+<a id="1-99"></a>
 ## 1.99
 
 Released December 14th 2021
@@ -68,6 +70,7 @@ SWITCH
 - [UI] Updated the Main menu to the latest version for PERILOUS CONSTRAINT.
 - Please note that the 1.99 update is not yet available for Switch, but we will provide an update as soon as one is available.
 
+<a id="1-98-perilous-constraint-update"></a>
 ### 1.98 (Perilous Constraint Update)
 
 Released December 7th 2021
@@ -169,6 +172,7 @@ WINTERMUTE
 - [Ep3] Fixed a bug that caused the UI to disappear after exiting various sequences, such as a phone call or a dialogue sequence.
 - [Dialogue] Fixed an issue that caused the text to appear distorted during a dialogue sequence.
 
+<a id="1-97"></a>
 ### 1.97
 
 Relased October 27th 2021
@@ -269,10 +273,12 @@ SWITCH
 
 - [Rendering] Decreased the compression on numerous textures to increase the overall visual quality.
 
+<a id="1-96"></a>
 ### 1.96
 
 Version 1.96 was never released
 
+<a id="1-95-fury-then-silence-update"></a>
 ### 1.95 (Fury, Then Silence Update)
 
 Released 6 Oct 2021
@@ -301,6 +307,7 @@ _The Long Dark, Episode Four: FURY, THEN SILENCE is available now on Steam, Xbox
 
 - [Episode Four is Here - Launch Day & Trailer](https://hinterlandforums.com/forums/topic/40446-episode-four-is-here-launch-day-trailer/)
 
+<a id="1-94"></a>
 ### 1.94
 
 Released 28 Apr 2021
@@ -342,6 +349,7 @@ Released 28 Apr 2021
 - [Steam - The Long Dark Hotfixed to v1.94](https://steamcommunity.com/games/305620/announcements/detail/3033714364148678485)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.94](https://hinterlandforums.com/forums/topic/39796-the-long-dark-hotfixed-to-v194-76129/)
 
+<a id="1-93"></a>
 ### 1.93
 
 Released 19 Jan 2021
@@ -386,6 +394,7 @@ Released 19 Jan 2021
 - [Steam - The Long Dark Hotfixed to v1.93](https://steamcommunity.com/games/305620/announcements/detail/5581616455377870381)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.93](https://hinterlandforums.com/forums/topic/39066-the-long-dark-hotfixed-to-v193-71192/)
 
+<a id="1-92"></a>
 ### 1.92
 
 Released 19 Dec 2020
@@ -399,6 +408,7 @@ Released 19 Dec 2020
 - [Steam - The Long Dark Hotfixed to v1.92](https://steamcommunity.com/games/305620/announcements/detail/2901972025486162121)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.92](https://hinterlandforums.com/forums/topic/38727-the-long-dark-hotfixed-to-v192-70699/)
 
+<a id="1-91"></a>
 ### 1.91
 
 Released 16 Dec 2020
@@ -462,6 +472,7 @@ Released 16 Dec 2020
 - [Steam - The Long Dark Hotfixed to v1.90](https://steamcommunity.com/games/305620/announcements/detail/2901971391495730233)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.90](https://hinterlandforums.com/forums/topic/38615-the-long-dark-hotfixed-to-v190-70139/?tab=comments#comment-207511)
 
+<a id="1-89-hesitant-prospect-update"></a>
 ### 1.89 (Hesitant Prospect Update)
 
 Released 9 Dec 2020
@@ -535,6 +546,7 @@ Released 9 Dec 2020
 - [Steam - HESITANT PROSPECT update now live](https://steamcommunity.com/games/305620/announcements/detail/2879452759174468860)
 - [Hinterland - HESITANT PROSPECT Update now live](https://hinterlandforums.com/forums/topic/38535-hesitant-prospect-update-now-live/)
 
+<a id="1-88"></a>
 ### 1.88
 
 Released 23 Nov 2020
@@ -547,9 +559,10 @@ Released 23 Nov 2020
 
 **External Links**
 
-- [Steam - The Long Dark Hotfixed to v1.88 [69021]](https://store.steampowered.com/newshub/app/305620/view/2879451491915088262)
+- [Steam - The Long Dark Hotfixed to v1.88 \[69021\]](https://store.steampowered.com/newshub/app/305620/view/2879451491915088262)
 - Hinterland - The Long Dark Hotfixed to v1.88
 
+<a id="1-87"></a>
 ### 1.87
 
 Released 3 Nov 2020
@@ -574,9 +587,10 @@ GENERAL
 
 **External Links**
 
-- [Steam - The Long Dark Hotfixed to v1.87 [68142]](https://steamcommunity.com/games/305620/announcements/detail/2912101321065631671)
+- [Steam - The Long Dark Hotfixed to v1.87 \[68142\]](https://steamcommunity.com/games/305620/announcements/detail/2912101321065631671)
 - Hinterland - The Long Dark Hotfixed to v1.87
 
+<a id="1-86"></a>
 ### 1.86
 
 Released 29 Oct 2020
@@ -588,6 +602,7 @@ Released 29 Oct 2020
 - [Steam - ESCAPE THE DARKWALKER Now Live!!!](https://steamcommunity.com/games/305620/announcements/detail/2909848885893860967)
 - [Hinterland - ESCAPE THE DARKWALKER Now Live](https://www.thelongdark.com/news/darkwalker/)
 
+<a id="1-83"></a>
 ### 1.83
 
 Released 31 July 2020
@@ -601,6 +616,7 @@ GENERAL FIXES
 - [Steam - The Long Dark -- Hotfix to 1.83](https://store.steampowered.com/newshub/app/305620/view/2715059958373039942)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.83](https://hinterlandforums.com/forums/topic/37658-the-long-dark-hotfixed-to-v183-64569/)
 
+<a id="1-82"></a>
 ### 1.82
 
 Released 20 July 2020
@@ -625,6 +641,7 @@ GENERAL ART FIXES
 - [Steam - The Long Dark -- Hotfix to 1.82](https://store.steampowered.com/newshub/app/305620/view/4888045692008345333)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.82](https://hinterlandforums.com/forums/topic/37598-the-long-dark-hotfixed-to-v182-64400/)
 
+<a id="1-81"></a>
 ### 1.81
 
 Released 7 July 2020
@@ -649,6 +666,7 @@ GENERAL ART FIXES
 - [Steam - The Long Dark -- Hotfix to 1.81](https://store.steampowered.com/newshub/app/305620/view/2494380403131374079)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.81](https://hinterlandforums.com/forums/topic/37514-the-long-dark-hotfixed-to-v181-64098/)
 
+<a id="1-80"></a>
 ### 1.80
 
 Released 30 June 2020
@@ -663,6 +681,7 @@ GENERAL FIXES
 - [Steam - The Long Dark -- Hotfix to 1.80](https://steamcommunity.com/games/305620/announcements/detail/2494380403106490357)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.80](https://hinterlandforums.com/forums/topic/37429-the-long-dark-hotfixed-to-v180-63997/)
 
+<a id="1-79"></a>
 ### 1.79
 
 Released 27 June 2020
@@ -710,6 +729,7 @@ SURVIVAL MODE
 - [Steam - The Long Dark -- Will You Survive WINTER’S EMBRACE?](https://steamcommunity.com/games/305620/announcements/detail/2494380403102468188)
 - [Hinterland Forums - The Long Dark -- Will You Survive WINTER’S EMBRACE?](https://hinterlandforums.com/forums/topic/37404-will-you-survive-winter%E2%80%99s-embrace/)
 
+<a id="1-78"></a>
 ### 1.78
 
 Released 3 June 2020
@@ -755,6 +775,7 @@ Released 3 June 2020
 - [Steam - The Long Dark -- Hotfix to 1.78](https://store.steampowered.com/newshub/app/305620/view/2201643907137871962)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.78](https://hinterlandforums.com/forums/topic/37172-the-long-dark-hotfixed-to-v178-62973/)
 
+<a id="1-77"></a>
 ### 1.77
 
 Released 26 May 2020
@@ -805,6 +826,7 @@ Released 26 May 2020
 - [Steam - The Long Dark -- Hotfix to 1.77](https://steamcommunity.com/games/305620/announcements/detail/2171243959196868341)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.77](https://hinterlandforums.com/forums/topic/37097-the-long-dark-hotfixed-to-v177-62748/)
 
+<a id="1-76-fearless-navigator-update"></a>
 ### 1.76 (Fearless Navigator Update)
 
 Released 19 May 2020
@@ -920,6 +942,7 @@ These are issues we’re currently tracking and will be addressing in an upcomin
 - [Steam - The Long Dark -- Updated to v1.76 Fearless Navigator](https://steamcommunity.com/games/305620/announcements/detail/3436754923812853327)
 - [Hinterland Forums - The Long Dark -- Updated to v1.76 Fearless Navigator](https://hinterlandforums.com/forums/topic/36987-the-long-dark-updated-fearless-navigator-176/)
 
+<a id="1-72"></a>
 ### 1.72
 
 Released 22 January 2020
@@ -933,6 +956,7 @@ Released 22 January 2020
 - [Steam - The Long Dark -- Hotfix to 1.72](https://steamcommunity.com/games/305620/announcements/detail/1703984719011304679)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.72](https://hinterlandforums.com/forums/topic/36403-the-long-dark-hotfixed-to-v172-58487/)
 
+<a id="1-71"></a>
 ### 1.71
 
 Released 20 January 2020
@@ -997,6 +1021,7 @@ GAMEPLAY
 - [Steam - The Long Dark -- Hotfix to 1.71](https://steamcommunity.com/games/305620/announcements/detail/3330909474118410721)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.71](https://hinterlandforums.com/forums/topic/36380-the-long-dark-hotfixed-to-v171-58341/)
 
+<a id="1-69"></a>
 ### 1.69
 
 Released 18 December 2019
@@ -1042,6 +1067,7 @@ GAMEPLAY
 - [Steam - The Long Dark -- Hotfix to 1.69](https://steamcommunity.com/games/305620/announcements/detail/1706233347159405901)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.69](https://hinterlandforums.com/forums/topic/36097-the-long-dark-hotfixed-to-v169-57923/)
 
+<a id="1-67"></a>
 ### 1.67
 
 Released 14 December 2019
@@ -1053,6 +1079,7 @@ Released 14 December 2019
 - [Steam - The Long Dark -- Hotfix to 1.66](https://steamcommunity.com/games/305620/announcements/detail/3177783990874965166)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.66](https://hinterlandforums.com/forums/topic/36046-the-long-dark-hotfixed-to-v167-57845/)
 
+<a id="1-66"></a>
 ### 1.66
 
 Released 14 December 2019
@@ -1108,6 +1135,7 @@ Playstation 4/Xbox One
 - [Steam - The Long Dark -- Hotfix to 1.66](https://steamcommunity.com/games/305620/announcements/detail/3177783990874307935)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.66](https://hinterlandforums.com/forums/topic/36042-the-long-dark-hotfixed-to-v166-57718/)
 
+<a id="1-64-errant-pilgrim-update"></a>
 ### 1.64 (Errant Pilgrim Update)
 
 Released 10 December 2019
@@ -1182,6 +1210,7 @@ General performance improvements across the game.
 - [Steam - The Long Dark -- 1.64 Errant Pilgrim](https://steamcommunity.com/games/305620/announcements/detail/1720868778918967576)
 - [Hinterland Forums - The Long Dark -- 1.64 Errant Pilgrim](https://hinterlandforums.com/forums/topic/35998-the-long-dark-updated-errant-pilgrim-164/)
 
+<a id="1-62"></a>
 ### 1.62
 
 Released 1 November 2019
@@ -1227,6 +1256,7 @@ Episode Three
 - [Steam - The Long Dark -- Hotfixed to 1.62](https://steamcommunity.com/games/305620/announcements/detail/1611653315353877697)
 - [Hinterland Forums - The Long Dark -- Hotfixed to 1.62](https://hinterlandforums.com/forums/topic/35776-the-long-dark-hotfixed-to-162-55870/)
 
+<a id="1-61"></a>
 ### 1.61
 
 Released 28 October 2019
@@ -1270,6 +1300,7 @@ Episode Three
 - [Steam - The Long Dark -- Hotfixed to v1.61](https://steamcommunity.com/games/305620/announcements/detail/1664569976919841719)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.61](https://hinterlandforums.com/forums/topic/35708-the-long-dark-hotfixed-to-v161-55716/)
 
+<a id="1-60-crossroads-elegy-update"></a>
 ### 1.60 (Crossroads Elegy Update)
 
 Released 22 October 2019
@@ -1283,6 +1314,7 @@ Size: 2.7 GB
 - [Steam - The Long Dark -- Crossroads Elegy now live!](https://steamcommunity.com/games/305620/announcements/detail/1576749150346345484)
 - [Hinterland Forums - The Long Dark -- Crossroads Elegy now live!](https://hinterlandforums.com/forums/topic/35567-episode-three-now-live/)
 
+<a id="1-56"></a>
 ### 1.56
 
 Released 15 July 2019
@@ -1294,6 +1326,7 @@ Released 15 July 2019
 - [Steam - The Long Dark -- Hotfixed to v1.56](https://steamcommunity.com/games/305620/announcements/detail/1610517267362258109)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.56](https://hinterlandforums.com/forums/topic/35046-the-long-dark-hotfixed-to-v156-49966/)
 
+<a id="1-55"></a>
 ### 1.55
 
 Released 7 June 2019
@@ -1309,6 +1342,7 @@ GENERAL FIXES
 - [Steam - The Long Dark -- Hotfixed to v1.55](https://steamcommunity.com/games/305620/announcements/detail/1611639361543992692)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.55](https://hinterlandforums.com/forums/topic/23209-the-long-dark-hotfixed-to-v155-48657/)
 
+<a id="1-53"></a>
 ### 1.53
 
 Released 28 May 2019
@@ -1322,6 +1356,7 @@ GENERAL FIXES
 - [Steam - The Long Dark -- Hotfixed to v1.53](https://steamcommunity.com/games/305620/announcements/detail/1620645928754461459)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.53](http://www.hinterlandforums.com/forums/topic/23145-the-long-dark-hotfixed-to-v153-48567/)
 
+<a id="1-52"></a>
 ### 1.52
 
 Released 27 May 2019
@@ -1381,6 +1416,7 @@ ALL GAME MODES
 - [Steam - The Long Dark -- Hotfixed to v1.52](https://steamcommunity.com/games/305620/announcements/detail/1620645928750946718)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.52](http://www.hinterlandforums.com/forums/topic/23138-the-long-dark-hotfixed-to-v152-48486/)
 
+<a id="1-50"></a>
 ### 1.50
 
 Released 14 May 2019

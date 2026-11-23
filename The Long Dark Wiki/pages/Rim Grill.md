@@ -1,13 +1,13 @@
 # Rim Grill
 
-**Categories:** Fire Starting, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rim_Grill)
+**Categories:** Fire Starting, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 **Rim Grill**
 
 | Property | Details |
 | --- | --- |
-|  | [Screen ab2c5b97 8817 4398 a5b1 fb4b96024b93 hi](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) |
-| **Statistics** |  |
+| | [Screen ab2c5b97 8817 4398 a5b1 fb4b96024b93 hi](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) |
+| **Statistics** | |
 | Cooking slots | 2 |
 
 The **rim grill** is an immovable [contained fire](./Fire.md#contained-fires) introduced in the Errant Pilgrim update. The rim grill functions identically to other contained fires and player-made [Campfire](./Campfire.md). The rim grill provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has two [Cooking](./Cooking.md) slots.

@@ -132,10 +132,12 @@ The following areas behave like Warm Caves, though these indoor areas progress C
 - [Valley Cave](./Valley%20Cave.md)
 - 5 unnamed caves throughout the region
 
+<a id="keeper-s-pass-north-0"></a>
 #### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (0)
 
 - There are no Warm Caves in this region
 
+<a id="keeper-s-pass-south-0"></a>
 #### [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) (0)
 
 - There are no Warm Caves in this region

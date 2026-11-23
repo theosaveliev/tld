@@ -8,8 +8,6 @@
 
 ![Interior](../assets/Rocky_refuge.jpg)
 
-|
-
 **Location**
 
 ![Rocky Refuge Location](../assets/Rocky_Refuge_Location.png)

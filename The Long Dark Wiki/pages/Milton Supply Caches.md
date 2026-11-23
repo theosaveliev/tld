@@ -17,9 +17,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hidden Cache](../assets/Hidden_Cache.png) |
+| | [Hidden Cache](../assets/Hidden_Cache.png) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Current | Milton Supply Caches |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 

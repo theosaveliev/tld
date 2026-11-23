@@ -6,21 +6,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Airline Food Chicken icon](../assets/Airline_Food_-_Chicken_icon.png) |
+| | [Airline Food Chicken icon](../assets/Airline_Food_-_Chicken_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Wintermute | Yes |
 | Renewable | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Still frozen solid, this food tray has all the tasty charm you could expect from reheated chicken, only without the heat. |
-| **Values** |  |
+| **Values** | |
 | Calories | 620 kcal |
 | Hydration | 5% |
 | [Vitamin C](./Scurvy.md) | Moderate (29%) |
 | Weight | 0.25 kg (0.55 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_AirlineFoodChick |
 
 **Airline Food - Chicken** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).

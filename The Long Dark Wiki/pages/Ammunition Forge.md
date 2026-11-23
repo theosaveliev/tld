@@ -18,7 +18,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ammunition Forge](../assets/Ammunition_Forge.png) |
+| | [Ammunition Forge](../assets/Ammunition_Forge.png) |
 | Release | 9 December 2019 |
 | Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-64-errant-pilgrim-update) |
 | Story item | No |

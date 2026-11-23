@@ -12,15 +12,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Document Stash 2 icon](../assets/Document_Stash_2_icon.png) |
+| | [Document Stash 2 icon](../assets/Document_Stash_2_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | An old lockbox. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
 
 **Document Stash 2** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).

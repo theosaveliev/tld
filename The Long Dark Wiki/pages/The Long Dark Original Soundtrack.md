@@ -29,7 +29,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 
 | No. | Title | Length | Appearance |
 | --- | --- | --- | --- |
-| Disc 1 — WINTERMUTE, Episode One: "Do Not Go Gentle" |  |  |  |
+| Disc 1 — WINTERMUTE, Episode One: "Do Not Go Gentle" | | | |
 | 1 | Theme for The Long Dark | 2:57 | — |
 | 2 | The New World | 3:52 | — |
 | 3 | There's Something I Have to Say | 2:39 | — |
@@ -45,7 +45,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 13 | One Last Thing | 0:20 | — |
 | 14 | Pay Respects | 0:30 | — |
 | 15 | You See Things Others Would Miss | 3:40 | — |
-| Disc 2 — WINTERMUTE, Episode Two: "Luminance Fugue" |  |  |  |
+| Disc 2 — WINTERMUTE, Episode Two: "Luminance Fugue" | | | |
 | 1 | Not The Way You Shoot | 2:59 | — |
 | 2 | What Happened Here | 0:46 | — |
 | 3 | Call Me Jeremiah | 2:39 | — |
@@ -61,7 +61,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 13 | Wintermute | 5:38 | — |
 | 14 | Passing of an Age | 2:17 | — |
 | 15 | Things of the Old World | 2:05 | — |
-| Disc 3 — WINTERMUTE, Ambient & Exploration |  |  |  |
+| Disc 3 — WINTERMUTE, Ambient & Exploration | | | |
 | 1 | Abandoned | 1:32 | — |
 | 2 | Arrival | 0:24 | — |
 | 3 | Aurora | 1:32 | — |
@@ -86,7 +86,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 22 | Triumph | 0:10 | — |
 | 23 | Voice | 0:19 | — |
 | 24 | Wolfbridge | 0:17 | — |
-| Disc 4 — SURVIVAL Mode, Ambient & Exploration |  |  |  |
+| Disc 4 — SURVIVAL Mode, Ambient & Exploration | | | |
 | 1 | Beginnings | 0:40 | — |
 | 2 | Clearing | 0:44 | — |
 | 3 | Danger | 0:33 | — |
@@ -120,7 +120,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 
 | No. | Title | Length | Appearance |
 | --- | --- | --- | --- |
-| Disc 1 — WINTERMUTE, Episode Three: "Crossroads Elegy" |  |  |  |
+| Disc 1 — WINTERMUTE, Episode Three: "Crossroads Elegy" | | | |
 | 1 | From Other Eyes | 1:11 | — |
 | 2 | Surprise | 0:26 | — |
 | 3 | Molly's Kitchen | 1:48 | — |
@@ -148,7 +148,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 25 | A Light in the Sky | 1:38 | — |
 | 26 | A Dark Place | 1:41 | — |
 | 27 | Night My Quiet Companion | 1:34 | — |
-| Disc 2 — SURVIVAL Mode |  |  |  |
+| Disc 2 — SURVIVAL Mode | | | |
 | 1 | Heavy [m] | 2:29 | — |
 | 2 | Stellar [n] | 2:45 | — |
 | 3 | Patience [o] | 2:38 | — |
@@ -168,7 +168,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 
 | No. | Title | Length | Appearance |
 | --- | --- | --- | --- |
-| Disc 1 — WINTERMUTE, Episode Four: "Fury, Then Silence" |  |  |  |
+| Disc 1 — WINTERMUTE, Episode Four: "Fury, Then Silence" | | | |
 | 1 | Disquiet | 2:01 | — |
 | 2 | Apocalypse Strings | 2:13 | — |
 | 3 | The Walls at the Foot of the Mountain | 2:54 | — |
@@ -185,7 +185,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 14 | Bad Things Happen in Mines | 2:10 | — |
 | 15 | Steam's Alright I Guess | 2:33 | — |
 | 16 | A Sad Story Ends [e] | 2:33 | — |
-| Disc 2 — WINTERMUTE, Episode Five: "The Light at the End of All Things" |  |  |  |
+| Disc 2 — WINTERMUTE, Episode Five: "The Light at the End of All Things" | | | |
 | 1 | A Town, A Quarantine, and a Missing Doctor | 4:51 | — |
 | 2 | The Cold Truth | 1:18 | — |
 | 3 | Terry's Story | 0:56 | — |
@@ -211,7 +211,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 23 | Is That Really You? | 2:04 | — |
 | 24 | There's One More Thing I Gotta Do [r] | 4:33 | — |
 | 25 | I Never Stopped Loving You | 6:05 | — |
-| Disc 3 — SURVIVAL EXPANSION, Tales from the Far Territory |  |  |  |
+| Disc 3 — SURVIVAL EXPANSION, Tales from the Far Territory | | | |
 | 1 | Theme for the Far Territory [f] | 3:55 | — |
 | 2 | The Call to Survive [g] | 2:10 | — |
 | 3 | The Transfer Hub | 1:01 | — |
@@ -237,14 +237,15 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | --- | --- | --- | --- | --- |
 | 1 | The Lion's Roar | [First Aid Kit](./First%20Aid%20Kit.md) | 2:00 | Intro cinematic for Story Mode. |
 
+<a id="removed-unreleased-tracks"></a>
 ### Removed/Unreleased Tracks
 
 | No. | Title | Length | Notes |
 | --- | --- | --- | --- |
-| Removed |  |  |  |
+| Removed | | | |
 | — | Onward | 3:03 | Removed from Volume 2, Disc 2 — duplicate of "Hope" (V1D4 #12) |
 | — | The Timberwolf | 1:16 | Cut from Episode Three; never officially released |
-| Unreleased |  |  |  |
+| Unreleased | | | |
 | — | Stalked by Wolves | 1:01 | No confirmed match on the released Volume Two soundtrack |
 | — | The Medical Clinic | 3:03 | No confirmed match on the released Volume Three soundtrack |
 | — | Darkwalker theme | ? | Not found in any official release |

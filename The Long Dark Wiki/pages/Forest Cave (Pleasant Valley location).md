@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg) |
-| **Location** |  |
-|  | [Forest Cave PV Location](../assets/Forest_Cave_PV_Location.png) |
+| | [SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg) |
+| **Location** | |
+| | [Forest Cave PV Location](../assets/Forest_Cave_PV_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Location | Near [Pensive Pond](./Pensive%20Pond.md) |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 _See also: [Forest Cave in Timberwolf Mountain](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md)_
 

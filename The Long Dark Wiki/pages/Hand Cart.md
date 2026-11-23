@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [HandCart](../assets/HandCart.jpg) |
-| **General** |  |
+| | [HandCart](../assets/HandCart.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

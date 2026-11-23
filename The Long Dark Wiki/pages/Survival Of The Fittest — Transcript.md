@@ -1,3 +1,4 @@
+<a id="survival-of-the-fittest-transcript"></a>
 # Survival Of The Fittest/Transcript
 
 **Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest%2FTranscript)
@@ -15,9 +16,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg) |
+| | [Survival Of The Fittest](../assets/Survival_Of_The_Fittest.jpg) |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | None |
 | Current | Survival Of The Fittest/Transcript |
 | Next | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |

@@ -29,21 +29,21 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mathis](../assets/Mathis.png) |
+| | [Mathis](../assets/Mathis.png) |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) / [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Mission | [Renewed Hope](./Renewed%20Hope.md) / [Prologue](./Prologue.md) / [Blackrock Blues](./Blackrock%20Blues.md) / [The Power Plant](./The%20Power%20Plant.md) / [The Detonators](./The%20Detonators.md) / [Donner](./Donner.md) |
 | Location(s) | [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) / [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | 50's |
 | Status | Alive |
 | Relatives | [Donner](./Donner.md) (Son) |
 | Occupation | Criminal |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Hair | Graying dirty blond |
 | Eyes | Light blue |
-| **Game Information** |  |
+| **Game Information** | |
 | Equipment | [Hatchet](./Hatchet.md) |
 | Voiced by | [Elias Toufexis](https://en.wikipedia.org/wiki/Elias_Toufexis) (Redux EP 2, 4) Gord Marriott (Predux EP 2) |
 

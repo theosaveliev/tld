@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Waterfall](../assets/Waterfall.jpg) |
-| **Location** |  |
-|  | [Waterfall Location](../assets/Waterfall_Location.png) |
+| | [Waterfall](../assets/Waterfall.jpg) |
+| **Location** | |
+| | [Waterfall Location](../assets/Waterfall_Location.png) |
 | Region | [Desolation Point](./Desolation%20Point.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 _Not to be confused with [Waterfall (Forlorn Muskeg)](./Waterfall%20%28Forlorn%20Muskeg%29.md)_
 

@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Crystal Lake](../assets/Crystal_Lake.png) |
-| **Location** |  |
-|  | [Crystal Lake Location](../assets/Crystal_Lake_Location.png) |
+| | [Crystal Lake](../assets/Crystal_Lake.png) |
+| **Location** | |
+| | [Crystal Lake Location](../assets/Crystal_Lake_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Sublocations | [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) |
 | Description | A small freshwater lake |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Crystal Lake** is small frozen lake located in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

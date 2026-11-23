@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Graduation Day icon](../assets/Graduation_Day_icon.png) |
+| | [Graduation Day icon](../assets/Graduation_Day_icon.png) |
 | Description | Complete all six Survival School objectives across Episodes One and Two. |
 
 **Graduation Day** is a [Wintermute](./Wintermute.md) [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) across [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.

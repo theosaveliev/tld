@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Graveyard](../assets/Graveyard.png) |
-| **Location** |  |
-|  | [Graveyard Location](../assets/Graveyard_Location.png) |
-| Region |  |
+| | [Graveyard](../assets/Graveyard.png) |
+| **Location** | |
+| | [Graveyard Location](../assets/Graveyard_Location.png) |
+| Region | |
 | Location | A short walk up the road from [Milton](./Milton.md) |
 | Description | A church and graveyard |
-| **General** |  |
+| **General** | |
 | Type | Residential |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Graveyard** is a location across the street from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) and just the road up from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region.
 

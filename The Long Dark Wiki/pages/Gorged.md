@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Gorged icon](../assets/Gorged_icon.png) |
+| | [Gorged icon](../assets/Gorged_icon.png) |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Update | 2.17 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume [Food And Drink](./Food%20And%20Drink.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Recovery Time passes |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | 1 Hour |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

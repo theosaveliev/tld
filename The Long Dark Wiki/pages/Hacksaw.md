@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hacksaw icon](../assets/Hacksaw_icon.png) |
-| **General** |  |
+| | [Hacksaw icon](../assets/Hacksaw_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | No |
 | Renewable | Yes |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
 | Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) / 1 × [Scrap Metal](./Scrap%20Metal.md) / 25% Condition / 45 to 30 min |
@@ -126,5 +126,3 @@ Some observed spawn points include:
 - In [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 
 [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
-
-[ru:Ножовка](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B6%D0%BE%D0%B2%D0%BA%D0%B0) [es:Sierra de arco](https://es.wikipedia.org/wiki/Sierra_de_arco)

@@ -1,3 +1,4 @@
+<a id="rudiger-s-dream"></a>
 # Rüdiger's Dream
 
 **Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Dream)
@@ -6,7 +7,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Rüdiger's Dream icon](../assets/R%C3%BCdiger%27s_Dream_icon.png) |
+| | [Rüdiger's Dream icon](../assets/R%C3%BCdiger%27s_Dream_icon.png) |
 | Description | Complete all 3 Tales (single game). |
 
 **Rüdiger's Dream** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

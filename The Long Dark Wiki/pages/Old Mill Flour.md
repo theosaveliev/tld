@@ -14,19 +14,19 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Old Mill Flour icon](../assets/Old_Mill_Flour_icon.png) |
+| | [Old Mill Flour icon](../assets/Old_Mill_Flour_icon.png) |
 | Release | [19 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Examine | All purpose flour. A base ingredient in many recipes. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.50 kg (3.3 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0.250% per day |
 | Outside | 0.250% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Flour |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

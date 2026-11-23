@@ -24,11 +24,11 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [Desolation Point Location](../assets/Desolation_Point_Location.png) |
-|  | [Desolation point map](../assets/Desolation_point_map.png) |
-| **Details** |  |
+| | [Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [Desolation Point Location](../assets/Desolation_Point_Location.png) |
+| | [Desolation point map](../assets/Desolation_point_map.png) |
+| **Details** | |
 | Description | A desolate coastal region with the remnants of an old whaling industry. |
 | Connecting Regions | [Coastal Highway](./Coastal%20Highway.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
 | Difficulty | Intermediate |
@@ -179,7 +179,3 @@ The ship's uppermost deck can serve as a vantage point to look for and/or hunt [
 ### Miscellaneous
 
 ![A poster of Desolation Point](../assets/Desolation_point_poster.png)
-
-[ru:Зона запустения](https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F)
-
-[es:Paraje desolado](https://es.wikipedia.org/wiki/Paraje_desolado) [fr:Site de Désolation](https://fr.wikipedia.org/wiki/Site_de_D%C3%A9solation)

@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [TwinSisterFallsRainbow](../assets/TwinSisterFallsRainbow.png) |
-| **Location** |  |
-|  | [Twin Sisters Falls Location](../assets/Twin_Sisters_Falls_Location.png) |
+| | [TwinSisterFallsRainbow](../assets/TwinSisterFallsRainbow.png) |
+| **Location** | |
+| | [Twin Sisters Falls Location](../assets/Twin_Sisters_Falls_Location.png) |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md) |
 | Location | Just east of [Valley View Point](./Valley%20View%20Point.md). |
 | Description | Two waterfalls. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Twin Sisters Falls** is a waterfall located along the [Hushed River](./Hushed%20River.md), in [Hushed River Valley](./Hushed%20River%20Valley.md). It's located just east of [Valley View Point](./Valley%20View%20Point.md) and a short walk west-southwest of the [Valley Cave](./Valley%20Cave.md).
 

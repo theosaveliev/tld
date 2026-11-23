@@ -8,8 +8,6 @@
 
 ![Opened](../assets/Red_Irish_Lord_%28Raw%29_Opened_icon.png)
 
-|
-
 Release
 
 [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-17-tftft-part-three-frontier-comforts-update)

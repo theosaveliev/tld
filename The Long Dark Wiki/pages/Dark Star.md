@@ -8,8 +8,8 @@
 
 | Property | Details |
 | --- | --- |
-| Episode |  |
-| **Missions** |  |
+| Episode | |
+| **Missions** | |
 | Current | Dark Star |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 

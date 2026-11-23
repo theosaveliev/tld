@@ -37,6 +37,7 @@ Continue investigating the mysterious events surrounding Dr. Rüdiger and his my
 
 Dr. Rüdiger escaped from the Langston Mine, track down where he could have gone in the nearby [Sundered Pass](./Sundered%20Pass.md).
 
+<a id="sutherland-s-tale"></a>
 ### [Sutherland's Tale](./Sutherland%27s%20Tale.md)
 
 > “**We all get to to tell our own stories, right? This is mine.**”

@@ -213,6 +213,7 @@ A woman that is heard briefly in a cutscene in the beginning flashback of Episod
 
 She is voiced by Jackie Blackmore.
 
+<a id="astrid-and-will-s-son"></a>
 ### Astrid and Will's Son
 
 Astrid Greenwood and Will Mackenzie had a son at one point in the past, with his death affecting the two and causing a divorce (and Astrid to reclaim her maiden name).
@@ -272,6 +273,7 @@ Various Convicts of Blackrock Prison roam the Island in many of Wintermute's Epi
 
 Some of the Convicts in Episode 4 are voiced by Jordan Waunch and Jacques Lalonde.
 
+<a id="molly-s-husband"></a>
 ### [Molly's Husband](./Molly%27s%20Husband.md)
 
 ![Molly's Husband Picture](../assets/Molly%27s_Husband_Picture.png)
@@ -336,6 +338,7 @@ Townsperson One is voiced by Jeff Cooper. Townsperson Two is voiced by Jason McK
 
 Survival Mode is unique in that it has no real plot found outside of the [Tales](./Tales.md) found within the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). [Buffer Memories](./Buffer%20Memories.md) reveal the existence of various Great Bear Island inhabitants of various locations encountered in Wintermute, but the player character does encounter any other humans aside from the occasional [Frozen Corpse](./Frozen%20Corpse.md). Below is a list of characters mentioned only in Survival Mode:
 
+<a id="dr-rudiger"></a>
 ### Dr. Rüdiger
 
 [Rüdiger](./Dr.%20R%C3%BCdiger.md) is the central focus of the Tales of From the Far Territory storyline. Very little is known about him, other than that he is responsible for the creation of a large machine inside the [Langston Mine](./Langston%20Mine.md), as well as ordering an unknown experimentation on several people.

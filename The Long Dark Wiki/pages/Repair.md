@@ -37,7 +37,7 @@ A second method to repair tools (including firearms) is to use a [Milling Machin
 
 | Item | Repair Time | Restoration Time |
 | --- | --- | --- |
-| Hand Tools |  |  |
+| Hand Tools | | |
 | [Hacksaw icon](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md) | 20.0 minutes | N/A |
 | [Hatchet icon](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) | 20.0 minutes | N/A |
 | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) | 20.0 minutes | N/A |
@@ -45,7 +45,7 @@ A second method to repair tools (including firearms) is to use a [Milling Machin
 | [Improvised Knife icon](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 20.0 minutes | N/A |
 | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 20.0 minutes | N/A |
 | [Survival Knife icon](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) | 20.0 minutes | N/A |
-| Firearms |  |  |
+| Firearms | | |
 | [Revolver icon](../assets/Revolver_icon.png) [Revolver](./Revolver.md) | 30.0 minutes | 90.0 minutes |
 | [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) [Forester's Revolver](./Forester%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |
 | [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) [Hunter's Revolver](./Hunter%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |

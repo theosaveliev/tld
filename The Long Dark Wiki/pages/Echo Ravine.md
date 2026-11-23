@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Echo Ravine](../assets/Echo_Ravine.jpg) |
-| **Location** |  |
-|  | [Echo Ravine Location](../assets/Echo_Ravine_Location.png) |
+| | [Echo Ravine](../assets/Echo_Ravine.jpg) |
+| **Location** | |
+| | [Echo Ravine Location](../assets/Echo_Ravine_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Description | A long narrow area between two rock faces |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Echo Ravine** is a narrow ravine located in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 

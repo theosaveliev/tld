@@ -8,8 +8,6 @@
 
 ![Interior](../assets/Community_hall_interior.jpg)
 
-|
-
 **Location**
 
 ![Community Hall Location](../assets/Community_Hall_Location.png)

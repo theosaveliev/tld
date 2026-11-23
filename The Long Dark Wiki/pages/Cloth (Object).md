@@ -21,8 +21,6 @@
 
 ![Tarp](../assets/ClothTarp.jpg)
 
-|
-
 **General**
 
 Item Type
@@ -41,9 +39,9 @@ Found near many beds and couches inside homes and cabins.
 
 | Cloth | Time | Calories | Condition of Tool |
 | --- | --- | --- | --- |
-| 3 | 15 minutes |  | -0% by Hand |
-| 3 | 9 minutes |  | -2% Hunting Knife |
-| 3 |  |  | -3% Improvised Knife |
+| 3 | 15 minutes | | -0% by Hand |
+| 3 | 9 minutes | | -2% Hunting Knife |
+| 3 | | | -3% Improvised Knife |
 
 ## Scarf
 

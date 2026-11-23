@@ -40,13 +40,13 @@ This game mode is best picked if the player is trying to explore and learn the g
 
 | DIFFICULTY | PILGRIM |
 | --- | --- |
-| GAME START |  |
+| GAME START | |
 | Baseline resource availability | Very High |
 | Starting time of day | Noon |
 | Starting weather | Clear |
 | Indoor spawns permitted | Yes |
 | Survivor monologue | Yes |
-| ENVIRONMENT |  |
+| ENVIRONMENT | |
 | Length of day multiplier | 1x |
 | Weather variability | Low |
 | Blizzard frequency | Low |
@@ -55,7 +55,7 @@ This game mode is best picked if the player is trying to explore and learn the g
 | Aurora frequency | Medium |
 | Fire overcomes ambient air temp | Yes |
 | Endless night (v1.83) | No |
-| HEALTH |  |
+| HEALTH | |
 | Calorie burn rate | Low |
 | Thirst rate | Low |
 | Fatigue rate | High |
@@ -75,7 +75,7 @@ This game mode is best picked if the player is trying to explore and learn the g
 | Fires prevent freezing | Yes |
 | Wake up player when freezing near a fire | Yes |
 | Birch bark tea crafting **(v.1.64)** | Yes |
-| GEAR |  |
+| GEAR | |
 | Item decay rate | Low |
 | Loose item availability | Very High |
 | Empty container chance modifier | None |
@@ -85,7 +85,7 @@ This game mode is best picked if the player is trying to explore and learn the g
 | Revolver availability **(v.1.64)** | Yes |
 | Harvestable plant availability | High |
 | Reduce container item density | None |
-| WILDLIFE SPAWNS |  |
+| WILDLIFE SPAWNS | |
 | Cougar spawn chance | None |
 | Wolf spawn chance | Low |
 | Timberwolf spawn chance | Low |
@@ -97,7 +97,7 @@ This game mode is best picked if the player is trying to explore and learn the g
 | Reduce wildlife population over time | None |
 | Wolf spawn distance | Medium |
 | Predator grace period | No |
-| WILDLIFE BEHAVIOUR |  |
+| WILDLIFE BEHAVIOUR | |
 | Wildlife smell range | Low |
 | Scent increase from Meat/Blood | Medium |
 | Passive wildlife | Yes |
@@ -105,7 +105,7 @@ This game mode is best picked if the player is trying to explore and learn the g
 | Wolf fear | Medium |
 | Timberwolf morale | High |
 | Wildlife detection range | Medium |
-| WILDLIFE STRUGGLE |  |
+| WILDLIFE STRUGGLE | |
 | Struggle bonus | High |
 | Struggle condition damage modifier | None |
 | Struggle clothing damage modifier | Low |

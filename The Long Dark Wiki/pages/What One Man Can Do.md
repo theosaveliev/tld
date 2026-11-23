@@ -6,9 +6,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) |
+| | [Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Signal to Noise](./Signal%20to%20Noise.md) |
 | Current | What One Man Can Do |
 | Next | [Renewed Hope](./Renewed%20Hope.md) |

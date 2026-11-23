@@ -6,8 +6,6 @@
 
 ![Abandoned Mine No.3 (West) interior](../assets/Abandoned_Mine_No.3_%28West%29_interior.jpg)
 
-|
-
 **Location**
 
 Region

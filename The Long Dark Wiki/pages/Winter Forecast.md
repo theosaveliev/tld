@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Winter Forecast icon](../assets/Winter_Forecast_icon.png) |
+| | [Winter Forecast icon](../assets/Winter_Forecast_icon.png) |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Extra Supplies](./Extra%20Supplies.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A note with details on weather in the Milton area. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | STORY\_GMExtraSuppliesNote |
 
 **Winter Forecast** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode to start the [Extra Supplies](./Extra%20Supplies.md) side mission.

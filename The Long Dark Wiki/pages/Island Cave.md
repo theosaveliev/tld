@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [IslandCave](../assets/IslandCave.png) |
-| **Location** |  |
+| | [IslandCave](../assets/IslandCave.png) |
+| **Location** | |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | West-southwest of [Cannery Pier](./Cannery%20Pier.md). |
 | Description | A small cave on an offshore island. |
-| **General** |  |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

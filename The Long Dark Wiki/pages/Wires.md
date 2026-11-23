@@ -12,18 +12,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Wires icon](../assets/Wires_icon.png) |
+| | [Wires icon](../assets/Wires_icon.png) |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-09-2-10-tftft-part-two-signal-void) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A bundle of scavenged Wires. Old, but intact. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Wires |
 
 **Wires** are an item found in [Survival Mode](./Survival%20Mode.md) in _[The Long Dark](./The%20Long%20Dark.md)_. They were introduced in Part 2 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon. They can be found in most industrial areas in the game world.

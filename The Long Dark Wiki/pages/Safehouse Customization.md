@@ -165,6 +165,7 @@ Note: [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) can be d
   - The office in the yard
   - Maintenance Shed
 
+<a id="coastal-highway-28-17-on-i-m"></a>
 #### [Coastal Highway](./Coastal%20Highway.md) (28) (17 on I/M)
 
 The number of safehouses in this region are lowered if playing on [Interloper](./Interloper.md)/[Misery](./Misery.md) due to ruined buildings (labeled as I/M)
@@ -263,10 +264,12 @@ The number of safehouses in this region are lowered if playing on [Interloper](.
 
 - [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) Basement
 
+<a id="keeper-s-pass-north-0"></a>
 #### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (0)
 
 - None
 
+<a id="keeper-s-pass-south-1"></a>
 #### [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) (1)
 
 - [Mirthless Fork](./Mirthless%20Fork.md) Trailer

@@ -127,13 +127,13 @@ In addition to the regions above, players who purchased the [Wintermute](./Winte
 
 | Region | Difficulty | Number of / locations | Modes | Release date |
 | --- | --- | --- | --- | --- |
-| [Perseverance Mills](./Perseverance%20Mills.md) | Beginner |  | Wintermute | 31 March 2026 |
-| [Perseverance Wilds](./Perseverance%20Wilds.md) | Beginner |  | Wintermute | 31 March 2026 |
-| [Desperation Bay](./Desperation%20Bay.md) | Beginner |  | Wintermute | 31 March 2026 |
-| [Blackrock Foothills](./Blackrock%20Foothills.md) | Beginner |  | Wintermute | 31 March 2026 |
-| [Suzuki Environs](./Suzuki%20Environs.md) | Beginner |  | Wintermute | 31 March 2026 |
-| [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) | Beginner |  | Wintermute | 31 March 2026 |
-| [Railway](./Railway.md) | Beginner |  | Wintermute | 31 March 2026 |
+| [Perseverance Mills](./Perseverance%20Mills.md) | Beginner | | Wintermute | 31 March 2026 |
+| [Perseverance Wilds](./Perseverance%20Wilds.md) | Beginner | | Wintermute | 31 March 2026 |
+| [Desperation Bay](./Desperation%20Bay.md) | Beginner | | Wintermute | 31 March 2026 |
+| [Blackrock Foothills](./Blackrock%20Foothills.md) | Beginner | | Wintermute | 31 March 2026 |
+| [Suzuki Environs](./Suzuki%20Environs.md) | Beginner | | Wintermute | 31 March 2026 |
+| [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) | Beginner | | Wintermute | 31 March 2026 |
+| [Railway](./Railway.md) | Beginner | | Wintermute | 31 March 2026 |
 
 ### Cauldron Island
 
@@ -141,13 +141,13 @@ In addition to the regions above, players who purchased the [Iron Road](./Iron%2
 
 | Region | Difficulty | Number of / locations | Modes | Release date |
 | --- | --- | --- | --- | --- |
-| [Port Remnant](./Port%20Remnant.md) |  |  | Survival | 27 October 2026 |
-| [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) |  |  | Survival | 27 October 2026 |
-| [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) |  |  | Survival | 27 October 2026 |
-| [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) |  |  | Survival | 27 October 2026 |
-| [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) |  |  | Survival | 27 October 2026 |
-| [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) |  |  | Survival | 27 October 2026 |
-| [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) |  |  | Survival | 27 October 2026 |
+| [Port Remnant](./Port%20Remnant.md) | | | Survival | 27 October 2026 |
+| [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) | | | Survival | 27 October 2026 |
+| [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) | | | Survival | 27 October 2026 |
+| [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) | | | Survival | 27 October 2026 |
+| [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) | | | Survival | 27 October 2026 |
+| [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) | | | Survival | 27 October 2026 |
+| [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) | | | Survival | 27 October 2026 |
 
 ### Brief Description
 

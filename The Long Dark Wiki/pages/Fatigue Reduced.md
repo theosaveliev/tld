@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
-| **Properties** |  |
+| | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consuming [Food And Drink](./Food%20And%20Drink.md)/[First Aid](./First%20Aid.md) |
 | Effect | Positive |

@@ -8,8 +8,6 @@
 
 ![Eastern Entrance](../assets/Forgotten_Exploration_2.jpg)
 
-|
-
 **Location**
 
 ![Forgotten Exploration Location](../assets/Forgotten_Exploration_Location.png)

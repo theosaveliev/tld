@@ -6,10 +6,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Pot belly stove](../assets/Pot_belly_stove.png) |
-| **General** |  |
+| | [Pot belly stove](../assets/Pot_belly_stove.png) |
+| **General** | |
 | Type | Fire Starting |
-| **Statistics** |  |
+| **Statistics** | |
 | Max temperature | 80 °C / _(144 °F)_ |
 | Cooking slots | 1 |
 

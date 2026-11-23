@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Narrow Bridge](../assets/Narrow_Bridge.jpg) |
-| **Location** |  |
-|  | [Narrow Bridge Location](../assets/Narrow_Bridge_Location.png) |
-| Region |  |
+| | [Narrow Bridge](../assets/Narrow_Bridge.jpg) |
+| **Location** | |
+| | [Narrow Bridge Location](../assets/Narrow_Bridge_Location.png) |
+| Region | |
 | Location | Crosses the non-frozen river near the Old Substation |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Narrow Bridge** crosses the major river flowing through [Blackrock](./Blackrock.md) just west of the [Old Substation](./Old%20Substation.md), near the southern boundary of the region.
 

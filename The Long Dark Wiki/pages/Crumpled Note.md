@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Crumpled Note icon](../assets/Crumpled_Note_icon.png) |
+| | [Crumpled Note icon](../assets/Crumpled_Note_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A hastily scribbled note pointing out a hidden supply cache. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 

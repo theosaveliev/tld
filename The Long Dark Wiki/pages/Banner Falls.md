@@ -6,8 +6,6 @@
 
 ![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg)
 
-|
-
 **Location**
 
 ![Banner Falls Location](../assets/Banner_Falls_Location.png)

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Newspaper Clipping 2 icon](../assets/Newspaper_Clipping_2_icon.png) |
+| | [Newspaper Clipping 2 icon](../assets/Newspaper_Clipping_2_icon.png) |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-95-fury-then-silence-update) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A piece of old newsprint, cracked and yellowed with age. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

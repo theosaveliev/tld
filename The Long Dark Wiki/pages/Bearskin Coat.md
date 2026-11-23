@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Bearskin Coat icon](../assets/Bearskin_Coat_icon.png) |
-| **General** |  |
+| | [Bearskin Coat icon](../assets/Bearskin_Coat_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)6.0 °C(10.8 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F) |

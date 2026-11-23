@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Frozen Creek upstream](../assets/Frozen_Creek_upstream.jpg) |
-| **Location** |  |
-|  | [Frozen Creek Location](../assets/Frozen_Creek_Location.png) |
+| | [Frozen Creek upstream](../assets/Frozen_Creek_upstream.jpg) |
+| **Location** | |
+| | [Frozen Creek Location](../assets/Frozen_Creek_Location.png) |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Frozen Creek** is a location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
@@ -31,5 +31,3 @@ Oddly enough, [Coal](./Coal.md) may spawn in the area and along the river, howev
 ![Another view of Frozen Creek.](../assets/Frozen_Creek_downstream.jpg)
 
 ![Frozen Creek at dawn.](../assets/Frozen_Creek_dawn.png)
-
-[es:Arroyo helado](https://es.wikipedia.org/wiki/Arroyo_helado) [ru:Замороженный ручей](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D1%87%D0%B5%D0%B9)

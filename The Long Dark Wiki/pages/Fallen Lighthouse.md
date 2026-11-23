@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Fallen Lighthouse, with the cannery in the background](../assets/Crique_lugubre_over.png) |
-| **Location** |  |
-|  | [Fallen Lighthouse Location](../assets/Fallen_Lighthouse_Location.png) |
+| | [The Fallen Lighthouse, with the cannery in the background](../assets/Crique_lugubre_over.png) |
+| **Location** | |
+| | [Fallen Lighthouse Location](../assets/Fallen_Lighthouse_Location.png) |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md) |
 | Location | South of the cannery worker residences |
 | Description | The crumbling remains of a once-standing lighthouse |
-| **General** |  |
+| **General** | |
 | Type | OutdoorsMilitary/Sporting |
 | Firebox | [Stove](./Stove.md) |
-| [Bed icon](../assets/Bed_icon.png) |  |
-|  | Provides some shelter |
+| [Bed icon](../assets/Bed_icon.png) | |
+| | Provides some shelter |
 
 **Fallen Lighthouse** is the collapsed ruin of a former lighthouse, similar to the intact building in [Desolation Point](./Desolation%20Point.md), in [Bleak Inlet](./Bleak%20Inlet.md). It is an iconic landmark used associated with the region.
 
@@ -47,5 +47,3 @@ Aside from this, it makes a somewhat good location for a base of operations, onl
 ![Behind the Fallen Lighthouse](../assets/Behind_the_Fallen_Lighthouse.png)
 
 ![Concept of the Lighthouse](../assets/Errant_Pilgrim.png)
-
-[es:Faro derrumbado](https://es.wikipedia.org/wiki/Faro_derrumbado) [ru:Упавший\_маяк](https://ru.wikipedia.org/wiki/%D0%A3%D0%BF%D0%B0%D0%B2%D1%88%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA)

@@ -17,15 +17,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
+| | [No picture](../assets/No_picture.png) |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
-| **Biographical Information** |  |
+| **Biographical Information** | |
 | Age | Unknown |
 | Status | Unknown |
 | Occupation | Doctor Researcher |
-| **Physical Information** |  |
+| **Physical Information** | |
 | Sex | Male |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

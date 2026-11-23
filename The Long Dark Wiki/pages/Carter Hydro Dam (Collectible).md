@@ -6,16 +6,16 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Carter Hydro Dam (Collectible) icon](../assets/Carter_Hydro_Dam_%28Collectible%29_icon.png) |
+| | [Carter Hydro Dam (Collectible) icon](../assets/Carter_Hydro_Dam_%28Collectible%29_icon.png) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

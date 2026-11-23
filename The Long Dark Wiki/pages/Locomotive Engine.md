@@ -6,15 +6,15 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Locomotive engine](../assets/Locomotive_engine.jpg) |
-| **Location** |  |
-|  | [Locomotive Engine Location](../assets/Locomotive_Engine_Location.png) |
+| | [Locomotive engine](../assets/Locomotive_engine.jpg) |
+| **Location** | |
+| | [Locomotive Engine Location](../assets/Locomotive_Engine_Location.png) |
 | Region | [Broken Railroad](./Broken%20Railroad.md) |
 | Location | Between [Landslide](./Landslide.md) and [Maintenance Yard](./Maintenance%20Yard.md) |
 | Description | A derailed train |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Locomotive Engine** is a location in [Broken Railroad](./Broken%20Railroad.md) that can be found between [Landslide](./Landslide.md) and [Maintenance Yard](./Maintenance%20Yard.md). It has no shelter and the locomotive is currently useless. However, the stairs at the back of the locomotive can be used as a somewhat safe zone if a [Wolf](./Wolf.md) is charging.
 

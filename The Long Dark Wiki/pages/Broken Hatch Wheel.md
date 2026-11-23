@@ -12,15 +12,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Hatch Wheel icon](../assets/Broken_Hatch_Wheel_icon.png) |
+| | [Broken Hatch Wheel icon](../assets/Broken_Hatch_Wheel_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A piece of Joplin's Bunker, Wyatt's final resting place. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
 
 **Broken Hatch Wheel** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).

@@ -12,15 +12,15 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Broken Manufactured Arrow icon](../assets/Broken_Manufactured_Arrow_icon.png) |
+| | [Broken Manufactured Arrow icon](../assets/Broken_Manufactured_Arrow_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A broken Manufactured Arrow. Cannot be harvested. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.15 kg (0.33 lbs) |
 
 **Broken Manufactured Arrow** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.

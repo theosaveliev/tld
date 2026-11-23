@@ -43,12 +43,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) |
-| **General** |  |
+| | [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) |
+| **General** | |
 | Item Type | Tool |
 | Wintermute | Yes |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
 | Harvest | 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md) |
 | Repair | [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) 12-5 minutes / 3%-5% |

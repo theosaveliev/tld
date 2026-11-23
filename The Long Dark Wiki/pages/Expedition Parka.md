@@ -13,13 +13,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Expedition Parka icon](../assets/Expedition_Parka_icon.png) |
-| **General** |  |
+| | [Expedition Parka icon](../assets/Expedition_Parka_icon.png) |
+| **General** | |
 | Item Type | Clothing |
-| Wintermute |  |
+| Wintermute | |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)6.0 °C(10.8 °F) |

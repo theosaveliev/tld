@@ -1,3 +1,4 @@
+<a id="winter-s-embrace"></a>
 # Winter's Embrace
 
 **Categories:** Challenges, Events · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
@@ -6,8 +7,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Winters embrace poster](../assets/Winters_embrace_poster.png) |
-| **Details** |  |
+| | [Winters embrace poster](../assets/Winters_embrace_poster.png) |
+| **Details** | |
 | Description | Survive an ever increasing freezing world will hunting for the new Maple Syrup and Ketchup Chip items |
 | Difficulty | Voyager |
 

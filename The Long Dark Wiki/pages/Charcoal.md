@@ -16,17 +16,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Charcoal icon](../assets/Charcoal_icon.png) |
+| | [Charcoal icon](../assets/Charcoal_icon.png) |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-423-faithful-cartographer-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | yes |
 | Stackable | yes |
 | Examine | A piece of charcoal typically found in burned out campfires. Useful for sketching. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | On ground | Take It, Leave It |
 
 **Charcoal** is a tool in _[The Long Dark](./The%20Long%20Dark.md)._

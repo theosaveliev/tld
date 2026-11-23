@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Langston Mine Memo icon](../assets/Langston_Mine_Memo_icon.png) |
+| | [Langston Mine Memo icon](../assets/Langston_Mine_Memo_icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Hazard Warning |
-| **Values** |  |
+| **Values** | |
 | Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_MineRegionPumphouseNote |
 
 **Langston Mine Memo** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the [Pump House](./Pump%20House.md).

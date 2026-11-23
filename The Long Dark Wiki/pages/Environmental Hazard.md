@@ -16,6 +16,7 @@
 
 **Environmental Hazards** are dangerous obstacles occasionally encountered while playing _The Long Dark._ While many are minor, some can be life threatening and will cause [Afflictions](./Afflictions.md) if not approached and handled with caution and respect.
 
+<a id="cold-water-puddles-streams"></a>
 ## Cold Water Puddles/Streams
 
 ![An example of ankle deep, cold standing water](../assets/Cold_Water_Puddle.jpg)_An example of ankle deep, cold standing water_Occasionally, puddles of cold, ankle deep standing water or flowing water can be found inside caves and serve as a floor hazard for the player. Walking through or standing in a puddle/flowing stream will drench the player's footwear, slowly making the Socks and Shoes Clothing slots wet and partially lowering the player's [Warmth](./Warmth.md). Wet clothing can be avoided by simply unequipping the player's footwear clothing and passing through the puddle, but this will not stop the player from taking Warmth damage.

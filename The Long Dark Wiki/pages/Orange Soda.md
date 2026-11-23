@@ -15,19 +15,19 @@ _For other sodas, see [Soda (disambiguation)](./Soda%20%28disambiguation%29.md).
 
 | Property | Details |
 | --- | --- |
-|  | [Orange Soda icon](../assets/Orange_Soda_icon.png) |
+| | [Orange Soda icon](../assets/Orange_Soda_icon.png) |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0-117) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Sweet carbonated drink. Full of high-fructose corn syrup. |
-| **Values** |  |
+| **Values** | |
 | Calories | 250 kcal |
 | Hydration | 30% |
 | Weight | 0.25 kg (0.55 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_OrangeSoda |
 
 **Orange Soda** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).

@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png) |
-| **Location** |  |
-|  | [Placid Notch Location](../assets/Placid_Notch_Location.png) |
+| | [Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png) |
+| **Location** | |
+| | [Placid Notch Location](../assets/Placid_Notch_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Location | South of [Giant's Thumbprint](./Giant%27s%20Thumbprint.md) |
 | Description | A refuge cabin. |
-| **General** |  |
+| **General** | |
 | Type | Residential |
-| Firebox |  |
+| Firebox | |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior |
+| | Has an interior |
 
 **Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
 

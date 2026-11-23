@@ -1,3 +1,4 @@
+<a id="jeremiah-s-folly-transcript"></a>
 # Jeremiah's Folly/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly%2FTranscript)
@@ -6,9 +7,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg) |
+| | [Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
 | Current | Jeremiah's Folly/Transcript |
 | Next | [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md) |
@@ -27,6 +28,7 @@ _The mission starts at the door to [Trapper's Homestead](./Trapper%27s%20Homeste
 
 _After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts [The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) off._
 
+<a id="bring-the-old-bear-s-ear-back-to-jeremiah-as-proof-of-your-hunting-prowess"></a>
 ## Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
 _Mackenzie returns to the Trapper's Homestead and a 3rd person cutscene begins._

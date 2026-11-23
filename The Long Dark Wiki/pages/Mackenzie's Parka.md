@@ -1,3 +1,4 @@
+<a id="mackenzie-s-parka"></a>
 # Mackenzie's Parka
 
 **Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Parka)
@@ -13,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Mackenzie's Parka icon](../assets/Mackenzie%27s_Parka_icon.png) |
-| **General** |  |
+| | [Mackenzie's Parka icon](../assets/Mackenzie%27s_Parka_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | Yes |
 | Clothing Slot | Outer torso |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |

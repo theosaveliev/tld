@@ -17,9 +17,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [The Aurora Hatch.](../assets/Aurora_hatch.png) |
+| | [The Aurora Hatch.](../assets/Aurora_hatch.png) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
 | Current | Aurora Hatch |
 | Region | [Broken Railroad](./Broken%20Railroad.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
@@ -72,6 +72,7 @@ At this point it is advised to save (there will also be a checkpoint inside but 
 
 Upon successful completion of "[What One Man Can Do](./What%20One%20Man%20Can%20Do.md)" Main Story Mission and starting "[Renewed Hope](./Renewed%20Hope.md)," then it will guarantee an Aurora Spawn every night until you complete Episode 2. Each Aurora lasts for 6-8 hours of in-game time.
 
+<a id="contents-loot"></a>
 ## Contents/Loot
 
 The cache will usually contain

@@ -14,12 +14,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Scrap Lead icon](../assets/Scrap_Lead_icon.png) |
-| **General** |  |
+| | [Scrap Lead icon](../assets/Scrap_Lead_icon.png) |
+| **General** | |
 | Item Type | Material |
 | Wintermute | No |
 | Renewable | No |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 
 > “**Harvested from dead car batteries. Scrap lead can be used to craft bullets.**”

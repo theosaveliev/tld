@@ -1,3 +1,4 @@
+<a id="hunter-s-blind-disambiguation"></a>
 # Hunter's Blind \(disambiguation\)
 
 **Categories:** Disambiguations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunter's_Blind_%28disambiguation%29)

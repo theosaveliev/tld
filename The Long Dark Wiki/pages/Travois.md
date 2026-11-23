@@ -16,18 +16,18 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Travois Icon](../assets/Travois_Icon.png) |
+| | [Travois Icon](../assets/Travois_Icon.png) |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-25-steam-tftft-part-four-buried-echoes-update) |
 | Wintermute | No |
 | Renewable | Yes |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Tools](./Tools.md) |
 | Equipable | Yes |
 | Stackable | No |
 | Examine | A timeless and efficient way to drag loads over long distances. Take care to remember there are some places a Travois can't travel. Can be collapsed for convenient carrying, when empty. |
-| **Values** |  |
+| **Values** | |
 | Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Travois |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)

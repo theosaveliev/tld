@@ -6,8 +6,8 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Barrel](../assets/Barrel.jpg) |
-| **General** |  |
+| | [Barrel](../assets/Barrel.jpg) |
+| **General** | |
 | Item Type | Item |
 | Wintermute | Yes |
 

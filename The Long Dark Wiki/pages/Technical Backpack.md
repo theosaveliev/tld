@@ -6,20 +6,20 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Technical Backpack icon](../assets/Technical_Backpack_icon.png) |
+| | [Technical Backpack icon](../assets/Technical_Backpack_icon.png) |
 | Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-89-hesitant-prospect-update) |
 | Wintermute | No |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A sturdier Backpack with all the bells and whistles. You can carry more gear before becoming Encumbered. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_TechnicalBackpack |
 
 The **Technical Backpack** is a collectible item available in [Survival Mode](./Survival%20Mode.md).

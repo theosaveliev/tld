@@ -14,14 +14,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 | Property | Details |
 | --- | --- |
-|  | [Forgotten Trestle](../assets/Forgotten_Trestle.jpg) |
-| **Location** |  |
-|  | [Forgotten Trestle Location](../assets/Forgotten_Trestle_Location.png) |
+| | [Forgotten Trestle](../assets/Forgotten_Trestle.jpg) |
+| **Location** | |
+| | [Forgotten Trestle Location](../assets/Forgotten_Trestle_Location.png) |
 | Region | [Port Remnant](./Port%20Remnant.md) |
 | Location | Middle of the map |
 | Description | A small train bridge near [Obstructed Transit](./Obstructed%20Transit.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Forgotten Trestle** is a location in [Port Remnant](./Port%20Remnant.md).
 

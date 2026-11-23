@@ -1,3 +1,4 @@
+<a id="wolf-s-jaw-overlook"></a>
 # Wolf's Jaw Overlook
 
 **Categories:** Landmarks, Locations, Locations in Ash Canyon, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolf's_Jaw_Overlook)
@@ -6,14 +7,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [20201209231328 1](../assets/20201209231328_1.jpg) |
-| **Location** |  |
-|  | [Wolf's Jaw Overlook Location](../assets/Wolf%27s_Jaw_Overlook_Location.png) |
+| | [20201209231328 1](../assets/20201209231328_1.jpg) |
+| **Location** | |
+| | [Wolf's Jaw Overlook Location](../assets/Wolf%27s_Jaw_Overlook_Location.png) |
 | Region | [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A mountain peak that looks like a howling Wolf. |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Wolf's Jaw Overlook** is a craggy outcrop in [Ash Canyon](./Ash%20Canyon.md). It is located a short distance west of [Broad Falls](./Broad%20Falls.md), but can only be accessed from either the gold mine or by crossing rope bridges from [Miner's Folly](./Miner%27s%20Folly.md).
 

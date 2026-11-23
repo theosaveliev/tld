@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Map of Pleasant Valley icon](../assets/Map_of_Pleasant_Valley_icon.png) |
+| | [Map of Pleasant Valley icon](../assets/Map_of_Pleasant_Valley_icon.png) |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1-60-crossroads-elegy-update) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Coming Storm](./Coming%20Storm.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | Map marked by Father Thomas showing the entrance to an Old Mine, and a possible way out of Pleasant Valley. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 

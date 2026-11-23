@@ -8,8 +8,6 @@
 
 ![Interior](../assets/Stone_Church_interior.jpg)
 
-|
-
 **Location**
 
 ![Stone Church Location](../assets/Stone_Church_Location.png)

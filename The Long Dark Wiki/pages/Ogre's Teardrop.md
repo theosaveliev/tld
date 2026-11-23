@@ -1,3 +1,4 @@
+<a id="ogre-s-teardrop"></a>
 # Ogre's Teardrop
 
 **Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ogre's_Teardrop)
@@ -6,13 +7,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ogre's Teardrop](../assets/Ogre%27s_Teardrop.jpg) |
-| **Location** |  |
-|  | [Ogre's Teardrop Location](../assets/Ogre%27s_Teardrop_Location.png) |
+| | [Ogre's Teardrop](../assets/Ogre%27s_Teardrop.jpg) |
+| **Location** | |
+| | [Ogre's Teardrop Location](../assets/Ogre%27s_Teardrop_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A large frozen waterfall below the valley |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Ogre's Teardrop** is a frozen waterfall located in [Sundered Pass](./Sundered%20Pass.md). It is located deep below the valley and is a short walk from [Juniper Runoff](./Juniper%20Runoff.md) and under [Perilous Crossing](./Perilous%20Crossing.md).
 

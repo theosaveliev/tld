@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Onewaycave](../assets/Onewaycave.jpg) |
-| **Location** |  |
-|  | [No Road Cave Location](../assets/No_Road_Cave_Location.png) |
-| Region |  |
-| **General** |  |
+| | [Onewaycave](../assets/Onewaycave.jpg) |
+| **Location** | |
+| | [No Road Cave Location](../assets/No_Road_Cave_Location.png) |
+| Region | |
+| **General** | |
 | Type | Cave |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **No Road Cave** is a small cave in [Blackrock](./Blackrock.md) located south of [Mule Bridge](./Mule%20Bridge.md).
 

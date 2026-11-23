@@ -6,17 +6,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Medicine in my backyard icon](../assets/Medicine_in_my_backyard_icon.png) |
+| | [Medicine in my backyard icon](../assets/Medicine_in_my_backyard_icon.png) |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1-00-wintermute-1-0-launch-update-predux-release) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Collectibles](./Collectibles.md) |
 | Equipable | No |
 | Stackable | No |
 | Examine | A note describing the location of a medicine stash in Milton. |
-| **Values** |  |
+| **Values** | |
 | Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
+| **Actions** | |
 | Backpack | Examine |
 
 **Medicine in my backyard** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) inside the chimney of the burned down [Old Schoolhouse](./Old%20Schoolhouse.md).

@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Point of disagreement](../assets/Point_of_disagreement.jpg) |
-| **Location** |  |
-|  | [Point of Disagreement Location](../assets/Point_of_Disagreement_Location.png) |
+| | [Point of disagreement](../assets/Point_of_disagreement.jpg) |
+| **Location** | |
+| | [Point of Disagreement Location](../assets/Point_of_Disagreement_Location.png) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Provides some shelter |
+| | Provides some shelter |
 
 **Point of Disagreement** is a location/landmark in [Pleasant Valley](./Pleasant%20Valley.md).
 

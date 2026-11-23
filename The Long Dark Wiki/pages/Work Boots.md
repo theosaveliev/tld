@@ -6,12 +6,12 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Work Boots icon](../assets/Work_Boots_icon.png) |
-| **General** |  |
+| | [Work Boots icon](../assets/Work_Boots_icon.png) |
+| **General** | |
 | Item Type | Clothing |
 | Wintermute | No |
 | Clothing Slot | Outer feet |
-| **Statistics** |  |
+| **Statistics** | |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
 | Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |

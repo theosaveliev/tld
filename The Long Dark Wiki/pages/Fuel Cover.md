@@ -12,8 +12,6 @@
 
 ![Car](../assets/Car_Fuel_Cover_Open.jpg)
 
-|
-
 **General**
 
 Item Type

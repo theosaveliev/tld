@@ -1,3 +1,4 @@
+<a id="the-long-dark-changelog"></a>
 # The Long Dark/Changelog
 
 **Categories:** The Long Dark · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog)
@@ -120,6 +121,7 @@ _For the early access changelog (pre-v1.00), see [The Long Dark/Early Access Cha
 
 ## Current Versions
 
+<a id="version-2-59"></a>
 ### Version 2.59
 
 Emergency Hotfix
@@ -166,10 +168,12 @@ This Update includes fixes for the following issues:
 
 ## Past Versions
 
+<a id="version-2-58-iron-road-part-one"></a>
 ### Version 2.58 (Iron Road Part One)
 
 October 27, 2026: Update to support launch of [Iron Road](./Iron%20Road.md) Early Access (Steam only). Features Anna Island release.
 
+<a id="version-2-55"></a>
 ### Version 2.55
 
 Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54)[^2]
@@ -306,6 +310,7 @@ PLATFORM-SPECIFIC
 - Steam Deck - Fixed an issue that caused the Mission Panel Log to close, rather than return to the previous menu, when pressing the back button on a controller or handheld device such as the Steam Deck.
 - PlayStation - Fixed an issue that caused the Main Menu background music play mid-song, rather from the start, when transitioning to the WINTERMUTE main menu.
 
+<a id="version-2-54"></a>
 ### Version 2.54
 
 Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.23)[^3]
@@ -502,6 +507,7 @@ PLATFORM-SPECIFIC
 
 - Xbox Series - Fixed an issue that caused shadows along roads to appear square.
 
+<a id="version-2-52"></a>
 ### Version 2.52
 
 THE LONG DARK - EPISODE FIVE UPDATE (SURVIVAL/TALES v 2.52, WINTERMUTE v 2.22)[^4]
@@ -540,6 +546,7 @@ CRASHES
 - PS4 - Fixed an issue that could cause a crash when dropping a gear item to the ground near open water.
 - PC/Xbox App - Fixed an issue that could result in an indefinite loading screen when launching the application.
 
+<a id="version-2-51"></a>
 ### Version 2.51
 
 Hotfix
@@ -577,6 +584,7 @@ PLATFORM-SPECIFIC
 - PlayStation 5 - Fixed an issue that resulted in Framed Photos appearing far too dark to see.
 - PlayStation 5 - Fixed an issue that caused the Survivor to immediately eat the contents of Canned Food items when interacting with them.
 
+<a id="version-2-50"></a>
 ### Version 2.50
 
 Hotfix
@@ -650,6 +658,7 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [1](https://hinterlandforums.com/forums/topic/47725-the-long-dark-updated-to-v-250/)
 
+<a id="version-2-44"></a>
 ### Version 2.44
 
 Hello Community,
@@ -700,6 +709,7 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [1](https://hinterlandforums.com/forums/topic/47274-the-long-dark-updated-to-v-244/)
 
+<a id="version-2-40"></a>
 ### **Version 2.40**
 
 Hello players,
@@ -845,6 +855,7 @@ _PLATFORM-SPECIFIC_
 
 - [1](https://hinterlandforums.com/forums/topic/46927-the-long-dark-updated-to-v-240/)
 
+<a id="version-2-38"></a>
 ### Version 2.38
 
 Hello Community,
@@ -859,6 +870,7 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [1](https://hinterlandforums.com/forums/topic/46225-the-long-dark-updated-to-v-238/)
 
+<a id="version-2-36"></a>
 ### Version 2.36
 
 Hello Community,
@@ -1105,6 +1117,7 @@ AUDIO
 
 - [1](https://hinterlandforums.com/forums/topic/46198-the-long-dark-updated-to-v-236/)
 
+<a id="version-2-35-steam"></a>
 ### Version 2.35 (Steam)
 
 Hello Community,
@@ -1205,6 +1218,7 @@ PLATFORM-SPECIFIC
 
 - [1](https://hinterlandforums.com/forums/topic/45894-the-long-dark-updated-to-v-235/)
 
+<a id="version-2-33-tales-from-the-far-territory-part-6-broken-silence"></a>
 ### Version 2.33 (Tales from the Far Territory Part 6: Broken Silence)
 
 Released December 2, 2024
@@ -1294,6 +1308,7 @@ This Major Update includes fixes for the following issues:
 
 - [1](https://hinterlandforums.com/forums/topic/45808-tales-from-the-far-territory-part-six-broken-silence-now-live/)
 
+<a id="2-32-steam-epic-games"></a>
 ### 2.32 (Steam, Epic Games)
 
 Hello Community,
@@ -1372,6 +1387,7 @@ This Hotfix includes fixes for the following issues:
 
 - [2](https://hinterlandforums.com/forums/topic/45462-the-long-dark-updated-to-v-232/)
 
+<a id="2-31-steam-epic-games"></a>
 ### 2.31 (Steam, Epic Games)
 
 Hello Community,
@@ -1412,6 +1428,7 @@ This Hotfix includes fixes for the following issues:
 
 - [3](https://hinterlandforums.com/forums/topic/45309-the-long-dark-updated-to-v-231/)
 
+<a id="2-30-steam"></a>
 ### 2.30 (Steam)
 
 Hello players,
@@ -1431,6 +1448,7 @@ Details from the Dev Team:
 
 - [4](https://hinterlandforums.com/forums/topic/45242-temporarily-removing-the-cougar/)
 
+<a id="2-29-steam-epic-games-xbox-playstation"></a>
 ### 2.29 (Steam, Epic Games, Xbox, PlayStation)
 
 We have just released our v2.29 (136986) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Steam and Epic Games Store. Please note that WINTERMUTE’s version number has not changed. This Hotfix addresses multiple issues introduced in the v.2.28 update for TALES FROM THE FAR TERRITORY.
@@ -1447,6 +1465,7 @@ We have just released our v2.29 (136986) Hotfix for THE LONG DARK (including Sur
 
 - [5](https://hinterlandforums.com/forums/topic/45221-the-long-dark-updated-to-v-229/)
 
+<a id="2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update"></a>
 ### 2.28 (Steam, Epic Games, Xbox, PlayStation) (TFTFT PART FIVE: Last Horizon Update)
 
 Released June 24, 2024
@@ -1458,6 +1477,7 @@ This update includes Part Five of TALES FROM THE FAR TERRITORY, “Last Horizon�
 
 - [6](https://hinterlandforums.com/forums/topic/45180-tales-from-the-far-territory-part-five-is-here/)
 
+<a id="2-27-steam-epic-games"></a>
 ### 2.27 (Steam, Epic Games)
 
 Released January 24, 2024
@@ -1469,6 +1489,7 @@ This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contai
 
 - [7](https://hinterlandforums.com/forums/topic/44689-the-long-dark-updated-to-v-227/)
 
+<a id="2-26-steam"></a>
 ### 2.26 (Steam)
 
 We have just updated THE LONG DARK to version 2.26, build 126828.
@@ -1478,6 +1499,7 @@ This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contai
 
 - [8](https://hinterlandforums.com/forums/topic/44488-the-long-dark-updated-to-v-226/)
 
+<a id="2-25-steam-tftft-part-four-buried-echoes-update"></a>
 ### 2.25 (Steam) (TFTFT PART FOUR: Buried Echoes Update)
 
 Released December 5, 2023
@@ -1489,6 +1511,7 @@ This is the latest Expansion Pass update TALES FROM THE FAR TERRITORY, Part Four
 
 - [9](https://hinterlandforums.com/forums/topic/44363-tales-from-the-far-territory-part-four-is-here/#comment-271030)
 
+<a id="2-24-xbox-playstation-epic-games-store"></a>
 ### 2.24 (Xbox, PlayStation, Epic Games Store)
 
 We have just released our v2.24 (121035) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox, PlayStation, Steam and Epic Game Store.
@@ -1500,6 +1523,7 @@ Fixed an issue that caused a crash to occur if a Bow broke while being shot.
 
 - [10](https://hinterlandforums.com/forums/topic/44075-the-long-dark-updated-to-v224/)
 
+<a id="2-23-steam"></a>
 ### 2.23 (Steam)
 
 We have just released our v2.23 (120705) Quality of Life Update for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on all platforms.  
@@ -1507,6 +1531,7 @@ We have just released our v2.23 (120705) Quality of Life Update for THE LONG DAR
 
 - [11](https://hinterlandforums.com/forums/topic/44051-the-long-dark-quality-of-life-update-v223/)
 
+<a id="2-22-xbox-playstation-epic-games-store"></a>
 ### 2.22 (Xbox, PlayStation, Epic Games Store)
 
 We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox and PlayStation. Please note that the update for Epic Games Store will also follow in the next 24-48 hours.  
@@ -1514,6 +1539,7 @@ We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Sur
 
 - [12](https://hinterlandforums.com/forums/topic/43784-the-long-dark-updated-to-v-222-on-xbox-playstation-and-epic-games-store/)
 
+<a id="2-22-steam"></a>
 ### 2.22 (Steam)
 
 We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.21.  
@@ -1521,6 +1547,7 @@ We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Sur
 
 - [13](https://hinterlandforums.com/forums/topic/43756-the-long-dark-updated-to-v-222-steam/)
 
+<a id="2-21-steam"></a>
 ### 2.21 (Steam)
 
 We have just released our v2.21 (118182) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.20.  
@@ -1528,6 +1555,7 @@ We have just released our v2.21 (118182) Hotfix for THE LONG DARK (including Sur
 
 - [14](https://hinterlandforums.com/forums/topic/43722-the-long-dark-updated-to-v-221-steam/)
 
+<a id="2-20-steam"></a>
 ### 2.20 (Steam)
 
 We have just released our v2.20 (118045) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. (Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)  
@@ -1535,6 +1563,7 @@ We have just released our v2.20 (118045) Hotfix for THE LONG DARK (including Sur
 
 - [15](https://hinterlandforums.com/forums/topic/43713-the-long-dark-updated-to-v220-steam/)
 
+<a id="2-19-xbox-playstation-epic-games-store"></a>
 ### 2.19 (Xbox, PlayStation, Epic Games Store)
 
 We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox, PlayStation, and Epic Games Store. Please note that it may take time for the update to appear on your chosen platform.  
@@ -1542,6 +1571,7 @@ We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Sur
 
 - [16](https://hinterlandforums.com/forums/topic/43627-the-long-dark-updated-to-v219-xbox-playstation-and-epic-games-store/)
 
+<a id="2-19-steam"></a>
 ### 2.19 (Steam)
 
 We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. _(Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)_  
@@ -1549,6 +1579,7 @@ We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Sur
 
 - [17](https://hinterlandforums.com/forums/topic/43620-the-long-dark-updated-to-v219-steam/)
 
+<a id="2-18-linux"></a>
 ### 2.18 (Linux)
 
 Hello Community,
@@ -1563,6 +1594,7 @@ We have just released our v2.18 (117282) Hotfix for THE LONG DARK (including Sur
 
 - [18](https://hinterlandforums.com/forums/topic/43570-the-long-dark-updated-to-v218-linux/)
 
+<a id="2-17-tftft-part-three-frontier-comforts-update"></a>
 ### 2.17 (TFTFT Part Three: Frontier Comforts Update)
 
 Released June 21, 2023
@@ -1578,6 +1610,7 @@ TALES FROM THE FAR TERRITORY, Part Three: FRONTIER COMFORTS
 
 - [19](https://hinterlandforums.com/forums/topic/43517-tales-from-the-far-territory-part-three-released-the-long-dark-updated-to-version-217-xbox-playstation-pc-mac/)
 
+<a id="2-16-xbox-playstation"></a>
 ### 2.16 (Xbox/PlayStation)
 
 Hello Community,
@@ -1599,6 +1632,7 @@ To check current releases on each platform, please visit our new Build Status Pa
 
 - [20](https://hinterlandforums.com/forums/topic/43328-the-long-dark-updated-to-v216-xboxplaystation/)
 
+<a id="2-16-pc-mac"></a>
 ### 2.16 (PC/Mac)
 
 Hello Community,
@@ -1615,6 +1649,7 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [21](https://hinterlandforums.com/forums/topic/43322-the-long-dark-updated-to-v216-pcmac/)
 
+<a id="2-15"></a>
 ### 2.15
 
 Hello Community
@@ -1637,6 +1672,7 @@ Please visit our Support Portal (or consult our Known Issues page) if you encoun
 
 - [22](https://hinterlandforums.com/forums/topic/43286-the-long-dark-updated-to-v215-pcmac/)
 
+<a id="2-14"></a>
 ### 2.14
 
 Released April 14th 2023
@@ -1656,6 +1692,7 @@ To check current releases on each platform, please visit our new Build Status Pa
 
 - [23](https://hinterlandforums.com/forums/topic/43243-the-long-dark-updated-to-v-214-xbox/)
 
+<a id="2-12-xbox-playstation"></a>
 ### 2.12 (Xbox/PlayStation)
 
 Hello Community,
@@ -1673,12 +1710,14 @@ For a list of release numbers and Known Issues for each platform, please visit o
 
 - [24](https://hinterlandforums.com/forums/topic/43192-the-long-dark-updated-to-v212-xboxplaystation/)
 
+<a id="2-12-pc-mac"></a>
 ### 2.12 (PC/Mac)
 
 Hello Community,
 
 We just released our v2.12 (112469) Hotfix for THE LONG DARK (including Survival Edition) and TALES FROM THE FAR TERRITORY on Steam and Epic Games Store. Please note that WINTERMUTE’s version number has not changed. This hotfix addresses a critical issue following our most recent v2.10 release.
 
+<a id="pc-mac"></a>
 #### PC/Mac
 
 - [TALES] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
@@ -1689,6 +1728,7 @@ For a list of release numbers and Known Issues for each platform, please visit o
 
 - [25](https://hinterlandforums.com/forums/topic/43186-the-long-dark-updated-to-v212-pcmac/)
 
+<a id="2-11"></a>
 ### 2.11
 
 Released March 31, 2023
@@ -1708,6 +1748,7 @@ We just released our v2.11 Hotfix for THE LONG DARK on Xbox (112312) and WINTERM
 
 - [26](https://hinterlandforums.com/forums/topic/43109-the-long-dark-updated-to-v211-on-xbox/)
 
+<a id="2-09-2-10-tftft-part-two-signal-void"></a>
 ### 2.09 & 2.10 (TFTFT Part Two: Signal Void)
 
 Released March 30, 2023
@@ -1865,6 +1906,7 @@ For a list of Known Issues, please click here.
 
 - [27](https://hinterlandforums.com/forums/topic/43078-tales-from-the-far-territory-part-two-released-the-long-dark-updated-to-version-209-xbox-windows-store-and-210-steam-epic-games-store-playstation/)
 
+<a id="2-08"></a>
 ### 2.08
 
 Released March 20, 2023
@@ -1922,6 +1964,7 @@ Please visit our Support Portal if you encounter any issues while playing the ga
 
 - [28](https://hinterlandforums.com/forums/topic/43023-the-long-dark-updated-to-v208/)
 
+<a id="2-07"></a>
 ### 2.07
 
 Released March 17 2023
@@ -1976,6 +2019,7 @@ Please visit our Support Portal if you encounter any issues while playing the ga
 
 - [29](https://hinterlandforums.com/forums/topic/43001-the-long-dark-updated-to-v207/)
 
+<a id="2-06"></a>
 ### 2.06
 
 Released December 20 2022
@@ -1988,6 +2032,7 @@ The fix listed below is for Steam PC/Linux and Epic Games Store PC.
 
 - [30](https://hinterlandforums.com/forums/topic/42423-known-issues-and-updates-tales-from-the-far-territory-updated-dec-20/)
 
+<a id="2-05"></a>
 ### 2.05
 
 Released 16 December 2022
@@ -2006,6 +2051,7 @@ _The fixes listed below are for Steam PC/Linux and Epic Games Store PC._
 
 - [31](https://hinterlandforums.com/forums/topic/42423-known-issues-and-updates-tales-from-the-far-territory-updated-dec-20/)
 
+<a id="2-04"></a>
 ### 2.04
 
 Released 7 December 2022
@@ -2025,6 +2071,7 @@ _Today's fixes listed below are for Steam PC/Linux and Epic Games Store PC._
 
 - [32](https://hinterlandforums.com/forums/topic/42423-known-issues-and-updates-tales-from-the-far-territory-updated-dec-20/)
 
+<a id="2-03-tftft-part-1-forsaken-airfield-update"></a>
 ### 2.03 (TFTFT Part 1: Forsaken Airfield Update)
 
 Released 5 December 2022
@@ -2050,6 +2097,7 @@ Thank you for your ongoing patience and support. Please remember to visit our Su
 
 - [The Long Dark Updated to v2.03 \[105581](https://hinterlandforums.com/forums/topic/42404-the-long-dark-updated-to-v203-105581/)\]
 
+<a id="2-02"></a>
 ### 2.02
 
 Released August 22nd 2022
@@ -2101,6 +2149,7 @@ Please remember to visit our Support Portal if you encounter any issues while pl
 
 - [33](https://hinterlandforums.com/forums/topic/42084-updated-090722-the-long-dark-quality-of-life-update-v202-99904/)
 
+<a id="2-00"></a>
 ### 2.00
 
 Released April 6th 2022
@@ -2206,8 +2255,6 @@ Please note that this update will likely impact any mods you may have installed 
 **_External Link:_**
 
 - [34](https://hinterlandforums.com/forums/topic/41705-the-long-dark-updated-to-v200-91441/#comment-236292)
-
-[ru:Категория:Архив\_обновлений](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)
 
 ## Notes
 

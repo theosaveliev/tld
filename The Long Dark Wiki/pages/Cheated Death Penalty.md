@@ -13,17 +13,17 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Cheated Death Penalty icon](../assets/Cheated_Death_Penalty_icon.png) |
+| | [Cheated Death Penalty icon](../assets/Cheated_Death_Penalty_icon.png) |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2-28-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update) |
 | Update | 2.28 |
-| **Properties** |  |
+| **Properties** | |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You have Cheated Death. Your maximum Condition is reduced each time you respawn. |
 | Caused By | [Cheat Death](./Cheat%20Death.md) |
 | Effect | Negative |
 | Type | Injury |
 | Affliction Duration | Until Recovery Time passes or Permanent Affliction |
-| **Treatment** |  |
+| **Treatment** | |
 | Recovery Time | See Charts |
 
 **Cheated Death Penalty** is an [Affliction](./Afflictions.md) acquired after choosing to [Cheat Death](./Cheat%20Death.md) in [Survival Mode](./Survival%20Mode.md).

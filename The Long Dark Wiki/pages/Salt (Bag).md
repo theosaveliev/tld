@@ -20,21 +20,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Property | Details |
 | --- | --- |
-|  | [Salt (Bag) icon](../assets/Salt_%28Bag%29_icon.png) |
+| | [Salt (Bag) icon](../assets/Salt_%28Bag%29_icon.png) |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#version-2-33-tales-from-the-far-territory-part-6-broken-silence) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
+| **Properties** | |
 | Item type | [Food And Drink](./Food%20And%20Drink.md) |
 | Equipable | No |
 | Stackable | Yes |
 | Examine | A seasoning and preservative. |
-| **Values** |  |
+| **Values** | |
 | Weight | 10.00 kg (22 lbs) |
-| **Decay Rate** |  |
+| **Decay Rate** | |
 | Inside | 0.000% per day |
 | Outside | 0.000% per day |
-| **Advanced data** |  |
+| **Advanced data** | |
 | Item key | GAMEPLAY\_Salt |
 
 _For the smaller Salt jars, see [Salt](./Salt.md)._

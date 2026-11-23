@@ -6,7 +6,7 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Exploration Game icon](../assets/Exploration_Game_icon.png) |
+| | [Exploration Game icon](../assets/Exploration_Game_icon.png) |
 | Description | Visit every interior location in both Mystery Lake and Coastal Highway (single game) |
 
 **Exploration Game** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.

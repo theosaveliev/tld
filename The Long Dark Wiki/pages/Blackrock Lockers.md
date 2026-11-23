@@ -13,9 +13,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Blackrock Lockers](../assets/Blackrock_Lockers.jpg) |
-| Episode |  |
-| **Missions** |  |
+| | [Blackrock Lockers](../assets/Blackrock_Lockers.jpg) |
+| Episode | |
+| **Missions** | |
 | Current | Blackrock Lockers |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 

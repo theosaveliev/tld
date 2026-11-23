@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Ep1 Water Tower](../assets/Ep1_Water_Tower.png) |
-| **Location** |  |
-|  | [Milton Water Tower Location](../assets/Milton_Water_Tower_Location.png) |
+| | [Ep1 Water Tower](../assets/Ep1_Water_Tower.png) |
+| **Location** | |
+| | [Milton Water Tower Location](../assets/Milton_Water_Tower_Location.png) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Location | Between [Milton Credit Union](./Milton%20Credit%20Union.md) and [Old Schoolhouse](./Old%20Schoolhouse.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 > “**We recommend using bottled water until further notice.**”
 >

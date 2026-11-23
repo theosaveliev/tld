@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Second Pillar](../assets/Second_Pillar.jpg) |
-| **Location** |  |
-|  | [Second Pillar Location](../assets/Second_Pillar_Location.png) |
+| | [Second Pillar](../assets/Second_Pillar.jpg) |
+| **Location** | |
+| | [Second Pillar Location](../assets/Second_Pillar_Location.png) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) |
 | Description | A rope climbing section near [Weather Station](./Weather%20Station.md) |
-| **General** |  |
-|  | Has no shelter |
+| **General** | |
+| | Has no shelter |
 
 **Second Pillar** is a location reached after crossing [Perilous Crossing](./Perilous%20Crossing.md) in [Sundered Pass](./Sundered%20Pass.md).
 

@@ -1,3 +1,4 @@
+<a id="risk-of-infection-transcript"></a>
 # Risk of Infection/Transcript
 
 **Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Risk_of_Infection%2FTranscript)
@@ -13,9 +14,9 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Risk of Infection](../assets/Risk_of_Infection.jpg) |
+| | [Risk of Infection](../assets/Risk_of_Infection.jpg) |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Missions** |  |
+| **Missions** | |
 | Previous | [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md) |
 | Current | Risk of Infection/Transcript |
 | Next | [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md) |

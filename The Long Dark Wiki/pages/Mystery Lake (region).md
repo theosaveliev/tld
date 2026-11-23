@@ -20,10 +20,10 @@
 
 | Property | Details |
 | --- | --- |
-|  | [No picture](../assets/No_picture.png) |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | [No picture](../assets/No_picture.png) |
-| **Details** |  |
+| | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** | |
+| | [No picture](../assets/No_picture.png) |
+| **Details** | |
 
 _For the location, see [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md)._
 
@@ -60,6 +60,7 @@ Although there are at least a dozen shelters available in the region, three loca
 
 This location is very central in the region, and, given that Mystery Lake is near the middle of Great Bear Island, is one of the most central locations overall. It offers a [Work Bench](./Work%20Bench.md), nearby [Ice Fishing](./Ice%20Fishing.md), hunting, and trapping, along with two stoves and lots of space to store gear. Given these features, it's no wonder that Camp Office is one of the most popular base locations of all. The one disadvantage of living here is that there are a moderate number of wolves in the area.
 
+<a id="trapper-s-homestead"></a>
 ### [Trapper's Homestead](./Trapper%27s%20Homestead.md)
 
 The Trapper's Homestead has much more secure surroundings (aside from a bear) and a bed, stove, workbench, together with loads of storage. Although there's good hunting and trapping in the area, it does suffer from the disadvantage of being rather far away from most of the other key locations in Mystery Lake. The nearby connector cave to [Mountain Town](./Mountain%20Town.md) allows to cure [Cabin fever risk](./Cabin%20Fever%20Risk.md) and supplies [Coal](./Coal.md).

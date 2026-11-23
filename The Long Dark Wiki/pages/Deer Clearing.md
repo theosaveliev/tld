@@ -6,13 +6,13 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Deer Clearing](../assets/Deer_Clearing.jpg) |
-| **Location** |  |
-|  | [Deer Clearing Location](../assets/Deer_Clearing_Location.png) |
+| | [Deer Clearing](../assets/Deer_Clearing.jpg) |
+| **Location** | |
+| | [Deer Clearing Location](../assets/Deer_Clearing_Location.png) |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
-| **General** |  |
+| **General** | |
 | Type | Outdoors |
-|  | Has an interior |
+| | Has an interior |
 
 **Template:images needed** **Deer Clearing** can be found north of [Echo Ravine](./Echo%20Ravine.md) across the log bridge and up a rope climb; alternatively, once visited it can be returned to by deploying a [Mountaineering Rope](./Mountaineering%20Rope.md) from above the [Engine](./Engine%20%28East%29.md) or from [Eric's Falls](./Eric%27s%20Falls.md).
 

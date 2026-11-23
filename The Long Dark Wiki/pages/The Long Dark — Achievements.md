@@ -1,3 +1,4 @@
+<a id="the-long-dark-achievements"></a>
 # The Long Dark/Achievements
 
 **Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FAchievements)

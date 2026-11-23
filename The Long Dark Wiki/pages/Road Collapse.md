@@ -6,14 +6,14 @@
 
 | Property | Details |
 | --- | --- |
-|  | [Road Collapse](../assets/Road_Collapse.jpg) |
-| **Location** |  |
-|  | [Road Collapse Location](../assets/Road_Collapse_Location.png) |
+| | [Road Collapse](../assets/Road_Collapse.jpg) |
+| **Location** | |
+| | [Road Collapse Location](../assets/Road_Collapse_Location.png) |
 | Region | [Old Island Connector](./Crumbling%20Highway.md) |
 | Location | Just east of [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) |
-| **General** |  |
+| **General** | |
 | Type | Landmark |
-|  | Has no shelter |
+| | Has no shelter |
 
 **Road Collapse** is a location in [Crumbling Highway](./Crumbling%20Highway.md).
 

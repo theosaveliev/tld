@@ -4982,7 +4982,6 @@ def _prepare_export(
     }
 
 
-
 CAMBIUM_HEADING_RE = re.compile(
     r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
 )
@@ -5009,6 +5008,7 @@ def _plain_markdown_heading_text(label: str) -> str:
     )
     visible = re.sub(r"~~(.*?)~~", r"\1", visible)
     return visible.replace(BACKTICK, "").strip()
+
 
 def _cambium_heading_anchor_map(markdown: str) -> dict[str, str]:
     """Map Fandom and exporter heading aliases to Cambium's generated IDs."""
@@ -5038,12 +5038,9 @@ def _cambium_heading_anchor_map(markdown: str) -> dict[str, str]:
         mediawiki_base = label.replace(" ", "_")
         sentence_case = mediawiki_base[:1].upper() + mediawiki_base[1:].lower()
         word_title_case = "_".join(
-            word[:1].upper() + word[1:].lower()
-            for word in mediawiki_base.split("_")
+            word[:1].upper() + word[1:].lower() for word in mediawiki_base.split("_")
         )
-        punctuationless = re.sub(
-            r"[^a-z0-9_-]", "", label.casefold().replace(" ", "-")
-        )
+        punctuationless = re.sub(r"[^a-z0-9_-]", "", label.casefold().replace(" ", "-"))
         heading_aliases = [
             generated_id,
             base_slug,
@@ -5117,17 +5114,15 @@ def _rewrite_fragment_link(
             return match.group("label")
         rewritten_destination = path_text
     else:
-        rewritten_destination = path_text + "#" + urllib.parse.quote(
-            generated_id, safe="-._~"
+        rewritten_destination = (
+            path_text + "#" + urllib.parse.quote(generated_id, safe="-._~")
         )
 
     return f"[{match.group('label')}]({rewritten_destination})"
 
 
 def _rewrite_markdown_file_fragment_links(
-    markdown_file: Path,
-    pages_root: Path,
-    anchors_by_path: dict[Path, dict[str, str]],
+    markdown_file: Path, pages_root: Path, anchors_by_path: dict[Path, dict[str, str]]
 ) -> None:
     """Rewrite fragment links in one Markdown file, leaving code untouched."""
     original = markdown_file.read_text(encoding="utf-8")

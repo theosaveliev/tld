@@ -705,6 +705,7 @@ requires-dist = [
     { name = "lxml", specifier = ">=6.1.3" },
     { name = "mwparserfromhell", specifier = ">=0.7.2" },
     { name = "pypandoc-binary", specifier = ">=1.17" },
+    { name = "python-slugify", specifier = ">=8.0.4,<9" },
     { name = "wikitextprocessor", specifier = ">=0.4.96" },
 ]
 

@@ -5221,7 +5221,7 @@ def _add_cambium_anchor_aliases_for_markdownlint(markdown: str) -> str:
     existing_ids = {
         match.group("identifier").casefold()
         for match in re.finditer(
-            r'<a\\s+id=["\\'](?P<identifier>[^"\\']+)["\\']\\s*>\\s*</a>',
+            r'<a\s+id="(?P<identifier>[^"]+)"\s*>\s*</a>',
             markdown,
             re.IGNORECASE,
         )

@@ -1840,10 +1840,14 @@ def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
 ) -> None:
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
+    passenger_heading = "Find the passenger IDs. [0/10] Find Insulin for Dimitri."
+    legacy_passenger_anchor = "find-the-passenger-ids-010-find-insulin-for-dimitri"
     (pages_dir / "Time Capsule.md").write_text(
-        "# Time Capsule\n\n"
-        "## V2.01 Perilous Constraint\n\n"
-        "[Contents](#v201-perilous-constraint)\n",
+        "# Time Capsule\\n\\n"
+        "## V2.01 Perilous Constraint\\n\\n"
+        f"## {passenger_heading}\\n\\n"
+        "[Contents](#v201-perilous-constraint)\\n"
+        f"- [{passenger_heading}](#{legacy_passenger_anchor})\\n",
         encoding="utf-8",
     )
     source = pages_dir / "Item.md"
@@ -1858,19 +1862,27 @@ def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
 
     capsule = (pages_dir / "Time Capsule.md").read_text(encoding="utf-8")
     item = source.read_text(encoding="utf-8")
+    passenger_anchor = _cambium_heading_anchor_map(
+        f"## {passenger_heading}\\n"
+    )[legacy_passenger_anchor]
     assert "[Contents](#v2-01-perilous-constraint)" in capsule
+    assert f"- [{passenger_heading}](#{passenger_anchor})" in capsule
+    assert legacy_passenger_anchor not in capsule
     assert "[Update](./Time%20Capsule.md#v2-01-perilous-constraint)" in item
     assert "[Unknown section](./Time%20Capsule.md)" in item
 
 
-def test_page_markdown_autolinks_bare_urls_in_footnote_definitions() -> None:
+def test_page_markdown_autolinks_repeated_urls_and_preserves_link_labels() -> None:
     body = (
-        "[^1]: [https://example.com/page](https://example.com/page)\n"
+        "from: [https://example.com/the\\\\_magic\\\\_suitcase]"
+        "(https://example.com/the_magic_suitcase/)\\n\\n"
+        "[^1]: [https://example.com/page](https://example.com/page)\\n"
         "[^2]: [External article](https://example.com/article)"
     )
 
     markdown = _page_markdown("Sample", [], body, None)
 
+    assert "from: <https://example.com/the_magic_suitcase/>" in markdown
     assert "[^1]: <https://example.com/page>" in markdown
     assert "[^2]: [External article](https://example.com/article)" in markdown
 

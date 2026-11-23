@@ -10,13 +10,9 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Big Bass (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Big_Bass_%28Raw%29_icon.png)
 
 ![Opened](../assets/Big_Bass_%28Raw%29_Open_icon.png)
-
-250px\]\]
 
 Release
 

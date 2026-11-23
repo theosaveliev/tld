@@ -1,6 +1,6 @@
 # Main Hangar
 
-**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Main_Hangar)
+**Categories:** Locations, Locations in Forsaken Airfield, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Main_Hangar)
 
 **Main Hangar**
 
@@ -9,7 +9,8 @@
 |  | [30995](../assets/30995.png) |
 | **Location** |  |
 |  | [Main Hangar Location](../assets/Main_Hangar_Location.png) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Region |  |
+| Location | In the middle of the [Field 31](./Field%2031.md) |
 | Sublocations | [Hangar Basement](./Hangar%20Basement.md) |
 | Description | A large, derelict airfield hangar |
 | **General** |  |
@@ -17,6 +18,8 @@
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
+
+Located in the [Forsaken Airfield](./Forsaken%20Airfield.md) region, the **Main Hangar**, or the **Camber Aviation Hangar**, is the largest of several structures that makes up the [Field 31 airfield complex](./Field%2031.md).
 
 ## Overview
 

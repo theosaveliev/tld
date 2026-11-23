@@ -1,6 +1,6 @@
 # Turbulent Pasture
 
-**Categories:** Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Turbulent_Pasture)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Turbulent_Pasture)
 
 **Turbulent Pasture**
 
@@ -9,10 +9,12 @@
 |  | [Turbulent Pasture](../assets/Turbulent_Pasture.jpg) |
 | **Location** |  |
 |  | [Turbulent Pasture Location](../assets/Turbulent_Pasture_Location.png) |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Region |  |
+| **General** |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has no shelter **Turbulent Pasture** is a set of small frozen ponds in the [Zone of Contamination](./Zone%20of%20Contamination.md) northeast of [Indolent Hoppers](./Indolent%20Hoppers.md). |
+
+**Turbulent Pasture** is a set of small frozen ponds in the [Zone of Contamination](./Zone%20of%20Contamination.md) northeast of [Indolent Hoppers](./Indolent%20Hoppers.md).
 
 ## Overview
 

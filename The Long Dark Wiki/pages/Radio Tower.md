@@ -1,6 +1,6 @@
 # Radio Tower
 
-**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Radio_Tower)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Radio_Tower)
 
 **Radio Tower**
 
@@ -9,9 +9,12 @@
 |  | [Milton Shortwave Tower](../assets/Milton_Shortwave_Tower.jpg) |
 | **Location** |  |
 |  | [Radio Tower Location](../assets/Radio_Tower_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | Up the slope behind Grey Mother's house |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+The **Radio Tower** is a radio tower and location overlooking [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region.
 
 ## Overview
 

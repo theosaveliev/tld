@@ -1,6 +1,6 @@
 # Blackrock \(mission\)
 
-**Categories:** Episode 3, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_%28mission%29)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_%28mission%29)
 
 **Contents**
 
@@ -14,7 +14,8 @@
 | Property | Details |
 | --- | --- |
 |  | [The prison guard's body](../assets/Blackrock_prison_guard_body.jpg) |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | Blackrock (mission) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 

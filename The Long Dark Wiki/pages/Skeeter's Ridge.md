@@ -1,6 +1,6 @@
 # Skeeter's Ridge
 
-**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Skeeter's_Ridge)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Skeeter's_Ridge)
 
 **Skeeter's Ridge**
 
@@ -9,10 +9,13 @@
 |  | [Skeeters ridge](../assets/Skeeters_ridge.jpg) |
 | **Location** |  |
 |  | [Skeeter's Ridge Location](../assets/Skeeter%27s_Ridge_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Description | A set of burned-down cabins with a basement |
 | **General** |  |
-| Type | Outdoors\|- |
-|  | Has an interior **Skeeter's Ridge** is a location in [Pleasant Valley](./Pleasant%20Valley.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) |  |
+
+**Skeeter's Ridge** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

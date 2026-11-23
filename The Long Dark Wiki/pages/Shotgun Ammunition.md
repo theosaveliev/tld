@@ -17,13 +17,9 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Shotgun Ammunition**
 
-\[\[File:
-
 ![Ammunition](../assets/Shotgun_Ammunition_icon.png)
 
 ![Slug](../assets/Shotgun_Slug_icon.png)
-
-250px\]\]
 
 Wintermute
 

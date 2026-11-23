@@ -1,6 +1,6 @@
 # Overladen Pond
 
-**Categories:** Lakes, Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Overladen_Pond)
+**Categories:** Lakes, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Overladen_Pond)
 
 **Overladen Pond**
 
@@ -12,7 +12,9 @@
 
 Region
 
-[Zone of Contamination](./Zone%20of%20Contamination.md)|-
+Description
+
+A toxic pond located near a [Pump House](./Pump%20House.md) and [Bountiful Overlook](./Bountiful%20Overlook.md)
 
 **General**
 

@@ -12,8 +12,6 @@
 
 **Crate**
 
-\[\[File:
-
 ![Large](../assets/Crate_%28large%29.jpg)
 
 ![Medium](../assets/Crate_%28medium%29.jpg)
@@ -23,8 +21,6 @@
 ![Wooden](../assets/Wooden_crate_%28small%29.jpg)
 
 ![Coal](../assets/Wood_crate_%28small%29.jpg)
-
-250px\]\]
 
 **General**
 

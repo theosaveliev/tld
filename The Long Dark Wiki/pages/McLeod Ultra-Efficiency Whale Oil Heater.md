@@ -1,6 +1,6 @@
 # McLeod Ultra\-Efficiency Whale Oil Heater
 
-**Categories:** DLC Content, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 
 **Contents**
 
@@ -18,7 +18,8 @@
 | --- | --- |
 |  | [McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |

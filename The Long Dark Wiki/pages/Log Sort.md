@@ -1,14 +1,10 @@
 # Log Sort
 
-**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Log_Sort)
+**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Log_Sort)
 
 **Log Sort**
 
-\[\[File:
-
 ![Log Sort double story house](../assets/Log_Sort_-_double-story_house.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -16,9 +12,9 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+Between [Fishing Camp](./Fishing%20Camp.md) and [Coastal Townsite](./Coastal%20Townsite.md)
 
 Description
 
@@ -28,11 +24,11 @@ A few buildings
 
 Type
 
-Residential|-
-
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior **Log Sort** is a location by the coast in [Coastal Highway](./Coastal%20Highway.md).
+Has a bed
+
+**Log Sort** is a location by the coast in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

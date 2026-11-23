@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Spray Paint icon](../assets/Spray_Paint_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs) |

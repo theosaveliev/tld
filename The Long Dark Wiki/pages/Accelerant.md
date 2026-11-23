@@ -1,6 +1,6 @@
 # Accelerant
 
-**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Accelerant)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Accelerant)
 
 **Accelerant**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Accelerant icon](../assets/Accelerant_icon.png) |
 | **General** |  |
-| Item Type | Fire Starting\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| Firestarting Slot | Accelerant |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+40% |

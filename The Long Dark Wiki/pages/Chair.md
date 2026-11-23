@@ -11,15 +11,11 @@
 
 **Chair**
 
-\[\[File:
-
 ![Chair](../assets/Chair.jpg)
 
 ![Sofa](../assets/Sofa_Chair.jpg)
 
 ![Stool](../assets/Stool.png)
-
-250px\]\]
 
 **General**
 

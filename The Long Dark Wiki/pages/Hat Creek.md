@@ -1,6 +1,6 @@
 # Hat Creek
 
-**Categories:** Article stubs, Articles in need of images, Landmarks, Locations, Locations in Forlorn Muskeg, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hat_Creek)
+**Categories:** Article stubs, Articles in need of images, Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hat_Creek)
 
 **Hat Creek**
 
@@ -9,8 +9,15 @@
 |  | [20170304105847 1](../assets/20170304105847_1.jpg) |
 | **Location** |  |
 |  | [Hat Creek Location](../assets/Hat_Creek_Location.png) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
-| Type | Landmark\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Hat+Creek&action=edit expanding it].**
+
+**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Hat+Creek&action=edit adding it to the article].**
+
+**Hat Creek** is a frozen creek north of [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
 ## Overview
 

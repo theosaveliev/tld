@@ -1,13 +1,14 @@
 # Renewed Hope/Transcript
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope%2FTranscript)
 
 **Renewed Hope/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md) |
 | Current | Renewed Hope/Transcript |
 | Next | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |

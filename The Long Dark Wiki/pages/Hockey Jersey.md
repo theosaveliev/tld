@@ -1,6 +1,6 @@
 # Hockey Jersey
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hockey_Jersey)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hockey_Jersey)
 
 **Contents**
 
@@ -15,8 +15,9 @@
 | --- | --- |
 |  | [Hockey Jersey icon](../assets/Hockey_Jersey_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Inner torso |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

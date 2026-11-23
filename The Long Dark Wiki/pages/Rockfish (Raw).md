@@ -4,13 +4,9 @@
 
 **Rockfish (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Rockfish_%28Raw%29_icon.png)
 
 ![Opened](../assets/Rockfish_%28Raw%29_Opened_icon.png)
-
-250px\]\]
 
 Release
 

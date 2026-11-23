@@ -1,24 +1,18 @@
 # Fir Limb
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fir_Limb)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fir_Limb)
 
 **Fir Limb**
-
-\[\[File:
 
 ![Small](../assets/Fir_Limb.jpg)
 
 ![Large](../assets/Fir_Limb_Large.jpg)
-
-250px\]\]
 
 **General**
 
 Item Type
 
 Wintermute
-
-Yes|-
 
 **Statistics**
 

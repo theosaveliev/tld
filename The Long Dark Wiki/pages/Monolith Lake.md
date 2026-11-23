@@ -1,6 +1,6 @@
 # Monolith Lake
 
-**Categories:** Lakes, Locations, Locations in Hushed River Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Monolith_Lake)
+**Categories:** Lakes, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Monolith_Lake)
 
 **Monolith Lake**
 
@@ -9,10 +9,12 @@
 |  | [Monolith Lake from Peak Cave](../assets/Monolith_Lake_from_Peak_Cave.png) |
 | **Location** |  |
 |  | [Monolith Lake Location](../assets/Monolith_Lake_Location.png) |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Region |  |
+| Location | Northeastern corner of the region. |
 | Description | A large lake. |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+|  | Has no shelter **Monolith Lake** is a large lake located to the north-east of the [Hushed River Valley](./Hushed%20River%20Valley.md) in _[The Long Dark](./The%20Long%20Dark.md)_. |
 
 ## Overview
 

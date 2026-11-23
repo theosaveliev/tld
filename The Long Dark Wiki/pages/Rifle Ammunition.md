@@ -13,13 +13,9 @@
 
 **Rifle Ammunition**
 
-\[\[File:
-
 ![Box](../assets/Rifle_Ammunition_icon.png)
 
 ![Cartridge](../assets/Rifle_Cartridge_icon.png)
-
-250px\]\]
 
 **General**
 

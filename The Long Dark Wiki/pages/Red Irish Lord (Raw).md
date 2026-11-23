@@ -4,13 +4,9 @@
 
 **Red Irish Lord (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Red_Irish_Lord_%28Raw%29_icon.png)
 
 ![Opened](../assets/Red_Irish_Lord_%28Raw%29_Opened_icon.png)
-
-250px\]\]
 
 Release
 

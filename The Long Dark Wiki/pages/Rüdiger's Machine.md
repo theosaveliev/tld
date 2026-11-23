@@ -1,6 +1,6 @@
 # Rüdiger's Machine
 
-**Categories:** Indoor locations, Locations, Locations in Zone of Contamination · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Machine)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Machine)
 
 **Rüdiger's Machine**
 
@@ -9,11 +9,13 @@
 |  | [Rüdiger's Machine](../assets/R%C3%BCdiger%27s_Machine.jpg) |
 | **Location** |  |
 |  | [Rüdiger's Machine Location](../assets/R%C3%BCdiger%27s_Machine_Location.png) |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Region |  |
+| Description | An unknown machine in the heart of the mountain next to the Langston Mine. |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior **Rüdiger's Machine** is the unofficial name given to a location found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The location can only be accessed by completing the [Buried Echoes](./Buried%20Echoes.md) Tale. |
+
+**Rüdiger's Machine** is the unofficial name given to a location found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The location can only be accessed by completing the [Buried Echoes](./Buried%20Echoes.md) Tale.
 
 ## Overview
 

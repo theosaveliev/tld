@@ -1,6 +1,6 @@
 # Cloth \(Object\)
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cloth_%28Object%29)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cloth_%28Object%29)
 
 **Contents**
 
@@ -13,8 +13,6 @@
 
 **Cloth (Object)**
 
-\[\[File:
-
 ![Blanket](../assets/ClothBlanket.jpg)
 
 ![Scarf](../assets/Cloth_Scarf.jpg)
@@ -22,8 +20,6 @@
 ![Bedsheet](../assets/ClothBunker.jpg)
 
 ![Tarp](../assets/ClothTarp.jpg)
-
-250px\]\]
 
 **General**
 
@@ -33,7 +29,7 @@ Item
 
 Wintermute
 
-Yes **Cloth (Object)** are harvestable interactable objects mainly found inside homes and beds. They come in varying sizes but can be harvested by hand or with a [Hunting Knife](./Hunting%20Knife.md) to obtain [Cloth](./Cloth.md).
+**Cloth (Object)** are harvestable interactable objects mainly found inside homes and beds. They come in varying sizes but can be harvested by hand or with a [Hunting Knife](./Hunting%20Knife.md) to obtain [Cloth](./Cloth.md).
 
 ## Blanket
 

@@ -1,6 +1,6 @@
 # Pensive Lookout
 
-**Categories:** Locations, Locations in Bleak Inlet, Lookout towers, Military/Sporting locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pensive_Lookout)
+**Categories:** Locations, Lookout towers · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pensive_Lookout)
 
 **Pensive Lookout**
 
@@ -9,12 +9,15 @@
 |  | [Screen 8fe81024 1225 4d19 8ee2 cab3a9a3a50c hi](../assets/Screen_8fe81024-1225-4d19-8ee2-cab3a9a3a50c_hi.jpg) |
 | **Location** |  |
 |  | [Pensive Lookout Location](../assets/Pensive_Lookout_Location.png) |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Region |  |
+| Location | north of the [Echo One Radio Station](./Echo%20One%20Radio%20Tower.md) |
 | Description | An abandoned fire lookout |
 | **General** |  |
-| Type | Military/Sporting\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter Pensive Lookout is the third intact fire lookout tower in the game, preceded by the [Forestry Lookout](./Forestry%20Lookout.md) and [Abandoned Lookout](./Abandoned%20Lookout.md). Other than bearing more weathered paint, it is nearly identical to the other towers from the outside. Also like the others, Pensive Lookout does not present a loading screen upon entering. |
+
+Pensive Lookout is the third intact fire lookout tower in the game, preceded by the [Forestry Lookout](./Forestry%20Lookout.md) and [Abandoned Lookout](./Abandoned%20Lookout.md). Other than bearing more weathered paint, it is nearly identical to the other towers from the outside. Also like the others, Pensive Lookout does not present a loading screen upon entering.
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Coastal Highway Terminus
 
-**Categories:** Locations, Locations in Bleak Inlet, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Highway_Terminus)
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Highway_Terminus)
 
 **Coastal Highway Terminus**
 
@@ -9,9 +9,11 @@
 |  | [SS BI Terminus01](../assets/SS-BI-Terminus01.jpg) |
 | **Location** |  |
 |  | [Coastal Highway Terminus Location](../assets/Coastal_Highway_Terminus_Location.png) |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Region |  |
+| Description | a broken highway truss bridge |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+|  | Has no shelter / **Coastal Highway Terminus** is one of the many outdoor locations in [Bleak Inlet](./Bleak%20Inlet.md), located near the westernmost edge. |
 
 ## Overview
 

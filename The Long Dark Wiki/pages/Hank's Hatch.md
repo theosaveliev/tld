@@ -1,6 +1,6 @@
 # Hank's Hatch
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hank's_Hatch)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hank's_Hatch)
 
 **Contents**
 
@@ -17,7 +17,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Hank's prepper cache](../assets/Hank%27s_prepper_cache.jpg) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | Hank's Hatch |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
 | Characters | Hank |

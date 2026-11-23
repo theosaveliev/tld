@@ -12,8 +12,6 @@
 
 **Shelf**
 
-\[\[File:
-
 ![Wide](../assets/Wide_Shelf.jpg)
 
 ![Large](../assets/Large_Shelf.jpg)
@@ -23,8 +21,6 @@
 ![Gun Rack](../assets/Hunting_rifle_rack.jpg)
 
 ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
-
-250px\]\]
 
 **General**
 

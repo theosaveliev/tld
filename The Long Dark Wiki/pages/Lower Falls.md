@@ -1,6 +1,6 @@
 # Lower Falls
 
-**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lower_Falls)
+**Categories:** Locations, Locations in Pleasant Valley, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lower_Falls)
 
 **Lower Falls**
 
@@ -9,9 +9,12 @@
 |  | [Lower Falls](../assets/Lower_Falls.jpg) |
 | **Location** |  |
 |  | [Lower Falls Location](../assets/Lower_Falls_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | Near [Pensive Pond](./Pensive%20Pond.md) |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Lower Falls** is one of several flowing waterfalls in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

@@ -12,8 +12,6 @@
 
 ![Fury, then Silence\|link=Episode\_4:\_Fury,\_then\_Silence\|linktext=Fury, then Silence was released 6 October 2021.](../assets/Fury_then_silence_banner.png)
 
-{| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Content Portals 
-
 [Regions](../assets/Regions.png)
 
 [Locations](../assets/Locations.png)
@@ -53,8 +51,6 @@
 [Tools](./Tools.md)
 
 [Materials](./Materials.md)
-
-{| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Featured Videos 
 
 ![700 px|Part Four Update Video](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Six_Update_Video.jpg)
 

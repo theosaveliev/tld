@@ -1,6 +1,6 @@
 # Forest Talkers \(side mission\)
 
-**Categories:** Episode 3, Side mission · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talkers_%28side_mission%29)
+**Categories:** Side mission · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talkers_%28side_mission%29)
 
 **Contents**
 
@@ -14,7 +14,8 @@
 
 | Property | Details |
 | --- | --- |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- / **Missions** |
+| Episode |  |
+| **Missions** |  |
 | Current | Forest Talkers (side mission) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 

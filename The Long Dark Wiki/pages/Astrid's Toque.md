@@ -1,6 +1,6 @@
 # Astrid's Toque
 
-**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Toque)
+**Categories:** Pages with update history, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Toque)
 
 **Astrid's Toque**
 
@@ -8,7 +8,9 @@
 | --- | --- |
 |  | [Astrid's Toque icon](../assets/Astrid%27s_Toque_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

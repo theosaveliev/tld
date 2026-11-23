@@ -1,13 +1,14 @@
 # Paradise Lost \(Predux\)/Transcript
 
-**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost_%28Predux%29%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost_%28Predux%29%2FTranscript)
 
 **Paradise Lost (Predux)/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg) |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) |
 | Current | Paradise Lost (Predux)/Transcript |
 | Next | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |

@@ -1,28 +1,22 @@
 # Lone Lake Cabin
 
-**Categories:** Indoor locations, Locations, Locations in Mystery Lake, Residential locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lone_Lake_Cabin)
+**Categories:** Locations, Locations in Mystery Lake, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lone_Lake_Cabin)
 
 **Lone Lake Cabin**
 
-![Lone Lake Cabin](../assets/Lone_Lake_Cabin.png)
-
-**Location**
-
-Region
-
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)|-
-
-**General**
-
-Type
-
-Residential|-
-
-Has an interior
-
-| Column 1 | Column 2 |
+| Property | Details |
 | --- | --- |
-| [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
+|  | [Lone Lake Cabin](../assets/Lone_Lake_Cabin.png) |
+| **Location** |  |
+| Region |  |
+| Location | At the shore of the lake. |
+| **General** |  |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+
+[Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+
+**This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture
 
 The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 

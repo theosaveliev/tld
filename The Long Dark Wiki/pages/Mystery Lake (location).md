@@ -1,6 +1,6 @@
 # Mystery Lake \(location\)
 
-**Categories:** Lakes, Locations, Locations in Mystery Lake, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%28location%29)
+**Categories:** Lakes, Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%28location%29)
 
 **Mystery Lake (location)**
 
@@ -9,9 +9,14 @@
 |  | [The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png) |
 | **Location** |  |
 |  | [Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Sublocations | [Fishing huts](./Fishing%20Hut.md) |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+_For the region, see [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)._
+
+**Mystery Lake** is a large lake located to the south-east of the [Mystery Lake region](./Mystery%20Lake%20%28region%29.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 

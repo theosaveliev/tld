@@ -1,6 +1,6 @@
 # Pleasant Valley Farmstead
 
-**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Locations with a workbench, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Farmstead)
+**Categories:** Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Farmstead)
 
 **Pleasant Valley Farmstead**
 
@@ -9,11 +9,15 @@
 |  | [Pleasant valley farmstead](../assets/Pleasant_valley_farmstead.png) |
 | **Location** |  |
 |  | [Pleasant Valley Farmstead Location](../assets/Pleasant_Valley_Farmstead_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Description | A large house with two floors and a basement |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+**Pleasant Valley Farmstead** is a house located within [Pleasant Valley](./Pleasant%20Valley.md). It's most easily located by following the main road linking several key areas within Pleasant Valley.
 
 ## Overview
 

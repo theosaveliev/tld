@@ -1,6 +1,6 @@
 # Aviator Cap
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aviator_Cap)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aviator_Cap)
 
 **Aviator Cap**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Aviator Cap icon](../assets/Aviator_Cap_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
 | Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Head |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

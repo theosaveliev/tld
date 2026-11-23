@@ -1,6 +1,6 @@
 # Last Lonely House
 
-**Categories:** Indoor locations, Locations, Locations in Sundered Pass, Locations with a workbench, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Lonely_House)
+**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Lonely_House)
 
 **Contents**
 
@@ -16,12 +16,16 @@
 |  | [Last Lonely House resized](../assets/Last_Lonely_House_resized.png) |
 | **Location** |  |
 |  | [Last Lonely House Location](../assets/Last_Lonely_House_Location.png) |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Region |  |
+| Location | South of [Route One Waterfall](./Route%20One%20Waterfall.md) |
 | Description | A small cabin atop a ridge. |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+**Last Lonely House** is a small cabin located in [Sundered Pass](./Sundered%20Pass.md), not far from [Route One Waterfall](./Route%20One%20Waterfall.md) and slightly north of [Seedling Spring](./Seedling%20Spring.md), below the valley.
 
 ## Overview
 

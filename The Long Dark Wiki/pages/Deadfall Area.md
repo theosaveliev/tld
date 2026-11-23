@@ -1,6 +1,6 @@
 # Deadfall Area
 
-**Categories:** Locations, Locations in Mystery Lake, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deadfall_Area)
+**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deadfall_Area)
 
 **Deadfall Area**
 
@@ -9,10 +9,13 @@
 |  | [Deadfall area](../assets/Deadfall_area.jpg) |
 | **Location** |  |
 |  | [Deadfall Area Location](../assets/Deadfall_Area_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Description | A ruined building surrounded by deadfall. |
 | **General** |  |
-| Type | Outdoors\|- |
-|  | Provides some shelter / **Deadfall Area** is a location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
+| Type |  |
+| Firebox |  |
+
+**Deadfall Area** is a location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

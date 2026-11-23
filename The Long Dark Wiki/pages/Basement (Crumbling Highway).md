@@ -1,6 +1,6 @@
 # Basement \(Crumbling Highway\)
 
-**Categories:** Locations, Locations in Crumbling Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Basement_%28Crumbling_Highway%29)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Basement_%28Crumbling_Highway%29)
 
 **Basement (Crumbling Highway)**
 
@@ -8,10 +8,12 @@
 | --- | --- |
 |  | [Crumbling Highway Basement](../assets/Crumbling_Highway_Basement.jpg) |
 | **Location** |  |
-| Region | [Old Island Connector](./Crumbling%20Highway.md)\|- |
+| Region |  |
+| Location | Near to [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) |
 | Description | A basement underneath the [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) |  |
 | [Forge icon green](../assets/Forge_icon_green.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |

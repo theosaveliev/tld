@@ -11,13 +11,9 @@
 
 **Tomato Soup**
 
-\[\[File:
-
 ![Sealed](../assets/Tomato_Soup_icon.png)
 
 ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png)
-
-250px\]\]
 
 Release
 

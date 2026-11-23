@@ -1,6 +1,6 @@
 # Combat Boots
 
-**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Combat_Boots)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Combat_Boots)
 
 **Combat Boots**
 
@@ -8,8 +8,10 @@
 | --- | --- |
 |  | [Combat Boots icon](../assets/Combat_Boots_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer feet |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | Yes (beachcombing) |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

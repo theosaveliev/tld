@@ -1584,7 +1584,6 @@ def test_page_markdown_preserves_file_markup_inside_fenced_code() -> None:
     assert "250px\\]\\]" in markdown
 
 
-
 def test_page_markdown_removes_wrappers_around_converted_file_images() -> None:
     body = (
         "A location overview.\n\n"
@@ -1646,14 +1645,7 @@ def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
         stats: RenderStats,
     ) -> str:
         _ = (text, context, infobox_defs, page_title, stats)
-        return (
-            "\n{|\n"
-            "|+ XSENT:infobox:Sample\n"
-            "|-\n"
-            "! Label\n"
-            "| Value\n"
-            "|}\n"
-        )
+        return "\n{|\n|+ XSENT:infobox:Sample\n|-\n! Label\n| Value\n|}\n"
 
     stats: RenderStats = {
         "infoboxes": 1,

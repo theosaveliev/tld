@@ -1,6 +1,6 @@
 # Co\-op
 
-**Categories:** Indoor locations, Locations, Locations in Perseverance Mills, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Co-op)
+**Categories:** Locations, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Co-op)
 
 **Contents**
 
@@ -14,10 +14,12 @@
 | --- | --- |
 |  | [No picture](../assets/No_picture.png) |
 | **Location** |  |
-| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
+| Region |  |
+| Description | The local co-op of Perseverance Mills. |
 | **General** |  |
 | Type |  |
-|  | Has an interior The **Co-op** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town. |
+
+The **Co-op** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town.
 
 ## Overview
 

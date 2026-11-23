@@ -4,13 +4,9 @@
 
 **Weapon Locker**
 
-\[\[File:
-
 ![Closed](../assets/Weapon_Locker.jpg)
 
 ![Open](../assets/Weapon_Locker_Open.jpg)
-
-250px\]\]
 
 Release
 

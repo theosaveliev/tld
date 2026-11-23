@@ -1,16 +1,12 @@
 # Cave \(Ash Canyon location\)
 
-**Categories:** Indoor locations, Locations, Locations in Ash Canyon, Military/Sporting locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Ash_Canyon_location%29)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Ash_Canyon_location%29)
 
 **Cave**
-
-\[\[File:
 
 ![Lower Entrance](../assets/Cave_Ash_Canyon_1.jpg)
 
 ![Upper Entrance](../assets/Cave_Ash_Canyon_2.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -18,9 +14,9 @@
 
 Region
 
-[Ash Canyon](./Ash%20Canyon.md)|-
-
 Location
+
+North of [Long Falls](./Long%20Falls.md)
 
 Description
 
@@ -30,13 +26,9 @@ A large, explorable cave
 
 Type
 
-Military/Sporting|-
-
 ![Bed icon](../assets/Bed_icon.png)
 
 ![Forge icon green](../assets/Forge_icon_green.png)
-
-Has an interior
 
 _This article is about the large, explorable cave in [Ash Canyon](./Ash%20Canyon.md). For the cave in [Desolation Point](./Desolation%20Point.md), check [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md). For a list of all caves on Great Bear Island, see [here](./Cave%20%28disambiguation%29.md)._
 

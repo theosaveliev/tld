@@ -1,6 +1,6 @@
 # Steam Tunnels
 
-**Categories:** Blackrock, Indoor locations, Industrial locations, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Steam_Tunnels)
+**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Steam_Tunnels)
 
 **Steam Tunnels**
 
@@ -12,8 +12,9 @@
 | Region |  |
 | Location | Underneath Blackrock Prison |
 | **General** |  |
-| Type | Industrial\|- |
-|  | Has an interior\|- |
+| Type |  |
+| Firebox |  |
+| **Wintermute** |  |
 | Missions | [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

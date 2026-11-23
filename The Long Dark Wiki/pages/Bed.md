@@ -1,6 +1,6 @@
 # Bed
 
-**Categories:** Beds, Interactable objects, Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
+**Categories:** Beds, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
 
 **Contents**
 
@@ -11,8 +11,6 @@
 - [Gallery](#gallery)
 
 **Bed**
-
-\[\[File:
 
 ![Full](../assets/Bed_2.jpg)
 
@@ -32,8 +30,6 @@
 
 ![Blanket](../assets/Bed_Blanket.jpg)
 
-250px\]\]
-
 **General**
 
 Item Type
@@ -41,8 +37,6 @@ Item Type
 Item
 
 Wintermute
-
-Yes
 
 A **Bed** is a type of furniture or a small, pre-built construction that frequently appears in houses and cabins, with some variants appearing in other buildings and even in some caves. Beds can be used to restore [Fatigue](./Fatigue.md) by [Sleeping](./Sleep.md) and grant a [Warmth](./Warmth.md) bonus while being used.
 

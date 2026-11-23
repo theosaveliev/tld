@@ -9,8 +9,10 @@
 |  | [Hushed river valley cloudtop falls 20201031](../assets/Hushed_river_valley_cloudtop_falls_20201031.png) |
 | **Location** |  |
 |  | [Cloudtop Falls Location](../assets/Cloudtop_Falls_Location.png) |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+|  | Has no shelter **Cloudtop Falls** is a waterfall located in [Hushed River Valley](./Hushed%20River%20Valley.md), it is due west from the [Mountain Town](./Mountain%20Town.md) cave entrance. |
 
 ## Overview
 

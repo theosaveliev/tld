@@ -1,6 +1,6 @@
 # Lake Cabins
 
-**Categories:** Indoor locations, Locations, Locations in Mystery Lake, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Cabins)
+**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Cabins)
 
 **Contents**
 
@@ -15,11 +15,14 @@
 | --- | --- |
 |  | [Lake cabin4](../assets/Lake_cabin4.jpg) |
 | **Location** |  |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Location | The shore of [Mystery Lake](./Mystery%20Lake%20%28location%29.md) |
 | Description | A small group of cabins. |
 | **General** |  |
-| Type | Residential\|- |
-|  | Has an interior **Lake Cabins** is an unmarked location [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+
+**Lake Cabins** is an unmarked location [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

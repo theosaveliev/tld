@@ -11,13 +11,9 @@
 
 **Pork and Beans**
 
-\[\[File:
-
 ![Sealed](../assets/Pork_and_Beans_icon.png)
 
 ![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png)
-
-250px\]\]
 
 Release
 

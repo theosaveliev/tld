@@ -1,6 +1,6 @@
 # Mackenzie's Crashed Plane
 
-**Categories:** Landmarks, Locations, Locations in Mountain Town, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane)
 
 **Contents**
 
@@ -17,11 +17,13 @@
 |  | [The wreckage of the plane](../assets/Plane.jpg) |
 | **Location** |  |
 |  | [Mackenzie's Crashed Plane Location](../assets/Mackenzie%27s_Crashed_Plane_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | Mountains above [Milton](./Milton.md) |
 | Description | Mackenzie's Crashed Plane |
 | **General** |  |
-| Type | Landmark\|- |
-|  | Provides some shelter\|- |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| **Wintermute** |  |
 | Missions | [Episode 1: Chapter 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_One) |
 
 **Mackenzie's Crashed Plane**is a location featured in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). It is the wreckage of [Will Mackenzie's](./Will%20Mackenzie.md) airplane after he and [Astrid Greenwood](./Astrid%20Greenwood.md) crashed in the mountains of [Great Bear Island](./Great%20Bear%20Island.md).

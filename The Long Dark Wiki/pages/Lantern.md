@@ -1,16 +1,12 @@
 # Lantern
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lantern)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lantern)
 
 **Lantern**
-
-\[\[File:
 
 ![Lit](../assets/Lantern.jpg)
 
 ![Unlit](../assets/LanternUnlit.jpg)
-
-250px\]\]
 
 **General**
 
@@ -20,7 +16,7 @@ Item
 
 Wintermute
 
-Yes **Lanterns** are stationary light-producing objects in _The Long Dark._ For the hand-held light source, see [Storm Lantern](./Storm%20Lantern.md).
+**Lanterns** are stationary light-producing objects in _The Long Dark._ For the hand-held light source, see [Storm Lantern](./Storm%20Lantern.md).
 
 ## Overview
 

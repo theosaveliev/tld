@@ -1,6 +1,6 @@
 # Car Battery
 
-**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car_Battery)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car_Battery)
 
 **Contents**
 
@@ -19,7 +19,9 @@
 | --- | --- |
 |  | [Car Battery icon](../assets/Car_Battery_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)15.00 kg(33 lbs) |
 | Harvest | 30 min 6 x [Scrap Lead](./Scrap%20Lead.md) with a [Hacksaw](./Hacksaw.md) |

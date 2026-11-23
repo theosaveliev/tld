@@ -1,6 +1,6 @@
 # Lonely Homestead
 
-**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lonely_Homestead)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lonely_Homestead)
 
 **Lonely Homestead**
 
@@ -9,9 +9,12 @@
 |  | [Lonely Homestead](../assets/Lonely_Homestead.jpg) |
 | **Location** |  |
 |  | [Lonely Homestead Location](../assets/Lonely_Homestead_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | Northeast of [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md) |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Lonely Homestead** is a collection of two of cabins in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

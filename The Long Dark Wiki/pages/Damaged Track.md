@@ -15,7 +15,7 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Damaged Tracks](../assets/Damaged_Tracks.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute | No |
+| Wintermute |  |
 
 **Damaged Track** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 

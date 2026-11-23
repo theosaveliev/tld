@@ -1,6 +1,6 @@
 # Secluded Shelf
 
-**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Secluded_Shelf)
+**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Secluded_Shelf)
 
 **Secluded Shelf**
 
@@ -9,9 +9,12 @@
 |  | [Secluded Shelf](../assets/Secluded_Shelf.jpg) |
 | **Location** |  |
 |  | [Secluded Shelf Location](../assets/Secluded_Shelf_Location.png) |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Region |  |
+| Description | A small clearing atop a cliff |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Secluded Shelf** is a small landing on [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Milton Park
 
-**Categories:** Locations, Locations in Mountain Town, Residential locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Park)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Park)
 
 **Milton Park**
 
@@ -9,11 +9,13 @@
 |  | [Milton Park Office](../assets/Milton_Park_Office.jpg) |
 | **Location** |  |
 |  | [Milton Park Location](../assets/Milton_Park_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Description | Open Office without a door |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter\|- |
+| **Wintermute** |  |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 
 > “**Due to the unfortunate accident, the Milton & Area Parks Board can no longer condone the use of the climbing area within the park boundaries.**”

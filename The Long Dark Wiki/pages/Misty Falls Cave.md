@@ -1,6 +1,6 @@
 # Misty Falls Cave
 
-**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations, Sheltered locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misty_Falls_Cave)
+**Categories:** Locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misty_Falls_Cave)
 
 **Contents**
 
@@ -16,10 +16,17 @@
 |  | [Misty Falls Picnic Area Cave](../assets/Misty_Falls_Picnic_Area_Cave.jpg) |
 | **Location** |  |
 |  | [Misty Falls Cave Location](../assets/Misty_Falls_Cave_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | Next to the picnic area on the northeast corner of the map |
 | Description | A large cave with a decent amount of loot |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+[Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+
+**This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture
+
+**Misty Falls Cave** is an unofficial name for the cave right next to the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md), located in the far northeast corner of [Pleasant Valley](./Pleasant%20Valley.md). It offers some shelter, but beware as on colder days you may freeze to death.
 
 ## Overview
 

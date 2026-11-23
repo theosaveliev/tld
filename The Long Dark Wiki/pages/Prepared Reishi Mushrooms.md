@@ -49,7 +49,7 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Reishi Mushroom](./Reishi%20Mushroom.md)
 

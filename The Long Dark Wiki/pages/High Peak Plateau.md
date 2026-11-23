@@ -1,6 +1,6 @@
 # High Peak Plateau
 
-**Categories:** Locations, Locations in Sundered Pass, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Peak_Plateau)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Peak_Plateau)
 
 **High Peak Plateau**
 
@@ -9,10 +9,12 @@
 |  | [High Peak Plateau Area](../assets/High_Peak_Plateau_Area.jpg) |
 | **Location** |  |
 |  | [High Peak Plateau Location](../assets/High_Peak_Plateau_Location.png) |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Region |  |
+| Description | An unmarked mountain top with a radio transmitter and a shed |
 | **General** |  |
-| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
-|  | Provides some shelter **High Peak Plateau** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md). It is located to the far east of the map in the mountains and can only be accessed via progressing through the [Last Horizon](./Last%20Horizon.md) Tale. |
+| Firebox |  |
+
+**High Peak Plateau** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md). It is located to the far east of the map in the mountains and can only be accessed via progressing through the [Last Horizon](./Last%20Horizon.md) Tale.
 
 ## Overview
 

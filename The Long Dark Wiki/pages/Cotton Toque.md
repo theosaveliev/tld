@@ -1,6 +1,6 @@
 # Cotton Toque
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cotton_Toque)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cotton_Toque)
 
 **Cotton Toque**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Cotton Toque icon](../assets/Cotton_Toque_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Head |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

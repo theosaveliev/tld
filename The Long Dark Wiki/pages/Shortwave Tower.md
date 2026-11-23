@@ -1,6 +1,6 @@
 # Shortwave Tower
 
-**Categories:** Locations, Locations in Forlorn Muskeg, Military/Sporting locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower)
+**Categories:** Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower)
 
 **Shortwave Tower**
 
@@ -9,8 +9,11 @@
 |  | [Shortwave Tower](../assets/Shortwave_Tower.png) |
 | **Location** |  |
 |  | [Shortwave Tower Location](../assets/Shortwave_Tower_Location.png) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
-| Type | OutdoorsMilitary/Sporting\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Shortwave Tower** (North Tower) is a location in [Forlorn Muskeg](./Forlorn%20Muskeg.md). There are two other Shortwave Towers in this region ([East](./Shortwave%20Tower%20East.md) and [West](./Shortwave%20Tower%20West.md)), however, this was the first created and thus it maintains this name.
 
 ## Overview
 

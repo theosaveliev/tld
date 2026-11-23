@@ -4,13 +4,9 @@
 
 **Cupboard**
 
-\[\[File:
-
 ![Kitchen](../assets/Kitchen_Cupboard.jpg)
 
 ![Fishing Hut](../assets/Fishing_Hut_Cupboard.jpg)
-
-250px\]\]
 
 **General**
 

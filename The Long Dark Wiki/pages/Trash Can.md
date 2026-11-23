@@ -4,13 +4,9 @@
 
 **Trash Can**
 
-\[\[File:
-
 ![Regular](../assets/Trash_Can.jpg)
 
 ![Rusty](../assets/Trash_Can_Rusty.jpg)
-
-250px\]\]
 
 Release
 

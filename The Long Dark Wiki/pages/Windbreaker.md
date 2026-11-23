@@ -1,6 +1,6 @@
 # Windbreaker
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Windbreaker)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Windbreaker)
 
 **Windbreaker**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Windbreaker icon](../assets/Windbreaker_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |

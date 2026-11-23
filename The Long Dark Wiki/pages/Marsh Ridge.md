@@ -1,6 +1,6 @@
 # Marsh Ridge
 
-**Categories:** Article stubs, Indoor locations, Locations, Locations in Forlorn Muskeg, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marsh_Ridge)
+**Categories:** Article stubs, Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marsh_Ridge)
 
 **Marsh Ridge**
 
@@ -9,8 +9,13 @@
 |  | [Marsh Ridge aerial view](../assets/Marsh_Ridge_aerial_view.jpg) |
 | **Location** |  |
 |  | [Marsh Ridge Location](../assets/Marsh_Ridge_Location.png) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Marsh+Ridge&action=edit expanding it].**
+
+Marsh Ridge is a plateau in the northwest corner of [Forlorn Muskeg](./Forlorn%20Muskeg.md). The area is relatively safe with no [wolves](./Wolf.md) or [bears](./Bear.md), however a [moose](./Moose.md) may occupy the area. Marsh Ridge is resource-rich compared to the rest of [Forlorn Muskeg](./Forlorn%20Muskeg.md) and has a cave which offers a warmth bonus. The ridge also connects to [Mountain Town](./Mountain%20Town.md) via [Milton Basin](./Milton%20Basin.md).
 
 ## Overview
 

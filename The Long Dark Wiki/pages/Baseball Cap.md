@@ -1,6 +1,6 @@
 # Baseball Cap
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Baseball_Cap)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Baseball_Cap)
 
 **Baseball Cap**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Baseball Cap icon](../assets/Baseball_Cap_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Head |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |

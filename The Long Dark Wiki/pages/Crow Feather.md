@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Crow Feather icon](../assets/Crow_Feather_icon.png) |
 | **General** |  |
-| Item Type | Material\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |

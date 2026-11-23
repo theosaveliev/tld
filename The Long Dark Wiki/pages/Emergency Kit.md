@@ -1,6 +1,6 @@
 # Emergency Kit
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Emergency_Kit)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Emergency_Kit)
 
 **Contents**
 
@@ -24,13 +24,9 @@
 
 **Emergency Kit**
 
-\[\[File:
-
 ![Closed](../assets/Emergency_Kit.jpg)
 
 ![Open](../assets/Emergency_Kit_Open.jpg)
-
-250px\]\]
 
 **General**
 
@@ -39,8 +35,6 @@ Item Type
 Item
 
 Wintermute
-
-Yes
 
 _For the Distress Pistol Kit in Wintermute, see [Distress Pistol Kit](./Distress%20Pistol%20Kit.md)._
 

@@ -4,13 +4,9 @@
 
 **Trunk**
 
-\[\[File:
-
 ![Regular](../assets/Trunk.jpg)
 
 ![Lily's Trunk](../assets/TrunkLily%27s.jpg)
-
-250px\]\]
 
 Release
 

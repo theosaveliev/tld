@@ -1,6 +1,6 @@
 # Rose Hip
 
-**Categories:** Food And Drink, Materials, Plants, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rose_Hip)
+**Categories:** Food And Drink, Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rose_Hip)
 
 **Contents**
 
@@ -17,7 +17,9 @@
 | --- | --- |
 |  | [Rose Hip icon](../assets/Rose_Hip_icon.png) |
 | **General** |  |
-| Item Type | Material\|- |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 

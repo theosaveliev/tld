@@ -1,6 +1,6 @@
 # Mountaineer's Hut
 
-**Categories:** Locations, Locations in Timberwolf Mountain, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mountaineer's_Hut)
+**Categories:** Locations, Locations in Timberwolf Mountain, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mountaineer's_Hut)
 
 **Mountaineer's Hut**
 
@@ -9,11 +9,14 @@
 |  | [Mountaineer's Hut](../assets/Mountaineer%27s_Hut.png) |
 | **Location** |  |
 |  | [Mountaineer's Hut Location](../assets/Mountaineer%27s_Hut_Location.png) |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Region |  |
+| Location | On the bank of [Crystal Lake](./Crystal%20Lake.md) |
 | **General** |  |
 | Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+**Mountaineer's Hut** is a small hut located in [Timberwolf Mountain](./Timberwolf%20Mountain.md), on the southern shore of [Crystal Lake](./Crystal%20Lake.md).
 
 ## Overview
 

@@ -11,8 +11,6 @@
 
 **Metal Shelf**
 
-\[\[File:
-
 ![Locker](../assets/MetalShelfLocker.jpg)
 
 ![Extra Small](../assets/MetalShelfExtraSmall.jpg)
@@ -22,8 +20,6 @@
 ![Large](../assets/MetalShelfLarge.jpg)
 
 ![Extra Large](../assets/MetalShelfExtraLarge.jpg)
-
-250px\]\]
 
 **General**
 

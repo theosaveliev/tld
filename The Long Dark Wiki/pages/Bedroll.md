@@ -1,6 +1,6 @@
 # Bedroll
 
-**Categories:** Bedrolls, Beds, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bedroll)
+**Categories:** Bedrolls, Beds · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bedroll)
 
 **Contents**
 
@@ -17,7 +17,8 @@
 | --- | --- |
 |  | [Bedroll icon](../assets/Bedroll_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)5.0 °C(9 °F) |

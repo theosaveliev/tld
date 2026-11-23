@@ -1,6 +1,6 @@
 # Cinder Hills Coal Mine
 
-**Categories:** Caves, Indoor locations, Locations, Locations in Coastal Highway, Locations in Pleasant Valley, Locations with a workbench, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
+**Categories:** Locations, Locations in Coastal Highway, Locations in Pleasant Valley, Locations with a workbench, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
 
 **Contents**
 
@@ -17,9 +17,12 @@
 |  | [RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png) |
 | **Location** |  |
 |  | [Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png) |
-| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
+| Region |  |
+| Description | explorable mine and transition connected to [Pleasant Valley](./Pleasant%20Valley.md) |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| **Wintermute** |  |
 | Missions | [Aftermath](./Aftermath.md) |
 
 **Cinder Hills Coal Mine,**also known as "Abandoned Mine", is a series of mine tunnels located in [Coastal Highway](./Coastal%20Highway.md), with one section that acts as a connection to [Pleasant Valley](./Pleasant%20Valley.md).

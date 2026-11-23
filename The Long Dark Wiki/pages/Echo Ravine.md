@@ -1,6 +1,6 @@
 # Echo Ravine
 
-**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echo_Ravine)
+**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echo_Ravine)
 
 **Echo Ravine**
 
@@ -9,9 +9,12 @@
 |  | [Echo Ravine](../assets/Echo_Ravine.jpg) |
 | **Location** |  |
 |  | [Echo Ravine Location](../assets/Echo_Ravine_Location.png) |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Region |  |
+| Description | A long narrow area between two rock faces |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Echo Ravine** is a narrow ravine located in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 
 ## Overview
 

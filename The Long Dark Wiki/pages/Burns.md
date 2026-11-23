@@ -4,13 +4,9 @@
 
 **Burns**
 
-\[\[File:
-
 ![Fire](../assets/Burns_icon.png)
 
 ![Electrical](../assets/Burns_%28electric%29_icon.png)
-
-250px\]\]
 
 **Properties**
 

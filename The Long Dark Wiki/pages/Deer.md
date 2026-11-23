@@ -21,13 +21,9 @@
 
 **Deer**
 
-\[\[File:
-
 ![Stag](../assets/Deer.png)
 
 ![Doe](../assets/Doe.png)
-
-250px\]\]
 
 **Basic Information**
 

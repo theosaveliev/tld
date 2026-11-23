@@ -1,6 +1,6 @@
 # No Road Cave
 
-**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/No_Road_Cave)
+**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/No_Road_Cave)
 
 **No Road Cave**
 
@@ -11,7 +11,9 @@
 |  | [No Road Cave Location](../assets/No_Road_Cave_Location.png) |
 | Region |  |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+
+**No Road Cave** is a small cave in [Blackrock](./Blackrock.md) located south of [Mule Bridge](./Mule%20Bridge.md).
 
 ## Overview
 

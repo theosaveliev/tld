@@ -1,6 +1,6 @@
 # Cargo Pants
 
-**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Pants)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Pants)
 
 **Cargo Pants**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Cargo Pants icon](../assets/Cargo_Pants_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

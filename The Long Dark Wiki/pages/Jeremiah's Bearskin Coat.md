@@ -1,6 +1,6 @@
 # Jeremiah's Bearskin Coat
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
 
 **Contents**
 
@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Jeremiah's Bearskin Coat icon](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
 | Harvest | Cannot Harvest |

@@ -1,6 +1,6 @@
 # Lighthouse \(Port Remnant\)
 
-**Categories:** DLC Content, Indoor locations, Locations, Locations in Port Remnant · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lighthouse_%28Port_Remnant%29)
+**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lighthouse_%28Port_Remnant%29)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -15,14 +15,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Lighthouse (Port Remnant)](../assets/Lighthouse_%28Port_Remnant%29.jpg) |
 | **Location** |  |
 |  | [Lighthouse (Port Remnant) Location](../assets/Lighthouse_%28Port_Remnant%29_Location.png) |
-| Region | [Port Remnant](./Port%20Remnant.md)\|- |
+| Region |  |
+| Location | Northern section of the region beside the Lighthouse Keeper's Cabin. |
 | Description | A ruined lighthouse with an interior cave system below it. |
 | **General** |  |
-| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior **Lighthouse** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md), and is the first location visited when entering [Cauldron Island](./Cauldron%20Island.md). |
+
+**Lighthouse** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md), and is the first location visited when entering [Cauldron Island](./Cauldron%20Island.md).
 
 ## Overview
 

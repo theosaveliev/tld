@@ -50,7 +50,7 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Birch Bark](./Birch%20Bark.md)
 

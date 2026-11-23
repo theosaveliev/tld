@@ -12,7 +12,9 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)|-
+Location
+
+Between [Milton Credit Union](./Milton%20Credit%20Union.md) and [Old Schoolhouse](./Old%20Schoolhouse.md)
 
 **General**
 

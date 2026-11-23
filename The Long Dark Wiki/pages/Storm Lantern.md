@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Storm Lantern icon](../assets/Storm_Lantern_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) / 0.00-1.00 KG [Lantern Fuel](./Lantern%20Fuel.md) |

@@ -61,8 +61,6 @@ There are 7 named locations within Track Section 5, including:
 - To Anna Island Track Section 4 (Region Transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md))
 - To Anna Island Track Section 6 (Region Transition to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md))
 
- |- | | valign="top" style="width:50%;" |
-
 ## Wildlife management
 
 - [Deer](./Deer.md) and [Rabbit](./Rabbit.md) can be found throughout the region.

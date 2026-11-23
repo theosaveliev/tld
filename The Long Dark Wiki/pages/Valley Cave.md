@@ -1,6 +1,6 @@
 # Valley Cave
 
-**Categories:** Caves, Locations, Locations in Hushed River Valley, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Valley_Cave)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Valley_Cave)
 
 **Valley Cave**
 
@@ -9,10 +9,13 @@
 |  | [Valley Cave](../assets/Valley_Cave.jpg) |
 | **Location** |  |
 |  | [Valley Cave Location](../assets/Valley_Cave_Location.png) |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Region |  |
+| Location | Along the river in the central valley near [Little Bear and Cub Falls](./Little%20Bear%20and%20Cub%20Falls.md) |
 | Description | An open cave offering some warmth and shelter from the elements |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+
+**Valley Cave** is a location in the east part of [Hushed River Valley](./Hushed%20River%20Valley.md).
 
 ## Overview
 

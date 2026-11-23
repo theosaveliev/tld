@@ -1,18 +1,14 @@
 # Metal Chair
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Chair)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Chair)
 
 **Metal Chair**
-
-\[\[File:
 
 ![Chair](../assets/MetalChair.jpg)
 
 ![Armrest](../assets/MetalChairArmrest.jpg)
 
 ![Bench](../assets/MetalChairBench.jpg)
-
-250px\]\]
 
 **General**
 
@@ -21,8 +17,6 @@ Item Type
 Item
 
 Wintermute
-
-Yes|-
 
 **Statistics**
 

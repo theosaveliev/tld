@@ -12,13 +12,9 @@
 
 **Coho Salmon (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png)
 
 ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png)
-
-250px\]\]
 
 Release
 

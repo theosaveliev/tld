@@ -1,16 +1,12 @@
 # Cedar Limb
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cedar_Limb)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cedar_Limb)
 
 **Cedar Limb**
-
-\[\[File:
 
 ![Small](../assets/CedarLimb.jpg)
 
 ![Large](../assets/CedarLimbLarge.jpg)
-
-250px\]\]
 
 **General**
 
@@ -19,8 +15,6 @@ Item Type
 Item
 
 Wintermute
-
-Yes|-
 
 **Statistics**
 

@@ -11,13 +11,9 @@
 
 **Smallmouth Bass (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png)
 
 ![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png)
-
-250px\]\]
 
 Release
 

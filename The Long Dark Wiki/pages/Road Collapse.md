@@ -1,6 +1,6 @@
 # Road Collapse
 
-**Categories:** Landmarks, Locations, Locations in Crumbling Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Road_Collapse)
+**Categories:** Locations, Locations in Crumbling Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Road_Collapse)
 
 **Road Collapse**
 
@@ -9,9 +9,11 @@
 |  | [Road Collapse](../assets/Road_Collapse.jpg) |
 | **Location** |  |
 |  | [Road Collapse Location](../assets/Road_Collapse_Location.png) |
-| Region | [Old Island Connector](./Crumbling%20Highway.md)\|- |
+| Region |  |
+| Location | Just east of [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+|  | Has no shelter / **Road Collapse** is a location in [Crumbling Highway](./Crumbling%20Highway.md). |
 
 ## Overview
 

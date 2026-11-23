@@ -49,7 +49,7 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Cloth](./Cloth.md)
 

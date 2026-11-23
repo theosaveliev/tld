@@ -11,13 +11,9 @@
 
 **Condensed Milk**
 
-\[\[File:
-
 ![Sealed](../assets/Condensed_Milk_icon.png)
 
 ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png)
-
-250px\]\]
 
 Release
 

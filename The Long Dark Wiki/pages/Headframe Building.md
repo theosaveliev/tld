@@ -1,6 +1,6 @@
 # Headframe Building
 
-**Categories:** Indoor locations, Locations, Locations in Zone of Contamination, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Headframe_Building)
+**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Headframe_Building)
 
 **Headframe Building**
 
@@ -9,10 +9,13 @@
 |  | [Headframe Building](../assets/Headframe_Building.png) |
 | **Location** |  |
 |  | [Headframe Building Location](../assets/Headframe_Building_Location.png) |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Region |  |
+| Location | Langston mine |
 | **General** |  |
 | Type |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+The **Headframe Building** is a side building of the [Concentrator](./Concentrator.md), farther away from it as the [Conveyor Room](./Conveyor%20Room.md).
 
 ## Overview
 

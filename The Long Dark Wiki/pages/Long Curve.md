@@ -1,6 +1,6 @@
 # Long Curve
 
-**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Long_Curve)
+**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Long_Curve)
 
 **Long Curve**
 
@@ -9,9 +9,11 @@
 |  | [Longcurveupdated](../assets/Longcurveupdated.png) |
 | **Location** |  |
 |  | [Long Curve Location](../assets/Long_Curve_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | At one end of the road that bisects the region |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+|  | Has no shelter / **Long Curve** is a location in [Pleasant Valley](./Pleasant%20Valley.md), and is the transition to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md). |
 
 ## Overview
 

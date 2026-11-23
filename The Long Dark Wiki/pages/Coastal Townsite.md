@@ -1,14 +1,10 @@
 # Coastal Townsite
 
-**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Locations with a workbench, Residential locations, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Townsite)
+**Categories:** Locations, Locations in Coastal Highway, Locations with a workbench, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Townsite)
 
 **Coastal Townsite**
 
-\[\[File:
-
 ![Coastal townsite 2](../assets/Coastal_townsite_2.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -28,13 +24,15 @@ A small neighborhood
 
 Type
 
-Residential|-
-
 ![Bed icon](../assets/Bed_icon.png)
+
+Has a bed
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench|-
+
+**Coastal Townsite** is a small town in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

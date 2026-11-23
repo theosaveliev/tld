@@ -1,6 +1,6 @@
 # Timberwolf Carcass
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Timberwolf_Carcass)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Timberwolf_Carcass)
 
 **Timberwolf Carcass**
 
@@ -9,7 +9,9 @@
 |  | [No picture](../assets/No_picture.png) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute | Yes A **Timberwolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Timberwolf](./Timberwolf.md). [Crows](./Crow.md) will fly around a Timberwolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time. |
+| Wintermute |  |
+
+A **Timberwolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Timberwolf](./Timberwolf.md). [Crows](./Crow.md) will fly around a Timberwolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 
 ## Drops
 

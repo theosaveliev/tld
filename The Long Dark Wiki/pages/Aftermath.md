@@ -1,13 +1,14 @@
 # Aftermath
 
-**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aftermath)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aftermath)
 
 **Aftermath**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png) |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [Coming Storm](./Coming%20Storm.md) |
 | Current | Aftermath |
 | Next | [Prologue](./Prologue.md) |

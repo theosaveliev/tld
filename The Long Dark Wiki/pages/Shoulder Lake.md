@@ -1,6 +1,6 @@
 # Shoulder Lake
 
-**Categories:** Lakes, Landmarks, Locations, Locations in Forsaken Airfield, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shoulder_Lake)
+**Categories:** Lakes, Locations, Locations in Forsaken Airfield, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shoulder_Lake)
 
 **Shoulder Lake**
 
@@ -9,10 +9,12 @@
 |  | [Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png) |
 | **Location** |  |
 |  | [Shoulder Lake Location](../assets/Shoulder_Lake_Location.png) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Region |  |
+| Location | The northeastern part of the region. |
 | Description | A large lake containing a few islands. |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+|  | Has no shelter / **Shoulder Lake** is a large lake in [Forsaken Airfield](./Forsaken%20Airfield.md), occupying much of the northeastern part of the region. |
 
 ## Overview
 

@@ -12,13 +12,9 @@
 
 **Pinnacle Peaches**
 
-\[\[File:
-
 ![Sealed](../assets/Pinnacle_Peaches_icon.png)
 
 ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png)
-
-250px\]\]
 
 Release
 

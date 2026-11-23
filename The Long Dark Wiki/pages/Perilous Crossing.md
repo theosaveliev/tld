@@ -1,6 +1,6 @@
 # Perilous Crossing
 
-**Categories:** Locations, Locations in Sundered Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Perilous_Crossing)
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Perilous_Crossing)
 
 **Perilous Crossing**
 
@@ -9,7 +9,8 @@
 |  | [Perilous Crossing](../assets/Perilous_Crossing.jpg) |
 | **Location** |  |
 |  | [Perilous Crossing Location](../assets/Perilous_Crossing_Location.png) |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Region |  |
+| Description | A large swinging bridge behind the [Weather Station](./Weather%20Station.md) |
 | **General** |  |
 |  | Has no shelter **Perilous Crossing** is a location in [Sundered Pass](./Sundered%20Pass.md). |
 

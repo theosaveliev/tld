@@ -1853,7 +1853,9 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
                 suffix = match.group("suffix")
                 if suffix:
                     label += " " + Path(suffix.strip()).stem.replace("_", " ")
-                return f"[{_markdown_label(label.strip())}]({match.group('destination')})"
+                return (
+                    f"[{_markdown_label(label.strip())}]({match.group('destination')})"
+                )
 
             visible = BROKEN_FILE_IMAGE_LINK_RE.sub(replace_broken_file_link, visible)
             visible = LEAKED_FILE_WRAPPER_PREFIX_RE.sub("", visible)
@@ -2047,9 +2049,7 @@ def _clean_wikitext_artifact_line(line: str) -> str:
     """Remove unsupported MediaWiki syntax from one ordinary text line."""
     cleaned = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
     table_opening = re.match(
-        r"^\s*\{\\?\|\s*(?:class|style|align|width)\s*=",
-        cleaned,
-        re.IGNORECASE,
+        r"^\s*\{\\?\|\s*(?:class|style|align|width)\s*=", cleaned, re.IGNORECASE
     )
     if table_opening is not None:
         caption = re.search(

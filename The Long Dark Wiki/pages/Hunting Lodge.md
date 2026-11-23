@@ -1,6 +1,6 @@
 # Hunting Lodge
 
-**Categories:** Indoor locations, Locations, Locations in Broken Railroad, Locations with a workbench, Military/Sporting locations, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Lodge)
+**Categories:** Locations, Locations in Broken Railroad, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Lodge)
 
 **Contents**
 
@@ -21,12 +21,15 @@
 |  | [Hunting lodge](../assets/Hunting_lodge.jpg) |
 | **Location** |  |
 |  | [Hunting Lodge Location](../assets/Hunting_Lodge_Location.png) |
-| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
+| Region |  |
+| Location | A Lodge overlooking the region |
 | Description | A two-story house |
 | **General** |  |
-| Type | ResidentialMilitary/Sporting\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+| **Wintermute** |  |
 | Missions | [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense?) |
 
 The **Hunting Lodge** is a location in [Broken Railroad](./Broken%20Railroad.md).

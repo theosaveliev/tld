@@ -1,6 +1,6 @@
 # Train Shelter
 
-**Categories:** DLC Content, Indoor locations, Locations, Locations in Anna Island -- Track Section 6 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Shelter)
+**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Shelter)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -15,12 +15,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Train Shelter](../assets/Train_Shelter.jpg) |
 | **Location** |  |
 |  | [Train Shelter Location](../assets/Train_Shelter_Location.png) |
-| Region | [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)\|- |
+| Region |  |
+| Location | Southwestern most corner of the map |
 | Description | A Train repair station hidden in the mountains. |
 | **General** |  |
-| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md) |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). |
+
+**Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md).
 
 ## Overview
 

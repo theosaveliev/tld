@@ -1,13 +1,14 @@
 # What One Man Can Do/Transcript
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do%2FTranscript)
 
 **What One Man Can Do/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md) |
 | Current | What One Man Can Do/Transcript |
 | Next | [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md) |

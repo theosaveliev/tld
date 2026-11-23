@@ -45,7 +45,7 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Rose Hip](./Rose%20Hip.md)
 

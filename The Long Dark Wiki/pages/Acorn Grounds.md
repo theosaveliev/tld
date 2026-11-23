@@ -42,7 +42,7 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Acorns (Cooked)](./Acorns%20%28Cooked%29.md)
 
@@ -54,7 +54,7 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md)
 

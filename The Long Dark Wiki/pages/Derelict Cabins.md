@@ -1,6 +1,6 @@
 # Derelict Cabins
 
-**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Derelict_Cabins)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Derelict_Cabins)
 
 **Derelict Cabins**
 
@@ -9,10 +9,13 @@
 |  | [Derelict Cabins](../assets/Derelict_Cabins.jpg) |
 | **Location** |  |
 |  | [Derelict Cabins Location](../assets/Derelict_Cabins_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | On the path between [End of the Road](./End%20of%20the%20Road.md) and [Point of Disagreement](./Point%20of%20Disagreement.md) |
 | Description | Several burnt-out cabins |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Derelict Cabins** are a pair of ruined buildings in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

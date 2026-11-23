@@ -1,6 +1,6 @@
 # Surfeit Trestle
 
-**Categories:** Locations, Locations in Far Range Branch Line, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Surfeit_Trestle)
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Surfeit_Trestle)
 
 **Surfeit Trestle**
 
@@ -9,7 +9,8 @@
 |  | [Surfeit Trestle](../assets/Surfeit_Trestle.jpg) |
 | **Location** |  |
 |  | [Surfeit Trestle Location](../assets/Surfeit_Trestle_Location.png) |
-| Region | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|- |
+| Region |  |
+| Description | A locomotive trestle |
 | **General** |  |
 |  | Has no shelter **Surfeit Trestle** is a a location in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md). |
 

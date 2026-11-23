@@ -11,15 +11,11 @@
 
 **Cardboard Box**
 
-\[\[File:
-
 ![Intact](../assets/Cardboard_boxes.jpg)
 
 ![Unfolded](../assets/CardboardBoxUnfolded.jpg)
 
 ![Torn](../assets/CardboardBoxTorn.jpg)
-
-250px\]\]
 
 **General**
 

@@ -1,6 +1,6 @@
 # Fallen Star/Transcript
 
-**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript)
 
 **Contents**
 
@@ -15,7 +15,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png) |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
 | Current | Fallen Star/Transcript |
 | Next | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |

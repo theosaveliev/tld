@@ -1,6 +1,6 @@
 # Cutty's Cave
 
-**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cutty's_Cave)
+**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cutty's_Cave)
 
 **Cutty's Cave**
 
@@ -13,7 +13,8 @@
 | Location | A short distance south of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). |
 | Description | A small cave hidden underneath a cliff |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+| **Wintermute** |  |
 | Missions | [Blackrock Blues](./Blackrock%20Blues.md) |
 
 > “**The first man to attempt escape from Blackrock, Bill Cutty is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates.**”

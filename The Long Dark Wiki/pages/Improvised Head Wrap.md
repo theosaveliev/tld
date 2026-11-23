@@ -1,6 +1,6 @@
 # Improvised Head Wrap
 
-**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap)
+**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap)
 
 **Improvised Head Wrap**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Improvised Head Wrap icon](../assets/Improvised_Head_Wrap_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Head |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
@@ -40,7 +41,7 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Cloth](./Cloth.md)
 

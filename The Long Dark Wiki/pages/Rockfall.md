@@ -1,14 +1,10 @@
 # Rockfall
 
-**Categories:** Landmarks, Locations, Locations in Coastal Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rockfall)
+**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rockfall)
 
 **Rockfall**
 
-\[\[File:
-
 ![Rockfall](../assets/Rockfall.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -16,15 +12,15 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Description
+
+The westernmost end of [Great Bear Highway](./Great%20Bear%20Highway.md)
 
 **General**
 
 Type
 
-Landmark|-
+**Rockfall** is a location in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

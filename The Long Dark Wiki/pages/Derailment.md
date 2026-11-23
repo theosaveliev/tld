@@ -1,6 +1,6 @@
 # Derailment
 
-**Categories:** Landmarks, Locations, Locations in Mystery Lake, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Derailment)
+**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Derailment)
 
 **Derailment**
 
@@ -9,10 +9,13 @@
 |  | [Derailment 2](../assets/Derailment_2.jpg) |
 | **Location** |  |
 |  | [Derailment Location](../assets/Derailment_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Location | South of [Logging Camp](./Logging%20Camp.md), and north of [Camp Office](./Camp%20Office.md). |
 | Description | A small train wreck |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Derailment** is a small train wreck in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), south of [Logging Camp](./Logging%20Camp.md), and north of [Camp Office](./Camp%20Office.md).
 
 ## Overview
 

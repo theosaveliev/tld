@@ -1,6 +1,6 @@
 # Steely Chasm
 
-**Categories:** Locations, Locations in Far Range Branch Line, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Steely_Chasm)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Steely_Chasm)
 
 **Steely Chasm**
 
@@ -9,9 +9,11 @@
 |  | [Steely chasm](../assets/Steely_chasm.png) |
 | **Location** |  |
 |  | [Steely Chasm Location](../assets/Steely_Chasm_Location.png) |
-| Region | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|- |
+| Region |  |
+| Description | A steel trestle bridging a river |
 | **General** |  |
-|  | Has no shelter / **Steely Chasm** is a steel-beam bridge over a rapidly flowing river in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md). |
+
+**Steely Chasm** is a steel-beam bridge over a rapidly flowing river in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md).
 
 ## Overview
 

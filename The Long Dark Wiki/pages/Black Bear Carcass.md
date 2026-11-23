@@ -1,6 +1,6 @@
 # Black Bear Carcass
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Black_Bear_Carcass)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Black_Bear_Carcass)
 
 **Black Bear Carcass**
 
@@ -9,7 +9,11 @@
 |  | [Bear Carcass](../assets/Bear_Carcass.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute | Yes A **Black Bear Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Bear](./Bear.md). [Crows](./Crow.md) will fly around a Bear Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time. / Bears are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#Windshield_and_Scent) when harvesting them, a distinction also shared with a [Moose Carcass](./Moose%20Carcass.md). |
+| Wintermute |  |
+
+A **Black Bear Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Bear](./Bear.md). [Crows](./Crow.md) will fly around a Bear Carcass and always drop 5 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
+
+Bears are massive creatures, and their carcasses can be used as makeshift cover to provide a [Wind Shield](./Survival%20Overlay.md#Windshield_and_Scent) when harvesting them, a distinction also shared with a [Moose Carcass](./Moose%20Carcass.md).
 
 ## Drops
 

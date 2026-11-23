@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Hacksaw icon](../assets/Hacksaw_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |

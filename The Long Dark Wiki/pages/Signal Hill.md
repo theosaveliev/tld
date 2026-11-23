@@ -1,10 +1,8 @@
 # Signal Hill
 
-**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Locations with a workbench, Military/Sporting locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Signal_Hill)
+**Categories:** Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Signal_Hill)
 
 **Signal Hill**
-
-\[\[File:
 
 [Missing image: SignalHill2.png]
 
@@ -12,23 +10,19 @@ _Exterior_
 
 ![Interior](../assets/Signal_Hill_-_radio_shack_bedroom.png)
 
-250px\]\]
-
 **Location**
 
 ![Signal Hill Location](../assets/Signal_Hill_Location.png)
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)|-
-
 Description
+
+A radio mast and control room
 
 **General**
 
 Type
-
-Military/Sporting|-
 
 Firebox
 
@@ -39,6 +33,8 @@ Has a bed
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench|-
+
+**Signal Hill** is a location found in [Pleasant Valley](./Pleasant%20Valley.md) and provides a fenced-in (single access point) area, on top of a hill. The view over the farming areas is advantageous, weather permitting. A distinguishing feature is the radio tower itself, which can be seen from very far away.
 
 ## Location features
 

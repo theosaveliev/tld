@@ -1,6 +1,6 @@
 # End of the Road
 
-**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/End_of_the_Road)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/End_of_the_Road)
 
 **End of the Road**
 
@@ -9,9 +9,12 @@
 |  | [End of the Road](../assets/End_of_the_Road.jpg) |
 | **Location** |  |
 |  | [End of the Road Location](../assets/End_of_the_Road_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | At one end of the road that passes through the region |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**End of the Road** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Frozen Creek
 
-**Categories:** Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Creek)
+**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Creek)
 
 **Frozen Creek**
 
@@ -9,8 +9,11 @@
 |  | [Frozen Creek upstream](../assets/Frozen_Creek_upstream.jpg) |
 | **Location** |  |
 |  | [Frozen Creek Location](../assets/Frozen_Creek_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Frozen Creek** is a location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

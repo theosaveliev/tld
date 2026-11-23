@@ -1,6 +1,6 @@
 # Echo Peak East
 
-**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echo_Peak_East)
+**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echo_Peak_East)
 
 **Echo Peak East**
 
@@ -9,9 +9,12 @@
 |  | [Echo peak east](../assets/Echo_peak_east.jpg) |
 | **Location** |  |
 |  | [Echo Peak East Location](../assets/Echo_Peak_East_Location.png) |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Region |  |
+| Location | Above [Echo Ravine](./Echo%20Ravine.md) |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Echo Peak East** is a location (for some reason West of) [Echo Peak West](./Echo%20Peak%20West.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # The Arch \(Mountain Town location\)
 
-**Categories:** Landmarks, Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Arch_%28Mountain_Town_location%29)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Arch_%28Mountain_Town_location%29)
 
 **The Arch**
 
@@ -9,10 +9,13 @@
 |  | [The Arch Milton](../assets/The_Arch_-_Milton.jpg) |
 | **Location** |  |
 |  | [The Arch Mountain Town Location](../assets/The_Arch_Mountain_Town_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | Along the path behind the [Bank Manager's House](./Bank%20Manager%27s%20House.md) |
 | Description | A natural stone arch formation |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**The Arch** is a location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It is similar in name and appearance to [The Arch](./The%20Arch%20%28Old%20Island%20Connector%20location%29.md) in [Crumbling Highway](./Crumbling%20Highway.md).
 
 ## Overview
 

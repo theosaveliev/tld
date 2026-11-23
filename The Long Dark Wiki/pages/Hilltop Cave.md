@@ -1,16 +1,12 @@
 # Hilltop Cave
 
-**Categories:** Caves, Locations, Locations in Pleasant Valley, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hilltop_Cave)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hilltop_Cave)
 
 **Hilltop Cave**
-
-\[\[File:
 
 ![Exterior](../assets/SS-PV-HilltopCave_%281%29.jpg)
 
 ![Interior](../assets/SS-PV-HilltopCave_%282%29.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -18,17 +14,15 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)|-
-
 **General**
 
 Type
 
-Cave|-
-
 ![Bed icon](../assets/Bed_icon.png)
 
-Provides some shelter **Hilltop Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md), located not far from [Signal Hill](./Signal%20Hill.md) and the [Winding River](./Winding%20River.md) transition cave (and subesquently [Cascading Falls](./Cascading%20Falls.md)).
+Has a bed
+
+**Hilltop Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md), located not far from [Signal Hill](./Signal%20Hill.md) and the [Winding River](./Winding%20River.md) transition cave (and subesquently [Cascading Falls](./Cascading%20Falls.md)).
 
 ## Overview
 

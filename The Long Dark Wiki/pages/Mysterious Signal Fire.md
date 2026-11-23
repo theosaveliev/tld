@@ -1,6 +1,6 @@
 # Mysterious Signal Fire
 
-**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mysterious_Signal_Fire)
+**Categories:** Locations, Locations in Hushed River Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mysterious_Signal_Fire)
 
 **Contents**
 
@@ -16,9 +16,12 @@
 |  | [20180909115732 1](../assets/20180909115732_1.jpg) |
 | **Location** |  |
 |  | [Mysterious Signal Fire Location](../assets/Mysterious_Signal_Fire_Location.png) |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Region |  |
+| Location | Edge of the valley on a clifftop |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+The **Mysterious Signal Fire** is a location found in [Hushed River Valley](./Hushed%20River%20Valley.md). Smoke from the fire can be seen from almost any point in the eastern section of the region.
 
 ## Overview
 

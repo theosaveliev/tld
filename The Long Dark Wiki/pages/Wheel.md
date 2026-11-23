@@ -4,13 +4,9 @@
 
 **Wheel**
 
-\[\[File:
-
 ![Full](../assets/Wheel.png)
 
 ![Broken](../assets/Wheel_%28broken%29.png)
-
-250px\]\]
 
 Release
 

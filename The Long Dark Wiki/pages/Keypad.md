@@ -4,15 +4,11 @@
 
 **Keypad**
 
-\[\[File:
-
 ![Locked](../assets/Keypad_Powered_Locked.jpg)
 
 ![Unlocked](../assets/Keypad_Powered_Unlocked.jpg)
 
 ![Unpowered](../assets/Keypad_Unpowered.jpg)
-
-250px\]\]
 
 Story item
 

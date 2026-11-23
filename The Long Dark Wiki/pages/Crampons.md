@@ -18,8 +18,9 @@
 | --- | --- |
 |  | [Crampons icon](../assets/Crampons_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Accessory |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |

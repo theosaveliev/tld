@@ -1,6 +1,6 @@
 # Poisoned Wolf Carcass
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Poisoned_Wolf_Carcass)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Poisoned_Wolf_Carcass)
 
 **Poisoned Wolf Carcass**
 
@@ -9,7 +9,9 @@
 |  | [No picture](../assets/No_picture.png) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute | Yes A **Poisoned Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Poisoned Wolf](./Poisoned%20Wolf.md), a creature unique to the [Zone of Contamination](./Zone%20of%20Contamination.md). [Crows](./Crow.md) will fly around a Poisoned Wolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time. |
+| Wintermute |  |
+
+A **Poisoned Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Poisoned Wolf](./Poisoned%20Wolf.md), a creature unique to the [Zone of Contamination](./Zone%20of%20Contamination.md). [Crows](./Crow.md) will fly around a Poisoned Wolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
 
 ## Drops
 

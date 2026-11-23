@@ -13,11 +13,7 @@
 
 **Prepared Acorns**
 
-\[\[File:
-
 ![Portion](../assets/Prepared_Acorns_icon.png)
-
-250px\]\]
 
 Release
 
@@ -73,7 +69,7 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Acorns](./Acorns.md)
 

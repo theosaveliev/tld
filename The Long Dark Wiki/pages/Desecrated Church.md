@@ -1,6 +1,6 @@
 # Desecrated Church
 
-**Categories:** DLC Content, Indoor locations, Locations, Locations in Port Remnant · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Desecrated_Church)
+**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Desecrated_Church)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -10,15 +10,11 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Desecrated Church**
 
-\[\[File:
-
 ![Outside](../assets/Desecrated_Church.jpg)
 
 ![Inside](../assets/Desecrated_Church_Inside_2.jpg)
 
 ![Inside](../assets/Desecrated_Church_Inside.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -26,9 +22,9 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
-[Port Remnant](./Port%20Remnant.md)|-
-
 Location
+
+Southwestern cliff of the map.
 
 Description
 
@@ -36,7 +32,7 @@ A church ruined by strange whale based graffiti.
 
 **General**
 
-Has an interior **Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
+**Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
 
 ## Overview
 

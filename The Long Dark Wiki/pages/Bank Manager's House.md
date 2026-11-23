@@ -1,16 +1,12 @@
 # Bank Manager's House
 
-**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
 
 **Bank Manager's House**
-
-\[\[File:
 
 ![Exterior](../assets/Milton_Bank_Managers_House.jpg)
 
 ![Interior](../assets/Bank_managers_house_interior.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -18,9 +14,9 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)|-
-
 Location
+
+[Milton](./Milton.md), between [Milton Post Office](./Milton%20Post%20Office.md) and [The Arch](./The%20Arch%20%28Mountain%20Town%20location%29.md)
 
 Description
 
@@ -30,15 +26,11 @@ A single-story house with a pot belly stove and bed
 
 Type
 
-Residential|-
-
 Firebox
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
-
-Has an interior|-
 
 **Wintermute**
 

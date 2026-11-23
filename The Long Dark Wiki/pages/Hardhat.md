@@ -1,6 +1,6 @@
 # Hardhat
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hardhat)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hardhat)
 
 **Hardhat**
 
@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Hardhat icon](../assets/Hardhat_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
 | Renewable | Yes ([Trader](./Trader.md)) |
 | Clothing Slot |  |
 | **Statistics** |  |

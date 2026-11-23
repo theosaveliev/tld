@@ -11,13 +11,9 @@
 
 **Canned Corn**
 
-\[\[File:
-
 ![Sealed](../assets/Canned_Corn_icon.png)
 
 ![Opened](../assets/Canned_Corn_%28Opened%29_icon.png)
-
-250px\]\]
 
 Release
 

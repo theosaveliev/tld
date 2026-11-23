@@ -1,6 +1,6 @@
 # Grand Meadow
 
-**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grand_Meadow)
+**Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grand_Meadow)
 
 **Grand Meadow**
 
@@ -12,4 +12,4 @@
 | Region |  |
 | Location | Between Power Plant and Forager's Remnant |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |

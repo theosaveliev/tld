@@ -1,6 +1,6 @@
 # Lonely Cave
 
-**Categories:** Caves, Locations, Locations in Hushed River Valley, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lonely_Cave)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lonely_Cave)
 
 **Lonely Cave**
 
@@ -9,10 +9,13 @@
 |  | [LonelyCave](../assets/LonelyCave.png) |
 | **Location** |  |
 |  | [Lonely Cave Location](../assets/Lonely_Cave_Location.png) |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Region |  |
+| Location | Just north of the connection to [Mountain Town](./Mountain%20Town.md), on the high plateau |
 | Description | A small, isolated cave. |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+
+**Lonely Cave** is a small cave within the [Hushed River Valley](./Hushed%20River%20Valley.md).
 
 ## Access
 

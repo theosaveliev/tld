@@ -1,6 +1,6 @@
 # Lake Gunshots
 
-**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Gunshots)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Gunshots)
 
 **Contents**
 
@@ -17,7 +17,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Lake cabin4](../assets/Lake_cabin4.jpg) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | Lake Gunshots |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
 | Characters | [Forest Talkers](./Forest%20Talkers.md) |

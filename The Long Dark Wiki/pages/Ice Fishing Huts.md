@@ -1,6 +1,6 @@
 # Ice Fishing Huts
 
-**Categories:** Locations, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ice_Fishing_Huts)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ice_Fishing_Huts)
 
 **Ice Fishing Huts**
 
@@ -11,7 +11,9 @@
 |  | [Ice Fishing Huts Location](../assets/Ice_Fishing_Huts_Location.png) |
 | Region |  |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Ice Fishing Huts** is a location on [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md) in the [Mystery Lake region](./Mystery%20Lake%20%28region%29.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 

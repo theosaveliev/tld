@@ -11,8 +11,6 @@
 
 **Bench**
 
-\[\[File:
-
 ![Bench Table](../assets/BenchAndChair.jpg)
 
 ![Couch](../assets/BenchCouch.jpg)
@@ -20,8 +18,6 @@
 ![Chair Bench](../assets/WoodenBenchChair.jpg)
 
 ![Small Table](../assets/WoodenBenchTable.jpg)
-
-250px\]\]
 
 **General**
 

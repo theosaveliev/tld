@@ -61,8 +61,6 @@ There are 7 named locations within Track Section 4, including:
 - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md))
 - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md))
 
- |- | | valign="top" style="width:50%;" |
-
  There is also 1 indoor location that is tracked in the [Journal](./Journal.md).
 
 - There is a [Repair Depot](./Repair%20Depot.md) at the western Railyard, just before the Aurora Gate bridge.

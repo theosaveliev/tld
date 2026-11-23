@@ -1,6 +1,6 @@
 # Blackrock Prison
 
-**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Prison)
+**Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Prison)
 
 **Contents**
 
@@ -13,15 +13,29 @@
 
 **Blackrock Prison**
 
-| Property | Details |
-| --- | --- |
-|  | [Blackrock Region](../assets/Blackrock_Region.jpg) |
-| **Location** |  |
-|  | [Blackrock Prison Location](../assets/Blackrock_Prison_Location.png) |
-| Region |  |
-| Location | In the center of the map, following the main road |
-| **General** |  |
-| Type | Landmark\|- |
+![Blackrock Region](../assets/Blackrock_Region.jpg)
+
+**Location**
+
+![Blackrock Prison Location](../assets/Blackrock_Prison_Location.png)
+
+Region
+
+Location
+
+In the center of the map, following the main road
+
+**General**
+
+Type
+
+Has no shelter
+
+> “**Yeah, you know. Blackrock Federal Pen. Where they put the worst of the bad people...the bad people, bad people. People too bad for the Mainland. Its like an old penal colony or some damn thing.**”
+>
+> — Hobbs explaining Blackrock to Mackenzie
+
+**Blackrock Prison** is a federal penitentiary located on [Great Bear Island](./Great%20Bear%20Island.md), in the [region of Blackrock Mountain](./Blackrock.md). Additionally, a [Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) from Blackrock can be found near [Milton](./Milton.md) in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 ## History
 

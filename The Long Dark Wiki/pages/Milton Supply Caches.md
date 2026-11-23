@@ -1,6 +1,6 @@
 # Milton Supply Caches
 
-**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
 
 **Contents**
 
@@ -18,7 +18,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Hidden Cache](../assets/Hidden_Cache.png) |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | Milton Supply Caches |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 

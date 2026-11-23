@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Improvised Hatchet icon](../assets/Improvised_Hatchet_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.75 kg(3.85 lbs) |

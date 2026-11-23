@@ -1,6 +1,6 @@
 # Cabin \(Sundered Pass\)
 
-**Categories:** Indoor locations, Locations, Locations in Sundered Pass · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin_%28Sundered_Pass%29)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin_%28Sundered_Pass%29)
 
 **Cabin (Sundered Pass)**
 
@@ -8,10 +8,12 @@
 | --- | --- |
 |  | [Old Settlement Cabin](../assets/Old_Settlement_Cabin.jpg) |
 | **Location** |  |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Region |  |
+| Description | A cabin buried by an avalanche |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior The **Cabin (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md) at the [Old Settlement](./Old%20Settlement.md). |
+
+The **Cabin (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md) at the [Old Settlement](./Old%20Settlement.md).
 
 ## Overview
 

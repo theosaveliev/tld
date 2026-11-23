@@ -1,6 +1,6 @@
 # Marine Flare
 
-**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marine_Flare)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marine_Flare)
 
 **Contents**
 
@@ -18,8 +18,10 @@
 | --- | --- |
 |  | [Marine Flare icon](../assets/Marine_Flare_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
-| Firestarting Slot | Starter |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md)) |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |

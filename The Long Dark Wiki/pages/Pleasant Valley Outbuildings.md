@@ -1,6 +1,6 @@
 # Pleasant Valley Outbuildings
 
-**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Outbuildings)
+**Categories:** Locations, Locations in Pleasant Valley, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Outbuildings)
 
 **Pleasant Valley Outbuildings**
 
@@ -9,10 +9,15 @@
 |  | [305620 20160918104124 1](../assets/305620_20160918104124_1.png) |
 | **Location** |  |
 |  | [Pleasant Valley Outbuildings Location](../assets/Pleasant_Valley_Outbuildings_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
+| Region |  |
+| **General** |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+_Not to be confused with [Molly's Barn](./Barn%20%28Molly%27s%29.md)._
+
+The **Pleasant Valley Outbuildings** consist of several derelict structures and a barn. They are located approximately five minutes away from the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), if one follows the side road through the hayfield, and about five minutes northwest of the [Community Hall](./Community%20Hall.md) in [Thomson's Crossing](./Thomson%27s%20Crossing.md).
 
 ## Overview
 

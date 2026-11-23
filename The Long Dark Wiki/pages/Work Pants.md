@@ -1,6 +1,6 @@
 # Work Pants
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Pants)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Pants)
 
 **Work Pants**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Work Pants icon](../assets/Work_Pants_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

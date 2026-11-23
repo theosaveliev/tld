@@ -9,14 +9,17 @@
 |  | [Justy's Hovel](../assets/Justy%27s_Hovel.png) |
 | **Location** |  |
 |  | [Justy's Hovel Location](../assets/Justy%27s_Hovel_Location.png) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Region |  |
+| Location | Southeast corner of the map |
 | Description | a small cabin |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior / **Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md). |
+
+**Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
 ## Overview
 

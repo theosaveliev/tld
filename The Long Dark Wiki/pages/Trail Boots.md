@@ -1,6 +1,6 @@
 # Trail Boots
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trail_Boots)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trail_Boots)
 
 **Trail Boots**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Trail Boots icon](../assets/Trail_Boots_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer feet |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

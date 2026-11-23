@@ -1,6 +1,6 @@
 # Rail Tunnel
 
-**Categories:** Landmarks, Locations, Locations in Mystery Lake, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rail_Tunnel)
+**Categories:** Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rail_Tunnel)
 
 **Rail Tunnel**
 
@@ -9,9 +9,12 @@
 |  | [Rail Tunnel](../assets/Rail_Tunnel.jpg) |
 | **Location** |  |
 |  | [Rail Tunnel Location](../assets/Rail_Tunnel_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Location | Connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Rail Tunnel** is a location to the south in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

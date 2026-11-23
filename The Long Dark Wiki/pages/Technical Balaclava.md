@@ -1,6 +1,6 @@
 # Technical Balaclava
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
 
 **Technical Balaclava**
 
@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Technical Balaclava icon](../assets/Technical_Balaclava_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
 | Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs) |

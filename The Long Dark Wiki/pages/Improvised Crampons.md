@@ -1,6 +1,6 @@
 # Improvised Crampons
 
-**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
+**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
 
 **Contents**
 
@@ -17,8 +17,9 @@
 | --- | --- |
 |  | [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Accessory |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.0 °C(0 °F) |

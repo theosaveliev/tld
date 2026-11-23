@@ -1,10 +1,8 @@
 # Crashed Prison Transport Bus
 
-**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
 
 **Crashed Prison Transport Bus**
-
-\[\[File:
 
 ![Approach](../assets/PrisonBus.jpg)
 
@@ -18,9 +16,9 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)|-
-
 Location
+
+South of [Milton](./Milton.md), past the [Orca Gas Station](./Orca%20Gas%20Station.md)
 
 Description
 
@@ -30,7 +28,7 @@ A collapsed tunnel and crashed bus
 
 Type
 
-Outdoors|-
+**Wintermute**
 
 Missions
 

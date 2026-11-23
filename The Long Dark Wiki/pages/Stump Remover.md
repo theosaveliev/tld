@@ -1,6 +1,6 @@
 # Stump Remover
 
-**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stump_Remover)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stump_Remover)
 
 **Contents**
 
@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Stump Remover icon](../assets/Stump_Remover_icon.png) |
 | **General** |  |
-| Item Type | Material\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |

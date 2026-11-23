@@ -1,16 +1,12 @@
 # Misty Falls Picnic Area
 
-**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations, Sheltered locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misty_Falls_Picnic_Area)
+**Categories:** Locations, Locations in Pleasant Valley, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misty_Falls_Picnic_Area)
 
 **Misty Falls Picnic Area**
-
-\[\[File:
 
 ![Exterior](../assets/Misty_Falls_Picnic_Area.jpg)
 
 ![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -18,9 +14,9 @@
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)|-
-
 Location
+
+The north-east side corner of the region
 
 Description
 
@@ -30,7 +26,7 @@ A recreational area with a cave
 
 Type
 
-Outdoors|-
+**Misty Falls Picnic Area** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

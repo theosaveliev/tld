@@ -1,6 +1,6 @@
 # Survival School \(Predux\)/Transcript
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_School_%28Predux%29%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_School_%28Predux%29%2FTranscript)
 
 **Contents**
 
@@ -16,7 +16,8 @@
 | Property | Details |
 | --- | --- |
 |  | [The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md) |
 | Current | Survival School (Predux)/Transcript |
 | Next | [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md) |

@@ -1,6 +1,6 @@
 # Cook's Farm
 
-**Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cook's_Farm)
+**Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cook's_Farm)
 
 **Cook's Farm**
 
@@ -13,9 +13,11 @@
 | Location | Between the ravine and [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). |
 | Description | An old barn, partially open to the elements, surrounded by a bunch of hay bales and a tractor. |
 | **General** |  |
-| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+**Cook's Farm** is the easternmost of two farms in [Blackrock](./Blackrock.md), and is found not far from [Cutty's Cave](./Cutty%27s%20Cave.md) and [Foreman's Clearcut](./Foreman%27s%20Clearcut.md).
 
 ## Overview
 

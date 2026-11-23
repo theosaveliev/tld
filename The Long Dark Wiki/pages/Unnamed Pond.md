@@ -1,6 +1,6 @@
 # Unnamed Pond
 
-**Categories:** Lakes, Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Unnamed_Pond)
+**Categories:** Lakes, Locations, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Unnamed_Pond)
 
 **Unnamed Pond**
 
@@ -9,8 +9,11 @@
 |  | [Unnamed pond 01](../assets/Unnamed_pond_01.jpg) |
 | **Location** |  |
 |  | [Unnamed Pond Location](../assets/Unnamed_Pond_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+The **Unnamed Pond** is a location on the western side of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

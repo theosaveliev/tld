@@ -1,6 +1,6 @@
 # Last Resort Cannery
 
-**Categories:** Indoor locations, Industrial locations, Locations, Locations in Bleak Inlet, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Resort_Cannery)
+**Categories:** Industrial locations, Locations, Locations in Bleak Inlet, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Resort_Cannery)
 
 **Contents**
 
@@ -21,11 +21,14 @@
 |  | [SS BI Cannery03](../assets/SS-BI-Cannery03.jpg) |
 | **Location** |  |
 |  | [Last Resort Cannery Location](../assets/Last_Resort_Cannery_Location.png) |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Region |  |
+| Location | West of the [Long Bridge](./Long%20Bridge.md) |
 | Description | Fenced Industrial compound |
 | **General** |  |
-| Type | Industrial\|- |
-|  | Has an interior / **Last Resort Cannery** is a major location in [Bleak Inlet](./Bleak%20Inlet.md). The cannery complex features a renewable source of a few important materials, a special workshop with some unique tools, and a trailer that can be used for shelter. |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+
+**Last Resort Cannery** is a major location in [Bleak Inlet](./Bleak%20Inlet.md). The cannery complex features a renewable source of a few important materials, a special workshop with some unique tools, and a trailer that can be used for shelter.
 
 ## Overview
 

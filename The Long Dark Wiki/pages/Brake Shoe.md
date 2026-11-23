@@ -1,6 +1,6 @@
 # Brake Shoe
 
-**Categories:** DLC Content, Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Brake_Shoe)
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Brake_Shoe)
 
 **Brake Shoe**
 
@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Brake Shoe icon](../assets/Brake_Shoe_icon.png) |
 | **General** |  |
-| Item Type | Material\|- |
+| Item Type |  |
+| Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 

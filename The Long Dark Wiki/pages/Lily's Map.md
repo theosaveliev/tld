@@ -1,6 +1,6 @@
 # Lily's Map
 
-**Categories:** Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lily's_Map)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lily's_Map)
 
 **Lily's Map**
 
@@ -9,7 +9,8 @@
 |  | [Lily's Map icon](../assets/Lily%27s_Map_icon.png) |
 | **General** |  |
 | Item Type |  |
-| Wintermute | Yes\|- |
+| Wintermute |  |
+| **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.0 kg(0 lbs) |
 
 > “**A map that shows Lily's climbing route, leading out of the Milton area.**”

@@ -1,6 +1,6 @@
 # Forestry Lookout
 
-**Categories:** Locations, Locations in Mystery Lake, Lookout towers, Military/Sporting locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forestry_Lookout)
+**Categories:** Locations, Locations in Mystery Lake, Lookout towers · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forestry_Lookout)
 
 **Contents**
 
@@ -19,11 +19,14 @@
 |  | [New forestry lookout5](../assets/New_forestry_lookout5.jpg) |
 | **Location** |  |
 |  | [Forestry Lookout Location](../assets/Forestry_Lookout_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Description | A fire lookout tower that overlooks the region. |
 | **General** |  |
-| Type | Military/Sporting\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter **Forestry Lookout** is a tall, wooden structure found in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
+
+**Forestry Lookout** is a tall, wooden structure found in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

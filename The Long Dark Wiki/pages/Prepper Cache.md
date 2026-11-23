@@ -1,6 +1,6 @@
 # Prepper Cache
 
-**Categories:** Indoor locations, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepper_Cache)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepper_Cache)
 
 **Contents**
 
@@ -35,13 +35,9 @@
 
 **Prepper Cache**
 
-\[\[File:
-
 ![Exterior](../assets/Prepper_Cache.jpg)
 
 ![Interior](../assets/Prepper_cache_interior.png)
-
-250px\]\]
 
 **Location**
 
@@ -58,8 +54,6 @@ A reinforced underground shelter.
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
-
-Has an interior
 
 _Not to be confused with **[Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) or one of 4 [Signal Void](./Signal%20Void.md) bunkers.**_
 

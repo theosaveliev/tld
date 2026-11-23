@@ -1,6 +1,6 @@
 # Lonely Lighthouse
 
-**Categories:** Indoor locations, Islands, Locations, Locations in Desolation Point, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lonely_Lighthouse)
+**Categories:** Islands, Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lonely_Lighthouse)
 
 **Contents**
 
@@ -11,13 +11,9 @@
 
 **Lonely Lighthouse**
 
-\[\[File:
-
 ![Exterior](../assets/Lonely_Lighthouse.jpg)
 
 ![Interior](../assets/Lonely_Lighthouse_interior.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -25,23 +21,19 @@
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)|-
-
 Location
+
+The middle of the region
 
 **General**
 
 Type
-
-Residential|-
 
 Firebox
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
-
-Has an interior
 
 **Lonely Lighthouse** is a location in [Desolation Point](./Desolation%20Point.md).
 

@@ -9,7 +9,7 @@
 |  | [Stored Water](../assets/Stored_Water.jpg) |
 | **General** |  |
 | Item Type | Item |
-| Wintermute | No |
+| Wintermute |  |
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |

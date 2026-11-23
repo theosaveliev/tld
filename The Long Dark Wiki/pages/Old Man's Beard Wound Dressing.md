@@ -52,7 +52,7 @@ Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wo
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md)
 

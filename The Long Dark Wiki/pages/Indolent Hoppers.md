@@ -1,6 +1,6 @@
 # Indolent Hoppers
 
-**Categories:** Locations, Locations in Zone of Contamination, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Indolent_Hoppers)
+**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Indolent_Hoppers)
 
 **Indolent Hoppers**
 
@@ -9,12 +9,15 @@
 |  | [Indolent Hoppers](../assets/Indolent_Hoppers.jpg) |
 | **Location** |  |
 |  | [Indolent Hoppers Location](../assets/Indolent_Hoppers_Location.png) |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Region |  |
+| Location | Langston mine |
 | Description | A polluted trainyard close to the [Headframe Building](./Headframe%20Building.md) |
 | **General** |  |
 | Type |  |
 | Firebox |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+**Indolent Hoppers** is a polluted mess of abandoned destroyed buildings that once served as the main shipping and receiving trainyard for the [Langston Mine](./Langston%20Mine.md) mining complex.
 
 ## Overview
 

@@ -11,11 +11,7 @@
 
 **Prepared Acorns (Large Portion)**
 
-\[\[File:
-
 ![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png)
-
-250px\]\]
 
 Release
 
@@ -76,7 +72,7 @@ Prepared Acorns (Large Portion) can be created after shelling [Acorns](./Acorns.
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Prepared Acorns](./Prepared%20Acorns.md)
 

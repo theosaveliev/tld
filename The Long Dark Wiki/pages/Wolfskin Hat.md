@@ -1,6 +1,6 @@
 # Wolfskin Hat
 
-**Categories:** Clothing, Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Hat)
+**Categories:** Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Hat)
 
 **Contents**
 
@@ -16,8 +16,9 @@
 | --- | --- |
 |  | [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Head |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |

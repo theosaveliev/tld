@@ -6,13 +6,9 @@ _For the cooked version, see [Burbot (Cooked)](./Burbot%20%28Cooked%29.md)._
 
 **Burbot (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Burbot_%28Raw%29_icon.png)
 
 ![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png)
-
-250px\]\]
 
 Release
 

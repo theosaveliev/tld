@@ -13,4 +13,4 @@
 | Location | Behind the Camp Office |
 | Description | A winding pathway between two cliffs |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |

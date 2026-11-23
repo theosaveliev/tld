@@ -1,6 +1,6 @@
 # Whale Oil Can
 
-**Categories:** DLC Content, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -14,7 +14,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 | --- | --- |
 |  | [Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute |  |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.00-5.10 kg(-11.22 lbs) |

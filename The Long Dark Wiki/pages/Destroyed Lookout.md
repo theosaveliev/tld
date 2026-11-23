@@ -1,6 +1,6 @@
 # Destroyed Lookout
 
-**Categories:** Landmarks, Locations, Locations in Mystery Lake, Lookout towers, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Destroyed_Lookout)
+**Categories:** Locations, Locations in Mystery Lake, Lookout towers · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Destroyed_Lookout)
 
 **Destroyed Lookout**
 
@@ -9,9 +9,12 @@
 |  | [Destroyed lookout](../assets/Destroyed_lookout.jpg) |
 | **Location** |  |
 |  | [Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Region |  |
+| Description | A fallen fire lookout tower |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Destroyed Lookout** is the ruins of a fire tower located in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

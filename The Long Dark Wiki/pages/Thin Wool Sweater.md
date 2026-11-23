@@ -1,6 +1,6 @@
 # Thin Wool Sweater
 
-**Categories:** Clothing, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater)
 
 **Thin Wool Sweater**
 
@@ -8,7 +8,9 @@
 | --- | --- |
 |  | [Thin Wool Sweater icon](../assets/Thin_Wool_Sweater_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

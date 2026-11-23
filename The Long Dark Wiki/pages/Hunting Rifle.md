@@ -1,6 +1,6 @@
 # Hunting Rifle
 
-**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Rifle)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Rifle)
 
 **Contents**
 
@@ -46,7 +46,9 @@
 | --- | --- |
 |  | [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | Yes ([Trader](./Trader.md) only) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
 | Harvest | 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md) |

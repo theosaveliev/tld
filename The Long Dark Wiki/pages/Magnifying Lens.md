@@ -1,6 +1,6 @@
 # Magnifying Lens
 
-**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
 
 **Magnifying Lens**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) |
 | **General** |  |
-| Item Type | Fire Starting\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only on lower difficulties) |
-| Firestarting Slot | Starter |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |

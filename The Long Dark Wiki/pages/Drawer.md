@@ -19,8 +19,6 @@
 
 **Drawer**
 
-\[\[File:
-
 ![Food](../assets/DrawerFood.jpg)
 
 ![Table](../assets/DrawerBedside.jpg)
@@ -38,8 +36,6 @@
 ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg)
 
 ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg)
-
-250px\]\]
 
 Story item
 

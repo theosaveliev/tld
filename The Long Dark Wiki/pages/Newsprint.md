@@ -1,6 +1,6 @@
 # Newsprint
 
-**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Newsprint)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Newsprint)
 
 **Newsprint**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Newsprint icon](../assets/Newsprint_icon.png) |
 | **General** |  |
-| Item Type | Fire Starting\|- |
-| Firestarting Slot | Tinder |
+| Item Type |  |
+| Wintermute | No |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 

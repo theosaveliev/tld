@@ -1,13 +1,14 @@
 # Signal to Noise/Transcript
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Signal_to_Noise%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Signal_to_Noise%2FTranscript)
 
 **Signal to Noise/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) |
 | Current | Signal to Noise/Transcript |
 | Next | [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md) |

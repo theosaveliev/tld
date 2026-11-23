@@ -1,6 +1,6 @@
 # Lantern Fuel
 
-**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lantern_Fuel)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lantern_Fuel)
 
 **Contents**
 
@@ -16,9 +16,10 @@
 | --- | --- |
 |  | [Lantern Fuel icon](../assets/Lantern_Fuel_icon.png) |
 | **General** |  |
-| Item Type | Fire Starting\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes |
-| Firestarting Slot | Accelerant |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+40% |

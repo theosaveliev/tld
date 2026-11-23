@@ -1,16 +1,12 @@
 # Landslide
 
-**Categories:** Landmarks, Locations, Locations in Broken Railroad, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide)
+**Categories:** Locations, Locations in Broken Railroad · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide)
 
 **Landslide**
-
-\[\[File:
 
 ![Front Side](../assets/Landslide2.jpg)
 
 ![Back Side](../assets/Landslide.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -18,9 +14,9 @@
 
 Region
 
-[Broken Railroad](./Broken%20Railroad.md)|-
-
 Location
+
+Along the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), west of the transition to [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 Description
 
@@ -30,7 +26,9 @@ A landslide blocking the railroad
 
 Type
 
-Landmark|-
+_This is about the Broken Railroad location. There are other, similarly named locations in the [Hushed River Valley](./Landslide%20%28Hushed%20River%20Valley%29.md) and [Bleak Inlet](./Landslide%20%28Bleak%20Inlet%29.md)._
+
+**Landslide** is a location in [Broken Railroad](./Broken%20Railroad.md) near the eastern section of the map, close to the transition to [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
 ## Overview
 

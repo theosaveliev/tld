@@ -1,6 +1,6 @@
 # Aftermath/Transcript
 
-**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aftermath%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aftermath%2FTranscript)
 
 **Contents**
 
@@ -16,7 +16,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png) |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |
 | Current | Aftermath/Transcript |
 | Next | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |

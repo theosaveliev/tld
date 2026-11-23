@@ -1,6 +1,6 @@
 # Tail Section
 
-**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tail_Section)
+**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tail_Section)
 
 **Contents**
 
@@ -16,8 +16,11 @@
 |  | [Tail section2](../assets/Tail_section2.jpg) |
 | **Location** |  |
 |  | [Tail Section Location](../assets/Tail_Section_Location.png) |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+The **Tail Section** is a landmark at the [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md). The plane itself is marked as Grizzly Air.
 
 ## Overview
 

@@ -1,14 +1,10 @@
 # Train Unloading
 
-**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Unloading)
+**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Unloading)
 
 **Train Unloading**
 
-\[\[File:
-
 ![Train Unloading](../assets/Train_Unloading.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -16,19 +12,19 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+Near the connection to [The Ravine](./The%20Ravine.md)
 
 **General**
 
 Type
 
-Outdoors|-
-
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior **Train Unloading** is a location in [Coastal Highway](./Coastal%20Highway.md).
+Has a bed
+
+**Train Unloading** is a location in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

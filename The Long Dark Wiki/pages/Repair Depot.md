@@ -1,6 +1,6 @@
 # Repair Depot
 
-**Categories:** DLC Content, Indoor locations, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Repair_Depot)
+**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Repair_Depot)
 
 **Contents**
 
@@ -26,11 +26,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 | Region |  |
 | Description | A Train Repair Depot for maintenance crews of Cauldron Island. |
 | **General** |  |
-| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior / A **Repair Depot** is a major landmark building that can be found on [Cauldron Island](./Cauldron%20Island.md). There are currently two in the game. Located on [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) and [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md). |
+
+A **Repair Depot** is a major landmark building that can be found on [Cauldron Island](./Cauldron%20Island.md). There are currently two in the game. Located on [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) and [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
 ## Overview
 

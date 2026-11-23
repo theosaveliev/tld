@@ -1,6 +1,6 @@
 # Miner's Pants
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Pants)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Pants)
 
 **Miner's Pants**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Miner's Pants icon](../assets/Miner%27s_Pants_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

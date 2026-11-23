@@ -6,13 +6,9 @@ _For the cooked version, see [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md)._
 
 **Goldeye (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Goldeye_%28Raw%29_icon.png)
 
 ![Opened](../assets/Goldeye_%28Raw%29_Opened_icon.png)
-
-250px\]\]
 
 Release
 

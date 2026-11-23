@@ -1,6 +1,6 @@
 # The Best Defense
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Best_Defense)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Best_Defense)
 
 **Contents**
 
@@ -14,7 +14,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
 | Current | The Best Defense |
 | Next | [Signal to Noise](./Signal%20to%20Noise.md) |

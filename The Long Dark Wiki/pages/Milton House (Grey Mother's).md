@@ -1,6 +1,6 @@
 # Milton House \(Grey Mother's\)
 
-**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_House_%28Grey_Mother's%29)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_House_%28Grey_Mother's%29)
 
 **Contents**
 
@@ -16,12 +16,14 @@
 |  | [Milton House (Grey Mother's)](../assets/Milton_House_%28Grey_Mother%27s%29.png) |
 | **Location** |  |
 |  | [Milton House (Grey Mother's) Location](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | [Milton](./Milton.md) |
 | Description | A large two-story house with a lit fireplace |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior\|- |
+| **Wintermute** |  |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Characters | [Grey Mother](./Grey%20Mother.md) |
 

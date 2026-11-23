@@ -1,6 +1,6 @@
 # Tunnel
 
-**Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 2, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tunnel)
+**Categories:** DLC Content, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tunnel)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -10,13 +10,9 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Tunnel**
 
-\[\[File:
-
 ![West](../assets/Tunnel_West.jpg)
 
 ![East](../assets/Tunnel_East.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -24,9 +20,9 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
-[Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)|-
-
 Location
+
+semi middle Eastern and Western sections of the map
 
 Description
 
@@ -34,7 +30,7 @@ Description
 
 **General**
 
-Has no shelter **Tunnel** is a set of 2 locations in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
+**Tunnel** is a set of 2 locations in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
 ## Overview
 

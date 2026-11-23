@@ -15,7 +15,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | Current | Survival School |
 | Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |

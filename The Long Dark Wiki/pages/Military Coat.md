@@ -1,6 +1,6 @@
 # Military Coat
 
-**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Military_Coat)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Military_Coat)
 
 **Military Coat**
 
@@ -8,7 +8,9 @@
 | --- | --- |
 |  | [Military Coat icon](../assets/Military_Coat_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |

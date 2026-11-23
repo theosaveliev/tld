@@ -1,6 +1,6 @@
 # T\-Shirt
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/T-Shirt)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/T-Shirt)
 
 **T-Shirt**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [T Shirt icon](../assets/T-Shirt_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Inner torso |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |

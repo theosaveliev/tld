@@ -1,6 +1,6 @@
 # Paradise Lost \(Predux\)
 
-**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost_%28Predux%29)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost_%28Predux%29)
 
 **Contents**
 
@@ -16,7 +16,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Paradise Lost (Predux)](../assets/Paradise_Lost_%28Predux%29.jpg) |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) |
 | Current | Paradise Lost (Predux) |
 | Next | [Risk of Infection](./Risk%20of%20Infection.md) |

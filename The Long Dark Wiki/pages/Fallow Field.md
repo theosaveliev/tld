@@ -1,6 +1,6 @@
 # Fallow Field
 
-**Categories:** DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallow_Field)
+**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallow_Field)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -15,7 +15,8 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 |  | [Fallow Field](../assets/Fallow_Field.jpg) |
 | **Location** |  |
 |  | [Fallow Field Location](../assets/Fallow_Field_Location.png) |
-| Region | [Port Remnant](./Port%20Remnant.md)\|- |
+| Region |  |
+| Location | South west of Obstructed Transit |
 | Description | A field and pond below Desecrated Church |
 | **General** |  |
 |  | Has no shelter **Fallow Field** is a location in [Port Remnant](./Port%20Remnant.md). |

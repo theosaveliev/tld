@@ -1,6 +1,6 @@
 # Picnic Area
 
-**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Picnic_Area)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Picnic_Area)
 
 **Picnic Area**
 
@@ -9,10 +9,15 @@
 |  | [A 'Climbing Area' signpost for the Picnic Area](../assets/Milton_Park_Picnic_Area.jpg) |
 | **Location** |  |
 |  | [Picnic Area Location](../assets/Picnic_Area_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | [Milton Park](./Milton%20Park.md) |
 | Description | A picnic spot and climbing area |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+_Not to be confused with the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md)_
+
+The **Picnic Area** is a location in [Milton Park](./Milton%20Park.md) in the [Mountain Town](./Mountain%20Town.md) region, not far from [Orca Gas Station](./Orca%20Gas%20Station.md).
 
 ## Overview
 

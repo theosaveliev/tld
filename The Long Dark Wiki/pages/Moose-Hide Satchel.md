@@ -17,8 +17,9 @@
 | --- | --- |
 |  | [Moose Hide Satchel icon](../assets/Moose-Hide_Satchel_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Accessory |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.0 °C(0 °F) |

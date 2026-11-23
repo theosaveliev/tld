@@ -1,6 +1,6 @@
 # Poacher's Camp
 
-**Categories:** Locations, Locations in Forlorn Muskeg, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Poacher's_Camp)
+**Categories:** Locations, Locations in Forlorn Muskeg · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Poacher's_Camp)
 
 **Poacher's Camp**
 
@@ -9,10 +9,13 @@
 |  | [Poacher's Camp](../assets/Poacher%27s_Camp.png) |
 | **Location** |  |
 |  | [Poacher's Camp Location](../assets/Poacher%27s_Camp_Location.png) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Region |  |
+| Description | An open railcar |
 | **General** |  |
-| Type | Outdoors\|- |
-|  | Provides some shelter **Poacher's Camp** is one of the few marked locations within [Forlorn Muskeg](./Forlorn%20Muskeg.md). |
+| Type |  |
+| Firebox |  |
+
+**Poacher's Camp** is one of the few marked locations within [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
 ## Overview
 

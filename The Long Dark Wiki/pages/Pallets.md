@@ -1,16 +1,12 @@
 # Pallets
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pallets)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pallets)
 
 **Pallets**
-
-\[\[File:
 
 ![Stacked](../assets/PalletsStacked.jpg)
 
 ![Piled](../assets/PalletsPiled.jpg)
-
-250px\]\]
 
 **General**
 
@@ -19,8 +15,6 @@ Item Type
 Item
 
 Wintermute
-
-Yes
 
 _For a singular pallet, see [Pallet](./Pallet.md)._
 

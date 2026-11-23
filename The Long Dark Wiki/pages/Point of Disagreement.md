@@ -1,6 +1,6 @@
 # Point of Disagreement
 
-**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Point_of_Disagreement)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Point_of_Disagreement)
 
 **Point of Disagreement**
 
@@ -9,8 +9,11 @@
 |  | [Point of disagreement](../assets/Point_of_disagreement.jpg) |
 | **Location** |  |
 |  | [Point of Disagreement Location](../assets/Point_of_Disagreement_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Point of Disagreement** is a location/landmark in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

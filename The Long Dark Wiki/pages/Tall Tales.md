@@ -1,6 +1,6 @@
 # Tall Tales
 
-**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tall_Tales)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tall_Tales)
 
 **Contents**
 
@@ -15,8 +15,6 @@
 
 **Tall Tales**
 
-\[\[File:
-
 ![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png)
 
 ![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png)
@@ -25,11 +23,7 @@
 
 ![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 
-250px\]\]
-
 Episode
-
-[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)|-
 
 **Missions**
 

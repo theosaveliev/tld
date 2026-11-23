@@ -23,8 +23,6 @@
 
 **Mementos**
 
-\[\[File:
-
 ![Note 1](../assets/Mementos_Note_icon.png)
 
 ![Note 2](../assets/Mementos_Note_3_icon.png)
@@ -34,8 +32,6 @@
 ![Key 1](../assets/Mementos_Key_icon.png)
 
 ![Key 2](../assets/Mementos_Key_2_icon.png)
-
-250px\]\]
 
 **Properties**
 

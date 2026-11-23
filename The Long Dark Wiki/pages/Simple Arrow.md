@@ -1,6 +1,6 @@
 # Simple Arrow
 
-**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Arrow)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Arrow)
 
 **Contents**
 
@@ -18,7 +18,8 @@
 | --- | --- |
 |  | [Simple Arrow icon](../assets/Simple_Arrow_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |

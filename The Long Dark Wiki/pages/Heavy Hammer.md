@@ -30,7 +30,8 @@
 | --- | --- |
 |  | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |

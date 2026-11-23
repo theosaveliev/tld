@@ -1,6 +1,6 @@
 # Flight Jacket
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flight_Jacket)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flight_Jacket)
 
 **Flight Jacket**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Flight Jacket icon](../assets/Flight_Jacket_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |

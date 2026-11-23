@@ -1,6 +1,6 @@
 # Miserable Haunt
 
-**Categories:** Caves, Locations, Locations in Sundered Pass, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miserable_Haunt)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miserable_Haunt)
 
 **Miserable Haunt**
 
@@ -9,11 +9,14 @@
 |  | [Miserable Haunt](../assets/Miserable_Haunt.jpg) |
 | **Location** |  |
 |  | [Miserable Haunt Location](../assets/Miserable_Haunt_Location.png) |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Region |  |
+| Location | Close to [Seedling Spring](./Seedling%20Spring.md) |
 | Description | A cave in the southwestern most section of the map |
 | **General** |  |
-| Type | Cave\|- |
-|  | Provides some shelter / **Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+
+**Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md).
 
 ## Overview
 

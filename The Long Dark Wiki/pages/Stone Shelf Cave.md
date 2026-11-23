@@ -1,6 +1,6 @@
 # Stone Shelf Cave
 
-**Categories:** Caves, Locations, Locations in Ash Canyon, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stone_Shelf_Cave)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stone_Shelf_Cave)
 
 **Stone Shelf Cave**
 
@@ -9,8 +9,11 @@
 |  | [20201212003001 1](../assets/20201212003001_1.jpg) |
 | **Location** |  |
 |  | [Stone Shelf Cave Location](../assets/Stone_Shelf_Cave_Location.png) |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Cave\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Stone Shelf Cave** is a small cave in [Ash Canyon](./Ash%20Canyon.md) located in the west side of the region.
 
 ## Overview
 

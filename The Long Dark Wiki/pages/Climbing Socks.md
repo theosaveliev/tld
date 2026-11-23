@@ -1,6 +1,6 @@
 # Climbing Socks
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Climbing_Socks)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Climbing_Socks)
 
 **Climbing Socks**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Climbing Socks icon](../assets/Climbing_Socks_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes |
-| Clothing Slot | Inner feet |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

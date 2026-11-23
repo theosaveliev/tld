@@ -1,6 +1,6 @@
 # Landing Gear
 
-**Categories:** Landmarks, Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landing_Gear)
+**Categories:** Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landing_Gear)
 
 **Landing Gear**
 
@@ -9,9 +9,12 @@
 |  | [Landing Gear](../assets/Landing_Gear.png) |
 | **Location** |  |
 |  | [Landing Gear Location](../assets/Landing_Gear_Location.png) |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Region |  |
+| Location | Near the entrance to [Pleasant Valley](./Pleasant%20Valley.md) |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Landing Gear** is a part of a wrecked plane that crashed on the summit of [Timberwolf Mountain](./Timberwolf%20Mountain.md). It is found near a canyon leading to [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

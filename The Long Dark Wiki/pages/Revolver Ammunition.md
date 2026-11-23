@@ -13,13 +13,11 @@
 
 **Revolver ammunition**
 
-\[\[File:
-
 ![Box](../assets/Revolver_Ammunition_icon.png)
 
 ![Cartridge](../assets/Revolver_Cartridge_icon.png)
 
-Rifle ammunition icon.png|250px\]\]
+Rifle ammunition icon.png|
 
 **General**
 

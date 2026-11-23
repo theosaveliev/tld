@@ -1,6 +1,6 @@
 # Trapper's Homestead
 
-**Categories:** Indoor locations, Locations, Locations in Mystery Lake, Locations with a workbench, Military/Sporting locations, Safe Houses · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trapper's_Homestead)
+**Categories:** Locations, Locations in Mystery Lake, Locations with a workbench, Safe Houses · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trapper's_Homestead)
 
 **Contents**
 
@@ -13,13 +13,9 @@
 
 **Trapper's Homestead**
 
-\[\[File:
-
 ![Exterior](../assets/The_Long_Dark_main_menu_theme.jpg)
 
 ![Interior](../assets/Trapper%27s_Homestead_interior.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -27,9 +23,9 @@
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)|-
-
 Location
+
+On the southwestern corner of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 Description
 
@@ -38,8 +34,6 @@ A trapper's home.
 **General**
 
 Type
-
-Military/Sporting|-
 
 Firebox
 
@@ -50,6 +44,8 @@ Has a bed
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench|-
+
+**Trapper's Homestead** is a location in the south-western corner of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Dusting Sulfur
 
-**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
 
 **Contents**
 
@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Dusting Sulfur icon](../assets/Dusting_Sulfur_icon.png) |
 | **General** |  |
-| Item Type | Material\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |

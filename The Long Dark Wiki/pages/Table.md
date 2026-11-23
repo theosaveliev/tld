@@ -1,6 +1,6 @@
 # Table
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Table)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Table)
 
 **Contents**
 
@@ -12,8 +12,6 @@
 - [Large Table](#large-table)
 
 **Table**
-
-\[\[File:
 
 ![Small](../assets/Small_Table.jpg)
 
@@ -29,8 +27,6 @@
 
 ![Dining](../assets/Dining_Table.jpg)
 
-250px\]\]
-
 **General**
 
 Item Type
@@ -38,8 +34,6 @@ Item Type
 Item
 
 Wintermute
-
-Yes|-
 
 **Statistics**
 

@@ -1,6 +1,6 @@
 # Light Up The Night
 
-**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
 
 **Contents**
 
@@ -17,7 +17,8 @@
 | Property | Details |
 | --- | --- |
 |  | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | Light Up The Night |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 

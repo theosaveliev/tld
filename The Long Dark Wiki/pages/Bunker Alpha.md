@@ -1,6 +1,6 @@
 # Bunker Alpha
 
-**Categories:** Indoor locations, Locations, Locations in Bleak Inlet, Military/Sporting locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Alpha)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Alpha)
 
 **Contents**
 
@@ -18,10 +18,13 @@
 |  | [Bunker Alpha](../assets/Bunker_Alpha.jpg) |
 | **Location** |  |
 |  | [Bunker Alpha Location](../assets/Bunker_Alpha_Location.png) |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Region |  |
+| Location | On a hill near [Ravine's End Waterfall](./Ravine%27s%20End%20Waterfall.md) |
 | **General** |  |
-| Type | OutdoorsMilitary/Sporting\|- |
-|  | Has an interior / **Bunker Alpha** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Bleak Inlet](./Bleak%20Inlet.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+
+**Bunker Alpha** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Bleak Inlet](./Bleak%20Inlet.md).
 
 ## Unlocking
 

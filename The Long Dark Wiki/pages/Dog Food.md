@@ -11,13 +11,9 @@
 
 **Dog Food**
 
-\[\[File:
-
 ![Sealed](../assets/Dog_Food_icon.png)
 
 ![Opened](../assets/Dog_Food_%28Opened%29_icon.png)
-
-250px\]\]
 
 Release
 

@@ -1,6 +1,6 @@
 # Jeans
 
-**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeans)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeans)
 
 **Jeans**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Jeans icon](../assets/Jeans_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

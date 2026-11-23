@@ -1,16 +1,12 @@
 # Commuter's Lament
 
-**Categories:** Article stubs, Landmarks, Locations, Locations in Coastal Highway, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Commuter's_Lament)
+**Categories:** Article stubs, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Commuter's_Lament)
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Commuter%27s+Lament&action=edit expanding it].**
 
 **Commuter's Lament**
 
-\[\[File:
-
 ![Commuter's Lament](../assets/Commuter%27s_Lament.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -26,7 +22,7 @@ Connects Coastal Highway to [Old Island Connector](./Crumbling%20Highway.md)
 
 Type
 
-Landmark|-
+**Commuter's Lament** is a location in the south-easternmost corner of [Coastal Highway](./Coastal%20Highway.md). Its defining feature is the decaying roadway partly buried by rockfall debris.
 
 ## Overview
 

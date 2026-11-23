@@ -1,6 +1,6 @@
 # Wolfskin Pants
 
-**Categories:** Clothing, Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
+**Categories:** Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
 
 **Contents**
 
@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute | No |
 | Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |

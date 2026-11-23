@@ -1,13 +1,14 @@
 # Forest Talker Supply Caches
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
 
 **Forest Talker Supply Caches**
 
 | Property | Details |
 | --- | --- |
 |  | [Trailer supplies icon](../assets/Trailer_supplies_icon.png) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | Forest Talker Supply Caches |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
 | Characters | [Forest Talkers](./Forest%20Talkers.md) |

@@ -1,6 +1,6 @@
 # Mariner's Pea Coat
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mariner's_Pea_Coat)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mariner's_Pea_Coat)
 
 **Mariner's Pea Coat**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Mariner's Pea Coat icon](../assets/Mariner%27s_Pea_Coat_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |

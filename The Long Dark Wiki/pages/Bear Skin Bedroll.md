@@ -1,6 +1,6 @@
 # Bear Skin Bedroll
 
-**Categories:** Bedrolls, Beds, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
+**Categories:** Bedrolls, Beds · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
 
 **Contents**
 
@@ -17,7 +17,8 @@
 | --- | --- |
 |  | [Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)12.0 °C(21.6 °F) |

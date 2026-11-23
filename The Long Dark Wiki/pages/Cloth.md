@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Cloth icon](../assets/Cloth_icon.png) |
 | **General** |  |
-| Item Type | Material\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |

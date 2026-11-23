@@ -1,6 +1,6 @@
 # Hunting Knife
 
-**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Knife)
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Knife)
 
 **Contents**
 
@@ -15,7 +15,9 @@
 | --- | --- |
 |  | [Hunting Knife icon](../assets/Hunting_Knife_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes |

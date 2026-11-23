@@ -1,6 +1,6 @@
 # Quonset Garage
 
-**Categories:** Indoor locations, Industrial locations, Locations, Locations in Coastal Highway, Locations with a workbench, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quonset_Garage)
+**Categories:** Locations, Locations in Coastal Highway, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quonset_Garage)
 
 **Contents**
 
@@ -12,11 +12,7 @@
 
 **Quonset Garage**
 
-\[\[File:
-
 ![Garage 2019](../assets/Garage_2019.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -24,9 +20,9 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+In the [Coastal Townsite](./Coastal%20Townsite.md)
 
 Description
 
@@ -35,8 +31,6 @@ A small automotive garage and store
 **General**
 
 Type
-
-IndustrialStore|-
 
 Firebox
 
@@ -47,6 +41,8 @@ Has a bed
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench|-
+
+**Quonset Garage** (also known as **Quonset Gas Station**) is a location within the [Coastal Townsite](./Coastal%20Townsite.md) in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

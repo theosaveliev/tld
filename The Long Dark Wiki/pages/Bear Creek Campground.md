@@ -4,11 +4,7 @@
 
 **Bear Creek Campground**
 
-\[\[File:
-
 ![Bear Creek Campground 01](../assets/Bear_Creek_Campground_01.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -16,13 +12,13 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 **General**
 
 Type
 
-Outdoors|-
+Has no shelter
+
+**Bear Creek Campground** is a location to the west in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

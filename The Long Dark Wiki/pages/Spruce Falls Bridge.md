@@ -1,6 +1,6 @@
 # Spruce Falls Bridge
 
-**Categories:** Landmarks, Locations, Locations in Mountain Town, Outdoor locations, Sheltered locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spruce_Falls_Bridge)
+**Categories:** Locations, Locations in Mountain Town, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spruce_Falls_Bridge)
 
 **Spruce Falls Bridge**
 
@@ -9,10 +9,13 @@
 |  | [Spruce Falls Bridge with a sign to Milton](../assets/Spruce_Falls_Bridge.jpg) / _Spruce Falls Bridge with a sign to [Milton](./Milton.md)_ |
 | **Location** |  |
 |  | [Spruce Falls Bridge Location](../assets/Spruce_Falls_Bridge_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | The road above Milton |
 | Description | A bridge |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Spruce Falls Bridge** is a location in the [Mountain Town](./Mountain%20Town.md) region. The bridge is located beside Spruce Falls, high above [Milton](./Milton.md).
 
 ## Overview
 

@@ -12,13 +12,9 @@
 
 **Rainbow Trout (Raw)**
 
-\[\[File:
-
 ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png)
 
 ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
-
-250px\]\]
 
 Release
 

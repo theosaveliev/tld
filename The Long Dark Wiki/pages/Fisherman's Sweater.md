@@ -1,6 +1,6 @@
 # Fisherman's Sweater
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fisherman's_Sweater)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fisherman's_Sweater)
 
 **Fisherman's Sweater**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Fisherman's Sweater icon](../assets/Fisherman%27s_Sweater_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Inner torso |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

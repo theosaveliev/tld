@@ -1,6 +1,6 @@
 # Barn \(Molly's\)
 
-**Categories:** Indoor locations, Locations, Locations in Pleasant Valley, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Barn_%28Molly's%29)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Barn_%28Molly's%29)
 
 **Barn (Molly's)**
 
@@ -9,12 +9,15 @@
 |  | [Molly's Barn 2](../assets/Molly%27s_Barn_2.jpg) |
 | **Location** |  |
 |  | [Barn (Molly's) Location](../assets/Barn_%28Molly%27s%29_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | South of the farmhouse |
 | Sublocations | West of Heartbreak Bridge |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior / The **Barn** (Not to be confused with the one at the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)) is a small indoor hay storage shed south of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) and close to [Heartbreak Bridge](./Heartbreak%20Bridge.md). |
+
+The **Barn** (Not to be confused with the one at the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)) is a small indoor hay storage shed south of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) and close to [Heartbreak Bridge](./Heartbreak%20Bridge.md).
 
 ## Survival Mode
 

@@ -1,6 +1,6 @@
 # Improvised Down Bedroll
 
-**Categories:** Bedrolls, Beds, DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
+**Categories:** Bedrolls, Beds, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -14,7 +14,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 | --- | --- |
 |  | [Improvised Down Bedroll icon](../assets/Improvised_Down_Bedroll_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.10 kg(2.42 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)8.0 °C(14.4 °F) |
@@ -51,7 +52,7 @@ Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted 
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Bedroll](./Bedroll.md)
 

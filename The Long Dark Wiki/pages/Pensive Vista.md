@@ -1,6 +1,6 @@
 # Pensive Vista
 
-**Categories:** Caves, Locations, Locations in Hushed River Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pensive_Vista)
+**Categories:** Caves, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pensive_Vista)
 
 **Pensive Vista**
 
@@ -9,8 +9,11 @@
 |  | [Pensive Vista](../assets/Pensive_Vista.jpg) |
 | **Location** |  |
 |  | [Pensive Vista Location](../assets/Pensive_Vista_Location.png) |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+**Pensive Vista**is a location in [Hushed River Valley](./Hushed%20River%20Valley.md), offering a commanding view of the [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md) and [Moose Overlook](./Moose%20Overlook.md), amongst other locations.
 
 ## Overview
 

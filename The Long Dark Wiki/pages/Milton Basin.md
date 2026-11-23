@@ -1,6 +1,6 @@
 # Milton Basin
 
-**Categories:** Lakes, Locations, Locations in Mountain Town, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Basin)
+**Categories:** Lakes, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Basin)
 
 **Milton Basin**
 
@@ -9,10 +9,13 @@
 |  | [Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg) |
 | **Location** |  |
 |  | [Milton Basin Location](../assets/Milton_Basin_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Sublocations | [Hermit's Cabin](./Hermit%27s%20Cabin.md) / [Rocky Refuge](./Rocky%20Refuge.md) |
 | Description | A large lake that connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+
+**Milton Basin** is a large lake in [Mountain Town](./Mountain%20Town.md), located at the south area of the region and leading to [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
 ## Location
 

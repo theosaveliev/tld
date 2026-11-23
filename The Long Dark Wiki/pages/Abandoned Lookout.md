@@ -1,6 +1,6 @@
 # Abandoned Lookout
 
-**Categories:** Locations, Locations in Coastal Highway, Lookout towers, Military/Sporting locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Lookout)
+**Categories:** Locations, Locations in Coastal Highway, Lookout towers · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Abandoned_Lookout)
 
 **Contents**
 
@@ -18,12 +18,15 @@
 |  | [New forestry lookout](../assets/New_forestry_lookout.jpg) |
 | **Location** |  |
 |  | [Abandoned Lookout map](../assets/Abandoned_Lookout_map.png) |
-| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
+| Region |  |
+| Location | Between the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) and [Coastal Townsite](./Coastal%20Townsite.md) |
 | Description | A fire lookout tower |
 | **General** |  |
-| Type | Military/Sporting\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Provides some shelter **Abandoned Lookout** is small, abandoned lookout tower located to the north in [Coastal Highway](./Coastal%20Highway.md). |
+
+**Abandoned Lookout** is small, abandoned lookout tower located to the north in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

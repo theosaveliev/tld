@@ -1,6 +1,6 @@
 # Rabbitskin Mitts
 
-**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
+**Categories:** Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
 
 **Contents**
 
@@ -16,7 +16,9 @@
 | --- | --- |
 |  | [Rabbitskin Mitts icon](../assets/Rabbitskin_Mitts_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

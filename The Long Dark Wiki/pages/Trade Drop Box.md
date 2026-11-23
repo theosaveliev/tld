@@ -4,13 +4,9 @@
 
 **Trade Drop Box**
 
-\[\[File:
-
 ![Locked](../assets/Trade_Drop_Box.jpg)
 
 ![Unlocked](../assets/Trade_Drop_Box_Unlocked.png)
-
-250px\]\]
 
 Release
 

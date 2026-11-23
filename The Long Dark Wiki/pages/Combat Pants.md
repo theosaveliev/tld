@@ -1,6 +1,6 @@
 # Combat Pants
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Combat_Pants)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Combat_Pants)
 
 **Combat Pants**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Combat Pants icon](../assets/Combat_Pants_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

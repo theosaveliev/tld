@@ -1,6 +1,6 @@
 # Bunker Omega
 
-**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Omega)
+**Categories:** Locations, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Omega)
 
 **Contents**
 
@@ -16,11 +16,14 @@
 |  | [Bunker Omega outside](../assets/Bunker_Omega_outside.png) |
 | **Location** |  |
 |  | [Bunker Omega Location](../assets/Bunker_Omega_Location.png) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Region |  |
+| Location | A short walk northeast of [Justy's Hovel](./Justy%27s%20Hovel.md). |
 | Description | A large, reinforced underground shelter. |
 | **General** |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
+
+**Bunker Omega** is the last and largest of the bunkers added as part of the [Signal Void](./Signal%20Void.md) Tale in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
 ## Unlocking
 

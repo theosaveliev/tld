@@ -1,6 +1,6 @@
 # Mukluks
 
-**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mukluks)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mukluks)
 
 **Mukluks**
 
@@ -8,7 +8,9 @@
 | --- | --- |
 |  | [Mukluks icon](../assets/Mukluks_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |

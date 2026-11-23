@@ -1,6 +1,6 @@
 # Miner's Jacket
 
-**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
 
 **Miner's Jacket**
 
@@ -8,7 +8,8 @@
 | --- | --- |
 |  | [Miner's Jacket icon](../assets/Miner%27s_Jacket_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
 | Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |

@@ -1,6 +1,6 @@
 # Convenience Store
 
-**Categories:** Indoor locations, Locations, Locations in Mountain Town, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convenience_Store)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convenience_Store)
 
 **Contents**
 
@@ -11,13 +11,9 @@
 
 **Convenience Store**
 
-\[\[File:
-
 ![Floor](../assets/SS-MT-Orca-02.jpg)
 
 ![Back](../assets/SS-MT-Orca-01.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -25,9 +21,9 @@
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)|-
-
 Location
+
+South of [Milton](./Milton.md)
 
 Description
 
@@ -37,15 +33,11 @@ An abandoned gas station
 
 Type
 
-Store|-
-
 Firebox
 
 ![Bed icon](../assets/Bed_icon.png)
 
 Has a bed
-
-Has an interior|-
 
 **Wintermute**
 

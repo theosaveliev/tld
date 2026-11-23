@@ -1,6 +1,6 @@
 # Picnic Spot
 
-**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Picnic_Spot)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Picnic_Spot)
 
 **Picnic Spot**
 
@@ -9,8 +9,11 @@
 |  | [Picnic Spot](../assets/Picnic_Spot.jpg) |
 | **Location** |  |
 |  | [Picnic Spot Location](../assets/Picnic_Spot_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+The **Picnic Spot** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

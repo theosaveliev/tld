@@ -11,15 +11,11 @@
 
 **Radio**
 
-\[\[File:
-
 ![Radio](../assets/Radio.jpg)
 
 ![Vehicle](../assets/Radio_Vehicle.jpg)
 
 ![Trader](../assets/Trader%27s_Radio.jpg)
-
-250px\]\]
 
 Story item
 

@@ -1,6 +1,6 @@
 # Forest Cave \(Pleasant Valley location\)
 
-**Categories:** Caves, Locations, Locations in Pleasant Valley, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Cave_%28Pleasant_Valley_location%29)
+**Categories:** Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Cave_%28Pleasant_Valley_location%29)
 
 **Forest Cave**
 
@@ -9,9 +9,14 @@
 |  | [SS PV ForestCave (1)](../assets/SS-PV-ForestCave_%281%29.jpg) |
 | **Location** |  |
 |  | [Forest Cave PV Location](../assets/Forest_Cave_PV_Location.png) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Region |  |
+| Location | Near [Pensive Pond](./Pensive%20Pond.md) |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+
+_See also: [Forest Cave in Timberwolf Mountain](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md)_
+
+**Forest Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 

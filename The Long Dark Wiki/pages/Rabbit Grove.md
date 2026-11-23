@@ -1,14 +1,10 @@
 # Rabbit Grove
 
-**Categories:** Indoor locations, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
+**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
 
 **Rabbit Grove**
 
-\[\[File:
-
 ![Rabbit Grove](../assets/Rabbit_Grove.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -16,9 +12,9 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+Across the creek from [Bear Creek Campground](./Bear%20Creek%20Campground.md)
 
 **General**
 
@@ -28,7 +24,7 @@ Type
 
 Has a bed
 
-Has an interior **Rabbit Grove** is a location in [Coastal Highway](./Coastal%20Highway.md).
+**Rabbit Grove** is a location in [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 

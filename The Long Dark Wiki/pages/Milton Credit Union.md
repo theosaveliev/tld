@@ -1,6 +1,6 @@
 # Milton Credit Union
 
-**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Credit_Union)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Credit_Union)
 
 **Milton Credit Union**
 
@@ -9,10 +9,12 @@
 |  | [Milton Credit Union exterior](../assets/Milton_Credit_Union_exterior.jpg) |
 | **Location** |  |
 |  | [Milton Credit Union Location](../assets/Milton_Credit_Union_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | Opposite [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) in [Milton](./Milton.md) |
 | Description | A former bank with several rooms, including a bank vault. |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| **Wintermute** |  |
 | Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**

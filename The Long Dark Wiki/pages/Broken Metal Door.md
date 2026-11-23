@@ -4,11 +4,7 @@
 
 **Broken Metal Door**
 
-\[\[File:
-
 ![20190302005444 1](../assets/20190302005444_1.jpg)
-
-250px\]\]
 
 **General**
 

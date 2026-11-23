@@ -46,7 +46,7 @@ A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredien
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Hook](./Hook.md)
 

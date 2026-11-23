@@ -1,6 +1,6 @@
 # Cave \(Mountain Town location\)
 
-**Categories:** Caves, Indoor locations, Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Mountain_Town_location%29)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Mountain_Town_location%29)
 
 **Cave**
 
@@ -9,11 +9,14 @@
 |  | [Milton cave](../assets/Milton_cave.png) |
 | **Location** |  |
 |  | [Cave Mountain Town Location](../assets/Cave_Mountain_Town_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | East of [Radio Tower](./Radio%20Tower.md) |
 | Description | A moderately sized explorable cave |
 | **General** |  |
-| Type | Cave\|- |
-|  | Has an interior / **Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) |  |
+
+**Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md).
 
 ## Overview
 

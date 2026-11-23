@@ -13,7 +13,8 @@
 | Location | Next to [Grand Meadow](./Grand%20Meadow.md), near the [Power Plant](./Power%20Plant.md) |
 | Description | Ruins of a remote cabin with an outdoor workbench |
 | **General** |  |
-| Type | Outdoors\|- |
+| Type |  |
+| Firebox |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Gallery

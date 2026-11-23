@@ -1,18 +1,14 @@
 # Metal Lamp
 
-**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Lamp)
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Lamp)
 
 **Metal Lamp**
-
-\[\[File:
 
 ![Small](../assets/MetalLamp.jpg)
 
 ![Large](../assets/Metal_Lamp_Large.jpg)
 
 ![Aurora](../assets/MetalLampAurora.jpg)
-
-250px\]\]
 
 **General**
 
@@ -22,7 +18,7 @@ Item
 
 Wintermute
 
-Yes A **Metal Lamp** is an interactable item that can be harvested. It requires a [Hacksaw](./Hacksaw.md) to harvest [Scrap Metal](./Scrap%20Metal.md). They are mainly found in homes and industrial areas. They also become electrically energized when an [Aurora](./Aurora.md) or [Glimmer Fog](./Glimmer%20Fog.md) is active.
+A **Metal Lamp** is an interactable item that can be harvested. It requires a [Hacksaw](./Hacksaw.md) to harvest [Scrap Metal](./Scrap%20Metal.md). They are mainly found in homes and industrial areas. They also become electrically energized when an [Aurora](./Aurora.md) or [Glimmer Fog](./Glimmer%20Fog.md) is active.
 
 | Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
 | --- | --- | --- | --- | --- |

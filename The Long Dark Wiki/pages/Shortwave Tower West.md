@@ -1,6 +1,6 @@
 # Shortwave Tower West
 
-**Categories:** Locations, Locations in Forlorn Muskeg, Military/Sporting locations, Outdoor locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower_West)
+**Categories:** Locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shortwave_Tower_West)
 
 **Shortwave Tower West**
 
@@ -9,9 +9,18 @@
 |  | [20190101173144 1](../assets/20190101173144_1.jpg) |
 | **Location** |  |
 |  | [Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Region |  |
+| Location | no |
 | **General** |  |
-| Type | OutdoorsMilitary/Sporting\|- |
+| Type |  |
+
+[Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+
+**This article's name is conjectural.**; Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+**Shortwave Tower West** is an unofficial location in [Forlorn Muskeg](./Forlorn%20Muskeg.md), in addition to the ([North](./Shortwave%20Tower.md) and [East](./Shortwave%20Tower%20East.md)) shortwave towers. Unlike the other two radio towers, this one has been broken and has fallen over.
 
 ## Surroundings
 

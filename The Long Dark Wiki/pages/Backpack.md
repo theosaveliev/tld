@@ -4,13 +4,9 @@
 
 **Backpack**
 
-\[\[File:
-
 ![Green](../assets/Backpack_Green.jpg)
 
 ![Forest Talker](../assets/Forest_Talker_Supplies_icon.png)
-
-250px\]\]
 
 Release
 

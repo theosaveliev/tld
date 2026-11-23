@@ -1,14 +1,10 @@
 # Waterfront Cottages
 
-**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Waterfront_Cottages)
+**Categories:** Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Waterfront_Cottages)
 
 **Waterfront Cottages**
 
-\[\[File:
-
 ![Waterfront Cottages](../assets/Waterfront_Cottages.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -16,9 +12,9 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+In the southeast corner of the region
 
 Description
 
@@ -28,11 +24,9 @@ A small cluster of houses
 
 Type
 
-Residential|-
-
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior
+Has a bed
 
 **Waterfront Cottages** is a collection of cottages to the southeast of the [Coastal Highway](./Coastal%20Highway.md) region.
 

@@ -4,13 +4,9 @@
 
 **Fridge**
 
-\[\[File:
-
 ![Fridge](../assets/Fridge.png)
 
 ![Soda](../assets/Fridge_Soda.jpg)
-
-250px\]\]
 
 Release
 

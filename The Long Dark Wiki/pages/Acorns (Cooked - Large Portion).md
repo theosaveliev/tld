@@ -11,11 +11,7 @@
 
 **Acorns (Cooked - Large Portion)**
 
-\[\[File:
-
 ![Large Portion](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png)
-
-250px\]\]
 
 Release
 

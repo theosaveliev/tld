@@ -1,6 +1,6 @@
 # Hibernia Processing
 
-**Categories:** Indoor locations, Industrial locations, Locations, Locations in Desolation Point, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hibernia_Processing)
+**Categories:** Locations, Locations in Desolation Point, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hibernia_Processing)
 
 **Contents**
 
@@ -13,13 +13,9 @@
 
 **Hibernia Processing**
 
-\[\[File:
-
 ![Exterior](../assets/Hibernia_Processing_Area_View_01.jpg)
 
 ![Interior](../assets/Hibernia_Processing_Hall_From_Door.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -27,9 +23,9 @@
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)|-
-
 Location
+
+Across the road from [Abandoned Mine No. 5 (West)](./Abandoned%20Mine%20No.%205.md)
 
 Description
 
@@ -38,8 +34,6 @@ An old whaling station
 **General**
 
 Type
-
-Industrial|-
 
 Firebox
 
@@ -50,6 +44,8 @@ Has a bed
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench|-
+
+**Hibernia Processing** is a whaling station located on the coast in [Desolation Point](./Desolation%20Point.md).
 
 ## Overview
 

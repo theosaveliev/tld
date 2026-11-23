@@ -1,6 +1,6 @@
 # High Meadow
 
-**Categories:** Locations, Locations in Ash Canyon, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Meadow)
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Meadow)
 
 **High Meadow**
 
@@ -9,8 +9,10 @@
 |  | [High Meadows](../assets/High_Meadows.jpg) |
 | **Location** |  |
 |  | [High Meadow Location](../assets/High_Meadow_Location.png) |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Outdoors\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+|  | Has no shelter **High Meadow** is a location in [Ash Canyon](./Ash%20Canyon.md). |
 
 ## Overview
 

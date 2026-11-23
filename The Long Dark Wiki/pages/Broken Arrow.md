@@ -1,6 +1,6 @@
 # Broken Arrow
 
-**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Arrow)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Arrow)
 
 **Broken Arrow**
 
@@ -8,7 +8,9 @@
 | --- | --- |
 |  | [Broken Arrow icon](../assets/Broken_Arrow_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute |  |
+| **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
 | Harvest | 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md) |
 

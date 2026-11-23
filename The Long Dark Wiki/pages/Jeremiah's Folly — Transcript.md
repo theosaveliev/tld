@@ -1,13 +1,14 @@
 # Jeremiah's Folly/Transcript
 
-**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly%2FTranscript)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly%2FTranscript)
 
 **Jeremiah's Folly/Transcript**
 
 | Property | Details |
 | --- | --- |
 |  | [Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg) |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
 | Current | Jeremiah's Folly/Transcript |
 | Next | [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md) |

@@ -1,6 +1,6 @@
 # Old Spence Family Homestead
 
-**Categories:** Industrial locations, Locations, Locations in Forlorn Muskeg, Locations with a forge, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Spence_Family_Homestead)
+**Categories:** Locations, Locations in Forlorn Muskeg, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Spence_Family_Homestead)
 
 **Contents**
 
@@ -16,11 +16,15 @@
 |  | [20170304095533 1](../assets/20170304095533_1.jpg) |
 | **Location** |  |
 |  | [Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Region |  |
+| Description | A small structure offering little protection from the elements |
 | **General** |  |
-| Type | Industrial\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
+
+**Old Spence Family Homestead** is a derelict farming area found within [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
 ## Overview
 

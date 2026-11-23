@@ -1,6 +1,6 @@
 # Fallow Dugout
 
-**Categories:** Caves, Locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallow_Dugout)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallow_Dugout)
 
 **Fallow Dugout**
 
@@ -13,8 +13,10 @@
 | Location | On the south-east bank of shoulder lake |
 | Description | A cave at shoulder lake |
 | **General** |  |
-| Type | Cave\|- |
-|  | Provides some shelter **Fallow Dugout** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md), east of [Shoulder Lake](./Shoulder%20Lake.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) |  |
+
+**Fallow Dugout** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md), east of [Shoulder Lake](./Shoulder%20Lake.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Festive Sweater
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Festive_Sweater)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Festive_Sweater)
 
 **Festive Sweater**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Festive Sweater icon](../assets/Festive_Sweater_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Inner torso |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

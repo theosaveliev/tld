@@ -1,28 +1,24 @@
 # Cave \(Timberwolf Mountain location 1\)
 
-**Categories:** Article stubs, Caves, Indoor locations, Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Timberwolf_Mountain_location_1%29)
+**Categories:** Article stubs, Locations, Locations in Timberwolf Mountain · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Timberwolf_Mountain_location_1%29)
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cave+%28Timberwolf+Mountain+location+1%29&action=edit expanding it].**
 
 **Cave (Timberwolf Mountain location 1)**
 
-\[\[File:
-
 ![Cave (Timberwolf Mountain location 1) exterior](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg)
-
-250px\]\]
 
 **Location**
 
 Region
 
-[Timberwolf Mountain](./Timberwolf%20Mountain.md)|-
-
 **General**
 
 Type
 
-Cave|-
+_This page is for one of the two generically named caves in Timberwolf Mountain. For a list of unnamed caves, see [Cave (disambiguation)](./Cave%20%28disambiguation%29.md)._
+
+**Cave** is an explorable cave located in [Timberwolf Mountain](./Timberwolf%20Mountain.md) on the way up to the [Summit](./Summit.md). It connects the east path, which is near the [Engine](./Engine%20%28East%29.md) close to the (Cave D exit), with the west path, near the other [Engine](./Engine%20%28East%29.md) close to the (Cave C exit).
 
 ## Overview
 

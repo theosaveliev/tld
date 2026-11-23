@@ -1,6 +1,6 @@
 # Broken Bridge \(Desolation Point location\)
 
-**Categories:** Landmarks, Locations, Locations in Desolation Point, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Bridge_%28Desolation_Point_location%29)
+**Categories:** Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Bridge_%28Desolation_Point_location%29)
 
 **Broken Bridge (Desolation Point location)**
 
@@ -9,8 +9,13 @@
 |  | [Broken Bridge](../assets/Broken_Bridge.jpg) |
 | **Location** |  |
 |  | [Broken Bridge (Desolation Point location) Location](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png) |
-| Region | [Desolation Point](./Desolation%20Point.md)\|- |
-| Type | Landmark\|- |
+| Region |  |
+| **General** |  |
+| Type |  |
+
+_See also [Broken Bridge (disambiguation)](./Broken%20Bridge%20%28disambiguation%29.md)._
+
+**Broken Bridge** is one of two bridges in [Desolation Point](./Desolation%20Point.md).
 
 ## Overview
 

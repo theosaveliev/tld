@@ -1,6 +1,6 @@
 # Loitering Marsh
 
-**Categories:** Locations, Locations in Transfer Pass, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loitering_Marsh)
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loitering_Marsh)
 
 **Loitering Marsh**
 
@@ -9,7 +9,8 @@
 |  | [Loitering Marsh](../assets/Loitering_Marsh.jpg) |
 | **Location** |  |
 |  | [Loitering Marsh Location](../assets/Loitering_Marsh_Location.png) |
-| Region | [Transfer Pass](./Transfer%20Pass.md)\|- |
+| Region |  |
+| **General** |  |
 |  | Has no shelter / **Loitering Marsh** is a location in [Transfer Pass](./Transfer%20Pass.md), located due south of [Vacant Depot](./Vacant%20Depot.md) and underneath the [Broad Aerie](./Broad%20Aerie.md). |
 
 ## Overview

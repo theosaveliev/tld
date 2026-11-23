@@ -1,6 +1,6 @@
 # Coastal House
 
-**Categories:** Indoor locations, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_House)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_House)
 
 **Contents**
 
@@ -15,8 +15,6 @@
 
 **Coastal House**
 
-\[\[File:
-
 ![Type 1](../assets/Coastal_House_1.jpg)
 
 ![Type 2](../assets/Coastal_House_2.jpg)
@@ -27,21 +25,17 @@
 
 ![Type 5](../assets/Jackrabbit_Island_-_house.jpg)
 
-250px\]\]
-
 **Location**
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+[Coastal Townsite](./Coastal%20Townsite.md)
 
 **General**
 
 Type
-
-Residential|-
 
 Firebox
 
@@ -49,7 +43,7 @@ Firebox
 
 Has a bed
 
-Has an interior A **Coastal House**is a type of house found throughout the [Coastal Highway](./Coastal%20Highway.md) region. Many of these buildings have the same layout as the [Crossroads House](./Crossroads%20House.md) and [Milton House](./Milton%20House.md). A few Cabins can be found throughout the region, but none are considered Coastal Houses.
+A **Coastal House**is a type of house found throughout the [Coastal Highway](./Coastal%20Highway.md) region. Many of these buildings have the same layout as the [Crossroads House](./Crossroads%20House.md) and [Milton House](./Milton%20House.md). A few Cabins can be found throughout the region, but none are considered Coastal Houses.
 
 ## Overview
 

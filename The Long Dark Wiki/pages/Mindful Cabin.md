@@ -1,6 +1,6 @@
 # Mindful Cabin
 
-**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mindful_Cabin)
+**Categories:** Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mindful_Cabin)
 
 **Mindful Cabin**
 
@@ -9,14 +9,17 @@
 |  | [Mindful cabin](../assets/Mindful_cabin.jpg) |
 | **Location** |  |
 |  | [Mindful Cabin Location](../assets/Mindful_Cabin_Location.png) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Region |  |
+| Location | Towards the north-west corner of the region, on a hill at the end of the road. |
 | Description | A cabin overlooking |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
 | [Forge icon green](../assets/Forge_icon_green.png) |  |
 | [Workbench icon green](../assets/Workbench_icon_green.png) |  |
-|  | Has an interior / **Mindful Cabin** is located in the north-west part of the [Forsaken Airfield](./Forsaken%20Airfield.md), at the end of the road. |
+
+**Mindful Cabin** is located in the north-west part of the [Forsaken Airfield](./Forsaken%20Airfield.md), at the end of the road.
 
 ## Overview
 

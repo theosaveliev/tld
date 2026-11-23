@@ -1,6 +1,6 @@
 # The Riken
 
-**Categories:** Indoor locations, Industrial locations, Locations, Locations in Desolation Point, Locations with a forge · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Riken)
+**Categories:** Locations, Locations in Desolation Point, Locations with a forge · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Riken)
 
 **Contents**
 
@@ -16,11 +16,15 @@
 |  | [The Riken](../assets/The_Riken.jpg) |
 | **Location** |  |
 |  | [The Riken Location](../assets/The_Riken_Location.png) |
-| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Region |  |
+| Location | In between the [Lonely Lighthouse](./Lonely%20Lighthouse.md) and [Hibernia Processing](./Hibernia%20Processing.md) |
 | Description | An old whaling ship |
 | **General** |  |
-| Type | Industrial\|- |
+| Type |  |
+| Firebox |  |
 | [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
+
+**The Riken** is a location in [Desolation Point](./Desolation%20Point.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Jerry Can
 
-**Categories:** Fire Starting, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jerry_Can)
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jerry_Can)
 
 **Contents**
 
@@ -15,7 +15,8 @@
 | --- | --- |
 |  | [Jerry Can icon](../assets/Jerry_Can_icon.png) |
 | **General** |  |
-| Item Type | Tool\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes (very rarely through [Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 - 3.30 kg(0.22 - 7.26 lbs) |

@@ -1,6 +1,6 @@
 # Mining Camp
 
-**Categories:** Industrial locations, Locations, Locations in Ash Canyon, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mining_Camp)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mining_Camp)
 
 **Contents**
 
@@ -16,10 +16,13 @@
 |  | [20201209233317 1](../assets/20201209233317_1.jpg) |
 | **Location** |  |
 |  | [Mining Camp Location](../assets/Mining_Camp_Location.png) |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Region |  |
+| Location | The northwest corner of [Ash Canyon](./Ash%20Canyon.md) |
 | Description | A derelict mining camp connecting to the [Gold Mine](./Gold%20Mine.md) |
 | **General** |  |
-| Type | Industrial\|- |
+| Type |  |
+
+The **Mining Camp** is an abandoned mining camp that houses the entrance to the [Gold Mine](./Gold%20Mine.md).
 
 ## Overview
 

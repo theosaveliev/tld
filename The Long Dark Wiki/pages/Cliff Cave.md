@@ -1,6 +1,6 @@
 # Cliff Cave
 
-**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cliff_Cave)
+**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cliff_Cave)
 
 **Cliff Cave**
 
@@ -12,8 +12,10 @@
 | Region |  |
 | Description | A small cave hidden underneath a cliff |
 | **General** |  |
-| Type | Cave\|- |
-|  | Provides some shelter / **Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+
+**Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md).
 
 ## Overview
 

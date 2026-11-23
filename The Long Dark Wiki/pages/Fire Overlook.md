@@ -1,6 +1,6 @@
 # Fire Overlook
 
-**Categories:** Landmarks, Locations, Locations in Ash Canyon, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Overlook)
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Overlook)
 
 **Fire Overlook**
 
@@ -9,9 +9,11 @@
 |  | [20201210005637 1](../assets/20201210005637_1.jpg) |
 | **Location** |  |
 |  | [Fire Overlook Location](../assets/Fire_Overlook_Location.png) |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Region |  |
+| Description | An overlook over a canyon |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+|  | Has no shelter / **Fire Overlook** is a landmark just to the northwest of [Homesteader's Respite](./Homesteader%27s%20Respite.md). |
 
 ## Overview
 

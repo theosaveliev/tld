@@ -1,6 +1,6 @@
 # Carter Hydro Dam
 
-**Categories:** Indoor locations, Industrial locations, Locations, Locations in Mystery Lake, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam)
+**Categories:** Locations, Locations in Mystery Lake, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam)
 
 **Contents**
 
@@ -20,13 +20,9 @@
 
 **Carter Hydro Dam**
 
-\[\[File:
-
 ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png)
 
 ![Interior](../assets/Carter_Hydro_Dam_Interior.png)
-
-250px\]\]
 
 **Location**
 
@@ -34,9 +30,9 @@
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)|-
-
 Location
+
+On the southern side of [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 Description
 
@@ -46,13 +42,13 @@ A hydroelectric dam.
 
 Type
 
-Industrial|-
-
 Firebox
 
 ![Workbench icon green](../assets/Workbench_icon_green.png)
 
 Has a workbench|-
+
+**Wintermute**
 
 Missions
 

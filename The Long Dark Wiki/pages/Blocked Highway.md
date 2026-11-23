@@ -1,6 +1,6 @@
 # Blocked Highway
 
-**Categories:** Landmarks, Locations, Locations in Desolation Point, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blocked_Highway)
+**Categories:** Locations, Locations in Desolation Point · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blocked_Highway)
 
 **Blocked Highway**
 
@@ -9,9 +9,12 @@
 |  | [Blocked Highway](../assets/Blocked_Highway.jpg) |
 | **Location** |  |
 |  | [Blocked Highway Location](../assets/Blocked_Highway_Location.png) |
-| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Region |  |
+| Location | At one end of the highway that passes through the region |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
+
+**Blocked Highway** is a location in [Desolation Point](./Desolation%20Point.md).
 
 ## Overview
 

@@ -1,13 +1,14 @@
 # Fallen Star
 
-**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star)
 
 **Fallen Star**
 
 | Property | Details |
 | --- | --- |
 |  | [Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png) |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Previous | [Trauma](./Trauma.md) |
 | Current | Fallen Star |
 | Next | [Coming Storm](./Coming%20Storm.md) |

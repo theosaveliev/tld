@@ -1,6 +1,6 @@
 # Sheltered Access
 
-**Categories:** DLC Content, Locations, Locations in Port Remnant, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sheltered_Access)
+**Categories:** DLC Content, Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sheltered_Access)
 
 ![Seal icon](../assets/Seal_icon.png)
 
@@ -10,13 +10,9 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Sheltered Access**
 
-\[\[File:
-
 ![South side](../assets/Sheltered_Access.jpg)
 
 ![North side](../assets/Sheltered_Access_2.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -24,9 +20,9 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Region
 
-[Port Remnant](./Port%20Remnant.md)|-
-
 Location
+
+North West corner of the map
 
 Description
 

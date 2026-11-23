@@ -1,6 +1,6 @@
 # Coastal Cave
 
-**Categories:** Caves, Indoor locations, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Cave)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Cave)
 
 **Coastal Cave**
 
@@ -11,7 +11,9 @@
 | Region |  |
 | Location | Connects [Forsaken Shore](./Forsaken%20Shore.md) and [Mountain Pass](./Mountain%20Pass.md) |
 | **General** |  |
-| Type | Cave\|- |
+| Type |  |
+
+**Coastal Cave** is a transition cave that connects [Forsaken Shore](./Forsaken%20Shore.md) (near Despondent Crag) to [Mountain Pass](./Mountain%20Pass.md).
 
 ## Overview
 

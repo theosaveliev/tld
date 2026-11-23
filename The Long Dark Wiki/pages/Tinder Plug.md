@@ -1,6 +1,6 @@
 # Tinder Plug
 
-**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tinder_Plug)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tinder_Plug)
 
 **Contents**
 
@@ -19,8 +19,9 @@
 | --- | --- |
 |  | [Tinder Plug icon](../assets/Tinder_Plug_icon.png) |
 | **General** |  |
-| Item Type | Fire Starting\|- |
-| Firestarting Slot | Tinder |
+| Item Type |  |
+| Wintermute | No |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.05 kg(0.11 lbs) |
 
@@ -60,7 +61,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Stick](./Stick.md)
 
@@ -74,7 +75,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Newsprint](./Newsprint.md)
 
@@ -88,7 +89,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Newsprint Roll](./Newsprint%20Roll.md)
 
@@ -102,7 +103,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
+**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)
 
 **Item:** [Stack of Papers](./Stack%20of%20Papers.md)
 

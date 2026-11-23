@@ -1,18 +1,32 @@
 # Mule Bridge
 
-**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mule_Bridge)
+**Categories:** Blackrock, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mule_Bridge)
 
 **Mule Bridge**
 
-| Property | Details |
-| --- | --- |
-|  | [MuleBridge](../assets/MuleBridge.jpg) |
-| **Location** |  |
-|  | [Mule Bridge Location](../assets/Mule_Bridge_Location.png) |
-| Region |  |
-| Description | A bridge |
-| **General** |  |
-| Type | Landmark\|- |
+![MuleBridge](../assets/MuleBridge.jpg)
+
+**Location**
+
+![Mule Bridge Location](../assets/Mule_Bridge_Location.png)
+
+Region
+
+Description
+
+A bridge
+
+**General**
+
+Type
+
+Has no shelter
+
+> “**Mules were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.**”
+>
+> — [Load Screen](./Load%20Screen.md) Description
+
+**Mule Bridge** is a rope bridge leading to the [Last Prospect](./Last%20Prospect.md) mine. The shifting path across is dangerous, with a fall being lethal; however, the bridge does offer some stellar views of the ravine below and a rather quick and easy access to the mine. A pack of [Timberwolves](./Timberwolf.md) patrol the road before the bridge, when approaching along the eastern road. A collapsed minecart trestle is found below the bridge.
 
 ## Wintermute
 

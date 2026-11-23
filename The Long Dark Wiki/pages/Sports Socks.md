@@ -1,6 +1,6 @@
 # Sports Socks
 
-**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sports_Socks)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sports_Socks)
 
 **Sports Socks**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [Sports Socks icon](../assets/Sports_Socks_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Inner feet |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.25 °C(0.5 °F) |

@@ -1,6 +1,6 @@
 # Tactical Gloves
 
-**Categories:** Clothing, DLC Content, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tactical_Gloves)
+**Categories:** DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tactical_Gloves)
 
 **Tactical Gloves**
 
@@ -8,7 +8,9 @@
 | --- | --- |
 |  | [Tactical Gloves icon](../assets/Tactical_Gloves_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |

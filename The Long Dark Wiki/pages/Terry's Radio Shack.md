@@ -1,6 +1,6 @@
 # Terry's Radio Shack
 
-**Categories:** Indoor locations, Locations, Locations in Perserverance Mills, Locations in Perseverance Mills, Perseverance Mills, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Terry's_Radio_Shack)
+**Categories:** Locations, Locations in Perserverance Mills, Perseverance Mills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Terry's_Radio_Shack)
 
 **Terry's Radio Shack**
 
@@ -8,9 +8,10 @@
 | --- | --- |
 |  | [TerryRadioShack](../assets/TerryRadioShack.png) |
 | **Location** |  |
-| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
+| Region |  |
+| Description | A radio shack, still working! |
 | **General** |  |
-| Type | Residential\|- |
+| Type |  |
 
 ## Gallery
 

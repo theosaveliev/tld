@@ -1,6 +1,6 @@
 # Patterned Wool Mittens \(Blue\)
 
-**Categories:** Clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_%28Blue%29)
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_%28Blue%29)
 
 **Patterned Wool Mittens (Blue)**
 
@@ -8,8 +8,9 @@
 | --- | --- |
 |  | [Patterned Wool Mittens (Blue) icon](../assets/Patterned_Wool_Mittens_%28Blue%29_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Hands |
+| Item Type |  |
+| Wintermute | No |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |

@@ -1,6 +1,6 @@
 # Orca Gas Station
 
-**Categories:** Indoor locations, Locations, Locations in Mountain Town, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Orca_Gas_Station)
+**Categories:** Locations, Locations in Mountain Town · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Orca_Gas_Station)
 
 **Contents**
 
@@ -16,11 +16,13 @@
 |  | [SS MT Orca 04](../assets/SS-MT-Orca-04.jpg) |
 | **Location** |  |
 |  | [Orca Gas Station Location](../assets/Orca_Gas_Station_Location.png) |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Region |  |
+| Location | South of [Milton](./Milton.md) |
 | Description | An abandoned gas station |
 | **General** |  |
-| Type | Store\|- |
-|  | Has an interior\|- |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| **Wintermute** |  |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Characters | [Methuselah](./Methuselah.md) |
 

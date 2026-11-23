@@ -1,6 +1,6 @@
 # Sudden Washout
 
-**Categories:** Caves, Locations, Locations in Forsaken Airfield, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sudden_Washout)
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sudden_Washout)
 
 **Sudden Washout**
 
@@ -9,11 +9,14 @@
 |  | [Sudden Washout](../assets/Sudden_Washout.png) |
 | **Location** |  |
 |  | [Sudden Washout Location](../assets/Sudden_Washout_Location.png) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Region |  |
+| Location | north west of the region, south of [Mindful Cabin](./Mindful%20Cabin.md) |
 | Description | A cave |
 | **General** |  |
-| Type | Cave\|- |
-|  | Provides some shelter / **Sudden Washout** is a cave in [Forsaken Airfield](./Forsaken%20Airfield.md). |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) |  |
+
+**Sudden Washout** is a cave in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
 ## Overview
 

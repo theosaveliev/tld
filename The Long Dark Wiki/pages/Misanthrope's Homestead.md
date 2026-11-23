@@ -1,6 +1,6 @@
 # Misanthrope's Homestead
 
-**Categories:** Indoor locations, Islands, Locations, Locations in Coastal Highway, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
+**Categories:** Islands, Locations, Locations in Coastal Highway · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
 
 **Contents**
 
@@ -11,11 +11,7 @@
 
 **Misanthrope's Homestead**
 
-\[\[File:
-
 ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
-
-250px\]\]
 
 **Location**
 
@@ -23,9 +19,9 @@
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)|-
-
 Location
+
+On the ice between [Jackrabbit Island](./Jackrabbit%20Island.md) and [Waterfront Cottages](./Waterfront%20Cottages.md)
 
 Description
 
@@ -35,11 +31,9 @@ A small island with a house
 
 Type
 
-Residential|-
-
 ![Bed icon](../assets/Bed_icon.png)
 
-Has an interior
+Has a bed
 
 **Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
 

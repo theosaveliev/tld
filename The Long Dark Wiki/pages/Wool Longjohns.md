@@ -1,6 +1,6 @@
 # Wool Longjohns
 
-**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Longjohns)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Longjohns)
 
 **Contents**
 
@@ -15,8 +15,10 @@
 | --- | --- |
 |  | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Inner legs |
+| Item Type |  |
+| Wintermute |  |
+| Renewable | Yes |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |

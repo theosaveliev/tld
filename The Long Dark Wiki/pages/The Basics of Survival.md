@@ -1,6 +1,6 @@
 # The Basics of Survival
 
-**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Basics_of_Survival)
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Basics_of_Survival)
 
 **Contents**
 
@@ -21,7 +21,8 @@
 | Property | Details |
 | --- | --- |
 |  | [One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Episode |  |
+| **Missions** |  |
 | Current | The Basics of Survival |
 | Next | [Survival School](./Survival%20School.md) |
 | Region | [Mountain Town](./Mountain%20Town.md) |

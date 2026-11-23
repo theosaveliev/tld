@@ -1,6 +1,6 @@
 # Cardboard Matches
 
-**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
 
 **Contents**
 
@@ -15,9 +15,10 @@
 | --- | --- |
 |  | [Cardboard Matches icon](../assets/Cardboard_Matches_icon.png) |
 | **General** |  |
-| Item Type | Fire Starting\|- |
+| Item Type |  |
+| Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| Firestarting Slot | Starter |
+| Firestarting Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
 | Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+0% |

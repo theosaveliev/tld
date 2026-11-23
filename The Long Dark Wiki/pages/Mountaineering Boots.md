@@ -1,6 +1,6 @@
 # Mountaineering Boots
 
-**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mountaineering_Boots)
+**Categories:** Pages with update history, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mountaineering_Boots)
 
 **Contents**
 
@@ -16,7 +16,9 @@
 | --- | --- |
 |  | [Mountaineering Boots icon](../assets/Mountaineering_Boots_icon.png) |
 | **General** |  |
-| Item Type | Clothing\|- |
+| Item Type |  |
+| Wintermute |  |
+| Clothing Slot |  |
 | **Statistics** |  |
 | Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |

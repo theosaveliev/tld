@@ -1,6 +1,6 @@
 # Fool's Corner
 
-**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fool's_Corner)
+**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fool's_Corner)
 
 **Fool's Corner**
 
@@ -11,7 +11,7 @@
 |  | [Fool's Corner Location](../assets/Fool%27s_Corner_Location.png) |
 | Region |  |
 | **General** |  |
-| Type | Landmark\|- |
+| Type |  |
 
 ## Overview
 

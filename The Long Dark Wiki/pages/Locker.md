@@ -4,8 +4,6 @@
 
 **Locker**
 
-\[\[File:
-
 ![Single](../assets/LockerSingle.jpg)
 
 ![Double](../assets/LockerDouble.jpg)
@@ -13,8 +11,6 @@
 ![Triple](../assets/LockerTriple.jpg)
 
 ![Green](../assets/Five_Locker.jpg)
-
-250px\]\]
 
 Update
 

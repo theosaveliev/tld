@@ -1,6 +1,6 @@
 # Cannery Pier
 
-**Categories:** Indoor locations, Industrial locations, Locations, Locations in Bleak Inlet · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cannery_Pier)
+**Categories:** Locations, Locations in Bleak Inlet · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cannery_Pier)
 
 **Cannery Pier**
 
@@ -9,12 +9,15 @@
 |  | [SS BI CanneryPier02](../assets/SS-BI-CanneryPier02.jpg) |
 | **Location** |  |
 |  | [Cannery Pier Location](../assets/Cannery_Pier_Location.png) |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Region |  |
+| Location | Across from [Last Resort Cannery](./Last%20Resort%20Cannery.md) |
 | Description | A wharf isolated from the rest of the Cannery due to pier deterioration |
 | **General** |  |
-| Type | Industrial\|- |
+| Type |  |
+| Firebox |  |
 | [Bed icon](../assets/Bed_icon.png) | Has a bed |
-|  | Has an interior The **Cannery Pier** is a section of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md), and houses the [Workshop](./Workshop.md). |
+
+The **Cannery Pier** is a section of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md), and houses the [Workshop](./Workshop.md).
 
 ## Overview
 

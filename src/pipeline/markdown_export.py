@@ -1819,6 +1819,7 @@ def _markdown_label(title: str) -> str:
 
 def _clean_visible_markdown_artifacts(value: str) -> str:
     """Decode leaked spacing entities and unnecessary punctuation escapes."""
+    value = re.sub(r"[\u200b\u200e\ufeff]", "", value)
     output: list[str] = []
     fence: tuple[str, int] | None = None
     for line in value.splitlines(keepends=True):

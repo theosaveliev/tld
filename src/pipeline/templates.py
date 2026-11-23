@@ -538,9 +538,21 @@ def write_template_category_report(
         json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
 
-    summary_lines = ["Template category analysis", ""]
+    summary_lines = [
+        "Template category analysis",
+        "",
+        "Scope: conservative static analysis of source links and discoverable template calls.",
+        "It does not execute parser functions or resolve dynamic category titles; runtime",
+        "category assignments are recorded in the Markdown conversion report.",
+        "",
+    ]
     for name, value in report["summary"].items():
-        summary_lines.append(f"{name}: {value}")
+        display_name = (
+            "articles_without_categories_after_static_scan"
+            if name == "articles_without_categories_after_scan"
+            else name
+        )
+        summary_lines.append(f"{display_name}: {value}")
 
     summary_lines.extend(["", "Potential categories introduced by templates:"])
     for category, data in sorted(

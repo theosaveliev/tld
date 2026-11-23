@@ -1886,7 +1886,7 @@ def _normalize_markdown_link_labels(value: str) -> str:
         for index in range(0, len(pieces), 2):
             visible = pieces[index]
             visible = re.sub(
-                r"(?<!!)\[([^\]\n]*?\S)[ \t]+\]\(",
+                r"(?<!!)\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(",
                 r"[\1](",
                 visible,
             )
@@ -2057,7 +2057,7 @@ def _normalize_markdown_blank_lines(value: str) -> str:
             continue
 
         trailing_spaces = len(line) - len(line.rstrip(" "))
-        if trailing_spaces not in {0, 2}:
+        if trailing_spaces not in {0, 2} or line.endswith("\t"):
             line = line.rstrip(" \t")
 
         list_item = MARKDOWN_LIST_ITEM_RE.match(line)
@@ -2080,6 +2080,8 @@ def _normalize_markdown_blank_lines(value: str) -> str:
             )
             if following.lstrip().startswith(">"):
                 line = ">"
+        if line.strip() == ">" and output and output[-1].strip() == ">":
+            continue
 
         is_heading = re.match(r"^ {0,3}#{1,6}[ \t]+", line) is not None
         if is_heading and output and output[-1].strip():
@@ -2490,8 +2492,14 @@ def _normalize_markdown_emphasis(value: str) -> str:
                 output.append(part)
             else:
                 separated_strong = re.sub(r"(?<!\\)\*{4}(?!\*)", "** **", part)
+                normalized_underscores = re.sub(
+                    r"(?<!_)__(?P<content>\S(?:[^\n]*?\S)?)[ \t]+__(?!_)",
+                    r"__\g<content>__",
+                    separated_strong,
+                )
                 strong = STRONG_UNDERSCORE_RE.sub(
-                    lambda item: f"**{item.group('content')}**", separated_strong
+                    lambda item: f"**{item.group('content')}**",
+                    normalized_underscores,
                 )
                 output.append(
                     ITALIC_ASTERISK_RE.sub(

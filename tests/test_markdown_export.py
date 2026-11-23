@@ -1215,7 +1215,8 @@ def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
     assert "![Far range line first look" not in markdown
     assert "![Far Range Branch Line Location" not in markdown
     assert "**Location on Great Bear Island**" in markdown
-    assert "**Description:** A railway line in the mountains" in markdown
+    assert "| Property | Details |" in markdown
+    assert "| Description | A railway line in the mountains |" in markdown
     expected_quote = (
         "> “Travel down the Far Range Branch Line. / Official Marketing Description”"
     )
@@ -2258,7 +2259,7 @@ def test_page_markdown_normalizes_strong_underscores() -> None:
     assert "__Bold text__" not in markdown
 
 
-def test_rewrite_html_links_externalizes_language_interwiki_targets(
+def test_rewrite_html_links_removes_language_interwiki_targets(
     tmp_path: Path,
 ) -> None:
     rewritten = _rewrite_html_links(
@@ -2275,7 +2276,8 @@ def test_rewrite_html_links_externalizes_language_interwiki_targets(
         set(),
     )
 
-    assert 'href="https://ru.wikipedia.org/wiki/Russian_article"' in rewritten
+    assert "Russian_article" not in rewritten
+    assert "ru.wikipedia.org" not in rewritten
 
 
 def test_page_markdown_removes_anchor_tags_comments_and_empty_sections() -> None:

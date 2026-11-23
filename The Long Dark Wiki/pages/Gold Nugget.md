@@ -30,8 +30,6 @@
 
 **Wintermute-Exclusive content.**; This content only appears in [Wintermute](./Wintermute.md).
 
-{\| class="messagebox"
-
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
 **DLC-Exclusive content.**; This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.

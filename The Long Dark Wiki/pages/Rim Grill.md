@@ -1,6 +1,6 @@
 # Rim Grill
 
-**Categories:** Fire Starting, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rim_Grill)
+**Categories:** Fire Starting, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 **Rim Grill**
 

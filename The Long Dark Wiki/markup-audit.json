@@ -1,12 +1,5 @@
 {
   "files_scanned": 1819,
-  "files_with_issues": 1,
-  "issues": [
-    {
-      "file": "pages/Gold Nugget.md",
-      "line": 33,
-      "kind": "MediaWiki table markup",
-      "snippet": "{\\| class=\"messagebox\""
-    }
-  ]
+  "files_with_issues": 0,
+  "issues": []
 }

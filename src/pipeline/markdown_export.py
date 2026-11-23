@@ -1714,7 +1714,7 @@ def _markdown_heading_slug(label: str) -> str:
 
 def _markdown_heading_anchors(value: str) -> set[str]:
     """Collect heading and explicit-span anchors outside fenced code."""
-    anchors: set[str] = set()
+    anchors: set[str] = {"top"}
     occurrences: dict[str, int] = {}
     fence: tuple[str, int] | None = None
     for line in value.splitlines():

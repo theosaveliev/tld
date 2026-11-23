@@ -1,6 +1,6 @@
 # Preserve source-derived article wording, ordered-list numbering, and emphasis.
 # These rules either require rewriting source content or misread intentional wiki markup.
-ignore = ["MD005", "MD007", "MD013", "MD026", "MD029", "MD036", "MD052"]
+ignore = ["MD005", "MD007", "MD013", "MD026", "MD029", "MD036", "MD049", "MD052"]
 
 # Raw HTML elements must never leak into user-facing Markdown.
 [rules.MD033]
@@ -19,8 +19,6 @@ siblings_only = true
 [rules.MD003]
 style = "atx"
 
-[rules.MD049]
-style = "underscore"
 
 [rules.MD050]
 style = "asterisk"

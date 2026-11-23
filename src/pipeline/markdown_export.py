@@ -1976,7 +1976,7 @@ def _describe_generic_here_link(match: re.Match[str]) -> str:
 def _normalize_markdown_link_segment(value: str) -> str:
     """Normalize visible Markdown links and contact addresses outside code."""
     value = re.sub(
-        r"(?<!!)\\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(",
+        r"(?<!!)\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(",
         r"[\1](",
         value,
     )

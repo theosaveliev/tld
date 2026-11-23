@@ -5000,7 +5000,14 @@ def _plain_markdown_heading_text(label: str) -> str:
     visible = re.sub(r"<[^>]*>", "", visible)
     visible = html.unescape(visible)
     visible = re.sub(r"\\([\\*_{}\[\]<>()#+\-.!|~])", r"\1", visible)
-    visible = re.sub(r"[*_~]", "", visible).replace(BACKTICK, "")
+    visible = re.sub(r"(?<!\\w)(\\*\\*|__)(.+?)\\1(?!\\w)", r"\\2", visible)
+    visible = re.sub(
+        r"(?<!\\w)(?P<marker>[*_])(?P<text>\\S(?:.*?\\S)?)(?P=marker)(?!\\w)",
+        r"\\g<text>",
+        visible,
+    )
+    visible = re.sub(r"~~(.*?)~~", r"\\1", visible)
+    return visible.replace(BACKTICK, "").strip()
     return visible.strip()
 
 

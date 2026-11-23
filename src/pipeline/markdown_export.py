@@ -1560,6 +1560,7 @@ def _page_markdown(
     document = _normalize_markdown_heading_levels(document)
     document = _clean_visible_markdown_artifacts(document)
     document = _strip_empty_markdown_sections(document)
+    document = _normalize_markdown_heading_levels(document)
     document = _strip_missing_contents_links(document)
     document = _strip_missing_inpage_links(document)
     document = _strip_trailing_empty_markdown_sections(document)

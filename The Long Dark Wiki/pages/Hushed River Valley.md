@@ -29,8 +29,6 @@
 
 ![Hushed River Valley title card](../assets/Hushed_River_Valley_title_card.png)
 
-|
-
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
 ![Hushed River Valley Location](../assets/Hushed_River_Valley_Location.png)
@@ -39,37 +37,16 @@
 
 **Details**
 
-Description
-
-A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls.
-
-Connecting Regions
-
-[Mountain Town](./Mountain%20Town.md)
-
-Characters
-
-None
-
-Difficulty
-
-Advanced
-
-Interloper Region Spawn
-
-Yes
-
-Locations
-
-25
-
-Hazards and Survivability
-
-Lots of wind with limited shelter from weather and wildlife.
-
-Date Added
-
-14 June 2018
+| Property | Details |
+| --- | --- |
+| Description | A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls. |
+| Connecting Regions | [Mountain Town](./Mountain%20Town.md) |
+| Characters | None |
+| Difficulty | Advanced |
+| Interloper Region Spawn | Yes |
+| Locations | 25 |
+| Hazards and Survivability | Lots of wind with limited shelter from weather and wildlife. |
+| Date Added | 14 June 2018 |
 
 > “**For advanced players. A remote, wind-blown valley known for its sheer cliffs, dense forests, and steep, winding paths. Although devoid of human settlements, it has long been a destination for the area's toughest mountaineers, and may still have a few secrets to reveal.**”
 >
@@ -254,6 +231,5 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) and a crashed plane locate
 
 ## Reference
 
-[\[1](http://www.thelongdark.com/news/dev-diary-april-2018/)\]
+[\[1\]](http://www.thelongdark.com/news/dev-diary-april-2018/)
 
-[es:Valle del río susurrante](https://es.wikipedia.org/wiki/Valle_del_r%C3%ADo_susurrante) [ru:Долина Тихой реки](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A2%D0%B8%D1%85%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%B8) [fr:Vallée de la Rivière Calme](https://fr.wikipedia.org/wiki/Vall%C3%A9e_de_la_Rivi%C3%A8re_Calme)

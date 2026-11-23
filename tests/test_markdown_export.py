@@ -38,6 +38,8 @@ from pipeline.markdown_export import (
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
     _write_workspace_index,  # pyright: ignore[reportPrivateUsage]
+    _cambium_heading_anchor_map,  # pyright: ignore[reportPrivateUsage]
+    _rewrite_workspace_fragment_links,  # pyright: ignore[reportPrivateUsage]
     audit_markdown_workspace,
     load_filename_mapping,
     normalize_image_name,
@@ -1813,6 +1815,62 @@ def test_page_markdown_preserves_label_for_missing_inpage_fragment() -> None:
     assert "[Notes](#Notes)" not in markdown
     assert "[Obsolete](#obsolete)" not in markdown
     assert "<span" not in markdown
+
+
+def test_cambium_heading_anchor_map_preserves_legacy_aliases() -> None:
+    markdown = (
+        "# Time Capsule\n\n"
+        "## V2.01 Perilous Constraint\n\n"
+        "## 2.17 (Frontier Comforts Update)\n\n"
+        "## Radio Voice Man\n"
+    )
+
+    anchors = _cambium_heading_anchor_map(markdown)
+
+    assert anchors["v201-perilous-constraint"] == "v2-01-perilous-constraint"
+    assert anchors["2.01"] == "v2-01-perilous-constraint"
+    assert anchors["2.17"] == "2-17-frontier-comforts-update"
+    assert anchors["radio_voice_man"] == "radio-voice-man"
+
+
+def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
+    tmp_path: Path,
+) -> None:
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+    (pages_dir / "Time Capsule.md").write_text(
+        "# Time Capsule\n\n"
+        "## V2.01 Perilous Constraint\n\n"
+        "[Contents](#v201-perilous-constraint)\n",
+        encoding="utf-8",
+    )
+    source = pages_dir / "Item.md"
+    source.write_text(
+        "# Item\n\n"
+        "[Update](./Time%20Capsule.md#v201-perilous-constraint)\n"
+        "[Unknown section](./Time%20Capsule.md#not-a-heading)\n",
+        encoding="utf-8",
+    )
+
+    _rewrite_workspace_fragment_links(pages_dir)
+
+    capsule = (pages_dir / "Time Capsule.md").read_text(encoding="utf-8")
+    item = source.read_text(encoding="utf-8")
+    assert "[Contents](#v2-01-perilous-constraint)" in capsule
+    assert "[Update](./Time%20Capsule.md#v2-01-perilous-constraint)" in item
+    assert "[Unknown section](./Time%20Capsule.md)" in item
+
+
+def test_page_markdown_autolinks_bare_urls_in_footnote_definitions() -> None:
+    body = (
+        "[^1]: [https://example.com/page](https://example.com/page)\n"
+        "[^2]: [External article](https://example.com/article)"
+    )
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "[^1]: <https://example.com/page>" in markdown
+    assert "[^2]: [External article](https://example.com/article)" in markdown
 
 
 def test_page_markdown_normalizes_skipped_heading_levels() -> None:

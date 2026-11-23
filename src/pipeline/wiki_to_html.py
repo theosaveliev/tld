@@ -516,7 +516,7 @@ def postexpand(text, cats, stats):
             if root is None:
                 raise ValueError("Could not parse expanded infobox")
             rendered = render_infobox(root, {}, "", expanded=True)
-        except (etree.XMLSyntaxError, TypeError, ValueError):
+        except etree.XMLSyntaxError, TypeError, ValueError:
             stats["infobox_left"] += 1
             return ""
         stats["infoboxes"] += 1

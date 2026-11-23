@@ -1839,9 +1839,7 @@ def _strip_missing_contents_links(value: str) -> str:
             for position in range(index + 1, section_end)
             if not lines[position].strip() or position in entry_indexes
         )
-    return "\n".join(
-        line for index, line in enumerate(lines) if index not in removed
-    )
+    return "\n".join(line for index, line in enumerate(lines) if index not in removed)
 
 
 def _strip_missing_inpage_links(value: str) -> str:
@@ -1864,12 +1862,11 @@ def _strip_missing_inpage_links(value: str) -> str:
             continue
         parts = INLINE_CODE_SPAN_RE.split(line)
         for index in range(0, len(parts), 2):
+
             def replace_missing_fragment(match: re.Match[str]) -> str:
                 fragment = urllib.parse.unquote(match.group("fragment")).casefold()
                 return (
-                    match.group("label")
-                    if fragment not in anchors
-                    else match.group(0)
+                    match.group("label") if fragment not in anchors else match.group(0)
                 )
 
             parts[index] = INPAGE_FRAGMENT_LINK_RE.sub(
@@ -1894,9 +1891,7 @@ def _update_markdown_fence_state(
     return True, fence
 
 
-def _empty_markdown_footnote_definitions(
-    lines: list[str],
-) -> tuple[set[str], set[int]]:
+def _empty_markdown_footnote_definitions(lines: list[str]) -> tuple[set[str], set[int]]:
     """Find empty footnote labels and the line indexes defining them."""
     empty_labels: set[str] = set()
     definition_lines: set[int] = set()
@@ -1904,9 +1899,8 @@ def _empty_markdown_footnote_definitions(
         match = FOOTNOTE_DEFINITION_RE.fullmatch(line)
         if match is None:
             continue
-        has_continuation = (
-            index + 1 < len(lines)
-            and bool(re.match(r"^(?: {2,}|\t)\S", lines[index + 1]))
+        has_continuation = index + 1 < len(lines) and bool(
+            re.match(r"^(?: {2,}|\t)\S", lines[index + 1])
         )
         if not match.group("body").strip() and not has_continuation:
             empty_labels.add(match.group("label").casefold())
@@ -1914,20 +1908,14 @@ def _empty_markdown_footnote_definitions(
     return empty_labels, definition_lines
 
 
-def _normalize_markdown_footnote_line(
-    line: str, empty_labels: set[str]
-) -> str:
+def _normalize_markdown_footnote_line(line: str, empty_labels: set[str]) -> str:
     """Normalize footnote references in a single Markdown line."""
     if line.lstrip().startswith("|"):
-        line = FOOTNOTE_REFERENCE_RE.sub(
-            lambda item: f" ({item.group('label')})", line
-        )
+        line = FOOTNOTE_REFERENCE_RE.sub(lambda item: f" ({item.group('label')})", line)
     elif empty_labels:
         line = FOOTNOTE_REFERENCE_RE.sub(
             lambda item: (
-                ""
-                if item.group("label").casefold() in empty_labels
-                else item.group(0)
+                "" if item.group("label").casefold() in empty_labels else item.group(0)
             ),
             line,
         )
@@ -1975,11 +1963,7 @@ def _describe_generic_here_link(match: re.Match[str]) -> str:
 
 def _normalize_markdown_link_segment(value: str) -> str:
     """Normalize visible Markdown links and contact addresses outside code."""
-    value = re.sub(
-        r"(?<!!)\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(",
-        r"[\1](",
-        value,
-    )
+    value = re.sub(r"(?<!!)\[[ \t]*([^\]\n]*?\S)[ \t]*\]\(", r"[\1](", value)
     value = re.sub(
         r"\[(?P<label>here)\]\((?P<destination>[^)\n]+)\)",
         _describe_generic_here_link,
@@ -2122,9 +2106,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
     return "".join(state.output)
 
 
-def _normalize_markdown_list_spacing(
-    line: str, output: list[str]
-) -> str:
+def _normalize_markdown_list_spacing(line: str, output: list[str]) -> str:
     """Trim invalid trailing whitespace and normalize Markdown list markers."""
     trailing_spaces = len(line) - len(line.rstrip(" "))
     if trailing_spaces not in {0, 2} or line.endswith("\t"):
@@ -2150,11 +2132,7 @@ def _normalize_markdown_quote_spacing(
     line: str, output: list[str], following_lines: list[str]
 ) -> str | None:
     """Preserve quote separators and remove duplicate empty blockquote lines."""
-    if (
-        not line.strip()
-        and output
-        and output[-1].lstrip().startswith(">")
-    ):
+    if not line.strip() and output and output[-1].lstrip().startswith(">"):
         following = next(
             (candidate for candidate in following_lines if candidate.strip()), ""
         )
@@ -2597,17 +2575,13 @@ def _normalize_multiline_strong_paragraph(paragraph: str) -> str:
             return match.group(0)
         return f"**{content}**"
 
-    normalized = MULTILINE_STRONG_UNDERSCORE_RE.sub(
-        replace_multiline_strong, masked
-    )
+    normalized = MULTILINE_STRONG_UNDERSCORE_RE.sub(replace_multiline_strong, masked)
     for index, code in enumerate(protected_code):
         normalized = normalized.replace(f"\x00MDINLINE{index}\x00", code)
     return normalized
 
 
-def _flush_multiline_strong_paragraphs(
-    pending: list[str], output: list[str]
-) -> None:
+def _flush_multiline_strong_paragraphs(pending: list[str], output: list[str]) -> None:
     """Normalize buffered paragraphs and append them to the output."""
     if not pending:
         return
@@ -2668,8 +2642,7 @@ def _normalize_markdown_emphasis(value: str) -> str:
                     separated_strong,
                 )
                 strong = STRONG_UNDERSCORE_RE.sub(
-                    lambda item: f"**{item.group('content')}**",
-                    normalized_underscores,
+                    lambda item: f"**{item.group('content')}**", normalized_underscores
                 )
                 output.append(
                     ITALIC_ASTERISK_RE.sub(

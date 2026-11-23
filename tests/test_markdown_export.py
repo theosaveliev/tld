@@ -11,7 +11,6 @@ from lxml import html as lhtml
 from pipeline import markdown_export as markdown_export_module
 from pipeline import wiki_to_html as wiki_to_html_module
 from pipeline.categories import collect_category_hierarchy
-from pipeline.wiki import Page, Wiki
 from pipeline.markdown_export import (
     DumpPage,
     PageExportResult,
@@ -45,6 +44,7 @@ from pipeline.markdown_export import (
     normalize_title,
     resolve_internal_href,
 )
+from pipeline.wiki import Page, Wiki
 
 if TYPE_CHECKING:
     from collections.abc import Callable, Iterator, Mapping
@@ -1677,9 +1677,7 @@ def test_page_markdown_cleans_invisible_prefix_before_table_markup(
 def test_category_hierarchy_ignores_self_parent_but_keeps_real_parent() -> None:
     wiki = Wiki(
         pages={
-            "Category:Episodes": Page(
-                "Category:Episodes", 14, "[[Category:Episodes]]"
-            ),
+            "Category:Episodes": Page("Category:Episodes", 14, "[[Category:Episodes]]"),
             "Category:Episode 1": Page(
                 "Category:Episode 1", 14, "[[Category:Episodes]]"
             ),
@@ -1901,8 +1899,7 @@ def test_postexpand_converts_tabber_titles_to_headings() -> None:
         "unrendered": 0,
     }
     postexpand = cast(
-        "Callable[[str, list[str], RenderStats], str]",
-        wiki_to_html_module.postexpand,
+        "Callable[[str, list[str], RenderStats], str]", wiki_to_html_module.postexpand
     )
 
     rendered = postexpand(
@@ -1926,8 +1923,7 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
         "unrendered": 0,
     }
     postexpand = cast(
-        "Callable[[str, list[str], RenderStats], str]",
-        wiki_to_html_module.postexpand,
+        "Callable[[str, list[str], RenderStats], str]", wiki_to_html_module.postexpand
     )
     expanded = (
         "<infobox><group>"
@@ -2117,15 +2113,15 @@ def test_page_markdown_uppercases_first_letter_of_all_headings() -> None:
 
 def test_page_markdown_normalizes_multiline_strong_underscores() -> None:
     body = (
-        '> “__Bold text with `__literal__` starts here  \n'
-        ' and continues on the next line.__”'
+        "> “__Bold text with `__literal__` starts here  \n"
+        " and continues on the next line.__”"
     )
 
     markdown = _page_markdown("Sample", [], body, None)
 
     assert (
-        '> “**Bold text with `__literal__` starts here  \n'
-        ' and continues on the next line.**”'
+        "> “**Bold text with `__literal__` starts here  \n"
+        " and continues on the next line.**”"
     ) in markdown
 
 

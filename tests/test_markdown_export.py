@@ -1584,6 +1584,99 @@ def test_page_markdown_preserves_file_markup_inside_fenced_code() -> None:
     assert "250px\\]\\]" in markdown
 
 
+
+def test_page_markdown_removes_wrappers_around_converted_file_images() -> None:
+    body = (
+        "A location overview.\\n\\n"
+        r"\\[\\[File:" + "\\n"
+        "![West Access](../assets/West_Access.png)\\n\\n"
+        "![East Access](../assets/East_Access.png)\\n\\n"
+        r"250px\\]\\]"
+    )
+
+    markdown = _page_markdown("Mine", [], body, None)
+
+    assert "![West Access](../assets/West_Access.png)" in markdown
+    assert "![East Access](../assets/East_Access.png)" in markdown
+    assert "[[File:" not in markdown
+    assert "250px" not in markdown
+
+
+def test_page_markdown_repairs_broken_file_icon_links() -> None:
+    body = r"**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+
+    markdown = _page_markdown("Recipe", [], body, None)
+
+    assert "**Facility:** [Anywhere icon](../assets/Anywhere_icon.png)" in markdown
+    assert "File:" not in markdown
+    assert "icon.png" not in markdown
+
+
+def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:
+    body = (
+        '{| style="border: 2px solid #0A0B11;" align="center" width="100%" '
+        '! colspan="3" align="center" style="background-color: #252434;" '
+        "|Content Portals\\n\\n"
+        "[Regions](../assets/Regions.png)\\n\\n"
+        r"{\\| class=""messagebox""" + "\\n\\n"
+        "[Locations](../assets/Locations.png)"
+    )
+
+    markdown = _page_markdown("Main Page", [], body, None)
+
+    assert "**Content Portals**" in markdown
+    assert "[Regions](../assets/Regions.png)" in markdown
+    assert "[Locations](../assets/Locations.png)" in markdown
+    assert "{|" not in markdown
+    assert r"{\\|" not in markdown
+    assert "messagebox" not in markdown
+
+
+def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
+    class CollapsingContext(FakeContext):
+        def expand(self, text: str, timeout: int) -> str:
+            _ = timeout
+            return " ".join(text.split())
+
+    def generated_infobox(
+        text: str,
+        context: WikiContext,
+        infobox_defs: Mapping[str, object],
+        page_title: str,
+        stats: RenderStats,
+    ) -> str:
+        _ = (text, context, infobox_defs, page_title, stats)
+        return (
+            "\\n{|" + "\\n"
+            "|+ XSENT:infobox:Sample" + "\\n"
+            "|-" + "\\n"
+            "! Label" + "\\n"
+            "| Value" + "\\n"
+            "|}" + "\\n"
+        )
+
+    stats: RenderStats = {
+        "infoboxes": 1,
+        "missing_templates": [],
+        "infobox_left": 0,
+        "missing_images": [],
+        "redlinks": 0,
+        "unrendered": 0,
+    }
+    expanded, error, expansion_errors, deferred = _expand_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        CollapsingContext(),
+        generated_infobox,
+        {},
+        stats,
+    )
+
+    assert error == ""
+    assert expansion_errors == 0
+    assert deferred == {}
+    assert "{|\\n|+ XSENT:infobox:Sample\\n|-\\n! Label\\n| Value\\n|}" in expanded
+
+
 def test_adjacent_strong_elements_keep_a_word_boundary() -> None:
     fragment = (
         "<p><strong>Spoiler Warning:</strong>"

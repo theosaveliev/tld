@@ -122,7 +122,8 @@ def collect_category_hierarchy(wiki: Wiki) -> tuple[dict[str, set[str]], set[str
         category_titles.add(page.title)
 
         for parent, _ in category_links(page.text, wiki):
-            parents[page.title].add(parent)
+            if parent != page.title:
+                parents[page.title].add(parent)
 
     return parents, category_titles, category_page_count
 

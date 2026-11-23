@@ -9,6 +9,7 @@ Categories
 ├── Category:Episode 3 (2 articles)
 ├── Category:Episode 4 (6 articles)
 ├── Category:Episode 5 (1 articles)
+├── Category:Episodes (5 articles)
 ├── Category:Event (1 articles)
 ├── Category:First Aid (4 articles)
 ├── Category:First Aid images (0 articles)
@@ -174,6 +175,3 @@ Categories
 ├── Category:Unofficial locations (5 articles)
 ├── Category:Watefalls (1 articles)
 └── Category:Wintermute (1 articles)
-
-Unrooted categories (possible cycles or missing parents):
-- Category:Episodes

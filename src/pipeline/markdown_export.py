@@ -3529,6 +3529,67 @@ def _flush_image_layout_details(
         details.clear()
 
 
+def _render_image_layout_values(
+    cells: list[lhtml.HtmlElement],
+) -> list[tuple[lhtml.HtmlElement, str]]:
+    """Render non-empty cell values for an image-layout row."""
+    return [
+        (cell, value)
+        for cell in cells
+        if (
+            value := _markdown_images_as_links(
+                _markdown_table_cell(cell, use_semicolon_separators=True)
+            ).strip()
+        )
+    ]
+
+
+def _render_image_layout_single_value(
+    cell: lhtml.HtmlElement,
+    value: str,
+    blocks: list[str],
+    details: list[list[str]],
+    collecting_details: bool,
+) -> bool:
+    """Render a one-cell row and report whether the Details section remains active."""
+    if _is_table_section(cell):
+        _flush_image_layout_details(blocks, details)
+        heading = value.strip("* ").strip()
+        blocks.append(f"**{heading}**")
+        return heading.casefold() == "details"
+    if collecting_details:
+        details.append(["", _render_image_layout_cell(value)])
+    else:
+        blocks.append(_render_image_layout_cell(value))
+    return collecting_details
+
+
+def _append_image_layout_detail_row(
+    values: list[tuple[lhtml.HtmlElement, str]],
+    details: list[list[str]],
+    collecting_details: bool,
+) -> bool:
+    """Append a label/value row to Details when it has the expected layout."""
+    if not collecting_details:
+        return False
+    first_cell, first_value = values[0]
+    if (
+        any(_html_tag(child) == "img" for child in first_cell.iter())
+        or len(values) != INFOBOX_VALUE_CELL_COUNT
+    ):
+        return False
+
+    detail = _render_image_layout_cell(values[1][1])
+    label = first_value.strip()
+    if label.startswith("**") and label.endswith("**"):
+        label = label[2:-2]
+    label = label.rstrip(":").strip()
+    if not label or not detail:
+        return False
+    details.append([label, detail])
+    return True
+
+
 def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Render images as blocks and preserve a Details section as a pipe table."""
     blocks: list[str] = []
@@ -3544,53 +3605,27 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
                 blocks.append(quote)
             continue
 
-        values = [
-            (cell, value)
-            for cell in cells
-            if (
-                value := _markdown_images_as_links(
-                    _markdown_table_cell(cell, use_semicolon_separators=True)
-                ).strip()
-            )
-        ]
+        values = _render_image_layout_values(cells)
         if not values:
             continue
         if len(values) == 1:
-            cell, value = values[0]
-            if _is_table_section(cell):
-                _flush_image_layout_details(blocks, details)
-                heading = value.strip("* ").strip()
-                blocks.append(f"**{heading}**")
-                collecting_details = heading.casefold() == "details"
-            elif collecting_details:
-                details.append(["", _render_image_layout_cell(value)])
-            else:
-                blocks.append(_render_image_layout_cell(value))
+            collecting_details = _render_image_layout_single_value(
+                values[0][0],
+                values[0][1],
+                blocks,
+                details,
+                collecting_details,
+            )
             continue
-
-        first_cell, first_value = values[0]
-        first_has_image = any(_html_tag(child) == "img" for child in first_cell.iter())
-        if (
-            collecting_details
-            and not first_has_image
-            and len(values) == INFOBOX_VALUE_CELL_COUNT
-        ):
-            detail = _render_image_layout_cell(values[1][1])
-            label = first_value.strip()
-            if label.startswith("**") and label.endswith("**"):
-                label = label[2:-2]
-            label = label.rstrip(":").strip()
-            if label and detail:
-                details.append([label, detail])
-                continue
+        if _append_image_layout_detail_row(values, details, collecting_details):
+            continue
 
         _flush_image_layout_details(blocks, details)
         collecting_details = False
-        blocks.extend(
-            rendered
-            for _, value in values
-            if (rendered := _render_image_layout_cell(value))
-        )
+        for _, value in values:
+            rendered = _render_image_layout_cell(value)
+            if rendered:
+                blocks.append(rendered)
 
     _flush_image_layout_details(blocks, details)
     return "\n\n".join(blocks)

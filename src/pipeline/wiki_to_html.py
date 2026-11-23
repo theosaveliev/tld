@@ -286,31 +286,45 @@ def render_infobox(root, params, page_title):
         return rows
 
     title = ""
-    body = []
-    for r in walk(root):
-        if r[0] == "title":
-            title = r[1]
-        elif r[0] == "image":
-            fn = re.sub(r"(?i)^(file|image)\s*:", "", r[1]).strip()
-            v = (
-                r[1]
-                if r[1].startswith("[[")
-                else "[[File:%s|250px%s]]" % (fn, "|" + one_line(r[2]) if r[2] else "")
+    table = ['<table class="infobox">']
+    for row in walk(root):
+        if row[0] == "title":
+            title = row[1]
+        elif row[0] == "image":
+            fn = re.sub(r"(?i)^(file|image)\\s*:", "", row[1]).strip()
+            value_markup = (
+                row[1]
+                if row[1].startswith("[[")
+                else "[[File:%s|250px%s]]"
+                % (fn, "|" + one_line(row[2]) if row[2] else "")
             )
-            body += ["|-", '| colspan="2" | ' + v]
-        elif r[0] == "header":
-            body += ["|-", "| colspan=\"2\" | '''%s'''" % one_line(r[1])]
-        elif r[0] == "wide":
-            body += ["|-", '| colspan="2" | ' + r[1]]
-        elif r[0] == "data":
-            label, v = r[1], r[2]
-            cell = ("|\n" + v) if "\n" in v else ("| " + v)
-            if label:
-                body += ["|-", "! " + one_line(label), cell]
-            else:
-                body += ["|-", '| colspan="2" | ' + v]
-    lines = ["{|", "|+ %s:infobox:%s" % (SENTINEL, one_line(title))] + body + ["|}"]
-    return "\n" + "\n".join(lines) + "\n"
+            table.extend(
+                ["<tr>", '<td colspan="2">', value_markup, "</td>", "</tr>"]
+            )
+        elif row[0] == "header":
+            table.extend(
+                [
+                    "<tr>",
+                    '<th colspan="2" class="section">',
+                    "'''%s'''" % one_line(row[1]),
+                    "</th>",
+                    "</tr>",
+                ]
+            )
+        elif row[0] == "wide":
+            table.extend(
+                ["<tr>", '<td colspan="2">', row[1], "</td>", "</tr>"]
+            )
+        elif row[0] == "data":
+            label, cell_value = row[1], row[2]
+            table.extend(
+                ["<tr>", "<th>", label, "</th>", "<td>", cell_value, "</td>", "</tr>"]
+            )
+
+    if title:
+        table.insert(1, "<caption>%s</caption>" % esc(one_line(title)))
+    table.append("</table>")
+    return "\\n" + "\\n".join(table) + "\\n"
 
 
 def render_missing(name, tpl):

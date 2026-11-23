@@ -1582,7 +1582,7 @@ def _page_markdown(
     document = _normalize_markdown_list_indentation(document)
     document = _strip_wikitext_table_row_artifacts(document)
     document = _normalize_markdown_footnotes(document)
-    document = _normalize_bare_url_footnote_links(document)
+    document = _normalize_bare_url_markdown_links(document)
     document = _normalize_markdown_link_labels(document)
     return _normalize_markdown_blank_lines(document)
 
@@ -4986,12 +4986,11 @@ CAMBIUM_HEADING_RE = re.compile(
     r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
 )
 MARKDOWN_INTERNAL_LINK_RE = re.compile(
-    r"(?<!!)\[(?P<label>(?:\\.|[^\]\n])*)\]\((?P<destination>[^)\n]+)\)"
+    r"(?<!!)\\[(?P<label>(?:\\\\.|[^\\[\\]\\\\\\n]|\\[(?:\\\\.|[^\\[\\]\\\\\\n])*\\])*)\\]\\((?P<destination>[^)\\n]+)\\)"
 )
-BARE_URL_FOOTNOTE_LINK_RE = re.compile(
-    r"\[(?P<label>https?://[^\]\s]+)\]\((?P<destination>https?://[^)\s]+)\)"
+BARE_URL_MARKDOWN_LINK_RE = re.compile(
+    r"\\[(?P<label>https?://[^\\]\\s]+)\\]\\((?P<destination>https?://[^)\\s]+)\\)"
 )
-
 
 def _plain_markdown_heading_text(label: str) -> str:
     """Extract heading text as Cambium's Markdown renderer sees it."""
@@ -5165,8 +5164,8 @@ def _rewrite_workspace_fragment_links(pages_dir: Path) -> None:
         )
 
 
-def _normalize_bare_url_footnote_links(value: str) -> str:
-    """Use autolinks for bare URLs inside footnote definitions."""
+def _normalize_bare_url_markdown_links(value: str) -> str:
+    """Use autolinks when a Markdown URL link only repeats its destination."""
     output: list[str] = []
     fence: tuple[str, int] | None = None
     for line in value.splitlines(keepends=True):
@@ -5174,18 +5173,22 @@ def _normalize_bare_url_footnote_links(value: str) -> str:
         if is_fence_line or fence is not None:
             output.append(line)
             continue
-        if FOOTNOTE_DEFINITION_RE.fullmatch(line.rstrip("\r\n")) is None:
-            output.append(line)
-            continue
 
         def as_autolink(match: re.Match[str]) -> str:
-            label = match.group("label")
+            label = re.sub(
+                r"\\\\([\\\\*_{}\\[\\]<>()#+\\-.!|~])",
+                r"\\1",
+                match.group("label"),
+            )
             destination = match.group("destination")
             if label.rstrip("/") != destination.rstrip("/"):
                 return match.group(0)
             return f"<{destination}>"
 
-        output.append(BARE_URL_FOOTNOTE_LINK_RE.sub(as_autolink, line))
+        parts = INLINE_CODE_SPAN_RE.split(line)
+        for index in range(0, len(parts), 2):
+            parts[index] = BARE_URL_MARKDOWN_LINK_RE.sub(as_autolink, parts[index])
+        output.append("".join(parts))
     return "".join(output)
 
 

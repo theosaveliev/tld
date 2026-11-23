@@ -541,8 +541,10 @@ def write_template_category_report(
     summary_lines = [
         "Template category analysis",
         "",
-        "Scope: conservative static analysis of source links and discoverable template calls.",
-        "It does not execute parser functions or resolve dynamic category titles; runtime",
+        "Scope: conservative static analysis of source links and "
+        "discoverable template calls.",
+        "It does not execute parser functions or resolve dynamic "
+        "category titles; runtime",
         "category assignments are recorded in the Markdown conversion report.",
         "",
     ]

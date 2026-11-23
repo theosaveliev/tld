@@ -1931,7 +1931,7 @@ def _normalize_markdown_footnote_line(
             ),
             line,
         )
-    return re.sub(r"[ \t]{2,}", " ", line)
+    return line
 
 
 def _normalize_markdown_footnotes(value: str) -> str:
@@ -1987,7 +1987,7 @@ def _normalize_markdown_link_segment(value: str) -> str:
         flags=re.IGNORECASE,
     )
     return re.sub(
-        r"(?<![A-Za-z0-9._%+-])mods@hinterlandgames\.com(?![A-Za-z0-9.-])",
+        r"(?<![A-Za-z0-9._%+-])mods@hinterlandgames\.com(?![A-Za-z0-9-]|\.[A-Za-z0-9-])",
         "[mods@hinterlandgames.com](mailto:mods@hinterlandgames.com)",
         value,
         flags=re.IGNORECASE,

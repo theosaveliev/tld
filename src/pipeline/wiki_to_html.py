@@ -226,7 +226,10 @@ def load_infobox_defs(ctx):
             m.group(0).encode("utf-8"), etree.XMLParser(recover=True)
         )
         if root is not None:
-            defs[canon(name)] = root
+            raw_name = re.sub(r"(?i)^template\s*:\s*", "", name)
+            normalized = canon(raw_name)
+            defs[normalized] = root
+            defs.setdefault(normalized.casefold(), root)
     return defs
 
 
@@ -234,7 +237,7 @@ def one_line(s):
     return re.sub(r"\s*\n\s*", " ", s).strip()
 
 
-def render_infobox(root, params, page_title):
+def render_infobox(root, params, page_title, expanded=False):
     def value(el):
         src = el.get("source")
         v = params.get(src, "").strip() if src else ""
@@ -266,7 +269,7 @@ def render_infobox(root, params, page_title):
                 src = el.get("source")
                 v = params.get(src, "").strip() if src else ""
                 fmt = el.find("format")
-                if v and fmt is not None:
+                if fmt is not None and (v or expanded):
                     v = subst(inner(fmt), params).strip()
                 if not v:
                     d = el.find("default")
@@ -367,9 +370,12 @@ def prepass(text, ctx, infobox_defs, page_title, stats):
         if not name or "{" in name or name[0] in "#:" or ":" in name or name.isupper():
             continue  # parser functions, magic words, transclusions, {{{params}}}
         cn = canon(name)
-        if cn in infobox_defs:
+        infobox_def = infobox_defs.get(cn)
+        if infobox_def is None:
+            infobox_def = infobox_defs.get(cn.casefold())
+        if infobox_def is not None:
             params = {str(p.name).strip(): str(p.value).strip() for p in tpl.params}
-            code.replace(tpl, render_infobox(infobox_defs[cn], params, page_title))
+            code.replace(tpl, render_infobox(infobox_def, params, page_title))
             stats["infoboxes"] += 1
         elif cn.casefold() in NON_CONTENT_NAVBOX_TEMPLATES:
             code.replace(tpl, "")
@@ -501,10 +507,21 @@ def postexpand(text, cats, stats):
     text = tabber_to_wikitext(text)
     text = gallery_to_wikitext(text)
     text = thumbs_to_marked(text)
-    left = INFOBOX_LEFT_RE.findall(text)
-    if left:
-        stats["infobox_left"] += len(left)
-        text = INFOBOX_LEFT_RE.sub("", text)
+    def render_leftover_infobox(match):
+        try:
+            root = etree.fromstring(
+                match.group(0).encode("utf-8"), etree.XMLParser(recover=True)
+            )
+            if root is None:
+                raise ValueError("Could not parse expanded infobox")
+            rendered = render_infobox(root, {}, "", expanded=True)
+        except (etree.XMLSyntaxError, TypeError, ValueError):
+            stats["infobox_left"] += 1
+            return ""
+        stats["infoboxes"] += 1
+        return rendered
+
+    text = INFOBOX_LEFT_RE.sub(render_leftover_infobox, text)
     return text
 
 

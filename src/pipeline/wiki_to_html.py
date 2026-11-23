@@ -298,9 +298,7 @@ def render_infobox(root, params, page_title):
                 else "[[File:%s|250px%s]]"
                 % (fn, "|" + one_line(row[2]) if row[2] else "")
             )
-            table.extend(
-                ["<tr>", '<td colspan="2">', value_markup, "</td>", "</tr>"]
-            )
+            table.extend(["<tr>", '<td colspan="2">', value_markup, "</td>", "</tr>"])
         elif row[0] == "header":
             table.extend(
                 [
@@ -312,9 +310,7 @@ def render_infobox(root, params, page_title):
                 ]
             )
         elif row[0] == "wide":
-            table.extend(
-                ["<tr>", '<td colspan="2">', row[1], "</td>", "</tr>"]
-            )
+            table.extend(["<tr>", '<td colspan="2">', row[1], "</td>", "</tr>"])
         elif row[0] == "data":
             label, cell_value = row[1], row[2]
             if label:
@@ -331,9 +327,7 @@ def render_infobox(root, params, page_title):
                     ]
                 )
             else:
-                table.extend(
-                    ["<tr>", '<td colspan="2">', cell_value, "</td>", "</tr>"]
-                )
+                table.extend(["<tr>", '<td colspan="2">', cell_value, "</td>", "</tr>"])
 
     if title:
         table.insert(1, "<caption>%s</caption>" % esc(one_line(title)))

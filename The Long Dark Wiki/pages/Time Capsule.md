@@ -40,7 +40,7 @@ Keep in mind that all previous versions of the game are Unsupported, meaning tha
 
 It is still possible to earn [Steam Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) when using older builds of the game, though some Wintermute achievements cannot be unlocked when playing a build that existed before certain Episodes were released. It is not possible to earn any cut [achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#game-history) from the alpha version of the game.
 
-The page for Hinterland's Time Capsule can be found here: [https://www.thelongdark.com/time-capsule/](https://www.thelongdark.com/time-capsule/)
+The page for Hinterland's Time Capsule can be found here: <https://www.thelongdark.com/time-capsule/>
 
 ## Install Instructions
 

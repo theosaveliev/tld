@@ -2043,7 +2043,7 @@ We can confirm that a more comprehensive change list is coming, however, we have
 - Please note that the Mac build isn't currently live for TALES FROM THE FAR TERRITORY, and Mac players should not attempt to download the update.
 - As a reminder, your previous Survival saves WILL NOT work with the game once it has been updated. This is true even if you don't buy the Expansion Pass. You will, however, be able to continue to use your current Save Games on an older version of the game on Steam, using our Time Capsule feature. Since this is an older version, you won't have access to any of the new content or enhancements that are going into both the Base Game, and the Expansion Pass.
 
-For more information, please visit the Expansion Pass FAQ: [https://www.thelongdark.com/expansion/faq/](https://www.thelongdark.com/expansion/faq/)
+For more information, please visit the Expansion Pass FAQ: <https://www.thelongdark.com/expansion/faq/>
 
 Thank you for your ongoing patience and support. Please remember to visit our Support Portal if you encounter any issues while playing the game.  
  **_External Links:_**

@@ -5177,11 +5177,7 @@ def _normalize_bare_url_markdown_links(value: str) -> str:
             continue
 
         def as_autolink(match: re.Match[str]) -> str:
-            label = re.sub(
-                r"\\([\\*_{}\[\]<>()#+\-.!|~])",
-                r"\1",
-                match.group("label"),
-            )
+            label = re.sub(r"\\([\\*_{}\[\]<>()#+\-.!|~])", r"\1", match.group("label"))
             destination = match.group("destination")
             if label.rstrip("/") != destination.rstrip("/"):
                 return match.group(0)

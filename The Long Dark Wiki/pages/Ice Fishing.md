@@ -71,7 +71,7 @@ There are two types of fish: saltwater and freshwater, and four rarity: common, 
 
 _*Big Bass is found only in Wintermute_
 
-¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, [https://www.youtube.com/watch?v=l8BIygi4K\_k&t=174s](https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s)
+¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, <https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s>
 
 ## Equipment
 

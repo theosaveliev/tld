@@ -6,7 +6,7 @@
 
 - [Transcript](#transcript)
 - [Locate the downed airliner.](#locate-the-downed-airliner)
-- [Find the passenger IDs. [0/10] Find Insulin for Dimitri.](#find-the-passenger-ids-010-find-insulin-for-dimitri)
+- [Find the passenger IDs. [0/10] Find Insulin for Dimitri.](#find-the-passenger-ids-0-10-find-insulin-for-dimitri)
 - [Bring Gwen to the Community Hall.](#bring-gwen-to-the-community-hall)
 - [Talk to Father Thomas.](#talk-to-father-thomas)
 

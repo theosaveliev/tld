@@ -2125,7 +2125,7 @@ Released: 5 September 2014
 
 The Long Dark's Sandbox Alpha has been updated to v.107. This includes the v.103 release, plus a few hotfixes for various bugs we encountered after launching the new update.
 
-For information on what was added/changed in v.10x, please refer to the Changelist here: [https://docs.google.com/a/hinterlandgames.com/document/d/1vc4jb85Gp80A4x9kFxo\_ypyE-XdNMW4gTtU3HyNpym8/edit](https://docs.google.com/a/hinterlandgames.com/document/d/1vc4jb85Gp80A4x9kFxo_ypyE-XdNMW4gTtU3HyNpym8/edit)
+For information on what was added/changed in v.10x, please refer to the Changelist here: <https://docs.google.com/a/hinterlandgames.com/document/d/1vc4jb85Gp80A4x9kFxo_ypyE-XdNMW4gTtU3HyNpym8/edit>
 
 - Our programming wizards have optimized load times. Most loading transitions, after the initial load, should now only take a few seconds (system dependent).
 - Player outdoor walking and running speeds have been increased.

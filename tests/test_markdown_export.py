@@ -1841,9 +1841,7 @@ def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
     passenger_heading = "Find the passenger IDs. [0/10] Find Insulin for Dimitri."
-    legacy_passenger_anchor = (
-        "find-the-passenger-ids-010-find-insulin-for-dimitri"
-    )
+    legacy_passenger_anchor = "find-the-passenger-ids-010-find-insulin-for-dimitri"
     (pages_dir / "Time Capsule.md").write_text(
         "# Time Capsule\n\n"
         "## V2.01 Perilous Constraint\n\n"
@@ -1864,9 +1862,9 @@ def test_rewrite_workspace_fragment_links_uses_cambium_heading_ids(
 
     capsule = (pages_dir / "Time Capsule.md").read_text(encoding="utf-8")
     item = source.read_text(encoding="utf-8")
-    passenger_anchor = _cambium_heading_anchor_map(
-        f"## {passenger_heading}\n"
-    )[legacy_passenger_anchor]
+    passenger_anchor = _cambium_heading_anchor_map(f"## {passenger_heading}\n")[
+        legacy_passenger_anchor
+    ]
     assert "[Contents](#v2-01-perilous-constraint)" in capsule
     assert f"- [{passenger_heading}](#{passenger_anchor})" in capsule
     assert legacy_passenger_anchor not in capsule

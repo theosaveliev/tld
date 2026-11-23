@@ -25,7 +25,7 @@
 >
 > — Jeremiah: "No. No backup. But I know where you might be able to fix it." [Jeremiah](./Jeremiah.md) and [Mackenzie](./Will%20Mackenzie.md)
 
-**Jeremiah's Broken Rifle** was a [Collectible](./Collectibles.md) item found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode as part of the mission \[[https://thelongdark.fandom.com/wiki/You%20Fix%20My%20Rifle](https://thelongdark.fandom.com/wiki/You%20Fix%20My%20Rifle)? You Fix My Rifle?\]. It is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), as it did not survive the transition from Predux Episode 2 to Redux Episode 2, as Jeremiah's Broken Rifle was instead replaced with an ordinary [Hunting Rifle](./Hunting%20Rifle.md) at the start of the mission [The Wounded Trapper](./The%20Wounded%20Trapper.md).
+**Jeremiah's Broken Rifle** was a [Collectible](./Collectibles.md) item found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode as part of the mission \[<https://thelongdark.fandom.com/wiki/You%20Fix%20My%20Rifle>? You Fix My Rifle?\]. It is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), as it did not survive the transition from Predux Episode 2 to Redux Episode 2, as Jeremiah's Broken Rifle was instead replaced with an ordinary [Hunting Rifle](./Hunting%20Rifle.md) at the start of the mission [The Wounded Trapper](./The%20Wounded%20Trapper.md).
 
 ## Overview
 

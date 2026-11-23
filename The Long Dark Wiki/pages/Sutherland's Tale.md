@@ -623,4 +623,4 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 
 ---
 
-[^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
+[^2]: Bashrobe, 2025. Trader Guide - The Long Dark. <https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631>

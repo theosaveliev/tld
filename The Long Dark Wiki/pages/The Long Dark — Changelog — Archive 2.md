@@ -83,7 +83,7 @@ We just launched our latest update to Survival Mode, called PERILOUS CONSTRAINT.
 
 You can check out more information about the update here:
 
-[https://youtu.be/-AzzG1Iaczw](https://youtu.be/-AzzG1Iaczw)
+<https://youtu.be/-AzzG1Iaczw>
 
 Mod Support in 2022
 
@@ -295,7 +295,7 @@ All the best, and safe travels.
 
 _The Long Dark, Episode Four: FURY, THEN SILENCE is available now on Steam, Xbox, PlayStation, Epic Games Store, and Nintendo Switch. Watch the full trailer below._
 
-[https://youtu.be/-AzzG1Iaczw](https://youtu.be/-AzzG1Iaczw)
+<https://youtu.be/-AzzG1Iaczw>
 
 **External Links**
 

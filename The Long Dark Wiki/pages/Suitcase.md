@@ -43,7 +43,7 @@ A **Suitcase** is a storage item found in various locations across the Island. T
 
 ## Exploit
 
-from: [https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)[^1]
+from: <https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/>[^1]
 
 1. place suitcases indoors, loot if available
 2. pick up suitcases
@@ -81,4 +81,4 @@ You can use the "keep construction mode out of customizable areas" bug/exploit t
 
 ---
 
-[^1]: [https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)
+[^1]: <https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/>

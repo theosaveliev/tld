@@ -26,7 +26,7 @@
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-The **Hunting Lodge Rifle** is the unofficial name given to a [Tool](./Tools.md) simply named **Hunting Rifle** that was found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode as part of the mission \[[https://thelongdark.fandom.com/wiki/You%20Fix%20My%20Rifle](https://thelongdark.fandom.com/wiki/You%20Fix%20My%20Rifle)? You Fix My Rifle?\]. It is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), as it did not survive the transition from Predux Episode 2 to Redux Episode 2, as the item located where the Hunting Lodge Rifle was found would be replaced by the [Broken Bear Spear](./Broken%20Bear%20Spear.md).
+The **Hunting Lodge Rifle** is the unofficial name given to a [Tool](./Tools.md) simply named **Hunting Rifle** that was found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode as part of the mission \[<https://thelongdark.fandom.com/wiki/You%20Fix%20My%20Rifle>? You Fix My Rifle?\]. It is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), as it did not survive the transition from Predux Episode 2 to Redux Episode 2, as the item located where the Hunting Lodge Rifle was found would be replaced by the [Broken Bear Spear](./Broken%20Bear%20Spear.md).
 
 ## Overview
 

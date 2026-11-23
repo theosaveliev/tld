@@ -1587,11 +1587,11 @@ def test_page_markdown_preserves_file_markup_inside_fenced_code() -> None:
 
 def test_page_markdown_removes_wrappers_around_converted_file_images() -> None:
     body = (
-        "A location overview.\\n\\n"
-        r"\\[\\[File:" + "\\n"
-        "![West Access](../assets/West_Access.png)\\n\\n"
-        "![East Access](../assets/East_Access.png)\\n\\n"
-        r"250px\\]\\]"
+        "A location overview.\n\n"
+        r"\[\[File:" + "\n"
+        "![West Access](../assets/West_Access.png)\n\n"
+        "![East Access](../assets/East_Access.png)\n\n"
+        r"250px\]\]"
     )
 
     markdown = _page_markdown("Mine", [], body, None)
@@ -1603,7 +1603,7 @@ def test_page_markdown_removes_wrappers_around_converted_file_images() -> None:
 
 
 def test_page_markdown_repairs_broken_file_icon_links() -> None:
-    body = r"**Facility:** \\[\\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
+    body = r"**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png"
 
     markdown = _page_markdown("Recipe", [], body, None)
 
@@ -1616,9 +1616,9 @@ def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:
     body = (
         '{| style="border: 2px solid #0A0B11;" align="center" width="100%" '
         '! colspan="3" align="center" style="background-color: #252434;" '
-        "|Content Portals\\n\\n"
-        "[Regions](../assets/Regions.png)\\n\\n"
-        r"{\\| class=""messagebox""" + "\\n\\n"
+        "|Content Portals\n\n"
+        "[Regions](../assets/Regions.png)\n\n"
+        r"{\| class=" + '"messagebox"' + "\n\n"
         "[Locations](../assets/Locations.png)"
     )
 
@@ -1628,7 +1628,7 @@ def test_page_markdown_removes_leaked_table_openers_and_keeps_caption() -> None:
     assert "[Regions](../assets/Regions.png)" in markdown
     assert "[Locations](../assets/Locations.png)" in markdown
     assert "{|" not in markdown
-    assert r"{\\|" not in markdown
+    assert r"{\|" not in markdown
     assert "messagebox" not in markdown
 
 
@@ -1647,12 +1647,12 @@ def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
     ) -> str:
         _ = (text, context, infobox_defs, page_title, stats)
         return (
-            "\\n{|" + "\\n"
-            "|+ XSENT:infobox:Sample" + "\\n"
-            "|-" + "\\n"
-            "! Label" + "\\n"
-            "| Value" + "\\n"
-            "|}" + "\\n"
+            "\n{|\n"
+            "|+ XSENT:infobox:Sample\n"
+            "|-\n"
+            "! Label\n"
+            "| Value\n"
+            "|}\n"
         )
 
     stats: RenderStats = {
@@ -1674,7 +1674,7 @@ def test_expand_page_preserves_generated_infobox_table_line_breaks() -> None:
     assert error == ""
     assert expansion_errors == 0
     assert deferred == {}
-    assert "{|\\n|+ XSENT:infobox:Sample\\n|-\\n! Label\\n| Value\\n|}" in expanded
+    assert "{|\n|+ XSENT:infobox:Sample\n|-\n! Label\n| Value\n|}" in expanded
 
 
 def test_adjacent_strong_elements_keep_a_word_boundary() -> None:

@@ -2352,6 +2352,12 @@ def _expand_page(
                 expanded, page.title, material_usage_index
             )
     except Exception as exc:
+        return expanded, str(exc)[:300], 1, deferred_material_tables
+
+    try:
+        with contextlib.redirect_stdout(io.StringIO()):
+            expanded = context.expand(expanded, timeout=30)
+    except Exception as exc:
         return (
             _restore_generated_infobox_table_line_breaks(expanded),
             str(exc)[:300],

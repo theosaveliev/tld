@@ -1697,7 +1697,7 @@ FOOTNOTE_DEFINITION_RE = re.compile(
 )
 FOOTNOTE_REFERENCE_RE = re.compile(r"\[\^(?P<label>[^\]\s]+)\]")
 INPAGE_FRAGMENT_LINK_RE = re.compile(
-    r"(?<!!)\\[(?P<label>(?:\\\\.|[^\\]\\n])*)\\]\\(#(?P<fragment>[^)\\s]+)\\)"
+    r"(?<!!)\[(?P<label>(?:\\.|[^\]\n])*)\]\(#(?P<fragment>[^)\s]+)\)"
 )
 
 

@@ -566,7 +566,7 @@ def test_rewrite_html_links_ignores_non_article_namespaces_and_empty_images(
     assert "Navigation" in rewritten
     assert "Wildlife" in rewritten
     assert "<img" not in rewritten
-    assert "Missing filename" not in rewritten
+    assert "Missing image: File:" in rewritten
     assert "Empty file target" in rewritten
     assert missing_links == set()
     assert missing_images == set()

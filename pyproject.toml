@@ -53,6 +53,7 @@ lint = "ruff check --fix ."
 mypy = "mypy ."
 pyright = "basedpyright ."
 test = "pytest"
+markdown-lint = "mdlint check --config .mdlint.toml 'The Long Dark Wiki'"
 dev = ["format", "lint", "mypy", "pyright"]
 export = "run export-markdown tld/thelongdark.fandom.com-20261117-current.xml"
 gensite = "cambium"

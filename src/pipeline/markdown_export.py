@@ -21,6 +21,7 @@ from typing import TYPE_CHECKING, Protocol, TypedDict, cast
 import defusedxml.ElementTree as SafeET
 from lxml import etree
 from lxml import html as lhtml
+from slugify import slugify
 
 if TYPE_CHECKING:
     from collections.abc import Callable, Iterator, Mapping
@@ -1580,6 +1581,7 @@ def _page_markdown(
     document = _normalize_markdown_list_indentation(document)
     document = _strip_wikitext_table_row_artifacts(document)
     document = _normalize_markdown_footnotes(document)
+    document = _normalize_bare_url_footnote_links(document)
     document = _normalize_markdown_link_labels(document)
     return _normalize_markdown_blank_lines(document)
 
@@ -4979,6 +4981,182 @@ def _prepare_export(
     }
 
 
+
+CAMBIUM_HEADING_RE = re.compile(
+    r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
+)
+MARKDOWN_INTERNAL_LINK_RE = re.compile(
+    r"(?<!!)\[(?P<label>(?:\\.|[^\]\n])*)\]\((?P<destination>[^)\n]+)\)"
+)
+BARE_URL_FOOTNOTE_LINK_RE = re.compile(
+    r"\[(?P<label>https?://[^\]\s]+)\]\((?P<destination>https?://[^)\s]+)\)"
+)
+
+
+def _plain_markdown_heading_text(label: str) -> str:
+    """Extract heading text as Cambium's Markdown renderer sees it."""
+    visible = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", label)
+    visible = re.sub(r"(?<!!)\[([^\]]+)\]\([^)]+\)", r"\1", visible)
+    visible = re.sub(r"<[^>]*>", "", visible)
+    visible = html.unescape(visible)
+    visible = re.sub(r"\\([\\*_{}\[\]<>()#+\-.!|~])", r"\1", visible)
+    visible = re.sub(r"[*_~]", "", visible).replace(BACKTICK, "")
+    return visible.strip()
+
+
+def _cambium_heading_anchor_map(markdown: str) -> dict[str, str]:
+    """Map Fandom and exporter heading aliases to Cambium's generated IDs."""
+    aliases: dict[str, str] = {}
+    occurrences: dict[str, int] = {}
+    fence: tuple[str, int] | None = None
+
+    for line in markdown.splitlines():
+        fence, is_fence_line = _advance_markdown_fence(line, fence)
+        if is_fence_line or fence is not None:
+            continue
+        heading = CAMBIUM_HEADING_RE.fullmatch(line)
+        if heading is None:
+            continue
+
+        label = _plain_markdown_heading_text(heading.group("label"))
+        if not label:
+            continue
+
+        base_slug = slugify(label, regex_pattern=r"[^-_a-z0-9]+")
+        if not base_slug:
+            continue
+        occurrence = occurrences.get(base_slug, 0)
+        occurrences[base_slug] = occurrence + 1
+        generated_id = f"{base_slug}-{occurrence}" if occurrence else base_slug
+
+        mediawiki_base = label.replace(" ", "_")
+        sentence_case = mediawiki_base[:1].upper() + mediawiki_base[1:].lower()
+        word_title_case = "_".join(
+            word[:1].upper() + word[1:].lower()
+            for word in mediawiki_base.split("_")
+        )
+        punctuationless = re.sub(
+            r"[^a-z0-9_-]", "", label.casefold().replace(" ", "-")
+        )
+        heading_aliases = [
+            generated_id,
+            base_slug,
+            mediawiki_base,
+            mediawiki_base.casefold(),
+            sentence_case,
+            word_title_case,
+            label.casefold().replace(" ", "_"),
+            _html_heading_slug(label),
+            _markdown_heading_slug(label),
+            punctuationless,
+            *_heading_version_aliases(label),
+        ]
+        for alias in heading_aliases:
+            if alias:
+                key = urllib.parse.unquote(alias).casefold()
+                aliases.setdefault(key, generated_id)
+
+    return aliases
+
+
+def _rewrite_workspace_fragment_links(pages_dir: Path) -> None:
+    """Rewrite Fandom fragment aliases to the actual IDs Cambium will render."""
+    markdown_files = sorted(pages_dir.rglob("*.md"))
+    anchors_by_path: dict[Path, dict[str, str]] = {}
+    for markdown_file in markdown_files:
+        anchors_by_path[markdown_file.resolve()] = _cambium_heading_anchor_map(
+            markdown_file.read_text(encoding="utf-8")
+        )
+
+    pages_root = pages_dir.resolve()
+
+    def rewrite_link(match: re.Match[str], source_file: Path) -> str:
+        destination = match.group("destination")
+        path_text, separator, fragment = destination.partition("#")
+        if not separator or not fragment:
+            return match.group(0)
+
+        if path_text:
+            parsed_path = urllib.parse.urlsplit(path_text)
+            if parsed_path.scheme or parsed_path.netloc:
+                return match.group(0)
+            decoded_path = urllib.parse.unquote(parsed_path.path)
+            if not decoded_path.casefold().endswith(".md"):
+                return match.group(0)
+            target_path = (source_file.parent / decoded_path).resolve()
+        else:
+            target_path = source_file.resolve()
+
+        try:
+            target_path.relative_to(pages_root)
+        except ValueError:
+            return match.group(0)
+
+        target_anchors = anchors_by_path.get(target_path)
+        if target_anchors is None:
+            return match.group(0)
+
+        fragment_key = urllib.parse.unquote(fragment).casefold()
+        generated_id = target_anchors.get(fragment_key)
+        if generated_id is None:
+            generated_id = target_anchors.get(fragment_key.replace("_", "-"))
+
+        if generated_id is None:
+            if not path_text:
+                return match.group("label")
+            rewritten_destination = path_text
+        else:
+            rewritten_destination = path_text + "#" + urllib.parse.quote(
+                generated_id, safe="-._~"
+            )
+
+        return f"[{match.group('label')}]({rewritten_destination})"
+
+    for markdown_file in markdown_files:
+        original = markdown_file.read_text(encoding="utf-8")
+        output: list[str] = []
+        fence: tuple[str, int] | None = None
+        for line in original.splitlines(keepends=True):
+            fence, is_fence_line = _advance_markdown_fence(line, fence)
+            if is_fence_line or fence is not None:
+                output.append(line)
+                continue
+            parts = INLINE_CODE_SPAN_RE.split(line)
+            for index in range(0, len(parts), 2):
+                parts[index] = MARKDOWN_INTERNAL_LINK_RE.sub(
+                    lambda match: rewrite_link(match, markdown_file),
+                    parts[index],
+                )
+            output.append("".join(parts))
+        rewritten = "".join(output)
+        if rewritten != original:
+            markdown_file.write_text(rewritten, encoding="utf-8")
+
+
+def _normalize_bare_url_footnote_links(value: str) -> str:
+    """Use autolinks for bare URLs inside footnote definitions."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        fence, is_fence_line = _advance_markdown_fence(line, fence)
+        if is_fence_line or fence is not None:
+            output.append(line)
+            continue
+        if FOOTNOTE_DEFINITION_RE.fullmatch(line.rstrip("\r\n")) is None:
+            output.append(line)
+            continue
+
+        def as_autolink(match: re.Match[str]) -> str:
+            label = match.group("label")
+            destination = match.group("destination")
+            if label.rstrip("/") != destination.rstrip("/"):
+                return match.group(0)
+            return f"<{destination}>"
+
+        output.append(BARE_URL_FOOTNOTE_LINK_RE.sub(as_autolink, line))
+    return "".join(output)
+
+
 def export_dump_to_markdown(
     dump_path: Path,
     mapping_path: Path,
@@ -5016,6 +5194,7 @@ def export_dump_to_markdown(
         state["expansion_errors"] += page_expansion_errors
         state["conversion_errors"] += page_conversion_errors
 
+    _rewrite_workspace_fragment_links(state["pages_dir"])
     _write_workspace_index(state["page_results"], output_dir)
     summary: ExportSummary = {
         "article_pages": len(state["articles"]),

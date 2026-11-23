@@ -16,7 +16,6 @@ from pipeline.markdown_export import (
     WikiContext,
     _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
-    audit_markdown_workspace,
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
     _contains_html_markup,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
@@ -37,6 +36,7 @@ from pipeline.markdown_export import (
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     _sanitize_expanded_wikitext,  # pyright: ignore[reportPrivateUsage]
     _write_workspace_index,  # pyright: ignore[reportPrivateUsage]
+    audit_markdown_workspace,
     load_filename_mapping,
     normalize_image_name,
     normalize_title,
@@ -1867,12 +1867,10 @@ def test_audit_markdown_workspace_scans_all_pages_and_ignores_code() -> None:
     pages.mkdir(parents=True)
     (pages / "Clean.md").write_text("# Clean page\n", encoding="utf-8")
     (pages / "Hushed River Valley.md").write_text(
-        "# Hushed River Valley\n\n[[File:\n250px\\]\\]\n",
-        encoding="utf-8",
+        "# Hushed River Valley\n\n[[File:\n250px\\]\\]\n", encoding="utf-8"
     )
     (pages / "Tagged.md").write_text(
-        "# Tagged\n<span>leftover</span>\n",
-        encoding="utf-8",
+        "# Tagged\n<span>leftover</span>\n", encoding="utf-8"
     )
     (pages / "Literal code.md").write_text(
         "```html\n<span>literal example</span>\n[[File: example]]\n```\n",

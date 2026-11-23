@@ -278,8 +278,7 @@ def export_markdown(
 
 @cli.command("audit-markdown")
 @click.argument(
-    "workspace_dir",
-    type=click.Path(exists=True, file_okay=False, path_type=Path),
+    "workspace_dir", type=click.Path(exists=True, file_okay=False, path_type=Path)
 )
 def audit_markdown(workspace_dir: Path) -> None:
     """Scan every exported article for leftover HTML or MediaWiki markup."""
@@ -299,6 +298,3 @@ def audit_markdown(workspace_dir: Path) -> None:
             f"Markup audit failed. See {workspace_dir / 'markup-audit.json'}."
         )
     click.echo("No unrendered markup found in pages/.")
-
-
-

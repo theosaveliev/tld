@@ -2496,8 +2496,7 @@ HTML_TAG_RE = re.compile(
 HTML_COMMENT_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
 ESCAPED_HTML_TAG_RE = re.compile(
-    r"&lt;\s*/?\s*[A-Za-z][A-Za-z0-9:-]*(?:(?!&gt;)[\s\S])*?&gt;",
-    re.IGNORECASE,
+    r"&lt;\s*/?\s*[A-Za-z][A-Za-z0-9:-]*(?:(?!&gt;)[\s\S])*?&gt;", re.IGNORECASE
 )
 WIKITEXT_FILE_MARKUP_RE = re.compile(
     r"(?:\\*\[){2}\s*(?:File|Image)\s*:", re.IGNORECASE

@@ -1946,7 +1946,7 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
     assert "Condition" in rendered
     assert "<th>Warmth</th>" in "".join(rendered.split())
     assert "[[Warmth]]" in rendered
-    assert "<th>Strength</th>" in rendered
+    assert "<th>Strength</th>" in "".join(rendered.split())
     assert "+20%" in rendered
     assert "<infobox" not in rendered
     assert stats["infoboxes"] == 2

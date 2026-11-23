@@ -1643,10 +1643,7 @@ def test_page_markdown_cleans_invisible_prefix_before_table_markup(
     invisible_prefix: str,
 ) -> None:
     markdown = _page_markdown(
-        "Gold Nugget",
-        [],
-        invisible_prefix + r"{\| class=" + '"messagebox"',
-        None,
+        "Gold Nugget", [], invisible_prefix + r"{\| class=" + '"messagebox"', None
     )
 
     assert r"{\|" not in markdown

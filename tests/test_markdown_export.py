@@ -2112,6 +2112,20 @@ def test_page_markdown_uppercases_first_letter_of_all_headings() -> None:
     assert "## leave this code example unchanged" in markdown
 
 
+def test_page_markdown_normalizes_multiline_strong_underscores() -> None:
+    body = (
+        '> “__Bold text starts here\n'
+        '> and continues on the next line.__”'
+    )
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert (
+        '> “**Bold text starts here\n'
+        '> and continues on the next line.**”'
+    ) in markdown
+
+
 def test_page_markdown_normalizes_strong_underscores() -> None:
     markdown = _page_markdown("Sample", [], "__Bold text__", None)
 

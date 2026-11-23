@@ -544,6 +544,8 @@ def test_rewrite_html_links_ignores_non_article_namespaces_and_empty_images(
 <a href="Template:Unknown navigation">Navigation</a>
 <a href="Category:Wildlife">Wildlife</a>
 <img src="" alt="Empty source" />
+<img src="File:" alt="Missing filename" />
+<a href="File:">Empty file target</a>
 </p>"""
 
     rewritten = _rewrite_html_links(
@@ -564,6 +566,8 @@ def test_rewrite_html_links_ignores_non_article_namespaces_and_empty_images(
     assert "Navigation" in rewritten
     assert "Wildlife" in rewritten
     assert "<img" not in rewritten
+    assert "Missing filename" not in rewritten
+    assert "Empty file target" in rewritten
     assert missing_links == set()
     assert missing_images == set()
 

@@ -1564,6 +1564,7 @@ def _page_markdown(
     document = _strip_leaked_html_markup(document)
     document = _remove_empty_leaked_file_wrappers(document)
     document = _normalize_markdown_list_indentation(document)
+    document = _strip_wikitext_table_row_artifacts(document)
     return _normalize_markdown_blank_lines(document)
 
 

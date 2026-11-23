@@ -2494,7 +2494,9 @@ def test_audit_markdown_workspace_scans_all_pages_and_ignores_code(
         "# Hushed River Valley\n\n[[File:\n250px\\]\\]\n", encoding="utf-8"
     )
     (pages / "Tagged.md").write_text(
-        "# Tagged\n<span>leftover</span>\n", encoding="utf-8"
+        '# Tagged\n<a id="safe-anchor"></a>\n<span>leftover</span>\n'
+        '<a href="#not-whitelisted">visible link</a>\n',
+        encoding="utf-8",
     )
     (pages / "Literal code.md").write_text(
         "```html\n<span>literal example</span>\n[[File: example]]\n```\n",

@@ -1796,6 +1796,20 @@ Paragraph
     assert "Paragraph\n\n1. First item" in markdown
 
 
+def test_page_markdown_preserves_label_for_missing_inpage_fragment() -> None:
+    body = """See [Notes](#Notes) and [Details](#details).
+
+## Details
+
+More information.
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "See Notes and [Details](#details)." in markdown
+    assert "[Notes](#Notes)" not in markdown
+
+
 def test_page_markdown_normalizes_skipped_heading_levels() -> None:
     body = """## Overview
 

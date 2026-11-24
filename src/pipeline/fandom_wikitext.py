@@ -48,7 +48,7 @@ if importlib.util.find_spec("pkg_resources") is None:
             raise ModuleNotFoundError(package)
         return str(Path(spec.origin).parent / resource)
 
-    setattr(_pkg, "resource_filename", _resource_filename)
+    setattr(_pkg, "resource_filename", _resource_filename)  # noqa: B010
     sys.modules["pkg_resources"] = _pkg
 
 
@@ -65,7 +65,7 @@ class _ReShim:
         return re.match(pattern, string, flags)
 
 
-setattr(_luaexec, "re", _ReShim())
+setattr(_luaexec, "re", _ReShim())  # noqa: B010
 
 
 class TemplateContext(Protocol):

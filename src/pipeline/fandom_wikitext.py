@@ -18,7 +18,7 @@ from lxml import etree
 from wikitextprocessor import Wtp
 
 if TYPE_CHECKING:
-    from collections.abc import Mapping
+    from collections.abc import Iterator, Mapping
 
     from mwparserfromhell.nodes import Template
 
@@ -148,7 +148,11 @@ def _infobox_value(
     result = params.get(source, "").strip() if source else ""
     default = element.find("default")
     if not result and default is not None:
-        result = subst(inner(default), params).replace("{{PAGENAME}}", page_title).strip()
+        result = (
+            subst(inner(default), params)
+            .replace("{{PAGENAME}}", page_title)
+            .strip()
+        )
     return result
 
 
@@ -206,7 +210,7 @@ def _iter_infobox_rows(
     params: Mapping[str, str],
     page_title: str,
     expanded: bool,
-):
+) -> Iterator[tuple[str, ...]]:
     """Yield rendered rows, descending into content-bearing infobox groups."""
     for element in node:
         if local(element.tag) in {"group", "section", "panel"}:
@@ -229,7 +233,7 @@ def _infobox_row_markup(row: tuple[str, ...]) -> list[str]:
             value = (
                 source
                 if source.startswith("[[")
-                else f"[[File:{filename}|250px{'|' + one_line(caption) if caption else ''}]]"
+                else f"[[File:{filename}|250px{('|' + one_line(caption)) if caption else ''}]]"
             )
             return ["<tr>", '<td colspan="2">', value, "</td>", "</tr>"]
         case ("header", heading):
@@ -278,7 +282,10 @@ def render_missing(name: str, tpl: Template) -> str:
         parts.append(f"{str(p.name).strip()}={v}" if p.showkey else v)
     detail = ": " + "; ".join(parts) if parts else ""
     return (
-        f'<span class="missing-template" title="Template:{esc(name)} is not in the dump">'
+        (
+            f'<span class="missing-template" title="Template:{esc(name)} '
+            'is not in the dump">'
+        )
         f"[{name}{detail}]</span>"
     )
 
@@ -314,7 +321,9 @@ def prepass(
             infobox_def = infobox_defs.get(cn.casefold())
         if infobox_def is not None:
             params = {str(p.name).strip(): str(p.value).strip() for p in tpl.params}
-            code.replace(tpl, render_infobox(cast(_Element, infobox_def), params, page_title))
+            code.replace(
+                tpl, render_infobox(cast(_Element, infobox_def), params, page_title)
+            )
             stats["infoboxes"] += 1
         elif cn.casefold() in NON_CONTENT_NAVBOX_TEMPLATES:
             code.replace(tpl, "")
@@ -366,7 +375,8 @@ def gallery_to_wikitext(text: str) -> str:
                 continue
             fn, _, cap = line.partition("|")
             fn = re.sub(r"(?i)^(file|image)\s*:\s*", "", fn).strip()
-            items.append(f"[[File:{fn}|140px{'|' + cap.strip() if cap.strip() else ''}]]")
+            caption = f"|{cap.strip()}" if cap.strip() else ""
+            items.append(f"[[File:{fn}|140px{caption}]]")
         if not items:
             return ""
         rows: list[str] = ["{|", f"|+ {SENTINEL}:gallery:"]

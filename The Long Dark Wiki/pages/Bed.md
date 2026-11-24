@@ -1,6 +1,6 @@
 # Bed
 
-**Categories:** Beds, Interactable Objects, Interactable objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
+**Categories:** Beds, Interactable objects, Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bed)
 
 **Contents**
 

@@ -3,8 +3,9 @@
 from __future__ import annotations
 
 import re
-import mwparserfromhell as mwp
 from typing import TYPE_CHECKING
+
+import mwparserfromhell as mwp
 
 from mwparserfromhell.nodes import Argument, Template, Wikilink
 

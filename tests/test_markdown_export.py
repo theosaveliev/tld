@@ -14,9 +14,9 @@ from pipeline.categories import collect_category_hierarchy
 from pipeline.dump import DumpPage, iter_dump_pages as _iter_dump_pages
 from pipeline.markdown_export import (
     ExportState,
+    PageExportResult,
     PostprocessFunction,
     PreprocessFunction,
-    PageExportResult,
     RenderStats,
     WikiContext,
     _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]

@@ -4,20 +4,23 @@ from __future__ import annotations
 
 import html as htmllib
 import importlib.util
-import os
 import re
 import subprocess
 import sys
 import types
 import warnings
-from collections.abc import Mapping
-from typing import Protocol, TypedDict, cast
+from pathlib import Path
+from typing import TYPE_CHECKING, Protocol, TypedDict, cast
 
 import mwparserfromhell
 import wikitextprocessor.luaexec as _luaexec
 from lxml import etree
-from mwparserfromhell.nodes import Template
 from wikitextprocessor import Wtp
+
+if TYPE_CHECKING:
+    from collections.abc import Mapping
+
+    from mwparserfromhell.nodes import Template
 
 __all__ = [
     "Wtp",
@@ -43,7 +46,7 @@ if importlib.util.find_spec("pkg_resources") is None:
         spec = importlib.util.find_spec(package)
         if spec is None or spec.origin is None:
             raise ModuleNotFoundError(package)
-        return os.path.join(os.path.dirname(spec.origin), resource)
+        return str(Path(spec.origin).parent / resource)
 
     setattr(_pkg, "resource_filename", _resource_filename)
     sys.modules["pkg_resources"] = _pkg
@@ -62,8 +65,7 @@ class _ReShim:
         return re.match(pattern, string, flags)
 
 
-if sys.version_info >= (3, 11):
-    setattr(_luaexec, "re", _ReShim())
+setattr(_luaexec, "re", _ReShim())
 
 
 class TemplateContext(Protocol):
@@ -138,6 +140,116 @@ def one_line(s: str) -> str:
     return re.sub(r"\s*\n\s*", " ", s).strip()
 
 
+def _infobox_value(
+    element: _Element, params: Mapping[str, str], page_title: str
+) -> str:
+    """Resolve a Portable Infobox value from its source or default."""
+    source = element.get("source")
+    result = params.get(source, "").strip() if source else ""
+    default = element.find("default")
+    if not result and default is not None:
+        result = subst(inner(default), params).replace("{{PAGENAME}}", page_title).strip()
+    return result
+
+
+def _infobox_data_row(
+    element: _Element, params: Mapping[str, str], expanded: bool
+) -> tuple[str, ...] | None:
+    """Build a data row using its source, format, label, and fallback value."""
+    source = element.get("source")
+    result = params.get(source, "").strip() if source else ""
+    format_element = element.find("format")
+    if format_element is not None and (result or expanded):
+        result = subst(inner(format_element), params).strip()
+    if not result:
+        default = element.find("default")
+        if default is not None:
+            result = subst(inner(default), params).strip()
+    if not result:
+        return None
+    label = element.find("label")
+    return ("data", inner(label) if label is not None else "", result)
+
+
+def _infobox_element_row(
+    element: _Element,
+    params: Mapping[str, str],
+    page_title: str,
+    expanded: bool,
+) -> tuple[str, ...] | None:
+    """Convert one Portable Infobox definition element into a render row."""
+    tag = local(element.tag)
+    if tag == "title":
+        return ("title", _infobox_value(element, params, page_title))
+    if tag == "image":
+        image = _infobox_value(element, params, page_title)
+        if not image:
+            return None
+        caption_element = element.find("caption")
+        caption = ""
+        if caption_element is not None:
+            caption = params.get(caption_element.get("source", ""), "").strip()
+            caption = caption or inner(caption_element)
+        return ("image", image, caption)
+    if tag == "header":
+        return ("header", inner(element))
+    if tag == "data":
+        return _infobox_data_row(element, params, expanded)
+    if tag == "navigation":
+        navigation = inner(element)
+        return ("wide", subst(navigation, params)) if navigation else None
+    return None
+
+
+def _iter_infobox_rows(
+    node: _Element,
+    params: Mapping[str, str],
+    page_title: str,
+    expanded: bool,
+):
+    """Yield rendered rows, descending into content-bearing infobox groups."""
+    for element in node:
+        if local(element.tag) in {"group", "section", "panel"}:
+            nested_rows = list(
+                _iter_infobox_rows(element, params, page_title, expanded)
+            )
+            if any(row[0] in {"data", "image"} for row in nested_rows):
+                yield from nested_rows
+            continue
+        row = _infobox_element_row(element, params, page_title, expanded)
+        if row is not None:
+            yield row
+
+
+def _infobox_row_markup(row: tuple[str, ...]) -> list[str]:
+    """Serialize one normalized infobox row as table markup."""
+    match row:
+        case ("image", source, caption):
+            filename = re.sub(r"(?i)^(file|image)\\s*:", "", source).strip()
+            value = (
+                source
+                if source.startswith("[[")
+                else f"[[File:{filename}|250px{'|' + one_line(caption) if caption else ''}]]"
+            )
+            return ["<tr>", '<td colspan="2">', value, "</td>", "</tr>"]
+        case ("header", heading):
+            return [
+                "<tr>",
+                '<th colspan="2" class="section">',
+                f"<strong>{one_line(heading)}</strong>",
+                "</th>",
+                "</tr>",
+            ]
+        case ("wide", value):
+            return ["<tr>", '<td colspan="2">', value, "</td>", "</tr>"]
+        case ("data", label, value) if label:
+            return ["<tr>", "<th>", label, "</th>", "<td>", value, "</td>", "</tr>"]
+        case ("data", _, value):
+            return ["<tr>", '<td colspan="2">', value, "</td>", "</tr>"]
+        case _:
+            return []
+
+
 def render_infobox(
     root: _Element,
     params: Mapping[str, str],
@@ -145,104 +257,15 @@ def render_infobox(
     expanded: bool = False,
 ) -> str:
     """Render a Portable Infobox definition as an HTML table fragment."""
-    def value(el: _Element) -> str:
-        src = el.get("source")
-        v = params.get(src, "").strip() if src else ""
-        if not v:
-            d = el.find("default")
-            if d is not None:
-                v = subst(inner(d), params).replace("{{PAGENAME}}", page_title).strip()
-        return v
-
-    def walk(node: _Element) -> list[tuple[str, ...]]:
-        rows: list[tuple[str, ...]] = []
-        for el in node:
-            tag = local(el.tag)
-            if tag == "title":
-                rows.append(("title", value(el)))
-            elif tag == "image":
-                v = value(el)
-                if v:
-                    cap_el = el.find("caption")
-                    cap = ""
-                    if cap_el is not None:
-                        cap = params.get(cap_el.get("source", ""), "").strip() or inner(
-                            cap_el
-                        )
-                    rows.append(("image", v, cap))
-            elif tag == "header":
-                rows.append(("header", inner(el)))
-            elif tag == "data":
-                src = el.get("source")
-                v = params.get(src, "").strip() if src else ""
-                fmt = el.find("format")
-                if fmt is not None and (v or expanded):
-                    v = subst(inner(fmt), params).strip()
-                if not v:
-                    d = el.find("default")
-                    if d is not None:
-                        v = subst(inner(d), params).strip()
-                if v:
-                    lab = el.find("label")
-                    rows.append(("data", inner(lab) if lab is not None else "", v))
-            elif tag == "navigation":
-                v = inner(el)
-                if v:
-                    rows.append(("wide", subst(v, params)))
-            elif tag in ("group", "section", "panel"):
-                sub = walk(el)
-                if any(r[0] in ("data", "image") for r in sub):
-                    rows.extend(sub)
-        return rows
-
-    title = ""
+    rows = list(_iter_infobox_rows(root, params, page_title, expanded))
+    title = next((row[1] for row in rows if row[0] == "title"), "")
     table = ['<table class="infobox">']
-    for row in walk(root):
-        if row[0] == "title":
-            title = row[1]
-        elif row[0] == "image":
-            fn = re.sub(r"(?i)^(file|image)\s*:", "", row[1]).strip()
-            value_markup = (
-                row[1]
-                if row[1].startswith("[[")
-                else "[[File:%s|250px%s]]"
-                % (fn, "|" + one_line(row[2]) if row[2] else "")
-            )
-            table.extend(["<tr>", '<td colspan="2">', value_markup, "</td>", "</tr>"])
-        elif row[0] == "header":
-            table.extend(
-                [
-                    "<tr>",
-                    '<th colspan="2" class="section">',
-                    "<strong>%s</strong>" % one_line(row[1]),
-                    "</th>",
-                    "</tr>",
-                ]
-            )
-        elif row[0] == "wide":
-            table.extend(["<tr>", '<td colspan="2">', row[1], "</td>", "</tr>"])
-        elif row[0] == "data":
-            label, cell_value = row[1], row[2]
-            if label:
-                table.extend(
-                    [
-                        "<tr>",
-                        "<th>",
-                        label,
-                        "</th>",
-                        "<td>",
-                        cell_value,
-                        "</td>",
-                        "</tr>",
-                    ]
-                )
-            else:
-                table.extend(["<tr>", '<td colspan="2">', cell_value, "</td>", "</tr>"])
-
     if title:
-        table.insert(1, "<caption>%s</caption>" % esc(one_line(title)))
+        table.append(f"<caption>{esc(one_line(title))}</caption>")
+    for row in rows:
+        table.extend(_infobox_row_markup(row))
     table.append("</table>")
-    return "\n" + "\n".join(table) + "\n"
+    return "\\n" + "\\n".join(table) + "\\n"
 
 
 def render_missing(name: str, tpl: Template) -> str:
@@ -252,11 +275,11 @@ def render_missing(name: str, tpl: Template) -> str:
         v = str(p.value).strip()
         if not v:
             continue
-        parts.append("%s=%s" % (str(p.name).strip(), v) if p.showkey else v)
+        parts.append(f"{str(p.name).strip()}={v}" if p.showkey else v)
     detail = ": " + "; ".join(parts) if parts else ""
     return (
-        '<span class="missing-template" title="Template:%s is not in the dump">[%s%s]</span>'
-        % (esc(name), name, detail)
+        f'<span class="missing-template" title="Template:{esc(name)} is not in the dump">'
+        f"[{name}{detail}]</span>"
     )
 
 
@@ -337,18 +360,16 @@ def gallery_to_wikitext(text: str) -> str:
     """Convert Fandom gallery markup into a four-column wikitext table."""
     def repl(m: re.Match[str]) -> str:
         items: list[str] = []
-        for line in m.group(1).splitlines():
-            line = line.strip()
+        for raw_line in m.group(1).splitlines():
+            line = raw_line.strip()
             if not line:
                 continue
             fn, _, cap = line.partition("|")
             fn = re.sub(r"(?i)^(file|image)\s*:\s*", "", fn).strip()
-            items.append(
-                "[[File:%s|140px%s]]" % (fn, "|" + cap.strip() if cap.strip() else "")
-            )
+            items.append(f"[[File:{fn}|140px{'|' + cap.strip() if cap.strip() else ''}]]")
         if not items:
             return ""
-        rows: list[str] = ["{|", "|+ %s:gallery:" % SENTINEL]
+        rows: list[str] = ["{|", f"|+ {SENTINEL}:gallery:"]
         for i in range(0, len(items), 4):
             rows.append("|-")
             rows += ["| " + x for x in items[i : i + 4]]
@@ -367,7 +388,10 @@ IMG_PLAIN_OPT_RE = re.compile(
 
 
 def split_top(s: str) -> list[str]:
-    """Split on | at bracket depth 0 (so [[a|b]] inside a caption stays in one piece)."""
+    """Split on top-level pipes.
+
+    Pipes inside nested links and templates remain part of their current segment.
+    """
     parts: list[str] = []
     cur: list[str] = []
     depth, i = 0, 0
@@ -393,8 +417,9 @@ def split_top(s: str) -> list[str]:
 
 
 def thumbs_to_marked(text: str) -> str:
-    """[[File:x|thumb|caption]] -> [[File:x|220px|XTHUMB caption]] so the caption can be turned into
-    visible text after pandoc (pandoc only keeps it as an alt/tooltip for inline images).
+    """Mark thumbnail captions so Pandoc's alt text can become visible text.
+
+    Convert thumb options to a fixed-size image with an explicit caption marker.
     """
     code = mwparserfromhell.parse(text)
     for link in code.filter_wikilinks():  # pyright: ignore[reportUnknownMemberType]
@@ -411,8 +436,7 @@ def thumbs_to_marked(text: str) -> str:
         px = next((o for o in opts if re.fullmatch(r"\d*x?\d+px", o)), "220px")
         code.replace(
             link,
-            "[[File:%s|%s|%s %s]]"
-            % (m.group(1), px, "XTHUMB", caps[-1] if caps else ""),
+            f"[[File:{m.group(1)}|{px}|XTHUMB {caps[-1] if caps else ''}]]",
         )
     return str(code)
 
@@ -442,8 +466,7 @@ def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
         stats["infoboxes"] += 1
         return rendered
 
-    text = INFOBOX_LEFT_RE.sub(render_leftover_infobox, text)
-    return text
+    return INFOBOX_LEFT_RE.sub(render_leftover_infobox, text)
 
 
 # --------------------------------------------------------------------------- #
@@ -451,10 +474,11 @@ def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
 # --------------------------------------------------------------------------- #
 
 def pandoc_selftest(pandoc: str) -> str:
-    """Older pandoc versions (e.g. 3.1.3) silently DROP table cells when the first row is a single
-    colspan cell - a very common wikitable layout. Refuse to run with such a build.
+    """Reject Pandoc builds that silently drop cells after a colspan-only row.
+
+    This catches a long-standing conversion bug before processing the dump.
     """
-    version_lines = subprocess.run(
+    version_lines = subprocess.run(  # noqa: S603
         [pandoc, "--version"], capture_output=True, text=True, check=False
     ).stdout.splitlines()
     ver = version_lines[0] if version_lines else "unknown"
@@ -462,20 +486,21 @@ def pandoc_selftest(pandoc: str) -> str:
     html_out = run_pandoc(pandoc, probe)
     if "VALUE-OK" not in html_out:
         sys.exit(
-            "%s drops table cells (colspan bug). Use a newer pandoc: `pip install pypandoc_binary` "
-            "or pass --pandoc /path/to/newer/pandoc" % ver
+            f"{ver} drops table cells (colspan bug). Install a newer Pandoc build "
+            "or pass --pandoc /path/to/newer/pandoc."
         )
     return ver
 
 
 def run_pandoc(pandoc: str, text: str) -> str:
     """Convert a MediaWiki fragment to HTML with Pandoc."""
-    r = subprocess.run(
+    r = subprocess.run(  # noqa: S603
         [pandoc, "-f", "mediawiki", "-t", "html", "--mathml"],
         input=text,
         capture_output=True,
         text=True,
         timeout=120,
+        check=False,
     )
     if r.returncode != 0:
         raise RuntimeError("pandoc: " + r.stderr[:200])

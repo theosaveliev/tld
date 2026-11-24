@@ -183,8 +183,13 @@ def _infobox_element_row(
 ) -> tuple[str, ...] | None:
     """Convert one Portable Infobox definition element into a render row."""
     tag = local(element.tag)
-    if tag == "title":
-        return ("title", _infobox_value(element, params, page_title))
+    if tag in {"title", "header"}:
+        value = (
+            _infobox_value(element, params, page_title)
+            if tag == "title"
+            else inner(element)
+        )
+        return (tag, value)
     if tag == "image":
         image = _infobox_value(element, params, page_title)
         if not image:
@@ -195,13 +200,12 @@ def _infobox_element_row(
             caption = params.get(caption_element.get("source", ""), "").strip()
             caption = caption or inner(caption_element)
         return ("image", image, caption)
-    if tag == "header":
-        return ("header", inner(element))
     if tag == "data":
         return _infobox_data_row(element, params, expanded)
     if tag == "navigation":
         navigation = inner(element)
-        return ("wide", subst(navigation, params)) if navigation else None
+        if navigation:
+            return ("wide", subst(navigation, params))
     return None
 
 
@@ -285,7 +289,8 @@ def render_missing(name: str, tpl: Template) -> str:
         parts.append(f"{str(p.name).strip()}={v}" if p.showkey else v)
     detail = ": " + "; ".join(parts) if parts else ""
     return (
-        f'<span class="missing-template" title="Template:{esc(name)} is not in the dump">'
+        f'<span class="missing-template" '
+        f'title="Template:{esc(name)} is not in the dump">'
         f"[{name}{detail}]</span>"
     )
 

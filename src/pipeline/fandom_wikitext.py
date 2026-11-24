@@ -285,10 +285,7 @@ def render_missing(name: str, tpl: Template) -> str:
         parts.append(f"{str(p.name).strip()}={v}" if p.showkey else v)
     detail = ": " + "; ".join(parts) if parts else ""
     return (
-        (
-            f'<span class="missing-template" title="Template:{esc(name)} '
-            'is not in the dump">'
-        )
+        f'<span class="missing-template" title="Template:{esc(name)} is not in the dump">'
         f"[{name}{detail}]</span>"
     )
 

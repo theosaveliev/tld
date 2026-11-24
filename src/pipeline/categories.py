@@ -3,9 +3,8 @@ from collections import defaultdict
 from pathlib import Path  # noqa: TC003
 from typing import TYPE_CHECKING, TypedDict
 
-import mwparserfromhell as mwp
 
-from pipeline.wikitext import is_nested_in_template_or_argument
+from pipeline.wikitext import extract_category_links
 
 if TYPE_CHECKING:
     from pipeline.wiki import Wiki
@@ -39,46 +38,9 @@ class CategoryReport(TypedDict):
 
 
 def category_links(text: str, wiki: Wiki) -> list[tuple[str, str | None]]:
-    """Return direct, static category links and their optional sort keys.
-
-    Links inside template calls or template-argument defaults are excluded:
-    their presence in the source does not prove that the page emits them.
-    Dynamic category titles are also excluded because their final target
-    depends on template-parameter or parser-function expansion.
-    """
-    code = mwp.parse(text)
-    result: list[tuple[str, str | None]] = []
-
-    wikilinks = code.filter_wikilinks(  # pyright: ignore[reportUnknownMemberType]
-        recursive=True
-    )
-    for link in wikilinks:
-        if is_nested_in_template_or_argument(code, link):
-            continue
-
-        raw = str(link.title).strip()
-
-        # A leading colon makes this an ordinary link, not categorisation.
-        if raw.startswith(":"):
-            continue
-
-        # Do not count a title whose target requires wikitext expansion.
-        if "{{" in raw or "}}" in raw:
-            continue
-
-        normalized = wiki.normalize(raw)
-        if normalized is None:
-            continue
-
-        prefix, separator, _ = normalized.partition(":")
-        if not separator or wiki.ns_lookup.get(prefix.lower()) != CATEGORY_NS:
-            continue
-
-        sort_key = str(link.text).strip() if link.text is not None else None
-        result.append((normalized, sort_key or None))
-
-    return result
-
+    """Return direct, static category links and their optional sort keys."""
+    static_links, _ = extract_category_links(text, wiki)
+    return static_links
 
 def collect_article_memberships(
     wiki: Wiki,

@@ -20,7 +20,7 @@ from typing import TYPE_CHECKING, Literal, TypedDict
 
 import mwparserfromhell as mwp
 
-from pipeline.wikitext import is_nested_in_template_or_argument
+from pipeline.wikitext import extract_category_links, is_nested_in_template_or_argument, transcluded_wikitext
 
 if TYPE_CHECKING:
     from pipeline.wiki import Page, Wiki
@@ -97,17 +97,6 @@ _MAGIC_WORDS = {
     "DISPLAYTITLE",
     "DEFAULTSORT",
 }
-
-_NO_INCLUDE_RE = re.compile(
-    r"<noinclude\b[^>]*>.*?</noinclude\s*>", flags=re.IGNORECASE | re.DOTALL
-)
-_INCLUDE_ONLY_RE = re.compile(
-    r"<includeonly\b[^>]*>(.*?)</includeonly\s*>", flags=re.IGNORECASE | re.DOTALL
-)
-_ONLY_INCLUDE_RE = re.compile(
-    r"<onlyinclude\b[^>]*>(.*?)</onlyinclude\s*>", flags=re.IGNORECASE | re.DOTALL
-)
-
 
 class CategoryLink(TypedDict):
     category: str
@@ -204,20 +193,6 @@ def _normalise_namespace_title(
     return normalized
 
 
-def _transcluded_wikitext(text: str) -> str:
-    """Apply common include/noinclude rules before inspecting a template body.
-
-    This handles ordinary, non-nested include tags. It deliberately does not
-    attempt to emulate every edge case of MediaWiki's transclusion parser.
-    """
-    only_include_sections = _ONLY_INCLUDE_RE.findall(text)
-    if only_include_sections:
-        text = "\n".join(only_include_sections)
-
-    text = _NO_INCLUDE_RE.sub("", text)
-    return _INCLUDE_ONLY_RE.sub(r"\1", text)
-
-
 def _template_titles(text: str, wiki: Wiki, *, transcluded: bool = False) -> set[str]:
     """Find top-level syntactic invocations of Template-namespace pages.
 
@@ -225,7 +200,7 @@ def _template_titles(text: str, wiki: Wiki, *, transcluded: bool = False) -> set
     It may be passed through and expanded by the outer template, but proving
     that requires parameter substitution, which this analyzer does not do.
     """
-    source = _transcluded_wikitext(text) if transcluded else text
+    source = transcluded_wikitext(text) if transcluded else text
     code = mwp.parse(source)
     # mwparserfromhell's third-party stubs leave part of this method signature
     # unknown; the returned Template nodes are otherwise typed.
@@ -258,51 +233,11 @@ def _template_titles(text: str, wiki: Wiki, *, transcluded: bool = False) -> set
 def _template_category_links(
     text: str, wiki: Wiki, *, transcluded: bool = False
 ) -> tuple[set[tuple[str, str | None]], set[str]]:
-    """Find direct static category links and retain dynamic category titles.
-
-    Category links nested inside template calls or argument defaults are
-    excluded because their presence in the source does not prove that they
-    become part of the transcluded output.
-    """
-    source = _transcluded_wikitext(text) if transcluded else text
-    code = mwp.parse(source)
-    wikilinks = code.filter_wikilinks(  # pyright: ignore[reportUnknownMemberType]
-        recursive=True
+    """Find static category links and retain dynamic category-title candidates."""
+    static_links, dynamic_titles = extract_category_links(
+        text, wiki, transcluded=transcluded
     )
-
-    static_links: set[tuple[str, str | None]] = set()
-    dynamic_titles: set[str] = set()
-
-    for link in wikilinks:
-        if is_nested_in_template_or_argument(code, link):
-            continue
-
-        raw_title = str(link.title).strip()
-        if raw_title.startswith(":"):
-            continue
-
-        # Only links explicitly using the Category namespace are category
-        # memberships. Unlike _normalise_namespace_title(), wiki.normalize()
-        # does not add a namespace to unqualified article titles.
-        normalized = wiki.normalize(raw_title)
-        if normalized is None:
-            continue
-
-        prefix, separator, _ = normalized.partition(":")
-        if not separator or wiki.ns_lookup.get(prefix.lower()) != CATEGORY_NS:
-            continue
-
-        # A template/parser function in the category title needs parameter or
-        # parser-function expansion, which this static pass does not perform.
-        if "{{" in raw_title or "}}" in raw_title:
-            dynamic_titles.add(raw_title)
-            continue
-
-        sort_key = str(link.text).strip() if link.text is not None else None
-        static_links.add((normalized, sort_key or None))
-
-    return static_links, dynamic_titles
-
+    return set(static_links), dynamic_titles
 
 def _build_template_index(wiki: Wiki) -> dict[str, Page]:
     """Index template-namespace pages by normalized title."""

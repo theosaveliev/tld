@@ -51,12 +51,15 @@ if importlib.util.find_spec("pkg_resources") is None:
 
 class _ReShim:
     def __getattr__(self, name: str) -> object:
+        """Delegate regex operations to the standard-library module."""
         return getattr(re, name)
 
     def match(
-        self, pattern: str, string: str, flags: int = 0
+        self, pattern: str | re.Pattern[str], string: str, flags: int = 0
     ) -> re.Match[str] | None:
-        return re.match(pattern.replace("^(?s)", "(?s)^"), string, flags)
+        if isinstance(pattern, str):
+            pattern = pattern.replace("^(?s)", "(?s)^")
+        return re.match(pattern, string, flags)
 
 
 if sys.version_info >= (3, 11):
@@ -73,12 +76,13 @@ class InfoboxStats(TypedDict):
     infobox_left: int
 
 
-_Element = etree._Element
+_Element = etree._Element  # pyright: ignore[reportPrivateUsage]
 SENTINEL = "XSENT"
 
 
 def local(tag: str) -> str:
-    return tag.rsplit("}", 1)[-1] if isinstance(tag, str) else ""
+    """Return an XML element tag without its namespace."""
+    return tag.rsplit("}", 1)[-1]
 
 
 def canon(title: str) -> str:
@@ -89,27 +93,28 @@ def canon(title: str) -> str:
 
 
 def esc(s: str) -> str:
+    """Escape text for insertion into an HTML attribute or text node."""
     return htmllib.escape(s, quote=True)
 
 
-
-PARAM_RE = re.compile(r"\{\{\{\s*([^{}|]+?)\s*(?:\|([^{}]*))?\}\}\}")
 
 # --------------------------------------------------------------------------- #
 PARAM_RE = re.compile(r"\{\{\{\s*([^{}|]+?)\s*(?:\|([^{}]*))?\}\}\}")
 
 
 def subst(text: str, params: Mapping[str, str]) -> str:
+    """Substitute the supplied values into a simple infobox parameter default."""
     return PARAM_RE.sub(lambda m: params.get(m.group(1), m.group(2) or ""), text)
 
 
 def inner(el: _Element) -> str:
+    """Return the visible text nested inside an infobox definition element."""
     return "".join(el.itertext()).strip()
 
 
 def load_infobox_defs(ctx: object) -> dict[str, _Element]:
     template_context = cast(TemplateContext, ctx)
-    defs = {}
+    defs: dict[str, _Element] = {}
     for name, body in template_context.templates.items():
         if "<infobox" not in body.lower():
             continue
@@ -128,10 +133,17 @@ def load_infobox_defs(ctx: object) -> dict[str, _Element]:
 
 
 def one_line(s: str) -> str:
+    """Collapse an infobox value to one readable line."""
     return re.sub(r"\s*\n\s*", " ", s).strip()
 
 
-def render_infobox(root: _Element, params: Mapping[str, str], page_title: str, expanded: bool = False) -> str:
+def render_infobox(
+    root: _Element,
+    params: Mapping[str, str],
+    page_title: str,
+    expanded: bool = False,
+) -> str:
+    """Render a Portable Infobox definition as an HTML table fragment."""
     def value(el: _Element) -> str:
         src = el.get("source")
         v = params.get(src, "").strip() if src else ""
@@ -233,7 +245,8 @@ def render_infobox(root: _Element, params: Mapping[str, str], page_title: str, e
 
 
 def render_missing(name: str, tpl: Template) -> str:
-    parts = []
+    """Keep an unavailable template call and its parameters visible."""
+    parts: list[str] = []
     for p in tpl.params:
         v = str(p.value).strip()
         if not v:
@@ -257,7 +270,14 @@ NON_CONTENT_NAVBOX_TEMPLATES = frozenset(
 )
 
 
-def prepass(text: str, ctx: object, infobox_defs: Mapping[str, object], page_title: str, stats: InfoboxStats) -> str:
+def prepass(
+    text: str,
+    ctx: object,
+    infobox_defs: Mapping[str, object],
+    page_title: str,
+    stats: InfoboxStats,
+) -> str:
+    """Expand Portable Infobox calls and retain otherwise-missing templates."""
     code = mwparserfromhell.parse(text)
     template_context = cast(TemplateContext, ctx)
     for tpl in code.filter_templates(recursive=False):
@@ -295,6 +315,7 @@ INFOBOX_LEFT_RE = re.compile(r"(?is)<infobox\b.*?</infobox\s*>")
 
 
 def tabber_to_wikitext(text: str) -> str:
+    """Convert Fandom tabber panels into ordinary wikitext sections."""
     def repl(m: re.Match[str]) -> str:
         out: list[str] = []
         for part in re.split(r"\n?\|-\|", m.group(1)):
@@ -312,6 +333,7 @@ def tabber_to_wikitext(text: str) -> str:
 
 
 def gallery_to_wikitext(text: str) -> str:
+    """Convert Fandom gallery markup into a four-column wikitext table."""
     def repl(m: re.Match[str]) -> str:
         items: list[str] = []
         for line in m.group(1).splitlines():
@@ -395,6 +417,7 @@ def thumbs_to_marked(text: str) -> str:
 
 
 def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
+    """Collect categories and normalize Fandom constructs after expansion."""
     def grab(m: re.Match[str]) -> str:
         cats.append(canon(m.group(1)))
         return ""
@@ -411,8 +434,6 @@ def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
             root = etree.fromstring(
                 match.group(0).encode("utf-8"), etree.XMLParser(recover=True)
             )
-            if root is None:
-                raise ValueError("Could not parse expanded infobox")
             rendered = render_infobox(root, {}, "", expanded=True)
         except (etree.XMLSyntaxError, TypeError, ValueError):
             stats["infobox_left"] += 1
@@ -432,9 +453,10 @@ def pandoc_selftest(pandoc: str) -> str:
     """Older pandoc versions (e.g. 3.1.3) silently DROP table cells when the first row is a single
     colspan cell - a very common wikitable layout. Refuse to run with such a build.
     """
-    ver = subprocess.run(
-        [pandoc, "--version"], capture_output=True, text=True
-    ).stdout.splitlines()[0]
+    version_lines = subprocess.run(
+        [pandoc, "--version"], capture_output=True, text=True, check=False
+    ).stdout.splitlines()
+    ver = version_lines[0] if version_lines else "unknown"
     probe = '{|\n|-\n| colspan="2" | Title\n|-\n! Label\n| VALUE-OK\n|}'
     html_out = run_pandoc(pandoc, probe)
     if "VALUE-OK" not in html_out:
@@ -446,6 +468,7 @@ def pandoc_selftest(pandoc: str) -> str:
 
 
 def run_pandoc(pandoc: str, text: str) -> str:
+    """Convert a MediaWiki fragment to HTML with Pandoc."""
     r = subprocess.run(
         [pandoc, "-f", "mediawiki", "-t", "html", "--mathml"],
         input=text,

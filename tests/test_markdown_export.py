@@ -8,8 +8,8 @@ import pytest
 from lxml import etree
 from lxml import html as lhtml
 
-from pipeline import markdown_export as markdown_export_module
 from pipeline import fandom_wikitext as fandom_wikitext_module
+from pipeline import markdown_export as markdown_export_module
 from pipeline.categories import collect_category_hierarchy
 from pipeline.markdown_export import (
     DumpPage,

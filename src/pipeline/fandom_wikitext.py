@@ -48,14 +48,14 @@ if importlib.util.find_spec("pkg_resources") is None:
             raise ModuleNotFoundError(package)
         return str(Path(spec.origin).parent / resource)
 
-    vars(_pkg)["resource_filename"] = _resource_filename
+    setattr(_pkg, "resource_filename", _resource_filename)
     sys.modules["pkg_resources"] = _pkg
 
 
 class _ReShim:
     def __getattr__(self, name: str) -> object:
         """Delegate regex operations to the standard-library module."""
-        return getattr(re, name)
+        return cast("object", getattr(re, name))
 
     def match(
         self, pattern: str | re.Pattern[str], string: str, flags: int = 0
@@ -65,7 +65,7 @@ class _ReShim:
         return re.match(pattern, string, flags)
 
 
-vars(_luaexec)["re"] = _ReShim()
+setattr(_luaexec, "re", _ReShim())
 
 
 class TemplateContext(Protocol):
@@ -126,11 +126,10 @@ def load_infobox_defs(ctx: object) -> dict[str, _Element]:
         root = etree.fromstring(
             m.group(0).encode("utf-8"), etree.XMLParser(recover=True)
         )
-        if root is not None:
-            raw_name = re.sub(r"(?i)^template\s*:\s*", "", name)
-            normalized = canon(raw_name)
-            defs[normalized] = root
-            defs.setdefault(normalized.casefold(), root)
+        raw_name = re.sub(r"(?i)^template\s*:\s*", "", name)
+        normalized = canon(raw_name)
+        defs[normalized] = root
+        defs.setdefault(normalized.casefold(), root)
     return defs
 
 

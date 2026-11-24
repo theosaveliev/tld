@@ -3,13 +3,15 @@
 from __future__ import annotations
 
 import re
-from collections.abc import Iterator
 from dataclasses import dataclass
-from pathlib import Path
-from typing import cast
-from xml.etree.ElementTree import Element
+from typing import TYPE_CHECKING, cast
 
 import defusedxml.ElementTree as SafeET
+
+if TYPE_CHECKING:
+    from collections.abc import Iterator
+    from pathlib import Path
+    from xml.etree.ElementTree import Element
 
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 

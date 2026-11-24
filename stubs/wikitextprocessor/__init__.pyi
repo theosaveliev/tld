@@ -1,6 +1,5 @@
 from pathlib import Path
 
-
 class Wtp:
     def __init__(
         self,

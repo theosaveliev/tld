@@ -1,6 +1,6 @@
 # Toilet
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toilet)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toilet)
 
 ![Toilet bowl without toilet cistern.](../assets/Toilet_without_tank.jpg)
 

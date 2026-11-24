@@ -229,11 +229,14 @@ def _infobox_row_markup(row: tuple[str, ...]) -> list[str]:
     """Serialize one normalized infobox row as table markup."""
     match row:
         case ("image", source, caption):
-            filename = re.sub(r"(?i)^(file|image)\\s*:", "", source).strip()
+            filename = re.sub(r"(?i)^(file|image)\s*:", "", source).strip()
             value = (
                 source
                 if source.startswith("[[")
-                else f"[[File:{filename}|250px{('|' + one_line(caption)) if caption else ''}]]"
+                else (
+                    f"[[File:{filename}|250px"
+                    f"{'|' + one_line(caption) if caption else ''}]]"
+                )
             )
             return ["<tr>", '<td colspan="2">', value, "</td>", "</tr>"]
         case ("header", heading):
@@ -269,7 +272,7 @@ def render_infobox(
     for row in rows:
         table.extend(_infobox_row_markup(row))
     table.append("</table>")
-    return "\\n" + "\\n".join(table) + "\\n"
+    return "\n" + "\n".join(table) + "\n"
 
 
 def render_missing(name: str, tpl: Template) -> str:
@@ -357,7 +360,7 @@ def tabber_to_wikitext(text: str) -> str:
                 (mm.group(1).strip(), mm.group(2).strip()) if mm else ("", part.strip())
             )
             if name:
-                out.append("=== %s ===\n\n%s" % (name, body))
+                out.append(f"=== {name} ===\n\n{body}")
             elif body:
                 out.append(body)
         return "\n\n" + "\n\n".join(out) + "\n\n"
@@ -391,8 +394,9 @@ def gallery_to_wikitext(text: str) -> str:
 
 THUMB_OPTS = {"thumb", "thumbnail", "frame", "framed"}
 IMG_PLAIN_OPT_RE = re.compile(
-    r"^(thumb|thumbnail|frame|framed|frameless|border|left|right|center|centre|none|upright.*|baseline|sub|super|top|"
-    r"text-top|middle|bottom|text-bottom|\d*x?\d*px|link=.*|alt=.*|class=.*|lang=.*|page=.*|thumb=.*|thumbnail=.*)$",
+    r"^(thumb|thumbnail|frame|framed|frameless|border|left|right|center|centre|"
+    r"none|upright.*|baseline|sub|super|top|text-top|middle|bottom|text-bottom|"
+    r"\d*x?\d*px|link=.*|alt=.*|class=.*|lang=.*|page=.*|thumb=.*|thumbnail=.*)$",
     re.I,
 )
 

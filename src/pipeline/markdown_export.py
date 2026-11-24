@@ -4692,29 +4692,10 @@ def _convert_page_body(
 
 
 def _export_one_page(
-    page: DumpPage,
-    title_to_filename: dict[str, str],
-    context: WikiContext,
-    preprocess: PreprocessFunction,
-    postprocess: PostprocessFunction,
-    infobox_defs: Mapping[str, object],
-    pandoc: str,
-    redirects: dict[str, str],
-    image_index: dict[str, Path],
-    image_dir: Path | None,
-    pages_dir: Path,
-    asset_dir: Path,
-    copied_images: dict[Path, str],
-    used_asset_names: dict[str, Path],
-    missing_links: set[str],
-    missing_images: set[str],
-    categories_seen: set[str],
-    source_url: str | None,
-    material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]]
-    | None = None,
+    page: DumpPage, state: ExportState, source_url: str | None
 ) -> tuple[PageExportResult, int, int]:
-    """Expand and convert one article, recovering gracefully from parser failures."""
-    filename = title_to_filename[normalize_title(page.title)]
+    """Expand and convert one article using the shared export state."""
+    filename = state["title_to_filename"][normalize_title(page.title)]
     stats: RenderStats = {
         "infoboxes": 0,
         "missing_templates": [],
@@ -4725,32 +4706,37 @@ def _export_one_page(
     }
     categories: list[str] = []
     resources = PageExportResources(
-        title_to_filename=title_to_filename,
-        redirects=redirects,
-        image_index=image_index,
-        image_dir=image_dir,
-        asset_dir=asset_dir,
-        copied_images=copied_images,
-        used_asset_names=used_asset_names,
-        missing_links=missing_links,
-        missing_images=missing_images,
+        title_to_filename=state["title_to_filename"],
+        redirects=state["redirects"],
+        image_index=state["image_index"],
+        image_dir=state["image_dir"],
+        asset_dir=state["asset_dir"],
+        copied_images=state["copied_images"],
+        used_asset_names=state["used_asset_names"],
+        missing_links=state["missing_links"],
+        missing_images=state["missing_images"],
     )
 
     expanded, expansion_error, expansion_errors, deferred_material_tables = (
         _expand_page(
-            page, context, preprocess, infobox_defs, stats, material_usage_index
+            page,
+            state["context"],
+            state["preprocess"],
+            state["infobox_defs"],
+            stats,
+            state["material_usage_index"],
         )
     )
     conversion = _convert_page_body(
         page,
         expanded,
         expansion_error,
-        pandoc,
-        postprocess,
+        state["pandoc"],
+        state["postprocess"],
         categories,
         stats,
         resources,
-        categories_seen,
+        state["categories_seen"],
         deferred_material_tables,
     )
     if expansion_error:
@@ -4763,7 +4749,7 @@ def _export_one_page(
     document = _page_markdown(
         page.title, categories, conversion.markdown_body, source_url
     )
-    (pages_dir / filename).write_text(document, encoding="utf-8")
+    (state["pages_dir"] / filename).write_text(document, encoding="utf-8")
     result: PageExportResult = {
         "title": page.title,
         "filename": filename,
@@ -4775,7 +4761,6 @@ def _export_one_page(
         "error": conversion.note[:1000],
     }
     return result, expansion_errors, conversion.conversion_errors
-
 
 def _write_workspace_index(
     page_results: list[PageExportResult], output_dir: Path
@@ -5267,25 +5252,7 @@ def export_dump_to_markdown(
 
     for page in sorted(state["articles"], key=lambda item: item.title.casefold()):
         result, page_expansion_errors, page_conversion_errors = _export_one_page(
-            page,
-            state["title_to_filename"],
-            state["context"],
-            state["preprocess"],
-            state["postprocess"],
-            state["infobox_defs"],
-            state["pandoc"],
-            state["redirects"],
-            state["image_index"],
-            state["image_dir"],
-            state["pages_dir"],
-            state["asset_dir"],
-            state["copied_images"],
-            state["used_asset_names"],
-            state["missing_links"],
-            state["missing_images"],
-            state["categories_seen"],
-            source_url,
-            state["material_usage_index"],
+            page, state, source_url
         )
         state["page_results"].append(result)
         state["expansion_errors"] += page_expansion_errors

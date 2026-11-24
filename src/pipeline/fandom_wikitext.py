@@ -94,11 +94,9 @@ def canon(title: str) -> str:
     return t[:1].upper() + t[1:] if t else t
 
 
-
 def esc(s: str) -> str:
     """Escape text for insertion into an HTML attribute or text node."""
     return htmllib.escape(s, quote=True)
-
 
 
 # --------------------------------------------------------------------------- #
@@ -117,7 +115,7 @@ def inner(el: _Element) -> str:
 
 def load_infobox_defs(ctx: object) -> dict[str, _Element]:
     """Extract Portable Infobox definitions from the loaded template set."""
-    template_context = cast(TemplateContext, ctx)
+    template_context = cast("TemplateContext", ctx)
     defs: dict[str, _Element] = {}
     for name, body in template_context.templates.items():
         if "<infobox" not in body.lower():
@@ -150,9 +148,7 @@ def _infobox_value(
     default = element.find("default")
     if not result and default is not None:
         result = (
-            subst(inner(default), params)
-            .replace("{{PAGENAME}}", page_title)
-            .strip()
+            subst(inner(default), params).replace("{{PAGENAME}}", page_title).strip()
         )
     return result
 
@@ -177,10 +173,7 @@ def _infobox_data_row(
 
 
 def _infobox_element_row(
-    element: _Element,
-    params: Mapping[str, str],
-    page_title: str,
-    expanded: bool,
+    element: _Element, params: Mapping[str, str], page_title: str, expanded: bool
 ) -> tuple[str, ...] | None:
     """Convert one Portable Infobox definition element into a render row."""
     tag = local(element.tag)
@@ -211,10 +204,7 @@ def _infobox_element_row(
 
 
 def _iter_infobox_rows(
-    node: _Element,
-    params: Mapping[str, str],
-    page_title: str,
-    expanded: bool,
+    node: _Element, params: Mapping[str, str], page_title: str, expanded: bool
 ) -> Iterator[tuple[str, ...]]:
     """Yield rendered rows, descending into content-bearing infobox groups."""
     for element in node:
@@ -263,10 +253,7 @@ def _infobox_row_markup(row: tuple[str, ...]) -> list[str]:
 
 
 def render_infobox(
-    root: _Element,
-    params: Mapping[str, str],
-    page_title: str,
-    expanded: bool = False,
+    root: _Element, params: Mapping[str, str], page_title: str, expanded: bool = False
 ) -> str:
     """Render a Portable Infobox definition as an HTML table fragment."""
     rows = list(_iter_infobox_rows(root, params, page_title, expanded))
@@ -316,7 +303,7 @@ def prepass(
 ) -> str:
     """Expand Portable Infobox calls and retain otherwise-missing templates."""
     code = mwparserfromhell.parse(text)
-    template_context = cast(TemplateContext, ctx)
+    template_context = cast("TemplateContext", ctx)
     for tpl in code.filter_templates(recursive=False):  # pyright: ignore[reportUnknownMemberType]
         name = re.sub(r"<!--.*?-->", "", str(tpl.name), flags=re.S).strip()
         if not name or "{" in name or name[0] in "#:" or ":" in name or name.isupper():
@@ -328,7 +315,7 @@ def prepass(
         if infobox_def is not None:
             params = {str(p.name).strip(): str(p.value).strip() for p in tpl.params}
             code.replace(
-                tpl, render_infobox(cast(_Element, infobox_def), params, page_title)
+                tpl, render_infobox(cast("_Element", infobox_def), params, page_title)
             )
             stats["infoboxes"] += 1
         elif cn.casefold() in NON_CONTENT_NAVBOX_TEMPLATES:
@@ -352,9 +339,9 @@ MAGIC_RE = re.compile(r"__(?:NO)?(?:TOC|EDITSECTION|INDEX|GALLERY)__|__FORCETOC_
 INFOBOX_LEFT_RE = re.compile(r"(?is)<infobox\b.*?</infobox\s*>")
 
 
-
 def tabber_to_wikitext(text: str) -> str:
     """Convert Fandom tabber panels into ordinary wikitext sections."""
+
     def repl(m: re.Match[str]) -> str:
         out: list[str] = []
         for part in re.split(r"\n?\|-\|", m.group(1)):
@@ -373,6 +360,7 @@ def tabber_to_wikitext(text: str) -> str:
 
 def gallery_to_wikitext(text: str) -> str:
     """Convert Fandom gallery markup into a four-column wikitext table."""
+
     def repl(m: re.Match[str]) -> str:
         items: list[str] = []
         for raw_line in m.group(1).splitlines():
@@ -452,14 +440,14 @@ def thumbs_to_marked(text: str) -> str:
         caps = [o for o in opts if o and not IMG_PLAIN_OPT_RE.match(o)]
         px = next((o for o in opts if re.fullmatch(r"\d*x?\d+px", o)), "220px")
         code.replace(
-            link,
-            f"[[File:{m.group(1)}|{px}|XTHUMB {caps[-1] if caps else ''}]]",
+            link, f"[[File:{m.group(1)}|{px}|XTHUMB {caps[-1] if caps else ''}]]"
         )
     return str(code)
 
 
 def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
     """Collect categories and normalize Fandom constructs after expansion."""
+
     def grab(m: re.Match[str]) -> str:
         cats.append(canon(m.group(1)))
         return ""
@@ -477,7 +465,7 @@ def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
                 match.group(0).encode("utf-8"), etree.XMLParser(recover=True)
             )
             rendered = render_infobox(root, {}, "", expanded=True)
-        except (etree.XMLSyntaxError, TypeError, ValueError):
+        except etree.XMLSyntaxError, TypeError, ValueError:
             stats["infobox_left"] += 1
             return ""
         stats["infoboxes"] += 1
@@ -489,6 +477,7 @@ def postexpand(text: str, cats: list[str], stats: InfoboxStats) -> str:
 # --------------------------------------------------------------------------- #
 # pandoc
 # --------------------------------------------------------------------------- #
+
 
 def pandoc_selftest(pandoc: str) -> str:
     """Reject Pandoc builds that silently drop cells after a colspan-only row.
@@ -522,7 +511,6 @@ def run_pandoc(pandoc: str, text: str) -> str:
     if r.returncode != 0:
         raise RuntimeError("pandoc: " + r.stderr[:200])
     return r.stdout
-
 
 
 # --------------------------------------------------------------------------- #

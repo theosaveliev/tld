@@ -41,6 +41,7 @@ def category_links(text: str, wiki: Wiki) -> list[tuple[str, str | None]]:
     static_links, _ = extract_category_links(text, wiki)
     return static_links
 
+
 def collect_article_memberships(
     wiki: Wiki,
 ) -> tuple[dict[str, list[str]], dict[str, dict[str, str]], list[str], int]:

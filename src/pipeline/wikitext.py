@@ -6,7 +6,6 @@ import re
 from typing import TYPE_CHECKING
 
 import mwparserfromhell as mwp
-
 from mwparserfromhell.nodes import Argument, Template, Wikilink
 
 if TYPE_CHECKING:
@@ -29,7 +28,6 @@ def is_nested_in_template_or_argument(
         isinstance(ancestor, (Template, Argument))
         for ancestor in code.get_ancestors(node)
     )
-
 
 
 CATEGORY_NS = 14

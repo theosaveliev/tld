@@ -130,6 +130,7 @@ def extract_page_titles(
             titles.append(page.title)
     return titles, redirects_seen
 
+
 def _append_issue(
     issues: list[FilenameIssue], kind: str, affected: list[FilenameMapping], detail: str
 ) -> None:

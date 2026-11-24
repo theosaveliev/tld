@@ -23,7 +23,8 @@ from lxml import etree
 from lxml import html as lhtml
 from slugify import slugify
 
-from pipeline.dump import DumpPage, iter_dump_pages as _iter_dump_pages
+from pipeline.dump import DumpPage
+from pipeline.dump import iter_dump_pages as _iter_dump_pages
 from pipeline.fandom_wikitext import (
     Wtp,
     load_infobox_defs,
@@ -4762,6 +4763,7 @@ def _export_one_page(
     }
     return result, expansion_errors, conversion.conversion_errors
 
+
 def _write_workspace_index(
     page_results: list[PageExportResult], output_dir: Path
 ) -> None:
@@ -4978,6 +4980,7 @@ def _prepare_export(
         "expansion_errors": 0,
         "conversion_errors": 0,
     }
+
 
 CAMBIUM_HEADING_RE = re.compile(
     r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"

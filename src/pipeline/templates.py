@@ -12,7 +12,6 @@ evaluated.
 from __future__ import annotations
 
 import json
-import re
 from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path  # noqa: TC003
@@ -101,6 +100,7 @@ _MAGIC_WORDS = {
     "DISPLAYTITLE",
     "DEFAULTSORT",
 }
+
 
 class CategoryLink(TypedDict):
     category: str
@@ -242,6 +242,7 @@ def _template_category_links(
         text, wiki, transcluded=transcluded
     )
     return set(static_links), dynamic_titles
+
 
 def _build_template_index(wiki: Wiki) -> dict[str, Page]:
     """Index template-namespace pages by normalized title."""

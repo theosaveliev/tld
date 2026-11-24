@@ -11,7 +11,8 @@ from lxml import html as lhtml
 from pipeline import fandom_wikitext as fandom_wikitext_module
 from pipeline import markdown_export as markdown_export_module
 from pipeline.categories import collect_category_hierarchy
-from pipeline.dump import DumpPage, iter_dump_pages as _iter_dump_pages
+from pipeline.dump import DumpPage
+from pipeline.dump import iter_dump_pages as _iter_dump_pages
 from pipeline.markdown_export import (
     ExportState,
     PageExportResult,
@@ -105,9 +106,7 @@ def _export_page_for_test(
     infobox_defs: Mapping[str, object],
     pandoc: str,
     image_index: dict[str, Path],
-    material_usage_index: dict[
-        str, list[tuple[str, str, list[tuple[str, str]]]]
-    ],
+    material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]],
     image_dir: Path | None,
     pages_dir: Path,
     asset_dir: Path,
@@ -2078,7 +2077,8 @@ def test_postexpand_converts_tabber_titles_to_headings() -> None:
         "unrendered": 0,
     }
     postexpand = cast(
-        "Callable[[str, list[str], RenderStats], str]", fandom_wikitext_module.postexpand
+        "Callable[[str, list[str], RenderStats], str]",
+        fandom_wikitext_module.postexpand,
     )
 
     rendered = postexpand(
@@ -2102,7 +2102,8 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
         "unrendered": 0,
     }
     postexpand = cast(
-        "Callable[[str, list[str], RenderStats], str]", fandom_wikitext_module.postexpand
+        "Callable[[str, list[str], RenderStats], str]",
+        fandom_wikitext_module.postexpand,
     )
     expanded = (
         "<infobox><group>"

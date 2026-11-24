@@ -10,11 +10,10 @@ import unicodedata
 from collections import Counter, defaultdict
 from typing import TYPE_CHECKING, TypedDict
 
+from pipeline.dump import iter_dump_pages
 
 if TYPE_CHECKING:
     from pathlib import Path
-
-from pipeline.dump import iter_dump_pages
 
 
 MAX_FILENAME_BYTES = 255

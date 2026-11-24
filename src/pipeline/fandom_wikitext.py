@@ -13,9 +13,7 @@ from pathlib import Path
 from typing import TYPE_CHECKING, Protocol, TypedDict, cast
 
 import mwparserfromhell
-import wikitextprocessor.luaexec as _luaexec
 from lxml import etree
-from wikitextprocessor import Wtp
 
 if TYPE_CHECKING:
     from collections.abc import Iterator, Mapping
@@ -50,6 +48,10 @@ if importlib.util.find_spec("pkg_resources") is None:
 
     setattr(_pkg, "resource_filename", _resource_filename)  # noqa: B010
     sys.modules["pkg_resources"] = _pkg
+
+
+import wikitextprocessor.luaexec as _luaexec  # noqa: E402
+from wikitextprocessor import Wtp  # noqa: E402
 
 
 class _ReShim:

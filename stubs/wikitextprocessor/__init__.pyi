@@ -1,10 +1,7 @@
-"""Type surface used from wikitextprocessor 0.4.96."""
-
 from pathlib import Path
 
 
 class Wtp:
-    """Wiki-text processing context factory."""
 
     def __init__(
         self,

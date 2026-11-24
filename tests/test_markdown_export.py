@@ -9,7 +9,7 @@ from lxml import etree
 from lxml import html as lhtml
 
 from pipeline import markdown_export as markdown_export_module
-from pipeline import wiki_to_html as wiki_to_html_module
+from pipeline import fandom_wikitext as fandom_wikitext_module
 from pipeline.categories import collect_category_hierarchy
 from pipeline.markdown_export import (
     DumpPage,
@@ -1738,7 +1738,7 @@ def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
 
     load_infobox_defs = cast(
         "Callable[[object], Mapping[str, object]]",
-        wiki_to_html_module.load_infobox_defs,
+        fandom_wikitext_module.load_infobox_defs,
     )
     definitions = load_infobox_defs(TemplateContext())
 
@@ -1747,7 +1747,7 @@ def test_load_infobox_defs_normalizes_template_prefix_and_case() -> None:
 
     prepass = cast(
         "Callable[[str, object, Mapping[str, object], str, RenderStats], str]",
-        wiki_to_html_module.prepass,
+        fandom_wikitext_module.prepass,
     )
     stats: RenderStats = {
         "infoboxes": 0,
@@ -2026,7 +2026,7 @@ def test_postexpand_converts_tabber_titles_to_headings() -> None:
         "unrendered": 0,
     }
     postexpand = cast(
-        "Callable[[str, list[str], RenderStats], str]", wiki_to_html_module.postexpand
+        "Callable[[str, list[str], RenderStats], str]", fandom_wikitext_module.postexpand
     )
 
     rendered = postexpand(
@@ -2050,7 +2050,7 @@ def test_postexpand_renders_leftover_expanded_infoboxes() -> None:
         "unrendered": 0,
     }
     postexpand = cast(
-        "Callable[[str, list[str], RenderStats], str]", wiki_to_html_module.postexpand
+        "Callable[[str, list[str], RenderStats], str]", fandom_wikitext_module.postexpand
     )
     expanded = (
         "<infobox><group>"
@@ -2141,7 +2141,7 @@ def test_infobox_prepass_emits_html_table_with_wikitext_cells() -> None:
 
     render_infobox = cast(
         "Callable[[object, dict[str, str], str], str]",
-        wiki_to_html_module.render_infobox,
+        fandom_wikitext_module.render_infobox,
     )
     rendered = render_infobox(
         infobox,

@@ -20,7 +20,11 @@ from typing import TYPE_CHECKING, Literal, TypedDict
 
 import mwparserfromhell as mwp
 
-from pipeline.wikitext import extract_category_links, is_nested_in_template_or_argument, transcluded_wikitext
+from pipeline.wikitext import (
+    extract_category_links,
+    is_nested_in_template_or_argument,
+    transcluded_wikitext,
+)
 
 if TYPE_CHECKING:
     from pipeline.wiki import Page, Wiki

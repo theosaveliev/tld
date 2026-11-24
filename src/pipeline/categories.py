@@ -3,7 +3,6 @@ from collections import defaultdict
 from pathlib import Path  # noqa: TC003
 from typing import TYPE_CHECKING, TypedDict
 
-
 from pipeline.wikitext import extract_category_links
 
 if TYPE_CHECKING:

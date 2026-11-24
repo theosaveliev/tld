@@ -2,7 +2,8 @@
 
 from __future__ import annotations
 
-from typing import re
+import re
+import mwparserfromhell as mwp
 from typing import TYPE_CHECKING
 
 from mwparserfromhell.nodes import Argument, Template, Wikilink
@@ -32,13 +33,13 @@ def is_nested_in_template_or_argument(
 
 CATEGORY_NS = 14
 _NO_INCLUDE_RE = re.compile(
-    r"<noinclude\\b[^>]*>.*?</noinclude\\s*>", re.IGNORECASE | re.DOTALL
+    r"<noinclude\b[^>]*>.*?</noinclude\s*>", re.IGNORECASE | re.DOTALL
 )
 _INCLUDE_ONLY_RE = re.compile(
-    r"<includeonly\\b[^>]*>(.*?)</includeonly\\s*>", re.IGNORECASE | re.DOTALL
+    r"<includeonly\b[^>]*>(.*?)</includeonly\s*>", re.IGNORECASE | re.DOTALL
 )
 _ONLY_INCLUDE_RE = re.compile(
-    r"<onlyinclude\\b[^>]*>(.*?)</onlyinclude\\s*>", re.IGNORECASE | re.DOTALL
+    r"<onlyinclude\b[^>]*>(.*?)</onlyinclude\s*>", re.IGNORECASE | re.DOTALL
 )
 
 
@@ -50,9 +51,9 @@ def transcluded_wikitext(text: str) -> str:
     """
     only_include_sections = _ONLY_INCLUDE_RE.findall(text)
     if only_include_sections:
-        text = "\\n".join(only_include_sections)
+        text = "\n".join(only_include_sections)
     text = _NO_INCLUDE_RE.sub("", text)
-    return _INCLUDE_ONLY_RE.sub(r"\\1", text)
+    return _INCLUDE_ONLY_RE.sub(r"\1", text)
 
 
 def extract_category_links(

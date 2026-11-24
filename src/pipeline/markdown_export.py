@@ -34,10 +34,8 @@ from pipeline.fandom_wikitext import (
 
 if TYPE_CHECKING:
     from collections.abc import Callable, Mapping
-    from xml.etree.ElementTree import Element
 
 
-REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
 MAX_REPORTED_REF_CLOSERS = 20
 INFOBOX_VALUE_CELL_COUNT = 2

@@ -11,7 +11,7 @@ from xml.etree.ElementTree import Element
 
 import defusedxml.ElementTree as SafeET
 
-REDIRECT_RE = re.compile(r"\\s*#redirect\\s*:?\\s*\\[\\[([^\\]|]+)", re.IGNORECASE)
+REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 
 @dataclass(frozen=True, slots=True)
 class DumpPage:

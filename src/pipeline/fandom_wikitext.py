@@ -82,9 +82,10 @@ _Element = etree._Element  # pyright: ignore[reportPrivateUsage]
 SENTINEL = "XSENT"
 
 
-def local(tag: str) -> str:
+def local(tag: object) -> str:
     """Return an XML element tag without its namespace."""
-    return tag.rsplit("}", 1)[-1]
+    value = tag.decode() if isinstance(tag, (bytes, bytearray)) else str(tag)
+    return value.rsplit("}", 1)[-1]
 
 
 def canon(title: str) -> str:

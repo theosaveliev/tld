@@ -113,6 +113,7 @@ def inner(el: _Element) -> str:
 
 
 def load_infobox_defs(ctx: object) -> dict[str, _Element]:
+    """Extract Portable Infobox definitions from the loaded template set."""
     template_context = cast(TemplateContext, ctx)
     defs: dict[str, _Element] = {}
     for name, body in template_context.templates.items():
@@ -280,7 +281,7 @@ def prepass(
     """Expand Portable Infobox calls and retain otherwise-missing templates."""
     code = mwparserfromhell.parse(text)
     template_context = cast(TemplateContext, ctx)
-    for tpl in code.filter_templates(recursive=False):
+    for tpl in code.filter_templates(recursive=False):  # pyright: ignore[reportUnknownMemberType]
         name = re.sub(r"<!--.*?-->", "", str(tpl.name), flags=re.S).strip()
         if not name or "{" in name or name[0] in "#:" or ":" in name or name.isupper():
             continue  # parser functions, magic words, transclusions, {{{params}}}
@@ -396,7 +397,7 @@ def thumbs_to_marked(text: str) -> str:
     visible text after pandoc (pandoc only keeps it as an alt/tooltip for inline images).
     """
     code = mwparserfromhell.parse(text)
-    for link in code.filter_wikilinks():
+    for link in code.filter_wikilinks():  # pyright: ignore[reportUnknownMemberType]
         m = re.match(r"(?is)\s*(?:file|image)\s*:\s*(.*?)\s*$", str(link.title))
         if not m or link.text is None:
             continue
@@ -481,6 +482,5 @@ def run_pandoc(pandoc: str, text: str) -> str:
     return r.stdout
 
 
-# --------------------------------------------------------------------------- #
-# site model: slugs, redirects, images
+
 # --------------------------------------------------------------------------- #

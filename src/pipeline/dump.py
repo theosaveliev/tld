@@ -15,6 +15,7 @@ if TYPE_CHECKING:
 
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 
+
 @dataclass(frozen=True, slots=True)
 class DumpPage:
     """A page extracted from one XML dump record."""

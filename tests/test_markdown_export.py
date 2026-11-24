@@ -11,8 +11,11 @@ from lxml import html as lhtml
 from pipeline import fandom_wikitext as fandom_wikitext_module
 from pipeline import markdown_export as markdown_export_module
 from pipeline.categories import collect_category_hierarchy
+from pipeline.dump import DumpPage, iter_dump_pages as _iter_dump_pages
 from pipeline.markdown_export import (
-    DumpPage,
+    ExportState,
+    PostprocessFunction,
+    PreprocessFunction,
     PageExportResult,
     RenderStats,
     WikiContext,
@@ -27,7 +30,6 @@ from pipeline.markdown_export import (
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _find_image_source,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
-    _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _lookup_title_filename,  # pyright: ignore[reportPrivateUsage]
     _markdown_image,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
@@ -92,6 +94,56 @@ def identity_postprocess(text: str, categories: list[str], stats: RenderStats) -
     """Return expanded text unchanged using the production callback signature."""
     _ = (categories, stats)
     return text
+
+
+def _export_page_for_test(
+    page: DumpPage,
+    title_to_filename: dict[str, str],
+    context: WikiContext,
+    preprocess: PreprocessFunction,
+    postprocess: PostprocessFunction,
+    infobox_defs: Mapping[str, object],
+    pandoc: str,
+    image_index: dict[str, Path],
+    material_usage_index: dict[
+        str, list[tuple[str, str, list[tuple[str, str]]]]
+    ],
+    image_dir: Path | None,
+    pages_dir: Path,
+    asset_dir: Path,
+    copied_images: dict[Path, str],
+    used_asset_names: dict[str, Path],
+    missing_links: set[str],
+    missing_images: set[str],
+    categories_seen: set[str],
+    source_url: str | None,
+) -> tuple[PageExportResult, int, int]:
+    """Build the shared export state for focused single-page conversion tests."""
+    state: ExportState = {
+        "title_to_filename": title_to_filename,
+        "context": context,
+        "articles": [page],
+        "material_usage_index": material_usage_index,
+        "redirects": {},
+        "redirect_count": 0,
+        "preprocess": preprocess,
+        "postprocess": postprocess,
+        "infobox_defs": infobox_defs,
+        "pandoc": pandoc,
+        "image_index": image_index,
+        "image_dir": image_dir,
+        "pages_dir": pages_dir,
+        "asset_dir": asset_dir,
+        "copied_images": copied_images,
+        "used_asset_names": used_asset_names,
+        "missing_links": missing_links,
+        "missing_images": missing_images,
+        "page_results": [],
+        "categories_seen": categories_seen,
+        "expansion_errors": 0,
+        "conversion_errors": 0,
+    }
+    return _export_one_page(page, state, source_url)
 
 
 def test_markdown_label_escapes_punctuation() -> None:
@@ -2913,7 +2965,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
@@ -2957,7 +3009,7 @@ def test_export_converts_rendered_html_when_gfm_conversion_fails(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
@@ -3002,7 +3054,7 @@ def test_export_converts_html_retained_by_pandoc_to_markdown(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
@@ -3052,7 +3104,7 @@ def test_export_normalizes_html_in_direct_source_fallback(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
@@ -3104,7 +3156,7 @@ def test_export_uses_html_to_markdown_when_direct_source_conversion_fails(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
@@ -3151,7 +3203,7 @@ def test_export_strips_html_when_all_pandoc_fallbacks_fail(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage(
             "Sample",
             0,
@@ -3218,7 +3270,7 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
 
-    result, expansion_errors, conversion_errors = _export_one_page(
+    result, expansion_errors, conversion_errors = _export_page_for_test(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),

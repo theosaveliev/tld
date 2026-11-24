@@ -8,14 +8,14 @@ from __future__ import annotations
 
 import unicodedata
 from collections import Counter, defaultdict
-from typing import TYPE_CHECKING, TypedDict, cast
+from typing import TYPE_CHECKING, TypedDict
 
-import defusedxml.ElementTree as SafeET
 
 if TYPE_CHECKING:
-    from collections.abc import Iterator
     from pathlib import Path
-    from xml.etree.ElementTree import Element
+
+from pipeline.dump import iter_dump_pages
+
 
 MAX_FILENAME_BYTES = 255
 MARKDOWN_SUFFIX = ".md"
@@ -117,49 +117,19 @@ def _allocate_filenames(titles: list[str]) -> list[FilenameMapping]:
 def extract_page_titles(
     dump_path: Path, *, include_redirects: bool = False
 ) -> tuple[list[str], int]:
-    """Stream a MediaWiki XML dump and return main-namespace page titles.
-
-    Redirect pages are counted but excluded by default because they should
-    normally resolve to their target article in the Markdown workspace.
-    """
+    """Return main-namespace page titles, optionally including redirects."""
     titles: list[str] = []
     redirects_seen = 0
-    events = cast(
-        "Iterator[tuple[str, Element]]",
-        SafeET.iterparse(str(dump_path), events=("start", "end")),
-    )
-
-    try:
-        _, root = next(events)
-    except StopIteration as exc:
-        msg = f"Wiki dump is empty: {dump_path}"
-        raise ValueError(msg) from exc
-
-    for event, element in events:
-        if event != "end" or element.tag.rsplit("}", 1)[-1] != "page":
+    for page in iter_dump_pages(dump_path):
+        if page.namespace != 0:
             continue
-
-        fields = {child.tag.rsplit("}", 1)[-1]: child for child in element}
-        title_element = fields.get("title")
-        namespace_element = fields.get("ns")
-        redirect_element = fields.get("redirect")
-
-        title = title_element.text if title_element is not None else None
-        namespace = namespace_element.text if namespace_element is not None else None
-
-        if title and namespace == "0":
-            if redirect_element is not None:
-                redirects_seen += 1
-                if include_redirects:
-                    titles.append(title)
-            else:
-                titles.append(title)
-
-        # Clearing the root after each completed page keeps memory usage low.
-        root.clear()
-
+        if page.redirect is not None:
+            redirects_seen += 1
+            if include_redirects:
+                titles.append(page.title)
+        else:
+            titles.append(page.title)
     return titles, redirects_seen
-
 
 def _append_issue(
     issues: list[FilenameIssue], kind: str, affected: list[FilenameMapping], detail: str

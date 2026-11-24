@@ -5,6 +5,8 @@ from typing import TYPE_CHECKING
 
 import defusedxml.ElementTree as ET
 
+from pipeline.dump import page_from_element
+
 if TYPE_CHECKING:
     from pathlib import Path
     from xml.etree.ElementTree import Element
@@ -92,16 +94,6 @@ def _read_namespaces(siteinfo: Element, wiki: Wiki) -> None:
     wiki.ns_lookup.setdefault("project talk", 5)
 
 
-def _read_page(element: Element) -> Page:
-    redirect = element.find(f"{XML_NS}redirect")
-    return Page(
-        title=element.findtext(f"{XML_NS}title") or "",
-        ns=int(element.findtext(f"{XML_NS}ns") or "0"),
-        text=element.findtext(f"{XML_NS}revision/{XML_NS}text") or "",
-        redirect=redirect.get("title") if redirect is not None else None,
-    )
-
-
 def load_wiki(dump: Path) -> Wiki:
     """Stream a MediaWiki XML export into memory."""
     wiki = Wiki()
@@ -118,7 +110,13 @@ def load_wiki(dump: Path) -> Wiki:
             _read_namespaces(element, wiki)
             root_element.clear()
         elif tag == f"{XML_NS}page":
-            page = _read_page(element)
-            wiki.pages[page.title] = page
+            record = page_from_element(element)
+            if record is not None:
+                wiki.pages[record.title] = Page(
+                    title=record.title,
+                    ns=record.namespace,
+                    text=record.text,
+                    redirect=record.redirect,
+                )
             root_element.clear()
     return wiki

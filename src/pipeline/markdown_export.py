@@ -4939,6 +4939,61 @@ def _load_renderer_pipeline(
         redirect_count,
     )
 
+
+def _prepare_export(
+    dump_path: Path, mapping_path: Path, output_dir: Path, image_dir: Path | None
+) -> ExportState:
+    """Load the dump context and initialize resources for the export."""
+    title_to_filename = load_filename_mapping(mapping_path)
+    (
+        context,
+        articles,
+        redirects,
+        preprocess,
+        postprocess,
+        infobox_defs,
+        selftest,
+        redirect_count,
+    ) = _load_renderer_pipeline(dump_path)
+
+    article_titles = {normalize_title(page.title) for page in articles}
+    missing_mappings = article_titles - title_to_filename.keys()
+    extra_mappings = title_to_filename.keys() - article_titles
+    if missing_mappings or extra_mappings:
+        detail = f"missing {len(missing_mappings)}; stale {len(extra_mappings)}"
+        raise ValueError(f"Filename mapping mismatch: {detail}.")
+
+    pages_dir = output_dir / "pages"
+    asset_dir = output_dir / "assets"
+    pages_dir.mkdir(parents=True, exist_ok=True)
+    pandoc = _pandoc_path()
+    selftest(pandoc)
+
+    return {
+        "title_to_filename": title_to_filename,
+        "context": context,
+        "articles": articles,
+        "material_usage_index": _build_material_usage_index(articles),
+        "redirects": redirects,
+        "redirect_count": redirect_count,
+        "preprocess": preprocess,
+        "postprocess": postprocess,
+        "infobox_defs": infobox_defs,
+        "pandoc": pandoc,
+        "image_index": _build_image_index(image_dir),
+        "image_dir": image_dir,
+        "pages_dir": pages_dir,
+        "asset_dir": asset_dir,
+        "copied_images": {},
+        "used_asset_names": {},
+        "missing_links": set(),
+        "missing_images": set(),
+        "page_results": [],
+        "categories_seen": set(),
+        "expansion_errors": 0,
+        "conversion_errors": 0,
+    }
+
 CAMBIUM_HEADING_RE = re.compile(
     r"^ {0,3}(?P<marks>#{1,6})[ \t]+(?P<label>.*?)[ \t]*#*[ \t]*$"
 )

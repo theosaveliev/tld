@@ -265,7 +265,7 @@ def render_infobox(
 ) -> str:
     """Render a Portable Infobox definition as an HTML table fragment."""
     rows = list(_iter_infobox_rows(root, params, page_title, expanded))
-    title = next((row[1] for row in rows if row[0] == "title"), "")
+    title = next((row[1] for row in reversed(rows) if row[0] == "title"), "")
     table = ['<table class="infobox">']
     if title:
         table.append(f"<caption>{esc(one_line(title))}</caption>")
